@@ -23,6 +23,9 @@ jobs:
         with:
           gradle-version: '8.5'
 
+      - name: Grant execute permission for gradlew
+        run: chmod +x gradlew
+
       - name: Build Debug APK
         working-directory: ./ # or ./RandomBibleVerse if nested
         run: ./gradlew :app:assembleDebug --no-daemon
