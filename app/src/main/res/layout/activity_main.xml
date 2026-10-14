@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F7F5F0">
+
+    <!-- Bible Inspired Background Wallpaper -->
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:alpha="0.35"
+        android:src="@android:drawable/ic_menu_gallery" />
+
+    <!-- Verse Card -->
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_margin="24dp"
+        app:cardCornerRadius="16dp"
+        app:cardElevation="6dp"
+        app:cardBackgroundColor="#FFFFF8">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="24dp">
+
+            <TextView
+                android:id="@+id/tvVerseText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="For I know the plans I have for you..."
+                android:textSize="20sp"
+                android:textColor="#2C3E50"
+                android:fontFamily="serif"
+                android:textStyle="italic"
+                android:alignmentMode="alignBounds" />
+
+            <TextView
+                android:id="@+id/tvVerseRef"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="— Jeremiah 29:11"
+                android:textSize="14sp"
+                android:textColor="#7F8C8D"
+                android:textStyle="bold"
+                android:gravity="end" />
+
+            <Button
+                android:id="@+id/btnRefresh"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                android:text="New Random Verse"
+                android:backgroundTint="#8B5A2B" />
+        </LinearLayout>
+    </com.google.android.material.card.MaterialCardView>
+</RelativeLayout>
