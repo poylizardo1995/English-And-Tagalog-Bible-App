@@ -14,7 +14,7 @@ object BibleRepository {
         
         try {
             // Add all your JSON file names to this list
-            val fileNames = listOf("genesis_ch1.json", "genesis_ch2.json", "genesis_ch3.json")
+            val fileNames = listOf("genesis_ch1.json", "genesis_ch2.json", "genesis_ch3.json", "genesis_ch4.json", "genesis_ch5.json")
 
             for (fileName in fileNames) {
                 try {
