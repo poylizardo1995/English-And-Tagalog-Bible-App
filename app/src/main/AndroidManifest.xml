@@ -6,9 +6,11 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@android:drawable/ic_menu_compass"
-        android:label="Random Bible Verse"
-        android:theme="@style/Theme.RandomBibleVerse">
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.RandomBibleVerse"> <!-- Ensure this matches themes.xml -->
 
         <activity
             android:name=".MainActivity"
