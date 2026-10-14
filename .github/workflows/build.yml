@@ -1,4 +1,4 @@
-name: Build Bible Random Verse APK
+name: Build Random Bible Verse APK
 
 on:
   push:
@@ -24,7 +24,8 @@ jobs:
           gradle-version: '8.5'
 
       - name: Build Debug APK
-        run: gradle assembleDebug --no-daemon
+        working-directory: ./ # or ./RandomBibleVerse if nested
+        run: ./gradlew :app:assembleDebug --no-daemon
 
       - name: Upload APK Artifact
         uses: actions/upload-artifact@v4
