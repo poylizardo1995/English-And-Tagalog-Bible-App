@@ -87,6 +87,18 @@
                 app:backgroundTint="#6E472C"
                 app:cornerRadius="12dp" />
 
+            <!-- Choose Chapter & Verse Button -->
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnSelectManual"
+                style="?attr/materialButtonOutlinedStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="Choose Chapter &amp; Verse"
+                android:textColor="#6E472C"
+                app:strokeColor="#6E472C"
+                app:cornerRadius="12dp" />
+
         </LinearLayout>
     </com.google.android.material.card.MaterialCardView>
 </RelativeLayout>
