@@ -114,15 +114,18 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             
             btnToggleTheme.text = "☀️ Switch to Day View"
             btnToggleTheme.setTextColor(Color.parseColor("#D7CCC8"))
-            btnToggleTheme.strokeColor = Color.parseColor("#D7CCC8")
+            btnToggleTheme.strokeColor = ColorStateList.valueOf(Color.parseColor("#D7CCC8"))
             
             btnRefresh.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#8D6E63"))
+            
             btnCopy.setTextColor(Color.parseColor("#D7CCC8"))
-            btnCopy.strokeColor = Color.parseColor("#D7CCC8")
+            btnCopy.strokeColor = ColorStateList.valueOf(Color.parseColor("#D7CCC8"))
+            
             btnShare.setTextColor(Color.parseColor("#D7CCC8"))
-            btnShare.strokeColor = Color.parseColor("#D7CCC8")
+            btnShare.strokeColor = ColorStateList.valueOf(Color.parseColor("#D7CCC8"))
+            
             btnSelectManual.setTextColor(Color.parseColor("#D7CCC8"))
-            btnSelectManual.strokeColor = Color.parseColor("#D7CCC8")
+            btnSelectManual.strokeColor = ColorStateList.valueOf(Color.parseColor("#D7CCC8"))
 
         } else {
             // --- DAY MODE COLORS (Original Warm Theme) ---
@@ -135,15 +138,18 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             
             btnToggleTheme.text = "🌙 Switch to Night View"
             btnToggleTheme.setTextColor(Color.parseColor("#6E472C"))
-            btnToggleTheme.strokeColor = Color.parseColor("#6E472C")
+            btnToggleTheme.strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
             
             btnRefresh.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#6E472C"))
+            
             btnCopy.setTextColor(Color.parseColor("#6E472C"))
-            btnCopy.strokeColor = Color.parseColor("#6E472C")
+            btnCopy.strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
+            
             btnShare.setTextColor(Color.parseColor("#6E472C"))
-            btnShare.strokeColor = Color.parseColor("#6E472C")
+            btnShare.strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
+            
             btnSelectManual.setTextColor(Color.parseColor("#6E472C"))
-            btnSelectManual.strokeColor = Color.parseColor("#6E472C")
+            btnSelectManual.strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
         }
     }
 
