@@ -68,8 +68,9 @@ object BibleRepository {
         return verses
             .filter { it.reference.startsWith(bookName) }
             .map { 
-                val parts = it.reference.split(":")
-                parts[0].substringBeforeLast(" ") // Extracts "Genesis 1" from "Genesis 1:1"
+                // Extracts "Genesis 1" properly from references like "Genesis 1:1 (KJV)"
+                val referencePart = it.reference.substringBefore(":")
+                referencePart
             }
             .distinct()
     }
@@ -77,13 +78,13 @@ object BibleRepository {
     // 3. Filters and returns all verses belonging to a specific chapter
     fun getVersesForChapter(chapterName: String, context: Context): List<String> {
         loadVerses(context)
-        // Kept for backward compatibility if needed
-        return verses.filter { it.reference.startsWith(chapterName) }.map { it.reference }
+        return verses.filter { it.reference.startsWith("$chapterName:") }.map { it.reference }
     }
 
     // 4. Returns the actual BibleVerse objects for a specific chapter
     fun getVerseObjectsForChapter(chapterName: String, context: Context): List<BibleVerse> {
         loadVerses(context)
-        return verses.filter { it.reference.startsWith(chapterName) }
+        // Ensures it matches the exact chapter prefix (e.g., "Genesis 1:") to prevent overlaps
+        return verses.filter { it.reference.startsWith("$chapterName:") }
     }
 }
