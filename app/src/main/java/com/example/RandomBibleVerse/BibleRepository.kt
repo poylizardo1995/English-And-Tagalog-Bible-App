@@ -137,4 +137,30 @@ object BibleRepository {
         loadVerses(context)
         return verses.filter { it.reference.startsWith("$chapterName:") }
     }
+
+    // 5. Finds the next verse in the current chapter
+    fun getNextVerse(currentVerse: BibleVerse, context: Context): BibleVerse? {
+        loadVerses(context)
+        val chapterPart = currentVerse.reference.substringBefore(":")
+        val chapterVerses = getVerseObjectsForChapter(chapterPart, context)
+        val currentIndex = chapterVerses.indexOfFirst { it.reference == currentVerse.reference }
+        return if (currentIndex != -1 && currentIndex < chapterVerses.size - 1) {
+            chapterVerses[currentIndex + 1]
+        } else {
+            null
+        }
+    }
+
+    // 6. Finds the previous verse in the current chapter
+    fun getPreviousVerse(currentVerse: BibleVerse, context: Context): BibleVerse? {
+        loadVerses(context)
+        val chapterPart = currentVerse.reference.substringBefore(":")
+        val chapterVerses = getVerseObjectsForChapter(chapterPart, context)
+        val currentIndex = chapterVerses.indexOfFirst { it.reference == currentVerse.reference }
+        return if (currentIndex > 0) {
+            chapterVerses[currentIndex - 1]
+        } else {
+            null
+        }
+    }
 }
