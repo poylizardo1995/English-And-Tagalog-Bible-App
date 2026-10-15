@@ -59,9 +59,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             loadAndSpeakVerse(true) // Load, animate, and speak aloud
         }
 
-        // 2. Choose Chapter & Verse Button
+        // 2. Choose Book, Chapter & Verse Button
         btnSelectManual.setOnClickListener {
-            showChapterSelectionDialog()
+            showBookSelectionDialog()
         }
 
         // 3. Copy Button
@@ -153,12 +153,30 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         }
     }
 
-    // Dialog 1: Choose Chapter
-    private fun showChapterSelectionDialog() {
-        val chapters = BibleRepository.getAvailableChapters().toTypedArray()
+    // Dialog 1: Choose Book
+    private fun showBookSelectionDialog() {
+        val books = BibleRepository.getAvailableBooks(this).toTypedArray()
         
+        if (books.isEmpty()) {
+            Toast.makeText(this, "No books available", Toast.LENGTH_SHORT).show()
+            return
+        }
+
         AlertDialog.Builder(this)
-            .setTitle("Select Chapter")
+            .setTitle("Select Book")
+            .setItems(books) { _, which ->
+                val selectedBook = books[which]
+                showChapterSelectionDialog(selectedBook)
+            }
+            .show()
+    }
+
+    // Dialog 2: Choose Chapter from Book
+    private fun showChapterSelectionDialog(bookName: String) {
+        val chapters = BibleRepository.getChaptersForBook(bookName, this).toTypedArray()
+
+        AlertDialog.Builder(this)
+            .setTitle("Select Chapter in $bookName")
             .setItems(chapters) { _, which ->
                 val selectedChapter = chapters[which]
                 showVerseSelectionDialog(selectedChapter)
@@ -166,9 +184,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             .show()
     }
 
-    // Dialog 2: Choose Verse from Chapter
+    // Dialog 3: Choose Verse from Chapter
     private fun showVerseSelectionDialog(chapterName: String) {
-        val chapterVerses = BibleRepository.getVersesForChapter(chapterName, this)
+        val chapterVerses = BibleRepository.getVerseObjectsForChapter(chapterName, this)
         val verseTitles = chapterVerses.map { it.reference }.toTypedArray()
 
         if (verseTitles.isEmpty()) {
