@@ -70,7 +70,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         btnCopy.setOnClickListener {
             val verseText = tvVerseText.text.toString()
             val verseRef = tvVerseRef.text.toString()
-            val fullText = "$verseText$verseRef"
+            val fullText = "$verseText $verseRef"
 
             val clipboard = getSystemService(Context.CLIPBOARD_SERVICE) as ClipboardManager
             val clip = ClipData.newPlainText("Bible Verse", fullText)
@@ -236,4 +236,48 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         // Smooth fade-in animation
         val fadeIn = AlphaAnimation(0.0f, 1.0f).apply { duration = 400 }
         tvVerseText.startAnimation(fadeIn)
-        tvVerse
+        tvVerseRef.startAnimation(fadeIn)
+    }
+
+    // Random verse picker (silent load)
+    private fun loadVerse() {
+        val verse = BibleRepository.getRandomVerse(this)
+        displayVerse(verse)
+    }
+
+    // Text-to-Speech handler (triggered manually by Speak button)
+    private fun speakVerse(verse: BibleVerse) {
+        val isTagalog = isTagalogText(verse.text)
+        val locale = if (isTagalog) Locale("fil", "PH") else Locale.US
+
+        val result = tts?.setLanguage(locale)
+        if (result == TextToSpeech.LANG_MISSING_DATA || result == TextToSpeech.LANG_NOT_SUPPORTED) {
+            tts?.setLanguage(Locale.getDefault())
+        }
+
+        val speechText = "${verse.text}. Reference: ${verse.reference}"
+        tts?.speak(speechText, TextToSpeech.QUEUE_FLUSH, null, null)
+    }
+
+    private fun isTagalogText(text: String): Boolean {
+        val tagalogKeywords = listOf("ang", "mga", "sa", "at", "na", "ng", "ay", "kayo", "tayo", "ka", "mo", "ko", "ni", "para", "isang", "rin", "din")
+        val words = text.lowercase().split(Regex("\\s+"))
+        val matchCount = words.count { tagalogKeywords.contains(it) }
+        return matchCount >= 2
+    }
+
+    override fun onInit(status: Int) {
+        if (status == TextToSpeech.SUCCESS) {
+            tts?.setLanguage(Locale.US)
+            isTtsReady = true
+        }
+    }
+
+    override fun onDestroy() {
+        tts?.let {
+            it.stop()
+            it.shutdown()
+        }
+        super.onDestroy()
+    }
+}
