@@ -33,6 +33,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     private lateinit var btnPrev: MaterialButton
     private lateinit var btnNext: MaterialButton
     private lateinit var btnAutoPlay: MaterialButton
+    private lateinit var btnAbout: MaterialButton
     private lateinit var verseCard: MaterialCardView
     
     private var tts: TextToSpeech? = null
@@ -54,10 +55,11 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         btnSelectManual = findViewById(R.id.btnSelectManual)
         btnToggleTheme = findViewById(R.id.btnToggleTheme)
         
-        // Navigation & Audio Buttons
+        // Navigation, Audio & About Buttons
         btnPrev = findViewById(R.id.btnPrev)
         btnNext = findViewById(R.id.btnNext)
         btnAutoPlay = findViewById(R.id.btnAutoPlay)
+        btnAbout = findViewById(R.id.btnAbout)
         
         verseCard = findViewById(R.id.verseCard)
 
@@ -161,10 +163,29 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             applyTheme()
         }
 
+        // 10. About & Credits Button
+        btnAbout.setOnClickListener {
+            showAboutDialog()
+        }
+
         LockScreenVerseService.showLockScreenNotification(this)
 
         // Apply default theme colors immediately on startup
         applyTheme()
+    }
+
+    private fun showAboutDialog() {
+        AlertDialog.Builder(this)
+            .setTitle("About & Credits")
+            .setMessage(
+                "English & Tagalog Bible App\n\n" +
+                "Developed by: Poy Lizardo\n" +
+                "Copyright © 2026 Poy Lizardo. All Rights Reserved.\n\n" +
+                "Scripture text provided via public domain translations (KJV / Ang Biblia 1905).\n" +    
+                "Github: https://github.com/poylizardo1995"
+            )
+            .setPositiveButton("OK") { dialog, _ -> dialog.dismiss() }
+            .show()
     }
 
     private fun startAutoPlay() {
@@ -203,7 +224,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             btnRefresh.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#8D6E63"))
             btnRefresh.setTextColor(Color.parseColor("#121212"))
             
-            val nightButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay)
+            val nightButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout)
             for (btn in nightButtons) {
                 btn.setTextColor(Color.parseColor("#D7CCC8"))
                 btn.strokeColor = ColorStateList.valueOf(Color.parseColor("#D7CCC8"))
@@ -225,7 +246,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             btnRefresh.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#6E472C"))
             btnRefresh.setTextColor(Color.WHITE)
             
-            val dayButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay)
+            val dayButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout)
             for (btn in dayButtons) {
                 btn.setTextColor(Color.parseColor("#6E472C"))
                 btn.strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
