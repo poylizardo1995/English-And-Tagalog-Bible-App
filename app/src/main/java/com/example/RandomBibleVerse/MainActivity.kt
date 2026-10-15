@@ -98,6 +98,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         }
 
         LockScreenVerseService.showLockScreenNotification(this)
+
+        // Apply default theme colors immediately on startup
+        applyTheme()
     }
 
     private fun applyTheme() {
@@ -253,7 +256,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         }
     }
 
-    override fun onDestroy() {
+    override onDestroy() {
         tts?.let {
             it.stop()
             it.shutdown()
