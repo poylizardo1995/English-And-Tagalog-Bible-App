@@ -55,47 +55,57 @@
                 android:layout_marginTop="20dp"
                 android:orientation="horizontal"
                 android:gravity="center">
-
+                
+                <!-- Copy Button -->
                 <com.google.android.material.button.MaterialButton
                     android:id="@+id/btnCopy"
                     style="?attr/materialButtonOutlinedStyle"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Copy"
+                    android:text="💾 Copy"
                     android:textColor="#6E472C"
                     app:strokeColor="#6E472C"
                     android:layout_marginEnd="8dp" />
-
+                
+                <!-- Share Button -->
                 <com.google.android.material.button.MaterialButton
                     android:id="@+id/btnShare"
                     style="?attr/materialButtonOutlinedStyle"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Share"
+                    android:text="🔗 Share"
                     android:textColor="#6E472C"
                     app:strokeColor="#6E472C" />
+
+                <!-- Speak Button -->
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/btnSpeak"
+                    style="?attr/materialButtonOutlinedStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="🔊 Speak"/>
             </LinearLayout>
 
-            <!-- New Random Verse Button -->
+            <!-- New Random Bible Verse Button -->
             <com.google.android.material.button.MaterialButton
                 android:id="@+id/btnRefresh"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="12dp"
-                android:text="New Random Verse"
+                android:text="🔀 New Bible Verse"
                 android:textSize="16sp"
                 android:paddingVertical="12dp"
                 app:backgroundTint="#6E472C"
                 app:cornerRadius="12dp" />
 
-            <!-- Choose Chapter & Verse Button -->
+            <!-- Choose Bible Chapter & Verse Button -->
             <com.google.android.material.button.MaterialButton
                 android:id="@+id/btnSelectManual"
                 style="?attr/materialButtonOutlinedStyle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
-                android:text="Choose Chapter &amp; Verse"
+                android:text="Choose Bible Chapter &amp; Verse"
                 android:textColor="#6E472C"
                 app:strokeColor="#6E472C"
                 app:cornerRadius="12dp" />
