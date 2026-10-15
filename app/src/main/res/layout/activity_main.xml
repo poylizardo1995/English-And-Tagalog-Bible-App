@@ -48,7 +48,7 @@
                 android:textStyle="bold"
                 android:gravity="end" />
 
-            <!-- Action Buttons Row (Equal Width Distribution) -->
+            <!-- Action Buttons Row (Equal Width & Compact Padding to Prevent Wrapping) -->
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -64,9 +64,13 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:text="💾 Copy"
+                    android:textSize="12sp"
+                    android:insetLeft="0dp"
+                    android:insetRight="0dp"
+                    android:paddingHorizontal="2dp"
                     android:textColor="#6E472C"
                     app:strokeColor="#6E472C"
-                    android:layout_marginEnd="4dp" />
+                    android:layout_marginEnd="2dp" />
                 
                 <!-- Share Button -->
                 <com.google.android.material.button.MaterialButton
@@ -76,10 +80,14 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:text="🔗 Share"
+                    android:textSize="12sp"
+                    android:insetLeft="0dp"
+                    android:insetRight="0dp"
+                    android:paddingHorizontal="2dp"
                     android:textColor="#6E472C"
                     app:strokeColor="#6E472C"
-                    android:layout_marginStart="4dp"
-                    android:layout_marginEnd="4dp" />
+                    android:layout_marginStart="2dp"
+                    android:layout_marginEnd="2dp" />
 
                 <!-- Speak Button -->
                 <com.google.android.material.button.MaterialButton
@@ -89,9 +97,13 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:text="🔊 Speak"
+                    android:textSize="12sp"
+                    android:insetLeft="0dp"
+                    android:insetRight="0dp"
+                    android:paddingHorizontal="2dp"
                     android:textColor="#6E472C"
                     app:strokeColor="#6E472C"
-                    android:layout_marginStart="4dp" />
+                    android:layout_marginStart="2dp" />
             </LinearLayout>
 
             <!-- New Random Bible Verse Button -->
@@ -112,24 +124,4 @@
                 style="?attr/materialButtonOutlinedStyle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="8dp"
-                android:text="📖 Choose Bible Chapter &amp; Verse"
-                android:textColor="#6E472C"
-                app:strokeColor="#6E472C"
-                app:cornerRadius="12dp" />
-
-            <!-- Theme Toggle Button (Day / Night View) -->
-            <com.google.android.material.button.MaterialButton
-                android:id="@+id/btnToggleTheme"
-                style="?attr/materialButtonOutlinedStyle"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="8dp"
-                android:text="🌙 Switch to Night View"
-                android:textColor="#6E472C"
-                app:strokeColor="#6E472C"
-                app:cornerRadius="12dp" />
-
-        </LinearLayout>
-    </com.google.android.material.card.MaterialCardView>
-</RelativeLayout>
+                android:layout_marginTop="8dp
