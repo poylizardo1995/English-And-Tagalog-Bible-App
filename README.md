@@ -1,2 +1,2 @@
-# RandomBibleVerse-Ad-free-All-Free-Android-App-Project
+# Random Bible Verse
 Ad-free, No Hidden Fees, All Free &amp; Safe Android App
