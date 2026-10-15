@@ -106,12 +106,64 @@
                     android:layout_marginStart="2dp" />
             </LinearLayout>
 
+            <!-- Navigation Row (Previous & Next Verse Buttons) -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:orientation="horizontal"
+                android:weightSum="2">
+
+                <!-- Previous Verse Button -->
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/btnPrev"
+                    style="?attr/materialButtonOutlinedStyle"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="◀ Prev Verse"
+                    android:textSize="12sp"
+                    android:insetLeft="0dp"
+                    android:insetRight="0dp"
+                    android:textColor="#6E472C"
+                    app:strokeColor="#6E472C"
+                    android:layout_marginEnd="2dp" />
+
+                <!-- Next Verse Button -->
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/btnNext"
+                    style="?attr/materialButtonOutlinedStyle"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Next Verse ▶"
+                    android:textSize="12sp"
+                    android:insetLeft="0dp"
+                    android:insetRight="0dp"
+                    android:textColor="#6E472C"
+                    app:strokeColor="#6E472C"
+                    android:layout_marginStart="2dp" />
+            </LinearLayout>
+
+            <!-- Auto-Play Continuous Listen Button -->
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnAutoPlay"
+                style="?attr/materialButtonOutlinedStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp"
+                android:text="▶ Auto-Play"
+                android:textSize="14sp"
+                android:textColor="#6E472C"
+                app:strokeColor="#6E472C"
+                app:cornerRadius="12dp" />
+
             <!-- New Random Bible Verse Button -->
             <com.google.android.material.button.MaterialButton
                 android:id="@+id/btnRefresh"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="12dp"
+                android:layout_marginTop="8dp"
                 android:text="🔀 New Random Bible Verse"
                 android:textSize="16sp"
                 android:paddingVertical="12dp"
