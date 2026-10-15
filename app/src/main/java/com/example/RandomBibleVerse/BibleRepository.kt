@@ -37,14 +37,14 @@ object BibleRepository {
             val assetFiles = context.assets.list("") ?: emptyArray()
             val targetSuffix = "_${translation.suffix}.json"
             
-            // Filter files that match the new naming format (e.g., "genesis_ch1_kjv.json")
+            // Filter files that match the version naming format (e.g., "genesis_ch1_kjv.json")
             val matchingFiles = assetFiles.filter { it.endsWith(targetSuffix) }
 
             // Fallback for older file names if new ones aren't added yet (e.g., "genesis_ch1.json")
             val filesToLoad = if (matchingFiles.isNotEmpty()) {
                 matchingFiles
             } else {
-                assetFiles.filter { it.startsWith("genesis_ch") && it.endsWith(".json") }
+                assetFiles.filter { it.contains("_ch") && it.endsWith(".json") }
             }
 
             for (fileName in filesToLoad) {
