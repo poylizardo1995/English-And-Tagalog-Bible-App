@@ -13,19 +13,23 @@
   },
   {
     "text": "And Abel, he also brought of the firstlings of his flock and of the fat thereof. And the LORD had respect unto Abel and to his offering:",
-    "reference": "Genesis 4:4 (KJV)"
+    "reference": "Genesis 4:4 (KJV)",
+    "connected_to": "Genesis 4:5"
   },
   {
     "text": "But unto Cain and to his offering he had not respect. And Cain was very wroth, and his countenance fell.",
-    "reference": "Genesis 4:5 (KJV)"
+    "reference": "Genesis 4:5 (KJV)",
+    "connected_from": "Genesis 4:4"
   },
   {
-    "text": "And the LORD said unto Cain, “Why art thou wroth? and why is thy countenance fallen?”",
-    "reference": "Genesis 4:6 (KJV)"
+    "text": "And the LORD said unto Cain, “Why art thou wroth? and why is thy countenance fallen?",
+    "reference": "Genesis 4:6 (KJV)",
+    "connected_to": "Genesis 4:7"
   },
   {
-    "text": "“If thou doest well, shalt thou not be accepted? and if thou doest not well, sin lieth at the door. And unto thee shall be his desire, and thou shalt rule over him.”",
-    "reference": "Genesis 4:7 (KJV)"
+    "text": "If thou doest well, shalt thou not be accepted? and if thou doest not well, sin lieth at the door. And unto thee shall be his desire, and thou shalt rule over him.”",
+    "reference": "Genesis 4:7 (KJV)",
+    "connected_from": "Genesis 4:6"
   },
   {
     "text": "And Cain talked with Abel his brother: and it came to pass, when they were in the field, that Cain rose up against Abel his brother, and slew him.",
@@ -36,24 +40,30 @@
     "reference": "Genesis 4:9 (KJV)"
   },
   {
-    "text": "And he said, “What hast thou done? the voice of thy brother’s blood crieth unto me from the ground.”",
-    "reference": "Genesis 4:10 (KJV)"
+    "text": "And he said, “What hast thou done? the voice of thy brother’s blood crieth unto me from the ground.",
+    "reference": "Genesis 4:10 (KJV)",
+    "connected_to": "Genesis 4:11"
   },
   {
-    "text": "“And now art thou cursed from the earth, which hath opened her mouth to receive thy brother’s blood from thy hand;”",
-    "reference": "Genesis 4:11 (KJV)"
+    "text": "And now art thou cursed from the earth, which hath opened her mouth to receive thy brother’s blood from thy hand;",
+    "reference": "Genesis 4:11 (KJV)",
+    "connected_from": "Genesis 4:10",
+    "connected_to": "Genesis 4:12"
   },
   {
-    "text": "“When thou tillest the ground, it shall not henceforth yield unto thee her strength; a fugitive and a vagabond shalt thou be in the earth.”",
-    "reference": "Genesis 4:12 (KJV)"
+    "text": "When thou tillest the ground, it shall not henceforth yield unto thee her strength; a fugitive and a vagabond shalt thou be in the earth.”",
+    "reference": "Genesis 4:12 (KJV)",
+    "connected_from": "Genesis 4:11"
   },
   {
-    "text": "And Cain said unto the LORD, “My punishment is greater than I can bear.”",
-    "reference": "Genesis 4:13 (KJV)"
+    "text": "And Cain said unto the LORD, “My punishment is greater than I can bear.",
+    "reference": "Genesis 4:13 (KJV)",
+    "connected_to": "Genesis 4:14"
   },
   {
-    "text": "“Behold, thou hast driven me out this day from the face of the earth; and from thy face shall I be hid; and I shall be a fugitive and a vagabond in the earth; and it shall come to pass, that every one that findeth me shall slay me.”",
-    "reference": "Genesis 4:14 (KJV)"
+    "text": "Behold, thou hast driven me out this day from the face of the earth; and from thy face shall I be hid; and I shall be a fugitive and a vagabond in the earth; and it shall come to pass, that every one that findeth me shall slay me.”",
+    "reference": "Genesis 4:14 (KJV)",
+    "connected_from": "Genesis 4:13"
   },
   {
     "text": "And the LORD said unto him, “Therefore whosoever slayeth Cain, vengeance shall be taken on him sevenfold.” And the LORD set a mark upon Cain, lest any finding him should kill him.",
@@ -88,12 +98,14 @@
     "reference": "Genesis 4:22 (KJV)"
   },
   {
-    "text": "And Lamech said unto his wives, “Adah and Zillah, Hear my voice; ye wives of Lamech, hearken unto my speech: for I have slain a man to my wounding, and a young man to my hurt.”",
-    "reference": "Genesis 4:23 (KJV)"
+    "text": "And Lamech said unto his wives, “Adah and Zillah, Hear my voice; ye wives of Lamech, hearken unto my speech: for I have slain a man to my wounding, and a young man to my hurt.",
+    "reference": "Genesis 4:23 (KJV)",
+    "connected_to": "Genesis 4:24"
   },
   {
-    "text": "“If Cain shall be avenged sevenfold, truly Lamech seventy and sevenfold.”",
-    "reference": "Genesis 4:24 (KJV)"
+    "text": "If Cain shall be avenged sevenfold, truly Lamech seventy and sevenfold.”",
+    "reference": "Genesis 4:24 (KJV)",
+    "connected_from": "Genesis 4:23"
   },
   {
     "text": "And Adam knew his wife again; and she bare a son, and called his name Seth: “For God,” said she, “hath appointed me another seed instead of Abel, whom Cain slew.”",
