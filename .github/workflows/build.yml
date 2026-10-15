@@ -28,7 +28,7 @@ jobs:
 
       - name: Build Debug APK
         working-directory: ./ # or ./RandomBibleVerse if nested
-        run: ./gradlew :app:assembleDebug --no-daemon
+        run: ./gradlew clean :app:assembleDebug --no-daemon
 
       - name: Upload APK Artifact
         uses: actions/upload-artifact@v4
