@@ -176,12 +176,12 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
     private fun showAboutDialog() {
         AlertDialog.Builder(this)
-            .setTitle("About & Credits")
+            .setTitle("About")
             .setMessage(
                 "English and Tagalog Bible v1.1\n\n" +
                 "Software Developer: Aldrin Paul Sipoy Lizardo\n\n" +
-                "Copyright © 2026 Poy Lizardo. All Rights Reserved. To God be the Glory!\n\n" +
-                "Scripture Text Provided Via Public Domain Translations: King James Version (KJV), Ang Dating Biblia 1905 (ADB1905).\n\n" +    
+                "Copyright © 2026. All Rights Reserved. To God be the glory!\n\n" +
+                "Scripture Text Provided via Public Domain Translations: King James Version (KJV), Ang Dating Biblia 1905 (ADB1905).\n\n" +    
                 "Github: https://github.com/poylizardo1995\n\n"
             )
             .setPositiveButton("OK") { dialog, _ -> dialog.dismiss() }
