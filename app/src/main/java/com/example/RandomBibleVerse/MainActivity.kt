@@ -26,6 +26,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     private lateinit var btnRefresh: Button
     private lateinit var btnCopy: MaterialButton
     private lateinit var btnShare: MaterialButton
+    private lateinit var btnSpeak: MaterialButton
     private lateinit var btnSelectManual: MaterialButton
     private lateinit var btnToggleTheme: MaterialButton
     private lateinit var verseCard: MaterialCardView
@@ -44,6 +45,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         btnRefresh = findViewById(R.id.btnRefresh)
         btnCopy = findViewById(R.id.btnCopy)
         btnShare = findViewById(R.id.btnShare)
+        btnSpeak = findViewById(R.id.btnSpeak)
         btnSelectManual = findViewById(R.id.btnSelectManual)
         btnToggleTheme = findViewById(R.id.btnToggleTheme)
         verseCard = findViewById(R.id.verseCard)
@@ -52,11 +54,11 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         tts = TextToSpeech(this, this)
 
         // Load initial verse silently
-        loadAndSpeakVerse(false)
+        loadVerse()
 
         // 1. New Random Verse Button
         btnRefresh.setOnClickListener {
-            loadAndSpeakVerse(true) // Load, animate, and speak aloud
+            loadVerse() // Loads and animates silently
         }
 
         // 2. Choose Book, Chapter & Verse Button
@@ -68,7 +70,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         btnCopy.setOnClickListener {
             val verseText = tvVerseText.text.toString()
             val verseRef = tvVerseRef.text.toString()
-            val fullText = "$verseText $verseRef"
+            val fullText = "$verseText$verseRef"
 
             val clipboard = getSystemService(Context.CLIPBOARD_SERVICE) as ClipboardManager
             val clip = ClipData.newPlainText("Bible Verse", fullText)
@@ -91,7 +93,18 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             startActivity(Intent.createChooser(shareIntent, "Share Verse via"))
         }
 
-        // 5. Day/Night Theme Toggle Button
+        // 5. Speak Button (Manual TTS trigger)
+        btnSpeak.setOnClickListener {
+            currentVerse?.let { verse ->
+                if (isTtsReady) {
+                    speakVerse(verse)
+                } else {
+                    Toast.makeText(this, "Speech engine is still initializing...", Toast.LENGTH_SHORT).show()
+                }
+            }
+        }
+
+        // 6. Day/Night Theme Toggle Button
         btnToggleTheme.setOnClickListener {
             isDarkMode = !isDarkMode
             applyTheme()
@@ -127,6 +140,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             
             btnShare.setTextColor(Color.parseColor("#D7CCC8"))
             btnShare.strokeColor = ColorStateList.valueOf(Color.parseColor("#D7CCC8"))
+
+            btnSpeak.setTextColor(Color.parseColor("#D7CCC8"))
+            btnSpeak.strokeColor = ColorStateList.valueOf(Color.parseColor("#D7CCC8"))
             
             btnSelectManual.setTextColor(Color.parseColor("#D7CCC8"))
             btnSelectManual.strokeColor = ColorStateList.valueOf(Color.parseColor("#D7CCC8"))
@@ -152,6 +168,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             
             btnShare.setTextColor(Color.parseColor("#6E472C"))
             btnShare.strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
+
+            btnSpeak.setTextColor(Color.parseColor("#6E472C"))
+            btnSpeak.strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
             
             btnSelectManual.setTextColor(Color.parseColor("#6E472C"))
             btnSelectManual.strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
@@ -203,13 +222,13 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             .setTitle("Select Verse in $chapterName")
             .setItems(verseTitles) { _, which ->
                 val selectedVerse = chapterVerses[which]
-                displayVerse(selectedVerse, speakAloud = true)
+                displayVerse(selectedVerse) // Display silently without auto-reading
             }
             .show()
     }
 
-    // Helper function to update the screen with a specific verse
-    private fun displayVerse(verse: BibleVerse, speakAloud: Boolean) {
+    // Helper function to update the screen with a specific verse silently
+    private fun displayVerse(verse: BibleVerse) {
         currentVerse = verse
         tvVerseText.text = verse.text
         tvVerseRef.text = "— ${verse.reference}"
@@ -217,52 +236,4 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         // Smooth fade-in animation
         val fadeIn = AlphaAnimation(0.0f, 1.0f).apply { duration = 400 }
         tvVerseText.startAnimation(fadeIn)
-        tvVerseRef.startAnimation(fadeIn)
-
-        if (speakAloud && isTtsReady) {
-            speakVerse(verse)
-        }
-    }
-
-    // Random verse picker
-    private fun loadAndSpeakVerse(speakAloud: Boolean) {
-        val verse = BibleRepository.getRandomVerse(this)
-        displayVerse(verse, speakAloud)
-    }
-
-    // Text-to-Speech handler
-    private fun speakVerse(verse: BibleVerse) {
-        val isTagalog = isTagalogText(verse.text)
-        val locale = if (isTagalog) Locale("fil", "PH") else Locale.US
-
-        val result = tts?.setLanguage(locale)
-        if (result == TextToSpeech.LANG_MISSING_DATA || result == TextToSpeech.LANG_NOT_SUPPORTED) {
-            tts?.setLanguage(Locale.getDefault())
-        }
-
-        val speechText = "${verse.text}. Reference: ${verse.reference}"
-        tts?.speak(speechText, TextToSpeech.QUEUE_FLUSH, null, null)
-    }
-
-    private fun isTagalogText(text: String): Boolean {
-        val tagalogKeywords = listOf("ang", "mga", "sa", "at", "na", "ng", "ay", "kayo", "tayo", "ka", "mo", "ko", "ni", "para", "isang", "rin", "din")
-        val words = text.lowercase().split(Regex("\\s+"))
-        val matchCount = words.count { tagalogKeywords.contains(it) }
-        return matchCount >= 2
-    }
-
-    override fun onInit(status: Int) {
-        if (status == TextToSpeech.SUCCESS) {
-            tts?.setLanguage(Locale.US)
-            isTtsReady = true
-        }
-    }
-
-    override fun onDestroy() {
-        tts?.let {
-            it.stop()
-            it.shutdown()
-        }
-        super.onDestroy()
-    }
-}
+        tvVerse
