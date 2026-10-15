@@ -33,5 +33,5 @@ jobs:
       - name: Upload APK Artifact
         uses: actions/upload-artifact@v4
         with:
-          name: Bible Random Verse
-          path: app/build/outputs/apk/debug/BibleRandomVerse.apk
+          name: Random Bible Verse
+          path: app/build/outputs/apk/debug/RandomBibleVerse.apk
