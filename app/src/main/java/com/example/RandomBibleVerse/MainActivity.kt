@@ -4,8 +4,11 @@ import android.content.ClipData
 import android.content.ClipboardManager
 import android.content.Context
 import android.content.Intent
+import android.graphics.Color
+import android.content.res.ColorStateList
 import android.os.Bundle
 import android.speech.tts.TextToSpeech
+import android.view.ViewGroup
 import android.view.animation.AlphaAnimation
 import android.widget.Button
 import android.widget.TextView
@@ -13,6 +16,7 @@ import android.widget.Toast
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
 import com.google.android.material.button.MaterialButton
+import com.google.android.material.card.MaterialCardView
 import java.util.Locale
 
 class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
@@ -23,10 +27,13 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     private lateinit var btnCopy: MaterialButton
     private lateinit var btnShare: MaterialButton
     private lateinit var btnSelectManual: MaterialButton
+    private lateinit var btnToggleTheme: MaterialButton
+    private lateinit var verseCard: MaterialCardView
     
     private var tts: TextToSpeech? = null
     private var isTtsReady = false
     private var currentVerse: BibleVerse? = null
+    private var isDarkMode = false
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -38,6 +45,8 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         btnCopy = findViewById(R.id.btnCopy)
         btnShare = findViewById(R.id.btnShare)
         btnSelectManual = findViewById(R.id.btnSelectManual)
+        btnToggleTheme = findViewById(R.id.btnToggleTheme)
+        verseCard = findViewById(R.id.verseCard)
 
         // Initialize Text-to-Speech engine
         tts = TextToSpeech(this, this)
@@ -82,7 +91,60 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             startActivity(Intent.createChooser(shareIntent, "Share Verse via"))
         }
 
+        // 5. Day/Night Theme Toggle Button
+        btnToggleTheme.setOnClickListener {
+            isDarkMode = !isDarkMode
+            applyTheme()
+        }
+
         LockScreenVerseService.showLockScreenNotification(this)
+    }
+
+    private fun applyTheme() {
+        val rootLayout = findViewById<ViewGroup>(android.R.id.content).rootView
+
+        if (isDarkMode) {
+            // --- NIGHT MODE COLORS ---
+            rootLayout.setBackgroundColor(Color.parseColor("#121212"))
+            verseCard.setCardBackgroundColor(Color.parseColor("#1E1E1E"))
+            verseCard.strokeColor = Color.parseColor("#333333")
+            
+            tvVerseText.setTextColor(Color.parseColor("#E0E0E0"))
+            tvVerseRef.setTextColor(Color.parseColor("#B08D73"))
+            
+            btnToggleTheme.text = "☀️ Switch to Day View"
+            btnToggleTheme.setTextColor(Color.parseColor("#D7CCC8"))
+            btnToggleTheme.strokeColor = Color.parseColor("#D7CCC8")
+            
+            btnRefresh.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#8D6E63"))
+            btnCopy.setTextColor(Color.parseColor("#D7CCC8"))
+            btnCopy.strokeColor = Color.parseColor("#D7CCC8")
+            btnShare.setTextColor(Color.parseColor("#D7CCC8"))
+            btnShare.strokeColor = Color.parseColor("#D7CCC8")
+            btnSelectManual.setTextColor(Color.parseColor("#D7CCC8"))
+            btnSelectManual.strokeColor = Color.parseColor("#D7CCC8")
+
+        } else {
+            // --- DAY MODE COLORS (Original Warm Theme) ---
+            rootLayout.setBackgroundResource(R.drawable.bg_gradient)
+            verseCard.setCardBackgroundColor(Color.parseColor("#FFFFFF"))
+            verseCard.strokeColor = Color.parseColor("#E8E2D5")
+            
+            tvVerseText.setTextColor(Color.parseColor("#2D241E"))
+            tvVerseRef.setTextColor(Color.parseColor("#8C6D53"))
+            
+            btnToggleTheme.text = "🌙 Switch to Night View"
+            btnToggleTheme.setTextColor(Color.parseColor("#6E472C"))
+            btnToggleTheme.strokeColor = Color.parseColor("#6E472C")
+            
+            btnRefresh.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#6E472C"))
+            btnCopy.setTextColor(Color.parseColor("#6E472C"))
+            btnCopy.strokeColor = Color.parseColor("#6E472C")
+            btnShare.setTextColor(Color.parseColor("#6E472C"))
+            btnShare.strokeColor = Color.parseColor("#6E472C")
+            btnSelectManual.setTextColor(Color.parseColor("#6E472C"))
+            btnSelectManual.strokeColor = Color.parseColor("#6E472C")
+        }
     }
 
     // Dialog 1: Choose Chapter
