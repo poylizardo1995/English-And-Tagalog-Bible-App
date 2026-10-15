@@ -178,12 +178,11 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         AlertDialog.Builder(this)
             .setTitle("About & Credits")
             .setMessage(
-                "English & Tagalog Bible App\n\n" +
-                "Started as simple random bible verse generator and the rest is history. To God be the Glory!\n\n" +
-                "Developed by: Poy Lizardo\n\n" +
-                "Copyright © 2026 Poy Lizardo. All Rights Reserved.\n\n" +
-                "Scripture text provided via public domain translations (King James Version / Ang Biblia 1905).\n\n" +    
-                "Github: https://github.com/poylizardo1995"
+                "English and Tagalog Bible v1.1\n\n" +
+                "Software Developer: Aldrin Paul Sipoy Lizardo\n\n" +
+                "Copyright © 2026 Poy Lizardo. All Rights Reserved. To God be the Glory!\n\n" +
+                "Scripture Text Provided Via Public Domain Translations: King James Version (KJV), Ang Dating Biblia 1905 (ADB1905).\n\n" +    
+                "Github: https://github.com/poylizardo1995\n\n"
             )
             .setPositiveButton("OK") { dialog, _ -> dialog.dismiss() }
             .show()
