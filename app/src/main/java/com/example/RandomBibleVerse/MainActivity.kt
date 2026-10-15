@@ -68,7 +68,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         btnCopy.setOnClickListener {
             val verseText = tvVerseText.text.toString()
             val verseRef = tvVerseRef.text.toString()
-            val fullText = "$verseText$verseRef"
+            val fullText = "$verseText $verseRef"
 
             val clipboard = getSystemService(Context.CLIPBOARD_SERVICE) as ClipboardManager
             val clip = ClipData.newPlainText("Bible Verse", fullText)
@@ -120,7 +120,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             btnToggleTheme.strokeColor = ColorStateList.valueOf(Color.parseColor("#D7CCC8"))
             
             btnRefresh.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#8D6E63"))
-            btnRefresh.setTextColor(Color.parseColor("#121212")) // Dark text for contrast against night button
+            btnRefresh.setTextColor(Color.parseColor("#121212"))
             
             btnCopy.setTextColor(Color.parseColor("#D7CCC8"))
             btnCopy.strokeColor = ColorStateList.valueOf(Color.parseColor("#D7CCC8"))
@@ -145,7 +145,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             btnToggleTheme.strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
             
             btnRefresh.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#6E472C"))
-            btnRefresh.setTextColor(Color.WHITE) // Crisp white text for daytime button
+            btnRefresh.setTextColor(Color.WHITE)
             
             btnCopy.setTextColor(Color.parseColor("#6E472C"))
             btnCopy.strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
@@ -170,3 +170,99 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         AlertDialog.Builder(this)
             .setTitle("Select Book")
             .setItems(books) { _, which ->
+                val selectedBook = books[which]
+                showChapterSelectionDialog(selectedBook)
+            }
+            .show()
+    }
+
+    // Dialog 2: Choose Chapter from Book
+    private fun showChapterSelectionDialog(bookName: String) {
+        val chapters = BibleRepository.getChaptersForBook(bookName, this).toTypedArray()
+
+        AlertDialog.Builder(this)
+            .setTitle("Select Chapter in $bookName")
+            .setItems(chapters) { _, which ->
+                val selectedChapter = chapters[which]
+                showVerseSelectionDialog(selectedChapter)
+            }
+            .show()
+    }
+
+    // Dialog 3: Choose Verse from Chapter
+    private fun showVerseSelectionDialog(chapterName: String) {
+        val chapterVerses = BibleRepository.getVerseObjectsForChapter(chapterName, this)
+        val verseTitles = chapterVerses.map { it.reference }.toTypedArray()
+
+        if (verseTitles.isEmpty()) {
+            Toast.makeText(this, "No verses found for $chapterName", Toast.LENGTH_SHORT).show()
+            return
+        }
+
+        AlertDialog.Builder(this)
+            .setTitle("Select Verse in $chapterName")
+            .setItems(verseTitles) { _, which ->
+                val selectedVerse = chapterVerses[which]
+                displayVerse(selectedVerse, speakAloud = true)
+            }
+            .show()
+    }
+
+    // Helper function to update the screen with a specific verse
+    private fun displayVerse(verse: BibleVerse, speakAloud: Boolean) {
+        currentVerse = verse
+        tvVerseText.text = verse.text
+        tvVerseRef.text = "— ${verse.reference}"
+
+        // Smooth fade-in animation
+        val fadeIn = AlphaAnimation(0.0f, 1.0f).apply { duration = 400 }
+        tvVerseText.startAnimation(fadeIn)
+        tvVerseRef.startAnimation(fadeIn)
+
+        if (speakAloud && isTtsReady) {
+            speakVerse(verse)
+        }
+    }
+
+    // Random verse picker
+    private fun loadAndSpeakVerse(speakAloud: Boolean) {
+        val verse = BibleRepository.getRandomVerse(this)
+        displayVerse(verse, speakAloud)
+    }
+
+    // Text-to-Speech handler
+    private fun speakVerse(verse: BibleVerse) {
+        val isTagalog = isTagalogText(verse.text)
+        val locale = if (isTagalog) Locale("fil", "PH") else Locale.US
+
+        val result = tts?.setLanguage(locale)
+        if (result == TextToSpeech.LANG_MISSING_DATA || result == TextToSpeech.LANG_NOT_SUPPORTED) {
+            tts?.setLanguage(Locale.getDefault())
+        }
+
+        val speechText = "${verse.text}. Reference: ${verse.reference}"
+        tts?.speak(speechText, TextToSpeech.QUEUE_FLUSH, null, null)
+    }
+
+    private fun isTagalogText(text: String): Boolean {
+        val tagalogKeywords = listOf("ang", "mga", "sa", "at", "na", "ng", "ay", "kayo", "tayo", "ka", "mo", "ko", "ni", "para", "isang", "rin", "din")
+        val words = text.lowercase().split(Regex("\\s+"))
+        val matchCount = words.count { tagalogKeywords.contains(it) }
+        return matchCount >= 2
+    }
+
+    override fun onInit(status: Int) {
+        if (status == TextToSpeech.SUCCESS) {
+            tts?.setLanguage(Locale.US)
+            isTtsReady = true
+        }
+    }
+
+    override fun onDestroy() {
+        tts?.let {
+            it.stop()
+            it.shutdown()
+        }
+        super.onDestroy()
+    }
+}
