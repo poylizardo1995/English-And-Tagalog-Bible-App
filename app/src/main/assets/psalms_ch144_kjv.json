@@ -1,0 +1,70 @@
+[
+  {
+    "text": "Blessed be the LORD my strength, which teacheth my hands to war, and my fingers to fight:",
+    "reference": "Psalms 144:1 (KJV)",
+    "connected_to": "Psalms 144:2"
+  },
+  {
+    "text": "My goodness, and my fortress; my high tower, and my deliverer; my shield, and he in whom I trust; who subdueth my people under me.",
+    "reference": "Psalms 144:2 (KJV)",
+    "connected_from": "Psalms 144:1"
+  },
+  {
+    "text": "LORD, what is man, that thou takest knowledge of him! or the son of man, that thou makest account of him!",
+    "reference": "Psalms 144:3 (KJV)"
+  },
+  {
+    "text": "Man is like to vanity: his days are as a shadow that passeth away.",
+    "reference": "Psalms 144:4 (KJV)"
+  },
+  {
+    "text": "Bow thy heavens, O LORD, and come down: touch the mountains, and they shall smoke.",
+    "reference": "Psalms 144:5 (KJV)"
+  },
+  {
+    "text": "Cast forth lightning, and scatter them: shoot out thine arrows, and destroy them.",
+    "reference": "Psalms 144:6 (KJV)"
+  },
+  {
+    "text": "Send thine hand from above; rid me, and deliver me out of great waters, from the hand of strange children;",
+    "reference": "Psalms 144:7 (KJV)"
+  },
+  {
+    "text": "Whose mouth speaketh vanity, and their right hand is a right hand of falsehood.",
+    "reference": "Psalms 144:8 (KJV)"
+  },
+  {
+    "text": "I will sing a new song unto thee, O God: upon a psaltery and  an instrument of ten strings will I sing praises unto thee.",
+    "reference": "Psalms 144:9 (KJV)"
+  },
+  {
+    "text": "It is he that giveth salvation unto kings: who delivereth David his servant from the hurtful sword.",
+    "reference": "Psalms 144:10 (KJV)"
+  },
+  {
+    "text": "Rid me, and deliver me from the hand of strange children, whose mouth speaketh vanity, and their right hand is a right hand of falsehood:",
+    "reference": "Psalms 144:11 (KJV)",
+    "connected_to": "Psalms 144:12"
+  },
+  {
+    "text": "That our sons may be as plants grown up in their youth; that our daughters may be as corner stones, polished after the similitude of a palace:",
+    "reference": "Psalms 144:12 (KJV)",
+    "connected_to": "Psalms 144:13",
+    "connected_from": "Psalms 144:11"
+  },
+  {
+    "text": "That our garners may be full, affording all manner of store: that our sheep may bring forth thousands and ten thousands in our streets:",
+    "reference": "Psalms 144:13 (KJV)",
+    "connected_to": "Psalms 144:14",
+    "connected_from": "Psalms 144:12"
+  },
+  {
+    "text": "That our oxen may be strong to labour; that there be no breaking in, nor going out; that there be no complaining in our streets.",
+    "reference": "Psalms 144:14 (KJV)",
+    "connected_from": "Psalms 144:13"
+  },
+  {
+    "text": "Happy is that people, that is in such a case: yea,  happy is that people, whose God is the LORD.",
+    "reference": "Psalms 144:15 (KJV)"
+  }
+]

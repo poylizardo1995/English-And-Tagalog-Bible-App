@@ -1,0 +1,38 @@
+[
+  {
+    "text": "Many a time have they afflicted me from my youth, may Israel now say:",
+    "reference": "Psalms 129:1 (KJV)",
+    "connected_to": "Psalms 129:2"
+  },
+  {
+    "text": "Many a time have they afflicted me from my youth: yet they have not prevailed against me.",
+    "reference": "Psalms 129:2 (KJV)",
+    "connected_from": "Psalms 129:1"
+  },
+  {
+    "text": "The plowers plowed upon my back: they made long their furrows.",
+    "reference": "Psalms 129:3 (KJV)"
+  },
+  {
+    "text": "The LORD is righteous: he hath cut asunder the cords of the wicked.",
+    "reference": "Psalms 129:4 (KJV)"
+  },
+  {
+    "text": "Let them all be confounded and turned back that hate Zion.",
+    "reference": "Psalms 129:5 (KJV)"
+  },
+  {
+    "text": "Let them be as the grass upon the housetops, which withereth afore it groweth up:",
+    "reference": "Psalms 129:6 (KJV)",
+    "connected_to": "Psalms 129:7"
+  },
+  {
+    "text": "Wherewith the mower filleth not his hand; nor he that bindeth sheaves his bosom.",
+    "reference": "Psalms 129:7 (KJV)",
+    "connected_from": "Psalms 129:6"
+  },
+  {
+    "text": "Neither do they which go by say, The blessing of the LORD be  upon you: we bless you in the name of the LORD.",
+    "reference": "Psalms 129:8 (KJV)"
+  }
+]
