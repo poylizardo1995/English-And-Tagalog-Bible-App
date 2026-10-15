@@ -5,8 +5,8 @@ import org.json.JSONArray
 import java.io.IOException
 
 enum class BibleTranslation(val suffix: String) {
-    KJV("kjv"),
-    TAGALOG("tl")
+    ENGLISH("kjv"),
+    TAGALOG("adb1905")
 }
 
 data class BibleVerse(
@@ -37,10 +37,10 @@ object BibleRepository {
             val assetFiles = context.assets.list("") ?: emptyArray()
             val targetSuffix = "_${translation.suffix}.json"
             
-            // Filter files that match the version naming format (e.g., "genesis_ch1_kjv.json")
+            // Filter files that match the version naming format (e.g., "genesis_ch01_kjv.json")
             val matchingFiles = assetFiles.filter { it.endsWith(targetSuffix) }
 
-            // Fallback for older file names if new ones aren't added yet (e.g., "genesis_ch1.json")
+            // Fallback for older file names if new ones aren't added yet (e.g., "genesis_ch01.json")
             val filesToLoad = if (matchingFiles.isNotEmpty()) {
                 matchingFiles
             } else {
