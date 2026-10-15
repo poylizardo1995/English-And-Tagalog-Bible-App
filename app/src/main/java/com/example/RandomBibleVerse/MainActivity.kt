@@ -39,7 +39,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     private fun loadAndSpeakVerse(speakAloud: Boolean) {
         currentVerse = BibleRepository.getRandomVerse(this)
         currentVerse?.let { verse ->
-            tvVerseText.text = "\"${verse.text}\""
+            tvVerseText.text = "${verse.text}"
             tvVerseRef.text = "— ${verse.reference}"
 
             if (speakAloud && isTtsReady) {
