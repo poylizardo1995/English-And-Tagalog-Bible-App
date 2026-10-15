@@ -2,14 +2,12 @@
 
 Ad-free, No Hidden Fees, Free &amp; Safe Android App
 
-Software Developer: Aldrin Paul Sipoy Lizardo |
-Software Version: 1.1 |
-Development Status: In Progress
+App Developed by Poy Lizardo |
+App Version: 1.1 |
+App Development Status: In Progress
 
 Copyright © 2026. All Rights Reserved.
 
 Scripture Text Provided Via Public Domain Bible Translations:
 - King James Version (KJV)
-- Ang Dating Biblia 1905 (ADB1905)
-
-Github: https://github.com/poylizardo1995
+- Ang Dating Biblia 1905 (ADB1905) (soon)
