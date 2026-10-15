@@ -8,6 +8,6 @@ App Development Status: In Progress
 
 Copyright © 2026. All Rights Reserved. To God be the Glory!
 
-Scripture Text Provided Via Public Domain Bible Translations:
+Scripture Text Provided via Public Domain Bible Translations:
 - King James Version (KJV)
 - Ang Dating Biblia 1905 (ADB1905) (soon)
