@@ -6,7 +6,7 @@ App Developed by Poy Lizardo |
 App Version: 1.1 |
 App Development Status: In Progress
 
-Copyright © 2026. All Rights Reserved.
+Copyright © 2026. All Rights Reserved. To God be the Glory!
 
 Scripture Text Provided Via Public Domain Bible Translations:
 - King James Version (KJV)
