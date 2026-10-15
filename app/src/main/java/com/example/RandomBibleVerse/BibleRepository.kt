@@ -13,8 +13,13 @@ object BibleRepository {
         if (isLoaded) return
         
         try {
-            // Add all your JSON file names to this list
-            val fileNames = listOf("genesis_ch1.json", "genesis_ch2.json", "genesis_ch3.json", "genesis_ch4.json", "genesis_ch5.json")
+            val fileNames = listOf(
+                "genesis_ch1.json",
+                "genesis_ch2.json",
+                "genesis_ch3.json",
+                "genesis_ch4.json",
+                "genesis_ch5.json"
+            )
 
             for (fileName in fileNames) {
                 try {
@@ -31,18 +36,15 @@ object BibleRepository {
                         )
                     }
                 } catch (e: Exception) {
-                    // If a specific file fails to open or parse, it skips it and continues to the next file
                     e.printStackTrace()
                 }
             }
 
-            // Fallback if all files failed or the list ended up empty
             if (verses.isEmpty()) {
                 verses.add(BibleVerse("The Lord is my shepherd; I shall not want.", "Psalm 23:1 (KJV)"))
             }
             
         } catch (e: Exception) {
-            // General fallback if something unexpected happens
             verses.add(BibleVerse("The Lord is my shepherd; I shall not want.", "Psalm 23:1 (KJV)"))
         }
         
@@ -51,6 +53,23 @@ object BibleRepository {
 
     fun getRandomVerse(context: Context): BibleVerse {
         loadVerses(context)
-        return if (verses.isNotEmpty()) verses.random() else BibleVerse("The Lord is my shepherd", "Psalm 23:1 (KJV)")
+        return if (verses.isNotEmpty()) verses.random() else BibleVerse("The Lord is my shepherd; I shall not want.", "Psalm 23:1 (KJV)")
+    }
+
+    // Returns a list of available chapters to display in the selection dialog
+    fun getAvailableChapters(): List<String> {
+        return listOf(
+            "Genesis 1",
+            "Genesis 2",
+            "Genesis 3",
+            "Genesis 4",
+            "Genesis 5"
+        )
+    }
+
+    // Filters and returns all verses belonging to a specific chapter
+    fun getVersesForChapter(chapterName: String, context: Context): List<BibleVerse> {
+        loadVerses(context)
+        return verses.filter { it.reference.startsWith(chapterName) }
     }
 }
