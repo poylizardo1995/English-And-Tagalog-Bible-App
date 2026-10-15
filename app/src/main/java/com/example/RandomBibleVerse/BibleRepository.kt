@@ -5,7 +5,7 @@ import org.json.JSONArray
 import java.io.IOException
 
 enum class BibleTranslation(val suffix: String) {
-    ENGLISH("kjv"),
+    KJV("kjv"),
     TAGALOG("adb1905")
 }
 
