@@ -56,19 +56,33 @@ object BibleRepository {
         return if (verses.isNotEmpty()) verses.random() else BibleVerse("The Lord is my shepherd; I shall not want.", "Psalm 23:1 (KJV)")
     }
 
-    // Returns a list of available chapters to display in the selection dialog
-    fun getAvailableChapters(): List<String> {
-        return listOf(
-            "Genesis 1",
-            "Genesis 2",
-            "Genesis 3",
-            "Genesis 4",
-            "Genesis 5"
-        )
+    // 1. Automatically extracts all unique Book names (e.g., "Genesis") from the loaded references
+    fun getAvailableBooks(context: Context): List<String> {
+        loadVerses(context)
+        return verses.map { it.reference.substringBefore(" ") }.distinct()
     }
 
-    // Filters and returns all verses belonging to a specific chapter
-    fun getVersesForChapter(chapterName: String, context: Context): List<BibleVerse> {
+    // 2. Automatically extracts all chapters belonging to a selected book (e.g., "Genesis 1", "Genesis 2")
+    fun getChaptersForBook(bookName: String, context: Context): List<String> {
+        loadVerses(context)
+        return verses
+            .filter { it.reference.startsWith(bookName) }
+            .map { 
+                val parts = it.reference.split(":")
+                parts[0].substringBeforeLast(" ") // Extracts "Genesis 1" from "Genesis 1:1"
+            }
+            .distinct()
+    }
+
+    // 3. Filters and returns all verses belonging to a specific chapter
+    fun getVersesForChapter(chapterName: String, context: Context): List<String> {
+        loadVerses(context)
+        // Kept for backward compatibility if needed
+        return verses.filter { it.reference.startsWith(chapterName) }.map { it.reference }
+    }
+
+    // 4. Returns the actual BibleVerse objects for a specific chapter
+    fun getVerseObjectsForChapter(chapterName: String, context: Context): List<BibleVerse> {
         loadVerses(context)
         return verses.filter { it.reference.startsWith(chapterName) }
     }
