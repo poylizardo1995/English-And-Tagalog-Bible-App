@@ -48,42 +48,50 @@
                 android:textStyle="bold"
                 android:gravity="end" />
 
-            <!-- Action Buttons Row (Share & Copy) -->
+            <!-- Action Buttons Row (Equal Width Distribution) -->
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
                 android:orientation="horizontal"
-                android:gravity="center">
+                android:weightSum="3">
                 
                 <!-- Copy Button -->
                 <com.google.android.material.button.MaterialButton
                     android:id="@+id/btnCopy"
                     style="?attr/materialButtonOutlinedStyle"
-                    android:layout_width="wrap_content"
+                    android:layout_width="0dp"
                     android:layout_height="wrap_content"
+                    android:layout_weight="1"
                     android:text="💾 Copy"
                     android:textColor="#6E472C"
                     app:strokeColor="#6E472C"
-                    android:layout_marginEnd="8dp" />
+                    android:layout_marginEnd="4dp" />
                 
                 <!-- Share Button -->
                 <com.google.android.material.button.MaterialButton
                     android:id="@+id/btnShare"
                     style="?attr/materialButtonOutlinedStyle"
-                    android:layout_width="wrap_content"
+                    android:layout_width="0dp"
                     android:layout_height="wrap_content"
+                    android:layout_weight="1"
                     android:text="🔗 Share"
                     android:textColor="#6E472C"
-                    app:strokeColor="#6E472C" />
+                    app:strokeColor="#6E472C"
+                    android:layout_marginStart="4dp"
+                    android:layout_marginEnd="4dp" />
 
                 <!-- Speak Button -->
                 <com.google.android.material.button.MaterialButton
                     android:id="@+id/btnSpeak"
                     style="?attr/materialButtonOutlinedStyle"
-                    android:layout_width="wrap_content"
+                    android:layout_width="0dp"
                     android:layout_height="wrap_content"
-                    android:text="🔊 Speak"/>
+                    android:layout_weight="1"
+                    android:text="🔊 Text To Speech"
+                    android:textColor="#6E472C"
+                    app:strokeColor="#6E472C"
+                    android:layout_marginStart="4dp" />
             </LinearLayout>
 
             <!-- New Random Bible Verse Button -->
@@ -92,7 +100,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="12dp"
-                android:text="🔀 New Bible Verse"
+                android:text="🔀 New Random Bible Verse"
                 android:textSize="16sp"
                 android:paddingVertical="12dp"
                 app:backgroundTint="#6E472C"
@@ -105,7 +113,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
-                android:text="Choose Bible Chapter &amp; Verse"
+                android:text="📖 Choose Bible Chapter &amp; Verse"
                 android:textColor="#6E472C"
                 app:strokeColor="#6E472C"
                 app:cornerRadius="12dp" />
