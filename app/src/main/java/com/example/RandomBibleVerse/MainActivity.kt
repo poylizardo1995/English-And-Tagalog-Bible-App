@@ -256,7 +256,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         }
     }
 
-    override onDestroy() {
+    override fun onDestroy() {
         tts?.let {
             it.stop()
             it.shutdown()
