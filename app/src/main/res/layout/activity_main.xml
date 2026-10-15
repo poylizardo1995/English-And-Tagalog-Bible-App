@@ -5,207 +5,215 @@
     android:layout_height="match_parent"
     android:background="@drawable/bg_gradient">
 
-    <!-- Verse Card with ID added for Night Mode -->
+    <!-- Verse Card set to match_parent with margins to allow smooth scrolling -->
     <com.google.android.material.card.MaterialCardView
         android:id="@+id/verseCard"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_centerInParent="true"
-        android:layout_margin="20dp"
+        android:layout_height="match_parent"
+        android:layout_margin="16dp"
         app:cardCornerRadius="20dp"
         app:cardElevation="8dp"
         app:cardBackgroundColor="#FFFFFF"
         app:strokeWidth="1dp"
         app:strokeColor="#E8E2D5">
 
-        <LinearLayout
+        <!-- ScrollView added to eliminate vertical overflow and overlapping -->
+        <ScrollView
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="vertical"
-            android:padding="28dp">
+            android:layout_height="match_parent"
+            android:fillViewport="true"
+            android:scrollbars="none">
 
-            <!-- Verse Text -->
-            <TextView
-                android:id="@+id/tvVerseText"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="For I know the plans I have for you, declares the Lord..."
-                android:textSize="21sp"
-                android:textColor="#2D241E"
-                android:fontFamily="serif"
-                android:lineSpacingMultiplier="1.3"
-                android:textStyle="italic" />
-
-            <!-- Verse Reference -->
-            <TextView
-                android:id="@+id/tvVerseRef"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="16dp"
-                android:text="— Jeremiah 29:11"
-                android:textSize="15sp"
-                android:textColor="#8C6D53"
-                android:textStyle="bold"
-                android:gravity="end" />
-
-            <!-- Action Buttons Row (Equal Width & Compact Padding to Prevent Wrapping) -->
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="20dp"
-                android:orientation="horizontal"
-                android:weightSum="3">
-                
-                <!-- Copy Button -->
-                <com.google.android.material.button.MaterialButton
-                    android:id="@+id/btnCopy"
-                    style="?attr/materialButtonOutlinedStyle"
-                    android:layout_width="0dp"
-                    android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:text="💾 Copy"
-                    android:textSize="12sp"
-                    android:insetLeft="0dp"
-                    android:insetRight="0dp"
-                    android:paddingHorizontal="2dp"
-                    android:textColor="#6E472C"
-                    app:strokeColor="#6E472C"
-                    android:layout_marginEnd="2dp" />
-                
-                <!-- Share Button -->
-                <com.google.android.material.button.MaterialButton
-                    android:id="@+id/btnShare"
-                    style="?attr/materialButtonOutlinedStyle"
-                    android:layout_width="0dp"
-                    android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:text="🔗 Share"
-                    android:textSize="12sp"
-                    android:insetLeft="0dp"
-                    android:insetRight="0dp"
-                    android:paddingHorizontal="2dp"
-                    android:textColor="#6E472C"
-                    app:strokeColor="#6E472C"
-                    android:layout_marginStart="2dp"
-                    android:layout_marginEnd="2dp" />
+                android:orientation="vertical"
+                android:padding="28dp">
 
-                <!-- Speak Button -->
-                <com.google.android.material.button.MaterialButton
-                    android:id="@+id/btnSpeak"
-                    style="?attr/materialButtonOutlinedStyle"
-                    android:layout_width="0dp"
+                <!-- Verse Text -->
+                <TextView
+                    android:id="@+id/tvVerseText"
+                    android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:text="🔊 Speak"
-                    android:textSize="12sp"
-                    android:insetLeft="0dp"
-                    android:insetRight="0dp"
-                    android:paddingHorizontal="2dp"
+                    android:text="For I know the plans I have for you, declares the Lord..."
+                    android:textSize="21sp"
+                    android:textColor="#2D241E"
+                    android:fontFamily="serif"
+                    android:lineSpacingMultiplier="1.3"
+                    android:textStyle="italic" />
+
+                <!-- Verse Reference -->
+                <TextView
+                    android:id="@+id/tvVerseRef"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="16dp"
+                    android:text="— Jeremiah 29:11"
+                    android:textSize="15sp"
+                    android:textColor="#8C6D53"
+                    android:textStyle="bold"
+                    android:gravity="end" />
+
+                <!-- Action Buttons Row (Equal Width & Compact Padding to Prevent Wrapping) -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:orientation="horizontal"
+                    android:weightSum="3">
+                    
+                    <!-- Copy Button -->
+                    <com.google.android.material.button.MaterialButton
+                        android:id="@+id/btnCopy"
+                        style="?attr/materialButtonOutlinedStyle"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="💾 Copy"
+                        android:textSize="12sp"
+                        android:insetLeft="0dp"
+                        android:insetRight="0dp"
+                        android:paddingHorizontal="2dp"
+                        android:textColor="#6E472C"
+                        app:strokeColor="#6E472C"
+                        android:layout_marginEnd="2dp" />
+                    
+                    <!-- Share Button -->
+                    <com.google.android.material.button.MaterialButton
+                        android:id="@+id/btnShare"
+                        style="?attr/materialButtonOutlinedStyle"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="🔗 Share"
+                        android:textSize="12sp"
+                        android:insetLeft="0dp"
+                        android:insetRight="0dp"
+                        android:paddingHorizontal="2dp"
+                        android:textColor="#6E472C"
+                        app:strokeColor="#6E472C"
+                        android:layout_marginStart="2dp"
+                        android:layout_marginEnd="2dp" />
+
+                    <!-- Speak Button -->
+                    <com.google.android.material.button.MaterialButton
+                        android:id="@+id/btnSpeak"
+                        style="?attr/materialButtonOutlinedStyle"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="🔊 Speak"
+                        android:textSize="12sp"
+                        android:insetLeft="0dp"
+                        android:insetRight="0dp"
+                        android:paddingHorizontal="2dp"
+                        android:textColor="#6E472C"
+                        app:strokeColor="#6E472C"
+                        android:layout_marginStart="2dp" />
+                </LinearLayout>
+
+                <!-- Navigation Row (Previous & Next Verse Buttons) -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:orientation="horizontal"
+                    android:weightSum="2">
+
+                    <!-- Previous Verse Button -->
+                    <com.google.android.material.button.MaterialButton
+                        android:id="@+id/btnPrev"
+                        style="?attr/materialButtonOutlinedStyle"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="◀ Prev Verse"
+                        android:textSize="12sp"
+                        android:insetLeft="0dp"
+                        android:insetRight="0dp"
+                        android:textColor="#6E472C"
+                        app:strokeColor="#6E472C"
+                        android:layout_marginEnd="2dp" />
+
+                    <!-- Next Verse Button -->
+                    <com.google.android.material.button.MaterialButton
+                        android:id="@+id/btnNext"
+                        style="?attr/materialButtonOutlinedStyle"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Next Verse ▶"
+                        android:textSize="12sp"
+                        android:insetLeft="0dp"
+                        android:insetRight="0dp"
+                        android:textColor="#6E472C"
+                        app:strokeColor="#6E472C"
+                        android:layout_marginStart="2dp" />
+                </LinearLayout>
+
+                <!-- Auto-Play Continuous Listen Button -->
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/btnAutoPlay"
+                    style="?attr/materialButtonOutlinedStyle"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="12dp"
+                    android:text="▶ Auto-Play"
+                    android:textSize="14sp"
                     android:textColor="#6E472C"
                     app:strokeColor="#6E472C"
-                    android:layout_marginStart="2dp" />
+                    app:cornerRadius="12dp" />
+
+                <!-- New Random Bible Verse Button -->
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/btnRefresh"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:text="🔀 New Random Bible Verse"
+                    android:textSize="16sp"
+                    android:paddingVertical="12dp"
+                    app:backgroundTint="#6E472C"
+                    app:cornerRadius="12dp" />
+
+                <!-- Choose Bible Chapter & Verse Button -->
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/btnSelectManual"
+                    style="?attr/materialButtonOutlinedStyle"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:text="📖 Choose Bible Chapter &amp; Verse"
+                    android:textColor="#6E472C"
+                    app:strokeColor="#6E472C"
+                    app:cornerRadius="12dp" />
+
+                <!-- Theme Toggle Button (Day / Night View) -->
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/btnToggleTheme"
+                    style="?attr/materialButtonOutlinedStyle"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:text="🌙 Switch to Night View"
+                    android:textColor="#6E472C"
+                    app:strokeColor="#6E472C"
+                    app:cornerRadius="12dp" />
+
+                <!-- About & Credits Button -->
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/btnAbout"
+                    style="?attr/materialButtonOutlinedStyle"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginBottom="4dp"
+                    android:text="ℹ️ About &amp; Credits"
+                    android:textColor="#6E472C"
+                    app:strokeColor="#6E472C"
+                    app:cornerRadius="12dp" />
+
             </LinearLayout>
-
-            <!-- Navigation Row (Previous & Next Verse Buttons) -->
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="8dp"
-                android:orientation="horizontal"
-                android:weightSum="2">
-
-                <!-- Previous Verse Button -->
-                <com.google.android.material.button.MaterialButton
-                    android:id="@+id/btnPrev"
-                    style="?attr/materialButtonOutlinedStyle"
-                    android:layout_width="0dp"
-                    android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:text="◀ Prev Verse"
-                    android:textSize="12sp"
-                    android:insetLeft="0dp"
-                    android:insetRight="0dp"
-                    android:textColor="#6E472C"
-                    app:strokeColor="#6E472C"
-                    android:layout_marginEnd="2dp" />
-
-                <!-- Next Verse Button -->
-                <com.google.android.material.button.MaterialButton
-                    android:id="@+id/btnNext"
-                    style="?attr/materialButtonOutlinedStyle"
-                    android:layout_width="0dp"
-                    android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:text="Next Verse ▶"
-                    android:textSize="12sp"
-                    android:insetLeft="0dp"
-                    android:insetRight="0dp"
-                    android:textColor="#6E472C"
-                    app:strokeColor="#6E472C"
-                    android:layout_marginStart="2dp" />
-            </LinearLayout>
-
-            <!-- Auto-Play Continuous Listen Button -->
-            <com.google.android.material.button.MaterialButton
-                android:id="@+id/btnAutoPlay"
-                style="?attr/materialButtonOutlinedStyle"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="12dp"
-                android:text="▶ Auto-Play"
-                android:textSize="14sp"
-                android:textColor="#6E472C"
-                app:strokeColor="#6E472C"
-                app:cornerRadius="12dp" />
-
-            <!-- New Random Bible Verse Button -->
-            <com.google.android.material.button.MaterialButton
-                android:id="@+id/btnRefresh"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="8dp"
-                android:text="🔀 New Random Bible Verse"
-                android:textSize="16sp"
-                android:paddingVertical="12dp"
-                app:backgroundTint="#6E472C"
-                app:cornerRadius="12dp" />
-
-            <!-- Choose Bible Chapter & Verse Button -->
-            <com.google.android.material.button.MaterialButton
-                android:id="@+id/btnSelectManual"
-                style="?attr/materialButtonOutlinedStyle"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="8dp"
-                android:text="📖 Choose Bible Chapter &amp; Verse"
-                android:textColor="#6E472C"
-                app:strokeColor="#6E472C"
-                app:cornerRadius="12dp" />
-
-            <!-- Theme Toggle Button (Day / Night View) -->
-            <com.google.android.material.button.MaterialButton
-                android:id="@+id/btnToggleTheme"
-                style="?attr/materialButtonOutlinedStyle"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="8dp"
-                android:text="🌙 Switch to Night View"
-                android:textColor="#6E472C"
-                app:strokeColor="#6E472C"
-                app:cornerRadius="12dp" />
-
-            <!-- About & Credits Button -->
-            <com.google.android.material.button.MaterialButton
-                android:id="@+id/btnAbout"
-                style="?attr/materialButtonOutlinedStyle"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="8dp"
-                android:text="ℹ️ About &amp; Credits"
-                android:textColor="#6E472C"
-                app:strokeColor="#6E472C"
-                app:cornerRadius="12dp" />
-
-        </LinearLayout>
+        </ScrollView>
     </com.google.android.material.card.MaterialCardView>
 </RelativeLayout>
