@@ -10,6 +10,7 @@ import android.view.animation.AlphaAnimation
 import android.widget.Button
 import android.widget.TextView
 import android.widget.Toast
+import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
 import com.google.android.material.button.MaterialButton
 import java.util.Locale
@@ -21,6 +22,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     private lateinit var btnRefresh: Button
     private lateinit var btnCopy: MaterialButton
     private lateinit var btnShare: MaterialButton
+    private lateinit var btnSelectManual: MaterialButton
     
     private var tts: TextToSpeech? = null
     private var isTtsReady = false
@@ -35,17 +37,25 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         btnRefresh = findViewById(R.id.btnRefresh)
         btnCopy = findViewById(R.id.btnCopy)
         btnShare = findViewById(R.id.btnShare)
+        btnSelectManual = findViewById(R.id.btnSelectManual)
 
         // Initialize Text-to-Speech engine
         tts = TextToSpeech(this, this)
 
-        loadAndSpeakVerse(false) // Load initial verse silently
+        // Load initial verse silently
+        loadAndSpeakVerse(false)
 
+        // 1. New Random Verse Button
         btnRefresh.setOnClickListener {
             loadAndSpeakVerse(true) // Load, animate, and speak aloud
         }
 
-        // Setup Copy Button
+        // 2. Choose Chapter & Verse Button
+        btnSelectManual.setOnClickListener {
+            showChapterSelectionDialog()
+        }
+
+        // 3. Copy Button
         btnCopy.setOnClickListener {
             val verseText = tvVerseText.text.toString()
             val verseRef = tvVerseRef.text.toString()
@@ -58,7 +68,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             Toast.makeText(this, "Verse copied to clipboard!", Toast.LENGTH_SHORT).show()
         }
 
-        // Setup Share Button
+        // 4. Share Button
         btnShare.setOnClickListener {
             val verseText = tvVerseText.text.toString()
             val verseRef = tvVerseRef.text.toString()
@@ -75,33 +85,64 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         LockScreenVerseService.showLockScreenNotification(this)
     }
 
-    private fun loadAndSpeakVerse(speakAloud: Boolean) {
-        currentVerse = BibleRepository.getRandomVerse(this)
-        currentVerse?.let { verse ->
-            tvVerseText.text = verse.text
-            tvVerseRef.text = "— ${verse.reference}"
-
-            // Add smooth fade-in animation on text change
-            val fadeIn = AlphaAnimation(0.0f, 1.0f).apply {
-                duration = 400
+    // Dialog 1: Choose Chapter
+    private fun showChapterSelectionDialog() {
+        val chapters = BibleRepository.getAvailableChapters().toTypedArray()
+        
+        AlertDialog.Builder(this)
+            .setTitle("Select Chapter")
+            .setItems(chapters) { _, which ->
+                val selectedChapter = chapters[which]
+                showVerseSelectionDialog(selectedChapter)
             }
-            tvVerseText.startAnimation(fadeIn)
-            tvVerseRef.startAnimation(fadeIn)
+            .show()
+    }
 
-            if (speakAloud && isTtsReady) {
-                speakVerse(verse)
+    // Dialog 2: Choose Verse from Chapter
+    private fun showVerseSelectionDialog(chapterName: String) {
+        val chapterVerses = BibleRepository.getVersesForChapter(chapterName, this)
+        val verseTitles = chapterVerses.map { it.reference }.toTypedArray()
+
+        if (verseTitles.isEmpty()) {
+            Toast.makeText(this, "No verses found for $chapterName", Toast.LENGTH_SHORT).show()
+            return
+        }
+
+        AlertDialog.Builder(this)
+            .setTitle("Select Verse in $chapterName")
+            .setItems(verseTitles) { _, which ->
+                val selectedVerse = chapterVerses[which]
+                displayVerse(selectedVerse, speakAloud = true)
             }
+            .show()
+    }
+
+    // Helper function to update the screen with a specific verse
+    private fun displayVerse(verse: BibleVerse, speakAloud: Boolean) {
+        currentVerse = verse
+        tvVerseText.text = verse.text
+        tvVerseRef.text = "— ${verse.reference}"
+
+        // Smooth fade-in animation
+        val fadeIn = AlphaAnimation(0.0f, 1.0f).apply { duration = 400 }
+        tvVerseText.startAnimation(fadeIn)
+        tvVerseRef.startAnimation(fadeIn)
+
+        if (speakAloud && isTtsReady) {
+            speakVerse(verse)
         }
     }
 
+    // Random verse picker
+    private fun loadAndSpeakVerse(speakAloud: Boolean) {
+        val verse = BibleRepository.getRandomVerse(this)
+        displayVerse(verse, speakAloud)
+    }
+
+    // Text-to-Speech handler
     private fun speakVerse(verse: BibleVerse) {
         val isTagalog = isTagalogText(verse.text)
-        
-        val locale = if (isTagalog) {
-            Locale("fil", "PH") // Filipino / Tagalog accent
-        } else {
-            Locale.US // English accent
-        }
+        val locale = if (isTagalog) Locale("fil", "PH") else Locale.US
 
         val result = tts?.setLanguage(locale)
         if (result == TextToSpeech.LANG_MISSING_DATA || result == TextToSpeech.LANG_NOT_SUPPORTED) {
