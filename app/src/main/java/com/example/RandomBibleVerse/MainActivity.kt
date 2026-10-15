@@ -8,6 +8,7 @@ import android.graphics.Color
 import android.content.res.ColorStateList
 import android.os.Bundle
 import android.speech.tts.TextToSpeech
+import android.speech.tts.UtteranceProgressListener
 import android.view.ViewGroup
 import android.view.animation.AlphaAnimation
 import android.widget.Button
@@ -29,12 +30,16 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     private lateinit var btnSpeak: MaterialButton
     private lateinit var btnSelectManual: MaterialButton
     private lateinit var btnToggleTheme: MaterialButton
+    private lateinit var btnPrev: MaterialButton
+    private lateinit var btnNext: MaterialButton
+    private lateinit var btnAutoPlay: MaterialButton
     private lateinit var verseCard: MaterialCardView
     
     private var tts: TextToSpeech? = null
     private var isTtsReady = false
     private var currentVerse: BibleVerse? = null
     private var isDarkMode = false
+    private var isAutoPlaying = false
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -48,6 +53,13 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         btnSpeak = findViewById(R.id.btnSpeak)
         btnSelectManual = findViewById(R.id.btnSelectManual)
         btnToggleTheme = findViewById(R.id.btnToggleTheme)
+        
+        // --- NEW BUTTON INITIALIZATIONS ---
+        // (Make sure to add these IDs to your activity_main.xml layout!)
+        btnPrev = findViewById(R.id.btnPrev)
+        btnNext = findViewById(R.id.btnNext)
+        btnAutoPlay = findViewById(R.id.btnAutoPlay)
+        
         verseCard = findViewById(R.id.verseCard)
 
         // Initialize Text-to-Speech engine
@@ -58,19 +70,58 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
         // 1. New Random Verse Button
         btnRefresh.setOnClickListener {
-            loadVerse() // Loads and animates silently
+            stopAutoPlay()
+            loadVerse()
         }
 
         // 2. Choose Book, Chapter & Verse Button
         btnSelectManual.setOnClickListener {
+            stopAutoPlay()
             showBookSelectionDialog()
         }
 
-        // 3. Copy Button
+        // 3. Previous Verse Button
+        btnPrev.setOnClickListener {
+            currentVerse?.let { verse ->
+                val prevVerse = BibleRepository.getPreviousVerse(verse, this)
+                if (prevVerse != null) {
+                    displayVerse(prevVerse)
+                    if (isAutoPlaying) speakVerse(prevVerse)
+                } else {
+                    Toast.makeText(this, "Beginning of chapter reached", Toast.LENGTH_SHORT).show()
+                }
+            }
+        }
+
+        // 4. Next Verse Button
+        btnNext.setOnClickListener {
+            currentVerse?.let { verse ->
+                val nextVerse = BibleRepository.getNextVerse(verse, this)
+                if (nextVerse != null) {
+                    displayVerse(nextVerse)
+                    if (isAutoPlaying) speakVerse(nextVerse)
+                } else {
+                    Toast.makeText(this, "End of chapter reached", Toast.LENGTH_SHORT).show()
+                    stopAutoPlay()
+                }
+            }
+        }
+
+        // 5. Auto-Play / Continuous Listen Button
+        btnAutoPlay.setOnClickListener {
+            if (isAutoPlaying) {
+                stopAutoPlay()
+                Toast.makeText(this, "Auto-Play Stopped", Toast.LENGTH_SHORT).show()
+            } else {
+                startAutoPlay()
+            }
+        }
+
+        // 6. Copy Button
         btnCopy.setOnClickListener {
             val verseText = tvVerseText.text.toString()
             val verseRef = tvVerseRef.text.toString()
-            val fullText = "$verseText $verseRef"
+            val fullText = "$verseText$verseRef"
 
             val clipboard = getSystemService(Context.CLIPBOARD_SERVICE) as ClipboardManager
             val clip = ClipData.newPlainText("Bible Verse", fullText)
@@ -79,7 +130,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             Toast.makeText(this, "Verse copied to clipboard!", Toast.LENGTH_SHORT).show()
         }
 
-        // 4. Share Button
+        // 7. Share Button
         btnShare.setOnClickListener {
             val verseText = tvVerseText.text.toString()
             val verseRef = tvVerseRef.text.toString()
@@ -93,10 +144,11 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             startActivity(Intent.createChooser(shareIntent, "Share Verse via"))
         }
 
-        // 5. Speak Button (Manual TTS trigger)
+        // 8. Speak Button (Manual TTS trigger)
         btnSpeak.setOnClickListener {
             currentVerse?.let { verse ->
                 if (isTtsReady) {
+                    stopAutoPlay()
                     speakVerse(verse)
                 } else {
                     Toast.makeText(this, "Speech engine is still initializing...", Toast.LENGTH_SHORT).show()
@@ -104,7 +156,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             }
         }
 
-        // 6. Day/Night Theme Toggle Button
+        // 9. Day/Night Theme Toggle Button
         btnToggleTheme.setOnClickListener {
             isDarkMode = !isDarkMode
             applyTheme()
@@ -114,6 +166,23 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
         // Apply default theme colors immediately on startup
         applyTheme()
+    }
+
+    private fun startAutoPlay() {
+        if (!isTtsReady) {
+            Toast.makeText(this, "Speech engine not ready yet", Toast.LENGTH_SHORT).show()
+            return
+        }
+        isAutoPlaying = true
+        btnAutoPlay.text = "⏹ Stop Auto-Play"
+        currentVerse?.let { speakVerse(it) }
+        Toast.makeText(this, "Auto-Play Started", Toast.LENGTH_SHORT).show()
+    }
+
+    private fun stopAutoPlay() {
+        isAutoPlaying = false
+        btnAutoPlay.text = "▶ Auto-Play"
+        tts?.stop()
     }
 
     private fun applyTheme() {
@@ -133,151 +202,4 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             btnToggleTheme.strokeColor = ColorStateList.valueOf(Color.parseColor("#D7CCC8"))
             
             btnRefresh.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#8D6E63"))
-            btnRefresh.setTextColor(Color.parseColor("#121212"))
-            
-            btnCopy.setTextColor(Color.parseColor("#D7CCC8"))
-            btnCopy.strokeColor = ColorStateList.valueOf(Color.parseColor("#D7CCC8"))
-            
-            btnShare.setTextColor(Color.parseColor("#D7CCC8"))
-            btnShare.strokeColor = ColorStateList.valueOf(Color.parseColor("#D7CCC8"))
-
-            btnSpeak.setTextColor(Color.parseColor("#D7CCC8"))
-            btnSpeak.strokeColor = ColorStateList.valueOf(Color.parseColor("#D7CCC8"))
-            
-            btnSelectManual.setTextColor(Color.parseColor("#D7CCC8"))
-            btnSelectManual.strokeColor = ColorStateList.valueOf(Color.parseColor("#D7CCC8"))
-
-        } else {
-            // --- DAY MODE COLORS (Original Warm Theme) ---
-            rootLayout.setBackgroundResource(R.drawable.bg_gradient)
-            verseCard.setCardBackgroundColor(Color.parseColor("#FFFFFF"))
-            verseCard.strokeColor = Color.parseColor("#E8E2D5")
-            
-            tvVerseText.setTextColor(Color.parseColor("#2D241E"))
-            tvVerseRef.setTextColor(Color.parseColor("#8C6D53"))
-            
-            btnToggleTheme.text = "🌙 Switch to Night View"
-            btnToggleTheme.setTextColor(Color.parseColor("#6E472C"))
-            btnToggleTheme.strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
-            
-            btnRefresh.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#6E472C"))
-            btnRefresh.setTextColor(Color.WHITE)
-            
-            btnCopy.setTextColor(Color.parseColor("#6E472C"))
-            btnCopy.strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
-            
-            btnShare.setTextColor(Color.parseColor("#6E472C"))
-            btnShare.strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
-
-            btnSpeak.setTextColor(Color.parseColor("#6E472C"))
-            btnSpeak.strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
-            
-            btnSelectManual.setTextColor(Color.parseColor("#6E472C"))
-            btnSelectManual.strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
-        }
-    }
-
-    // Dialog 1: Choose Book
-    private fun showBookSelectionDialog() {
-        val books = BibleRepository.getAvailableBooks(this).toTypedArray()
-        
-        if (books.isEmpty()) {
-            Toast.makeText(this, "No books available", Toast.LENGTH_SHORT).show()
-            return
-        }
-
-        AlertDialog.Builder(this)
-            .setTitle("Select Book")
-            .setItems(books) { _, which ->
-                val selectedBook = books[which]
-                showChapterSelectionDialog(selectedBook)
-            }
-            .show()
-    }
-
-    // Dialog 2: Choose Chapter from Book
-    private fun showChapterSelectionDialog(bookName: String) {
-        val chapters = BibleRepository.getChaptersForBook(bookName, this).toTypedArray()
-
-        AlertDialog.Builder(this)
-            .setTitle("Select Chapter in $bookName")
-            .setItems(chapters) { _, which ->
-                val selectedChapter = chapters[which]
-                showVerseSelectionDialog(selectedChapter)
-            }
-            .show()
-    }
-
-    // Dialog 3: Choose Verse from Chapter
-    private fun showVerseSelectionDialog(chapterName: String) {
-        val chapterVerses = BibleRepository.getVerseObjectsForChapter(chapterName, this)
-        val verseTitles = chapterVerses.map { it.reference }.toTypedArray()
-
-        if (verseTitles.isEmpty()) {
-            Toast.makeText(this, "No verses found for $chapterName", Toast.LENGTH_SHORT).show()
-            return
-        }
-
-        AlertDialog.Builder(this)
-            .setTitle("Select Verse in $chapterName")
-            .setItems(verseTitles) { _, which ->
-                val selectedVerse = chapterVerses[which]
-                displayVerse(selectedVerse) // Display silently without auto-reading
-            }
-            .show()
-    }
-
-    // Helper function to update the screen with a specific verse silently
-    private fun displayVerse(verse: BibleVerse) {
-        currentVerse = verse
-        tvVerseText.text = verse.text
-        tvVerseRef.text = "— ${verse.reference}"
-
-        // Smooth fade-in animation
-        val fadeIn = AlphaAnimation(0.0f, 1.0f).apply { duration = 400 }
-        tvVerseText.startAnimation(fadeIn)
-        tvVerseRef.startAnimation(fadeIn)
-    }
-
-    // Random verse picker (silent load)
-    private fun loadVerse() {
-        val verse = BibleRepository.getRandomVerse(this)
-        displayVerse(verse)
-    }
-
-    // Text-to-Speech handler (triggered manually by Speak button)
-    private fun speakVerse(verse: BibleVerse) {
-        val isTagalog = isTagalogText(verse.text)
-        val locale = if (isTagalog) Locale("fil", "PH") else Locale.US
-
-        val result = tts?.setLanguage(locale)
-        if (result == TextToSpeech.LANG_MISSING_DATA || result == TextToSpeech.LANG_NOT_SUPPORTED) {
-            tts?.setLanguage(Locale.getDefault())
-        }
-
-        val speechText = "${verse.text}. Reference: ${verse.reference}"
-        tts?.speak(speechText, TextToSpeech.QUEUE_FLUSH, null, null)
-    }
-
-    private fun isTagalogText(text: String): Boolean {
-        val tagalogKeywords = listOf("ang", "mga", "sa", "at", "na", "ng", "ay", "kayo", "tayo", "ka", "mo", "ko", "ni", "para", "isang", "rin", "din")
-        val words = text.lowercase().split(Regex("\\s+"))
-        val matchCount = words.count { tagalogKeywords.contains(it) }
-        return matchCount >= 2
-    }
-
-    override fun onInit(status: Int) {
-        if (status == TextToSpeech.SUCCESS) {
-            tts?.setLanguage(Locale.US)
-            isTtsReady = true
-        }
-    }
-
-    override fun onDestroy() {
-        tts?.let {
-            it.stop()
-            it.shutdown()
-        }
-        super.onDestroy()
-    }
-}
+            btnRefresh.setTextColor(Color.parseColor("#
