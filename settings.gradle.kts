@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "RandomBibleVerse"
+rootProject.name = "English&TagalogBible"
 include(":app")
