@@ -371,9 +371,8 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         tts?.stop()
     }
 
-
-	private fun applyTheme() {
-        val rootLayout = findViewById<ViewGroup>(android.R.id.content).rootView
+    private fun applyTheme() {
+        val rootLayout = findViewById<ViewGroup>(android.R.id.content).getChildAt(0) ?: window.decorView
 
         if (isDarkMode) {
             // --- PROFESSIONAL NIGHT MODE ---
@@ -430,10 +429,10 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 btn.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
             }
         }
+        
         // Refresh toggle button highlighting based on active translation & theme
         updateLanguageToggleUI(BibleRepository.currentTranslation)
     }
-
 
     // Dialog 1: Choose Book
     private fun showBookSelectionDialog() {
