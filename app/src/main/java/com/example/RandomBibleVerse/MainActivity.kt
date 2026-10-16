@@ -263,8 +263,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 updateLanguageToggleUI(target)
                 displayVerse(matchingVerse)
             } else {
-                // Translation lacks data or the specific verse yet; roll back repository state safely
+                // Translation lacks data or the specific verse yet; roll back repository state AND UI safely
                 BibleRepository.loadVerses(this, previousTranslation)
+                updateLanguageToggleUI(previousTranslation) // Reverts the pill selection & text back to the working version
                 Toast.makeText(this, "This translation is not available yet.", Toast.LENGTH_LONG).show()
             }
         } else {
