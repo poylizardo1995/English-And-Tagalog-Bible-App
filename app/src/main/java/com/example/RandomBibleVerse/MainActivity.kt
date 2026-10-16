@@ -252,19 +252,23 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val currentBookChapterAndVerse = currentVerse?.reference?.substringBefore(" (")
         val previousTranslation = BibleRepository.currentTranslation
 
-        BibleRepository.setTranslation(this, target)
-
         if (currentBookChapterAndVerse != null) {
+            // Load target translation temporarily to verify contents without affecting current state
+            BibleRepository.loadVerses(this, target)
             val matchingVerse = BibleRepository.getVerseByBookChapterAndVerse(currentBookChapterAndVerse, this)
+
             if (matchingVerse != null) {
+                // Translation is available and has the matching verse
+                BibleRepository.setTranslation(this, target)
                 updateLanguageToggleUI(target)
                 displayVerse(matchingVerse)
             } else {
-                // Roll back translation repository state and show notification
-                BibleRepository.setTranslation(this, previousTranslation)
+                // Translation lacks data or the specific verse yet; roll back repository state safely
+                BibleRepository.loadVerses(this, previousTranslation)
                 Toast.makeText(this, "This translation is not available yet.", Toast.LENGTH_LONG).show()
             }
         } else {
+            BibleRepository.setTranslation(this, target)
             updateLanguageToggleUI(target)
             loadVerse()
         }
@@ -282,7 +286,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             if (isEnglishActive) {
                 btnEnglish.setBackgroundResource(R.drawable.bg_pill_selected)
                 btnEnglish.setTextColor(Color.parseColor("#121212"))
-                btnTagalog.setBackgroundColor(Color.TRANSPARENT)
+                btnTagalog.setBackgroundColor(Color.TRANSParent)
                 btnTagalog.setTextColor(Color.parseColor("#D7CCC8"))
             } else {
                 btnTagalog.setBackgroundResource(R.drawable.bg_pill_selected)
