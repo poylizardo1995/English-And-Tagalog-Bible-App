@@ -333,15 +333,16 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         tts?.stop()
     }
 
-   private fun applyTheme() {
+private fun applyTheme() {
         val rootLayout = findViewById<ViewGroup>(android.R.id.content).getChildAt(0) ?: window.decorView
 
         if (isDarkMode) {
             // --- NIGHT MODE ---
             rootLayout.setBackgroundResource(R.drawable.bg_gradient)
             
-            verseCard.setCardBackgroundColor(Color.parseColor("#1E1E1E"))
+            // Force pure dark charcoal background on MaterialCardView
             verseCard.backgroundTintList = null
+            verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#1E1E1E")))
             verseCard.strokeColor = Color.parseColor("#333333")
             verseCard.cardElevation = 0f
             
@@ -370,8 +371,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             // --- DAY MODE (Warm Theme) ---
             rootLayout.setBackgroundResource(R.drawable.bg_gradient)
             
-            verseCard.setCardBackgroundColor(Color.parseColor("#FFFFFF"))
+            // Force crisp white background on MaterialCardView
             verseCard.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#FFFFFF"))
+            verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#FFFFFF")))
             verseCard.strokeColor = Color.parseColor("#E8E2D5")
             verseCard.cardElevation = 4f
             
@@ -406,10 +408,10 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         btnEnglish.text = if (isEnglishActive) "${translation.displayName.substringAfter("(").substringBefore(")")} ▾" else "ENGLISH ▾"
         btnTagalog.text = if (!isEnglishActive) "${translation.displayName.substringAfter("(").substringBefore(")")} ▾" else "TAGALOG ▾"
 
-        // Respect current theme mode when updating language UI
+        // Enforce card background state consistently during language switches
         if (isDarkMode) {
-            verseCard.setCardBackgroundColor(Color.parseColor("#1E1E1E"))
             verseCard.backgroundTintList = null
+            verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#1E1E1E")))
             verseCard.strokeColor = Color.parseColor("#333333")
 
             languageToggleContainer.background = getDrawable(R.drawable.bg_pill_container)
@@ -425,8 +427,8 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 btnEnglish.setTextColor(Color.parseColor("#D7CCC8"))
             }
         } else {
-            verseCard.setCardBackgroundColor(Color.parseColor("#FFFFFF"))
             verseCard.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#FFFFFF"))
+            verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#FFFFFF")))
             verseCard.strokeColor = Color.parseColor("#E8E2D5")
 
             languageToggleContainer.background = getDrawable(R.drawable.bg_pill_container)
