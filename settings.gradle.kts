@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "English&TagalogBible"
+rootProject.name = "EnglishTagalogBible"
 include(":app")
