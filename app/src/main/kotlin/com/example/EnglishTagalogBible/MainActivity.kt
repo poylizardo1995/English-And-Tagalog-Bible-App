@@ -571,6 +571,14 @@ private fun updateLanguageToggleUI(translation: BibleTranslation) {
         btnEnglish.text = if (isEnglishActive) "• ${translation.displayName.uppercase()}" else "ENGLISH"
         btnTagalog.text = if (!isEnglishActive) "• ${translation.displayName.uppercase()}" else "TAGALOG"
 
+        // Outer container border styling to unify the two buttons as a single toggle control
+        languageToggleContainer.background = android.graphics.drawable.GradientDrawable().apply {
+            shape = android.graphics.drawable.GradientDrawable.RECTANGLE
+            cornerRadius = 50f // Pill container shape
+            setColor(if (isDarkMode) Color.parseColor("#121212") else Color.parseColor("#F5F2EC")) // Dark/Light track background
+            setStroke(2, if (isDarkMode) Color.parseColor("#D7CCC8") else Color.parseColor("#6E472C")) // Outer border line
+        }
+
         if (isDarkMode) {
             verseCard.backgroundTintList = null
             verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#1E1E1E")))
@@ -578,14 +586,14 @@ private fun updateLanguageToggleUI(translation: BibleTranslation) {
 
             if (isEnglishActive) {
                 btnEnglish.setBackgroundResource(R.drawable.bg_pill_selected)
-                btnEnglish.setTextColor(Color.parseColor("#FFFFFF")) // Fixed: Light text for active pill in dark mode
+                btnEnglish.setTextColor(Color.parseColor("#FFFFFF"))
                 
                 btnTagalog.backgroundTintList = null
                 btnTagalog.setBackgroundColor(Color.TRANSPARENT)
                 btnTagalog.setTextColor(Color.parseColor("#D7CCC8"))
             } else {
                 btnTagalog.setBackgroundResource(R.drawable.bg_pill_selected)
-                btnTagalog.setTextColor(Color.parseColor("#FFFFFF")) // Fixed: Light text for active pill in dark mode
+                btnTagalog.setTextColor(Color.parseColor("#FFFFFF"))
                 
                 btnEnglish.backgroundTintList = null
                 btnEnglish.setBackgroundColor(Color.TRANSPARENT)
