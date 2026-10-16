@@ -1,4 +1,4 @@
-package com.example.RandomBibleVerse
+package com.example.English&TagalogBible
 
 import android.content.Context
 import org.json.JSONArray
