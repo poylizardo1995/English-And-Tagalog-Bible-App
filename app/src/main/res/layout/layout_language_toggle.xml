@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="@drawable/bg_pill_container"
+    android:padding="3dp"
+    android:gravity="center">
+
+    <TextView
+        android:id="@+id/btnKjv"
+        android:layout_width="wrap_content"
+        android:layout_height="36dp"
+        android:text="KJV"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:paddingHorizontal="16dp"
+        android:background="@drawable/bg_pill_selected"
+        android:textColor="@android:color/white" />
+
+    <TextView
+        android:id="@+id/btnTagalog"
+        android:layout_width="wrap_content"
+        android:layout_height="36dp"
+        android:text="Tagalog"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:paddingHorizontal="16dp"
+        android:background="@android:color/transparent"
+        android:textColor="#555555" />
+
+</LinearLayout>
