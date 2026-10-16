@@ -192,7 +192,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             startActivity(Intent.createChooser(shareIntent, "Share Verse via"))
         }
 
-        // 8. Speak Button (Manual TTS trigger)
+        // 8. Listen Button (Manual TTS trigger)
         btnSpeak.setOnClickListener {
             currentVerse?.let { verse ->
                 if (isTtsReady) {
@@ -418,12 +418,10 @@ private fun applyTheme() {
             if (isEnglishActive) {
                 btnEnglish.setBackgroundResource(R.drawable.bg_pill_selected)
                 btnEnglish.setTextColor(Color.parseColor("#121212"))
-                btnTagalog.setBackgroundColor(Color.TRANSPARENT)
                 btnTagalog.setTextColor(Color.parseColor("#D7CCC8"))
             } else {
                 btnTagalog.setBackgroundResource(R.drawable.bg_pill_selected)
                 btnTagalog.setTextColor(Color.parseColor("#121212"))
-                btnEnglish.setBackgroundColor(Color.parseColor("#E0E0E0"))
                 btnEnglish.setTextColor(Color.parseColor("#D7CCC8"))
             }
         } else {
@@ -435,12 +433,10 @@ private fun applyTheme() {
             if (isEnglishActive) {
                 btnEnglish.setBackgroundResource(R.drawable.bg_pill_selected)
                 btnEnglish.setTextColor(Color.WHITE)
-                btnTagalog.setBackgroundColor(Color.TRANSPARENT)
                 btnTagalog.setTextColor(Color.parseColor("#555555"))
             } else {
                 btnTagalog.setBackgroundResource(R.drawable.bg_pill_selected)
                 btnTagalog.setTextColor(Color.WHITE)
-                btnEnglish.setBackgroundColor(Color.TRANSPARENT)
                 btnEnglish.setTextColor(Color.parseColor("#555555"))
             }
         }
