@@ -299,17 +299,42 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
 
     private fun showAboutDialog() {
-        AlertDialog.Builder(this)
+        val dialog = AlertDialog.Builder(this)
             .setTitle("About & Credits")
             .setMessage(
-                "English and Tagalog Bible v1.1\n\n" +
+                "English and Tagalog Bible v1.2\n\n" +
                 "App Developed by Poy Lizardo\n\n" +
                 "Copyright © 2026. All Rights Reserved. To God be the glory!\n\n" +
                 "Scripture Text Provided via Public Domain Translations: English - King James Version (KJV) and Tagalog - Ang Dating Biblia 1905 (ADB1905).\n\n" +    
                 "Github: https://github.com/poylizardo1995/English-And-Tagalog-Bible-App\n\n"
             )
-            .setPositiveButton("OK") { dialog, _ -> dialog.dismiss() }
-            .show()
+            .setPositiveButton("OK") { dialogInterface, _ -> dialogInterface.dismiss() }
+            .create()
+
+        dialog.show()
+
+        // Center-align the message text
+        val messageView = dialog.findViewById<TextView>(android.R.id.message)
+        messageView?.gravity = android.view.Gravity.CENTER
+        
+        // Match text colors to the current theme
+        if (isDarkMode) {
+            messageView?.setTextColor(Color.parseColor("#E0E0E0"))
+            dialog.findViewById<TextView>(androidx.appcompat.R.id.alertTitle)?.setTextColor(Color.parseColor("#FFFFFF"))
+            dialog.window?.decorView?.background = android.graphics.drawable.GradientDrawable().apply {
+                shape = android.graphics.drawable.GradientDrawable.RECTANGLE
+                cornerRadius = 24f
+                setColor(Color.parseColor("#1E1E1E")) // Matches your night card background
+            }
+        } else {
+            messageView?.setTextColor(Color.parseColor("#2D241E"))
+            dialog.findViewById<TextView>(androidx.appcompat.R.id.alertTitle)?.setTextColor(Color.parseColor("#2D241E"))
+            dialog.window?.decorView?.background = android.graphics.drawable.GradientDrawable().apply {
+                shape = android.graphics.drawable.GradientDrawable.RECTANGLE
+                cornerRadius = 24f
+                setColor(Color.parseColor("#FFFFFF")) // Matches your day card background
+            }
+        }
     }
 
     private fun startAutoPlay() {
@@ -333,7 +358,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         tts?.stop()
     }
 
-private fun applyTheme() {
+    private fun applyTheme() {
         val rootLayout = findViewById<ViewGroup>(android.R.id.content).getChildAt(0) ?: window.decorView
 
         if (isDarkMode) {
@@ -414,14 +439,17 @@ private fun applyTheme() {
             verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#1E1E1E")))
             verseCard.strokeColor = Color.parseColor("#333333")
 
-            languageToggleContainer.background = getDrawable(R.drawable.bg_pill_container)
             if (isEnglishActive) {
                 btnEnglish.setBackgroundResource(R.drawable.bg_pill_selected)
                 btnEnglish.setTextColor(Color.parseColor("#121212"))
+                btnTagalog.backgroundTintList = null
+                btnTagalog.setBackgroundColor(Color.TRANSPARENT)
                 btnTagalog.setTextColor(Color.parseColor("#D7CCC8"))
             } else {
                 btnTagalog.setBackgroundResource(R.drawable.bg_pill_selected)
                 btnTagalog.setTextColor(Color.parseColor("#121212"))
+                btnEnglish.backgroundTintList = null
+                btnEnglish.setBackgroundColor(Color.TRANSPARENT)
                 btnEnglish.setTextColor(Color.parseColor("#D7CCC8"))
             }
         } else {
@@ -429,14 +457,17 @@ private fun applyTheme() {
             verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#FFFFFF")))
             verseCard.strokeColor = Color.parseColor("#E8E2D5")
 
-            languageToggleContainer.background = getDrawable(R.drawable.bg_pill_container)
             if (isEnglishActive) {
                 btnEnglish.setBackgroundResource(R.drawable.bg_pill_selected)
                 btnEnglish.setTextColor(Color.WHITE)
+                btnTagalog.backgroundTintList = null
+                btnTagalog.setBackgroundColor(Color.TRANSPARENT)
                 btnTagalog.setTextColor(Color.parseColor("#555555"))
             } else {
                 btnTagalog.setBackgroundResource(R.drawable.bg_pill_selected)
                 btnTagalog.setTextColor(Color.WHITE)
+                btnEnglish.backgroundTintList = null
+                btnEnglish.setBackgroundColor(Color.TRANSPARENT)
                 btnEnglish.setTextColor(Color.parseColor("#555555"))
             }
         }
@@ -509,11 +540,30 @@ private fun applyTheme() {
     }
 
     private fun speakVerse(verse: BibleVerse) {
+        if (!isTtsReady || tts == null) {
+            val toast = Toast.makeText(this, "TTS engine is not ready or installed on this device.", Toast.LENGTH_SHORT)
+            toast.setGravity(android.view.Gravity.CENTER, 0, 0)
+            toast.show()
+            
+            val installIntent = Intent().apply {
+                action = TextToSpeech.Engine.ACTION_INSTALL_TTS_DATA
+            }
+            try {
+                startActivity(installIntent)
+            } catch (e: Exception) {
+                // Catch if intent is unavailable
+            }
+            return
+        }
+
         val isTagalog = isTagalogText(verse.text)
         val locale = if (isTagalog) Locale("fil", "PH") else Locale.US
 
         val result = tts?.setLanguage(locale)
         if (result == TextToSpeech.LANG_MISSING_DATA || result == TextToSpeech.LANG_NOT_SUPPORTED) {
+            val fallbackToast = Toast.makeText(this, "Language data missing for speech. Defaulting to system language.", Toast.LENGTH_SHORT)
+            fallbackToast.setGravity(android.view.Gravity.CENTER, 0, 0)
+            fallbackToast.show()
             tts?.setLanguage(Locale.getDefault())
         }
 
@@ -530,8 +580,15 @@ private fun applyTheme() {
 
     override fun onInit(status: Int) {
         if (status == TextToSpeech.SUCCESS) {
-            tts?.setLanguage(Locale.US)
-            isTtsReady = true
+            val result = tts?.setLanguage(Locale.US)
+            if (result == TextToSpeech.LANG_MISSING_DATA || result == TextToSpeech.LANG_NOT_SUPPORTED) {
+                isTtsReady = false
+                val toast = Toast.makeText(this, "TTS Language data missing. Please check device Text-to-Speech settings.", Toast.LENGTH_SHORT)
+                toast.setGravity(android.view.Gravity.CENTER, 0, 0)
+                toast.show()
+            } else {
+                isTtsReady = true
+            }
 
             tts?.setOnUtteranceProgressListener(object : UtteranceProgressListener() {
                 override fun onStart(utteranceId: String?) {}
@@ -561,6 +618,11 @@ private fun applyTheme() {
                     }
                 }
             })
+        } else {
+            isTtsReady = false
+            val toast = Toast.makeText(this, "Failed to initialize Text-to-Speech engine.", Toast.LENGTH_SHORT)
+            toast.setGravity(android.view.Gravity.CENTER, 0, 0)
+            toast.show()
         }
     }
 
