@@ -4,7 +4,13 @@ import android.content.ClipData
 import android.content.ClipboardManager
 import android.content.Context
 import android.content.Intent
+import android.graphics.Bitmap
+import android.graphics.Canvas
 import android.graphics.Color
+import android.graphics.LinearGradient
+import android.graphics.Paint
+import android.graphics.Shader
+import android.graphics.Typeface
 import android.content.res.ColorStateList
 import android.os.Bundle
 import android.speech.tts.TextToSpeech
@@ -16,8 +22,11 @@ import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
+import androidx.core.content.FileProvider
 import com.google.android.material.button.MaterialButton
 import com.google.android.material.card.MaterialCardView
+import java.io.File
+import java.io.FileOutputStream
 import java.util.Locale
 
 class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
@@ -181,16 +190,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         }
 
         btnShare.setOnClickListener {
-            val verseText = tvVerseText.text.toString()
-            val verseRef = tvVerseRef.text.toString()
-            val shareBody = "$verseText\n\n$verseRef"
-
-            val shareIntent = Intent().apply {
-                action = Intent.ACTION_SEND
-                type = "text/plain"
-                putExtra(Intent.EXTRA_TEXT, shareBody)
-            }
-            startActivity(Intent.createChooser(shareIntent, "Share Verse via"))
+            showShareOptionsDialog()
         }
 
         btnSpeak.setOnClickListener {
@@ -271,7 +271,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                     this.textAlignment = android.view.View.TEXT_ALIGNMENT_CENTER
                     this.setPadding(0, 28, 0, 28)
                     
-                    if (items[position].startsWith("—") || items[position].startsWith("📜") || items[position].startsWith("✝️") || items[position].startsWith("📚") || items[position].startsWith("▶")) {
+                    if (items[position].startsWith("—") || items[position].startsWith("📜") || items[position].startsWith("✝️") || items[position].startsWith("📚") || items[position].startsWith("▶") || items[position].startsWith("📝") || items[position].startsWith("🖼️")) {
                         this.setTextColor(if (isDarkMode) Color.parseColor("#B08D73") else Color.parseColor("#8C6D53"))
                         this.setTypeface(null, android.graphics.Typeface.BOLD)
                     } else {
@@ -285,6 +285,129 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 }
                 return view
             }
+        }
+    }
+
+    private fun showShareOptionsDialog() {
+        val verseText = tvVerseText.text.toString()
+        val verseRef = tvVerseRef.text.toString()
+
+        val options = arrayOf("📝 Share as Text", "🖼️ Share as Image Card")
+        val dialog = AlertDialog.Builder(this)
+            .setTitle("Share Verse")
+            .setAdapter(createCenteredListAdapter(options)) { _, which ->
+                if (which == 0) {
+                    val shareBody = "$verseText\n\n$verseRef"
+                    val shareIntent = Intent().apply {
+                        action = Intent.ACTION_SEND
+                        type = "text/plain"
+                        putExtra(Intent.EXTRA_TEXT, shareBody)
+                    }
+                    startActivity(Intent.createChooser(shareIntent, "Share Verse via"))
+                } else {
+                    shareVerseAsImage(verseText, verseRef)
+                }
+            }
+            .create()
+        applyThemedDialogStyle(dialog)
+    }
+
+    private fun shareVerseAsImage(verseText: String, verseRef: String) {
+        try {
+            val width = 1080
+            val height = 1080
+            val bitmap = Bitmap.createBitmap(width, height, Bitmap.Config.ARGB_8888)
+            val canvas = Canvas(bitmap)
+
+            val gradient = LinearGradient(
+                0f, 0f, width.toFloat(), height.toFloat(),
+                intArrayOf(Color.parseColor("#2D241E"), Color.parseColor("#4A3B32"), Color.parseColor("#1E1A17")),
+                null,
+                Shader.TileMode.CLAMP
+            )
+            val bgPaint = Paint().apply { shader = gradient }
+            canvas.drawRect(0f, 0f, width.toFloat(), height.toFloat(), bgPaint)
+
+            val borderPaint = Paint().apply {
+                color = Color.parseColor("#B08D73")
+                style = Paint.Style.STROKE
+                strokeWidth = 6f
+            }
+            canvas.drawRoundRect(60f, 60f, (width - 60).toFloat(), (height - 60).toFloat(), 32f, 32f, borderPaint)
+
+            val textPaint = Paint().apply {
+                color = Color.parseColor("#FFFFFF")
+                textSize = 54f
+                typeface = Typeface.create("serif", Typeface.ITALIC)
+                isAntiAlias = true
+                textAlign = Paint.Align.CENTER
+            }
+
+            val refPaint = Paint().apply {
+                color = Color.parseColor("#D7CCC8")
+                textSize = 42f
+                typeface = Typeface.create(Typeface.DEFAULT, Typeface.BOLD)
+                isAntiAlias = true
+                textAlign = Paint.Align.CENTER
+            }
+
+            val brandingPaint = Paint().apply {
+                color = Color.parseColor("#8D6E63")
+                textSize = 32f
+                typeface = Typeface.create(Typeface.DEFAULT, Typeface.NORMAL)
+                isAntiAlias = true
+                textAlign = Paint.Align.CENTER
+            }
+
+            val maxWidth = width - 200f
+            val lines = mutableListOf<String>()
+            val words = verseText.split(" ")
+            var currentLine = ""
+
+            for (word in words) {
+                val testLine = if (currentLine.isEmpty()) word else "$currentLine $word"
+                if (textPaint.measureText(testLine) <= maxWidth) {
+                    currentLine = testLine
+                } else {
+                    lines.add(currentLine)
+                    currentLine = word
+                }
+            }
+            if (currentLine.isNotEmpty()) {
+                lines.add(currentLine)
+            }
+
+            val lineHeight = 75f
+            val totalTextHeight = lines.size * lineHeight
+            var startY = (height / 2f) - (totalTextHeight / 2f) - 60f
+
+            for (line in lines) {
+                canvas.drawText(line, (width / 2f), startY, textPaint)
+                startY += lineHeight
+            }
+
+            canvas.drawText(verseRef, (width / 2f), startY + 60f, refPaint)
+            canvas.drawText("English & Tagalog Bible App", (width / 2f), height - 100f, brandingPaint)
+
+            val cachePath = File(cacheDir, "images")
+            cachePath.mkdirs()
+            val file = File(cachePath, "shared_verse.png")
+            val stream = FileOutputStream(file)
+            bitmap.compress(Bitmap.CompressFormat.PNG, 100, stream)
+            stream.close()
+
+            val imageUri = FileProvider.getUriForFile(this, "${packageName}.fileprovider", file)
+
+            val shareIntent = Intent().apply {
+                action = Intent.ACTION_SEND
+                type = "image/png"
+                putExtra(Intent.EXTRA_STREAM, imageUri)
+                addFlags(Intent.FLAG_GRANT_READ_URI_PERMISSION)
+            }
+            startActivity(Intent.createChooser(shareIntent, "Share Verse Card via"))
+
+        } catch (e: Exception) {
+            showCenteredToast("Failed to generate verse card image.")
         }
     }
 
@@ -314,7 +437,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             setPadding(48, 20, 48, 0)
         }
 
-        // Version Selection Spinner / Dropdown
         val translations = BibleTranslation.values()
         val translationNames = translations.map { it.displayName }.toTypedArray()
         
@@ -333,7 +455,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             )
             setAdapter(adapter)
             
-            // Pre-select current translation index
             val currentIndex = translations.indexOf(BibleRepository.currentTranslation)
             if (currentIndex != -1) setSelection(currentIndex)
         }
@@ -369,7 +490,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
 
     private fun performVerseSearch(query: String, targetTranslation: BibleTranslation) {
-        // Temporarily load or use target translation to search
         BibleRepository.loadVerses(this, targetTranslation)
         
         val matchingVerses = mutableListOf<BibleVerse>()
@@ -414,7 +534,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val dialog = AlertDialog.Builder(this)
             .setTitle("Results (${results.size}) - ${targetTranslation.displayName}")
             .setAdapter(createCenteredListAdapter(resultTitles)) { _, which ->
-                // Switch app active translation to the searched version before displaying
                 BibleRepository.setTranslation(this, targetTranslation)
                 updateLanguageToggleUI(targetTranslation)
                 val selectedVerse = results[which]
@@ -735,8 +854,8 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             
             verseCard.backgroundTintList = null
             verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#1E1E1E")))
-            verseCard.strokeColor = Color.parseColor("#333333")
-            verseCard.cardElevation = 0f
+            verseCard.strokeColor = Color.parseColor("#444444")
+            verseCard.cardElevation = 6f
             
             tvVerseText.setTextColor(Color.parseColor("#FFFFFF"))
             tvVerseRef.setTextColor(Color.parseColor("#B08D73"))
@@ -770,8 +889,8 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             
             verseCard.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#FFFFFF"))
             verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#FFFFFF")))
-            verseCard.strokeColor = Color.parseColor("#E8E2D5")
-            verseCard.cardElevation = 4f
+            verseCard.strokeColor = Color.parseColor("#D0C4B2")
+            verseCard.cardElevation = 8f
             
             tvVerseText.setTextColor(Color.parseColor("#2D241E"))
             tvVerseRef.setTextColor(Color.parseColor("#8C6D53"))
@@ -813,7 +932,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         if (isDarkMode) {
             verseCard.backgroundTintList = null
             verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#1E1E1E")))
-            verseCard.strokeColor = Color.parseColor("#333333")
+            verseCard.strokeColor = Color.parseColor("#444444")
 
             val nightPillColor = ColorStateList.valueOf(Color.parseColor("#8D6E63"))
 
@@ -837,7 +956,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         } else {
             verseCard.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#FFFFFF"))
             verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#FFFFFF")))
-            verseCard.strokeColor = Color.parseColor("#E8E2D5")
+            verseCard.strokeColor = Color.parseColor("#D0C4B2")
 
             val dayPillColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
 
@@ -856,7 +975,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 
                 btnEnglish.backgroundTintList = null
                 btnEnglish.setBackgroundColor(Color.TRANSPARENT)
-                btnEnglish.setTextColor(Color.parseColor("#555555"))
+                btnTagalog.setTextColor(Color.parseColor("#555555"))
             }
         }
     }
@@ -929,7 +1048,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         }
     }
 
-    override fun onDestroy() {
+    override onDestroy() {
         tts?.let {
             it.stop()
             it.shutdown()
