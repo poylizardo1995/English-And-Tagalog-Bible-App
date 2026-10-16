@@ -252,20 +252,32 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val currentBookChapterAndVerse = currentVerse?.reference?.substringBefore(" (")
         val previousTranslation = BibleRepository.currentTranslation
 
+        // Check if the target translation actually has files for this specific book/chapter or suffix
+        val assetFiles = assets.list("") ?: emptyArray()
+        val targetSuffix = "_${target.suffix}.json"
+        val hasSuffixFiles = assetFiles.any { it.endsWith(targetSuffix) }
+
+        if (!hasSuffixFiles && target != BibleTranslation.KJV && target != BibleTranslation.ADB1905) {
+            // Explicitly catch unpopulated translations that lack asset files
+            Toast.makeText(this, "This translation is not available yet.", Toast.LENGTH_LONG).show()
+            updateLanguageToggleUI(previousTranslation)
+            return
+        }
+
         if (currentBookChapterAndVerse != null) {
-            // Load target translation temporarily to verify contents without affecting current state
             BibleRepository.loadVerses(this, target)
             val matchingVerse = BibleRepository.getVerseByBookChapterAndVerse(currentBookChapterAndVerse, this)
 
-            if (matchingVerse != null) {
-                // Translation is available and has the matching verse
+            // Ensure the matching verse actually belongs to the target translation (not fallback Psalm 23:1)
+            val isFallbackVerse = matchingVerse?.text == "The Lord is my shepherd; I shall not want." && currentBookChapterAndVerse != "Psalm 23:1"
+
+            if (matchingVerse != null && !isFallbackVerse) {
                 BibleRepository.setTranslation(this, target)
                 updateLanguageToggleUI(target)
                 displayVerse(matchingVerse)
             } else {
-                // Translation lacks data or the specific verse yet; roll back repository state AND UI safely
                 BibleRepository.loadVerses(this, previousTranslation)
-                updateLanguageToggleUI(previousTranslation) // Reverts the pill selection & text back to the working version
+                updateLanguageToggleUI(previousTranslation)
                 Toast.makeText(this, "This translation is not available yet.", Toast.LENGTH_LONG).show()
             }
         } else {
