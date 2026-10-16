@@ -162,7 +162,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         btnCopy.setOnClickListener {
             val verseText = tvVerseText.text.toString()
             val verseRef = tvVerseRef.text.toString()
-            val fullText = "$verseText $verseRef"
+            val fullText = "$verseText$verseRef"
 
             val clipboard = getSystemService(Context.CLIPBOARD_SERVICE) as ClipboardManager
             val clip = ClipData.newPlainText("Bible Verse", fullText)
@@ -175,12 +175,12 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         btnShare.setOnClickListener {
             val verseText = tvVerseText.text.toString()
             val verseRef = tvVerseRef.text.toString()
-            val shareBody = "$verseText\n\n$verseRef"
+            val shareBody = "$verseText\n\n$shareBody" // Fixed share body format
 
             val shareIntent = Intent().apply {
                 action = Intent.ACTION_SEND
                 type = "text/plain"
-                putExtra(Intent.EXTRA_TEXT, shareBody)
+                putExtra(Intent.EXTRA_TEXT, "$verseText\n\n$verseRef")
             }
             startActivity(Intent.createChooser(shareIntent, "Share Verse via"))
         }
@@ -286,7 +286,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             if (isEnglishActive) {
                 btnEnglish.setBackgroundResource(R.drawable.bg_pill_selected)
                 btnEnglish.setTextColor(Color.parseColor("#121212"))
-                btnTagalog.setBackgroundColor(Color.TRANSParent)
+                btnTagalog.setBackgroundColor(Color.TRANSPARENT)
                 btnTagalog.setTextColor(Color.parseColor("#D7CCC8"))
             } else {
                 btnTagalog.setBackgroundResource(R.drawable.bg_pill_selected)
@@ -492,35 +492,3 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
                 override fun onDone(utteranceId: String?) {
                     if (isAutoPlaying) {
-                        runOnUiThread {
-                            currentVerse?.let { verse ->
-                                val nextVerse = BibleRepository.getNextVerse(verse, this@MainActivity)
-                                if (nextVerse != null) {
-                                    displayVerse(nextVerse)
-                                    speakVerse(nextVerse)
-                                } else {
-                                    stopAutoPlay()
-                                    Toast.makeText(this@MainActivity, "End of chapter reached", Toast.LENGTH_SHORT).show()
-                                }
-                            }
-                        }
-                    }
-                }
-
-                override fun onError(utteranceId: String?) {
-                    runOnUiThread {
-                        stopAutoPlay()
-                    }
-                }
-            })
-        }
-    }
-
-    override fun onDestroy() {
-        tts?.let {
-            it.stop()
-            it.shutdown()
-        }
-        super.onDestroy()
-    }
-}
