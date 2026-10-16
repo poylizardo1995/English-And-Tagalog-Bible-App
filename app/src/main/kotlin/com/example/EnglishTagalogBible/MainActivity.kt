@@ -313,26 +313,29 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
         dialog.show()
 
-        // Center-align the message text
+        // Center-align both the title and message text views
+        val titleView = dialog.findViewById<TextView>(androidx.appcompat.R.id.alertTitle)
+        titleView?.gravity = android.view.Gravity.CENTER
+
         val messageView = dialog.findViewById<TextView>(android.R.id.message)
         messageView?.gravity = android.view.Gravity.CENTER
         
-        // Match text colors to the current theme
+        // Match text colors and background to the current theme
         if (isDarkMode) {
+            titleView?.setTextColor(Color.parseColor("#FFFFFF"))
             messageView?.setTextColor(Color.parseColor("#E0E0E0"))
-            dialog.findViewById<TextView>(androidx.appcompat.R.id.alertTitle)?.setTextColor(Color.parseColor("#FFFFFF"))
             dialog.window?.decorView?.background = android.graphics.drawable.GradientDrawable().apply {
                 shape = android.graphics.drawable.GradientDrawable.RECTANGLE
                 cornerRadius = 24f
-                setColor(Color.parseColor("#1E1E1E")) // Matches your night card background
+                setColor(Color.parseColor("#1E1E1E"))
             }
         } else {
+            titleView?.setTextColor(Color.parseColor("#2D241E"))
             messageView?.setTextColor(Color.parseColor("#2D241E"))
-            dialog.findViewById<TextView>(androidx.appcompat.R.id.alertTitle)?.setTextColor(Color.parseColor("#2D241E"))
             dialog.window?.decorView?.background = android.graphics.drawable.GradientDrawable().apply {
                 shape = android.graphics.drawable.GradientDrawable.RECTANGLE
                 cornerRadius = 24f
-                setColor(Color.parseColor("#FFFFFF")) // Matches your day card background
+                setColor(Color.parseColor("#FFFFFF"))
             }
         }
     }
