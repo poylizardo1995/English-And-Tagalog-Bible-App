@@ -1,4 +1,4 @@
-package com.example.RandomBibleVerse
+package com.example.EnglishTagalogBible
 
 import android.app.NotificationChannel
 import android.app.NotificationManager
