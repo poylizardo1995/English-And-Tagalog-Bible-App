@@ -19,7 +19,10 @@ data class BibleVerse(
 object BibleRepository {
     private val verses = mutableListOf<BibleVerse>()
     private var isLoaded = false
-    private var currentTranslation: BibleTranslation = BibleTranslation.KJV
+    
+    // Updated visibility so MainActivity can read currentTranslation safely
+    var currentTranslation: BibleTranslation = BibleTranslation.KJV
+        private set
 
     /**
      * Dynamically loads verses from all matching JSON assets.
