@@ -567,35 +567,46 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     private fun updateLanguageToggleUI(translation: BibleTranslation) {
         val isEnglishActive = translation.languageGroup == "English"
         
-        // Show active toggle status clearly with a bullet indicator
-        btnEnglish.text = if (isEnglishActive) "• ${translation.displayName.uppercase()}" else "ENGLISH"
-        btnTagalog.text = if (!isEnglishActive) "• ${translation.displayName.uppercase()}" else "TAGALOG"
+        // Show full translation name when active (e.g., "ENGLISH (KJV)" or "TAGALOG (ADB1905)")
+        btnEnglish.text = if (isEnglishActive) translation.displayName.uppercase() + " ▾" else "ENGLISH ▾"
+        btnTagalog.text = if (!isEnglishActive) translation.displayName.uppercase() + " ▾" else "TAGALOG ▾"
 
-        val inactiveBorderColor = Color.parseColor(if (isDarkMode) "#555555" else "#D7CCC8")
-        val inactiveTextColor = Color.parseColor(if (isDarkMode) "#D7CCC8" else "#555555")
+        if (isDarkMode) {
+            verseCard.backgroundTintList = null
+            verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#1E1E1E")))
+            verseCard.strokeColor = Color.parseColor("#333333")
 
-        if (isEnglishActive) {
-            btnEnglish.setBackgroundResource(R.drawable.bg_pill_selected)
-            btnEnglish.setTextColor(Color.parseColor("#FFFFFF"))
-            
-            btnTagalog.background = android.graphics.drawable.GradientDrawable().apply {
-                shape = android.graphics.drawable.GradientDrawable.RECTANGLE
-                cornerRadius = 50f
-                setColor(Color.TRANSPARENT)
-                setStroke(2, inactiveBorderColor)
+            if (isEnglishActive) {
+                btnEnglish.setBackgroundResource(R.drawable.bg_pill_selected)
+                btnEnglish.setTextColor(Color.parseColor("#121212"))
+                btnTagalog.backgroundTintList = null
+                btnTagalog.setBackgroundColor(Color.TRANSPARENT)
+                btnTagalog.setTextColor(Color.parseColor("#D7CCC8"))
+            } else {
+                btnTagalog.setBackgroundResource(R.drawable.bg_pill_selected)
+                btnTagalog.setTextColor(Color.parseColor("#121212"))
+                btnEnglish.backgroundTintList = null
+                btnEnglish.setBackgroundColor(Color.TRANSPARENT)
+                btnEnglish.setTextColor(Color.parseColor("#D7CCC8"))
             }
-            btnTagalog.setTextColor(inactiveTextColor)
         } else {
-            btnTagalog.setBackgroundResource(R.drawable.bg_pill_selected)
-            btnTagalog.setTextColor(Color.parseColor("#FFFFFF"))
-            
-            btnEnglish.background = android.graphics.drawable.GradientDrawable().apply {
-                shape = android.graphics.drawable.GradientDrawable.RECTANGLE
-                cornerRadius = 50f
-                setColor(Color.TRANSPARENT)
-                setStroke(2, inactiveBorderColor)
+            verseCard.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#FFFFFF"))
+            verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#FFFFFF")))
+            verseCard.strokeColor = Color.parseColor("#E8E2D5")
+
+            if (isEnglishActive) {
+                btnEnglish.setBackgroundResource(R.drawable.bg_pill_selected)
+                btnEnglish.setTextColor(Color.WHITE)
+                btnTagalog.backgroundTintList = null
+                btnTagalog.setBackgroundColor(Color.TRANSPARENT)
+                btnTagalog.setTextColor(Color.parseColor("#555555"))
+            } else {
+                btnTagalog.setBackgroundResource(R.drawable.bg_pill_selected)
+                btnTagalog.setTextColor(Color.WHITE)
+                btnEnglish.backgroundTintList = null
+                btnEnglish.setBackgroundColor(Color.TRANSPARENT)
+                btnEnglish.setTextColor(Color.parseColor("#555555"))
             }
-            btnEnglish.setTextColor(inactiveTextColor)
         }
     }
 
