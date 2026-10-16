@@ -298,50 +298,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         }
     }
 
-    private fun updateLanguageToggleUI(translation: BibleTranslation) {
-        val isEnglishActive = translation.languageGroup == "English"
-        
-        btnEnglish.text = if (isEnglishActive) "${translation.displayName.substringAfter("(").substringBefore(")")} ▾" else "ENGLISH ▾"
-        btnTagalog.text = if (!isEnglishActive) "${translation.displayName.substringAfter("(").substringBefore(")")} ▾" else "TAGALOG ▾"
-
-        if (isDarkMode) {
-            verseCard.setCardBackgroundColor(Color.parseColor("#1E1E1E"))
-            verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#1E1E1E")))
-            verseCard.strokeColor = Color.parseColor("#333333")
-
-            // --- NIGHT MODE TOGGLE STYLING ---
-            languageToggleContainer.background = getDrawable(R.drawable.bg_pill_container)
-            if (isEnglishActive) {
-                btnEnglish.setBackgroundResource(R.drawable.bg_pill_selected)
-                btnEnglish.setTextColor(Color.parseColor("#121212"))
-                btnTagalog.setBackgroundColor(Color.TRANSPARENT)
-                btnTagalog.setTextColor(Color.parseColor("#D7CCC8"))
-            } else {
-                btnTagalog.setBackgroundResource(R.drawable.bg_pill_selected)
-                btnTagalog.setTextColor(Color.parseColor("#121212"))
-                btnEnglish.setBackgroundColor(Color.TRANSPARENT)
-                btnEnglish.setTextColor(Color.parseColor("#D7CCC8"))
-            }
-        } else {
-            verseCard.setCardBackgroundColor(Color.parseColor("#FFFFFF"))
-            verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#FFFFFF")))
-            verseCard.strokeColor = Color.parseColor("#E8E2D5")
-
-            // --- DAY MODE TOGGLE STYLING ---
-            if (isEnglishActive) {
-                btnEnglish.setBackgroundResource(R.drawable.bg_pill_selected)
-                btnEnglish.setTextColor(Color.WHITE)
-                btnTagalog.setBackgroundColor(Color.TRANSPARENT)
-                btnTagalog.setTextColor(Color.parseColor("#555555"))
-            } else {
-                btnTagalog.setBackgroundResource(R.drawable.bg_pill_selected)
-                btnTagalog.setTextColor(Color.WHITE)
-                btnEnglish.setBackgroundColor(Color.TRANSPARENT)
-                btnEnglish.setTextColor(Color.parseColor("#555555"))
-            }
-        }
-    }
-
     private fun showAboutDialog() {
         AlertDialog.Builder(this)
             .setTitle("About & Credits")
@@ -377,36 +333,32 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         tts?.stop()
     }
 
-    private fun applyTheme() {
+   private fun applyTheme() {
         val rootLayout = findViewById<ViewGroup>(android.R.id.content).getChildAt(0) ?: window.decorView
 
         if (isDarkMode) {
             // --- NIGHT MODE ---
             rootLayout.setBackgroundResource(R.drawable.bg_gradient)
             
-            // Dark card background for high text visibility
             verseCard.setCardBackgroundColor(Color.parseColor("#1E1E1E"))
-            verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#1E1E1E")))
+            verseCard.backgroundTintList = null
             verseCard.strokeColor = Color.parseColor("#333333")
             verseCard.cardElevation = 0f
             
             tvVerseText.setTextColor(Color.parseColor("#FFFFFF"))
             tvVerseRef.setTextColor(Color.parseColor("#B08D73"))
             
-            // Theme toggle button styling
             btnToggleTheme.text = "☀️ Switch to Day View"
             btnToggleTheme.setTextColor(Color.parseColor("#E0E0E0"))
             btnToggleTheme.strokeColor = ColorStateList.valueOf(Color.parseColor("#D7CCC8"))
             btnToggleTheme.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
             
-            // Primary Refresh button (Solid accent brown)
             btnRefresh.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#8D6E63"))
             btnRefresh.setTextColor(Color.parseColor("#FFFFFF"))
             if (btnRefresh is MaterialButton) {
                 (btnRefresh as MaterialButton).strokeColor = ColorStateList.valueOf(Color.parseColor("#8D6E63"))
             }
             
-            // All other utility & navigation buttons outline style in night mode
             val nightButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout)
             for (btn in nightButtons) {
                 btn.setTextColor(Color.parseColor("#E0E0E0"))
@@ -418,29 +370,25 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             // --- DAY MODE (Warm Theme) ---
             rootLayout.setBackgroundResource(R.drawable.bg_gradient)
             
-            // Explicitly force crisp White card background in Day Mode
             verseCard.setCardBackgroundColor(Color.parseColor("#FFFFFF"))
-            verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#FFFFFF")))
+            verseCard.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#FFFFFF"))
             verseCard.strokeColor = Color.parseColor("#E8E2D5")
             verseCard.cardElevation = 4f
             
             tvVerseText.setTextColor(Color.parseColor("#2D241E"))
             tvVerseRef.setTextColor(Color.parseColor("#8C6D53"))
             
-            // Theme toggle button styling
             btnToggleTheme.text = "🌙 Switch to Night View"
             btnToggleTheme.setTextColor(Color.parseColor("#6E472C"))
             btnToggleTheme.strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
             btnToggleTheme.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
             
-            // Primary Refresh button (Solid warm brown)
             btnRefresh.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#6E472C"))
             btnRefresh.setTextColor(Color.WHITE)
             if (btnRefresh is MaterialButton) {
                 (btnRefresh as MaterialButton).strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
             }
             
-            // All other utility & navigation buttons outline style in day mode
             val dayButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout)
             for (btn in dayButtons) {
                 btn.setTextColor(Color.parseColor("#6E472C"))
@@ -450,6 +398,50 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         }
         
         updateLanguageToggleUI(BibleRepository.currentTranslation)
+    }
+
+    private fun updateLanguageToggleUI(translation: BibleTranslation) {
+        val isEnglishActive = translation.languageGroup == "English"
+        
+        btnEnglish.text = if (isEnglishActive) "${translation.displayName.substringAfter("(").substringBefore(")")} ▾" else "ENGLISH ▾"
+        btnTagalog.text = if (!isEnglishActive) "${translation.displayName.substringAfter("(").substringBefore(")")} ▾" else "TAGALOG ▾"
+
+        // Respect current theme mode when updating language UI
+        if (isDarkMode) {
+            verseCard.setCardBackgroundColor(Color.parseColor("#1E1E1E"))
+            verseCard.backgroundTintList = null
+            verseCard.strokeColor = Color.parseColor("#333333")
+
+            languageToggleContainer.background = getDrawable(R.drawable.bg_pill_container)
+            if (isEnglishActive) {
+                btnEnglish.setBackgroundResource(R.drawable.bg_pill_selected)
+                btnEnglish.setTextColor(Color.parseColor("#121212"))
+                btnTagalog.setBackgroundColor(Color.TRANSPARENT)
+                btnTagalog.setTextColor(Color.parseColor("#D7CCC8"))
+            } else {
+                btnTagalog.setBackgroundResource(R.drawable.bg_pill_selected)
+                btnTagalog.setTextColor(Color.parseColor("#121212"))
+                btnEnglish.setBackgroundColor(Color.TRANSPARENT)
+                btnEnglish.setTextColor(Color.parseColor("#D7CCC8"))
+            }
+        } else {
+            verseCard.setCardBackgroundColor(Color.parseColor("#FFFFFF"))
+            verseCard.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#FFFFFF"))
+            verseCard.strokeColor = Color.parseColor("#E8E2D5")
+
+            languageToggleContainer.background = getDrawable(R.drawable.bg_pill_container)
+            if (isEnglishActive) {
+                btnEnglish.setBackgroundResource(R.drawable.bg_pill_selected)
+                btnEnglish.setTextColor(Color.WHITE)
+                btnTagalog.setBackgroundColor(Color.TRANSPARENT)
+                btnTagalog.setTextColor(Color.parseColor("#555555"))
+            } else {
+                btnTagalog.setBackgroundResource(R.drawable.bg_pill_selected)
+                btnTagalog.setTextColor(Color.WHITE)
+                btnEnglish.setBackgroundColor(Color.TRANSPARENT)
+                btnEnglish.setTextColor(Color.parseColor("#555555"))
+            }
+        }
     }
 
     private fun showBookSelectionDialog() {
