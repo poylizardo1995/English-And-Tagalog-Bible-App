@@ -267,6 +267,14 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                     this.textAlignment = android.view.View.TEXT_ALIGNMENT_CENTER
                     this.setPadding(0, 28, 0, 28)
                     
+                    // Style section headers differently if they are category dividers
+                    if (items[position].startsWith("—") || items[position].startsWith("📜") || items[position].startsWith("✝️")) {
+                        this.setTextColor(if (isDarkMode) Color.parseColor("#B08D73") else Color.parseColor("#8C6D53"))
+                        this.setTypeface(null, android.graphics.Typeface.BOLD)
+                    } else {
+                        this.setTypeface(null, android.graphics.Typeface.NORMAL)
+                    }
+
                     // Force full width layout parameters to guarantee true center alignment inside the list
                     layoutParams = android.widget.AbsListView.LayoutParams(
                         android.widget.AbsListView.LayoutParams.MATCH_PARENT,
@@ -363,38 +371,56 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
 
     private fun showBookSelectionDialog() {
-        val rawBooks = BibleRepository.getAvailableBooks(this)
-        
-        val cleanedBooks = rawBooks.filter { book ->
-            val trimmed = book.trim()
-            val isPureNumber = (trimmed == "1" || trimmed == "2" || trimmed == "3" || trimmed == "I" || trimmed == "II" || trimmed == "III")
-            !isPureNumber
-        }.toTypedArray()
-
-        val finalBooks = if (cleanedBooks.isEmpty()) {
-            arrayOf(
-                "Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy", "Joshua", "Judges", "Ruth",
-                "1 Samuel", "2 Samuel", "1 Kings", "2 Kings", "1 Chronicles", "2 Chronicles", "Ezra", "Nehemiah", "Esther",
-                "Job", "Psalms", "Proverbs", "Ecclesiastes", "Song of Solomon", "Isaiah", "Jeremiah", "Lamentations",
-                "Ezekiel", "Daniel", "Hosea", "Joel", "Amos", "Obadiah", "Jonah", "Micah", "Nahum", "Habakkuk",
-                "Zephaniah", "Haggai", "Zechariah", "Malachi", "Matthew", "Mark", "Luke", "John", "Acts",
-                "Romans", "1 Corinthians", "2 Corinthians", "Galatians", "Ephesians", "Philippians", "Colossians",
-                "1 Thessalonians", "2 Thessalonians", "1 Timothy", "2 Timothy", "Titus", "Philemon", "Hebrews",
-                "James", "1 Peter", "2 Peter", "1 John", "2 John", "3 John", "Jude", "Revelation"
+        val categoryMap = linkedMapOf(
+            "📜 OLD TESTAMENT" to arrayOf(
+                "— Law / Torah —",
+                "Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy",
+                "— History —",
+                "Joshua", "Judges", "Ruth", "1 Samuel", "2 Samuel", "1 Kings", "2 Kings", "1 Chronicles", "2 Chronicles", "Ezra", "Nehemiah", "Esther",
+                "— Poetry & Wisdom —",
+                "Job", "Psalms", "Proverbs", "Ecclesiastes", "Song of Solomon",
+                "— Major Prophets —",
+                "Isaiah", "Jeremiah", "Lamentations", "Ezekiel", "Daniel",
+                "— Minor Prophets —",
+                "Hosea", "Joel", "Amos", "Obadiah", "Jonah", "Micah", "Nahum", "Habakkuk", "Zephaniah", "Haggai", "Zechariah", "Malachi"
+            ),
+            "✝️ NEW TESTAMENT" to arrayOf(
+                "— Gospels —",
+                "Matthew", "Mark", "Luke", "John",
+                "— History —",
+                "Acts",
+                "— Pauline Epistles —",
+                "Romans", "1 Corinthians", "2 Corinthians", "Galatians", "Ephesians", "Philippians", "Colossians", "1 Thessalonians", "2 Thessalonians", "1 Timothy", "2 Timothy", "Titus", "Philemon",
+                "— General Epistles —",
+                "Hebrews", "James", "1 Peter", "2 Peter", "1 John", "2 John", "3 John", "Jude",
+                "— Prophecy —",
+                "Revelation"
             )
-        } else {
-            cleanedBooks
-        }
+        )
 
-        val dialog = AlertDialog.Builder(this)
-            .setTitle("Select Book")
-            .setAdapter(createCenteredListAdapter(finalBooks)) { _, which ->
-                val selectedBook = finalBooks[which]
-                showChapterSelectionDialog(selectedBook)
+        val categories = categoryMap.keys.toTypedArray()
+
+        val categoryDialog = AlertDialog.Builder(this)
+            .setTitle("Select Testament")
+            .setAdapter(createCenteredListAdapter(categories)) { _, catIndex ->
+                val selectedCategory = categories[catIndex]
+                val categoryItems = categoryMap[selectedCategory] ?: emptyArray()
+
+                val bookDialog = AlertDialog.Builder(this)
+                    .setTitle(selectedCategory)
+                    .setAdapter(createCenteredListAdapter(categoryItems)) { _, bookIndex ->
+                        val selectedItem = categoryItems[bookIndex]
+                        if (!selectedItem.startsWith("—")) {
+                            showChapterSelectionDialog(selectedItem)
+                        }
+                    }
+                    .create()
+
+                applyThemedDialogStyle(bookDialog)
             }
             .create()
 
-        applyThemedDialogStyle(dialog)
+        applyThemedDialogStyle(categoryDialog)
     }
 
     private fun showChapterSelectionDialog(bookName: String) {
