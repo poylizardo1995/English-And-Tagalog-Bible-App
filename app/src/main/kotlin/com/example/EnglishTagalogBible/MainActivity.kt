@@ -423,7 +423,7 @@ private fun applyTheme() {
             } else {
                 btnTagalog.setBackgroundResource(R.drawable.bg_pill_selected)
                 btnTagalog.setTextColor(Color.parseColor("#121212"))
-                btnEnglish.setBackgroundColor(Color.TRANSPARENT)
+                btnEnglish.setBackgroundColor(Color.parseColor("#E0E0E0"))
                 btnEnglish.setTextColor(Color.parseColor("#D7CCC8"))
             }
         } else {
