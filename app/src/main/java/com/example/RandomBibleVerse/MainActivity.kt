@@ -162,7 +162,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         btnCopy.setOnClickListener {
             val verseText = tvVerseText.text.toString()
             val verseRef = tvVerseRef.text.toString()
-            val fullText = "$verseText$verseRef"
+            val fullText = "$verseText $verseRef"
 
             val clipboard = getSystemService(Context.CLIPBOARD_SERVICE) as ClipboardManager
             val clip = ClipData.newPlainText("Bible Verse", fullText)
@@ -431,3 +431,96 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
         if (verseTitles.isEmpty()) {
             Toast.makeText(this, "No verses found for $chapterName", Toast.LENGTH_SHORT).show()
+            return
+        }
+
+        AlertDialog.Builder(this)
+            .setTitle("Select Verse in $chapterName")
+            .setItems(verseTitles) { _, which ->
+                val selectedVerse = chapterVerses[which]
+                displayVerse(selectedVerse)
+            }
+            .show()
+    }
+
+    // Helper function to update the screen with a specific verse silently
+    private fun displayVerse(verse: BibleVerse) {
+        currentVerse = verse
+        tvVerseText.text = verse.text
+        tvVerseRef.text = "— ${verse.reference}"
+
+        // Smooth fade-in animation
+        val fadeIn = AlphaAnimation(0.0f, 1.0f).apply { duration = 400 }
+        tvVerseText.startAnimation(fadeIn)
+        tvVerseRef.startAnimation(fadeIn)
+    }
+
+    // Random verse picker (silent load)
+    private fun loadVerse() {
+        val verse = BibleRepository.getRandomVerse(this)
+        displayVerse(verse)
+    }
+
+    // Text-to-Speech handler with Utterance ID for Auto-Play tracking
+    private fun speakVerse(verse: BibleVerse) {
+        val isTagalog = isTagalogText(verse.text)
+        val locale = if (isTagalog) Locale("fil", "PH") else Locale.US
+
+        val result = tts?.setLanguage(locale)
+        if (result == TextToSpeech.LANG_MISSING_DATA || result == TextToSpeech.LANG_NOT_SUPPORTED) {
+            tts?.setLanguage(Locale.getDefault())
+        }
+
+        val speechText = "${verse.text}. Reference: ${verse.reference}"
+        tts?.speak(speechText, TextToSpeech.QUEUE_FLUSH, null, "verse_utterance_id")
+    }
+
+    private fun isTagalogText(text: String): Boolean {
+        val tagalogKeywords = listOf("ang", "mga", "sa", "at", "na", "ng", "ay", "kayo", "tayo", "ka", "mo", "ko", "ni", "para", "isang", "rin", "din")
+        val words = text.lowercase().split(Regex("\\s+"))
+        val matchCount = words.count { tagalogKeywords.contains(it) }
+        return matchCount >= 2
+    }
+
+    override fun onInit(status: Int) {
+        if (status == TextToSpeech.SUCCESS) {
+            tts?.setLanguage(Locale.US)
+            isTtsReady = true
+
+            tts?.setOnUtteranceProgressListener(object : UtteranceProgressListener() {
+                override fun onStart(utteranceId: String?) {}
+
+                override fun onDone(utteranceId: String?) {
+                    if (isAutoPlaying) {
+                        runOnUiThread {
+                            currentVerse?.let { verse ->
+                                val nextVerse = BibleRepository.getNextVerse(verse, this@MainActivity)
+                                if (nextVerse != null) {
+                                    displayVerse(nextVerse)
+                                    speakVerse(nextVerse)
+                                } else {
+                                    stopAutoPlay()
+                                    Toast.makeText(this@MainActivity, "End of chapter reached", Toast.LENGTH_SHORT).show()
+                                }
+                            }
+                        }
+                    }
+                }
+
+                override fun onError(utteranceId: String?) {
+                    runOnUiThread {
+                        stopAutoPlay()
+                    }
+                }
+            })
+        }
+    }
+
+    override fun onDestroy() {
+        tts?.let {
+            it.stop()
+            it.shutdown()
+        }
+        super.onDestroy()
+    }
+}
