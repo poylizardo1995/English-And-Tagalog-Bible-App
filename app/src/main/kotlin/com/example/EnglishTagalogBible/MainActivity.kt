@@ -176,7 +176,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         btnShare.setOnClickListener {
             val verseText = tvVerseText.text.toString()
             val verseRef = tvVerseRef.text.toString()
-            val shareBody = "$verseText\n\n$shareBody"
+            val shareBody = "$verseText\n\n$verseRef" // Fixed: using verseRef instead of shareBody
 
             val shareIntent = Intent().apply {
                 action = Intent.ACTION_SEND
