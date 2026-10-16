@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.English&TagalogBible"
+    namespace = "com.example.EnglishTagalogBible"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.English&TagalogBible"
+        applicationId = "com.example.EnglishTagalogBible"
         minSdk = 24
         targetSdk = 34
         versionCode = 2
@@ -27,7 +27,7 @@ android {
         val variant = this
         variant.outputs.all {
             val output = this as com.android.build.gradle.internal.api.BaseVariantOutputImpl
-            output.outputFileName = "English&TagalogBible.apk"
+            output.outputFileName = "EnglishTagalogBible.apk"
         }
     }
 }
