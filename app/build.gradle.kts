@@ -4,15 +4,15 @@ plugins {
 }
 
 android {
-    namespace = "com.example.RandomBibleVerse"
+    namespace = "com.example.English&TagalogBible"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.RandomBibleVerse"
+        applicationId = "com.example.English&TagalogBible"
         minSdk = 24
         targetSdk = 34
         versionCode = 2
-        versionName = "1.1"
+        versionName = "1.2"
     }
 
     compileOptions {
@@ -27,7 +27,7 @@ android {
         val variant = this
         variant.outputs.all {
             val output = this as com.android.build.gradle.internal.api.BaseVariantOutputImpl
-            output.outputFileName = "RandomBibleVerse.apk"
+            output.outputFileName = "English&TagalogBible.apk"
         }
     }
 }
