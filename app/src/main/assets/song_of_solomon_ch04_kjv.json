@@ -1,0 +1,70 @@
+[
+  {
+    "text": "Behold, thou art fair, my love; behold, thou art  fair; thou hast doves’ eyes within thy locks: thy hair is as a flock of goats, that appear from mount Gilead.",
+    "reference": "Song of Solomon 4:1 (KJV)"
+  },
+  {
+    "text": "Thy teeth are like a flock of sheep that are even  shorn, which came up from the washing; whereof every one bear twins, and none is barren among them.",
+    "reference": "Song of Solomon 4:2 (KJV)"
+  },
+  {
+    "text": "Thy lips are like a thread of scarlet, and thy speech is comely: thy temples are like a piece of a pomegranate within thy locks.",
+    "reference": "Song of Solomon 4:3 (KJV)"
+  },
+  {
+    "text": "Thy neck is like the tower of David builded for an armoury, whereon there hang a thousand bucklers, all shields of mighty men.",
+    "reference": "Song of Solomon 4:4 (KJV)"
+  },
+  {
+    "text": "Thy two breasts are like two young roes that are twins, which feed among the lilies.",
+    "reference": "Song of Solomon 4:5 (KJV)"
+  },
+  {
+    "text": "Until the day break, and the shadows flee away, I will get me to the mountain of myrrh, and to the hill of frankincense.",
+    "reference": "Song of Solomon 4:6 (KJV)"
+  },
+  {
+    "text": "Thou art all fair, my love; there is no spot in thee.",
+    "reference": "Song of Solomon 4:7 (KJV)"
+  },
+  {
+    "text": "Come with me from Lebanon, my spouse, with me from Lebanon: look from the top of Amana, from the top of Shenir and Hermon, from the lions’ dens, from the mountains of the leopards.",
+    "reference": "Song of Solomon 4:8 (KJV)"
+  },
+  {
+    "text": "Thou hast ravished my heart, my sister, my spouse; thou hast ravished my heart with one of thine eyes, with one chain of thy neck.",
+    "reference": "Song of Solomon 4:9 (KJV)"
+  },
+  {
+    "text": "How fair is thy love, my sister, my spouse! how much better is thy love than wine! and the smell of thine ointments than all spices!",
+    "reference": "Song of Solomon 4:10 (KJV)"
+  },
+  {
+    "text": "Thy lips, O my spouse, drop as the honeycomb: honey and milk are under thy tongue; and the smell of thy garments is like the smell of Lebanon.",
+    "reference": "Song of Solomon 4:11 (KJV)"
+  },
+  {
+    "text": "A garden inclosed is my sister, my spouse; a spring shut up, a fountain sealed.",
+    "reference": "Song of Solomon 4:12 (KJV)"
+  },
+  {
+    "text": "Thy plants are an orchard of pomegranates, with pleasant fruits; camphire, with spikenard,",
+    "reference": "Song of Solomon 4:13 (KJV)",
+    "connected_to": "Song of Solomon 4:14"
+  },
+  {
+    "text": "Spikenard and saffron; calamus and cinnamon, with all trees of frankincense; myrrh and aloes, with all the chief spices:",
+    "reference": "Song of Solomon 4:14 (KJV)",
+    "connected_to": "Song of Solomon 4:15",
+    "connected_from": "Song of Solomon 4:13"
+  },
+  {
+    "text": "A fountain of gardens, a well of living waters, and streams from Lebanon.",
+    "reference": "Song of Solomon 4:15 (KJV)",
+    "connected_from": "Song of Solomon 4:14"
+  },
+  {
+    "text": "Awake, O north wind; and come, thou south; blow upon my garden, that the spices thereof may flow out. Let my beloved come into his garden, and eat his pleasant fruits.",
+    "reference": "Song of Solomon 4:16 (KJV)"
+  }
+]
