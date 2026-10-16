@@ -47,6 +47,14 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     private var isDarkMode = false
     private var isAutoPlaying = false
 
+    // Auto-Play State & Modes
+    private enum class AutoPlayMode {
+        CHAPTER, BOOK, ALL_BOOKS
+    }
+    private var autoPlayMode = AutoPlayMode.CHAPTER
+    private var currentBookName: String? = null
+    private var currentChapterName: String? = null
+
     companion object {
         private const val KEY_VERSE_TEXT = "key_verse_text"
         private const val KEY_VERSE_REF = "key_verse_ref"
@@ -127,9 +135,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                     displayVerse(prevVerse)
                     if (isAutoPlaying) speakVerse(prevVerse)
                 } else {
-                    val toast = Toast.makeText(this, "Beginning of chapter reached.", Toast.LENGTH_SHORT)
-                    toast.setGravity(android.view.Gravity.CENTER, 0, 0)
-                    toast.show()
+                    showCenteredToast("Beginning of chapter reached.")
                 }
             }
         }
@@ -141,9 +147,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                     displayVerse(nextVerse)
                     if (isAutoPlaying) speakVerse(nextVerse)
                 } else {
-                    val toast = Toast.makeText(this, "End of chapter reached.", Toast.LENGTH_SHORT)
-                    toast.setGravity(android.view.Gravity.CENTER, 0, 0)
-                    toast.show()
+                    showCenteredToast("End of chapter reached.")
                     stopAutoPlay()
                 }
             }
@@ -152,11 +156,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         btnAutoPlay.setOnClickListener {
             if (isAutoPlaying) {
                 stopAutoPlay()                
-                val toast = Toast.makeText(this, "Auto-Play Stopped.", Toast.LENGTH_SHORT)
-                toast.setGravity(android.view.Gravity.CENTER, 0, 0)
-                toast.show()
+                showCenteredToast("Auto-Play Stopped.")
             } else {
-                startAutoPlay()
+                showAutoPlayOptionsDialog()
             }
         }
 
@@ -168,15 +170,13 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             val clipboard = getSystemService(Context.CLIPBOARD_SERVICE) as ClipboardManager
             val clip = ClipData.newPlainText("Bible Verse", fullText)
             clipboard.setPrimaryClip(clip)
-            val toast = Toast.makeText(this, "Verse copied to clipboard!", Toast.LENGTH_SHORT)
-            toast.setGravity(android.view.Gravity.CENTER, 0, 0)
-            toast.show()
+            showCenteredToast("Verse copied to clipboard!")
         }
 
         btnShare.setOnClickListener {
             val verseText = tvVerseText.text.toString()
             val verseRef = tvVerseRef.text.toString()
-            val shareBody = "$verseText\n\n$verseRef" // Fixed: using verseRef instead of shareBody
+            val shareBody = "$verseText\n\n$verseRef"
 
             val shareIntent = Intent().apply {
                 action = Intent.ACTION_SEND
@@ -192,9 +192,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                     stopAutoPlay()
                     speakVerse(verse)
                 } else {
-                    val toast = Toast.makeText(this, "Speech Engine is still initializing...", Toast.LENGTH_SHORT)
-                    toast.setGravity(android.view.Gravity.CENTER, 0, 0)
-                    toast.show()
+                    showCenteredToast("Speech Engine is still initializing...")
                 }
             }
         }
@@ -226,7 +224,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     private fun applyThemedDialogStyle(dialog: AlertDialog) {
         dialog.show()
 
-        // Center-align title if present
         val titleView = dialog.findViewById<TextView>(androidx.appcompat.R.id.alertTitle)
         titleView?.apply {
             gravity = android.view.Gravity.CENTER
@@ -234,7 +231,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             setTextColor(if (isDarkMode) Color.parseColor("#FFFFFF") else Color.parseColor("#2D241E"))
         }
 
-        // Center-align message if present
         val messageView = dialog.findViewById<TextView>(android.R.id.message)
         messageView?.apply {
             gravity = android.view.Gravity.CENTER
@@ -242,11 +238,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             setTextColor(if (isDarkMode) Color.parseColor("#E0E0E0") else Color.parseColor("#2D241E"))
         }
 
-        // Style positive buttons (like OK)
         val positiveButton = dialog.getButton(AlertDialog.BUTTON_POSITIVE)
         positiveButton?.setTextColor(if (isDarkMode) Color.parseColor("#B08D73") else Color.parseColor("#6E472C"))
 
-        // Apply Card Scroll background & accent styling to dialog window
         dialog.window?.decorView?.background = android.graphics.drawable.GradientDrawable().apply {
             shape = android.graphics.drawable.GradientDrawable.RECTANGLE
             cornerRadius = 24f
@@ -267,15 +261,13 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                     this.textAlignment = android.view.View.TEXT_ALIGNMENT_CENTER
                     this.setPadding(0, 28, 0, 28)
                     
-                    // Style section headers differently if they are category dividers
-                    if (items[position].startsWith("—") || items[position].startsWith("📜") || items[position].startsWith("✝️") || items[position].startsWith("📚")) {
+                    if (items[position].startsWith("—") || items[position].startsWith("📜") || items[position].startsWith("✝️") || items[position].startsWith("📚") || items[position].startsWith("▶")) {
                         this.setTextColor(if (isDarkMode) Color.parseColor("#B08D73") else Color.parseColor("#8C6D53"))
                         this.setTypeface(null, android.graphics.Typeface.BOLD)
                     } else {
                         this.setTypeface(null, android.graphics.Typeface.NORMAL)
                     }
 
-                    // Force full width layout parameters to guarantee true center alignment inside the list
                     layoutParams = android.widget.AbsListView.LayoutParams(
                         android.widget.AbsListView.LayoutParams.MATCH_PARENT,
                         android.widget.AbsListView.LayoutParams.WRAP_CONTENT
@@ -284,6 +276,26 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 return view
             }
         }
+    }
+
+    private fun showAutoPlayOptionsDialog() {
+        val options = arrayOf(
+            "▶ Auto-Play Chapter (Stops at chapter end)",
+            "▶ Auto-Play Book (Continuous chapters)",
+            "▶ Auto-Play All Books (Continuous Bible)"
+        )
+        val dialog = AlertDialog.Builder(this)
+            .setTitle("Select Auto-Play Mode")
+            .setAdapter(createCenteredListAdapter(options)) { _, which ->
+                autoPlayMode = when (which) {
+                    0 -> AutoPlayMode.CHAPTER
+                    1 -> AutoPlayMode.BOOK
+                    else -> AutoPlayMode.ALL_BOOKS
+                }
+                startAutoPlay()
+            }
+            .create()
+        applyThemedDialogStyle(dialog)
     }
 
     private fun handleLanguageSelection(groupName: String) {
@@ -320,9 +332,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val hasSuffixFiles = assetFiles.any { it.endsWith(targetSuffix) }
 
         if (!hasSuffixFiles && target != BibleTranslation.KJV && target != BibleTranslation.ADB1905) {
-            val toast = Toast.makeText(this, "This translation is not available yet.", Toast.LENGTH_SHORT)
-            toast.setGravity(android.view.Gravity.CENTER, 0, 0)
-            toast.show()
+            showCenteredToast("This translation is not available yet.")
             updateLanguageToggleUI(previousTranslation)
             return
         }
@@ -340,9 +350,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             } else {
                 BibleRepository.loadVerses(this, previousTranslation)
                 updateLanguageToggleUI(previousTranslation)
-                val toast = Toast.makeText(this, "This translation is not available yet.", Toast.LENGTH_SHORT)
-                toast.setGravity(android.view.Gravity.CENTER, 0, 0)
-                toast.show()
+                showCenteredToast("This translation is not available yet.")
             }
         } else {
             BibleRepository.setTranslation(this, target)
@@ -457,9 +465,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val verseTitles = chapterVerses.map { theVerse -> theVerse.reference }.toTypedArray()
 
         if (verseTitles.isEmpty()) {
-            val toast = Toast.makeText(this, "No verses found for $chapterName", Toast.LENGTH_SHORT)
-            toast.setGravity(android.view.Gravity.CENTER, 0, 0)
-            toast.show()
+            showCenteredToast("No verses found for $chapterName")
             return
         }
 
@@ -479,6 +485,18 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         tvVerseText.text = verse.text
         tvVerseRef.text = "— ${verse.reference}"
 
+        // Parse book and chapter from reference for seamless continuous transitions
+        val cleanRef = verse.reference.substringBefore(" (")
+        val lastColonIndex = cleanRef.lastIndexOf(':')
+        if (lastColonIndex != -1) {
+            val bookAndChapter = cleanRef.substring(0, lastColonIndex)
+            val lastSpaceIndex = bookAndChapter.lastIndexOf(' ')
+            if (lastSpaceIndex != -1) {
+                currentBookName = bookAndChapter.substring(0, lastSpaceIndex)
+                currentChapterName = bookAndChapter
+            }
+        }
+
         val fadeIn = AlphaAnimation(0.0f, 1.0f).apply { duration = 400 }
         tvVerseText.startAnimation(fadeIn)
         tvVerseRef.startAnimation(fadeIn)
@@ -491,23 +509,96 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
     private fun startAutoPlay() {
         if (!isTtsReady) {
-            val toast = Toast.makeText(this, "Speech engine not ready yet", Toast.LENGTH_SHORT)
-            toast.setGravity(android.view.Gravity.CENTER, 0, 0)
-            toast.show()
+            showCenteredToast("Speech engine not ready yet")
             return
         }
         isAutoPlaying = true
         btnAutoPlay.text = "⏹ Stop Auto-Play"
         currentVerse?.let { speakVerse(it) }
-        val toast = Toast.makeText(this, "Auto-Play Started", Toast.LENGTH_SHORT)
-        toast.setGravity(android.view.Gravity.CENTER, 0, 0)
-        toast.show()
+        showCenteredToast("Auto-Play Started")
     }
 
     private fun stopAutoPlay() {
         isAutoPlaying = false
         btnAutoPlay.text = "▶ Auto-Play"
         tts?.stop()
+    }
+
+    private fun advanceToNextVerseOrSection() {
+        currentVerse?.let { verse ->
+            val nextVerse = BibleRepository.getNextVerse(verse, this)
+            if (nextVerse != null) {
+                displayVerse(nextVerse)
+                speakVerse(nextVerse)
+            } else {
+                when (autoPlayMode) {
+                    AutoPlayMode.CHAPTER -> {
+                        stopAutoPlay()
+                        showCenteredToast("End of chapter reached.")
+                    }
+                    AutoPlayMode.BOOK -> {
+                        if (!tryAdvanceToNextChapter(false)) {
+                            stopAutoPlay()
+                            showCenteredToast("End of book reached.")
+                        }
+                    }
+                    AutoPlayMode.ALL_BOOKS -> {
+                        if (!tryAdvanceToNextChapter(true)) {
+                            stopAutoPlay()
+                            showCenteredToast("End of Bible reached.")
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    private fun tryAdvanceToNextChapter(allowBookTransition: Boolean): Boolean {
+        val book = currentBookName ?: return false
+        val chapters = BibleRepository.getChaptersForBook(book, this)
+        val currentChap = currentChapterName ?: return false
+        val currentChapIndex = chapters.indexOf(currentChap)
+
+        if (currentChapIndex != -1 && currentChapIndex < chapters.size - 1) {
+            val nextChapterName = chapters[currentChapIndex + 1]
+            val verses = BibleRepository.getVerseObjectsForChapter(nextChapterName, this)
+            if (verses.isNotEmpty()) {
+                displayVerse(verses[0])
+                speakVerse(verses[0])
+                return true
+            }
+        } else if (allowBookTransition) {
+            val allBooks = arrayOf(
+                "Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy", "Joshua", "Judges", "Ruth",
+                "1 Samuel", "2 Samuel", "1 Kings", "2 Kings", "1 Chronicles", "2 Chronicles", "Ezra", "Nehemiah", "Esther",
+                "Job", "Psalms", "Proverbs", "Ecclesiastes", "Song of Solomon", "Isaiah", "Jeremiah", "Lamentations",
+                "Ezekiel", "Daniel", "Hosea", "Joel", "Amos", "Obadiah", "Jonah", "Micah", "Nahum", "Habakkuk",
+                "Zephaniah", "Haggai", "Zechariah", "Malachi", "Matthew", "Mark", "Luke", "John", "Acts",
+                "Romans", "1 Corinthians", "2 Corinthians", "Galatians", "Ephesians", "Philippians", "Colossians",
+                "1 Thessalonians", "2 Thessalonians", "1 Timothy", "2 Timothy", "Titus", "Philemon", "Hebrews",
+                "James", "1 Peter", "2 Peter", "1 John", "2 John", "3 John", "Jude", "Revelation"
+            )
+            val currentBookIndex = allBooks.indexOf(book)
+            if (currentBookIndex != -1 && currentBookIndex < allBooks.size - 1) {
+                val nextBookName = allBooks[currentBookIndex + 1]
+                val nextBookChapters = BibleRepository.getChaptersForBook(nextBookName, this)
+                if (nextBookChapters.isNotEmpty()) {
+                    val firstChapterVerses = BibleRepository.getVerseObjectsForChapter(nextBookChapters[0], this)
+                    if (firstChapterVerses.isNotEmpty()) {
+                        displayVerse(firstChapterVerses[0])
+                        speakVerse(firstChapterVerses[0])
+                        return true
+                    }
+                }
+            }
+        }
+        return false
+    }
+
+    private fun showCenteredToast(message: String) {
+        val toast = Toast.makeText(this, message, Toast.LENGTH_SHORT)
+        toast.setGravity(android.view.Gravity.CENTER, 0, 0)
+        toast.show()
     }
 
     private fun applyTheme() {
@@ -578,7 +669,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     private fun updateLanguageToggleUI(translation: BibleTranslation) {
         val isEnglishActive = translation.languageGroup == "English"
         
-        // Show full translation name when active (e.g., "ENGLISH (KJV)" or "TAGALOG (ADB1905)")
         btnEnglish.text = if (isEnglishActive) translation.displayName.uppercase() + " ▾" else "ENGLISH ▾"
         btnTagalog.text = if (!isEnglishActive) translation.displayName.uppercase() + " ▾" else "TAGALOG ▾"
 
@@ -635,9 +725,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
     private fun speakVerse(verse: BibleVerse) {
         if (!isTtsReady || tts == null) {
-            val toast = Toast.makeText(this, "TTS engine is not ready or installed on this device.", Toast.LENGTH_SHORT)
-            toast.setGravity(android.view.Gravity.CENTER, 0, 0)
-            toast.show()
+            showCenteredToast("TTS engine is not ready or installed on this device.")
             
             val installIntent = Intent().apply {
                 action = TextToSpeech.Engine.ACTION_INSTALL_TTS_DATA
@@ -655,9 +743,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
         val result = tts?.setLanguage(locale)
         if (result == TextToSpeech.LANG_MISSING_DATA || result == TextToSpeech.LANG_NOT_SUPPORTED) {
-            val fallbackToast = Toast.makeText(this, "Language data missing for speech. Defaulting to system language.", Toast.LENGTH_SHORT)
-            fallbackToast.setGravity(android.view.Gravity.CENTER, 0, 0)
-            fallbackToast.show()
+            showCenteredToast("Language data missing for speech. Defaulting to system language.")
             tts?.setLanguage(Locale.getDefault())
         }
 
@@ -677,9 +763,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             val result = tts?.setLanguage(Locale.US)
             if (result == TextToSpeech.LANG_MISSING_DATA || result == TextToSpeech.LANG_NOT_SUPPORTED) {
                 isTtsReady = false
-                val toast = Toast.makeText(this, "TTS Language data missing. Please check device Text-to-Speech settings.", Toast.LENGTH_SHORT)
-                toast.setGravity(android.view.Gravity.CENTER, 0, 0)
-                toast.show()
+                showCenteredToast("TTS Language data missing. Please check device Text-to-Speech settings.")
             } else {
                 isTtsReady = true
             }
@@ -690,18 +774,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 override fun onDone(utteranceId: String?) {
                     if (isAutoPlaying) {
                         runOnUiThread {
-                            currentVerse?.let { verse ->
-                                val nextVerse = BibleRepository.getNextVerse(verse, this@MainActivity)
-                                if (nextVerse != null) {
-                                    displayVerse(nextVerse)
-                                    speakVerse(nextVerse)
-                                } else {
-                                    stopAutoPlay()
-                                    val toast = Toast.makeText(this@MainActivity, "End of chapter reached", Toast.LENGTH_SHORT)
-                                    toast.setGravity(android.view.Gravity.CENTER, 0, 0)
-                                    toast.show()
-                                }
-                            }
+                            advanceToNextVerseOrSection()
                         }
                     }
                 }
@@ -714,9 +787,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             })
         } else {
             isTtsReady = false
-            val toast = Toast.makeText(this, "Failed to initialize Text-to-Speech engine.", Toast.LENGTH_SHORT)
-            toast.setGravity(android.view.Gravity.CENTER, 0, 0)
-            toast.show()
+            showCenteredToast("Failed to initialize Text-to-Speech engine.")
         }
     }
 
