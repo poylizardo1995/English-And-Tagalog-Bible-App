@@ -305,6 +305,10 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         btnTagalog.text = if (!isEnglishActive) "${translation.displayName.substringAfter("(").substringBefore(")")} ▾" else "TAGALOG ▾"
 
         if (isDarkMode) {
+            verseCard.setCardBackgroundColor(Color.parseColor("#1E1E1E"))
+            verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#1E1E1E")))
+            verseCard.strokeColor = Color.parseColor("#333333")
+
             // --- NIGHT MODE TOGGLE STYLING ---
             languageToggleContainer.background = getDrawable(R.drawable.bg_pill_container)
             if (isEnglishActive) {
@@ -319,6 +323,10 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 btnEnglish.setTextColor(Color.parseColor("#D7CCC8"))
             }
         } else {
+            verseCard.setCardBackgroundColor(Color.parseColor("#FFFFFF"))
+            verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#FFFFFF")))
+            verseCard.strokeColor = Color.parseColor("#E8E2D5")
+
             // --- DAY MODE TOGGLE STYLING ---
             if (isEnglishActive) {
                 btnEnglish.setBackgroundResource(R.drawable.bg_pill_selected)
@@ -378,7 +386,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             
             // Dark card background for high text visibility
             verseCard.setCardBackgroundColor(Color.parseColor("#1E1E1E"))
-            verseCard.backgroundTintList = null
+            verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#1E1E1E")))
             verseCard.strokeColor = Color.parseColor("#333333")
             verseCard.cardElevation = 0f
             
@@ -410,8 +418,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             // --- DAY MODE (Warm Theme) ---
             rootLayout.setBackgroundResource(R.drawable.bg_gradient)
             
+            // Explicitly force crisp White card background in Day Mode
             verseCard.setCardBackgroundColor(Color.parseColor("#FFFFFF"))
-            verseCard.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#FFFFFF"))
+            verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#FFFFFF")))
             verseCard.strokeColor = Color.parseColor("#E8E2D5")
             verseCard.cardElevation = 4f
             
