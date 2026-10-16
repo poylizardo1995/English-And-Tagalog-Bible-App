@@ -88,8 +88,12 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             handleLanguageSelection("Tagalog")
         }
 
-        // Load initial verse silently
-        loadVerse()
+        // Only load initial random verse on fresh launch; preserve state on orientation change
+        if (savedInstanceState == null) {
+            loadVerse()
+        } else {
+            currentVerse?.let { displayVerse(it) }
+        }
 
         // 1. New Random Verse Button
         btnRefresh.setOnClickListener {
@@ -202,9 +206,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
         if (matchingTranslations.size == 1) {
             val target = matchingTranslations[0]
-            BibleRepository.setTranslation(this, target)
-            updateLanguageToggleUI(target)
-            loadVerse()
+            if (target != BibleRepository.currentTranslation) {
+                switchToTranslation(target)
+            }
         } else {
             val options = matchingTranslations.map { it.displayName }.toTypedArray()
             val currentIndex = matchingTranslations.indexOf(BibleRepository.currentTranslation)
@@ -213,21 +217,39 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 .setTitle("Select $groupName Version")
                 .setSingleChoiceItems(options, if (currentIndex != -1) currentIndex else 0) { dialog, which ->
                     val selected = matchingTranslations[which]
-                    BibleRepository.setTranslation(this, selected)
-                    updateLanguageToggleUI(selected)
-                    loadVerse()
+                    if (selected != BibleRepository.currentTranslation) {
+                        switchToTranslation(selected)
+                    }
                     dialog.dismiss()
                 }
                 .show()
         }
     }
 
+    private fun switchToTranslation(target: BibleTranslation) {
+        // Extract the chapter & verse part without version parenthesis suffix (e.g., "1 Samuel 1:25")
+        val currentBookChapterAndVerse = currentVerse?.reference?.substringBefore(" (")
+
+        BibleRepository.setTranslation(this, target)
+        updateLanguageToggleUI(target)
+
+        if (currentBookChapterAndVerse != null) {
+            val matchingVerse = BibleRepository.getVerseByBookChapterAndVerse(currentBookChapterAndVerse, this)
+            if (matchingVerse != null) {
+                displayVerse(matchingVerse)
+            } else {
+                loadVerse()
+            }
+        } else {
+            loadVerse()
+        }
+    }
+
     private fun updateLanguageToggleUI(translation: BibleTranslation) {
         val isEnglishActive = translation.languageGroup == "English"
         
-        // Update labels to show version dropdown hint if multiple options exist, or standard names
-        btnEnglish.text = if (isEnglishActive) "${translation.displayName.substringAfter("(").substringBefore(")")} ▾" else "English ▾"
-        btnTagalog.text = if (!isEnglishActive) "${translation.displayName.substringAfter("(").substringBefore(")")} ▾" else "Tagalog ▾"
+        btnEnglish.text = if (isEnglishActive) "${translation.displayName.substringAfter("(").substringBefore(")")} ▾" else "ENGLISH ▾"
+        btnTagalog.text = if (!isEnglishActive) "${translation.displayName.substringAfter("(").substringBefore(")")} ▾" else "TAGALOG ▾"
 
         if (isDarkMode) {
             // --- NIGHT MODE TOGGLE STYLING ---
@@ -261,13 +283,13 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
     private fun showAboutDialog() {
         AlertDialog.Builder(this)
-            .setTitle("About")
+            .setTitle("About & Credits")
             .setMessage(
                 "English and Tagalog Bible v1.1\n\n" +
-                "Software Developer: Aldrin Paul Sipoy Lizardo\n\n" +
+                "App Developed by Poy Lizardo\n\n" +
                 "Copyright © 2026. All Rights Reserved. To God be the glory!\n\n" +
-                "Scripture Text Provided via Public Domain Translations: King James Version (KJV), Ang Dating Biblia 1905 (ADB1905).\n\n" +    
-                "Github: https://github.com/poylizardo1995\n\n"
+                "Scripture Text Provided via Public Domain Translations: English - King James Version (KJV) and Tagalog - Ang Dating Biblia 1905 (ADB1905).\n\n" +    
+                "Github: https://github.com/poylizardo1995/English-And-Tagalog-Bible-App\n\n"
             )
             .setPositiveButton("OK") { dialog, _ -> dialog.dismiss() }
             .show()
