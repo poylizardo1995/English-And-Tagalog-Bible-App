@@ -9,7 +9,7 @@ enum class BibleTranslation(
     val displayName: String,
     val suffix: String
 ) {
-    English KJV("English", "English (KJV)", "kjv"),
+    KJV("English", "English (KJV)", "kjv"),
     WEB("English", "English (WEB)", "web"), // Future translation option of The World English Bible (WEB)
     ADB1905("Tagalog", "Tagalog (ADB1905)", "adb1905"),
     MBB("Tagalog", "Tagalog (MBB)", "mbb") // Future translation option of Magandang Balita Biblia (MBB)
