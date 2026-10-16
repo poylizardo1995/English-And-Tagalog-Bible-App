@@ -363,15 +363,16 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             verseCard.setCardBackgroundColor(Color.parseColor("#1E1E1E"))
             verseCard.strokeColor = Color.parseColor("#333333")
             
-            tvVerseText.setTextColor(Color.parseColor("#E0E0E0"))
-            tvVerseRef.setTextColor(Color.parseColor("#B08D73"))
+            // Fixed: Set high-contrast pure white for verse text and soft cream for reference
+            tvVerseText.setTextColor(Color.parseColor("#FFFFFF"))
+            tvVerseRef.setTextColor(Color.parseColor("#D7CCC8"))
             
             btnToggleTheme.text = "☀️ Switch to Day View"
             btnToggleTheme.setTextColor(Color.parseColor("#D7CCC8"))
             btnToggleTheme.strokeColor = ColorStateList.valueOf(Color.parseColor("#D7CCC8"))
             
             btnRefresh.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#8D6E63"))
-            btnRefresh.setTextColor(Color.parseColor("#121212"))
+            btnRefresh.setTextColor(Color.parseColor("#FFFFFF"))
             
             val nightButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout)
             for (btn in nightButtons) {
