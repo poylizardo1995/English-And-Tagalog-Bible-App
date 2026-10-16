@@ -567,9 +567,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     private fun updateLanguageToggleUI(translation: BibleTranslation) {
         val isEnglishActive = translation.languageGroup == "English"
         
-        // Show full translation name when active (e.g., "ENGLISH (KJV)" or "TAGALOG (ADB1905)")
-        btnEnglish.text = if (isEnglishActive) translation.displayName.uppercase() + " ▾" else "ENGLISH ▾"
-        btnTagalog.text = if (!isEnglishActive) translation.displayName.uppercase() + " ▾" else "TAGALOG ▾"
+        // Show active toggle status clearly with a bullet indicator instead of dropdown arrows
+        btnEnglish.text = if (isEnglishActive) "• ${translation.displayName.uppercase()}" else "ENGLISH"
+        btnTagalog.text = if (!isEnglishActive) "• ${translation.displayName.uppercase()}" else "TAGALOG"
 
         if (isDarkMode) {
             verseCard.backgroundTintList = null
