@@ -317,7 +317,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val titleView = dialog.findViewById<TextView>(androidx.appcompat.R.id.alertTitle)
         titleView?.apply {
             gravity = android.view.Gravity.CENTER
-            // Force layout params width to match parent so centering is absolute
             layoutParams = (layoutParams as? ViewGroup.LayoutParams)?.apply {
                 width = ViewGroup.LayoutParams.MATCH_PARENT
             }
@@ -327,7 +326,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val messageView = dialog.findViewById<TextView>(android.R.id.message)
         messageView?.gravity = android.view.Gravity.CENTER
 
-        // Center-align or layout-adjust the OK button if desired
+        // Style OK button color based on theme
         val positiveButton = dialog.getButton(AlertDialog.BUTTON_POSITIVE)
         positiveButton?.let {
             it.setTextColor(if (isDarkMode) Color.parseColor("#B08D73") else Color.parseColor("#6E472C"))
