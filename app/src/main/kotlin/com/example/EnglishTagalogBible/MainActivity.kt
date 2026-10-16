@@ -576,15 +576,21 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#1E1E1E")))
             verseCard.strokeColor = Color.parseColor("#333333")
 
+            val nightPillColor = ColorStateList.valueOf(Color.parseColor("#8D6E63"))
+
             if (isEnglishActive) {
                 btnEnglish.setBackgroundResource(R.drawable.bg_pill_selected)
-                btnEnglish.setTextColor(Color.parseColor("#121212"))
+                btnEnglish.backgroundTintList = nightPillColor
+                btnEnglish.setTextColor(Color.parseColor("#FFFFFF"))
+                
                 btnTagalog.backgroundTintList = null
                 btnTagalog.setBackgroundColor(Color.TRANSPARENT)
                 btnTagalog.setTextColor(Color.parseColor("#D7CCC8"))
             } else {
                 btnTagalog.setBackgroundResource(R.drawable.bg_pill_selected)
-                btnTagalog.setTextColor(Color.parseColor("#121212"))
+                btnTagalog.backgroundTintList = nightPillColor
+                btnTagalog.setTextColor(Color.parseColor("#FFFFFF"))
+                
                 btnEnglish.backgroundTintList = null
                 btnEnglish.setBackgroundColor(Color.TRANSPARENT)
                 btnEnglish.setTextColor(Color.parseColor("#D7CCC8"))
@@ -594,15 +600,21 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#FFFFFF")))
             verseCard.strokeColor = Color.parseColor("#E8E2D5")
 
+            val dayPillColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
+
             if (isEnglishActive) {
                 btnEnglish.setBackgroundResource(R.drawable.bg_pill_selected)
+                btnEnglish.backgroundTintList = dayPillColor
                 btnEnglish.setTextColor(Color.WHITE)
+                
                 btnTagalog.backgroundTintList = null
                 btnTagalog.setBackgroundColor(Color.TRANSPARENT)
                 btnTagalog.setTextColor(Color.parseColor("#555555"))
             } else {
                 btnTagalog.setBackgroundResource(R.drawable.bg_pill_selected)
+                btnTagalog.backgroundTintList = dayPillColor
                 btnTagalog.setTextColor(Color.WHITE)
+                
                 btnEnglish.backgroundTintList = null
                 btnEnglish.setBackgroundColor(Color.TRANSPARENT)
                 btnEnglish.setTextColor(Color.parseColor("#555555"))
