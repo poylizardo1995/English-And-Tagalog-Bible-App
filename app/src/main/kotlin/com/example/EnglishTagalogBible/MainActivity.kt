@@ -176,7 +176,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         btnShare.setOnClickListener {
             val verseText = tvVerseText.text.toString()
             val verseRef = tvVerseRef.text.toString()
-            val shareBody = "$verseText\n\n$verseRef"
+            val shareBody = "$verseText\n\n$shareBody"
 
             val shareIntent = Intent().apply {
                 action = Intent.ACTION_SEND
@@ -268,7 +268,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                     this.setPadding(0, 28, 0, 28)
                     
                     // Style section headers differently if they are category dividers
-                    if (items[position].startsWith("—") || items[position].startsWith("📜") || items[position].startsWith("✝️")) {
+                    if (items[position].startsWith("—") || items[position].startsWith("📜") || items[position].startsWith("✝️") || items[position].startsWith("📚")) {
                         this.setTextColor(if (isDarkMode) Color.parseColor("#B08D73") else Color.parseColor("#8C6D53"))
                         this.setTypeface(null, android.graphics.Typeface.BOLD)
                     } else {
@@ -371,6 +371,20 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
 
     private fun showBookSelectionDialog() {
+        val allBooksAlphabetical = arrayOf(
+            "1 Chronicles", "1 Corinthians", "1 John", "1 Kings", "1 Peter", "1 Samuel",
+            "1 Thessalonians", "1 Timothy", "2 Chronicles", "2 Corinthians", "2 John",
+            "2 Kings", "2 Peter", "2 Samuel", "2 Thessalonians", "2 Timothy", "3 John",
+            "Acts", "Amos", "Colossians", "Daniel", "Deuteronomy", "Ecclesiastes",
+            "Ephesians", "Esther", "Exodus", "Ezekiel", "Ezra", "Galatians", "Genesis",
+            "Habakkuk", "Haggai", "Hebrews", "Hosea", "Isaiah", "James", "Jeremiah",
+            "Job", "Joel", "John", "Jonah", "Joshua", "Jude", "Judges", "Lamentations",
+            "Leviticus", "Luke", "Malachi", "Mark", "Matthew", "Micah", "Nahum",
+            "Nehemiah", "Numbers", "Obadiah", "Philemon", "Philippians", "Proverbs",
+            "Psalms", "Revelation", "Romans", "Ruth", "Song of Solomon", "Titus",
+            "Zechariah", "Zephaniah"
+        )
+
         val categoryMap = linkedMapOf(
             "📜 OLD TESTAMENT" to arrayOf(
                 "— Law / Torah —",
@@ -395,13 +409,14 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 "Hebrews", "James", "1 Peter", "2 Peter", "1 John", "2 John", "3 John", "Jude",
                 "— Prophecy —",
                 "Revelation"
-            )
+            ),
+            "📚 ALL BOOKS (A - Z)" to allBooksAlphabetical
         )
 
         val categories = categoryMap.keys.toTypedArray()
 
         val categoryDialog = AlertDialog.Builder(this)
-            .setTitle("Select Testament")
+            .setTitle("Select Category")
             .setAdapter(createCenteredListAdapter(categories)) { _, catIndex ->
                 val selectedCategory = categories[catIndex]
                 val categoryItems = categoryMap[selectedCategory] ?: emptyArray()
