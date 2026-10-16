@@ -3,7 +3,7 @@
 Ad-free, No Hidden Fees, Free &amp; Safe Android App
 
 App Developed by Poy Lizardo |
-App Version: 1.1 |
+App Version: 1.2 |
 App Development Status: In Progress
 
 Copyright © 2026. All Rights Reserved. To God be the Glory!
