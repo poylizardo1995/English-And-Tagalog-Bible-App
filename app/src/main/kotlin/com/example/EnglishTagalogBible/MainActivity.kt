@@ -25,6 +25,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     private lateinit var tvVerseText: TextView
     private lateinit var tvVerseRef: TextView
     private lateinit var btnRefresh: Button
+    private lateinit var btnSearch: MaterialButton
     private lateinit var btnCopy: MaterialButton
     private lateinit var btnShare: MaterialButton
     private lateinit var btnSpeak: MaterialButton
@@ -67,6 +68,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         tvVerseText = findViewById(R.id.tvVerseText)
         tvVerseRef = findViewById(R.id.tvVerseRef)
         btnRefresh = findViewById(R.id.btnRefresh)
+        btnSearch = findViewById(R.id.btnSearch)
         btnCopy = findViewById(R.id.btnCopy)
         btnShare = findViewById(R.id.btnShare)
         btnSpeak = findViewById(R.id.btnSpeak)
@@ -121,6 +123,11 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         btnRefresh.setOnClickListener {
             stopAutoPlay()
             loadVerse()
+        }
+
+        btnSearch.setOnClickListener {
+            stopAutoPlay()
+            showSearchQueryDialog()
         }
 
         btnSelectManual.setOnClickListener {
@@ -264,7 +271,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                     this.textAlignment = android.view.View.TEXT_ALIGNMENT_CENTER
                     this.setPadding(0, 28, 0, 28)
                     
-                    if (items[position].startsWith("—") || items[position].startsWith("📜") || items[position].startsWith("✝️") || items[position].startsWith("📚") || items[position].startsWith("▶") || items[position].startsWith("🔍")) {
+                    if (items[position].startsWith("—") || items[position].startsWith("📜") || items[position].startsWith("✝️") || items[position].startsWith("📚") || items[position].startsWith("▶")) {
                         this.setTextColor(if (isDarkMode) Color.parseColor("#B08D73") else Color.parseColor("#8C6D53"))
                         this.setTypeface(null, android.graphics.Typeface.BOLD)
                     } else {
@@ -302,25 +309,55 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
 
     private fun showSearchQueryDialog() {
+        val layout = android.widget.LinearLayout(this).apply {
+            orientation = android.widget.LinearLayout.VERTICAL
+            setPadding(48, 20, 48, 0)
+        }
+
+        // Version Selection Spinner / Dropdown
+        val translations = BibleTranslation.values()
+        val translationNames = translations.map { it.displayName }.toTypedArray()
+        
+        val spinnerLabel = TextView(this).apply {
+            text = "Select Version:"
+            setTextColor(if (isDarkMode) Color.parseColor("#E0E0E0") else Color.parseColor("#2D241E"))
+            textSize = 14f
+            setPadding(0, 0, 0, 8)
+        }
+
+        val versionSpinner = android.widget.Spinner(this).apply {
+            val adapter = android.widget.ArrayAdapter(
+                this@MainActivity,
+                android.R.layout.simple_spinner_dropdown_item,
+                translationNames
+            )
+            setAdapter(adapter)
+            
+            // Pre-select current translation index
+            val currentIndex = translations.indexOf(BibleRepository.currentTranslation)
+            if (currentIndex != -1) setSelection(currentIndex)
+        }
+
         val inputEditText = android.widget.EditText(this).apply {
             hint = "Enter keyword or reference (e.g., love, John 3)"
             setTextColor(if (isDarkMode) Color.parseColor("#FFFFFF") else Color.parseColor("#2D241E"))
             setHintTextColor(if (isDarkMode) Color.parseColor("#888888") else Color.parseColor("#888888"))
-            setPadding(48, 36, 48, 36)
+            setPadding(24, 36, 24, 36)
         }
 
-        val container = android.widget.FrameLayout(this).apply {
-            setPadding(48, 20, 48, 0)
-            addView(inputEditText)
-        }
+        layout.addView(spinnerLabel)
+        layout.addView(versionSpinner)
+        layout.addView(inputEditText)
 
         val dialog = AlertDialog.Builder(this)
-            .setTitle("Search Bible (${BibleRepository.currentTranslation.displayName})")
-            .setView(container)
+            .setTitle("Search Bible")
+            .setView(layout)
             .setPositiveButton("Search") { _, _ ->
                 val query = inputEditText.text.toString().trim()
+                val selectedTranslation = translations[versionSpinner.selectedItemPosition]
+                
                 if (query.isNotEmpty()) {
-                    performVerseSearch(query)
+                    performVerseSearch(query, selectedTranslation)
                 } else {
                     showCenteredToast("Please enter a search term.")
                 }
@@ -331,7 +368,10 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         applyThemedDialogStyle(dialog)
     }
 
-    private fun performVerseSearch(query: String) {
+    private fun performVerseSearch(query: String, targetTranslation: BibleTranslation) {
+        // Temporarily load or use target translation to search
+        BibleRepository.loadVerses(this, targetTranslation)
+        
         val matchingVerses = mutableListOf<BibleVerse>()
         val lowercaseQuery = query.lowercase()
 
@@ -364,16 +404,19 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         if (matchingVerses.isEmpty()) {
             showCenteredToast("No matching verses found for \"$query\".")
         } else {
-            showSearchResultsDialog(query, matchingVerses)
+            showSearchResultsDialog(query, matchingVerses, targetTranslation)
         }
     }
 
-    private fun showSearchResultsDialog(query: String, results: List<BibleVerse>) {
+    private fun showSearchResultsDialog(query: String, results: List<BibleVerse>, targetTranslation: BibleTranslation) {
         val resultTitles = results.map { "${it.reference}: ${it.text}" }.toTypedArray()
 
         val dialog = AlertDialog.Builder(this)
-            .setTitle("Results for \"$query\" (${results.size})")
+            .setTitle("Results (${results.size}) - ${targetTranslation.displayName}")
             .setAdapter(createCenteredListAdapter(resultTitles)) { _, which ->
+                // Switch app active translation to the searched version before displaying
+                BibleRepository.setTranslation(this, targetTranslation)
+                updateLanguageToggleUI(targetTranslation)
                 val selectedVerse = results[which]
                 displayVerse(selectedVerse)
             }
@@ -478,7 +521,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         )
 
         val categoryMap = linkedMapOf(
-            "🔍 SEARCH BIBLE" to arrayOf("🔍 Search Verses by Keyword / Reference"),
             "📜 OLD TESTAMENT" to arrayOf(
                 "— Law / Torah —",
                 "Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy",
@@ -512,23 +554,19 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             .setTitle("Select Category")
             .setAdapter(createCenteredListAdapter(categories)) { _, catIndex ->
                 val selectedCategory = categories[catIndex]
-                if (selectedCategory == "🔍 SEARCH BIBLE") {
-                    showSearchQueryDialog()
-                } else {
-                    val categoryItems = categoryMap[selectedCategory] ?: emptyArray()
+                val categoryItems = categoryMap[selectedCategory] ?: emptyArray()
 
-                    val bookDialog = AlertDialog.Builder(this)
-                        .setTitle(selectedCategory)
-                        .setAdapter(createCenteredListAdapter(categoryItems)) { _, bookIndex ->
-                            val selectedItem = categoryItems[bookIndex]
-                            if (!selectedItem.startsWith("—")) {
-                                showChapterSelectionDialog(selectedItem)
-                            }
+                val bookDialog = AlertDialog.Builder(this)
+                    .setTitle(selectedCategory)
+                    .setAdapter(createCenteredListAdapter(categoryItems)) { _, bookIndex ->
+                        val selectedItem = categoryItems[bookIndex]
+                        if (!selectedItem.startsWith("—")) {
+                            showChapterSelectionDialog(selectedItem)
                         }
-                        .create()
+                    }
+                    .create()
 
-                    applyThemedDialogStyle(bookDialog)
-                }
+                applyThemedDialogStyle(bookDialog)
             }
             .create()
 
@@ -713,6 +751,12 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             if (btnRefresh is MaterialButton) {
                 (btnRefresh as MaterialButton).strokeColor = ColorStateList.valueOf(Color.parseColor("#8D6E63"))
             }
+
+            btnSearch.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#8D6E63"))
+            btnSearch.setTextColor(Color.parseColor("#FFFFFF"))
+            if (btnSearch is MaterialButton) {
+                (btnSearch as MaterialButton).strokeColor = ColorStateList.valueOf(Color.parseColor("#8D6E63"))
+            }
             
             val nightButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout)
             for (btn in nightButtons) {
@@ -741,6 +785,12 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             btnRefresh.setTextColor(Color.WHITE)
             if (btnRefresh is MaterialButton) {
                 (btnRefresh as MaterialButton).strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
+            }
+
+            btnSearch.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#6E472C"))
+            btnSearch.setTextColor(Color.WHITE)
+            if (btnSearch is MaterialButton) {
+                (btnSearch as MaterialButton).strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
             }
             
             val dayButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout)
