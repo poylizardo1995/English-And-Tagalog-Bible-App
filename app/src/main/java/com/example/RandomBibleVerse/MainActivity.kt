@@ -129,7 +129,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                     displayVerse(prevVerse)
                     if (isAutoPlaying) speakVerse(prevVerse)
                 } else {
-                    val toast = Toast.makeText(this, "Beginning of chapter reached.", Toast.LENGTH_LONG)
+                    val toast = Toast.makeText(this, "Beginning of chapter reached.", Toast.LENGTH_SHORT)
                     toast.setGravity(android.view.Gravity.CENTER, 0, 0)
                     toast.show()
                 }
@@ -144,7 +144,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                     displayVerse(nextVerse)
                     if (isAutoPlaying) speakVerse(nextVerse)
                 } else {
-                    val toast = Toast.makeText(this, "End of chapter reached.", Toast.LENGTH_LONG)
+                    val toast = Toast.makeText(this, "End of chapter reached.", Toast.LENGTH_SHORT)
                     toast.setGravity(android.view.Gravity.CENTER, 0, 0)
                     toast.show()
                     stopAutoPlay()
@@ -156,7 +156,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         btnAutoPlay.setOnClickListener {
             if (isAutoPlaying) {
                 stopAutoPlay()                
-                val toast = Toast.makeText(this, "Auto-Play Stopped.", Toast.LENGTH_LONG)
+                val toast = Toast.makeText(this, "Auto-Play Stopped.", Toast.LENGTH_SHORT)
                 toast.setGravity(android.view.Gravity.CENTER, 0, 0)
                 toast.show()
             } else {
@@ -173,7 +173,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             val clipboard = getSystemService(Context.CLIPBOARD_SERVICE) as ClipboardManager
             val clip = ClipData.newPlainText("Bible Verse", fullText)
             clipboard.setPrimaryClip(clip)
-            val toast = Toast.makeText(this, "Verse copied to clipboard!", Toast.LENGTH_LONG)
+            val toast = Toast.makeText(this, "Verse copied to clipboard!", Toast.LENGTH_SHORT)
             toast.setGravity(android.view.Gravity.CENTER, 0, 0)
             toast.show()
         }
@@ -199,7 +199,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                     stopAutoPlay()
                     speakVerse(verse)
                 } else {
-                    val toast = Toast.makeText(this, "Speech Engine is still initializing...", Toast.LENGTH_LONG)
+                    val toast = Toast.makeText(this, "Speech Engine is still initializing...", Toast.LENGTH_SHORT)
                     toast.setGravity(android.view.Gravity.CENTER, 0, 0)
                     toast.show()
                 }
@@ -268,7 +268,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
         if (!hasSuffixFiles && target != BibleTranslation.KJV && target != BibleTranslation.ADB1905) {
             // Explicitly catch unpopulated translations that lack asset files
-            val toast = Toast.makeText(this, "This translation is not available yet.", Toast.LENGTH_LONG)
+            val toast = Toast.makeText(this, "This translation is not available yet.", Toast.LENGTH_SHORT)
             toast.setGravity(android.view.Gravity.CENTER, 0, 0)
             toast.show()
             updateLanguageToggleUI(previousTranslation)
@@ -289,7 +289,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             } else {
                 BibleRepository.loadVerses(this, previousTranslation)
                 updateLanguageToggleUI(previousTranslation)
-                val toast = Toast.makeText(this, "This translation is not available yet.", Toast.LENGTH_LONG)
+                val toast = Toast.makeText(this, "This translation is not available yet.", Toast.LENGTH_SHORT)
                 toast.setGravity(android.view.Gravity.CENTER, 0, 0)
                 toast.show()
             }
@@ -352,7 +352,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
     private fun startAutoPlay() {
         if (!isTtsReady) {
-            val toast = Toast.makeText(this, "Speech engine not ready yet", Toast.LENGTH_LONG)
+            val toast = Toast.makeText(this, "Speech engine not ready yet", Toast.LENGTH_SHORT)
             toast.setGravity(android.view.Gravity.CENTER, 0, 0)
             toast.show()
             return
@@ -360,7 +360,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         isAutoPlaying = true
         btnAutoPlay.text = "⏹ Stop Auto-Play"
         currentVerse?.let { speakVerse(it) }
-        val toast = Toast.makeText(this, "Auto-Play Started", Toast.LENGTH_LONG)
+        val toast = Toast.makeText(this, "Auto-Play Started", Toast.LENGTH_SHORT)
         toast.setGravity(android.view.Gravity.CENTER, 0, 0)
         toast.show()
     }
@@ -371,39 +371,46 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         tts?.stop()
     }
 
-    private fun applyTheme() {
+
+	private fun applyTheme() {
         val rootLayout = findViewById<ViewGroup>(android.R.id.content).rootView
 
         if (isDarkMode) {
-            // --- NIGHT MODE COLORS ---
-            rootLayout.setBackgroundColor(Color.parseColor("#121212"))
+            // --- PROFESSIONAL NIGHT MODE ---
+            rootLayout.setBackgroundColor(Color.parseColor("#121212")) // Deep dark screen background
             
+            // Force true dark card background and disable tint interference
             verseCard.setCardBackgroundColor(Color.parseColor("#1E1E1E"))
-            verseCard.cardElevation = 0f
+            verseCard.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#1E1E1E"))
+            verseCard.cardElevation = 4f
             verseCard.strokeColor = Color.parseColor("#333333")
             
-            tvVerseText.setTextColor(Color.parseColor("#FFFFFF"))
-            tvVerseRef.setTextColor(Color.parseColor("#E0C0A8"))
+            tvVerseText.setTextColor(Color.parseColor("#FFFFFF")) // Bright white for crystal clear reading
+            tvVerseRef.setTextColor(Color.parseColor("#D7CCC8"))   // Warm soft accent
             
             btnToggleTheme.text = "☀️ Switch to Day View"
-            btnToggleTheme.setTextColor(Color.parseColor("#E0E0E0"))
-            btnToggleTheme.strokeColor = ColorStateList.valueOf(Color.parseColor("#666666"))
+            btnToggleTheme.setTextColor(Color.parseColor("#D7CCC8"))
+            btnToggleTheme.strokeColor = ColorStateList.valueOf(Color.parseColor("#D7CCC8"))
             
+            // Primary Accent Button
             btnRefresh.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#8D6E63"))
             btnRefresh.setTextColor(Color.parseColor("#FFFFFF"))
             
+            // Secondary Buttons
             val nightButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout)
             for (btn in nightButtons) {
-                btn.setTextColor(Color.parseColor("#E0E0E0"))
-                btn.strokeColor = ColorStateList.valueOf(Color.parseColor("#555555"))
-                btn.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#2A2A2A"))
+                btn.setTextColor(Color.parseColor("#D7CCC8"))
+                btn.strokeColor = ColorStateList.valueOf(Color.parseColor("#D7CCC8"))
+                btn.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#252525"))
             }
 
         } else {
-            // --- DAY MODE COLORS ---
+            // --- DAY MODE (Warm Theme) ---
             rootLayout.setBackgroundResource(R.drawable.bg_gradient)
             
             verseCard.setCardBackgroundColor(Color.parseColor("#FFFFFF"))
+            verseCard.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#FFFFFF"))
+            verseCard.cardElevation = 4f
             verseCard.strokeColor = Color.parseColor("#E8E2D5")
             
             tvVerseText.setTextColor(Color.parseColor("#2D241E"))
@@ -423,17 +430,17 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 btn.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
             }
         }
-        
         // Refresh toggle button highlighting based on active translation & theme
         updateLanguageToggleUI(BibleRepository.currentTranslation)
     }
+
 
     // Dialog 1: Choose Book
     private fun showBookSelectionDialog() {
         val books = BibleRepository.getAvailableBooks(this).toTypedArray()
         
         if (books.isEmpty()) {
-            val toast = Toast.makeText(this, "No books available", Toast.LENGTH_LONG)
+            val toast = Toast.makeText(this, "No books available", Toast.LENGTH_SHORT)
             toast.setGravity(android.view.Gravity.CENTER, 0, 0)
             toast.show()
             return
@@ -467,7 +474,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val verseTitles = chapterVerses.map { theVerse -> theVerse.reference }.toTypedArray()
 
         if (verseTitles.isEmpty()) {
-            val toast = Toast.makeText(this, "No verses found for $chapterName", Toast.LENGTH_LONG)
+            val toast = Toast.makeText(this, "No verses found for $chapterName", Toast.LENGTH_SHORT)
             toast.setGravity(android.view.Gravity.CENTER, 0, 0)
             toast.show()
             return
@@ -539,7 +546,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                                     speakVerse(nextVerse)
                                 } else {
                                     stopAutoPlay()
-                                    val toast = Toast.makeText(this@MainActivity, "End of chapter reached", Toast.LENGTH_LONG)
+                                    val toast = Toast.makeText(this@MainActivity, "End of chapter reached", Toast.LENGTH_SHORT)
                                     toast.setGravity(android.view.Gravity.CENTER, 0, 0)
                                     toast.show()
                                 }
