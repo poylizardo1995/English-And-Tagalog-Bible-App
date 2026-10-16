@@ -72,8 +72,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val languageToggleInclude = findViewById<android.view.View>(R.id.languageTogglePill)
         btnKjv = languageToggleInclude.findViewById(R.id.btnKjv)
         btnTagalog = languageToggleInclude.findViewById(R.id.btnTagalog)
-        languageToggleContainer = languageToggleInclude.findViewById(R.id.languageTogglePill).parent as? ViewGroup 
-            ?: languageToggleInclude as? ViewGroup
+        languageToggleContainer = languageToggleInclude.parent as? ViewGroup ?: (languageToggleInclude as ViewGroup)
 
         // Initialize Text-to-Speech engine
         tts = TextToSpeech(this, this)
@@ -149,7 +148,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         btnCopy.setOnClickListener {
             val verseText = tvVerseText.text.toString()
             val verseRef = tvVerseRef.text.toString()
-            val fullText = "$verseText $verseRef"
+            val fullText = "$verseText$verseRef"
 
             val clipboard = getSystemService(Context.CLIPBOARD_SERVICE) as ClipboardManager
             val clip = ClipData.newPlainText("Bible Verse", fullText)
@@ -205,7 +204,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     private fun updateLanguageToggleUI(translation: BibleTranslation) {
         if (isDarkMode) {
             // --- NIGHT MODE TOGGLE STYLING ---
-            languageToggleContainer?.background = getDrawable(R.drawable.bg_pill_container) // or dark tint container if customized
+            languageToggleContainer.background = getDrawable(R.drawable.bg_pill_container)
             if (translation == BibleTranslation.KJV) {
                 btnKjv.setBackgroundResource(R.drawable.bg_pill_selected)
                 btnKjv.setTextColor(Color.parseColor("#121212"))
@@ -274,181 +273,4 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             verseCard.strokeColor = Color.parseColor("#333333")
             
             tvVerseText.setTextColor(Color.parseColor("#E0E0E0"))
-            tvVerseRef.setTextColor(Color.parseColor("#B08D73"))
-            
-            btnToggleTheme.text = "☀️ Switch to Day View"
-            btnToggleTheme.setTextColor(Color.parseColor("#D7CCC8"))
-            btnToggleTheme.strokeColor = ColorStateList.valueOf(Color.parseColor("#D7CCC8"))
-            
-            btnRefresh.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#8D6E63"))
-            btnRefresh.setTextColor(Color.parseColor("#121212"))
-            
-            val nightButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout)
-            for (btn in nightButtons) {
-                btn.setTextColor(Color.parseColor("#D7CCC8"))
-                btn.strokeColor = ColorStateList.valueOf(Color.parseColor("#D7CCC8"))
-            }
-
-        } else {
-            // --- DAY MODE COLORS (Original Warm Theme) ---
-            rootLayout.setBackgroundResource(R.drawable.bg_gradient)
-            verseCard.setCardBackgroundColor(Color.parseColor("#FFFFFF"))
-            verseCard.strokeColor = Color.parseColor("#E8E2D5")
-            
-            tvVerseText.setTextColor(Color.parseColor("#2D241E"))
-            tvVerseRef.setTextColor(Color.parseColor("#8C6D53"))
-            
-            btnToggleTheme.text = "🌙 Switch to Night View"
-            btnToggleTheme.setTextColor(Color.parseColor("#6E472C"))
-            btnToggleTheme.strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
-            
-            btnRefresh.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#6E472C"))
-            btnRefresh.setTextColor(Color.WHITE)
-            
-            val dayButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout)
-            for (btn in dayButtons) {
-                btn.setTextColor(Color.parseColor("#6E472C"))
-                btn.strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
-            }
-        }
-        
-        // Refresh toggle button highlighting based on active translation & theme
-        val activeTranslation = if (btnTagalog.background.constantState == getDrawable(R.drawable.bg_pill_selected)?.constantState) {
-            BibleTranslation.ADB1905
-        } else {
-            BibleTranslation.KJV
-        }
-        updateLanguageToggleUI(activeTranslation)
-    }
-
-    // Dialog 1: Choose Book
-    private fun showBookSelectionDialog() {
-        val books = BibleRepository.getAvailableBooks(this).toTypedArray()
-        
-        if (books.isEmpty()) {
-            Toast.makeText(this, "No books available", Toast.LENGTH_SHORT).show()
-            return
-        }
-
-        AlertDialog.Builder(this)
-            .setTitle("Select Book")
-            .setItems(books) { _, which ->
-                val selectedBook = books[which]
-                showChapterSelectionDialog(selectedBook)
-            }
-            .show()
-    }
-
-    // Dialog 2: Choose Chapter from Book
-    private fun showChapterSelectionDialog(bookName: String) {
-        val chapters = BibleRepository.getChaptersForBook(bookName, this).toTypedArray()
-
-        AlertDialog.Builder(this)
-            .setTitle("Select Chapter in $bookName")
-            .setItems(chapters) { _, which ->
-                val selectedChapter = chapters[which]
-                showVerseSelectionDialog(selectedChapter)
-            }
-            .show()
-    }
-
-    // Dialog 3: Choose Verse from Chapter
-    private fun showVerseSelectionDialog(chapterName: String) {
-        val chapterVerses = BibleRepository.getVerseObjectsForChapter(chapterName, this)
-        val verseTitles = chapterVerses.map { theVerse -> theVerse.reference }.toTypedArray()
-
-        if (verseTitles.isEmpty()) {
-            Toast.makeText(this, "No verses found for $chapterName", Toast.LENGTH_SHORT).show()
-            return
-        }
-
-        AlertDialog.Builder(this)
-            .setTitle("Select Verse in $chapterName")
-            .setItems(verseTitles) { _, which ->
-                val selectedVerse = chapterVerses[which]
-                displayVerse(selectedVerse)
-            }
-            .show()
-    }
-
-    // Helper function to update the screen with a specific verse silently
-    private fun displayVerse(verse: BibleVerse) {
-        currentVerse = verse
-        tvVerseText.text = verse.text
-        tvVerseRef.text = "— ${verse.reference}"
-
-        // Smooth fade-in animation
-        val fadeIn = AlphaAnimation(0.0f, 1.0f).apply { duration = 400 }
-        tvVerseText.startAnimation(fadeIn)
-        tvVerseRef.startAnimation(fadeIn)
-    }
-
-    // Random verse picker (silent load)
-    private fun loadVerse() {
-        val verse = BibleRepository.getRandomVerse(this)
-        displayVerse(verse)
-    }
-
-    // Text-to-Speech handler with Utterance ID for Auto-Play tracking
-    private fun speakVerse(verse: BibleVerse) {
-        val isTagalog = isTagalogText(verse.text)
-        val locale = if (isTagalog) Locale("fil", "PH") else Locale.US
-
-        val result = tts?.setLanguage(locale)
-        if (result == TextToSpeech.LANG_MISSING_DATA || result == TextToSpeech.LANG_NOT_SUPPORTED) {
-            tts?.setLanguage(Locale.getDefault())
-        }
-
-        val speechText = "${verse.text}. Reference: ${verse.reference}"
-        tts?.speak(speechText, TextToSpeech.QUEUE_FLUSH, null, "verse_utterance_id")
-    }
-
-    private fun isTagalogText(text: String): Boolean {
-        val tagalogKeywords = listOf("ang", "mga", "sa", "at", "na", "ng", "ay", "kayo", "tayo", "ka", "mo", "ko", "ni", "para", "isang", "rin", "din")
-        val words = text.lowercase().split(Regex("\\s+"))
-        val matchCount = words.count { tagalogKeywords.contains(it) }
-        return matchCount >= 2
-    }
-
-    override fun onInit(status: Int) {
-        if (status == TextToSpeech.SUCCESS) {
-            tts?.setLanguage(Locale.US)
-            isTtsReady = true
-
-            tts?.setOnUtteranceProgressListener(object : UtteranceProgressListener() {
-                override fun onStart(utteranceId: String?) {}
-
-                override fun onDone(utteranceId: String?) {
-                    if (isAutoPlaying) {
-                        runOnUiThread {
-                            currentVerse?.let { verse ->
-                                val nextVerse = BibleRepository.getNextVerse(verse, this@MainActivity)
-                                if (nextVerse != null) {
-                                    displayVerse(nextVerse)
-                                    speakVerse(nextVerse)
-                                } else {
-                                    stopAutoPlay()
-                                    Toast.makeText(this@MainActivity, "End of chapter reached", Toast.LENGTH_SHORT).show()
-                                }
-                            }
-                        }
-                    }
-                }
-
-                override fun onError(utteranceId: String?) {
-                    runOnUiThread {
-                        stopAutoPlay()
-                    }
-                }
-            })
-        }
-    }
-
-    override fun onDestroy() {
-        tts?.let {
-            it.stop()
-            it.shutdown()
-        }
-        super.onDestroy()
-    }
-}
+            tvVerseRef.setTextColor(
