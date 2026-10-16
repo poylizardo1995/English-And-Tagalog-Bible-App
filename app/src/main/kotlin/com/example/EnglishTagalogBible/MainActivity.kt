@@ -564,10 +564,10 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         updateLanguageToggleUI(BibleRepository.currentTranslation)
     }
 
-    private fun updateLanguageToggleUI(translation: BibleTranslation) {
+private fun updateLanguageToggleUI(translation: BibleTranslation) {
         val isEnglishActive = translation.languageGroup == "English"
         
-        // Show active toggle status clearly with a bullet indicator instead of dropdown arrows
+        // Show active toggle status clearly with a bullet indicator
         btnEnglish.text = if (isEnglishActive) "• ${translation.displayName.uppercase()}" else "ENGLISH"
         btnTagalog.text = if (!isEnglishActive) "• ${translation.displayName.uppercase()}" else "TAGALOG"
 
@@ -578,13 +578,15 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
             if (isEnglishActive) {
                 btnEnglish.setBackgroundResource(R.drawable.bg_pill_selected)
-                btnEnglish.setTextColor(Color.parseColor("#121212"))
+                btnEnglish.setTextColor(Color.parseColor("#FFFFFF")) // Fixed: Light text for active pill in dark mode
+                
                 btnTagalog.backgroundTintList = null
                 btnTagalog.setBackgroundColor(Color.TRANSPARENT)
                 btnTagalog.setTextColor(Color.parseColor("#D7CCC8"))
             } else {
                 btnTagalog.setBackgroundResource(R.drawable.bg_pill_selected)
-                btnTagalog.setTextColor(Color.parseColor("#121212"))
+                btnTagalog.setTextColor(Color.parseColor("#FFFFFF")) // Fixed: Light text for active pill in dark mode
+                
                 btnEnglish.backgroundTintList = null
                 btnEnglish.setBackgroundColor(Color.TRANSPARENT)
                 btnEnglish.setTextColor(Color.parseColor("#D7CCC8"))
@@ -597,12 +599,14 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             if (isEnglishActive) {
                 btnEnglish.setBackgroundResource(R.drawable.bg_pill_selected)
                 btnEnglish.setTextColor(Color.WHITE)
+                
                 btnTagalog.backgroundTintList = null
                 btnTagalog.setBackgroundColor(Color.TRANSPARENT)
                 btnTagalog.setTextColor(Color.parseColor("#555555"))
             } else {
                 btnTagalog.setBackgroundResource(R.drawable.bg_pill_selected)
                 btnTagalog.setTextColor(Color.WHITE)
+                
                 btnEnglish.backgroundTintList = null
                 btnEnglish.setBackgroundColor(Color.TRANSPARENT)
                 btnEnglish.setTextColor(Color.parseColor("#555555"))
