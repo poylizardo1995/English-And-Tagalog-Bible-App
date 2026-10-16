@@ -313,14 +313,27 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
         dialog.show()
 
-        // Center-align both the title and message text views
+        // Center-align the title view and force its parent container to match parent width
         val titleView = dialog.findViewById<TextView>(androidx.appcompat.R.id.alertTitle)
-        titleView?.gravity = android.view.Gravity.CENTER
+        titleView?.apply {
+            gravity = android.view.Gravity.CENTER
+            // Force layout params width to match parent so centering is absolute
+            layoutParams = (layoutParams as? ViewGroup.LayoutParams)?.apply {
+                width = ViewGroup.LayoutParams.MATCH_PARENT
+            }
+        }
 
+        // Center-align the message view
         val messageView = dialog.findViewById<TextView>(android.R.id.message)
         messageView?.gravity = android.view.Gravity.CENTER
-        
-        // Match text colors and background to the current theme
+
+        // Center-align or layout-adjust the OK button if desired
+        val positiveButton = dialog.getButton(AlertDialog.BUTTON_POSITIVE)
+        positiveButton?.let {
+            it.setTextColor(if (isDarkMode) Color.parseColor("#B08D73") else Color.parseColor("#6E472C"))
+        }
+
+        // Match text colors and card background to the current theme
         if (isDarkMode) {
             titleView?.setTextColor(Color.parseColor("#FFFFFF"))
             messageView?.setTextColor(Color.parseColor("#E0E0E0"))
