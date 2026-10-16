@@ -375,11 +375,12 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val rootLayout = findViewById<ViewGroup>(android.R.id.content).getChildAt(0) ?: window.decorView
 
         if (isDarkMode) {
-            // --- ORIGINAL NIGHT MODE DESIGN ---
+            // --- PROFESSIONAL NIGHT MODE ---
             rootLayout.setBackgroundResource(R.drawable.bg_gradient)
             
-            verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#1E1E1E")))
-            verseCard.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#1E1E1E"))
+            // Explicitly set background color on underlying view to bypass MaterialCardView tint overlay
+            verseCard.setBackgroundColor(Color.parseColor("#1E1E1E"))
+            verseCard.setCardBackgroundColor(Color.parseColor("#1E1E1E"))
             verseCard.strokeColor = Color.parseColor("#333333")
             verseCard.cardElevation = 0f
             
@@ -405,8 +406,8 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             // --- DAY MODE (Warm Theme) ---
             rootLayout.setBackgroundResource(R.drawable.bg_gradient)
             
-            verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#FFFFFF")))
-            verseCard.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#FFFFFF"))
+            verseCard.setBackgroundColor(Color.parseColor("#FFFFFF"))
+            verseCard.setCardBackgroundColor(Color.parseColor("#FFFFFF"))
             verseCard.strokeColor = Color.parseColor("#E8E2D5")
             verseCard.cardElevation = 4f
             
