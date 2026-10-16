@@ -6,7 +6,7 @@ import java.io.IOException
 
 enum class BibleTranslation(val suffix: String) {
     KJV("kjv"),
-    TAGALOG("adb1905")
+    ADB1905("adb1905")
 }
 
 data class BibleVerse(
