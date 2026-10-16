@@ -246,7 +246,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val positiveButton = dialog.getButton(AlertDialog.BUTTON_POSITIVE)
         positiveButton?.setTextColor(if (isDarkMode) Color.parseColor("#B08D73") else Color.parseColor("#6E472C"))
 
-        // Apply Card Scroll background & text color to list items
+        // Apply Card Scroll background & text color to dialog window
         dialog.window?.decorView?.background = android.graphics.drawable.GradientDrawable().apply {
             shape = android.graphics.drawable.GradientDrawable.RECTANGLE
             cornerRadius = 24f
@@ -340,27 +340,15 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
 
     private fun showBookSelectionDialog() {
-        // Fix book grouping: ensure full individual book names are retrieved and sorted or flattened correctly
         val rawBooks = BibleRepository.getAvailableBooks(this)
-        val books = rawBooks.flatMap { book ->
-            // If repository returns category prefixes like "1", "2", "3", expand or map them properly,
-            // otherwise use the clean book name directly.
-            if (book == "1" || book == "2" || book == "3") {
-                // If the repository groups books under numeric headers, retrieve sub-books or list them fully:
-                emptyList() // Fallback check
-            } else {
-                listOf(book)
-            }
-        }.distinct().toTypedArray()
+        // Filter out standalone numeric groupings (like "1", "2", "3") so full book names are displayed
+        val cleanedBooks = rawBooks.filter { it.length > 2 || !it.all { c -> c.isDigit() } }.toTypedArray()
 
-        // Fallback: If rawBooks contains single digits, let's ensure full book titles are extracted from chapters/verses if needed, 
-        // or filter out standalone numbers so individual books like "1 Chronicles", "1 Corinthians", etc., show up properly.
-        val cleanedBooks = if (books.isEmpty() || books.any { it.length <= 2 && it.all { c -> c.isDigit() } }) {
-            // Extract unique full book titles from available chapter/verse records
-            val allVerses = BibleRepository.getVerseObjectsForChapter("", this) // Or fetch all books dynamically
-            rawBooks.filter { it.length > 2 }.toTypedArray()
-        } else {
-            rawBooks.filter { it.length > 2 || !it.all { c -> c.isDigit() } }.toTypedArray()
+        if (cleanedBooks.isEmpty()) {
+            val toast = Toast.makeText(this, "No books available", Toast.LENGTH_SHORT)
+            toast.setGravity(android.view.Gravity.CENTER, 0, 0)
+            toast.show()
+            return
         }
 
         val dialog = AlertDialog.Builder(this)
@@ -423,6 +411,137 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     private fun loadVerse() {
         val verse = BibleRepository.getRandomVerse(this)
         displayVerse(verse)
+    }
+
+    private fun startAutoPlay() {
+        if (!isTtsReady) {
+            val toast = Toast.makeText(this, "Speech engine not ready yet", Toast.LENGTH_SHORT)
+            toast.setGravity(android.view.Gravity.CENTER, 0, 0)
+            toast.show()
+            return
+        }
+        isAutoPlaying = true
+        btnAutoPlay.text = "⏹ Stop Auto-Play"
+        currentVerse?.let { speakVerse(it) }
+        val toast = Toast.makeText(this, "Auto-Play Started", Toast.LENGTH_SHORT)
+        toast.setGravity(android.view.Gravity.CENTER, 0, 0)
+        toast.show()
+    }
+
+    private fun stopAutoPlay() {
+        isAutoPlaying = false
+        btnAutoPlay.text = "▶ Auto-Play"
+        tts?.stop()
+    }
+
+    private fun applyTheme() {
+        val rootLayout = findViewById<ViewGroup>(android.R.id.content).getChildAt(0) ?: window.decorView
+
+        if (isDarkMode) {
+            rootLayout.setBackgroundResource(R.drawable.bg_gradient)
+            
+            verseCard.backgroundTintList = null
+            verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#1E1E1E")))
+            verseCard.strokeColor = Color.parseColor("#333333")
+            verseCard.cardElevation = 0f
+            
+            tvVerseText.setTextColor(Color.parseColor("#FFFFFF"))
+            tvVerseRef.setTextColor(Color.parseColor("#B08D73"))
+            
+            btnToggleTheme.text = "☀️ Switch to Day View"
+            btnToggleTheme.setTextColor(Color.parseColor("#E0E0E0"))
+            btnToggleTheme.strokeColor = ColorStateList.valueOf(Color.parseColor("#D7CCC8"))
+            btnToggleTheme.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
+            
+            btnRefresh.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#8D6E63"))
+            btnRefresh.setTextColor(Color.parseColor("#FFFFFF"))
+            if (btnRefresh is MaterialButton) {
+                (btnRefresh as MaterialButton).strokeColor = ColorStateList.valueOf(Color.parseColor("#8D6E63"))
+            }
+            
+            val nightButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout)
+            for (btn in nightButtons) {
+                btn.setTextColor(Color.parseColor("#E0E0E0"))
+                btn.strokeColor = ColorStateList.valueOf(Color.parseColor("#D7CCC8"))
+                btn.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
+            }
+
+        } else {
+            rootLayout.setBackgroundResource(R.drawable.bg_gradient)
+            
+            verseCard.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#FFFFFF"))
+            verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#FFFFFF")))
+            verseCard.strokeColor = Color.parseColor("#E8E2D5")
+            verseCard.cardElevation = 4f
+            
+            tvVerseText.setTextColor(Color.parseColor("#2D241E"))
+            tvVerseRef.setTextColor(Color.parseColor("#8C6D53"))
+            
+            btnToggleTheme.text = "🌙 Switch to Night View"
+            btnToggleTheme.setTextColor(Color.parseColor("#6E472C"))
+            btnToggleTheme.strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
+            btnToggleTheme.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
+            
+            btnRefresh.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#6E472C"))
+            btnRefresh.setTextColor(Color.WHITE)
+            if (btnRefresh is MaterialButton) {
+                (btnRefresh as MaterialButton).strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
+            }
+            
+            val dayButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout)
+            for (btn in dayButtons) {
+                btn.setTextColor(Color.parseColor("#6E472C"))
+                btn.strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
+                btn.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
+            }
+        }
+        
+        updateLanguageToggleUI(BibleRepository.currentTranslation)
+    }
+
+    private fun updateLanguageToggleUI(translation: BibleTranslation) {
+        val isEnglishActive = translation.languageGroup == "English"
+        
+        btnEnglish.text = if (isEnglishActive) "${translation.displayName.substringAfter("(").substringBefore(")")} ▾" else "ENGLISH ▾"
+        btnTagalog.text = if (!isEnglishActive) "${translation.displayName.substringAfter("(").substringBefore(")")} ▾" else "TAGALOG ▾"
+
+        if (isDarkMode) {
+            verseCard.backgroundTintList = null
+            verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#1E1E1E")))
+            verseCard.strokeColor = Color.parseColor("#333333")
+
+            if (isEnglishActive) {
+                btnEnglish.setBackgroundResource(R.drawable.bg_pill_selected)
+                btnEnglish.setTextColor(Color.parseColor("#121212"))
+                btnTagalog.backgroundTintList = null
+                btnTagalog.setBackgroundColor(Color.TRANSPARENT)
+                btnTagalog.setTextColor(Color.parseColor("#D7CCC8"))
+            } else {
+                btnTagalog.setBackgroundResource(R.drawable.bg_pill_selected)
+                btnTagalog.setTextColor(Color.parseColor("#121212"))
+                btnEnglish.backgroundTintList = null
+                btnEnglish.setBackgroundColor(Color.TRANSPARENT)
+                btnEnglish.setTextColor(Color.parseColor("#D7CCC8"))
+            }
+        } else {
+            verseCard.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#FFFFFF"))
+            verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#FFFFFF")))
+            verseCard.strokeColor = Color.parseColor("#E8E2D5")
+
+            if (isEnglishActive) {
+                btnEnglish.setBackgroundResource(R.drawable.bg_pill_selected)
+                btnEnglish.setTextColor(Color.WHITE)
+                btnTagalog.backgroundTintList = null
+                btnTagalog.setBackgroundColor(Color.TRANSPARENT)
+                btnTagalog.setTextColor(Color.parseColor("#555555"))
+            } else {
+                btnTagalog.setBackgroundResource(R.drawable.bg_pill_selected)
+                btnTagalog.setTextColor(Color.WHITE)
+                btnEnglish.backgroundTintList = null
+                btnEnglish.setBackgroundColor(Color.TRANSPARENT)
+                btnEnglish.setTextColor(Color.parseColor("#555555"))
+            }
+        }
     }
 
     private fun speakVerse(verse: BibleVerse) {
