@@ -246,25 +246,11 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val positiveButton = dialog.getButton(AlertDialog.BUTTON_POSITIVE)
         positiveButton?.setTextColor(if (isDarkMode) Color.parseColor("#B08D73") else Color.parseColor("#6E472C"))
 
-        // Recursively style all text views inside the dialog to guarantee readability in Dark/Day modes
-        val rootDecorView = dialog.window?.decorView
-        rootDecorView?.let { styleAllTextViews(it, isDarkMode) }
-
         // Apply Card Scroll background to dialog window
         dialog.window?.decorView?.background = android.graphics.drawable.GradientDrawable().apply {
             shape = android.graphics.drawable.GradientDrawable.RECTANGLE
             cornerRadius = 24f
             setColor(if (isDarkMode) Color.parseColor("#1E1E1E") else Color.parseColor("#FFFFFF"))
-        }
-    }
-
-    private fun styleAllTextViews(view: android.view.View, darkMode: Boolean) {
-        if (view is TextView) {
-            view.setTextColor(if (darkMode) Color.parseColor("#E0E0E0") else Color.parseColor("#2D241E"))
-        } else if (view is ViewGroup) {
-            for (i in 0 until view.childCount) {
-                styleAllTextViews(view.getChildAt(i), darkMode)
-            }
         }
     }
 
@@ -280,9 +266,23 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             val options = matchingTranslations.map { it.displayName }.toTypedArray()
             val currentIndex = matchingTranslations.indexOf(BibleRepository.currentTranslation)
 
+            val textColor = if (isDarkMode) Color.parseColor("#E0E0E0") else Color.parseColor("#2D241E")
+            val adapter = object : android.widget.ArrayAdapter<String>(this, android.R.layout.select_dialog_item, options) {
+                override fun getView(position: Int, convertView: android.view.View?, parent: ViewGroup): android.view.View {
+                    val view = super.getView(position, convertView, parent)
+                    val textView = view.findViewById<TextView>(android.R.id.text1)
+                    textView?.let {
+                        it.setTextColor(textColor)
+                        it.gravity = android.view.Gravity.CENTER
+                        it.textAlignment = android.view.View.TEXT_ALIGNMENT_CENTER
+                    }
+                    return view
+                }
+            }
+
             val dialog = AlertDialog.Builder(this)
                 .setTitle("Select $groupName Version")
-                .setSingleChoiceItems(options, if (currentIndex != -1) currentIndex else 0) { d, which ->
+                .setAdapter(adapter) { d, which ->
                     val selected = matchingTranslations[which]
                     if (selected != BibleRepository.currentTranslation) {
                         switchToTranslation(selected)
@@ -356,10 +356,11 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     private fun showBookSelectionDialog() {
         val rawBooks = BibleRepository.getAvailableBooks(this)
         
-        // Filter out ONLY standalone numeric headers (like "1", "2", "3"), keeping full books like "1 Chronicles", "1 John", etc.
+        // Filter out ONLY standalone numeric headings (like "1", "2", "3"), keeping full books like "1 Chronicles", "1 John", etc.
         val cleanedBooks = rawBooks.filter { book ->
             val trimmed = book.trim()
-            !(trimmed.length <= 2 && trimmed.all { c -> c.isDigit() })
+            val isPureNumber = trimmed.length <= 2 && trimmed.all { c -> c.isDigit() }
+            !isPureNumber
         }.toTypedArray()
 
         if (cleanedBooks.isEmpty()) {
@@ -369,9 +370,23 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             return
         }
 
+        val textColor = if (isDarkMode) Color.parseColor("#E0E0E0") else Color.parseColor("#2D241E")
+        val adapter = object : android.widget.ArrayAdapter<String>(this, android.R.layout.select_dialog_item, cleanedBooks) {
+            override fun getView(position: Int, convertView: android.view.View?, parent: ViewGroup): android.view.View {
+                val view = super.getView(position, convertView, parent)
+                val textView = view.findViewById<TextView>(android.R.id.text1)
+                textView?.let {
+                    it.setTextColor(textColor)
+                    it.gravity = android.view.Gravity.CENTER
+                    it.textAlignment = android.view.View.TEXT_ALIGNMENT_CENTER
+                }
+                return view
+            }
+        }
+
         val dialog = AlertDialog.Builder(this)
             .setTitle("Select Book")
-            .setItems(cleanedBooks) { _, which ->
+            .setAdapter(adapter) { _, which ->
                 val selectedBook = cleanedBooks[which]
                 showChapterSelectionDialog(selectedBook)
             }
@@ -383,9 +398,23 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     private fun showChapterSelectionDialog(bookName: String) {
         val chapters = BibleRepository.getChaptersForBook(bookName, this).toTypedArray()
 
+        val textColor = if (isDarkMode) Color.parseColor("#E0E0E0") else Color.parseColor("#2D241E")
+        val adapter = object : android.widget.ArrayAdapter<String>(this, android.R.layout.select_dialog_item, chapters) {
+            override fun getView(position: Int, convertView: android.view.View?, parent: ViewGroup): android.view.View {
+                val view = super.getView(position, convertView, parent)
+                val textView = view.findViewById<TextView>(android.R.id.text1)
+                textView?.let {
+                    it.setTextColor(textColor)
+                    it.gravity = android.view.Gravity.CENTER
+                    it.textAlignment = android.view.View.TEXT_ALIGNMENT_CENTER
+                }
+                return view
+            }
+        }
+
         val dialog = AlertDialog.Builder(this)
             .setTitle("Select Chapter in $bookName")
-            .setItems(chapters) { _, which ->
+            .setAdapter(adapter) { _, which ->
                 val selectedChapter = chapters[which]
                 showVerseSelectionDialog(selectedChapter)
             }
@@ -405,9 +434,23 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             return
         }
 
+        val textColor = if (isDarkMode) Color.parseColor("#E0E0E0") else Color.parseColor("#2D241E")
+        val adapter = object : android.widget.ArrayAdapter<String>(this, android.R.layout.select_dialog_item, verseTitles) {
+            override fun getView(position: Int, convertView: android.view.View?, parent: ViewGroup): android.view.View {
+                val view = super.getView(position, convertView, parent)
+                val textView = view.findViewById<TextView>(android.R.id.text1)
+                textView?.let {
+                    it.setTextColor(textColor)
+                    it.gravity = android.view.Gravity.CENTER
+                    it.textAlignment = android.view.View.TEXT_ALIGNMENT_CENTER
+                }
+                return view
+            }
+        }
+
         val dialog = AlertDialog.Builder(this)
             .setTitle("Select Verse in $chapterName")
-            .setItems(verseTitles) { _, which ->
+            .setAdapter(adapter) { _, which ->
                 val selectedVerse = chapterVerses[which]
                 displayVerse(selectedVerse)
             }
