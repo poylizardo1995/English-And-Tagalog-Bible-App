@@ -27,11 +27,15 @@ import android.widget.Toast
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.FileProvider
+import androidx.work.ExistingPeriodicWorkPolicy
+import androidx.work.PeriodicWorkRequestBuilder
+import androidx.work.WorkManager
 import com.google.android.material.button.MaterialButton
 import com.google.android.material.card.MaterialCardView
 import java.io.File
 import java.io.FileOutputStream
 import java.util.Locale
+import java.util.concurrent.TimeUnit
 
 class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
@@ -62,8 +66,8 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
     // 5 Eye-Friendly Curated Themes
     private enum class ThemeMode(val displayName: String) {
-        SEPIA("📜 Classic Sepia"),
-        CHARCOAL("🖤 Charcoal Contrast"),
+        SEPIA("🪶 Classic Sepia"),
+        CHARCOAL("🪨 Charcoal Contrast"),
         NAVY("🌌 Midnight Navy"),
         OLIVE("🌿 Olive Grace"),
         SUNSET("🌅 Warm Sunset")
@@ -125,8 +129,15 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             handleLanguageSelection("Tagalog")
         }
 
-        // Restore state or load initial random verse
-        if (savedInstanceState != null) {
+        // Check for deep-link from notification
+        val incomingText = intent.getStringExtra("verse_text")
+        val incomingRef = intent.getStringExtra("verse_ref")
+
+        if (incomingText != null && incomingRef != null) {
+            currentVerse = BibleVerse(text = incomingText, reference = incomingRef)
+            tvVerseText.text = currentVerse?.text
+            tvVerseRef.text = "— ${currentVerse?.reference}"
+        } else if (savedInstanceState != null) {
             val savedText = savedInstanceState.getString(KEY_VERSE_TEXT)
             val savedRef = savedInstanceState.getString(KEY_VERSE_REF)
             if (savedText != null && savedRef != null) {
@@ -226,9 +237,21 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         }
 
         LockScreenVerseService.showLockScreenNotification(this)
+        scheduleDailyVerseNotification()
 
         applyTheme()
         updateLanguageToggleUI(BibleRepository.currentTranslation)
+    }
+
+    private fun scheduleDailyVerseNotification() {
+        val dailyWorkRequest = PeriodicWorkRequestBuilder<DailyVerseWorker>(24, TimeUnit.HOURS)
+            .build()
+
+        WorkManager.getInstance(this).enqueueUniquePeriodicWork(
+            "DailyVerseWork",
+            ExistingPeriodicWorkPolicy.KEEP,
+            dailyWorkRequest
+        )
     }
 
     override fun onSaveInstanceState(outState: Bundle) {
@@ -525,7 +548,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             setPadding(0, 0, 0, 4)
         }
 
-        // Sleek, compact version selector button (smaller height so search input is the main focus)
+        // Compact version selector button
         val versionSelectButton = Button(this).apply {
             text = "${translations[selectedTranslationIndex].displayName} ▾"
             isAllCaps = false
