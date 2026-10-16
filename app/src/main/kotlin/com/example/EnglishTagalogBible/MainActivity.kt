@@ -246,11 +246,25 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val positiveButton = dialog.getButton(AlertDialog.BUTTON_POSITIVE)
         positiveButton?.setTextColor(if (isDarkMode) Color.parseColor("#B08D73") else Color.parseColor("#6E472C"))
 
-        // Apply Card Scroll background & text color to dialog window
+        // Recursively style all text views inside the dialog to guarantee readability in Dark/Day modes
+        val rootDecorView = dialog.window?.decorView
+        rootDecorView?.let { styleAllTextViews(it, isDarkMode) }
+
+        // Apply Card Scroll background to dialog window
         dialog.window?.decorView?.background = android.graphics.drawable.GradientDrawable().apply {
             shape = android.graphics.drawable.GradientDrawable.RECTANGLE
             cornerRadius = 24f
             setColor(if (isDarkMode) Color.parseColor("#1E1E1E") else Color.parseColor("#FFFFFF"))
+        }
+    }
+
+    private fun styleAllTextViews(view: android.view.View, darkMode: Boolean) {
+        if (view is TextView) {
+            view.setTextColor(if (darkMode) Color.parseColor("#E0E0E0") else Color.parseColor("#2D241E"))
+        } else if (view is ViewGroup) {
+            for (i in 0 until view.childCount) {
+                styleAllTextViews(view.getChildAt(i), darkMode)
+            }
         }
     }
 
@@ -341,8 +355,12 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
     private fun showBookSelectionDialog() {
         val rawBooks = BibleRepository.getAvailableBooks(this)
-        // Filter out standalone numeric groupings (like "1", "2", "3") so full book names are displayed
-        val cleanedBooks = rawBooks.filter { it.length > 2 || !it.all { c -> c.isDigit() } }.toTypedArray()
+        
+        // Filter out ONLY standalone numeric headers (like "1", "2", "3"), keeping full books like "1 Chronicles", "1 John", etc.
+        val cleanedBooks = rawBooks.filter { book ->
+            val trimmed = book.trim()
+            !(trimmed.length <= 2 && trimmed.all { c -> c.isDigit() })
+        }.toTypedArray()
 
         if (cleanedBooks.isEmpty()) {
             val toast = Toast.makeText(this, "No books available", Toast.LENGTH_SHORT)
