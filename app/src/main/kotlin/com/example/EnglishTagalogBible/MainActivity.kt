@@ -241,6 +241,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val positiveButton = dialog.getButton(AlertDialog.BUTTON_POSITIVE)
         positiveButton?.setTextColor(if (isDarkMode) Color.parseColor("#B08D73") else Color.parseColor("#6E472C"))
 
+        val negativeButton = dialog.getButton(AlertDialog.BUTTON_NEGATIVE)
+        negativeButton?.setTextColor(if (isDarkMode) Color.parseColor("#B08D73") else Color.parseColor("#6E472C"))
+
         dialog.window?.decorView?.background = android.graphics.drawable.GradientDrawable().apply {
             shape = android.graphics.drawable.GradientDrawable.RECTANGLE
             cornerRadius = 24f
@@ -261,7 +264,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                     this.textAlignment = android.view.View.TEXT_ALIGNMENT_CENTER
                     this.setPadding(0, 28, 0, 28)
                     
-                    if (items[position].startsWith("—") || items[position].startsWith("📜") || items[position].startsWith("✝️") || items[position].startsWith("📚") || items[position].startsWith("▶")) {
+                    if (items[position].startsWith("—") || items[position].startsWith("📜") || items[position].startsWith("✝️") || items[position].startsWith("📚") || items[position].startsWith("▶") || items[position].startsWith("🔍")) {
                         this.setTextColor(if (isDarkMode) Color.parseColor("#B08D73") else Color.parseColor("#8C6D53"))
                         this.setTypeface(null, android.graphics.Typeface.BOLD)
                     } else {
@@ -295,6 +298,87 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 startAutoPlay()
             }
             .create()
+        applyThemedDialogStyle(dialog)
+    }
+
+    private fun showSearchQueryDialog() {
+        val inputEditText = android.widget.EditText(this).apply {
+            hint = "Enter keyword or reference (e.g., love, John 3)"
+            setTextColor(if (isDarkMode) Color.parseColor("#FFFFFF") else Color.parseColor("#2D241E"))
+            setHintTextColor(if (isDarkMode) Color.parseColor("#888888") else Color.parseColor("#888888"))
+            setPadding(48, 36, 48, 36)
+        }
+
+        val container = android.widget.FrameLayout(this).apply {
+            setPadding(48, 20, 48, 0)
+            addView(inputEditText)
+        }
+
+        val dialog = AlertDialog.Builder(this)
+            .setTitle("Search Bible (${BibleRepository.currentTranslation.displayName})")
+            .setView(container)
+            .setPositiveButton("Search") { _, _ ->
+                val query = inputEditText.text.toString().trim()
+                if (query.isNotEmpty()) {
+                    performVerseSearch(query)
+                } else {
+                    showCenteredToast("Please enter a search term.")
+                }
+            }
+            .setNegativeButton("Cancel", null)
+            .create()
+
+        applyThemedDialogStyle(dialog)
+    }
+
+    private fun performVerseSearch(query: String) {
+        val matchingVerses = mutableListOf<BibleVerse>()
+        val lowercaseQuery = query.lowercase()
+
+        val allBooks = arrayOf(
+            "Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy", "Joshua", "Judges", "Ruth",
+            "1 Samuel", "2 Samuel", "1 Kings", "2 Kings", "1 Chronicles", "2 Chronicles", "Ezra", "Nehemiah", "Esther",
+            "Job", "Psalms", "Proverbs", "Ecclesiastes", "Song of Solomon", "Isaiah", "Jeremiah", "Lamentations",
+            "Ezekiel", "Daniel", "Hosea", "Joel", "Amos", "Obadiah", "Jonah", "Micah", "Nahum", "Habakkuk",
+            "Zephaniah", "Haggai", "Zechariah", "Malachi", "Matthew", "Mark", "Luke", "John", "Acts",
+            "Romans", "1 Corinthians", "2 Corinthians", "Galatians", "Ephesians", "Philippians", "Colossians",
+            "1 Thessalonians", "2 Thessalonians", "1 Timothy", "2 Timothy", "Titus", "Philemon", "Hebrews",
+            "James", "1 Peter", "2 Peter", "1 John", "2 John", "3 John", "Jude", "Revelation"
+        )
+
+        for (book in allBooks) {
+            val chapters = BibleRepository.getChaptersForBook(book, this)
+            for (chapter in chapters) {
+                val verses = BibleRepository.getVerseObjectsForChapter(chapter, this)
+                for (verse in verses) {
+                    if (verse.text.lowercase().contains(lowercaseQuery) || verse.reference.lowercase().contains(lowercaseQuery)) {
+                        matchingVerses.add(verse)
+                        if (matchingVerses.size >= 100) break
+                    }
+                }
+                if (matchingVerses.size >= 100) break
+            }
+            if (matchingVerses.size >= 100) break
+        }
+
+        if (matchingVerses.isEmpty()) {
+            showCenteredToast("No matching verses found for \"$query\".")
+        } else {
+            showSearchResultsDialog(query, matchingVerses)
+        }
+    }
+
+    private fun showSearchResultsDialog(query: String, results: List<BibleVerse>) {
+        val resultTitles = results.map { "${it.reference}: ${it.text}" }.toTypedArray()
+
+        val dialog = AlertDialog.Builder(this)
+            .setTitle("Results for \"$query\" (${results.size})")
+            .setAdapter(createCenteredListAdapter(resultTitles)) { _, which ->
+                val selectedVerse = results[which]
+                displayVerse(selectedVerse)
+            }
+            .create()
+
         applyThemedDialogStyle(dialog)
     }
 
@@ -394,6 +478,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         )
 
         val categoryMap = linkedMapOf(
+            "🔍 SEARCH BIBLE" to arrayOf("🔍 Search Verses by Keyword / Reference"),
             "📜 OLD TESTAMENT" to arrayOf(
                 "— Law / Torah —",
                 "Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy",
@@ -427,19 +512,23 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             .setTitle("Select Category")
             .setAdapter(createCenteredListAdapter(categories)) { _, catIndex ->
                 val selectedCategory = categories[catIndex]
-                val categoryItems = categoryMap[selectedCategory] ?: emptyArray()
+                if (selectedCategory == "🔍 SEARCH BIBLE") {
+                    showSearchQueryDialog()
+                } else {
+                    val categoryItems = categoryMap[selectedCategory] ?: emptyArray()
 
-                val bookDialog = AlertDialog.Builder(this)
-                    .setTitle(selectedCategory)
-                    .setAdapter(createCenteredListAdapter(categoryItems)) { _, bookIndex ->
-                        val selectedItem = categoryItems[bookIndex]
-                        if (!selectedItem.startsWith("—")) {
-                            showChapterSelectionDialog(selectedItem)
+                    val bookDialog = AlertDialog.Builder(this)
+                        .setTitle(selectedCategory)
+                        .setAdapter(createCenteredListAdapter(categoryItems)) { _, bookIndex ->
+                            val selectedItem = categoryItems[bookIndex]
+                            if (!selectedItem.startsWith("—")) {
+                                showChapterSelectionDialog(selectedItem)
+                            }
                         }
-                    }
-                    .create()
+                        .create()
 
-                applyThemedDialogStyle(bookDialog)
+                    applyThemedDialogStyle(bookDialog)
+                }
             }
             .create()
 
@@ -485,7 +574,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         tvVerseText.text = verse.text
         tvVerseRef.text = "— ${verse.reference}"
 
-        // Parse book and chapter from reference for seamless continuous transitions
         val cleanRef = verse.reference.substringBefore(" (")
         val lastColonIndex = cleanRef.lastIndexOf(':')
         if (lastColonIndex != -1) {
