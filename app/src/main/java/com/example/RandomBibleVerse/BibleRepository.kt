@@ -116,6 +116,12 @@ object BibleRepository {
         return if (verses.isNotEmpty()) verses.random() else BibleVerse("The Lord is my shepherd; I shall not want.", "Psalm 23:1 (KJV)")
     }
 
+    // Find a specific verse by base reference (ignoring version suffix like "(KJV)" or "(ADB1905)")
+    fun getVerseByBookChapterAndVerse(baseReference: String, context: Context): BibleVerse? {
+        loadVerses(context)
+        return verses.find { it.reference.equals(baseReference, ignoreCase = true) || it.reference.startsWith("$baseReference (") }
+    }
+
     // 1. Automatically extracts all unique Book names (e.g., "Genesis") from loaded references
     fun getAvailableBooks(context: Context): List<String> {
         loadVerses(context)
