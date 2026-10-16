@@ -394,7 +394,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             // Primary Refresh button
             btnRefresh.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#8D6E63"))
             btnRefresh.setTextColor(Color.parseColor("#121212"))
-            btnRefresh.strokeColor = ColorStateList.valueOf(Color.parseColor("#8D6E63"))
+            if (btnRefresh is MaterialButton) {
+                (btnRefresh as MaterialButton).strokeColor = ColorStateList.valueOf(Color.parseColor("#8D6E63"))
+            }
             
             // All other utility & navigation buttons outline style in night mode
             val nightButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout)
@@ -423,7 +425,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             
             btnRefresh.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#6E472C"))
             btnRefresh.setTextColor(Color.WHITE)
-            btnRefresh.strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
+            if (btnRefresh is MaterialButton) {
+                (btnRefresh as MaterialButton).strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
+            }
             
             val dayButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout)
             for (btn in dayButtons) {
