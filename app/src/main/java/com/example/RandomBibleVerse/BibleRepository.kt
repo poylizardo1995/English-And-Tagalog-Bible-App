@@ -4,9 +4,14 @@ import android.content.Context
 import org.json.JSONArray
 import java.io.IOException
 
-enum class BibleTranslation(val suffix: String) {
-    KJV("kjv"),
-    ADB1905("adb1905")
+enum class BibleTranslation(
+    val languageGroup: String,
+    val displayName: String,
+    val suffix: String
+) {
+    KJV("English", "English (KJV)", "kjv"),
+    WEB("English", "English (WEB)", "web"), // Future translation option
+    ADB1905("Tagalog", "Tagalog (ADB1905)", "adb1905")
 }
 
 data class BibleVerse(
@@ -99,7 +104,7 @@ object BibleRepository {
     }
 
     /**
-     * Swaps translation between KJV and TAGALOG dynamically.
+     * Swaps translation between versions dynamically.
      */
     fun setTranslation(context: Context, translation: BibleTranslation) {
         isLoaded = false
