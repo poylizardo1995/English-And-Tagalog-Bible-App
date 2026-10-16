@@ -267,7 +267,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val hasSuffixFiles = assetFiles.any { it.endsWith(targetSuffix) }
 
         if (!hasSuffixFiles && target != BibleTranslation.KJV && target != BibleTranslation.ADB1905) {
-            // Explicitly catch unpopulated translations that lack asset files
             val toast = Toast.makeText(this, "This translation is not available yet.", Toast.LENGTH_SHORT)
             toast.setGravity(android.view.Gravity.CENTER, 0, 0)
             toast.show()
@@ -279,7 +278,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             BibleRepository.loadVerses(this, target)
             val matchingVerse = BibleRepository.getVerseByBookChapterAndVerse(currentBookChapterAndVerse, this)
 
-            // Ensure the matching verse actually belongs to the target translation (not fallback Psalm 23:1)
             val isFallbackVerse = matchingVerse?.text == "The Lord is my shepherd; I shall not want." && currentBookChapterAndVerse != "Psalm 23:1 (KJV)"
 
             if (matchingVerse != null && !isFallbackVerse) {
@@ -375,10 +373,10 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val rootLayout = findViewById<ViewGroup>(android.R.id.content).getChildAt(0) ?: window.decorView
 
         if (isDarkMode) {
-            // --- NIGHT MODE CARD & VIEW OVERRIDES ---
+            // --- NIGHT MODE ---
             rootLayout.setBackgroundResource(R.drawable.bg_gradient)
             
-            // Forcefully clear and set card background using raw background drawing and solid color
+            // Dark card background for high text visibility
             verseCard.setCardBackgroundColor(Color.parseColor("#1E1E1E"))
             verseCard.backgroundTintList = null
             verseCard.strokeColor = Color.parseColor("#333333")
@@ -387,19 +385,23 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             tvVerseText.setTextColor(Color.parseColor("#FFFFFF"))
             tvVerseRef.setTextColor(Color.parseColor("#B08D73"))
             
+            // Theme toggle button styling
             btnToggleTheme.text = "☀️ Switch to Day View"
             btnToggleTheme.setTextColor(Color.parseColor("#E0E0E0"))
             btnToggleTheme.strokeColor = ColorStateList.valueOf(Color.parseColor("#E0E0E0"))
             btnToggleTheme.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
             
+            // Primary Refresh button
             btnRefresh.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#8D6E63"))
             btnRefresh.setTextColor(Color.parseColor("#121212"))
+            btnRefresh.strokeColor = ColorStateList.valueOf(Color.parseColor("#8D6E63"))
             
+            // All other utility & navigation buttons outline style in night mode
             val nightButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout)
             for (btn in nightButtons) {
                 btn.setTextColor(Color.parseColor("#E0E0E0"))
                 btn.strokeColor = ColorStateList.valueOf(Color.parseColor("#D7CCC8"))
-                btn.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#1E1E1E"))
+                btn.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
             }
 
         } else {
@@ -421,6 +423,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             
             btnRefresh.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#6E472C"))
             btnRefresh.setTextColor(Color.WHITE)
+            btnRefresh.strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
             
             val dayButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout)
             for (btn in dayButtons) {
@@ -430,11 +433,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             }
         }
         
-        // Ensure language toggle UI styling safely re-applies without breaking theme state
         updateLanguageToggleUI(BibleRepository.currentTranslation)
     }
 
-    // Dialog 1: Choose Book
     private fun showBookSelectionDialog() {
         val books = BibleRepository.getAvailableBooks(this).toTypedArray()
         
@@ -454,7 +455,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             .show()
     }
 
-    // Dialog 2: Choose Chapter from Book
     private fun showChapterSelectionDialog(bookName: String) {
         val chapters = BibleRepository.getChaptersForBook(bookName, this).toTypedArray()
 
@@ -467,7 +467,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             .show()
     }
 
-    // Dialog 3: Choose Verse from Chapter
     private fun showVerseSelectionDialog(chapterName: String) {
         val chapterVerses = BibleRepository.getVerseObjectsForChapter(chapterName, this)
         val verseTitles = chapterVerses.map { theVerse -> theVerse.reference }.toTypedArray()
@@ -488,25 +487,21 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             .show()
     }
 
-    // Helper function to update the screen with a specific verse silently
     private fun displayVerse(verse: BibleVerse) {
         currentVerse = verse
         tvVerseText.text = verse.text
         tvVerseRef.text = "— ${verse.reference}"
 
-        // Smooth fade-in animation
         val fadeIn = AlphaAnimation(0.0f, 1.0f).apply { duration = 400 }
         tvVerseText.startAnimation(fadeIn)
         tvVerseRef.startAnimation(fadeIn)
     }
 
-    // Random verse picker (silent load)
     private fun loadVerse() {
         val verse = BibleRepository.getRandomVerse(this)
         displayVerse(verse)
     }
 
-    // Text-to-Speech handler with Utterance ID for Auto-Play tracking
     private fun speakVerse(verse: BibleVerse) {
         val isTagalog = isTagalogText(verse.text)
         val locale = if (isTagalog) Locale("fil", "PH") else Locale.US
