@@ -60,7 +60,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     private var currentVerse: BibleVerse? = null
     private var isAutoPlaying = false
 
-    // 5 Eye-Friendly Curated Themes (Replaced Maroon with Warm Sunset)
+    // 5 Eye-Friendly Curated Themes
     private enum class ThemeMode(val displayName: String) {
         SEPIA("📜 Classic Sepia"),
         CHARCOAL("🖤 Charcoal Contrast"),
@@ -508,7 +508,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     private fun showSearchQueryDialog() {
         val layout = android.widget.LinearLayout(this).apply {
             orientation = android.widget.LinearLayout.VERTICAL
-            setPadding(48, 20, 48, 0)
+            setPadding(48, 16, 48, 0)
         }
 
         val translations = BibleTranslation.values()
@@ -521,26 +521,26 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val spinnerLabel = TextView(this).apply {
             text = "Select Version:"
             setTextColor(if (isDark) Color.parseColor("#E0E0E0") else Color.parseColor("#2D241E"))
-            textSize = 14f
-            setPadding(0, 0, 0, 8)
+            textSize = 13f
+            setPadding(0, 0, 0, 4)
         }
 
-        // Replace buggy Spinner with a clean clickable Button selector that opens a reliable dialog list
+        // Sleek, compact version selector button (smaller height so search input is the main focus)
         val versionSelectButton = Button(this).apply {
-            text = translations[selectedTranslationIndex].displayName
+            text = "${translations[selectedTranslationIndex].displayName} ▾"
             isAllCaps = false
-            textSize = 16f
+            textSize = 14f
             gravity = android.view.Gravity.CENTER
-            setBackgroundColor(if (isDark) Color.parseColor("#2C2C2C") else Color.parseColor("#F5F0EB"))
+            setBackgroundColor(if (isDark) Color.parseColor("#222222") else Color.parseColor("#F5F0EB"))
             setTextColor(if (isDark) Color.parseColor("#FFFFFF") else Color.parseColor("#2D241E"))
-            setPadding(24, 28, 24, 28)
+            setPadding(16, 16, 16, 16)
             
             setOnClickListener {
                 val versionDialog = AlertDialog.Builder(this@MainActivity)
                     .setTitle("Select Version")
                     .setAdapter(createCenteredListAdapter(translationNames)) { _, which ->
                         selectedTranslationIndex = which
-                        text = translations[which].displayName
+                        text = "${translations[which].displayName} ▾"
                     }
                     .create()
                 applyThemedDialogStyle(versionDialog)
@@ -549,9 +549,10 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
         val inputEditText = android.widget.EditText(this).apply {
             hint = "Enter keyword or reference (e.g., love, John 3)"
+            textSize = 15f
             setTextColor(if (isDark) Color.parseColor("#FFFFFF") else Color.parseColor("#2D241E"))
             setHintTextColor(if (isDark) Color.parseColor("#888888") else Color.parseColor("#888888"))
-            setPadding(24, 36, 24, 36)
+            setPadding(24, 28, 24, 28)
         }
 
         layout.addView(spinnerLabel)
