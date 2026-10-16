@@ -60,12 +60,13 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     private var currentVerse: BibleVerse? = null
     private var isAutoPlaying = false
 
-    // Curated Theme Modes (Added Charcoal Contrast)
+    // 5 Curated Theme Modes (Added Crimson Maroon)
     private enum class ThemeMode(val displayName: String) {
         SEPIA("📜 Classic Sepia"),
         CHARCOAL("🖤 Charcoal Contrast"),
         NAVY("🌌 Midnight Navy"),
-        OLIVE("🌿 Olive Grace")
+        OLIVE("🌿 Olive Grace"),
+        MAROON("🍷 Crimson Maroon")
     }
     private var currentTheme = ThemeMode.SEPIA
 
@@ -277,6 +278,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             ThemeMode.CHARCOAL -> Color.parseColor("#FFB74D")
             ThemeMode.NAVY -> Color.parseColor("#7986CB")
             ThemeMode.OLIVE -> Color.parseColor("#81C784")
+            ThemeMode.MAROON -> Color.parseColor("#EF9A9A")
         }
 
         dialog.getButton(AlertDialog.BUTTON_POSITIVE)?.setTextColor(accentColor)
@@ -287,6 +289,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             ThemeMode.CHARCOAL -> Color.parseColor("#1E1E1E")
             ThemeMode.NAVY -> Color.parseColor("#121826")
             ThemeMode.OLIVE -> Color.parseColor("#1A211C")
+            ThemeMode.MAROON -> Color.parseColor("#261215")
         }
 
         val strokeColor = when (currentTheme) {
@@ -294,6 +297,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             ThemeMode.CHARCOAL -> Color.parseColor("#444444")
             ThemeMode.NAVY -> Color.parseColor("#283593")
             ThemeMode.OLIVE -> Color.parseColor("#2E7D32")
+            ThemeMode.MAROON -> Color.parseColor("#880E4F")
         }
 
         dialog.window?.decorView?.background = android.graphics.drawable.GradientDrawable().apply {
@@ -313,6 +317,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             ThemeMode.CHARCOAL -> Color.parseColor("#FFB74D")
             ThemeMode.NAVY -> Color.parseColor("#9FA8DA")
             ThemeMode.OLIVE -> Color.parseColor("#A5D6A7")
+            ThemeMode.MAROON -> Color.parseColor("#EF9A9A")
         }
 
         return object : android.widget.ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, items) {
@@ -324,7 +329,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                     this.textAlignment = android.view.View.TEXT_ALIGNMENT_CENTER
                     this.setPadding(0, 28, 0, 28)
                     
-                    if (items[position].startsWith("—") || items[position].startsWith("📜") || items[position].startsWith("✝️") || items[position].startsWith("📚") || items[position].startsWith("▶") || items[position].startsWith("📝") || items[position].startsWith("🖼️") || items[position].startsWith("🖤")) {
+                    if (items[position].startsWith("—") || items[position].startsWith("📜") || items[position].startsWith("⏳") || items[position].startsWith("✝️") || items[position].startsWith("📚") || items[position].startsWith("▶") || items[position].startsWith("📝") || items[position].startsWith("🖼️") || items[position].startsWith("🖤") || items[position].startsWith("🍷")) {
                         this.setTextColor(accentColor)
                         this.setTypeface(null, android.graphics.Typeface.BOLD)
                     } else {
@@ -377,6 +382,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 ThemeMode.CHARCOAL -> intArrayOf(Color.parseColor("#121212"), Color.parseColor("#1E1E1E"), Color.parseColor("#0A0A0A"))
                 ThemeMode.NAVY -> intArrayOf(Color.parseColor("#0F172A"), Color.parseColor("#1E293B"), Color.parseColor("#090D16"))
                 ThemeMode.OLIVE -> intArrayOf(Color.parseColor("#132219"), Color.parseColor("#1B3324"), Color.parseColor("#0A140E"))
+                ThemeMode.MAROON -> intArrayOf(Color.parseColor("#2A080C"), Color.parseColor("#421016"), Color.parseColor("#1A0507"))
             }
 
             val gradient = LinearGradient(
@@ -393,6 +399,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 ThemeMode.CHARCOAL -> Color.parseColor("#FFB74D")
                 ThemeMode.NAVY -> Color.parseColor("#7986CB")
                 ThemeMode.OLIVE -> Color.parseColor("#81C784")
+                ThemeMode.MAROON -> Color.parseColor("#EF9A9A")
             }
 
             val borderPaint = Paint().apply {
@@ -515,7 +522,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             setPadding(0, 0, 0, 8)
         }
 
-        // Fixed Dropdown Spinner with explicit readable text colors for both Dark and Light themes
+        // Fully styled Spinner with explicit solid popup background and readable text colors
         val versionSpinner = android.widget.Spinner(this).apply {
             val spinnerAdapter = object : android.widget.ArrayAdapter<String>(
                 this@MainActivity,
@@ -531,9 +538,17 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 override fun getDropDownView(position: Int, convertView: android.view.View?, parent: ViewGroup): android.view.View {
                     val view = super.getDropDownView(position, convertView, parent)
                     (view as? TextView)?.apply {
-                        setTextColor(if (isDark) Color.parseColor("#FFFFFF") else Color.parseColor("#2D241E"))
-                        setBackgroundColor(if (isDark) Color.parseColor("#252525") else Color.parseColor("#FFFFFF"))
-                        setPadding(32, 32, 32, 32)
+                        setTextColor(Color.parseColor("#FFFFFF"))
+                        setBackgroundColor(
+                            when (currentTheme) {
+                                ThemeMode.SEPIA -> Color.parseColor("#6E472C")
+                                ThemeMode.CHARCOAL -> Color.parseColor("#252525")
+                                ThemeMode.NAVY -> Color.parseColor("#1B2236")
+                                ThemeMode.OLIVE -> Color.parseColor("#222D25")
+                                ThemeMode.MAROON -> Color.parseColor("#381419")
+                            }
+                        )
+                        setPadding(36, 36, 36, 36)
                     }
                     return view
                 }
@@ -622,6 +637,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             ThemeMode.CHARCOAL -> Color.parseColor("#FFB74D")
             ThemeMode.NAVY -> Color.parseColor("#9FA8DA")
             ThemeMode.OLIVE -> Color.parseColor("#A5D6A7")
+            ThemeMode.MAROON -> Color.parseColor("#EF9A9A")
         }
 
         val adapter = object : android.widget.ArrayAdapter<BibleVerse>(this, android.R.layout.simple_list_item_1, results) {
@@ -990,12 +1006,12 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     private fun applyTheme() {
         val rootLayout = findViewById<ViewGroup>(android.R.id.content).getChildAt(0) ?: window.decorView
 
-        // Match status bar and window background color to the active theme so top strip never stays brown
         val statusBarColor = when (currentTheme) {
             ThemeMode.SEPIA -> Color.parseColor("#E8E2D5")
             ThemeMode.CHARCOAL -> Color.parseColor("#121212")
             ThemeMode.NAVY -> Color.parseColor("#0B0F19")
             ThemeMode.OLIVE -> Color.parseColor("#111813")
+            ThemeMode.MAROON -> Color.parseColor("#2A080C")
         }
         window.statusBarColor = statusBarColor
 
@@ -1140,6 +1156,41 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                     btn.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
                 }
             }
+            ThemeMode.MAROON -> {
+                rootLayout.setBackgroundColor(Color.parseColor("#1A0507"))
+                
+                verseCard.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#2A080C"))
+                verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#2A080C")))
+                verseCard.strokeColor = Color.parseColor("#880E4F")
+                verseCard.cardElevation = 6f
+                
+                tvVerseText.setTextColor(Color.parseColor("#FFFFFF"))
+                tvVerseRef.setTextColor(Color.parseColor("#EF9A9A"))
+                
+                btnToggleTheme.text = "🎨 Theme: Crimson Maroon"
+                btnToggleTheme.setTextColor(Color.parseColor("#EF9A9A"))
+                btnToggleTheme.strokeColor = ColorStateList.valueOf(Color.parseColor("#C2185B"))
+                btnToggleTheme.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
+                
+                btnRefresh.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#880E4F"))
+                btnRefresh.setTextColor(Color.parseColor("#FFFFFF"))
+                if (btnRefresh is MaterialButton) {
+                    (btnRefresh as MaterialButton).strokeColor = ColorStateList.valueOf(Color.parseColor("#880E4F"))
+                }
+
+                btnSearch.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#880E4F"))
+                btnSearch.setTextColor(Color.parseColor("#FFFFFF"))
+                if (btnSearch is MaterialButton) {
+                    (btnSearch as MaterialButton).strokeColor = ColorStateList.valueOf(Color.parseColor("#880E4F"))
+                }
+                
+                val maroonButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout)
+                for (btn in maroonButtons) {
+                    btn.setTextColor(Color.parseColor("#FFCDD2"))
+                    btn.strokeColor = ColorStateList.valueOf(Color.parseColor("#C2185B"))
+                    btn.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
+                }
+            }
         }
         
         updateLanguageToggleUI(BibleRepository.currentTranslation)
@@ -1159,19 +1210,24 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 when (currentTheme) {
                     ThemeMode.CHARCOAL -> Color.parseColor("#1E1E1E")
                     ThemeMode.NAVY -> Color.parseColor("#121826")
-                    else -> Color.parseColor("#1A211C")
+                    ThemeMode.OLIVE -> Color.parseColor("#1A211C")
+                    ThemeMode.MAROON -> Color.parseColor("#2A080C")
+                    else -> Color.parseColor("#1E1E1E")
                 }
             ))
             verseCard.strokeColor = when (currentTheme) {
                 ThemeMode.CHARCOAL -> Color.parseColor("#444444")
                 ThemeMode.NAVY -> Color.parseColor("#283593")
-                else -> Color.parseColor("#2E7D32")
+                ThemeMode.OLIVE -> Color.parseColor("#2E7D32")
+                ThemeMode.MAROON -> Color.parseColor("#880E4F")
+                else -> Color.parseColor("#444444")
             }
 
             val pillColorHex = when (currentTheme) {
                 ThemeMode.CHARCOAL -> Color.parseColor("#333333")
                 ThemeMode.NAVY -> Color.parseColor("#3F51B5")
                 ThemeMode.OLIVE -> Color.parseColor("#2E7D32")
+                ThemeMode.MAROON -> Color.parseColor("#880E4F")
                 else -> Color.parseColor("#8D6E63")
             }
             val darkPillColor = ColorStateList.valueOf(pillColorHex)
@@ -1191,7 +1247,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 
                 btnEnglish.backgroundTintList = null
                 btnEnglish.setBackgroundColor(Color.TRANSPARENT)
-                btnEnglish.setTextColor(Color.parseColor("#D7CCC8"))
+                btnTagalog.setTextColor(Color.parseColor("#D7CCC8"))
             }
         } else {
             verseCard.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#FFFFFF"))
