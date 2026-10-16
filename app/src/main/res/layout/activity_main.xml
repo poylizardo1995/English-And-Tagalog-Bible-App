@@ -111,7 +111,7 @@
                         android:layout_width="0dp"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        android:text="🔊 Speak"
+                        android:text="🔊 Listen"
                         android:textSize="12sp"
                         android:insetLeft="0dp"
                         android:insetRight="0dp"
@@ -184,7 +184,18 @@
                     android:paddingVertical="12dp"
                     app:backgroundTint="#6E472C"
                     app:cornerRadius="12dp" />
-
+                
+                <!-- Search Bible Button -->
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/btnSearch"
+                    style="?attr/materialButtonOutlinedStyle"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8smp"
+                    android:text="🔍 Search Bible"
+                    android:textAllCaps="false"
+                    android:textSize="15sp"
+                    app:cornerRadius="12dp"/>
                 <!-- Choose Bible Chapter & Verse Button -->
                 <com.google.android.material.button.MaterialButton
                     android:id="@+id/btnSelectManual"
