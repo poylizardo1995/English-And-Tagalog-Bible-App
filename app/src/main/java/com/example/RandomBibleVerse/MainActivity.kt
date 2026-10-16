@@ -129,7 +129,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                     displayVerse(prevVerse)
                     if (isAutoPlaying) speakVerse(prevVerse)
                 } else {
-                    Toast.makeText(this, "Beginning of chapter reached", Toast.LENGTH_SHORT).show()
+                    val toast = Toast.makeText(this, "Beginning of chapter reached.", Toast.LENGTH_LONG)
+                    toast.setGravity(android.view.Gravity.CENTER, 0, 0)
+                    toast.show()
                 }
             }
         }
@@ -142,7 +144,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                     displayVerse(nextVerse)
                     if (isAutoPlaying) speakVerse(nextVerse)
                 } else {
-                    Toast.makeText(this, "End of chapter reached", Toast.LENGTH_SHORT).show()
+                    val toast = Toast.makeText(this, "End of chapter reached.", Toast.LENGTH_LONG)
+                    toast.setGravity(android.view.Gravity.CENTER, 0, 0)
+                    toast.show()
                     stopAutoPlay()
                 }
             }
@@ -151,8 +155,10 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         // 5. Auto-Play / Continuous Listen Button
         btnAutoPlay.setOnClickListener {
             if (isAutoPlaying) {
-                stopAutoPlay()
-                Toast.makeText(this, "Auto-Play Stopped", Toast.LENGTH_SHORT).show()
+                stopAutoPlay()                
+                val toast = Toast.makeText(this, "Auto-Play Stopped.", Toast.LENGTH_LONG)
+                toast.setGravity(android.view.Gravity.CENTER, 0, 0)
+                toast.show()
             } else {
                 startAutoPlay()
             }
@@ -167,8 +173,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             val clipboard = getSystemService(Context.CLIPBOARD_SERVICE) as ClipboardManager
             val clip = ClipData.newPlainText("Bible Verse", fullText)
             clipboard.setPrimaryClip(clip)
-
-            Toast.makeText(this, "Verse copied to clipboard!", Toast.LENGTH_SHORT).show()
+            val toast = Toast.makeText(this, "Verse copied to clipboard!", Toast.LENGTH_LONG)
+            toast.setGravity(android.view.Gravity.CENTER, 0, 0)
+            toast.show()
         }
 
         // 7. Share Button
@@ -192,7 +199,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                     stopAutoPlay()
                     speakVerse(verse)
                 } else {
-                    Toast.makeText(this, "Speech engine is still initializing...", Toast.LENGTH_SHORT).show()
+                    val toast = Toast.makeText(this, "Speech Engine is still initializing...", Toast.LENGTH_LONG)
+                    toast.setGravity(android.view.Gravity.CENTER, 0, 0)
+                    toast.show()
                 }
             }
         }
@@ -259,7 +268,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
         if (!hasSuffixFiles && target != BibleTranslation.KJV && target != BibleTranslation.ADB1905) {
             // Explicitly catch unpopulated translations that lack asset files
-            Toast.makeText(this, "This translation is not available yet.", Toast.LENGTH_LONG).show()
+            val toast = Toast.makeText(this, "This translation is not available yet.", Toast.LENGTH_LONG)
+            toast.setGravity(android.view.Gravity.CENTER, 0, 0)
+            toast.show()
             updateLanguageToggleUI(previousTranslation)
             return
         }
@@ -269,7 +280,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             val matchingVerse = BibleRepository.getVerseByBookChapterAndVerse(currentBookChapterAndVerse, this)
 
             // Ensure the matching verse actually belongs to the target translation (not fallback Psalm 23:1)
-            val isFallbackVerse = matchingVerse?.text == "The Lord is my shepherd; I shall not want." && currentBookChapterAndVerse != "Psalm 23:1"
+            val isFallbackVerse = matchingVerse?.text == "The Lord is my shepherd; I shall not want." && currentBookChapterAndVerse != "Psalm 23:1 (KJV)"
 
             if (matchingVerse != null && !isFallbackVerse) {
                 BibleRepository.setTranslation(this, target)
@@ -278,7 +289,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             } else {
                 BibleRepository.loadVerses(this, previousTranslation)
                 updateLanguageToggleUI(previousTranslation)
-                Toast.makeText(this, "This translation is not available yet.", Toast.LENGTH_LONG).show()
+                val toast = Toast.makeText(this, "This translation is not available yet.", Toast.LENGTH_LONG)
+                toast.setGravity(android.view.Gravity.CENTER, 0, 0)
+                toast.show()
             }
         } else {
             BibleRepository.setTranslation(this, target)
@@ -339,13 +352,17 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
     private fun startAutoPlay() {
         if (!isTtsReady) {
-            Toast.makeText(this, "Speech engine not ready yet", Toast.LENGTH_SHORT).show()
+            val toast = Toast.makeText(this, "Speech engine not ready yet", Toast.LENGTH_LONG)
+            toast.setGravity(android.view.Gravity.CENTER, 0, 0)
+            toast.show()
             return
         }
         isAutoPlaying = true
         btnAutoPlay.text = "⏹ Stop Auto-Play"
         currentVerse?.let { speakVerse(it) }
-        Toast.makeText(this, "Auto-Play Started", Toast.LENGTH_SHORT).show()
+        val toast = Toast.makeText(this, "Auto-Play Started", Toast.LENGTH_LONG)
+        toast.setGravity(android.view.Gravity.CENTER, 0, 0)
+        toast.show()
     }
 
     private fun stopAutoPlay() {
@@ -416,7 +433,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val books = BibleRepository.getAvailableBooks(this).toTypedArray()
         
         if (books.isEmpty()) {
-            Toast.makeText(this, "No books available", Toast.LENGTH_SHORT).show()
+            val toast = Toast.makeText(this, "No books available", Toast.LENGTH_LONG)
+            toast.setGravity(android.view.Gravity.CENTER, 0, 0)
+            toast.show()
             return
         }
 
@@ -448,7 +467,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val verseTitles = chapterVerses.map { theVerse -> theVerse.reference }.toTypedArray()
 
         if (verseTitles.isEmpty()) {
-            Toast.makeText(this, "No verses found for $chapterName", Toast.LENGTH_SHORT).show()
+            val toast = Toast.makeText(this, "No verses found for $chapterName", Toast.LENGTH_LONG)
+            toast.setGravity(android.view.Gravity.CENTER, 0, 0)
+            toast.show()
             return
         }
 
@@ -518,7 +539,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                                     speakVerse(nextVerse)
                                 } else {
                                     stopAutoPlay()
-                                    Toast.makeText(this@MainActivity, "End of chapter reached", Toast.LENGTH_SHORT).show()
+                                    val toast = Toast.makeText(this@MainActivity, "End of chapter reached", Toast.LENGTH_LONG)
+                                    toast.setGravity(android.view.Gravity.CENTER, 0, 0)
+                                    toast.show()
                                 }
                             }
                         }
