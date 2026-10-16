@@ -375,12 +375,12 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val rootLayout = findViewById<ViewGroup>(android.R.id.content).getChildAt(0) ?: window.decorView
 
         if (isDarkMode) {
-            // --- PROFESSIONAL NIGHT MODE ---
+            // --- NIGHT MODE CARD & VIEW OVERRIDES ---
             rootLayout.setBackgroundResource(R.drawable.bg_gradient)
             
-            // Explicitly set background color on underlying view to bypass MaterialCardView tint overlay
-            verseCard.setBackgroundColor(Color.parseColor("#1E1E1E"))
+            // Forcefully clear and set card background using raw background drawing and solid color
             verseCard.setCardBackgroundColor(Color.parseColor("#1E1E1E"))
+            verseCard.backgroundTintList = null
             verseCard.strokeColor = Color.parseColor("#333333")
             verseCard.cardElevation = 0f
             
@@ -406,8 +406,8 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             // --- DAY MODE (Warm Theme) ---
             rootLayout.setBackgroundResource(R.drawable.bg_gradient)
             
-            verseCard.setBackgroundColor(Color.parseColor("#FFFFFF"))
             verseCard.setCardBackgroundColor(Color.parseColor("#FFFFFF"))
+            verseCard.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#FFFFFF"))
             verseCard.strokeColor = Color.parseColor("#E8E2D5")
             verseCard.cardElevation = 4f
             
@@ -430,6 +430,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             }
         }
         
+        // Ensure language toggle UI styling safely re-applies without breaking theme state
         updateLanguageToggleUI(BibleRepository.currentTranslation)
     }
 
