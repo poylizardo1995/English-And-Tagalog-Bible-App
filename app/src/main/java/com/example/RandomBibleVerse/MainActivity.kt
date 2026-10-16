@@ -360,29 +360,32 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         if (isDarkMode) {
             // --- NIGHT MODE COLORS ---
             rootLayout.setBackgroundColor(Color.parseColor("#121212"))
+            
             verseCard.setCardBackgroundColor(Color.parseColor("#1E1E1E"))
+            verseCard.cardElevation = 0f
             verseCard.strokeColor = Color.parseColor("#333333")
             
-            // Fixed: Set high-contrast pure white for verse text and soft cream for reference
             tvVerseText.setTextColor(Color.parseColor("#FFFFFF"))
-            tvVerseRef.setTextColor(Color.parseColor("#D7CCC8"))
+            tvVerseRef.setTextColor(Color.parseColor("#E0C0A8"))
             
             btnToggleTheme.text = "☀️ Switch to Day View"
-            btnToggleTheme.setTextColor(Color.parseColor("#D7CCC8"))
-            btnToggleTheme.strokeColor = ColorStateList.valueOf(Color.parseColor("#D7CCC8"))
+            btnToggleTheme.setTextColor(Color.parseColor("#E0E0E0"))
+            btnToggleTheme.strokeColor = ColorStateList.valueOf(Color.parseColor("#666666"))
             
             btnRefresh.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#8D6E63"))
             btnRefresh.setTextColor(Color.parseColor("#FFFFFF"))
             
             val nightButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout)
             for (btn in nightButtons) {
-                btn.setTextColor(Color.parseColor("#D7CCC8"))
-                btn.strokeColor = ColorStateList.valueOf(Color.parseColor("#D7CCC8"))
+                btn.setTextColor(Color.parseColor("#E0E0E0"))
+                btn.strokeColor = ColorStateList.valueOf(Color.parseColor("#555555"))
+                btn.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#2A2A2A"))
             }
 
         } else {
-            // --- DAY MODE COLORS (Original Warm Theme) ---
+            // --- DAY MODE COLORS ---
             rootLayout.setBackgroundResource(R.drawable.bg_gradient)
+            
             verseCard.setCardBackgroundColor(Color.parseColor("#FFFFFF"))
             verseCard.strokeColor = Color.parseColor("#E8E2D5")
             
@@ -400,6 +403,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             for (btn in dayButtons) {
                 btn.setTextColor(Color.parseColor("#6E472C"))
                 btn.strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
+                btn.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
             }
         }
         
