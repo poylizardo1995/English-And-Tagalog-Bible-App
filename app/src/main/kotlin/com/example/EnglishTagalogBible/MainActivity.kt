@@ -265,7 +265,13 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                     this.setTextColor(textColor)
                     this.gravity = android.view.Gravity.CENTER
                     this.textAlignment = android.view.View.TEXT_ALIGNMENT_CENTER
-                    this.setPadding(16, 28, 16, 28)
+                    this.setPadding(0, 28, 0, 28)
+                    
+                    // Force full width layout parameters to guarantee true center alignment inside the list
+                    layoutParams = android.widget.AbsListView.LayoutParams(
+                        android.widget.AbsListView.LayoutParams.MATCH_PARENT,
+                        android.widget.AbsListView.LayoutParams.WRAP_CONTENT
+                    )
                 }
                 return view
             }
