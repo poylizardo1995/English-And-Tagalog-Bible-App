@@ -1,4 +1,4 @@
-package com.example.RandomBibleVerse
+package com.example.EnglishTagalogBible
 
 import android.content.BroadcastReceiver
 import android.content.Context
