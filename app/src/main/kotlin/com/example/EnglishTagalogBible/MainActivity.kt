@@ -388,12 +388,12 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             // Theme toggle button styling
             btnToggleTheme.text = "☀️ Switch to Day View"
             btnToggleTheme.setTextColor(Color.parseColor("#E0E0E0"))
-            btnToggleTheme.strokeColor = ColorStateList.valueOf(Color.parseColor("#E0E0E0"))
+            btnToggleTheme.strokeColor = ColorStateList.valueOf(Color.parseColor("#D7CCC8"))
             btnToggleTheme.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
             
-            // Primary Refresh button
+            // Primary Refresh button (Solid accent brown)
             btnRefresh.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#8D6E63"))
-            btnRefresh.setTextColor(Color.parseColor("#121212"))
+            btnRefresh.setTextColor(Color.parseColor("#FFFFFF"))
             if (btnRefresh is MaterialButton) {
                 (btnRefresh as MaterialButton).strokeColor = ColorStateList.valueOf(Color.parseColor("#8D6E63"))
             }
@@ -418,17 +418,20 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             tvVerseText.setTextColor(Color.parseColor("#2D241E"))
             tvVerseRef.setTextColor(Color.parseColor("#8C6D53"))
             
+            // Theme toggle button styling
             btnToggleTheme.text = "🌙 Switch to Night View"
             btnToggleTheme.setTextColor(Color.parseColor("#6E472C"))
             btnToggleTheme.strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
             btnToggleTheme.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
             
+            // Primary Refresh button (Solid warm brown)
             btnRefresh.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#6E472C"))
             btnRefresh.setTextColor(Color.WHITE)
             if (btnRefresh is MaterialButton) {
                 (btnRefresh as MaterialButton).strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
             }
             
+            // All other utility & navigation buttons outline style in day mode
             val dayButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout)
             for (btn in dayButtons) {
                 btn.setTextColor(Color.parseColor("#6E472C"))
