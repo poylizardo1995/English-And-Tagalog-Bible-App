@@ -15,6 +15,10 @@ import android.content.res.ColorStateList
 import android.os.Bundle
 import android.speech.tts.TextToSpeech
 import android.speech.tts.UtteranceProgressListener
+import android.text.SpannableString
+import android.text.Spanned
+import android.text.style.StyleSpan
+import android.text.style.ForegroundColorSpan
 import android.view.ViewGroup
 import android.view.animation.AlphaAnimation
 import android.widget.Button
@@ -586,11 +590,65 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
 
     private fun showSearchResultsDialog(query: String, results: List<BibleVerse>, targetTranslation: BibleTranslation) {
-        val resultTitles = results.map { "${it.reference}: ${it.text}" }.toTypedArray()
+        val isDark = currentTheme != ThemeMode.SEPIA
+        val textColor = if (isDark) Color.parseColor("#FFFFFF") else Color.parseColor("#2D241E")
+        val accentColor = when (currentTheme) {
+            ThemeMode.SEPIA -> Color.parseColor("#8C6D53")
+            ThemeMode.NAVY -> Color.parseColor("#9FA8DA")
+            ThemeMode.OLIVE -> Color.parseColor("#A5D6A7")
+        }
+
+        val adapter = object : android.widget.ArrayAdapter<BibleVerse>(this, android.R.layout.simple_list_item_1, results) {
+            override fun getView(position: Int, convertView: android.view.View?, parent: ViewGroup): android.view.View {
+                val view = super.getView(position, convertView, parent)
+                val verse = getItem(position)
+                
+                (view as? TextView)?.apply {
+                    if (verse != null) {
+                        val fullText = "${verse.reference}: ${verse.text}"
+                        val spannableString = SpannableString(fullText)
+                        
+                        val lowercaseFull = fullText.lowercase()
+                        val lowercaseQuery = query.lowercase()
+                        var startIndex = lowercaseFull.indexOf(lowercaseQuery)
+                        
+                        while (startIndex != -1) {
+                            val endIndex = startIndex + query.length
+                            spannableString.setSpan(
+                                StyleSpan(Typeface.BOLD),
+                                startIndex,
+                                endIndex,
+                                Spanned.SPAN_EXCLUSIVE_EXCLUSIVE
+                            )
+                            spannableString.setSpan(
+                                ForegroundColorSpan(accentColor),
+                                startIndex,
+                                endIndex,
+                                Spanned.SPAN_EXCLUSIVE_EXCLUSIVE
+                            )
+                            startIndex = lowercaseFull.indexOf(lowercaseQuery, endIndex)
+                        }
+                        
+                        text = spannableString
+                    }
+                    
+                    this.setTextColor(textColor)
+                    this.gravity = android.view.Gravity.CENTER
+                    this.textAlignment = android.view.View.TEXT_ALIGNMENT_CENTER
+                    this.setPadding(0, 28, 0, 28)
+
+                    layoutParams = android.widget.AbsListView.LayoutParams(
+                        android.widget.AbsListView.LayoutParams.MATCH_PARENT,
+                        android.widget.AbsListView.LayoutParams.WRAP_CONTENT
+                    )
+                }
+                return view
+            }
+        }
 
         val dialog = AlertDialog.Builder(this)
             .setTitle("Results (${results.size}) - ${targetTranslation.displayName}")
-            .setAdapter(createCenteredListAdapter(resultTitles)) { _, which ->
+            .setAdapter(adapter) { _, which ->
                 BibleRepository.setTranslation(this, targetTranslation)
                 updateLanguageToggleUI(targetTranslation)
                 val selectedVerse = results[which]
@@ -1052,7 +1110,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 
                 btnEnglish.backgroundTintList = null
                 btnEnglish.setBackgroundColor(Color.TRANSPARENT)
-                btnEnglish.setTextColor(Color.parseColor("#D7CCC8"))
+                btnTagalog.setTextColor(Color.parseColor("#D7CCC8"))
             }
         } else {
             verseCard.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#FFFFFF"))
