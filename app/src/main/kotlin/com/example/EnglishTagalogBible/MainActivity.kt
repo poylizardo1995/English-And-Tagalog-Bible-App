@@ -255,6 +255,23 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         }
     }
 
+    // --- REUSABLE CENTERED LIST ADAPTER HELPER ---
+    private fun createCenteredListAdapter(items: Array<String>): android.widget.ArrayAdapter<String> {
+        val textColor = if (isDarkMode) Color.parseColor("#FFFFFF") else Color.parseColor("#2D241E")
+        return object : android.widget.ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, items) {
+            override fun getView(position: Int, convertView: android.view.View?, parent: ViewGroup): android.view.View {
+                val view = super.getView(position, convertView, parent)
+                (view as? TextView)?.apply {
+                    this.setTextColor(textColor)
+                    this.gravity = android.view.Gravity.CENTER
+                    this.textAlignment = android.view.View.TEXT_ALIGNMENT_CENTER
+                    this.setPadding(16, 28, 16, 28)
+                }
+                return view
+            }
+        }
+    }
+
     private fun handleLanguageSelection(groupName: String) {
         val matchingTranslations = BibleTranslation.values().filter { it.languageGroup == groupName }
 
@@ -265,24 +282,10 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             }
         } else {
             val options = matchingTranslations.map { it.displayName }.toTypedArray()
-            val currentIndex = matchingTranslations.indexOf(BibleRepository.currentTranslation)
-
-            val textColor = if (isDarkMode) Color.parseColor("#FFFFFF") else Color.parseColor("#2D241E")
-            val adapter = object : android.widget.ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, options) {
-                override fun getView(position: Int, convertView: android.view.View?, parent: ViewGroup): android.view.View {
-                    val view = super.getView(position, convertView, parent)
-                    (view as? TextView)?.let {
-                        it.setTextColor(textColor)
-                        it.gravity = android.view.Gravity.CENTER
-                        it.textAlignment = android.view.View.TEXT_ALIGNMENT_CENTER
-                    }
-                    return view
-                }
-            }
 
             val dialog = AlertDialog.Builder(this)
                 .setTitle("Select $groupName Version")
-                .setAdapter(adapter) { d, which ->
+                .setAdapter(createCenteredListAdapter(options)) { d, which ->
                     val selected = matchingTranslations[which]
                     if (selected != BibleRepository.currentTranslation) {
                         switchToTranslation(selected)
@@ -377,22 +380,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             cleanedBooks
         }
 
-        val textColor = if (isDarkMode) Color.parseColor("#FFFFFF") else Color.parseColor("#2D241E")
-        val adapter = object : android.widget.ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, finalBooks) {
-            override fun getView(position: Int, convertView: android.view.View?, parent: ViewGroup): android.view.View {
-                val view = super.getView(position, convertView, parent)
-                (view as? TextView)?.let {
-                    it.setTextColor(textColor)
-                    it.gravity = android.view.Gravity.CENTER
-                    it.textAlignment = android.view.View.TEXT_ALIGNMENT_CENTER
-                }
-                return view
-            }
-        }
-
         val dialog = AlertDialog.Builder(this)
             .setTitle("Select Book")
-            .setAdapter(adapter) { _, which ->
+            .setAdapter(createCenteredListAdapter(finalBooks)) { _, which ->
                 val selectedBook = finalBooks[which]
                 showChapterSelectionDialog(selectedBook)
             }
@@ -404,22 +394,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     private fun showChapterSelectionDialog(bookName: String) {
         val chapters = BibleRepository.getChaptersForBook(bookName, this).toTypedArray()
 
-        val textColor = if (isDarkMode) Color.parseColor("#FFFFFF") else Color.parseColor("#2D241E")
-        val adapter = object : android.widget.ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, chapters) {
-            override fun getView(position: Int, convertView: android.view.View?, parent: ViewGroup): android.view.View {
-                val view = super.getView(position, convertView, parent)
-                (view as? TextView)?.let {
-                    it.setTextColor(textColor)
-                    it.gravity = android.view.Gravity.CENTER
-                    it.textAlignment = android.view.View.TEXT_ALIGNMENT_CENTER
-                }
-                return view
-            }
-        }
-
         val dialog = AlertDialog.Builder(this)
             .setTitle("Select Chapter in $bookName")
-            .setAdapter(adapter) { _, which ->
+            .setAdapter(createCenteredListAdapter(chapters)) { _, which ->
                 val selectedChapter = chapters[which]
                 showVerseSelectionDialog(selectedChapter)
             }
@@ -439,22 +416,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             return
         }
 
-        val textColor = if (isDarkMode) Color.parseColor("#FFFFFF") else Color.parseColor("#2D241E")
-        val adapter = object : android.widget.ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, verseTitles) {
-            override fun getView(position: Int, convertView: android.view.View?, parent: ViewGroup): android.view.View {
-                val view = super.getView(position, convertView, parent)
-                (view as? TextView)?.let {
-                    it.setTextColor(textColor)
-                    it.gravity = android.view.Gravity.CENTER
-                    it.textAlignment = android.view.View.TEXT_ALIGNMENT_CENTER
-                }
-                return view
-            }
-        }
-
         val dialog = AlertDialog.Builder(this)
             .setTitle("Select Verse in $chapterName")
-            .setAdapter(adapter) { _, which ->
+            .setAdapter(createCenteredListAdapter(verseTitles)) { _, which ->
                 val selectedVerse = chapterVerses[which]
                 displayVerse(selectedVerse)
             }
