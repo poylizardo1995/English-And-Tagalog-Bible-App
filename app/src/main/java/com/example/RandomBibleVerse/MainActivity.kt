@@ -47,6 +47,11 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     private var isDarkMode = false
     private var isAutoPlaying = false
 
+    companion object {
+        private const val KEY_VERSE_TEXT = "key_verse_text"
+        private const val KEY_VERSE_REF = "key_verse_ref"
+    }
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
@@ -88,11 +93,20 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             handleLanguageSelection("Tagalog")
         }
 
-        // Only load initial random verse on fresh launch; preserve state on orientation change
-        if (savedInstanceState == null) {
-            loadVerse()
+        // Restore state on orientation change or load initial random verse on fresh launch
+        if (savedInstanceState != null) {
+            val savedText = savedInstanceState.getString(KEY_VERSE_TEXT)
+            val savedRef = savedInstanceState.getString(KEY_VERSE_REF)
+            if (savedText != null && savedRef != null) {
+                val cleanRef = savedRef.removePrefix("— ").trim()
+                currentVerse = BibleVerse(text = savedText, reference = cleanRef)
+                tvVerseText.text = currentVerse?.text
+                tvVerseRef.text = "— ${currentVerse?.reference}"
+            } else {
+                loadVerse()
+            }
         } else {
-            currentVerse?.let { displayVerse(it) }
+            loadVerse()
         }
 
         // 1. New Random Verse Button
@@ -201,6 +215,14 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         updateLanguageToggleUI(BibleRepository.currentTranslation)
     }
 
+    override fun onSaveInstanceState(outState: Bundle) {
+        super.onSaveInstanceState(outState)
+        currentVerse?.let {
+            outState.putString(KEY_VERSE_TEXT, it.text)
+            outState.putString(KEY_VERSE_REF, it.reference)
+        }
+    }
+
     private fun handleLanguageSelection(groupName: String) {
         val matchingTranslations = BibleTranslation.values().filter { it.languageGroup == groupName }
 
@@ -227,20 +249,23 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
 
     private fun switchToTranslation(target: BibleTranslation) {
-        // Extract the chapter & verse part without version parenthesis suffix (e.g., "1 Samuel 1:25")
         val currentBookChapterAndVerse = currentVerse?.reference?.substringBefore(" (")
+        val previousTranslation = BibleRepository.currentTranslation
 
         BibleRepository.setTranslation(this, target)
-        updateLanguageToggleUI(target)
 
         if (currentBookChapterAndVerse != null) {
             val matchingVerse = BibleRepository.getVerseByBookChapterAndVerse(currentBookChapterAndVerse, this)
             if (matchingVerse != null) {
+                updateLanguageToggleUI(target)
                 displayVerse(matchingVerse)
             } else {
-                loadVerse()
+                // Roll back translation repository state and show notification
+                BibleRepository.setTranslation(this, previousTranslation)
+                Toast.makeText(this, "This translation is not available yet.", Toast.LENGTH_LONG).show()
             }
         } else {
+            updateLanguageToggleUI(target)
             loadVerse()
         }
     }
