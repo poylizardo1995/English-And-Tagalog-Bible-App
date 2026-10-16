@@ -73,16 +73,16 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         
         verseCard = findViewById(R.id.verseCard)
 
-        // Bind Language Toggle Pill Views (included layout via @id/languageTogglePill)
+        // Bind Language Toggle Pill Views
         val languageToggleInclude = findViewById<android.view.View>(R.id.languageTogglePill)
-        btnEnglish = languageToggleInclude.findViewById(R.id.btnKjv) // Binding to btnKjv view ID from XML
+        btnEnglish = languageToggleInclude.findViewById(R.id.btnKjv)
         btnTagalog = languageToggleInclude.findViewById(R.id.btnTagalog)
         languageToggleContainer = languageToggleInclude.parent as? ViewGroup ?: (languageToggleInclude as ViewGroup)
 
         // Initialize Text-to-Speech engine
         tts = TextToSpeech(this, this)
 
-        // Set up Language Pill Click Listeners with Dropdown Support
+        // Set up Language Pill Click Listeners
         btnEnglish.setOnClickListener {
             stopAutoPlay()
             handleLanguageSelection("English")
@@ -93,7 +93,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             handleLanguageSelection("Tagalog")
         }
 
-        // Restore state on orientation change or load initial random verse on fresh launch
+        // Restore state or load initial random verse
         if (savedInstanceState != null) {
             val savedText = savedInstanceState.getString(KEY_VERSE_TEXT)
             val savedRef = savedInstanceState.getString(KEY_VERSE_REF)
@@ -109,19 +109,17 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             loadVerse()
         }
 
-        // 1. New Random Verse Button
+        // Button Click Listeners
         btnRefresh.setOnClickListener {
             stopAutoPlay()
             loadVerse()
         }
 
-        // 2. Choose Book, Chapter & Verse Button
         btnSelectManual.setOnClickListener {
             stopAutoPlay()
             showBookSelectionDialog()
         }
 
-        // 3. Previous Verse Button
         btnPrev.setOnClickListener {
             currentVerse?.let { verse ->
                 val prevVerse = BibleRepository.getPreviousVerse(verse, this)
@@ -136,7 +134,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             }
         }
 
-        // 4. Next Verse Button
         btnNext.setOnClickListener {
             currentVerse?.let { verse ->
                 val nextVerse = BibleRepository.getNextVerse(verse, this)
@@ -152,7 +149,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             }
         }
 
-        // 5. Auto-Play / Continuous Listen Button
         btnAutoPlay.setOnClickListener {
             if (isAutoPlaying) {
                 stopAutoPlay()                
@@ -164,7 +160,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             }
         }
 
-        // 6. Copy Button
         btnCopy.setOnClickListener {
             val verseText = tvVerseText.text.toString()
             val verseRef = tvVerseRef.text.toString()
@@ -178,7 +173,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             toast.show()
         }
 
-        // 7. Share Button
         btnShare.setOnClickListener {
             val verseText = tvVerseText.text.toString()
             val verseRef = tvVerseRef.text.toString()
@@ -192,7 +186,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             startActivity(Intent.createChooser(shareIntent, "Share Verse via"))
         }
 
-        // 8. Listen Button (Manual TTS trigger)
         btnSpeak.setOnClickListener {
             currentVerse?.let { verse ->
                 if (isTtsReady) {
@@ -206,20 +199,17 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             }
         }
 
-        // 9. Day/Night Theme Toggle Button
         btnToggleTheme.setOnClickListener {
             isDarkMode = !isDarkMode
             applyTheme()
         }
 
-        // 10. About & Credits Button
         btnAbout.setOnClickListener {
             showAboutDialog()
         }
 
         LockScreenVerseService.showLockScreenNotification(this)
 
-        // Apply default theme colors immediately on startup
         applyTheme()
         updateLanguageToggleUI(BibleRepository.currentTranslation)
     }
@@ -261,7 +251,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val currentBookChapterAndVerse = currentVerse?.reference?.substringBefore(" (")
         val previousTranslation = BibleRepository.currentTranslation
 
-        // Check if the target translation actually has files for this specific book/chapter or suffix
         val assetFiles = assets.list("") ?: emptyArray()
         val targetSuffix = "_${target.suffix}.json"
         val hasSuffixFiles = assetFiles.any { it.endsWith(targetSuffix) }
@@ -300,31 +289,26 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
     private fun showAboutDialog() {
         val dialog = AlertDialog.Builder(this)
-            .setTitle("About & Credits")
             .setMessage(
+                "About & Credits\n\n" +
                 "English and Tagalog Bible v1.2\n\n" +
                 "App Developed by Poy Lizardo\n\n" +
                 "Copyright © 2026. All Rights Reserved. To God be the glory!\n\n" +
                 "Scripture Text Provided via Public Domain Translations: English - King James Version (KJV) and Tagalog - Ang Dating Biblia 1905 (ADB1905).\n\n" +    
-                "Github: https://github.com/poylizardo1995/English-And-Tagalog-Bible-App\n\n"
+                "Github: https://github.com/poylizardo1995/English-And-Tagalog-Bible-App"
             )
             .setPositiveButton("OK") { dialogInterface, _ -> dialogInterface.dismiss() }
             .create()
 
         dialog.show()
 
-        // Center-align the title view and force its parent container to match parent width
-        val titleView = dialog.findViewById<TextView>(androidx.appcompat.R.id.alertTitle)
-        titleView?.apply {
-            gravity = android.view.Gravity.CENTER
-            layoutParams = (layoutParams as? ViewGroup.LayoutParams)?.apply {
-                width = ViewGroup.LayoutParams.MATCH_PARENT
-            }
-        }
-
-        // Center-align the message view
+        // Perfectly center the message body content
         val messageView = dialog.findViewById<TextView>(android.R.id.message)
-        messageView?.gravity = android.view.Gravity.CENTER
+        messageView?.apply {
+            gravity = android.view.Gravity.CENTER
+            textAlignment = android.view.View.TEXT_ALIGNMENT_CENTER
+            textSize = 15f
+        }
 
         // Style OK button color based on theme
         val positiveButton = dialog.getButton(AlertDialog.BUTTON_POSITIVE)
@@ -334,7 +318,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
         // Match text colors and card background to the current theme
         if (isDarkMode) {
-            titleView?.setTextColor(Color.parseColor("#FFFFFF"))
             messageView?.setTextColor(Color.parseColor("#E0E0E0"))
             dialog.window?.decorView?.background = android.graphics.drawable.GradientDrawable().apply {
                 shape = android.graphics.drawable.GradientDrawable.RECTANGLE
@@ -342,7 +325,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 setColor(Color.parseColor("#1E1E1E"))
             }
         } else {
-            titleView?.setTextColor(Color.parseColor("#2D241E"))
             messageView?.setTextColor(Color.parseColor("#2D241E"))
             dialog.window?.decorView?.background = android.graphics.drawable.GradientDrawable().apply {
                 shape = android.graphics.drawable.GradientDrawable.RECTANGLE
@@ -377,10 +359,8 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val rootLayout = findViewById<ViewGroup>(android.R.id.content).getChildAt(0) ?: window.decorView
 
         if (isDarkMode) {
-            // --- NIGHT MODE ---
             rootLayout.setBackgroundResource(R.drawable.bg_gradient)
             
-            // Force pure dark charcoal background on MaterialCardView
             verseCard.backgroundTintList = null
             verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#1E1E1E")))
             verseCard.strokeColor = Color.parseColor("#333333")
@@ -408,10 +388,8 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             }
 
         } else {
-            // --- DAY MODE (Warm Theme) ---
             rootLayout.setBackgroundResource(R.drawable.bg_gradient)
             
-            // Force crisp white background on MaterialCardView
             verseCard.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#FFFFFF"))
             verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#FFFFFF")))
             verseCard.strokeColor = Color.parseColor("#E8E2D5")
@@ -448,7 +426,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         btnEnglish.text = if (isEnglishActive) "${translation.displayName.substringAfter("(").substringBefore(")")} ▾" else "ENGLISH ▾"
         btnTagalog.text = if (!isEnglishActive) "${translation.displayName.substringAfter("(").substringBefore(")")} ▾" else "TAGALOG ▾"
 
-        // Enforce card background state consistently during language switches
         if (isDarkMode) {
             verseCard.backgroundTintList = null
             verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#1E1E1E")))
