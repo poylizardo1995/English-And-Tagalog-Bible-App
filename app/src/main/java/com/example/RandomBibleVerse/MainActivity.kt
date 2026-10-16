@@ -36,6 +36,11 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     private lateinit var btnAbout: MaterialButton
     private lateinit var verseCard: MaterialCardView
     
+    // Language Toggle Pill Views
+    private lateinit var btnKjv: TextView
+    private lateinit var btnTagalog: TextView
+    private lateinit var languageToggleContainer: ViewGroup
+    
     private var tts: TextToSpeech? = null
     private var isTtsReady = false
     private var currentVerse: BibleVerse? = null
@@ -63,8 +68,30 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         
         verseCard = findViewById(R.id.verseCard)
 
+        // Bind Language Toggle Pill Views (included layout via @id/languageTogglePill)
+        val languageToggleInclude = findViewById<android.view.View>(R.id.languageTogglePill)
+        btnKjv = languageToggleInclude.findViewById(R.id.btnKjv)
+        btnTagalog = languageToggleInclude.findViewById(R.id.btnTagalog)
+        languageToggleContainer = languageToggleInclude.findViewById(R.id.languageTogglePill).parent as? ViewGroup 
+            ?: languageToggleInclude as? ViewGroup
+
         // Initialize Text-to-Speech engine
         tts = TextToSpeech(this, this)
+
+        // Set up Language Pill Click Listeners
+        btnKjv.setOnClickListener {
+            stopAutoPlay()
+            BibleRepository.setTranslation(this, BibleTranslation.KJV)
+            updateLanguageToggleUI(BibleTranslation.KJV)
+            loadVerse()
+        }
+
+        btnTagalog.setOnClickListener {
+            stopAutoPlay()
+            BibleRepository.setTranslation(this, BibleTranslation.ADB1905)
+            updateLanguageToggleUI(BibleTranslation.ADB1905)
+            loadVerse()
+        }
 
         // Load initial verse silently
         loadVerse()
@@ -172,6 +199,38 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
         // Apply default theme colors immediately on startup
         applyTheme()
+        updateLanguageToggleUI(BibleTranslation.KJV)
+    }
+
+    private fun updateLanguageToggleUI(translation: BibleTranslation) {
+        if (isDarkMode) {
+            // --- NIGHT MODE TOGGLE STYLING ---
+            languageToggleContainer?.background = getDrawable(R.drawable.bg_pill_container) // or dark tint container if customized
+            if (translation == BibleTranslation.KJV) {
+                btnKjv.setBackgroundResource(R.drawable.bg_pill_selected)
+                btnKjv.setTextColor(Color.parseColor("#121212"))
+                btnTagalog.setBackgroundColor(Color.TRANSPARENT)
+                btnTagalog.setTextColor(Color.parseColor("#D7CCC8"))
+            } else {
+                btnTagalog.setBackgroundResource(R.drawable.bg_pill_selected)
+                btnTagalog.setTextColor(Color.parseColor("#121212"))
+                btnKjv.setBackgroundColor(Color.TRANSPARENT)
+                btnKjv.setTextColor(Color.parseColor("#D7CCC8"))
+            }
+        } else {
+            // --- DAY MODE TOGGLE STYLING ---
+            if (translation == BibleTranslation.KJV) {
+                btnKjv.setBackgroundResource(R.drawable.bg_pill_selected)
+                btnKjv.setTextColor(Color.WHITE)
+                btnTagalog.setBackgroundColor(Color.TRANSPARENT)
+                btnTagalog.setTextColor(Color.parseColor("#555555"))
+            } else {
+                btnTagalog.setBackgroundResource(R.drawable.bg_pill_selected)
+                btnTagalog.setTextColor(Color.WHITE)
+                btnKjv.setBackgroundColor(Color.TRANSPARENT)
+                btnKjv.setTextColor(Color.parseColor("#555555"))
+            }
+        }
     }
 
     private fun showAboutDialog() {
@@ -252,6 +311,14 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 btn.strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
             }
         }
+        
+        // Refresh toggle button highlighting based on active translation & theme
+        val activeTranslation = if (btnTagalog.background.constantState == getDrawable(R.drawable.bg_pill_selected)?.constantState) {
+            BibleTranslation.ADB1905
+        } else {
+            BibleTranslation.KJV
+        }
+        updateLanguageToggleUI(activeTranslation)
     }
 
     // Dialog 1: Choose Book
