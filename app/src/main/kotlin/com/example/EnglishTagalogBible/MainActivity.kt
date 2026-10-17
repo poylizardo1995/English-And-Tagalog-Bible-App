@@ -935,9 +935,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val isEnglishActive = translation.languageGroup == "English"
         btnEnglish.text = if (isEnglishActive) translation.displayName.uppercase() + " ▾" else "ENGLISH ▾"
         btnTagalog.text = if (!isEnglishActive) translation.displayName.uppercase() + " ▾" else "TAGALOG ▾"
-
+    
         val isDark = currentTheme != ThemeMode.SEPIA
-
+    
         if (isDark) {
             verseCard.backgroundTintList = null
             verseCard.setCardBackgroundColor(ColorStateList.valueOf(
@@ -956,56 +956,60 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 ThemeMode.SUNSET -> Color.parseColor("#D77A61")
                 else -> Color.parseColor("#444444")
             }
-
+    
             val pillColorHex = when (currentTheme) {
-                ThemeMode.CHARCOAL -> Color.parseColor("#333333")
-                ThemeMode.NAVY -> Color.parseColor("#3F51B5")
-                ThemeMode.OLIVE -> Color.parseColor("#2E7D32")
-                ThemeMode.SUNSET -> Color.parseColor("#A34828")
+                ThemeMode.CHARCOAL -> Color.parseColor("#FFB74D")
+                ThemeMode.NAVY -> Color.parseColor("#5C6BC0")
+                ThemeMode.OLIVE -> Color.parseColor("#4CAF50")
+                ThemeMode.SUNSET -> Color.parseColor("#E64A19")
                 else -> Color.parseColor("#8D6E63")
             }
             val darkPillColor = ColorStateList.valueOf(pillColorHex)
-
+    
+            // Clear backgrounds first
+            btnEnglish.backgroundTintList = null
+            btnEnglish.setBackgroundColor(Color.TRANSPARENT)
+            btnTagalog.backgroundTintList = null
+            btnTagalog.setBackgroundColor(Color.TRANSPARENT)
+    
             if (isEnglishActive) {
                 btnEnglish.setBackgroundResource(R.drawable.bg_pill_selected)
                 btnEnglish.backgroundTintList = darkPillColor
-                btnEnglish.setTextColor(if (currentTheme == ThemeMode.CHARCOAL) Color.parseColor("#FFB74D") else Color.parseColor("#FFFFFF"))
+                btnEnglish.setTextColor(Color.parseColor("#121212")) // High contrast dark text on active pill
                 
-                btnTagalog.backgroundTintList = null
-                btnTagalog.setBackgroundColor(Color.TRANSPARENT)
-                btnTagalog.setTextColor(Color.parseColor("#D7CCC8"))
+                btnTagalog.setTextColor(Color.parseColor("#FFFFFF")) // Highly visible bright white for inactive text
             } else {
                 btnTagalog.setBackgroundResource(R.drawable.bg_pill_selected)
                 btnTagalog.backgroundTintList = darkPillColor
-                btnTagalog.setTextColor(if (currentTheme == ThemeMode.CHARCOAL) Color.parseColor("#FFB74D") else Color.parseColor("#FFFFFF"))
+                btnTagalog.setTextColor(Color.parseColor("#121212"))
                 
-                btnEnglish.backgroundTintList = null
-                btnEnglish.setBackgroundColor(Color.TRANSPARENT)
-                btnTagalog.setTextColor(Color.parseColor("#D7CCC8"))
+                btnEnglish.setTextColor(Color.parseColor("#FFFFFF"))
             }
         } else {
+            // Sepia / Light Theme
             verseCard.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#FFFFFF"))
             verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#FFFFFF")))
             verseCard.strokeColor = Color.parseColor("#D0C4B2")
-
+    
             val dayPillColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
-
+    
+            btnEnglish.backgroundTintList = null
+            btnEnglish.setBackgroundColor(Color.TRANSPARENT)
+            btnTagalog.backgroundTintList = null
+            btnTagalog.setBackgroundColor(Color.TRANSPARENT)
+    
             if (isEnglishActive) {
                 btnEnglish.setBackgroundResource(R.drawable.bg_pill_selected)
                 btnEnglish.backgroundTintList = dayPillColor
                 btnEnglish.setTextColor(Color.WHITE)
                 
-                btnTagalog.backgroundTintList = null
-                btnTagalog.setBackgroundColor(Color.TRANSPARENT)
-                btnTagalog.setTextColor(Color.parseColor("#555555"))
+                btnTagalog.setTextColor(Color.parseColor("#4A3B32")) // Deep readable brown for inactive text on light theme
             } else {
                 btnTagalog.setBackgroundResource(R.drawable.bg_pill_selected)
                 btnTagalog.backgroundTintList = dayPillColor
                 btnTagalog.setTextColor(Color.WHITE)
                 
-                btnEnglish.backgroundTintList = null
-                btnEnglish.setBackgroundColor(Color.TRANSPARENT)
-                btnTagalog.setTextColor(Color.parseColor("#555555"))
+                btnEnglish.setTextColor(Color.parseColor("#4A3B32"))
             }
         }
     }
