@@ -1,0 +1,180 @@
+[
+  {
+    "text": "At sinabi ni Balaam kay Balac, Ipagtayo mo ako rito ng pitong dambana, at ipaghanda mo ako rito ng pitong toro at ng pitong tupang lalake.",
+    "reference": "Mga Bilang 23:1 (ADB1905)",
+    "connected_to": "Mga Bilang 23:2"
+  },
+  {
+    "text": "At ginawa ni Balac gaya ng sinalita ni Balaam; at si Balac at si Balaam ay naghandog sa bawa't dambana ng isang toro at ng isang tupang lalake.",
+    "reference": "Mga Bilang 23:2 (ADB1905)",
+    "connected_to": "Mga Bilang 23:3",
+    "connected_from": "Mga Bilang 23:1"
+  },
+  {
+    "text": "At sinabi ni Balaam kay Balac, Tumayo ka sa tabi ng iyong handog na susunugin, at ako'y yayaon; marahil ang Panginoon ay paririto na sasalubungin ako: at anomang bagay na kaniyang ipakita sa akin ay aking sasaysayin sa iyo. At siya'y naparoon sa isang dakong mataas na walang tanim.",
+    "reference": "Mga Bilang 23:3 (ADB1905)",
+    "connected_to": "Mga Bilang 23:4",
+    "connected_from": "Mga Bilang 23:2"
+  },
+  {
+    "text": "At sinalubong ng Dios si Balaam: at sinabi niya sa kaniya, Aking inihanda ang pitong dambana, at aking inihandog ang isang toro at ang isang tupang lalake sa bawa't dambana.",
+    "reference": "Mga Bilang 23:4 (ADB1905)",
+    "connected_to": "Mga Bilang 23:5",
+    "connected_from": "Mga Bilang 23:3"
+  },
+  {
+    "text": "At nilagyan ng Panginoon ng salita ang bibig ni Balaam, at sinabi: Bumalik ka kay Balac, at ganito ang iyong sasalitain.",
+    "reference": "Mga Bilang 23:5 (ADB1905)",
+    "connected_to": "Mga Bilang 23:6",
+    "connected_from": "Mga Bilang 23:4"
+  },
+  {
+    "text": "At siya'y bumalik sa kaniya, at, narito, siya'y nakatayo sa tabi ng kaniyang handog na susunugin, siya at ang lahat ng mga prinsipe sa Moab.",
+    "reference": "Mga Bilang 23:6 (ADB1905)",
+    "connected_to": "Mga Bilang 23:7",
+    "connected_from": "Mga Bilang 23:5"
+  },
+  {
+    "text": "At kaniyang ibinadya ang kaniyang talinhaga, at sinabi, Mula sa Aram ay dinala ako rito ni Balac, Niyang hari sa Moab, na mula sa mga bundok ng Silanganan: Parito ka, sumpain mo sa akin ang Jacob. At parito ka, laitin mo ang Israel.",
+    "reference": "Mga Bilang 23:7 (ADB1905)",
+    "connected_to": "Mga Bilang 23:8",
+    "connected_from": "Mga Bilang 23:6"
+  },
+  {
+    "text": "Paanong aking susumpain ang hindi sinumpa ng Dios? At paanong aking lalaitin ang hindi nilait ng Panginoon?",
+    "reference": "Mga Bilang 23:8 (ADB1905)",
+    "connected_to": "Mga Bilang 23:9",
+    "connected_from": "Mga Bilang 23:7"
+  },
+  {
+    "text": "Sapagka't mula sa taluktok ng mga bato ay aking nakikita siya, At mula sa mga burol ay akin siyang natatanawan: Narito, siya'y isang bayang tatahang magisa, At hindi ibinibilang sa gitna ng mga bansa.",
+    "reference": "Mga Bilang 23:9 (ADB1905)",
+    "connected_to": "Mga Bilang 23:10",
+    "connected_from": "Mga Bilang 23:8"
+  },
+  {
+    "text": "Sinong makabibilang ng alabok ng Jacob, O ng bilang ng ikaapat na bahagi ng Israel? Mamatay nawa ako ng kamatayan ng matuwid, At ang aking wakas ay magiging gaya nawa ng kaniya!",
+    "reference": "Mga Bilang 23:10 (ADB1905)",
+    "connected_to": "Mga Bilang 23:11",
+    "connected_from": "Mga Bilang 23:9"
+  },
+  {
+    "text": "At sinabi ni Balac kay Balaam, Anong ginawa mo sa akin? Ipinagsama kita upang sumpain mo ang aking mga kaaway, at, narito, iyong pinagpala silang totoo.",
+    "reference": "Mga Bilang 23:11 (ADB1905)",
+    "connected_to": "Mga Bilang 23:12",
+    "connected_from": "Mga Bilang 23:10"
+  },
+  {
+    "text": "At siya'y sumagot, at nagsabi, Hindi ba nararapat na aking pagingatang salitain yaong isinasa bibig ko ng Panginoon?",
+    "reference": "Mga Bilang 23:12 (ADB1905)",
+    "connected_to": "Mga Bilang 23:13",
+    "connected_from": "Mga Bilang 23:11"
+  },
+  {
+    "text": "At sinabi sa kaniya ni Balac, Isinasamo ko sa iyo, na sumama ka sa akin sa ibang dako, na iyong pagkakakitaan sa kanila; ang iyo lamang makikita ay ang kahulihulihang bahagi nila, at hindi mo makikita silang lahat: at sumpain mo sila sa akin mula roon.",
+    "reference": "Mga Bilang 23:13 (ADB1905)",
+    "connected_to": "Mga Bilang 23:14",
+    "connected_from": "Mga Bilang 23:12"
+  },
+  {
+    "text": "At dinala niya siya sa parang ng Sophim, sa taluktok ng Pisga, at nagtayo roon ng pitong dambana, at naghandog ng isang toro, at ng isang tupang lalake sa bawa't dambana.",
+    "reference": "Mga Bilang 23:14 (ADB1905)",
+    "connected_to": "Mga Bilang 23:15",
+    "connected_from": "Mga Bilang 23:13"
+  },
+  {
+    "text": "At kaniyang sinabi kay Balac, Tumayo ka rito sa tabi ng iyong handog na susunugin, samantalang aking sinasalubong ang Panginoon doon.",
+    "reference": "Mga Bilang 23:15 (ADB1905)",
+    "connected_to": "Mga Bilang 23:16",
+    "connected_from": "Mga Bilang 23:14"
+  },
+  {
+    "text": "At sinalubong ng Panginoon si Balaam, at pinapagsalita siya ng salita sa kaniyang bibig, at sinabi, bumalik ka kay Balac, at ganito ang iyong sasalitain.",
+    "reference": "Mga Bilang 23:16 (ADB1905)",
+    "connected_to": "Mga Bilang 23:17",
+    "connected_from": "Mga Bilang 23:15"
+  },
+  {
+    "text": "At siya'y naparoon sa kaniya, at, narito, siya'y nakatayo sa tabi ng kaniyang handog na susunugin, at ang mga prinsipe sa Moab na kasama niya. At sinabi sa kaniya ni Balac, Anong sinalita ng Panginoon?",
+    "reference": "Mga Bilang 23:17 (ADB1905)",
+    "connected_to": "Mga Bilang 23:18",
+    "connected_from": "Mga Bilang 23:16"
+  },
+  {
+    "text": "At kaniyang ibinadya ang kaniyang talinghaga, at sinabi, Tumindig ka, Balac, at iyong dinggin; Makinig ka sa akin, ikaw anak ni Zippor:",
+    "reference": "Mga Bilang 23:18 (ADB1905)",
+    "connected_to": "Mga Bilang 23:19",
+    "connected_from": "Mga Bilang 23:17"
+  },
+  {
+    "text": "Ang Dios ay hindi tao na magsisinungaling, Ni anak ng tao na magsisisi; Sinabi ba niya, at hindi niya gagawin? O sinalita ba niya, at hindi niya isasagawa?",
+    "reference": "Mga Bilang 23:19 (ADB1905)",
+    "connected_to": "Mga Bilang 23:20",
+    "connected_from": "Mga Bilang 23:18"
+  },
+  {
+    "text": "Narito, ako'y tumanggap ng utos na magpala: At kaniyang pinagpala, at hindi ko na mababago.",
+    "reference": "Mga Bilang 23:20 (ADB1905)",
+    "connected_to": "Mga Bilang 23:21",
+    "connected_from": "Mga Bilang 23:19"
+  },
+  {
+    "text": "Wala siyang nakitang kasamaan sa Jacob, Ni wala siyang nakitang kasamaan sa Israel: Ang Panginoon niyang Dios ay sumasa kaniya, At ang sigaw ng hari ay nasa gitna nila.",
+    "reference": "Mga Bilang 23:21 (ADB1905)",
+    "connected_to": "Mga Bilang 23:22",
+    "connected_from": "Mga Bilang 23:20"
+  },
+  {
+    "text": "Dios ang naglalabas sa kanila sa Egipto; Siya'y may lakas na gaya ng mabangis na toro.",
+    "reference": "Mga Bilang 23:22 (ADB1905)",
+    "connected_to": "Mga Bilang 23:23",
+    "connected_from": "Mga Bilang 23:21"
+  },
+  {
+    "text": "Tunay na walang enkanto laban sa Jacob, Ni panghuhula laban sa Israel: Ngayo'y sasabihin tungkol sa Jacob at sa Israel, Anong ginawa ng Dios!",
+    "reference": "Mga Bilang 23:23 (ADB1905)",
+    "connected_to": "Mga Bilang 23:24",
+    "connected_from": "Mga Bilang 23:22"
+  },
+  {
+    "text": "Narito, ang bayan ay tumitindig na parang isang leong babae, At parang isang leon na nagpakataas: Siya'y hindi mahihiga hanggang sa makakain ng huli, At makainom ng dugo ng napatay.",
+    "reference": "Mga Bilang 23:24 (ADB1905)",
+    "connected_to": "Mga Bilang 23:25",
+    "connected_from": "Mga Bilang 23:23"
+  },
+  {
+    "text": "At sinabi ni Balac kay Balaam, Ni huwag mo silang pakasumpain ni pakapagpalain.",
+    "reference": "Mga Bilang 23:25 (ADB1905)",
+    "connected_to": "Mga Bilang 23:26",
+    "connected_from": "Mga Bilang 23:24"
+  },
+  {
+    "text": "Nguni't si Balaam ay sumagot at nagsabi kay Balac, Di ba isinaysay ko sa iyo, na sinasabi, Yaong lahat na sinasalita ng Panginoon, ay siya kong nararapat gawin?",
+    "reference": "Mga Bilang 23:26 (ADB1905)",
+    "connected_to": "Mga Bilang 23:27",
+    "connected_from": "Mga Bilang 23:25"
+  },
+  {
+    "text": "At sinabi ni Balac kay Balaam, Halika ngayon, ipagsasama kita sa ibang dako; marahil ay kalulugdan ng Dios na iyong sumpain sila sa akin mula roon.",
+    "reference": "Mga Bilang 23:27 (ADB1905)",
+    "connected_to": "Mga Bilang 23:28",
+    "connected_from": "Mga Bilang 23:26"
+  },
+  {
+    "text": "At ipinagsama ni Balac si Balaam sa taluktok ng Peor, na nakatungo sa ilang.",
+    "reference": "Mga Bilang 23:28 (ADB1905)",
+    "connected_to": "Mga Bilang 23:29",
+    "connected_from": "Mga Bilang 23:27"
+  },
+  {
+    "text": "At sinabi ni Balaam kay Balac, Ipagtayo mo ako rito ng pitong dambana, at ipaghanda mo ako rito ng pitong toro at ng pitong tupang lalake.",
+    "reference": "Mga Bilang 23:29 (ADB1905)",
+    "connected_to": "Mga Bilang 23:30",
+    "connected_from": "Mga Bilang 23:28"
+  },
+  {
+    "text": "At ginawa ni Balac gaya ng sinabi ni Balaam, at naghandog ng isang toro at ng isang tupang lalake sa bawa't dambana.",
+    "reference": "Mga Bilang 23:30 (ADB1905)",
+    "connected_from": "Mga Bilang 23:29"
+  }
+]

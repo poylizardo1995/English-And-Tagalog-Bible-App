@@ -1,0 +1,174 @@
+[
+  {
+    "text": "Ang mabuting pangalan ay maigi kay sa mahalagang unguento; at ang kaarawan ng kamatayan kay sa kaarawan ng kapanganakan.",
+    "reference": "Eclesiastes 7:1 (ADB1905)",
+    "connected_to": "Eclesiastes 7:2"
+  },
+  {
+    "text": "Maigi ang pasa bahay ng tangisan, kay sa bahay ng pistahan: sapagka't siyang wakas ng lahat ng mga tao; at ilalagak ng may buhay sa kaniyang puso.",
+    "reference": "Eclesiastes 7:2 (ADB1905)",
+    "connected_to": "Eclesiastes 7:3",
+    "connected_from": "Eclesiastes 7:1"
+  },
+  {
+    "text": "Kapanglawan ay maigi kay sa pagtawa: sapagka't sa kapanglawan ng mukha ay sumasaya ang puso.",
+    "reference": "Eclesiastes 7:3 (ADB1905)",
+    "connected_to": "Eclesiastes 7:4",
+    "connected_from": "Eclesiastes 7:2"
+  },
+  {
+    "text": "Ang puso ng pantas ay nasa bahay ng tangisan; nguni't ang puso ng mangmang ay nasa bahay ng kasayahan.",
+    "reference": "Eclesiastes 7:4 (ADB1905)",
+    "connected_to": "Eclesiastes 7:5",
+    "connected_from": "Eclesiastes 7:3"
+  },
+  {
+    "text": "Maigi ang makinig ng saway ng pantas kay sa isang tao'y makinig ng awit ng mga mangmang.",
+    "reference": "Eclesiastes 7:5 (ADB1905)",
+    "connected_to": "Eclesiastes 7:6",
+    "connected_from": "Eclesiastes 7:4"
+  },
+  {
+    "text": "Sapagka't kung paano ang lagitik ng mga tinik sa ilalim ng palyok, gayon ang tawa ng mangmang: ito ma'y walang kabuluhan.",
+    "reference": "Eclesiastes 7:6 (ADB1905)",
+    "connected_to": "Eclesiastes 7:7",
+    "connected_from": "Eclesiastes 7:5"
+  },
+  {
+    "text": "Tunay na nagpapamangmang sa pantas ang pagkapighati; at ang suhol ay sumisira ng unawa.",
+    "reference": "Eclesiastes 7:7 (ADB1905)",
+    "connected_to": "Eclesiastes 7:8",
+    "connected_from": "Eclesiastes 7:6"
+  },
+  {
+    "text": "Maigi ang wakas ng isang bagay kay sa pasimula niyaon: at ang matiising loob ay maigi kay sa palalong loob.",
+    "reference": "Eclesiastes 7:8 (ADB1905)",
+    "connected_to": "Eclesiastes 7:9",
+    "connected_from": "Eclesiastes 7:7"
+  },
+  {
+    "text": "Huwag kang magagalitin sa iyong kalooban: sapagka't ang galit ay nagpapahinga sa sinapupunan ng mga mangmang.",
+    "reference": "Eclesiastes 7:9 (ADB1905)",
+    "connected_to": "Eclesiastes 7:10",
+    "connected_from": "Eclesiastes 7:8"
+  },
+  {
+    "text": "Huwag mong sabihin, Ano ang kadahilanan na ang mga unang araw ay maigi kay sa mga ito? sapagka't hindi ka naguusisang may katalinuhan tungkol dito.",
+    "reference": "Eclesiastes 7:10 (ADB1905)",
+    "connected_to": "Eclesiastes 7:11",
+    "connected_from": "Eclesiastes 7:9"
+  },
+  {
+    "text": "Karunungan ay mabuting gaya ng mana: oo, lalong marilag sa ganang kanila na nakakakita ng araw.",
+    "reference": "Eclesiastes 7:11 (ADB1905)",
+    "connected_to": "Eclesiastes 7:12",
+    "connected_from": "Eclesiastes 7:10"
+  },
+  {
+    "text": "Sapagka't ang karunungan ay sanggalang, sa makatuwid baga'y gaya ng salapi na sanggalang: nguni't ang karilagan ng kaalaman, ay iniingatan ng karunungan ang buhay niya na nagtatangkilik niyaon.",
+    "reference": "Eclesiastes 7:12 (ADB1905)",
+    "connected_to": "Eclesiastes 7:13",
+    "connected_from": "Eclesiastes 7:11"
+  },
+  {
+    "text": "Gunitain mo ang gawa ng Dios: sapagka't sinong makapagtutuwid ng ginawa niyang baluktot?",
+    "reference": "Eclesiastes 7:13 (ADB1905)",
+    "connected_to": "Eclesiastes 7:14",
+    "connected_from": "Eclesiastes 7:12"
+  },
+  {
+    "text": "Sa kaarawan ng kaginhawahan ay magalak ka, at sa kaarawan ng kahirapan ay gumunita ka: oo, ginawa ng Dios ang isa sa siping ng isa, upang ang tao ay huwag makasumpong ng anomang bagay na mangyayari pagkamatay niya.",
+    "reference": "Eclesiastes 7:14 (ADB1905)",
+    "connected_to": "Eclesiastes 7:15",
+    "connected_from": "Eclesiastes 7:13"
+  },
+  {
+    "text": "Lahat ng ito ay nakita ko sa mga kaarawan ng aking walang kabuluhan: may matuwid na namamatay sa kaniyang katuwiran, at may masama na humahaba ang buhay sa kaniyang masamang gawa.",
+    "reference": "Eclesiastes 7:15 (ADB1905)",
+    "connected_to": "Eclesiastes 7:16",
+    "connected_from": "Eclesiastes 7:14"
+  },
+  {
+    "text": "Huwag kang lubhang magpakamatuwid; ni huwag ka mang lubhang magpakapantas: bakit sisirain mo ang iyong sarili?",
+    "reference": "Eclesiastes 7:16 (ADB1905)",
+    "connected_to": "Eclesiastes 7:17",
+    "connected_from": "Eclesiastes 7:15"
+  },
+  {
+    "text": "Huwag kang magpakasamang lubha, ni magpakamangmang man: bakit ka mamamatay bago dumating ang iyong kapanahunan?",
+    "reference": "Eclesiastes 7:17 (ADB1905)",
+    "connected_to": "Eclesiastes 7:18",
+    "connected_from": "Eclesiastes 7:16"
+  },
+  {
+    "text": "Mabuti na ikaw ay manghawak dito; oo, doon man ay huwag mong iurong ang iyong kamay: sapagka't siyang natatakot sa Dios ay lalayo sa lahat na yaon.",
+    "reference": "Eclesiastes 7:18 (ADB1905)",
+    "connected_to": "Eclesiastes 7:19",
+    "connected_from": "Eclesiastes 7:17"
+  },
+  {
+    "text": "Karunungan ay kalakasan sa pantas, na higit kay sa sangpung pinuno na nangasa bayan.",
+    "reference": "Eclesiastes 7:19 (ADB1905)",
+    "connected_to": "Eclesiastes 7:20",
+    "connected_from": "Eclesiastes 7:18"
+  },
+  {
+    "text": "Tunay na walang matuwid sa lupa, na gumagawa ng mabuti, at hindi nagkakasala.",
+    "reference": "Eclesiastes 7:20 (ADB1905)",
+    "connected_to": "Eclesiastes 7:21",
+    "connected_from": "Eclesiastes 7:19"
+  },
+  {
+    "text": "Huwag ka rin namang makinig sa lahat ng mga salita na sinasalita, baka marinig mong sinusumpa ka ng iyong alipin:",
+    "reference": "Eclesiastes 7:21 (ADB1905)",
+    "connected_to": "Eclesiastes 7:22",
+    "connected_from": "Eclesiastes 7:20"
+  },
+  {
+    "text": "Sapagka't madalas ding nalalaman ng iyong sariling puso, na ikaw ay sumumpa rin sa mga iba.",
+    "reference": "Eclesiastes 7:22 (ADB1905)",
+    "connected_to": "Eclesiastes 7:23",
+    "connected_from": "Eclesiastes 7:21"
+  },
+  {
+    "text": "Lahat ng ito ay tinikman ko sa karunungan: aking sinabi, Ako'y magiging pantas: nguni't malayo sa akin.",
+    "reference": "Eclesiastes 7:23 (ADB1905)",
+    "connected_to": "Eclesiastes 7:24",
+    "connected_from": "Eclesiastes 7:22"
+  },
+  {
+    "text": "Ang nilikha ay malayo at totoong malalim; sinong makaaabot?",
+    "reference": "Eclesiastes 7:24 (ADB1905)",
+    "connected_to": "Eclesiastes 7:25",
+    "connected_from": "Eclesiastes 7:23"
+  },
+  {
+    "text": "Ako'y pumihit at inilagak ang aking puso na umalam, at sumiyasat, at humanap ng karunungan, at ng kadahilanan ng mga bagay, at umalam na ang kasamaan ay kamangmangan, at ang kamangmangan ay kaululan:",
+    "reference": "Eclesiastes 7:25 (ADB1905)",
+    "connected_to": "Eclesiastes 7:26",
+    "connected_from": "Eclesiastes 7:24"
+  },
+  {
+    "text": "At nakasumpong ako ng bagay na lalong mapait kay sa kamatayan, sa makatuwid baga'y ang babae na ang puso ay mga silo at mga bitag, at ang kaniyang mga kamay ay gaya ng mga panali: ang nalulugod sa Dios ay tatakas sa kaniya; nguni't ang makasalanan ay makukuha niya.",
+    "reference": "Eclesiastes 7:26 (ADB1905)",
+    "connected_to": "Eclesiastes 7:27",
+    "connected_from": "Eclesiastes 7:25"
+  },
+  {
+    "text": "Narito, ito'y aking nasumpungan, sabi ng Mangangaral, na iniaagapay ang isang bagay sa iba, upang matagpuan ang kadahilanan:",
+    "reference": "Eclesiastes 7:27 (ADB1905)",
+    "connected_to": "Eclesiastes 7:28",
+    "connected_from": "Eclesiastes 7:26"
+  },
+  {
+    "text": "Na hinahanap pa ng aking kaluluwa, nguni't hindi ko nasumpungan: isang tao sa isang libo ang aking nasumpungan; nguni't isang babae sa lahat ng mga yaon ay hindi ko nasumpungan.",
+    "reference": "Eclesiastes 7:28 (ADB1905)",
+    "connected_to": "Eclesiastes 7:29",
+    "connected_from": "Eclesiastes 7:27"
+  },
+  {
+    "text": "Narito, ito lamang ang aking nasumpungan, na ginawang matuwid ng Dios ang tao; nguni't nagsihanap sila ng maraming katha.",
+    "reference": "Eclesiastes 7:29 (ADB1905)",
+    "connected_from": "Eclesiastes 7:28"
+  }
+]

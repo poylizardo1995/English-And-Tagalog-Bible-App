@@ -1,0 +1,96 @@
+[
+  {
+    "text": "Magsiawit kayo ng malakas sa Dios na ating kalakasan: mangagkaingay kayo na may kagalakan sa Dios ni Jacob,",
+    "reference": "Mga Awit 81:1 (ADB1905)",
+    "connected_to": "Mga Awit 81:2"
+  },
+  {
+    "text": "Magsiawit kayo at dalhin ninyo rito ang pandereta, ang masayang alpa sangpu ng salterio.",
+    "reference": "Mga Awit 81:2 (ADB1905)",
+    "connected_to": "Mga Awit 81:3",
+    "connected_from": "Mga Awit 81:1"
+  },
+  {
+    "text": "Magsihihip kayo ng pakakak sa bagong buwan, sa kabilugan ng buwan, sa ating dakilang kapistahan.",
+    "reference": "Mga Awit 81:3 (ADB1905)",
+    "connected_to": "Mga Awit 81:4",
+    "connected_from": "Mga Awit 81:2"
+  },
+  {
+    "text": "Sapagka't pinakapalatuntunan sa Israel, ayos ng Dios ni Jacob.",
+    "reference": "Mga Awit 81:4 (ADB1905)",
+    "connected_to": "Mga Awit 81:5",
+    "connected_from": "Mga Awit 81:3"
+  },
+  {
+    "text": "Kaniyang inilagay na pinakapatotoo sa Jose, nang siya'y lumabas na maglakbay sa lupain ng Egipto: na aking kinaringgan ng wika na di ko nauunawa.",
+    "reference": "Mga Awit 81:5 (ADB1905)",
+    "connected_to": "Mga Awit 81:6",
+    "connected_from": "Mga Awit 81:4"
+  },
+  {
+    "text": "Aking inihiwalay ang kaniyang balikat sa pasan: ang mga kamay niya'y napabitiw sa luwelang.",
+    "reference": "Mga Awit 81:6 (ADB1905)",
+    "connected_to": "Mga Awit 81:7",
+    "connected_from": "Mga Awit 81:5"
+  },
+  {
+    "text": "Ikaw ay tumawag sa kabagabagan, at iniligtas kita; sinagot kita sa lihim na dako ng kulog; sinubok kita sa tubig ng Meriba. (Selah)",
+    "reference": "Mga Awit 81:7 (ADB1905)",
+    "connected_to": "Mga Awit 81:8",
+    "connected_from": "Mga Awit 81:6"
+  },
+  {
+    "text": "Dinggin mo, Oh bayan ko, at ako'y sasaksi sa iyo: Oh Israel, kung ikaw ay makikinig sa akin!",
+    "reference": "Mga Awit 81:8 (ADB1905)",
+    "connected_to": "Mga Awit 81:9",
+    "connected_from": "Mga Awit 81:7"
+  },
+  {
+    "text": "Hindi magkakaroon ng ibang dios sa iyo; at hindi ka man sasamba sa anomang ibang dios.",
+    "reference": "Mga Awit 81:9 (ADB1905)",
+    "connected_to": "Mga Awit 81:10",
+    "connected_from": "Mga Awit 81:8"
+  },
+  {
+    "text": "Ako ang Panginoon mong Dios, na naglabas sa iyo mula sa lupain ng Egipto: bukhin mong maluwang ang iyong bibig, at aking pupunuin.",
+    "reference": "Mga Awit 81:10 (ADB1905)",
+    "connected_to": "Mga Awit 81:11",
+    "connected_from": "Mga Awit 81:9"
+  },
+  {
+    "text": "Nguni't hindi nakinig sa aking tinig ang bayan ko; at hindi ako sinunod ng Israel.",
+    "reference": "Mga Awit 81:11 (ADB1905)",
+    "connected_to": "Mga Awit 81:12",
+    "connected_from": "Mga Awit 81:10"
+  },
+  {
+    "text": "Sa gayo'y aking pinasunod sa pagmamatigas ng kanilang puso, upang sila'y makalakad sa kanilang sariling mga payo.",
+    "reference": "Mga Awit 81:12 (ADB1905)",
+    "connected_to": "Mga Awit 81:13",
+    "connected_from": "Mga Awit 81:11"
+  },
+  {
+    "text": "Oh kung ako'y didinggin ng aking bayan, kung ang Israel ay lalakad sa aking mga daan!",
+    "reference": "Mga Awit 81:13 (ADB1905)",
+    "connected_to": "Mga Awit 81:14",
+    "connected_from": "Mga Awit 81:12"
+  },
+  {
+    "text": "Aking pasusukuing madali ang kanilang mga kaaway, at ibabalik ko ang aking kamay laban sa kanilang mga kaaway.",
+    "reference": "Mga Awit 81:14 (ADB1905)",
+    "connected_to": "Mga Awit 81:15",
+    "connected_from": "Mga Awit 81:13"
+  },
+  {
+    "text": "Ang mga mapagtanim sa Panginoon ay magsisisuko sa kaniya: nguni't ang kanilang panahon ay mananatili kailan man,",
+    "reference": "Mga Awit 81:15 (ADB1905)",
+    "connected_to": "Mga Awit 81:16",
+    "connected_from": "Mga Awit 81:14"
+  },
+  {
+    "text": "Kaniya ring pakakanin sila ng katabaan ng trigo: at ng pulot na mula sa bato ay bubusugin kita.",
+    "reference": "Mga Awit 81:16 (ADB1905)",
+    "connected_from": "Mga Awit 81:15"
+  }
+]

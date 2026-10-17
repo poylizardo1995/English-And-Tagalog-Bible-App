@@ -1,0 +1,78 @@
+[
+  {
+    "text": "At nang buksan niya ang ikapitong tatak, ay nagkaroon ng katahimikan sa langit na may kalahating oras.",
+    "reference": "Pahayag 8:1 (ADB1905)",
+    "connected_to": "Pahayag 8:2"
+  },
+  {
+    "text": "At nakita ko ang pitong anghel na nangakatayo sa harapan ng Dios; at sila'y binigyan ng pitong pakakak.",
+    "reference": "Pahayag 8:2 (ADB1905)",
+    "connected_to": "Pahayag 8:3",
+    "connected_from": "Pahayag 8:1"
+  },
+  {
+    "text": "At dumating ang ibang anghel at tumayo sa harap ng dambana, na may hawak na isang gintong pangsuob ng kamangyan; at binigyan siya ng maraming kamangyan, upang idagdag ito sa mga panalangin ng lahat ng mga banal sa ibabaw ng dambanang ginto, na nasa harapan ng luklukan.",
+    "reference": "Pahayag 8:3 (ADB1905)",
+    "connected_to": "Pahayag 8:4",
+    "connected_from": "Pahayag 8:2"
+  },
+  {
+    "text": "At ang usok ng kamangyan, kalakip ng mga panalangin ng mga banal, ay napailanglang mula sa kamay ng anghel, sa harapan ng Dios.",
+    "reference": "Pahayag 8:4 (ADB1905)",
+    "connected_to": "Pahayag 8:5",
+    "connected_from": "Pahayag 8:3"
+  },
+  {
+    "text": "At kinuha ng anghel ang pangsuob ng kamangyan; at pinuno niya ng apoy ng dambana, at itinapon sa lupa: at nagkaroon ng mga kulog, at mga tinig, at mga kidlat, at ng isang lindol.",
+    "reference": "Pahayag 8:5 (ADB1905)",
+    "connected_to": "Pahayag 8:6",
+    "connected_from": "Pahayag 8:4"
+  },
+  {
+    "text": "At ang pitong anghel na may pitong pakakak ay nagsihanda upang magsihihip.",
+    "reference": "Pahayag 8:6 (ADB1905)",
+    "connected_to": "Pahayag 8:7",
+    "connected_from": "Pahayag 8:5"
+  },
+  {
+    "text": "At humihip ang una, at nagkaroon ng granizo at apoy, na may halong dugo, at itinapon sa lupa: at ang ikatlong bahagi ng lupa ay nasunog, at ang ikatlong bahagi ng mga punong kahoy ay nasunog, at ang lahat ng sariwang damo ay nasunog.",
+    "reference": "Pahayag 8:7 (ADB1905)",
+    "connected_to": "Pahayag 8:8",
+    "connected_from": "Pahayag 8:6"
+  },
+  {
+    "text": "At humihip ang ikalawang anghel, at ang tulad sa isang malaking bundok na nagliliyab sa apoy ay nabulusok sa dagat: at ang ikatlong bahagi ng dagat ay naging dugo;",
+    "reference": "Pahayag 8:8 (ADB1905)",
+    "connected_to": "Pahayag 8:9",
+    "connected_from": "Pahayag 8:7"
+  },
+  {
+    "text": "At namatay ang ikatlong bahagi ng mga nilalang na nasa dagat, na mga may buhay; at ang ikatlong bahagi sa mga daong ay nawalat.",
+    "reference": "Pahayag 8:9 (ADB1905)",
+    "connected_to": "Pahayag 8:10",
+    "connected_from": "Pahayag 8:8"
+  },
+  {
+    "text": "At humihip ang ikatlong anghel, at nahulog mula sa langit ang isang malaking bituin, na nagliliyab na gaya ng isang sulo, at nahulog sa ikatlong bahagi ng mga ilog, at sa mga bukal ng tubig;",
+    "reference": "Pahayag 8:10 (ADB1905)",
+    "connected_to": "Pahayag 8:11",
+    "connected_from": "Pahayag 8:9"
+  },
+  {
+    "text": "At ang pangalan ng bituin ay Ajenjo: at ang ikatlong bahagi ng tubig ay naging ajenjo; at maraming tao ay nangamatay dahil sa tubig, sapagka't mapait ang tubig.",
+    "reference": "Pahayag 8:11 (ADB1905)",
+    "connected_to": "Pahayag 8:12",
+    "connected_from": "Pahayag 8:10"
+  },
+  {
+    "text": "At humihip ang ikaapat na anghel, at nasugatan ang ikatlong bahagi ng araw, at ang ikatlong bahagi ng buwan, at ang ikatlong bahagi ng bituin; upang magdilim ang ikatlong bahagi nila, at upang ang ikatlong bahagi ng maghapon ay huwag lumiwanag, at gayon din naman ang gabi.",
+    "reference": "Pahayag 8:12 (ADB1905)",
+    "connected_to": "Pahayag 8:13",
+    "connected_from": "Pahayag 8:11"
+  },
+  {
+    "text": "At nakita ko, at narinig ko ang isang anghel, na lumilipad sa pagitan ng langit, na nagsasabi ng malakas na tinig, Sa aba, sa aba, sa aba ng mga nananahan sa ibabaw ng lupa, dahil sa mga ibang tunog ng pakakak ng tatlong anghel, na magsisihihip pa.",
+    "reference": "Pahayag 8:13 (ADB1905)",
+    "connected_from": "Pahayag 8:12"
+  }
+]

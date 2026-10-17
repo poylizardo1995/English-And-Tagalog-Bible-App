@@ -1,0 +1,78 @@
+[
+  {
+    "text": "Iligtas mo ako, Oh Panginoon, sa masamang tao; ingatan mo ako sa marahas na tao:",
+    "reference": "Mga Awit 140:1 (ADB1905)",
+    "connected_to": "Mga Awit 140:2"
+  },
+  {
+    "text": "Na nagaakala ng kasamaan sa kanilang puso: laging nagpipipisan sila sa pagdidigma.",
+    "reference": "Mga Awit 140:2 (ADB1905)",
+    "connected_to": "Mga Awit 140:3",
+    "connected_from": "Mga Awit 140:1"
+  },
+  {
+    "text": "Kanilang inihasa ang kanilang dila na parang ahas; kamandag ng mga ahas ay nasa kanilang mga labi. (Selah)",
+    "reference": "Mga Awit 140:3 (ADB1905)",
+    "connected_to": "Mga Awit 140:4",
+    "connected_from": "Mga Awit 140:2"
+  },
+  {
+    "text": "Ingatan mo ako, Oh Panginoon, sa mga kamay ng masama; ingatan mo ako sa marahas na tao: na nagakalang iligaw ang aking mga hakbang.",
+    "reference": "Mga Awit 140:4 (ADB1905)",
+    "connected_to": "Mga Awit 140:5",
+    "connected_from": "Mga Awit 140:3"
+  },
+  {
+    "text": "Ipinagkubli ako ng palalo ng silo, at ng mga panali; kanilang ipinaglagay ako ng bating sa tabi ng daan; sila'y naglagay ng mga silo na ukol sa akin. (Selah)",
+    "reference": "Mga Awit 140:5 (ADB1905)",
+    "connected_to": "Mga Awit 140:6",
+    "connected_from": "Mga Awit 140:4"
+  },
+  {
+    "text": "Aking sinabi sa Panginoon. Ikaw ay Dios ko: Pakinggan mo ang tinig ng aking mga dalangin, Oh Panginoon.",
+    "reference": "Mga Awit 140:6 (ADB1905)",
+    "connected_to": "Mga Awit 140:7",
+    "connected_from": "Mga Awit 140:5"
+  },
+  {
+    "text": "Oh Dios na Panginoon, na kalakasan ng aking kaligtasan, iyong tinakpan ang ulo ko sa kaarawan ng pagbabaka.",
+    "reference": "Mga Awit 140:7 (ADB1905)",
+    "connected_to": "Mga Awit 140:8",
+    "connected_from": "Mga Awit 140:6"
+  },
+  {
+    "text": "Huwag mong ipagkaloob, Oh Panginoon, ang mga nasa ng masama; huwag mong papangyarihin ang kaniyang masamang haka; baka sila'y mangagmalaki. (Selah)",
+    "reference": "Mga Awit 140:8 (ADB1905)",
+    "connected_to": "Mga Awit 140:9",
+    "connected_from": "Mga Awit 140:7"
+  },
+  {
+    "text": "Tungkol sa ulo niyaong nagsisikubkob sa aking palibot, takpan sila ng kasamaan ng kanilang sariling mga labi.",
+    "reference": "Mga Awit 140:9 (ADB1905)",
+    "connected_to": "Mga Awit 140:10",
+    "connected_from": "Mga Awit 140:8"
+  },
+  {
+    "text": "Mahulog sa kanila ang mga bagang nagniningas: mangahagis sila sa apoy; sa mga malalim na hukay, upang huwag na silang mangakabangon uli.",
+    "reference": "Mga Awit 140:10 (ADB1905)",
+    "connected_to": "Mga Awit 140:11",
+    "connected_from": "Mga Awit 140:9"
+  },
+  {
+    "text": "Ang mapagsalita ng masama ay hindi matatatag sa lupa: huhulihin ng kasamaan ang marahas na lalake upang ibuwal siya.",
+    "reference": "Mga Awit 140:11 (ADB1905)",
+    "connected_to": "Mga Awit 140:12",
+    "connected_from": "Mga Awit 140:10"
+  },
+  {
+    "text": "Nalalaman ko na aalalayan ng Panginoon ang usap ng nagdadalamhati, at ang matuwid ng mapagkailangan.",
+    "reference": "Mga Awit 140:12 (ADB1905)",
+    "connected_to": "Mga Awit 140:13",
+    "connected_from": "Mga Awit 140:11"
+  },
+  {
+    "text": "Walang pagsalang ang matuwid ay magpapasalamat sa iyong pangalan: ang matuwid ay tatahan sa iyong harapan.",
+    "reference": "Mga Awit 140:13 (ADB1905)",
+    "connected_from": "Mga Awit 140:12"
+  }
+]

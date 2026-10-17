@@ -1,0 +1,48 @@
+[
+  {
+    "text": "Sagutin mo ako, pagka tumatawag ako, Oh Dios ng aking katuwiran; inilagay mo ako sa kaluwagan, nang ako'y nasa kagipitan: maawa ka sa akin, at dinggin mo ang aking dalangin.",
+    "reference": "Mga Awit 4:1 (ADB1905)",
+    "connected_to": "Mga Awit 4:2"
+  },
+  {
+    "text": "Oh kayong mga anak ng tao, hanggang kailan magiging kasiraang puri ang aking kaluwalhatian? Gaano katagal iibigin ninyo ang walang kabuluhan, at hahanap sa kabulaanan? (Selah)",
+    "reference": "Mga Awit 4:2 (ADB1905)",
+    "connected_to": "Mga Awit 4:3",
+    "connected_from": "Mga Awit 4:1"
+  },
+  {
+    "text": "Nguni't talastasin ninyo na ibinukod ng Panginoon sa ganang kaniyang sarili ang banal: didinggin ng Panginoon pagka ako'y tumawag sa kaniya.",
+    "reference": "Mga Awit 4:3 (ADB1905)",
+    "connected_to": "Mga Awit 4:4",
+    "connected_from": "Mga Awit 4:2"
+  },
+  {
+    "text": "Kayo'y magsipanginig, at huwag mangagkasala: mangagbulaybulay kayo ng inyong puso sa inyong higaan, at kayo'y magsitahimik.",
+    "reference": "Mga Awit 4:4 (ADB1905)",
+    "connected_to": "Mga Awit 4:5",
+    "connected_from": "Mga Awit 4:3"
+  },
+  {
+    "text": "Mangaghandog kayo ng mga hain ng katuwiran, at ilagak ninyo ang inyong tiwala sa Panginoon.",
+    "reference": "Mga Awit 4:5 (ADB1905)",
+    "connected_to": "Mga Awit 4:6",
+    "connected_from": "Mga Awit 4:4"
+  },
+  {
+    "text": "Marami ang mangagsasabi, sinong magpapakita sa amin ng mabuti? Panginoon, pasilangin mo ang liwanag ng iyong mukha sa amin.",
+    "reference": "Mga Awit 4:6 (ADB1905)",
+    "connected_to": "Mga Awit 4:7",
+    "connected_from": "Mga Awit 4:5"
+  },
+  {
+    "text": "Ikaw ay naglagay ng kasayahan sa aking puso, ng higit kay sa kanilang tinatangkilik nang ang kanilang butil, at kanilang alak ay magsidami.",
+    "reference": "Mga Awit 4:7 (ADB1905)",
+    "connected_to": "Mga Awit 4:8",
+    "connected_from": "Mga Awit 4:6"
+  },
+  {
+    "text": "Payapa akong hihiga at gayon din matutulog: sapagka't ikaw, Panginoon, pinatatahan mo akong mag-isa sa katiwasayan.",
+    "reference": "Mga Awit 4:8 (ADB1905)",
+    "connected_from": "Mga Awit 4:7"
+  }
+]

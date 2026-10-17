@@ -1,0 +1,120 @@
+[
+  {
+    "text": "At ang buhay ni Sara ay tumagal ng isang daan at dalawang pu't pitong taon: ito ang naging mga taon ng buhay ni Sara.",
+    "reference": "Genesis 23:1 (ADB1905)",
+    "connected_to": "Genesis 23:2"
+  },
+  {
+    "text": "At namatay si Sara sa Kiriatharba (na siyang Hebron), sa lupain ng Canaan: at naparoon si Abraham na ipinagluksa si Sara at iniyakan.",
+    "reference": "Genesis 23:2 (ADB1905)",
+    "connected_to": "Genesis 23:3",
+    "connected_from": "Genesis 23:1"
+  },
+  {
+    "text": "At tumindig si Abraham sa harap ng kaniyang patay, at nagsalita sa mga anak ni Heth, na sinasabi,",
+    "reference": "Genesis 23:3 (ADB1905)",
+    "connected_to": "Genesis 23:4",
+    "connected_from": "Genesis 23:2"
+  },
+  {
+    "text": "Ako'y tagaibang bayan at nakikipamayan sa inyo: bigyan ninyo ako ng isang pag-aaring libingan sa gitna ninyo, upang aking ilibing ang aking patay, na malingid sa aking paningin.",
+    "reference": "Genesis 23:4 (ADB1905)",
+    "connected_to": "Genesis 23:5",
+    "connected_from": "Genesis 23:3"
+  },
+  {
+    "text": "At ang mga anak ni Heth ay sumagot kay Abraham, na nagsasabi sa kaniya,",
+    "reference": "Genesis 23:5 (ADB1905)",
+    "connected_to": "Genesis 23:6",
+    "connected_from": "Genesis 23:4"
+  },
+  {
+    "text": "Dinggin mo kami, panginoon ko: ikaw ay prinsipe ng Dios sa gitna namin: sa pinakahirang sa aming mga libingan ay ilibing mo ang iyong patay; wala sa amin na magkakait sa iyo ng kaniyang libingan, upang paglibingan ng iyong patay.",
+    "reference": "Genesis 23:6 (ADB1905)",
+    "connected_to": "Genesis 23:7",
+    "connected_from": "Genesis 23:5"
+  },
+  {
+    "text": "At tumindig si Abraham, at yumukod sa bayan ng lupain, sa mga anak nga ni Heth.",
+    "reference": "Genesis 23:7 (ADB1905)",
+    "connected_to": "Genesis 23:8",
+    "connected_from": "Genesis 23:6"
+  },
+  {
+    "text": "At nakiusap sa kanila, na sinasabi, Kung kalooban ninyo na aking ilibing ang aking patay na malingid sa aking paningin, ay dinggin ninyo ako, at pamagitanan ninyo ako kay Ephron, na anak ni Zohar,",
+    "reference": "Genesis 23:8 (ADB1905)",
+    "connected_to": "Genesis 23:9",
+    "connected_from": "Genesis 23:7"
+  },
+  {
+    "text": "Upang ibigay niya sa akin ang yungib ng Macpela, na kaniyang inaari, na nasa hangganan ng kaniyang parang; sa tapat na halaga ay ibigay niya sa akin, upang maging pag-aaring libingan sa gitna ninyo.",
+    "reference": "Genesis 23:9 (ADB1905)",
+    "connected_to": "Genesis 23:10",
+    "connected_from": "Genesis 23:8"
+  },
+  {
+    "text": "Si Ephron nga ay nakaupo sa gitna ng mga anak ni Heth: at sumagot si Ephron na Hetheo kay Abraham, sa harap ng mga anak ni Heth, na naririnig ng lahat na pumapasok sa pintuan ng bayan, na sinasabi,",
+    "reference": "Genesis 23:10 (ADB1905)",
+    "connected_to": "Genesis 23:11",
+    "connected_from": "Genesis 23:9"
+  },
+  {
+    "text": "Hindi, panginoon ko, dinggin mo ako: ang parang ay ibinibigay ko sa iyo, at ang yungib na naroroon ay ibinibigay ko sa iyo; sa harap ng mga anak ng aking bayan, ay ibinigay ko sa iyo: ilibing mo ang iyong patay.",
+    "reference": "Genesis 23:11 (ADB1905)",
+    "connected_to": "Genesis 23:12",
+    "connected_from": "Genesis 23:10"
+  },
+  {
+    "text": "At si Abraham ay yumukod sa harapan ng bayan ng lupain.",
+    "reference": "Genesis 23:12 (ADB1905)",
+    "connected_to": "Genesis 23:13",
+    "connected_from": "Genesis 23:11"
+  },
+  {
+    "text": "At nagsalita kay Ephron sa harap ng bayan ng lupain, na sinasabi, Maanong ako lamang ay iyong pakinggan: ibibigay ko sa iyo ang halaga ng parang; tanggapin mo sa akin, at ililibing ko roon ang aking patay.",
+    "reference": "Genesis 23:13 (ADB1905)",
+    "connected_to": "Genesis 23:14",
+    "connected_from": "Genesis 23:12"
+  },
+  {
+    "text": "At sumagot si Ephron kay Abraham, na sinasabi sa kaniya,",
+    "reference": "Genesis 23:14 (ADB1905)",
+    "connected_to": "Genesis 23:15",
+    "connected_from": "Genesis 23:13"
+  },
+  {
+    "text": "Panginoon ko, dinggin mo ako: isang putol ng lupa na ang halaga'y apat na raang siklong pilak: gaano sa akin at sa iyo? ilibing mo nga ang iyong patay.",
+    "reference": "Genesis 23:15 (ADB1905)",
+    "connected_to": "Genesis 23:16",
+    "connected_from": "Genesis 23:14"
+  },
+  {
+    "text": "At dininig ni Abraham si Ephron; at tinimbang ni Abraham kay Ephron ang salaping sinabi, sa harap ng mga anak ni Heth, apat na raang siklong pilak, na karaniwang salapi ng mga mangangalakal.",
+    "reference": "Genesis 23:16 (ADB1905)",
+    "connected_to": "Genesis 23:17",
+    "connected_from": "Genesis 23:15"
+  },
+  {
+    "text": "Kaya't ang parang ni Ephron na nasa Macpela, na nasa tapat ng Mamre, ang parang at ang yungib na nandoon, at ang lahat ng mga punong kahoy na nasa parang na yaon, na ang nasa buong hangganan niyaon sa palibot, ay pinagtibay",
+    "reference": "Genesis 23:17 (ADB1905)",
+    "connected_to": "Genesis 23:18",
+    "connected_from": "Genesis 23:16"
+  },
+  {
+    "text": "Kay Abraham na pag-aari sa harap ng mga anak ni Heth, sa harapan ng lahat ng nagsisipasok sa pintuang daan ng kaniyang bayan.",
+    "reference": "Genesis 23:18 (ADB1905)",
+    "connected_to": "Genesis 23:19",
+    "connected_from": "Genesis 23:17"
+  },
+  {
+    "text": "At pagkatapos nito ay inilibing ni Abraham si Sara na kaniyang asawa sa yungib ng parang sa Macpela sa tapat ng Mamre (na siyang Hebron) sa lupain ng Canaan.",
+    "reference": "Genesis 23:19 (ADB1905)",
+    "connected_to": "Genesis 23:20",
+    "connected_from": "Genesis 23:18"
+  },
+  {
+    "text": "At ang parang at ang yungib na naroroon, ay pinagtibay kay Abraham ng mga anak ni Heth, na pag-aaring libingan niya.",
+    "reference": "Genesis 23:20 (ADB1905)",
+    "connected_from": "Genesis 23:19"
+  }
+]

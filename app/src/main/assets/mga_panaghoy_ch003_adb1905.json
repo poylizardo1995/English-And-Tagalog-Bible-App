@@ -1,0 +1,396 @@
+[
+  {
+    "text": "Ako ang tao na nakakita ng pagdadalamhati sa pamalo ng iyong poot.",
+    "reference": "Mga Panaghoy 3:1 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:2"
+  },
+  {
+    "text": "Ako'y kaniyang pinatnubayan at pinalakad sa kadiliman, at hindi sa liwanag.",
+    "reference": "Mga Panaghoy 3:2 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:3",
+    "connected_from": "Mga Panaghoy 3:1"
+  },
+  {
+    "text": "Tunay na laban sa akin ay kaniyang iginagalaw ang kaniyang kamay na muli't muli buong araw.",
+    "reference": "Mga Panaghoy 3:3 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:4",
+    "connected_from": "Mga Panaghoy 3:2"
+  },
+  {
+    "text": "Ang aking laman at aking balat ay pinatanda niya; kaniyang binali ang aking mga buto.",
+    "reference": "Mga Panaghoy 3:4 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:5",
+    "connected_from": "Mga Panaghoy 3:3"
+  },
+  {
+    "text": "Ako'y kinalaban niya, at kinulong ako ng hirap at pagdaramdam.",
+    "reference": "Mga Panaghoy 3:5 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:6",
+    "connected_from": "Mga Panaghoy 3:4"
+  },
+  {
+    "text": "Kaniyang pinatahan ako sa mga madilim na dako, gaya ng nangamatay nang malaon.",
+    "reference": "Mga Panaghoy 3:6 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:7",
+    "connected_from": "Mga Panaghoy 3:5"
+  },
+  {
+    "text": "Kaniyang binakuran ako na anopa't ako'y hindi makalabas; kaniyang pinabigat ang aking tanikala.",
+    "reference": "Mga Panaghoy 3:7 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:8",
+    "connected_from": "Mga Panaghoy 3:6"
+  },
+  {
+    "text": "Oo, pagka ako'y dumadaing, at humihinging tulong, kaniyang pinagsasarhan ang aking daing.",
+    "reference": "Mga Panaghoy 3:8 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:9",
+    "connected_from": "Mga Panaghoy 3:7"
+  },
+  {
+    "text": "Kaniyang binakuran ang aking mga daan ng tinabas na bato, kaniyang iniliko ang aking mga landas.",
+    "reference": "Mga Panaghoy 3:9 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:10",
+    "connected_from": "Mga Panaghoy 3:8"
+  },
+  {
+    "text": "Siya'y parang oso na nagaabang sa akin, parang leon sa mga kubling dako.",
+    "reference": "Mga Panaghoy 3:10 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:11",
+    "connected_from": "Mga Panaghoy 3:9"
+  },
+  {
+    "text": "Kaniyang iniligaw ang aking mga lakad, at ako'y pinagwaraywaray niya; kaniyang ipinahamak ako;",
+    "reference": "Mga Panaghoy 3:11 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:12",
+    "connected_from": "Mga Panaghoy 3:10"
+  },
+  {
+    "text": "Kaniyang iniakma ang kaniyang busog, at ginawa akong pinaka tanda sa pana.",
+    "reference": "Mga Panaghoy 3:12 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:13",
+    "connected_from": "Mga Panaghoy 3:11"
+  },
+  {
+    "text": "Ang mga pana ng kaniyang lalagyan ng pana ay kaniyang isinasaksak sa aking mga bato ng katawan.",
+    "reference": "Mga Panaghoy 3:13 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:14",
+    "connected_from": "Mga Panaghoy 3:12"
+  },
+  {
+    "text": "Ako'y naging kakutyaan sa aking buong bayan, at kanilang awit buong araw.",
+    "reference": "Mga Panaghoy 3:14 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:15",
+    "connected_from": "Mga Panaghoy 3:13"
+  },
+  {
+    "text": "Kaniyang pinuspos ako ng kapanglawan, kaniyang sinuya ako ng ajenjo.",
+    "reference": "Mga Panaghoy 3:15 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:16",
+    "connected_from": "Mga Panaghoy 3:14"
+  },
+  {
+    "text": "Kaniya namang biningot ang aking mga ngipin ng mga maliliit na grava; kaniyang tinabunan ako ng mga abo.",
+    "reference": "Mga Panaghoy 3:16 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:17",
+    "connected_from": "Mga Panaghoy 3:15"
+  },
+  {
+    "text": "At iyong inilayo ang aking kaluluwa sa kapayapaan; ako'y nakalimot ng kaginhawahan.",
+    "reference": "Mga Panaghoy 3:17 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:18",
+    "connected_from": "Mga Panaghoy 3:16"
+  },
+  {
+    "text": "At aking sinabi, Ang lakas ko'y nawala, at ang aking pagasa sa Panginoon.",
+    "reference": "Mga Panaghoy 3:18 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:19",
+    "connected_from": "Mga Panaghoy 3:17"
+  },
+  {
+    "text": "Alalahanin mo ang aking pagdadalamhati at ang aking karalitaan, ang ajenjo at ng apdo.",
+    "reference": "Mga Panaghoy 3:19 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:20",
+    "connected_from": "Mga Panaghoy 3:18"
+  },
+  {
+    "text": "Ang kaluluwa ko'y naaalaala pa nila, at napangumbaba sa loob ko.",
+    "reference": "Mga Panaghoy 3:20 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:21",
+    "connected_from": "Mga Panaghoy 3:19"
+  },
+  {
+    "text": "Ito ang ginugunita ko sa aking pagiisip; kaya't may pagasa ako.",
+    "reference": "Mga Panaghoy 3:21 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:22",
+    "connected_from": "Mga Panaghoy 3:20"
+  },
+  {
+    "text": "Sa mga kaawaan nga ng Panginoon ay hindi tayo nalipol, sapagka't ang kaniyang mga habag ay hindi nauubos.",
+    "reference": "Mga Panaghoy 3:22 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:23",
+    "connected_from": "Mga Panaghoy 3:21"
+  },
+  {
+    "text": "Ang mga yao'y bago tuwing umaga, dakila ang inyong pagtatapat.",
+    "reference": "Mga Panaghoy 3:23 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:24",
+    "connected_from": "Mga Panaghoy 3:22"
+  },
+  {
+    "text": "Ang Panginoon ay aking bahagi, sabi ng aking kaluluwa; kaya't ako'y aasa sa kaniya.",
+    "reference": "Mga Panaghoy 3:24 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:25",
+    "connected_from": "Mga Panaghoy 3:23"
+  },
+  {
+    "text": "Ang Panginoon ay mabuti sa kanila na nangaghihintay sa kaniya, sa kaluluwa na humahanap sa kaniya.",
+    "reference": "Mga Panaghoy 3:25 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:26",
+    "connected_from": "Mga Panaghoy 3:24"
+  },
+  {
+    "text": "Mabuti nga na ang tao ay umasa at maghintay na tahimik sa pagliligtas ng Panginoon.",
+    "reference": "Mga Panaghoy 3:26 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:27",
+    "connected_from": "Mga Panaghoy 3:25"
+  },
+  {
+    "text": "Mabuti nga sa tao na magpasan ng pamatok sa kaniyang kabataan.",
+    "reference": "Mga Panaghoy 3:27 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:28",
+    "connected_from": "Mga Panaghoy 3:26"
+  },
+  {
+    "text": "Maupo siyang magisa at tumahimik, sapagka't kaniyang iniatang sa kaniya.",
+    "reference": "Mga Panaghoy 3:28 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:29",
+    "connected_from": "Mga Panaghoy 3:27"
+  },
+  {
+    "text": "Sumubsob siya sa alabok, kung gayo'y magkakaroon siya ng pagasa.",
+    "reference": "Mga Panaghoy 3:29 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:30",
+    "connected_from": "Mga Panaghoy 3:28"
+  },
+  {
+    "text": "Ibigay niya ang kaniyang pisngi sa sumasakit sa kaniya; mapuspos siya ng kadustaan.",
+    "reference": "Mga Panaghoy 3:30 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:31",
+    "connected_from": "Mga Panaghoy 3:29"
+  },
+  {
+    "text": "Sapagka't ang Panginoon ay hindi magtatakuwil magpakailan man.",
+    "reference": "Mga Panaghoy 3:31 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:32",
+    "connected_from": "Mga Panaghoy 3:30"
+  },
+  {
+    "text": "Sapagka't bagaman siya'y nagpapapanglaw, gayon ma'y magpapakita siya ng habag ayon sa kasaganaan ng kaniyang mga kaawaan.",
+    "reference": "Mga Panaghoy 3:32 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:33",
+    "connected_from": "Mga Panaghoy 3:31"
+  },
+  {
+    "text": "Sapagka't siya'y hindi kusang dumadalamhati, o nagpapapanglaw man sa mga anak ng mga tao.",
+    "reference": "Mga Panaghoy 3:33 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:34",
+    "connected_from": "Mga Panaghoy 3:32"
+  },
+  {
+    "text": "Na yapakan sa ilalim ng paa ang lahat ng bihag sa lupa.",
+    "reference": "Mga Panaghoy 3:34 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:35",
+    "connected_from": "Mga Panaghoy 3:33"
+  },
+  {
+    "text": "Na iliko ang matuwid ng tao sa harap ng mukha ng Kataastaasan,",
+    "reference": "Mga Panaghoy 3:35 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:36",
+    "connected_from": "Mga Panaghoy 3:34"
+  },
+  {
+    "text": "Na iligaw ang tao sa kaniyang usap, hindi kinalulugdan ng Panginoon.",
+    "reference": "Mga Panaghoy 3:36 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:37",
+    "connected_from": "Mga Panaghoy 3:35"
+  },
+  {
+    "text": "Sino siya na nagsasabi, at nangyayari, kung hindi iniuutos ng Panginoon?",
+    "reference": "Mga Panaghoy 3:37 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:38",
+    "connected_from": "Mga Panaghoy 3:36"
+  },
+  {
+    "text": "Hindi baga sa bibig ng Kataastaasan nanggagaling ang masama't mabuti?",
+    "reference": "Mga Panaghoy 3:38 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:39",
+    "connected_from": "Mga Panaghoy 3:37"
+  },
+  {
+    "text": "Bakit dumadaing ang taong may buhay, ang tao dahil sa parusa sa kaniyang mga kasalanan?",
+    "reference": "Mga Panaghoy 3:39 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:40",
+    "connected_from": "Mga Panaghoy 3:38"
+  },
+  {
+    "text": "Ating usisain at suriin ang ating mga lakad, at manumbalik sa Panginoon.",
+    "reference": "Mga Panaghoy 3:40 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:41",
+    "connected_from": "Mga Panaghoy 3:39"
+  },
+  {
+    "text": "Igawad natin ang ating puso sangpu ng ating mga kamay sa Dios sa langit.",
+    "reference": "Mga Panaghoy 3:41 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:42",
+    "connected_from": "Mga Panaghoy 3:40"
+  },
+  {
+    "text": "Kami ay sumalangsang at nanghimagsik; ikaw ay hindi nagpatawad.",
+    "reference": "Mga Panaghoy 3:42 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:43",
+    "connected_from": "Mga Panaghoy 3:41"
+  },
+  {
+    "text": "Tinakpan mo ang iyong sarili ng galit at hinabol mo kami; ikaw ay pumatay, ikaw ay hindi naawa.",
+    "reference": "Mga Panaghoy 3:43 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:44",
+    "connected_from": "Mga Panaghoy 3:42"
+  },
+  {
+    "text": "Tinakpan mo ang iyong sarili ng alapaap, na anopa't hindi makadaan ang anomang panalangin.",
+    "reference": "Mga Panaghoy 3:44 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:45",
+    "connected_from": "Mga Panaghoy 3:43"
+  },
+  {
+    "text": "Iyong ginawa kaming parang tapon at dumi sa gitna ng mga bayan.",
+    "reference": "Mga Panaghoy 3:45 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:46",
+    "connected_from": "Mga Panaghoy 3:44"
+  },
+  {
+    "text": "Ibinukang maluwang ng lahat naming kaaway ang kanilang bibig laban sa amin.",
+    "reference": "Mga Panaghoy 3:46 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:47",
+    "connected_from": "Mga Panaghoy 3:45"
+  },
+  {
+    "text": "Takot at ang hukay ay dumating sa amin, ang pagkasira at pagkagiba.",
+    "reference": "Mga Panaghoy 3:47 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:48",
+    "connected_from": "Mga Panaghoy 3:46"
+  },
+  {
+    "text": "Ang mata ko'y dumadaloy ng mga ilog ng tubig, dahil sa pagkapahamak ng anak na babae ng aking bayan.",
+    "reference": "Mga Panaghoy 3:48 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:49",
+    "connected_from": "Mga Panaghoy 3:47"
+  },
+  {
+    "text": "Ang mata ko'y dinadaluyan at hindi naglilikat, na walang pagitan.",
+    "reference": "Mga Panaghoy 3:49 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:50",
+    "connected_from": "Mga Panaghoy 3:48"
+  },
+  {
+    "text": "Hanggang sa ang Panginoon ay tumungo, at tumingin mula sa langit.",
+    "reference": "Mga Panaghoy 3:50 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:51",
+    "connected_from": "Mga Panaghoy 3:49"
+  },
+  {
+    "text": "Kinikilos ng aking mata ang aking kaluluwa, dahil sa lahat na anak na babae ng aking bayan.",
+    "reference": "Mga Panaghoy 3:51 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:52",
+    "connected_from": "Mga Panaghoy 3:50"
+  },
+  {
+    "text": "Lubha nila akong hinahabol na parang ibon, na mga kaaway kong walang kadahilanan.",
+    "reference": "Mga Panaghoy 3:52 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:53",
+    "connected_from": "Mga Panaghoy 3:51"
+  },
+  {
+    "text": "Kanilang pinaikli ang aking buhay sa bilangguan at hinagis ako ng bato.",
+    "reference": "Mga Panaghoy 3:53 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:54",
+    "connected_from": "Mga Panaghoy 3:52"
+  },
+  {
+    "text": "Tubig ay nagsisihuho sa aking ulo; aking sinabi, Ako'y nahiwalay.",
+    "reference": "Mga Panaghoy 3:54 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:55",
+    "connected_from": "Mga Panaghoy 3:53"
+  },
+  {
+    "text": "Ako'y tumawag sa iyong pangalan, Oh Panginoon, mula sa kababababaang hukay.",
+    "reference": "Mga Panaghoy 3:55 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:56",
+    "connected_from": "Mga Panaghoy 3:54"
+  },
+  {
+    "text": "Iyong dininig ang aking tinig; huwag mong ikubli ang iyong pakinig sa aking hingal, sa aking daing.",
+    "reference": "Mga Panaghoy 3:56 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:57",
+    "connected_from": "Mga Panaghoy 3:55"
+  },
+  {
+    "text": "Ikaw ay lumapit sa araw na ako'y tumawag sa iyo; iyong sinabi, Huwag kang matakot.",
+    "reference": "Mga Panaghoy 3:57 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:58",
+    "connected_from": "Mga Panaghoy 3:56"
+  },
+  {
+    "text": "Oh Panginoon, iyong ipinagsanggalang ang mga usap ng aking kaluluwa; iyong tinubos ang aking buhay.",
+    "reference": "Mga Panaghoy 3:58 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:59",
+    "connected_from": "Mga Panaghoy 3:57"
+  },
+  {
+    "text": "Oh Panginoon, iyong nakita ang aking pagkakamali; hatulan mo ang aking usap.",
+    "reference": "Mga Panaghoy 3:59 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:60",
+    "connected_from": "Mga Panaghoy 3:58"
+  },
+  {
+    "text": "Iyong nakita ang lahat nilang panghihiganti, at ang lahat nilang pasiya laban sa akin.",
+    "reference": "Mga Panaghoy 3:60 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:61",
+    "connected_from": "Mga Panaghoy 3:59"
+  },
+  {
+    "text": "Iyong narinig ang kanilang pagduwahagi, Oh Panginoon, at lahat nilang pasiya laban sa akin,",
+    "reference": "Mga Panaghoy 3:61 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:62",
+    "connected_from": "Mga Panaghoy 3:60"
+  },
+  {
+    "text": "Ang mga labi ng nagsisibangon laban sa akin, at ang kanilang pasiya laban sa akin buong araw.",
+    "reference": "Mga Panaghoy 3:62 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:63",
+    "connected_from": "Mga Panaghoy 3:61"
+  },
+  {
+    "text": "Masdan mo ang kanilang pagupo, at ang kanilang pagtayo; ako ang kanilang awit.",
+    "reference": "Mga Panaghoy 3:63 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:64",
+    "connected_from": "Mga Panaghoy 3:62"
+  },
+  {
+    "text": "Ikaw ay magbibigay sa kanila ng kagantihan, Oh Panginoon, ayon sa gawa ng kanilang mga kamay.",
+    "reference": "Mga Panaghoy 3:64 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:65",
+    "connected_from": "Mga Panaghoy 3:63"
+  },
+  {
+    "text": "Iyong papagmamatigasin ang kanilang puso, ang iyong sumpa sa kanila.",
+    "reference": "Mga Panaghoy 3:65 (ADB1905)",
+    "connected_to": "Mga Panaghoy 3:66",
+    "connected_from": "Mga Panaghoy 3:64"
+  },
+  {
+    "text": "Iyong hahabulin sila sa galit, at iyong lilipulin sila mula sa silong ng langit ng Panginoon.",
+    "reference": "Mga Panaghoy 3:66 (ADB1905)",
+    "connected_from": "Mga Panaghoy 3:65"
+  }
+]

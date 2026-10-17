@@ -1,0 +1,216 @@
+[
+  {
+    "text": "Ito nga ang mga hatol na igagawad mo sa harap nila.",
+    "reference": "Exodo 21:1 (ADB1905)",
+    "connected_to": "Exodo 21:2"
+  },
+  {
+    "text": "Kung ikaw ay bumili ng isang aliping Hebreo, ay anim na taong maglilingkod siya; at sa ikapito ay aalis siyang laya na walang sauling bayad.",
+    "reference": "Exodo 21:2 (ADB1905)",
+    "connected_to": "Exodo 21:3",
+    "connected_from": "Exodo 21:1"
+  },
+  {
+    "text": "Kung siya'y pumasok na magisa, ay aalis na mag-isa: kung may asawa ay aalis nga ang kaniyang asawa na kasama niya.",
+    "reference": "Exodo 21:3 (ADB1905)",
+    "connected_to": "Exodo 21:4",
+    "connected_from": "Exodo 21:2"
+  },
+  {
+    "text": "Kung siya'y bigyan ng kaniyang panginoon ng asawa, at magkaanak sa kaniya ng mga lalake, o mga babae; ang asawa at ang kaniyang mga anak ay magiging sa kaniyang panginoon, at siya'y aalis na magisa.",
+    "reference": "Exodo 21:4 (ADB1905)",
+    "connected_to": "Exodo 21:5",
+    "connected_from": "Exodo 21:3"
+  },
+  {
+    "text": "Datapuwa't kung maliwanag na sabihin ng alipin, Aking iniibig ang aking panginoon, ang aking asawa, at ang aking mga anak; ako'y hindi aalis na laya:",
+    "reference": "Exodo 21:5 (ADB1905)",
+    "connected_to": "Exodo 21:6",
+    "connected_from": "Exodo 21:4"
+  },
+  {
+    "text": "Kung magkagayo'y dadalhin siya ng kaniyang panginoon sa Dios, at dadalhin siya sa pinto, o sa haligi ng pinto; at bubutasan ng kaniyang panginoon ang kaniyang tainga ng isang pangbutas; at paglilingkuran niya siya magpakailan man.",
+    "reference": "Exodo 21:6 (ADB1905)",
+    "connected_to": "Exodo 21:7",
+    "connected_from": "Exodo 21:5"
+  },
+  {
+    "text": "At kung ipagbili ng isang lalake ang kaniyang anak na babae na maging alipin, ay hindi siya aalis na gaya ng pagalis ng mga aliping lalake.",
+    "reference": "Exodo 21:7 (ADB1905)",
+    "connected_to": "Exodo 21:8",
+    "connected_from": "Exodo 21:6"
+  },
+  {
+    "text": "Kung siya'y hindi makapagpalugod sa kaniyang panginoon, na umayaw magasawa sa kaniya, ay ipatutubos nga niya siya: walang kapangyarihang ipagbili siya sa isang taga ibang lupa, yamang siya'y nadaya.",
+    "reference": "Exodo 21:8 (ADB1905)",
+    "connected_to": "Exodo 21:9",
+    "connected_from": "Exodo 21:7"
+  },
+  {
+    "text": "At kung pinapag-asawa ng bumili sa kaniyang anak na lalake, ay kaniyang ipalalagay siya ng ayon sa kaugalian sa mga anak na babae.",
+    "reference": "Exodo 21:9 (ADB1905)",
+    "connected_to": "Exodo 21:10",
+    "connected_from": "Exodo 21:8"
+  },
+  {
+    "text": "Kung siya'y magasawa sa iba, ang kaniyang pagkain, ang kaniyang damit at ang kaniyang kapangyarihang pagkaasawa ay hindi niya babawasan.",
+    "reference": "Exodo 21:10 (ADB1905)",
+    "connected_to": "Exodo 21:11",
+    "connected_from": "Exodo 21:9"
+  },
+  {
+    "text": "At kung hindi niya gawin ang tatlong bagay na ito sa kaniya ay aalis nga siya na walang bayad, na walang tubos na salapi.",
+    "reference": "Exodo 21:11 (ADB1905)",
+    "connected_to": "Exodo 21:12",
+    "connected_from": "Exodo 21:10"
+  },
+  {
+    "text": "Ang sumakit sa isang tao, na ano pa't mamatay ay papataying walang pagsala.",
+    "reference": "Exodo 21:12 (ADB1905)",
+    "connected_to": "Exodo 21:13",
+    "connected_from": "Exodo 21:11"
+  },
+  {
+    "text": "At kung hindi sinasadya ng isang tao, kundi Dios ang naghulog sa kaniyang kamay; ay lalaanan kita ng isang dako na kaniyang tatakasan.",
+    "reference": "Exodo 21:13 (ADB1905)",
+    "connected_to": "Exodo 21:14",
+    "connected_from": "Exodo 21:12"
+  },
+  {
+    "text": "At kung magtangka ang sinoman sa kaniyang kapuwa, na pumatay na may daya, ay alisin mo siya sa aking dambana, upang patayin.",
+    "reference": "Exodo 21:14 (ADB1905)",
+    "connected_to": "Exodo 21:15",
+    "connected_from": "Exodo 21:13"
+  },
+  {
+    "text": "At ang sumakit sa kaniyang ama o sa kaniyang ina, ay papataying walang pagsala.",
+    "reference": "Exodo 21:15 (ADB1905)",
+    "connected_to": "Exodo 21:16",
+    "connected_from": "Exodo 21:14"
+  },
+  {
+    "text": "At ang magnakaw ng isang tao, at ipagbili, o masumpungan sa kaniyang kamay, ay papataying walang pagsala.",
+    "reference": "Exodo 21:16 (ADB1905)",
+    "connected_to": "Exodo 21:17",
+    "connected_from": "Exodo 21:15"
+  },
+  {
+    "text": "At ang lumait sa kaniyang ama, o sa kaniyang ina, ay papataying walang pagsala.",
+    "reference": "Exodo 21:17 (ADB1905)",
+    "connected_to": "Exodo 21:18",
+    "connected_from": "Exodo 21:16"
+  },
+  {
+    "text": "At kung may magbabag, at saktan ng isa ang isa, ng bato, o ng kaniyang suntok, at hindi mamatay, kundi mahiga lamang sa banig:",
+    "reference": "Exodo 21:18 (ADB1905)",
+    "connected_to": "Exodo 21:19",
+    "connected_from": "Exodo 21:17"
+  },
+  {
+    "text": "Kung makabangon uli, at makalakad sa tulong ng kaniyang tungkod, ay ligtas nga yaong sumakit sa kaniya; pagbabayaran lamang niya ang panahong nasayang, at kaniyang pagagalinging maigi.",
+    "reference": "Exodo 21:19 (ADB1905)",
+    "connected_to": "Exodo 21:20",
+    "connected_from": "Exodo 21:18"
+  },
+  {
+    "text": "At kung saktan ng sinoman ang kaniyang aliping lalake o babae, ng tungkod at mamatay sa kaniyang kamay; ay parurusahan siyang walang pagsala.",
+    "reference": "Exodo 21:20 (ADB1905)",
+    "connected_to": "Exodo 21:21",
+    "connected_from": "Exodo 21:19"
+  },
+  {
+    "text": "Gayon ma'y kung tumagal ng isang araw o dalawa, ay hindi siya parurusahan: sapagka't siya'y kaniyang salapi.",
+    "reference": "Exodo 21:21 (ADB1905)",
+    "connected_to": "Exodo 21:22",
+    "connected_from": "Exodo 21:20"
+  },
+  {
+    "text": "At kung may magbabag, at makasakit ng isang babaing buntis, na ano pa't makunan, at gayon ma'y walang karamdamang sumunod: ay tunay na papagbabayarin siya, ayon sa iatang sa kaniya ng asawa ng babae; at siya'y magbabayad ng ayon sa ipasiya ng mga hukom.",
+    "reference": "Exodo 21:22 (ADB1905)",
+    "connected_to": "Exodo 21:23",
+    "connected_from": "Exodo 21:21"
+  },
+  {
+    "text": "Datapuwa't kung may anomang karamdamang sumunod, magbabayad ka nga ng buhay kung buhay,",
+    "reference": "Exodo 21:23 (ADB1905)",
+    "connected_to": "Exodo 21:24",
+    "connected_from": "Exodo 21:22"
+  },
+  {
+    "text": "Mata kung mata, ngipin kung ngipin, kamay kung kamay, paa kung paa,",
+    "reference": "Exodo 21:24 (ADB1905)",
+    "connected_to": "Exodo 21:25",
+    "connected_from": "Exodo 21:23"
+  },
+  {
+    "text": "Paso kung paso, sugat kung sugat, bugbog kung bugbog.",
+    "reference": "Exodo 21:25 (ADB1905)",
+    "connected_to": "Exodo 21:26",
+    "connected_from": "Exodo 21:24"
+  },
+  {
+    "text": "At kung saktan ng sinoman ang mata ng kaniyang aliping lalake, o ang mata ng kaniyang aliping babae at mabulag, ay kaniyang palalayain dahil sa kaniyang mata.",
+    "reference": "Exodo 21:26 (ADB1905)",
+    "connected_to": "Exodo 21:27",
+    "connected_from": "Exodo 21:25"
+  },
+  {
+    "text": "At kung kaniyang bungalan ang kaniyang aliping lalake, o babae, ay kaniyang palalayain dahil sa kaniyang ngipin.",
+    "reference": "Exodo 21:27 (ADB1905)",
+    "connected_to": "Exodo 21:28",
+    "connected_from": "Exodo 21:26"
+  },
+  {
+    "text": "At kung ang isang baka ay manuwag ng isang lalake o ng isang babae, na ano pa't mamatay, ay babatuhing walang pagsala ang baka at ang kaniyang lama'y hindi kakanin; datapuwa't ang may-ari ng baka ay maliligtas.",
+    "reference": "Exodo 21:28 (ADB1905)",
+    "connected_to": "Exodo 21:29",
+    "connected_from": "Exodo 21:27"
+  },
+  {
+    "text": "Datapuwa't kung ang baka ay dating manunuwag sa panahong nakaraan, at naisumbong na sa may-ari at hindi niya kinulong, na ano pa't makamatay ng isang lalake, o isang babae: ay babatuhin ang baka at ang may-ari naman ay papatayin.",
+    "reference": "Exodo 21:29 (ADB1905)",
+    "connected_to": "Exodo 21:30",
+    "connected_from": "Exodo 21:28"
+  },
+  {
+    "text": "Kung siya'y atangan ng katubusan ay magbibigay nga siya ng katubusan sa kaniyang buhay anomang iatang sa kaniya.",
+    "reference": "Exodo 21:30 (ADB1905)",
+    "connected_to": "Exodo 21:31",
+    "connected_from": "Exodo 21:29"
+  },
+  {
+    "text": "Maging manuwag sa isang anak na lalake o babae man, ay gagawin sa kaniya ayon sa kahatulang ito.",
+    "reference": "Exodo 21:31 (ADB1905)",
+    "connected_to": "Exodo 21:32",
+    "connected_from": "Exodo 21:30"
+  },
+  {
+    "text": "Kung ang baka ay manuwag sa isang aliping lalake o babae, ay magbabayad ang may-ari ng tatlong pung siklong pilak sa kanilang panginoon, at ang baka ay babatuhin.",
+    "reference": "Exodo 21:32 (ADB1905)",
+    "connected_to": "Exodo 21:33",
+    "connected_from": "Exodo 21:31"
+  },
+  {
+    "text": "At kung ang sinoman ay magbubukas ng isang balon, o huhukay ng isang balon at hindi tatakpan, at ang isang baka, o ang isang asno ay mahulog sa loob,",
+    "reference": "Exodo 21:33 (ADB1905)",
+    "connected_to": "Exodo 21:34",
+    "connected_from": "Exodo 21:32"
+  },
+  {
+    "text": "Ay sasaulian ng may-ari ng balon; magbabayad siya ng salapi sa may-ari ng mga yaon, at ang patay na hayop ay magiging kaniya.",
+    "reference": "Exodo 21:34 (ADB1905)",
+    "connected_to": "Exodo 21:35",
+    "connected_from": "Exodo 21:33"
+  },
+  {
+    "text": "At kung ang baka ng sinoman ay sumakit sa baka ng iba, na ano pa't mamatay; ay kanila ngang ipagbibili ang bakang buhay, at kanilang paghahatiin ang halaga niyaon; at ang patay ay paghahatiin din nila.",
+    "reference": "Exodo 21:35 (ADB1905)",
+    "connected_to": "Exodo 21:36",
+    "connected_from": "Exodo 21:34"
+  },
+  {
+    "text": "O kung kilala, na ang baka ay dating manunuwag sa panahong nakaraan, at hindi kinulong ng may-ari; ay tunay ngang magbabayad siya, ng baka kung baka, at ang patay na hayop ay magiging kaniyang sarili.",
+    "reference": "Exodo 21:36 (ADB1905)",
+    "connected_from": "Exodo 21:35"
+  }
+]

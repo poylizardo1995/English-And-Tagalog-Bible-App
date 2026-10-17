@@ -1,0 +1,90 @@
+[
+  {
+    "text": "Isang mabuting bagay ang magpapasalamat sa Panginoon, at umawit ng mga pagpuri sa iyong pangalan, Oh Kataastaasan:",
+    "reference": "Mga Awit 92:1 (ADB1905)",
+    "connected_to": "Mga Awit 92:2"
+  },
+  {
+    "text": "Upang magpakilala ng iyong kagandahang-loob sa umaga, at ng iyong pagtatapat gabigabi.",
+    "reference": "Mga Awit 92:2 (ADB1905)",
+    "connected_to": "Mga Awit 92:3",
+    "connected_from": "Mga Awit 92:1"
+  },
+  {
+    "text": "Na may panugtog na may sangpung kawad, at may salterio; na may dakilang tunog na alpa.",
+    "reference": "Mga Awit 92:3 (ADB1905)",
+    "connected_to": "Mga Awit 92:4",
+    "connected_from": "Mga Awit 92:2"
+  },
+  {
+    "text": "Sapagka't ikaw, Panginoon, iyong pinasaya ako sa iyong gawa: ako'y magtatagumpay sa mga gawa ng iyong mga kamay.",
+    "reference": "Mga Awit 92:4 (ADB1905)",
+    "connected_to": "Mga Awit 92:5",
+    "connected_from": "Mga Awit 92:3"
+  },
+  {
+    "text": "Kay dakila ng iyong mga gawa, Oh Panginoon! Ang iyong mga pagiisip ay totoong malalim.",
+    "reference": "Mga Awit 92:5 (ADB1905)",
+    "connected_to": "Mga Awit 92:6",
+    "connected_from": "Mga Awit 92:4"
+  },
+  {
+    "text": "Ang taong hangal ay hindi nakakaalam; ni nauunawa man ito ng mangmang.",
+    "reference": "Mga Awit 92:6 (ADB1905)",
+    "connected_to": "Mga Awit 92:7",
+    "connected_from": "Mga Awit 92:5"
+  },
+  {
+    "text": "Pagka ang masama ay lumilitaw na parang damo, at pagka gumiginhawa ang lahat na manggagawa ng kasamaan; ay upang mangalipol sila magpakailan man:",
+    "reference": "Mga Awit 92:7 (ADB1905)",
+    "connected_to": "Mga Awit 92:8",
+    "connected_from": "Mga Awit 92:6"
+  },
+  {
+    "text": "Nguni't ikaw, Oh Panginoon, ay mataas magpakailan man.",
+    "reference": "Mga Awit 92:8 (ADB1905)",
+    "connected_to": "Mga Awit 92:9",
+    "connected_from": "Mga Awit 92:7"
+  },
+  {
+    "text": "Sapagka't, narito, ang mga kaaway mo, Oh Panginoon, sapagka't, narito, ang mga kaaway mo'y malilipol; lahat ng mga manggagawa ng kasamaan ay mangangalat.",
+    "reference": "Mga Awit 92:9 (ADB1905)",
+    "connected_to": "Mga Awit 92:10",
+    "connected_from": "Mga Awit 92:8"
+  },
+  {
+    "text": "Nguni't ang sungay ko'y iyong pinataas na parang sungay ng mailap na toro: ako'y napahiran ng bagong langis.",
+    "reference": "Mga Awit 92:10 (ADB1905)",
+    "connected_to": "Mga Awit 92:11",
+    "connected_from": "Mga Awit 92:9"
+  },
+  {
+    "text": "Nakita naman ng aking mata ang nasa ko sa aking mga kaaway, narinig ng aking pakinig ang nasa ko sa mga manggagawa ng kasamaan na nagsisibangon laban sa akin.",
+    "reference": "Mga Awit 92:11 (ADB1905)",
+    "connected_to": "Mga Awit 92:12",
+    "connected_from": "Mga Awit 92:10"
+  },
+  {
+    "text": "Ang matuwid ay giginhawa na parang puno ng palma. Siya'y tutubo na parang cedro sa Libano.",
+    "reference": "Mga Awit 92:12 (ADB1905)",
+    "connected_to": "Mga Awit 92:13",
+    "connected_from": "Mga Awit 92:11"
+  },
+  {
+    "text": "Sila'y nangatatag sa bahay ng Panginoon; sila'y giginhawa sa mga looban ng aming Dios.",
+    "reference": "Mga Awit 92:13 (ADB1905)",
+    "connected_to": "Mga Awit 92:14",
+    "connected_from": "Mga Awit 92:12"
+  },
+  {
+    "text": "Sila'y mangagbubunga sa katandaan; sila'y mapupuspos ng katas at kasariwaan:",
+    "reference": "Mga Awit 92:14 (ADB1905)",
+    "connected_to": "Mga Awit 92:15",
+    "connected_from": "Mga Awit 92:13"
+  },
+  {
+    "text": "Upang ipakilala na ang Panginoon ay matuwid; siya'y aking malaking bato, at walang kalikuan sa kaniya.",
+    "reference": "Mga Awit 92:15 (ADB1905)",
+    "connected_from": "Mga Awit 92:14"
+  }
+]

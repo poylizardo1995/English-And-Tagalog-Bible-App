@@ -1,0 +1,96 @@
+[
+  {
+    "text": "Ang aking diwa ay nanglulumo, ang aking mga kaarawan ay natatapos, ang libingan ay handa sa akin.",
+    "reference": "Job 17:1 (ADB1905)",
+    "connected_to": "Job 17:2"
+  },
+  {
+    "text": "Tunay na may mga manunuya na kasama ako, at ang aking mata ay nananahan sa kanilang pamumungkahi.",
+    "reference": "Job 17:2 (ADB1905)",
+    "connected_to": "Job 17:3",
+    "connected_from": "Job 17:1"
+  },
+  {
+    "text": "Magbigay ka ngayon ng sangla, panagutan mo ako ng iyong sarili; sinong magbubuhat ng mga kamay sa akin?",
+    "reference": "Job 17:3 (ADB1905)",
+    "connected_to": "Job 17:4",
+    "connected_from": "Job 17:2"
+  },
+  {
+    "text": "Sapagka't iyong ikinubli ang kanilang puso sa pagunawa: kaya't hindi mo sila itataas.",
+    "reference": "Job 17:4 (ADB1905)",
+    "connected_to": "Job 17:5",
+    "connected_from": "Job 17:3"
+  },
+  {
+    "text": "Ang paglililo sa kaniyang mga kaibigan upang mahuli, ang mga mata nga ng kaniyang mga anak ay mangangalumata.",
+    "reference": "Job 17:5 (ADB1905)",
+    "connected_to": "Job 17:6",
+    "connected_from": "Job 17:4"
+  },
+  {
+    "text": "Nguni't ginawa rin niya akong kakutyaan ng bayan: at niluraan nila ako sa mukha.",
+    "reference": "Job 17:6 (ADB1905)",
+    "connected_to": "Job 17:7",
+    "connected_from": "Job 17:5"
+  },
+  {
+    "text": "Ang aking mata naman ay nanglalabo dahil sa kapanglawan. At ang madlang sangkap ko ay parang isang anino.",
+    "reference": "Job 17:7 (ADB1905)",
+    "connected_to": "Job 17:8",
+    "connected_from": "Job 17:6"
+  },
+  {
+    "text": "Mga matuwid na tao ay matitigilan nito, at ang walang sala ay babangon laban sa di banal.",
+    "reference": "Job 17:8 (ADB1905)",
+    "connected_to": "Job 17:9",
+    "connected_from": "Job 17:7"
+  },
+  {
+    "text": "Gayon ma'y magpapatuloy ang matuwid ng kaniyang lakad, at ang may malinis na mga kamay ay lalakas ng lalakas.",
+    "reference": "Job 17:9 (ADB1905)",
+    "connected_to": "Job 17:10",
+    "connected_from": "Job 17:8"
+  },
+  {
+    "text": "Nguni't tungkol sa inyong lahat, magsiparito kayo ngayon uli; at hindi ako makakasumpong ng isang pantas sa gitna ninyo.",
+    "reference": "Job 17:10 (ADB1905)",
+    "connected_to": "Job 17:11",
+    "connected_from": "Job 17:9"
+  },
+  {
+    "text": "Ang aking mga kaarawan ay lumipas, ang aking mga panukala ay nangasira, sa makatuwid baga'y ang mga akala ng aking puso.",
+    "reference": "Job 17:11 (ADB1905)",
+    "connected_to": "Job 17:12",
+    "connected_from": "Job 17:10"
+  },
+  {
+    "text": "Kanilang ipinalit ang araw sa gabi: ang liwanag, wika nila, ay malapit sa kadiliman.",
+    "reference": "Job 17:12 (ADB1905)",
+    "connected_to": "Job 17:13",
+    "connected_from": "Job 17:11"
+  },
+  {
+    "text": "Kung aking hanapin ang Sheol na parang aking bahay; kung aking ilatag ang aking higaan sa kadiliman:",
+    "reference": "Job 17:13 (ADB1905)",
+    "connected_to": "Job 17:14",
+    "connected_from": "Job 17:12"
+  },
+  {
+    "text": "Kung sinabi ko sa kapahamakan: ikaw ay aking ama: sa uod: ikaw ay aking ina, at aking kapatid na babae;",
+    "reference": "Job 17:14 (ADB1905)",
+    "connected_to": "Job 17:15",
+    "connected_from": "Job 17:13"
+  },
+  {
+    "text": "Nasaan nga ang aking pagasa? At tungkol sa aking pagasa, sinong makakakita?",
+    "reference": "Job 17:15 (ADB1905)",
+    "connected_to": "Job 17:16",
+    "connected_from": "Job 17:14"
+  },
+  {
+    "text": "Lulusong sa mga pangawan ng Sheol, pagtataglay ng kapahingahan sa alabok.",
+    "reference": "Job 17:16 (ADB1905)",
+    "connected_from": "Job 17:15"
+  }
+]

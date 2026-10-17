@@ -1,0 +1,156 @@
+[
+  {
+    "text": "Mga kapatid ko, yayamang mayroon kayong pananampalataya ng ating Panginoong Jesucristo, na Panginoon ng kaluwalhatian ay huwag magtatangi sa mga tao.",
+    "reference": "Santiago 2:1 (ADB1905)",
+    "connected_to": "Santiago 2:2"
+  },
+  {
+    "text": "Sapagka't kung may pumapasok sa inyong sinagoga ang isang tao na may singsing na ginto, at may magandang kasuotan, at may pumapasok namang isang dukha na may damit na hamak;",
+    "reference": "Santiago 2:2 (ADB1905)",
+    "connected_to": "Santiago 2:3",
+    "connected_from": "Santiago 2:1"
+  },
+  {
+    "text": "At inyong itangi ang may suot na damit na maganda, at inyong sabihin, Maupo ka rito sa dakong mabuti; at sa dukha ay inyong sabihin, Tumayo ka riyan, o maupo ka sa ibaba ng aking tungtungan;",
+    "reference": "Santiago 2:3 (ADB1905)",
+    "connected_to": "Santiago 2:4",
+    "connected_from": "Santiago 2:2"
+  },
+  {
+    "text": "Hindi baga kayo'y nagtatangi sa inyong sarili, at nagiging mga hukom na may masasamang pagiisip?",
+    "reference": "Santiago 2:4 (ADB1905)",
+    "connected_to": "Santiago 2:5",
+    "connected_from": "Santiago 2:3"
+  },
+  {
+    "text": "Dinggin ninyo, mga minamahal kong kapatid; hindi baga pinili ng Dios ang mga dukha sa sanglibutang ito upang maging mayayaman sa pananampalataya, at mga tagapagmana ng kahariang ipinangako niya sa mga nagsisiibig sa kaniya?",
+    "reference": "Santiago 2:5 (ADB1905)",
+    "connected_to": "Santiago 2:6",
+    "connected_from": "Santiago 2:4"
+  },
+  {
+    "text": "Nguni't inyong niwalang-puri ang dukha. Hindi baga kayo'y pinahihirapan ng mayayaman, at sila rin ang kumakaladkad sa inyo sa harapan ng mga hukuman?",
+    "reference": "Santiago 2:6 (ADB1905)",
+    "connected_to": "Santiago 2:7",
+    "connected_from": "Santiago 2:5"
+  },
+  {
+    "text": "Hindi baga nilalapastangan nila yaong marangal na pangalan na sa inyo'y itinatawag?",
+    "reference": "Santiago 2:7 (ADB1905)",
+    "connected_to": "Santiago 2:8",
+    "connected_from": "Santiago 2:6"
+  },
+  {
+    "text": "Gayon man kung inyong ganapin ang kautusang hari, ayon sa kasulatan, Iibigin mo ang iyong kapuwa na gaya ng sa iyong sarili, ay nagsisigawa kayo ng mabuti:",
+    "reference": "Santiago 2:8 (ADB1905)",
+    "connected_to": "Santiago 2:9",
+    "connected_from": "Santiago 2:7"
+  },
+  {
+    "text": "Datapuwa't kung kayo'y nagtatangi ng mga tao, ay nangagkakasala kayo, at kayo'y hinahatulan ng kautusan na gaya ng mga suwail.",
+    "reference": "Santiago 2:9 (ADB1905)",
+    "connected_to": "Santiago 2:10",
+    "connected_from": "Santiago 2:8"
+  },
+  {
+    "text": "Sapagka't ang sinomang gumaganap ng buong kautusan, at gayon ma'y natitisod sa isa, ay nagiging makasalanan sa lahat.",
+    "reference": "Santiago 2:10 (ADB1905)",
+    "connected_to": "Santiago 2:11",
+    "connected_from": "Santiago 2:9"
+  },
+  {
+    "text": "Sapagka't ang nagsabi, Huwag kang mangalunya, ay nagsabi, naman, Huwag kang pumatay. Ngayon, kung ikaw ay hindi nangangalunya, nguni't pumapatay ka, ay nagiging suwail ka sa kautusan.",
+    "reference": "Santiago 2:11 (ADB1905)",
+    "connected_to": "Santiago 2:12",
+    "connected_from": "Santiago 2:10"
+  },
+  {
+    "text": "Gayon ang inyong salitain, at gayon ang inyong gawin, na gaya ng mga taong huhukuman sa pamamagitan ng kautusan ng kalayaan.",
+    "reference": "Santiago 2:12 (ADB1905)",
+    "connected_to": "Santiago 2:13",
+    "connected_from": "Santiago 2:11"
+  },
+  {
+    "text": "Sapagka't ang paghuhukom ay walang awa doon sa hindi nagpakita ng awa: ang awa ay lumuluwalhati laban sa paghuhukom.",
+    "reference": "Santiago 2:13 (ADB1905)",
+    "connected_to": "Santiago 2:14",
+    "connected_from": "Santiago 2:12"
+  },
+  {
+    "text": "Anong pakikinabangin, mga kapatid ko, kung sinasabi ng sinoman na siya'y may pananampalataya, nguni't walang mga gawa? makapagliligtas baga sa kaniya ang pananampalatayang iyan?",
+    "reference": "Santiago 2:14 (ADB1905)",
+    "connected_to": "Santiago 2:15",
+    "connected_from": "Santiago 2:13"
+  },
+  {
+    "text": "Kung ang isang kapatid na lalake o babae ay hubad at walang kakanin araw-araw,",
+    "reference": "Santiago 2:15 (ADB1905)",
+    "connected_to": "Santiago 2:16",
+    "connected_from": "Santiago 2:14"
+  },
+  {
+    "text": "At ang isa sa inyo ay magsabi sa kanila, Magsiyaon kayong payapa, kayo'y mangagpainit at mangagpakabusog; at gayon ma'y hindi ninyo ibinibigay sa kanila ang mga bagay na kinakailangan ng katawan; anong mapapakinabang dito?",
+    "reference": "Santiago 2:16 (ADB1905)",
+    "connected_to": "Santiago 2:17",
+    "connected_from": "Santiago 2:15"
+  },
+  {
+    "text": "Gayon din naman ang pananampalataya na walang mga gawa, ay patay sa kaniyang sarili.",
+    "reference": "Santiago 2:17 (ADB1905)",
+    "connected_to": "Santiago 2:18",
+    "connected_from": "Santiago 2:16"
+  },
+  {
+    "text": "Oo, sasabihin ng isang tao, Ikaw ay mayroong pananampalataya, at ako'y mayroong mga gawa: ipakita mo sa akin ang iyong pananampalatayang hiwalay sa mga gawa, at ako sa pamamagitan ng aking mga gawa ay ipakita sa iyo ang aking pananampalataya.",
+    "reference": "Santiago 2:18 (ADB1905)",
+    "connected_to": "Santiago 2:19",
+    "connected_from": "Santiago 2:17"
+  },
+  {
+    "text": "Ikaw ay sumasampalataya na ang Dios ay iisa; mabuti ang iyong ginagawa: ang mga demonio man ay nagsisisampalataya, at nagsisipanginig.",
+    "reference": "Santiago 2:19 (ADB1905)",
+    "connected_to": "Santiago 2:20",
+    "connected_from": "Santiago 2:18"
+  },
+  {
+    "text": "Datapuwa't ibig mo bagang maalaman, Oh taong walang kabuluhan, na ang pananampalataya na walang mga gawa ay baog?",
+    "reference": "Santiago 2:20 (ADB1905)",
+    "connected_to": "Santiago 2:21",
+    "connected_from": "Santiago 2:19"
+  },
+  {
+    "text": "Hindi baga ang ating amang si Abraham ay inaring ganap sa pamamagitan ng mga gawa, dahil sa kaniyang inihain si Isaac na kaniyang anak sa ibabaw ng dambana?",
+    "reference": "Santiago 2:21 (ADB1905)",
+    "connected_to": "Santiago 2:22",
+    "connected_from": "Santiago 2:20"
+  },
+  {
+    "text": "Nakikita mo na ang pananampalataya ay gumagawang kalakip ng kaniyang mga gawa, at sa pamamagitan ng mga gawa ay naging sakdal ang pananampalataya;",
+    "reference": "Santiago 2:22 (ADB1905)",
+    "connected_to": "Santiago 2:23",
+    "connected_from": "Santiago 2:21"
+  },
+  {
+    "text": "At natupad ang kasulatan na nagsasabi, At si Abraham ay sumampalataya sa Dios, at yao'y ibinilang na katuwiran sa kaniya; at siya'y tinawag na kaibigan ng Dios.",
+    "reference": "Santiago 2:23 (ADB1905)",
+    "connected_to": "Santiago 2:24",
+    "connected_from": "Santiago 2:22"
+  },
+  {
+    "text": "Nakikita ninyo na sa pamamagitan ng mga gawa'y inaaring ganap ang tao, at hindi sa pamamagitan ng pananampalataya lamang.",
+    "reference": "Santiago 2:24 (ADB1905)",
+    "connected_to": "Santiago 2:25",
+    "connected_from": "Santiago 2:23"
+  },
+  {
+    "text": "At gayon din naman hindi rin baga si Rahab na patutot ay inaring ganap sa pamamagitan ng mga gawa, dahil sa tinanggap niya ang mga sugo, at kaniyang pinapagdaan sila sa ibang daan?",
+    "reference": "Santiago 2:25 (ADB1905)",
+    "connected_to": "Santiago 2:26",
+    "connected_from": "Santiago 2:24"
+  },
+  {
+    "text": "Sapagka't kung paanong ang katawan na walang espiritu ay patay, ay gayon din ang pananampalataya na walang mga gawa ay patay.",
+    "reference": "Santiago 2:26 (ADB1905)",
+    "connected_from": "Santiago 2:25"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "text": "Purihin ninyo ang Panginoon. Mapalad ang tao na natatakot sa Panginoon, na naliligayang mainam sa kaniyang mga utos.",
+    "reference": "Mga Awit 112:1 (ADB1905)",
+    "connected_to": "Mga Awit 112:2"
+  },
+  {
+    "text": "Ang kaniyang binhi ay magiging makapangyarihan sa lupa; ang lahi ng matuwid ay magiging mapalad.",
+    "reference": "Mga Awit 112:2 (ADB1905)",
+    "connected_to": "Mga Awit 112:3",
+    "connected_from": "Mga Awit 112:1"
+  },
+  {
+    "text": "Kaginhawahan at kayamanan ay nasa kaniyang bahay: at ang kaniyang katuwiran ay nananatili magpakailan man.",
+    "reference": "Mga Awit 112:3 (ADB1905)",
+    "connected_to": "Mga Awit 112:4",
+    "connected_from": "Mga Awit 112:2"
+  },
+  {
+    "text": "Sa matuwid ay bumabangon ang liwanag sa kadiliman: siya'y mapagbiyaya at puspos ng kahabagan, at matuwid.",
+    "reference": "Mga Awit 112:4 (ADB1905)",
+    "connected_to": "Mga Awit 112:5",
+    "connected_from": "Mga Awit 112:3"
+  },
+  {
+    "text": "Ang ikabubuti ng taong mapagbiyaya at nagpapahiram, kaniyang aalalayan ang kaniyang usap sa kahatulan.",
+    "reference": "Mga Awit 112:5 (ADB1905)",
+    "connected_to": "Mga Awit 112:6",
+    "connected_from": "Mga Awit 112:4"
+  },
+  {
+    "text": "Sapagka't siya'y hindi makikilos magpakailan man; ang matuwid ay maaalaalang walang hanggan.",
+    "reference": "Mga Awit 112:6 (ADB1905)",
+    "connected_to": "Mga Awit 112:7",
+    "connected_from": "Mga Awit 112:5"
+  },
+  {
+    "text": "Siya'y hindi matatakot sa mga masamang balita: ang kaniyang puso ay matatag, na tumitiwala sa Panginoon.",
+    "reference": "Mga Awit 112:7 (ADB1905)",
+    "connected_to": "Mga Awit 112:8",
+    "connected_from": "Mga Awit 112:6"
+  },
+  {
+    "text": "Ang kaniyang puso ay natatag, siya'y hindi matatakot, hanggang sa kaniyang makita ang nasa niya sa kaniyang mga kaaway.",
+    "reference": "Mga Awit 112:8 (ADB1905)",
+    "connected_to": "Mga Awit 112:9",
+    "connected_from": "Mga Awit 112:7"
+  },
+  {
+    "text": "Kaniyang pinanabog, kaniyang ibinigay sa mapagkailangan; ang kaniyang katuwiran ay nananatili magpakailan man, ang kaniyang sungay ay matataas na may karangalan.",
+    "reference": "Mga Awit 112:9 (ADB1905)",
+    "connected_to": "Mga Awit 112:10",
+    "connected_from": "Mga Awit 112:8"
+  },
+  {
+    "text": "Makikita ng masama, at mamamanglaw; siya'y magngangalit ng kaniyang mga ngipin, at matutunaw: ang nasa ng masama ay mapaparam.",
+    "reference": "Mga Awit 112:10 (ADB1905)",
+    "connected_from": "Mga Awit 112:9"
+  }
+]

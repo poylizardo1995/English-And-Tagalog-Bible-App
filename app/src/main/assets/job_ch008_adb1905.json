@@ -1,0 +1,132 @@
+[
+  {
+    "text": "Nang magkagayo'y sumagot si Bildad na Suhita, at nagsabi,",
+    "reference": "Job 8:1 (ADB1905)",
+    "connected_to": "Job 8:2"
+  },
+  {
+    "text": "Hanggang kailan magsasalita ka ng mga bagay na ito? At hanggang kailan magiging gaya ng makapangyarihang hangin ang mga salita ng iyong bibig?",
+    "reference": "Job 8:2 (ADB1905)",
+    "connected_to": "Job 8:3",
+    "connected_from": "Job 8:1"
+  },
+  {
+    "text": "Nagliliko ba ng kahatulan ang Dios? O nagliliko ba ang Makapangyarihan sa lahat ng kaganapan?",
+    "reference": "Job 8:3 (ADB1905)",
+    "connected_to": "Job 8:4",
+    "connected_from": "Job 8:2"
+  },
+  {
+    "text": "Kung ang iyong mga anak ay nangagkasala laban sa kaniya, at kaniyang ibinigay sila sa kamay ng kanilang pagkasalangsang:",
+    "reference": "Job 8:4 (ADB1905)",
+    "connected_to": "Job 8:5",
+    "connected_from": "Job 8:3"
+  },
+  {
+    "text": "Kung hanapin mong mainam ang Dios, at iyong pamanhikan ang Makapangyarihan sa lahat;",
+    "reference": "Job 8:5 (ADB1905)",
+    "connected_to": "Job 8:6",
+    "connected_from": "Job 8:4"
+  },
+  {
+    "text": "Kung ikaw ay malinis at matuwid; walang pagsalang ngayo'y gigising siya dahil sa iyo. At pasasaganain ang tahanan ng iyong katuwiran.",
+    "reference": "Job 8:6 (ADB1905)",
+    "connected_to": "Job 8:7",
+    "connected_from": "Job 8:5"
+  },
+  {
+    "text": "At bagaman ang iyong pasimula ay maliit, gayon ma'y ang iyong huling wakas ay lalaking mainam.",
+    "reference": "Job 8:7 (ADB1905)",
+    "connected_to": "Job 8:8",
+    "connected_from": "Job 8:6"
+  },
+  {
+    "text": "Sapagka't ikaw ay magsisiyasat, isinasamo ko sa iyo, sa unang panahon, at pasiyahan mo ang sinaliksik ng kanilang mga magulang:",
+    "reference": "Job 8:8 (ADB1905)",
+    "connected_to": "Job 8:9",
+    "connected_from": "Job 8:7"
+  },
+  {
+    "text": "(Sapagka't tayo'y kahapon lamang, at walang nalalaman, sapagka't ang ating mga kaarawan sa lupa ay anino:)",
+    "reference": "Job 8:9 (ADB1905)",
+    "connected_to": "Job 8:10",
+    "connected_from": "Job 8:8"
+  },
+  {
+    "text": "Hindi ka ba nila tuturuan, at sasaysayin sa iyo, at mangagsasalita ng mga salita mula sa kanilang puso?",
+    "reference": "Job 8:10 (ADB1905)",
+    "connected_to": "Job 8:11",
+    "connected_from": "Job 8:9"
+  },
+  {
+    "text": "Makatataas ba ang yantok ng walang putik? Tutubo ba ang tambo ng walang tubig?",
+    "reference": "Job 8:11 (ADB1905)",
+    "connected_to": "Job 8:12",
+    "connected_from": "Job 8:10"
+  },
+  {
+    "text": "Samantalang nasa kasariwaan, at hindi pinuputol, natutuyong una kay sa alin mang damo.",
+    "reference": "Job 8:12 (ADB1905)",
+    "connected_to": "Job 8:13",
+    "connected_from": "Job 8:11"
+  },
+  {
+    "text": "Gayon ang mga landas ng lahat na nagsisilimot sa Dios; at ang pagasa ng di banal ay mawawala:",
+    "reference": "Job 8:13 (ADB1905)",
+    "connected_to": "Job 8:14",
+    "connected_from": "Job 8:12"
+  },
+  {
+    "text": "Na ang kaniyang pagtitiwala ay mapaparam, at ang kaniyang tiwala ay isang bahay gagamba.",
+    "reference": "Job 8:14 (ADB1905)",
+    "connected_to": "Job 8:15",
+    "connected_from": "Job 8:13"
+  },
+  {
+    "text": "Siya'y sasandal sa kaniyang bahay, nguni't hindi tatayo; siya'y pipigil na mahigpit dito, nguni't hindi makapagmamatigas.",
+    "reference": "Job 8:15 (ADB1905)",
+    "connected_to": "Job 8:16",
+    "connected_from": "Job 8:14"
+  },
+  {
+    "text": "Siya'y sariwa sa harap ng araw, at ang kaniyang mga suwi ay sumisibol sa kaniyang halamanan.",
+    "reference": "Job 8:16 (ADB1905)",
+    "connected_to": "Job 8:17",
+    "connected_from": "Job 8:15"
+  },
+  {
+    "text": "Ang kaniyang mga ugat ay nagkakapitan sa palibot ng bunton, kaniyang minamasdan ang dako ng mga bato.",
+    "reference": "Job 8:17 (ADB1905)",
+    "connected_to": "Job 8:18",
+    "connected_from": "Job 8:16"
+  },
+  {
+    "text": "Kung siya'y magiba sa kaniyang dako, kung magkagayo'y itatakuwil niya siya, na sinasabi: Hindi kita nakita.",
+    "reference": "Job 8:18 (ADB1905)",
+    "connected_to": "Job 8:19",
+    "connected_from": "Job 8:17"
+  },
+  {
+    "text": "Narito, ito ang kagalakan ng kaniyang lakad, at mula sa lupa ay sisibol ang mga iba.",
+    "reference": "Job 8:19 (ADB1905)",
+    "connected_to": "Job 8:20",
+    "connected_from": "Job 8:18"
+  },
+  {
+    "text": "Narito, hindi itatakuwil ng Dios ang sakdal na tao, ni aalalayan man niya ang mga manggagawa ng kasamaan.",
+    "reference": "Job 8:20 (ADB1905)",
+    "connected_to": "Job 8:21",
+    "connected_from": "Job 8:19"
+  },
+  {
+    "text": "Kaniya namang pupunuin ang iyong bibig ng pagtawa, at ang iyong mga labi ng paghiyaw.",
+    "reference": "Job 8:21 (ADB1905)",
+    "connected_to": "Job 8:22",
+    "connected_from": "Job 8:20"
+  },
+  {
+    "text": "Silang nangapopoot sa iyo ay mabibihisan ng pagkahiya; at ang tolda ng masama ay mawawala.",
+    "reference": "Job 8:22 (ADB1905)",
+    "connected_from": "Job 8:21"
+  }
+]

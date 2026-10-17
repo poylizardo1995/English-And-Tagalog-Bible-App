@@ -1,0 +1,54 @@
+[
+  {
+    "text": "Oh magsiawit kayo sa Panginoon ng bagong awit; sapagka't siya'y gumawa ng mga kagilagilalas na bagay: ang kaniyang kanan at ang kaniyang banal na bisig ay gumawa ng kaligtasan para sa kaniya:",
+    "reference": "Mga Awit 98:1 (ADB1905)",
+    "connected_to": "Mga Awit 98:2"
+  },
+  {
+    "text": "Ipinakilala ng Panginoon ang kaniyang pagliligtas: ang kaniyang katuwiran ay ipinakilala niyang lubos sa paningin ng mga bansa.",
+    "reference": "Mga Awit 98:2 (ADB1905)",
+    "connected_to": "Mga Awit 98:3",
+    "connected_from": "Mga Awit 98:1"
+  },
+  {
+    "text": "Kaniyang inalaala ang kaniyang kagandahang-loob at ang kaniyang pagtatapat sa bahay ng Israel: nakita ng lahat ng mga wakas ng lupa ang pagliligtas ng aming Dios.",
+    "reference": "Mga Awit 98:3 (ADB1905)",
+    "connected_to": "Mga Awit 98:4",
+    "connected_from": "Mga Awit 98:2"
+  },
+  {
+    "text": "Magkaingay kayo na may kagalakan sa Panginoon, buong lupa. Mangagpasimula at magsiawit dahil sa kagalakan, oo, magsiawit kayo ng mga pagpuri.",
+    "reference": "Mga Awit 98:4 (ADB1905)",
+    "connected_to": "Mga Awit 98:5",
+    "connected_from": "Mga Awit 98:3"
+  },
+  {
+    "text": "Magsiawit kayo sa Panginoon ng mga pagpuri ng alpa; ng alpa at ng tinig na tugma.",
+    "reference": "Mga Awit 98:5 (ADB1905)",
+    "connected_to": "Mga Awit 98:6",
+    "connected_from": "Mga Awit 98:4"
+  },
+  {
+    "text": "Ng mga pakakak at tunog ng corneta magkaingay kayo na may kagalakan sa harap ng Hari, ng Panginoon.",
+    "reference": "Mga Awit 98:6 (ADB1905)",
+    "connected_to": "Mga Awit 98:7",
+    "connected_from": "Mga Awit 98:5"
+  },
+  {
+    "text": "Humugong ang dagat at ang buong naroon; ang sanglibutan at ang nagsisitahan doon;",
+    "reference": "Mga Awit 98:7 (ADB1905)",
+    "connected_to": "Mga Awit 98:8",
+    "connected_from": "Mga Awit 98:6"
+  },
+  {
+    "text": "Ipakpak ng mga baha ang kanilang mga kamay; magawitan ang mga burol dahil sa kagalakan;",
+    "reference": "Mga Awit 98:8 (ADB1905)",
+    "connected_to": "Mga Awit 98:9",
+    "connected_from": "Mga Awit 98:7"
+  },
+  {
+    "text": "Sa harap ng Panginoon, sapagka't siya'y dumarating upang hatulan ang lupa: kaniyang hahatulan ng katuwiran ang sanglibutan, at ng karapatan ang mga bayan.",
+    "reference": "Mga Awit 98:9 (ADB1905)",
+    "connected_from": "Mga Awit 98:8"
+  }
+]

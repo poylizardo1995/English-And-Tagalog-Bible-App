@@ -1,0 +1,156 @@
+[
+  {
+    "text": "Oh mangagpasalamat kayo sa Panginoon; sapagka't siya'y mabuti: sapagka't ang kaniyang kagandahang-loob ay magpakailan man.",
+    "reference": "Mga Awit 136:1 (ADB1905)",
+    "connected_to": "Mga Awit 136:2"
+  },
+  {
+    "text": "Oh mangagpasalamat kayo sa Dios ng mga dios: sapagka't ang kaniyang kagandahang-loob ay magpakailan man.",
+    "reference": "Mga Awit 136:2 (ADB1905)",
+    "connected_to": "Mga Awit 136:3",
+    "connected_from": "Mga Awit 136:1"
+  },
+  {
+    "text": "Oh mangagpasalamat kayo sa Panginoon ng mga panginoon: sapagka't ang kaniyang kagandahang-loob ay magpakailan man.",
+    "reference": "Mga Awit 136:3 (ADB1905)",
+    "connected_to": "Mga Awit 136:4",
+    "connected_from": "Mga Awit 136:2"
+  },
+  {
+    "text": "Sa kaniya na gumagawang magisa ng mga dakilang kababalaghan: sapagka't ang kaniyang kagandahang-loob ay magpakailan man.",
+    "reference": "Mga Awit 136:4 (ADB1905)",
+    "connected_to": "Mga Awit 136:5",
+    "connected_from": "Mga Awit 136:3"
+  },
+  {
+    "text": "Sa kaniya na gumawa ng mga langit sa pamamagitan ng unawa: sapagka't ang kaniyang kagandahang-loob ay magpakailan man.",
+    "reference": "Mga Awit 136:5 (ADB1905)",
+    "connected_to": "Mga Awit 136:6",
+    "connected_from": "Mga Awit 136:4"
+  },
+  {
+    "text": "Sa kaniya na naglalatag ng lupa sa ibabaw ng tubig: sapagka't ang kaniyang kagandahang-loob ay magpakailan man.",
+    "reference": "Mga Awit 136:6 (ADB1905)",
+    "connected_to": "Mga Awit 136:7",
+    "connected_from": "Mga Awit 136:5"
+  },
+  {
+    "text": "Sa kaniya na gumawa ng mga dakilang tanglaw; sapagka't ang kaniyang kagandahang-loob ay magpakailan man:",
+    "reference": "Mga Awit 136:7 (ADB1905)",
+    "connected_to": "Mga Awit 136:8",
+    "connected_from": "Mga Awit 136:6"
+  },
+  {
+    "text": "Ng araw upang magpuno sa araw: sapagka't ang kaniyang kagandahang-loob ay magpakailan man:",
+    "reference": "Mga Awit 136:8 (ADB1905)",
+    "connected_to": "Mga Awit 136:9",
+    "connected_from": "Mga Awit 136:7"
+  },
+  {
+    "text": "Ng buwan at mga bituin upang magpuno sa gabi: sapagka't ang kaniyang kagandahang-loob ay magpakailan man.",
+    "reference": "Mga Awit 136:9 (ADB1905)",
+    "connected_to": "Mga Awit 136:10",
+    "connected_from": "Mga Awit 136:8"
+  },
+  {
+    "text": "Sa kaniya na sumakit sa Egipto sa kanilang mga panganay: sapagka't ang kaniyang kagandahang-loob ay magpakailan man:",
+    "reference": "Mga Awit 136:10 (ADB1905)",
+    "connected_to": "Mga Awit 136:11",
+    "connected_from": "Mga Awit 136:9"
+  },
+  {
+    "text": "At kinuha ang Israel sa kanila: sapagka't ang kaniyang kagandahang-loob ay magpakailan man:",
+    "reference": "Mga Awit 136:11 (ADB1905)",
+    "connected_to": "Mga Awit 136:12",
+    "connected_from": "Mga Awit 136:10"
+  },
+  {
+    "text": "Sa pamamagitan ng malakas na kamay, at ng unat na bisig: sapagka't ang kaniyang kagandahang-loob ay magpakailan man.",
+    "reference": "Mga Awit 136:12 (ADB1905)",
+    "connected_to": "Mga Awit 136:13",
+    "connected_from": "Mga Awit 136:11"
+  },
+  {
+    "text": "Sa kaniya na humawi ng Dagat na Mapula: sapagka't ang kaniyang kagandahang-loob ay magpakailan man:",
+    "reference": "Mga Awit 136:13 (ADB1905)",
+    "connected_to": "Mga Awit 136:14",
+    "connected_from": "Mga Awit 136:12"
+  },
+  {
+    "text": "At nagparaan sa Israel sa gitna niyaon: sapagka't ang kaniyang kagandahang-loob ay magpakailan man:",
+    "reference": "Mga Awit 136:14 (ADB1905)",
+    "connected_to": "Mga Awit 136:15",
+    "connected_from": "Mga Awit 136:13"
+  },
+  {
+    "text": "Nguni't tinabunan si Faraon at ang kaniyang hukbo sa Dagat na Mapula: sapagka't ang kaniyang kagandahang-loob ay magpakailan man.",
+    "reference": "Mga Awit 136:15 (ADB1905)",
+    "connected_to": "Mga Awit 136:16",
+    "connected_from": "Mga Awit 136:14"
+  },
+  {
+    "text": "Sa kaniya na pumatnubay ng kaniyang bayan sa ilang: sapagka't ang kaniyang kagandahang-loob ay magpakailan man.",
+    "reference": "Mga Awit 136:16 (ADB1905)",
+    "connected_to": "Mga Awit 136:17",
+    "connected_from": "Mga Awit 136:15"
+  },
+  {
+    "text": "Sa kaniya na sumakit sa mga dakilang hari: sapagka't ang kaniyang kagandahang-loob ay magpakailan man:",
+    "reference": "Mga Awit 136:17 (ADB1905)",
+    "connected_to": "Mga Awit 136:18",
+    "connected_from": "Mga Awit 136:16"
+  },
+  {
+    "text": "At pumatay sa mga bantog na hari: sapagka't ang kaniyang kagandahang-loob ay magpakailan man:",
+    "reference": "Mga Awit 136:18 (ADB1905)",
+    "connected_to": "Mga Awit 136:19",
+    "connected_from": "Mga Awit 136:17"
+  },
+  {
+    "text": "Kay Sehon na hari ng mga Amorrheo; sapagka't ang kaniyang kagandahang-loob ay magpakailan man:",
+    "reference": "Mga Awit 136:19 (ADB1905)",
+    "connected_to": "Mga Awit 136:20",
+    "connected_from": "Mga Awit 136:18"
+  },
+  {
+    "text": "At kay Og na hari sa Basan: sapagka't ang kaniyang kagandahang-loob ay magpakailan man:",
+    "reference": "Mga Awit 136:20 (ADB1905)",
+    "connected_to": "Mga Awit 136:21",
+    "connected_from": "Mga Awit 136:19"
+  },
+  {
+    "text": "At ibinigay ang kanilang lupain na pinakamana. Sapagka't ang kaniyang kagandahang-loob ay magpakailan man:",
+    "reference": "Mga Awit 136:21 (ADB1905)",
+    "connected_to": "Mga Awit 136:22",
+    "connected_from": "Mga Awit 136:20"
+  },
+  {
+    "text": "Sa makatuwid baga'y pinakamana sa Israel na kaniyang lingkod: sapagka't ang kaniyang kagandahang-loob ay magpakailan man.",
+    "reference": "Mga Awit 136:22 (ADB1905)",
+    "connected_to": "Mga Awit 136:23",
+    "connected_from": "Mga Awit 136:21"
+  },
+  {
+    "text": "Na siyang umalaala sa atin sa ating mababang kalagayan: sapagka't ang kaniyang kagandahang-loob ay magpakailan man:",
+    "reference": "Mga Awit 136:23 (ADB1905)",
+    "connected_to": "Mga Awit 136:24",
+    "connected_from": "Mga Awit 136:22"
+  },
+  {
+    "text": "At iniligtas tayo sa ating mga kaaway: sapagka't ang kaniyang kagandahang-loob ay magpakailan man:",
+    "reference": "Mga Awit 136:24 (ADB1905)",
+    "connected_to": "Mga Awit 136:25",
+    "connected_from": "Mga Awit 136:23"
+  },
+  {
+    "text": "Siya'y nagbibigay ng pagkain sa lahat ng kinapal: sapagka't ang kaniyang kagandahang-loob ay magpakailan man.",
+    "reference": "Mga Awit 136:25 (ADB1905)",
+    "connected_to": "Mga Awit 136:26",
+    "connected_from": "Mga Awit 136:24"
+  },
+  {
+    "text": "Oh mangagpasalamat kayo sa Dios ng langit: sapagka't ang kaniyang kagandahang-loob ay magpakailan man.",
+    "reference": "Mga Awit 136:26 (ADB1905)",
+    "connected_from": "Mga Awit 136:25"
+  }
+]

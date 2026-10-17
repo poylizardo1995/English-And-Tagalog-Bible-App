@@ -1,0 +1,150 @@
+[
+  {
+    "text": "O hindi baga ninyo nalalaman mga kapatid (sapagka't nagsasalita ako sa mga taong nakakaalam ng kautusan), na ang kautusan ay naghahari sa tao samantalang siya'y nabubuhay?",
+    "reference": "Roma 7:1 (ADB1905)",
+    "connected_to": "Roma 7:2"
+  },
+  {
+    "text": "Sapagka't ang babae na may asawa ay itinali ng kautusan sa asawa samantalang ito ay nabubuhay; datapuwa't kung ang asawa'y mamatay, ay kalag na sa kautusan ng asawa.",
+    "reference": "Roma 7:2 (ADB1905)",
+    "connected_to": "Roma 7:3",
+    "connected_from": "Roma 7:1"
+  },
+  {
+    "text": "Kaya nga kung, samantalang nabubuhay ang asawa, siya'y makikisama sa ibang lalake, siya'y tatawaging mangangalunya: datapuwa't kung mamatay ang asawa, ay laya na siya sa kautusan, ano pa't siya'y hindi na mangangalunya, bagaman siya'y makisama sa ibang lalake.",
+    "reference": "Roma 7:3 (ADB1905)",
+    "connected_to": "Roma 7:4",
+    "connected_from": "Roma 7:2"
+  },
+  {
+    "text": "Gayon din naman, mga kapatid ko, kayo'y nangamatay rin sa kautusan sa pamamagitan ng katawan ni Cristo; upang kayo'y makisama sa iba, sa makatuwid baga'y doon sa nabuhay na maguli, upang tayo'y magsipagbunga sa Dios.",
+    "reference": "Roma 7:4 (ADB1905)",
+    "connected_to": "Roma 7:5",
+    "connected_from": "Roma 7:3"
+  },
+  {
+    "text": "Sapagka't nang tayo'y nangasa laman, ang mga pitang salarin na pawang sa pamamagitan ng kautusan, ay nagsigawa sa ating mga sangkap upang magsipagbunga sa kamatayan.",
+    "reference": "Roma 7:5 (ADB1905)",
+    "connected_to": "Roma 7:6",
+    "connected_from": "Roma 7:4"
+  },
+  {
+    "text": "Datapuwa't ngayon tayo'y nangaligtas sa kautusan, yamang tayo'y nangamatay doon sa nakatatali sa atin; ano pa't nagsisipaglingkod na tayo sa panibagong espiritu, at hindi sa karatihan ng sulat.",
+    "reference": "Roma 7:6 (ADB1905)",
+    "connected_to": "Roma 7:7",
+    "connected_from": "Roma 7:5"
+  },
+  {
+    "text": "Ano nga ang ating sasabihin? Ang kautusan baga'y kasalanan? Huwag nawang mangyari. Datapuwa't, hindi ko sana nakilala ang kasalanan, kundi sa pamamagitan ng kautusan: sapagka't hindi ko sana nakilala ang kasakiman, kung hindi sinasabi ng kautusan, Huwag kang mananakim:",
+    "reference": "Roma 7:7 (ADB1905)",
+    "connected_to": "Roma 7:8",
+    "connected_from": "Roma 7:6"
+  },
+  {
+    "text": "Datapuwa't ang kasalanan, nang makasumpong ng pagkakataon, ay gumawa sa akin sa pamamagitan ng utos ng sarisaring kasakiman: sapagka't kung walang kautusan ang kasalanan ay patay.",
+    "reference": "Roma 7:8 (ADB1905)",
+    "connected_to": "Roma 7:9",
+    "connected_from": "Roma 7:7"
+  },
+  {
+    "text": "At nang isang panahon ako'y nabubuhay na walang kautusan: datapuwa't nang dumating ang utos, ay muling nabuhay ang kasalanan at ako'y namatay;",
+    "reference": "Roma 7:9 (ADB1905)",
+    "connected_to": "Roma 7:10",
+    "connected_from": "Roma 7:8"
+  },
+  {
+    "text": "At ang utos na sa ikabubuhay, ay nasumpungan kong ito'y sa ikamamatay;",
+    "reference": "Roma 7:10 (ADB1905)",
+    "connected_to": "Roma 7:11",
+    "connected_from": "Roma 7:9"
+  },
+  {
+    "text": "Sapagka't ang kasalanan, nang makasumpong ng pagkakataon, ay dinaya ako sa pamamagitan ng utos, at sa pamamagitan nito ay pinatay ako.",
+    "reference": "Roma 7:11 (ADB1905)",
+    "connected_to": "Roma 7:12",
+    "connected_from": "Roma 7:10"
+  },
+  {
+    "text": "Kaya nga ang kautusan ay banal, at ang utos ay banal, at matuwid, at mabuti.",
+    "reference": "Roma 7:12 (ADB1905)",
+    "connected_to": "Roma 7:13",
+    "connected_from": "Roma 7:11"
+  },
+  {
+    "text": "Ang mabuti nga baga ay naging kamatayan sa akin? Huwag nawang mangyari. Kundi ang kasalanan, upang maipakilalang kasalanan, sa pamamagitan ng mabuti ay gumawa sa akin ng kamatayan; na sa pamamagitan ng utos ang kasalanan ay maging lalong sala.",
+    "reference": "Roma 7:13 (ADB1905)",
+    "connected_to": "Roma 7:14",
+    "connected_from": "Roma 7:12"
+  },
+  {
+    "text": "Sapagka't nalalaman natin na ang kautusa'y sa espiritu: nguni't ako'y sa laman, na ipinagbili sa ilalim ng kasalanan.",
+    "reference": "Roma 7:14 (ADB1905)",
+    "connected_to": "Roma 7:15",
+    "connected_from": "Roma 7:13"
+  },
+  {
+    "text": "Sapagka't ang ginagawa ko'y hindi ko nalalaman: sapagka't ang hindi ko ibig, ang ginagawa ko; datapuwa't ang kinapopootan ko, yaon ang ginagawa ko.",
+    "reference": "Roma 7:15 (ADB1905)",
+    "connected_to": "Roma 7:16",
+    "connected_from": "Roma 7:14"
+  },
+  {
+    "text": "Nguni't kung ang hindi ko ibig, ang siyang ginagawa ko, ay sumasangayon ako na mabuti ang kautusan.",
+    "reference": "Roma 7:16 (ADB1905)",
+    "connected_to": "Roma 7:17",
+    "connected_from": "Roma 7:15"
+  },
+  {
+    "text": "Kaya ngayo'y hindi ako ang gumagawa nito, kundi ang kasalanang tumitira sa akin.",
+    "reference": "Roma 7:17 (ADB1905)",
+    "connected_to": "Roma 7:18",
+    "connected_from": "Roma 7:16"
+  },
+  {
+    "text": "Sapagka't nalalaman ko na sa akin, sa makatuwid ay sa aking laman, ay hindi tumitira ang anomang bagay na mabuti: sapagka't ang pagnanasa ay nasa akin, datapuwa't ang paggawa ng mabuti ay wala.",
+    "reference": "Roma 7:18 (ADB1905)",
+    "connected_to": "Roma 7:19",
+    "connected_from": "Roma 7:17"
+  },
+  {
+    "text": "Sapagka't ang mabuti na aking ibig, ay hindi ko ginagawa: nguni't ang masama na hindi ko ibig, ay siya kong ginagawa.",
+    "reference": "Roma 7:19 (ADB1905)",
+    "connected_to": "Roma 7:20",
+    "connected_from": "Roma 7:18"
+  },
+  {
+    "text": "Datapuwa't kung ang hindi ko ibig, ang siya kong ginagawa, ay hindi na ako ang gumagawa nito, kundi ang kasalanang tumitira sa akin.",
+    "reference": "Roma 7:20 (ADB1905)",
+    "connected_to": "Roma 7:21",
+    "connected_from": "Roma 7:19"
+  },
+  {
+    "text": "Kaya nga nasumpungan ko ang isang kautusan na, kung ibig kong gumawa ng mabuti, ang masama ay nasa akin.",
+    "reference": "Roma 7:21 (ADB1905)",
+    "connected_to": "Roma 7:22",
+    "connected_from": "Roma 7:20"
+  },
+  {
+    "text": "Sapagka't ako'y nagagalak sa kautusan ng Dios ayon sa pagkataong loob:",
+    "reference": "Roma 7:22 (ADB1905)",
+    "connected_to": "Roma 7:23",
+    "connected_from": "Roma 7:21"
+  },
+  {
+    "text": "Datapuwa't nakikita ko ang ibang kautusan sa aking mga sangkap na nakikipagbaka laban sa kautusan ng aking pagiisip, at dinadala akong bihag sa ilalim ng kautusan ng kasalanan na nasa aking mga sangkap.",
+    "reference": "Roma 7:23 (ADB1905)",
+    "connected_to": "Roma 7:24",
+    "connected_from": "Roma 7:22"
+  },
+  {
+    "text": "Abang tao ako! sino ang magliligtas sa akin sa katawan nitong kamatayan?",
+    "reference": "Roma 7:24 (ADB1905)",
+    "connected_to": "Roma 7:25",
+    "connected_from": "Roma 7:23"
+  },
+  {
+    "text": "Nagpapasalamat ako sa Dios sa pamamagitan ni Jesucristo na Panginoon natin. Kaya nga tunay kong ipinaglilingkod ang aking pagiisip, sa kautusan ng Dios; datapuwa't ang laman ay sa kautusan ng kasalanan.",
+    "reference": "Roma 7:25 (ADB1905)",
+    "connected_from": "Roma 7:24"
+  }
+]

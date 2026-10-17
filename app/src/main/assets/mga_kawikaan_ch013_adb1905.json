@@ -1,0 +1,150 @@
+[
+  {
+    "text": "Dinidinig ng pantas na anak ang turo ng kaniyang ama: nguni't hindi dinidinig ng mangduduwahagi ang saway.",
+    "reference": "Mga Kawikaan 13:1 (ADB1905)",
+    "connected_to": "Mga Kawikaan 13:2"
+  },
+  {
+    "text": "Ang tao ay kakain ng mabuti ayon sa bunga ng kaniyang bibig: nguni't ang magdaraya ay kakain ng karahasan,",
+    "reference": "Mga Kawikaan 13:2 (ADB1905)",
+    "connected_to": "Mga Kawikaan 13:3",
+    "connected_from": "Mga Kawikaan 13:1"
+  },
+  {
+    "text": "Siyang nagiingat ng kaniyang bibig, nagiingat ng kaniyang buhay: nguni't siyang nagbubukang maluwang ng kaniyang mga labi ay magkakaroon ng kapahamakan.",
+    "reference": "Mga Kawikaan 13:3 (ADB1905)",
+    "connected_to": "Mga Kawikaan 13:4",
+    "connected_from": "Mga Kawikaan 13:2"
+  },
+  {
+    "text": "Ang tamad ay nagnanasa, at walang anoman: nguni't ang kaluluwa ng masipag ay tataba.",
+    "reference": "Mga Kawikaan 13:4 (ADB1905)",
+    "connected_to": "Mga Kawikaan 13:5",
+    "connected_from": "Mga Kawikaan 13:3"
+  },
+  {
+    "text": "Ang matuwid ay nagtatanim sa pagsisinungaling: nguni't ang masama ay kasuklamsuklam, at napapahiya.",
+    "reference": "Mga Kawikaan 13:5 (ADB1905)",
+    "connected_to": "Mga Kawikaan 13:6",
+    "connected_from": "Mga Kawikaan 13:4"
+  },
+  {
+    "text": "Bumabantay ang katuwiran sa matuwid na lakad; nguni't inilulugmok ng kasamaan ang makasalanan.",
+    "reference": "Mga Kawikaan 13:6 (ADB1905)",
+    "connected_to": "Mga Kawikaan 13:7",
+    "connected_from": "Mga Kawikaan 13:5"
+  },
+  {
+    "text": "May nagpapakayaman, gayon ma'y walang anoman: may nagpapakadukha, gayon ma'y may malaking kayamanan.",
+    "reference": "Mga Kawikaan 13:7 (ADB1905)",
+    "connected_to": "Mga Kawikaan 13:8",
+    "connected_from": "Mga Kawikaan 13:6"
+  },
+  {
+    "text": "Ang katubusan sa buhay ng tao ay siyang kaniyang mga kayamanan: nguni't ang dukha ay hindi nakikinig sa banta.",
+    "reference": "Mga Kawikaan 13:8 (ADB1905)",
+    "connected_to": "Mga Kawikaan 13:9",
+    "connected_from": "Mga Kawikaan 13:7"
+  },
+  {
+    "text": "Ang ilaw ng matuwid ay nagagalak: nguni't ang ilawan ng masama ay papatayin.",
+    "reference": "Mga Kawikaan 13:9 (ADB1905)",
+    "connected_to": "Mga Kawikaan 13:10",
+    "connected_from": "Mga Kawikaan 13:8"
+  },
+  {
+    "text": "Sa kapalaluan, ang dumarating ay pagtatalo lamang: nguni't ang karunungan ay nangasa nangaturuang maigi.",
+    "reference": "Mga Kawikaan 13:10 (ADB1905)",
+    "connected_to": "Mga Kawikaan 13:11",
+    "connected_from": "Mga Kawikaan 13:9"
+  },
+  {
+    "text": "Ang kayamanang tinangkilik sa walang kabuluhan ay huhupa: nguni't siyang nagpipisan sa paggawa ay mararagdagan.",
+    "reference": "Mga Kawikaan 13:11 (ADB1905)",
+    "connected_to": "Mga Kawikaan 13:12",
+    "connected_from": "Mga Kawikaan 13:10"
+  },
+  {
+    "text": "Ang pagasa na nagluluwat ay nagpapasakit ng puso: nguni't pagka ang nasa ay dumarating ay punong kahoy ng buhay.",
+    "reference": "Mga Kawikaan 13:12 (ADB1905)",
+    "connected_to": "Mga Kawikaan 13:13",
+    "connected_from": "Mga Kawikaan 13:11"
+  },
+  {
+    "text": "Sinomang humamak sa salita ay nagdadala ng kapahamakan sa sarili: nguni't siyang natatakot sa utos ay gagantihin.",
+    "reference": "Mga Kawikaan 13:13 (ADB1905)",
+    "connected_to": "Mga Kawikaan 13:14",
+    "connected_from": "Mga Kawikaan 13:12"
+  },
+  {
+    "text": "Ang kautusan ng pantas ay bukal ng buhay, upang lumayo sa mga silo ng kamatayan.",
+    "reference": "Mga Kawikaan 13:14 (ADB1905)",
+    "connected_to": "Mga Kawikaan 13:15",
+    "connected_from": "Mga Kawikaan 13:13"
+  },
+  {
+    "text": "Ang mabuting kaunawaan ay nagbibigay lingap: nguni't ang lakad ng mananalangsang ay mahirap.",
+    "reference": "Mga Kawikaan 13:15 (ADB1905)",
+    "connected_to": "Mga Kawikaan 13:16",
+    "connected_from": "Mga Kawikaan 13:14"
+  },
+  {
+    "text": "Bawa't mabait na tao ay gumagawang may kaalaman: nguni't ang mangmang ay nagkakalat ng kamangmangan.",
+    "reference": "Mga Kawikaan 13:16 (ADB1905)",
+    "connected_to": "Mga Kawikaan 13:17",
+    "connected_from": "Mga Kawikaan 13:15"
+  },
+  {
+    "text": "Ang masamang sugo ay nahuhulog sa kasamaan: nguni't ang tapat na sugo ay kagalingan.",
+    "reference": "Mga Kawikaan 13:17 (ADB1905)",
+    "connected_to": "Mga Kawikaan 13:18",
+    "connected_from": "Mga Kawikaan 13:16"
+  },
+  {
+    "text": "Karalitaan at kahihiyan ang tatamuhin ng nagtatakuwil ng saway: nguni't siyang nakikinig ng saway ay magkakapuri.",
+    "reference": "Mga Kawikaan 13:18 (ADB1905)",
+    "connected_to": "Mga Kawikaan 13:19",
+    "connected_from": "Mga Kawikaan 13:17"
+  },
+  {
+    "text": "Ang nasa na natupad ay matamis sa kaluluwa: nguni't kasuklamsuklam sa mga mangmang na humiwalay sa kasamaan.",
+    "reference": "Mga Kawikaan 13:19 (ADB1905)",
+    "connected_to": "Mga Kawikaan 13:20",
+    "connected_from": "Mga Kawikaan 13:18"
+  },
+  {
+    "text": "Lumalakad ka na kasama ng mga pantas na tao, at ikaw ay magiging pantas; nguni't ang kasama ng mga mangmang ay mapapariwara.",
+    "reference": "Mga Kawikaan 13:20 (ADB1905)",
+    "connected_to": "Mga Kawikaan 13:21",
+    "connected_from": "Mga Kawikaan 13:19"
+  },
+  {
+    "text": "Ang kasamaan ay humahabol sa mga makasalanan; nguni't ang matuwid ay gagantihan ng mabuti.",
+    "reference": "Mga Kawikaan 13:21 (ADB1905)",
+    "connected_to": "Mga Kawikaan 13:22",
+    "connected_from": "Mga Kawikaan 13:20"
+  },
+  {
+    "text": "Ang mabuti ay nagiiwan ng mana sa mga anak ng kaniyang mga anak; at ang kayamanan ng makasalanan ay nalalagay na ukol sa matuwid.",
+    "reference": "Mga Kawikaan 13:22 (ADB1905)",
+    "connected_to": "Mga Kawikaan 13:23",
+    "connected_from": "Mga Kawikaan 13:21"
+  },
+  {
+    "text": "Maraming pagkain ang nasa pagsasaka ng dukha: nguni't may napapahamak dahil sa kawalan ng kaganapan.",
+    "reference": "Mga Kawikaan 13:23 (ADB1905)",
+    "connected_to": "Mga Kawikaan 13:24",
+    "connected_from": "Mga Kawikaan 13:22"
+  },
+  {
+    "text": "Siyang naguurong ng kaniyang pamalo ay napopoot sa kaniyang anak: nguni't siyang umiibig ay nagpaparusang maminsan-minsan.",
+    "reference": "Mga Kawikaan 13:24 (ADB1905)",
+    "connected_to": "Mga Kawikaan 13:25",
+    "connected_from": "Mga Kawikaan 13:23"
+  },
+  {
+    "text": "Ang matuwid ay kumakain hanggang sa kabusugan ng kaniyang kaluluwa; nguni't ang tiyan ng masama ay mangangailangan.",
+    "reference": "Mga Kawikaan 13:25 (ADB1905)",
+    "connected_from": "Mga Kawikaan 13:24"
+  }
+]

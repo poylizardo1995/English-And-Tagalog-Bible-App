@@ -1,0 +1,66 @@
+[
+  {
+    "text": "Nang magkagayo'y itinanaw ko uli ang aking mga mata, at aking nakita, at, narito, isang lumilipad na balumbon.",
+    "reference": "Zacarias 5:1 (ADB1905)",
+    "connected_to": "Zacarias 5:2"
+  },
+  {
+    "text": "At sinabi niya sa akin, Ano ang iyong nakikita? At ako'y sumagot, Aking nakikita'y isang lumilipad na balumbon; ang haba niyaon ay dalawang pung siko, at ang luwang niyaon ay sangpung siko.",
+    "reference": "Zacarias 5:2 (ADB1905)",
+    "connected_to": "Zacarias 5:3",
+    "connected_from": "Zacarias 5:1"
+  },
+  {
+    "text": "Nang magkagayo'y sinabi niya sa akin, Ito ang sumpa na lumalabas sa ibabaw ng buong lupain: sapagka't ang bawa't nagnanakaw ay mahihiwalay sa isang dako ayon doon; at bawa't manunumpa ay mahihiwalay sa kabilang dako ayon doon.",
+    "reference": "Zacarias 5:3 (ADB1905)",
+    "connected_to": "Zacarias 5:4",
+    "connected_from": "Zacarias 5:2"
+  },
+  {
+    "text": "Aking ilalabas yaon, sabi ng Panginoon ng mga hukbo, at papasok sa bahay ng magnanakaw, at sa bahay niyaong nanunumpa ng kasinungalingan sa pangalan ko; at tatahan sa gitna ng bahay niya, at pupugnawin sangpu ng mga kahoy niyaon at mga bato niyaon.",
+    "reference": "Zacarias 5:4 (ADB1905)",
+    "connected_to": "Zacarias 5:5",
+    "connected_from": "Zacarias 5:3"
+  },
+  {
+    "text": "Nang magkagayo'y ang anghel na nakikipagusap sa akin ay lumabas, at nagsabi sa akin, itanaw mo ngayon ang iyong mga mata, at tingnan mo kung ano ito na lumalabas.",
+    "reference": "Zacarias 5:5 (ADB1905)",
+    "connected_to": "Zacarias 5:6",
+    "connected_from": "Zacarias 5:4"
+  },
+  {
+    "text": "At aking sinabi, Ano yaon? At kaniyang sinabi, Ito ang efa na lumalabas. Sinabi niya bukod dito, Ito ang kawangis nila sa buong lupain.",
+    "reference": "Zacarias 5:6 (ADB1905)",
+    "connected_to": "Zacarias 5:7",
+    "connected_from": "Zacarias 5:5"
+  },
+  {
+    "text": "(At, narito, itinaas ang isang talentong tingga); at ito'y isang babae na nauupo sa gitna ng efa.",
+    "reference": "Zacarias 5:7 (ADB1905)",
+    "connected_to": "Zacarias 5:8",
+    "connected_from": "Zacarias 5:6"
+  },
+  {
+    "text": "At kaniyang sinabi, Ito ang kasamaan; at kaniyang inihagis sa loob ng gitna ng efa: at kaniyang inihagis ang panimbang na tingga sa bunganga niyaon.",
+    "reference": "Zacarias 5:8 (ADB1905)",
+    "connected_to": "Zacarias 5:9",
+    "connected_from": "Zacarias 5:7"
+  },
+  {
+    "text": "Nang magkagayo'y itinanaw ko ang aking mga mata, at aking nakita at, narito, lumabas ang dalawang babae, at may dalang hangin sa kanilang mga pakpak; sila nga'y may mga pakpak na gaya ng mga pakpak ng tagak: at kanilang itinaas ang efa sa pagitan ng lupa at ng langit.",
+    "reference": "Zacarias 5:9 (ADB1905)",
+    "connected_to": "Zacarias 5:10",
+    "connected_from": "Zacarias 5:8"
+  },
+  {
+    "text": "Nang magkagayo'y sinabi ko sa anghel na nakikipagusap sa akin, Saan dinadala ng mga ito ang efa?",
+    "reference": "Zacarias 5:10 (ADB1905)",
+    "connected_to": "Zacarias 5:11",
+    "connected_from": "Zacarias 5:9"
+  },
+  {
+    "text": "At sinabi niya sa akin, Upang ipagtayo siya ng bahay sa lupain ng Shinar: at pagka nahanda na, siya'y malalagay roon sa kaniyang sariling dako.",
+    "reference": "Zacarias 5:11 (ADB1905)",
+    "connected_from": "Zacarias 5:10"
+  }
+]

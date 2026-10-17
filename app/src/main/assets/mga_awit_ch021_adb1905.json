@@ -1,0 +1,78 @@
+[
+  {
+    "text": "Ang hari ay magagalak sa iyong kalakasan, Oh Panginoon; at sa iyong pagliligtas gaano kalaki ang ikagagalak niya!",
+    "reference": "Mga Awit 21:1 (ADB1905)",
+    "connected_to": "Mga Awit 21:2"
+  },
+  {
+    "text": "Ibinigay mo sa kaniya ang nais ng kaniyang puso, at hindi mo ikinait ang hiling ng kaniyang mga labi. (Selah)",
+    "reference": "Mga Awit 21:2 (ADB1905)",
+    "connected_to": "Mga Awit 21:3",
+    "connected_from": "Mga Awit 21:1"
+  },
+  {
+    "text": "Sapagka't iyong sinalubong siya ng mga kapalaran na kabutihan: iyong pinuputungan ng isang putong na dalisay na ginto ang kaniyang ulo.",
+    "reference": "Mga Awit 21:3 (ADB1905)",
+    "connected_to": "Mga Awit 21:4",
+    "connected_from": "Mga Awit 21:2"
+  },
+  {
+    "text": "Siya'y humingi ng buhay sa iyo, iyong binigyan siya; pati ng kahabaan ng mga kaarawan magpakailan pa man.",
+    "reference": "Mga Awit 21:4 (ADB1905)",
+    "connected_to": "Mga Awit 21:5",
+    "connected_from": "Mga Awit 21:3"
+  },
+  {
+    "text": "Ang kaniyang kaluwalhatian ay dakila sa iyong pagliligtas: karangalan at kamahalan ay inilalagay mo sa kaniya.",
+    "reference": "Mga Awit 21:5 (ADB1905)",
+    "connected_to": "Mga Awit 21:6",
+    "connected_from": "Mga Awit 21:4"
+  },
+  {
+    "text": "Sapagka't ginagawa mo siyang pinakamapalad magpakailan man: iyong pinasasaya siya ng kagalakan sa iyong harapan.",
+    "reference": "Mga Awit 21:6 (ADB1905)",
+    "connected_to": "Mga Awit 21:7",
+    "connected_from": "Mga Awit 21:5"
+  },
+  {
+    "text": "Sapagka't ang hari ay tumitiwala sa Panginoon, at sa kagandahang-loob ng Kataastaasan ay hindi siya makikilos.",
+    "reference": "Mga Awit 21:7 (ADB1905)",
+    "connected_to": "Mga Awit 21:8",
+    "connected_from": "Mga Awit 21:6"
+  },
+  {
+    "text": "Masusumpungan ng iyong kamay ang lahat ng iyong mga kaaway: masusumpungan ng iyong kanan yaong mga nangagtatanim sa iyo.",
+    "reference": "Mga Awit 21:8 (ADB1905)",
+    "connected_to": "Mga Awit 21:9",
+    "connected_from": "Mga Awit 21:7"
+  },
+  {
+    "text": "Iyong gagawin sila na gaya ng mainit na hurno sa panahon ng iyong galit. Sasakmalin sila ng Panginoon sa kaniyang poot, at susupukin sila ng apoy.",
+    "reference": "Mga Awit 21:9 (ADB1905)",
+    "connected_to": "Mga Awit 21:10",
+    "connected_from": "Mga Awit 21:8"
+  },
+  {
+    "text": "Ang kanilang bunga ay iyong lilipulin mula sa lupa, at ang kanilang binhi ay mula sa gitna ng mga anak ng mga tao.",
+    "reference": "Mga Awit 21:10 (ADB1905)",
+    "connected_to": "Mga Awit 21:11",
+    "connected_from": "Mga Awit 21:9"
+  },
+  {
+    "text": "Sapagka't sila'y nagakala ng kasamaan laban sa iyo: sila'y nagpanukala ng lalang na hindi nila maisasagawa.",
+    "reference": "Mga Awit 21:11 (ADB1905)",
+    "connected_to": "Mga Awit 21:12",
+    "connected_from": "Mga Awit 21:10"
+  },
+  {
+    "text": "Sapagka't iyong patatalikurin sila, ikaw ay maghahanda ng iyong mga bagting ng busog laban sa mukha nila.",
+    "reference": "Mga Awit 21:12 (ADB1905)",
+    "connected_to": "Mga Awit 21:13",
+    "connected_from": "Mga Awit 21:11"
+  },
+  {
+    "text": "Mataas ka, Oh Panginoon, sa iyong kalakasan: sa gayo'y aming aawitin at pupurihin ang iyong kapangyarihan.",
+    "reference": "Mga Awit 21:13 (ADB1905)",
+    "connected_from": "Mga Awit 21:12"
+  }
+]

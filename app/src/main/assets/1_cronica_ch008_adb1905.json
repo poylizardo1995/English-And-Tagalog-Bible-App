@@ -1,0 +1,240 @@
+[
+  {
+    "text": "At naging anak ni Benjamin si Bela na kaniyang panganay, si Asbel ang ikalawa, at si Ara ang ikatlo;",
+    "reference": "1 Cronica 8:1 (ADB1905)",
+    "connected_to": "1 Cronica 8:2"
+  },
+  {
+    "text": "Si Noha ang ikaapat, at si Rapha ang ikalima.",
+    "reference": "1 Cronica 8:2 (ADB1905)",
+    "connected_to": "1 Cronica 8:3",
+    "connected_from": "1 Cronica 8:1"
+  },
+  {
+    "text": "At ang mga naging anak ni Bela: si Addar, at si Gera, at si Abiud;",
+    "reference": "1 Cronica 8:3 (ADB1905)",
+    "connected_to": "1 Cronica 8:4",
+    "connected_from": "1 Cronica 8:2"
+  },
+  {
+    "text": "At si Abisua, at si Naaman, at si Ahoa,",
+    "reference": "1 Cronica 8:4 (ADB1905)",
+    "connected_to": "1 Cronica 8:5",
+    "connected_from": "1 Cronica 8:3"
+  },
+  {
+    "text": "At si Gera, at si Sephuphim, at si Huram.",
+    "reference": "1 Cronica 8:5 (ADB1905)",
+    "connected_to": "1 Cronica 8:6",
+    "connected_from": "1 Cronica 8:4"
+  },
+  {
+    "text": "At ang mga ito ang mga anak ni Ehud; ang mga ito ang mga pangulo sa mga sangbahayan ng mga magulang ng mga taga Gabaa, at dinala nila silang bihag sa Manahath.",
+    "reference": "1 Cronica 8:6 (ADB1905)",
+    "connected_to": "1 Cronica 8:7",
+    "connected_from": "1 Cronica 8:5"
+  },
+  {
+    "text": "At si Naaman, at si Achias, at si Gera, ay kaniyang dinalang bihag; at kaniyang ipinanganak si Uzza at si Ahihud.",
+    "reference": "1 Cronica 8:7 (ADB1905)",
+    "connected_to": "1 Cronica 8:8",
+    "connected_from": "1 Cronica 8:6"
+  },
+  {
+    "text": "At si Saharaim ay nagkaanak sa parang ng Moab, pagkatapos na kaniyang mapagpaalam sila; si Husim, at si Baara ay ang kaniyang mga asawa.",
+    "reference": "1 Cronica 8:8 (ADB1905)",
+    "connected_to": "1 Cronica 8:9",
+    "connected_from": "1 Cronica 8:7"
+  },
+  {
+    "text": "At ipinanganak sa kaniya ni Chodes na kaniyang asawa, si Jobab, at si Sibias, at si Mesa, at si Malcham,",
+    "reference": "1 Cronica 8:9 (ADB1905)",
+    "connected_to": "1 Cronica 8:10",
+    "connected_from": "1 Cronica 8:8"
+  },
+  {
+    "text": "At si Jeus, at si Sochias, at si Mirma. Ang mga ito ang kaniyang mga anak na mga pangulo sa mga sangbahayan ng mga magulang.",
+    "reference": "1 Cronica 8:10 (ADB1905)",
+    "connected_to": "1 Cronica 8:11",
+    "connected_from": "1 Cronica 8:9"
+  },
+  {
+    "text": "At ipinanganak sa kaniya ni Husim si Abitob, at si Elphaal.",
+    "reference": "1 Cronica 8:11 (ADB1905)",
+    "connected_to": "1 Cronica 8:12",
+    "connected_from": "1 Cronica 8:10"
+  },
+  {
+    "text": "At ang mga anak ni Elphaal: si Heber, at si Misam, at si Semeb, na siyang nagsipagtayo ng Ono at ng Loth, pati ng mga nayon niyaon:",
+    "reference": "1 Cronica 8:12 (ADB1905)",
+    "connected_to": "1 Cronica 8:13",
+    "connected_from": "1 Cronica 8:11"
+  },
+  {
+    "text": "At si Berias, at si Sema na mga pangulo sa mga sangbahayan ng mga magulang ng mga taga Ajalon na siyang nangagpatakas sa mga taga Gath;",
+    "reference": "1 Cronica 8:13 (ADB1905)",
+    "connected_to": "1 Cronica 8:14",
+    "connected_from": "1 Cronica 8:12"
+  },
+  {
+    "text": "At si Ahio, si Sasac, at si Jeremoth;",
+    "reference": "1 Cronica 8:14 (ADB1905)",
+    "connected_to": "1 Cronica 8:15",
+    "connected_from": "1 Cronica 8:13"
+  },
+  {
+    "text": "At si Zebadias, at si Arad, at si Heder;",
+    "reference": "1 Cronica 8:15 (ADB1905)",
+    "connected_to": "1 Cronica 8:16",
+    "connected_from": "1 Cronica 8:14"
+  },
+  {
+    "text": "At si Michael, at si Ispha, at si Joa, na mga anak ni Berias;",
+    "reference": "1 Cronica 8:16 (ADB1905)",
+    "connected_to": "1 Cronica 8:17",
+    "connected_from": "1 Cronica 8:15"
+  },
+  {
+    "text": "At si Zebadias, at si Mesullam, at si Hizchi, at si Heber.",
+    "reference": "1 Cronica 8:17 (ADB1905)",
+    "connected_to": "1 Cronica 8:18",
+    "connected_from": "1 Cronica 8:16"
+  },
+  {
+    "text": "At si Ismari, at si Izlia, at si Jobab, na mga anak ni Elphaal;",
+    "reference": "1 Cronica 8:18 (ADB1905)",
+    "connected_to": "1 Cronica 8:19",
+    "connected_from": "1 Cronica 8:17"
+  },
+  {
+    "text": "At si Jacim, at si Zichri, at si Zabdi;",
+    "reference": "1 Cronica 8:19 (ADB1905)",
+    "connected_to": "1 Cronica 8:20",
+    "connected_from": "1 Cronica 8:18"
+  },
+  {
+    "text": "At si Elioenai, at si Silithai, at si Eliel;",
+    "reference": "1 Cronica 8:20 (ADB1905)",
+    "connected_to": "1 Cronica 8:21",
+    "connected_from": "1 Cronica 8:19"
+  },
+  {
+    "text": "At si Adaias, at si Baraias, at si Simrath, na mga anak ni Simi;",
+    "reference": "1 Cronica 8:21 (ADB1905)",
+    "connected_to": "1 Cronica 8:22",
+    "connected_from": "1 Cronica 8:20"
+  },
+  {
+    "text": "At si Isphan, at si Heber, at si Eliel;",
+    "reference": "1 Cronica 8:22 (ADB1905)",
+    "connected_to": "1 Cronica 8:23",
+    "connected_from": "1 Cronica 8:21"
+  },
+  {
+    "text": "At si Adon, at si Zichri, at si Hanan;",
+    "reference": "1 Cronica 8:23 (ADB1905)",
+    "connected_to": "1 Cronica 8:24",
+    "connected_from": "1 Cronica 8:22"
+  },
+  {
+    "text": "At si Hanania, at si Belam, at si Anthothias;",
+    "reference": "1 Cronica 8:24 (ADB1905)",
+    "connected_to": "1 Cronica 8:25",
+    "connected_from": "1 Cronica 8:23"
+  },
+  {
+    "text": "At si Iphdaias, at si Peniel, na mga anak ni Sasac;",
+    "reference": "1 Cronica 8:25 (ADB1905)",
+    "connected_to": "1 Cronica 8:26",
+    "connected_from": "1 Cronica 8:24"
+  },
+  {
+    "text": "At si Samseri, at si Seharias, at si Atalia;",
+    "reference": "1 Cronica 8:26 (ADB1905)",
+    "connected_to": "1 Cronica 8:27",
+    "connected_from": "1 Cronica 8:25"
+  },
+  {
+    "text": "At si Jaarsias, at si Elias, at si Ziri, na mga anak ni Jeroham.",
+    "reference": "1 Cronica 8:27 (ADB1905)",
+    "connected_to": "1 Cronica 8:28",
+    "connected_from": "1 Cronica 8:26"
+  },
+  {
+    "text": "Ang mga ito ang mga pangulo sa mga sangbahayan ng mga magulang ayon sa kanilang lahi, na mga pinunong lalake: ang mga ito'y nagsitahan sa Jerusalem.",
+    "reference": "1 Cronica 8:28 (ADB1905)",
+    "connected_to": "1 Cronica 8:29",
+    "connected_from": "1 Cronica 8:27"
+  },
+  {
+    "text": "At sa Gabaon ay tumahan ang ama ni Gabaon, si Jeiel, na ang pangalan ng asawa ay Maacha:",
+    "reference": "1 Cronica 8:29 (ADB1905)",
+    "connected_to": "1 Cronica 8:30",
+    "connected_from": "1 Cronica 8:28"
+  },
+  {
+    "text": "At ang kaniyang anak na panganay si Abdon, at si Sur, at si Cis, at si Baal, at si Nadab;",
+    "reference": "1 Cronica 8:30 (ADB1905)",
+    "connected_to": "1 Cronica 8:31",
+    "connected_from": "1 Cronica 8:29"
+  },
+  {
+    "text": "At si Gedor, at si Ahio, at si Zecher.",
+    "reference": "1 Cronica 8:31 (ADB1905)",
+    "connected_to": "1 Cronica 8:32",
+    "connected_from": "1 Cronica 8:30"
+  },
+  {
+    "text": "At naging anak ni Micloth si Simea. At sila nama'y nagsitahang kasama ng kanilang mga kapatid sa Jerusalem, sa tapat ng kanilang mga kapatid.",
+    "reference": "1 Cronica 8:32 (ADB1905)",
+    "connected_to": "1 Cronica 8:33",
+    "connected_from": "1 Cronica 8:31"
+  },
+  {
+    "text": "At naging anak ni Ner si Cis; at naging anak ni Cis si Saul; at naging anak ni Saul si Jonathan, at si Malchi-sua, at si Abinadab, at si Esbaal.",
+    "reference": "1 Cronica 8:33 (ADB1905)",
+    "connected_to": "1 Cronica 8:34",
+    "connected_from": "1 Cronica 8:32"
+  },
+  {
+    "text": "At ang anak ni Jonathan ay si Merib-baal; at naging anak ni Merib-baal si Micha.",
+    "reference": "1 Cronica 8:34 (ADB1905)",
+    "connected_to": "1 Cronica 8:35",
+    "connected_from": "1 Cronica 8:33"
+  },
+  {
+    "text": "At ang mga anak ni Micha: si Phiton, at si Melech, at si Thaarea, at si Ahaz.",
+    "reference": "1 Cronica 8:35 (ADB1905)",
+    "connected_to": "1 Cronica 8:36",
+    "connected_from": "1 Cronica 8:34"
+  },
+  {
+    "text": "At naging anak ni Ahaz si Joadda; at naging anak ni Joadda si Alemeth, at si Azmaveth, at si Zimri; at naging anak ni Zimri si Mosa;",
+    "reference": "1 Cronica 8:36 (ADB1905)",
+    "connected_to": "1 Cronica 8:37",
+    "connected_from": "1 Cronica 8:35"
+  },
+  {
+    "text": "At naging anak ni Mosa si Bina; si Rapha na kaniyang anak, si Elasa na kaniyang anak, si Asel na kaniyang anak:",
+    "reference": "1 Cronica 8:37 (ADB1905)",
+    "connected_to": "1 Cronica 8:38",
+    "connected_from": "1 Cronica 8:36"
+  },
+  {
+    "text": "At si Asel ay nagkaroon ng anim na anak, na ang mga pangalan ay ito: si Azricam, si Bochru, at si Ismael, at si Searias, at si Obadias, at si Hanan. Lahat ng ito'y ang mga anak ni Asel.",
+    "reference": "1 Cronica 8:38 (ADB1905)",
+    "connected_to": "1 Cronica 8:39",
+    "connected_from": "1 Cronica 8:37"
+  },
+  {
+    "text": "At ang mga anak ni Esec na kaniyang kapatid: si Ulam na kaniyang panganay, si Jehus na ikalawa, at si Elipheleth na ikatlo.",
+    "reference": "1 Cronica 8:39 (ADB1905)",
+    "connected_to": "1 Cronica 8:40",
+    "connected_from": "1 Cronica 8:38"
+  },
+  {
+    "text": "At ang mga anak ni Ulam ay mga makapangyarihang lalaking may tapang, na mga mamamana, at nagkaroon ng maraming anak, at mga anak ng mga anak, na isang daan at limangpu. Lahat, ng ito'y ang mga anak ni Benjamin.",
+    "reference": "1 Cronica 8:40 (ADB1905)",
+    "connected_from": "1 Cronica 8:39"
+  }
+]

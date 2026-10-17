@@ -1,0 +1,54 @@
+[
+  {
+    "text": "Ang Panginoon ay sumasagot sa iyo sa araw ng kabagabagan; itaas ka sa mataas ng pangalan ng Dios ni Jacob;",
+    "reference": "Mga Awit 20:1 (ADB1905)",
+    "connected_to": "Mga Awit 20:2"
+  },
+  {
+    "text": "Saklolohan ka mula sa santuario, at palakasin ka mula sa Sion;",
+    "reference": "Mga Awit 20:2 (ADB1905)",
+    "connected_to": "Mga Awit 20:3",
+    "connected_from": "Mga Awit 20:1"
+  },
+  {
+    "text": "Alalahanin nawa ang lahat ng iyong mga handog, at tanggapin niya ang iyong mga haing sinunog; (Selah)",
+    "reference": "Mga Awit 20:3 (ADB1905)",
+    "connected_to": "Mga Awit 20:4",
+    "connected_from": "Mga Awit 20:2"
+  },
+  {
+    "text": "Pagkalooban ka nawa ng nais ng iyong puso, at tuparin ang lahat ng iyong payo.",
+    "reference": "Mga Awit 20:4 (ADB1905)",
+    "connected_to": "Mga Awit 20:5",
+    "connected_from": "Mga Awit 20:3"
+  },
+  {
+    "text": "Kami ay magtatagumpay sa iyong pagliligtas, at sa pangalan ng aming Dios ay aming itataas ang aming mga watawat: ganapin nawa ng Panginoon ang lahat ng iyong mga hingi.",
+    "reference": "Mga Awit 20:5 (ADB1905)",
+    "connected_to": "Mga Awit 20:6",
+    "connected_from": "Mga Awit 20:4"
+  },
+  {
+    "text": "Talastas ko ngayon na inililigtas ng Panginoon ang kaniyang pinahiran ng langis; sasagutin niya siya mula sa kaniyang banal na langit ng pangligtas na kalakasan ng kaniyang kanang kamay.",
+    "reference": "Mga Awit 20:6 (ADB1905)",
+    "connected_to": "Mga Awit 20:7",
+    "connected_from": "Mga Awit 20:5"
+  },
+  {
+    "text": "Ang iba ay tumitiwala sa mga karo, at ang iba ay sa mga kabayo: nguni't babanggitin namin ang pangalan ng Panginoon naming Dios.",
+    "reference": "Mga Awit 20:7 (ADB1905)",
+    "connected_to": "Mga Awit 20:8",
+    "connected_from": "Mga Awit 20:6"
+  },
+  {
+    "text": "Sila'y nangakasubsob at buwal: nguni't kami ay nakatindig at nakatayo na matuwid.",
+    "reference": "Mga Awit 20:8 (ADB1905)",
+    "connected_to": "Mga Awit 20:9",
+    "connected_from": "Mga Awit 20:7"
+  },
+  {
+    "text": "Magligtas ka, Panginoon: sagutin nawa kami ng Hari pagka kami ay nagsisitawag.",
+    "reference": "Mga Awit 20:9 (ADB1905)",
+    "connected_from": "Mga Awit 20:8"
+  }
+]

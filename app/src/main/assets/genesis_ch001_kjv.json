@@ -1,10 +1,5 @@
 [
   {
-    "text": "In the beginning God created the heaven and the earth.",
-    "reference": "Genesis 1:1 (KJV)",
-    "connected_to": "Genesis 1:2"
-  },
-  {
     "text": "And the earth was without form, and void; and darkness [was] upon the face of the deep. And the Spirit of God moved upon the face of the waters.",
     "reference": "Genesis 1:2 (KJV)",
     "connected_to": "Genesis 1:3",
@@ -175,7 +170,6 @@
   {
     "text": "And to every beast of the earth, and to every fowl of the air, and to every thing that creepeth upon the earth, wherein [there is] life, [I have given] every green herb for meat: and it was so.",
     "reference": "Genesis 1:30 (KJV)",
-    "connected_to": "Genesis 1:31",
     "connected_from": "Genesis 1:29"
   },
   {

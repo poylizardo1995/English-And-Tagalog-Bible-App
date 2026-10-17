@@ -1,0 +1,96 @@
+[
+  {
+    "text": "Si Sarai nga na asawa ni Abram ay hindi nagkaanak sa kaniya; at siya'y may isang alilang babae na taga Egipto, na nagngangalang Agar.",
+    "reference": "Genesis 16:1 (ADB1905)",
+    "connected_to": "Genesis 16:2"
+  },
+  {
+    "text": "At sinabi ni Sarai kay Abram, Narito, ngayon, ako'y hinadlangan ng Panginoon na ako'y magkaanak; ipinamamanhik ko sa iyong sumiping ka sa aking alilang babae; marahil ay magkakaanak ako sa pamamagitan niya. At dininig ni Abram ang sabi ni Sarai.",
+    "reference": "Genesis 16:2 (ADB1905)",
+    "connected_to": "Genesis 16:3",
+    "connected_from": "Genesis 16:1"
+  },
+  {
+    "text": "At kinuha ni Sarai na asawa ni Abram, si Agar na taga Egipto, na kaniyang alila, pagkaraan ng sangpung taon na makatahan si Abram sa lupain ng Canaan, at ibinigay kay Abram na kaniyang asawa upang maging asawa niya.",
+    "reference": "Genesis 16:3 (ADB1905)",
+    "connected_to": "Genesis 16:4",
+    "connected_from": "Genesis 16:2"
+  },
+  {
+    "text": "At siya'y sumiping kay Agar, at naglihi: at nang makita niyang siya'y naglihi, ay niwalang halaga niya ang kaniyang panginoong babae sa kaniyang paningin.",
+    "reference": "Genesis 16:4 (ADB1905)",
+    "connected_to": "Genesis 16:5",
+    "connected_from": "Genesis 16:3"
+  },
+  {
+    "text": "At sinabi ni Sarai kay Abram, Ang aking pagkaapi ay sumaiyo: idinulot ko ang aking alila sa iyong sinapupunan; at nang makita niyang siya'y naglihi, ay niwalan akong kabuluhan sa kaniyang paningin: ang Panginoon ang humatol sa akin at sa iyo.",
+    "reference": "Genesis 16:5 (ADB1905)",
+    "connected_to": "Genesis 16:6",
+    "connected_from": "Genesis 16:4"
+  },
+  {
+    "text": "Datapuwa't sinabi ni Abram kay Sarai, Narito, ang iyong alila ay nasa iyong kamay; gawin mo sa kaniya ang iyong minamagaling sa iyong paningin. At dinuwahagi siya ni Sarai, at si Agar ay tumakas mula sa kaniyang harap.",
+    "reference": "Genesis 16:6 (ADB1905)",
+    "connected_to": "Genesis 16:7",
+    "connected_from": "Genesis 16:5"
+  },
+  {
+    "text": "At nasumpungan siya ng anghel ng Panginoon sa tabi ng isang bukal ng tubig sa ilang, sa bukal na nasa daang patungo sa Shur.",
+    "reference": "Genesis 16:7 (ADB1905)",
+    "connected_to": "Genesis 16:8",
+    "connected_from": "Genesis 16:6"
+  },
+  {
+    "text": "At sinabi, Agar, alila ni Sarai, saan ka nanggaling? at saan ka paroroon? at kaniyang sinabi, Ako'y tumatakas mula sa harap ni Sarai na aking panginoon.",
+    "reference": "Genesis 16:8 (ADB1905)",
+    "connected_to": "Genesis 16:9",
+    "connected_from": "Genesis 16:7"
+  },
+  {
+    "text": "At sinabi sa kaniya ng anghel ng Panginoon, Magbalik ka sa iyong panginoon, at pahinuhod ka sa kaniyang mga kamay.",
+    "reference": "Genesis 16:9 (ADB1905)",
+    "connected_to": "Genesis 16:10",
+    "connected_from": "Genesis 16:8"
+  },
+  {
+    "text": "At sinabi sa kaniya ng anghel ng Panginoon, Pararamihin kong mainam ang iyong binhi, na hindi mabibilang dahil sa karamihan.",
+    "reference": "Genesis 16:10 (ADB1905)",
+    "connected_to": "Genesis 16:11",
+    "connected_from": "Genesis 16:9"
+  },
+  {
+    "text": "At sinabi sa kaniya ng anghel ng Panginoon, Narito't ikaw ay nagdadalang-tao at ikaw ay manganganak ng isang lalake; at ang itatawag mo sa kaniyang ngalan ay Ismael, sapagka't diningig ng Panginoon ang iyong kadalamhatian.",
+    "reference": "Genesis 16:11 (ADB1905)",
+    "connected_to": "Genesis 16:12",
+    "connected_from": "Genesis 16:10"
+  },
+  {
+    "text": "At siya'y magiging parang asnong bundok sa gitna ng mga tao; ang kaniyang kamay ay magiging laban sa lahat, at ang kamay ng lahat ay laban sa kaniya; at siya'y tatahan sa harap ng lahat niyang mga kapatid.",
+    "reference": "Genesis 16:12 (ADB1905)",
+    "connected_to": "Genesis 16:13",
+    "connected_from": "Genesis 16:11"
+  },
+  {
+    "text": "At kaniyang tinawagan ang ngalan ng Panginoon na nagsalita sa kaniya, Ikaw ay Dios na nakakakita: sapagka't sinabi niya, Namasdan ko rin ba rito ang likuran niyaong nakakakita sa akin?",
+    "reference": "Genesis 16:13 (ADB1905)",
+    "connected_to": "Genesis 16:14",
+    "connected_from": "Genesis 16:12"
+  },
+  {
+    "text": "Kaya't nginalanan ang balong yaon Balon ng Nabubuhay na nakakakita sa akin; narito't ito'y nasa pagitan ng Cades at Bered.",
+    "reference": "Genesis 16:14 (ADB1905)",
+    "connected_to": "Genesis 16:15",
+    "connected_from": "Genesis 16:13"
+  },
+  {
+    "text": "At nanganak si Agar ng isang lalake kay Abram at ang itinawag ni Abram, na pangalan sa kaniyang anak na ipinanganak ni Agar, ay Ismael.",
+    "reference": "Genesis 16:15 (ADB1905)",
+    "connected_to": "Genesis 16:16",
+    "connected_from": "Genesis 16:14"
+  },
+  {
+    "text": "At si Abram ay may walong pu't anim na taon nang ipanganak si Ismael ni Agar kay Abram.",
+    "reference": "Genesis 16:16 (ADB1905)",
+    "connected_from": "Genesis 16:15"
+  }
+]

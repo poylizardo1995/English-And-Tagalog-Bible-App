@@ -1,0 +1,156 @@
+[
+  {
+    "text": "Pagkatapos nito'y ibinuka ni Job ang kaniyang bibig at sinumpa ang kaniyang kaarawan.",
+    "reference": "Job 3:1 (ADB1905)",
+    "connected_to": "Job 3:2"
+  },
+  {
+    "text": "At si Job ay sumagot, at nagsabi,",
+    "reference": "Job 3:2 (ADB1905)",
+    "connected_to": "Job 3:3",
+    "connected_from": "Job 3:1"
+  },
+  {
+    "text": "Maparam nawa ang kaarawan ng kapanganakan sa akin, at ang gabi na nagsabi, may lalaking ipinaglihi.",
+    "reference": "Job 3:3 (ADB1905)",
+    "connected_to": "Job 3:4",
+    "connected_from": "Job 3:2"
+  },
+  {
+    "text": "Magdilim nawa ang kaarawang yaon; huwag nawang pansinin ng Dios mula sa itaas, ni silangan man ng liwanag.",
+    "reference": "Job 3:4 (ADB1905)",
+    "connected_to": "Job 3:5",
+    "connected_from": "Job 3:3"
+  },
+  {
+    "text": "Ang dilim at ang salimuot na kadiliman ang siyang mangagari niyaon; pag-ulapan nawa yaon; Pangilabutin nawa yaon ng lahat na nagpapadilim sa araw.",
+    "reference": "Job 3:5 (ADB1905)",
+    "connected_to": "Job 3:6",
+    "connected_from": "Job 3:4"
+  },
+  {
+    "text": "Suma gabing yaon nawa ang pagsasalimuot ng kadiliman: huwag nawang kagalakan sa mga araw ng sangtaon; huwag nawang mapasok sa bilang ng mga buwan.",
+    "reference": "Job 3:6 (ADB1905)",
+    "connected_to": "Job 3:7",
+    "connected_from": "Job 3:5"
+  },
+  {
+    "text": "Narito, mapagisa ang gabing yaon; huwag nawang datnan yaon ng masayang tinig.",
+    "reference": "Job 3:7 (ADB1905)",
+    "connected_to": "Job 3:8",
+    "connected_from": "Job 3:6"
+  },
+  {
+    "text": "Sumpain nawa yaong nanganunumpa sa araw, ng nangamimihasang gumalaw sa buwaya.",
+    "reference": "Job 3:8 (ADB1905)",
+    "connected_to": "Job 3:9",
+    "connected_from": "Job 3:7"
+  },
+  {
+    "text": "Mangagdilim nawa ang mga bituin ng pagtatakip-silim niyaon: maghintay nawa ng liwanag, nguni't huwag magkaroon: ni huwag mamalas ang mga bukang liwayway ng umaga:",
+    "reference": "Job 3:9 (ADB1905)",
+    "connected_to": "Job 3:10",
+    "connected_from": "Job 3:8"
+  },
+  {
+    "text": "Sapagka't hindi tinakpan ang mga pinto ng bahay-bata ng aking ina, o ikinubli man ang kabagabagan sa aking mga mata.",
+    "reference": "Job 3:10 (ADB1905)",
+    "connected_to": "Job 3:11",
+    "connected_from": "Job 3:9"
+  },
+  {
+    "text": "Bakit hindi pa ako namatay mula sa bahay-bata? Bakit di pa napatid ang aking hininga nang ipanganak ako ng aking ina?",
+    "reference": "Job 3:11 (ADB1905)",
+    "connected_to": "Job 3:12",
+    "connected_from": "Job 3:10"
+  },
+  {
+    "text": "Bakit tinanggap ako ng mga tuhod? O bakit ng mga suso, na aking sususuhin?",
+    "reference": "Job 3:12 (ADB1905)",
+    "connected_to": "Job 3:13",
+    "connected_from": "Job 3:11"
+  },
+  {
+    "text": "Sapagka't ngayon ay nahihiga sana ako at natatahimik; ako sana'y nakakatulog; na napapahinga ako:",
+    "reference": "Job 3:13 (ADB1905)",
+    "connected_to": "Job 3:14",
+    "connected_from": "Job 3:12"
+  },
+  {
+    "text": "Na kasama ng mga hari at ng mga kasangguni sa lupa, na nagsisigawa ng mga dakong ilang sa ganang kanila;",
+    "reference": "Job 3:14 (ADB1905)",
+    "connected_to": "Job 3:15",
+    "connected_from": "Job 3:13"
+  },
+  {
+    "text": "O ng mga pangulo na nangagkaroon ng ginto, na pumuno sa kanilang bahay ng pilak:",
+    "reference": "Job 3:15 (ADB1905)",
+    "connected_to": "Job 3:16",
+    "connected_from": "Job 3:14"
+  },
+  {
+    "text": "O gaya sana ng nalagas na nakatago, na hindi nabuhay; gaya sana ng sanggol na kailan man ay hindi nakakita ng liwanag.",
+    "reference": "Job 3:16 (ADB1905)",
+    "connected_to": "Job 3:17",
+    "connected_from": "Job 3:15"
+  },
+  {
+    "text": "Doo'y naglilikat ang masama sa pagbagabag; at doo'y nagpapahinga ang pagod.",
+    "reference": "Job 3:17 (ADB1905)",
+    "connected_to": "Job 3:18",
+    "connected_from": "Job 3:16"
+  },
+  {
+    "text": "Doo'y ang mga bihag ay nangagpapahingang magkakasama; hindi nila naririnig ang tinig ng nagpapaatag.",
+    "reference": "Job 3:18 (ADB1905)",
+    "connected_to": "Job 3:19",
+    "connected_from": "Job 3:17"
+  },
+  {
+    "text": "Ang mababa at ang mataas ay nangaroon; at ang alipin ay laya sa kaniyang panginoon.",
+    "reference": "Job 3:19 (ADB1905)",
+    "connected_to": "Job 3:20",
+    "connected_from": "Job 3:18"
+  },
+  {
+    "text": "Bakit binibigyan ng liwanag ang nasa karalitaan, at ng buhay ang kaluluwang nasa kahirapan;",
+    "reference": "Job 3:20 (ADB1905)",
+    "connected_to": "Job 3:21",
+    "connected_from": "Job 3:19"
+  },
+  {
+    "text": "Na naghihintay ng kamatayan, nguni't hindi dumarating; at hinahangad ng higit kaysa mga kayamanang nakatago;",
+    "reference": "Job 3:21 (ADB1905)",
+    "connected_to": "Job 3:22",
+    "connected_from": "Job 3:20"
+  },
+  {
+    "text": "Na nagagalak ng di kawasa, at nangasasayahan, pagka nasumpungan ang libingan?",
+    "reference": "Job 3:22 (ADB1905)",
+    "connected_to": "Job 3:23",
+    "connected_from": "Job 3:21"
+  },
+  {
+    "text": "Bakit binibigyan ng liwanag ang tao na kinalilingiran ng lakad, at ang kinulong ng Dios?",
+    "reference": "Job 3:23 (ADB1905)",
+    "connected_to": "Job 3:24",
+    "connected_from": "Job 3:22"
+  },
+  {
+    "text": "Sapagka't nagbubuntong hininga ako bago ako kumain, at ang aking mga angal ay bumubugsong parang tubig.",
+    "reference": "Job 3:24 (ADB1905)",
+    "connected_to": "Job 3:25",
+    "connected_from": "Job 3:23"
+  },
+  {
+    "text": "Sapagka't ang bagay na aking kinatatakutan ay dumarating sa akin, at ang aking pinangingilabutan ay dumarating sa akin.",
+    "reference": "Job 3:25 (ADB1905)",
+    "connected_to": "Job 3:26",
+    "connected_from": "Job 3:24"
+  },
+  {
+    "text": "Hindi ako tiwasay, ni ako man ay tahimik, ni ako man ay napapahinga; kundi kabagabagan ang dumarating.",
+    "reference": "Job 3:26 (ADB1905)",
+    "connected_from": "Job 3:25"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "text": "Oh Dios, ikaw ay Dios ko; hahanapin kitang maaga: kinauuhawan ka ng aking kaluluwa, pinananabikan ka ng aking laman, sa isang tuyo at uhaw na lupa na walang tubig.",
+    "reference": "Mga Awit 63:1 (ADB1905)",
+    "connected_to": "Mga Awit 63:2"
+  },
+  {
+    "text": "Sa gayo'y tumingin ako sa iyo sa santuario. Upang tanawin ang iyong kapangyarihan at ang iyong kaluwalhatian.",
+    "reference": "Mga Awit 63:2 (ADB1905)",
+    "connected_to": "Mga Awit 63:3",
+    "connected_from": "Mga Awit 63:1"
+  },
+  {
+    "text": "Sapagka't ang iyong kagandahang-loob ay mainam kay sa buhay: pupurihin ka ng aking mga labi.",
+    "reference": "Mga Awit 63:3 (ADB1905)",
+    "connected_to": "Mga Awit 63:4",
+    "connected_from": "Mga Awit 63:2"
+  },
+  {
+    "text": "Sa gayo'y pupurihin kita habang ako'y nabubuhay: igagawad ko ang aking mga kamay sa iyong pangalan.",
+    "reference": "Mga Awit 63:4 (ADB1905)",
+    "connected_to": "Mga Awit 63:5",
+    "connected_from": "Mga Awit 63:3"
+  },
+  {
+    "text": "Ang kaluluwa ko'y matutuwa na gaya sa utak at taba; at ang bibig ko'y pupuri sa iyo ng masayang mga labi;",
+    "reference": "Mga Awit 63:5 (ADB1905)",
+    "connected_to": "Mga Awit 63:6",
+    "connected_from": "Mga Awit 63:4"
+  },
+  {
+    "text": "Pagka naaalaala kita sa aking higaan, at ginugunita kita sa pagbabantay sa gabi.",
+    "reference": "Mga Awit 63:6 (ADB1905)",
+    "connected_to": "Mga Awit 63:7",
+    "connected_from": "Mga Awit 63:5"
+  },
+  {
+    "text": "Sapagka't naging katulong kita, at sa lilim ng mga pakpak mo'y magagalak ako.",
+    "reference": "Mga Awit 63:7 (ADB1905)",
+    "connected_to": "Mga Awit 63:8",
+    "connected_from": "Mga Awit 63:6"
+  },
+  {
+    "text": "Ang kaluluwa ko'y nanununod na mainam sa iyo: inaalalayan ako ng iyong kanan.",
+    "reference": "Mga Awit 63:8 (ADB1905)",
+    "connected_to": "Mga Awit 63:9",
+    "connected_from": "Mga Awit 63:7"
+  },
+  {
+    "text": "Nguni't ang nagsisihanap ng kaluluwa ko, upang ipahamak, magsisilusong sa mga lalong mababang bahagi ng lupa.",
+    "reference": "Mga Awit 63:9 (ADB1905)",
+    "connected_to": "Mga Awit 63:10",
+    "connected_from": "Mga Awit 63:8"
+  },
+  {
+    "text": "Sila'y mangahuhulog sa kapangyarihan ng tabak: sila'y magiging pagkain sa mga zorra.",
+    "reference": "Mga Awit 63:10 (ADB1905)",
+    "connected_to": "Mga Awit 63:11",
+    "connected_from": "Mga Awit 63:9"
+  },
+  {
+    "text": "Nguni't ang hari ay magagalak sa Dios: bawa't sumusumpa sa pamamagitan niya ay luluwalhati; sapagka't ang bibig nila na nagsasalita ng mga kasinungalingan ay patitigilin.",
+    "reference": "Mga Awit 63:11 (ADB1905)",
+    "connected_from": "Mga Awit 63:10"
+  }
+]

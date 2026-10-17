@@ -1,0 +1,90 @@
+[
+  {
+    "text": "Nguni't magsalita ka ng mga bagay na nauukol sa aral na magaling:",
+    "reference": "Tito 2:1 (ADB1905)",
+    "connected_to": "Tito 2:2"
+  },
+  {
+    "text": "Na ang matatandang lalake ay maging mapagpigil, mahusay, mahinahon ang pagiisip, magagaling sa pananampalataya, sa pagibig, sa pagtitiis:",
+    "reference": "Tito 2:2 (ADB1905)",
+    "connected_to": "Tito 2:3",
+    "connected_from": "Tito 2:1"
+  },
+  {
+    "text": "Na gayon din ang matatandang babae ay maging magalang sa kanilang kilos, hindi palabintangin ni paalipin man sa maraming alak, mga guro ng kabutihan;",
+    "reference": "Tito 2:3 (ADB1905)",
+    "connected_to": "Tito 2:4",
+    "connected_from": "Tito 2:2"
+  },
+  {
+    "text": "Upang kanilang maturuan ang mga babaing may kabataan na magsiibig sa kanikaniyang asawa, magsiibig sa kanilang mga anak, mangagpakahinahon,",
+    "reference": "Tito 2:4 (ADB1905)",
+    "connected_to": "Tito 2:5",
+    "connected_from": "Tito 2:3"
+  },
+  {
+    "text": "Mangagpakahinahon, mangagpakalinis, mangagpakasipag sa bahay, magagandang-loob, pasakop sa kanikaniyang asawa, upang huwag lapastanganin ang salita ng Dios:",
+    "reference": "Tito 2:5 (ADB1905)",
+    "connected_to": "Tito 2:6",
+    "connected_from": "Tito 2:4"
+  },
+  {
+    "text": "Iaral mo rin naman sa mga bagong tao na sila'y mangagpakahinahon ng pagiisip:",
+    "reference": "Tito 2:6 (ADB1905)",
+    "connected_to": "Tito 2:7",
+    "connected_from": "Tito 2:5"
+  },
+  {
+    "text": "Sa lahat ng mga bagay ay magpakilala kang ikaw ay isang uliran sa mabubuting gawa; at sa iyong aral ay ipakilala mo ang walang kamalian ang kahusayan,",
+    "reference": "Tito 2:7 (ADB1905)",
+    "connected_to": "Tito 2:8",
+    "connected_from": "Tito 2:6"
+  },
+  {
+    "text": "Pangungusap na magaling, na di mahahatulan; upang sila na nasa kabilang panig ay mahiya, nang walang anomang masamang masabi tungkol sa atin.",
+    "reference": "Tito 2:8 (ADB1905)",
+    "connected_to": "Tito 2:9",
+    "connected_from": "Tito 2:7"
+  },
+  {
+    "text": "Iaral mo sa mga alipin na sila'y pasakop sa kanikaniyang Panginoon, at kanilang kalugdan sa lahat ng mga bagay; at huwag mga masagutin;",
+    "reference": "Tito 2:9 (ADB1905)",
+    "connected_to": "Tito 2:10",
+    "connected_from": "Tito 2:8"
+  },
+  {
+    "text": "Huwag mangagdaya, kundi mangagpakita ng buong buting pagtatapat; upang pamutihan sa lahat ng mga bagay ang aral ng Dios na ating Tagapagligtas.",
+    "reference": "Tito 2:10 (ADB1905)",
+    "connected_to": "Tito 2:11",
+    "connected_from": "Tito 2:9"
+  },
+  {
+    "text": "Sapagka't napakita ang biyaya ng Dios, na may dalang kaligtasan sa lahat ng mga tao,",
+    "reference": "Tito 2:11 (ADB1905)",
+    "connected_to": "Tito 2:12",
+    "connected_from": "Tito 2:10"
+  },
+  {
+    "text": "Na nagtuturo sa atin, upang, pagtanggi natin sa kalikuan at sa mga kahalayan ng sanglibutan, ay marapat mabuhay tayong may pagpipigil at matuwid at banal sa panahong kasalukuyan ng sanglibutang ito;",
+    "reference": "Tito 2:12 (ADB1905)",
+    "connected_to": "Tito 2:13",
+    "connected_from": "Tito 2:11"
+  },
+  {
+    "text": "Na hintayin yaong mapalad na pagasa at ang pagpapakita ng kaluwalhatian ng ating dakilang Dios at Tagapagligtas na si Jesucristo;",
+    "reference": "Tito 2:13 (ADB1905)",
+    "connected_to": "Tito 2:14",
+    "connected_from": "Tito 2:12"
+  },
+  {
+    "text": "Na siyang nagbigay ng kaniyang sarili dahil sa atin, upang tayo'y matubos niya sa lahat ng mga kasamaan, at malinis niya sa kaniyang sarili ang bayang masikap sa mabubuting gawa, upang maging kaniyang sariling pag-aari.",
+    "reference": "Tito 2:14 (ADB1905)",
+    "connected_to": "Tito 2:15",
+    "connected_from": "Tito 2:13"
+  },
+  {
+    "text": "Ang mga bagay na ito ay iyong salitain at iaral at isaway ng buong kapangyarihan. Sinoman ay huwag humamak sa iyo.",
+    "reference": "Tito 2:15 (ADB1905)",
+    "connected_from": "Tito 2:14"
+  }
+]

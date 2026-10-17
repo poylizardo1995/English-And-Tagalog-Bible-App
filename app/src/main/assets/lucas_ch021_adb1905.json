@@ -1,0 +1,228 @@
+[
+  {
+    "text": "At siya'y tumunghay, at nakita ang mga taong mayayaman na nangaghuhulog ng kanilang mga alay sa kabangyaman.",
+    "reference": "Lucas 21:1 (ADB1905)",
+    "connected_to": "Lucas 21:2"
+  },
+  {
+    "text": "At nakita niya ang isang dukhang babaing bao na doo'y naghuhulog ng dalawang lepta.",
+    "reference": "Lucas 21:2 (ADB1905)",
+    "connected_to": "Lucas 21:3",
+    "connected_from": "Lucas 21:1"
+  },
+  {
+    "text": "At sinabi niya, Sa katotohana'y sinasabi ko sa inyo, Ang dukhang babaing baong ito ay naghulog ng higit kay sa kanilang lahat.",
+    "reference": "Lucas 21:3 (ADB1905)",
+    "connected_to": "Lucas 21:4",
+    "connected_from": "Lucas 21:2"
+  },
+  {
+    "text": "Sapagka't ang lahat ng mga yaon ay nangaghulog sa mga alay ng sa kanila'y labis; datapuwa't siya, sa kaniyang kasalatan ay inihulog ang buong kaniyang ikabubuhay na nasa kaniya.",
+    "reference": "Lucas 21:4 (ADB1905)",
+    "connected_to": "Lucas 21:5",
+    "connected_from": "Lucas 21:3"
+  },
+  {
+    "text": "At samantalang sinasalita ng ilan ang tungkol sa templo, kung paanong ito'y pinalamutihan ng magagandang bato at mga hain, ay kaniyang sinabi,",
+    "reference": "Lucas 21:5 (ADB1905)",
+    "connected_to": "Lucas 21:6",
+    "connected_from": "Lucas 21:4"
+  },
+  {
+    "text": "Tungkol sa mga bagay na ito na inyong nangakikita, ay darating ang mga araw, na walang maiiwan ditong isang bato sa ibabaw ng kapuwa bato, na hindi ibabagsak.",
+    "reference": "Lucas 21:6 (ADB1905)",
+    "connected_to": "Lucas 21:7",
+    "connected_from": "Lucas 21:5"
+  },
+  {
+    "text": "At kanilang itinanong sa kaniya, na sinasabi, Guro, kailan nga mangyayari ang mga bagay na ito? At ano ang magiging tanda pagka malapit ng mangyari ang mga bagay na ito?",
+    "reference": "Lucas 21:7 (ADB1905)",
+    "connected_to": "Lucas 21:8",
+    "connected_from": "Lucas 21:6"
+  },
+  {
+    "text": "At sinabi niya, Mangagingat kayo na huwag kayong mangailigaw: sapagka't marami ang paririto sa aking pangalan, na mangagsasabi, Ako ang Cristo; at, Malapit na ang panahon: huwag kayong magsisunod sa kanila.",
+    "reference": "Lucas 21:8 (ADB1905)",
+    "connected_to": "Lucas 21:9",
+    "connected_from": "Lucas 21:7"
+  },
+  {
+    "text": "At pagka kayo'y nangakarinig ng mga digmaan at mga kaguluhan, ay huwag kayong mangasindak: sapagka't kinakailangang mangyari muna ang mga bagay na ito; datapuwa't hindi pa malapit ang wakas.",
+    "reference": "Lucas 21:9 (ADB1905)",
+    "connected_to": "Lucas 21:10",
+    "connected_from": "Lucas 21:8"
+  },
+  {
+    "text": "Nang magkagayo'y sinabi niya sa kanila, Magtitindig ang isang bansa laban sa bansa, at ang isang kaharian laban sa kaharian;",
+    "reference": "Lucas 21:10 (ADB1905)",
+    "connected_to": "Lucas 21:11",
+    "connected_from": "Lucas 21:9"
+  },
+  {
+    "text": "At magkakaroon ng malalakas na lindol, at sa iba't ibang dako ay magkakagutom at magkakasalot; at magkakaroon ng mga bagay na kakilakilabot, at ng mga dakilang tanda mula sa langit.",
+    "reference": "Lucas 21:11 (ADB1905)",
+    "connected_to": "Lucas 21:12",
+    "connected_from": "Lucas 21:10"
+  },
+  {
+    "text": "Datapuwa't bago mangyari ang lahat ng mga bagay na ito, ay huhulihin kayo, at paguusigin kayo, na kayo'y ibibigay sa mga sinagoga at sa mga bilangguan, na kayo'y dadalhin sa harapan ng mga hari at mga gobernador dahil sa aking pangalan.",
+    "reference": "Lucas 21:12 (ADB1905)",
+    "connected_to": "Lucas 21:13",
+    "connected_from": "Lucas 21:11"
+  },
+  {
+    "text": "Ito'y magiging patotoo sa inyo.",
+    "reference": "Lucas 21:13 (ADB1905)",
+    "connected_to": "Lucas 21:14",
+    "connected_from": "Lucas 21:12"
+  },
+  {
+    "text": "Pagtibayin nga ninyo ang inyong mga puso, na huwag munang isipin kung paano ang inyong isasagot:",
+    "reference": "Lucas 21:14 (ADB1905)",
+    "connected_to": "Lucas 21:15",
+    "connected_from": "Lucas 21:13"
+  },
+  {
+    "text": "Sapagka't bibigyan ko kayo ng isang bibig at karunungan, na hindi mangyayaring masalangsang o matutulan man ng lahat ninyong mga kaalit.",
+    "reference": "Lucas 21:15 (ADB1905)",
+    "connected_to": "Lucas 21:16",
+    "connected_from": "Lucas 21:14"
+  },
+  {
+    "text": "Datapuwa't kayo'y ibibigay ng kahit mga magulang, at mga kapatid, at mga kamaganak, at mga kaibigan; at ipapapatay nila ang iba sa inyo.",
+    "reference": "Lucas 21:16 (ADB1905)",
+    "connected_to": "Lucas 21:17",
+    "connected_from": "Lucas 21:15"
+  },
+  {
+    "text": "At kayo'y kapopootan ng lahat ng mga tao dahil sa aking pangalan.",
+    "reference": "Lucas 21:17 (ADB1905)",
+    "connected_to": "Lucas 21:18",
+    "connected_from": "Lucas 21:16"
+  },
+  {
+    "text": "At hindi mawawala kahit isang buhok ng inyong ulo.",
+    "reference": "Lucas 21:18 (ADB1905)",
+    "connected_to": "Lucas 21:19",
+    "connected_from": "Lucas 21:17"
+  },
+  {
+    "text": "Sa inyong pagtitiis ay maipagwawagi ninyo ang inyong mga kaluluwa.",
+    "reference": "Lucas 21:19 (ADB1905)",
+    "connected_to": "Lucas 21:20",
+    "connected_from": "Lucas 21:18"
+  },
+  {
+    "text": "Datapuwa't pagka nangakita ninyong nakukubkob ng mga hukbo ang Jerusalem, kung magkagayo'y talastasin ninyo na ang kaniyang pagkawasak ay malapit na.",
+    "reference": "Lucas 21:20 (ADB1905)",
+    "connected_to": "Lucas 21:21",
+    "connected_from": "Lucas 21:19"
+  },
+  {
+    "text": "Kung magkagayo'y ang mga nasa Judea ay magsitakas sa mga bundok; at ang mga nasa loob ng bayan ay magsilabas; at ang mga nasa parang ay huwag magsipasok sa bayan.",
+    "reference": "Lucas 21:21 (ADB1905)",
+    "connected_to": "Lucas 21:22",
+    "connected_from": "Lucas 21:20"
+  },
+  {
+    "text": "Sapagka't ito ang mga araw ng paghihiganti, upang maganap ang lahat ng mga bagay na nangasusulat.",
+    "reference": "Lucas 21:22 (ADB1905)",
+    "connected_to": "Lucas 21:23",
+    "connected_from": "Lucas 21:21"
+  },
+  {
+    "text": "Sa aba ng mga nagdadalangtao, at ng mga nagpapasuso sa mga araw na yaon! sapagka't magkakaroon ng malaking kahapisan sa ibabaw ng lupa, at kagalitan sa bayang ito.",
+    "reference": "Lucas 21:23 (ADB1905)",
+    "connected_to": "Lucas 21:24",
+    "connected_from": "Lucas 21:22"
+  },
+  {
+    "text": "At sila'y mangabubuwal sa pamamagitan ng talim ng tabak, at dadalhing bihag sa lahat ng mga bansa: at yuyurakan ang Jerusalem ng mga Gentil, hanggang sa matupad ang mga panahon ng mga Gentil.",
+    "reference": "Lucas 21:24 (ADB1905)",
+    "connected_to": "Lucas 21:25",
+    "connected_from": "Lucas 21:23"
+  },
+  {
+    "text": "At magkakaroon ng mga tanda sa araw at buwan at mga bituin; at sa lupa'y magkakaroon ng kasalatan sa mga bansa, na matitilihan dahil sa ugong ng dagat at mga daluyong;",
+    "reference": "Lucas 21:25 (ADB1905)",
+    "connected_to": "Lucas 21:26",
+    "connected_from": "Lucas 21:24"
+  },
+  {
+    "text": "Magsisipanglupaypay ang mga tao dahil sa takot, at dahil sa paghihintay ng mga bagay na darating sa ibabaw ng sanglibutan: sapagka't mangangatal ang mga kapangyarihan sa mga langit.",
+    "reference": "Lucas 21:26 (ADB1905)",
+    "connected_to": "Lucas 21:27",
+    "connected_from": "Lucas 21:25"
+  },
+  {
+    "text": "At kung magkagayo'y makikita nila ang Anak ng tao na pariritong nasa isang alapaap na may kapangyarihan at dakilang kaluwalhatian.",
+    "reference": "Lucas 21:27 (ADB1905)",
+    "connected_to": "Lucas 21:28",
+    "connected_from": "Lucas 21:26"
+  },
+  {
+    "text": "Datapuwa't kung magpasimulang mangyari ang mga bagay na ito, ay magsitingin kayo, at itaas ninyo ang inyong mga ulo; sapagka't malapit na ang pagkatubos ninyo.",
+    "reference": "Lucas 21:28 (ADB1905)",
+    "connected_to": "Lucas 21:29",
+    "connected_from": "Lucas 21:27"
+  },
+  {
+    "text": "At sinalita niya sa kanila ang isang talinghaga: Masdan ninyo ang puno ng igos at ang lahat ng mga punong kahoy:",
+    "reference": "Lucas 21:29 (ADB1905)",
+    "connected_to": "Lucas 21:30",
+    "connected_from": "Lucas 21:28"
+  },
+  {
+    "text": "Pagka nangagdadahon na sila, ay nakikita ninyo at nalalaman ninyo sa inyong sarili na malapit na ang tagaraw.",
+    "reference": "Lucas 21:30 (ADB1905)",
+    "connected_to": "Lucas 21:31",
+    "connected_from": "Lucas 21:29"
+  },
+  {
+    "text": "Gayon din naman kayo, pagka nangakita ninyong nangyari ang mga bagay na ito, talastasin ninyo na malapit na ang kaharian ng Dios.",
+    "reference": "Lucas 21:31 (ADB1905)",
+    "connected_to": "Lucas 21:32",
+    "connected_from": "Lucas 21:30"
+  },
+  {
+    "text": "Katotohanang sinasabi ko sa inyo, Hindi lilipas ang lahing ito, hanggang sa maganap ang lahat ng mga bagay.",
+    "reference": "Lucas 21:32 (ADB1905)",
+    "connected_to": "Lucas 21:33",
+    "connected_from": "Lucas 21:31"
+  },
+  {
+    "text": "Ang langit at ang lupa ay lilipas: datapuwa't ang aking mga salita ay hindi lilipas.",
+    "reference": "Lucas 21:33 (ADB1905)",
+    "connected_to": "Lucas 21:34",
+    "connected_from": "Lucas 21:32"
+  },
+  {
+    "text": "Datapuwa't mangagingat kayo sa inyong sarili, baka mangalugmok ang inyong mga puso sa katakawan, at sa kalasingan, at sa mga pagsusumakit ukol sa buhay na ito, at dumating na bigla sa inyo ang araw na yaon na gaya ng silo:",
+    "reference": "Lucas 21:34 (ADB1905)",
+    "connected_to": "Lucas 21:35",
+    "connected_from": "Lucas 21:33"
+  },
+  {
+    "text": "Sapagka't gayon darating sa kanilang lahat na nangananahan sa ibabaw ng buong lupa.",
+    "reference": "Lucas 21:35 (ADB1905)",
+    "connected_to": "Lucas 21:36",
+    "connected_from": "Lucas 21:34"
+  },
+  {
+    "text": "Datapuwa't mangagpuyat kayo sa bawa't panahon, na mangagsidaing, upang kamtin ninyo ang makatakas sa lahat ng mga bagay na ito na mangyayari, at upang mangakatayo kayo sa harapan ng Anak ng tao.",
+    "reference": "Lucas 21:36 (ADB1905)",
+    "connected_to": "Lucas 21:37",
+    "connected_from": "Lucas 21:35"
+  },
+  {
+    "text": "At araw-araw ay nagtuturo siya sa templo; at lumalabas gabi-gabi at tumatahan sa bundok na tinatawag na Olivo.",
+    "reference": "Lucas 21:37 (ADB1905)",
+    "connected_to": "Lucas 21:38",
+    "connected_from": "Lucas 21:36"
+  },
+  {
+    "text": "At ang buong bayan ay maagang pumaparoon sa kaniya sa templo, upang makinig sa kaniya.",
+    "reference": "Lucas 21:38 (ADB1905)",
+    "connected_from": "Lucas 21:37"
+  }
+]

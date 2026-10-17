@@ -1,0 +1,210 @@
+[
+  {
+    "text": "Bawa't pantas na babae ay nagtatayo ng kaniyang bahay: nguni't binubunot ng mangmang, ng kaniyang sariling mga kamay.",
+    "reference": "Mga Kawikaan 14:1 (ADB1905)",
+    "connected_to": "Mga Kawikaan 14:2"
+  },
+  {
+    "text": "Siyang lumalakad sa kaniyang katuwiran ay natatakot sa Panginoon: nguni't siyang suwail sa kaniyang mga lakad ay humahamak sa kaniya.",
+    "reference": "Mga Kawikaan 14:2 (ADB1905)",
+    "connected_to": "Mga Kawikaan 14:3",
+    "connected_from": "Mga Kawikaan 14:1"
+  },
+  {
+    "text": "Sa bibig ng mangmang ay may tungkod ng kapalaluan: nguni't ang mga labi ng pantas ay mangagiingat ng mga yaon.",
+    "reference": "Mga Kawikaan 14:3 (ADB1905)",
+    "connected_to": "Mga Kawikaan 14:4",
+    "connected_from": "Mga Kawikaan 14:2"
+  },
+  {
+    "text": "Kung saan walang baka, ang bangan ay malinis: nguni't ang karamihan ng bunga ay nasa kalakasan ng baka.",
+    "reference": "Mga Kawikaan 14:4 (ADB1905)",
+    "connected_to": "Mga Kawikaan 14:5",
+    "connected_from": "Mga Kawikaan 14:3"
+  },
+  {
+    "text": "Ang tapat na saksi ay hindi magbubulaan: nguni't ang sinungaling na saksi ay nagbabadya ng mga kasinungalingan.",
+    "reference": "Mga Kawikaan 14:5 (ADB1905)",
+    "connected_to": "Mga Kawikaan 14:6",
+    "connected_from": "Mga Kawikaan 14:4"
+  },
+  {
+    "text": "Ang manglilibak ay humahanap ng karunungan at walang nasusumpungan: nguni't ang kaalaman ay madali sa kaniya na naguunawa.",
+    "reference": "Mga Kawikaan 14:6 (ADB1905)",
+    "connected_to": "Mga Kawikaan 14:7",
+    "connected_from": "Mga Kawikaan 14:5"
+  },
+  {
+    "text": "Paroon ka sa harapan ng taong mangmang, at hindi mo mamamalas sa kaniya ang mga labi ng kaalaman:",
+    "reference": "Mga Kawikaan 14:7 (ADB1905)",
+    "connected_to": "Mga Kawikaan 14:8",
+    "connected_from": "Mga Kawikaan 14:6"
+  },
+  {
+    "text": "Ang karunungan ng mabait ay makaunawa ng kaniyang lakad: nguni't ang kamangmangan ng mga mangmang ay karayaan.",
+    "reference": "Mga Kawikaan 14:8 (ADB1905)",
+    "connected_to": "Mga Kawikaan 14:9",
+    "connected_from": "Mga Kawikaan 14:7"
+  },
+  {
+    "text": "Ang mangmang ay tumutuya sa sala: nguni't sa matuwid ay may mabuting kalooban.",
+    "reference": "Mga Kawikaan 14:9 (ADB1905)",
+    "connected_to": "Mga Kawikaan 14:10",
+    "connected_from": "Mga Kawikaan 14:8"
+  },
+  {
+    "text": "Nalalaman ng puso ang kaniyang sariling kapaitan; at ang tagaibang lupa ay hindi nakikialam ng kaniyang kagalakan.",
+    "reference": "Mga Kawikaan 14:10 (ADB1905)",
+    "connected_to": "Mga Kawikaan 14:11",
+    "connected_from": "Mga Kawikaan 14:9"
+  },
+  {
+    "text": "Ang bahay ng masama ay mababagsak: nguni't ang tolda ng matuwid ay mamumukadkad.",
+    "reference": "Mga Kawikaan 14:11 (ADB1905)",
+    "connected_to": "Mga Kawikaan 14:12",
+    "connected_from": "Mga Kawikaan 14:10"
+  },
+  {
+    "text": "May daan na tila matuwid sa isang tao, nguni't ang dulo niyaon ay mga daan ng kamatayan.",
+    "reference": "Mga Kawikaan 14:12 (ADB1905)",
+    "connected_to": "Mga Kawikaan 14:13",
+    "connected_from": "Mga Kawikaan 14:11"
+  },
+  {
+    "text": "Maging sa pagtawa man ang puso ay nagiging mapanglaw; at ang wakas ng kasayahan ay kabigatan ng loob.",
+    "reference": "Mga Kawikaan 14:13 (ADB1905)",
+    "connected_to": "Mga Kawikaan 14:14",
+    "connected_from": "Mga Kawikaan 14:12"
+  },
+  {
+    "text": "Ang tumatalikod ng kaniyang puso ay mabubusog ng kaniyang sariling mga lakad: at masisiyahang loob ang taong mabuti.",
+    "reference": "Mga Kawikaan 14:14 (ADB1905)",
+    "connected_to": "Mga Kawikaan 14:15",
+    "connected_from": "Mga Kawikaan 14:13"
+  },
+  {
+    "text": "Pinaniniwalaan ng musmos ang bawa't salita: nguni't ang mabait ay tumitinging mabuti sa kaniyang paglakad.",
+    "reference": "Mga Kawikaan 14:15 (ADB1905)",
+    "connected_to": "Mga Kawikaan 14:16",
+    "connected_from": "Mga Kawikaan 14:14"
+  },
+  {
+    "text": "Ang pantas ay natatakot at humihiwalay sa kasamaan: nguni't ang mangmang ay nagpapakilalang palalo, at timawa.",
+    "reference": "Mga Kawikaan 14:16 (ADB1905)",
+    "connected_to": "Mga Kawikaan 14:17",
+    "connected_from": "Mga Kawikaan 14:15"
+  },
+  {
+    "text": "Siyang nagagalit na madali ay gagawang may kamangmangan: at ang taong may masamang katha ay ipagtatanim.",
+    "reference": "Mga Kawikaan 14:17 (ADB1905)",
+    "connected_to": "Mga Kawikaan 14:18",
+    "connected_from": "Mga Kawikaan 14:16"
+  },
+  {
+    "text": "Ang musmos ay nagmamana ng kamangmangan: nguni't ang mabait ay puputungan ng kaalaman.",
+    "reference": "Mga Kawikaan 14:18 (ADB1905)",
+    "connected_to": "Mga Kawikaan 14:19",
+    "connected_from": "Mga Kawikaan 14:17"
+  },
+  {
+    "text": "Ang masama ay yumuyukod sa harap ng mabuti; at ang masama ay sa mga pintuang-daan ng matuwid.",
+    "reference": "Mga Kawikaan 14:19 (ADB1905)",
+    "connected_to": "Mga Kawikaan 14:20",
+    "connected_from": "Mga Kawikaan 14:18"
+  },
+  {
+    "text": "Ipinagtatanim ang dukha maging ng kaniyang kapuwa: nguni't ang mayaman ay maraming kaibigan.",
+    "reference": "Mga Kawikaan 14:20 (ADB1905)",
+    "connected_to": "Mga Kawikaan 14:21",
+    "connected_from": "Mga Kawikaan 14:19"
+  },
+  {
+    "text": "Siyang humahamak sa kaniyang kapuwa ay nagkakasala: nguni't siyang naaawa sa dukha ay mapalad siya.",
+    "reference": "Mga Kawikaan 14:21 (ADB1905)",
+    "connected_to": "Mga Kawikaan 14:22",
+    "connected_from": "Mga Kawikaan 14:20"
+  },
+  {
+    "text": "Hindi ba sila nagkakamali na kumakatha ng kasamaan? Nguni't kaawaan at katotohanan ay sasa kanila na nagsisikatha ng mabuti.",
+    "reference": "Mga Kawikaan 14:22 (ADB1905)",
+    "connected_to": "Mga Kawikaan 14:23",
+    "connected_from": "Mga Kawikaan 14:21"
+  },
+  {
+    "text": "Sa lahat ng gawain ay may pakinabang: nguni't ang tabil ng mga labi ay naghahatid sa karalitaan.",
+    "reference": "Mga Kawikaan 14:23 (ADB1905)",
+    "connected_to": "Mga Kawikaan 14:24",
+    "connected_from": "Mga Kawikaan 14:22"
+  },
+  {
+    "text": "Ang putong ng mga pantas ay ang kanilang mga kayamanan: nguni't ang kamangmangan ng mga mangmang ay kamangmangan lamang.",
+    "reference": "Mga Kawikaan 14:24 (ADB1905)",
+    "connected_to": "Mga Kawikaan 14:25",
+    "connected_from": "Mga Kawikaan 14:23"
+  },
+  {
+    "text": "Ang tapat na saksi ay nagliligtas ng mga tao: nguni't siyang nagsasalita ng mga kasinungalingan ay nagdaraya.",
+    "reference": "Mga Kawikaan 14:25 (ADB1905)",
+    "connected_to": "Mga Kawikaan 14:26",
+    "connected_from": "Mga Kawikaan 14:24"
+  },
+  {
+    "text": "Sa pagkatakot sa Panginoon ay may matibay na pagkakatiwala: at ang kaniyang mga anak ay magkakaroon ng dakong kanlungan.",
+    "reference": "Mga Kawikaan 14:26 (ADB1905)",
+    "connected_to": "Mga Kawikaan 14:27",
+    "connected_from": "Mga Kawikaan 14:25"
+  },
+  {
+    "text": "Ang pagkatakot sa Panginoon ay bukal ng kabuhayan, upang humiwalay sa mga silo ng kamatayan.",
+    "reference": "Mga Kawikaan 14:27 (ADB1905)",
+    "connected_to": "Mga Kawikaan 14:28",
+    "connected_from": "Mga Kawikaan 14:26"
+  },
+  {
+    "text": "Nasa karamihan ng bayan ang kaluwalhatian ng hari: nguni't na sa pangangailangan ng bayan ang kapahamakan ng pangulo.",
+    "reference": "Mga Kawikaan 14:28 (ADB1905)",
+    "connected_to": "Mga Kawikaan 14:29",
+    "connected_from": "Mga Kawikaan 14:27"
+  },
+  {
+    "text": "Siyang makupad sa pagkagalit ay may dakilang paguunawa: nguni't siyang madaling magalit ay nagbubunyi ng kamangmangan.",
+    "reference": "Mga Kawikaan 14:29 (ADB1905)",
+    "connected_to": "Mga Kawikaan 14:30",
+    "connected_from": "Mga Kawikaan 14:28"
+  },
+  {
+    "text": "Ang tiwasay na puso ay buhay ng katawan: nguni't ang kapanaghilian ay kabulukan ng mga buto.",
+    "reference": "Mga Kawikaan 14:30 (ADB1905)",
+    "connected_to": "Mga Kawikaan 14:31",
+    "connected_from": "Mga Kawikaan 14:29"
+  },
+  {
+    "text": "Siyang pumipighati sa dukha ay humahamak sa Maylalang sa kaniya. Nguni't siyang naaawa sa mapagkailangan ay nagpaparangal sa kaniya.",
+    "reference": "Mga Kawikaan 14:31 (ADB1905)",
+    "connected_to": "Mga Kawikaan 14:32",
+    "connected_from": "Mga Kawikaan 14:30"
+  },
+  {
+    "text": "Ang masama ay manahagis sa kaniyang masamang gawa: nguni't ang matuwid ay may kanlungan sa kaniyang kamatayan.",
+    "reference": "Mga Kawikaan 14:32 (ADB1905)",
+    "connected_to": "Mga Kawikaan 14:33",
+    "connected_from": "Mga Kawikaan 14:31"
+  },
+  {
+    "text": "Karunungan ay nagpapahinga sa puso niya na may paguunawa: nguni't ang nasa loob ng mga mangmang ay nalalaman.",
+    "reference": "Mga Kawikaan 14:33 (ADB1905)",
+    "connected_to": "Mga Kawikaan 14:34",
+    "connected_from": "Mga Kawikaan 14:32"
+  },
+  {
+    "text": "Ang katuwiran ay nagbubunyi ng bansa: nguni't ang kasalanan ay kakutyaan sa alinmang bayan.",
+    "reference": "Mga Kawikaan 14:34 (ADB1905)",
+    "connected_to": "Mga Kawikaan 14:35",
+    "connected_from": "Mga Kawikaan 14:33"
+  },
+  {
+    "text": "Ang lingap ng hari ay sa lingkod na gumagawa na may kapantasan: nguni't ang kaniyang poot ay magiging laban sa nakahihiya.",
+    "reference": "Mga Kawikaan 14:35 (ADB1905)",
+    "connected_from": "Mga Kawikaan 14:34"
+  }
+]

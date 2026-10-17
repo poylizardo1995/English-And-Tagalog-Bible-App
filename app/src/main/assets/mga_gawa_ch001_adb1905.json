@@ -1,0 +1,156 @@
+[
+  {
+    "text": " Ang unang kasaysayan na ginawa ko, Oh Teofilo, ay tungkol sa lahat na pinasimulang ginawa at itinuro ni Jesus,",
+    "reference": "Mga Gawa 1:1 (ADB1905)",
+    "connected_to": "Mga Gawa 1:2"
+  },
+  {
+    "text": "Hanggang sa araw na tanggapin siya sa kaitaasan, pagkatapos na makapagbigay siya ng mga utos sa pamamagitan ng Espiritu Santo, sa mga apostol na kaniyang hinirang;",
+    "reference": "Mga Gawa 1:2 (ADB1905)",
+    "connected_to": "Mga Gawa 1:3",
+    "connected_from": "Mga Gawa 1:1"
+  },
+  {
+    "text": "Na sa kanila nama'y napakita rin siyang buhay, sa pamamagitan ng maraming mga katunayan, pagkatapos na siya'y makapaghirap, na napakikita sa kanila sa loob ng apat na pung araw, at nagpahayag ng mga bagay tungkol sa kaharian ng Dios:",
+    "reference": "Mga Gawa 1:3 (ADB1905)",
+    "connected_to": "Mga Gawa 1:4",
+    "connected_from": "Mga Gawa 1:2"
+  },
+  {
+    "text": "At, palibhasa'y nakikipagpulong sa kanila, ay ipinagutos niya sa kanila na huwag silang magsialis sa Jerusalem, kundi hintayin ang pangako ng Ama, na sinabi niyang narinig ninyo sa akin:",
+    "reference": "Mga Gawa 1:4 (ADB1905)",
+    "connected_to": "Mga Gawa 1:5",
+    "connected_from": "Mga Gawa 1:3"
+  },
+  {
+    "text": "Sapagka't tunay na si Juan ay nagbautismo ng tubig; datapuwa't kayo'y babautismuhan sa Espiritu Santo na di na malalaunan pa.",
+    "reference": "Mga Gawa 1:5 (ADB1905)",
+    "connected_to": "Mga Gawa 1:6",
+    "connected_from": "Mga Gawa 1:4"
+  },
+  {
+    "text": "Tinanong nga siya nila nang sila'y nangagkakatipon, na nangagsasabi, Panginoon, isasauli mo baga ang kaharian sa Israel sa panahong ito?",
+    "reference": "Mga Gawa 1:6 (ADB1905)",
+    "connected_to": "Mga Gawa 1:7",
+    "connected_from": "Mga Gawa 1:5"
+  },
+  {
+    "text": "At sinabi niya sa kanila, Hindi ukol sa inyo ang pagkaalam ng mga panahon o ng mga bahagi ng panahon, na itinakda ng Ama sa kaniyang sariling kapamahalaan.",
+    "reference": "Mga Gawa 1:7 (ADB1905)",
+    "connected_to": "Mga Gawa 1:8",
+    "connected_from": "Mga Gawa 1:6"
+  },
+  {
+    "text": "Datapuwa't tatanggapin ninyo ang kapangyarihan, pagdating sa inyo ng Espiritu Santo: at kayo'y magiging mga saksi ko sa Jerusalem, at sa buong Judea at Samaria, at hanggang sa kahulihulihang hangganan ng lupa.",
+    "reference": "Mga Gawa 1:8 (ADB1905)",
+    "connected_to": "Mga Gawa 1:9",
+    "connected_from": "Mga Gawa 1:7"
+  },
+  {
+    "text": "At pagkasabi niya ng mga bagay na ito, nang siya'y tinitingnan nila, ay dinala siya sa itaas; at siya'y tinanggap ng isang alapaap at ikinubli sa kanilang mga paningin.",
+    "reference": "Mga Gawa 1:9 (ADB1905)",
+    "connected_to": "Mga Gawa 1:10",
+    "connected_from": "Mga Gawa 1:8"
+  },
+  {
+    "text": "At samantalang tinititigan nila ang langit habang siya'y lumalayo, narito may dalawang lalaking nangakatayo sa tabi nila na may puting damit;",
+    "reference": "Mga Gawa 1:10 (ADB1905)",
+    "connected_to": "Mga Gawa 1:11",
+    "connected_from": "Mga Gawa 1:9"
+  },
+  {
+    "text": "Na nangagsabi naman, Kayong mga lalaking taga Galilea, bakit kayo'y nangakatayong tumitingin sa langit? itong si Jesus, na tinanggap sa langit mula sa inyo, ay paparitong gaya rin ng inyong nakitang pagparoon niya sa langit.",
+    "reference": "Mga Gawa 1:11 (ADB1905)",
+    "connected_to": "Mga Gawa 1:12",
+    "connected_from": "Mga Gawa 1:10"
+  },
+  {
+    "text": "Nang magkagayon ay nangagbalik sila sa Jerusalem buhat sa tinatawag na bundok ng mga Olivo, na malapit sa Jerusalem, na isang araw ng sabbath lakarin.",
+    "reference": "Mga Gawa 1:12 (ADB1905)",
+    "connected_to": "Mga Gawa 1:13",
+    "connected_from": "Mga Gawa 1:11"
+  },
+  {
+    "text": "At nang sila'y magsipasok sa bayan, ay nagsiakyat sila sa silid sa itaas, na kinatitirahan nila; ni Pedro at ni Juan at ni Santiago at ni Andres, ni Felipe at ni Tomas, ni Bartolome at ni Mateo, ni Santiago na anak ni Alfeo, at ni Simong Masikap, at ni Judas na anak ni Santiago.",
+    "reference": "Mga Gawa 1:13 (ADB1905)",
+    "connected_to": "Mga Gawa 1:14",
+    "connected_from": "Mga Gawa 1:12"
+  },
+  {
+    "text": "Ang lahat ng mga ito'y nagsisipanatiling matibay na nangagkakaisa sa pananalangin na kasama ang mga babae, at si Maria na ina ni Jesus, at pati ng mga kapatid niya.",
+    "reference": "Mga Gawa 1:14 (ADB1905)",
+    "connected_to": "Mga Gawa 1:15",
+    "connected_from": "Mga Gawa 1:13"
+  },
+  {
+    "text": "At nang mga araw na ito'y nagtindig si Pedro sa gitna ng mga kapatid, at nagsabi (at nangagkakatipon ang karamihang mga tao, na may isang daa't dalawangpu),",
+    "reference": "Mga Gawa 1:15 (ADB1905)",
+    "connected_to": "Mga Gawa 1:16",
+    "connected_from": "Mga Gawa 1:14"
+  },
+  {
+    "text": "Mga kapatid, kinakailangang matupad ang kasulatan, na nang una ay sinalita ng Espiritu Santo, sa pamamagitan ng bibig ni David tungkol kay Judas, na siyang pumatnugot sa nagsihuli kay Jesus.",
+    "reference": "Mga Gawa 1:16 (ADB1905)",
+    "connected_to": "Mga Gawa 1:17",
+    "connected_from": "Mga Gawa 1:15"
+  },
+  {
+    "text": "Sapagka't siya'y ibinilang sa atin, at siya'y tumanggap ng kaniyang bahagi sa ministeriong ito.",
+    "reference": "Mga Gawa 1:17 (ADB1905)",
+    "connected_to": "Mga Gawa 1:18",
+    "connected_from": "Mga Gawa 1:16"
+  },
+  {
+    "text": "Kumuha nga ang taong ito ng isang parang sa pamamagitan ng ganti sa kaniyang katampalasanan; at sa pagpapatihulog ng patiwarik, ay pumutok siya sa gitna, at sumambulat ang lahat ng mga laman ng kaniyang tiyan.",
+    "reference": "Mga Gawa 1:18 (ADB1905)",
+    "connected_to": "Mga Gawa 1:19",
+    "connected_from": "Mga Gawa 1:17"
+  },
+  {
+    "text": "At ito'y nahayag sa lahat ng mga nagsisitahan sa Jerusalem; ano pa't tinawag ang parang na yaon sa kanilang wika na Aceldama, sa makatuwid baga'y, Ang parang ng Dugo.)",
+    "reference": "Mga Gawa 1:19 (ADB1905)",
+    "connected_to": "Mga Gawa 1:20",
+    "connected_from": "Mga Gawa 1:18"
+  },
+  {
+    "text": "Sapagka't nasusulat sa aklat ng Mga Awit, Bayaang mawalan nawa ng tao ang kaniyang tahanan, At huwag bayaang manahan doon ang sinoman; at, Bayaang kunin ng iba ang kaniyang katungkulan.",
+    "reference": "Mga Gawa 1:20 (ADB1905)",
+    "connected_to": "Mga Gawa 1:21",
+    "connected_from": "Mga Gawa 1:19"
+  },
+  {
+    "text": "Sa mga taong ito nga na nangakisama sa atin sa buong panahon na ang Panginoong si Jesus ay pumapasok at lumalabas sa atin,",
+    "reference": "Mga Gawa 1:21 (ADB1905)",
+    "connected_to": "Mga Gawa 1:22",
+    "connected_from": "Mga Gawa 1:20"
+  },
+  {
+    "text": "Magmula sa pagbautismo ni Juan, hanggang sa araw na siya'y tanggapin sa itaas mula sa atin, ay nararapat na ang isa sa mga ito'y maging saksi na kasama natin sa kaniyang pagkabuhay na maguli.",
+    "reference": "Mga Gawa 1:22 (ADB1905)",
+    "connected_to": "Mga Gawa 1:23",
+    "connected_from": "Mga Gawa 1:21"
+  },
+  {
+    "text": "At kanilang ibinukod ang dalawa, si Jose na tinatawag na Barsabas, na pinamagatang Justo, at si Matias.",
+    "reference": "Mga Gawa 1:23 (ADB1905)",
+    "connected_to": "Mga Gawa 1:24",
+    "connected_from": "Mga Gawa 1:22"
+  },
+  {
+    "text": "At sila'y nagsipanalangin, at nagsipagsabi, Ikaw, Panginoon, na nakatataho ng mga puso ng lahat ng mga tao, ay ipakilala mo kung alin sa dalawang ito ang iyong hinirang,",
+    "reference": "Mga Gawa 1:24 (ADB1905)",
+    "connected_to": "Mga Gawa 1:25",
+    "connected_from": "Mga Gawa 1:23"
+  },
+  {
+    "text": "Upang tanggapin ang katungkulan sa ministeriong ito at pagkaapostol na kinahulugan ni Judas, upang siya'y makaparoon sa kaniyang sariling kalalagyan.",
+    "reference": "Mga Gawa 1:25 (ADB1905)",
+    "connected_to": "Mga Gawa 1:26",
+    "connected_from": "Mga Gawa 1:24"
+  },
+  {
+    "text": "At sila'y pinagsapalaran nila; at nagkapalad si Matias; at siya'y ibinilang sa labingisang apostol.",
+    "reference": "Mga Gawa 1:26 (ADB1905)",
+    "connected_from": "Mga Gawa 1:25"
+  }
+]

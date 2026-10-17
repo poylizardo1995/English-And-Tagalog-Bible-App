@@ -1,0 +1,312 @@
+[
+  {
+    "text": "Nangyari nga nang mga araw na yaon na lumabas ang isang utos mula kay Augusto Cesar, na magpatala ang buong sanglibutan.",
+    "reference": "Lucas 2:1 (ADB1905)",
+    "connected_to": "Lucas 2:2"
+  },
+  {
+    "text": "Ito ang unang talaang-mamamayan na ginawa nang si Quirinio ay gobernador sa Siria.",
+    "reference": "Lucas 2:2 (ADB1905)",
+    "connected_to": "Lucas 2:3",
+    "connected_from": "Lucas 2:1"
+  },
+  {
+    "text": "At nagsisiparoon ang lahat upang sila'y mangatala, bawa't isa sa kaniyang sariling bayan.",
+    "reference": "Lucas 2:3 (ADB1905)",
+    "connected_to": "Lucas 2:4",
+    "connected_from": "Lucas 2:2"
+  },
+  {
+    "text": "At si Jose naman ay umahon mula sa Galilea, mula sa bayan ng Nazaret, hanggang sa Judea, sa bayan ni David, na kung tawagi'y Bet-lehem, sapagka't siya'y sa angkan at sa lahi ni David;",
+    "reference": "Lucas 2:4 (ADB1905)",
+    "connected_to": "Lucas 2:5",
+    "connected_from": "Lucas 2:3"
+  },
+  {
+    "text": "Upang patala siya pati ni Maria, na magaasawa sa kaniya, na kasalukuyang kagampan.",
+    "reference": "Lucas 2:5 (ADB1905)",
+    "connected_to": "Lucas 2:6",
+    "connected_from": "Lucas 2:4"
+  },
+  {
+    "text": "At nangyari, samantalang sila'y nangaroroon, at naganap ang mga kaarawang dapat siyang manganak.",
+    "reference": "Lucas 2:6 (ADB1905)",
+    "connected_to": "Lucas 2:7",
+    "connected_from": "Lucas 2:5"
+  },
+  {
+    "text": "At kaniyang ipinanganak ang panganay niyang anak na lalake; at ito'y binalot niya ng mga lampin, at inihiga sa isang pasabsaban, sapagka't wala nang lugar para sa kanila sa tuluyan.",
+    "reference": "Lucas 2:7 (ADB1905)",
+    "connected_to": "Lucas 2:8",
+    "connected_from": "Lucas 2:6"
+  },
+  {
+    "text": "At may mga pastor ng tupa sa lupain ding yaon na nangasa parang, na pinagpupuyatan sa gabi ang kanilang kawan.",
+    "reference": "Lucas 2:8 (ADB1905)",
+    "connected_to": "Lucas 2:9",
+    "connected_from": "Lucas 2:7"
+  },
+  {
+    "text": "At tumayo sa tabi nila ang isang anghel ng Panginoon, at ang kaluwalhatian ng Panginoon ay nagliwanag sa palibot nila: at sila'y totoong nangatakot.",
+    "reference": "Lucas 2:9 (ADB1905)",
+    "connected_to": "Lucas 2:10",
+    "connected_from": "Lucas 2:8"
+  },
+  {
+    "text": "At sinabi sa kanila ng anghel, Huwag kayong mangatakot; sapagka't narito, dinadalhan ko kayo ng mabubuting balita ng malaking kagalakan, na siyang sasa buong bayan:",
+    "reference": "Lucas 2:10 (ADB1905)",
+    "connected_to": "Lucas 2:11",
+    "connected_from": "Lucas 2:9"
+  },
+  {
+    "text": "Sapagka't ipinanganak sa inyo ngayon sa bayan ni David ang isang Tagapagligtas, na siya ang Cristo ang Panginoon.",
+    "reference": "Lucas 2:11 (ADB1905)",
+    "connected_to": "Lucas 2:12",
+    "connected_from": "Lucas 2:10"
+  },
+  {
+    "text": "At ito ang sa inyo'y magiging pinakatanda: Masusumpungan ninyo ang isang sanggol na nababalot ng lampin, at nakahiga sa isang pasabsaban.",
+    "reference": "Lucas 2:12 (ADB1905)",
+    "connected_to": "Lucas 2:13",
+    "connected_from": "Lucas 2:11"
+  },
+  {
+    "text": "At biglang nakisama sa anghel ang isang karamihang hukbo ng langit, na nangagpupuri sa Dios, at nangagsasabi:",
+    "reference": "Lucas 2:13 (ADB1905)",
+    "connected_to": "Lucas 2:14",
+    "connected_from": "Lucas 2:12"
+  },
+  {
+    "text": "Luwalhati sa Dios sa kataastaasan, At sa lupa'y kapayapaan sa mga taong kinalulugdan niya.",
+    "reference": "Lucas 2:14 (ADB1905)",
+    "connected_to": "Lucas 2:15",
+    "connected_from": "Lucas 2:13"
+  },
+  {
+    "text": "At nangyari nang lisanin sila ng mga anghel at nangapasa langit, ang mga pastor ay nangagsangusapan. Magsiparoon nga tayo ngayon hanggang sa Bet-lehem, at tingnan natin itong nangyari, na ipinagbigay alam sa atin ng Panginoon.",
+    "reference": "Lucas 2:15 (ADB1905)",
+    "connected_to": "Lucas 2:16",
+    "connected_from": "Lucas 2:14"
+  },
+  {
+    "text": "At sila'y dalidaling nagsiparoon at nasumpungan kapuwa si Maria at si Jose, at ang sanggol na nakahiga sa pasabsaban.",
+    "reference": "Lucas 2:16 (ADB1905)",
+    "connected_to": "Lucas 2:17",
+    "connected_from": "Lucas 2:15"
+  },
+  {
+    "text": "At nang makita nila yaon, ay inihayag nila ang mga sinabi sa kanila tungkol sa sanggol na ito.",
+    "reference": "Lucas 2:17 (ADB1905)",
+    "connected_to": "Lucas 2:18",
+    "connected_from": "Lucas 2:16"
+  },
+  {
+    "text": "At lahat ng nangakarinig nito ay nangagtaka sa mga bagay na sinabi sa kanila ng mga pastor.",
+    "reference": "Lucas 2:18 (ADB1905)",
+    "connected_to": "Lucas 2:19",
+    "connected_from": "Lucas 2:17"
+  },
+  {
+    "text": "Datapuwa't iningatan ni Maria ang lahat ng mga pananalitang ito, na pinagbulaybulay sa kaniyang puso.",
+    "reference": "Lucas 2:19 (ADB1905)",
+    "connected_to": "Lucas 2:20",
+    "connected_from": "Lucas 2:18"
+  },
+  {
+    "text": "At nangagbalik ang mga pastor, na niluluwalhati at pinupuri ang Dios dahil sa lahat ng mga bagay na kanilang nangarinig at nangakita, ayon sa sinabi sa kanila.",
+    "reference": "Lucas 2:20 (ADB1905)",
+    "connected_to": "Lucas 2:21",
+    "connected_from": "Lucas 2:19"
+  },
+  {
+    "text": "At nang makaraan ang walong araw upang tuliin siya, ay tinawag na JESUS ang kaniyang pangalan, na siyang itinawag ng anghel bago siya ipinaglihi sa tiyan.",
+    "reference": "Lucas 2:21 (ADB1905)",
+    "connected_to": "Lucas 2:22",
+    "connected_from": "Lucas 2:20"
+  },
+  {
+    "text": "At nang maganap na ang mga araw na kanilang paglilinis alinsunod sa kautusan ni Moises, ay kanilang dinala siya sa Jerusalem, upang iharap siya sa Panginoon",
+    "reference": "Lucas 2:22 (ADB1905)",
+    "connected_to": "Lucas 2:23",
+    "connected_from": "Lucas 2:21"
+  },
+  {
+    "text": "(Ayon sa nasusulat sa kautusan ng Panginoon, Ang bawa't lalaking nagbubukas ng bahay-bata ay tatawaging banal sa Panginoon),",
+    "reference": "Lucas 2:23 (ADB1905)",
+    "connected_to": "Lucas 2:24",
+    "connected_from": "Lucas 2:22"
+  },
+  {
+    "text": "At upang maghandog ng hain alinsunod sa sinasabi sa kautusan ng Panginoon, Dalawang batobato, o dalawang inakay ng kalapati.",
+    "reference": "Lucas 2:24 (ADB1905)",
+    "connected_to": "Lucas 2:25",
+    "connected_from": "Lucas 2:23"
+  },
+  {
+    "text": "At narito, may isang lalake sa Jerusalem, na nagngangalang Simeon; at ang lalaking ito'y matuwid at masipag sa kabanalan, na nag-aantay ng kaaliwan ng Israel: at sumasa kaniya ang Espiritu Santo.",
+    "reference": "Lucas 2:25 (ADB1905)",
+    "connected_to": "Lucas 2:26",
+    "connected_from": "Lucas 2:24"
+  },
+  {
+    "text": "At ipinahayag sa kaniya ng Espiritu Santo, na di niya makikita ang kamatayan, hanggang sa makita muna niya ang Cristo ng Panginoon.",
+    "reference": "Lucas 2:26 (ADB1905)",
+    "connected_to": "Lucas 2:27",
+    "connected_from": "Lucas 2:25"
+  },
+  {
+    "text": "At siya'y napasa templo sa Espiritu: at nang ipasok sa templo ang sanggol na si Jesus ng kaniyang mga magulang, upang sa kaniya'y magawa nila ang nauukol alinsunod sa kaugalian ng kautusan,",
+    "reference": "Lucas 2:27 (ADB1905)",
+    "connected_to": "Lucas 2:28",
+    "connected_from": "Lucas 2:26"
+  },
+  {
+    "text": "Ay tinanggap nga niya siya sa kaniyang mga bisig, at pinuri ang Dios, at nagsabi,",
+    "reference": "Lucas 2:28 (ADB1905)",
+    "connected_to": "Lucas 2:29",
+    "connected_from": "Lucas 2:27"
+  },
+  {
+    "text": "Ngayo'y papanawin mo, Panginoon, ang iyong alipin, Ayon sa iyong salita, sa kapayapaan,",
+    "reference": "Lucas 2:29 (ADB1905)",
+    "connected_to": "Lucas 2:30",
+    "connected_from": "Lucas 2:28"
+  },
+  {
+    "text": "Sapagka't nakita ng aking mga mata ang iyong pagliligtas,",
+    "reference": "Lucas 2:30 (ADB1905)",
+    "connected_to": "Lucas 2:31",
+    "connected_from": "Lucas 2:29"
+  },
+  {
+    "text": "Na iyong inihanda sa unahan ng mukha ng lahat ng mga tao;",
+    "reference": "Lucas 2:31 (ADB1905)",
+    "connected_to": "Lucas 2:32",
+    "connected_from": "Lucas 2:30"
+  },
+  {
+    "text": "Isang ilaw upang ipahayag sa mga Gentil, At ang kaluwalhatian ng iyong bayang Israel.",
+    "reference": "Lucas 2:32 (ADB1905)",
+    "connected_to": "Lucas 2:33",
+    "connected_from": "Lucas 2:31"
+  },
+  {
+    "text": "At ang kaniyang ama at ang kaniyang ina ay nagsisipanggilalas sa mga bagay na sinasabi tungkol sa kaniya;",
+    "reference": "Lucas 2:33 (ADB1905)",
+    "connected_to": "Lucas 2:34",
+    "connected_from": "Lucas 2:32"
+  },
+  {
+    "text": "At sila'y pinagpala ni Simeon, at sinabi sa kaniyang inang si Maria, Narito, ito ay itinalaga sa ikararapa at sa ikatitindig ng marami sa Israel; at pinakatandang tudlaan ng pagsalangsang:",
+    "reference": "Lucas 2:34 (ADB1905)",
+    "connected_to": "Lucas 2:35",
+    "connected_from": "Lucas 2:33"
+  },
+  {
+    "text": "Oo at paglalampasanan ng isang tabak ang iyong sariling kaluluwa; upang mangahayag ang mga pagiisip ng maraming puso.",
+    "reference": "Lucas 2:35 (ADB1905)",
+    "connected_to": "Lucas 2:36",
+    "connected_from": "Lucas 2:34"
+  },
+  {
+    "text": "At naroroon din naman si Ana, na isang propetisa, anak na babae ni Fanuel, sa angkan ni Aser, (siya'y lubhang matanda na, at may pitong taong nakisama sa kaniyang asawa mula sa kaniyang kadalagahan,",
+    "reference": "Lucas 2:36 (ADB1905)",
+    "connected_to": "Lucas 2:37",
+    "connected_from": "Lucas 2:35"
+  },
+  {
+    "text": "At siya'y bao nang walongpu't apat na taon), na hindi humihiwalay sa templo, at sumasamba sa gabi at araw sa pamamagitan ng mga pagaayuno at mga pagdaing.",
+    "reference": "Lucas 2:37 (ADB1905)",
+    "connected_to": "Lucas 2:38",
+    "connected_from": "Lucas 2:36"
+  },
+  {
+    "text": "At pagdating niya sa oras ding yaon, siya'y nagpasalamat sa Dios, at nagsalita ng tungkol sa sanggol sa lahat ng nagsisipaghintay ng katubusan sa Jerusalem.",
+    "reference": "Lucas 2:38 (ADB1905)",
+    "connected_to": "Lucas 2:39",
+    "connected_from": "Lucas 2:37"
+  },
+  {
+    "text": "At nang maganap na nila ang lahat ng mga bagay na alinsunod sa kautusan ng Panginoon, ay nangagbalik sila sa Galilea, sa kanilang sariling bayang Nazaret.",
+    "reference": "Lucas 2:39 (ADB1905)",
+    "connected_to": "Lucas 2:40",
+    "connected_from": "Lucas 2:38"
+  },
+  {
+    "text": "At lumalaki ang bata, at lumalakas, at napupuspos ng karunungan: at sumasa kaniya ang biyaya ng Dios.",
+    "reference": "Lucas 2:40 (ADB1905)",
+    "connected_to": "Lucas 2:41",
+    "connected_from": "Lucas 2:39"
+  },
+  {
+    "text": "At nagsisiparoon taon-taon ang kaniyang mga magulang sa Jerusalem sa kapistahan ng paskua.",
+    "reference": "Lucas 2:41 (ADB1905)",
+    "connected_to": "Lucas 2:42",
+    "connected_from": "Lucas 2:40"
+  },
+  {
+    "text": "At nang siya'y may labindalawang taon na, ay nagsiahon sila ayon sa kaugalian ng kapistahan;",
+    "reference": "Lucas 2:42 (ADB1905)",
+    "connected_to": "Lucas 2:43",
+    "connected_from": "Lucas 2:41"
+  },
+  {
+    "text": "At nang kanilang maganap na ang mga araw, sa pagbalik nila, ay naiwan ang batang si Jesus sa Jerusalem; at di nalalaman ng kaniyang mga magulang;",
+    "reference": "Lucas 2:43 (ADB1905)",
+    "connected_to": "Lucas 2:44",
+    "connected_from": "Lucas 2:42"
+  },
+  {
+    "text": "Nguni't sa pagaakala nilang siya'y nasa kasamahan, ay nagsiyaon sila nang isang araw na paglalakbay; at hinahanap nila siya sa mga kamaganak at mga kakilala;",
+    "reference": "Lucas 2:44 (ADB1905)",
+    "connected_to": "Lucas 2:45",
+    "connected_from": "Lucas 2:43"
+  },
+  {
+    "text": "At nang di nila siya matagpuan, ay nagsipagbalik sila sa Jerusalem, na hinahanap siya.",
+    "reference": "Lucas 2:45 (ADB1905)",
+    "connected_to": "Lucas 2:46",
+    "connected_from": "Lucas 2:44"
+  },
+  {
+    "text": "At nangyari, na nang makaraan ang tatlong araw, ay nangatagpuan nila siya sa templo, na nakaupo sa gitna ng mga guro, na sila'y pinakikinggan, at sila'y tinatanong:",
+    "reference": "Lucas 2:46 (ADB1905)",
+    "connected_to": "Lucas 2:47",
+    "connected_from": "Lucas 2:45"
+  },
+  {
+    "text": "At ang lahat ng sa kaniya'y nangakakarinig ay nagsisipanggilalas sa kaniyang katalinuhan at sa kaniyang mga sagot.",
+    "reference": "Lucas 2:47 (ADB1905)",
+    "connected_to": "Lucas 2:48",
+    "connected_from": "Lucas 2:46"
+  },
+  {
+    "text": "At nang siya'y mangakita nila, ay nangagtaka sila; at sinabi sa kaniya ng kaniyang ina, Anak, bakit ginawa mo sa amin ang ganyan? narito, ang iyong ama at ako na hinahanap kang may hapis.",
+    "reference": "Lucas 2:48 (ADB1905)",
+    "connected_to": "Lucas 2:49",
+    "connected_from": "Lucas 2:47"
+  },
+  {
+    "text": "At sinabi niya sa kanila, Bakit ninyo ako hinahanap? di baga talastas ninyo na dapat akong maglumagak sa bahay ng aking Ama.",
+    "reference": "Lucas 2:49 (ADB1905)",
+    "connected_to": "Lucas 2:50",
+    "connected_from": "Lucas 2:48"
+  },
+  {
+    "text": "At di nila naunawa ang pananalitang sa kanila'y sinabi.",
+    "reference": "Lucas 2:50 (ADB1905)",
+    "connected_to": "Lucas 2:51",
+    "connected_from": "Lucas 2:49"
+  },
+  {
+    "text": "At lumusong siyang kasama nila, at napasa Nazaret; at napasakop sa kanila: at iniingatan ng kaniyang ina sa kaniyang puso ang lahat ng mga pananalitang ito.",
+    "reference": "Lucas 2:51 (ADB1905)",
+    "connected_to": "Lucas 2:52",
+    "connected_from": "Lucas 2:50"
+  },
+  {
+    "text": "At lumalaki si Jesus sa karunungan at sa pangangatawan, at sa pagbibigay lugod sa Dios at sa mga tao.",
+    "reference": "Lucas 2:52 (ADB1905)",
+    "connected_from": "Lucas 2:51"
+  }
+]

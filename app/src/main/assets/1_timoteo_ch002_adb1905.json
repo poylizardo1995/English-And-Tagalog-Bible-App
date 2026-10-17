@@ -1,0 +1,90 @@
+[
+  {
+    "text": "Una-una nga sa lahat ng mga bagay, ay iniaaral ko na manaing, manalangin, mamagitan, at magpasalamat na patungkol sa lahat ng mga tao;",
+    "reference": "1 Timoteo 2:1 (ADB1905)",
+    "connected_to": "1 Timoteo 2:2"
+  },
+  {
+    "text": "Ang mga hari at ang lahat ng nangasa mataas na kalagayan; upang tayo'y mangabuhay na tahimik at payapa sa buong kabanalan at kahusayan.",
+    "reference": "1 Timoteo 2:2 (ADB1905)",
+    "connected_to": "1 Timoteo 2:3",
+    "connected_from": "1 Timoteo 2:1"
+  },
+  {
+    "text": "Ito'y mabuti at nakalulugod sa paningin ng Dios na ating Tagapagligtas;",
+    "reference": "1 Timoteo 2:3 (ADB1905)",
+    "connected_to": "1 Timoteo 2:4",
+    "connected_from": "1 Timoteo 2:2"
+  },
+  {
+    "text": "Na siyang may ibig na ang lahat ng mga tao'y mangaligtas, at mangakaalam ng katotohanan.",
+    "reference": "1 Timoteo 2:4 (ADB1905)",
+    "connected_to": "1 Timoteo 2:5",
+    "connected_from": "1 Timoteo 2:3"
+  },
+  {
+    "text": "Sapagka't may isang Dios at may isang Tagapamagitan sa Dios at sa mga tao, ang taong si Cristo Jesus,",
+    "reference": "1 Timoteo 2:5 (ADB1905)",
+    "connected_to": "1 Timoteo 2:6",
+    "connected_from": "1 Timoteo 2:4"
+  },
+  {
+    "text": "Na ibinigay ang kaniyang sarili na pangtubos sa lahat; na pagpapatotoong mahahayag sa sariling kapanahunan;",
+    "reference": "1 Timoteo 2:6 (ADB1905)",
+    "connected_to": "1 Timoteo 2:7",
+    "connected_from": "1 Timoteo 2:5"
+  },
+  {
+    "text": "Na dito'y itinalaga ako na tagapangaral at apostol (sinasabi ko ang katotohanan, hindi ako nagsisinungaling), guro sa mga Gentil sa pananampalataya at katotohanan.",
+    "reference": "1 Timoteo 2:7 (ADB1905)",
+    "connected_to": "1 Timoteo 2:8",
+    "connected_from": "1 Timoteo 2:6"
+  },
+  {
+    "text": "Ibig ko ngang ang mga tao'y magsipanalangin sa bawa't dako, na iunat ang mga kamay na banal, na walang galit at pakikipagtalo.",
+    "reference": "1 Timoteo 2:8 (ADB1905)",
+    "connected_to": "1 Timoteo 2:9",
+    "connected_from": "1 Timoteo 2:7"
+  },
+  {
+    "text": "Gayon din naman, na ang mga babae ay magsigayak ng mahinhing damit na may katimtiman at hinahon; hindi ng mahalagang hiyas ng buhok, at ginto o perlas o damit na mahalaga;",
+    "reference": "1 Timoteo 2:9 (ADB1905)",
+    "connected_to": "1 Timoteo 2:10",
+    "connected_from": "1 Timoteo 2:8"
+  },
+  {
+    "text": "Kundi (siyang nararapat sa mga babae na magpakabanal) sa pamamagitan ng mabubuting gawa.",
+    "reference": "1 Timoteo 2:10 (ADB1905)",
+    "connected_to": "1 Timoteo 2:11",
+    "connected_from": "1 Timoteo 2:9"
+  },
+  {
+    "text": "Ang babae'y magaral na tumahimik na may buong pagkapasakop.",
+    "reference": "1 Timoteo 2:11 (ADB1905)",
+    "connected_to": "1 Timoteo 2:12",
+    "connected_from": "1 Timoteo 2:10"
+  },
+  {
+    "text": "Nguni't hindi ko ipinahihintulot na ang babae ay magturo, ni magkaroon ng pamumuno sa lalake, kundi tumahimik.",
+    "reference": "1 Timoteo 2:12 (ADB1905)",
+    "connected_to": "1 Timoteo 2:13",
+    "connected_from": "1 Timoteo 2:11"
+  },
+  {
+    "text": "Sapagka't si Adam ay siyang unang nilalang, saka si Eva;",
+    "reference": "1 Timoteo 2:13 (ADB1905)",
+    "connected_to": "1 Timoteo 2:14",
+    "connected_from": "1 Timoteo 2:12"
+  },
+  {
+    "text": "At si Adam ay hindi nadaya, kundi ang babae nang madaya ay nahulog sa pagsalangsang;",
+    "reference": "1 Timoteo 2:14 (ADB1905)",
+    "connected_to": "1 Timoteo 2:15",
+    "connected_from": "1 Timoteo 2:13"
+  },
+  {
+    "text": "Nguni't ililigtas siya sa pamamagitan ng panganganak, kung sila'y magsisipamalagi sa pananampalataya at pagibig at sa pagpapakabanal na may hinahon.",
+    "reference": "1 Timoteo 2:15 (ADB1905)",
+    "connected_from": "1 Timoteo 2:14"
+  }
+]

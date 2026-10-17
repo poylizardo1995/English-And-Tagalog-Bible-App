@@ -1,0 +1,48 @@
+[
+  {
+    "text": "Tumulong ka, Panginoon, sapagka't ang banal na tao ay nalilipol; sapagka't nagkukulang ng tapat sa gitna ng mga anak ng mga tao.",
+    "reference": "Mga Awit 12:1 (ADB1905)",
+    "connected_to": "Mga Awit 12:2"
+  },
+  {
+    "text": "Sila'y nangagsasalitaan bawa't isa ng kabulaanan, sa kanikaniyang kapuwa: na may mapanuyang labi, at may giring pulang puso na nangagsasalita.",
+    "reference": "Mga Awit 12:2 (ADB1905)",
+    "connected_to": "Mga Awit 12:3",
+    "connected_from": "Mga Awit 12:1"
+  },
+  {
+    "text": "Ihihiwalay ng Panginoon, ang lahat na mapanuyang labi, ang dila na nagsasalita ng mga dakilang bagay:",
+    "reference": "Mga Awit 12:3 (ADB1905)",
+    "connected_to": "Mga Awit 12:4",
+    "connected_from": "Mga Awit 12:2"
+  },
+  {
+    "text": "Na nagsipagsabi, sa pamamagitan ng aming dila ay magsisipanaig kami; ang aming mga labi ay aming sarili: sino ang panginoon sa amin?",
+    "reference": "Mga Awit 12:4 (ADB1905)",
+    "connected_to": "Mga Awit 12:5",
+    "connected_from": "Mga Awit 12:3"
+  },
+  {
+    "text": "Dahil sa pagsamsam sa dukha, dahil sa buntong hininga ng mapagkailangan, titindig nga ako, sabi ng Panginoon; ilalagay ko siya sa kaligtasang kaniyang pinagmimithian.",
+    "reference": "Mga Awit 12:5 (ADB1905)",
+    "connected_to": "Mga Awit 12:6",
+    "connected_from": "Mga Awit 12:4"
+  },
+  {
+    "text": "Ang mga salita ng Panginoon ay mga dalisay na salita; na gaya ng pilak na sinubok sa hurno sa lupa, na makapitong dinalisay.",
+    "reference": "Mga Awit 12:6 (ADB1905)",
+    "connected_to": "Mga Awit 12:7",
+    "connected_from": "Mga Awit 12:5"
+  },
+  {
+    "text": "Iyong iingatan sila, Oh Panginoon, iyong pakaingatan sila mula sa lahing ito magpakailan man.",
+    "reference": "Mga Awit 12:7 (ADB1905)",
+    "connected_to": "Mga Awit 12:8",
+    "connected_from": "Mga Awit 12:6"
+  },
+  {
+    "text": "Ang masama ay naggala saa't saan man. Pagka ang kapariwaraan ay natataas sa gitna ng mga anak ng mga tao.",
+    "reference": "Mga Awit 12:8 (ADB1905)",
+    "connected_from": "Mga Awit 12:7"
+  }
+]

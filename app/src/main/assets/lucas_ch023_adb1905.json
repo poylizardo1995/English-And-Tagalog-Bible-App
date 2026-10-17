@@ -1,0 +1,336 @@
+[
+  {
+    "text": "At nagsitindig ang buong kapulungan nila, at dinala siya sa harap ni Pilato.",
+    "reference": "Lucas 23:1 (ADB1905)",
+    "connected_to": "Lucas 23:2"
+  },
+  {
+    "text": "At nangagpasimula silang isumbong siya, na sinasabi, Nasumpungan namin ang taong ito na pinasasama ang aming bansa, at ipinagbabawal na bumuwis kay Cesar, at sinasabi na siya rin nga ang Cristo, ang hari.",
+    "reference": "Lucas 23:2 (ADB1905)",
+    "connected_to": "Lucas 23:3",
+    "connected_from": "Lucas 23:1"
+  },
+  {
+    "text": "At tinanong siya ni Pilato, na nagsasabi, Ikaw baga ang Hari ng mga Judio? At sumagot siya at sinabi, Ikaw ang nagsasabi.",
+    "reference": "Lucas 23:3 (ADB1905)",
+    "connected_to": "Lucas 23:4",
+    "connected_from": "Lucas 23:2"
+  },
+  {
+    "text": "At sinabi ni Pilato sa mga pangulong saserdote at sa mga karamihan, Wala akong masumpungang kasalanan sa taong ito.",
+    "reference": "Lucas 23:4 (ADB1905)",
+    "connected_to": "Lucas 23:5",
+    "connected_from": "Lucas 23:3"
+  },
+  {
+    "text": "Datapuwa't sila'y lalong nangagpipilit na sinasabi, Ginugulo niya ang bayan, na nagtuturo sa buong Judea, magbuhat sa Galilea hanggang sa dakong ito.",
+    "reference": "Lucas 23:5 (ADB1905)",
+    "connected_to": "Lucas 23:6",
+    "connected_from": "Lucas 23:4"
+  },
+  {
+    "text": "Datapuwa't nang ito'y marinig ni Pilato, ay itinanong niya kung ang taong yaon ay Galileo.",
+    "reference": "Lucas 23:6 (ADB1905)",
+    "connected_to": "Lucas 23:7",
+    "connected_from": "Lucas 23:5"
+  },
+  {
+    "text": "At nang maunawa na siya'y nasasakop ni Herodes, ay ipinadala niya siya kay Herodes, na nang mga araw na yaon ay nasa Jerusalem din naman.",
+    "reference": "Lucas 23:7 (ADB1905)",
+    "connected_to": "Lucas 23:8",
+    "connected_from": "Lucas 23:6"
+  },
+  {
+    "text": "Nang makita nga ni Herodes si Jesus, ay nagalak siyang lubha: sapagka't malaon nang hinahangad niya na makita siya, sapagka't siya'y nakabalita tungkol sa kaniya; at siya'y naghihintay na makakita ng ilang himalang gawa niya.",
+    "reference": "Lucas 23:8 (ADB1905)",
+    "connected_to": "Lucas 23:9",
+    "connected_from": "Lucas 23:7"
+  },
+  {
+    "text": "At tinanong niya siya ng maraming salita; datapuwa't siya'y hindi sumagot ng anoman.",
+    "reference": "Lucas 23:9 (ADB1905)",
+    "connected_to": "Lucas 23:10",
+    "connected_from": "Lucas 23:8"
+  },
+  {
+    "text": "At ang mga pangulong saserdote at mga eskriba ay nagsitindig, na isinusumbong siyang mainam.",
+    "reference": "Lucas 23:10 (ADB1905)",
+    "connected_to": "Lucas 23:11",
+    "connected_from": "Lucas 23:9"
+  },
+  {
+    "text": "At si Herodes na kasama ang kaniyang mga kawal ay inalimura siya, at siya'y nilibak, at sinuutan siya ng maringal na damit, at ipinabalik siya kay Pilato.",
+    "reference": "Lucas 23:11 (ADB1905)",
+    "connected_to": "Lucas 23:12",
+    "connected_from": "Lucas 23:10"
+  },
+  {
+    "text": "At nang araw ding yaon ay naging magkaibigan si Herodes at si Pilato: sapagka't dating sila'y nagkakagalit.",
+    "reference": "Lucas 23:12 (ADB1905)",
+    "connected_to": "Lucas 23:13",
+    "connected_from": "Lucas 23:11"
+  },
+  {
+    "text": "At tinipon ni Pilato ang mga pangulong saserdote, at ang mga pinuno at ang bayan,",
+    "reference": "Lucas 23:13 (ADB1905)",
+    "connected_to": "Lucas 23:14",
+    "connected_from": "Lucas 23:12"
+  },
+  {
+    "text": "At sinabi sa kanila, Dinala ninyo sa akin ang taong ito na gaya ng isang nagpapasama sa bayan: at narito, nang aking siyasatin siya sa harapan ninyo, ay wala akong nasumpungang anomang sala sa taong ito, tungkol sa mga bagay na isinusumbong ninyo laban sa kaniya;",
+    "reference": "Lucas 23:14 (ADB1905)",
+    "connected_to": "Lucas 23:15",
+    "connected_from": "Lucas 23:13"
+  },
+  {
+    "text": "Wala, kahit si Herodes man; sapagka't siya'y ipinabalik niyang muli sa atin; at narito, walang anomang karapatdapat sa kamatayan na ginawa niya.",
+    "reference": "Lucas 23:15 (ADB1905)",
+    "connected_to": "Lucas 23:16",
+    "connected_from": "Lucas 23:14"
+  },
+  {
+    "text": "Siya nga'y aking parurusahan, at siya'y pawawalan.",
+    "reference": "Lucas 23:16 (ADB1905)",
+    "connected_to": "Lucas 23:17",
+    "connected_from": "Lucas 23:15"
+  },
+  {
+    "text": "Kinakailangan nga niyang sa kanila'y magpakawala ng isang bilanggo sa kapistahan.",
+    "reference": "Lucas 23:17 (ADB1905)",
+    "connected_to": "Lucas 23:18",
+    "connected_from": "Lucas 23:16"
+  },
+  {
+    "text": "Datapuwa't silang lahat ay nagsisigawang paminsan, na nangagsabi, Alisin mo ang taong ito, at pawalan mo sa amin si Barrabas:",
+    "reference": "Lucas 23:18 (ADB1905)",
+    "connected_to": "Lucas 23:19",
+    "connected_from": "Lucas 23:17"
+  },
+  {
+    "text": "Isa na ibinilanggo dahil sa isang paghihimagsik na ginawa sa bayan, at sa pagpatay.",
+    "reference": "Lucas 23:19 (ADB1905)",
+    "connected_to": "Lucas 23:20",
+    "connected_from": "Lucas 23:18"
+  },
+  {
+    "text": "At si Pilato'y nagsalitang muli sa kanila, sa pagnanais na pawalan si Jesus;",
+    "reference": "Lucas 23:20 (ADB1905)",
+    "connected_to": "Lucas 23:21",
+    "connected_from": "Lucas 23:19"
+  },
+  {
+    "text": "Datapuwa't sila'y nagsigawan, na sinasabi, Ipako sa krus, ipako siya sa krus.",
+    "reference": "Lucas 23:21 (ADB1905)",
+    "connected_to": "Lucas 23:22",
+    "connected_from": "Lucas 23:20"
+  },
+  {
+    "text": "At kaniyang sinabi sa kanila, na bilang ikatlo, Bakit, anong masama ang ginawa ng taong ito? Wala akong nasumpungang anomang kadahilanang ipatay sa kaniya: parurusahan ko nga siya, at siya'y pawawalan.",
+    "reference": "Lucas 23:22 (ADB1905)",
+    "connected_to": "Lucas 23:23",
+    "connected_from": "Lucas 23:21"
+  },
+  {
+    "text": "Datapuwa't pinipilit nilang hingin sa malalakas na tinig, na siya'y ipako sa krus. At nanaig ang kanilang mga tinig.",
+    "reference": "Lucas 23:23 (ADB1905)",
+    "connected_to": "Lucas 23:24",
+    "connected_from": "Lucas 23:22"
+  },
+  {
+    "text": "At hinatulan ni Pilato na gawin ang kanilang hinihingi,",
+    "reference": "Lucas 23:24 (ADB1905)",
+    "connected_to": "Lucas 23:25",
+    "connected_from": "Lucas 23:23"
+  },
+  {
+    "text": "At pinawalan niya yaong ibinilanggo dahil sa paghihimagsik at sa pagpatay, na siyang kanilang hiningi; datapuwa't ibinigay si Jesus sa kalooban nila.",
+    "reference": "Lucas 23:25 (ADB1905)",
+    "connected_to": "Lucas 23:26",
+    "connected_from": "Lucas 23:24"
+  },
+  {
+    "text": "At nang siya'y kanilang dalhin ay kanilang pinigil ang isang Simong taga Cirene, na nanggaling sa bukid, at ipinasan sa kaniya ang krus, upang dalhin sa likuran ni Jesus.",
+    "reference": "Lucas 23:26 (ADB1905)",
+    "connected_to": "Lucas 23:27",
+    "connected_from": "Lucas 23:25"
+  },
+  {
+    "text": "At siya'y sinusundan ng isang makapal na karamihan sa bayan, at ng mga babaing nagiiyakan at nananambitan dahil sa kaniya.",
+    "reference": "Lucas 23:27 (ADB1905)",
+    "connected_to": "Lucas 23:28",
+    "connected_from": "Lucas 23:26"
+  },
+  {
+    "text": "Datapuwa't paglingon sa kanila ni Jesus ay sinabi, Mga anak na babae ng Jerusalem, huwag ninyo akong tangisan, kundi tangisan ninyo ang inyong sarili, at ang inyong mga anak.",
+    "reference": "Lucas 23:28 (ADB1905)",
+    "connected_to": "Lucas 23:29",
+    "connected_from": "Lucas 23:27"
+  },
+  {
+    "text": "Sapagka't narito, darating ang mga araw, na kanilang sasabihin, Mapapalad ang mga baog, at ang mga tiyang kailan ma'y hindi nangagdalang-tao, at ang mga dibdib na kailan man ay hindi nangagpapasuso.",
+    "reference": "Lucas 23:29 (ADB1905)",
+    "connected_to": "Lucas 23:30",
+    "connected_from": "Lucas 23:28"
+  },
+  {
+    "text": "Kung magkagayon ay magpapasimulang sabihin nila sa mga bundok, mangahulog kayo sa ibabaw namin; at sa mga burol, Takpan ninyo kami.",
+    "reference": "Lucas 23:30 (ADB1905)",
+    "connected_to": "Lucas 23:31",
+    "connected_from": "Lucas 23:29"
+  },
+  {
+    "text": "Sapagka't kung ginagawa ang mga bagay na ito sa punong kahoy na sariwa, ano kaya ang gagawin sa tuyo?",
+    "reference": "Lucas 23:31 (ADB1905)",
+    "connected_to": "Lucas 23:32",
+    "connected_from": "Lucas 23:30"
+  },
+  {
+    "text": "At dinala rin naman na kasama niya, ang dalawang tampalasan, upang patayin.",
+    "reference": "Lucas 23:32 (ADB1905)",
+    "connected_to": "Lucas 23:33",
+    "connected_from": "Lucas 23:31"
+  },
+  {
+    "text": "At nang dumating sa dakong tinatawag na Bungo, ay kanilang ipinako roon siya sa krus, at ang mga tampalasan, isa sa kanan at isa sa kaliwa.",
+    "reference": "Lucas 23:33 (ADB1905)",
+    "connected_to": "Lucas 23:34",
+    "connected_from": "Lucas 23:32"
+  },
+  {
+    "text": "At sinabi ni Jesus, Ama, patawarin mo sila; sapagka't hindi nila nalalaman ang kanilang ginagawa. At sa pagbabahabahagi nila ng kaniyang mga suot ay kanilang pinagsapalaranan.",
+    "reference": "Lucas 23:34 (ADB1905)",
+    "connected_to": "Lucas 23:35",
+    "connected_from": "Lucas 23:33"
+  },
+  {
+    "text": "At nakatayong nanonood ang bayan. At tinutuya naman siya ng mga pinuno, na sinasabi, Nagligtas siya sa mga iba; iligtas niya ang kaniyang sarili, kung ito ang Cristo ng Dios, ang hinirang niya.",
+    "reference": "Lucas 23:35 (ADB1905)",
+    "connected_to": "Lucas 23:36",
+    "connected_from": "Lucas 23:34"
+  },
+  {
+    "text": "At nililibak rin naman siya ng mga kawal, na nagsisilapit sa kaniya, na dinudulutan siya ng suka,",
+    "reference": "Lucas 23:36 (ADB1905)",
+    "connected_to": "Lucas 23:37",
+    "connected_from": "Lucas 23:35"
+  },
+  {
+    "text": "At sinabi, Kung ikaw ang Hari ng mga Judio, iligtas mo ang iyong sarili.",
+    "reference": "Lucas 23:37 (ADB1905)",
+    "connected_to": "Lucas 23:38",
+    "connected_from": "Lucas 23:36"
+  },
+  {
+    "text": "At mayroon naman sa itaas niya na isang pamagat, ITO'Y ANG HARI NG MGA JUDIO.",
+    "reference": "Lucas 23:38 (ADB1905)",
+    "connected_to": "Lucas 23:39",
+    "connected_from": "Lucas 23:37"
+  },
+  {
+    "text": "At siya'y inalipusta ng isa sa mga tampalasang nabibitin, na sinasabi, Hindi baga ikaw ang Cristo? iligtas mo ang iyong sarili at kami.",
+    "reference": "Lucas 23:39 (ADB1905)",
+    "connected_to": "Lucas 23:40",
+    "connected_from": "Lucas 23:38"
+  },
+  {
+    "text": "Datapuwa't sumagot ang isa, at pagsaway sa kaniya'y sinabi, Hindi ka pa baga natatakot sa Dios, yamang ikaw ay nasa gayon ding kaparusahan?",
+    "reference": "Lucas 23:40 (ADB1905)",
+    "connected_to": "Lucas 23:41",
+    "connected_from": "Lucas 23:39"
+  },
+  {
+    "text": "At tayo sa katotohanan ay ayon sa katuwiran; sapagka't tinanggap natin ang nararapat na kabayaran sa ating mga gawa; datapuwa't ang taong ito'y hindi gumagawa ng anomang masama.",
+    "reference": "Lucas 23:41 (ADB1905)",
+    "connected_to": "Lucas 23:42",
+    "connected_from": "Lucas 23:40"
+  },
+  {
+    "text": "At sinabi niya, Jesus, alalahanin mo ako, pagdating mo sa iyong kaharian.",
+    "reference": "Lucas 23:42 (ADB1905)",
+    "connected_to": "Lucas 23:43",
+    "connected_from": "Lucas 23:41"
+  },
+  {
+    "text": "At sinabi niya sa kaniya, Katotohanang sinasabi ko sa iyo, Ngayon ay kakasamahin kita sa Paraiso.",
+    "reference": "Lucas 23:43 (ADB1905)",
+    "connected_to": "Lucas 23:44",
+    "connected_from": "Lucas 23:42"
+  },
+  {
+    "text": "At nang may oras na ikaanim na, ay nagdilim sa ibabaw ng buong lupa, hanggang sa oras na ikasiyam,",
+    "reference": "Lucas 23:44 (ADB1905)",
+    "connected_to": "Lucas 23:45",
+    "connected_from": "Lucas 23:43"
+  },
+  {
+    "text": "At nagdilim ang araw: at nahapak sa gitna ang tabing ng templo.",
+    "reference": "Lucas 23:45 (ADB1905)",
+    "connected_to": "Lucas 23:46",
+    "connected_from": "Lucas 23:44"
+  },
+  {
+    "text": "At si Jesus, na sumigaw ng malakas na tinig, ay nagsabi, Ama, sa mga kamay mo ay ipinagtatagubilin ko ang aking espiritu: at pagkasabi nito, ay nalagot ang hininga.",
+    "reference": "Lucas 23:46 (ADB1905)",
+    "connected_to": "Lucas 23:47",
+    "connected_from": "Lucas 23:45"
+  },
+  {
+    "text": "At nang makita ng senturion ang nangyari, ay niluwalhati niya ang Dios na nagsasabi, Tunay na ito'y isang taong matuwid.",
+    "reference": "Lucas 23:47 (ADB1905)",
+    "connected_to": "Lucas 23:48",
+    "connected_from": "Lucas 23:46"
+  },
+  {
+    "text": "At ang lahat ng mga karamihang nangagkatipon sa panonood nito, pagkakita nila sa mga bagay na nangyari ay nangagsiuwing dinadagukan ang kanilang mga dibdib.",
+    "reference": "Lucas 23:48 (ADB1905)",
+    "connected_to": "Lucas 23:49",
+    "connected_from": "Lucas 23:47"
+  },
+  {
+    "text": "At ang lahat ng mga kakilala niya at ang mga babaing sa kaniya'y nagsisunod buhat sa Galilea, at nangasa malayo na pinagmamasdan ang mga bagay na ito.",
+    "reference": "Lucas 23:49 (ADB1905)",
+    "connected_to": "Lucas 23:50",
+    "connected_from": "Lucas 23:48"
+  },
+  {
+    "text": "At narito ang isang lalaking nagngangalang Jose, na isang kasangguni, isang lalaking mabuti at matuwid:",
+    "reference": "Lucas 23:50 (ADB1905)",
+    "connected_to": "Lucas 23:51",
+    "connected_from": "Lucas 23:49"
+  },
+  {
+    "text": "(Siya'y hindi umayon sa kanilang payo at gawa), isang lalaking taga Arimatea, bayan ng mga Judio, na naghihintay ng kaharian ng Dios;",
+    "reference": "Lucas 23:51 (ADB1905)",
+    "connected_to": "Lucas 23:52",
+    "connected_from": "Lucas 23:50"
+  },
+  {
+    "text": "Ang taong ito'y naparoon kay Pilato: at hiningi ang bangkay ni Jesus.",
+    "reference": "Lucas 23:52 (ADB1905)",
+    "connected_to": "Lucas 23:53",
+    "connected_from": "Lucas 23:51"
+  },
+  {
+    "text": "At ito'y ibinababa niya, at binalot ng isang kayong lino, at inilagay sa isang libingang hinukay sa bato, na doo'y wala pang nalilibing.",
+    "reference": "Lucas 23:53 (ADB1905)",
+    "connected_to": "Lucas 23:54",
+    "connected_from": "Lucas 23:52"
+  },
+  {
+    "text": "At noo'y araw ng Paghahanda, at nalalapit na ang sabbath.",
+    "reference": "Lucas 23:54 (ADB1905)",
+    "connected_to": "Lucas 23:55",
+    "connected_from": "Lucas 23:53"
+  },
+  {
+    "text": "At ang mga babae, na nagsisama sa kaniya mula sa Galilea, ay nagsisunod, at tiningnan ang libingan, at kung paano ang pagkalagay ng kaniyang bangkay.",
+    "reference": "Lucas 23:55 (ADB1905)",
+    "connected_to": "Lucas 23:56",
+    "connected_from": "Lucas 23:54"
+  },
+  {
+    "text": "At sila'y nagsiuwi, at nangaghanda ng mga pabango at mga unguento. At nang araw ng sabbath sila'y nangagpahinga ayon sa utos.",
+    "reference": "Lucas 23:56 (ADB1905)",
+    "connected_from": "Lucas 23:55"
+  }
+]

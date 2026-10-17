@@ -1,0 +1,180 @@
+[
+  {
+    "text": "At sinalita ng Panginoon kay Moises, na sinasabi,",
+    "reference": "Levitico 18:1 (ADB1905)",
+    "connected_to": "Levitico 18:2"
+  },
+  {
+    "text": "Salitain mo sa mga anak ni Israel, at sabihin mo sa kanila, Ako ang Panginoon ninyong Dios.",
+    "reference": "Levitico 18:2 (ADB1905)",
+    "connected_to": "Levitico 18:3",
+    "connected_from": "Levitico 18:1"
+  },
+  {
+    "text": "Huwag kayong gagawa ng gaya ng ginawa sa lupain ng Egipto na inyong tinahanan: at huwag din kayong gagawa ng gaya ng ginagawa sa lupain ng Canaan, na pinagdadalhan ko sa inyo: ni huwag kayong lalakad ng ayon sa mga palatuntunan nila.",
+    "reference": "Levitico 18:3 (ADB1905)",
+    "connected_to": "Levitico 18:4",
+    "connected_from": "Levitico 18:2"
+  },
+  {
+    "text": "Tutuparin ninyo ang aking mga kahatulan, at iingatan ninyo ang aking mga palatuntunan, na inyong lalakaran: ako ang Panginoon ninyong Dios.",
+    "reference": "Levitico 18:4 (ADB1905)",
+    "connected_to": "Levitico 18:5",
+    "connected_from": "Levitico 18:3"
+  },
+  {
+    "text": "Tutuparin nga ninyo ang aking mga palatuntunan at ang aking mga kahatulan: na ikabubuhay ng mga taong magsisitupad: ako ang Panginoon.",
+    "reference": "Levitico 18:5 (ADB1905)",
+    "connected_to": "Levitico 18:6",
+    "connected_from": "Levitico 18:4"
+  },
+  {
+    "text": "Huwag lalapit ang sinoman sa inyo sa kanino man sa kaniyang kamaganak na malapit, upang ilitaw ang kaniyang kahubaran: ako ang Panginoon.",
+    "reference": "Levitico 18:6 (ADB1905)",
+    "connected_to": "Levitico 18:7",
+    "connected_from": "Levitico 18:5"
+  },
+  {
+    "text": "Ang kahubaran ng iyong ama, o ang kahubaran ng iyong ina ay huwag mong ililitaw: siya'y iyong ina; huwag mong ililitaw ang kahubaran niya.",
+    "reference": "Levitico 18:7 (ADB1905)",
+    "connected_to": "Levitico 18:8",
+    "connected_from": "Levitico 18:6"
+  },
+  {
+    "text": "Ang kahubaran ng asawa ng iyong ama ay huwag mong ililitaw: yaon nga'y kahubaran ng iyong ama.",
+    "reference": "Levitico 18:8 (ADB1905)",
+    "connected_to": "Levitico 18:9",
+    "connected_from": "Levitico 18:7"
+  },
+  {
+    "text": "Ang kahubaran ng iyong kapatid na babae, na anak ng iyong ama o anak ng iyong ina, maging ipinanganak sa sarili o sa ibang bayan, ay huwag mong ililitaw ang kahubaran nila.",
+    "reference": "Levitico 18:9 (ADB1905)",
+    "connected_to": "Levitico 18:10",
+    "connected_from": "Levitico 18:8"
+  },
+  {
+    "text": "Ang kahubaran ng anak na babae ng iyong anak na lalake, o ng anak na babae ng iyong anak na babae, ay huwag mong ililitaw ang kahubaran nila: sapagka't ang kahubaran nila ay kahubaran mo rin.",
+    "reference": "Levitico 18:10 (ADB1905)",
+    "connected_to": "Levitico 18:11",
+    "connected_from": "Levitico 18:9"
+  },
+  {
+    "text": "Ang kahubaran ng anak ng babae ng asawa ng iyong ama, na naging anak sa iyong ama, siya'y kapatid mo, huwag mong ililitaw ang kahubaran niya.",
+    "reference": "Levitico 18:11 (ADB1905)",
+    "connected_to": "Levitico 18:12",
+    "connected_from": "Levitico 18:10"
+  },
+  {
+    "text": "Ang kahubaran ng kapatid na babae ng iyong ama ay huwag mong ililitaw: siya'y kamaganak na malapit ng iyong ama.",
+    "reference": "Levitico 18:12 (ADB1905)",
+    "connected_to": "Levitico 18:13",
+    "connected_from": "Levitico 18:11"
+  },
+  {
+    "text": "Ang kahubaran ng kapatid na babae ng iyong ina ay huwag mong ililitaw: sapagka't siya'y kamaganak na malapit ng iyong ina.",
+    "reference": "Levitico 18:13 (ADB1905)",
+    "connected_to": "Levitico 18:14",
+    "connected_from": "Levitico 18:12"
+  },
+  {
+    "text": "Ang kahubaran ng kapatid na lalake ng iyong ama ay huwag mong ililitaw, sa asawa niya ay huwag kang sisiping: siya'y iyong ali.",
+    "reference": "Levitico 18:14 (ADB1905)",
+    "connected_to": "Levitico 18:15",
+    "connected_from": "Levitico 18:13"
+  },
+  {
+    "text": "Ang kahubaran ng iyong manugang na babae ay huwag mong ililitaw: siya'y asawa ng iyong anak; ang kahubaran niya ay huwag mong ililitaw.",
+    "reference": "Levitico 18:15 (ADB1905)",
+    "connected_to": "Levitico 18:16",
+    "connected_from": "Levitico 18:14"
+  },
+  {
+    "text": "Ang kahubaran ng asawa ng iyong kapatid na lalake ay huwag mong ililitaw: kahubaran nga ng iyong kapatid na lalake.",
+    "reference": "Levitico 18:16 (ADB1905)",
+    "connected_to": "Levitico 18:17",
+    "connected_from": "Levitico 18:15"
+  },
+  {
+    "text": "Ang kahubaran ng isang babae at ng kaniyang anak na babae ay huwag mong ililitaw; huwag mong pakikisamahan ang anak na babae ng kaniyang anak na lalake o ang anak na babae ng kaniyang anak na babae, upang ilitaw ang kaniyang kahubaran; sila'y kamaganak na malapit: kasamaan nga.",
+    "reference": "Levitico 18:17 (ADB1905)",
+    "connected_to": "Levitico 18:18",
+    "connected_from": "Levitico 18:16"
+  },
+  {
+    "text": "At huwag kang makikisama sa isang babaing kalakip ng kaniyang kapatid, na magiging kaagaw niya, na iyong ililitaw ang kahubaran nito, bukod sa kahubaran niyaon, sa buong buhay niya.",
+    "reference": "Levitico 18:18 (ADB1905)",
+    "connected_to": "Levitico 18:19",
+    "connected_from": "Levitico 18:17"
+  },
+  {
+    "text": "At huwag kang sisiping sa isang babae na ililitaw ang kahubaran niya habang siya'y marumi sa kaniyang karumalan.",
+    "reference": "Levitico 18:19 (ADB1905)",
+    "connected_to": "Levitico 18:20",
+    "connected_from": "Levitico 18:18"
+  },
+  {
+    "text": "At huwag kang sisiping sa asawa ng iyong kapuwa, na magpapakadumi sa kaniya.",
+    "reference": "Levitico 18:20 (ADB1905)",
+    "connected_to": "Levitico 18:21",
+    "connected_from": "Levitico 18:19"
+  },
+  {
+    "text": "At huwag kang magbibigay ng iyong binhi, na iyong palilipatin kay Moloch sa pamamagitan ng apoy; ni huwag mong lalapastanganin ang pangalan ng iyong Dios: ako ang Panginoon.",
+    "reference": "Levitico 18:21 (ADB1905)",
+    "connected_to": "Levitico 18:22",
+    "connected_from": "Levitico 18:20"
+  },
+  {
+    "text": "Huwag kang sisiping sa lalake ng gaya sa babae: karumaldumal nga.",
+    "reference": "Levitico 18:22 (ADB1905)",
+    "connected_to": "Levitico 18:23",
+    "connected_from": "Levitico 18:21"
+  },
+  {
+    "text": "At huwag kang sisiping sa anomang hayop na magpapakadumi riyan: ni ang babae ay huwag lalagay sa harap ng hayop upang pasiping: kahalayhalay nga.",
+    "reference": "Levitico 18:23 (ADB1905)",
+    "connected_to": "Levitico 18:24",
+    "connected_from": "Levitico 18:22"
+  },
+  {
+    "text": "Huwag kayong magpakarumi sa alin man sa mga bagay na ito; sapagka't lahat ng ito ay nangadumhan ang mga bansang aking palayasin sa harap ninyo:",
+    "reference": "Levitico 18:24 (ADB1905)",
+    "connected_to": "Levitico 18:25",
+    "connected_from": "Levitico 18:23"
+  },
+  {
+    "text": "At nadumhan ang lupain: kaya't aking dinadalaw ang kasamaang iyan diyan, at ang lupain din ang nagluluwa sa mga tumatahan diyan.",
+    "reference": "Levitico 18:25 (ADB1905)",
+    "connected_to": "Levitico 18:26",
+    "connected_from": "Levitico 18:24"
+  },
+  {
+    "text": "Inyo ngang iingatan ang aking mga palatuntunan, at ang aking mga kahatulan, at huwag kayong gagawa ng anoman sa mga karumaldumal na ito; maging ang mga tubo sa lupain o ang mga taga ibang bayan man na nakikipamayan sa inyo:",
+    "reference": "Levitico 18:26 (ADB1905)",
+    "connected_to": "Levitico 18:27",
+    "connected_from": "Levitico 18:25"
+  },
+  {
+    "text": "(Sapagka't ang lahat ng karumaldumal na ito, ay ginawa ng mga tao sa lupaing iyan, na mga una kaysa inyo; at ang lupain ay nadumhan);",
+    "reference": "Levitico 18:27 (ADB1905)",
+    "connected_to": "Levitico 18:28",
+    "connected_from": "Levitico 18:26"
+  },
+  {
+    "text": "Upang huwag naman kayong iluwa ng lupain, sa pagkahawa ninyo, na gaya ng pagluluwa sa bansang nagsitahan ng una kaysa inyo.",
+    "reference": "Levitico 18:28 (ADB1905)",
+    "connected_to": "Levitico 18:29",
+    "connected_from": "Levitico 18:27"
+  },
+  {
+    "text": "Sapagka't yaong lahat na gumawa ng alin man sa mga kahalayang ito, sa makatuwid baga'y ang mga taong magsigawa ng gayon ay ihihiwalay sa kanilang bayan.",
+    "reference": "Levitico 18:29 (ADB1905)",
+    "connected_to": "Levitico 18:30",
+    "connected_from": "Levitico 18:28"
+  },
+  {
+    "text": "Kaya ingatan ninyo ang aking bilin, na huwag kayong gumawa ng alin man sa mga karumaldumal na kaugaliang ito na kanilang ginawa ng una bago kayo, at huwag kayong magpakarumal sa mga iyan: ako ang Panginoon ninyong Dios.",
+    "reference": "Levitico 18:30 (ADB1905)",
+    "connected_from": "Levitico 18:29"
+  }
+]

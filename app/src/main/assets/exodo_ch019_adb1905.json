@@ -1,0 +1,150 @@
+[
+  {
+    "text": "Sa ikatlong buwan, pagkatapos na ang mga anak ni Israel ay makaalis sa lupain ng Egipto, ay dumating sila ng araw ding yaon sa ilang ng Sinai.",
+    "reference": "Exodo 19:1 (ADB1905)",
+    "connected_to": "Exodo 19:2"
+  },
+  {
+    "text": "At nang sila'y umalis sa Rephidim, at dumating sa ilang ng Sinai, ay humantong sila sa ilang; at doo'y humantong ang Israel sa harap ng bundok.",
+    "reference": "Exodo 19:2 (ADB1905)",
+    "connected_to": "Exodo 19:3",
+    "connected_from": "Exodo 19:1"
+  },
+  {
+    "text": "At si Moises ay lumapit sa Dios, at tinawag ng Panginoon siya mula sa bundok, na sinasabi, Ganito mo sasabihin sa sangbahayan ni Jacob, at sasaysayin sa mga anak ni Israel.",
+    "reference": "Exodo 19:3 (ADB1905)",
+    "connected_to": "Exodo 19:4",
+    "connected_from": "Exodo 19:2"
+  },
+  {
+    "text": "Inyong nakita ang aking ginawa sa mga Egipcio, at kung paanong dinala ko kayo sa mga pakpak ng agila, at kayo'y inilapit ko sa akin din.",
+    "reference": "Exodo 19:4 (ADB1905)",
+    "connected_to": "Exodo 19:5",
+    "connected_from": "Exodo 19:3"
+  },
+  {
+    "text": "Kaya't ngayon, kung tunay na inyong susundin ang aking tinig, at iingatan ang aking tipan, ay magiging isang tanging kayamanan nga kayo sa akin, na higit sa lahat ng bayan: sapagka't ang buong lupa ay akin;",
+    "reference": "Exodo 19:5 (ADB1905)",
+    "connected_to": "Exodo 19:6",
+    "connected_from": "Exodo 19:4"
+  },
+  {
+    "text": "At kayo'y magiging isang kaharian ng mga saserdote sa akin, at isang banal na bansa. Ito ang mga salita na inyong sasalitaan sa mga anak ni Israel.",
+    "reference": "Exodo 19:6 (ADB1905)",
+    "connected_to": "Exodo 19:7",
+    "connected_from": "Exodo 19:5"
+  },
+  {
+    "text": "At dumating si Moises at tinawag ang mga matanda sa bayan, at ipinahayag sa harap nila ang lahat ng salitang ito na iniutos ng Panginoon sa kaniya.",
+    "reference": "Exodo 19:7 (ADB1905)",
+    "connected_to": "Exodo 19:8",
+    "connected_from": "Exodo 19:6"
+  },
+  {
+    "text": "At ang buong bayan ay sumagot na magkakaisa, at nagsabi, Yaong lahat na sinalita ng Panginoon ay aming gagawin. At ipinagbigay alam ni Moises ang mga salita ng bayan sa Panginoon.",
+    "reference": "Exodo 19:8 (ADB1905)",
+    "connected_to": "Exodo 19:9",
+    "connected_from": "Exodo 19:7"
+  },
+  {
+    "text": "At sinabi ng Panginoon kay Moises, Narito ako'y naparirito sa iyo sa isang salimuot na ulap upang marinig ng bayan pagka ako'y magsasalita sa iyo, at paniwalaan ka rin naman nila magpakailan man. At sinalita ni Moises ang mga salita ng bayan sa Panginoon.",
+    "reference": "Exodo 19:9 (ADB1905)",
+    "connected_to": "Exodo 19:10",
+    "connected_from": "Exodo 19:8"
+  },
+  {
+    "text": "At sinabi ng Panginoon kay Moises, Pumaroon ka sa bayan at papagbanalin mo sila ngayon at bukas at labhan nila ang kanilang mga damit,",
+    "reference": "Exodo 19:10 (ADB1905)",
+    "connected_to": "Exodo 19:11",
+    "connected_from": "Exodo 19:9"
+  },
+  {
+    "text": "At humanda sa ikatlong araw: sapagka't sa ikatlong araw ay bababa ang Panginoon sa paningin ng buong bayan sa ibabaw ng bundok ng Sinai.",
+    "reference": "Exodo 19:11 (ADB1905)",
+    "connected_to": "Exodo 19:12",
+    "connected_from": "Exodo 19:10"
+  },
+  {
+    "text": "At lalagyan mo ng mga hangganan ang bayan sa palibot, na iyong sasabihin, Magingat kayo, na kayo'y huwag sumampa sa bundok, o sumalang sa hangganan: sinomang sumalang sa bundok ay papatayin na walang pagsala:",
+    "reference": "Exodo 19:12 (ADB1905)",
+    "connected_to": "Exodo 19:13",
+    "connected_from": "Exodo 19:11"
+  },
+  {
+    "text": "Walang kamay na hihipo sa kaniya, kundi, siya'y tunay na babatuhin, o papanain; maging hayop o tao ay hindi mabubuhay: pagka ang pakakak ay tumunog ng maluwat ay sasampa sila sa bundok.",
+    "reference": "Exodo 19:13 (ADB1905)",
+    "connected_to": "Exodo 19:14",
+    "connected_from": "Exodo 19:12"
+  },
+  {
+    "text": "At bumaba si Moises sa bayan mula sa bundok, at pinakabanal ang bayan, at sila'y naglaba ng kanilang mga damit.",
+    "reference": "Exodo 19:14 (ADB1905)",
+    "connected_to": "Exodo 19:15",
+    "connected_from": "Exodo 19:13"
+  },
+  {
+    "text": "At kaniyang sinabi sa bayan, humanda kayo sa ikatlong araw; huwag kayong sumiping sa babae.",
+    "reference": "Exodo 19:15 (ADB1905)",
+    "connected_to": "Exodo 19:16",
+    "connected_from": "Exodo 19:14"
+  },
+  {
+    "text": "At nangyari ng ikatlong araw, ng umaga, na kumulog at kumidlat, at may isang salimuot na ulap sa ibabaw ng bundok, at ang tunog ng pakakak ay napakalakas; at ang buong bayan na nasa kampamento ay nanginig.",
+    "reference": "Exodo 19:16 (ADB1905)",
+    "connected_to": "Exodo 19:17",
+    "connected_from": "Exodo 19:15"
+  },
+  {
+    "text": "At inilabas ni Moises ang bayan sa kampamento upang salubungin ang Dios; at sila'y tumayo sa paanan ng bundok.",
+    "reference": "Exodo 19:17 (ADB1905)",
+    "connected_to": "Exodo 19:18",
+    "connected_from": "Exodo 19:16"
+  },
+  {
+    "text": "At ang buong bundok ng Sinai ay umuusok, sapagka't ang Panginoon ay bumaba sa ibabaw niyaon na nasa apoy: at ang usok niyaon ay napaiilanglang na parang usok ng isang hurno, at ang buong bundok ay umuugang mainam.",
+    "reference": "Exodo 19:18 (ADB1905)",
+    "connected_to": "Exodo 19:19",
+    "connected_from": "Exodo 19:17"
+  },
+  {
+    "text": "At nang lumalakas ng lumalakas ang tunog ng pakakak ay nagsasalita si Moises, at sinasagot siya ng Dios sa pamamagitan ng tinig.",
+    "reference": "Exodo 19:19 (ADB1905)",
+    "connected_to": "Exodo 19:20",
+    "connected_from": "Exodo 19:18"
+  },
+  {
+    "text": "At ang Panginoon ay bumaba sa ibabaw ng bundok ng Sinai, sa taluktok ng bundok; at tinawag ng Panginoon si Moises sa taluktok ng bundok; at si Moises ay sumampa.",
+    "reference": "Exodo 19:20 (ADB1905)",
+    "connected_to": "Exodo 19:21",
+    "connected_from": "Exodo 19:19"
+  },
+  {
+    "text": "At sinabi ng Panginoon kay Moises, Bumaba ka, pagbilinan mo ang bayan, baka sila'y lumagpas upang makita ang Panginoon, at mamatay ang karamihan sa kanila.",
+    "reference": "Exodo 19:21 (ADB1905)",
+    "connected_to": "Exodo 19:22",
+    "connected_from": "Exodo 19:20"
+  },
+  {
+    "text": "At gayon din ang mga saserdote, na lumalapit sa Panginoon ay papagbanalin mo, baka ang Panginoon ay hindi makapagpigil sa kanila.",
+    "reference": "Exodo 19:22 (ADB1905)",
+    "connected_to": "Exodo 19:23",
+    "connected_from": "Exodo 19:21"
+  },
+  {
+    "text": "At sinabi ni Moises sa Panginoon, Ang baya'y hindi makasasampa sa bundok ng Sinai: sapagka't iyong pinagbilinan kami, na iyong sinabi, lagyan mo ng hangganan sa palibot ang bundok, at iyong ariing banal.",
+    "reference": "Exodo 19:23 (ADB1905)",
+    "connected_to": "Exodo 19:24",
+    "connected_from": "Exodo 19:22"
+  },
+  {
+    "text": "At sinabi ng Panginoon sa kaniya, Yumaon ka, bumaba ka; at ikaw ay sasampa, ikaw at si Aaron na iyong kasama: nguni't ang mga saserdote at ang bayan ay huwag lumampas sa mga hangganan upang lumapit sa Panginoon, baka siya ay hindi makapagpigil sa kanila.",
+    "reference": "Exodo 19:24 (ADB1905)",
+    "connected_to": "Exodo 19:25",
+    "connected_from": "Exodo 19:23"
+  },
+  {
+    "text": "Sa gayo'y bumaba si Moises sa bayan at isinaysay sa kanila.",
+    "reference": "Exodo 19:25 (ADB1905)",
+    "connected_from": "Exodo 19:24"
+  }
+]

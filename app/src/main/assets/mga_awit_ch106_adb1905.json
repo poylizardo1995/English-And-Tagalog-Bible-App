@@ -1,0 +1,288 @@
+[
+  {
+    "text": "Purihin ninyo ang Panginoon. Oh mangagpasalamat kayo sa Panginoon; sapagka't siya'y mabuti; sapagka't ang kaniyang kagandahang-loob ay magpakailan man.",
+    "reference": "Mga Awit 106:1 (ADB1905)",
+    "connected_to": "Mga Awit 106:2"
+  },
+  {
+    "text": "Sinong makapagbabadya ng mga makapangyarihang gawa ng Panginoon, o makapagpapakilala ng buo niyang kapurihan?",
+    "reference": "Mga Awit 106:2 (ADB1905)",
+    "connected_to": "Mga Awit 106:3",
+    "connected_from": "Mga Awit 106:1"
+  },
+  {
+    "text": "Mapalad silang nangagiingat ng kahatulan, at siyang gumagawa ng katuwiran sa buong panahon.",
+    "reference": "Mga Awit 106:3 (ADB1905)",
+    "connected_to": "Mga Awit 106:4",
+    "connected_from": "Mga Awit 106:2"
+  },
+  {
+    "text": "Alalahanin mo ako, Oh Panginoon, ng lingap na iyong ipinagkaloob sa iyong bayan; Oh dalawin mo ako ng iyong pagliligtas:",
+    "reference": "Mga Awit 106:4 (ADB1905)",
+    "connected_to": "Mga Awit 106:5",
+    "connected_from": "Mga Awit 106:3"
+  },
+  {
+    "text": "Upang makita ko ang kaginhawahan ng iyong hirang, upang ako'y magalak sa kasayahan ng iyong bansa, upang ako'y lumuwalhati na kasama ng iyong mana.",
+    "reference": "Mga Awit 106:5 (ADB1905)",
+    "connected_to": "Mga Awit 106:6",
+    "connected_from": "Mga Awit 106:4"
+  },
+  {
+    "text": "Kami ay nangagkasala na kasama ng aming mga magulang, kami ay nangakagawa ng kasamaan, kami ay nagsigawa ng masama.",
+    "reference": "Mga Awit 106:6 (ADB1905)",
+    "connected_to": "Mga Awit 106:7",
+    "connected_from": "Mga Awit 106:5"
+  },
+  {
+    "text": "Hindi naunawa ng aming mga magulang ang iyong mga kababalaghan sa Egipto; hindi nila inalaala ang karamihan ng iyong mga kagandahang-loob, kundi naging mapanghimagsik sa dagat, sa makatuwid baga'y sa Dagat na Mapula.",
+    "reference": "Mga Awit 106:7 (ADB1905)",
+    "connected_to": "Mga Awit 106:8",
+    "connected_from": "Mga Awit 106:6"
+  },
+  {
+    "text": "Gayon ma'y iniligtas niya sila dahil sa kaniyang pangalan, upang kaniyang maipabatid ang kaniyang matibay na kapangyarihan.",
+    "reference": "Mga Awit 106:8 (ADB1905)",
+    "connected_to": "Mga Awit 106:9",
+    "connected_from": "Mga Awit 106:7"
+  },
+  {
+    "text": "Kaniyang sinaway naman ang Dagat na Mapula, at natuyo: sa gayo'y pinatnubayan niya sila sa mga kalaliman, na parang ilang.",
+    "reference": "Mga Awit 106:9 (ADB1905)",
+    "connected_to": "Mga Awit 106:10",
+    "connected_from": "Mga Awit 106:8"
+  },
+  {
+    "text": "At iniligtas niya sila sa kamay ng nangagtatanim sa kanila, at tinubos niya sila sa kamay ng kaaway.",
+    "reference": "Mga Awit 106:10 (ADB1905)",
+    "connected_to": "Mga Awit 106:11",
+    "connected_from": "Mga Awit 106:9"
+  },
+  {
+    "text": "At tinabunan ng tubig ang kanilang mga kaaway: walang nalabi sa kanila kahit isa.",
+    "reference": "Mga Awit 106:11 (ADB1905)",
+    "connected_to": "Mga Awit 106:12",
+    "connected_from": "Mga Awit 106:10"
+  },
+  {
+    "text": "Nang magkagayo'y sinampalatayanan nila ang kaniyang mga salita; inawit nila ang kaniyang kapurihan.",
+    "reference": "Mga Awit 106:12 (ADB1905)",
+    "connected_to": "Mga Awit 106:13",
+    "connected_from": "Mga Awit 106:11"
+  },
+  {
+    "text": "Nilimot nilang madali ang kaniyang mga gawa; hindi sila naghintay sa kaniyang payo:",
+    "reference": "Mga Awit 106:13 (ADB1905)",
+    "connected_to": "Mga Awit 106:14",
+    "connected_from": "Mga Awit 106:12"
+  },
+  {
+    "text": "Kundi nagnais ng di kawasa sa ilang, at tinukso ang Dios sa ilang.",
+    "reference": "Mga Awit 106:14 (ADB1905)",
+    "connected_to": "Mga Awit 106:15",
+    "connected_from": "Mga Awit 106:13"
+  },
+  {
+    "text": "At binigyan niya sila ng kanilang hiling; nguni't pinangayayat ang kanilang kaluluwa.",
+    "reference": "Mga Awit 106:15 (ADB1905)",
+    "connected_to": "Mga Awit 106:16",
+    "connected_from": "Mga Awit 106:14"
+  },
+  {
+    "text": "Kanilang pinanaghilian naman si Moises sa kampamento, at si Aaron na banal ng Panginoon.",
+    "reference": "Mga Awit 106:16 (ADB1905)",
+    "connected_to": "Mga Awit 106:17",
+    "connected_from": "Mga Awit 106:15"
+  },
+  {
+    "text": "Ang lupa ay bumuka, at nilamon si Dathan, at tinakpan ang pulutong ni Abiram.",
+    "reference": "Mga Awit 106:17 (ADB1905)",
+    "connected_to": "Mga Awit 106:18",
+    "connected_from": "Mga Awit 106:16"
+  },
+  {
+    "text": "At apoy ay nagningas sa kanilang pulutong; sinunog ng liyab ang mga masama,",
+    "reference": "Mga Awit 106:18 (ADB1905)",
+    "connected_to": "Mga Awit 106:19",
+    "connected_from": "Mga Awit 106:17"
+  },
+  {
+    "text": "Sila'y nagsigawa ng guya sa Horeb, at nagsisamba sa larawang binubo.",
+    "reference": "Mga Awit 106:19 (ADB1905)",
+    "connected_to": "Mga Awit 106:20",
+    "connected_from": "Mga Awit 106:18"
+  },
+  {
+    "text": "Ganito nila pinapagbago ang kanilang kaluwalhatian sa wangis ng baka na kumakain ng damo.",
+    "reference": "Mga Awit 106:20 (ADB1905)",
+    "connected_to": "Mga Awit 106:21",
+    "connected_from": "Mga Awit 106:19"
+  },
+  {
+    "text": "Nilimot nila ang Dios na kanilang tagapagligtas, na gumawa ng mga dakilang bagay sa Egipto;",
+    "reference": "Mga Awit 106:21 (ADB1905)",
+    "connected_to": "Mga Awit 106:22",
+    "connected_from": "Mga Awit 106:20"
+  },
+  {
+    "text": "Kagilagilalas na mga gawa sa lupain ng Cham, at kakilakilabot na mga bagay sa Dagat na Mapula.",
+    "reference": "Mga Awit 106:22 (ADB1905)",
+    "connected_to": "Mga Awit 106:23",
+    "connected_from": "Mga Awit 106:21"
+  },
+  {
+    "text": "Kaya't sinabi niya, na kaniyang lilipulin sila, kung si Moises na kaniyang hirang ay hindi humarap sa kaniya sa bitak, upang pawiin ang kaniyang poot, upang huwag niyang lipulin sila.",
+    "reference": "Mga Awit 106:23 (ADB1905)",
+    "connected_to": "Mga Awit 106:24",
+    "connected_from": "Mga Awit 106:22"
+  },
+  {
+    "text": "Oo, kanilang hinamak ang maligayang lupain, hindi nila sinampalatayanan ang kaniyang salita;",
+    "reference": "Mga Awit 106:24 (ADB1905)",
+    "connected_to": "Mga Awit 106:25",
+    "connected_from": "Mga Awit 106:23"
+  },
+  {
+    "text": "Kundi nangagsiungol sa kanilang mga tolda, at hindi nangakinig sa tinig ng Panginoon.",
+    "reference": "Mga Awit 106:25 (ADB1905)",
+    "connected_to": "Mga Awit 106:26",
+    "connected_from": "Mga Awit 106:24"
+  },
+  {
+    "text": "Kaya't kaniyang isinumpa sa kanila, na kaniyang ibubulid sila sa ilang:",
+    "reference": "Mga Awit 106:26 (ADB1905)",
+    "connected_to": "Mga Awit 106:27",
+    "connected_from": "Mga Awit 106:25"
+  },
+  {
+    "text": "At kaniyang ibubulid ang kanilang binhi sa mga bansa, at pangalatin sila sa mga lupain.",
+    "reference": "Mga Awit 106:27 (ADB1905)",
+    "connected_to": "Mga Awit 106:28",
+    "connected_from": "Mga Awit 106:26"
+  },
+  {
+    "text": "Sila'y nangakilakip naman sa diosdiosang Baal-peor, at nagsikain ng mga hain sa mga patay.",
+    "reference": "Mga Awit 106:28 (ADB1905)",
+    "connected_to": "Mga Awit 106:29",
+    "connected_from": "Mga Awit 106:27"
+  },
+  {
+    "text": "Ganito minungkahi nila siya sa galit ng kanilang mga gawa; at ang salot ay lumitaw sa kanila.",
+    "reference": "Mga Awit 106:29 (ADB1905)",
+    "connected_to": "Mga Awit 106:30",
+    "connected_from": "Mga Awit 106:28"
+  },
+  {
+    "text": "Nang magkagayo'y tumayo si Phinees, at gumawa ng kahatulan: at sa gayo'y tumigil ang salot.",
+    "reference": "Mga Awit 106:30 (ADB1905)",
+    "connected_to": "Mga Awit 106:31",
+    "connected_from": "Mga Awit 106:29"
+  },
+  {
+    "text": "At nabilang sa kaniya na katuwiran, sa lahat ng sali't saling lahi magpakailan man.",
+    "reference": "Mga Awit 106:31 (ADB1905)",
+    "connected_to": "Mga Awit 106:32",
+    "connected_from": "Mga Awit 106:30"
+  },
+  {
+    "text": "Kanilang ginalit din siya sa tubig ng Meriba, na anopa't naging masama kay Moises dahil sa kanila:",
+    "reference": "Mga Awit 106:32 (ADB1905)",
+    "connected_to": "Mga Awit 106:33",
+    "connected_from": "Mga Awit 106:31"
+  },
+  {
+    "text": "Sapagka't sila'y mapanghimagsik laban sa kaniyang diwa, at siya'y nagsalita ng walang pakundangan ng kaniyang mga labi.",
+    "reference": "Mga Awit 106:33 (ADB1905)",
+    "connected_to": "Mga Awit 106:34",
+    "connected_from": "Mga Awit 106:32"
+  },
+  {
+    "text": "Hindi nila nilipol ang mga bayan, gaya ng iniutos ng Panginoon sa kanila;",
+    "reference": "Mga Awit 106:34 (ADB1905)",
+    "connected_to": "Mga Awit 106:35",
+    "connected_from": "Mga Awit 106:33"
+  },
+  {
+    "text": "Kundi nangakihalo sa mga bansa, at nangatuto ng kanilang mga gawa:",
+    "reference": "Mga Awit 106:35 (ADB1905)",
+    "connected_to": "Mga Awit 106:36",
+    "connected_from": "Mga Awit 106:34"
+  },
+  {
+    "text": "At sila'y nangaglingkod sa kanilang mga diosdiosan; na naging silo sa kanila:",
+    "reference": "Mga Awit 106:36 (ADB1905)",
+    "connected_to": "Mga Awit 106:37",
+    "connected_from": "Mga Awit 106:35"
+  },
+  {
+    "text": "Oo, kanilang inihain ang kanilang mga anak na lalake at babae sa mga demonio,",
+    "reference": "Mga Awit 106:37 (ADB1905)",
+    "connected_to": "Mga Awit 106:38",
+    "connected_from": "Mga Awit 106:36"
+  },
+  {
+    "text": "At nagbubo ng walang salang dugo, sa makatuwid baga'y ng dugo ng kanilang mga anak na lalake at babae, na kanilang inihain sa diosdiosan ng Canaan; at ang lupain ay nadumhan ng dugo.",
+    "reference": "Mga Awit 106:38 (ADB1905)",
+    "connected_to": "Mga Awit 106:39",
+    "connected_from": "Mga Awit 106:37"
+  },
+  {
+    "text": "Ganito sila nagpakahawa sa kanilang mga gawa, at nagsiyaong nagpakarumi sa kanilang mga gawa.",
+    "reference": "Mga Awit 106:39 (ADB1905)",
+    "connected_to": "Mga Awit 106:40",
+    "connected_from": "Mga Awit 106:38"
+  },
+  {
+    "text": "Kaya't nagalab ang pagiinit ng Panginoon laban sa kaniyang bayan, at kinayamutan niya ang kaniyang pamana.",
+    "reference": "Mga Awit 106:40 (ADB1905)",
+    "connected_to": "Mga Awit 106:41",
+    "connected_from": "Mga Awit 106:39"
+  },
+  {
+    "text": "At ibinigay niya sila sa kamay ng mga bansa; at silang nangagtatanim sa kanila ay nangagpuno sa kanila.",
+    "reference": "Mga Awit 106:41 (ADB1905)",
+    "connected_to": "Mga Awit 106:42",
+    "connected_from": "Mga Awit 106:40"
+  },
+  {
+    "text": "Pinighati naman sila ng kanilang mga kaaway, at sila'y nagsisuko sa kanilang kamay.",
+    "reference": "Mga Awit 106:42 (ADB1905)",
+    "connected_to": "Mga Awit 106:43",
+    "connected_from": "Mga Awit 106:41"
+  },
+  {
+    "text": "Madalas na iligtas niya sila; nguni't sila'y mapanghimagsik sa kanilang payo, at nangababa sila sa kanilang kasamaan.",
+    "reference": "Mga Awit 106:43 (ADB1905)",
+    "connected_to": "Mga Awit 106:44",
+    "connected_from": "Mga Awit 106:42"
+  },
+  {
+    "text": "Gayon ma'y nilingap niya ang kanilang kahirapan, nang kaniyang marinig ang kanilang daing:",
+    "reference": "Mga Awit 106:44 (ADB1905)",
+    "connected_to": "Mga Awit 106:45",
+    "connected_from": "Mga Awit 106:43"
+  },
+  {
+    "text": "At kaniyang inalaala sa kanila ang kaniyang tipan, at nagsisi ayon sa karamihan ng kaniyang mga kagandahang-loob.",
+    "reference": "Mga Awit 106:45 (ADB1905)",
+    "connected_to": "Mga Awit 106:46",
+    "connected_from": "Mga Awit 106:44"
+  },
+  {
+    "text": "Ginawa naman niyang sila'y kaawaan niyaong lahat na nangagdalang bihag sa kanila.",
+    "reference": "Mga Awit 106:46 (ADB1905)",
+    "connected_to": "Mga Awit 106:47",
+    "connected_from": "Mga Awit 106:45"
+  },
+  {
+    "text": "Iligtas mo kami, Oh Panginoon naming Dios, at pisanin mo kami na mula sa mga bansa, upang mangagpasalamat sa iyong banal na pangalan, at mangagtagumpay sa iyong kapurihan.",
+    "reference": "Mga Awit 106:47 (ADB1905)",
+    "connected_to": "Mga Awit 106:48",
+    "connected_from": "Mga Awit 106:46"
+  },
+  {
+    "text": "Purihin ang Panginoon, ang Dios ng Israel, mula sa walang pasimula hanggang sa walang hanggan. At sabihin ng buong bayan, Siya nawa. Purihin ninyo ang Panginoon.",
+    "reference": "Mga Awit 106:48 (ADB1905)",
+    "connected_from": "Mga Awit 106:47"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Bakit ang mga bansa ay nangagugulo, at ang mga bayan ay nangagaakala ng walang kabuluhang bagay?",
+    "reference": "Mga Awit 2:1 (ADB1905)",
+    "connected_to": "Mga Awit 2:2"
+  },
+  {
+    "text": "Ang mga hari sa lupa ay nagsisihanda, at ang mga pinuno ay nagsasanggunian, Laban sa Panginoon at laban sa kaniyang pinahiran ng langis, na sinasabi:",
+    "reference": "Mga Awit 2:2 (ADB1905)",
+    "connected_to": "Mga Awit 2:3",
+    "connected_from": "Mga Awit 2:1"
+  },
+  {
+    "text": "Lagutin natin ang kanilang tali, at ating iwaksi ang kanilang mga panali sa atin.",
+    "reference": "Mga Awit 2:3 (ADB1905)",
+    "connected_to": "Mga Awit 2:4",
+    "connected_from": "Mga Awit 2:2"
+  },
+  {
+    "text": "Siyang nauupo sa kalangitan ay tatawa: ilalagay sila ng Panginoon sa kakutyaan.",
+    "reference": "Mga Awit 2:4 (ADB1905)",
+    "connected_to": "Mga Awit 2:5",
+    "connected_from": "Mga Awit 2:3"
+  },
+  {
+    "text": "Kung magkagayo'y magsasalita siya sa kanila sa kaniyang poot, at babagabagin sila sa kaniyang malabis na sama ng loob:",
+    "reference": "Mga Awit 2:5 (ADB1905)",
+    "connected_to": "Mga Awit 2:6",
+    "connected_from": "Mga Awit 2:4"
+  },
+  {
+    "text": "Gayon ma'y inilagay ko ang aking hari sa aking banal na bundok ng Sion.",
+    "reference": "Mga Awit 2:6 (ADB1905)",
+    "connected_to": "Mga Awit 2:7",
+    "connected_from": "Mga Awit 2:5"
+  },
+  {
+    "text": "Aking sasaysayin ang tungkol sa pasiya: sinabi ng Panginoon sa akin, Ikaw ay aking anak; sa araw na ito ay ipinanganak kita.",
+    "reference": "Mga Awit 2:7 (ADB1905)",
+    "connected_to": "Mga Awit 2:8",
+    "connected_from": "Mga Awit 2:6"
+  },
+  {
+    "text": "Humingi ka sa akin, at ibibigay ko sa iyo ang mga bansa na iyong pinakamana, at ang mga pinakadulong bahagi ng lupa ay iyong pinakaari.",
+    "reference": "Mga Awit 2:8 (ADB1905)",
+    "connected_to": "Mga Awit 2:9",
+    "connected_from": "Mga Awit 2:7"
+  },
+  {
+    "text": "Sila'y iyong babaliin ng isang pamalong bakal; iyong dudurugin sila na parang isang sisidlan ng magpapalyok.",
+    "reference": "Mga Awit 2:9 (ADB1905)",
+    "connected_to": "Mga Awit 2:10",
+    "connected_from": "Mga Awit 2:8"
+  },
+  {
+    "text": "Ngayon nga'y magpakapantas kayo, Oh kayong mga hari: mangatuto kayo, kayong mga hukom sa lupa.",
+    "reference": "Mga Awit 2:10 (ADB1905)",
+    "connected_to": "Mga Awit 2:11",
+    "connected_from": "Mga Awit 2:9"
+  },
+  {
+    "text": "Kayo'y mangaglingkod sa Panginoon na may takot, at mangagalak na may panginginig.",
+    "reference": "Mga Awit 2:11 (ADB1905)",
+    "connected_to": "Mga Awit 2:12",
+    "connected_from": "Mga Awit 2:10"
+  },
+  {
+    "text": "Hagkan ninyo ang anak, baka magalit siya, at kayo'y mangapahamak sa daan, sapagka't ang kaniyang poot ay madaling magalab. Mapapalad ang nanganganlong sa kaniya.",
+    "reference": "Mga Awit 2:12 (ADB1905)",
+    "connected_from": "Mga Awit 2:11"
+  }
+]

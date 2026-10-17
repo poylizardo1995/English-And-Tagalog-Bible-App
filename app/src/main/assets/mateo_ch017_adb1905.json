@@ -1,0 +1,162 @@
+[
+  {
+    "text": "At pagkaraan ng anim na araw, ay isinama ni Jesus si Pedro, at si Santiago, at si Juan na kapatid niya, at sila'y dinalang bukod sa isang mataas na bundok:",
+    "reference": "Mateo 17:1 (ADB1905)",
+    "connected_to": "Mateo 17:2"
+  },
+  {
+    "text": "At nagbagong-anyo siya sa harap nila; at nagliwanag ang kaniyang mukha na katulad ng araw, at pumuting tulad sa ilaw ang kaniyang mga damit.",
+    "reference": "Mateo 17:2 (ADB1905)",
+    "connected_to": "Mateo 17:3",
+    "connected_from": "Mateo 17:1"
+  },
+  {
+    "text": "At narito, napakita sa kanila si Moises at si Elias na nakikipagusap sa kaniya.",
+    "reference": "Mateo 17:3 (ADB1905)",
+    "connected_to": "Mateo 17:4",
+    "connected_from": "Mateo 17:2"
+  },
+  {
+    "text": "At sumagot si Pedro, at sinabi kay Jesus, Panginoon, mabuti sa atin ang tayo'y dumito: kung ibig mo, ay gagawa ako rito ng tatlong tabernakulo; isa ang sa iyo, at isa ang kay Moises, at isa ang kay Elias.",
+    "reference": "Mateo 17:4 (ADB1905)",
+    "connected_to": "Mateo 17:5",
+    "connected_from": "Mateo 17:3"
+  },
+  {
+    "text": "Samantalang nagsasalita pa siya, narito, ang isang maningning na alapaap ay lumilim sa kanila: at narito, ang isang tinig na mula sa alapaap, na nagsasabi, Ito ang sinisinta kong Anak, na siya kong kinalulugdan; siya ang inyong pakinggan.",
+    "reference": "Mateo 17:5 (ADB1905)",
+    "connected_to": "Mateo 17:6",
+    "connected_from": "Mateo 17:4"
+  },
+  {
+    "text": "At nang marinig ito ng mga alagad, ay nangasubasub sila, at lubhang nangatakot.",
+    "reference": "Mateo 17:6 (ADB1905)",
+    "connected_to": "Mateo 17:7",
+    "connected_from": "Mateo 17:5"
+  },
+  {
+    "text": "At lumapit si Jesus at sila'y tinapik, at sinabi, Mangagbangon kayo, at huwag kayong mangatakot.",
+    "reference": "Mateo 17:7 (ADB1905)",
+    "connected_to": "Mateo 17:8",
+    "connected_from": "Mateo 17:6"
+  },
+  {
+    "text": "At sa paglingap ng kanilang mga mata, ay wala silang nakitang sinoman, kundi si Jesus lamang.",
+    "reference": "Mateo 17:8 (ADB1905)",
+    "connected_to": "Mateo 17:9",
+    "connected_from": "Mateo 17:7"
+  },
+  {
+    "text": "At habang sila'y nagsisibaba mula sa bundok, ay iniutos sa kanila ni Jesus, na nagsasabi, Huwag ninyong sabihin kanino mang tao ang pangitain, hanggang sa ang Anak ng tao ay ibangon sa mga patay.",
+    "reference": "Mateo 17:9 (ADB1905)",
+    "connected_to": "Mateo 17:10",
+    "connected_from": "Mateo 17:8"
+  },
+  {
+    "text": "At tinanong siya ng kaniyang mga alagad, na nangagsasabi, Bakit nga sinasabi ng mga eskriba na kinakailangang pumarito muna si Elias?",
+    "reference": "Mateo 17:10 (ADB1905)",
+    "connected_to": "Mateo 17:11",
+    "connected_from": "Mateo 17:9"
+  },
+  {
+    "text": "At sumagot siya, at sinabi, Katotohanang si Elias ay paririto, at isasauli ang lahat ng mga bagay:",
+    "reference": "Mateo 17:11 (ADB1905)",
+    "connected_to": "Mateo 17:12",
+    "connected_from": "Mateo 17:10"
+  },
+  {
+    "text": "Datapuwa't sinasabi ko sa inyo, na naparito na si Elias, at hindi nila siya nakilala, kundi ginawa nila sa kaniya ang anomang kanilang inibig. Gayon din naman ang Anak ng tao ay magbabata sa kanila.",
+    "reference": "Mateo 17:12 (ADB1905)",
+    "connected_to": "Mateo 17:13",
+    "connected_from": "Mateo 17:11"
+  },
+  {
+    "text": "Nang magkagayo'y napagunawa ng mga alagad na si Juan Bautista ang sa kanila'y sinasabi niya.",
+    "reference": "Mateo 17:13 (ADB1905)",
+    "connected_to": "Mateo 17:14",
+    "connected_from": "Mateo 17:12"
+  },
+  {
+    "text": "At pagdating nila sa karamihan, ay lumapit sa kaniya ang isang lalake, na sa kaniya'y lumuhod, at nagsasabi,",
+    "reference": "Mateo 17:14 (ADB1905)",
+    "connected_to": "Mateo 17:15",
+    "connected_from": "Mateo 17:13"
+  },
+  {
+    "text": "Panginoon, mahabag ka sa aking anak na lalake: sapagka't siya'y himatayin, at lubhang naghihirap; sapagka't madalas na siya'y nagsusugba sa apoy, at madalas sa tubig.",
+    "reference": "Mateo 17:15 (ADB1905)",
+    "connected_to": "Mateo 17:16",
+    "connected_from": "Mateo 17:14"
+  },
+  {
+    "text": "At siya'y dinala ko sa iyong mga alagad, at hindi nila siya mapagaling.",
+    "reference": "Mateo 17:16 (ADB1905)",
+    "connected_to": "Mateo 17:17",
+    "connected_from": "Mateo 17:15"
+  },
+  {
+    "text": "At sumagot si Jesus at sinabi, Oh lahing walang pananampalataya at taksil, hanggang kailan titiisin ko kayo? dalhin ninyo siya rito sa akin.",
+    "reference": "Mateo 17:17 (ADB1905)",
+    "connected_to": "Mateo 17:18",
+    "connected_from": "Mateo 17:16"
+  },
+  {
+    "text": "At pinagwikaan siya ni Jesus; at ang demonio ay lumabas sa kaniya: at ang bata'y gumaling mula nang oras ding yaon.",
+    "reference": "Mateo 17:18 (ADB1905)",
+    "connected_to": "Mateo 17:19",
+    "connected_from": "Mateo 17:17"
+  },
+  {
+    "text": "Nang magkagayo'y nagsilapit na bukod ang mga alagad kay Jesus, at nangagsabi, Bakit baga hindi namin napalabas yaon?",
+    "reference": "Mateo 17:19 (ADB1905)",
+    "connected_to": "Mateo 17:20",
+    "connected_from": "Mateo 17:18"
+  },
+  {
+    "text": "At sinabi niya sa kanila, Dahil sa kakauntian ng inyong pananampalataya: sapagka't katotohanang sinasabi ko sa inyo, Kung magkaroon kayo ng pananampalataya na kasinglaki ng butil ng binhi ng mostasa, ay masasabi ninyo sa bundok na ito, Lumipat ka mula rito hanggang doon; at ito'y lilipat; at sa inyo'y hindi may pangyayari.",
+    "reference": "Mateo 17:20 (ADB1905)",
+    "connected_to": "Mateo 17:21",
+    "connected_from": "Mateo 17:19"
+  },
+  {
+    "text": "Datapuwa't ang ganito'y hindi lumalabas kundi sa pamamagitan ng panalangin at ayuno.",
+    "reference": "Mateo 17:21 (ADB1905)",
+    "connected_to": "Mateo 17:22",
+    "connected_from": "Mateo 17:20"
+  },
+  {
+    "text": "At samantalang sila'y nangakahimpil sa Galilea, ay sinabi sa kanila ni Jesus, Ang Anak ng tao ay ibibigay sa mga kamay ng mga tao;",
+    "reference": "Mateo 17:22 (ADB1905)",
+    "connected_to": "Mateo 17:23",
+    "connected_from": "Mateo 17:21"
+  },
+  {
+    "text": "At siya'y papatayin nila, at sa ikatlong araw ay siya'y muling ibabangon. At sila'y lubhang nangamanglaw,",
+    "reference": "Mateo 17:23 (ADB1905)",
+    "connected_to": "Mateo 17:24",
+    "connected_from": "Mateo 17:22"
+  },
+  {
+    "text": "At pagdating nila sa Capernaum, ay nangagsilapit kay Pedro ang mga maniningil ng kalahating siklo, at nangagsabi, Hindi baga pinagbabayaran ng inyong guro ang kalahating siklo?",
+    "reference": "Mateo 17:24 (ADB1905)",
+    "connected_to": "Mateo 17:25",
+    "connected_from": "Mateo 17:23"
+  },
+  {
+    "text": "Sinabi niya, Oo. At nang pumasok siya sa bahay, ay pinangunahan siya ni Jesus, na nagsasabi, Anong akala mo, Simon? ang mga hari sa lupa, kanino baga sila nanganiningil ng kabayaran ng buwis? sa kanilang mga anak baga o sa nangaiiba?",
+    "reference": "Mateo 17:25 (ADB1905)",
+    "connected_to": "Mateo 17:26",
+    "connected_from": "Mateo 17:24"
+  },
+  {
+    "text": "At nang sabihin niya, Sa nangaiiba, ay sinabi sa kaniya ni Jesus, Kung gayo'y hindi nangagbabayad ang mga anak.",
+    "reference": "Mateo 17:26 (ADB1905)",
+    "connected_to": "Mateo 17:27",
+    "connected_from": "Mateo 17:25"
+  },
+  {
+    "text": "Datapuwa't, baka katisuran tayo nila, ay pumaroon ka sa dagat, at ihulog mo ang kawil, at kunin mo ang unang isdang lumitaw; at pagka naibuka mo na ang kaniyang bibig, ay masusumpungan mo ang isang siklo: kunin mo, at ibigay mo sa kanila sa ganang akin at sa iyo.",
+    "reference": "Mateo 17:27 (ADB1905)",
+    "connected_from": "Mateo 17:26"
+  }
+]

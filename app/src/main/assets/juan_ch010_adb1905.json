@@ -1,0 +1,252 @@
+[
+  {
+    "text": "Katotohanan, katotohanang sinasabi ko sa inyo, Ang pumapasok sa hindi pintuan ng kulungan ng mga tupa kundi umaakyat sa ibang daan, ang gayon ay tulisan at magnanakaw.",
+    "reference": "Juan 10:1 (ADB1905)",
+    "connected_to": "Juan 10:2"
+  },
+  {
+    "text": "Datapuwa't ang pumapasok sa pintuan ay siyang pastor ng mga tupa.",
+    "reference": "Juan 10:2 (ADB1905)",
+    "connected_to": "Juan 10:3",
+    "connected_from": "Juan 10:1"
+  },
+  {
+    "text": "Binubuksan siya ng bantaypinto; at dinirinig ng mga tupa ang kaniyang tinig: at tinatawag ang kaniyang sariling mga tupa sa pangalan, at sila'y inihahatid sa labas.",
+    "reference": "Juan 10:3 (ADB1905)",
+    "connected_to": "Juan 10:4",
+    "connected_from": "Juan 10:2"
+  },
+  {
+    "text": "Pagka nailabas na niya ang lahat ng sariling kaniya, ay pinangungunahan niya sila, at nagsisisunod sa kaniya ang mga tupa: sapagka't nakikilala nila ang kaniyang tinig.",
+    "reference": "Juan 10:4 (ADB1905)",
+    "connected_to": "Juan 10:5",
+    "connected_from": "Juan 10:3"
+  },
+  {
+    "text": "At sa iba'y hindi sila magsisisunod, kundi magsisitakas sa kaniya: sapagka't hindi nila nakikilala ang tinig ng mga iba.",
+    "reference": "Juan 10:5 (ADB1905)",
+    "connected_to": "Juan 10:6",
+    "connected_from": "Juan 10:4"
+  },
+  {
+    "text": "Sinalita ni Jesus sa kanila ang talinghagang ito: datapuwa't hindi nila napagunawa kung anong mga bagay ang sa kanila'y sinasalita.",
+    "reference": "Juan 10:6 (ADB1905)",
+    "connected_to": "Juan 10:7",
+    "connected_from": "Juan 10:5"
+  },
+  {
+    "text": "Muli ngang sinabi sa kanila ni Jesus, Katotohanan, katotohanang sinasabi ko sa inyo, Ako ang pintuan ng mga tupa.",
+    "reference": "Juan 10:7 (ADB1905)",
+    "connected_to": "Juan 10:8",
+    "connected_from": "Juan 10:6"
+  },
+  {
+    "text": "Ang lahat ng nangauna sa aking nagsiparito ay mga magnanakaw at mga tulisan: datapuwa't hindi sila dininig ng mga tupa.",
+    "reference": "Juan 10:8 (ADB1905)",
+    "connected_to": "Juan 10:9",
+    "connected_from": "Juan 10:7"
+  },
+  {
+    "text": "Ako ang pintuan; ang sinomang taong pumasok sa akin, ay siya'y maliligtas, at papasok at lalabas, at makasusumpong ng pastulan.",
+    "reference": "Juan 10:9 (ADB1905)",
+    "connected_to": "Juan 10:10",
+    "connected_from": "Juan 10:8"
+  },
+  {
+    "text": "Hindi pumaparito ang magnanakaw, kundi upang magnakaw, at pumatay, at pumuksa: ako'y naparito upang sila'y magkaroon ng buhay, at magkaroon ng kasaganaan nito.",
+    "reference": "Juan 10:10 (ADB1905)",
+    "connected_to": "Juan 10:11",
+    "connected_from": "Juan 10:9"
+  },
+  {
+    "text": "Ako ang mabuting pastor: ibinibigay ng mabuting pastor ang kaniyang buhay dahil sa mga tupa.",
+    "reference": "Juan 10:11 (ADB1905)",
+    "connected_to": "Juan 10:12",
+    "connected_from": "Juan 10:10"
+  },
+  {
+    "text": "Ang nagpapaupa, at hindi ang pastor, na hindi may-ari ng mga tupa, ay nakikitang dumarating ang lobo, at pinababayaan ang mga tupa, at tumatakas, at inaagaw sila ng lobo, at pinapangangalat:",
+    "reference": "Juan 10:12 (ADB1905)",
+    "connected_to": "Juan 10:13",
+    "connected_from": "Juan 10:11"
+  },
+  {
+    "text": "Siya'y tumatakas sapagka't siya'y upahan, at hindi ipinagmamalasakit ang mga tupa.",
+    "reference": "Juan 10:13 (ADB1905)",
+    "connected_to": "Juan 10:14",
+    "connected_from": "Juan 10:12"
+  },
+  {
+    "text": "Ako ang mabuting pastor; at nakikilala ko ang sariling akin, at ang sariling akin ay nakikilala ako,",
+    "reference": "Juan 10:14 (ADB1905)",
+    "connected_to": "Juan 10:15",
+    "connected_from": "Juan 10:13"
+  },
+  {
+    "text": "Gaya ng pagkakilala sa akin ng Ama, at ng sa Ama ay pagkakilala ko; at ibinibigay ko ang aking buhay dahil sa mga tupa.",
+    "reference": "Juan 10:15 (ADB1905)",
+    "connected_to": "Juan 10:16",
+    "connected_from": "Juan 10:14"
+  },
+  {
+    "text": "At mayroon akong ibang mga tupa, na hindi sa kulungang ito: sila'y kailangan din namang dalhin ko, at kanilang diringgin ang aking tinig; at sila'y magiging isang kawan, at magkakaroon ng isang pastor.",
+    "reference": "Juan 10:16 (ADB1905)",
+    "connected_to": "Juan 10:17",
+    "connected_from": "Juan 10:15"
+  },
+  {
+    "text": "Dahil dito'y sinisinta ako ng Ama, sapagka't ibinibigay ko ang aking buhay, upang kunin kong muli.",
+    "reference": "Juan 10:17 (ADB1905)",
+    "connected_to": "Juan 10:18",
+    "connected_from": "Juan 10:16"
+  },
+  {
+    "text": "Sinoma'y hindi nagaalis sa akin nito, kundi kusa kong ibinibigay. May kapangyarihan akong magbigay nito, at may kapangyarihan akong kumuhang muli. Tinanggap ko ang utos na ito sa aking Ama.",
+    "reference": "Juan 10:18 (ADB1905)",
+    "connected_to": "Juan 10:19",
+    "connected_from": "Juan 10:17"
+  },
+  {
+    "text": "At muling nagkaroon ng isang pagbabahabahagi sa gitna ng mga Judio dahil sa mga salitang ito.",
+    "reference": "Juan 10:19 (ADB1905)",
+    "connected_to": "Juan 10:20",
+    "connected_from": "Juan 10:18"
+  },
+  {
+    "text": "At sinasabi ng marami sa kanila, Mayroon siyang demonio, at siya'y nauulol; bakit ninyo siya pinakikinggan?",
+    "reference": "Juan 10:20 (ADB1905)",
+    "connected_to": "Juan 10:21",
+    "connected_from": "Juan 10:19"
+  },
+  {
+    "text": "Sinasabi ng mga iba, Hindi sa inaalihan ng demonio ang mga sabing ito. Maaari bagang ang demonio ay makapagpadilat ng mga mata ng bulag?",
+    "reference": "Juan 10:21 (ADB1905)",
+    "connected_to": "Juan 10:22",
+    "connected_from": "Juan 10:20"
+  },
+  {
+    "text": "At niyao'y kapistahan ng pagtatalaga sa Jerusalem:",
+    "reference": "Juan 10:22 (ADB1905)",
+    "connected_to": "Juan 10:23",
+    "connected_from": "Juan 10:21"
+  },
+  {
+    "text": "Noo'y tagginaw; at naglalakad si Jesus sa templo sa portiko ni Salomon.",
+    "reference": "Juan 10:23 (ADB1905)",
+    "connected_to": "Juan 10:24",
+    "connected_from": "Juan 10:22"
+  },
+  {
+    "text": "Nilibot nga siya ng mga Judio, at sa kaniya'y sinabi, Hanggang kailan mo pa baga pagaalinlanganin kami? Kung ikaw ang Cristo, ay sabihin mong maliwanag sa amin.",
+    "reference": "Juan 10:24 (ADB1905)",
+    "connected_to": "Juan 10:25",
+    "connected_from": "Juan 10:23"
+  },
+  {
+    "text": "Sinagot sila ni Jesus, Sinabi ko sa inyo, at hindi kayo nagsisampalataya: ang mga gawang ginagawa ko sa pangalan ng aking Ama, ay siyang nangagpapatotoo sa akin.",
+    "reference": "Juan 10:25 (ADB1905)",
+    "connected_to": "Juan 10:26",
+    "connected_from": "Juan 10:24"
+  },
+  {
+    "text": "Datapuwa't hindi kayo nagsisampalataya, sapagka't hindi kayo sa aking mga tupa.",
+    "reference": "Juan 10:26 (ADB1905)",
+    "connected_to": "Juan 10:27",
+    "connected_from": "Juan 10:25"
+  },
+  {
+    "text": "Dinirinig ng aking mga tupa ang aking tinig, at sila'y aking nakikilala, at sila'y nagsisisunod sa akin:",
+    "reference": "Juan 10:27 (ADB1905)",
+    "connected_to": "Juan 10:28",
+    "connected_from": "Juan 10:26"
+  },
+  {
+    "text": "At sila'y binibigyan ko ng walang hanggang buhay; at kailan ma'y hindi sila malilipol, at hindi sila aagawin ng sinoman sa aking kamay.",
+    "reference": "Juan 10:28 (ADB1905)",
+    "connected_to": "Juan 10:29",
+    "connected_from": "Juan 10:27"
+  },
+  {
+    "text": "Ang aking Ama, na sa kanila ay nagbigay sa akin, ay lalong dakila kay sa lahat; at hindi sila maaagaw ninoman sa kamay ng Ama.",
+    "reference": "Juan 10:29 (ADB1905)",
+    "connected_to": "Juan 10:30",
+    "connected_from": "Juan 10:28"
+  },
+  {
+    "text": "Ako at ang Ama ay iisa.",
+    "reference": "Juan 10:30 (ADB1905)",
+    "connected_to": "Juan 10:31",
+    "connected_from": "Juan 10:29"
+  },
+  {
+    "text": "Nagsidampot uli ng mga bato ang mga Judio upang siya'y batuhin.",
+    "reference": "Juan 10:31 (ADB1905)",
+    "connected_to": "Juan 10:32",
+    "connected_from": "Juan 10:30"
+  },
+  {
+    "text": "Sinagot sila ni Jesus, Maraming mabubuting gawa na mula sa Ama ang ipinakita ko sa inyo; alin sa mga gawang yaon ang ibinabato ninyo sa akin?",
+    "reference": "Juan 10:32 (ADB1905)",
+    "connected_to": "Juan 10:33",
+    "connected_from": "Juan 10:31"
+  },
+  {
+    "text": "Sinagot siya ng mga Judio, Hindi dahil sa mabuting gawa ay binabato ka namin, kundi sa pamumusong; at sapagka't ikaw, bagaman ikaw ay tao, ay nagpapakunwari kang Dios.",
+    "reference": "Juan 10:33 (ADB1905)",
+    "connected_to": "Juan 10:34",
+    "connected_from": "Juan 10:32"
+  },
+  {
+    "text": "Sinagot sila ni Jesus, Hindi baga nasusulat sa inyong kautusan, Aking sinabi, Kayo'y mga dios?",
+    "reference": "Juan 10:34 (ADB1905)",
+    "connected_to": "Juan 10:35",
+    "connected_from": "Juan 10:33"
+  },
+  {
+    "text": "Kung tinawag niyang mga dios, yaong mga dinatnan ng salita ng Dios (at hindi mangyayaring sirain ang kasulatan),",
+    "reference": "Juan 10:35 (ADB1905)",
+    "connected_to": "Juan 10:36",
+    "connected_from": "Juan 10:34"
+  },
+  {
+    "text": "Sinasabi baga ninyo tungkol sa kaniya, na pinabanal ng Ama at sinugo sa sanglibutan, Ikaw ay namumusong; sapagka't sinasabi ko, Ako ang anak ng Dios?",
+    "reference": "Juan 10:36 (ADB1905)",
+    "connected_to": "Juan 10:37",
+    "connected_from": "Juan 10:35"
+  },
+  {
+    "text": "Kung hindi ko ginagawa ang mga gawa ng aking Ama, ay huwag ninyo akong sampalatayanan.",
+    "reference": "Juan 10:37 (ADB1905)",
+    "connected_to": "Juan 10:38",
+    "connected_from": "Juan 10:36"
+  },
+  {
+    "text": "Datapuwa't kung ginagawa ko, ang mga yaon kahit hindi kayo magsisampalataya sa akin, ay magsisampalataya kayo sa mga gawa; upang maalaman ninyo at mapagunawa na ang Ama ay nasa akin, at ako'y nasa Ama.",
+    "reference": "Juan 10:38 (ADB1905)",
+    "connected_to": "Juan 10:39",
+    "connected_from": "Juan 10:37"
+  },
+  {
+    "text": "Muling pinagsikapan nilang siya'y hulihin: at siya'y tumakas sa kanilang mga kamay.",
+    "reference": "Juan 10:39 (ADB1905)",
+    "connected_to": "Juan 10:40",
+    "connected_from": "Juan 10:38"
+  },
+  {
+    "text": "At siya'y muling naparoon sa dako pa roon ng Jordan sa dako nang una'y pinagbautismuhan ni Juan; at siya'y tumira doon.",
+    "reference": "Juan 10:40 (ADB1905)",
+    "connected_to": "Juan 10:41",
+    "connected_from": "Juan 10:39"
+  },
+  {
+    "text": "At marami ang mga nagsiparoon sa kaniya; at kanilang sinabi, Katotohanang si Juan ay hindi gumawa ng tanda: nguni't lahat ng mga bagay na sinalita ni Juan tungkol sa taong ito ay totoo.",
+    "reference": "Juan 10:41 (ADB1905)",
+    "connected_to": "Juan 10:42",
+    "connected_from": "Juan 10:40"
+  },
+  {
+    "text": "At marami ang mga nagsisampalataya sa kaniya roon.",
+    "reference": "Juan 10:42 (ADB1905)",
+    "connected_from": "Juan 10:41"
+  }
+]

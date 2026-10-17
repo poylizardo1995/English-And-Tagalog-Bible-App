@@ -1,0 +1,126 @@
+[
+  {
+    "text": " Nang ikawalong buwan, nang ikalawang taon ni Dario, dumating ang salita ng Panginoon kay Zacarias na anak ni Berechias, na anak ni Iddo, na propeta, na nagsasabi,",
+    "reference": "Zacarias 1:1 (ADB1905)",
+    "connected_to": "Zacarias 1:2"
+  },
+  {
+    "text": "Ang Panginoo'y totoong naghinanakit sa inyong mga magulang.",
+    "reference": "Zacarias 1:2 (ADB1905)",
+    "connected_to": "Zacarias 1:3",
+    "connected_from": "Zacarias 1:1"
+  },
+  {
+    "text": "Kaya't sabihin mo sa kanila, Ganito ang sabi ng Panginoon ng mga hukbo. Manumbalik kayo sa akin, sabi ng Panginoon ng mga hukbo, at ako'y manunumbalik sa inyo, sabi ng Panginoon ng mga hukbo.",
+    "reference": "Zacarias 1:3 (ADB1905)",
+    "connected_to": "Zacarias 1:4",
+    "connected_from": "Zacarias 1:2"
+  },
+  {
+    "text": "Huwag kayong maging gaya ng inyong mga magulang, na siyang mga pinagsabihan ng mga unang propeta, na nangagsabi, Ganito ang sabi ng Panginoon ng mga hukbo, Manumbalik kayo ngayon na mula sa inyong mga masamang lakad, at sa inyong mga masamang gawain: nguni't hindi nila dininig, o pinakinggan man ako, sabi ng Panginoon.",
+    "reference": "Zacarias 1:4 (ADB1905)",
+    "connected_to": "Zacarias 1:5",
+    "connected_from": "Zacarias 1:3"
+  },
+  {
+    "text": "Ang inyong mga magulang, saan nangandoon sila? at ang mga propeta, nangabubuhay baga sila ng magpakailan man?",
+    "reference": "Zacarias 1:5 (ADB1905)",
+    "connected_to": "Zacarias 1:6",
+    "connected_from": "Zacarias 1:4"
+  },
+  {
+    "text": "Nguni't ang aking mga salita at ang aking mga palatuntunan, na aking iniutos sa aking mga lingkod na mga propeta, hindi baga nagsiabot sa inyong mga magulang? at sila'y nanumbalik at nangagsabi, Kung paano ang inisip na gawin ng Panginoon ng mga hukbo sa amin, ayon sa aming mga lakad, at ayon sa aming mga gawa, gayon ang ginawa niya sa amin.",
+    "reference": "Zacarias 1:6 (ADB1905)",
+    "connected_to": "Zacarias 1:7",
+    "connected_from": "Zacarias 1:5"
+  },
+  {
+    "text": "Nang ikadalawang pu't apat na araw ng ikalabing isang buwan, na siyang buwan ng Sebath, nang ikalawang taon ni Dario, dumating ang salita ng Panginoon kay Zacarias, na anak ni Berechias, na anak ni Iddo, na propeta, na nagsasabi,",
+    "reference": "Zacarias 1:7 (ADB1905)",
+    "connected_to": "Zacarias 1:8",
+    "connected_from": "Zacarias 1:6"
+  },
+  {
+    "text": "Aking nakita sa gabi, at, narito, ang isang lalaking nakasakay sa isang mapulang kabayo, at siya'y tumayo sa mga puno ng mirto, na nasa pinakamababa; at sa likuran niya'y may mga kabayong mapula, alazan, at maputi.",
+    "reference": "Zacarias 1:8 (ADB1905)",
+    "connected_to": "Zacarias 1:9",
+    "connected_from": "Zacarias 1:7"
+  },
+  {
+    "text": "Nang magkagayo'y sinabi, Oh Panginoon ko, ano ang mga ito? At ang anghel na nakikipagusap sa akin ay nagsabi sa akin, Aking ipakikita sa iyo kung ano-ano ang mga ito.",
+    "reference": "Zacarias 1:9 (ADB1905)",
+    "connected_to": "Zacarias 1:10",
+    "connected_from": "Zacarias 1:8"
+  },
+  {
+    "text": "At ang lalake na nakatayo sa mga puno ng mirto ay sumagot at nagsabi, Ang mga ito yaong mga sinugo ng Panginoon na magsilibot sa lupa.",
+    "reference": "Zacarias 1:10 (ADB1905)",
+    "connected_to": "Zacarias 1:11",
+    "connected_from": "Zacarias 1:9"
+  },
+  {
+    "text": "At sila'y nagsisagot sa anghel ng Panginoon na nakatayo sa mga puno ng mirto, at nagsabi, Aming nilibot ang lupa, at, narito, ang buong lupa ay tahimik, at tiwasay.",
+    "reference": "Zacarias 1:11 (ADB1905)",
+    "connected_to": "Zacarias 1:12",
+    "connected_from": "Zacarias 1:10"
+  },
+  {
+    "text": "Nang magkagayo'y ang anghel ng Panginoon ay sumagot at nagsabi, Oh Panginoon ng mga hukbo, hanggang kailan mawawalan ka ng habag sa Jerusalem at sa mga bayan ng Juda, laban sa iyong mga kinagalitan nitong pitong pung taon?",
+    "reference": "Zacarias 1:12 (ADB1905)",
+    "connected_to": "Zacarias 1:13",
+    "connected_from": "Zacarias 1:11"
+  },
+  {
+    "text": "At ang Panginoo'y sumagot sa anghel na nakikipagusap sa akin ng mga mabuting salita, ng mga salitang pangaliw.",
+    "reference": "Zacarias 1:13 (ADB1905)",
+    "connected_to": "Zacarias 1:14",
+    "connected_from": "Zacarias 1:12"
+  },
+  {
+    "text": "Sa gayo'y ang anghel na nakikipagusap sa akin ay nagsabi sa akin. Ikaw ay humiyaw, na iyong sabihin, Ganito ang sabi ng Panginoon ng mga hukbo: Ako'y naninibugho sa Jerusalem at sa Sion ng malaking paninibugho.",
+    "reference": "Zacarias 1:14 (ADB1905)",
+    "connected_to": "Zacarias 1:15",
+    "connected_from": "Zacarias 1:13"
+  },
+  {
+    "text": "At ako'y totoong naghihinanakit sa mga bansa na mga tiwasay; sapagka't ako'y naghinanakit ng kaunti, at sila'y nagsitulong ng pagbubungad ng kadalamhatian.",
+    "reference": "Zacarias 1:15 (ADB1905)",
+    "connected_to": "Zacarias 1:16",
+    "connected_from": "Zacarias 1:14"
+  },
+  {
+    "text": "Kaya't ganito ang sabi ng Panginoon, Ako'y nagbalik sa Jerusalem na may taglay na mga pagkahabag; ang aking bahay ay matatayo roon, sabi ng Panginoon ng mga hukbo, at isang pising panukat ay mauunat sa ibabaw ng Jerusalem.",
+    "reference": "Zacarias 1:16 (ADB1905)",
+    "connected_to": "Zacarias 1:17",
+    "connected_from": "Zacarias 1:15"
+  },
+  {
+    "text": "Humiyaw ka pa uli, na iyong sabihin, Ganito ang sabi ng Panginoon ng mga hukbo, Ang aking mga bayan ay sasagana dahil sa pagkasulong; at aaliwin pa ng Panginoon ang Sion, at pipiliin pa ang Jerusalem.",
+    "reference": "Zacarias 1:17 (ADB1905)",
+    "connected_to": "Zacarias 1:18",
+    "connected_from": "Zacarias 1:16"
+  },
+  {
+    "text": "At aking itinanaw ang aking mga mata, at aking nakita, at, narito, ang apat na sungay.",
+    "reference": "Zacarias 1:18 (ADB1905)",
+    "connected_to": "Zacarias 1:19",
+    "connected_from": "Zacarias 1:17"
+  },
+  {
+    "text": "At aking sinabi sa anghel na nakikipagusap sa akin, Ano ang mga ito? At siya'y sumagot sa akin, Ito ang mga sungay sa nagpangalat sa Juda, sa Israel, at sa Jerusalem.",
+    "reference": "Zacarias 1:19 (ADB1905)",
+    "connected_to": "Zacarias 1:20",
+    "connected_from": "Zacarias 1:18"
+  },
+  {
+    "text": "At ipinakita sa akin ng Panginoon ang apat na panday.",
+    "reference": "Zacarias 1:20 (ADB1905)",
+    "connected_to": "Zacarias 1:21",
+    "connected_from": "Zacarias 1:19"
+  },
+  {
+    "text": "Nang magkagayo'y sinabi ko, Ano ang ipinaritong gawin ng mga ito? At siya'y nagsalita na nagsabi, Ito ang mga sungay na nagpangalat sa Juda, na anopa't walang lalake na nagtaas ng kaniyang ulo; nguni't ang mga ito'y naparito upang takutin sila, upang ihulog ang mga sungay ng mga bansa, na nagtaas ng kanilang mga sungay laban sa lupain ng Juda upang pangalatin.",
+    "reference": "Zacarias 1:21 (ADB1905)",
+    "connected_from": "Zacarias 1:20"
+  }
+]

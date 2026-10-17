@@ -1,0 +1,168 @@
+[
+  {
+    "text": "Tunay na may mina na mayroong pilak, at dako na ukol sa ginto na kanilang pinagdadalisayan.",
+    "reference": "Job 28:1 (ADB1905)",
+    "connected_to": "Job 28:2"
+  },
+  {
+    "text": "Bakal ay hinuhukay sa lupa, at tanso ay binububo mula sa bato.",
+    "reference": "Job 28:2 (ADB1905)",
+    "connected_to": "Job 28:3",
+    "connected_from": "Job 28:1"
+  },
+  {
+    "text": "Ang tao'y naglalagay ng wakas sa kadiliman, at sumisiyasat hanggang sa kalayulayuang hangganan ng mga bato ng kadiliman at salimuot na kadiliman.",
+    "reference": "Job 28:3 (ADB1905)",
+    "connected_to": "Job 28:4",
+    "connected_from": "Job 28:2"
+  },
+  {
+    "text": "Siya'y humuhukay ng malayo sa tinatahanan ng mga tao: nililimot ng paa na dumadaan nagbibitin doong malayo sa mga tao, sila'y umuugoy na paroo't parito.",
+    "reference": "Job 28:4 (ADB1905)",
+    "connected_to": "Job 28:5",
+    "connected_from": "Job 28:3"
+  },
+  {
+    "text": "Tungkol sa lupa, mula rito'y nanggagaling ang tinapay: at sa ilalim ay wari tinutuklap ng apoy.",
+    "reference": "Job 28:5 (ADB1905)",
+    "connected_to": "Job 28:6",
+    "connected_from": "Job 28:4"
+  },
+  {
+    "text": "Ang mga bato nito'y kinaroroonan ng mga zafiro. At ito'y may alabok na ginto.",
+    "reference": "Job 28:6 (ADB1905)",
+    "connected_to": "Job 28:7",
+    "connected_from": "Job 28:5"
+  },
+  {
+    "text": "Yaong landas na walang ibong mangdadagit ay nakakaalam. Ni nakita man ng mata ng falkon:",
+    "reference": "Job 28:7 (ADB1905)",
+    "connected_to": "Job 28:8",
+    "connected_from": "Job 28:6"
+  },
+  {
+    "text": "Hindi natungtungan ng mga palalong hayop, ni naraanan man ng mabangis na leon,",
+    "reference": "Job 28:8 (ADB1905)",
+    "connected_to": "Job 28:9",
+    "connected_from": "Job 28:7"
+  },
+  {
+    "text": "Kaniyang inilalabas ang kaniyang kamay sa batong pingkian; binabaligtad ng mga ugat ang mga bundok.",
+    "reference": "Job 28:9 (ADB1905)",
+    "connected_to": "Job 28:10",
+    "connected_from": "Job 28:8"
+  },
+  {
+    "text": "Siya'y nagbabangbang sa gitna ng mga bato; at ang kaniyang mata ay nakakakita ng bawa't mahalagang bagay.",
+    "reference": "Job 28:10 (ADB1905)",
+    "connected_to": "Job 28:11",
+    "connected_from": "Job 28:9"
+  },
+  {
+    "text": "Kaniyang tinatalian ang mga lagaslas upang huwag umagos; at ang bagay na nakukubli ay inililitaw niya sa liwanag.",
+    "reference": "Job 28:11 (ADB1905)",
+    "connected_to": "Job 28:12",
+    "connected_from": "Job 28:10"
+  },
+  {
+    "text": "Nguni't saan masusumpungan ang karunungan? At saan naroon ang dako ng pagkaunawa?",
+    "reference": "Job 28:12 (ADB1905)",
+    "connected_to": "Job 28:13",
+    "connected_from": "Job 28:11"
+  },
+  {
+    "text": "Hindi nalalaman ng tao ang halaga niyaon; ni nasusumpungan man sa lupain ng may buhay.",
+    "reference": "Job 28:13 (ADB1905)",
+    "connected_to": "Job 28:14",
+    "connected_from": "Job 28:12"
+  },
+  {
+    "text": "Sinasabi ng kalaliman. Wala sa akin: at sinasabi ng dagat: Hindi sumasaakin.",
+    "reference": "Job 28:14 (ADB1905)",
+    "connected_to": "Job 28:15",
+    "connected_from": "Job 28:13"
+  },
+  {
+    "text": "Hindi mabibili ng ginto, ni matitimbangan man ng pilak ang halaga niyaon.",
+    "reference": "Job 28:15 (ADB1905)",
+    "connected_to": "Job 28:16",
+    "connected_from": "Job 28:14"
+  },
+  {
+    "text": "Hindi mahahalagahan ng ginto sa Ophir, ng mahalagang onix, o ng zafiro.",
+    "reference": "Job 28:16 (ADB1905)",
+    "connected_to": "Job 28:17",
+    "connected_from": "Job 28:15"
+  },
+  {
+    "text": "Ginto at salamin ay hindi maihahalintulad doon: ni maipagpapalit man sa mga hiyas na dalisay na ginto.",
+    "reference": "Job 28:17 (ADB1905)",
+    "connected_to": "Job 28:18",
+    "connected_from": "Job 28:16"
+  },
+  {
+    "text": "Hindi mabibilang ang coral o ang cristal; Oo, ang halaga ng karunungan ay higit sa mga rubi.",
+    "reference": "Job 28:18 (ADB1905)",
+    "connected_to": "Job 28:19",
+    "connected_from": "Job 28:17"
+  },
+  {
+    "text": "Ang topacio sa Etiopia ay hindi maipapantay doon, ni mahahalagahan man ng dalisay na ginto.",
+    "reference": "Job 28:19 (ADB1905)",
+    "connected_to": "Job 28:20",
+    "connected_from": "Job 28:18"
+  },
+  {
+    "text": "Saan nanggagaling nga ang karunungan? At saan naroon ang dako ng pagkaunawa?",
+    "reference": "Job 28:20 (ADB1905)",
+    "connected_to": "Job 28:21",
+    "connected_from": "Job 28:19"
+  },
+  {
+    "text": "Palibhasa't nakukubli sa mga mata ng lahat na may buhay, at natatago sa mga ibon sa himpapawid.",
+    "reference": "Job 28:21 (ADB1905)",
+    "connected_to": "Job 28:22",
+    "connected_from": "Job 28:20"
+  },
+  {
+    "text": "Ang kapahamakan at ang kamatayan ay nagsasabi, narinig namin ng aming mga pakinig ang bulungbulungan niyaon.",
+    "reference": "Job 28:22 (ADB1905)",
+    "connected_to": "Job 28:23",
+    "connected_from": "Job 28:21"
+  },
+  {
+    "text": "Nauunawa ng Dios ang daan niyaon, at nalalaman niya ang dako niyaon.",
+    "reference": "Job 28:23 (ADB1905)",
+    "connected_to": "Job 28:24",
+    "connected_from": "Job 28:22"
+  },
+  {
+    "text": "Sapagka't tumitingin siya hanggang sa mga wakas ng lupa, at nakikita ang silong ng buong langit;",
+    "reference": "Job 28:24 (ADB1905)",
+    "connected_to": "Job 28:25",
+    "connected_from": "Job 28:23"
+  },
+  {
+    "text": "Upang bigyan ng timbang ang hangin; Oo, kaniyang tinatakal ang tubig sa takalan.",
+    "reference": "Job 28:25 (ADB1905)",
+    "connected_to": "Job 28:26",
+    "connected_from": "Job 28:24"
+  },
+  {
+    "text": "Nang siya'y gumawa ng pasiya sa ulan, at ng daan sa kidlat ng kulog:",
+    "reference": "Job 28:26 (ADB1905)",
+    "connected_to": "Job 28:27",
+    "connected_from": "Job 28:25"
+  },
+  {
+    "text": "Nang magkagayo'y nakita niya ito, at inihayag; kaniyang itinatag ito, oo, at siniyasat.",
+    "reference": "Job 28:27 (ADB1905)",
+    "connected_to": "Job 28:28",
+    "connected_from": "Job 28:26"
+  },
+  {
+    "text": "At sa tao ay sinabi niya, Narito, ang pagkatakot sa Dios ay siyang karunungan; at ang paghiwalay sa kasamaan ay pagkaunawa.",
+    "reference": "Job 28:28 (ADB1905)",
+    "connected_from": "Job 28:27"
+  }
+]

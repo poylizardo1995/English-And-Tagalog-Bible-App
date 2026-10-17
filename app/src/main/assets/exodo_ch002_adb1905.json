@@ -1,0 +1,150 @@
+[
+  {
+    "text": "At isang lalake sa lipi ni Levi ay yumaon, at nagasawa sa isang anak na babae ng lipi ni Levi.",
+    "reference": "Exodo 2:1 (ADB1905)",
+    "connected_to": "Exodo 2:2"
+  },
+  {
+    "text": "At ang babae ay naglihi, at nanganak ng isang lalake: at nang kaniyang makita na maganda, ay kaniyang itinagong tatlong buwan.",
+    "reference": "Exodo 2:2 (ADB1905)",
+    "connected_to": "Exodo 2:3",
+    "connected_from": "Exodo 2:1"
+  },
+  {
+    "text": "At nang hindi na niya maitatagong malaon ay ikinuha niya ng isang takbang yantok, at pinahiran niya ng betun at ng sahing; at kaniyang isinilid ang bata roon, at inilagay sa katalahiban sa tabi ng ilog.",
+    "reference": "Exodo 2:3 (ADB1905)",
+    "connected_to": "Exodo 2:4",
+    "connected_from": "Exodo 2:2"
+  },
+  {
+    "text": "At tumayo sa malayo ang kaniyang kapatid na babae, upang maalaman ang mangyayari sa bata.",
+    "reference": "Exodo 2:4 (ADB1905)",
+    "connected_to": "Exodo 2:5",
+    "connected_from": "Exodo 2:3"
+  },
+  {
+    "text": "At ang anak na babae ni Faraon ay lumusong upang maligo sa ilog; at nagsipaglakad ang kaniyang mga abay sa tabi ng ilog; at kaniyang nakita ang takba sa katalahiban, at ipinakuha sa kaniyang abay.",
+    "reference": "Exodo 2:5 (ADB1905)",
+    "connected_to": "Exodo 2:6",
+    "connected_from": "Exodo 2:4"
+  },
+  {
+    "text": "At kaniyang binuksan, at nakita niya ang bata: at narito, ang sanggol ay umiyak. At kaniyang kinaawaan at sinabi, Ito'y isa sa mga anak ng mga Hebreo.",
+    "reference": "Exodo 2:6 (ADB1905)",
+    "connected_to": "Exodo 2:7",
+    "connected_from": "Exodo 2:5"
+  },
+  {
+    "text": "Nang magkagayo'y sinabi ng kaniyang kapatid na babae sa anak ni Faraon, Yayaon ba ako at itatawag kita ng isang sisiwa sa mga babaing Hebrea, na makapagalaga sa iyo ng batang ito?",
+    "reference": "Exodo 2:7 (ADB1905)",
+    "connected_to": "Exodo 2:8",
+    "connected_from": "Exodo 2:6"
+  },
+  {
+    "text": "At sinabi sa kaniya ng anak ni Faraon, Yumaon ka. At ang dalaga ay yumaon, at tinawag ang ina ng bata.",
+    "reference": "Exodo 2:8 (ADB1905)",
+    "connected_to": "Exodo 2:9",
+    "connected_from": "Exodo 2:7"
+  },
+  {
+    "text": "At sinabi ng anak ni Faraon, sa kaniya, Dalhin mo ang batang ito, at alagaan mo sa akin, at bibigyan kita ng iyong kaupahan. At kinuha ng babae ang bata, at inalagaan.",
+    "reference": "Exodo 2:9 (ADB1905)",
+    "connected_to": "Exodo 2:10",
+    "connected_from": "Exodo 2:8"
+  },
+  {
+    "text": "At ang bata ay lumaki, at kaniyang dinala sa anak ni Faraon, at siya'y kaniyang inaring anak. At kaniyang pinanganlang Moises, at sinabi, Sapagka't aking sinagip siya sa tubig.",
+    "reference": "Exodo 2:10 (ADB1905)",
+    "connected_to": "Exodo 2:11",
+    "connected_from": "Exodo 2:9"
+  },
+  {
+    "text": "At nangyari nang mga araw na yaon, ng malaki na si Moises, na kaniyang nilabas ang kaniyang mga kapatid, at minasdan ang atang sa kanila: at kaniyang nakita ang isang Egipcio, na nananakit ng isang Hebreo, na isa sa kaniyang mga kapatid.",
+    "reference": "Exodo 2:11 (ADB1905)",
+    "connected_to": "Exodo 2:12",
+    "connected_from": "Exodo 2:10"
+  },
+  {
+    "text": "At siya'y nagmasid sa magkabikabilang dako, at nang siya'y walang makitang tao, ay kaniyang pinatay ang Egipcio at kaniyang tinabunan sa buhanginan.",
+    "reference": "Exodo 2:12 (ADB1905)",
+    "connected_to": "Exodo 2:13",
+    "connected_from": "Exodo 2:11"
+  },
+  {
+    "text": "At siya'y lumabas ng ikalawang araw, at, narito, na may dalawang lalaking Hebreo, na nagbababag: at kaniyang sinabi roon sa umaapi, Bakit mo sinasaktan ang iyong kasama?",
+    "reference": "Exodo 2:13 (ADB1905)",
+    "connected_to": "Exodo 2:14",
+    "connected_from": "Exodo 2:12"
+  },
+  {
+    "text": "At sinabi niya, Sinong naglagay sa iyong pangulo at hukom sa amin? Iniisip mo bang patayin ako, na gaya ng pagpatay mo sa Egipcio? At natakot si Moises, at nagsabi, Tunay na ang bagay na yaon ay nahayag.",
+    "reference": "Exodo 2:14 (ADB1905)",
+    "connected_to": "Exodo 2:15",
+    "connected_from": "Exodo 2:13"
+  },
+  {
+    "text": "Nang mabalitaan nga ni Faraon ang bagay na ito, ay minithi niyang patayin si Moises. Datapuwa't si Moises ay tumakas sa harapan ni Faraon, at tumahan sa lupain ng Madian: at siya'y umupo sa tabi ng isang balon.",
+    "reference": "Exodo 2:15 (ADB1905)",
+    "connected_to": "Exodo 2:16",
+    "connected_from": "Exodo 2:14"
+  },
+  {
+    "text": "Ang saserdote nga sa Madian ay may pitong anak na babae: at sila'y naparoon at umigib ng tubig, at kanilang pinuno ang mga inuman upang painumin ang kawan ng kanilang ama.",
+    "reference": "Exodo 2:16 (ADB1905)",
+    "connected_to": "Exodo 2:17",
+    "connected_from": "Exodo 2:15"
+  },
+  {
+    "text": "At ang mga pastor ay dumating, at sila'y pinalayas: datapuwa't si Moises ay tumayo, at sila'y tinulungan, at pinainom ang kanilang kawan.",
+    "reference": "Exodo 2:17 (ADB1905)",
+    "connected_to": "Exodo 2:18",
+    "connected_from": "Exodo 2:16"
+  },
+  {
+    "text": "At nang sila'y dumating kay Raquel na kanilang ama, ay sinabi niya, Bakit kayo tumindig na madali ngayon?",
+    "reference": "Exodo 2:18 (ADB1905)",
+    "connected_to": "Exodo 2:19",
+    "connected_from": "Exodo 2:17"
+  },
+  {
+    "text": "At kanilang sinabi, Ipinagsanggalang kami ng isang Egipcio sa kamay ng mga pastor, at saka iniigib pa niya kami ng tubig, at pinainom ang kawan.",
+    "reference": "Exodo 2:19 (ADB1905)",
+    "connected_to": "Exodo 2:20",
+    "connected_from": "Exodo 2:18"
+  },
+  {
+    "text": "At kaniyang sinabi sa mga anak niya, At saan naroon siya? bakit ninyo iniwan ang lalaking yaon? tawagin ninyo siya upang makakain ng tinapay.",
+    "reference": "Exodo 2:20 (ADB1905)",
+    "connected_to": "Exodo 2:21",
+    "connected_from": "Exodo 2:19"
+  },
+  {
+    "text": "At si Moises ay natuwa na makisuno sa lalaking yaon: at kaniyang pinapag-asawa kay Moises si Zephora na kaniyang anak.",
+    "reference": "Exodo 2:21 (ADB1905)",
+    "connected_to": "Exodo 2:22",
+    "connected_from": "Exodo 2:20"
+  },
+  {
+    "text": "At nanganak ng isang lalake, at kaniyang pinanganlan ng Gersom; sapagka't kaniyang sinabi, Ako'y nakipamayan sa ibang bayan.",
+    "reference": "Exodo 2:22 (ADB1905)",
+    "connected_to": "Exodo 2:23",
+    "connected_from": "Exodo 2:21"
+  },
+  {
+    "text": "At nangyari pagkaraan ng maraming araw na ang hari sa Egipto ay namatay; at ang mga anak ni Israel ay nagbuntong hininga dahil sa pagkaalipin, at sila'y dumaing at ang kanilang daing ay umabot sa Dios dahil sa pagkaalipin.",
+    "reference": "Exodo 2:23 (ADB1905)",
+    "connected_to": "Exodo 2:24",
+    "connected_from": "Exodo 2:22"
+  },
+  {
+    "text": "At dininig ng Dios ang kanilang hibik, at naalaala ng Dios ang kaniyang tipan kay Abraham, kay Isaac, at kay Jacob,",
+    "reference": "Exodo 2:24 (ADB1905)",
+    "connected_to": "Exodo 2:25",
+    "connected_from": "Exodo 2:23"
+  },
+  {
+    "text": "At nilingap ng Dios ang mga anak ni Israel, at sila'y kinilala ng Dios.",
+    "reference": "Exodo 2:25 (ADB1905)",
+    "connected_from": "Exodo 2:24"
+  }
+]

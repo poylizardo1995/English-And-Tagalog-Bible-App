@@ -1,0 +1,216 @@
+[
+  {
+    "text": "May isang lalake nga sa mga Fariseo, na nagngangalang Nicodemo, isang pinuno ng mga Judio:",
+    "reference": "Juan 3:1 (ADB1905)",
+    "connected_to": "Juan 3:2"
+  },
+  {
+    "text": "Ito rin ay naparoon sa kaniya nang gabi, at sa kaniya'y nagsabi, Rabi, nalalaman naming ikaw ay isang guro na nagbuhat sa Dios; sapagka't walang makagagawa ng mga tanda na iyong ginagawa, maliban na kung sumasa kaniya ang Dios.",
+    "reference": "Juan 3:2 (ADB1905)",
+    "connected_to": "Juan 3:3",
+    "connected_from": "Juan 3:1"
+  },
+  {
+    "text": "Sumagot si Jesus at sa kaniya'y sinabi, Katotohanan, katotohanang sinasabi ko sa iyo, Maliban na ang tao'y ipanganak na muli, ay hindi siya makakakita ng kaharian ng Dios.",
+    "reference": "Juan 3:3 (ADB1905)",
+    "connected_to": "Juan 3:4",
+    "connected_from": "Juan 3:2"
+  },
+  {
+    "text": "Sinabi sa kaniya ni Nicodemo, Paanong maipanganganak ang tao kung siya'y matanda na? makapapasok baga siyang bilang ikalawa sa tiyan ng kaniyang ina, at ipanganak?",
+    "reference": "Juan 3:4 (ADB1905)",
+    "connected_to": "Juan 3:5",
+    "connected_from": "Juan 3:3"
+  },
+  {
+    "text": "Sumagot si Jesus, Katotohanan, katotohanang sinasabi ko sa iyo, Maliban na ang tao'y ipanganak ng tubig at ng Espiritu, ay hindi siya makapapasok sa kaharian ng Dios.",
+    "reference": "Juan 3:5 (ADB1905)",
+    "connected_to": "Juan 3:6",
+    "connected_from": "Juan 3:4"
+  },
+  {
+    "text": "Ang ipinanganak ng laman ay laman nga; at ang ipinanganak ng Espiritu ay espiritu nga.",
+    "reference": "Juan 3:6 (ADB1905)",
+    "connected_to": "Juan 3:7",
+    "connected_from": "Juan 3:5"
+  },
+  {
+    "text": "Huwag kang magtaka sa aking sinabi sa iyo, Kinakailangan ngang kayo'y ipanganak na muli.",
+    "reference": "Juan 3:7 (ADB1905)",
+    "connected_to": "Juan 3:8",
+    "connected_from": "Juan 3:6"
+  },
+  {
+    "text": "Humihihip ang hangin kung saan niya ibig, at naririnig mo ang kaniyang ugong, nguni't hindi mo nalalaman kung saan nanggagaling, at kung saan naparoroon: gayon ang bawa't ipinanganak ng Espiritu.",
+    "reference": "Juan 3:8 (ADB1905)",
+    "connected_to": "Juan 3:9",
+    "connected_from": "Juan 3:7"
+  },
+  {
+    "text": "Sumagot si Nicodemo at sa kaniya'y sinabi, Paanong pangyayari ng mga bagay na ito?",
+    "reference": "Juan 3:9 (ADB1905)",
+    "connected_to": "Juan 3:10",
+    "connected_from": "Juan 3:8"
+  },
+  {
+    "text": "Sumagot si Jesus at sa kaniya'y sinabi, Ikaw ang guro sa Israel, at hindi mo nauunawa ang mga bagay na ito?",
+    "reference": "Juan 3:10 (ADB1905)",
+    "connected_to": "Juan 3:11",
+    "connected_from": "Juan 3:9"
+  },
+  {
+    "text": "Katotohanan, katotohanang sinasabi ko sa iyo, Ang nalalaman namin ay sinasalita namin, at ang aming nakita ay pinatototohanan namin; at hindi ninyo tinanggap ang aming patotoo.",
+    "reference": "Juan 3:11 (ADB1905)",
+    "connected_to": "Juan 3:12",
+    "connected_from": "Juan 3:10"
+  },
+  {
+    "text": "Kung sinabi ko sa inyo ang mga bagay na nauukol sa lupa at hindi ninyo pinaniniwalaan, paanong paniniwalaan ninyo kung sabihin ko sa inyo ang mga bagay na nauukol sa langit?",
+    "reference": "Juan 3:12 (ADB1905)",
+    "connected_to": "Juan 3:13",
+    "connected_from": "Juan 3:11"
+  },
+  {
+    "text": "At walang umakyat sa langit, kundi ang nanggaling sa langit, sa makatuwid baga'y ang Anak ng tao, na nasa langit.",
+    "reference": "Juan 3:13 (ADB1905)",
+    "connected_to": "Juan 3:14",
+    "connected_from": "Juan 3:12"
+  },
+  {
+    "text": "At kung paanong itinaas ni Moises sa ilang ang ahas, ay gayon kinakailangang itaas ang Anak ng tao;",
+    "reference": "Juan 3:14 (ADB1905)",
+    "connected_to": "Juan 3:15",
+    "connected_from": "Juan 3:13"
+  },
+  {
+    "text": "Upang ang sinomang sumampalataya ay magkaroon sa kaniya ng buhay na walang hanggan.",
+    "reference": "Juan 3:15 (ADB1905)",
+    "connected_to": "Juan 3:16",
+    "connected_from": "Juan 3:14"
+  },
+  {
+    "text": "Sapagka't gayon na lamang ang pagsinta ng Dios sa sanglibutan, na ibinigay niya ang kaniyang bugtong na Anak, upang ang sinomang sa kaniya'y sumampalataya ay huwag mapahamak, kundi magkaroon ng buhay na walang hanggan.",
+    "reference": "Juan 3:16 (ADB1905)",
+    "connected_to": "Juan 3:17",
+    "connected_from": "Juan 3:15"
+  },
+  {
+    "text": "Sapagka't hindi sinugo ng Dios ang Anak sa sanglibutan upang hatulan ang sanglibutan; kundi upang ang sanglibutan ay maligtas sa pamamagitan niya.",
+    "reference": "Juan 3:17 (ADB1905)",
+    "connected_to": "Juan 3:18",
+    "connected_from": "Juan 3:16"
+  },
+  {
+    "text": "Ang sumasampalataya sa kaniya ay hindi hinahatulan; ang hindi sumasampalataya ay hinatulan na, sapagka't hindi siya sumampalataya sa pangalan ng bugtong na Anak ng Dios.",
+    "reference": "Juan 3:18 (ADB1905)",
+    "connected_to": "Juan 3:19",
+    "connected_from": "Juan 3:17"
+  },
+  {
+    "text": "At ito ang kahatulan, na naparito ang ilaw sa sanglibutan, at inibig pa ng mga tao ang kadiliman kay sa ilaw; sapagka't masasama ang kanilang mga gawa.",
+    "reference": "Juan 3:19 (ADB1905)",
+    "connected_to": "Juan 3:20",
+    "connected_from": "Juan 3:18"
+  },
+  {
+    "text": "Sapagka't ang bawa't isa na gumagawa ng masama ay napopoot sa ilaw, at hindi lumalapit sa ilaw, upang huwag masaway ang kaniyang mga gawa.",
+    "reference": "Juan 3:20 (ADB1905)",
+    "connected_to": "Juan 3:21",
+    "connected_from": "Juan 3:19"
+  },
+  {
+    "text": "Datapuwa't ang gumagawa ng katotohanan ay lumalapit sa ilaw, upang mahayag na ang kaniyang mga gawa ay ginawa sa Dios.",
+    "reference": "Juan 3:21 (ADB1905)",
+    "connected_to": "Juan 3:22",
+    "connected_from": "Juan 3:20"
+  },
+  {
+    "text": "Pagkatapos ng mga bagay na ito ay nagsiparoon si Jesus at ang kaniyang mga alagad sa lupain ng Judea; at doon siya tumira na kasama nila, at bumabautismo.",
+    "reference": "Juan 3:22 (ADB1905)",
+    "connected_to": "Juan 3:23",
+    "connected_from": "Juan 3:21"
+  },
+  {
+    "text": "At bumabautismo rin naman si Juan sa Enon na malapit sa Salim, sapagka't doo'y maraming tubig: at sila'y nagsiparoon, at nangabautismuhan.",
+    "reference": "Juan 3:23 (ADB1905)",
+    "connected_to": "Juan 3:24",
+    "connected_from": "Juan 3:22"
+  },
+  {
+    "text": "Sapagka't hindi pa ipinapasok sa bilangguan si Juan.",
+    "reference": "Juan 3:24 (ADB1905)",
+    "connected_to": "Juan 3:25",
+    "connected_from": "Juan 3:23"
+  },
+  {
+    "text": "Nagkaroon nga ng isang pakikipagtalo ang mga alagad ni Juan sa isang Judio tungkol sa paglilinis.",
+    "reference": "Juan 3:25 (ADB1905)",
+    "connected_to": "Juan 3:26",
+    "connected_from": "Juan 3:24"
+  },
+  {
+    "text": "At sila'y nagparoon kay Juan, at sa kaniya'y sinabi, Rabi, yaong kasama mo sa dako pa roon ng Jordan, na binigyan mong patotoo, narito, siya'y bumabautismo, at ang lahat ng mga tao'y nagsisiparoon sa kaniya.",
+    "reference": "Juan 3:26 (ADB1905)",
+    "connected_to": "Juan 3:27",
+    "connected_from": "Juan 3:25"
+  },
+  {
+    "text": "Sumagot si Juan at sinabi, Hindi makatatanggap ng anoman ang isang tao, malibang ito'y ipinagkaloob sa kaniya mula sa langit.",
+    "reference": "Juan 3:27 (ADB1905)",
+    "connected_to": "Juan 3:28",
+    "connected_from": "Juan 3:26"
+  },
+  {
+    "text": "Kayo man ay magsisisaksi sa akin, na aking sinabi, Hindi ako ang Cristo, kundi, na ako'y sinugo sa unahan niya.",
+    "reference": "Juan 3:28 (ADB1905)",
+    "connected_to": "Juan 3:29",
+    "connected_from": "Juan 3:27"
+  },
+  {
+    "text": "Ang nagtatangkilik sa kasintahang babae ay ang kasintahang lalake: datapuwa't ang kaibigan ng kasintahang lalake, na nakatayo at nakikinig sa kaniya, ay nagagalak na lubos dahil sa tinig ng kasintahang lalake: ito ngang aking kaligayahan ay naganap.",
+    "reference": "Juan 3:29 (ADB1905)",
+    "connected_to": "Juan 3:30",
+    "connected_from": "Juan 3:28"
+  },
+  {
+    "text": "Siya'y kinakailangang dumakila, nguni't ako'y kinakailangang bumaba.",
+    "reference": "Juan 3:30 (ADB1905)",
+    "connected_to": "Juan 3:31",
+    "connected_from": "Juan 3:29"
+  },
+  {
+    "text": "Ang nanggagaling sa itaas ay sumasaibabaw ng lahat: ang galing sa lupa ay taga lupa nga, at ang ukol sa lupa ang sinasalita niya: ang nanggagaling sa langit ay sumasaibabaw ng lahat.",
+    "reference": "Juan 3:31 (ADB1905)",
+    "connected_to": "Juan 3:32",
+    "connected_from": "Juan 3:30"
+  },
+  {
+    "text": "At kaniyang nakita at narinig, ay siyang pinatototohanan niya; at walang taong tumatanggap ng kaniyang patotoo.",
+    "reference": "Juan 3:32 (ADB1905)",
+    "connected_to": "Juan 3:33",
+    "connected_from": "Juan 3:31"
+  },
+  {
+    "text": "Ang tumatanggap ng kaniyang patotoo ay naglagay dito ng kaniyang tatak, na ang Dios ay totoo.",
+    "reference": "Juan 3:33 (ADB1905)",
+    "connected_to": "Juan 3:34",
+    "connected_from": "Juan 3:32"
+  },
+  {
+    "text": "Sapagka't ang sinugo ng Dios ay nagsasalita ng mga salita ng Dios: sapagka't hindi niya ibinibigay ang Espiritu sa pamamagitan ng sukat.",
+    "reference": "Juan 3:34 (ADB1905)",
+    "connected_to": "Juan 3:35",
+    "connected_from": "Juan 3:33"
+  },
+  {
+    "text": "Sinisinta ng Ama ang Anak, at inilagay sa kaniyang kamay ang lahat ng mga bagay.",
+    "reference": "Juan 3:35 (ADB1905)",
+    "connected_to": "Juan 3:36",
+    "connected_from": "Juan 3:34"
+  },
+  {
+    "text": "Ang sumasampalataya sa Anak ay may buhay na walang hanggan; nguni't ang hindi tumatalima sa Anak ay hindi makakakita ng buhay, kundi ang poot ng Dios ay sumasa kaniya.",
+    "reference": "Juan 3:36 (ADB1905)",
+    "connected_from": "Juan 3:35"
+  }
+]

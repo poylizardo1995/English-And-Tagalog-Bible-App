@@ -1,0 +1,228 @@
+[
+  {
+    "text": "Nang ikalabinglimang taon nga ng paghahari ni Tiberio Cesar, na noo'y gobernador sa Judea si Poncio Pilato, at tetrarka sa Galilea si Herodes, at ang kaniyang kapatid na si Felipe ay tetrarka sa lalawigan ng Iturea at Traconite, at si Lisanias ay tetrarka sa Abilinia,",
+    "reference": "Lucas 3:1 (ADB1905)",
+    "connected_to": "Lucas 3:2"
+  },
+  {
+    "text": "Nang kasalukuyang mga pangulong saserdote si Anas at si Caifas, ay dumating ang salita ng Dios kay Juan, anak ni Zacarias, sa ilang.",
+    "reference": "Lucas 3:2 (ADB1905)",
+    "connected_to": "Lucas 3:3",
+    "connected_from": "Lucas 3:1"
+  },
+  {
+    "text": "At siya'y napasa buong lupain sa palibotlibot ng Jordan, na ipinangangaral ang bautismo ng pagsisisi sa ikapagpapatawad ng mga kasalanan;",
+    "reference": "Lucas 3:3 (ADB1905)",
+    "connected_to": "Lucas 3:4",
+    "connected_from": "Lucas 3:2"
+  },
+  {
+    "text": "Gaya ng nasusulat sa aklat ng salita ng propeta Isaias, Ang tinig ng isang sumisigaw sa ilang, Ihanda ninyo ang daan ng Panginoon, Tuwirin ninyo ang kaniyang mga landas.",
+    "reference": "Lucas 3:4 (ADB1905)",
+    "connected_to": "Lucas 3:5",
+    "connected_from": "Lucas 3:3"
+  },
+  {
+    "text": "Lahat ng libis ay tatambakan, At pababain ang bawa't bundok at burol; At ang liko ay matutuwid, At ang mga daang bakobako ay mangapapatag;",
+    "reference": "Lucas 3:5 (ADB1905)",
+    "connected_to": "Lucas 3:6",
+    "connected_from": "Lucas 3:4"
+  },
+  {
+    "text": "At makikita ng lahat ng laman ang pagliligtas ng Dios.",
+    "reference": "Lucas 3:6 (ADB1905)",
+    "connected_to": "Lucas 3:7",
+    "connected_from": "Lucas 3:5"
+  },
+  {
+    "text": "Sinasabi nga niya sa mga karamihang nagsisilabas upang mangagpabautismo sa kaniya, Kayong lahi ng mga ulupong, sino ang sa inyo'y nagudyok upang tumakas sa galit na darating?",
+    "reference": "Lucas 3:7 (ADB1905)",
+    "connected_to": "Lucas 3:8",
+    "connected_from": "Lucas 3:6"
+  },
+  {
+    "text": "Kayo nga'y mangagbunga ng karapatdapat sa pagsisisi, at huwag mangagpasimulang mangagsabi sa inyong sarili, Si Abraham ang siya naming ama; sapagka't sinasabi ko sa inyo, na makapagpapabangon ang Dios ng mga anak ni Abraham maging sa mga batong ito.",
+    "reference": "Lucas 3:8 (ADB1905)",
+    "connected_to": "Lucas 3:9",
+    "connected_from": "Lucas 3:7"
+  },
+  {
+    "text": "At ngayon pa'y nakalagay na ang palakol sa ugat ng mga punong kahoy: ang bawa't punong kahoy nga na di nagbubunga ng mabuti ay pinuputol, at inihahagis sa apoy.",
+    "reference": "Lucas 3:9 (ADB1905)",
+    "connected_to": "Lucas 3:10",
+    "connected_from": "Lucas 3:8"
+  },
+  {
+    "text": "At tinanong siya ng karamihan, na nangagsasabi, Ano ngang dapat namin gawin?",
+    "reference": "Lucas 3:10 (ADB1905)",
+    "connected_to": "Lucas 3:11",
+    "connected_from": "Lucas 3:9"
+  },
+  {
+    "text": "At sinagot niya at sinabi sa kanila, Ang may dalawang tunika ay magbahagi sa wala; at ang may pagkain ay gayon din ang gawin.",
+    "reference": "Lucas 3:11 (ADB1905)",
+    "connected_to": "Lucas 3:12",
+    "connected_from": "Lucas 3:10"
+  },
+  {
+    "text": "At dumating naman ang mga maniningil ng buwis upang mangagpabautismo, at sinabi nila sa kaniya, Guro, anong dapat naming gawin?",
+    "reference": "Lucas 3:12 (ADB1905)",
+    "connected_to": "Lucas 3:13",
+    "connected_from": "Lucas 3:11"
+  },
+  {
+    "text": "At sinabi niya sa kanila, Huwag na kayong sumingil pa ng higit kay sa utos sa inyo.",
+    "reference": "Lucas 3:13 (ADB1905)",
+    "connected_to": "Lucas 3:14",
+    "connected_from": "Lucas 3:12"
+  },
+  {
+    "text": "At tinanong naman siya ng mga kawal, na nangagsasabi, At kami, anong dapat naming gawin? At sa kanila'y sinabi niya, Huwag kayong kumuhang may karahasan sa kanino man, ni mangagparatang; at mangagkasiya kayo sa bayad sa inyo.",
+    "reference": "Lucas 3:14 (ADB1905)",
+    "connected_to": "Lucas 3:15",
+    "connected_from": "Lucas 3:13"
+  },
+  {
+    "text": "At samantalang ang mga tao'y nagsisipaghintay at pinagbubulaybulay ng lahat sa kanilang puso ang tungkol kay Juan, kung siya kaya ang Cristo;",
+    "reference": "Lucas 3:15 (ADB1905)",
+    "connected_to": "Lucas 3:16",
+    "connected_from": "Lucas 3:14"
+  },
+  {
+    "text": "Ay sumagot si Juan na sinasabi sa kanilang lahat, Katotohanang binabautismuhan ko kayo ng tubig; datapuwa't dumarating ang lalong makapangyarihan kay sa akin; ako'y hindi karapatdapat magkalag ng panali ng kaniyang mga pangyapak: kayo'y babautismuhan niya sa Espiritu Santo at sa apoy:",
+    "reference": "Lucas 3:16 (ADB1905)",
+    "connected_to": "Lucas 3:17",
+    "connected_from": "Lucas 3:15"
+  },
+  {
+    "text": "Nasa kaniyang kamay ang kaniyang kalaykay, upang linising lubos ang kaniyang giikan, at tipunin ang trigo sa kaniyang bangan; datapuwa't susunugin niya ang dayami sa apoy na hindi mapapatay.",
+    "reference": "Lucas 3:17 (ADB1905)",
+    "connected_to": "Lucas 3:18",
+    "connected_from": "Lucas 3:16"
+  },
+  {
+    "text": "Sa mga iba pang maraming pangaral ay ipinangangaral nga niya sa bayan ang mabuting balita;",
+    "reference": "Lucas 3:18 (ADB1905)",
+    "connected_to": "Lucas 3:19",
+    "connected_from": "Lucas 3:17"
+  },
+  {
+    "text": "Datapuwa't si Herodes na tetrarka, palibhasa'y pinagwikaan niya dahil kay Herodias, na asawa ng kaniyang kapatid, at dahil sa lahat ng masasamang bagay na ginawa ni Herodes,",
+    "reference": "Lucas 3:19 (ADB1905)",
+    "connected_to": "Lucas 3:20",
+    "connected_from": "Lucas 3:18"
+  },
+  {
+    "text": "Ay naparagdag naman ito sa lahat, na kinulong niya si Juan sa bilangguan.",
+    "reference": "Lucas 3:20 (ADB1905)",
+    "connected_to": "Lucas 3:21",
+    "connected_from": "Lucas 3:19"
+  },
+  {
+    "text": "Nangyari nga, nang mabautismuhan ang buong bayan, na si Jesus ay binautismuhan naman, at nang nananalangin, ay nabuksan ang langit,",
+    "reference": "Lucas 3:21 (ADB1905)",
+    "connected_to": "Lucas 3:22",
+    "connected_from": "Lucas 3:20"
+  },
+  {
+    "text": "At bumaba sa kaniya ang Espiritu Santo na may anyong katawan, tulad sa isang kalapati, at nanggaling ang isang tinig sa langit, Ikaw ang sinisinta kong Anak; sa iyo ako lubos na nalulugod.",
+    "reference": "Lucas 3:22 (ADB1905)",
+    "connected_to": "Lucas 3:23",
+    "connected_from": "Lucas 3:21"
+  },
+  {
+    "text": "At si Jesus din, nang magpasimula siyang magturo ay may gulang na tatlongpung taon, na anak (ayon sa sinasapantaha) ni Jose, ni Eli,",
+    "reference": "Lucas 3:23 (ADB1905)",
+    "connected_to": "Lucas 3:24",
+    "connected_from": "Lucas 3:22"
+  },
+  {
+    "text": "Ni Matat, ni Levi, ni Melqui, ni Jane, ni Jose,",
+    "reference": "Lucas 3:24 (ADB1905)",
+    "connected_to": "Lucas 3:25",
+    "connected_from": "Lucas 3:23"
+  },
+  {
+    "text": "Ni Matatias, ni Amos, ni Nahum, ni Esli, ni Nage,",
+    "reference": "Lucas 3:25 (ADB1905)",
+    "connected_to": "Lucas 3:26",
+    "connected_from": "Lucas 3:24"
+  },
+  {
+    "text": "Ni Maat, ni Matatias, ni Semei, ni Jose, ni Juda,",
+    "reference": "Lucas 3:26 (ADB1905)",
+    "connected_to": "Lucas 3:27",
+    "connected_from": "Lucas 3:25"
+  },
+  {
+    "text": "Ni Joana, ni Resa, ni Zorobabel, ni Seatiel, ni Neri,",
+    "reference": "Lucas 3:27 (ADB1905)",
+    "connected_to": "Lucas 3:28",
+    "connected_from": "Lucas 3:26"
+  },
+  {
+    "text": "Ni Melqui, ni Adi, ni Cosam, ni Elmodam, ni Er,",
+    "reference": "Lucas 3:28 (ADB1905)",
+    "connected_to": "Lucas 3:29",
+    "connected_from": "Lucas 3:27"
+  },
+  {
+    "text": "Ni Jesus, ni Eliezer, ni Jorim, ni Mata, ni Levi,",
+    "reference": "Lucas 3:29 (ADB1905)",
+    "connected_to": "Lucas 3:30",
+    "connected_from": "Lucas 3:28"
+  },
+  {
+    "text": "Ni Simeon, ni Juda, ni Jose, ni Jonan, ni Eliaquim,",
+    "reference": "Lucas 3:30 (ADB1905)",
+    "connected_to": "Lucas 3:31",
+    "connected_from": "Lucas 3:29"
+  },
+  {
+    "text": "Ni Melea, ni Mena, ni Matata, ni Natan, ni David,",
+    "reference": "Lucas 3:31 (ADB1905)",
+    "connected_to": "Lucas 3:32",
+    "connected_from": "Lucas 3:30"
+  },
+  {
+    "text": "Ni Jesse, ni Obed, ni Booz, ni Salmon, ni Naason,",
+    "reference": "Lucas 3:32 (ADB1905)",
+    "connected_to": "Lucas 3:33",
+    "connected_from": "Lucas 3:31"
+  },
+  {
+    "text": "Ni Aminadab, ni Aram, ni Esrom, ni Fares, ni Juda,",
+    "reference": "Lucas 3:33 (ADB1905)",
+    "connected_to": "Lucas 3:34",
+    "connected_from": "Lucas 3:32"
+  },
+  {
+    "text": "Ni Jacob, ni Isaac, ni Abraham, ni Tare, ni Nacor,",
+    "reference": "Lucas 3:34 (ADB1905)",
+    "connected_to": "Lucas 3:35",
+    "connected_from": "Lucas 3:33"
+  },
+  {
+    "text": "Ni Serug, ni Regan, ni Paleg, ni Heber, ni Selah,",
+    "reference": "Lucas 3:35 (ADB1905)",
+    "connected_to": "Lucas 3:36",
+    "connected_from": "Lucas 3:34"
+  },
+  {
+    "text": "Ni Cainan, ni Arfaxjad, ni Sem, ni Noe, ni Lamec,",
+    "reference": "Lucas 3:36 (ADB1905)",
+    "connected_to": "Lucas 3:37",
+    "connected_from": "Lucas 3:35"
+  },
+  {
+    "text": "Ni Matusalem, ni Enoc, ni Jared, ni Mahalaleel, ni Cainan,",
+    "reference": "Lucas 3:37 (ADB1905)",
+    "connected_to": "Lucas 3:38",
+    "connected_from": "Lucas 3:36"
+  },
+  {
+    "text": "Ni Enos, ni Set, ni Adam, ng Dios.",
+    "reference": "Lucas 3:38 (ADB1905)",
+    "connected_from": "Lucas 3:37"
+  }
+]

@@ -1,0 +1,426 @@
+[
+  {
+    "text": "Pagkatapos ng mga bagay na ito ay naparoon si Jesus sa kabilang ibayo ng dagat ng Galilea, na siyang dagat ng Tiberias.",
+    "reference": "Juan 6:1 (ADB1905)",
+    "connected_to": "Juan 6:2"
+  },
+  {
+    "text": "At sumusunod sa kaniya ang lubhang maraming tao, sapagka't kanilang nangakikita ang mga tanda na ginagawa niya sa mga maysakit.",
+    "reference": "Juan 6:2 (ADB1905)",
+    "connected_to": "Juan 6:3",
+    "connected_from": "Juan 6:1"
+  },
+  {
+    "text": "At umahon si Jesus sa bundok, at doo'y naupo siya na kasama ng kaniyang mga alagad.",
+    "reference": "Juan 6:3 (ADB1905)",
+    "connected_to": "Juan 6:4",
+    "connected_from": "Juan 6:2"
+  },
+  {
+    "text": "Malapit na nga ang paskua, na pista ng mga Judio.",
+    "reference": "Juan 6:4 (ADB1905)",
+    "connected_to": "Juan 6:5",
+    "connected_from": "Juan 6:3"
+  },
+  {
+    "text": "Itinanaw nga ni Jesus ang kaniyang mga mata, at pagkakita na ang lubhang maraming tao'y lumalapit sa kaniya, ay sinabi kay Felipe, Saan tayo magsisibili ng tinapay, upang mangakakain ang mga ito?",
+    "reference": "Juan 6:5 (ADB1905)",
+    "connected_to": "Juan 6:6",
+    "connected_from": "Juan 6:4"
+  },
+  {
+    "text": "At ito'y sinabi niya upang siya'y subukin: sapagka't nalalaman niya sa kaniyang sarili kung ano ang kaniyang gagawin.",
+    "reference": "Juan 6:6 (ADB1905)",
+    "connected_to": "Juan 6:7",
+    "connected_from": "Juan 6:5"
+  },
+  {
+    "text": "Sumagot si Felipe sa kaniya, Hindi magkakasiya sa kanila ang dalawang daang denariong tinapay, upang makakain ng kaunti ang bawa't isa.",
+    "reference": "Juan 6:7 (ADB1905)",
+    "connected_to": "Juan 6:8",
+    "connected_from": "Juan 6:6"
+  },
+  {
+    "text": "Sinabi sa kaniya ng isa sa kaniyang mga alagad, si Andres, na kapatid ni Simon Pedro,",
+    "reference": "Juan 6:8 (ADB1905)",
+    "connected_to": "Juan 6:9",
+    "connected_from": "Juan 6:7"
+  },
+  {
+    "text": "May isang batang lalake rito, na mayroong limang tinapay na sebada, at dalawang isda: datapuwa't gaano na ang mga ito sa ganyang karamihan?",
+    "reference": "Juan 6:9 (ADB1905)",
+    "connected_to": "Juan 6:10",
+    "connected_from": "Juan 6:8"
+  },
+  {
+    "text": "Sinabi ni Jesus, Inyong paupuin ang mga tao. Madamo nga sa dakong yaon. Kaya't nagsiupo ang mga lalake, na may limang libo ang bilang.",
+    "reference": "Juan 6:10 (ADB1905)",
+    "connected_to": "Juan 6:11",
+    "connected_from": "Juan 6:9"
+  },
+  {
+    "text": "Kinuha nga ni Jesus ang mga tinapay; at nang makapagpasalamat, ay ipinamahagi niya sa kanilang nangakaupo; at gayon din naman binigyan sila ng mga isda kung gaanong ibigin nila.",
+    "reference": "Juan 6:11 (ADB1905)",
+    "connected_to": "Juan 6:12",
+    "connected_from": "Juan 6:10"
+  },
+  {
+    "text": "At nang sila'y mangabusog, ay sinabi niya sa kaniyang mga alagad, Pulutin ninyo ang mga pinagputolputol na lumabis, upang walang anomang masayang.",
+    "reference": "Juan 6:12 (ADB1905)",
+    "connected_to": "Juan 6:13",
+    "connected_from": "Juan 6:11"
+  },
+  {
+    "text": "Kaya't kanilang tinipon, at nangapuno ang labingdalawang bakol ng mga pinagputolputol sa limang tinapay na sebada, na lumabis sa nagsikain.",
+    "reference": "Juan 6:13 (ADB1905)",
+    "connected_to": "Juan 6:14",
+    "connected_from": "Juan 6:12"
+  },
+  {
+    "text": "Kaya't nang makita ng mga tao ang tandang ginawa niya, ay kanilang sinabi, Totoong ito nga ang propeta na paririto sa sanglibutan.",
+    "reference": "Juan 6:14 (ADB1905)",
+    "connected_to": "Juan 6:15",
+    "connected_from": "Juan 6:13"
+  },
+  {
+    "text": "Nang mapaghalata nga ni Jesus na sila'y magsisilapit at siya'y agawin, upang siya'y gawing hari, ay muling nagbalik sa bundok na nagiisa.",
+    "reference": "Juan 6:15 (ADB1905)",
+    "connected_to": "Juan 6:16",
+    "connected_from": "Juan 6:14"
+  },
+  {
+    "text": "At nang kinahapunan, ay nagsilusong ang kaniyang mga alagad sa dagat;",
+    "reference": "Juan 6:16 (ADB1905)",
+    "connected_to": "Juan 6:17",
+    "connected_from": "Juan 6:15"
+  },
+  {
+    "text": "At nagsilulan sila sa isang daong, at kanilang tinatawid ang dagat hanggang sa Capernaum. At madilim na nga, at hindi dumarating sa kanila si Jesus.",
+    "reference": "Juan 6:17 (ADB1905)",
+    "connected_to": "Juan 6:18",
+    "connected_from": "Juan 6:16"
+  },
+  {
+    "text": "At lumalaki ang dagat dahil sa isang malakas na hanging humihihip.",
+    "reference": "Juan 6:18 (ADB1905)",
+    "connected_to": "Juan 6:19",
+    "connected_from": "Juan 6:17"
+  },
+  {
+    "text": "Nang sila nga'y mangakagaod na ng may dalawangpu't lima o tatlongpung estadio, ay kanilang nakita si Jesus na lumalakad sa ibabaw ng dagat, at lumalapit sa daong: at sila'y nangahintakutan.",
+    "reference": "Juan 6:19 (ADB1905)",
+    "connected_to": "Juan 6:20",
+    "connected_from": "Juan 6:18"
+  },
+  {
+    "text": "Datapuwa't sinabi niya sa kanila, Ako nga; huwag kayong mangatakot.",
+    "reference": "Juan 6:20 (ADB1905)",
+    "connected_to": "Juan 6:21",
+    "connected_from": "Juan 6:19"
+  },
+  {
+    "text": "Malugod nga nilang tinanggap siya sa daong: at pagdaka'y dumating ang daong sa lupang kanilang tinutumpa.",
+    "reference": "Juan 6:21 (ADB1905)",
+    "connected_to": "Juan 6:22",
+    "connected_from": "Juan 6:20"
+  },
+  {
+    "text": "Nang kinabukasan ay nakita ng karamihang nakatayo sa kabilang ibayo ng dagat na doo'y walang ibang daong, kundi isa, at hindi lumulan sa daong si Jesus na kasama ng kaniyang mga alagad, kundi ang kaniyang mga alagad lamang ang nagsipaglayag",
+    "reference": "Juan 6:22 (ADB1905)",
+    "connected_to": "Juan 6:23",
+    "connected_from": "Juan 6:21"
+  },
+  {
+    "text": "(Gayon man ay may mga daong na nagsidating na mula sa Tiberias malapit sa dako na kanilang kinainan ng tinapay pagkatapos na makapagpasalamat ang Panginoon):",
+    "reference": "Juan 6:23 (ADB1905)",
+    "connected_to": "Juan 6:24",
+    "connected_from": "Juan 6:22"
+  },
+  {
+    "text": "Nang makita nga ng karamihan na wala roon si Jesus, ni ang kaniyang mga alagad man, ay nagsilulan sila sa mga daong, at nagsidating sa Capernaum, na hinahanap si Jesus.",
+    "reference": "Juan 6:24 (ADB1905)",
+    "connected_to": "Juan 6:25",
+    "connected_from": "Juan 6:23"
+  },
+  {
+    "text": "At nang siya'y kanilang masumpungan sa kabilang ibayo ng dagat, ay kanilang sinabi sa kanila, Rabi, kailan ka dumating dito?",
+    "reference": "Juan 6:25 (ADB1905)",
+    "connected_to": "Juan 6:26",
+    "connected_from": "Juan 6:24"
+  },
+  {
+    "text": "Sinagot sila ni Jesus at sinabi, Katotohanan, katotohanang sinasabi ko sa inyo, Ako'y inyong hinahanap, hindi dahil sa inyong nangakitang mga tanda, kundi dahil sa kayo'y nagsikain ng tinapay, at kayo'y nangabusog.",
+    "reference": "Juan 6:26 (ADB1905)",
+    "connected_to": "Juan 6:27",
+    "connected_from": "Juan 6:25"
+  },
+  {
+    "text": "Magsigawa kayo hindi dahil sa pagkaing napapanis, kundi dahil sa pagkaing tumatagal sa buhay na walang hanggan, na ibibigay sa inyo ng Anak ng tao: sapagka't siyang tinatakan ng Ama, sa makatuwid baga'y ang Dios.",
+    "reference": "Juan 6:27 (ADB1905)",
+    "connected_to": "Juan 6:28",
+    "connected_from": "Juan 6:26"
+  },
+  {
+    "text": "Sinabi nga nila sa kaniya, Ano ang kinakailangan naming gawin, upang aming magawa ang mga gawa ng Dios?",
+    "reference": "Juan 6:28 (ADB1905)",
+    "connected_to": "Juan 6:29",
+    "connected_from": "Juan 6:27"
+  },
+  {
+    "text": "Sumagot si Jesus at sa kanila'y sinabi, Ito ang gawa ng Dios, na inyong sampalatayanan yaong kaniyang sinugo.",
+    "reference": "Juan 6:29 (ADB1905)",
+    "connected_to": "Juan 6:30",
+    "connected_from": "Juan 6:28"
+  },
+  {
+    "text": "Sinabi nga nila sa kaniya, Ano nga ang inyong ginagawa na pinakatanda, upang aming makita, at sampalatayanan ka namin? ano ang ginagawa mo?",
+    "reference": "Juan 6:30 (ADB1905)",
+    "connected_to": "Juan 6:31",
+    "connected_from": "Juan 6:29"
+  },
+  {
+    "text": "Nagsikain ang aming mga magulang ng mana sa ilang; gaya ng nasusulat, Tinapay na galing sa langit ang sa kanila'y kaniyang ipinakain.",
+    "reference": "Juan 6:31 (ADB1905)",
+    "connected_to": "Juan 6:32",
+    "connected_from": "Juan 6:30"
+  },
+  {
+    "text": "Sinabi nga sa kanila ni Jesus, Katotohanan, katotohanang sinasabi ko sa inyo, Hindi si Moises ang nagbigay sa inyo ng tinapay na galing sa langit; kundi ang aking Ama ang nagbibigay sa inyo ng tunay na tinapay na galing sa langit.",
+    "reference": "Juan 6:32 (ADB1905)",
+    "connected_to": "Juan 6:33",
+    "connected_from": "Juan 6:31"
+  },
+  {
+    "text": "Sapagka't ang tinapay ng Dios ay yaong bumababang mula sa langit, at nagbibigay buhay sa sanglibutan.",
+    "reference": "Juan 6:33 (ADB1905)",
+    "connected_to": "Juan 6:34",
+    "connected_from": "Juan 6:32"
+  },
+  {
+    "text": "Sa kaniya nga'y kanilang sinabi, Panginoon, bigyan mo kaming palagi ng tinapay na ito.",
+    "reference": "Juan 6:34 (ADB1905)",
+    "connected_to": "Juan 6:35",
+    "connected_from": "Juan 6:33"
+  },
+  {
+    "text": "Sa kanila'y sinabi ni Jesus, Ako ang tinapay ng kabuhayan: ang lumalapit sa akin ay hindi magugutom, at ang sumasampalataya sa akin kailan ma'y hindi mauuhaw.",
+    "reference": "Juan 6:35 (ADB1905)",
+    "connected_to": "Juan 6:36",
+    "connected_from": "Juan 6:34"
+  },
+  {
+    "text": "Datapuwa't sinabi ko sa inyo, na nakita ninyo ako, at gayon ma'y hindi kayo nagsisampalataya.",
+    "reference": "Juan 6:36 (ADB1905)",
+    "connected_to": "Juan 6:37",
+    "connected_from": "Juan 6:35"
+  },
+  {
+    "text": "Ang lahat ng ibinibigay sa akin ng Ama ay magsisilapit sa akin; at ang lumalapit sa akin sa anomang paraan ay hindi ko itataboy.",
+    "reference": "Juan 6:37 (ADB1905)",
+    "connected_to": "Juan 6:38",
+    "connected_from": "Juan 6:36"
+  },
+  {
+    "text": "Sapagka't bumaba akong mula sa langit, hindi upang gawin ko ang aking sariling kalooban, kundi ang kalooban ng nagsugo sa akin.",
+    "reference": "Juan 6:38 (ADB1905)",
+    "connected_to": "Juan 6:39",
+    "connected_from": "Juan 6:37"
+  },
+  {
+    "text": "At ito ang kalooban ng nagsugo sa akin, na sa lahat ng ibinigay niya sa akin ay huwag kong iwala ang anoman, kundi ibangon sa huling araw.",
+    "reference": "Juan 6:39 (ADB1905)",
+    "connected_to": "Juan 6:40",
+    "connected_from": "Juan 6:38"
+  },
+  {
+    "text": "Sapagka't ito ang kalooban ng aking Ama, na ang bawa't nakakakita sa Anak, at sa kaniya'y sumampalataya, ay magkaroon ng walang hanggang buhay; at akin siyang ibabangon sa huling araw.",
+    "reference": "Juan 6:40 (ADB1905)",
+    "connected_to": "Juan 6:41",
+    "connected_from": "Juan 6:39"
+  },
+  {
+    "text": "Ang mga Judio nga ay nagbulongbulungan tungkol sa kaniya sapagka't kaniyang sinabi, Ako ang tinapay na bumabang galing sa langit.",
+    "reference": "Juan 6:41 (ADB1905)",
+    "connected_to": "Juan 6:42",
+    "connected_from": "Juan 6:40"
+  },
+  {
+    "text": "At kanilang sinabi, Hindi baga ito'y si Jesus, ang anak ni Jose, na nakikilala natin ang kaniyang ama at ina? paano ngang sinasabi niya, Ako'y bumabang galing sa langit?",
+    "reference": "Juan 6:42 (ADB1905)",
+    "connected_to": "Juan 6:43",
+    "connected_from": "Juan 6:41"
+  },
+  {
+    "text": "Sumagot si Jesus at sa kanila'y sinabi, Huwag kayong mangagbulongbulungan.",
+    "reference": "Juan 6:43 (ADB1905)",
+    "connected_to": "Juan 6:44",
+    "connected_from": "Juan 6:42"
+  },
+  {
+    "text": "Walang taong makalalapit sa akin, maliban nang ang Amang nagsugo sa akin ang sa kaniya'y magdala sa akin; at siya'y aking ibabangon sa huling araw.",
+    "reference": "Juan 6:44 (ADB1905)",
+    "connected_to": "Juan 6:45",
+    "connected_from": "Juan 6:43"
+  },
+  {
+    "text": "Nasusulat sa mga propeta, At tuturuan silang lahat ng Dios. Ang bawa't nakarinig sa Ama, at natuto, ay lumalapit sa akin.",
+    "reference": "Juan 6:45 (ADB1905)",
+    "connected_to": "Juan 6:46",
+    "connected_from": "Juan 6:44"
+  },
+  {
+    "text": "Hindi sa ang sinoma'y nakakita sa Ama, kundi yaong nanggaling sa Dios, siya ang nakakita sa Ama.",
+    "reference": "Juan 6:46 (ADB1905)",
+    "connected_to": "Juan 6:47",
+    "connected_from": "Juan 6:45"
+  },
+  {
+    "text": "Katotohanan, katotohanang sinasabi ko sa inyo, Ang sumasampalataya ay may buhay na walang hanggan.",
+    "reference": "Juan 6:47 (ADB1905)",
+    "connected_to": "Juan 6:48",
+    "connected_from": "Juan 6:46"
+  },
+  {
+    "text": "Ako ang tinapay ng kabuhayan.",
+    "reference": "Juan 6:48 (ADB1905)",
+    "connected_to": "Juan 6:49",
+    "connected_from": "Juan 6:47"
+  },
+  {
+    "text": "Nagsikain ang inyong mga magulang ng mana sa ilang, at sila'y nangamatay.",
+    "reference": "Juan 6:49 (ADB1905)",
+    "connected_to": "Juan 6:50",
+    "connected_from": "Juan 6:48"
+  },
+  {
+    "text": "Ito ang tinapay na bumababang galing sa langit, upang ang taong makakain, ay huwag mamatay.",
+    "reference": "Juan 6:50 (ADB1905)",
+    "connected_to": "Juan 6:51",
+    "connected_from": "Juan 6:49"
+  },
+  {
+    "text": "Ako ang tinapay na buhay na bumabang galing sa langit: kung ang sinoman ay kumain ng tinapay na ito, siya'y mabubuhay magpakailan man: oo at ang tinapay na aking ibibigay ay ang aking laman, sa ikabubuhay ng sanglibutan.",
+    "reference": "Juan 6:51 (ADB1905)",
+    "connected_to": "Juan 6:52",
+    "connected_from": "Juan 6:50"
+  },
+  {
+    "text": "Ang mga Judio nga'y nangagtatalo, na nangagsasabi, Paanong maipakakain sa atin ng taong ito ang kaniyang laman?",
+    "reference": "Juan 6:52 (ADB1905)",
+    "connected_to": "Juan 6:53",
+    "connected_from": "Juan 6:51"
+  },
+  {
+    "text": "Sinabi nga sa kanila ni Jesus, Katotohanan, katotohanang sinasabi ko sa inyo, Maliban nang inyong kanin ang laman ng Anak ng tao at inumin ang kaniyang dugo, ay wala kayong buhay sa inyong sarili.",
+    "reference": "Juan 6:53 (ADB1905)",
+    "connected_to": "Juan 6:54",
+    "connected_from": "Juan 6:52"
+  },
+  {
+    "text": "Ang kumakain ng aking laman at umiinom ng aking dugo ay may buhay na walang hanggan; at siya'y aking ibabangon sa huling araw.",
+    "reference": "Juan 6:54 (ADB1905)",
+    "connected_to": "Juan 6:55",
+    "connected_from": "Juan 6:53"
+  },
+  {
+    "text": "Sapagka't ang aking laman ay tunay na pagkain, at ang aking dugo ay tunay na inumin.",
+    "reference": "Juan 6:55 (ADB1905)",
+    "connected_to": "Juan 6:56",
+    "connected_from": "Juan 6:54"
+  },
+  {
+    "text": "Ang kumakain ng aking laman at umiinom ng aking dugo ay nananahan sa akin, at ako'y sa kaniya.",
+    "reference": "Juan 6:56 (ADB1905)",
+    "connected_to": "Juan 6:57",
+    "connected_from": "Juan 6:55"
+  },
+  {
+    "text": "Kung paanong sinugo ako ng Amang buhay, at ako'y nabubuhay dahil sa Ama; gayon din naman ang kumakain sa akin, siya nama'y mabubuhay dahil sa akin.",
+    "reference": "Juan 6:57 (ADB1905)",
+    "connected_to": "Juan 6:58",
+    "connected_from": "Juan 6:56"
+  },
+  {
+    "text": "Ito ang tinapay na bumabang galing sa langit: hindi gaya ng mga magulang na nagsikain, at nangamatay; ang kumakain ng tinapay na ito ay mabubuhay magpakailan man.",
+    "reference": "Juan 6:58 (ADB1905)",
+    "connected_to": "Juan 6:59",
+    "connected_from": "Juan 6:57"
+  },
+  {
+    "text": "Sinabi niya ang mga bagay na ito sa sinagoga, samantalang siya'y nagtuturo sa Capernaum.",
+    "reference": "Juan 6:59 (ADB1905)",
+    "connected_to": "Juan 6:60",
+    "connected_from": "Juan 6:58"
+  },
+  {
+    "text": "Marami nga sa kaniyang mga alagad, nang kanilang marinig ito, ay nangagsabi, Matigas ang pananalitang ito; sino ang makaririnig noon?",
+    "reference": "Juan 6:60 (ADB1905)",
+    "connected_to": "Juan 6:61",
+    "connected_from": "Juan 6:59"
+  },
+  {
+    "text": "Datapuwa't pagkaalam ni Jesus sa kaniyang sarili na nagbubulongbulungan ang kaniyang mga alagad tungkol dito, sa kanila'y sinabi, Ito baga'y nakapagpapatisod sa inyo?",
+    "reference": "Juan 6:61 (ADB1905)",
+    "connected_to": "Juan 6:62",
+    "connected_from": "Juan 6:60"
+  },
+  {
+    "text": "Ano nga kung makita ninyong umaakyat ang Anak ng tao sa kinaroroonan niya nang una?",
+    "reference": "Juan 6:62 (ADB1905)",
+    "connected_to": "Juan 6:63",
+    "connected_from": "Juan 6:61"
+  },
+  {
+    "text": "Ang espiritu nga ang bumubuhay; sa laman ay walang anomang pinakikinabang: ang mga salitang sinalita ko sa inyo ay pawang espiritu, at pawang buhay.",
+    "reference": "Juan 6:63 (ADB1905)",
+    "connected_to": "Juan 6:64",
+    "connected_from": "Juan 6:62"
+  },
+  {
+    "text": "Datapuwa't may ilan sa inyong hindi nagsisisampalataya. Sapagka't talastas na ni Jesus buhat pa nang una kung sino-sino ang hindi nagsisisampalataya, at kung sino ang sa kaniya'y magkakanulo.",
+    "reference": "Juan 6:64 (ADB1905)",
+    "connected_to": "Juan 6:65",
+    "connected_from": "Juan 6:63"
+  },
+  {
+    "text": "At sinabi niya, Dahil dito'y sinabi ko sa inyo, na walang taong makalalapit sa akin, maliban na ipagkaloob sa kaniya ng Ama.",
+    "reference": "Juan 6:65 (ADB1905)",
+    "connected_to": "Juan 6:66",
+    "connected_from": "Juan 6:64"
+  },
+  {
+    "text": "Dahil dito'y marami sa kaniyang mga alagad ay nagsitalikod, at hindi na nagsisama sa kaniya.",
+    "reference": "Juan 6:66 (ADB1905)",
+    "connected_to": "Juan 6:67",
+    "connected_from": "Juan 6:65"
+  },
+  {
+    "text": "Sinabi nga ni Jesus sa labingdalawa, Ibig baga ninyong magsialis din naman?",
+    "reference": "Juan 6:67 (ADB1905)",
+    "connected_to": "Juan 6:68",
+    "connected_from": "Juan 6:66"
+  },
+  {
+    "text": "Sinagot siya ni Simon Pedro, Panginoon, kanino kami magsisiparoon? ikaw ang may mga salita ng buhay na walang hanggan.",
+    "reference": "Juan 6:68 (ADB1905)",
+    "connected_to": "Juan 6:69",
+    "connected_from": "Juan 6:67"
+  },
+  {
+    "text": "At kami'y nagsisisampalataya at nakikilala namin na ikaw ang Banal ng Dios.",
+    "reference": "Juan 6:69 (ADB1905)",
+    "connected_to": "Juan 6:70",
+    "connected_from": "Juan 6:68"
+  },
+  {
+    "text": "Sinagot sila ni Jesus, Hindi baga hinirang ko kayong labingdalawa, at ang isa sa inyo ay diablo?",
+    "reference": "Juan 6:70 (ADB1905)",
+    "connected_to": "Juan 6:71",
+    "connected_from": "Juan 6:69"
+  },
+  {
+    "text": "Tinukoy nga niya si Judas na anak ni Simon Iscariote, sapagka't siya ang sa kaniya'y magkakanulo, palibhasa'y isa sa labingdalawa.",
+    "reference": "Juan 6:71 (ADB1905)",
+    "connected_from": "Juan 6:70"
+  }
+]

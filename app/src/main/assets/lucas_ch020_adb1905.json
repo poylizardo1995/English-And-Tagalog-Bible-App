@@ -1,0 +1,282 @@
+[
+  {
+    "text": "At nangyari, sa isa sa mga araw, samantalang tinuturuan niya ang bayan sa templo, at ipinangangaral ang evangelio, na nagsilapit sa kaniya ang mga saserdote, at ang mga eskriba pati ng matatanda;",
+    "reference": "Lucas 20:1 (ADB1905)",
+    "connected_to": "Lucas 20:2"
+  },
+  {
+    "text": "At sila'y nangagsalita, na nangagsasabi sa kaniya, Sabihin mo sa amin: Sa anong kapamahalaan ginagawa mo ang mga bagay na ito? o sino ang nagbigay sa iyo ng kapamahalaang ito?",
+    "reference": "Lucas 20:2 (ADB1905)",
+    "connected_to": "Lucas 20:3",
+    "connected_from": "Lucas 20:1"
+  },
+  {
+    "text": "At siya'y sumagot, at sinabi sa kanila, Tatanungin ko naman kayo ng isang tanong; at sabihin ninyo sa akin:",
+    "reference": "Lucas 20:3 (ADB1905)",
+    "connected_to": "Lucas 20:4",
+    "connected_from": "Lucas 20:2"
+  },
+  {
+    "text": "Ang bautismo ni Juan, ay mula baga sa langit, o sa mga tao?",
+    "reference": "Lucas 20:4 (ADB1905)",
+    "connected_to": "Lucas 20:5",
+    "connected_from": "Lucas 20:3"
+  },
+  {
+    "text": "At sila'y nangagkatuwiranan, na nangagsasabi, Kung sabihin natin, Mula sa langit; ay sasabihin niya, Bakit hindi ninyo siya pinaniwalaan?",
+    "reference": "Lucas 20:5 (ADB1905)",
+    "connected_to": "Lucas 20:6",
+    "connected_from": "Lucas 20:4"
+  },
+  {
+    "text": "Datapuwa't kung sabihin natin, Mula sa mga tao; ay babatuhin tayo ng buong bayan, sapagka't sila'y nanganiniwala na si Juan ay propeta.",
+    "reference": "Lucas 20:6 (ADB1905)",
+    "connected_to": "Lucas 20:7",
+    "connected_from": "Lucas 20:5"
+  },
+  {
+    "text": "At sila'y nagsisagot, na hindi nila nalalaman kung saan mula.",
+    "reference": "Lucas 20:7 (ADB1905)",
+    "connected_to": "Lucas 20:8",
+    "connected_from": "Lucas 20:6"
+  },
+  {
+    "text": "At sinabi sa kanila ni Jesus, Hindi ko rin naman sasabihin sa inyo kung sa anong kapamahalaan ginagawa ko ang mga bagay na ito.",
+    "reference": "Lucas 20:8 (ADB1905)",
+    "connected_to": "Lucas 20:9",
+    "connected_from": "Lucas 20:7"
+  },
+  {
+    "text": "At siya'y nagpasimulang magsabi sa bayan ng talinghagang ito: Nagtanim ang isang tao ng isang ubasan, at ipinagkatiwala sa mga magsasaka, at napasa ibang lupain na mahabang panahon.",
+    "reference": "Lucas 20:9 (ADB1905)",
+    "connected_to": "Lucas 20:10",
+    "connected_from": "Lucas 20:8"
+  },
+  {
+    "text": "At sa kapanahunan ay nagsugo siya ng isang alipin sa mga magsasaka, upang siya'y bigyan ng bunga ng ubas: datapuwa't hinampas siya ng mga magsasaka, at pinauwing walang dala.",
+    "reference": "Lucas 20:10 (ADB1905)",
+    "connected_to": "Lucas 20:11",
+    "connected_from": "Lucas 20:9"
+  },
+  {
+    "text": "At nagsugo pa siya ng ibang alipin: at ito nama'y kanilang hinampas, at inalimura, at pinauwing walang dala.",
+    "reference": "Lucas 20:11 (ADB1905)",
+    "connected_to": "Lucas 20:12",
+    "connected_from": "Lucas 20:10"
+  },
+  {
+    "text": "At nagsugo pa siya ng ikatlo: at kanila ring sinugatan ito, at pinalayas.",
+    "reference": "Lucas 20:12 (ADB1905)",
+    "connected_to": "Lucas 20:13",
+    "connected_from": "Lucas 20:11"
+  },
+  {
+    "text": "At sinabi ng panginoon ng ubasan, Anong gagawin ko? aking susuguin ang minamahal kong anak; marahil siya'y igagalang nila.",
+    "reference": "Lucas 20:13 (ADB1905)",
+    "connected_to": "Lucas 20:14",
+    "connected_from": "Lucas 20:12"
+  },
+  {
+    "text": "Datapuwa't nang makita siya ng mga magsasaka, ay nangagsangusapan sila, na sinasabi, Ito ang tagapagmana; atin siyang patayin upang ang mana ay maging atin.",
+    "reference": "Lucas 20:14 (ADB1905)",
+    "connected_to": "Lucas 20:15",
+    "connected_from": "Lucas 20:13"
+  },
+  {
+    "text": "At itinaboy nila siya sa ubasan, at pinatay siya. Ano nga kaya ang gagawin sa kanila ng panginoon ng ubasan?",
+    "reference": "Lucas 20:15 (ADB1905)",
+    "connected_to": "Lucas 20:16",
+    "connected_from": "Lucas 20:14"
+  },
+  {
+    "text": "Paroroon siya at pupuksain niya ang mga magsasakang ito, at ibibigay ang ubasan sa mga iba. At nang marinig nila ito, ay sinabi nila, Huwag nawang mangyari.",
+    "reference": "Lucas 20:16 (ADB1905)",
+    "connected_to": "Lucas 20:17",
+    "connected_from": "Lucas 20:15"
+  },
+  {
+    "text": "Datapuwa't kaniyang tinitigan sila, at sinabi, Ano nga baga ito na nasusulat, Ang batong itinakuwil ng nangagtatayo ng gusali. Ay siya ring ginawang pangulo sa panulok?",
+    "reference": "Lucas 20:17 (ADB1905)",
+    "connected_to": "Lucas 20:18",
+    "connected_from": "Lucas 20:16"
+  },
+  {
+    "text": "Ang bawa't mahulog sa ibabaw ng batong yaon ay madudurog; datapuwa't sinomang kaniyang malagpakan, ay kaniyang pangangalating gaya ng alabok.",
+    "reference": "Lucas 20:18 (ADB1905)",
+    "connected_to": "Lucas 20:19",
+    "connected_from": "Lucas 20:17"
+  },
+  {
+    "text": "At pinagsisikapan siyang hulihin sa oras ding yaon ng mga eskriba at ng mga pangulong saserdote; at sila'y nangatatakot sa bayan: sapagka't nahalata nila na sinabi niya ang talinghagang ito laban sa kanila.",
+    "reference": "Lucas 20:19 (ADB1905)",
+    "connected_to": "Lucas 20:20",
+    "connected_from": "Lucas 20:18"
+  },
+  {
+    "text": "At siya'y inaabangan nila, at sila'y nangagsugo ng mga tiktik, na nangagpakunwaring mga matuwid, upang siya'y mahuli sa kaniyang salita, na siya'y maibigay sa pamiminuno at sa kapamahalaan ng gobernador.",
+    "reference": "Lucas 20:20 (ADB1905)",
+    "connected_to": "Lucas 20:21",
+    "connected_from": "Lucas 20:19"
+  },
+  {
+    "text": "At kanilang tinanong siya, na sinasabi, Guro, nalalaman namin na ikaw ay nagsasabi at nagtuturo ng matuwid, at wala kang itinatanging tao, kundi itinuturo mo ang katotohanan ng daan ng Dios.",
+    "reference": "Lucas 20:21 (ADB1905)",
+    "connected_to": "Lucas 20:22",
+    "connected_from": "Lucas 20:20"
+  },
+  {
+    "text": "Matuwid bagang kami ay bumuwis kay Cesar, o hindi?",
+    "reference": "Lucas 20:22 (ADB1905)",
+    "connected_to": "Lucas 20:23",
+    "connected_from": "Lucas 20:21"
+  },
+  {
+    "text": "Datapuwa't napagkilala niya ang kanilang lalang, at sinabi sa kanila,",
+    "reference": "Lucas 20:23 (ADB1905)",
+    "connected_to": "Lucas 20:24",
+    "connected_from": "Lucas 20:22"
+  },
+  {
+    "text": "Pagpakitaan ninyo ako ng isang denario. Kanino ang larawan at ang nasusulat dito? At sinabi nila, Kay Cesar.",
+    "reference": "Lucas 20:24 (ADB1905)",
+    "connected_to": "Lucas 20:25",
+    "connected_from": "Lucas 20:23"
+  },
+  {
+    "text": "At sinabi niya sa kanila, Kung gayo'y ibigay ninyo kay Cesar ang kay Cesar, at ang sa Dios ang sa Dios.",
+    "reference": "Lucas 20:25 (ADB1905)",
+    "connected_to": "Lucas 20:26",
+    "connected_from": "Lucas 20:24"
+  },
+  {
+    "text": "At sila'y hindi nakahuli sa kaniyang mga pananalita sa harap ng bayan: at sila'y nanganggilalas sa kaniyang sagot, at hindi nangagsiimik.",
+    "reference": "Lucas 20:26 (ADB1905)",
+    "connected_to": "Lucas 20:27",
+    "connected_from": "Lucas 20:25"
+  },
+  {
+    "text": "At may lumapit sa kaniyang ilan sa mga Saduceo, na nagsisipagsabi na walang pagkabuhay na maguli;",
+    "reference": "Lucas 20:27 (ADB1905)",
+    "connected_to": "Lucas 20:28",
+    "connected_from": "Lucas 20:26"
+  },
+  {
+    "text": "At kanilang itinanong sa kaniya, na sinasabi, Guro, isinulat sa amin ni Moises, na kung ang kapatid na lalake ng isang lalake ay mamatay, na may asawa, at siya'y walang anak, ay kunin ng kaniyang kapatid ang asawa, at bigyang anak ang kaniyang kapatid.",
+    "reference": "Lucas 20:28 (ADB1905)",
+    "connected_to": "Lucas 20:29",
+    "connected_from": "Lucas 20:27"
+  },
+  {
+    "text": "Mayroon ngang pitong lalaking magkakapatid: at nagasawa ang panganay, at namatay na walang anak;",
+    "reference": "Lucas 20:29 (ADB1905)",
+    "connected_to": "Lucas 20:30",
+    "connected_from": "Lucas 20:28"
+  },
+  {
+    "text": "At ang pangalawa:",
+    "reference": "Lucas 20:30 (ADB1905)",
+    "connected_to": "Lucas 20:31",
+    "connected_from": "Lucas 20:29"
+  },
+  {
+    "text": "At ang pangatlo'y nagasawa sa bao; at gayon din ang pito naman ay hindi nagiwan ng mga anak, at nangamatay.",
+    "reference": "Lucas 20:31 (ADB1905)",
+    "connected_to": "Lucas 20:32",
+    "connected_from": "Lucas 20:30"
+  },
+  {
+    "text": "Pagkatapos ay namatay naman ang babae.",
+    "reference": "Lucas 20:32 (ADB1905)",
+    "connected_to": "Lucas 20:33",
+    "connected_from": "Lucas 20:31"
+  },
+  {
+    "text": "Sa pagkabuhay na maguli nga, kanino sa kanila magiging asawa kaya ang babaing yaon? sapagka't siya'y naging asawa ng pito.",
+    "reference": "Lucas 20:33 (ADB1905)",
+    "connected_to": "Lucas 20:34",
+    "connected_from": "Lucas 20:32"
+  },
+  {
+    "text": "At sinabi sa kanila ni Jesus, Nagsisipagasawa ang mga anak ng sanglibutang ito, at pinapagaasawa:",
+    "reference": "Lucas 20:34 (ADB1905)",
+    "connected_to": "Lucas 20:35",
+    "connected_from": "Lucas 20:33"
+  },
+  {
+    "text": "Datapuwa't ang mga inaaring karapatdapat magkamit ng sanlibutang yaon, at ng pagkabuhay na maguli sa mga patay, ay hindi mangagaasawa, ni papagaasawahin:",
+    "reference": "Lucas 20:35 (ADB1905)",
+    "connected_to": "Lucas 20:36",
+    "connected_from": "Lucas 20:34"
+  },
+  {
+    "text": "Sapagka't hindi na sila maaaring mangamatay pa: sapagka't kahalintulad na sila ng mga anghel; at sila'y mga anak ng Dios, palibhasa'y mga anak ng pagkabuhay na maguli.",
+    "reference": "Lucas 20:36 (ADB1905)",
+    "connected_to": "Lucas 20:37",
+    "connected_from": "Lucas 20:35"
+  },
+  {
+    "text": "Datapuwa't tungkol sa pagbabangon ng mga patay, ay ipinakilala rin naman ni Moises sa Mababang punong kahoy, nang tinawag niya ang Panginoon na Dios ni Abraham, at Dios ni Isaac, at Dios ni Jacob.",
+    "reference": "Lucas 20:37 (ADB1905)",
+    "connected_to": "Lucas 20:38",
+    "connected_from": "Lucas 20:36"
+  },
+  {
+    "text": "Siya nga'y hindi Dios ng mga patay, kundi ng mga buhay: sapagka't nangabubuhay sa kaniya ang lahat.",
+    "reference": "Lucas 20:38 (ADB1905)",
+    "connected_to": "Lucas 20:39",
+    "connected_from": "Lucas 20:37"
+  },
+  {
+    "text": "At pagsagot ng ilan sa mga eskriba, ay nangagsabi, Guro, mabuti ang pagkasabi mo.",
+    "reference": "Lucas 20:39 (ADB1905)",
+    "connected_to": "Lucas 20:40",
+    "connected_from": "Lucas 20:38"
+  },
+  {
+    "text": "Sapagka't hindi na nga sila nangahas tumanong pa sa kaniya ng anomang tanong.",
+    "reference": "Lucas 20:40 (ADB1905)",
+    "connected_to": "Lucas 20:41",
+    "connected_from": "Lucas 20:39"
+  },
+  {
+    "text": "At kaniyang sinabi sa kanila, Paanong sinasabi nila na ang Cristo ay anak ni David?",
+    "reference": "Lucas 20:41 (ADB1905)",
+    "connected_to": "Lucas 20:42",
+    "connected_from": "Lucas 20:40"
+  },
+  {
+    "text": "Sapagka't si David din ang nagsasabi sa aklat ng Mga Awit, Sinabi ng Panginoon sa aking Panginoon; Maupo ka sa aking kanan,",
+    "reference": "Lucas 20:42 (ADB1905)",
+    "connected_to": "Lucas 20:43",
+    "connected_from": "Lucas 20:41"
+  },
+  {
+    "text": "Hanggang sa gawin ko ang iyong mga kaaway na tuntungan ng iyong mga paa.",
+    "reference": "Lucas 20:43 (ADB1905)",
+    "connected_to": "Lucas 20:44",
+    "connected_from": "Lucas 20:42"
+  },
+  {
+    "text": "Dahil dito tinatawag siyang Panginoon ni David, at paanong siya'y anak niya?",
+    "reference": "Lucas 20:44 (ADB1905)",
+    "connected_to": "Lucas 20:45",
+    "connected_from": "Lucas 20:43"
+  },
+  {
+    "text": "At sinabi niya sa kaniyang mga alagad, na naririnig ng buong bayan,",
+    "reference": "Lucas 20:45 (ADB1905)",
+    "connected_to": "Lucas 20:46",
+    "connected_from": "Lucas 20:44"
+  },
+  {
+    "text": "Mangagingat kayo sa mga eskriba na ibig magsilakad na may mahahabang damit, at iniibig nila ang sila'y pagpugayan sa mga pamilihan, at ang mga pangulong upuan sa mga sinagoga, at ang mga pangulong dako sa mga pigingan;",
+    "reference": "Lucas 20:46 (ADB1905)",
+    "connected_to": "Lucas 20:47",
+    "connected_from": "Lucas 20:45"
+  },
+  {
+    "text": "Na sinasakmal nila ang mga bahay ng mga babaing bao, at sa pagpakunwaring banal ay nanalangin ng mahaba: ang mga ito'y tatanggap ng lalong malaking kahatulan.",
+    "reference": "Lucas 20:47 (ADB1905)",
+    "connected_from": "Lucas 20:46"
+  }
+]

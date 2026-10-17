@@ -1,0 +1,48 @@
+[
+  {
+    "text": "Nang lumabas ang Israel sa Egipto, ang sangbahayan ni Jacob mula sa bayang may ibang wika;",
+    "reference": "Mga Awit 114:1 (ADB1905)",
+    "connected_to": "Mga Awit 114:2"
+  },
+  {
+    "text": "Ang Juda ay naging kaniyang santuario, ang Israel ay kaniyang sakop.",
+    "reference": "Mga Awit 114:2 (ADB1905)",
+    "connected_to": "Mga Awit 114:3",
+    "connected_from": "Mga Awit 114:1"
+  },
+  {
+    "text": "Nakita ng dagat, at tumakas; ang Jordan ay napaurong.",
+    "reference": "Mga Awit 114:3 (ADB1905)",
+    "connected_to": "Mga Awit 114:4",
+    "connected_from": "Mga Awit 114:2"
+  },
+  {
+    "text": "Ang mga bundok ay nagsiluksong parang mga lalaking tupa, ang mga munting gulod na parang mga batang tupa.",
+    "reference": "Mga Awit 114:4 (ADB1905)",
+    "connected_to": "Mga Awit 114:5",
+    "connected_from": "Mga Awit 114:3"
+  },
+  {
+    "text": "Anong ipakikialam ko sa iyo, Oh dagat, na ikaw ay tumatakas? sa iyo Jordan, na ikaw ay umuurong?",
+    "reference": "Mga Awit 114:5 (ADB1905)",
+    "connected_to": "Mga Awit 114:6",
+    "connected_from": "Mga Awit 114:4"
+  },
+  {
+    "text": "Sa inyo mga bundok, na kayo'y nagsisiluksong parang mga lalaking tupa; sa inyong mga munting gulod, na parang mga batang tupa?",
+    "reference": "Mga Awit 114:6 (ADB1905)",
+    "connected_to": "Mga Awit 114:7",
+    "connected_from": "Mga Awit 114:5"
+  },
+  {
+    "text": "Mayanig ka, ikaw na lupa, sa harapan ng Panginoon, sa harapan ng Dios ni Jacob;",
+    "reference": "Mga Awit 114:7 (ADB1905)",
+    "connected_to": "Mga Awit 114:8",
+    "connected_from": "Mga Awit 114:6"
+  },
+  {
+    "text": "Na pinapagiging tipunan ng tubig ang malaking bato. Na bukal ng tubig ang pingkiang bato.",
+    "reference": "Mga Awit 114:8 (ADB1905)",
+    "connected_from": "Mga Awit 114:7"
+  }
+]

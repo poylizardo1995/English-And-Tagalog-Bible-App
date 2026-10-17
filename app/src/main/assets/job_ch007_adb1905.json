@@ -1,0 +1,126 @@
+[
+  {
+    "text": "Wala bang kapanahunan ng kaguluhan ang tao sa ibabaw ng lupa? At hindi ba ang kaniyang mga kaarawan ay gaya ng mga kaarawan ng nagpapaupa?",
+    "reference": "Job 7:1 (ADB1905)",
+    "connected_to": "Job 7:2"
+  },
+  {
+    "text": "Na gaya ng alipin na ninanasang mainam ang lilim, at gaya ng nagpapaupa na tumitingin sa kaniyang mga kaupahan:",
+    "reference": "Job 7:2 (ADB1905)",
+    "connected_to": "Job 7:3",
+    "connected_from": "Job 7:1"
+  },
+  {
+    "text": "Gayon ako pinapagdaan ng mga buwan na walang kabuluhan at mga gabing nakaiinip ang itinakda sa akin.",
+    "reference": "Job 7:3 (ADB1905)",
+    "connected_to": "Job 7:4",
+    "connected_from": "Job 7:2"
+  },
+  {
+    "text": "Pag ako'y nahihiga, aking sinasabi, kailan ako babangon at nakadaan na ang gabi? At ako'y puspos ng pagkabalisa hanggang sa pagbubukang liwayway ng araw.",
+    "reference": "Job 7:4 (ADB1905)",
+    "connected_to": "Job 7:5",
+    "connected_from": "Job 7:3"
+  },
+  {
+    "text": "Ang aking laman ay nabibihisan ng mga uod at ng libag na alabok; ang aking balat ay namamaga at putok putok.",
+    "reference": "Job 7:5 (ADB1905)",
+    "connected_to": "Job 7:6",
+    "connected_from": "Job 7:4"
+  },
+  {
+    "text": "Ang aking mga kaarawan ay matulin kay sa panghabi ng manghahabi, at nagugugol na walang pagasa.",
+    "reference": "Job 7:6 (ADB1905)",
+    "connected_to": "Job 7:7",
+    "connected_from": "Job 7:5"
+  },
+  {
+    "text": "Oh alalahanin mo na ang aking buhay ay hinga: Ang aking mata ay hindi na makakakita pa ng mabuti.",
+    "reference": "Job 7:7 (ADB1905)",
+    "connected_to": "Job 7:8",
+    "connected_from": "Job 7:6"
+  },
+  {
+    "text": "Ang matang tumingin sa akin ay hindi na ako mamamasdan: ang iyong mga mata ay sasa akin, nguni't wala na ako.",
+    "reference": "Job 7:8 (ADB1905)",
+    "connected_to": "Job 7:9",
+    "connected_from": "Job 7:7"
+  },
+  {
+    "text": "Kung paanong ang ulap ay napapawi at nawawala, gayon siyang bumababa sa Sheol ay hindi na aahon pa.",
+    "reference": "Job 7:9 (ADB1905)",
+    "connected_to": "Job 7:10",
+    "connected_from": "Job 7:8"
+  },
+  {
+    "text": "Siya'y hindi na babalik pa sa kaniyang bahay, ni malalaman pa man niya ang kaniyang dako.",
+    "reference": "Job 7:10 (ADB1905)",
+    "connected_to": "Job 7:11",
+    "connected_from": "Job 7:9"
+  },
+  {
+    "text": "Kaya't hindi ko pipigilin ang aking bibig; ako'y magsasalita sa kadalamhatian ng aking diwa; ako'y dadaing sa kahirapan ng aking kaluluwa.",
+    "reference": "Job 7:11 (ADB1905)",
+    "connected_to": "Job 7:12",
+    "connected_from": "Job 7:10"
+  },
+  {
+    "text": "Ako ba'y isang dagat, o isang malaking hayop dagat, na pinababantayan mo ako sa isang bantay?",
+    "reference": "Job 7:12 (ADB1905)",
+    "connected_to": "Job 7:13",
+    "connected_from": "Job 7:11"
+  },
+  {
+    "text": "Pag aking sinasabi, Aaliwin ako ng aking higaan, papayapain ng aking unan ang aking karamdaman;",
+    "reference": "Job 7:13 (ADB1905)",
+    "connected_to": "Job 7:14",
+    "connected_from": "Job 7:12"
+  },
+  {
+    "text": "Kung magkagayo'y pinupukaw mo ako ng mga panaginip, at pinangingilabot mo ako sa mga pangitain:",
+    "reference": "Job 7:14 (ADB1905)",
+    "connected_to": "Job 7:15",
+    "connected_from": "Job 7:13"
+  },
+  {
+    "text": "Na anopa't pinipili ng aking kaluluwa ang pagkainis, at ang kamatayan kay sa aking mga butong ito.",
+    "reference": "Job 7:15 (ADB1905)",
+    "connected_to": "Job 7:16",
+    "connected_from": "Job 7:14"
+  },
+  {
+    "text": "Aking kinayayamutan ang aking buhay; di ko na ibig mabuhay magpakailan man: bayaan akong magisa; sapagka't ang aking mga kaarawan ay walang kabuluhan.",
+    "reference": "Job 7:16 (ADB1905)",
+    "connected_to": "Job 7:17",
+    "connected_from": "Job 7:15"
+  },
+  {
+    "text": "Ano ang tao, na iyong palalakhin siya, at iyong ilalagak ang iyong puso sa kaniya,",
+    "reference": "Job 7:17 (ADB1905)",
+    "connected_to": "Job 7:18",
+    "connected_from": "Job 7:16"
+  },
+  {
+    "text": "At iyong dadalawin siya tuwing umaga, at susubukin siya sa tuwi-tuwina?",
+    "reference": "Job 7:18 (ADB1905)",
+    "connected_to": "Job 7:19",
+    "connected_from": "Job 7:17"
+  },
+  {
+    "text": "Hanggang kailan di mo ako iiwan, ni babayaan man hanggang sa aking lunukin ang aking laway?",
+    "reference": "Job 7:19 (ADB1905)",
+    "connected_to": "Job 7:20",
+    "connected_from": "Job 7:18"
+  },
+  {
+    "text": "Kung ako'y nagkasala, ano ang aking magagawa sa iyo, Oh ikaw na bantay sa mga tao? Bakit mo nga inilalagay akong pinakatanda sa iyo. Na anopa't ako'y isang pasan sa aking sarili?",
+    "reference": "Job 7:20 (ADB1905)",
+    "connected_to": "Job 7:21",
+    "connected_from": "Job 7:19"
+  },
+  {
+    "text": "At bakit hindi mo ipinatatawad ang aking pagsalangsang, at inaalis ang aking kasamaan? Sapagka't ngayo'y mahihiga ako sa alabok; at ako'y hahanapin mong mainam, nguni't wala na ako.",
+    "reference": "Job 7:21 (ADB1905)",
+    "connected_from": "Job 7:20"
+  }
+]

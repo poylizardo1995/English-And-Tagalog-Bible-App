@@ -1,0 +1,210 @@
+[
+  {
+    "text": "Nang magkagayo'y sumagot si Job, at nagsabi,",
+    "reference": "Job 9:1 (ADB1905)",
+    "connected_to": "Job 9:2"
+  },
+  {
+    "text": "Sa katotohanan ay nalalaman kong ito'y gayon: nguni't paanong makapaggaganap ang tao sa Dios?",
+    "reference": "Job 9:2 (ADB1905)",
+    "connected_to": "Job 9:3",
+    "connected_from": "Job 9:1"
+  },
+  {
+    "text": "Kung kalugdan niyang makipagtalo sa kaniya, siya'y hindi makasasagot sa kaniya ng isa sa isang libo.",
+    "reference": "Job 9:3 (ADB1905)",
+    "connected_to": "Job 9:4",
+    "connected_from": "Job 9:2"
+  },
+  {
+    "text": "Siya ay pantas sa puso, at may kaya sa kalakasan: sinong nagmatigas laban sa kaniya at guminhawa?",
+    "reference": "Job 9:4 (ADB1905)",
+    "connected_to": "Job 9:5",
+    "connected_from": "Job 9:3"
+  },
+  {
+    "text": "Na siyang naglilipat ng mga bundok, at hindi nila nalalaman, pagka nililiglig niya sa kaniyang pagkagalit.",
+    "reference": "Job 9:5 (ADB1905)",
+    "connected_to": "Job 9:6",
+    "connected_from": "Job 9:4"
+  },
+  {
+    "text": "Na siyang umuuga ng lupa sa kaniyang kinaroroonan, at ang mga haligi nito ay nangayayanig.",
+    "reference": "Job 9:6 (ADB1905)",
+    "connected_to": "Job 9:7",
+    "connected_from": "Job 9:5"
+  },
+  {
+    "text": "Na siyang naguutos sa araw, at hindi sumisikat; at nagtatakda sa mga bituin.",
+    "reference": "Job 9:7 (ADB1905)",
+    "connected_to": "Job 9:8",
+    "connected_from": "Job 9:6"
+  },
+  {
+    "text": "Na nagiisang inuunat ang langit, at tumutungtong sa mga alon ng dagat.",
+    "reference": "Job 9:8 (ADB1905)",
+    "connected_to": "Job 9:9",
+    "connected_from": "Job 9:7"
+  },
+  {
+    "text": "Na lumikha sa Oso, sa Orion, at sa mga Pleyade, at sa mga silid ng timugan.",
+    "reference": "Job 9:9 (ADB1905)",
+    "connected_to": "Job 9:10",
+    "connected_from": "Job 9:8"
+  },
+  {
+    "text": "Na gumagawa ng mga dakilang bagay na di masayod; Oo, mga kamanghamanghang bagay na walang bilang.",
+    "reference": "Job 9:10 (ADB1905)",
+    "connected_to": "Job 9:11",
+    "connected_from": "Job 9:9"
+  },
+  {
+    "text": "Narito, siya'y dumaraan sa siping ko, at hindi ko siya nakikita: siya'y nagpapatuloy rin naman, nguni't hindi ko siya namamataan.",
+    "reference": "Job 9:11 (ADB1905)",
+    "connected_to": "Job 9:12",
+    "connected_from": "Job 9:10"
+  },
+  {
+    "text": "Narito, siya'y nangangagaw sinong makasasansala sa kaniya? Sinong magsasabi sa kaniya: Anong ginagawa mo?",
+    "reference": "Job 9:12 (ADB1905)",
+    "connected_to": "Job 9:13",
+    "connected_from": "Job 9:11"
+  },
+  {
+    "text": "Hindi iuurong ng Dios ang kaniyang galit; ang mga manunulong sa Rahab ay nagsisiyukod sa ilalim niya.",
+    "reference": "Job 9:13 (ADB1905)",
+    "connected_to": "Job 9:14",
+    "connected_from": "Job 9:12"
+  },
+  {
+    "text": "Gaano pa nga kaya kaliit ang maisasagot ko sa kaniya, at mapipiling aking mga salita na maimamatuwid ko sa kaniya?",
+    "reference": "Job 9:14 (ADB1905)",
+    "connected_to": "Job 9:15",
+    "connected_from": "Job 9:13"
+  },
+  {
+    "text": "Na kahiman ako'y matuwid, gayon may hindi ako sasagot sa kaniya; ako'y mamamanhik sa aking hukom.",
+    "reference": "Job 9:15 (ADB1905)",
+    "connected_to": "Job 9:16",
+    "connected_from": "Job 9:14"
+  },
+  {
+    "text": "Kung ako'y tumawag, at siya'y sumagot sa akin; gayon ma'y hindi ako maniniwala na kaniyang dininig ang aking tinig.",
+    "reference": "Job 9:16 (ADB1905)",
+    "connected_to": "Job 9:17",
+    "connected_from": "Job 9:15"
+  },
+  {
+    "text": "Sapagka't ako'y ginigiba niya sa pamamagitan ng isang bagyo, at pinararami ang aking mga sugat ng walang kadahilanan.",
+    "reference": "Job 9:17 (ADB1905)",
+    "connected_to": "Job 9:18",
+    "connected_from": "Job 9:16"
+  },
+  {
+    "text": "Hindi niya ako tutulutang ako'y huminga, nguni't nililipos niya ako ng hirap.",
+    "reference": "Job 9:18 (ADB1905)",
+    "connected_to": "Job 9:19",
+    "connected_from": "Job 9:17"
+  },
+  {
+    "text": "Kung kami ay magsalita tungkol sa kalakasan, narito, siya'y may kapangyarihan! At kung sa kahatulan, sino, sinasabi niya ay magtatakda sa akin ng panahon?",
+    "reference": "Job 9:19 (ADB1905)",
+    "connected_to": "Job 9:20",
+    "connected_from": "Job 9:18"
+  },
+  {
+    "text": "Kahiman ako'y matuwid, ang aking sariling bibig ay hahatol sa akin: kahiman ako'y sakdal patototohanan niya akong masama.",
+    "reference": "Job 9:20 (ADB1905)",
+    "connected_to": "Job 9:21",
+    "connected_from": "Job 9:19"
+  },
+  {
+    "text": "Ako'y sakdal; hindi ko talos ang aking sarili; aking niwalang kabuluhan ang aking buhay.",
+    "reference": "Job 9:21 (ADB1905)",
+    "connected_to": "Job 9:22",
+    "connected_from": "Job 9:20"
+  },
+  {
+    "text": "Lahat ay isa; kaya't aking sinasabi: kaniyang ginigiba ang sakdal at ang masama.",
+    "reference": "Job 9:22 (ADB1905)",
+    "connected_to": "Job 9:23",
+    "connected_from": "Job 9:21"
+  },
+  {
+    "text": "Kung ang panghampas ay pumapatay na bigla, tatawanan niya ang paglilitis sa mga walang sala.",
+    "reference": "Job 9:23 (ADB1905)",
+    "connected_to": "Job 9:24",
+    "connected_from": "Job 9:22"
+  },
+  {
+    "text": "Ang lupa ay nabigay sa kamay ng masama: kaniyang tinatakpan ang mga mukha ng mga hukom nito; kung hindi siya, sino nga?",
+    "reference": "Job 9:24 (ADB1905)",
+    "connected_to": "Job 9:25",
+    "connected_from": "Job 9:23"
+  },
+  {
+    "text": "Ngayo'y ang mga kaarawan ko ay matulin kay sa isang sugo: dumadaang matulin, walang nakikitang mabuti.",
+    "reference": "Job 9:25 (ADB1905)",
+    "connected_to": "Job 9:26",
+    "connected_from": "Job 9:24"
+  },
+  {
+    "text": "Sila'y nagsisidaang parang mga matuling sasakyan: parang agila na dumadagit ng huli.",
+    "reference": "Job 9:26 (ADB1905)",
+    "connected_to": "Job 9:27",
+    "connected_from": "Job 9:25"
+  },
+  {
+    "text": "Kung aking sabihin: Aking kalilimutan ang aking daing, aking papawiin ang aking malungkot na mukha, at magpapakasaya ako:",
+    "reference": "Job 9:27 (ADB1905)",
+    "connected_to": "Job 9:28",
+    "connected_from": "Job 9:26"
+  },
+  {
+    "text": "Ako'y natatakot sa lahat kong kapanglawan, talastas ko na hindi mo aariin akong walang sala.",
+    "reference": "Job 9:28 (ADB1905)",
+    "connected_to": "Job 9:29",
+    "connected_from": "Job 9:27"
+  },
+  {
+    "text": "Ako'y mahahatulan; bakit nga ako gagawa ng walang kabuluhan?",
+    "reference": "Job 9:29 (ADB1905)",
+    "connected_to": "Job 9:30",
+    "connected_from": "Job 9:28"
+  },
+  {
+    "text": "Kung ako'y maligo ng nieveng tubig, at gawin ko ang aking mga kamay na napakalinis;",
+    "reference": "Job 9:30 (ADB1905)",
+    "connected_to": "Job 9:31",
+    "connected_from": "Job 9:29"
+  },
+  {
+    "text": "Gayon ma'y itutulak mo ako sa hukay, at kayayamutan ako ng aking mga sariling kasuutan.",
+    "reference": "Job 9:31 (ADB1905)",
+    "connected_to": "Job 9:32",
+    "connected_from": "Job 9:30"
+  },
+  {
+    "text": "Sapagka't siya'y hindi tao, na gaya ko, na sasagot ako sa kaniya, na tayo'y pumasok kapuwa sa kahatulan,",
+    "reference": "Job 9:32 (ADB1905)",
+    "connected_to": "Job 9:33",
+    "connected_from": "Job 9:31"
+  },
+  {
+    "text": "Walang hukom sa pagitan natin, na makapaglagay ng kaniyang kamay sa ating dalawa.",
+    "reference": "Job 9:33 (ADB1905)",
+    "connected_to": "Job 9:34",
+    "connected_from": "Job 9:32"
+  },
+  {
+    "text": "Ihiwalay niya sa akin ang kaniyang tungkod, at huwag akong takutin ng kaniyang pangilabot:",
+    "reference": "Job 9:34 (ADB1905)",
+    "connected_to": "Job 9:35",
+    "connected_from": "Job 9:33"
+  },
+  {
+    "text": "Kung magkagayo'y magsasalita ako, at hindi matatakot sa kaniya; sapagka't hindi gayon ako sa aking sarili.",
+    "reference": "Job 9:35 (ADB1905)",
+    "connected_from": "Job 9:34"
+  }
+]

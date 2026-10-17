@@ -1,0 +1,96 @@
+[
+  {
+    "text": "Tapat ang pasabi, Kung ang sinoman ay magsisikap na maging obispo, ay mabuting gawa ang ninanasa.",
+    "reference": "1 Timoteo 3:1 (ADB1905)",
+    "connected_to": "1 Timoteo 3:2"
+  },
+  {
+    "text": "Dapat nga na ang obispo ay walang kapintasan, asawa ng isa lamang babae, mapagpigil, mahinahon ang pagiisip, mahusay, mapagpatuloy, sapat na makapagturo;",
+    "reference": "1 Timoteo 3:2 (ADB1905)",
+    "connected_to": "1 Timoteo 3:3",
+    "connected_from": "1 Timoteo 3:1"
+  },
+  {
+    "text": "Hindi magulo, hindi palaaway, kundi malumanay, hindi mapakipagtalo, hindi maibigin sa salapi;",
+    "reference": "1 Timoteo 3:3 (ADB1905)",
+    "connected_to": "1 Timoteo 3:4",
+    "connected_from": "1 Timoteo 3:2"
+  },
+  {
+    "text": "Namamahalang mabuti ng kaniyang sariling sangbahayan, na sinusupil ang kaniyang mga anak na may buong kahusayan;",
+    "reference": "1 Timoteo 3:4 (ADB1905)",
+    "connected_to": "1 Timoteo 3:5",
+    "connected_from": "1 Timoteo 3:3"
+  },
+  {
+    "text": "(Nguni't kung ang sinoman nga ay hindi marunong mamahala sa kaniyang sariling sangbahayan paanong makapamamahala sa iglesia ng Dios?)",
+    "reference": "1 Timoteo 3:5 (ADB1905)",
+    "connected_to": "1 Timoteo 3:6",
+    "connected_from": "1 Timoteo 3:4"
+  },
+  {
+    "text": "Hindi baguhan, baka siya kung magpalalo ay mahulog sa kaparusahan ng diablo.",
+    "reference": "1 Timoteo 3:6 (ADB1905)",
+    "connected_to": "1 Timoteo 3:7",
+    "connected_from": "1 Timoteo 3:5"
+  },
+  {
+    "text": "Bukod dito'y dapat din namang siya'y magkaroon ng mabuting patotoo ng nangasa labas, baka mahulog sa kapintasan at silo ng diablo.",
+    "reference": "1 Timoteo 3:7 (ADB1905)",
+    "connected_to": "1 Timoteo 3:8",
+    "connected_from": "1 Timoteo 3:6"
+  },
+  {
+    "text": "Gayon din naman ang mga diakono dapat ay mahuhusay, hindi dalawang dila, hindi mahilig sa maraming alak, hindi mga sakim sa mahahalay na kapakinabangan;",
+    "reference": "1 Timoteo 3:8 (ADB1905)",
+    "connected_to": "1 Timoteo 3:9",
+    "connected_from": "1 Timoteo 3:7"
+  },
+  {
+    "text": "Na iniingatan ang hiwaga ng pananampalataya ng malinis na budhi.",
+    "reference": "1 Timoteo 3:9 (ADB1905)",
+    "connected_to": "1 Timoteo 3:10",
+    "connected_from": "1 Timoteo 3:8"
+  },
+  {
+    "text": "At ang mga ito rin naman ay subukin muna; kung magkagayo'y mamahalang may pagka diakono, kung walang kapintasan.",
+    "reference": "1 Timoteo 3:10 (ADB1905)",
+    "connected_to": "1 Timoteo 3:11",
+    "connected_from": "1 Timoteo 3:9"
+  },
+  {
+    "text": "Gayon din naman ang mga babae dapat ay mahuhusay, hindi palabintangin, mapagpigil, tapat sa lahat ng mga bagay.",
+    "reference": "1 Timoteo 3:11 (ADB1905)",
+    "connected_to": "1 Timoteo 3:12",
+    "connected_from": "1 Timoteo 3:10"
+  },
+  {
+    "text": "Maging asawa ang mga diakono ng tigiisa lamang na babae, na pamahalaang mabuti ang kanilang mga anak at ang kanilang sariling mga sangbahayan.",
+    "reference": "1 Timoteo 3:12 (ADB1905)",
+    "connected_to": "1 Timoteo 3:13",
+    "connected_from": "1 Timoteo 3:11"
+  },
+  {
+    "text": "Sapagka't ang nangamamahalang mabuti sa pagka diakono, ay nangagtatamo sa kanilang sarili ng isang mabuting kalagayan, at malaking katapangan sa pananampalataya na kay Cristo Jesus.",
+    "reference": "1 Timoteo 3:13 (ADB1905)",
+    "connected_to": "1 Timoteo 3:14",
+    "connected_from": "1 Timoteo 3:12"
+  },
+  {
+    "text": "Ang mga bagay na ito ay aking isinusulat sa iyo, na inaasahang makararating sa iyong madali;",
+    "reference": "1 Timoteo 3:14 (ADB1905)",
+    "connected_to": "1 Timoteo 3:15",
+    "connected_from": "1 Timoteo 3:13"
+  },
+  {
+    "text": "Nguni't kung ako'y magluwat ng mahabang panahon, ay upang maalaman mo kung paano ang dapat sa mga tao na ugaliin nila sa bahay ng Dios, na siyang iglesia ng Dios na buhay, at haligi at suhay ng katotohanan.",
+    "reference": "1 Timoteo 3:15 (ADB1905)",
+    "connected_to": "1 Timoteo 3:16",
+    "connected_from": "1 Timoteo 3:14"
+  },
+  {
+    "text": "At walang pagtatalo, dakila ang hiwaga ng kabanalan; Yaong nahayag sa laman, Pinapaging-banal sa espiritu, Nakita ng mga anghel, Ipinangaral sa mga bansa, Sinampalatayanan sa sanglibutan, Tinanggap sa itaas sa kaluwalhatian.",
+    "reference": "1 Timoteo 3:16 (ADB1905)",
+    "connected_from": "1 Timoteo 3:15"
+  }
+]

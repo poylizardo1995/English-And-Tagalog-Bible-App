@@ -1,0 +1,204 @@
+[
+  {
+    "text": "Huwag kang mananaghili sa mga masamang tao, ni magnasa ka man na masama sa kanila:",
+    "reference": "Mga Kawikaan 24:1 (ADB1905)",
+    "connected_to": "Mga Kawikaan 24:2"
+  },
+  {
+    "text": "Sapagka't ang kanilang puso ay nagaaral ng pagpighati, at ang kanilang mga labi ay nagsasalita ng kalikuan.",
+    "reference": "Mga Kawikaan 24:2 (ADB1905)",
+    "connected_to": "Mga Kawikaan 24:3",
+    "connected_from": "Mga Kawikaan 24:1"
+  },
+  {
+    "text": "Sa karunungan ay natatayo ang bahay; at sa pamamagitan ng unawa ay natatatag.",
+    "reference": "Mga Kawikaan 24:3 (ADB1905)",
+    "connected_to": "Mga Kawikaan 24:4",
+    "connected_from": "Mga Kawikaan 24:2"
+  },
+  {
+    "text": "At sa pamamagitan ng kaalaman ay napupuno ang mga silid, ng lahat na mahalaga at maligayang mga kayamanan.",
+    "reference": "Mga Kawikaan 24:4 (ADB1905)",
+    "connected_to": "Mga Kawikaan 24:5",
+    "connected_from": "Mga Kawikaan 24:3"
+  },
+  {
+    "text": "Ang pantas na tao ay malakas; Oo, ang taong maalam ay lumalago ang kapangyarihan.",
+    "reference": "Mga Kawikaan 24:5 (ADB1905)",
+    "connected_to": "Mga Kawikaan 24:6",
+    "connected_from": "Mga Kawikaan 24:4"
+  },
+  {
+    "text": "Sapagka't sa pamamagitan ng pantas na pamamatnubay ay makikipagdigma ka: at sa karamihan ng mga tagapayo ay may kaligtasan.",
+    "reference": "Mga Kawikaan 24:6 (ADB1905)",
+    "connected_to": "Mga Kawikaan 24:7",
+    "connected_from": "Mga Kawikaan 24:5"
+  },
+  {
+    "text": "Karunungan ay totoong mataas sa ganang mangmang: hindi niya ibinubuka ang kaniyang bibig sa pintuang-bayan.",
+    "reference": "Mga Kawikaan 24:7 (ADB1905)",
+    "connected_to": "Mga Kawikaan 24:8",
+    "connected_from": "Mga Kawikaan 24:6"
+  },
+  {
+    "text": "Siyang kumakatha ng paggawa ng kasamaan, tatawagin siya ng mga tao na masamang tao.",
+    "reference": "Mga Kawikaan 24:8 (ADB1905)",
+    "connected_to": "Mga Kawikaan 24:9",
+    "connected_from": "Mga Kawikaan 24:7"
+  },
+  {
+    "text": "Ang pagiisip ng kamangmangan ay kasalanan: at ang mangduduwahagi ay karumaldumal sa mga tao.",
+    "reference": "Mga Kawikaan 24:9 (ADB1905)",
+    "connected_to": "Mga Kawikaan 24:10",
+    "connected_from": "Mga Kawikaan 24:8"
+  },
+  {
+    "text": "Kung ikaw ay manglupaypay sa kaarawan ng kasakunaan, ang iyong kalakasan ay munti.",
+    "reference": "Mga Kawikaan 24:10 (ADB1905)",
+    "connected_to": "Mga Kawikaan 24:11",
+    "connected_from": "Mga Kawikaan 24:9"
+  },
+  {
+    "text": "Iligtas mo silang nangadala sa kamatayan, at ang mga handang papatayin, ay tingnan mo na iyong ibalik.",
+    "reference": "Mga Kawikaan 24:11 (ADB1905)",
+    "connected_to": "Mga Kawikaan 24:12",
+    "connected_from": "Mga Kawikaan 24:10"
+  },
+  {
+    "text": "Kung iyong sinasabi, narito, hindi kami nakakaalam nito: hindi ba niya binubulay na tumitimbang ng mga puso? At siyang nagiingat ng iyong kaluluwa, hindi ba niya nalalaman? At hindi ba niya gagantihin ang bawa't tao ayon sa gawa niya?",
+    "reference": "Mga Kawikaan 24:12 (ADB1905)",
+    "connected_to": "Mga Kawikaan 24:13",
+    "connected_from": "Mga Kawikaan 24:11"
+  },
+  {
+    "text": "Anak ko, kumain ka ng pulot, sapagka't mabuti; at ng pulot-pukyutan na matamis sa iyong lasa:",
+    "reference": "Mga Kawikaan 24:13 (ADB1905)",
+    "connected_to": "Mga Kawikaan 24:14",
+    "connected_from": "Mga Kawikaan 24:12"
+  },
+  {
+    "text": "Sa gayo'y matututo ka ng karunungan na malalagay sa iyong kaluluwa: kung iyong nasumpungan ito, sa gayo'y magkakaroon ka nga ng kagantihan, at ang iyong pagasa ay hindi mahihiwalay.",
+    "reference": "Mga Kawikaan 24:14 (ADB1905)",
+    "connected_to": "Mga Kawikaan 24:15",
+    "connected_from": "Mga Kawikaan 24:13"
+  },
+  {
+    "text": "Huwag kang bumakay, Oh masamang tao, sa tahanan ng matuwid; huwag mong sirain ang kaniyang dakong pahingahan:",
+    "reference": "Mga Kawikaan 24:15 (ADB1905)",
+    "connected_to": "Mga Kawikaan 24:16",
+    "connected_from": "Mga Kawikaan 24:14"
+  },
+  {
+    "text": "Sapagka't ang matuwid ay nabubuwal na makapito, at bumabangon uli: nguni't ang masama ay nabubuwal sa kasakunaan.",
+    "reference": "Mga Kawikaan 24:16 (ADB1905)",
+    "connected_to": "Mga Kawikaan 24:17",
+    "connected_from": "Mga Kawikaan 24:15"
+  },
+  {
+    "text": "Huwag kang magalak pagka ang iyong kaaway ay nabubuwal, at huwag matuwa ang iyong puso pagka siya'y nabubuwal:",
+    "reference": "Mga Kawikaan 24:17 (ADB1905)",
+    "connected_to": "Mga Kawikaan 24:18",
+    "connected_from": "Mga Kawikaan 24:16"
+  },
+  {
+    "text": "Baka makita ng Panginoon, at ipagdamdam ng loob siya, at kaniyang ihiwalay ang poot niya sa kaniya.",
+    "reference": "Mga Kawikaan 24:18 (ADB1905)",
+    "connected_to": "Mga Kawikaan 24:19",
+    "connected_from": "Mga Kawikaan 24:17"
+  },
+  {
+    "text": "Huwag kang mabalisa dahil sa mga manggagawa ng masama; ni maging mapanaghiliin ka man sa masama:",
+    "reference": "Mga Kawikaan 24:19 (ADB1905)",
+    "connected_to": "Mga Kawikaan 24:20",
+    "connected_from": "Mga Kawikaan 24:18"
+  },
+  {
+    "text": "Sapagka't hindi magkakaroon ng kagantihan sa masamang tao; ang ilawan ng masama ay papatayin.",
+    "reference": "Mga Kawikaan 24:20 (ADB1905)",
+    "connected_to": "Mga Kawikaan 24:21",
+    "connected_from": "Mga Kawikaan 24:19"
+  },
+  {
+    "text": "Anak ko, matakot ka sa Panginoon at sa hari: at huwag kang makisalamuha sa kanila na mapagbago:",
+    "reference": "Mga Kawikaan 24:21 (ADB1905)",
+    "connected_to": "Mga Kawikaan 24:22",
+    "connected_from": "Mga Kawikaan 24:20"
+  },
+  {
+    "text": "Sapagka't ang kanilang kasakunaan ay darating na bigla; at sinong nakakaalam ng kasiraan nila kapuwa?",
+    "reference": "Mga Kawikaan 24:22 (ADB1905)",
+    "connected_to": "Mga Kawikaan 24:23",
+    "connected_from": "Mga Kawikaan 24:21"
+  },
+  {
+    "text": "Ang mga ito man ay sabi rin ng pantas. Magkaroon ng pagtangi ng mga pagkatao sa kahatulan, ay hindi mabuti.",
+    "reference": "Mga Kawikaan 24:23 (ADB1905)",
+    "connected_to": "Mga Kawikaan 24:24",
+    "connected_from": "Mga Kawikaan 24:22"
+  },
+  {
+    "text": "Siyang nagsasabi sa masama, Ikaw ay matuwid; susumpain siya ng mga bayan, kayayamutan siya ng mga bansa:",
+    "reference": "Mga Kawikaan 24:24 (ADB1905)",
+    "connected_to": "Mga Kawikaan 24:25",
+    "connected_from": "Mga Kawikaan 24:23"
+  },
+  {
+    "text": "Nguni't silang nagsisisaway sa kaniya ay magkakaroon ng kaluguran, at ang mabuting pagpapala ay darating sa kanila.",
+    "reference": "Mga Kawikaan 24:25 (ADB1905)",
+    "connected_to": "Mga Kawikaan 24:26",
+    "connected_from": "Mga Kawikaan 24:24"
+  },
+  {
+    "text": "Siya'y humahalik sa mga labi niyaong nagbibigay ng matuwid na sagot.",
+    "reference": "Mga Kawikaan 24:26 (ADB1905)",
+    "connected_to": "Mga Kawikaan 24:27",
+    "connected_from": "Mga Kawikaan 24:25"
+  },
+  {
+    "text": "Ihanda mo ang iyong gawa sa labas, at ihanda mo sa iyo sa parang; at pagkatapos ay itayo mo ang iyong bahay.",
+    "reference": "Mga Kawikaan 24:27 (ADB1905)",
+    "connected_to": "Mga Kawikaan 24:28",
+    "connected_from": "Mga Kawikaan 24:26"
+  },
+  {
+    "text": "Huwag kang sumaksi laban sa iyong kapuwa ng walang kadahilanan; at huwag kang magdaya ng iyong mga labi.",
+    "reference": "Mga Kawikaan 24:28 (ADB1905)",
+    "connected_to": "Mga Kawikaan 24:29",
+    "connected_from": "Mga Kawikaan 24:27"
+  },
+  {
+    "text": "Huwag mong sabihin, gagawin kong gayon sa kaniya na gaya ng ginawa niya sa akin: aking ibibigay sa tao ang ayon sa kaniyang gawa.",
+    "reference": "Mga Kawikaan 24:29 (ADB1905)",
+    "connected_to": "Mga Kawikaan 24:30",
+    "connected_from": "Mga Kawikaan 24:28"
+  },
+  {
+    "text": "Ako'y nagdaan sa tabi ng bukid ng tamad, at sa tabi ng ubasan ng taong salat sa unawa;",
+    "reference": "Mga Kawikaan 24:30 (ADB1905)",
+    "connected_to": "Mga Kawikaan 24:31",
+    "connected_from": "Mga Kawikaan 24:29"
+  },
+  {
+    "text": "At, narito, tinubuang lahat ng mga tinik, ang ibabaw niyaon ay natakpan ng mga dawag, at ang bakod na bato ay nabagsak.",
+    "reference": "Mga Kawikaan 24:31 (ADB1905)",
+    "connected_to": "Mga Kawikaan 24:32",
+    "connected_from": "Mga Kawikaan 24:30"
+  },
+  {
+    "text": "Ako nga'y tumingin, at aking binulay na mabuti: aking nakita, at tumanggap ako ng turo.",
+    "reference": "Mga Kawikaan 24:32 (ADB1905)",
+    "connected_to": "Mga Kawikaan 24:33",
+    "connected_from": "Mga Kawikaan 24:31"
+  },
+  {
+    "text": "Kaunti pang tulog, kaunti pang idlip, kaunti pang paghahalukipkip ng mga kamay upang matulog:",
+    "reference": "Mga Kawikaan 24:33 (ADB1905)",
+    "connected_to": "Mga Kawikaan 24:34",
+    "connected_from": "Mga Kawikaan 24:32"
+  },
+  {
+    "text": "Gayon darating ang iyong karalitaan na parang magnanakaw; at ang iyong kasalatan na parang nasasandatahang tao.",
+    "reference": "Mga Kawikaan 24:34 (ADB1905)",
+    "connected_from": "Mga Kawikaan 24:33"
+  }
+]

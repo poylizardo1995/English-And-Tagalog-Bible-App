@@ -1,0 +1,102 @@
+[
+  {
+    "text": " Ang awit ng mga awit, na kay Salomon.",
+    "reference": "Ang Awit ng mga Awit 1:1 (ADB1905)",
+    "connected_to": "Ang Awit ng mga Awit 1:2"
+  },
+  {
+    "text": "Hagkan niya ako ng mga halik ng kaniyang bibig: sapagka't ang iyong pagsinta ay maigi kay sa alak.",
+    "reference": "Ang Awit ng mga Awit 1:2 (ADB1905)",
+    "connected_to": "Ang Awit ng mga Awit 1:3",
+    "connected_from": "Ang Awit ng mga Awit 1:1"
+  },
+  {
+    "text": "Ang iyong mga langis ay may masarap na amoy; ang iyong pangalan ay gaya ng langis na ibinuhos; kaya't sinisinta ka ng mga dalaga.",
+    "reference": "Ang Awit ng mga Awit 1:3 (ADB1905)",
+    "connected_to": "Ang Awit ng mga Awit 1:4",
+    "connected_from": "Ang Awit ng mga Awit 1:2"
+  },
+  {
+    "text": "Batakin mo ako, tatakbo kaming kasunod mo: Ipinasok ako ng hari sa kaniyang mga silid: kami ay matutuwa at magagalak sa iyo. Aming babanggitin ang iyong pagsinta ng higit kay sa alak: matuwid ang pagsinta nila sa iyo.",
+    "reference": "Ang Awit ng mga Awit 1:4 (ADB1905)",
+    "connected_to": "Ang Awit ng mga Awit 1:5",
+    "connected_from": "Ang Awit ng mga Awit 1:3"
+  },
+  {
+    "text": "Ako'y maitim, nguni't kahalihalina, Oh kayong mga anak na babae ng Jerusalem, gaya ng mga tolda sa Cedar, gaya ng mga tabing ni Salomon.",
+    "reference": "Ang Awit ng mga Awit 1:5 (ADB1905)",
+    "connected_to": "Ang Awit ng mga Awit 1:6",
+    "connected_from": "Ang Awit ng mga Awit 1:4"
+  },
+  {
+    "text": "Huwag ninyo akong masdan dahil sa ako'y kayumanggi, sapagka't sinunog ako ng araw. Ang mga anak ng aking ina ay nagalit laban sa akin, kanilang ginawa akong tagapagingat ng mga ubasan; nguni't ang sarili kong ubasan ay hindi ko iningatan.",
+    "reference": "Ang Awit ng mga Awit 1:6 (ADB1905)",
+    "connected_to": "Ang Awit ng mga Awit 1:7",
+    "connected_from": "Ang Awit ng mga Awit 1:5"
+  },
+  {
+    "text": "Saysayin mo sa akin, ikaw na sinisinta ng aking kaluluwa, kung saan mo pinapastulan ang iyong kawan, kung saan mo pinagpapahinga sa katanghaliang tapat: sapagka't bakit ako'y magiging gaya ng nalalambungan sa siping ng mga kawan ng iyong mga kasama?",
+    "reference": "Ang Awit ng mga Awit 1:7 (ADB1905)",
+    "connected_to": "Ang Awit ng mga Awit 1:8",
+    "connected_from": "Ang Awit ng mga Awit 1:6"
+  },
+  {
+    "text": "Kung hindi mo nalalaman, Oh ikaw na pinakamaganda sa mga babae, yumaon kang sumunod sa mga bakas ng kawan, at pastulan mo ang iyong mga anak ng kambing sa siping ng mga tolda ng mga pastor.",
+    "reference": "Ang Awit ng mga Awit 1:8 (ADB1905)",
+    "connected_to": "Ang Awit ng mga Awit 1:9",
+    "connected_from": "Ang Awit ng mga Awit 1:7"
+  },
+  {
+    "text": "Aking itinulad ka, Oh aking sinta, sa isang kabayo sa mga karo ni Faraon.",
+    "reference": "Ang Awit ng mga Awit 1:9 (ADB1905)",
+    "connected_to": "Ang Awit ng mga Awit 1:10",
+    "connected_from": "Ang Awit ng mga Awit 1:8"
+  },
+  {
+    "text": "Pinagaganda ang iyong mga pisngi ng mga tirintas ng buhok, ang iyong leeg ng mga kuwintas na hiyas.",
+    "reference": "Ang Awit ng mga Awit 1:10 (ADB1905)",
+    "connected_to": "Ang Awit ng mga Awit 1:11",
+    "connected_from": "Ang Awit ng mga Awit 1:9"
+  },
+  {
+    "text": "Igagawa ka namin ng mga kuwintas na ginto na may mga kabit na pilak.",
+    "reference": "Ang Awit ng mga Awit 1:11 (ADB1905)",
+    "connected_to": "Ang Awit ng mga Awit 1:12",
+    "connected_from": "Ang Awit ng mga Awit 1:10"
+  },
+  {
+    "text": "Samantalang ang hari ay nauupo sa kaniyang dulang, ang aking nardo ay humahalimuyak ng kaniyang bango.",
+    "reference": "Ang Awit ng mga Awit 1:12 (ADB1905)",
+    "connected_to": "Ang Awit ng mga Awit 1:13",
+    "connected_from": "Ang Awit ng mga Awit 1:11"
+  },
+  {
+    "text": "Ang aking sinta ay gaya ng bigkis ng mira sa akin, na humihilig sa pagitan ng aking mga suso.",
+    "reference": "Ang Awit ng mga Awit 1:13 (ADB1905)",
+    "connected_to": "Ang Awit ng mga Awit 1:14",
+    "connected_from": "Ang Awit ng mga Awit 1:12"
+  },
+  {
+    "text": "Ang sinta ko ay gaya ng kumpol ng bulaklak ng alhena sa akin sa mga ubasan ng En-gadi.",
+    "reference": "Ang Awit ng mga Awit 1:14 (ADB1905)",
+    "connected_to": "Ang Awit ng mga Awit 1:15",
+    "connected_from": "Ang Awit ng mga Awit 1:13"
+  },
+  {
+    "text": "Narito, ikaw ay maganda, sinta ko, narito, ikaw ay maganda; ang iyong mga mata ay gaya ng mga kalapati.",
+    "reference": "Ang Awit ng mga Awit 1:15 (ADB1905)",
+    "connected_to": "Ang Awit ng mga Awit 1:16",
+    "connected_from": "Ang Awit ng mga Awit 1:14"
+  },
+  {
+    "text": "Narito, ikaw ay maganda sinisinta ko, oo, maligaya: ang ating higaan naman ay lungtian.",
+    "reference": "Ang Awit ng mga Awit 1:16 (ADB1905)",
+    "connected_to": "Ang Awit ng mga Awit 1:17",
+    "connected_from": "Ang Awit ng mga Awit 1:15"
+  },
+  {
+    "text": "Ang mga kilo ng ating bahay ay mga sedro, at ang kaniyang mga bubong ay mga sipres.",
+    "reference": "Ang Awit ng mga Awit 1:17 (ADB1905)",
+    "connected_from": "Ang Awit ng mga Awit 1:16"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "text": "Aking pupurihin ang Panginoon sa buong panahon: ang pagpuri sa kaniya ay laging sasa aking bibig.",
+    "reference": "Mga Awit 34:1 (ADB1905)",
+    "connected_to": "Mga Awit 34:2"
+  },
+  {
+    "text": "Ang aking kaluluwa ay maghahambog sa Panginoon: maririnig ng maamo at masasayahan.",
+    "reference": "Mga Awit 34:2 (ADB1905)",
+    "connected_to": "Mga Awit 34:3",
+    "connected_from": "Mga Awit 34:1"
+  },
+  {
+    "text": "Oh dakilain ninyo na kasama ko ang Panginoon, at tayo'y mangagbunyi na magkakasama ng kaniyang pangalan.",
+    "reference": "Mga Awit 34:3 (ADB1905)",
+    "connected_to": "Mga Awit 34:4",
+    "connected_from": "Mga Awit 34:2"
+  },
+  {
+    "text": "Aking hinanap ang Panginoon, at sinagot niya ako, at iniligtas niya ako sa lahat ng aking mga katakutan.",
+    "reference": "Mga Awit 34:4 (ADB1905)",
+    "connected_to": "Mga Awit 34:5",
+    "connected_from": "Mga Awit 34:3"
+  },
+  {
+    "text": "Sila'y nagsitingin sa kaniya, at nangaliwanagan: at ang kanilang mukha ay hindi malilito kailan man.",
+    "reference": "Mga Awit 34:5 (ADB1905)",
+    "connected_to": "Mga Awit 34:6",
+    "connected_from": "Mga Awit 34:4"
+  },
+  {
+    "text": "Itong abang tao'y dumaing, at dininig siya ng Panginoon. At iniligtas siya sa lahat niyang mga kabagabagan.",
+    "reference": "Mga Awit 34:6 (ADB1905)",
+    "connected_to": "Mga Awit 34:7",
+    "connected_from": "Mga Awit 34:5"
+  },
+  {
+    "text": "Ang anghel ng Panginoon ay humahantong sa buong palibot ng nangatatakot sa kaniya, at ipinagsasanggalang sila.",
+    "reference": "Mga Awit 34:7 (ADB1905)",
+    "connected_to": "Mga Awit 34:8",
+    "connected_from": "Mga Awit 34:6"
+  },
+  {
+    "text": "Oh inyong tikman at tingnan ninyo na ang Panginoon ay mabuti: mapalad ang tao na nanganganlong sa kaniya.",
+    "reference": "Mga Awit 34:8 (ADB1905)",
+    "connected_to": "Mga Awit 34:9",
+    "connected_from": "Mga Awit 34:7"
+  },
+  {
+    "text": "Oh mangatakot kayo sa Panginoon, kayong mga banal niya: sapagka't walang kakulangan sa kanila na nangatatakot sa kaniya.",
+    "reference": "Mga Awit 34:9 (ADB1905)",
+    "connected_to": "Mga Awit 34:10",
+    "connected_from": "Mga Awit 34:8"
+  },
+  {
+    "text": "Ang mga batang leon ay kinakapos at nagtitiis ng gutom. Nguni't silang nagsisihanap sa Panginoon ay hindi kukulangin ng anomang mabuting bagay.",
+    "reference": "Mga Awit 34:10 (ADB1905)",
+    "connected_to": "Mga Awit 34:11",
+    "connected_from": "Mga Awit 34:9"
+  },
+  {
+    "text": "Magsiparito kayo, kayong mga anak, dinggin ninyo ako: aking tuturuan kayo ng pagkatakot sa Panginoon.",
+    "reference": "Mga Awit 34:11 (ADB1905)",
+    "connected_to": "Mga Awit 34:12",
+    "connected_from": "Mga Awit 34:10"
+  },
+  {
+    "text": "Sinong tao ang nagnanasa ng buhay, at umiibig sa maraming kaarawan upang makakita siya ng mabuti?",
+    "reference": "Mga Awit 34:12 (ADB1905)",
+    "connected_to": "Mga Awit 34:13",
+    "connected_from": "Mga Awit 34:11"
+  },
+  {
+    "text": "Ingatan mo ang iyong dila mula sa masama. At ang iyong mga labi sa pagsasalita ng karayaan.",
+    "reference": "Mga Awit 34:13 (ADB1905)",
+    "connected_to": "Mga Awit 34:14",
+    "connected_from": "Mga Awit 34:12"
+  },
+  {
+    "text": "Lumayo ka sa kasamaan, at gumawa ka ng mabuti; hanapin mo ang kapayapaan at habulin mo.",
+    "reference": "Mga Awit 34:14 (ADB1905)",
+    "connected_to": "Mga Awit 34:15",
+    "connected_from": "Mga Awit 34:13"
+  },
+  {
+    "text": "Ang mga mata ng Panginoon ay nakatitig sa mga matuwid, at ang kaniyang mga pakinig ay nakabukas sa kanilang daing.",
+    "reference": "Mga Awit 34:15 (ADB1905)",
+    "connected_to": "Mga Awit 34:16",
+    "connected_from": "Mga Awit 34:14"
+  },
+  {
+    "text": "Ang mukha ng Panginoon ay laban sa kanila na nagsisigawa ng kasamaan, upang ihiwalay ang alaala sa kanila sa lupa.",
+    "reference": "Mga Awit 34:16 (ADB1905)",
+    "connected_to": "Mga Awit 34:17",
+    "connected_from": "Mga Awit 34:15"
+  },
+  {
+    "text": "Ang matuwid ay nagsidaing, at dininig ng Panginoon, at iniligtas sila sa lahat nilang mga kabagabagan.",
+    "reference": "Mga Awit 34:17 (ADB1905)",
+    "connected_to": "Mga Awit 34:18",
+    "connected_from": "Mga Awit 34:16"
+  },
+  {
+    "text": "Ang Panginoon ay malapit sa kanila na may bagbag na puso, at inililigtas ang mga may pagsisising diwa.",
+    "reference": "Mga Awit 34:18 (ADB1905)",
+    "connected_to": "Mga Awit 34:19",
+    "connected_from": "Mga Awit 34:17"
+  },
+  {
+    "text": "Marami ang kadalamhatian ng matuwid; nguni't inililigtas ng Panginoon sa lahat.",
+    "reference": "Mga Awit 34:19 (ADB1905)",
+    "connected_to": "Mga Awit 34:20",
+    "connected_from": "Mga Awit 34:18"
+  },
+  {
+    "text": "Kaniyang iniingatan ang lahat niyang mga buto: wala isa man sa mga yaon na nababali.",
+    "reference": "Mga Awit 34:20 (ADB1905)",
+    "connected_to": "Mga Awit 34:21",
+    "connected_from": "Mga Awit 34:19"
+  },
+  {
+    "text": "Papatayin ng kasamaan ang masama: at silang nangagagalit sa matuwid na tao ay kikilanling may sala.",
+    "reference": "Mga Awit 34:21 (ADB1905)",
+    "connected_to": "Mga Awit 34:22",
+    "connected_from": "Mga Awit 34:20"
+  },
+  {
+    "text": "Tinutubos ng Panginoon ang kaluluwa ng kaniyang mga lingkod: at wala sa nagsisipagkanlong sa kaniya ay kikilanling may sala.",
+    "reference": "Mga Awit 34:22 (ADB1905)",
+    "connected_from": "Mga Awit 34:21"
+  }
+]

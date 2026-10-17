@@ -1,0 +1,126 @@
+[
+  {
+    "text": "Mga kapatid, ang nais ng aking puso at ang aking panalangin sa Dios ay patungkol sa kanila, upang sila'y mangaligtas.",
+    "reference": "Roma 10:1 (ADB1905)",
+    "connected_to": "Roma 10:2"
+  },
+  {
+    "text": "Sapagka't sila'y pinatotohanan ko na may mga pagmamalasakit sa Dios, datapuwa't hindi ayon sa pagkakilala.",
+    "reference": "Roma 10:2 (ADB1905)",
+    "connected_to": "Roma 10:3",
+    "connected_from": "Roma 10:1"
+  },
+  {
+    "text": "Sapagka't sa hindi nila pagkaalam ng katuwiran ng Dios, at sa pagsusumakit na maitayo ang sariling kanila, ay hindi sila napasakop sa katuwiran ng Dios.",
+    "reference": "Roma 10:3 (ADB1905)",
+    "connected_to": "Roma 10:4",
+    "connected_from": "Roma 10:2"
+  },
+  {
+    "text": "Sapagka't si Cristo ang kinauuwian ng kautusan sa ikatutuwid ng bawa't sumasampalataya.",
+    "reference": "Roma 10:4 (ADB1905)",
+    "connected_to": "Roma 10:5",
+    "connected_from": "Roma 10:3"
+  },
+  {
+    "text": "Sapagka't isinulat ni Moises na ang tao na gumagawa ng katuwirang ayon sa kautusan ay mabubuhay dahil dito.",
+    "reference": "Roma 10:5 (ADB1905)",
+    "connected_to": "Roma 10:6",
+    "connected_from": "Roma 10:4"
+  },
+  {
+    "text": "Datapuwa't sinasabi ng katuwiran ayon sa pananampalataya ang ganito, Huwag mong sabihin sa iyong puso, Sino ang aakyat sa langit? (sa makatuwid baga'y upang ibaba si Cristo:)",
+    "reference": "Roma 10:6 (ADB1905)",
+    "connected_to": "Roma 10:7",
+    "connected_from": "Roma 10:5"
+  },
+  {
+    "text": "O, Sino ang mananaog sa kalalimlaliman? (sa makatuwid baga'y upang iakyat si Cristo mula sa mga patay.)",
+    "reference": "Roma 10:7 (ADB1905)",
+    "connected_to": "Roma 10:8",
+    "connected_from": "Roma 10:6"
+  },
+  {
+    "text": "Datapuwa't ano ang sinasabi nito? Ang salita ay malapit sa iyo, sa iyong bibig, at sa iyong puso: sa makatuwid baga'y ang salita ng pananampalataya na aming ipinangangaral:",
+    "reference": "Roma 10:8 (ADB1905)",
+    "connected_to": "Roma 10:9",
+    "connected_from": "Roma 10:7"
+  },
+  {
+    "text": "Sapagka't kung ipahahayag mo ng iyong bibig si Jesus na Panginoon, at sasampalataya ka sa iyong puso na binuhay siyang maguli ng Dios sa mga patay ay maliligtas ka:",
+    "reference": "Roma 10:9 (ADB1905)",
+    "connected_to": "Roma 10:10",
+    "connected_from": "Roma 10:8"
+  },
+  {
+    "text": "Sapagka't ang tao'y nanampalataya ng puso sa ikatutuwid; at ginagawa sa pamamagitan ng bibig ang pagpapahayag sa ikaliligtas.",
+    "reference": "Roma 10:10 (ADB1905)",
+    "connected_to": "Roma 10:11",
+    "connected_from": "Roma 10:9"
+  },
+  {
+    "text": "Sapagka't sinasabi ng kasulatan, Ang lahat na sa kaniya'y nagsisisampalataya ay hindi mapapahiya.",
+    "reference": "Roma 10:11 (ADB1905)",
+    "connected_to": "Roma 10:12",
+    "connected_from": "Roma 10:10"
+  },
+  {
+    "text": "Sapagka't walang pagkakaiba ang Judio at ang Griego: sapagka't ang Panginoon din ay siyang Panginoon ng lahat, at mayaman siya sa lahat ng sa kaniya'y nagsisitawag:",
+    "reference": "Roma 10:12 (ADB1905)",
+    "connected_to": "Roma 10:13",
+    "connected_from": "Roma 10:11"
+  },
+  {
+    "text": "Sapagka't, Ang lahat na nagsisitawag sa pangalan ng Panginoon ay mangaliligtas.",
+    "reference": "Roma 10:13 (ADB1905)",
+    "connected_to": "Roma 10:14",
+    "connected_from": "Roma 10:12"
+  },
+  {
+    "text": "Paano nga silang magsisitawag doon sa hindi nila sinampalatayanan? at paano silang magsisisampalataya sa kaniya na hindi nila napakinggan? at paano silang mangakikinig na walang tagapangaral?",
+    "reference": "Roma 10:14 (ADB1905)",
+    "connected_to": "Roma 10:15",
+    "connected_from": "Roma 10:13"
+  },
+  {
+    "text": "At paano silang magsisipangaral, kung hindi sila nga sinugo? gaya nga ng nasusulat, Anong pagkaganda ng mga paa niyaong mga nagdadala ng masasayang balita ng mga bagay na mabuti!",
+    "reference": "Roma 10:15 (ADB1905)",
+    "connected_to": "Roma 10:16",
+    "connected_from": "Roma 10:14"
+  },
+  {
+    "text": "Datapuwa't hindi silang lahat ay nakinig ng masasayang balita. Sapagka't sinasabi ni Isaias, Panginoon, sino ang naniwala sa aming balita?",
+    "reference": "Roma 10:16 (ADB1905)",
+    "connected_to": "Roma 10:17",
+    "connected_from": "Roma 10:15"
+  },
+  {
+    "text": "Kaya nga ang paniniwala'y nanggagaling sa pakikinig, at ang pakikinig ay sa pamamagitan ng salita ni Cristo.",
+    "reference": "Roma 10:17 (ADB1905)",
+    "connected_to": "Roma 10:18",
+    "connected_from": "Roma 10:16"
+  },
+  {
+    "text": "Datapuwa't sinasabi ko, Hindi baga sila'y nangakinig? Oo, tunay nga, Ang tinig nila ay kumalat sa buong lupa, At ang kanilang mga salita'y hanggang sa mga dulo ng sanglibutan.",
+    "reference": "Roma 10:18 (ADB1905)",
+    "connected_to": "Roma 10:19",
+    "connected_from": "Roma 10:17"
+  },
+  {
+    "text": "Datapuwa't sinasabi ko, Hindi baga nalalaman ng Israel? Unauna'y sinasabi ni Moises, Ipamumungkahi ko kayo sa paninibugho sa pamamagitan niyaong hindi bansa, Sa pamamagitan ng isang bansang mangmang ay gagalitin ko kayo.",
+    "reference": "Roma 10:19 (ADB1905)",
+    "connected_to": "Roma 10:20",
+    "connected_from": "Roma 10:18"
+  },
+  {
+    "text": "At si Isaias ay buong tapang na nagsasabi, Ako'y nasumpungan nilang mga hindi nagsisihanap sa akin; Nahayag ako sa kanilang mga hindi nagsisipagtanong tungkol sa akin.",
+    "reference": "Roma 10:20 (ADB1905)",
+    "connected_to": "Roma 10:21",
+    "connected_from": "Roma 10:19"
+  },
+  {
+    "text": "Datapuwa't tungkol sa Israel ay sinasabi niya, Sa buong araw ay iniunat ko ang aking mga kamay sa isang bayang suwail at matutol.",
+    "reference": "Roma 10:21 (ADB1905)",
+    "connected_from": "Roma 10:20"
+  }
+]

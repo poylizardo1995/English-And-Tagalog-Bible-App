@@ -1,0 +1,84 @@
+[
+  {
+    "text": "Sa matatanda nga sa inyo'y umaaral ako, akong matandang kasamahan ninyo, at isang saksi ng mga hirap ni Cristo, na may bahagi naman sa kaluwalhatiang ihahayag:",
+    "reference": "1 Pedro 5:1 (ADB1905)",
+    "connected_to": "1 Pedro 5:2"
+  },
+  {
+    "text": "Pangalagaan ninyo ang kawan ng Dios na nasa inyo, na magsigamit kayo ng pagpupuno, na hindi sapilitan, kundi may kasayahan, na ayon sa kalooban ng Dios; ni hindi dahil sa mahalay na kapakinabangan, kundi sa handang pagiisip;",
+    "reference": "1 Pedro 5:2 (ADB1905)",
+    "connected_to": "1 Pedro 5:3",
+    "connected_from": "1 Pedro 5:1"
+  },
+  {
+    "text": "Ni hindi din naman ang gaya ng kayo'y may pagkapanginoon sa pinangangasiwaang ipinagtagubilin sa inyo, kundi kayo'y maging mga uliran ng kawan.",
+    "reference": "1 Pedro 5:3 (ADB1905)",
+    "connected_to": "1 Pedro 5:4",
+    "connected_from": "1 Pedro 5:2"
+  },
+  {
+    "text": "At pagkahayag ng pangulong Pastor, ay magsisitanggap kayo ng di nasisirang putong ng kaluwalhatian.",
+    "reference": "1 Pedro 5:4 (ADB1905)",
+    "connected_to": "1 Pedro 5:5",
+    "connected_from": "1 Pedro 5:3"
+  },
+  {
+    "text": "Gayon din naman, kayong mga kabataan, ay magsisuko sa matatanda. Oo, kayong lahat ay mangagbigkis ng kapakumbabaan, na kayo-kayo'y maglingkuran: sapagka't ang Dios ay sumasalangsang sa mga palalo, datapuwa't nagbibigay ng biyaya sa mga mapagpakumbaba.",
+    "reference": "1 Pedro 5:5 (ADB1905)",
+    "connected_to": "1 Pedro 5:6",
+    "connected_from": "1 Pedro 5:4"
+  },
+  {
+    "text": "Kaya't kayo'y mangagpakababa sa ilalim ng makapangyarihang kamay ng Dios, upang kayo'y kaniyang itaas sa kapanahunan;",
+    "reference": "1 Pedro 5:6 (ADB1905)",
+    "connected_to": "1 Pedro 5:7",
+    "connected_from": "1 Pedro 5:5"
+  },
+  {
+    "text": "Na inyong ilagak sa kaniya ang lahat ng inyong kabalisahan, sapagka't kayo'y ipinagmamalasakit niya.",
+    "reference": "1 Pedro 5:7 (ADB1905)",
+    "connected_to": "1 Pedro 5:8",
+    "connected_from": "1 Pedro 5:6"
+  },
+  {
+    "text": "Kayo'y maging mapagpigil, kayo'y maging mapagpuyat; ang inyong kalaban na diablo, na gaya ng leong umuungal, ay gumagala na humahanap ng masisila niya:",
+    "reference": "1 Pedro 5:8 (ADB1905)",
+    "connected_to": "1 Pedro 5:9",
+    "connected_from": "1 Pedro 5:7"
+  },
+  {
+    "text": "Na siya'y labanan ninyong matatag sa inyong pananampalataya, yamang inyong nalalaman na ang mga gayong hirap ay nagaganap sa inyong mga kapatid na nangasa sanglibutan.",
+    "reference": "1 Pedro 5:9 (ADB1905)",
+    "connected_to": "1 Pedro 5:10",
+    "connected_from": "1 Pedro 5:8"
+  },
+  {
+    "text": "At ang Dios ng buong biyaya na sa inyo'y tumawag sa kaniyang walang hanggang kaluwalhatian kay Cristo, pagkatapos na kayo'y makapagbatang sangdaling panahon, ay siya rin ang magpapasakdal, magpapatibay, at magpapalakas sa inyo.",
+    "reference": "1 Pedro 5:10 (ADB1905)",
+    "connected_to": "1 Pedro 5:11",
+    "connected_from": "1 Pedro 5:9"
+  },
+  {
+    "text": "Sumasakaniya nawa ang paghahari magpakailan man. Siya nawa.",
+    "reference": "1 Pedro 5:11 (ADB1905)",
+    "connected_to": "1 Pedro 5:12",
+    "connected_from": "1 Pedro 5:10"
+  },
+  {
+    "text": "Sa pamamagitan ni Silvano, na tapat nating kapatid, ayon sa aking palagay sa kaniya, ay sinulatan ko kayo ng maiksi, na aking iniaaral at sinasaksihan na ito ang tunay na biyaya ng Dios: magsitibay kayo dito.",
+    "reference": "1 Pedro 5:12 (ADB1905)",
+    "connected_to": "1 Pedro 5:13",
+    "connected_from": "1 Pedro 5:11"
+  },
+  {
+    "text": "Binabati kayo ng nasa Babilonia, na kasamang hinirang; at ni Marcos na aking anak.",
+    "reference": "1 Pedro 5:13 (ADB1905)",
+    "connected_to": "1 Pedro 5:14",
+    "connected_from": "1 Pedro 5:12"
+  },
+  {
+    "text": "Mangagbatian kayo ng halik ng pagibig. Kapayapaan nawa ang sumainyong lahat na na kay Cristo.",
+    "reference": "1 Pedro 5:14 (ADB1905)",
+    "connected_from": "1 Pedro 5:13"
+  }
+]

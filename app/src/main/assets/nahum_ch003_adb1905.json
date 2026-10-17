@@ -1,0 +1,114 @@
+[
+  {
+    "text": "Sa aba ng mabagsik na bayan! siya'y puspos na lubos ng kabulaanan at mga agaw; ang panghuhuli ay hindi tumitigil.",
+    "reference": "Nahum 3:1 (ADB1905)",
+    "connected_to": "Nahum 3:2"
+  },
+  {
+    "text": "Ang higing ng panghagupit, at ang hugong ng pihit ng mga gulong, at ng mga madambang kabayo, at ng lukso ng mga karo,",
+    "reference": "Nahum 3:2 (ADB1905)",
+    "connected_to": "Nahum 3:3",
+    "connected_from": "Nahum 3:1"
+  },
+  {
+    "text": "Ang sakay ng mga mangangabayo, at ang kinang ng tabak; at ang kislap ng sibat, at isang karamihan na patay, ay malaking bunton ng mga bangkay, at walang katapusang mga bangkay; sila'y nangatitisod sa kanilang mga bangkay;",
+    "reference": "Nahum 3:3 (ADB1905)",
+    "connected_to": "Nahum 3:4",
+    "connected_from": "Nahum 3:2"
+  },
+  {
+    "text": "Dahil sa karamihan ng pagpapatutot ng minagandang patutot, na panguna ng pangeenkanto, na nagbibili ng mga bansa sa pamamagitan ng kaniyang pagpapatutot, at ng mga angkan sa pamamagitan ng kaniyang mga pangeenkanto.",
+    "reference": "Nahum 3:4 (ADB1905)",
+    "connected_to": "Nahum 3:5",
+    "connected_from": "Nahum 3:3"
+  },
+  {
+    "text": "Narito, ako'y laban sa iyo, sabi ng Panginoon ng mga hukbo, at aking ilililis ang iyong laylayan sa harap mo; at aking ipakikita sa mga bansa ang iyong kahubaran, at sa mga kaharian ang iyong kahihiyan.",
+    "reference": "Nahum 3:5 (ADB1905)",
+    "connected_to": "Nahum 3:6",
+    "connected_from": "Nahum 3:4"
+  },
+  {
+    "text": "At aking ihahagis sa iyo ang kasuklamsuklam na karumihan, at gagawin kitang hamak, at ilalagay kitang pinakakutya.",
+    "reference": "Nahum 3:6 (ADB1905)",
+    "connected_to": "Nahum 3:7",
+    "connected_from": "Nahum 3:5"
+  },
+  {
+    "text": "At mangyayari, na ang lahat na mangakakakita sa iyo, ay iilag sa iyo, at mangagsasabi, Ang Ninive ay nahahandusay na sira: sinong mananaghoy sa kaniya? saan ako hahanap ng mga mangaaliw sa iyo?",
+    "reference": "Nahum 3:7 (ADB1905)",
+    "connected_to": "Nahum 3:8",
+    "connected_from": "Nahum 3:6"
+  },
+  {
+    "text": "Ikaw baga'y mabuti pa sa Noamon, na natatayo sa gitna ng mga ilog, na may tubig sa palibot niya; na ang katibaya'y ang dagat, at ang kaniyang kuta ay nasa dagat?",
+    "reference": "Nahum 3:8 (ADB1905)",
+    "connected_to": "Nahum 3:9",
+    "connected_from": "Nahum 3:7"
+  },
+  {
+    "text": "Etiopia at Egipto ang kaniyang mga naging katibayan, at walang hanggan; Phut at Lubim ang iyong mga naging katulong.",
+    "reference": "Nahum 3:9 (ADB1905)",
+    "connected_to": "Nahum 3:10",
+    "connected_from": "Nahum 3:8"
+  },
+  {
+    "text": "Gayon ma'y siya'y nadala, siya'y pumasok sa pagkabihag; ang kaniyang mga anak naman ay pinagputolputol sa dulo ng lahat ng mga lansangan; at pinagsapalaran ang kaniyang mga marangal na tao, at ang lahat niyang mahal na tao ay nangasabiran ng mga tanikala.",
+    "reference": "Nahum 3:10 (ADB1905)",
+    "connected_to": "Nahum 3:11",
+    "connected_from": "Nahum 3:9"
+  },
+  {
+    "text": "Ikaw naman ay malalango; ikaw ay matatago; ikaw rin naman ay hahanap ng katibayan dahil sa kaaway.",
+    "reference": "Nahum 3:11 (ADB1905)",
+    "connected_to": "Nahum 3:12",
+    "connected_from": "Nahum 3:10"
+  },
+  {
+    "text": "Lahat ng iyong kuta ay magiging parang puno ng igos, na may unang hinog na mga igos: kung mga ugugin, nangalalaglag sa bibig ng kumakain.",
+    "reference": "Nahum 3:12 (ADB1905)",
+    "connected_to": "Nahum 3:13",
+    "connected_from": "Nahum 3:11"
+  },
+  {
+    "text": "Narito, ang iyong mga tao sa gitna mo ay mga babae; ang mga pintuang-bayan ng iyong lupain ay nangabubukas ng maluwang sa iyong mga kaaway: nilamon ng apoy ang iyong mga halang.",
+    "reference": "Nahum 3:13 (ADB1905)",
+    "connected_to": "Nahum 3:14",
+    "connected_from": "Nahum 3:12"
+  },
+  {
+    "text": "Umigib ka ng tubig sa pagkakubkob; tibayan mo ang iyong mga katibayan; pumasok ka sa putikan, at yapakan mo ang argamasa, tibayan mo ang hurno ng ladrillo.",
+    "reference": "Nahum 3:14 (ADB1905)",
+    "connected_to": "Nahum 3:15",
+    "connected_from": "Nahum 3:13"
+  },
+  {
+    "text": "Doon ka sasakmalin ng apoy; ihihiwalay ka ng tabak; sasakmalin kang parang uod: magpakarami kang gaya ng uod: magpakarami kang gaya ng balang.",
+    "reference": "Nahum 3:15 (ADB1905)",
+    "connected_to": "Nahum 3:16",
+    "connected_from": "Nahum 3:14"
+  },
+  {
+    "text": "Iyong pinarami ang iyong mga mangangalakal kay sa mga bituin sa langit: ang uod ay sumasamsam, at lumilipad.",
+    "reference": "Nahum 3:16 (ADB1905)",
+    "connected_to": "Nahum 3:17",
+    "connected_from": "Nahum 3:15"
+  },
+  {
+    "text": "Ang iyong mga prinsipe ay parang mga balang, at ang iyong mga pinuno ay parang kawan ng lukton, na nagsisihimpil sa mga bakod sa araw na malamig, nguni't pagka ang araw ay sumikat sila'y nagsisilipad, at ang kanilang dako ay hindi alam kung saan sila nangandoon.",
+    "reference": "Nahum 3:17 (ADB1905)",
+    "connected_to": "Nahum 3:18",
+    "connected_from": "Nahum 3:16"
+  },
+  {
+    "text": "Ang iyong mga pastor ay nangatutulog, Oh hari sa Asiria; ang iyong mga bayani ay nangagpapahinga; ang iyong bayan ay nangangalat sa mga bundok, at walang magpisan sa kanila.",
+    "reference": "Nahum 3:18 (ADB1905)",
+    "connected_to": "Nahum 3:19",
+    "connected_from": "Nahum 3:17"
+  },
+  {
+    "text": "Walang kagamutan sa iyong sakit: ang iyong sugat ay malubha: lahat na makabalita sa iyo ay nagsisipakpak ng kamay dahil sa iyo; sapagka't sinong hindi nadaanan ng iyong kasamaan?",
+    "reference": "Nahum 3:19 (ADB1905)",
+    "connected_from": "Nahum 3:18"
+  }
+]
