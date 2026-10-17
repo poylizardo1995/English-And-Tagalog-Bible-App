@@ -398,7 +398,11 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             setPadding(48, 16, 48, 0)
         }
 
-        val availableTranslations = BibleTranslation.values().filter { it.isAvailable(this) }
+        // Filter available translations strictly matching the currently active language group
+        val currentGroup = BibleRepository.currentTranslation.languageGroup
+        val availableTranslations = BibleTranslation.values()
+            .filter { it.languageGroup == currentGroup && it.isAvailable(this) }
+            
         val translationNames = availableTranslations.map { it.displayName }.toTypedArray()
         
         var selectedTranslationIndex = availableTranslations.indexOf(BibleRepository.currentTranslation)
@@ -406,7 +410,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
         val isDark = currentTheme != ThemeMode.SEPIA
         val spinnerLabel = TextView(this).apply {
-            text = "Select Version:"
+            text = "Select Version ($currentGroup):"
             setTextColor(if (isDark) Color.parseColor("#E0E0E0") else Color.parseColor("#2D241E"))
             textSize = 13f
             setPadding(0, 0, 0, 4)
@@ -423,7 +427,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             
             setOnClickListener {
                 val versionDialog = AlertDialog.Builder(this@MainActivity)
-                    .setTitle("Select Version")
+                    .setTitle("Select $currentGroup Version")
                     .setAdapter(createCenteredListAdapter(translationNames)) { _, which ->
                         selectedTranslationIndex = which
                         text = "${availableTranslations[which].displayName} ▾"
