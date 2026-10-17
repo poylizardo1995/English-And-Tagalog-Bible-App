@@ -627,12 +627,30 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         dialog.findViewById<TextView>(android.R.id.message)?.textSize = 15f
     }
 
-    // --- RESTORED CATEGORIZED BOOK SELECTION DIALOG ---
+    // --- DYNAMIC LOCALIZED CATEGORIZED BOOK SELECTION DIALOG ---
     private fun showBookSelectionDialog() {
         val allBooksAlphabetical = BibleRepository.getAvailableBooks(this).toTypedArray()
+        val isTagalog = BibleRepository.currentTranslation.languageGroup == "Tagalog"
 
-        val categoryMap = linkedMapOf(
-            "📜 OLD TESTAMENT" to arrayOf(
+        val otCategoryTitle = if (isTagalog) "📜 LUMANG TIPAN" else "📜 OLD TESTAMENT"
+        val ntCategoryTitle = if (isTagalog) "✝️ BAGONG TIPAN" else "✝️ NEW TESTAMENT"
+        val allCategoryTitle = if (isTagalog) "📚 LAHAT NG AKLAT (A - Z)" else "📚 ALL BOOKS (A - Z)"
+
+        val otItems = if (isTagalog) {
+            arrayOf(
+                "— Kautusan / Torah —",
+                "Genesis", "Exodo", "Levitico", "Mga Bilang", "Deuteronomio",
+                "— Kasaysayan —",
+                "Josue", "Mga Hukom", "Ruth", "1 Samuel", "2 Samuel", "1 Mga Hari", "2 Mga Hari", "1 Cronica", "2 Cronica", "Ezra", "Nehemias", "Ester",
+                "— Tula at Karunungan —",
+                "Job", "Mga Awit", "Mga Kawikaan", "Eclesiastes", "Ang Awit ng mga Awit",
+                "— Mga Dakilang Propeta —",
+                "Isaias", "Jeremias", "Mga Panaghoy", "Ezekiel", "Daniel",
+                "— Mga Munting Propeta —",
+                "Oseas", "Joel", "Amos", "Obadias", "Jonas", "Mikas", "Nahum", "Habacuc", "Zefanias", "Hagai", "Zacarias", "Malakias"
+            )
+        } else {
+            arrayOf(
                 "— Law / Torah —",
                 "Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy",
                 "— History —",
@@ -643,8 +661,24 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 "Isaiah", "Jeremiah", "Lamentations", "Ezekiel", "Daniel",
                 "— Minor Prophets —",
                 "Hosea", "Joel", "Amos", "Obadiah", "Jonah", "Micah", "Nahum", "Habakkuk", "Zephaniah", "Haggai", "Zechariah", "Malachi"
-            ),
-            "✝️ NEW TESTAMENT" to arrayOf(
+            )
+        }
+
+        val ntItems = if (isTagalog) {
+            arrayOf(
+                "— Mga Ebanghelyo —",
+                "Mateo", "Marcos", "Lucas", "Juan",
+                "— Kasaysayan —",
+                "Mga Gawa",
+                "— Mga Sulat ni Pablo —",
+                "Roma", "1 Corinto", "2 Corinto", "Galacia", "Efeso", "Filipos", "Colosas", "1 Tesalonica", "2 Tesalonica", "1 Timoteo", "2 Timoteo", "Tito", "Filemon",
+                "— Mga Pangkalahatang Sulat —",
+                "Hebreo", "Santiago", "1 Pedro", "2 Pedro", "1 Juan", "2 Juan", "3 Juan", "Judas",
+                "— Hula —",
+                "Pahayag"
+            )
+        } else {
+            arrayOf(
                 "— Gospels —",
                 "Matthew", "Mark", "Luke", "John",
                 "— History —",
@@ -655,8 +689,13 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 "Hebrews", "James", "1 Peter", "2 Peter", "1 John", "2 John", "3 John", "Jude",
                 "— Prophecy —",
                 "Revelation"
-            ),
-            "📚 ALL BOOKS (A - Z)" to allBooksAlphabetical
+            )
+        }
+
+        val categoryMap = linkedMapOf(
+            otCategoryTitle to otItems,
+            ntCategoryTitle to ntItems,
+            allCategoryTitle to allBooksAlphabetical
         )
 
         val categories = categoryMap.keys.toTypedArray()
@@ -683,7 +722,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
         applyThemedDialogStyle(categoryDialog)
     }
-
+    
     private fun showChapterSelectionDialog(bookName: String) {
         val chapters = BibleRepository.getChaptersForBook(bookName, this).toTypedArray()
         val dialog = AlertDialog.Builder(this)
