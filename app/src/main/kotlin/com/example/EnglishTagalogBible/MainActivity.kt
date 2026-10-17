@@ -780,11 +780,104 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
     
     private fun startAutoPlay() {
-        if (!isTtsReady) { showCenteredToast("Speech engine not ready"); return }
+        if (!isTtsReady) { 
+            showCenteredToast("Speech engine not ready")
+            return 
+        }
         isAutoPlaying = true
         btnAutoPlay.text = "⏹ Stop Auto-Play"
+        
+        setupTtsListener()
+        
         currentVerse?.let { speakVerse(it) }
         showCenteredToast("Auto-Play Started")
+    }
+
+    private fun setupTtsListener() {
+        tts?.setOnUtteranceProgressListener(object : UtteranceProgressListener() {
+            override fun onStart(utteranceId: String?) {}
+
+            override fun onDone(utteranceId: String?) {
+                if (!isAutoPlaying) return
+
+                runOnUiThread {
+                    playNextAutoPlayVerse()
+                }
+            }
+
+            override fun onError(utteranceId: String?) {
+                runOnUiThread { stopAutoPlay() }
+            }
+        })
+    }
+
+    private fun playNextAutoPlayVerse() {
+        val verse = currentVerse ?: return
+
+        // 1. Try finding the next verse in the current chapter
+        val nextVerseInChapter = BibleRepository.getNextVerse(verse, this)
+        if (nextVerseInChapter != null) {
+            displayVerse(nextVerseInChapter)
+            speakVerse(nextVerseInChapter)
+            return
+        }
+
+        // 2. End of chapter reached: Handle modes
+        if (autoPlayMode == AutoPlayMode.CHAPTER) {
+            showCenteredToast("Chapter Auto-Play Completed")
+            stopAutoPlay()
+            return
+        }
+
+        // For BOOK or ALL_BOOKS mode: Find the current book and move to next chapter
+        val currentBook = BibleRepository.getAvailableBooks(this).find { book ->
+            verse.reference.startsWith(book, ignoreCase = true)
+        } ?: return
+
+        val chapters = BibleRepository.getChaptersForBook(currentBook, this)
+        val cleanRef = verse.reference.substringBefore(" (").trim()
+        val currentChapter = if (cleanRef.contains(':')) cleanRef.substringBeforeLast(':') else cleanRef
+        val currentChapterIndex = chapters.indexOf(currentChapter)
+
+        if (currentChapterIndex != -1 && currentChapterIndex < chapters.size - 1) {
+            // Next chapter in current book
+            val nextChapter = chapters[currentChapterIndex + 1]
+            val firstVerseOfNextChapter = BibleRepository.getVerseObjectsForChapter(nextChapter, this).firstOrNull()
+            if (firstVerseOfNextChapter != null) {
+                displayVerse(firstVerseOfNextChapter)
+                speakVerse(firstVerseOfNextChapter)
+                return
+            }
+        }
+
+        // 3. End of book reached
+        if (autoPlayMode == AutoPlayMode.BOOK) {
+            showCenteredToast("Book Auto-Play Completed")
+            stopAutoPlay()
+            return
+        }
+
+        // 4. For ALL_BOOKS mode: Move to the first chapter of the next book
+        if (autoPlayMode == AutoPlayMode.ALL_BOOKS) {
+            val allBooks = BibleRepository.getAvailableBooks(this)
+            val currentBookIndex = allBooks.indexOf(currentBook)
+
+            if (currentBookIndex != -1 && currentBookIndex < allBooks.size - 1) {
+                val nextBook = allBooks[currentBookIndex + 1]
+                val firstChapterOfNextBook = BibleRepository.getChaptersForBook(nextBook, this).firstOrNull()
+                if (firstChapterOfNextBook != null) {
+                    val firstVerseOfNextBook = BibleRepository.getVerseObjectsForChapter(firstChapterOfNextBook, this).firstOrNull()
+                    if (firstVerseOfNextBook != null) {
+                        displayVerse(firstVerseOfNextBook)
+                        speakVerse(firstVerseOfNextBook)
+                        return
+                    }
+                }
+            }
+        }
+
+        showCenteredToast("Auto-Play Finished")
+        stopAutoPlay()
     }
 
     private fun stopAutoPlay() {
@@ -1075,10 +1168,14 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
     private fun speakVerse(verse: BibleVerse) {
         if (!isTtsReady || tts == null) return
-        tts?.setLanguage(Locale.US)
-        tts?.speak("${verse.text}. Reference: ${verse.reference}", TextToSpeech.QUEUE_FLUSH, null, "utterance_id")
-    }
 
+        val isTagalog = BibleRepository.currentTranslation.languageGroup == "Tagalog"
+        tts?.language = if (isTagalog) Locale("tl", "PH") else Locale.US
+
+        val utteranceId = "AutoPlay_${System.currentTimeMillis()}"
+        tts?.speak("${verse.text}. Reference: ${verse.reference}", TextToSpeech.QUEUE_FLUSH, null, utteranceId)
+    }
+    
     override fun onInit(status: Int) {
         if (status == TextToSpeech.SUCCESS) {
             isTtsReady = true
