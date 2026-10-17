@@ -624,7 +624,13 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             .create()
 
         applyThemedDialogStyle(dialog)
-        dialog.findViewById<TextView>(android.R.id.message)?.textSize = 15f
+        
+        // Dynamically style the message text for crisp contrast across dark and sepia themes
+        val isDark = currentTheme != ThemeMode.SEPIA
+        dialog.findViewById<TextView>(android.R.id.message)?.apply {
+            textSize = 15f
+            setTextColor(if (isDark) Color.parseColor("#FFFFFF") else Color.parseColor("#2D241E"))
+        }
     }
 
     // --- DYNAMIC LOCALIZED CATEGORIZED BOOK SELECTION DIALOG ---
@@ -755,10 +761,14 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
 
     private fun loadVerse() {
-        val verse = BibleRepository.getRandomVerse(this)
-        displayVerse(verse)
+        // Set default startup verse to John 3:16 (or Tagalog equivalent Juan 3:16)
+        val defaultRef = if (BibleRepository.currentTranslation.languageGroup == "Tagalog") "Juan 3:16" else "John 3:16"
+        val defaultVerse = BibleRepository.getVerseByBookChapterAndVerse(defaultRef, this)
+        
+        val verseToDisplay = defaultVerse ?: BibleRepository.getRandomVerse(this)
+        displayVerse(verseToDisplay)
     }
-
+    
     private fun startAutoPlay() {
         if (!isTtsReady) { showCenteredToast("Speech engine not ready"); return }
         isAutoPlaying = true
