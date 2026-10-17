@@ -958,15 +958,15 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             }
     
             val pillColorHex = when (currentTheme) {
-                ThemeMode.CHARCOAL -> Color.parseColor("#FFB74D")
-                ThemeMode.NAVY -> Color.parseColor("#5C6BC0")
-                ThemeMode.OLIVE -> Color.parseColor("#4CAF50")
-                ThemeMode.SUNSET -> Color.parseColor("#E64A19")
+                ThemeMode.CHARCOAL -> Color.parseColor("#D97706") // Rich Warm Amber
+                ThemeMode.NAVY -> Color.parseColor("#3F51B5")     // Deep Indigo
+                ThemeMode.OLIVE -> Color.parseColor("#2E7D32")    // Forest Green
+                ThemeMode.SUNSET -> Color.parseColor("#A34828")   // Warm Sunset Terracotta
                 else -> Color.parseColor("#8D6E63")
             }
             val darkPillColor = ColorStateList.valueOf(pillColorHex)
     
-            // Clear backgrounds first
+            // Reset backgrounds
             btnEnglish.backgroundTintList = null
             btnEnglish.setBackgroundColor(Color.TRANSPARENT)
             btnTagalog.backgroundTintList = null
@@ -975,18 +975,18 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             if (isEnglishActive) {
                 btnEnglish.setBackgroundResource(R.drawable.bg_pill_selected)
                 btnEnglish.backgroundTintList = darkPillColor
-                btnEnglish.setTextColor(Color.parseColor("#121212")) // High contrast dark text on active pill
+                btnEnglish.setTextColor(Color.WHITE) // High contrast pure white text on active pill
                 
-                btnTagalog.setTextColor(Color.parseColor("#FFFFFF")) // Highly visible bright white for inactive text
+                btnTagalog.setTextColor(Color.parseColor("#B0BEC5")) // Soft readable light grey for inactive toggle option
             } else {
                 btnTagalog.setBackgroundResource(R.drawable.bg_pill_selected)
                 btnTagalog.backgroundTintList = darkPillColor
-                btnTagalog.setTextColor(Color.parseColor("#121212"))
+                btnTagalog.setTextColor(Color.WHITE) // Pure white text
                 
-                btnEnglish.setTextColor(Color.parseColor("#FFFFFF"))
+                btnEnglish.setTextColor(Color.parseColor("#B0BEC5"))
             }
         } else {
-            // Sepia / Light Theme
+            // Classic Sepia / Light Theme
             verseCard.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#FFFFFF"))
             verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#FFFFFF")))
             verseCard.strokeColor = Color.parseColor("#D0C4B2")
@@ -1003,7 +1003,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 btnEnglish.backgroundTintList = dayPillColor
                 btnEnglish.setTextColor(Color.WHITE)
                 
-                btnTagalog.setTextColor(Color.parseColor("#4A3B32")) // Deep readable brown for inactive text on light theme
+                btnTagalog.setTextColor(Color.parseColor("#4A3B32"))
             } else {
                 btnTagalog.setBackgroundResource(R.drawable.bg_pill_selected)
                 btnTagalog.backgroundTintList = dayPillColor
