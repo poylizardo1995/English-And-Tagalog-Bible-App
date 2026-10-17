@@ -126,7 +126,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             currentVerse = BibleVerse(text = incomingText, reference = incomingRef)
             tvVerseText.text = currentVerse?.text
             tvVerseRef.text = "— ${currentVerse?.reference}"
-        } else if (savedInstanceState != null) {
+            } else if (savedInstanceState != null) {
             val savedText = savedInstanceState.getString(KEY_VERSE_TEXT)
             val savedRef = savedInstanceState.getString(KEY_VERSE_REF)
             if (savedText != null && savedRef != null) {
@@ -135,13 +135,13 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 tvVerseText.text = currentVerse?.text
                 tvVerseRef.text = "— ${currentVerse?.reference}"
             } else {
-                loadVerse()
+                loadInitialVerse()
             }
-        } else {
-            loadVerse()
+            } else {
+            loadInitialVerse()
         }
 
-        btnRefresh.setOnClickListener { stopAutoPlay(); loadVerse() }
+        btnRefresh.setOnClickListener { stopAutoPlay(); loadRandomVerse() }
         btnSearch.setOnClickListener { stopAutoPlay(); showSearchQueryDialog() }
         btnSelectManual.setOnClickListener { stopAutoPlay(); showBookSelectionDialog() }
 
@@ -603,10 +603,10 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 displayVerse(translatedVerse)
             } else {
                 // Fallback if exact verse isn't found in the new package
-                loadVerse()
+                loadInitialVerse()
             }
         } else {
-            loadVerse()
+            loadInitialVerse()
         }
     }
 
@@ -760,13 +760,19 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         tvVerseRef.startAnimation(AlphaAnimation(0.0f, 1.0f).apply { duration = 400 })
     }
 
-    private fun loadVerse() {
-        // Set default startup verse to John 3:16 (or Tagalog equivalent Juan 3:16)
+    // Called ONLY on initial app launch in onCreate
+    private fun loadInitialVerse() {
         val defaultRef = if (BibleRepository.currentTranslation.languageGroup == "Tagalog") "Juan 3:16" else "John 3:16"
         val defaultVerse = BibleRepository.getVerseByBookChapterAndVerse(defaultRef, this)
         
         val verseToDisplay = defaultVerse ?: BibleRepository.getRandomVerse(this)
         displayVerse(verseToDisplay)
+    }
+
+    // Called when clicking "🔀 New Random Bible Verse" button
+    private fun loadRandomVerse() {
+        val verse = BibleRepository.getRandomVerse(this)
+        displayVerse(verse)
     }
     
     private fun startAutoPlay() {
