@@ -2,6 +2,8 @@ package com.example.EnglishTagalogBible
 
 import android.content.Context
 import org.json.JSONArray
+import java.io.File
+import java.io.InputStream
 import java.io.IOException
 
 enum class BibleTranslation(
@@ -29,6 +31,19 @@ object BibleRepository {
     var currentTranslation: BibleTranslation = BibleTranslation.KJV
         private set
 
+    // Helper to fetch a chapter JSON stream from internal downloaded folder first, then assets
+    private fun getChapterStream(context: Context, fileName: String): InputStream? {
+        val downloadedFile = File(context.filesDir, "bibles/$fileName")
+        if (downloadedFile.exists()) {
+            return downloadedFile.inputStream()
+        }
+        return try {
+            context.assets.open(fileName)
+        } catch (e: Exception) {
+            null
+        }
+    }
+
     fun loadVerses(context: Context, translation: BibleTranslation = currentTranslation) {
         if (isLoaded && translation == currentTranslation) return
         
@@ -36,20 +51,34 @@ object BibleRepository {
         verses.clear()
         
         try {
-            val assetFiles = context.assets.list("") ?: emptyArray()
-            val targetSuffix = "_${translation.suffix}.json"
+            // 1. Gather asset files
+            val assetFiles = context.assets.list("")?.toList() ?: emptyList()
             
-            val matchingFiles = assetFiles.filter { it.endsWith(targetSuffix) }
+            // 2. Gather downloaded files from internal storage if they exist
+            val biblesDir = File(context.filesDir, "bibles")
+            val downloadedFiles = if (biblesDir.exists()) {
+                biblesDir.listFiles()?.map { it.name } ?: emptyList()
+            } else {
+                emptyList()
+            }
 
+            // Combine both sources and find matching files for the target translation suffix
+            val targetSuffix = "_${translation.suffix}.json"
+            val allFiles = (assetFiles + downloadedFiles).distinct()
+            
+            val matchingFiles = allFiles.filter { it.endsWith(targetSuffix) }
             val filesToLoad = if (matchingFiles.isNotEmpty()) {
                 matchingFiles
             } else {
-                assetFiles.filter { it.contains("_ch") && it.endsWith(".json") }
+                allFiles.filter { it.contains("_ch") && it.endsWith(".json") }
             }
 
             for (fileName in filesToLoad) {
                 try {
-                    val jsonString = context.assets.open(fileName).bufferedReader().use { it.readText() }
+                    val stream = getChapterStream(context, fileName) ?: continue
+                    val jsonString = stream.bufferedReader().use { it.readText() }
+                    stream.close()
+                    
                     val jsonArray = JSONArray(jsonString)
                     
                     for (i in 0 until jsonArray.length()) {
@@ -111,10 +140,8 @@ object BibleRepository {
     // Helper to accurately extract full book name (e.g., "1 Chronicles", "Genesis") before chapter/verse separator ":"
     private fun extractBookName(reference: String): String {
         val cleanRef = reference.substringBefore(" (").trim()
-        // Find the index of the chapter number separator ':'
         val colonIndex = cleanRef.lastIndexOf(':')
         if (colonIndex == -1) return cleanRef
-        // Substring everything before the last space preceding the chapter number
         val beforeColon = cleanRef.substring(0, colonIndex)
         val lastSpaceIndex = beforeColon.lastIndexOf(' ')
         return if (lastSpaceIndex != -1) beforeColon.substring(0, lastSpaceIndex) else beforeColon
