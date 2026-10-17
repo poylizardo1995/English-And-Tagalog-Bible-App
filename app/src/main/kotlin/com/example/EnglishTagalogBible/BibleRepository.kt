@@ -4,17 +4,25 @@ import android.content.Context
 import org.json.JSONArray
 import java.io.File
 import java.io.InputStream
-import java.io.IOException
 
 enum class BibleTranslation(
     val languageGroup: String,
     val displayName: String,
-    val suffix: String
+    val suffix: String,
+    val isBuiltIn: Boolean
 ) {
-    KJV("English", "English (KJV)", "kjv"),
-    WEB("English", "English (WEB)", "web"),
-    ADB1905("Tagalog", "Tagalog (ADB1905)", "adb1905"),
-    MBB("Tagalog", "Tagalog (MBB)", "mbb")
+    KJV("English", "English (KJV)", "kjv", true),
+    WEB("English", "English (WEB)", "web", false),
+    ADB1905("Tagalog", "Tagalog (ADB1905)", "adb1905", true),
+    MBB("Tagalog", "Tagalog (MBB)", "mbb", false);
+
+    fun isAvailable(context: Context): Boolean {
+        if (isBuiltIn) return true
+        val biblesDir = File(context.filesDir, "bibles")
+        if (!biblesDir.exists()) return false
+        val files = biblesDir.listFiles() ?: return false
+        return files.any { it.name.endsWith("_${suffix}.json") }
+    }
 }
 
 data class BibleVerse(
@@ -31,7 +39,6 @@ object BibleRepository {
     var currentTranslation: BibleTranslation = BibleTranslation.KJV
         private set
 
-    // Helper to fetch a chapter JSON stream from internal downloaded folder first, then assets
     private fun getChapterStream(context: Context, fileName: String): InputStream? {
         val downloadedFile = File(context.filesDir, "bibles/$fileName")
         if (downloadedFile.exists()) {
@@ -51,10 +58,7 @@ object BibleRepository {
         verses.clear()
         
         try {
-            // 1. Gather asset files
             val assetFiles = context.assets.list("")?.toList() ?: emptyList()
-            
-            // 2. Gather downloaded files from internal storage if they exist
             val biblesDir = File(context.filesDir, "bibles")
             val downloadedFiles = if (biblesDir.exists()) {
                 biblesDir.listFiles()?.map { it.name } ?: emptyList()
@@ -62,10 +66,8 @@ object BibleRepository {
                 emptyList()
             }
 
-            // Combine both sources and find matching files for the target translation suffix
             val targetSuffix = "_${translation.suffix}.json"
             val allFiles = (assetFiles + downloadedFiles).distinct()
-            
             val matchingFiles = allFiles.filter { it.endsWith(targetSuffix) }
             val filesToLoad = if (matchingFiles.isNotEmpty()) {
                 matchingFiles
@@ -80,10 +82,8 @@ object BibleRepository {
                     stream.close()
                     
                     val jsonArray = JSONArray(jsonString)
-                    
                     for (i in 0 until jsonArray.length()) {
                         val item = jsonArray.getJSONObject(i)
-                        
                         verses.add(
                             BibleVerse(
                                 text = item.getString("text"),
@@ -99,26 +99,14 @@ object BibleRepository {
             }
 
             if (verses.isEmpty()) {
-                verses.add(
-                    BibleVerse(
-                        text = "The Lord is my shepherd; I shall not want.",
-                        reference = "Psalm 23:1 (KJV)"
-                    )
-                )
+                verses.add(BibleVerse(text = "The Lord is my shepherd; I shall not want.", reference = "Psalm 23:1 (KJV)"))
             }
-            
         } catch (e: Exception) {
             e.printStackTrace()
             if (verses.isEmpty()) {
-                verses.add(
-                    BibleVerse(
-                        text = "The Lord is my shepherd; I shall not want.",
-                        reference = "Psalm 23:1 (KJV)"
-                    )
-                )
+                verses.add(BibleVerse(text = "The Lord is my shepherd; I shall not want.", reference = "Psalm 23:1 (KJV)"))
             }
         }
-        
         isLoaded = true
     }
 
@@ -137,7 +125,6 @@ object BibleRepository {
         return verses.find { it.reference.equals(baseReference, ignoreCase = true) || it.reference.startsWith("$baseReference (") }
     }
 
-    // Helper to accurately extract full book name (e.g., "1 Chronicles", "Genesis") before chapter/verse separator ":"
     private fun extractBookName(reference: String): String {
         val cleanRef = reference.substringBefore(" (").trim()
         val colonIndex = cleanRef.lastIndexOf(':')
@@ -147,13 +134,11 @@ object BibleRepository {
         return if (lastSpaceIndex != -1) beforeColon.substring(0, lastSpaceIndex) else beforeColon
     }
 
-    // 1. Properly extracts all unique full Book names without splitting numbered books like "1 Chronicles"
     fun getAvailableBooks(context: Context): List<String> {
         loadVerses(context)
         return verses.map { extractBookName(it.reference) }.distinct()
     }
 
-    // 2. Extracts all chapters belonging to a selected book
     fun getChaptersForBook(bookName: String, context: Context): List<String> {
         loadVerses(context)
         return verses
@@ -166,19 +151,16 @@ object BibleRepository {
             .distinct()
     }
 
-    // 3. Filters and returns all verse reference strings belonging to a specific chapter
     fun getVersesForChapter(chapterName: String, context: Context): List<String> {
         loadVerses(context)
         return verses.filter { it.reference.startsWith("$chapterName:") }.map { it.reference }
     }
 
-    // 4. Returns the actual BibleVerse objects for a specific chapter
     fun getVerseObjectsForChapter(chapterName: String, context: Context): List<BibleVerse> {
         loadVerses(context)
         return verses.filter { it.reference.startsWith("$chapterName:") }
     }
 
-    // 5. Finds the next verse in the current chapter
     fun getNextVerse(currentVerse: BibleVerse, context: Context): BibleVerse? {
         loadVerses(context)
         val cleanCurrentRef = currentVerse.reference.substringBefore(" (").trim()
@@ -192,7 +174,6 @@ object BibleRepository {
         }
     }
 
-    // 6. Finds the previous verse in the current chapter
     fun getPreviousVerse(currentVerse: BibleVerse, context: Context): BibleVerse? {
         loadVerses(context)
         val cleanCurrentRef = currentVerse.reference.substringBefore(" (").trim()
