@@ -1,0 +1,72 @@
+[
+  {
+    "text": "To the chief Musician on Neginoth, A Psalm [or] Song of Asaph. In Judah [is] God known: his name [is] great in Israel.",
+    "reference": "Psalm 76:1 (KJV)",
+    "connected_to": "Psalm 76:2"
+  },
+  {
+    "text": "In Salem also is his tabernacle, and his dwelling place in Zion.",
+    "reference": "Psalm 76:2 (KJV)",
+    "connected_to": "Psalm 76:3",
+    "connected_from": "Psalm 76:1"
+  },
+  {
+    "text": "There brake he the arrows of the bow, the shield, and the sword, and the battle. Selah.",
+    "reference": "Psalm 76:3 (KJV)",
+    "connected_to": "Psalm 76:4",
+    "connected_from": "Psalm 76:2"
+  },
+  {
+    "text": "Thou [art] more glorious [and] excellent than the mountains of prey.",
+    "reference": "Psalm 76:4 (KJV)",
+    "connected_to": "Psalm 76:5",
+    "connected_from": "Psalm 76:3"
+  },
+  {
+    "text": "The stouthearted are spoiled, they have slept their sleep: and none of the men of might have found their hands.",
+    "reference": "Psalm 76:5 (KJV)",
+    "connected_to": "Psalm 76:6",
+    "connected_from": "Psalm 76:4"
+  },
+  {
+    "text": "At thy rebuke, O God of Jacob, both the chariot and horse are cast into a dead sleep.",
+    "reference": "Psalm 76:6 (KJV)",
+    "connected_to": "Psalm 76:7",
+    "connected_from": "Psalm 76:5"
+  },
+  {
+    "text": "Thou, [even] thou, [art] to be feared: and who may stand in thy sight when once thou art angry?",
+    "reference": "Psalm 76:7 (KJV)",
+    "connected_to": "Psalm 76:8",
+    "connected_from": "Psalm 76:6"
+  },
+  {
+    "text": "Thou didst cause judgment to be heard from heaven; the earth feared, and was still,",
+    "reference": "Psalm 76:8 (KJV)",
+    "connected_to": "Psalm 76:9",
+    "connected_from": "Psalm 76:7"
+  },
+  {
+    "text": "When God arose to judgment, to save all the meek of the earth. Selah.",
+    "reference": "Psalm 76:9 (KJV)",
+    "connected_to": "Psalm 76:10",
+    "connected_from": "Psalm 76:8"
+  },
+  {
+    "text": "Surely the wrath of man shall praise thee: the remainder of wrath shalt thou restrain.",
+    "reference": "Psalm 76:10 (KJV)",
+    "connected_to": "Psalm 76:11",
+    "connected_from": "Psalm 76:9"
+  },
+  {
+    "text": "Vow, and pay unto the LORD your God: let all that be round about him bring presents unto him that ought to be feared.",
+    "reference": "Psalm 76:11 (KJV)",
+    "connected_to": "Psalm 76:12",
+    "connected_from": "Psalm 76:10"
+  },
+  {
+    "text": "He shall cut off the spirit of princes: [he is] terrible to the kings of the earth.",
+    "reference": "Psalm 76:12 (KJV)",
+    "connected_from": "Psalm 76:11"
+  }
+]

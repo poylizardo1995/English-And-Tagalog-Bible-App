@@ -1,0 +1,216 @@
+[
+  {
+    "text": "To the chief Musician upon Shoshannim, [A Psalm] of David. Save me, O God; for the waters are come in unto [my] soul.",
+    "reference": "Psalm 69:1 (KJV)",
+    "connected_to": "Psalm 69:2"
+  },
+  {
+    "text": "I sink in deep mire, where [there is] no standing: I am come into deep waters, where the floods overflow me.",
+    "reference": "Psalm 69:2 (KJV)",
+    "connected_to": "Psalm 69:3",
+    "connected_from": "Psalm 69:1"
+  },
+  {
+    "text": "I am weary of my crying: my throat is dried: mine eyes fail while I wait for my God.",
+    "reference": "Psalm 69:3 (KJV)",
+    "connected_to": "Psalm 69:4",
+    "connected_from": "Psalm 69:2"
+  },
+  {
+    "text": "They that hate me without a cause are more than the hairs of mine head: they that would destroy me, [being] mine enemies wrongfully, are mighty: then I restored [that] which I took not away.",
+    "reference": "Psalm 69:4 (KJV)",
+    "connected_to": "Psalm 69:5",
+    "connected_from": "Psalm 69:3"
+  },
+  {
+    "text": "O God, thou knowest my foolishness; and my sins are not hid from thee.",
+    "reference": "Psalm 69:5 (KJV)",
+    "connected_to": "Psalm 69:6",
+    "connected_from": "Psalm 69:4"
+  },
+  {
+    "text": "Let not them that wait on thee, O Lord GOD of hosts, be ashamed for my sake: let not those that seek thee be confounded for my sake, O God of Israel.",
+    "reference": "Psalm 69:6 (KJV)",
+    "connected_to": "Psalm 69:7",
+    "connected_from": "Psalm 69:5"
+  },
+  {
+    "text": "Because for thy sake I have borne reproach; shame hath covered my face.",
+    "reference": "Psalm 69:7 (KJV)",
+    "connected_to": "Psalm 69:8",
+    "connected_from": "Psalm 69:6"
+  },
+  {
+    "text": "I am become a stranger unto my brethren, and an alien unto my mother’s children.",
+    "reference": "Psalm 69:8 (KJV)",
+    "connected_to": "Psalm 69:9",
+    "connected_from": "Psalm 69:7"
+  },
+  {
+    "text": "For the zeal of thine house hath eaten me up; and the reproaches of them that reproached thee are fallen upon me.",
+    "reference": "Psalm 69:9 (KJV)",
+    "connected_to": "Psalm 69:10",
+    "connected_from": "Psalm 69:8"
+  },
+  {
+    "text": "When I wept, [and chastened] my soul with fasting, that was to my reproach.",
+    "reference": "Psalm 69:10 (KJV)",
+    "connected_to": "Psalm 69:11",
+    "connected_from": "Psalm 69:9"
+  },
+  {
+    "text": "I made sackcloth also my garment; and I became a proverb to them.",
+    "reference": "Psalm 69:11 (KJV)",
+    "connected_to": "Psalm 69:12",
+    "connected_from": "Psalm 69:10"
+  },
+  {
+    "text": "They that sit in the gate speak against me; and I [was] the song of the drunkards.",
+    "reference": "Psalm 69:12 (KJV)",
+    "connected_to": "Psalm 69:13",
+    "connected_from": "Psalm 69:11"
+  },
+  {
+    "text": "But as for me, my prayer [is] unto thee, O LORD, [in] an acceptable time: O God, in the multitude of thy mercy hear me, in the truth of thy salvation.",
+    "reference": "Psalm 69:13 (KJV)",
+    "connected_to": "Psalm 69:14",
+    "connected_from": "Psalm 69:12"
+  },
+  {
+    "text": "Deliver me out of the mire, and let me not sink: let me be delivered from them that hate me, and out of the deep waters.",
+    "reference": "Psalm 69:14 (KJV)",
+    "connected_to": "Psalm 69:15",
+    "connected_from": "Psalm 69:13"
+  },
+  {
+    "text": "Let not the waterflood overflow me, neither let the deep swallow me up, and let not the pit shut her mouth upon me.",
+    "reference": "Psalm 69:15 (KJV)",
+    "connected_to": "Psalm 69:16",
+    "connected_from": "Psalm 69:14"
+  },
+  {
+    "text": "Hear me, O LORD; for thy lovingkindness [is] good: turn unto me according to the multitude of thy tender mercies.",
+    "reference": "Psalm 69:16 (KJV)",
+    "connected_to": "Psalm 69:17",
+    "connected_from": "Psalm 69:15"
+  },
+  {
+    "text": "And hide not thy face from thy servant; for I am in trouble: hear me speedily.",
+    "reference": "Psalm 69:17 (KJV)",
+    "connected_to": "Psalm 69:18",
+    "connected_from": "Psalm 69:16"
+  },
+  {
+    "text": "Draw nigh unto my soul, [and] redeem it: deliver me because of mine enemies.",
+    "reference": "Psalm 69:18 (KJV)",
+    "connected_to": "Psalm 69:19",
+    "connected_from": "Psalm 69:17"
+  },
+  {
+    "text": "Thou hast known my reproach, and my shame, and my dishonour: mine adversaries [are] all before thee.",
+    "reference": "Psalm 69:19 (KJV)",
+    "connected_to": "Psalm 69:20",
+    "connected_from": "Psalm 69:18"
+  },
+  {
+    "text": "Reproach hath broken my heart; and I am full of heaviness: and I looked [for some] to take pity, but [there was] none; and for comforters, but I found none.",
+    "reference": "Psalm 69:20 (KJV)",
+    "connected_to": "Psalm 69:21",
+    "connected_from": "Psalm 69:19"
+  },
+  {
+    "text": "They gave me also gall for my meat; and in my thirst they gave me vinegar to drink.",
+    "reference": "Psalm 69:21 (KJV)",
+    "connected_to": "Psalm 69:22",
+    "connected_from": "Psalm 69:20"
+  },
+  {
+    "text": "Let their table become a snare before them: and [that which should have been] for [their] welfare, [let it become] a trap.",
+    "reference": "Psalm 69:22 (KJV)",
+    "connected_to": "Psalm 69:23",
+    "connected_from": "Psalm 69:21"
+  },
+  {
+    "text": "Let their eyes be darkened, that they see not; and make their loins continually to shake.",
+    "reference": "Psalm 69:23 (KJV)",
+    "connected_to": "Psalm 69:24",
+    "connected_from": "Psalm 69:22"
+  },
+  {
+    "text": "Pour out thine indignation upon them, and let thy wrathful anger take hold of them.",
+    "reference": "Psalm 69:24 (KJV)",
+    "connected_to": "Psalm 69:25",
+    "connected_from": "Psalm 69:23"
+  },
+  {
+    "text": "Let their habitation be desolate; [and] let none dwell in their tents.",
+    "reference": "Psalm 69:25 (KJV)",
+    "connected_to": "Psalm 69:26",
+    "connected_from": "Psalm 69:24"
+  },
+  {
+    "text": "For they persecute [him] whom thou hast smitten; and they talk to the grief of those whom thou hast wounded.",
+    "reference": "Psalm 69:26 (KJV)",
+    "connected_to": "Psalm 69:27",
+    "connected_from": "Psalm 69:25"
+  },
+  {
+    "text": "Add iniquity unto their iniquity: and let them not come into thy righteousness.",
+    "reference": "Psalm 69:27 (KJV)",
+    "connected_to": "Psalm 69:28",
+    "connected_from": "Psalm 69:26"
+  },
+  {
+    "text": "Let them be blotted out of the book of the living, and not be written with the righteous.",
+    "reference": "Psalm 69:28 (KJV)",
+    "connected_to": "Psalm 69:29",
+    "connected_from": "Psalm 69:27"
+  },
+  {
+    "text": "But I [am] poor and sorrowful: let thy salvation, O God, set me up on high.",
+    "reference": "Psalm 69:29 (KJV)",
+    "connected_to": "Psalm 69:30",
+    "connected_from": "Psalm 69:28"
+  },
+  {
+    "text": "I will praise the name of God with a song, and will magnify him with thanksgiving.",
+    "reference": "Psalm 69:30 (KJV)",
+    "connected_to": "Psalm 69:31",
+    "connected_from": "Psalm 69:29"
+  },
+  {
+    "text": "[This] also shall please the LORD better than an ox [or] bullock that hath horns and hoofs.",
+    "reference": "Psalm 69:31 (KJV)",
+    "connected_to": "Psalm 69:32",
+    "connected_from": "Psalm 69:30"
+  },
+  {
+    "text": "The humble shall see [this, and] be glad: and your heart shall live that seek God.",
+    "reference": "Psalm 69:32 (KJV)",
+    "connected_to": "Psalm 69:33",
+    "connected_from": "Psalm 69:31"
+  },
+  {
+    "text": "For the LORD heareth the poor, and despiseth not his prisoners.",
+    "reference": "Psalm 69:33 (KJV)",
+    "connected_to": "Psalm 69:34",
+    "connected_from": "Psalm 69:32"
+  },
+  {
+    "text": "Let the heaven and earth praise him, the seas, and every thing that moveth therein.",
+    "reference": "Psalm 69:34 (KJV)",
+    "connected_to": "Psalm 69:35",
+    "connected_from": "Psalm 69:33"
+  },
+  {
+    "text": "For God will save Zion, and will build the cities of Judah: that they may dwell there, and have it in possession.",
+    "reference": "Psalm 69:35 (KJV)",
+    "connected_to": "Psalm 69:36",
+    "connected_from": "Psalm 69:34"
+  },
+  {
+    "text": "The seed also of his servants shall inherit it: and they that love his name shall dwell therein.",
+    "reference": "Psalm 69:36 (KJV)",
+    "connected_from": "Psalm 69:35"
+  }
+]

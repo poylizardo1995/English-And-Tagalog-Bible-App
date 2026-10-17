@@ -1,0 +1,48 @@
+[
+  {
+    "text": "A Song of degrees of David. If [it had] not [been] the LORD who was on our side, now may Israel say;",
+    "reference": "Psalm 124:1 (KJV)",
+    "connected_to": "Psalm 124:2"
+  },
+  {
+    "text": "If [it had] not [been] the LORD who was on our side, when men rose up against us:",
+    "reference": "Psalm 124:2 (KJV)",
+    "connected_to": "Psalm 124:3",
+    "connected_from": "Psalm 124:1"
+  },
+  {
+    "text": "Then they had swallowed us up quick, when their wrath was kindled against us:",
+    "reference": "Psalm 124:3 (KJV)",
+    "connected_to": "Psalm 124:4",
+    "connected_from": "Psalm 124:2"
+  },
+  {
+    "text": "Then the waters had overwhelmed us, the stream had gone over our soul:",
+    "reference": "Psalm 124:4 (KJV)",
+    "connected_to": "Psalm 124:5",
+    "connected_from": "Psalm 124:3"
+  },
+  {
+    "text": "Then the proud waters had gone over our soul.",
+    "reference": "Psalm 124:5 (KJV)",
+    "connected_to": "Psalm 124:6",
+    "connected_from": "Psalm 124:4"
+  },
+  {
+    "text": "Blessed [be] the LORD, who hath not given us [as] a prey to their teeth.",
+    "reference": "Psalm 124:6 (KJV)",
+    "connected_to": "Psalm 124:7",
+    "connected_from": "Psalm 124:5"
+  },
+  {
+    "text": "Our soul is escaped as a bird out of the snare of the fowlers: the snare is broken, and we are escaped.",
+    "reference": "Psalm 124:7 (KJV)",
+    "connected_to": "Psalm 124:8",
+    "connected_from": "Psalm 124:6"
+  },
+  {
+    "text": "Our help [is] in the name of the LORD, who made heaven and earth.",
+    "reference": "Psalm 124:8 (KJV)",
+    "connected_from": "Psalm 124:7"
+  }
+]

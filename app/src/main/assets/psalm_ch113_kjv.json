@@ -1,0 +1,54 @@
+[
+  {
+    "text": "Praise ye the LORD. Praise, O ye servants of the LORD, praise the name of the LORD.",
+    "reference": "Psalm 113:1 (KJV)",
+    "connected_to": "Psalm 113:2"
+  },
+  {
+    "text": "Blessed be the name of the LORD from this time forth and for evermore.",
+    "reference": "Psalm 113:2 (KJV)",
+    "connected_to": "Psalm 113:3",
+    "connected_from": "Psalm 113:1"
+  },
+  {
+    "text": "From the rising of the sun unto the going down of the same the LORD’S name [is] to be praised.",
+    "reference": "Psalm 113:3 (KJV)",
+    "connected_to": "Psalm 113:4",
+    "connected_from": "Psalm 113:2"
+  },
+  {
+    "text": "The LORD [is] high above all nations, [and] his glory above the heavens.",
+    "reference": "Psalm 113:4 (KJV)",
+    "connected_to": "Psalm 113:5",
+    "connected_from": "Psalm 113:3"
+  },
+  {
+    "text": "Who [is] like unto the LORD our God, who dwelleth on high,",
+    "reference": "Psalm 113:5 (KJV)",
+    "connected_to": "Psalm 113:6",
+    "connected_from": "Psalm 113:4"
+  },
+  {
+    "text": "Who humbleth [himself] to behold [the things that are] in heaven, and in the earth!",
+    "reference": "Psalm 113:6 (KJV)",
+    "connected_to": "Psalm 113:7",
+    "connected_from": "Psalm 113:5"
+  },
+  {
+    "text": "He raiseth up the poor out of the dust, [and] lifteth the needy out of the dunghill;",
+    "reference": "Psalm 113:7 (KJV)",
+    "connected_to": "Psalm 113:8",
+    "connected_from": "Psalm 113:6"
+  },
+  {
+    "text": "That he may set [him] with princes, [even] with the princes of his people.",
+    "reference": "Psalm 113:8 (KJV)",
+    "connected_to": "Psalm 113:9",
+    "connected_from": "Psalm 113:7"
+  },
+  {
+    "text": "He maketh the barren woman to keep house, [and to be] a joyful mother of children. Praise ye the LORD.",
+    "reference": "Psalm 113:9 (KJV)",
+    "connected_from": "Psalm 113:8"
+  }
+]

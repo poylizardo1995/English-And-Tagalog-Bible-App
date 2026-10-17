@@ -1,0 +1,120 @@
+[
+  {
+    "text": "Dead flies cause the ointment of the apothecary to send forth a stinking savour: [so doth] a little folly him that is in reputation for wisdom [and] honour.",
+    "reference": "Ecclesiastes 10:1 (KJV)",
+    "connected_to": "Ecclesiastes 10:2"
+  },
+  {
+    "text": "A wise man’s heart [is] at his right hand; but a fool’s heart at his left.",
+    "reference": "Ecclesiastes 10:2 (KJV)",
+    "connected_to": "Ecclesiastes 10:3",
+    "connected_from": "Ecclesiastes 10:1"
+  },
+  {
+    "text": "Yea also, when he that is a fool walketh by the way, his wisdom faileth [him], and he saith to every one [that] he [is] a fool.",
+    "reference": "Ecclesiastes 10:3 (KJV)",
+    "connected_to": "Ecclesiastes 10:4",
+    "connected_from": "Ecclesiastes 10:2"
+  },
+  {
+    "text": "If the spirit of the ruler rise up against thee, leave not thy place; for yielding pacifieth great offences.",
+    "reference": "Ecclesiastes 10:4 (KJV)",
+    "connected_to": "Ecclesiastes 10:5",
+    "connected_from": "Ecclesiastes 10:3"
+  },
+  {
+    "text": "There is an evil [which] I have seen under the sun, as an error [which] proceedeth from the ruler:",
+    "reference": "Ecclesiastes 10:5 (KJV)",
+    "connected_to": "Ecclesiastes 10:6",
+    "connected_from": "Ecclesiastes 10:4"
+  },
+  {
+    "text": "Folly is set in great dignity, and the rich sit in low place.",
+    "reference": "Ecclesiastes 10:6 (KJV)",
+    "connected_to": "Ecclesiastes 10:7",
+    "connected_from": "Ecclesiastes 10:5"
+  },
+  {
+    "text": "I have seen servants upon horses, and princes walking as servants upon the earth.",
+    "reference": "Ecclesiastes 10:7 (KJV)",
+    "connected_to": "Ecclesiastes 10:8",
+    "connected_from": "Ecclesiastes 10:6"
+  },
+  {
+    "text": "He that diggeth a pit shall fall into it; and whoso breaketh an hedge, a serpent shall bite him.",
+    "reference": "Ecclesiastes 10:8 (KJV)",
+    "connected_to": "Ecclesiastes 10:9",
+    "connected_from": "Ecclesiastes 10:7"
+  },
+  {
+    "text": "Whoso removeth stones shall be hurt therewith; [and] he that cleaveth wood shall be endangered thereby.",
+    "reference": "Ecclesiastes 10:9 (KJV)",
+    "connected_to": "Ecclesiastes 10:10",
+    "connected_from": "Ecclesiastes 10:8"
+  },
+  {
+    "text": "If the iron be blunt, and he do not whet the edge, then must he put to more strength: but wisdom [is] profitable to direct.",
+    "reference": "Ecclesiastes 10:10 (KJV)",
+    "connected_to": "Ecclesiastes 10:11",
+    "connected_from": "Ecclesiastes 10:9"
+  },
+  {
+    "text": "Surely the serpent will bite without enchantment; and a babbler is no better.",
+    "reference": "Ecclesiastes 10:11 (KJV)",
+    "connected_to": "Ecclesiastes 10:12",
+    "connected_from": "Ecclesiastes 10:10"
+  },
+  {
+    "text": "The words of a wise man’s mouth [are] gracious; but the lips of a fool will swallow up himself.",
+    "reference": "Ecclesiastes 10:12 (KJV)",
+    "connected_to": "Ecclesiastes 10:13",
+    "connected_from": "Ecclesiastes 10:11"
+  },
+  {
+    "text": "The beginning of the words of his mouth [is] foolishness: and the end of his talk [is] mischievous madness.",
+    "reference": "Ecclesiastes 10:13 (KJV)",
+    "connected_to": "Ecclesiastes 10:14",
+    "connected_from": "Ecclesiastes 10:12"
+  },
+  {
+    "text": "A fool also is full of words: a man cannot tell what shall be; and what shall be after him, who can tell him?",
+    "reference": "Ecclesiastes 10:14 (KJV)",
+    "connected_to": "Ecclesiastes 10:15",
+    "connected_from": "Ecclesiastes 10:13"
+  },
+  {
+    "text": "The labour of the foolish wearieth every one of them, because he knoweth not how to go to the city.",
+    "reference": "Ecclesiastes 10:15 (KJV)",
+    "connected_to": "Ecclesiastes 10:16",
+    "connected_from": "Ecclesiastes 10:14"
+  },
+  {
+    "text": "Woe to thee, O land, when thy king [is] a child, and thy princes eat in the morning!",
+    "reference": "Ecclesiastes 10:16 (KJV)",
+    "connected_to": "Ecclesiastes 10:17",
+    "connected_from": "Ecclesiastes 10:15"
+  },
+  {
+    "text": "Blessed [art] thou, O land, when thy king [is] the son of nobles, and thy princes eat in due season, for strength, and not for drunkenness!",
+    "reference": "Ecclesiastes 10:17 (KJV)",
+    "connected_to": "Ecclesiastes 10:18",
+    "connected_from": "Ecclesiastes 10:16"
+  },
+  {
+    "text": "By much slothfulness the building decayeth; and through idleness of the hands the house droppeth through.",
+    "reference": "Ecclesiastes 10:18 (KJV)",
+    "connected_to": "Ecclesiastes 10:19",
+    "connected_from": "Ecclesiastes 10:17"
+  },
+  {
+    "text": "A feast is made for laughter, and wine maketh merry: but money answereth all [things].",
+    "reference": "Ecclesiastes 10:19 (KJV)",
+    "connected_to": "Ecclesiastes 10:20",
+    "connected_from": "Ecclesiastes 10:18"
+  },
+  {
+    "text": "Curse not the king, no not in thy thought; and curse not the rich in thy bedchamber: for a bird of the air shall carry the voice, and that which hath wings shall tell the matter.",
+    "reference": "Ecclesiastes 10:20 (KJV)",
+    "connected_from": "Ecclesiastes 10:19"
+  }
+]

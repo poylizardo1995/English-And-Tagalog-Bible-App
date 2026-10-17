@@ -1,0 +1,66 @@
+[
+  {
+    "text": "To the chief Musician for the sons of Korah, A Song upon Alamoth. God [is] our refuge and strength, a very present help in trouble.",
+    "reference": "Psalm 46:1 (KJV)",
+    "connected_to": "Psalm 46:2"
+  },
+  {
+    "text": "Therefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea;",
+    "reference": "Psalm 46:2 (KJV)",
+    "connected_to": "Psalm 46:3",
+    "connected_from": "Psalm 46:1"
+  },
+  {
+    "text": "[Though] the waters thereof roar [and] be troubled, [though] the mountains shake with the swelling thereof. Selah.",
+    "reference": "Psalm 46:3 (KJV)",
+    "connected_to": "Psalm 46:4",
+    "connected_from": "Psalm 46:2"
+  },
+  {
+    "text": "[There is] a river, the streams whereof shall make glad the city of God, the holy [place] of the tabernacles of the most High.",
+    "reference": "Psalm 46:4 (KJV)",
+    "connected_to": "Psalm 46:5",
+    "connected_from": "Psalm 46:3"
+  },
+  {
+    "text": "God [is] in the midst of her; she shall not be moved: God shall help her, [and that] right early.",
+    "reference": "Psalm 46:5 (KJV)",
+    "connected_to": "Psalm 46:6",
+    "connected_from": "Psalm 46:4"
+  },
+  {
+    "text": "The heathen raged, the kingdoms were moved: he uttered his voice, the earth melted.",
+    "reference": "Psalm 46:6 (KJV)",
+    "connected_to": "Psalm 46:7",
+    "connected_from": "Psalm 46:5"
+  },
+  {
+    "text": "The LORD of hosts [is] with us; the God of Jacob [is] our refuge. Selah.",
+    "reference": "Psalm 46:7 (KJV)",
+    "connected_to": "Psalm 46:8",
+    "connected_from": "Psalm 46:6"
+  },
+  {
+    "text": "Come, behold the works of the LORD, what desolations he hath made in the earth.",
+    "reference": "Psalm 46:8 (KJV)",
+    "connected_to": "Psalm 46:9",
+    "connected_from": "Psalm 46:7"
+  },
+  {
+    "text": "He maketh wars to cease unto the end of the earth; he breaketh the bow, and cutteth the spear in sunder; he burneth the chariot in the fire.",
+    "reference": "Psalm 46:9 (KJV)",
+    "connected_to": "Psalm 46:10",
+    "connected_from": "Psalm 46:8"
+  },
+  {
+    "text": "Be still, and know that I [am] God: I will be exalted among the heathen, I will be exalted in the earth.",
+    "reference": "Psalm 46:10 (KJV)",
+    "connected_to": "Psalm 46:11",
+    "connected_from": "Psalm 46:9"
+  },
+  {
+    "text": "The LORD of hosts [is] with us; the God of Jacob [is] our refuge. Selah.",
+    "reference": "Psalm 46:11 (KJV)",
+    "connected_from": "Psalm 46:10"
+  }
+]

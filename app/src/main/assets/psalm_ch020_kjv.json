@@ -1,0 +1,54 @@
+[
+  {
+    "text": "To the chief Musician, A Psalm of David. The LORD hear thee in the day of trouble; the name of the God of Jacob defend thee;",
+    "reference": "Psalm 20:1 (KJV)",
+    "connected_to": "Psalm 20:2"
+  },
+  {
+    "text": "Send thee help from the sanctuary, and strengthen thee out of Zion;",
+    "reference": "Psalm 20:2 (KJV)",
+    "connected_to": "Psalm 20:3",
+    "connected_from": "Psalm 20:1"
+  },
+  {
+    "text": "Remember all thy offerings, and accept thy burnt sacrifice; Selah.",
+    "reference": "Psalm 20:3 (KJV)",
+    "connected_to": "Psalm 20:4",
+    "connected_from": "Psalm 20:2"
+  },
+  {
+    "text": "Grant thee according to thine own heart, and fulfil all thy counsel.",
+    "reference": "Psalm 20:4 (KJV)",
+    "connected_to": "Psalm 20:5",
+    "connected_from": "Psalm 20:3"
+  },
+  {
+    "text": "We will rejoice in thy salvation, and in the name of our God we will set up [our] banners: the LORD fulfil all thy petitions.",
+    "reference": "Psalm 20:5 (KJV)",
+    "connected_to": "Psalm 20:6",
+    "connected_from": "Psalm 20:4"
+  },
+  {
+    "text": "Now know I that the LORD saveth his anointed; he will hear him from his holy heaven with the saving strength of his right hand.",
+    "reference": "Psalm 20:6 (KJV)",
+    "connected_to": "Psalm 20:7",
+    "connected_from": "Psalm 20:5"
+  },
+  {
+    "text": "Some [trust] in chariots, and some in horses: but we will remember the name of the LORD our God.",
+    "reference": "Psalm 20:7 (KJV)",
+    "connected_to": "Psalm 20:8",
+    "connected_from": "Psalm 20:6"
+  },
+  {
+    "text": "They are brought down and fallen: but we are risen, and stand upright.",
+    "reference": "Psalm 20:8 (KJV)",
+    "connected_to": "Psalm 20:9",
+    "connected_from": "Psalm 20:7"
+  },
+  {
+    "text": "Save, LORD: let the king hear us when we call.",
+    "reference": "Psalm 20:9 (KJV)",
+    "connected_from": "Psalm 20:8"
+  }
+]

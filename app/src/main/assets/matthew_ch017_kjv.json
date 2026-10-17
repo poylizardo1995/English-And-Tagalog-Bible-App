@@ -1,0 +1,162 @@
+[
+  {
+    "text": "And after six days Jesus taketh Peter, James, and John his brother, and bringeth them up into an high mountain apart,",
+    "reference": "Matthew 17:1 (KJV)",
+    "connected_to": "Matthew 17:2"
+  },
+  {
+    "text": "And was transfigured before them: and his face did shine as the sun, and his raiment was white as the light.",
+    "reference": "Matthew 17:2 (KJV)",
+    "connected_to": "Matthew 17:3",
+    "connected_from": "Matthew 17:1"
+  },
+  {
+    "text": "And, behold, there appeared unto them Moses and Elias talking with him.",
+    "reference": "Matthew 17:3 (KJV)",
+    "connected_to": "Matthew 17:4",
+    "connected_from": "Matthew 17:2"
+  },
+  {
+    "text": "Then answered Peter, and said unto Jesus, Lord, it is good for us to be here: if thou wilt, let us make here three tabernacles; one for thee, and one for Moses, and one for Elias.",
+    "reference": "Matthew 17:4 (KJV)",
+    "connected_to": "Matthew 17:5",
+    "connected_from": "Matthew 17:3"
+  },
+  {
+    "text": "While he yet spake, behold, a bright cloud overshadowed them: and behold a voice out of the cloud, which said, This is my beloved Son, in whom I am well pleased; hear ye him.",
+    "reference": "Matthew 17:5 (KJV)",
+    "connected_to": "Matthew 17:6",
+    "connected_from": "Matthew 17:4"
+  },
+  {
+    "text": "And when the disciples heard [it], they fell on their face, and were sore afraid.",
+    "reference": "Matthew 17:6 (KJV)",
+    "connected_to": "Matthew 17:7",
+    "connected_from": "Matthew 17:5"
+  },
+  {
+    "text": "And Jesus came and touched them, and said, Arise, and be not afraid.",
+    "reference": "Matthew 17:7 (KJV)",
+    "connected_to": "Matthew 17:8",
+    "connected_from": "Matthew 17:6"
+  },
+  {
+    "text": "And when they had lifted up their eyes, they saw no man, save Jesus only.",
+    "reference": "Matthew 17:8 (KJV)",
+    "connected_to": "Matthew 17:9",
+    "connected_from": "Matthew 17:7"
+  },
+  {
+    "text": "And as they came down from the mountain, Jesus charged them, saying, Tell the vision to no man, until the Son of man be risen again from the dead.",
+    "reference": "Matthew 17:9 (KJV)",
+    "connected_to": "Matthew 17:10",
+    "connected_from": "Matthew 17:8"
+  },
+  {
+    "text": "And his disciples asked him, saying, Why then say the scribes that Elias must first come?",
+    "reference": "Matthew 17:10 (KJV)",
+    "connected_to": "Matthew 17:11",
+    "connected_from": "Matthew 17:9"
+  },
+  {
+    "text": "And Jesus answered and said unto them, Elias truly shall first come, and restore all things.",
+    "reference": "Matthew 17:11 (KJV)",
+    "connected_to": "Matthew 17:12",
+    "connected_from": "Matthew 17:10"
+  },
+  {
+    "text": "But I say unto you, That Elias is come already, and they knew him not, but have done unto him whatsoever they listed. Likewise shall also the Son of man suffer of them.",
+    "reference": "Matthew 17:12 (KJV)",
+    "connected_to": "Matthew 17:13",
+    "connected_from": "Matthew 17:11"
+  },
+  {
+    "text": "Then the disciples understood that he spake unto them of John the Baptist.",
+    "reference": "Matthew 17:13 (KJV)",
+    "connected_to": "Matthew 17:14",
+    "connected_from": "Matthew 17:12"
+  },
+  {
+    "text": "And when they were come to the multitude, there came to him a [certain] man, kneeling down to him, and saying,",
+    "reference": "Matthew 17:14 (KJV)",
+    "connected_to": "Matthew 17:15",
+    "connected_from": "Matthew 17:13"
+  },
+  {
+    "text": "Lord, have mercy on my son: for he is lunatick, and sore vexed: for ofttimes he falleth into the fire, and oft into the water.",
+    "reference": "Matthew 17:15 (KJV)",
+    "connected_to": "Matthew 17:16",
+    "connected_from": "Matthew 17:14"
+  },
+  {
+    "text": "And I brought him to thy disciples, and they could not cure him.",
+    "reference": "Matthew 17:16 (KJV)",
+    "connected_to": "Matthew 17:17",
+    "connected_from": "Matthew 17:15"
+  },
+  {
+    "text": "Then Jesus answered and said, O faithless and perverse generation, how long shall I be with you? how long shall I suffer you? bring him hither to me.",
+    "reference": "Matthew 17:17 (KJV)",
+    "connected_to": "Matthew 17:18",
+    "connected_from": "Matthew 17:16"
+  },
+  {
+    "text": "And Jesus rebuked the devil; and he departed out of him: and the child was cured from that very hour.",
+    "reference": "Matthew 17:18 (KJV)",
+    "connected_to": "Matthew 17:19",
+    "connected_from": "Matthew 17:17"
+  },
+  {
+    "text": "Then came the disciples to Jesus apart, and said, Why could not we cast him out?",
+    "reference": "Matthew 17:19 (KJV)",
+    "connected_to": "Matthew 17:20",
+    "connected_from": "Matthew 17:18"
+  },
+  {
+    "text": "And Jesus said unto them, Because of your unbelief: for verily I say unto you, If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you.",
+    "reference": "Matthew 17:20 (KJV)",
+    "connected_to": "Matthew 17:21",
+    "connected_from": "Matthew 17:19"
+  },
+  {
+    "text": "Howbeit this kind goeth not out but by prayer and fasting.",
+    "reference": "Matthew 17:21 (KJV)",
+    "connected_to": "Matthew 17:22",
+    "connected_from": "Matthew 17:20"
+  },
+  {
+    "text": "And while they abode in Galilee, Jesus said unto them, The Son of man shall be betrayed into the hands of men:",
+    "reference": "Matthew 17:22 (KJV)",
+    "connected_to": "Matthew 17:23",
+    "connected_from": "Matthew 17:21"
+  },
+  {
+    "text": "And they shall kill him, and the third day he shall be raised again. And they were exceeding sorry.",
+    "reference": "Matthew 17:23 (KJV)",
+    "connected_to": "Matthew 17:24",
+    "connected_from": "Matthew 17:22"
+  },
+  {
+    "text": "And when they were come to Capernaum, they that received tribute [money] came to Peter, and said, Doth not your master pay tribute?",
+    "reference": "Matthew 17:24 (KJV)",
+    "connected_to": "Matthew 17:25",
+    "connected_from": "Matthew 17:23"
+  },
+  {
+    "text": "He saith, Yes. And when he was come into the house, Jesus prevented him, saying, What thinkest thou, Simon? of whom do the kings of the earth take custom or tribute? of their own children, or of strangers?",
+    "reference": "Matthew 17:25 (KJV)",
+    "connected_to": "Matthew 17:26",
+    "connected_from": "Matthew 17:24"
+  },
+  {
+    "text": "Peter saith unto him, Of strangers. Jesus saith unto him, Then are the children free.",
+    "reference": "Matthew 17:26 (KJV)",
+    "connected_to": "Matthew 17:27",
+    "connected_from": "Matthew 17:25"
+  },
+  {
+    "text": "Notwithstanding, lest we should offend them, go thou to the sea, and cast an hook, and take up the fish that first cometh up; and when thou hast opened his mouth, thou shalt find a piece of money: that take, and give unto them for me and thee.",
+    "reference": "Matthew 17:27 (KJV)",
+    "connected_from": "Matthew 17:26"
+  }
+]

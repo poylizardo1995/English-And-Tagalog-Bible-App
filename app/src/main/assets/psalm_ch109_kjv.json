@@ -1,0 +1,186 @@
+[
+  {
+    "text": "To the chief Musician, A Psalm of David. Hold not thy peace, O God of my praise;",
+    "reference": "Psalm 109:1 (KJV)",
+    "connected_to": "Psalm 109:2"
+  },
+  {
+    "text": "For the mouth of the wicked and the mouth of the deceitful are opened against me: they have spoken against me with a lying tongue.",
+    "reference": "Psalm 109:2 (KJV)",
+    "connected_to": "Psalm 109:3",
+    "connected_from": "Psalm 109:1"
+  },
+  {
+    "text": "They compassed me about also with words of hatred; and fought against me without a cause.",
+    "reference": "Psalm 109:3 (KJV)",
+    "connected_to": "Psalm 109:4",
+    "connected_from": "Psalm 109:2"
+  },
+  {
+    "text": "For my love they are my adversaries: but I [give myself unto] prayer.",
+    "reference": "Psalm 109:4 (KJV)",
+    "connected_to": "Psalm 109:5",
+    "connected_from": "Psalm 109:3"
+  },
+  {
+    "text": "And they have rewarded me evil for good, and hatred for my love.",
+    "reference": "Psalm 109:5 (KJV)",
+    "connected_to": "Psalm 109:6",
+    "connected_from": "Psalm 109:4"
+  },
+  {
+    "text": "Set thou a wicked man over him: and let Satan stand at his right hand.",
+    "reference": "Psalm 109:6 (KJV)",
+    "connected_to": "Psalm 109:7",
+    "connected_from": "Psalm 109:5"
+  },
+  {
+    "text": "When he shall be judged, let him be condemned: and let his prayer become sin.",
+    "reference": "Psalm 109:7 (KJV)",
+    "connected_to": "Psalm 109:8",
+    "connected_from": "Psalm 109:6"
+  },
+  {
+    "text": "Let his days be few; [and] let another take his office.",
+    "reference": "Psalm 109:8 (KJV)",
+    "connected_to": "Psalm 109:9",
+    "connected_from": "Psalm 109:7"
+  },
+  {
+    "text": "Let his children be fatherless, and his wife a widow.",
+    "reference": "Psalm 109:9 (KJV)",
+    "connected_to": "Psalm 109:10",
+    "connected_from": "Psalm 109:8"
+  },
+  {
+    "text": "Let his children be continually vagabonds, and beg: let them seek [their bread] also out of their desolate places.",
+    "reference": "Psalm 109:10 (KJV)",
+    "connected_to": "Psalm 109:11",
+    "connected_from": "Psalm 109:9"
+  },
+  {
+    "text": "Let the extortioner catch all that he hath; and let the strangers spoil his labour.",
+    "reference": "Psalm 109:11 (KJV)",
+    "connected_to": "Psalm 109:12",
+    "connected_from": "Psalm 109:10"
+  },
+  {
+    "text": "Let there be none to extend mercy unto him: neither let there be any to favour his fatherless children.",
+    "reference": "Psalm 109:12 (KJV)",
+    "connected_to": "Psalm 109:13",
+    "connected_from": "Psalm 109:11"
+  },
+  {
+    "text": "Let his posterity be cut off; [and] in the generation following let their name be blotted out.",
+    "reference": "Psalm 109:13 (KJV)",
+    "connected_to": "Psalm 109:14",
+    "connected_from": "Psalm 109:12"
+  },
+  {
+    "text": "Let the iniquity of his fathers be remembered with the LORD; and let not the sin of his mother be blotted out.",
+    "reference": "Psalm 109:14 (KJV)",
+    "connected_to": "Psalm 109:15",
+    "connected_from": "Psalm 109:13"
+  },
+  {
+    "text": "Let them be before the LORD continually, that he may cut off the memory of them from the earth.",
+    "reference": "Psalm 109:15 (KJV)",
+    "connected_to": "Psalm 109:16",
+    "connected_from": "Psalm 109:14"
+  },
+  {
+    "text": "Because that he remembered not to shew mercy, but persecuted the poor and needy man, that he might even slay the broken in heart.",
+    "reference": "Psalm 109:16 (KJV)",
+    "connected_to": "Psalm 109:17",
+    "connected_from": "Psalm 109:15"
+  },
+  {
+    "text": "As he loved cursing, so let it come unto him: as he delighted not in blessing, so let it be far from him.",
+    "reference": "Psalm 109:17 (KJV)",
+    "connected_to": "Psalm 109:18",
+    "connected_from": "Psalm 109:16"
+  },
+  {
+    "text": "As he clothed himself with cursing like as with his garment, so let it come into his bowels like water, and like oil into his bones.",
+    "reference": "Psalm 109:18 (KJV)",
+    "connected_to": "Psalm 109:19",
+    "connected_from": "Psalm 109:17"
+  },
+  {
+    "text": "Let it be unto him as the garment [which] covereth him, and for a girdle wherewith he is girded continually.",
+    "reference": "Psalm 109:19 (KJV)",
+    "connected_to": "Psalm 109:20",
+    "connected_from": "Psalm 109:18"
+  },
+  {
+    "text": "[Let] this [be] the reward of mine adversaries from the LORD, and of them that speak evil against my soul.",
+    "reference": "Psalm 109:20 (KJV)",
+    "connected_to": "Psalm 109:21",
+    "connected_from": "Psalm 109:19"
+  },
+  {
+    "text": "But do thou for me, O GOD the Lord, for thy name’s sake: because thy mercy [is] good, deliver thou me.",
+    "reference": "Psalm 109:21 (KJV)",
+    "connected_to": "Psalm 109:22",
+    "connected_from": "Psalm 109:20"
+  },
+  {
+    "text": "For I [am] poor and needy, and my heart is wounded within me.",
+    "reference": "Psalm 109:22 (KJV)",
+    "connected_to": "Psalm 109:23",
+    "connected_from": "Psalm 109:21"
+  },
+  {
+    "text": "I am gone like the shadow when it declineth: I am tossed up and down as the locust.",
+    "reference": "Psalm 109:23 (KJV)",
+    "connected_to": "Psalm 109:24",
+    "connected_from": "Psalm 109:22"
+  },
+  {
+    "text": "My knees are weak through fasting; and my flesh faileth of fatness.",
+    "reference": "Psalm 109:24 (KJV)",
+    "connected_to": "Psalm 109:25",
+    "connected_from": "Psalm 109:23"
+  },
+  {
+    "text": "I became also a reproach unto them: [when] they looked upon me they shaked their heads.",
+    "reference": "Psalm 109:25 (KJV)",
+    "connected_to": "Psalm 109:26",
+    "connected_from": "Psalm 109:24"
+  },
+  {
+    "text": "Help me, O LORD my God: O save me according to thy mercy:",
+    "reference": "Psalm 109:26 (KJV)",
+    "connected_to": "Psalm 109:27",
+    "connected_from": "Psalm 109:25"
+  },
+  {
+    "text": "That they may know that this [is] thy hand; [that] thou, LORD, hast done it.",
+    "reference": "Psalm 109:27 (KJV)",
+    "connected_to": "Psalm 109:28",
+    "connected_from": "Psalm 109:26"
+  },
+  {
+    "text": "Let them curse, but bless thou: when they arise, let them be ashamed; but let thy servant rejoice.",
+    "reference": "Psalm 109:28 (KJV)",
+    "connected_to": "Psalm 109:29",
+    "connected_from": "Psalm 109:27"
+  },
+  {
+    "text": "Let mine adversaries be clothed with shame, and let them cover themselves with their own confusion, as with a mantle.",
+    "reference": "Psalm 109:29 (KJV)",
+    "connected_to": "Psalm 109:30",
+    "connected_from": "Psalm 109:28"
+  },
+  {
+    "text": "I will greatly praise the LORD with my mouth; yea, I will praise him among the multitude.",
+    "reference": "Psalm 109:30 (KJV)",
+    "connected_to": "Psalm 109:31",
+    "connected_from": "Psalm 109:29"
+  },
+  {
+    "text": "For he shall stand at the right hand of the poor, to save [him] from those that condemn his soul.",
+    "reference": "Psalm 109:31 (KJV)",
+    "connected_from": "Psalm 109:30"
+  }
+]

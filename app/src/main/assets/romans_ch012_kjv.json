@@ -1,0 +1,126 @@
+[
+  {
+    "text": "I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, [which is] your reasonable service.",
+    "reference": "Romans 12:1 (KJV)",
+    "connected_to": "Romans 12:2"
+  },
+  {
+    "text": "And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what [is] that good, and acceptable, and perfect, will of God.",
+    "reference": "Romans 12:2 (KJV)",
+    "connected_to": "Romans 12:3",
+    "connected_from": "Romans 12:1"
+  },
+  {
+    "text": "For I say, through the grace given unto me, to every man that is among you, not to think [of himself] more highly than he ought to think; but to think soberly, according as God hath dealt to every man the measure of faith.",
+    "reference": "Romans 12:3 (KJV)",
+    "connected_to": "Romans 12:4",
+    "connected_from": "Romans 12:2"
+  },
+  {
+    "text": "For as we have many members in one body, and all members have not the same office:",
+    "reference": "Romans 12:4 (KJV)",
+    "connected_to": "Romans 12:5",
+    "connected_from": "Romans 12:3"
+  },
+  {
+    "text": "So we, [being] many, are one body in Christ, and every one members one of another.",
+    "reference": "Romans 12:5 (KJV)",
+    "connected_to": "Romans 12:6",
+    "connected_from": "Romans 12:4"
+  },
+  {
+    "text": "Having then gifts differing according to the grace that is given to us, whether prophecy, [let us prophesy] according to the proportion of faith;",
+    "reference": "Romans 12:6 (KJV)",
+    "connected_to": "Romans 12:7",
+    "connected_from": "Romans 12:5"
+  },
+  {
+    "text": "Or ministry, [let us wait] on [our] ministering: or he that teacheth, on teaching;",
+    "reference": "Romans 12:7 (KJV)",
+    "connected_to": "Romans 12:8",
+    "connected_from": "Romans 12:6"
+  },
+  {
+    "text": "Or he that exhorteth, on exhortation: he that giveth, [let him do it] with simplicity; he that ruleth, with diligence; he that sheweth mercy, with cheerfulness.",
+    "reference": "Romans 12:8 (KJV)",
+    "connected_to": "Romans 12:9",
+    "connected_from": "Romans 12:7"
+  },
+  {
+    "text": "[Let] love be without dissimulation. Abhor that which is evil; cleave to that which is good.",
+    "reference": "Romans 12:9 (KJV)",
+    "connected_to": "Romans 12:10",
+    "connected_from": "Romans 12:8"
+  },
+  {
+    "text": "[Be] kindly affectioned one to another with brotherly love; in honour preferring one another;",
+    "reference": "Romans 12:10 (KJV)",
+    "connected_to": "Romans 12:11",
+    "connected_from": "Romans 12:9"
+  },
+  {
+    "text": "Not slothful in business; fervent in spirit; serving the Lord;",
+    "reference": "Romans 12:11 (KJV)",
+    "connected_to": "Romans 12:12",
+    "connected_from": "Romans 12:10"
+  },
+  {
+    "text": "Rejoicing in hope; patient in tribulation; continuing instant in prayer;",
+    "reference": "Romans 12:12 (KJV)",
+    "connected_to": "Romans 12:13",
+    "connected_from": "Romans 12:11"
+  },
+  {
+    "text": "Distributing to the necessity of saints; given to hospitality.",
+    "reference": "Romans 12:13 (KJV)",
+    "connected_to": "Romans 12:14",
+    "connected_from": "Romans 12:12"
+  },
+  {
+    "text": "Bless them which persecute you: bless, and curse not.",
+    "reference": "Romans 12:14 (KJV)",
+    "connected_to": "Romans 12:15",
+    "connected_from": "Romans 12:13"
+  },
+  {
+    "text": "Rejoice with them that do rejoice, and weep with them that weep.",
+    "reference": "Romans 12:15 (KJV)",
+    "connected_to": "Romans 12:16",
+    "connected_from": "Romans 12:14"
+  },
+  {
+    "text": "[Be] of the same mind one toward another. Mind not high things, but condescend to men of low estate. Be not wise in your own conceits.",
+    "reference": "Romans 12:16 (KJV)",
+    "connected_to": "Romans 12:17",
+    "connected_from": "Romans 12:15"
+  },
+  {
+    "text": "Recompense to no man evil for evil. Provide things honest in the sight of all men.",
+    "reference": "Romans 12:17 (KJV)",
+    "connected_to": "Romans 12:18",
+    "connected_from": "Romans 12:16"
+  },
+  {
+    "text": "If it be possible, as much as lieth in you, live peaceably with all men.",
+    "reference": "Romans 12:18 (KJV)",
+    "connected_to": "Romans 12:19",
+    "connected_from": "Romans 12:17"
+  },
+  {
+    "text": "Dearly beloved, avenge not yourselves, but [rather] give place unto wrath: for it is written, Vengeance [is] mine; I will repay, saith the Lord.",
+    "reference": "Romans 12:19 (KJV)",
+    "connected_to": "Romans 12:20",
+    "connected_from": "Romans 12:18"
+  },
+  {
+    "text": "Therefore if thine enemy hunger, feed him; if he thirst, give him drink: for in so doing thou shalt heap coals of fire on his head.",
+    "reference": "Romans 12:20 (KJV)",
+    "connected_to": "Romans 12:21",
+    "connected_from": "Romans 12:19"
+  },
+  {
+    "text": "Be not overcome of evil, but overcome evil with good.",
+    "reference": "Romans 12:21 (KJV)",
+    "connected_from": "Romans 12:20"
+  }
+]

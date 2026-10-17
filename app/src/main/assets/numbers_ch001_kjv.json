@@ -1,0 +1,324 @@
+[
+  {
+    "text": "And the LORD spake unto Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first [day] of the second month, in the second year after they were come out of the land of Egypt, saying,",
+    "reference": "Numbers 1:1 (KJV)",
+    "connected_to": "Numbers 1:2"
+  },
+  {
+    "text": "Take ye the sum of all the congregation of the children of Israel, after their families, by the house of their fathers, with the number of [their] names, every male by their polls;",
+    "reference": "Numbers 1:2 (KJV)",
+    "connected_to": "Numbers 1:3",
+    "connected_from": "Numbers 1:1"
+  },
+  {
+    "text": "From twenty years old and upward, all that are able to go forth to war in Israel: thou and Aaron shall number them by their armies.",
+    "reference": "Numbers 1:3 (KJV)",
+    "connected_to": "Numbers 1:4",
+    "connected_from": "Numbers 1:2"
+  },
+  {
+    "text": "And with you there shall be a man of every tribe; every one head of the house of his fathers.",
+    "reference": "Numbers 1:4 (KJV)",
+    "connected_to": "Numbers 1:5",
+    "connected_from": "Numbers 1:3"
+  },
+  {
+    "text": "And these [are] the names of the men that shall stand with you: of [the tribe of] Reuben; Elizur the son of Shedeur.",
+    "reference": "Numbers 1:5 (KJV)",
+    "connected_to": "Numbers 1:6",
+    "connected_from": "Numbers 1:4"
+  },
+  {
+    "text": "Of Simeon; Shelumiel the son of Zurishaddai.",
+    "reference": "Numbers 1:6 (KJV)",
+    "connected_to": "Numbers 1:7",
+    "connected_from": "Numbers 1:5"
+  },
+  {
+    "text": "Of Judah; Nahshon the son of Amminadab.",
+    "reference": "Numbers 1:7 (KJV)",
+    "connected_to": "Numbers 1:8",
+    "connected_from": "Numbers 1:6"
+  },
+  {
+    "text": "Of Issachar; Nethaneel the son of Zuar.",
+    "reference": "Numbers 1:8 (KJV)",
+    "connected_to": "Numbers 1:9",
+    "connected_from": "Numbers 1:7"
+  },
+  {
+    "text": "Of Zebulun; Eliab the son of Helon.",
+    "reference": "Numbers 1:9 (KJV)",
+    "connected_to": "Numbers 1:10",
+    "connected_from": "Numbers 1:8"
+  },
+  {
+    "text": "Of the children of Joseph: of Ephraim; Elishama the son of Ammihud: of Manasseh; Gamaliel the son of Pedahzur.",
+    "reference": "Numbers 1:10 (KJV)",
+    "connected_to": "Numbers 1:11",
+    "connected_from": "Numbers 1:9"
+  },
+  {
+    "text": "Of Benjamin; Abidan the son of Gideoni.",
+    "reference": "Numbers 1:11 (KJV)",
+    "connected_to": "Numbers 1:12",
+    "connected_from": "Numbers 1:10"
+  },
+  {
+    "text": "Of Dan; Ahiezer the son of Ammishaddai.",
+    "reference": "Numbers 1:12 (KJV)",
+    "connected_to": "Numbers 1:13",
+    "connected_from": "Numbers 1:11"
+  },
+  {
+    "text": "Of Asher; Pagiel the son of Ocran.",
+    "reference": "Numbers 1:13 (KJV)",
+    "connected_to": "Numbers 1:14",
+    "connected_from": "Numbers 1:12"
+  },
+  {
+    "text": "Of Gad; Eliasaph the son of Deuel.",
+    "reference": "Numbers 1:14 (KJV)",
+    "connected_to": "Numbers 1:15",
+    "connected_from": "Numbers 1:13"
+  },
+  {
+    "text": "Of Naphtali; Ahira the son of Enan.",
+    "reference": "Numbers 1:15 (KJV)",
+    "connected_to": "Numbers 1:16",
+    "connected_from": "Numbers 1:14"
+  },
+  {
+    "text": "These [were] the renowned of the congregation, princes of the tribes of their fathers, heads of thousands in Israel.",
+    "reference": "Numbers 1:16 (KJV)",
+    "connected_to": "Numbers 1:17",
+    "connected_from": "Numbers 1:15"
+  },
+  {
+    "text": "And Moses and Aaron took these men which are expressed by [their] names:",
+    "reference": "Numbers 1:17 (KJV)",
+    "connected_to": "Numbers 1:18",
+    "connected_from": "Numbers 1:16"
+  },
+  {
+    "text": "And they assembled all the congregation together on the first [day] of the second month, and they declared their pedigrees after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, by their polls.",
+    "reference": "Numbers 1:18 (KJV)",
+    "connected_to": "Numbers 1:19",
+    "connected_from": "Numbers 1:17"
+  },
+  {
+    "text": "As the LORD commanded Moses, so he numbered them in the wilderness of Sinai.",
+    "reference": "Numbers 1:19 (KJV)",
+    "connected_to": "Numbers 1:20",
+    "connected_from": "Numbers 1:18"
+  },
+  {
+    "text": "And the children of Reuben, Israel’s eldest son, by their generations, after their families, by the house of their fathers, according to the number of the names, by their polls, every male from twenty years old and upward, all that were able to go forth to war;",
+    "reference": "Numbers 1:20 (KJV)",
+    "connected_to": "Numbers 1:21",
+    "connected_from": "Numbers 1:19"
+  },
+  {
+    "text": "Those that were numbered of them, [even] of the tribe of Reuben, [were] forty and six thousand and five hundred.",
+    "reference": "Numbers 1:21 (KJV)",
+    "connected_to": "Numbers 1:22",
+    "connected_from": "Numbers 1:20"
+  },
+  {
+    "text": "Of the children of Simeon, by their generations, after their families, by the house of their fathers, those that were numbered of them, according to the number of the names, by their polls, every male from twenty years old and upward, all that were able to go forth to war;",
+    "reference": "Numbers 1:22 (KJV)",
+    "connected_to": "Numbers 1:23",
+    "connected_from": "Numbers 1:21"
+  },
+  {
+    "text": "Those that were numbered of them, [even] of the tribe of Simeon, [were] fifty and nine thousand and three hundred.",
+    "reference": "Numbers 1:23 (KJV)",
+    "connected_to": "Numbers 1:24",
+    "connected_from": "Numbers 1:22"
+  },
+  {
+    "text": "Of the children of Gad, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+    "reference": "Numbers 1:24 (KJV)",
+    "connected_to": "Numbers 1:25",
+    "connected_from": "Numbers 1:23"
+  },
+  {
+    "text": "Those that were numbered of them, [even] of the tribe of Gad, [were] forty and five thousand six hundred and fifty.",
+    "reference": "Numbers 1:25 (KJV)",
+    "connected_to": "Numbers 1:26",
+    "connected_from": "Numbers 1:24"
+  },
+  {
+    "text": "Of the children of Judah, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+    "reference": "Numbers 1:26 (KJV)",
+    "connected_to": "Numbers 1:27",
+    "connected_from": "Numbers 1:25"
+  },
+  {
+    "text": "Those that were numbered of them, [even] of the tribe of Judah, [were] threescore and fourteen thousand and six hundred.",
+    "reference": "Numbers 1:27 (KJV)",
+    "connected_to": "Numbers 1:28",
+    "connected_from": "Numbers 1:26"
+  },
+  {
+    "text": "Of the children of Issachar, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+    "reference": "Numbers 1:28 (KJV)",
+    "connected_to": "Numbers 1:29",
+    "connected_from": "Numbers 1:27"
+  },
+  {
+    "text": "Those that were numbered of them, [even] of the tribe of Issachar, [were] fifty and four thousand and four hundred.",
+    "reference": "Numbers 1:29 (KJV)",
+    "connected_to": "Numbers 1:30",
+    "connected_from": "Numbers 1:28"
+  },
+  {
+    "text": "Of the children of Zebulun, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+    "reference": "Numbers 1:30 (KJV)",
+    "connected_to": "Numbers 1:31",
+    "connected_from": "Numbers 1:29"
+  },
+  {
+    "text": "Those that were numbered of them, [even] of the tribe of Zebulun, [were] fifty and seven thousand and four hundred.",
+    "reference": "Numbers 1:31 (KJV)",
+    "connected_to": "Numbers 1:32",
+    "connected_from": "Numbers 1:30"
+  },
+  {
+    "text": "Of the children of Joseph, [namely], of the children of Ephraim, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+    "reference": "Numbers 1:32 (KJV)",
+    "connected_to": "Numbers 1:33",
+    "connected_from": "Numbers 1:31"
+  },
+  {
+    "text": "Those that were numbered of them, [even] of the tribe of Ephraim, [were] forty thousand and five hundred.",
+    "reference": "Numbers 1:33 (KJV)",
+    "connected_to": "Numbers 1:34",
+    "connected_from": "Numbers 1:32"
+  },
+  {
+    "text": "Of the children of Manasseh, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+    "reference": "Numbers 1:34 (KJV)",
+    "connected_to": "Numbers 1:35",
+    "connected_from": "Numbers 1:33"
+  },
+  {
+    "text": "Those that were numbered of them, [even] of the tribe of Manasseh, [were] thirty and two thousand and two hundred.",
+    "reference": "Numbers 1:35 (KJV)",
+    "connected_to": "Numbers 1:36",
+    "connected_from": "Numbers 1:34"
+  },
+  {
+    "text": "Of the children of Benjamin, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+    "reference": "Numbers 1:36 (KJV)",
+    "connected_to": "Numbers 1:37",
+    "connected_from": "Numbers 1:35"
+  },
+  {
+    "text": "Those that were numbered of them, [even] of the tribe of Benjamin, [were] thirty and five thousand and four hundred.",
+    "reference": "Numbers 1:37 (KJV)",
+    "connected_to": "Numbers 1:38",
+    "connected_from": "Numbers 1:36"
+  },
+  {
+    "text": "Of the children of Dan, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+    "reference": "Numbers 1:38 (KJV)",
+    "connected_to": "Numbers 1:39",
+    "connected_from": "Numbers 1:37"
+  },
+  {
+    "text": "Those that were numbered of them, [even] of the tribe of Dan, [were] threescore and two thousand and seven hundred.",
+    "reference": "Numbers 1:39 (KJV)",
+    "connected_to": "Numbers 1:40",
+    "connected_from": "Numbers 1:38"
+  },
+  {
+    "text": "Of the children of Asher, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+    "reference": "Numbers 1:40 (KJV)",
+    "connected_to": "Numbers 1:41",
+    "connected_from": "Numbers 1:39"
+  },
+  {
+    "text": "Those that were numbered of them, [even] of the tribe of Asher, [were] forty and one thousand and five hundred.",
+    "reference": "Numbers 1:41 (KJV)",
+    "connected_to": "Numbers 1:42",
+    "connected_from": "Numbers 1:40"
+  },
+  {
+    "text": "Of the children of Naphtali, throughout their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+    "reference": "Numbers 1:42 (KJV)",
+    "connected_to": "Numbers 1:43",
+    "connected_from": "Numbers 1:41"
+  },
+  {
+    "text": "Those that were numbered of them, [even] of the tribe of Naphtali, [were] fifty and three thousand and four hundred.",
+    "reference": "Numbers 1:43 (KJV)",
+    "connected_to": "Numbers 1:44",
+    "connected_from": "Numbers 1:42"
+  },
+  {
+    "text": "These [are] those that were numbered, which Moses and Aaron numbered, and the princes of Israel, [being] twelve men: each one was for the house of his fathers.",
+    "reference": "Numbers 1:44 (KJV)",
+    "connected_to": "Numbers 1:45",
+    "connected_from": "Numbers 1:43"
+  },
+  {
+    "text": "So were all those that were numbered of the children of Israel, by the house of their fathers, from twenty years old and upward, all that were able to go forth to war in Israel;",
+    "reference": "Numbers 1:45 (KJV)",
+    "connected_to": "Numbers 1:46",
+    "connected_from": "Numbers 1:44"
+  },
+  {
+    "text": "Even all they that were numbered were six hundred thousand and three thousand and five hundred and fifty.",
+    "reference": "Numbers 1:46 (KJV)",
+    "connected_to": "Numbers 1:47",
+    "connected_from": "Numbers 1:45"
+  },
+  {
+    "text": "But the Levites after the tribe of their fathers were not numbered among them.",
+    "reference": "Numbers 1:47 (KJV)",
+    "connected_to": "Numbers 1:48",
+    "connected_from": "Numbers 1:46"
+  },
+  {
+    "text": "For the LORD had spoken unto Moses, saying,",
+    "reference": "Numbers 1:48 (KJV)",
+    "connected_to": "Numbers 1:49",
+    "connected_from": "Numbers 1:47"
+  },
+  {
+    "text": "Only thou shalt not number the tribe of Levi, neither take the sum of them among the children of Israel:",
+    "reference": "Numbers 1:49 (KJV)",
+    "connected_to": "Numbers 1:50",
+    "connected_from": "Numbers 1:48"
+  },
+  {
+    "text": "But thou shalt appoint the Levites over the tabernacle of testimony, and over all the vessels thereof, and over all things that [belong] to it: they shall bear the tabernacle, and all the vessels thereof; and they shall minister unto it, and shall encamp round about the tabernacle.",
+    "reference": "Numbers 1:50 (KJV)",
+    "connected_to": "Numbers 1:51",
+    "connected_from": "Numbers 1:49"
+  },
+  {
+    "text": "And when the tabernacle setteth forward, the Levites shall take it down: and when the tabernacle is to be pitched, the Levites shall set it up: and the stranger that cometh nigh shall be put to death.",
+    "reference": "Numbers 1:51 (KJV)",
+    "connected_to": "Numbers 1:52",
+    "connected_from": "Numbers 1:50"
+  },
+  {
+    "text": "And the children of Israel shall pitch their tents, every man by his own camp, and every man by his own standard, throughout their hosts.",
+    "reference": "Numbers 1:52 (KJV)",
+    "connected_to": "Numbers 1:53",
+    "connected_from": "Numbers 1:51"
+  },
+  {
+    "text": "But the Levites shall pitch round about the tabernacle of testimony, that there be no wrath upon the congregation of the children of Israel: and the Levites shall keep the charge of the tabernacle of testimony.",
+    "reference": "Numbers 1:53 (KJV)",
+    "connected_to": "Numbers 1:54",
+    "connected_from": "Numbers 1:52"
+  },
+  {
+    "text": "And the children of Israel did according to all that the LORD commanded Moses, so did they.",
+    "reference": "Numbers 1:54 (KJV)",
+    "connected_from": "Numbers 1:53"
+  }
+]

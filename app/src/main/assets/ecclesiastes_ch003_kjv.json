@@ -1,0 +1,132 @@
+[
+  {
+    "text": "To every [thing there is] a season, and a time to every purpose under the heaven:",
+    "reference": "Ecclesiastes 3:1 (KJV)",
+    "connected_to": "Ecclesiastes 3:2"
+  },
+  {
+    "text": "A time to be born, and a time to die; a time to plant, and a time to pluck up [that which is] planted;",
+    "reference": "Ecclesiastes 3:2 (KJV)",
+    "connected_to": "Ecclesiastes 3:3",
+    "connected_from": "Ecclesiastes 3:1"
+  },
+  {
+    "text": "A time to kill, and a time to heal; a time to break down, and a time to build up;",
+    "reference": "Ecclesiastes 3:3 (KJV)",
+    "connected_to": "Ecclesiastes 3:4",
+    "connected_from": "Ecclesiastes 3:2"
+  },
+  {
+    "text": "A time to weep, and a time to laugh; a time to mourn, and a time to dance;",
+    "reference": "Ecclesiastes 3:4 (KJV)",
+    "connected_to": "Ecclesiastes 3:5",
+    "connected_from": "Ecclesiastes 3:3"
+  },
+  {
+    "text": "A time to cast away stones, and a time to gather stones together; a time to embrace, and a time to refrain from embracing;",
+    "reference": "Ecclesiastes 3:5 (KJV)",
+    "connected_to": "Ecclesiastes 3:6",
+    "connected_from": "Ecclesiastes 3:4"
+  },
+  {
+    "text": "A time to get, and a time to lose; a time to keep, and a time to cast away;",
+    "reference": "Ecclesiastes 3:6 (KJV)",
+    "connected_to": "Ecclesiastes 3:7",
+    "connected_from": "Ecclesiastes 3:5"
+  },
+  {
+    "text": "A time to rend, and a time to sew; a time to keep silence, and a time to speak;",
+    "reference": "Ecclesiastes 3:7 (KJV)",
+    "connected_to": "Ecclesiastes 3:8",
+    "connected_from": "Ecclesiastes 3:6"
+  },
+  {
+    "text": "A time to love, and a time to hate; a time of war, and a time of peace.",
+    "reference": "Ecclesiastes 3:8 (KJV)",
+    "connected_to": "Ecclesiastes 3:9",
+    "connected_from": "Ecclesiastes 3:7"
+  },
+  {
+    "text": "What profit hath he that worketh in that wherein he laboureth?",
+    "reference": "Ecclesiastes 3:9 (KJV)",
+    "connected_to": "Ecclesiastes 3:10",
+    "connected_from": "Ecclesiastes 3:8"
+  },
+  {
+    "text": "I have seen the travail, which God hath given to the sons of men to be exercised in it.",
+    "reference": "Ecclesiastes 3:10 (KJV)",
+    "connected_to": "Ecclesiastes 3:11",
+    "connected_from": "Ecclesiastes 3:9"
+  },
+  {
+    "text": "He hath made every [thing] beautiful in his time: also he hath set the world in their heart, so that no man can find out the work that God maketh from the beginning to the end.",
+    "reference": "Ecclesiastes 3:11 (KJV)",
+    "connected_to": "Ecclesiastes 3:12",
+    "connected_from": "Ecclesiastes 3:10"
+  },
+  {
+    "text": "I know that [there is] no good in them, but for [a man] to rejoice, and to do good in his life.",
+    "reference": "Ecclesiastes 3:12 (KJV)",
+    "connected_to": "Ecclesiastes 3:13",
+    "connected_from": "Ecclesiastes 3:11"
+  },
+  {
+    "text": "And also that every man should eat and drink, and enjoy the good of all his labour, it [is] the gift of God.",
+    "reference": "Ecclesiastes 3:13 (KJV)",
+    "connected_to": "Ecclesiastes 3:14",
+    "connected_from": "Ecclesiastes 3:12"
+  },
+  {
+    "text": "I know that, whatsoever God doeth, it shall be for ever: nothing can be put to it, nor any thing taken from it: and God doeth [it], that [men] should fear before him.",
+    "reference": "Ecclesiastes 3:14 (KJV)",
+    "connected_to": "Ecclesiastes 3:15",
+    "connected_from": "Ecclesiastes 3:13"
+  },
+  {
+    "text": "That which hath been is now; and that which is to be hath already been; and God requireth that which is past.",
+    "reference": "Ecclesiastes 3:15 (KJV)",
+    "connected_to": "Ecclesiastes 3:16",
+    "connected_from": "Ecclesiastes 3:14"
+  },
+  {
+    "text": "And moreover I saw under the sun the place of judgment, [that] wickedness [was] there; and the place of righteousness, [that] iniquity [was] there.",
+    "reference": "Ecclesiastes 3:16 (KJV)",
+    "connected_to": "Ecclesiastes 3:17",
+    "connected_from": "Ecclesiastes 3:15"
+  },
+  {
+    "text": "I said in mine heart, God shall judge the righteous and the wicked: for [there is] a time there for every purpose and for every work.",
+    "reference": "Ecclesiastes 3:17 (KJV)",
+    "connected_to": "Ecclesiastes 3:18",
+    "connected_from": "Ecclesiastes 3:16"
+  },
+  {
+    "text": "I said in mine heart concerning the estate of the sons of men, that God might manifest them, and that they might see that they themselves are beasts.",
+    "reference": "Ecclesiastes 3:18 (KJV)",
+    "connected_to": "Ecclesiastes 3:19",
+    "connected_from": "Ecclesiastes 3:17"
+  },
+  {
+    "text": "For that which befalleth the sons of men befalleth beasts; even one thing befalleth them: as the one dieth, so dieth the other; yea, they have all one breath; so that a man hath no preeminence above a beast: for all [is] vanity.",
+    "reference": "Ecclesiastes 3:19 (KJV)",
+    "connected_to": "Ecclesiastes 3:20",
+    "connected_from": "Ecclesiastes 3:18"
+  },
+  {
+    "text": "All go unto one place; all are of the dust, and all turn to dust again.",
+    "reference": "Ecclesiastes 3:20 (KJV)",
+    "connected_to": "Ecclesiastes 3:21",
+    "connected_from": "Ecclesiastes 3:19"
+  },
+  {
+    "text": "Who knoweth the spirit of man that goeth upward, and the spirit of the beast that goeth downward to the earth?",
+    "reference": "Ecclesiastes 3:21 (KJV)",
+    "connected_to": "Ecclesiastes 3:22",
+    "connected_from": "Ecclesiastes 3:20"
+  },
+  {
+    "text": "Wherefore I perceive that [there is] nothing better, than that a man should rejoice in his own works; for that [is] his portion: for who shall bring him to see what shall be after him?",
+    "reference": "Ecclesiastes 3:22 (KJV)",
+    "connected_from": "Ecclesiastes 3:21"
+  }
+]

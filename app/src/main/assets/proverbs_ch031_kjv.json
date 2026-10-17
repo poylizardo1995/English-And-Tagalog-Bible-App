@@ -1,0 +1,186 @@
+[
+  {
+    "text": "The words of king Lemuel, the prophecy that his mother taught him.",
+    "reference": "Proverbs 31:1 (KJV)",
+    "connected_to": "Proverbs 31:2"
+  },
+  {
+    "text": "What, my son? and what, the son of my womb? and what, the son of my vows?",
+    "reference": "Proverbs 31:2 (KJV)",
+    "connected_to": "Proverbs 31:3",
+    "connected_from": "Proverbs 31:1"
+  },
+  {
+    "text": "Give not thy strength unto women, nor thy ways to that which destroyeth kings.",
+    "reference": "Proverbs 31:3 (KJV)",
+    "connected_to": "Proverbs 31:4",
+    "connected_from": "Proverbs 31:2"
+  },
+  {
+    "text": "[It is] not for kings, O Lemuel, [it is] not for kings to drink wine; nor for princes strong drink:",
+    "reference": "Proverbs 31:4 (KJV)",
+    "connected_to": "Proverbs 31:5",
+    "connected_from": "Proverbs 31:3"
+  },
+  {
+    "text": "Lest they drink, and forget the law, and pervert the judgment of any of the afflicted.",
+    "reference": "Proverbs 31:5 (KJV)",
+    "connected_to": "Proverbs 31:6",
+    "connected_from": "Proverbs 31:4"
+  },
+  {
+    "text": "Give strong drink unto him that is ready to perish, and wine unto those that be of heavy hearts.",
+    "reference": "Proverbs 31:6 (KJV)",
+    "connected_to": "Proverbs 31:7",
+    "connected_from": "Proverbs 31:5"
+  },
+  {
+    "text": "Let him drink, and forget his poverty, and remember his misery no more.",
+    "reference": "Proverbs 31:7 (KJV)",
+    "connected_to": "Proverbs 31:8",
+    "connected_from": "Proverbs 31:6"
+  },
+  {
+    "text": "Open thy mouth for the dumb in the cause of all such as are appointed to destruction.",
+    "reference": "Proverbs 31:8 (KJV)",
+    "connected_to": "Proverbs 31:9",
+    "connected_from": "Proverbs 31:7"
+  },
+  {
+    "text": "Open thy mouth, judge righteously, and plead the cause of the poor and needy.",
+    "reference": "Proverbs 31:9 (KJV)",
+    "connected_to": "Proverbs 31:10",
+    "connected_from": "Proverbs 31:8"
+  },
+  {
+    "text": "Who can find a virtuous woman? for her price [is] far above rubies.",
+    "reference": "Proverbs 31:10 (KJV)",
+    "connected_to": "Proverbs 31:11",
+    "connected_from": "Proverbs 31:9"
+  },
+  {
+    "text": "The heart of her husband doth safely trust in her, so that he shall have no need of spoil.",
+    "reference": "Proverbs 31:11 (KJV)",
+    "connected_to": "Proverbs 31:12",
+    "connected_from": "Proverbs 31:10"
+  },
+  {
+    "text": "She will do him good and not evil all the days of her life.",
+    "reference": "Proverbs 31:12 (KJV)",
+    "connected_to": "Proverbs 31:13",
+    "connected_from": "Proverbs 31:11"
+  },
+  {
+    "text": "She seeketh wool, and flax, and worketh willingly with her hands.",
+    "reference": "Proverbs 31:13 (KJV)",
+    "connected_to": "Proverbs 31:14",
+    "connected_from": "Proverbs 31:12"
+  },
+  {
+    "text": "She is like the merchants’ ships; she bringeth her food from afar.",
+    "reference": "Proverbs 31:14 (KJV)",
+    "connected_to": "Proverbs 31:15",
+    "connected_from": "Proverbs 31:13"
+  },
+  {
+    "text": "She riseth also while it is yet night, and giveth meat to her household, and a portion to her maidens.",
+    "reference": "Proverbs 31:15 (KJV)",
+    "connected_to": "Proverbs 31:16",
+    "connected_from": "Proverbs 31:14"
+  },
+  {
+    "text": "She considereth a field, and buyeth it: with the fruit of her hands she planteth a vineyard.",
+    "reference": "Proverbs 31:16 (KJV)",
+    "connected_to": "Proverbs 31:17",
+    "connected_from": "Proverbs 31:15"
+  },
+  {
+    "text": "She girdeth her loins with strength, and strengtheneth her arms.",
+    "reference": "Proverbs 31:17 (KJV)",
+    "connected_to": "Proverbs 31:18",
+    "connected_from": "Proverbs 31:16"
+  },
+  {
+    "text": "She perceiveth that her merchandise [is] good: her candle goeth not out by night.",
+    "reference": "Proverbs 31:18 (KJV)",
+    "connected_to": "Proverbs 31:19",
+    "connected_from": "Proverbs 31:17"
+  },
+  {
+    "text": "She layeth her hands to the spindle, and her hands hold the distaff.",
+    "reference": "Proverbs 31:19 (KJV)",
+    "connected_to": "Proverbs 31:20",
+    "connected_from": "Proverbs 31:18"
+  },
+  {
+    "text": "She stretcheth out her hand to the poor; yea, she reacheth forth her hands to the needy.",
+    "reference": "Proverbs 31:20 (KJV)",
+    "connected_to": "Proverbs 31:21",
+    "connected_from": "Proverbs 31:19"
+  },
+  {
+    "text": "She is not afraid of the snow for her household: for all her household [are] clothed with scarlet.",
+    "reference": "Proverbs 31:21 (KJV)",
+    "connected_to": "Proverbs 31:22",
+    "connected_from": "Proverbs 31:20"
+  },
+  {
+    "text": "She maketh herself coverings of tapestry; her clothing [is] silk and purple.",
+    "reference": "Proverbs 31:22 (KJV)",
+    "connected_to": "Proverbs 31:23",
+    "connected_from": "Proverbs 31:21"
+  },
+  {
+    "text": "Her husband is known in the gates, when he sitteth among the elders of the land.",
+    "reference": "Proverbs 31:23 (KJV)",
+    "connected_to": "Proverbs 31:24",
+    "connected_from": "Proverbs 31:22"
+  },
+  {
+    "text": "She maketh fine linen, and selleth [it]; and delivereth girdles unto the merchant.",
+    "reference": "Proverbs 31:24 (KJV)",
+    "connected_to": "Proverbs 31:25",
+    "connected_from": "Proverbs 31:23"
+  },
+  {
+    "text": "Strength and honour [are] her clothing; and she shall rejoice in time to come.",
+    "reference": "Proverbs 31:25 (KJV)",
+    "connected_to": "Proverbs 31:26",
+    "connected_from": "Proverbs 31:24"
+  },
+  {
+    "text": "She openeth her mouth with wisdom; and in her tongue [is] the law of kindness.",
+    "reference": "Proverbs 31:26 (KJV)",
+    "connected_to": "Proverbs 31:27",
+    "connected_from": "Proverbs 31:25"
+  },
+  {
+    "text": "She looketh well to the ways of her household, and eateth not the bread of idleness.",
+    "reference": "Proverbs 31:27 (KJV)",
+    "connected_to": "Proverbs 31:28",
+    "connected_from": "Proverbs 31:26"
+  },
+  {
+    "text": "Her children arise up, and call her blessed; her husband [also], and he praiseth her.",
+    "reference": "Proverbs 31:28 (KJV)",
+    "connected_to": "Proverbs 31:29",
+    "connected_from": "Proverbs 31:27"
+  },
+  {
+    "text": "Many daughters have done virtuously, but thou excellest them all.",
+    "reference": "Proverbs 31:29 (KJV)",
+    "connected_to": "Proverbs 31:30",
+    "connected_from": "Proverbs 31:28"
+  },
+  {
+    "text": "Favour [is] deceitful, and beauty [is] vain: [but] a woman [that] feareth the LORD, she shall be praised.",
+    "reference": "Proverbs 31:30 (KJV)",
+    "connected_to": "Proverbs 31:31",
+    "connected_from": "Proverbs 31:29"
+  },
+  {
+    "text": "Give her of the fruit of her hands; and let her own works praise her in the gates.",
+    "reference": "Proverbs 31:31 (KJV)",
+    "connected_from": "Proverbs 31:30"
+  }
+]

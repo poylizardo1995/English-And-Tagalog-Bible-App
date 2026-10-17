@@ -1,0 +1,102 @@
+[
+  {
+    "text": "A Prayer of Moses the man of God. Lord, thou hast been our dwelling place in all generations.",
+    "reference": "Psalm 90:1 (KJV)",
+    "connected_to": "Psalm 90:2"
+  },
+  {
+    "text": "Before the mountains were brought forth, or ever thou hadst formed the earth and the world, even from everlasting to everlasting, thou [art] God.",
+    "reference": "Psalm 90:2 (KJV)",
+    "connected_to": "Psalm 90:3",
+    "connected_from": "Psalm 90:1"
+  },
+  {
+    "text": "Thou turnest man to destruction; and sayest, Return, ye children of men.",
+    "reference": "Psalm 90:3 (KJV)",
+    "connected_to": "Psalm 90:4",
+    "connected_from": "Psalm 90:2"
+  },
+  {
+    "text": "For a thousand years in thy sight [are but] as yesterday when it is past, and [as] a watch in the night.",
+    "reference": "Psalm 90:4 (KJV)",
+    "connected_to": "Psalm 90:5",
+    "connected_from": "Psalm 90:3"
+  },
+  {
+    "text": "Thou carriest them away as with a flood; they are [as] a sleep: in the morning [they are] like grass [which] groweth up.",
+    "reference": "Psalm 90:5 (KJV)",
+    "connected_to": "Psalm 90:6",
+    "connected_from": "Psalm 90:4"
+  },
+  {
+    "text": "In the morning it flourisheth, and groweth up; in the evening it is cut down, and withereth.",
+    "reference": "Psalm 90:6 (KJV)",
+    "connected_to": "Psalm 90:7",
+    "connected_from": "Psalm 90:5"
+  },
+  {
+    "text": "For we are consumed by thine anger, and by thy wrath are we troubled.",
+    "reference": "Psalm 90:7 (KJV)",
+    "connected_to": "Psalm 90:8",
+    "connected_from": "Psalm 90:6"
+  },
+  {
+    "text": "Thou hast set our iniquities before thee, our secret [sins] in the light of thy countenance.",
+    "reference": "Psalm 90:8 (KJV)",
+    "connected_to": "Psalm 90:9",
+    "connected_from": "Psalm 90:7"
+  },
+  {
+    "text": "For all our days are passed away in thy wrath: we spend our years as a tale [that is told].",
+    "reference": "Psalm 90:9 (KJV)",
+    "connected_to": "Psalm 90:10",
+    "connected_from": "Psalm 90:8"
+  },
+  {
+    "text": "The days of our years [are] threescore years and ten; and if by reason of strength [they be] fourscore years, yet [is] their strength labour and sorrow; for it is soon cut off, and we fly away.",
+    "reference": "Psalm 90:10 (KJV)",
+    "connected_to": "Psalm 90:11",
+    "connected_from": "Psalm 90:9"
+  },
+  {
+    "text": "Who knoweth the power of thine anger? even according to thy fear, [so is] thy wrath.",
+    "reference": "Psalm 90:11 (KJV)",
+    "connected_to": "Psalm 90:12",
+    "connected_from": "Psalm 90:10"
+  },
+  {
+    "text": "So teach [us] to number our days, that we may apply [our] hearts unto wisdom.",
+    "reference": "Psalm 90:12 (KJV)",
+    "connected_to": "Psalm 90:13",
+    "connected_from": "Psalm 90:11"
+  },
+  {
+    "text": "Return, O LORD, how long? and let it repent thee concerning thy servants.",
+    "reference": "Psalm 90:13 (KJV)",
+    "connected_to": "Psalm 90:14",
+    "connected_from": "Psalm 90:12"
+  },
+  {
+    "text": "O satisfy us early with thy mercy; that we may rejoice and be glad all our days.",
+    "reference": "Psalm 90:14 (KJV)",
+    "connected_to": "Psalm 90:15",
+    "connected_from": "Psalm 90:13"
+  },
+  {
+    "text": "Make us glad according to the days [wherein] thou hast afflicted us, [and] the years [wherein] we have seen evil.",
+    "reference": "Psalm 90:15 (KJV)",
+    "connected_to": "Psalm 90:16",
+    "connected_from": "Psalm 90:14"
+  },
+  {
+    "text": "Let thy work appear unto thy servants, and thy glory unto their children.",
+    "reference": "Psalm 90:16 (KJV)",
+    "connected_to": "Psalm 90:17",
+    "connected_from": "Psalm 90:15"
+  },
+  {
+    "text": "And let the beauty of the LORD our God be upon us: and establish thou the work of our hands upon us; yea, the work of our hands establish thou it.",
+    "reference": "Psalm 90:17 (KJV)",
+    "connected_from": "Psalm 90:16"
+  }
+]

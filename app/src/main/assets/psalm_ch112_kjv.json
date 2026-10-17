@@ -1,0 +1,60 @@
+[
+  {
+    "text": "Praise ye the LORD. Blessed [is] the man [that] feareth the LORD, [that] delighteth greatly in his commandments.",
+    "reference": "Psalm 112:1 (KJV)",
+    "connected_to": "Psalm 112:2"
+  },
+  {
+    "text": "His seed shall be mighty upon earth: the generation of the upright shall be blessed.",
+    "reference": "Psalm 112:2 (KJV)",
+    "connected_to": "Psalm 112:3",
+    "connected_from": "Psalm 112:1"
+  },
+  {
+    "text": "Wealth and riches [shall be] in his house: and his righteousness endureth for ever.",
+    "reference": "Psalm 112:3 (KJV)",
+    "connected_to": "Psalm 112:4",
+    "connected_from": "Psalm 112:2"
+  },
+  {
+    "text": "Unto the upright there ariseth light in the darkness: [he is] gracious, and full of compassion, and righteous.",
+    "reference": "Psalm 112:4 (KJV)",
+    "connected_to": "Psalm 112:5",
+    "connected_from": "Psalm 112:3"
+  },
+  {
+    "text": "A good man sheweth favour, and lendeth: he will guide his affairs with discretion.",
+    "reference": "Psalm 112:5 (KJV)",
+    "connected_to": "Psalm 112:6",
+    "connected_from": "Psalm 112:4"
+  },
+  {
+    "text": "Surely he shall not be moved for ever: the righteous shall be in everlasting remembrance.",
+    "reference": "Psalm 112:6 (KJV)",
+    "connected_to": "Psalm 112:7",
+    "connected_from": "Psalm 112:5"
+  },
+  {
+    "text": "He shall not be afraid of evil tidings: his heart is fixed, trusting in the LORD.",
+    "reference": "Psalm 112:7 (KJV)",
+    "connected_to": "Psalm 112:8",
+    "connected_from": "Psalm 112:6"
+  },
+  {
+    "text": "His heart [is] established, he shall not be afraid, until he see [his desire] upon his enemies.",
+    "reference": "Psalm 112:8 (KJV)",
+    "connected_to": "Psalm 112:9",
+    "connected_from": "Psalm 112:7"
+  },
+  {
+    "text": "He hath dispersed, he hath given to the poor; his righteousness endureth for ever; his horn shall be exalted with honour.",
+    "reference": "Psalm 112:9 (KJV)",
+    "connected_to": "Psalm 112:10",
+    "connected_from": "Psalm 112:8"
+  },
+  {
+    "text": "The wicked shall see [it], and be grieved; he shall gnash with his teeth, and melt away: the desire of the wicked shall perish.",
+    "reference": "Psalm 112:10 (KJV)",
+    "connected_from": "Psalm 112:9"
+  }
+]

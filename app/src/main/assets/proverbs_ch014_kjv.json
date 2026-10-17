@@ -1,0 +1,210 @@
+[
+  {
+    "text": "Every wise woman buildeth her house: but the foolish plucketh it down with her hands.",
+    "reference": "Proverbs 14:1 (KJV)",
+    "connected_to": "Proverbs 14:2"
+  },
+  {
+    "text": "He that walketh in his uprightness feareth the LORD: but [he that is] perverse in his ways despiseth him.",
+    "reference": "Proverbs 14:2 (KJV)",
+    "connected_to": "Proverbs 14:3",
+    "connected_from": "Proverbs 14:1"
+  },
+  {
+    "text": "In the mouth of the foolish [is] a rod of pride: but the lips of the wise shall preserve them.",
+    "reference": "Proverbs 14:3 (KJV)",
+    "connected_to": "Proverbs 14:4",
+    "connected_from": "Proverbs 14:2"
+  },
+  {
+    "text": "Where no oxen [are], the crib [is] clean: but much increase [is] by the strength of the ox.",
+    "reference": "Proverbs 14:4 (KJV)",
+    "connected_to": "Proverbs 14:5",
+    "connected_from": "Proverbs 14:3"
+  },
+  {
+    "text": "A faithful witness will not lie: but a false witness will utter lies.",
+    "reference": "Proverbs 14:5 (KJV)",
+    "connected_to": "Proverbs 14:6",
+    "connected_from": "Proverbs 14:4"
+  },
+  {
+    "text": "A scorner seeketh wisdom, and [findeth it] not: but knowledge [is] easy unto him that understandeth.",
+    "reference": "Proverbs 14:6 (KJV)",
+    "connected_to": "Proverbs 14:7",
+    "connected_from": "Proverbs 14:5"
+  },
+  {
+    "text": "Go from the presence of a foolish man, when thou perceivest not [in him] the lips of knowledge.",
+    "reference": "Proverbs 14:7 (KJV)",
+    "connected_to": "Proverbs 14:8",
+    "connected_from": "Proverbs 14:6"
+  },
+  {
+    "text": "The wisdom of the prudent [is] to understand his way: but the folly of fools [is] deceit.",
+    "reference": "Proverbs 14:8 (KJV)",
+    "connected_to": "Proverbs 14:9",
+    "connected_from": "Proverbs 14:7"
+  },
+  {
+    "text": "Fools make a mock at sin: but among the righteous [there is] favour.",
+    "reference": "Proverbs 14:9 (KJV)",
+    "connected_to": "Proverbs 14:10",
+    "connected_from": "Proverbs 14:8"
+  },
+  {
+    "text": "The heart knoweth his own bitterness; and a stranger doth not intermeddle with his joy.",
+    "reference": "Proverbs 14:10 (KJV)",
+    "connected_to": "Proverbs 14:11",
+    "connected_from": "Proverbs 14:9"
+  },
+  {
+    "text": "The house of the wicked shall be overthrown: but the tabernacle of the upright shall flourish.",
+    "reference": "Proverbs 14:11 (KJV)",
+    "connected_to": "Proverbs 14:12",
+    "connected_from": "Proverbs 14:10"
+  },
+  {
+    "text": "There is a way which seemeth right unto a man, but the end thereof [are] the ways of death.",
+    "reference": "Proverbs 14:12 (KJV)",
+    "connected_to": "Proverbs 14:13",
+    "connected_from": "Proverbs 14:11"
+  },
+  {
+    "text": "Even in laughter the heart is sorrowful; and the end of that mirth [is] heaviness.",
+    "reference": "Proverbs 14:13 (KJV)",
+    "connected_to": "Proverbs 14:14",
+    "connected_from": "Proverbs 14:12"
+  },
+  {
+    "text": "The backslider in heart shall be filled with his own ways: and a good man [shall be satisfied] from himself.",
+    "reference": "Proverbs 14:14 (KJV)",
+    "connected_to": "Proverbs 14:15",
+    "connected_from": "Proverbs 14:13"
+  },
+  {
+    "text": "The simple believeth every word: but the prudent [man] looketh well to his going.",
+    "reference": "Proverbs 14:15 (KJV)",
+    "connected_to": "Proverbs 14:16",
+    "connected_from": "Proverbs 14:14"
+  },
+  {
+    "text": "A wise [man] feareth, and departeth from evil: but the fool rageth, and is confident.",
+    "reference": "Proverbs 14:16 (KJV)",
+    "connected_to": "Proverbs 14:17",
+    "connected_from": "Proverbs 14:15"
+  },
+  {
+    "text": "[He that is] soon angry dealeth foolishly: and a man of wicked devices is hated.",
+    "reference": "Proverbs 14:17 (KJV)",
+    "connected_to": "Proverbs 14:18",
+    "connected_from": "Proverbs 14:16"
+  },
+  {
+    "text": "The simple inherit folly: but the prudent are crowned with knowledge.",
+    "reference": "Proverbs 14:18 (KJV)",
+    "connected_to": "Proverbs 14:19",
+    "connected_from": "Proverbs 14:17"
+  },
+  {
+    "text": "The evil bow before the good; and the wicked at the gates of the righteous.",
+    "reference": "Proverbs 14:19 (KJV)",
+    "connected_to": "Proverbs 14:20",
+    "connected_from": "Proverbs 14:18"
+  },
+  {
+    "text": "The poor is hated even of his own neighbour: but the rich [hath] many friends.",
+    "reference": "Proverbs 14:20 (KJV)",
+    "connected_to": "Proverbs 14:21",
+    "connected_from": "Proverbs 14:19"
+  },
+  {
+    "text": "He that despiseth his neighbour sinneth: but he that hath mercy on the poor, happy [is] he.",
+    "reference": "Proverbs 14:21 (KJV)",
+    "connected_to": "Proverbs 14:22",
+    "connected_from": "Proverbs 14:20"
+  },
+  {
+    "text": "Do they not err that devise evil? but mercy and truth [shall be] to them that devise good.",
+    "reference": "Proverbs 14:22 (KJV)",
+    "connected_to": "Proverbs 14:23",
+    "connected_from": "Proverbs 14:21"
+  },
+  {
+    "text": "In all labour there is profit: but the talk of the lips [tendeth] only to penury.",
+    "reference": "Proverbs 14:23 (KJV)",
+    "connected_to": "Proverbs 14:24",
+    "connected_from": "Proverbs 14:22"
+  },
+  {
+    "text": "The crown of the wise [is] their riches: [but] the foolishness of fools [is] folly.",
+    "reference": "Proverbs 14:24 (KJV)",
+    "connected_to": "Proverbs 14:25",
+    "connected_from": "Proverbs 14:23"
+  },
+  {
+    "text": "A true witness delivereth souls: but a deceitful [witness] speaketh lies.",
+    "reference": "Proverbs 14:25 (KJV)",
+    "connected_to": "Proverbs 14:26",
+    "connected_from": "Proverbs 14:24"
+  },
+  {
+    "text": "In the fear of the LORD [is] strong confidence: and his children shall have a place of refuge.",
+    "reference": "Proverbs 14:26 (KJV)",
+    "connected_to": "Proverbs 14:27",
+    "connected_from": "Proverbs 14:25"
+  },
+  {
+    "text": "The fear of the LORD [is] a fountain of life, to depart from the snares of death.",
+    "reference": "Proverbs 14:27 (KJV)",
+    "connected_to": "Proverbs 14:28",
+    "connected_from": "Proverbs 14:26"
+  },
+  {
+    "text": "In the multitude of people [is] the king’s honour: but in the want of people [is] the destruction of the prince.",
+    "reference": "Proverbs 14:28 (KJV)",
+    "connected_to": "Proverbs 14:29",
+    "connected_from": "Proverbs 14:27"
+  },
+  {
+    "text": "[He that is] slow to wrath [is] of great understanding: but [he that is] hasty of spirit exalteth folly.",
+    "reference": "Proverbs 14:29 (KJV)",
+    "connected_to": "Proverbs 14:30",
+    "connected_from": "Proverbs 14:28"
+  },
+  {
+    "text": "A sound heart [is] the life of the flesh: but envy the rottenness of the bones.",
+    "reference": "Proverbs 14:30 (KJV)",
+    "connected_to": "Proverbs 14:31",
+    "connected_from": "Proverbs 14:29"
+  },
+  {
+    "text": "He that oppresseth the poor reproacheth his Maker: but he that honoureth him hath mercy on the poor.",
+    "reference": "Proverbs 14:31 (KJV)",
+    "connected_to": "Proverbs 14:32",
+    "connected_from": "Proverbs 14:30"
+  },
+  {
+    "text": "The wicked is driven away in his wickedness: but the righteous hath hope in his death.",
+    "reference": "Proverbs 14:32 (KJV)",
+    "connected_to": "Proverbs 14:33",
+    "connected_from": "Proverbs 14:31"
+  },
+  {
+    "text": "Wisdom resteth in the heart of him that hath understanding: but [that which is] in the midst of fools is made known.",
+    "reference": "Proverbs 14:33 (KJV)",
+    "connected_to": "Proverbs 14:34",
+    "connected_from": "Proverbs 14:32"
+  },
+  {
+    "text": "Righteousness exalteth a nation: but sin [is] a reproach to any people.",
+    "reference": "Proverbs 14:34 (KJV)",
+    "connected_to": "Proverbs 14:35",
+    "connected_from": "Proverbs 14:33"
+  },
+  {
+    "text": "The king’s favour [is] toward a wise servant: but his wrath is [against] him that causeth shame.",
+    "reference": "Proverbs 14:35 (KJV)",
+    "connected_from": "Proverbs 14:34"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "text": "A Psalm of praise. Make a joyful noise unto the LORD, all ye lands.",
+    "reference": "Psalm 100:1 (KJV)",
+    "connected_to": "Psalm 100:2"
+  },
+  {
+    "text": "Serve the LORD with gladness: come before his presence with singing.",
+    "reference": "Psalm 100:2 (KJV)",
+    "connected_to": "Psalm 100:3",
+    "connected_from": "Psalm 100:1"
+  },
+  {
+    "text": "Know ye that the LORD he [is] God: [it is] he [that] hath made us, and not we ourselves; [we are] his people, and the sheep of his pasture.",
+    "reference": "Psalm 100:3 (KJV)",
+    "connected_to": "Psalm 100:4",
+    "connected_from": "Psalm 100:2"
+  },
+  {
+    "text": "Enter into his gates with thanksgiving, [and] into his courts with praise: be thankful unto him, [and] bless his name.",
+    "reference": "Psalm 100:4 (KJV)",
+    "connected_to": "Psalm 100:5",
+    "connected_from": "Psalm 100:3"
+  },
+  {
+    "text": "For the LORD [is] good; his mercy [is] everlasting; and his truth [endureth] to all generations.",
+    "reference": "Psalm 100:5 (KJV)",
+    "connected_from": "Psalm 100:4"
+  }
+]

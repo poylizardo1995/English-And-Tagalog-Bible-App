@@ -1,0 +1,78 @@
+[
+  {
+    "text": "Woe to them that devise iniquity, and work evil upon their beds! when the morning is light, they practise it, because it is in the power of their hand.",
+    "reference": "Micah 2:1 (KJV)",
+    "connected_to": "Micah 2:2"
+  },
+  {
+    "text": "And they covet fields, and take [them] by violence; and houses, and take [them] away: so they oppress a man and his house, even a man and his heritage.",
+    "reference": "Micah 2:2 (KJV)",
+    "connected_to": "Micah 2:3",
+    "connected_from": "Micah 2:1"
+  },
+  {
+    "text": "Therefore thus saith the LORD; Behold, against this family do I devise an evil, from which ye shall not remove your necks; neither shall ye go haughtily: for this time [is] evil.",
+    "reference": "Micah 2:3 (KJV)",
+    "connected_to": "Micah 2:4",
+    "connected_from": "Micah 2:2"
+  },
+  {
+    "text": "In that day shall [one] take up a parable against you, and lament with a doleful lamentation, [and] say, We be utterly spoiled: he hath changed the portion of my people: how hath he removed [it] from me! turning away he hath divided our fields.",
+    "reference": "Micah 2:4 (KJV)",
+    "connected_to": "Micah 2:5",
+    "connected_from": "Micah 2:3"
+  },
+  {
+    "text": "Therefore thou shalt have none that shall cast a cord by lot in the congregation of the LORD.",
+    "reference": "Micah 2:5 (KJV)",
+    "connected_to": "Micah 2:6",
+    "connected_from": "Micah 2:4"
+  },
+  {
+    "text": "Prophesy ye not, [say they to them that] prophesy: they shall not prophesy to them, [that] they shall not take shame.",
+    "reference": "Micah 2:6 (KJV)",
+    "connected_to": "Micah 2:7",
+    "connected_from": "Micah 2:5"
+  },
+  {
+    "text": "O [thou that art] named the house of Jacob, is the spirit of the LORD straitened? [are] these his doings? do not my words do good to him that walketh uprightly?",
+    "reference": "Micah 2:7 (KJV)",
+    "connected_to": "Micah 2:8",
+    "connected_from": "Micah 2:6"
+  },
+  {
+    "text": "Even of late my people is risen up as an enemy: ye pull off the robe with the garment from them that pass by securely as men averse from war.",
+    "reference": "Micah 2:8 (KJV)",
+    "connected_to": "Micah 2:9",
+    "connected_from": "Micah 2:7"
+  },
+  {
+    "text": "The women of my people have ye cast out from their pleasant houses; from their children have ye taken away my glory for ever.",
+    "reference": "Micah 2:9 (KJV)",
+    "connected_to": "Micah 2:10",
+    "connected_from": "Micah 2:8"
+  },
+  {
+    "text": "Arise ye, and depart; for this [is] not [your] rest: because it is polluted, it shall destroy [you], even with a sore destruction.",
+    "reference": "Micah 2:10 (KJV)",
+    "connected_to": "Micah 2:11",
+    "connected_from": "Micah 2:9"
+  },
+  {
+    "text": "If a man walking in the spirit and falsehood do lie, [saying], I will prophesy unto thee of wine and of strong drink; he shall even be the prophet of this people.",
+    "reference": "Micah 2:11 (KJV)",
+    "connected_to": "Micah 2:12",
+    "connected_from": "Micah 2:10"
+  },
+  {
+    "text": "I will surely assemble, O Jacob, all of thee; I will surely gather the remnant of Israel; I will put them together as the sheep of Bozrah, as the flock in the midst of their fold: they shall make great noise by reason of [the multitude of] men.",
+    "reference": "Micah 2:12 (KJV)",
+    "connected_to": "Micah 2:13",
+    "connected_from": "Micah 2:11"
+  },
+  {
+    "text": "The breaker is come up before them: they have broken up, and have passed through the gate, and are gone out by it: and their king shall pass before them, and the LORD on the head of them.",
+    "reference": "Micah 2:13 (KJV)",
+    "connected_from": "Micah 2:12"
+  }
+]
