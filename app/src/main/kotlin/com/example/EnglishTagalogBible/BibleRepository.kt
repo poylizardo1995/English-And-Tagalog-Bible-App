@@ -254,7 +254,7 @@ object BibleRepository {
 
     fun getRandomVerse(context: Context): BibleVerse {
         loadVerses(context)
-        return if (verses.isNotEmpty()) verses.random() else BibleVerse("The Lord is my shepherd; I shall not want.", "Psalm 23:1 (KJV)"))
+        return if (verses.isNotEmpty()) verses.random() else BibleVerse("The Lord is my shepherd; I shall not want.", "Psalm 23:1 (KJV)")
     }
 
     /**
