@@ -299,9 +299,11 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                     this.gravity = android.view.Gravity.CENTER
                     this.textAlignment = android.view.View.TEXT_ALIGNMENT_CENTER
                     this.setPadding(0, 28, 0, 28)
-                    if (items[position].startsWith("—") || items[position].contains("✅") || items[position].contains("⬇️")) {
+                    if (items[position].startsWith("—") || items[position].startsWith("📜") || items[position].startsWith("✝️") || items[position].startsWith("📚") || items[position].contains("✅") || items[position].contains("⬇️")) {
                         this.setTextColor(accentColor)
                         this.setTypeface(null, android.graphics.Typeface.BOLD)
+                    } else {
+                        this.setTypeface(null, android.graphics.Typeface.NORMAL)
                     }
                     layoutParams = android.widget.AbsListView.LayoutParams(android.widget.AbsListView.LayoutParams.MATCH_PARENT, android.widget.AbsListView.LayoutParams.WRAP_CONTENT)
                 }
@@ -362,14 +364,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             val textPaint = Paint().apply { color = Color.parseColor("#FFFFFF"); textSize = 54f; typeface = Typeface.create("serif", Typeface.ITALIC); isAntiAlias = true; textAlign = Paint.Align.CENTER }
             val refPaint = Paint().apply { color = Color.parseColor("#E0E0E0"); textSize = 42f; typeface = Typeface.create(Typeface.DEFAULT, Typeface.BOLD); isAntiAlias = true; textAlign = Paint.Align.CENTER }
 
-            val maxWidth = width - 200f
-            val lines = mutableListOf<String>()
-            for (word in verseText.split(" ")) {
-                val testLine = if (lines.isEmpty()) word else "${lines.last()} $word"
-                // simplified line breaking for brevity or keep standard
-                lines.add(word)
-            }
-
             val cachePath = File(cacheDir, "images").apply { mkdirs() }
             val file = File(cachePath, "shared_verse.png")
             FileOutputStream(file).use { bitmap.compress(Bitmap.CompressFormat.PNG, 100, it) }
@@ -404,7 +398,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             setPadding(48, 16, 48, 0)
         }
 
-        // Only list available translations
         val availableTranslations = BibleTranslation.values().filter { it.isAvailable(this) }
         val translationNames = availableTranslations.map { it.displayName }.toTypedArray()
         
@@ -604,26 +597,85 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
     private fun showAboutDialog() {
         val dialog = AlertDialog.Builder(this)
-            .setMessage("About & Credits\n\nEnglish and Tagalog Bible v1.3\nDeveloped by Poy Lizardo\n\nTo God be the glory!")
-            .setPositiveButton("OK") { d, _ -> d.dismiss() }
+            .setMessage(
+                "About & Credits\n\n" +
+                "English and Tagalog Bible v1.3\n\n" +
+                "App Developed by Poy Lizardo\n\n" +
+                "Copyright © 2026. All Rights Reserved. To God be the glory!\n\n" +
+                "Scripture Text Provided via Public Domain Translations: English - King James Version (KJV) and Tagalog - Ang Dating Biblia 1905 (ADB1905).\n\n" +    
+                "Github: https://github.com/poylizardo1995/English-And-Tagalog-Bible-App"
+            )
+            .setPositiveButton("OK") { dialogInterface, _ -> dialogInterface.dismiss() }
             .create()
+
         applyThemedDialogStyle(dialog)
+        dialog.findViewById<TextView>(android.R.id.message)?.textSize = 15f
     }
 
+    // --- RESTORED CATEGORIZED BOOK SELECTION DIALOG ---
     private fun showBookSelectionDialog() {
-        val books = BibleRepository.getAvailableBooks(this).toTypedArray()
-        val dialog = AlertDialog.Builder(this)
-            .setTitle("Select Book")
-            .setAdapter(createCenteredListAdapter(books)) { _, which -> showChapterSelectionDialog(books[which]) }
+        val allBooksAlphabetical = BibleRepository.getAvailableBooks(this).toTypedArray()
+
+        val categoryMap = linkedMapOf(
+            "📜 OLD TESTAMENT" to arrayOf(
+                "— Law / Torah —",
+                "Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy",
+                "— History —",
+                "Joshua", "Judges", "Ruth", "1 Samuel", "2 Samuel", "1 Kings", "2 Kings", "1 Chronicles", "2 Chronicles", "Ezra", "Nehemiah", "Esther",
+                "— Poetry & Wisdom —",
+                "Job", "Psalms", "Proverbs", "Ecclesiastes", "Song of Solomon",
+                "— Major Prophets —",
+                "Isaiah", "Jeremiah", "Lamentations", "Ezekiel", "Daniel",
+                "— Minor Prophets —",
+                "Hosea", "Joel", "Amos", "Obadiah", "Jonah", "Micah", "Nahum", "Habakkuk", "Zephaniah", "Haggai", "Zechariah", "Malachi"
+            ),
+            "✝️ NEW TESTAMENT" to arrayOf(
+                "— Gospels —",
+                "Matthew", "Mark", "Luke", "John",
+                "— History —",
+                "Acts",
+                "— Pauline Epistles —",
+                "Romans", "1 Corinthians", "2 Corinthians", "Galatians", "Ephesians", "Philippians", "Colossians", "1 Thessalonians", "2 Thessalonians", "1 Timothy", "2 Timothy", "Titus", "Philemon",
+                "— General Epistles —",
+                "Hebrews", "James", "1 Peter", "2 Peter", "1 John", "2 John", "3 John", "Jude",
+                "— Prophecy —",
+                "Revelation"
+            ),
+            "📚 ALL BOOKS (A - Z)" to allBooksAlphabetical
+        )
+
+        val categories = categoryMap.keys.toTypedArray()
+
+        val categoryDialog = AlertDialog.Builder(this)
+            .setTitle("Select Category")
+            .setAdapter(createCenteredListAdapter(categories)) { _, catIndex ->
+                val selectedCategory = categories[catIndex]
+                val categoryItems = categoryMap[selectedCategory] ?: emptyArray()
+
+                val bookDialog = AlertDialog.Builder(this)
+                    .setTitle(selectedCategory)
+                    .setAdapter(createCenteredListAdapter(categoryItems)) { _, bookIndex ->
+                        val selectedItem = categoryItems[bookIndex]
+                        if (!selectedItem.startsWith("—")) {
+                            showChapterSelectionDialog(selectedItem)
+                        }
+                    }
+                    .create()
+
+                applyThemedDialogStyle(bookDialog)
+            }
             .create()
-        applyThemedDialogStyle(dialog)
+
+        applyThemedDialogStyle(categoryDialog)
     }
 
     private fun showChapterSelectionDialog(bookName: String) {
         val chapters = BibleRepository.getChaptersForBook(bookName, this).toTypedArray()
         val dialog = AlertDialog.Builder(this)
-            .setTitle("Select Chapter")
-            .setAdapter(createCenteredListAdapter(chapters)) { _, which -> showVerseSelectionDialog(chapters[which]) }
+            .setTitle("Select Chapter in $bookName")
+            .setAdapter(createCenteredListAdapter(chapters)) { _, which ->
+                showVerseSelectionDialog(chapters[which])
+            }
             .create()
         applyThemedDialogStyle(dialog)
     }
@@ -632,8 +684,10 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val chapterVerses = BibleRepository.getVerseObjectsForChapter(chapterName, this)
         val verseTitles = chapterVerses.map { it.reference }.toTypedArray()
         val dialog = AlertDialog.Builder(this)
-            .setTitle("Select Verse")
-            .setAdapter(createCenteredListAdapter(verseTitles)) { _, which -> displayVerse(chapterVerses[which]) }
+            .setTitle("Select Verse in $chapterName")
+            .setAdapter(createCenteredListAdapter(verseTitles)) { _, which ->
+                displayVerse(chapterVerses[which])
+            }
             .create()
         applyThemedDialogStyle(dialog)
     }
@@ -669,65 +723,276 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         Toast.makeText(this, msg, Toast.LENGTH_SHORT).apply { setGravity(android.view.Gravity.CENTER, 0, 0); show() }
     }
 
+    // --- RESTORED COMPLETE CURATED THEMES & BUTTON STYLING ---
     private fun applyTheme() {
         val rootLayout = findViewById<ViewGroup>(android.R.id.content).getChildAt(0) ?: window.decorView
-        window.statusBarColor = when (currentTheme) {
+
+        val statusBarColor = when (currentTheme) {
             ThemeMode.SEPIA -> Color.parseColor("#E8E2D5")
             ThemeMode.CHARCOAL -> Color.parseColor("#121212")
             ThemeMode.NAVY -> Color.parseColor("#0B0F19")
             ThemeMode.OLIVE -> Color.parseColor("#111813")
             ThemeMode.SUNSET -> Color.parseColor("#2D1A12")
         }
+        window.statusBarColor = statusBarColor
 
         when (currentTheme) {
             ThemeMode.SEPIA -> {
                 rootLayout.setBackgroundResource(R.drawable.bg_gradient)
+                
+                verseCard.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#FFFFFF"))
                 verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#FFFFFF")))
                 verseCard.strokeColor = Color.parseColor("#D0C4B2")
+                verseCard.cardElevation = 8f
+                
                 tvVerseText.setTextColor(Color.parseColor("#2D241E"))
                 tvVerseRef.setTextColor(Color.parseColor("#8C6D53"))
+                
                 btnToggleTheme.text = "🎨 Theme: Classic Sepia"
+                btnToggleTheme.setTextColor(Color.parseColor("#6E472C"))
+                btnToggleTheme.strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
+                btnToggleTheme.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
+                
+                btnRefresh.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#6E472C"))
+                btnRefresh.setTextColor(Color.WHITE)
+                if (btnRefresh is MaterialButton) {
+                    (btnRefresh as MaterialButton).strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
+                }
+
+                btnSearch.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#6E472C"))
+                btnSearch.setTextColor(Color.WHITE)
+                if (btnSearch is MaterialButton) {
+                    (btnSearch as MaterialButton).strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
+                }
+                
+                val dayButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout)
+                for (btn in dayButtons) {
+                    btn.setTextColor(Color.parseColor("#6E472C"))
+                    btn.strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
+                    btn.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
+                }
             }
             ThemeMode.CHARCOAL -> {
                 rootLayout.setBackgroundColor(Color.parseColor("#121212"))
+                
+                verseCard.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#1E1E1E"))
                 verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#1E1E1E")))
                 verseCard.strokeColor = Color.parseColor("#444444")
+                verseCard.cardElevation = 6f
+                
                 tvVerseText.setTextColor(Color.parseColor("#FFFFFF"))
                 tvVerseRef.setTextColor(Color.parseColor("#FFB74D"))
+                
                 btnToggleTheme.text = "🎨 Theme: Charcoal Contrast"
+                btnToggleTheme.setTextColor(Color.parseColor("#FFB74D"))
+                btnToggleTheme.strokeColor = ColorStateList.valueOf(Color.parseColor("#FFB74D"))
+                btnToggleTheme.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
+                
+                btnRefresh.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#333333"))
+                btnRefresh.setTextColor(Color.parseColor("#FFB74D"))
+                if (btnRefresh is MaterialButton) {
+                    (btnRefresh as MaterialButton).strokeColor = ColorStateList.valueOf(Color.parseColor("#FFB74D"))
+                }
+
+                btnSearch.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#333333"))
+                btnSearch.setTextColor(Color.parseColor("#FFB74D"))
+                if (btnSearch is MaterialButton) {
+                    (btnSearch as MaterialButton).strokeColor = ColorStateList.valueOf(Color.parseColor("#FFB74D"))
+                }
+                
+                val charcoalButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout)
+                for (btn in charcoalButtons) {
+                    btn.setTextColor(Color.parseColor("#FFFFFF"))
+                    btn.strokeColor = ColorStateList.valueOf(Color.parseColor("#666666"))
+                    btn.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
+                }
             }
             ThemeMode.NAVY -> {
                 rootLayout.setBackgroundColor(Color.parseColor("#0B0F19"))
+                
+                verseCard.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#121826"))
                 verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#121826")))
                 verseCard.strokeColor = Color.parseColor("#283593")
+                verseCard.cardElevation = 6f
+                
                 tvVerseText.setTextColor(Color.parseColor("#FFFFFF"))
                 tvVerseRef.setTextColor(Color.parseColor("#9FA8DA"))
+                
                 btnToggleTheme.text = "🎨 Theme: Midnight Navy"
+                btnToggleTheme.setTextColor(Color.parseColor("#9FA8DA"))
+                btnToggleTheme.strokeColor = ColorStateList.valueOf(Color.parseColor("#7986CB"))
+                btnToggleTheme.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
+                
+                btnRefresh.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#3F51B5"))
+                btnRefresh.setTextColor(Color.parseColor("#FFFFFF"))
+                if (btnRefresh is MaterialButton) {
+                    (btnRefresh as MaterialButton).strokeColor = ColorStateList.valueOf(Color.parseColor("#3F51B5"))
+                }
+
+                btnSearch.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#3F51B5"))
+                btnSearch.setTextColor(Color.parseColor("#FFFFFF"))
+                if (btnSearch is MaterialButton) {
+                    (btnSearch as MaterialButton).strokeColor = ColorStateList.valueOf(Color.parseColor("#3F51B5"))
+                }
+                
+                val navyButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout)
+                for (btn in navyButtons) {
+                    btn.setTextColor(Color.parseColor("#E0E0E0"))
+                    btn.strokeColor = ColorStateList.valueOf(Color.parseColor("#7986CB"))
+                    btn.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
+                }
             }
             ThemeMode.OLIVE -> {
                 rootLayout.setBackgroundColor(Color.parseColor("#111813"))
+                
+                verseCard.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#1A211C"))
                 verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#1A211C")))
                 verseCard.strokeColor = Color.parseColor("#2E7D32")
+                verseCard.cardElevation = 6f
+                
                 tvVerseText.setTextColor(Color.parseColor("#FFFFFF"))
                 tvVerseRef.setTextColor(Color.parseColor("#A5D6A7"))
+                
                 btnToggleTheme.text = "🎨 Theme: Olive Grace"
+                btnToggleTheme.setTextColor(Color.parseColor("#A5D6A7"))
+                btnToggleTheme.strokeColor = ColorStateList.valueOf(Color.parseColor("#81C784"))
+                btnToggleTheme.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
+                
+                btnRefresh.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#2E7D32"))
+                btnRefresh.setTextColor(Color.parseColor("#FFFFFF"))
+                if (btnRefresh is MaterialButton) {
+                    (btnRefresh as MaterialButton).strokeColor = ColorStateList.valueOf(Color.parseColor("#2E7D32"))
+                }
+
+                btnSearch.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#2E7D32"))
+                btnSearch.setTextColor(Color.parseColor("#FFFFFF"))
+                if (btnSearch is MaterialButton) {
+                    (btnSearch as MaterialButton).strokeColor = ColorStateList.valueOf(Color.parseColor("#2E7D32"))
+                }
+                
+                val oliveButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout)
+                for (btn in oliveButtons) {
+                    btn.setTextColor(Color.parseColor("#E0E0E0"))
+                    btn.strokeColor = ColorStateList.valueOf(Color.parseColor("#81C784"))
+                    btn.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
+                }
             }
             ThemeMode.SUNSET -> {
                 rootLayout.setBackgroundColor(Color.parseColor("#1B0F0B"))
+                
+                verseCard.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#2D1A12"))
                 verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#2D1A12")))
                 verseCard.strokeColor = Color.parseColor("#D77A61")
+                verseCard.cardElevation = 6f
+                
                 tvVerseText.setTextColor(Color.parseColor("#FFE5D9"))
                 tvVerseRef.setTextColor(Color.parseColor("#FFB74D"))
+                
                 btnToggleTheme.text = "🎨 Theme: Warm Sunset"
+                btnToggleTheme.setTextColor(Color.parseColor("#FFB74D"))
+                btnToggleTheme.strokeColor = ColorStateList.valueOf(Color.parseColor("#D77A61"))
+                btnToggleTheme.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
+                
+                btnRefresh.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#A34828"))
+                btnRefresh.setTextColor(Color.parseColor("#FFFFFF"))
+                if (btnRefresh is MaterialButton) {
+                    (btnRefresh as MaterialButton).strokeColor = ColorStateList.valueOf(Color.parseColor("#A34828"))
+                }
+
+                btnSearch.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#A34828"))
+                btnSearch.setTextColor(Color.parseColor("#FFFFFF"))
+                if (btnSearch is MaterialButton) {
+                    (btnSearch as MaterialButton).strokeColor = ColorStateList.valueOf(Color.parseColor("#A34828"))
+                }
+                
+                val sunsetButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout)
+                for (btn in sunsetButtons) {
+                    btn.setTextColor(Color.parseColor("#FFE5D9"))
+                    btn.strokeColor = ColorStateList.valueOf(Color.parseColor("#D77A61"))
+                    btn.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
+                }
             }
         }
         updateLanguageToggleUI(BibleRepository.currentTranslation)
     }
 
     private fun updateLanguageToggleUI(translation: BibleTranslation) {
-        val isEnglish = translation.languageGroup == "English"
-        btnEnglish.text = if (isEnglish) "${translation.displayName.uppercase()} ▾" else "ENGLISH ▾"
-        btnTagalog.text = if (!isEnglish) "${translation.displayName.uppercase()} ▾" else "TAGALOG ▾"
+        val isEnglishActive = translation.languageGroup == "English"
+        btnEnglish.text = if (isEnglishActive) translation.displayName.uppercase() + " ▾" else "ENGLISH ▾"
+        btnTagalog.text = if (!isEnglishActive) translation.displayName.uppercase() + " ▾" else "TAGALOG ▾"
+
+        val isDark = currentTheme != ThemeMode.SEPIA
+
+        if (isDark) {
+            verseCard.backgroundTintList = null
+            verseCard.setCardBackgroundColor(ColorStateList.valueOf(
+                when (currentTheme) {
+                    ThemeMode.CHARCOAL -> Color.parseColor("#1E1E1E")
+                    ThemeMode.NAVY -> Color.parseColor("#121826")
+                    ThemeMode.OLIVE -> Color.parseColor("#1A211C")
+                    ThemeMode.SUNSET -> Color.parseColor("#2D1A12")
+                    else -> Color.parseColor("#1E1E1E")
+                }
+            ))
+            verseCard.strokeColor = when (currentTheme) {
+                ThemeMode.CHARCOAL -> Color.parseColor("#444444")
+                ThemeMode.NAVY -> Color.parseColor("#283593")
+                ThemeMode.OLIVE -> Color.parseColor("#2E7D32")
+                ThemeMode.SUNSET -> Color.parseColor("#D77A61")
+                else -> Color.parseColor("#444444")
+            }
+
+            val pillColorHex = when (currentTheme) {
+                ThemeMode.CHARCOAL -> Color.parseColor("#333333")
+                ThemeMode.NAVY -> Color.parseColor("#3F51B5")
+                ThemeMode.OLIVE -> Color.parseColor("#2E7D32")
+                ThemeMode.SUNSET -> Color.parseColor("#A34828")
+                else -> Color.parseColor("#8D6E63")
+            }
+            val darkPillColor = ColorStateList.valueOf(pillColorHex)
+
+            if (isEnglishActive) {
+                btnEnglish.setBackgroundResource(R.drawable.bg_pill_selected)
+                btnEnglish.backgroundTintList = darkPillColor
+                btnEnglish.setTextColor(if (currentTheme == ThemeMode.CHARCOAL) Color.parseColor("#FFB74D") else Color.parseColor("#FFFFFF"))
+                
+                btnTagalog.backgroundTintList = null
+                btnTagalog.setBackgroundColor(Color.TRANSPARENT)
+                btnTagalog.setTextColor(Color.parseColor("#D7CCC8"))
+            } else {
+                btnTagalog.setBackgroundResource(R.drawable.bg_pill_selected)
+                btnTagalog.backgroundTintList = darkPillColor
+                btnTagalog.setTextColor(if (currentTheme == ThemeMode.CHARCOAL) Color.parseColor("#FFB74D") else Color.parseColor("#FFFFFF"))
+                
+                btnEnglish.backgroundTintList = null
+                btnEnglish.setBackgroundColor(Color.TRANSPARENT)
+                btnTagalog.setTextColor(Color.parseColor("#D7CCC8"))
+            }
+        } else {
+            verseCard.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#FFFFFF"))
+            verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#FFFFFF")))
+            verseCard.strokeColor = Color.parseColor("#D0C4B2")
+
+            val dayPillColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
+
+            if (isEnglishActive) {
+                btnEnglish.setBackgroundResource(R.drawable.bg_pill_selected)
+                btnEnglish.backgroundTintList = dayPillColor
+                btnEnglish.setTextColor(Color.WHITE)
+                
+                btnTagalog.backgroundTintList = null
+                btnTagalog.setBackgroundColor(Color.TRANSPARENT)
+                btnTagalog.setTextColor(Color.parseColor("#555555"))
+            } else {
+                btnTagalog.setBackgroundResource(R.drawable.bg_pill_selected)
+                btnTagalog.backgroundTintList = dayPillColor
+                btnTagalog.setTextColor(Color.WHITE)
+                
+                btnEnglish.backgroundTintList = null
+                btnEnglish.setBackgroundColor(Color.TRANSPARENT)
+                btnTagalog.setTextColor(Color.parseColor("#555555"))
+            }
+        }
     }
 
     private fun speakVerse(verse: BibleVerse) {
