@@ -162,6 +162,16 @@ object BibleRepository {
         "Jude" to "Judas",
         "Pahayag" to "Revelation",
         "Revelation" to "Pahayag",
+        "Apocalipsis" to "Apocalypse",
+        "Apocalypse" to "Apocalipsis",
+        "Apocalipsis" to "Revelation",
+        "Revelation" to  "Apocalipsis",
+        "Pahayag" to "Apocalypse",
+        "Apocalypse" to "Pahayag",
+        "Pahayag" to "Apocalipsis",
+        "Apocalipsis" to "Pahayag",
+        "Revelation" to "Apocalypse",
+        "Apocalypse" to "Revelation"
     )
 
     /**
