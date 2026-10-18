@@ -38,7 +38,11 @@ enum class BibleTranslation(
         val biblesDir = File(context.filesDir, "bibles")
         if (!biblesDir.exists()) return false
         val files = biblesDir.listFiles() ?: return false
-        return files.any { it.name.endsWith("_${suffix}.json") }
+        val cleanSuffix = suffix.lowercase()
+        return files.any { 
+            it.name.lowercase().endsWith("_${cleanSuffix}.json") || 
+            it.name.lowercase() == "${cleanSuffix}.json" 
+        }
     }
 }
 
@@ -147,9 +151,15 @@ object BibleRepository {
                 emptyList()
             }
 
-            val targetSuffix = "_${translation.suffix}.json"
+            val cleanSuffix = translation.suffix.lowercase()
+            val targetSuffix = "_${cleanSuffix}.json"
+            val singleFileName = "${cleanSuffix}.json"
+
             val allFiles = (assetFiles + downloadedFiles).distinct()
-            val matchingFiles = allFiles.filter { it.endsWith(targetSuffix) }
+            val matchingFiles = allFiles.filter { file ->
+                file.lowercase().endsWith(targetSuffix) || file.lowercase() == singleFileName
+            }
+            
             val filesToLoad = if (matchingFiles.isNotEmpty()) {
                 matchingFiles
             } else {
