@@ -30,7 +30,7 @@ enum class BibleTranslation(
     WEB("English", "English (WEB)", "web", false, "World English Bible (2020-2022)"),
     WNT("English", "English (WNT)", "wnt", false, "Weymouth New Testament (1903)"),
     YLT("English", "English (YLT)", "ylt", false, "Young's Literal Translation (1862)"),
-    ADB1905("Tagalog", "Tagalog (ADB1905)", "adb1905", true, "Ang Dating Biblia (1905)"),
+    ADB("Tagalog", "Tagalog (ADB)", "adb", true, "Ang Dating Biblia (1905)"),
     MBB("Tagalog", "Tagalog (MBB)", "mbb", false, "Magandang Balita Biblia");
 
     fun isAvailable(context: Context): Boolean {
