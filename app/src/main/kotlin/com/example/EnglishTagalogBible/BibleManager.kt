@@ -111,31 +111,4 @@ object BibleManager {
         }
     }
     
-    fun importManualFile(context: Context, uri: Uri, onSuccess: () -> Unit, onError: (String) -> Unit) {
-        try {
-            val targetDir = File(context.filesDir, "bibles").apply { mkdirs() }
-            val inputStream = context.contentResolver.openInputStream(uri) 
-                ?: return onError("Could not read file stream")
-            
-            var fileName: String? = null
-            context.contentResolver.query(uri, null, null, null, null)?.use { cursor ->
-                val nameIndex = cursor.getColumnIndex(OpenableColumns.DISPLAY_NAME)
-                if (nameIndex != -1 && cursor.moveToFirst()) {
-                    fileName = cursor.getString(nameIndex)
-                }
-            }
-
-            val finalFileName = fileName ?: "custom_translation_${System.currentTimeMillis()}.json"
-            val outputFile = File(targetDir, finalFileName)
-            
-            inputStream.use { input ->
-                outputFile.outputStream().use { output ->
-                    input.copyTo(output)
-                }
-            }
-            onSuccess()
-        } catch (e: Exception) {
-            onError(e.localizedMessage ?: "Manual import failed")
-        }
-    }
 }
