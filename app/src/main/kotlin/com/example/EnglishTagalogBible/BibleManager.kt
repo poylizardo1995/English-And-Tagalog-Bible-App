@@ -10,6 +10,7 @@ import java.io.FileOutputStream
 import java.io.InputStream
 import java.net.HttpURLConnection
 import java.net.URL
+import java.util.zip.ZipInputStream
 
 object BibleManager {
 
@@ -35,7 +36,7 @@ object BibleManager {
         Thread {
             try {
                 val fileSuffix = translation.suffix.lowercase()
-                val urlStr = "https://raw.githubusercontent.com/poylizardo1995/English-And-Tagalog-Bible-App/main/downloadable_bibles/$fileSuffix.json"
+                val urlStr = "https://raw.githubusercontent.com/poylizardo1995/English-And-Tagalog-Bible-App/main/packages/$fileSuffix.zip"
                 val url = URL(urlStr)
                 val connection = url.openConnection() as HttpURLConnection
                 connection.connect()
@@ -49,23 +50,31 @@ object BibleManager {
                 val input: InputStream = connection.inputStream
                 val targetDir = File(context.filesDir, "bibles").apply { mkdirs() }
 
-                val outputFile = File(targetDir, "$fileSuffix.json")
-                val outputStream = FileOutputStream(outputFile)
-
+                val zipInput = ZipInputStream(input)
+                var entry = zipInput.nextEntry
                 val buffer = ByteArray(4096)
                 var totalBytesRead = 0
-                var count: Int
 
-                while (input.read(buffer).also { count = it } != -1) {
-                    outputStream.write(buffer, 0, count)
-                    totalBytesRead += count
-                    if (fileLength > 0) {
-                        onProgress((totalBytesRead * 100 / fileLength))
+                while (entry != null) {
+                    if (!entry.isDirectory && entry.name.endsWith(".json")) {
+                        val outputFile = File(targetDir, File(entry.name).name)
+                        val outputStream = FileOutputStream(outputFile)
+                        var count: Int
+                        while (zipInput.read(buffer).also { count = it } != -1) {
+                            outputStream.write(buffer, 0, count)
+                            totalBytesRead += count
+                            if (fileLength > 0) {
+                                onProgress((totalBytesRead * 100 / fileLength))
+                            }
+                        }
+                        outputStream.flush()
+                        outputStream.close()
                     }
+                    zipInput.closeEntry()
+                    entry = zipInput.nextEntry
                 }
 
-                outputStream.flush()
-                outputStream.close()
+                zipInput.close()
                 input.close()
                 connection.disconnect()
                 
