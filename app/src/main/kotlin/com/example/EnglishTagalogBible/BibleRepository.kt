@@ -122,13 +122,45 @@ object BibleRepository {
         "revelation" to "Pahayag", "pahayag" to "Revelation"
     )
 
-    private fun getChapterStream(context: Context, fileName: String): InputStream? {
+    private fun getChapterStream(context: Context, fileName: String, cleanSuffix: String): InputStream? {
+        // 1. Check if the file exists in downloaded internal storage first
         val downloadedFile = File(context.filesDir, "bibles/$fileName")
         if (downloadedFile.exists()) {
             return downloadedFile.inputStream()
         }
+
+        // 2. Check direct asset file if uncompressed
+        try {
+            return context.assets.open(fileName)
+        } catch (e: Exception) {
+            // Not found as uncompressed asset, move to zip check
+        }
+
+        // 3. Look for a compressed zip archive in assets matching the translation suffix (e.g., kjv.zip)
+        val zipAssetName = "${cleanSuffix}.zip"
         return try {
-            context.assets.open(fileName)
+            val zipStream = context.assets.open(zipAssetName)
+            val zipInput = java.util.zip.ZipInputStream(zipStream)
+            var entry = zipInput.nextEntry
+            var foundStream: InputStream? = null
+
+            while (entry != null) {
+                if (entry.name.equals(fileName, ignoreCase = true) || entry.name.endsWith("/$fileName")) {
+                    // Extract entry content into a ByteArrayInputStream
+                    val byteArrayOutputStream = java.io.ByteArrayOutputStream()
+                    val buffer = ByteArray(4096)
+                    var count: Int
+                    while (zipInput.read(buffer).also { count = it } != -1) {
+                        byteArrayOutputStream.write(buffer, 0, count)
+                    }
+                    foundStream = java.io.ByteArrayInputStream(byteArrayOutputStream.toByteArray())
+                    break
+                }
+                zipInput.closeEntry()
+                entry = zipInput.nextEntry
+            }
+            zipInput.close()
+            foundStream
         } catch (e: Exception) {
             null
         }
@@ -152,21 +184,41 @@ object BibleRepository {
             val cleanSuffix = translation.suffix.lowercase()
             val targetSuffix = "_${cleanSuffix}.json"
             val singleFileName = "${cleanSuffix}.json"
+            val zipAssetName = "${cleanSuffix}.zip"
 
+            val filesToLoad = mutableListOf<String>()
+
+            // If a zip archive exists in assets (e.g. kjv.zip), read its entry file names
+            if (assetFiles.contains(zipAssetName)) {
+                try {
+                    context.assets.open(zipAssetName).use { stream ->
+                        val zipInput = java.util.zip.ZipInputStream(stream)
+                        var entry = zipInput.nextEntry
+                        while (entry != null) {
+                            if (!entry.isDirectory && entry.name.endsWith(".json")) {
+                                filesToLoad.add(File(entry.name).name)
+                            }
+                            zipInput.closeEntry()
+                            entry = zipInput.nextEntry
+                        }
+                    }
+                } catch (e: Exception) {
+                    e.printStackTrace()
+                }
+            }
+
+            // Also check uncompressed assets or downloaded files
             val allFiles = (assetFiles + downloadedFiles).distinct()
             val matchingFiles = allFiles.filter { file ->
                 file.lowercase().endsWith(targetSuffix) || file.lowercase() == singleFileName
             }
 
-            val filesToLoad = if (matchingFiles.isNotEmpty()) {
-                matchingFiles
-            } else {
-                allFiles.filter { it.contains("_ch") && it.endsWith(".json") }
-            }
+            filesToLoad.addAll(matchingFiles)
+            val distinctFilesToLoad = filesToLoad.distinct()
 
-            for (fileName in filesToLoad) {
+            for (fileName in distinctFilesToLoad) {
                 try {
-                    val stream = getChapterStream(context, fileName) ?: continue
+                    val stream = getChapterStream(context, fileName, cleanSuffix) ?: continue
                     val jsonString = stream.bufferedReader().use { it.readText() }
                     stream.close()
                     
