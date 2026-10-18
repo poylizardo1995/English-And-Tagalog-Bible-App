@@ -1,5 +1,15 @@
 [
   {
+    "text": "In the beginning God {Elohim} created the heavens and the earth.",
+    "reference": "Genesis 1:1 (BAB)",
+    "connected_to": "Genesis 1:2",
+  },
+  {
+    "text": "In the beginning God {Elohim} created the heavens and the earth.",
+    "reference": "Genesis 1:2 (BAB)",
+    "connected_to": "Genesis 1:2",
+  },
+  {
     "text": "Now the earth was formless [unseen] and void [unfurnished], and darkness was over the surface of the deep. And the Spirit of God {Ruach Elohim} was hovering over the surface of the waters.",
     "reference": "Genesis 1:2 (BAB)",
     "connected_to": "Genesis 1:3",

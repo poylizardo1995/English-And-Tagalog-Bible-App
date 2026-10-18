@@ -1,5 +1,10 @@
 [
   {
+    "text": "In the beginning God created the heavens and the earth.",
+    "reference": "Genesis 1:2 (ASV)",
+    "connected_to": "Genesis 1:2",
+  },
+  {
     "text": "And the earth was waste and void; and darkness was upon the face of the deep: and the Spirit of God moved upon the face of the waters.",
     "reference": "Genesis 1:2 (ASV)",
     "connected_to": "Genesis 1:3",
