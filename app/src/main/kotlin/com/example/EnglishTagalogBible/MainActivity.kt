@@ -56,7 +56,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     
     private lateinit var btnEnglish: TextView
     private lateinit var btnTagalog: TextView
-    
+  
     private var tts: TextToSpeech? = null
     private var isTtsReady = false
     private var currentVerse: BibleVerse? = null
@@ -220,6 +220,60 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         currentVerse?.let {
             outState.putString(KEY_VERSE_TEXT, it.text)
             outState.putString(KEY_VERSE_REF, it.reference)
+        }
+    }
+
+    private fun initTTS() {
+        tts = TextToSpeech(this) { status ->
+            if (status == TextToSpeech.SUCCESS) {
+                configureTTSVoiceForCurrentLanguage()
+            }
+        }
+    }
+
+    private fun configureTTSVoiceForCurrentLanguage() {
+        val ttsEngine = tts ?: return
+        val currentLanguage = BibleRepository.currentTranslation.languageGroup
+
+        if (currentLanguage == "Tagalog") {
+            val localeTagalog = Locale("tl", "PH")
+            ttsEngine.language = localeTagalog
+            
+            // Search for preferred Tagalog voice (Voice IV / 4th network voice or matching tagalog voice)
+            val tagalogVoice = ttsEngine.voices?.find { voice ->
+                voice.locale.language == "tl" && 
+                (voice.name.contains("tag", ignoreCase = true) || voice.name.contains("iv", ignoreCase = true) || voice.name.contains("4"))
+            } ?: ttsEngine.voices?.find { it.locale.language == "tl" }
+
+            tagalogVoice?.let { ttsEngine.voice = it }
+        } else {
+            val localeEnglish = Locale.US
+            ttsEngine.language = localeEnglish
+
+            // Search for preferred English voice (Voice V / 5th network voice or sf-group)
+            val englishVoice = ttsEngine.voices?.find { voice ->
+                voice.locale.language == "en" && 
+                (voice.name.contains("sfg", ignoreCase = true) || voice.name.contains("v", ignoreCase = true) || voice.name.contains("5"))
+            } ?: ttsEngine.voices?.find { it.locale.language == "en" }
+
+            englishVoice?.let { ttsEngine.voice = it }
+        }
+    }
+
+    private fun openSystemTTSSettings() {
+        try {
+            val intent = Intent("com.android.settings.TTS_SETTINGS")
+            intent.flags = Intent.FLAG_ACTIVITY_NEW_TASK
+            startActivity(intent)
+        } catch (e: Exception) {
+            // Fallback if system settings action isn't directly supported on a custom ROM
+            try {
+                val intent = Intent(Settings.ACTION_ACCESSIBILITY_SETTINGS)
+                intent.flags = Intent.FLAG_ACTIVITY_NEW_TASK
+                startActivity(intent)
+            } catch (ex: Exception) {
+                showCenteredToast("Unable to open Text-to-Speech settings.")
+            }
         }
     }
 
@@ -672,7 +726,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         applyThemedDialogStyle(dialog)
     }
 
-    private fun switchToTranslation(target: BibleTranslation) {
+   private fun switchToTranslation(target: BibleTranslation) {
         val currentRef = currentVerse?.reference?.substringBefore(" (")?.trim()
         
         // Save the previous active translation and verse before attempting to switch
@@ -688,6 +742,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 updateLanguageToggleUI(target)
                 displayVerse(translatedVerse)
                 
+                // Re-configure TTS voice for the newly selected translation language
+                configureTTSVoiceForCurrentLanguage()
+                
                 if (target == BibleTranslation.JPS || target == BibleTranslation.WNT) {
                     showCenteredToast("${target.displayName}: ${target.fullTranslationName}")
                 }
@@ -702,10 +759,14 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                     displayVerse(previousVerse)
                 }
                 
+                // Ensure TTS voice remains matching the reverted translation
+                configureTTSVoiceForCurrentLanguage()
+                
                 showCenteredToast("${target.displayName} (${target.fullTranslationName}) does not contain this verse.")
             }
         } else {
             updateLanguageToggleUI(target)
+            configureTTSVoiceForCurrentLanguage()
             loadInitialVerse()
         }
     }
@@ -729,10 +790,10 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 "● English - Berean Reader’s Bible (2021) (BRB)\n" +
                 "● English - Catholic Public Domain Version (2009) (CPDV)\n" +
                 "● English - Darby Bible Translation (1890) (DBT)\n" +
-                "● English - Douay-Rheims Bible (NT:1582)(OT:1609-1610)(ChallonerRevision:1749–1752) (DRB)\n" +
+                "● English - Douay-Rheims Bible (NT:1582)(OT:1609-1610)(Challoner'sRevision:1749–1752) (DRB)\n" +
                 "● English - English Revised Version (1885) (ERV)\n" +
                 "● English - Jewish Publication Society's Tanakh (OT:1917) (JPS)\n" +
-                "● English - Majority Standard Bible (2022 (MSB)\n" +
+                "● English - Majority Standard Bible (2022) (MSB)\n" +
                 "● English - Smith's Literal Translation (1876) (SLT)\n" +
                 "● English - Webster Bible Translation (1833) (WBT)\n" +
                 "● English - World English Bible (2020) (WEB)\n" +
