@@ -673,19 +673,20 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
 
     private fun switchToTranslation(target: BibleTranslation) {
-        // Save the current verse reference before switching (e.g., "Isaiah 14:16")
         val currentRef = currentVerse?.reference?.substringBefore(" (")?.trim()
     
         BibleRepository.setTranslation(this, target)
         updateLanguageToggleUI(target)
+
+        if (target == BibleTranslation.JPS || target == BibleTranslation.WNT) {
+            showCenteredToast("${target.displayName}: ${target.fullTranslationName}")
+        }
     
         if (currentRef != null) {
-            // Try to find the exact same verse in the new translation
             val translatedVerse = BibleRepository.getVerseByBookChapterAndVerse(currentRef, this)
             if (translatedVerse != null) {
                 displayVerse(translatedVerse)
             } else {
-                // Fallback if exact verse isn't found in the new package
                 loadInitialVerse()
             }
         } else {
