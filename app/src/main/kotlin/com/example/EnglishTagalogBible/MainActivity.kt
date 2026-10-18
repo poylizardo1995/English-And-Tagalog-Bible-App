@@ -1,5 +1,6 @@
 package com.example.EnglishTagalogBible
 
+import android.provider.Settings
 import android.content.ClipData
 import android.content.ClipboardManager
 import android.content.Context
@@ -266,7 +267,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             intent.flags = Intent.FLAG_ACTIVITY_NEW_TASK
             startActivity(intent)
         } catch (e: Exception) {
-            // Fallback if system settings action isn't directly supported on a custom ROM
             try {
                 val intent = Intent(Settings.ACTION_ACCESSIBILITY_SETTINGS)
                 intent.flags = Intent.FLAG_ACTIVITY_NEW_TASK
