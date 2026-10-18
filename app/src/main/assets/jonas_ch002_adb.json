@@ -1,0 +1,60 @@
+[
+  {
+    "text": "Nang magkagayo'y nanalangin si Jonas sa Panginoon niyang Dios mula sa tiyan ng isda.",
+    "reference": "Jonas 2:1 (ADB)",
+    "connected_to": "Jonas 2:2"
+  },
+  {
+    "text": "At kaniyang sinabi, Tinawagan ko ang Panginoon dahil sa aking pagdadalamhati, At siya'y sumagot sa akin; Mula sa tiyan ng Sheol ako'y sumigaw, At iyong dininig ang aking tinig.",
+    "reference": "Jonas 2:2 (ADB)",
+    "connected_to": "Jonas 2:3",
+    "connected_from": "Jonas 2:1"
+  },
+  {
+    "text": "Sapagka't inihagis mo ako sa kalaliman, sa gitna ng dagat, At ang tubig ay nasa palibot ko; Ang lahat ng iyong alon at lahat ng iyong malaking alon ay umaapaw sa akin.",
+    "reference": "Jonas 2:3 (ADB)",
+    "connected_to": "Jonas 2:4",
+    "connected_from": "Jonas 2:2"
+  },
+  {
+    "text": "At aking sinabi, Ako'y nahagis mula sa harap ng iyong mga mata; Gayon ma'y titingin ako uli sa iyong banal na templo.",
+    "reference": "Jonas 2:4 (ADB)",
+    "connected_to": "Jonas 2:5",
+    "connected_from": "Jonas 2:3"
+  },
+  {
+    "text": "Kinukulong ako ng tubig sa palibot hanggang sa kaluluwa; Ang kalaliman ay nasa palibot ko; Ang mga damong dagat ay pumilipit sa aking ulo.",
+    "reference": "Jonas 2:5 (ADB)",
+    "connected_to": "Jonas 2:6",
+    "connected_from": "Jonas 2:4"
+  },
+  {
+    "text": "Ako'y bumaba sa mga kaibaibabaan ng mga bundok; Ang lupa sangpu ng kaniyang halang ay tumakip sa akin magpakailan man: Gayon may isinampa mo ang aking buhay mula sa hukay, Oh Panginoon kong Dios.",
+    "reference": "Jonas 2:6 (ADB)",
+    "connected_to": "Jonas 2:7",
+    "connected_from": "Jonas 2:5"
+  },
+  {
+    "text": "Nang ang aking kaluluwa ay nanglupaypay sa loob ko; naaalaala ko ang Panginoon; At ang aking dalangin ay umabot sa loob ng iyong banal na templo.",
+    "reference": "Jonas 2:7 (ADB)",
+    "connected_to": "Jonas 2:8",
+    "connected_from": "Jonas 2:6"
+  },
+  {
+    "text": "Ang nagsisilingap ng mga walang kabuluhang magdaraya Binabayaan ang kanilang sariling kaawaan.",
+    "reference": "Jonas 2:8 (ADB)",
+    "connected_to": "Jonas 2:9",
+    "connected_from": "Jonas 2:7"
+  },
+  {
+    "text": "Nguni't ako'y maghahain sa iyo ng tinig ng pasasalamat; Aking tutuparin yaong aking ipinanata. Kaligtasa'y sa Panginoon.",
+    "reference": "Jonas 2:9 (ADB)",
+    "connected_to": "Jonas 2:10",
+    "connected_from": "Jonas 2:8"
+  },
+  {
+    "text": "At ang Panginoon ay nagsalita sa isda, at iniluwa si Jonas sa tuyong lupa.",
+    "reference": "Jonas 2:10 (ADB)",
+    "connected_from": "Jonas 2:9"
+  }
+]

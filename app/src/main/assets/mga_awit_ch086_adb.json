@@ -1,0 +1,102 @@
+[
+  {
+    "text": "Ikiling mo ang iyong pakinig, Oh Panginoon, at sagutin mo ako; sapagka't ako'y dukha at mapagkailangan.",
+    "reference": "Mga Awit 86:1 (ADB)",
+    "connected_to": "Mga Awit 86:2"
+  },
+  {
+    "text": "Ingatan mo ang aking kaluluwa; sapagka't ako'y banal: Oh ikaw na Dios ko, iligtas mo ang iyong lingkod na tumitiwala sa iyo.",
+    "reference": "Mga Awit 86:2 (ADB)",
+    "connected_to": "Mga Awit 86:3",
+    "connected_from": "Mga Awit 86:1"
+  },
+  {
+    "text": "Maawa ka sa akin, Oh Panginoon, sapagka't sa iyo'y dumadaing ako buong araw.",
+    "reference": "Mga Awit 86:3 (ADB)",
+    "connected_to": "Mga Awit 86:4",
+    "connected_from": "Mga Awit 86:2"
+  },
+  {
+    "text": "Bigyan mong galak ang kaluluwa ng iyong lingkod; sapagka't sa iyo, Oh Panginoon, itinataas ko ang aking kaluluwa.",
+    "reference": "Mga Awit 86:4 (ADB)",
+    "connected_to": "Mga Awit 86:5",
+    "connected_from": "Mga Awit 86:3"
+  },
+  {
+    "text": "Sapagka't ikaw, Panginoon, ay mabuti, at mapagpatawad, at sagana sa kagandahang-loob sa lahat na tumatawag sa iyo.",
+    "reference": "Mga Awit 86:5 (ADB)",
+    "connected_to": "Mga Awit 86:6",
+    "connected_from": "Mga Awit 86:4"
+  },
+  {
+    "text": "Dinggin mo, Oh Panginoon, ang aking dalangin; at pakinggan mo ang tinig ng aking mga pananaing.",
+    "reference": "Mga Awit 86:6 (ADB)",
+    "connected_to": "Mga Awit 86:7",
+    "connected_from": "Mga Awit 86:5"
+  },
+  {
+    "text": "Sa kaarawan ng aking kabagabagan ay tatawag ako sa iyo; sapagka't iyong sasagutin ako.",
+    "reference": "Mga Awit 86:7 (ADB)",
+    "connected_to": "Mga Awit 86:8",
+    "connected_from": "Mga Awit 86:6"
+  },
+  {
+    "text": "Walang gaya mo sa gitna ng mga dios, Oh Panginoon; wala mang mga gawang gaya ng iyong mga gawa.",
+    "reference": "Mga Awit 86:8 (ADB)",
+    "connected_to": "Mga Awit 86:9",
+    "connected_from": "Mga Awit 86:7"
+  },
+  {
+    "text": "Lahat ng mga bansa na iyong nilalang ay magsisiparito, at magsisisamba sa harap mo, Oh Panginoon; at kanilang luluwalhatiin ang iyong pangalan.",
+    "reference": "Mga Awit 86:9 (ADB)",
+    "connected_to": "Mga Awit 86:10",
+    "connected_from": "Mga Awit 86:8"
+  },
+  {
+    "text": "Sapagka't ikaw ay dakila, at gumagawa ng kagilagilalas na mga bagay: ikaw na magisa ang Dios.",
+    "reference": "Mga Awit 86:10 (ADB)",
+    "connected_to": "Mga Awit 86:11",
+    "connected_from": "Mga Awit 86:9"
+  },
+  {
+    "text": "Ituro mo sa akin ang iyong daan, Oh Panginoon; lalakad ako sa iyong katotohanan: ilakip mo ang aking puso sa pagkatakot sa iyong pangalan.",
+    "reference": "Mga Awit 86:11 (ADB)",
+    "connected_to": "Mga Awit 86:12",
+    "connected_from": "Mga Awit 86:10"
+  },
+  {
+    "text": "Pupurihin kita, Oh Panginoon kong Dios ng aking buong puso; at luluwalhatiin ko ang iyong pangalan magpakailan man.",
+    "reference": "Mga Awit 86:12 (ADB)",
+    "connected_to": "Mga Awit 86:13",
+    "connected_from": "Mga Awit 86:11"
+  },
+  {
+    "text": "Sapagka't dakila ang iyong kagandahang-loob sa akin; at iyong iniligtas ang aking kaluluwa sa pinakamalalim na Sheol.",
+    "reference": "Mga Awit 86:13 (ADB)",
+    "connected_to": "Mga Awit 86:14",
+    "connected_from": "Mga Awit 86:12"
+  },
+  {
+    "text": "Oh Dios, ang palalo ay bumangon laban sa akin, at ang kapisanan ng mga marahas na tao ay umusig ng aking kaluluwa, at hindi inilagay ka sa harap nila.",
+    "reference": "Mga Awit 86:14 (ADB)",
+    "connected_to": "Mga Awit 86:15",
+    "connected_from": "Mga Awit 86:13"
+  },
+  {
+    "text": "Nguni't ikaw, Oh Panginoon, ay Dios na puspos ng kahabagan at mapagbiyaya, banayad sa pagkagalit, at sagana sa kagandahang-loob at katotohanan.",
+    "reference": "Mga Awit 86:15 (ADB)",
+    "connected_to": "Mga Awit 86:16",
+    "connected_from": "Mga Awit 86:14"
+  },
+  {
+    "text": "Oh bumalik ka sa akin, at maawa ka sa akin; ibigay mo ang lakas mo sa iyong lingkod. At iligtas mo ang anak ng iyong lingkod na babae.",
+    "reference": "Mga Awit 86:16 (ADB)",
+    "connected_to": "Mga Awit 86:17",
+    "connected_from": "Mga Awit 86:15"
+  },
+  {
+    "text": "Pagpakitaan mo ako ng tanda sa ikabubuti: upang mangakita nilang nangagtatanim sa akin, at mangapahiya, sapagka't ikaw, Panginoon, ay tumulong sa akin, at umaliw sa akin.",
+    "reference": "Mga Awit 86:17 (ADB)",
+    "connected_from": "Mga Awit 86:16"
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "text": "At ang anghel na nakipagusap sa akin ay bumalik, at ginising ako, na gaya ng tao na nagigising sa kaniyang pagkakatulog.",
+    "reference": "Zacarias 4:1 (ADB)",
+    "connected_to": "Zacarias 4:2"
+  },
+  {
+    "text": "At sinabi niya sa akin, Ano ang iyong nakikita? At aking sinabi, Ako'y tumingin, at, narito, isang kandelero na taganas na ginto, na may taza sa ibabaw niyaon, at ang pitong ilawan niyaon sa ibabaw; may pitong tubo sa bawa't isa sa mga ilawan na nasa ibabaw niyaon;",
+    "reference": "Zacarias 4:2 (ADB)",
+    "connected_to": "Zacarias 4:3",
+    "connected_from": "Zacarias 4:1"
+  },
+  {
+    "text": "At may dalawang puno ng olibo sa siping niyaon, isa sa dakong kanan ng taza, at ang isa'y sa dakong kaliwa niyaon.",
+    "reference": "Zacarias 4:3 (ADB)",
+    "connected_to": "Zacarias 4:4",
+    "connected_from": "Zacarias 4:2"
+  },
+  {
+    "text": "At ako'y sumagot at nagsalita sa anghel na nakikipagusap sa akin, na aking sinabi, Anong mga bagay ito, panginoon ko?",
+    "reference": "Zacarias 4:4 (ADB)",
+    "connected_to": "Zacarias 4:5",
+    "connected_from": "Zacarias 4:3"
+  },
+  {
+    "text": "Nang magkagayo'y ang anghel na nakikipagusap sa akin ay sumagot na nagsabi sa akin, Hindi mo baga nalalaman kung ano ang mga ito? At aking sinabi, Hindi, panginoon ko.",
+    "reference": "Zacarias 4:5 (ADB)",
+    "connected_to": "Zacarias 4:6",
+    "connected_from": "Zacarias 4:4"
+  },
+  {
+    "text": "Nang magkagayo'y siya'y sumagot at nagsalita sa akin, na nagsasabi, Ito ang salita ng Panginoon kay Zorobabel, na sinasabi, Hindi sa pamamagitan ng kalakasan, ni ng kapangyarihan, kundi sa pamamagitan ng aking Espiritu, sabi ng Panginoon ng mga hukbo.",
+    "reference": "Zacarias 4:6 (ADB)",
+    "connected_to": "Zacarias 4:7",
+    "connected_from": "Zacarias 4:5"
+  },
+  {
+    "text": "Sino ka, Oh malaking bundok? sa harap ni Zorobabel ay magiging kapatagan ka; at kaniyang ilalabas ang pangulong bato na may hiyawan, Biyaya, biyaya sa kaniya.",
+    "reference": "Zacarias 4:7 (ADB)",
+    "connected_to": "Zacarias 4:8",
+    "connected_from": "Zacarias 4:6"
+  },
+  {
+    "text": "Bukod dito'y ang salita ng Panginoon ay dumating sa akin, na nagsasabi,",
+    "reference": "Zacarias 4:8 (ADB)",
+    "connected_to": "Zacarias 4:9",
+    "connected_from": "Zacarias 4:7"
+  },
+  {
+    "text": "Ang mga kamay ni Zorobabel ay siyang naglagay ng mga tatagang-baon ng bahay na ito; ang kaniyang mga kamay ay siya ring tatapos; at iyong malalaman na ang Panginoon ng mga hukbo ay siyang nagsugo sa akin sa inyo.",
+    "reference": "Zacarias 4:9 (ADB)",
+    "connected_to": "Zacarias 4:10",
+    "connected_from": "Zacarias 4:8"
+  },
+  {
+    "text": "Sapagka't sinong nagsihamak sa araw ng maliliit na bagay? sapagka't ang pitong ito ay mangagagalak, at makikita nila ang pabatong tingga sa kamay ni Zorobabel; ang mga ito'y mga mata ng Panginoon, na nangagpaparoo't parito sa buong lupa.",
+    "reference": "Zacarias 4:10 (ADB)",
+    "connected_to": "Zacarias 4:11",
+    "connected_from": "Zacarias 4:9"
+  },
+  {
+    "text": "Nang magkagayo'y sumagot ako, at nagsabi sa kaniya, Ano itong dalawang puno ng olibo sa dakong kanan kandelero, at sa dakong kaliwa?",
+    "reference": "Zacarias 4:11 (ADB)",
+    "connected_to": "Zacarias 4:12",
+    "connected_from": "Zacarias 4:10"
+  },
+  {
+    "text": "At ako'y sumagot na ikalawa, at nagsabi sa kaniya: Ano ang dalawang sangang olibong ito na nasa siping ng dalawang gintong padaluyan, na dinadaluyan ng langis na ginintuan?",
+    "reference": "Zacarias 4:12 (ADB)",
+    "connected_to": "Zacarias 4:13",
+    "connected_from": "Zacarias 4:11"
+  },
+  {
+    "text": "At siya'y sumagot sa akin, at nagsabi, Hindi mo baga nalalaman kung ano ang mga ito? At aking sinabi, Hindi, panginoon ko.",
+    "reference": "Zacarias 4:13 (ADB)",
+    "connected_to": "Zacarias 4:14",
+    "connected_from": "Zacarias 4:12"
+  },
+  {
+    "text": "Nang magkagayo'y sinabi niya, Ito ang dalawang anak na pinahiran ng langis, na nakatayo sa siping ng Panginoon ng buong lupa.",
+    "reference": "Zacarias 4:14 (ADB)",
+    "connected_from": "Zacarias 4:13"
+  }
+]

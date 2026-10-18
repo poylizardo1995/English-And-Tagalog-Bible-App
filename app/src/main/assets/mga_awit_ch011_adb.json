@@ -1,0 +1,42 @@
+[
+  {
+    "text": "Sa Panginoon ay nanganganlong ako: ano't inyong sinasabi sa aking kaluluwa, tumakas ka na gaya ng isang ibon sa iyong bundok?",
+    "reference": "Mga Awit 11:1 (ADB)",
+    "connected_to": "Mga Awit 11:2"
+  },
+  {
+    "text": "Sapagka't, narito, binalantok ng masama ang busog, kanilang inihahanda ang kanilang palaso sa bagting, upang kanilang mapahilagpusan sa kadiliman ang matuwid sa puso,",
+    "reference": "Mga Awit 11:2 (ADB)",
+    "connected_to": "Mga Awit 11:3",
+    "connected_from": "Mga Awit 11:1"
+  },
+  {
+    "text": "Kung ang mga patibayan ay masira, anong magagawa ng matuwid?",
+    "reference": "Mga Awit 11:3 (ADB)",
+    "connected_to": "Mga Awit 11:4",
+    "connected_from": "Mga Awit 11:2"
+  },
+  {
+    "text": "Ang panginoon ay nasa kaniyang banal na templo, ang Panginoon, ang kaniyang luklukan ay nasa langit; ang kaniyang mga mata ay nagmamalas, ang kaniyang mga talukap-mata ay nagmamasid, sa mga anak ng mga tao.",
+    "reference": "Mga Awit 11:4 (ADB)",
+    "connected_to": "Mga Awit 11:5",
+    "connected_from": "Mga Awit 11:3"
+  },
+  {
+    "text": "Sinusubok ng Panginoon ang matuwid; nguni't ang masama at ang umiibig ng pangdadahas ay kinapopootan ng kaniyang kaluluwa.",
+    "reference": "Mga Awit 11:5 (ADB)",
+    "connected_to": "Mga Awit 11:6",
+    "connected_from": "Mga Awit 11:4"
+  },
+  {
+    "text": "Sa masama ay magpapaulan siya ng mga silo; apoy at azufre at nagaalab na hangin ay magiging bahagi ng kanilang saro.",
+    "reference": "Mga Awit 11:6 (ADB)",
+    "connected_to": "Mga Awit 11:7",
+    "connected_from": "Mga Awit 11:5"
+  },
+  {
+    "text": "Sapagka't ang Panginoon ay matuwid; minamahal niya ang katuwiran: Mamasdan ng matuwid ang kaniyang mukha.",
+    "reference": "Mga Awit 11:7 (ADB)",
+    "connected_from": "Mga Awit 11:6"
+  }
+]

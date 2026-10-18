@@ -1,0 +1,132 @@
+[
+  {
+    "text": "At sa anghel ng iglesia sa Sardis ay isulat mo: Ang mga bagay na ito ay sinasabi ng may pitong Espiritu ng Dios, at may pitong bituin: Nalalaman ko ang iyong mga gawa, na ikaw ay may pangalang ikaw ay nabubuhay, at ikaw ay patay.",
+    "reference": "Pahayag 3:1 (ADB)",
+    "connected_to": "Pahayag 3:2"
+  },
+  {
+    "text": "Magpuyat ka, at pagtibayin mo ang mga bagay na natitira, na malapit ng mamatay: sapagka't wala akong nasumpungang iyong mga gawang sakdal sa harapan ng aking Dios.",
+    "reference": "Pahayag 3:2 (ADB)",
+    "connected_to": "Pahayag 3:3",
+    "connected_from": "Pahayag 3:1"
+  },
+  {
+    "text": "Alalahanin mo nga kung paanong iyong tinanggap at narinig; at ito'y tuparin mo, at magsisi ka. Kaya't kung hindi ka magpupuyat ay paririyan akong gaya ng magnanakaw, at hindi mo malalaman kung anong panahon paririyan ako sa iyo.",
+    "reference": "Pahayag 3:3 (ADB)",
+    "connected_to": "Pahayag 3:4",
+    "connected_from": "Pahayag 3:2"
+  },
+  {
+    "text": "Nguni't mayroon kang ilang pangalan sa Sardis na hindi nangagdumi ng kanilang mga damit: at sila'y kasama kong magsisilakad na may mga damit na maputi; sapagka't sila'y karapatdapat.",
+    "reference": "Pahayag 3:4 (ADB)",
+    "connected_to": "Pahayag 3:5",
+    "connected_from": "Pahayag 3:3"
+  },
+  {
+    "text": "Ang magtagumpay ay daramtang gayon ng mga mapuputing damit; at hindi ko papawiin sa anomang paraan ang kaniyang pangalan sa aklat ng buhay, at ipahahayag ko ang kaniyang pangalan sa harapan ng aking Ama, at sa harapan ng kaniyang mga anghel.",
+    "reference": "Pahayag 3:5 (ADB)",
+    "connected_to": "Pahayag 3:6",
+    "connected_from": "Pahayag 3:4"
+  },
+  {
+    "text": "Ang may pakinig, ay makinig sa sinasabi ng Espiritu sa mga iglesia.",
+    "reference": "Pahayag 3:6 (ADB)",
+    "connected_to": "Pahayag 3:7",
+    "connected_from": "Pahayag 3:5"
+  },
+  {
+    "text": "At sa anghel ng iglesia sa Filadelfia ay isulat mo: Ang mga bagay na ito ay sinasabi ng banal, niyaong totoo, niyaong may susi ni David, niyaong nagbubukas at di mailalapat ng sinoman, at naglalapat at di maibubukas ng sinoman:",
+    "reference": "Pahayag 3:7 (ADB)",
+    "connected_to": "Pahayag 3:8",
+    "connected_from": "Pahayag 3:6"
+  },
+  {
+    "text": "Nalalaman ko ang iyong mga gawa (narito, inilagay ko sa harapan mo ang isang pintuang bukas, na di mailalapat ng sinoman), na ikaw ay may kaunting kapangyarihan, at tinupad mo ang aking salita, at hindi mo ikinaila ang aking pangalan.",
+    "reference": "Pahayag 3:8 (ADB)",
+    "connected_to": "Pahayag 3:9",
+    "connected_from": "Pahayag 3:7"
+  },
+  {
+    "text": "Narito, ibinibigay ko sa sinagoga ni Satanas, ang mga nagsasabing sila'y mga Judio, at sila'y hindi, kundi nangagbubulaan; narito, sila'y aking papapariyanin at pasasambahin sa harap ng iyong mga paa, at nang maalamang ikaw ay aking inibig.",
+    "reference": "Pahayag 3:9 (ADB)",
+    "connected_to": "Pahayag 3:10",
+    "connected_from": "Pahayag 3:8"
+  },
+  {
+    "text": "Sapagka't tinupad mo ang salita ng aking pagtitiis, ikaw naman ay aking iingatan sa panahon ng pagsubok, na darating sa buong sanglibutan, upang subukin ang mga nananahan sa ibabaw ng lupa.",
+    "reference": "Pahayag 3:10 (ADB)",
+    "connected_to": "Pahayag 3:11",
+    "connected_from": "Pahayag 3:9"
+  },
+  {
+    "text": "Ako'y dumarating na madali: panghawakan mong matibay ang nasa iyo, upang huwag kunin ng sinoman ang iyong putong.",
+    "reference": "Pahayag 3:11 (ADB)",
+    "connected_to": "Pahayag 3:12",
+    "connected_from": "Pahayag 3:10"
+  },
+  {
+    "text": "Ang magtagumpay, ay gagawin kong haligi sa templo ng aking Dios, at hindi na siya'y lalabas pa doon: at isusulat ko sa kaniya ang pangalan ng aking Dios, at ang pangalan ng bayan ng aking Dios, ang bagong Jerusalem, na mananaog buhat sa langit mula sa aking Dios, at ang aking sariling bagong pangalan.",
+    "reference": "Pahayag 3:12 (ADB)",
+    "connected_to": "Pahayag 3:13",
+    "connected_from": "Pahayag 3:11"
+  },
+  {
+    "text": "Ang may pakinig, ay makinig sa sinasabi ng Espiritu sa mga iglesia.",
+    "reference": "Pahayag 3:13 (ADB)",
+    "connected_to": "Pahayag 3:14",
+    "connected_from": "Pahayag 3:12"
+  },
+  {
+    "text": "At sa anghel ng iglesia sa Laodicea ay isulat mo: Ang mga bagay na ito ay sinasabi ng Siya Nawa, ng saksing tapat at totoo, ng pasimula ng paglalang ng Dios:",
+    "reference": "Pahayag 3:14 (ADB)",
+    "connected_to": "Pahayag 3:15",
+    "connected_from": "Pahayag 3:13"
+  },
+  {
+    "text": "Nalalaman ko ang iyong mga gawa, na ikaw ay hindi malamig o mainit man: ibig ko sanang ikaw ay malamig o mainit.",
+    "reference": "Pahayag 3:15 (ADB)",
+    "connected_to": "Pahayag 3:16",
+    "connected_from": "Pahayag 3:14"
+  },
+  {
+    "text": "Kaya sapagka't ikaw ay malahininga, at hindi mainit o malamig man, ay isusuka kita sa aking bibig.",
+    "reference": "Pahayag 3:16 (ADB)",
+    "connected_to": "Pahayag 3:17",
+    "connected_from": "Pahayag 3:15"
+  },
+  {
+    "text": "Sapagka't sinasabi mo, Ako'y mayaman, at nagkamit ng kayamanan, at hindi ako nangangailangan ng anoman; at hindi mo nalalamang ikaw ang aba at maralita at dukha at bulag at hubad:",
+    "reference": "Pahayag 3:17 (ADB)",
+    "connected_to": "Pahayag 3:18",
+    "connected_from": "Pahayag 3:16"
+  },
+  {
+    "text": "Ipinapayo ko sa iyo na ikaw ay bumili sa akin ng gintong dinalisay ng apoy, upang ikaw ay yumaman: at ng mapuputing damit, upang iyong maisuot, at upang huwag mahayag ang iyong kahiyahiyang kahubaran; at ng pangpahid sa mata, na ipahid sa iyong mga mata, upang ikaw ay makakita.",
+    "reference": "Pahayag 3:18 (ADB)",
+    "connected_to": "Pahayag 3:19",
+    "connected_from": "Pahayag 3:17"
+  },
+  {
+    "text": "Ang lahat kong iniibig, ay aking sinasaway at pinarurusahan: ikaw nga'y magsikap, at magsisi.",
+    "reference": "Pahayag 3:19 (ADB)",
+    "connected_to": "Pahayag 3:20",
+    "connected_from": "Pahayag 3:18"
+  },
+  {
+    "text": "Narito ako'y nakatayo sa pintuan at tumutuktok: kung ang sinoman ay duminig ng aking tinig at magbukas ng pinto, ako'y papasok sa kaniya, at hahapong kasalo niya, at siya'y kasalo ko.",
+    "reference": "Pahayag 3:20 (ADB)",
+    "connected_to": "Pahayag 3:21",
+    "connected_from": "Pahayag 3:19"
+  },
+  {
+    "text": "Ang magtagumpay, ay aking pagkakaloobang umupong kasama ko sa aking luklukan, gaya ko naman na nagtagumpay, at umupong kasama ng aking Ama sa kaniyang luklukan.",
+    "reference": "Pahayag 3:21 (ADB)",
+    "connected_to": "Pahayag 3:22",
+    "connected_from": "Pahayag 3:20"
+  },
+  {
+    "text": "Ang may pakinig, ay makinig sa sinasabi ng Espiritu sa mga iglesia.",
+    "reference": "Pahayag 3:22 (ADB)",
+    "connected_from": "Pahayag 3:21"
+  }
+]

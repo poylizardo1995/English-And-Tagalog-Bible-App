@@ -1,0 +1,234 @@
+[
+  {
+    "text": "Yaon ngang nagsipagtakda ay: si Nehemias, ang tagapamahala, na anak ni Hachalias, at si Sedecias;",
+    "reference": "Nehemias 10:1 (ADB)",
+    "connected_to": "Nehemias 10:2"
+  },
+  {
+    "text": "Si Seraias, si Azarias, si Jeremias;",
+    "reference": "Nehemias 10:2 (ADB)",
+    "connected_to": "Nehemias 10:3",
+    "connected_from": "Nehemias 10:1"
+  },
+  {
+    "text": "Si Pashur, si Amarias, si Malchias;",
+    "reference": "Nehemias 10:3 (ADB)",
+    "connected_to": "Nehemias 10:4",
+    "connected_from": "Nehemias 10:2"
+  },
+  {
+    "text": "Si Hattus, si Sebanias, si Malluch;",
+    "reference": "Nehemias 10:4 (ADB)",
+    "connected_to": "Nehemias 10:5",
+    "connected_from": "Nehemias 10:3"
+  },
+  {
+    "text": "Si Harim, si Meremoth, si Obadias;",
+    "reference": "Nehemias 10:5 (ADB)",
+    "connected_to": "Nehemias 10:6",
+    "connected_from": "Nehemias 10:4"
+  },
+  {
+    "text": "Si Daniel, si Ginethon, si Baruch;",
+    "reference": "Nehemias 10:6 (ADB)",
+    "connected_to": "Nehemias 10:7",
+    "connected_from": "Nehemias 10:5"
+  },
+  {
+    "text": "Si Mesullam, si Abias, si Miamin;",
+    "reference": "Nehemias 10:7 (ADB)",
+    "connected_to": "Nehemias 10:8",
+    "connected_from": "Nehemias 10:6"
+  },
+  {
+    "text": "Si Maazias, si Bilgai, si Semeias: ang mga ito'y saserdote.",
+    "reference": "Nehemias 10:8 (ADB)",
+    "connected_to": "Nehemias 10:9",
+    "connected_from": "Nehemias 10:7"
+  },
+  {
+    "text": "At ang mga Levita: sa makatuwid baga'y, si Jesua na anak ni Azanias, si Binnui, sa mga anak ni Henadad, si Cadmiel;",
+    "reference": "Nehemias 10:9 (ADB)",
+    "connected_to": "Nehemias 10:10",
+    "connected_from": "Nehemias 10:8"
+  },
+  {
+    "text": "At ang kanilang mga kapatid, si Sebanias, si Odaia, si Celita, si Pelaias, si Hanan;",
+    "reference": "Nehemias 10:10 (ADB)",
+    "connected_to": "Nehemias 10:11",
+    "connected_from": "Nehemias 10:9"
+  },
+  {
+    "text": "Si Micha, si Rehob, si Hasabias;",
+    "reference": "Nehemias 10:11 (ADB)",
+    "connected_to": "Nehemias 10:12",
+    "connected_from": "Nehemias 10:10"
+  },
+  {
+    "text": "Si Zachur, si Serebias, si Sebanias;",
+    "reference": "Nehemias 10:12 (ADB)",
+    "connected_to": "Nehemias 10:13",
+    "connected_from": "Nehemias 10:11"
+  },
+  {
+    "text": "Si Odaia, si Bani, si Beninu;",
+    "reference": "Nehemias 10:13 (ADB)",
+    "connected_to": "Nehemias 10:14",
+    "connected_from": "Nehemias 10:12"
+  },
+  {
+    "text": "Ang mga puno ng bayan: si Pharos, si Pahath-moab, si Elam, si Zattu, si Bani;",
+    "reference": "Nehemias 10:14 (ADB)",
+    "connected_to": "Nehemias 10:15",
+    "connected_from": "Nehemias 10:13"
+  },
+  {
+    "text": "Si Bunni, si Azgad, si Bebai;",
+    "reference": "Nehemias 10:15 (ADB)",
+    "connected_to": "Nehemias 10:16",
+    "connected_from": "Nehemias 10:14"
+  },
+  {
+    "text": "Si Adonias, si Bigvai, si Adin;",
+    "reference": "Nehemias 10:16 (ADB)",
+    "connected_to": "Nehemias 10:17",
+    "connected_from": "Nehemias 10:15"
+  },
+  {
+    "text": "Si Ater, si Ezekias, si Azur;",
+    "reference": "Nehemias 10:17 (ADB)",
+    "connected_to": "Nehemias 10:18",
+    "connected_from": "Nehemias 10:16"
+  },
+  {
+    "text": "Si Odaia, si Hasum, si Bezai;",
+    "reference": "Nehemias 10:18 (ADB)",
+    "connected_to": "Nehemias 10:19",
+    "connected_from": "Nehemias 10:17"
+  },
+  {
+    "text": "Si Ariph, si Anathoth, si Nebai;",
+    "reference": "Nehemias 10:19 (ADB)",
+    "connected_to": "Nehemias 10:20",
+    "connected_from": "Nehemias 10:18"
+  },
+  {
+    "text": "Si Magpias, si Mesullam, si Hezir;",
+    "reference": "Nehemias 10:20 (ADB)",
+    "connected_to": "Nehemias 10:21",
+    "connected_from": "Nehemias 10:19"
+  },
+  {
+    "text": "Si Mesezabel, Sadoc, si Jadua;",
+    "reference": "Nehemias 10:21 (ADB)",
+    "connected_to": "Nehemias 10:22",
+    "connected_from": "Nehemias 10:20"
+  },
+  {
+    "text": "Si Pelatias, si Hanan, si Anaias;",
+    "reference": "Nehemias 10:22 (ADB)",
+    "connected_to": "Nehemias 10:23",
+    "connected_from": "Nehemias 10:21"
+  },
+  {
+    "text": "Si Hoseas, si Hananias, si Asub;",
+    "reference": "Nehemias 10:23 (ADB)",
+    "connected_to": "Nehemias 10:24",
+    "connected_from": "Nehemias 10:22"
+  },
+  {
+    "text": "Si Lohes, si Pilha, si Sobec;",
+    "reference": "Nehemias 10:24 (ADB)",
+    "connected_to": "Nehemias 10:25",
+    "connected_from": "Nehemias 10:23"
+  },
+  {
+    "text": "Si Rehum, si Hasabna, si Maaseias;",
+    "reference": "Nehemias 10:25 (ADB)",
+    "connected_to": "Nehemias 10:26",
+    "connected_from": "Nehemias 10:24"
+  },
+  {
+    "text": "At si Ahijas, si Hanan, si Anan;",
+    "reference": "Nehemias 10:26 (ADB)",
+    "connected_to": "Nehemias 10:27",
+    "connected_from": "Nehemias 10:25"
+  },
+  {
+    "text": "Si Malluch, si Harim, si Baana.",
+    "reference": "Nehemias 10:27 (ADB)",
+    "connected_to": "Nehemias 10:28",
+    "connected_from": "Nehemias 10:26"
+  },
+  {
+    "text": "At ang nalabi sa bayan, ang mga saserdote, ang mga Levita, ang mga tagatanod-pinto, ang mga mangaawit, ang mga Nethineo, at lahat ng nagsihiwalay sa mga bayan ng mga lupain sa kautusan ng Dios, ang kanilang mga asawa, ang kanilang mga anak, na lalake at babae, bawa't may kaalaman at kaunawaan;",
+    "reference": "Nehemias 10:28 (ADB)",
+    "connected_to": "Nehemias 10:29",
+    "connected_from": "Nehemias 10:27"
+  },
+  {
+    "text": "Sila'y nagsilakip sa kanilang mga kapatid, na kanilang mga mahal na tao, at nagsisumpa, at nagsipanumpa, na magsilakad sa kautusan ng Dios, na nabigay sa pamamagitan ni Moises na lingkod ng Dios, at upang magsiganap at magsigawa ng lahat na utos ng Panginoon na aming Panginoon, at ng kaniyang mga kahatulan, at ng kaniyang mga palatuntunan;",
+    "reference": "Nehemias 10:29 (ADB)",
+    "connected_to": "Nehemias 10:30",
+    "connected_from": "Nehemias 10:28"
+  },
+  {
+    "text": "At hindi namin ibibigay ang aming mga anak na babae sa mga bayan ng lupain, o papagaasawahin man ang kanilang mga anak na babae para sa aming mga anak na lalake.",
+    "reference": "Nehemias 10:30 (ADB)",
+    "connected_to": "Nehemias 10:31",
+    "connected_from": "Nehemias 10:29"
+  },
+  {
+    "text": "At kung ang mga bayan ng lupain ay mangagdala ng mga kalakal o ng anomang pagkain sa araw ng sabbath upang ipagbili, na kami ay hindi magsisibili sa kanila sa sabbath, o sa pangiling araw: aming ipagpapahinga ang ikapitong taon, at ang pagsingil ng bawa't utang.",
+    "reference": "Nehemias 10:31 (ADB)",
+    "connected_to": "Nehemias 10:32",
+    "connected_from": "Nehemias 10:30"
+  },
+  {
+    "text": "Kami naman ay nangagpasiya rin sa sarili namin, na makiambag sa taon-taon ng ikatlong bahagi ng isang siklo ukol sa paglilingkod sa bahay ng aming Dios:",
+    "reference": "Nehemias 10:32 (ADB)",
+    "connected_to": "Nehemias 10:33",
+    "connected_from": "Nehemias 10:31"
+  },
+  {
+    "text": "Ukol sa tinapay na handog, at sa palaging handog na harina, at sa palaging handog na susunugin, sa mga sabbath, sa mga bagong buwan sa mga takdang kapistahan, at sa mga banal na bagay at sa mga handog dahil sa kasalanan upang itubos sa Israel, at sa lahat na gawain sa bahay ng aming Dios,",
+    "reference": "Nehemias 10:33 (ADB)",
+    "connected_to": "Nehemias 10:34",
+    "connected_from": "Nehemias 10:32"
+  },
+  {
+    "text": "At kami ay nangagsapalaran, ang mga saserdote, ang mga Levita, at ang bayan, dahil sa kaloob na panggatong upang dalhin sa bahay ng aming Dios, ayon sa mga sangbahayan ng aming mga magulang sa mga panahong takda, taon-taon, upang sunugin sa ibabaw ng dambana ng Panginoon naming Dios, gaya ng nasusulat sa kautusan.",
+    "reference": "Nehemias 10:34 (ADB)",
+    "connected_to": "Nehemias 10:35",
+    "connected_from": "Nehemias 10:33"
+  },
+  {
+    "text": "At upang dalhin ang mga unang bunga ng aming lupa, at ang mga unang bunga ng lahat na bunga ng sarisaring puno ng kahoy, taon-taon, sa bahay ng Panginoon:",
+    "reference": "Nehemias 10:35 (ADB)",
+    "connected_to": "Nehemias 10:36",
+    "connected_from": "Nehemias 10:34"
+  },
+  {
+    "text": "Gayon din ang panganay sa aming mga anak na lalake, at sa aming hayop, gaya ng nasusulat sa kautusan, at ang mga panganay sa aming bakahan at sa aming mga kawan, upang dalhin sa bahay ng aming Dios, sa mga saserdote, na nagsisipangasiwa sa bahay ng aming Dios:",
+    "reference": "Nehemias 10:36 (ADB)",
+    "connected_to": "Nehemias 10:37",
+    "connected_from": "Nehemias 10:35"
+  },
+  {
+    "text": "At upang aming dalhin ang mga unang bunga ng aming harina, at ang aming mga handog na itataas, at ang bunga ng sarisaring punong kahoy, ang alak, at ang langis, sa mga saserdote, sa mga silid ng bahay ng aming Dios; at ang ikasangpung bahagi ng aming lupa sa mga Levita; sapagka't sila, na mga Levita, ay nagsisikuha ng mga ikasangpung bahagi sa lahat na aming mga bayan na bukiran.",
+    "reference": "Nehemias 10:37 (ADB)",
+    "connected_to": "Nehemias 10:38",
+    "connected_from": "Nehemias 10:36"
+  },
+  {
+    "text": "At ang saserdote na anak ni Aaron ay sasama sa mga Levita, pagka ang mga Levita ay nagsisikuha ng mga ikasangpung bahagi; at isasampa ng mga Levita ang ikasangpung bahagi ng mga ikasangpung bahagi sa bahay ng aming Dios, sa mga silid sa loob ng bahay ng kayamanan.",
+    "reference": "Nehemias 10:38 (ADB)",
+    "connected_to": "Nehemias 10:39",
+    "connected_from": "Nehemias 10:37"
+  },
+  {
+    "text": "Sapagka't ang mga anak ni Israel, at ang mga anak ni Levi ay mangagdadala ng mga handog na itataas, na trigo, alak, at langis, sa mga silid, na kinaroroonan ng mga sisidlan ng santuario, at ng mga saserdote na nagsisipangasiwa, at ng mga tagatanod-pinto, at ng mga mangaawit: at hindi namin pababayaan ang bahay ng aming Dios.",
+    "reference": "Nehemias 10:39 (ADB)",
+    "connected_from": "Nehemias 10:38"
+  }
+]

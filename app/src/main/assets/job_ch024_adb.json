@@ -1,0 +1,150 @@
+[
+  {
+    "text": "Bakit ang mga kapanahunan ay hindi itinakda ng Makapangyarihan sa lahat? At bakit hindi nangakakakita ng kaniyang mga araw ang nangakakakilala sa kaniya?",
+    "reference": "Job 24:1 (ADB)",
+    "connected_to": "Job 24:2"
+  },
+  {
+    "text": "May nagsisipagbago ng lindero; kanilang dinadalang may karahasan ang mga kawan, at pinasasabsab.",
+    "reference": "Job 24:2 (ADB)",
+    "connected_to": "Job 24:3",
+    "connected_from": "Job 24:1"
+  },
+  {
+    "text": "Kanilang itinataboy ang asno ng ulila, kanilang kinukuha ang baka ng babaing bao na pinakasangla.",
+    "reference": "Job 24:3 (ADB)",
+    "connected_to": "Job 24:4",
+    "connected_from": "Job 24:2"
+  },
+  {
+    "text": "Kanilang inililigaw sa daan ang mapagkailangan: ang mga dukha sa lupa ay nagsisikubling magkakasama.",
+    "reference": "Job 24:4 (ADB)",
+    "connected_to": "Job 24:5",
+    "connected_from": "Job 24:3"
+  },
+  {
+    "text": "Narito, gaya ng mga mabangis na asno sa ilang, sila'y nagsisilabas sa kanilang gawa, na nagsisihanap na masikap ng pagkain; ang ilang ay siyang nagbibigay sa kanila ng pagkaing ukol sa kanilang mga anak.",
+    "reference": "Job 24:5 (ADB)",
+    "connected_to": "Job 24:6",
+    "connected_from": "Job 24:4"
+  },
+  {
+    "text": "Kanilang pinitas sa bukid ang kanilang pagkain; at kanilang pinamumulutan ang ubasan ng masama.",
+    "reference": "Job 24:6 (ADB)",
+    "connected_to": "Job 24:7",
+    "connected_from": "Job 24:5"
+  },
+  {
+    "text": "Sila'y hubad na nangahihiga buong gabi na walang suot. At walang kumot sa ginaw.",
+    "reference": "Job 24:7 (ADB)",
+    "connected_to": "Job 24:8",
+    "connected_from": "Job 24:6"
+  },
+  {
+    "text": "Sila'y basa ng ulan sa mga bundok, at niyayakap ang bato sa pagkakailangan ng kulungan.",
+    "reference": "Job 24:8 (ADB)",
+    "connected_to": "Job 24:9",
+    "connected_from": "Job 24:7"
+  },
+  {
+    "text": "May nagsisiagaw ng ulila mula sa suso, at nagsisikuha ng sangla ng dukha:",
+    "reference": "Job 24:9 (ADB)",
+    "connected_to": "Job 24:10",
+    "connected_from": "Job 24:8"
+  },
+  {
+    "text": "Na anopa't sila'y yumayaong hubad na walang damit, at palibhasa'y gutom ay kanilang dinadala ang mga bigkis;",
+    "reference": "Job 24:10 (ADB)",
+    "connected_to": "Job 24:11",
+    "connected_from": "Job 24:9"
+  },
+  {
+    "text": "Sila'y nagsisigawa ng langis sa loob ng olibohan ng mga taong ito; sila'y nagpipisa sa kanilang pisaan ng ubas, at nagtitiis ng uhaw.",
+    "reference": "Job 24:11 (ADB)",
+    "connected_to": "Job 24:12",
+    "connected_from": "Job 24:10"
+  },
+  {
+    "text": "Mula sa makapal na bayan ay nagsisidaing ang mga tao, at ang kaluluwa ng may sugat ay humihiyaw; gayon ma'y hindi inaaring mangmang ng Dios.",
+    "reference": "Job 24:12 (ADB)",
+    "connected_to": "Job 24:13",
+    "connected_from": "Job 24:11"
+  },
+  {
+    "text": "Ito'y sa mga nangaghihimagsik laban sa liwanag; Hindi nila nalalaman ang mga daan niyaon, ni tumatahan man sa mga landas niyaon.",
+    "reference": "Job 24:13 (ADB)",
+    "connected_to": "Job 24:14",
+    "connected_from": "Job 24:12"
+  },
+  {
+    "text": "Ang mamamatay tao ay bumabangon pagliliwanag, pinapatay niya ang dukha at mapagkailangan; at sa gabi ay gaya siya ng magnanakaw.",
+    "reference": "Job 24:14 (ADB)",
+    "connected_to": "Job 24:15",
+    "connected_from": "Job 24:13"
+  },
+  {
+    "text": "Ang mata naman ng mapangalunya ay naghihintay ng pagtatakip-silim, na sinasabi, Walang matang makakakita sa akin: at nagiiba ng kaniyang mukha.",
+    "reference": "Job 24:15 (ADB)",
+    "connected_to": "Job 24:16",
+    "connected_from": "Job 24:14"
+  },
+  {
+    "text": "Sa kadiliman ay nagsisihukay sila sa mga bahay: sila'y nagkukulong sa sarili kung araw; hindi nila nalalaman ang liwanag,",
+    "reference": "Job 24:16 (ADB)",
+    "connected_to": "Job 24:17",
+    "connected_from": "Job 24:15"
+  },
+  {
+    "text": "Sapagka't ang umaga sa kanilang lahat ay parang salimuot na kadiliman, sapagka't kanilang nalalaman ang mga kakilabutan ng salimot na kadiliman.",
+    "reference": "Job 24:17 (ADB)",
+    "connected_to": "Job 24:18",
+    "connected_from": "Job 24:16"
+  },
+  {
+    "text": "Siya'y matulin sa ibabaw ng tubig; ang kanilang bahagi ay sinumpa sa lupa: siya'y hindi babalik sa daan ng mga ubasan.",
+    "reference": "Job 24:18 (ADB)",
+    "connected_to": "Job 24:19",
+    "connected_from": "Job 24:17"
+  },
+  {
+    "text": "Katuyuan at kainitan ay tumutunaw ng mga niebeng tubig: gaya ng Sheol ng mga nagkakasala.",
+    "reference": "Job 24:19 (ADB)",
+    "connected_to": "Job 24:20",
+    "connected_from": "Job 24:18"
+  },
+  {
+    "text": "Kalilimutan siya ng bahay-bata: siya'y kakaning maigi ng uod; siya'y hindi na maaalaala pa: at ang kalikuan ay babaliing parang punong kahoy.",
+    "reference": "Job 24:20 (ADB)",
+    "connected_to": "Job 24:21",
+    "connected_from": "Job 24:19"
+  },
+  {
+    "text": "Kaniyang sinasakmal ang baog na hindi nanganganak; at hindi gumagawa ng mabuti sa babaing bao.",
+    "reference": "Job 24:21 (ADB)",
+    "connected_to": "Job 24:22",
+    "connected_from": "Job 24:20"
+  },
+  {
+    "text": "Inaagawan naman ng Dios ang may kaya sa pamamagitan ng kaniyang kapangyarihan: siya'y bumabangon na walang katiwasayan sa buhay.",
+    "reference": "Job 24:22 (ADB)",
+    "connected_to": "Job 24:23",
+    "connected_from": "Job 24:21"
+  },
+  {
+    "text": "Pinagkakalooban sila ng Dios na malagay sa katiwasayan, at sila'y nagpapahinga roon; at ang kaniyang mga mata ay nasa kanilang mga lakad.",
+    "reference": "Job 24:23 (ADB)",
+    "connected_to": "Job 24:24",
+    "connected_from": "Job 24:22"
+  },
+  {
+    "text": "Sila'y nangataas, gayon ma'y isang sandali pa, at sila'y wala na. Oo, sila'y nangababa, sila'y nangaalis sa daan na gaya ng lahat ng mga iba, at nangaputol na gaya ng mga uhay.",
+    "reference": "Job 24:24 (ADB)",
+    "connected_to": "Job 24:25",
+    "connected_from": "Job 24:23"
+  },
+  {
+    "text": "At kung hindi gayon ngayon, sinong magpapatotoo na ako'y sinungaling, at magwawala ng kabuluhan ng aking pananalita?",
+    "reference": "Job 24:25 (ADB)",
+    "connected_from": "Job 24:24"
+  }
+]

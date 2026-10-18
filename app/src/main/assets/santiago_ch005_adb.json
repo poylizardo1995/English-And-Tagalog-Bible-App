@@ -1,0 +1,120 @@
+[
+  {
+    "text": "Magsiparito ngayon, kayong mayayaman, kayo'y magsitangis at magsihagulhol dahil sa mga karalitaan ninyong sa inyo'y darating.",
+    "reference": "Santiago 5:1 (ADB)",
+    "connected_to": "Santiago 5:2"
+  },
+  {
+    "text": "Ang inyong mga kayamanan ay mga bulok, at ang inyong mga damit ay nginangatngat ng tanga.",
+    "reference": "Santiago 5:2 (ADB)",
+    "connected_to": "Santiago 5:3",
+    "connected_from": "Santiago 5:1"
+  },
+  {
+    "text": "Ang inyong ginto at ang inyong pilak ay kinakalawang na; at ang mga kalawang na ito ay siyang magiging patotoo laban sa inyo, at gaya ng apoy na lalamunin ang inyong laman. Kayo'y nagtipon ng inyong mga kayamanan sa mga huling araw.",
+    "reference": "Santiago 5:3 (ADB)",
+    "connected_to": "Santiago 5:4",
+    "connected_from": "Santiago 5:2"
+  },
+  {
+    "text": "Narito, ang kaupahan ng mga manggagawa na nagsiani sa inyong mga bukid, na iniring ninyo sa pamamagitan ng daya, ay humihibik: at ang mga hibik ng mga nagsiani ay nagsipasok sa mga pakinig ng Panginoon ng mga hukbo.",
+    "reference": "Santiago 5:4 (ADB)",
+    "connected_to": "Santiago 5:5",
+    "connected_from": "Santiago 5:3"
+  },
+  {
+    "text": "Kayo'y nangabuhay ng tamasa sa ibabaw ng lupa, at nangagalak; inyong pinataba ang inyong mga puso sa araw ng patayan.",
+    "reference": "Santiago 5:5 (ADB)",
+    "connected_to": "Santiago 5:6",
+    "connected_from": "Santiago 5:4"
+  },
+  {
+    "text": "Inyong hinatulan, inyong pinatay ang matuwid; hindi niya kayo nilalabanan.",
+    "reference": "Santiago 5:6 (ADB)",
+    "connected_to": "Santiago 5:7",
+    "connected_from": "Santiago 5:5"
+  },
+  {
+    "text": "Mangagtiis nga kayo, mga kapatid, hanggang sa pagparito ng Panginoon. Narito, inaasahan ng magsasaka ang mahalagang bunga ng lupa, na may pagtitiis, hanggang sa tanggapin ang ulang maaga at huli.",
+    "reference": "Santiago 5:7 (ADB)",
+    "connected_to": "Santiago 5:8",
+    "connected_from": "Santiago 5:6"
+  },
+  {
+    "text": "Mangagtiis din naman kayo; pagtibayin ninyo ang inyong mga puso, sapagka't ang pagparito ng Panginoon ay malapit na.",
+    "reference": "Santiago 5:8 (ADB)",
+    "connected_to": "Santiago 5:9",
+    "connected_from": "Santiago 5:7"
+  },
+  {
+    "text": "Huwag kayong mangagupasalaan, mga kapatid, laban sa isa't isa, upang kayo'y huwag mahatulan; narito, ang hukom ay nakatayo sa harapan ng mga pinto.",
+    "reference": "Santiago 5:9 (ADB)",
+    "connected_to": "Santiago 5:10",
+    "connected_from": "Santiago 5:8"
+  },
+  {
+    "text": "Kunan ninyong halimbawa ng pagbabata at ng pagtitiis, mga kapatid, ang mga propeta na nagsipagsalita sa pangalan ng Panginoon.",
+    "reference": "Santiago 5:10 (ADB)",
+    "connected_to": "Santiago 5:11",
+    "connected_from": "Santiago 5:9"
+  },
+  {
+    "text": "Narito, tinatawag nating mapapalad ang nangagtiis: inyong nabalitaan ang pagtitiis ni Job, at inyong nakita ang pinapangyari ng Panginoon, kung gaano ang lubos na pagkahabag at ang pagkamaawain ng Panginoon.",
+    "reference": "Santiago 5:11 (ADB)",
+    "connected_to": "Santiago 5:12",
+    "connected_from": "Santiago 5:10"
+  },
+  {
+    "text": "Nguni't higit sa lahat ng mga bagay, mga kapatid ko, ay huwag ninyong ipanumpa, kahit ang langit, ni ang lupa, ni ang anomang ibang sumpa: kundi ang inyong oo, ay maging oo; at ang inyong hindi, ay maging hindi; upang kayo'y huwag mangahulog sa ilalim ng hatol.",
+    "reference": "Santiago 5:12 (ADB)",
+    "connected_to": "Santiago 5:13",
+    "connected_from": "Santiago 5:11"
+  },
+  {
+    "text": "Nagbabata baga ang sinoman sa inyo? siya'y manalangin. Natutuwa ang sinoman? awitin niya ang mga pagpupuri.",
+    "reference": "Santiago 5:13 (ADB)",
+    "connected_to": "Santiago 5:14",
+    "connected_from": "Santiago 5:12"
+  },
+  {
+    "text": "May sakit baga ang sinoman sa inyo? ipatawag niya ang mga matanda sa iglesia; at ipanalangin nila siya, na pahiran nila ng langis sa pangalan ng Panginoon:",
+    "reference": "Santiago 5:14 (ADB)",
+    "connected_to": "Santiago 5:15",
+    "connected_from": "Santiago 5:13"
+  },
+  {
+    "text": "At ang panalangin ng pananampalataya ay magliligtas sa may sakit, at ibabangon siya ng Panginoon; at kung nagkasala siya, ay ipatatawad sa kaniya.",
+    "reference": "Santiago 5:15 (ADB)",
+    "connected_to": "Santiago 5:16",
+    "connected_from": "Santiago 5:14"
+  },
+  {
+    "text": "Mangagpahayagan nga kayo sa isa't isa ng inyong mga kasalanan, at ipanalangin ng isa't isa ang iba, upang kayo'y magsigaling. Malaki ang nagagawa ng maningas na panalangin ng taong matuwid.",
+    "reference": "Santiago 5:16 (ADB)",
+    "connected_to": "Santiago 5:17",
+    "connected_from": "Santiago 5:15"
+  },
+  {
+    "text": "Si Elias ay isang taong may pagkataong gaya rin ng atin, at siya'y nanalangin ng buong ningas upang huwag umulan; at hindi umulan sa lupa sa loob ng tatlong taon at anim na buwan.",
+    "reference": "Santiago 5:17 (ADB)",
+    "connected_to": "Santiago 5:18",
+    "connected_from": "Santiago 5:16"
+  },
+  {
+    "text": "At muli siyang nanalangin; at ang langit ay nagbigay ng ulan, at ang lupa ay namunga ng kaniyang bunga.",
+    "reference": "Santiago 5:18 (ADB)",
+    "connected_to": "Santiago 5:19",
+    "connected_from": "Santiago 5:17"
+  },
+  {
+    "text": "Mga kapatid ko, kung ang sinoman sa inyo ay nalilihis sa katotohanan, at siya'y papagbaliking loob ng sinoman;",
+    "reference": "Santiago 5:19 (ADB)",
+    "connected_to": "Santiago 5:20",
+    "connected_from": "Santiago 5:18"
+  },
+  {
+    "text": "Ay alamin nito na ang nagpapabalik-loob ng isang makasalanan, mula sa kamalian ng lakad niya ay magliligtas ng isang kaluluwa sa kamatayan, at magtatakip ng karamihang kasalanan.",
+    "reference": "Santiago 5:20 (ADB)",
+    "connected_from": "Santiago 5:19"
+  }
+]

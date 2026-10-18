@@ -1,0 +1,66 @@
+[
+  {
+    "text": "Mangagbigay kayo sa Panginoon, Oh kayong mga anak ng makapangyarihan, mangagbigay kayo sa Panginoon ng kaluwalhatian at kalakasan.",
+    "reference": "Mga Awit 29:1 (ADB)",
+    "connected_to": "Mga Awit 29:2"
+  },
+  {
+    "text": "Ibigay ninyo sa Panginoon ang kaluwalhatiang marapat sa kaniyang pangalan: inyong sambahin ang Panginoon sa kagandahan ng kabanalan.",
+    "reference": "Mga Awit 29:2 (ADB)",
+    "connected_to": "Mga Awit 29:3",
+    "connected_from": "Mga Awit 29:1"
+  },
+  {
+    "text": "Ang tinig ng Panginoon ay nasa ibabaw ng tubig: ang Dios ng kaluwalhatian ay kumukulog, sa makatuwid baga'y ang Panginoon sa ibabaw ng maraming tubig.",
+    "reference": "Mga Awit 29:3 (ADB)",
+    "connected_to": "Mga Awit 29:4",
+    "connected_from": "Mga Awit 29:2"
+  },
+  {
+    "text": "Ang tinig ng Panginoon ay makapangyarihan; ang tinig ng Panginoon ay puspos ng kamahalan.",
+    "reference": "Mga Awit 29:4 (ADB)",
+    "connected_to": "Mga Awit 29:5",
+    "connected_from": "Mga Awit 29:3"
+  },
+  {
+    "text": "Ang tinig ng Panginoon ay bumabali ng mga cedro; Oo, pinagpuputolputol ng Panginoon ang mga cedro ng Libano.",
+    "reference": "Mga Awit 29:5 (ADB)",
+    "connected_to": "Mga Awit 29:6",
+    "connected_from": "Mga Awit 29:4"
+  },
+  {
+    "text": "Kaniya namang pinalulukso na gaya ng guya: ang Libano at Sirion na gaya ng mailap na guyang baka.",
+    "reference": "Mga Awit 29:6 (ADB)",
+    "connected_to": "Mga Awit 29:7",
+    "connected_from": "Mga Awit 29:5"
+  },
+  {
+    "text": "Humahawi ng liyab ng apoy ang tinig ng Panginoon.",
+    "reference": "Mga Awit 29:7 (ADB)",
+    "connected_to": "Mga Awit 29:8",
+    "connected_from": "Mga Awit 29:6"
+  },
+  {
+    "text": "Niyayanig ng tinig ng Panginoon ang ilang: niyayanig ng Panginoon ang ilang ng Kades.",
+    "reference": "Mga Awit 29:8 (ADB)",
+    "connected_to": "Mga Awit 29:9",
+    "connected_from": "Mga Awit 29:7"
+  },
+  {
+    "text": "Pinapanganganak ng tinig ng Panginoon ang mga usa, at hinuhubdan ang mga gubat: at sa kaniyang templo ay nagsasabi ang bawa't bagay: kaluwalhatian.",
+    "reference": "Mga Awit 29:9 (ADB)",
+    "connected_to": "Mga Awit 29:10",
+    "connected_from": "Mga Awit 29:8"
+  },
+  {
+    "text": "Ang Panginoon ay naupo sa baha na parang Hari; Oo, ang Panginoon ay nauupong parang Hari magpakailan man.",
+    "reference": "Mga Awit 29:10 (ADB)",
+    "connected_to": "Mga Awit 29:11",
+    "connected_from": "Mga Awit 29:9"
+  },
+  {
+    "text": "Ang Panginoon ay magbibigay ng kalakasan sa kaniyang bayan; pagpapalain ng Panginoon ang kaniyang bayan ng kapayapaan.",
+    "reference": "Mga Awit 29:11 (ADB)",
+    "connected_from": "Mga Awit 29:10"
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "text": "Oh Dios, huwag kang tumahimik: huwag kang mapayapa, at tumiwasay, Oh Dios.",
+    "reference": "Mga Awit 83:1 (ADB)",
+    "connected_to": "Mga Awit 83:2"
+  },
+  {
+    "text": "Sapagka't narito, ang mga kaaway mo'y nanggugulo: at silang nangagtatanim sa iyo ay nangagtaas ng ulo.",
+    "reference": "Mga Awit 83:2 (ADB)",
+    "connected_to": "Mga Awit 83:3",
+    "connected_from": "Mga Awit 83:1"
+  },
+  {
+    "text": "Sila'y nagsisitanggap ng payong may katusuhan laban sa iyong bayan, at nangagsanggunian laban sa iyong nangakakubli.",
+    "reference": "Mga Awit 83:3 (ADB)",
+    "connected_to": "Mga Awit 83:4",
+    "connected_from": "Mga Awit 83:2"
+  },
+  {
+    "text": "Kanilang sinabi, Kayo'y parito, at atin silang ihiwalay sa pagkabansa; upang ang pangalan ng Israel ay huwag nang maalaala pa.",
+    "reference": "Mga Awit 83:4 (ADB)",
+    "connected_to": "Mga Awit 83:5",
+    "connected_from": "Mga Awit 83:3"
+  },
+  {
+    "text": "Sapagka't sila'y nangagsangguniang magkakasama na may isang pagkakaayon; laban sa iyo ay nangagtitipanan:",
+    "reference": "Mga Awit 83:5 (ADB)",
+    "connected_to": "Mga Awit 83:6",
+    "connected_from": "Mga Awit 83:4"
+  },
+  {
+    "text": "Ang mga tolda ng Edom at ng mga Ismaelita; ang Moab at ang mga Agareno;",
+    "reference": "Mga Awit 83:6 (ADB)",
+    "connected_to": "Mga Awit 83:7",
+    "connected_from": "Mga Awit 83:5"
+  },
+  {
+    "text": "Ang Gebal, at ang Ammon, at ang Amalec; ang Filisteo na kasama ng mga taga Tiro:",
+    "reference": "Mga Awit 83:7 (ADB)",
+    "connected_to": "Mga Awit 83:8",
+    "connected_from": "Mga Awit 83:6"
+  },
+  {
+    "text": "Pati ng Asiria ay nalalakip sa kanila; kanilang tinulungan ang mga anak ni Lot.",
+    "reference": "Mga Awit 83:8 (ADB)",
+    "connected_to": "Mga Awit 83:9",
+    "connected_from": "Mga Awit 83:7"
+  },
+  {
+    "text": "Gumawa ka sa kanila ng gaya sa Madianita; gaya kay Sisara, gaya kay Jabin, sa ilog ng Cison:",
+    "reference": "Mga Awit 83:9 (ADB)",
+    "connected_to": "Mga Awit 83:10",
+    "connected_from": "Mga Awit 83:8"
+  },
+  {
+    "text": "Na nangamatay sa Endor; sila'y naging parang dumi sa lupa.",
+    "reference": "Mga Awit 83:10 (ADB)",
+    "connected_to": "Mga Awit 83:11",
+    "connected_from": "Mga Awit 83:9"
+  },
+  {
+    "text": "Gawin mo ang kanilang mga maginoo na gaya ni Oreb at ni Zeeb; Oo, lahat nilang mga pangulo ay gaya ni Zeba at ni Zalmuna;",
+    "reference": "Mga Awit 83:11 (ADB)",
+    "connected_to": "Mga Awit 83:12",
+    "connected_from": "Mga Awit 83:10"
+  },
+  {
+    "text": "Na siyang nagsipagsabi, kunin natin para sa atin na pinakaari ang mga tahanan ng Dios.",
+    "reference": "Mga Awit 83:12 (ADB)",
+    "connected_to": "Mga Awit 83:13",
+    "connected_from": "Mga Awit 83:11"
+  },
+  {
+    "text": "Oh Dios ko, gawin mo silang parang ipoipong alabok; Parang dayami sa harap ng hangin.",
+    "reference": "Mga Awit 83:13 (ADB)",
+    "connected_to": "Mga Awit 83:14",
+    "connected_from": "Mga Awit 83:12"
+  },
+  {
+    "text": "Parang apoy na sumusunog ng gubat, at parang liyab na nanunupok ng mga bundok;",
+    "reference": "Mga Awit 83:14 (ADB)",
+    "connected_to": "Mga Awit 83:15",
+    "connected_from": "Mga Awit 83:13"
+  },
+  {
+    "text": "Kaya't habulin mo sila ng iyong bagyo, at pangilabutin mo sila ng iyong unos.",
+    "reference": "Mga Awit 83:15 (ADB)",
+    "connected_to": "Mga Awit 83:16",
+    "connected_from": "Mga Awit 83:14"
+  },
+  {
+    "text": "Lipusin mo ang kanilang mga mukha ng kahihiyan; upang hanapin nila ang iyong pangalan, Oh Panginoon.",
+    "reference": "Mga Awit 83:16 (ADB)",
+    "connected_to": "Mga Awit 83:17",
+    "connected_from": "Mga Awit 83:15"
+  },
+  {
+    "text": "Mangapahiya sila at manganglupaypay magpakailan man; Oo, mangahiya sila at mangalipol:",
+    "reference": "Mga Awit 83:17 (ADB)",
+    "connected_to": "Mga Awit 83:18",
+    "connected_from": "Mga Awit 83:16"
+  },
+  {
+    "text": "Upang kanilang maalaman na ikaw lamang, na ang pangalan ay JEHOVA, ay Kataastaasan sa buong lupa.",
+    "reference": "Mga Awit 83:18 (ADB)",
+    "connected_from": "Mga Awit 83:17"
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "text": "Ang kinauuwian nga ng mga bagay na aming sinasabi ay ito: Mayroon tayong isang dakilang saserdote, na nakaupo sa kanan ng luklukan ng Karangalan sa mga langit,",
+    "reference": "Hebreo 8:1 (ADB)",
+    "connected_to": "Hebreo 8:2"
+  },
+  {
+    "text": "Ministro sa santuario, at sa tunay na tabernakulo, na itinayo ng Panginoon, hindi ng tao.",
+    "reference": "Hebreo 8:2 (ADB)",
+    "connected_to": "Hebreo 8:3",
+    "connected_from": "Hebreo 8:1"
+  },
+  {
+    "text": "Sapagka't ang bawa't dakilang saserdote ay inilagay upang maghandog ng mga kaloob at ng mga hain naman: sa ganito'y kinakailangan din namang siya'y magkaroon ng anomang ihahandog.",
+    "reference": "Hebreo 8:3 (ADB)",
+    "connected_to": "Hebreo 8:4",
+    "connected_from": "Hebreo 8:2"
+  },
+  {
+    "text": "Kung siya nga'y nasa lupa ay hindi siya saserdote sa anomang paraan, palibhasa'y mayroon nang nagsisipaghandog ng mga kaloob ayon sa kautusan;",
+    "reference": "Hebreo 8:4 (ADB)",
+    "connected_to": "Hebreo 8:5",
+    "connected_from": "Hebreo 8:3"
+  },
+  {
+    "text": "Na nangaglilingkod sa anyo at anino ng mga bagay sa kalangitan, gaya naman ni Moises na pinagsabihan ng Dios nang malapit ng gawin niya ang tabernakulo: sapagka't sinabi niya, Ingatan mo na iyong gawin ang lahat ng mga bagay ayon sa anyong ipinakita sa iyo sa bundok.",
+    "reference": "Hebreo 8:5 (ADB)",
+    "connected_to": "Hebreo 8:6",
+    "connected_from": "Hebreo 8:4"
+  },
+  {
+    "text": "Datapuwa't ngayo'y kinamtan niya ang ministeriong lalong marangal, palibhasa'y siya nama'y tagapamagitan sa isang tipang lalong magaling, na inilagda sa lalong mabubuting pangako.",
+    "reference": "Hebreo 8:6 (ADB)",
+    "connected_to": "Hebreo 8:7",
+    "connected_from": "Hebreo 8:5"
+  },
+  {
+    "text": "Sapagka't kung ang unang tipang yaon ay naging walang kakulangan, ay hindi na sana inihanap ng pangangailangan ang ikalawa.",
+    "reference": "Hebreo 8:7 (ADB)",
+    "connected_to": "Hebreo 8:8",
+    "connected_from": "Hebreo 8:6"
+  },
+  {
+    "text": "Sapagka't sa pagkakita ng kakulangan sa kanila, ay sinabi niya, Narito, dumarating ang mga araw, sinasabi ng Panginoon, Na ako'y gagawa ng isang bagong pakikipagtipan; sa sangbahayan ni Israel at sa sangbahayan ni Juda.",
+    "reference": "Hebreo 8:8 (ADB)",
+    "connected_to": "Hebreo 8:9",
+    "connected_from": "Hebreo 8:7"
+  },
+  {
+    "text": "Hindi ayon sa tipang aking ipinakipagtipan sa kanilang mga magulang Nang araw na sila'y aking tangnan sa kamay, upang sila'y ihatid sa labas ng lupain ng Egipto; Sapagka't sila'y hindi nanatili sa aking tipan, At akin silang pinabayaan, sinasabi ng Panginoon.",
+    "reference": "Hebreo 8:9 (ADB)",
+    "connected_to": "Hebreo 8:10",
+    "connected_from": "Hebreo 8:8"
+  },
+  {
+    "text": "Sapagka't ito ang pakikipagtipang aking gagawin sa sangbahayan ni Israel Pagkatapos ng mga araw na yaon, sinasabi ng Panginoon; Ilalagay ko ang aking mga kautusan sa kanilang pagiisip, At sa kanilang mga puso'y aking isusulat ang mga ito. At ako'y magiging Dios nila, At sila'y magiging bayan ko:",
+    "reference": "Hebreo 8:10 (ADB)",
+    "connected_to": "Hebreo 8:11",
+    "connected_from": "Hebreo 8:9"
+  },
+  {
+    "text": "At hindi magtuturo ang bawa't isa sa kaniyang kababayan, At ang bawa't isa sa kaniyang kapatid, na sasabihing, Kilalanin mo ang Panginoon: Sapagka't ako'y makikilala ng lahat, Mula sa kaliitliitan hanggang sa kadakidakilaan sa kanila.",
+    "reference": "Hebreo 8:11 (ADB)",
+    "connected_to": "Hebreo 8:12",
+    "connected_from": "Hebreo 8:10"
+  },
+  {
+    "text": "Sapagka't ako'y magiging mahabagin sa kanilang kalikuan, At ang kanilang mga kasalanan ay hindi ko na aalalahanin pa.",
+    "reference": "Hebreo 8:12 (ADB)",
+    "connected_to": "Hebreo 8:13",
+    "connected_from": "Hebreo 8:11"
+  },
+  {
+    "text": "Doon sa sinasabi niya, Isang bagong tipan, ay linuma niya ang una. Datapuwa't ang nagiging luma at tumatanda ay malapit ng lumipas.",
+    "reference": "Hebreo 8:13 (ADB)",
+    "connected_from": "Hebreo 8:12"
+  }
+]

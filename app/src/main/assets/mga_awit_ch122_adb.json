@@ -1,0 +1,54 @@
+[
+  {
+    "text": "Ako'y natutuwa nang kanilang sabihin sa akin, tayo'y magsiparoon sa bahay ng Panginoon.",
+    "reference": "Mga Awit 122:1 (ADB)",
+    "connected_to": "Mga Awit 122:2"
+  },
+  {
+    "text": "Ang mga paa natin ay nagsisitayo sa loob ng iyong mga pintuang-bayan, Oh Jerusalem;",
+    "reference": "Mga Awit 122:2 (ADB)",
+    "connected_to": "Mga Awit 122:3",
+    "connected_from": "Mga Awit 122:1"
+  },
+  {
+    "text": "Jerusalem, na natayo na parang bayang siksikan:",
+    "reference": "Mga Awit 122:3 (ADB)",
+    "connected_to": "Mga Awit 122:4",
+    "connected_from": "Mga Awit 122:2"
+  },
+  {
+    "text": "Na inaahon ng mga lipi, sa makatuwid baga'y ng mga lipi ng Panginoon, na pinaka patotoo sa Israel, upang magpasalamat sa pangalan ng Panginoon.",
+    "reference": "Mga Awit 122:4 (ADB)",
+    "connected_to": "Mga Awit 122:5",
+    "connected_from": "Mga Awit 122:3"
+  },
+  {
+    "text": "Sapagka't doo'y nalagay ang mga luklukan na ukol sa kahatulan, ang mga luklukan ng sangbahayan ni David.",
+    "reference": "Mga Awit 122:5 (ADB)",
+    "connected_to": "Mga Awit 122:6",
+    "connected_from": "Mga Awit 122:4"
+  },
+  {
+    "text": "Idalangin ninyo ang kapayapaan ng Jerusalem: sila'y magsisiginhawa na nagsisiibig sa iyo.",
+    "reference": "Mga Awit 122:6 (ADB)",
+    "connected_to": "Mga Awit 122:7",
+    "connected_from": "Mga Awit 122:5"
+  },
+  {
+    "text": "Kapayapaan nawa ang sumaloob ng inyong mga kuta, at kaginhawahan sa loob ng iyong mga palasio.",
+    "reference": "Mga Awit 122:7 (ADB)",
+    "connected_to": "Mga Awit 122:8",
+    "connected_from": "Mga Awit 122:6"
+  },
+  {
+    "text": "Dahil sa aking mga kapatid at aking mga kasama, aking sasabihin ngayon, kapayapaan ang sumaiyong loob.",
+    "reference": "Mga Awit 122:8 (ADB)",
+    "connected_to": "Mga Awit 122:9",
+    "connected_from": "Mga Awit 122:7"
+  },
+  {
+    "text": "Dahil sa bahay ng Panginoon nating Dios. Hahanapin ko ang iyong buti.",
+    "reference": "Mga Awit 122:9 (ADB)",
+    "connected_from": "Mga Awit 122:8"
+  }
+]

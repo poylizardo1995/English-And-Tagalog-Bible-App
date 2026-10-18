@@ -1,0 +1,180 @@
+[
+  {
+    "text": "Nang magkagayo'y sumagot si Eliphaz na Temanita, at nagsabi,",
+    "reference": "Job 22:1 (ADB)",
+    "connected_to": "Job 22:2"
+  },
+  {
+    "text": "Mapapakinabangan ba ang tao ng Dios? Tunay na siyang pantas ay nakikinabang sa kaniyang sarili.",
+    "reference": "Job 22:2 (ADB)",
+    "connected_to": "Job 22:3",
+    "connected_from": "Job 22:1"
+  },
+  {
+    "text": "May kasayahan ba sa Makapangyarihan sa lahat na ikaw ay matuwid? O may pakinabang ba sa kaniya na iyong pinasasakdal ang iyong mga lakad?",
+    "reference": "Job 22:3 (ADB)",
+    "connected_to": "Job 22:4",
+    "connected_from": "Job 22:2"
+  },
+  {
+    "text": "Dahil ba sa iyong takot sa kaniya na kaniyang sinasaway ka, na siya'y pumasok sa iyo sa kahatulan?",
+    "reference": "Job 22:4 (ADB)",
+    "connected_to": "Job 22:5",
+    "connected_from": "Job 22:3"
+  },
+  {
+    "text": "Hindi ba malaki ang iyong kasamaan? Ni wala mang anomang wakas sa iyong mga kasamaan.",
+    "reference": "Job 22:5 (ADB)",
+    "connected_to": "Job 22:6",
+    "connected_from": "Job 22:4"
+  },
+  {
+    "text": "Sapagka't ikaw ay kumuha ng sangla ng iyong kapatid sa wala, at iyong hinubdan ng kanilang suot ang hubad.",
+    "reference": "Job 22:6 (ADB)",
+    "connected_to": "Job 22:7",
+    "connected_from": "Job 22:5"
+  },
+  {
+    "text": "Ikaw ay hindi nagbigay ng tubig sa pagod upang uminom, at ikaw ay nagkait ng tinapay sa gutom.",
+    "reference": "Job 22:7 (ADB)",
+    "connected_to": "Job 22:8",
+    "connected_from": "Job 22:6"
+  },
+  {
+    "text": "Nguni't tungkol sa makapangyarihang tao, siya'y nagtatangkilik ng lupa; at ang marangal na tao, ay tumatahan doon.",
+    "reference": "Job 22:8 (ADB)",
+    "connected_to": "Job 22:9",
+    "connected_from": "Job 22:7"
+  },
+  {
+    "text": "Iyong pinayaong walang dala ang mga babaing bao, at ang mga kamay ng ulila ay nangabali.",
+    "reference": "Job 22:9 (ADB)",
+    "connected_to": "Job 22:10",
+    "connected_from": "Job 22:8"
+  },
+  {
+    "text": "Kaya't ang mga silo ay nangasa palibot mo, at biglang takot ay bumabagabag sa iyo,",
+    "reference": "Job 22:10 (ADB)",
+    "connected_to": "Job 22:11",
+    "connected_from": "Job 22:9"
+  },
+  {
+    "text": "O kadiliman, upang huwag kang makakita. At kasaganaan ng tubig ay tumatabon sa iyo.",
+    "reference": "Job 22:11 (ADB)",
+    "connected_to": "Job 22:12",
+    "connected_from": "Job 22:10"
+  },
+  {
+    "text": "Hindi ba ang Dios ay nasa kaitaasan ng langit? At, narito, ang kataasan ng mga bituin, pagkataastaas nila!",
+    "reference": "Job 22:12 (ADB)",
+    "connected_to": "Job 22:13",
+    "connected_from": "Job 22:11"
+  },
+  {
+    "text": "At iyong sinasabi, Anong nalalaman ng Dios? Makahahatol ba siya sa salisalimuot na kadiliman?",
+    "reference": "Job 22:13 (ADB)",
+    "connected_to": "Job 22:14",
+    "connected_from": "Job 22:12"
+  },
+  {
+    "text": "Masinsing alapaap ang tumatakip sa kaniya, na siya'y hindi nakakakita; at siya'y lumalakad sa balantok ng langit.",
+    "reference": "Job 22:14 (ADB)",
+    "connected_to": "Job 22:15",
+    "connected_from": "Job 22:13"
+  },
+  {
+    "text": "Iyo bang pagpapatuluyan ang dating daan, na nilakaran ng mga masamang tao?",
+    "reference": "Job 22:15 (ADB)",
+    "connected_to": "Job 22:16",
+    "connected_from": "Job 22:14"
+  },
+  {
+    "text": "Na siyang mga naalis bago dumating ang kanilang kapanahunan. Na ang patibayan ay nahuhong parang agos:",
+    "reference": "Job 22:16 (ADB)",
+    "connected_to": "Job 22:17",
+    "connected_from": "Job 22:15"
+  },
+  {
+    "text": "Na nagsabi sa Dios: Lumayo ka sa amin; at, anong magagawa sa amin ng Makapangyarihan sa lahat?",
+    "reference": "Job 22:17 (ADB)",
+    "connected_to": "Job 22:18",
+    "connected_from": "Job 22:16"
+  },
+  {
+    "text": "Gayon ma'y pinuno niya ang kanilang mga bahay ng mga mabuting bagay; nguni't ang payo ng masama ay malayo sa akin.",
+    "reference": "Job 22:18 (ADB)",
+    "connected_to": "Job 22:19",
+    "connected_from": "Job 22:17"
+  },
+  {
+    "text": "Nakikita ng mga matuwid at nangatutuwa; at tinatawanang mainam ng walang sala:",
+    "reference": "Job 22:19 (ADB)",
+    "connected_to": "Job 22:20",
+    "connected_from": "Job 22:18"
+  },
+  {
+    "text": "Na nagsasabi, Walang pagsalang silang nagsisibangon laban sa atin ay nahiwalay, at ang nalabi sa kanila ay sinupok ng apoy.",
+    "reference": "Job 22:20 (ADB)",
+    "connected_to": "Job 22:21",
+    "connected_from": "Job 22:19"
+  },
+  {
+    "text": "Makipagkilala ka sa kaniya, at ikaw ay mapayapa: anopa't ang mabuti ay darating sa iyo.",
+    "reference": "Job 22:21 (ADB)",
+    "connected_to": "Job 22:22",
+    "connected_from": "Job 22:20"
+  },
+  {
+    "text": "Iyong tanggapin, isinasamo ko sa iyo, ang kautusan mula sa kaniyang bibig, at ilagak mo ang kaniyang mga salita sa iyong puso.",
+    "reference": "Job 22:22 (ADB)",
+    "connected_to": "Job 22:23",
+    "connected_from": "Job 22:21"
+  },
+  {
+    "text": "Kung ikaw ay bumalik sa Makapangyarihan sa lahat, ay matatayo ka; kung iyong ilayo ang kalikuan sa iyong mga tolda.",
+    "reference": "Job 22:23 (ADB)",
+    "connected_to": "Job 22:24",
+    "connected_from": "Job 22:22"
+  },
+  {
+    "text": "At ilagay mo ang iyong kayamanan sa alabok, at ang ginto ng Ophir sa gitna ng mga bato ng mga batis:",
+    "reference": "Job 22:24 (ADB)",
+    "connected_to": "Job 22:25",
+    "connected_from": "Job 22:23"
+  },
+  {
+    "text": "At ang Makapangyarihan sa lahat ay magiging iyong kayamanan, at mahalagang pilak sa iyo.",
+    "reference": "Job 22:25 (ADB)",
+    "connected_to": "Job 22:26",
+    "connected_from": "Job 22:24"
+  },
+  {
+    "text": "Sapagka't ikaw ay magagalak nga ng iyong sarili sa Makapangyarihan sa lahat, at iyong itataas ang iyong mukha sa Dios.",
+    "reference": "Job 22:26 (ADB)",
+    "connected_to": "Job 22:27",
+    "connected_from": "Job 22:25"
+  },
+  {
+    "text": "Ikaw ay dadalangin sa kaniya, at kaniyang didinggin ka: at iyong babayaran ang iyong mga panata.",
+    "reference": "Job 22:27 (ADB)",
+    "connected_to": "Job 22:28",
+    "connected_from": "Job 22:26"
+  },
+  {
+    "text": "Ikaw nama'y magpapasiya ng isang bagay, at ito'y matatatag sa iyo; at liwanag ay sisilang sa iyong mga daan.",
+    "reference": "Job 22:28 (ADB)",
+    "connected_to": "Job 22:29",
+    "connected_from": "Job 22:27"
+  },
+  {
+    "text": "Pagka inilulugmok ka nila, ay iyong sasabihin: Magpakataas; at ililigtas niya ang mapagpakumbabang tao.",
+    "reference": "Job 22:29 (ADB)",
+    "connected_to": "Job 22:30",
+    "connected_from": "Job 22:28"
+  },
+  {
+    "text": "Kaniyang ililigtas, pati ng hindi banal: Oo, siya'y maliligtas sa kalinisan ng iyong mga kamay.",
+    "reference": "Job 22:30 (ADB)",
+    "connected_from": "Job 22:29"
+  }
+]

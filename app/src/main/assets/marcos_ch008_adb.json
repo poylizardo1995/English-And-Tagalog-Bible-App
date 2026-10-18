@@ -1,0 +1,228 @@
+[
+  {
+    "text": "Nang mga araw na yaon, nang magkaroong muli ng maraming tao, at wala silang mangakain, ay tinawag niya ang kaniyang mga alagad, at sinabi sa kanila,",
+    "reference": "Marcos 8:1 (ADB)",
+    "connected_to": "Marcos 8:2"
+  },
+  {
+    "text": "Nahahabag ako sa karamihan, sapagka't tatlong araw nang sila'y nangatira sa akin, at walang mangakain:",
+    "reference": "Marcos 8:2 (ADB)",
+    "connected_to": "Marcos 8:3",
+    "connected_from": "Marcos 8:1"
+  },
+  {
+    "text": "At kung sila'y pauwiin kong nangagugutom sa kanilang mga tahanan, ay magsisipanglupaypay sila sa daan; at nagsipanggaling sa malayo ang ilan sa kanila.",
+    "reference": "Marcos 8:3 (ADB)",
+    "connected_to": "Marcos 8:4",
+    "connected_from": "Marcos 8:2"
+  },
+  {
+    "text": "At nagsisagot sa kaniya ang kaniyang mga alagad, Paanong mabubusog ninoman ang mga taong ito ng tinapay dito sa isang ilang na dako?",
+    "reference": "Marcos 8:4 (ADB)",
+    "connected_to": "Marcos 8:5",
+    "connected_from": "Marcos 8:3"
+  },
+  {
+    "text": "At kaniyang tinanong sila, Ilang tinapay mayroon kayo? At sinabi nila, Pito.",
+    "reference": "Marcos 8:5 (ADB)",
+    "connected_to": "Marcos 8:6",
+    "connected_from": "Marcos 8:4"
+  },
+  {
+    "text": "At iniutos niya sa karamihan na magsiupo sa lupa; at kinuha niya ang pitong tinapay, at pagkapagpasalamat, ay pinagputolputol niya, at ibinigay sa kaniyang mga alagad, upang ihain sa kanila; at inihain nila sa karamihan.",
+    "reference": "Marcos 8:6 (ADB)",
+    "connected_to": "Marcos 8:7",
+    "connected_from": "Marcos 8:5"
+  },
+  {
+    "text": "At mayroon silang ilang maliliit na isda: at nang mapagpala ang mga ito, ay ipinagutos niya na ihain din naman ang mga ito sa kanila.",
+    "reference": "Marcos 8:7 (ADB)",
+    "connected_to": "Marcos 8:8",
+    "connected_from": "Marcos 8:6"
+  },
+  {
+    "text": "At sila'y nagsikain, at nangabusog: at kanilang pinulot ang lumabis sa mga pinagputolputol, na pitong bakol na puno.",
+    "reference": "Marcos 8:8 (ADB)",
+    "connected_to": "Marcos 8:9",
+    "connected_from": "Marcos 8:7"
+  },
+  {
+    "text": "At sila'y may mga apat na libo: at pinayaon niya sila.",
+    "reference": "Marcos 8:9 (ADB)",
+    "connected_to": "Marcos 8:10",
+    "connected_from": "Marcos 8:8"
+  },
+  {
+    "text": "At pagdaka'y lumulan siya sa daong na kasama ang kaniyang mga alagad, at napasa mga sakop ng Dalmanuta.",
+    "reference": "Marcos 8:10 (ADB)",
+    "connected_to": "Marcos 8:11",
+    "connected_from": "Marcos 8:9"
+  },
+  {
+    "text": "At nagsilabas ang mga Fariseo, at nangagpasimulang makipagtalo sa kaniya, na hinahanapan siya ng isang tandang mula sa langit, na tinutukso siya.",
+    "reference": "Marcos 8:11 (ADB)",
+    "connected_to": "Marcos 8:12",
+    "connected_from": "Marcos 8:10"
+  },
+  {
+    "text": "At nagbuntong-hininga siya ng malalim sa kaniyang espiritu, at nagsabi, Bakit humahanap ng tanda ang lahing ito? katotohanang sinasabi ko sa inyo, Walang tandang ibibigay sa lahing ito.",
+    "reference": "Marcos 8:12 (ADB)",
+    "connected_to": "Marcos 8:13",
+    "connected_from": "Marcos 8:11"
+  },
+  {
+    "text": "At sila'y iniwan niya, at muling pagkalulan sa daong ay tumawid sa kabilang ibayo.",
+    "reference": "Marcos 8:13 (ADB)",
+    "connected_to": "Marcos 8:14",
+    "connected_from": "Marcos 8:12"
+  },
+  {
+    "text": "At nangalimutan nilang magsipagdala ng tinapay; at wala sila kundi isang tinapay sa daong.",
+    "reference": "Marcos 8:14 (ADB)",
+    "connected_to": "Marcos 8:15",
+    "connected_from": "Marcos 8:13"
+  },
+  {
+    "text": "At ipinagbilin niya sa kanila, na nagsabi, Tingnan ninyo, mangagingat kayo sa lebadura ng mga Fariseo at sa lebadura ni Herodes.",
+    "reference": "Marcos 8:15 (ADB)",
+    "connected_to": "Marcos 8:16",
+    "connected_from": "Marcos 8:14"
+  },
+  {
+    "text": "At nangagkatuwiranan sila-sila rin, na nangagsasabi, Wala tayong tinapay.",
+    "reference": "Marcos 8:16 (ADB)",
+    "connected_to": "Marcos 8:17",
+    "connected_from": "Marcos 8:15"
+  },
+  {
+    "text": "At pagkahalata nito ni Jesus ay sinabi sa kanila, Bakit nangagbubulaybulay kayo, sapagka't wala kayong tinapay? hindi pa baga ninyo napaghahalata, ni napaguunawa man? nangagmatigas na baga ang inyong puso?",
+    "reference": "Marcos 8:17 (ADB)",
+    "connected_to": "Marcos 8:18",
+    "connected_from": "Marcos 8:16"
+  },
+  {
+    "text": "Mayroon kayong mga mata, hindi baga kayo nangakakakita? at mayroon kayong mga tainga, hindi baga kayo nangakakarinig? at hindi baga ninyo nangaaalaala?",
+    "reference": "Marcos 8:18 (ADB)",
+    "connected_to": "Marcos 8:19",
+    "connected_from": "Marcos 8:17"
+  },
+  {
+    "text": "Nang aking pagputolputulin ang limang tinapay sa limang libong lalake, ilang bakol na puno ng mga pinagputolputol ang inyong binuhat? Sinabi nila sa kaniya, Labingdalawa.",
+    "reference": "Marcos 8:19 (ADB)",
+    "connected_to": "Marcos 8:20",
+    "connected_from": "Marcos 8:18"
+  },
+  {
+    "text": "At nang pagputolputulin ang pitong tinapay sa apat na libo, ilang bakol na puno ng mga pinagputolputol ang binuhat ninyo? At sinabi nila sa kaniya, Pito.",
+    "reference": "Marcos 8:20 (ADB)",
+    "connected_to": "Marcos 8:21",
+    "connected_from": "Marcos 8:19"
+  },
+  {
+    "text": "At sinabi niya sa kanila, Hindi pa baga ninyo napaguunawa?",
+    "reference": "Marcos 8:21 (ADB)",
+    "connected_to": "Marcos 8:22",
+    "connected_from": "Marcos 8:20"
+  },
+  {
+    "text": "At nagsidating sila sa Betsaida. At dinala nila sa kaniya ang isang lalaking bulag, at ipinamanhik sa kaniya na siya'y hipuin.",
+    "reference": "Marcos 8:22 (ADB)",
+    "connected_to": "Marcos 8:23",
+    "connected_from": "Marcos 8:21"
+  },
+  {
+    "text": "At hinawakan niya sa kamay ang lalaking bulag, at dinala niya sa labas ng nayon; at nang maluraan ang kaniyang mga mata, at maipatong ang kaniyang mga kamay sa kaniya, ay kaniyang tinanong siya, Nakakakita ka baga ng anoman?",
+    "reference": "Marcos 8:23 (ADB)",
+    "connected_to": "Marcos 8:24",
+    "connected_from": "Marcos 8:22"
+  },
+  {
+    "text": "At siya'y tumingala, at nagsabi, Nakakakita ako ng mga tao; sapagka't namamasdan ko silang tulad sa mga punong kahoy, na nagsisilakad.",
+    "reference": "Marcos 8:24 (ADB)",
+    "connected_to": "Marcos 8:25",
+    "connected_from": "Marcos 8:23"
+  },
+  {
+    "text": "Saka ipinatong na muli sa kaniyang mga mata ang mga kamay niya; at siya'y tumitig, at gumaling, at nakita niyang maliwanag ang lahat ng mga bagay.",
+    "reference": "Marcos 8:25 (ADB)",
+    "connected_to": "Marcos 8:26",
+    "connected_from": "Marcos 8:24"
+  },
+  {
+    "text": "At pinauwi niya siya sa kaniyang tahanan, na sinasabi, Huwag kang pumasok kahit sa nayon.",
+    "reference": "Marcos 8:26 (ADB)",
+    "connected_to": "Marcos 8:27",
+    "connected_from": "Marcos 8:25"
+  },
+  {
+    "text": "At pumaroon si Jesus, at ang kaniyang mga alagad sa mga nayon ng Cesarea ni Filipo: at sa daan ay itinanong niya sa kaniyang mga alagad, na sinabi sa kanila, Ano baga ang sabi ng mga tao kung sino ako?",
+    "reference": "Marcos 8:27 (ADB)",
+    "connected_to": "Marcos 8:28",
+    "connected_from": "Marcos 8:26"
+  },
+  {
+    "text": "At sinaysay nila sa kaniya, na sinasabi, Si Juan Bautista; at ang mga iba, si Elias; datapuwa't ang mga iba, Isa sa mga propeta.",
+    "reference": "Marcos 8:28 (ADB)",
+    "connected_to": "Marcos 8:29",
+    "connected_from": "Marcos 8:27"
+  },
+  {
+    "text": "At tinanong niya sila, Datapuwa't ano ang sabi ninyo kung sino ako? Sumagot si Pedro at nagsabi sa kaniya, Ikaw ang Cristo.",
+    "reference": "Marcos 8:29 (ADB)",
+    "connected_to": "Marcos 8:30",
+    "connected_from": "Marcos 8:28"
+  },
+  {
+    "text": "At ipinagbilin niya sa kanila na huwag sabihin kanino man ang tungkol sa kaniya.",
+    "reference": "Marcos 8:30 (ADB)",
+    "connected_to": "Marcos 8:31",
+    "connected_from": "Marcos 8:29"
+  },
+  {
+    "text": "At siya'y nagpasimulang magturo sa kanila, na ang Anak ng tao ay kinakailangang magbata na maraming mga bagay, at itakuwil ng matatanda, at ng mga pangulong saserdote, at ng mga eskriba, at patayin, at pagkaraan ng tatlong araw ay muling magbangon.",
+    "reference": "Marcos 8:31 (ADB)",
+    "connected_to": "Marcos 8:32",
+    "connected_from": "Marcos 8:30"
+  },
+  {
+    "text": "At hayag na sinabi niya ang pananalitang ito. At isinama siya ni Pedro, at pinasimulang siya'y pagwikaan.",
+    "reference": "Marcos 8:32 (ADB)",
+    "connected_to": "Marcos 8:33",
+    "connected_from": "Marcos 8:31"
+  },
+  {
+    "text": "Datapuwa't paglingap niya sa palibot, at pagtingin sa kaniyang mga alagad, ay pinagwikaan si Pedro, at sinabi, Lumagay ka sa likuran ko, Satanas; sapagka't hindi mo pinagiisip ang mga bagay na ukol sa Dios, kundi ang mga bagay na ukol sa mga tao.",
+    "reference": "Marcos 8:33 (ADB)",
+    "connected_to": "Marcos 8:34",
+    "connected_from": "Marcos 8:32"
+  },
+  {
+    "text": "At pinalapit niya sa kaniya ang karamihan pati ng kaniyang mga alagad, at sa kanila'y sinabi, Kung ang sinomang tao ay ibig sumunod sa akin, ay tumanggi sa kaniyang sarili, at pasanin ang kaniyang krus, at sumunod sa akin.",
+    "reference": "Marcos 8:34 (ADB)",
+    "connected_to": "Marcos 8:35",
+    "connected_from": "Marcos 8:33"
+  },
+  {
+    "text": "Sapagka't ang sinomang magibig iligtas ang kaniyang buhay ay mawawalan nito: at ang sinomang mawalan ng kaniyang buhay dahil sa akin at sa evangelio ay maililigtas yaon.",
+    "reference": "Marcos 8:35 (ADB)",
+    "connected_to": "Marcos 8:36",
+    "connected_from": "Marcos 8:34"
+  },
+  {
+    "text": "Sapagka't ano ang mapapakinabang ng tao, na makamtan ang buong sanglibutan, at mapapahamak ang kaniyang buhay?",
+    "reference": "Marcos 8:36 (ADB)",
+    "connected_to": "Marcos 8:37",
+    "connected_from": "Marcos 8:35"
+  },
+  {
+    "text": "Sapagka't anong ibibigay ng tao na katumbas sa kaniyang buhay?",
+    "reference": "Marcos 8:37 (ADB)",
+    "connected_to": "Marcos 8:38",
+    "connected_from": "Marcos 8:36"
+  },
+  {
+    "text": "Sapagka't ang sinomang magmakahiya sa akin at sa aking mga salita sa lahing ito na mapangalunya at makasalanan, ay ikahihiya rin naman siya ng Anak ng tao, pagparito niyang nasa kaluwalhatian ng kaniyang Ama na kasama ng mga banal na anghel.",
+    "reference": "Marcos 8:38 (ADB)",
+    "connected_from": "Marcos 8:37"
+  }
+]

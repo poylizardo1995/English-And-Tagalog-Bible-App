@@ -1,0 +1,102 @@
+[
+  {
+    "text": "Nang magkagayo'y sumagot si Job, at nagsabi,",
+    "reference": "Job 23:1 (ADB)",
+    "connected_to": "Job 23:2"
+  },
+  {
+    "text": "Magpahanggang ngayo'y mapanghimagsik ang aking daing: ang bugbog sa akin ay lalong mabigat kaysa aking hibik.",
+    "reference": "Job 23:2 (ADB)",
+    "connected_to": "Job 23:3",
+    "connected_from": "Job 23:1"
+  },
+  {
+    "text": "Oh mano nawang maalaman ko kung saan ko masusumpungan siya, upang ako'y dumating hanggang sa kaniyang likmuan!",
+    "reference": "Job 23:3 (ADB)",
+    "connected_to": "Job 23:4",
+    "connected_from": "Job 23:2"
+  },
+  {
+    "text": "Aking aayusin ang aking usap sa harap niya, at pupunuin ko ang aking bibig ng mga pangangatuwiran.",
+    "reference": "Job 23:4 (ADB)",
+    "connected_to": "Job 23:5",
+    "connected_from": "Job 23:3"
+  },
+  {
+    "text": "Aking malalaman ang mga salita na kaniyang isasagot sa akin, at matatalastas ko kung ano ang kaniyang sasabihin sa akin.",
+    "reference": "Job 23:5 (ADB)",
+    "connected_to": "Job 23:6",
+    "connected_from": "Job 23:4"
+  },
+  {
+    "text": "Makikipagtalo ba siya sa akin sa kalakhan ng kaniyang kapangyarihan? Hindi; kundi pakikinggan niya ako.",
+    "reference": "Job 23:6 (ADB)",
+    "connected_to": "Job 23:7",
+    "connected_from": "Job 23:5"
+  },
+  {
+    "text": "Doo'y makapangangatuwiran sa kaniya ang matuwid; sa gayo'y maliligtas ako magpakailan man sa aking hukom.",
+    "reference": "Job 23:7 (ADB)",
+    "connected_to": "Job 23:8",
+    "connected_from": "Job 23:6"
+  },
+  {
+    "text": "Narito, ako'y nagpapatuloy, nguni't wala siya; at sa dakong likuran, nguni't hindi ko siya mamataan:",
+    "reference": "Job 23:8 (ADB)",
+    "connected_to": "Job 23:9",
+    "connected_from": "Job 23:7"
+  },
+  {
+    "text": "Sa kaliwa pagka siya'y gumagawa, nguni't hindi ko mamasdan siya: siya'y nagkukubli sa kanan, na hindi ko makita siya.",
+    "reference": "Job 23:9 (ADB)",
+    "connected_to": "Job 23:10",
+    "connected_from": "Job 23:8"
+  },
+  {
+    "text": "Nguni't nalalaman niya ang daang aking nilalakaran; pagka kaniyang nasubok ako ay lalabas akong parang ginto.",
+    "reference": "Job 23:10 (ADB)",
+    "connected_to": "Job 23:11",
+    "connected_from": "Job 23:9"
+  },
+  {
+    "text": "Ang aking paa ay sumunod na lubos sa kaniyang mga hakbang. Ang kaniyang daan ay aking iningatan, at hindi ako lumiko.",
+    "reference": "Job 23:11 (ADB)",
+    "connected_to": "Job 23:12",
+    "connected_from": "Job 23:10"
+  },
+  {
+    "text": "Ako'y hindi humiwalay sa utos ng kaniyang mga labi; aking pinagyaman ang mga salita ng kaniyang bibig ng higit kay sa aking kailangang pagkain.",
+    "reference": "Job 23:12 (ADB)",
+    "connected_to": "Job 23:13",
+    "connected_from": "Job 23:11"
+  },
+  {
+    "text": "Nguni't siya'y sa isang akala, at sinong makapagpapabalik sa kaniya? At kung ano ang ninanasa ng kaniyang kaluluwa siya nga niyang ginagawa.",
+    "reference": "Job 23:13 (ADB)",
+    "connected_to": "Job 23:14",
+    "connected_from": "Job 23:12"
+  },
+  {
+    "text": "Sapagka't kaniyang isinasagawa ang itinakda sa akin: at maraming gayong mga bagay ang nasa kaniya.",
+    "reference": "Job 23:14 (ADB)",
+    "connected_to": "Job 23:15",
+    "connected_from": "Job 23:13"
+  },
+  {
+    "text": "Kaya't ako'y nababagabag sa kaniyang harapan; pagka aking binubulay, ay natatakot ako sa kaniya.",
+    "reference": "Job 23:15 (ADB)",
+    "connected_to": "Job 23:16",
+    "connected_from": "Job 23:14"
+  },
+  {
+    "text": "Dahil sa pinapanglupaypay ng Dios ang aking puso, at binagabag ako ng Makapangyarihan sa lahat:",
+    "reference": "Job 23:16 (ADB)",
+    "connected_to": "Job 23:17",
+    "connected_from": "Job 23:15"
+  },
+  {
+    "text": "Sapagka't hindi ako inihiwalay sa harap ng kadiliman, ni tinakpan man niya ang salimuot na kadiliman sa aking mukha.",
+    "reference": "Job 23:17 (ADB)",
+    "connected_from": "Job 23:16"
+  }
+]

@@ -1,0 +1,180 @@
+[
+  {
+    "text": "Nang magkagayo'y sumagot si Job at nagsabi,",
+    "reference": "Job 6:1 (ADB)",
+    "connected_to": "Job 6:2"
+  },
+  {
+    "text": "Oh timbangin nawa ang aking pagkainip, at ang aking mga kasakunaan ay malagay sa mga timbangan na magkakasama.",
+    "reference": "Job 6:2 (ADB)",
+    "connected_to": "Job 6:3",
+    "connected_from": "Job 6:1"
+  },
+  {
+    "text": "Sapagka't ngayo'y magiging lalong mabigat kay sa buhangin sa mga dagat: kaya't ang aking pananalita ay napabigla.",
+    "reference": "Job 6:3 (ADB)",
+    "connected_to": "Job 6:4",
+    "connected_from": "Job 6:2"
+  },
+  {
+    "text": "Sapagka't ang mga palaso ng Makapangyarihan sa lahat ay nasasaksak sa akin, ang lason niyaon ay hinitit ng aking diwa; ang mga pangkilabot ng Dios ay nangahahanay laban sa akin.",
+    "reference": "Job 6:4 (ADB)",
+    "connected_to": "Job 6:5",
+    "connected_from": "Job 6:3"
+  },
+  {
+    "text": "Umuungal ba ang mailap na asno pag may damo? O umuungal ba ang baka sa kaniyang pagkain?",
+    "reference": "Job 6:5 (ADB)",
+    "connected_to": "Job 6:6",
+    "connected_from": "Job 6:4"
+  },
+  {
+    "text": "Makakain ba ng walang asin ang matabang? O mayroon bang lasa ang puti ng isang itlog?",
+    "reference": "Job 6:6 (ADB)",
+    "connected_to": "Job 6:7",
+    "connected_from": "Job 6:5"
+  },
+  {
+    "text": "Tinatanggihang hipuin ng aking kaluluwa; mga karumaldumal na pagkain sa akin.",
+    "reference": "Job 6:7 (ADB)",
+    "connected_to": "Job 6:8",
+    "connected_from": "Job 6:6"
+  },
+  {
+    "text": "Oh mangyari nawa ang aking kahilingan; at ipagkaloob nawa sa akin ng Dios ang bagay na aking minimithi!",
+    "reference": "Job 6:8 (ADB)",
+    "connected_to": "Job 6:9",
+    "connected_from": "Job 6:7"
+  },
+  {
+    "text": "Sa makatuwid baga'y kalugdan nawa ng Dios na pisain ako; na bitawan ang kaniyang kamay, at ihiwalay ako!",
+    "reference": "Job 6:9 (ADB)",
+    "connected_to": "Job 6:10",
+    "connected_from": "Job 6:8"
+  },
+  {
+    "text": "Kung magkagayo'y magtataglay pa ako ng kaaliwan; Oo, ako'y makapagbabata sa mga walang awang sakit; sapagka't hindi ko itinakuwil ang mga salita ng Banal.",
+    "reference": "Job 6:10 (ADB)",
+    "connected_to": "Job 6:11",
+    "connected_from": "Job 6:9"
+  },
+  {
+    "text": "Ano ang aking lakas, na ako'y maghihintay? At ano ang aking wakas na ako'y magtitiis?",
+    "reference": "Job 6:11 (ADB)",
+    "connected_to": "Job 6:12",
+    "connected_from": "Job 6:10"
+  },
+  {
+    "text": "Ang akin bang tibay ay tibay ng mga bato? O ang akin bang laman ay tanso?",
+    "reference": "Job 6:12 (ADB)",
+    "connected_to": "Job 6:13",
+    "connected_from": "Job 6:11"
+  },
+  {
+    "text": "Di ba ako'y walang sukat na kaya, at ang karunungan ay lumayo sa akin?",
+    "reference": "Job 6:13 (ADB)",
+    "connected_to": "Job 6:14",
+    "connected_from": "Job 6:12"
+  },
+  {
+    "text": "Siyang nanglulupaypay ay dapat pagpakitaang loob ng kaniyang kaibigan; kahit siya na walang takot sa Makapangyarihan sa lahat.",
+    "reference": "Job 6:14 (ADB)",
+    "connected_to": "Job 6:15",
+    "connected_from": "Job 6:13"
+  },
+  {
+    "text": "Ang aking mga kapatid ay nagsipagdaya na parang batis, na parang daan ng mga batis na nababago;",
+    "reference": "Job 6:15 (ADB)",
+    "connected_to": "Job 6:16",
+    "connected_from": "Job 6:14"
+  },
+  {
+    "text": "Na malabo dahil sa hielo, at siyang kinatunawan ng nieve:",
+    "reference": "Job 6:16 (ADB)",
+    "connected_to": "Job 6:17",
+    "connected_from": "Job 6:15"
+  },
+  {
+    "text": "Paginit ay nawawala: pagka mainit, ay nangatutunaw sa kanilang dako.",
+    "reference": "Job 6:17 (ADB)",
+    "connected_to": "Job 6:18",
+    "connected_from": "Job 6:16"
+  },
+  {
+    "text": "Ang mga pulutong na naglalakbay sa pagsunod sa mga yaon ay nangaliligaw; nagsisilihis sa ilang at nawawala.",
+    "reference": "Job 6:18 (ADB)",
+    "connected_to": "Job 6:19",
+    "connected_from": "Job 6:17"
+  },
+  {
+    "text": "Minasdan ng mga pulutong na mula sa Tema, hinintay ang mga yaon ng mga pulutong na mula sa Seba.",
+    "reference": "Job 6:19 (ADB)",
+    "connected_to": "Job 6:20",
+    "connected_from": "Job 6:18"
+  },
+  {
+    "text": "Sila'y nangapahiya, sapagka't sila'y nagsiasa; sila'y nagsiparoon at nangatulig.",
+    "reference": "Job 6:20 (ADB)",
+    "connected_to": "Job 6:21",
+    "connected_from": "Job 6:19"
+  },
+  {
+    "text": "Sapagka't ngayon, kayo'y nauwi sa wala; kayo'y nangakakakita ng kakilabutan, at nangatatakot.",
+    "reference": "Job 6:21 (ADB)",
+    "connected_to": "Job 6:22",
+    "connected_from": "Job 6:20"
+  },
+  {
+    "text": "Sinabi ko baga: Bigyan mo ako? O, Maghandog ka ng isang kaloob sa akin ng iyong pag-aari?",
+    "reference": "Job 6:22 (ADB)",
+    "connected_to": "Job 6:23",
+    "connected_from": "Job 6:21"
+  },
+  {
+    "text": "O, Iligtas mo ako sa kamay ng kaaway? O, tubusin mo ako sa kamay ng mga namimighati?",
+    "reference": "Job 6:23 (ADB)",
+    "connected_to": "Job 6:24",
+    "connected_from": "Job 6:22"
+  },
+  {
+    "text": "Turuan mo ako, at ako'y mamamayapa; at ipaunawa mo sa akin kung ano ang aking pinagkasalahan.",
+    "reference": "Job 6:24 (ADB)",
+    "connected_to": "Job 6:25",
+    "connected_from": "Job 6:23"
+  },
+  {
+    "text": "Pagkatindi nga ng mga salita ng katuwiran! Nguni't anong sinasaway ng iyong pakikipagtalo?",
+    "reference": "Job 6:25 (ADB)",
+    "connected_to": "Job 6:26",
+    "connected_from": "Job 6:24"
+  },
+  {
+    "text": "Iniisip ba ninyong sumaway ng mga salita? Dangang ang mga salita ng walang inaasahan ay parang hangin.",
+    "reference": "Job 6:26 (ADB)",
+    "connected_to": "Job 6:27",
+    "connected_from": "Job 6:25"
+  },
+  {
+    "text": "Oo, kayo'y magsasapalaran sa ulila, at ginawa ninyong kalakal ang inyong kaibigan.",
+    "reference": "Job 6:27 (ADB)",
+    "connected_to": "Job 6:28",
+    "connected_from": "Job 6:26"
+  },
+  {
+    "text": "Ngayon nga'y kalugdan mong lingapin ako; sapagka't tunay na hindi ako magbubulaan sa iyong harap.",
+    "reference": "Job 6:28 (ADB)",
+    "connected_to": "Job 6:29",
+    "connected_from": "Job 6:27"
+  },
+  {
+    "text": "Kayo'y magsibalik isinasamo ko sa inyo, huwag magkaroon ng kalikuan; Oo, kayo'y magsibalik uli, ang aking usap ay matuwid.",
+    "reference": "Job 6:29 (ADB)",
+    "connected_to": "Job 6:30",
+    "connected_from": "Job 6:28"
+  },
+  {
+    "text": "May di ganap ba sa aking dila? Hindi ba makapapansin ang aking pagwawari ng mga suwail na bagay?",
+    "reference": "Job 6:30 (ADB)",
+    "connected_from": "Job 6:29"
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "text": "Pagkaganda ng iyong mga paa sa mga panyapak, Oh anak na babae ng pangulo! Ang mga pagkakaugpong ng iyong mga hita ay gaya ng mga hiyas, na gawa ng mga kamay ng bihasang manggagawa.",
+    "reference": "Ang Awit ng mga Awit 7:1 (ADB)",
+    "connected_to": "Ang Awit ng mga Awit 7:2"
+  },
+  {
+    "text": "Ang iyong katawan ay gaya ng mabilog na tasa, na hindi pinagkukulangan ng alak na may halo: ang iyong tiyan ay gaya ng bunton ng trigo na nalalagay sa palibot ng mga lila.",
+    "reference": "Ang Awit ng mga Awit 7:2 (ADB)",
+    "connected_to": "Ang Awit ng mga Awit 7:3",
+    "connected_from": "Ang Awit ng mga Awit 7:1"
+  },
+  {
+    "text": "Ang iyong dalawang suso ay gaya ng dalawang batang usa na mga kambal na usa.",
+    "reference": "Ang Awit ng mga Awit 7:3 (ADB)",
+    "connected_to": "Ang Awit ng mga Awit 7:4",
+    "connected_from": "Ang Awit ng mga Awit 7:2"
+  },
+  {
+    "text": "Ang iyong leeg ay gaya ng moog na garing; ang iyong mga mata ay gaya ng mga lawa sa Hesbon sa siping ng pintuang-bayan ng Batrabbim; ang iyong ilong ay gaya ng moog ng Libano na nakaharap sa Damasco.",
+    "reference": "Ang Awit ng mga Awit 7:4 (ADB)",
+    "connected_to": "Ang Awit ng mga Awit 7:5",
+    "connected_from": "Ang Awit ng mga Awit 7:3"
+  },
+  {
+    "text": "Ang iyong ulo sa iyo ay gaya ng Carmelo, at ang buhok ng iyong ulo ay gaya ng kulay ube; ang hari ay nabibihag sa mga kinulot niyaon.",
+    "reference": "Ang Awit ng mga Awit 7:5 (ADB)",
+    "connected_to": "Ang Awit ng mga Awit 7:6",
+    "connected_from": "Ang Awit ng mga Awit 7:4"
+  },
+  {
+    "text": "Pagkaganda at pagkaligaya mo, Oh sinta, sa mga kaluguran!",
+    "reference": "Ang Awit ng mga Awit 7:6 (ADB)",
+    "connected_to": "Ang Awit ng mga Awit 7:7",
+    "connected_from": "Ang Awit ng mga Awit 7:5"
+  },
+  {
+    "text": "Itong iyong tayo ay parang puno ng palma, at ang iyong mga suso ay sa mga buwig ng mga ubas.",
+    "reference": "Ang Awit ng mga Awit 7:7 (ADB)",
+    "connected_to": "Ang Awit ng mga Awit 7:8",
+    "connected_from": "Ang Awit ng mga Awit 7:6"
+  },
+  {
+    "text": "Aking sinabi, ako'y aakyat sa puno ng palma, ako'y hahawak sa mga sanga niyaon; ang iyong mga suso ay maging gaya ng mga buwig ng puno ng ubas, at ang amoy ng iyong hinga ay gaya ng mga mansanas;",
+    "reference": "Ang Awit ng mga Awit 7:8 (ADB)",
+    "connected_to": "Ang Awit ng mga Awit 7:9",
+    "connected_from": "Ang Awit ng mga Awit 7:7"
+  },
+  {
+    "text": "At ang iyong bibig ay gaya ng pinakamainam na alak, na tumutulong marahan para sa aking sinisinta, na dumudulas sa mga labi ng nangatutulog.",
+    "reference": "Ang Awit ng mga Awit 7:9 (ADB)",
+    "connected_to": "Ang Awit ng mga Awit 7:10",
+    "connected_from": "Ang Awit ng mga Awit 7:8"
+  },
+  {
+    "text": "Ako'y sa aking sinisinta, at ang kaniyang nasa ay sa akin.",
+    "reference": "Ang Awit ng mga Awit 7:10 (ADB)",
+    "connected_to": "Ang Awit ng mga Awit 7:11",
+    "connected_from": "Ang Awit ng mga Awit 7:9"
+  },
+  {
+    "text": "Parito ka, sinisinta ko, lumabas tayo sa parang; tumigil tayo sa mga nayon.",
+    "reference": "Ang Awit ng mga Awit 7:11 (ADB)",
+    "connected_to": "Ang Awit ng mga Awit 7:12",
+    "connected_from": "Ang Awit ng mga Awit 7:10"
+  },
+  {
+    "text": "Sampahin nating maaga ang mga ubasan: tingnan natin kung ang puno ng ubas ay nagbubuko, at kung ang kaniyang mga bulaklak ay nagsisibuka, at kung ang mga granada ay namumulaklak: doo'y idudulot ko sa iyo ang aking pagsinta.",
+    "reference": "Ang Awit ng mga Awit 7:12 (ADB)",
+    "connected_to": "Ang Awit ng mga Awit 7:13",
+    "connected_from": "Ang Awit ng mga Awit 7:11"
+  },
+  {
+    "text": "Ang mga mandragora ay nagpapahalimuyak ng bango, at nasa ating mga pintuan ang lahat na sarisaring mahalagang bunga, bago at luma, na aking inilapag para sa iyo, Oh sinisinta ko.",
+    "reference": "Ang Awit ng mga Awit 7:13 (ADB)",
+    "connected_from": "Ang Awit ng mga Awit 7:12"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Silang nagsisitiwala sa Panginoon ay parang bundok ng Sion, na hindi maaaring makilos, kundi nananatili magpakailan man.",
+    "reference": "Mga Awit 125:1 (ADB)",
+    "connected_to": "Mga Awit 125:2"
+  },
+  {
+    "text": "Kung paanong ang mga bundok na nangasa palibot ng Jerusalem, gayon ang Panginoon sa palibot ng kaniyang bayan, mula sa panahong ito at sa magpakailan man.",
+    "reference": "Mga Awit 125:2 (ADB)",
+    "connected_to": "Mga Awit 125:3",
+    "connected_from": "Mga Awit 125:1"
+  },
+  {
+    "text": "Sapagka't ang cetro ng kasamaan ay hindi bubuhatin sa mga matuwid; upang huwag iunat ng mga matuwid ang kanilang mga kamay sa kasamaan.",
+    "reference": "Mga Awit 125:3 (ADB)",
+    "connected_to": "Mga Awit 125:4",
+    "connected_from": "Mga Awit 125:2"
+  },
+  {
+    "text": "Gawan mo ng mabuti, Oh Panginoon, yaong mabubuti, at yaong matutuwid sa kanilang mga puso.",
+    "reference": "Mga Awit 125:4 (ADB)",
+    "connected_to": "Mga Awit 125:5",
+    "connected_from": "Mga Awit 125:3"
+  },
+  {
+    "text": "Nguni't sa nagsisiliko sa kanilang mga likong lakad, ilalabas ng Panginoon na kasama ng mga manggagawa ng kasamaan. Kapayapaan nawa ay suma Israel.",
+    "reference": "Mga Awit 125:5 (ADB)",
+    "connected_from": "Mga Awit 125:4"
+  }
+]

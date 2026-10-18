@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Panginoon, sinong makapanunuluyan sa iyong tabernakulo? Sinong tatahan sa iyong banal na bundok?",
+    "reference": "Mga Awit 15:1 (ADB)",
+    "connected_to": "Mga Awit 15:2"
+  },
+  {
+    "text": "Siyang lumalakad na matuwid, at gumagawa ng katuwiran, at nagsasalita ng katotohanan sa kaniyang puso.",
+    "reference": "Mga Awit 15:2 (ADB)",
+    "connected_to": "Mga Awit 15:3",
+    "connected_from": "Mga Awit 15:1"
+  },
+  {
+    "text": "Siyang hindi naninirang puri ng kaniyang dila, ni gumagawa man ng kasamaan sa kaniyang kaibigan, ni dumudusta man sa kaniyang kapuwa.",
+    "reference": "Mga Awit 15:3 (ADB)",
+    "connected_to": "Mga Awit 15:4",
+    "connected_from": "Mga Awit 15:2"
+  },
+  {
+    "text": "Na sa mga mata niya ay nasisiphayo ang masama; kundi siyang nagbibigay puri sa mga natatakot sa Panginoon, siyang sumusumpa sa kaniyang sariling ikasasama at hindi nagbabago,",
+    "reference": "Mga Awit 15:4 (ADB)",
+    "connected_to": "Mga Awit 15:5",
+    "connected_from": "Mga Awit 15:3"
+  },
+  {
+    "text": "Siyang hindi naglalabas ng kaniyang salapi sa patubo, ni kumukuha man ng suhol laban sa walang sala. Siyang gumagawa ng mga bagay na ito ay hindi makikilos kailan man.",
+    "reference": "Mga Awit 15:5 (ADB)",
+    "connected_from": "Mga Awit 15:4"
+  }
+]

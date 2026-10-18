@@ -1,0 +1,54 @@
+[
+  {
+    "text": "Bakit ka naghahambog sa kasamaan, Oh makapangyarihang tao? Ang kagandahang-loob ng Dios ay palagi.",
+    "reference": "Mga Awit 52:1 (ADB)",
+    "connected_to": "Mga Awit 52:2"
+  },
+  {
+    "text": "Ang dila mo'y kumakatha ng totoong masama; gaya ng matalas na pangahit, na gumagawang may karayaan.",
+    "reference": "Mga Awit 52:2 (ADB)",
+    "connected_to": "Mga Awit 52:3",
+    "connected_from": "Mga Awit 52:1"
+  },
+  {
+    "text": "Iniibig mo ang kasamaan ng higit kay sa kabutihan; at ang pagsisinungaling kay sa pagsasalita ng katuwiran. (Selah)",
+    "reference": "Mga Awit 52:3 (ADB)",
+    "connected_to": "Mga Awit 52:4",
+    "connected_from": "Mga Awit 52:2"
+  },
+  {
+    "text": "Iniibig mo ang lahat na mananakmal na salita, Oh ikaw na magdarayang dila.",
+    "reference": "Mga Awit 52:4 (ADB)",
+    "connected_to": "Mga Awit 52:5",
+    "connected_from": "Mga Awit 52:3"
+  },
+  {
+    "text": "Ilulugmok ka ring gayon ng Dios magpakailan man, itataas ka niya, at ilalabas ka sa iyong tolda, at bubunutin ka niya sa lupain ng may buhay. (Selah)",
+    "reference": "Mga Awit 52:5 (ADB)",
+    "connected_to": "Mga Awit 52:6",
+    "connected_from": "Mga Awit 52:4"
+  },
+  {
+    "text": "Makikita naman ng matuwid, at matatakot, at tatawa sa kaniya, na magsasabi,",
+    "reference": "Mga Awit 52:6 (ADB)",
+    "connected_to": "Mga Awit 52:7",
+    "connected_from": "Mga Awit 52:5"
+  },
+  {
+    "text": "Narito, ito ang tao na hindi ginawang kaniyang katibayan, ang Dios; kundi tumiwala sa kasaganaan ng kaniyang mga kayamanan, at nagpakalakas sa kaniyang kasamaan.",
+    "reference": "Mga Awit 52:7 (ADB)",
+    "connected_to": "Mga Awit 52:8",
+    "connected_from": "Mga Awit 52:6"
+  },
+  {
+    "text": "Nguni't tungkol sa akin, ay gaya ako ng sariwang punong kahoy ng olibo sa bahay ng Dios: tumitiwala ako sa kagandahang-loob ng Dios magpakailan-kailan man.",
+    "reference": "Mga Awit 52:8 (ADB)",
+    "connected_to": "Mga Awit 52:9",
+    "connected_from": "Mga Awit 52:7"
+  },
+  {
+    "text": "Ako'y magpapasalamat sa iyo magpakailan man, sapagka't iyong ginawa: at ako'y maghihintay sa iyong pangalan sapagka't mabuti, sa harapan ng iyong mga banal.",
+    "reference": "Mga Awit 52:9 (ADB)",
+    "connected_from": "Mga Awit 52:8"
+  }
+]

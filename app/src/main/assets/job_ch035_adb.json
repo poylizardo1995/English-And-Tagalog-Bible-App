@@ -1,0 +1,96 @@
+[
+  {
+    "text": "Bukod dito'y sumagot si Eliu, at nagsabi,",
+    "reference": "Job 35:1 (ADB)",
+    "connected_to": "Job 35:2"
+  },
+  {
+    "text": "Iniisip mo bang ito'y matuwid? O sinasabi mong: Ang aking katuwiran ay higit kay sa Dios,",
+    "reference": "Job 35:2 (ADB)",
+    "connected_to": "Job 35:3",
+    "connected_from": "Job 35:1"
+  },
+  {
+    "text": "Na iyong sinasabi, Anong pakinabang ang tatamuhin mo? At, anong pakinabang ang tataglayin kong higit kung ako'y nagkasala?",
+    "reference": "Job 35:3 (ADB)",
+    "connected_to": "Job 35:4",
+    "connected_from": "Job 35:2"
+  },
+  {
+    "text": "Sasagutin kita, at ang iyong mga kasamahang kasama mo.",
+    "reference": "Job 35:4 (ADB)",
+    "connected_to": "Job 35:5",
+    "connected_from": "Job 35:3"
+  },
+  {
+    "text": "Tumingala ka sa mga langit at iyong tingnan; at masdan mo ang mga alapaap na lalong mataas kay sa iyo.",
+    "reference": "Job 35:5 (ADB)",
+    "connected_to": "Job 35:6",
+    "connected_from": "Job 35:4"
+  },
+  {
+    "text": "Kung ikaw ay nagkasala, anong iyong ginagawa laban sa kaniya? At kung ang iyong mga pagsalangsang ay dumami, anong iyong ginagawa sa kaniya?",
+    "reference": "Job 35:6 (ADB)",
+    "connected_to": "Job 35:7",
+    "connected_from": "Job 35:5"
+  },
+  {
+    "text": "Kung ikaw ay matuwid anong ibinibigay mo sa kaniya? O anong tinatanggap niya sa iyong kamay?",
+    "reference": "Job 35:7 (ADB)",
+    "connected_to": "Job 35:8",
+    "connected_from": "Job 35:6"
+  },
+  {
+    "text": "Ang iyong kasamaan ay makapagpapahamak sa isang lalaking gaya mo; at ang iyong katuwiran ay makapagpapakinabang sa anak ng tao.",
+    "reference": "Job 35:8 (ADB)",
+    "connected_to": "Job 35:9",
+    "connected_from": "Job 35:7"
+  },
+  {
+    "text": "Dahil sa karamihan ng mga kapighatian, sila'y humihiyaw: sila'y humihingi ng tulong dahil sa kamay ng makapangyarihan.",
+    "reference": "Job 35:9 (ADB)",
+    "connected_to": "Job 35:10",
+    "connected_from": "Job 35:8"
+  },
+  {
+    "text": "Nguni't walang nagsasabing, Saan nandoon ang Dios na Maylalang sa akin, na siyang nagbibigay ng awit kung gabi;",
+    "reference": "Job 35:10 (ADB)",
+    "connected_to": "Job 35:11",
+    "connected_from": "Job 35:9"
+  },
+  {
+    "text": "Na siyang nagtuturo sa atin ng higit kay sa mga hayop sa lupa. At ginagawa tayong lalong pantas kay sa mga ibon sa himpapawid?",
+    "reference": "Job 35:11 (ADB)",
+    "connected_to": "Job 35:12",
+    "connected_from": "Job 35:10"
+  },
+  {
+    "text": "Doo'y tumatawag sila, nguni't walang sumasagot, dahil sa kapalaluan ng mga masamang tao.",
+    "reference": "Job 35:12 (ADB)",
+    "connected_to": "Job 35:13",
+    "connected_from": "Job 35:11"
+  },
+  {
+    "text": "Tunay na hindi didinggin ng Dios ang walang kabuluhan, ni pakukundanganan man ito ng Makapangyarihan sa lahat.",
+    "reference": "Job 35:13 (ADB)",
+    "connected_to": "Job 35:14",
+    "connected_from": "Job 35:12"
+  },
+  {
+    "text": "Gaano pa kaliit kung iyong sinasabing hindi mo nakikita siya. Ang usap ay nasa harap niya, at iyong hinihintay siya!",
+    "reference": "Job 35:14 (ADB)",
+    "connected_to": "Job 35:15",
+    "connected_from": "Job 35:13"
+  },
+  {
+    "text": "Nguni't ngayon sapagka't hindi niya dinalaw sa kaniyang galit, ni ginunita mang maigi;",
+    "reference": "Job 35:15 (ADB)",
+    "connected_to": "Job 35:16",
+    "connected_from": "Job 35:14"
+  },
+  {
+    "text": "Kaya't ibinubuka ni Job ang kaniyang bibig sa walang kabuluhan; siya'y nagpaparami ng mga salita na walang kaalaman.",
+    "reference": "Job 35:16 (ADB)",
+    "connected_from": "Job 35:15"
+  }
+]

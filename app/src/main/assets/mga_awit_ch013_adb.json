@@ -1,0 +1,36 @@
+[
+  {
+    "text": "Hanggang kailan, Oh Panginoon? iyong kalilimutan ako magpakailan man? Hanggang kailan ikukubli mo ang iyong mukha sa akin?",
+    "reference": "Mga Awit 13:1 (ADB)",
+    "connected_to": "Mga Awit 13:2"
+  },
+  {
+    "text": "Hanggang kailan kukuhang payo ako sa aking kaluluwa, na may kalumbayan sa aking puso buong araw? Hanggang kailan magpapakataan ang aking kaaway sa akin?",
+    "reference": "Mga Awit 13:2 (ADB)",
+    "connected_to": "Mga Awit 13:3",
+    "connected_from": "Mga Awit 13:1"
+  },
+  {
+    "text": "Iyong bulayin, at sagutin mo ako, Oh Panginoon kong Dios: liwanagan mo ang aking mga mata, baka ako'y matulog ng tulog na kamatayan;",
+    "reference": "Mga Awit 13:3 (ADB)",
+    "connected_to": "Mga Awit 13:4",
+    "connected_from": "Mga Awit 13:2"
+  },
+  {
+    "text": "Baka sabihin ng aking kaaway, ako'y nanaig laban sa kaniya; baka ang aking mga kaaway ay mangagalak pagka ako'y nakilos.",
+    "reference": "Mga Awit 13:4 (ADB)",
+    "connected_to": "Mga Awit 13:5",
+    "connected_from": "Mga Awit 13:3"
+  },
+  {
+    "text": "Nguni't ako'y tumiwala sa iyong kagandahang-loob. Magagalak ang aking puso sa iyong pagliligtas:",
+    "reference": "Mga Awit 13:5 (ADB)",
+    "connected_to": "Mga Awit 13:6",
+    "connected_from": "Mga Awit 13:4"
+  },
+  {
+    "text": "Ako'y aawit sa Panginoon, sapagka't ginawan niya ako ng sagana.",
+    "reference": "Mga Awit 13:6 (ADB)",
+    "connected_from": "Mga Awit 13:5"
+  }
+]

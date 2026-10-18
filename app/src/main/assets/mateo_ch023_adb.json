@@ -1,0 +1,234 @@
+[
+  {
+    "text": "Nang magkagayo'y nagsalita si Jesus sa mga karamihan at sa kaniyang mga alagad,",
+    "reference": "Mateo 23:1 (ADB)",
+    "connected_to": "Mateo 23:2"
+  },
+  {
+    "text": "Na nagsasabi, Nagsisiupo ang mga eskriba at mga Fariseo sa luklukan ni Moises.",
+    "reference": "Mateo 23:2 (ADB)",
+    "connected_to": "Mateo 23:3",
+    "connected_from": "Mateo 23:1"
+  },
+  {
+    "text": "Lahat nga ng mga bagay na sa inyo'y kanilang ipagutos, ay gawin ninyo at ganapin: datapuwa't huwag kayong magsigawa ng alinsunod sa kanilang mga gawa; sapagka't kanilang sinasabi, at hindi ginagawa.",
+    "reference": "Mateo 23:3 (ADB)",
+    "connected_to": "Mateo 23:4",
+    "connected_from": "Mateo 23:2"
+  },
+  {
+    "text": "Oo, sila'y nangagbibigkis ng mabibigat na pasan at mahihirap na dalhin, at ipinapasan nila sa mga balikat ng mga tao; datapuwa't ayaw man lamang nilang kilusin ng kanilang daliri.",
+    "reference": "Mateo 23:4 (ADB)",
+    "connected_to": "Mateo 23:5",
+    "connected_from": "Mateo 23:3"
+  },
+  {
+    "text": "Datapuwa't ginagawa nila ang lahat ng kanilang mga gawa upang mangakita ng mga tao: sapagka't nangagpapalapad sila ng kanilang mga pilakteria, at nangagpapalapad ng mga laylayan ng kanilang mga damit,",
+    "reference": "Mateo 23:5 (ADB)",
+    "connected_to": "Mateo 23:6",
+    "connected_from": "Mateo 23:4"
+  },
+  {
+    "text": "At iniibig ang mga pangulong dako sa mga pigingan, at ang mga pangulong luklukan sa mga sinagoga,",
+    "reference": "Mateo 23:6 (ADB)",
+    "connected_to": "Mateo 23:7",
+    "connected_from": "Mateo 23:5"
+  },
+  {
+    "text": "At pagpugayan sa mga pamilihan, at ang sila'y tawagin ng mga tao, Rabi.",
+    "reference": "Mateo 23:7 (ADB)",
+    "connected_to": "Mateo 23:8",
+    "connected_from": "Mateo 23:6"
+  },
+  {
+    "text": "Datapuwa't kayo'y huwag patawag na Rabi: sapagka't iisa ang inyong guro, at kayong lahat ay magkakapatid.",
+    "reference": "Mateo 23:8 (ADB)",
+    "connected_to": "Mateo 23:9",
+    "connected_from": "Mateo 23:7"
+  },
+  {
+    "text": "At huwag ninyong tawaging inyong ama ang sinomang tao sa lupa: sapagka't iisa ang inyong ama, sa makatuwid baga'y siya na nasa langit.",
+    "reference": "Mateo 23:9 (ADB)",
+    "connected_to": "Mateo 23:10",
+    "connected_from": "Mateo 23:8"
+  },
+  {
+    "text": "Ni huwag kayong patawag na mga panginoon; sapagka't iisa ang inyong panginoon, sa makatuwid baga'y ang Cristo.",
+    "reference": "Mateo 23:10 (ADB)",
+    "connected_to": "Mateo 23:11",
+    "connected_from": "Mateo 23:9"
+  },
+  {
+    "text": "Datapuwa't ang pinakadakila sa inyo ay magiging lingkod ninyo.",
+    "reference": "Mateo 23:11 (ADB)",
+    "connected_to": "Mateo 23:12",
+    "connected_from": "Mateo 23:10"
+  },
+  {
+    "text": "At sinomang nagmamataas ay mabababa; at sinomang nagpapakababa ay matataas.",
+    "reference": "Mateo 23:12 (ADB)",
+    "connected_to": "Mateo 23:13",
+    "connected_from": "Mateo 23:11"
+  },
+  {
+    "text": "Datapuwa't sa aba ninyo, mga eskriba at mga Fariseo, mga mapagpaimbabaw! sapagka't sinasarhan ninyo ang kaharian ng langit laban sa mga tao: sapagka't kayo'y hindi na nagsisipasok, at ang nagsisipasok man ay ayaw ninyong bayaang mangakapasok.",
+    "reference": "Mateo 23:13 (ADB)",
+    "connected_to": "Mateo 23:14",
+    "connected_from": "Mateo 23:12"
+  },
+  {
+    "text": "Sa aba ninyo, mga eskriba't mga Fariseo, mga mapagpaimbabaw! Sapagka't sinasakmal ninyo ang mga bahay ng mga babaing bao, at inyong dinadahilan ang mahahabang panalangin: kaya't magsisitanggap kayo ng lalong mabigat na parusa.",
+    "reference": "Mateo 23:14 (ADB)",
+    "connected_to": "Mateo 23:15",
+    "connected_from": "Mateo 23:13"
+  },
+  {
+    "text": "Sa aba ninyo, mga eskriba at mga Fariseo, mga mapagpaimbabaw! sapagka't inyong nililibot ang dagat at ang lupa sa paghanap ng isa ninyong makakampi; at kung siya'y magkagayon na, ay inyong ginagawa siyang makaibayo pang anak ng impierno kay sa inyong sarili.",
+    "reference": "Mateo 23:15 (ADB)",
+    "connected_to": "Mateo 23:16",
+    "connected_from": "Mateo 23:14"
+  },
+  {
+    "text": "Sa aba ninyo, kayong mga tagaakay na bulag, na inyong sinasabi, Kung ipanumpa ninoman ang templo, ay walang anoman; datapuwa't kung ipanumpa ninoman ang ginto ng templo, ay nagkakautang nga siya.",
+    "reference": "Mateo 23:16 (ADB)",
+    "connected_to": "Mateo 23:17",
+    "connected_from": "Mateo 23:15"
+  },
+  {
+    "text": "Kayong mga mangmang at mga bulag: sapagka't alin baga ang lalong dakila, ang ginto, o ang templong bumabanal sa ginto?",
+    "reference": "Mateo 23:17 (ADB)",
+    "connected_to": "Mateo 23:18",
+    "connected_from": "Mateo 23:16"
+  },
+  {
+    "text": "At, kung ipanumpa ninoman ang dambana, ay walang anoman; datapuwa't kung ipanumpa ninoman ang handog na nasa ibabaw nito, ay nagkakautang nga siya.",
+    "reference": "Mateo 23:18 (ADB)",
+    "connected_to": "Mateo 23:19",
+    "connected_from": "Mateo 23:17"
+  },
+  {
+    "text": "Kayong mga bulag: sapagka't alin baga ang lalong dakila, ang handog, o ang dambana na bumabanal sa handog?",
+    "reference": "Mateo 23:19 (ADB)",
+    "connected_to": "Mateo 23:20",
+    "connected_from": "Mateo 23:18"
+  },
+  {
+    "text": "Kaya't ang nanunumpa sa pamamagitan ng dambana, ay ipinanunumpa ito, at ang lahat ng mga bagay na nangasa ibabaw nito.",
+    "reference": "Mateo 23:20 (ADB)",
+    "connected_to": "Mateo 23:21",
+    "connected_from": "Mateo 23:19"
+  },
+  {
+    "text": "At ang nanunumpa sa pamamagitan ng templo, ay ipinanumpa ito, at yaong tumatahan sa loob nito.",
+    "reference": "Mateo 23:21 (ADB)",
+    "connected_to": "Mateo 23:22",
+    "connected_from": "Mateo 23:20"
+  },
+  {
+    "text": "Ang nanunumpa sa pamamagitan ng langit, ay ipinanumpa ang luklukan ng Dios, at yaong nakaluklok doon.",
+    "reference": "Mateo 23:22 (ADB)",
+    "connected_to": "Mateo 23:23",
+    "connected_from": "Mateo 23:21"
+  },
+  {
+    "text": "Sa aba ninyo, mga eskriba at mga Fariseo, mga mapagpaimbabaw! sapagka't nangagbibigay kayo ng sa ikapu ng yerbabuena, at ng anis at ng komino, at inyong pinababayaang di ginagawa ang lalong mahahalagang bagay ng kautusan, na dili iba't ang katarungan, at ang pagkahabag, at ang pananampalataya: datapuwa't dapat sana ninyong gawin ang mga ito, at huwag pabayaang di gawin yaong iba.",
+    "reference": "Mateo 23:23 (ADB)",
+    "connected_to": "Mateo 23:24",
+    "connected_from": "Mateo 23:22"
+  },
+  {
+    "text": "Kayong mga tagaakay na bulag na inyong sinasala ang lamok, at nilulunok ninyo ang kamelyo!",
+    "reference": "Mateo 23:24 (ADB)",
+    "connected_to": "Mateo 23:25",
+    "connected_from": "Mateo 23:23"
+  },
+  {
+    "text": "Sa aba ninyo, mga eskriba at mga Fariseo, mga mapagpapaimbabaw! sapagka't inyong nililinis ang labas ng saro at ng pinggan, datapuwa't sa loob ay puno sila ng panglulupig at katakawan.",
+    "reference": "Mateo 23:25 (ADB)",
+    "connected_to": "Mateo 23:26",
+    "connected_from": "Mateo 23:24"
+  },
+  {
+    "text": "Ikaw bulag na Fariseo, linisin mo muna ang loob ng saro at ng pinggan, upang luminis naman ang kaniyang labas.",
+    "reference": "Mateo 23:26 (ADB)",
+    "connected_to": "Mateo 23:27",
+    "connected_from": "Mateo 23:25"
+  },
+  {
+    "text": "Sa aba ninyo, mga eskriba at mga Fariseo, mga mapagpaimbabaw! sapagka't tulad kayo sa mga libingang pinaputi, na may anyong maganda sa labas, datapuwa't sa loob ay puno ng mga buto ng mga patay na tao, at ng lahat na karumaldumal.",
+    "reference": "Mateo 23:27 (ADB)",
+    "connected_to": "Mateo 23:28",
+    "connected_from": "Mateo 23:26"
+  },
+  {
+    "text": "Gayon din naman kayo, sa labas ay nangagaanyong matuwid sa mga tao, datapuwa't sa loob ay puno kayo ng pagpapaimbabaw at ng katampalasanan.",
+    "reference": "Mateo 23:28 (ADB)",
+    "connected_to": "Mateo 23:29",
+    "connected_from": "Mateo 23:27"
+  },
+  {
+    "text": "Sa aba ninyo, mga eskriba at mga Fariseo, mga mapagpaimbabaw! sapagka't itinatayo ninyo ang mga libingan ng mga propeta, at inyong ginayakan ang mga libingan ng mga matuwid,",
+    "reference": "Mateo 23:29 (ADB)",
+    "connected_to": "Mateo 23:30",
+    "connected_from": "Mateo 23:28"
+  },
+  {
+    "text": "At sinasabi ninyo, Kung kami sana ang nangabubuhay nang mga kaarawan ng aming mga magulang disi'y hindi kami nangakaramay nila sa dugo ng mga propeta.",
+    "reference": "Mateo 23:30 (ADB)",
+    "connected_to": "Mateo 23:31",
+    "connected_from": "Mateo 23:29"
+  },
+  {
+    "text": "Kaya't kayo'y nangagpapatotoo sa inyong sarili, na kayo'y mga anak niyaong mga nagsipatay ng mga propeta.",
+    "reference": "Mateo 23:31 (ADB)",
+    "connected_to": "Mateo 23:32",
+    "connected_from": "Mateo 23:30"
+  },
+  {
+    "text": "Punuin nga ninyo ang takalan ng inyong mga magulang.",
+    "reference": "Mateo 23:32 (ADB)",
+    "connected_to": "Mateo 23:33",
+    "connected_from": "Mateo 23:31"
+  },
+  {
+    "text": "Kayong mga ahas, kayong mga lahi ng mga ulupong, paanong mangakawawala kayo sa kahatulan sa impierno?",
+    "reference": "Mateo 23:33 (ADB)",
+    "connected_to": "Mateo 23:34",
+    "connected_from": "Mateo 23:32"
+  },
+  {
+    "text": "Kaya't, narito, sinusugo ko sa inyo ang mga propeta, at mga pantas na lalake, at mga eskriba: ang mga iba sa kanila'y inyong papatayin at ipapako sa krus; at ang mga iba sa kanila'y inyong hahampasin sa inyong mga sinagoga, at sila'y inyong paguusigin sa bayan-bayan:",
+    "reference": "Mateo 23:34 (ADB)",
+    "connected_to": "Mateo 23:35",
+    "connected_from": "Mateo 23:33"
+  },
+  {
+    "text": "Upang mabubo sa inyo ang lahat na matuwid na dugo na nabuhos sa ibabaw ng lupa, buhat sa dugo ng matuwid na si Abel hanggang sa dugo ni Zacarias na anak ni Baraquias na pinatay ninyo sa pagitan ng santuario at ng dambana.",
+    "reference": "Mateo 23:35 (ADB)",
+    "connected_to": "Mateo 23:36",
+    "connected_from": "Mateo 23:34"
+  },
+  {
+    "text": "Katotohanang sinasabi ko sa inyo, Ang lahat ng mga bagay na ito ay darating sa lahing ito.",
+    "reference": "Mateo 23:36 (ADB)",
+    "connected_to": "Mateo 23:37",
+    "connected_from": "Mateo 23:35"
+  },
+  {
+    "text": "Oh Jerusalem, Jerusalem, na pumapatay sa mga propeta, at bumabato sa mga sinusugo sa kaniya! makailang inibig kong tipunin ang iyong mga anak, na gaya ng pagtitipon ng inahing manok sa kaniyang mga sisiw sa ilalim ng kaniyang mga pakpak, ay ayaw kayo!",
+    "reference": "Mateo 23:37 (ADB)",
+    "connected_to": "Mateo 23:38",
+    "connected_from": "Mateo 23:36"
+  },
+  {
+    "text": "Narito, ang inyong bahay ay iniiwan sa inyong wasak.",
+    "reference": "Mateo 23:38 (ADB)",
+    "connected_to": "Mateo 23:39",
+    "connected_from": "Mateo 23:37"
+  },
+  {
+    "text": "Sapagka't sinasabi ko sa inyo, Buhat ngayon ay hindi ninyo ako makikita, hanggang sa inyong sabihin, Mapalad ang pumaparito sa pangalan ng Panginoon.",
+    "reference": "Mateo 23:39 (ADB)",
+    "connected_from": "Mateo 23:38"
+  }
+]

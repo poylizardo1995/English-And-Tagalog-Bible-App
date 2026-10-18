@@ -1,0 +1,114 @@
+[
+  {
+    "text": "At binigyan ako ng isang tambong katulad ng isang panukat: at may isang nagsabi, Magtindig ka, at sukatin mo ang templo ng Dios, at ang dambana, at ang mga sumasamba doon.",
+    "reference": "Pahayag 11:1 (ADB)",
+    "connected_to": "Pahayag 11:2"
+  },
+  {
+    "text": "At ang loobang nasa labas ng templo ay pabayaan mo, at huwag mong sukatin; sapagka't ibinigay sa mga Gentil; at kanilang yuyurakang apat na pu't dalawang buwan ang banal na siudad.",
+    "reference": "Pahayag 11:2 (ADB)",
+    "connected_to": "Pahayag 11:3",
+    "connected_from": "Pahayag 11:1"
+  },
+  {
+    "text": "At may ipagkakaloob ako sa aking dalawang saksi, at sila'y magsisipanghulang isang libo at dalawang daan at anim na pung araw, na nararamtan ng magagaspang na kayo.",
+    "reference": "Pahayag 11:3 (ADB)",
+    "connected_to": "Pahayag 11:4",
+    "connected_from": "Pahayag 11:2"
+  },
+  {
+    "text": "Ang mga ito'y ang dalawang punong olibo at ang dalawang kandelero, na nangakatayo sa harapan ng Panginoon ng lupa.",
+    "reference": "Pahayag 11:4 (ADB)",
+    "connected_to": "Pahayag 11:5",
+    "connected_from": "Pahayag 11:3"
+  },
+  {
+    "text": "At kung nasain ng sinoman na sila'y ipahamak, ay apoy ang lumalabas sa kanilang bibig, at lumalamon sa kanilang mga kaaway; at kung nasain ng sinoman na sila'y ipahamak ay kailangan ang mamatay sa ganitong paraan.",
+    "reference": "Pahayag 11:5 (ADB)",
+    "connected_to": "Pahayag 11:6",
+    "connected_from": "Pahayag 11:4"
+  },
+  {
+    "text": "Ang mga ito'y may kapangyarihang magsara ng langit, upang huwag umulan sa loob ng mga araw ng kanilang hula: at may kapangyarihan sila sa mga tubig na mapaging dugo, at mapahirapan ang lupa ng bawa't salot sa tuwing kanilang nasain.",
+    "reference": "Pahayag 11:6 (ADB)",
+    "connected_to": "Pahayag 11:7",
+    "connected_from": "Pahayag 11:5"
+  },
+  {
+    "text": "At pagka natapos nila ang kanilang patotoo, ang hayop na umahon mula sa kalaliman ay babaka sa kanila, at pagtatagumpayan sila, at sila'y papatayin.",
+    "reference": "Pahayag 11:7 (ADB)",
+    "connected_to": "Pahayag 11:8",
+    "connected_from": "Pahayag 11:6"
+  },
+  {
+    "text": "At ang kanilang mga bangkay ay nasa lansangan ng malaking bayan, na ayon sa espiritu ay tinatawag na Sodoma at Egipto, na doon din naman ipinako sa krus ang Panginoon nila.",
+    "reference": "Pahayag 11:8 (ADB)",
+    "connected_to": "Pahayag 11:9",
+    "connected_from": "Pahayag 11:7"
+  },
+  {
+    "text": "At ang mga tao mula sa gitna ng mga bayan at mga angkan at mga wika at mga bansa, ay nanonood sa kanilang mga bangkay na tatlong araw at kalahati, at hindi itutulot na ang kanilang mga bangkay ay malibing.",
+    "reference": "Pahayag 11:9 (ADB)",
+    "connected_to": "Pahayag 11:10",
+    "connected_from": "Pahayag 11:8"
+  },
+  {
+    "text": "At ang mga nananahan sa ibabaw ng lupa ay mangagagalak tungkol sa kanila, at mangatutuwa; at sila'y mangagpapadalahan ng mga kaloob; sapagka't ang dalawang propetang ito ay nagpahirap sa nangananahan sa ibabaw ng lupa.",
+    "reference": "Pahayag 11:10 (ADB)",
+    "connected_to": "Pahayag 11:11",
+    "connected_from": "Pahayag 11:9"
+  },
+  {
+    "text": "At pagkatapos ng tatlong araw at kalahati, ang hininga ng buhay na mula sa Dios ay pumasok sa kanila, at sila'y nangagsitindig; at dinatnan ng malaking takot ang mga nakakita sa kanila.",
+    "reference": "Pahayag 11:11 (ADB)",
+    "connected_to": "Pahayag 11:12",
+    "connected_from": "Pahayag 11:10"
+  },
+  {
+    "text": "At narinig nila ang isang malakas na tinig na nagsasabi sa kanila, Umakyat kayo rito. At sila'y umakyat sa langit sa isang alapaap; at pinagmasdan sila ng kanilang mga kaaway.",
+    "reference": "Pahayag 11:12 (ADB)",
+    "connected_to": "Pahayag 11:13",
+    "connected_from": "Pahayag 11:11"
+  },
+  {
+    "text": "At nang oras na yaon ay nagkaroon ng isang malakas na lindol, at nagiba ang ikasangpung bahagi ng bayan; at may nangamatay sa lindol na pitong libo katao: at ang mga iba ay nangatatakot, at nangagbigay ng kaluwalhatian sa Dios ng langit.",
+    "reference": "Pahayag 11:13 (ADB)",
+    "connected_to": "Pahayag 11:14",
+    "connected_from": "Pahayag 11:12"
+  },
+  {
+    "text": "Nakaraan na ang ikalawang Pagkaaba: narito, nagmamadaling dumarating ang ikatlong Pagkaaba.",
+    "reference": "Pahayag 11:14 (ADB)",
+    "connected_to": "Pahayag 11:15",
+    "connected_from": "Pahayag 11:13"
+  },
+  {
+    "text": "At humihip ang ikapitong anghel; at nagkaroon ng malalakas na tinig sa langit, at nagsasabi, Ang kaharian ng sanglibutan ay naging sa ating Panginoon, at sa kaniyang Cristo: at siya'y maghahari magpakailan kailan man.",
+    "reference": "Pahayag 11:15 (ADB)",
+    "connected_to": "Pahayag 11:16",
+    "connected_from": "Pahayag 11:14"
+  },
+  {
+    "text": "At ang dalawangpu't apat na matatanda na nakaupo sa kanikaniyang luklukan sa harapan ng Dios ay nangagpatirapa, at nangagsisamba sa Dios,",
+    "reference": "Pahayag 11:16 (ADB)",
+    "connected_to": "Pahayag 11:17",
+    "connected_from": "Pahayag 11:15"
+  },
+  {
+    "text": "Na nangagsasabi, Pinasasalamatan ka namin, Oh Panginoong Dios, na Makapangyarihan sa lahat, na ikaw ngayon, at naging ikaw nang nakaraan; sapagka't hinawakan mo ang iyong dakilang kapangyarihan, at ikaw ay naghari.",
+    "reference": "Pahayag 11:17 (ADB)",
+    "connected_to": "Pahayag 11:18",
+    "connected_from": "Pahayag 11:16"
+  },
+  {
+    "text": "At nangagalit ang mga bansa, at dumating ang iyong poot, at ang panahon ng mga patay upang mangahatulan, at ang panahon ng pagbibigay mo ng ganting-pala sa iyong mga alipin na mga propeta, at sa mga banal, at sa mga natatakot sa iyong pangalan, maliliit at malalaki; at upang ipahamak mo ang mga nagpapahamak ng lupa.",
+    "reference": "Pahayag 11:18 (ADB)",
+    "connected_to": "Pahayag 11:19",
+    "connected_from": "Pahayag 11:17"
+  },
+  {
+    "text": "At nabuksan ang templo ng Dios na nasa langit: at nakita sa kaniyang templo ang kaban ng kaniyang tipan; at nagkaroon ng mga kidlat, at mga tinig, at mga kulog, at isang lindol, at malaking granizo.",
+    "reference": "Pahayag 11:19 (ADB)",
+    "connected_from": "Pahayag 11:18"
+  }
+]

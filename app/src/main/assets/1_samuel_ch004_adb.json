@@ -1,0 +1,132 @@
+[
+  {
+    "text": "At ang salita ni Samuel ay dumating sa buong Israel, Ngayo'y lumabas ang Israel laban sa mga Filisteo upang makipagbaka, at humantong sa Ebenezer: at ang mga Filisteo ay humantong sa Aphec.",
+    "reference": "1 Samuel 4:1 (ADB)",
+    "connected_to": "1 Samuel 4:2"
+  },
+  {
+    "text": "At ang mga Filisteo ay humanay laban sa Israel: at nang sila'y magsagupa, ang Israel ay nasaktan sa harap ng mga Filisteo; at kanilang pinatay sa hukbo sa parang, ay may apat na libong lalake.",
+    "reference": "1 Samuel 4:2 (ADB)",
+    "connected_to": "1 Samuel 4:3",
+    "connected_from": "1 Samuel 4:1"
+  },
+  {
+    "text": "At nang ang bayan ay dumating sa kampamento, ay sinabi ng mga matanda sa Israel, Bakit sinaktan tayo ngayon ng Panginoon sa harap ng mga Filisteo? Ating dalhin sa atin ang kaban ng tipan ng Panginoon mula sa Silo, upang mapasa gitna natin yaon, at iligtas tayo sa kamay ng ating mga kaaway.",
+    "reference": "1 Samuel 4:3 (ADB)",
+    "connected_to": "1 Samuel 4:4",
+    "connected_from": "1 Samuel 4:2"
+  },
+  {
+    "text": "Sa gayo'y nagsugo ang bayan sa Silo, at kanilang dinala mula roon ang kaban ng tipan ng Panginoon ng mga hukbo, na nauupo sa gitna ng mga querubin: at ang dalawang anak ni Eli, si Ophni at si Phinees, ay nandoon na binabantayan ang kaban ng tipan ng Dios.",
+    "reference": "1 Samuel 4:4 (ADB)",
+    "connected_to": "1 Samuel 4:5",
+    "connected_from": "1 Samuel 4:3"
+  },
+  {
+    "text": "At nang ang kaban ng tipan ng Panginoon ay pumasok sa kampamento, ang buong Israel ay humiyaw ng malakas na hiyaw, na ano pa't naghinugong sa lupa.",
+    "reference": "1 Samuel 4:5 (ADB)",
+    "connected_to": "1 Samuel 4:6",
+    "connected_from": "1 Samuel 4:4"
+  },
+  {
+    "text": "At nang marinig ng mga Filisteo ang ingay ng hiyaw, ay nagsipagsabi, Ano ang kahulugan ng ingay nitong malakas na hiyaw sa kampamento ng mga Hebreo? At kanilang natalastas na ang kaban ng Panginoon ay ipinasok sa kampamento.",
+    "reference": "1 Samuel 4:6 (ADB)",
+    "connected_to": "1 Samuel 4:7",
+    "connected_from": "1 Samuel 4:5"
+  },
+  {
+    "text": "At ang mga Filisteo ay nangatakot, sapagka't kanilang sinabi, Ang Dios ay pumasok sa kampamento. At kanilang sinabi, Sa aba natin! sapagka't hindi pa nagkakaroon ng ganyang bagay kailan man.",
+    "reference": "1 Samuel 4:7 (ADB)",
+    "connected_to": "1 Samuel 4:8",
+    "connected_from": "1 Samuel 4:6"
+  },
+  {
+    "text": "Sa aba natin! sino ang magliligtas sa atin sa kamay ng makapangyarihang mga dios na ito? ito ang mga dios na nanakit sa mga taga-Egipto ng sarisaring salot sa ilang.",
+    "reference": "1 Samuel 4:8 (ADB)",
+    "connected_to": "1 Samuel 4:9",
+    "connected_from": "1 Samuel 4:7"
+  },
+  {
+    "text": "Kayo'y magpakalakas at magpakalalake, Oh kayong mga Filisteo, upang kayo'y huwag maging mga alipin ng mga Hebreo, na gaya ng naging lagay nila sa inyo: kayo'y magpakalalake, at magsilaban.",
+    "reference": "1 Samuel 4:9 (ADB)",
+    "connected_to": "1 Samuel 4:10",
+    "connected_from": "1 Samuel 4:8"
+  },
+  {
+    "text": "At ang mga Filisteo ay nagsilaban, at ang Israel ay nasaktan, at tumakas ang bawa't isa sa kanila sa kaniyang tolda: at nagkaroon ng malaking patayan; sapagka't nabuwal sa Israel ay tatlong pung libong lalaking lakad.",
+    "reference": "1 Samuel 4:10 (ADB)",
+    "connected_to": "1 Samuel 4:11",
+    "connected_from": "1 Samuel 4:9"
+  },
+  {
+    "text": "At ang kaban ng Dios ay kinuha; at ang dalawang anak ni Eli, si Ophni at Phinees ay pinatay.",
+    "reference": "1 Samuel 4:11 (ADB)",
+    "connected_to": "1 Samuel 4:12",
+    "connected_from": "1 Samuel 4:10"
+  },
+  {
+    "text": "At tumakbo ang isang lalake ng Benjamin na mula sa hukbo, at naparoon sa Silo nang araw ding yaon, na may barong hapak at may lupa sa kaniyang ulo.",
+    "reference": "1 Samuel 4:12 (ADB)",
+    "connected_to": "1 Samuel 4:13",
+    "connected_from": "1 Samuel 4:11"
+  },
+  {
+    "text": "At nang siya'y dumating, narito, si Eli ay nakaupo sa kaniyang upuan sa tabi ng daan na nagbabantay; sapagka't ang kaniyang puso'y nanginginig dahil sa kaban ng Dios. At nang ang tao ay pumasok sa bayan, at saysayin ang mga balita, ang buong bayan ay humiyaw.",
+    "reference": "1 Samuel 4:13 (ADB)",
+    "connected_to": "1 Samuel 4:14",
+    "connected_from": "1 Samuel 4:12"
+  },
+  {
+    "text": "At nang marinig ni Eli ang ingay ng hiyawan, ay kaniyang sinabi, Ano ang kahulugan ng kaingay ng gulong ito? At ang tao'y nagmadali, at naparoon, at isinaysay kay Eli.",
+    "reference": "1 Samuel 4:14 (ADB)",
+    "connected_to": "1 Samuel 4:15",
+    "connected_from": "1 Samuel 4:13"
+  },
+  {
+    "text": "Si Eli nga'y may siyam na pu't walong taon na; at ang kaniyang mga mata'y malalabo na, siya'y di na makakita.",
+    "reference": "1 Samuel 4:15 (ADB)",
+    "connected_to": "1 Samuel 4:16",
+    "connected_from": "1 Samuel 4:14"
+  },
+  {
+    "text": "At sinabi ng lalake kay Eli, Ako yaong nanggaling sa hukbo, at ako'y tumakas ngayon mula sa hukbo. At kaniyang sinabi, Paano ang nangyari, anak ko?",
+    "reference": "1 Samuel 4:16 (ADB)",
+    "connected_to": "1 Samuel 4:17",
+    "connected_from": "1 Samuel 4:15"
+  },
+  {
+    "text": "At siya na nagdala ng mga balita ay sumagot at nagsabi, Ang Israel ay tumakas sa harap ng mga Filisteo, at nagkaroon din naman doon ng isang malaking patayan sa gitna ng bayan, at pati ng iyong dalawang anak, si Ophni at si Phinees ay patay na, at ang kaban ng Dios ay kinuha.",
+    "reference": "1 Samuel 4:17 (ADB)",
+    "connected_to": "1 Samuel 4:18",
+    "connected_from": "1 Samuel 4:16"
+  },
+  {
+    "text": "At nangyari, nang kaniyang banggitin ang kaban ng Dios, na siya'y nabuwal sa likuran sa kaniyang upuan sa dako ng pintuang-bayan; at nabalian siya sa leeg, at siya'y namatay: sapagka't siya'y lalaking matanda at mabigat. At hinatulan niya ang Israel na apat na pung taon.",
+    "reference": "1 Samuel 4:18 (ADB)",
+    "connected_to": "1 Samuel 4:19",
+    "connected_from": "1 Samuel 4:17"
+  },
+  {
+    "text": "At ang kaniyang manugang, na asawa ni Phinees, ay buntis na kagampan: at pagkarinig niya ng balita na ang kaban ng Dios ay kinuha, at ang kaniyang biyanan at kaniyang asawa ay patay na, ay yumukod siya at napanganak; sapagka't ang kaniyang pagdaramdam ay dumating sa kaniya.",
+    "reference": "1 Samuel 4:19 (ADB)",
+    "connected_to": "1 Samuel 4:20",
+    "connected_from": "1 Samuel 4:18"
+  },
+  {
+    "text": "At nang mamatay na siya, ay sinabi sa kaniya ng mga babaing nakatayo sa siping niya, Huwag kang matakot; sapagka't ikaw ay nanganak ng isang lalake. Nguni't hindi siya sumagot, o inalumana man niya.",
+    "reference": "1 Samuel 4:20 (ADB)",
+    "connected_to": "1 Samuel 4:21",
+    "connected_from": "1 Samuel 4:19"
+  },
+  {
+    "text": "At ipinangalan niya sa bata ay Ichabod, na sinasabi, Ang kaluwalhatian ay nahiwalay sa Israel; sapagka't ang kaban ng Dios ay kinuha, at dahil sa kaniyang biyanan at sa kaniyang asawa.",
+    "reference": "1 Samuel 4:21 (ADB)",
+    "connected_to": "1 Samuel 4:22",
+    "connected_from": "1 Samuel 4:20"
+  },
+  {
+    "text": "At kaniyang sinabi, Ang kaluwalhatian ng Dios ay nahiwalay sa Israel; sapagka't ang kaban ng Dios ay kinuha.",
+    "reference": "1 Samuel 4:22 (ADB)",
+    "connected_from": "1 Samuel 4:21"
+  }
+]

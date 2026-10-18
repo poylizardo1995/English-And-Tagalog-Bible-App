@@ -1,0 +1,78 @@
+[
+  {
+    "text": "Kung ako'y magsalita ng mga wika ng mga tao at ng mga anghel, datapuwa't wala akong pagibig, ay ako'y naging tanso na tumutunog, o batingaw na umaalingawngaw.",
+    "reference": "1 Corinto 13:1 (ADB)",
+    "connected_to": "1 Corinto 13:2"
+  },
+  {
+    "text": "At kung magkaroon ako ng kaloob na panghuhula, at maalaman ko ang lahat ng mga hiwaga at ang lahat ng mga kaalaman; at kung magkaroon ako ng buong pananampalataya, na ano pa't mapalipat ko ang mga bundok, datapuwa't wala akong pagibig, ay wala akong kabuluhan.",
+    "reference": "1 Corinto 13:2 (ADB)",
+    "connected_to": "1 Corinto 13:3",
+    "connected_from": "1 Corinto 13:1"
+  },
+  {
+    "text": "At kung ipagkaloob ko ang lahat ng aking mga tinatangkilik upang ipakain sa mga dukha, at kung ibigay ko ang aking katawan upang sunugin, datapuwa't wala akong pagibig, ay walang pakikinabangin sa akin.",
+    "reference": "1 Corinto 13:3 (ADB)",
+    "connected_to": "1 Corinto 13:4",
+    "connected_from": "1 Corinto 13:2"
+  },
+  {
+    "text": "Ang pagibig ay mapagpahinuhod, at magandang-loob; ang pagibig ay hindi nananaghili; ang pagibig ay hindi nagmamapuri, hindi mapagpalalo.",
+    "reference": "1 Corinto 13:4 (ADB)",
+    "connected_to": "1 Corinto 13:5",
+    "connected_from": "1 Corinto 13:3"
+  },
+  {
+    "text": "Hindi naguugaling mahalay, hindi hinahanap ang kaniyang sarili, hindi nayayamot, hindi inaalumana ang masama;",
+    "reference": "1 Corinto 13:5 (ADB)",
+    "connected_to": "1 Corinto 13:6",
+    "connected_from": "1 Corinto 13:4"
+  },
+  {
+    "text": "Hindi nagagalak sa kalikuan, kundi nakikigalak sa katotohanan;",
+    "reference": "1 Corinto 13:6 (ADB)",
+    "connected_to": "1 Corinto 13:7",
+    "connected_from": "1 Corinto 13:5"
+  },
+  {
+    "text": "Lahat ay binabata, lahat ay pinaniniwalaan, lahat ay inaasahan, lahat ay tinitiis.",
+    "reference": "1 Corinto 13:7 (ADB)",
+    "connected_to": "1 Corinto 13:8",
+    "connected_from": "1 Corinto 13:6"
+  },
+  {
+    "text": "Ang pagibig ay hindi nagkukulang kailan man: kahit maging mga hula, ay mangatatapos; maging mga wika, ay titigil: maging kaalaman, ay mawawala.",
+    "reference": "1 Corinto 13:8 (ADB)",
+    "connected_to": "1 Corinto 13:9",
+    "connected_from": "1 Corinto 13:7"
+  },
+  {
+    "text": "Sapagka't nangakakakilala tayo ng bahagya, at nanganghuhula tayo ng bahagya;",
+    "reference": "1 Corinto 13:9 (ADB)",
+    "connected_to": "1 Corinto 13:10",
+    "connected_from": "1 Corinto 13:8"
+  },
+  {
+    "text": "Datapuwa't kung dumating ang sakdal, ang bahagya ay matatapos.",
+    "reference": "1 Corinto 13:10 (ADB)",
+    "connected_to": "1 Corinto 13:11",
+    "connected_from": "1 Corinto 13:9"
+  },
+  {
+    "text": "Nang ako'y bata pa, ay nagsasalita akong gaya ng bata, nagdaramdam akong gaya ng bata, nagiisip akong gaya ng bata: ngayong maganap ang aking pagkatao, ay iniwan ko na ang mga bagay ng pagkabata.",
+    "reference": "1 Corinto 13:11 (ADB)",
+    "connected_to": "1 Corinto 13:12",
+    "connected_from": "1 Corinto 13:10"
+  },
+  {
+    "text": "Sapagka't ngayo'y malabo tayong nakakikita sa isang salamin; nguni't pagkatapos ay makikita natin sa mukhaan: ngayo'y nakikilala ko ng bahagya, nguni't pagkatapos ay makikilala ko ng gaya naman ng pagkakilala sa akin.",
+    "reference": "1 Corinto 13:12 (ADB)",
+    "connected_to": "1 Corinto 13:13",
+    "connected_from": "1 Corinto 13:11"
+  },
+  {
+    "text": "Datapuwa't ngayo'y nanatili ang tatlong ito: ang pananampalataya, ang pagasa, at ang pagibig; nguni't ang pinakadakila sa mga ito ay ang pagibig.",
+    "reference": "1 Corinto 13:13 (ADB)",
+    "connected_from": "1 Corinto 13:12"
+  }
+]

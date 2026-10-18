@@ -1,0 +1,36 @@
+[
+  {
+    "text": "Ang Panginoon ay aking pastor; hindi ako mangangailangan.",
+    "reference": "Mga Awit 23:1 (ADB)",
+    "connected_to": "Mga Awit 23:2"
+  },
+  {
+    "text": "Kaniyang pinahihiga ako sa sariwang pastulan: pinapatnubayan niya ako sa siping ng mga tubig na pahingahan,",
+    "reference": "Mga Awit 23:2 (ADB)",
+    "connected_to": "Mga Awit 23:3",
+    "connected_from": "Mga Awit 23:1"
+  },
+  {
+    "text": "Kaniyang pinapananauli ang aking kaluluwa: pinapatnubayan niya ako sa mga landas ng katuwiran alangalang sa kaniyang pangalan.",
+    "reference": "Mga Awit 23:3 (ADB)",
+    "connected_to": "Mga Awit 23:4",
+    "connected_from": "Mga Awit 23:2"
+  },
+  {
+    "text": "Oo, bagaman ako'y lumalakad sa libis ng lilim ng kamatayan, wala akong katatakutang kasamaan; sapagka't ikaw ay sumasa akin: ang iyong pamalo at ang iyong tungkod, ay nagsisialiw sa akin.",
+    "reference": "Mga Awit 23:4 (ADB)",
+    "connected_to": "Mga Awit 23:5",
+    "connected_from": "Mga Awit 23:3"
+  },
+  {
+    "text": "Iyong pinaghahandaan ako ng dulang sa harap ko sa harapan ng aking mga kaaway: iyong pinahiran ang aking ulo ng langis; ang aking saro ay inaapawan.",
+    "reference": "Mga Awit 23:5 (ADB)",
+    "connected_to": "Mga Awit 23:6",
+    "connected_from": "Mga Awit 23:4"
+  },
+  {
+    "text": "Tunay na ang kabutihan at kaawaan ay susunod sa akin sa lahat ng mga kaarawan ng aking buhay: at ako'y tatahan sa bahay ng Panginoon magpakailan man.",
+    "reference": "Mga Awit 23:6 (ADB)",
+    "connected_from": "Mga Awit 23:5"
+  }
+]

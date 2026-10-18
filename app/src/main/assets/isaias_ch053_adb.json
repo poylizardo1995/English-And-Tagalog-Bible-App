@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Sinong naniwala sa aming balita? at kanino nahayag ang bisig ng Panginoon?",
+    "reference": "Isaias 53:1 (ADB)",
+    "connected_to": "Isaias 53:2"
+  },
+  {
+    "text": "Sapagka't siya'y tumubo sa harap niya na gaya ng sariwang pananim, at gaya ng ugat sa tuyong lupa: walang anyo o kagandahan man; at pagka ating minamasdan siya ay walang kagandahan na mananais tayo sa kaniya.",
+    "reference": "Isaias 53:2 (ADB)",
+    "connected_to": "Isaias 53:3",
+    "connected_from": "Isaias 53:1"
+  },
+  {
+    "text": "Siya'y hinamak at itinakuwil ng mga tao; isang taong sa kapanglawan, at bihasa sa karamdaman: at gaya ng isa na pinagkublihan ng kanilang mukha ng mga tao, na siya'y hinamak, at hindi natin hinalagahan siya.",
+    "reference": "Isaias 53:3 (ADB)",
+    "connected_to": "Isaias 53:4",
+    "connected_from": "Isaias 53:2"
+  },
+  {
+    "text": "Tunay na kaniyang dinala ang ating mga karamdaman, at dinala ang ating mga kapanglawan; gayon ma'y ating pinalagay siya na hinampas, sinaktan ng Dios, at dinalamhati.",
+    "reference": "Isaias 53:4 (ADB)",
+    "connected_to": "Isaias 53:5",
+    "connected_from": "Isaias 53:3"
+  },
+  {
+    "text": "Nguni't siya'y nasugatan dahil sa ating mga pagsalangsang, siya'y nabugbog dahil sa ating mga kasamaan, ang parusa ng tungkol sa ating kapayapaan ay nasa kaniya; at sa pamamagitan ng kaniyang mga latay ay nagsigaling tayo.",
+    "reference": "Isaias 53:5 (ADB)",
+    "connected_to": "Isaias 53:6",
+    "connected_from": "Isaias 53:4"
+  },
+  {
+    "text": "Tayong lahat na gaya ng mga tupa ay naligaw; tayo ay tumungo bawa't isa sa kaniyang sariling daan; at ipinasan sa kaniya ng Panginoon ang kasamaan nating lahat.",
+    "reference": "Isaias 53:6 (ADB)",
+    "connected_to": "Isaias 53:7",
+    "connected_from": "Isaias 53:5"
+  },
+  {
+    "text": "Siya'y napighati, gayon man nang siya'y dinalamhati ay hindi nagbuka ng kaniyang bibig; gaya ng kordero na dinadala sa patayan, at gaya ng tupang nasa harap ng mga manggugupit sa kaniya ay pipi, gayon ma'y hindi niya binuka ang kaniyang bibig.",
+    "reference": "Isaias 53:7 (ADB)",
+    "connected_to": "Isaias 53:8",
+    "connected_from": "Isaias 53:6"
+  },
+  {
+    "text": "Sa pamamagitan ng kapighatian at kahatulan ay dinala siya: at tungkol sa kaniyang lahi, sino sa kanila ang gumunita na siya'y nahiwalay sa lupain ng buhay? dahil sa pagsalangsang ng aking bayan ay nasaktan siya.",
+    "reference": "Isaias 53:8 (ADB)",
+    "connected_to": "Isaias 53:9",
+    "connected_from": "Isaias 53:7"
+  },
+  {
+    "text": "At ginawa nila ang kaniyang libingan na kasama ng mga masama, at kasama ng isang lalaking mayaman sa kaniyang kamatayan; bagaman hindi siya gumawa ng pangdadahas, o wala mang anomang karayaan sa kaniyang bibig.",
+    "reference": "Isaias 53:9 (ADB)",
+    "connected_to": "Isaias 53:10",
+    "connected_from": "Isaias 53:8"
+  },
+  {
+    "text": "Gayon ma'y kinalugdan ng Panginoon na mabugbog siya; inilagay niya siya sa pagdaramdam: pagka iyong gagawin ang kaniyang kaluluwa na pinakahandog dahil sa kasalanan, makikita niya ang kaniyang lahi, pahahabain niya ang kaniyang mga kaarawan, at ang pagkalugod ng Panginoon ay lalago sa kaniyang kamay.",
+    "reference": "Isaias 53:10 (ADB)",
+    "connected_to": "Isaias 53:11",
+    "connected_from": "Isaias 53:9"
+  },
+  {
+    "text": "Siya'y makakakita ng pagdaramdam ng kaniyang kaluluwa at masisiyahan: sa pamamagitan ng kaniyang kaalaman ay aariing ganap ng aking matuwid na lingkod ang marami; at dadalhin niya ang kanilang mga kasamaan.",
+    "reference": "Isaias 53:11 (ADB)",
+    "connected_to": "Isaias 53:12",
+    "connected_from": "Isaias 53:10"
+  },
+  {
+    "text": "Kaya't hahatian ko siya ng bahagi na kasama ng dakila, at kaniyang hahatiin ang samsam na kasama ng malakas; sapagka't kaniyang idinulot ang kaniyang kaluluwa sa kamatayan, at ibinilang na kasama ng mga mananalangsang: gayon ma'y dinala niya ang kasalanan ng marami, at namagitan sa mga mananalangsang.",
+    "reference": "Isaias 53:12 (ADB)",
+    "connected_from": "Isaias 53:11"
+  }
+]

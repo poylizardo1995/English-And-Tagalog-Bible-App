@@ -1,0 +1,78 @@
+[
+  {
+    "text": " Ang matanda sa hirang na ginang at sa kaniyang mga anak, na aking iniibig sa katotohanan; at hindi lamang ako, kundi pati ng lahat ng mga nakakakilala ng katotohanan;",
+    "reference": "2 Juan 1:1 (ADB)",
+    "connected_to": "2 Juan 1:2"
+  },
+  {
+    "text": "Alangalang sa katotohanan na nananahan sa atin, at sasa atin magpakailan man:",
+    "reference": "2 Juan 1:2 (ADB)",
+    "connected_to": "2 Juan 1:3",
+    "connected_from": "2 Juan 1:1"
+  },
+  {
+    "text": "Sumaatin nawa ang biyaya, awa, at kapayapaang mula sa Dios Ama at kay Jesucristo, Anak ng Ama, sa katotohanan at sa pagibig.",
+    "reference": "2 Juan 1:3 (ADB)",
+    "connected_to": "2 Juan 1:4",
+    "connected_from": "2 Juan 1:2"
+  },
+  {
+    "text": "Ako'y lubhang nagagalak na aking nasumpungan ang ilan sa iyong mga anak na nagsisilakad sa katotohanan, ayon sa ating tinanggap na utos sa Ama.",
+    "reference": "2 Juan 1:4 (ADB)",
+    "connected_to": "2 Juan 1:5",
+    "connected_from": "2 Juan 1:3"
+  },
+  {
+    "text": "At ngayo'y ipinamamanhik ko sa iyo, ginang, na hindi waring sinusulatan kita ng isang bagong utos, kundi niyaong ating tinanggap nang pasimula, na tayo'y mangagibigan sa isa't isa.",
+    "reference": "2 Juan 1:5 (ADB)",
+    "connected_to": "2 Juan 1:6",
+    "connected_from": "2 Juan 1:4"
+  },
+  {
+    "text": "At ito ang pagibig, na tayo'y mangagsilakad ayon sa kaniyang mga utos. Ito ang utos, na tayo'y mangagsilakad sa kaniya, gaya ng inyong narinig nang pasimula.",
+    "reference": "2 Juan 1:6 (ADB)",
+    "connected_to": "2 Juan 1:7",
+    "connected_from": "2 Juan 1:5"
+  },
+  {
+    "text": "Sapagka't maraming magdaraya na nangagsilitaw sa sanglibutan, sa makatuwid ay ang mga hindi nangagpapahayag na si Jesucristo ay napariritong nasa laman. Ito ang magdaraya at ang anticristo.",
+    "reference": "2 Juan 1:7 (ADB)",
+    "connected_to": "2 Juan 1:8",
+    "connected_from": "2 Juan 1:6"
+  },
+  {
+    "text": "Mangagingat kayo sa inyong sarili, upang huwag ninyong iwala ang mga bagay na aming pinagpagalan, kundi upang tanggapin ninyo ang isang lubos na kagantihan.",
+    "reference": "2 Juan 1:8 (ADB)",
+    "connected_to": "2 Juan 1:9",
+    "connected_from": "2 Juan 1:7"
+  },
+  {
+    "text": "Ang sinomang nagpapatuloy at hindi nananahan sa aral ni Cristo, ay hindi kinaroroonan ng Dios: ang nananahan sa aral, ay kinaroroonan ng Ama at gayon din ng Anak.",
+    "reference": "2 Juan 1:9 (ADB)",
+    "connected_to": "2 Juan 1:10",
+    "connected_from": "2 Juan 1:8"
+  },
+  {
+    "text": "Kung sa inyo'y dumating ang sinoman, at hindi dala ang aral na ito, ay huwag ninyong tanggapin sa inyong bahay, at huwag ninyo siyang batiin:",
+    "reference": "2 Juan 1:10 (ADB)",
+    "connected_to": "2 Juan 1:11",
+    "connected_from": "2 Juan 1:9"
+  },
+  {
+    "text": "Sapagka't ang bumabati sa kaniya ay nararamay sa kaniyang masasamang gawa.",
+    "reference": "2 Juan 1:11 (ADB)",
+    "connected_to": "2 Juan 1:12",
+    "connected_from": "2 Juan 1:10"
+  },
+  {
+    "text": "Yamang may maraming mga bagay na isusulat sa inyo, ay hindi ko ibig isulat sa papel at tinta; datapuwa't inaasahan kong pumariyan sa inyo, at makipagusap ng mukhaan, upang malubos ang inyong galak.",
+    "reference": "2 Juan 1:12 (ADB)",
+    "connected_to": "2 Juan 1:13",
+    "connected_from": "2 Juan 1:11"
+  },
+  {
+    "text": "Ang mga anak ng iyong hirang na kapatid na babae ay bumabati sa iyo.",
+    "reference": "2 Juan 1:13 (ADB)",
+    "connected_from": "2 Juan 1:12"
+  }
+]

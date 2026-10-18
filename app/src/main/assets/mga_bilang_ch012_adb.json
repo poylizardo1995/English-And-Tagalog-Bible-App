@@ -1,0 +1,96 @@
+[
+  {
+    "text": "At si Miriam at si Aaron ay nagsalitaan laban kay Moises tungkol sa pagkapagasawa niya sa isang babaing Cusita: sapagka't siya'y nag-asawa sa isang babaing Cusita.",
+    "reference": "Mga Bilang 12:1 (ADB)",
+    "connected_to": "Mga Bilang 12:2"
+  },
+  {
+    "text": "At kanilang sinabi, Ang Panginoon ba'y kay Moises lamang nakipagsalitaan? hindi ba nakipagsalitaan din naman sa atin? At narinig ng Panginoon.",
+    "reference": "Mga Bilang 12:2 (ADB)",
+    "connected_to": "Mga Bilang 12:3",
+    "connected_from": "Mga Bilang 12:1"
+  },
+  {
+    "text": "Ang lalake ngang si Moises ay totoong maamong loob, na higit kay sa lahat ng lalaking nasa ibabaw ng lupa.",
+    "reference": "Mga Bilang 12:3 (ADB)",
+    "connected_to": "Mga Bilang 12:4",
+    "connected_from": "Mga Bilang 12:2"
+  },
+  {
+    "text": "At sinalita agad ng Panginoon kay Moises, at kay Aaron, at kay Miriam, Lumabas kayong tatlo sa tabernakulo ng kapisanan. At silang tatlo ay lumabas.",
+    "reference": "Mga Bilang 12:4 (ADB)",
+    "connected_to": "Mga Bilang 12:5",
+    "connected_from": "Mga Bilang 12:3"
+  },
+  {
+    "text": "At ang Panginoon ay bumaba sa isang tila haliging ulap, at tumayo sa pintuan ng Tolda, at tinawag si Aaron at si Miriam: at sila'y kapuwa lumabas.",
+    "reference": "Mga Bilang 12:5 (ADB)",
+    "connected_to": "Mga Bilang 12:6",
+    "connected_from": "Mga Bilang 12:4"
+  },
+  {
+    "text": "At kaniyang sinabi, Dinggin ninyo ngayon ang aking mga salita: kung mayroon sa gitna ninyo na isang propeta, akong Panginoon ay pakikilala sa kaniya sa pangitain, na kakausapin ko siya sa panaginip.",
+    "reference": "Mga Bilang 12:6 (ADB)",
+    "connected_to": "Mga Bilang 12:7",
+    "connected_from": "Mga Bilang 12:5"
+  },
+  {
+    "text": "Ang aking lingkod na si Moises ay hindi gayon; siya'y tapat sa aking buong buhay:",
+    "reference": "Mga Bilang 12:7 (ADB)",
+    "connected_to": "Mga Bilang 12:8",
+    "connected_from": "Mga Bilang 12:6"
+  },
+  {
+    "text": "Sa kaniya'y makikipag-usap ako ng bibig, sa bibig, ng maliwanag, at hindi sa malabong salitaan; at ang anyo ng Panginoon ay kaniyang makikita: bakit nga hindi kayo natakot na magsalita laban sa aking lingkod, laban kay Moises?",
+    "reference": "Mga Bilang 12:8 (ADB)",
+    "connected_to": "Mga Bilang 12:9",
+    "connected_from": "Mga Bilang 12:7"
+  },
+  {
+    "text": "At ang galit ng Panginoon ay nagningas laban sa kanila; at siya'y umalis.",
+    "reference": "Mga Bilang 12:9 (ADB)",
+    "connected_to": "Mga Bilang 12:10",
+    "connected_from": "Mga Bilang 12:8"
+  },
+  {
+    "text": "At ang ulap ay lumayo sa Tolda; at narito, si Miriam ay nagkaketong, na pumuting gaya ng niebe; at tiningnan ni Aaron si Miriam, at narito, siya'y nagkaketong.",
+    "reference": "Mga Bilang 12:10 (ADB)",
+    "connected_to": "Mga Bilang 12:11",
+    "connected_from": "Mga Bilang 12:9"
+  },
+  {
+    "text": "At sinabi ni Aaron kay Moises, Oh panginoon ko, isinasamo ko sa iyo na huwag mong iparatang ang kasalanan sa amin, sapagka't ginawa namin na may kamangmangan, at sapagka't kami ay nagkasala.",
+    "reference": "Mga Bilang 12:11 (ADB)",
+    "connected_to": "Mga Bilang 12:12",
+    "connected_from": "Mga Bilang 12:10"
+  },
+  {
+    "text": "Huwag mong itulot sa kaniya, isinasamo ko sa iyo, na maging parang isang patay na tunaw ang kalahati ng kaniyang laman paglabas sa tiyan ng kaniyang ina.",
+    "reference": "Mga Bilang 12:12 (ADB)",
+    "connected_to": "Mga Bilang 12:13",
+    "connected_from": "Mga Bilang 12:11"
+  },
+  {
+    "text": "At humibik si Moises sa Panginoon, na sinasabi, Pagalingin mo siya, Oh Dios, ipinamamanhik ko sa iyo.",
+    "reference": "Mga Bilang 12:13 (ADB)",
+    "connected_to": "Mga Bilang 12:14",
+    "connected_from": "Mga Bilang 12:12"
+  },
+  {
+    "text": "At sinabi ng Panginoon kay Moises, Kung siya'y niluran ng kaniyang ama sa kaniyang mukha, hindi ba siya mahihiyang pitong araw? kulungin siyang pitong araw sa labas ng kampamento, at pagkatapos ay madadala siyang muli sa loob.",
+    "reference": "Mga Bilang 12:14 (ADB)",
+    "connected_to": "Mga Bilang 12:15",
+    "connected_from": "Mga Bilang 12:13"
+  },
+  {
+    "text": "At si Miriam ay kinulong na pitong araw sa labas ng kampamento: at ang bayan ay hindi naglakbay hanggang si Miriam ay nadalang muli sa loob.",
+    "reference": "Mga Bilang 12:15 (ADB)",
+    "connected_to": "Mga Bilang 12:16",
+    "connected_from": "Mga Bilang 12:14"
+  },
+  {
+    "text": "At pagkatapos nito ay naglakbay ang bayan mula sa Haseroth, at humantong sa ilang ng Paran.",
+    "reference": "Mga Bilang 12:16 (ADB)",
+    "connected_from": "Mga Bilang 12:15"
+  }
+]

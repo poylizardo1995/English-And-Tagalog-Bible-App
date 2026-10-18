@@ -1,0 +1,78 @@
+[
+  {
+    "text": "At sinalita ng Panginoon kay Moises, na sinasabi,",
+    "reference": "Mga Bilang 17:1 (ADB)",
+    "connected_to": "Mga Bilang 17:2"
+  },
+  {
+    "text": "Salitain mo sa mga anak ni Israel, at kumuha ka sa kanila ng mga tungkod, isa sa bawa't sangbahayan ng mga magulang; sa lahat nilang mga prinsipe ayon sa mga sangbahayan ng kanilang mga magulang, labing dalawang tungkod: isulat mo ang pangalan ng bawa't isa sa kaniyang tungkod.",
+    "reference": "Mga Bilang 17:2 (ADB)",
+    "connected_to": "Mga Bilang 17:3",
+    "connected_from": "Mga Bilang 17:1"
+  },
+  {
+    "text": "At isusulat mo ang pangalan ni Aaron sa tungkod ni Levi: sapagka't isa lamang tungkod magkakaroon sa bawa't pangulo sa mga sangbahayan ng kanilang mga magulang.",
+    "reference": "Mga Bilang 17:3 (ADB)",
+    "connected_to": "Mga Bilang 17:4",
+    "connected_from": "Mga Bilang 17:2"
+  },
+  {
+    "text": "At iyong ilalagay sa tabernakulo ng kapisanan sa harap ng patotoo, na aking pinakikipagkitaan sa inyo.",
+    "reference": "Mga Bilang 17:4 (ADB)",
+    "connected_to": "Mga Bilang 17:5",
+    "connected_from": "Mga Bilang 17:3"
+  },
+  {
+    "text": "At mangyayari na ang lalaking aking pipiliin, ay mamumulaklak ang kaniyang tungkod: at aking ipatitigil sa akin, ang mga pag-upasala ng mga anak ni Israel, na kanilang iniupasala laban sa inyo.",
+    "reference": "Mga Bilang 17:5 (ADB)",
+    "connected_to": "Mga Bilang 17:6",
+    "connected_from": "Mga Bilang 17:4"
+  },
+  {
+    "text": "At si Moises ay nagsalita sa mga anak ni Israel, at ang lahat nilang mga prinsipe ay nagbigay sa kaniya ng tungkod, na bawa't pangulo ay isa, ayon sa mga sangbahayan ng kanilang mga magulang, labing dalawang tungkod: at ang tungkod ni Aaron ay nasa gitna ng kanilang mga tungkod.",
+    "reference": "Mga Bilang 17:6 (ADB)",
+    "connected_to": "Mga Bilang 17:7",
+    "connected_from": "Mga Bilang 17:5"
+  },
+  {
+    "text": "At inilagay ni Moises ang mga tungkod sa harap ng Panginoon sa tabernakulo ng patotoo;",
+    "reference": "Mga Bilang 17:7 (ADB)",
+    "connected_to": "Mga Bilang 17:8",
+    "connected_from": "Mga Bilang 17:6"
+  },
+  {
+    "text": "At nangyari nang kinabukasan, na si Moises ay pumasok sa tabernakulo ng patotoo; at, narito, na ang tungkod ni Aaron sa sangbahayan ni Levi ay namulaklak at nagkaroon ng mga hinog na almendras.",
+    "reference": "Mga Bilang 17:8 (ADB)",
+    "connected_to": "Mga Bilang 17:9",
+    "connected_from": "Mga Bilang 17:7"
+  },
+  {
+    "text": "At mula sa harap ng Panginoon ay inilabas ni Moises ang lahat ng tungkod sa lahat ng mga anak ni Israel: at kanilang pinagmalas, at kinuha ng bawa't lalake ang kaniyang tungkod.",
+    "reference": "Mga Bilang 17:9 (ADB)",
+    "connected_to": "Mga Bilang 17:10",
+    "connected_from": "Mga Bilang 17:8"
+  },
+  {
+    "text": "At sinabi ng Panginoon kay Moises, Ibalik mo ang tungkod ni Aaron sa harap ng patotoo, upang ingatang pinakatanda laban sa mga anak ng panghihimagsik; upang iyong wakasan ang kanilang mga pag-upasala laban sa akin, upang huwag silang mamatay.",
+    "reference": "Mga Bilang 17:10 (ADB)",
+    "connected_to": "Mga Bilang 17:11",
+    "connected_from": "Mga Bilang 17:9"
+  },
+  {
+    "text": "Gayon ginawa ni Moises: kung paanong iniutos ng Panginoon sa kaniya, ay gayon niya ginawa.",
+    "reference": "Mga Bilang 17:11 (ADB)",
+    "connected_to": "Mga Bilang 17:12",
+    "connected_from": "Mga Bilang 17:10"
+  },
+  {
+    "text": "At sinalita ng mga anak ni Israel kay Moises, na sinasabi, Narito, kami ay mga patay, kami ay napahamak, kaming lahat ay napahamak.",
+    "reference": "Mga Bilang 17:12 (ADB)",
+    "connected_to": "Mga Bilang 17:13",
+    "connected_from": "Mga Bilang 17:11"
+  },
+  {
+    "text": "Lahat ng lumalapit, na lumalapit sa tabernakulo ng Panginoon, ay namamatay: kami bang lahat ay malilipol?",
+    "reference": "Mga Bilang 17:13 (ADB)",
+    "connected_from": "Mga Bilang 17:12"
+  }
+]

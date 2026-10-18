@@ -1,0 +1,228 @@
+[
+  {
+    "text": "At sinalita ng Panginoon kay Moises na sinasabi,",
+    "reference": "Exodo 40:1 (ADB)",
+    "connected_to": "Exodo 40:2"
+  },
+  {
+    "text": "Sa unang araw ng unang buwan ay iyong itatayo ang tabernakulo ng kapisanan.",
+    "reference": "Exodo 40:2 (ADB)",
+    "connected_to": "Exodo 40:3",
+    "connected_from": "Exodo 40:1"
+  },
+  {
+    "text": "At iyong isisilid doon ang kaban ng patotoo, at iyong tatabingan ang kaban ng lambong.",
+    "reference": "Exodo 40:3 (ADB)",
+    "connected_to": "Exodo 40:4",
+    "connected_from": "Exodo 40:2"
+  },
+  {
+    "text": "At iyong ipapasok ang dulang, at iyong aayusin ang mga bagay na nasa ibabaw niyaon; at iyong ipapasok ang kandelero at iyong sisindihan ang mga ilawan niyaon.",
+    "reference": "Exodo 40:4 (ADB)",
+    "connected_to": "Exodo 40:5",
+    "connected_from": "Exodo 40:3"
+  },
+  {
+    "text": "At iyong ilalagay ang dambanang ginto para sa kamangyan sa harap ng kaban ng patotoo, at ilalagay mo ang tabing ng pintuan sa tabernakulo.",
+    "reference": "Exodo 40:5 (ADB)",
+    "connected_to": "Exodo 40:6",
+    "connected_from": "Exodo 40:4"
+  },
+  {
+    "text": "At iyong ilalagay ang dambanang pagsusunugan ng handog sa harap ng pintuan ng tabernakulo ng kapisanan.",
+    "reference": "Exodo 40:6 (ADB)",
+    "connected_to": "Exodo 40:7",
+    "connected_from": "Exodo 40:5"
+  },
+  {
+    "text": "At iyong ilalagay ang hugasan sa pagitan ng tabernakulo at ng dambana, at iyong sisidlan ng tubig.",
+    "reference": "Exodo 40:7 (ADB)",
+    "connected_to": "Exodo 40:8",
+    "connected_from": "Exodo 40:6"
+  },
+  {
+    "text": "At iyong ilalagay ang looban sa palibot, at ibibitin mo ang tabing sa pintuang daan ng looban.",
+    "reference": "Exodo 40:8 (ADB)",
+    "connected_to": "Exodo 40:9",
+    "connected_from": "Exodo 40:7"
+  },
+  {
+    "text": "At kukuha ka ng langis na pangpahid, at papahiran mo ang tabernakulo, at lahat na nandoon, at iyong pakakabanalin, at lahat ng kasangkapan niyaon: at magiging banal.",
+    "reference": "Exodo 40:9 (ADB)",
+    "connected_to": "Exodo 40:10",
+    "connected_from": "Exodo 40:8"
+  },
+  {
+    "text": "At iyong papahiran ng langis ang dambanang pagsusunugan ng handog, at ang lahat ng kasangkapan, at iyong pakakabanalin ang dambana: at ang dambana ay magiging kabanalbanalan.",
+    "reference": "Exodo 40:10 (ADB)",
+    "connected_to": "Exodo 40:11",
+    "connected_from": "Exodo 40:9"
+  },
+  {
+    "text": "At iyong papahiran din naman ng langis ang hugasan at ang tungtungan, at iyong pakakabanalin.",
+    "reference": "Exodo 40:11 (ADB)",
+    "connected_to": "Exodo 40:12",
+    "connected_from": "Exodo 40:10"
+  },
+  {
+    "text": "At iyong dadalhin si Aaron at ang kaniyang mga anak sa pintuan ng tabernakulo ng kapisanan, at iyong paliliguan ng tubig.",
+    "reference": "Exodo 40:12 (ADB)",
+    "connected_to": "Exodo 40:13",
+    "connected_from": "Exodo 40:11"
+  },
+  {
+    "text": "At iyong isusuot kay Aaron ang mga banal na kasuutan; at iyong papahiran ng langis siya, at iyong papagbanalin siya, upang siya'y makapangasiwa sa akin sa katungkulang saserdote.",
+    "reference": "Exodo 40:13 (ADB)",
+    "connected_to": "Exodo 40:14",
+    "connected_from": "Exodo 40:12"
+  },
+  {
+    "text": "At iyong dadalhin ang kaniyang mga anak, at iyong susuutan sila ng mga kasuutan:",
+    "reference": "Exodo 40:14 (ADB)",
+    "connected_to": "Exodo 40:15",
+    "connected_from": "Exodo 40:13"
+  },
+  {
+    "text": "At iyong papahiran ng langis sila gaya ng iyong pagkapahid sa kanilang ama, upang sila'y makapangasiwa sa akin sa katungkulang saserdote, at ang pagpapahid sa kanila ay maging sa kanila'y pinakatanda ng walang hanggang pagka-saserdote sa buong panahon ng kanilang lahi.",
+    "reference": "Exodo 40:15 (ADB)",
+    "connected_to": "Exodo 40:16",
+    "connected_from": "Exodo 40:14"
+  },
+  {
+    "text": "Gayon ginawa ni Moises, ayon sa lahat ng iniutos ng Panginoon sa kaniya, ay gayong ginawa niya.",
+    "reference": "Exodo 40:16 (ADB)",
+    "connected_to": "Exodo 40:17",
+    "connected_from": "Exodo 40:15"
+  },
+  {
+    "text": "At nangyari sa unang buwan nang ikalawang taon nang unang araw ng buwan, na ang tabernakulo'y itinayo.",
+    "reference": "Exodo 40:17 (ADB)",
+    "connected_to": "Exodo 40:18",
+    "connected_from": "Exodo 40:16"
+  },
+  {
+    "text": "At itinayo ni Moises ang tabernakulo, at inilagay ang mga tungtungan, at ipinatong ang mga malaking tabla, at isinuot ang mga barakilan, at itinayo ang mga haligi niyaon.",
+    "reference": "Exodo 40:18 (ADB)",
+    "connected_to": "Exodo 40:19",
+    "connected_from": "Exodo 40:17"
+  },
+  {
+    "text": "At kaniyang inunat ang tolda sa ibabaw ng tabernakulo, at kaniyang inilagay ang takip ng tabernakulo sa itaas ng ibabaw niyaon; gaya ng iniutos ng Panginoon kay Moises.",
+    "reference": "Exodo 40:19 (ADB)",
+    "connected_to": "Exodo 40:20",
+    "connected_from": "Exodo 40:18"
+  },
+  {
+    "text": "At kaniyang kinuha at inilagay ang mga tabla ng patotoo sa loob ng kaban, at kaniyang inilagay ang mga pingga sa kaban, at kaniyang inilagay ang luklukan ng awa sa itaas ng ibabaw ng kaban:",
+    "reference": "Exodo 40:20 (ADB)",
+    "connected_to": "Exodo 40:21",
+    "connected_from": "Exodo 40:19"
+  },
+  {
+    "text": "At kaniyang ipinasok ang kaban sa tabernakulo, at inayos ang lambong ng tabing, at tinabingan ang kaban ng patotoo: gaya ng iniutos ng Panginoon kay Moises.",
+    "reference": "Exodo 40:21 (ADB)",
+    "connected_to": "Exodo 40:22",
+    "connected_from": "Exodo 40:20"
+  },
+  {
+    "text": "At kaniyang inilagay ang dulang sa loob ng tabernakulo ng kapisanan, sa dakong hilagaan ng tabernakulo, sa labas ng lambong.",
+    "reference": "Exodo 40:22 (ADB)",
+    "connected_to": "Exodo 40:23",
+    "connected_from": "Exodo 40:21"
+  },
+  {
+    "text": "At kaniyang inayos ang tinapay sa ibabaw ng dulang sa harap ng Panginoon, gaya ng iniutos ng Panginoon kay Moises.",
+    "reference": "Exodo 40:23 (ADB)",
+    "connected_to": "Exodo 40:24",
+    "connected_from": "Exodo 40:22"
+  },
+  {
+    "text": "At kaniyang inilagay ang kandelero sa tabernakulo ng kapisanan, sa tapat ng dulang, sa tagilirang timugan ng tabernakulo.",
+    "reference": "Exodo 40:24 (ADB)",
+    "connected_to": "Exodo 40:25",
+    "connected_from": "Exodo 40:23"
+  },
+  {
+    "text": "At kaniyang sinindihan ang mga ilawan sa harap ng Panginoon; gaya ng iniutos ng Panginoon kay Moises.",
+    "reference": "Exodo 40:25 (ADB)",
+    "connected_to": "Exodo 40:26",
+    "connected_from": "Exodo 40:24"
+  },
+  {
+    "text": "At kaniyang inilagay ang dambanang ginto sa loob ng tabernakulo ng kapisanan sa harap ng lambong.",
+    "reference": "Exodo 40:26 (ADB)",
+    "connected_to": "Exodo 40:27",
+    "connected_from": "Exodo 40:25"
+  },
+  {
+    "text": "At siya'y nagsunog doon ng kamangyan na mabangong espesia; gaya ng iniutos ng Panginoon kay Moises.",
+    "reference": "Exodo 40:27 (ADB)",
+    "connected_to": "Exodo 40:28",
+    "connected_from": "Exodo 40:26"
+  },
+  {
+    "text": "At kaniyang inilagay ang tabing ng pintuan sa tabernakulo.",
+    "reference": "Exodo 40:28 (ADB)",
+    "connected_to": "Exodo 40:29",
+    "connected_from": "Exodo 40:27"
+  },
+  {
+    "text": "At kaniyang inilagay ang dambanang pagsusunugan ng handog sa pintuan ng tabernakulo ng kapisanan, at pinaghandugan ng handog na susunugin, at ng handog na harina; gaya ng iniutos ng Panginoon kay Moises.",
+    "reference": "Exodo 40:29 (ADB)",
+    "connected_to": "Exodo 40:30",
+    "connected_from": "Exodo 40:28"
+  },
+  {
+    "text": "At kaniyang inilagay ang hugasan sa pagitan ng tabernakulo, ng kapisanan at ng dambana, at sinidlan ng tubig upang paghugasan.",
+    "reference": "Exodo 40:30 (ADB)",
+    "connected_to": "Exodo 40:31",
+    "connected_from": "Exodo 40:29"
+  },
+  {
+    "text": "At si Moises at si Aaron at ang kaniyang mga anak, ay nagsipaghugas doon ng kanilang mga kamay at ng kanilang mga paa;",
+    "reference": "Exodo 40:31 (ADB)",
+    "connected_to": "Exodo 40:32",
+    "connected_from": "Exodo 40:30"
+  },
+  {
+    "text": "Pagka sila'y pumapasok sa tabernakulo ng kapisanan, at pagka sila'y lumalapit sa dambana ay naghuhugas sila: gaya ng iniutos ng Panginoon kay Moises.",
+    "reference": "Exodo 40:32 (ADB)",
+    "connected_to": "Exodo 40:33",
+    "connected_from": "Exodo 40:31"
+  },
+  {
+    "text": "At kaniyang inilagay ang looban sa palibot ng tabernakulo at ng dambana, at iniayos ang tabing ng pintuang daan ng looban. Gayon tinapos ni Moises ang gawain.",
+    "reference": "Exodo 40:33 (ADB)",
+    "connected_to": "Exodo 40:34",
+    "connected_from": "Exodo 40:32"
+  },
+  {
+    "text": "Nang magkagayo'y tinakpan ng ulap ang tabernakulo ng kapisanan, at pinuno ng Panginoon ng kaluwalhatian ang tabernakulo.",
+    "reference": "Exodo 40:34 (ADB)",
+    "connected_to": "Exodo 40:35",
+    "connected_from": "Exodo 40:33"
+  },
+  {
+    "text": "At si Moises ay hindi makapasok sa tabernakulo ng kapisanan, sapagka't lumagay sa ibabaw niyaon ang ulap, at pinuspos ng Panginoon ng kaluwalhatian ang tabernakulo.",
+    "reference": "Exodo 40:35 (ADB)",
+    "connected_to": "Exodo 40:36",
+    "connected_from": "Exodo 40:34"
+  },
+  {
+    "text": "At pagka ang ulap ay napaiitaas mula sa tabernakulo, ay nagpapatuloy ang mga anak ni Israel sa kanilang buong paglalakbay:",
+    "reference": "Exodo 40:36 (ADB)",
+    "connected_to": "Exodo 40:37",
+    "connected_from": "Exodo 40:35"
+  },
+  {
+    "text": "Datapuwa't kung ang ulap ay hindi napaiitaas, ay hindi nga sila naglalakbay hanggang sa araw na napaiitaas.",
+    "reference": "Exodo 40:37 (ADB)",
+    "connected_to": "Exodo 40:38",
+    "connected_from": "Exodo 40:36"
+  },
+  {
+    "text": "Sapagka't ang ulap ng Panginoon ay nasa ibabaw ng tabernakulo sa araw, at may apoy sa loob niyaon sa gabi, sa paningin ng buong lahi ng Israel, sa kanilang buong paglalakbay.",
+    "reference": "Exodo 40:38 (ADB)",
+    "connected_from": "Exodo 40:37"
+  }
+]

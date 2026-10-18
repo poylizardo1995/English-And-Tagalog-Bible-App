@@ -1,0 +1,168 @@
+[
+  {
+    "text": "Awayin mo, Oh Panginoon, silang nagsisiaway sa akin: lumaban ka sa kanila na nagsisilaban sa akin.",
+    "reference": "Mga Awit 35:1 (ADB)",
+    "connected_to": "Mga Awit 35:2"
+  },
+  {
+    "text": "Humawak ka ng kalasag at ng longki, at tumayo ka na pinaka tulong sa akin.",
+    "reference": "Mga Awit 35:2 (ADB)",
+    "connected_to": "Mga Awit 35:3",
+    "connected_from": "Mga Awit 35:1"
+  },
+  {
+    "text": "Kumuha ka rin naman ng sibat, at tumigil ka sa daan laban sa kanila na nagsisihabol sa akin: sabihin mo sa aking kaluluwa, Ako'y iyong kaligtasan.",
+    "reference": "Mga Awit 35:3 (ADB)",
+    "connected_to": "Mga Awit 35:4",
+    "connected_from": "Mga Awit 35:2"
+  },
+  {
+    "text": "Mangahiya nawa sila, at madala sa kasiraang puri ang nagsisiusig sa aking kaluluwa: mangapabalik sila, at mangalito silang nagsisikatha ng aking kapahamakan.",
+    "reference": "Mga Awit 35:4 (ADB)",
+    "connected_to": "Mga Awit 35:5",
+    "connected_from": "Mga Awit 35:3"
+  },
+  {
+    "text": "Maging gaya nawa sila ng ipa sa unahan ng hangin, at itaboy sila ng anghel ng Panginoon.",
+    "reference": "Mga Awit 35:5 (ADB)",
+    "connected_to": "Mga Awit 35:6",
+    "connected_from": "Mga Awit 35:4"
+  },
+  {
+    "text": "Maging madilim nawa, at madulas ang kanilang daan, at habulin sila ng anghel ng Panginoon.",
+    "reference": "Mga Awit 35:6 (ADB)",
+    "connected_to": "Mga Awit 35:7",
+    "connected_from": "Mga Awit 35:5"
+  },
+  {
+    "text": "Sapagka't walang kadahilanan ay ipinagkubli nila ako ng kanilang silo sa hukay, walang kadahilanan ay nagsihukay sila para sa aking kaluluwa.",
+    "reference": "Mga Awit 35:7 (ADB)",
+    "connected_to": "Mga Awit 35:8",
+    "connected_from": "Mga Awit 35:6"
+  },
+  {
+    "text": "Dumating nawa sa kaniya ng walang anoano ang pagkapahamak; at hulihin nawa siya ng kaniyang silo na kaniyang ikinubli: mahulog nawa siya sa ikapapahamak niya.",
+    "reference": "Mga Awit 35:8 (ADB)",
+    "connected_to": "Mga Awit 35:9",
+    "connected_from": "Mga Awit 35:7"
+  },
+  {
+    "text": "At ang aking kaluluwa ay magagalak sa Panginoon: magagalak na mainam sa kaniyang pagliligtas.",
+    "reference": "Mga Awit 35:9 (ADB)",
+    "connected_to": "Mga Awit 35:10",
+    "connected_from": "Mga Awit 35:8"
+  },
+  {
+    "text": "Lahat ng aking mga buto ay magsasabi, Panginoon, sino ang gaya mo, na inililigtas ang dukha doon sa totoong malakas kay sa kaniya, Oo, ang dukha at ang mapagkailangan sa sumasamsam sa kaniya?",
+    "reference": "Mga Awit 35:10 (ADB)",
+    "connected_to": "Mga Awit 35:11",
+    "connected_from": "Mga Awit 35:9"
+  },
+  {
+    "text": "Mga saksing masasama ay nagsisitayo; sila'y nangagtatanong sa akin ng mga bagay na di ko nalalaman.",
+    "reference": "Mga Awit 35:11 (ADB)",
+    "connected_to": "Mga Awit 35:12",
+    "connected_from": "Mga Awit 35:10"
+  },
+  {
+    "text": "Iginaganti nila sa akin ay kasamaan sa mabuti, sa pagpapaulila ng aking kaluluwa.",
+    "reference": "Mga Awit 35:12 (ADB)",
+    "connected_to": "Mga Awit 35:13",
+    "connected_from": "Mga Awit 35:11"
+  },
+  {
+    "text": "Nguni't tungkol sa akin, nang sila'y may sakit, ang aking suot ay magaspang na kayo: aking pinagdalamhati ang aking kaluluwa ng pagaayuno; at ang aking dalangin ay nagbabalik sa aking sariling sinapupunan.",
+    "reference": "Mga Awit 35:13 (ADB)",
+    "connected_to": "Mga Awit 35:14",
+    "connected_from": "Mga Awit 35:12"
+  },
+  {
+    "text": "Ako'y nagasal na tila aking kaibigan o aking kapatid: ako'y yumuyukong tumatangis na tila iniiyakan ang kaniyang ina.",
+    "reference": "Mga Awit 35:14 (ADB)",
+    "connected_to": "Mga Awit 35:15",
+    "connected_from": "Mga Awit 35:13"
+  },
+  {
+    "text": "Nguni't pagka ako'y natisod sila'y nangagagalak, at nagpipisan: ang mga uslak ay nagpipisan laban sa akin, at hindi ko nalaman;",
+    "reference": "Mga Awit 35:15 (ADB)",
+    "connected_to": "Mga Awit 35:16",
+    "connected_from": "Mga Awit 35:14"
+  },
+  {
+    "text": "Gaya ng mga nanunuyang suwail sa mga kapistahan, kanilang pinagngangalit sa akin ang kanilang mga ngipin.",
+    "reference": "Mga Awit 35:16 (ADB)",
+    "connected_to": "Mga Awit 35:17",
+    "connected_from": "Mga Awit 35:15"
+  },
+  {
+    "text": "Panginoon, hanggang kailan titingin ka? Iligtas mo ang aking kaluluwa sa kanilang mga pagsira, ang aking sinta mula sa mga leon.",
+    "reference": "Mga Awit 35:17 (ADB)",
+    "connected_to": "Mga Awit 35:18",
+    "connected_from": "Mga Awit 35:16"
+  },
+  {
+    "text": "Ako'y magpapasalamat sa iyo sa dakilang kapisanan: aking pupurihin ka sa gitna ng maraming tao.",
+    "reference": "Mga Awit 35:18 (ADB)",
+    "connected_to": "Mga Awit 35:19",
+    "connected_from": "Mga Awit 35:17"
+  },
+  {
+    "text": "Huwag magalak sa akin na may kamalian ang aking mga kaaway; ni magkindat man ng mata ang nangagtatanim sa akin ng walang kadahilanan.",
+    "reference": "Mga Awit 35:19 (ADB)",
+    "connected_to": "Mga Awit 35:20",
+    "connected_from": "Mga Awit 35:18"
+  },
+  {
+    "text": "Sapagka't sila'y hindi nangagsasalita ng kapayapaan: kundi sila'y nagsisikatha ng mga magdarayang salita laban sa mga tahimik sa lupain.",
+    "reference": "Mga Awit 35:20 (ADB)",
+    "connected_to": "Mga Awit 35:21",
+    "connected_from": "Mga Awit 35:19"
+  },
+  {
+    "text": "Oo, kanilang ibinuka ng maluwang ang kanilang bibig laban sa akin; kanilang sinasabi: Aha, aha, nakita ng aming mata.",
+    "reference": "Mga Awit 35:21 (ADB)",
+    "connected_to": "Mga Awit 35:22",
+    "connected_from": "Mga Awit 35:20"
+  },
+  {
+    "text": "Iyong nakita ito, Oh Panginoon; huwag kang tumahimik, Oh Panginoon, huwag kang lumayo sa akin.",
+    "reference": "Mga Awit 35:22 (ADB)",
+    "connected_to": "Mga Awit 35:23",
+    "connected_from": "Mga Awit 35:21"
+  },
+  {
+    "text": "Kumilos ka, at ikaw ay gumising upang gawan ako ng kahatulan, sa aking usap, Dios ko at Panginoon ko.",
+    "reference": "Mga Awit 35:23 (ADB)",
+    "connected_to": "Mga Awit 35:24",
+    "connected_from": "Mga Awit 35:22"
+  },
+  {
+    "text": "Hatulan mo ako, Oh Panginoon kong Dios, ayon sa iyong katuwiran; at huwag mo silang pagalakin sa akin.",
+    "reference": "Mga Awit 35:24 (ADB)",
+    "connected_to": "Mga Awit 35:25",
+    "connected_from": "Mga Awit 35:23"
+  },
+  {
+    "text": "Huwag silang magsabi sa kanilang sarili: Aha, nasa namin: huwag silang magsabi: Aming sinakmal siya.",
+    "reference": "Mga Awit 35:25 (ADB)",
+    "connected_to": "Mga Awit 35:26",
+    "connected_from": "Mga Awit 35:24"
+  },
+  {
+    "text": "Mangapahiya nawa sila, at mangalito na magkakasama ang mga nangagalak sa aking pagkapahamak: manganamit nawa ng kahihiyan at kasiraang puri ang nangagmamalaki laban sa akin.",
+    "reference": "Mga Awit 35:26 (ADB)",
+    "connected_to": "Mga Awit 35:27",
+    "connected_from": "Mga Awit 35:25"
+  },
+  {
+    "text": "Magsihiyaw nawa ng kagalakan, at mangasayahan, ang nagsisilingap ng aking katuwiran: Oo, mangagsabi nawa silang palagi: Dakilain ang Panginoon, na nalulugod sa kaginhawahan ng kaniyang lingkod.",
+    "reference": "Mga Awit 35:27 (ADB)",
+    "connected_to": "Mga Awit 35:28",
+    "connected_from": "Mga Awit 35:26"
+  },
+  {
+    "text": "At ang aking dila ay mangungusap ng iyong katuwiran, at ng pagpuri sa iyo sa buong araw.",
+    "reference": "Mga Awit 35:28 (ADB)",
+    "connected_from": "Mga Awit 35:27"
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "text": "Sa araw na yaon ay parurusahan ng Panginoon, ng kaniyang matigas at malaki at matibay na tabak ang leviatan na maliksing ahas, at ang leviatan na lumilikaw na ahas, at kaniyang papatayin ang buwaya na nasa dagat.",
+    "reference": "Isaias 27:1 (ADB)",
+    "connected_to": "Isaias 27:2"
+  },
+  {
+    "text": "Sa araw na yaon: Awitin ninyo sa kaniya ang tungkol sa isang ubasang pinagkunan ng alak.",
+    "reference": "Isaias 27:2 (ADB)",
+    "connected_to": "Isaias 27:3",
+    "connected_from": "Isaias 27:1"
+  },
+  {
+    "text": "Akong Panginoon ang nagiingat; aking didiligin tuwituwina: baka saktan ng sinoman, aking iingatan gabi't araw.",
+    "reference": "Isaias 27:3 (ADB)",
+    "connected_to": "Isaias 27:4",
+    "connected_from": "Isaias 27:2"
+  },
+  {
+    "text": "Kagalitan ay hindi sumasa akin: kung makipagbaka sana ang mga dawag at mga tinik laban sa akin! akin yaong yayapakan, aking susunuging magkakasama.",
+    "reference": "Isaias 27:4 (ADB)",
+    "connected_to": "Isaias 27:5",
+    "connected_from": "Isaias 27:3"
+  },
+  {
+    "text": "O manghawak sana siya sa aking lakas, upang siya'y makipagpayapaan sa akin; oo, makipagpayapaan siya sa akin.",
+    "reference": "Isaias 27:5 (ADB)",
+    "connected_to": "Isaias 27:6",
+    "connected_from": "Isaias 27:4"
+  },
+  {
+    "text": "Sa mga araw na darating ay maguugat ang Jacob; ang Israel ay mamumulaklak at magbubuko: at pupunuin nila ng bunga ang ibabaw ng sanglibutan.",
+    "reference": "Isaias 27:6 (ADB)",
+    "connected_to": "Isaias 27:7",
+    "connected_from": "Isaias 27:5"
+  },
+  {
+    "text": "Sinaktan baga niya siya na gaya ng pagsakit niya sa mga yaon, na nanakit sa kaniya? o pinatay siya ng ayon sa pagpatay nila, na napatay niya?",
+    "reference": "Isaias 27:7 (ADB)",
+    "connected_to": "Isaias 27:8",
+    "connected_from": "Isaias 27:6"
+  },
+  {
+    "text": "Sa sukat, pagka iyong pinayayaon siya, ikaw ay nakikipagtalo sa kaniya; kaniyang binago siya ng kaniyang pagispis na hihip sa kaarawan ng silanganang hangin.",
+    "reference": "Isaias 27:8 (ADB)",
+    "connected_to": "Isaias 27:9",
+    "connected_from": "Isaias 27:7"
+  },
+  {
+    "text": "Kaya't sa pamamagitan nito ay malilinis ang kasamaan ng Jacob, at ito ang buong bunga ng pagaalis ng kaniyang kasalanan: pagka kaniyang ginagawa ang mga bato ng dambana na gaya ng mga malambot na batong naluluray upang ang mga Asera at ang mga Iarawang araw ay hindi na matatayo.",
+    "reference": "Isaias 27:9 (ADB)",
+    "connected_to": "Isaias 27:10",
+    "connected_from": "Isaias 27:8"
+  },
+  {
+    "text": "Sapagka't ang bayang nakukutaan ay nagiisa, isang tahanang pinabayaan at iniwanan gaya ng ilang: doon manginginain ang guya, at doon hihiga, at kakainin ang mga sanga niyaon.",
+    "reference": "Isaias 27:10 (ADB)",
+    "connected_to": "Isaias 27:11",
+    "connected_from": "Isaias 27:9"
+  },
+  {
+    "text": "Pagka ang mga sanga niyaon ay nangatuyo, babaliin; paroroonan ng mga babae at igagatong sa apoy: sapagka't bayan na walang unawa; kaya't ang gumawa sa kanila ay hindi magdadalang habag sa kanila, at ang naganyo sa kanila ay hindi magpapakita sa kanila ng lingap.",
+    "reference": "Isaias 27:11 (ADB)",
+    "connected_to": "Isaias 27:12",
+    "connected_from": "Isaias 27:10"
+  },
+  {
+    "text": "At mangyayari sa araw na yaon, na lalagasin ng Panginoon ang bunga niyaon mula sa agos ng ilog hanggang sa batis ng Egipto, at kayo'y mapipisang isa isa, Oh kayong mga anak ni Israel.",
+    "reference": "Isaias 27:12 (ADB)",
+    "connected_to": "Isaias 27:13",
+    "connected_from": "Isaias 27:11"
+  },
+  {
+    "text": "At mangyayari sa araw na yaon, na ang malaking pakakak ay hihipan; at silang nangapapahamak sa lupain ng Asiria ay magsisiparito, at silang mga tapon sa lupain ng Egipto; at sila'y magsisisamba sa Panginoon sa banal na bundok ng Jerusalem.",
+    "reference": "Isaias 27:13 (ADB)",
+    "connected_from": "Isaias 27:12"
+  }
+]

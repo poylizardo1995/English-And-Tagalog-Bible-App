@@ -1,0 +1,108 @@
+[
+  {
+    "text": "At sinabi sa kaniya ni Noemi na kaniyang biyanan, Anak ko, hindi ba kita ihahanap ng kapahingahan, na ikabubuti mo?",
+    "reference": "Ruth 3:1 (ADB)",
+    "connected_to": "Ruth 3:2"
+  },
+  {
+    "text": "At ngayo'y wala ba rito si Booz na ating kamaganak, na ang kaniyang mga alila ay siya mong kinasama? Narito, kaniyang pahahanginan ang sebada ngayong gabi sa giikan.",
+    "reference": "Ruth 3:2 (ADB)",
+    "connected_to": "Ruth 3:3",
+    "connected_from": "Ruth 3:1"
+  },
+  {
+    "text": "Maligo ka nga, at magpahid ka ng langis, at magbihis ka at bumaba ka sa giikan: nguni't huwag kang pakilala sa lalake, hanggang siya'y makakain at makainom.",
+    "reference": "Ruth 3:3 (ADB)",
+    "connected_to": "Ruth 3:4",
+    "connected_from": "Ruth 3:2"
+  },
+  {
+    "text": "At mangyayari, paghiga niya, na iyong tatandaan ang dakong kaniyang hihigaan, at ikaw ay papasok, at iyong alisan ng takip ang kaniyang mga paa, at mahiga ka; at sasabihin niya sa iyo kung ano ang iyong gagawin.",
+    "reference": "Ruth 3:4 (ADB)",
+    "connected_to": "Ruth 3:5",
+    "connected_from": "Ruth 3:3"
+  },
+  {
+    "text": "At sinabi niya sa kaniya, Lahat ng iyong sinasabi sa akin ay aking gagawin.",
+    "reference": "Ruth 3:5 (ADB)",
+    "connected_to": "Ruth 3:6",
+    "connected_from": "Ruth 3:4"
+  },
+  {
+    "text": "At siya'y bumaba sa giikan, at ginawa niya ang ayon sa buong iniutos sa kaniya ng kaniyang biyanan.",
+    "reference": "Ruth 3:6 (ADB)",
+    "connected_to": "Ruth 3:7",
+    "connected_from": "Ruth 3:5"
+  },
+  {
+    "text": "At nang si Booz ay makakain at makainom, at ang kaniyang puso'y maligayahan, siya'y yumaong nahiga sa dulo ng bunton ng trigo; at siya'y naparoong marahan, at inalisan ng takip ang kaniyang mga paa, at siya'y nahiga.",
+    "reference": "Ruth 3:7 (ADB)",
+    "connected_to": "Ruth 3:8",
+    "connected_from": "Ruth 3:6"
+  },
+  {
+    "text": "At nangyari, sa hating gabi, na ang lalake ay natakot at pumihit: at, narito, isang babae ay nakahiga sa kaniyang paanan.",
+    "reference": "Ruth 3:8 (ADB)",
+    "connected_to": "Ruth 3:9",
+    "connected_from": "Ruth 3:7"
+  },
+  {
+    "text": "At sinabi niya, Sino ka? At siya'y sumagot, Ako'y si Ruth, na iyong lingkod: iladlad mo nga ang iyong kumot sa iyong lingkod; sapagka't ikaw ay malapit na kamaganak.",
+    "reference": "Ruth 3:9 (ADB)",
+    "connected_to": "Ruth 3:10",
+    "connected_from": "Ruth 3:8"
+  },
+  {
+    "text": "At kaniyang sinabi, Pagpalain ka nawa ng Panginoon, anak ko: ikaw ay nagpakita ng higit na kagandahang loob sa huli kay sa ng una, sa hindi mo pagsunod sa mga bagong tao maging sa dukha o sa mayaman.",
+    "reference": "Ruth 3:10 (ADB)",
+    "connected_to": "Ruth 3:11",
+    "connected_from": "Ruth 3:9"
+  },
+  {
+    "text": "At ngayon, anak ko, huwag kang matakot; gagawin ko sa iyo ang lahat na iyong sinasabi, sapagka't buong bayan ng aking bayan ay nakakaalam na ikaw ay isang babaing may bait.",
+    "reference": "Ruth 3:11 (ADB)",
+    "connected_to": "Ruth 3:12",
+    "connected_from": "Ruth 3:10"
+  },
+  {
+    "text": "At tunay nga na ako'y kamaganak na malapit; gayon man ay may kamaganak na lalong malapit kay sa akin.",
+    "reference": "Ruth 3:12 (ADB)",
+    "connected_to": "Ruth 3:13",
+    "connected_from": "Ruth 3:11"
+  },
+  {
+    "text": "Maghintay ka ngayong gabi, at mangyayari sa kinaumagahan, na kung kaniyang tutuparin sa iyo ang bahagi ng pagkakamaganak, ay mabuti; gawin niya ang bahagi ng pagkakamaganak: nguni't kundi niya gagawin ang bahagi ng pagkakamaganak sa iyo, ay gagawin ko nga ang bahagi ng pagkakamaganak sa iyo, kung paano ang Panginoon ay nabubuhay: mahiga ka nga hanggang kinaumagahan.",
+    "reference": "Ruth 3:13 (ADB)",
+    "connected_to": "Ruth 3:14",
+    "connected_from": "Ruth 3:12"
+  },
+  {
+    "text": "At siya'y nahiga sa kaniyang paanan hanggang kinaumagahan: at siya'y bumangong maaga bago magkakilala ang isa't isa. Sapagka't kaniyang sinabi, Huwag maalaman na ang babae ay naparoon sa giikan.",
+    "reference": "Ruth 3:14 (ADB)",
+    "connected_to": "Ruth 3:15",
+    "connected_from": "Ruth 3:13"
+  },
+  {
+    "text": "At kaniyang sinabi, Dalhin mo rito ang balabal na nasa ibabaw mo at hawakan; at hinawakan niya; at siya'y tumakal ng anim na takal na sebada, at isinunong sa kaniya; at siya'y pumasok sa bayan.",
+    "reference": "Ruth 3:15 (ADB)",
+    "connected_to": "Ruth 3:16",
+    "connected_from": "Ruth 3:14"
+  },
+  {
+    "text": "At nang siya'y pumaroon sa kaniyang biyanan, ay sinabi niya, Ano nga, anak ko? At isinaysay niya sa kaniya ang lahat na ginawa sa kaniya ng lalake.",
+    "reference": "Ruth 3:16 (ADB)",
+    "connected_to": "Ruth 3:17",
+    "connected_from": "Ruth 3:15"
+  },
+  {
+    "text": "At sinabi niya, Ang anim na takal na sebadang ito ay ibinigay niya sa akin; sapagka't kaniyang sinabi, Huwag kang pumaroong walang dala sa iyong biyanan.",
+    "reference": "Ruth 3:17 (ADB)",
+    "connected_to": "Ruth 3:18",
+    "connected_from": "Ruth 3:16"
+  },
+  {
+    "text": "Nang magkagayo'y sinabi niya, Maupo kang tahimik, anak ko, hanggang sa iyong maalaman kung paanong kararatnan ng bagay: sapagka't ang lalaking yaon ay hindi magpapahinga, hanggang sa kaniyang matapos ang bagay sa araw na ito.",
+    "reference": "Ruth 3:18 (ADB)",
+    "connected_from": "Ruth 3:17"
+  }
+]

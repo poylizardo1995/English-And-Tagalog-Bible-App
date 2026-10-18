@@ -1,0 +1,96 @@
+[
+  {
+    "text": " Ang Salita ng Panginoon na dumating kay Mikas na Morastita, nang mga kaarawan ni Jotham, ni Achaz, at ni Ezechias, na mga hari sa Juda, na nakakita ng tungkol sa Samaria at sa Jerusalem.",
+    "reference": "Mikas 1:1 (ADB)",
+    "connected_to": "Mikas 1:2"
+  },
+  {
+    "text": "Dinggin ninyong mga bayan, ninyong lahat; dinggin mo, Oh lupa, at ng lahat na nasa iyo: at ang Panginoong Dios ay maging saksi laban sa iyo, ang Panginoon mula sa kaniyang banal na templo.",
+    "reference": "Mikas 1:2 (ADB)",
+    "connected_to": "Mikas 1:3",
+    "connected_from": "Mikas 1:1"
+  },
+  {
+    "text": "Sapagka't, narito, ang Panginoo'y lumalabas sa kaniyang dako, at bababa, at yayapak sa mga mataas na dako ng lupa.",
+    "reference": "Mikas 1:3 (ADB)",
+    "connected_to": "Mikas 1:4",
+    "connected_from": "Mikas 1:2"
+  },
+  {
+    "text": "At ang mga bundok ay mangatutunaw sa ilalim niya, at ang mga libis ay mauupos, na parang pagkit sa harap ng apoy, parang tubig na bumubuhos mula sa isang bundok.",
+    "reference": "Mikas 1:4 (ADB)",
+    "connected_to": "Mikas 1:5",
+    "connected_from": "Mikas 1:3"
+  },
+  {
+    "text": "Dahil sa pagsalansang ng Jacob ang lahat na ito, at dahil sa mga kasalanan ng sangbahayan ni Israel, Ano ang pagsalangsang ng Jacob? hindi baga ang Samaria? at ano ang mga mataas na dako ng Juda? di baga ang Jerusalem?",
+    "reference": "Mikas 1:5 (ADB)",
+    "connected_to": "Mikas 1:6",
+    "connected_from": "Mikas 1:4"
+  },
+  {
+    "text": "Kaya't gagawin ko ang Samaria na parang bunton sa parang, at parang mga pananim sa ubasan; at aking ilalagpak ang mga bato niyaon sa libis, at aking ililitaw ang mga patibayan niyaon.",
+    "reference": "Mikas 1:6 (ADB)",
+    "connected_to": "Mikas 1:7",
+    "connected_from": "Mikas 1:5"
+  },
+  {
+    "text": "At lahat niyang larawang inanyuan ay pagpuputolputulin, at ang lahat niyang kaupahan ay susupukin sa apoy, at ang lahat niyang diosdiosan ay aking ihahandusay na sira; sapagka't sa kaupahan sa isang patutot ay kaniyang mga pinisan, at sa kaupahan sa isang patutot ay mangauuwi.",
+    "reference": "Mikas 1:7 (ADB)",
+    "connected_to": "Mikas 1:8",
+    "connected_from": "Mikas 1:6"
+  },
+  {
+    "text": "Dahil dito tataghoy ako, at mananambitan; ako'y yayaong hinubdan at hubad; ako'y uungal na parang chakal, at mananangis na gaya ng mga avestruz.",
+    "reference": "Mikas 1:8 (ADB)",
+    "connected_to": "Mikas 1:9",
+    "connected_from": "Mikas 1:7"
+  },
+  {
+    "text": "Sapagka't ang kaniyang mga sugat ay walang kagamutan; sapagka't dumarating hanggang sa Juda; umaabot hanggang sa pintuang-bayan ng aking bansa, hanggang sa Jerusalem.",
+    "reference": "Mikas 1:9 (ADB)",
+    "connected_to": "Mikas 1:10",
+    "connected_from": "Mikas 1:8"
+  },
+  {
+    "text": "Huwag ninyong saysayin sa Gath huwag kayong pakaiyak: sa Bethle-Aphra gumumon ako sa alabok.",
+    "reference": "Mikas 1:10 (ADB)",
+    "connected_to": "Mikas 1:11",
+    "connected_from": "Mikas 1:9"
+  },
+  {
+    "text": "Magdaan ka, Oh nananahan sa Saphir, sa kahubaran at kahihiyan: ang nananahan sa Haanan ay hindi lumalabas; ang taghoy ng Beth-esel ay magaalis sa iyo ng pangalalay niyaon.",
+    "reference": "Mikas 1:11 (ADB)",
+    "connected_to": "Mikas 1:12",
+    "connected_from": "Mikas 1:10"
+  },
+  {
+    "text": "Sapagka't ang nananahan sa Maroth ay naghihintay na mainam ng ikabubuti, sapagka't ang kasamaan ay bumaba mula sa Panginoon hanggang sa pintuang-bayan ng Jerusalem.",
+    "reference": "Mikas 1:12 (ADB)",
+    "connected_to": "Mikas 1:13",
+    "connected_from": "Mikas 1:11"
+  },
+  {
+    "text": "Isingkaw mo ang karo sa maliksing kabayo, Oh nananahan sa Lachis: siya ang pasimula ng kasalanan sa anak na babae ng Sion: sapagka't ang pagsalangsang ng Israel ay nasumpungan sa iyo.",
+    "reference": "Mikas 1:13 (ADB)",
+    "connected_to": "Mikas 1:14",
+    "connected_from": "Mikas 1:12"
+  },
+  {
+    "text": "Kaya't ikaw ay magbibigay ng kaloob sa pagpapaalam sa Moresethgath: ang mga bahay sa Achzib ay magiging karayaang bagay sa mga hari sa Israel.",
+    "reference": "Mikas 1:14 (ADB)",
+    "connected_to": "Mikas 1:15",
+    "connected_from": "Mikas 1:13"
+  },
+  {
+    "text": "Dadalhin ko pa sa iyo, Oh nananahan sa Maresah ang magaari sa iyo: ang kaluwalhatian ng Israel ay darating hanggang sa Adullam.",
+    "reference": "Mikas 1:15 (ADB)",
+    "connected_to": "Mikas 1:16",
+    "connected_from": "Mikas 1:14"
+  },
+  {
+    "text": "Magpakakalbo ka, at pagupit ka dahil sa mga anak ng iyong kalayawan: palakihin mo ang iyong pagkakalbo na gaya ng aguila; sapagka't sila'y nangapasa pagkabihag mula sa iyo.",
+    "reference": "Mikas 1:16 (ADB)",
+    "connected_from": "Mikas 1:15"
+  }
+]

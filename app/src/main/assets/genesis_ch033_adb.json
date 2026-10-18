@@ -1,0 +1,120 @@
+[
+  {
+    "text": "At itiningin ni Jacob ang kaniyang mga mata at tumingin, at, narito, si Esau ay dumarating, at kasama niya'y apat na raang tao. At kaniyang binahagi ang mga bata kay Lea at kay Raquel, at sa dalawang alilang babae.",
+    "reference": "Genesis 33:1 (ADB)",
+    "connected_to": "Genesis 33:2"
+  },
+  {
+    "text": "At inilagay niya ang mga alila na kasama ng kanilang mga anak na pinakapanguna, at si Lea na kasama ng kaniyang mga anak na pinakapangalawa, at si Raquel at si Jose na pinakahuli.",
+    "reference": "Genesis 33:2 (ADB)",
+    "connected_to": "Genesis 33:3",
+    "connected_from": "Genesis 33:1"
+  },
+  {
+    "text": "At siya naman ay lumagpas sa unahan nila, at yumukod sa lupa na makapito, hanggang sa nalapit sa kaniyang kapatid.",
+    "reference": "Genesis 33:3 (ADB)",
+    "connected_to": "Genesis 33:4",
+    "connected_from": "Genesis 33:2"
+  },
+  {
+    "text": "At tumakbo si Esau na sinalubong siya, at niyakap siya at niyapos siya sa leeg, at hinagkan siya: at nagiyakan,",
+    "reference": "Genesis 33:4 (ADB)",
+    "connected_to": "Genesis 33:5",
+    "connected_from": "Genesis 33:3"
+  },
+  {
+    "text": "At itiningin ni Esau ang mga mata niya, at nakita ang mga babae at ang mga bata, at sinabi, Sinosino itong mga kasama mo? At kaniyang sinabi, Ang mga anak na ipinagkaloob ng Dios sa iyong lingkod.",
+    "reference": "Genesis 33:5 (ADB)",
+    "connected_to": "Genesis 33:6",
+    "connected_from": "Genesis 33:4"
+  },
+  {
+    "text": "Nang magkagayo'y nagsilapit ang mga alilang babae, sila at ang kanilang mga anak, at nagsiyukod.",
+    "reference": "Genesis 33:6 (ADB)",
+    "connected_to": "Genesis 33:7",
+    "connected_from": "Genesis 33:5"
+  },
+  {
+    "text": "At lumapit din si Lea at ang kaniyang mga anak, at nagsiyukod: at pagkatapos ay nagsilapit si Jose at si Raquel, at nagsiyukod.",
+    "reference": "Genesis 33:7 (ADB)",
+    "connected_to": "Genesis 33:8",
+    "connected_from": "Genesis 33:6"
+  },
+  {
+    "text": "At kaniyang sinabi, Anong palagay mo sa buong karamihang ito na nasumpungan ko? At kaniyang sinabi, Nang makasundo ng biyaya sa paningin ng aking panginoon.",
+    "reference": "Genesis 33:8 (ADB)",
+    "connected_to": "Genesis 33:9",
+    "connected_from": "Genesis 33:7"
+  },
+  {
+    "text": "At sinabi ni Esau, Mayroon akong kasiya; kapatid ko, ariin mo ang iyo.",
+    "reference": "Genesis 33:9 (ADB)",
+    "connected_to": "Genesis 33:10",
+    "connected_from": "Genesis 33:8"
+  },
+  {
+    "text": "At sinabi sa kaniya ni Jacob, Hindi, ipinamamanhik ko sa iyo, na kung ngayo'y nakasundo ako ng biyaya sa iyong paningin, ay tanggapin mo nga ang aking kaloob sa aking kamay: yamang nakita ko ang iyong mukha, na gaya ng nakakakita ng mukha ng Dios, at ikaw ay nalugod sa akin.",
+    "reference": "Genesis 33:10 (ADB)",
+    "connected_to": "Genesis 33:11",
+    "connected_from": "Genesis 33:9"
+  },
+  {
+    "text": "Tanggapin mo, ipinamamanhik ko sa iyo, ang kaloob na dala sa iyo; sapagka't ipinagkaloob sa akin ng Dios, at mayroon ako ng lahat. At ipinilit sa kaniya, at kaniyang tinanggap.",
+    "reference": "Genesis 33:11 (ADB)",
+    "connected_to": "Genesis 33:12",
+    "connected_from": "Genesis 33:10"
+  },
+  {
+    "text": "At kaniyang sinabi, Yumaon tayo at tayo'y lumakad, at ako'y mangunguna sa iyo.",
+    "reference": "Genesis 33:12 (ADB)",
+    "connected_to": "Genesis 33:13",
+    "connected_from": "Genesis 33:11"
+  },
+  {
+    "text": "At sinabi niya sa kaniya, Nalalaman ng aking panginoon na ang mga bata ay mahihina pa at ang mga kawan at ang mga baka ay nagpapasuso: at kung ipagmadali sa isa lamang araw ay mamamatay ang lahat ng kawan.",
+    "reference": "Genesis 33:13 (ADB)",
+    "connected_to": "Genesis 33:14",
+    "connected_from": "Genesis 33:12"
+  },
+  {
+    "text": "Magpauna ang aking panginoon sa kaniyang lingkod: at ako'y mamamatnubay na dahandahan, ayon sa hakbang ng mga hayop na nasa aking unahan, at ng hakbang ng mga bata, hanggang sa makarating ako sa aking panginoon sa Seir.",
+    "reference": "Genesis 33:14 (ADB)",
+    "connected_to": "Genesis 33:15",
+    "connected_from": "Genesis 33:13"
+  },
+  {
+    "text": "At sinabi ni Esau, Pahintulutan mong iwan ko sa iyo ang ilan sa mga taong kasama ko. At kaniyang sinabi, Ano pang dahil nito? Makasundo nawa ako ng biyaya sa paningin ng aking panginoon.",
+    "reference": "Genesis 33:15 (ADB)",
+    "connected_to": "Genesis 33:16",
+    "connected_from": "Genesis 33:14"
+  },
+  {
+    "text": "Gayon nagbalik si Esau ng araw ding yaon sa kaniyang lakad sa Seir.",
+    "reference": "Genesis 33:16 (ADB)",
+    "connected_to": "Genesis 33:17",
+    "connected_from": "Genesis 33:15"
+  },
+  {
+    "text": "At si Jacob ay naglakbay sa Succoth, at nagtayo ng isang bahay para sa kaniya, at iginawa niya ng mga balag ang kaniyang hayop: kaya't tinawag ang pangalan ng dakong yaon na Succoth.",
+    "reference": "Genesis 33:17 (ADB)",
+    "connected_to": "Genesis 33:18",
+    "connected_from": "Genesis 33:16"
+  },
+  {
+    "text": "At dumating si Jacob na payapa sa bayan ng Sichem, na nasa lupain ng Canaan, nang siya'y manggaling sa Padan-aram; at siya'y humantong sa tapat ng bayan.",
+    "reference": "Genesis 33:18 (ADB)",
+    "connected_to": "Genesis 33:19",
+    "connected_from": "Genesis 33:17"
+  },
+  {
+    "text": "At binili ang pitak ng lupa na pinagtayuan ng kaniyang tolda, sa kamay ng mga anak ni Hamor, na ama ni Sichem, ng isang daang putol na salapi.",
+    "reference": "Genesis 33:19 (ADB)",
+    "connected_to": "Genesis 33:20",
+    "connected_from": "Genesis 33:18"
+  },
+  {
+    "text": "At siya'y nagtindig doon ng isang dambana, at tinawag niyang El-Elohe-Israel.",
+    "reference": "Genesis 33:20 (ADB)",
+    "connected_from": "Genesis 33:19"
+  }
+]

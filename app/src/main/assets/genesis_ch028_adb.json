@@ -1,0 +1,132 @@
+[
+  {
+    "text": "At tinawag ni Isaac si Jacob, at siya'y binasbasan, at siya'y pinagbilinan, na sinabi sa kaniya, Huwag kang magaasawa sa mga anak ng Canaan.",
+    "reference": "Genesis 28:1 (ADB)",
+    "connected_to": "Genesis 28:2"
+  },
+  {
+    "text": "Tumindig ka, pumaroon ka sa Padan-aram, sa bahay ni Bethuel, na ama ng iyong ina, at magasawa ka roon sa mga anak ni Laban, na kapatid na lalake ng iyong ina.",
+    "reference": "Genesis 28:2 (ADB)",
+    "connected_to": "Genesis 28:3",
+    "connected_from": "Genesis 28:1"
+  },
+  {
+    "text": "At ikaw ay pagpalain nawa ng Dios na Makapangyarihan sa lahat, at ikaw ay palaguin, at ikaw ay paramihin, upang ikaw ay maging kapisanan ng mga bayan;",
+    "reference": "Genesis 28:3 (ADB)",
+    "connected_to": "Genesis 28:4",
+    "connected_from": "Genesis 28:2"
+  },
+  {
+    "text": "At ibigay nawa sa iyo ang pagpapala kay Abraham, sa iyo, at sangpu sa iyong binhi; upang iyong ariin ang lupaing iyong pinaglakbayan, na ibinigay ng Dios kay Abraham.",
+    "reference": "Genesis 28:4 (ADB)",
+    "connected_to": "Genesis 28:5",
+    "connected_from": "Genesis 28:3"
+  },
+  {
+    "text": "At pinapagpaalam ni Isaac si Jacob: at naparoon siya sa Padan-aram kay Laban, anak ni Bethuel na taga Siria, na kapatid ni Rebeca, na ina ni Jacob at ni Esau.",
+    "reference": "Genesis 28:5 (ADB)",
+    "connected_to": "Genesis 28:6",
+    "connected_from": "Genesis 28:4"
+  },
+  {
+    "text": "Nakita nga ni Esau na binasbasan ni Isaac si Jacob, at siya'y pinaparoon sa Padan-aram, upang doon magasawa; at nang siya'y basbasan ay ipinagbilin sa kaniya, na sinasabi, Huwag kang magaasawa sa mga anak ng Canaan.",
+    "reference": "Genesis 28:6 (ADB)",
+    "connected_to": "Genesis 28:7",
+    "connected_from": "Genesis 28:5"
+  },
+  {
+    "text": "At sumunod si Jacob sa kaniyang ama at sa kaniyang ina, at naparoon sa Padan-aram;",
+    "reference": "Genesis 28:7 (ADB)",
+    "connected_to": "Genesis 28:8",
+    "connected_from": "Genesis 28:6"
+  },
+  {
+    "text": "At nakita ni Esau na hindi nakalulugod ang mga anak ng Canaan kay Isaac na kaniyang ama;",
+    "reference": "Genesis 28:8 (ADB)",
+    "connected_to": "Genesis 28:9",
+    "connected_from": "Genesis 28:7"
+  },
+  {
+    "text": "At naparoon si Esau kay Ismael, at nagasawa kay Mahaleth, anak ni Ismael, na anak ni Abraham, na kapatid na babae ni Nabaioth, bukod pa sa mga asawang mayroon na siya.",
+    "reference": "Genesis 28:9 (ADB)",
+    "connected_to": "Genesis 28:10",
+    "connected_from": "Genesis 28:8"
+  },
+  {
+    "text": "At umalis si Jacob sa Beerseba at napasa dakong Haran.",
+    "reference": "Genesis 28:10 (ADB)",
+    "connected_to": "Genesis 28:11",
+    "connected_from": "Genesis 28:9"
+  },
+  {
+    "text": "At dumating sa isang dako, at nagparaan ng buong gabi roon, sapagka't lumubog na ang araw; at kumuha ng isa sa mga bato sa dakong yaon, at inilagay sa kaniyang ulunan, at nahiga sa dakong yaon upang matulog.",
+    "reference": "Genesis 28:11 (ADB)",
+    "connected_to": "Genesis 28:12",
+    "connected_from": "Genesis 28:10"
+  },
+  {
+    "text": "At nanaginip, at narito, ang isang hagdan, na ang puno ay nasa lupa, at ang dulo ay umaabot sa langit; at narito, ang mga anghel ng Dios na nagmamanhik manaog doon.",
+    "reference": "Genesis 28:12 (ADB)",
+    "connected_to": "Genesis 28:13",
+    "connected_from": "Genesis 28:11"
+  },
+  {
+    "text": "At, narito, ang Panginoon ay nasa kataastaasan niyaon, at nagsabi, Ako ang Panginoon, ang Dios ni Abraham na iyong ama, at ang Dios ni Isaac: ang lupang kinahihigaan mo ay ibibigay ko sa iyo at sa iyong binhi;",
+    "reference": "Genesis 28:13 (ADB)",
+    "connected_to": "Genesis 28:14",
+    "connected_from": "Genesis 28:12"
+  },
+  {
+    "text": "At ang iyong binhi ay magiging parang alabok sa lupa, at kakalat ka sa kalunuran, at sa silanganan, at sa hilagaan, at sa timugan at sa iyo at sa iyong binhi ay pagpapalain ang lahat ng angkan sa lupa.",
+    "reference": "Genesis 28:14 (ADB)",
+    "connected_to": "Genesis 28:15",
+    "connected_from": "Genesis 28:13"
+  },
+  {
+    "text": "At, narito't ako'y sumasa iyo, at iingatan kita saan ka man pumaroon, at pababalikin kita sa lupaing ito sapagka't hindi kita iiwan hanggang hindi ko magawa ang sinalita ko sa iyo.",
+    "reference": "Genesis 28:15 (ADB)",
+    "connected_to": "Genesis 28:16",
+    "connected_from": "Genesis 28:14"
+  },
+  {
+    "text": "At nagising si Jacob sa kaniyang panaginip, at nagsabi, Tunay na ang Panginoon ay nasa dakong ito, at hindi ko nalalaman.",
+    "reference": "Genesis 28:16 (ADB)",
+    "connected_to": "Genesis 28:17",
+    "connected_from": "Genesis 28:15"
+  },
+  {
+    "text": "At siya'y natakot, at kaniyang sinabi, Kakilakilabot na dako ito! ito'y hindi iba kundi bahay ng Dios, at ito ang pintuan ng langit.",
+    "reference": "Genesis 28:17 (ADB)",
+    "connected_to": "Genesis 28:18",
+    "connected_from": "Genesis 28:16"
+  },
+  {
+    "text": "At si Jacob ay bumangong maaga ng kinaumagahan, at kinuha ang batong kaniyang inilagay sa ulunan niya, at kaniyang itinayo na pinakaalaala, at kaniyang binuhusan ng langis sa ibabaw.",
+    "reference": "Genesis 28:18 (ADB)",
+    "connected_to": "Genesis 28:19",
+    "connected_from": "Genesis 28:17"
+  },
+  {
+    "text": "At ang ipinangalan niya sa dakong yaon ay Betel: datapuwa't ang pangalan ng bayan nang una ay Luz.",
+    "reference": "Genesis 28:19 (ADB)",
+    "connected_to": "Genesis 28:20",
+    "connected_from": "Genesis 28:18"
+  },
+  {
+    "text": "At si Jacob ay nagpanata, na sinasabi, Kung sasaakin ang Dios, at ako'y iingatan sa daang ito na aking nilalakaran, at ako'y bibigyan ng tinapay na makakain, at damit na maisusuot,",
+    "reference": "Genesis 28:20 (ADB)",
+    "connected_to": "Genesis 28:21",
+    "connected_from": "Genesis 28:19"
+  },
+  {
+    "text": "Na ano pa't ako'y makabalik na payapa sa bahay ng aking ama, ay ang Panginoon nga ang magiging aking Dios,",
+    "reference": "Genesis 28:21 (ADB)",
+    "connected_to": "Genesis 28:22",
+    "connected_from": "Genesis 28:20"
+  },
+  {
+    "text": "At ang batong ito na aking itinayo na pinakaalaala ay magiging bahay ng Dios; at sa lahat ng ibigay mo sa akin ay walang pagsalang ang ikasangpung bahagi ay ibibigay ko sa iyo.",
+    "reference": "Genesis 28:22 (ADB)",
+    "connected_from": "Genesis 28:21"
+  }
+]

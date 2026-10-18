@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Ang Panginoon ay naghahari; siya'y nananamit ng karilagan; ang Panginoon ay nananamit ng kalakasan; siya'y nagbigkis niyaon: ang sanglibutan naman ay natatag, na hindi mababago.",
+    "reference": "Mga Awit 93:1 (ADB)",
+    "connected_to": "Mga Awit 93:2"
+  },
+  {
+    "text": "Ang luklukan mo'y natatag ng una: ikaw ay mula sa walang pasimula.",
+    "reference": "Mga Awit 93:2 (ADB)",
+    "connected_to": "Mga Awit 93:3",
+    "connected_from": "Mga Awit 93:1"
+  },
+  {
+    "text": "Ang mga baha ay nagtaas, Oh Panginoon, ang mga baha ay nagtaas ng kanilang hugong; ang mga baha ay nagtaas ng kanilang mga alon.",
+    "reference": "Mga Awit 93:3 (ADB)",
+    "connected_to": "Mga Awit 93:4",
+    "connected_from": "Mga Awit 93:2"
+  },
+  {
+    "text": "Ng higit sa mga hugong ng maraming tubig, malalakas na hampas ng alon sa dagat, ang Panginoon sa itaas ay makapangyarihan.",
+    "reference": "Mga Awit 93:4 (ADB)",
+    "connected_to": "Mga Awit 93:5",
+    "connected_from": "Mga Awit 93:3"
+  },
+  {
+    "text": "Ang iyong mga patotoo ay totoong tunay: ang kabanalan ay nararapat sa iyong bahay, Oh Panginoon, magpakailan man.",
+    "reference": "Mga Awit 93:5 (ADB)",
+    "connected_from": "Mga Awit 93:4"
+  }
+]

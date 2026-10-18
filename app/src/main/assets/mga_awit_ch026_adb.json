@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Iyong hatulan ako Oh Panginoon, sapagka't ako'y lumakad sa aking pagtatapat: ako naman ay tumiwala sa Panginoon, na walang bulay-bulay.",
+    "reference": "Mga Awit 26:1 (ADB)",
+    "connected_to": "Mga Awit 26:2"
+  },
+  {
+    "text": "Siyasatin mo ako, Oh Panginoon, at iyong subukin ako; subukin mo ang aking puso at ang aking isip.",
+    "reference": "Mga Awit 26:2 (ADB)",
+    "connected_to": "Mga Awit 26:3",
+    "connected_from": "Mga Awit 26:1"
+  },
+  {
+    "text": "Sapagka't ang iyong kagandahang-loob ay nasa harap ng aking mga mata: at ako'y lumakad sa iyong katotohanan.",
+    "reference": "Mga Awit 26:3 (ADB)",
+    "connected_to": "Mga Awit 26:4",
+    "connected_from": "Mga Awit 26:2"
+  },
+  {
+    "text": "Hindi ako naupo na kasama ng mga walang kabuluhang tao; ni papasok man ako na kasama ng mga mapagpakunwari.",
+    "reference": "Mga Awit 26:4 (ADB)",
+    "connected_to": "Mga Awit 26:5",
+    "connected_from": "Mga Awit 26:3"
+  },
+  {
+    "text": "Aking pinagtataniman ang kapisanan ng mga manggagawa ng kasamaan, at hindi ako uupo na kaumpok ng masama.",
+    "reference": "Mga Awit 26:5 (ADB)",
+    "connected_to": "Mga Awit 26:6",
+    "connected_from": "Mga Awit 26:4"
+  },
+  {
+    "text": "Aking huhugasan ang aking mga kamay sa pagkawalang sala; sa gayo'y aking lilibirin ang iyong dambana, Oh Panginoon:",
+    "reference": "Mga Awit 26:6 (ADB)",
+    "connected_to": "Mga Awit 26:7",
+    "connected_from": "Mga Awit 26:5"
+  },
+  {
+    "text": "Upang aking maiparinig ang tinig ng pagpapasalamat, at maisaysay ang lahat na iyong kagilagilalas na gawa.",
+    "reference": "Mga Awit 26:7 (ADB)",
+    "connected_to": "Mga Awit 26:8",
+    "connected_from": "Mga Awit 26:6"
+  },
+  {
+    "text": "Panginoon, aking iniibig ang tahanan ng iyong bahay, at ang dako na tinatahanan ng iyong kaluwalhatian.",
+    "reference": "Mga Awit 26:8 (ADB)",
+    "connected_to": "Mga Awit 26:9",
+    "connected_from": "Mga Awit 26:7"
+  },
+  {
+    "text": "Huwag mong isama ang aking kaluluwa sa mga makasalanan, ni ang aking buhay man sa mga mabagsik na tao:",
+    "reference": "Mga Awit 26:9 (ADB)",
+    "connected_to": "Mga Awit 26:10",
+    "connected_from": "Mga Awit 26:8"
+  },
+  {
+    "text": "Na ang mga kamay ay kinaroroonan ng kasamaan, at ang kanilang kanan ay puno ng mga suhol.",
+    "reference": "Mga Awit 26:10 (ADB)",
+    "connected_to": "Mga Awit 26:11",
+    "connected_from": "Mga Awit 26:9"
+  },
+  {
+    "text": "Nguni't tungkol sa akin ay lalakad ako sa aking pagtatapat: iyong tubusin ako, at mahabag ka sa akin.",
+    "reference": "Mga Awit 26:11 (ADB)",
+    "connected_to": "Mga Awit 26:12",
+    "connected_from": "Mga Awit 26:10"
+  },
+  {
+    "text": "Ang aking paa ay nakatayo sa isang panatag na dako: sa mga kapisanan ay pupurihin ko ang Panginoon.",
+    "reference": "Mga Awit 26:12 (ADB)",
+    "connected_from": "Mga Awit 26:11"
+  }
+]

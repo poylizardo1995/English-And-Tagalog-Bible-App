@@ -1,0 +1,180 @@
+[
+  {
+    "text": "At nangyari, nang siya'y makatapos na magsalita kay Saul, na ang kaluluwa ni Jonathan ay nalakip sa kaluluwa ni David, at minahal ni Jonathan siya na gaya ng kaniyang sariling kaluluwa.",
+    "reference": "1 Samuel 18:1 (ADB)",
+    "connected_to": "1 Samuel 18:2"
+  },
+  {
+    "text": "At kinuha siya ni Saul nang araw na yaon, at hindi na siya tinulutang umuwi sa bahay ng kaniyang ama.",
+    "reference": "1 Samuel 18:2 (ADB)",
+    "connected_to": "1 Samuel 18:3",
+    "connected_from": "1 Samuel 18:1"
+  },
+  {
+    "text": "Nang magkagayo'y si Jonathan at si David ay nagtibay ng isang tipan, sapagka't minahal niya siya na gaya ng kaniyang sariling kaluluwa.",
+    "reference": "1 Samuel 18:3 (ADB)",
+    "connected_to": "1 Samuel 18:4",
+    "connected_from": "1 Samuel 18:2"
+  },
+  {
+    "text": "At hinubad ni Jonathan ang kaniyang balabal na nakasuot sa kaniya, at ibinigay kay David, at ang kaniyang kasuutan pati ng kaniyang tabak, at ng kaniyang busog at ng kaniyang pamigkis.",
+    "reference": "1 Samuel 18:4 (ADB)",
+    "connected_to": "1 Samuel 18:5",
+    "connected_from": "1 Samuel 18:3"
+  },
+  {
+    "text": "At lumalabas si David saan man suguin ni Saul, at siya'y nagpakabait: at inilagay ni Saul siya sa mga lalaking mangdidigma, at minabuti ng paningin ng buong bayan, at gayon din ng paningin ng mga lingkod ni Saul.",
+    "reference": "1 Samuel 18:5 (ADB)",
+    "connected_to": "1 Samuel 18:6",
+    "connected_from": "1 Samuel 18:4"
+  },
+  {
+    "text": "At nangyari pagdating nila, nang bumalik si David mula sa pagpatay sa Filisteo, na ang mga babae ay lumabas mula sa lahat ng mga bayan ng Israel, na nagaawitan at nagsasayawan, upang salubungin ang haring si Saul, ng mga pandereta, ng kagalakan, at ng panugtog ng tugtugin.",
+    "reference": "1 Samuel 18:6 (ADB)",
+    "connected_to": "1 Samuel 18:7",
+    "connected_from": "1 Samuel 18:5"
+  },
+  {
+    "text": "At nagaawitan ang mga babae sa kanilang pagtugtog, at sinasabi, Pinatay ni Saul ang kaniyang libolibo, At ni David ang kaniyang laksa-laksa.",
+    "reference": "1 Samuel 18:7 (ADB)",
+    "connected_to": "1 Samuel 18:8",
+    "connected_from": "1 Samuel 18:6"
+  },
+  {
+    "text": "At nagalit na mainam si Saul at ang sabing ito ay isinama niya ng loob; at kaniyang sinabi, Kanilang inilagay kay David ay laksalaksa, at sa akin ay kanilang inilagay ang libolibo lamang: at ano na lamang ang kaniyang tatangkilikin kundi ang kaharian?",
+    "reference": "1 Samuel 18:8 (ADB)",
+    "connected_to": "1 Samuel 18:9",
+    "connected_from": "1 Samuel 18:7"
+  },
+  {
+    "text": "At inirapan ni Saul si David mula sa araw na yaon.",
+    "reference": "1 Samuel 18:9 (ADB)",
+    "connected_to": "1 Samuel 18:10",
+    "connected_from": "1 Samuel 18:8"
+  },
+  {
+    "text": "At nangyari nang kinabukasan, na ang masamang espiritu na mula sa Dios ay dumating na makapangyarihan kay Saul, at siya'y nanghula sa gitna ng bahay: at si David ay tumugtog ng kaniyang kamay, gaya ng kaniyang ginagawa araw-araw; at hawak ni Saul ang kaniyang sibat sa kaniyang kamay.",
+    "reference": "1 Samuel 18:10 (ADB)",
+    "connected_to": "1 Samuel 18:11",
+    "connected_from": "1 Samuel 18:9"
+  },
+  {
+    "text": "At inihagis ni Saul ang sibat; sapagka't kaniyang sinabi, Aking tutuhugin si David sa dinding. At tumanan si David sa kaniyang harap na makalawa.",
+    "reference": "1 Samuel 18:11 (ADB)",
+    "connected_to": "1 Samuel 18:12",
+    "connected_from": "1 Samuel 18:10"
+  },
+  {
+    "text": "At natakot si Saul kay David, sapagka't ang Panginoon ay sumasakaniya, at nahiwalay na kay Saul.",
+    "reference": "1 Samuel 18:12 (ADB)",
+    "connected_to": "1 Samuel 18:13",
+    "connected_from": "1 Samuel 18:11"
+  },
+  {
+    "text": "Kaya't inihiwalay ni Saul siya sa kaniya, at siya'y ginawa niyang punong kawal sa isang libo; at siya'y naglalabas pumasok sa harap ng bayan.",
+    "reference": "1 Samuel 18:13 (ADB)",
+    "connected_to": "1 Samuel 18:14",
+    "connected_from": "1 Samuel 18:12"
+  },
+  {
+    "text": "Nagpakabait si David sa lahat ng kaniyang kilos; at ang Panginoon ay sumasakaniya.",
+    "reference": "1 Samuel 18:14 (ADB)",
+    "connected_to": "1 Samuel 18:15",
+    "connected_from": "1 Samuel 18:13"
+  },
+  {
+    "text": "At nang makita ni Saul na siya'y nagpakabait, siya'y natakot sa kaniya.",
+    "reference": "1 Samuel 18:15 (ADB)",
+    "connected_to": "1 Samuel 18:16",
+    "connected_from": "1 Samuel 18:14"
+  },
+  {
+    "text": "Nguni't minamahal ng buong Israel at Juda si David; sapagka't siya'y naglalabas pumasok sa harap nila.",
+    "reference": "1 Samuel 18:16 (ADB)",
+    "connected_to": "1 Samuel 18:17",
+    "connected_from": "1 Samuel 18:15"
+  },
+  {
+    "text": "At sinabi ni Saul kay David, Narito ang aking lalong matandang anak na babae na si Merab; siya'y aking ibibigay sa iyo na asawa: magpakatapang ka lamang dahil sa akin, at iyong ilaban ang mga pagbabaka ng Panginoon. Sapagka't sinabi ni Saul, Huwag pagbuhatan siya ng aking kamay, kundi ang kamay ng mga Filisteo, ang magbuhat sa kaniya.",
+    "reference": "1 Samuel 18:17 (ADB)",
+    "connected_to": "1 Samuel 18:18",
+    "connected_from": "1 Samuel 18:16"
+  },
+  {
+    "text": "At sinabi ni David kay Saul, Sino ako at ano ang aking buhay, o ang sangbahayan ng aking ama sa Israel, upang maging manugang ako ng hari?",
+    "reference": "1 Samuel 18:18 (ADB)",
+    "connected_to": "1 Samuel 18:19",
+    "connected_from": "1 Samuel 18:17"
+  },
+  {
+    "text": "Nguni't nangyari na sa panahong ibibigay kay David si Merab na anak na babae ni Saul, ay ibinigay na asawa kay Adriel na Meholatita.",
+    "reference": "1 Samuel 18:19 (ADB)",
+    "connected_to": "1 Samuel 18:20",
+    "connected_from": "1 Samuel 18:18"
+  },
+  {
+    "text": "At sinisinta ni Michal na anak na babae ni Saul si David: at kanilang isinaysay kay Saul, at ang bagay ay ikinalugod niya.",
+    "reference": "1 Samuel 18:20 (ADB)",
+    "connected_to": "1 Samuel 18:21",
+    "connected_from": "1 Samuel 18:19"
+  },
+  {
+    "text": "At sinabi ni Saul, Aking ibibigay sa kaniya siya, upang siya'y maging silo sa kaniya, at upang ang kamay ng mga Filisteo ay maging laban sa kaniya. Kaya't sinabing ikalawa ni Saul kay David: Ikaw ay magiging aking manugang sa araw na ito.",
+    "reference": "1 Samuel 18:21 (ADB)",
+    "connected_to": "1 Samuel 18:22",
+    "connected_from": "1 Samuel 18:20"
+  },
+  {
+    "text": "At iniutos ni Saul sa kaniyang mga lingkod, na sinasabi, Makipagusap kayo kay David ng lihim, at inyong sabihin, Narito, kinatutuwaan ka ng hari at minamahal ka ng lahat ng kaniyang mga lingkod: ngayon nga ay maging manugang ka ng hari.",
+    "reference": "1 Samuel 18:22 (ADB)",
+    "connected_to": "1 Samuel 18:23",
+    "connected_from": "1 Samuel 18:21"
+  },
+  {
+    "text": "At sinalita ng mga lingkod ni Saul ang mga salitang yaon sa pakinig ni David. At sinabi ni David, Inaakala ba ninyo na magaang bagay ang maging manugang ng hari, dangang ako'y isang dukhang tao at niwawalang kabuluhan?",
+    "reference": "1 Samuel 18:23 (ADB)",
+    "connected_to": "1 Samuel 18:24",
+    "connected_from": "1 Samuel 18:22"
+  },
+  {
+    "text": "At isinaysay ng mga lingkod ni Saul sa kaniya, na sinabi, Ganitong paraan nagsalita si David.",
+    "reference": "1 Samuel 18:24 (ADB)",
+    "connected_to": "1 Samuel 18:25",
+    "connected_from": "1 Samuel 18:23"
+  },
+  {
+    "text": "At sinabi ni Saul, Ganito ang inyong sasabihin kay David: Hindi nagnanasa ang hari ng anomang bigaykaya, kundi isang daang balat ng masama ng mga Filisteo, upang mapanghigantihan ang mga kaaway ng hari. Ang balak nga ni Saul ay maibuwal si David sa pamamagitan ng kamay ng mga Filisteo.",
+    "reference": "1 Samuel 18:25 (ADB)",
+    "connected_to": "1 Samuel 18:26",
+    "connected_from": "1 Samuel 18:24"
+  },
+  {
+    "text": "At nang saysayin ng kaniyang mga lingkod kay David ang mga salitang ito, ay ikinalugod na mabuti ni David na maging manugang siya ng hari. At ang mga araw ay hindi pa nagaganap;",
+    "reference": "1 Samuel 18:26 (ADB)",
+    "connected_to": "1 Samuel 18:27",
+    "connected_from": "1 Samuel 18:25"
+  },
+  {
+    "text": "At tumindig si David at yumaon, siya at ang kaniyang mga lalake, at pumatay sa mga Filisteo ng dalawang daang lalake; at dinala ni David ang kanilang mga balat ng masama, at kaniyang ibinigay ng buong bilang sa hari, upang siya'y maging manugang ng hari. At ibinigay na asawa sa kaniya ni Saul si Michal na kaniyang anak na babae.",
+    "reference": "1 Samuel 18:27 (ADB)",
+    "connected_to": "1 Samuel 18:28",
+    "connected_from": "1 Samuel 18:26"
+  },
+  {
+    "text": "At nakita at nalaman ni Saul na ang Panginoon ay sumasa kay David; at sinisinta si David ni Michal na anak ni Saul.",
+    "reference": "1 Samuel 18:28 (ADB)",
+    "connected_to": "1 Samuel 18:29",
+    "connected_from": "1 Samuel 18:27"
+  },
+  {
+    "text": "At si Saul ay lalong natatakot kay David; at naging kaaway ni David si Saul na palagi.",
+    "reference": "1 Samuel 18:29 (ADB)",
+    "connected_to": "1 Samuel 18:30",
+    "connected_from": "1 Samuel 18:28"
+  },
+  {
+    "text": "Nang magkagayo'y lumabas ang mga pangulo ng mga Filisteo: at nangyari, na sa tuwing sila'y lumalabas ay nagpakabait si David kay sa lahat ng mga lingkod ni Saul; sa gayon ang kaniyang pangalan ay lalong namahal.",
+    "reference": "1 Samuel 18:30 (ADB)",
+    "connected_from": "1 Samuel 18:29"
+  }
+]

@@ -1,0 +1,174 @@
+[
+  {
+    "text": "Nang magkagayo'y sumagot si Zophar na Naamathita, at nagsabi,",
+    "reference": "Job 20:1 (ADB)",
+    "connected_to": "Job 20:2"
+  },
+  {
+    "text": "Kaya't nagbibigay sagot sa akin ang aking mga pagiisip, dahil nga sa aking pagmamadali na taglay ko.",
+    "reference": "Job 20:2 (ADB)",
+    "connected_to": "Job 20:3",
+    "connected_from": "Job 20:1"
+  },
+  {
+    "text": "Aking narinig ang saway na inilalagay ako sa kahihiyan, at ang diwa ng aking pagkaunawa ay sumasagot sa akin.",
+    "reference": "Job 20:3 (ADB)",
+    "connected_to": "Job 20:4",
+    "connected_from": "Job 20:2"
+  },
+  {
+    "text": "Hindi mo ba nalalaman ito ng una, mula nang ang tao'y malagay sa lupa,",
+    "reference": "Job 20:4 (ADB)",
+    "connected_to": "Job 20:5",
+    "connected_from": "Job 20:3"
+  },
+  {
+    "text": "Na ang pagtatagumpay ng masama ay maikli, at ang kagalakan ng di banal ay sandali lamang?",
+    "reference": "Job 20:5 (ADB)",
+    "connected_to": "Job 20:6",
+    "connected_from": "Job 20:4"
+  },
+  {
+    "text": "Bagaman ang kaniyang karilagan ay napaiilanglang hanggang sa langit, at ang kaniyang ulo ay umaabot hanggang sa mga alapaap;",
+    "reference": "Job 20:6 (ADB)",
+    "connected_to": "Job 20:7",
+    "connected_from": "Job 20:5"
+  },
+  {
+    "text": "Gayon may matutunaw siya magpakailan man, na gaya ng kaniyang sariling dumi: silang nangakakita sa kaniya ay mangagsasabi: Nasaan siya?",
+    "reference": "Job 20:7 (ADB)",
+    "connected_to": "Job 20:8",
+    "connected_from": "Job 20:6"
+  },
+  {
+    "text": "Siya'y mawawala na gaya ng panaginip, at hindi masusumpungan. Oo, siya'y mawawala na parang pangitain sa gabi.",
+    "reference": "Job 20:8 (ADB)",
+    "connected_to": "Job 20:9",
+    "connected_from": "Job 20:7"
+  },
+  {
+    "text": "Ang mata na nakakita sa kaniya ay hindi na siya makikita pa; ni mamamalas pa man siya sa kaniyang pook.",
+    "reference": "Job 20:9 (ADB)",
+    "connected_to": "Job 20:10",
+    "connected_from": "Job 20:8"
+  },
+  {
+    "text": "Hahanapin ng kaniyang mga anak ang lingap ng dukha, at ang kaniyang mga kamay ay magsasauli ng kaniyang kayamanan.",
+    "reference": "Job 20:10 (ADB)",
+    "connected_to": "Job 20:11",
+    "connected_from": "Job 20:9"
+  },
+  {
+    "text": "Ang kaniyang mga buto ay puspos ng kaniyang kabataan, nguni't hihiga na kasama niya sa alabok.",
+    "reference": "Job 20:11 (ADB)",
+    "connected_to": "Job 20:12",
+    "connected_from": "Job 20:10"
+  },
+  {
+    "text": "Bagaman ang kasamaan ay masarap sa kaniyang bibig, bagaman kaniyang itago sa ilalim ng kaniyang dila;",
+    "reference": "Job 20:12 (ADB)",
+    "connected_to": "Job 20:13",
+    "connected_from": "Job 20:11"
+  },
+  {
+    "text": "Bagaman kaniyang patawarin, at hindi niya ito babayaan, kundi ingatan pa sa loob ng kaniyang bibig;",
+    "reference": "Job 20:13 (ADB)",
+    "connected_to": "Job 20:14",
+    "connected_from": "Job 20:12"
+  },
+  {
+    "text": "Gayon ma'y ang kaniyang pagkain ay nabago na sa kaniyang tiyan, siyang kamandag ng mga ahas sa loob niya.",
+    "reference": "Job 20:14 (ADB)",
+    "connected_to": "Job 20:15",
+    "connected_from": "Job 20:13"
+  },
+  {
+    "text": "Siya'y sumakmal ng mga kayamanan, at kaniyang mga isusuka uli: mga aalisin uli ng Dios sa kaniyang tiyan.",
+    "reference": "Job 20:15 (ADB)",
+    "connected_to": "Job 20:16",
+    "connected_from": "Job 20:14"
+  },
+  {
+    "text": "Kaniyang hihititin ang kamandag ng mga ahas; papatayin siya ng dila ng ulupong.",
+    "reference": "Job 20:16 (ADB)",
+    "connected_to": "Job 20:17",
+    "connected_from": "Job 20:15"
+  },
+  {
+    "text": "Hindi niya matitingnan ang mga ilog, ang umaagos na mga bukal ng pulot at mantekilya.",
+    "reference": "Job 20:17 (ADB)",
+    "connected_to": "Job 20:18",
+    "connected_from": "Job 20:16"
+  },
+  {
+    "text": "Na kaniyang isasauli ang kaniyang pinagpagalan, at hindi lalamunin; ayon sa pag-aari na kaniyang tinangkilik, hindi siya magagalak.",
+    "reference": "Job 20:18 (ADB)",
+    "connected_to": "Job 20:19",
+    "connected_from": "Job 20:17"
+  },
+  {
+    "text": "Sapagka't kaniyang pinighati at pinabayaan ang dukha; kaniyang kinuhang marahas ang isang bahay; at hindi niya itatayo.",
+    "reference": "Job 20:19 (ADB)",
+    "connected_to": "Job 20:20",
+    "connected_from": "Job 20:18"
+  },
+  {
+    "text": "Sapagka't hindi siya nakakilala ng katiwasayan sa loob niya, hindi siya makapagliligtas ng anoman sa kaniyang kinaluluguran.",
+    "reference": "Job 20:20 (ADB)",
+    "connected_to": "Job 20:21",
+    "connected_from": "Job 20:19"
+  },
+  {
+    "text": "Walang bagay na naiwan na hindi niya sinakmal; kaya't ang kaniyang kaginhawahan ay hindi mananatili.",
+    "reference": "Job 20:21 (ADB)",
+    "connected_to": "Job 20:22",
+    "connected_from": "Job 20:20"
+  },
+  {
+    "text": "Sa lubos niyang kasaganaan ay magigipit siya; ang kamay ng bawa't nasa karalitaan ay darating sa kaniya.",
+    "reference": "Job 20:22 (ADB)",
+    "connected_to": "Job 20:23",
+    "connected_from": "Job 20:21"
+  },
+  {
+    "text": "Pagka kaniyang bubusugin ang kaniyang tiyan, ihuhulog ng Dios ang kaniyang mabangis na poot sa kaniya. At ibubugso sa kaniya samantalang siya'y kumakain.",
+    "reference": "Job 20:23 (ADB)",
+    "connected_to": "Job 20:24",
+    "connected_from": "Job 20:22"
+  },
+  {
+    "text": "Kaniyang tatakasan ang sandatang bakal, at ang busog na tanso ay hihilagpos sa kaniya.",
+    "reference": "Job 20:24 (ADB)",
+    "connected_to": "Job 20:25",
+    "connected_from": "Job 20:23"
+  },
+  {
+    "text": "Binubunot niya ang pana, at lumalabas sa kaniyang katawan: Oo, ang makintab na talim ay lumalabas mula sa kaniyang apdo; mga kakilabutan ang sumasa kaniya.",
+    "reference": "Job 20:25 (ADB)",
+    "connected_to": "Job 20:26",
+    "connected_from": "Job 20:24"
+  },
+  {
+    "text": "Lahat na kadiliman ay nalalagay na mga pinakakayamanan niya; isang apoy na hindi hinipan ng tao ay susupok sa kaniya: susupukin niyaon ang naiwan sa kaniyang tolda.",
+    "reference": "Job 20:26 (ADB)",
+    "connected_to": "Job 20:27",
+    "connected_from": "Job 20:25"
+  },
+  {
+    "text": "Ihahayag ng mga langit ang kaniyang kasamaan, at ang lupa ay babangon laban sa kaniya.",
+    "reference": "Job 20:27 (ADB)",
+    "connected_to": "Job 20:28",
+    "connected_from": "Job 20:26"
+  },
+  {
+    "text": "Ang pakinabang ng kaniyang bahay ay yayaon, ang kaniyang mga pag-aari ay huhuho sa kaarawan ng kaniyang kapootan.",
+    "reference": "Job 20:28 (ADB)",
+    "connected_to": "Job 20:29",
+    "connected_from": "Job 20:27"
+  },
+  {
+    "text": "Ito ang bahagi ng masamang tao mula sa Dios, at ang manang takda sa kaniya ng Dios.",
+    "reference": "Job 20:29 (ADB)",
+    "connected_from": "Job 20:28"
+  }
+]

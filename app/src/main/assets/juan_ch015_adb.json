@@ -1,0 +1,162 @@
+[
+  {
+    "text": "Ako ang tunay na puno ng ubas, at ang aking Ama ang magsasaka.",
+    "reference": "Juan 15:1 (ADB)",
+    "connected_to": "Juan 15:2"
+  },
+  {
+    "text": "Ang bawa't sanga na sa akin ay hindi nagbubunga, ay inaalis niya: at ang bawa't sanga na nagbubunga ay nililinis niya, upang lalong magbunga.",
+    "reference": "Juan 15:2 (ADB)",
+    "connected_to": "Juan 15:3",
+    "connected_from": "Juan 15:1"
+  },
+  {
+    "text": "Kayo'y malilinis na sa pamamagitan ng salita na sa inyo'y aking sinalita.",
+    "reference": "Juan 15:3 (ADB)",
+    "connected_to": "Juan 15:4",
+    "connected_from": "Juan 15:2"
+  },
+  {
+    "text": "Kayo'y manatili sa akin, at ako'y sa inyo. Gaya ng sanga na di makapagbunga sa kaniyang sarili maliban na nakakabit sa puno; gayon din naman kayo, maliban na kayo'y manatili sa akin.",
+    "reference": "Juan 15:4 (ADB)",
+    "connected_to": "Juan 15:5",
+    "connected_from": "Juan 15:3"
+  },
+  {
+    "text": "Ako ang puno ng ubas, kayo ang mga sanga: Ang nananatili sa akin, at ako'y sa kaniya, ay siyang nagbubunga ng marami: sapagka't kung kayo'y hiwalay sa akin ay wala kayong magagawa.",
+    "reference": "Juan 15:5 (ADB)",
+    "connected_to": "Juan 15:6",
+    "connected_from": "Juan 15:4"
+  },
+  {
+    "text": "Kung ang sinoman ay hindi manatili sa akin, ay siya'y matatapong katulad ng sanga, at matutuyo; at mga titipunin at mga ihahagis sa apoy, at mangasusunog.",
+    "reference": "Juan 15:6 (ADB)",
+    "connected_to": "Juan 15:7",
+    "connected_from": "Juan 15:5"
+  },
+  {
+    "text": "Kung kayo'y magsipanatili sa akin, at ang mga salita ko'y magsipanatili sa inyo, ay hingin ninyo ang anomang inyong ibigin, at gagawin sa inyo.",
+    "reference": "Juan 15:7 (ADB)",
+    "connected_to": "Juan 15:8",
+    "connected_from": "Juan 15:6"
+  },
+  {
+    "text": "Sa ganito'y lumuluwalhati ang aking Ama, na kayo'y magsipagbunga ng marami; at gayon kayo'y magiging aking mga alagad.",
+    "reference": "Juan 15:8 (ADB)",
+    "connected_to": "Juan 15:9",
+    "connected_from": "Juan 15:7"
+  },
+  {
+    "text": "Kung paanong inibig ako ng Ama, ay gayon din naman iniibig ko kayo: magsipanatili kayo sa aking pagibig.",
+    "reference": "Juan 15:9 (ADB)",
+    "connected_to": "Juan 15:10",
+    "connected_from": "Juan 15:8"
+  },
+  {
+    "text": "Kung tinutupad ninyo ang aking mga utos, ay magsisipanahan kayo sa aking pagibig; gaya ng aking pagtupad sa mga utos ng aking Ama, at ako'y nananatili sa kaniyang pagibig.",
+    "reference": "Juan 15:10 (ADB)",
+    "connected_to": "Juan 15:11",
+    "connected_from": "Juan 15:9"
+  },
+  {
+    "text": "Ang mga bagay na ito ay sinalita ko sa inyo, upang ang aking kagalakan ay mapasa inyo, at upang ang inyong kagalakan ay malubos.",
+    "reference": "Juan 15:11 (ADB)",
+    "connected_to": "Juan 15:12",
+    "connected_from": "Juan 15:10"
+  },
+  {
+    "text": "Ito ang aking utos, na kayo'y mangagibigan sa isa't isa, na gaya ng pagibig ko sa inyo.",
+    "reference": "Juan 15:12 (ADB)",
+    "connected_to": "Juan 15:13",
+    "connected_from": "Juan 15:11"
+  },
+  {
+    "text": "Walang may lalong dakilang pagibig kay sa rito, na ibigay ng isang tao ang kaniyang buhay dahil sa kaniyang mga kaibigan.",
+    "reference": "Juan 15:13 (ADB)",
+    "connected_to": "Juan 15:14",
+    "connected_from": "Juan 15:12"
+  },
+  {
+    "text": "Kayo'y aking mga kaibigan, kung gawin ninyo ang mga bagay na aking iniuutos sa inyo.",
+    "reference": "Juan 15:14 (ADB)",
+    "connected_to": "Juan 15:15",
+    "connected_from": "Juan 15:13"
+  },
+  {
+    "text": "Hindi ko na kayo tatawaging mga alipin; sapagka't hindi nalalaman ng alipin kung ano ang ginagawa ng kaniyang panginoon: nguni't tinatawag ko kayong mga kaibigan; sapagka't ang lahat ng mga bagay na narinig ko sa aking Ama ay mga ipinakilala ko sa inyo.",
+    "reference": "Juan 15:15 (ADB)",
+    "connected_to": "Juan 15:16",
+    "connected_from": "Juan 15:14"
+  },
+  {
+    "text": "Ako'y hindi ninyo hinirang, nguni't kayo'y hinirang ko, at aking kayong inihalal, upang kayo'y magsiyaon at magsipagbunga, at upang manatili ang inyong bunga: upang ang anomang inyong hingin sa Ama sa aking pangalan, ay maibigay niya sa inyo.",
+    "reference": "Juan 15:16 (ADB)",
+    "connected_to": "Juan 15:17",
+    "connected_from": "Juan 15:15"
+  },
+  {
+    "text": "Ang mga bagay na ito ay iniuutos ko sa inyo, upang kayo'y mangagibigan sa isa't isa.",
+    "reference": "Juan 15:17 (ADB)",
+    "connected_to": "Juan 15:18",
+    "connected_from": "Juan 15:16"
+  },
+  {
+    "text": "Kung kayo'y kinapopootan ng sanglibutan, ay inyong talastas na ako muna ang kinapootan bago kayo.",
+    "reference": "Juan 15:18 (ADB)",
+    "connected_to": "Juan 15:19",
+    "connected_from": "Juan 15:17"
+  },
+  {
+    "text": "Kung kayo'y taga sanglibutan, ay iibigin ng sanglibutan ang kaniyang sarili: nguni't sapagka't kayo'y hindi taga sanglibutan, kundi kayo'y hinirang ko sa sanglibutan, kaya napopoot sa inyo ang sanglibutan.",
+    "reference": "Juan 15:19 (ADB)",
+    "connected_to": "Juan 15:20",
+    "connected_from": "Juan 15:18"
+  },
+  {
+    "text": "Alalahanin ninyo ang salitang sa inyo'y aking sinabi, Ang alipin ay hindi dakila kay sa kaniyang panginoon. Kung ako'y kanilang pinagusig, kayo man ay kanilang paguusigin din; kung tinupad nila ang aking salita, ang inyo man ay tutuparin din.",
+    "reference": "Juan 15:20 (ADB)",
+    "connected_to": "Juan 15:21",
+    "connected_from": "Juan 15:19"
+  },
+  {
+    "text": "Datapuwa't ang lahat ng mga bagay na ito ay gagawin nila sa inyo dahil sa aking pangalan, sapagka't hindi nila nakikilala ang sa akin ay nagsugo.",
+    "reference": "Juan 15:21 (ADB)",
+    "connected_to": "Juan 15:22",
+    "connected_from": "Juan 15:20"
+  },
+  {
+    "text": "Kung hindi sana ako naparito at nagsalita sa kanila, ay hindi sila magkakaroon ng kasalanan: datapuwa't ngayo'y wala na silang madadahilan sa kanilang kasalanan.",
+    "reference": "Juan 15:22 (ADB)",
+    "connected_to": "Juan 15:23",
+    "connected_from": "Juan 15:21"
+  },
+  {
+    "text": "Ang napopoot sa akin ay napopoot din naman sa aking Ama.",
+    "reference": "Juan 15:23 (ADB)",
+    "connected_to": "Juan 15:24",
+    "connected_from": "Juan 15:22"
+  },
+  {
+    "text": "Kung ako sana'y hindi gumawa sa gitna nila ng mga gawang hindi ginawa ng sinomang iba, ay hindi sana sila nangagkaroon ng kasalanan: datapuwa't ngayon ay kanilang nangakita at kinapootan nila ako at ang aking Ama.",
+    "reference": "Juan 15:24 (ADB)",
+    "connected_to": "Juan 15:25",
+    "connected_from": "Juan 15:23"
+  },
+  {
+    "text": "Nguni't nangyari ito, upang matupad ang salitang nasusulat sa kanilang kautusan, Ako'y kinapootan nila na walang kadahilanan.",
+    "reference": "Juan 15:25 (ADB)",
+    "connected_to": "Juan 15:26",
+    "connected_from": "Juan 15:24"
+  },
+  {
+    "text": "Datapuwa't pagparito ng Mangaaliw, na aking susuguin sa inyo mula sa Ama, sa makatuwid baga'y ang Espiritu ng katotohanan, na nagbubuhat sa Ama, ay siyang magpapatotoo sa akin:",
+    "reference": "Juan 15:26 (ADB)",
+    "connected_to": "Juan 15:27",
+    "connected_from": "Juan 15:25"
+  },
+  {
+    "text": "At kayo naman ay magpapatotoo, sapagka't kayo'y nangakasama ko buhat pa nang una.",
+    "reference": "Juan 15:27 (ADB)",
+    "connected_from": "Juan 15:26"
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "text": "At sa kayong bughaw, at kulay-ube, at pula, ay gumawa sila ng mga kasuutang mainam ang pagkayari upang gamitin sa pangangasiwa sa dakong banal, at ginawang mga banal na kasuutan kay Aaron; gaya ng iniutos ng Panginoon kay Moises.",
+    "reference": "Exodo 39:1 (ADB)",
+    "connected_to": "Exodo 39:2"
+  },
+  {
+    "text": "At kaniyang ginawa ang epod na ginto, na kayong bughaw, at kulay-ube, at pula, at linong pinili.",
+    "reference": "Exodo 39:2 (ADB)",
+    "connected_to": "Exodo 39:3",
+    "connected_from": "Exodo 39:1"
+  },
+  {
+    "text": "At kanilang pinukpok ang ginto na pinanipis na pahaba at pinutol na ginawang kawad na ginto, upang itahi sa kayong bughaw, at sa kulay-ube, at sa pula, at sa lino na gawa ng bihasang manggagawa.",
+    "reference": "Exodo 39:3 (ADB)",
+    "connected_to": "Exodo 39:4",
+    "connected_from": "Exodo 39:2"
+  },
+  {
+    "text": "Kanilang iginawa ng mga pangbalikat, na nagkakasugpong: sa dalawang dulo ay nagkakasugpong.",
+    "reference": "Exodo 39:4 (ADB)",
+    "connected_to": "Exodo 39:5",
+    "connected_from": "Exodo 39:3"
+  },
+  {
+    "text": "At ang mainam na pagkayaring pamigkis, na nasa ibabaw ng epod upang ibigkis, ay kaputol at gaya ng pagkayari ng epod; na ginto, at kayong bughaw, at kulay-ube, at pula, linong pinili; gaya ng iniutos ng Panginoon kay Moises.",
+    "reference": "Exodo 39:5 (ADB)",
+    "connected_to": "Exodo 39:6",
+    "connected_from": "Exodo 39:4"
+  },
+  {
+    "text": "At kanilang ginawa ang mga batong onix na pinamutihan ng kalupkop na ginto, na ayos ukit ng isang panatak, ayon sa mga pangalan ng mga anak ni Israel.",
+    "reference": "Exodo 39:6 (ADB)",
+    "connected_to": "Exodo 39:7",
+    "connected_from": "Exodo 39:5"
+  },
+  {
+    "text": "At kaniyang inilagay sa ibabaw ng pangbalikat ng epod upang maging mga batong pinakaalaala sa ikagagaling ng mga anak ni Israel; gaya ng iniutos ng Panginoon kay Moises.",
+    "reference": "Exodo 39:7 (ADB)",
+    "connected_to": "Exodo 39:8",
+    "connected_from": "Exodo 39:6"
+  },
+  {
+    "text": "At kaniyang ginawa ang pektoral, na gawa ng bihasang manggagawa, gaya ng pagkayari ng epod; na ginto, at kayong bughaw, at kulay-ube, at pula, at linong pinili.",
+    "reference": "Exodo 39:8 (ADB)",
+    "connected_to": "Exodo 39:9",
+    "connected_from": "Exodo 39:7"
+  },
+  {
+    "text": "Parisukat; kanilang ginawang nakatiklop ang pektoral: isang dangkal ang luwang niyaon, pagka nakatiklop.",
+    "reference": "Exodo 39:9 (ADB)",
+    "connected_to": "Exodo 39:10",
+    "connected_from": "Exodo 39:8"
+  },
+  {
+    "text": "At kanilang kinalupkupan ng apat na hanay na sarisaring bato: isang hanay ay sardio, topacio, at karbungko na siyang unang hanay.",
+    "reference": "Exodo 39:10 (ADB)",
+    "connected_to": "Exodo 39:11",
+    "connected_from": "Exodo 39:9"
+  },
+  {
+    "text": "At ang ikalawang hanay, ay isang esmeralda, isang zafiro, at isang diamante.",
+    "reference": "Exodo 39:11 (ADB)",
+    "connected_to": "Exodo 39:12",
+    "connected_from": "Exodo 39:10"
+  },
+  {
+    "text": "At ang ikatlong hanay, ay isang jacinto, isang agata, at isang ametista.",
+    "reference": "Exodo 39:12 (ADB)",
+    "connected_to": "Exodo 39:13",
+    "connected_from": "Exodo 39:11"
+  },
+  {
+    "text": "At ang ikaapat na hanay ay isang berilo, isang onix, at isang jaspe; na mga natatakpan ng mga pamuting ginto sa kanilang mga pagkakakalupkop.",
+    "reference": "Exodo 39:13 (ADB)",
+    "connected_to": "Exodo 39:14",
+    "connected_from": "Exodo 39:12"
+  },
+  {
+    "text": "At ang mga bato ay ayon sa mga pangalan ng mga anak ni Israel, labingdalawa, ayon sa kanilang mga pangalan; na ayos ukit ng isang panatak; bawa't isa'y ayon sa kaniyang pangalan, na ukol sa labingdalawang lipi.",
+    "reference": "Exodo 39:14 (ADB)",
+    "connected_to": "Exodo 39:15",
+    "connected_from": "Exodo 39:13"
+  },
+  {
+    "text": "At kanilang iginawa ang pektoral ng mga tanikalang parang tirintas na ayos pinili na taganas na ginto.",
+    "reference": "Exodo 39:15 (ADB)",
+    "connected_to": "Exodo 39:16",
+    "connected_from": "Exodo 39:14"
+  },
+  {
+    "text": "At sila'y gumawa ng dalawang pangkalupkop na ginto, at ng dalawang singsing na ginto; at inilagay ang dalawang singsing sa dalawang dulo ng pektoral.",
+    "reference": "Exodo 39:16 (ADB)",
+    "connected_to": "Exodo 39:17",
+    "connected_from": "Exodo 39:15"
+  },
+  {
+    "text": "At kanilang ikinabit ang dalawang tanikalang pinili na ginto sa dalawang singsing sa mga sulok ng pektoral.",
+    "reference": "Exodo 39:17 (ADB)",
+    "connected_to": "Exodo 39:18",
+    "connected_from": "Exodo 39:16"
+  },
+  {
+    "text": "At ang ibang dalawang dulo ng dalawang tanikalang ayos singsing ay kanilang ikinabit sa dalawang pangkalupkop, at mga ikinabit sa mga pangbalikat ng epod sa dakong harapan niyaon.",
+    "reference": "Exodo 39:18 (ADB)",
+    "connected_to": "Exodo 39:19",
+    "connected_from": "Exodo 39:17"
+  },
+  {
+    "text": "At sila'y gumawa ng ibang dalawang singsing na ginto, at mga inilagay sa dalawang sulok ng pektoral sa gilid niyaon, na nasa dakong kabaligtaran ng epod.",
+    "reference": "Exodo 39:19 (ADB)",
+    "connected_to": "Exodo 39:20",
+    "connected_from": "Exodo 39:18"
+  },
+  {
+    "text": "At sila'y gumawa ng dalawang singsing na ginto, at mga ikinabit sa dalawang pangbalikat ng epod sa dakong ibaba, sa may harapan, na malapit sa pagkakasugpong, sa ibabaw ng mainam na pagkayaring pamigkis ng epod.",
+    "reference": "Exodo 39:20 (ADB)",
+    "connected_to": "Exodo 39:21",
+    "connected_from": "Exodo 39:19"
+  },
+  {
+    "text": "At kanilang itinali ang pektoral sa pamamagitan ng mga singsing, sa mga singsing ng epod ng isang panaling bughaw upang mamalagi sa ibabaw ng mainam na pagkayaring pamigkis ng epod; gaya ng iniutos ng Panginoon kay Moises.",
+    "reference": "Exodo 39:21 (ADB)",
+    "connected_to": "Exodo 39:22",
+    "connected_from": "Exodo 39:20"
+  },
+  {
+    "text": "At kaniyang ginawa ang balabal ng epod na yari ng manghahabi, na taganas na bughaw;",
+    "reference": "Exodo 39:22 (ADB)",
+    "connected_to": "Exodo 39:23",
+    "connected_from": "Exodo 39:21"
+  },
+  {
+    "text": "At ang butas ng balabal ay nasa gitna niyaon na gaya ng leeg ng isang koselete, na may isang uriang tinahi sa palibot ng pinakaleeg upang huwag mapunit.",
+    "reference": "Exodo 39:23 (ADB)",
+    "connected_to": "Exodo 39:24",
+    "connected_from": "Exodo 39:22"
+  },
+  {
+    "text": "At kanilang ginawan ang mga ribete ng balabal ng mga granadang kayong bughaw, at kulay-ube, at pula, at linong pinili.",
+    "reference": "Exodo 39:24 (ADB)",
+    "connected_to": "Exodo 39:25",
+    "connected_from": "Exodo 39:23"
+  },
+  {
+    "text": "At sila'y gumawa ng mga kampanilyang taganas na ginto, at inilagay ang mga kampanilya sa pagitan ng mga granada sa ibabaw ng ribete ng balabal sa palibot, sa pagitan ng mga granada;",
+    "reference": "Exodo 39:25 (ADB)",
+    "connected_to": "Exodo 39:26",
+    "connected_from": "Exodo 39:24"
+  },
+  {
+    "text": "Isang kampanilya at isang granada, isang kampanilya at isang granada, sa ibabaw ng ribete ng balabal sa palibot, upang ipangasiwa gaya ng iniutos ng Panginoon kay Moises.",
+    "reference": "Exodo 39:26 (ADB)",
+    "connected_to": "Exodo 39:27",
+    "connected_from": "Exodo 39:25"
+  },
+  {
+    "text": "At kanilang ginawa ang mga tunika na lino na yaring hinabi para kay Aaron, at sa kaniyang mga anak,",
+    "reference": "Exodo 39:27 (ADB)",
+    "connected_to": "Exodo 39:28",
+    "connected_from": "Exodo 39:26"
+  },
+  {
+    "text": "At ang mitra na lino, at ang mga mainam na tiara na lino, at ang mga salawal na lino na kayong pinili na lino,",
+    "reference": "Exodo 39:28 (ADB)",
+    "connected_to": "Exodo 39:29",
+    "connected_from": "Exodo 39:27"
+  },
+  {
+    "text": "At ang bigkis na linong pinili, at kayong bughaw at kulay-ube, at pula, na gawa ng mangbuburda; gaya ng iniutos ng Panginoon kay Moises.",
+    "reference": "Exodo 39:29 (ADB)",
+    "connected_to": "Exodo 39:30",
+    "connected_from": "Exodo 39:28"
+  },
+  {
+    "text": "At kanilang ginawa ang lamina ng banal na korona na taganas na ginto, at sinulatan ng isang titik na ayos ukit ng isang panatak, Banal sa Panginoon.",
+    "reference": "Exodo 39:30 (ADB)",
+    "connected_to": "Exodo 39:31",
+    "connected_from": "Exodo 39:29"
+  },
+  {
+    "text": "At kanilang tinalian ng isang panaling bughaw, upang ilapat sa ibabaw ng mitra; gaya ng iniutos ng Panginoon kay Moises.",
+    "reference": "Exodo 39:31 (ADB)",
+    "connected_to": "Exodo 39:32",
+    "connected_from": "Exodo 39:30"
+  },
+  {
+    "text": "Gayon natapos ang buong gawa sa tabernakulo ng kapisanan: at ginawa ng mga anak ni Israel ayon sa buong iniutos ng Panginoon kay Moises: gayon ginawa nila.",
+    "reference": "Exodo 39:32 (ADB)",
+    "connected_to": "Exodo 39:33",
+    "connected_from": "Exodo 39:31"
+  },
+  {
+    "text": "At kanilang dinala ang tabernakulo kay Moises, ang Tolda at ang lahat ng mga kasangkapan niyaon, ang mga kawit, ang mga tabla, ang mga barakilan, at ang mga haligi, at ang mga tungtungan;",
+    "reference": "Exodo 39:33 (ADB)",
+    "connected_to": "Exodo 39:34",
+    "connected_from": "Exodo 39:32"
+  },
+  {
+    "text": "At ang takip na mga balat ng mga tupa na tinina sa pula, at ang takip na balat ng mga poka, at ang lambong ng tabing;",
+    "reference": "Exodo 39:34 (ADB)",
+    "connected_to": "Exodo 39:35",
+    "connected_from": "Exodo 39:33"
+  },
+  {
+    "text": "Ang kaban ng patotoo at ang mga pingga niyaon, at ang luklukan ng awa;",
+    "reference": "Exodo 39:35 (ADB)",
+    "connected_to": "Exodo 39:36",
+    "connected_from": "Exodo 39:34"
+  },
+  {
+    "text": "Ang dulang, lahat ng mga sisidlan niyaon, at ang tinapay na handog;",
+    "reference": "Exodo 39:36 (ADB)",
+    "connected_to": "Exodo 39:37",
+    "connected_from": "Exodo 39:35"
+  },
+  {
+    "text": "Ang dalisay na kandelero, ang mga ilawan niyaon, ang mga ilawan na inayos, at lahat ng mga sisidlan niyaon, at ang langis na pangilawan;",
+    "reference": "Exodo 39:37 (ADB)",
+    "connected_to": "Exodo 39:38",
+    "connected_from": "Exodo 39:36"
+  },
+  {
+    "text": "At ang dambanang ginto, at ang langis na pangpahid, ang mabangong kamangyan, at ang tabing na gamit sa pintuan ng Tolda;",
+    "reference": "Exodo 39:38 (ADB)",
+    "connected_to": "Exodo 39:39",
+    "connected_from": "Exodo 39:37"
+  },
+  {
+    "text": "Ang dambanang tanso, at ang pinakasalang tanso, ang mga pingga at ang lahat ng mga sisidlan niyaon, ang hugasan at ang tungtungan;",
+    "reference": "Exodo 39:39 (ADB)",
+    "connected_to": "Exodo 39:40",
+    "connected_from": "Exodo 39:38"
+  },
+  {
+    "text": "Ang mga tabing ng looban, ang mga haligi, at ang mga tungtungan at ang tabing na pangpintuang-daan ng looban, ang mga panali, at ang mga tulos, at lahat ng mga kasangkapan sa paglilingkod sa tabernakulo, na gamit sa tabernakulo ng kapisanan;",
+    "reference": "Exodo 39:40 (ADB)",
+    "connected_to": "Exodo 39:41",
+    "connected_from": "Exodo 39:39"
+  },
+  {
+    "text": "Ang maiinam na pagkayaring kasuutan na gamit sa pangangasiwa sa dakong banal, at ang mga banal na kasuutan para kay Aaron na saserdote, at ang mga kasuutan ng kaniyang mga anak, upang mangasiwa sa katungkulang saserdote.",
+    "reference": "Exodo 39:41 (ADB)",
+    "connected_to": "Exodo 39:42",
+    "connected_from": "Exodo 39:40"
+  },
+  {
+    "text": "Ayon sa lahat na iniutos ng Panginoon kay Moises, ay gayon ginawa ng mga anak ni Israel ang lahat ng gawa.",
+    "reference": "Exodo 39:42 (ADB)",
+    "connected_to": "Exodo 39:43",
+    "connected_from": "Exodo 39:41"
+  },
+  {
+    "text": "At nakita ni Moises ang lahat ng gawain, at, narito, kanilang nagawa na kung paanong iniutos ng Panginoon ay gayon nila ginawa: at pinagbabasbasan ni Moises.",
+    "reference": "Exodo 39:43 (ADB)",
+    "connected_from": "Exodo 39:42"
+  }
+]

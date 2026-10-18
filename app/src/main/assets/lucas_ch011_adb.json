@@ -1,0 +1,324 @@
+[
+  {
+    "text": "At nangyari, nang siya'y nananalangin sa isang dako, nang siya'y matapos, ay sinabi sa kaniya ng isa sa kaniyang mga alagad, Panginoon, turuan mo kaming manalangin, na gaya naman ni Juan na nagturo sa kaniyang mga alagad.",
+    "reference": "Lucas 11:1 (ADB)",
+    "connected_to": "Lucas 11:2"
+  },
+  {
+    "text": "At sinabi niya sa kanila, Pagka kayo'y nagsisipanalangin, inyong sabihin, Ama, Sambahin nawa ang pangalan mo. Dumating nawa ang kaharian mo.",
+    "reference": "Lucas 11:2 (ADB)",
+    "connected_to": "Lucas 11:3",
+    "connected_from": "Lucas 11:1"
+  },
+  {
+    "text": "Ibigay mo sa amin arawaraw ang aming pangarawaraw na kakanin.",
+    "reference": "Lucas 11:3 (ADB)",
+    "connected_to": "Lucas 11:4",
+    "connected_from": "Lucas 11:2"
+  },
+  {
+    "text": "At ipatawad mo sa amin ang aming mga kasalanan; sapagka't aming pinatawad naman ang bawa't may utang sa amin. At huwag mo kaming ihatid sa tukso.",
+    "reference": "Lucas 11:4 (ADB)",
+    "connected_to": "Lucas 11:5",
+    "connected_from": "Lucas 11:3"
+  },
+  {
+    "text": "At sinabi niya sa kanila, Sino sa inyo ang magkakaroon ng isang kaibigan, at paroroon sa kaniya sa hating gabi, at sa kaniya'y sasabihin, Kaibigan, pahiramin mo ako ng tatlong tinapay;",
+    "reference": "Lucas 11:5 (ADB)",
+    "connected_to": "Lucas 11:6",
+    "connected_from": "Lucas 11:4"
+  },
+  {
+    "text": "Sapagka't dumarating sa akin na galing sa paglalakbay ang isa kong kaibigan, at wala akong maihain sa kaniya;",
+    "reference": "Lucas 11:6 (ADB)",
+    "connected_to": "Lucas 11:7",
+    "connected_from": "Lucas 11:5"
+  },
+  {
+    "text": "At siya na mula sa loob ay sasagot at sasabihin, Huwag mo akong bagabagin: nalalapat na ang pinto, at kasama ko sa hihigan ang aking mga anak; hindi ako makabangon at makapagbigay sa iyo?",
+    "reference": "Lucas 11:7 (ADB)",
+    "connected_to": "Lucas 11:8",
+    "connected_from": "Lucas 11:6"
+  },
+  {
+    "text": "Sinasabi ko sa inyo, Kahit siya'y hindi bumangon, at magbigay sa kaniya, dahil sa siya'y kaibigan niya, gayon ma'y dahil sa kaniyang pagbagabag ay siya'y magbabangon at ibibigay gaano man ang kinakailangan niya.",
+    "reference": "Lucas 11:8 (ADB)",
+    "connected_to": "Lucas 11:9",
+    "connected_from": "Lucas 11:7"
+  },
+  {
+    "text": "At sinasabi ko sa inyo, Magsihingi kayo, at kayo'y bibigyan; magsihanap kayo, at kayo'y mangakakasumpong; magsituktok kayo, at kayo'y bubuksan.",
+    "reference": "Lucas 11:9 (ADB)",
+    "connected_to": "Lucas 11:10",
+    "connected_from": "Lucas 11:8"
+  },
+  {
+    "text": "Sapagka't ang bawa't humihingi ay tumatanggap; at ang humahanap ay nakasusumpong; at ang tumutuktok ay binubuksan.",
+    "reference": "Lucas 11:10 (ADB)",
+    "connected_to": "Lucas 11:11",
+    "connected_from": "Lucas 11:9"
+  },
+  {
+    "text": "At aling ama sa inyo, na kung humingi ang kaniyang anak ng isang tinapay, ay bibigyan niya siya ng isang bato? o ng isang isda kaya, at hindi isda ang ibibigay, kundi isang ahas?",
+    "reference": "Lucas 11:11 (ADB)",
+    "connected_to": "Lucas 11:12",
+    "connected_from": "Lucas 11:10"
+  },
+  {
+    "text": "O kung siya'y humingi ng itlog, kaniyang bibigyan kaya siya ng alakdan?",
+    "reference": "Lucas 11:12 (ADB)",
+    "connected_to": "Lucas 11:13",
+    "connected_from": "Lucas 11:11"
+  },
+  {
+    "text": "Kung kayo nga, bagaman masasama, ay marurunong mangagbigay ng mabubuting kaloob sa inyong mga anak, gaano pa kaya ang inyong Ama sa kalangitan na magbibigay ng Espiritu Santo sa nagsisihingi sa kaniya?",
+    "reference": "Lucas 11:13 (ADB)",
+    "connected_to": "Lucas 11:14",
+    "connected_from": "Lucas 11:12"
+  },
+  {
+    "text": "At nagpalabas siya ng isang demoniong pipi. At nangyari, nang makalabas na ang demonio, ang pipi ay nangusap; at nangagtaka ang mga karamihan.",
+    "reference": "Lucas 11:14 (ADB)",
+    "connected_to": "Lucas 11:15",
+    "connected_from": "Lucas 11:13"
+  },
+  {
+    "text": "Datapuwa't sinabi ng ilan sa kanila, Sa pamamagitan ni Beelzebub, na pangulo ng mga demonio ay nagpapalabas siya ng mga demonio.",
+    "reference": "Lucas 11:15 (ADB)",
+    "connected_to": "Lucas 11:16",
+    "connected_from": "Lucas 11:14"
+  },
+  {
+    "text": "At ang mga iba sa pagtukso sa kaniya'y hinanapan siya ng isang tanda na mula sa langit.",
+    "reference": "Lucas 11:16 (ADB)",
+    "connected_to": "Lucas 11:17",
+    "connected_from": "Lucas 11:15"
+  },
+  {
+    "text": "Datapuwa't siya, na nakatataho ng mga pagiisip nila, sa kanila'y sinabi, Ang bawa't kahariang nagkakabahabahagi laban sa kaniyang sarili ay magkakawatakwatak; at ang sangbahayan na nagkakabahabahagi laban sa sangbahayan ay nagigiba.",
+    "reference": "Lucas 11:17 (ADB)",
+    "connected_to": "Lucas 11:18",
+    "connected_from": "Lucas 11:16"
+  },
+  {
+    "text": "At kung si Satanas naman ay nagkakabahabahagi laban sa kaniyang sarili, paanong mananatili ang kaniyang kaharian? sapagka't sinasabi ninyong sa pamamagitan ni Beelzebub nagpapalabas ako ng mga demonio.",
+    "reference": "Lucas 11:18 (ADB)",
+    "connected_to": "Lucas 11:19",
+    "connected_from": "Lucas 11:17"
+  },
+  {
+    "text": "At kung nagpapalabas ako ng mga demonio sa pamamagitan ni Beelzebub, sa pamamagitan nino sila pinalalabas ng inyong mga anak? kaya nga, sila ang inyong magiging mga hukom.",
+    "reference": "Lucas 11:19 (ADB)",
+    "connected_to": "Lucas 11:20",
+    "connected_from": "Lucas 11:18"
+  },
+  {
+    "text": "Nguni't kung sa pamamagitan ng daliri ng Dios ay nagpapalabas ako ng mga demonio, dumating nga sa inyo ang kaharian ng Dios.",
+    "reference": "Lucas 11:20 (ADB)",
+    "connected_to": "Lucas 11:21",
+    "connected_from": "Lucas 11:19"
+  },
+  {
+    "text": "Pagka ang lalaking malakas na nasasandatahang lubos ay nagbabantay sa kaniyang sariling looban, ang kaniyang mga pag-aari ay wala sa panganib.",
+    "reference": "Lucas 11:21 (ADB)",
+    "connected_to": "Lucas 11:22",
+    "connected_from": "Lucas 11:20"
+  },
+  {
+    "text": "Datapuwa't kung siya'y datnan ng ibang lalong malakas kay sa kaniya, at siya'y matalo, ay kukunin nito sa kaniya ang lahat ng kaniyang sandata na kaniyang inaasahan, at ipamamahagi ang mga nasamsam sa kaniya.",
+    "reference": "Lucas 11:22 (ADB)",
+    "connected_to": "Lucas 11:23",
+    "connected_from": "Lucas 11:21"
+  },
+  {
+    "text": "Ang hindi sumasa akin ay laban sa akin; at ang hindi nagiimpok na kasama ko ay nagsasambulat.",
+    "reference": "Lucas 11:23 (ADB)",
+    "connected_to": "Lucas 11:24",
+    "connected_from": "Lucas 11:22"
+  },
+  {
+    "text": "Pagka ang karumaldumal na espiritu ay lumabas sa isang tao, ay lumalakad sa mga dakong walang tubig, na humahanap ng kapahingahan, at pagka hindi makasumpong, ay sinasabing, Babalik ako sa aking bahay na nilabasan ko.",
+    "reference": "Lucas 11:24 (ADB)",
+    "connected_to": "Lucas 11:25",
+    "connected_from": "Lucas 11:23"
+  },
+  {
+    "text": "At pagdating niya ay nasusumpungang walis na at nagagayakan.",
+    "reference": "Lucas 11:25 (ADB)",
+    "connected_to": "Lucas 11:26",
+    "connected_from": "Lucas 11:24"
+  },
+  {
+    "text": "Kung magkagayo'y yumayaon siya, at nagsasama ng pito pang espiritu na lalong masasama pa kay sa kaniya; at sila'y nagsisipasok at nagsisitahan doon: at nagiging lalo pang masama ang huling kalagayan ng taong yaon kay sa una.",
+    "reference": "Lucas 11:26 (ADB)",
+    "connected_to": "Lucas 11:27",
+    "connected_from": "Lucas 11:25"
+  },
+  {
+    "text": "At nangyari, na nang sinasabi niya ang mga bagay na ito, ang isang babaing mula sa karamihan ay naglakas ng kaniyang tinig at sinabi sa kaniya, Mapalad ang tiyang sa iyo'y nagdala, at ang mga dibdib na iyong sinusuhan.",
+    "reference": "Lucas 11:27 (ADB)",
+    "connected_to": "Lucas 11:28",
+    "connected_from": "Lucas 11:26"
+  },
+  {
+    "text": "Datapuwa't sinabi niya, Oo, bagkus na lalong mapapalad ang nangakikinig ng salita ng Dios, at ito'y ginaganap.",
+    "reference": "Lucas 11:28 (ADB)",
+    "connected_to": "Lucas 11:29",
+    "connected_from": "Lucas 11:27"
+  },
+  {
+    "text": "At nang ang mga karamihan ay nangagkakatipon sa kaniya, ay nagpasimula siyang magsabi, Ang lahing ito'y isang masamang lahi: siya'y humahanap ng isang tanda; at hindi siya bibigyan ng anomang tanda kundi ng tanda ni Jonas.",
+    "reference": "Lucas 11:29 (ADB)",
+    "connected_to": "Lucas 11:30",
+    "connected_from": "Lucas 11:28"
+  },
+  {
+    "text": "Sapagka't kung paanong si Jonas ay naging tanda sa mga Ninivita, ay gayon din naman ang Anak ng tao sa lahing ito.",
+    "reference": "Lucas 11:30 (ADB)",
+    "connected_to": "Lucas 11:31",
+    "connected_from": "Lucas 11:29"
+  },
+  {
+    "text": "Magbabangon sa paghuhukom ang reina ng timugan na kasama ng mga tao ng lahing ito, at sila'y hahatulan: sapagka't siya'y naparitong galing sa mga wakas ng lupa, upang pakinggan ang karunungan ni Salomon; at narito, dito'y may isang lalong dakila kay sa kay Salomon.",
+    "reference": "Lucas 11:31 (ADB)",
+    "connected_to": "Lucas 11:32",
+    "connected_from": "Lucas 11:30"
+  },
+  {
+    "text": "Magsisitayo sa paghuhukom ang mga tao sa Ninive na kasama ng lahing ito, at ito'y hahatulan: sapagka't sila'y nagsipagsisi sa pangangaral ni Jonas; at narito, dito'y may isang lalong dakila kay sa kay Jonas.",
+    "reference": "Lucas 11:32 (ADB)",
+    "connected_to": "Lucas 11:33",
+    "connected_from": "Lucas 11:31"
+  },
+  {
+    "text": "Walang taong pagkapagpaningas niya ng isang ilawan, ay ilalagay sa isang dakong tago, ni sa ilalim man ng takalan, kundi sa talagang lalagyan ng ilaw, upang ang nagsisipasok ay makita ang ilaw.",
+    "reference": "Lucas 11:33 (ADB)",
+    "connected_to": "Lucas 11:34",
+    "connected_from": "Lucas 11:32"
+  },
+  {
+    "text": "Ang ilawan ng katawan mo ay ang iyong mata: kung magaling ang iyong mata, ang buong katawan mo naman ay puspos ng liwanag; datapuwa't kung ito'y may sakit, ang katawan mo nama'y puspos ng kadiliman.",
+    "reference": "Lucas 11:34 (ADB)",
+    "connected_to": "Lucas 11:35",
+    "connected_from": "Lucas 11:33"
+  },
+  {
+    "text": "Masdan mo nga kung ang ilaw na nasa iyo ay baka kadiliman.",
+    "reference": "Lucas 11:35 (ADB)",
+    "connected_to": "Lucas 11:36",
+    "connected_from": "Lucas 11:34"
+  },
+  {
+    "text": "Kaya nga, kung ang buong katawan mo ay puspos ng liwanag, na walang anomang bahaging madilim, ito'y lubos na mapupuspos ng liwanag, na gaya ng pagliliwanag sa iyo ng ilawang may liwanag na maningning.",
+    "reference": "Lucas 11:36 (ADB)",
+    "connected_to": "Lucas 11:37",
+    "connected_from": "Lucas 11:35"
+  },
+  {
+    "text": "Samantala ngang siya'y nagsasalita, ay inanyayahan siya ng isang Fariseo na kumaing kasalo niya: at siya'y pumasok, at naupo sa dulang.",
+    "reference": "Lucas 11:37 (ADB)",
+    "connected_to": "Lucas 11:38",
+    "connected_from": "Lucas 11:36"
+  },
+  {
+    "text": "At nang makita ito ng Fariseo, ay nagtaka na siya'y hindi muna naghugas bago mananghali.",
+    "reference": "Lucas 11:38 (ADB)",
+    "connected_to": "Lucas 11:39",
+    "connected_from": "Lucas 11:37"
+  },
+  {
+    "text": "At sinabi sa kaniya ng Panginoon, Gayon nga kayong mga Fariseo na nililinis ninyo ang dakong labas ng saro at ng pinggan; datapuwa't ang loob ninyo'y puno ng panglulupig at kasamaan.",
+    "reference": "Lucas 11:39 (ADB)",
+    "connected_to": "Lucas 11:40",
+    "connected_from": "Lucas 11:38"
+  },
+  {
+    "text": "Kayong mga haling, di baga ang gumawa ng dakong labas ay siya ring gumawa ng dakong loob?",
+    "reference": "Lucas 11:40 (ADB)",
+    "connected_to": "Lucas 11:41",
+    "connected_from": "Lucas 11:39"
+  },
+  {
+    "text": "Datapuwa't ilimos ninyo ang mga bagay na nasa kalooban; at narito, ang lahat ng mga bagay ay malilinis sa inyo.",
+    "reference": "Lucas 11:41 (ADB)",
+    "connected_to": "Lucas 11:42",
+    "connected_from": "Lucas 11:40"
+  },
+  {
+    "text": "Datapuwa't sa aba ninyong mga Fariseo! sapagka't nagbibigay kayo ng ikapu ng yerbabuena, at ng ruda, at ng bawa't gugulayin, at pinababayaan ninyo ang katarungan at ang pagibig ng Dios: datapuwa't dapat ngang gawin ninyo ang mga ito, at huwag pabayaan di ginagawa ang mga yaon.",
+    "reference": "Lucas 11:42 (ADB)",
+    "connected_to": "Lucas 11:43",
+    "connected_from": "Lucas 11:41"
+  },
+  {
+    "text": "Sa aba ninyong mga Fariseo! sapagka't inyong iniibig ang mga pangulong upuan sa mga sinagoga, at ang mga pagpupugay sa mga pamilihan.",
+    "reference": "Lucas 11:43 (ADB)",
+    "connected_to": "Lucas 11:44",
+    "connected_from": "Lucas 11:42"
+  },
+  {
+    "text": "Sa aba ninyo! sapagka't kayo'y tulad sa mga libingang hindi nakikita, at di nalalaman ng mga taong nagsisilakad sa ibabaw nila.",
+    "reference": "Lucas 11:44 (ADB)",
+    "connected_to": "Lucas 11:45",
+    "connected_from": "Lucas 11:43"
+  },
+  {
+    "text": "At pagsagot ng isa sa mga tagapagtanggol ng kautusan, ay nagsabi sa kaniya, Guro, sa pagsasabi mo nito, pati kami ay iyong pinupulaan.",
+    "reference": "Lucas 11:45 (ADB)",
+    "connected_to": "Lucas 11:46",
+    "connected_from": "Lucas 11:44"
+  },
+  {
+    "text": "At sinabi niya, Sa aba rin naman ninyong mga tagapagtanggol ng kautusan! sapagka't inyong ipinapapasan sa mga tao ang mga pasang mahihirap dalhin, at hindi man lamang ninyo hinihipo ng isa sa inyong mga daliri ang mga pasan.",
+    "reference": "Lucas 11:46 (ADB)",
+    "connected_to": "Lucas 11:47",
+    "connected_from": "Lucas 11:45"
+  },
+  {
+    "text": "Sa aba ninyo! sapagka't inyong itinatayo ang mga libingan ng mga propeta, at ang mga yao'y pinatay ng inyong mga magulang.",
+    "reference": "Lucas 11:47 (ADB)",
+    "connected_to": "Lucas 11:48",
+    "connected_from": "Lucas 11:46"
+  },
+  {
+    "text": "Kayo nga'y mga saksi at nagsisisangayon sa mga gawa ng inyong mga magulang: sapagka't pinatay ng mga ito ang mga yaon, at itinatayo ninyo ang kanilang mga libingan.",
+    "reference": "Lucas 11:48 (ADB)",
+    "connected_to": "Lucas 11:49",
+    "connected_from": "Lucas 11:47"
+  },
+  {
+    "text": "Kaya nga, sinasabi naman ng karunungan ng Dios, Magsusugo ako sa kanila ng mga propeta at mga apostol; at ilan sa kanila ay kanilang papatayin at paguusigin;",
+    "reference": "Lucas 11:49 (ADB)",
+    "connected_to": "Lucas 11:50",
+    "connected_from": "Lucas 11:48"
+  },
+  {
+    "text": "Upang hingin sa lahing ito ang dugo ng lahat ng mga propeta, na ibinubo buhat nang itatag ang sanglibutan;",
+    "reference": "Lucas 11:50 (ADB)",
+    "connected_to": "Lucas 11:51",
+    "connected_from": "Lucas 11:49"
+  },
+  {
+    "text": "Mula sa dugo ni Abel, hanggang sa dugo ni Zacarias, na pinatay sa pagitan ng dambana at ng santuario: oo, sinasabi ko sa inyo, na ito'y hihingin sa lahing ito.",
+    "reference": "Lucas 11:51 (ADB)",
+    "connected_to": "Lucas 11:52",
+    "connected_from": "Lucas 11:50"
+  },
+  {
+    "text": "Sa aba ninyong mga tagapagtanggol ng kautusan! sapagka't inalis ninyo ang susi ng karunungan: hindi kayo nagsipasok, at inyong sinasansala ang nagsisipasok.",
+    "reference": "Lucas 11:52 (ADB)",
+    "connected_to": "Lucas 11:53",
+    "connected_from": "Lucas 11:51"
+  },
+  {
+    "text": "At paglabas niya roon, ay nangagpasimula ang mga eskriba at ang mga Fariseo na higpitang mainam siya, at akitin siyang magsalita ng maraming mga bagay;",
+    "reference": "Lucas 11:53 (ADB)",
+    "connected_to": "Lucas 11:54",
+    "connected_from": "Lucas 11:52"
+  },
+  {
+    "text": "Na siya'y inaabangan, upang makahuli sa kaniyang bibig ng anoman.",
+    "reference": "Lucas 11:54 (ADB)",
+    "connected_from": "Lucas 11:53"
+  }
+]

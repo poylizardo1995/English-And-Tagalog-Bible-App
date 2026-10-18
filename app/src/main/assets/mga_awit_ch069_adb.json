@@ -1,0 +1,216 @@
+[
+  {
+    "text": "Iligtas mo ako, Oh Dios; sapagka't ang tubig ay tumabon sa aking kaluluwa.",
+    "reference": "Mga Awit 69:1 (ADB)",
+    "connected_to": "Mga Awit 69:2"
+  },
+  {
+    "text": "Ako'y lumulubog sa malalim na burak na walang tayuan: ako'y lumulubog sa malalim na tubig, na tinatabunan ako ng agos.",
+    "reference": "Mga Awit 69:2 (ADB)",
+    "connected_to": "Mga Awit 69:3",
+    "connected_from": "Mga Awit 69:1"
+  },
+  {
+    "text": "Ako'y hapo sa aking daing; ang lalamunan ko'y tuyo: ang mga mata ko'y nangangalumata habang hinihintay ko ang aking Dios.",
+    "reference": "Mga Awit 69:3 (ADB)",
+    "connected_to": "Mga Awit 69:4",
+    "connected_from": "Mga Awit 69:2"
+  },
+  {
+    "text": "Silang nangagtatanim sa akin ng walang anomang kadahilanan ay higit kay sa mga buhok ng aking ulo: silang ibig maghiwalay sa akin, na mga kaaway kong may kamalian, ay mga makapangyarihan: akin ngang isinauli ang hindi ko kinuha.",
+    "reference": "Mga Awit 69:4 (ADB)",
+    "connected_to": "Mga Awit 69:5",
+    "connected_from": "Mga Awit 69:3"
+  },
+  {
+    "text": "Oh Dios, kilala mo ang kamangmangan ko; at ang mga kasalanan ko'y hindi lihim sa iyo.",
+    "reference": "Mga Awit 69:5 (ADB)",
+    "connected_to": "Mga Awit 69:6",
+    "connected_from": "Mga Awit 69:4"
+  },
+  {
+    "text": "Huwag mangapahiya dahil sa akin ang nangaghihintay sa iyo, Oh Panginoong Dios ng mga hukbo: huwag mangalagay sa kasiraang puri dahil sa akin ang nagsisihanap sa iyo, Oh Dios ng Israel.",
+    "reference": "Mga Awit 69:6 (ADB)",
+    "connected_to": "Mga Awit 69:7",
+    "connected_from": "Mga Awit 69:5"
+  },
+  {
+    "text": "Sapagka't dahil sa iyo ay nagdala ako ng kadustaan; kahihiyan ay tumakip sa aking mukha.",
+    "reference": "Mga Awit 69:7 (ADB)",
+    "connected_to": "Mga Awit 69:8",
+    "connected_from": "Mga Awit 69:6"
+  },
+  {
+    "text": "Ako'y naging iba sa aking mga kapatid, at taga ibang lupa sa mga anak ng aking ina.",
+    "reference": "Mga Awit 69:8 (ADB)",
+    "connected_to": "Mga Awit 69:9",
+    "connected_from": "Mga Awit 69:7"
+  },
+  {
+    "text": "Sapagka't napuspos ako ng sikap sa iyong bahay; at ang mga pagduwahagi nila na nagsisiduwahagi sa iyo ay nangahulog sa akin.",
+    "reference": "Mga Awit 69:9 (ADB)",
+    "connected_to": "Mga Awit 69:10",
+    "connected_from": "Mga Awit 69:8"
+  },
+  {
+    "text": "Pag umiiyak ako at pinarurusahan ko ng pagaayuno ang aking kaluluwa, yao'y pagkaduwahagi sa akin.",
+    "reference": "Mga Awit 69:10 (ADB)",
+    "connected_to": "Mga Awit 69:11",
+    "connected_from": "Mga Awit 69:9"
+  },
+  {
+    "text": "Nang magsuot ako ng kayong magaspang, ay naging kawikaan ako sa kanila.",
+    "reference": "Mga Awit 69:11 (ADB)",
+    "connected_to": "Mga Awit 69:12",
+    "connected_from": "Mga Awit 69:10"
+  },
+  {
+    "text": "Pinag-uusapan ako nilang nangauupo sa pintuang-bayan; at ako ang awit ng mga lango.",
+    "reference": "Mga Awit 69:12 (ADB)",
+    "connected_to": "Mga Awit 69:13",
+    "connected_from": "Mga Awit 69:11"
+  },
+  {
+    "text": "Nguni't tungkol sa akin, ang dalangin ko'y sa iyo, Oh Panginoon, sa isang kalugodlugod na panahon: Oh Dios, sa karamihan ng iyong kagandahang-loob,",
+    "reference": "Mga Awit 69:13 (ADB)",
+    "connected_to": "Mga Awit 69:14",
+    "connected_from": "Mga Awit 69:12"
+  },
+  {
+    "text": "Iligtas mo ako sa burak, at huwag mo akong ilubog: maligtas ako sa kanila na nangagtatanim sa akin, at sa malalim na tubig.",
+    "reference": "Mga Awit 69:14 (ADB)",
+    "connected_to": "Mga Awit 69:15",
+    "connected_from": "Mga Awit 69:13"
+  },
+  {
+    "text": "Huwag akong tangayin ng baha, ni lamunin man ako ng kalaliman: at huwag takpan ng hukay ang kaniyang bunganga sa akin.",
+    "reference": "Mga Awit 69:15 (ADB)",
+    "connected_to": "Mga Awit 69:16",
+    "connected_from": "Mga Awit 69:14"
+  },
+  {
+    "text": "Sagutin mo ako, Oh Panginoon; sapagka't ang iyong kagandahang-loob ay mabuti: ayon sa karamihan ng iyong mga malumanay na kaawaan ay bumalik ka sa akin.",
+    "reference": "Mga Awit 69:16 (ADB)",
+    "connected_to": "Mga Awit 69:17",
+    "connected_from": "Mga Awit 69:15"
+  },
+  {
+    "text": "At huwag mong ikubli ang iyong mukha sa iyong lingkod; sapagka't ako'y nasa kahirapan; sagutin mo akong madali.",
+    "reference": "Mga Awit 69:17 (ADB)",
+    "connected_to": "Mga Awit 69:18",
+    "connected_from": "Mga Awit 69:16"
+  },
+  {
+    "text": "Lumapit ka sa aking kaluluwa, at tubusin mo: Iligtas mo ako dahil sa aking mga kaaway.",
+    "reference": "Mga Awit 69:18 (ADB)",
+    "connected_to": "Mga Awit 69:19",
+    "connected_from": "Mga Awit 69:17"
+  },
+  {
+    "text": "Talastas mo ang aking kadustaan, at ang aking kahihiyan, at ang aking kasiraang puri: ang aking mga kaaway, ay pawang nangasa harap mo.",
+    "reference": "Mga Awit 69:19 (ADB)",
+    "connected_to": "Mga Awit 69:20",
+    "connected_from": "Mga Awit 69:18"
+  },
+  {
+    "text": "Kaduwahagihan ay sumira ng aking puso; at ako'y lipos ng kabigatan ng loob: at ako'y naghintay na may maawa sa akin, nguni't wala; at mga mangaaliw, nguni't wala akong masumpungan.",
+    "reference": "Mga Awit 69:20 (ADB)",
+    "connected_to": "Mga Awit 69:21",
+    "connected_from": "Mga Awit 69:19"
+  },
+  {
+    "text": "Binigyan naman nila ako ng pagkaing mapait; at sa aking kauhawan ay binigyan nila ako ng suka na mainom.",
+    "reference": "Mga Awit 69:21 (ADB)",
+    "connected_to": "Mga Awit 69:22",
+    "connected_from": "Mga Awit 69:20"
+  },
+  {
+    "text": "Maging lalang sa harap nila ang kanilang dulang; at maging isang silo kung sila'y nasa kapayapaan.",
+    "reference": "Mga Awit 69:22 (ADB)",
+    "connected_to": "Mga Awit 69:23",
+    "connected_from": "Mga Awit 69:21"
+  },
+  {
+    "text": "Manglabo ang kanilang mga mata, na sila'y huwag makakita; at papanginigin mong palagi ang kanilang mga balakang.",
+    "reference": "Mga Awit 69:23 (ADB)",
+    "connected_to": "Mga Awit 69:24",
+    "connected_from": "Mga Awit 69:22"
+  },
+  {
+    "text": "Ibugso mo ang iyong galit sa kanila, at datnan sila ng kabangisan ng iyong galit.",
+    "reference": "Mga Awit 69:24 (ADB)",
+    "connected_to": "Mga Awit 69:25",
+    "connected_from": "Mga Awit 69:23"
+  },
+  {
+    "text": "Magiba ang tahanan nila; walang tumahan sa kanilang mga tolda.",
+    "reference": "Mga Awit 69:25 (ADB)",
+    "connected_to": "Mga Awit 69:26",
+    "connected_from": "Mga Awit 69:24"
+  },
+  {
+    "text": "Sapagka't kanilang hinabol siya na iyong sinaktan, at sinaysay nila ang damdam niyaong iyong sinugatan.",
+    "reference": "Mga Awit 69:26 (ADB)",
+    "connected_to": "Mga Awit 69:27",
+    "connected_from": "Mga Awit 69:25"
+  },
+  {
+    "text": "At dagdagan mo ng kasamaan ang kanilang kasamaan: at huwag silang masok sa iyong katuwiran.",
+    "reference": "Mga Awit 69:27 (ADB)",
+    "connected_to": "Mga Awit 69:28",
+    "connected_from": "Mga Awit 69:26"
+  },
+  {
+    "text": "Mapawi sila sa aklat ng buhay, at huwag masulat na kasama ng matuwid.",
+    "reference": "Mga Awit 69:28 (ADB)",
+    "connected_to": "Mga Awit 69:29",
+    "connected_from": "Mga Awit 69:27"
+  },
+  {
+    "text": "Nguni't ako'y dukha at mapanglaw: sa pamamagitan ng pagliligtas mo, Oh Dios, ay iahon mo nawa ako.",
+    "reference": "Mga Awit 69:29 (ADB)",
+    "connected_to": "Mga Awit 69:30",
+    "connected_from": "Mga Awit 69:28"
+  },
+  {
+    "text": "Aking pupurihin ng awit ang pangalan ng Dios, at dadakilain ko siya ng pasalamat.",
+    "reference": "Mga Awit 69:30 (ADB)",
+    "connected_to": "Mga Awit 69:31",
+    "connected_from": "Mga Awit 69:29"
+  },
+  {
+    "text": "At kalulugdan ng Panginoon na higit kay sa isang baka, o sa toro na may mga sungay at mga paa.",
+    "reference": "Mga Awit 69:31 (ADB)",
+    "connected_to": "Mga Awit 69:32",
+    "connected_from": "Mga Awit 69:30"
+  },
+  {
+    "text": "Nakita ng mga maamo, at nangatuwa: mabuhay ang puso, ninyong nagsisihanap sa Dios.",
+    "reference": "Mga Awit 69:32 (ADB)",
+    "connected_to": "Mga Awit 69:33",
+    "connected_from": "Mga Awit 69:31"
+  },
+  {
+    "text": "Sapagka't dinidinig ng Panginoon ang mapagkailangan, at hindi hinahamak ang kaniyang mga bilanggo.",
+    "reference": "Mga Awit 69:33 (ADB)",
+    "connected_to": "Mga Awit 69:34",
+    "connected_from": "Mga Awit 69:32"
+  },
+  {
+    "text": "Purihin siya ng langit at lupa, ng mga dagat, at ng bawa't bagay na gumagalaw roon.",
+    "reference": "Mga Awit 69:34 (ADB)",
+    "connected_to": "Mga Awit 69:35",
+    "connected_from": "Mga Awit 69:33"
+  },
+  {
+    "text": "Sapagka't ililigtas ng Dios ang Sion, at itatayo ang mga bayan ng Juda; at sila'y magsisitahan doon, at tatangkilikin nila na pinakaari.",
+    "reference": "Mga Awit 69:35 (ADB)",
+    "connected_to": "Mga Awit 69:36",
+    "connected_from": "Mga Awit 69:34"
+  },
+  {
+    "text": "Mamanahin naman ng binhi ng kaniyang mga lingkod; at silang nagsisiibig ng kaniyang pangalan ay magsisitahan doon.",
+    "reference": "Mga Awit 69:36 (ADB)",
+    "connected_from": "Mga Awit 69:35"
+  }
+]

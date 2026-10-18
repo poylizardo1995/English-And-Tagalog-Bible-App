@@ -1,0 +1,336 @@
+[
+  {
+    "text": "At umalis siya doon; at napasa kaniyang sariling lupain; at nagsisunod sa kaniya ang kaniyang mga alagad.",
+    "reference": "Marcos 6:1 (ADB)",
+    "connected_to": "Marcos 6:2"
+  },
+  {
+    "text": "At nang dumating ang sabbath, ay nagpasimulang magturo siya sa sinagoga: at marami sa nangakakarinig sa kaniya ay nangagtataka, na nangagsasabi, Saan nagkaroon ang taong ito ng mga bagay na ito? at, Anong karunungan ito na sa kaniya'y ibinigay, at anong kahulugan ng gayong mga makapangyarihang gawa na ginagawa ng kaniyang mga kamay?",
+    "reference": "Marcos 6:2 (ADB)",
+    "connected_to": "Marcos 6:3",
+    "connected_from": "Marcos 6:1"
+  },
+  {
+    "text": "Hindi baga ito ang anluwagi, ang anak ni Maria, at kapatid ni Santiago, at ni Jose, at ni Judas, at ni Simon? at hindi baga nangaririto sa atin ang kaniyang mga kapatid na babae? At siya'y kinatitisuran nila.",
+    "reference": "Marcos 6:3 (ADB)",
+    "connected_to": "Marcos 6:4",
+    "connected_from": "Marcos 6:2"
+  },
+  {
+    "text": "At sinabi sa kanila ni Jesus, Walang propetang di may kapurihan, liban sa kaniyang sariling lupain, at sa gitna ng kaniyang sariling mga kamaganak, at sa kaniyang sariling bahay.",
+    "reference": "Marcos 6:4 (ADB)",
+    "connected_to": "Marcos 6:5",
+    "connected_from": "Marcos 6:3"
+  },
+  {
+    "text": "At hindi siya nakagawa doon ng anomang makapangyarihang gawa, liban sa ipinatong niya ang kaniyang mga kamay sa ilang mga maysakit, at pinagaling sila.",
+    "reference": "Marcos 6:5 (ADB)",
+    "connected_to": "Marcos 6:6",
+    "connected_from": "Marcos 6:4"
+  },
+  {
+    "text": "At nanggigilalas siya sa kanilang di pananampalataya. At siya'y lumibot na nagtuturo sa mga nayong nasa paligidligid.",
+    "reference": "Marcos 6:6 (ADB)",
+    "connected_to": "Marcos 6:7",
+    "connected_from": "Marcos 6:5"
+  },
+  {
+    "text": "At pinalapit niya sa kaniya ang labingdalawa, at nagpasimulang sinugo sila na daladalawa; at binigyan niya sila ng kapamahalaan laban sa mga karumaldumal na espiritu;",
+    "reference": "Marcos 6:7 (ADB)",
+    "connected_to": "Marcos 6:8",
+    "connected_from": "Marcos 6:6"
+  },
+  {
+    "text": "At ipinagbilin niya sa kanila na huwag silang magsipagbaon ng anoman sa paglakad, kundi tungkod lamang; kahit tinapay, kahit supot ng ulam, kahit salapi sa kanilang supot;",
+    "reference": "Marcos 6:8 (ADB)",
+    "connected_to": "Marcos 6:9",
+    "connected_from": "Marcos 6:7"
+  },
+  {
+    "text": "Datapuwa't gumamit ng mga sandalyas: at, huwag magsuot ng dalawang tunika.",
+    "reference": "Marcos 6:9 (ADB)",
+    "connected_to": "Marcos 6:10",
+    "connected_from": "Marcos 6:8"
+  },
+  {
+    "text": "At sinabi niya sa kanila, Saan man kayo magsipasok sa isang bahay, mangatira kayo roon hanggang sa kayo'y magsialis doon.",
+    "reference": "Marcos 6:10 (ADB)",
+    "connected_to": "Marcos 6:11",
+    "connected_from": "Marcos 6:9"
+  },
+  {
+    "text": "At sa alin mang dakong hindi kayo tanggapin, at hindi kayo pakinggan, pagalis ninyo doo'y ipagpag ninyo ang alabok na nasa ilalim ng inyong talampakan bilang patotoo sa kanila.",
+    "reference": "Marcos 6:11 (ADB)",
+    "connected_to": "Marcos 6:12",
+    "connected_from": "Marcos 6:10"
+  },
+  {
+    "text": "At sila'y nangagsialis, at nagsipangaral na mangagsisi ang mga tao.",
+    "reference": "Marcos 6:12 (ADB)",
+    "connected_to": "Marcos 6:13",
+    "connected_from": "Marcos 6:11"
+  },
+  {
+    "text": "At nangagpalabas ng maraming demonio, at nangagpahid ng langis sa maraming may-sakit, at pinagaling sila.",
+    "reference": "Marcos 6:13 (ADB)",
+    "connected_to": "Marcos 6:14",
+    "connected_from": "Marcos 6:12"
+  },
+  {
+    "text": "At narinig ng haring Herodes; sapagka't nabantog na ang pangalan niya; at sinabi niya, Si Juan na Mangbabautismo ay nagbangon sa mga patay, at kaya sumasa kaniya ang mga kapangyarihang ito.",
+    "reference": "Marcos 6:14 (ADB)",
+    "connected_to": "Marcos 6:15",
+    "connected_from": "Marcos 6:13"
+  },
+  {
+    "text": "At sinasabi ng mga iba, Siya'y si Elias. At sinasabi ng mga iba, Siya'y propeta, na gaya ng ibang mga propeta.",
+    "reference": "Marcos 6:15 (ADB)",
+    "connected_to": "Marcos 6:16",
+    "connected_from": "Marcos 6:14"
+  },
+  {
+    "text": "Datapuwa't nang marinig ni Herodes, ay sinabi, Si Juan na aking pinugutan ng ulo, siya'y nagbangon.",
+    "reference": "Marcos 6:16 (ADB)",
+    "connected_to": "Marcos 6:17",
+    "connected_from": "Marcos 6:15"
+  },
+  {
+    "text": "Sapagka't si Herodes din ang nagsugo sa mga kawal at nagpahuli kay Juan, at nagpatanikala sa kaniya sa bilangguan dahil kay Herodias, na asawa ni Filipo na kaniyang kapatid; sapagka't nagasawa siya sa kaniya.",
+    "reference": "Marcos 6:17 (ADB)",
+    "connected_to": "Marcos 6:18",
+    "connected_from": "Marcos 6:16"
+  },
+  {
+    "text": "Sapagka't sinabi ni Juan kay Herodes, Hindi matuwid sa iyo na iyong ariin ang asawa ng iyong kapatid.",
+    "reference": "Marcos 6:18 (ADB)",
+    "connected_to": "Marcos 6:19",
+    "connected_from": "Marcos 6:17"
+  },
+  {
+    "text": "At ipinagtanim siya ni Herodias, at hinahangad siyang patayin; at hindi niya magawa;",
+    "reference": "Marcos 6:19 (ADB)",
+    "connected_to": "Marcos 6:20",
+    "connected_from": "Marcos 6:18"
+  },
+  {
+    "text": "Sapagka't natatakot si Herodes kay Juan palibhasa'y nalalamang siya'y lalaking matuwid at banal, at siya'y ipinagsanggalang niya. At kung siya'y pinakikinggan niya, ay natitilihan siyang mainam; at pinakikinggan niya siya na may galak.",
+    "reference": "Marcos 6:20 (ADB)",
+    "connected_to": "Marcos 6:21",
+    "connected_from": "Marcos 6:19"
+  },
+  {
+    "text": "At nang sumapit ang isang kaukulang araw, na kapanganakan niya, ay ipinaghanda ni Herodes ng isang hapunan ang kaniyang mga maginoo, at mga mataas na kapitan, at mga pangulong lalake sa Galilea;",
+    "reference": "Marcos 6:21 (ADB)",
+    "connected_to": "Marcos 6:22",
+    "connected_from": "Marcos 6:20"
+  },
+  {
+    "text": "At nang pumasok ang anak na babae ni Herodias ay sumayaw, at siya'y kinalugdan ni Herodes at ng mga kasalo niyang nakaupo sa dulang; at sinabi ng hari sa dalaga, Hingin mo sa akin ang maibigan mo, at ibibigay ko sa iyo.",
+    "reference": "Marcos 6:22 (ADB)",
+    "connected_to": "Marcos 6:23",
+    "connected_from": "Marcos 6:21"
+  },
+  {
+    "text": "At ipinanumpa niya sa kaniya, Ang anomang hingin mo sa akin ay ibibigay ko sa iyo, kahit ang kalahati ng aking kaharian.",
+    "reference": "Marcos 6:23 (ADB)",
+    "connected_to": "Marcos 6:24",
+    "connected_from": "Marcos 6:22"
+  },
+  {
+    "text": "At lumabas siya, at sinabi sa kaniyang ina, Ano ang aking hihingin? At sinabi niya, Ang ulo ni Juan ang Mangbabautismo.",
+    "reference": "Marcos 6:24 (ADB)",
+    "connected_to": "Marcos 6:25",
+    "connected_from": "Marcos 6:23"
+  },
+  {
+    "text": "At pagdaka'y pumasok siyang dalidali sa kinaroroonan ng hari, at humingi, na sinasabi, Ibig ko na ngayon din ang ibigay mo sa akin na nasa isang pinggan ang ulo ni Juan Bautista.",
+    "reference": "Marcos 6:25 (ADB)",
+    "connected_to": "Marcos 6:26",
+    "connected_from": "Marcos 6:24"
+  },
+  {
+    "text": "At namanglaw na lubha ang hari; datapuwa't dahil sa kaniyang sumpa, at sa nangakaupo sa dulang, ay hindi niya itinanggi.",
+    "reference": "Marcos 6:26 (ADB)",
+    "connected_to": "Marcos 6:27",
+    "connected_from": "Marcos 6:25"
+  },
+  {
+    "text": "At pagdaka'y nagsugo ang hari sa isang kawal na kaniyang bantay, at ipinagutos na dalhin sa kaniya ang ulo niya: at yumaon siya at pinugutan siya ng ulo sa bilangguan,",
+    "reference": "Marcos 6:27 (ADB)",
+    "connected_to": "Marcos 6:28",
+    "connected_from": "Marcos 6:26"
+  },
+  {
+    "text": "At dinala ang kaniyang ulo na nasa isang pinggan, at ibinigay sa dalaga; at ibinigay ng dalaga sa kaniyang ina.",
+    "reference": "Marcos 6:28 (ADB)",
+    "connected_to": "Marcos 6:29",
+    "connected_from": "Marcos 6:27"
+  },
+  {
+    "text": "At nang mabalitaan ng kaniyang mga alagad, ay nagsiparoon sila at binuhat ang kaniyang bangkay, at inilagay sa isang libingan.",
+    "reference": "Marcos 6:29 (ADB)",
+    "connected_to": "Marcos 6:30",
+    "connected_from": "Marcos 6:28"
+  },
+  {
+    "text": "At ang mga apostol ay nangagpisan kay Jesus; at isinaysay nila sa kaniya ang lahat ng mga bagay na kanilang ginawa, at ang lahat ng kanilang itinuro.",
+    "reference": "Marcos 6:30 (ADB)",
+    "connected_to": "Marcos 6:31",
+    "connected_from": "Marcos 6:29"
+  },
+  {
+    "text": "At sinabi niya sa kanila, Magsiparito kayo ng bukod sa isang dakong ilang, at mangagpahinga kayo ng kaunti. Sapagka't marami ang nangagpaparoo't parito, at sila'y hindi man lamang mangagkapanahon na magsikain.",
+    "reference": "Marcos 6:31 (ADB)",
+    "connected_to": "Marcos 6:32",
+    "connected_from": "Marcos 6:30"
+  },
+  {
+    "text": "At nagsiyaon silang nangasa daong at nangapasa isang dakong ilang at bukod.",
+    "reference": "Marcos 6:32 (ADB)",
+    "connected_to": "Marcos 6:33",
+    "connected_from": "Marcos 6:31"
+  },
+  {
+    "text": "At nangakita sila ng mga tao sa pagalis, at sila'y nangakilala ng marami at paraparang nagsisitakbo na nagsiparoon doon mula sa lahat ng mga bayan, at nangaunang nagsirating pa kay sa kanila.",
+    "reference": "Marcos 6:33 (ADB)",
+    "connected_to": "Marcos 6:34",
+    "connected_from": "Marcos 6:32"
+  },
+  {
+    "text": "At lumabas siya at nakita ang lubhang maraming tao, at nahabag siya sa kanila, sapagka't sila'y gaya ng mga tupa na walang pastor: at siya'y nagpasimulang tinuruan sila ng maraming bagay.",
+    "reference": "Marcos 6:34 (ADB)",
+    "connected_to": "Marcos 6:35",
+    "connected_from": "Marcos 6:33"
+  },
+  {
+    "text": "At nang gumabi na, ay nagsilapit sa kaniya ang kaniyang mga alagad, at nangagsabi, Ilang ang dakong ito, at gumagabi na;",
+    "reference": "Marcos 6:35 (ADB)",
+    "connected_to": "Marcos 6:36",
+    "connected_from": "Marcos 6:34"
+  },
+  {
+    "text": "Payaunin mo sila, upang sila'y magsiparoon sa mga bayan at mga nayon sa palibotlibot nito, at mangagsibili ng anomang makakain.",
+    "reference": "Marcos 6:36 (ADB)",
+    "connected_to": "Marcos 6:37",
+    "connected_from": "Marcos 6:35"
+  },
+  {
+    "text": "Datapuwa't siya'y sumagot at sinabi sa kanila, Bigyan ninyo sila ng makakain. At sinabi nila sa kaniya, Magsisiyaon ba kami at magsisibili ng dalawang daang denariong tinapay, at ipakakain namin sa kanila?",
+    "reference": "Marcos 6:37 (ADB)",
+    "connected_to": "Marcos 6:38",
+    "connected_from": "Marcos 6:36"
+  },
+  {
+    "text": "At sinabi niya sa kanila, Ilang tinapay mayroon kayo? magsiparoon kayo at inyong tingnan. At nang mangaalaman nila, ay kanilang sinabi, Lima, at dalawang isda.",
+    "reference": "Marcos 6:38 (ADB)",
+    "connected_to": "Marcos 6:39",
+    "connected_from": "Marcos 6:37"
+  },
+  {
+    "text": "At iniutos niya sa kanila na paupuin silang lahat na pulupulutong sa ibabaw ng damuhang sariwa.",
+    "reference": "Marcos 6:39 (ADB)",
+    "connected_to": "Marcos 6:40",
+    "connected_from": "Marcos 6:38"
+  },
+  {
+    "text": "At sila'y nagsiupong hanayhanay, na tigsasangdaan, at tiglilimangpu.",
+    "reference": "Marcos 6:40 (ADB)",
+    "connected_to": "Marcos 6:41",
+    "connected_from": "Marcos 6:39"
+  },
+  {
+    "text": "At kinuha niya ang limang tinapay at ang dalawang isda, at pagtingala sa langit, ay kaniyang pinagpala, at pinagputolputol ang mga tinapay; at ibinigay niya sa mga alagad upang ihain nila sa kanila; at ipinamahagi niya sa kanilang lahat ang dalawang isda.",
+    "reference": "Marcos 6:41 (ADB)",
+    "connected_to": "Marcos 6:42",
+    "connected_from": "Marcos 6:40"
+  },
+  {
+    "text": "At nagsikain silang lahat, at nangabusog.",
+    "reference": "Marcos 6:42 (ADB)",
+    "connected_to": "Marcos 6:43",
+    "connected_from": "Marcos 6:41"
+  },
+  {
+    "text": "At kanilang pinulot ang mga pinagputolputol, labingdalawang bakol na puno ng tinapay at mga isda naman.",
+    "reference": "Marcos 6:43 (ADB)",
+    "connected_to": "Marcos 6:44",
+    "connected_from": "Marcos 6:42"
+  },
+  {
+    "text": "At ang nagsikain ng mga tinapay ay limang libong lalake.",
+    "reference": "Marcos 6:44 (ADB)",
+    "connected_to": "Marcos 6:45",
+    "connected_from": "Marcos 6:43"
+  },
+  {
+    "text": "At pagdaka'y pinalulan niya sa daong ang kaniyang mga alagad, at pinauna sa kaniya sa kabilang ibayo, sa Betsaida, samantalang pinayayaon niya ang karamihan.",
+    "reference": "Marcos 6:45 (ADB)",
+    "connected_to": "Marcos 6:46",
+    "connected_from": "Marcos 6:44"
+  },
+  {
+    "text": "At pagkatapos na mapagpaalam niya sila, ay naparoon siya sa bundok upang manalangin.",
+    "reference": "Marcos 6:46 (ADB)",
+    "connected_to": "Marcos 6:47",
+    "connected_from": "Marcos 6:45"
+  },
+  {
+    "text": "At nang dumating ang gabi, ang daong ay nasa gitna ng dagat, at siya'y nagiisa sa lupa.",
+    "reference": "Marcos 6:47 (ADB)",
+    "connected_to": "Marcos 6:48",
+    "connected_from": "Marcos 6:46"
+  },
+  {
+    "text": "At pagkakita sa kanila na totoong nangalulumbay sa paggaod, sapagka't sinasalunga sila ng hangin, at malapit na ang ikaapat na pagpupuyat sa gabi ay naparoon siya sa kanila, na lumalakad sa ibabaw ng dagat; at ibig silang lagpasan:",
+    "reference": "Marcos 6:48 (ADB)",
+    "connected_to": "Marcos 6:49",
+    "connected_from": "Marcos 6:47"
+  },
+  {
+    "text": "Datapuwa't sila, nang makita nilang siya'y lumalakad sa ibabaw ng dagat, ay inakala nilang siya'y isang multo, at nangagsisigaw;",
+    "reference": "Marcos 6:49 (ADB)",
+    "connected_to": "Marcos 6:50",
+    "connected_from": "Marcos 6:48"
+  },
+  {
+    "text": "Sapagka't nakita siya nilang lahat, at nangagulumihanan. Datapuwa't pagdaka'y nagsalita siya sa kanila, at sa kanila'y sinabi, Laksan ninyo ang inyong loob: ako nga; huwag kayong mangatakot.",
+    "reference": "Marcos 6:50 (ADB)",
+    "connected_to": "Marcos 6:51",
+    "connected_from": "Marcos 6:49"
+  },
+  {
+    "text": "At pinanhik niya sila sa daong; at humimpil ang hangin: at sila'y nanganggilalas ng di kawasa sa kanilang sarili;",
+    "reference": "Marcos 6:51 (ADB)",
+    "connected_to": "Marcos 6:52",
+    "connected_from": "Marcos 6:50"
+  },
+  {
+    "text": "Palibhasa'y hindi pa nila natatalastas yaong tungkol sa mga tinapay, dahil sa ang kanilang puso'y pinatigas.",
+    "reference": "Marcos 6:52 (ADB)",
+    "connected_to": "Marcos 6:53",
+    "connected_from": "Marcos 6:51"
+  },
+  {
+    "text": "At nang mangakatawid na sila, ay narating nila ang lupa ng Genezaret, at nagsisadsad sa daungan.",
+    "reference": "Marcos 6:53 (ADB)",
+    "connected_to": "Marcos 6:54",
+    "connected_from": "Marcos 6:52"
+  },
+  {
+    "text": "At paglunsad nila sa daong, pagdaka'y nakilala siya ng mga tao,",
+    "reference": "Marcos 6:54 (ADB)",
+    "connected_to": "Marcos 6:55",
+    "connected_from": "Marcos 6:53"
+  },
+  {
+    "text": "At nang malibot nilang nagtutumulin ang buong lupaing yaon, at nagpasimulang dalhin sa kaniya ang mga may-sakit na nasa kanilang higaan, saan man nila marinig na naroon siya.",
+    "reference": "Marcos 6:55 (ADB)",
+    "connected_to": "Marcos 6:56",
+    "connected_from": "Marcos 6:54"
+  },
+  {
+    "text": "At saan man siya pumasok, sa mga nayon, o sa mga bayan o sa mga bukid, ay inilalagay nila sa mga liwasan ang mga may-sakit, at ipinamamanhik sa kaniya na ipahipo man lamang sa kanila ang laylayan ng kaniyang damit: at ang lahat ng nagsihipo sa kaniya ay pawang nagsigaling.",
+    "reference": "Marcos 6:56 (ADB)",
+    "connected_from": "Marcos 6:55"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "text": "At ang Panginoon ay nagsalita kay Moises, na sinasabi,",
+    "reference": "Exodo 13:1 (ADB)",
+    "connected_to": "Exodo 13:2"
+  },
+  {
+    "text": "Pakabanalin mo sa akin ang lahat ng mga panganay, anomang nagbubukas ng bahay-bata sa mga anak ni Israel: maging sa tao at maging sa hayop ay akin.",
+    "reference": "Exodo 13:2 (ADB)",
+    "connected_to": "Exodo 13:3",
+    "connected_from": "Exodo 13:1"
+  },
+  {
+    "text": "At sinabi ni Moises sa bayan, Alalahanin ninyo ang araw na ito na inialis ninyo sa Egipto, sa bahay ng pagkaalipin; sapagka't sa pamamagitan ng lakas ng kamay ay hinango kayo ng Panginoon sa dakong ito, wala sinomang kakain ng tinapay na may lebadura.",
+    "reference": "Exodo 13:3 (ADB)",
+    "connected_to": "Exodo 13:4",
+    "connected_from": "Exodo 13:2"
+  },
+  {
+    "text": "Sa araw na ito ay umaalis kayo ng buwan ng Abib.",
+    "reference": "Exodo 13:4 (ADB)",
+    "connected_to": "Exodo 13:5",
+    "connected_from": "Exodo 13:3"
+  },
+  {
+    "text": "At mangyayari, na pagkadala sa iyo ng Panginoon sa lupain ng Cananeo, at ng Hetheo, at ng Amorrheo, at ng Hebreo, at ng Jebuseo, na kaniyang isinumpa sa iyong mga magulang, na ibibigay sa iyo, na lupang binubukalan ng gatas at pulot ay iyong ipangingilin ang paglilingkod na ito sa buwang ito.",
+    "reference": "Exodo 13:5 (ADB)",
+    "connected_to": "Exodo 13:6",
+    "connected_from": "Exodo 13:4"
+  },
+  {
+    "text": "Pitong araw na kakain ka ng tinapay na walang lebadura, at sa ikapitong araw ay magiging isang kapistahan sa Panginoon.",
+    "reference": "Exodo 13:6 (ADB)",
+    "connected_to": "Exodo 13:7",
+    "connected_from": "Exodo 13:5"
+  },
+  {
+    "text": "Tinapay na walang lebadura ang kakanin sa loob ng pitong araw, at huwag makakakita sa iyo, ng tinapay na may lebadura, ni makakakita ng lebadura sa iyo, sa lahat ng iyong mga hangganan.",
+    "reference": "Exodo 13:7 (ADB)",
+    "connected_to": "Exodo 13:8",
+    "connected_from": "Exodo 13:6"
+  },
+  {
+    "text": "At sasaysayin mo sa iyong anak sa araw na yaon, na iyong sasabihin: Dahil sa ginawa ng Panginoon sa akin nang ako'y umalis sa Egipto.",
+    "reference": "Exodo 13:8 (ADB)",
+    "connected_to": "Exodo 13:9",
+    "connected_from": "Exodo 13:7"
+  },
+  {
+    "text": "At sa iyo'y magiging pinakatanda sa ibabaw ng iyong kamay, at pinakaalaala sa pagitan ng iyong mga mata, upang ang kautusan ng Panginoon ay sumaiyong bibig: sapagka't sa pamamagitan ng malakas na kamay, ay inalis ka ng Panginoon sa Egipto.",
+    "reference": "Exodo 13:9 (ADB)",
+    "connected_to": "Exodo 13:10",
+    "connected_from": "Exodo 13:8"
+  },
+  {
+    "text": "Isasagawa mo nga ang palatuntunang ito sa kapanahunan nito taon taon.",
+    "reference": "Exodo 13:10 (ADB)",
+    "connected_to": "Exodo 13:11",
+    "connected_from": "Exodo 13:9"
+  },
+  {
+    "text": "At mangyayari, pagkadala sa iyo ng Panginoon sa lupain ng Cananeo, gaya ng isinumpa sa iyo at sa iyong mga magulang, at pagkabigay niyaon sa iyo,",
+    "reference": "Exodo 13:11 (ADB)",
+    "connected_to": "Exodo 13:12",
+    "connected_from": "Exodo 13:10"
+  },
+  {
+    "text": "Ay ihihiwalay mo para sa Panginoon yaong lahat na nagbubukas ng bahay-bata, at bawa't panganay na mayroon ka na mula sa hayop; ang mga lalake, ay sa Panginoon.",
+    "reference": "Exodo 13:12 (ADB)",
+    "connected_to": "Exodo 13:13",
+    "connected_from": "Exodo 13:11"
+  },
+  {
+    "text": "At bawa't panganay sa asno ay tutubusin mo ng isang kordero; at kung hindi mo tutubusin, ay iyo ngang babaliin ang kaniyang leeg: at lahat ng mga panganay na lalake sa iyong mga anak ay iyong tutubusin.",
+    "reference": "Exodo 13:13 (ADB)",
+    "connected_to": "Exodo 13:14",
+    "connected_from": "Exodo 13:12"
+  },
+  {
+    "text": "At mangyayari, na pagtatanong sa iyo ng iyong anak sa panahong darating, na sasabihin, Ano ito? na iyong sasabihin sa kaniya: Sa pamamagitan ng lakas ng kamay ay inilabas tayo ng Panginoon sa Egipto, sa bahay ng pagkaalipin.",
+    "reference": "Exodo 13:14 (ADB)",
+    "connected_to": "Exodo 13:15",
+    "connected_from": "Exodo 13:13"
+  },
+  {
+    "text": "At nangyari, nang magmatigas si Faraon na hindi kami tulutang yumaon, ay pinatay ng Panginoon ang lahat ng mga panganay sa lupain ng Egipto, ang panganay ng tao at gayon din ang panganay ng hayop: kaya't aking inihahain sa Panginoon ang lahat ng nagbubukas ng bahay-bata na mga lalake; nguni't lahat ng panganay ng aking anak ay aking tinutubos.",
+    "reference": "Exodo 13:15 (ADB)",
+    "connected_to": "Exodo 13:16",
+    "connected_from": "Exodo 13:14"
+  },
+  {
+    "text": "At magiging pinakatanda sa iyong kamay, at pinakaalaala sa pagitan ng iyong mga mata: sapagka't sa pamamagitan ng lakas ng kamay ay inilabas tayo ng Panginoon sa Egipto.",
+    "reference": "Exodo 13:16 (ADB)",
+    "connected_to": "Exodo 13:17",
+    "connected_from": "Exodo 13:15"
+  },
+  {
+    "text": "At nangyari, nang tulutan ni Faraon na ang bayan ay yumaon, na hindi sila pinatnubayan ng Dios sa daang patungo sa lupain ng mga Filisteo, bagaman malapit; sapagka't sinabi ng Dios, Baka sakaling ang bayan ay magsisi pagkakita ng pagbabaka, at magsipagbalik sa Egipto:",
+    "reference": "Exodo 13:17 (ADB)",
+    "connected_to": "Exodo 13:18",
+    "connected_from": "Exodo 13:16"
+  },
+  {
+    "text": "Kundi pinatnubayan ng Dios ang bayan sa palibot, sa daang patungo sa ilang sa tabi ng Dagat na Mapula: at ang mga anak ni Israel ay sumampang nangakasakbat mula sa lupain ng Egipto.",
+    "reference": "Exodo 13:18 (ADB)",
+    "connected_to": "Exodo 13:19",
+    "connected_from": "Exodo 13:17"
+  },
+  {
+    "text": "At dinala ni Moises ang mga buto ni Jose: sapagka't kaniyang ipinanumpang mahigpit sa mga anak ni Israel, na sinasabi, Tunay na dadalawin kayo ng Dios; at inyong isasampa ang aking mga buto mula rito na kasama ninyo.",
+    "reference": "Exodo 13:19 (ADB)",
+    "connected_to": "Exodo 13:20",
+    "connected_from": "Exodo 13:18"
+  },
+  {
+    "text": "At sila'y naglakbay mula sa Succoth, at humantong sa Etham, sa hangganan ng ilang.",
+    "reference": "Exodo 13:20 (ADB)",
+    "connected_to": "Exodo 13:21",
+    "connected_from": "Exodo 13:19"
+  },
+  {
+    "text": "At ang Panginoon ay nangunguna sa kanila sa araw, sa isang haliging ulap, upang patnubayan sila sa daan; at sa gabi, ay sa isang haliging apoy, upang tanglawan sila; upang sila'y makapaglakad sa araw at sa gabi.",
+    "reference": "Exodo 13:21 (ADB)",
+    "connected_to": "Exodo 13:22",
+    "connected_from": "Exodo 13:20"
+  },
+  {
+    "text": "Ang haliging ulap sa araw at ang haliging apoy sa gabi ay hindi humihiwalay sa harapan ng bayan.",
+    "reference": "Exodo 13:22 (ADB)",
+    "connected_from": "Exodo 13:21"
+  }
+]

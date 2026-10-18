@@ -1,0 +1,42 @@
+[
+  {
+    "text": "Iligtas mo ako, Oh Dios, sa pamamagitan ng iyong pangalan. At hatulan mo ako sa iyong kapangyarihan.",
+    "reference": "Mga Awit 54:1 (ADB)",
+    "connected_to": "Mga Awit 54:2"
+  },
+  {
+    "text": "Dinggin mo ang aking dalangin, Oh Dios; pakinggan mo ang mga salita ng aking bibig.",
+    "reference": "Mga Awit 54:2 (ADB)",
+    "connected_to": "Mga Awit 54:3",
+    "connected_from": "Mga Awit 54:1"
+  },
+  {
+    "text": "Sapagka't ang mga tagaibang lupa ay nagsibangon laban sa akin, at ang mga mangdadahas na tao ay nagsisiusig ng aking kaluluwa: hindi nila inilagay ang Dios sa harap nila. (Selah)",
+    "reference": "Mga Awit 54:3 (ADB)",
+    "connected_to": "Mga Awit 54:4",
+    "connected_from": "Mga Awit 54:2"
+  },
+  {
+    "text": "Narito, ang Dios ay aking katulong: ang Panginoon ay sa kanila na nagsisialalay ng aking kaluluwa.",
+    "reference": "Mga Awit 54:4 (ADB)",
+    "connected_to": "Mga Awit 54:5",
+    "connected_from": "Mga Awit 54:3"
+  },
+  {
+    "text": "Kaniyang ibabalik ang kasamaan sa aking mga kaaway: gibain mo sila sa iyong katotohanan.",
+    "reference": "Mga Awit 54:5 (ADB)",
+    "connected_to": "Mga Awit 54:6",
+    "connected_from": "Mga Awit 54:4"
+  },
+  {
+    "text": "Ako'y maghahain sa iyo ng kusang handog: ako'y magpapasalamat sa iyong pangalan, Oh Panginoon, sapagka't mabuti.",
+    "reference": "Mga Awit 54:6 (ADB)",
+    "connected_to": "Mga Awit 54:7",
+    "connected_from": "Mga Awit 54:5"
+  },
+  {
+    "text": "Sapagka't iniligtas niya ako sa lahat ng kabagabagan; at nakita ng aking mata ang aking nasa sa aking mga kaaway.",
+    "reference": "Mga Awit 54:7 (ADB)",
+    "connected_from": "Mga Awit 54:6"
+  }
+]

@@ -1,0 +1,180 @@
+[
+  {
+    "text": "At nangyari nang panahong yaon, na humiwalay si Juda sa kaniyang mga kapatid, at nagdaan sa isang Adullamita na ang pangalan ay Hira.",
+    "reference": "Genesis 38:1 (ADB)",
+    "connected_to": "Genesis 38:2"
+  },
+  {
+    "text": "At nakita roon ni Juda ang anak na babae ng isang Cananeo, na tinatawag na Sua; at kinuha niya at kaniyang sinipingan.",
+    "reference": "Genesis 38:2 (ADB)",
+    "connected_to": "Genesis 38:3",
+    "connected_from": "Genesis 38:1"
+  },
+  {
+    "text": "At naglihi, at nanganak ng lalake; at tinawag niya ang kaniyang pangalang Er.",
+    "reference": "Genesis 38:3 (ADB)",
+    "connected_to": "Genesis 38:4",
+    "connected_from": "Genesis 38:2"
+  },
+  {
+    "text": "At naglihi uli, at nanganak ng lalake; at tinawag niya ang kaniyang pangalang Onan.",
+    "reference": "Genesis 38:4 (ADB)",
+    "connected_to": "Genesis 38:5",
+    "connected_from": "Genesis 38:3"
+  },
+  {
+    "text": "At muling naglihi at nanganak ng lalake; at tinawag niya ang kaniyang pangalang Selah: at si Juda ay nasa sa Chezib nang siya'y manganak.",
+    "reference": "Genesis 38:5 (ADB)",
+    "connected_to": "Genesis 38:6",
+    "connected_from": "Genesis 38:4"
+  },
+  {
+    "text": "At pinapag-asawa ni Juda si Er na kaniyang panganay, at ang pangalan niyao'y Thamar.",
+    "reference": "Genesis 38:6 (ADB)",
+    "connected_to": "Genesis 38:7",
+    "connected_from": "Genesis 38:5"
+  },
+  {
+    "text": "At si Er, na panganay ni Juda, ay naging masama sa paningin ng Panginoon; at siya'y pinatay ng Panginoon.",
+    "reference": "Genesis 38:7 (ADB)",
+    "connected_to": "Genesis 38:8",
+    "connected_from": "Genesis 38:6"
+  },
+  {
+    "text": "At sinabi ni Juda kay Onan, Sumiping ka sa asawa ng iyong kapatid, at tuparin mo sa kaniya ang tungkulin ng kapatid ng asawa, at ipagbangon mo ng binhi ang iyong kapatid.",
+    "reference": "Genesis 38:8 (ADB)",
+    "connected_to": "Genesis 38:9",
+    "connected_from": "Genesis 38:7"
+  },
+  {
+    "text": "At nalalaman ni Onan na hindi magiging kaniya ang binhi; at nangyari, na pagka sisiping siya sa asawa ng kaniyang kapatid, ay pinatutulo niya sa lupa, nang huwag lamang niyang bigyan ng binhi ang kaniyang kapatid.",
+    "reference": "Genesis 38:9 (ADB)",
+    "connected_to": "Genesis 38:10",
+    "connected_from": "Genesis 38:8"
+  },
+  {
+    "text": "At ang bagay na ginawa niya ay masama sa paningin ng Panginoon, at siya'y pinatay rin naman.",
+    "reference": "Genesis 38:10 (ADB)",
+    "connected_to": "Genesis 38:11",
+    "connected_from": "Genesis 38:9"
+  },
+  {
+    "text": "Nang magkagayo'y sinabi ni Juda kay Thamar na kaniyang manugang na babae: Manatili kang bao sa bahay ng iyong ama, hanggang sa lumaki si Selah na aking anak: sapagka't sinabi niya, Marahil ay hindi siya mamamatay ng gaya ng kaniyang mga kapatid. At yumaon si Thamar at tumahan sa bahay ng kaniyang ama.",
+    "reference": "Genesis 38:11 (ADB)",
+    "connected_to": "Genesis 38:12",
+    "connected_from": "Genesis 38:10"
+  },
+  {
+    "text": "At nagdaan ang maraming araw; at namatay ang anak na babae ni Sua, na asawa ni Juda; at nagaliw si Juda, at umahon sa Timnath sa mga manggugupit sa kaniyang mga tupa, siya at ang kaniyang kaibigang si Hira na Adullamita.",
+    "reference": "Genesis 38:12 (ADB)",
+    "connected_to": "Genesis 38:13",
+    "connected_from": "Genesis 38:11"
+  },
+  {
+    "text": "At naibalita kay Thamar, na sinasabi, Narito, ang iyong biyanang lalake ay umaahon sa Timnath upang pagupitan ang kaniyang mga tupa.",
+    "reference": "Genesis 38:13 (ADB)",
+    "connected_to": "Genesis 38:14",
+    "connected_from": "Genesis 38:12"
+  },
+  {
+    "text": "At siya'y nagalis ng suot pagkabao, at nagtakip ng kaniyang lambong, at pagkapagtakip ay naupo sa pasukan ng Enaim, na nasa daan ng Timnath; sapagka't kaniyang nakikita, na si Selah ay malaki na, at hindi pa siya ibinibigay na asawa.",
+    "reference": "Genesis 38:14 (ADB)",
+    "connected_to": "Genesis 38:15",
+    "connected_from": "Genesis 38:13"
+  },
+  {
+    "text": "Nang makita siya ni Juda ay ipinalagay siyang patutot, sapagka't siya'y nagtakip ng kaniyang mukha.",
+    "reference": "Genesis 38:15 (ADB)",
+    "connected_to": "Genesis 38:16",
+    "connected_from": "Genesis 38:14"
+  },
+  {
+    "text": "At lumapit sa kaniya, sa tabi ng daan, at sinabi, Narito nga, ipinamamanhik ko sa iyo na ako'y pasipingin mo sa iyo: sapagka't hindi niya nakilalang kaniyang manugang. At kaniyang sinabi, Anong ibibigay mo sa akin sa iyong pagsiping sa akin?",
+    "reference": "Genesis 38:16 (ADB)",
+    "connected_to": "Genesis 38:17",
+    "connected_from": "Genesis 38:15"
+  },
+  {
+    "text": "At kaniyang sinabi, Padadalhan kita ng isang anak ng kambing na mula sa kawan. At kaniyang sinabi, Bibigyan mo ba ako ng sangla hanggang sa maipadala mo?",
+    "reference": "Genesis 38:17 (ADB)",
+    "connected_to": "Genesis 38:18",
+    "connected_from": "Genesis 38:16"
+  },
+  {
+    "text": "At kaniyang sinabi, Anong sangla ang ibibigay ko sa iyo? At kaniyang sinabi, Ang iyong singsing, at ang iyong pamigkis, at ang tungkod na dala mo sa kamay. At kaniyang ipinagbibigay sa kaniya, at sumiping sa kaniya; at siya'y naglihi sa pamamagitan niya.",
+    "reference": "Genesis 38:18 (ADB)",
+    "connected_to": "Genesis 38:19",
+    "connected_from": "Genesis 38:17"
+  },
+  {
+    "text": "At siya'y bumangon, at yumaon, at siya'y nagalis ng kaniyang lambong, at isinuot ang mga kasuutan ng kaniyang pagkabao.",
+    "reference": "Genesis 38:19 (ADB)",
+    "connected_to": "Genesis 38:20",
+    "connected_from": "Genesis 38:18"
+  },
+  {
+    "text": "At ipinadala ni Juda ang anak ng kambing sa pamamagitan ng kamay ng kaniyang kaibigan, na Adullamita, upang tanggapin ang sangla sa kamay ng babae: datapuwa't hindi niya nasumpungan.",
+    "reference": "Genesis 38:20 (ADB)",
+    "connected_to": "Genesis 38:21",
+    "connected_from": "Genesis 38:19"
+  },
+  {
+    "text": "Nang magkagayo'y kaniyang itinanong sa mga tao sa dakong yaon na sinasabi, Saan nandoon ang patutot na nasa tabi ng daan sa Enaim? At kanilang sinabi, Walang naparitong sinomang patutot.",
+    "reference": "Genesis 38:21 (ADB)",
+    "connected_to": "Genesis 38:22",
+    "connected_from": "Genesis 38:20"
+  },
+  {
+    "text": "At nagbalik siya kay Juda, at sinabi, Hindi ko nasumpungan: at sinabi rin naman ng mga tao sa dakong yaon, Walang naging patutot rito.",
+    "reference": "Genesis 38:22 (ADB)",
+    "connected_to": "Genesis 38:23",
+    "connected_from": "Genesis 38:21"
+  },
+  {
+    "text": "At sinabi ni Juda, Pabayaang ariin niya, baka tayo'y mapahiya: narito, aking ipinadala itong anak ng kambing at hindi mo siya nasumpungan.",
+    "reference": "Genesis 38:23 (ADB)",
+    "connected_to": "Genesis 38:24",
+    "connected_from": "Genesis 38:22"
+  },
+  {
+    "text": "At nangyari, na pagkaraan ng tatlong buwan, humigit kumulang, ay naibalita kay Juda, na sinasabi, Ang iyong manugang na si Thamar ay nagpatutot; at, narito, siya'y buntis sa pakikiapid. At sinabi ni Juda, Siya'y ilabas upang sunugin.",
+    "reference": "Genesis 38:24 (ADB)",
+    "connected_to": "Genesis 38:25",
+    "connected_from": "Genesis 38:23"
+  },
+  {
+    "text": "Nang siya'y ilabas, ay nagpasabi siya sa kaniyang biyanan. Sa lalaking may-ari ng mga ito, ay nagdalangtao ako: at kaniyang sinabi pang, Ipinamamanhik ko sa iyo, na kilalanin mo kung kanino ang mga ito, ang singsing, ang pamigkis, at ang tungkod.",
+    "reference": "Genesis 38:25 (ADB)",
+    "connected_to": "Genesis 38:26",
+    "connected_from": "Genesis 38:24"
+  },
+  {
+    "text": "At nangakilala ni Juda, at sinabi, Siya'y matuwid kay sa akin; sapagka't hindi ko ibinigay sa kaniya si Selah na aking anak. At hindi na niya muling sinipingan pa.",
+    "reference": "Genesis 38:26 (ADB)",
+    "connected_to": "Genesis 38:27",
+    "connected_from": "Genesis 38:25"
+  },
+  {
+    "text": "At nangyari, na sa pagdaramdam niya, na, narito, kambal ang nasa kaniyang tiyan.",
+    "reference": "Genesis 38:27 (ADB)",
+    "connected_to": "Genesis 38:28",
+    "connected_from": "Genesis 38:26"
+  },
+  {
+    "text": "At nangyari, nang nanganganak siya, na inilabas ng isa ang kamay: at hinawakan ng hilot at tinalian sa kamay ng isang sinulid na mapula, na sinasabi, Ito ang unang lumabas.",
+    "reference": "Genesis 38:28 (ADB)",
+    "connected_to": "Genesis 38:29",
+    "connected_from": "Genesis 38:27"
+  },
+  {
+    "text": "At nangyari, na pagkaurong ng kaniyang kamay, na, narito, ang kaniyang kapatid ang lumabas. At kaniyang sinabi, Bakit nagpumiglas ka? kaya't tinawag ang pangalan niyang Phares.",
+    "reference": "Genesis 38:29 (ADB)",
+    "connected_to": "Genesis 38:30",
+    "connected_from": "Genesis 38:28"
+  },
+  {
+    "text": "At pagkatapos ay lumabas ang kaniyang kapatid, na siyang may sinulid na mapula sa kamay: at tinawag na Zara ang kaniyang pangalan.",
+    "reference": "Genesis 38:30 (ADB)",
+    "connected_from": "Genesis 38:29"
+  }
+]

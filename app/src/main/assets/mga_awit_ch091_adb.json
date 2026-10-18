@@ -1,0 +1,96 @@
+[
+  {
+    "text": "Siyang tumatahan sa lihim na dako ng Kataastaasan. Ay mananatili sa lilim ng Makapangyarihan sa lahat.",
+    "reference": "Mga Awit 91:1 (ADB)",
+    "connected_to": "Mga Awit 91:2"
+  },
+  {
+    "text": "Aking sasabihin tungkol sa Panginoon, siya'y aking kanlungan at aking katibayan, ang Dios ko na siyang aking tinitiwalaan.",
+    "reference": "Mga Awit 91:2 (ADB)",
+    "connected_to": "Mga Awit 91:3",
+    "connected_from": "Mga Awit 91:1"
+  },
+  {
+    "text": "Sapagka't kaniyang ililigtas ka sa silo ng paninilo, at sa mapamuksang salot.",
+    "reference": "Mga Awit 91:3 (ADB)",
+    "connected_to": "Mga Awit 91:4",
+    "connected_from": "Mga Awit 91:2"
+  },
+  {
+    "text": "Kaniyang tatakpan ka ng kaniyang mga bagwis, at sa ilalim ng kaniyang mga pakpak ay manganganlong ka: ang kaniyang katotohanan ay kalasag at baluti.",
+    "reference": "Mga Awit 91:4 (ADB)",
+    "connected_to": "Mga Awit 91:5",
+    "connected_from": "Mga Awit 91:3"
+  },
+  {
+    "text": "Ikaw ay hindi matatakot sa kakilabutan sa gabi, ni sa pana man na humihilagpos kung araw;",
+    "reference": "Mga Awit 91:5 (ADB)",
+    "connected_to": "Mga Awit 91:6",
+    "connected_from": "Mga Awit 91:4"
+  },
+  {
+    "text": "Dahil sa salot na dumarating sa kadiliman, ni dahil sa paggiba man na sumisira sa katanghaliang tapat.",
+    "reference": "Mga Awit 91:6 (ADB)",
+    "connected_to": "Mga Awit 91:7",
+    "connected_from": "Mga Awit 91:5"
+  },
+  {
+    "text": "Isang libo ay mabubuwal sa iyong siping, at sangpung libo sa iyong kanan; nguni't hindi lalapit sa iyo.",
+    "reference": "Mga Awit 91:7 (ADB)",
+    "connected_to": "Mga Awit 91:8",
+    "connected_from": "Mga Awit 91:6"
+  },
+  {
+    "text": "Iyong mamamasdan lamang ng iyong mga mata, at iyong makikita ang ganti sa masama.",
+    "reference": "Mga Awit 91:8 (ADB)",
+    "connected_to": "Mga Awit 91:9",
+    "connected_from": "Mga Awit 91:7"
+  },
+  {
+    "text": "Sapagka't ikaw, Oh Panginoon, ay aking kanlungan! Iyong ginawa ang Kataastaasan na iyong tahanan;",
+    "reference": "Mga Awit 91:9 (ADB)",
+    "connected_to": "Mga Awit 91:10",
+    "connected_from": "Mga Awit 91:8"
+  },
+  {
+    "text": "Walang kasamaang mangyayari sa iyo, ni anomang salot ay lalapit sa iyong tolda.",
+    "reference": "Mga Awit 91:10 (ADB)",
+    "connected_to": "Mga Awit 91:11",
+    "connected_from": "Mga Awit 91:9"
+  },
+  {
+    "text": "Sapagka't siya'y magbibilin sa kaniyang mga anghel tungkol sa iyo, upang ingatan ka sa lahat ng iyong mga lakad.",
+    "reference": "Mga Awit 91:11 (ADB)",
+    "connected_to": "Mga Awit 91:12",
+    "connected_from": "Mga Awit 91:10"
+  },
+  {
+    "text": "Kanilang dadalhin ka sa kanilang mga kamay, baka matisod ka ng iyong paa sa isang bato.",
+    "reference": "Mga Awit 91:12 (ADB)",
+    "connected_to": "Mga Awit 91:13",
+    "connected_from": "Mga Awit 91:11"
+  },
+  {
+    "text": "Iyong yayapakan ang leon at ang ulupong: ang batang leon at ang ahas ay yuyurakan mo ng iyong mga paa.",
+    "reference": "Mga Awit 91:13 (ADB)",
+    "connected_to": "Mga Awit 91:14",
+    "connected_from": "Mga Awit 91:12"
+  },
+  {
+    "text": "Sapagka't kaniyang inilagak ang kaniyang pagibig sa akin, kaya't iniligtas ko siya: aking ilalagay siya sa mataas, sapagka't kaniyang naalaman ang pangalan ko.",
+    "reference": "Mga Awit 91:14 (ADB)",
+    "connected_to": "Mga Awit 91:15",
+    "connected_from": "Mga Awit 91:13"
+  },
+  {
+    "text": "Siya'y tatawag sa akin, at sasagutin ko siya; ako'y sasa kaniya sa kabagabagan: aking ililigtas siya, at pararangalan siya.",
+    "reference": "Mga Awit 91:15 (ADB)",
+    "connected_to": "Mga Awit 91:16",
+    "connected_from": "Mga Awit 91:14"
+  },
+  {
+    "text": "Aking bubusugin siya ng mahabang buhay, at ipakikita ko sa kaniya ang aking pagliligtas.",
+    "reference": "Mga Awit 91:16 (ADB)",
+    "connected_from": "Mga Awit 91:15"
+  }
+]

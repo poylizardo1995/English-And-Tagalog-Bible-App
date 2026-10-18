@@ -1,0 +1,192 @@
+[
+  {
+    "text": " Si Pablo na alipin ni Jesucristo, na tinawag na maging apostol, ibinukod sa evangelio ng Dios,",
+    "reference": "Roma 1:1 (ADB)",
+    "connected_to": "Roma 1:2"
+  },
+  {
+    "text": "Na kaniyang ipinangako nang una sa pamamagitan ng kaniyang mga propeta sa mga banal na kasulatan,",
+    "reference": "Roma 1:2 (ADB)",
+    "connected_to": "Roma 1:3",
+    "connected_from": "Roma 1:1"
+  },
+  {
+    "text": "Tungkol sa kaniyang Anak, na ipinanganak sa binhi ni David ayon sa laman,",
+    "reference": "Roma 1:3 (ADB)",
+    "connected_to": "Roma 1:4",
+    "connected_from": "Roma 1:2"
+  },
+  {
+    "text": "Na ipinahayag na Anak ng Dios na may kapangyarihan ayon sa espiritu ng kabanalan, sa pamamagitan ng pagkabuhay na maguli ng mga patay, sa makatuwid baga'y si Jesucristo na Panginoon natin,",
+    "reference": "Roma 1:4 (ADB)",
+    "connected_to": "Roma 1:5",
+    "connected_from": "Roma 1:3"
+  },
+  {
+    "text": "Na sa pamamagitan niya'y tinanggap namin ang biyaya at pagkaapostol, sa pagtalima sa pananampalataya sa lahat ng mga bansa, dahil sa kaniyang pangalan;",
+    "reference": "Roma 1:5 (ADB)",
+    "connected_to": "Roma 1:6",
+    "connected_from": "Roma 1:4"
+  },
+  {
+    "text": "Sa mga ito kayo naman, ay tinawag kay Jesucristo:",
+    "reference": "Roma 1:6 (ADB)",
+    "connected_to": "Roma 1:7",
+    "connected_from": "Roma 1:5"
+  },
+  {
+    "text": "Sa lahat ninyong nangasa Roma, mga iniibig ng Dios, tinawag na mangagbanal: Sumainyo nawa ang biyaya at kapayapaang mula sa Dios na ating Ama at Panginoong Jesucristo.",
+    "reference": "Roma 1:7 (ADB)",
+    "connected_to": "Roma 1:8",
+    "connected_from": "Roma 1:6"
+  },
+  {
+    "text": "Kaunaunahan, ay nagpapasalamat ako sa aking Dios sa pamamagitan ni Jesucristo tungkol sa inyong lahat, na ang inyong pananampalataya ay bantog sa buong sanglibutan.",
+    "reference": "Roma 1:8 (ADB)",
+    "connected_to": "Roma 1:9",
+    "connected_from": "Roma 1:7"
+  },
+  {
+    "text": "Sapagka't ang Dios ang aking saksi, na siyang pinaglilingkuran ko sa aking espiritu sa evangelio ng kaniyang Anak, na walang patid na aking kayong binabanggit, sa aking mga panalangin,",
+    "reference": "Roma 1:9 (ADB)",
+    "connected_to": "Roma 1:10",
+    "connected_from": "Roma 1:8"
+  },
+  {
+    "text": "At laging isinasamo ko, kung ngayon sa wakas sa anomang paraan ay magkapalad ako sa kalooban ng Dios na makarating sa inyo.",
+    "reference": "Roma 1:10 (ADB)",
+    "connected_to": "Roma 1:11",
+    "connected_from": "Roma 1:9"
+  },
+  {
+    "text": "Sapagka't ninanasa kong makita kayo, upang ako'y makapamahagi sa inyo ng kaloob na ukol sa espiritu, upang kayo'y mangagsitibay;",
+    "reference": "Roma 1:11 (ADB)",
+    "connected_to": "Roma 1:12",
+    "connected_from": "Roma 1:10"
+  },
+  {
+    "text": "Sa makatuwid baga, upang ako't kayo ay maaliw sa inyo, ang bawa't isa sa atin sa pananampalataya ng iba, ang sa inyo at sa akin.",
+    "reference": "Roma 1:12 (ADB)",
+    "connected_to": "Roma 1:13",
+    "connected_from": "Roma 1:11"
+  },
+  {
+    "text": "At hindi ko ibig, mga kapatid, na hindi ninyo matalastas na madalas kong inaakalang makarating sa inyo (datapuwa't hanggang ngayon ako'y nahahadlangan), upang magkaroon naman ako sa inyo ng anomang bunga, na gaya sa mga ibang Gentil.",
+    "reference": "Roma 1:13 (ADB)",
+    "connected_to": "Roma 1:14",
+    "connected_from": "Roma 1:12"
+  },
+  {
+    "text": "Ako'y may utang sa mga Griego at gayon din naman sa mga barbaro, sa marurunong at gayon din sa mga mangmang.",
+    "reference": "Roma 1:14 (ADB)",
+    "connected_to": "Roma 1:15",
+    "connected_from": "Roma 1:13"
+  },
+  {
+    "text": "Kaya nga, sa ganang akin, ay handa akong ipangaral din ang evangelio sa inyong nangasa Roma.",
+    "reference": "Roma 1:15 (ADB)",
+    "connected_to": "Roma 1:16",
+    "connected_from": "Roma 1:14"
+  },
+  {
+    "text": "Sapagka't hindi ko ikinahihiya ang evangelio: sapagka't siyang kapangyarihan ng Dios sa ikaliligtas ng bawa't sumasampalataya; una'y sa Judio, at gayon din sa Griego.",
+    "reference": "Roma 1:16 (ADB)",
+    "connected_to": "Roma 1:17",
+    "connected_from": "Roma 1:15"
+  },
+  {
+    "text": "Sapagka't dito ang katuwiran ng Dios ay nahahayag mula sa pananampalataya hanggang sa pananampalataya: gaya ng nasusulat, Nguni't ang ganap ay mabubuhay sa pamamagitan ng pananampalataya.",
+    "reference": "Roma 1:17 (ADB)",
+    "connected_to": "Roma 1:18",
+    "connected_from": "Roma 1:16"
+  },
+  {
+    "text": "Sapagka't ang poot ng Dios ay nahahayag mula sa langit laban sa lahat na kasamaan at kalikuan ng mga tao, na mga sinasawata ang katotohanan ng kalikuan;",
+    "reference": "Roma 1:18 (ADB)",
+    "connected_to": "Roma 1:19",
+    "connected_from": "Roma 1:17"
+  },
+  {
+    "text": "Sapagka't ang nakikilala tungkol sa Dios ay hayag sa kanila; sapagka't ito'y ipinahayag ng Dios sa kanila.",
+    "reference": "Roma 1:19 (ADB)",
+    "connected_to": "Roma 1:20",
+    "connected_from": "Roma 1:18"
+  },
+  {
+    "text": "Sapagka't ang mga bagay niyang hindi nakikita buhat pa nang lalangin ang sanglibutan ay nakikitang maliwanag, sa pagkatanto sa pamamagitan ng mga bagay na ginawa niya, maging ang walang hanggan niyang kapangyarihan at pagka Dios; upang sila'y walang madahilan:",
+    "reference": "Roma 1:20 (ADB)",
+    "connected_to": "Roma 1:21",
+    "connected_from": "Roma 1:19"
+  },
+  {
+    "text": "Sapagka't kahit kilala nila ang Dios, siya'y hindi niluwalhati nilang tulad sa Dios, ni pinasalamatan; kundi bagkus niwalang kabuluhan sa kanilang mga pagmamatuwid at ang mangmang nilang puso ay pinapagdilim.",
+    "reference": "Roma 1:21 (ADB)",
+    "connected_to": "Roma 1:22",
+    "connected_from": "Roma 1:20"
+  },
+  {
+    "text": "Ang mga nangagmamarunong ay naging mga mangmang,",
+    "reference": "Roma 1:22 (ADB)",
+    "connected_to": "Roma 1:23",
+    "connected_from": "Roma 1:21"
+  },
+  {
+    "text": "At pinalitan nila ang kaluwalhatian ng Dios na hindi nasisira, ng isang katulad ng larawan ng tao na nasisira, at ng mga ibon, at ng mga hayop na may apat na paa, at ng mga nagsisigapang.",
+    "reference": "Roma 1:23 (ADB)",
+    "connected_to": "Roma 1:24",
+    "connected_from": "Roma 1:22"
+  },
+  {
+    "text": "Dahil dito'y sa karumihan ng mga pita ng kanilang mga puso ay ibinigay sila ng Dios sa kahalayan, upang alisan nila ng puri ang kanilang mga katawan sa kanikanilang sarili:",
+    "reference": "Roma 1:24 (ADB)",
+    "connected_to": "Roma 1:25",
+    "connected_from": "Roma 1:23"
+  },
+  {
+    "text": "Sapagka't pinalitan nila ang katotohanan ng Dios ng kasinungalingan, at sila'y nagsisamba at nangaglingkod sa nilalang kay sa Lumalang, na siyang pinupuri magpakailan man. Siya nawa.",
+    "reference": "Roma 1:25 (ADB)",
+    "connected_to": "Roma 1:26",
+    "connected_from": "Roma 1:24"
+  },
+  {
+    "text": "Dahil dito'y ibinigay sila ng Dios sa mga mahahalay na pita: sapagka't pinalitan ng kanilang mga babae ang katutubong kagamitan niyaong nalalaban sa katutubo:",
+    "reference": "Roma 1:26 (ADB)",
+    "connected_to": "Roma 1:27",
+    "connected_from": "Roma 1:25"
+  },
+  {
+    "text": "At gayon din naman ang mga lalake, na nang iwan na ang katutubong kagamitan sa mga babae, ay nangagningas sa kanilang karumihan ng pita ang isa't isa, na gumagawa ng kahalayan ang mga lalake sa mga kapuwa lalake, at tumatanggap sa kanilang sarili ng kagantihan ng kanilang pagkakamali.",
+    "reference": "Roma 1:27 (ADB)",
+    "connected_to": "Roma 1:28",
+    "connected_from": "Roma 1:26"
+  },
+  {
+    "text": "At palibhasa'y hindi nila minagaling na kilalanin ang Dios, ibinigay sila ng Dios sa isang mahalay na pagiisip, upang gawin yaong mga bagay na hindi nangararapat;",
+    "reference": "Roma 1:28 (ADB)",
+    "connected_to": "Roma 1:29",
+    "connected_from": "Roma 1:27"
+  },
+  {
+    "text": "Nangapuspus sila ng buong kalikuan, ng kasamaan, ng kasakiman, ng kahalayan; puspos ng kapanaghilian, ng pagpatay sa kapuwa tao, ng pagtatalo, ng pagdaraya, ng mga kasamaan; mga mapagupasala,",
+    "reference": "Roma 1:29 (ADB)",
+    "connected_to": "Roma 1:30",
+    "connected_from": "Roma 1:28"
+  },
+  {
+    "text": "Mga mapanirang puri, mga napopoot sa Dios, mga manglalait, mga palalo, mga mapagmapuri, mga mangangatha ng mga kasamaan, mga masuwayin sa mga magulang,",
+    "reference": "Roma 1:30 (ADB)",
+    "connected_to": "Roma 1:31",
+    "connected_from": "Roma 1:29"
+  },
+  {
+    "text": "Mga haling, mga hindi tapat sa tipanan, mga walang katutubong paggiliw, mga walang habag:",
+    "reference": "Roma 1:31 (ADB)",
+    "connected_to": "Roma 1:32",
+    "connected_from": "Roma 1:30"
+  },
+  {
+    "text": "Na, bagama't nalalaman nila ang kautusan ng Dios, na ang mga nagsisigawa ng gayong mga bagay ay mga karapatdapat sa kamatayan, ay hindi lamang gayon ang ginagawa, kundi naman pinapayagan ang mga nagsisigawa ng mga yaon.",
+    "reference": "Roma 1:32 (ADB)",
+    "connected_from": "Roma 1:31"
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "text": "Si Pedro at si Juan nga ay nagsisipanhik sa templo nang oras ng pananalangin, na ikasiyam.",
+    "reference": "Mga Gawa 3:1 (ADB)",
+    "connected_to": "Mga Gawa 3:2"
+  },
+  {
+    "text": "At isang lalake na pilay buhat pa sa tiyan ng kaniyang ina ay dinadala roon, na siya'y inilalagay nila araw-araw sa pintuan ng templo na tinatawag na Maganda, upang manghingi ng limos sa nagsisipasok sa templo;",
+    "reference": "Mga Gawa 3:2 (ADB)",
+    "connected_to": "Mga Gawa 3:3",
+    "connected_from": "Mga Gawa 3:1"
+  },
+  {
+    "text": "Ito, pagkakita kay Pedro at kay Juan na magsisipasok sa templo, ay namanhik upang tumanggap siya ng limos.",
+    "reference": "Mga Gawa 3:3 (ADB)",
+    "connected_to": "Mga Gawa 3:4",
+    "connected_from": "Mga Gawa 3:2"
+  },
+  {
+    "text": "At pagtitig sa kaniya ni Pedro, na kasama si Juan, ay sinabi, Tingnan mo kami.",
+    "reference": "Mga Gawa 3:4 (ADB)",
+    "connected_to": "Mga Gawa 3:5",
+    "connected_from": "Mga Gawa 3:3"
+  },
+  {
+    "text": "At kaniyang pinansin sila, na umaasang tatanggap sa kanila ng anomang bagay.",
+    "reference": "Mga Gawa 3:5 (ADB)",
+    "connected_to": "Mga Gawa 3:6",
+    "connected_from": "Mga Gawa 3:4"
+  },
+  {
+    "text": "Datapuwa't sinabi ni Pedro, Pilak at ginto ay wala ako; datapuwa't ang nasa akin, ay siya kong ibinibigay sa iyo. Sa pangalan ni Jesucristo ng taga Nazaret, lumakad ka.",
+    "reference": "Mga Gawa 3:6 (ADB)",
+    "connected_to": "Mga Gawa 3:7",
+    "connected_from": "Mga Gawa 3:5"
+  },
+  {
+    "text": "At kaniyang hinawakan siya sa kanang kamay, at siya'y itinindig: at pagdaka'y nagsilakas ang kaniyang mga paa at mga bukong-bukong.",
+    "reference": "Mga Gawa 3:7 (ADB)",
+    "connected_to": "Mga Gawa 3:8",
+    "connected_from": "Mga Gawa 3:6"
+  },
+  {
+    "text": "At paglukso, siya'y tumayo, at nagpasimulang lumakad; at pumasok na kasama nila sa templo, na lumalakad, at lumulukso, at nagpupuri sa Dios.",
+    "reference": "Mga Gawa 3:8 (ADB)",
+    "connected_to": "Mga Gawa 3:9",
+    "connected_from": "Mga Gawa 3:7"
+  },
+  {
+    "text": "At nakita ng buong bayang siya'y lumalakad, at nagpupuri sa Dios:",
+    "reference": "Mga Gawa 3:9 (ADB)",
+    "connected_to": "Mga Gawa 3:10",
+    "connected_from": "Mga Gawa 3:8"
+  },
+  {
+    "text": "At nangakilala nila na siya nga ang nauupo at nagpapalimos sa Pintuang Maganda ng templo; at sila'y nangapuspos ng panggigilalas at pamamangha sa nangyari sa kaniya.",
+    "reference": "Mga Gawa 3:10 (ADB)",
+    "connected_to": "Mga Gawa 3:11",
+    "connected_from": "Mga Gawa 3:9"
+  },
+  {
+    "text": "At samantalang siya'y nakahawak kay Pedro at kay Juan, ay nagsitakbong samasama sa kanila ang buong bayan sa tinatawag na portiko ni Salomon na lubhang nanggigilalas.",
+    "reference": "Mga Gawa 3:11 (ADB)",
+    "connected_to": "Mga Gawa 3:12",
+    "connected_from": "Mga Gawa 3:10"
+  },
+  {
+    "text": "At nang makita ito ni Pedro, ay sumagot sa mga tao, Kayong mga lalaking taga Israel, bakit kayo'y nagsisipanggilalas sa taong ito? o bakit kami ang inyong tinititigan, na sa inyong akala ay dahil sa aming sariling kapangyarihan o kabanalan ay aming napalakad siya?",
+    "reference": "Mga Gawa 3:12 (ADB)",
+    "connected_to": "Mga Gawa 3:13",
+    "connected_from": "Mga Gawa 3:11"
+  },
+  {
+    "text": "Ang Dios ni Abraham, at ni Isaac, at ni Jacob, ang Dios ng ating mga magulang, ay niluwalhati ang kaniyang Lingkod na si Jesus; na inyong ibinigay, at inyong tinanggihan sa harap ni Pilato, nang pasiyahan nito na siya'y pawalan.",
+    "reference": "Mga Gawa 3:13 (ADB)",
+    "connected_to": "Mga Gawa 3:14",
+    "connected_from": "Mga Gawa 3:12"
+  },
+  {
+    "text": "Datapuwa't inyong pinakatanggihan ang Banal at ang Matuwid na Ito, at inyong hiningi na ipagkaloob sa inyo ang isang mamamatay-tao,",
+    "reference": "Mga Gawa 3:14 (ADB)",
+    "connected_to": "Mga Gawa 3:15",
+    "connected_from": "Mga Gawa 3:13"
+  },
+  {
+    "text": "At inyong pinatay ang Lumikha ng buhay: na binuhay ng Dios na maguli sa mga patay; mga saksi kami ng mga bagay na ito.",
+    "reference": "Mga Gawa 3:15 (ADB)",
+    "connected_to": "Mga Gawa 3:16",
+    "connected_from": "Mga Gawa 3:14"
+  },
+  {
+    "text": "At sa pamamagitan ng pananampalataya sa kaniyang pangalan ay pinalakas ng kaniyang pangalan ang taong ito, na inyong nakikita at nakikilala: oo, ang pananampalataya na sa pamamagitan niya'y nagkaloob sa kaniya nitong lubos na kagalingan sa harapan ninyong lahat.",
+    "reference": "Mga Gawa 3:16 (ADB)",
+    "connected_to": "Mga Gawa 3:17",
+    "connected_from": "Mga Gawa 3:15"
+  },
+  {
+    "text": "At ngayon, mga kapatid, nalalaman ko na inyong ginawa yaon sa di pagkaalam, gaya ng ginawa rin naman ng inyong mga pinuno.",
+    "reference": "Mga Gawa 3:17 (ADB)",
+    "connected_to": "Mga Gawa 3:18",
+    "connected_from": "Mga Gawa 3:16"
+  },
+  {
+    "text": "Datapuwa't ginanap ang mga bagay na ipinagpaunang ibinalita ng Dios sa pamamagitan ng bibig ng lahat ng mga propeta, na ang kaniyang Cristo ay magbabata.",
+    "reference": "Mga Gawa 3:18 (ADB)",
+    "connected_to": "Mga Gawa 3:19",
+    "connected_from": "Mga Gawa 3:17"
+  },
+  {
+    "text": "Kaya nga mangagsisi kayo, at mangagbalik-loob, upang mangapawi ang inyong mga kasalanan, upang kung magkagayon ay magsidating ang mga panahon ng kaginhawahang mula sa harapan ng Panginoon;",
+    "reference": "Mga Gawa 3:19 (ADB)",
+    "connected_to": "Mga Gawa 3:20",
+    "connected_from": "Mga Gawa 3:18"
+  },
+  {
+    "text": "At upang kaniyang suguin ang Cristo na itinalaga sa inyo, na si Jesus:",
+    "reference": "Mga Gawa 3:20 (ADB)",
+    "connected_to": "Mga Gawa 3:21",
+    "connected_from": "Mga Gawa 3:19"
+  },
+  {
+    "text": "Na siya'y kinakailangang tanggapin ng langit hanggang sa mga panahon ng pagsasauli sa dati ng lahat ng mga bagay, na sinalita ng Dios sa pamamagitan ng bibig ng kaniyang mga banal na propeta buhat pa nang una.",
+    "reference": "Mga Gawa 3:21 (ADB)",
+    "connected_to": "Mga Gawa 3:22",
+    "connected_from": "Mga Gawa 3:20"
+  },
+  {
+    "text": "Tunay na sinabi ni Moises, Ang Panginoong Dios ay magtitindig sa inyo ng isang propetang gaya ko mula sa gitna ng inyong mga kapatid; siya ang inyong pakinggan sa lahat ng mga bagay na sa inyo'y sasalitain niya.",
+    "reference": "Mga Gawa 3:22 (ADB)",
+    "connected_to": "Mga Gawa 3:23",
+    "connected_from": "Mga Gawa 3:21"
+  },
+  {
+    "text": "At mangyayari, na ang bawa't kaluluwa na hindi makinig sa propetang yaon, ay pupuksaing lubos mula sa gitna ng bayan.",
+    "reference": "Mga Gawa 3:23 (ADB)",
+    "connected_to": "Mga Gawa 3:24",
+    "connected_from": "Mga Gawa 3:22"
+  },
+  {
+    "text": "Oo at ang lahat ng mga propetang mula kay Samuel at ang mga nagsisunod, sa dami ng mga nagsipagsalita, sila naman ay nagsipagsaysay rin tungkol sa mga araw na ito.",
+    "reference": "Mga Gawa 3:24 (ADB)",
+    "connected_to": "Mga Gawa 3:25",
+    "connected_from": "Mga Gawa 3:23"
+  },
+  {
+    "text": "Kayo ang mga anak ng mga propeta, at ng tipang ginawa ng Dios sa inyong mga magulang, na sinasabi kay Abraham, At sa iyong binhi ay pagpapalain ang lahat ng mga angkan sa lupa.",
+    "reference": "Mga Gawa 3:25 (ADB)",
+    "connected_to": "Mga Gawa 3:26",
+    "connected_from": "Mga Gawa 3:24"
+  },
+  {
+    "text": "Sa inyo una-una, nang maitindig na ng Dios ang kaniyang Lingkod, ay sinugo niya upang kayo'y pagpalain, sa pagtalikod ng bawa't isa sa inyo sa inyong mga katampalasanan.",
+    "reference": "Mga Gawa 3:26 (ADB)",
+    "connected_from": "Mga Gawa 3:25"
+  }
+]

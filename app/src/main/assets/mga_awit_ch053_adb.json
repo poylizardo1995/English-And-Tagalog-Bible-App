@@ -1,0 +1,36 @@
+[
+  {
+    "text": "Ang mangmang ay nagsabi sa puso niya, Walang Dios. Nangapahamak sila, at nagsigawa ng kasuklamsuklam na kasamaan; walang gumawa ng mabuti.",
+    "reference": "Mga Awit 53:1 (ADB)",
+    "connected_to": "Mga Awit 53:2"
+  },
+  {
+    "text": "Tinunghan ng Dios ang mga anak ng mga tao mula sa langit, upang tignan kung may sinomang nakakaunawa, na humanap sa Dios.",
+    "reference": "Mga Awit 53:2 (ADB)",
+    "connected_to": "Mga Awit 53:3",
+    "connected_from": "Mga Awit 53:1"
+  },
+  {
+    "text": "Bawa't isa sa kanila ay tumalikod: sila'y magkakasamang naging mahahalay; walang gumawa ng mabuti, wala, wala kahit isa.",
+    "reference": "Mga Awit 53:3 (ADB)",
+    "connected_to": "Mga Awit 53:4",
+    "connected_from": "Mga Awit 53:2"
+  },
+  {
+    "text": "Wala bang kaalaman ang mga manggagawa ng kasamaan? na siyang kumakain ng aking bayan na tila kumakain ng tinapay, at hindi nagsisitawag sa Dios.",
+    "reference": "Mga Awit 53:4 (ADB)",
+    "connected_to": "Mga Awit 53:5",
+    "connected_from": "Mga Awit 53:3"
+  },
+  {
+    "text": "Doo'y nangapasa malaking katakutan sila na hindi kinaroroonan ng takot: sapagka't pinangalat ng Dios ang mga buto niya na humahantong laban sa iyo; iyong inilagay sila sa kahihiyan, sapagka't itinakuwil sila ng Dios.",
+    "reference": "Mga Awit 53:5 (ADB)",
+    "connected_to": "Mga Awit 53:6",
+    "connected_from": "Mga Awit 53:4"
+  },
+  {
+    "text": "Oh kung ang kaligtasan ng Israel ay lumabas sa Sion. Pagka ibabalik ng Dios ang nangabihag ng kaniyang bayan, magagalak nga ang Jacob at matutuwa ang Israel.",
+    "reference": "Mga Awit 53:6 (ADB)",
+    "connected_from": "Mga Awit 53:5"
+  }
+]

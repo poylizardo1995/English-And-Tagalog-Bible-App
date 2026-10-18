@@ -1,0 +1,132 @@
+[
+  {
+    "text": "Nang magkagayo'y sumagot si Job, at nagsabi,",
+    "reference": "Job 16:1 (ADB)",
+    "connected_to": "Job 16:2"
+  },
+  {
+    "text": "Ako'y nakarinig ng maraming ganyang bagay: maralitang mga mangaaliw kayong lahat.",
+    "reference": "Job 16:2 (ADB)",
+    "connected_to": "Job 16:3",
+    "connected_from": "Job 16:1"
+  },
+  {
+    "text": "Magkakawakas ba ang mga walang kabuluhang salita? O anong naguudyok sa iyo, na ikaw ay sumagot?",
+    "reference": "Job 16:3 (ADB)",
+    "connected_to": "Job 16:4",
+    "connected_from": "Job 16:2"
+  },
+  {
+    "text": "Ako nama'y makapangungusap na gaya ng inyong ginagawa; kung ang inyong kaluluwa ay nasa kalagayan ng aking kaluluwa, ako'y makapagdudugtongdugtong ng salita laban sa inyo, at maigagalaw ang aking ulo sa inyo.",
+    "reference": "Job 16:4 (ADB)",
+    "connected_to": "Job 16:5",
+    "connected_from": "Job 16:3"
+  },
+  {
+    "text": "Nguni't aking palalakasin kayo ng aking bibig, at ang pagaliw ng aking mga labi ay magpapalikat ng inyong hirap,",
+    "reference": "Job 16:5 (ADB)",
+    "connected_to": "Job 16:6",
+    "connected_from": "Job 16:4"
+  },
+  {
+    "text": "Bagaman ako'y nagsasalita, ang aking hirap ay hindi naglilikat: at bagaman ako'y tumatahimik, anong ikinalalayo sa akin?",
+    "reference": "Job 16:6 (ADB)",
+    "connected_to": "Job 16:7",
+    "connected_from": "Job 16:5"
+  },
+  {
+    "text": "Nguni't ngayo'y niyamot niya ako: nilansag mo ang aking buong pulutong.",
+    "reference": "Job 16:7 (ADB)",
+    "connected_to": "Job 16:8",
+    "connected_from": "Job 16:6"
+  },
+  {
+    "text": "At ako'y pinagdalamhati mo, na siyang saksi laban sa akin; at ang aking kapayatan ay bumabangon laban sa akin, nagpapatotoo sa aking mukha.",
+    "reference": "Job 16:8 (ADB)",
+    "connected_to": "Job 16:9",
+    "connected_from": "Job 16:7"
+  },
+  {
+    "text": "Niluray niya ako sa kaniyang kapootan, at inusig ako; pinagngangalitan niya ako ng kaniyang mga ngipin: pinangdidilatan ako ng mga mata ng aking kaaway.",
+    "reference": "Job 16:9 (ADB)",
+    "connected_to": "Job 16:10",
+    "connected_from": "Job 16:8"
+  },
+  {
+    "text": "Kanilang pinagbubukahan ako ng kanilang bibig: kanilang sinampal ako sa mukha na kahiyahiya: sila'y nagpipisan laban sa akin.",
+    "reference": "Job 16:10 (ADB)",
+    "connected_to": "Job 16:11",
+    "connected_from": "Job 16:9"
+  },
+  {
+    "text": "Ibinibigay ako ng Dios sa di banal, at inihahagis niya ako sa mga kamay ng masama.",
+    "reference": "Job 16:11 (ADB)",
+    "connected_to": "Job 16:12",
+    "connected_from": "Job 16:10"
+  },
+  {
+    "text": "Ako'y nasa kaginhawahan at kaniyang niligalig akong mainam; Oo, sinunggaban niya ako sa leeg, at pinagwaraywaray niya ako: inilagay naman niya akong pinakatanda niya.",
+    "reference": "Job 16:12 (ADB)",
+    "connected_to": "Job 16:13",
+    "connected_from": "Job 16:11"
+  },
+  {
+    "text": "Kinubkob ako sa palibot ng kaniyang mga mamamana, kaniyang sinaksak ang aking mga bato, at hindi nagpapatawad; kaniyang ibinubuhos ang aking apdo sa lupa.",
+    "reference": "Job 16:13 (ADB)",
+    "connected_to": "Job 16:14",
+    "connected_from": "Job 16:12"
+  },
+  {
+    "text": "Kaniyang binubugbog ako ng bugbog at bugbog; siya'y gaya ng isang higanti na dinadaluhong niya ako.",
+    "reference": "Job 16:14 (ADB)",
+    "connected_to": "Job 16:15",
+    "connected_from": "Job 16:13"
+  },
+  {
+    "text": "Ako'y nanahi ng kayong magaspang sa aking katawan, at aking inilugmok ang aking kapalaluan sa alabok.",
+    "reference": "Job 16:15 (ADB)",
+    "connected_to": "Job 16:16",
+    "connected_from": "Job 16:14"
+  },
+  {
+    "text": "Ang aking mukha ay namamaga sa pagiyak, at nasa aking mga pilik-mata ang anino ng kamatayan;",
+    "reference": "Job 16:16 (ADB)",
+    "connected_to": "Job 16:17",
+    "connected_from": "Job 16:15"
+  },
+  {
+    "text": "Bagaman walang karahasan sa aking mga kamay, at ang aking dalangin ay malinis,",
+    "reference": "Job 16:17 (ADB)",
+    "connected_to": "Job 16:18",
+    "connected_from": "Job 16:16"
+  },
+  {
+    "text": "Oh lupa, huwag mong tabunan ang aking dugo, at huwag magkaroon ng pahingahang dako ang aking daing.",
+    "reference": "Job 16:18 (ADB)",
+    "connected_to": "Job 16:19",
+    "connected_from": "Job 16:17"
+  },
+  {
+    "text": "Kahit na ngayon, narito, ang aking saksi ay nasa langit, at siyang nananagot sa akin ay nasa kaitaasan.",
+    "reference": "Job 16:19 (ADB)",
+    "connected_to": "Job 16:20",
+    "connected_from": "Job 16:18"
+  },
+  {
+    "text": "Ginagalit ako ng aking mga kaibigan: nguni't ang aking mata ay nagbubuhos ng mga luha sa Dios;",
+    "reference": "Job 16:20 (ADB)",
+    "connected_to": "Job 16:21",
+    "connected_from": "Job 16:19"
+  },
+  {
+    "text": "Upang kaniyang alalayan ang katuwiran ng tao sa Dios; at ang anak ng tao sa kaniyang kapuwa.",
+    "reference": "Job 16:21 (ADB)",
+    "connected_to": "Job 16:22",
+    "connected_from": "Job 16:20"
+  },
+  {
+    "text": "Sapagka't pagsapit ng ilang taon, ako'y papanaw sa daan na hindi ko pagbabalikan.",
+    "reference": "Job 16:22 (ADB)",
+    "connected_from": "Job 16:21"
+  }
+]

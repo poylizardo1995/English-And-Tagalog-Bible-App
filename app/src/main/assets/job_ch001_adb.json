@@ -1,0 +1,132 @@
+[
+  {
+    "text": " May isang lalake sa lupain ng Uz, na ang pangalan ay Job; at ang lalaking yaon ay sakdal at matuwid, at natatakot sa Dios, at humihiwalay sa kasamaan.",
+    "reference": "Job 1:1 (ADB)",
+    "connected_to": "Job 1:2"
+  },
+  {
+    "text": "At may ipinanganak sa kaniya na pitong anak na lalake at tatlong anak na babae.",
+    "reference": "Job 1:2 (ADB)",
+    "connected_to": "Job 1:3",
+    "connected_from": "Job 1:1"
+  },
+  {
+    "text": "Ang kaniyang pag-aari naman ay pitong libong tupa, at tatlong libong kamelyo, at limang daang magkatuwang na baka, at limang daang asnong babae, at isang totoong malaking sangbahayan; na anopa't ang lalaking ito ay siyang pinaka dakila sa lahat na mga anak ng silanganan.",
+    "reference": "Job 1:3 (ADB)",
+    "connected_to": "Job 1:4",
+    "connected_from": "Job 1:2"
+  },
+  {
+    "text": "At ang kaniyang mga anak ay nagsiyaon at nagsipagdaos ng kapistahan sa bahay ng bawa't isa sa kanikaniyang kaarawan; at sila'y nangagsugo, at ipinatawag ang kanilang tatlong kapatid na babae upang magsikain at magsiinom na kasalo nila.",
+    "reference": "Job 1:4 (ADB)",
+    "connected_to": "Job 1:5",
+    "connected_from": "Job 1:3"
+  },
+  {
+    "text": "At nangyari, nang makaraan ang mga kaarawan ng kanilang pagpipista, na si Job ay nagsugo, at pinapagbanal sila, at bumangong maaga sa kinaumagahan, at naghandog ng mga handog na susunugin ayon sa bilang nilang lahat: sapagka't sinabi ni Job, Marahil ang aking mga anak ay nangagkasala, at itinakuwil ang Dios sa kanilang mga puso. Ganito ang ginawa ni Job na palagi.",
+    "reference": "Job 1:5 (ADB)",
+    "connected_to": "Job 1:6",
+    "connected_from": "Job 1:4"
+  },
+  {
+    "text": "Isang araw nga nang ang mga anak ng Dios ay magsiparoon na magsiharap sa Panginoon, na si Satanas ay naparoon din naman na kasama nila.",
+    "reference": "Job 1:6 (ADB)",
+    "connected_to": "Job 1:7",
+    "connected_from": "Job 1:5"
+  },
+  {
+    "text": "At sinabi ng Panginoon kay Satanas, Saan ka nanggaling? Nang magkagayo'y sumagot si Satanas sa Panginoon, at nagsabi, Sa pagpaparoo't parito sa lupa, at sa pagmamanhik manaog doon.",
+    "reference": "Job 1:7 (ADB)",
+    "connected_to": "Job 1:8",
+    "connected_from": "Job 1:6"
+  },
+  {
+    "text": "At sinabi ng Panginoon kay Satanas, Iyo bang pinansin ang aking lingkod na si Job? sapagka't walang gaya niya sa lupa, na sakdal at matuwid na lalake, na natatakot sa Dios at humihiwalay sa kasamaan.",
+    "reference": "Job 1:8 (ADB)",
+    "connected_to": "Job 1:9",
+    "connected_from": "Job 1:7"
+  },
+  {
+    "text": "Nang magkagayo'y sumagot si Satanas sa Panginoon, at nagsabi, Natatakot ba ng walang kabuluhan si Job sa Dios?",
+    "reference": "Job 1:9 (ADB)",
+    "connected_to": "Job 1:10",
+    "connected_from": "Job 1:8"
+  },
+  {
+    "text": "Hindi mo ba kinulong siya, at ang kaniyang sangbahayan, at ang lahat niyang tinatangkilik, sa bawa't dako? iyong pinagpala ang gawa ng kaniyang mga kamay, at ang kaniyang pag-aari ay dumami sa lupain.",
+    "reference": "Job 1:10 (ADB)",
+    "connected_to": "Job 1:11",
+    "connected_from": "Job 1:9"
+  },
+  {
+    "text": "Nguni't pagbuhatan mo siya ng iyong kamay ngayon, at galawin mo ang lahat niyang tinatangkilik, at itatakuwil ka niya ng mukhaan,",
+    "reference": "Job 1:11 (ADB)",
+    "connected_to": "Job 1:12",
+    "connected_from": "Job 1:10"
+  },
+  {
+    "text": "At sinabi ng Panginoon kay Satanas, Narito, lahat niyang tinatangkilik ay nangasa iyong kapangyarihan; siya lamang ang huwag mong pagbuhatan ng iyong kamay. Sa gayo'y lumabas si Satanas na mula sa harapan ng Panginoon.",
+    "reference": "Job 1:12 (ADB)",
+    "connected_to": "Job 1:13",
+    "connected_from": "Job 1:11"
+  },
+  {
+    "text": "At nangyari isang araw, nang ang kaniyang mga anak na lalake at babae ay nagsisikain at nagsisiinom ng alak sa bahay ng kanilang kapatid na panganay.",
+    "reference": "Job 1:13 (ADB)",
+    "connected_to": "Job 1:14",
+    "connected_from": "Job 1:12"
+  },
+  {
+    "text": "Na dumating ang isang sugo kay Job, at nagsabi, Ang mga baka ay nagsisipagararo, at ang mga asno ay nagsisisabsab sa siping nila:",
+    "reference": "Job 1:14 (ADB)",
+    "connected_to": "Job 1:15",
+    "connected_from": "Job 1:13"
+  },
+  {
+    "text": "At dinaluhong ng mga Sabeo, at pinagdadala; oo, kanilang pinatay ng talim ng tabak ang mga bataan; at ako lamang ang nakatanang magisa upang magsaysay sa iyo.",
+    "reference": "Job 1:15 (ADB)",
+    "connected_to": "Job 1:16",
+    "connected_from": "Job 1:14"
+  },
+  {
+    "text": "Samantalang siya'y nagsasalita pa, ay dumating naman ang iba, at nagsabi, Ang apoy ng Dios ay nalaglag mula sa langit, at sinunog ang mga tupa, at ang mga bataan, at pinagsupok; at ako lamang ang nakatanang magisa upang magsaysay sa iyo.",
+    "reference": "Job 1:16 (ADB)",
+    "connected_to": "Job 1:17",
+    "connected_from": "Job 1:15"
+  },
+  {
+    "text": "Samantalang siya'y nagsasalita pa, ay dumating naman ang iba, at nagsabi, Ang mga Caldeo ay nagtatlong pulutong, at dumaluhong sa mga kamelyo, at pinagdadala, oo, at pinatay ng talim ng tabak ang mga bataan; at ako lamang ang nakatanang magisa upang magsaysay sa iyo.",
+    "reference": "Job 1:17 (ADB)",
+    "connected_to": "Job 1:18",
+    "connected_from": "Job 1:16"
+  },
+  {
+    "text": "Samantalang siya'y nagsasalita pa, ay dumating naman ang iba, at nagsabi, Ang iyong mga anak na lalake at babae ay nagsisikain at nagsisiinom ng alak sa bahay ng kanilang kapatid na panganay:",
+    "reference": "Job 1:18 (ADB)",
+    "connected_to": "Job 1:19",
+    "connected_from": "Job 1:17"
+  },
+  {
+    "text": "At, narito, dumating ang malakas na hangin na mula sa ilang, at hinampas ang apat na sulok ng bahay, at lumagpak sa mga binata, at sila'y nangamatay; at ako lamang ang nakatanang magisa upang magsaysay sa iyo.",
+    "reference": "Job 1:19 (ADB)",
+    "connected_to": "Job 1:20",
+    "connected_from": "Job 1:18"
+  },
+  {
+    "text": "Nang magkagayo'y bumangon si Job, at hinapak ang kaniyang balabal, at inahitan ang kaniyang ulo, at nagpatirapa sa lupa at sumamba;",
+    "reference": "Job 1:20 (ADB)",
+    "connected_to": "Job 1:21",
+    "connected_from": "Job 1:19"
+  },
+  {
+    "text": "At sinabi niya, Hubad akong lumabas sa bahay-bata ng aking ina, at hubad na babalik ako roon: ang Panginoon ang nagbigay, at ang Panginoon ang nagalis; purihin ang pangalan ng Panginoon.",
+    "reference": "Job 1:21 (ADB)",
+    "connected_to": "Job 1:22",
+    "connected_from": "Job 1:20"
+  },
+  {
+    "text": "Sa lahat ng ito ay hindi nagkasala si Job, ni inari mang mangmang ang Dios.",
+    "reference": "Job 1:22 (ADB)",
+    "connected_from": "Job 1:21"
+  }
+]

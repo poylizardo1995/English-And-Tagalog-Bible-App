@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Sa Juda ay kilala ang Dios: ang kaniyang pangalan ay dakila sa Israel.",
+    "reference": "Mga Awit 76:1 (ADB)",
+    "connected_to": "Mga Awit 76:2"
+  },
+  {
+    "text": "Nasa Salem naman ang kaniyang tabernakulo, at ang kaniyang dakong tahanan ay sa Sion.",
+    "reference": "Mga Awit 76:2 (ADB)",
+    "connected_to": "Mga Awit 76:3",
+    "connected_from": "Mga Awit 76:1"
+  },
+  {
+    "text": "Doo'y binali niya ang mga pana ng busog; at kalasag, at ang tabak, at ang pagbabaka. (Selah)",
+    "reference": "Mga Awit 76:3 (ADB)",
+    "connected_to": "Mga Awit 76:4",
+    "connected_from": "Mga Awit 76:2"
+  },
+  {
+    "text": "Maluwalhati ka at marilag, mula sa mga bundok na hulihan.",
+    "reference": "Mga Awit 76:4 (ADB)",
+    "connected_to": "Mga Awit 76:5",
+    "connected_from": "Mga Awit 76:3"
+  },
+  {
+    "text": "Ang mga puso na matapang ay nasamsaman, sila'y nangatulog ng kanilang pagtulog; at wala sa mga lalaking makapangyarihan na nakasumpong ng kanilang mga kamay.",
+    "reference": "Mga Awit 76:5 (ADB)",
+    "connected_to": "Mga Awit 76:6",
+    "connected_from": "Mga Awit 76:4"
+  },
+  {
+    "text": "Sa iyong saway Oh Dios ni Jacob, ang karo at gayon din ang kabayo ay nahandusay sa mahimbing na pagkakatulog.",
+    "reference": "Mga Awit 76:6 (ADB)",
+    "connected_to": "Mga Awit 76:7",
+    "connected_from": "Mga Awit 76:5"
+  },
+  {
+    "text": "Ikaw, ikaw ay katatakutan: at sinong makatatayo sa iyong paningin, sa minsang ikaw ay magalit?",
+    "reference": "Mga Awit 76:7 (ADB)",
+    "connected_to": "Mga Awit 76:8",
+    "connected_from": "Mga Awit 76:6"
+  },
+  {
+    "text": "Iyong ipinarinig ang hatol mula sa langit; ang lupa ay natakot, at tumahimik,",
+    "reference": "Mga Awit 76:8 (ADB)",
+    "connected_to": "Mga Awit 76:9",
+    "connected_from": "Mga Awit 76:7"
+  },
+  {
+    "text": "Nang ang Dios ay bumangon sa paghatol, upang iligtas ang lahat ng maamo sa lupa. (Selah)",
+    "reference": "Mga Awit 76:9 (ADB)",
+    "connected_to": "Mga Awit 76:10",
+    "connected_from": "Mga Awit 76:8"
+  },
+  {
+    "text": "Tunay na pupurihin ka ng poot ng tao: ang nalabi sa poot ay ibibigkis mo sa iyo.",
+    "reference": "Mga Awit 76:10 (ADB)",
+    "connected_to": "Mga Awit 76:11",
+    "connected_from": "Mga Awit 76:9"
+  },
+  {
+    "text": "Manata ka at tuparin mo sa Panginoon mong Dios: magdala ng mga kaloob sa kaniya na marapat katakutan, yaong lahat na nangasa buong palibot niya.",
+    "reference": "Mga Awit 76:11 (ADB)",
+    "connected_to": "Mga Awit 76:12",
+    "connected_from": "Mga Awit 76:10"
+  },
+  {
+    "text": "Kaniyang ihihiwalay ang diwa ng mga pangulo: siya'y kakilakilabot sa mga hari sa lupa.",
+    "reference": "Mga Awit 76:12 (ADB)",
+    "connected_from": "Mga Awit 76:11"
+  }
+]

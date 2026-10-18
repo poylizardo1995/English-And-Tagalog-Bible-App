@@ -1,0 +1,66 @@
+[
+  {
+    "text": "Kung paanong humihingal ang usa sa pagkauhaw sa tubig ng mga batis, gayon humihingal ang aking kaluluwa sa pagkasabik sa iyo, Oh Dios.",
+    "reference": "Mga Awit 42:1 (ADB)",
+    "connected_to": "Mga Awit 42:2"
+  },
+  {
+    "text": "Kinauuhawan ng aking kaluluwa ang Dios, ang buhay na Dios: kailan ako paririto, at haharap sa Dios?",
+    "reference": "Mga Awit 42:2 (ADB)",
+    "connected_to": "Mga Awit 42:3",
+    "connected_from": "Mga Awit 42:1"
+  },
+  {
+    "text": "Ang aking mga luha ay naging aking pagkain araw at gabi, Habang kanilang sinasabing lagi sa akin, saan nandoon ang iyong Dios?",
+    "reference": "Mga Awit 42:3 (ADB)",
+    "connected_to": "Mga Awit 42:4",
+    "connected_from": "Mga Awit 42:2"
+  },
+  {
+    "text": "Ang mga bagay na ito ay aking naaalaala, at nanglulumo ang aking kaluluwa sa loob ko, kung paanong ako'y nagpatuloy sa karamihan, at pinatnubayan ko sila sa bahay ng Dios, na may tinig ng kagalakan at pagpupuri, na isang karamihan na nagdidiwang ng kapistahan.",
+    "reference": "Mga Awit 42:4 (ADB)",
+    "connected_to": "Mga Awit 42:5",
+    "connected_from": "Mga Awit 42:3"
+  },
+  {
+    "text": "Bakit ka nanglulumo, Oh kaluluwa ko? At bakit ka nababagabag sa loob ko? Umasa ka sa Dios: sapagka't pupuri pa ako sa kaniya dahil sa kagalingan ng kaniyang mukha.",
+    "reference": "Mga Awit 42:5 (ADB)",
+    "connected_to": "Mga Awit 42:6",
+    "connected_from": "Mga Awit 42:4"
+  },
+  {
+    "text": "Oh Dios ko, ang aking kaluluwa ay nanglulumo sa loob ko; kaya't aking inaalaala ka mula sa lupain ng Jordan, at ng Hermonitas, mula sa burol ng Mizhar.",
+    "reference": "Mga Awit 42:6 (ADB)",
+    "connected_to": "Mga Awit 42:7",
+    "connected_from": "Mga Awit 42:5"
+  },
+  {
+    "text": "Kalaliman ay tumatawag sa kalaliman sa hugong ng iyong mga baha: lahat ng iyong alon at ang iyong malaking alon ay nagsitabon sa akin.",
+    "reference": "Mga Awit 42:7 (ADB)",
+    "connected_to": "Mga Awit 42:8",
+    "connected_from": "Mga Awit 42:6"
+  },
+  {
+    "text": "Gayon ma'y uutusan ng Panginoon ang kaniyang kagandahang-loob sa araw, at sa gabi ay sasa akin ang awit sa kaniya, sa makatuwid baga'y isang dalangin sa Dios ng aking buhay.",
+    "reference": "Mga Awit 42:8 (ADB)",
+    "connected_to": "Mga Awit 42:9",
+    "connected_from": "Mga Awit 42:7"
+  },
+  {
+    "text": "Aking sasabihin sa Dios na aking malaking bato, bakit mo ako kinalimutan? Bakit ako'y yayaong tumatangis dahil sa pagpighati ng kaaway?",
+    "reference": "Mga Awit 42:9 (ADB)",
+    "connected_to": "Mga Awit 42:10",
+    "connected_from": "Mga Awit 42:8"
+  },
+  {
+    "text": "Na wari tabak sa aking mga buto, na tinutuya ako ng aking mga kaaway; habang sinasabi nilang lagi sa akin, saan nandoon ang iyong Dios?",
+    "reference": "Mga Awit 42:10 (ADB)",
+    "connected_to": "Mga Awit 42:11",
+    "connected_from": "Mga Awit 42:9"
+  },
+  {
+    "text": "Bakit ka nanglulumo, Oh kaluluwa ko? At bakit ka nababagabag sa loob ko? Umasa ka sa Dios: sapagka't pupuri pa ako sa kaniya, na siyang kagalingan ng aking mukha, at aking Dios.",
+    "reference": "Mga Awit 42:11 (ADB)",
+    "connected_from": "Mga Awit 42:10"
+  }
+]

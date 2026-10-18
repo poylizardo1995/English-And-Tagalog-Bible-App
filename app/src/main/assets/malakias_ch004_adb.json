@@ -1,0 +1,36 @@
+[
+  {
+    "text": "Sapagka't, narito, ang araw ay dumarating, na nagniningas na parang hurno; at ang lahat na palalo, at ang lahat na nagsisigawa ng kasamaan ay magiging parang dayami, at ang araw na dumarating ay susunog sa kanila, sabi ng Panginoon ng mga hukbo, na anopa't hindi magiiwan sa kanila ng kahit ugat ni sanga man.",
+    "reference": "Malakias 4:1 (ADB)",
+    "connected_to": "Malakias 4:2"
+  },
+  {
+    "text": "Nguni't sa inyo na nangatatakot sa aking pangalan ay sisikat ang araw ng katuwiran na may kagalingan sa kaniyang mga pakpak; at kayo'y magsisilabas, at magsisiluksong parang guya mula sa silungan.",
+    "reference": "Malakias 4:2 (ADB)",
+    "connected_to": "Malakias 4:3",
+    "connected_from": "Malakias 4:1"
+  },
+  {
+    "text": "At inyong yayapakan ang masasama; sapagka't sila'y magiging abo sa ilalim ng mga talampakan ng inyong mga paa sa kaarawan na aking gawin, sabi ng Panginoon ng mga hukbo.",
+    "reference": "Malakias 4:3 (ADB)",
+    "connected_to": "Malakias 4:4",
+    "connected_from": "Malakias 4:2"
+  },
+  {
+    "text": "Alalahanin ninyo ang kautusan ni Moises na aking lingkod na aking iniutos sa kaniya sa Horeb para sa buong Israel, sa makatuwid baga'y ang mga palatuntunan at mga kahatulan.",
+    "reference": "Malakias 4:4 (ADB)",
+    "connected_to": "Malakias 4:5",
+    "connected_from": "Malakias 4:3"
+  },
+  {
+    "text": "Narito, aking susuguin sa inyo si Elias na propeta bago dumating ang dakila at kakilakilabot na kaarawan ng Panginoon.",
+    "reference": "Malakias 4:5 (ADB)",
+    "connected_to": "Malakias 4:6",
+    "connected_from": "Malakias 4:4"
+  },
+  {
+    "text": "At kaniyang papagbabaliking-loob ang puso ng mga ama sa mga anak, at ang puso ng mga anak sa kanilang mga magulang; baka ako'y dumating at saktan ko ang lupa ng sumpa.",
+    "reference": "Malakias 4:6 (ADB)",
+    "connected_from": "Malakias 4:5"
+  }
+]

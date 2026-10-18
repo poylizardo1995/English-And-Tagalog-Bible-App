@@ -1,0 +1,78 @@
+[
+  {
+    "text": "Maawa ka sa akin, Oh Dios: sapagka't sasakmalin ako ng tao: buong araw ay nangbababag siya na pinipighati ako.",
+    "reference": "Mga Awit 56:1 (ADB)",
+    "connected_to": "Mga Awit 56:2"
+  },
+  {
+    "text": "Ibig akong sakmalin ng aking mga kaaway buong araw: sapagka't sila'y maraming may kapalaluan na nagsisilaban sa akin.",
+    "reference": "Mga Awit 56:2 (ADB)",
+    "connected_to": "Mga Awit 56:3",
+    "connected_from": "Mga Awit 56:1"
+  },
+  {
+    "text": "Sa panahong ako'y matakot, aking ilalagak ang aking tiwala sa iyo.",
+    "reference": "Mga Awit 56:3 (ADB)",
+    "connected_to": "Mga Awit 56:4",
+    "connected_from": "Mga Awit 56:2"
+  },
+  {
+    "text": "Sa Dios (ay pupuri ako ng kaniyang salita), sa Dios ay inilagak ko ang aking tiwala, hindi ako matatakot; anong magagawa ng laman sa akin?",
+    "reference": "Mga Awit 56:4 (ADB)",
+    "connected_to": "Mga Awit 56:5",
+    "connected_from": "Mga Awit 56:3"
+  },
+  {
+    "text": "Buong araw ay binabaligtad nila ang aking mga salita: lahat ng kanilang mga pagiisip ay laban sa akin sa ikasasama.",
+    "reference": "Mga Awit 56:5 (ADB)",
+    "connected_to": "Mga Awit 56:6",
+    "connected_from": "Mga Awit 56:4"
+  },
+  {
+    "text": "Sila'y nagpipisan, sila'y nagsisipagkubli, kanilang tinatandaan ang aking mga hakbang, gaya ng kanilang pagaabang sa aking kaluluwa.",
+    "reference": "Mga Awit 56:6 (ADB)",
+    "connected_to": "Mga Awit 56:7",
+    "connected_from": "Mga Awit 56:5"
+  },
+  {
+    "text": "Tatakas ba sila sa pamamagitan ng masama? Sa galit ay ilugmok mo ang mga bayan, Oh Dios.",
+    "reference": "Mga Awit 56:7 (ADB)",
+    "connected_to": "Mga Awit 56:8",
+    "connected_from": "Mga Awit 56:6"
+  },
+  {
+    "text": "Iyong isinasaysay ang aking mga paggagala: ilagay mo ang aking mga luha sa iyong botelya; wala ba sila sa iyong aklat?",
+    "reference": "Mga Awit 56:8 (ADB)",
+    "connected_to": "Mga Awit 56:9",
+    "connected_from": "Mga Awit 56:7"
+  },
+  {
+    "text": "Tatalikod nga ang aking mga kaaway sa kaarawan na ako'y tumawag: ito'y nalalaman ko, sapagka't ang Dios ay kakampi ko.",
+    "reference": "Mga Awit 56:9 (ADB)",
+    "connected_to": "Mga Awit 56:10",
+    "connected_from": "Mga Awit 56:8"
+  },
+  {
+    "text": "Sa Dios (ay pupuri ako ng salita), sa Panginoon (ay pupuri ako ng salita),",
+    "reference": "Mga Awit 56:10 (ADB)",
+    "connected_to": "Mga Awit 56:11",
+    "connected_from": "Mga Awit 56:9"
+  },
+  {
+    "text": "Sa Dios ay inilagak ko ang aking tiwala, hindi ako matatakot; anong magagawa ng tao sa akin?",
+    "reference": "Mga Awit 56:11 (ADB)",
+    "connected_to": "Mga Awit 56:12",
+    "connected_from": "Mga Awit 56:10"
+  },
+  {
+    "text": "Ang iyong mga panata ay sa akin, Oh Dios: ako'y magbabayad ng mga handog na pasalamat sa iyo.",
+    "reference": "Mga Awit 56:12 (ADB)",
+    "connected_to": "Mga Awit 56:13",
+    "connected_from": "Mga Awit 56:11"
+  },
+  {
+    "text": "Sapagka't iniligtas mo ang aking kaluluwa sa kamatayan: hindi mo ba iniligtas ang aking mga paa sa pagkahulog? upang ako'y makalakad sa harap ng Dios sa liwanag ng buhay.",
+    "reference": "Mga Awit 56:13 (ADB)",
+    "connected_from": "Mga Awit 56:12"
+  }
+]

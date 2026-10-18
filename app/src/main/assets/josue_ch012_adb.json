@@ -1,0 +1,144 @@
+[
+  {
+    "text": "Ang mga ito nga ang mga hari sa lupain na sinaktan ng mga anak ni Israel, at inari ang kanilang lupain sa dako roon ng Jordan na dakong sinisikatan ng araw mula sa libis ng Arnon hanggang sa bundok ng Hermon, at ng buong Araba na dakong silanganan:",
+    "reference": "Josue 12:1 (ADB)",
+    "connected_to": "Josue 12:2"
+  },
+  {
+    "text": "Si Sehon na hari ng mga Amorrheo, na nanahan sa Hesbon at nagpuno mula sa Aroer, na nasa tabi ng libis ng Arnon at ang bayan na nasa gitna ng libis, at ang kalahati ng Galaad, hanggang sa ilog Jaboc, na hangganan ng mga anak ni Ammon;",
+    "reference": "Josue 12:2 (ADB)",
+    "connected_to": "Josue 12:3",
+    "connected_from": "Josue 12:1"
+  },
+  {
+    "text": "At ang Araba hanggang sa dagat ng Cinneroth, na dakong silanganan, at hanggang sa dagat ng Araba, Dagat na Alat, na dakong silanganan, na daang patungo sa Beth-jesimoth; at sa timugan sa ilalim ng mga tagudtod ng Pisga:",
+    "reference": "Josue 12:3 (ADB)",
+    "connected_to": "Josue 12:4",
+    "connected_from": "Josue 12:2"
+  },
+  {
+    "text": "At ang hangganan ni Og na hari sa Basan, sa nalabi ng mga Rephaim na nanahan sa Astaroth at sa Edrei,",
+    "reference": "Josue 12:4 (ADB)",
+    "connected_to": "Josue 12:5",
+    "connected_from": "Josue 12:3"
+  },
+  {
+    "text": "At nagpuno sa bundok ng Hermon, at sa Salca, at sa buong Basan, hanggang sa hangganan ng mga Gessureo at ng mga Maachateo, at ng kalahati ng Galaad, na hangganan ni Sehon na hari sa Hesbon.",
+    "reference": "Josue 12:5 (ADB)",
+    "connected_to": "Josue 12:6",
+    "connected_from": "Josue 12:4"
+  },
+  {
+    "text": "Sinaktan sila ni Moises na lingkod ng Panginoon at ng mga anak ni Israel: at ibinigay ni Moises na lingkod ng Panginoon na pinakaari sa mga Rubenita, at sa mga Gadita, at sa kalahating lipi ni Manases.",
+    "reference": "Josue 12:6 (ADB)",
+    "connected_to": "Josue 12:7",
+    "connected_from": "Josue 12:5"
+  },
+  {
+    "text": "At ang mga ito'y ang mga hari ng lupain na sinaktan ni Josue at ng mga anak ni Israel sa dako roon ng Jordan na dakong kalunuran, mula sa Baal-gad na libis ng Libano hanggang sa bundok ng Halac, na pasampa sa Seir (at ibinigay ni Josue na pinakaari sa mga lipi ng Israel ayon sa kanilang pagkakabahagi;",
+    "reference": "Josue 12:7 (ADB)",
+    "connected_to": "Josue 12:8",
+    "connected_from": "Josue 12:6"
+  },
+  {
+    "text": "Sa lupaing maburol, at sa mababang lupain, at sa Araba, at sa mga tagudtod, at sa ilang, at sa Timugan; ang Hatheo, ang Amorrheo, at ang Cananeo, ang Pherezeo, ang Heveo, at ang Jebuseo);",
+    "reference": "Josue 12:8 (ADB)",
+    "connected_to": "Josue 12:9",
+    "connected_from": "Josue 12:7"
+  },
+  {
+    "text": "Ang hari sa Jerico, isa; ang hari sa Hai na nasa tabi ng Beth-el, isa;",
+    "reference": "Josue 12:9 (ADB)",
+    "connected_to": "Josue 12:10",
+    "connected_from": "Josue 12:8"
+  },
+  {
+    "text": "Ang hari sa Jerusalem, isa; ang hari sa Hebron, isa.",
+    "reference": "Josue 12:10 (ADB)",
+    "connected_to": "Josue 12:11",
+    "connected_from": "Josue 12:9"
+  },
+  {
+    "text": "Ang hari sa Jarmuth, isa; ang hari sa Lachis, isa;",
+    "reference": "Josue 12:11 (ADB)",
+    "connected_to": "Josue 12:12",
+    "connected_from": "Josue 12:10"
+  },
+  {
+    "text": "Ang hari sa Eglon, isa; ang hari sa Gezer, isa;",
+    "reference": "Josue 12:12 (ADB)",
+    "connected_to": "Josue 12:13",
+    "connected_from": "Josue 12:11"
+  },
+  {
+    "text": "Ang hari sa Debir, isa; ang hari sa Geder, isa;",
+    "reference": "Josue 12:13 (ADB)",
+    "connected_to": "Josue 12:14",
+    "connected_from": "Josue 12:12"
+  },
+  {
+    "text": "Ang hari sa Horma, isa; ang hari sa Arad, isa;",
+    "reference": "Josue 12:14 (ADB)",
+    "connected_to": "Josue 12:15",
+    "connected_from": "Josue 12:13"
+  },
+  {
+    "text": "Ang hari sa Libna, isa; ang hari sa Adullam, isa;",
+    "reference": "Josue 12:15 (ADB)",
+    "connected_to": "Josue 12:16",
+    "connected_from": "Josue 12:14"
+  },
+  {
+    "text": "Ang hari sa Maceda, isa; ang hari sa Beth-el, isa;",
+    "reference": "Josue 12:16 (ADB)",
+    "connected_to": "Josue 12:17",
+    "connected_from": "Josue 12:15"
+  },
+  {
+    "text": "Ang hari sa Tappua, isa; ang hari sa Hepher, isa;",
+    "reference": "Josue 12:17 (ADB)",
+    "connected_to": "Josue 12:18",
+    "connected_from": "Josue 12:16"
+  },
+  {
+    "text": "Ang hari sa Aphec, isa; ang hari sa Lasaron, isa;",
+    "reference": "Josue 12:18 (ADB)",
+    "connected_to": "Josue 12:19",
+    "connected_from": "Josue 12:17"
+  },
+  {
+    "text": "Ang hari sa Madon, isa; ang hari sa Hasor, isa;",
+    "reference": "Josue 12:19 (ADB)",
+    "connected_to": "Josue 12:20",
+    "connected_from": "Josue 12:18"
+  },
+  {
+    "text": "Ang hari sa Simron-meron, isa; ang hari sa Achsaph, isa;",
+    "reference": "Josue 12:20 (ADB)",
+    "connected_to": "Josue 12:21",
+    "connected_from": "Josue 12:19"
+  },
+  {
+    "text": "Ang hari sa Taanach, isa; ang hari sa Megiddo, isa;",
+    "reference": "Josue 12:21 (ADB)",
+    "connected_to": "Josue 12:22",
+    "connected_from": "Josue 12:20"
+  },
+  {
+    "text": "Ang hari sa Chedes, isa; ang hari sa Jocneam sa Carmel, isa;",
+    "reference": "Josue 12:22 (ADB)",
+    "connected_to": "Josue 12:23",
+    "connected_from": "Josue 12:21"
+  },
+  {
+    "text": "Ang hari sa Dor sa kaitaasan ng Dor, isa; ang hari ng mga bansa sa Gilgal, isa;",
+    "reference": "Josue 12:23 (ADB)",
+    "connected_to": "Josue 12:24",
+    "connected_from": "Josue 12:22"
+  },
+  {
+    "text": "Ang hari sa Tirsa, isa; lahat ng hari ay tatlong pu't isa;",
+    "reference": "Josue 12:24 (ADB)",
+    "connected_from": "Josue 12:23"
+  }
+]
