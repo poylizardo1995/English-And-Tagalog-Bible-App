@@ -621,7 +621,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 "English and Tagalog Bible v1.3\n\n" +
                 "App Developed by Poy Lizardo\n\n" +
                 "Copyright © 2026. All Rights Reserved. To God be the glory!\n\n" +
-                "Scripture Text Provided via Public Domain Translations: English - King James Version (KJV) and Tagalog - Ang Dating Biblia 1905 (ADB1905).\n\n" +    
+                "Scripture Text Provided via Public Domain Translations:\n" +
+                "● English - King James Version (KJV)\n" +
+                "● Tagalog - Ang Dating Biblia 1905 (ADB1905).\n\n" +
                 "Github: https://github.com/poylizardo1995/English-And-Tagalog-Bible-App"
             )
             .setPositiveButton("OK") { dialogInterface, _ -> dialogInterface.dismiss() }
