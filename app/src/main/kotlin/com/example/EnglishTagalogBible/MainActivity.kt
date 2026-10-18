@@ -287,8 +287,12 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             .setTitle("Audio & Speech Options")
             .setAdapter(createCenteredListAdapter(options)) { _, index ->
                 when (index) {
-                    0 -> speakCurrentVerse()       // Plays audio for the active verse
-                    1 -> openSystemTTSSettings()    // Opens Android System Google TTS settings
+                    0 -> {
+                        currentVerse?.let { verse ->
+                            speakVerse(verse)
+                        }
+                    }
+                    1 -> openSystemTTSSettings()
                 }
             }
             .create()
@@ -379,6 +383,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                         text.contains("✅") || text.contains("⬇️") || text.contains("🌐") || text.contains("🖼️") || 
                         text.contains("📝") || text.contains("🖼️") || text.contains("🟤") || text.contains("⚫") || 
                         text.contains("🔵") || text.contains("🟢") || text.contains("🟠") || text.contains("▶ Auto-Play ") || 
+                        text.contains("🔊") || text.contains("⚙️") || 
                         text.contains("• Active")) {
  
                         this.setTextColor(accentColor)
