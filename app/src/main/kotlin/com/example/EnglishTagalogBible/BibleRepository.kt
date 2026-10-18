@@ -55,7 +55,7 @@ object BibleRepository {
         "2 chronicles" to "2 Cronica", "2 cronica" to "2 Chronicles",
         "ezra" to "Ezra", "nehemiah" to "Nehemias", "nehemias" to "Nehemiah",
         "esther" to "Ester", "ester" to "Esther", "job" to "Job",
-        "psalms" to "Mga Awit", "mga awit" to "Psalms",
+        "psalm" to "Mga Awit", "mga awit" to "Psalm",
         "proverbs" to "Mga Kawikaan", "mga kawikaan" to "Proverbs",
         "ecclesiastes" to "Eclesiastes", "song of solomon" to "Ang Awit ng mga Awit",
         "isaiah" to "Isaias", "isaias" to "Isaiah",
