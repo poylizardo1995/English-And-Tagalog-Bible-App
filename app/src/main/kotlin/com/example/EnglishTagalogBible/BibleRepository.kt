@@ -16,22 +16,20 @@ enum class BibleTranslation(
     ASV("English", "English (ASV)", "asv", false, "American Standard Version (1901)"),
     BAB("English", "English (BAB)", "bab", false, "Berean Annotated Bible (Early Draft Version)"),
     BLB("English", "English (BLB)", "blb", false, "Berean Literal Bible (Draft Version)"),
-    BSB("English", "English (BSB)", "bsb", false, "Berean Standard Bible (2022)"),
-    BRB("English", "English (BRB)", "brb", false, "Berean Reader’s Bible (2020)"),
-    CPDV("English", "English (CPDV)", "cpdv", false, "Catholic Public Domain Version"),
+    BSB("English", "English (BSB)", "bsb", false, "Berean Standard Bible (2020)"),    
+    CPDV("English", "English (CPDV)", "cpdv", false, "Catholic Public Domain Version (2009)"),
     DBT("English", "English (DBT)", "dbt", false, "Darby Bible Translation (1890)"),
-    DRB("English", "English (DRB)", "drb", false, "Douay-Rheims Bible [1582(NT)-1609–1610(OT)/(ChallonerRevision1752)]"),
+    DRB("English", "English (DRB)", "drb", false, "Douay-Rheims Bible (NT:1582)(OT:1609–1610)(Challoner'sRev1749-1752)"),
     ERV("English", "English (ERV)", "erv", false, "English Revised Version (1885)"),
-    JPS("English", "English (JPS)", "jps", false, "Jewish Publication Society's Tanakh - Old Testament Only (1917)"),
+    JPS("English", "English (JPS)", "jps", false, "Jewish Publication Society's Tanakh (OT:1917)"),
     KJV("English", "English (KJV)", "kjv", true, "King James Bible: Pure Cambridge Edition (1900)"),
     MSB("English", "English (MSB)", "msb", false, "Majority Standard Bible (2022)"),
-    SLT("English", "English (SLT)", "slt", false, "Smith's Literal Translation"),
+    SLT("English", "English (SLT)", "slt", false, "Smith's Literal Translation (1876)"),
     WBT("English", "English (WBT)", "wbt", false, "Webster Bible Translation (1833)"),
-    WEB("English", "English (WEB)", "web", false, "World English Bible (2020-2022)"),
-    WNT("English", "English (WNT)", "wnt", false, "Weymouth New Testament (1903)"),
+    WEB("English", "English (WEB)", "web", false, "World English Bible (2020)"),
+    WNT("English", "English (WNT)", "wnt", false, "Weymouth New Testament (NT:1903)"),
     YLT("English", "English (YLT)", "ylt", false, "Young's Literal Translation (1862)"),
-    ADB("Tagalog", "Tagalog (ADB)", "adb", true, "Ang Dating Biblia (1905)"),
-    MBB("Tagalog", "Tagalog (MBB)", "mbb", false, "Magandang Balita Biblia");
+    ADB("Tagalog", "Tagalog (ADB)", "adb", true, "Ang Dating Biblia (1905)");
 
     fun isAvailable(context: Context): Boolean {
         if (isBuiltIn) return true
