@@ -257,7 +257,7 @@ object BibleRepository {
 
     fun getChaptersForBook(bookName: String, context: Context): List<String> {
         loadVerses(context)
-        return verses
+        val chapters = verses
             .filter { extractBookName(it.reference).equals(bookName, ignoreCase = true) }
             .map { 
                 val cleanRef = it.reference.substringBefore(" (").trim()
@@ -265,6 +265,11 @@ object BibleRepository {
                 if (colonIndex != -1) cleanRef.substring(0, colonIndex) else cleanRef
             }
             .distinct()
+
+        return chapters.sortedWith(compareBy { chapterStr ->
+            val numStr = chapterStr.substringAfterLast(' ').trim()
+            numStr.toIntOrNull() ?: 0
+        })
     }
 
     fun getVersesForChapter(chapterName: String, context: Context): List<String> {
