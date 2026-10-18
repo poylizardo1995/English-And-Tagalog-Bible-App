@@ -284,7 +284,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val isDark = currentTheme != ThemeMode.SEPIA
         val textColor = if (isDark) Color.parseColor("#FFFFFF") else Color.parseColor("#2D241E")
         val accentColor = when (currentTheme) {
-            ThemeMode.SEPIA -> Color.parseColor("#8C6D53")
+            ThemeMode.SEPIA -> Color.parseColor("#6E472C")
             ThemeMode.CHARCOAL -> Color.parseColor("#FFB74D")
             ThemeMode.NAVY -> Color.parseColor("#9FA8DA")
             ThemeMode.OLIVE -> Color.parseColor("#A5D6A7")
@@ -294,15 +294,24 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         return object : android.widget.ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, items) {
             override fun getView(position: Int, convertView: android.view.View?, parent: ViewGroup): android.view.View {
                 val view = super.getView(position, convertView, parent)
+                val text = items[position]
                 (view as? TextView)?.apply {
-                    this.setTextColor(textColor)
                     this.gravity = android.view.Gravity.CENTER
                     this.textAlignment = android.view.View.TEXT_ALIGNMENT_CENTER
                     this.setPadding(0, 28, 0, 28)
-                    if (items[position].startsWith("—") || items[position].startsWith("📜") || items[position].startsWith("✝️") || items[position].startsWith("📚") || items[position].contains("✅") || items[position].contains("⬇️")) {
+                    
+                    // Comprehensive check for headers, categories, status badges, and action buttons
+                    if (text.startsWith("—") || 
+                        text.contains("📜") || text.contains("✝️") || text.contains("📖") || text.contains("🗑️") ||
+                        text.contains("✅") || text.contains("⬇️") || text.contains("🌐") || text.contains("🖼️") || 
+                        text.contains("📝") || text.contains("🖼️") || text.contains("🟤") || text.contains("⚫") || 
+                        text.contains("🔵") || text.contains("🟢") || text.contains("🟠") || text.contains("▶ Auto-Play ") || 
+                        text.contains("• Active")) {
+ 
                         this.setTextColor(accentColor)
                         this.setTypeface(null, android.graphics.Typeface.BOLD)
                     } else {
+                        this.setTextColor(textColor)
                         this.setTypeface(null, android.graphics.Typeface.NORMAL)
                     }
                     layoutParams = android.widget.AbsListView.LayoutParams(android.widget.AbsListView.LayoutParams.MATCH_PARENT, android.widget.AbsListView.LayoutParams.WRAP_CONTENT)
