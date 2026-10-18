@@ -34,8 +34,7 @@ object BibleManager {
 
         Thread {
             try {
-                // Replace with your actual hosting server URL pattern for translation zips
-                val urlStr = "https://raw.githubusercontent.com/your-username/your-repo/main/packages/${translation.suffix}.zip"
+                val urlStr = "https://raw.githubusercontent.com/poylizardo1995/English-And-Tagalog-Bible-App/main/packages/${translation.suffix}.zip"
                 val url = URL(urlStr)
                 val connection = url.openConnection() as HttpURLConnection
                 connection.connect()
