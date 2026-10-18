@@ -4,12 +4,12 @@ import android.content.Context
 import android.net.ConnectivityManager
 import android.net.NetworkCapabilities
 import android.net.Uri
+import android.provider.OpenableColumns
 import java.io.File
 import java.io.FileOutputStream
 import java.io.InputStream
 import java.net.HttpURLConnection
 import java.net.URL
-import java.util.zip.ZipInputStream
 
 object BibleManager {
 
@@ -34,7 +34,8 @@ object BibleManager {
 
         Thread {
             try {
-                val urlStr = "https://raw.githubusercontent.com/poylizardo1995/English-And-Tagalog-Bible-App/main/packages/${translation.suffix}.zip"
+                // Fetch directly from downloadable_bibles folder on GitHub
+                val urlStr = "https://raw.githubusercontent.com/poylizardo1995/English-And-Tagalog-Bible-App/main/downloadable_bibles/${translation.suffix}.json"
                 val url = URL(urlStr)
                 val connection = url.openConnection() as HttpURLConnection
                 connection.connect()
@@ -48,31 +49,25 @@ object BibleManager {
                 val input: InputStream = connection.inputStream
                 val targetDir = File(context.filesDir, "bibles").apply { mkdirs() }
 
-                val zipInput = ZipInputStream(input)
-                var entry = zipInput.nextEntry
-                val buffer = ByteArray(1024)
-                var totalBytesRead = 0
+                val outputFile = File(targetDir, "${translation.suffix}.json")
+                val outputStream = FileOutputStream(outputFile)
 
-                while (entry != null) {
-                    if (!entry.isDirectory && entry.name.endsWith(".json")) {
-                        val outputFile = File(targetDir, File(entry.name).name)
-                        val outputStream = FileOutputStream(outputFile)
-                        var count: Int
-                        while (zipInput.read(buffer).also { count = it } != -1) {
-                            outputStream.write(buffer, 0, count)
-                            totalBytesRead += count
-                            if (fileLength > 0) {
-                                onProgress((totalBytesRead * 100 / fileLength))
-                            }
-                        }
-                        outputStream.close()
+                val buffer = ByteArray(4096)
+                var totalBytesRead = 0
+                var count: Int
+
+                while (input.read(buffer).also { count = it } != -1) {
+                    outputStream.write(buffer, 0, count)
+                    totalBytesRead += count
+                    if (fileLength > 0) {
+                        onProgress((totalBytesRead * 100 / fileLength))
                     }
-                    zipInput.closeEntry()
-                    entry = zipInput.nextEntry
                 }
 
-                zipInput.close()
+                outputStream.flush()
+                outputStream.close()
                 input.close()
+                
                 onSuccess()
 
             } catch (e: Exception) {
@@ -81,14 +76,24 @@ object BibleManager {
         }.start()
     }
 
-    // Allows user to manually pick and import a JSON file or ZIP package from device storage
+    // Allows user to manually pick and import a translation JSON file from device storage
     fun importManualFile(context: Context, uri: Uri, onSuccess: () -> Unit, onError: (String) -> Unit) {
         try {
             val targetDir = File(context.filesDir, "bibles").apply { mkdirs() }
-            val inputStream = context.contentResolver.openInputStream(uri) ?: return onError("Could not read file stream")
+            val inputStream = context.contentResolver.openInputStream(uri) 
+                ?: return onError("Could not read file stream")
             
-            val fileName = "imported_bible_file.json" // Or parse file name from uri metadata
-            val outputFile = File(targetDir, fileName)
+            // Extract display name from ContentResolver metadata or fallback cleanly
+            var fileName: String? = null
+            context.contentResolver.query(uri, null, null, null, null)?.use { cursor ->
+                val nameIndex = cursor.getColumnIndex(OpenableColumns.DISPLAY_NAME)
+                if (nameIndex != -1 && cursor.moveToFirst()) {
+                    fileName = cursor.getString(nameIndex)
+                }
+            }
+
+            val finalFileName = fileName ?: "custom_translation_${System.currentTimeMillis()}.json"
+            val outputFile = File(targetDir, finalFileName)
             
             inputStream.use { input ->
                 outputFile.outputStream().use { output ->
