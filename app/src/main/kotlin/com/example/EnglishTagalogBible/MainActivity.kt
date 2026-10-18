@@ -567,7 +567,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
 
     private fun showDownloadOrUploadChoiceDialog(translation: BibleTranslation) {
-        // Updated friendly wording without technical jargon like "JSON"
         val choices = arrayOf("🌐 Download Online (GitHub)", "📁 Import from Device")
         val dialog = AlertDialog.Builder(this)
             .setTitle("Get ${translation.displayName}")
@@ -586,7 +585,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                         onError = { err -> runOnUiThread { showCenteredToast(err) } }
                     )
                 } else {
-                    // File picker for local import
                     val intent = Intent(Intent.ACTION_GET_CONTENT).apply { type = "application/json" }
                     startActivityForResult(intent, 999)
                 }
