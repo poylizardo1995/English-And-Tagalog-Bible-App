@@ -675,19 +675,25 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     private fun switchToTranslation(target: BibleTranslation) {
         val currentRef = currentVerse?.reference?.substringBefore(" (")?.trim()
     
+        // Temporarily keep the existing verse text and object in memory
+        val previousVerse = currentVerse
+        
         BibleRepository.setTranslation(this, target)
         updateLanguageToggleUI(target)
 
-        if (target == BibleTranslation.JPS || target == BibleTranslation.WNT) {
-            showCenteredToast("${target.displayName}: ${target.fullTranslationName}")
-        }
-    
         if (currentRef != null) {
             val translatedVerse = BibleRepository.getVerseByBookChapterAndVerse(currentRef, this)
             if (translatedVerse != null) {
+                // Exact verse found in new translation
                 displayVerse(translatedVerse)
             } else {
-                loadInitialVerse()
+                // Verse is not available in the new translation (e.g. NT verse in JPS)
+                // Keep the current verse displayed on screen and notify the user via toast
+                if (previousVerse != null) {
+                    currentVerse = previousVerse
+                    // Keep the text on screen exactly as it was
+                }
+                showCenteredToast("${target.displayName} (${target.fullTranslationName}) does not contain this verse/testament.")
             }
         } else {
             loadInitialVerse()
