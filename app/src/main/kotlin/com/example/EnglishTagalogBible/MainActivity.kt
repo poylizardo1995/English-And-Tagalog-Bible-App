@@ -567,7 +567,8 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
 
     private fun showDownloadOrUploadChoiceDialog(translation: BibleTranslation) {
-        val choices = arrayOf("🌐 Download via Internet", "📁 Upload JSON Manually")
+        // Updated friendly wording without technical jargon like "JSON"
+        val choices = arrayOf("🌐 Download Online (GitHub)", "📁 Import from Device")
         val dialog = AlertDialog.Builder(this)
             .setTitle("Get ${translation.displayName}")
             .setAdapter(createCenteredListAdapter(choices)) { _, index ->
@@ -576,7 +577,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                         showCenteredToast("No internet connection available.")
                         return@setAdapter
                     }
-                    showCenteredToast("Downloading ${translation.displayName}...")
+                    showCenteredToast("Downloading ${translation.displayName} from GitHub...")
                     BibleManager.downloadTranslationPackage(
                         context = this,
                         translation = translation,
@@ -585,6 +586,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                         onError = { err -> runOnUiThread { showCenteredToast(err) } }
                     )
                 } else {
+                    // File picker for local import
                     val intent = Intent(Intent.ACTION_GET_CONTENT).apply { type = "application/json" }
                     startActivityForResult(intent, 999)
                 }
