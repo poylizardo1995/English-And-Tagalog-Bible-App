@@ -718,8 +718,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         }
     }
 
-    // --- DYNAMIC LOCALIZED CATEGORIZED BOOK SELECTION DIALOG ---
-    private fun showBookSelectionDialog() {
+   private fun showBookSelectionDialog() {
         val allBooksAlphabetical = BibleRepository.getAvailableBooks(this).toTypedArray()
         val isTagalog = BibleRepository.currentTranslation.languageGroup == "Tagalog"
 
@@ -797,17 +796,31 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 val selectedCategory = categories[catIndex]
                 val categoryItems = categoryMap[selectedCategory] ?: emptyArray()
 
-                val bookDialog = AlertDialog.Builder(this)
-                    .setTitle(selectedCategory)
-                    .setAdapter(createCenteredListAdapter(categoryItems)) { _, bookIndex ->
-                        val selectedItem = categoryItems[bookIndex]
-                        if (!selectedItem.startsWith("—")) {
-                            showChapterSelectionDialog(selectedItem)
-                        }
-                    }
-                    .create()
+                // Filter items to check if any books exist in this active translation
+                val availableBooksInTranslation = BibleRepository.getAvailableBooks(this)
+                val filteredCategoryItems = categoryItems.filter { item ->
+                    item.startsWith("—") || availableBooksInTranslation.any { it.equals(item, ignoreCase = true) }
+                }
 
-                applyThemedDialogStyle(bookDialog)
+                // Count actual book titles excluding section headers
+                val bookCount = filteredCategoryItems.count { !it.startsWith("—") }
+
+                if (bookCount == 0) {
+                    val activeTranslation = BibleRepository.currentTranslation
+                    showCenteredToast("${activeTranslation.displayName} - ${activeTranslation.fullTranslationName}")
+                } else {
+                    val bookDialog = AlertDialog.Builder(this)
+                        .setTitle(selectedCategory)
+                        .setAdapter(createCenteredListAdapter(filteredCategoryItems.toTypedArray())) { _, bookIndex ->
+                            val selectedItem = filteredCategoryItems[bookIndex]
+                            if (!selectedItem.startsWith("—")) {
+                                showChapterSelectionDialog(selectedItem)
+                            }
+                        }
+                        .create()
+
+                    applyThemedDialogStyle(bookDialog)
+                }
             }
             .create()
 
