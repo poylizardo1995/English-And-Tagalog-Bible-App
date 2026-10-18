@@ -542,6 +542,38 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         applyThemedDialogStyle(dialog)
     }
 
+    private fun showRemoveTranslationsDialog(groupName: String) {
+        val removableList = BibleTranslation.values()
+            .filter { it.languageGroup == groupName && !it.isBuiltIn && it.isAvailable(this) }
+
+        if (removableList.isEmpty()) {
+            showCenteredToast("No removable translations found.")
+            return
+        }
+
+        val options = removableList.map { "🗑️ Delete ${it.displayName}" }.toTypedArray()
+
+        val dialog = AlertDialog.Builder(this)
+            .setTitle("Remove Translation")
+            .setAdapter(createCenteredListAdapter(options)) { _, index ->
+                val toDelete = removableList[index]
+                BibleManager.removeTranslationPackage(this, toDelete,
+                    onSuccess = {
+                        runOnUiThread {
+                            showCenteredToast("${toDelete.displayName} removed.")
+                            if (BibleRepository.currentTranslation == toDelete) {
+                                val fallback = if (groupName == "Tagalog") BibleTranslation.ADB1905 else BibleTranslation.KJV
+                                switchToTranslation(fallback)
+                            }
+                        }
+                    },
+                    onError = { err -> runOnUiThread { showCenteredToast(err) } }
+                )
+            }
+            .create()
+        applyThemedDialogStyle(dialog)
+    }
+
     private fun handleLanguageSelection(groupName: String) {
         val installedTranslations = BibleTranslation.values()
             .filter { it.languageGroup == groupName && it.isAvailable(this) }
