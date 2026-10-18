@@ -86,6 +86,31 @@ object BibleManager {
         }.start()
     }
 
+    fun removeTranslationPackage(context: Context, translation: BibleTranslation, onSuccess: () -> Unit, onError: (String) -> Unit) {
+        try {
+            if (translation.isBuiltIn) {
+                onError("Cannot remove built-in translation.")
+                return
+            }
+            val targetDir = File(context.filesDir, "bibles")
+            if (!targetDir.exists()) {
+                onSuccess()
+                return
+            }
+            val cleanSuffix = translation.suffix.lowercase()
+            val files = targetDir.listFiles() ?: emptyArray()
+            for (file in files) {
+                val name = file.name.lowercase()
+                if (name.endsWith("_${cleanSuffix}.json") || name == "${cleanSuffix}.json") {
+                    file.delete()
+                }
+            }
+            onSuccess()
+        } catch (e: Exception) {
+            onError(e.localizedMessage ?: "Failed to remove translation")
+        }
+    }
+    
     fun importManualFile(context: Context, uri: Uri, onSuccess: () -> Unit, onError: (String) -> Unit) {
         try {
             val targetDir = File(context.filesDir, "bibles").apply { mkdirs() }
