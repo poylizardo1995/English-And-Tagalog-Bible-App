@@ -63,11 +63,11 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     private var isAutoPlaying = false
 
     private enum class ThemeMode(val displayName: String) {
-        SEPIA("📜 Classic Sepia"),
-        CHARCOAL("🖤 Charcoal Contrast"),
-        NAVY("🌌 Midnight Navy"),
-        OLIVE("🌿 Olive Grace"),
-        SUNSET("🌅 Warm Sunset")
+        SEPIA("🟤 Classic Sepia"),
+        CHARCOAL("⚫ Charcoal Contrast"),
+        NAVY("🔵 Midnight Navy"),
+        OLIVE("🟢 Olive Grace"),
+        SUNSET("🟠 Warm Sunset")
     }
     private var currentTheme = ThemeMode.SEPIA
 
@@ -666,7 +666,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 "— History —",
                 "Joshua", "Judges", "Ruth", "1 Samuel", "2 Samuel", "1 Kings", "2 Kings", "1 Chronicles", "2 Chronicles", "Ezra", "Nehemiah", "Esther",
                 "— Poetry & Wisdom —",
-                "Job", "Psalms", "Proverbs", "Ecclesiastes", "Song of Solomon",
+                "Job", "Psalm", "Proverbs", "Ecclesiastes", "Song of Solomon",
                 "— Major Prophets —",
                 "Isaiah", "Jeremiah", "Lamentations", "Ezekiel", "Daniel",
                 "— Minor Prophets —",
