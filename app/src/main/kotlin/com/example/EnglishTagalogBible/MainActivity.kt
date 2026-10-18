@@ -571,7 +571,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                         runOnUiThread {
                             showCenteredToast("${toDelete.displayName} removed.")
                             if (BibleRepository.currentTranslation == toDelete) {
-                                val fallback = if (groupName == "Tagalog") BibleTranslation.ADB1905 else BibleTranslation.KJV
+                                val fallback = if (groupName == "Tagalog") BibleTranslation.ADB else BibleTranslation.KJV
                                 switchToTranslation(fallback)
                             }
                         }
