@@ -277,6 +277,25 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         }
     }
 
+    private fun showAudioOptionsDialog() {
+        val options = arrayOf(
+            "🔊 Listen to Current Verse",
+            "⚙️ Text-to-Speech Settings (Google TTS)"
+        )
+
+        val dialog = AlertDialog.Builder(this)
+            .setTitle("Audio & Speech Options")
+            .setAdapter(createCenteredListAdapter(options)) { _, index ->
+                when (index) {
+                    0 -> speakCurrentVerse()       // Plays audio for the active verse
+                    1 -> openSystemTTSSettings()    // Opens Android System Google TTS settings
+                }
+            }
+            .create()
+
+        applyThemedDialogStyle(dialog)
+    }
+
     private fun showThemeSelectionDialog() {
         val themes = ThemeMode.values()
         val options = themes.map { it.displayName }.toTypedArray()
