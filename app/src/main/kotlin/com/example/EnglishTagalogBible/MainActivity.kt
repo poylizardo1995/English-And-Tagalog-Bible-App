@@ -543,9 +543,8 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
 
     private fun handleLanguageSelection(groupName: String) {
-        // Sort matching translations to place built-in (KJV / ADB1905) at the top
-        val matchingTranslations = BibleTranslation.values()
-            .filter { it.languageGroup == groupName }
+        val installedTranslations = BibleTranslation.values()
+            .filter { it.languageGroup == groupName && it.isAvailable(this) }
             .sortedWith(Comparator { a, b ->
                 when {
                     a.isBuiltIn -> -1
@@ -554,88 +553,79 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 }
             })
 
-        val options = matchingTranslations.map { 
-            val isBuiltIn = it.isBuiltIn
-            val available = it.isAvailable(this)
-            when {
-                isBuiltIn -> "${it.displayName} ✅ (Built-in)"
-                available -> "${it.displayName} ✅ (Installed)"
-                else -> "${it.displayName} ⬇️ (Download)"
-            }
-        }.toTypedArray()
+        val listItems = mutableListOf<String>()
+        
+        // 1. Show Installed Versions with Status Badges
+        installedTranslations.forEach {
+            val badge = if (it.isBuiltIn) "✅ (Built-in)" else "✅ (Installed)"
+            val activeMark = if (it == BibleRepository.currentTranslation) " • Active" else ""
+            listItems.add("${it.displayName} $badge$activeMark")
+        }
+
+        // 2. Action buttons at the bottom
+        listItems.add("🌐 Download Other Translations")
+        
+        val downloadableNonBuiltInCount = BibleTranslation.values()
+            .filter { it.languageGroup == groupName && !it.isBuiltIn && it.isAvailable(this) }.size
+            
+        if (downloadableNonBuiltInCount > 0) {
+            listItems.add("🗑️ Remove Installed Translation")
+        }
 
         val dialog = AlertDialog.Builder(this)
             .setTitle("Select $groupName Version")
-            .setAdapter(createCenteredListAdapter(options)) { _, which ->
-                val selected = matchingTranslations[which]
-                if (selected.isBuiltIn || selected.isAvailable(this)) {
-                    if (selected.isBuiltIn) {
-                        if (selected != BibleRepository.currentTranslation) {
-                            switchToTranslation(selected)
-                        }
+            .setAdapter(createCenteredListAdapter(listItems.toTypedArray())) { _, index ->
+                if (index < installedTranslations.size) {
+                    // Direct switch without extra dialogs
+                    val selected = installedTranslations[index]
+                    if (selected != BibleRepository.currentTranslation) {
+                        switchToTranslation(selected)
+                    }
+                } else {
+                    val actionIndex = index - installedTranslations.size
+                    if (actionIndex == 0) {
+                        showDownloadableTranslationsDialog(groupName)
                     } else {
-                        showInstalledVersionActionDialog(selected)
+                        showRemoveTranslationsDialog(groupName)
                     }
-                } else {
-                    showDownloadOrUploadChoiceDialog(selected)
                 }
             }
             .create()
         applyThemedDialogStyle(dialog)
     }
 
-    private fun showInstalledVersionActionDialog(translation: BibleTranslation) {
-        val actions = arrayOf("📖 Switch to ${translation.displayName}", "🗑️ Remove / Delete Version")
-        val dialog = AlertDialog.Builder(this)
-            .setTitle(translation.displayName)
-            .setAdapter(createCenteredListAdapter(actions)) { _, index ->
-                if (index == 0) {
-                    if (translation != BibleRepository.currentTranslation) {
-                        switchToTranslation(translation)
-                    }
-                } else {
-                    BibleManager.removeTranslationPackage(this, translation,
-                        onSuccess = {
-                            runOnUiThread {
-                                showCenteredToast("${translation.displayName} removed.")
-                                if (BibleRepository.currentTranslation == translation) {
-                                    val fallback = if (translation.languageGroup == "Tagalog") BibleTranslation.ADB1905 else BibleTranslation.KJV
-                                    switchToTranslation(fallback)
-                                }
-                            }
-                        },
-                        onError = { err ->
-                            runOnUiThread { showCenteredToast(err) }
-                        }
-                    )
-                }
-            }
-            .create()
-        applyThemedDialogStyle(dialog)
-    }
+    private fun showDownloadableTranslationsDialog(groupName: String) {
+        val downloadableList = BibleTranslation.values()
+            .filter { it.languageGroup == groupName && !it.isAvailable(this) }
 
-    private fun showDownloadOrUploadChoiceDialog(translation: BibleTranslation) {
-        val choices = arrayOf("🌐 Download Online (GitHub)", "📁 Import from Device")
+        if (downloadableList.isEmpty()) {
+            showCenteredToast("All available $groupName translations are already installed!")
+            return
+        }
+
+        val options = downloadableList.map { "${it.displayName} ⬇️ (Download)" }.toTypedArray()
+
         val dialog = AlertDialog.Builder(this)
-            .setTitle("Get ${translation.displayName}")
-            .setAdapter(createCenteredListAdapter(choices)) { _, index ->
-                if (index == 0) {
-                    if (!BibleManager.isNetworkAvailable(this)) {
-                        showCenteredToast("No internet connection available.")
-                        return@setAdapter
-                    }
-                    showCenteredToast("Downloading ${translation.displayName} from GitHub...")
-                    BibleManager.downloadTranslationPackage(
-                        context = this,
-                        translation = translation,
-                        onProgress = {},
-                        onSuccess = { runOnUiThread { showCenteredToast("${translation.displayName} installed!"); switchToTranslation(translation) } },
-                        onError = { err -> runOnUiThread { showCenteredToast(err) } }
-                    )
-                } else {
-                    val intent = Intent(Intent.ACTION_GET_CONTENT).apply { type = "application/json" }
-                    startActivityForResult(intent, 999)
+            .setTitle("Download $groupName Translations")
+            .setAdapter(createCenteredListAdapter(options)) { _, index ->
+                val selected = downloadableList[index]
+                if (!BibleManager.isNetworkAvailable(this)) {
+                    showCenteredToast("No internet connection available.")
+                    return@setAdapter
                 }
+                showCenteredToast("Downloading ${selected.displayName} from GitHub...")
+                BibleManager.downloadTranslationPackage(
+                    context = this,
+                    translation = selected,
+                    onProgress = {},
+                    onSuccess = { 
+                        runOnUiThread { 
+                            showCenteredToast("${selected.displayName} installed!") 
+                            switchToTranslation(selected) 
+                        } 
+                    },
+                    onError = { err -> runOnUiThread { showCenteredToast(err) } }
+                )
             }
             .create()
         applyThemedDialogStyle(dialog)
