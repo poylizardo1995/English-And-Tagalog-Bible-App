@@ -191,7 +191,10 @@ object BibleRepository {
                 verses.add(BibleVerse(text = "The Lord is my shepherd; I shall not want.", reference = "Psalm 23:1 (KJV)"))
             }
         } catch (e: Exception) {
-            e.printStackTrace serveFallback()
+            e.printStackTrace()
+            if (verses.isEmpty()) {
+                verses.add(BibleVerse(text = "The Lord is my shepherd; I shall not want.", reference = "Psalm 23:1 (KJV)"))
+            }
         }
         isLoaded = true
     }
