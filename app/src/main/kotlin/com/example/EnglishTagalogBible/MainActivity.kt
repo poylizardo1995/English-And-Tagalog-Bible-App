@@ -714,12 +714,30 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val dialog = AlertDialog.Builder(this)
             .setMessage(
                 "About & Credits\n\n" +
-                "English and Tagalog Bible v1.3\n\n" +
+                "English and Tagalog Bible v1.4\n\n" +
                 "App Developed by Poy Lizardo\n\n" +
                 "Copyright © 2026. All Rights Reserved. To God be the glory!\n\n" +
-                "Built-in Scripture Text Provided via Public Domain Translations:\n" +
+                "Built-in Scripture Text (Public Domain Translations):\n" +
                 "● English - King James Bible: Pure Cambridge Edition (1900) (KJV)\n" +
                 "● Tagalog - Ang Dating Biblia (1905) (ADB).\n\n" +
+                "Other Scripture Text (Public Domain Translations) are available for Download on APP\n" +
+                "● English - American King James Version (2020) (AKJV)\n" +
+                "● English - American Standard Version (1901) (ASV)\n" +
+                "● English - Berean Annotated Bible (Early Draft Version) (BAB)\n" +
+                "● English - Berean Literal Bible (Draft Version) (BLB)\n" +
+                "● English - Berean Standard Bible (2020) (BSB)\n" +
+                "● English - Berean Reader’s Bible (2021) (BRB)\n" +
+                "● English - Catholic Public Domain Version (2009) (CPDV)\n" +
+                "● English - Darby Bible Translation (1890) (DBT)\n" +
+                "● English - Douay-Rheims Bible (NT:1582)(OT:1609-1610)(ChallonerRevision:1749–1752) (DRB)\n" +
+                "● English - English Revised Version (1885) (ERV)\n" +
+                "● English - Jewish Publication Society's Tanakh (OT:1917) (JPS)\n" +
+                "● English - Majority Standard Bible (2022 (MSB)\n" +
+                "● English - Smith's Literal Translation (1876) (SLT)\n" +
+                "● English - Webster Bible Translation (1833) (WBT)\n" +
+                "● English - World English Bible (2020) (WEB)\n" +
+                "● English - Weymouth New Testament (NT-1903) (WNT)\n" +
+                "● English - Young's Literal Translation (1862) (YLT)\n\n" +
                 "Github: https://github.com/poylizardo1995/English-And-Tagalog-Bible-App"
             )
             .setPositiveButton("OK") { dialogInterface, _ -> dialogInterface.dismiss() }
