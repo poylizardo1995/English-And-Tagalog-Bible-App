@@ -674,28 +674,38 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
     private fun switchToTranslation(target: BibleTranslation) {
         val currentRef = currentVerse?.reference?.substringBefore(" (")?.trim()
-    
-        // Temporarily keep the existing verse text and object in memory
-        val previousVerse = currentVerse
         
+        // Save the previous active translation and verse before attempting to switch
+        val previousTranslation = BibleRepository.currentTranslation
+        val previousVerse = currentVerse
+
         BibleRepository.setTranslation(this, target)
-        updateLanguageToggleUI(target)
 
         if (currentRef != null) {
             val translatedVerse = BibleRepository.getVerseByBookChapterAndVerse(currentRef, this)
             if (translatedVerse != null) {
-                // Exact verse found in new translation
+                // Verse exists in target translation -> switch successfully
+                updateLanguageToggleUI(target)
                 displayVerse(translatedVerse)
+                
+                if (target == BibleTranslation.JPS || target == BibleTranslation.WNT) {
+                    showCenteredToast("${target.displayName}: ${target.fullTranslationName}")
+                }
             } else {
-                // Verse is not available in the new translation (e.g. NT verse in JPS)
-                // Keep the current verse displayed on screen and notify the user via toast
+                // Verse does NOT exist in target translation (e.g. NT verse selected on OT-only JPS)
+                // Revert repository and UI back to the previous translation
+                BibleRepository.setTranslation(this, previousTranslation)
+                updateLanguageToggleUI(previousTranslation)
+                
                 if (previousVerse != null) {
                     currentVerse = previousVerse
-                    // Keep the text on screen exactly as it was
+                    displayVerse(previousVerse)
                 }
-                showCenteredToast("${target.displayName} (${target.fullTranslationName}) does not contain this verse/testament.")
+                
+                showCenteredToast("${target.displayName} (${target.fullTranslationName}) does not contain this verse.")
             }
         } else {
+            updateLanguageToggleUI(target)
             loadInitialVerse()
         }
     }
