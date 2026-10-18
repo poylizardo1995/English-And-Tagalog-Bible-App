@@ -644,7 +644,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
         val otCategoryTitle = if (isTagalog) "📜 LUMANG TIPAN" else "📜 OLD TESTAMENT"
         val ntCategoryTitle = if (isTagalog) "✝️ BAGONG TIPAN" else "✝️ NEW TESTAMENT"
-        val allCategoryTitle = if (isTagalog) "📚 LAHAT NG AKLAT (A - Z)" else "📚 ALL BOOKS (A - Z)"
+        val allCategoryTitle = if (isTagalog) "📖 LAHAT NG AKLAT (A - Z)" else "📖 ALL BOOKS (A - Z)"
 
         val otItems = if (isTagalog) {
             arrayOf(
@@ -1170,7 +1170,24 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         if (!isTtsReady || tts == null) return
 
         val isTagalog = BibleRepository.currentTranslation.languageGroup == "Tagalog"
-        tts?.language = if (isTagalog) Locale("tl", "PH") else Locale.US
+        
+        if (isTagalog) {
+            // Try Filipino (fil_PH) first as Android TTS natively supports it best
+            val filLocale = Locale("fil", "PH")
+            val result = tts?.setLanguage(filLocale)
+            
+            if (result == TextToSpeech.LANG_MISSING_DATA || result == TextToSpeech.LANG_NOT_SUPPORTED) {
+                // Fall back to general Tagalog locale
+                tts?.language = Locale("tl", "PH")
+            }
+            // Slightly refine speech rate for clear formal Tagalog narration
+            tts?.setSpeechRate(0.88f)
+            tts?.setPitch(1.0f)
+        } else {
+            tts?.language = Locale.US
+            tts?.setSpeechRate(0.95f)
+            tts?.setPitch(1.0f)
+        }
 
         val utteranceId = "AutoPlay_${System.currentTimeMillis()}"
         tts?.speak("${verse.text}. Reference: ${verse.reference}", TextToSpeech.QUEUE_FLUSH, null, utteranceId)
