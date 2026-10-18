@@ -60,7 +60,6 @@ object BibleRepository {
     var currentTranslation: BibleTranslation = BibleTranslation.KJV
         private set
 
-    // Strict lookup map specifically for translating references between languages when switching versions
     private val crossLanguageMappings = mapOf(
         "genesis" to "Genesis", "exodus" to "Exodo", "exodo" to "Exodus",
         "leviticus" to "Levitico", "levitico" to "Leviticus",
@@ -115,8 +114,7 @@ object BibleRepository {
         "hebrews" to "Hebreo", "hebreo" to "Hebrews",
         "james" to "Santiago", "santiago" to "James",
         "1 peter" to "1 Pedro", "1 pedro" to "1 Peter",
-        "2 peter" to "2 Pedro",
-        "2 pedro" to "2 Peter",
+        "2 peter" to "2 Pedro", "2 pedro" to "2 Peter",
         "1 john" to "1 Juan", "1 juan" to "1 John",
         "2 john" to "2 Juan", "2 juan" to "2 John",
         "3 john" to "3 Juan", "3 juan" to "3 John",
@@ -159,7 +157,7 @@ object BibleRepository {
             val matchingFiles = allFiles.filter { file ->
                 file.lowercase().endsWith(targetSuffix) || file.lowercase() == singleFileName
             }
-            
+
             val filesToLoad = if (matchingFiles.isNotEmpty()) {
                 matchingFiles
             } else {
@@ -193,12 +191,15 @@ object BibleRepository {
                 verses.add(BibleVerse(text = "The Lord is my shepherd; I shall not want.", reference = "Psalm 23:1 (KJV)"))
             }
         } catch (e: Exception) {
-            e.printStackTrace()
-            if (verses.isEmpty()) {
-                verses.add(BibleVerse(text = "The Lord is my shepherd; I shall not want.", reference = "Psalm 23:1 (KJV)"))
-            }
+            e.printStackTrace serveFallback()
         }
         isLoaded = true
+    }
+
+    private fun serveFallback() {
+        if (verses.isEmpty()) {
+            verses.add(BibleVerse(text = "The Lord is my shepherd; I shall not want.", reference = "Psalm 23:1 (KJV)"))
+        }
     }
 
     fun setTranslation(context: Context, translation: BibleTranslation) {
@@ -213,12 +214,9 @@ object BibleRepository {
 
     fun getVerseByBookChapterAndVerse(baseReference: String, context: Context): BibleVerse? {
         loadVerses(context)
-        
-        // 1. Direct match attempt
         val directMatch = verses.find { it.reference.equals(baseReference, ignoreCase = true) || it.reference.startsWith("$baseReference (") }
         if (directMatch != null) return directMatch
 
-        // 2. Cross-language lookup using crossLanguageMappings
         val colonIndex = baseReference.lastIndexOf(':')
         if (colonIndex != -1) {
             val bookAndChapter = baseReference.substring(0, colonIndex).trim()
@@ -239,7 +237,6 @@ object BibleRepository {
         return null
     }
 
-    // Extract raw native book name directly from the loaded JSON reference string
     private fun extractBookName(reference: String): String {
         val cleanRef = reference.substringBefore(" (").trim()
         val colonIndex = cleanRef.lastIndexOf(':')
@@ -251,7 +248,6 @@ object BibleRepository {
 
     fun getAvailableBooks(context: Context): List<String> {
         loadVerses(context)
-        // Returns the books sorted alphabetically based on whatever language is currently active in the JSON files
         return verses.map { extractBookName(it.reference) }.distinct().sorted()
     }
 
@@ -266,6 +262,7 @@ object BibleRepository {
             }
             .distinct()
 
+        // Numerically sort chapters so Genesis 1 comes before Genesis 2 & 10
         return chapters.sortedWith(compareBy { chapterStr ->
             val numStr = chapterStr.substringAfterLast(' ').trim()
             numStr.toIntOrNull() ?: 0
