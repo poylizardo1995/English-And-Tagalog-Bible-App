@@ -543,23 +543,71 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
 
     private fun handleLanguageSelection(groupName: String) {
-        val matchingTranslations = BibleTranslation.values().filter { it.languageGroup == groupName }
+        // Sort matching translations to place built-in (KJV / ADB1905) at the top
+        val matchingTranslations = BibleTranslation.values()
+            .filter { it.languageGroup == groupName }
+            .sortedWith(Comparator { a, b ->
+                when {
+                    a.isBuiltIn -> -1
+                    b.isBuiltIn -> 1
+                    else -> a.displayName.compareTo(b.displayName)
+                }
+            })
 
         val options = matchingTranslations.map { 
+            val isBuiltIn = it.isBuiltIn
             val available = it.isAvailable(this)
-            if (available) "${it.displayName} ✅" else "${it.displayName} ⬇️ (Download)"
+            when {
+                isBuiltIn -> "${it.displayName} ✅ (Built-in)"
+                available -> "${it.displayName} ✅ (Installed)"
+                else -> "${it.displayName} ⬇️ (Download)"
+            }
         }.toTypedArray()
 
         val dialog = AlertDialog.Builder(this)
             .setTitle("Select $groupName Version")
             .setAdapter(createCenteredListAdapter(options)) { _, which ->
                 val selected = matchingTranslations[which]
-                if (selected.isAvailable(this)) {
-                    if (selected != BibleRepository.currentTranslation) {
-                        switchToTranslation(selected)
+                if (selected.isBuiltIn || selected.isAvailable(this)) {
+                    if (selected.isBuiltIn) {
+                        if (selected != BibleRepository.currentTranslation) {
+                            switchToTranslation(selected)
+                        }
+                    } else {
+                        showInstalledVersionActionDialog(selected)
                     }
                 } else {
                     showDownloadOrUploadChoiceDialog(selected)
+                }
+            }
+            .create()
+        applyThemedDialogStyle(dialog)
+    }
+
+    private fun showInstalledVersionActionDialog(translation: BibleTranslation) {
+        val actions = arrayOf("📖 Switch to ${translation.displayName}", "🗑️ Remove / Delete Version")
+        val dialog = AlertDialog.Builder(this)
+            .setTitle(translation.displayName)
+            .setAdapter(createCenteredListAdapter(actions)) { _, index ->
+                if (index == 0) {
+                    if (translation != BibleRepository.currentTranslation) {
+                        switchToTranslation(translation)
+                    }
+                } else {
+                    BibleManager.removeTranslationPackage(this, translation,
+                        onSuccess = {
+                            runOnUiThread {
+                                showCenteredToast("${translation.displayName} removed.")
+                                if (BibleRepository.currentTranslation == translation) {
+                                    val fallback = if (translation.languageGroup == "Tagalog") BibleTranslation.ADB1905 else BibleTranslation.KJV
+                                    switchToTranslation(fallback)
+                                }
+                            }
+                        },
+                        onError = { err ->
+                            runOnUiThread { showCenteredToast(err) }
+                        }
+                    )
                 }
             }
             .create()
