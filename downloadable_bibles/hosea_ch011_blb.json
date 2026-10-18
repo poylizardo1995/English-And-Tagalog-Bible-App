@@ -1,0 +1,72 @@
+[
+  {
+    "text": "When Israel [was] a child, I loved him; and out of Egypt I called My son.",
+    "reference": "Hosea 11:1 (BLB)",
+    "connected_to": "Hosea 11:2"
+  },
+  {
+    "text": "And I called to them, so they went away from My face; to the Baals they sacrificed, and to the carved images they burned incense.",
+    "reference": "Hosea 11:2 (BLB)",
+    "connected_to": "Hosea 11:3",
+    "connected_from": "Hosea 11:1"
+  },
+  {
+    "text": "And I had guided the feet of Ephraim, taking them by the arms; they did not know that [it was] I [who] healed them.",
+    "reference": "Hosea 11:3 (BLB)",
+    "connected_to": "Hosea 11:4",
+    "connected_from": "Hosea 11:2"
+  },
+  {
+    "text": "With cords of humanity I drew them, with bands of love; and I was to them like those lifting the yoke up [from] their jaws, and I bent down to them to let [them] eat.",
+    "reference": "Hosea 11:4 (BLB)",
+    "connected_to": "Hosea 11:5",
+    "connected_from": "Hosea 11:3"
+  },
+  {
+    "text": "He will not return to the land of Egypt, and Assyria—it will be his king, because they refused to return.",
+    "reference": "Hosea 11:5 (BLB)",
+    "connected_to": "Hosea 11:6",
+    "connected_from": "Hosea 11:4"
+  },
+  {
+    "text": "And the sword will twist through his cities, and will finish off his bars, and will devour their counseling!",
+    "reference": "Hosea 11:6 (BLB)",
+    "connected_to": "Hosea 11:7",
+    "connected_from": "Hosea 11:5"
+  },
+  {
+    "text": "And My people are bent on turning away from Me; though to the Most High they call [to] Him, He will not at all exalt them.",
+    "reference": "Hosea 11:7 (BLB)",
+    "connected_to": "Hosea 11:8",
+    "connected_from": "Hosea 11:6"
+  },
+  {
+    "text": "How can I give you up, O Ephraim? Can I deliver you up, O Israel? How can I make you like Admah? Can I make you like Zeboiim? My heart is turned over within Me, together My compassions are kindled.",
+    "reference": "Hosea 11:8 (BLB)",
+    "connected_to": "Hosea 11:9",
+    "connected_from": "Hosea 11:7"
+  },
+  {
+    "text": "I will not act [in] the burning of My anger; I will not turn back to destroy Ephraim. For I [am] God, and not a man—the Holy One in your midst, and I will not come in enmity.",
+    "reference": "Hosea 11:9 (BLB)",
+    "connected_to": "Hosea 11:10",
+    "connected_from": "Hosea 11:8"
+  },
+  {
+    "text": "After YHWH they shall walk; like a lion He will roar; when He roars, the sons from the west will come trembling.",
+    "reference": "Hosea 11:10 (BLB)",
+    "connected_to": "Hosea 11:11",
+    "connected_from": "Hosea 11:9"
+  },
+  {
+    "text": "They will come trembling like a bird from Egypt, and like a dove from the land of Assyria, and I will let them dwell in their homes, a declaration of YHWH.",
+    "reference": "Hosea 11:11 (BLB)",
+    "connected_to": "Hosea 11:12",
+    "connected_from": "Hosea 11:10"
+  },
+  {
+    "text": "Ephraim has surrounded Me with lies, and the house of Israel with deceit, and Judah still wanders restlessly with God, and with the holy ones is faithful.",
+    "reference": "Hosea 11:12 (BLB)",
+    "connected_from": "Hosea 11:11"
+  }
+]

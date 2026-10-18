@@ -1,0 +1,72 @@
+[
+  {
+    "text": "This is what the LORD {YHWH} says: “Maintain justice and do what is right, for My salvation is coming soon, and My righteousness will be revealed.",
+    "reference": "Isaiah 56:1 (BAB)",
+    "connected_to": "Isaiah 56:2"
+  },
+  {
+    "text": "Blessed is the man who does this, and the son of man who holds it fast, who keeps the Sabbath without profaning it and keeps his hand from doing any evil.”",
+    "reference": "Isaiah 56:2 (BAB)",
+    "connected_to": "Isaiah 56:3",
+    "connected_from": "Isaiah 56:1"
+  },
+  {
+    "text": "Let no foreigner who has joined himself to the LORD {YHWH} say, “The LORD will utterly exclude me from His people.” And let the eunuch not say, “I am but a dry tree.”",
+    "reference": "Isaiah 56:3 (BAB)",
+    "connected_to": "Isaiah 56:4",
+    "connected_from": "Isaiah 56:2"
+  },
+  {
+    "text": "For this is what the LORD {YHWH} says: “To the eunuchs who keep My Sabbaths, who choose what pleases Me and hold fast to My covenant—",
+    "reference": "Isaiah 56:4 (BAB)",
+    "connected_to": "Isaiah 56:5",
+    "connected_from": "Isaiah 56:3"
+  },
+  {
+    "text": "I will give them, in My house and within My walls, a memorial and a name better than that of sons and daughters. I will give them an everlasting name that will not be cut off.",
+    "reference": "Isaiah 56:5 (BAB)",
+    "connected_to": "Isaiah 56:6",
+    "connected_from": "Isaiah 56:4"
+  },
+  {
+    "text": "And the foreigners who join themselves to the LORD {YHWH} to minister to Him, to love the name of the LORD, and to be His servants—all who keep the Sabbath without profaning it and who hold fast to My covenant—",
+    "reference": "Isaiah 56:6 (BAB)",
+    "connected_to": "Isaiah 56:7",
+    "connected_from": "Isaiah 56:5"
+  },
+  {
+    "text": "I will bring them to My holy mountain and make them joyful in My house of prayer. Their burnt offerings and sacrifices will be accepted on My altar, for My house will be called a house of prayer <Mat 21:13, Mrk 11:17, Luk 19:46> for all the nations.”",
+    "reference": "Isaiah 56:7 (BAB)",
+    "connected_to": "Isaiah 56:8",
+    "connected_from": "Isaiah 56:6"
+  },
+  {
+    "text": "Thus declares the Lord GOD {Adonai YHWH}, who gathers the dispersed of Israel (he wrestles with God): “I will gather to them still others besides those already gathered.”",
+    "reference": "Isaiah 56:8 (BAB)",
+    "connected_to": "Isaiah 56:9",
+    "connected_from": "Isaiah 56:7"
+  },
+  {
+    "text": "Come, all you beasts of the field; eat greedily, all you beasts of the forest.",
+    "reference": "Isaiah 56:9 (BAB)",
+    "connected_to": "Isaiah 56:10",
+    "connected_from": "Isaiah 56:8"
+  },
+  {
+    "text": "Israel’s watchmen are blind, they are all oblivious; they are all mute dogs, they cannot bark; they are dreamers lying around, loving to slumber.",
+    "reference": "Isaiah 56:10 (BAB)",
+    "connected_to": "Isaiah 56:11",
+    "connected_from": "Isaiah 56:9"
+  },
+  {
+    "text": "Like ravenous dogs, they are never satisfied. They are shepherds with no discernment; they all turn to their own way, each one seeking his own gain:",
+    "reference": "Isaiah 56:11 (BAB)",
+    "connected_to": "Isaiah 56:12",
+    "connected_from": "Isaiah 56:10"
+  },
+  {
+    "text": "“Come, let me get the wine, let us imbibe the strong drink, and tomorrow will be like today, only far better!”",
+    "reference": "Isaiah 56:12 (BAB)",
+    "connected_from": "Isaiah 56:11"
+  }
+]

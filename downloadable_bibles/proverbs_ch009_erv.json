@@ -1,0 +1,108 @@
+[
+  {
+    "text": "Wisdom hath builded her house, she hath hewn out her seven pillars:",
+    "reference": "Proverbs 9:1 (ERV)",
+    "connected_to": "Proverbs 9:2"
+  },
+  {
+    "text": "She hath killed her beasts; she hath mingled her wine; she hath also furnished her table.",
+    "reference": "Proverbs 9:2 (ERV)",
+    "connected_to": "Proverbs 9:3",
+    "connected_from": "Proverbs 9:1"
+  },
+  {
+    "text": "She hath sent forth her maidens, she crieth upon the highest places of the city,",
+    "reference": "Proverbs 9:3 (ERV)",
+    "connected_to": "Proverbs 9:4",
+    "connected_from": "Proverbs 9:2"
+  },
+  {
+    "text": "Whoso is simple, let him turn in hither: as for him that is void of understanding, she saith to him,",
+    "reference": "Proverbs 9:4 (ERV)",
+    "connected_to": "Proverbs 9:5",
+    "connected_from": "Proverbs 9:3"
+  },
+  {
+    "text": "Come, eat ye of my bread, and drink of the wine which I have mingled.",
+    "reference": "Proverbs 9:5 (ERV)",
+    "connected_to": "Proverbs 9:6",
+    "connected_from": "Proverbs 9:4"
+  },
+  {
+    "text": "Leave off, ye simple ones, and live; and walk in the way of understanding.",
+    "reference": "Proverbs 9:6 (ERV)",
+    "connected_to": "Proverbs 9:7",
+    "connected_from": "Proverbs 9:5"
+  },
+  {
+    "text": "He that correcteth a scorner getteth to himself shame: and he that reproveth a wicked man getteth himself a blot.",
+    "reference": "Proverbs 9:7 (ERV)",
+    "connected_to": "Proverbs 9:8",
+    "connected_from": "Proverbs 9:6"
+  },
+  {
+    "text": "Reprove not a scorner, lest he hate thee: reprove a wise man, and he will love thee.",
+    "reference": "Proverbs 9:8 (ERV)",
+    "connected_to": "Proverbs 9:9",
+    "connected_from": "Proverbs 9:7"
+  },
+  {
+    "text": "Give instruction to a wise man, and he will be yet wiser: teach a righteous man, and he will increase in learning.",
+    "reference": "Proverbs 9:9 (ERV)",
+    "connected_to": "Proverbs 9:10",
+    "connected_from": "Proverbs 9:8"
+  },
+  {
+    "text": "The fear of the LORD is the beginning of wisdom: and the knowledge of the Holy One is understanding.",
+    "reference": "Proverbs 9:10 (ERV)",
+    "connected_to": "Proverbs 9:11",
+    "connected_from": "Proverbs 9:9"
+  },
+  {
+    "text": "For by me thy days shall be multiplied, and the years of thy life shall be increased.",
+    "reference": "Proverbs 9:11 (ERV)",
+    "connected_to": "Proverbs 9:12",
+    "connected_from": "Proverbs 9:10"
+  },
+  {
+    "text": "If thou art wise, thou art wise for thyself: and if thou scornest, thou alone shalt bear it.",
+    "reference": "Proverbs 9:12 (ERV)",
+    "connected_to": "Proverbs 9:13",
+    "connected_from": "Proverbs 9:11"
+  },
+  {
+    "text": "The foolish woman is clamorous; she is simple, and knoweth nothing.",
+    "reference": "Proverbs 9:13 (ERV)",
+    "connected_to": "Proverbs 9:14",
+    "connected_from": "Proverbs 9:12"
+  },
+  {
+    "text": "And she sitteth at the door of her house, on a seat in the high places of the city,",
+    "reference": "Proverbs 9:14 (ERV)",
+    "connected_to": "Proverbs 9:15",
+    "connected_from": "Proverbs 9:13"
+  },
+  {
+    "text": "To call to them that pass by, who go right on their ways,",
+    "reference": "Proverbs 9:15 (ERV)",
+    "connected_to": "Proverbs 9:16",
+    "connected_from": "Proverbs 9:14"
+  },
+  {
+    "text": "Whoso is simple, let him turn in hither: and as for him that is void of understanding, she saith to him,",
+    "reference": "Proverbs 9:16 (ERV)",
+    "connected_to": "Proverbs 9:17",
+    "connected_from": "Proverbs 9:15"
+  },
+  {
+    "text": "Stolen waters are sweet, and bread eaten in secret is pleasant.",
+    "reference": "Proverbs 9:17 (ERV)",
+    "connected_to": "Proverbs 9:18",
+    "connected_from": "Proverbs 9:16"
+  },
+  {
+    "text": "But he knoweth not that the dead are there; that her guests are in the depths of Sheol.",
+    "reference": "Proverbs 9:18 (ERV)",
+    "connected_from": "Proverbs 9:17"
+  }
+]

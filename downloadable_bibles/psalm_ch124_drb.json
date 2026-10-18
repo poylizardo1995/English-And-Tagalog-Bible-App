@@ -1,0 +1,48 @@
+[
+  {
+    "text": "If it had not been that the Lord was with us, let Israel now say:",
+    "reference": "Psalm 124:1 (DRB)",
+    "connected_to": "Psalm 124:2"
+  },
+  {
+    "text": "If it had not been that the Lord was with us, When men rose up against us",
+    "reference": "Psalm 124:2 (DRB)",
+    "connected_to": "Psalm 124:3",
+    "connected_from": "Psalm 124:1"
+  },
+  {
+    "text": "perhaps they had swallowed us up alive. When their fury was enkindled against us,",
+    "reference": "Psalm 124:3 (DRB)",
+    "connected_to": "Psalm 124:4",
+    "connected_from": "Psalm 124:2"
+  },
+  {
+    "text": "perhaps the waters had swallowed us up.",
+    "reference": "Psalm 124:4 (DRB)",
+    "connected_to": "Psalm 124:5",
+    "connected_from": "Psalm 124:3"
+  },
+  {
+    "text": "Our soul hath passed through a torrent: perhaps our soul had passed through a water insupportable.",
+    "reference": "Psalm 124:5 (DRB)",
+    "connected_to": "Psalm 124:6",
+    "connected_from": "Psalm 124:4"
+  },
+  {
+    "text": "Blessed be the Lord, who hath not given us to be a prey to their teeth.",
+    "reference": "Psalm 124:6 (DRB)",
+    "connected_to": "Psalm 124:7",
+    "connected_from": "Psalm 124:5"
+  },
+  {
+    "text": "Our soul hath been delivered as a sparrow out of the snare of the followers. The snare is broken, and we are delivered.",
+    "reference": "Psalm 124:7 (DRB)",
+    "connected_to": "Psalm 124:8",
+    "connected_from": "Psalm 124:6"
+  },
+  {
+    "text": "Our help is in the name of the Lord, who made heaven and earth.",
+    "reference": "Psalm 124:8 (DRB)",
+    "connected_from": "Psalm 124:7"
+  }
+]

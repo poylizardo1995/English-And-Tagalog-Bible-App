@@ -1,0 +1,132 @@
+[
+  {
+    "text": "Remember, O Jehovah, what is come upon us; consider, and see our reproach.",
+    "reference": "Lamentations 5:1 (DBT)",
+    "connected_to": "Lamentations 5:2"
+  },
+  {
+    "text": "Our inheritance is turned to strangers, our houses to aliens.",
+    "reference": "Lamentations 5:2 (DBT)",
+    "connected_to": "Lamentations 5:3",
+    "connected_from": "Lamentations 5:1"
+  },
+  {
+    "text": "We are orphans and fatherless, our mothers are as widows.",
+    "reference": "Lamentations 5:3 (DBT)",
+    "connected_to": "Lamentations 5:4",
+    "connected_from": "Lamentations 5:2"
+  },
+  {
+    "text": "Our water have we to drink for money, our wood cometh unto us for a price.",
+    "reference": "Lamentations 5:4 (DBT)",
+    "connected_to": "Lamentations 5:5",
+    "connected_from": "Lamentations 5:3"
+  },
+  {
+    "text": "Our pursuers are on our necks: we are weary, we have no rest.",
+    "reference": "Lamentations 5:5 (DBT)",
+    "connected_to": "Lamentations 5:6",
+    "connected_from": "Lamentations 5:4"
+  },
+  {
+    "text": "We have given the hand to Egypt, [and] to Asshur, to be satisfied with bread.",
+    "reference": "Lamentations 5:6 (DBT)",
+    "connected_to": "Lamentations 5:7",
+    "connected_from": "Lamentations 5:5"
+  },
+  {
+    "text": "Our fathers have sinned, [and] they are not; and we bear their iniquities.",
+    "reference": "Lamentations 5:7 (DBT)",
+    "connected_to": "Lamentations 5:8",
+    "connected_from": "Lamentations 5:6"
+  },
+  {
+    "text": "Bondmen rule over us: there is no deliverer out of their hand.",
+    "reference": "Lamentations 5:8 (DBT)",
+    "connected_to": "Lamentations 5:9",
+    "connected_from": "Lamentations 5:7"
+  },
+  {
+    "text": "We have to get our bread at the risk of our lives, because of the sword of the wilderness.",
+    "reference": "Lamentations 5:9 (DBT)",
+    "connected_to": "Lamentations 5:10",
+    "connected_from": "Lamentations 5:8"
+  },
+  {
+    "text": "Our skin gloweth like an oven, because of the burning heat of the famine.",
+    "reference": "Lamentations 5:10 (DBT)",
+    "connected_to": "Lamentations 5:11",
+    "connected_from": "Lamentations 5:9"
+  },
+  {
+    "text": "They have ravished the women in Zion, the maids in the cities of Judah.",
+    "reference": "Lamentations 5:11 (DBT)",
+    "connected_to": "Lamentations 5:12",
+    "connected_from": "Lamentations 5:10"
+  },
+  {
+    "text": "Princes were hanged up by their hand; the faces of elders were not honoured.",
+    "reference": "Lamentations 5:12 (DBT)",
+    "connected_to": "Lamentations 5:13",
+    "connected_from": "Lamentations 5:11"
+  },
+  {
+    "text": "The young men have borne the mill, and the youths have stumbled under the wood.",
+    "reference": "Lamentations 5:13 (DBT)",
+    "connected_to": "Lamentations 5:14",
+    "connected_from": "Lamentations 5:12"
+  },
+  {
+    "text": "The elders have ceased from the gate, the young men from their music.",
+    "reference": "Lamentations 5:14 (DBT)",
+    "connected_to": "Lamentations 5:15",
+    "connected_from": "Lamentations 5:13"
+  },
+  {
+    "text": "The joy of our heart hath ceased; our dance is turned into mourning.",
+    "reference": "Lamentations 5:15 (DBT)",
+    "connected_to": "Lamentations 5:16",
+    "connected_from": "Lamentations 5:14"
+  },
+  {
+    "text": "The crown is fallen from our head: woe unto us, for we have sinned!",
+    "reference": "Lamentations 5:16 (DBT)",
+    "connected_to": "Lamentations 5:17",
+    "connected_from": "Lamentations 5:15"
+  },
+  {
+    "text": "For this our heart is faint; for these things our eyes have grown dim,",
+    "reference": "Lamentations 5:17 (DBT)",
+    "connected_to": "Lamentations 5:18",
+    "connected_from": "Lamentations 5:16"
+  },
+  {
+    "text": "Because of the mountain of Zion, which is desolate: foxes walk over it.",
+    "reference": "Lamentations 5:18 (DBT)",
+    "connected_to": "Lamentations 5:19",
+    "connected_from": "Lamentations 5:17"
+  },
+  {
+    "text": "Thou, Jehovah, dwellest for ever; thy throne is from generation to generation.",
+    "reference": "Lamentations 5:19 (DBT)",
+    "connected_to": "Lamentations 5:20",
+    "connected_from": "Lamentations 5:18"
+  },
+  {
+    "text": "Wherefore dost thou forget us for ever, dost thou forsake us so long time?",
+    "reference": "Lamentations 5:20 (DBT)",
+    "connected_to": "Lamentations 5:21",
+    "connected_from": "Lamentations 5:19"
+  },
+  {
+    "text": "Turn thou us unto thee, Jehovah, and we shall be turned; renew our days as of old.",
+    "reference": "Lamentations 5:21 (DBT)",
+    "connected_to": "Lamentations 5:22",
+    "connected_from": "Lamentations 5:20"
+  },
+  {
+    "text": "Or is it that thou hast utterly rejected us? Wouldest thou be exceeding wroth against us?",
+    "reference": "Lamentations 5:22 (DBT)",
+    "connected_from": "Lamentations 5:21"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "text": "{Of David. A Psalm.} The earth is Jehovah’s, and the fulness thereof; the world, and they that dwell therein.",
+    "reference": "Psalm 24:1 (DBT)",
+    "connected_to": "Psalm 24:2"
+  },
+  {
+    "text": "For it was he that founded it upon seas, and established it upon floods.",
+    "reference": "Psalm 24:2 (DBT)",
+    "connected_to": "Psalm 24:3",
+    "connected_from": "Psalm 24:1"
+  },
+  {
+    "text": "Who shall ascend into the mount of Jehovah? and who shall stand in his holy place?",
+    "reference": "Psalm 24:3 (DBT)",
+    "connected_to": "Psalm 24:4",
+    "connected_from": "Psalm 24:2"
+  },
+  {
+    "text": "He that hath blameless hands and a pure heart; who lifteth not up his soul unto vanity, nor sweareth deceitfully:",
+    "reference": "Psalm 24:4 (DBT)",
+    "connected_to": "Psalm 24:5",
+    "connected_from": "Psalm 24:3"
+  },
+  {
+    "text": "He shall receive blessing from Jehovah, and righteousness from the God of his salvation.",
+    "reference": "Psalm 24:5 (DBT)",
+    "connected_to": "Psalm 24:6",
+    "connected_from": "Psalm 24:4"
+  },
+  {
+    "text": "This is the generation of them that seek unto him, that seek thy face, O Jacob. Selah.",
+    "reference": "Psalm 24:6 (DBT)",
+    "connected_to": "Psalm 24:7",
+    "connected_from": "Psalm 24:5"
+  },
+  {
+    "text": "Lift up your heads, ye gates, and be ye lifted up, ye everlasting doors, and the King of glory shall come in.",
+    "reference": "Psalm 24:7 (DBT)",
+    "connected_to": "Psalm 24:8",
+    "connected_from": "Psalm 24:6"
+  },
+  {
+    "text": "Who is this King of glory? Jehovah strong and mighty, Jehovah mighty in battle.",
+    "reference": "Psalm 24:8 (DBT)",
+    "connected_to": "Psalm 24:9",
+    "connected_from": "Psalm 24:7"
+  },
+  {
+    "text": "Lift up your heads, ye gates; yea, lift up, ye everlasting doors, and the King of glory shall come in.",
+    "reference": "Psalm 24:9 (DBT)",
+    "connected_to": "Psalm 24:10",
+    "connected_from": "Psalm 24:8"
+  },
+  {
+    "text": "Who is he, this King of glory? Jehovah of hosts, he is the King of glory. Selah.",
+    "reference": "Psalm 24:10 (DBT)",
+    "connected_from": "Psalm 24:9"
+  }
+]

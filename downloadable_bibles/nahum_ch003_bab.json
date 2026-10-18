@@ -1,0 +1,114 @@
+[
+  {
+    "text": "Woe to the city of blood, full of lies, full of plunder, never without prey.",
+    "reference": "Nahum 3:1 (BAB)",
+    "connected_to": "Nahum 3:2"
+  },
+  {
+    "text": "The crack of the whip, the rumble of the wheel, galloping horse and bounding chariot!",
+    "reference": "Nahum 3:2 (BAB)",
+    "connected_to": "Nahum 3:3",
+    "connected_from": "Nahum 3:1"
+  },
+  {
+    "text": "Charging horseman, flashing sword, shining spear; heaps of slain, mounds of corpses, dead bodies without end—they stumble over their dead—",
+    "reference": "Nahum 3:3 (BAB)",
+    "connected_to": "Nahum 3:4",
+    "connected_from": "Nahum 3:2"
+  },
+  {
+    "text": "because of the many harlotries of the harlot, the seductive mistress of sorcery, who betrays nations by her prostitution and clans by her witchcraft.",
+    "reference": "Nahum 3:4 (BAB)",
+    "connected_to": "Nahum 3:5",
+    "connected_from": "Nahum 3:3"
+  },
+  {
+    "text": "“Behold, I am against you,” declares the LORD {YHWH} of Hosts. “I will lift your skirts over your face. I will show your nakedness to the nations and your shame to the kingdoms.",
+    "reference": "Nahum 3:5 (BAB)",
+    "connected_to": "Nahum 3:6",
+    "connected_from": "Nahum 3:4"
+  },
+  {
+    "text": "I will pelt you with filth and treat you with contempt; I will make a spectacle of you.",
+    "reference": "Nahum 3:6 (BAB)",
+    "connected_to": "Nahum 3:7",
+    "connected_from": "Nahum 3:5"
+  },
+  {
+    "text": "Then all who see you will recoil from you and say, ‘Nineveh (abode of Ninus) is devastated; who will grieve for her?’ Where can I find comforters for you?”",
+    "reference": "Nahum 3:7 (BAB)",
+    "connected_to": "Nahum 3:8",
+    "connected_from": "Nahum 3:6"
+  },
+  {
+    "text": "Are you better than Thebes (disrupting) \\No-amon/, stationed by the Nile with water around her, whose rampart was the sea, whose wall was the water?",
+    "reference": "Nahum 3:8 (BAB)",
+    "connected_to": "Nahum 3:9",
+    "connected_from": "Nahum 3:7"
+  },
+  {
+    "text": "Cush (the upper Nile region) and Egypt (land of bondage) were her boundless strength; Put (a bow) and Libya (empty-hearted Da 11:43 / afflicted Jer 46:9) were her allies.",
+    "reference": "Nahum 3:9 (BAB)",
+    "connected_to": "Nahum 3:10",
+    "connected_from": "Nahum 3:8"
+  },
+  {
+    "text": "Yet she became an exile; she went into captivity. Her infants were dashed to pieces at the head of every street. They cast lots for her dignitaries, and all her nobles were bound in chains.",
+    "reference": "Nahum 3:10 (BAB)",
+    "connected_to": "Nahum 3:11",
+    "connected_from": "Nahum 3:9"
+  },
+  {
+    "text": "You too will become drunk; you will go into hiding and seek refuge from the enemy.",
+    "reference": "Nahum 3:11 (BAB)",
+    "connected_to": "Nahum 3:12",
+    "connected_from": "Nahum 3:10"
+  },
+  {
+    "text": "All your fortresses are fig trees with the first ripe figs; when shaken, they fall into the mouth of the eater!",
+    "reference": "Nahum 3:12 (BAB)",
+    "connected_to": "Nahum 3:13",
+    "connected_from": "Nahum 3:11"
+  },
+  {
+    "text": "Look at your troops—they are like your women! The gates of your land are wide open to your enemies; fire consumes their bars.",
+    "reference": "Nahum 3:13 (BAB)",
+    "connected_to": "Nahum 3:14",
+    "connected_from": "Nahum 3:12"
+  },
+  {
+    "text": "Draw your water for the siege; strengthen your fortresses. Work the clay and tread the mortar; repair the brick kiln!",
+    "reference": "Nahum 3:14 (BAB)",
+    "connected_to": "Nahum 3:15",
+    "connected_from": "Nahum 3:13"
+  },
+  {
+    "text": "There the fire will devour you; the sword will cut you down and consume you like a young locust. Make yourself many like the young locust; make yourself many like the swarming locust!",
+    "reference": "Nahum 3:15 (BAB)",
+    "connected_to": "Nahum 3:16",
+    "connected_from": "Nahum 3:14"
+  },
+  {
+    "text": "You have multiplied your merchants more than the stars of the sky. The young locust strips the land and flies away.",
+    "reference": "Nahum 3:16 (BAB)",
+    "connected_to": "Nahum 3:17",
+    "connected_from": "Nahum 3:15"
+  },
+  {
+    "text": "Your guards (princes) are like the swarming locust, and your scribes (marshals) like clouds of locusts that settle on the walls on a cold day. When the sun rises, they fly away, and no one knows where.",
+    "reference": "Nahum 3:17 (BAB)",
+    "connected_to": "Nahum 3:18",
+    "connected_from": "Nahum 3:16"
+  },
+  {
+    "text": "O king of Assyria (a step), your shepherds slumber; your officers sleep. Your people are scattered on the mountains with no one to gather them.",
+    "reference": "Nahum 3:18 (BAB)",
+    "connected_to": "Nahum 3:19",
+    "connected_from": "Nahum 3:17"
+  },
+  {
+    "text": "There is no healing for your injury; your wound is severe. All who hear the news of you applaud your downfall, for who has not experienced your constant cruelty?",
+    "reference": "Nahum 3:19 (BAB)",
+    "connected_from": "Nahum 3:18"
+  }
+]

@@ -1,0 +1,180 @@
+[
+  {
+    "text": "And Balaam said to Balak, Build me here seven altars, and prepare me here seven oxen and seven rams.",
+    "reference": "Numbers 23:1 (AKJV)",
+    "connected_to": "Numbers 23:2"
+  },
+  {
+    "text": "And Balak did as Balaam had spoken; and Balak and Balaam offered on every altar a bullock and a ram.",
+    "reference": "Numbers 23:2 (AKJV)",
+    "connected_to": "Numbers 23:3",
+    "connected_from": "Numbers 23:1"
+  },
+  {
+    "text": "And Balaam said to Balak, Stand by your burnt offering, and I will go: peradventure the LORD will come to meet me: and whatever he shows me I will tell you. And he went to an high place.",
+    "reference": "Numbers 23:3 (AKJV)",
+    "connected_to": "Numbers 23:4",
+    "connected_from": "Numbers 23:2"
+  },
+  {
+    "text": "And God met Balaam: and he said to him, I have prepared seven altars, and I have offered on every altar a bullock and a ram.",
+    "reference": "Numbers 23:4 (AKJV)",
+    "connected_to": "Numbers 23:5",
+    "connected_from": "Numbers 23:3"
+  },
+  {
+    "text": "And the LORD put a word in Balaam’s mouth, and said, Return to Balak, and thus you shall speak.",
+    "reference": "Numbers 23:5 (AKJV)",
+    "connected_to": "Numbers 23:6",
+    "connected_from": "Numbers 23:4"
+  },
+  {
+    "text": "And he returned to him, and, see, he stood by his burnt sacrifice, he, and all the princes of Moab.",
+    "reference": "Numbers 23:6 (AKJV)",
+    "connected_to": "Numbers 23:7",
+    "connected_from": "Numbers 23:5"
+  },
+  {
+    "text": "And he took up his parable, and said, Balak the king of Moab has brought me from Aram, out of the mountains of the east, saying, Come, curse me Jacob, and come, defy Israel.",
+    "reference": "Numbers 23:7 (AKJV)",
+    "connected_to": "Numbers 23:8",
+    "connected_from": "Numbers 23:6"
+  },
+  {
+    "text": "How shall I curse, whom God has not cursed? or how shall I defy, whom the LORD has not defied?",
+    "reference": "Numbers 23:8 (AKJV)",
+    "connected_to": "Numbers 23:9",
+    "connected_from": "Numbers 23:7"
+  },
+  {
+    "text": "For from the top of the rocks I see him, and from the hills I behold him: see, the people shall dwell alone, and shall not be reckoned among the nations.",
+    "reference": "Numbers 23:9 (AKJV)",
+    "connected_to": "Numbers 23:10",
+    "connected_from": "Numbers 23:8"
+  },
+  {
+    "text": "Who can count the dust of Jacob, and the number of the fourth part of Israel? Let me die the death of the righteous, and let my last end be like his!",
+    "reference": "Numbers 23:10 (AKJV)",
+    "connected_to": "Numbers 23:11",
+    "connected_from": "Numbers 23:9"
+  },
+  {
+    "text": "And Balak said to Balaam, What have you done to me? I took you to curse my enemies, and, behold, you have blessed them altogether.",
+    "reference": "Numbers 23:11 (AKJV)",
+    "connected_to": "Numbers 23:12",
+    "connected_from": "Numbers 23:10"
+  },
+  {
+    "text": "And he answered and said, Must I not take heed to speak that which the LORD has put in my mouth?",
+    "reference": "Numbers 23:12 (AKJV)",
+    "connected_to": "Numbers 23:13",
+    "connected_from": "Numbers 23:11"
+  },
+  {
+    "text": "And Balak said to him, Come, I pray you, with me to another place, from from where you may see them: you shall see but the utmost part of them, and shall not see them all: and curse me them from there.",
+    "reference": "Numbers 23:13 (AKJV)",
+    "connected_to": "Numbers 23:14",
+    "connected_from": "Numbers 23:12"
+  },
+  {
+    "text": "And he brought him into the field of Zophim, to the top of Pisgah, and built seven altars, and offered a bullock and a ram on every altar.",
+    "reference": "Numbers 23:14 (AKJV)",
+    "connected_to": "Numbers 23:15",
+    "connected_from": "Numbers 23:13"
+  },
+  {
+    "text": "And he said to Balak, Stand here by your burnt offering, while I meet the LORD yonder.",
+    "reference": "Numbers 23:15 (AKJV)",
+    "connected_to": "Numbers 23:16",
+    "connected_from": "Numbers 23:14"
+  },
+  {
+    "text": "And the LORD met Balaam, and put a word in his mouth, and said, Go again to Balak, and say thus.",
+    "reference": "Numbers 23:16 (AKJV)",
+    "connected_to": "Numbers 23:17",
+    "connected_from": "Numbers 23:15"
+  },
+  {
+    "text": "And when he came to him, behold, he stood by his burnt offering, and the princes of Moab with him. And Balak said to him, What has the LORD spoken?",
+    "reference": "Numbers 23:17 (AKJV)",
+    "connected_to": "Numbers 23:18",
+    "connected_from": "Numbers 23:16"
+  },
+  {
+    "text": "And he took up his parable, and said, Rise up, Balak, and hear; listen to me, you son of Zippor:",
+    "reference": "Numbers 23:18 (AKJV)",
+    "connected_to": "Numbers 23:19",
+    "connected_from": "Numbers 23:17"
+  },
+  {
+    "text": "God is not a man, that he should lie; neither the son of man, that he should repent: has he said, and shall he not do it? or has he spoken, and shall he not make it good?",
+    "reference": "Numbers 23:19 (AKJV)",
+    "connected_to": "Numbers 23:20",
+    "connected_from": "Numbers 23:18"
+  },
+  {
+    "text": "Behold, I have received commandment to bless: and he has blessed; and I cannot reverse it.",
+    "reference": "Numbers 23:20 (AKJV)",
+    "connected_to": "Numbers 23:21",
+    "connected_from": "Numbers 23:19"
+  },
+  {
+    "text": "He has not beheld iniquity in Jacob, neither has he seen perverseness in Israel: the LORD his God is with him, and the shout of a king is among them.",
+    "reference": "Numbers 23:21 (AKJV)",
+    "connected_to": "Numbers 23:22",
+    "connected_from": "Numbers 23:20"
+  },
+  {
+    "text": "God brought them out of Egypt; he has as it were the strength of an unicorn.",
+    "reference": "Numbers 23:22 (AKJV)",
+    "connected_to": "Numbers 23:23",
+    "connected_from": "Numbers 23:21"
+  },
+  {
+    "text": "Surely there is no enchantment against Jacob, neither is there any divination against Israel: according to this time it shall be said of Jacob and of Israel, What has God worked!",
+    "reference": "Numbers 23:23 (AKJV)",
+    "connected_to": "Numbers 23:24",
+    "connected_from": "Numbers 23:22"
+  },
+  {
+    "text": "Behold, the people shall rise up as a great lion, and lift up himself as a young lion: he shall not lie down until he eat of the prey, and drink the blood of the slain.",
+    "reference": "Numbers 23:24 (AKJV)",
+    "connected_to": "Numbers 23:25",
+    "connected_from": "Numbers 23:23"
+  },
+  {
+    "text": "And Balak said to Balaam, Neither curse them at all, nor bless them at all.",
+    "reference": "Numbers 23:25 (AKJV)",
+    "connected_to": "Numbers 23:26",
+    "connected_from": "Numbers 23:24"
+  },
+  {
+    "text": "But Balaam answered and said to Balak, Told not I you, saying, All that the LORD speaks, that I must do?",
+    "reference": "Numbers 23:26 (AKJV)",
+    "connected_to": "Numbers 23:27",
+    "connected_from": "Numbers 23:25"
+  },
+  {
+    "text": "And Balak said to Balaam, Come, I pray you, I will bring you to another place; peradventure it will please God that you may curse me them from there.",
+    "reference": "Numbers 23:27 (AKJV)",
+    "connected_to": "Numbers 23:28",
+    "connected_from": "Numbers 23:26"
+  },
+  {
+    "text": "And Balak brought Balaam to the top of Peor, that looks toward Jeshimon.",
+    "reference": "Numbers 23:28 (AKJV)",
+    "connected_to": "Numbers 23:29",
+    "connected_from": "Numbers 23:27"
+  },
+  {
+    "text": "And Balaam said to Balak, Build me here seven altars, and prepare me here seven bullocks and seven rams.",
+    "reference": "Numbers 23:29 (AKJV)",
+    "connected_to": "Numbers 23:30",
+    "connected_from": "Numbers 23:28"
+  },
+  {
+    "text": "And Balak did as Balaam had said, and offered a bullock and a ram on every altar.",
+    "reference": "Numbers 23:30 (AKJV)",
+    "connected_from": "Numbers 23:29"
+  }
+]

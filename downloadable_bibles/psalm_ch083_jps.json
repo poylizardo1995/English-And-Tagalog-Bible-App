@@ -1,0 +1,108 @@
+[
+  {
+    "text": "A Song, a Psalm of Asaph.   O God, keep not Thou silence; Hold not Thy peace, and be not still, O God.",
+    "reference": "Psalm 83:1 (JPS)",
+    "connected_to": "Psalm 83:2"
+  },
+  {
+    "text": "For, lo, Thine enemies are in an uproar; And they that hate Thee have lifted up the head.",
+    "reference": "Psalm 83:2 (JPS)",
+    "connected_to": "Psalm 83:3",
+    "connected_from": "Psalm 83:1"
+  },
+  {
+    "text": "They hold crafty converse against Thy people, And take counsel against Thy treasured ones.",
+    "reference": "Psalm 83:3 (JPS)",
+    "connected_to": "Psalm 83:4",
+    "connected_from": "Psalm 83:2"
+  },
+  {
+    "text": "They have said: ‘Come, and let us cut them off from being a nation; That the name of Israel may be no more in remembrance.’",
+    "reference": "Psalm 83:4 (JPS)",
+    "connected_to": "Psalm 83:5",
+    "connected_from": "Psalm 83:3"
+  },
+  {
+    "text": "For they have consulted together with one consent; Against Thee do they make a covenant;",
+    "reference": "Psalm 83:5 (JPS)",
+    "connected_to": "Psalm 83:6",
+    "connected_from": "Psalm 83:4"
+  },
+  {
+    "text": "The tents of Edom and the Ishmaelites; Moab, and the Hagrites;",
+    "reference": "Psalm 83:6 (JPS)",
+    "connected_to": "Psalm 83:7",
+    "connected_from": "Psalm 83:5"
+  },
+  {
+    "text": "Gebal, and Ammon, and Amalek; Philistia with the inhabitants of Tyre;",
+    "reference": "Psalm 83:7 (JPS)",
+    "connected_to": "Psalm 83:8",
+    "connected_from": "Psalm 83:6"
+  },
+  {
+    "text": "Assyria also is joined with them; They have been an arm to the children of Lot.  Selah",
+    "reference": "Psalm 83:8 (JPS)",
+    "connected_to": "Psalm 83:9",
+    "connected_from": "Psalm 83:7"
+  },
+  {
+    "text": "Do Thou unto them as unto Midian; As to Sisera, as to Jabin, at the brook Kishon;",
+    "reference": "Psalm 83:9 (JPS)",
+    "connected_to": "Psalm 83:10",
+    "connected_from": "Psalm 83:8"
+  },
+  {
+    "text": "Who were destroyed at En-dor; They became as dung for the earth.",
+    "reference": "Psalm 83:10 (JPS)",
+    "connected_to": "Psalm 83:11",
+    "connected_from": "Psalm 83:9"
+  },
+  {
+    "text": "Make their nobles like Oreb and Zeeb, And like Zebah and Zalmunna all their princes;",
+    "reference": "Psalm 83:11 (JPS)",
+    "connected_to": "Psalm 83:12",
+    "connected_from": "Psalm 83:10"
+  },
+  {
+    "text": "Who said: ‘Let us take to ourselves in possession The habitations of God.’",
+    "reference": "Psalm 83:12 (JPS)",
+    "connected_to": "Psalm 83:13",
+    "connected_from": "Psalm 83:11"
+  },
+  {
+    "text": "O my God, make them like the whirling dust; As stubble before the wind.",
+    "reference": "Psalm 83:13 (JPS)",
+    "connected_to": "Psalm 83:14",
+    "connected_from": "Psalm 83:12"
+  },
+  {
+    "text": "As the fire that burneth the forest, And as the flame that setteth the mountains ablaze;",
+    "reference": "Psalm 83:14 (JPS)",
+    "connected_to": "Psalm 83:15",
+    "connected_from": "Psalm 83:13"
+  },
+  {
+    "text": "So pursue them with Thy tempest, And affright them with Thy storm.",
+    "reference": "Psalm 83:15 (JPS)",
+    "connected_to": "Psalm 83:16",
+    "connected_from": "Psalm 83:14"
+  },
+  {
+    "text": "Fill their faces with shame; That they may seek Thy name, O LORD.",
+    "reference": "Psalm 83:16 (JPS)",
+    "connected_to": "Psalm 83:17",
+    "connected_from": "Psalm 83:15"
+  },
+  {
+    "text": "Let them be ashamed and affrighted for ever; Yea, let them be abashed and perish;",
+    "reference": "Psalm 83:17 (JPS)",
+    "connected_to": "Psalm 83:18",
+    "connected_from": "Psalm 83:16"
+  },
+  {
+    "text": "That they may know that it is Thou alone whose name is the LORD, The Most High over all the earth.",
+    "reference": "Psalm 83:18 (JPS)",
+    "connected_from": "Psalm 83:17"
+  }
+]

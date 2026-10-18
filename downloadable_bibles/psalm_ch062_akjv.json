@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Truly my soul waits on God: from him comes my salvation.",
+    "reference": "Psalm 62:1 (AKJV)",
+    "connected_to": "Psalm 62:2"
+  },
+  {
+    "text": "He only is my rock and my salvation; he is my defense; I shall not be greatly moved.",
+    "reference": "Psalm 62:2 (AKJV)",
+    "connected_to": "Psalm 62:3",
+    "connected_from": "Psalm 62:1"
+  },
+  {
+    "text": "How long will you imagine mischief against a man? you shall be slain all of you: as a bowing wall shall you be, and as a tottering fence.",
+    "reference": "Psalm 62:3 (AKJV)",
+    "connected_to": "Psalm 62:4",
+    "connected_from": "Psalm 62:2"
+  },
+  {
+    "text": "They only consult to cast him down from his excellency: they delight in lies: they bless with their mouth, but they curse inwardly. Selah.",
+    "reference": "Psalm 62:4 (AKJV)",
+    "connected_to": "Psalm 62:5",
+    "connected_from": "Psalm 62:3"
+  },
+  {
+    "text": "My soul, wait you only on God; for my expectation is from him.",
+    "reference": "Psalm 62:5 (AKJV)",
+    "connected_to": "Psalm 62:6",
+    "connected_from": "Psalm 62:4"
+  },
+  {
+    "text": "He only is my rock and my salvation: he is my defense; I shall not be moved.",
+    "reference": "Psalm 62:6 (AKJV)",
+    "connected_to": "Psalm 62:7",
+    "connected_from": "Psalm 62:5"
+  },
+  {
+    "text": "In God is my salvation and my glory: the rock of my strength, and my refuge, is in God.",
+    "reference": "Psalm 62:7 (AKJV)",
+    "connected_to": "Psalm 62:8",
+    "connected_from": "Psalm 62:6"
+  },
+  {
+    "text": "Trust in him at all times; you people, pour out your heart before him: God is a refuge for us. Selah.",
+    "reference": "Psalm 62:8 (AKJV)",
+    "connected_to": "Psalm 62:9",
+    "connected_from": "Psalm 62:7"
+  },
+  {
+    "text": "Surely men of low degree are vanity, and men of high degree are a lie: to be laid in the balance, they are altogether lighter than vanity.",
+    "reference": "Psalm 62:9 (AKJV)",
+    "connected_to": "Psalm 62:10",
+    "connected_from": "Psalm 62:8"
+  },
+  {
+    "text": "Trust not in oppression, and become not vain in robbery: if riches increase, set not your heart on them.",
+    "reference": "Psalm 62:10 (AKJV)",
+    "connected_to": "Psalm 62:11",
+    "connected_from": "Psalm 62:9"
+  },
+  {
+    "text": "God has spoken once; twice have I heard this; that power belongs to God.",
+    "reference": "Psalm 62:11 (AKJV)",
+    "connected_to": "Psalm 62:12",
+    "connected_from": "Psalm 62:10"
+  },
+  {
+    "text": "Also to you, O Lord, belongs mercy: for you render to every man according to his work.",
+    "reference": "Psalm 62:12 (AKJV)",
+    "connected_from": "Psalm 62:11"
+  }
+]

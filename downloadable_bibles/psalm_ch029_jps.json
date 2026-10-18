@@ -1,0 +1,66 @@
+[
+  {
+    "text": "A Psalm of David.  Ascribe unto the LORD, O ye sons of might, Ascribe unto the LORD glory and strength.",
+    "reference": "Psalm 29:1 (JPS)",
+    "connected_to": "Psalm 29:2"
+  },
+  {
+    "text": "Ascribe unto the LORD the glory due unto His name; Worship the LORD in the beauty of holiness.",
+    "reference": "Psalm 29:2 (JPS)",
+    "connected_to": "Psalm 29:3",
+    "connected_from": "Psalm 29:1"
+  },
+  {
+    "text": "The voice of the LORD is upon the waters; The God of glory thundereth, Even the LORD upon many waters.",
+    "reference": "Psalm 29:3 (JPS)",
+    "connected_to": "Psalm 29:4",
+    "connected_from": "Psalm 29:2"
+  },
+  {
+    "text": "The voice of the LORD is powerful; The voice of the LORD is full of majesty.",
+    "reference": "Psalm 29:4 (JPS)",
+    "connected_to": "Psalm 29:5",
+    "connected_from": "Psalm 29:3"
+  },
+  {
+    "text": "The voice of the LORD breaketh the cedars; yea, the LORD breaketh in pieces the cedars of Lebanon.",
+    "reference": "Psalm 29:5 (JPS)",
+    "connected_to": "Psalm 29:6",
+    "connected_from": "Psalm 29:4"
+  },
+  {
+    "text": "He maketh them also to skip like a calf; Lebanon and Sirion like a young wild-ox.",
+    "reference": "Psalm 29:6 (JPS)",
+    "connected_to": "Psalm 29:7",
+    "connected_from": "Psalm 29:5"
+  },
+  {
+    "text": "The voice of the LORD heweth out flames of fire.",
+    "reference": "Psalm 29:7 (JPS)",
+    "connected_to": "Psalm 29:8",
+    "connected_from": "Psalm 29:6"
+  },
+  {
+    "text": "The voice of the LORD shaketh the wilderness; The LORD shaketh the wilderness of Kadesh.",
+    "reference": "Psalm 29:8 (JPS)",
+    "connected_to": "Psalm 29:9",
+    "connected_from": "Psalm 29:7"
+  },
+  {
+    "text": "The voice of the LORD maketh the hinds to calve, And strippeth the forests bare; And in His temple all say: ‘Glory.’",
+    "reference": "Psalm 29:9 (JPS)",
+    "connected_to": "Psalm 29:10",
+    "connected_from": "Psalm 29:8"
+  },
+  {
+    "text": "The LORD sat enthroned at the flood; Yea, the LORD sitteth as King for ever.",
+    "reference": "Psalm 29:10 (JPS)",
+    "connected_to": "Psalm 29:11",
+    "connected_from": "Psalm 29:9"
+  },
+  {
+    "text": "The LORD will give strength unto His people; The LORD will bless his people with peace.",
+    "reference": "Psalm 29:11 (JPS)",
+    "connected_from": "Psalm 29:10"
+  }
+]

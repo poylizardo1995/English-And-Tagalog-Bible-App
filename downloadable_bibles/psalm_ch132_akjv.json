@@ -1,0 +1,108 @@
+[
+  {
+    "text": "Lord, remember David, and all his afflictions:",
+    "reference": "Psalm 132:1 (AKJV)",
+    "connected_to": "Psalm 132:2"
+  },
+  {
+    "text": "How he swore to the LORD, and vowed to the mighty God of Jacob;",
+    "reference": "Psalm 132:2 (AKJV)",
+    "connected_to": "Psalm 132:3",
+    "connected_from": "Psalm 132:1"
+  },
+  {
+    "text": "Surely I will not come into the tabernacle of my house, nor go up into my bed;",
+    "reference": "Psalm 132:3 (AKJV)",
+    "connected_to": "Psalm 132:4",
+    "connected_from": "Psalm 132:2"
+  },
+  {
+    "text": "I will not give sleep to my eyes, or slumber to my eyelids,",
+    "reference": "Psalm 132:4 (AKJV)",
+    "connected_to": "Psalm 132:5",
+    "connected_from": "Psalm 132:3"
+  },
+  {
+    "text": "Until I find out a place for the LORD, an habitation for the mighty God of Jacob.",
+    "reference": "Psalm 132:5 (AKJV)",
+    "connected_to": "Psalm 132:6",
+    "connected_from": "Psalm 132:4"
+  },
+  {
+    "text": "See, we heard of it at Ephratah: we found it in the fields of the wood.",
+    "reference": "Psalm 132:6 (AKJV)",
+    "connected_to": "Psalm 132:7",
+    "connected_from": "Psalm 132:5"
+  },
+  {
+    "text": "We will go into his tabernacles: we will worship at his footstool.",
+    "reference": "Psalm 132:7 (AKJV)",
+    "connected_to": "Psalm 132:8",
+    "connected_from": "Psalm 132:6"
+  },
+  {
+    "text": "Arise, O LORD, into your rest; you, and the ark of your strength.",
+    "reference": "Psalm 132:8 (AKJV)",
+    "connected_to": "Psalm 132:9",
+    "connected_from": "Psalm 132:7"
+  },
+  {
+    "text": "Let your priests be clothed with righteousness; and let your saints shout for joy.",
+    "reference": "Psalm 132:9 (AKJV)",
+    "connected_to": "Psalm 132:10",
+    "connected_from": "Psalm 132:8"
+  },
+  {
+    "text": "For your servant David’s sake turn not away the face of your anointed.",
+    "reference": "Psalm 132:10 (AKJV)",
+    "connected_to": "Psalm 132:11",
+    "connected_from": "Psalm 132:9"
+  },
+  {
+    "text": "The LORD has sworn in truth to David; he will not turn from it; Of the fruit of your body will I set on your throne.",
+    "reference": "Psalm 132:11 (AKJV)",
+    "connected_to": "Psalm 132:12",
+    "connected_from": "Psalm 132:10"
+  },
+  {
+    "text": "If your children will keep my covenant and my testimony that I shall teach them, their children shall also sit on your throne for ever more.",
+    "reference": "Psalm 132:12 (AKJV)",
+    "connected_to": "Psalm 132:13",
+    "connected_from": "Psalm 132:11"
+  },
+  {
+    "text": "For the LORD has chosen Zion; he has desired it for his habitation.",
+    "reference": "Psalm 132:13 (AKJV)",
+    "connected_to": "Psalm 132:14",
+    "connected_from": "Psalm 132:12"
+  },
+  {
+    "text": "This is my rest for ever: here will I dwell; for I have desired it.",
+    "reference": "Psalm 132:14 (AKJV)",
+    "connected_to": "Psalm 132:15",
+    "connected_from": "Psalm 132:13"
+  },
+  {
+    "text": "I will abundantly bless her provision: I will satisfy her poor with bread.",
+    "reference": "Psalm 132:15 (AKJV)",
+    "connected_to": "Psalm 132:16",
+    "connected_from": "Psalm 132:14"
+  },
+  {
+    "text": "I will also clothe her priests with salvation: and her saints shall shout aloud for joy.",
+    "reference": "Psalm 132:16 (AKJV)",
+    "connected_to": "Psalm 132:17",
+    "connected_from": "Psalm 132:15"
+  },
+  {
+    "text": "There will I make the horn of David to bud: I have ordained a lamp for my anointed.",
+    "reference": "Psalm 132:17 (AKJV)",
+    "connected_to": "Psalm 132:18",
+    "connected_from": "Psalm 132:16"
+  },
+  {
+    "text": "His enemies will I clothe with shame: but on himself shall his crown flourish.",
+    "reference": "Psalm 132:18 (AKJV)",
+    "connected_from": "Psalm 132:17"
+  }
+]

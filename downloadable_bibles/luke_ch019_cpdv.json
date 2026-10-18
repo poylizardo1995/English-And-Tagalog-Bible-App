@@ -1,0 +1,288 @@
+[
+  {
+    "text": "And having entered, he walked through Jericho.",
+    "reference": "Luke 19:1 (CPDV)",
+    "connected_to": "Luke 19:2"
+  },
+  {
+    "text": "And behold, there was a man named Zacchaeus. And he was the leader of the tax collectors, and he was wealthy.",
+    "reference": "Luke 19:2 (CPDV)",
+    "connected_to": "Luke 19:3",
+    "connected_from": "Luke 19:1"
+  },
+  {
+    "text": "And he sought to see Jesus, to see who he was. But he was unable to do so, because of the crowd, for he was small in stature.",
+    "reference": "Luke 19:3 (CPDV)",
+    "connected_to": "Luke 19:4",
+    "connected_from": "Luke 19:2"
+  },
+  {
+    "text": "And running ahead, he climbed up a sycamore tree, so that he might see him. For he was to pass near there.",
+    "reference": "Luke 19:4 (CPDV)",
+    "connected_to": "Luke 19:5",
+    "connected_from": "Luke 19:3"
+  },
+  {
+    "text": "And when he had arrived at the place, Jesus looked up and saw him, and he said to him: “Zacchaeus, hurry down. For today, I should lodge in your house.”",
+    "reference": "Luke 19:5 (CPDV)",
+    "connected_to": "Luke 19:6",
+    "connected_from": "Luke 19:4"
+  },
+  {
+    "text": "And hurrying, he came down, and he received him joyfully.",
+    "reference": "Luke 19:6 (CPDV)",
+    "connected_to": "Luke 19:7",
+    "connected_from": "Luke 19:5"
+  },
+  {
+    "text": "And when they all saw this, they murmured, saying that he had turned aside to a sinful man.",
+    "reference": "Luke 19:7 (CPDV)",
+    "connected_to": "Luke 19:8",
+    "connected_from": "Luke 19:6"
+  },
+  {
+    "text": "But Zacchaeus, standing still, said to the Lord: “Behold, Lord, one half of my goods I give to the poor. And if I have cheated anyone in any matter, I will repay him fourfold.”",
+    "reference": "Luke 19:8 (CPDV)",
+    "connected_to": "Luke 19:9",
+    "connected_from": "Luke 19:7"
+  },
+  {
+    "text": "Jesus said to him: “Today, salvation has come to this house; because of this, he too is a son of Abraham.",
+    "reference": "Luke 19:9 (CPDV)",
+    "connected_to": "Luke 19:10",
+    "connected_from": "Luke 19:8"
+  },
+  {
+    "text": "For the Son of man has come to seek and to save what had been lost.”",
+    "reference": "Luke 19:10 (CPDV)",
+    "connected_to": "Luke 19:11",
+    "connected_from": "Luke 19:9"
+  },
+  {
+    "text": "As they were listening to these things, continuing on, he spoke a parable, because he was nearing Jerusalem, and because they guessed that the kingdom of God might be manifested without delay.",
+    "reference": "Luke 19:11 (CPDV)",
+    "connected_to": "Luke 19:12",
+    "connected_from": "Luke 19:10"
+  },
+  {
+    "text": "Therefore, he said: “A certain man of nobility traveled to a far away region, to receive for himself a kingdom, and to return.",
+    "reference": "Luke 19:12 (CPDV)",
+    "connected_to": "Luke 19:13",
+    "connected_from": "Luke 19:11"
+  },
+  {
+    "text": "And calling his ten servants, he gave them ten pounds, and he said to them: ‘Do business until I return.’",
+    "reference": "Luke 19:13 (CPDV)",
+    "connected_to": "Luke 19:14",
+    "connected_from": "Luke 19:12"
+  },
+  {
+    "text": "But his citizens hated him. And so they sent a delegation after him, saying, ‘We do not want this one to reign over us.’",
+    "reference": "Luke 19:14 (CPDV)",
+    "connected_to": "Luke 19:15",
+    "connected_from": "Luke 19:13"
+  },
+  {
+    "text": "And it happened that he returned, having received the kingdom. And he ordered the servants, to whom he had given the money, to be called so that he would know how much each one had earned by doing business.",
+    "reference": "Luke 19:15 (CPDV)",
+    "connected_to": "Luke 19:16",
+    "connected_from": "Luke 19:14"
+  },
+  {
+    "text": "Now the first approached, saying: ‘Lord, your one pound has earned ten pounds.’",
+    "reference": "Luke 19:16 (CPDV)",
+    "connected_to": "Luke 19:17",
+    "connected_from": "Luke 19:15"
+  },
+  {
+    "text": "And he said to him: ‘Well done, good servant. Since you have been faithful in a small matter, you will hold authority over ten cities.’",
+    "reference": "Luke 19:17 (CPDV)",
+    "connected_to": "Luke 19:18",
+    "connected_from": "Luke 19:16"
+  },
+  {
+    "text": "And the second came, saying: ‘Lord, your one pound has earned five pounds.’",
+    "reference": "Luke 19:18 (CPDV)",
+    "connected_to": "Luke 19:19",
+    "connected_from": "Luke 19:17"
+  },
+  {
+    "text": "And he said to him, ‘And so, you shall be over five cities.’",
+    "reference": "Luke 19:19 (CPDV)",
+    "connected_to": "Luke 19:20",
+    "connected_from": "Luke 19:18"
+  },
+  {
+    "text": "And another approached, saying: ‘Lord, behold your one pound, which I kept stored in a cloth.",
+    "reference": "Luke 19:20 (CPDV)",
+    "connected_to": "Luke 19:21",
+    "connected_from": "Luke 19:19"
+  },
+  {
+    "text": "For I feared you, because you are an austere man. You take up what you did not lay down, and you reap what you did not sow.’",
+    "reference": "Luke 19:21 (CPDV)",
+    "connected_to": "Luke 19:22",
+    "connected_from": "Luke 19:20"
+  },
+  {
+    "text": "He said to him: ‘By your own mouth, do I judge you, O wicked servant. You knew that I am an austere man, taking up what I did not lay down, and reaping what I did not sow.",
+    "reference": "Luke 19:22 (CPDV)",
+    "connected_to": "Luke 19:23",
+    "connected_from": "Luke 19:21"
+  },
+  {
+    "text": "And so, why did you not give my money to the bank, so that, upon my return, I might have withdrawn it with interest?’",
+    "reference": "Luke 19:23 (CPDV)",
+    "connected_to": "Luke 19:24",
+    "connected_from": "Luke 19:22"
+  },
+  {
+    "text": "And he said to the bystanders, ‘Take the pound away from him, and give it to him who has ten pounds.’",
+    "reference": "Luke 19:24 (CPDV)",
+    "connected_to": "Luke 19:25",
+    "connected_from": "Luke 19:23"
+  },
+  {
+    "text": "And they said to him, ‘Lord, he has ten pounds.’",
+    "reference": "Luke 19:25 (CPDV)",
+    "connected_to": "Luke 19:26",
+    "connected_from": "Luke 19:24"
+  },
+  {
+    "text": "So then, I say to you, that to all who have, it shall be given, and he will have in abundance. And from him who does not have, even what he has will be taken from him.",
+    "reference": "Luke 19:26 (CPDV)",
+    "connected_to": "Luke 19:27",
+    "connected_from": "Luke 19:25"
+  },
+  {
+    "text": "‘Yet truly, as for those enemies of mine, who did not want me to reign over them, bring them here, and put them to death before me.’ ”",
+    "reference": "Luke 19:27 (CPDV)",
+    "connected_to": "Luke 19:28",
+    "connected_from": "Luke 19:26"
+  },
+  {
+    "text": "And having said these things, he went ahead, ascending to Jerusalem.",
+    "reference": "Luke 19:28 (CPDV)",
+    "connected_to": "Luke 19:29",
+    "connected_from": "Luke 19:27"
+  },
+  {
+    "text": "And it happened that, when he had drawn near to Bethphage and Bethania, to the mount which is called Olivet, he sent two of his disciples,",
+    "reference": "Luke 19:29 (CPDV)",
+    "connected_to": "Luke 19:30",
+    "connected_from": "Luke 19:28"
+  },
+  {
+    "text": "saying: “Go into the town which is opposite you. Upon entering it, you will find the colt of a donkey, tied, on which no man has ever sat. Untie it, and lead it here.",
+    "reference": "Luke 19:30 (CPDV)",
+    "connected_to": "Luke 19:31",
+    "connected_from": "Luke 19:29"
+  },
+  {
+    "text": "And if anyone will ask you, ‘Why are you untying it?’ you shall say this to him: ‘Because the Lord has requested its service.’ ”",
+    "reference": "Luke 19:31 (CPDV)",
+    "connected_to": "Luke 19:32",
+    "connected_from": "Luke 19:30"
+  },
+  {
+    "text": "And those who were sent went out, and they found the colt standing, just as he told them.",
+    "reference": "Luke 19:32 (CPDV)",
+    "connected_to": "Luke 19:33",
+    "connected_from": "Luke 19:31"
+  },
+  {
+    "text": "Then, as they were untying the colt, its owners said to them, “Why are you untying the colt?”",
+    "reference": "Luke 19:33 (CPDV)",
+    "connected_to": "Luke 19:34",
+    "connected_from": "Luke 19:32"
+  },
+  {
+    "text": "So they said, “Because the Lord has need of it.”",
+    "reference": "Luke 19:34 (CPDV)",
+    "connected_to": "Luke 19:35",
+    "connected_from": "Luke 19:33"
+  },
+  {
+    "text": "And they led it to Jesus. And casting their garments on the colt, they helped Jesus onto it.",
+    "reference": "Luke 19:35 (CPDV)",
+    "connected_to": "Luke 19:36",
+    "connected_from": "Luke 19:34"
+  },
+  {
+    "text": "Then, as he was traveling, they were laying down their garments along the way.",
+    "reference": "Luke 19:36 (CPDV)",
+    "connected_to": "Luke 19:37",
+    "connected_from": "Luke 19:35"
+  },
+  {
+    "text": "And when he was now drawing near to the descent of Mount Olivet, the entire crowd of his disciples began to praise God joyfully, with a loud voice, over all the powerful works which they had seen,",
+    "reference": "Luke 19:37 (CPDV)",
+    "connected_to": "Luke 19:38",
+    "connected_from": "Luke 19:36"
+  },
+  {
+    "text": "saying: “Blessed is the king who has arrived in the name of the Lord! Peace in heaven and glory on high!”",
+    "reference": "Luke 19:38 (CPDV)",
+    "connected_to": "Luke 19:39",
+    "connected_from": "Luke 19:37"
+  },
+  {
+    "text": "And certain Pharisees within the crowd said to him, “Teacher, rebuke your disciples.”",
+    "reference": "Luke 19:39 (CPDV)",
+    "connected_to": "Luke 19:40",
+    "connected_from": "Luke 19:38"
+  },
+  {
+    "text": "And he said to them, “I tell you, that if these will keep silent, the stones themselves will cry out.”",
+    "reference": "Luke 19:40 (CPDV)",
+    "connected_to": "Luke 19:41",
+    "connected_from": "Luke 19:39"
+  },
+  {
+    "text": "And when he drew near, seeing the city, he wept over it, saying:",
+    "reference": "Luke 19:41 (CPDV)",
+    "connected_to": "Luke 19:42",
+    "connected_from": "Luke 19:40"
+  },
+  {
+    "text": "“If only you had known, indeed even in this your day, which things are for your peace. But now they are hidden from your eyes.",
+    "reference": "Luke 19:42 (CPDV)",
+    "connected_to": "Luke 19:43",
+    "connected_from": "Luke 19:41"
+  },
+  {
+    "text": "For the days will overtake you. And your enemies will encircle you with a valley. And they will surround you and hem you in on every side.",
+    "reference": "Luke 19:43 (CPDV)",
+    "connected_to": "Luke 19:44",
+    "connected_from": "Luke 19:42"
+  },
+  {
+    "text": "And they will knock you down to the ground, with your sons who are in you. And they will not leave stone upon stone within you, because you did not recognize the time of your visitation.”",
+    "reference": "Luke 19:44 (CPDV)",
+    "connected_to": "Luke 19:45",
+    "connected_from": "Luke 19:43"
+  },
+  {
+    "text": "And entering into the temple, he began to cast out those who sold in it, and those who bought,",
+    "reference": "Luke 19:45 (CPDV)",
+    "connected_to": "Luke 19:46",
+    "connected_from": "Luke 19:44"
+  },
+  {
+    "text": "saying to them: “It is written: ‘My house is a house of prayer.’ But you have made it into a den of robbers.”",
+    "reference": "Luke 19:46 (CPDV)",
+    "connected_to": "Luke 19:47",
+    "connected_from": "Luke 19:45"
+  },
+  {
+    "text": "And he was teaching in the temple daily. And the leaders of the priests, and the scribes, and the leaders of the people were seeking to destroy him.",
+    "reference": "Luke 19:47 (CPDV)",
+    "connected_to": "Luke 19:48",
+    "connected_from": "Luke 19:46"
+  },
+  {
+    "text": "But they could not find what to do to him. For all the people were listening to him attentively.",
+    "reference": "Luke 19:48 (CPDV)",
+    "connected_from": "Luke 19:47"
+  }
+]

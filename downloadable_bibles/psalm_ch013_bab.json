@@ -1,0 +1,36 @@
+[
+  {
+    "text": "For the choirmaster. A Psalm of David (beloved). <span class=|reftext|><a href=|#|><b>1</b></a> How long, O LORD {YHWH}? Will You forget me forever? How long will You hide Your face from me?",
+    "reference": "Psalm 13:1 (BAB)",
+    "connected_to": "Psalm 13:2"
+  },
+  {
+    "text": "How long must I wrestle in my soul, with sorrow in my heart each day? How long will my enemy dominate me?",
+    "reference": "Psalm 13:2 (BAB)",
+    "connected_to": "Psalm 13:3",
+    "connected_from": "Psalm 13:1"
+  },
+  {
+    "text": "Consider me and respond, O LORD my God {YHWH Elohay}. Give light to my eyes, lest I sleep in death,",
+    "reference": "Psalm 13:3 (BAB)",
+    "connected_to": "Psalm 13:4",
+    "connected_from": "Psalm 13:2"
+  },
+  {
+    "text": "lest my enemy say, “I have overcome him,” and my foes rejoice when I fall.",
+    "reference": "Psalm 13:4 (BAB)",
+    "connected_to": "Psalm 13:5",
+    "connected_from": "Psalm 13:3"
+  },
+  {
+    "text": "But I have trusted in Your loving devotion; my heart will rejoice in Your salvation.",
+    "reference": "Psalm 13:5 (BAB)",
+    "connected_to": "Psalm 13:6",
+    "connected_from": "Psalm 13:4"
+  },
+  {
+    "text": "I will sing to the LORD {YHWH}, for He has been good to me.",
+    "reference": "Psalm 13:6 (BAB)",
+    "connected_from": "Psalm 13:5"
+  }
+]

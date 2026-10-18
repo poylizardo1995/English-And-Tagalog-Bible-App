@@ -1,0 +1,108 @@
+[
+  {
+    "text": "A Canticle Psalm to the sons of Korah. Unto the end. For Mahalath, to answer the understanding of Heman the Ezrahite. O Lord, God of my salvation: I have cried out, day and night, in your presence.",
+    "reference": "Psalm 88:1 (CPDV)",
+    "connected_to": "Psalm 88:2"
+  },
+  {
+    "text": "Let my prayer enter in your sight. Incline your ear to my petition.",
+    "reference": "Psalm 88:2 (CPDV)",
+    "connected_to": "Psalm 88:3",
+    "connected_from": "Psalm 88:1"
+  },
+  {
+    "text": "For my soul has been filled with evils, and my life has drawn near to Hell.",
+    "reference": "Psalm 88:3 (CPDV)",
+    "connected_to": "Psalm 88:4",
+    "connected_from": "Psalm 88:2"
+  },
+  {
+    "text": "I am considered to be among those who will descend into the pit. I have become like a man without assistance,",
+    "reference": "Psalm 88:4 (CPDV)",
+    "connected_to": "Psalm 88:5",
+    "connected_from": "Psalm 88:3"
+  },
+  {
+    "text": "idle among the dead. I am like the wounded sleeping in sepulchers, whom you no longer remember, and who have been repelled by your hand.",
+    "reference": "Psalm 88:5 (CPDV)",
+    "connected_to": "Psalm 88:6",
+    "connected_from": "Psalm 88:4"
+  },
+  {
+    "text": "They have lain me in the lower pit: in dark places and in the shadow of death.",
+    "reference": "Psalm 88:6 (CPDV)",
+    "connected_to": "Psalm 88:7",
+    "connected_from": "Psalm 88:5"
+  },
+  {
+    "text": "Your fury has been confirmed over me. And you have brought all your waves upon me.",
+    "reference": "Psalm 88:7 (CPDV)",
+    "connected_to": "Psalm 88:8",
+    "connected_from": "Psalm 88:6"
+  },
+  {
+    "text": "You have sent my acquaintances far from me. They have set me as an abomination to themselves. I was handed over, yet I did not depart.",
+    "reference": "Psalm 88:8 (CPDV)",
+    "connected_to": "Psalm 88:9",
+    "connected_from": "Psalm 88:7"
+  },
+  {
+    "text": "My eyes languished before destitution. All day long, I cried out to you, O Lord. I stretched out my hands to you.",
+    "reference": "Psalm 88:9 (CPDV)",
+    "connected_to": "Psalm 88:10",
+    "connected_from": "Psalm 88:8"
+  },
+  {
+    "text": "Will you perform wonders for the dead? Or will physicians raise to life, and so confess to you?",
+    "reference": "Psalm 88:10 (CPDV)",
+    "connected_to": "Psalm 88:11",
+    "connected_from": "Psalm 88:9"
+  },
+  {
+    "text": "Could anyone declare your mercy in the sepulcher, or your truth from within perdition?",
+    "reference": "Psalm 88:11 (CPDV)",
+    "connected_to": "Psalm 88:12",
+    "connected_from": "Psalm 88:10"
+  },
+  {
+    "text": "Will your wonders be known in the darkness, or your justice in the land of oblivion?",
+    "reference": "Psalm 88:12 (CPDV)",
+    "connected_to": "Psalm 88:13",
+    "connected_from": "Psalm 88:11"
+  },
+  {
+    "text": "And I have cried out to you, O Lord, and in early morning, my prayer will come before you.",
+    "reference": "Psalm 88:13 (CPDV)",
+    "connected_to": "Psalm 88:14",
+    "connected_from": "Psalm 88:12"
+  },
+  {
+    "text": "Lord, why do you reject my prayer? Why do you turn your face away from me?",
+    "reference": "Psalm 88:14 (CPDV)",
+    "connected_to": "Psalm 88:15",
+    "connected_from": "Psalm 88:13"
+  },
+  {
+    "text": "I am poor, and I have been amid hardships from my youth. And, though I have been exalted, I am humbled and disturbed.",
+    "reference": "Psalm 88:15 (CPDV)",
+    "connected_to": "Psalm 88:16",
+    "connected_from": "Psalm 88:14"
+  },
+  {
+    "text": "Your wrath has crossed into me, and your terrors have disturbed me.",
+    "reference": "Psalm 88:16 (CPDV)",
+    "connected_to": "Psalm 88:17",
+    "connected_from": "Psalm 88:15"
+  },
+  {
+    "text": "They have surrounded me like water, all day long. They have surrounded me, all at once.",
+    "reference": "Psalm 88:17 (CPDV)",
+    "connected_to": "Psalm 88:18",
+    "connected_from": "Psalm 88:16"
+  },
+  {
+    "text": "Friend and neighbor, and my acquaintances, you have sent far away from me, away from misery.",
+    "reference": "Psalm 88:18 (CPDV)",
+    "connected_from": "Psalm 88:17"
+  }
+]

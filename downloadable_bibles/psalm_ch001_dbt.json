@@ -1,0 +1,36 @@
+[
+  {
+    "text": "Blessed is the man that walketh not in the counsel of the wicked, and standeth not in the way of sinners, and sitteth not in the seat of scorners;",
+    "reference": "Psalm 1:1 (DBT)",
+    "connected_to": "Psalm 1:2"
+  },
+  {
+    "text": "But his delight is in Jehovah’s law, and in his law doth he meditate day and night.",
+    "reference": "Psalm 1:2 (DBT)",
+    "connected_to": "Psalm 1:3",
+    "connected_from": "Psalm 1:1"
+  },
+  {
+    "text": "And he [is] as a tree planted by brooks of water, which giveth its fruit in its season, and whose leaf fadeth not; and all that he doeth prospereth.",
+    "reference": "Psalm 1:3 (DBT)",
+    "connected_to": "Psalm 1:4",
+    "connected_from": "Psalm 1:2"
+  },
+  {
+    "text": "The wicked are not so; but are as the chaff which the wind driveth away.",
+    "reference": "Psalm 1:4 (DBT)",
+    "connected_to": "Psalm 1:5",
+    "connected_from": "Psalm 1:3"
+  },
+  {
+    "text": "Therefore the wicked shall not stand in the judgment, nor sinners in the assembly of the righteous.",
+    "reference": "Psalm 1:5 (DBT)",
+    "connected_to": "Psalm 1:6",
+    "connected_from": "Psalm 1:4"
+  },
+  {
+    "text": "For Jehovah knoweth the way of the righteous, but the way of the wicked shall perish.",
+    "reference": "Psalm 1:6 (DBT)",
+    "connected_from": "Psalm 1:5"
+  }
+]

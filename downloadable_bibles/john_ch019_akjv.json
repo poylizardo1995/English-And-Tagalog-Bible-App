@@ -1,0 +1,252 @@
+[
+  {
+    "text": "Then Pilate therefore took Jesus, and scourged him.",
+    "reference": "John 19:1 (AKJV)",
+    "connected_to": "John 19:2"
+  },
+  {
+    "text": "And the soldiers platted a crown of thorns, and put it on his head, and they put on him a purple robe,",
+    "reference": "John 19:2 (AKJV)",
+    "connected_to": "John 19:3",
+    "connected_from": "John 19:1"
+  },
+  {
+    "text": "And said, Hail, King of the Jews! and they smote him with their hands.",
+    "reference": "John 19:3 (AKJV)",
+    "connected_to": "John 19:4",
+    "connected_from": "John 19:2"
+  },
+  {
+    "text": "Pilate therefore went forth again, and said to them, Behold, I bring him forth to you, that you may know that I find no fault in him.",
+    "reference": "John 19:4 (AKJV)",
+    "connected_to": "John 19:5",
+    "connected_from": "John 19:3"
+  },
+  {
+    "text": "Then came Jesus forth, wearing the crown of thorns, and the purple robe. And Pilate said to them, Behold the man!",
+    "reference": "John 19:5 (AKJV)",
+    "connected_to": "John 19:6",
+    "connected_from": "John 19:4"
+  },
+  {
+    "text": "When the chief priests therefore and officers saw him, they cried out, saying, Crucify him, crucify him. Pilate said to them, Take you him, and crucify him: for I find no fault in him.",
+    "reference": "John 19:6 (AKJV)",
+    "connected_to": "John 19:7",
+    "connected_from": "John 19:5"
+  },
+  {
+    "text": "The Jews answered him, We have a law, and by our law he ought to die, because he made himself the Son of God.",
+    "reference": "John 19:7 (AKJV)",
+    "connected_to": "John 19:8",
+    "connected_from": "John 19:6"
+  },
+  {
+    "text": "When Pilate therefore heard that saying, he was the more afraid;",
+    "reference": "John 19:8 (AKJV)",
+    "connected_to": "John 19:9",
+    "connected_from": "John 19:7"
+  },
+  {
+    "text": "And went again into the judgment hall, and said to Jesus, From where are you? But Jesus gave him no answer.",
+    "reference": "John 19:9 (AKJV)",
+    "connected_to": "John 19:10",
+    "connected_from": "John 19:8"
+  },
+  {
+    "text": "Then said Pilate to him, Speak you not to me? know you not that I have power to crucify you, and have power to release you?",
+    "reference": "John 19:10 (AKJV)",
+    "connected_to": "John 19:11",
+    "connected_from": "John 19:9"
+  },
+  {
+    "text": "Jesus answered, You could have no power at all against me, except it were given you from above: therefore he that delivered me to you has the greater sin.",
+    "reference": "John 19:11 (AKJV)",
+    "connected_to": "John 19:12",
+    "connected_from": "John 19:10"
+  },
+  {
+    "text": "And from thereafter Pilate sought to release him: but the Jews cried out, saying, If you let this man go, you are not Caesar’s friend: whoever makes himself a king speaks against Caesar.",
+    "reference": "John 19:12 (AKJV)",
+    "connected_to": "John 19:13",
+    "connected_from": "John 19:11"
+  },
+  {
+    "text": "When Pilate therefore heard that saying, he brought Jesus forth, and sat down in the judgment seat in a place that is called the Pavement, but in the Hebrew, Gabbatha.",
+    "reference": "John 19:13 (AKJV)",
+    "connected_to": "John 19:14",
+    "connected_from": "John 19:12"
+  },
+  {
+    "text": "And it was the preparation of the passover, and about the sixth hour: and he said to the Jews, Behold your King!",
+    "reference": "John 19:14 (AKJV)",
+    "connected_to": "John 19:15",
+    "connected_from": "John 19:13"
+  },
+  {
+    "text": "But they cried out, Away with him, away with him, crucify him. Pilate said to them, Shall I crucify your King? The chief priests answered, We have no king but Caesar.",
+    "reference": "John 19:15 (AKJV)",
+    "connected_to": "John 19:16",
+    "connected_from": "John 19:14"
+  },
+  {
+    "text": "Then delivered he him therefore to them to be crucified. And they took Jesus, and led him away.",
+    "reference": "John 19:16 (AKJV)",
+    "connected_to": "John 19:17",
+    "connected_from": "John 19:15"
+  },
+  {
+    "text": "And he bearing his cross went forth into a place called the place of a skull, which is called in the Hebrew Golgotha:",
+    "reference": "John 19:17 (AKJV)",
+    "connected_to": "John 19:18",
+    "connected_from": "John 19:16"
+  },
+  {
+    "text": "Where they crucified him, and two other with him, on either side one, and Jesus in the middle.",
+    "reference": "John 19:18 (AKJV)",
+    "connected_to": "John 19:19",
+    "connected_from": "John 19:17"
+  },
+  {
+    "text": "And Pilate wrote a title, and put it on the cross. And the writing was JESUS OF NAZARETH THE KING OF THE JEWS.",
+    "reference": "John 19:19 (AKJV)",
+    "connected_to": "John 19:20",
+    "connected_from": "John 19:18"
+  },
+  {
+    "text": "This title then read many of the Jews: for the place where Jesus was crucified was near to the city: and it was written in Hebrew, and Greek, and Latin.",
+    "reference": "John 19:20 (AKJV)",
+    "connected_to": "John 19:21",
+    "connected_from": "John 19:19"
+  },
+  {
+    "text": "Then said the chief priests of the Jews to Pilate, Write not, The King of the Jews; but that he said, I am King of the Jews.",
+    "reference": "John 19:21 (AKJV)",
+    "connected_to": "John 19:22",
+    "connected_from": "John 19:20"
+  },
+  {
+    "text": "Pilate answered, What I have written I have written.",
+    "reference": "John 19:22 (AKJV)",
+    "connected_to": "John 19:23",
+    "connected_from": "John 19:21"
+  },
+  {
+    "text": "Then the soldiers, when they had crucified Jesus, took his garments, and made four parts, to every soldier a part; and also his coat: now the coat was without seam, woven from the top throughout.",
+    "reference": "John 19:23 (AKJV)",
+    "connected_to": "John 19:24",
+    "connected_from": "John 19:22"
+  },
+  {
+    "text": "They said therefore among themselves, Let us not rend it, but cast lots for it, whose it shall be: that the scripture might be fulfilled, which said, They parted my raiment among them, and for my clothing they did cast lots. These things therefore the soldiers did.",
+    "reference": "John 19:24 (AKJV)",
+    "connected_to": "John 19:25",
+    "connected_from": "John 19:23"
+  },
+  {
+    "text": "Now there stood by the cross of Jesus his mother, and his mother’s sister, Mary the wife of Cleophas, and Mary Magdalene.",
+    "reference": "John 19:25 (AKJV)",
+    "connected_to": "John 19:26",
+    "connected_from": "John 19:24"
+  },
+  {
+    "text": "When Jesus therefore saw his mother, and the disciple standing by, whom he loved, he said to his mother, Woman, behold your son!",
+    "reference": "John 19:26 (AKJV)",
+    "connected_to": "John 19:27",
+    "connected_from": "John 19:25"
+  },
+  {
+    "text": "Then said he to the disciple, Behold your mother! And from that hour that disciple took her to his own home.",
+    "reference": "John 19:27 (AKJV)",
+    "connected_to": "John 19:28",
+    "connected_from": "John 19:26"
+  },
+  {
+    "text": "After this, Jesus knowing that all things were now accomplished, that the scripture might be fulfilled, said, I thirst.",
+    "reference": "John 19:28 (AKJV)",
+    "connected_to": "John 19:29",
+    "connected_from": "John 19:27"
+  },
+  {
+    "text": "Now there was set a vessel full of vinegar: and they filled a sponge with vinegar, and put it on hyssop, and put it to his mouth.",
+    "reference": "John 19:29 (AKJV)",
+    "connected_to": "John 19:30",
+    "connected_from": "John 19:28"
+  },
+  {
+    "text": "When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost.",
+    "reference": "John 19:30 (AKJV)",
+    "connected_to": "John 19:31",
+    "connected_from": "John 19:29"
+  },
+  {
+    "text": "The Jews therefore, because it was the preparation, that the bodies should not remain on the cross on the sabbath day, (for that sabbath day was an high day,) sought Pilate that their legs might be broken, and that they might be taken away.",
+    "reference": "John 19:31 (AKJV)",
+    "connected_to": "John 19:32",
+    "connected_from": "John 19:30"
+  },
+  {
+    "text": "Then came the soldiers, and broke the legs of the first, and of the other which was crucified with him.",
+    "reference": "John 19:32 (AKJV)",
+    "connected_to": "John 19:33",
+    "connected_from": "John 19:31"
+  },
+  {
+    "text": "But when they came to Jesus, and saw that he was dead already, they broke not his legs:",
+    "reference": "John 19:33 (AKJV)",
+    "connected_to": "John 19:34",
+    "connected_from": "John 19:32"
+  },
+  {
+    "text": "But one of the soldiers with a spear pierced his side, and immediately came there out blood and water.",
+    "reference": "John 19:34 (AKJV)",
+    "connected_to": "John 19:35",
+    "connected_from": "John 19:33"
+  },
+  {
+    "text": "And he that saw it bore record, and his record is true: and he knows that he said true, that you might believe.",
+    "reference": "John 19:35 (AKJV)",
+    "connected_to": "John 19:36",
+    "connected_from": "John 19:34"
+  },
+  {
+    "text": "For these things were done, that the scripture should be fulfilled, A bone of him shall not be broken.",
+    "reference": "John 19:36 (AKJV)",
+    "connected_to": "John 19:37",
+    "connected_from": "John 19:35"
+  },
+  {
+    "text": "And again another scripture said, They shall look on him whom they pierced.",
+    "reference": "John 19:37 (AKJV)",
+    "connected_to": "John 19:38",
+    "connected_from": "John 19:36"
+  },
+  {
+    "text": "And after this Joseph of Arimathaea, being a disciple of Jesus, but secretly for fear of the Jews, sought Pilate that he might take away the body of Jesus: and Pilate gave him leave. He came therefore, and took the body of Jesus.",
+    "reference": "John 19:38 (AKJV)",
+    "connected_to": "John 19:39",
+    "connected_from": "John 19:37"
+  },
+  {
+    "text": "And there came also Nicodemus, which at the first came to Jesus by night, and brought a mixture of myrrh and aloes, about an hundred pound weight.",
+    "reference": "John 19:39 (AKJV)",
+    "connected_to": "John 19:40",
+    "connected_from": "John 19:38"
+  },
+  {
+    "text": "Then took they the body of Jesus, and wound it in linen clothes with the spices, as the manner of the Jews is to bury.",
+    "reference": "John 19:40 (AKJV)",
+    "connected_to": "John 19:41",
+    "connected_from": "John 19:39"
+  },
+  {
+    "text": "Now in the place where he was crucified there was a garden; and in the garden a new sepulcher, wherein was never man yet laid.",
+    "reference": "John 19:41 (AKJV)",
+    "connected_to": "John 19:42",
+    "connected_from": "John 19:40"
+  },
+  {
+    "text": "There laid they Jesus therefore because of the Jews’ preparation day; for the sepulcher was near at hand.",
+    "reference": "John 19:42 (AKJV)",
+    "connected_from": "John 19:41"
+  }
+]

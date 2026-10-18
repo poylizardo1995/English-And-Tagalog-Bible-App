@@ -1,0 +1,150 @@
+[
+  {
+    "text": "At that time Jesus was led up by the Spirit into the Desert in order to be tempted by the Devil.",
+    "reference": "Matthew 4:1 (WNT)",
+    "connected_to": "Matthew 4:2"
+  },
+  {
+    "text": "There He fasted for forty days and nights; and after that He suffered from hunger.",
+    "reference": "Matthew 4:2 (WNT)",
+    "connected_to": "Matthew 4:3",
+    "connected_from": "Matthew 4:1"
+  },
+  {
+    "text": "So the Tempter came and said, “If you are the Son of God, command these stones to turn into loaves.”",
+    "reference": "Matthew 4:3 (WNT)",
+    "connected_to": "Matthew 4:4",
+    "connected_from": "Matthew 4:2"
+  },
+  {
+    "text": "“It is written,” replied Jesus, “’It is not on bread alone that a man shall live, but on whatsoever God shall appoint.’”",
+    "reference": "Matthew 4:4 (WNT)",
+    "connected_to": "Matthew 4:5",
+    "connected_from": "Matthew 4:3"
+  },
+  {
+    "text": "Then the Devil took Him to the Holy City and caused Him to stand on the roof of the Temple,",
+    "reference": "Matthew 4:5 (WNT)",
+    "connected_to": "Matthew 4:6",
+    "connected_from": "Matthew 4:4"
+  },
+  {
+    "text": "and said, “If you are God’s Son, throw yourself down; for it is written, “’To His angels He will give orders concerning thee, and on their hands they shall bear thee up, lest at any moment thou shouldst strike thy foot against a stone.’”",
+    "reference": "Matthew 4:6 (WNT)",
+    "connected_to": "Matthew 4:7",
+    "connected_from": "Matthew 4:5"
+  },
+  {
+    "text": "“Again it is written,” replied Jesus, “’Thou shalt not put the Lord thy God to the proof.’”",
+    "reference": "Matthew 4:7 (WNT)",
+    "connected_to": "Matthew 4:8",
+    "connected_from": "Matthew 4:6"
+  },
+  {
+    "text": "Then the Devil took Him to the top of an exceedingly lofty mountain, from which he caused Him to see all the Kingdoms of the world and their splendour,",
+    "reference": "Matthew 4:8 (WNT)",
+    "connected_to": "Matthew 4:9",
+    "connected_from": "Matthew 4:7"
+  },
+  {
+    "text": "and said to Him, “All this I will give you, if you will kneel down and do me homage.”",
+    "reference": "Matthew 4:9 (WNT)",
+    "connected_to": "Matthew 4:10",
+    "connected_from": "Matthew 4:8"
+  },
+  {
+    "text": "“Begone, Satan!” Jesus replied; “for it is written, ‘To the Lord thy God thou shalt do homage, and to Him alone shalt thou render worship.’”",
+    "reference": "Matthew 4:10 (WNT)",
+    "connected_to": "Matthew 4:11",
+    "connected_from": "Matthew 4:9"
+  },
+  {
+    "text": "Thereupon the Devil left Him, and angels at once came and ministered to Him.",
+    "reference": "Matthew 4:11 (WNT)",
+    "connected_to": "Matthew 4:12",
+    "connected_from": "Matthew 4:10"
+  },
+  {
+    "text": "Now when Jesus heard that John was thrown into prison, He withdrew into Galilee,",
+    "reference": "Matthew 4:12 (WNT)",
+    "connected_to": "Matthew 4:13",
+    "connected_from": "Matthew 4:11"
+  },
+  {
+    "text": "and leaving Nazareth He went and settled at Capernaum, a town by the Lake on the frontiers of Zebulun and Naphtali,",
+    "reference": "Matthew 4:13 (WNT)",
+    "connected_to": "Matthew 4:14",
+    "connected_from": "Matthew 4:12"
+  },
+  {
+    "text": "in order that these words, spoken through the Prophet Isaiah, might be fulfilled,",
+    "reference": "Matthew 4:14 (WNT)",
+    "connected_to": "Matthew 4:15",
+    "connected_from": "Matthew 4:13"
+  },
+  {
+    "text": "“Zebulun’s land and Naphtali’s land; the road by the Lake; the country beyond the Jordan; Galilee of the Nations!",
+    "reference": "Matthew 4:15 (WNT)",
+    "connected_to": "Matthew 4:16",
+    "connected_from": "Matthew 4:14"
+  },
+  {
+    "text": "The people who were dwelling in darkness have seen a brilliant light; and on those who were dwelling in the region of the shadow of death, on them light has dawned.”",
+    "reference": "Matthew 4:16 (WNT)",
+    "connected_to": "Matthew 4:17",
+    "connected_from": "Matthew 4:15"
+  },
+  {
+    "text": "From that time Jesus began to preach. “Repent,” He said, “for the Kingdom of the Heavens is now close at hand.”",
+    "reference": "Matthew 4:17 (WNT)",
+    "connected_to": "Matthew 4:18",
+    "connected_from": "Matthew 4:16"
+  },
+  {
+    "text": "And walking along the shore of the Lake of Galilee He saw two brothers—Simon called Peter and his brother Andrew—throwing a drag-net into the Lake; for they were fishers.",
+    "reference": "Matthew 4:18 (WNT)",
+    "connected_to": "Matthew 4:19",
+    "connected_from": "Matthew 4:17"
+  },
+  {
+    "text": "And He said to them, “Come and follow me, and I will make you fishers of men.”",
+    "reference": "Matthew 4:19 (WNT)",
+    "connected_to": "Matthew 4:20",
+    "connected_from": "Matthew 4:18"
+  },
+  {
+    "text": "So they immediately left their nets and followed Him. As He went further on,",
+    "reference": "Matthew 4:20 (WNT)",
+    "connected_to": "Matthew 4:21",
+    "connected_from": "Matthew 4:19"
+  },
+  {
+    "text": "He saw two other brothers, James the son of Zabdi and his brother John, in the boat with their father Zabdi mending their nets; and He called them.",
+    "reference": "Matthew 4:21 (WNT)",
+    "connected_to": "Matthew 4:22",
+    "connected_from": "Matthew 4:20"
+  },
+  {
+    "text": "And they at once left the boat and their father, and followed Him.",
+    "reference": "Matthew 4:22 (WNT)",
+    "connected_to": "Matthew 4:23",
+    "connected_from": "Matthew 4:21"
+  },
+  {
+    "text": "Then Jesus travelled through all Galilee, teaching in their synagogues and proclaiming the Good News of the Kingdom, and curing every kind of disease and infirmity among the people.",
+    "reference": "Matthew 4:23 (WNT)",
+    "connected_to": "Matthew 4:24",
+    "connected_from": "Matthew 4:22"
+  },
+  {
+    "text": "Thus His fame spread through all Syria; and they brought all the sick to Him, the people who were suffering from various diseases and pains—demoniacs, epileptics, paralytics; and He cured them.",
+    "reference": "Matthew 4:24 (WNT)",
+    "connected_to": "Matthew 4:25",
+    "connected_from": "Matthew 4:23"
+  },
+  {
+    "text": "And great crowds followed Him, coming from Galilee, from the Ten Towns, from Jerusalem, and from beyond the district on the other side of the Jordan.",
+    "reference": "Matthew 4:25 (WNT)",
+    "connected_from": "Matthew 4:24"
+  }
+]

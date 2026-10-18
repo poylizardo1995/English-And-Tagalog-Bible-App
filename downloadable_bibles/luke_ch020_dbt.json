@@ -1,0 +1,282 @@
+[
+  {
+    "text": "And it came to pass on one of the days, as he was teaching the people in the temple, and announcing the glad tidings, the chief priests and the scribes with the elders came up,",
+    "reference": "Luke 20:1 (DBT)",
+    "connected_to": "Luke 20:2"
+  },
+  {
+    "text": "and spoke to him saying, Tell us by what authority thou doest these things, or who is it who has given thee this authority?",
+    "reference": "Luke 20:2 (DBT)",
+    "connected_to": "Luke 20:3",
+    "connected_from": "Luke 20:1"
+  },
+  {
+    "text": "And he answering said to them, I also will ask you [one] thing, and tell me:",
+    "reference": "Luke 20:3 (DBT)",
+    "connected_to": "Luke 20:4",
+    "connected_from": "Luke 20:2"
+  },
+  {
+    "text": "The baptism of John, was it of heaven or of men?",
+    "reference": "Luke 20:4 (DBT)",
+    "connected_to": "Luke 20:5",
+    "connected_from": "Luke 20:3"
+  },
+  {
+    "text": "And they reasoned among themselves, saying, If we should say, Of heaven, he will say, Why have ye not believed him?",
+    "reference": "Luke 20:5 (DBT)",
+    "connected_to": "Luke 20:6",
+    "connected_from": "Luke 20:4"
+  },
+  {
+    "text": "but if we should say, Of men, the whole people will stone us, for they are persuaded that John was a prophet.",
+    "reference": "Luke 20:6 (DBT)",
+    "connected_to": "Luke 20:7",
+    "connected_from": "Luke 20:5"
+  },
+  {
+    "text": "And they answered, they did not know whence.",
+    "reference": "Luke 20:7 (DBT)",
+    "connected_to": "Luke 20:8",
+    "connected_from": "Luke 20:6"
+  },
+  {
+    "text": "And Jesus said to them, Neither do I tell you by what authority I do these things.",
+    "reference": "Luke 20:8 (DBT)",
+    "connected_to": "Luke 20:9",
+    "connected_from": "Luke 20:7"
+  },
+  {
+    "text": "And he began to speak to the people this parable: A man planted a vineyard and let it out to husbandmen, and left the country for a long time.",
+    "reference": "Luke 20:9 (DBT)",
+    "connected_to": "Luke 20:10",
+    "connected_from": "Luke 20:8"
+  },
+  {
+    "text": "And in the season he sent to the husbandmen a bondman, that they might give to him of the fruit of the vineyard; but the husbandmen, having beaten him, sent [him] away empty.",
+    "reference": "Luke 20:10 (DBT)",
+    "connected_to": "Luke 20:11",
+    "connected_from": "Luke 20:9"
+  },
+  {
+    "text": "And again he sent another bondman; but they, having beaten him also, and cast insult upon him, sent [him] away empty.",
+    "reference": "Luke 20:11 (DBT)",
+    "connected_to": "Luke 20:12",
+    "connected_from": "Luke 20:10"
+  },
+  {
+    "text": "And again he sent a third; and they, having wounded him also, cast [him] out.",
+    "reference": "Luke 20:12 (DBT)",
+    "connected_to": "Luke 20:13",
+    "connected_from": "Luke 20:11"
+  },
+  {
+    "text": "And the lord of the vineyard said, What shall I do? I will send my beloved son: perhaps when they see him they will respect [him].",
+    "reference": "Luke 20:13 (DBT)",
+    "connected_to": "Luke 20:14",
+    "connected_from": "Luke 20:12"
+  },
+  {
+    "text": "But when the husbandmen saw him, they reasoned among themselves, saying, This is the heir; [come,] let us kill him, that the inheritance may become ours.",
+    "reference": "Luke 20:14 (DBT)",
+    "connected_to": "Luke 20:15",
+    "connected_from": "Luke 20:13"
+  },
+  {
+    "text": "And having cast him forth out of the vineyard, they killed [him]. What therefore shall the lord of the vineyard do to them?",
+    "reference": "Luke 20:15 (DBT)",
+    "connected_to": "Luke 20:16",
+    "connected_from": "Luke 20:14"
+  },
+  {
+    "text": "He will come and destroy those husbandmen, and will give the vineyard to others. And when they heard it they said, May it never be!",
+    "reference": "Luke 20:16 (DBT)",
+    "connected_to": "Luke 20:17",
+    "connected_from": "Luke 20:15"
+  },
+  {
+    "text": "But he looking at them said, What then is this that is written, The stone which they that builded rejected, this has become the corner-stone?",
+    "reference": "Luke 20:17 (DBT)",
+    "connected_to": "Luke 20:18",
+    "connected_from": "Luke 20:16"
+  },
+  {
+    "text": "Every one falling on this stone shall be broken, but on whomsoever it shall fall, it shall grind him to powder.",
+    "reference": "Luke 20:18 (DBT)",
+    "connected_to": "Luke 20:19",
+    "connected_from": "Luke 20:17"
+  },
+  {
+    "text": "And the chief priests and the scribes sought the same hour to lay hands on him, and they feared the people; for they knew that he had spoken this parable of them.",
+    "reference": "Luke 20:19 (DBT)",
+    "connected_to": "Luke 20:20",
+    "connected_from": "Luke 20:18"
+  },
+  {
+    "text": "And having watched [him], they sent out suborned persons, pretending to be just men, that they might take hold of him in [his] language, so that they might deliver him up to the power and authority of the governor.",
+    "reference": "Luke 20:20 (DBT)",
+    "connected_to": "Luke 20:21",
+    "connected_from": "Luke 20:19"
+  },
+  {
+    "text": "And they asked him saying, Teacher, we know that thou sayest and teachest rightly, and acceptest no [man’s] person, but teachest with truth the way of God:",
+    "reference": "Luke 20:21 (DBT)",
+    "connected_to": "Luke 20:22",
+    "connected_from": "Luke 20:20"
+  },
+  {
+    "text": "Is it lawful for us to give tribute to Caesar, or not?",
+    "reference": "Luke 20:22 (DBT)",
+    "connected_to": "Luke 20:23",
+    "connected_from": "Luke 20:21"
+  },
+  {
+    "text": "But perceiving their deceit he said to them, Why do ye tempt me?",
+    "reference": "Luke 20:23 (DBT)",
+    "connected_to": "Luke 20:24",
+    "connected_from": "Luke 20:22"
+  },
+  {
+    "text": "Shew me a denarius. Whose image and superscription has it? And answering they said, Caesar’s.",
+    "reference": "Luke 20:24 (DBT)",
+    "connected_to": "Luke 20:25",
+    "connected_from": "Luke 20:23"
+  },
+  {
+    "text": "And he said to them, Pay therefore what is Caesar’s to Caesar, and what is God’s to God.",
+    "reference": "Luke 20:25 (DBT)",
+    "connected_to": "Luke 20:26",
+    "connected_from": "Luke 20:24"
+  },
+  {
+    "text": "And they were not able to take hold of him in [his] expressions before the people, and, wondering at his answer, they were silent.",
+    "reference": "Luke 20:26 (DBT)",
+    "connected_to": "Luke 20:27",
+    "connected_from": "Luke 20:25"
+  },
+  {
+    "text": "And some of the Sadducees, who deny that there is any resurrection, coming up [to him],",
+    "reference": "Luke 20:27 (DBT)",
+    "connected_to": "Luke 20:28",
+    "connected_from": "Luke 20:26"
+  },
+  {
+    "text": "demanded of him saying, Teacher, Moses wrote to us, If any one’s brother, who has a wife, die, and he die childless, his brother shall take the wife and raise up seed to his brother.",
+    "reference": "Luke 20:28 (DBT)",
+    "connected_to": "Luke 20:29",
+    "connected_from": "Luke 20:27"
+  },
+  {
+    "text": "There were then seven brethren: and the first, having taken a wife, died childless;",
+    "reference": "Luke 20:29 (DBT)",
+    "connected_to": "Luke 20:30",
+    "connected_from": "Luke 20:28"
+  },
+  {
+    "text": "and the second [took the woman, and he died childless];",
+    "reference": "Luke 20:30 (DBT)",
+    "connected_to": "Luke 20:31",
+    "connected_from": "Luke 20:29"
+  },
+  {
+    "text": "and the third took her: and in like manner also the seven left no children and died;",
+    "reference": "Luke 20:31 (DBT)",
+    "connected_to": "Luke 20:32",
+    "connected_from": "Luke 20:30"
+  },
+  {
+    "text": "and last of all the woman also died.",
+    "reference": "Luke 20:32 (DBT)",
+    "connected_to": "Luke 20:33",
+    "connected_from": "Luke 20:31"
+  },
+  {
+    "text": "In the resurrection therefore of which of them does she become wife, for the seven had her as wife?",
+    "reference": "Luke 20:33 (DBT)",
+    "connected_to": "Luke 20:34",
+    "connected_from": "Luke 20:32"
+  },
+  {
+    "text": "And Jesus said to them, The sons of this world marry and are given in marriage,",
+    "reference": "Luke 20:34 (DBT)",
+    "connected_to": "Luke 20:35",
+    "connected_from": "Luke 20:33"
+  },
+  {
+    "text": "but they who are counted worthy to have part in that world, and the resurrection from among [the] dead, neither marry nor are given in marriage;",
+    "reference": "Luke 20:35 (DBT)",
+    "connected_to": "Luke 20:36",
+    "connected_from": "Luke 20:34"
+  },
+  {
+    "text": "for neither can they die any more, for they are equal to angels, and are sons of God, being sons of the resurrection.",
+    "reference": "Luke 20:36 (DBT)",
+    "connected_to": "Luke 20:37",
+    "connected_from": "Luke 20:35"
+  },
+  {
+    "text": "But that the dead rise, even Moses shewed in [the section of] the bush, when he called [the] Lord the God of Abraham and the God of Isaac and the God of Jacob;",
+    "reference": "Luke 20:37 (DBT)",
+    "connected_to": "Luke 20:38",
+    "connected_from": "Luke 20:36"
+  },
+  {
+    "text": "but he is not God of [the] dead but of [the] living; for all live for him.",
+    "reference": "Luke 20:38 (DBT)",
+    "connected_to": "Luke 20:39",
+    "connected_from": "Luke 20:37"
+  },
+  {
+    "text": "And some of the scribes answering said, Teacher, thou hast well spoken.",
+    "reference": "Luke 20:39 (DBT)",
+    "connected_to": "Luke 20:40",
+    "connected_from": "Luke 20:38"
+  },
+  {
+    "text": "For they did not dare any more to ask him anything.",
+    "reference": "Luke 20:40 (DBT)",
+    "connected_to": "Luke 20:41",
+    "connected_from": "Luke 20:39"
+  },
+  {
+    "text": "And he said to them, How do they say that the Christ is David’s son,",
+    "reference": "Luke 20:41 (DBT)",
+    "connected_to": "Luke 20:42",
+    "connected_from": "Luke 20:40"
+  },
+  {
+    "text": "and David himself says in the book of Psalms, The Lord said to my Lord, Sit at my right hand",
+    "reference": "Luke 20:42 (DBT)",
+    "connected_to": "Luke 20:43",
+    "connected_from": "Luke 20:41"
+  },
+  {
+    "text": "until I put thine enemies [as] footstool of thy feet?",
+    "reference": "Luke 20:43 (DBT)",
+    "connected_to": "Luke 20:44",
+    "connected_from": "Luke 20:42"
+  },
+  {
+    "text": "David therefore calls him Lord, and how is he his son?",
+    "reference": "Luke 20:44 (DBT)",
+    "connected_to": "Luke 20:45",
+    "connected_from": "Luke 20:43"
+  },
+  {
+    "text": "And, as all the people were listening, he said to his disciples,",
+    "reference": "Luke 20:45 (DBT)",
+    "connected_to": "Luke 20:46",
+    "connected_from": "Luke 20:44"
+  },
+  {
+    "text": "Beware of the scribes, who like to walk about in long robes, and who love salutations in the market-places, and first seats in the synagogues, and first places at suppers;",
+    "reference": "Luke 20:46 (DBT)",
+    "connected_to": "Luke 20:47",
+    "connected_from": "Luke 20:45"
+  },
+  {
+    "text": "who devour the houses of widows, and as a pretext make long prayers. These shall receive a severer judgment.",
+    "reference": "Luke 20:47 (DBT)",
+    "connected_from": "Luke 20:46"
+  }
+]

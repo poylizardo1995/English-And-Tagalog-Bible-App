@@ -1,0 +1,258 @@
+[
+  {
+    "text": "So they brought the ark of God and placed it inside the tent that David had pitched for it. And they presented burnt offerings and peace offerings before God.",
+    "reference": "1 Chronicles 16:1 (BSB)",
+    "connected_to": "1 Chronicles 16:2"
+  },
+  {
+    "text": "When David had finished sacrificing the burnt offerings and peace offerings, he blessed the people in the name of the LORD.",
+    "reference": "1 Chronicles 16:2 (BSB)",
+    "connected_to": "1 Chronicles 16:3",
+    "connected_from": "1 Chronicles 16:1"
+  },
+  {
+    "text": "Then he distributed to every man and woman of Israel a loaf of bread, a date cake, and a raisin cake.",
+    "reference": "1 Chronicles 16:3 (BSB)",
+    "connected_to": "1 Chronicles 16:4",
+    "connected_from": "1 Chronicles 16:2"
+  },
+  {
+    "text": "David appointed some of the Levites to minister before the ark of the LORD, to celebrate, to give thanks, and to praise the LORD, the God of Israel.",
+    "reference": "1 Chronicles 16:4 (BSB)",
+    "connected_to": "1 Chronicles 16:5",
+    "connected_from": "1 Chronicles 16:3"
+  },
+  {
+    "text": "Asaph was the chief, Zechariah was second, then Jeiel, Shemiramoth, Jehiel, Mattithiah, Eliab, Benaiah, Obed-edom, and Jeiel. They were to play the harps and lyres, while Asaph sounded the cymbals",
+    "reference": "1 Chronicles 16:5 (BSB)",
+    "connected_to": "1 Chronicles 16:6",
+    "connected_from": "1 Chronicles 16:4"
+  },
+  {
+    "text": "and the priests Benaiah and Jahaziel blew the trumpets regularly before the ark of the covenant of God.",
+    "reference": "1 Chronicles 16:6 (BSB)",
+    "connected_to": "1 Chronicles 16:7",
+    "connected_from": "1 Chronicles 16:5"
+  },
+  {
+    "text": "On that day David first committed to Asaph and his associates this song of thanksgiving to the LORD:",
+    "reference": "1 Chronicles 16:7 (BSB)",
+    "connected_to": "1 Chronicles 16:8",
+    "connected_from": "1 Chronicles 16:6"
+  },
+  {
+    "text": "“Give thanks to the LORD; call upon His name; make known His deeds among the nations.",
+    "reference": "1 Chronicles 16:8 (BSB)",
+    "connected_to": "1 Chronicles 16:9",
+    "connected_from": "1 Chronicles 16:7"
+  },
+  {
+    "text": "Sing to Him, sing praises to Him; tell of all His wonders.",
+    "reference": "1 Chronicles 16:9 (BSB)",
+    "connected_to": "1 Chronicles 16:10",
+    "connected_from": "1 Chronicles 16:8"
+  },
+  {
+    "text": "Glory in His holy name; let the hearts of those who seek the LORD rejoice.",
+    "reference": "1 Chronicles 16:10 (BSB)",
+    "connected_to": "1 Chronicles 16:11",
+    "connected_from": "1 Chronicles 16:9"
+  },
+  {
+    "text": "Seek out the LORD and His strength; seek His face always.",
+    "reference": "1 Chronicles 16:11 (BSB)",
+    "connected_to": "1 Chronicles 16:12",
+    "connected_from": "1 Chronicles 16:10"
+  },
+  {
+    "text": "Remember the wonders He has done, His marvels, and the judgments He has pronounced,",
+    "reference": "1 Chronicles 16:12 (BSB)",
+    "connected_to": "1 Chronicles 16:13",
+    "connected_from": "1 Chronicles 16:11"
+  },
+  {
+    "text": "O offspring of His servant Israel, O sons of Jacob, His chosen ones.",
+    "reference": "1 Chronicles 16:13 (BSB)",
+    "connected_to": "1 Chronicles 16:14",
+    "connected_from": "1 Chronicles 16:12"
+  },
+  {
+    "text": "He is the LORD our God; His judgments carry throughout the earth.",
+    "reference": "1 Chronicles 16:14 (BSB)",
+    "connected_to": "1 Chronicles 16:15",
+    "connected_from": "1 Chronicles 16:13"
+  },
+  {
+    "text": "Remember His covenant forever, the word He ordained for a thousand generations—",
+    "reference": "1 Chronicles 16:15 (BSB)",
+    "connected_to": "1 Chronicles 16:16",
+    "connected_from": "1 Chronicles 16:14"
+  },
+  {
+    "text": "the covenant He made with Abraham, and the oath He swore to Isaac.",
+    "reference": "1 Chronicles 16:16 (BSB)",
+    "connected_to": "1 Chronicles 16:17",
+    "connected_from": "1 Chronicles 16:15"
+  },
+  {
+    "text": "He confirmed it to Jacob as a decree, to Israel as an everlasting covenant:",
+    "reference": "1 Chronicles 16:17 (BSB)",
+    "connected_to": "1 Chronicles 16:18",
+    "connected_from": "1 Chronicles 16:16"
+  },
+  {
+    "text": "‘I will give you the land of Canaan as the portion of your inheritance.’",
+    "reference": "1 Chronicles 16:18 (BSB)",
+    "connected_to": "1 Chronicles 16:19",
+    "connected_from": "1 Chronicles 16:17"
+  },
+  {
+    "text": "When they were few in number, few indeed, and strangers in the land,",
+    "reference": "1 Chronicles 16:19 (BSB)",
+    "connected_to": "1 Chronicles 16:20",
+    "connected_from": "1 Chronicles 16:18"
+  },
+  {
+    "text": "they wandered from nation to nation, from one kingdom to another.",
+    "reference": "1 Chronicles 16:20 (BSB)",
+    "connected_to": "1 Chronicles 16:21",
+    "connected_from": "1 Chronicles 16:19"
+  },
+  {
+    "text": "He let no man oppress them; He rebuked kings on their behalf:",
+    "reference": "1 Chronicles 16:21 (BSB)",
+    "connected_to": "1 Chronicles 16:22",
+    "connected_from": "1 Chronicles 16:20"
+  },
+  {
+    "text": "‘Do not touch My anointed ones! Do no harm to My prophets!’",
+    "reference": "1 Chronicles 16:22 (BSB)",
+    "connected_to": "1 Chronicles 16:23",
+    "connected_from": "1 Chronicles 16:21"
+  },
+  {
+    "text": "Sing to the LORD, all the earth. Proclaim His salvation day after day.",
+    "reference": "1 Chronicles 16:23 (BSB)",
+    "connected_to": "1 Chronicles 16:24",
+    "connected_from": "1 Chronicles 16:22"
+  },
+  {
+    "text": "Declare His glory among the nations, His wonders among all peoples.",
+    "reference": "1 Chronicles 16:24 (BSB)",
+    "connected_to": "1 Chronicles 16:25",
+    "connected_from": "1 Chronicles 16:23"
+  },
+  {
+    "text": "For great is the LORD, and greatly to be praised; He is to be feared above all gods.",
+    "reference": "1 Chronicles 16:25 (BSB)",
+    "connected_to": "1 Chronicles 16:26",
+    "connected_from": "1 Chronicles 16:24"
+  },
+  {
+    "text": "For all the gods of the nations are idols, but it is the LORD who made the heavens.",
+    "reference": "1 Chronicles 16:26 (BSB)",
+    "connected_to": "1 Chronicles 16:27",
+    "connected_from": "1 Chronicles 16:25"
+  },
+  {
+    "text": "Splendor and majesty are before Him; strength and joy fill His dwelling.",
+    "reference": "1 Chronicles 16:27 (BSB)",
+    "connected_to": "1 Chronicles 16:28",
+    "connected_from": "1 Chronicles 16:26"
+  },
+  {
+    "text": "Ascribe to the LORD, O families of the nations, ascribe to the LORD glory and strength.",
+    "reference": "1 Chronicles 16:28 (BSB)",
+    "connected_to": "1 Chronicles 16:29",
+    "connected_from": "1 Chronicles 16:27"
+  },
+  {
+    "text": "Ascribe to the LORD the glory due His name; bring an offering and come before Him. Worship the LORD in the splendor of His holiness;",
+    "reference": "1 Chronicles 16:29 (BSB)",
+    "connected_to": "1 Chronicles 16:30",
+    "connected_from": "1 Chronicles 16:28"
+  },
+  {
+    "text": "tremble before Him, all the earth. The world is firmly established; it cannot be moved.",
+    "reference": "1 Chronicles 16:30 (BSB)",
+    "connected_to": "1 Chronicles 16:31",
+    "connected_from": "1 Chronicles 16:29"
+  },
+  {
+    "text": "Let the heavens be glad, and the earth rejoice. Let them say among the nations, ‘The LORD reigns!’",
+    "reference": "1 Chronicles 16:31 (BSB)",
+    "connected_to": "1 Chronicles 16:32",
+    "connected_from": "1 Chronicles 16:30"
+  },
+  {
+    "text": "Let the sea resound, and all that fills it; let the fields exult, and all that is in them.",
+    "reference": "1 Chronicles 16:32 (BSB)",
+    "connected_to": "1 Chronicles 16:33",
+    "connected_from": "1 Chronicles 16:31"
+  },
+  {
+    "text": "Then the trees of the forest will sing for joy before the LORD, for He is coming to judge the earth.",
+    "reference": "1 Chronicles 16:33 (BSB)",
+    "connected_to": "1 Chronicles 16:34",
+    "connected_from": "1 Chronicles 16:32"
+  },
+  {
+    "text": "Give thanks to the LORD, for He is good; His loving devotion endures forever.",
+    "reference": "1 Chronicles 16:34 (BSB)",
+    "connected_to": "1 Chronicles 16:35",
+    "connected_from": "1 Chronicles 16:33"
+  },
+  {
+    "text": "Then cry out: ‘Save us, O God of our salvation; gather and deliver us from the nations, that we may give thanks to Your holy name, that we may glory in Your praise.’",
+    "reference": "1 Chronicles 16:35 (BSB)",
+    "connected_to": "1 Chronicles 16:36",
+    "connected_from": "1 Chronicles 16:34"
+  },
+  {
+    "text": "Blessed be the LORD, the God of Israel, from everlasting to everlasting.” Then all the people said, “Amen!” and “Praise the LORD!”",
+    "reference": "1 Chronicles 16:36 (BSB)",
+    "connected_to": "1 Chronicles 16:37",
+    "connected_from": "1 Chronicles 16:35"
+  },
+  {
+    "text": "So David left Asaph and his associates there before the ark of the covenant of the LORD, to minister there regularly according to the daily requirements,",
+    "reference": "1 Chronicles 16:37 (BSB)",
+    "connected_to": "1 Chronicles 16:38",
+    "connected_from": "1 Chronicles 16:36"
+  },
+  {
+    "text": "along with Obed-edom and his sixty-eight relatives. Obed-edom son of Jeduthun, and also Hosah, were to be gatekeepers.",
+    "reference": "1 Chronicles 16:38 (BSB)",
+    "connected_to": "1 Chronicles 16:39",
+    "connected_from": "1 Chronicles 16:37"
+  },
+  {
+    "text": "And David left Zadok the priest and his fellow priests before the tabernacle of the LORD at the high place in Gibeon",
+    "reference": "1 Chronicles 16:39 (BSB)",
+    "connected_to": "1 Chronicles 16:40",
+    "connected_from": "1 Chronicles 16:38"
+  },
+  {
+    "text": "to regularly present burnt offerings to the LORD on the altar of burnt offerings, morning and evening, according to all that was written in the Law of the LORD, which He had commanded Israel to keep.",
+    "reference": "1 Chronicles 16:40 (BSB)",
+    "connected_to": "1 Chronicles 16:41",
+    "connected_from": "1 Chronicles 16:39"
+  },
+  {
+    "text": "With them were Heman, Jeduthun, and the rest of those chosen and designated by name to give thanks to the LORD, for “His loving devotion endures forever.”",
+    "reference": "1 Chronicles 16:41 (BSB)",
+    "connected_to": "1 Chronicles 16:42",
+    "connected_from": "1 Chronicles 16:40"
+  },
+  {
+    "text": "Heman and Jeduthun had with them trumpets and cymbals for the music and instruments for the songs of God. And the sons of Jeduthun were stationed at the gate.",
+    "reference": "1 Chronicles 16:42 (BSB)",
+    "connected_to": "1 Chronicles 16:43",
+    "connected_from": "1 Chronicles 16:41"
+  },
+  {
+    "text": "Then all the people departed for their homes, and David returned home to bless his household.",
+    "reference": "1 Chronicles 16:43 (BSB)",
+    "connected_from": "1 Chronicles 16:42"
+  }
+]

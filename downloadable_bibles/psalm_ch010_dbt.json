@@ -1,0 +1,108 @@
+[
+  {
+    "text": "Why, Jehovah, standest thou afar off? [Why] hidest thou thyself in times of distress?",
+    "reference": "Psalm 10:1 (DBT)",
+    "connected_to": "Psalm 10:2"
+  },
+  {
+    "text": "The wicked, in his pride, doth hotly pursue the afflicted. They shall be taken in the devices that they have imagined.",
+    "reference": "Psalm 10:2 (DBT)",
+    "connected_to": "Psalm 10:3",
+    "connected_from": "Psalm 10:1"
+  },
+  {
+    "text": "For the wicked boasteth of his soul’s desire, and he blesseth the covetous; he contemneth Jehovah.",
+    "reference": "Psalm 10:3 (DBT)",
+    "connected_to": "Psalm 10:4",
+    "connected_from": "Psalm 10:2"
+  },
+  {
+    "text": "The wicked [saith], in the haughtiness of his countenance, He doth not search out: all his thoughts are, There is no God!",
+    "reference": "Psalm 10:4 (DBT)",
+    "connected_to": "Psalm 10:5",
+    "connected_from": "Psalm 10:3"
+  },
+  {
+    "text": "His ways always succeed; thy judgments are far above out of his sight; [as for] all his adversaries, he puffeth at them.",
+    "reference": "Psalm 10:5 (DBT)",
+    "connected_to": "Psalm 10:6",
+    "connected_from": "Psalm 10:4"
+  },
+  {
+    "text": "He saith in his heart, I shall not be moved; from generation to generation I shall be in no adversity.",
+    "reference": "Psalm 10:6 (DBT)",
+    "connected_to": "Psalm 10:7",
+    "connected_from": "Psalm 10:5"
+  },
+  {
+    "text": "His mouth is full of cursing, and deceit, and oppression; under his tongue is mischief and iniquity.",
+    "reference": "Psalm 10:7 (DBT)",
+    "connected_to": "Psalm 10:8",
+    "connected_from": "Psalm 10:6"
+  },
+  {
+    "text": "He sitteth in the lurking-places of the villages; in the secret places doth he slay the innocent: his eyes watch for the wretched.",
+    "reference": "Psalm 10:8 (DBT)",
+    "connected_to": "Psalm 10:9",
+    "connected_from": "Psalm 10:7"
+  },
+  {
+    "text": "He lieth in wait secretly, like a lion in his thicket; he lieth in wait to catch the afflicted: he doth catch the afflicted, drawing him into his net.",
+    "reference": "Psalm 10:9 (DBT)",
+    "connected_to": "Psalm 10:10",
+    "connected_from": "Psalm 10:8"
+  },
+  {
+    "text": "He croucheth, he boweth down, that the wretched may fall by his strong ones.",
+    "reference": "Psalm 10:10 (DBT)",
+    "connected_to": "Psalm 10:11",
+    "connected_from": "Psalm 10:9"
+  },
+  {
+    "text": "He saith in his heart, God hath forgotten, he hideth his face, he will never see [it].",
+    "reference": "Psalm 10:11 (DBT)",
+    "connected_to": "Psalm 10:12",
+    "connected_from": "Psalm 10:10"
+  },
+  {
+    "text": "Arise, Jehovah; O God, lift up thy hand: forget not the afflicted.",
+    "reference": "Psalm 10:12 (DBT)",
+    "connected_to": "Psalm 10:13",
+    "connected_from": "Psalm 10:11"
+  },
+  {
+    "text": "Wherefore doth the wicked contemn God? He hath said in his heart, Thou wilt not require [it].",
+    "reference": "Psalm 10:13 (DBT)",
+    "connected_to": "Psalm 10:14",
+    "connected_from": "Psalm 10:12"
+  },
+  {
+    "text": "Thou hast seen [it], for thou thyself beholdest trouble and vexation, to requite by thy hand. The wretched committeth himself unto thee; thou hast been the helper of the fatherless.",
+    "reference": "Psalm 10:14 (DBT)",
+    "connected_to": "Psalm 10:15",
+    "connected_from": "Psalm 10:13"
+  },
+  {
+    "text": "Break thou the arm of the wicked, and as for the evil man, seek out his wickedness [till] thou find none.",
+    "reference": "Psalm 10:15 (DBT)",
+    "connected_to": "Psalm 10:16",
+    "connected_from": "Psalm 10:14"
+  },
+  {
+    "text": "Jehovah is King for ever and ever: the nations have perished out of his land.",
+    "reference": "Psalm 10:16 (DBT)",
+    "connected_to": "Psalm 10:17",
+    "connected_from": "Psalm 10:15"
+  },
+  {
+    "text": "Jehovah, thou hast heard the desire of the meek, thou hast established their heart: thou causest thine ear to hear,",
+    "reference": "Psalm 10:17 (DBT)",
+    "connected_to": "Psalm 10:18",
+    "connected_from": "Psalm 10:16"
+  },
+  {
+    "text": "To do justice to the fatherless and the oppressed one, that the man of the earth may terrify no more.",
+    "reference": "Psalm 10:18 (DBT)",
+    "connected_from": "Psalm 10:17"
+  }
+]

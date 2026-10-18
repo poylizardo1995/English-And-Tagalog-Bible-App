@@ -1,0 +1,66 @@
+[
+  {
+    "text": "O come, let us sing to the LORD: let us make a joyful noise to the rock of our salvation.",
+    "reference": "Psalm 95:1 (AKJV)",
+    "connected_to": "Psalm 95:2"
+  },
+  {
+    "text": "Let us come before his presence with thanksgiving, and make a joyful noise to him with psalms.",
+    "reference": "Psalm 95:2 (AKJV)",
+    "connected_to": "Psalm 95:3",
+    "connected_from": "Psalm 95:1"
+  },
+  {
+    "text": "For the LORD is a great God, and a great King above all gods.",
+    "reference": "Psalm 95:3 (AKJV)",
+    "connected_to": "Psalm 95:4",
+    "connected_from": "Psalm 95:2"
+  },
+  {
+    "text": "In his hand are the deep places of the earth: the strength of the hills is his also.",
+    "reference": "Psalm 95:4 (AKJV)",
+    "connected_to": "Psalm 95:5",
+    "connected_from": "Psalm 95:3"
+  },
+  {
+    "text": "The sea is his, and he made it: and his hands formed the dry land.",
+    "reference": "Psalm 95:5 (AKJV)",
+    "connected_to": "Psalm 95:6",
+    "connected_from": "Psalm 95:4"
+  },
+  {
+    "text": "O come, let us worship and bow down: let us kneel before the LORD our maker.",
+    "reference": "Psalm 95:6 (AKJV)",
+    "connected_to": "Psalm 95:7",
+    "connected_from": "Psalm 95:5"
+  },
+  {
+    "text": "For he is our God; and we are the people of his pasture, and the sheep of his hand. To day if you will hear his voice,",
+    "reference": "Psalm 95:7 (AKJV)",
+    "connected_to": "Psalm 95:8",
+    "connected_from": "Psalm 95:6"
+  },
+  {
+    "text": "Harden not your heart, as in the provocation, and as in the day of temptation in the wilderness:",
+    "reference": "Psalm 95:8 (AKJV)",
+    "connected_to": "Psalm 95:9",
+    "connected_from": "Psalm 95:7"
+  },
+  {
+    "text": "When your fathers tempted me, proved me, and saw my work.",
+    "reference": "Psalm 95:9 (AKJV)",
+    "connected_to": "Psalm 95:10",
+    "connected_from": "Psalm 95:8"
+  },
+  {
+    "text": "Forty years long was I grieved with this generation, and said, It is a people that do err in their heart, and they have not known my ways:",
+    "reference": "Psalm 95:10 (AKJV)",
+    "connected_to": "Psalm 95:11",
+    "connected_from": "Psalm 95:9"
+  },
+  {
+    "text": "To whom I swore in my wrath that they should not enter into my rest.",
+    "reference": "Psalm 95:11 (AKJV)",
+    "connected_from": "Psalm 95:10"
+  }
+]

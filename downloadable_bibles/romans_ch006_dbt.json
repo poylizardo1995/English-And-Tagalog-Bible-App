@@ -1,0 +1,138 @@
+[
+  {
+    "text": "What then shall we say? Should we continue in sin that grace may abound?",
+    "reference": "Romans 6:1 (DBT)",
+    "connected_to": "Romans 6:2"
+  },
+  {
+    "text": "Far be the thought. We who have died to sin, how shall we still live in it?",
+    "reference": "Romans 6:2 (DBT)",
+    "connected_to": "Romans 6:3",
+    "connected_from": "Romans 6:1"
+  },
+  {
+    "text": "Are you ignorant that we, as many as have been baptised unto Christ Jesus, have been baptised unto his death?",
+    "reference": "Romans 6:3 (DBT)",
+    "connected_to": "Romans 6:4",
+    "connected_from": "Romans 6:2"
+  },
+  {
+    "text": "We have been buried therefore with him by baptism unto death, in order that, even as Christ has been raised up from among [the] dead by the glory of the Father, so we also should walk in newness of life.",
+    "reference": "Romans 6:4 (DBT)",
+    "connected_to": "Romans 6:5",
+    "connected_from": "Romans 6:3"
+  },
+  {
+    "text": "For if we are become identified with [him] in the likeness of his death, so also we shall be of [his] resurrection;",
+    "reference": "Romans 6:5 (DBT)",
+    "connected_to": "Romans 6:6",
+    "connected_from": "Romans 6:4"
+  },
+  {
+    "text": "knowing this, that our old man has been crucified with [him], that the body of sin might be annulled, that we should no longer serve sin.",
+    "reference": "Romans 6:6 (DBT)",
+    "connected_to": "Romans 6:7",
+    "connected_from": "Romans 6:5"
+  },
+  {
+    "text": "For he that has died is justified from sin.",
+    "reference": "Romans 6:7 (DBT)",
+    "connected_to": "Romans 6:8",
+    "connected_from": "Romans 6:6"
+  },
+  {
+    "text": "Now if we have died with Christ, we believe that we shall also live with him,",
+    "reference": "Romans 6:8 (DBT)",
+    "connected_to": "Romans 6:9",
+    "connected_from": "Romans 6:7"
+  },
+  {
+    "text": "knowing that Christ having been raised up from among [the] dead dies no more: death has dominion over him no more.",
+    "reference": "Romans 6:9 (DBT)",
+    "connected_to": "Romans 6:10",
+    "connected_from": "Romans 6:8"
+  },
+  {
+    "text": "For in that he has died, he has died to sin once for all; but in that he lives, he lives to God.",
+    "reference": "Romans 6:10 (DBT)",
+    "connected_to": "Romans 6:11",
+    "connected_from": "Romans 6:9"
+  },
+  {
+    "text": "So also ye, reckon yourselves dead to sin and alive to God in Christ Jesus.",
+    "reference": "Romans 6:11 (DBT)",
+    "connected_to": "Romans 6:12",
+    "connected_from": "Romans 6:10"
+  },
+  {
+    "text": "Let not sin therefore reign in your mortal body to obey its lusts.",
+    "reference": "Romans 6:12 (DBT)",
+    "connected_to": "Romans 6:13",
+    "connected_from": "Romans 6:11"
+  },
+  {
+    "text": "Neither yield your members instruments of unrighteousness to sin, but yield yourselves to God as alive from among [the] dead, and your members instruments of righteousness to God.",
+    "reference": "Romans 6:13 (DBT)",
+    "connected_to": "Romans 6:14",
+    "connected_from": "Romans 6:12"
+  },
+  {
+    "text": "For sin shall not have dominion over you, for ye are not under law but under grace.",
+    "reference": "Romans 6:14 (DBT)",
+    "connected_to": "Romans 6:15",
+    "connected_from": "Romans 6:13"
+  },
+  {
+    "text": "What then? should we sin because we are not under law but under grace? Far be the thought.",
+    "reference": "Romans 6:15 (DBT)",
+    "connected_to": "Romans 6:16",
+    "connected_from": "Romans 6:14"
+  },
+  {
+    "text": "Know ye not that to whom ye yield yourselves bondmen for obedience, ye are bondmen to him whom ye obey, whether of sin unto death, or of obedience unto righteousness?",
+    "reference": "Romans 6:16 (DBT)",
+    "connected_to": "Romans 6:17",
+    "connected_from": "Romans 6:15"
+  },
+  {
+    "text": "But thanks [be] to God, that ye were bondmen of sin, but have obeyed from the heart the form of teaching into which ye were instructed.",
+    "reference": "Romans 6:17 (DBT)",
+    "connected_to": "Romans 6:18",
+    "connected_from": "Romans 6:16"
+  },
+  {
+    "text": "Now, having got your freedom from sin, ye have become bondmen to righteousness.",
+    "reference": "Romans 6:18 (DBT)",
+    "connected_to": "Romans 6:19",
+    "connected_from": "Romans 6:17"
+  },
+  {
+    "text": "I speak humanly on account of the weakness of your flesh. For even as ye have yielded your members in bondage to uncleanness and to lawlessness unto lawlessness, so now yield your members in bondage to righteousness unto holiness.",
+    "reference": "Romans 6:19 (DBT)",
+    "connected_to": "Romans 6:20",
+    "connected_from": "Romans 6:18"
+  },
+  {
+    "text": "For when ye were bondmen of sin ye were free from righteousness.",
+    "reference": "Romans 6:20 (DBT)",
+    "connected_to": "Romans 6:21",
+    "connected_from": "Romans 6:19"
+  },
+  {
+    "text": "What fruit therefore had ye then in the things of which ye are now ashamed? for the end of them [is] death.",
+    "reference": "Romans 6:21 (DBT)",
+    "connected_to": "Romans 6:22",
+    "connected_from": "Romans 6:20"
+  },
+  {
+    "text": "But now, having got your freedom from sin, and having become bondmen to God, ye have your fruit unto holiness, and the end eternal life.",
+    "reference": "Romans 6:22 (DBT)",
+    "connected_to": "Romans 6:23",
+    "connected_from": "Romans 6:21"
+  },
+  {
+    "text": "For the wages of sin [is] death; but the act of favour of God, eternal life in Christ Jesus our Lord.",
+    "reference": "Romans 6:23 (DBT)",
+    "connected_from": "Romans 6:22"
+  }
+]

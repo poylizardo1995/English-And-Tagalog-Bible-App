@@ -1,0 +1,336 @@
+[
+  {
+    "text": "These are the lodging places of the sons of Israel, who departed from Egypt by their companies under the hand of Moses and Aaron,",
+    "reference": "Numbers 33:1 (CPDV)",
+    "connected_to": "Numbers 33:2"
+  },
+  {
+    "text": "which Moses wrote down according to the places of the encampments, which they changed upon the order of the Lord.",
+    "reference": "Numbers 33:2 (CPDV)",
+    "connected_to": "Numbers 33:3",
+    "connected_from": "Numbers 33:1"
+  },
+  {
+    "text": "Thus the sons of Israel set out from Rameses in the first month, on the fifteenth day of the first month, on the day after the Passover, with an exalted hand, being seen by all the Egyptians.",
+    "reference": "Numbers 33:3 (CPDV)",
+    "connected_to": "Numbers 33:4",
+    "connected_from": "Numbers 33:2"
+  },
+  {
+    "text": "And these were burying their firstborn, whom the Lord had struck down (for so, too, did he carry out retribution against their gods).",
+    "reference": "Numbers 33:4 (CPDV)",
+    "connected_to": "Numbers 33:5",
+    "connected_from": "Numbers 33:3"
+  },
+  {
+    "text": "And they made camp at Soccoth.",
+    "reference": "Numbers 33:5 (CPDV)",
+    "connected_to": "Numbers 33:6",
+    "connected_from": "Numbers 33:4"
+  },
+  {
+    "text": "And from Soccoth they went to Etham, which is at the furthest limits of the wilderness.",
+    "reference": "Numbers 33:6 (CPDV)",
+    "connected_to": "Numbers 33:7",
+    "connected_from": "Numbers 33:5"
+  },
+  {
+    "text": "Departing from there, they arrived opposite Pi-hahiroth, which looks out toward Baal-zephon, and they were encamped before Migdol.",
+    "reference": "Numbers 33:7 (CPDV)",
+    "connected_to": "Numbers 33:8",
+    "connected_from": "Numbers 33:6"
+  },
+  {
+    "text": "And setting out from Pi-hahiroth, they crossed through the middle of the Sea into the wilderness. And having walked for three days through the desert of Etham, they made camp at Marah.",
+    "reference": "Numbers 33:8 (CPDV)",
+    "connected_to": "Numbers 33:9",
+    "connected_from": "Numbers 33:7"
+  },
+  {
+    "text": "And setting out from Marah, they arrived at Elim, where there were twelve fountains of water and seventy palm trees. And they set up camp there.",
+    "reference": "Numbers 33:9 (CPDV)",
+    "connected_to": "Numbers 33:10",
+    "connected_from": "Numbers 33:8"
+  },
+  {
+    "text": "But departing from there also, they fixed their tents above the Red Sea. And setting out from the Red Sea,",
+    "reference": "Numbers 33:10 (CPDV)",
+    "connected_to": "Numbers 33:11",
+    "connected_from": "Numbers 33:9"
+  },
+  {
+    "text": "they were encamped in the desert of Sin.",
+    "reference": "Numbers 33:11 (CPDV)",
+    "connected_to": "Numbers 33:12",
+    "connected_from": "Numbers 33:10"
+  },
+  {
+    "text": "Departing from there, they went to Dophkah.",
+    "reference": "Numbers 33:12 (CPDV)",
+    "connected_to": "Numbers 33:13",
+    "connected_from": "Numbers 33:11"
+  },
+  {
+    "text": "And setting out from Dophkah, they made camp at Alush.",
+    "reference": "Numbers 33:13 (CPDV)",
+    "connected_to": "Numbers 33:14",
+    "connected_from": "Numbers 33:12"
+  },
+  {
+    "text": "And departing from Alush, they fixed their tents at Rephidim, where the people lacked water to drink.",
+    "reference": "Numbers 33:14 (CPDV)",
+    "connected_to": "Numbers 33:15",
+    "connected_from": "Numbers 33:13"
+  },
+  {
+    "text": "And setting out from Rephidim, they camped in the desert of Sinai.",
+    "reference": "Numbers 33:15 (CPDV)",
+    "connected_to": "Numbers 33:16",
+    "connected_from": "Numbers 33:14"
+  },
+  {
+    "text": "But departing also from the wilderness of the Sinai, they arrived at the Graves of Lust.",
+    "reference": "Numbers 33:16 (CPDV)",
+    "connected_to": "Numbers 33:17",
+    "connected_from": "Numbers 33:15"
+  },
+  {
+    "text": "And setting out from the Graves of Lust, they were encamped at Hazeroth.",
+    "reference": "Numbers 33:17 (CPDV)",
+    "connected_to": "Numbers 33:18",
+    "connected_from": "Numbers 33:16"
+  },
+  {
+    "text": "And from Hazeroth, they went to Rithmah.",
+    "reference": "Numbers 33:18 (CPDV)",
+    "connected_to": "Numbers 33:19",
+    "connected_from": "Numbers 33:17"
+  },
+  {
+    "text": "And setting out from Rithmah, they made camp at Rimmon-perez.",
+    "reference": "Numbers 33:19 (CPDV)",
+    "connected_to": "Numbers 33:20",
+    "connected_from": "Numbers 33:18"
+  },
+  {
+    "text": "And departing from there, they arrived at Libnah.",
+    "reference": "Numbers 33:20 (CPDV)",
+    "connected_to": "Numbers 33:21",
+    "connected_from": "Numbers 33:19"
+  },
+  {
+    "text": "From Libnah, they made camp at Rissah.",
+    "reference": "Numbers 33:21 (CPDV)",
+    "connected_to": "Numbers 33:22",
+    "connected_from": "Numbers 33:20"
+  },
+  {
+    "text": "And departing from Rissah, they went to Kehelathah.",
+    "reference": "Numbers 33:22 (CPDV)",
+    "connected_to": "Numbers 33:23",
+    "connected_from": "Numbers 33:21"
+  },
+  {
+    "text": "Setting out from there, they were encamped at mount Shepher.",
+    "reference": "Numbers 33:23 (CPDV)",
+    "connected_to": "Numbers 33:24",
+    "connected_from": "Numbers 33:22"
+  },
+  {
+    "text": "Departing from mount Shepher, they went to Haradah.",
+    "reference": "Numbers 33:24 (CPDV)",
+    "connected_to": "Numbers 33:25",
+    "connected_from": "Numbers 33:23"
+  },
+  {
+    "text": "Continuing on from there, they made camp at Makheloth.",
+    "reference": "Numbers 33:25 (CPDV)",
+    "connected_to": "Numbers 33:26",
+    "connected_from": "Numbers 33:24"
+  },
+  {
+    "text": "And setting out from Makheloth, they went to Tahath.",
+    "reference": "Numbers 33:26 (CPDV)",
+    "connected_to": "Numbers 33:27",
+    "connected_from": "Numbers 33:25"
+  },
+  {
+    "text": "From Tahath, they made camp at Terah.",
+    "reference": "Numbers 33:27 (CPDV)",
+    "connected_to": "Numbers 33:28",
+    "connected_from": "Numbers 33:26"
+  },
+  {
+    "text": "Departing from there, they pitched their tents at Mithkah.",
+    "reference": "Numbers 33:28 (CPDV)",
+    "connected_to": "Numbers 33:29",
+    "connected_from": "Numbers 33:27"
+  },
+  {
+    "text": "And from Mithkah, they were encamped at Hashmonah.",
+    "reference": "Numbers 33:29 (CPDV)",
+    "connected_to": "Numbers 33:30",
+    "connected_from": "Numbers 33:28"
+  },
+  {
+    "text": "And setting out from Hashmonah, they went to Moseroth.",
+    "reference": "Numbers 33:30 (CPDV)",
+    "connected_to": "Numbers 33:31",
+    "connected_from": "Numbers 33:29"
+  },
+  {
+    "text": "And from Moseroth, they made camp at Bene-jaakan.",
+    "reference": "Numbers 33:31 (CPDV)",
+    "connected_to": "Numbers 33:32",
+    "connected_from": "Numbers 33:30"
+  },
+  {
+    "text": "And setting out from Bene-jaakan, they went to mount Gidgad.",
+    "reference": "Numbers 33:32 (CPDV)",
+    "connected_to": "Numbers 33:33",
+    "connected_from": "Numbers 33:31"
+  },
+  {
+    "text": "Setting out from there, they were encamped at Jotbathah.",
+    "reference": "Numbers 33:33 (CPDV)",
+    "connected_to": "Numbers 33:34",
+    "connected_from": "Numbers 33:32"
+  },
+  {
+    "text": "And from Jotbathah, they went to Abronah.",
+    "reference": "Numbers 33:34 (CPDV)",
+    "connected_to": "Numbers 33:35",
+    "connected_from": "Numbers 33:33"
+  },
+  {
+    "text": "And departing from Abronah, they made camp at Eziongeber.",
+    "reference": "Numbers 33:35 (CPDV)",
+    "connected_to": "Numbers 33:36",
+    "connected_from": "Numbers 33:34"
+  },
+  {
+    "text": "Setting out from there, they went into the desert of Sin, which is Kadesh.",
+    "reference": "Numbers 33:36 (CPDV)",
+    "connected_to": "Numbers 33:37",
+    "connected_from": "Numbers 33:35"
+  },
+  {
+    "text": "And departing from Kadesh, they encamped at mount Hor, at the furthermost limits of the land of Edom.",
+    "reference": "Numbers 33:37 (CPDV)",
+    "connected_to": "Numbers 33:38",
+    "connected_from": "Numbers 33:36"
+  },
+  {
+    "text": "And Aaron the priest ascended onto mount Hor, by the order of the Lord. And there he died, in the fortieth year of the departure of the sons of Israel from Egypt, in the fifth month, on the first day of the month,",
+    "reference": "Numbers 33:38 (CPDV)",
+    "connected_to": "Numbers 33:39",
+    "connected_from": "Numbers 33:37"
+  },
+  {
+    "text": "when he was one hundred twenty-three years old.",
+    "reference": "Numbers 33:39 (CPDV)",
+    "connected_to": "Numbers 33:40",
+    "connected_from": "Numbers 33:38"
+  },
+  {
+    "text": "And king Arad the Canaanite, who lived toward the south, heard that the sons of Israel had arrived in the land of Canaan.",
+    "reference": "Numbers 33:40 (CPDV)",
+    "connected_to": "Numbers 33:41",
+    "connected_from": "Numbers 33:39"
+  },
+  {
+    "text": "And setting out from mount Hor, they made camp at Zalmonah.",
+    "reference": "Numbers 33:41 (CPDV)",
+    "connected_to": "Numbers 33:42",
+    "connected_from": "Numbers 33:40"
+  },
+  {
+    "text": "Departing from there, they went to Punon.",
+    "reference": "Numbers 33:42 (CPDV)",
+    "connected_to": "Numbers 33:43",
+    "connected_from": "Numbers 33:41"
+  },
+  {
+    "text": "And setting out from Punon, they were encamped at Oboth.",
+    "reference": "Numbers 33:43 (CPDV)",
+    "connected_to": "Numbers 33:44",
+    "connected_from": "Numbers 33:42"
+  },
+  {
+    "text": "And from Oboth, they went to Iye-abarim, which is at the borders of the Moabites.",
+    "reference": "Numbers 33:44 (CPDV)",
+    "connected_to": "Numbers 33:45",
+    "connected_from": "Numbers 33:43"
+  },
+  {
+    "text": "And setting out from Iye-abarim, they fixed their tents at Dibon-gad.",
+    "reference": "Numbers 33:45 (CPDV)",
+    "connected_to": "Numbers 33:46",
+    "connected_from": "Numbers 33:44"
+  },
+  {
+    "text": "Departing from there, they made camp at Almon-diblathaim.",
+    "reference": "Numbers 33:46 (CPDV)",
+    "connected_to": "Numbers 33:47",
+    "connected_from": "Numbers 33:45"
+  },
+  {
+    "text": "And departing from Almon-diblathaim, they went to the mountains of Abarim, opposite Nebo.",
+    "reference": "Numbers 33:47 (CPDV)",
+    "connected_to": "Numbers 33:48",
+    "connected_from": "Numbers 33:46"
+  },
+  {
+    "text": "And setting out from the mountains of Abarim, they crossed over to the plains of Moab, above the Jordan, opposite Jericho.",
+    "reference": "Numbers 33:48 (CPDV)",
+    "connected_to": "Numbers 33:49",
+    "connected_from": "Numbers 33:47"
+  },
+  {
+    "text": "And they made camp there, from Beth-jeshimoth all the way to Abel-shittim, in the level places of the Moabites,",
+    "reference": "Numbers 33:49 (CPDV)",
+    "connected_to": "Numbers 33:50",
+    "connected_from": "Numbers 33:48"
+  },
+  {
+    "text": "where the Lord said to Moses:",
+    "reference": "Numbers 33:50 (CPDV)",
+    "connected_to": "Numbers 33:51",
+    "connected_from": "Numbers 33:49"
+  },
+  {
+    "text": "“Instruct the sons of Israel, and say to them: When you will have crossed over the Jordan, entering into the land of Canaan,",
+    "reference": "Numbers 33:51 (CPDV)",
+    "connected_to": "Numbers 33:52",
+    "connected_from": "Numbers 33:50"
+  },
+  {
+    "text": "destroy all the inhabitants of that land. Break their monuments, and shatter their statues, and lay waste to every exalted thing,",
+    "reference": "Numbers 33:52 (CPDV)",
+    "connected_to": "Numbers 33:53",
+    "connected_from": "Numbers 33:51"
+  },
+  {
+    "text": "cleansing the land and living in it. For I have given it you as a possession,",
+    "reference": "Numbers 33:53 (CPDV)",
+    "connected_to": "Numbers 33:54",
+    "connected_from": "Numbers 33:52"
+  },
+  {
+    "text": "which you shall divide among you by lot. To the greater number you shall give more, and to the lesser number, less. To each one, just as the lot shall fall, so shall the inheritance be distributed. The possession shall be divided by the tribes and families.",
+    "reference": "Numbers 33:54 (CPDV)",
+    "connected_to": "Numbers 33:55",
+    "connected_from": "Numbers 33:53"
+  },
+  {
+    "text": "But if you are not willing to put to death the inhabitants of the land, those who remain shall be to you like spikes in your eyes and lances in your sides, and they shall be adversaries to you in the land of your habitation.",
+    "reference": "Numbers 33:55 (CPDV)",
+    "connected_to": "Numbers 33:56",
+    "connected_from": "Numbers 33:54"
+  },
+  {
+    "text": "And whatever I had decided to do to them, I will do to you.”",
+    "reference": "Numbers 33:56 (CPDV)",
+    "connected_from": "Numbers 33:55"
+  }
+]

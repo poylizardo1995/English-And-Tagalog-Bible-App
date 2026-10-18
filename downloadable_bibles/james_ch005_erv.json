@@ -1,0 +1,120 @@
+[
+  {
+    "text": "Go to now, ye rich, weep and howl for your miseries that are coming upon you.",
+    "reference": "James 5:1 (ERV)",
+    "connected_to": "James 5:2"
+  },
+  {
+    "text": "Your riches are corrupted, and your garments are moth-eaten.",
+    "reference": "James 5:2 (ERV)",
+    "connected_to": "James 5:3",
+    "connected_from": "James 5:1"
+  },
+  {
+    "text": "Your gold and your silver are rusted; and their rust shall be for a testimony against you, and shall eat your flesh as fire. Ye have laid up your treasure in the last days.",
+    "reference": "James 5:3 (ERV)",
+    "connected_to": "James 5:4",
+    "connected_from": "James 5:2"
+  },
+  {
+    "text": "Behold, the hire of the labourers who mowed your fields, which is of you kept back by fraud, crieth out: and the cries of them that reaped have entered into the ears of the Lord of Sabaoth.",
+    "reference": "James 5:4 (ERV)",
+    "connected_to": "James 5:5",
+    "connected_from": "James 5:3"
+  },
+  {
+    "text": "Ye have lived delicately on the earth, and taken your pleasure; ye have nourished your hearts in a day of slaughter.",
+    "reference": "James 5:5 (ERV)",
+    "connected_to": "James 5:6",
+    "connected_from": "James 5:4"
+  },
+  {
+    "text": "Ye have condemned, ye have killed the righteous one; he doth not resist you.",
+    "reference": "James 5:6 (ERV)",
+    "connected_to": "James 5:7",
+    "connected_from": "James 5:5"
+  },
+  {
+    "text": "Be patient therefore, brethren, until the coming of the Lord. Behold, the husbandman waiteth for the precious fruit of the earth, being patient over it, until it receive the early and latter rain.",
+    "reference": "James 5:7 (ERV)",
+    "connected_to": "James 5:8",
+    "connected_from": "James 5:6"
+  },
+  {
+    "text": "Be ye also patient; stablish your hearts: for the coming of the Lord is at hand.",
+    "reference": "James 5:8 (ERV)",
+    "connected_to": "James 5:9",
+    "connected_from": "James 5:7"
+  },
+  {
+    "text": "Murmur not, brethren, one against another, that ye be not judged: behold, the judge standeth before the doors.",
+    "reference": "James 5:9 (ERV)",
+    "connected_to": "James 5:10",
+    "connected_from": "James 5:8"
+  },
+  {
+    "text": "Take, brethren, for an example of suffering and of patience, the prophets who spake in the name of the Lord.",
+    "reference": "James 5:10 (ERV)",
+    "connected_to": "James 5:11",
+    "connected_from": "James 5:9"
+  },
+  {
+    "text": "Behold, we call them blessed which endured: ye have heard of the patience of Job, and have seen the end of the Lord, how that the Lord is full of pity, and merciful.",
+    "reference": "James 5:11 (ERV)",
+    "connected_to": "James 5:12",
+    "connected_from": "James 5:10"
+  },
+  {
+    "text": "But above all things, my brethren, swear not, neither by the heaven, nor by the earth, nor by any other oath: but let your yea be yea, and your nay, nay; that ye fall not under judgment.",
+    "reference": "James 5:12 (ERV)",
+    "connected_to": "James 5:13",
+    "connected_from": "James 5:11"
+  },
+  {
+    "text": "Is any among you suffering? let him pray. Is any cheerful? let him sing praise.",
+    "reference": "James 5:13 (ERV)",
+    "connected_to": "James 5:14",
+    "connected_from": "James 5:12"
+  },
+  {
+    "text": "Is any among you sick? let him call for the elders of the church; and let them pray over him, anointing him with oil in the name of the Lord:",
+    "reference": "James 5:14 (ERV)",
+    "connected_to": "James 5:15",
+    "connected_from": "James 5:13"
+  },
+  {
+    "text": "and the prayer of faith shall save him that is sick, and the Lord shall raise him up; and if he have committed sins, it shall be forgiven him.",
+    "reference": "James 5:15 (ERV)",
+    "connected_to": "James 5:16",
+    "connected_from": "James 5:14"
+  },
+  {
+    "text": "Confess therefore your sins one to another, and pray one for another, that ye may be healed. The supplication of a righteous man availeth much in its working.",
+    "reference": "James 5:16 (ERV)",
+    "connected_to": "James 5:17",
+    "connected_from": "James 5:15"
+  },
+  {
+    "text": "Elijah was a man of like passions with us, and he prayed fervently that it might not rain; and it rained not on the earth for three years and six months.",
+    "reference": "James 5:17 (ERV)",
+    "connected_to": "James 5:18",
+    "connected_from": "James 5:16"
+  },
+  {
+    "text": "And he prayed again; and the heaven gave rain, and the earth brought forth her fruit.",
+    "reference": "James 5:18 (ERV)",
+    "connected_to": "James 5:19",
+    "connected_from": "James 5:17"
+  },
+  {
+    "text": "My brethren, if any among you do err from the truth, and one convert him;",
+    "reference": "James 5:19 (ERV)",
+    "connected_to": "James 5:20",
+    "connected_from": "James 5:18"
+  },
+  {
+    "text": "let him know, that he which converteth a sinner from the error of his way shall save a soul from death, and shall cover a multitude of sins.",
+    "reference": "James 5:20 (ERV)",
+    "connected_from": "James 5:19"
+  }
+]

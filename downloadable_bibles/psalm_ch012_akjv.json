@@ -1,0 +1,48 @@
+[
+  {
+    "text": "Help, LORD; for the godly man ceases; for the faithful fail from among the children of men.",
+    "reference": "Psalm 12:1 (AKJV)",
+    "connected_to": "Psalm 12:2"
+  },
+  {
+    "text": "They speak vanity every one with his neighbor: with flattering lips and with a double heart do they speak.",
+    "reference": "Psalm 12:2 (AKJV)",
+    "connected_to": "Psalm 12:3",
+    "connected_from": "Psalm 12:1"
+  },
+  {
+    "text": "The LORD shall cut off all flattering lips, and the tongue that speaks proud things:",
+    "reference": "Psalm 12:3 (AKJV)",
+    "connected_to": "Psalm 12:4",
+    "connected_from": "Psalm 12:2"
+  },
+  {
+    "text": "Who have said, With our tongue will we prevail; our lips are our own: who is lord over us?",
+    "reference": "Psalm 12:4 (AKJV)",
+    "connected_to": "Psalm 12:5",
+    "connected_from": "Psalm 12:3"
+  },
+  {
+    "text": "For the oppression of the poor, for the sighing of the needy, now will I arise, said the LORD; I will set him in safety from him that puffs at him.",
+    "reference": "Psalm 12:5 (AKJV)",
+    "connected_to": "Psalm 12:6",
+    "connected_from": "Psalm 12:4"
+  },
+  {
+    "text": "The words of the LORD are pure words: as silver tried in a furnace of earth, purified seven times.",
+    "reference": "Psalm 12:6 (AKJV)",
+    "connected_to": "Psalm 12:7",
+    "connected_from": "Psalm 12:5"
+  },
+  {
+    "text": "You shall keep them, O LORD, you shall preserve them from this generation for ever.",
+    "reference": "Psalm 12:7 (AKJV)",
+    "connected_to": "Psalm 12:8",
+    "connected_from": "Psalm 12:6"
+  },
+  {
+    "text": "The wicked walk on every side, when the vilest men are exalted.",
+    "reference": "Psalm 12:8 (AKJV)",
+    "connected_from": "Psalm 12:7"
+  }
+]

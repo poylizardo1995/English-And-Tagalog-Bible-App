@@ -1,0 +1,342 @@
+[
+  {
+    "text": "And Jehovah spake unto Moses, saying,",
+    "reference": "Leviticus 14:1 (ASV)",
+    "connected_to": "Leviticus 14:2"
+  },
+  {
+    "text": "This shall be the law of the leper in the day of his cleansing: he shall be brought unto the priest:",
+    "reference": "Leviticus 14:2 (ASV)",
+    "connected_to": "Leviticus 14:3",
+    "connected_from": "Leviticus 14:1"
+  },
+  {
+    "text": "and the priest shall go forth out of the camp; and the priest shall look; and, behold, if the plague of leprosy be healed in the leper,",
+    "reference": "Leviticus 14:3 (ASV)",
+    "connected_to": "Leviticus 14:4",
+    "connected_from": "Leviticus 14:2"
+  },
+  {
+    "text": "then shall the priest command to take for him that is to be cleansed two living clean birds, and cedar wood, and scarlet, and hyssop:",
+    "reference": "Leviticus 14:4 (ASV)",
+    "connected_to": "Leviticus 14:5",
+    "connected_from": "Leviticus 14:3"
+  },
+  {
+    "text": "and the priest shall command to kill one of the birds in an earthen vessel over running water.",
+    "reference": "Leviticus 14:5 (ASV)",
+    "connected_to": "Leviticus 14:6",
+    "connected_from": "Leviticus 14:4"
+  },
+  {
+    "text": "As for the living bird, he shall take it, and the cedar wood, and the scarlet, and the hyssop, and shall dip them and the living bird in the blood of the bird that was killed over the running water:",
+    "reference": "Leviticus 14:6 (ASV)",
+    "connected_to": "Leviticus 14:7",
+    "connected_from": "Leviticus 14:5"
+  },
+  {
+    "text": "and he shall sprinkle upon him that is to be cleansed from the leprosy seven times, and shall pronounce him clean, and shall let go the living bird into the open field.",
+    "reference": "Leviticus 14:7 (ASV)",
+    "connected_to": "Leviticus 14:8",
+    "connected_from": "Leviticus 14:6"
+  },
+  {
+    "text": "And he that is to be cleansed shall wash his clothes, and shave off all his hair, and bathe himself in water; and he shall be clean: and after that he shall come into the camp, but shall dwell outside his tent seven days.",
+    "reference": "Leviticus 14:8 (ASV)",
+    "connected_to": "Leviticus 14:9",
+    "connected_from": "Leviticus 14:7"
+  },
+  {
+    "text": "And it shall be on the seventh day, that he shall shave all his hair off his head and his beard and his eyebrows, even all his hair he shall shave off: and he shall wash his clothes, and he shall bathe his flesh in water, and he shall be clean.",
+    "reference": "Leviticus 14:9 (ASV)",
+    "connected_to": "Leviticus 14:10",
+    "connected_from": "Leviticus 14:8"
+  },
+  {
+    "text": "And on the eighth day he shall take two he-lambs without blemish, and one ewe-lamb a year old without blemish, and three tenth parts of an ephah of fine flour for a meal-offering, mingled with oil, and one log of oil.",
+    "reference": "Leviticus 14:10 (ASV)",
+    "connected_to": "Leviticus 14:11",
+    "connected_from": "Leviticus 14:9"
+  },
+  {
+    "text": "And the priest that cleanseth him shall set the man that is to be cleansed, and those things, before Jehovah, at the door of the tent of meeting.",
+    "reference": "Leviticus 14:11 (ASV)",
+    "connected_to": "Leviticus 14:12",
+    "connected_from": "Leviticus 14:10"
+  },
+  {
+    "text": "And the priest shall take one of the he-lambs, and offer him for a trespass-offering, and the log of oil, and wave them for a wave-offering before Jehovah:",
+    "reference": "Leviticus 14:12 (ASV)",
+    "connected_to": "Leviticus 14:13",
+    "connected_from": "Leviticus 14:11"
+  },
+  {
+    "text": "and he shall kill the he-lamb in the place where they kill the sin-offering and the burnt-offering, in the place of the sanctuary: for as the sin-offering is the priest’s, so is the trespass-offering: it is most holy.",
+    "reference": "Leviticus 14:13 (ASV)",
+    "connected_to": "Leviticus 14:14",
+    "connected_from": "Leviticus 14:12"
+  },
+  {
+    "text": "And the priest shall take of the blood of the trespass-offering, and the priest shall put it upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot.",
+    "reference": "Leviticus 14:14 (ASV)",
+    "connected_to": "Leviticus 14:15",
+    "connected_from": "Leviticus 14:13"
+  },
+  {
+    "text": "And the priest shall take of the log of oil, and pour it into the palm of his own left hand;",
+    "reference": "Leviticus 14:15 (ASV)",
+    "connected_to": "Leviticus 14:16",
+    "connected_from": "Leviticus 14:14"
+  },
+  {
+    "text": "and the priest shall dip his right finger in the oil that is in his left hand, and shall sprinkle of the oil with his finger seven times before Jehovah.",
+    "reference": "Leviticus 14:16 (ASV)",
+    "connected_to": "Leviticus 14:17",
+    "connected_from": "Leviticus 14:15"
+  },
+  {
+    "text": "And of the rest of the oil that is in his hand shall the priest put upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot, upon the blood of the trespass-offering:",
+    "reference": "Leviticus 14:17 (ASV)",
+    "connected_to": "Leviticus 14:18",
+    "connected_from": "Leviticus 14:16"
+  },
+  {
+    "text": "and the rest of the oil that is in the priest’s hand he shall put upon the head of him that is to be cleansed: and the priest shall make atonement for him before Jehovah.",
+    "reference": "Leviticus 14:18 (ASV)",
+    "connected_to": "Leviticus 14:19",
+    "connected_from": "Leviticus 14:17"
+  },
+  {
+    "text": "And the priest shall offer the sin-offering, and make atonement for him that is to be cleansed because of his uncleanness: and afterward he shall kill the burnt-offering;",
+    "reference": "Leviticus 14:19 (ASV)",
+    "connected_to": "Leviticus 14:20",
+    "connected_from": "Leviticus 14:18"
+  },
+  {
+    "text": "and the priest shall offer the burnt-offering and the meal-offering upon the altar: and the priest shall make atonement for him, and he shall be clean.",
+    "reference": "Leviticus 14:20 (ASV)",
+    "connected_to": "Leviticus 14:21",
+    "connected_from": "Leviticus 14:19"
+  },
+  {
+    "text": "And if he be poor, and cannot get so much, then he shall take one he-lamb for a trespass-offering to be waved, to make atonement for him, and one tenth part of an ephah of fine flour mingled with oil for a meal-offering, and a log of oil;",
+    "reference": "Leviticus 14:21 (ASV)",
+    "connected_to": "Leviticus 14:22",
+    "connected_from": "Leviticus 14:20"
+  },
+  {
+    "text": "and two turtle-doves, or two young pigeons, such as he is able to get; and the one shall be a sin-offering, and the other a burnt-offering.",
+    "reference": "Leviticus 14:22 (ASV)",
+    "connected_to": "Leviticus 14:23",
+    "connected_from": "Leviticus 14:21"
+  },
+  {
+    "text": "And on the eighth day he shall bring them for his cleansing unto the priest, unto the door of the tent of meeting, before Jehovah:",
+    "reference": "Leviticus 14:23 (ASV)",
+    "connected_to": "Leviticus 14:24",
+    "connected_from": "Leviticus 14:22"
+  },
+  {
+    "text": "and the priest shall take the lamb of the trespass-offering, and the log of oil, and the priest shall wave them for a wave-offering before Jehovah.",
+    "reference": "Leviticus 14:24 (ASV)",
+    "connected_to": "Leviticus 14:25",
+    "connected_from": "Leviticus 14:23"
+  },
+  {
+    "text": "And he shall kill the lamb of the trespass-offering; and the priest shall take of the blood of the trespass-offering, and put it upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot.",
+    "reference": "Leviticus 14:25 (ASV)",
+    "connected_to": "Leviticus 14:26",
+    "connected_from": "Leviticus 14:24"
+  },
+  {
+    "text": "And the priest shall pour of the oil into the palm of his own left hand;",
+    "reference": "Leviticus 14:26 (ASV)",
+    "connected_to": "Leviticus 14:27",
+    "connected_from": "Leviticus 14:25"
+  },
+  {
+    "text": "and the priest shall sprinkle with his right finger some of the oil that is in his left hand seven times before Jehovah:",
+    "reference": "Leviticus 14:27 (ASV)",
+    "connected_to": "Leviticus 14:28",
+    "connected_from": "Leviticus 14:26"
+  },
+  {
+    "text": "and the priest shall put of the oil that is in his hand upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot, upon the place of the blood of the trespass-offering:",
+    "reference": "Leviticus 14:28 (ASV)",
+    "connected_to": "Leviticus 14:29",
+    "connected_from": "Leviticus 14:27"
+  },
+  {
+    "text": "and the rest of the oil that is in the priest’s hand he shall put upon the head of him that is to be cleansed, to make atonement for him before Jehovah.",
+    "reference": "Leviticus 14:29 (ASV)",
+    "connected_to": "Leviticus 14:30",
+    "connected_from": "Leviticus 14:28"
+  },
+  {
+    "text": "And he shall offer one of the turtle-doves, or of the young pigeons, such as he is able to get,",
+    "reference": "Leviticus 14:30 (ASV)",
+    "connected_to": "Leviticus 14:31",
+    "connected_from": "Leviticus 14:29"
+  },
+  {
+    "text": "even such as he is able to get, the one for a sin-offering, and the other for a burnt-offering, with the meal-offering: and the priest shall make atonement for him that is to be cleansed before Jehovah.",
+    "reference": "Leviticus 14:31 (ASV)",
+    "connected_to": "Leviticus 14:32",
+    "connected_from": "Leviticus 14:30"
+  },
+  {
+    "text": "This is the law of him in whom is the plague of leprosy, who is not able to get that which pertaineth to his cleansing.",
+    "reference": "Leviticus 14:32 (ASV)",
+    "connected_to": "Leviticus 14:33",
+    "connected_from": "Leviticus 14:31"
+  },
+  {
+    "text": "And Jehovah spake unto Moses and unto Aaron, saying,",
+    "reference": "Leviticus 14:33 (ASV)",
+    "connected_to": "Leviticus 14:34",
+    "connected_from": "Leviticus 14:32"
+  },
+  {
+    "text": "When ye are come into the land of Canaan, which I give to you for a possession, and I put the plague of leprosy in a house of the land of your possession;",
+    "reference": "Leviticus 14:34 (ASV)",
+    "connected_to": "Leviticus 14:35",
+    "connected_from": "Leviticus 14:33"
+  },
+  {
+    "text": "then he that owneth the house shall come and tell the priest, saying, There seemeth to me to be as it were a plague in the house.",
+    "reference": "Leviticus 14:35 (ASV)",
+    "connected_to": "Leviticus 14:36",
+    "connected_from": "Leviticus 14:34"
+  },
+  {
+    "text": "And the priest shall command that they empty the house, before the priest goeth in to see the plague, that all that is in the house be not made unclean: and afterward the priest shall go in to see the house:",
+    "reference": "Leviticus 14:36 (ASV)",
+    "connected_to": "Leviticus 14:37",
+    "connected_from": "Leviticus 14:35"
+  },
+  {
+    "text": "and he shall look on the plague; and, behold, if the plague be in the walls of the house with hollow streaks, greenish or reddish, and the appearance thereof be lower than the wall;",
+    "reference": "Leviticus 14:37 (ASV)",
+    "connected_to": "Leviticus 14:38",
+    "connected_from": "Leviticus 14:36"
+  },
+  {
+    "text": "then the priest shall go out of the house to the door of the house, and shut up the house seven days.",
+    "reference": "Leviticus 14:38 (ASV)",
+    "connected_to": "Leviticus 14:39",
+    "connected_from": "Leviticus 14:37"
+  },
+  {
+    "text": "And the priest shall come again the seventh day, and shall look; and, behold, if the plague be spread in the walls of the house;",
+    "reference": "Leviticus 14:39 (ASV)",
+    "connected_to": "Leviticus 14:40",
+    "connected_from": "Leviticus 14:38"
+  },
+  {
+    "text": "then the priest shall command that they take out the stones in which the plague is, and cast them into an unclean place without the city:",
+    "reference": "Leviticus 14:40 (ASV)",
+    "connected_to": "Leviticus 14:41",
+    "connected_from": "Leviticus 14:39"
+  },
+  {
+    "text": "and he shall cause the house to be scraped within round about, and they shall pour out the mortar, that they scrape off, without the city into an unclean place:",
+    "reference": "Leviticus 14:41 (ASV)",
+    "connected_to": "Leviticus 14:42",
+    "connected_from": "Leviticus 14:40"
+  },
+  {
+    "text": "and they shall take other stones, and put them in the place of those stones; and he shall take other mortar, and shall plaster the house.",
+    "reference": "Leviticus 14:42 (ASV)",
+    "connected_to": "Leviticus 14:43",
+    "connected_from": "Leviticus 14:41"
+  },
+  {
+    "text": "And if the plague come again, and break out in the house, after that he hath taken out the stones, and after he hath scraped the house, and after it is plastered;",
+    "reference": "Leviticus 14:43 (ASV)",
+    "connected_to": "Leviticus 14:44",
+    "connected_from": "Leviticus 14:42"
+  },
+  {
+    "text": "then the priest shall come in and look; and, behold, if the plague be spread in the house, it is a fretting leprosy in the house: it is unclean.",
+    "reference": "Leviticus 14:44 (ASV)",
+    "connected_to": "Leviticus 14:45",
+    "connected_from": "Leviticus 14:43"
+  },
+  {
+    "text": "And he shall break down the house, the stones of it, and the timber thereof, and all the mortar of the house; and he shall carry them forth out of the city into an unclean place.",
+    "reference": "Leviticus 14:45 (ASV)",
+    "connected_to": "Leviticus 14:46",
+    "connected_from": "Leviticus 14:44"
+  },
+  {
+    "text": "Moreover he that goeth into the house all the while that it is shut up shall be unclean until the even.",
+    "reference": "Leviticus 14:46 (ASV)",
+    "connected_to": "Leviticus 14:47",
+    "connected_from": "Leviticus 14:45"
+  },
+  {
+    "text": "And he that lieth in the house shall wash his clothes; and he that eateth in the house shall wash his clothes.",
+    "reference": "Leviticus 14:47 (ASV)",
+    "connected_to": "Leviticus 14:48",
+    "connected_from": "Leviticus 14:46"
+  },
+  {
+    "text": "And if the priest shall come in, and look, and, behold, the plague hath not spread in the house, after the house was plastered; then the priest shall pronounce the house clean, because the plague is healed.",
+    "reference": "Leviticus 14:48 (ASV)",
+    "connected_to": "Leviticus 14:49",
+    "connected_from": "Leviticus 14:47"
+  },
+  {
+    "text": "And he shall take to cleanse the house two birds, and cedar wood, and scarlet, and hyssop:",
+    "reference": "Leviticus 14:49 (ASV)",
+    "connected_to": "Leviticus 14:50",
+    "connected_from": "Leviticus 14:48"
+  },
+  {
+    "text": "and he shall kill one of the birds in an earthen vessel over running water:",
+    "reference": "Leviticus 14:50 (ASV)",
+    "connected_to": "Leviticus 14:51",
+    "connected_from": "Leviticus 14:49"
+  },
+  {
+    "text": "and he shall take the cedar wood, and the hyssop, and the scarlet, and the living bird, and dip them in the blood of the slain bird, and in the running water, and sprinkle the house seven times:",
+    "reference": "Leviticus 14:51 (ASV)",
+    "connected_to": "Leviticus 14:52",
+    "connected_from": "Leviticus 14:50"
+  },
+  {
+    "text": "and he shall cleanse the house with the blood of the bird, and with the running water, and with the living bird, and with the cedar wood, and with the hyssop, and with the scarlet:",
+    "reference": "Leviticus 14:52 (ASV)",
+    "connected_to": "Leviticus 14:53",
+    "connected_from": "Leviticus 14:51"
+  },
+  {
+    "text": "but he shall let go the living bird out of the city into the open field: so shall he make atonement for the house; and it shall be clean.",
+    "reference": "Leviticus 14:53 (ASV)",
+    "connected_to": "Leviticus 14:54",
+    "connected_from": "Leviticus 14:52"
+  },
+  {
+    "text": "This is the law for all manner of plague of leprosy, and for a scall,",
+    "reference": "Leviticus 14:54 (ASV)",
+    "connected_to": "Leviticus 14:55",
+    "connected_from": "Leviticus 14:53"
+  },
+  {
+    "text": "and for the leprosy of a garment, and for a house,",
+    "reference": "Leviticus 14:55 (ASV)",
+    "connected_to": "Leviticus 14:56",
+    "connected_from": "Leviticus 14:54"
+  },
+  {
+    "text": "and for a rising, and for a scab, and for a bright spot;",
+    "reference": "Leviticus 14:56 (ASV)",
+    "connected_to": "Leviticus 14:57",
+    "connected_from": "Leviticus 14:55"
+  },
+  {
+    "text": "to teach when it is unclean, and when it is clean: this is the law of leprosy.",
+    "reference": "Leviticus 14:57 (ASV)",
+    "connected_from": "Leviticus 14:56"
+  }
+]

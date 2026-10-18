@@ -1,0 +1,216 @@
+[
+  {
+    "text": "About that time Herod the Tetrarch heard of the fame of Jesus,",
+    "reference": "Matthew 14:1 (WNT)",
+    "connected_to": "Matthew 14:2"
+  },
+  {
+    "text": "and he said to his courtiers, “This is John the Baptist: he has come back to life—and that is why these miraculous Powers are working in him.”",
+    "reference": "Matthew 14:2 (WNT)",
+    "connected_to": "Matthew 14:3",
+    "connected_from": "Matthew 14:1"
+  },
+  {
+    "text": "For Herod had arrested John, and had put him in chains, and imprisoned him, for the sake of Herodias his brother Philip’s wife,",
+    "reference": "Matthew 14:3 (WNT)",
+    "connected_to": "Matthew 14:4",
+    "connected_from": "Matthew 14:2"
+  },
+  {
+    "text": "because John had persistently said to him, “It is not lawful for you to have her.”",
+    "reference": "Matthew 14:4 (WNT)",
+    "connected_to": "Matthew 14:5",
+    "connected_from": "Matthew 14:3"
+  },
+  {
+    "text": "And he would have liked to put him to death, but was afraid of the people, because they regarded John as a Prophet.",
+    "reference": "Matthew 14:5 (WNT)",
+    "connected_to": "Matthew 14:6",
+    "connected_from": "Matthew 14:4"
+  },
+  {
+    "text": "But when Herod’s birthday came, the daughter of Herodias danced before all the company, and so pleased Herod",
+    "reference": "Matthew 14:6 (WNT)",
+    "connected_to": "Matthew 14:7",
+    "connected_from": "Matthew 14:5"
+  },
+  {
+    "text": "that with an oath he promised to give her whatever she asked.",
+    "reference": "Matthew 14:7 (WNT)",
+    "connected_to": "Matthew 14:8",
+    "connected_from": "Matthew 14:6"
+  },
+  {
+    "text": "So she, instigated by her mother, said, “Give me here on a dish the head of John the Baptist.”",
+    "reference": "Matthew 14:8 (WNT)",
+    "connected_to": "Matthew 14:9",
+    "connected_from": "Matthew 14:7"
+  },
+  {
+    "text": "The king was deeply vexed, yet because of his repeated oath and of the guests at his table he ordered it to be given her,",
+    "reference": "Matthew 14:9 (WNT)",
+    "connected_to": "Matthew 14:10",
+    "connected_from": "Matthew 14:8"
+  },
+  {
+    "text": "and he sent and beheaded John in the prison.",
+    "reference": "Matthew 14:10 (WNT)",
+    "connected_to": "Matthew 14:11",
+    "connected_from": "Matthew 14:9"
+  },
+  {
+    "text": "The head was brought on a dish and given to the young girl, and she took it to her mother.",
+    "reference": "Matthew 14:11 (WNT)",
+    "connected_to": "Matthew 14:12",
+    "connected_from": "Matthew 14:10"
+  },
+  {
+    "text": "Then John’s disciples went and removed the body and buried it, and came and informed Jesus.",
+    "reference": "Matthew 14:12 (WNT)",
+    "connected_to": "Matthew 14:13",
+    "connected_from": "Matthew 14:11"
+  },
+  {
+    "text": "Upon receiving these tidings, Jesus went away by boat to an uninhabited and secluded district; but the people heard of it and followed Him in crowds from the towns by land.",
+    "reference": "Matthew 14:13 (WNT)",
+    "connected_to": "Matthew 14:14",
+    "connected_from": "Matthew 14:12"
+  },
+  {
+    "text": "So Jesus went out and saw an immense multitude, and felt compassion for them, and cured those of them who were out of health.",
+    "reference": "Matthew 14:14 (WNT)",
+    "connected_to": "Matthew 14:15",
+    "connected_from": "Matthew 14:13"
+  },
+  {
+    "text": "But when evening was come, the disciples came to Him and said, “This is an uninhabited place, and the best of the day is now gone; send the people away to go into the villages and buy something to eat.”",
+    "reference": "Matthew 14:15 (WNT)",
+    "connected_to": "Matthew 14:16",
+    "connected_from": "Matthew 14:14"
+  },
+  {
+    "text": "“They need not go away,” replied Jesus; “you yourselves must give them something to eat.”",
+    "reference": "Matthew 14:16 (WNT)",
+    "connected_to": "Matthew 14:17",
+    "connected_from": "Matthew 14:15"
+  },
+  {
+    "text": "“We have nothing here,” they said, “but five loaves and a couple of fish.”",
+    "reference": "Matthew 14:17 (WNT)",
+    "connected_to": "Matthew 14:18",
+    "connected_from": "Matthew 14:16"
+  },
+  {
+    "text": "“Bring them here to me,” He said,",
+    "reference": "Matthew 14:18 (WNT)",
+    "connected_to": "Matthew 14:19",
+    "connected_from": "Matthew 14:17"
+  },
+  {
+    "text": "and He told all the people to sit down on the grass. Then He took the five loaves and the two fish, and after looking up to heaven and blessing them, He broke up the loaves and gave them to the disciples, and the disciples distributed them to the people.",
+    "reference": "Matthew 14:19 (WNT)",
+    "connected_to": "Matthew 14:20",
+    "connected_from": "Matthew 14:18"
+  },
+  {
+    "text": "So all ate, and were fully satisfied. The broken portions that remained over they gathered up, filling twelve baskets.",
+    "reference": "Matthew 14:20 (WNT)",
+    "connected_to": "Matthew 14:21",
+    "connected_from": "Matthew 14:19"
+  },
+  {
+    "text": "Those who had eaten were about 5,000 adult men, without reckoning women and children.",
+    "reference": "Matthew 14:21 (WNT)",
+    "connected_to": "Matthew 14:22",
+    "connected_from": "Matthew 14:20"
+  },
+  {
+    "text": "Immediately afterwards He made the disciples go on board the boat and cross to the opposite shore, leaving Him to dismiss the people.",
+    "reference": "Matthew 14:22 (WNT)",
+    "connected_to": "Matthew 14:23",
+    "connected_from": "Matthew 14:21"
+  },
+  {
+    "text": "When He had done this, He climbed the hill to pray in solitude. Night came on, and he was there alone.",
+    "reference": "Matthew 14:23 (WNT)",
+    "connected_to": "Matthew 14:24",
+    "connected_from": "Matthew 14:22"
+  },
+  {
+    "text": "Meanwhile the boat was far out on the Lake, buffeted and tossed by the waves, the wind being adverse.",
+    "reference": "Matthew 14:24 (WNT)",
+    "connected_to": "Matthew 14:25",
+    "connected_from": "Matthew 14:23"
+  },
+  {
+    "text": "But towards daybreak He went to them, walking over the waves.",
+    "reference": "Matthew 14:25 (WNT)",
+    "connected_to": "Matthew 14:26",
+    "connected_from": "Matthew 14:24"
+  },
+  {
+    "text": "When the disciples saw Him walking on the waves, they were greatly alarmed. “It is a spirit,” they exclaimed, and they cried out with terror.",
+    "reference": "Matthew 14:26 (WNT)",
+    "connected_to": "Matthew 14:27",
+    "connected_from": "Matthew 14:25"
+  },
+  {
+    "text": "But instantly Jesus spoke to them, and said, “There is no danger; it is I; do not be afraid.”",
+    "reference": "Matthew 14:27 (WNT)",
+    "connected_to": "Matthew 14:28",
+    "connected_from": "Matthew 14:26"
+  },
+  {
+    "text": "“Master,” answered Peter, “if it is you, bid me come to you upon the water.”",
+    "reference": "Matthew 14:28 (WNT)",
+    "connected_to": "Matthew 14:29",
+    "connected_from": "Matthew 14:27"
+  },
+  {
+    "text": "“Come,” said Jesus. Then Peter climbed down from the boat and walked upon the water to go to Him.",
+    "reference": "Matthew 14:29 (WNT)",
+    "connected_to": "Matthew 14:30",
+    "connected_from": "Matthew 14:28"
+  },
+  {
+    "text": "But when he felt the wind he grew frightened, and beginning to sink he cried out, “Master, save me.”",
+    "reference": "Matthew 14:30 (WNT)",
+    "connected_to": "Matthew 14:31",
+    "connected_from": "Matthew 14:29"
+  },
+  {
+    "text": "Instantly Jesus stretched out His hand and caught hold of him, saying to him, “O little faith, why did you doubt?”",
+    "reference": "Matthew 14:31 (WNT)",
+    "connected_to": "Matthew 14:32",
+    "connected_from": "Matthew 14:30"
+  },
+  {
+    "text": "So they climbed into the boat, and the wind lulled;",
+    "reference": "Matthew 14:32 (WNT)",
+    "connected_to": "Matthew 14:33",
+    "connected_from": "Matthew 14:31"
+  },
+  {
+    "text": "and the men on board fell down before him and said, “You are indeed God’s Son.”",
+    "reference": "Matthew 14:33 (WNT)",
+    "connected_to": "Matthew 14:34",
+    "connected_from": "Matthew 14:32"
+  },
+  {
+    "text": "When they had quite crossed over, they put ashore at Gennesaret;",
+    "reference": "Matthew 14:34 (WNT)",
+    "connected_to": "Matthew 14:35",
+    "connected_from": "Matthew 14:33"
+  },
+  {
+    "text": "and the men of the place, recognizing Him, sent word into all the country round. So they brought all the sick to Him,",
+    "reference": "Matthew 14:35 (WNT)",
+    "connected_to": "Matthew 14:36",
+    "connected_from": "Matthew 14:34"
+  },
+  {
+    "text": "and they entreated Him that they might but touch the tassel of His outer garment; and all who did so were restored to perfect health.",
+    "reference": "Matthew 14:36 (WNT)",
+    "connected_from": "Matthew 14:35"
+  }
+]

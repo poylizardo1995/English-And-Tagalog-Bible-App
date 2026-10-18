@@ -1,0 +1,66 @@
+[
+  {
+    "text": "In my bed by night I sought him whom my soul loveth: I sought him, and found him not.",
+    "reference": "Song of Solomon 3:1 (DRB)",
+    "connected_to": "Song of Solomon 3:2"
+  },
+  {
+    "text": "I will rise, and will go about the city: in the streets and the broad ways I will seek him whom my soul loveth: I sought him, and I found him not.",
+    "reference": "Song of Solomon 3:2 (DRB)",
+    "connected_to": "Song of Solomon 3:3",
+    "connected_from": "Song of Solomon 3:1"
+  },
+  {
+    "text": "The watchmen who keep the city, found me: Have you seen him, whom my soul loveth?",
+    "reference": "Song of Solomon 3:3 (DRB)",
+    "connected_to": "Song of Solomon 3:4",
+    "connected_from": "Song of Solomon 3:2"
+  },
+  {
+    "text": "When I had a little passed by them, I found him whom my soul loveth: I held him: and I will not let him go, till I bring him into my mother’s house, and into the chamber of her that bore me.",
+    "reference": "Song of Solomon 3:4 (DRB)",
+    "connected_to": "Song of Solomon 3:5",
+    "connected_from": "Song of Solomon 3:3"
+  },
+  {
+    "text": "I adjure you, O daughters of Jerusalem, by the roes and the harts of the fields, that you stir not up, nor awake my beloved, till she please.",
+    "reference": "Song of Solomon 3:5 (DRB)",
+    "connected_to": "Song of Solomon 3:6",
+    "connected_from": "Song of Solomon 3:4"
+  },
+  {
+    "text": "Who is she that goeth up by the desert, as a pillar of smoke of aromatical spices, of myrrh, and frankincense, and of all the powders of the perfumer?",
+    "reference": "Song of Solomon 3:6 (DRB)",
+    "connected_to": "Song of Solomon 3:7",
+    "connected_from": "Song of Solomon 3:5"
+  },
+  {
+    "text": "Behold threescore valiant ones of the most valiant of Israel, surrounded the bed of Solomon?",
+    "reference": "Song of Solomon 3:7 (DRB)",
+    "connected_to": "Song of Solomon 3:8",
+    "connected_from": "Song of Solomon 3:6"
+  },
+  {
+    "text": "All holding swords, and most expert in war : every man’s sword upon his thigh, because of fears in the night.",
+    "reference": "Song of Solomon 3:8 (DRB)",
+    "connected_to": "Song of Solomon 3:9",
+    "connected_from": "Song of Solomon 3:7"
+  },
+  {
+    "text": "King Solomon hath made him a litter of the wood of Libanus:",
+    "reference": "Song of Solomon 3:9 (DRB)",
+    "connected_to": "Song of Solomon 3:10",
+    "connected_from": "Song of Solomon 3:8"
+  },
+  {
+    "text": "The pillars thereof he made of silver, the seat of gold, the going up of purple : the midst he covered with charity for the daughters of Jerusalem.",
+    "reference": "Song of Solomon 3:10 (DRB)",
+    "connected_to": "Song of Solomon 3:11",
+    "connected_from": "Song of Solomon 3:9"
+  },
+  {
+    "text": "Go forth, ye daughters of Sion, and see king Solomon in the diadem, wherewith his mother crowned him in the day of his espousals, and in the day of the joy of his heart.",
+    "reference": "Song of Solomon 3:11 (DRB)",
+    "connected_from": "Song of Solomon 3:10"
+  }
+]

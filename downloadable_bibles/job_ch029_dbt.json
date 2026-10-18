@@ -1,0 +1,150 @@
+[
+  {
+    "text": "And Job continued his parable and said,",
+    "reference": "Job 29:1 (DBT)",
+    "connected_to": "Job 29:2"
+  },
+  {
+    "text": "Oh that I were as in months past, as in the days when +God preserved me;",
+    "reference": "Job 29:2 (DBT)",
+    "connected_to": "Job 29:3",
+    "connected_from": "Job 29:1"
+  },
+  {
+    "text": "When his lamp shone over my head, [and] by his light I walked through darkness;",
+    "reference": "Job 29:3 (DBT)",
+    "connected_to": "Job 29:4",
+    "connected_from": "Job 29:2"
+  },
+  {
+    "text": "As I was in the days of my youth, when the secret counsel of +God was over my tent,",
+    "reference": "Job 29:4 (DBT)",
+    "connected_to": "Job 29:5",
+    "connected_from": "Job 29:3"
+  },
+  {
+    "text": "When the Almighty was yet with me, my young men round about me;",
+    "reference": "Job 29:5 (DBT)",
+    "connected_to": "Job 29:6",
+    "connected_from": "Job 29:4"
+  },
+  {
+    "text": "When my steps were bathed in milk, and the rock poured out beside me rivers of oil!...",
+    "reference": "Job 29:6 (DBT)",
+    "connected_to": "Job 29:7",
+    "connected_from": "Job 29:5"
+  },
+  {
+    "text": "When I went out to the gate by the city, when I prepared my seat on the broadway,",
+    "reference": "Job 29:7 (DBT)",
+    "connected_to": "Job 29:8",
+    "connected_from": "Job 29:6"
+  },
+  {
+    "text": "The young men saw me, and hid themselves; and the aged arose [and] stood up;",
+    "reference": "Job 29:8 (DBT)",
+    "connected_to": "Job 29:9",
+    "connected_from": "Job 29:7"
+  },
+  {
+    "text": "Princes refrained from talking, and laid the hand on their mouth;",
+    "reference": "Job 29:9 (DBT)",
+    "connected_to": "Job 29:10",
+    "connected_from": "Job 29:8"
+  },
+  {
+    "text": "The voice of the nobles was hushed, and their tongue cleaved to their palate.",
+    "reference": "Job 29:10 (DBT)",
+    "connected_to": "Job 29:11",
+    "connected_from": "Job 29:9"
+  },
+  {
+    "text": "When the ear heard [me], then it blessed me, and when the eye saw [me], it gave witness to me;",
+    "reference": "Job 29:11 (DBT)",
+    "connected_to": "Job 29:12",
+    "connected_from": "Job 29:10"
+  },
+  {
+    "text": "For I delivered the afflicted that cried, and the fatherless who had no helper.",
+    "reference": "Job 29:12 (DBT)",
+    "connected_to": "Job 29:13",
+    "connected_from": "Job 29:11"
+  },
+  {
+    "text": "The blessing of him that was perishing came upon me, and I caused the widow’s heart to sing for joy.",
+    "reference": "Job 29:13 (DBT)",
+    "connected_to": "Job 29:14",
+    "connected_from": "Job 29:12"
+  },
+  {
+    "text": "I put on righteousness, and it clothed me; my justice was as a mantle and a turban.",
+    "reference": "Job 29:14 (DBT)",
+    "connected_to": "Job 29:15",
+    "connected_from": "Job 29:13"
+  },
+  {
+    "text": "I was eyes to the blind, and feet was I to the lame;",
+    "reference": "Job 29:15 (DBT)",
+    "connected_to": "Job 29:16",
+    "connected_from": "Job 29:14"
+  },
+  {
+    "text": "I was a father to the needy, and the cause which I knew not I searched out;",
+    "reference": "Job 29:16 (DBT)",
+    "connected_to": "Job 29:17",
+    "connected_from": "Job 29:15"
+  },
+  {
+    "text": "And I broke the jaws of the unrighteous, and plucked the spoil out of his teeth.",
+    "reference": "Job 29:17 (DBT)",
+    "connected_to": "Job 29:18",
+    "connected_from": "Job 29:16"
+  },
+  {
+    "text": "And I said, I shall die in my nest, and multiply my days as the sand;",
+    "reference": "Job 29:18 (DBT)",
+    "connected_to": "Job 29:19",
+    "connected_from": "Job 29:17"
+  },
+  {
+    "text": "My root shall be spread out to the waters, and the dew will lie all night on my branch;",
+    "reference": "Job 29:19 (DBT)",
+    "connected_to": "Job 29:20",
+    "connected_from": "Job 29:18"
+  },
+  {
+    "text": "My glory shall be fresh in me, and my bow be renewed in my hand.",
+    "reference": "Job 29:20 (DBT)",
+    "connected_to": "Job 29:21",
+    "connected_from": "Job 29:19"
+  },
+  {
+    "text": "Unto me they listened, and waited, and kept silence for my counsel:",
+    "reference": "Job 29:21 (DBT)",
+    "connected_to": "Job 29:22",
+    "connected_from": "Job 29:20"
+  },
+  {
+    "text": "After my words they spoke not again, and my speech dropped upon them;",
+    "reference": "Job 29:22 (DBT)",
+    "connected_to": "Job 29:23",
+    "connected_from": "Job 29:21"
+  },
+  {
+    "text": "And they waited for me as for the rain, and they opened their mouth wide as for the latter rain.",
+    "reference": "Job 29:23 (DBT)",
+    "connected_to": "Job 29:24",
+    "connected_from": "Job 29:22"
+  },
+  {
+    "text": "[If] I laughed on them, they believed [it] not; and they troubled not the serenity of my countenance.",
+    "reference": "Job 29:24 (DBT)",
+    "connected_to": "Job 29:25",
+    "connected_from": "Job 29:23"
+  },
+  {
+    "text": "I chose their way, and sat as chief, and dwelt as a king in the army, as one that comforteth mourners.",
+    "reference": "Job 29:25 (DBT)",
+    "connected_from": "Job 29:24"
+  }
+]

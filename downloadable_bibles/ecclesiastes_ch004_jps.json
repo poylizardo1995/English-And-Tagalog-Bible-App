@@ -1,0 +1,96 @@
+[
+  {
+    "text": "But I returned and considered all the oppressions that are done under the sun; and behold the tears of such as were oppressed, and they had no comforter; and on the side of their oppressors there was power, but they had no comforter.",
+    "reference": "Ecclesiastes 4:1 (JPS)",
+    "connected_to": "Ecclesiastes 4:2"
+  },
+  {
+    "text": "Wherefore I praised the dead that are already dead more than the living that are yet alive;",
+    "reference": "Ecclesiastes 4:2 (JPS)",
+    "connected_to": "Ecclesiastes 4:3",
+    "connected_from": "Ecclesiastes 4:1"
+  },
+  {
+    "text": "but better than they both is he that hath not yet been, who hath not seen the evil work that is done under the sun.",
+    "reference": "Ecclesiastes 4:3 (JPS)",
+    "connected_to": "Ecclesiastes 4:4",
+    "connected_from": "Ecclesiastes 4:2"
+  },
+  {
+    "text": "Again, I considered all labour and all excelling in work, that it is a man’s rivalry with his neighbour. This also is vanity and a striving after wind.",
+    "reference": "Ecclesiastes 4:4 (JPS)",
+    "connected_to": "Ecclesiastes 4:5",
+    "connected_from": "Ecclesiastes 4:3"
+  },
+  {
+    "text": "The fool foldeth his hands together, And eateth his own flesh.",
+    "reference": "Ecclesiastes 4:5 (JPS)",
+    "connected_to": "Ecclesiastes 4:6",
+    "connected_from": "Ecclesiastes 4:4"
+  },
+  {
+    "text": "Better is a handful of quietness, Than both the hands full of labour and striving after wind.",
+    "reference": "Ecclesiastes 4:6 (JPS)",
+    "connected_to": "Ecclesiastes 4:7",
+    "connected_from": "Ecclesiastes 4:5"
+  },
+  {
+    "text": "Then I returned and saw vanity under the sun.",
+    "reference": "Ecclesiastes 4:7 (JPS)",
+    "connected_to": "Ecclesiastes 4:8",
+    "connected_from": "Ecclesiastes 4:6"
+  },
+  {
+    "text": "There is one that is alone, and he hath not a second; yea, he hath neither son nor brother; yet is there no end of all his labour, neither is his eye satisfied with riches: ‘for whom then do I labour, and bereave my soul of pleasure?’ This also is vanity, yea, it is a grievous business.",
+    "reference": "Ecclesiastes 4:8 (JPS)",
+    "connected_to": "Ecclesiastes 4:9",
+    "connected_from": "Ecclesiastes 4:7"
+  },
+  {
+    "text": "Two are better than one; because they have a good reward for their labour.",
+    "reference": "Ecclesiastes 4:9 (JPS)",
+    "connected_to": "Ecclesiastes 4:10",
+    "connected_from": "Ecclesiastes 4:8"
+  },
+  {
+    "text": "For if they fall, the one will lift up his fellow; but woe to him that is alone when he falleth, and hath not another to lift him up.",
+    "reference": "Ecclesiastes 4:10 (JPS)",
+    "connected_to": "Ecclesiastes 4:11",
+    "connected_from": "Ecclesiastes 4:9"
+  },
+  {
+    "text": "Again, if two lie together, then they have warmth; but how can one be warm alone?",
+    "reference": "Ecclesiastes 4:11 (JPS)",
+    "connected_to": "Ecclesiastes 4:12",
+    "connected_from": "Ecclesiastes 4:10"
+  },
+  {
+    "text": "And if a man prevail against him that is alone, two shall withstand him; and a threefold cord is not quickly broken.",
+    "reference": "Ecclesiastes 4:12 (JPS)",
+    "connected_to": "Ecclesiastes 4:13",
+    "connected_from": "Ecclesiastes 4:11"
+  },
+  {
+    "text": "Better is a poor and wise child than an old and foolish king, who knoweth not how to receive admonition any more.",
+    "reference": "Ecclesiastes 4:13 (JPS)",
+    "connected_to": "Ecclesiastes 4:14",
+    "connected_from": "Ecclesiastes 4:12"
+  },
+  {
+    "text": "For out of prison he came forth to be king; although in his kingdom he was born poor.",
+    "reference": "Ecclesiastes 4:14 (JPS)",
+    "connected_to": "Ecclesiastes 4:15",
+    "connected_from": "Ecclesiastes 4:13"
+  },
+  {
+    "text": "I saw all the living that walk under the sun, that they were with the child, the second, that was to stand up in his stead.",
+    "reference": "Ecclesiastes 4:15 (JPS)",
+    "connected_to": "Ecclesiastes 4:16",
+    "connected_from": "Ecclesiastes 4:14"
+  },
+  {
+    "text": "There was no end of all the people, even of all them whom he did lead; yet they that come after shall not rejoice in him. Surely this also is vanity and a striving after wind.",
+    "reference": "Ecclesiastes 4:16 (JPS)",
+    "connected_from": "Ecclesiastes 4:15"
+  }
+]

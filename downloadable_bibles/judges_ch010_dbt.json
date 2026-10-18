@@ -1,0 +1,108 @@
+[
+  {
+    "text": "And after Abimelech, there rose up to save Israel Tola the son of Puah, the son of Dodo, a man of Issachar; and he dwelt in Shamir on mount Ephraim.",
+    "reference": "Judges 10:1 (DBT)",
+    "connected_to": "Judges 10:2"
+  },
+  {
+    "text": "And he judged Israel twenty-three years; and he died, and was buried in Shamir.",
+    "reference": "Judges 10:2 (DBT)",
+    "connected_to": "Judges 10:3",
+    "connected_from": "Judges 10:1"
+  },
+  {
+    "text": "And after him rose up Jair, a Gileadite; and he judged Israel twenty-two years.",
+    "reference": "Judges 10:3 (DBT)",
+    "connected_to": "Judges 10:4",
+    "connected_from": "Judges 10:2"
+  },
+  {
+    "text": "And he had thirty sons who rode on thirty ass colts; and they had thirty cities, which are called the villages of Jair to this day, which are in the land of Gilead.",
+    "reference": "Judges 10:4 (DBT)",
+    "connected_to": "Judges 10:5",
+    "connected_from": "Judges 10:3"
+  },
+  {
+    "text": "And Jair died, and was buried in Kamon.",
+    "reference": "Judges 10:5 (DBT)",
+    "connected_to": "Judges 10:6",
+    "connected_from": "Judges 10:4"
+  },
+  {
+    "text": "And the children of Israel again did evil in the sight of Jehovah, and served the Baals, and the Ashtoreths, and the gods of Syria, and the gods of Zidon, and the gods of Moab, and the gods of the children of Ammon, and the gods of the Philistines; and they forsook Jehovah, and served him not.",
+    "reference": "Judges 10:6 (DBT)",
+    "connected_to": "Judges 10:7",
+    "connected_from": "Judges 10:5"
+  },
+  {
+    "text": "And the anger of Jehovah was hot against Israel, and he sold him into the hand of the Philistines, and into the hand of the children of Ammon.",
+    "reference": "Judges 10:7 (DBT)",
+    "connected_to": "Judges 10:8",
+    "connected_from": "Judges 10:6"
+  },
+  {
+    "text": "And they oppressed and crushed the children of Israel in that year; eighteen years [they oppressed] all the children of Israel that were beyond the Jordan in the land of the Amorites, which is in Gilead.",
+    "reference": "Judges 10:8 (DBT)",
+    "connected_to": "Judges 10:9",
+    "connected_from": "Judges 10:7"
+  },
+  {
+    "text": "And the children of Ammon passed over the Jordan to fight also against Judah, and against Benjamin, and against the house of Ephraim; and Israel was greatly distressed.",
+    "reference": "Judges 10:9 (DBT)",
+    "connected_to": "Judges 10:10",
+    "connected_from": "Judges 10:8"
+  },
+  {
+    "text": "And the children of Israel cried to Jehovah, saying, We have sinned against thee, both because we have forsaken our God, and also served the Baals.",
+    "reference": "Judges 10:10 (DBT)",
+    "connected_to": "Judges 10:11",
+    "connected_from": "Judges 10:9"
+  },
+  {
+    "text": "And Jehovah said to the children of Israel, Did I not [save you] from the Egyptians, and from the Amorites, from the children of Ammon, and from the Philistines?",
+    "reference": "Judges 10:11 (DBT)",
+    "connected_to": "Judges 10:12",
+    "connected_from": "Judges 10:10"
+  },
+  {
+    "text": "The Zidonians also, and Amalek and Maon oppressed you, and ye cried to me, and I saved you out of their hand.",
+    "reference": "Judges 10:12 (DBT)",
+    "connected_to": "Judges 10:13",
+    "connected_from": "Judges 10:11"
+  },
+  {
+    "text": "But ye have forsaken me, and served other gods; therefore I will save you no more.",
+    "reference": "Judges 10:13 (DBT)",
+    "connected_to": "Judges 10:14",
+    "connected_from": "Judges 10:12"
+  },
+  {
+    "text": "Go and cry to the gods that ye have chosen: let them save you in the time of your trouble.",
+    "reference": "Judges 10:14 (DBT)",
+    "connected_to": "Judges 10:15",
+    "connected_from": "Judges 10:13"
+  },
+  {
+    "text": "And the children of Israel said to Jehovah, We have sinned. Do thou unto us according to all that is good in thy sight; only deliver us, we pray thee, this day.",
+    "reference": "Judges 10:15 (DBT)",
+    "connected_to": "Judges 10:16",
+    "connected_from": "Judges 10:14"
+  },
+  {
+    "text": "And they put away the strange gods from among them, and served Jehovah; and his soul was grieved for the misery of Israel.",
+    "reference": "Judges 10:16 (DBT)",
+    "connected_to": "Judges 10:17",
+    "connected_from": "Judges 10:15"
+  },
+  {
+    "text": "And the children of Ammon were called together and encamped in Gilead; and the children of Israel gathered together and encamped in Mizpeh.",
+    "reference": "Judges 10:17 (DBT)",
+    "connected_to": "Judges 10:18",
+    "connected_from": "Judges 10:16"
+  },
+  {
+    "text": "And the people, the chief men of Gilead, said one to another, Who is the man that will begin to fight against the children of Ammon? he shall be head over all the inhabitants of Gilead.",
+    "reference": "Judges 10:18 (DBT)",
+    "connected_from": "Judges 10:17"
+  }
+]

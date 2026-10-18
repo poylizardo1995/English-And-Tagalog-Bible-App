@@ -1,0 +1,132 @@
+[
+  {
+    "text": "A Psalm of David, for remembrance. O LORD, do not rebuke me in Your anger or discipline me in Your wrath.",
+    "reference": "Psalm 38:1 (BSB)",
+    "connected_to": "Psalm 38:2"
+  },
+  {
+    "text": "For Your arrows have pierced me deeply, and Your hand has pressed down on me.",
+    "reference": "Psalm 38:2 (BSB)",
+    "connected_to": "Psalm 38:3",
+    "connected_from": "Psalm 38:1"
+  },
+  {
+    "text": "There is no soundness in my body because of Your anger; there is no rest in my bones because of my sin.",
+    "reference": "Psalm 38:3 (BSB)",
+    "connected_to": "Psalm 38:4",
+    "connected_from": "Psalm 38:2"
+  },
+  {
+    "text": "For my iniquities have overwhelmed me; they are a burden too heavy to bear.",
+    "reference": "Psalm 38:4 (BSB)",
+    "connected_to": "Psalm 38:5",
+    "connected_from": "Psalm 38:3"
+  },
+  {
+    "text": "My wounds are foul and festering because of my sinful folly.",
+    "reference": "Psalm 38:5 (BSB)",
+    "connected_to": "Psalm 38:6",
+    "connected_from": "Psalm 38:4"
+  },
+  {
+    "text": "I am bent and brought low; all day long I go about mourning.",
+    "reference": "Psalm 38:6 (BSB)",
+    "connected_to": "Psalm 38:7",
+    "connected_from": "Psalm 38:5"
+  },
+  {
+    "text": "For my loins are full of burning pain, and no soundness remains in my body.",
+    "reference": "Psalm 38:7 (BSB)",
+    "connected_to": "Psalm 38:8",
+    "connected_from": "Psalm 38:6"
+  },
+  {
+    "text": "I am numb and badly crushed; I groan in anguish of heart.",
+    "reference": "Psalm 38:8 (BSB)",
+    "connected_to": "Psalm 38:9",
+    "connected_from": "Psalm 38:7"
+  },
+  {
+    "text": "O Lord, my every desire is before You; my groaning is not hidden from You.",
+    "reference": "Psalm 38:9 (BSB)",
+    "connected_to": "Psalm 38:10",
+    "connected_from": "Psalm 38:8"
+  },
+  {
+    "text": "My heart pounds, my strength fails, and even the light of my eyes has faded.",
+    "reference": "Psalm 38:10 (BSB)",
+    "connected_to": "Psalm 38:11",
+    "connected_from": "Psalm 38:9"
+  },
+  {
+    "text": "My beloved and friends shun my disease, and my kinsmen stand at a distance.",
+    "reference": "Psalm 38:11 (BSB)",
+    "connected_to": "Psalm 38:12",
+    "connected_from": "Psalm 38:10"
+  },
+  {
+    "text": "Those who seek my life lay snares; those who wish me harm speak destruction, plotting deceit all day long.",
+    "reference": "Psalm 38:12 (BSB)",
+    "connected_to": "Psalm 38:13",
+    "connected_from": "Psalm 38:11"
+  },
+  {
+    "text": "But like a deaf man, I do not hear; and like a mute man, I do not open my mouth.",
+    "reference": "Psalm 38:13 (BSB)",
+    "connected_to": "Psalm 38:14",
+    "connected_from": "Psalm 38:12"
+  },
+  {
+    "text": "I am like a man who cannot hear, whose mouth offers no reply.",
+    "reference": "Psalm 38:14 (BSB)",
+    "connected_to": "Psalm 38:15",
+    "connected_from": "Psalm 38:13"
+  },
+  {
+    "text": "I wait for You, O LORD; You will answer, O Lord my God.",
+    "reference": "Psalm 38:15 (BSB)",
+    "connected_to": "Psalm 38:16",
+    "connected_from": "Psalm 38:14"
+  },
+  {
+    "text": "For I said, “Let them not gloat over me—those who taunt me when my foot slips.”",
+    "reference": "Psalm 38:16 (BSB)",
+    "connected_to": "Psalm 38:17",
+    "connected_from": "Psalm 38:15"
+  },
+  {
+    "text": "For I am ready to fall, and my pain is ever with me.",
+    "reference": "Psalm 38:17 (BSB)",
+    "connected_to": "Psalm 38:18",
+    "connected_from": "Psalm 38:16"
+  },
+  {
+    "text": "Yes, I confess my iniquity; I am troubled by my sin.",
+    "reference": "Psalm 38:18 (BSB)",
+    "connected_to": "Psalm 38:19",
+    "connected_from": "Psalm 38:17"
+  },
+  {
+    "text": "Many are my enemies without cause, and many hate me without reason.",
+    "reference": "Psalm 38:19 (BSB)",
+    "connected_to": "Psalm 38:20",
+    "connected_from": "Psalm 38:18"
+  },
+  {
+    "text": "Those who repay my good with evil attack me for pursuing the good.",
+    "reference": "Psalm 38:20 (BSB)",
+    "connected_to": "Psalm 38:21",
+    "connected_from": "Psalm 38:19"
+  },
+  {
+    "text": "Do not forsake me, O LORD; be not far from me, O my God.",
+    "reference": "Psalm 38:21 (BSB)",
+    "connected_to": "Psalm 38:22",
+    "connected_from": "Psalm 38:20"
+  },
+  {
+    "text": "Come quickly to help me, O Lord my Savior.",
+    "reference": "Psalm 38:22 (BSB)",
+    "connected_from": "Psalm 38:21"
+  }
+]

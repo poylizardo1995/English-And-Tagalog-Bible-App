@@ -1,0 +1,240 @@
+[
+  {
+    "text": "I reached an agreement with my eyes, that I would not so much as think about a virgin.",
+    "reference": "Job 31:1 (CPDV)",
+    "connected_to": "Job 31:2"
+  },
+  {
+    "text": "For what portion should God from above hold for me, and what inheritance should the Almighty from on high keep?",
+    "reference": "Job 31:2 (CPDV)",
+    "connected_to": "Job 31:3",
+    "connected_from": "Job 31:1"
+  },
+  {
+    "text": "Is not destruction held for the wicked and repudiation kept for those who work injustice?",
+    "reference": "Job 31:3 (CPDV)",
+    "connected_to": "Job 31:4",
+    "connected_from": "Job 31:2"
+  },
+  {
+    "text": "Does he not examine my ways and number all my steps?",
+    "reference": "Job 31:4 (CPDV)",
+    "connected_to": "Job 31:5",
+    "connected_from": "Job 31:3"
+  },
+  {
+    "text": "If I have walked in vanity, or if my foot has hurried towards deceitfulness,",
+    "reference": "Job 31:5 (CPDV)",
+    "connected_to": "Job 31:6",
+    "connected_from": "Job 31:4"
+  },
+  {
+    "text": "let him weigh me in a just balance, and let God know my simplicity.",
+    "reference": "Job 31:6 (CPDV)",
+    "connected_to": "Job 31:7",
+    "connected_from": "Job 31:5"
+  },
+  {
+    "text": "If my steps have turned aside from the way, or if my heart has followed my eyes, or if a blemish has clung to my hands,",
+    "reference": "Job 31:7 (CPDV)",
+    "connected_to": "Job 31:8",
+    "connected_from": "Job 31:6"
+  },
+  {
+    "text": "then may I sow, and let another consume, and let my offspring be eradicated.",
+    "reference": "Job 31:8 (CPDV)",
+    "connected_to": "Job 31:9",
+    "connected_from": "Job 31:7"
+  },
+  {
+    "text": "If my heart has been deceived over a woman, or if I have waited in ambush at my friend’s door,",
+    "reference": "Job 31:9 (CPDV)",
+    "connected_to": "Job 31:10",
+    "connected_from": "Job 31:8"
+  },
+  {
+    "text": "then let my wife be the harlot of another, and let other men lean over her.",
+    "reference": "Job 31:10 (CPDV)",
+    "connected_to": "Job 31:11",
+    "connected_from": "Job 31:9"
+  },
+  {
+    "text": "For this is a crime and a very great injustice.",
+    "reference": "Job 31:11 (CPDV)",
+    "connected_to": "Job 31:12",
+    "connected_from": "Job 31:10"
+  },
+  {
+    "text": "It is a fire devouring all the way to perdition, and it roots out all that springs forth.",
+    "reference": "Job 31:12 (CPDV)",
+    "connected_to": "Job 31:13",
+    "connected_from": "Job 31:11"
+  },
+  {
+    "text": "If I have despised being subject to judgment with my servant or my maid, when they had any complaint against me,",
+    "reference": "Job 31:13 (CPDV)",
+    "connected_to": "Job 31:14",
+    "connected_from": "Job 31:12"
+  },
+  {
+    "text": "then what will I do when God rises to judge, and, when he inquires, how will I respond to him?",
+    "reference": "Job 31:14 (CPDV)",
+    "connected_to": "Job 31:15",
+    "connected_from": "Job 31:13"
+  },
+  {
+    "text": "Is not he who created me in the womb, also he who labored to make him? And did not one and the same form me in the womb?",
+    "reference": "Job 31:15 (CPDV)",
+    "connected_to": "Job 31:16",
+    "connected_from": "Job 31:14"
+  },
+  {
+    "text": "If I have denied the poor what they wanted and have made the eyes of the widow wait;",
+    "reference": "Job 31:16 (CPDV)",
+    "connected_to": "Job 31:17",
+    "connected_from": "Job 31:15"
+  },
+  {
+    "text": "if I have eaten my morsel of food alone, while orphans have not eaten from it;",
+    "reference": "Job 31:17 (CPDV)",
+    "connected_to": "Job 31:18",
+    "connected_from": "Job 31:16"
+  },
+  {
+    "text": "(for from my infancy mercy grew with me, and it came out with me from my mother’s womb;)",
+    "reference": "Job 31:18 (CPDV)",
+    "connected_to": "Job 31:19",
+    "connected_from": "Job 31:17"
+  },
+  {
+    "text": "if I have looked down on him who was perishing because he had no clothing and the poor without any covering,",
+    "reference": "Job 31:19 (CPDV)",
+    "connected_to": "Job 31:20",
+    "connected_from": "Job 31:18"
+  },
+  {
+    "text": "if his sides have not blessed me, and if he were not warmed with the fleece of my sheep;",
+    "reference": "Job 31:20 (CPDV)",
+    "connected_to": "Job 31:21",
+    "connected_from": "Job 31:19"
+  },
+  {
+    "text": "if I have lifted up my hand over an orphan, even when it might seem to me that I the advantage over him at the gate;",
+    "reference": "Job 31:21 (CPDV)",
+    "connected_to": "Job 31:22",
+    "connected_from": "Job 31:20"
+  },
+  {
+    "text": "then may my shoulder fall from its joint, and may my arm, with all its bones, be broken.",
+    "reference": "Job 31:22 (CPDV)",
+    "connected_to": "Job 31:23",
+    "connected_from": "Job 31:21"
+  },
+  {
+    "text": "For I have always feared God, like waves flowing over me, whose weight I was unable to bear.",
+    "reference": "Job 31:23 (CPDV)",
+    "connected_to": "Job 31:24",
+    "connected_from": "Job 31:22"
+  },
+  {
+    "text": "If I have considered gold to be my strength, or if I have called purified gold ‘my Trust;’",
+    "reference": "Job 31:24 (CPDV)",
+    "connected_to": "Job 31:25",
+    "connected_from": "Job 31:23"
+  },
+  {
+    "text": "if I have rejoiced over my great success, and over the many things my hand has obtained;",
+    "reference": "Job 31:25 (CPDV)",
+    "connected_to": "Job 31:26",
+    "connected_from": "Job 31:24"
+  },
+  {
+    "text": "if I gazed upon the sun when it shined and the moon advancing brightly,",
+    "reference": "Job 31:26 (CPDV)",
+    "connected_to": "Job 31:27",
+    "connected_from": "Job 31:25"
+  },
+  {
+    "text": "so that my heart rejoiced in secret and I kissed my hand with my mouth,",
+    "reference": "Job 31:27 (CPDV)",
+    "connected_to": "Job 31:28",
+    "connected_from": "Job 31:26"
+  },
+  {
+    "text": "which is a very great iniquity and a denial against the most high God;",
+    "reference": "Job 31:28 (CPDV)",
+    "connected_to": "Job 31:29",
+    "connected_from": "Job 31:27"
+  },
+  {
+    "text": "if I have been glad at the ruin of him who hated me and have exulted that evil found him,",
+    "reference": "Job 31:29 (CPDV)",
+    "connected_to": "Job 31:30",
+    "connected_from": "Job 31:28"
+  },
+  {
+    "text": "for I have not been given my throat to sin by asking for a curse on his soul;",
+    "reference": "Job 31:30 (CPDV)",
+    "connected_to": "Job 31:31",
+    "connected_from": "Job 31:29"
+  },
+  {
+    "text": "if the men around my tabernacle have not said: “He might give us some of his food, so that we will be filled,”",
+    "reference": "Job 31:31 (CPDV)",
+    "connected_to": "Job 31:32",
+    "connected_from": "Job 31:30"
+  },
+  {
+    "text": "for the foreigner did not remain at the door, my door was open to the traveler;",
+    "reference": "Job 31:32 (CPDV)",
+    "connected_to": "Job 31:33",
+    "connected_from": "Job 31:31"
+  },
+  {
+    "text": "if, as man does, I have hidden my sin and have concealed my iniquity in my bosom;",
+    "reference": "Job 31:33 (CPDV)",
+    "connected_to": "Job 31:34",
+    "connected_from": "Job 31:32"
+  },
+  {
+    "text": "if I became frightened by an excessive crowd, and the disrespect of close relatives alarmed me, so that I would much rather have remained silent or have gone out the door;",
+    "reference": "Job 31:34 (CPDV)",
+    "connected_to": "Job 31:35",
+    "connected_from": "Job 31:33"
+  },
+  {
+    "text": "then, would he grant me a hearing, so that the Almighty would listen to my desire, and he who judges would himself write a book,",
+    "reference": "Job 31:35 (CPDV)",
+    "connected_to": "Job 31:36",
+    "connected_from": "Job 31:34"
+  },
+  {
+    "text": "which I would then carry on my shoulder and wrap around me like a crown?",
+    "reference": "Job 31:36 (CPDV)",
+    "connected_to": "Job 31:37",
+    "connected_from": "Job 31:35"
+  },
+  {
+    "text": "With each of my steps, I would pronounce and offer it, as if to a prince.",
+    "reference": "Job 31:37 (CPDV)",
+    "connected_to": "Job 31:38",
+    "connected_from": "Job 31:36"
+  },
+  {
+    "text": "So, if my land cries out against me, and if its furrows weep with it,",
+    "reference": "Job 31:38 (CPDV)",
+    "connected_to": "Job 31:39",
+    "connected_from": "Job 31:37"
+  },
+  {
+    "text": "if I have used its fruits for nothing but money and have afflicted the souls of its tillers,",
+    "reference": "Job 31:39 (CPDV)",
+    "connected_to": "Job 31:40",
+    "connected_from": "Job 31:38"
+  },
+  {
+    "text": "then, may thistles spring forth for me instead of grain, and thorns instead of barley. (This ended the words of Job.)",
+    "reference": "Job 31:40 (CPDV)",
+    "connected_from": "Job 31:39"
+  }
+]

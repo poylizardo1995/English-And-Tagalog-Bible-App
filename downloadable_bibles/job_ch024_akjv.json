@@ -1,0 +1,150 @@
+[
+  {
+    "text": "Why, seeing times are not hidden from the Almighty, do they that know him not see his days?",
+    "reference": "Job 24:1 (AKJV)",
+    "connected_to": "Job 24:2"
+  },
+  {
+    "text": "Some remove the landmarks; they violently take away flocks, and feed thereof.",
+    "reference": "Job 24:2 (AKJV)",
+    "connected_to": "Job 24:3",
+    "connected_from": "Job 24:1"
+  },
+  {
+    "text": "They drive away the ass of the fatherless, they take the widow’s ox for a pledge.",
+    "reference": "Job 24:3 (AKJV)",
+    "connected_to": "Job 24:4",
+    "connected_from": "Job 24:2"
+  },
+  {
+    "text": "They turn the needy out of the way: the poor of the earth hide themselves together.",
+    "reference": "Job 24:4 (AKJV)",
+    "connected_to": "Job 24:5",
+    "connected_from": "Job 24:3"
+  },
+  {
+    "text": "Behold, as wild asses in the desert, go they forth to their work; rising betimes for a prey: the wilderness yields food for them and for their children.",
+    "reference": "Job 24:5 (AKJV)",
+    "connected_to": "Job 24:6",
+    "connected_from": "Job 24:4"
+  },
+  {
+    "text": "They reap every one his corn in the field: and they gather the vintage of the wicked.",
+    "reference": "Job 24:6 (AKJV)",
+    "connected_to": "Job 24:7",
+    "connected_from": "Job 24:5"
+  },
+  {
+    "text": "They cause the naked to lodge without clothing, that they have no covering in the cold.",
+    "reference": "Job 24:7 (AKJV)",
+    "connected_to": "Job 24:8",
+    "connected_from": "Job 24:6"
+  },
+  {
+    "text": "They are wet with the showers of the mountains, and embrace the rock for want of a shelter.",
+    "reference": "Job 24:8 (AKJV)",
+    "connected_to": "Job 24:9",
+    "connected_from": "Job 24:7"
+  },
+  {
+    "text": "They pluck the fatherless from the breast, and take a pledge of the poor.",
+    "reference": "Job 24:9 (AKJV)",
+    "connected_to": "Job 24:10",
+    "connected_from": "Job 24:8"
+  },
+  {
+    "text": "They cause him to go naked without clothing, and they take away the sheaf from the hungry;",
+    "reference": "Job 24:10 (AKJV)",
+    "connected_to": "Job 24:11",
+    "connected_from": "Job 24:9"
+  },
+  {
+    "text": "Which make oil within their walls, and tread their winepresses, and suffer thirst.",
+    "reference": "Job 24:11 (AKJV)",
+    "connected_to": "Job 24:12",
+    "connected_from": "Job 24:10"
+  },
+  {
+    "text": "Men groan from out of the city, and the soul of the wounded cries out: yet God lays not folly to them.",
+    "reference": "Job 24:12 (AKJV)",
+    "connected_to": "Job 24:13",
+    "connected_from": "Job 24:11"
+  },
+  {
+    "text": "They are of those that rebel against the light; they know not the ways thereof, nor abide in the paths thereof.",
+    "reference": "Job 24:13 (AKJV)",
+    "connected_to": "Job 24:14",
+    "connected_from": "Job 24:12"
+  },
+  {
+    "text": "The murderer rising with the light kills the poor and needy, and in the night is as a thief.",
+    "reference": "Job 24:14 (AKJV)",
+    "connected_to": "Job 24:15",
+    "connected_from": "Job 24:13"
+  },
+  {
+    "text": "The eye also of the adulterer waits for the twilight, saying, No eye shall see me: and disguises his face.",
+    "reference": "Job 24:15 (AKJV)",
+    "connected_to": "Job 24:16",
+    "connected_from": "Job 24:14"
+  },
+  {
+    "text": "In the dark they dig through houses, which they had marked for themselves in the daytime: they know not the light.",
+    "reference": "Job 24:16 (AKJV)",
+    "connected_to": "Job 24:17",
+    "connected_from": "Job 24:15"
+  },
+  {
+    "text": "For the morning is to them even as the shadow of death: if one know them, they are in the terrors of the shadow of death.",
+    "reference": "Job 24:17 (AKJV)",
+    "connected_to": "Job 24:18",
+    "connected_from": "Job 24:16"
+  },
+  {
+    "text": "He is swift as the waters; their portion is cursed in the earth: he beholds not the way of the vineyards.",
+    "reference": "Job 24:18 (AKJV)",
+    "connected_to": "Job 24:19",
+    "connected_from": "Job 24:17"
+  },
+  {
+    "text": "Drought and heat consume the snow waters: so does the grave those which have sinned.",
+    "reference": "Job 24:19 (AKJV)",
+    "connected_to": "Job 24:20",
+    "connected_from": "Job 24:18"
+  },
+  {
+    "text": "The womb shall forget him; the worm shall feed sweetly on him; he shall be no more remembered; and wickedness shall be broken as a tree.",
+    "reference": "Job 24:20 (AKJV)",
+    "connected_to": "Job 24:21",
+    "connected_from": "Job 24:19"
+  },
+  {
+    "text": "He evil entreats the barren that bears not: and does not good to the widow.",
+    "reference": "Job 24:21 (AKJV)",
+    "connected_to": "Job 24:22",
+    "connected_from": "Job 24:20"
+  },
+  {
+    "text": "He draws also the mighty with his power: he rises up, and no man is sure of life.",
+    "reference": "Job 24:22 (AKJV)",
+    "connected_to": "Job 24:23",
+    "connected_from": "Job 24:21"
+  },
+  {
+    "text": "Though it be given him to be in safety, where on he rests; yet his eyes are on their ways.",
+    "reference": "Job 24:23 (AKJV)",
+    "connected_to": "Job 24:24",
+    "connected_from": "Job 24:22"
+  },
+  {
+    "text": "They are exalted for a little while, but are gone and brought low; they are taken out of the way as all other, and cut off as the tops of the ears of corn.",
+    "reference": "Job 24:24 (AKJV)",
+    "connected_to": "Job 24:25",
+    "connected_from": "Job 24:23"
+  },
+  {
+    "text": "And if it be not so now, who will make me a liar, and make my speech nothing worth?",
+    "reference": "Job 24:25 (AKJV)",
+    "connected_from": "Job 24:24"
+  }
+]

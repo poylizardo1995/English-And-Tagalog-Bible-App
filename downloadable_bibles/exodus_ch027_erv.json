@@ -1,0 +1,126 @@
+[
+  {
+    "text": "And thou shalt make the altar of acacia wood, five cubits long, and five cubits broad; the altar shall be foursquare: and the height thereof shall be three cubits.",
+    "reference": "Exodus 27:1 (ERV)",
+    "connected_to": "Exodus 27:2"
+  },
+  {
+    "text": "And thou shalt make the horns of it upon the four corners thereof: the horns thereof shall be of one piece with it: and thou shalt overlay it with brass.",
+    "reference": "Exodus 27:2 (ERV)",
+    "connected_to": "Exodus 27:3",
+    "connected_from": "Exodus 27:1"
+  },
+  {
+    "text": "And thou shalt make its pots to take away its ashes, and its shovels, and its basons, and its fleshhooks, and its firepans: all the vessels thereof thou shalt make of brass.",
+    "reference": "Exodus 27:3 (ERV)",
+    "connected_to": "Exodus 27:4",
+    "connected_from": "Exodus 27:2"
+  },
+  {
+    "text": "And thou shalt make for it a grating of network of brass; and upon the net shalt thou make four brasen rings in the four corners thereof.",
+    "reference": "Exodus 27:4 (ERV)",
+    "connected_to": "Exodus 27:5",
+    "connected_from": "Exodus 27:3"
+  },
+  {
+    "text": "And thou shalt put it under the ledge round the altar beneath, that the net may reach halfway up the altar.",
+    "reference": "Exodus 27:5 (ERV)",
+    "connected_to": "Exodus 27:6",
+    "connected_from": "Exodus 27:4"
+  },
+  {
+    "text": "And thou shalt make staves for the altar, staves of acacia wood, and overlay them with brass.",
+    "reference": "Exodus 27:6 (ERV)",
+    "connected_to": "Exodus 27:7",
+    "connected_from": "Exodus 27:5"
+  },
+  {
+    "text": "And the staves thereof shall be put into the rings, and the staves shall be upon the two sides of the altar, in bearing it.",
+    "reference": "Exodus 27:7 (ERV)",
+    "connected_to": "Exodus 27:8",
+    "connected_from": "Exodus 27:6"
+  },
+  {
+    "text": "Hollow with planks shalt thou make it: as it hath been shewed thee in the mount, so shall they make it.",
+    "reference": "Exodus 27:8 (ERV)",
+    "connected_to": "Exodus 27:9",
+    "connected_from": "Exodus 27:7"
+  },
+  {
+    "text": "And thou shalt make the court of the tabernacle: for the south side southward there shall be hangings for the court of fine twined linen an hundred cubits long for one side:",
+    "reference": "Exodus 27:9 (ERV)",
+    "connected_to": "Exodus 27:10",
+    "connected_from": "Exodus 27:8"
+  },
+  {
+    "text": "and the pillars thereof shall be twenty, and their sockets twenty, of brass; the hooks of the pillars and their fillets shall be of silver.",
+    "reference": "Exodus 27:10 (ERV)",
+    "connected_to": "Exodus 27:11",
+    "connected_from": "Exodus 27:9"
+  },
+  {
+    "text": "And likewise for the north side in length there shall be hangings an hundred cubits long, and the pillars thereof twenty, and their sockets twenty, of brass; the hooks of the pillars and their fillets of silver.",
+    "reference": "Exodus 27:11 (ERV)",
+    "connected_to": "Exodus 27:12",
+    "connected_from": "Exodus 27:10"
+  },
+  {
+    "text": "And for the breadth of the court on the west side shall be hangings of fifty cubits: their pillars ten, and their sockets ten.",
+    "reference": "Exodus 27:12 (ERV)",
+    "connected_to": "Exodus 27:13",
+    "connected_from": "Exodus 27:11"
+  },
+  {
+    "text": "And the breadth of the court on the east side eastward shall be fifty cubits.",
+    "reference": "Exodus 27:13 (ERV)",
+    "connected_to": "Exodus 27:14",
+    "connected_from": "Exodus 27:12"
+  },
+  {
+    "text": "The hangings for the one side of the gate shall be fifteen cubits: their pillars three, and their sockets three.",
+    "reference": "Exodus 27:14 (ERV)",
+    "connected_to": "Exodus 27:15",
+    "connected_from": "Exodus 27:13"
+  },
+  {
+    "text": "And for the other side shall be hangings of fifteen cubits: their pillars three, and their sockets three.",
+    "reference": "Exodus 27:15 (ERV)",
+    "connected_to": "Exodus 27:16",
+    "connected_from": "Exodus 27:14"
+  },
+  {
+    "text": "And for the gate of the court shall be a screen of twenty cubits, of blue, and purple, and scarlet, and fine twined linen, the work of the embroiderer: their pillars four, and their sockets four.",
+    "reference": "Exodus 27:16 (ERV)",
+    "connected_to": "Exodus 27:17",
+    "connected_from": "Exodus 27:15"
+  },
+  {
+    "text": "All the pillars of the court round about shall be filleted with silver; their hooks of silver, and their sockets of brass.",
+    "reference": "Exodus 27:17 (ERV)",
+    "connected_to": "Exodus 27:18",
+    "connected_from": "Exodus 27:16"
+  },
+  {
+    "text": "The length of the court shall be an hundred cubits, and the breadth fifty every where, and the height five cubits, of fine twined linen, and their sockets of brass.",
+    "reference": "Exodus 27:18 (ERV)",
+    "connected_to": "Exodus 27:19",
+    "connected_from": "Exodus 27:17"
+  },
+  {
+    "text": "All the instruments of the tabernacle in all the service thereof, and all the pins thereof, and all the pins of the court, shall be of brass.",
+    "reference": "Exodus 27:19 (ERV)",
+    "connected_to": "Exodus 27:20",
+    "connected_from": "Exodus 27:18"
+  },
+  {
+    "text": "And thou shalt command the children of Israel, that they bring unto thee pure olive oil beaten for the light, to cause a lamp to burn continually.",
+    "reference": "Exodus 27:20 (ERV)",
+    "connected_to": "Exodus 27:21",
+    "connected_from": "Exodus 27:19"
+  },
+  {
+    "text": "In the tent of meeting, without the veil which is before the testimony, Aaron and his sons shall order it from evening to morning before the LORD: it shall be a statute for ever throughout their generations on the behalf of the children of Israel.",
+    "reference": "Exodus 27:21 (ERV)",
+    "connected_from": "Exodus 27:20"
+  }
+]

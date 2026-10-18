@@ -1,0 +1,144 @@
+[
+  {
+    "text": "And the Lord continued, and he said to Job:",
+    "reference": "Job 40:1 (CPDV)",
+    "connected_to": "Job 40:2"
+  },
+  {
+    "text": "Will he who contends with God be so easily silenced? Certainly, he who argues with God must also respond to him.",
+    "reference": "Job 40:2 (CPDV)",
+    "connected_to": "Job 40:3",
+    "connected_from": "Job 40:1"
+  },
+  {
+    "text": "Then Job answered the Lord, saying:",
+    "reference": "Job 40:3 (CPDV)",
+    "connected_to": "Job 40:4",
+    "connected_from": "Job 40:2"
+  },
+  {
+    "text": "What could I possibly answer, since I have been speaking thoughtlessly? I will place my hand over my mouth.",
+    "reference": "Job 40:4 (CPDV)",
+    "connected_to": "Job 40:5",
+    "connected_from": "Job 40:3"
+  },
+  {
+    "text": "One thing I have spoken, which I wish I had not said; and another, to which I will add no more.",
+    "reference": "Job 40:5 (CPDV)",
+    "connected_to": "Job 40:6",
+    "connected_from": "Job 40:4"
+  },
+  {
+    "text": "But the Lord, answering Job out of the whirlwind, said:",
+    "reference": "Job 40:6 (CPDV)",
+    "connected_to": "Job 40:7",
+    "connected_from": "Job 40:5"
+  },
+  {
+    "text": "Gird your waist like a man. I will question you, and you must answer me.",
+    "reference": "Job 40:7 (CPDV)",
+    "connected_to": "Job 40:8",
+    "connected_from": "Job 40:6"
+  },
+  {
+    "text": "Will you make my judgment null and void; and will you condemn me so that you may be justified?",
+    "reference": "Job 40:8 (CPDV)",
+    "connected_to": "Job 40:9",
+    "connected_from": "Job 40:7"
+  },
+  {
+    "text": "And do you have an arm like God, or a voice like thunder?",
+    "reference": "Job 40:9 (CPDV)",
+    "connected_to": "Job 40:10",
+    "connected_from": "Job 40:8"
+  },
+  {
+    "text": "Envelop yourself with splendor, and raise yourself up on high, and be glorious, and put on splendid garments.",
+    "reference": "Job 40:10 (CPDV)",
+    "connected_to": "Job 40:11",
+    "connected_from": "Job 40:9"
+  },
+  {
+    "text": "Scatter the arrogant with your wrath, and, when you see all the arrogant, humble them.",
+    "reference": "Job 40:11 (CPDV)",
+    "connected_to": "Job 40:12",
+    "connected_from": "Job 40:10"
+  },
+  {
+    "text": "Look down upon each of the arrogant and confound them, and crush the impious in their place.",
+    "reference": "Job 40:12 (CPDV)",
+    "connected_to": "Job 40:13",
+    "connected_from": "Job 40:11"
+  },
+  {
+    "text": "Hide them in the dust together and plunge their faces into the pit.",
+    "reference": "Job 40:13 (CPDV)",
+    "connected_to": "Job 40:14",
+    "connected_from": "Job 40:12"
+  },
+  {
+    "text": "Then I will confess that your right hand is able to save you.",
+    "reference": "Job 40:14 (CPDV)",
+    "connected_to": "Job 40:15",
+    "connected_from": "Job 40:13"
+  },
+  {
+    "text": "Behold, the behemoth, whom I created along with you, eats hay like an ox.",
+    "reference": "Job 40:15 (CPDV)",
+    "connected_to": "Job 40:16",
+    "connected_from": "Job 40:14"
+  },
+  {
+    "text": "His strength is in his lower back, and his power is in the center of his abdomen.",
+    "reference": "Job 40:16 (CPDV)",
+    "connected_to": "Job 40:17",
+    "connected_from": "Job 40:15"
+  },
+  {
+    "text": "He draws up his tail like a cedar; the sinews of his thighs have been drawn together.",
+    "reference": "Job 40:17 (CPDV)",
+    "connected_to": "Job 40:18",
+    "connected_from": "Job 40:16"
+  },
+  {
+    "text": "His bones are like pipes of brass; his cartilage is like plates of iron.",
+    "reference": "Job 40:18 (CPDV)",
+    "connected_to": "Job 40:19",
+    "connected_from": "Job 40:17"
+  },
+  {
+    "text": "He is the beginning of the ways of God, who made him; he will use him as his sword.",
+    "reference": "Job 40:19 (CPDV)",
+    "connected_to": "Job 40:20",
+    "connected_from": "Job 40:18"
+  },
+  {
+    "text": "The mountains bring forth grass for him; all the beasts of the field will play there.",
+    "reference": "Job 40:20 (CPDV)",
+    "connected_to": "Job 40:21",
+    "connected_from": "Job 40:19"
+  },
+  {
+    "text": "He sleeps in the shadows, under the cover of branches, and in moist places.",
+    "reference": "Job 40:21 (CPDV)",
+    "connected_to": "Job 40:22",
+    "connected_from": "Job 40:20"
+  },
+  {
+    "text": "The shadows cover his shadow; the willows of the brook will encircle him.",
+    "reference": "Job 40:22 (CPDV)",
+    "connected_to": "Job 40:23",
+    "connected_from": "Job 40:21"
+  },
+  {
+    "text": "Behold, he will drink a river and not be amazed, and he has confidence that the Jordan could flow into his mouth.",
+    "reference": "Job 40:23 (CPDV)",
+    "connected_to": "Job 40:24",
+    "connected_from": "Job 40:22"
+  },
+  {
+    "text": "He will seize him through his eyes, as if with a hook, and he will bore through his nostrils, as if with stakes.",
+    "reference": "Job 40:24 (CPDV)",
+    "connected_from": "Job 40:23"
+  }
+]

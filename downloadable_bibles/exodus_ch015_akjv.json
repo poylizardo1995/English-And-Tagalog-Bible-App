@@ -1,0 +1,162 @@
+[
+  {
+    "text": "Then sang Moses and the children of Israel this song to the LORD, and spoke, saying, I will sing to the LORD, for he has triumphed gloriously: the horse and his rider has he thrown into the sea.",
+    "reference": "Exodus 15:1 (AKJV)",
+    "connected_to": "Exodus 15:2"
+  },
+  {
+    "text": "The LORD is my strength and song, and he is become my salvation: he is my God, and I will prepare him an habitation; my father’s God, and I will exalt him.",
+    "reference": "Exodus 15:2 (AKJV)",
+    "connected_to": "Exodus 15:3",
+    "connected_from": "Exodus 15:1"
+  },
+  {
+    "text": "The LORD is a man of war: the LORD is his name.",
+    "reference": "Exodus 15:3 (AKJV)",
+    "connected_to": "Exodus 15:4",
+    "connected_from": "Exodus 15:2"
+  },
+  {
+    "text": "Pharaoh’s chariots and his host has he cast into the sea: his chosen captains also are drowned in the Red sea.",
+    "reference": "Exodus 15:4 (AKJV)",
+    "connected_to": "Exodus 15:5",
+    "connected_from": "Exodus 15:3"
+  },
+  {
+    "text": "The depths have covered them: they sank into the bottom as a stone.",
+    "reference": "Exodus 15:5 (AKJV)",
+    "connected_to": "Exodus 15:6",
+    "connected_from": "Exodus 15:4"
+  },
+  {
+    "text": "Your right hand, O LORD, is become glorious in power: your right hand, O LORD, has dashed in pieces the enemy.",
+    "reference": "Exodus 15:6 (AKJV)",
+    "connected_to": "Exodus 15:7",
+    "connected_from": "Exodus 15:5"
+  },
+  {
+    "text": "And in the greatness of your excellency you have overthrown them that rose up against you: you sent forth your wrath, which consumed them as stubble.",
+    "reference": "Exodus 15:7 (AKJV)",
+    "connected_to": "Exodus 15:8",
+    "connected_from": "Exodus 15:6"
+  },
+  {
+    "text": "And with the blast of your nostrils the waters were gathered together, the floods stood upright as an heap, and the depths were congealed in the heart of the sea.",
+    "reference": "Exodus 15:8 (AKJV)",
+    "connected_to": "Exodus 15:9",
+    "connected_from": "Exodus 15:7"
+  },
+  {
+    "text": "The enemy said, I will pursue, I will overtake, I will divide the spoil; my lust shall be satisfied on them; I will draw my sword, my hand shall destroy them.",
+    "reference": "Exodus 15:9 (AKJV)",
+    "connected_to": "Exodus 15:10",
+    "connected_from": "Exodus 15:8"
+  },
+  {
+    "text": "You did blow with your wind, the sea covered them: they sank as lead in the mighty waters.",
+    "reference": "Exodus 15:10 (AKJV)",
+    "connected_to": "Exodus 15:11",
+    "connected_from": "Exodus 15:9"
+  },
+  {
+    "text": "Who is like to you, O LORD, among the gods? who is like you, glorious in holiness, fearful in praises, doing wonders?",
+    "reference": "Exodus 15:11 (AKJV)",
+    "connected_to": "Exodus 15:12",
+    "connected_from": "Exodus 15:10"
+  },
+  {
+    "text": "You stretched out your right hand, the earth swallowed them.",
+    "reference": "Exodus 15:12 (AKJV)",
+    "connected_to": "Exodus 15:13",
+    "connected_from": "Exodus 15:11"
+  },
+  {
+    "text": "You in your mercy have led forth the people which you have redeemed: you have guided them in your strength to your holy habitation.",
+    "reference": "Exodus 15:13 (AKJV)",
+    "connected_to": "Exodus 15:14",
+    "connected_from": "Exodus 15:12"
+  },
+  {
+    "text": "The people shall hear, and be afraid: sorrow shall take hold on the inhabitants of Palestina.",
+    "reference": "Exodus 15:14 (AKJV)",
+    "connected_to": "Exodus 15:15",
+    "connected_from": "Exodus 15:13"
+  },
+  {
+    "text": "Then the dukes of Edom shall be amazed; the mighty men of Moab, trembling shall take hold on them; all the inhabitants of Canaan shall melt away.",
+    "reference": "Exodus 15:15 (AKJV)",
+    "connected_to": "Exodus 15:16",
+    "connected_from": "Exodus 15:14"
+  },
+  {
+    "text": "Fear and dread shall fall on them; by the greatness of your arm they shall be as still as a stone; till your people pass over, O LORD, till the people pass over, which you have purchased.",
+    "reference": "Exodus 15:16 (AKJV)",
+    "connected_to": "Exodus 15:17",
+    "connected_from": "Exodus 15:15"
+  },
+  {
+    "text": "You shall bring them in, and plant them in the mountain of your inheritance, in the place, O LORD, which you have made for you to dwell in, in the Sanctuary, O LORD, which your hands have established.",
+    "reference": "Exodus 15:17 (AKJV)",
+    "connected_to": "Exodus 15:18",
+    "connected_from": "Exodus 15:16"
+  },
+  {
+    "text": "The LORD shall reign for ever and ever.",
+    "reference": "Exodus 15:18 (AKJV)",
+    "connected_to": "Exodus 15:19",
+    "connected_from": "Exodus 15:17"
+  },
+  {
+    "text": "For the horse of Pharaoh went in with his chariots and with his horsemen into the sea, and the LORD brought again the waters of the sea on them; but the children of Israel went on dry land in the middle of the sea.",
+    "reference": "Exodus 15:19 (AKJV)",
+    "connected_to": "Exodus 15:20",
+    "connected_from": "Exodus 15:18"
+  },
+  {
+    "text": "And Miriam the prophetess, the sister of Aaron, took a tambourine in her hand; and all the women went out after her with tambourines and with dances.",
+    "reference": "Exodus 15:20 (AKJV)",
+    "connected_to": "Exodus 15:21",
+    "connected_from": "Exodus 15:19"
+  },
+  {
+    "text": "And Miriam answered them, Sing you to the LORD, for he has triumphed gloriously; the horse and his rider has he thrown into the sea.",
+    "reference": "Exodus 15:21 (AKJV)",
+    "connected_to": "Exodus 15:22",
+    "connected_from": "Exodus 15:20"
+  },
+  {
+    "text": "So Moses brought Israel from the Red sea, and they went out into the wilderness of Shur; and they went three days in the wilderness, and found no water.",
+    "reference": "Exodus 15:22 (AKJV)",
+    "connected_to": "Exodus 15:23",
+    "connected_from": "Exodus 15:21"
+  },
+  {
+    "text": "And when they came to Marah, they could not drink of the waters of Marah, for they were bitter: therefore the name of it was called Marah.",
+    "reference": "Exodus 15:23 (AKJV)",
+    "connected_to": "Exodus 15:24",
+    "connected_from": "Exodus 15:22"
+  },
+  {
+    "text": "And the people murmured against Moses, saying, What shall we drink?",
+    "reference": "Exodus 15:24 (AKJV)",
+    "connected_to": "Exodus 15:25",
+    "connected_from": "Exodus 15:23"
+  },
+  {
+    "text": "And he cried to the LORD; and the LORD showed him a tree, which when he had cast into the waters, the waters were made sweet: there he made for them a statute and an ordinance, and there he proved them,",
+    "reference": "Exodus 15:25 (AKJV)",
+    "connected_to": "Exodus 15:26",
+    "connected_from": "Exodus 15:24"
+  },
+  {
+    "text": "And said, If you will diligently listen to the voice of the LORD your God, and will do that which is right in his sight, and will give ear to his commandments, and keep all his statutes, I will put none of these diseases on you, which I have brought on the Egyptians: for I am the LORD that heals you.",
+    "reference": "Exodus 15:26 (AKJV)",
+    "connected_to": "Exodus 15:27",
+    "connected_from": "Exodus 15:25"
+  },
+  {
+    "text": "And they came to Elim, where were twelve wells of water, and three score and ten palm trees: and they encamped there by the waters.",
+    "reference": "Exodus 15:27 (AKJV)",
+    "connected_from": "Exodus 15:26"
+  }
+]

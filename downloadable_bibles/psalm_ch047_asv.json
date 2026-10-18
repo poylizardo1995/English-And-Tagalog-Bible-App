@@ -1,0 +1,54 @@
+[
+  {
+    "text": "For the Chief Musician. A Psalm of the sons of Korah. Oh clap your hands, all ye peoples; Shout unto God with the voice of triumph.",
+    "reference": "Psalm 47:1 (ASV)",
+    "connected_to": "Psalm 47:2"
+  },
+  {
+    "text": "For Jehovah Most High is terrible; He is a great King over all the earth.",
+    "reference": "Psalm 47:2 (ASV)",
+    "connected_to": "Psalm 47:3",
+    "connected_from": "Psalm 47:1"
+  },
+  {
+    "text": "He subdueth peoples under us, And nations under our feet.",
+    "reference": "Psalm 47:3 (ASV)",
+    "connected_to": "Psalm 47:4",
+    "connected_from": "Psalm 47:2"
+  },
+  {
+    "text": "He chooseth our inheritance for us, The glory of Jacob whom he loved. [Selah",
+    "reference": "Psalm 47:4 (ASV)",
+    "connected_to": "Psalm 47:5",
+    "connected_from": "Psalm 47:3"
+  },
+  {
+    "text": "God is gone up with a shout, Jehovah with the sound of a trumpet.",
+    "reference": "Psalm 47:5 (ASV)",
+    "connected_to": "Psalm 47:6",
+    "connected_from": "Psalm 47:4"
+  },
+  {
+    "text": "Sing praises to God, sing praises: Sing praises unto our King, sing praises.",
+    "reference": "Psalm 47:6 (ASV)",
+    "connected_to": "Psalm 47:7",
+    "connected_from": "Psalm 47:5"
+  },
+  {
+    "text": "For God is the King of all the earth: Sing ye praises with understanding.",
+    "reference": "Psalm 47:7 (ASV)",
+    "connected_to": "Psalm 47:8",
+    "connected_from": "Psalm 47:6"
+  },
+  {
+    "text": "God reigneth over the nations: God sitteth upon his holy throne.",
+    "reference": "Psalm 47:8 (ASV)",
+    "connected_to": "Psalm 47:9",
+    "connected_from": "Psalm 47:7"
+  },
+  {
+    "text": "The princes of the peoples are gathered together To be the people of the God of Abraham; For the shields of the earth belong unto God: He is greatly exalted.",
+    "reference": "Psalm 47:9 (ASV)",
+    "connected_from": "Psalm 47:8"
+  }
+]

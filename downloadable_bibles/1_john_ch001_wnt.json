@@ -1,0 +1,60 @@
+[
+  {
+    "text": "That which was from the beginning, which we have listened to, which we have seen with our own eyes, and our own hands have handled concerning the Word of Life—",
+    "reference": "1 John 1:1 (WNT)",
+    "connected_to": "1 John 1:2"
+  },
+  {
+    "text": "the Life was manifested, and we have seen and bear witness, and we declare unto you the Life of the Ages which was with the Father and was manifested to us—",
+    "reference": "1 John 1:2 (WNT)",
+    "connected_to": "1 John 1:3",
+    "connected_from": "1 John 1:1"
+  },
+  {
+    "text": "that which we have seen and listened to we now announce to you also, in order that you also may have fellowship in it with us, and this fellowship with us is fellowship with the Father and with His Son Jesus Christ.",
+    "reference": "1 John 1:3 (WNT)",
+    "connected_to": "1 John 1:4",
+    "connected_from": "1 John 1:2"
+  },
+  {
+    "text": "And we write these things in order that our joy may be made complete.",
+    "reference": "1 John 1:4 (WNT)",
+    "connected_to": "1 John 1:5",
+    "connected_from": "1 John 1:3"
+  },
+  {
+    "text": "This is the Message which we have heard from the Lord Jesus and now deliver to you—God is Light, and in Him there is no darkness.",
+    "reference": "1 John 1:5 (WNT)",
+    "connected_to": "1 John 1:6",
+    "connected_from": "1 John 1:4"
+  },
+  {
+    "text": "If, while we are living in darkness, we profess to have fellowship with Him, we speak falsely and are not adhering to the truth.",
+    "reference": "1 John 1:6 (WNT)",
+    "connected_to": "1 John 1:7",
+    "connected_from": "1 John 1:5"
+  },
+  {
+    "text": "But if we live in the light as He is in the light, we have fellowship with one another, and the blood of Jesus, His Son, cleanses us from all sin.",
+    "reference": "1 John 1:7 (WNT)",
+    "connected_to": "1 John 1:8",
+    "connected_from": "1 John 1:6"
+  },
+  {
+    "text": "If we claim to be already free from sin, we lead ourselves astray and the truth has no place in our hearts.",
+    "reference": "1 John 1:8 (WNT)",
+    "connected_to": "1 John 1:9",
+    "connected_from": "1 John 1:7"
+  },
+  {
+    "text": "If we confess our sins, He is so faithful and just that He forgives us our sins and cleanses us from all unrighteousness.",
+    "reference": "1 John 1:9 (WNT)",
+    "connected_to": "1 John 1:10",
+    "connected_from": "1 John 1:8"
+  },
+  {
+    "text": "If we deny that we have sinned, we make Him a liar, and His Message has no place in our hearts.",
+    "reference": "1 John 1:10 (WNT)",
+    "connected_from": "1 John 1:9"
+  }
+]

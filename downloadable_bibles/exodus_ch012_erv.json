@@ -1,0 +1,306 @@
+[
+  {
+    "text": "And the LORD spake unto Moses and Aaron in the land of Egypt, saying,",
+    "reference": "Exodus 12:1 (ERV)",
+    "connected_to": "Exodus 12:2"
+  },
+  {
+    "text": "This month shall be unto you the beginning of months: it shall be the first month of the year to you.",
+    "reference": "Exodus 12:2 (ERV)",
+    "connected_to": "Exodus 12:3",
+    "connected_from": "Exodus 12:1"
+  },
+  {
+    "text": "Speak ye unto all the congregation of Israel, saying, In the tenth day of this month they shall take to them every man a lamb, according to their fathers’ houses, a lamb for an household:",
+    "reference": "Exodus 12:3 (ERV)",
+    "connected_to": "Exodus 12:4",
+    "connected_from": "Exodus 12:2"
+  },
+  {
+    "text": "and if the household be too little for a lamb, then shall he and his neighbour next unto his house take one according to the number of the souls; according to every man’s eating ye shall make your count for the lamb.",
+    "reference": "Exodus 12:4 (ERV)",
+    "connected_to": "Exodus 12:5",
+    "connected_from": "Exodus 12:3"
+  },
+  {
+    "text": "Your lamb shall be without blemish, a male of the first year: ye shall take it from the sheep, or from the goats:",
+    "reference": "Exodus 12:5 (ERV)",
+    "connected_to": "Exodus 12:6",
+    "connected_from": "Exodus 12:4"
+  },
+  {
+    "text": "and ye shall keep it up until the fourteenth day of the same month: and the whole assembly of the congregation of Israel shall kill it at even.",
+    "reference": "Exodus 12:6 (ERV)",
+    "connected_to": "Exodus 12:7",
+    "connected_from": "Exodus 12:5"
+  },
+  {
+    "text": "And they shall take of the blood, and put it on the two side posts and on the lintel, upon the houses wherein they shall eat it.",
+    "reference": "Exodus 12:7 (ERV)",
+    "connected_to": "Exodus 12:8",
+    "connected_from": "Exodus 12:6"
+  },
+  {
+    "text": "And they shall eat the flesh in that night, roast with fire, and unleavened bread; with bitter herbs they shall eat it.",
+    "reference": "Exodus 12:8 (ERV)",
+    "connected_to": "Exodus 12:9",
+    "connected_from": "Exodus 12:7"
+  },
+  {
+    "text": "Eat not of it raw, nor sodden at all with water, but roast with fire; its head with its legs and with the inwards thereof.",
+    "reference": "Exodus 12:9 (ERV)",
+    "connected_to": "Exodus 12:10",
+    "connected_from": "Exodus 12:8"
+  },
+  {
+    "text": "And ye shall let nothing of it remain until the morning; but that which remaineth of it until the morning ye shall burn with fire.",
+    "reference": "Exodus 12:10 (ERV)",
+    "connected_to": "Exodus 12:11",
+    "connected_from": "Exodus 12:9"
+  },
+  {
+    "text": "And thus shall ye eat it; with your loins girded, your shoes on your feet, and your staff in your hand: and ye shall eat it in haste: it is the LORD’S passover,",
+    "reference": "Exodus 12:11 (ERV)",
+    "connected_to": "Exodus 12:12",
+    "connected_from": "Exodus 12:10"
+  },
+  {
+    "text": "For I will go through the land of Egypt in that night, and will smite all the firstborn in the land of Egypt, both man and beast; and against all the gods of Egypt I will execute judgments: I am the LORD.",
+    "reference": "Exodus 12:12 (ERV)",
+    "connected_to": "Exodus 12:13",
+    "connected_from": "Exodus 12:11"
+  },
+  {
+    "text": "And the blood shall be to you for a token upon the houses where ye are: and when I see the blood, I will pass over you, and there shall no plague be upon you to destroy you, when I smite the land of Egypt.",
+    "reference": "Exodus 12:13 (ERV)",
+    "connected_to": "Exodus 12:14",
+    "connected_from": "Exodus 12:12"
+  },
+  {
+    "text": "And this day shall be unto you for a memorial, and ye shall keep it a feast to the LORD: throughout your generations ye shall keep it a feast by an ordinance for ever.",
+    "reference": "Exodus 12:14 (ERV)",
+    "connected_to": "Exodus 12:15",
+    "connected_from": "Exodus 12:13"
+  },
+  {
+    "text": "Seven days shall ye eat unleavened bread; even the first day ye shall put away leaven out of your houses: for whosoever eateth leavened bread from the first day until the seventh day, that soul shall be cut off from Israel.",
+    "reference": "Exodus 12:15 (ERV)",
+    "connected_to": "Exodus 12:16",
+    "connected_from": "Exodus 12:14"
+  },
+  {
+    "text": "And in the first day there shall be to you an holy convocation, and in the seventh day an holy convocation; no manner of work shall be done in them, save that which every man must eat, that only may be done of you.",
+    "reference": "Exodus 12:16 (ERV)",
+    "connected_to": "Exodus 12:17",
+    "connected_from": "Exodus 12:15"
+  },
+  {
+    "text": "And ye shall observe the feast of unleavened bread; for in this selfsame day have I brought your hosts out of the land of Egypt: therefore shall ye observe this day throughout your generations by an ordinance for ever.",
+    "reference": "Exodus 12:17 (ERV)",
+    "connected_to": "Exodus 12:18",
+    "connected_from": "Exodus 12:16"
+  },
+  {
+    "text": "In the first month, on the fourteenth day of the month at even, ye shall eat unleavened bread, until the one and twentieth day of the month at even.",
+    "reference": "Exodus 12:18 (ERV)",
+    "connected_to": "Exodus 12:19",
+    "connected_from": "Exodus 12:17"
+  },
+  {
+    "text": "Seven days shall there be no leaven found in your houses: for whosoever eateth that which is leavened, that soul shall be cut off from the congregation of Israel, whether he be a sojourner, or one that is born in the land.",
+    "reference": "Exodus 12:19 (ERV)",
+    "connected_to": "Exodus 12:20",
+    "connected_from": "Exodus 12:18"
+  },
+  {
+    "text": "Ye shall eat nothing leavened; in all your habitations shall ye eat unleavened bread.",
+    "reference": "Exodus 12:20 (ERV)",
+    "connected_to": "Exodus 12:21",
+    "connected_from": "Exodus 12:19"
+  },
+  {
+    "text": "Then Moses called for all the elders of Israel, and said unto them, Draw out, and take you lambs according to your families, and kill the passover.",
+    "reference": "Exodus 12:21 (ERV)",
+    "connected_to": "Exodus 12:22",
+    "connected_from": "Exodus 12:20"
+  },
+  {
+    "text": "And ye shall take a bunch of hyssop, and dip it in the blood that is in the bason, and strike the lintel and the two side posts with the blood that is in the bason; and none of you shall go out of the door of his house until the morning.",
+    "reference": "Exodus 12:22 (ERV)",
+    "connected_to": "Exodus 12:23",
+    "connected_from": "Exodus 12:21"
+  },
+  {
+    "text": "For the LORD will pass through to smite the Egyptians; and when he seeth the blood upon the lintel, and on the two side posts, the LORD will pass over the door, and will not suffer the destroyer to come in unto your houses to smite you.",
+    "reference": "Exodus 12:23 (ERV)",
+    "connected_to": "Exodus 12:24",
+    "connected_from": "Exodus 12:22"
+  },
+  {
+    "text": "And ye shall observe this thing for an ordinance to thee and to thy sons for ever.",
+    "reference": "Exodus 12:24 (ERV)",
+    "connected_to": "Exodus 12:25",
+    "connected_from": "Exodus 12:23"
+  },
+  {
+    "text": "And it shall come to pass, when ye be come to the land which the LORD will give you, according as he hath promised, that ye shall keep this service.",
+    "reference": "Exodus 12:25 (ERV)",
+    "connected_to": "Exodus 12:26",
+    "connected_from": "Exodus 12:24"
+  },
+  {
+    "text": "And it shall come to pass, when your children shall say unto you, What mean ye by this service?",
+    "reference": "Exodus 12:26 (ERV)",
+    "connected_to": "Exodus 12:27",
+    "connected_from": "Exodus 12:25"
+  },
+  {
+    "text": "that ye shall say, It is the sacrifice of the LORD’S passover, who passed over the houses of the children of Israel in Egypt, when he smote the Egyptians, and delivered our houses. And the people bowed the head and worshipped.",
+    "reference": "Exodus 12:27 (ERV)",
+    "connected_to": "Exodus 12:28",
+    "connected_from": "Exodus 12:26"
+  },
+  {
+    "text": "And the children of Israel went and did so; as the LORD had commanded Moses and Aaron, so did they.",
+    "reference": "Exodus 12:28 (ERV)",
+    "connected_to": "Exodus 12:29",
+    "connected_from": "Exodus 12:27"
+  },
+  {
+    "text": "And it came to pass at midnight, that the LORD smote all the firstborn in the land of Egypt, from the firstborn of Pharaoh that sat on his throne unto the firstborn of the captive that was in the dungeon; and all the firstborn of cattle.",
+    "reference": "Exodus 12:29 (ERV)",
+    "connected_to": "Exodus 12:30",
+    "connected_from": "Exodus 12:28"
+  },
+  {
+    "text": "And Pharaoh rose up in the night, he, and all his servants, and all the Egyptians; and there was a great cry in Egypt; for there was not a house where there was not one dead.",
+    "reference": "Exodus 12:30 (ERV)",
+    "connected_to": "Exodus 12:31",
+    "connected_from": "Exodus 12:29"
+  },
+  {
+    "text": "And he called for Moses and Aaron by night, and said, Rise up, get you forth from among my people, both ye and the children of Israel; and go, serve the LORD, as ye have said.",
+    "reference": "Exodus 12:31 (ERV)",
+    "connected_to": "Exodus 12:32",
+    "connected_from": "Exodus 12:30"
+  },
+  {
+    "text": "Take both your flocks and your herds, as ye have said, and be gone; and bless me also.",
+    "reference": "Exodus 12:32 (ERV)",
+    "connected_to": "Exodus 12:33",
+    "connected_from": "Exodus 12:31"
+  },
+  {
+    "text": "And the Egyptians were urgent upon the people, to send them out of the land in haste; for they said, We be all dead men.",
+    "reference": "Exodus 12:33 (ERV)",
+    "connected_to": "Exodus 12:34",
+    "connected_from": "Exodus 12:32"
+  },
+  {
+    "text": "And the people took their dough before it was leavened, their kneadingtroughs being bound up in their clothes upon their shoulders.",
+    "reference": "Exodus 12:34 (ERV)",
+    "connected_to": "Exodus 12:35",
+    "connected_from": "Exodus 12:33"
+  },
+  {
+    "text": "And the children of Israel did according to the word of Moses; and they asked of the Egyptians jewels of silver, and jewels of gold, and raiment:",
+    "reference": "Exodus 12:35 (ERV)",
+    "connected_to": "Exodus 12:36",
+    "connected_from": "Exodus 12:34"
+  },
+  {
+    "text": "and the LORD gave the people favour in the sight of the Egyptians, so that they let them have what they asked. And they spoiled the Egyptians.",
+    "reference": "Exodus 12:36 (ERV)",
+    "connected_to": "Exodus 12:37",
+    "connected_from": "Exodus 12:35"
+  },
+  {
+    "text": "And the children of Israel journeyed from Rameses to Succoth, about six hundred thousand on foot that were men, beside children.",
+    "reference": "Exodus 12:37 (ERV)",
+    "connected_to": "Exodus 12:38",
+    "connected_from": "Exodus 12:36"
+  },
+  {
+    "text": "And a mixed multitude went up also with them; and flocks, and herds, even very much cattle.",
+    "reference": "Exodus 12:38 (ERV)",
+    "connected_to": "Exodus 12:39",
+    "connected_from": "Exodus 12:37"
+  },
+  {
+    "text": "And they baked unleavened cakes of the dough which they brought forth out of Egypt, for it was not leavened; because they were thrust out of Egypt, and could not tarry, neither had they prepared for themselves any victual.",
+    "reference": "Exodus 12:39 (ERV)",
+    "connected_to": "Exodus 12:40",
+    "connected_from": "Exodus 12:38"
+  },
+  {
+    "text": "Now the sojourning of the children of Israel, which they sojourned in Egypt, was four hundred and thirty years.",
+    "reference": "Exodus 12:40 (ERV)",
+    "connected_to": "Exodus 12:41",
+    "connected_from": "Exodus 12:39"
+  },
+  {
+    "text": "And it came to pass at the end of four hundred and thirty years, even the selfsame day it came to pass, that all the hosts of the LORD went out from the land of Egypt.",
+    "reference": "Exodus 12:41 (ERV)",
+    "connected_to": "Exodus 12:42",
+    "connected_from": "Exodus 12:40"
+  },
+  {
+    "text": "It is a night to be much observed unto the LORD for bringing them out from the land of Egypt: this is that night of the LORD, to be much observed of all the children of Israel throughout their generations.",
+    "reference": "Exodus 12:42 (ERV)",
+    "connected_to": "Exodus 12:43",
+    "connected_from": "Exodus 12:41"
+  },
+  {
+    "text": "And the LORD said unto Moses and Aaron, This is the ordinance of the passover: there shall no alien eat thereof:",
+    "reference": "Exodus 12:43 (ERV)",
+    "connected_to": "Exodus 12:44",
+    "connected_from": "Exodus 12:42"
+  },
+  {
+    "text": "but every man’s servant that is bought for money, when thou hast circumcised him, then shall he eat thereof.",
+    "reference": "Exodus 12:44 (ERV)",
+    "connected_to": "Exodus 12:45",
+    "connected_from": "Exodus 12:43"
+  },
+  {
+    "text": "A sojourner and an hired servant shall not eat thereof.",
+    "reference": "Exodus 12:45 (ERV)",
+    "connected_to": "Exodus 12:46",
+    "connected_from": "Exodus 12:44"
+  },
+  {
+    "text": "In one house shall it be eaten; thou shalt not carry forth aught of the flesh abroad out of the house; neither shall ye break a bone thereof.",
+    "reference": "Exodus 12:46 (ERV)",
+    "connected_to": "Exodus 12:47",
+    "connected_from": "Exodus 12:45"
+  },
+  {
+    "text": "All the congregation of Israel shall keep it.",
+    "reference": "Exodus 12:47 (ERV)",
+    "connected_to": "Exodus 12:48",
+    "connected_from": "Exodus 12:46"
+  },
+  {
+    "text": "And when a stranger shall sojourn with thee, and will keep the passover to the LORD, let all his males be circumcised, and then let him come near and keep it; and he shall be as one that is born in the land: but no uncircumcised person shall eat thereof.",
+    "reference": "Exodus 12:48 (ERV)",
+    "connected_to": "Exodus 12:49",
+    "connected_from": "Exodus 12:47"
+  },
+  {
+    "text": "One law shall be to him that is homeborn, and unto the stranger that sojourneth among you.",
+    "reference": "Exodus 12:49 (ERV)",
+    "connected_to": "Exodus 12:50",
+    "connected_from": "Exodus 12:48"
+  },
+  {
+    "text": "Thus did all the children of Israel; as the LORD commanded Moses and Aaron, so did they.",
+    "reference": "Exodus 12:50 (ERV)",
+    "connected_to": "Exodus 12:51",
+    "connected_from": "Exodus 12:49"
+  },
+  {
+    "text": "And it came to pass the selfsame day, that the LORD did bring the children of Israel out of the land of Egypt by their hosts.",
+    "reference": "Exodus 12:51 (ERV)",
+    "connected_from": "Exodus 12:50"
+  }
+]

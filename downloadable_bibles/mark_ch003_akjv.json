@@ -1,0 +1,210 @@
+[
+  {
+    "text": "And he entered again into the synagogue; and there was a man there which had a withered hand.",
+    "reference": "Mark 3:1 (AKJV)",
+    "connected_to": "Mark 3:2"
+  },
+  {
+    "text": "And they watched him, whether he would heal him on the sabbath day; that they might accuse him.",
+    "reference": "Mark 3:2 (AKJV)",
+    "connected_to": "Mark 3:3",
+    "connected_from": "Mark 3:1"
+  },
+  {
+    "text": "And he said to the man which had the withered hand, Stand forth.",
+    "reference": "Mark 3:3 (AKJV)",
+    "connected_to": "Mark 3:4",
+    "connected_from": "Mark 3:2"
+  },
+  {
+    "text": "And he said to them, Is it lawful to do good on the sabbath days, or to do evil? to save life, or to kill? But they held their peace.",
+    "reference": "Mark 3:4 (AKJV)",
+    "connected_to": "Mark 3:5",
+    "connected_from": "Mark 3:3"
+  },
+  {
+    "text": "And when he had looked round about on them with anger, being grieved for the hardness of their hearts, he said to the man, Stretch forth your hand. And he stretched it out: and his hand was restored whole as the other.",
+    "reference": "Mark 3:5 (AKJV)",
+    "connected_to": "Mark 3:6",
+    "connected_from": "Mark 3:4"
+  },
+  {
+    "text": "And the Pharisees went forth, and straightway took counsel with the Herodians against him, how they might destroy him.",
+    "reference": "Mark 3:6 (AKJV)",
+    "connected_to": "Mark 3:7",
+    "connected_from": "Mark 3:5"
+  },
+  {
+    "text": "But Jesus withdrew himself with his disciples to the sea: and a great multitude from Galilee followed him, and from Judaea,",
+    "reference": "Mark 3:7 (AKJV)",
+    "connected_to": "Mark 3:8",
+    "connected_from": "Mark 3:6"
+  },
+  {
+    "text": "And from Jerusalem, and from Idumaea, and from beyond Jordan; and they about Tyre and Sidon, a great multitude, when they had heard what great things he did, came to him.",
+    "reference": "Mark 3:8 (AKJV)",
+    "connected_to": "Mark 3:9",
+    "connected_from": "Mark 3:7"
+  },
+  {
+    "text": "And he spoke to his disciples, that a small ship should wait on him because of the multitude, lest they should throng him.",
+    "reference": "Mark 3:9 (AKJV)",
+    "connected_to": "Mark 3:10",
+    "connected_from": "Mark 3:8"
+  },
+  {
+    "text": "For he had healed many; so that they pressed on him for to touch him, as many as had plagues.",
+    "reference": "Mark 3:10 (AKJV)",
+    "connected_to": "Mark 3:11",
+    "connected_from": "Mark 3:9"
+  },
+  {
+    "text": "And unclean spirits, when they saw him, fell down before him, and cried, saying, You are the Son of God.",
+    "reference": "Mark 3:11 (AKJV)",
+    "connected_to": "Mark 3:12",
+    "connected_from": "Mark 3:10"
+  },
+  {
+    "text": "And he straightly charged them that they should not make him known.",
+    "reference": "Mark 3:12 (AKJV)",
+    "connected_to": "Mark 3:13",
+    "connected_from": "Mark 3:11"
+  },
+  {
+    "text": "And he goes up into a mountain, and calls to him whom he would: and they came to him.",
+    "reference": "Mark 3:13 (AKJV)",
+    "connected_to": "Mark 3:14",
+    "connected_from": "Mark 3:12"
+  },
+  {
+    "text": "And he ordained twelve, that they should be with him, and that he might send them forth to preach,",
+    "reference": "Mark 3:14 (AKJV)",
+    "connected_to": "Mark 3:15",
+    "connected_from": "Mark 3:13"
+  },
+  {
+    "text": "And to have power to heal sicknesses, and to cast out devils:",
+    "reference": "Mark 3:15 (AKJV)",
+    "connected_to": "Mark 3:16",
+    "connected_from": "Mark 3:14"
+  },
+  {
+    "text": "And Simon he surnamed Peter;",
+    "reference": "Mark 3:16 (AKJV)",
+    "connected_to": "Mark 3:17",
+    "connected_from": "Mark 3:15"
+  },
+  {
+    "text": "And James the son of Zebedee, and John the brother of James; and he surnamed them Boanerges, which is, The sons of thunder:",
+    "reference": "Mark 3:17 (AKJV)",
+    "connected_to": "Mark 3:18",
+    "connected_from": "Mark 3:16"
+  },
+  {
+    "text": "And Andrew, and Philip, and Bartholomew, and Matthew, and Thomas, and James the son of Alphaeus, and Thaddaeus, and Simon the Canaanite,",
+    "reference": "Mark 3:18 (AKJV)",
+    "connected_to": "Mark 3:19",
+    "connected_from": "Mark 3:17"
+  },
+  {
+    "text": "And Judas Iscariot, which also betrayed him: and they went into an house.",
+    "reference": "Mark 3:19 (AKJV)",
+    "connected_to": "Mark 3:20",
+    "connected_from": "Mark 3:18"
+  },
+  {
+    "text": "And the multitude comes together again, so that they could not so much as eat bread.",
+    "reference": "Mark 3:20 (AKJV)",
+    "connected_to": "Mark 3:21",
+    "connected_from": "Mark 3:19"
+  },
+  {
+    "text": "And when his friends heard of it, they went out to lay hold on him: for they said, He is beside himself.",
+    "reference": "Mark 3:21 (AKJV)",
+    "connected_to": "Mark 3:22",
+    "connected_from": "Mark 3:20"
+  },
+  {
+    "text": "And the scribes which came down from Jerusalem said, He has Beelzebub, and by the prince of the devils casts he out devils.",
+    "reference": "Mark 3:22 (AKJV)",
+    "connected_to": "Mark 3:23",
+    "connected_from": "Mark 3:21"
+  },
+  {
+    "text": "And he called them to him, and said to them in parables, How can Satan cast out Satan?",
+    "reference": "Mark 3:23 (AKJV)",
+    "connected_to": "Mark 3:24",
+    "connected_from": "Mark 3:22"
+  },
+  {
+    "text": "And if a kingdom be divided against itself, that kingdom cannot stand.",
+    "reference": "Mark 3:24 (AKJV)",
+    "connected_to": "Mark 3:25",
+    "connected_from": "Mark 3:23"
+  },
+  {
+    "text": "And if a house be divided against itself, that house cannot stand.",
+    "reference": "Mark 3:25 (AKJV)",
+    "connected_to": "Mark 3:26",
+    "connected_from": "Mark 3:24"
+  },
+  {
+    "text": "And if Satan rise up against himself, and be divided, he cannot stand, but has an end.",
+    "reference": "Mark 3:26 (AKJV)",
+    "connected_to": "Mark 3:27",
+    "connected_from": "Mark 3:25"
+  },
+  {
+    "text": "No man can enter into a strong man’s house, and spoil his goods, except he will first bind the strong man; and then he will spoil his house.",
+    "reference": "Mark 3:27 (AKJV)",
+    "connected_to": "Mark 3:28",
+    "connected_from": "Mark 3:26"
+  },
+  {
+    "text": "Truly I say to you, All sins shall be forgiven to the sons of men, and blasphemies with which soever they shall blaspheme:",
+    "reference": "Mark 3:28 (AKJV)",
+    "connected_to": "Mark 3:29",
+    "connected_from": "Mark 3:27"
+  },
+  {
+    "text": "But he that shall blaspheme against the Holy Ghost has never forgiveness, but is in danger of eternal damnation.",
+    "reference": "Mark 3:29 (AKJV)",
+    "connected_to": "Mark 3:30",
+    "connected_from": "Mark 3:28"
+  },
+  {
+    "text": "Because they said, He has an unclean spirit.",
+    "reference": "Mark 3:30 (AKJV)",
+    "connected_to": "Mark 3:31",
+    "connected_from": "Mark 3:29"
+  },
+  {
+    "text": "There came then his brothers and his mother, and, standing without, sent to him, calling him.",
+    "reference": "Mark 3:31 (AKJV)",
+    "connected_to": "Mark 3:32",
+    "connected_from": "Mark 3:30"
+  },
+  {
+    "text": "And the multitude sat about him, and they said to him, Behold, your mother and your brothers without seek for you.",
+    "reference": "Mark 3:32 (AKJV)",
+    "connected_to": "Mark 3:33",
+    "connected_from": "Mark 3:31"
+  },
+  {
+    "text": "And he answered them, saying, Who is my mother, or my brothers?",
+    "reference": "Mark 3:33 (AKJV)",
+    "connected_to": "Mark 3:34",
+    "connected_from": "Mark 3:32"
+  },
+  {
+    "text": "And he looked round about on them which sat about him, and said, Behold my mother and my brothers!",
+    "reference": "Mark 3:34 (AKJV)",
+    "connected_to": "Mark 3:35",
+    "connected_from": "Mark 3:33"
+  },
+  {
+    "text": "For whoever shall do the will of God, the same is my brother, and my sister, and mother.",
+    "reference": "Mark 3:35 (AKJV)",
+    "connected_from": "Mark 3:34"
+  }
+]

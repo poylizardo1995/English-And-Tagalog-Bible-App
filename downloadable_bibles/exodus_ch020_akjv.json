@@ -1,0 +1,156 @@
+[
+  {
+    "text": "And God spoke all these words, saying,",
+    "reference": "Exodus 20:1 (AKJV)",
+    "connected_to": "Exodus 20:2"
+  },
+  {
+    "text": "I am the LORD your God, which have brought you out of the land of Egypt, out of the house of bondage.",
+    "reference": "Exodus 20:2 (AKJV)",
+    "connected_to": "Exodus 20:3",
+    "connected_from": "Exodus 20:1"
+  },
+  {
+    "text": "You shall have no other gods before me.",
+    "reference": "Exodus 20:3 (AKJV)",
+    "connected_to": "Exodus 20:4",
+    "connected_from": "Exodus 20:2"
+  },
+  {
+    "text": "You shall not make to you any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth.",
+    "reference": "Exodus 20:4 (AKJV)",
+    "connected_to": "Exodus 20:5",
+    "connected_from": "Exodus 20:3"
+  },
+  {
+    "text": "You shall not bow down yourself to them, nor serve them: for I the LORD your God am a jealous God, visiting the iniquity of the fathers on the children to the third and fourth generation of them that hate me;",
+    "reference": "Exodus 20:5 (AKJV)",
+    "connected_to": "Exodus 20:6",
+    "connected_from": "Exodus 20:4"
+  },
+  {
+    "text": "And showing mercy to thousands of them that love me, and keep my commandments.",
+    "reference": "Exodus 20:6 (AKJV)",
+    "connected_to": "Exodus 20:7",
+    "connected_from": "Exodus 20:5"
+  },
+  {
+    "text": "You shall not take the name of the LORD your God in vain; for the LORD will not hold him guiltless that takes his name in vain.",
+    "reference": "Exodus 20:7 (AKJV)",
+    "connected_to": "Exodus 20:8",
+    "connected_from": "Exodus 20:6"
+  },
+  {
+    "text": "Remember the sabbath day, to keep it holy.",
+    "reference": "Exodus 20:8 (AKJV)",
+    "connected_to": "Exodus 20:9",
+    "connected_from": "Exodus 20:7"
+  },
+  {
+    "text": "Six days shall you labor, and do all your work:",
+    "reference": "Exodus 20:9 (AKJV)",
+    "connected_to": "Exodus 20:10",
+    "connected_from": "Exodus 20:8"
+  },
+  {
+    "text": "But the seventh day is the sabbath of the LORD your God: in it you shall not do any work, you, nor your son, nor your daughter, your manservant, nor your maidservant, nor your cattle, nor your stranger that is within your gates:",
+    "reference": "Exodus 20:10 (AKJV)",
+    "connected_to": "Exodus 20:11",
+    "connected_from": "Exodus 20:9"
+  },
+  {
+    "text": "For in six days the LORD made heaven and earth, the sea, and all that in them is, and rested the seventh day: why the LORD blessed the sabbath day, and hallowed it.",
+    "reference": "Exodus 20:11 (AKJV)",
+    "connected_to": "Exodus 20:12",
+    "connected_from": "Exodus 20:10"
+  },
+  {
+    "text": "Honor your father and your mother: that your days may be long on the land which the LORD your God gives you.",
+    "reference": "Exodus 20:12 (AKJV)",
+    "connected_to": "Exodus 20:13",
+    "connected_from": "Exodus 20:11"
+  },
+  {
+    "text": "You shall not kill.",
+    "reference": "Exodus 20:13 (AKJV)",
+    "connected_to": "Exodus 20:14",
+    "connected_from": "Exodus 20:12"
+  },
+  {
+    "text": "You shall not commit adultery.",
+    "reference": "Exodus 20:14 (AKJV)",
+    "connected_to": "Exodus 20:15",
+    "connected_from": "Exodus 20:13"
+  },
+  {
+    "text": "You shall not steal.",
+    "reference": "Exodus 20:15 (AKJV)",
+    "connected_to": "Exodus 20:16",
+    "connected_from": "Exodus 20:14"
+  },
+  {
+    "text": "You shall not bear false witness against your neighbor.",
+    "reference": "Exodus 20:16 (AKJV)",
+    "connected_to": "Exodus 20:17",
+    "connected_from": "Exodus 20:15"
+  },
+  {
+    "text": "You shall not covet your neighbor’s house, you shall not covet your neighbor’s wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that is your neighbor’s.",
+    "reference": "Exodus 20:17 (AKJV)",
+    "connected_to": "Exodus 20:18",
+    "connected_from": "Exodus 20:16"
+  },
+  {
+    "text": "And all the people saw the thunder, and the lightning, and the noise of the trumpet, and the mountain smoking: and when the people saw it, they removed, and stood afar off.",
+    "reference": "Exodus 20:18 (AKJV)",
+    "connected_to": "Exodus 20:19",
+    "connected_from": "Exodus 20:17"
+  },
+  {
+    "text": "And they said to Moses, Speak you with us, and we will hear: but let not God speak with us, lest we die.",
+    "reference": "Exodus 20:19 (AKJV)",
+    "connected_to": "Exodus 20:20",
+    "connected_from": "Exodus 20:18"
+  },
+  {
+    "text": "And Moses said to the people, Fear not: for God is come to prove you, and that his fear may be before your faces, that you sin not.",
+    "reference": "Exodus 20:20 (AKJV)",
+    "connected_to": "Exodus 20:21",
+    "connected_from": "Exodus 20:19"
+  },
+  {
+    "text": "And the people stood afar off, and Moses drew near to the thick darkness where God was.",
+    "reference": "Exodus 20:21 (AKJV)",
+    "connected_to": "Exodus 20:22",
+    "connected_from": "Exodus 20:20"
+  },
+  {
+    "text": "And the LORD said to Moses, Thus you shall say to the children of Israel, You have seen that I have talked with you from heaven.",
+    "reference": "Exodus 20:22 (AKJV)",
+    "connected_to": "Exodus 20:23",
+    "connected_from": "Exodus 20:21"
+  },
+  {
+    "text": "You shall not make with me gods of silver, neither shall you make to you gods of gold.",
+    "reference": "Exodus 20:23 (AKJV)",
+    "connected_to": "Exodus 20:24",
+    "connected_from": "Exodus 20:22"
+  },
+  {
+    "text": "An altar of earth you shall make to me, and shall sacrifice thereon your burnt offerings, and your peace offerings, your sheep, and your oxen: in all places where I record my name I will come to you, and I will bless you.",
+    "reference": "Exodus 20:24 (AKJV)",
+    "connected_to": "Exodus 20:25",
+    "connected_from": "Exodus 20:23"
+  },
+  {
+    "text": "And if you will make me an altar of stone, you shall not build it of hewn stone: for if you lift up your tool on it, you have polluted it.",
+    "reference": "Exodus 20:25 (AKJV)",
+    "connected_to": "Exodus 20:26",
+    "connected_from": "Exodus 20:24"
+  },
+  {
+    "text": "Neither shall you go up by steps to my altar, that your nakedness be not discovered thereon.",
+    "reference": "Exodus 20:26 (AKJV)",
+    "connected_from": "Exodus 20:25"
+  }
+]

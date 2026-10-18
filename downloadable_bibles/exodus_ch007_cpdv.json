@@ -1,0 +1,150 @@
+[
+  {
+    "text": "And the Lord said to Moses: “Behold, I have appointed you as the god of Pharaoh. And Aaron, your brother, will be your prophet.",
+    "reference": "Exodus 7:1 (CPDV)",
+    "connected_to": "Exodus 7:2"
+  },
+  {
+    "text": "You will speak to him all that I command you. And he will speak to Pharaoh, so that he may release the sons of Israel from his land.",
+    "reference": "Exodus 7:2 (CPDV)",
+    "connected_to": "Exodus 7:3",
+    "connected_from": "Exodus 7:1"
+  },
+  {
+    "text": "But I will harden his heart, and I will multiply my signs and wonders in the land of Egypt,",
+    "reference": "Exodus 7:3 (CPDV)",
+    "connected_to": "Exodus 7:4",
+    "connected_from": "Exodus 7:2"
+  },
+  {
+    "text": "and he will not listen to you. And I will send my hand over Egypt, and I will lead my army and my people, the sons of Israel, from the land of Egypt, through very great judgments.",
+    "reference": "Exodus 7:4 (CPDV)",
+    "connected_to": "Exodus 7:5",
+    "connected_from": "Exodus 7:3"
+  },
+  {
+    "text": "And the Egyptians will know that I am the Lord, who has extended my hand over Egypt, and who has led the sons of Israel from their midst.”",
+    "reference": "Exodus 7:5 (CPDV)",
+    "connected_to": "Exodus 7:6",
+    "connected_from": "Exodus 7:4"
+  },
+  {
+    "text": "And so, Moses and Aaron did just as the Lord had instructed. And so it was done.",
+    "reference": "Exodus 7:6 (CPDV)",
+    "connected_to": "Exodus 7:7",
+    "connected_from": "Exodus 7:5"
+  },
+  {
+    "text": "Now Moses was eighty years old, and Aaron eighty-three, when they spoke to Pharaoh.",
+    "reference": "Exodus 7:7 (CPDV)",
+    "connected_to": "Exodus 7:8",
+    "connected_from": "Exodus 7:6"
+  },
+  {
+    "text": "And the Lord said to Moses and Aaron:",
+    "reference": "Exodus 7:8 (CPDV)",
+    "connected_to": "Exodus 7:9",
+    "connected_from": "Exodus 7:7"
+  },
+  {
+    "text": "“When Pharaoh will say to you, ‘Show signs,’ you shall say to Aaron, ‘Take your staff, and cast it down before Pharaoh, and it will be turned into a snake.’ ”",
+    "reference": "Exodus 7:9 (CPDV)",
+    "connected_to": "Exodus 7:10",
+    "connected_from": "Exodus 7:8"
+  },
+  {
+    "text": "And so Moses and Aaron entered to Pharaoh, and they did just as the Lord had commanded. And Aaron took the staff in the sight of Pharaoh and his servants, and it was turned into a snake.",
+    "reference": "Exodus 7:10 (CPDV)",
+    "connected_to": "Exodus 7:11",
+    "connected_from": "Exodus 7:9"
+  },
+  {
+    "text": "Then Pharaoh called the wise men and the sorcerers. And they also, by Egyptian incantations and certain secrets, did similarly.",
+    "reference": "Exodus 7:11 (CPDV)",
+    "connected_to": "Exodus 7:12",
+    "connected_from": "Exodus 7:10"
+  },
+  {
+    "text": "And each one cast down their staffs, and they were turned into serpents. But the staff of Aaron devoured their staffs.",
+    "reference": "Exodus 7:12 (CPDV)",
+    "connected_to": "Exodus 7:13",
+    "connected_from": "Exodus 7:11"
+  },
+  {
+    "text": "And the heart of Pharaoh was hardened, and he did not listen to them, just as the Lord had instructed.",
+    "reference": "Exodus 7:13 (CPDV)",
+    "connected_to": "Exodus 7:14",
+    "connected_from": "Exodus 7:12"
+  },
+  {
+    "text": "Then the Lord said to Moses: “The heart of Pharaoh has been hardened; he is not willing to release the people.",
+    "reference": "Exodus 7:14 (CPDV)",
+    "connected_to": "Exodus 7:15",
+    "connected_from": "Exodus 7:13"
+  },
+  {
+    "text": "Go to him in the morning; behold, he will go out to the waters. And you will stand to meet him above the bank of the river. And you will take, in your hand, the staff that was turned into a serpent.",
+    "reference": "Exodus 7:15 (CPDV)",
+    "connected_to": "Exodus 7:16",
+    "connected_from": "Exodus 7:14"
+  },
+  {
+    "text": "And you will say to him: ‘The Lord God of the Hebrews sent me to you, saying: Release my people in order to sacrifice to me in the desert. And even until the present time, you were not willing to listen.",
+    "reference": "Exodus 7:16 (CPDV)",
+    "connected_to": "Exodus 7:17",
+    "connected_from": "Exodus 7:15"
+  },
+  {
+    "text": "Therefore, thus says the Lord: In this you will know that I am the Lord. Behold, I will strike, with the staff that is in my hand, the water of the river, and it will be turned into blood.",
+    "reference": "Exodus 7:17 (CPDV)",
+    "connected_to": "Exodus 7:18",
+    "connected_from": "Exodus 7:16"
+  },
+  {
+    "text": "Also, the fishes that are in the river will die, and the waters will be polluted, and the Egyptians will be afflicted when they drink the water of the river.’ ”",
+    "reference": "Exodus 7:18 (CPDV)",
+    "connected_to": "Exodus 7:19",
+    "connected_from": "Exodus 7:17"
+  },
+  {
+    "text": "The Lord also said to Moses: “Say to Aaron: ‘Take your staff; and extend your hand over the waters of Egypt, and over their rivers and streams and marshes and all the pools of waters, so that they may be turned into blood. And let there be blood throughout all the land of Egypt, as much in vessels of wood as in those of stone.’ ”",
+    "reference": "Exodus 7:19 (CPDV)",
+    "connected_to": "Exodus 7:20",
+    "connected_from": "Exodus 7:18"
+  },
+  {
+    "text": "And Moses and Aaron did just as the Lord had instructed. And lifting up the staff, he struck the water of the river in the sight of Pharaoh and his servants. And it was turned into blood.",
+    "reference": "Exodus 7:20 (CPDV)",
+    "connected_to": "Exodus 7:21",
+    "connected_from": "Exodus 7:19"
+  },
+  {
+    "text": "And the fishes that were in the river died, and the river was polluted, and the Egyptians were not able to drink the water of the river, and there was blood throughout the entire land of Egypt.",
+    "reference": "Exodus 7:21 (CPDV)",
+    "connected_to": "Exodus 7:22",
+    "connected_from": "Exodus 7:20"
+  },
+  {
+    "text": "And the sorcerers of the Egyptians, with their incantations, did similarly. And the heart of Pharaoh was hardened, he did not listen to them, just as the Lord had instructed.",
+    "reference": "Exodus 7:22 (CPDV)",
+    "connected_to": "Exodus 7:23",
+    "connected_from": "Exodus 7:21"
+  },
+  {
+    "text": "And he turned himself away, and he entered his house, neither did he apply his heart to this turn of events.",
+    "reference": "Exodus 7:23 (CPDV)",
+    "connected_to": "Exodus 7:24",
+    "connected_from": "Exodus 7:22"
+  },
+  {
+    "text": "Then all the Egyptians dug along the borders of the river for water to drink. For they were not able to drink from the water of the river.",
+    "reference": "Exodus 7:24 (CPDV)",
+    "connected_to": "Exodus 7:25",
+    "connected_from": "Exodus 7:23"
+  },
+  {
+    "text": "And seven days were completed, after the Lord struck the river.",
+    "reference": "Exodus 7:25 (CPDV)",
+    "connected_from": "Exodus 7:24"
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "text": "Stand fast, and be not held again under the yoke of bondage.",
+    "reference": "Galatians 5:1 (DRB)",
+    "connected_to": "Galatians 5:2"
+  },
+  {
+    "text": "Behold, I Paul tell you, that if you be circumcised, Christ shall profit you nothing.",
+    "reference": "Galatians 5:2 (DRB)",
+    "connected_to": "Galatians 5:3",
+    "connected_from": "Galatians 5:1"
+  },
+  {
+    "text": "And I testify again to every man circumcising himself, that he is a debtor to the whole law.",
+    "reference": "Galatians 5:3 (DRB)",
+    "connected_to": "Galatians 5:4",
+    "connected_from": "Galatians 5:2"
+  },
+  {
+    "text": "You are made void of Christ, you who are justified in the law: you are fallen from grace.",
+    "reference": "Galatians 5:4 (DRB)",
+    "connected_to": "Galatians 5:5",
+    "connected_from": "Galatians 5:3"
+  },
+  {
+    "text": "For we in spirit, by faith, wait for the hope of justice.",
+    "reference": "Galatians 5:5 (DRB)",
+    "connected_to": "Galatians 5:6",
+    "connected_from": "Galatians 5:4"
+  },
+  {
+    "text": "For in Christ Jesus neither circumcision availeth any thing, nor uncircumcision: but faith that worketh by charity.",
+    "reference": "Galatians 5:6 (DRB)",
+    "connected_to": "Galatians 5:7",
+    "connected_from": "Galatians 5:5"
+  },
+  {
+    "text": "You did run well, who hath hindered you, that you should not obey the truth?",
+    "reference": "Galatians 5:7 (DRB)",
+    "connected_to": "Galatians 5:8",
+    "connected_from": "Galatians 5:6"
+  },
+  {
+    "text": "This persuasion is not from him that calleth you.",
+    "reference": "Galatians 5:8 (DRB)",
+    "connected_to": "Galatians 5:9",
+    "connected_from": "Galatians 5:7"
+  },
+  {
+    "text": "A little leaven corrupteth the whole lump.",
+    "reference": "Galatians 5:9 (DRB)",
+    "connected_to": "Galatians 5:10",
+    "connected_from": "Galatians 5:8"
+  },
+  {
+    "text": "I have confidence in you in the Lord: that you will not be of another mind: but he that troubleth you, shall bear the judgment, whosoever he be.",
+    "reference": "Galatians 5:10 (DRB)",
+    "connected_to": "Galatians 5:11",
+    "connected_from": "Galatians 5:9"
+  },
+  {
+    "text": "And I, brethren, if I yet preach circumcision, why do I yet suffer persecution? Then is the scandal of the cross made void.",
+    "reference": "Galatians 5:11 (DRB)",
+    "connected_to": "Galatians 5:12",
+    "connected_from": "Galatians 5:10"
+  },
+  {
+    "text": "I would they were even cut off, who trouble you.",
+    "reference": "Galatians 5:12 (DRB)",
+    "connected_to": "Galatians 5:13",
+    "connected_from": "Galatians 5:11"
+  },
+  {
+    "text": "For you, brethren, have been called unto liberty: only make not liberty an occasion to the flesh, but by charity of the spirit serve one another.",
+    "reference": "Galatians 5:13 (DRB)",
+    "connected_to": "Galatians 5:14",
+    "connected_from": "Galatians 5:12"
+  },
+  {
+    "text": "For all the law is fulfilled in one word: Thou shalt love thy neighbour as thyself.",
+    "reference": "Galatians 5:14 (DRB)",
+    "connected_to": "Galatians 5:15",
+    "connected_from": "Galatians 5:13"
+  },
+  {
+    "text": "But if you bite and devour one another; take heed you be not consumed one of another.",
+    "reference": "Galatians 5:15 (DRB)",
+    "connected_to": "Galatians 5:16",
+    "connected_from": "Galatians 5:14"
+  },
+  {
+    "text": "I say then, walk in the spirit, and you shall not fulfil the lusts of the flesh.",
+    "reference": "Galatians 5:16 (DRB)",
+    "connected_to": "Galatians 5:17",
+    "connected_from": "Galatians 5:15"
+  },
+  {
+    "text": "For the flesh lusteth against the spirit: and the spirit against the flesh; for these are contrary one to another: so that you do not the things that you would.",
+    "reference": "Galatians 5:17 (DRB)",
+    "connected_to": "Galatians 5:18",
+    "connected_from": "Galatians 5:16"
+  },
+  {
+    "text": "But if you are led by the spirit, you are not under the law.",
+    "reference": "Galatians 5:18 (DRB)",
+    "connected_to": "Galatians 5:19",
+    "connected_from": "Galatians 5:17"
+  },
+  {
+    "text": "Now the works of the flesh are manifest, which are fornication, uncleanness, immodesty, luxury,",
+    "reference": "Galatians 5:19 (DRB)",
+    "connected_to": "Galatians 5:20",
+    "connected_from": "Galatians 5:18"
+  },
+  {
+    "text": "Idolatry, witchcrafts, enmities, contentions, emulations, wraths, quarrels, dissensions, sects,",
+    "reference": "Galatians 5:20 (DRB)",
+    "connected_to": "Galatians 5:21",
+    "connected_from": "Galatians 5:19"
+  },
+  {
+    "text": "Envies, murders, drunkenness, revellings, and such like. Of the which I foretell you, as I have foretold to you, that they who do such things shall not obtain the kingdom of God.",
+    "reference": "Galatians 5:21 (DRB)",
+    "connected_to": "Galatians 5:22",
+    "connected_from": "Galatians 5:20"
+  },
+  {
+    "text": "But the fruit of the Spirit is, charity, joy, peace, patience, benignity, goodness, longanimity,",
+    "reference": "Galatians 5:22 (DRB)",
+    "connected_to": "Galatians 5:23",
+    "connected_from": "Galatians 5:21"
+  },
+  {
+    "text": "Mildness, faith, modesty, continency, chastity. Against such there is no law.",
+    "reference": "Galatians 5:23 (DRB)",
+    "connected_to": "Galatians 5:24",
+    "connected_from": "Galatians 5:22"
+  },
+  {
+    "text": "And they that are Christ’s, have crucified their flesh, with the vices and concupiscences.",
+    "reference": "Galatians 5:24 (DRB)",
+    "connected_to": "Galatians 5:25",
+    "connected_from": "Galatians 5:23"
+  },
+  {
+    "text": "If we live in the Spirit, let us also walk in the Spirit.",
+    "reference": "Galatians 5:25 (DRB)",
+    "connected_to": "Galatians 5:26",
+    "connected_from": "Galatians 5:24"
+  },
+  {
+    "text": "Let us not be made desirous of vain glory, provoking one another, envying on another.",
+    "reference": "Galatians 5:26 (DRB)",
+    "connected_from": "Galatians 5:25"
+  }
+]

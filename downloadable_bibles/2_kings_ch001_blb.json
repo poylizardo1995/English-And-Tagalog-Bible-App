@@ -1,0 +1,108 @@
+[
+  {
+    "text": "And Moab rebelled against Israel after the death of Ahab.",
+    "reference": "2 Kings 1:1 (BLB)",
+    "connected_to": "2 Kings 1:2"
+  },
+  {
+    "text": "And Ahaziah fell through the lattice of his upper room that [was] in Samaria, and he was injured. And he sent messengers and said to them, “Go, inquire of Baal-zebub, the god of Ekron, whether I will live from this injury.”",
+    "reference": "2 Kings 1:2 (BLB)",
+    "connected_to": "2 Kings 1:3",
+    "connected_from": "2 Kings 1:1"
+  },
+  {
+    "text": "And the angel of YHWH said to Elijah the Tishbite, “Arise, go up to meet the messengers of the king of Samaria, and say to them, ‘Is it because there is no God in Israel that you⁺ are going to inquire of Baal-zebub, the god of Ekron?’",
+    "reference": "2 Kings 1:3 (BLB)",
+    "connected_to": "2 Kings 1:4",
+    "connected_from": "2 Kings 1:2"
+  },
+  {
+    "text": "And now thus says YHWH, ‘The bed to which you have gone up, you shall not come down from it. For You will surely die.’” And Elijah departed.",
+    "reference": "2 Kings 1:4 (BLB)",
+    "connected_to": "2 Kings 1:5",
+    "connected_from": "2 Kings 1:3"
+  },
+  {
+    "text": "And the messengers returned to him, and he said to them, “What [is] this—you⁺ have returned!”",
+    "reference": "2 Kings 1:5 (BLB)",
+    "connected_to": "2 Kings 1:6",
+    "connected_from": "2 Kings 1:4"
+  },
+  {
+    "text": "And they said to him, “A man came up to meet us and said to us, ‘Go, return to the king who sent you⁺, and say to him, thus says YHWH: Is it because there is no God in Israel that you are sending to inquire of Baal-zebub, the god of Ekron? Therefore the bed to which you have gone up, you shall not come down from it. For You will surely die.’”",
+    "reference": "2 Kings 1:6 (BLB)",
+    "connected_to": "2 Kings 1:7",
+    "connected_from": "2 Kings 1:5"
+  },
+  {
+    "text": "And he said to them, “What was the manner of the man who came up to meet you⁺ and told to you⁺ these words?”",
+    "reference": "2 Kings 1:7 (BLB)",
+    "connected_to": "2 Kings 1:8",
+    "connected_from": "2 Kings 1:6"
+  },
+  {
+    "text": "And they answered to him, “A man owning hair and wearing a leather belt around his waist.” And he said, “It [is] Elijah the Tishbite.”",
+    "reference": "2 Kings 1:8 (BLB)",
+    "connected_to": "2 Kings 1:9",
+    "connected_from": "2 Kings 1:7"
+  },
+  {
+    "text": "And the king sent to him a captain of fifty, and his fifty. And he went up to him, and there he was sitting on the top of the hill. And he said to him, “Man of God, the king has said: ‘Come down.’”",
+    "reference": "2 Kings 1:9 (BLB)",
+    "connected_to": "2 Kings 1:10",
+    "connected_from": "2 Kings 1:8"
+  },
+  {
+    "text": "And Elijah answered and said to the captain of the fifty, “And if I [am] a man of God, let fire come down from the heavens and consume you and your fifty.” And fire came down from the heavens and consumed him and [his] fifty.",
+    "reference": "2 Kings 1:10 (BLB)",
+    "connected_to": "2 Kings 1:11",
+    "connected_from": "2 Kings 1:9"
+  },
+  {
+    "text": "And he turned and sent to him another captain of fifty, and his fifty. And he answered and said to him, “Man of God, thus has said the king: ‘Quickly come down.’”",
+    "reference": "2 Kings 1:11 (BLB)",
+    "connected_to": "2 Kings 1:12",
+    "connected_from": "2 Kings 1:10"
+  },
+  {
+    "text": "And Elijah answered and said to them, “If I [am] a man of God, let fire come down from the heavens and consume you and your fifty.” And the fire of God came down from the heavens and consumed him and [his] fifty.",
+    "reference": "2 Kings 1:12 (BLB)",
+    "connected_to": "2 Kings 1:13",
+    "connected_from": "2 Kings 1:11"
+  },
+  {
+    "text": "And he turned and sent a third captain of fifty, and his fifty. And the third captain of fifty went up, and he came and fell on his knees before Elijah, and he pleaded with him and said to him, “Man of God, let be precious, please, my life and the life of your servants—these fifty—in your eyes.",
+    "reference": "2 Kings 1:13 (BLB)",
+    "connected_to": "2 Kings 1:14",
+    "connected_from": "2 Kings 1:12"
+  },
+  {
+    "text": "Behold, fire has come down from the heavens and burned up the first two captains of fifty, and their fifties. And let my life be precious in your eyes.”",
+    "reference": "2 Kings 1:14 (BLB)",
+    "connected_to": "2 Kings 1:15",
+    "connected_from": "2 Kings 1:13"
+  },
+  {
+    "text": "And the angel of YHWH said to Elijah, “Go down with him; do not be afraid of him.” And he arose and went down with him to the king.",
+    "reference": "2 Kings 1:15 (BLB)",
+    "connected_to": "2 Kings 1:16",
+    "connected_from": "2 Kings 1:14"
+  },
+  {
+    "text": "And he said to him, “Thus says YHWH: Because that you have sent messengers to inquire of Baal-zebub, the god of Ekron, [is it] because there is no God in Israel to inquire of His word? Therefore the bed to which you have gone up there, you shall not come down from it. For you will surely die.”",
+    "reference": "2 Kings 1:16 (BLB)",
+    "connected_to": "2 Kings 1:17",
+    "connected_from": "2 Kings 1:15"
+  },
+  {
+    "text": "And he died according to the word of YHWH that Elijah had spoken. And Jehoram became king in his place in the second year of Joram son of Jehoshaphat king of Judah, because he had no son.",
+    "reference": "2 Kings 1:17 (BLB)",
+    "connected_to": "2 Kings 1:18",
+    "connected_from": "2 Kings 1:16"
+  },
+  {
+    "text": "And the rest of the acts of Ahaziah that he did, are they not written in the Book of the Words of the Days of the Kings of Israel?",
+    "reference": "2 Kings 1:18 (BLB)",
+    "connected_from": "2 Kings 1:17"
+  }
+]

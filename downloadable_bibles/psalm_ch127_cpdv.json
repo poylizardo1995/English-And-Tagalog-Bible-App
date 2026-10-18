@@ -1,0 +1,30 @@
+[
+  {
+    "text": "A Canticle in steps: of Solomon. Unless the Lord has built the house, those who build it have labored in vain. Unless the Lord has guarded the city, he who guards it watches in vain.",
+    "reference": "Psalm 127:1 (CPDV)",
+    "connected_to": "Psalm 127:2"
+  },
+  {
+    "text": "It is in vain that you rise before daylight, that you rise up after you have sat down, you who chew the bread of sorrow. Whereas, to his beloved, he will give sleep.",
+    "reference": "Psalm 127:2 (CPDV)",
+    "connected_to": "Psalm 127:3",
+    "connected_from": "Psalm 127:1"
+  },
+  {
+    "text": "Behold, the inheritance of the Lord is sons, the reward is the fruit of the womb.",
+    "reference": "Psalm 127:3 (CPDV)",
+    "connected_to": "Psalm 127:4",
+    "connected_from": "Psalm 127:2"
+  },
+  {
+    "text": "Like arrows in the hand of the powerful, so are the sons of those who have been cast out.",
+    "reference": "Psalm 127:4 (CPDV)",
+    "connected_to": "Psalm 127:5",
+    "connected_from": "Psalm 127:3"
+  },
+  {
+    "text": "Blessed is the man who has filled his desire from these things. He will not be confounded when he speaks to his enemies at the gate.",
+    "reference": "Psalm 127:5 (CPDV)",
+    "connected_from": "Psalm 127:4"
+  }
+]

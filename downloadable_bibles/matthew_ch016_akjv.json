@@ -1,0 +1,168 @@
+[
+  {
+    "text": "The Pharisees also with the Sadducees came, and tempting desired him that he would show them a sign from heaven.",
+    "reference": "Matthew 16:1 (AKJV)",
+    "connected_to": "Matthew 16:2"
+  },
+  {
+    "text": "He answered and said to them, When it is evening, you say, It will be fair weather: for the sky is red.",
+    "reference": "Matthew 16:2 (AKJV)",
+    "connected_to": "Matthew 16:3",
+    "connected_from": "Matthew 16:1"
+  },
+  {
+    "text": "And in the morning, It will be foul weather to day: for the sky is red and lowering. O you hypocrites, you can discern the face of the sky; but can you not discern the signs of the times?",
+    "reference": "Matthew 16:3 (AKJV)",
+    "connected_to": "Matthew 16:4",
+    "connected_from": "Matthew 16:2"
+  },
+  {
+    "text": "A wicked and adulterous generation seeks after a sign; and there shall no sign be given to it, but the sign of the prophet Jonas. And he left them, and departed.",
+    "reference": "Matthew 16:4 (AKJV)",
+    "connected_to": "Matthew 16:5",
+    "connected_from": "Matthew 16:3"
+  },
+  {
+    "text": "And when his disciples were come to the other side, they had forgotten to take bread.",
+    "reference": "Matthew 16:5 (AKJV)",
+    "connected_to": "Matthew 16:6",
+    "connected_from": "Matthew 16:4"
+  },
+  {
+    "text": "Then Jesus said to them, Take heed and beware of the leaven of the Pharisees and of the Sadducees.",
+    "reference": "Matthew 16:6 (AKJV)",
+    "connected_to": "Matthew 16:7",
+    "connected_from": "Matthew 16:5"
+  },
+  {
+    "text": "And they reasoned among themselves, saying, It is because we have taken no bread.",
+    "reference": "Matthew 16:7 (AKJV)",
+    "connected_to": "Matthew 16:8",
+    "connected_from": "Matthew 16:6"
+  },
+  {
+    "text": "Which when Jesus perceived, he said to them, O you of little faith, why reason you among yourselves, because you have brought no bread?",
+    "reference": "Matthew 16:8 (AKJV)",
+    "connected_to": "Matthew 16:9",
+    "connected_from": "Matthew 16:7"
+  },
+  {
+    "text": "Do you not yet understand, neither remember the five loaves of the five thousand, and how many baskets you took up?",
+    "reference": "Matthew 16:9 (AKJV)",
+    "connected_to": "Matthew 16:10",
+    "connected_from": "Matthew 16:8"
+  },
+  {
+    "text": "Neither the seven loaves of the four thousand, and how many baskets you took up?",
+    "reference": "Matthew 16:10 (AKJV)",
+    "connected_to": "Matthew 16:11",
+    "connected_from": "Matthew 16:9"
+  },
+  {
+    "text": "How is it that you do not understand that I spoke it not to you concerning bread, that you should beware of the leaven of the Pharisees and of the Sadducees?",
+    "reference": "Matthew 16:11 (AKJV)",
+    "connected_to": "Matthew 16:12",
+    "connected_from": "Matthew 16:10"
+  },
+  {
+    "text": "Then understood they how that he bade them not beware of the leaven of bread, but of the doctrine of the Pharisees and of the Sadducees.",
+    "reference": "Matthew 16:12 (AKJV)",
+    "connected_to": "Matthew 16:13",
+    "connected_from": "Matthew 16:11"
+  },
+  {
+    "text": "When Jesus came into the coasts of Caesarea Philippi, he asked his disciples, saying, Whom do men say that I the Son of man am?",
+    "reference": "Matthew 16:13 (AKJV)",
+    "connected_to": "Matthew 16:14",
+    "connected_from": "Matthew 16:12"
+  },
+  {
+    "text": "And they said, Some say that you are John the Baptist: some, Elias; and others, Jeremias, or one of the prophets.",
+    "reference": "Matthew 16:14 (AKJV)",
+    "connected_to": "Matthew 16:15",
+    "connected_from": "Matthew 16:13"
+  },
+  {
+    "text": "He said to them, But whom say you that I am?",
+    "reference": "Matthew 16:15 (AKJV)",
+    "connected_to": "Matthew 16:16",
+    "connected_from": "Matthew 16:14"
+  },
+  {
+    "text": "And Simon Peter answered and said, You are the Christ, the Son of the living God.",
+    "reference": "Matthew 16:16 (AKJV)",
+    "connected_to": "Matthew 16:17",
+    "connected_from": "Matthew 16:15"
+  },
+  {
+    "text": "And Jesus answered and said to him, Blessed are you, Simon Barjona: for flesh and blood has not revealed it to you, but my Father which is in heaven.",
+    "reference": "Matthew 16:17 (AKJV)",
+    "connected_to": "Matthew 16:18",
+    "connected_from": "Matthew 16:16"
+  },
+  {
+    "text": "And I say also to you, That you are Peter, and on this rock I will build my church; and the gates of hell shall not prevail against it.",
+    "reference": "Matthew 16:18 (AKJV)",
+    "connected_to": "Matthew 16:19",
+    "connected_from": "Matthew 16:17"
+  },
+  {
+    "text": "And I will give to you the keys of the kingdom of heaven: and whatever you shall bind on earth shall be bound in heaven: and whatever you shall loose on earth shall be loosed in heaven.",
+    "reference": "Matthew 16:19 (AKJV)",
+    "connected_to": "Matthew 16:20",
+    "connected_from": "Matthew 16:18"
+  },
+  {
+    "text": "Then charged he his disciples that they should tell no man that he was Jesus the Christ.",
+    "reference": "Matthew 16:20 (AKJV)",
+    "connected_to": "Matthew 16:21",
+    "connected_from": "Matthew 16:19"
+  },
+  {
+    "text": "From that time forth began Jesus to show to his disciples, how that he must go to Jerusalem, and suffer many things of the elders and chief priests and scribes, and be killed, and be raised again the third day.",
+    "reference": "Matthew 16:21 (AKJV)",
+    "connected_to": "Matthew 16:22",
+    "connected_from": "Matthew 16:20"
+  },
+  {
+    "text": "Then Peter took him, and began to rebuke him, saying, Be it far from you, Lord: this shall not be to you.",
+    "reference": "Matthew 16:22 (AKJV)",
+    "connected_to": "Matthew 16:23",
+    "connected_from": "Matthew 16:21"
+  },
+  {
+    "text": "But he turned, and said to Peter, Get you behind me, Satan: you are an offense to me: for you mind not the things that be of God, but those that be of men.",
+    "reference": "Matthew 16:23 (AKJV)",
+    "connected_to": "Matthew 16:24",
+    "connected_from": "Matthew 16:22"
+  },
+  {
+    "text": "Then said Jesus to his disciples, If any man will come after me, let him deny himself, and take up his cross, and follow me.",
+    "reference": "Matthew 16:24 (AKJV)",
+    "connected_to": "Matthew 16:25",
+    "connected_from": "Matthew 16:23"
+  },
+  {
+    "text": "For whoever will save his life shall lose it: and whoever will lose his life for my sake shall find it.",
+    "reference": "Matthew 16:25 (AKJV)",
+    "connected_to": "Matthew 16:26",
+    "connected_from": "Matthew 16:24"
+  },
+  {
+    "text": "For what is a man profited, if he shall gain the whole world, and lose his own soul? or what shall a man give in exchange for his soul?",
+    "reference": "Matthew 16:26 (AKJV)",
+    "connected_to": "Matthew 16:27",
+    "connected_from": "Matthew 16:25"
+  },
+  {
+    "text": "For the Son of man shall come in the glory of his Father with his angels; and then he shall reward every man according to his works.",
+    "reference": "Matthew 16:27 (AKJV)",
+    "connected_to": "Matthew 16:28",
+    "connected_from": "Matthew 16:26"
+  },
+  {
+    "text": "Truly I say to you, There be some standing here, which shall not taste of death, till they see the Son of man coming in his kingdom.",
+    "reference": "Matthew 16:28 (AKJV)",
+    "connected_from": "Matthew 16:27"
+  }
+]

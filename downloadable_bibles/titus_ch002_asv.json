@@ -1,0 +1,90 @@
+[
+  {
+    "text": "But speak thou the things which befit the sound doctrine:",
+    "reference": "Titus 2:1 (ASV)",
+    "connected_to": "Titus 2:2"
+  },
+  {
+    "text": "that aged men be temperate, grave, sober-minded, sound in faith, in love, in patience:",
+    "reference": "Titus 2:2 (ASV)",
+    "connected_to": "Titus 2:3",
+    "connected_from": "Titus 2:1"
+  },
+  {
+    "text": "that aged women likewise be reverent in demeanor, not slanderers nor enslaved to much wine, teachers of that which is good;",
+    "reference": "Titus 2:3 (ASV)",
+    "connected_to": "Titus 2:4",
+    "connected_from": "Titus 2:2"
+  },
+  {
+    "text": "that they may train the young women to love their husbands, to love their children,",
+    "reference": "Titus 2:4 (ASV)",
+    "connected_to": "Titus 2:5",
+    "connected_from": "Titus 2:3"
+  },
+  {
+    "text": "to be sober-minded, chaste, workers at home, kind, being in subjection to their own husbands, that the word of God be not blasphemed:",
+    "reference": "Titus 2:5 (ASV)",
+    "connected_to": "Titus 2:6",
+    "connected_from": "Titus 2:4"
+  },
+  {
+    "text": "the younger men likewise exhort to be sober-minded:",
+    "reference": "Titus 2:6 (ASV)",
+    "connected_to": "Titus 2:7",
+    "connected_from": "Titus 2:5"
+  },
+  {
+    "text": "in all things showing thyself an ensample of good works; in thy doctrine showing uncorruptness, gravity,",
+    "reference": "Titus 2:7 (ASV)",
+    "connected_to": "Titus 2:8",
+    "connected_from": "Titus 2:6"
+  },
+  {
+    "text": "sound speech, that cannot be condemned; that he that is of the contrary part may be ashamed, having no evil thing to say of us.",
+    "reference": "Titus 2:8 (ASV)",
+    "connected_to": "Titus 2:9",
+    "connected_from": "Titus 2:7"
+  },
+  {
+    "text": "Exhort servants to be in subjection to their own masters, and to be well-pleasing to them in all things; not gainsaying;",
+    "reference": "Titus 2:9 (ASV)",
+    "connected_to": "Titus 2:10",
+    "connected_from": "Titus 2:8"
+  },
+  {
+    "text": "not purloining, but showing all good fidelity; that they may adorn the doctrine of God our Saviour in all things.",
+    "reference": "Titus 2:10 (ASV)",
+    "connected_to": "Titus 2:11",
+    "connected_from": "Titus 2:9"
+  },
+  {
+    "text": "For the grace of God hath appeared, bringing salvation to all men,",
+    "reference": "Titus 2:11 (ASV)",
+    "connected_to": "Titus 2:12",
+    "connected_from": "Titus 2:10"
+  },
+  {
+    "text": "instructing us, to the intent that, denying ungodliness and worldly lusts, we should live soberly and righteously and godly in this present world;",
+    "reference": "Titus 2:12 (ASV)",
+    "connected_to": "Titus 2:13",
+    "connected_from": "Titus 2:11"
+  },
+  {
+    "text": "looking for the blessed hope and appearing of the glory of the great God and our Saviour Jesus Christ;",
+    "reference": "Titus 2:13 (ASV)",
+    "connected_to": "Titus 2:14",
+    "connected_from": "Titus 2:12"
+  },
+  {
+    "text": "who gave himself for us, that he might redeem us from all iniquity, and purify unto himself a people for his own possession, zealous of good works.",
+    "reference": "Titus 2:14 (ASV)",
+    "connected_to": "Titus 2:15",
+    "connected_from": "Titus 2:13"
+  },
+  {
+    "text": "These things speak and exhort and reprove with all authority. Let no man despise thee.",
+    "reference": "Titus 2:15 (ASV)",
+    "connected_from": "Titus 2:14"
+  }
+]

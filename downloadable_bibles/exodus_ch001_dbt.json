@@ -1,0 +1,132 @@
+[
+  {
+    "text": "And these are the names of the sons of Israel who had come into Egypt; with Jacob had they come, each with his household:",
+    "reference": "Exodus 1:1 (DBT)",
+    "connected_to": "Exodus 1:2"
+  },
+  {
+    "text": "Reuben, Simeon, Levi, and Judah;",
+    "reference": "Exodus 1:2 (DBT)",
+    "connected_to": "Exodus 1:3",
+    "connected_from": "Exodus 1:1"
+  },
+  {
+    "text": "Issachar, Zebulun, and Benjamin;",
+    "reference": "Exodus 1:3 (DBT)",
+    "connected_to": "Exodus 1:4",
+    "connected_from": "Exodus 1:2"
+  },
+  {
+    "text": "Dan and Naphtali; Gad and Asher.",
+    "reference": "Exodus 1:4 (DBT)",
+    "connected_to": "Exodus 1:5",
+    "connected_from": "Exodus 1:3"
+  },
+  {
+    "text": "And all the souls that had come out of the loins of Jacob were seventy souls; and Joseph was in Egypt.",
+    "reference": "Exodus 1:5 (DBT)",
+    "connected_to": "Exodus 1:6",
+    "connected_from": "Exodus 1:4"
+  },
+  {
+    "text": "And Joseph died, and all his brethren, and all that generation.",
+    "reference": "Exodus 1:6 (DBT)",
+    "connected_to": "Exodus 1:7",
+    "connected_from": "Exodus 1:5"
+  },
+  {
+    "text": "And the children of Israel were fruitful, and swarmed and multiplied, and became exceeding strong; and the land was full of them.",
+    "reference": "Exodus 1:7 (DBT)",
+    "connected_to": "Exodus 1:8",
+    "connected_from": "Exodus 1:6"
+  },
+  {
+    "text": "And there arose a new king over Egypt, who did not know Joseph.",
+    "reference": "Exodus 1:8 (DBT)",
+    "connected_to": "Exodus 1:9",
+    "connected_from": "Exodus 1:7"
+  },
+  {
+    "text": "And he said to his people, Behold, the people of the children of Israel are more numerous and stronger than we.",
+    "reference": "Exodus 1:9 (DBT)",
+    "connected_to": "Exodus 1:10",
+    "connected_from": "Exodus 1:8"
+  },
+  {
+    "text": "Come on, let us deal wisely with them, lest they multiply, and it come to pass that, if war occur, they take side with our enemies and fight against us, and go up out of the land.",
+    "reference": "Exodus 1:10 (DBT)",
+    "connected_to": "Exodus 1:11",
+    "connected_from": "Exodus 1:9"
+  },
+  {
+    "text": "And they set over them service-masters to oppress them with their burdens. And they built store-cities for Pharaoh, Pithom and Rameses.",
+    "reference": "Exodus 1:11 (DBT)",
+    "connected_to": "Exodus 1:12",
+    "connected_from": "Exodus 1:10"
+  },
+  {
+    "text": "But the more they afflicted them, the more they multiplied and spread; and they were distressed because of the children of Israel.",
+    "reference": "Exodus 1:12 (DBT)",
+    "connected_to": "Exodus 1:13",
+    "connected_from": "Exodus 1:11"
+  },
+  {
+    "text": "And the Egyptians made the children of Israel serve with harshness;",
+    "reference": "Exodus 1:13 (DBT)",
+    "connected_to": "Exodus 1:14",
+    "connected_from": "Exodus 1:12"
+  },
+  {
+    "text": "and they embittered their life with hard labour in clay and bricks, and in all manner of labour in the field: all their labour with which they made them serve was with harshness.",
+    "reference": "Exodus 1:14 (DBT)",
+    "connected_to": "Exodus 1:15",
+    "connected_from": "Exodus 1:13"
+  },
+  {
+    "text": "And the king of Egypt spoke to the Hebrew midwives—of whom the name of the one was Shiphrah, and the name of the other was Puah—",
+    "reference": "Exodus 1:15 (DBT)",
+    "connected_to": "Exodus 1:16",
+    "connected_from": "Exodus 1:14"
+  },
+  {
+    "text": "and he said, When ye help the Hebrew women in bearing, and see [them] on the stool, if it be a son, then ye shall kill him, but if a daughter, then she shall live.",
+    "reference": "Exodus 1:16 (DBT)",
+    "connected_to": "Exodus 1:17",
+    "connected_from": "Exodus 1:15"
+  },
+  {
+    "text": "But the midwives feared God, and did not as the king of Egypt had said to them, but saved the male children alive.",
+    "reference": "Exodus 1:17 (DBT)",
+    "connected_to": "Exodus 1:18",
+    "connected_from": "Exodus 1:16"
+  },
+  {
+    "text": "And the king of Egypt called the midwives and said to them, Why have ye done this, and saved the male children alive?",
+    "reference": "Exodus 1:18 (DBT)",
+    "connected_to": "Exodus 1:19",
+    "connected_from": "Exodus 1:17"
+  },
+  {
+    "text": "And the midwives said to Pharaoh, Because the Hebrew women are not as the Egyptian; for they are strong, and they have borne before the midwife comes to them.",
+    "reference": "Exodus 1:19 (DBT)",
+    "connected_to": "Exodus 1:20",
+    "connected_from": "Exodus 1:18"
+  },
+  {
+    "text": "And God dealt well with the midwives; and the people multiplied and became very strong.",
+    "reference": "Exodus 1:20 (DBT)",
+    "connected_to": "Exodus 1:21",
+    "connected_from": "Exodus 1:19"
+  },
+  {
+    "text": "And it came to pass, because the midwives feared God, that he made them houses.",
+    "reference": "Exodus 1:21 (DBT)",
+    "connected_to": "Exodus 1:22",
+    "connected_from": "Exodus 1:20"
+  },
+  {
+    "text": "Then Pharaoh charged all his people, saying, Every son that is born ye shall cast into the river, but every daughter ye shall save alive.",
+    "reference": "Exodus 1:22 (DBT)",
+    "connected_from": "Exodus 1:21"
+  }
+]

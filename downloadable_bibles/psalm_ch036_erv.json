@@ -1,0 +1,72 @@
+[
+  {
+    "text": "For the Chief Musician. A Psalm of David the servant of the LORD. The transgression of the wicked saith within my heart, There is no fear of God before his eyes.",
+    "reference": "Psalm 36:1 (ERV)",
+    "connected_to": "Psalm 36:2"
+  },
+  {
+    "text": "For he flattereth himself in his own eyes, that his iniquity shall not be found out and be hated.",
+    "reference": "Psalm 36:2 (ERV)",
+    "connected_to": "Psalm 36:3",
+    "connected_from": "Psalm 36:1"
+  },
+  {
+    "text": "The words of his mouth are iniquity and deceit: he hath left off to be wise and to do good.",
+    "reference": "Psalm 36:3 (ERV)",
+    "connected_to": "Psalm 36:4",
+    "connected_from": "Psalm 36:2"
+  },
+  {
+    "text": "He deviseth iniquity upon his bed; he setteth himself in a way that is not good; he abhorreth not evil.",
+    "reference": "Psalm 36:4 (ERV)",
+    "connected_to": "Psalm 36:5",
+    "connected_from": "Psalm 36:3"
+  },
+  {
+    "text": "Thy lovingkindness, O LORD, is in the heavens; thy faithfulness reacheth unto the skies.",
+    "reference": "Psalm 36:5 (ERV)",
+    "connected_to": "Psalm 36:6",
+    "connected_from": "Psalm 36:4"
+  },
+  {
+    "text": "Thy righteousness is like the mountains of God; thy judgments are a great deep: O LORD, thou preservest man and beast.",
+    "reference": "Psalm 36:6 (ERV)",
+    "connected_to": "Psalm 36:7",
+    "connected_from": "Psalm 36:5"
+  },
+  {
+    "text": "How precious is thy lovingkindness, O God! and the children of men take refuge under the shadow of thy wings.",
+    "reference": "Psalm 36:7 (ERV)",
+    "connected_to": "Psalm 36:8",
+    "connected_from": "Psalm 36:6"
+  },
+  {
+    "text": "They shall be abundantly satisfied with the fatness of thy house; and thou shalt make them drink of the river of thy pleasures.",
+    "reference": "Psalm 36:8 (ERV)",
+    "connected_to": "Psalm 36:9",
+    "connected_from": "Psalm 36:7"
+  },
+  {
+    "text": "For with thee is the fountain of life: in thy light shall we see light.",
+    "reference": "Psalm 36:9 (ERV)",
+    "connected_to": "Psalm 36:10",
+    "connected_from": "Psalm 36:8"
+  },
+  {
+    "text": "O continue thy lovingkindness unto them that know thee; and thy righteousness to the upright in heart.",
+    "reference": "Psalm 36:10 (ERV)",
+    "connected_to": "Psalm 36:11",
+    "connected_from": "Psalm 36:9"
+  },
+  {
+    "text": "Let not the foot of pride come against me, and let not the hand of the wicked drive me away.",
+    "reference": "Psalm 36:11 (ERV)",
+    "connected_to": "Psalm 36:12",
+    "connected_from": "Psalm 36:10"
+  },
+  {
+    "text": "There are the workers of iniquity fallen: they are thrust down, and shall not be able to rise.",
+    "reference": "Psalm 36:12 (ERV)",
+    "connected_from": "Psalm 36:11"
+  }
+]

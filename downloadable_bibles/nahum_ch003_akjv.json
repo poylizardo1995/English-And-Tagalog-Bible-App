@@ -1,0 +1,114 @@
+[
+  {
+    "text": "Woe to the bloody city! it is all full of lies and robbery; the prey departs not;",
+    "reference": "Nahum 3:1 (AKJV)",
+    "connected_to": "Nahum 3:2"
+  },
+  {
+    "text": "The noise of a whip, and the noise of the rattling of the wheels, and of the prancing horses, and of the jumping chariots.",
+    "reference": "Nahum 3:2 (AKJV)",
+    "connected_to": "Nahum 3:3",
+    "connected_from": "Nahum 3:1"
+  },
+  {
+    "text": "The horseman lifts up both the bright sword and the glittering spear: and there is a multitude of slain, and a great number of carcasses; and there is none end of their corpses; they stumble on their corpses:",
+    "reference": "Nahum 3:3 (AKJV)",
+    "connected_to": "Nahum 3:4",
+    "connected_from": "Nahum 3:2"
+  },
+  {
+    "text": "Because of the multitude of the prostitutions of the well favored harlot, the mistress of witchcrafts, that sells nations through her prostitutions, and families through her witchcrafts.",
+    "reference": "Nahum 3:4 (AKJV)",
+    "connected_to": "Nahum 3:5",
+    "connected_from": "Nahum 3:3"
+  },
+  {
+    "text": "Behold, I am against you, said the LORD of hosts; and I will discover your skirts on your face, and I will show the nations your nakedness, and the kingdoms your shame.",
+    "reference": "Nahum 3:5 (AKJV)",
+    "connected_to": "Nahum 3:6",
+    "connected_from": "Nahum 3:4"
+  },
+  {
+    "text": "And I will cast abominable filth on you, and make you vile, and will set you as a spectacle.",
+    "reference": "Nahum 3:6 (AKJV)",
+    "connected_to": "Nahum 3:7",
+    "connected_from": "Nahum 3:5"
+  },
+  {
+    "text": "And it shall come to pass, that all they that look on you shall flee from you, and say, Nineveh is laid waste: who will bemoan her? from where shall I seek comforters for you?",
+    "reference": "Nahum 3:7 (AKJV)",
+    "connected_to": "Nahum 3:8",
+    "connected_from": "Nahum 3:6"
+  },
+  {
+    "text": "Are you better than populous No, that was situate among the rivers, that had the waters round about it, whose rampart was the sea, and her wall was from the sea?",
+    "reference": "Nahum 3:8 (AKJV)",
+    "connected_to": "Nahum 3:9",
+    "connected_from": "Nahum 3:7"
+  },
+  {
+    "text": "Ethiopia and Egypt were her strength, and it was infinite; Put and Lubim were your helpers.",
+    "reference": "Nahum 3:9 (AKJV)",
+    "connected_to": "Nahum 3:10",
+    "connected_from": "Nahum 3:8"
+  },
+  {
+    "text": "Yet was she carried away, she went into captivity: her young children also were dashed in pieces at the top of all the streets: and they cast lots for her honorable men, and all her great men were bound in chains.",
+    "reference": "Nahum 3:10 (AKJV)",
+    "connected_to": "Nahum 3:11",
+    "connected_from": "Nahum 3:9"
+  },
+  {
+    "text": "You also shall be drunken: you shall be hid, you also shall seek strength because of the enemy.",
+    "reference": "Nahum 3:11 (AKJV)",
+    "connected_to": "Nahum 3:12",
+    "connected_from": "Nahum 3:10"
+  },
+  {
+    "text": "All your strong holds shall be like fig trees with the first ripe figs: if they be shaken, they shall even fall into the mouth of the eater.",
+    "reference": "Nahum 3:12 (AKJV)",
+    "connected_to": "Nahum 3:13",
+    "connected_from": "Nahum 3:11"
+  },
+  {
+    "text": "Behold, your people in the middle of you are women: the gates of your land shall be set wide open to your enemies: the fire shall devour your bars.",
+    "reference": "Nahum 3:13 (AKJV)",
+    "connected_to": "Nahum 3:14",
+    "connected_from": "Nahum 3:12"
+  },
+  {
+    "text": "Draw you waters for the siege, fortify your strong holds: go into clay, and tread the mortar, make strong the brick kiln.",
+    "reference": "Nahum 3:14 (AKJV)",
+    "connected_to": "Nahum 3:15",
+    "connected_from": "Nahum 3:13"
+  },
+  {
+    "text": "There shall the fire devour you; the sword shall cut you off, it shall eat you up like the cankerworm: make yourself many as the cankerworm, make yourself many as the locusts.",
+    "reference": "Nahum 3:15 (AKJV)",
+    "connected_to": "Nahum 3:16",
+    "connected_from": "Nahum 3:14"
+  },
+  {
+    "text": "You have multiplied your merchants above the stars of heaven: the cankerworm spoils, and flees away.",
+    "reference": "Nahum 3:16 (AKJV)",
+    "connected_to": "Nahum 3:17",
+    "connected_from": "Nahum 3:15"
+  },
+  {
+    "text": "Your crowned are as the locusts, and your captains as the great grasshoppers, which camp in the hedges in the cold day, but when the sun rises they flee away, and their place is not known where they are.",
+    "reference": "Nahum 3:17 (AKJV)",
+    "connected_to": "Nahum 3:18",
+    "connected_from": "Nahum 3:16"
+  },
+  {
+    "text": "Your shepherds slumber, O king of Assyria: your nobles shall dwell in the dust: your people is scattered on the mountains, and no man gathers them.",
+    "reference": "Nahum 3:18 (AKJV)",
+    "connected_to": "Nahum 3:19",
+    "connected_from": "Nahum 3:17"
+  },
+  {
+    "text": "There is no healing of your bruise; your wound is grievous: all that hear the bruit of you shall clap the hands over you: for on whom has not your wickedness passed continually?",
+    "reference": "Nahum 3:19 (AKJV)",
+    "connected_from": "Nahum 3:18"
+  }
+]

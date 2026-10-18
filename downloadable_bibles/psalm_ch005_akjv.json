@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Give ear to my words, O LORD, consider my meditation.",
+    "reference": "Psalm 5:1 (AKJV)",
+    "connected_to": "Psalm 5:2"
+  },
+  {
+    "text": "Listen to the voice of my cry, my King, and my God: for to you will I pray.",
+    "reference": "Psalm 5:2 (AKJV)",
+    "connected_to": "Psalm 5:3",
+    "connected_from": "Psalm 5:1"
+  },
+  {
+    "text": "My voice shall you hear in the morning, O LORD; in the morning will I direct my prayer to you, and will look up.",
+    "reference": "Psalm 5:3 (AKJV)",
+    "connected_to": "Psalm 5:4",
+    "connected_from": "Psalm 5:2"
+  },
+  {
+    "text": "For you are not a God that has pleasure in wickedness: neither shall evil dwell with you.",
+    "reference": "Psalm 5:4 (AKJV)",
+    "connected_to": "Psalm 5:5",
+    "connected_from": "Psalm 5:3"
+  },
+  {
+    "text": "The foolish shall not stand in your sight: you hate all workers of iniquity.",
+    "reference": "Psalm 5:5 (AKJV)",
+    "connected_to": "Psalm 5:6",
+    "connected_from": "Psalm 5:4"
+  },
+  {
+    "text": "You shall destroy them that speak leasing: the LORD will abhor the bloody and deceitful man.",
+    "reference": "Psalm 5:6 (AKJV)",
+    "connected_to": "Psalm 5:7",
+    "connected_from": "Psalm 5:5"
+  },
+  {
+    "text": "But as for me, I will come into your house in the multitude of your mercy: and in your fear will I worship toward your holy temple.",
+    "reference": "Psalm 5:7 (AKJV)",
+    "connected_to": "Psalm 5:8",
+    "connected_from": "Psalm 5:6"
+  },
+  {
+    "text": "Lead me, O LORD, in your righteousness because of my enemies; make your way straight before my face.",
+    "reference": "Psalm 5:8 (AKJV)",
+    "connected_to": "Psalm 5:9",
+    "connected_from": "Psalm 5:7"
+  },
+  {
+    "text": "For there is no faithfulness in their mouth; their inward part is very wickedness; their throat is an open sepulcher; they flatter with their tongue.",
+    "reference": "Psalm 5:9 (AKJV)",
+    "connected_to": "Psalm 5:10",
+    "connected_from": "Psalm 5:8"
+  },
+  {
+    "text": "Destroy you them, O God; let them fall by their own counsels; cast them out in the multitude of their transgressions; for they have rebelled against you.",
+    "reference": "Psalm 5:10 (AKJV)",
+    "connected_to": "Psalm 5:11",
+    "connected_from": "Psalm 5:9"
+  },
+  {
+    "text": "But let all those that put their trust in you rejoice: let them ever shout for joy, because you defend them: let them also that love your name be joyful in you.",
+    "reference": "Psalm 5:11 (AKJV)",
+    "connected_to": "Psalm 5:12",
+    "connected_from": "Psalm 5:10"
+  },
+  {
+    "text": "For you, LORD, will bless the righteous; with favor will you compass him as with a shield.",
+    "reference": "Psalm 5:12 (AKJV)",
+    "connected_from": "Psalm 5:11"
+  }
+]

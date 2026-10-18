@@ -1,0 +1,180 @@
+[
+  {
+    "text": "But Job, responding, said:",
+    "reference": "Job 6:1 (CPDV)",
+    "connected_to": "Job 6:2"
+  },
+  {
+    "text": "I wish that my sins, for which I deserve wrath, and the calamity that I endure, were weighed out on a balance.",
+    "reference": "Job 6:2 (CPDV)",
+    "connected_to": "Job 6:3",
+    "connected_from": "Job 6:1"
+  },
+  {
+    "text": "Compared to the sand of the sea, they would appear heavier, and so my words are full of sorrow.",
+    "reference": "Job 6:3 (CPDV)",
+    "connected_to": "Job 6:4",
+    "connected_from": "Job 6:2"
+  },
+  {
+    "text": "For the arrows of the Lord are in me, my spirit drinks of their indignation, and the terrors of the Lord are soldiers against me.",
+    "reference": "Job 6:4 (CPDV)",
+    "connected_to": "Job 6:5",
+    "connected_from": "Job 6:3"
+  },
+  {
+    "text": "Will the wild ass bray when he has grass? Or will the ox bellow when he stands before a full manger?",
+    "reference": "Job 6:5 (CPDV)",
+    "connected_to": "Job 6:6",
+    "connected_from": "Job 6:4"
+  },
+  {
+    "text": "Or can one eat bland food, which is not seasoned with salt? Or can anyone taste that which, if tasted, causes death?",
+    "reference": "Job 6:6 (CPDV)",
+    "connected_to": "Job 6:7",
+    "connected_from": "Job 6:5"
+  },
+  {
+    "text": "The things that my soul was unwilling to touch before, now, because of anguish, are my foods.",
+    "reference": "Job 6:7 (CPDV)",
+    "connected_to": "Job 6:8",
+    "connected_from": "Job 6:6"
+  },
+  {
+    "text": "Who will grant that my petition may arrive and that God may bestow on me what I expect,",
+    "reference": "Job 6:8 (CPDV)",
+    "connected_to": "Job 6:9",
+    "connected_from": "Job 6:7"
+  },
+  {
+    "text": "and that he who, at first, had crushed me, will let loose his hand and cut me down?",
+    "reference": "Job 6:9 (CPDV)",
+    "connected_to": "Job 6:10",
+    "connected_from": "Job 6:8"
+  },
+  {
+    "text": "And may this be my consolation, that in afflicting me with sorrow, although he might not be lenient with me, I still do not contradict the words of the Holy One.",
+    "reference": "Job 6:10 (CPDV)",
+    "connected_to": "Job 6:11",
+    "connected_from": "Job 6:9"
+  },
+  {
+    "text": "For what is my strength, that I may continue? Or what is my goal, so that I may act patiently?",
+    "reference": "Job 6:11 (CPDV)",
+    "connected_to": "Job 6:12",
+    "connected_from": "Job 6:10"
+  },
+  {
+    "text": "My strength is not the strength of stones, nor is my flesh made of bronze.",
+    "reference": "Job 6:12 (CPDV)",
+    "connected_to": "Job 6:13",
+    "connected_from": "Job 6:11"
+  },
+  {
+    "text": "Behold, there is no help for me in myself, and my loved ones also have withdrawn from me.",
+    "reference": "Job 6:13 (CPDV)",
+    "connected_to": "Job 6:14",
+    "connected_from": "Job 6:12"
+  },
+  {
+    "text": "He who takes away mercy from his friend, abandons the fear of the Lord.",
+    "reference": "Job 6:14 (CPDV)",
+    "connected_to": "Job 6:15",
+    "connected_from": "Job 6:13"
+  },
+  {
+    "text": "My brethren have disregarded me, like a torrent that passes swiftly through the steep valleys.",
+    "reference": "Job 6:15 (CPDV)",
+    "connected_to": "Job 6:16",
+    "connected_from": "Job 6:14"
+  },
+  {
+    "text": "Those who fear frost, snow will rush over them.",
+    "reference": "Job 6:16 (CPDV)",
+    "connected_to": "Job 6:17",
+    "connected_from": "Job 6:15"
+  },
+  {
+    "text": "At that time, when they are scattered, they will perish, and when it becomes hot, they will be freed from their place.",
+    "reference": "Job 6:17 (CPDV)",
+    "connected_to": "Job 6:18",
+    "connected_from": "Job 6:16"
+  },
+  {
+    "text": "The paths of their steps are entangled; they will walk in vain and will perish.",
+    "reference": "Job 6:18 (CPDV)",
+    "connected_to": "Job 6:19",
+    "connected_from": "Job 6:17"
+  },
+  {
+    "text": "Consider the paths of Thema, the ways of Saba, and wait a little while.",
+    "reference": "Job 6:19 (CPDV)",
+    "connected_to": "Job 6:20",
+    "connected_from": "Job 6:18"
+  },
+  {
+    "text": "They have been thrown into confusion, just as I had hoped; they have even come to me and are overwhelmed with shame.",
+    "reference": "Job 6:20 (CPDV)",
+    "connected_to": "Job 6:21",
+    "connected_from": "Job 6:19"
+  },
+  {
+    "text": "Now you have arrived, and merely by seeing my affliction, you are afraid.",
+    "reference": "Job 6:21 (CPDV)",
+    "connected_to": "Job 6:22",
+    "connected_from": "Job 6:20"
+  },
+  {
+    "text": "Did I say: “Bring to me and give to me from your necessities?”",
+    "reference": "Job 6:22 (CPDV)",
+    "connected_to": "Job 6:23",
+    "connected_from": "Job 6:21"
+  },
+  {
+    "text": "or, “Free me from the hand of the enemy and rescue me from the hand of the strong?”",
+    "reference": "Job 6:23 (CPDV)",
+    "connected_to": "Job 6:24",
+    "connected_from": "Job 6:22"
+  },
+  {
+    "text": "Teach me, and I will be silent, and if by chance I have been ignorant of anything, instruct me.",
+    "reference": "Job 6:24 (CPDV)",
+    "connected_to": "Job 6:25",
+    "connected_from": "Job 6:23"
+  },
+  {
+    "text": "Why have you diminished the words of truth, when there is none of you who is able to offer proof against me?",
+    "reference": "Job 6:25 (CPDV)",
+    "connected_to": "Job 6:26",
+    "connected_from": "Job 6:24"
+  },
+  {
+    "text": "You prepare speeches as so much noise, and you offer words into the wind.",
+    "reference": "Job 6:26 (CPDV)",
+    "connected_to": "Job 6:27",
+    "connected_from": "Job 6:25"
+  },
+  {
+    "text": "You encroach upon the orphan, and you strive to undermine your friend.",
+    "reference": "Job 6:27 (CPDV)",
+    "connected_to": "Job 6:28",
+    "connected_from": "Job 6:26"
+  },
+  {
+    "text": "Such is true, so finish what you have begun. Listen closely, and see if I lie.",
+    "reference": "Job 6:28 (CPDV)",
+    "connected_to": "Job 6:29",
+    "connected_from": "Job 6:27"
+  },
+  {
+    "text": "Respond, I beg you, without contention, and, speaking what is just, pass judgment.",
+    "reference": "Job 6:29 (CPDV)",
+    "connected_to": "Job 6:30",
+    "connected_from": "Job 6:28"
+  },
+  {
+    "text": "And you will not find iniquity on my tongue, nor will foolishness resound in my throat.",
+    "reference": "Job 6:30 (CPDV)",
+    "connected_from": "Job 6:29"
+  }
+]

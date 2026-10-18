@@ -1,0 +1,186 @@
+[
+  {
+    "text": "[“] And now they laugh at me, the fewer in days than I, whose fathers I disdained to put with the dogs of my flock.",
+    "reference": "Job 30:1 (BLB)",
+    "connected_to": "Job 30:2"
+  },
+  {
+    "text": "Indeed, the strength of their hands, what [is it] to me? Upon them vigor has perished,",
+    "reference": "Job 30:2 (BLB)",
+    "connected_to": "Job 30:3",
+    "connected_from": "Job 30:1"
+  },
+  {
+    "text": "in poverty and in harsh hunger, ones gnawing the dry ground by night, [in] ruin and desolation.",
+    "reference": "Job 30:3 (BLB)",
+    "connected_to": "Job 30:4",
+    "connected_from": "Job 30:2"
+  },
+  {
+    "text": "They [are] plucking mallow among the brush, and the root of the broom tree is their bread.",
+    "reference": "Job 30:4 (BLB)",
+    "connected_to": "Job 30:5",
+    "connected_from": "Job 30:3"
+  },
+  {
+    "text": "From the midst of people they are driven out; they shout at them as [at] a thief.",
+    "reference": "Job 30:5 (BLB)",
+    "connected_to": "Job 30:6",
+    "connected_from": "Job 30:4"
+  },
+  {
+    "text": "On the slope of wadis [they are] to dwell, in holes of the dust and rocks.",
+    "reference": "Job 30:6 (BLB)",
+    "connected_to": "Job 30:7",
+    "connected_from": "Job 30:5"
+  },
+  {
+    "text": "Among the shrubs they bray; under the nettles they huddle together.",
+    "reference": "Job 30:7 (BLB)",
+    "connected_to": "Job 30:8",
+    "connected_from": "Job 30:6"
+  },
+  {
+    "text": "Sons of a fool, even sons without a name, they were scourged from the land.",
+    "reference": "Job 30:8 (BLB)",
+    "connected_to": "Job 30:9",
+    "connected_from": "Job 30:7"
+  },
+  {
+    "text": "And now I have become their song, and I have become a byword among them.",
+    "reference": "Job 30:9 (BLB)",
+    "connected_to": "Job 30:10",
+    "connected_from": "Job 30:8"
+  },
+  {
+    "text": "They abhor me [and] keep far from me; and from my face they do not withhold spit.",
+    "reference": "Job 30:10 (BLB)",
+    "connected_to": "Job 30:11",
+    "connected_from": "Job 30:9"
+  },
+  {
+    "text": "For my bowstring he has loosed and afflicted me, and they have cast [off] the bridle before me.",
+    "reference": "Job 30:11 (BLB)",
+    "connected_to": "Job 30:12",
+    "connected_from": "Job 30:10"
+  },
+  {
+    "text": "On the right a brood arises; they push away my feet, and they build up against me the ways of destruction.",
+    "reference": "Job 30:12 (BLB)",
+    "connected_to": "Job 30:13",
+    "connected_from": "Job 30:11"
+  },
+  {
+    "text": "They break up my path; they advance my calamity, with no one helping them.",
+    "reference": "Job 30:13 (BLB)",
+    "connected_to": "Job 30:14",
+    "connected_from": "Job 30:12"
+  },
+  {
+    "text": "As a wide breach they come; amid the ruin they roll on.",
+    "reference": "Job 30:14 (BLB)",
+    "connected_to": "Job 30:15",
+    "connected_from": "Job 30:13"
+  },
+  {
+    "text": "Terrors are turned over upon me; like the wind it pursues my honor, and like a cloud my deliverance has passed away.",
+    "reference": "Job 30:15 (BLB)",
+    "connected_to": "Job 30:16",
+    "connected_from": "Job 30:14"
+  },
+  {
+    "text": "And now within me my soul is poured out; days of affliction seize me.",
+    "reference": "Job 30:16 (BLB)",
+    "connected_to": "Job 30:17",
+    "connected_from": "Job 30:15"
+  },
+  {
+    "text": "Night pierces my bones from upon me, and my gnawing pains will not lie down.",
+    "reference": "Job 30:17 (BLB)",
+    "connected_to": "Job 30:18",
+    "connected_from": "Job 30:16"
+  },
+  {
+    "text": "With abundance of strength He grasps my garment; by the collar of my tunic He seizes me.",
+    "reference": "Job 30:18 (BLB)",
+    "connected_to": "Job 30:19",
+    "connected_from": "Job 30:17"
+  },
+  {
+    "text": "He has cast me into the mire, and I have become like dust and ashes.",
+    "reference": "Job 30:19 (BLB)",
+    "connected_to": "Job 30:20",
+    "connected_from": "Job 30:18"
+  },
+  {
+    "text": "I cry out to You, but You do not answer me; I stand up, and You gaze at me.",
+    "reference": "Job 30:20 (BLB)",
+    "connected_to": "Job 30:21",
+    "connected_from": "Job 30:19"
+  },
+  {
+    "text": "You have turned to [be] cruel toward me; with the strength of Your hand You oppose me.",
+    "reference": "Job 30:21 (BLB)",
+    "connected_to": "Job 30:22",
+    "connected_from": "Job 30:20"
+  },
+  {
+    "text": "You lift me up to the wind and make me ride [it], You toss me about in the storm.",
+    "reference": "Job 30:22 (BLB)",
+    "connected_to": "Job 30:23",
+    "connected_from": "Job 30:21"
+  },
+  {
+    "text": "For I know [that] You will bring me [to] death, and [to] the house of appointment to all the living.",
+    "reference": "Job 30:23 (BLB)",
+    "connected_to": "Job 30:24",
+    "connected_from": "Job 30:22"
+  },
+  {
+    "text": "Surely one does not stretch out a hand against the oppressed, when in his ruin he cries out to [him].",
+    "reference": "Job 30:24 (BLB)",
+    "connected_to": "Job 30:25",
+    "connected_from": "Job 30:23"
+  },
+  {
+    "text": "If not did I weep for the harshness of day, [while] my soul grieved for the needy one?",
+    "reference": "Job 30:25 (BLB)",
+    "connected_to": "Job 30:26",
+    "connected_from": "Job 30:24"
+  },
+  {
+    "text": "And, I hoped for good, and evil came; and I waited for light, and darkness came.",
+    "reference": "Job 30:26 (BLB)",
+    "connected_to": "Job 30:27",
+    "connected_from": "Job 30:25"
+  },
+  {
+    "text": "My bowels have boiled and they do not rest; days of affliction confront me.",
+    "reference": "Job 30:27 (BLB)",
+    "connected_to": "Job 30:28",
+    "connected_from": "Job 30:26"
+  },
+  {
+    "text": "I go about darkened, not by the sun; I rise up in the assembly [and] cry out.",
+    "reference": "Job 30:28 (BLB)",
+    "connected_to": "Job 30:29",
+    "connected_from": "Job 30:27"
+  },
+  {
+    "text": "I have become a brother to jackals, and a companion to the daughters of the ostrich.",
+    "reference": "Job 30:29 (BLB)",
+    "connected_to": "Job 30:30",
+    "connected_from": "Job 30:28"
+  },
+  {
+    "text": "My skin turns black and falls from me, and my bone burns with heat.",
+    "reference": "Job 30:30 (BLB)",
+    "connected_to": "Job 30:31",
+    "connected_from": "Job 30:29"
+  },
+  {
+    "text": "And my harp is changed to mourning, and my flute to the voice of weeping.",
+    "reference": "Job 30:31 (BLB)",
+    "connected_from": "Job 30:30"
+  }
+]

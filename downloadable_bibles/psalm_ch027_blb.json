@@ -1,0 +1,84 @@
+[
+  {
+    "text": "Of David. <span class=|reftext|><a href=|#|><b>1</b></a> YHWH [is] my light and my salvation—of whom shall I be afraid? YHWH [is] the strength of my life—of whom shall I be in dread?",
+    "reference": "Psalm 27:1 (BLB)",
+    "connected_to": "Psalm 27:2"
+  },
+  {
+    "text": "In the coming near [of] the wicked against me, for the eating of my flesh, my adversaries and my enemies to me, they stumble and fall.",
+    "reference": "Psalm 27:2 (BLB)",
+    "connected_to": "Psalm 27:3",
+    "connected_from": "Psalm 27:1"
+  },
+  {
+    "text": "Though a host may encamp against me, my heart will not fear; though war should rise up against me, in this I will keep my trust.",
+    "reference": "Psalm 27:3 (BLB)",
+    "connected_to": "Psalm 27:4",
+    "connected_from": "Psalm 27:2"
+  },
+  {
+    "text": "One [thing] I have asked from YHWH—it do I seek—that I may dwell in the house of YHWH all the days of my life, to look on the beauty of YHWH, and to inquire in His temple.",
+    "reference": "Psalm 27:4 (BLB)",
+    "connected_to": "Psalm 27:5",
+    "connected_from": "Psalm 27:3"
+  },
+  {
+    "text": "For He will hide me in His shelter in the day of evil; He will conceal me under the cover of His tent; upon a rock He will set me high.",
+    "reference": "Psalm 27:5 (BLB)",
+    "connected_to": "Psalm 27:6",
+    "connected_from": "Psalm 27:4"
+  },
+  {
+    "text": "And now my head will be held high over my enemies all around me, and I will offer in His tent sacrifices of shouting; I will sing and make music to YHWH.",
+    "reference": "Psalm 27:6 (BLB)",
+    "connected_to": "Psalm 27:7",
+    "connected_from": "Psalm 27:5"
+  },
+  {
+    "text": "Hear, O YHWH, my voice [when] I call, and be merciful to me and answer me.",
+    "reference": "Psalm 27:7 (BLB)",
+    "connected_to": "Psalm 27:8",
+    "connected_from": "Psalm 27:6"
+  },
+  {
+    "text": "You have said [to] my heart “Seek My face.” Your face, O YHWH, I will seek.",
+    "reference": "Psalm 27:8 (BLB)",
+    "connected_to": "Psalm 27:9",
+    "connected_from": "Psalm 27:7"
+  },
+  {
+    "text": "Do not hide Your face from me; do not stretch Your servant away in anger! You have been my help—do not leave me and do not forsake me, O God of my salvation.",
+    "reference": "Psalm 27:9 (BLB)",
+    "connected_to": "Psalm 27:10",
+    "connected_from": "Psalm 27:8"
+  },
+  {
+    "text": "Though my father and my mother have forsaken me, yet YHWH will gather me [in].",
+    "reference": "Psalm 27:10 (BLB)",
+    "connected_to": "Psalm 27:11",
+    "connected_from": "Psalm 27:9"
+  },
+  {
+    "text": "Teach me Your way, O YHWH, and lead me on a level path, on account of my enemies.",
+    "reference": "Psalm 27:11 (BLB)",
+    "connected_to": "Psalm 27:12",
+    "connected_from": "Psalm 27:10"
+  },
+  {
+    "text": "Do not give me up to the desires of my adversaries, for false witnesses have risen against me, and they breathe out violence.",
+    "reference": "Psalm 27:12 (BLB)",
+    "connected_to": "Psalm 27:13",
+    "connected_from": "Psalm 27:11"
+  },
+  {
+    "text": "Still I believed to look on the goodness of YHWH in the land of the living.",
+    "reference": "Psalm 27:13 (BLB)",
+    "connected_to": "Psalm 27:14",
+    "connected_from": "Psalm 27:12"
+  },
+  {
+    "text": "Wait for YHWH; be strong and let your heart be courageous. And wait for YHWH!",
+    "reference": "Psalm 27:14 (BLB)",
+    "connected_from": "Psalm 27:13"
+  }
+]

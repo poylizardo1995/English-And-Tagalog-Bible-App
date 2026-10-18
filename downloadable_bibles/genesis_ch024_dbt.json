@@ -1,0 +1,402 @@
+[
+  {
+    "text": "And Abraham was old, [and] advanced in age; and Jehovah had blessed Abraham in all things.",
+    "reference": "Genesis 24:1 (DBT)",
+    "connected_to": "Genesis 24:2"
+  },
+  {
+    "text": "And Abraham said to his servant, the eldest of his house, who ruled over all that he had, Put thy hand, I pray thee, under my thigh,",
+    "reference": "Genesis 24:2 (DBT)",
+    "connected_to": "Genesis 24:3",
+    "connected_from": "Genesis 24:1"
+  },
+  {
+    "text": "and I will make thee swear by Jehovah, the God of the heavens and the God of the earth, that thou take not a wife for my son of the daughters of the Canaanites, among whom I am dwelling;",
+    "reference": "Genesis 24:3 (DBT)",
+    "connected_to": "Genesis 24:4",
+    "connected_from": "Genesis 24:2"
+  },
+  {
+    "text": "but thou shalt go to my land and to my kindred, and take a wife for my son Isaac.",
+    "reference": "Genesis 24:4 (DBT)",
+    "connected_to": "Genesis 24:5",
+    "connected_from": "Genesis 24:3"
+  },
+  {
+    "text": "And the servant said to him, Perhaps the woman will not be willing to follow me to this land: must I, then, bring thy son again in any case to the land from which thou hast removed?",
+    "reference": "Genesis 24:5 (DBT)",
+    "connected_to": "Genesis 24:6",
+    "connected_from": "Genesis 24:4"
+  },
+  {
+    "text": "And Abraham said to him, Beware that thou bring not my son thither again.",
+    "reference": "Genesis 24:6 (DBT)",
+    "connected_to": "Genesis 24:7",
+    "connected_from": "Genesis 24:5"
+  },
+  {
+    "text": "Jehovah the God of the heavens, who took me out of my father’s house, and out of the land of my nativity, and who has spoken to me, and who has sworn to me, saying, Unto thy seed will I give this land—he will send his angel before thee, that thou mayest take a wife for my son thence.",
+    "reference": "Genesis 24:7 (DBT)",
+    "connected_to": "Genesis 24:8",
+    "connected_from": "Genesis 24:6"
+  },
+  {
+    "text": "And if the woman be not willing to follow thee, then thou shalt be quit of this my oath: only, bring not my son thither again.",
+    "reference": "Genesis 24:8 (DBT)",
+    "connected_to": "Genesis 24:9",
+    "connected_from": "Genesis 24:7"
+  },
+  {
+    "text": "And the servant put his hand under the thigh of Abraham his master, and swore unto him concerning that matter.",
+    "reference": "Genesis 24:9 (DBT)",
+    "connected_to": "Genesis 24:10",
+    "connected_from": "Genesis 24:8"
+  },
+  {
+    "text": "And the servant took ten camels of the camels of his master, and departed; now all the treasure of his master was under his hand; and he arose and went to Aram-naharaim, to the city of Nahor.",
+    "reference": "Genesis 24:10 (DBT)",
+    "connected_to": "Genesis 24:11",
+    "connected_from": "Genesis 24:9"
+  },
+  {
+    "text": "And he made the camels kneel down outside the city by a well of water, at the time of the evening, when the women came out to draw [water].",
+    "reference": "Genesis 24:11 (DBT)",
+    "connected_to": "Genesis 24:12",
+    "connected_from": "Genesis 24:10"
+  },
+  {
+    "text": "And he said, Jehovah, God of my master Abraham, meet me, I pray thee, [with thy blessing] this day, and deal kindly with my master Abraham.",
+    "reference": "Genesis 24:12 (DBT)",
+    "connected_to": "Genesis 24:13",
+    "connected_from": "Genesis 24:11"
+  },
+  {
+    "text": "Behold, I stand [here] by the well of water, and the daughters of the men of the city come out to draw water.",
+    "reference": "Genesis 24:13 (DBT)",
+    "connected_to": "Genesis 24:14",
+    "connected_from": "Genesis 24:12"
+  },
+  {
+    "text": "And let it come to pass, [that] the maiden to whom I shall say, Let down thy pitcher, I pray thee, that I may drink, and who will say, Drink, and I will give thy camels drink also, be she whom thou hast appointed for thy servant Isaac; and hereby I shall know that thou hast dealt kindly with my master.",
+    "reference": "Genesis 24:14 (DBT)",
+    "connected_to": "Genesis 24:15",
+    "connected_from": "Genesis 24:13"
+  },
+  {
+    "text": "And it came to pass before he had ended speaking, that behold, Rebecca came out, who was born to Bethuel, son of Milcah the wife of Nahor, Abraham’s brother; and [she had] her pitcher upon her shoulder.",
+    "reference": "Genesis 24:15 (DBT)",
+    "connected_to": "Genesis 24:16",
+    "connected_from": "Genesis 24:14"
+  },
+  {
+    "text": "And the maiden was very fair in countenance; a virgin, and no man had known her. And she went down to the well, and filled her pitcher, and came up.",
+    "reference": "Genesis 24:16 (DBT)",
+    "connected_to": "Genesis 24:17",
+    "connected_from": "Genesis 24:15"
+  },
+  {
+    "text": "And the servant ran to meet her, and said, Let me, I pray thee, sip a little water out of thy pitcher.",
+    "reference": "Genesis 24:17 (DBT)",
+    "connected_to": "Genesis 24:18",
+    "connected_from": "Genesis 24:16"
+  },
+  {
+    "text": "And she said, Drink, my lord! And she hasted and let down her pitcher on her hand, and gave him to drink.",
+    "reference": "Genesis 24:18 (DBT)",
+    "connected_to": "Genesis 24:19",
+    "connected_from": "Genesis 24:17"
+  },
+  {
+    "text": "And when she had given him enough to drink, she said, I will draw [water] for thy camels also, until they have drunk enough.",
+    "reference": "Genesis 24:19 (DBT)",
+    "connected_to": "Genesis 24:20",
+    "connected_from": "Genesis 24:18"
+  },
+  {
+    "text": "And she hasted and emptied her pitcher into the trough, and ran again to the well to draw [water]; and she drew for all his camels.",
+    "reference": "Genesis 24:20 (DBT)",
+    "connected_to": "Genesis 24:21",
+    "connected_from": "Genesis 24:19"
+  },
+  {
+    "text": "And the man was astonished at her, remaining silent, to know whether Jehovah had made his journey prosperous or not.",
+    "reference": "Genesis 24:21 (DBT)",
+    "connected_to": "Genesis 24:22",
+    "connected_from": "Genesis 24:20"
+  },
+  {
+    "text": "And it came to pass when the camels had drunk enough, that the man took a gold ring, of half a shekel weight, and two bracelets for her hands, ten [shekels] weight of gold,",
+    "reference": "Genesis 24:22 (DBT)",
+    "connected_to": "Genesis 24:23",
+    "connected_from": "Genesis 24:21"
+  },
+  {
+    "text": "and said, Whose daughter art thou? tell me, I pray thee. Is there room [in] thy father’s house for us to lodge?",
+    "reference": "Genesis 24:23 (DBT)",
+    "connected_to": "Genesis 24:24",
+    "connected_from": "Genesis 24:22"
+  },
+  {
+    "text": "And she said to him, I am the daughter of Bethuel the son of Milcah, whom she bore to Nahor.",
+    "reference": "Genesis 24:24 (DBT)",
+    "connected_to": "Genesis 24:25",
+    "connected_from": "Genesis 24:23"
+  },
+  {
+    "text": "And she said to him, There is straw, and also much provender with us; also room to lodge.",
+    "reference": "Genesis 24:25 (DBT)",
+    "connected_to": "Genesis 24:26",
+    "connected_from": "Genesis 24:24"
+  },
+  {
+    "text": "And the man stooped, and bowed down before Jehovah,",
+    "reference": "Genesis 24:26 (DBT)",
+    "connected_to": "Genesis 24:27",
+    "connected_from": "Genesis 24:25"
+  },
+  {
+    "text": "and said, Blessed be Jehovah, God of my master Abraham, who has not withdrawn his loving-kindness and his faithfulness from my master; I being in the way, Jehovah has led me to the house of my master’s brethren.",
+    "reference": "Genesis 24:27 (DBT)",
+    "connected_to": "Genesis 24:28",
+    "connected_from": "Genesis 24:26"
+  },
+  {
+    "text": "And the maiden ran and told these things to her mother’s house.",
+    "reference": "Genesis 24:28 (DBT)",
+    "connected_to": "Genesis 24:29",
+    "connected_from": "Genesis 24:27"
+  },
+  {
+    "text": "And Rebecca had a brother, named Laban; and Laban ran out to the man, to the well.",
+    "reference": "Genesis 24:29 (DBT)",
+    "connected_to": "Genesis 24:30",
+    "connected_from": "Genesis 24:28"
+  },
+  {
+    "text": "And it came to pass when he saw the ring and the bracelets on his sister’s hand, and when he heard the words of Rebecca his sister, saying, Thus spoke the man to me—that he came to the man, and behold, he was standing by the camels, by the well.",
+    "reference": "Genesis 24:30 (DBT)",
+    "connected_to": "Genesis 24:31",
+    "connected_from": "Genesis 24:29"
+  },
+  {
+    "text": "And he said, Come in, blessed of Jehovah! why standest thou outside? for I have prepared the house, and room for the camels.",
+    "reference": "Genesis 24:31 (DBT)",
+    "connected_to": "Genesis 24:32",
+    "connected_from": "Genesis 24:30"
+  },
+  {
+    "text": "And the man came into the house; and he ungirded the camels, and gave the camels straw and provender, and water to wash his feet, and the feet of the men who were with him.",
+    "reference": "Genesis 24:32 (DBT)",
+    "connected_to": "Genesis 24:33",
+    "connected_from": "Genesis 24:31"
+  },
+  {
+    "text": "And there was set [meat] before him to eat; but he said, I will not eat until I have made known my business. And he said, Speak on.",
+    "reference": "Genesis 24:33 (DBT)",
+    "connected_to": "Genesis 24:34",
+    "connected_from": "Genesis 24:32"
+  },
+  {
+    "text": "And he said, I am Abraham’s servant.",
+    "reference": "Genesis 24:34 (DBT)",
+    "connected_to": "Genesis 24:35",
+    "connected_from": "Genesis 24:33"
+  },
+  {
+    "text": "And Jehovah has blessed my master greatly, and he is become great; and he has given him sheep and cattle, and silver and gold, and bondmen and bondwomen, and camels and asses.",
+    "reference": "Genesis 24:35 (DBT)",
+    "connected_to": "Genesis 24:36",
+    "connected_from": "Genesis 24:34"
+  },
+  {
+    "text": "And Sarah, my master’s wife, bore a son to my master after she had grown old; and unto him has he given all that he has.",
+    "reference": "Genesis 24:36 (DBT)",
+    "connected_to": "Genesis 24:37",
+    "connected_from": "Genesis 24:35"
+  },
+  {
+    "text": "And my master made me swear, saying, Thou shalt not take a wife for my son of the daughters of the Canaanite, in whose land I am dwelling;",
+    "reference": "Genesis 24:37 (DBT)",
+    "connected_to": "Genesis 24:38",
+    "connected_from": "Genesis 24:36"
+  },
+  {
+    "text": "but thou shalt by all means go to my father’s house and to my family, and take a wife for my son.",
+    "reference": "Genesis 24:38 (DBT)",
+    "connected_to": "Genesis 24:39",
+    "connected_from": "Genesis 24:37"
+  },
+  {
+    "text": "And I said to my master, Perhaps the woman will not follow me?",
+    "reference": "Genesis 24:39 (DBT)",
+    "connected_to": "Genesis 24:40",
+    "connected_from": "Genesis 24:38"
+  },
+  {
+    "text": "And he said to me, Jehovah, before whom I have walked, will send his angel with thee, and prosper thy way, that thou mayest take a wife for my son of my family, and out of my father’s house.",
+    "reference": "Genesis 24:40 (DBT)",
+    "connected_to": "Genesis 24:41",
+    "connected_from": "Genesis 24:39"
+  },
+  {
+    "text": "Then shalt thou be quit of my oath, when thou shalt have come to my family. And if they give thee not [one], thou shalt be quit of my oath.",
+    "reference": "Genesis 24:41 (DBT)",
+    "connected_to": "Genesis 24:42",
+    "connected_from": "Genesis 24:40"
+  },
+  {
+    "text": "And I came this day to the well, and said, Jehovah, God of my master Abraham, if now thou wilt prosper my way on which I go,",
+    "reference": "Genesis 24:42 (DBT)",
+    "connected_to": "Genesis 24:43",
+    "connected_from": "Genesis 24:41"
+  },
+  {
+    "text": "behold, I stand by the well of water, and let it come to pass that the damsel who cometh forth to draw [water], and to whom I shall say, Give me, I pray thee, a little water out of thy pitcher to drink,",
+    "reference": "Genesis 24:43 (DBT)",
+    "connected_to": "Genesis 24:44",
+    "connected_from": "Genesis 24:42"
+  },
+  {
+    "text": "and she shall say to me, Both drink thou, and I will also draw for thy camels—that she should be the woman whom Jehovah hath appointed for my master’s son.",
+    "reference": "Genesis 24:44 (DBT)",
+    "connected_to": "Genesis 24:45",
+    "connected_from": "Genesis 24:43"
+  },
+  {
+    "text": "Before I ended speaking in my heart, behold, Rebecca came forth with her pitcher on her shoulder, and went down to the well, and drew [water]; and I said to her, Give me, I pray thee, to drink.",
+    "reference": "Genesis 24:45 (DBT)",
+    "connected_to": "Genesis 24:46",
+    "connected_from": "Genesis 24:44"
+  },
+  {
+    "text": "And she hasted and let down her pitcher from her [shoulder], and said, Drink, and I will give thy camels drink also. And I drank; and she gave the camels drink also.",
+    "reference": "Genesis 24:46 (DBT)",
+    "connected_to": "Genesis 24:47",
+    "connected_from": "Genesis 24:45"
+  },
+  {
+    "text": "And I asked her, and said, Whose daughter art thou? And she said, The daughter of Bethuel, Nahor’s son, whom Milcah bore to him. And I put the ring on her nose, and the bracelets on her hands.",
+    "reference": "Genesis 24:47 (DBT)",
+    "connected_to": "Genesis 24:48",
+    "connected_from": "Genesis 24:46"
+  },
+  {
+    "text": "And I stooped, and bowed down before Jehovah; and I blessed Jehovah, God of my master Abraham, who has led me the right way to take my master’s brother’s daughter for his son.",
+    "reference": "Genesis 24:48 (DBT)",
+    "connected_to": "Genesis 24:49",
+    "connected_from": "Genesis 24:47"
+  },
+  {
+    "text": "And now, if ye will deal kindly and truly with my master, tell me; and if not, tell me; and I will turn to the right hand or to the left.",
+    "reference": "Genesis 24:49 (DBT)",
+    "connected_to": "Genesis 24:50",
+    "connected_from": "Genesis 24:48"
+  },
+  {
+    "text": "And Laban and Bethuel answered and said, The thing proceeds from Jehovah: we cannot speak to thee bad or good.",
+    "reference": "Genesis 24:50 (DBT)",
+    "connected_to": "Genesis 24:51",
+    "connected_from": "Genesis 24:49"
+  },
+  {
+    "text": "Behold, Rebecca is before thee: take [her], and go away; and let her be wife of thy master’s son, as Jehovah has said.",
+    "reference": "Genesis 24:51 (DBT)",
+    "connected_to": "Genesis 24:52",
+    "connected_from": "Genesis 24:50"
+  },
+  {
+    "text": "And it came to pass, when Abraham’s servant heard their words, that he bowed down to the earth before Jehovah.",
+    "reference": "Genesis 24:52 (DBT)",
+    "connected_to": "Genesis 24:53",
+    "connected_from": "Genesis 24:51"
+  },
+  {
+    "text": "And the servant brought forth silver articles, and gold articles, and clothing, and he gave [them] to Rebecca; and he gave to her brother, and to her mother, precious things.",
+    "reference": "Genesis 24:53 (DBT)",
+    "connected_to": "Genesis 24:54",
+    "connected_from": "Genesis 24:52"
+  },
+  {
+    "text": "And they ate and drank, he and the men that were with him, and lodged. And they rose up in the morning; and he said, Send me away to my master.",
+    "reference": "Genesis 24:54 (DBT)",
+    "connected_to": "Genesis 24:55",
+    "connected_from": "Genesis 24:53"
+  },
+  {
+    "text": "And her brother and her mother said, Let the maiden abide with us [some] days, or [say] ten; after that she shall go.",
+    "reference": "Genesis 24:55 (DBT)",
+    "connected_to": "Genesis 24:56",
+    "connected_from": "Genesis 24:54"
+  },
+  {
+    "text": "And he said to them, Do not hinder me, seeing Jehovah has prospered my way: send me away, and I will go to my master.",
+    "reference": "Genesis 24:56 (DBT)",
+    "connected_to": "Genesis 24:57",
+    "connected_from": "Genesis 24:55"
+  },
+  {
+    "text": "And they said, Let us call the maiden and inquire at her mouth.",
+    "reference": "Genesis 24:57 (DBT)",
+    "connected_to": "Genesis 24:58",
+    "connected_from": "Genesis 24:56"
+  },
+  {
+    "text": "And they called Rebecca and said to her, Wilt thou go with this man? And she said, I will go.",
+    "reference": "Genesis 24:58 (DBT)",
+    "connected_to": "Genesis 24:59",
+    "connected_from": "Genesis 24:57"
+  },
+  {
+    "text": "And they sent away Rebecca their sister, and her nurse, and Abraham’s servant, and his men.",
+    "reference": "Genesis 24:59 (DBT)",
+    "connected_to": "Genesis 24:60",
+    "connected_from": "Genesis 24:58"
+  },
+  {
+    "text": "And they blessed Rebecca, and said to her, Thou art our sister; mayest thou become thousands of tens of thousands; and may thy seed possess the gate of their enemies!",
+    "reference": "Genesis 24:60 (DBT)",
+    "connected_to": "Genesis 24:61",
+    "connected_from": "Genesis 24:59"
+  },
+  {
+    "text": "And Rebecca arose, and her maids, and they rode upon the camels, and followed the man. And the servant took Rebecca, and went away.",
+    "reference": "Genesis 24:61 (DBT)",
+    "connected_to": "Genesis 24:62",
+    "connected_from": "Genesis 24:60"
+  },
+  {
+    "text": "And Isaac had just returned from Beer-lahai-roi; for he was dwelling in the south country.",
+    "reference": "Genesis 24:62 (DBT)",
+    "connected_to": "Genesis 24:63",
+    "connected_from": "Genesis 24:61"
+  },
+  {
+    "text": "And Isaac had gone out to meditate in the fields toward the beginning of evening. And he lifted up his eyes and saw, and behold, camels were coming.",
+    "reference": "Genesis 24:63 (DBT)",
+    "connected_to": "Genesis 24:64",
+    "connected_from": "Genesis 24:62"
+  },
+  {
+    "text": "And Rebecca lifted up her eyes and saw Isaac, and she sprang off the camel.",
+    "reference": "Genesis 24:64 (DBT)",
+    "connected_to": "Genesis 24:65",
+    "connected_from": "Genesis 24:63"
+  },
+  {
+    "text": "And she had said to the servant, Who is the man that is walking in the fields to meet us? And the servant said, That is my master! Then she took the veil, and covered herself.",
+    "reference": "Genesis 24:65 (DBT)",
+    "connected_to": "Genesis 24:66",
+    "connected_from": "Genesis 24:64"
+  },
+  {
+    "text": "And the servant told Isaac all things that he had done.",
+    "reference": "Genesis 24:66 (DBT)",
+    "connected_to": "Genesis 24:67",
+    "connected_from": "Genesis 24:65"
+  },
+  {
+    "text": "And Isaac led her into his mother Sarah’s tent; and he took Rebecca, and she became his wife, and he loved her. And Isaac was comforted after [the death of] his mother.",
+    "reference": "Genesis 24:67 (DBT)",
+    "connected_from": "Genesis 24:66"
+  }
+]

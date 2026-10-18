@@ -1,0 +1,48 @@
+[
+  {
+    "text": "{To the chief Musician. On stringed instruments. A Psalm of David.} When I call, answer me, O God of my righteousness: in pressure thou hast enlarged me; be gracious unto me, and hear my prayer.",
+    "reference": "Psalm 4:1 (DBT)",
+    "connected_to": "Psalm 4:2"
+  },
+  {
+    "text": "Ye sons of men, till when is my glory [to be put] to shame? [How long] will ye love vanity, will ye seek after a lie? Selah.",
+    "reference": "Psalm 4:2 (DBT)",
+    "connected_to": "Psalm 4:3",
+    "connected_from": "Psalm 4:1"
+  },
+  {
+    "text": "But know that Jehovah hath set apart the pious [man] for himself: Jehovah will hear when I call unto him.",
+    "reference": "Psalm 4:3 (DBT)",
+    "connected_to": "Psalm 4:4",
+    "connected_from": "Psalm 4:2"
+  },
+  {
+    "text": "Be moved with anger, and sin not; meditate in your own hearts upon your bed, and be still. Selah.",
+    "reference": "Psalm 4:4 (DBT)",
+    "connected_to": "Psalm 4:5",
+    "connected_from": "Psalm 4:3"
+  },
+  {
+    "text": "Offer sacrifices of righteousness, and confide in Jehovah.",
+    "reference": "Psalm 4:5 (DBT)",
+    "connected_to": "Psalm 4:6",
+    "connected_from": "Psalm 4:4"
+  },
+  {
+    "text": "Many say, Who shall cause us to see good? Lift up upon us the light of thy countenance, O Jehovah.",
+    "reference": "Psalm 4:6 (DBT)",
+    "connected_to": "Psalm 4:7",
+    "connected_from": "Psalm 4:5"
+  },
+  {
+    "text": "Thou hast put joy in my heart, more than in the time that their corn and their new wine was in abundance.",
+    "reference": "Psalm 4:7 (DBT)",
+    "connected_to": "Psalm 4:8",
+    "connected_from": "Psalm 4:6"
+  },
+  {
+    "text": "In peace will I both lay me down and sleep; for thou, Jehovah, alone makest me to dwell in safety.",
+    "reference": "Psalm 4:8 (DBT)",
+    "connected_from": "Psalm 4:7"
+  }
+]

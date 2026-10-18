@@ -1,0 +1,78 @@
+[
+  {
+    "text": "Now about food sacrificed to idols: We know that we all have knowledge. Knowledge puffs up, but love builds up.",
+    "reference": "1 Corinthians 8:1 (BSB)",
+    "connected_to": "1 Corinthians 8:2"
+  },
+  {
+    "text": "The one who thinks he knows something does not yet know as he ought to know.",
+    "reference": "1 Corinthians 8:2 (BSB)",
+    "connected_to": "1 Corinthians 8:3",
+    "connected_from": "1 Corinthians 8:1"
+  },
+  {
+    "text": "But the one who loves God is known by God.",
+    "reference": "1 Corinthians 8:3 (BSB)",
+    "connected_to": "1 Corinthians 8:4",
+    "connected_from": "1 Corinthians 8:2"
+  },
+  {
+    "text": "So about eating food sacrificed to idols: We know that an idol is nothing at all in the world, and that there is no God but one.",
+    "reference": "1 Corinthians 8:4 (BSB)",
+    "connected_to": "1 Corinthians 8:5",
+    "connected_from": "1 Corinthians 8:3"
+  },
+  {
+    "text": "For even if there are so-called gods, whether in heaven or on earth (as there are many so-called gods and lords),",
+    "reference": "1 Corinthians 8:5 (BSB)",
+    "connected_to": "1 Corinthians 8:6",
+    "connected_from": "1 Corinthians 8:4"
+  },
+  {
+    "text": "yet for us there is but one God, the Father, from whom all things came and for whom we exist. And there is but one Lord, Jesus Christ, through whom all things came and through whom we exist.",
+    "reference": "1 Corinthians 8:6 (BSB)",
+    "connected_to": "1 Corinthians 8:7",
+    "connected_from": "1 Corinthians 8:5"
+  },
+  {
+    "text": "But not everyone has this knowledge. Some people are still so accustomed to idols that they eat such food as if it were sacrificed to an idol. And since their conscience is weak, it is defiled.",
+    "reference": "1 Corinthians 8:7 (BSB)",
+    "connected_to": "1 Corinthians 8:8",
+    "connected_from": "1 Corinthians 8:6"
+  },
+  {
+    "text": "But food does not bring us closer to God: We are no worse if we do not eat, and no better if we do.",
+    "reference": "1 Corinthians 8:8 (BSB)",
+    "connected_to": "1 Corinthians 8:9",
+    "connected_from": "1 Corinthians 8:7"
+  },
+  {
+    "text": "Be careful, however, that your freedom does not become a stumbling block to the weak.",
+    "reference": "1 Corinthians 8:9 (BSB)",
+    "connected_to": "1 Corinthians 8:10",
+    "connected_from": "1 Corinthians 8:8"
+  },
+  {
+    "text": "For if someone with a weak conscience sees you who are well informed eating in an idol’s temple, will he not be encouraged to eat food sacrificed to idols?",
+    "reference": "1 Corinthians 8:10 (BSB)",
+    "connected_to": "1 Corinthians 8:11",
+    "connected_from": "1 Corinthians 8:9"
+  },
+  {
+    "text": "So this weak brother, for whom Christ died, is destroyed by your knowledge.",
+    "reference": "1 Corinthians 8:11 (BSB)",
+    "connected_to": "1 Corinthians 8:12",
+    "connected_from": "1 Corinthians 8:10"
+  },
+  {
+    "text": "By sinning against your brothers in this way and wounding their weak conscience, you sin against Christ.",
+    "reference": "1 Corinthians 8:12 (BSB)",
+    "connected_to": "1 Corinthians 8:13",
+    "connected_from": "1 Corinthians 8:11"
+  },
+  {
+    "text": "Therefore, if what I eat causes my brother to stumble, I will never eat meat again, so that I will not cause him to stumble.",
+    "reference": "1 Corinthians 8:13 (BSB)",
+    "connected_from": "1 Corinthians 8:12"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "text": "And so, Joshua arose in the night, and he moved the camp. And they departed from Shittim, and they went to the Jordan: he, and all the sons of Israel, and they remained there for three days.",
+    "reference": "Joshua 3:1 (CPDV)",
+    "connected_to": "Joshua 3:2"
+  },
+  {
+    "text": "After these things unfolded, announcers passed through the midst of the camp,",
+    "reference": "Joshua 3:2 (CPDV)",
+    "connected_to": "Joshua 3:3",
+    "connected_from": "Joshua 3:1"
+  },
+  {
+    "text": "and they began to proclaim: “When you will see the ark of the covenant of the Lord your God, and the priests of the stock of Levi carrying it, you also shall rise up and follow those who are going before you.",
+    "reference": "Joshua 3:3 (CPDV)",
+    "connected_to": "Joshua 3:4",
+    "connected_from": "Joshua 3:2"
+  },
+  {
+    "text": "And let there be, between you and the ark, the space of two thousand cubits, so that you may be able to see it from far away, and to know along which way you should advance. For you have not walked this way before. And be careful that you do not approach the ark.”",
+    "reference": "Joshua 3:4 (CPDV)",
+    "connected_to": "Joshua 3:5",
+    "connected_from": "Joshua 3:3"
+  },
+  {
+    "text": "And Joshua said to the people: “Be sanctified. For tomorrow the Lord will accomplish miracles among you.”",
+    "reference": "Joshua 3:5 (CPDV)",
+    "connected_to": "Joshua 3:6",
+    "connected_from": "Joshua 3:4"
+  },
+  {
+    "text": "And he said to the priests: “Take up the ark of the covenant, and go before the people.” And they fulfilled the orders, and they took it and walked before them.",
+    "reference": "Joshua 3:6 (CPDV)",
+    "connected_to": "Joshua 3:7",
+    "connected_from": "Joshua 3:5"
+  },
+  {
+    "text": "And the Lord said to Joshua: “Today I will begin to exalt you in the sight of all Israel, so that they may know that, just as I was with Moses, so also am I with you.",
+    "reference": "Joshua 3:7 (CPDV)",
+    "connected_to": "Joshua 3:8",
+    "connected_from": "Joshua 3:6"
+  },
+  {
+    "text": "Now instruct the priests, who are carrying the ark of the covenant, and say to them, ‘When you will have entered into a part of the water of the Jordan, stand still in it.’ ”",
+    "reference": "Joshua 3:8 (CPDV)",
+    "connected_to": "Joshua 3:9",
+    "connected_from": "Joshua 3:7"
+  },
+  {
+    "text": "And Joshua said to the sons of Israel, “Approach to here, and listen to the word of the Lord your God.”",
+    "reference": "Joshua 3:9 (CPDV)",
+    "connected_to": "Joshua 3:10",
+    "connected_from": "Joshua 3:8"
+  },
+  {
+    "text": "And again, he said: “By this shall you know that the Lord, the living God, is in your midst, and that he shall scatter in your sight, the Canaanite and the Hittite, the Hivite and the Perizzite, likewise the Girgashite, and the Jebusite, and the Amorite.",
+    "reference": "Joshua 3:10 (CPDV)",
+    "connected_to": "Joshua 3:11",
+    "connected_from": "Joshua 3:9"
+  },
+  {
+    "text": "Behold, the ark of the covenant of the Lord of all the earth shall go before you through the Jordan.",
+    "reference": "Joshua 3:11 (CPDV)",
+    "connected_to": "Joshua 3:12",
+    "connected_from": "Joshua 3:10"
+  },
+  {
+    "text": "Prepare twelve men from the tribes of Israel, one from each tribe.",
+    "reference": "Joshua 3:12 (CPDV)",
+    "connected_to": "Joshua 3:13",
+    "connected_from": "Joshua 3:11"
+  },
+  {
+    "text": "And when the priests who are carrying the ark of the Lord, the God of the entire earth, will have placed the steps of their feet in the waters of the Jordan, the waters that are lower will run down and pass away, and those that are approaching above will stand together in a mass.”",
+    "reference": "Joshua 3:13 (CPDV)",
+    "connected_to": "Joshua 3:14",
+    "connected_from": "Joshua 3:12"
+  },
+  {
+    "text": "And the people departed from their tents, so that they might cross the Jordan. And the priests who were carrying the ark of the covenant were advancing before them.",
+    "reference": "Joshua 3:14 (CPDV)",
+    "connected_to": "Joshua 3:15",
+    "connected_from": "Joshua 3:13"
+  },
+  {
+    "text": "And as soon as they entered into the Jordan, and their feet were dipped in a portion of the water, (now the Jordan, since it was the time of the harvest, had filled the banks of its channel,)",
+    "reference": "Joshua 3:15 (CPDV)",
+    "connected_to": "Joshua 3:16",
+    "connected_from": "Joshua 3:14"
+  },
+  {
+    "text": "the descending waters stood still in one place, and, swelling up like a mountain, they were seen from far away, from the city that is called Adam, even as far as the place of Zarethan. But those that were lower ran down into the Sea of the Wilderness, (which is now called the Dead Sea,) until they entirely passed away.",
+    "reference": "Joshua 3:16 (CPDV)",
+    "connected_to": "Joshua 3:17",
+    "connected_from": "Joshua 3:15"
+  },
+  {
+    "text": "Then the people advanced opposite Jericho. And the priests who were carrying the ark of the covenant of the Lord were standing, fully-dressed, upon dry soil in the midst of the Jordan, and all the people passed over, through the channel that was dried up.",
+    "reference": "Joshua 3:17 (CPDV)",
+    "connected_from": "Joshua 3:16"
+  }
+]

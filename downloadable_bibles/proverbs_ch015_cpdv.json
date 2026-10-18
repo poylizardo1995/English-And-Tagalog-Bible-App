@@ -1,0 +1,198 @@
+[
+  {
+    "text": "A mild response shatters anger. But a harsh word stirs up fury.",
+    "reference": "Proverbs 15:1 (CPDV)",
+    "connected_to": "Proverbs 15:2"
+  },
+  {
+    "text": "The tongue of the wise adorns knowledge. But the mouth of the senseless gushes with foolishness.",
+    "reference": "Proverbs 15:2 (CPDV)",
+    "connected_to": "Proverbs 15:3",
+    "connected_from": "Proverbs 15:1"
+  },
+  {
+    "text": "In every place, the eyes of the Lord consider good and evil.",
+    "reference": "Proverbs 15:3 (CPDV)",
+    "connected_to": "Proverbs 15:4",
+    "connected_from": "Proverbs 15:2"
+  },
+  {
+    "text": "A peaceful tongue is a tree of life. But that which is immoderate will crush the spirit.",
+    "reference": "Proverbs 15:4 (CPDV)",
+    "connected_to": "Proverbs 15:5",
+    "connected_from": "Proverbs 15:3"
+  },
+  {
+    "text": "A fool laughs at the discipline of his father. But whoever preserves rebukes will become astute. In abundant justice, there is very great virtue. But the intentions of the impious will be eradicated.",
+    "reference": "Proverbs 15:5 (CPDV)",
+    "connected_to": "Proverbs 15:6",
+    "connected_from": "Proverbs 15:4"
+  },
+  {
+    "text": "The house of the just has very great strength. And in the fruits of the impious, there is disorder.",
+    "reference": "Proverbs 15:6 (CPDV)",
+    "connected_to": "Proverbs 15:7",
+    "connected_from": "Proverbs 15:5"
+  },
+  {
+    "text": "The lips of the wise shall disseminate knowledge. The heart of the foolish will be dissimilar.",
+    "reference": "Proverbs 15:7 (CPDV)",
+    "connected_to": "Proverbs 15:8",
+    "connected_from": "Proverbs 15:6"
+  },
+  {
+    "text": "The sacrifices of the impious are abominable to the Lord. The vows of the just are appeasing.",
+    "reference": "Proverbs 15:8 (CPDV)",
+    "connected_to": "Proverbs 15:9",
+    "connected_from": "Proverbs 15:7"
+  },
+  {
+    "text": "The way of the impious is an abomination to the Lord. Whoever pursues justice is loved by him.",
+    "reference": "Proverbs 15:9 (CPDV)",
+    "connected_to": "Proverbs 15:10",
+    "connected_from": "Proverbs 15:8"
+  },
+  {
+    "text": "Doctrine is evil to those who abandon the way of life. Whoever hates correction shall die.",
+    "reference": "Proverbs 15:10 (CPDV)",
+    "connected_to": "Proverbs 15:11",
+    "connected_from": "Proverbs 15:9"
+  },
+  {
+    "text": "Hell and perdition are in the sight of the Lord. How much more the hearts of the sons of men!",
+    "reference": "Proverbs 15:11 (CPDV)",
+    "connected_to": "Proverbs 15:12",
+    "connected_from": "Proverbs 15:10"
+  },
+  {
+    "text": "He who corrupts himself does not love the one who afflicts him, nor will he step toward the wise.",
+    "reference": "Proverbs 15:12 (CPDV)",
+    "connected_to": "Proverbs 15:13",
+    "connected_from": "Proverbs 15:11"
+  },
+  {
+    "text": "A rejoicing heart gladdens the face. But by the grief of the soul, the spirit is cast down.",
+    "reference": "Proverbs 15:13 (CPDV)",
+    "connected_to": "Proverbs 15:14",
+    "connected_from": "Proverbs 15:12"
+  },
+  {
+    "text": "The heart of the wise seeks doctrine. And the mouth of the foolish feeds on ignorance.",
+    "reference": "Proverbs 15:14 (CPDV)",
+    "connected_to": "Proverbs 15:15",
+    "connected_from": "Proverbs 15:13"
+  },
+  {
+    "text": "All the days of the poor are evil. A secure mind is like a continual feast.",
+    "reference": "Proverbs 15:15 (CPDV)",
+    "connected_to": "Proverbs 15:16",
+    "connected_from": "Proverbs 15:14"
+  },
+  {
+    "text": "Better is a little with the fear of the Lord, than great treasures and dissatisfaction.",
+    "reference": "Proverbs 15:16 (CPDV)",
+    "connected_to": "Proverbs 15:17",
+    "connected_from": "Proverbs 15:15"
+  },
+  {
+    "text": "It is better to be called to vegetables with charity, than to a fatted calf with hatred.",
+    "reference": "Proverbs 15:17 (CPDV)",
+    "connected_to": "Proverbs 15:18",
+    "connected_from": "Proverbs 15:16"
+  },
+  {
+    "text": "A short-tempered man provokes conflicts. Whoever is patient tempers those who are stirred up.",
+    "reference": "Proverbs 15:18 (CPDV)",
+    "connected_to": "Proverbs 15:19",
+    "connected_from": "Proverbs 15:17"
+  },
+  {
+    "text": "The way of the slothful is like a hedge of thorns. The way of the just is without offense.",
+    "reference": "Proverbs 15:19 (CPDV)",
+    "connected_to": "Proverbs 15:20",
+    "connected_from": "Proverbs 15:18"
+  },
+  {
+    "text": "A wise son gladdens the father. But the foolish man despises his mother.",
+    "reference": "Proverbs 15:20 (CPDV)",
+    "connected_to": "Proverbs 15:21",
+    "connected_from": "Proverbs 15:19"
+  },
+  {
+    "text": "Folly is gladness to the foolish. And the prudent man sets his own steps in order.",
+    "reference": "Proverbs 15:21 (CPDV)",
+    "connected_to": "Proverbs 15:22",
+    "connected_from": "Proverbs 15:20"
+  },
+  {
+    "text": "Intentions dissipate where there is no counsel. Yet truly, they are confirmed where there are many counselors.",
+    "reference": "Proverbs 15:22 (CPDV)",
+    "connected_to": "Proverbs 15:23",
+    "connected_from": "Proverbs 15:21"
+  },
+  {
+    "text": "A man rejoices in the verdict of his own mouth. And a word at the right time is best.",
+    "reference": "Proverbs 15:23 (CPDV)",
+    "connected_to": "Proverbs 15:24",
+    "connected_from": "Proverbs 15:22"
+  },
+  {
+    "text": "The path of life is for the wise above, so that he may turn away from the end of Hell.",
+    "reference": "Proverbs 15:24 (CPDV)",
+    "connected_to": "Proverbs 15:25",
+    "connected_from": "Proverbs 15:23"
+  },
+  {
+    "text": "The Lord will demolish the house of the arrogant. And He will make firm the borders of the widow.",
+    "reference": "Proverbs 15:25 (CPDV)",
+    "connected_to": "Proverbs 15:26",
+    "connected_from": "Proverbs 15:24"
+  },
+  {
+    "text": "Evil intentions are an abomination to the Lord. And pure conversation, most beautiful, shall be confirmed by him.",
+    "reference": "Proverbs 15:26 (CPDV)",
+    "connected_to": "Proverbs 15:27",
+    "connected_from": "Proverbs 15:25"
+  },
+  {
+    "text": "Whoever pursues avarice disturbs his own house. But whoever hates bribes shall live. Through mercy and faith, sins are purged. But through the fear of the Lord, each one turns aside from evil.",
+    "reference": "Proverbs 15:27 (CPDV)",
+    "connected_to": "Proverbs 15:28",
+    "connected_from": "Proverbs 15:26"
+  },
+  {
+    "text": "The mind of the just meditates on obedience. The mouth of the impious overflows with evils.",
+    "reference": "Proverbs 15:28 (CPDV)",
+    "connected_to": "Proverbs 15:29",
+    "connected_from": "Proverbs 15:27"
+  },
+  {
+    "text": "The Lord is distant from the impious. And he will heed the prayers of the just.",
+    "reference": "Proverbs 15:29 (CPDV)",
+    "connected_to": "Proverbs 15:30",
+    "connected_from": "Proverbs 15:28"
+  },
+  {
+    "text": "The light of the eyes rejoices the soul. A good reputation fattens the bones.",
+    "reference": "Proverbs 15:30 (CPDV)",
+    "connected_to": "Proverbs 15:31",
+    "connected_from": "Proverbs 15:29"
+  },
+  {
+    "text": "The ear that listens to the reproofs of life shall abide in the midst of the wise.",
+    "reference": "Proverbs 15:31 (CPDV)",
+    "connected_to": "Proverbs 15:32",
+    "connected_from": "Proverbs 15:30"
+  },
+  {
+    "text": "Whoever rejects discipline despises his own soul. But whoever agrees to correction is a possessor of the heart.",
+    "reference": "Proverbs 15:32 (CPDV)",
+    "connected_to": "Proverbs 15:33",
+    "connected_from": "Proverbs 15:31"
+  },
+  {
+    "text": "The fear of the Lord is the discipline of wisdom. And humility precedes glory.",
+    "reference": "Proverbs 15:33 (CPDV)",
+    "connected_from": "Proverbs 15:32"
+  }
+]

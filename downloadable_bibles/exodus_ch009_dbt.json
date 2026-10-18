@@ -1,0 +1,210 @@
+[
+  {
+    "text": "And Jehovah said to Moses, Go in unto Pharaoh, and tell him, Thus saith Jehovah the God of the Hebrews: Let my people go, that they may serve me.",
+    "reference": "Exodus 9:1 (DBT)",
+    "connected_to": "Exodus 9:2"
+  },
+  {
+    "text": "For if thou refuse to let them go, and shalt retain them still,",
+    "reference": "Exodus 9:2 (DBT)",
+    "connected_to": "Exodus 9:3",
+    "connected_from": "Exodus 9:1"
+  },
+  {
+    "text": "behold, the hand of Jehovah shall be on thy cattle which is in the field, on the horses, on the asses, on the camels, on the oxen and on the sheep, with a very grievous plague.",
+    "reference": "Exodus 9:3 (DBT)",
+    "connected_to": "Exodus 9:4",
+    "connected_from": "Exodus 9:2"
+  },
+  {
+    "text": "And Jehovah will distinguish between the cattle of Israel and the cattle of Egypt; and there shall nothing die of all that the children of Israel have.",
+    "reference": "Exodus 9:4 (DBT)",
+    "connected_to": "Exodus 9:5",
+    "connected_from": "Exodus 9:3"
+  },
+  {
+    "text": "And Jehovah appointed a set time, saying, To-morrow will Jehovah do this thing in the land.",
+    "reference": "Exodus 9:5 (DBT)",
+    "connected_to": "Exodus 9:6",
+    "connected_from": "Exodus 9:4"
+  },
+  {
+    "text": "And Jehovah did this thing on the following day, and all the cattle of Egypt died; but of the cattle of the children of Israel died not one.",
+    "reference": "Exodus 9:6 (DBT)",
+    "connected_to": "Exodus 9:7",
+    "connected_from": "Exodus 9:5"
+  },
+  {
+    "text": "And Pharaoh sent, and behold, there was not one of the cattle of the Israelites dead. But the heart of Pharaoh was hardened, and he did not let the people go.",
+    "reference": "Exodus 9:7 (DBT)",
+    "connected_to": "Exodus 9:8",
+    "connected_from": "Exodus 9:6"
+  },
+  {
+    "text": "And Jehovah said to Moses and to Aaron, Take to yourselves handfuls of ashes of the furnace, and let Moses scatter it toward the heavens before the eyes of Pharaoh.",
+    "reference": "Exodus 9:8 (DBT)",
+    "connected_to": "Exodus 9:9",
+    "connected_from": "Exodus 9:7"
+  },
+  {
+    "text": "And it shall become fine dust over all the land of Egypt, and shall become boils on man and on cattle, breaking out [with] blisters, throughout the land of Egypt.",
+    "reference": "Exodus 9:9 (DBT)",
+    "connected_to": "Exodus 9:10",
+    "connected_from": "Exodus 9:8"
+  },
+  {
+    "text": "And they took ashes of the furnace, and stood before Pharaoh; and Moses sprinkled it toward the heavens; and it became boils [with] blisters breaking out on man and on cattle.",
+    "reference": "Exodus 9:10 (DBT)",
+    "connected_to": "Exodus 9:11",
+    "connected_from": "Exodus 9:9"
+  },
+  {
+    "text": "And the scribes could not stand before Moses because of the boils; for the boils were on the scribes, and on all the Egyptians.",
+    "reference": "Exodus 9:11 (DBT)",
+    "connected_to": "Exodus 9:12",
+    "connected_from": "Exodus 9:10"
+  },
+  {
+    "text": "And Jehovah made Pharaoh’s heart stubborn, and he did not hearken to them, as Jehovah had told Moses.",
+    "reference": "Exodus 9:12 (DBT)",
+    "connected_to": "Exodus 9:13",
+    "connected_from": "Exodus 9:11"
+  },
+  {
+    "text": "And Jehovah said to Moses, Rise up early in the morning, and set thyself before Pharaoh, and say to him, Thus saith Jehovah, the God of the Hebrews: Let my people go, that they may serve me.",
+    "reference": "Exodus 9:13 (DBT)",
+    "connected_to": "Exodus 9:14",
+    "connected_from": "Exodus 9:12"
+  },
+  {
+    "text": "For I will at this time send all my plagues to thy heart, and on thy bondmen, and on thy people; that thou mayest know that there is none like me in all the earth.",
+    "reference": "Exodus 9:14 (DBT)",
+    "connected_to": "Exodus 9:15",
+    "connected_from": "Exodus 9:13"
+  },
+  {
+    "text": "For now shall I put forth my hand, and I will smite thee and thy people with pestilence; and thou shalt be cut off from the earth.",
+    "reference": "Exodus 9:15 (DBT)",
+    "connected_to": "Exodus 9:16",
+    "connected_from": "Exodus 9:14"
+  },
+  {
+    "text": "And for this very cause have I raised thee up, to shew thee my power; and that my name may be declared in all the earth.",
+    "reference": "Exodus 9:16 (DBT)",
+    "connected_to": "Exodus 9:17",
+    "connected_from": "Exodus 9:15"
+  },
+  {
+    "text": "Dost thou still exalt thyself against my people, that thou wilt not let them go?",
+    "reference": "Exodus 9:17 (DBT)",
+    "connected_to": "Exodus 9:18",
+    "connected_from": "Exodus 9:16"
+  },
+  {
+    "text": "Behold, to-morrow about this time I will cause it to rain a very grievous hail, such as hath not been in Egypt since its foundation until now.",
+    "reference": "Exodus 9:18 (DBT)",
+    "connected_to": "Exodus 9:19",
+    "connected_from": "Exodus 9:17"
+  },
+  {
+    "text": "And now send, [and] secure thy cattle, and all that thou hast in the field: all the men and the cattle that are found in the field, and are not brought home—on them the hail shall come down, and they shall die.",
+    "reference": "Exodus 9:19 (DBT)",
+    "connected_to": "Exodus 9:20",
+    "connected_from": "Exodus 9:18"
+  },
+  {
+    "text": "He that feared the word of Jehovah among the bondmen of Pharaoh made his bondmen and his cattle flee into the houses.",
+    "reference": "Exodus 9:20 (DBT)",
+    "connected_to": "Exodus 9:21",
+    "connected_from": "Exodus 9:19"
+  },
+  {
+    "text": "But he that did not regard the word of Jehovah left his bondmen and his cattle in the field.",
+    "reference": "Exodus 9:21 (DBT)",
+    "connected_to": "Exodus 9:22",
+    "connected_from": "Exodus 9:20"
+  },
+  {
+    "text": "And Jehovah said to Moses, Stretch out thy hand toward the heavens, that there may be hail throughout the land of Egypt, upon men, and upon cattle, and upon every herb of the field in the land of Egypt.",
+    "reference": "Exodus 9:22 (DBT)",
+    "connected_to": "Exodus 9:23",
+    "connected_from": "Exodus 9:21"
+  },
+  {
+    "text": "And Moses stretched out his staff toward the heavens, and Jehovah gave thunder and hail; and the fire ran along the ground; and Jehovah rained hail on the land of Egypt.",
+    "reference": "Exodus 9:23 (DBT)",
+    "connected_to": "Exodus 9:24",
+    "connected_from": "Exodus 9:22"
+  },
+  {
+    "text": "And there was hail, and fire mingled with the hail, very grievous, such as there had been none like it in all the land of Egypt since it became a nation.",
+    "reference": "Exodus 9:24 (DBT)",
+    "connected_to": "Exodus 9:25",
+    "connected_from": "Exodus 9:23"
+  },
+  {
+    "text": "And the hail smote throughout the land of Egypt all that was in the field, both men and cattle; and the hail smote every herb of the field, and broke every tree of the field.",
+    "reference": "Exodus 9:25 (DBT)",
+    "connected_to": "Exodus 9:26",
+    "connected_from": "Exodus 9:24"
+  },
+  {
+    "text": "Only in the land of Goshen, where the children of Israel were, was there no hail.",
+    "reference": "Exodus 9:26 (DBT)",
+    "connected_to": "Exodus 9:27",
+    "connected_from": "Exodus 9:25"
+  },
+  {
+    "text": "And Pharaoh sent, and called Moses and Aaron, and said to them, I have sinned this time: Jehovah is the righteous [one], but I and my people are the wicked [ones].",
+    "reference": "Exodus 9:27 (DBT)",
+    "connected_to": "Exodus 9:28",
+    "connected_from": "Exodus 9:26"
+  },
+  {
+    "text": "Intreat Jehovah that it may be enough, that there be no more thunder of God and hail; and I will let you go, and ye shall stay no longer!",
+    "reference": "Exodus 9:28 (DBT)",
+    "connected_to": "Exodus 9:29",
+    "connected_from": "Exodus 9:27"
+  },
+  {
+    "text": "And Moses said to him, When I go out of the city, I will spread out my hands to Jehovah: the thunder will cease, and there will be no more hail; that thou mayest know that the earth is Jehovah’s.",
+    "reference": "Exodus 9:29 (DBT)",
+    "connected_to": "Exodus 9:30",
+    "connected_from": "Exodus 9:28"
+  },
+  {
+    "text": "But as to thee and thy bondmen, I know that ye do not yet fear Jehovah Elohim.",
+    "reference": "Exodus 9:30 (DBT)",
+    "connected_to": "Exodus 9:31",
+    "connected_from": "Exodus 9:29"
+  },
+  {
+    "text": "And the flax and the barley were smitten; for the barley was in the ear, and the flax was bolled.",
+    "reference": "Exodus 9:31 (DBT)",
+    "connected_to": "Exodus 9:32",
+    "connected_from": "Exodus 9:30"
+  },
+  {
+    "text": "But the wheat and the spelt were not smitten; for they were not come out into ear.",
+    "reference": "Exodus 9:32 (DBT)",
+    "connected_to": "Exodus 9:33",
+    "connected_from": "Exodus 9:31"
+  },
+  {
+    "text": "And Moses went out of the city from Pharaoh, and spread out his hands to Jehovah; and the thunders and hail ceased, and the rain was not [any more] poured on the earth.",
+    "reference": "Exodus 9:33 (DBT)",
+    "connected_to": "Exodus 9:34",
+    "connected_from": "Exodus 9:32"
+  },
+  {
+    "text": "And Pharaoh saw that the rain and the hail and the thunders had ceased, and he sinned yet more, and hardened his heart, he, and his bondmen.",
+    "reference": "Exodus 9:34 (DBT)",
+    "connected_to": "Exodus 9:35",
+    "connected_from": "Exodus 9:33"
+  },
+  {
+    "text": "And the heart of Pharaoh was stubborn, neither would he let the children of Israel go, as Jehovah had spoken by Moses.",
+    "reference": "Exodus 9:35 (DBT)",
+    "connected_from": "Exodus 9:34"
+  }
+]

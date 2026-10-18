@@ -1,0 +1,264 @@
+[
+  {
+    "text": "And he began to say to them in parables, A man planted a vineyard, and made a fence round [it] and dug a wine-vat, and built a tower, and let it out to husbandmen, and left the country.",
+    "reference": "Mark 12:1 (DBT)",
+    "connected_to": "Mark 12:2"
+  },
+  {
+    "text": "And he sent a bondman to the husbandmen at the season, that he might receive from the husbandmen of the fruit of the vineyard.",
+    "reference": "Mark 12:2 (DBT)",
+    "connected_to": "Mark 12:3",
+    "connected_from": "Mark 12:1"
+  },
+  {
+    "text": "But they took him, and beat [him], and sent [him] away empty.",
+    "reference": "Mark 12:3 (DBT)",
+    "connected_to": "Mark 12:4",
+    "connected_from": "Mark 12:2"
+  },
+  {
+    "text": "And again he sent to them another bondman; and [at] him they [threw stones, and] struck [him] on the head, and sent [him] away with insult.",
+    "reference": "Mark 12:4 (DBT)",
+    "connected_to": "Mark 12:5",
+    "connected_from": "Mark 12:3"
+  },
+  {
+    "text": "And [again] he sent another, and him they killed; and many others, beating some and killing some.",
+    "reference": "Mark 12:5 (DBT)",
+    "connected_to": "Mark 12:6",
+    "connected_from": "Mark 12:4"
+  },
+  {
+    "text": "Having yet therefore one beloved son, he sent also him to them the last, saying, They will have respect for my son.",
+    "reference": "Mark 12:6 (DBT)",
+    "connected_to": "Mark 12:7",
+    "connected_from": "Mark 12:5"
+  },
+  {
+    "text": "But those husbandmen said to one another, This is the heir: come, let us kill him and the inheritance will be ours.",
+    "reference": "Mark 12:7 (DBT)",
+    "connected_to": "Mark 12:8",
+    "connected_from": "Mark 12:6"
+  },
+  {
+    "text": "And they took him and killed him, and cast him forth out of the vineyard.",
+    "reference": "Mark 12:8 (DBT)",
+    "connected_to": "Mark 12:9",
+    "connected_from": "Mark 12:7"
+  },
+  {
+    "text": "What therefore shall the lord of the vineyard do? He will come and destroy the husbandmen, and will give the vineyard to others.",
+    "reference": "Mark 12:9 (DBT)",
+    "connected_to": "Mark 12:10",
+    "connected_from": "Mark 12:8"
+  },
+  {
+    "text": "Have ye not even read this scripture, The stone which they that builded rejected, this has become the corner-stone:",
+    "reference": "Mark 12:10 (DBT)",
+    "connected_to": "Mark 12:11",
+    "connected_from": "Mark 12:9"
+  },
+  {
+    "text": "this is of [the] Lord, and it is wonderful in our eyes?",
+    "reference": "Mark 12:11 (DBT)",
+    "connected_to": "Mark 12:12",
+    "connected_from": "Mark 12:10"
+  },
+  {
+    "text": "And they sought to lay hold of him, and they feared the crowd; for they knew that he had spoken the parable of them. And they left him and went away.",
+    "reference": "Mark 12:12 (DBT)",
+    "connected_to": "Mark 12:13",
+    "connected_from": "Mark 12:11"
+  },
+  {
+    "text": "And they send to him certain of the Pharisees and of the Herodians, that they might catch him in speaking.",
+    "reference": "Mark 12:13 (DBT)",
+    "connected_to": "Mark 12:14",
+    "connected_from": "Mark 12:12"
+  },
+  {
+    "text": "And they come and say to him, Teacher, we know that thou art true, and carest not for any one; for thou regardest not men’s person, but teachest the way of God with truth: Is it lawful to give tribute to Caesar or not?",
+    "reference": "Mark 12:14 (DBT)",
+    "connected_to": "Mark 12:15",
+    "connected_from": "Mark 12:13"
+  },
+  {
+    "text": "Should we give, or should we not give? But he knowing their hypocrisy said unto them, Why tempt ye me? Bring me a denarius that I may see [it].",
+    "reference": "Mark 12:15 (DBT)",
+    "connected_to": "Mark 12:16",
+    "connected_from": "Mark 12:14"
+  },
+  {
+    "text": "And they brought [it]. And he says to them, Whose [is] this image and superscription? And they said to him, Caesar’s.",
+    "reference": "Mark 12:16 (DBT)",
+    "connected_to": "Mark 12:17",
+    "connected_from": "Mark 12:15"
+  },
+  {
+    "text": "And Jesus answering said to them, Pay what is Caesar’s to Caesar, and what is God’s to God. And they wondered at him.",
+    "reference": "Mark 12:17 (DBT)",
+    "connected_to": "Mark 12:18",
+    "connected_from": "Mark 12:16"
+  },
+  {
+    "text": "And Sadducees come to him, that say there is no resurrection; and they demanded of him saying,",
+    "reference": "Mark 12:18 (DBT)",
+    "connected_to": "Mark 12:19",
+    "connected_from": "Mark 12:17"
+  },
+  {
+    "text": "Teacher, Moses wrote to us that if any one’s brother die, and leave a wife behind, and leave no children, that his brother shall take his wife, and raise up seed to his brother.",
+    "reference": "Mark 12:19 (DBT)",
+    "connected_to": "Mark 12:20",
+    "connected_from": "Mark 12:18"
+  },
+  {
+    "text": "There were seven brethren; and the first took a wife, and dying did not leave seed;",
+    "reference": "Mark 12:20 (DBT)",
+    "connected_to": "Mark 12:21",
+    "connected_from": "Mark 12:19"
+  },
+  {
+    "text": "and the second took her and died, and neither did he leave seed; and the third likewise.",
+    "reference": "Mark 12:21 (DBT)",
+    "connected_to": "Mark 12:22",
+    "connected_from": "Mark 12:20"
+  },
+  {
+    "text": "And the seven [took her and] did not leave seed. Last of all the woman also died.",
+    "reference": "Mark 12:22 (DBT)",
+    "connected_to": "Mark 12:23",
+    "connected_from": "Mark 12:21"
+  },
+  {
+    "text": "In the resurrection, when they shall rise again, of which of them shall she be wife, for the seven had her as wife?",
+    "reference": "Mark 12:23 (DBT)",
+    "connected_to": "Mark 12:24",
+    "connected_from": "Mark 12:22"
+  },
+  {
+    "text": "And Jesus answering said to them, Do not ye therefore err, not knowing the scriptures, nor the power of God?",
+    "reference": "Mark 12:24 (DBT)",
+    "connected_to": "Mark 12:25",
+    "connected_from": "Mark 12:23"
+  },
+  {
+    "text": "For when they rise from among [the] dead they neither marry, nor are given in marriage, but are as angels [who are] in the heavens.",
+    "reference": "Mark 12:25 (DBT)",
+    "connected_to": "Mark 12:26",
+    "connected_from": "Mark 12:24"
+  },
+  {
+    "text": "But concerning the dead that they rise, have ye not read in the book of Moses, in [the section of] the bush, how God spoke to him, saying, I [am] the God of Abraham, and the God of Isaac, and the God of Jacob?",
+    "reference": "Mark 12:26 (DBT)",
+    "connected_to": "Mark 12:27",
+    "connected_from": "Mark 12:25"
+  },
+  {
+    "text": "He is not the God of [the] dead, but of [the] living. Ye therefore greatly err.",
+    "reference": "Mark 12:27 (DBT)",
+    "connected_to": "Mark 12:28",
+    "connected_from": "Mark 12:26"
+  },
+  {
+    "text": "And one of the scribes who had come up, and had heard them reasoning together, perceiving that he had answered them well, demanded of him, Which is [the] first commandment of all?",
+    "reference": "Mark 12:28 (DBT)",
+    "connected_to": "Mark 12:29",
+    "connected_from": "Mark 12:27"
+  },
+  {
+    "text": "And Jesus answered him, [The] first commandment of all [is], Hear, Israel: the Lord our God is one Lord;",
+    "reference": "Mark 12:29 (DBT)",
+    "connected_to": "Mark 12:30",
+    "connected_from": "Mark 12:28"
+  },
+  {
+    "text": "and thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thine understanding, and with all thy strength. This is [the] first commandment.",
+    "reference": "Mark 12:30 (DBT)",
+    "connected_to": "Mark 12:31",
+    "connected_from": "Mark 12:29"
+  },
+  {
+    "text": "And a second like it [is] this: Thou shalt love thy neighbour as thyself. There is not another commandment greater than these.",
+    "reference": "Mark 12:31 (DBT)",
+    "connected_to": "Mark 12:32",
+    "connected_from": "Mark 12:30"
+  },
+  {
+    "text": "And the scribe said to him, Right, teacher; thou hast spoken according to [the] truth. For he is one, and there is none other besides him;",
+    "reference": "Mark 12:32 (DBT)",
+    "connected_to": "Mark 12:33",
+    "connected_from": "Mark 12:31"
+  },
+  {
+    "text": "and to love him with all the heart, and with all the intelligence, and with all the soul, and with all the strength, and to love one’s neighbour as one’s self, is more than all the burnt-offerings and sacrifices.",
+    "reference": "Mark 12:33 (DBT)",
+    "connected_to": "Mark 12:34",
+    "connected_from": "Mark 12:32"
+  },
+  {
+    "text": "And Jesus, seeing that he had answered intelligently, said to him, Thou art not far from the kingdom of God. And no one dared question him any more.",
+    "reference": "Mark 12:34 (DBT)",
+    "connected_to": "Mark 12:35",
+    "connected_from": "Mark 12:33"
+  },
+  {
+    "text": "And Jesus answering said [as he was] teaching in the temple, How do the scribes say that the Christ is son of David?",
+    "reference": "Mark 12:35 (DBT)",
+    "connected_to": "Mark 12:36",
+    "connected_from": "Mark 12:34"
+  },
+  {
+    "text": "[for] David himself said [speaking] in the Holy Spirit, The Lord said to my Lord, Sit on my right hand until I put thine enemies [as] footstool of thy feet.",
+    "reference": "Mark 12:36 (DBT)",
+    "connected_to": "Mark 12:37",
+    "connected_from": "Mark 12:35"
+  },
+  {
+    "text": "David himself [therefore] calls him Lord, and whence is he his son? And the mass of the people heard him gladly.",
+    "reference": "Mark 12:37 (DBT)",
+    "connected_to": "Mark 12:38",
+    "connected_from": "Mark 12:36"
+  },
+  {
+    "text": "And he said to them in his doctrine, Beware of the scribes, who like to walk about in long robes, and salutations in the marketplaces,",
+    "reference": "Mark 12:38 (DBT)",
+    "connected_to": "Mark 12:39",
+    "connected_from": "Mark 12:37"
+  },
+  {
+    "text": "and first seats in the synagogues, and first places at suppers;",
+    "reference": "Mark 12:39 (DBT)",
+    "connected_to": "Mark 12:40",
+    "connected_from": "Mark 12:38"
+  },
+  {
+    "text": "who devour the houses of widows, and as a pretext make long prayers. These shall receive a severer judgment.",
+    "reference": "Mark 12:40 (DBT)",
+    "connected_to": "Mark 12:41",
+    "connected_from": "Mark 12:39"
+  },
+  {
+    "text": "And Jesus, having sat down opposite the treasury, saw how the crowd was casting money into the treasury; and many rich cast in much.",
+    "reference": "Mark 12:41 (DBT)",
+    "connected_to": "Mark 12:42",
+    "connected_from": "Mark 12:40"
+  },
+  {
+    "text": "And a poor widow came and cast in two mites, which is a farthing.",
+    "reference": "Mark 12:42 (DBT)",
+    "connected_to": "Mark 12:43",
+    "connected_from": "Mark 12:41"
+  },
+  {
+    "text": "And having called his disciples to [him] he said to them, Verily I say unto you, This poor widow has cast in more than all who have cast into the treasury:",
+    "reference": "Mark 12:43 (DBT)",
+    "connected_to": "Mark 12:44",
+    "connected_from": "Mark 12:42"
+  },
+  {
+    "text": "for all have cast in of that which they had in abundance, but she of her destitution has cast in all that she had, the whole of her living.",
+    "reference": "Mark 12:44 (DBT)",
+    "connected_from": "Mark 12:43"
+  }
+]

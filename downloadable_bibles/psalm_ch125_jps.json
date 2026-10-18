@@ -1,0 +1,30 @@
+[
+  {
+    "text": "A Song of Ascents.  They that trust in the LORD Are as mount Zion, which cannot be moved, but abideth for ever.",
+    "reference": "Psalm 125:1 (JPS)",
+    "connected_to": "Psalm 125:2"
+  },
+  {
+    "text": "As the mountains are round about Jerusalem, So the LORD is round about His people, From this time forth and for ever.",
+    "reference": "Psalm 125:2 (JPS)",
+    "connected_to": "Psalm 125:3",
+    "connected_from": "Psalm 125:1"
+  },
+  {
+    "text": "For the rod of wickedness shall not rest upon the lot of the righteous; That the righteous put not forth their hands unto iniquity.",
+    "reference": "Psalm 125:3 (JPS)",
+    "connected_to": "Psalm 125:4",
+    "connected_from": "Psalm 125:2"
+  },
+  {
+    "text": "Do good, O LORD, unto the good, And to them that are upright in their hearts.",
+    "reference": "Psalm 125:4 (JPS)",
+    "connected_to": "Psalm 125:5",
+    "connected_from": "Psalm 125:3"
+  },
+  {
+    "text": "But as for such as turn aside unto their crooked ways, The LORD will lead them away with the workers of iniquity. Peace be upon Israel.",
+    "reference": "Psalm 125:5 (JPS)",
+    "connected_from": "Psalm 125:4"
+  }
+]

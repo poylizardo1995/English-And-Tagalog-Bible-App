@@ -1,0 +1,48 @@
+[
+  {
+    "text": "When Israel went out of Egypt, the house of Jacob from a barbarous people:",
+    "reference": "Psalm 114:1 (DRB)",
+    "connected_to": "Psalm 114:2"
+  },
+  {
+    "text": "Judea made his sanctuary, Israel his dominion.",
+    "reference": "Psalm 114:2 (DRB)",
+    "connected_to": "Psalm 114:3",
+    "connected_from": "Psalm 114:1"
+  },
+  {
+    "text": "The sea saw and fled: Jordan was turned back.",
+    "reference": "Psalm 114:3 (DRB)",
+    "connected_to": "Psalm 114:4",
+    "connected_from": "Psalm 114:2"
+  },
+  {
+    "text": "The mountains skipped like rams, and the hills like the lambs of the flock.",
+    "reference": "Psalm 114:4 (DRB)",
+    "connected_to": "Psalm 114:5",
+    "connected_from": "Psalm 114:3"
+  },
+  {
+    "text": "What ailed thee, O thou sea, that thou didst flee: and thou, O Jordan, that thou wast turned back?",
+    "reference": "Psalm 114:5 (DRB)",
+    "connected_to": "Psalm 114:6",
+    "connected_from": "Psalm 114:4"
+  },
+  {
+    "text": "Ye mountains, that ye skipped like rams, and ye hills, like lambs of the flock?",
+    "reference": "Psalm 114:6 (DRB)",
+    "connected_to": "Psalm 114:7",
+    "connected_from": "Psalm 114:5"
+  },
+  {
+    "text": "At the presence of the Lord the earth was moved, at the presence of the God of Jacob:",
+    "reference": "Psalm 114:7 (DRB)",
+    "connected_to": "Psalm 114:8",
+    "connected_from": "Psalm 114:6"
+  },
+  {
+    "text": "Who turned the rock into pools of water, and the stony hill into fountains of waters.",
+    "reference": "Psalm 114:8 (DRB)",
+    "connected_from": "Psalm 114:7"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "text": "O God, you have cast us off, you have scattered us, you have been displeased; O turn yourself to us again.",
+    "reference": "Psalm 60:1 (AKJV)",
+    "connected_to": "Psalm 60:2"
+  },
+  {
+    "text": "You have made the earth to tremble; you have broken it: heal the breaches thereof; for it shakes.",
+    "reference": "Psalm 60:2 (AKJV)",
+    "connected_to": "Psalm 60:3",
+    "connected_from": "Psalm 60:1"
+  },
+  {
+    "text": "You have showed your people hard things: you have made us to drink the wine of astonishment.",
+    "reference": "Psalm 60:3 (AKJV)",
+    "connected_to": "Psalm 60:4",
+    "connected_from": "Psalm 60:2"
+  },
+  {
+    "text": "You have given a banner to them that fear you, that it may be displayed because of the truth. Selah.",
+    "reference": "Psalm 60:4 (AKJV)",
+    "connected_to": "Psalm 60:5",
+    "connected_from": "Psalm 60:3"
+  },
+  {
+    "text": "That your beloved may be delivered; save with your right hand, and hear me.",
+    "reference": "Psalm 60:5 (AKJV)",
+    "connected_to": "Psalm 60:6",
+    "connected_from": "Psalm 60:4"
+  },
+  {
+    "text": "God has spoken in his holiness; I will rejoice, I will divide Shechem, and mete out the valley of Succoth.",
+    "reference": "Psalm 60:6 (AKJV)",
+    "connected_to": "Psalm 60:7",
+    "connected_from": "Psalm 60:5"
+  },
+  {
+    "text": "Gilead is mine, and Manasseh is mine; Ephraim also is the strength of my head; Judah is my lawgiver;",
+    "reference": "Psalm 60:7 (AKJV)",
+    "connected_to": "Psalm 60:8",
+    "connected_from": "Psalm 60:6"
+  },
+  {
+    "text": "Moab is my wash pot; over Edom will I cast out my shoe: Philistia, triumph you because of me.",
+    "reference": "Psalm 60:8 (AKJV)",
+    "connected_to": "Psalm 60:9",
+    "connected_from": "Psalm 60:7"
+  },
+  {
+    "text": "Who will bring me into the strong city? who will lead me into Edom?",
+    "reference": "Psalm 60:9 (AKJV)",
+    "connected_to": "Psalm 60:10",
+    "connected_from": "Psalm 60:8"
+  },
+  {
+    "text": "Will not you, O God, which had cast us off? and you, O God, which did not go out with our armies?",
+    "reference": "Psalm 60:10 (AKJV)",
+    "connected_to": "Psalm 60:11",
+    "connected_from": "Psalm 60:9"
+  },
+  {
+    "text": "Give us help from trouble: for vain is the help of man.",
+    "reference": "Psalm 60:11 (AKJV)",
+    "connected_to": "Psalm 60:12",
+    "connected_from": "Psalm 60:10"
+  },
+  {
+    "text": "Through God we shall do valiantly: for he it is that shall tread down our enemies.",
+    "reference": "Psalm 60:12 (AKJV)",
+    "connected_from": "Psalm 60:11"
+  }
+]

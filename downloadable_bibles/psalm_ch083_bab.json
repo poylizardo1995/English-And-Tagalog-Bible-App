@@ -1,0 +1,108 @@
+[
+  {
+    "text": "A song. A Psalm of Asaph (gatherer). <span class=|reftext|><a href=|#|><b>1</b></a> O God {Elohim}, be not silent; be not speechless (deaf); be not still, O God.",
+    "reference": "Psalm 83:1 (BAB)",
+    "connected_to": "Psalm 83:2"
+  },
+  {
+    "text": "See how Your enemies rage, how Your foes have reared their heads.",
+    "reference": "Psalm 83:2 (BAB)",
+    "connected_to": "Psalm 83:3",
+    "connected_from": "Psalm 83:1"
+  },
+  {
+    "text": "With cunning they scheme against Your people and conspire against those You cherish,",
+    "reference": "Psalm 83:3 (BAB)",
+    "connected_to": "Psalm 83:4",
+    "connected_from": "Psalm 83:2"
+  },
+  {
+    "text": "saying, “Come, let us erase them as a nation; may the name of Israel (he wrestles with God) be remembered no more.”",
+    "reference": "Psalm 83:4 (BAB)",
+    "connected_to": "Psalm 83:5",
+    "connected_from": "Psalm 83:3"
+  },
+  {
+    "text": "For with one mind they plot together; they form an alliance against You—",
+    "reference": "Psalm 83:5 (BAB)",
+    "connected_to": "Psalm 83:6",
+    "connected_from": "Psalm 83:4"
+  },
+  {
+    "text": "the tents of Edom (red) and the Ishmaelites, of Moab (of his father) and the Hagrites (wanderer),",
+    "reference": "Psalm 83:6 (BAB)",
+    "connected_to": "Psalm 83:7",
+    "connected_from": "Psalm 83:5"
+  },
+  {
+    "text": "of Gebal (a boundary), Ammon (tribal), and Amalek (dweller in a valley), of Philistia (land of sojourners) with the people of Tyre (a rock).",
+    "reference": "Psalm 83:7 (BAB)",
+    "connected_to": "Psalm 83:8",
+    "connected_from": "Psalm 83:6"
+  },
+  {
+    "text": "Even Assyria (a step) has joined them, lending strength to the sons of Lot (covering). Selah",
+    "reference": "Psalm 83:8 (BAB)",
+    "connected_to": "Psalm 83:9",
+    "connected_from": "Psalm 83:7"
+  },
+  {
+    "text": "Do to them as You did to Midian (strife), as to Sisera (battle array) and Jabin (whom God observes) at the River Kishon (winding),",
+    "reference": "Psalm 83:9 (BAB)",
+    "connected_to": "Psalm 83:10",
+    "connected_from": "Psalm 83:8"
+  },
+  {
+    "text": "who perished at Endor (fountain of Dor) and became like dung on the ground.",
+    "reference": "Psalm 83:10 (BAB)",
+    "connected_to": "Psalm 83:11",
+    "connected_from": "Psalm 83:9"
+  },
+  {
+    "text": "Make their nobles like Oreb (raven) and Zeeb (wolf), and all their princes like Zebah (deprived of protection) and Zalmunna,",
+    "reference": "Psalm 83:11 (BAB)",
+    "connected_to": "Psalm 83:12",
+    "connected_from": "Psalm 83:10"
+  },
+  {
+    "text": "who said, “Let us possess for ourselves the pastures of God {Elohim}.”",
+    "reference": "Psalm 83:12 (BAB)",
+    "connected_to": "Psalm 83:13",
+    "connected_from": "Psalm 83:11"
+  },
+  {
+    "text": "Make them like tumbleweed, O my God {Elohim}, like chaff before the wind {ruach}.",
+    "reference": "Psalm 83:13 (BAB)",
+    "connected_to": "Psalm 83:14",
+    "connected_from": "Psalm 83:12"
+  },
+  {
+    "text": "As fire consumes a forest, as a flame sets the mountains ablaze,",
+    "reference": "Psalm 83:14 (BAB)",
+    "connected_to": "Psalm 83:15",
+    "connected_from": "Psalm 83:13"
+  },
+  {
+    "text": "so pursue them with Your tempest, and terrify them with Your storm (honeycomb / overflow).",
+    "reference": "Psalm 83:15 (BAB)",
+    "connected_to": "Psalm 83:16",
+    "connected_from": "Psalm 83:14"
+  },
+  {
+    "text": "Cover their faces with shame, that they may seek Your name, O LORD {YHWH}.",
+    "reference": "Psalm 83:16 (BAB)",
+    "connected_to": "Psalm 83:17",
+    "connected_from": "Psalm 83:15"
+  },
+  {
+    "text": "May they be ever ashamed and terrified; may they perish in disgrace.",
+    "reference": "Psalm 83:17 (BAB)",
+    "connected_to": "Psalm 83:18",
+    "connected_from": "Psalm 83:16"
+  },
+  {
+    "text": "May they know that You alone, whose name is the LORD {YHWH}, are Most High over all the earth.",
+    "reference": "Psalm 83:18 (BAB)",
+    "connected_from": "Psalm 83:17"
+  }
+]

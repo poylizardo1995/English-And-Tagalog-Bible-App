@@ -1,0 +1,210 @@
+[
+  {
+    "text": "Now there was another famine in the land, subsequent to the one that had occurred in Abraham’s time. And Isaac went to Abimelech king of the Philistines at Gerar.",
+    "reference": "Genesis 26:1 (BSB)",
+    "connected_to": "Genesis 26:2"
+  },
+  {
+    "text": "The LORD appeared to Isaac and said, “Do not go down to Egypt. Settle in the land where I tell you.",
+    "reference": "Genesis 26:2 (BSB)",
+    "connected_to": "Genesis 26:3",
+    "connected_from": "Genesis 26:1"
+  },
+  {
+    "text": "Stay in this land as a foreigner, and I will be with you and bless you. For I will give all these lands to you and your offspring, and I will confirm the oath that I swore to your father Abraham.",
+    "reference": "Genesis 26:3 (BSB)",
+    "connected_to": "Genesis 26:4",
+    "connected_from": "Genesis 26:2"
+  },
+  {
+    "text": "I will make your descendants as numerous as the stars in the sky, and I will give them all these lands, and through your offspring all nations of the earth will be blessed,",
+    "reference": "Genesis 26:4 (BSB)",
+    "connected_to": "Genesis 26:5",
+    "connected_from": "Genesis 26:3"
+  },
+  {
+    "text": "because Abraham listened to My voice and kept My charge, My commandments, My statutes, and My laws.”",
+    "reference": "Genesis 26:5 (BSB)",
+    "connected_to": "Genesis 26:6",
+    "connected_from": "Genesis 26:4"
+  },
+  {
+    "text": "So Isaac settled in Gerar.",
+    "reference": "Genesis 26:6 (BSB)",
+    "connected_to": "Genesis 26:7",
+    "connected_from": "Genesis 26:5"
+  },
+  {
+    "text": "But when the men of that place asked about his wife, he said, “She is my sister.” For he was afraid to say, “She is my wife,” since he thought to himself, “The men of this place will kill me on account of Rebekah, because she is so beautiful.”",
+    "reference": "Genesis 26:7 (BSB)",
+    "connected_to": "Genesis 26:8",
+    "connected_from": "Genesis 26:6"
+  },
+  {
+    "text": "When Isaac had been there a long time, Abimelech king of the Philistines looked down from the window and was surprised to see Isaac caressing his wife Rebekah.",
+    "reference": "Genesis 26:8 (BSB)",
+    "connected_to": "Genesis 26:9",
+    "connected_from": "Genesis 26:7"
+  },
+  {
+    "text": "Abimelech sent for Isaac and said, “So she is really your wife! How could you say, ‘She is my sister’?” Isaac replied, “Because I thought I might die on account of her.”",
+    "reference": "Genesis 26:9 (BSB)",
+    "connected_to": "Genesis 26:10",
+    "connected_from": "Genesis 26:8"
+  },
+  {
+    "text": "“What is this you have done to us?” asked Abimelech. “One of the people could easily have slept with your wife, and you would have brought guilt upon us.”",
+    "reference": "Genesis 26:10 (BSB)",
+    "connected_to": "Genesis 26:11",
+    "connected_from": "Genesis 26:9"
+  },
+  {
+    "text": "So Abimelech warned all the people, saying, “Whoever harms this man or his wife will surely be put to death.”",
+    "reference": "Genesis 26:11 (BSB)",
+    "connected_to": "Genesis 26:12",
+    "connected_from": "Genesis 26:10"
+  },
+  {
+    "text": "Now Isaac sowed seed in the land, and that very year he reaped a hundredfold. And the LORD blessed him,",
+    "reference": "Genesis 26:12 (BSB)",
+    "connected_to": "Genesis 26:13",
+    "connected_from": "Genesis 26:11"
+  },
+  {
+    "text": "and he became richer and richer, until he was exceedingly wealthy.",
+    "reference": "Genesis 26:13 (BSB)",
+    "connected_to": "Genesis 26:14",
+    "connected_from": "Genesis 26:12"
+  },
+  {
+    "text": "He owned so many flocks and herds and servants that the Philistines envied him.",
+    "reference": "Genesis 26:14 (BSB)",
+    "connected_to": "Genesis 26:15",
+    "connected_from": "Genesis 26:13"
+  },
+  {
+    "text": "So the Philistines took dirt and stopped up all the wells that his father’s servants had dug in the days of his father Abraham.",
+    "reference": "Genesis 26:15 (BSB)",
+    "connected_to": "Genesis 26:16",
+    "connected_from": "Genesis 26:14"
+  },
+  {
+    "text": "Then Abimelech said to Isaac, “Depart from us, for you are much too powerful for us.”",
+    "reference": "Genesis 26:16 (BSB)",
+    "connected_to": "Genesis 26:17",
+    "connected_from": "Genesis 26:15"
+  },
+  {
+    "text": "So Isaac left that place and encamped in the Valley of Gerar and settled there.",
+    "reference": "Genesis 26:17 (BSB)",
+    "connected_to": "Genesis 26:18",
+    "connected_from": "Genesis 26:16"
+  },
+  {
+    "text": "Isaac reopened the wells that had been dug in the days of his father Abraham, which the Philistines had stopped up after Abraham died. And he gave these wells the same names his father had given them.",
+    "reference": "Genesis 26:18 (BSB)",
+    "connected_to": "Genesis 26:19",
+    "connected_from": "Genesis 26:17"
+  },
+  {
+    "text": "Then Isaac’s servants dug in the valley and found a well of fresh water there.",
+    "reference": "Genesis 26:19 (BSB)",
+    "connected_to": "Genesis 26:20",
+    "connected_from": "Genesis 26:18"
+  },
+  {
+    "text": "But the herdsmen of Gerar quarreled with Isaac’s herdsmen and said, “The water is ours!” So he named the well Esek, because they contended with him.",
+    "reference": "Genesis 26:20 (BSB)",
+    "connected_to": "Genesis 26:21",
+    "connected_from": "Genesis 26:19"
+  },
+  {
+    "text": "Then they dug another well and quarreled over that one also; so he named it Sitnah.",
+    "reference": "Genesis 26:21 (BSB)",
+    "connected_to": "Genesis 26:22",
+    "connected_from": "Genesis 26:20"
+  },
+  {
+    "text": "He moved on from there and dug another well, and they did not quarrel over it. He named it Rehoboth and said, “At last the LORD has made room for us, and we will be fruitful in the land.”",
+    "reference": "Genesis 26:22 (BSB)",
+    "connected_to": "Genesis 26:23",
+    "connected_from": "Genesis 26:21"
+  },
+  {
+    "text": "From there Isaac went up to Beersheba,",
+    "reference": "Genesis 26:23 (BSB)",
+    "connected_to": "Genesis 26:24",
+    "connected_from": "Genesis 26:22"
+  },
+  {
+    "text": "and that night the LORD appeared to him and said, “I am the God of your father Abraham. Do not be afraid, for I am with you. I will bless you and multiply your descendants for the sake of My servant Abraham.”",
+    "reference": "Genesis 26:24 (BSB)",
+    "connected_to": "Genesis 26:25",
+    "connected_from": "Genesis 26:23"
+  },
+  {
+    "text": "So Isaac built an altar there and called on the name of the LORD, and he pitched his tent there. His servants also dug a well there.",
+    "reference": "Genesis 26:25 (BSB)",
+    "connected_to": "Genesis 26:26",
+    "connected_from": "Genesis 26:24"
+  },
+  {
+    "text": "Later, Abimelech came to Isaac from Gerar, with Ahuzzath his adviser and Phicol the commander of his army.",
+    "reference": "Genesis 26:26 (BSB)",
+    "connected_to": "Genesis 26:27",
+    "connected_from": "Genesis 26:25"
+  },
+  {
+    "text": "“Why have you come to me?” Isaac asked them. “You hated me and sent me away.”",
+    "reference": "Genesis 26:27 (BSB)",
+    "connected_to": "Genesis 26:28",
+    "connected_from": "Genesis 26:26"
+  },
+  {
+    "text": "“We can plainly see that the LORD has been with you,” they replied. “We recommend that there should now be an oath between us and you. Let us make a covenant with you",
+    "reference": "Genesis 26:28 (BSB)",
+    "connected_to": "Genesis 26:29",
+    "connected_from": "Genesis 26:27"
+  },
+  {
+    "text": "that you will not harm us, just as we have not harmed you but have done only good to you, sending you on your way in peace. And now you are blessed by the LORD.”",
+    "reference": "Genesis 26:29 (BSB)",
+    "connected_to": "Genesis 26:30",
+    "connected_from": "Genesis 26:28"
+  },
+  {
+    "text": "So Isaac prepared a feast for them, and they ate and drank.",
+    "reference": "Genesis 26:30 (BSB)",
+    "connected_to": "Genesis 26:31",
+    "connected_from": "Genesis 26:29"
+  },
+  {
+    "text": "And they got up early the next morning and swore an oath to each other. Then Isaac sent them on their way, and they left him in peace.",
+    "reference": "Genesis 26:31 (BSB)",
+    "connected_to": "Genesis 26:32",
+    "connected_from": "Genesis 26:30"
+  },
+  {
+    "text": "On that same day, Isaac’s servants came and told him about the well they had dug. “We have found water!” they told him.",
+    "reference": "Genesis 26:32 (BSB)",
+    "connected_to": "Genesis 26:33",
+    "connected_from": "Genesis 26:31"
+  },
+  {
+    "text": "So he called it Shibah, and to this day the name of the city is Beersheba.",
+    "reference": "Genesis 26:33 (BSB)",
+    "connected_to": "Genesis 26:34",
+    "connected_from": "Genesis 26:32"
+  },
+  {
+    "text": "When Esau was forty years old, he took as his wives Judith daughter of Beeri the Hittite and Basemath daughter of Elon the Hittite.",
+    "reference": "Genesis 26:34 (BSB)",
+    "connected_to": "Genesis 26:35",
+    "connected_from": "Genesis 26:33"
+  },
+  {
+    "text": "And they brought grief to Isaac and Rebekah.",
+    "reference": "Genesis 26:35 (BSB)",
+    "connected_from": "Genesis 26:34"
+  }
+]

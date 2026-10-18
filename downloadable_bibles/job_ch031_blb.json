@@ -1,0 +1,240 @@
+[
+  {
+    "text": "[“] I have made A covenant with my eyes; and how could I gaze upon a virgin?",
+    "reference": "Job 31:1 (BLB)",
+    "connected_to": "Job 31:2"
+  },
+  {
+    "text": "For what would be the portion of God from above, and the inheritance of Shaddai in the heights?",
+    "reference": "Job 31:2 (BLB)",
+    "connected_to": "Job 31:3",
+    "connected_from": "Job 31:1"
+  },
+  {
+    "text": "Is not disaster for the perverse one and calamity for the workers of iniquity?",
+    "reference": "Job 31:3 (BLB)",
+    "connected_to": "Job 31:4",
+    "connected_from": "Job 31:2"
+  },
+  {
+    "text": "Does He not see my ways, and count all my steps?",
+    "reference": "Job 31:4 (BLB)",
+    "connected_to": "Job 31:5",
+    "connected_from": "Job 31:3"
+  },
+  {
+    "text": "If I have walked with falsehood, and my foot has hurried toward deceit,",
+    "reference": "Job 31:5 (BLB)",
+    "connected_to": "Job 31:6",
+    "connected_from": "Job 31:4"
+  },
+  {
+    "text": "let Him weigh me in the scales of justice, and let God know my integrity.",
+    "reference": "Job 31:6 (BLB)",
+    "connected_to": "Job 31:7",
+    "connected_from": "Job 31:5"
+  },
+  {
+    "text": "If my step has turned aside from the way, and my heart has walked, following my eyes, and on my palms has stuck a spot,",
+    "reference": "Job 31:7 (BLB)",
+    "connected_to": "Job 31:8",
+    "connected_from": "Job 31:6"
+  },
+  {
+    "text": "[then] let me sow, and another may eat, and may my crops be uprooted!",
+    "reference": "Job 31:8 (BLB)",
+    "connected_to": "Job 31:9",
+    "connected_from": "Job 31:7"
+  },
+  {
+    "text": "If my heart has been enticed over a woman, or I have lain in wait at the door of my neighbor,",
+    "reference": "Job 31:9 (BLB)",
+    "connected_to": "Job 31:10",
+    "connected_from": "Job 31:8"
+  },
+  {
+    "text": "[then] let my wife grind for another, and others bend down over her.",
+    "reference": "Job 31:10 (BLB)",
+    "connected_to": "Job 31:11",
+    "connected_from": "Job 31:9"
+  },
+  {
+    "text": "For it [is] wickedness, and it [is] to be judged an iniquity.",
+    "reference": "Job 31:11 (BLB)",
+    "connected_to": "Job 31:12",
+    "connected_from": "Job 31:10"
+  },
+  {
+    "text": "For it is a fire [that] devours unto Abaddon, and it would uproot among all my produce.",
+    "reference": "Job 31:12 (BLB)",
+    "connected_to": "Job 31:13",
+    "connected_from": "Job 31:11"
+  },
+  {
+    "text": "If I have rejected the justice of my manservant or my maidservant, in their dispute with me,",
+    "reference": "Job 31:13 (BLB)",
+    "connected_to": "Job 31:14",
+    "connected_from": "Job 31:12"
+  },
+  {
+    "text": "then what shall I do when God arises? And when He inspects, how shall I answer him?",
+    "reference": "Job 31:14 (BLB)",
+    "connected_to": "Job 31:15",
+    "connected_from": "Job 31:13"
+  },
+  {
+    "text": "Did not the One making me in the belly make them, and [that] One prepare us in the womb?",
+    "reference": "Job 31:15 (BLB)",
+    "connected_to": "Job 31:16",
+    "connected_from": "Job 31:14"
+  },
+  {
+    "text": "If I have withheld the poor from pleasure and made to fail the eyes of the widow,",
+    "reference": "Job 31:16 (BLB)",
+    "connected_to": "Job 31:17",
+    "connected_from": "Job 31:15"
+  },
+  {
+    "text": "and have eaten my morsel alone, and the fatherless could not eat from it—",
+    "reference": "Job 31:17 (BLB)",
+    "connected_to": "Job 31:18",
+    "connected_from": "Job 31:16"
+  },
+  {
+    "text": "indeed from my youth I brought him up as a father, and from the womb of my mother I guided her—",
+    "reference": "Job 31:18 (BLB)",
+    "connected_to": "Job 31:19",
+    "connected_from": "Job 31:17"
+  },
+  {
+    "text": "if I have seen one perishing from lack of clothing, or there [being] no covering for the needy,",
+    "reference": "Job 31:19 (BLB)",
+    "connected_to": "Job 31:20",
+    "connected_from": "Job 31:18"
+  },
+  {
+    "text": "if his loins have not blessed me for warming him by the fleece of my sheep,",
+    "reference": "Job 31:20 (BLB)",
+    "connected_to": "Job 31:21",
+    "connected_from": "Job 31:19"
+  },
+  {
+    "text": "if I have raised my hand against the fatherless, because I saw my help at the gate,",
+    "reference": "Job 31:21 (BLB)",
+    "connected_to": "Job 31:22",
+    "connected_from": "Job 31:20"
+  },
+  {
+    "text": "[then] let my upper arm fall from its shoulder, and my arm be broken [off] from its socket.",
+    "reference": "Job 31:22 (BLB)",
+    "connected_to": "Job 31:23",
+    "connected_from": "Job 31:21"
+  },
+  {
+    "text": "For a calamity from God [is] dread to me, and His majesty I cannot overpower.",
+    "reference": "Job 31:23 (BLB)",
+    "connected_to": "Job 31:24",
+    "connected_from": "Job 31:22"
+  },
+  {
+    "text": "If I have set my confidence [upon] gold, or to fine gold I have said, “My trust;”",
+    "reference": "Job 31:24 (BLB)",
+    "connected_to": "Job 31:25",
+    "connected_from": "Job 31:23"
+  },
+  {
+    "text": "if I have rejoiced because my wealth [was] great, and because my hand had acquired much;",
+    "reference": "Job 31:25 (BLB)",
+    "connected_to": "Job 31:26",
+    "connected_from": "Job 31:24"
+  },
+  {
+    "text": "if I have seen the light when it shines, or the moon moving [in] splendor,",
+    "reference": "Job 31:26 (BLB)",
+    "connected_to": "Job 31:27",
+    "connected_from": "Job 31:25"
+  },
+  {
+    "text": "so that my heart has been enticed in secret, and my hand has kissed my mouth,",
+    "reference": "Job 31:27 (BLB)",
+    "connected_to": "Job 31:28",
+    "connected_from": "Job 31:26"
+  },
+  {
+    "text": "[then] this also be judged an iniquity, for I would have lied to God above.",
+    "reference": "Job 31:28 (BLB)",
+    "connected_to": "Job 31:29",
+    "connected_from": "Job 31:27"
+  },
+  {
+    "text": "If I have rejoiced in the destruction of one hating me, or raised myself up because evil found him—",
+    "reference": "Job 31:29 (BLB)",
+    "connected_to": "Job 31:30",
+    "connected_from": "Job 31:28"
+  },
+  {
+    "text": "though I had not given my mouth to sin by asking with a curse for his life—",
+    "reference": "Job 31:30 (BLB)",
+    "connected_to": "Job 31:31",
+    "connected_from": "Job 31:29"
+  },
+  {
+    "text": "if the men of my tent have not said, ‘Who will give from his flesh not having been satisfied?’—",
+    "reference": "Job 31:31 (BLB)",
+    "connected_to": "Job 31:32",
+    "connected_from": "Job 31:30"
+  },
+  {
+    "text": "A sojourner does not lodge in the street, [for] I have opened my doors to the traveler—",
+    "reference": "Job 31:32 (BLB)",
+    "connected_to": "Job 31:33",
+    "connected_from": "Job 31:31"
+  },
+  {
+    "text": "if I have covered my transgressions like Adam, by hiding my guilt in my bosom,",
+    "reference": "Job 31:33 (BLB)",
+    "connected_to": "Job 31:34",
+    "connected_from": "Job 31:32"
+  },
+  {
+    "text": "because I feared the great multitude, and the contempt of the clans terrified me and I kept silent, not going out the door—",
+    "reference": "Job 31:34 (BLB)",
+    "connected_to": "Job 31:35",
+    "connected_from": "Job 31:33"
+  },
+  {
+    "text": "(Who will give to me one listening to me? Behold, my mark and let Shaddai answer me! And the bill the man of my dispute that has written!",
+    "reference": "Job 31:35 (BLB)",
+    "connected_to": "Job 31:36",
+    "connected_from": "Job 31:34"
+  },
+  {
+    "text": "If not, I would take it up upon my shoulder, [and] bind it as crowns to myself.",
+    "reference": "Job 31:36 (BLB)",
+    "connected_to": "Job 31:37",
+    "connected_from": "Job 31:35"
+  },
+  {
+    "text": "The count of my steps I would declare to him; like a prince I would approach Him.)—",
+    "reference": "Job 31:37 (BLB)",
+    "connected_to": "Job 31:38",
+    "connected_from": "Job 31:36"
+  },
+  {
+    "text": "If my land cries out against me, and together its furrows weep;",
+    "reference": "Job 31:38 (BLB)",
+    "connected_to": "Job 31:39",
+    "connected_from": "Job 31:37"
+  },
+  {
+    "text": "if I have eaten its power without silver, and I have caused to breathe out the soul of its workers,",
+    "reference": "Job 31:39 (BLB)",
+    "connected_to": "Job 31:40",
+    "connected_from": "Job 31:38"
+  },
+  {
+    "text": "[then] in place of the wheat let a thorn come forth, and weeds in place of barley.” The words of Job have ended.",
+    "reference": "Job 31:40 (BLB)",
+    "connected_from": "Job 31:39"
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "text": "Oh sing unto Jehovah a new song: Sing unto Jehovah, all the earth.",
+    "reference": "Psalm 96:1 (ASV)",
+    "connected_to": "Psalm 96:2"
+  },
+  {
+    "text": "Sing unto Jehovah, bless his name; Show forth his salvation from day to day.",
+    "reference": "Psalm 96:2 (ASV)",
+    "connected_to": "Psalm 96:3",
+    "connected_from": "Psalm 96:1"
+  },
+  {
+    "text": "Declare his glory among the nations, His marvellous works among all the peoples.",
+    "reference": "Psalm 96:3 (ASV)",
+    "connected_to": "Psalm 96:4",
+    "connected_from": "Psalm 96:2"
+  },
+  {
+    "text": "For great is Jehovah, and greatly to be praised: He is to be feared above all gods.",
+    "reference": "Psalm 96:4 (ASV)",
+    "connected_to": "Psalm 96:5",
+    "connected_from": "Psalm 96:3"
+  },
+  {
+    "text": "For all the gods of the peoples are idols; But Jehovah made the heavens.",
+    "reference": "Psalm 96:5 (ASV)",
+    "connected_to": "Psalm 96:6",
+    "connected_from": "Psalm 96:4"
+  },
+  {
+    "text": "Honor and majesty are before him: Strength and beauty are in his sanctuary.",
+    "reference": "Psalm 96:6 (ASV)",
+    "connected_to": "Psalm 96:7",
+    "connected_from": "Psalm 96:5"
+  },
+  {
+    "text": "Ascribe unto Jehovah, ye kindreds of the peoples, Ascribe unto Jehovah glory and strength.",
+    "reference": "Psalm 96:7 (ASV)",
+    "connected_to": "Psalm 96:8",
+    "connected_from": "Psalm 96:6"
+  },
+  {
+    "text": "Ascribe unto Jehovah the glory due unto his name: Bring an offering, and come into his courts.",
+    "reference": "Psalm 96:8 (ASV)",
+    "connected_to": "Psalm 96:9",
+    "connected_from": "Psalm 96:7"
+  },
+  {
+    "text": "Oh worship Jehovah in holy array: Tremble before him, all the earth.",
+    "reference": "Psalm 96:9 (ASV)",
+    "connected_to": "Psalm 96:10",
+    "connected_from": "Psalm 96:8"
+  },
+  {
+    "text": "Say among the nations, Jehovah reigneth: The world also is established that it cannot be moved: He will judge the peoples with equity",
+    "reference": "Psalm 96:10 (ASV)",
+    "connected_to": "Psalm 96:11",
+    "connected_from": "Psalm 96:9"
+  },
+  {
+    "text": "Let the heavens be glad, and let the earth rejoice; Let the sea roar, and the fulness thereof;",
+    "reference": "Psalm 96:11 (ASV)",
+    "connected_to": "Psalm 96:12",
+    "connected_from": "Psalm 96:10"
+  },
+  {
+    "text": "Let the field exult, and all that is therein; Then shall all the trees of the wood sing for joy",
+    "reference": "Psalm 96:12 (ASV)",
+    "connected_to": "Psalm 96:13",
+    "connected_from": "Psalm 96:11"
+  },
+  {
+    "text": "Before Jehovah; for he cometh, For he cometh to judge the earth: He will judge the world with righteousness, And the peoples with his truth.",
+    "reference": "Psalm 96:13 (ASV)",
+    "connected_from": "Psalm 96:12"
+  }
+]

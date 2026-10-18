@@ -1,0 +1,90 @@
+[
+  {
+    "text": "Israel is a luxuriant vine, that putteth forth his fruit: according to the abundance of his fruit he hath multiplied his altars; according to the goodness of their land they have made goodly pillars.",
+    "reference": "Hosea 10:1 (ASV)",
+    "connected_to": "Hosea 10:2"
+  },
+  {
+    "text": "Their heart is divided; now shall they be found guilty: he will smite their altars, he will destroy their pillars.",
+    "reference": "Hosea 10:2 (ASV)",
+    "connected_to": "Hosea 10:3",
+    "connected_from": "Hosea 10:1"
+  },
+  {
+    "text": "Surely now shall they say, We have no king; for we fear not Jehovah; and the king, what can he do for us?",
+    "reference": "Hosea 10:3 (ASV)",
+    "connected_to": "Hosea 10:4",
+    "connected_from": "Hosea 10:2"
+  },
+  {
+    "text": "They speak vain words, swearing falsely in making covenants: therefore judgment springeth up as hemlock in the furrows of the field.",
+    "reference": "Hosea 10:4 (ASV)",
+    "connected_to": "Hosea 10:5",
+    "connected_from": "Hosea 10:3"
+  },
+  {
+    "text": "The inhabitants of Samaria shall be in terror for the calves of Beth-aven; for the people thereof shall mourn over it, and the priests thereof that rejoiced over it, for the glory thereof, because it is departed from it.",
+    "reference": "Hosea 10:5 (ASV)",
+    "connected_to": "Hosea 10:6",
+    "connected_from": "Hosea 10:4"
+  },
+  {
+    "text": "It also, shall be carried unto Assyria for a present to king Jareb: Ephraim shall receive shame, and Israel shall be ashamed of his own counsel.",
+    "reference": "Hosea 10:6 (ASV)",
+    "connected_to": "Hosea 10:7",
+    "connected_from": "Hosea 10:5"
+  },
+  {
+    "text": "As for Samaria, her king is cut off, as foam upon the water.",
+    "reference": "Hosea 10:7 (ASV)",
+    "connected_to": "Hosea 10:8",
+    "connected_from": "Hosea 10:6"
+  },
+  {
+    "text": "The high places also of Aven, the sin of Israel, shall be destroyed: the thorn and the thistle shall come up on their altars; and they shall say to the mountains, Cover us; and to the hills, Fall on us.",
+    "reference": "Hosea 10:8 (ASV)",
+    "connected_to": "Hosea 10:9",
+    "connected_from": "Hosea 10:7"
+  },
+  {
+    "text": "O Israel, thou hast sinned from the days of Gibeah: there they stood; the battle against the children of iniquity doth not overtake them in Gibeah.",
+    "reference": "Hosea 10:9 (ASV)",
+    "connected_to": "Hosea 10:10",
+    "connected_from": "Hosea 10:8"
+  },
+  {
+    "text": "When it is my desire, I will chastise them; and the peoples shall be gathered against them, when they are bound to their two transgressions.",
+    "reference": "Hosea 10:10 (ASV)",
+    "connected_to": "Hosea 10:11",
+    "connected_from": "Hosea 10:9"
+  },
+  {
+    "text": "And Ephraim is a heifer that is taught, that loveth to tread out the grain; but I have passed over upon her fair neck: I will set a rider on Ephraim; Judah shall plow, Jacob shall break his clods.",
+    "reference": "Hosea 10:11 (ASV)",
+    "connected_to": "Hosea 10:12",
+    "connected_from": "Hosea 10:10"
+  },
+  {
+    "text": "Sow to yourselves in righteousness, reap according to kindness; break up your fallow ground; for it is time to seek Jehovah, till he come and rain righteousness upon you.",
+    "reference": "Hosea 10:12 (ASV)",
+    "connected_to": "Hosea 10:13",
+    "connected_from": "Hosea 10:11"
+  },
+  {
+    "text": "Ye have plowed wickedness, ye have reaped iniquity; ye have eaten the fruit of lies; for thou didst trust in thy way, in the multitude of thy mighty men.",
+    "reference": "Hosea 10:13 (ASV)",
+    "connected_to": "Hosea 10:14",
+    "connected_from": "Hosea 10:12"
+  },
+  {
+    "text": "Therefore shall a tumult arise among thy people, and all thy fortresses shall be destroyed, as Shalman destroyed Beth-arbel in the day of battle: the mother was dashed in pieces with her children.",
+    "reference": "Hosea 10:14 (ASV)",
+    "connected_to": "Hosea 10:15",
+    "connected_from": "Hosea 10:13"
+  },
+  {
+    "text": "So shall Beth-el do unto you because of your great wickedness: at daybreak shall the king of Israel be utterly cut off.",
+    "reference": "Hosea 10:15 (ASV)",
+    "connected_from": "Hosea 10:14"
+  }
+]

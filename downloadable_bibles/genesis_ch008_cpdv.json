@@ -1,0 +1,132 @@
+[
+  {
+    "text": "Then God remembered Noah, and all living things, and all the cattle, which were with him in the ark, and he brought a wind across the earth, and the waters were diminished.",
+    "reference": "Genesis 8:1 (CPDV)",
+    "connected_to": "Genesis 8:2"
+  },
+  {
+    "text": "And the fountains of the abyss and the floodgates of heaven were closed. And the rain from heaven was restrained.",
+    "reference": "Genesis 8:2 (CPDV)",
+    "connected_to": "Genesis 8:3",
+    "connected_from": "Genesis 8:1"
+  },
+  {
+    "text": "And the waters were restored to their coming and going from the earth. And they began to diminish after one hundred and fifty days.",
+    "reference": "Genesis 8:3 (CPDV)",
+    "connected_to": "Genesis 8:4",
+    "connected_from": "Genesis 8:2"
+  },
+  {
+    "text": "And the ark rested in the seventh month, on the twenty-seventh day of the month, upon the mountains of Armenia.",
+    "reference": "Genesis 8:4 (CPDV)",
+    "connected_to": "Genesis 8:5",
+    "connected_from": "Genesis 8:3"
+  },
+  {
+    "text": "Yet in truth, the waters were departing and decreasing until the tenth month. For in the tenth month, on the first day of the month, the tips of the mountains appeared.",
+    "reference": "Genesis 8:5 (CPDV)",
+    "connected_to": "Genesis 8:6",
+    "connected_from": "Genesis 8:4"
+  },
+  {
+    "text": "And when forty days had passed, Noah, opening the window that he had made in the ark, sent forth a raven,",
+    "reference": "Genesis 8:6 (CPDV)",
+    "connected_to": "Genesis 8:7",
+    "connected_from": "Genesis 8:5"
+  },
+  {
+    "text": "which went forth and did not return, until the waters were dried up across the earth.",
+    "reference": "Genesis 8:7 (CPDV)",
+    "connected_to": "Genesis 8:8",
+    "connected_from": "Genesis 8:6"
+  },
+  {
+    "text": "Likewise, he sent forth a dove after him, in order to see if the waters had now ceased upon the face of the earth.",
+    "reference": "Genesis 8:8 (CPDV)",
+    "connected_to": "Genesis 8:9",
+    "connected_from": "Genesis 8:7"
+  },
+  {
+    "text": "But when she did not find a place where her foot might rest, she returned to him in the ark. For the waters were upon the whole earth. And he extended his hand and caught her, and he brought her into the ark.",
+    "reference": "Genesis 8:9 (CPDV)",
+    "connected_to": "Genesis 8:10",
+    "connected_from": "Genesis 8:8"
+  },
+  {
+    "text": "And then, having waited a further seven days, he again sent forth the dove out of the ark.",
+    "reference": "Genesis 8:10 (CPDV)",
+    "connected_to": "Genesis 8:11",
+    "connected_from": "Genesis 8:9"
+  },
+  {
+    "text": "And she came to him in the evening, carrying in her mouth an olive branch with green leaves. Noah then understood that the waters had ceased upon the earth.",
+    "reference": "Genesis 8:11 (CPDV)",
+    "connected_to": "Genesis 8:12",
+    "connected_from": "Genesis 8:10"
+  },
+  {
+    "text": "And nevertheless, he waited another seven days. And he sent forth the dove, which no longer returned to him.",
+    "reference": "Genesis 8:12 (CPDV)",
+    "connected_to": "Genesis 8:13",
+    "connected_from": "Genesis 8:11"
+  },
+  {
+    "text": "Therefore, in the six hundred and first year, in the first month, on the first day of the month, the waters were diminished upon the earth. And Noah, opening the cover of the ark, gazed out and saw that the surface of the earth had become dry.",
+    "reference": "Genesis 8:13 (CPDV)",
+    "connected_to": "Genesis 8:14",
+    "connected_from": "Genesis 8:12"
+  },
+  {
+    "text": "In the second month, on the twenty-seventh day of the month, the earth was made dry.",
+    "reference": "Genesis 8:14 (CPDV)",
+    "connected_to": "Genesis 8:15",
+    "connected_from": "Genesis 8:13"
+  },
+  {
+    "text": "Then God spoke to Noah, saying:",
+    "reference": "Genesis 8:15 (CPDV)",
+    "connected_to": "Genesis 8:16",
+    "connected_from": "Genesis 8:14"
+  },
+  {
+    "text": "“Go out of the ark, you and your wife, your sons and the wives of your sons with you.",
+    "reference": "Genesis 8:16 (CPDV)",
+    "connected_to": "Genesis 8:17",
+    "connected_from": "Genesis 8:15"
+  },
+  {
+    "text": "Bring out with you all the living things that are with you, all that is flesh: as with the birds, so also with the wild beasts and all the animals that move upon the earth. And enter upon the land: increase and multiply upon it.”",
+    "reference": "Genesis 8:17 (CPDV)",
+    "connected_to": "Genesis 8:18",
+    "connected_from": "Genesis 8:16"
+  },
+  {
+    "text": "And so Noah and his sons went out, and his wife and the wives of his sons with him.",
+    "reference": "Genesis 8:18 (CPDV)",
+    "connected_to": "Genesis 8:19",
+    "connected_from": "Genesis 8:17"
+  },
+  {
+    "text": "Then also all living things, and the cattle, and the animals that move upon the earth, according to their kinds, departed from the ark.",
+    "reference": "Genesis 8:19 (CPDV)",
+    "connected_to": "Genesis 8:20",
+    "connected_from": "Genesis 8:18"
+  },
+  {
+    "text": "Then Noah built an altar to the Lord. And, taking from each of the cattle and birds that were clean, he offered holocausts upon the altar.",
+    "reference": "Genesis 8:20 (CPDV)",
+    "connected_to": "Genesis 8:21",
+    "connected_from": "Genesis 8:19"
+  },
+  {
+    "text": "And the Lord smelled the sweet odor and said: “I will no longer curse the earth because of man. For the feelings and thoughts of the heart of man are prone to evil from his youth. Therefore, I will no longer pierce every living soul as I have done.",
+    "reference": "Genesis 8:21 (CPDV)",
+    "connected_to": "Genesis 8:22",
+    "connected_from": "Genesis 8:20"
+  },
+  {
+    "text": "All the days of the earth, seedtime and harvest, cold and heat, summer and winter, night and day, will not cease.”",
+    "reference": "Genesis 8:22 (CPDV)",
+    "connected_from": "Genesis 8:21"
+  }
+]

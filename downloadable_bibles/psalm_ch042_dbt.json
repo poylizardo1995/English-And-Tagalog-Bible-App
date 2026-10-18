@@ -1,0 +1,66 @@
+[
+  {
+    "text": "{To the chief Musician. An instruction; of the sons of Korah.} As the hart panteth after the water-brooks, so panteth my soul after thee, O God.",
+    "reference": "Psalm 42:1 (DBT)",
+    "connected_to": "Psalm 42:2"
+  },
+  {
+    "text": "My soul thirsteth for God, for the living God: when shall I come and appear before God?",
+    "reference": "Psalm 42:2 (DBT)",
+    "connected_to": "Psalm 42:3",
+    "connected_from": "Psalm 42:1"
+  },
+  {
+    "text": "My tears have been my bread day and night, while they say unto me all the day, Where is thy God?",
+    "reference": "Psalm 42:3 (DBT)",
+    "connected_to": "Psalm 42:4",
+    "connected_from": "Psalm 42:2"
+  },
+  {
+    "text": "These things I remember and have poured out my soul within me: how I passed along with the multitude, how I went on with them to the house of God, with the voice of joy and praise, a festive multitude.",
+    "reference": "Psalm 42:4 (DBT)",
+    "connected_to": "Psalm 42:5",
+    "connected_from": "Psalm 42:3"
+  },
+  {
+    "text": "Why art thou cast down, my soul, and art disquieted in me? hope in God; for I shall yet praise him, [for] the health of his countenance.",
+    "reference": "Psalm 42:5 (DBT)",
+    "connected_to": "Psalm 42:6",
+    "connected_from": "Psalm 42:4"
+  },
+  {
+    "text": "My God, my soul is cast down within me; therefore do I remember thee from the land of the Jordan, and the Hermons, from mount Mizar.",
+    "reference": "Psalm 42:6 (DBT)",
+    "connected_to": "Psalm 42:7",
+    "connected_from": "Psalm 42:5"
+  },
+  {
+    "text": "Deep calleth unto deep at the noise of thy cataracts; all thy breakers and thy billows are gone over me.",
+    "reference": "Psalm 42:7 (DBT)",
+    "connected_to": "Psalm 42:8",
+    "connected_from": "Psalm 42:6"
+  },
+  {
+    "text": "In the day-time will Jehovah command his loving-kindness, and in the night his song shall be with me, a prayer unto the God of my life.",
+    "reference": "Psalm 42:8 (DBT)",
+    "connected_to": "Psalm 42:9",
+    "connected_from": "Psalm 42:7"
+  },
+  {
+    "text": "I will say unto God my rock, Why hast thou forgotten me? why go I mourning because of the oppression of the enemy?",
+    "reference": "Psalm 42:9 (DBT)",
+    "connected_to": "Psalm 42:10",
+    "connected_from": "Psalm 42:8"
+  },
+  {
+    "text": "As with a crushing in my bones mine adversaries reproach me, while they say unto me all the day, Where is thy God?",
+    "reference": "Psalm 42:10 (DBT)",
+    "connected_to": "Psalm 42:11",
+    "connected_from": "Psalm 42:9"
+  },
+  {
+    "text": "Why art thou cast down, my soul? and why art thou disquieted within me? hope in God; for I shall yet praise him, [who is] the health of my countenance, and my God.",
+    "reference": "Psalm 42:11 (DBT)",
+    "connected_from": "Psalm 42:10"
+  }
+]

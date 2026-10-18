@@ -1,0 +1,102 @@
+[
+  {
+    "text": "Deliver me from my enemies, O my God: defend me from them that rise up against me.",
+    "reference": "Psalm 59:1 (AKJV)",
+    "connected_to": "Psalm 59:2"
+  },
+  {
+    "text": "Deliver me from the workers of iniquity, and save me from bloody men.",
+    "reference": "Psalm 59:2 (AKJV)",
+    "connected_to": "Psalm 59:3",
+    "connected_from": "Psalm 59:1"
+  },
+  {
+    "text": "For, see, they lie in wait for my soul: the mighty are gathered against me; not for my transgression, nor for my sin, O LORD.",
+    "reference": "Psalm 59:3 (AKJV)",
+    "connected_to": "Psalm 59:4",
+    "connected_from": "Psalm 59:2"
+  },
+  {
+    "text": "They run and prepare themselves without my fault: awake to help me, and behold.",
+    "reference": "Psalm 59:4 (AKJV)",
+    "connected_to": "Psalm 59:5",
+    "connected_from": "Psalm 59:3"
+  },
+  {
+    "text": "You therefore, O LORD God of hosts, the God of Israel, awake to visit all the heathen: be not merciful to any wicked transgressors. Selah.",
+    "reference": "Psalm 59:5 (AKJV)",
+    "connected_to": "Psalm 59:6",
+    "connected_from": "Psalm 59:4"
+  },
+  {
+    "text": "They return at evening: they make a noise like a dog, and go round about the city.",
+    "reference": "Psalm 59:6 (AKJV)",
+    "connected_to": "Psalm 59:7",
+    "connected_from": "Psalm 59:5"
+  },
+  {
+    "text": "Behold, they belch out with their mouth: swords are in their lips: for who, say they, does hear?",
+    "reference": "Psalm 59:7 (AKJV)",
+    "connected_to": "Psalm 59:8",
+    "connected_from": "Psalm 59:6"
+  },
+  {
+    "text": "But you, O LORD, shall laugh at them; you shall have all the heathen in derision.",
+    "reference": "Psalm 59:8 (AKJV)",
+    "connected_to": "Psalm 59:9",
+    "connected_from": "Psalm 59:7"
+  },
+  {
+    "text": "Because of his strength will I wait on you: for God is my defense.",
+    "reference": "Psalm 59:9 (AKJV)",
+    "connected_to": "Psalm 59:10",
+    "connected_from": "Psalm 59:8"
+  },
+  {
+    "text": "The God of my mercy shall prevent me: God shall let me see my desire on my enemies.",
+    "reference": "Psalm 59:10 (AKJV)",
+    "connected_to": "Psalm 59:11",
+    "connected_from": "Psalm 59:9"
+  },
+  {
+    "text": "Slay them not, lest my people forget: scatter them by your power; and bring them down, O Lord our shield.",
+    "reference": "Psalm 59:11 (AKJV)",
+    "connected_to": "Psalm 59:12",
+    "connected_from": "Psalm 59:10"
+  },
+  {
+    "text": "For the sin of their mouth and the words of their lips let them even be taken in their pride: and for cursing and lying which they speak.",
+    "reference": "Psalm 59:12 (AKJV)",
+    "connected_to": "Psalm 59:13",
+    "connected_from": "Psalm 59:11"
+  },
+  {
+    "text": "Consume them in wrath, consume them, that they may not be: and let them know that God rules in Jacob to the ends of the earth. Selah.",
+    "reference": "Psalm 59:13 (AKJV)",
+    "connected_to": "Psalm 59:14",
+    "connected_from": "Psalm 59:12"
+  },
+  {
+    "text": "And at evening let them return; and let them make a noise like a dog, and go round about the city.",
+    "reference": "Psalm 59:14 (AKJV)",
+    "connected_to": "Psalm 59:15",
+    "connected_from": "Psalm 59:13"
+  },
+  {
+    "text": "Let them wander up and down for meat, and grudge if they be not satisfied.",
+    "reference": "Psalm 59:15 (AKJV)",
+    "connected_to": "Psalm 59:16",
+    "connected_from": "Psalm 59:14"
+  },
+  {
+    "text": "But I will sing of your power; yes, I will sing aloud of your mercy in the morning: for you have been my defense and refuge in the day of my trouble.",
+    "reference": "Psalm 59:16 (AKJV)",
+    "connected_to": "Psalm 59:17",
+    "connected_from": "Psalm 59:15"
+  },
+  {
+    "text": "To you, O my strength, will I sing: for God is my defense, and the God of my mercy.",
+    "reference": "Psalm 59:17 (AKJV)",
+    "connected_from": "Psalm 59:16"
+  }
+]

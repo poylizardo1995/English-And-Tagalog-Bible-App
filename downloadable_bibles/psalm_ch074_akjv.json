@@ -1,0 +1,138 @@
+[
+  {
+    "text": "O God, why have you cast us off for ever? why does your anger smoke against the sheep of your pasture?",
+    "reference": "Psalm 74:1 (AKJV)",
+    "connected_to": "Psalm 74:2"
+  },
+  {
+    "text": "Remember your congregation, which you have purchased of old; the rod of your inheritance, which you have redeemed; this mount Zion, wherein you have dwelled.",
+    "reference": "Psalm 74:2 (AKJV)",
+    "connected_to": "Psalm 74:3",
+    "connected_from": "Psalm 74:1"
+  },
+  {
+    "text": "Lift up your feet to the perpetual desolations; even all that the enemy has done wickedly in the sanctuary.",
+    "reference": "Psalm 74:3 (AKJV)",
+    "connected_to": "Psalm 74:4",
+    "connected_from": "Psalm 74:2"
+  },
+  {
+    "text": "Your enemies roar in the middle of your congregations; they set up their ensigns for signs.",
+    "reference": "Psalm 74:4 (AKJV)",
+    "connected_to": "Psalm 74:5",
+    "connected_from": "Psalm 74:3"
+  },
+  {
+    "text": "A man was famous according as he had lifted up axes on the thick trees.",
+    "reference": "Psalm 74:5 (AKJV)",
+    "connected_to": "Psalm 74:6",
+    "connected_from": "Psalm 74:4"
+  },
+  {
+    "text": "But now they break down the carved work thereof at once with axes and hammers.",
+    "reference": "Psalm 74:6 (AKJV)",
+    "connected_to": "Psalm 74:7",
+    "connected_from": "Psalm 74:5"
+  },
+  {
+    "text": "They have cast fire into your sanctuary, they have defiled by casting down the dwelling place of your name to the ground.",
+    "reference": "Psalm 74:7 (AKJV)",
+    "connected_to": "Psalm 74:8",
+    "connected_from": "Psalm 74:6"
+  },
+  {
+    "text": "They said in their hearts, Let us destroy them together: they have burned up all the synagogues of God in the land.",
+    "reference": "Psalm 74:8 (AKJV)",
+    "connected_to": "Psalm 74:9",
+    "connected_from": "Psalm 74:7"
+  },
+  {
+    "text": "We see not our signs: there is no more any prophet: neither is there among us any that knows how long.",
+    "reference": "Psalm 74:9 (AKJV)",
+    "connected_to": "Psalm 74:10",
+    "connected_from": "Psalm 74:8"
+  },
+  {
+    "text": "O God, how long shall the adversary reproach? shall the enemy blaspheme your name for ever?",
+    "reference": "Psalm 74:10 (AKJV)",
+    "connected_to": "Psalm 74:11",
+    "connected_from": "Psalm 74:9"
+  },
+  {
+    "text": "Why withdraw you your hand, even your right hand? pluck it out of your bosom.",
+    "reference": "Psalm 74:11 (AKJV)",
+    "connected_to": "Psalm 74:12",
+    "connected_from": "Psalm 74:10"
+  },
+  {
+    "text": "For God is my King of old, working salvation in the middle of the earth.",
+    "reference": "Psalm 74:12 (AKJV)",
+    "connected_to": "Psalm 74:13",
+    "connected_from": "Psalm 74:11"
+  },
+  {
+    "text": "You did divide the sea by your strength: you brake the heads of the dragons in the waters.",
+    "reference": "Psalm 74:13 (AKJV)",
+    "connected_to": "Psalm 74:14",
+    "connected_from": "Psalm 74:12"
+  },
+  {
+    "text": "You brake the heads of leviathan in pieces, and gave him to be meat to the people inhabiting the wilderness.",
+    "reference": "Psalm 74:14 (AKJV)",
+    "connected_to": "Psalm 74:15",
+    "connected_from": "Psalm 74:13"
+  },
+  {
+    "text": "You did split the fountain and the flood: you dried up mighty rivers.",
+    "reference": "Psalm 74:15 (AKJV)",
+    "connected_to": "Psalm 74:16",
+    "connected_from": "Psalm 74:14"
+  },
+  {
+    "text": "The day is yours, the night also is yours: you have prepared the light and the sun.",
+    "reference": "Psalm 74:16 (AKJV)",
+    "connected_to": "Psalm 74:17",
+    "connected_from": "Psalm 74:15"
+  },
+  {
+    "text": "You have set all the borders of the earth: you have made summer and winter.",
+    "reference": "Psalm 74:17 (AKJV)",
+    "connected_to": "Psalm 74:18",
+    "connected_from": "Psalm 74:16"
+  },
+  {
+    "text": "Remember this, that the enemy has reproached, O LORD, and that the foolish people have blasphemed your name.",
+    "reference": "Psalm 74:18 (AKJV)",
+    "connected_to": "Psalm 74:19",
+    "connected_from": "Psalm 74:17"
+  },
+  {
+    "text": "O deliver not the soul of your turtledove to the multitude of the wicked: forget not the congregation of your poor for ever.",
+    "reference": "Psalm 74:19 (AKJV)",
+    "connected_to": "Psalm 74:20",
+    "connected_from": "Psalm 74:18"
+  },
+  {
+    "text": "Have respect to the covenant: for the dark places of the earth are full of the habitations of cruelty.",
+    "reference": "Psalm 74:20 (AKJV)",
+    "connected_to": "Psalm 74:21",
+    "connected_from": "Psalm 74:19"
+  },
+  {
+    "text": "O let not the oppressed return ashamed: let the poor and needy praise your name.",
+    "reference": "Psalm 74:21 (AKJV)",
+    "connected_to": "Psalm 74:22",
+    "connected_from": "Psalm 74:20"
+  },
+  {
+    "text": "Arise, O God, plead your own cause: remember how the foolish man reproaches you daily.",
+    "reference": "Psalm 74:22 (AKJV)",
+    "connected_to": "Psalm 74:23",
+    "connected_from": "Psalm 74:21"
+  },
+  {
+    "text": "Forget not the voice of your enemies: the tumult of those that rise up against you increases continually.",
+    "reference": "Psalm 74:23 (AKJV)",
+    "connected_from": "Psalm 74:22"
+  }
+]

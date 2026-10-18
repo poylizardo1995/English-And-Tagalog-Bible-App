@@ -1,0 +1,126 @@
+[
+  {
+    "text": "And Ahab told Jezebel all that Elijah had done, and in detail how he had slain all the prophets with the sword.",
+    "reference": "1 Kings 19:1 (DBT)",
+    "connected_to": "1 Kings 19:2"
+  },
+  {
+    "text": "And Jezebel sent a messenger to Elijah saying, So do the gods [to me], and more also, if I make not thy life as the life of one of them by to-morrow about this time!",
+    "reference": "1 Kings 19:2 (DBT)",
+    "connected_to": "1 Kings 19:3",
+    "connected_from": "1 Kings 19:1"
+  },
+  {
+    "text": "And when he saw [that], he arose, and went for his life, and came to Beer-sheba, which belongs to Judah, and left his servant there.",
+    "reference": "1 Kings 19:3 (DBT)",
+    "connected_to": "1 Kings 19:4",
+    "connected_from": "1 Kings 19:2"
+  },
+  {
+    "text": "And he himself went a day’s journey into the wilderness, and came and sat down under a certain broom-bush, and requested for himself that he might die; and said, It is enough: now, Jehovah, take my life; for I am not better than my fathers.",
+    "reference": "1 Kings 19:4 (DBT)",
+    "connected_to": "1 Kings 19:5",
+    "connected_from": "1 Kings 19:3"
+  },
+  {
+    "text": "And he lay down and slept under the broom-bush. And behold, an angel touched him, and said to him, Arise, eat!",
+    "reference": "1 Kings 19:5 (DBT)",
+    "connected_to": "1 Kings 19:6",
+    "connected_from": "1 Kings 19:4"
+  },
+  {
+    "text": "And he looked, and behold, at his head was a cake, baked on hot stones, and a cruse of water. And he ate and drank, and lay down again.",
+    "reference": "1 Kings 19:6 (DBT)",
+    "connected_to": "1 Kings 19:7",
+    "connected_from": "1 Kings 19:5"
+  },
+  {
+    "text": "And the angel of Jehovah came again the second time, and touched him, and said, Arise, eat; for the journey is too great for thee.",
+    "reference": "1 Kings 19:7 (DBT)",
+    "connected_to": "1 Kings 19:8",
+    "connected_from": "1 Kings 19:6"
+  },
+  {
+    "text": "And he arose, and ate and drank, and went in the strength of that food forty days and forty nights to Horeb the mount of God.",
+    "reference": "1 Kings 19:8 (DBT)",
+    "connected_to": "1 Kings 19:9",
+    "connected_from": "1 Kings 19:7"
+  },
+  {
+    "text": "And there he went into a cave, and lodged there. And behold, the word of Jehovah [came] to him, and he said to him, What doest thou here, Elijah?",
+    "reference": "1 Kings 19:9 (DBT)",
+    "connected_to": "1 Kings 19:10",
+    "connected_from": "1 Kings 19:8"
+  },
+  {
+    "text": "And he said, I have been very jealous for Jehovah the God of hosts; for the children of Israel have forsaken thy covenant, thrown down thine altars, and slain thy prophets with the sword; and I am left, I alone, and they seek my life, to take it away.",
+    "reference": "1 Kings 19:10 (DBT)",
+    "connected_to": "1 Kings 19:11",
+    "connected_from": "1 Kings 19:9"
+  },
+  {
+    "text": "And he said, Go forth, and stand upon the mount before Jehovah. And behold, Jehovah passed by, and a great and strong wind rent the mountains, and broke in pieces the rocks before Jehovah: Jehovah was not in the wind. And after the wind, an earthquake: Jehovah was not in the earthquake.",
+    "reference": "1 Kings 19:11 (DBT)",
+    "connected_to": "1 Kings 19:12",
+    "connected_from": "1 Kings 19:10"
+  },
+  {
+    "text": "And after the earthquake, a fire: Jehovah was not in the fire. And after the fire, a soft gentle voice.",
+    "reference": "1 Kings 19:12 (DBT)",
+    "connected_to": "1 Kings 19:13",
+    "connected_from": "1 Kings 19:11"
+  },
+  {
+    "text": "And it came to pass, when Elijah heard it, that he wrapped his face in his mantle, and went out, and stood in the entrance of the cave. And behold, a voice [came] to him and said, What doest thou here, Elijah?",
+    "reference": "1 Kings 19:13 (DBT)",
+    "connected_to": "1 Kings 19:14",
+    "connected_from": "1 Kings 19:12"
+  },
+  {
+    "text": "And he said, I have been very jealous for Jehovah the God of hosts; for the children of Israel have forsaken thy covenant, thrown down thine altars, and slain thy prophets with the sword; and I am left, I alone, and they seek my life, to take it away.",
+    "reference": "1 Kings 19:14 (DBT)",
+    "connected_to": "1 Kings 19:15",
+    "connected_from": "1 Kings 19:13"
+  },
+  {
+    "text": "And Jehovah said to him, Go, return on thy way to the wilderness of Damascus; and when thou comest, anoint Hazael king over Syria;",
+    "reference": "1 Kings 19:15 (DBT)",
+    "connected_to": "1 Kings 19:16",
+    "connected_from": "1 Kings 19:14"
+  },
+  {
+    "text": "and Jehu the son of Nimshi shalt thou anoint king over Israel; and Elisha the son of Shaphat of Abel-meholah shalt thou anoint prophet in thy stead.",
+    "reference": "1 Kings 19:16 (DBT)",
+    "connected_to": "1 Kings 19:17",
+    "connected_from": "1 Kings 19:15"
+  },
+  {
+    "text": "And it shall come to pass, [that] him that escapeth the sword of Hazael shall Jehu slay; and him that escapeth the sword of Jehu shall Elisha slay.",
+    "reference": "1 Kings 19:17 (DBT)",
+    "connected_to": "1 Kings 19:18",
+    "connected_from": "1 Kings 19:16"
+  },
+  {
+    "text": "Yet I have left [myself] seven thousand in Israel, all the knees that have not bowed unto Baal, and every mouth that hath not kissed him.",
+    "reference": "1 Kings 19:18 (DBT)",
+    "connected_to": "1 Kings 19:19",
+    "connected_from": "1 Kings 19:17"
+  },
+  {
+    "text": "And he departed thence, and found Elisha the son of Shaphat, who was ploughing [with] twelve yokes before him, and he with the twelfth; and Elijah went over to him, and cast his mantle on him.",
+    "reference": "1 Kings 19:19 (DBT)",
+    "connected_to": "1 Kings 19:20",
+    "connected_from": "1 Kings 19:18"
+  },
+  {
+    "text": "And he left the oxen, and ran after Elijah, and said, Let me, I pray thee, kiss my father and my mother, and I will follow thee. And he said to him, Go back again; for what have I done to thee?",
+    "reference": "1 Kings 19:20 (DBT)",
+    "connected_to": "1 Kings 19:21",
+    "connected_from": "1 Kings 19:19"
+  },
+  {
+    "text": "And he returned back from him, and took the yoke of oxen, and killed them, and boiled their flesh with the implements of the oxen, and gave to the people, and they ate. And he arose and went after Elijah, and ministered to him.",
+    "reference": "1 Kings 19:21 (DBT)",
+    "connected_from": "1 Kings 19:20"
+  }
+]

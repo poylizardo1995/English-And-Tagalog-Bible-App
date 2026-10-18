@@ -1,0 +1,168 @@
+[
+  {
+    "text": "As snow in summer, and as rain in harvest, So honor is not seemly for a fool.",
+    "reference": "Proverbs 26:1 (ASV)",
+    "connected_to": "Proverbs 26:2"
+  },
+  {
+    "text": "As the sparrow in her wandering, as the swallow in her flying, So the curse that is causeless alighteth not.",
+    "reference": "Proverbs 26:2 (ASV)",
+    "connected_to": "Proverbs 26:3",
+    "connected_from": "Proverbs 26:1"
+  },
+  {
+    "text": "A whip for the horse, a bridle for the ass, And a rod for the back of fools.",
+    "reference": "Proverbs 26:3 (ASV)",
+    "connected_to": "Proverbs 26:4",
+    "connected_from": "Proverbs 26:2"
+  },
+  {
+    "text": "Answer not a fool according to his folly, Lest thou also be like unto him.",
+    "reference": "Proverbs 26:4 (ASV)",
+    "connected_to": "Proverbs 26:5",
+    "connected_from": "Proverbs 26:3"
+  },
+  {
+    "text": "Answer a fool according to his folly, Lest he be wise in his own conceit.",
+    "reference": "Proverbs 26:5 (ASV)",
+    "connected_to": "Proverbs 26:6",
+    "connected_from": "Proverbs 26:4"
+  },
+  {
+    "text": "He that sendeth a message by the hand of a fool Cutteth off his own feet, and drinketh in damage.",
+    "reference": "Proverbs 26:6 (ASV)",
+    "connected_to": "Proverbs 26:7",
+    "connected_from": "Proverbs 26:5"
+  },
+  {
+    "text": "The legs of the lame hang loose; So is a parable in the mouth of fools.",
+    "reference": "Proverbs 26:7 (ASV)",
+    "connected_to": "Proverbs 26:8",
+    "connected_from": "Proverbs 26:6"
+  },
+  {
+    "text": "As one that bindeth a stone in a sling, So is he that giveth honor to a fool.",
+    "reference": "Proverbs 26:8 (ASV)",
+    "connected_to": "Proverbs 26:9",
+    "connected_from": "Proverbs 26:7"
+  },
+  {
+    "text": "As a thorn that goeth up into the hand of a drunkard, So is a parable in the mouth of fools.",
+    "reference": "Proverbs 26:9 (ASV)",
+    "connected_to": "Proverbs 26:10",
+    "connected_from": "Proverbs 26:8"
+  },
+  {
+    "text": "As an archer that woundeth all, So is he that hireth a fool and he that hireth them that pass by.",
+    "reference": "Proverbs 26:10 (ASV)",
+    "connected_to": "Proverbs 26:11",
+    "connected_from": "Proverbs 26:9"
+  },
+  {
+    "text": "As a dog that returneth to his vomit, So is a fool that repeateth his folly.",
+    "reference": "Proverbs 26:11 (ASV)",
+    "connected_to": "Proverbs 26:12",
+    "connected_from": "Proverbs 26:10"
+  },
+  {
+    "text": "Seest thou a man wise in his own conceit? There is more hope of a fool than of him.",
+    "reference": "Proverbs 26:12 (ASV)",
+    "connected_to": "Proverbs 26:13",
+    "connected_from": "Proverbs 26:11"
+  },
+  {
+    "text": "The sluggard saith, There is a lion in the way; A lion is in the streets.",
+    "reference": "Proverbs 26:13 (ASV)",
+    "connected_to": "Proverbs 26:14",
+    "connected_from": "Proverbs 26:12"
+  },
+  {
+    "text": "As the door turneth upon its hinges, So doth the sluggard upon his bed.",
+    "reference": "Proverbs 26:14 (ASV)",
+    "connected_to": "Proverbs 26:15",
+    "connected_from": "Proverbs 26:13"
+  },
+  {
+    "text": "The sluggard burieth his hand in the dish; It wearieth him to bring it again to his mouth.",
+    "reference": "Proverbs 26:15 (ASV)",
+    "connected_to": "Proverbs 26:16",
+    "connected_from": "Proverbs 26:14"
+  },
+  {
+    "text": "The sluggard is wiser in his own conceit Than seven men that can render a reason.",
+    "reference": "Proverbs 26:16 (ASV)",
+    "connected_to": "Proverbs 26:17",
+    "connected_from": "Proverbs 26:15"
+  },
+  {
+    "text": "He that passeth by, and vexeth himself with strife belonging not to him, Is like one that taketh a dog by the ears.",
+    "reference": "Proverbs 26:17 (ASV)",
+    "connected_to": "Proverbs 26:18",
+    "connected_from": "Proverbs 26:16"
+  },
+  {
+    "text": "As a madman who casteth firebrands, Arrows, and death,",
+    "reference": "Proverbs 26:18 (ASV)",
+    "connected_to": "Proverbs 26:19",
+    "connected_from": "Proverbs 26:17"
+  },
+  {
+    "text": "So is the man that deceiveth his neighbor, And saith, Am not I in sport?",
+    "reference": "Proverbs 26:19 (ASV)",
+    "connected_to": "Proverbs 26:20",
+    "connected_from": "Proverbs 26:18"
+  },
+  {
+    "text": "For lack of wood the fire goeth out; And where there is no whisperer, contention ceaseth.",
+    "reference": "Proverbs 26:20 (ASV)",
+    "connected_to": "Proverbs 26:21",
+    "connected_from": "Proverbs 26:19"
+  },
+  {
+    "text": "As coals are to hot embers, and wood to fire, So is a contentious man to inflame strife.",
+    "reference": "Proverbs 26:21 (ASV)",
+    "connected_to": "Proverbs 26:22",
+    "connected_from": "Proverbs 26:20"
+  },
+  {
+    "text": "The words of a whisperer are as dainty morsels, And they go down into the innermost parts.",
+    "reference": "Proverbs 26:22 (ASV)",
+    "connected_to": "Proverbs 26:23",
+    "connected_from": "Proverbs 26:21"
+  },
+  {
+    "text": "Fervent lips and a wicked heart Are like an earthen vessel overlaid with silver dross.",
+    "reference": "Proverbs 26:23 (ASV)",
+    "connected_to": "Proverbs 26:24",
+    "connected_from": "Proverbs 26:22"
+  },
+  {
+    "text": "He that hateth dissembleth with his lips; But he layeth up deceit within him:",
+    "reference": "Proverbs 26:24 (ASV)",
+    "connected_to": "Proverbs 26:25",
+    "connected_from": "Proverbs 26:23"
+  },
+  {
+    "text": "When he speaketh fair, believe him not; For there are seven abominations in his heart:",
+    "reference": "Proverbs 26:25 (ASV)",
+    "connected_to": "Proverbs 26:26",
+    "connected_from": "Proverbs 26:24"
+  },
+  {
+    "text": "Though his hatred cover itself with guile, His wickedness shall be openly showed before the assembly.",
+    "reference": "Proverbs 26:26 (ASV)",
+    "connected_to": "Proverbs 26:27",
+    "connected_from": "Proverbs 26:25"
+  },
+  {
+    "text": "Whoso diggeth a pit shall fall therein; And he that rolleth a stone, it shall return upon him.",
+    "reference": "Proverbs 26:27 (ASV)",
+    "connected_to": "Proverbs 26:28",
+    "connected_from": "Proverbs 26:26"
+  },
+  {
+    "text": "A lying tongue hateth those whom it hath wounded; And a flattering mouth worketh ruin.",
+    "reference": "Proverbs 26:28 (ASV)",
+    "connected_from": "Proverbs 26:27"
+  }
+]

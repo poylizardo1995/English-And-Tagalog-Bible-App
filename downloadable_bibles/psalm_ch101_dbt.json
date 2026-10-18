@@ -1,0 +1,48 @@
+[
+  {
+    "text": "{A Psalm of David.} I will sing of loving-kindness and judgment: unto thee, Jehovah, will I sing psalms.",
+    "reference": "Psalm 101:1 (DBT)",
+    "connected_to": "Psalm 101:2"
+  },
+  {
+    "text": "I will behave myself wisely in a perfect way. When wilt thou come unto me? I will walk within my house in the integrity of my heart.",
+    "reference": "Psalm 101:2 (DBT)",
+    "connected_to": "Psalm 101:3",
+    "connected_from": "Psalm 101:1"
+  },
+  {
+    "text": "I will set no thing of Belial before mine eyes: I hate the work of them that turn aside; it shall not cleave to me.",
+    "reference": "Psalm 101:3 (DBT)",
+    "connected_to": "Psalm 101:4",
+    "connected_from": "Psalm 101:2"
+  },
+  {
+    "text": "A perverse heart shall depart from me; I will not know evil.",
+    "reference": "Psalm 101:4 (DBT)",
+    "connected_to": "Psalm 101:5",
+    "connected_from": "Psalm 101:3"
+  },
+  {
+    "text": "Whoso secretly slandereth his neighbour, him will I destroy; him that hath a high look and a proud heart will I not suffer.",
+    "reference": "Psalm 101:5 (DBT)",
+    "connected_to": "Psalm 101:6",
+    "connected_from": "Psalm 101:4"
+  },
+  {
+    "text": "Mine eyes shall be upon the faithful of the land, that they may dwell with me; he that walketh in a perfect way, he shall serve me.",
+    "reference": "Psalm 101:6 (DBT)",
+    "connected_to": "Psalm 101:7",
+    "connected_from": "Psalm 101:5"
+  },
+  {
+    "text": "He that practiseth deceit shall not dwell within my house; he that speaketh falsehoods shall not subsist in my sight.",
+    "reference": "Psalm 101:7 (DBT)",
+    "connected_to": "Psalm 101:8",
+    "connected_from": "Psalm 101:6"
+  },
+  {
+    "text": "Every morning will I destroy all the wicked of the land: to cut off all workers of iniquity from the city of Jehovah.",
+    "reference": "Psalm 101:8 (DBT)",
+    "connected_from": "Psalm 101:7"
+  }
+]

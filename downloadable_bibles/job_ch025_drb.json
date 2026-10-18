@@ -1,0 +1,36 @@
+[
+  {
+    "text": "Then Baldad the Suhite answered, and I said:",
+    "reference": "Job 25:1 (DRB)",
+    "connected_to": "Job 25:2"
+  },
+  {
+    "text": "Power and terror are with him, who maketh peace in his high places.",
+    "reference": "Job 25:2 (DRB)",
+    "connected_to": "Job 25:3",
+    "connected_from": "Job 25:1"
+  },
+  {
+    "text": "Is there any numbering of his soldiers? and upon whom shall not his light arise?",
+    "reference": "Job 25:3 (DRB)",
+    "connected_to": "Job 25:4",
+    "connected_from": "Job 25:2"
+  },
+  {
+    "text": "Can man be justified compared with God, or he that is born of a woman appear clean?",
+    "reference": "Job 25:4 (DRB)",
+    "connected_to": "Job 25:5",
+    "connected_from": "Job 25:3"
+  },
+  {
+    "text": "Behold even the moon doth not shine, and the stars are not pure in his sight.",
+    "reference": "Job 25:5 (DRB)",
+    "connected_to": "Job 25:6",
+    "connected_from": "Job 25:4"
+  },
+  {
+    "text": "How much less man that is rottenness and the son of man who is a worm?",
+    "reference": "Job 25:6 (DRB)",
+    "connected_from": "Job 25:5"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "text": "For the one directing. On a stringed instrument. Of David. <span class=|reftext|><a href=|#|><b>1</b></a> Hear, O God, my cry; attend to my prayer.",
+    "reference": "Psalm 61:1 (BLB)",
+    "connected_to": "Psalm 61:2"
+  },
+  {
+    "text": "From the end of the earth I call out to You in the feebleness of my heart; may You lead me to the rock that is higher than I.",
+    "reference": "Psalm 61:2 (BLB)",
+    "connected_to": "Psalm 61:3",
+    "connected_from": "Psalm 61:1"
+  },
+  {
+    "text": "For You have been a place of refuge for me, a tower of strength against the face of the enemy.",
+    "reference": "Psalm 61:3 (BLB)",
+    "connected_to": "Psalm 61:4",
+    "connected_from": "Psalm 61:2"
+  },
+  {
+    "text": "Let me sojourn in Your Tent forever; I will take refuge in the shelter of Your wings. Selah",
+    "reference": "Psalm 61:4 (BLB)",
+    "connected_to": "Psalm 61:5",
+    "connected_from": "Psalm 61:3"
+  },
+  {
+    "text": "for You, O God, have listend to my vows; You have appointed the inheritance of those fearing Your name.",
+    "reference": "Psalm 61:5 (BLB)",
+    "connected_to": "Psalm 61:6",
+    "connected_from": "Psalm 61:4"
+  },
+  {
+    "text": "May You add days to the days of the king; [may] his years [be] as generation and generation.",
+    "reference": "Psalm 61:6 (BLB)",
+    "connected_to": "Psalm 61:7",
+    "connected_from": "Psalm 61:5"
+  },
+  {
+    "text": "May he dwell forever before God; may You appoint loving devotion and faithfulness to guard him.",
+    "reference": "Psalm 61:7 (BLB)",
+    "connected_to": "Psalm 61:8",
+    "connected_from": "Psalm 61:6"
+  },
+  {
+    "text": "So I will sing praise to your name forever, that I may perform my vows, day [by] day.",
+    "reference": "Psalm 61:8 (BLB)",
+    "connected_from": "Psalm 61:7"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "text": "For the choirmaster. To the tune of “The Lily of the Covenant.” A Miktam of David (beloved) for instruction. When he fought Aram-naharaim (Mesopotamia) and Aram-zobah (the land northeast of Damascus), and Joab (YHWH is father) returned and struck down 12,000 Edomites (red) in the Valley of Salt. <span class=|reftext|><a href=|#|><b>1</b></a> You have rejected us, O God {Elohim}; You have broken us; You have been angry; restore us!",
+    "reference": "Psalm 60:1 (BAB)",
+    "connected_to": "Psalm 60:2"
+  },
+  {
+    "text": "You have shaken the land and torn it open. Heal its fractures, for it is quaking.",
+    "reference": "Psalm 60:2 (BAB)",
+    "connected_to": "Psalm 60:3",
+    "connected_from": "Psalm 60:1"
+  },
+  {
+    "text": "You have shown Your people hardship; we are staggered from the wine You made us drink.",
+    "reference": "Psalm 60:3 (BAB)",
+    "connected_to": "Psalm 60:4",
+    "connected_from": "Psalm 60:2"
+  },
+  {
+    "text": "You have raised a banner for those who fear You, that they may flee the bow (that it may be displayed because of truth). Selah",
+    "reference": "Psalm 60:4 (BAB)",
+    "connected_to": "Psalm 60:5",
+    "connected_from": "Psalm 60:3"
+  },
+  {
+    "text": "Respond and save us with Your right hand, that Your beloved may be delivered.",
+    "reference": "Psalm 60:5 (BAB)",
+    "connected_to": "Psalm 60:6",
+    "connected_from": "Psalm 60:4"
+  },
+  {
+    "text": "God {Elohim} has spoken from His sanctuary (in His holiness): “I will triumph! I will parcel out Shechem (shoulder) and apportion the Valley of Succoth (booths).",
+    "reference": "Psalm 60:6 (BAB)",
+    "connected_to": "Psalm 60:7",
+    "connected_from": "Psalm 60:5"
+  },
+  {
+    "text": "Gilead (rocky region) is Mine, and Manasseh (causing to forget) is Mine; Ephraim (doubly fruitful) is My helmet, Judah is (praised) My scepter.",
+    "reference": "Psalm 60:7 (BAB)",
+    "connected_to": "Psalm 60:8",
+    "connected_from": "Psalm 60:6"
+  },
+  {
+    "text": "Moab (of his father) is My washbasin; upon Edom (red) I toss My sandal; over Philistia (land of sojourners) I shout in triumph.",
+    "reference": "Psalm 60:8 (BAB)",
+    "connected_to": "Psalm 60:9",
+    "connected_from": "Psalm 60:7"
+  },
+  {
+    "text": "Who will bring me to the fortified city? Who will lead me to Edom (red)?",
+    "reference": "Psalm 60:9 (BAB)",
+    "connected_to": "Psalm 60:10",
+    "connected_from": "Psalm 60:8"
+  },
+  {
+    "text": "Have You not rejected us, O God {Elohim}? Will You no longer march out, O God, with our armies?",
+    "reference": "Psalm 60:10 (BAB)",
+    "connected_to": "Psalm 60:11",
+    "connected_from": "Psalm 60:9"
+  },
+  {
+    "text": "Give us aid against the enemy, for the help of man is worthless.",
+    "reference": "Psalm 60:11 (BAB)",
+    "connected_to": "Psalm 60:12",
+    "connected_from": "Psalm 60:10"
+  },
+  {
+    "text": "With God {Elohim} we will perform with valor, and He will trample our enemies.",
+    "reference": "Psalm 60:12 (BAB)",
+    "connected_from": "Psalm 60:11"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "text": "For the Chief Musician. Maschil of David: when Doeg the Edomite came and told Saul, and said unto him, David is come to the house of Ahimelech. Why boastest thou thyself in mischief, O mighty man? the mercy of God endureth continually.",
+    "reference": "Psalm 52:1 (ERV)",
+    "connected_to": "Psalm 52:2"
+  },
+  {
+    "text": "Thy tongue deviseth very wickedness; like a sharp razor, working deceitfully.",
+    "reference": "Psalm 52:2 (ERV)",
+    "connected_to": "Psalm 52:3",
+    "connected_from": "Psalm 52:1"
+  },
+  {
+    "text": "Thou lovest evil more than good; and lying rather than to speak righteousness. Selah",
+    "reference": "Psalm 52:3 (ERV)",
+    "connected_to": "Psalm 52:4",
+    "connected_from": "Psalm 52:2"
+  },
+  {
+    "text": "Thou lovest all devouring words, O thou deceitful tongue.",
+    "reference": "Psalm 52:4 (ERV)",
+    "connected_to": "Psalm 52:5",
+    "connected_from": "Psalm 52:3"
+  },
+  {
+    "text": "God shall likewise destroy thee for ever, he shall take thee up, and pluck thee out of thy tent, and root thee out of the land of the living. Selah",
+    "reference": "Psalm 52:5 (ERV)",
+    "connected_to": "Psalm 52:6",
+    "connected_from": "Psalm 52:4"
+  },
+  {
+    "text": "The righteous also shall see it, and fear, and shall laugh at him, saying,",
+    "reference": "Psalm 52:6 (ERV)",
+    "connected_to": "Psalm 52:7",
+    "connected_from": "Psalm 52:5"
+  },
+  {
+    "text": "Lo, this is the man that made not God his strength; but trusted in the abundance of his riches, and strengthened himself in his wickedness.",
+    "reference": "Psalm 52:7 (ERV)",
+    "connected_to": "Psalm 52:8",
+    "connected_from": "Psalm 52:6"
+  },
+  {
+    "text": "But as for me, I am like a green olive tree in the house of God: I trust in the mercy of God for ever and ever.",
+    "reference": "Psalm 52:8 (ERV)",
+    "connected_to": "Psalm 52:9",
+    "connected_from": "Psalm 52:7"
+  },
+  {
+    "text": "I will give thee thanks for ever, because thou hast done it: and I will wait on thy name, for it is good, in the presence of thy saints.",
+    "reference": "Psalm 52:9 (ERV)",
+    "connected_from": "Psalm 52:8"
+  }
+]

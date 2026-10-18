@@ -1,0 +1,186 @@
+[
+  {
+    "text": "For the Chief Musician; set to Aijeleth hash-Shahar. A Psalm of David. My God, my God, why hast thou forsaken me? why art thou so far from helping me, and from the words of my roaring?",
+    "reference": "Psalm 22:1 (ERV)",
+    "connected_to": "Psalm 22:2"
+  },
+  {
+    "text": "O my God, I cry in the day-time, but thou answerest not; and in the night season, and am not silent.",
+    "reference": "Psalm 22:2 (ERV)",
+    "connected_to": "Psalm 22:3",
+    "connected_from": "Psalm 22:1"
+  },
+  {
+    "text": "But thou art holy, O thou that inhabitest the praises of Israel.",
+    "reference": "Psalm 22:3 (ERV)",
+    "connected_to": "Psalm 22:4",
+    "connected_from": "Psalm 22:2"
+  },
+  {
+    "text": "Our fathers trusted in thee: they trusted, and thou didst deliver them.",
+    "reference": "Psalm 22:4 (ERV)",
+    "connected_to": "Psalm 22:5",
+    "connected_from": "Psalm 22:3"
+  },
+  {
+    "text": "They cried unto thee, and were delivered: they trusted in thee, and were not ashamed.",
+    "reference": "Psalm 22:5 (ERV)",
+    "connected_to": "Psalm 22:6",
+    "connected_from": "Psalm 22:4"
+  },
+  {
+    "text": "But I am a worm, and no man; a reproach of men, and despised of the people.",
+    "reference": "Psalm 22:6 (ERV)",
+    "connected_to": "Psalm 22:7",
+    "connected_from": "Psalm 22:5"
+  },
+  {
+    "text": "All they that see me laugh me to scorn: they shoot out the lip, they shake the head, saying,",
+    "reference": "Psalm 22:7 (ERV)",
+    "connected_to": "Psalm 22:8",
+    "connected_from": "Psalm 22:6"
+  },
+  {
+    "text": "Commit thyself unto the LORD; let him deliver him: let him deliver him, seeing he delighteth in him.",
+    "reference": "Psalm 22:8 (ERV)",
+    "connected_to": "Psalm 22:9",
+    "connected_from": "Psalm 22:7"
+  },
+  {
+    "text": "But thou art he that took me out the womb: thou didst make me trust when I was upon my mother’s breasts.",
+    "reference": "Psalm 22:9 (ERV)",
+    "connected_to": "Psalm 22:10",
+    "connected_from": "Psalm 22:8"
+  },
+  {
+    "text": "I was cast upon thee from the womb: thou art my God from my mother’s belly.",
+    "reference": "Psalm 22:10 (ERV)",
+    "connected_to": "Psalm 22:11",
+    "connected_from": "Psalm 22:9"
+  },
+  {
+    "text": "Be not far from me; for trouble is near; for there is none to help.",
+    "reference": "Psalm 22:11 (ERV)",
+    "connected_to": "Psalm 22:12",
+    "connected_from": "Psalm 22:10"
+  },
+  {
+    "text": "Many bulls have compassed me: strong bulls of Bashan have beset me round.",
+    "reference": "Psalm 22:12 (ERV)",
+    "connected_to": "Psalm 22:13",
+    "connected_from": "Psalm 22:11"
+  },
+  {
+    "text": "They gape upon me with their mouth, as a ravening and a roaring lion.",
+    "reference": "Psalm 22:13 (ERV)",
+    "connected_to": "Psalm 22:14",
+    "connected_from": "Psalm 22:12"
+  },
+  {
+    "text": "I am poured out like water, and all my bones are out of joint: my heart is like wax; it is melted in the midst of my bowels.",
+    "reference": "Psalm 22:14 (ERV)",
+    "connected_to": "Psalm 22:15",
+    "connected_from": "Psalm 22:13"
+  },
+  {
+    "text": "My Strength is dried up like a potsherd; and my tongue cleaveth to my jaws; and thou hast brought me into the dust of death.",
+    "reference": "Psalm 22:15 (ERV)",
+    "connected_to": "Psalm 22:16",
+    "connected_from": "Psalm 22:14"
+  },
+  {
+    "text": "For dogs have compassed me: the assembly of evil-doers have enclosed me; they pierced my hands and my feet.",
+    "reference": "Psalm 22:16 (ERV)",
+    "connected_to": "Psalm 22:17",
+    "connected_from": "Psalm 22:15"
+  },
+  {
+    "text": "I may tell all my bones; they look and stare upon me:",
+    "reference": "Psalm 22:17 (ERV)",
+    "connected_to": "Psalm 22:18",
+    "connected_from": "Psalm 22:16"
+  },
+  {
+    "text": "They part my garments among them, and upon my vesture do they cast lots.",
+    "reference": "Psalm 22:18 (ERV)",
+    "connected_to": "Psalm 22:19",
+    "connected_from": "Psalm 22:17"
+  },
+  {
+    "text": "But be not thou far off, O LORD: O thou my succour, haste thee to help me.",
+    "reference": "Psalm 22:19 (ERV)",
+    "connected_to": "Psalm 22:20",
+    "connected_from": "Psalm 22:18"
+  },
+  {
+    "text": "Deliver my soul from the sword; my darling from the power of the dog;",
+    "reference": "Psalm 22:20 (ERV)",
+    "connected_to": "Psalm 22:21",
+    "connected_from": "Psalm 22:19"
+  },
+  {
+    "text": "Save me from the lion’s mouth; yea, from the horns of the wild-oxen thou hast answered me.",
+    "reference": "Psalm 22:21 (ERV)",
+    "connected_to": "Psalm 22:22",
+    "connected_from": "Psalm 22:20"
+  },
+  {
+    "text": "I will declare thy name unto my brethren: in the midst of the congregation will I praise thee.",
+    "reference": "Psalm 22:22 (ERV)",
+    "connected_to": "Psalm 22:23",
+    "connected_from": "Psalm 22:21"
+  },
+  {
+    "text": "Ye that fear the LORD, praise him; all ye the seed of Jacob, glorify him; and stand in awe of him, all ye the seed of Israel.",
+    "reference": "Psalm 22:23 (ERV)",
+    "connected_to": "Psalm 22:24",
+    "connected_from": "Psalm 22:22"
+  },
+  {
+    "text": "For he hath not despised nor abhorred the affliction of the afflicted; neither hath he hid his face from him; but when he cried unto him, he heard.",
+    "reference": "Psalm 22:24 (ERV)",
+    "connected_to": "Psalm 22:25",
+    "connected_from": "Psalm 22:23"
+  },
+  {
+    "text": "Of thee cometh my praise in the great congregation: I will pay my vows before them that fear him.",
+    "reference": "Psalm 22:25 (ERV)",
+    "connected_to": "Psalm 22:26",
+    "connected_from": "Psalm 22:24"
+  },
+  {
+    "text": "The meek shall eat and be satisfied: they shall praise the LORD that seek after him: let your heart live for ever.",
+    "reference": "Psalm 22:26 (ERV)",
+    "connected_to": "Psalm 22:27",
+    "connected_from": "Psalm 22:25"
+  },
+  {
+    "text": "All the ends of the earth shall remember and turn unto the LORD: and all the kindreds of the nations shall worship before thee.",
+    "reference": "Psalm 22:27 (ERV)",
+    "connected_to": "Psalm 22:28",
+    "connected_from": "Psalm 22:26"
+  },
+  {
+    "text": "For the kingdom is the LORD’S: and he is the ruler over the nations.",
+    "reference": "Psalm 22:28 (ERV)",
+    "connected_to": "Psalm 22:29",
+    "connected_from": "Psalm 22:27"
+  },
+  {
+    "text": "All the fat ones of the earth shall eat and worship: all they that go down to the dust shall bow before him, even he that cannot keep his soul alive.",
+    "reference": "Psalm 22:29 (ERV)",
+    "connected_to": "Psalm 22:30",
+    "connected_from": "Psalm 22:28"
+  },
+  {
+    "text": "A seed shall serve him; it shall be told of the Lord unto the next generation.",
+    "reference": "Psalm 22:30 (ERV)",
+    "connected_to": "Psalm 22:31",
+    "connected_from": "Psalm 22:29"
+  },
+  {
+    "text": "They shall come and shall declare his righteousness unto a people that shall be born, that he hath done it.",
+    "reference": "Psalm 22:31 (ERV)",
+    "connected_from": "Psalm 22:30"
+  }
+]

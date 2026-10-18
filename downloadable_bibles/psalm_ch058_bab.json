@@ -1,0 +1,66 @@
+[
+  {
+    "text": "For the choirmaster. To the tune of “Do Not Destroy (do not destroy).” A Miktam of David (beloved). <span class=|reftext|><a href=|#|><b>1</b></a> Do you⁺ indeed speak justly, O rulers? Do you⁺ judge uprightly, O sons of men?",
+    "reference": "Psalm 58:1 (BAB)",
+    "connected_to": "Psalm 58:2"
+  },
+  {
+    "text": "No, in your hearts you⁺ devise injustice; with your⁺ hands you⁺ mete out violence on the earth.",
+    "reference": "Psalm 58:2 (BAB)",
+    "connected_to": "Psalm 58:3",
+    "connected_from": "Psalm 58:1"
+  },
+  {
+    "text": "The wicked are estranged from the womb; the liars go astray from birth.",
+    "reference": "Psalm 58:3 (BAB)",
+    "connected_to": "Psalm 58:4",
+    "connected_from": "Psalm 58:2"
+  },
+  {
+    "text": "Their venom is like the venom of a snake, like a cobra that shuts its ears,",
+    "reference": "Psalm 58:4 (BAB)",
+    "connected_to": "Psalm 58:5",
+    "connected_from": "Psalm 58:3"
+  },
+  {
+    "text": "refusing to hear the tune of the charmer who skillfully weaves his spell.",
+    "reference": "Psalm 58:5 (BAB)",
+    "connected_to": "Psalm 58:6",
+    "connected_from": "Psalm 58:4"
+  },
+  {
+    "text": "O God {Elohim}, shatter their teeth in their mouths; O LORD {YHWH}, tear out the fangs of the lions.",
+    "reference": "Psalm 58:6 (BAB)",
+    "connected_to": "Psalm 58:7",
+    "connected_from": "Psalm 58:5"
+  },
+  {
+    "text": "May they vanish like water that runs off; when they draw the bow, may their arrows be blunted.",
+    "reference": "Psalm 58:7 (BAB)",
+    "connected_to": "Psalm 58:8",
+    "connected_from": "Psalm 58:6"
+  },
+  {
+    "text": "Like a slug that dissolves in its slime, like a woman’s stillborn child, may they never see the sun.",
+    "reference": "Psalm 58:8 (BAB)",
+    "connected_to": "Psalm 58:9",
+    "connected_from": "Psalm 58:7"
+  },
+  {
+    "text": "Before your⁺ pots can feel the burning thorns—whether green or dry—He will sweep them away.",
+    "reference": "Psalm 58:9 (BAB)",
+    "connected_to": "Psalm 58:10",
+    "connected_from": "Psalm 58:8"
+  },
+  {
+    "text": "The righteous will rejoice when they see they are avenged; they will wash their feet in the blood of the wicked.",
+    "reference": "Psalm 58:10 (BAB)",
+    "connected_to": "Psalm 58:11",
+    "connected_from": "Psalm 58:9"
+  },
+  {
+    "text": "Then men will say, “There is surely a reward for the righteous! There is surely a God {Elohim} who judges the earth!”",
+    "reference": "Psalm 58:11 (BAB)",
+    "connected_from": "Psalm 58:10"
+  }
+]

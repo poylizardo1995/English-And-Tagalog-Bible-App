@@ -1,0 +1,108 @@
+[
+  {
+    "text": "Abraham advanced from there into the southern land, and he lived between Kadesh and Shur. And he sojourned in Gerar.",
+    "reference": "Genesis 20:1 (CPDV)",
+    "connected_to": "Genesis 20:2"
+  },
+  {
+    "text": "And he said about his wife Sarah: “She is my sister.” Therefore, Abimelech, the king of Gerar, sent for her and took her.",
+    "reference": "Genesis 20:2 (CPDV)",
+    "connected_to": "Genesis 20:3",
+    "connected_from": "Genesis 20:1"
+  },
+  {
+    "text": "Then God came to Abimelech through a dream in the night, and he said to him: “Lo, you shall die because of the woman that you have taken. For she has a husband.”",
+    "reference": "Genesis 20:3 (CPDV)",
+    "connected_to": "Genesis 20:4",
+    "connected_from": "Genesis 20:2"
+  },
+  {
+    "text": "In truth, Abimelech had not touched her, and so he said: “Lord, would you put to death a people, ignorant and just?",
+    "reference": "Genesis 20:4 (CPDV)",
+    "connected_to": "Genesis 20:5",
+    "connected_from": "Genesis 20:3"
+  },
+  {
+    "text": "Did he not say to me, ‘She is my sister,’ and did she not say, ‘He is my brother?’ In the sincerity of my heart and the purity of my hands, I have done this.”",
+    "reference": "Genesis 20:5 (CPDV)",
+    "connected_to": "Genesis 20:6",
+    "connected_from": "Genesis 20:4"
+  },
+  {
+    "text": "And God said to him: “And I know that you have acted with a sincere heart. And therefore I kept you from sinning against me, and I did not release you to touch her.",
+    "reference": "Genesis 20:6 (CPDV)",
+    "connected_to": "Genesis 20:7",
+    "connected_from": "Genesis 20:5"
+  },
+  {
+    "text": "Now therefore, return his wife to the man, for he is a prophet. And he will pray for you, and you will live. But if you are not willing to return her, know this: you shall die a death, you and all that is yours.”",
+    "reference": "Genesis 20:7 (CPDV)",
+    "connected_to": "Genesis 20:8",
+    "connected_from": "Genesis 20:6"
+  },
+  {
+    "text": "And immediately Abimelech, rising up in the night, called all his servants. And he spoke all these words in their hearing, and all the men were very afraid.",
+    "reference": "Genesis 20:8 (CPDV)",
+    "connected_to": "Genesis 20:9",
+    "connected_from": "Genesis 20:7"
+  },
+  {
+    "text": "Then Abimelech called also for Abraham, and he said to him: “What have you done to us? How have we sinned against you, so that you would bring so great a sin upon me and upon my kingdom? You have done to us what you ought not to have done.”",
+    "reference": "Genesis 20:9 (CPDV)",
+    "connected_to": "Genesis 20:10",
+    "connected_from": "Genesis 20:8"
+  },
+  {
+    "text": "And remonstrating him again, he said, “What did you see, so that you would do this?”",
+    "reference": "Genesis 20:10 (CPDV)",
+    "connected_to": "Genesis 20:11",
+    "connected_from": "Genesis 20:9"
+  },
+  {
+    "text": "Abraham responded: “I thought to myself, saying: Perhaps there is no fear of God in this place. And they will put me to death because of my wife.",
+    "reference": "Genesis 20:11 (CPDV)",
+    "connected_to": "Genesis 20:12",
+    "connected_from": "Genesis 20:10"
+  },
+  {
+    "text": "Yet, in another way, she is also truly my sister, the daughter of my father, and not the daughter of my mother, and I took her as a wife.",
+    "reference": "Genesis 20:12 (CPDV)",
+    "connected_to": "Genesis 20:13",
+    "connected_from": "Genesis 20:11"
+  },
+  {
+    "text": "Then, after God led me out of my father’s house, I said to her: ‘You will show this mercy to me. In every place, to which we will travel, you will say that I am your brother.’ ”",
+    "reference": "Genesis 20:13 (CPDV)",
+    "connected_to": "Genesis 20:14",
+    "connected_from": "Genesis 20:12"
+  },
+  {
+    "text": "Therefore, Abimelech took sheep and oxen, and men servants and women servants, and he gave them to Abraham. And he returned his wife Sarah to him.",
+    "reference": "Genesis 20:14 (CPDV)",
+    "connected_to": "Genesis 20:15",
+    "connected_from": "Genesis 20:13"
+  },
+  {
+    "text": "And he said, “The land is in your sight. Dwell wherever it will please you.”",
+    "reference": "Genesis 20:15 (CPDV)",
+    "connected_to": "Genesis 20:16",
+    "connected_from": "Genesis 20:14"
+  },
+  {
+    "text": "Then to Sarah he said: “Behold, I have given your brother one thousand silver coins. This will be for you as a veil for your eyes, to all who are with you and wherever you will travel. And so, remember that you were taken.”",
+    "reference": "Genesis 20:16 (CPDV)",
+    "connected_to": "Genesis 20:17",
+    "connected_from": "Genesis 20:15"
+  },
+  {
+    "text": "Then when Abraham prayed, God healed Abimelech and his wife, and his handmaids, and they gave birth.",
+    "reference": "Genesis 20:17 (CPDV)",
+    "connected_to": "Genesis 20:18",
+    "connected_from": "Genesis 20:16"
+  },
+  {
+    "text": "For the Lord had closed every womb of the house of Abimelech, because of Sarah, the wife of Abraham.",
+    "reference": "Genesis 20:18 (CPDV)",
+    "connected_from": "Genesis 20:17"
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "text": "Now these are the priests and the Levites, that went up with Zorobabel the son of Salathiel, and Josue: Saraia, Jeremias, Esdras,",
+    "reference": "Nehemiah 12:1 (DRB)",
+    "connected_to": "Nehemiah 12:2"
+  },
+  {
+    "text": "Amaria, Melluch, Hattus,",
+    "reference": "Nehemiah 12:2 (DRB)",
+    "connected_to": "Nehemiah 12:3",
+    "connected_from": "Nehemiah 12:1"
+  },
+  {
+    "text": "Sebenias, Rheum, Merimuth,",
+    "reference": "Nehemiah 12:3 (DRB)",
+    "connected_to": "Nehemiah 12:4",
+    "connected_from": "Nehemiah 12:2"
+  },
+  {
+    "text": "Addo, Genthon, Abia,",
+    "reference": "Nehemiah 12:4 (DRB)",
+    "connected_to": "Nehemiah 12:5",
+    "connected_from": "Nehemiah 12:3"
+  },
+  {
+    "text": "Miamin, Madia, Belga,",
+    "reference": "Nehemiah 12:5 (DRB)",
+    "connected_to": "Nehemiah 12:6",
+    "connected_from": "Nehemiah 12:4"
+  },
+  {
+    "text": "Semeia, and Joiarib, Idaia, Sellum, Amoc, Helcias,",
+    "reference": "Nehemiah 12:6 (DRB)",
+    "connected_to": "Nehemiah 12:7",
+    "connected_from": "Nehemiah 12:5"
+  },
+  {
+    "text": "Idaia. These were the chief of the priests, and of their brethren in the days of Josue.",
+    "reference": "Nehemiah 12:7 (DRB)",
+    "connected_to": "Nehemiah 12:8",
+    "connected_from": "Nehemiah 12:6"
+  },
+  {
+    "text": "And the Levites, Jesua, Bennui, Cedmihel, Sarebia, Juda, Mathanias, they and their brethren were over the hymns:",
+    "reference": "Nehemiah 12:8 (DRB)",
+    "connected_to": "Nehemiah 12:9",
+    "connected_from": "Nehemiah 12:7"
+  },
+  {
+    "text": "And Becbecia, and Hanni, and their brethren every one in his office.",
+    "reference": "Nehemiah 12:9 (DRB)",
+    "connected_to": "Nehemiah 12:10",
+    "connected_from": "Nehemiah 12:8"
+  },
+  {
+    "text": "And Josue beget Joacim, and Joacim beget Eliasib, and Eliasib beget Joiada,",
+    "reference": "Nehemiah 12:10 (DRB)",
+    "connected_to": "Nehemiah 12:11",
+    "connected_from": "Nehemiah 12:9"
+  },
+  {
+    "text": "And Joiada beget Jonathan, and Jonathan beget Jeddoa.",
+    "reference": "Nehemiah 12:11 (DRB)",
+    "connected_to": "Nehemiah 12:12",
+    "connected_from": "Nehemiah 12:10"
+  },
+  {
+    "text": "And in the days of Joacim the priests and heads of the families were : Of Saraia, Maraia: of Jeremias, Hanania:",
+    "reference": "Nehemiah 12:12 (DRB)",
+    "connected_to": "Nehemiah 12:13",
+    "connected_from": "Nehemiah 12:11"
+  },
+  {
+    "text": "Of Esdras, Mosollam: and of Amaria, Johanan:",
+    "reference": "Nehemiah 12:13 (DRB)",
+    "connected_to": "Nehemiah 12:14",
+    "connected_from": "Nehemiah 12:12"
+  },
+  {
+    "text": "Of Milicho, Jonathan: of Sebenia, Joseph:",
+    "reference": "Nehemiah 12:14 (DRB)",
+    "connected_to": "Nehemiah 12:15",
+    "connected_from": "Nehemiah 12:13"
+  },
+  {
+    "text": "Of Haram, Edna: of Maraioth, Helci:",
+    "reference": "Nehemiah 12:15 (DRB)",
+    "connected_to": "Nehemiah 12:16",
+    "connected_from": "Nehemiah 12:14"
+  },
+  {
+    "text": "Of Adaia, Zacharia: of Genthon, Mosollam:",
+    "reference": "Nehemiah 12:16 (DRB)",
+    "connected_to": "Nehemiah 12:17",
+    "connected_from": "Nehemiah 12:15"
+  },
+  {
+    "text": "Of Abia, Zechri: of Miamin and Moadia, Phelti:",
+    "reference": "Nehemiah 12:17 (DRB)",
+    "connected_to": "Nehemiah 12:18",
+    "connected_from": "Nehemiah 12:16"
+  },
+  {
+    "text": "Of Belga, Sammua of Semaia, Jonathan:",
+    "reference": "Nehemiah 12:18 (DRB)",
+    "connected_to": "Nehemiah 12:19",
+    "connected_from": "Nehemiah 12:17"
+  },
+  {
+    "text": "Of Joiarib, Mathanai: of Jodaia, Azzi:",
+    "reference": "Nehemiah 12:19 (DRB)",
+    "connected_to": "Nehemiah 12:20",
+    "connected_from": "Nehemiah 12:18"
+  },
+  {
+    "text": "Of Sellai, Celai: of Amoc, Heber:",
+    "reference": "Nehemiah 12:20 (DRB)",
+    "connected_to": "Nehemiah 12:21",
+    "connected_from": "Nehemiah 12:19"
+  },
+  {
+    "text": "Of Helcias, Hasebia: of Idaia, Nathanael.",
+    "reference": "Nehemiah 12:21 (DRB)",
+    "connected_to": "Nehemiah 12:22",
+    "connected_from": "Nehemiah 12:20"
+  },
+  {
+    "text": "The Levites the chiefs of the families in the days of Eliasib, and Joiada, and Johanan, and Jeddoa, were recorded, and the priests in the reign of Darius the Persian.",
+    "reference": "Nehemiah 12:22 (DRB)",
+    "connected_to": "Nehemiah 12:23",
+    "connected_from": "Nehemiah 12:21"
+  },
+  {
+    "text": "The sons of Levi, heads of the families were written in the book of Chronicles, even unto the days of Jonathan the son of Eliasib.",
+    "reference": "Nehemiah 12:23 (DRB)",
+    "connected_to": "Nehemiah 12:24",
+    "connected_from": "Nehemiah 12:22"
+  },
+  {
+    "text": "Now the chief of the Levites were Hasebia, Serebia, and Josue the son of Cedmihel: and their brethren by their courses, to praise and to give thanks ac- cording to the commandment of David the man of God, and to wait equally in order.",
+    "reference": "Nehemiah 12:24 (DRB)",
+    "connected_to": "Nehemiah 12:25",
+    "connected_from": "Nehemiah 12:23"
+  },
+  {
+    "text": "Mathania, and Becbecia, Obedia, and Mosollam, Telmon, Accub, were keepers of the gates and of the entrances before the gates.",
+    "reference": "Nehemiah 12:25 (DRB)",
+    "connected_to": "Nehemiah 12:26",
+    "connected_from": "Nehemiah 12:24"
+  },
+  {
+    "text": "These were in the days of Joacim the son of Josue, the son of Josedec, and in the days of Nehemias the governor, and of Esdras the priest and scribe.",
+    "reference": "Nehemiah 12:26 (DRB)",
+    "connected_to": "Nehemiah 12:27",
+    "connected_from": "Nehemiah 12:25"
+  },
+  {
+    "text": "And at the dedication of the wall of Jerusalem they sought the Levites out of all their places, to bring them to Jerusalem, and to keep the dedication, and to rejoice with thanksgiving, and with singing, and with cymbals, and psalteries and harps.",
+    "reference": "Nehemiah 12:27 (DRB)",
+    "connected_to": "Nehemiah 12:28",
+    "connected_from": "Nehemiah 12:26"
+  },
+  {
+    "text": "And the sons of the singing men were gathered together out of the plain country about Jerusalem, and out of the villages of Nethuphati,",
+    "reference": "Nehemiah 12:28 (DRB)",
+    "connected_to": "Nehemiah 12:29",
+    "connected_from": "Nehemiah 12:27"
+  },
+  {
+    "text": "And from the house of Galgal, and from the countries of Geba and Azmaveth: for the singing men had built themselves villages round about Jerusalem.",
+    "reference": "Nehemiah 12:29 (DRB)",
+    "connected_to": "Nehemiah 12:30",
+    "connected_from": "Nehemiah 12:28"
+  },
+  {
+    "text": "And the priests and the Levites purified, and they purified the people, and the gates, and the wall.",
+    "reference": "Nehemiah 12:30 (DRB)",
+    "connected_to": "Nehemiah 12:31",
+    "connected_from": "Nehemiah 12:29"
+  },
+  {
+    "text": "And I made the princes of Juda go up upon the wall, and I appointed two great choirs to give praise. And they went on the right hand upon the wall toward the dunghill gate.",
+    "reference": "Nehemiah 12:31 (DRB)",
+    "connected_to": "Nehemiah 12:32",
+    "connected_from": "Nehemiah 12:30"
+  },
+  {
+    "text": "And after them went Osaias, and half of the princes of Juda,",
+    "reference": "Nehemiah 12:32 (DRB)",
+    "connected_to": "Nehemiah 12:33",
+    "connected_from": "Nehemiah 12:31"
+  },
+  {
+    "text": "And Azarias, Esdras, and Mosollam,",
+    "reference": "Nehemiah 12:33 (DRB)",
+    "connected_to": "Nehemiah 12:34",
+    "connected_from": "Nehemiah 12:32"
+  },
+  {
+    "text": "Judas, and Benjamin, and Semeia, and Jeremias.",
+    "reference": "Nehemiah 12:34 (DRB)",
+    "connected_to": "Nehemiah 12:35",
+    "connected_from": "Nehemiah 12:33"
+  },
+  {
+    "text": "And of the sons of the priests with trumpets, Zacharias the son of Jonathan. the son of Semeia, the son of Mathania; the son of Michaia, the son of Zechur, the son of Asaph,",
+    "reference": "Nehemiah 12:35 (DRB)",
+    "connected_to": "Nehemiah 12:36",
+    "connected_from": "Nehemiah 12:34"
+  },
+  {
+    "text": "And his brethren Semeia, and Azareel Malalai, Galalai, Maai, Nathanael, and Judas, and Hanani, with the musical instruments of David the man of God: and Esdras the scribe before them at the fountain gate.",
+    "reference": "Nehemiah 12:36 (DRB)",
+    "connected_to": "Nehemiah 12:37",
+    "connected_from": "Nehemiah 12:35"
+  },
+  {
+    "text": "And they went up over against them by the stairs of the city of David, at the going up of the wall of the house of David, and to the water gate eastward:",
+    "reference": "Nehemiah 12:37 (DRB)",
+    "connected_to": "Nehemiah 12:38",
+    "connected_from": "Nehemiah 12:36"
+  },
+  {
+    "text": "And the second choir of them that gave thanks went on the opposite side, and I after them, and the half of the people upon the wall, and upon the tower of the furnaces, even to the broad wall,",
+    "reference": "Nehemiah 12:38 (DRB)",
+    "connected_to": "Nehemiah 12:39",
+    "connected_from": "Nehemiah 12:37"
+  },
+  {
+    "text": "And above the gate of Ephraim, and above the old gate, and above the fish gate and the tower of Hananeel, and the tower of Emath, and even to the flock gate: and they stood still in the watch gate.",
+    "reference": "Nehemiah 12:39 (DRB)",
+    "connected_to": "Nehemiah 12:40",
+    "connected_from": "Nehemiah 12:38"
+  },
+  {
+    "text": "And the two choirs of them that gave praise stood still at the house of God, and I and the half of the magistrates with me.",
+    "reference": "Nehemiah 12:40 (DRB)",
+    "connected_to": "Nehemiah 12:41",
+    "connected_from": "Nehemiah 12:39"
+  },
+  {
+    "text": "And the priests, Eliachim, Maasia, Miamin, Michea, Elioenai, Zacharia, Hanania with trumpets,",
+    "reference": "Nehemiah 12:41 (DRB)",
+    "connected_to": "Nehemiah 12:42",
+    "connected_from": "Nehemiah 12:40"
+  },
+  {
+    "text": "And Maasia, and Semeia, and Eleazar, and Azzi, and Johanan, and Melchia, and Elam, and Ezer. And the singers sung loud, and Jezraia was their overseer:",
+    "reference": "Nehemiah 12:42 (DRB)",
+    "connected_to": "Nehemiah 12:43",
+    "connected_from": "Nehemiah 12:41"
+  },
+  {
+    "text": "And they sacrificed on that day great sacrifices, and they rejoiced: for God had made them joyful with great joy: their wives also and their children rejoiced, and the joy of Jerusalem was heard afar off.",
+    "reference": "Nehemiah 12:43 (DRB)",
+    "connected_to": "Nehemiah 12:44",
+    "connected_from": "Nehemiah 12:42"
+  },
+  {
+    "text": "They appointed also in that day men over the storehouses of the treasure, for the libations, and for the firstfruits, and for the tithes, that the rulers of the city might bring them in by them in honour of thanksgiving, for the priests and Levites: for Juda was joyful in the priests and Levites that assisted.",
+    "reference": "Nehemiah 12:44 (DRB)",
+    "connected_to": "Nehemiah 12:45",
+    "connected_from": "Nehemiah 12:43"
+  },
+  {
+    "text": "And they kept the watch of their God, and the observance of expiation, and the singing men, and the porters, according to the commandment of David, and of Solomon his son.",
+    "reference": "Nehemiah 12:45 (DRB)",
+    "connected_to": "Nehemiah 12:46",
+    "connected_from": "Nehemiah 12:44"
+  },
+  {
+    "text": "For in the days of David and Asaph from the beginning there were chief singers appointed, to praise with canticles, and give thanks to God.",
+    "reference": "Nehemiah 12:46 (DRB)",
+    "connected_to": "Nehemiah 12:47",
+    "connected_from": "Nehemiah 12:45"
+  },
+  {
+    "text": "And all Israel, in the days of Zorobabel, and in the days of Nehemias gave portions to the singing men, and to the porters, day by day, and they sanctified the Levites, and the Levites sanctified the sons of Aaron.",
+    "reference": "Nehemiah 12:47 (DRB)",
+    "connected_from": "Nehemiah 12:46"
+  }
+]

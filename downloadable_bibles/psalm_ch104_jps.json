@@ -1,0 +1,210 @@
+[
+  {
+    "text": "Bless the LORD, O my soul. O LORD my God, Thou art very great; Thou art clothed with glory and majesty.",
+    "reference": "Psalm 104:1 (JPS)",
+    "connected_to": "Psalm 104:2"
+  },
+  {
+    "text": "Who coverest Thyself with light as with a garment, Who stretchest out the heavens like a curtain;",
+    "reference": "Psalm 104:2 (JPS)",
+    "connected_to": "Psalm 104:3",
+    "connected_from": "Psalm 104:1"
+  },
+  {
+    "text": "Who layest the beams of Thine upper chambers in the waters, Who makest the clouds Thy chariot, Who walkest upon the wings of the wind;",
+    "reference": "Psalm 104:3 (JPS)",
+    "connected_to": "Psalm 104:4",
+    "connected_from": "Psalm 104:2"
+  },
+  {
+    "text": "Who makest winds Thy messengers, The flaming fire Thy ministers.",
+    "reference": "Psalm 104:4 (JPS)",
+    "connected_to": "Psalm 104:5",
+    "connected_from": "Psalm 104:3"
+  },
+  {
+    "text": "Who didst establish the earth upon its foundations, That it should not be moved for ever and ever;",
+    "reference": "Psalm 104:5 (JPS)",
+    "connected_to": "Psalm 104:6",
+    "connected_from": "Psalm 104:4"
+  },
+  {
+    "text": "Thou didst cover it with the deep as with a vesture; The waters stood above the mountains.",
+    "reference": "Psalm 104:6 (JPS)",
+    "connected_to": "Psalm 104:7",
+    "connected_from": "Psalm 104:5"
+  },
+  {
+    "text": "At Thy rebuke they fled, At the voice of Thy thunder they hasted away—",
+    "reference": "Psalm 104:7 (JPS)",
+    "connected_to": "Psalm 104:8",
+    "connected_from": "Psalm 104:6"
+  },
+  {
+    "text": "The mountains rose, the valleys sank down—Unto the place which Thou hadst founded for them;",
+    "reference": "Psalm 104:8 (JPS)",
+    "connected_to": "Psalm 104:9",
+    "connected_from": "Psalm 104:7"
+  },
+  {
+    "text": "Thou didst set a bound which they should not pass over, That they might not return to cover the earth.",
+    "reference": "Psalm 104:9 (JPS)",
+    "connected_to": "Psalm 104:10",
+    "connected_from": "Psalm 104:8"
+  },
+  {
+    "text": "Who sendest forth springs into the valleys; They run between the mountains;",
+    "reference": "Psalm 104:10 (JPS)",
+    "connected_to": "Psalm 104:11",
+    "connected_from": "Psalm 104:9"
+  },
+  {
+    "text": "They give drink to every beast of the field, The wild asses quench their thirst.",
+    "reference": "Psalm 104:11 (JPS)",
+    "connected_to": "Psalm 104:12",
+    "connected_from": "Psalm 104:10"
+  },
+  {
+    "text": "Beside them dwell the fowl of the heaven, From among the branches they sing.",
+    "reference": "Psalm 104:12 (JPS)",
+    "connected_to": "Psalm 104:13",
+    "connected_from": "Psalm 104:11"
+  },
+  {
+    "text": "Who waterest the mountains from Thine upper chambers; The earth is full of the fruit of Thy works.",
+    "reference": "Psalm 104:13 (JPS)",
+    "connected_to": "Psalm 104:14",
+    "connected_from": "Psalm 104:12"
+  },
+  {
+    "text": "Who causeth the grass to spring up for the cattle, And herb for the service of man; To bring forth bread out of the earth,",
+    "reference": "Psalm 104:14 (JPS)",
+    "connected_to": "Psalm 104:15",
+    "connected_from": "Psalm 104:13"
+  },
+  {
+    "text": "And wine that maketh glad the heart of man, Making the face brighter than oil, And bread that stayeth man’s heart.",
+    "reference": "Psalm 104:15 (JPS)",
+    "connected_to": "Psalm 104:16",
+    "connected_from": "Psalm 104:14"
+  },
+  {
+    "text": "The trees of the LORD have their fill, The cedars of Lebanon, which He hath planted;",
+    "reference": "Psalm 104:16 (JPS)",
+    "connected_to": "Psalm 104:17",
+    "connected_from": "Psalm 104:15"
+  },
+  {
+    "text": "Wherein the birds make their nests; As for the stork, the fir-trees are her house.",
+    "reference": "Psalm 104:17 (JPS)",
+    "connected_to": "Psalm 104:18",
+    "connected_from": "Psalm 104:16"
+  },
+  {
+    "text": "The high mountains are for the wild goats; The rocks are a refuge for the conies.",
+    "reference": "Psalm 104:18 (JPS)",
+    "connected_to": "Psalm 104:19",
+    "connected_from": "Psalm 104:17"
+  },
+  {
+    "text": "Who appointedst the moon for seasons; The sun knoweth his going down.",
+    "reference": "Psalm 104:19 (JPS)",
+    "connected_to": "Psalm 104:20",
+    "connected_from": "Psalm 104:18"
+  },
+  {
+    "text": "Thou makest darkness, and it is night, Wherein all the beasts of the forest do creep forth.",
+    "reference": "Psalm 104:20 (JPS)",
+    "connected_to": "Psalm 104:21",
+    "connected_from": "Psalm 104:19"
+  },
+  {
+    "text": "The young lions roar after their prey, And seek their food from God.",
+    "reference": "Psalm 104:21 (JPS)",
+    "connected_to": "Psalm 104:22",
+    "connected_from": "Psalm 104:20"
+  },
+  {
+    "text": "The sun ariseth, they slink away, And couch in their dens.",
+    "reference": "Psalm 104:22 (JPS)",
+    "connected_to": "Psalm 104:23",
+    "connected_from": "Psalm 104:21"
+  },
+  {
+    "text": "Man goeth forth unto his work And to his labour until the evening.",
+    "reference": "Psalm 104:23 (JPS)",
+    "connected_to": "Psalm 104:24",
+    "connected_from": "Psalm 104:22"
+  },
+  {
+    "text": "How manifold are Thy works, O LORD! In wisdom hast Thou made them all; The earth is full of Thy creatures.",
+    "reference": "Psalm 104:24 (JPS)",
+    "connected_to": "Psalm 104:25",
+    "connected_from": "Psalm 104:23"
+  },
+  {
+    "text": "Yonder sea, great and wide, Therein are creeping things innumerable, Living creatures, both small and great.",
+    "reference": "Psalm 104:25 (JPS)",
+    "connected_to": "Psalm 104:26",
+    "connected_from": "Psalm 104:24"
+  },
+  {
+    "text": "There go the ships; There is leviathan, whom Thou hast formed to sport therein.",
+    "reference": "Psalm 104:26 (JPS)",
+    "connected_to": "Psalm 104:27",
+    "connected_from": "Psalm 104:25"
+  },
+  {
+    "text": "All of them wait for Thee, That Thou mayest give them their food in due season.",
+    "reference": "Psalm 104:27 (JPS)",
+    "connected_to": "Psalm 104:28",
+    "connected_from": "Psalm 104:26"
+  },
+  {
+    "text": "Thou givest it unto them, they gather it; Thou openest Thy hand, they are satisfied with good.",
+    "reference": "Psalm 104:28 (JPS)",
+    "connected_to": "Psalm 104:29",
+    "connected_from": "Psalm 104:27"
+  },
+  {
+    "text": "Thou hidest Thy face, they vanish; Thou withdrawest their breath, they perish, And return to their dust.",
+    "reference": "Psalm 104:29 (JPS)",
+    "connected_to": "Psalm 104:30",
+    "connected_from": "Psalm 104:28"
+  },
+  {
+    "text": "Thou sendest forth Thy spirit, they are created; And Thou renewest the face of the earth.",
+    "reference": "Psalm 104:30 (JPS)",
+    "connected_to": "Psalm 104:31",
+    "connected_from": "Psalm 104:29"
+  },
+  {
+    "text": "May the glory of the LORD endure for ever; Let the LORD rejoice in His works!",
+    "reference": "Psalm 104:31 (JPS)",
+    "connected_to": "Psalm 104:32",
+    "connected_from": "Psalm 104:30"
+  },
+  {
+    "text": "Who looketh on the earth, and it trembleth; He toucheth the mountains, and they smoke.",
+    "reference": "Psalm 104:32 (JPS)",
+    "connected_to": "Psalm 104:33",
+    "connected_from": "Psalm 104:31"
+  },
+  {
+    "text": "I will sing unto the LORD as long as I live; I will sing praise to my God while I have any being.",
+    "reference": "Psalm 104:33 (JPS)",
+    "connected_to": "Psalm 104:34",
+    "connected_from": "Psalm 104:32"
+  },
+  {
+    "text": "Let my musing be sweet unto Him; As for me, I will rejoice in the LORD.",
+    "reference": "Psalm 104:34 (JPS)",
+    "connected_to": "Psalm 104:35",
+    "connected_from": "Psalm 104:33"
+  },
+  {
+    "text": "Let sinners cease out of the earth, And let the wicked be no more. Bless the LORD, O my soul.  Hallelujah.",
+    "reference": "Psalm 104:35 (JPS)",
+    "connected_from": "Psalm 104:34"
+  }
+]

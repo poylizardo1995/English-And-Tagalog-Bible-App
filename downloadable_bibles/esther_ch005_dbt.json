@@ -1,0 +1,84 @@
+[
+  {
+    "text": "And it came to pass on the third day, that Esther put on royal apparel, and stood in the inner court of the king’s house, over against the king’s house. And the king sat upon his royal throne in the royal house, over against the entrance to the house.",
+    "reference": "Esther 5:1 (DBT)",
+    "connected_to": "Esther 5:2"
+  },
+  {
+    "text": "And it was so, when the king saw the queen Esther standing in the court, that she obtained grace in his sight; and the king held out to Esther the golden sceptre that was in his hand; and Esther drew near, and touched the top of the sceptre.",
+    "reference": "Esther 5:2 (DBT)",
+    "connected_to": "Esther 5:3",
+    "connected_from": "Esther 5:1"
+  },
+  {
+    "text": "And the king said to her, What wilt thou, queen Esther? and what is thy request? it shall be given thee even to the half of the kingdom.",
+    "reference": "Esther 5:3 (DBT)",
+    "connected_to": "Esther 5:4",
+    "connected_from": "Esther 5:2"
+  },
+  {
+    "text": "And Esther said, If it seem good to the king, let the king and Haman come this day to the banquet that I have prepared for him.",
+    "reference": "Esther 5:4 (DBT)",
+    "connected_to": "Esther 5:5",
+    "connected_from": "Esther 5:3"
+  },
+  {
+    "text": "And the king said, Hasten Haman, that it may be done as Esther has said. And the king and Haman came to the banquet that Esther had prepared.",
+    "reference": "Esther 5:5 (DBT)",
+    "connected_to": "Esther 5:6",
+    "connected_from": "Esther 5:4"
+  },
+  {
+    "text": "And the king said to Esther at the banquet of wine, What is thy petition? and it shall be granted thee; and what is thy request? even to the half of the kingdom it shall be done.",
+    "reference": "Esther 5:6 (DBT)",
+    "connected_to": "Esther 5:7",
+    "connected_from": "Esther 5:5"
+  },
+  {
+    "text": "And Esther answered and said, My petition and my request is,",
+    "reference": "Esther 5:7 (DBT)",
+    "connected_to": "Esther 5:8",
+    "connected_from": "Esther 5:6"
+  },
+  {
+    "text": "If I have found grace in the sight of the king, and if it please the king to grant my petition, and to perform my request, let the king and Haman come to the banquet that I shall prepare for them, and I will do to-morrow according to the king’s word.",
+    "reference": "Esther 5:8 (DBT)",
+    "connected_to": "Esther 5:9",
+    "connected_from": "Esther 5:7"
+  },
+  {
+    "text": "And Haman went forth that day joyful and glad of heart; but when Haman saw Mordecai in the king’s gate, that he stood not up nor moved for him, he was full of fury against Mordecai.",
+    "reference": "Esther 5:9 (DBT)",
+    "connected_to": "Esther 5:10",
+    "connected_from": "Esther 5:8"
+  },
+  {
+    "text": "But Haman controlled himself, and came home; and he sent and called for his friends, and Zeresh his wife.",
+    "reference": "Esther 5:10 (DBT)",
+    "connected_to": "Esther 5:11",
+    "connected_from": "Esther 5:9"
+  },
+  {
+    "text": "And Haman told them of the glory of his riches, and the multitude of his children, and all wherein the king had promoted him, and how he had advanced him above the princes and servants of the king.",
+    "reference": "Esther 5:11 (DBT)",
+    "connected_to": "Esther 5:12",
+    "connected_from": "Esther 5:10"
+  },
+  {
+    "text": "And Haman said, Yea, Esther the queen let no man come in with the king to the banquet that she had prepared but myself; and to-morrow also I am invited to her with the king.",
+    "reference": "Esther 5:12 (DBT)",
+    "connected_to": "Esther 5:13",
+    "connected_from": "Esther 5:11"
+  },
+  {
+    "text": "Yet all this is of no avail to me so long as I see Mordecai the Jew sitting at the king’s gate.",
+    "reference": "Esther 5:13 (DBT)",
+    "connected_to": "Esther 5:14",
+    "connected_from": "Esther 5:12"
+  },
+  {
+    "text": "Then said Zeresh his wife and all his friends to him, Let a gallows be made of fifty cubits high, and in the morning speak to the king that Mordecai may be hanged on it: then go in merrily with the king to the banquet. And the thing pleased Haman; and he caused the gallows to be made.",
+    "reference": "Esther 5:14 (DBT)",
+    "connected_from": "Esther 5:13"
+  }
+]

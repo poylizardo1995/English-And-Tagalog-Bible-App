@@ -1,0 +1,42 @@
+[
+  {
+    "text": "In my distress I cried to the LORD, and he heard me.",
+    "reference": "Psalm 120:1 (AKJV)",
+    "connected_to": "Psalm 120:2"
+  },
+  {
+    "text": "Deliver my soul, O LORD, from lying lips, and from a deceitful tongue.",
+    "reference": "Psalm 120:2 (AKJV)",
+    "connected_to": "Psalm 120:3",
+    "connected_from": "Psalm 120:1"
+  },
+  {
+    "text": "What shall be given to you? or what shall be done to you, you false tongue?",
+    "reference": "Psalm 120:3 (AKJV)",
+    "connected_to": "Psalm 120:4",
+    "connected_from": "Psalm 120:2"
+  },
+  {
+    "text": "Sharp arrows of the mighty, with coals of juniper.",
+    "reference": "Psalm 120:4 (AKJV)",
+    "connected_to": "Psalm 120:5",
+    "connected_from": "Psalm 120:3"
+  },
+  {
+    "text": "Woe is me, that I sojourn in Mesech, that I dwell in the tents of Kedar!",
+    "reference": "Psalm 120:5 (AKJV)",
+    "connected_to": "Psalm 120:6",
+    "connected_from": "Psalm 120:4"
+  },
+  {
+    "text": "My soul has long dwelled with him that hates peace.",
+    "reference": "Psalm 120:6 (AKJV)",
+    "connected_to": "Psalm 120:7",
+    "connected_from": "Psalm 120:5"
+  },
+  {
+    "text": "I am for peace: but when I speak, they are for war.",
+    "reference": "Psalm 120:7 (AKJV)",
+    "connected_from": "Psalm 120:6"
+  }
+]

@@ -1,0 +1,312 @@
+[
+  {
+    "text": "Then Jesus left that place and went into the region of Judea, beyond the Jordan. Again the crowds came to Him and He taught them, as was His custom.",
+    "reference": "Mark 10:1 (BSB)",
+    "connected_to": "Mark 10:2"
+  },
+  {
+    "text": "Some Pharisees came to test Him. “Is it lawful for a man to divorce his wife?” they inquired.",
+    "reference": "Mark 10:2 (BSB)",
+    "connected_to": "Mark 10:3",
+    "connected_from": "Mark 10:1"
+  },
+  {
+    "text": "“What did Moses command you?” He replied.",
+    "reference": "Mark 10:3 (BSB)",
+    "connected_to": "Mark 10:4",
+    "connected_from": "Mark 10:2"
+  },
+  {
+    "text": "They answered, “Moses permitted a man to write his wife a certificate of divorce and send her away.”",
+    "reference": "Mark 10:4 (BSB)",
+    "connected_to": "Mark 10:5",
+    "connected_from": "Mark 10:3"
+  },
+  {
+    "text": "But Jesus told them, “Moses wrote this commandment for you because of your hardness of heart.",
+    "reference": "Mark 10:5 (BSB)",
+    "connected_to": "Mark 10:6",
+    "connected_from": "Mark 10:4"
+  },
+  {
+    "text": "However, from the beginning of creation, ‘God made them male and female.’",
+    "reference": "Mark 10:6 (BSB)",
+    "connected_to": "Mark 10:7",
+    "connected_from": "Mark 10:5"
+  },
+  {
+    "text": "‘For this reason a man will leave his father and mother and be united to his wife,",
+    "reference": "Mark 10:7 (BSB)",
+    "connected_to": "Mark 10:8",
+    "connected_from": "Mark 10:6"
+  },
+  {
+    "text": "and the two will become one flesh.’ So they are no longer two, but one flesh.",
+    "reference": "Mark 10:8 (BSB)",
+    "connected_to": "Mark 10:9",
+    "connected_from": "Mark 10:7"
+  },
+  {
+    "text": "Therefore what God has joined together, let man not separate.”",
+    "reference": "Mark 10:9 (BSB)",
+    "connected_to": "Mark 10:10",
+    "connected_from": "Mark 10:8"
+  },
+  {
+    "text": "When they were back inside the house, the disciples asked Jesus about this matter.",
+    "reference": "Mark 10:10 (BSB)",
+    "connected_to": "Mark 10:11",
+    "connected_from": "Mark 10:9"
+  },
+  {
+    "text": "So He told them, “Whoever divorces his wife and marries another woman commits adultery against her.",
+    "reference": "Mark 10:11 (BSB)",
+    "connected_to": "Mark 10:12",
+    "connected_from": "Mark 10:10"
+  },
+  {
+    "text": "And if a woman divorces her husband and marries another man, she commits adultery.”",
+    "reference": "Mark 10:12 (BSB)",
+    "connected_to": "Mark 10:13",
+    "connected_from": "Mark 10:11"
+  },
+  {
+    "text": "Now people were bringing the little children to Jesus for Him to place His hands on them, and the disciples rebuked those who brought them.",
+    "reference": "Mark 10:13 (BSB)",
+    "connected_to": "Mark 10:14",
+    "connected_from": "Mark 10:12"
+  },
+  {
+    "text": "But when Jesus saw this, He was indignant and told them, “Let the little children come to Me, and do not hinder them! For the kingdom of God belongs to such as these.",
+    "reference": "Mark 10:14 (BSB)",
+    "connected_to": "Mark 10:15",
+    "connected_from": "Mark 10:13"
+  },
+  {
+    "text": "Truly I tell you, anyone who does not receive the kingdom of God like a little child will never enter it.”",
+    "reference": "Mark 10:15 (BSB)",
+    "connected_to": "Mark 10:16",
+    "connected_from": "Mark 10:14"
+  },
+  {
+    "text": "And He took the children in His arms, placed His hands on them, and blessed them.",
+    "reference": "Mark 10:16 (BSB)",
+    "connected_to": "Mark 10:17",
+    "connected_from": "Mark 10:15"
+  },
+  {
+    "text": "As Jesus started on His way, a man ran up and knelt before Him. “Good Teacher,” he asked, “what must I do to inherit eternal life?”",
+    "reference": "Mark 10:17 (BSB)",
+    "connected_to": "Mark 10:18",
+    "connected_from": "Mark 10:16"
+  },
+  {
+    "text": "“Why do you call Me good?” Jesus replied. “No one is good except God alone.",
+    "reference": "Mark 10:18 (BSB)",
+    "connected_to": "Mark 10:19",
+    "connected_from": "Mark 10:17"
+  },
+  {
+    "text": "You know the commandments: ‘Do not murder, do not commit adultery, do not steal, do not bear false witness, do not cheat others, honor your father and mother.’”",
+    "reference": "Mark 10:19 (BSB)",
+    "connected_to": "Mark 10:20",
+    "connected_from": "Mark 10:18"
+  },
+  {
+    "text": "“Teacher,” he replied, “all these I have kept from my youth.”",
+    "reference": "Mark 10:20 (BSB)",
+    "connected_to": "Mark 10:21",
+    "connected_from": "Mark 10:19"
+  },
+  {
+    "text": "Jesus looked at him, loved him, and said to him, “There is one thing you lack: Go, sell everything you own and give to the poor, and you will have treasure in heaven. Then come, follow Me.”",
+    "reference": "Mark 10:21 (BSB)",
+    "connected_to": "Mark 10:22",
+    "connected_from": "Mark 10:20"
+  },
+  {
+    "text": "But the man was saddened by these words and went away in sorrow, because he had great wealth.",
+    "reference": "Mark 10:22 (BSB)",
+    "connected_to": "Mark 10:23",
+    "connected_from": "Mark 10:21"
+  },
+  {
+    "text": "Then Jesus looked around and said to His disciples, “How hard it is for the rich to enter the kingdom of God!”",
+    "reference": "Mark 10:23 (BSB)",
+    "connected_to": "Mark 10:24",
+    "connected_from": "Mark 10:22"
+  },
+  {
+    "text": "And the disciples were amazed at His words. But Jesus said to them again, “Children, how hard it is to enter the kingdom of God!",
+    "reference": "Mark 10:24 (BSB)",
+    "connected_to": "Mark 10:25",
+    "connected_from": "Mark 10:23"
+  },
+  {
+    "text": "It is easier for a camel to pass through the eye of a needle than for a rich man to enter the kingdom of God.”",
+    "reference": "Mark 10:25 (BSB)",
+    "connected_to": "Mark 10:26",
+    "connected_from": "Mark 10:24"
+  },
+  {
+    "text": "They were even more astonished and said to one another, “Who then can be saved?”",
+    "reference": "Mark 10:26 (BSB)",
+    "connected_to": "Mark 10:27",
+    "connected_from": "Mark 10:25"
+  },
+  {
+    "text": "Jesus looked at them and said, “With man this is impossible, but not with God. For all things are possible with God.”",
+    "reference": "Mark 10:27 (BSB)",
+    "connected_to": "Mark 10:28",
+    "connected_from": "Mark 10:26"
+  },
+  {
+    "text": "Peter began to say to Him, “Look, we have left everything and followed You.”",
+    "reference": "Mark 10:28 (BSB)",
+    "connected_to": "Mark 10:29",
+    "connected_from": "Mark 10:27"
+  },
+  {
+    "text": "“Truly I tell you,” Jesus replied, “no one who has left home or brothers or sisters or mother or father or children or fields for My sake and for the gospel",
+    "reference": "Mark 10:29 (BSB)",
+    "connected_to": "Mark 10:30",
+    "connected_from": "Mark 10:28"
+  },
+  {
+    "text": "will fail to receive a hundredfold in the present age—houses and brothers and sisters and mothers and children and fields, along with persecutions—and in the age to come, eternal life.",
+    "reference": "Mark 10:30 (BSB)",
+    "connected_to": "Mark 10:31",
+    "connected_from": "Mark 10:29"
+  },
+  {
+    "text": "But many who are first will be last, and the last will be first.”",
+    "reference": "Mark 10:31 (BSB)",
+    "connected_to": "Mark 10:32",
+    "connected_from": "Mark 10:30"
+  },
+  {
+    "text": "As they were going up the road to Jerusalem, Jesus was walking ahead of them. The disciples were amazed, but those who followed were afraid. Again Jesus took the Twelve aside and began to tell them what was going to happen to Him:",
+    "reference": "Mark 10:32 (BSB)",
+    "connected_to": "Mark 10:33",
+    "connected_from": "Mark 10:31"
+  },
+  {
+    "text": "“Look, we are going up to Jerusalem, and the Son of Man will be delivered over to the chief priests and scribes. They will condemn Him to death and will deliver Him over to the Gentiles,",
+    "reference": "Mark 10:33 (BSB)",
+    "connected_to": "Mark 10:34",
+    "connected_from": "Mark 10:32"
+  },
+  {
+    "text": "who will mock Him and spit on Him and flog Him and kill Him. And after three days He will rise again.”",
+    "reference": "Mark 10:34 (BSB)",
+    "connected_to": "Mark 10:35",
+    "connected_from": "Mark 10:33"
+  },
+  {
+    "text": "Then James and John, the sons of Zebedee, came to Jesus and declared, “Teacher, we want You to do for us whatever we ask.”",
+    "reference": "Mark 10:35 (BSB)",
+    "connected_to": "Mark 10:36",
+    "connected_from": "Mark 10:34"
+  },
+  {
+    "text": "“What do you want Me to do for you?” He inquired.",
+    "reference": "Mark 10:36 (BSB)",
+    "connected_to": "Mark 10:37",
+    "connected_from": "Mark 10:35"
+  },
+  {
+    "text": "They answered, “Grant that one of us may sit at Your right hand and the other at Your left in Your glory.”",
+    "reference": "Mark 10:37 (BSB)",
+    "connected_to": "Mark 10:38",
+    "connected_from": "Mark 10:36"
+  },
+  {
+    "text": "“You do not know what you are asking,” Jesus replied. “Can you drink the cup I will drink, or be baptized with the baptism I will undergo?”",
+    "reference": "Mark 10:38 (BSB)",
+    "connected_to": "Mark 10:39",
+    "connected_from": "Mark 10:37"
+  },
+  {
+    "text": "“We can,” the brothers answered. “You will drink the cup that I drink,” Jesus said, “and you will be baptized with the baptism that I undergo.",
+    "reference": "Mark 10:39 (BSB)",
+    "connected_to": "Mark 10:40",
+    "connected_from": "Mark 10:38"
+  },
+  {
+    "text": "But to sit at My right or left is not Mine to grant. These seats belong to those for whom they have been prepared.”",
+    "reference": "Mark 10:40 (BSB)",
+    "connected_to": "Mark 10:41",
+    "connected_from": "Mark 10:39"
+  },
+  {
+    "text": "When the ten heard about this, they became indignant with James and John.",
+    "reference": "Mark 10:41 (BSB)",
+    "connected_to": "Mark 10:42",
+    "connected_from": "Mark 10:40"
+  },
+  {
+    "text": "So Jesus called them together and said, “You know that those regarded as rulers of the Gentiles lord it over them, and their superiors exercise authority over them.",
+    "reference": "Mark 10:42 (BSB)",
+    "connected_to": "Mark 10:43",
+    "connected_from": "Mark 10:41"
+  },
+  {
+    "text": "But it shall not be this way among you. Instead, whoever wants to become great among you must be your servant,",
+    "reference": "Mark 10:43 (BSB)",
+    "connected_to": "Mark 10:44",
+    "connected_from": "Mark 10:42"
+  },
+  {
+    "text": "and whoever wants to be first must be the slave of all.",
+    "reference": "Mark 10:44 (BSB)",
+    "connected_to": "Mark 10:45",
+    "connected_from": "Mark 10:43"
+  },
+  {
+    "text": "For even the Son of Man did not come to be served, but to serve, and to give His life as a ransom for many.”",
+    "reference": "Mark 10:45 (BSB)",
+    "connected_to": "Mark 10:46",
+    "connected_from": "Mark 10:44"
+  },
+  {
+    "text": "Next, they came to Jericho. And as Jesus and His disciples were leaving Jericho with a large crowd, a blind beggar named Bartimaeus, the son of Timaeus, was sitting beside the road.",
+    "reference": "Mark 10:46 (BSB)",
+    "connected_to": "Mark 10:47",
+    "connected_from": "Mark 10:45"
+  },
+  {
+    "text": "When he heard that it was Jesus of Nazareth, he began to cry out, “Jesus, Son of David, have mercy on me!”",
+    "reference": "Mark 10:47 (BSB)",
+    "connected_to": "Mark 10:48",
+    "connected_from": "Mark 10:46"
+  },
+  {
+    "text": "Many people admonished him to be silent, but he cried out all the louder, “Son of David, have mercy on me!”",
+    "reference": "Mark 10:48 (BSB)",
+    "connected_to": "Mark 10:49",
+    "connected_from": "Mark 10:47"
+  },
+  {
+    "text": "Jesus stopped and said, “Call him.” So they called the blind man. “Take courage!” they said. “Get up! He is calling for you.”",
+    "reference": "Mark 10:49 (BSB)",
+    "connected_to": "Mark 10:50",
+    "connected_from": "Mark 10:48"
+  },
+  {
+    "text": "Throwing off his cloak, Bartimaeus jumped up and came to Jesus.",
+    "reference": "Mark 10:50 (BSB)",
+    "connected_to": "Mark 10:51",
+    "connected_from": "Mark 10:49"
+  },
+  {
+    "text": "“What do you want Me to do for you?” Jesus asked. “Rabboni,” said the blind man, “let me see again.”",
+    "reference": "Mark 10:51 (BSB)",
+    "connected_to": "Mark 10:52",
+    "connected_from": "Mark 10:50"
+  },
+  {
+    "text": "“Go,” said Jesus, “your faith has healed you.” And immediately he received his sight and followed Jesus along the road.",
+    "reference": "Mark 10:52 (BSB)",
+    "connected_from": "Mark 10:51"
+  }
+]

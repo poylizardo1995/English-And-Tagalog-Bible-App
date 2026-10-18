@@ -1,0 +1,66 @@
+[
+  {
+    "text": "After this I looked, and, behold, a door was opened in heaven: and the first voice which I heard was as it were of a trumpet talking with me; which said, Come up here, and I will show you things which must be hereafter.",
+    "reference": "Revelation 4:1 (AKJV)",
+    "connected_to": "Revelation 4:2"
+  },
+  {
+    "text": "And immediately I was in the spirit: and, behold, a throne was set in heaven, and one sat on the throne.",
+    "reference": "Revelation 4:2 (AKJV)",
+    "connected_to": "Revelation 4:3",
+    "connected_from": "Revelation 4:1"
+  },
+  {
+    "text": "And he that sat was to look on like a jasper and a sardine stone: and there was a rainbow round about the throne, in sight like to an emerald.",
+    "reference": "Revelation 4:3 (AKJV)",
+    "connected_to": "Revelation 4:4",
+    "connected_from": "Revelation 4:2"
+  },
+  {
+    "text": "And round about the throne were four and twenty seats: and on the seats I saw four and twenty elders sitting, clothed in white raiment; and they had on their heads crowns of gold.",
+    "reference": "Revelation 4:4 (AKJV)",
+    "connected_to": "Revelation 4:5",
+    "connected_from": "Revelation 4:3"
+  },
+  {
+    "text": "And out of the throne proceeded lightning and thunder and voices: and there were seven lamps of fire burning before the throne, which are the seven Spirits of God.",
+    "reference": "Revelation 4:5 (AKJV)",
+    "connected_to": "Revelation 4:6",
+    "connected_from": "Revelation 4:4"
+  },
+  {
+    "text": "And before the throne there was a sea of glass like to crystal: and in the middle of the throne, and round about the throne, were four beasts full of eyes before and behind.",
+    "reference": "Revelation 4:6 (AKJV)",
+    "connected_to": "Revelation 4:7",
+    "connected_from": "Revelation 4:5"
+  },
+  {
+    "text": "And the first beast was like a lion, and the second beast like a calf, and the third beast had a face as a man, and the fourth beast was like a flying eagle.",
+    "reference": "Revelation 4:7 (AKJV)",
+    "connected_to": "Revelation 4:8",
+    "connected_from": "Revelation 4:6"
+  },
+  {
+    "text": "And the four beasts had each of them six wings about him; and they were full of eyes within: and they rest not day and night, saying, Holy, holy, holy, LORD God Almighty, which was, and is, and is to come.",
+    "reference": "Revelation 4:8 (AKJV)",
+    "connected_to": "Revelation 4:9",
+    "connected_from": "Revelation 4:7"
+  },
+  {
+    "text": "And when those beasts give glory and honor and thanks to him that sat on the throne, who lives for ever and ever,",
+    "reference": "Revelation 4:9 (AKJV)",
+    "connected_to": "Revelation 4:10",
+    "connected_from": "Revelation 4:8"
+  },
+  {
+    "text": "The four and twenty elders fall down before him that sat on the throne, and worship him that lives for ever and ever, and cast their crowns before the throne, saying,",
+    "reference": "Revelation 4:10 (AKJV)",
+    "connected_to": "Revelation 4:11",
+    "connected_from": "Revelation 4:9"
+  },
+  {
+    "text": "You are worthy, O Lord, to receive glory and honor and power: for you have created all things, and for your pleasure they are and were created.",
+    "reference": "Revelation 4:11 (AKJV)",
+    "connected_from": "Revelation 4:10"
+  }
+]

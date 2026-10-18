@@ -1,0 +1,36 @@
+[
+  {
+    "text": "A song of ascents. <span class=|reftext|><a href=|#|><b>1</b></a> When the LORD {YHWH} restored the captives of Zion (brought back the captives to Zion), we were like dreamers (like those restored to health).",
+    "reference": "Psalm 126:1 (BAB)",
+    "connected_to": "Psalm 126:2"
+  },
+  {
+    "text": "Then our mouths were filled with laughter, our tongues with shouts of joy. Then it was said among the nations, “The LORD {YHWH} has done great things for them.”",
+    "reference": "Psalm 126:2 (BAB)",
+    "connected_to": "Psalm 126:3",
+    "connected_from": "Psalm 126:1"
+  },
+  {
+    "text": "The LORD {YHWH} has done great things for us; we are filled with joy.",
+    "reference": "Psalm 126:3 (BAB)",
+    "connected_to": "Psalm 126:4",
+    "connected_from": "Psalm 126:2"
+  },
+  {
+    "text": "Restore our captives (Restore our fortunes), O LORD {YHWH}, like streams in the Negev (southland).",
+    "reference": "Psalm 126:4 (BAB)",
+    "connected_to": "Psalm 126:5",
+    "connected_from": "Psalm 126:3"
+  },
+  {
+    "text": "Those who sow in tears will reap with shouts of joy.",
+    "reference": "Psalm 126:5 (BAB)",
+    "connected_to": "Psalm 126:6",
+    "connected_from": "Psalm 126:4"
+  },
+  {
+    "text": "He who goes out weeping, bearing a trail of seed, will surely return with shouts of joy, carrying sheaves of grain.",
+    "reference": "Psalm 126:6 (BAB)",
+    "connected_from": "Psalm 126:5"
+  }
+]

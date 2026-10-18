@@ -1,0 +1,78 @@
+[
+  {
+    "text": "{To the chief Musician. On Jonathelem-rechokim. Of David. Michtam; when the Philistines took him in Gath.} Be gracious unto me, O God; for man would swallow me up: all the day long fighting he oppresseth me.",
+    "reference": "Psalm 56:1 (DBT)",
+    "connected_to": "Psalm 56:2"
+  },
+  {
+    "text": "Mine enemies would swallow [me] up all the day long; for they are many that fight against me haughtily.",
+    "reference": "Psalm 56:2 (DBT)",
+    "connected_to": "Psalm 56:3",
+    "connected_from": "Psalm 56:1"
+  },
+  {
+    "text": "In the day that I am afraid, I will confide in thee.",
+    "reference": "Psalm 56:3 (DBT)",
+    "connected_to": "Psalm 56:4",
+    "connected_from": "Psalm 56:2"
+  },
+  {
+    "text": "In God will I praise his word, in God I put my confidence: I will not fear; what can flesh do unto me?",
+    "reference": "Psalm 56:4 (DBT)",
+    "connected_to": "Psalm 56:5",
+    "connected_from": "Psalm 56:3"
+  },
+  {
+    "text": "All the day long they wrest my words; all their thoughts are against me for evil.",
+    "reference": "Psalm 56:5 (DBT)",
+    "connected_to": "Psalm 56:6",
+    "connected_from": "Psalm 56:4"
+  },
+  {
+    "text": "They gather themselves together, they hide themselves; they mark my steps, because they wait for my soul.",
+    "reference": "Psalm 56:6 (DBT)",
+    "connected_to": "Psalm 56:7",
+    "connected_from": "Psalm 56:5"
+  },
+  {
+    "text": "Shall they escape by iniquity? In anger cast down the peoples, O God.",
+    "reference": "Psalm 56:7 (DBT)",
+    "connected_to": "Psalm 56:8",
+    "connected_from": "Psalm 56:6"
+  },
+  {
+    "text": "Thou countest my wanderings; put my tears into thy bottle: are they not in thy book?",
+    "reference": "Psalm 56:8 (DBT)",
+    "connected_to": "Psalm 56:9",
+    "connected_from": "Psalm 56:7"
+  },
+  {
+    "text": "Then shall mine enemies return backward in the day when I call: this I know, for God is for me.",
+    "reference": "Psalm 56:9 (DBT)",
+    "connected_to": "Psalm 56:10",
+    "connected_from": "Psalm 56:8"
+  },
+  {
+    "text": "In God will I praise [his] word; in Jehovah will I praise [his] word.",
+    "reference": "Psalm 56:10 (DBT)",
+    "connected_to": "Psalm 56:11",
+    "connected_from": "Psalm 56:9"
+  },
+  {
+    "text": "In God have I put my confidence: I will not fear; what can man do unto me?",
+    "reference": "Psalm 56:11 (DBT)",
+    "connected_to": "Psalm 56:12",
+    "connected_from": "Psalm 56:10"
+  },
+  {
+    "text": "Thy vows are upon me, O God: I will render thanks unto thee.",
+    "reference": "Psalm 56:12 (DBT)",
+    "connected_to": "Psalm 56:13",
+    "connected_from": "Psalm 56:11"
+  },
+  {
+    "text": "For thou hast delivered my soul from death; [wilt thou] not [keep] my feet from falling, that I may walk before God in the light of the living?",
+    "reference": "Psalm 56:13 (DBT)",
+    "connected_from": "Psalm 56:12"
+  }
+]

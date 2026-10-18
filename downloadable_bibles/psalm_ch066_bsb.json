@@ -1,0 +1,120 @@
+[
+  {
+    "text": "For the choirmaster. A song. A Psalm. Make a joyful noise to God, all the earth!",
+    "reference": "Psalm 66:1 (BSB)",
+    "connected_to": "Psalm 66:2"
+  },
+  {
+    "text": "Sing the glory of His name; make His praise glorious.",
+    "reference": "Psalm 66:2 (BSB)",
+    "connected_to": "Psalm 66:3",
+    "connected_from": "Psalm 66:1"
+  },
+  {
+    "text": "Say to God, “How awesome are Your deeds! So great is Your power that Your enemies cower before You.",
+    "reference": "Psalm 66:3 (BSB)",
+    "connected_to": "Psalm 66:4",
+    "connected_from": "Psalm 66:2"
+  },
+  {
+    "text": "All the earth bows down to You; they sing praise to You; they sing praise to Your name.” Selah",
+    "reference": "Psalm 66:4 (BSB)",
+    "connected_to": "Psalm 66:5",
+    "connected_from": "Psalm 66:3"
+  },
+  {
+    "text": "Come and see the works of God; how awesome are His deeds toward mankind.",
+    "reference": "Psalm 66:5 (BSB)",
+    "connected_to": "Psalm 66:6",
+    "connected_from": "Psalm 66:4"
+  },
+  {
+    "text": "He turned the sea into dry land; they passed through the waters on foot; there we rejoiced in Him.",
+    "reference": "Psalm 66:6 (BSB)",
+    "connected_to": "Psalm 66:7",
+    "connected_from": "Psalm 66:5"
+  },
+  {
+    "text": "He rules forever by His power; His eyes watch the nations. Do not let the rebellious exalt themselves. Selah",
+    "reference": "Psalm 66:7 (BSB)",
+    "connected_to": "Psalm 66:8",
+    "connected_from": "Psalm 66:6"
+  },
+  {
+    "text": "Bless our God, O peoples; let the sound of His praise be heard.",
+    "reference": "Psalm 66:8 (BSB)",
+    "connected_to": "Psalm 66:9",
+    "connected_from": "Psalm 66:7"
+  },
+  {
+    "text": "He preserves our lives and keeps our feet from slipping.",
+    "reference": "Psalm 66:9 (BSB)",
+    "connected_to": "Psalm 66:10",
+    "connected_from": "Psalm 66:8"
+  },
+  {
+    "text": "For You, O God, have tested us; You have refined us like silver.",
+    "reference": "Psalm 66:10 (BSB)",
+    "connected_to": "Psalm 66:11",
+    "connected_from": "Psalm 66:9"
+  },
+  {
+    "text": "You led us into the net; You laid burdens on our backs.",
+    "reference": "Psalm 66:11 (BSB)",
+    "connected_to": "Psalm 66:12",
+    "connected_from": "Psalm 66:10"
+  },
+  {
+    "text": "You let men ride over our heads; we went through fire and water, but You brought us into abundance.",
+    "reference": "Psalm 66:12 (BSB)",
+    "connected_to": "Psalm 66:13",
+    "connected_from": "Psalm 66:11"
+  },
+  {
+    "text": "I will enter Your house with burnt offerings; I will fulfill my vows to You—",
+    "reference": "Psalm 66:13 (BSB)",
+    "connected_to": "Psalm 66:14",
+    "connected_from": "Psalm 66:12"
+  },
+  {
+    "text": "the vows that my lips promised and my mouth spoke in my distress.",
+    "reference": "Psalm 66:14 (BSB)",
+    "connected_to": "Psalm 66:15",
+    "connected_from": "Psalm 66:13"
+  },
+  {
+    "text": "I will offer You fatlings as burnt offerings, with the fragrant smoke of rams; I will offer bulls and goats. Selah",
+    "reference": "Psalm 66:15 (BSB)",
+    "connected_to": "Psalm 66:16",
+    "connected_from": "Psalm 66:14"
+  },
+  {
+    "text": "Come and listen, all you who fear God, and I will declare what He has done for me.",
+    "reference": "Psalm 66:16 (BSB)",
+    "connected_to": "Psalm 66:17",
+    "connected_from": "Psalm 66:15"
+  },
+  {
+    "text": "I cried out to Him with my mouth and praised Him with my tongue.",
+    "reference": "Psalm 66:17 (BSB)",
+    "connected_to": "Psalm 66:18",
+    "connected_from": "Psalm 66:16"
+  },
+  {
+    "text": "If I had cherished iniquity in my heart, the Lord would not have listened.",
+    "reference": "Psalm 66:18 (BSB)",
+    "connected_to": "Psalm 66:19",
+    "connected_from": "Psalm 66:17"
+  },
+  {
+    "text": "But God has surely heard; He has attended to the sound of my prayer.",
+    "reference": "Psalm 66:19 (BSB)",
+    "connected_to": "Psalm 66:20",
+    "connected_from": "Psalm 66:18"
+  },
+  {
+    "text": "Blessed be God, who has not rejected my prayer or withheld from me His loving devotion!",
+    "reference": "Psalm 66:20 (BSB)",
+    "connected_from": "Psalm 66:19"
+  }
+]

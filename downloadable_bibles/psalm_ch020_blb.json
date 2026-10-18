@@ -1,0 +1,54 @@
+[
+  {
+    "text": "For the one directing. A Psalm of David. <span class=|reftext|><a href=|#|><b>1</b></a> May YHWH answer you in the day of distress; may the name of the God of Jacob set you on high.",
+    "reference": "Psalm 20:1 (BLB)",
+    "connected_to": "Psalm 20:2"
+  },
+  {
+    "text": "May He send help for you from the Holy Place, and from Zion may He support you.",
+    "reference": "Psalm 20:2 (BLB)",
+    "connected_to": "Psalm 20:3",
+    "connected_from": "Psalm 20:1"
+  },
+  {
+    "text": "May He remember all your gifts, and anoint your burnt offering. Selah",
+    "reference": "Psalm 20:3 (BLB)",
+    "connected_to": "Psalm 20:4",
+    "connected_from": "Psalm 20:2"
+  },
+  {
+    "text": "may He give to you according to your heart, and fulfill all your counsel.",
+    "reference": "Psalm 20:4 (BLB)",
+    "connected_to": "Psalm 20:5",
+    "connected_from": "Psalm 20:3"
+  },
+  {
+    "text": "We will rejoice in your salvation, and we will raise a banner in the name of our God; may YHWH fulfill all your petitions.",
+    "reference": "Psalm 20:5 (BLB)",
+    "connected_to": "Psalm 20:6",
+    "connected_from": "Psalm 20:4"
+  },
+  {
+    "text": "Now I know that YHWH brings salvation [for] His anointed; He will answer him from His holy heaven, with the saving might of His right hand.",
+    "reference": "Psalm 20:6 (BLB)",
+    "connected_to": "Psalm 20:7",
+    "connected_from": "Psalm 20:5"
+  },
+  {
+    "text": "These in the chariots, and these in the horses, but we, in the name of YHWH our God, will remember.",
+    "reference": "Psalm 20:7 (BLB)",
+    "connected_to": "Psalm 20:8",
+    "connected_from": "Psalm 20:6"
+  },
+  {
+    "text": "They have bowed down and fallen, and we have risen and stand upright.",
+    "reference": "Psalm 20:8 (BLB)",
+    "connected_to": "Psalm 20:9",
+    "connected_from": "Psalm 20:7"
+  },
+  {
+    "text": "O YHWH, save the king! Answer us on the day we call.",
+    "reference": "Psalm 20:9 (BLB)",
+    "connected_from": "Psalm 20:8"
+  }
+]

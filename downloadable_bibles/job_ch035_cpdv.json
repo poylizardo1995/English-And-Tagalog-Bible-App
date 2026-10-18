@@ -1,0 +1,96 @@
+[
+  {
+    "text": "After this, Eliu again spoke in this way:",
+    "reference": "Job 35:1 (CPDV)",
+    "connected_to": "Job 35:2"
+  },
+  {
+    "text": "Does it seem right to you in your thoughts, that you should say, “I am more just than God?”",
+    "reference": "Job 35:2 (CPDV)",
+    "connected_to": "Job 35:3",
+    "connected_from": "Job 35:1"
+  },
+  {
+    "text": "For you said, “Having done what is right does not please you,” and, “How will it benefit you, if I sin?”",
+    "reference": "Job 35:3 (CPDV)",
+    "connected_to": "Job 35:4",
+    "connected_from": "Job 35:2"
+  },
+  {
+    "text": "And so, I will respond to your words, and to your friends who are with you.",
+    "reference": "Job 35:4 (CPDV)",
+    "connected_to": "Job 35:5",
+    "connected_from": "Job 35:3"
+  },
+  {
+    "text": "Look up towards heaven and consider; also, think about the sky, which is higher than you.",
+    "reference": "Job 35:5 (CPDV)",
+    "connected_to": "Job 35:6",
+    "connected_from": "Job 35:4"
+  },
+  {
+    "text": "If you sin, how will it hurt him? And if your iniquities are multiplied, what will you do against him?",
+    "reference": "Job 35:6 (CPDV)",
+    "connected_to": "Job 35:7",
+    "connected_from": "Job 35:5"
+  },
+  {
+    "text": "Furthermore, if you act justly, what will you give him, or what will he receive from your hand?",
+    "reference": "Job 35:7 (CPDV)",
+    "connected_to": "Job 35:8",
+    "connected_from": "Job 35:6"
+  },
+  {
+    "text": "Your impiety may hurt a man who is like you, though your justice may help the son of the man.",
+    "reference": "Job 35:8 (CPDV)",
+    "connected_to": "Job 35:9",
+    "connected_from": "Job 35:7"
+  },
+  {
+    "text": "Because of the multitude of false accusers, they will cry out; and they will lament because of the strong arm of the tyrants.",
+    "reference": "Job 35:9 (CPDV)",
+    "connected_to": "Job 35:10",
+    "connected_from": "Job 35:8"
+  },
+  {
+    "text": "Yet he has not said: “Where is God, who made me, who has given songs in the night,",
+    "reference": "Job 35:10 (CPDV)",
+    "connected_to": "Job 35:11",
+    "connected_from": "Job 35:9"
+  },
+  {
+    "text": "who teaches us in addition to the beasts of the earth, and who educates us along with the birds of the air?”",
+    "reference": "Job 35:11 (CPDV)",
+    "connected_to": "Job 35:12",
+    "connected_from": "Job 35:10"
+  },
+  {
+    "text": "There they will cry, and he will not heed them, because of the arrogance of the wicked.",
+    "reference": "Job 35:12 (CPDV)",
+    "connected_to": "Job 35:13",
+    "connected_from": "Job 35:11"
+  },
+  {
+    "text": "Therefore, God does not hear in vain, and the Almighty will look into each and every case.",
+    "reference": "Job 35:13 (CPDV)",
+    "connected_to": "Job 35:14",
+    "connected_from": "Job 35:12"
+  },
+  {
+    "text": "And so, when you say, “He does not examine,” be judged before him, but wait for him.",
+    "reference": "Job 35:14 (CPDV)",
+    "connected_to": "Job 35:15",
+    "connected_from": "Job 35:13"
+  },
+  {
+    "text": "For, at the present time, he does not bring forth his fury, nor does he punish sin exceedingly.",
+    "reference": "Job 35:15 (CPDV)",
+    "connected_to": "Job 35:16",
+    "connected_from": "Job 35:14"
+  },
+  {
+    "text": "Therefore, Job has opened his mouth in vain and has multiplied words without knowledge.",
+    "reference": "Job 35:16 (CPDV)",
+    "connected_from": "Job 35:15"
+  }
+]

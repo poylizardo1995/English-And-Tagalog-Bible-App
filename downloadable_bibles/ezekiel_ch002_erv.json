@@ -1,0 +1,60 @@
+[
+  {
+    "text": "And he said unto me, Son of man, stand upon thy feet, and I will speak with thee.",
+    "reference": "Ezekiel 2:1 (ERV)",
+    "connected_to": "Ezekiel 2:2"
+  },
+  {
+    "text": "And the spirit entered into me when he spake unto me, and set me upon my feet; and I heard him that spake unto me.",
+    "reference": "Ezekiel 2:2 (ERV)",
+    "connected_to": "Ezekiel 2:3",
+    "connected_from": "Ezekiel 2:1"
+  },
+  {
+    "text": "And he said unto me, Son of man, I send thee to the children of Israel, to nations that are rebellious, which have rebelled against me: they and their fathers have transgressed against me, even unto this very day.",
+    "reference": "Ezekiel 2:3 (ERV)",
+    "connected_to": "Ezekiel 2:4",
+    "connected_from": "Ezekiel 2:2"
+  },
+  {
+    "text": "And the children are impudent and stiffhearted; I do send thee unto them: and thou shalt say unto them, Thus saith the Lord GOD.",
+    "reference": "Ezekiel 2:4 (ERV)",
+    "connected_to": "Ezekiel 2:5",
+    "connected_from": "Ezekiel 2:3"
+  },
+  {
+    "text": "And they, whether they will hear, or whether they will forbear, (for they are a rebellious house,) yet shall know that there hath been a prophet among them.",
+    "reference": "Ezekiel 2:5 (ERV)",
+    "connected_to": "Ezekiel 2:6",
+    "connected_from": "Ezekiel 2:4"
+  },
+  {
+    "text": "And thou, son of man, be not afraid of them, neither be afraid of their words, though briers and thorns be with thee, and thou dost dwell among scorpions: be not afraid of their words, nor be dismayed at their looks, though they be a rebellious house.",
+    "reference": "Ezekiel 2:6 (ERV)",
+    "connected_to": "Ezekiel 2:7",
+    "connected_from": "Ezekiel 2:5"
+  },
+  {
+    "text": "And thou shalt speak my words unto them, whether they will hear, or whether they will forbear: for they are most rebellious.",
+    "reference": "Ezekiel 2:7 (ERV)",
+    "connected_to": "Ezekiel 2:8",
+    "connected_from": "Ezekiel 2:6"
+  },
+  {
+    "text": "But thou, son of man, hear what I say unto thee; be not thou rebellious like that rebellious house: open thy mouth, and eat that I give thee.",
+    "reference": "Ezekiel 2:8 (ERV)",
+    "connected_to": "Ezekiel 2:9",
+    "connected_from": "Ezekiel 2:7"
+  },
+  {
+    "text": "And when I looked, behold, an hand was put forth unto me; and, lo, a roll of a book was therein;",
+    "reference": "Ezekiel 2:9 (ERV)",
+    "connected_to": "Ezekiel 2:10",
+    "connected_from": "Ezekiel 2:8"
+  },
+  {
+    "text": "And he spread it before me; and it was written within and without: and there was written therein lamentations, and mourning, and woe.",
+    "reference": "Ezekiel 2:10 (ERV)",
+    "connected_from": "Ezekiel 2:9"
+  }
+]

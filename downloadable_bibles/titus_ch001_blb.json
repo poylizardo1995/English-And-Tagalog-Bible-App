@@ -1,0 +1,96 @@
+[
+  {
+    "text": "Paul, a servant of God and an apostle of Jesus Christ, according to the faith of the chosen of God and the knowledge of the truth that [is] according to godliness,",
+    "reference": "Titus 1:1 (BLB)",
+    "connected_to": "Titus 1:2"
+  },
+  {
+    "text": "upon the hope of eternal life, which God, who [is] without falsehood, promised before times eternal",
+    "reference": "Titus 1:2 (BLB)",
+    "connected_to": "Titus 1:3",
+    "connected_from": "Titus 1:1"
+  },
+  {
+    "text": "and revealed [in] His own seasons in His word, in the proclamation with which I was entrusted according to the command of God our Savior.",
+    "reference": "Titus 1:3 (BLB)",
+    "connected_to": "Titus 1:4",
+    "connected_from": "Titus 1:2"
+  },
+  {
+    "text": "To Titus, [my] genuine child according to a common faith: Grace and peace from God the Father and Christ Jesus our Savior.",
+    "reference": "Titus 1:4 (BLB)",
+    "connected_to": "Titus 1:5",
+    "connected_from": "Titus 1:3"
+  },
+  {
+    "text": "For the sake of this I left you in Crete, that you might set in order the things lacking and might appoint elders in every city, as I directed you,",
+    "reference": "Titus 1:5 (BLB)",
+    "connected_to": "Titus 1:6",
+    "connected_from": "Titus 1:4"
+  },
+  {
+    "text": "if anyone is blameless, the husband of one wife, having believing children, not under accusation of debauchery, or insubordinate.",
+    "reference": "Titus 1:6 (BLB)",
+    "connected_to": "Titus 1:7",
+    "connected_from": "Titus 1:5"
+  },
+  {
+    "text": "For it is necessary for the overseer to be blameless, as God’s steward—not self-pleasing, not prone to anger, not given to wine, not a striker, not greedy for shameful gain,",
+    "reference": "Titus 1:7 (BLB)",
+    "connected_to": "Titus 1:8",
+    "connected_from": "Titus 1:6"
+  },
+  {
+    "text": "but hospitable, a lover of good, sound-minded, righteous, holy, [and] self-controlled,",
+    "reference": "Titus 1:8 (BLB)",
+    "connected_to": "Titus 1:9",
+    "connected_from": "Titus 1:7"
+  },
+  {
+    "text": "holding to the faithful word according to the teaching, that he may be able both to exhort in sound teaching and to convict those contradicting [it].",
+    "reference": "Titus 1:9 (BLB)",
+    "connected_to": "Titus 1:10",
+    "connected_from": "Titus 1:8"
+  },
+  {
+    "text": "For there are also many insubordinate ones, empty talkers, and mind-deceivers, especially those of the circumcision,",
+    "reference": "Titus 1:10 (BLB)",
+    "connected_to": "Titus 1:11",
+    "connected_from": "Titus 1:9"
+  },
+  {
+    "text": "whom it is necessary to silence, who overturn whole households, teaching things [that] it is necessary not [to teach], for the sake of shameful gain.",
+    "reference": "Titus 1:11 (BLB)",
+    "connected_to": "Titus 1:12",
+    "connected_from": "Titus 1:10"
+  },
+  {
+    "text": "One of them, a prophet of their own, said, “Cretans [are] always liars, evil beasts, lazy gluttons.”",
+    "reference": "Titus 1:12 (BLB)",
+    "connected_to": "Titus 1:13",
+    "connected_from": "Titus 1:11"
+  },
+  {
+    "text": "This testimony is true, through which cause you are to rebuke them severely, so that they may be sound in the faith,",
+    "reference": "Titus 1:13 (BLB)",
+    "connected_to": "Titus 1:14",
+    "connected_from": "Titus 1:12"
+  },
+  {
+    "text": "not giving heed to Jewish myths and commandments of men turning away from the truth.",
+    "reference": "Titus 1:14 (BLB)",
+    "connected_to": "Titus 1:15",
+    "connected_from": "Titus 1:13"
+  },
+  {
+    "text": "All things [are] pure to the pure; but to those being defiled and unbelieving, nothing [is] pure. But both their mind and conscience are defiled.",
+    "reference": "Titus 1:15 (BLB)",
+    "connected_to": "Titus 1:16",
+    "connected_from": "Titus 1:14"
+  },
+  {
+    "text": "They profess to know God, but in works they deny [Him], being abominable and disobedient and unfit for any good work.",
+    "reference": "Titus 1:16 (BLB)",
+    "connected_from": "Titus 1:15"
+  }
+]

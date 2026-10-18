@@ -1,0 +1,84 @@
+[
+  {
+    "text": "Set the horn to thy mouth. As a vulture he cometh against the house of the LORD; Because they have transgressed My covenant, And trespassed against My law.",
+    "reference": "Hosea 8:1 (JPS)",
+    "connected_to": "Hosea 8:2"
+  },
+  {
+    "text": "Will they cry unto Me: ‘My God, we Israel know Thee’?",
+    "reference": "Hosea 8:2 (JPS)",
+    "connected_to": "Hosea 8:3",
+    "connected_from": "Hosea 8:1"
+  },
+  {
+    "text": "Israel hath cast off that which is good; The enemy shall pursue him.",
+    "reference": "Hosea 8:3 (JPS)",
+    "connected_to": "Hosea 8:4",
+    "connected_from": "Hosea 8:2"
+  },
+  {
+    "text": "They have set up kings, but not from Me, They have made princes, and I knew it not; Of their silver and their gold have they made them idols, That they may be cut off.",
+    "reference": "Hosea 8:4 (JPS)",
+    "connected_to": "Hosea 8:5",
+    "connected_from": "Hosea 8:3"
+  },
+  {
+    "text": "Thy calf, O Samaria, is cast off; Mine anger is kindled against them; How long will it be ere they attain to innocency?",
+    "reference": "Hosea 8:5 (JPS)",
+    "connected_to": "Hosea 8:6",
+    "connected_from": "Hosea 8:4"
+  },
+  {
+    "text": "For from Israel is even this: The craftsman made it, and it is no God; Yea, the calf of Samaria shall be broken in shivers.",
+    "reference": "Hosea 8:6 (JPS)",
+    "connected_to": "Hosea 8:7",
+    "connected_from": "Hosea 8:5"
+  },
+  {
+    "text": "For they sow the wind, and they shall reap the whirlwind; It hath no stalk, the bud that shall yield no meal; If so be it yield, strangers shall swallow it up.",
+    "reference": "Hosea 8:7 (JPS)",
+    "connected_to": "Hosea 8:8",
+    "connected_from": "Hosea 8:6"
+  },
+  {
+    "text": "Israel is swallowed up; Now are they become among the nations As a vessel wherein is no value.",
+    "reference": "Hosea 8:8 (JPS)",
+    "connected_to": "Hosea 8:9",
+    "connected_from": "Hosea 8:7"
+  },
+  {
+    "text": "For they are gone up to Assyria, Like a wild ass alone by himself; Ephraim hath hired lovers.",
+    "reference": "Hosea 8:9 (JPS)",
+    "connected_to": "Hosea 8:10",
+    "connected_from": "Hosea 8:8"
+  },
+  {
+    "text": "Yea, though they hire among the nations, Now will I gather them up; And they begin to be minished By reason of the burden of king and princes.",
+    "reference": "Hosea 8:10 (JPS)",
+    "connected_to": "Hosea 8:11",
+    "connected_from": "Hosea 8:9"
+  },
+  {
+    "text": "For Ephraim hath multiplied altars to sin, Yea, altars have been unto him to sin.",
+    "reference": "Hosea 8:11 (JPS)",
+    "connected_to": "Hosea 8:12",
+    "connected_from": "Hosea 8:10"
+  },
+  {
+    "text": "Though I write for him never so many things of My Law, They are accounted as a stranger’s.",
+    "reference": "Hosea 8:12 (JPS)",
+    "connected_to": "Hosea 8:13",
+    "connected_from": "Hosea 8:11"
+  },
+  {
+    "text": "As for the sacrifices that are made by fire unto Me, Let them sacrifice flesh and eat it, For the LORD accepteth them not. Now will He remember their iniquity, and punish their sins; They shall return to Egypt.",
+    "reference": "Hosea 8:13 (JPS)",
+    "connected_to": "Hosea 8:14",
+    "connected_from": "Hosea 8:12"
+  },
+  {
+    "text": "For Israel hath forgotten his Maker, And builded palaces, And Judah hath multiplied fortified cities; But I will send a fire upon his cities, And it shall devour the castles thereof.",
+    "reference": "Hosea 8:14 (JPS)",
+    "connected_from": "Hosea 8:13"
+  }
+]

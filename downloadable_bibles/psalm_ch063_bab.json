@@ -1,0 +1,66 @@
+[
+  {
+    "text": "A Psalm of David (beloved), when he was in the Wilderness of Judah (praised). <span class=|reftext|><a href=|#|><b>1</b></a> O God {Elohim}, You are my God. Earnestly I seek You; my soul thirsts for You. My body yearns for You in a dry and weary land without water.",
+    "reference": "Psalm 63:1 (BAB)",
+    "connected_to": "Psalm 63:2"
+  },
+  {
+    "text": "So I have seen You in the sanctuary and beheld Your power and glory.",
+    "reference": "Psalm 63:2 (BAB)",
+    "connected_to": "Psalm 63:3",
+    "connected_from": "Psalm 63:1"
+  },
+  {
+    "text": "Because Your loving devotion is better than life, my lips will glorify You.",
+    "reference": "Psalm 63:3 (BAB)",
+    "connected_to": "Psalm 63:4",
+    "connected_from": "Psalm 63:2"
+  },
+  {
+    "text": "So I will bless You as long as I live; in Your name I will lift my hands.",
+    "reference": "Psalm 63:4 (BAB)",
+    "connected_to": "Psalm 63:5",
+    "connected_from": "Psalm 63:3"
+  },
+  {
+    "text": "My soul is satisfied as with the richest of foods; with joyful lips my mouth will praise You.",
+    "reference": "Psalm 63:5 (BAB)",
+    "connected_to": "Psalm 63:6",
+    "connected_from": "Psalm 63:4"
+  },
+  {
+    "text": "When I remember You on my bed, I think of You through the watches of the night.",
+    "reference": "Psalm 63:6 (BAB)",
+    "connected_to": "Psalm 63:7",
+    "connected_from": "Psalm 63:5"
+  },
+  {
+    "text": "For You are my help; I will sing for joy in the shadow of Your wings.",
+    "reference": "Psalm 63:7 (BAB)",
+    "connected_to": "Psalm 63:8",
+    "connected_from": "Psalm 63:6"
+  },
+  {
+    "text": "My soul clings to You; Your right hand upholds me.",
+    "reference": "Psalm 63:8 (BAB)",
+    "connected_to": "Psalm 63:9",
+    "connected_from": "Psalm 63:7"
+  },
+  {
+    "text": "But those who seek my life to destroy it will go into the depths of the earth.",
+    "reference": "Psalm 63:9 (BAB)",
+    "connected_to": "Psalm 63:10",
+    "connected_from": "Psalm 63:8"
+  },
+  {
+    "text": "They will fall to the power of the sword; they will become a portion for foxes.",
+    "reference": "Psalm 63:10 (BAB)",
+    "connected_to": "Psalm 63:11",
+    "connected_from": "Psalm 63:9"
+  },
+  {
+    "text": "But the king will rejoice in God {Elohim}; all who swear by Him will exult, for the mouths of liars will be shut.",
+    "reference": "Psalm 63:11 (BAB)",
+    "connected_from": "Psalm 63:10"
+  }
+]

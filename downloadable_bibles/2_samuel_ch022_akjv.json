@@ -1,0 +1,306 @@
+[
+  {
+    "text": "And David spoke to the LORD the words of this song in the day that the LORD had delivered him out of the hand of all his enemies, and out of the hand of Saul:",
+    "reference": "2 Samuel 22:1 (AKJV)",
+    "connected_to": "2 Samuel 22:2"
+  },
+  {
+    "text": "And he said, The LORD is my rock, and my fortress, and my deliverer;",
+    "reference": "2 Samuel 22:2 (AKJV)",
+    "connected_to": "2 Samuel 22:3",
+    "connected_from": "2 Samuel 22:1"
+  },
+  {
+    "text": "The God of my rock; in him will I trust: he is my shield, and the horn of my salvation, my high tower, and my refuge, my savior; you save me from violence.",
+    "reference": "2 Samuel 22:3 (AKJV)",
+    "connected_to": "2 Samuel 22:4",
+    "connected_from": "2 Samuel 22:2"
+  },
+  {
+    "text": "I will call on the LORD, who is worthy to be praised: so shall I be saved from my enemies.",
+    "reference": "2 Samuel 22:4 (AKJV)",
+    "connected_to": "2 Samuel 22:5",
+    "connected_from": "2 Samuel 22:3"
+  },
+  {
+    "text": "When the waves of death compassed me, the floods of ungodly men made me afraid;",
+    "reference": "2 Samuel 22:5 (AKJV)",
+    "connected_to": "2 Samuel 22:6",
+    "connected_from": "2 Samuel 22:4"
+  },
+  {
+    "text": "The sorrows of hell compassed me about; the snares of death prevented me;",
+    "reference": "2 Samuel 22:6 (AKJV)",
+    "connected_to": "2 Samuel 22:7",
+    "connected_from": "2 Samuel 22:5"
+  },
+  {
+    "text": "In my distress I called on the LORD, and cried to my God: and he did hear my voice out of his temple, and my cry did enter into his ears.",
+    "reference": "2 Samuel 22:7 (AKJV)",
+    "connected_to": "2 Samuel 22:8",
+    "connected_from": "2 Samuel 22:6"
+  },
+  {
+    "text": "Then the earth shook and trembled; the foundations of heaven moved and shook, because he was wroth.",
+    "reference": "2 Samuel 22:8 (AKJV)",
+    "connected_to": "2 Samuel 22:9",
+    "connected_from": "2 Samuel 22:7"
+  },
+  {
+    "text": "There went up a smoke out of his nostrils, and fire out of his mouth devoured: coals were kindled by it.",
+    "reference": "2 Samuel 22:9 (AKJV)",
+    "connected_to": "2 Samuel 22:10",
+    "connected_from": "2 Samuel 22:8"
+  },
+  {
+    "text": "He bowed the heavens also, and came down; and darkness was under his feet.",
+    "reference": "2 Samuel 22:10 (AKJV)",
+    "connected_to": "2 Samuel 22:11",
+    "connected_from": "2 Samuel 22:9"
+  },
+  {
+    "text": "And he rode on a cherub, and did fly: and he was seen on the wings of the wind.",
+    "reference": "2 Samuel 22:11 (AKJV)",
+    "connected_to": "2 Samuel 22:12",
+    "connected_from": "2 Samuel 22:10"
+  },
+  {
+    "text": "And he made darkness pavilions round about him, dark waters, and thick clouds of the skies.",
+    "reference": "2 Samuel 22:12 (AKJV)",
+    "connected_to": "2 Samuel 22:13",
+    "connected_from": "2 Samuel 22:11"
+  },
+  {
+    "text": "Through the brightness before him were coals of fire kindled.",
+    "reference": "2 Samuel 22:13 (AKJV)",
+    "connected_to": "2 Samuel 22:14",
+    "connected_from": "2 Samuel 22:12"
+  },
+  {
+    "text": "The LORD thundered from heaven, and the most High uttered his voice.",
+    "reference": "2 Samuel 22:14 (AKJV)",
+    "connected_to": "2 Samuel 22:15",
+    "connected_from": "2 Samuel 22:13"
+  },
+  {
+    "text": "And he sent out arrows, and scattered them; lightning, and discomfited them.",
+    "reference": "2 Samuel 22:15 (AKJV)",
+    "connected_to": "2 Samuel 22:16",
+    "connected_from": "2 Samuel 22:14"
+  },
+  {
+    "text": "And the channels of the sea appeared, the foundations of the world were discovered, at the rebuking of the LORD, at the blast of the breath of his nostrils.",
+    "reference": "2 Samuel 22:16 (AKJV)",
+    "connected_to": "2 Samuel 22:17",
+    "connected_from": "2 Samuel 22:15"
+  },
+  {
+    "text": "He sent from above, he took me; he drew me out of many waters;",
+    "reference": "2 Samuel 22:17 (AKJV)",
+    "connected_to": "2 Samuel 22:18",
+    "connected_from": "2 Samuel 22:16"
+  },
+  {
+    "text": "He delivered me from my strong enemy, and from them that hated me: for they were too strong for me.",
+    "reference": "2 Samuel 22:18 (AKJV)",
+    "connected_to": "2 Samuel 22:19",
+    "connected_from": "2 Samuel 22:17"
+  },
+  {
+    "text": "They prevented me in the day of my calamity: but the LORD was my stay.",
+    "reference": "2 Samuel 22:19 (AKJV)",
+    "connected_to": "2 Samuel 22:20",
+    "connected_from": "2 Samuel 22:18"
+  },
+  {
+    "text": "He brought me forth also into a large place: he delivered me, because he delighted in me.",
+    "reference": "2 Samuel 22:20 (AKJV)",
+    "connected_to": "2 Samuel 22:21",
+    "connected_from": "2 Samuel 22:19"
+  },
+  {
+    "text": "The LORD rewarded me according to my righteousness: according to the cleanness of my hands has he recompensed me.",
+    "reference": "2 Samuel 22:21 (AKJV)",
+    "connected_to": "2 Samuel 22:22",
+    "connected_from": "2 Samuel 22:20"
+  },
+  {
+    "text": "For I have kept the ways of the LORD, and have not wickedly departed from my God.",
+    "reference": "2 Samuel 22:22 (AKJV)",
+    "connected_to": "2 Samuel 22:23",
+    "connected_from": "2 Samuel 22:21"
+  },
+  {
+    "text": "For all his judgments were before me: and as for his statutes, I did not depart from them.",
+    "reference": "2 Samuel 22:23 (AKJV)",
+    "connected_to": "2 Samuel 22:24",
+    "connected_from": "2 Samuel 22:22"
+  },
+  {
+    "text": "I was also upright before him, and have kept myself from my iniquity.",
+    "reference": "2 Samuel 22:24 (AKJV)",
+    "connected_to": "2 Samuel 22:25",
+    "connected_from": "2 Samuel 22:23"
+  },
+  {
+    "text": "Therefore the LORD has recompensed me according to my righteousness; according to my cleanness in his eye sight.",
+    "reference": "2 Samuel 22:25 (AKJV)",
+    "connected_to": "2 Samuel 22:26",
+    "connected_from": "2 Samuel 22:24"
+  },
+  {
+    "text": "With the merciful you will show yourself merciful, and with the upright man you will show yourself upright.",
+    "reference": "2 Samuel 22:26 (AKJV)",
+    "connected_to": "2 Samuel 22:27",
+    "connected_from": "2 Samuel 22:25"
+  },
+  {
+    "text": "With the pure you will show yourself pure; and with the fraudulent you will show yourself unsavory.",
+    "reference": "2 Samuel 22:27 (AKJV)",
+    "connected_to": "2 Samuel 22:28",
+    "connected_from": "2 Samuel 22:26"
+  },
+  {
+    "text": "And the afflicted people you will save: but your eyes are on the haughty, that you may bring them down.",
+    "reference": "2 Samuel 22:28 (AKJV)",
+    "connected_to": "2 Samuel 22:29",
+    "connected_from": "2 Samuel 22:27"
+  },
+  {
+    "text": "For you are my lamp, O LORD: and the LORD will lighten my darkness.",
+    "reference": "2 Samuel 22:29 (AKJV)",
+    "connected_to": "2 Samuel 22:30",
+    "connected_from": "2 Samuel 22:28"
+  },
+  {
+    "text": "For by you I have run through a troop: by my God have I leaped over a wall.",
+    "reference": "2 Samuel 22:30 (AKJV)",
+    "connected_to": "2 Samuel 22:31",
+    "connected_from": "2 Samuel 22:29"
+  },
+  {
+    "text": "As for God, his way is perfect; the word of the LORD is tried: he is a buckler to all them that trust in him.",
+    "reference": "2 Samuel 22:31 (AKJV)",
+    "connected_to": "2 Samuel 22:32",
+    "connected_from": "2 Samuel 22:30"
+  },
+  {
+    "text": "For who is God, save the LORD? and who is a rock, save our God?",
+    "reference": "2 Samuel 22:32 (AKJV)",
+    "connected_to": "2 Samuel 22:33",
+    "connected_from": "2 Samuel 22:31"
+  },
+  {
+    "text": "God is my strength and power: and he makes my way perfect.",
+    "reference": "2 Samuel 22:33 (AKJV)",
+    "connected_to": "2 Samuel 22:34",
+    "connected_from": "2 Samuel 22:32"
+  },
+  {
+    "text": "He makes my feet like hinds’ feet: and sets me on my high places.",
+    "reference": "2 Samuel 22:34 (AKJV)",
+    "connected_to": "2 Samuel 22:35",
+    "connected_from": "2 Samuel 22:33"
+  },
+  {
+    "text": "He teaches my hands to war; so that a bow of steel is broken by my arms.",
+    "reference": "2 Samuel 22:35 (AKJV)",
+    "connected_to": "2 Samuel 22:36",
+    "connected_from": "2 Samuel 22:34"
+  },
+  {
+    "text": "You have also given me the shield of your salvation: and your gentleness has made me great.",
+    "reference": "2 Samuel 22:36 (AKJV)",
+    "connected_to": "2 Samuel 22:37",
+    "connected_from": "2 Samuel 22:35"
+  },
+  {
+    "text": "You have enlarged my steps under me; so that my feet did not slip.",
+    "reference": "2 Samuel 22:37 (AKJV)",
+    "connected_to": "2 Samuel 22:38",
+    "connected_from": "2 Samuel 22:36"
+  },
+  {
+    "text": "I have pursued my enemies, and destroyed them; and turned not again until I had consumed them.",
+    "reference": "2 Samuel 22:38 (AKJV)",
+    "connected_to": "2 Samuel 22:39",
+    "connected_from": "2 Samuel 22:37"
+  },
+  {
+    "text": "And I have consumed them, and wounded them, that they could not arise: yes, they are fallen under my feet.",
+    "reference": "2 Samuel 22:39 (AKJV)",
+    "connected_to": "2 Samuel 22:40",
+    "connected_from": "2 Samuel 22:38"
+  },
+  {
+    "text": "For you have girded me with strength to battle: them that rose up against me have you subdued under me.",
+    "reference": "2 Samuel 22:40 (AKJV)",
+    "connected_to": "2 Samuel 22:41",
+    "connected_from": "2 Samuel 22:39"
+  },
+  {
+    "text": "You have also given me the necks of my enemies, that I might destroy them that hate me.",
+    "reference": "2 Samuel 22:41 (AKJV)",
+    "connected_to": "2 Samuel 22:42",
+    "connected_from": "2 Samuel 22:40"
+  },
+  {
+    "text": "They looked, but there was none to save; even to the LORD, but he answered them not.",
+    "reference": "2 Samuel 22:42 (AKJV)",
+    "connected_to": "2 Samuel 22:43",
+    "connected_from": "2 Samuel 22:41"
+  },
+  {
+    "text": "Then did I beat them as small as the dust of the earth, I did stamp them as the mire of the street, and did spread them abroad.",
+    "reference": "2 Samuel 22:43 (AKJV)",
+    "connected_to": "2 Samuel 22:44",
+    "connected_from": "2 Samuel 22:42"
+  },
+  {
+    "text": "You also have delivered me from the strivings of my people, you have kept me to be head of the heathen: a people which I knew not shall serve me.",
+    "reference": "2 Samuel 22:44 (AKJV)",
+    "connected_to": "2 Samuel 22:45",
+    "connected_from": "2 Samuel 22:43"
+  },
+  {
+    "text": "Strangers shall submit themselves to me: as soon as they hear, they shall be obedient to me.",
+    "reference": "2 Samuel 22:45 (AKJV)",
+    "connected_to": "2 Samuel 22:46",
+    "connected_from": "2 Samuel 22:44"
+  },
+  {
+    "text": "Strangers shall fade away, and they shall be afraid out of their close places.",
+    "reference": "2 Samuel 22:46 (AKJV)",
+    "connected_to": "2 Samuel 22:47",
+    "connected_from": "2 Samuel 22:45"
+  },
+  {
+    "text": "The LORD lives; and blessed be my rock; and exalted be the God of the rock of my salvation.",
+    "reference": "2 Samuel 22:47 (AKJV)",
+    "connected_to": "2 Samuel 22:48",
+    "connected_from": "2 Samuel 22:46"
+  },
+  {
+    "text": "It is God that avenges me, and that brings down the people under me.",
+    "reference": "2 Samuel 22:48 (AKJV)",
+    "connected_to": "2 Samuel 22:49",
+    "connected_from": "2 Samuel 22:47"
+  },
+  {
+    "text": "And that brings me forth from my enemies: you also have lifted me up on high above them that rose up against me: you have delivered me from the violent man.",
+    "reference": "2 Samuel 22:49 (AKJV)",
+    "connected_to": "2 Samuel 22:50",
+    "connected_from": "2 Samuel 22:48"
+  },
+  {
+    "text": "Therefore I will give thanks to you, O LORD, among the heathen, and I will sing praises to your name.",
+    "reference": "2 Samuel 22:50 (AKJV)",
+    "connected_to": "2 Samuel 22:51",
+    "connected_from": "2 Samuel 22:49"
+  },
+  {
+    "text": "He is the tower of salvation for his king: and shows mercy to his anointed, to David, and to his seed for ever more.",
+    "reference": "2 Samuel 22:51 (AKJV)",
+    "connected_from": "2 Samuel 22:50"
+  }
+]

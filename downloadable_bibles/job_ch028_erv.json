@@ -1,0 +1,168 @@
+[
+  {
+    "text": "Surely there is a mine for silver, and a place for gold which they refine.",
+    "reference": "Job 28:1 (ERV)",
+    "connected_to": "Job 28:2"
+  },
+  {
+    "text": "Iron is taken out of the earth, and brass is molten out of the stone.",
+    "reference": "Job 28:2 (ERV)",
+    "connected_to": "Job 28:3",
+    "connected_from": "Job 28:1"
+  },
+  {
+    "text": "Man setteth an end to darkness, and searcheth out to the furthest bound the stones of thick darkness and of the shadow of death.",
+    "reference": "Job 28:3 (ERV)",
+    "connected_to": "Job 28:4",
+    "connected_from": "Job 28:2"
+  },
+  {
+    "text": "He breaketh open a shaft away from where men sojourn; they are forgotten of the foot that passeth by; they hang afar from men, they swing to and fro.",
+    "reference": "Job 28:4 (ERV)",
+    "connected_to": "Job 28:5",
+    "connected_from": "Job 28:3"
+  },
+  {
+    "text": "As for the earth, out of it cometh bread: and underneath it is turned up as it were by fire.",
+    "reference": "Job 28:5 (ERV)",
+    "connected_to": "Job 28:6",
+    "connected_from": "Job 28:4"
+  },
+  {
+    "text": "The stones thereof are the place of sapphires, and it hath dust of gold.",
+    "reference": "Job 28:6 (ERV)",
+    "connected_to": "Job 28:7",
+    "connected_from": "Job 28:5"
+  },
+  {
+    "text": "That path no bird of prey knoweth, neither hath the falcon’s eye seen it:",
+    "reference": "Job 28:7 (ERV)",
+    "connected_to": "Job 28:8",
+    "connected_from": "Job 28:6"
+  },
+  {
+    "text": "The proud beasts have not trodden it, nor hath the fierce lion passed thereby.",
+    "reference": "Job 28:8 (ERV)",
+    "connected_to": "Job 28:9",
+    "connected_from": "Job 28:7"
+  },
+  {
+    "text": "He putteth forth his hand upon the flinty rock; he overturneth the mountains by the roots.",
+    "reference": "Job 28:9 (ERV)",
+    "connected_to": "Job 28:10",
+    "connected_from": "Job 28:8"
+  },
+  {
+    "text": "He cutteth out channels among the rocks; and his eye seeth every precious thing.",
+    "reference": "Job 28:10 (ERV)",
+    "connected_to": "Job 28:11",
+    "connected_from": "Job 28:9"
+  },
+  {
+    "text": "He bindeth the streams that they trickle not; and the thing that is hid bringeth he forth to light.",
+    "reference": "Job 28:11 (ERV)",
+    "connected_to": "Job 28:12",
+    "connected_from": "Job 28:10"
+  },
+  {
+    "text": "But where shall wisdom be found? and where is the place of understanding?",
+    "reference": "Job 28:12 (ERV)",
+    "connected_to": "Job 28:13",
+    "connected_from": "Job 28:11"
+  },
+  {
+    "text": "Man knoweth not the price thereof; neither is it found in the land of the living.",
+    "reference": "Job 28:13 (ERV)",
+    "connected_to": "Job 28:14",
+    "connected_from": "Job 28:12"
+  },
+  {
+    "text": "The deep saith, It is not in me: and the sea saith, It is not with me.",
+    "reference": "Job 28:14 (ERV)",
+    "connected_to": "Job 28:15",
+    "connected_from": "Job 28:13"
+  },
+  {
+    "text": "It cannot be gotten for gold, neither shall silver be weighed for the price thereof.",
+    "reference": "Job 28:15 (ERV)",
+    "connected_to": "Job 28:16",
+    "connected_from": "Job 28:14"
+  },
+  {
+    "text": "It cannot be valued with the gold of Ophir, with the precious onyx, or the sapphire.",
+    "reference": "Job 28:16 (ERV)",
+    "connected_to": "Job 28:17",
+    "connected_from": "Job 28:15"
+  },
+  {
+    "text": "Gold and glass cannot equal it: neither shall the exchange thereof be jewels of fine gold.",
+    "reference": "Job 28:17 (ERV)",
+    "connected_to": "Job 28:18",
+    "connected_from": "Job 28:16"
+  },
+  {
+    "text": "No mention shall be made of coral or of crystal: yea, the price of wisdom is above rubies.",
+    "reference": "Job 28:18 (ERV)",
+    "connected_to": "Job 28:19",
+    "connected_from": "Job 28:17"
+  },
+  {
+    "text": "The topaz of Ethiopia shall not equal it, neither shall it be valued with pure gold.",
+    "reference": "Job 28:19 (ERV)",
+    "connected_to": "Job 28:20",
+    "connected_from": "Job 28:18"
+  },
+  {
+    "text": "Whence then cometh wisdom? and where is the place of understanding?",
+    "reference": "Job 28:20 (ERV)",
+    "connected_to": "Job 28:21",
+    "connected_from": "Job 28:19"
+  },
+  {
+    "text": "Seeing it is hid from the eyes of all living, and kept close from the fowls of the air.",
+    "reference": "Job 28:21 (ERV)",
+    "connected_to": "Job 28:22",
+    "connected_from": "Job 28:20"
+  },
+  {
+    "text": "Destruction and Death say, We have heard a rumour thereof with our ears.",
+    "reference": "Job 28:22 (ERV)",
+    "connected_to": "Job 28:23",
+    "connected_from": "Job 28:21"
+  },
+  {
+    "text": "God understandeth the way thereof, and he knoweth the place thereof.",
+    "reference": "Job 28:23 (ERV)",
+    "connected_to": "Job 28:24",
+    "connected_from": "Job 28:22"
+  },
+  {
+    "text": "For he looketh to the ends of the earth, and seeth under the whole heaven;",
+    "reference": "Job 28:24 (ERV)",
+    "connected_to": "Job 28:25",
+    "connected_from": "Job 28:23"
+  },
+  {
+    "text": "To make a weight for the wind; yea, he meteth out the waters by measure.",
+    "reference": "Job 28:25 (ERV)",
+    "connected_to": "Job 28:26",
+    "connected_from": "Job 28:24"
+  },
+  {
+    "text": "When he made a decree for the rain, and a way for the lightning of the thunder:",
+    "reference": "Job 28:26 (ERV)",
+    "connected_to": "Job 28:27",
+    "connected_from": "Job 28:25"
+  },
+  {
+    "text": "Then did he see it, and declare it; he established it, yea, and searched it out.",
+    "reference": "Job 28:27 (ERV)",
+    "connected_to": "Job 28:28",
+    "connected_from": "Job 28:26"
+  },
+  {
+    "text": "And unto man he said, Behold, the fear of the Lord, that is wisdom; and to depart from evil is understanding.",
+    "reference": "Job 28:28 (ERV)",
+    "connected_from": "Job 28:27"
+  }
+]

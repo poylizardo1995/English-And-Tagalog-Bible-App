@@ -1,0 +1,12 @@
+[
+  {
+    "text": "A Psalm of Praise. O praise Jehovah, all ye nations; Laud him, all ye peoples.",
+    "reference": "Psalm 117:1 (ASV)",
+    "connected_to": "Psalm 117:2"
+  },
+  {
+    "text": "For his lovingkindness is great toward us; And the truth of Jehovah endureth for ever. Praise ye Jehovah.",
+    "reference": "Psalm 117:2 (ASV)",
+    "connected_from": "Psalm 117:1"
+  }
+]

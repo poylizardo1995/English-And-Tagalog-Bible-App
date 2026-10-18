@@ -1,0 +1,144 @@
+[
+  {
+    "text": "Paul, an apostle, not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead,",
+    "reference": "Galatians 1:1 (DRB)",
+    "connected_to": "Galatians 1:2"
+  },
+  {
+    "text": "And all the brethren who are with me, to the churches of Galatia.",
+    "reference": "Galatians 1:2 (DRB)",
+    "connected_to": "Galatians 1:3",
+    "connected_from": "Galatians 1:1"
+  },
+  {
+    "text": "Grace be to you, and peace from God the Father, and from our Lord Jesus Christ,",
+    "reference": "Galatians 1:3 (DRB)",
+    "connected_to": "Galatians 1:4",
+    "connected_from": "Galatians 1:2"
+  },
+  {
+    "text": "Who gave himself for our sins, that he might deliver us from this present wicked world, according to the will of God and our Father:",
+    "reference": "Galatians 1:4 (DRB)",
+    "connected_to": "Galatians 1:5",
+    "connected_from": "Galatians 1:3"
+  },
+  {
+    "text": "To whom is glory for ever and ever. Amen.",
+    "reference": "Galatians 1:5 (DRB)",
+    "connected_to": "Galatians 1:6",
+    "connected_from": "Galatians 1:4"
+  },
+  {
+    "text": "I wonder that you are so soon removed from him that called you into the grace of Christ, unto another gospel.",
+    "reference": "Galatians 1:6 (DRB)",
+    "connected_to": "Galatians 1:7",
+    "connected_from": "Galatians 1:5"
+  },
+  {
+    "text": "Which is not another, only there are some that trouble you, and would pervert the gospel of Christ.",
+    "reference": "Galatians 1:7 (DRB)",
+    "connected_to": "Galatians 1:8",
+    "connected_from": "Galatians 1:6"
+  },
+  {
+    "text": "But though we, or an angel from heaven, preach a gospel to you besides that which we have preached to you, let him be anathema.",
+    "reference": "Galatians 1:8 (DRB)",
+    "connected_to": "Galatians 1:9",
+    "connected_from": "Galatians 1:7"
+  },
+  {
+    "text": "As we said before, so now I say again: If any one preach to you a gospel, besides that which you have received, let him be anathema.",
+    "reference": "Galatians 1:9 (DRB)",
+    "connected_to": "Galatians 1:10",
+    "connected_from": "Galatians 1:8"
+  },
+  {
+    "text": "For do I now persuade men, or God? Or do I seek to please men? If I yet pleased men, I should not be the servant of Christ.",
+    "reference": "Galatians 1:10 (DRB)",
+    "connected_to": "Galatians 1:11",
+    "connected_from": "Galatians 1:9"
+  },
+  {
+    "text": "For I give you to understand, brethren, that the gospel which was preached by me is not according to man.",
+    "reference": "Galatians 1:11 (DRB)",
+    "connected_to": "Galatians 1:12",
+    "connected_from": "Galatians 1:10"
+  },
+  {
+    "text": "For neither did I receive it of man, nor did I learn it; but by the revelation of Jesus Christ.",
+    "reference": "Galatians 1:12 (DRB)",
+    "connected_to": "Galatians 1:13",
+    "connected_from": "Galatians 1:11"
+  },
+  {
+    "text": "For you have heard of my conversation in time past in the Jews’ religion: how that, beyond measure, I persecuted the church of God, and wasted it.",
+    "reference": "Galatians 1:13 (DRB)",
+    "connected_to": "Galatians 1:14",
+    "connected_from": "Galatians 1:12"
+  },
+  {
+    "text": "And I made progress in the Jews’ religion above many of my equals in my own nation, being more abundantly zealous for the traditions of my fathers.",
+    "reference": "Galatians 1:14 (DRB)",
+    "connected_to": "Galatians 1:15",
+    "connected_from": "Galatians 1:13"
+  },
+  {
+    "text": "But when it pleased him, who separated me from my mother’s womb, and called me by his grace,",
+    "reference": "Galatians 1:15 (DRB)",
+    "connected_to": "Galatians 1:16",
+    "connected_from": "Galatians 1:14"
+  },
+  {
+    "text": "To reveal his Son in me, that I might preach him among the Gentiles, immediately I condescended not to flesh and blood.",
+    "reference": "Galatians 1:16 (DRB)",
+    "connected_to": "Galatians 1:17",
+    "connected_from": "Galatians 1:15"
+  },
+  {
+    "text": "Neither went I to Jerusalem, to the apostles who were before me: but I went into Arabia, and again I returned to Damascus.",
+    "reference": "Galatians 1:17 (DRB)",
+    "connected_to": "Galatians 1:18",
+    "connected_from": "Galatians 1:16"
+  },
+  {
+    "text": "Then, after three years, I went to Jerusalem, to see Peter, and I tarried with him fifteen days.",
+    "reference": "Galatians 1:18 (DRB)",
+    "connected_to": "Galatians 1:19",
+    "connected_from": "Galatians 1:17"
+  },
+  {
+    "text": "But other of the apostles I saw none, saving James the brother of the Lord.",
+    "reference": "Galatians 1:19 (DRB)",
+    "connected_to": "Galatians 1:20",
+    "connected_from": "Galatians 1:18"
+  },
+  {
+    "text": "Now the things which I write to you, behold, before God, I lie not.",
+    "reference": "Galatians 1:20 (DRB)",
+    "connected_to": "Galatians 1:21",
+    "connected_from": "Galatians 1:19"
+  },
+  {
+    "text": "Afterwards I came into the regions of Syria and Cilicia.",
+    "reference": "Galatians 1:21 (DRB)",
+    "connected_to": "Galatians 1:22",
+    "connected_from": "Galatians 1:20"
+  },
+  {
+    "text": "And I was unknown by face to the churches of Judea, which were in Christ:",
+    "reference": "Galatians 1:22 (DRB)",
+    "connected_to": "Galatians 1:23",
+    "connected_from": "Galatians 1:21"
+  },
+  {
+    "text": "But they had heard only: He, who persecuted us in times past, doth now preach the faith which once he impugned:",
+    "reference": "Galatians 1:23 (DRB)",
+    "connected_to": "Galatians 1:24",
+    "connected_from": "Galatians 1:22"
+  },
+  {
+    "text": "And they glorified God in me.",
+    "reference": "Galatians 1:24 (DRB)",
+    "connected_from": "Galatians 1:23"
+  }
+]

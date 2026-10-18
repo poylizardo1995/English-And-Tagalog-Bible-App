@@ -1,0 +1,276 @@
+[
+  {
+    "text": "Again Jesus spoke to them in figurative language.",
+    "reference": "Matthew 22:1 (WNT)",
+    "connected_to": "Matthew 22:2"
+  },
+  {
+    "text": "“The Kingdom of the Heavens,” He said, “may be compared to a king who celebrated the marriage of his son,",
+    "reference": "Matthew 22:2 (WNT)",
+    "connected_to": "Matthew 22:3",
+    "connected_from": "Matthew 22:1"
+  },
+  {
+    "text": "and sent his servants to call the invited guests to the wedding, but they were unwilling to come.",
+    "reference": "Matthew 22:3 (WNT)",
+    "connected_to": "Matthew 22:4",
+    "connected_from": "Matthew 22:2"
+  },
+  {
+    "text": "“Again he sent other servants with a message to those who were invited. “’My breakfast is now ready,” he said, ‘my bullocks and fat cattle are killed, and every preparation is made: come to the wedding.’",
+    "reference": "Matthew 22:4 (WNT)",
+    "connected_to": "Matthew 22:5",
+    "connected_from": "Matthew 22:3"
+  },
+  {
+    "text": "“They however gave no heed, but went, one to his home in the country, another to his business;",
+    "reference": "Matthew 22:5 (WNT)",
+    "connected_to": "Matthew 22:6",
+    "connected_from": "Matthew 22:4"
+  },
+  {
+    "text": "and the rest seized the king’s servants, maltreated them, and murdered them.",
+    "reference": "Matthew 22:6 (WNT)",
+    "connected_to": "Matthew 22:7",
+    "connected_from": "Matthew 22:5"
+  },
+  {
+    "text": "So the king’s anger was stirred, and he sent his troops and destroyed those murderers and burnt their city.",
+    "reference": "Matthew 22:7 (WNT)",
+    "connected_to": "Matthew 22:8",
+    "connected_from": "Matthew 22:6"
+  },
+  {
+    "text": "Then he said to his servants, “’The wedding banquet is ready, but those who were invited were unworthy of it.",
+    "reference": "Matthew 22:8 (WNT)",
+    "connected_to": "Matthew 22:9",
+    "connected_from": "Matthew 22:7"
+  },
+  {
+    "text": "Go out therefore to the crossroads, and everybody you meet invite to the wedding.’",
+    "reference": "Matthew 22:9 (WNT)",
+    "connected_to": "Matthew 22:10",
+    "connected_from": "Matthew 22:8"
+  },
+  {
+    "text": "“So they went out into the roads and gathered together all they could find, both bad and good, and the banqueting hall was filled with guests.",
+    "reference": "Matthew 22:10 (WNT)",
+    "connected_to": "Matthew 22:11",
+    "connected_from": "Matthew 22:9"
+  },
+  {
+    "text": "“Now the king came in to see the guests; and among them he discovered one who was not wearing a wedding-robe.",
+    "reference": "Matthew 22:11 (WNT)",
+    "connected_to": "Matthew 22:12",
+    "connected_from": "Matthew 22:10"
+  },
+  {
+    "text": "“’My friend,’ he said, ‘how is it that you came in here without a wedding robe?’",
+    "reference": "Matthew 22:12 (WNT)",
+    "connected_to": "Matthew 22:13",
+    "connected_from": "Matthew 22:11"
+  },
+  {
+    "text": "“The man stood speechless. Then the king said to the servants, “’Bind him hand and foot and fling him into the darkness outside: there will be the weeping aloud and the gnashing of teeth.’",
+    "reference": "Matthew 22:13 (WNT)",
+    "connected_to": "Matthew 22:14",
+    "connected_from": "Matthew 22:12"
+  },
+  {
+    "text": "“For there are many called, but few chosen.”",
+    "reference": "Matthew 22:14 (WNT)",
+    "connected_to": "Matthew 22:15",
+    "connected_from": "Matthew 22:13"
+  },
+  {
+    "text": "Then the Pharisees went and consulted together how they might entrap Him in His conversation.",
+    "reference": "Matthew 22:15 (WNT)",
+    "connected_to": "Matthew 22:16",
+    "connected_from": "Matthew 22:14"
+  },
+  {
+    "text": "So they sent to Him their disciples together with the Herodians; who said, “Teacher, we know that you are truthful and that you faithfully teach God’s truth; and that no fear of man misleads you, for you are not biased by men’s wealth or rank.",
+    "reference": "Matthew 22:16 (WNT)",
+    "connected_to": "Matthew 22:17",
+    "connected_from": "Matthew 22:15"
+  },
+  {
+    "text": "Give us your judgement therefore: is it allowable for us to pay a poll-tax to Caesar, or not?”",
+    "reference": "Matthew 22:17 (WNT)",
+    "connected_to": "Matthew 22:18",
+    "connected_from": "Matthew 22:16"
+  },
+  {
+    "text": "Perceiving their wickedness, Jesus replied, “Why are you hypocrites trying to ensnare me?",
+    "reference": "Matthew 22:18 (WNT)",
+    "connected_to": "Matthew 22:19",
+    "connected_from": "Matthew 22:17"
+  },
+  {
+    "text": "Show me the tribute coin.” And they brought Him a shilling.",
+    "reference": "Matthew 22:19 (WNT)",
+    "connected_to": "Matthew 22:20",
+    "connected_from": "Matthew 22:18"
+  },
+  {
+    "text": "“Whose likeness and inscription,” He asked, “is this?”",
+    "reference": "Matthew 22:20 (WNT)",
+    "connected_to": "Matthew 22:21",
+    "connected_from": "Matthew 22:19"
+  },
+  {
+    "text": "“Caesar’s,” they replied. “Pay therefore,” He rejoined, “what is Caesar’s to Caesar; and what is God’s to God.”",
+    "reference": "Matthew 22:21 (WNT)",
+    "connected_to": "Matthew 22:22",
+    "connected_from": "Matthew 22:20"
+  },
+  {
+    "text": "They heard this, and were astonished; then left Him, and went their way.",
+    "reference": "Matthew 22:22 (WNT)",
+    "connected_to": "Matthew 22:23",
+    "connected_from": "Matthew 22:21"
+  },
+  {
+    "text": "On the same day a party of Sadducees came to Him, contending that there is no resurrection. And they put this case to Him.",
+    "reference": "Matthew 22:23 (WNT)",
+    "connected_to": "Matthew 22:24",
+    "connected_from": "Matthew 22:22"
+  },
+  {
+    "text": "“Teacher,” they said, “Moses enjoined, ‘If a man die childless, his brother shall marry his widow, and raise up a family for him.’",
+    "reference": "Matthew 22:24 (WNT)",
+    "connected_to": "Matthew 22:25",
+    "connected_from": "Matthew 22:23"
+  },
+  {
+    "text": "Now we had among us seven brothers. The eldest of them married, but died childless, leaving his wife to his brother.",
+    "reference": "Matthew 22:25 (WNT)",
+    "connected_to": "Matthew 22:26",
+    "connected_from": "Matthew 22:24"
+  },
+  {
+    "text": "So also did the second and the third, down to the seventh,",
+    "reference": "Matthew 22:26 (WNT)",
+    "connected_to": "Matthew 22:27",
+    "connected_from": "Matthew 22:25"
+  },
+  {
+    "text": "till the woman also died, after surviving them all.",
+    "reference": "Matthew 22:27 (WNT)",
+    "connected_to": "Matthew 22:28",
+    "connected_from": "Matthew 22:26"
+  },
+  {
+    "text": "At the Resurrection, therefore, whose wife of the seven will she be? for they all married her.”",
+    "reference": "Matthew 22:28 (WNT)",
+    "connected_to": "Matthew 22:29",
+    "connected_from": "Matthew 22:27"
+  },
+  {
+    "text": "The reply of Jesus was, “You are in error, through ignorance of the Scriptures and of the power of God.",
+    "reference": "Matthew 22:29 (WNT)",
+    "connected_to": "Matthew 22:30",
+    "connected_from": "Matthew 22:28"
+  },
+  {
+    "text": "For in the Resurrection, men neither marry nor are women given in marriage, but they are like angels in Heaven.",
+    "reference": "Matthew 22:30 (WNT)",
+    "connected_to": "Matthew 22:31",
+    "connected_from": "Matthew 22:29"
+  },
+  {
+    "text": "But as to the Resurrection of the dead, have you never read what God says to you,",
+    "reference": "Matthew 22:31 (WNT)",
+    "connected_to": "Matthew 22:32",
+    "connected_from": "Matthew 22:30"
+  },
+  {
+    "text": "I am the God of Abraham, the God of Isaac, and the God of Jacob’? He is not the God of dead, but of living men.”",
+    "reference": "Matthew 22:32 (WNT)",
+    "connected_to": "Matthew 22:33",
+    "connected_from": "Matthew 22:31"
+  },
+  {
+    "text": "All the crowd heard this, and were filled with amazement at His teaching.",
+    "reference": "Matthew 22:33 (WNT)",
+    "connected_to": "Matthew 22:34",
+    "connected_from": "Matthew 22:32"
+  },
+  {
+    "text": "Now the Pharisees came up when they heard that He had silenced the Sadducees,",
+    "reference": "Matthew 22:34 (WNT)",
+    "connected_to": "Matthew 22:35",
+    "connected_from": "Matthew 22:33"
+  },
+  {
+    "text": "and one of them, an expounder of the Law, asked Him as a test question,",
+    "reference": "Matthew 22:35 (WNT)",
+    "connected_to": "Matthew 22:36",
+    "connected_from": "Matthew 22:34"
+  },
+  {
+    "text": "“Teacher, which is the greatest Commandment in the Law?”",
+    "reference": "Matthew 22:36 (WNT)",
+    "connected_to": "Matthew 22:37",
+    "connected_from": "Matthew 22:35"
+  },
+  {
+    "text": "“’Thou shalt love the Lord thy God,’” He answered, “’with thy whole heart, thy whole soul, thy whole mind.’",
+    "reference": "Matthew 22:37 (WNT)",
+    "connected_to": "Matthew 22:38",
+    "connected_from": "Matthew 22:36"
+  },
+  {
+    "text": "This is the greatest and foremost Commandment.",
+    "reference": "Matthew 22:38 (WNT)",
+    "connected_to": "Matthew 22:39",
+    "connected_from": "Matthew 22:37"
+  },
+  {
+    "text": "And the second is similar to it: ‘Thou shalt love thy fellow man as much as thyself.’",
+    "reference": "Matthew 22:39 (WNT)",
+    "connected_to": "Matthew 22:40",
+    "connected_from": "Matthew 22:38"
+  },
+  {
+    "text": "The whole of the Law and the Prophets is summed up in these two Commandments.”",
+    "reference": "Matthew 22:40 (WNT)",
+    "connected_to": "Matthew 22:41",
+    "connected_from": "Matthew 22:39"
+  },
+  {
+    "text": "While the Pharisees were still assembled there, Jesus put a question to them.",
+    "reference": "Matthew 22:41 (WNT)",
+    "connected_to": "Matthew 22:42",
+    "connected_from": "Matthew 22:40"
+  },
+  {
+    "text": "“What think you about the Christ,” He said, “whose son is He?” “David’s,” they replied.",
+    "reference": "Matthew 22:42 (WNT)",
+    "connected_to": "Matthew 22:43",
+    "connected_from": "Matthew 22:41"
+  },
+  {
+    "text": "“How then,” He asked, “does David, taught by the Spirit, call Him Lord, when he says,",
+    "reference": "Matthew 22:43 (WNT)",
+    "connected_to": "Matthew 22:44",
+    "connected_from": "Matthew 22:42"
+  },
+  {
+    "text": "“’The Lord said to my Lord, sit at My right hand until I have put thy foes beneath thy feet’?",
+    "reference": "Matthew 22:44 (WNT)",
+    "connected_to": "Matthew 22:45",
+    "connected_from": "Matthew 22:43"
+  },
+  {
+    "text": "“If therefore David calls Him Lord, how can He be his son?”",
+    "reference": "Matthew 22:45 (WNT)",
+    "connected_to": "Matthew 22:46",
+    "connected_from": "Matthew 22:44"
+  },
+  {
+    "text": "No one could say a word in reply, nor from that day did any one venture again to put a question to Him.",
+    "reference": "Matthew 22:46 (WNT)",
+    "connected_from": "Matthew 22:45"
+  }
+]

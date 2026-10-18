@@ -1,0 +1,84 @@
+[
+  {
+    "text": "Praise ye the Lord from the heavens: praise ye him in the high places.",
+    "reference": "Psalm 148:1 (DRB)",
+    "connected_to": "Psalm 148:2"
+  },
+  {
+    "text": "Praise ye him , all his angels: praise ye him, all his hosts.",
+    "reference": "Psalm 148:2 (DRB)",
+    "connected_to": "Psalm 148:3",
+    "connected_from": "Psalm 148:1"
+  },
+  {
+    "text": "Praise ye him, O sun and moon: praise him, all ye stars and light.",
+    "reference": "Psalm 148:3 (DRB)",
+    "connected_to": "Psalm 148:4",
+    "connected_from": "Psalm 148:2"
+  },
+  {
+    "text": "Praise him, ye heavens of heavens: and let all the waters that are above the heavens",
+    "reference": "Psalm 148:4 (DRB)",
+    "connected_to": "Psalm 148:5",
+    "connected_from": "Psalm 148:3"
+  },
+  {
+    "text": "praise the name of the Lord. For he spoke, and they were made: he commanded, and they were created.",
+    "reference": "Psalm 148:5 (DRB)",
+    "connected_to": "Psalm 148:6",
+    "connected_from": "Psalm 148:4"
+  },
+  {
+    "text": "He hath established them for ever, and for ages of ages: he hath made a decree, and it shall not pass away.",
+    "reference": "Psalm 148:6 (DRB)",
+    "connected_to": "Psalm 148:7",
+    "connected_from": "Psalm 148:5"
+  },
+  {
+    "text": "Praise the Lord from the earth, ye dragons, and all ye deeps:",
+    "reference": "Psalm 148:7 (DRB)",
+    "connected_to": "Psalm 148:8",
+    "connected_from": "Psalm 148:6"
+  },
+  {
+    "text": "Fire, hail, snow, ice, stormy winds which fulfil his word:",
+    "reference": "Psalm 148:8 (DRB)",
+    "connected_to": "Psalm 148:9",
+    "connected_from": "Psalm 148:7"
+  },
+  {
+    "text": "Mountains and all hills, fruitful trees and all cedars:",
+    "reference": "Psalm 148:9 (DRB)",
+    "connected_to": "Psalm 148:10",
+    "connected_from": "Psalm 148:8"
+  },
+  {
+    "text": "Beasts and all cattle: serpents and feathered fowls:",
+    "reference": "Psalm 148:10 (DRB)",
+    "connected_to": "Psalm 148:11",
+    "connected_from": "Psalm 148:9"
+  },
+  {
+    "text": "Kings of the earth and all people: princes and all judges of the earth:",
+    "reference": "Psalm 148:11 (DRB)",
+    "connected_to": "Psalm 148:12",
+    "connected_from": "Psalm 148:10"
+  },
+  {
+    "text": "Young men and maidens: let the old with the younger, praise the name of the Lord:",
+    "reference": "Psalm 148:12 (DRB)",
+    "connected_to": "Psalm 148:13",
+    "connected_from": "Psalm 148:11"
+  },
+  {
+    "text": "for his name alone is exalted.",
+    "reference": "Psalm 148:13 (DRB)",
+    "connected_to": "Psalm 148:14",
+    "connected_from": "Psalm 148:12"
+  },
+  {
+    "text": "The praise of him is above heaven and earth: and he hath exalted the horn of his people. A hymn to all his saints: to the children of Israel, a people approaching to him. Alleluia.",
+    "reference": "Psalm 148:14 (DRB)",
+    "connected_from": "Psalm 148:13"
+  }
+]

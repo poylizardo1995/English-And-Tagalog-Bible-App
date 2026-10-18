@@ -1,0 +1,246 @@
+[
+  {
+    "text": "And the children of Israel set forward, and pitched in the plains of Moab on this side Jordan by Jericho.",
+    "reference": "Numbers 22:1 (AKJV)",
+    "connected_to": "Numbers 22:2"
+  },
+  {
+    "text": "And Balak the son of Zippor saw all that Israel had done to the Amorites.",
+    "reference": "Numbers 22:2 (AKJV)",
+    "connected_to": "Numbers 22:3",
+    "connected_from": "Numbers 22:1"
+  },
+  {
+    "text": "And Moab was sore afraid of the people, because they were many: and Moab was distressed because of the children of Israel.",
+    "reference": "Numbers 22:3 (AKJV)",
+    "connected_to": "Numbers 22:4",
+    "connected_from": "Numbers 22:2"
+  },
+  {
+    "text": "And Moab said to the elders of Midian, Now shall this company lick up all that are round about us, as the ox licks up the grass of the field. And Balak the son of Zippor was king of the Moabites at that time.",
+    "reference": "Numbers 22:4 (AKJV)",
+    "connected_to": "Numbers 22:5",
+    "connected_from": "Numbers 22:3"
+  },
+  {
+    "text": "He sent messengers therefore to Balaam the son of Beor to Pethor, which is by the river of the land of the children of his people, to call him, saying, Behold, there is a people come out from Egypt: behold, they cover the face of the earth, and they abide over against me:",
+    "reference": "Numbers 22:5 (AKJV)",
+    "connected_to": "Numbers 22:6",
+    "connected_from": "Numbers 22:4"
+  },
+  {
+    "text": "Come now therefore, I pray you, curse me this people; for they are too mighty for me: peradventure I shall prevail, that we may smite them, and that I may drive them out of the land: for I know that he whom you bless is blessed, and he whom you curse is cursed.",
+    "reference": "Numbers 22:6 (AKJV)",
+    "connected_to": "Numbers 22:7",
+    "connected_from": "Numbers 22:5"
+  },
+  {
+    "text": "And the elders of Moab and the elders of Midian departed with the rewards of divination in their hand; and they came to Balaam, and spoke to him the words of Balak.",
+    "reference": "Numbers 22:7 (AKJV)",
+    "connected_to": "Numbers 22:8",
+    "connected_from": "Numbers 22:6"
+  },
+  {
+    "text": "And he said to them, Lodge here this night, and I will bring you word again, as the LORD shall speak to me: and the princes of Moab stayed with Balaam.",
+    "reference": "Numbers 22:8 (AKJV)",
+    "connected_to": "Numbers 22:9",
+    "connected_from": "Numbers 22:7"
+  },
+  {
+    "text": "And God came to Balaam, and said, What men are these with you?",
+    "reference": "Numbers 22:9 (AKJV)",
+    "connected_to": "Numbers 22:10",
+    "connected_from": "Numbers 22:8"
+  },
+  {
+    "text": "And Balaam said to God, Balak the son of Zippor, king of Moab, has sent to me, saying,",
+    "reference": "Numbers 22:10 (AKJV)",
+    "connected_to": "Numbers 22:11",
+    "connected_from": "Numbers 22:9"
+  },
+  {
+    "text": "Behold, there is a people come out of Egypt, which covers the face of the earth: come now, curse me them; peradventure I shall be able to overcome them, and drive them out.",
+    "reference": "Numbers 22:11 (AKJV)",
+    "connected_to": "Numbers 22:12",
+    "connected_from": "Numbers 22:10"
+  },
+  {
+    "text": "And God said to Balaam, You shall not go with them; you shall not curse the people: for they are blessed.",
+    "reference": "Numbers 22:12 (AKJV)",
+    "connected_to": "Numbers 22:13",
+    "connected_from": "Numbers 22:11"
+  },
+  {
+    "text": "And Balaam rose up in the morning, and said to the princes of Balak, Get you into your land: for the LORD refuses to give me leave to go with you.",
+    "reference": "Numbers 22:13 (AKJV)",
+    "connected_to": "Numbers 22:14",
+    "connected_from": "Numbers 22:12"
+  },
+  {
+    "text": "And the princes of Moab rose up, and they went to Balak, and said, Balaam refuses to come with us.",
+    "reference": "Numbers 22:14 (AKJV)",
+    "connected_to": "Numbers 22:15",
+    "connected_from": "Numbers 22:13"
+  },
+  {
+    "text": "And Balak sent yet again princes, more, and more honorable than they.",
+    "reference": "Numbers 22:15 (AKJV)",
+    "connected_to": "Numbers 22:16",
+    "connected_from": "Numbers 22:14"
+  },
+  {
+    "text": "And they came to Balaam, and said to him, Thus said Balak the son of Zippor, Let nothing, I pray you, hinder you from coming to me:",
+    "reference": "Numbers 22:16 (AKJV)",
+    "connected_to": "Numbers 22:17",
+    "connected_from": "Numbers 22:15"
+  },
+  {
+    "text": "For I will promote you to very great honor, and I will do whatever you say to me: come therefore, I pray you, curse me this people.",
+    "reference": "Numbers 22:17 (AKJV)",
+    "connected_to": "Numbers 22:18",
+    "connected_from": "Numbers 22:16"
+  },
+  {
+    "text": "And Balaam answered and said to the servants of Balak, If Balak would give me his house full of silver and gold, I cannot go beyond the word of the LORD my God, to do less or more.",
+    "reference": "Numbers 22:18 (AKJV)",
+    "connected_to": "Numbers 22:19",
+    "connected_from": "Numbers 22:17"
+  },
+  {
+    "text": "Now therefore, I pray you, tarry you also here this night, that I may know what the LORD will say to me more.",
+    "reference": "Numbers 22:19 (AKJV)",
+    "connected_to": "Numbers 22:20",
+    "connected_from": "Numbers 22:18"
+  },
+  {
+    "text": "And God came to Balaam at night, and said to him, If the men come to call you, rise up, and go with them; but yet the word which I shall say to you, that shall you do.",
+    "reference": "Numbers 22:20 (AKJV)",
+    "connected_to": "Numbers 22:21",
+    "connected_from": "Numbers 22:19"
+  },
+  {
+    "text": "And Balaam rose up in the morning, and saddled his ass, and went with the princes of Moab.",
+    "reference": "Numbers 22:21 (AKJV)",
+    "connected_to": "Numbers 22:22",
+    "connected_from": "Numbers 22:20"
+  },
+  {
+    "text": "And God’s anger was kindled because he went: and the angel of the LORD stood in the way for an adversary against him. Now he was riding on his ass, and his two servants were with him.",
+    "reference": "Numbers 22:22 (AKJV)",
+    "connected_to": "Numbers 22:23",
+    "connected_from": "Numbers 22:21"
+  },
+  {
+    "text": "And the ass saw the angel of the LORD standing in the way, and his sword drawn in his hand: and the ass turned aside out of the way, and went into the field: and Balaam smote the ass, to turn her into the way.",
+    "reference": "Numbers 22:23 (AKJV)",
+    "connected_to": "Numbers 22:24",
+    "connected_from": "Numbers 22:22"
+  },
+  {
+    "text": "But the angel of the LORD stood in a path of the vineyards, a wall being on this side, and a wall on that side.",
+    "reference": "Numbers 22:24 (AKJV)",
+    "connected_to": "Numbers 22:25",
+    "connected_from": "Numbers 22:23"
+  },
+  {
+    "text": "And when the ass saw the angel of the LORD, she thrust herself to the wall, and crushed Balaam’s foot against the wall: and he smote her again.",
+    "reference": "Numbers 22:25 (AKJV)",
+    "connected_to": "Numbers 22:26",
+    "connected_from": "Numbers 22:24"
+  },
+  {
+    "text": "And the angel of the LORD went further, and stood in a narrow place, where was no way to turn either to the right hand or to the left.",
+    "reference": "Numbers 22:26 (AKJV)",
+    "connected_to": "Numbers 22:27",
+    "connected_from": "Numbers 22:25"
+  },
+  {
+    "text": "And when the ass saw the angel of the LORD, she fell down under Balaam: and Balaam’s anger was kindled, and he smote the ass with a staff.",
+    "reference": "Numbers 22:27 (AKJV)",
+    "connected_to": "Numbers 22:28",
+    "connected_from": "Numbers 22:26"
+  },
+  {
+    "text": "And the LORD opened the mouth of the ass, and she said to Balaam, What have I done to you, that you have smitten me these three times?",
+    "reference": "Numbers 22:28 (AKJV)",
+    "connected_to": "Numbers 22:29",
+    "connected_from": "Numbers 22:27"
+  },
+  {
+    "text": "And Balaam said to the ass, Because you have mocked me: I would there were a sword in my hand, for now would I kill you.",
+    "reference": "Numbers 22:29 (AKJV)",
+    "connected_to": "Numbers 22:30",
+    "connected_from": "Numbers 22:28"
+  },
+  {
+    "text": "And the ass said to Balaam, Am not I your ass, on which you have ridden ever since I was your to this day? was I ever wont to do so to you? And he said, No.",
+    "reference": "Numbers 22:30 (AKJV)",
+    "connected_to": "Numbers 22:31",
+    "connected_from": "Numbers 22:29"
+  },
+  {
+    "text": "Then the LORD opened the eyes of Balaam, and he saw the angel of the LORD standing in the way, and his sword drawn in his hand: and he bowed down his head, and fell flat on his face.",
+    "reference": "Numbers 22:31 (AKJV)",
+    "connected_to": "Numbers 22:32",
+    "connected_from": "Numbers 22:30"
+  },
+  {
+    "text": "And the angel of the LORD said to him, Why have you smitten your ass these three times? behold, I went out to withstand you, because your way is perverse before me:",
+    "reference": "Numbers 22:32 (AKJV)",
+    "connected_to": "Numbers 22:33",
+    "connected_from": "Numbers 22:31"
+  },
+  {
+    "text": "And the ass saw me, and turned from me these three times: unless she had turned from me, surely now also I had slain you, and saved her alive.",
+    "reference": "Numbers 22:33 (AKJV)",
+    "connected_to": "Numbers 22:34",
+    "connected_from": "Numbers 22:32"
+  },
+  {
+    "text": "And Balaam said to the angel of the LORD, I have sinned; for I knew not that you stood in the way against me: now therefore, if it displease you, I will get me back again.",
+    "reference": "Numbers 22:34 (AKJV)",
+    "connected_to": "Numbers 22:35",
+    "connected_from": "Numbers 22:33"
+  },
+  {
+    "text": "And the angel of the LORD said to Balaam, Go with the men: but only the word that I shall speak to you, that you shall speak. So Balaam went with the princes of Balak.",
+    "reference": "Numbers 22:35 (AKJV)",
+    "connected_to": "Numbers 22:36",
+    "connected_from": "Numbers 22:34"
+  },
+  {
+    "text": "And when Balak heard that Balaam was come, he went out to meet him to a city of Moab, which is in the border of Arnon, which is in the utmost coast.",
+    "reference": "Numbers 22:36 (AKJV)",
+    "connected_to": "Numbers 22:37",
+    "connected_from": "Numbers 22:35"
+  },
+  {
+    "text": "And Balak said to Balaam, Did I not earnestly send to you to call you? why came you not to me? am I not able indeed to promote you to honor?",
+    "reference": "Numbers 22:37 (AKJV)",
+    "connected_to": "Numbers 22:38",
+    "connected_from": "Numbers 22:36"
+  },
+  {
+    "text": "And Balaam said to Balak, See, I am come to you: have I now any power at all to say any thing? the word that God puts in my mouth, that shall I speak.",
+    "reference": "Numbers 22:38 (AKJV)",
+    "connected_to": "Numbers 22:39",
+    "connected_from": "Numbers 22:37"
+  },
+  {
+    "text": "And Balaam went with Balak, and they came to Kirjathhuzoth.",
+    "reference": "Numbers 22:39 (AKJV)",
+    "connected_to": "Numbers 22:40",
+    "connected_from": "Numbers 22:38"
+  },
+  {
+    "text": "And Balak offered oxen and sheep, and sent to Balaam, and to the princes that were with him.",
+    "reference": "Numbers 22:40 (AKJV)",
+    "connected_to": "Numbers 22:41",
+    "connected_from": "Numbers 22:39"
+  },
+  {
+    "text": "And it came to pass on the morrow, that Balak took Balaam, and brought him up into the high places of Baal, that there he might see the utmost part of the people.",
+    "reference": "Numbers 22:41 (AKJV)",
+    "connected_from": "Numbers 22:40"
+  }
+]

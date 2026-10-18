@@ -1,0 +1,210 @@
+[
+  {
+    "text": "Bless the LORD, O my soul. O LORD my God, you are very great; you are clothed with honor and majesty.",
+    "reference": "Psalm 104:1 (AKJV)",
+    "connected_to": "Psalm 104:2"
+  },
+  {
+    "text": "Who cover yourself with light as with a garment: who stretch out the heavens like a curtain:",
+    "reference": "Psalm 104:2 (AKJV)",
+    "connected_to": "Psalm 104:3",
+    "connected_from": "Psalm 104:1"
+  },
+  {
+    "text": "Who lays the beams of his chambers in the waters: who makes the clouds his chariot: who walks on the wings of the wind:",
+    "reference": "Psalm 104:3 (AKJV)",
+    "connected_to": "Psalm 104:4",
+    "connected_from": "Psalm 104:2"
+  },
+  {
+    "text": "Who makes his angels spirits; his ministers a flaming fire:",
+    "reference": "Psalm 104:4 (AKJV)",
+    "connected_to": "Psalm 104:5",
+    "connected_from": "Psalm 104:3"
+  },
+  {
+    "text": "Who laid the foundations of the earth, that it should not be removed for ever.",
+    "reference": "Psalm 104:5 (AKJV)",
+    "connected_to": "Psalm 104:6",
+    "connected_from": "Psalm 104:4"
+  },
+  {
+    "text": "You covered it with the deep as with a garment: the waters stood above the mountains.",
+    "reference": "Psalm 104:6 (AKJV)",
+    "connected_to": "Psalm 104:7",
+    "connected_from": "Psalm 104:5"
+  },
+  {
+    "text": "At your rebuke they fled; at the voice of your thunder they hurried away.",
+    "reference": "Psalm 104:7 (AKJV)",
+    "connected_to": "Psalm 104:8",
+    "connected_from": "Psalm 104:6"
+  },
+  {
+    "text": "They go up by the mountains; they go down by the valleys to the place which you have founded for them.",
+    "reference": "Psalm 104:8 (AKJV)",
+    "connected_to": "Psalm 104:9",
+    "connected_from": "Psalm 104:7"
+  },
+  {
+    "text": "You have set a bound that they may not pass over; that they turn not again to cover the earth.",
+    "reference": "Psalm 104:9 (AKJV)",
+    "connected_to": "Psalm 104:10",
+    "connected_from": "Psalm 104:8"
+  },
+  {
+    "text": "He sends the springs into the valleys, which run among the hills.",
+    "reference": "Psalm 104:10 (AKJV)",
+    "connected_to": "Psalm 104:11",
+    "connected_from": "Psalm 104:9"
+  },
+  {
+    "text": "They give drink to every beast of the field: the wild asses quench their thirst.",
+    "reference": "Psalm 104:11 (AKJV)",
+    "connected_to": "Psalm 104:12",
+    "connected_from": "Psalm 104:10"
+  },
+  {
+    "text": "By them shall the fowls of the heaven have their habitation, which sing among the branches.",
+    "reference": "Psalm 104:12 (AKJV)",
+    "connected_to": "Psalm 104:13",
+    "connected_from": "Psalm 104:11"
+  },
+  {
+    "text": "He waters the hills from his chambers: the earth is satisfied with the fruit of your works.",
+    "reference": "Psalm 104:13 (AKJV)",
+    "connected_to": "Psalm 104:14",
+    "connected_from": "Psalm 104:12"
+  },
+  {
+    "text": "He causes the grass to grow for the cattle, and herb for the service of man: that he may bring forth food out of the earth;",
+    "reference": "Psalm 104:14 (AKJV)",
+    "connected_to": "Psalm 104:15",
+    "connected_from": "Psalm 104:13"
+  },
+  {
+    "text": "And wine that makes glad the heart of man, and oil to make his face to shine, and bread which strengthens man’s heart.",
+    "reference": "Psalm 104:15 (AKJV)",
+    "connected_to": "Psalm 104:16",
+    "connected_from": "Psalm 104:14"
+  },
+  {
+    "text": "The trees of the LORD are full of sap; the cedars of Lebanon, which he has planted;",
+    "reference": "Psalm 104:16 (AKJV)",
+    "connected_to": "Psalm 104:17",
+    "connected_from": "Psalm 104:15"
+  },
+  {
+    "text": "Where the birds make their nests: as for the stork, the fir trees are her house.",
+    "reference": "Psalm 104:17 (AKJV)",
+    "connected_to": "Psalm 104:18",
+    "connected_from": "Psalm 104:16"
+  },
+  {
+    "text": "The high hills are a refuge for the wild goats; and the rocks for the conies.",
+    "reference": "Psalm 104:18 (AKJV)",
+    "connected_to": "Psalm 104:19",
+    "connected_from": "Psalm 104:17"
+  },
+  {
+    "text": "He appointed the moon for seasons: the sun knows his going down.",
+    "reference": "Psalm 104:19 (AKJV)",
+    "connected_to": "Psalm 104:20",
+    "connected_from": "Psalm 104:18"
+  },
+  {
+    "text": "You make darkness, and it is night: wherein all the beasts of the forest do creep forth.",
+    "reference": "Psalm 104:20 (AKJV)",
+    "connected_to": "Psalm 104:21",
+    "connected_from": "Psalm 104:19"
+  },
+  {
+    "text": "The young lions roar after their prey, and seek their meat from God.",
+    "reference": "Psalm 104:21 (AKJV)",
+    "connected_to": "Psalm 104:22",
+    "connected_from": "Psalm 104:20"
+  },
+  {
+    "text": "The sun rises, they gather themselves together, and lay them down in their dens.",
+    "reference": "Psalm 104:22 (AKJV)",
+    "connected_to": "Psalm 104:23",
+    "connected_from": "Psalm 104:21"
+  },
+  {
+    "text": "Man goes forth to his work and to his labor until the evening.",
+    "reference": "Psalm 104:23 (AKJV)",
+    "connected_to": "Psalm 104:24",
+    "connected_from": "Psalm 104:22"
+  },
+  {
+    "text": "O LORD, how manifold are your works! in wisdom have you made them all: the earth is full of your riches.",
+    "reference": "Psalm 104:24 (AKJV)",
+    "connected_to": "Psalm 104:25",
+    "connected_from": "Psalm 104:23"
+  },
+  {
+    "text": "So is this great and wide sea, wherein are things creeping innumerable, both small and great beasts.",
+    "reference": "Psalm 104:25 (AKJV)",
+    "connected_to": "Psalm 104:26",
+    "connected_from": "Psalm 104:24"
+  },
+  {
+    "text": "There go the ships: there is that leviathan, whom you have made to play therein.",
+    "reference": "Psalm 104:26 (AKJV)",
+    "connected_to": "Psalm 104:27",
+    "connected_from": "Psalm 104:25"
+  },
+  {
+    "text": "These wait all on you; that you may give them their meat in due season.",
+    "reference": "Psalm 104:27 (AKJV)",
+    "connected_to": "Psalm 104:28",
+    "connected_from": "Psalm 104:26"
+  },
+  {
+    "text": "That you give them they gather: you open your hand, they are filled with good.",
+    "reference": "Psalm 104:28 (AKJV)",
+    "connected_to": "Psalm 104:29",
+    "connected_from": "Psalm 104:27"
+  },
+  {
+    "text": "You hide your face, they are troubled: you take away their breath, they die, and return to their dust.",
+    "reference": "Psalm 104:29 (AKJV)",
+    "connected_to": "Psalm 104:30",
+    "connected_from": "Psalm 104:28"
+  },
+  {
+    "text": "You send forth your spirit, they are created: and you renew the face of the earth.",
+    "reference": "Psalm 104:30 (AKJV)",
+    "connected_to": "Psalm 104:31",
+    "connected_from": "Psalm 104:29"
+  },
+  {
+    "text": "The glory of the LORD shall endure for ever: the LORD shall rejoice in his works.",
+    "reference": "Psalm 104:31 (AKJV)",
+    "connected_to": "Psalm 104:32",
+    "connected_from": "Psalm 104:30"
+  },
+  {
+    "text": "He looks on the earth, and it trembles: he touches the hills, and they smoke.",
+    "reference": "Psalm 104:32 (AKJV)",
+    "connected_to": "Psalm 104:33",
+    "connected_from": "Psalm 104:31"
+  },
+  {
+    "text": "I will sing to the LORD as long as I live: I will sing praise to my God while I have my being.",
+    "reference": "Psalm 104:33 (AKJV)",
+    "connected_to": "Psalm 104:34",
+    "connected_from": "Psalm 104:32"
+  },
+  {
+    "text": "My meditation of him shall be sweet: I will be glad in the LORD.",
+    "reference": "Psalm 104:34 (AKJV)",
+    "connected_to": "Psalm 104:35",
+    "connected_from": "Psalm 104:33"
+  },
+  {
+    "text": "Let the sinners be consumed out of the earth, and let the wicked be no more. Bless you the LORD, O my soul. Praise you the LORD.",
+    "reference": "Psalm 104:35 (AKJV)",
+    "connected_from": "Psalm 104:34"
+  }
+]

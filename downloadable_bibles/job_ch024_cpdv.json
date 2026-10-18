@@ -1,0 +1,150 @@
+[
+  {
+    "text": "The times are not hidden from the Almighty; even those who know him, do not know his days.",
+    "reference": "Job 24:1 (CPDV)",
+    "connected_to": "Job 24:2"
+  },
+  {
+    "text": "Some have crossed the boundaries, plundered the flocks, and given them pasture.",
+    "reference": "Job 24:2 (CPDV)",
+    "connected_to": "Job 24:3",
+    "connected_from": "Job 24:1"
+  },
+  {
+    "text": "They have driven away the donkey of orphans, and have taken the cow from the widow as collateral.",
+    "reference": "Job 24:3 (CPDV)",
+    "connected_to": "Job 24:4",
+    "connected_from": "Job 24:2"
+  },
+  {
+    "text": "They have undermined the way of the poor, and have pressed together the meek of the earth.",
+    "reference": "Job 24:4 (CPDV)",
+    "connected_to": "Job 24:5",
+    "connected_from": "Job 24:3"
+  },
+  {
+    "text": "Others, like wild asses in the desert, go forth to their work; by watching for prey, they obtain bread for their children.",
+    "reference": "Job 24:5 (CPDV)",
+    "connected_to": "Job 24:6",
+    "connected_from": "Job 24:4"
+  },
+  {
+    "text": "They reap a field that is not their own, and they harvest a vineyard that they have taken by force.",
+    "reference": "Job 24:6 (CPDV)",
+    "connected_to": "Job 24:7",
+    "connected_from": "Job 24:5"
+  },
+  {
+    "text": "They send men away naked, having taken the clothing of those who have no covering in the cold;",
+    "reference": "Job 24:7 (CPDV)",
+    "connected_to": "Job 24:8",
+    "connected_from": "Job 24:6"
+  },
+  {
+    "text": "these are wet with the mountain rain, and, having no covering, they embrace the rocks.",
+    "reference": "Job 24:8 (CPDV)",
+    "connected_to": "Job 24:9",
+    "connected_from": "Job 24:7"
+  },
+  {
+    "text": "They have used violence to deprive orphans, and they have robbed the poor common people.",
+    "reference": "Job 24:9 (CPDV)",
+    "connected_to": "Job 24:10",
+    "connected_from": "Job 24:8"
+  },
+  {
+    "text": "From the naked and those who do not have enough clothing, and from the hungry, they have taken away sheaves of grain.",
+    "reference": "Job 24:10 (CPDV)",
+    "connected_to": "Job 24:11",
+    "connected_from": "Job 24:9"
+  },
+  {
+    "text": "They take their midday rest among the stockpiles of those who, though they have trodden the winepresses, suffer thirst.",
+    "reference": "Job 24:11 (CPDV)",
+    "connected_to": "Job 24:12",
+    "connected_from": "Job 24:10"
+  },
+  {
+    "text": "In the cities, they caused the men to groan and the spirit of the wounded to cry out, and so God does not allow this to go unpunished.",
+    "reference": "Job 24:12 (CPDV)",
+    "connected_to": "Job 24:13",
+    "connected_from": "Job 24:11"
+  },
+  {
+    "text": "They have been rebellious against the light; they have not known his ways, nor have they returned by his paths.",
+    "reference": "Job 24:13 (CPDV)",
+    "connected_to": "Job 24:14",
+    "connected_from": "Job 24:12"
+  },
+  {
+    "text": "The killer of men rises at first light; he executes the destitute and the poor, but, in truth, he is like a thief in the night.",
+    "reference": "Job 24:14 (CPDV)",
+    "connected_to": "Job 24:15",
+    "connected_from": "Job 24:13"
+  },
+  {
+    "text": "The eye of the adulterer waits for darkness, saying, “No eye will see me,” and he covers his face.",
+    "reference": "Job 24:15 (CPDV)",
+    "connected_to": "Job 24:16",
+    "connected_from": "Job 24:14"
+  },
+  {
+    "text": "He passes through houses in the nighttime, just as they had agreed among themselves in the daytime; and they are ignorant of the light.",
+    "reference": "Job 24:16 (CPDV)",
+    "connected_to": "Job 24:17",
+    "connected_from": "Job 24:15"
+  },
+  {
+    "text": "If sunrise should suddenly appear, it is treated by them like the shadow of death; and they walk in darkness, as if in light.",
+    "reference": "Job 24:17 (CPDV)",
+    "connected_to": "Job 24:18",
+    "connected_from": "Job 24:16"
+  },
+  {
+    "text": "He is nimble on the surface of water. His place on land is to be accursed. May he not walk by way of the vineyards.",
+    "reference": "Job 24:18 (CPDV)",
+    "connected_to": "Job 24:19",
+    "connected_from": "Job 24:17"
+  },
+  {
+    "text": "May he cross from the snowy waters to excessive heat, and his sin, all the way to hell.",
+    "reference": "Job 24:19 (CPDV)",
+    "connected_to": "Job 24:20",
+    "connected_from": "Job 24:18"
+  },
+  {
+    "text": "Let mercy forget him. His charm is worms. Let him not be remembered, but instead be broken like an unfruitful tree.",
+    "reference": "Job 24:20 (CPDV)",
+    "connected_to": "Job 24:21",
+    "connected_from": "Job 24:19"
+  },
+  {
+    "text": "For he has fed on the barren, who does not bear fruit, and he has not done good to the widow.",
+    "reference": "Job 24:21 (CPDV)",
+    "connected_to": "Job 24:22",
+    "connected_from": "Job 24:20"
+  },
+  {
+    "text": "He has pulled down the strong by his strength, and, when he stands up, he will not have trust in his life.",
+    "reference": "Job 24:22 (CPDV)",
+    "connected_to": "Job 24:23",
+    "connected_from": "Job 24:21"
+  },
+  {
+    "text": "God has given him a place for repentance, and he abuses it with arrogance, but his eyes are upon his ways.",
+    "reference": "Job 24:23 (CPDV)",
+    "connected_to": "Job 24:24",
+    "connected_from": "Job 24:22"
+  },
+  {
+    "text": "They are lifted up for a little while, but they will not continue, and they will be brought low, just like all things, and they will be taken away, and, like the tops of the ears of grain, they will be crushed.",
+    "reference": "Job 24:24 (CPDV)",
+    "connected_to": "Job 24:25",
+    "connected_from": "Job 24:23"
+  },
+  {
+    "text": "But, if this is not so, who is able to prove to me that I have lied and to place my words before God?",
+    "reference": "Job 24:25 (CPDV)",
+    "connected_from": "Job 24:24"
+  }
+]

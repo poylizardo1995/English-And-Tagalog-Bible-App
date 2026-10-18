@@ -1,0 +1,78 @@
+[
+  {
+    "text": "Whither is thy beloved gone, O thou fairest among women? whither hath thy beloved turned him, that we may seek him with thee?",
+    "reference": "Song of Solomon 6:1 (ERV)",
+    "connected_to": "Song of Solomon 6:2"
+  },
+  {
+    "text": "My beloved is gone down to his garden, to the beds of spices, to feed in the gardens, and to gather lilies.",
+    "reference": "Song of Solomon 6:2 (ERV)",
+    "connected_to": "Song of Solomon 6:3",
+    "connected_from": "Song of Solomon 6:1"
+  },
+  {
+    "text": "I am my beloved’s, and my beloved is mine: he feedeth his flock among the lilies.",
+    "reference": "Song of Solomon 6:3 (ERV)",
+    "connected_to": "Song of Solomon 6:4",
+    "connected_from": "Song of Solomon 6:2"
+  },
+  {
+    "text": "Thou art beautiful, O my love, as Tirzah, comely as Jerusalem, terrible as an army with banners.",
+    "reference": "Song of Solomon 6:4 (ERV)",
+    "connected_to": "Song of Solomon 6:5",
+    "connected_from": "Song of Solomon 6:3"
+  },
+  {
+    "text": "Turn away thine eyes from me, for they have overcome me. Thy hair is as a flock of goats, that lie along the side of Gilead.",
+    "reference": "Song of Solomon 6:5 (ERV)",
+    "connected_to": "Song of Solomon 6:6",
+    "connected_from": "Song of Solomon 6:4"
+  },
+  {
+    "text": "Thy teeth are like a flock of ewes, which are come up from the washing; whereof every one hath twins, and none is bereaved among them.",
+    "reference": "Song of Solomon 6:6 (ERV)",
+    "connected_to": "Song of Solomon 6:7",
+    "connected_from": "Song of Solomon 6:5"
+  },
+  {
+    "text": "Thy temples are like a piece of a pomegranate behind thy veil.",
+    "reference": "Song of Solomon 6:7 (ERV)",
+    "connected_to": "Song of Solomon 6:8",
+    "connected_from": "Song of Solomon 6:6"
+  },
+  {
+    "text": "There are threescore queens, and fourscore concubines, and virgins without number.",
+    "reference": "Song of Solomon 6:8 (ERV)",
+    "connected_to": "Song of Solomon 6:9",
+    "connected_from": "Song of Solomon 6:7"
+  },
+  {
+    "text": "My dove, my undefiled, is but one; she is the only one of her mother; she is the choice one of her that bare her. The daughters saw her, and called her blessed; yea, the queens and the concubines, and they praised her.",
+    "reference": "Song of Solomon 6:9 (ERV)",
+    "connected_to": "Song of Solomon 6:10",
+    "connected_from": "Song of Solomon 6:8"
+  },
+  {
+    "text": "Who is she that looketh forth as the morning, fair as the moon, clear as the sun, terrible as an army with banners?",
+    "reference": "Song of Solomon 6:10 (ERV)",
+    "connected_to": "Song of Solomon 6:11",
+    "connected_from": "Song of Solomon 6:9"
+  },
+  {
+    "text": "I went down into the garden of nuts, to see the green plants of the valley, to see whether the vine budded, and the pomegranates were in flower.",
+    "reference": "Song of Solomon 6:11 (ERV)",
+    "connected_to": "Song of Solomon 6:12",
+    "connected_from": "Song of Solomon 6:10"
+  },
+  {
+    "text": "Or ever I was aware, my soul set me among the chariots of my princely people.",
+    "reference": "Song of Solomon 6:12 (ERV)",
+    "connected_to": "Song of Solomon 6:13",
+    "connected_from": "Song of Solomon 6:11"
+  },
+  {
+    "text": "Return, return, O Shulammite; return, return, that we may look upon thee. Why will ye look upon the Shulammite, as upon the dance of Mahanaim?",
+    "reference": "Song of Solomon 6:13 (ERV)",
+    "connected_from": "Song of Solomon 6:12"
+  }
+]

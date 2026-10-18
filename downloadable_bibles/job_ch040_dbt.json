@@ -1,0 +1,144 @@
+[
+  {
+    "text": "And Jehovah answered Job and said,",
+    "reference": "Job 40:1 (DBT)",
+    "connected_to": "Job 40:2"
+  },
+  {
+    "text": "Shall he that will contend with the Almighty instruct [him]? he that reproveth +God, let him answer it.",
+    "reference": "Job 40:2 (DBT)",
+    "connected_to": "Job 40:3",
+    "connected_from": "Job 40:1"
+  },
+  {
+    "text": "And Job answered Jehovah and said,",
+    "reference": "Job 40:3 (DBT)",
+    "connected_to": "Job 40:4",
+    "connected_from": "Job 40:2"
+  },
+  {
+    "text": "Behold, I am nought: what shall I answer thee? I will lay my hand upon my mouth.",
+    "reference": "Job 40:4 (DBT)",
+    "connected_to": "Job 40:5",
+    "connected_from": "Job 40:3"
+  },
+  {
+    "text": "Once have I spoken, and I will not answer; yea twice, but I will proceed no further.",
+    "reference": "Job 40:5 (DBT)",
+    "connected_to": "Job 40:6",
+    "connected_from": "Job 40:4"
+  },
+  {
+    "text": "And Jehovah answered Job out of the whirlwind and said,",
+    "reference": "Job 40:6 (DBT)",
+    "connected_to": "Job 40:7",
+    "connected_from": "Job 40:5"
+  },
+  {
+    "text": "Gird up now thy loins like a man: I will demand of thee, and inform thou me.",
+    "reference": "Job 40:7 (DBT)",
+    "connected_to": "Job 40:8",
+    "connected_from": "Job 40:6"
+  },
+  {
+    "text": "Wilt thou also annul my judgment? wilt thou condemn me that thou mayest be righteous?",
+    "reference": "Job 40:8 (DBT)",
+    "connected_to": "Job 40:9",
+    "connected_from": "Job 40:7"
+  },
+  {
+    "text": "Hast thou an arm like God? or canst thou thunder with a voice like him?",
+    "reference": "Job 40:9 (DBT)",
+    "connected_to": "Job 40:10",
+    "connected_from": "Job 40:8"
+  },
+  {
+    "text": "Deck thyself now with glory and excellency, and clothe thyself with majesty and splendour.",
+    "reference": "Job 40:10 (DBT)",
+    "connected_to": "Job 40:11",
+    "connected_from": "Job 40:9"
+  },
+  {
+    "text": "Cast abroad the ragings of thine anger, and look on every one that is proud, and abase him:",
+    "reference": "Job 40:11 (DBT)",
+    "connected_to": "Job 40:12",
+    "connected_from": "Job 40:10"
+  },
+  {
+    "text": "Look on every one that is proud, bring him low, and tread down the wicked in their place:",
+    "reference": "Job 40:12 (DBT)",
+    "connected_to": "Job 40:13",
+    "connected_from": "Job 40:11"
+  },
+  {
+    "text": "Hide them in the dust together; bind their faces in secret.",
+    "reference": "Job 40:13 (DBT)",
+    "connected_to": "Job 40:14",
+    "connected_from": "Job 40:12"
+  },
+  {
+    "text": "Then will I also praise thee, because thy right hand saveth thee.",
+    "reference": "Job 40:14 (DBT)",
+    "connected_to": "Job 40:15",
+    "connected_from": "Job 40:13"
+  },
+  {
+    "text": "See now the behemoth, which I made with thee: he eateth grass as an ox.",
+    "reference": "Job 40:15 (DBT)",
+    "connected_to": "Job 40:16",
+    "connected_from": "Job 40:14"
+  },
+  {
+    "text": "Behold now, his strength is in his loins, and his force is in the muscles of his belly.",
+    "reference": "Job 40:16 (DBT)",
+    "connected_to": "Job 40:17",
+    "connected_from": "Job 40:15"
+  },
+  {
+    "text": "He bendeth his tail like a cedar; the sinews of his thighs are woven together.",
+    "reference": "Job 40:17 (DBT)",
+    "connected_to": "Job 40:18",
+    "connected_from": "Job 40:16"
+  },
+  {
+    "text": "His bones are tubes of bronze, his members are like bars of iron.",
+    "reference": "Job 40:18 (DBT)",
+    "connected_to": "Job 40:19",
+    "connected_from": "Job 40:17"
+  },
+  {
+    "text": "He is the chief of God’s ways: he that made him gave him his sword.",
+    "reference": "Job 40:19 (DBT)",
+    "connected_to": "Job 40:20",
+    "connected_from": "Job 40:18"
+  },
+  {
+    "text": "For the mountains bring him forth food, where all the beasts of the field play.",
+    "reference": "Job 40:20 (DBT)",
+    "connected_to": "Job 40:21",
+    "connected_from": "Job 40:19"
+  },
+  {
+    "text": "He lieth under lotus-bushes, in the covert of the reed and fen:",
+    "reference": "Job 40:21 (DBT)",
+    "connected_to": "Job 40:22",
+    "connected_from": "Job 40:20"
+  },
+  {
+    "text": "Lotus-bushes cover him with their shade; the willows of the brook surround him.",
+    "reference": "Job 40:22 (DBT)",
+    "connected_to": "Job 40:23",
+    "connected_from": "Job 40:21"
+  },
+  {
+    "text": "Lo, the river overfloweth—he startleth not: he is confident though a Jordan break forth against his mouth.",
+    "reference": "Job 40:23 (DBT)",
+    "connected_to": "Job 40:24",
+    "connected_from": "Job 40:22"
+  },
+  {
+    "text": "Shall he be taken in front? will they pierce through [his] nose in the trap?",
+    "reference": "Job 40:24 (DBT)",
+    "connected_from": "Job 40:23"
+  }
+]

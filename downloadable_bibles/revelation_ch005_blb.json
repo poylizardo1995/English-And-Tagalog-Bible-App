@@ -1,0 +1,84 @@
+[
+  {
+    "text": "And I saw on the right hand of the One sitting upon the throne a scroll, written inside and on the back, sealed up with seven seals.",
+    "reference": "Revelation 5:1 (BLB)",
+    "connected_to": "Revelation 5:2"
+  },
+  {
+    "text": "And I saw a strong angel proclaiming in a loud voice, “Who is worthy to open the scroll and to loose its seals?”",
+    "reference": "Revelation 5:2 (BLB)",
+    "connected_to": "Revelation 5:3",
+    "connected_from": "Revelation 5:1"
+  },
+  {
+    "text": "And no one in heaven, nor upon the earth, nor under the earth, was able to open the scroll, nor to see it.",
+    "reference": "Revelation 5:3 (BLB)",
+    "connected_to": "Revelation 5:4",
+    "connected_from": "Revelation 5:2"
+  },
+  {
+    "text": "And I was weeping much, because no one was found worthy to open the scroll, nor to see it.",
+    "reference": "Revelation 5:4 (BLB)",
+    "connected_to": "Revelation 5:5",
+    "connected_from": "Revelation 5:3"
+  },
+  {
+    "text": "And one of the elders says to me, “Do not weep. Behold, the Lion of the tribe of Judah, the Root of David, has overcome to open the scroll and its seven seals.”",
+    "reference": "Revelation 5:5 (BLB)",
+    "connected_to": "Revelation 5:6",
+    "connected_from": "Revelation 5:4"
+  },
+  {
+    "text": "And I saw in the midst of the throne and of the four living creatures, and in the midst of the elders, a Lamb standing as having been slain, having seven horns and seven eyes, which are the seven Spirits of God having been sent out into all the earth.",
+    "reference": "Revelation 5:6 (BLB)",
+    "connected_to": "Revelation 5:7",
+    "connected_from": "Revelation 5:5"
+  },
+  {
+    "text": "And He came and took [it] out of the right hand of the One sitting on the throne.",
+    "reference": "Revelation 5:7 (BLB)",
+    "connected_to": "Revelation 5:8",
+    "connected_from": "Revelation 5:6"
+  },
+  {
+    "text": "And when He took the scroll, the four living creatures and the twenty-four elders fell before the Lamb, each having a harp and golden bowls being full of incenses, which are the prayers of the saints.",
+    "reference": "Revelation 5:8 (BLB)",
+    "connected_to": "Revelation 5:9",
+    "connected_from": "Revelation 5:7"
+  },
+  {
+    "text": "And they sing a new song, saying, “Worthy are You to take the scroll and to open its seals, because You were slain, and You purchased for God by Your blood, out of every tribe and tongue and people and nation,",
+    "reference": "Revelation 5:9 (BLB)",
+    "connected_to": "Revelation 5:10",
+    "connected_from": "Revelation 5:8"
+  },
+  {
+    "text": "and You made them a kingdom and priests to our God; and they will reign upon the earth.”",
+    "reference": "Revelation 5:10 (BLB)",
+    "connected_to": "Revelation 5:11",
+    "connected_from": "Revelation 5:9"
+  },
+  {
+    "text": "And I saw, and I heard the voice of many angels around the throne, and of the living creatures, and of the elders; and their number was myriads of myriads and thousands of thousands,",
+    "reference": "Revelation 5:11 (BLB)",
+    "connected_to": "Revelation 5:12",
+    "connected_from": "Revelation 5:10"
+  },
+  {
+    "text": "saying in a loud voice: “Worthy is the Lamb having been slain to receive the power and riches and wisdom and strength and honor and glory and blessing!”",
+    "reference": "Revelation 5:12 (BLB)",
+    "connected_to": "Revelation 5:13",
+    "connected_from": "Revelation 5:11"
+  },
+  {
+    "text": "And I heard every creature that is in heaven and upon the earth and under the earth and on the sea, and everything in them, saying: “To the One sitting on the throne, and to the Lamb, blessing and honor and glory and might to the ages of the ages!”",
+    "reference": "Revelation 5:13 (BLB)",
+    "connected_to": "Revelation 5:14",
+    "connected_from": "Revelation 5:12"
+  },
+  {
+    "text": "And the four living creatures kept saying, “Amen.” And the elders fell and worshiped.",
+    "reference": "Revelation 5:14 (BLB)",
+    "connected_from": "Revelation 5:13"
+  }
+]

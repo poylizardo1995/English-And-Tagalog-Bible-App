@@ -1,0 +1,30 @@
+[
+  {
+    "text": "A psalm for David. Judge me, O God, and distinguish my cause from the nation that is not holy : deliver me from the unjust and deceitful man.",
+    "reference": "Psalm 43:1 (DRB)",
+    "connected_to": "Psalm 43:2"
+  },
+  {
+    "text": "For thou art God my strength : why hast thou cast me off? and why do I go sorrowful whilst the enemy afflicteth me?",
+    "reference": "Psalm 43:2 (DRB)",
+    "connected_to": "Psalm 43:3",
+    "connected_from": "Psalm 43:1"
+  },
+  {
+    "text": "Send forth thy light and thy truth : they have conducted me, and brought me unto thy holy hill, and into thy tabernacles.",
+    "reference": "Psalm 43:3 (DRB)",
+    "connected_to": "Psalm 43:4",
+    "connected_from": "Psalm 43:2"
+  },
+  {
+    "text": "And I will go in to the altar of God : to God who giveth joy to my youth.",
+    "reference": "Psalm 43:4 (DRB)",
+    "connected_to": "Psalm 43:5",
+    "connected_from": "Psalm 43:3"
+  },
+  {
+    "text": "To thee, O God my God, I will give praise upon the harp : why art thou sad, O my soul? and why dost thou disquiet me? Hope in God, for I will still give praise to him : the salvation of my countenance, and my God.",
+    "reference": "Psalm 43:5 (DRB)",
+    "connected_from": "Psalm 43:4"
+  }
+]

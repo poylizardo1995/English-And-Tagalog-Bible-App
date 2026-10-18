@@ -1,0 +1,174 @@
+[
+  {
+    "text": "And Bezalel made the ark of acacia wood, two cubits and a half its length, and a cubit and a half its width, and a cubit and a half its height.",
+    "reference": "Exodus 37:1 (BLB)",
+    "connected_to": "Exodus 37:2"
+  },
+  {
+    "text": "And he overlaid it with pure gold—from within and from without—and he made for it a molding of gold all around.",
+    "reference": "Exodus 37:2 (BLB)",
+    "connected_to": "Exodus 37:3",
+    "connected_from": "Exodus 37:1"
+  },
+  {
+    "text": "And he cast for it four rings of gold on its four feet, and two rings on the one side and two rings on the second side.",
+    "reference": "Exodus 37:3 (BLB)",
+    "connected_to": "Exodus 37:4",
+    "connected_from": "Exodus 37:2"
+  },
+  {
+    "text": "And He made poles of acacia wood and overlaid them with gold.",
+    "reference": "Exodus 37:4 (BLB)",
+    "connected_to": "Exodus 37:5",
+    "connected_from": "Exodus 37:3"
+  },
+  {
+    "text": "And he brought the poles into the rings on the sides of the ark, to carry the ark.",
+    "reference": "Exodus 37:5 (BLB)",
+    "connected_to": "Exodus 37:6",
+    "connected_from": "Exodus 37:4"
+  },
+  {
+    "text": "And He made a mercy seat of pure gold, two cubits and a half its length, and a cubit and a half its width.",
+    "reference": "Exodus 37:6 (BLB)",
+    "connected_to": "Exodus 37:7",
+    "connected_from": "Exodus 37:5"
+  },
+  {
+    "text": "And He made two cherubim of gold—of hammered work he made them—from the two ends of the mercy seat,",
+    "reference": "Exodus 37:7 (BLB)",
+    "connected_to": "Exodus 37:8",
+    "connected_from": "Exodus 37:6"
+  },
+  {
+    "text": "one cherub from this end, and one cherub from that end; from the mercy seat he made the cherubim from its two ends.",
+    "reference": "Exodus 37:8 (BLB)",
+    "connected_to": "Exodus 37:9",
+    "connected_from": "Exodus 37:7"
+  },
+  {
+    "text": "And the cherubim spread out the wings upward, covering over the mercy seat with their wings, and their faces each toward his brother; toward the mercy seat were the faces of the cherubim.",
+    "reference": "Exodus 37:9 (BLB)",
+    "connected_to": "Exodus 37:10",
+    "connected_from": "Exodus 37:8"
+  },
+  {
+    "text": "And He made the table of acacia wood, two cubits its length, and a cubit its width, and a cubit and a half its height.",
+    "reference": "Exodus 37:10 (BLB)",
+    "connected_to": "Exodus 37:11",
+    "connected_from": "Exodus 37:9"
+  },
+  {
+    "text": "And he overlaid it with pure gold, and he made for it a molding of gold all around.",
+    "reference": "Exodus 37:11 (BLB)",
+    "connected_to": "Exodus 37:12",
+    "connected_from": "Exodus 37:10"
+  },
+  {
+    "text": "And he made for it a frame of a handbreadth all around, and he made a gold molding for its frame all around.",
+    "reference": "Exodus 37:12 (BLB)",
+    "connected_to": "Exodus 37:13",
+    "connected_from": "Exodus 37:11"
+  },
+  {
+    "text": "And he cast for it four rings of gold, and he put the rings on the four corners that [were] at its four legs.",
+    "reference": "Exodus 37:13 (BLB)",
+    "connected_to": "Exodus 37:14",
+    "connected_from": "Exodus 37:12"
+  },
+  {
+    "text": "Close to the frame were the rings as holders for the poles, to carry the table.",
+    "reference": "Exodus 37:14 (BLB)",
+    "connected_to": "Exodus 37:15",
+    "connected_from": "Exodus 37:13"
+  },
+  {
+    "text": "And he made the poles of acacia wood, and overlaid them with gold, to carry the table.",
+    "reference": "Exodus 37:15 (BLB)",
+    "connected_to": "Exodus 37:16",
+    "connected_from": "Exodus 37:14"
+  },
+  {
+    "text": "And He made the vessels which [were] on the table—its dishes, and its pans, and its bowls, and the pitchers with which to pour out—with pure gold.",
+    "reference": "Exodus 37:16 (BLB)",
+    "connected_to": "Exodus 37:17",
+    "connected_from": "Exodus 37:15"
+  },
+  {
+    "text": "And He made the lampstand of pure gold. Of hammered work he made the lampstand. Its base, and its branch, its cups, its buds, and its flowers—they were from it.",
+    "reference": "Exodus 37:17 (BLB)",
+    "connected_to": "Exodus 37:18",
+    "connected_from": "Exodus 37:16"
+  },
+  {
+    "text": "And six branches came out from its sides, three branches of the lampstand out of the one side, and three branches of the lampstand out of the second side.",
+    "reference": "Exodus 37:18 (BLB)",
+    "connected_to": "Exodus 37:19",
+    "connected_from": "Exodus 37:17"
+  },
+  {
+    "text": "Three cups made like almond blossoms on the one branch—with a bud and a flower—and three cups like almond blossoms on the one branch—with a bud and a flower—thus for the six branches coming out from the lampstand.",
+    "reference": "Exodus 37:19 (BLB)",
+    "connected_to": "Exodus 37:20",
+    "connected_from": "Exodus 37:18"
+  },
+  {
+    "text": "And on the lampstand itself [were] four cups made like almond blossoms, its buds and its flowers.",
+    "reference": "Exodus 37:20 (BLB)",
+    "connected_to": "Exodus 37:21",
+    "connected_from": "Exodus 37:19"
+  },
+  {
+    "text": "And a bud [was] under the two branches from it, and a bud under the two branches from it, and a bud under the two branches from it, for the six branches going out from it.",
+    "reference": "Exodus 37:21 (BLB)",
+    "connected_to": "Exodus 37:22",
+    "connected_from": "Exodus 37:20"
+  },
+  {
+    "text": "Their buds and their branches were from it, all of it one hammered work of pure gold.",
+    "reference": "Exodus 37:22 (BLB)",
+    "connected_to": "Exodus 37:23",
+    "connected_from": "Exodus 37:21"
+  },
+  {
+    "text": "And he made its seven lamps, and its wick trimmers, and its firepans of pure gold.",
+    "reference": "Exodus 37:23 (BLB)",
+    "connected_to": "Exodus 37:24",
+    "connected_from": "Exodus 37:22"
+  },
+  {
+    "text": "Of a talent of pure gold he made it, and with all its vessels.",
+    "reference": "Exodus 37:24 (BLB)",
+    "connected_to": "Exodus 37:25",
+    "connected_from": "Exodus 37:23"
+  },
+  {
+    "text": "And He made the altar of the incense of acacia wood, a cubit its length, and a cubit its width—square—and two cubits its height. Its horns were from it.",
+    "reference": "Exodus 37:25 (BLB)",
+    "connected_to": "Exodus 37:26",
+    "connected_from": "Exodus 37:24"
+  },
+  {
+    "text": "And he overlaid it [with] pure gold, its top and its sides all around, and its horns, and He made for it a molding of gold all around.",
+    "reference": "Exodus 37:26 (BLB)",
+    "connected_to": "Exodus 37:27",
+    "connected_from": "Exodus 37:25"
+  },
+  {
+    "text": "And He made two gold rings for it under the molding, on two of its sides on both of its flanks, as holders for poles to carry it with them.",
+    "reference": "Exodus 37:27 (BLB)",
+    "connected_to": "Exodus 37:28",
+    "connected_from": "Exodus 37:26"
+  },
+  {
+    "text": "And he made the poles of acacia wood, and he overlaid them with gold.",
+    "reference": "Exodus 37:28 (BLB)",
+    "connected_to": "Exodus 37:29",
+    "connected_from": "Exodus 37:27"
+  },
+  {
+    "text": "And He made the holy anointing oil and the pure incense of spices, the work of a perfumer.",
+    "reference": "Exodus 37:29 (BLB)",
+    "connected_from": "Exodus 37:28"
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "text": "Then Jacob, lifting up his eyes, saw Esau arriving, and with him four hundred men. And he divided the sons of Leah and Rachel, and of both the handmaids.",
+    "reference": "Genesis 33:1 (CPDV)",
+    "connected_to": "Genesis 33:2"
+  },
+  {
+    "text": "And he placed the two handmaids and their children at the beginning. Truly, Leah and her sons were in the second place. Then Rachel and Joseph were last.",
+    "reference": "Genesis 33:2 (CPDV)",
+    "connected_to": "Genesis 33:3",
+    "connected_from": "Genesis 33:1"
+  },
+  {
+    "text": "And advancing, he reverenced prostrate on the ground seven times, until his brother approached.",
+    "reference": "Genesis 33:3 (CPDV)",
+    "connected_to": "Genesis 33:4",
+    "connected_from": "Genesis 33:2"
+  },
+  {
+    "text": "And so Esau ran to meet his brother, and he embraced him. And drawing him by his neck and kissing him, he wept.",
+    "reference": "Genesis 33:4 (CPDV)",
+    "connected_to": "Genesis 33:5",
+    "connected_from": "Genesis 33:3"
+  },
+  {
+    "text": "And lifting up his eyes, he saw the women and their little ones, and he said: “What do these want for themselves?” and “Are they related to you?” He responded, “These are the little ones that God has given as a gift to me, your servant.”",
+    "reference": "Genesis 33:5 (CPDV)",
+    "connected_to": "Genesis 33:6",
+    "connected_from": "Genesis 33:4"
+  },
+  {
+    "text": "Then the handmaids and their sons approached and bowed down.",
+    "reference": "Genesis 33:6 (CPDV)",
+    "connected_to": "Genesis 33:7",
+    "connected_from": "Genesis 33:5"
+  },
+  {
+    "text": "Likewise Leah, with her sons, came near. And when they had reverenced similarly, last of all, Joseph and Rachel reverenced.",
+    "reference": "Genesis 33:7 (CPDV)",
+    "connected_to": "Genesis 33:8",
+    "connected_from": "Genesis 33:6"
+  },
+  {
+    "text": "And Esau said, “What are these companies that I have been meeting?” He responded, “So may I find favor before my lord.”",
+    "reference": "Genesis 33:8 (CPDV)",
+    "connected_to": "Genesis 33:9",
+    "connected_from": "Genesis 33:7"
+  },
+  {
+    "text": "But he said, “I have plenty, my brother; let these be for yourself.”",
+    "reference": "Genesis 33:9 (CPDV)",
+    "connected_to": "Genesis 33:10",
+    "connected_from": "Genesis 33:8"
+  },
+  {
+    "text": "And Jacob said: “I beg you, let it not be so. But if I have found favor in your eyes, receive a small present from my hands. For I have looked upon your face as I would look upon the countenance of God. Be gracious to me,",
+    "reference": "Genesis 33:10 (CPDV)",
+    "connected_to": "Genesis 33:11",
+    "connected_from": "Genesis 33:9"
+  },
+  {
+    "text": "and take the blessing which I have brought to you, and which God, who bestows all things, has given as a gift to me.” Accepting it reluctantly, at the insistence of his brother,",
+    "reference": "Genesis 33:11 (CPDV)",
+    "connected_to": "Genesis 33:12",
+    "connected_from": "Genesis 33:10"
+  },
+  {
+    "text": "he said, “Let us go on together, and I will accompany you on your journey.”",
+    "reference": "Genesis 33:12 (CPDV)",
+    "connected_to": "Genesis 33:13",
+    "connected_from": "Genesis 33:11"
+  },
+  {
+    "text": "And Jacob said: “My lord, you know that I have with me tender little ones, and sheep, and cows with young. If I cause these to labor too much in walking, all the flocks will die in one day.",
+    "reference": "Genesis 33:13 (CPDV)",
+    "connected_to": "Genesis 33:14",
+    "connected_from": "Genesis 33:12"
+  },
+  {
+    "text": "May it please my lord to go before his servant. And I will follow gradually in his steps, as much as I see my little ones to be able, until I arrive to my lord in Seir.”",
+    "reference": "Genesis 33:14 (CPDV)",
+    "connected_to": "Genesis 33:15",
+    "connected_from": "Genesis 33:13"
+  },
+  {
+    "text": "Esau responded, “I beg you, that at least some of the people who are with me may remain to accompany you on the way.” But he said, “There is no need. I have need of one thing only: to find favor in your sight, my lord.”",
+    "reference": "Genesis 33:15 (CPDV)",
+    "connected_to": "Genesis 33:16",
+    "connected_from": "Genesis 33:14"
+  },
+  {
+    "text": "And so Esau returned that day, by the way that he had arrived, to Seir.",
+    "reference": "Genesis 33:16 (CPDV)",
+    "connected_to": "Genesis 33:17",
+    "connected_from": "Genesis 33:15"
+  },
+  {
+    "text": "And Jacob went to Succoth, where, having built a house and pitched tents, he called the name of that place Succoth, that is, ‘Tents.’",
+    "reference": "Genesis 33:17 (CPDV)",
+    "connected_to": "Genesis 33:18",
+    "connected_from": "Genesis 33:16"
+  },
+  {
+    "text": "And he crossed over to Salem, a city of the Shechemites, which is in the land of Canaan, after he returned from Mesopotamia of Syria. And he lived near the town.",
+    "reference": "Genesis 33:18 (CPDV)",
+    "connected_to": "Genesis 33:19",
+    "connected_from": "Genesis 33:17"
+  },
+  {
+    "text": "And he bought the part of the field in which he had pitched his tents from the sons of Hamor, the father of Shechem, for one hundred lambs.",
+    "reference": "Genesis 33:19 (CPDV)",
+    "connected_to": "Genesis 33:20",
+    "connected_from": "Genesis 33:18"
+  },
+  {
+    "text": "And erecting an altar there, he invoked upon it the most strong God of Israel.",
+    "reference": "Genesis 33:20 (CPDV)",
+    "connected_from": "Genesis 33:19"
+  }
+]

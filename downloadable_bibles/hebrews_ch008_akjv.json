@@ -1,0 +1,78 @@
+[
+  {
+    "text": "Now of the things which we have spoken this is the sum: We have such an high priest, who is set on the right hand of the throne of the Majesty in the heavens;",
+    "reference": "Hebrews 8:1 (AKJV)",
+    "connected_to": "Hebrews 8:2"
+  },
+  {
+    "text": "A minister of the sanctuary, and of the true tabernacle, which the Lord pitched, and not man.",
+    "reference": "Hebrews 8:2 (AKJV)",
+    "connected_to": "Hebrews 8:3",
+    "connected_from": "Hebrews 8:1"
+  },
+  {
+    "text": "For every high priest is ordained to offer gifts and sacrifices: why it is of necessity that this man have somewhat also to offer.",
+    "reference": "Hebrews 8:3 (AKJV)",
+    "connected_to": "Hebrews 8:4",
+    "connected_from": "Hebrews 8:2"
+  },
+  {
+    "text": "For if he were on earth, he should not be a priest, seeing that there are priests that offer gifts according to the law:",
+    "reference": "Hebrews 8:4 (AKJV)",
+    "connected_to": "Hebrews 8:5",
+    "connected_from": "Hebrews 8:3"
+  },
+  {
+    "text": "Who serve to the example and shadow of heavenly things, as Moses was admonished of God when he was about to make the tabernacle: for, See, said he, that you make all things according to the pattern showed to you in the mount.",
+    "reference": "Hebrews 8:5 (AKJV)",
+    "connected_to": "Hebrews 8:6",
+    "connected_from": "Hebrews 8:4"
+  },
+  {
+    "text": "But now has he obtained a more excellent ministry, by how much also he is the mediator of a better covenant, which was established on better promises.",
+    "reference": "Hebrews 8:6 (AKJV)",
+    "connected_to": "Hebrews 8:7",
+    "connected_from": "Hebrews 8:5"
+  },
+  {
+    "text": "For if that first covenant had been faultless, then should no place have been sought for the second.",
+    "reference": "Hebrews 8:7 (AKJV)",
+    "connected_to": "Hebrews 8:8",
+    "connected_from": "Hebrews 8:6"
+  },
+  {
+    "text": "For finding fault with them, he said, Behold, the days come, said the Lord, when I will make a new covenant with the house of Israel and with the house of Judah:",
+    "reference": "Hebrews 8:8 (AKJV)",
+    "connected_to": "Hebrews 8:9",
+    "connected_from": "Hebrews 8:7"
+  },
+  {
+    "text": "Not according to the covenant that I made with their fathers in the day when I took them by the hand to lead them out of the land of Egypt; because they continued not in my covenant, and I regarded them not, said the Lord.",
+    "reference": "Hebrews 8:9 (AKJV)",
+    "connected_to": "Hebrews 8:10",
+    "connected_from": "Hebrews 8:8"
+  },
+  {
+    "text": "For this is the covenant that I will make with the house of Israel after those days, said the Lord; I will put my laws into their mind, and write them in their hearts: and I will be to them a God, and they shall be to me a people:",
+    "reference": "Hebrews 8:10 (AKJV)",
+    "connected_to": "Hebrews 8:11",
+    "connected_from": "Hebrews 8:9"
+  },
+  {
+    "text": "And they shall not teach every man his neighbor, and every man his brother, saying, Know the Lord: for all shall know me, from the least to the greatest.",
+    "reference": "Hebrews 8:11 (AKJV)",
+    "connected_to": "Hebrews 8:12",
+    "connected_from": "Hebrews 8:10"
+  },
+  {
+    "text": "For I will be merciful to their unrighteousness, and their sins and their iniquities will I remember no more.",
+    "reference": "Hebrews 8:12 (AKJV)",
+    "connected_to": "Hebrews 8:13",
+    "connected_from": "Hebrews 8:11"
+  },
+  {
+    "text": "In that he said, A new covenant, he has made the first old. Now that which decays and waxes old is ready to vanish away.",
+    "reference": "Hebrews 8:13 (AKJV)",
+    "connected_from": "Hebrews 8:12"
+  }
+]

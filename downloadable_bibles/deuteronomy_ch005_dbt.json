@@ -1,0 +1,198 @@
+[
+  {
+    "text": "And Moses called to all Israel, and said to them, Hear, Israel, the statutes and the ordinances that I speak in your ears this day, and learn them, and keep them to do them.",
+    "reference": "Deuteronomy 5:1 (DBT)",
+    "connected_to": "Deuteronomy 5:2"
+  },
+  {
+    "text": "Jehovah our God made a covenant with us in Horeb.",
+    "reference": "Deuteronomy 5:2 (DBT)",
+    "connected_to": "Deuteronomy 5:3",
+    "connected_from": "Deuteronomy 5:1"
+  },
+  {
+    "text": "Not with our fathers did Jehovah make this covenant, but with us, [even] us, those [who are] here alive all of us this day.",
+    "reference": "Deuteronomy 5:3 (DBT)",
+    "connected_to": "Deuteronomy 5:4",
+    "connected_from": "Deuteronomy 5:2"
+  },
+  {
+    "text": "Face to face on the mountain from the midst of the fire Jehovah spoke with you",
+    "reference": "Deuteronomy 5:4 (DBT)",
+    "connected_to": "Deuteronomy 5:5",
+    "connected_from": "Deuteronomy 5:3"
+  },
+  {
+    "text": "(I stood between Jehovah and you at that time, to declare to you the word of Jehovah; for ye were afraid by reason of the fire, and went not up to the mountain), saying,",
+    "reference": "Deuteronomy 5:5 (DBT)",
+    "connected_to": "Deuteronomy 5:6",
+    "connected_from": "Deuteronomy 5:4"
+  },
+  {
+    "text": "I am Jehovah thy God who have brought thee out of the land of Egypt, out of the house of bondage.",
+    "reference": "Deuteronomy 5:6 (DBT)",
+    "connected_to": "Deuteronomy 5:7",
+    "connected_from": "Deuteronomy 5:5"
+  },
+  {
+    "text": "Thou shalt have no other gods before me.",
+    "reference": "Deuteronomy 5:7 (DBT)",
+    "connected_to": "Deuteronomy 5:8",
+    "connected_from": "Deuteronomy 5:6"
+  },
+  {
+    "text": "Thou shalt not make thyself any graven image, any form of what is in the heavens above, or what is in the earth beneath, or what is in the waters under the earth:",
+    "reference": "Deuteronomy 5:8 (DBT)",
+    "connected_to": "Deuteronomy 5:9",
+    "connected_from": "Deuteronomy 5:7"
+  },
+  {
+    "text": "thou shalt not bow down thyself to them, nor serve them; for I, Jehovah thy God, am a jealous God, visiting the iniquity of the fathers upon the sons, and upon the third and upon the fourth [generation] of them that hate me,",
+    "reference": "Deuteronomy 5:9 (DBT)",
+    "connected_to": "Deuteronomy 5:10",
+    "connected_from": "Deuteronomy 5:8"
+  },
+  {
+    "text": "and shewing mercy unto thousands of them that love me and keep my commandments.",
+    "reference": "Deuteronomy 5:10 (DBT)",
+    "connected_to": "Deuteronomy 5:11",
+    "connected_from": "Deuteronomy 5:9"
+  },
+  {
+    "text": "Thou shalt not idly utter the name of Jehovah thy God; for Jehovah will not hold him guiltless that idly uttereth his name.",
+    "reference": "Deuteronomy 5:11 (DBT)",
+    "connected_to": "Deuteronomy 5:12",
+    "connected_from": "Deuteronomy 5:10"
+  },
+  {
+    "text": "Keep the sabbath day to hallow it, as Jehovah thy God hath commanded thee.",
+    "reference": "Deuteronomy 5:12 (DBT)",
+    "connected_to": "Deuteronomy 5:13",
+    "connected_from": "Deuteronomy 5:11"
+  },
+  {
+    "text": "Six days shalt thou labour, and do all thy work;",
+    "reference": "Deuteronomy 5:13 (DBT)",
+    "connected_to": "Deuteronomy 5:14",
+    "connected_from": "Deuteronomy 5:12"
+  },
+  {
+    "text": "but the seventh day is the sabbath of Jehovah thy God: thou shalt not do any work, thou, nor thy son, nor thy daughter, nor thy bondman, nor thy handmaid, nor thine ox, nor thine ass, nor any of thy cattle, nor thy sojourner that is within thy gates; that thy bondman and thy handmaid may rest as well as thou.",
+    "reference": "Deuteronomy 5:14 (DBT)",
+    "connected_to": "Deuteronomy 5:15",
+    "connected_from": "Deuteronomy 5:13"
+  },
+  {
+    "text": "And thou shalt remember that thou wast a bondman in the land of Egypt, and that Jehovah thy God brought thee out thence with a powerful hand and with a stretched-out arm; therefore Jehovah thy God hath commanded thee to observe the sabbath day.",
+    "reference": "Deuteronomy 5:15 (DBT)",
+    "connected_to": "Deuteronomy 5:16",
+    "connected_from": "Deuteronomy 5:14"
+  },
+  {
+    "text": "Honour thy father and thy mother, as Jehovah thy God hath commanded thee; that thy days may be prolonged, and that it may be well with thee in the land which Jehovah thy God giveth thee.",
+    "reference": "Deuteronomy 5:16 (DBT)",
+    "connected_to": "Deuteronomy 5:17",
+    "connected_from": "Deuteronomy 5:15"
+  },
+  {
+    "text": "Thou shalt not kill.",
+    "reference": "Deuteronomy 5:17 (DBT)",
+    "connected_to": "Deuteronomy 5:18",
+    "connected_from": "Deuteronomy 5:16"
+  },
+  {
+    "text": "Neither shalt thou commit adultery.",
+    "reference": "Deuteronomy 5:18 (DBT)",
+    "connected_to": "Deuteronomy 5:19",
+    "connected_from": "Deuteronomy 5:17"
+  },
+  {
+    "text": "Neither shalt thou steal.",
+    "reference": "Deuteronomy 5:19 (DBT)",
+    "connected_to": "Deuteronomy 5:20",
+    "connected_from": "Deuteronomy 5:18"
+  },
+  {
+    "text": "Neither shalt thou bear false witness against thy neighbour.",
+    "reference": "Deuteronomy 5:20 (DBT)",
+    "connected_to": "Deuteronomy 5:21",
+    "connected_from": "Deuteronomy 5:19"
+  },
+  {
+    "text": "Neither shalt thou desire thy neighbour’s wife, neither shalt thou covet thy neighbour’s house, his field, nor his bondman, nor his handmaid, his ox, nor his ass, nor anything that is thy neighbour’s.",
+    "reference": "Deuteronomy 5:21 (DBT)",
+    "connected_to": "Deuteronomy 5:22",
+    "connected_from": "Deuteronomy 5:20"
+  },
+  {
+    "text": "These words Jehovah spoke to all your congregation on the mountain from the midst of the fire, of the cloud, and of the obscurity, with a great voice, and he added no more; and he wrote them on two tables of stone, and gave them to me.",
+    "reference": "Deuteronomy 5:22 (DBT)",
+    "connected_to": "Deuteronomy 5:23",
+    "connected_from": "Deuteronomy 5:21"
+  },
+  {
+    "text": "And it came to pass, when ye heard the voice from the midst of the darkness, and the mountain burned with fire, that ye came near to me, all the heads of your tribes, and your elders;",
+    "reference": "Deuteronomy 5:23 (DBT)",
+    "connected_to": "Deuteronomy 5:24",
+    "connected_from": "Deuteronomy 5:22"
+  },
+  {
+    "text": "and ye said, Behold, Jehovah our God has shewn us his glory and his greatness, and we have heard his voice from the midst of the fire: we have seen this day that God talks with man, and he lives.",
+    "reference": "Deuteronomy 5:24 (DBT)",
+    "connected_to": "Deuteronomy 5:25",
+    "connected_from": "Deuteronomy 5:23"
+  },
+  {
+    "text": "And now, why should we die? for this great fire will consume us. If we hear the voice of Jehovah our God any more, we shall die.",
+    "reference": "Deuteronomy 5:25 (DBT)",
+    "connected_to": "Deuteronomy 5:26",
+    "connected_from": "Deuteronomy 5:24"
+  },
+  {
+    "text": "For who is there of all flesh, that has heard the voice of the living God speaking from the midst of the fire, as we, and has lived?",
+    "reference": "Deuteronomy 5:26 (DBT)",
+    "connected_to": "Deuteronomy 5:27",
+    "connected_from": "Deuteronomy 5:25"
+  },
+  {
+    "text": "Come thou near, and hear all that Jehovah our God will say; and speak thou to us all that Jehovah our God will speak to thee; and we will hear it, and do it.",
+    "reference": "Deuteronomy 5:27 (DBT)",
+    "connected_to": "Deuteronomy 5:28",
+    "connected_from": "Deuteronomy 5:26"
+  },
+  {
+    "text": "And Jehovah heard the voice of your words, when ye spoke to me; and Jehovah said unto me, I have heard the voice of the words of this people that have spoken to thee: they have well spoken all that they have spoken.",
+    "reference": "Deuteronomy 5:28 (DBT)",
+    "connected_to": "Deuteronomy 5:29",
+    "connected_from": "Deuteronomy 5:27"
+  },
+  {
+    "text": "Oh that there were such a heart in them, that they would fear me, and keep all my commandments continually, that it might be well with them and with their sons for ever!",
+    "reference": "Deuteronomy 5:29 (DBT)",
+    "connected_to": "Deuteronomy 5:30",
+    "connected_from": "Deuteronomy 5:28"
+  },
+  {
+    "text": "Go, say unto them, Get you into your tents again.",
+    "reference": "Deuteronomy 5:30 (DBT)",
+    "connected_to": "Deuteronomy 5:31",
+    "connected_from": "Deuteronomy 5:29"
+  },
+  {
+    "text": "But as for thee, stand thou here by me, and I will speak unto thee all the commandments, and the statutes, and the ordinances, which thou shalt teach them, that they may do them in the land which I give them to possess it.",
+    "reference": "Deuteronomy 5:31 (DBT)",
+    "connected_to": "Deuteronomy 5:32",
+    "connected_from": "Deuteronomy 5:30"
+  },
+  {
+    "text": "Take heed then to do as Jehovah your God hath commanded you: turn not aside to the right hand or to the left.",
+    "reference": "Deuteronomy 5:32 (DBT)",
+    "connected_to": "Deuteronomy 5:33",
+    "connected_from": "Deuteronomy 5:31"
+  },
+  {
+    "text": "In all the way that Jehovah your God hath commanded you shall ye walk, that ye may live, and that it may be well with you, and that ye may prolong your days in the land which ye shall possess.",
+    "reference": "Deuteronomy 5:33 (DBT)",
+    "connected_from": "Deuteronomy 5:32"
+  }
+]

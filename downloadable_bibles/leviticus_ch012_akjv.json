@@ -1,0 +1,48 @@
+[
+  {
+    "text": "And the LORD spoke to Moses, saying,",
+    "reference": "Leviticus 12:1 (AKJV)",
+    "connected_to": "Leviticus 12:2"
+  },
+  {
+    "text": "Speak to the children of Israel, saying, If a woman have conceived seed, and born a man child: then she shall be unclean seven days; according to the days of the separation for her infirmity shall she be unclean.",
+    "reference": "Leviticus 12:2 (AKJV)",
+    "connected_to": "Leviticus 12:3",
+    "connected_from": "Leviticus 12:1"
+  },
+  {
+    "text": "And in the eighth day the flesh of his foreskin shall be circumcised.",
+    "reference": "Leviticus 12:3 (AKJV)",
+    "connected_to": "Leviticus 12:4",
+    "connected_from": "Leviticus 12:2"
+  },
+  {
+    "text": "And she shall then continue in the blood of her purifying three and thirty days; she shall touch no hallowed thing, nor come into the sanctuary, until the days of her purifying be fulfilled.",
+    "reference": "Leviticus 12:4 (AKJV)",
+    "connected_to": "Leviticus 12:5",
+    "connected_from": "Leviticus 12:3"
+  },
+  {
+    "text": "But if she bear a maid child, then she shall be unclean two weeks, as in her separation: and she shall continue in the blood of her purifying three score and six days.",
+    "reference": "Leviticus 12:5 (AKJV)",
+    "connected_to": "Leviticus 12:6",
+    "connected_from": "Leviticus 12:4"
+  },
+  {
+    "text": "And when the days of her purifying are fulfilled, for a son, or for a daughter, she shall bring a lamb of the first year for a burnt offering, and a young pigeon, or a turtledove, for a sin offering, to the door of the tabernacle of the congregation, to the priest:",
+    "reference": "Leviticus 12:6 (AKJV)",
+    "connected_to": "Leviticus 12:7",
+    "connected_from": "Leviticus 12:5"
+  },
+  {
+    "text": "Who shall offer it before the LORD, and make an atonement for her; and she shall be cleansed from the issue of her blood. This is the law for her that has born a male or a female.",
+    "reference": "Leviticus 12:7 (AKJV)",
+    "connected_to": "Leviticus 12:8",
+    "connected_from": "Leviticus 12:6"
+  },
+  {
+    "text": "And if she be not able to bring a lamb, then she shall bring two turtles, or two young pigeons; the one for the burnt offering, and the other for a sin offering: and the priest shall make an atonement for her, and she shall be clean.",
+    "reference": "Leviticus 12:8 (AKJV)",
+    "connected_from": "Leviticus 12:7"
+  }
+]

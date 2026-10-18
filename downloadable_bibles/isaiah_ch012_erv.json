@@ -1,0 +1,36 @@
+[
+  {
+    "text": "And in that day thou shalt say, I will give thanks unto thee, O LORD; for though thou wast angry with me, thine anger is turned away, and thou comfortest me.",
+    "reference": "Isaiah 12:1 (ERV)",
+    "connected_to": "Isaiah 12:2"
+  },
+  {
+    "text": "Behold, God is my salvation; I will trust, and will not be afraid: for the LORD JEHOVAH is my strength and song; and he is become my salvation.",
+    "reference": "Isaiah 12:2 (ERV)",
+    "connected_to": "Isaiah 12:3",
+    "connected_from": "Isaiah 12:1"
+  },
+  {
+    "text": "Therefore with joy shall ye draw water out of the wells of salvation.",
+    "reference": "Isaiah 12:3 (ERV)",
+    "connected_to": "Isaiah 12:4",
+    "connected_from": "Isaiah 12:2"
+  },
+  {
+    "text": "And in that day shall ye say, Give thanks unto the LORD, call upon his name, declare his doings among the peoples, make mention that his name is exalted.",
+    "reference": "Isaiah 12:4 (ERV)",
+    "connected_to": "Isaiah 12:5",
+    "connected_from": "Isaiah 12:3"
+  },
+  {
+    "text": "Sing unto the LORD; for he hath done excellent things: let this be known in all the earth.",
+    "reference": "Isaiah 12:5 (ERV)",
+    "connected_to": "Isaiah 12:6",
+    "connected_from": "Isaiah 12:4"
+  },
+  {
+    "text": "Cry aloud and shout, thou inhabitant of Zion: for great is the Holy One of Israel in the midst of thee.",
+    "reference": "Isaiah 12:6 (ERV)",
+    "connected_from": "Isaiah 12:5"
+  }
+]

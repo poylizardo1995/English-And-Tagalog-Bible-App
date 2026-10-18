@@ -1,0 +1,66 @@
+[
+  {
+    "text": "Then I saw another mighty angel (messenger) coming down from heaven, wrapped in a cloud, with a rainbow above his head. His face was like the sun, and his legs were like pillars of fire.",
+    "reference": "Revelation 10:1 (BAB)",
+    "connected_to": "Revelation 10:2"
+  },
+  {
+    "text": "He held in his hand a small scroll (papyrus roll), which lay open. He placed his right foot on the sea and his left foot on the land.",
+    "reference": "Revelation 10:2 (BAB)",
+    "connected_to": "Revelation 10:3",
+    "connected_from": "Revelation 10:1"
+  },
+  {
+    "text": "Then he cried out in a loud voice like the roar of a lion. And when he cried out, the seven thunders sounded their voices.",
+    "reference": "Revelation 10:3 (BAB)",
+    "connected_to": "Revelation 10:4",
+    "connected_from": "Revelation 10:2"
+  },
+  {
+    "text": "When the seven thunders had spoken, I was about to put it in writing. But I heard a voice from heaven saying, “Seal up what the seven thunders have said, and do not write it down.",
+    "reference": "Revelation 10:4 (BAB)",
+    "connected_to": "Revelation 10:5",
+    "connected_from": "Revelation 10:3"
+  },
+  {
+    "text": "Then the angel (messenger) I had seen standing on the sea and on the land lifted up his right hand to heaven.",
+    "reference": "Revelation 10:5 (BAB)",
+    "connected_to": "Revelation 10:6",
+    "connected_from": "Revelation 10:4"
+  },
+  {
+    "text": "And he swore by Him who lives forever \\to the ages/ and ever, who created heaven and everything in it, the earth and everything in it, and the sea and everything in it: “There will be no more delay!",
+    "reference": "Revelation 10:6 (BAB)",
+    "connected_to": "Revelation 10:7",
+    "connected_from": "Revelation 10:5"
+  },
+  {
+    "text": "But in the days of the voice of the seventh angel (messenger), when he begins to sound his trumpet, the mystery of God {Theou} will be fulfilled, just as He proclaimed to His servants {doulous} the prophets.",
+    "reference": "Revelation 10:7 (BAB)",
+    "connected_to": "Revelation 10:8",
+    "connected_from": "Revelation 10:6"
+  },
+  {
+    "text": "Then the voice that I had heard from heaven spoke to me again, saying, “Go, take the small scroll (papyrus roll) that lies open in the hand of the angel (messenger) standing on the sea and on the land.",
+    "reference": "Revelation 10:8 (BAB)",
+    "connected_to": "Revelation 10:9",
+    "connected_from": "Revelation 10:7"
+  },
+  {
+    "text": "And I went to the angel (messenger) and said, “Give me the small scroll (papyrus roll). “Take it and eat it, he said. “It will make your stomach bitter, but in your mouth it will be as sweet as honey <Num 5:24, Ezk 3:3>.”",
+    "reference": "Revelation 10:9 (BAB)",
+    "connected_to": "Revelation 10:10",
+    "connected_from": "Revelation 10:8"
+  },
+  {
+    "text": "So I took the small scroll (papyrus roll) from the angel’s hand and ate it, and it was as sweet as honey in my mouth. But when I had eaten it, my stomach turned bitter.",
+    "reference": "Revelation 10:10 (BAB)",
+    "connected_to": "Revelation 10:11",
+    "connected_from": "Revelation 10:9"
+  },
+  {
+    "text": "And they told me, “You must prophesy again about many peoples and nations {ethnesin} and tongues (languages) and kings.",
+    "reference": "Revelation 10:11 (BAB)",
+    "connected_from": "Revelation 10:10"
+  }
+]

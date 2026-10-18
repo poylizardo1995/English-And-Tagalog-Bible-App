@@ -1,0 +1,84 @@
+[
+  {
+    "text": "Let every soul be subject to higher authorities. For there is no authority except from God and those who have been ordained by God.",
+    "reference": "Romans 13:1 (CPDV)",
+    "connected_to": "Romans 13:2"
+  },
+  {
+    "text": "And so, whoever resists authority, resists what has been ordained by God. And those who resist are acquiring damnation for themselves.",
+    "reference": "Romans 13:2 (CPDV)",
+    "connected_to": "Romans 13:3",
+    "connected_from": "Romans 13:1"
+  },
+  {
+    "text": "For leaders are not a source of fear to those who work good, but to those who work evil. And would you prefer not to be afraid of authority? Then do what is good, and you shall have praise from them.",
+    "reference": "Romans 13:3 (CPDV)",
+    "connected_to": "Romans 13:4",
+    "connected_from": "Romans 13:2"
+  },
+  {
+    "text": "For he is a minister of God for you unto good. But if you do what is evil, be afraid. For it is not without reason that he carries a sword. For he is a minister of God; an avenger to execute wrath upon whomever does evil.",
+    "reference": "Romans 13:4 (CPDV)",
+    "connected_to": "Romans 13:5",
+    "connected_from": "Romans 13:3"
+  },
+  {
+    "text": "For this reason, it is necessary to be subject, not solely because of wrath, but also because of conscience.",
+    "reference": "Romans 13:5 (CPDV)",
+    "connected_to": "Romans 13:6",
+    "connected_from": "Romans 13:4"
+  },
+  {
+    "text": "Therefore, you must also offer tribute. For they are the ministers of God, serving him in this.",
+    "reference": "Romans 13:6 (CPDV)",
+    "connected_to": "Romans 13:7",
+    "connected_from": "Romans 13:5"
+  },
+  {
+    "text": "Therefore, render to all whatever is owed. Taxes, to whom taxes is due; revenue, to whom revenue is due; fear, to whom fear is due; honor, to whom honor is due.",
+    "reference": "Romans 13:7 (CPDV)",
+    "connected_to": "Romans 13:8",
+    "connected_from": "Romans 13:6"
+  },
+  {
+    "text": "You should owe nothing to anyone, except so as to love one another. For whoever loves his neighbor has fulfilled the law.",
+    "reference": "Romans 13:8 (CPDV)",
+    "connected_to": "Romans 13:9",
+    "connected_from": "Romans 13:7"
+  },
+  {
+    "text": "For example: You shall not commit adultery. You shall not kill. You shall not steal. You shall not speak false testimony. You shall not covet. And if there is any other commandment, it is summed up in this word: You shall love your neighbor as yourself.",
+    "reference": "Romans 13:9 (CPDV)",
+    "connected_to": "Romans 13:10",
+    "connected_from": "Romans 13:8"
+  },
+  {
+    "text": "The love of neighbor does no harm. Therefore, love is the plenitude of the law.",
+    "reference": "Romans 13:10 (CPDV)",
+    "connected_to": "Romans 13:11",
+    "connected_from": "Romans 13:9"
+  },
+  {
+    "text": "And we know the present time, that now is the hour for us to rise up from sleep. For already our salvation is closer than when we first believed.",
+    "reference": "Romans 13:11 (CPDV)",
+    "connected_to": "Romans 13:12",
+    "connected_from": "Romans 13:10"
+  },
+  {
+    "text": "The night has passed, and the day draws near. Therefore, let us cast aside the works of darkness, and be clothed with the armor of light.",
+    "reference": "Romans 13:12 (CPDV)",
+    "connected_to": "Romans 13:13",
+    "connected_from": "Romans 13:11"
+  },
+  {
+    "text": "Let us walk honestly, as in the daylight, not in carousing and drunkenness, not in promiscuity and sexual immorality, not in contention and envy.",
+    "reference": "Romans 13:13 (CPDV)",
+    "connected_to": "Romans 13:14",
+    "connected_from": "Romans 13:12"
+  },
+  {
+    "text": "Instead, be clothed with the Lord Jesus Christ, and make no provision for the flesh in its desires.",
+    "reference": "Romans 13:14 (CPDV)",
+    "connected_from": "Romans 13:13"
+  }
+]

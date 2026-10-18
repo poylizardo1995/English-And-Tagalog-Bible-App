@@ -1,0 +1,42 @@
+[
+  {
+    "text": "For the one directing. Of David. <span class=|reftext|><a href=|#|><b>1</b></a> In YHWH I have taken refuge. How can you⁺ say to my soul, “Flee to your⁺ mountain a bird!",
+    "reference": "Psalm 11:1 (BLB)",
+    "connected_to": "Psalm 11:2"
+  },
+  {
+    "text": "For, behold, the wicked tread the bow; they make ready their arrow upon the string, to shoot in the darkness at those upright in heart.",
+    "reference": "Psalm 11:2 (BLB)",
+    "connected_to": "Psalm 11:3",
+    "connected_from": "Psalm 11:1"
+  },
+  {
+    "text": "If the foundations are thrown down, the righteous—what can he do?”",
+    "reference": "Psalm 11:3 (BLB)",
+    "connected_to": "Psalm 11:4",
+    "connected_from": "Psalm 11:2"
+  },
+  {
+    "text": "YHWH [is] is in His holy temple; YHWH—in the heavens [is] His throne. His eyes are watching, His eyelids examine the sons of man.",
+    "reference": "Psalm 11:4 (BLB)",
+    "connected_to": "Psalm 11:5",
+    "connected_from": "Psalm 11:3"
+  },
+  {
+    "text": "YHWH tests the righteous, and His soul hates the wicked one and the lover of violence.",
+    "reference": "Psalm 11:5 (BLB)",
+    "connected_to": "Psalm 11:6",
+    "connected_from": "Psalm 11:4"
+  },
+  {
+    "text": "May He rain [down] coals upon the wicked, fire and brimstone; and a burning wind [is] the portion of their cup.",
+    "reference": "Psalm 11:6 (BLB)",
+    "connected_to": "Psalm 11:7",
+    "connected_from": "Psalm 11:5"
+  },
+  {
+    "text": "For YHWH [is] righteous; He loves righteousness; the upright one will see His face.",
+    "reference": "Psalm 11:7 (BLB)",
+    "connected_from": "Psalm 11:6"
+  }
+]

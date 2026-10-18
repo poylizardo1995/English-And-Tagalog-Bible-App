@@ -1,0 +1,150 @@
+[
+  {
+    "text": "The book of the lineage of Jesus Christ, the son of David, the son of Abraham.",
+    "reference": "Matthew 1:1 (CPDV)",
+    "connected_to": "Matthew 1:2"
+  },
+  {
+    "text": "Abraham conceived Isaac. And Isaac conceived Jacob. And Jacob conceived Judah and his brothers.",
+    "reference": "Matthew 1:2 (CPDV)",
+    "connected_to": "Matthew 1:3",
+    "connected_from": "Matthew 1:1"
+  },
+  {
+    "text": "And Judah conceived Perez and Zerah by Tamar. And Perez conceived Hezron. And Hezron conceived Ram.",
+    "reference": "Matthew 1:3 (CPDV)",
+    "connected_to": "Matthew 1:4",
+    "connected_from": "Matthew 1:2"
+  },
+  {
+    "text": "And Ram conceived Amminadab. And Amminadab conceived Nahshon. And Nahshon conceived Salmon.",
+    "reference": "Matthew 1:4 (CPDV)",
+    "connected_to": "Matthew 1:5",
+    "connected_from": "Matthew 1:3"
+  },
+  {
+    "text": "And Salmon conceived Boaz by Rahab. And Boaz conceived Obed by Ruth. And Obed conceived Jesse.",
+    "reference": "Matthew 1:5 (CPDV)",
+    "connected_to": "Matthew 1:6",
+    "connected_from": "Matthew 1:4"
+  },
+  {
+    "text": "And Jesse conceived king David. And king David conceived Solomon, by her who had been the wife of Uriah.",
+    "reference": "Matthew 1:6 (CPDV)",
+    "connected_to": "Matthew 1:7",
+    "connected_from": "Matthew 1:5"
+  },
+  {
+    "text": "And Solomon conceived Rehoboam. And Rehoboam conceived Abijah. And Abijah conceived Asa.",
+    "reference": "Matthew 1:7 (CPDV)",
+    "connected_to": "Matthew 1:8",
+    "connected_from": "Matthew 1:6"
+  },
+  {
+    "text": "And Asa conceived Jehoshaphat. And Jehoshaphat conceived Joram. And Joram conceived Uzziah.",
+    "reference": "Matthew 1:8 (CPDV)",
+    "connected_to": "Matthew 1:9",
+    "connected_from": "Matthew 1:7"
+  },
+  {
+    "text": "And Uzziah conceived Jotham. And Jotham conceived Ahaz. And Ahaz conceived Hezekiah.",
+    "reference": "Matthew 1:9 (CPDV)",
+    "connected_to": "Matthew 1:10",
+    "connected_from": "Matthew 1:8"
+  },
+  {
+    "text": "And Hezekiah conceived Manasseh. And Manasseh conceived Amos. And Amos conceived Josiah.",
+    "reference": "Matthew 1:10 (CPDV)",
+    "connected_to": "Matthew 1:11",
+    "connected_from": "Matthew 1:9"
+  },
+  {
+    "text": "And Josiah conceived Jechoniah and his brothers in the transmigration of Babylon.",
+    "reference": "Matthew 1:11 (CPDV)",
+    "connected_to": "Matthew 1:12",
+    "connected_from": "Matthew 1:10"
+  },
+  {
+    "text": "And after the transmigration of Babylon, Jechoniah conceived Shealtiel. And Shealtiel conceived Zerubbabel.",
+    "reference": "Matthew 1:12 (CPDV)",
+    "connected_to": "Matthew 1:13",
+    "connected_from": "Matthew 1:11"
+  },
+  {
+    "text": "And Zerubbabel conceived Abiud. And Abiud conceived Eliakim. And Eliakim conceived Azor.",
+    "reference": "Matthew 1:13 (CPDV)",
+    "connected_to": "Matthew 1:14",
+    "connected_from": "Matthew 1:12"
+  },
+  {
+    "text": "And Azor conceived Zadok. And Zadok conceived Achim. And Achim conceived Eliud.",
+    "reference": "Matthew 1:14 (CPDV)",
+    "connected_to": "Matthew 1:15",
+    "connected_from": "Matthew 1:13"
+  },
+  {
+    "text": "And Eliud conceived Eleazar. And Eleazar conceived Matthan. And Matthan conceived Jacob.",
+    "reference": "Matthew 1:15 (CPDV)",
+    "connected_to": "Matthew 1:16",
+    "connected_from": "Matthew 1:14"
+  },
+  {
+    "text": "And Jacob conceived Joseph, the husband of Mary, of whom was born Jesus, who is called Christ.",
+    "reference": "Matthew 1:16 (CPDV)",
+    "connected_to": "Matthew 1:17",
+    "connected_from": "Matthew 1:15"
+  },
+  {
+    "text": "And so, all the generations from Abraham to David are fourteen generations; and from David to the transmigration of Babylon, fourteen generations; and from the transmigration of Babylon to the Christ, fourteen generations.",
+    "reference": "Matthew 1:17 (CPDV)",
+    "connected_to": "Matthew 1:18",
+    "connected_from": "Matthew 1:16"
+  },
+  {
+    "text": "Now the procreation of the Christ occurred in this way. After his mother Mary had been betrothed to Joseph, before they lived together, she was found to have conceived in her womb by the Holy Spirit.",
+    "reference": "Matthew 1:18 (CPDV)",
+    "connected_to": "Matthew 1:19",
+    "connected_from": "Matthew 1:17"
+  },
+  {
+    "text": "Then Joseph, her husband, since he was just and was not willing to hand her over, preferred to send her away secretly.",
+    "reference": "Matthew 1:19 (CPDV)",
+    "connected_to": "Matthew 1:20",
+    "connected_from": "Matthew 1:18"
+  },
+  {
+    "text": "But while thinking over these things, behold, an Angel of the Lord appeared to him in his sleep, saying: “Joseph, son of David, do not be afraid to accept Mary as your wife. For what has been formed in her is of the Holy Spirit.",
+    "reference": "Matthew 1:20 (CPDV)",
+    "connected_to": "Matthew 1:21",
+    "connected_from": "Matthew 1:19"
+  },
+  {
+    "text": "And she shall give birth to a son. And you shall call his name JESUS. For he shall accomplish the salvation of his people from their sins.”",
+    "reference": "Matthew 1:21 (CPDV)",
+    "connected_to": "Matthew 1:22",
+    "connected_from": "Matthew 1:20"
+  },
+  {
+    "text": "Now all this occurred in order to fulfill what was spoken by the Lord through the prophet, saying:",
+    "reference": "Matthew 1:22 (CPDV)",
+    "connected_to": "Matthew 1:23",
+    "connected_from": "Matthew 1:21"
+  },
+  {
+    "text": "“Behold, a virgin shall conceive in her womb, and she shall give birth to a son. And they shall call his name Emmanuel, which means: God is with us.”",
+    "reference": "Matthew 1:23 (CPDV)",
+    "connected_to": "Matthew 1:24",
+    "connected_from": "Matthew 1:22"
+  },
+  {
+    "text": "Then Joseph, arising from sleep, did just as the Angel of the Lord had instructed him, and he accepted her as his wife.",
+    "reference": "Matthew 1:24 (CPDV)",
+    "connected_to": "Matthew 1:25",
+    "connected_from": "Matthew 1:23"
+  },
+  {
+    "text": "And he knew her not, yet she bore her son, the firstborn. And he called his name JESUS.",
+    "reference": "Matthew 1:25 (CPDV)",
+    "connected_from": "Matthew 1:24"
+  }
+]

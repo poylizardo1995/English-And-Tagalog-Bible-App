@@ -1,0 +1,60 @@
+[
+  {
+    "text": "To you, O God, do we give thanks, to you do we give thanks: for that your name is near your wondrous works declare.",
+    "reference": "Psalm 75:1 (AKJV)",
+    "connected_to": "Psalm 75:2"
+  },
+  {
+    "text": "When I shall receive the congregation I will judge uprightly.",
+    "reference": "Psalm 75:2 (AKJV)",
+    "connected_to": "Psalm 75:3",
+    "connected_from": "Psalm 75:1"
+  },
+  {
+    "text": "The earth and all the inhabitants thereof are dissolved: I bear up the pillars of it. Selah.",
+    "reference": "Psalm 75:3 (AKJV)",
+    "connected_to": "Psalm 75:4",
+    "connected_from": "Psalm 75:2"
+  },
+  {
+    "text": "I said to the fools, Deal not foolishly: and to the wicked, Lift not up the horn:",
+    "reference": "Psalm 75:4 (AKJV)",
+    "connected_to": "Psalm 75:5",
+    "connected_from": "Psalm 75:3"
+  },
+  {
+    "text": "Lift not up your horn on high: speak not with a stiff neck.",
+    "reference": "Psalm 75:5 (AKJV)",
+    "connected_to": "Psalm 75:6",
+    "connected_from": "Psalm 75:4"
+  },
+  {
+    "text": "For promotion comes neither from the east, nor from the west, nor from the south.",
+    "reference": "Psalm 75:6 (AKJV)",
+    "connected_to": "Psalm 75:7",
+    "connected_from": "Psalm 75:5"
+  },
+  {
+    "text": "But God is the judge: he puts down one, and sets up another.",
+    "reference": "Psalm 75:7 (AKJV)",
+    "connected_to": "Psalm 75:8",
+    "connected_from": "Psalm 75:6"
+  },
+  {
+    "text": "For in the hand of the LORD there is a cup, and the wine is red; it is full of mixture; and he pours out of the same: but the dregs thereof, all the wicked of the earth shall wring them out, and drink them.",
+    "reference": "Psalm 75:8 (AKJV)",
+    "connected_to": "Psalm 75:9",
+    "connected_from": "Psalm 75:7"
+  },
+  {
+    "text": "But I will declare for ever; I will sing praises to the God of Jacob.",
+    "reference": "Psalm 75:9 (AKJV)",
+    "connected_to": "Psalm 75:10",
+    "connected_from": "Psalm 75:8"
+  },
+  {
+    "text": "All the horns of the wicked also will I cut off; but the horns of the righteous shall be exalted.",
+    "reference": "Psalm 75:10 (AKJV)",
+    "connected_from": "Psalm 75:9"
+  }
+]

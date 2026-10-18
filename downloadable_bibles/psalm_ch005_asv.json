@@ -1,0 +1,72 @@
+[
+  {
+    "text": "For the Chief Musician; with the Nehiloth. A Psalm of David. Give ear to my words, O Jehovah, Consider my meditation.",
+    "reference": "Psalm 5:1 (ASV)",
+    "connected_to": "Psalm 5:2"
+  },
+  {
+    "text": "Hearken unto the voice of my cry, my King, and my God; For unto thee do I pray.",
+    "reference": "Psalm 5:2 (ASV)",
+    "connected_to": "Psalm 5:3",
+    "connected_from": "Psalm 5:1"
+  },
+  {
+    "text": "O Jehovah, in the morning shalt thou hear my voice; In the morning will I order my prayer unto thee, and will keep watch.",
+    "reference": "Psalm 5:3 (ASV)",
+    "connected_to": "Psalm 5:4",
+    "connected_from": "Psalm 5:2"
+  },
+  {
+    "text": "For thou art not a God that hath pleasure in wickedness: Evil shall not sojourn with thee.",
+    "reference": "Psalm 5:4 (ASV)",
+    "connected_to": "Psalm 5:5",
+    "connected_from": "Psalm 5:3"
+  },
+  {
+    "text": "The arrogant shall not stand in thy sight: Thou hatest all workers of iniquity.",
+    "reference": "Psalm 5:5 (ASV)",
+    "connected_to": "Psalm 5:6",
+    "connected_from": "Psalm 5:4"
+  },
+  {
+    "text": "Thou wilt destroy them that speak lies: Jehovah abhorreth the blood-thirsty and deceitful man.",
+    "reference": "Psalm 5:6 (ASV)",
+    "connected_to": "Psalm 5:7",
+    "connected_from": "Psalm 5:5"
+  },
+  {
+    "text": "But as for me, in the abundance of thy lovingkindness will I come into thy house: In thy fear will I worship toward thy holy temple.",
+    "reference": "Psalm 5:7 (ASV)",
+    "connected_to": "Psalm 5:8",
+    "connected_from": "Psalm 5:6"
+  },
+  {
+    "text": "Lead me, O Jehovah, in thy righteousness because of mine enemies; Make thy way straight before my face.",
+    "reference": "Psalm 5:8 (ASV)",
+    "connected_to": "Psalm 5:9",
+    "connected_from": "Psalm 5:7"
+  },
+  {
+    "text": "For there is no faithfulness in their mouth; Their inward part is very wickedness; Their throat is an open sepulchre; They flatter with their tongue.",
+    "reference": "Psalm 5:9 (ASV)",
+    "connected_to": "Psalm 5:10",
+    "connected_from": "Psalm 5:8"
+  },
+  {
+    "text": "Hold them guilty, O God; Let them fall by their own counsels; Thrust them out in the multitude of their transgressions; For they have rebelled against thee.",
+    "reference": "Psalm 5:10 (ASV)",
+    "connected_to": "Psalm 5:11",
+    "connected_from": "Psalm 5:9"
+  },
+  {
+    "text": "But let all those that take refuge in thee rejoice, Let them ever shout for joy, because thou defendest them: Let them also that love thy name be joyful in thee.",
+    "reference": "Psalm 5:11 (ASV)",
+    "connected_to": "Psalm 5:12",
+    "connected_from": "Psalm 5:10"
+  },
+  {
+    "text": "For thou wilt bless the righteous; O Jehovah, thou wilt compass him with favor as with a shield.",
+    "reference": "Psalm 5:12 (ASV)",
+    "connected_from": "Psalm 5:11"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "text": "A Song of Ascents.  In my distress I called unto the LORD, And He answered me.",
+    "reference": "Psalm 120:1 (JPS)",
+    "connected_to": "Psalm 120:2"
+  },
+  {
+    "text": "O LORD, deliver my soul from lying lips, From a deceitful tongue.",
+    "reference": "Psalm 120:2 (JPS)",
+    "connected_to": "Psalm 120:3",
+    "connected_from": "Psalm 120:1"
+  },
+  {
+    "text": "What shall be given unto thee, and what shall be done more unto thee, Thou deceitful tongue?",
+    "reference": "Psalm 120:3 (JPS)",
+    "connected_to": "Psalm 120:4",
+    "connected_from": "Psalm 120:2"
+  },
+  {
+    "text": "Sharp arrows of the mighty, With coals of broom.",
+    "reference": "Psalm 120:4 (JPS)",
+    "connected_to": "Psalm 120:5",
+    "connected_from": "Psalm 120:3"
+  },
+  {
+    "text": "Woe is me, that I sojourn with Meshech, That I dwell beside the tents of Kedar!",
+    "reference": "Psalm 120:5 (JPS)",
+    "connected_to": "Psalm 120:6",
+    "connected_from": "Psalm 120:4"
+  },
+  {
+    "text": "My soul hath full long had her dwelling With him that hateth peace.",
+    "reference": "Psalm 120:6 (JPS)",
+    "connected_to": "Psalm 120:7",
+    "connected_from": "Psalm 120:5"
+  },
+  {
+    "text": "I am all peace; But when I speak, they are for war.",
+    "reference": "Psalm 120:7 (JPS)",
+    "connected_from": "Psalm 120:6"
+  }
+]

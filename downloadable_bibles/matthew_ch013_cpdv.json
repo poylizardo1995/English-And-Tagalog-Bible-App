@@ -1,0 +1,348 @@
+[
+  {
+    "text": "In that day, Jesus, departing from the house, sat down beside the sea.",
+    "reference": "Matthew 13:1 (CPDV)",
+    "connected_to": "Matthew 13:2"
+  },
+  {
+    "text": "And such great crowds were gathered to him that he climbed into a boat and he sat down. And the entire multitude stood on the shore.",
+    "reference": "Matthew 13:2 (CPDV)",
+    "connected_to": "Matthew 13:3",
+    "connected_from": "Matthew 13:1"
+  },
+  {
+    "text": "And he spoke many things to them in parables, saying: “Behold, a sower went out to sow seed.",
+    "reference": "Matthew 13:3 (CPDV)",
+    "connected_to": "Matthew 13:4",
+    "connected_from": "Matthew 13:2"
+  },
+  {
+    "text": "And while he was sowing, some fell beside the road, and the birds of the air came and ate it.",
+    "reference": "Matthew 13:4 (CPDV)",
+    "connected_to": "Matthew 13:5",
+    "connected_from": "Matthew 13:3"
+  },
+  {
+    "text": "Then others fell in a rocky place, where they did not have much soil. And they sprung up promptly, because they had no depth of soil.",
+    "reference": "Matthew 13:5 (CPDV)",
+    "connected_to": "Matthew 13:6",
+    "connected_from": "Matthew 13:4"
+  },
+  {
+    "text": "But when the sun rose up, they were scorched, and because they had no roots, they withered.",
+    "reference": "Matthew 13:6 (CPDV)",
+    "connected_to": "Matthew 13:7",
+    "connected_from": "Matthew 13:5"
+  },
+  {
+    "text": "Still others fell among thorns, and the thorns increased and suffocated them.",
+    "reference": "Matthew 13:7 (CPDV)",
+    "connected_to": "Matthew 13:8",
+    "connected_from": "Matthew 13:6"
+  },
+  {
+    "text": "Yet some others fell upon good soil, and they produced fruit: some one hundred fold, some sixty fold, some thirty fold.",
+    "reference": "Matthew 13:8 (CPDV)",
+    "connected_to": "Matthew 13:9",
+    "connected_from": "Matthew 13:7"
+  },
+  {
+    "text": "Whoever has ears to hear, let him hear.”",
+    "reference": "Matthew 13:9 (CPDV)",
+    "connected_to": "Matthew 13:10",
+    "connected_from": "Matthew 13:8"
+  },
+  {
+    "text": "And his disciples drew near to him and said, “Why do you speak to them in parables?”",
+    "reference": "Matthew 13:10 (CPDV)",
+    "connected_to": "Matthew 13:11",
+    "connected_from": "Matthew 13:9"
+  },
+  {
+    "text": "Responding, he said to them: “Because it has been given to you to know the mysteries of the kingdom of heaven, but it has not been given to them.",
+    "reference": "Matthew 13:11 (CPDV)",
+    "connected_to": "Matthew 13:12",
+    "connected_from": "Matthew 13:10"
+  },
+  {
+    "text": "For whoever has, it shall be given to him, and he shall have in abundance. But whoever has not, even what he has shall be taken away from him.",
+    "reference": "Matthew 13:12 (CPDV)",
+    "connected_to": "Matthew 13:13",
+    "connected_from": "Matthew 13:11"
+  },
+  {
+    "text": "For this reason, I speak to them in parables: because seeing, they do not see, and hearing they do not hear, nor do they understand.",
+    "reference": "Matthew 13:13 (CPDV)",
+    "connected_to": "Matthew 13:14",
+    "connected_from": "Matthew 13:12"
+  },
+  {
+    "text": "And so, in them is fulfilled the prophecy of Isaiah, who said, ‘Hearing, you shall hear, but not understand; and seeing, you shall see, but not perceive.",
+    "reference": "Matthew 13:14 (CPDV)",
+    "connected_to": "Matthew 13:15",
+    "connected_from": "Matthew 13:13"
+  },
+  {
+    "text": "For the heart of this people has grown fat, and with their ears they hear heavily, and they have closed their eyes, lest at any time they might see with their eyes, and hear with their ears, and understand with their heart, and be converted, and then I would heal them.’",
+    "reference": "Matthew 13:15 (CPDV)",
+    "connected_to": "Matthew 13:16",
+    "connected_from": "Matthew 13:14"
+  },
+  {
+    "text": "But blessed are your eyes, because they see, and your ears, because they hear.",
+    "reference": "Matthew 13:16 (CPDV)",
+    "connected_to": "Matthew 13:17",
+    "connected_from": "Matthew 13:15"
+  },
+  {
+    "text": "Amen I say to you, certainly, that many of the prophets and the just desired to see what you see, and yet they did not see it, and to hear what you hear, and yet they did not hear it.",
+    "reference": "Matthew 13:17 (CPDV)",
+    "connected_to": "Matthew 13:18",
+    "connected_from": "Matthew 13:16"
+  },
+  {
+    "text": "Listen, then, to the parable of the sower.",
+    "reference": "Matthew 13:18 (CPDV)",
+    "connected_to": "Matthew 13:19",
+    "connected_from": "Matthew 13:17"
+  },
+  {
+    "text": "With anyone who hears the word of the kingdom and does not understand it, evil comes and carries away what was sown in his heart. This is he who received the seed by the side of the road.",
+    "reference": "Matthew 13:19 (CPDV)",
+    "connected_to": "Matthew 13:20",
+    "connected_from": "Matthew 13:18"
+  },
+  {
+    "text": "Then whoever has received the seed upon a rocky place, this is one who hears the word and promptly accepts it with joy.",
+    "reference": "Matthew 13:20 (CPDV)",
+    "connected_to": "Matthew 13:21",
+    "connected_from": "Matthew 13:19"
+  },
+  {
+    "text": "But he has no root in himself, so it is only for a time; then, when tribulation and persecution occur because of the word, he promptly stumbles.",
+    "reference": "Matthew 13:21 (CPDV)",
+    "connected_to": "Matthew 13:22",
+    "connected_from": "Matthew 13:20"
+  },
+  {
+    "text": "And whoever has received the seed among thorns, this is he who hears the word, but the cares of this age and the falseness of riches suffocate the word, and he is effectively without fruit.",
+    "reference": "Matthew 13:22 (CPDV)",
+    "connected_to": "Matthew 13:23",
+    "connected_from": "Matthew 13:21"
+  },
+  {
+    "text": "Yet truly, whoever has received the seed into good soil, this is he who hears the word, and understands it, and so he bears fruit, and he produces: some a hundred fold, and another sixty fold, and another thirty fold.”",
+    "reference": "Matthew 13:23 (CPDV)",
+    "connected_to": "Matthew 13:24",
+    "connected_from": "Matthew 13:22"
+  },
+  {
+    "text": "He proposed another parable to them, saying: “The kingdom of heaven is like a man who sowed good seed in his field.",
+    "reference": "Matthew 13:24 (CPDV)",
+    "connected_to": "Matthew 13:25",
+    "connected_from": "Matthew 13:23"
+  },
+  {
+    "text": "But while the men were sleeping, his enemy came and sowed weeds amid the wheat, and then went away.",
+    "reference": "Matthew 13:25 (CPDV)",
+    "connected_to": "Matthew 13:26",
+    "connected_from": "Matthew 13:24"
+  },
+  {
+    "text": "And when the plants had grown, and had produced fruit, then the weeds also appeared.",
+    "reference": "Matthew 13:26 (CPDV)",
+    "connected_to": "Matthew 13:27",
+    "connected_from": "Matthew 13:25"
+  },
+  {
+    "text": "So the servants of the Father of the family, approaching, said to him: ‘Lord, did you not sow good seed in your field? Then how is it that it has weeds?’",
+    "reference": "Matthew 13:27 (CPDV)",
+    "connected_to": "Matthew 13:28",
+    "connected_from": "Matthew 13:26"
+  },
+  {
+    "text": "And he said to them, ‘A man who is an enemy has done this.’ So the servants said to him, ‘Is it your will that we should go and gather them up?’",
+    "reference": "Matthew 13:28 (CPDV)",
+    "connected_to": "Matthew 13:29",
+    "connected_from": "Matthew 13:27"
+  },
+  {
+    "text": "And he said: ‘No, lest perhaps in gathering the weeds, you might also root out the wheat together with it.",
+    "reference": "Matthew 13:29 (CPDV)",
+    "connected_to": "Matthew 13:30",
+    "connected_from": "Matthew 13:28"
+  },
+  {
+    "text": "Permit both to grow until the harvest, and at the time of the harvest, I will say to the reapers: Gather first the weeds, and bind them into bundles to burn, but the wheat gather into my storehouse.’ ”",
+    "reference": "Matthew 13:30 (CPDV)",
+    "connected_to": "Matthew 13:31",
+    "connected_from": "Matthew 13:29"
+  },
+  {
+    "text": "He proposed another parable to them, saying: “The kingdom of heaven is like a grain of mustard seed, which a man took and sowed in his field.",
+    "reference": "Matthew 13:31 (CPDV)",
+    "connected_to": "Matthew 13:32",
+    "connected_from": "Matthew 13:30"
+  },
+  {
+    "text": "It is, indeed, the least of all seeds, but when it has grown, it is greater than all the plants, and it becomes a tree, so much so that the birds of the air come and dwell in its branches.”",
+    "reference": "Matthew 13:32 (CPDV)",
+    "connected_to": "Matthew 13:33",
+    "connected_from": "Matthew 13:31"
+  },
+  {
+    "text": "He spoke another parable to them: “The kingdom of heaven is like leaven, which a woman took and hid in three measures of fine wheat flour, until it was entirely leavened.”",
+    "reference": "Matthew 13:33 (CPDV)",
+    "connected_to": "Matthew 13:34",
+    "connected_from": "Matthew 13:32"
+  },
+  {
+    "text": "All these things Jesus spoke in parables to the crowds. And he did not speak to them apart from parables,",
+    "reference": "Matthew 13:34 (CPDV)",
+    "connected_to": "Matthew 13:35",
+    "connected_from": "Matthew 13:33"
+  },
+  {
+    "text": "in order to fulfill what was spoken through the prophet, saying: “I will open my mouth in parables. I will proclaim what has been hidden since the foundation of the world.”",
+    "reference": "Matthew 13:35 (CPDV)",
+    "connected_to": "Matthew 13:36",
+    "connected_from": "Matthew 13:34"
+  },
+  {
+    "text": "Then, dismissing the crowds, he went into the house. And his disciples drew near to him, saying, “Explain to us the parable of the weeds in the field.”",
+    "reference": "Matthew 13:36 (CPDV)",
+    "connected_to": "Matthew 13:37",
+    "connected_from": "Matthew 13:35"
+  },
+  {
+    "text": "Responding, he said to them: “He who sows the good seed is the Son of man.",
+    "reference": "Matthew 13:37 (CPDV)",
+    "connected_to": "Matthew 13:38",
+    "connected_from": "Matthew 13:36"
+  },
+  {
+    "text": "Now the field is the world. And the good seeds are the sons of the kingdom. But the weeds are the sons of wickedness.",
+    "reference": "Matthew 13:38 (CPDV)",
+    "connected_to": "Matthew 13:39",
+    "connected_from": "Matthew 13:37"
+  },
+  {
+    "text": "So the enemy who sowed them is the devil. And truly, the harvest is the consummation of the age; while the reapers are the Angels.",
+    "reference": "Matthew 13:39 (CPDV)",
+    "connected_to": "Matthew 13:40",
+    "connected_from": "Matthew 13:38"
+  },
+  {
+    "text": "Therefore, just as weeds are gathered up and burned with fire, so shall it be at the consummation of the age.",
+    "reference": "Matthew 13:40 (CPDV)",
+    "connected_to": "Matthew 13:41",
+    "connected_from": "Matthew 13:39"
+  },
+  {
+    "text": "The Son of man shall send out his Angels, and they shall gather from his kingdom all who lead astray and those who work iniquity.",
+    "reference": "Matthew 13:41 (CPDV)",
+    "connected_to": "Matthew 13:42",
+    "connected_from": "Matthew 13:40"
+  },
+  {
+    "text": "And he shall cast them into the furnace of fire, where there shall be weeping and gnashing of teeth.",
+    "reference": "Matthew 13:42 (CPDV)",
+    "connected_to": "Matthew 13:43",
+    "connected_from": "Matthew 13:41"
+  },
+  {
+    "text": "Then the just ones shall shine like the sun, in the kingdom of their Father. Whoever has ears to hear, let him hear.",
+    "reference": "Matthew 13:43 (CPDV)",
+    "connected_to": "Matthew 13:44",
+    "connected_from": "Matthew 13:42"
+  },
+  {
+    "text": "The kingdom of heaven is like a treasure hidden in a field. When a man finds it, he hides it, and, because of his joy, he goes and sells everything that he has, and he buys that field.",
+    "reference": "Matthew 13:44 (CPDV)",
+    "connected_to": "Matthew 13:45",
+    "connected_from": "Matthew 13:43"
+  },
+  {
+    "text": "Again, the kingdom of heaven is like a merchant seeking good pearls.",
+    "reference": "Matthew 13:45 (CPDV)",
+    "connected_to": "Matthew 13:46",
+    "connected_from": "Matthew 13:44"
+  },
+  {
+    "text": "Having found one pearl of great value, he went away and sold all that he had, and he bought it.",
+    "reference": "Matthew 13:46 (CPDV)",
+    "connected_to": "Matthew 13:47",
+    "connected_from": "Matthew 13:45"
+  },
+  {
+    "text": "Again, the kingdom of heaven is like a net cast into the sea, which gathers together all kinds of fish.",
+    "reference": "Matthew 13:47 (CPDV)",
+    "connected_to": "Matthew 13:48",
+    "connected_from": "Matthew 13:46"
+  },
+  {
+    "text": "When it has been filled, drawing it out and sitting beside the shore, they selected the good into vessels, but the bad they threw away.",
+    "reference": "Matthew 13:48 (CPDV)",
+    "connected_to": "Matthew 13:49",
+    "connected_from": "Matthew 13:47"
+  },
+  {
+    "text": "So shall it be at the consummation of the age. The Angels shall go forth and separate the bad from the midst of the just.",
+    "reference": "Matthew 13:49 (CPDV)",
+    "connected_to": "Matthew 13:50",
+    "connected_from": "Matthew 13:48"
+  },
+  {
+    "text": "And they shall cast them into the furnace of fire, where there will be weeping and gnashing of teeth.",
+    "reference": "Matthew 13:50 (CPDV)",
+    "connected_to": "Matthew 13:51",
+    "connected_from": "Matthew 13:49"
+  },
+  {
+    "text": "Have you understood all these things?” They say to him, “Yes.”",
+    "reference": "Matthew 13:51 (CPDV)",
+    "connected_to": "Matthew 13:52",
+    "connected_from": "Matthew 13:50"
+  },
+  {
+    "text": "He said to them, “Therefore, every scribe well-taught about the kingdom of heaven, is like a man, the father of a family, who offers from his storehouse both the new and the old.”",
+    "reference": "Matthew 13:52 (CPDV)",
+    "connected_to": "Matthew 13:53",
+    "connected_from": "Matthew 13:51"
+  },
+  {
+    "text": "And it happened that, when Jesus had completed these parables, he went away from there.",
+    "reference": "Matthew 13:53 (CPDV)",
+    "connected_to": "Matthew 13:54",
+    "connected_from": "Matthew 13:52"
+  },
+  {
+    "text": "And arriving in his own country, he taught them in their synagogues, so much so that they wondered and said: “How can such wisdom and power be with this one?",
+    "reference": "Matthew 13:54 (CPDV)",
+    "connected_to": "Matthew 13:55",
+    "connected_from": "Matthew 13:53"
+  },
+  {
+    "text": "Is this not the son of a workman? Is not his mother called Mary, and his brothers, James, and Joseph, and Simon, and Jude?",
+    "reference": "Matthew 13:55 (CPDV)",
+    "connected_to": "Matthew 13:56",
+    "connected_from": "Matthew 13:54"
+  },
+  {
+    "text": "And his sisters, are they not all with us? Therefore, from where has this one obtained all these things?”",
+    "reference": "Matthew 13:56 (CPDV)",
+    "connected_to": "Matthew 13:57",
+    "connected_from": "Matthew 13:55"
+  },
+  {
+    "text": "And they took offense at him. But Jesus said to them, “A prophet is not without honor, except in his own country and in his own house.”",
+    "reference": "Matthew 13:57 (CPDV)",
+    "connected_to": "Matthew 13:58",
+    "connected_from": "Matthew 13:56"
+  },
+  {
+    "text": "And he did not work many miracles there, because of their unbelief.",
+    "reference": "Matthew 13:58 (CPDV)",
+    "connected_from": "Matthew 13:57"
+  }
+]

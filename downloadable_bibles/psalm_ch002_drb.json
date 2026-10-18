@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Why have the Gentiles raged, and the people devised vain things?",
+    "reference": "Psalm 2:1 (DRB)",
+    "connected_to": "Psalm 2:2"
+  },
+  {
+    "text": "The kings of the earth stood up, and the princes met together, against the Lord and against his Christ.",
+    "reference": "Psalm 2:2 (DRB)",
+    "connected_to": "Psalm 2:3",
+    "connected_from": "Psalm 2:1"
+  },
+  {
+    "text": "Let us break their bonds asunder: and let us cast away their yoke from us.",
+    "reference": "Psalm 2:3 (DRB)",
+    "connected_to": "Psalm 2:4",
+    "connected_from": "Psalm 2:2"
+  },
+  {
+    "text": "He that dwelleth in heaven shall laugh at them: and the Lord shall deride them.",
+    "reference": "Psalm 2:4 (DRB)",
+    "connected_to": "Psalm 2:5",
+    "connected_from": "Psalm 2:3"
+  },
+  {
+    "text": "Then shall he speak to them in his anger, and trouble them in his rage.",
+    "reference": "Psalm 2:5 (DRB)",
+    "connected_to": "Psalm 2:6",
+    "connected_from": "Psalm 2:4"
+  },
+  {
+    "text": "But I am appointed king by him over Sion his holy mountain, preaching his commandment.",
+    "reference": "Psalm 2:6 (DRB)",
+    "connected_to": "Psalm 2:7",
+    "connected_from": "Psalm 2:5"
+  },
+  {
+    "text": "The Lord hath said to me: Thou art my son, this day have I begotten thee.",
+    "reference": "Psalm 2:7 (DRB)",
+    "connected_to": "Psalm 2:8",
+    "connected_from": "Psalm 2:6"
+  },
+  {
+    "text": "Ask of me, and I will give thee the Gentiles for thy inheritance, and the utmost parts of the earth for thy possession.",
+    "reference": "Psalm 2:8 (DRB)",
+    "connected_to": "Psalm 2:9",
+    "connected_from": "Psalm 2:7"
+  },
+  {
+    "text": "Thou shalt rule them with a rod of iron, and shalt break them in pieces like a potter’s vessel.",
+    "reference": "Psalm 2:9 (DRB)",
+    "connected_to": "Psalm 2:10",
+    "connected_from": "Psalm 2:8"
+  },
+  {
+    "text": "And now, O ye kings, understand: receive instruction, you that judge the earth.",
+    "reference": "Psalm 2:10 (DRB)",
+    "connected_to": "Psalm 2:11",
+    "connected_from": "Psalm 2:9"
+  },
+  {
+    "text": "Serve ye the Lord with fear: and rejoice unto him with trembling.",
+    "reference": "Psalm 2:11 (DRB)",
+    "connected_to": "Psalm 2:12",
+    "connected_from": "Psalm 2:10"
+  },
+  {
+    "text": "Embrace discipline, lest at any time the Lord be angry, and you perish from the just way. When his wrath shall be kindled in a short time, blessed are all they that trust in him.",
+    "reference": "Psalm 2:12 (DRB)",
+    "connected_from": "Psalm 2:11"
+  }
+]

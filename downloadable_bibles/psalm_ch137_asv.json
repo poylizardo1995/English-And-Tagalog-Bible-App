@@ -1,0 +1,54 @@
+[
+  {
+    "text": "By the rivers of Babylon, There we sat down, yea, we wept, When we remembered Zion.",
+    "reference": "Psalm 137:1 (ASV)",
+    "connected_to": "Psalm 137:2"
+  },
+  {
+    "text": "Upon the willows in the midst thereof We hanged up our harps.",
+    "reference": "Psalm 137:2 (ASV)",
+    "connected_to": "Psalm 137:3",
+    "connected_from": "Psalm 137:1"
+  },
+  {
+    "text": "For there they that led us captive required of us songs, And they that wasted us required of us mirth, saying, Sing us one of the songs of Zion.",
+    "reference": "Psalm 137:3 (ASV)",
+    "connected_to": "Psalm 137:4",
+    "connected_from": "Psalm 137:2"
+  },
+  {
+    "text": "How shall we sing Jehovah’s song In a foreign land?",
+    "reference": "Psalm 137:4 (ASV)",
+    "connected_to": "Psalm 137:5",
+    "connected_from": "Psalm 137:3"
+  },
+  {
+    "text": "If I forget thee, O Jerusalem, Let my right hand forget her skill.",
+    "reference": "Psalm 137:5 (ASV)",
+    "connected_to": "Psalm 137:6",
+    "connected_from": "Psalm 137:4"
+  },
+  {
+    "text": "Let my tongue cleave to the roof of my mouth, If I remember thee not; If I prefer not Jerusalem Above my chief joy.",
+    "reference": "Psalm 137:6 (ASV)",
+    "connected_to": "Psalm 137:7",
+    "connected_from": "Psalm 137:5"
+  },
+  {
+    "text": "Remember, O Jehovah, against the children of Edom The day of Jerusalem; Who said, Rase it, rase it, Even to the foundation thereof.",
+    "reference": "Psalm 137:7 (ASV)",
+    "connected_to": "Psalm 137:8",
+    "connected_from": "Psalm 137:6"
+  },
+  {
+    "text": "O daughter of Babylon, that art to be destroyed, Happy shall he be, that rewardeth thee As thou hast served us.",
+    "reference": "Psalm 137:8 (ASV)",
+    "connected_to": "Psalm 137:9",
+    "connected_from": "Psalm 137:7"
+  },
+  {
+    "text": "Happy shall he be, that taketh and dasheth thy little ones Against the rock.",
+    "reference": "Psalm 137:9 (ASV)",
+    "connected_from": "Psalm 137:8"
+  }
+]

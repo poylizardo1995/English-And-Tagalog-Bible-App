@@ -1,0 +1,168 @@
+[
+  {
+    "text": "Like snow in summer and rain at harvest, honor does not befit a fool.",
+    "reference": "Proverbs 26:1 (BAB)",
+    "connected_to": "Proverbs 26:2"
+  },
+  {
+    "text": "Like a fluttering sparrow or darting swallow, an undeserved curse does not come to rest.",
+    "reference": "Proverbs 26:2 (BAB)",
+    "connected_to": "Proverbs 26:3",
+    "connected_from": "Proverbs 26:1"
+  },
+  {
+    "text": "A whip for the horse, a bridle for the donkey, and a rod for the backs of fools!",
+    "reference": "Proverbs 26:3 (BAB)",
+    "connected_to": "Proverbs 26:4",
+    "connected_from": "Proverbs 26:2"
+  },
+  {
+    "text": "Do not answer a fool according to his folly, or you yourself will be like him.",
+    "reference": "Proverbs 26:4 (BAB)",
+    "connected_to": "Proverbs 26:5",
+    "connected_from": "Proverbs 26:3"
+  },
+  {
+    "text": "Answer a fool according to his folly, lest he become wise in his own eyes.",
+    "reference": "Proverbs 26:5 (BAB)",
+    "connected_to": "Proverbs 26:6",
+    "connected_from": "Proverbs 26:4"
+  },
+  {
+    "text": "Like cutting off one’s own feet or drinking violence is the sending of a message by the hand of a fool.",
+    "reference": "Proverbs 26:6 (BAB)",
+    "connected_to": "Proverbs 26:7",
+    "connected_from": "Proverbs 26:5"
+  },
+  {
+    "text": "Like lame legs hanging limp is a proverb in the mouth of a fool.",
+    "reference": "Proverbs 26:7 (BAB)",
+    "connected_to": "Proverbs 26:8",
+    "connected_from": "Proverbs 26:6"
+  },
+  {
+    "text": "Like binding a stone into a sling is the giving of honor to a fool.",
+    "reference": "Proverbs 26:8 (BAB)",
+    "connected_to": "Proverbs 26:9",
+    "connected_from": "Proverbs 26:7"
+  },
+  {
+    "text": "Like a thorn that goes into the hand of a drunkard is a proverb in the mouth of a fool.",
+    "reference": "Proverbs 26:9 (BAB)",
+    "connected_to": "Proverbs 26:10",
+    "connected_from": "Proverbs 26:8"
+  },
+  {
+    "text": "Like an archer who wounds at random is he who hires a fool or passerby.",
+    "reference": "Proverbs 26:10 (BAB)",
+    "connected_to": "Proverbs 26:11",
+    "connected_from": "Proverbs 26:9"
+  },
+  {
+    "text": "As a dog returns to its vomit <2Pe 2:22>, so a fool repeats his folly.",
+    "reference": "Proverbs 26:11 (BAB)",
+    "connected_to": "Proverbs 26:12",
+    "connected_from": "Proverbs 26:10"
+  },
+  {
+    "text": "Do you see a man who is wise in his own eyes? There is more hope for a fool than for him.",
+    "reference": "Proverbs 26:12 (BAB)",
+    "connected_to": "Proverbs 26:13",
+    "connected_from": "Proverbs 26:11"
+  },
+  {
+    "text": "The slacker says, “A lion is in the road! A fierce lion roams the public square!”",
+    "reference": "Proverbs 26:13 (BAB)",
+    "connected_to": "Proverbs 26:14",
+    "connected_from": "Proverbs 26:12"
+  },
+  {
+    "text": "As a door turns on its hinges, so the slacker turns on his bed.",
+    "reference": "Proverbs 26:14 (BAB)",
+    "connected_to": "Proverbs 26:15",
+    "connected_from": "Proverbs 26:13"
+  },
+  {
+    "text": "The slacker buries his hand in the dish; it wearies him to bring it back to his mouth.",
+    "reference": "Proverbs 26:15 (BAB)",
+    "connected_to": "Proverbs 26:16",
+    "connected_from": "Proverbs 26:14"
+  },
+  {
+    "text": "The slacker is wiser in his own eyes than seven men who answer discreetly.",
+    "reference": "Proverbs 26:16 (BAB)",
+    "connected_to": "Proverbs 26:17",
+    "connected_from": "Proverbs 26:15"
+  },
+  {
+    "text": "Like one who grabs a dog by the ears is a passerby who meddles in a quarrel not his own.",
+    "reference": "Proverbs 26:17 (BAB)",
+    "connected_to": "Proverbs 26:18",
+    "connected_from": "Proverbs 26:16"
+  },
+  {
+    "text": "Like a madman shooting firebrands and deadly arrows,",
+    "reference": "Proverbs 26:18 (BAB)",
+    "connected_to": "Proverbs 26:19",
+    "connected_from": "Proverbs 26:17"
+  },
+  {
+    "text": "so is the man who deceives his neighbor and says, “I was only joking!”",
+    "reference": "Proverbs 26:19 (BAB)",
+    "connected_to": "Proverbs 26:20",
+    "connected_from": "Proverbs 26:18"
+  },
+  {
+    "text": "Without wood, a fire goes out; without gossip, a conflict ceases.",
+    "reference": "Proverbs 26:20 (BAB)",
+    "connected_to": "Proverbs 26:21",
+    "connected_from": "Proverbs 26:19"
+  },
+  {
+    "text": "Like charcoal for embers and wood for fire, so is a quarrelsome man for kindling strife.",
+    "reference": "Proverbs 26:21 (BAB)",
+    "connected_to": "Proverbs 26:22",
+    "connected_from": "Proverbs 26:20"
+  },
+  {
+    "text": "The words of a gossip are like choice morsels that go down into the inmost being.",
+    "reference": "Proverbs 26:22 (BAB)",
+    "connected_to": "Proverbs 26:23",
+    "connected_from": "Proverbs 26:21"
+  },
+  {
+    "text": "Like glaze covering an earthen vessel are burning [smooth] lips and a wicked heart.",
+    "reference": "Proverbs 26:23 (BAB)",
+    "connected_to": "Proverbs 26:24",
+    "connected_from": "Proverbs 26:22"
+  },
+  {
+    "text": "A hateful man disguises himself with his speech, but he lays up deceit in his heart.",
+    "reference": "Proverbs 26:24 (BAB)",
+    "connected_to": "Proverbs 26:25",
+    "connected_from": "Proverbs 26:23"
+  },
+  {
+    "text": "When he speaks graciously, do not believe him, for seven abominations fill his heart.",
+    "reference": "Proverbs 26:25 (BAB)",
+    "connected_to": "Proverbs 26:26",
+    "connected_from": "Proverbs 26:24"
+  },
+  {
+    "text": "Though his hatred is concealed by deception, his wickedness will be exposed in the assembly.",
+    "reference": "Proverbs 26:26 (BAB)",
+    "connected_to": "Proverbs 26:27",
+    "connected_from": "Proverbs 26:25"
+  },
+  {
+    "text": "He who digs a pit will fall into it, and he who rolls a stone will have it roll back on him.",
+    "reference": "Proverbs 26:27 (BAB)",
+    "connected_to": "Proverbs 26:28",
+    "connected_from": "Proverbs 26:26"
+  },
+  {
+    "text": "A lying tongue hates those it crushes, and a flattering mouth causes ruin.",
+    "reference": "Proverbs 26:28 (BAB)",
+    "connected_from": "Proverbs 26:27"
+  }
+]

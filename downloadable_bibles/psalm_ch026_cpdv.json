@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Unto the end. A Psalm of David. Judge me, Lord, for I have been walking in my innocence, and by hoping in the Lord, I will not be weakened.",
+    "reference": "Psalm 26:1 (CPDV)",
+    "connected_to": "Psalm 26:2"
+  },
+  {
+    "text": "Examine me, Lord, and test me: enkindle my temperament and my heart.",
+    "reference": "Psalm 26:2 (CPDV)",
+    "connected_to": "Psalm 26:3",
+    "connected_from": "Psalm 26:1"
+  },
+  {
+    "text": "For your mercy is before my eyes, and I am serene in your truth.",
+    "reference": "Psalm 26:3 (CPDV)",
+    "connected_to": "Psalm 26:4",
+    "connected_from": "Psalm 26:2"
+  },
+  {
+    "text": "I have not sat with the council of emptiness, and I will not enter with those who carry out injustice.",
+    "reference": "Psalm 26:4 (CPDV)",
+    "connected_to": "Psalm 26:5",
+    "connected_from": "Psalm 26:3"
+  },
+  {
+    "text": "I have hated the assembly of the malicious; and I will not sit with the impious.",
+    "reference": "Psalm 26:5 (CPDV)",
+    "connected_to": "Psalm 26:6",
+    "connected_from": "Psalm 26:4"
+  },
+  {
+    "text": "I will wash my hands among the innocent, and I will surround your altar, O Lord,",
+    "reference": "Psalm 26:6 (CPDV)",
+    "connected_to": "Psalm 26:7",
+    "connected_from": "Psalm 26:5"
+  },
+  {
+    "text": "so that I may hear the voice of your praise and describe all your wonders.",
+    "reference": "Psalm 26:7 (CPDV)",
+    "connected_to": "Psalm 26:8",
+    "connected_from": "Psalm 26:6"
+  },
+  {
+    "text": "O Lord, I have loved the beauty of your house and the dwelling place of your glory.",
+    "reference": "Psalm 26:8 (CPDV)",
+    "connected_to": "Psalm 26:9",
+    "connected_from": "Psalm 26:7"
+  },
+  {
+    "text": "O God, do not let my soul perish with the impious, nor my life with the men of blood,",
+    "reference": "Psalm 26:9 (CPDV)",
+    "connected_to": "Psalm 26:10",
+    "connected_from": "Psalm 26:8"
+  },
+  {
+    "text": "in whose hands are iniquities: their right hand has been filled by bribes.",
+    "reference": "Psalm 26:10 (CPDV)",
+    "connected_to": "Psalm 26:11",
+    "connected_from": "Psalm 26:9"
+  },
+  {
+    "text": "But as for me, I have been walking in my innocence. Redeem me, and have mercy on me.",
+    "reference": "Psalm 26:11 (CPDV)",
+    "connected_to": "Psalm 26:12",
+    "connected_from": "Psalm 26:10"
+  },
+  {
+    "text": "My foot has stood firm in the straight path. In the churches, I will bless you, O Lord.",
+    "reference": "Psalm 26:12 (CPDV)",
+    "connected_from": "Psalm 26:11"
+  }
+]

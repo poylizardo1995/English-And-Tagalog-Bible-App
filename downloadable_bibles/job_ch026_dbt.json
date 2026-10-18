@@ -1,0 +1,84 @@
+[
+  {
+    "text": "And Job answered and said,",
+    "reference": "Job 26:1 (DBT)",
+    "connected_to": "Job 26:2"
+  },
+  {
+    "text": "How hast thou helped the powerless; how saved the arm that is without strength!",
+    "reference": "Job 26:2 (DBT)",
+    "connected_to": "Job 26:3",
+    "connected_from": "Job 26:1"
+  },
+  {
+    "text": "How hast thou counselled him that hath no wisdom, and abundantly declared the thing as it is!",
+    "reference": "Job 26:3 (DBT)",
+    "connected_to": "Job 26:4",
+    "connected_from": "Job 26:2"
+  },
+  {
+    "text": "For whom hast thou uttered words? and whose spirit came from thee?",
+    "reference": "Job 26:4 (DBT)",
+    "connected_to": "Job 26:5",
+    "connected_from": "Job 26:3"
+  },
+  {
+    "text": "The shades tremble beneath the waters and the inhabitants thereof;",
+    "reference": "Job 26:5 (DBT)",
+    "connected_to": "Job 26:6",
+    "connected_from": "Job 26:4"
+  },
+  {
+    "text": "Sheol is naked before him, and destruction hath no covering.",
+    "reference": "Job 26:6 (DBT)",
+    "connected_to": "Job 26:7",
+    "connected_from": "Job 26:5"
+  },
+  {
+    "text": "He stretcheth out the north over empty space, he hangeth the earth upon nothing;",
+    "reference": "Job 26:7 (DBT)",
+    "connected_to": "Job 26:8",
+    "connected_from": "Job 26:6"
+  },
+  {
+    "text": "He bindeth up the waters in his thick clouds, and the cloud is not rent under them.",
+    "reference": "Job 26:8 (DBT)",
+    "connected_to": "Job 26:9",
+    "connected_from": "Job 26:7"
+  },
+  {
+    "text": "He covereth the face of his throne, he spreadeth his cloud upon it.",
+    "reference": "Job 26:9 (DBT)",
+    "connected_to": "Job 26:10",
+    "connected_from": "Job 26:8"
+  },
+  {
+    "text": "He hath traced a fixed circle over the waters, unto the confines of light and darkness.",
+    "reference": "Job 26:10 (DBT)",
+    "connected_to": "Job 26:11",
+    "connected_from": "Job 26:9"
+  },
+  {
+    "text": "The pillars of the heavens tremble and are astonished at his rebuke.",
+    "reference": "Job 26:11 (DBT)",
+    "connected_to": "Job 26:12",
+    "connected_from": "Job 26:10"
+  },
+  {
+    "text": "He stirreth up the sea by his power, and by his understanding he smiteth through Rahab.",
+    "reference": "Job 26:12 (DBT)",
+    "connected_to": "Job 26:13",
+    "connected_from": "Job 26:11"
+  },
+  {
+    "text": "By his Spirit the heavens are adorned; his hand hath formed the fleeing serpent.",
+    "reference": "Job 26:13 (DBT)",
+    "connected_to": "Job 26:14",
+    "connected_from": "Job 26:12"
+  },
+  {
+    "text": "Lo, these are the borders of his ways; but what a whisper of a word do we hear of him! And the thunder of his power, who can understand?",
+    "reference": "Job 26:14 (DBT)",
+    "connected_from": "Job 26:13"
+  }
+]

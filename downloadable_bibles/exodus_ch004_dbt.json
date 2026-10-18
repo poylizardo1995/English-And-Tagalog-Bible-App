@@ -1,0 +1,186 @@
+[
+  {
+    "text": "And Moses answered and said, But behold, they will not believe me, nor hearken unto my voice; for they will say, Jehovah has not appeared to thee.",
+    "reference": "Exodus 4:1 (DBT)",
+    "connected_to": "Exodus 4:2"
+  },
+  {
+    "text": "And Jehovah said to him, What is that in thy hand? And he said, A staff.",
+    "reference": "Exodus 4:2 (DBT)",
+    "connected_to": "Exodus 4:3",
+    "connected_from": "Exodus 4:1"
+  },
+  {
+    "text": "And he said, Cast it on the ground. And he cast it on the ground, and it became a serpent; and Moses fled from before it.",
+    "reference": "Exodus 4:3 (DBT)",
+    "connected_to": "Exodus 4:4",
+    "connected_from": "Exodus 4:2"
+  },
+  {
+    "text": "And Jehovah said to Moses, Stretch out thy hand and take it by the tail—and he stretched out his hand and caught it, and it became a staff in his hand—",
+    "reference": "Exodus 4:4 (DBT)",
+    "connected_to": "Exodus 4:5",
+    "connected_from": "Exodus 4:3"
+  },
+  {
+    "text": "that they may believe that Jehovah, the God of their fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath appeared unto thee.",
+    "reference": "Exodus 4:5 (DBT)",
+    "connected_to": "Exodus 4:6",
+    "connected_from": "Exodus 4:4"
+  },
+  {
+    "text": "And Jehovah said moreover to him, Put now thy hand into thy bosom. And he put his hand into his bosom, and took it out, and behold, his hand was leprous, as snow.",
+    "reference": "Exodus 4:6 (DBT)",
+    "connected_to": "Exodus 4:7",
+    "connected_from": "Exodus 4:5"
+  },
+  {
+    "text": "And he said, Put thy hand into thy bosom again. And he put his hand into his bosom again, and took it out of his bosom, and behold, it was turned again as his flesh.",
+    "reference": "Exodus 4:7 (DBT)",
+    "connected_to": "Exodus 4:8",
+    "connected_from": "Exodus 4:6"
+  },
+  {
+    "text": "And it shall come to pass, if they will not believe thee, neither hearken to the voice of the first sign, that they will believe the voice of the other sign.",
+    "reference": "Exodus 4:8 (DBT)",
+    "connected_to": "Exodus 4:9",
+    "connected_from": "Exodus 4:7"
+  },
+  {
+    "text": "And it shall come to pass, if they will not believe also those two signs, neither hearken unto thy voice, that thou shalt take of the water of the river, and pour [it] on the dry [land]; and the water that thou takest out of the river shall become blood upon the dry [land].",
+    "reference": "Exodus 4:9 (DBT)",
+    "connected_to": "Exodus 4:10",
+    "connected_from": "Exodus 4:8"
+  },
+  {
+    "text": "And Moses said to Jehovah, Ah Lord! I am not eloquent, neither heretofore nor since thou hast spoken to thy servant, for I am slow of speech and of a slow tongue.",
+    "reference": "Exodus 4:10 (DBT)",
+    "connected_to": "Exodus 4:11",
+    "connected_from": "Exodus 4:9"
+  },
+  {
+    "text": "And Jehovah said to him, Who gave man a mouth? or who maketh dumb, or deaf, or seeing, or blind? [have] not I, Jehovah?",
+    "reference": "Exodus 4:11 (DBT)",
+    "connected_to": "Exodus 4:12",
+    "connected_from": "Exodus 4:10"
+  },
+  {
+    "text": "And now go, and I will be with thy mouth, and will teach thee what thou shalt say.",
+    "reference": "Exodus 4:12 (DBT)",
+    "connected_to": "Exodus 4:13",
+    "connected_from": "Exodus 4:11"
+  },
+  {
+    "text": "And he said, Ah Lord! send, I pray thee, by the hand [of him whom] thou wilt send.",
+    "reference": "Exodus 4:13 (DBT)",
+    "connected_to": "Exodus 4:14",
+    "connected_from": "Exodus 4:12"
+  },
+  {
+    "text": "Then the anger of Jehovah was kindled against Moses, and he said, Is not Aaron the Levite thy brother? I know that he can speak well. And also behold, he goeth out to meet thee; and when he seeth thee he will be glad in his heart.",
+    "reference": "Exodus 4:14 (DBT)",
+    "connected_to": "Exodus 4:15",
+    "connected_from": "Exodus 4:13"
+  },
+  {
+    "text": "And thou shalt speak unto him, and put the words in his mouth; and I will be with thy mouth, and with his mouth, and will teach you what ye shall do.",
+    "reference": "Exodus 4:15 (DBT)",
+    "connected_to": "Exodus 4:16",
+    "connected_from": "Exodus 4:14"
+  },
+  {
+    "text": "And he shall speak for thee unto the people; and it shall come to pass that he shall be to thee for a mouth, and thou shalt be to him for God.",
+    "reference": "Exodus 4:16 (DBT)",
+    "connected_to": "Exodus 4:17",
+    "connected_from": "Exodus 4:15"
+  },
+  {
+    "text": "And thou shalt take this staff in thy hand, with which thou shalt do the signs.",
+    "reference": "Exodus 4:17 (DBT)",
+    "connected_to": "Exodus 4:18",
+    "connected_from": "Exodus 4:16"
+  },
+  {
+    "text": "And Moses went and returned to Jethro his father-in-law, and said to him, Let me go, I pray thee, and return to my brethren who are in Egypt, that I may see whether they are yet alive. And Jethro said to Moses, Go in peace.",
+    "reference": "Exodus 4:18 (DBT)",
+    "connected_to": "Exodus 4:19",
+    "connected_from": "Exodus 4:17"
+  },
+  {
+    "text": "And Jehovah said to Moses in Midian, Go, return to Egypt; for all the men are dead who sought thy life.",
+    "reference": "Exodus 4:19 (DBT)",
+    "connected_to": "Exodus 4:20",
+    "connected_from": "Exodus 4:18"
+  },
+  {
+    "text": "And Moses took his wife and his sons, and set them riding upon an ass, and he returned to the land of Egypt. And Moses took the staff of God in his hand.",
+    "reference": "Exodus 4:20 (DBT)",
+    "connected_to": "Exodus 4:21",
+    "connected_from": "Exodus 4:19"
+  },
+  {
+    "text": "And Jehovah said to Moses, When thou goest to return to Egypt, see that thou do all the wonders before Pharaoh that I have put in thy hand. And I will harden his heart, that he shall not let the people go.",
+    "reference": "Exodus 4:21 (DBT)",
+    "connected_to": "Exodus 4:22",
+    "connected_from": "Exodus 4:20"
+  },
+  {
+    "text": "And thou shalt say to Pharaoh, Thus saith Jehovah: Israel is my son, my firstborn.",
+    "reference": "Exodus 4:22 (DBT)",
+    "connected_to": "Exodus 4:23",
+    "connected_from": "Exodus 4:21"
+  },
+  {
+    "text": "And I say to thee, Let my son go, that he may serve me. And if thou refuse to let him go, behold, I will kill thy son, thy firstborn.",
+    "reference": "Exodus 4:23 (DBT)",
+    "connected_to": "Exodus 4:24",
+    "connected_from": "Exodus 4:22"
+  },
+  {
+    "text": "And it came to pass on the way, in the inn, that Jehovah came upon him, and sought to slay him.",
+    "reference": "Exodus 4:24 (DBT)",
+    "connected_to": "Exodus 4:25",
+    "connected_from": "Exodus 4:23"
+  },
+  {
+    "text": "Then Zipporah took a stone and cut off the foreskin of her son, and cast it at his feet, and said, A bloody husband indeed art thou to me!",
+    "reference": "Exodus 4:25 (DBT)",
+    "connected_to": "Exodus 4:26",
+    "connected_from": "Exodus 4:24"
+  },
+  {
+    "text": "And he let him go. Then she said, A bloody husband—because of the circumcision.",
+    "reference": "Exodus 4:26 (DBT)",
+    "connected_to": "Exodus 4:27",
+    "connected_from": "Exodus 4:25"
+  },
+  {
+    "text": "And Jehovah said to Aaron, Go into the wilderness to meet Moses. And he went, and met him on the mountain of God, and kissed him.",
+    "reference": "Exodus 4:27 (DBT)",
+    "connected_to": "Exodus 4:28",
+    "connected_from": "Exodus 4:26"
+  },
+  {
+    "text": "And Moses told Aaron all the words of Jehovah who had sent him, and all the signs that he had commanded him.",
+    "reference": "Exodus 4:28 (DBT)",
+    "connected_to": "Exodus 4:29",
+    "connected_from": "Exodus 4:27"
+  },
+  {
+    "text": "And Moses and Aaron went and gathered all the elders of the children of Israel;",
+    "reference": "Exodus 4:29 (DBT)",
+    "connected_to": "Exodus 4:30",
+    "connected_from": "Exodus 4:28"
+  },
+  {
+    "text": "and Aaron spoke all the words that Jehovah had spoken to Moses, and did the signs before the eyes of the people.",
+    "reference": "Exodus 4:30 (DBT)",
+    "connected_to": "Exodus 4:31",
+    "connected_from": "Exodus 4:29"
+  },
+  {
+    "text": "And the people believed. And when they heard that Jehovah had visited the children of Israel, and that he had seen their affliction, then they bowed their heads and worshipped.",
+    "reference": "Exodus 4:31 (DBT)",
+    "connected_from": "Exodus 4:30"
+  }
+]

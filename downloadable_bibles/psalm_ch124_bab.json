@@ -1,0 +1,48 @@
+[
+  {
+    "text": "A song of ascents. Of David (beloved). <span class=|reftext|><a href=|#|><b>1</b></a> If the LORD {YHWH} had not been on our side—let Israel (he wrestles with God) now declare—",
+    "reference": "Psalm 124:1 (BAB)",
+    "connected_to": "Psalm 124:2"
+  },
+  {
+    "text": "if the LORD {YHWH} had not been on our side when men attacked us,",
+    "reference": "Psalm 124:2 (BAB)",
+    "connected_to": "Psalm 124:3",
+    "connected_from": "Psalm 124:1"
+  },
+  {
+    "text": "when their anger flared against us, then they would have swallowed us alive,",
+    "reference": "Psalm 124:3 (BAB)",
+    "connected_to": "Psalm 124:4",
+    "connected_from": "Psalm 124:2"
+  },
+  {
+    "text": "then the floods would have engulfed us, then the torrent would have overwhelmed us,",
+    "reference": "Psalm 124:4 (BAB)",
+    "connected_to": "Psalm 124:5",
+    "connected_from": "Psalm 124:3"
+  },
+  {
+    "text": "then the raging waters would have swept us away.",
+    "reference": "Psalm 124:5 (BAB)",
+    "connected_to": "Psalm 124:6",
+    "connected_from": "Psalm 124:4"
+  },
+  {
+    "text": "Blessed be the LORD {YHWH}, who has not given us as prey to their teeth.",
+    "reference": "Psalm 124:6 (BAB)",
+    "connected_to": "Psalm 124:7",
+    "connected_from": "Psalm 124:5"
+  },
+  {
+    "text": "We have escaped like a bird from the snare of the fowler; the net is torn, and we have slipped away.",
+    "reference": "Psalm 124:7 (BAB)",
+    "connected_to": "Psalm 124:8",
+    "connected_from": "Psalm 124:6"
+  },
+  {
+    "text": "Our help is in the name of the LORD {YHWH}, the Maker of heaven and earth.",
+    "reference": "Psalm 124:8 (BAB)",
+    "connected_from": "Psalm 124:7"
+  }
+]

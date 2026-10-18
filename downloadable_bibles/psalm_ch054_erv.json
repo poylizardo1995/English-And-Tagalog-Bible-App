@@ -1,0 +1,42 @@
+[
+  {
+    "text": "For the Chief Musician; on stringed instruments. Maschil of David: when the Ziphites came and said to Saul, Doth not David hide himself with us? Save me, O God, by thy name, and judge me in thy might.",
+    "reference": "Psalm 54:1 (ERV)",
+    "connected_to": "Psalm 54:2"
+  },
+  {
+    "text": "Hear my prayer, O God; give ear to the words of my mouth.",
+    "reference": "Psalm 54:2 (ERV)",
+    "connected_to": "Psalm 54:3",
+    "connected_from": "Psalm 54:1"
+  },
+  {
+    "text": "For strangers are risen up against me, and violent men have sought after my soul: they have not set God before them. Selah",
+    "reference": "Psalm 54:3 (ERV)",
+    "connected_to": "Psalm 54:4",
+    "connected_from": "Psalm 54:2"
+  },
+  {
+    "text": "Behold, God is mine helper: the Lord is of them that uphold my soul.",
+    "reference": "Psalm 54:4 (ERV)",
+    "connected_to": "Psalm 54:5",
+    "connected_from": "Psalm 54:3"
+  },
+  {
+    "text": "He shall requite the evil unto mine enemies: destroy thou them in thy truth.",
+    "reference": "Psalm 54:5 (ERV)",
+    "connected_to": "Psalm 54:6",
+    "connected_from": "Psalm 54:4"
+  },
+  {
+    "text": "With a freewill offering will I sacrifice unto thee: I will give thanks unto thy name, O LORD, for it is good.",
+    "reference": "Psalm 54:6 (ERV)",
+    "connected_to": "Psalm 54:7",
+    "connected_from": "Psalm 54:5"
+  },
+  {
+    "text": "For he hath delivered me out of all trouble; and mine eye hath seen my desire upon mine enemies.",
+    "reference": "Psalm 54:7 (ERV)",
+    "connected_from": "Psalm 54:6"
+  }
+]

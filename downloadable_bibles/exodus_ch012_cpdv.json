@@ -1,0 +1,306 @@
+[
+  {
+    "text": "The Lord also said to Moses and Aaron in the land of Egypt:",
+    "reference": "Exodus 12:1 (CPDV)",
+    "connected_to": "Exodus 12:2"
+  },
+  {
+    "text": "“This month will be for you the beginning of the months. It will be first in the months of the year.",
+    "reference": "Exodus 12:2 (CPDV)",
+    "connected_to": "Exodus 12:3",
+    "connected_from": "Exodus 12:1"
+  },
+  {
+    "text": "Speak to the entire assembly of the sons of Israel, and say to them: On the tenth day of this month, let everyone take a lamb, by their families and houses.",
+    "reference": "Exodus 12:3 (CPDV)",
+    "connected_to": "Exodus 12:4",
+    "connected_from": "Exodus 12:2"
+  },
+  {
+    "text": "But if the number is less than may suffice to be able to consume the lamb, he shall accept his neighbor, who has been joined with his house according to the number of souls that may suffice to be able to eat the lamb.",
+    "reference": "Exodus 12:4 (CPDV)",
+    "connected_to": "Exodus 12:5",
+    "connected_from": "Exodus 12:3"
+  },
+  {
+    "text": "And it shall be a lamb without blemish, a one year old male. According to this rite, you shall also take a young goat.",
+    "reference": "Exodus 12:5 (CPDV)",
+    "connected_to": "Exodus 12:6",
+    "connected_from": "Exodus 12:4"
+  },
+  {
+    "text": "And you shall keep it until the fourteenth day of this month. And the entire multitude of the sons of Israel shall immolate it toward evening.",
+    "reference": "Exodus 12:6 (CPDV)",
+    "connected_to": "Exodus 12:7",
+    "connected_from": "Exodus 12:5"
+  },
+  {
+    "text": "And they shall take from its blood, and place it on both the door posts and the upper threshold of the houses, in which they will consume it.",
+    "reference": "Exodus 12:7 (CPDV)",
+    "connected_to": "Exodus 12:8",
+    "connected_from": "Exodus 12:6"
+  },
+  {
+    "text": "And that night they shall eat the flesh, roasted by fire, and unleavened bread with wild lettuce.",
+    "reference": "Exodus 12:8 (CPDV)",
+    "connected_to": "Exodus 12:9",
+    "connected_from": "Exodus 12:7"
+  },
+  {
+    "text": "You shall not consume anything from it raw, nor boiled in water, but only roasted by fire. You shall devour the head with its feet and entrails.",
+    "reference": "Exodus 12:9 (CPDV)",
+    "connected_to": "Exodus 12:10",
+    "connected_from": "Exodus 12:8"
+  },
+  {
+    "text": "Neither shall there remain anything from it until morning. If anything will have been left over, you shall burn it with fire.",
+    "reference": "Exodus 12:10 (CPDV)",
+    "connected_to": "Exodus 12:11",
+    "connected_from": "Exodus 12:9"
+  },
+  {
+    "text": "Now you shall consume it in this way: You shall gird your waist, and you shall have shoes on your feet, holding staves in your hands, and you shall consume it in haste. For it is the Passover (that is, the Crossing) of the Lord.",
+    "reference": "Exodus 12:11 (CPDV)",
+    "connected_to": "Exodus 12:12",
+    "connected_from": "Exodus 12:10"
+  },
+  {
+    "text": "And I will cross through the land of Egypt that night, and I will strike down all the firstborn in the land of Egypt, from man, even to cattle. And I will bring judgments against all the gods of Egypt. I am the Lord.",
+    "reference": "Exodus 12:12 (CPDV)",
+    "connected_to": "Exodus 12:13",
+    "connected_from": "Exodus 12:11"
+  },
+  {
+    "text": "But the blood will be for you as a sign in the buildings where you will be. And I will see the blood, and I will pass over you. And the plague will not be with you to destroy, when I strike the land of Egypt.",
+    "reference": "Exodus 12:13 (CPDV)",
+    "connected_to": "Exodus 12:14",
+    "connected_from": "Exodus 12:12"
+  },
+  {
+    "text": "Then you shall have this day as a memorial, and you shall celebrate it as a solemnity to the Lord, in your generations, as an everlasting devotion.",
+    "reference": "Exodus 12:14 (CPDV)",
+    "connected_to": "Exodus 12:15",
+    "connected_from": "Exodus 12:13"
+  },
+  {
+    "text": "For seven days, you shall eat unleavened bread. On the first day there shall be no leaven in your houses. Whoever will consume anything leavened, from the first day, even until the seventh day, that soul shall perish from Israel.",
+    "reference": "Exodus 12:15 (CPDV)",
+    "connected_to": "Exodus 12:16",
+    "connected_from": "Exodus 12:14"
+  },
+  {
+    "text": "The first day shall be holy and solemn, and the seventh day shall be venerated with the same festivity. You shall do no work in these days, except that which pertains to the eating.",
+    "reference": "Exodus 12:16 (CPDV)",
+    "connected_to": "Exodus 12:17",
+    "connected_from": "Exodus 12:15"
+  },
+  {
+    "text": "And you shall observe the feast of unleavened bread. For on this same day, I will lead your army out of the land of Egypt, and you shall keep this day, in your generations, as a perpetual ritual.",
+    "reference": "Exodus 12:17 (CPDV)",
+    "connected_to": "Exodus 12:18",
+    "connected_from": "Exodus 12:16"
+  },
+  {
+    "text": "In the first month, on the fourteenth day of the month, toward evening, you shall consume the unleavened bread, until the twenty-first day of the same month, toward evening.",
+    "reference": "Exodus 12:18 (CPDV)",
+    "connected_to": "Exodus 12:19",
+    "connected_from": "Exodus 12:17"
+  },
+  {
+    "text": "For seven days, there shall not be found leaven in your houses. Whoever will eat leaven, his soul will perish from the assembly of Israel, as much with the newcomers as with the natives of the land.",
+    "reference": "Exodus 12:19 (CPDV)",
+    "connected_to": "Exodus 12:20",
+    "connected_from": "Exodus 12:18"
+  },
+  {
+    "text": "You shall not consume any leaven. In all your dwelling places, you shall eat unleavened bread.”",
+    "reference": "Exodus 12:20 (CPDV)",
+    "connected_to": "Exodus 12:21",
+    "connected_from": "Exodus 12:19"
+  },
+  {
+    "text": "Then Moses called all the elders of the sons of Israel, and he said to them: “Go, taking an animal by your families, and sacrifice the Passover.",
+    "reference": "Exodus 12:21 (CPDV)",
+    "connected_to": "Exodus 12:22",
+    "connected_from": "Exodus 12:20"
+  },
+  {
+    "text": "And dip a little bundle of hyssop in the blood which is at the entrance, and sprinkle the upper threshold with it, and both of the door posts. Let none of you go out of the door of his house until morning.",
+    "reference": "Exodus 12:22 (CPDV)",
+    "connected_to": "Exodus 12:23",
+    "connected_from": "Exodus 12:21"
+  },
+  {
+    "text": "For the Lord will cross through, striking the Egyptians. And when he will see the blood on the upper threshold, and on both the door posts, he will pass over the door of the house and not permit the Striker to enter into your houses or to do harm.",
+    "reference": "Exodus 12:23 (CPDV)",
+    "connected_to": "Exodus 12:24",
+    "connected_from": "Exodus 12:22"
+  },
+  {
+    "text": "You shall keep this word as a law for you and for your sons, forever.",
+    "reference": "Exodus 12:24 (CPDV)",
+    "connected_to": "Exodus 12:25",
+    "connected_from": "Exodus 12:23"
+  },
+  {
+    "text": "And when you have entered into the land that the Lord will give to you, just as he has promised, you shall observe these ceremonies.",
+    "reference": "Exodus 12:25 (CPDV)",
+    "connected_to": "Exodus 12:26",
+    "connected_from": "Exodus 12:24"
+  },
+  {
+    "text": "And when your sons will say to you, ‘What is the meaning of this religious observance?’",
+    "reference": "Exodus 12:26 (CPDV)",
+    "connected_to": "Exodus 12:27",
+    "connected_from": "Exodus 12:25"
+  },
+  {
+    "text": "You shall say to them: ‘It is the victim of the crossing of the Lord, when he passed over the houses of the sons of Israel in Egypt, striking the Egyptians, and freeing our houses.’ ” And the people, bowing down, worshipped.",
+    "reference": "Exodus 12:27 (CPDV)",
+    "connected_to": "Exodus 12:28",
+    "connected_from": "Exodus 12:26"
+  },
+  {
+    "text": "And the sons of Israel, departing, did just as the Lord had instructed Moses and Aaron.",
+    "reference": "Exodus 12:28 (CPDV)",
+    "connected_to": "Exodus 12:29",
+    "connected_from": "Exodus 12:27"
+  },
+  {
+    "text": "Then it happened, in the middle of the night: the Lord struck down every firstborn in the land of Egypt, from the firstborn of Pharaoh, who sits on his throne, even to the firstborn of the captive woman who was in prison, and all the firstborn of the cattle.",
+    "reference": "Exodus 12:29 (CPDV)",
+    "connected_to": "Exodus 12:30",
+    "connected_from": "Exodus 12:28"
+  },
+  {
+    "text": "And Pharaoh rose up in the night, and all his servants, and all of Egypt. And there arose a great outcry in Egypt. For there was not a house in which no one lay dead.",
+    "reference": "Exodus 12:30 (CPDV)",
+    "connected_to": "Exodus 12:31",
+    "connected_from": "Exodus 12:29"
+  },
+  {
+    "text": "And Pharaoh, calling Moses and Aaron in the night, said: “Rise up and go forth from among my people, you and the sons of Israel. Go, sacrifice to the Lord, just as you say.",
+    "reference": "Exodus 12:31 (CPDV)",
+    "connected_to": "Exodus 12:32",
+    "connected_from": "Exodus 12:30"
+  },
+  {
+    "text": "Your sheep and herds take along with you, as you requested, and as you go away, bless me.”",
+    "reference": "Exodus 12:32 (CPDV)",
+    "connected_to": "Exodus 12:33",
+    "connected_from": "Exodus 12:31"
+  },
+  {
+    "text": "And the Egyptians urged the people to go away from the land quickly, saying, “We will all die.”",
+    "reference": "Exodus 12:33 (CPDV)",
+    "connected_to": "Exodus 12:34",
+    "connected_from": "Exodus 12:32"
+  },
+  {
+    "text": "Therefore, the people took bread dough before it was leavened. And tying it in their cloaks, they placed it on their shoulders.",
+    "reference": "Exodus 12:34 (CPDV)",
+    "connected_to": "Exodus 12:35",
+    "connected_from": "Exodus 12:33"
+  },
+  {
+    "text": "And the sons of Israel did just as Moses had instructed. And they petitioned the Egyptians for vessels of silver and of gold, and very many garments.",
+    "reference": "Exodus 12:35 (CPDV)",
+    "connected_to": "Exodus 12:36",
+    "connected_from": "Exodus 12:34"
+  },
+  {
+    "text": "Then the Lord granted favor to the people in the sight of the Egyptians, so that they bestowed on them. And they despoiled the Egyptians.",
+    "reference": "Exodus 12:36 (CPDV)",
+    "connected_to": "Exodus 12:37",
+    "connected_from": "Exodus 12:35"
+  },
+  {
+    "text": "And the sons of Israel set out from Rameses to Soccoth, about six hundred thousand men on foot, besides little ones.",
+    "reference": "Exodus 12:37 (CPDV)",
+    "connected_to": "Exodus 12:38",
+    "connected_from": "Exodus 12:36"
+  },
+  {
+    "text": "But also an innumerable mix of common people ascended with them, sheep and herds and animals of diverse kinds, exceedingly many.",
+    "reference": "Exodus 12:38 (CPDV)",
+    "connected_to": "Exodus 12:39",
+    "connected_from": "Exodus 12:37"
+  },
+  {
+    "text": "And they baked the bread, which a little while ago they had taken out of Egypt as dough. And they made unleavened bread baked under ashes. For it was not able to be leavened, with the Egyptians compelling them to leave and not permitting them to cause any delay. Neither did they have occasion to prepare any meat.",
+    "reference": "Exodus 12:39 (CPDV)",
+    "connected_to": "Exodus 12:40",
+    "connected_from": "Exodus 12:38"
+  },
+  {
+    "text": "Now the habitation of the sons of Israel, while they remained in Egypt, was four hundred and thirty years.",
+    "reference": "Exodus 12:40 (CPDV)",
+    "connected_to": "Exodus 12:41",
+    "connected_from": "Exodus 12:39"
+  },
+  {
+    "text": "Having been completed, on the same day all the army of the Lord departed from the land of Egypt.",
+    "reference": "Exodus 12:41 (CPDV)",
+    "connected_to": "Exodus 12:42",
+    "connected_from": "Exodus 12:40"
+  },
+  {
+    "text": "This night is a worthy observance of the Lord, when he led them out of the land of Egypt. This all the sons of Israel must observe in their generations.",
+    "reference": "Exodus 12:42 (CPDV)",
+    "connected_to": "Exodus 12:43",
+    "connected_from": "Exodus 12:41"
+  },
+  {
+    "text": "And the Lord said to Moses and to Aaron: “This is the religious observance of the Passover. No foreigner shall eat from it.",
+    "reference": "Exodus 12:43 (CPDV)",
+    "connected_to": "Exodus 12:44",
+    "connected_from": "Exodus 12:42"
+  },
+  {
+    "text": "But every bought servant shall be circumcised, and so he may eat from it.",
+    "reference": "Exodus 12:44 (CPDV)",
+    "connected_to": "Exodus 12:45",
+    "connected_from": "Exodus 12:43"
+  },
+  {
+    "text": "The newcomer and the hired hand shall not eat from it.",
+    "reference": "Exodus 12:45 (CPDV)",
+    "connected_to": "Exodus 12:46",
+    "connected_from": "Exodus 12:44"
+  },
+  {
+    "text": "In one house it shall be eaten; you shall not carry its flesh outside, nor shall you break its bone.",
+    "reference": "Exodus 12:46 (CPDV)",
+    "connected_to": "Exodus 12:47",
+    "connected_from": "Exodus 12:45"
+  },
+  {
+    "text": "The entire assembly of the sons of Israel shall do this.",
+    "reference": "Exodus 12:47 (CPDV)",
+    "connected_to": "Exodus 12:48",
+    "connected_from": "Exodus 12:46"
+  },
+  {
+    "text": "And if any sojourner will be willing to cross over into your settlement, and to keep the Passover of the Lord, all his males shall first be circumcised, and then he shall celebrate the rite. And he shall be just like a native of the land. But if any man is not circumcised, he shall not eat from it.",
+    "reference": "Exodus 12:48 (CPDV)",
+    "connected_to": "Exodus 12:49",
+    "connected_from": "Exodus 12:47"
+  },
+  {
+    "text": "The law shall be the same for the native born and for the settler who sojourns with you.”",
+    "reference": "Exodus 12:49 (CPDV)",
+    "connected_to": "Exodus 12:50",
+    "connected_from": "Exodus 12:48"
+  },
+  {
+    "text": "And all the sons of Israel did just as the Lord had instructed Moses and Aaron.",
+    "reference": "Exodus 12:50 (CPDV)",
+    "connected_to": "Exodus 12:51",
+    "connected_from": "Exodus 12:49"
+  },
+  {
+    "text": "And on the same day, the Lord led the sons of Israel out of the land of Egypt by their companies.",
+    "reference": "Exodus 12:51 (CPDV)",
+    "connected_from": "Exodus 12:50"
+  }
+]

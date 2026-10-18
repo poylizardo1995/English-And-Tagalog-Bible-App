@@ -1,0 +1,534 @@
+[
+  {
+    "text": "And it came to pass on the day that Moses had made an end of setting up the tabernacle, and had anointed it and sanctified it, and all the furniture thereof, and the altar and all the vessels thereof, and had anointed them and sanctified them;",
+    "reference": "Numbers 7:1 (ASV)",
+    "connected_to": "Numbers 7:2"
+  },
+  {
+    "text": "that the princes of Israel, the heads of their fathers’ houses, offered. These were the princes of the tribes, these are they that were over them that were numbered:",
+    "reference": "Numbers 7:2 (ASV)",
+    "connected_to": "Numbers 7:3",
+    "connected_from": "Numbers 7:1"
+  },
+  {
+    "text": "and they brought their oblation before Jehovah, six covered wagons, and twelve oxen; a wagon for every two of the princes, and for each one an ox: and they presented them before the tabernacle.",
+    "reference": "Numbers 7:3 (ASV)",
+    "connected_to": "Numbers 7:4",
+    "connected_from": "Numbers 7:2"
+  },
+  {
+    "text": "And Jehovah spake unto Moses, saying,",
+    "reference": "Numbers 7:4 (ASV)",
+    "connected_to": "Numbers 7:5",
+    "connected_from": "Numbers 7:3"
+  },
+  {
+    "text": "Take it of them, that they may be used in doing the service of the tent of meeting; and thou shalt give them unto the Levites, to every man according to his service.",
+    "reference": "Numbers 7:5 (ASV)",
+    "connected_to": "Numbers 7:6",
+    "connected_from": "Numbers 7:4"
+  },
+  {
+    "text": "And Moses took the wagons and the oxen, and gave them unto the Levites.",
+    "reference": "Numbers 7:6 (ASV)",
+    "connected_to": "Numbers 7:7",
+    "connected_from": "Numbers 7:5"
+  },
+  {
+    "text": "Two wagons and four oxen he gave unto the sons of Gershon, according to their service:",
+    "reference": "Numbers 7:7 (ASV)",
+    "connected_to": "Numbers 7:8",
+    "connected_from": "Numbers 7:6"
+  },
+  {
+    "text": "and four wagons and eight oxen he gave unto the sons of Merari, according unto their service, under the hand of Ithamar the son of Aaron the priest.",
+    "reference": "Numbers 7:8 (ASV)",
+    "connected_to": "Numbers 7:9",
+    "connected_from": "Numbers 7:7"
+  },
+  {
+    "text": "But unto the sons of Kohath he gave none, because the service of the sanctuary belonged unto them; they bare it upon their shoulders.",
+    "reference": "Numbers 7:9 (ASV)",
+    "connected_to": "Numbers 7:10",
+    "connected_from": "Numbers 7:8"
+  },
+  {
+    "text": "And the princes offered for the dedication of the altar in the day that it was anointed, even the princes offered their oblation before the altar.",
+    "reference": "Numbers 7:10 (ASV)",
+    "connected_to": "Numbers 7:11",
+    "connected_from": "Numbers 7:9"
+  },
+  {
+    "text": "And Jehovah said unto Moses, They shall offer their oblation, each prince on his day, for the dedication of the altar.",
+    "reference": "Numbers 7:11 (ASV)",
+    "connected_to": "Numbers 7:12",
+    "connected_from": "Numbers 7:10"
+  },
+  {
+    "text": "And he that offered his oblation the first day was Nahshon the son of Amminadab, of the tribe of Judah:",
+    "reference": "Numbers 7:12 (ASV)",
+    "connected_to": "Numbers 7:13",
+    "connected_from": "Numbers 7:11"
+  },
+  {
+    "text": "and his oblation was one silver platter, the weight whereof was a hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meal-offering;",
+    "reference": "Numbers 7:13 (ASV)",
+    "connected_to": "Numbers 7:14",
+    "connected_from": "Numbers 7:12"
+  },
+  {
+    "text": "one golden spoon of ten shekels, full of incense;",
+    "reference": "Numbers 7:14 (ASV)",
+    "connected_to": "Numbers 7:15",
+    "connected_from": "Numbers 7:13"
+  },
+  {
+    "text": "one young bullock, one ram, one he-lamb a year old, for a burnt-offering;",
+    "reference": "Numbers 7:15 (ASV)",
+    "connected_to": "Numbers 7:16",
+    "connected_from": "Numbers 7:14"
+  },
+  {
+    "text": "one male of the goats for a sin-offering;",
+    "reference": "Numbers 7:16 (ASV)",
+    "connected_to": "Numbers 7:17",
+    "connected_from": "Numbers 7:15"
+  },
+  {
+    "text": "and for the sacrifice of peace-offerings, two oxen, five rams, five he-goats, five he-lambs a year old: this was the oblation of Nahshon the son of Amminadab.",
+    "reference": "Numbers 7:17 (ASV)",
+    "connected_to": "Numbers 7:18",
+    "connected_from": "Numbers 7:16"
+  },
+  {
+    "text": "On the second day Nethanel the son of Zuar, prince of Issachar, did offer:",
+    "reference": "Numbers 7:18 (ASV)",
+    "connected_to": "Numbers 7:19",
+    "connected_from": "Numbers 7:17"
+  },
+  {
+    "text": "he offered for his oblation one silver platter, the weight whereof was a hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meal-offering;",
+    "reference": "Numbers 7:19 (ASV)",
+    "connected_to": "Numbers 7:20",
+    "connected_from": "Numbers 7:18"
+  },
+  {
+    "text": "one golden spoon of ten shekels, full of incense;",
+    "reference": "Numbers 7:20 (ASV)",
+    "connected_to": "Numbers 7:21",
+    "connected_from": "Numbers 7:19"
+  },
+  {
+    "text": "one young bullock, one ram, one he-lamb a year old, for a burnt-offering;",
+    "reference": "Numbers 7:21 (ASV)",
+    "connected_to": "Numbers 7:22",
+    "connected_from": "Numbers 7:20"
+  },
+  {
+    "text": "one male of the goats for a sin-offering;",
+    "reference": "Numbers 7:22 (ASV)",
+    "connected_to": "Numbers 7:23",
+    "connected_from": "Numbers 7:21"
+  },
+  {
+    "text": "and for the sacrifice of peace-offerings, two oxen, five rams, five he-goats, five he-lambs a year old: this was the oblation of Nethanel the son of Zuar.",
+    "reference": "Numbers 7:23 (ASV)",
+    "connected_to": "Numbers 7:24",
+    "connected_from": "Numbers 7:22"
+  },
+  {
+    "text": "On the third day Eliab the son of Helon, prince of the children of Zebulun:",
+    "reference": "Numbers 7:24 (ASV)",
+    "connected_to": "Numbers 7:25",
+    "connected_from": "Numbers 7:23"
+  },
+  {
+    "text": "his oblation was one silver platter, the weight whereof was a hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meal-offering;",
+    "reference": "Numbers 7:25 (ASV)",
+    "connected_to": "Numbers 7:26",
+    "connected_from": "Numbers 7:24"
+  },
+  {
+    "text": "one golden spoon of ten shekels, full of incense;",
+    "reference": "Numbers 7:26 (ASV)",
+    "connected_to": "Numbers 7:27",
+    "connected_from": "Numbers 7:25"
+  },
+  {
+    "text": "one young bullock, one ram, one he-lamb a year old, for a burnt-offering;",
+    "reference": "Numbers 7:27 (ASV)",
+    "connected_to": "Numbers 7:28",
+    "connected_from": "Numbers 7:26"
+  },
+  {
+    "text": "one male of the goats for a sin-offering;",
+    "reference": "Numbers 7:28 (ASV)",
+    "connected_to": "Numbers 7:29",
+    "connected_from": "Numbers 7:27"
+  },
+  {
+    "text": "and for the sacrifice of peace-offerings, two oxen, five rams, five he-goats, five he-lambs a year old: this was the oblation of Eliab the son of Helon.",
+    "reference": "Numbers 7:29 (ASV)",
+    "connected_to": "Numbers 7:30",
+    "connected_from": "Numbers 7:28"
+  },
+  {
+    "text": "On the fourth day Elizur the son of Shedeur, prince of the children of Reuben:",
+    "reference": "Numbers 7:30 (ASV)",
+    "connected_to": "Numbers 7:31",
+    "connected_from": "Numbers 7:29"
+  },
+  {
+    "text": "his oblation was one silver platter, the weight whereof was a hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meal-offering;",
+    "reference": "Numbers 7:31 (ASV)",
+    "connected_to": "Numbers 7:32",
+    "connected_from": "Numbers 7:30"
+  },
+  {
+    "text": "one golden spoon of ten shekels, full of incense;",
+    "reference": "Numbers 7:32 (ASV)",
+    "connected_to": "Numbers 7:33",
+    "connected_from": "Numbers 7:31"
+  },
+  {
+    "text": "one young bullock, one ram, one he-lamb a year old, for a burnt-offering;",
+    "reference": "Numbers 7:33 (ASV)",
+    "connected_to": "Numbers 7:34",
+    "connected_from": "Numbers 7:32"
+  },
+  {
+    "text": "one male of the goats for a sin-offering;",
+    "reference": "Numbers 7:34 (ASV)",
+    "connected_to": "Numbers 7:35",
+    "connected_from": "Numbers 7:33"
+  },
+  {
+    "text": "and for the sacrifice of peace-offerings, two oxen, five rams, five he-goats, five he-lambs a year old: this was the oblation of Elizur the son of Shedeur.",
+    "reference": "Numbers 7:35 (ASV)",
+    "connected_to": "Numbers 7:36",
+    "connected_from": "Numbers 7:34"
+  },
+  {
+    "text": "On the fifth day Shelumiel the son of Zurishaddai, prince of the children of Simeon:",
+    "reference": "Numbers 7:36 (ASV)",
+    "connected_to": "Numbers 7:37",
+    "connected_from": "Numbers 7:35"
+  },
+  {
+    "text": "his oblation was one silver platter, the weight whereof was a hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meal-offering;",
+    "reference": "Numbers 7:37 (ASV)",
+    "connected_to": "Numbers 7:38",
+    "connected_from": "Numbers 7:36"
+  },
+  {
+    "text": "one golden spoon of ten shekels, full of incense;",
+    "reference": "Numbers 7:38 (ASV)",
+    "connected_to": "Numbers 7:39",
+    "connected_from": "Numbers 7:37"
+  },
+  {
+    "text": "one young bullock, one ram, one he-lamb a year old, for a burnt-offering;",
+    "reference": "Numbers 7:39 (ASV)",
+    "connected_to": "Numbers 7:40",
+    "connected_from": "Numbers 7:38"
+  },
+  {
+    "text": "one male of the goats for a sin-offering;",
+    "reference": "Numbers 7:40 (ASV)",
+    "connected_to": "Numbers 7:41",
+    "connected_from": "Numbers 7:39"
+  },
+  {
+    "text": "and for the sacrifice of peace-offerings, two oxen, five rams, five he-goats, five he-lambs a year old: this was the oblation of Shelumiel the son of Zurishaddai.",
+    "reference": "Numbers 7:41 (ASV)",
+    "connected_to": "Numbers 7:42",
+    "connected_from": "Numbers 7:40"
+  },
+  {
+    "text": "On the sixth day Eliasaph the son of Deuel, prince of the children of Gad:",
+    "reference": "Numbers 7:42 (ASV)",
+    "connected_to": "Numbers 7:43",
+    "connected_from": "Numbers 7:41"
+  },
+  {
+    "text": "his oblation was one silver platter, the weight whereof was a hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meal-offering;",
+    "reference": "Numbers 7:43 (ASV)",
+    "connected_to": "Numbers 7:44",
+    "connected_from": "Numbers 7:42"
+  },
+  {
+    "text": "one golden spoon of ten shekels, full of incense;",
+    "reference": "Numbers 7:44 (ASV)",
+    "connected_to": "Numbers 7:45",
+    "connected_from": "Numbers 7:43"
+  },
+  {
+    "text": "one young bullock, one ram, one he-lamb a year old, for a burnt-offering;",
+    "reference": "Numbers 7:45 (ASV)",
+    "connected_to": "Numbers 7:46",
+    "connected_from": "Numbers 7:44"
+  },
+  {
+    "text": "one male of the goats for a sin-offering;",
+    "reference": "Numbers 7:46 (ASV)",
+    "connected_to": "Numbers 7:47",
+    "connected_from": "Numbers 7:45"
+  },
+  {
+    "text": "and for the sacrifice of peace-offerings, two oxen, five rams, five he-goats, five he-lambs a year old: this was the oblation of Eliasaph the son of Deuel.",
+    "reference": "Numbers 7:47 (ASV)",
+    "connected_to": "Numbers 7:48",
+    "connected_from": "Numbers 7:46"
+  },
+  {
+    "text": "On the seventh day Elishama the son of Ammihud, prince of the children of Ephraim:",
+    "reference": "Numbers 7:48 (ASV)",
+    "connected_to": "Numbers 7:49",
+    "connected_from": "Numbers 7:47"
+  },
+  {
+    "text": "his oblation was one silver platter, the weight whereof was a hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meal-offering;",
+    "reference": "Numbers 7:49 (ASV)",
+    "connected_to": "Numbers 7:50",
+    "connected_from": "Numbers 7:48"
+  },
+  {
+    "text": "one golden spoon of ten shekels, full of incense;",
+    "reference": "Numbers 7:50 (ASV)",
+    "connected_to": "Numbers 7:51",
+    "connected_from": "Numbers 7:49"
+  },
+  {
+    "text": "one young bullock, one ram, one he-lamb a year old, for a burnt-offering;",
+    "reference": "Numbers 7:51 (ASV)",
+    "connected_to": "Numbers 7:52",
+    "connected_from": "Numbers 7:50"
+  },
+  {
+    "text": "one male of the goats for a sin-offering;",
+    "reference": "Numbers 7:52 (ASV)",
+    "connected_to": "Numbers 7:53",
+    "connected_from": "Numbers 7:51"
+  },
+  {
+    "text": "and for the sacrifice of peace-offerings, two oxen, five rams, five he-goats, five he-lambs a year old: this was the oblation of Elishama the son of Ammihud.",
+    "reference": "Numbers 7:53 (ASV)",
+    "connected_to": "Numbers 7:54",
+    "connected_from": "Numbers 7:52"
+  },
+  {
+    "text": "On the eighth day Gamaliel the son of Pedahzur, prince of the children of Manasseh:",
+    "reference": "Numbers 7:54 (ASV)",
+    "connected_to": "Numbers 7:55",
+    "connected_from": "Numbers 7:53"
+  },
+  {
+    "text": "his oblation was one silver platter, the weight whereof was a hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meal-offering;",
+    "reference": "Numbers 7:55 (ASV)",
+    "connected_to": "Numbers 7:56",
+    "connected_from": "Numbers 7:54"
+  },
+  {
+    "text": "one golden spoon of ten shekels, full of incense;",
+    "reference": "Numbers 7:56 (ASV)",
+    "connected_to": "Numbers 7:57",
+    "connected_from": "Numbers 7:55"
+  },
+  {
+    "text": "one young bullock, one ram, one he-lamb a year old, for a burnt-offering;",
+    "reference": "Numbers 7:57 (ASV)",
+    "connected_to": "Numbers 7:58",
+    "connected_from": "Numbers 7:56"
+  },
+  {
+    "text": "one male of the goats for a sin-offering;",
+    "reference": "Numbers 7:58 (ASV)",
+    "connected_to": "Numbers 7:59",
+    "connected_from": "Numbers 7:57"
+  },
+  {
+    "text": "and for the sacrifice of peace-offerings, two oxen, five rams, five he-goats, five he-lambs a year old: this was the oblation of Gamaliel the son of Pedahzur.",
+    "reference": "Numbers 7:59 (ASV)",
+    "connected_to": "Numbers 7:60",
+    "connected_from": "Numbers 7:58"
+  },
+  {
+    "text": "On the ninth day Abidan the son of Gideoni, prince of the children of Benjamin:",
+    "reference": "Numbers 7:60 (ASV)",
+    "connected_to": "Numbers 7:61",
+    "connected_from": "Numbers 7:59"
+  },
+  {
+    "text": "his oblation was one silver platter, the weight whereof was a hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meal-offering;",
+    "reference": "Numbers 7:61 (ASV)",
+    "connected_to": "Numbers 7:62",
+    "connected_from": "Numbers 7:60"
+  },
+  {
+    "text": "one golden spoon of ten shekels, full of incense;",
+    "reference": "Numbers 7:62 (ASV)",
+    "connected_to": "Numbers 7:63",
+    "connected_from": "Numbers 7:61"
+  },
+  {
+    "text": "one young bullock, one ram, one he-lamb a year old, for a burnt-offering;",
+    "reference": "Numbers 7:63 (ASV)",
+    "connected_to": "Numbers 7:64",
+    "connected_from": "Numbers 7:62"
+  },
+  {
+    "text": "one male of the goats for a sin-offering;",
+    "reference": "Numbers 7:64 (ASV)",
+    "connected_to": "Numbers 7:65",
+    "connected_from": "Numbers 7:63"
+  },
+  {
+    "text": "and for the sacrifice of peace-offerings, two oxen, five rams, five he-goats, five he-lambs a year old: this was the oblation of Abidan the son of Gideoni.",
+    "reference": "Numbers 7:65 (ASV)",
+    "connected_to": "Numbers 7:66",
+    "connected_from": "Numbers 7:64"
+  },
+  {
+    "text": "On the tenth day Ahiezer the son of Ammishaddai, prince of the children of Dan:",
+    "reference": "Numbers 7:66 (ASV)",
+    "connected_to": "Numbers 7:67",
+    "connected_from": "Numbers 7:65"
+  },
+  {
+    "text": "his oblation was one silver platter, the weight whereof was a hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meal-offering;",
+    "reference": "Numbers 7:67 (ASV)",
+    "connected_to": "Numbers 7:68",
+    "connected_from": "Numbers 7:66"
+  },
+  {
+    "text": "one golden spoon of ten shekels, full of incense;",
+    "reference": "Numbers 7:68 (ASV)",
+    "connected_to": "Numbers 7:69",
+    "connected_from": "Numbers 7:67"
+  },
+  {
+    "text": "one young bullock, one ram, one he-lamb a year old, for a burnt-offering;",
+    "reference": "Numbers 7:69 (ASV)",
+    "connected_to": "Numbers 7:70",
+    "connected_from": "Numbers 7:68"
+  },
+  {
+    "text": "one male of the goats for a sin-offering;",
+    "reference": "Numbers 7:70 (ASV)",
+    "connected_to": "Numbers 7:71",
+    "connected_from": "Numbers 7:69"
+  },
+  {
+    "text": "and for the sacrifice of peace-offerings, two oxen, five rams, five he-goats, five he-lambs a year old: this was the oblation of Ahiezer the son of Ammishaddai.",
+    "reference": "Numbers 7:71 (ASV)",
+    "connected_to": "Numbers 7:72",
+    "connected_from": "Numbers 7:70"
+  },
+  {
+    "text": "On the eleventh day Pagiel the son of Ochran, prince of the children of Asher:",
+    "reference": "Numbers 7:72 (ASV)",
+    "connected_to": "Numbers 7:73",
+    "connected_from": "Numbers 7:71"
+  },
+  {
+    "text": "his oblation was one silver platter, the weight whereof was a hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meal-offering;",
+    "reference": "Numbers 7:73 (ASV)",
+    "connected_to": "Numbers 7:74",
+    "connected_from": "Numbers 7:72"
+  },
+  {
+    "text": "one golden spoon of ten shekels, full of incense;",
+    "reference": "Numbers 7:74 (ASV)",
+    "connected_to": "Numbers 7:75",
+    "connected_from": "Numbers 7:73"
+  },
+  {
+    "text": "one young bullock, one ram, one he-lamb a year old, for a burnt-offering;",
+    "reference": "Numbers 7:75 (ASV)",
+    "connected_to": "Numbers 7:76",
+    "connected_from": "Numbers 7:74"
+  },
+  {
+    "text": "one male of the goats for a sin-offering;",
+    "reference": "Numbers 7:76 (ASV)",
+    "connected_to": "Numbers 7:77",
+    "connected_from": "Numbers 7:75"
+  },
+  {
+    "text": "and for the sacrifice of peace-offerings, two oxen, five rams, five he-goats, five he-lambs a year old: this was the oblation of Pagiel the son of Ochran.",
+    "reference": "Numbers 7:77 (ASV)",
+    "connected_to": "Numbers 7:78",
+    "connected_from": "Numbers 7:76"
+  },
+  {
+    "text": "On the twelfth day Ahira the son of Enan, prince of the children of Naphtali:",
+    "reference": "Numbers 7:78 (ASV)",
+    "connected_to": "Numbers 7:79",
+    "connected_from": "Numbers 7:77"
+  },
+  {
+    "text": "his oblation was one silver platter, the weight whereof was a hundred a thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meal-offering;",
+    "reference": "Numbers 7:79 (ASV)",
+    "connected_to": "Numbers 7:80",
+    "connected_from": "Numbers 7:78"
+  },
+  {
+    "text": "one golden spoon of ten shekels, full of incense;",
+    "reference": "Numbers 7:80 (ASV)",
+    "connected_to": "Numbers 7:81",
+    "connected_from": "Numbers 7:79"
+  },
+  {
+    "text": "one young bullock, one ram, one he-lamb a year old, for a burnt-offering;",
+    "reference": "Numbers 7:81 (ASV)",
+    "connected_to": "Numbers 7:82",
+    "connected_from": "Numbers 7:80"
+  },
+  {
+    "text": "one male of the goats for a sin-offering;",
+    "reference": "Numbers 7:82 (ASV)",
+    "connected_to": "Numbers 7:83",
+    "connected_from": "Numbers 7:81"
+  },
+  {
+    "text": "and for the sacrifice of peace-offerings, two oxen, five rams, five he-goats, five he-lambs a year old: this was the oblation of Ahira the son of Enan.",
+    "reference": "Numbers 7:83 (ASV)",
+    "connected_to": "Numbers 7:84",
+    "connected_from": "Numbers 7:82"
+  },
+  {
+    "text": "This was the dedication of the altar, in the day when it was anointed, by the princes of Israel: twelve silver platters, twelve silver bowls, twelve golden spoons;",
+    "reference": "Numbers 7:84 (ASV)",
+    "connected_to": "Numbers 7:85",
+    "connected_from": "Numbers 7:83"
+  },
+  {
+    "text": "each silver platter weighing a hundred and thirty shekels, and each bowl seventy; all the silver of the vessels two thousand and four hundred shekels, after the shekel of the sanctuary;",
+    "reference": "Numbers 7:85 (ASV)",
+    "connected_to": "Numbers 7:86",
+    "connected_from": "Numbers 7:84"
+  },
+  {
+    "text": "the twelve golden spoons, full of incense, weighing ten shekels apiece, after the shekel of the sanctuary; all the gold of the spoons a hundred and twenty shekels;",
+    "reference": "Numbers 7:86 (ASV)",
+    "connected_to": "Numbers 7:87",
+    "connected_from": "Numbers 7:85"
+  },
+  {
+    "text": "all the oxen for the burnt-offering twelve bullocks, the rams twelve, the he-lambs a year old twelve, and their meal-offering; and the males of the goats for a sin-offering twelve;",
+    "reference": "Numbers 7:87 (ASV)",
+    "connected_to": "Numbers 7:88",
+    "connected_from": "Numbers 7:86"
+  },
+  {
+    "text": "and all the oxen for the sacrifice of peace-offerings twenty and four bullocks, the rams sixty, the he-goats sixty, the he-lambs a year old sixty. This was the dedication of the altar, after that it was anointed.",
+    "reference": "Numbers 7:88 (ASV)",
+    "connected_to": "Numbers 7:89",
+    "connected_from": "Numbers 7:87"
+  },
+  {
+    "text": "And when Moses went into the tent of meeting to speak with him, then he heard the Voice speaking unto him from above the mercy-seat that was upon the ark of the testimony, from between the two cherubim: and he spake unto him.",
+    "reference": "Numbers 7:89 (ASV)",
+    "connected_from": "Numbers 7:88"
+  }
+]

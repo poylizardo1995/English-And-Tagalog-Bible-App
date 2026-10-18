@@ -1,0 +1,66 @@
+[
+  {
+    "text": "Bride: On my bed, throughout the night, I sought him whom my soul loves. I sought him, and did not find him.",
+    "reference": "Song of Solomon 3:1 (CPDV)",
+    "connected_to": "Song of Solomon 3:2"
+  },
+  {
+    "text": "I will rise up, and I will circle through the city. Through the side streets and thoroughfares, I will seek him whom my soul loves. I sought him, and did not find him.",
+    "reference": "Song of Solomon 3:2 (CPDV)",
+    "connected_to": "Song of Solomon 3:3",
+    "connected_from": "Song of Solomon 3:1"
+  },
+  {
+    "text": "The watchers who guard the city found me: “Have you seen him whom my soul loves?”",
+    "reference": "Song of Solomon 3:3 (CPDV)",
+    "connected_to": "Song of Solomon 3:4",
+    "connected_from": "Song of Solomon 3:2"
+  },
+  {
+    "text": "When I had passed by them a little, I found him whom my soul loves. I held him, and would not release him, until I would bring him into my mother’s house, and into the chamber of her who bore me.",
+    "reference": "Song of Solomon 3:4 (CPDV)",
+    "connected_to": "Song of Solomon 3:5",
+    "connected_from": "Song of Solomon 3:3"
+  },
+  {
+    "text": "Groom to Chorus: I bind you by oath, O daughters of Jerusalem, by the does and the stags of the open field, not to disturb or awaken the beloved, until she wills.",
+    "reference": "Song of Solomon 3:5 (CPDV)",
+    "connected_to": "Song of Solomon 3:6",
+    "connected_from": "Song of Solomon 3:4"
+  },
+  {
+    "text": "Chorus to Groom: Who is she, who ascends through the desert, like a staff of smoke from the aromatics of myrrh, and frankincense, and every powder of the perfumer?",
+    "reference": "Song of Solomon 3:6 (CPDV)",
+    "connected_to": "Song of Solomon 3:7",
+    "connected_from": "Song of Solomon 3:5"
+  },
+  {
+    "text": "Chorus to Bride: Lo, sixty strong ones, out of all the strongest in Israel, stand watch at the bed of Solomon,",
+    "reference": "Song of Solomon 3:7 (CPDV)",
+    "connected_to": "Song of Solomon 3:8",
+    "connected_from": "Song of Solomon 3:6"
+  },
+  {
+    "text": "all holding swords and well-trained in warfare, each one’s weapon upon his thigh, because of fears in the night.",
+    "reference": "Song of Solomon 3:8 (CPDV)",
+    "connected_to": "Song of Solomon 3:9",
+    "connected_from": "Song of Solomon 3:7"
+  },
+  {
+    "text": "Bride to Chorus: King Solomon made himself a portable throne from the wood of Lebanon.",
+    "reference": "Song of Solomon 3:9 (CPDV)",
+    "connected_to": "Song of Solomon 3:10",
+    "connected_from": "Song of Solomon 3:8"
+  },
+  {
+    "text": "He made its columns of silver, the reclining place of gold, the ascent of purple; the middle he covered well, out of charity for the daughters of Jerusalem.",
+    "reference": "Song of Solomon 3:10 (CPDV)",
+    "connected_to": "Song of Solomon 3:11",
+    "connected_from": "Song of Solomon 3:9"
+  },
+  {
+    "text": "O daughters of Zion, go forth and see king Solomon with the diadem with which his mother crowned him, on the day of his espousal, on the day of the rejoicing of his heart.",
+    "reference": "Song of Solomon 3:11 (CPDV)",
+    "connected_from": "Song of Solomon 3:10"
+  }
+]

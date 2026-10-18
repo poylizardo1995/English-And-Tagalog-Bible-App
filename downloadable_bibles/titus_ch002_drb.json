@@ -1,0 +1,90 @@
+[
+  {
+    "text": "But speak thou the things that become sound doctrine:",
+    "reference": "Titus 2:1 (DRB)",
+    "connected_to": "Titus 2:2"
+  },
+  {
+    "text": "That the aged men be sober, chaste, prudent, sound in faith, in love, in patience.",
+    "reference": "Titus 2:2 (DRB)",
+    "connected_to": "Titus 2:3",
+    "connected_from": "Titus 2:1"
+  },
+  {
+    "text": "The aged women, in like manner, in holy attire, not false accusers, not given to much wine, teaching well:",
+    "reference": "Titus 2:3 (DRB)",
+    "connected_to": "Titus 2:4",
+    "connected_from": "Titus 2:2"
+  },
+  {
+    "text": "That they may teach the young women to be wise, to love their husbands, to love their children,",
+    "reference": "Titus 2:4 (DRB)",
+    "connected_to": "Titus 2:5",
+    "connected_from": "Titus 2:3"
+  },
+  {
+    "text": "To be discreet, chaste, sober, having a care of the house, gentle, obedient to their husbands, that the word of God be not blasphemed.",
+    "reference": "Titus 2:5 (DRB)",
+    "connected_to": "Titus 2:6",
+    "connected_from": "Titus 2:4"
+  },
+  {
+    "text": "Young men, in like manner, exhort that they be sober.",
+    "reference": "Titus 2:6 (DRB)",
+    "connected_to": "Titus 2:7",
+    "connected_from": "Titus 2:5"
+  },
+  {
+    "text": "In all things shew thyself an example of good works, in doctrine, in integrity, in gravity,",
+    "reference": "Titus 2:7 (DRB)",
+    "connected_to": "Titus 2:8",
+    "connected_from": "Titus 2:6"
+  },
+  {
+    "text": "The sound word that can not be blamed: that he, who is on the contrary part, may be afraid, having no evil to say of us.",
+    "reference": "Titus 2:8 (DRB)",
+    "connected_to": "Titus 2:9",
+    "connected_from": "Titus 2:7"
+  },
+  {
+    "text": "Exhort servants to be obedient to their masters, in all things pleasing, not gainsaying:",
+    "reference": "Titus 2:9 (DRB)",
+    "connected_to": "Titus 2:10",
+    "connected_from": "Titus 2:8"
+  },
+  {
+    "text": "Not defrauding, but in all things shewing good fidelity, that they may adorn the doctrine of God our Savior in all things:",
+    "reference": "Titus 2:10 (DRB)",
+    "connected_to": "Titus 2:11",
+    "connected_from": "Titus 2:9"
+  },
+  {
+    "text": "For the grace of God our Savior hath appeared to all men;",
+    "reference": "Titus 2:11 (DRB)",
+    "connected_to": "Titus 2:12",
+    "connected_from": "Titus 2:10"
+  },
+  {
+    "text": "Instructing us, that, denying ungodliness and worldly desires, we should live soberly, and justly, and godly in this world,",
+    "reference": "Titus 2:12 (DRB)",
+    "connected_to": "Titus 2:13",
+    "connected_from": "Titus 2:11"
+  },
+  {
+    "text": "Looking for the blessed hope and coming of the glory of the great God and our Savior Jesus Christ,",
+    "reference": "Titus 2:13 (DRB)",
+    "connected_to": "Titus 2:14",
+    "connected_from": "Titus 2:12"
+  },
+  {
+    "text": "Who gave himself for us, that he might redeem us from all iniquity, and might cleanse to himself a people acceptable, a pursuer of good works.",
+    "reference": "Titus 2:14 (DRB)",
+    "connected_to": "Titus 2:15",
+    "connected_from": "Titus 2:13"
+  },
+  {
+    "text": "These things speak, and exhort and rebuke with all authority. Let no man despise thee.",
+    "reference": "Titus 2:15 (DRB)",
+    "connected_from": "Titus 2:14"
+  }
+]

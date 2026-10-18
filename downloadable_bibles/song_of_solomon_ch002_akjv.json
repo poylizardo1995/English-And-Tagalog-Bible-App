@@ -1,0 +1,102 @@
+[
+  {
+    "text": "I am the rose of Sharon, and the lily of the valleys.",
+    "reference": "Song of Solomon 2:1 (AKJV)",
+    "connected_to": "Song of Solomon 2:2"
+  },
+  {
+    "text": "As the lily among thorns, so is my love among the daughters.",
+    "reference": "Song of Solomon 2:2 (AKJV)",
+    "connected_to": "Song of Solomon 2:3",
+    "connected_from": "Song of Solomon 2:1"
+  },
+  {
+    "text": "As the apple tree among the trees of the wood, so is my beloved among the sons. I sat down under his shadow with great delight, and his fruit was sweet to my taste.",
+    "reference": "Song of Solomon 2:3 (AKJV)",
+    "connected_to": "Song of Solomon 2:4",
+    "connected_from": "Song of Solomon 2:2"
+  },
+  {
+    "text": "He brought me to the banqueting house, and his banner over me was love.",
+    "reference": "Song of Solomon 2:4 (AKJV)",
+    "connected_to": "Song of Solomon 2:5",
+    "connected_from": "Song of Solomon 2:3"
+  },
+  {
+    "text": "Stay me with flagons, comfort me with apples: for I am sick of love.",
+    "reference": "Song of Solomon 2:5 (AKJV)",
+    "connected_to": "Song of Solomon 2:6",
+    "connected_from": "Song of Solomon 2:4"
+  },
+  {
+    "text": "His left hand is under my head, and his right hand does embrace me.",
+    "reference": "Song of Solomon 2:6 (AKJV)",
+    "connected_to": "Song of Solomon 2:7",
+    "connected_from": "Song of Solomon 2:5"
+  },
+  {
+    "text": "I charge you, O you daughters of Jerusalem, by the roes, and by the hinds of the field, that you stir not up, nor awake my love, till he please.",
+    "reference": "Song of Solomon 2:7 (AKJV)",
+    "connected_to": "Song of Solomon 2:8",
+    "connected_from": "Song of Solomon 2:6"
+  },
+  {
+    "text": "The voice of my beloved! behold, he comes leaping on the mountains, skipping on the hills.",
+    "reference": "Song of Solomon 2:8 (AKJV)",
+    "connected_to": "Song of Solomon 2:9",
+    "connected_from": "Song of Solomon 2:7"
+  },
+  {
+    "text": "My beloved is like a roe or a young hart: behold, he stands behind our wall, he looks forth at the windows, showing himself through the lattice.",
+    "reference": "Song of Solomon 2:9 (AKJV)",
+    "connected_to": "Song of Solomon 2:10",
+    "connected_from": "Song of Solomon 2:8"
+  },
+  {
+    "text": "My beloved spoke, and said to me, Rise up, my love, my fair one, and come away.",
+    "reference": "Song of Solomon 2:10 (AKJV)",
+    "connected_to": "Song of Solomon 2:11",
+    "connected_from": "Song of Solomon 2:9"
+  },
+  {
+    "text": "For, see, the winter is past, the rain is over and gone;",
+    "reference": "Song of Solomon 2:11 (AKJV)",
+    "connected_to": "Song of Solomon 2:12",
+    "connected_from": "Song of Solomon 2:10"
+  },
+  {
+    "text": "The flowers appear on the earth; the time of the singing of birds is come, and the voice of the turtle is heard in our land;",
+    "reference": "Song of Solomon 2:12 (AKJV)",
+    "connected_to": "Song of Solomon 2:13",
+    "connected_from": "Song of Solomon 2:11"
+  },
+  {
+    "text": "The fig tree puts forth her green figs, and the vines with the tender grape give a good smell. Arise, my love, my fair one, and come away.",
+    "reference": "Song of Solomon 2:13 (AKJV)",
+    "connected_to": "Song of Solomon 2:14",
+    "connected_from": "Song of Solomon 2:12"
+  },
+  {
+    "text": "O my dove, that are in the clefts of the rock, in the secret places of the stairs, let me see your countenance, let me hear your voice; for sweet is your voice, and your countenance is comely.",
+    "reference": "Song of Solomon 2:14 (AKJV)",
+    "connected_to": "Song of Solomon 2:15",
+    "connected_from": "Song of Solomon 2:13"
+  },
+  {
+    "text": "Take us the foxes, the little foxes, that spoil the vines: for our vines have tender grapes.",
+    "reference": "Song of Solomon 2:15 (AKJV)",
+    "connected_to": "Song of Solomon 2:16",
+    "connected_from": "Song of Solomon 2:14"
+  },
+  {
+    "text": "My beloved is mine, and I am his: he feeds among the lilies.",
+    "reference": "Song of Solomon 2:16 (AKJV)",
+    "connected_to": "Song of Solomon 2:17",
+    "connected_from": "Song of Solomon 2:15"
+  },
+  {
+    "text": "Until the day break, and the shadows flee away, turn, my beloved, and be you like a roe or a young hart on the mountains of Bether.",
+    "reference": "Song of Solomon 2:17 (AKJV)",
+    "connected_from": "Song of Solomon 2:16"
+  }
+]

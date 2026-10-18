@@ -1,0 +1,42 @@
+[
+  {
+    "text": "Maschil of David, when he was in the cave; a Prayer. I cry with my voice unto Jehovah; With my voice unto Jehovah do I make supplication.",
+    "reference": "Psalm 142:1 (ASV)",
+    "connected_to": "Psalm 142:2"
+  },
+  {
+    "text": "I pour out my complaint before him; I show before him my trouble.",
+    "reference": "Psalm 142:2 (ASV)",
+    "connected_to": "Psalm 142:3",
+    "connected_from": "Psalm 142:1"
+  },
+  {
+    "text": "When my spirit was overwhelmed within me, Thou knewest my path. In the way wherein I walk Have they hidden a snare for me.",
+    "reference": "Psalm 142:3 (ASV)",
+    "connected_to": "Psalm 142:4",
+    "connected_from": "Psalm 142:2"
+  },
+  {
+    "text": "Look on my right hand, and see; For there is no man that knoweth me: Refuge hath failed me; No man careth for my soul.",
+    "reference": "Psalm 142:4 (ASV)",
+    "connected_to": "Psalm 142:5",
+    "connected_from": "Psalm 142:3"
+  },
+  {
+    "text": "I cried unto thee, O Jehovah; I said, Thou art my refuge, My portion in the land of the living.",
+    "reference": "Psalm 142:5 (ASV)",
+    "connected_to": "Psalm 142:6",
+    "connected_from": "Psalm 142:4"
+  },
+  {
+    "text": "Attend unto my cry; For I am brought very low: Deliver me from my persecutors; For they are stronger than I.",
+    "reference": "Psalm 142:6 (ASV)",
+    "connected_to": "Psalm 142:7",
+    "connected_from": "Psalm 142:5"
+  },
+  {
+    "text": "Bring my soul out of prison, That I may give thanks unto thy name: The righteous shall compass me about; For thou wilt deal bountifully with me.",
+    "reference": "Psalm 142:7 (ASV)",
+    "connected_from": "Psalm 142:6"
+  }
+]

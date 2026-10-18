@@ -1,0 +1,210 @@
+[
+  {
+    "text": "My son, if you be surety for your friend, if you have stricken your hand with a stranger,",
+    "reference": "Proverbs 6:1 (AKJV)",
+    "connected_to": "Proverbs 6:2"
+  },
+  {
+    "text": "You are snared with the words of your mouth, you are taken with the words of your mouth.",
+    "reference": "Proverbs 6:2 (AKJV)",
+    "connected_to": "Proverbs 6:3",
+    "connected_from": "Proverbs 6:1"
+  },
+  {
+    "text": "Do this now, my son, and deliver yourself, when you are come into the hand of your friend; go, humble yourself, and make sure your friend.",
+    "reference": "Proverbs 6:3 (AKJV)",
+    "connected_to": "Proverbs 6:4",
+    "connected_from": "Proverbs 6:2"
+  },
+  {
+    "text": "Give not sleep to your eyes, nor slumber to your eyelids.",
+    "reference": "Proverbs 6:4 (AKJV)",
+    "connected_to": "Proverbs 6:5",
+    "connected_from": "Proverbs 6:3"
+  },
+  {
+    "text": "Deliver yourself as a roe from the hand of the hunter, and as a bird from the hand of the fowler.",
+    "reference": "Proverbs 6:5 (AKJV)",
+    "connected_to": "Proverbs 6:6",
+    "connected_from": "Proverbs 6:4"
+  },
+  {
+    "text": "Go to the ant, you sluggard; consider her ways, and be wise:",
+    "reference": "Proverbs 6:6 (AKJV)",
+    "connected_to": "Proverbs 6:7",
+    "connected_from": "Proverbs 6:5"
+  },
+  {
+    "text": "Which having no guide, overseer, or ruler,",
+    "reference": "Proverbs 6:7 (AKJV)",
+    "connected_to": "Proverbs 6:8",
+    "connected_from": "Proverbs 6:6"
+  },
+  {
+    "text": "Provides her meat in the summer, and gathers her food in the harvest.",
+    "reference": "Proverbs 6:8 (AKJV)",
+    "connected_to": "Proverbs 6:9",
+    "connected_from": "Proverbs 6:7"
+  },
+  {
+    "text": "How long will you sleep, O sluggard? when will you arise out of your sleep?",
+    "reference": "Proverbs 6:9 (AKJV)",
+    "connected_to": "Proverbs 6:10",
+    "connected_from": "Proverbs 6:8"
+  },
+  {
+    "text": "Yet a little sleep, a little slumber, a little folding of the hands to sleep:",
+    "reference": "Proverbs 6:10 (AKJV)",
+    "connected_to": "Proverbs 6:11",
+    "connected_from": "Proverbs 6:9"
+  },
+  {
+    "text": "So shall your poverty come as one that travels, and your want as an armed man.",
+    "reference": "Proverbs 6:11 (AKJV)",
+    "connected_to": "Proverbs 6:12",
+    "connected_from": "Proverbs 6:10"
+  },
+  {
+    "text": "A naughty person, a wicked man, walks with a fraudulent mouth.",
+    "reference": "Proverbs 6:12 (AKJV)",
+    "connected_to": "Proverbs 6:13",
+    "connected_from": "Proverbs 6:11"
+  },
+  {
+    "text": "He winks with his eyes, he speaks with his feet, he teaches with his fingers;",
+    "reference": "Proverbs 6:13 (AKJV)",
+    "connected_to": "Proverbs 6:14",
+    "connected_from": "Proverbs 6:12"
+  },
+  {
+    "text": "Frowardness is in his heart, he devises mischief continually; he sows discord.",
+    "reference": "Proverbs 6:14 (AKJV)",
+    "connected_to": "Proverbs 6:15",
+    "connected_from": "Proverbs 6:13"
+  },
+  {
+    "text": "Therefore shall his calamity come suddenly; suddenly shall he be broken without remedy.",
+    "reference": "Proverbs 6:15 (AKJV)",
+    "connected_to": "Proverbs 6:16",
+    "connected_from": "Proverbs 6:14"
+  },
+  {
+    "text": "These six things does the LORD hate: yes, seven are an abomination to him:",
+    "reference": "Proverbs 6:16 (AKJV)",
+    "connected_to": "Proverbs 6:17",
+    "connected_from": "Proverbs 6:15"
+  },
+  {
+    "text": "A proud look, a lying tongue, and hands that shed innocent blood,",
+    "reference": "Proverbs 6:17 (AKJV)",
+    "connected_to": "Proverbs 6:18",
+    "connected_from": "Proverbs 6:16"
+  },
+  {
+    "text": "An heart that devises wicked imaginations, feet that be swift in running to mischief,",
+    "reference": "Proverbs 6:18 (AKJV)",
+    "connected_to": "Proverbs 6:19",
+    "connected_from": "Proverbs 6:17"
+  },
+  {
+    "text": "A false witness that speaks lies, and he that sows discord among brothers.",
+    "reference": "Proverbs 6:19 (AKJV)",
+    "connected_to": "Proverbs 6:20",
+    "connected_from": "Proverbs 6:18"
+  },
+  {
+    "text": "My son, keep your father’s commandment, and forsake not the law of your mother:",
+    "reference": "Proverbs 6:20 (AKJV)",
+    "connected_to": "Proverbs 6:21",
+    "connected_from": "Proverbs 6:19"
+  },
+  {
+    "text": "Bind them continually on your heart, and tie them about your neck.",
+    "reference": "Proverbs 6:21 (AKJV)",
+    "connected_to": "Proverbs 6:22",
+    "connected_from": "Proverbs 6:20"
+  },
+  {
+    "text": "When you go, it shall lead you; when you sleep, it shall keep you; and when you wake, it shall talk with you.",
+    "reference": "Proverbs 6:22 (AKJV)",
+    "connected_to": "Proverbs 6:23",
+    "connected_from": "Proverbs 6:21"
+  },
+  {
+    "text": "For the commandment is a lamp; and the law is light; and reproofs of instruction are the way of life:",
+    "reference": "Proverbs 6:23 (AKJV)",
+    "connected_to": "Proverbs 6:24",
+    "connected_from": "Proverbs 6:22"
+  },
+  {
+    "text": "To keep you from the evil woman, from the flattery of the tongue of a strange woman.",
+    "reference": "Proverbs 6:24 (AKJV)",
+    "connected_to": "Proverbs 6:25",
+    "connected_from": "Proverbs 6:23"
+  },
+  {
+    "text": "Lust not after her beauty in your heart; neither let her take you with her eyelids.",
+    "reference": "Proverbs 6:25 (AKJV)",
+    "connected_to": "Proverbs 6:26",
+    "connected_from": "Proverbs 6:24"
+  },
+  {
+    "text": "For by means of a whorish woman a man is brought to a piece of bread: and the adulteress will hunt for the precious life.",
+    "reference": "Proverbs 6:26 (AKJV)",
+    "connected_to": "Proverbs 6:27",
+    "connected_from": "Proverbs 6:25"
+  },
+  {
+    "text": "Can a man take fire in his bosom, and his clothes not be burned?",
+    "reference": "Proverbs 6:27 (AKJV)",
+    "connected_to": "Proverbs 6:28",
+    "connected_from": "Proverbs 6:26"
+  },
+  {
+    "text": "Can one go on hot coals, and his feet not be burned?",
+    "reference": "Proverbs 6:28 (AKJV)",
+    "connected_to": "Proverbs 6:29",
+    "connected_from": "Proverbs 6:27"
+  },
+  {
+    "text": "So he that goes in to his neighbor’s wife; whoever touches her shall not be innocent.",
+    "reference": "Proverbs 6:29 (AKJV)",
+    "connected_to": "Proverbs 6:30",
+    "connected_from": "Proverbs 6:28"
+  },
+  {
+    "text": "Men do not despise a thief, if he steal to satisfy his soul when he is hungry;",
+    "reference": "Proverbs 6:30 (AKJV)",
+    "connected_to": "Proverbs 6:31",
+    "connected_from": "Proverbs 6:29"
+  },
+  {
+    "text": "But if he be found, he shall restore sevenfold; he shall give all the substance of his house.",
+    "reference": "Proverbs 6:31 (AKJV)",
+    "connected_to": "Proverbs 6:32",
+    "connected_from": "Proverbs 6:30"
+  },
+  {
+    "text": "But whoever commits adultery with a woman lacks understanding: he that does it destroys his own soul.",
+    "reference": "Proverbs 6:32 (AKJV)",
+    "connected_to": "Proverbs 6:33",
+    "connected_from": "Proverbs 6:31"
+  },
+  {
+    "text": "A wound and dishonor shall he get; and his reproach shall not be wiped away.",
+    "reference": "Proverbs 6:33 (AKJV)",
+    "connected_to": "Proverbs 6:34",
+    "connected_from": "Proverbs 6:32"
+  },
+  {
+    "text": "For jealousy is the rage of a man: therefore he will not spare in the day of vengeance.",
+    "reference": "Proverbs 6:34 (AKJV)",
+    "connected_to": "Proverbs 6:35",
+    "connected_from": "Proverbs 6:33"
+  },
+  {
+    "text": "He will not regard any ransom; neither will he rest content, though you give many gifts.",
+    "reference": "Proverbs 6:35 (AKJV)",
+    "connected_from": "Proverbs 6:34"
+  }
+]

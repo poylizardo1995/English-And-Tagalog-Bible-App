@@ -1,0 +1,144 @@
+[
+  {
+    "text": "He that separateth himself seeketh [his] pleasure, he is vehement against all sound wisdom.",
+    "reference": "Proverbs 18:1 (DBT)",
+    "connected_to": "Proverbs 18:2"
+  },
+  {
+    "text": "A fool hath no delight in understanding, but only that his heart may reveal itself.",
+    "reference": "Proverbs 18:2 (DBT)",
+    "connected_to": "Proverbs 18:3",
+    "connected_from": "Proverbs 18:1"
+  },
+  {
+    "text": "When the wicked cometh, there cometh also contempt, and with ignominy reproach.",
+    "reference": "Proverbs 18:3 (DBT)",
+    "connected_to": "Proverbs 18:4",
+    "connected_from": "Proverbs 18:2"
+  },
+  {
+    "text": "The words of a man’s mouth are deep waters, [and] the fountain of wisdom is a gushing brook.",
+    "reference": "Proverbs 18:4 (DBT)",
+    "connected_to": "Proverbs 18:5",
+    "connected_from": "Proverbs 18:3"
+  },
+  {
+    "text": "It is not good to accept the person of the wicked, to wrong the righteous in judgment.",
+    "reference": "Proverbs 18:5 (DBT)",
+    "connected_to": "Proverbs 18:6",
+    "connected_from": "Proverbs 18:4"
+  },
+  {
+    "text": "A fool’s lips enter into contention, and his mouth calleth for stripes.",
+    "reference": "Proverbs 18:6 (DBT)",
+    "connected_to": "Proverbs 18:7",
+    "connected_from": "Proverbs 18:5"
+  },
+  {
+    "text": "A fool’s mouth is destruction to him, and his lips are a snare to his soul.",
+    "reference": "Proverbs 18:7 (DBT)",
+    "connected_to": "Proverbs 18:8",
+    "connected_from": "Proverbs 18:6"
+  },
+  {
+    "text": "The words of a talebearer are as dainty morsels, and they go down into the innermost parts of the belly.",
+    "reference": "Proverbs 18:8 (DBT)",
+    "connected_to": "Proverbs 18:9",
+    "connected_from": "Proverbs 18:7"
+  },
+  {
+    "text": "He also who is indolent in his work is brother of the destroyer.",
+    "reference": "Proverbs 18:9 (DBT)",
+    "connected_to": "Proverbs 18:10",
+    "connected_from": "Proverbs 18:8"
+  },
+  {
+    "text": "The name of Jehovah is a strong tower: the righteous runneth into it, and is safe.",
+    "reference": "Proverbs 18:10 (DBT)",
+    "connected_to": "Proverbs 18:11",
+    "connected_from": "Proverbs 18:9"
+  },
+  {
+    "text": "The rich man’s wealth is his strong city, and as a high wall in his own imagination.",
+    "reference": "Proverbs 18:11 (DBT)",
+    "connected_to": "Proverbs 18:12",
+    "connected_from": "Proverbs 18:10"
+  },
+  {
+    "text": "Before destruction the heart of man is haughty; and before honour [goeth] humility.",
+    "reference": "Proverbs 18:12 (DBT)",
+    "connected_to": "Proverbs 18:13",
+    "connected_from": "Proverbs 18:11"
+  },
+  {
+    "text": "He that giveth answer before he heareth, it is folly and shame unto him.",
+    "reference": "Proverbs 18:13 (DBT)",
+    "connected_to": "Proverbs 18:14",
+    "connected_from": "Proverbs 18:12"
+  },
+  {
+    "text": "The spirit of a man sustaineth his infirmity; but a broken spirit who can bear?",
+    "reference": "Proverbs 18:14 (DBT)",
+    "connected_to": "Proverbs 18:15",
+    "connected_from": "Proverbs 18:13"
+  },
+  {
+    "text": "The heart of an intelligent [man] getteth knowledge, and the ear of the wise seeketh knowledge.",
+    "reference": "Proverbs 18:15 (DBT)",
+    "connected_to": "Proverbs 18:16",
+    "connected_from": "Proverbs 18:14"
+  },
+  {
+    "text": "A man’s gift maketh room for him, and bringeth him before great men.",
+    "reference": "Proverbs 18:16 (DBT)",
+    "connected_to": "Proverbs 18:17",
+    "connected_from": "Proverbs 18:15"
+  },
+  {
+    "text": "He that is first in his own cause [seemeth] just; but his neighbour cometh and searcheth him.",
+    "reference": "Proverbs 18:17 (DBT)",
+    "connected_to": "Proverbs 18:18",
+    "connected_from": "Proverbs 18:16"
+  },
+  {
+    "text": "The lot causeth contentions to cease, and parteth between the mighty.",
+    "reference": "Proverbs 18:18 (DBT)",
+    "connected_to": "Proverbs 18:19",
+    "connected_from": "Proverbs 18:17"
+  },
+  {
+    "text": "A brother offended is [harder to be won] than a strong city; and contentions are as the bars of a palace.",
+    "reference": "Proverbs 18:19 (DBT)",
+    "connected_to": "Proverbs 18:20",
+    "connected_from": "Proverbs 18:18"
+  },
+  {
+    "text": "A man’s belly is satisfied with the fruit of his mouth; with the increase of his lips is he satisfied.",
+    "reference": "Proverbs 18:20 (DBT)",
+    "connected_to": "Proverbs 18:21",
+    "connected_from": "Proverbs 18:19"
+  },
+  {
+    "text": "Death and life are in the power of the tongue, and they that love it shall eat the fruit thereof.",
+    "reference": "Proverbs 18:21 (DBT)",
+    "connected_to": "Proverbs 18:22",
+    "connected_from": "Proverbs 18:20"
+  },
+  {
+    "text": "Whoso hath found a wife hath found a good thing, and hath obtained favour from Jehovah.",
+    "reference": "Proverbs 18:22 (DBT)",
+    "connected_to": "Proverbs 18:23",
+    "connected_from": "Proverbs 18:21"
+  },
+  {
+    "text": "He that is poor speaketh with supplications, but the rich answereth roughly.",
+    "reference": "Proverbs 18:23 (DBT)",
+    "connected_to": "Proverbs 18:24",
+    "connected_from": "Proverbs 18:22"
+  },
+  {
+    "text": "A man of [many] friends will come to ruin but there is a friend [that] sticketh closer than a brother.",
+    "reference": "Proverbs 18:24 (DBT)",
+    "connected_from": "Proverbs 18:23"
+  }
+]

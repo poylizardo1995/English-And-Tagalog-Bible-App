@@ -1,0 +1,144 @@
+[
+  {
+    "text": "{To the chief Musician. A Psalm of David.} Jehovah, thou hast searched me, and known [me].",
+    "reference": "Psalm 139:1 (DBT)",
+    "connected_to": "Psalm 139:2"
+  },
+  {
+    "text": "Thou knowest my down-sitting and mine uprising, thou understandest my thought afar off;",
+    "reference": "Psalm 139:2 (DBT)",
+    "connected_to": "Psalm 139:3",
+    "connected_from": "Psalm 139:1"
+  },
+  {
+    "text": "Thou searchest out my path and my lying down, and art acquainted with all my ways;",
+    "reference": "Psalm 139:3 (DBT)",
+    "connected_to": "Psalm 139:4",
+    "connected_from": "Psalm 139:2"
+  },
+  {
+    "text": "For there is not yet a word on my tongue, [but] lo, O Jehovah, thou knowest it altogether.",
+    "reference": "Psalm 139:4 (DBT)",
+    "connected_to": "Psalm 139:5",
+    "connected_from": "Psalm 139:3"
+  },
+  {
+    "text": "Thou hast beset me behind and before, and laid thy hand upon me.",
+    "reference": "Psalm 139:5 (DBT)",
+    "connected_to": "Psalm 139:6",
+    "connected_from": "Psalm 139:4"
+  },
+  {
+    "text": "O knowledge too wonderful for me! it is high, I cannot [attain] unto it.",
+    "reference": "Psalm 139:6 (DBT)",
+    "connected_to": "Psalm 139:7",
+    "connected_from": "Psalm 139:5"
+  },
+  {
+    "text": "Whither shall I go from thy Spirit? and whither flee from thy presence?",
+    "reference": "Psalm 139:7 (DBT)",
+    "connected_to": "Psalm 139:8",
+    "connected_from": "Psalm 139:6"
+  },
+  {
+    "text": "If I ascend up into the heavens thou art there; or if I make my bed in Sheol, behold, thou [art there];",
+    "reference": "Psalm 139:8 (DBT)",
+    "connected_to": "Psalm 139:9",
+    "connected_from": "Psalm 139:7"
+  },
+  {
+    "text": "[If] I take the wings of the dawn [and] dwell in the uttermost parts of the sea,",
+    "reference": "Psalm 139:9 (DBT)",
+    "connected_to": "Psalm 139:10",
+    "connected_from": "Psalm 139:8"
+  },
+  {
+    "text": "Even there shall thy hand lead me, and thy right hand shall hold me.",
+    "reference": "Psalm 139:10 (DBT)",
+    "connected_to": "Psalm 139:11",
+    "connected_from": "Psalm 139:9"
+  },
+  {
+    "text": "And if I say, Surely darkness shall cover me, and the light about me be night;",
+    "reference": "Psalm 139:11 (DBT)",
+    "connected_to": "Psalm 139:12",
+    "connected_from": "Psalm 139:10"
+  },
+  {
+    "text": "Even darkness hideth not from thee, and the night shineth as the day: the darkness is as the light.",
+    "reference": "Psalm 139:12 (DBT)",
+    "connected_to": "Psalm 139:13",
+    "connected_from": "Psalm 139:11"
+  },
+  {
+    "text": "For thou hast possessed my reins; thou didst cover me in my mother’s womb.",
+    "reference": "Psalm 139:13 (DBT)",
+    "connected_to": "Psalm 139:14",
+    "connected_from": "Psalm 139:12"
+  },
+  {
+    "text": "I will praise thee, for I am fearfully, wonderfully made. Marvellous are thy works; and [that] my soul knoweth right well.",
+    "reference": "Psalm 139:14 (DBT)",
+    "connected_to": "Psalm 139:15",
+    "connected_from": "Psalm 139:13"
+  },
+  {
+    "text": "My bones were not hidden from thee when I was made in secret, curiously wrought in the lower parts of the earth.",
+    "reference": "Psalm 139:15 (DBT)",
+    "connected_to": "Psalm 139:16",
+    "connected_from": "Psalm 139:14"
+  },
+  {
+    "text": "Thine eyes did see my unformed substance, and in thy book all [my members] were written; [during many] days were they fashioned, when [as yet] there was none of them.",
+    "reference": "Psalm 139:16 (DBT)",
+    "connected_to": "Psalm 139:17",
+    "connected_from": "Psalm 139:15"
+  },
+  {
+    "text": "But how precious are thy thoughts unto me, O God! how great is the sum of them!",
+    "reference": "Psalm 139:17 (DBT)",
+    "connected_to": "Psalm 139:18",
+    "connected_from": "Psalm 139:16"
+  },
+  {
+    "text": "[If] I would count them, they are more in number than the sand. When I awake, I am still with thee.",
+    "reference": "Psalm 139:18 (DBT)",
+    "connected_to": "Psalm 139:19",
+    "connected_from": "Psalm 139:17"
+  },
+  {
+    "text": "Oh that thou wouldest slay the wicked, O +God! And ye men of blood, depart from me.",
+    "reference": "Psalm 139:19 (DBT)",
+    "connected_to": "Psalm 139:20",
+    "connected_from": "Psalm 139:18"
+  },
+  {
+    "text": "For they speak of thee wickedly, they take [thy name] in vain, thine enemies.",
+    "reference": "Psalm 139:20 (DBT)",
+    "connected_to": "Psalm 139:21",
+    "connected_from": "Psalm 139:19"
+  },
+  {
+    "text": "Do not I hate them, O Jehovah, that hate thee? and do not I loathe them that rise up against thee?",
+    "reference": "Psalm 139:21 (DBT)",
+    "connected_to": "Psalm 139:22",
+    "connected_from": "Psalm 139:20"
+  },
+  {
+    "text": "I hate them with perfect hatred; I account them mine enemies.",
+    "reference": "Psalm 139:22 (DBT)",
+    "connected_to": "Psalm 139:23",
+    "connected_from": "Psalm 139:21"
+  },
+  {
+    "text": "Search me, O God, and know my heart; prove me, and know my thoughts;",
+    "reference": "Psalm 139:23 (DBT)",
+    "connected_to": "Psalm 139:24",
+    "connected_from": "Psalm 139:22"
+  },
+  {
+    "text": "And see if there be any grievous way in me; and lead me in the way everlasting.",
+    "reference": "Psalm 139:24 (DBT)",
+    "connected_from": "Psalm 139:23"
+  }
+]

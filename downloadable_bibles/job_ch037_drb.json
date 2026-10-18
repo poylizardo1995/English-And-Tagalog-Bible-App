@@ -1,0 +1,144 @@
+[
+  {
+    "text": "At this my heart trembleth, and is moved out of its place.",
+    "reference": "Job 37:1 (DRB)",
+    "connected_to": "Job 37:2"
+  },
+  {
+    "text": "Hear ye attentively the terror of his voice, and the sound that cometh out of his mouth.",
+    "reference": "Job 37:2 (DRB)",
+    "connected_to": "Job 37:3",
+    "connected_from": "Job 37:1"
+  },
+  {
+    "text": "He beholdeth under all the heavens, and his light is upon the ends of the earth.",
+    "reference": "Job 37:3 (DRB)",
+    "connected_to": "Job 37:4",
+    "connected_from": "Job 37:2"
+  },
+  {
+    "text": "After it a noise shall roar, he shall thunder with the voice of his majesty, and shall not be found out, when his voice shall be heard.",
+    "reference": "Job 37:4 (DRB)",
+    "connected_to": "Job 37:5",
+    "connected_from": "Job 37:3"
+  },
+  {
+    "text": "God shall thunder wonderfully with his voice, he that doth great and unsearchable things.",
+    "reference": "Job 37:5 (DRB)",
+    "connected_to": "Job 37:6",
+    "connected_from": "Job 37:4"
+  },
+  {
+    "text": "He commandeth the snow to go down upon the earth, and the winter rain, and the shower of his strength.",
+    "reference": "Job 37:6 (DRB)",
+    "connected_to": "Job 37:7",
+    "connected_from": "Job 37:5"
+  },
+  {
+    "text": "He sealeth up the hand of all men, that every one may know his works.",
+    "reference": "Job 37:7 (DRB)",
+    "connected_to": "Job 37:8",
+    "connected_from": "Job 37:6"
+  },
+  {
+    "text": "Then the beast shall go into his covert, and shall abide in his den.",
+    "reference": "Job 37:8 (DRB)",
+    "connected_to": "Job 37:9",
+    "connected_from": "Job 37:7"
+  },
+  {
+    "text": "Out of the inner parts shall a tempest come, and cold out of the north.",
+    "reference": "Job 37:9 (DRB)",
+    "connected_to": "Job 37:10",
+    "connected_from": "Job 37:8"
+  },
+  {
+    "text": "When God bloweth there cometh frost, and again the waters are poured out abundantly.",
+    "reference": "Job 37:10 (DRB)",
+    "connected_to": "Job 37:11",
+    "connected_from": "Job 37:9"
+  },
+  {
+    "text": "Corn desireth clouds, and the clouds spread their light :",
+    "reference": "Job 37:11 (DRB)",
+    "connected_to": "Job 37:12",
+    "connected_from": "Job 37:10"
+  },
+  {
+    "text": "Which go round about, whithersoever the will of him that governeth them shall lead them, to whatsoever he shall command them upon the face of the whole earth :",
+    "reference": "Job 37:12 (DRB)",
+    "connected_to": "Job 37:13",
+    "connected_from": "Job 37:11"
+  },
+  {
+    "text": "Whether in one tribe, or in his own land, or in what place soever of his mercy he shall command them to be found.",
+    "reference": "Job 37:13 (DRB)",
+    "connected_to": "Job 37:14",
+    "connected_from": "Job 37:12"
+  },
+  {
+    "text": "Hearken to these things, Job : Stand, and consider the wondrous works of God.",
+    "reference": "Job 37:14 (DRB)",
+    "connected_to": "Job 37:15",
+    "connected_from": "Job 37:13"
+  },
+  {
+    "text": "Dost thou know when God commanded the rains, to shew his light of his clouds?",
+    "reference": "Job 37:15 (DRB)",
+    "connected_to": "Job 37:16",
+    "connected_from": "Job 37:14"
+  },
+  {
+    "text": "Knowest thou the great paths of the clouds, and the perfect knowledges?",
+    "reference": "Job 37:16 (DRB)",
+    "connected_to": "Job 37:17",
+    "connected_from": "Job 37:15"
+  },
+  {
+    "text": "Are not thy garments hot, when the south wind blows upon the earth?",
+    "reference": "Job 37:17 (DRB)",
+    "connected_to": "Job 37:18",
+    "connected_from": "Job 37:16"
+  },
+  {
+    "text": "Thou perhaps hast made the heavens with him, which are most strong, as if they were of molten brass.",
+    "reference": "Job 37:18 (DRB)",
+    "connected_to": "Job 37:19",
+    "connected_from": "Job 37:17"
+  },
+  {
+    "text": "Shew us what we may say to him : for we are wrapped up in darkness.",
+    "reference": "Job 37:19 (DRB)",
+    "connected_to": "Job 37:20",
+    "connected_from": "Job 37:18"
+  },
+  {
+    "text": "Who shall tell him the things I speak? even if a man shall speak, he shall be swallowed up.",
+    "reference": "Job 37:20 (DRB)",
+    "connected_to": "Job 37:21",
+    "connected_from": "Job 37:19"
+  },
+  {
+    "text": "But now they see not the light : the air on a sudden shall be thickened into clouds, and the wind shall pass and drive them away.",
+    "reference": "Job 37:21 (DRB)",
+    "connected_to": "Job 37:22",
+    "connected_from": "Job 37:20"
+  },
+  {
+    "text": "Cold cometh out of the north, and to God praise with fear.",
+    "reference": "Job 37:22 (DRB)",
+    "connected_to": "Job 37:23",
+    "connected_from": "Job 37:21"
+  },
+  {
+    "text": "We cannot find him worthily : he is great in strength, and in judgment, and in justice, and he is ineffable.",
+    "reference": "Job 37:23 (DRB)",
+    "connected_to": "Job 37:24",
+    "connected_from": "Job 37:22"
+  },
+  {
+    "text": "Therefore men shall fear him, and all that seem to themselves to be wise, shall not dare to behold him.",
+    "reference": "Job 37:24 (DRB)",
+    "connected_from": "Job 37:23"
+  }
+]

@@ -1,0 +1,174 @@
+[
+  {
+    "text": "Therefore you are without excuse, O man, every one who is judging. For in that which you judge the other, you are condemning yourself, for you, the one judging, practice the same things.",
+    "reference": "Romans 2:1 (BLB)",
+    "connected_to": "Romans 2:2"
+  },
+  {
+    "text": "But we know that the judgment of God upon those practicing such things is according to truth.",
+    "reference": "Romans 2:2 (BLB)",
+    "connected_to": "Romans 2:3",
+    "connected_from": "Romans 2:1"
+  },
+  {
+    "text": "Now do you reckon this, O man, the one judging those practicing such things, and doing them [yourself], that you will escape the judgment of God?",
+    "reference": "Romans 2:3 (BLB)",
+    "connected_to": "Romans 2:4",
+    "connected_from": "Romans 2:2"
+  },
+  {
+    "text": "Or do you despise the riches of His kindness and forbearance and patience, not knowing that the kindness of God leads you to repentance?",
+    "reference": "Romans 2:4 (BLB)",
+    "connected_to": "Romans 2:5",
+    "connected_from": "Romans 2:3"
+  },
+  {
+    "text": "But according to your hardness and unrepentant heart, you are storing up for yourself wrath in the day of wrath and revelation of the righteous judgment of God,",
+    "reference": "Romans 2:5 (BLB)",
+    "connected_to": "Romans 2:6",
+    "connected_from": "Romans 2:4"
+  },
+  {
+    "text": "who “will repay to each according to his works,”",
+    "reference": "Romans 2:6 (BLB)",
+    "connected_to": "Romans 2:7",
+    "connected_from": "Romans 2:5"
+  },
+  {
+    "text": "to those who indeed with perseverance in good work are seeking glory and honor and immortality, eternal life;",
+    "reference": "Romans 2:7 (BLB)",
+    "connected_to": "Romans 2:8",
+    "connected_from": "Romans 2:6"
+  },
+  {
+    "text": "but to those of self-interest and disobeying the truth but obeying unrighteousness, wrath and anger;",
+    "reference": "Romans 2:8 (BLB)",
+    "connected_to": "Romans 2:9",
+    "connected_from": "Romans 2:7"
+  },
+  {
+    "text": "tribulation and distress upon every soul of man working evil, both of Jew first, and also of Greek;",
+    "reference": "Romans 2:9 (BLB)",
+    "connected_to": "Romans 2:10",
+    "connected_from": "Romans 2:8"
+  },
+  {
+    "text": "but glory and honor and peace to everyone working good, both to Jew first, and to Greek.",
+    "reference": "Romans 2:10 (BLB)",
+    "connected_to": "Romans 2:11",
+    "connected_from": "Romans 2:9"
+  },
+  {
+    "text": "For there is no partiality with God.",
+    "reference": "Romans 2:11 (BLB)",
+    "connected_to": "Romans 2:12",
+    "connected_from": "Romans 2:10"
+  },
+  {
+    "text": "For as many as have sinned without the law will also perish without the law; and as many as have sinned in the law will be judged by the law,",
+    "reference": "Romans 2:12 (BLB)",
+    "connected_to": "Romans 2:13",
+    "connected_from": "Romans 2:11"
+  },
+  {
+    "text": "for not the hearers of the law [are] righteous before God; but the doers of the law will be declared righteous.",
+    "reference": "Romans 2:13 (BLB)",
+    "connected_to": "Romans 2:14",
+    "connected_from": "Romans 2:12"
+  },
+  {
+    "text": "For when Gentiles, not having the law, may do by nature the things of the law, these not having a law are a law to themselves,",
+    "reference": "Romans 2:14 (BLB)",
+    "connected_to": "Romans 2:15",
+    "connected_from": "Romans 2:13"
+  },
+  {
+    "text": "who show the work of the law written in their hearts, their conscience also testifying, and the thoughts between one another accusing or also defending [them]",
+    "reference": "Romans 2:15 (BLB)",
+    "connected_to": "Romans 2:16",
+    "connected_from": "Romans 2:14"
+  },
+  {
+    "text": "on the day when God judges the secrets of men according to my gospel through Christ Jesus.",
+    "reference": "Romans 2:16 (BLB)",
+    "connected_to": "Romans 2:17",
+    "connected_from": "Romans 2:15"
+  },
+  {
+    "text": "But if you are named a Jew and rest upon the law and boast in God,",
+    "reference": "Romans 2:17 (BLB)",
+    "connected_to": "Romans 2:18",
+    "connected_from": "Romans 2:16"
+  },
+  {
+    "text": "and you know the will and approve the [things] being superior, being instructed out of the law,",
+    "reference": "Romans 2:18 (BLB)",
+    "connected_to": "Romans 2:19",
+    "connected_from": "Romans 2:17"
+  },
+  {
+    "text": "and you have persuaded yourself [that you] are a guide of the blind, a light to those in darkness,",
+    "reference": "Romans 2:19 (BLB)",
+    "connected_to": "Romans 2:20",
+    "connected_from": "Romans 2:18"
+  },
+  {
+    "text": "an instructor of the foolish, a teacher of infants, having in the law the form of knowledge and of the truth—",
+    "reference": "Romans 2:20 (BLB)",
+    "connected_to": "Romans 2:21",
+    "connected_from": "Romans 2:19"
+  },
+  {
+    "text": "then [you] who are teaching another, do you not teach yourself? [You] who are preaching not to steal, do you steal?",
+    "reference": "Romans 2:21 (BLB)",
+    "connected_to": "Romans 2:22",
+    "connected_from": "Romans 2:20"
+  },
+  {
+    "text": "[You] who are saying not to commit adultery, do you commit adultery? [You] who are abhorring idols, do you rob temples?",
+    "reference": "Romans 2:22 (BLB)",
+    "connected_to": "Romans 2:23",
+    "connected_from": "Romans 2:21"
+  },
+  {
+    "text": "[You] who boast in the law, do you dishonor God through the transgression of the law?",
+    "reference": "Romans 2:23 (BLB)",
+    "connected_to": "Romans 2:24",
+    "connected_from": "Romans 2:22"
+  },
+  {
+    "text": "As it has been written: “For the name of God is blasphemed among the Gentiles because of you⁺.”",
+    "reference": "Romans 2:24 (BLB)",
+    "connected_to": "Romans 2:25",
+    "connected_from": "Romans 2:23"
+  },
+  {
+    "text": "For circumcision indeed profits if you practice the law; but if you are a transgressor of the law, your circumcision has become uncircumcision.",
+    "reference": "Romans 2:25 (BLB)",
+    "connected_to": "Romans 2:26",
+    "connected_from": "Romans 2:24"
+  },
+  {
+    "text": "Therefore if the uncircumcision keeps the righteous requirements of the law, will not his uncircumcision be reckoned as circumcision?",
+    "reference": "Romans 2:26 (BLB)",
+    "connected_to": "Romans 2:27",
+    "connected_from": "Romans 2:25"
+  },
+  {
+    "text": "And the uncircumcision by nature, fulfilling the law, will judge you who through the letter and circumcision [are] a transgressor of the law.",
+    "reference": "Romans 2:27 (BLB)",
+    "connected_to": "Romans 2:28",
+    "connected_from": "Romans 2:26"
+  },
+  {
+    "text": "For [it is] not the one [who] on the outside is a Jew, nor [is] [that] on the outside in flesh circumcision.",
+    "reference": "Romans 2:28 (BLB)",
+    "connected_to": "Romans 2:29",
+    "connected_from": "Romans 2:27"
+  },
+  {
+    "text": "But a Jew [is one] on the inside, and circumcision [is] of heart, in spirit, not in letter, of whom the praise [is] not of men, but of God.",
+    "reference": "Romans 2:29 (BLB)",
+    "connected_from": "Romans 2:28"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "text": "A Song of Ascents. When the LORD turned again the captivity of Zion, we were like unto them that dream.",
+    "reference": "Psalm 126:1 (ERV)",
+    "connected_to": "Psalm 126:2"
+  },
+  {
+    "text": "Then was our mouth filled with laughter, and our tongue with singing: then said they among the nations, The LORD hath done great things for them.",
+    "reference": "Psalm 126:2 (ERV)",
+    "connected_to": "Psalm 126:3",
+    "connected_from": "Psalm 126:1"
+  },
+  {
+    "text": "The LORD hath done great things for us; whereof we are glad.",
+    "reference": "Psalm 126:3 (ERV)",
+    "connected_to": "Psalm 126:4",
+    "connected_from": "Psalm 126:2"
+  },
+  {
+    "text": "Turn again our captivity, O LORD, as the streams in the South.",
+    "reference": "Psalm 126:4 (ERV)",
+    "connected_to": "Psalm 126:5",
+    "connected_from": "Psalm 126:3"
+  },
+  {
+    "text": "They that sow in tears shall reap in joy.",
+    "reference": "Psalm 126:5 (ERV)",
+    "connected_to": "Psalm 126:6",
+    "connected_from": "Psalm 126:4"
+  },
+  {
+    "text": "Though he goeth on his way weeping, bearing forth the seed; he shall come again with joy, bringing his sheaves with him.",
+    "reference": "Psalm 126:6 (ERV)",
+    "connected_from": "Psalm 126:5"
+  }
+]

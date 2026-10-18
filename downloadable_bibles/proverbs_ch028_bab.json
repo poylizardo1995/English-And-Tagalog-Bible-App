@@ -1,0 +1,168 @@
+[
+  {
+    "text": "The wicked flee when no one pursues, but the righteous are as bold as a lion.",
+    "reference": "Proverbs 28:1 (BAB)",
+    "connected_to": "Proverbs 28:2"
+  },
+  {
+    "text": "A land in rebellion has many rulers, but a man of understanding and knowledge maintains order.",
+    "reference": "Proverbs 28:2 (BAB)",
+    "connected_to": "Proverbs 28:3",
+    "connected_from": "Proverbs 28:1"
+  },
+  {
+    "text": "A destitute leader who oppresses the poor is like a driving rain that leaves no food.",
+    "reference": "Proverbs 28:3 (BAB)",
+    "connected_to": "Proverbs 28:4",
+    "connected_from": "Proverbs 28:2"
+  },
+  {
+    "text": "Those who forsake the law praise the wicked, but those who keep the law resist them.",
+    "reference": "Proverbs 28:4 (BAB)",
+    "connected_to": "Proverbs 28:5",
+    "connected_from": "Proverbs 28:3"
+  },
+  {
+    "text": "Evil men do not understand justice, but those who seek the LORD {YHWH} comprehend fully.",
+    "reference": "Proverbs 28:5 (BAB)",
+    "connected_to": "Proverbs 28:6",
+    "connected_from": "Proverbs 28:4"
+  },
+  {
+    "text": "Better a poor man who walks with integrity than a rich man whose ways are perverse.",
+    "reference": "Proverbs 28:6 (BAB)",
+    "connected_to": "Proverbs 28:7",
+    "connected_from": "Proverbs 28:5"
+  },
+  {
+    "text": "A discerning son keeps the law, but a companion of gluttons disgraces his father.",
+    "reference": "Proverbs 28:7 (BAB)",
+    "connected_to": "Proverbs 28:8",
+    "connected_from": "Proverbs 28:6"
+  },
+  {
+    "text": "He who increases his wealth by interest and usury lays it up for one who is kind to the poor.",
+    "reference": "Proverbs 28:8 (BAB)",
+    "connected_to": "Proverbs 28:9",
+    "connected_from": "Proverbs 28:7"
+  },
+  {
+    "text": "Whoever turns his ear away from hearing the law, even his prayer is detestable.",
+    "reference": "Proverbs 28:9 (BAB)",
+    "connected_to": "Proverbs 28:10",
+    "connected_from": "Proverbs 28:8"
+  },
+  {
+    "text": "He who leads the upright along the path of evil will fall into his own pit, but the blameless will inherit what is good.",
+    "reference": "Proverbs 28:10 (BAB)",
+    "connected_to": "Proverbs 28:11",
+    "connected_from": "Proverbs 28:9"
+  },
+  {
+    "text": "A rich man is wise in his own eyes, but a poor man with discernment sees through him.",
+    "reference": "Proverbs 28:11 (BAB)",
+    "connected_to": "Proverbs 28:12",
+    "connected_from": "Proverbs 28:10"
+  },
+  {
+    "text": "When the righteous triumph, there is great glory, but when the wicked rise, men hide themselves.",
+    "reference": "Proverbs 28:12 (BAB)",
+    "connected_to": "Proverbs 28:13",
+    "connected_from": "Proverbs 28:11"
+  },
+  {
+    "text": "He who conceals his sins will not prosper, but whoever confesses and renounces them will find mercy.",
+    "reference": "Proverbs 28:13 (BAB)",
+    "connected_to": "Proverbs 28:14",
+    "connected_from": "Proverbs 28:12"
+  },
+  {
+    "text": "Blessed is the man who is always reverent (always fears the LORD), but he who hardens his heart falls into trouble.",
+    "reference": "Proverbs 28:14 (BAB)",
+    "connected_to": "Proverbs 28:15",
+    "connected_from": "Proverbs 28:13"
+  },
+  {
+    "text": "Like a roaring lion or a charging bear is a wicked ruler over a helpless people.",
+    "reference": "Proverbs 28:15 (BAB)",
+    "connected_to": "Proverbs 28:16",
+    "connected_from": "Proverbs 28:14"
+  },
+  {
+    "text": "A leader who lacks judgment is also a great oppressor, but he who hates dishonest profit will prolong his days.",
+    "reference": "Proverbs 28:16 (BAB)",
+    "connected_to": "Proverbs 28:17",
+    "connected_from": "Proverbs 28:15"
+  },
+  {
+    "text": "A man burdened by bloodguilt will flee into the Pit (will be a fugitive until death); let no one support him.",
+    "reference": "Proverbs 28:17 (BAB)",
+    "connected_to": "Proverbs 28:18",
+    "connected_from": "Proverbs 28:16"
+  },
+  {
+    "text": "He who walks with integrity will be kept safe, but whoever is perverse in his ways will suddenly fall.",
+    "reference": "Proverbs 28:18 (BAB)",
+    "connected_to": "Proverbs 28:19",
+    "connected_from": "Proverbs 28:17"
+  },
+  {
+    "text": "The one who works his land will have plenty of food, but whoever chases fantasies will have his fill of poverty.",
+    "reference": "Proverbs 28:19 (BAB)",
+    "connected_to": "Proverbs 28:20",
+    "connected_from": "Proverbs 28:18"
+  },
+  {
+    "text": "A faithful man will abound with blessings, but one eager to be rich will not go unpunished.",
+    "reference": "Proverbs 28:20 (BAB)",
+    "connected_to": "Proverbs 28:21",
+    "connected_from": "Proverbs 28:19"
+  },
+  {
+    "text": "To show partiality is not good, yet a man will do wrong for a piece of bread.",
+    "reference": "Proverbs 28:21 (BAB)",
+    "connected_to": "Proverbs 28:22",
+    "connected_from": "Proverbs 28:20"
+  },
+  {
+    "text": "A stingy man \\A man whose eye is evil/ hastens after wealth and does not know that poverty awaits him.",
+    "reference": "Proverbs 28:22 (BAB)",
+    "connected_to": "Proverbs 28:23",
+    "connected_from": "Proverbs 28:21"
+  },
+  {
+    "text": "He who rebukes a man will later find more favor than one who flatters with his tongue.",
+    "reference": "Proverbs 28:23 (BAB)",
+    "connected_to": "Proverbs 28:24",
+    "connected_from": "Proverbs 28:22"
+  },
+  {
+    "text": "He who robs his father or mother, saying, “It is not wrong,” is a companion to the man who destroys.",
+    "reference": "Proverbs 28:24 (BAB)",
+    "connected_to": "Proverbs 28:25",
+    "connected_from": "Proverbs 28:23"
+  },
+  {
+    "text": "A greedy man stirs up strife, but he who trusts in the LORD {YHWH} will prosper.",
+    "reference": "Proverbs 28:25 (BAB)",
+    "connected_to": "Proverbs 28:26",
+    "connected_from": "Proverbs 28:24"
+  },
+  {
+    "text": "He who trusts in himself is a fool, but one who walks in wisdom will be safe.",
+    "reference": "Proverbs 28:26 (BAB)",
+    "connected_to": "Proverbs 28:27",
+    "connected_from": "Proverbs 28:25"
+  },
+  {
+    "text": "Whoever gives to the poor will not be in need, but he who hides his eyes will receive many curses.",
+    "reference": "Proverbs 28:27 (BAB)",
+    "connected_to": "Proverbs 28:28",
+    "connected_from": "Proverbs 28:26"
+  },
+  {
+    "text": "When the wicked come to power, people hide themselves; but when they perish, the righteous flourish.",
+    "reference": "Proverbs 28:28 (BAB)",
+    "connected_from": "Proverbs 28:27"
+  }
+]

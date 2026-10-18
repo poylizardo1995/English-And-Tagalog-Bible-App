@@ -1,0 +1,186 @@
+[
+  {
+    "text": "Early on the first day of the week, while it was still dark, Mary Magdalene went to the tomb and saw that the stone had been removed from the entrance.",
+    "reference": "John 20:1 (BSB)",
+    "connected_to": "John 20:2"
+  },
+  {
+    "text": "So she came running to Simon Peter and the other disciple, the one whom Jesus loved. “They have taken the Lord out of the tomb,” she said, “and we do not know where they have put Him!”",
+    "reference": "John 20:2 (BSB)",
+    "connected_to": "John 20:3",
+    "connected_from": "John 20:1"
+  },
+  {
+    "text": "Then Peter and the other disciple set out for the tomb.",
+    "reference": "John 20:3 (BSB)",
+    "connected_to": "John 20:4",
+    "connected_from": "John 20:2"
+  },
+  {
+    "text": "The two were running together, but the other disciple outran Peter and reached the tomb first.",
+    "reference": "John 20:4 (BSB)",
+    "connected_to": "John 20:5",
+    "connected_from": "John 20:3"
+  },
+  {
+    "text": "He bent down and looked in at the linen cloths lying there, but he did not go in.",
+    "reference": "John 20:5 (BSB)",
+    "connected_to": "John 20:6",
+    "connected_from": "John 20:4"
+  },
+  {
+    "text": "Simon Peter arrived just after him. He entered the tomb and saw the linen cloths lying there.",
+    "reference": "John 20:6 (BSB)",
+    "connected_to": "John 20:7",
+    "connected_from": "John 20:5"
+  },
+  {
+    "text": "The cloth that had been around Jesus’ head was rolled up, lying separate from the linen cloths.",
+    "reference": "John 20:7 (BSB)",
+    "connected_to": "John 20:8",
+    "connected_from": "John 20:6"
+  },
+  {
+    "text": "Then the other disciple, who had reached the tomb first, also went in. And he saw and believed.",
+    "reference": "John 20:8 (BSB)",
+    "connected_to": "John 20:9",
+    "connected_from": "John 20:7"
+  },
+  {
+    "text": "For they still did not understand from the Scripture that Jesus had to rise from the dead.",
+    "reference": "John 20:9 (BSB)",
+    "connected_to": "John 20:10",
+    "connected_from": "John 20:8"
+  },
+  {
+    "text": "Then the disciples returned to their homes.",
+    "reference": "John 20:10 (BSB)",
+    "connected_to": "John 20:11",
+    "connected_from": "John 20:9"
+  },
+  {
+    "text": "But Mary stood outside the tomb weeping. And as she wept, she bent down to look into the tomb,",
+    "reference": "John 20:11 (BSB)",
+    "connected_to": "John 20:12",
+    "connected_from": "John 20:10"
+  },
+  {
+    "text": "and she saw two angels in white sitting where the body of Jesus had lain, one at the head and the other at the feet.",
+    "reference": "John 20:12 (BSB)",
+    "connected_to": "John 20:13",
+    "connected_from": "John 20:11"
+  },
+  {
+    "text": "“Woman, why are you weeping?” they asked. “Because they have taken my Lord away,” she said, “and I do not know where they have put Him.”",
+    "reference": "John 20:13 (BSB)",
+    "connected_to": "John 20:14",
+    "connected_from": "John 20:12"
+  },
+  {
+    "text": "When she had said this, she turned around and saw Jesus standing there. But she did not recognize that it was Jesus.",
+    "reference": "John 20:14 (BSB)",
+    "connected_to": "John 20:15",
+    "connected_from": "John 20:13"
+  },
+  {
+    "text": "“Woman, why are you weeping?” Jesus asked. “Whom are you seeking?” Thinking He was the gardener, she said, “Sir, if you have carried Him off, tell me where you have put Him, and I will get Him.”",
+    "reference": "John 20:15 (BSB)",
+    "connected_to": "John 20:16",
+    "connected_from": "John 20:14"
+  },
+  {
+    "text": "Jesus said to her, “Mary.” She turned and said to Him in Hebrew, “Rabboni!” (which means “Teacher”).",
+    "reference": "John 20:16 (BSB)",
+    "connected_to": "John 20:17",
+    "connected_from": "John 20:15"
+  },
+  {
+    "text": "“Do not cling to Me,” Jesus said, “for I have not yet ascended to the Father. But go and tell My brothers, ‘I am ascending to My Father and your Father, to My God and your God.’”",
+    "reference": "John 20:17 (BSB)",
+    "connected_to": "John 20:18",
+    "connected_from": "John 20:16"
+  },
+  {
+    "text": "Mary Magdalene went and announced to the disciples, “I have seen the Lord!” And she told them what He had said to her.",
+    "reference": "John 20:18 (BSB)",
+    "connected_to": "John 20:19",
+    "connected_from": "John 20:17"
+  },
+  {
+    "text": "It was the first day of the week, and that very evening, while the disciples were together with the doors locked for fear of the Jews, Jesus came and stood among them. “Peace be with you!” He said to them.",
+    "reference": "John 20:19 (BSB)",
+    "connected_to": "John 20:20",
+    "connected_from": "John 20:18"
+  },
+  {
+    "text": "After He had said this, He showed them His hands and His side. The disciples rejoiced when they saw the Lord.",
+    "reference": "John 20:20 (BSB)",
+    "connected_to": "John 20:21",
+    "connected_from": "John 20:19"
+  },
+  {
+    "text": "Again Jesus said to them, “Peace be with you. As the Father has sent Me, so also I am sending you.”",
+    "reference": "John 20:21 (BSB)",
+    "connected_to": "John 20:22",
+    "connected_from": "John 20:20"
+  },
+  {
+    "text": "When He had said this, He breathed on them and said, “Receive the Holy Spirit.",
+    "reference": "John 20:22 (BSB)",
+    "connected_to": "John 20:23",
+    "connected_from": "John 20:21"
+  },
+  {
+    "text": "If you forgive anyone his sins, they are forgiven; if you withhold forgiveness from anyone, it is withheld.”",
+    "reference": "John 20:23 (BSB)",
+    "connected_to": "John 20:24",
+    "connected_from": "John 20:22"
+  },
+  {
+    "text": "Now Thomas called Didymus, one of the Twelve, was not with the disciples when Jesus came.",
+    "reference": "John 20:24 (BSB)",
+    "connected_to": "John 20:25",
+    "connected_from": "John 20:23"
+  },
+  {
+    "text": "So the other disciples told him, “We have seen the Lord!” But he replied, “Unless I see the nail marks in His hands, and put my finger where the nails have been, and put my hand into His side, I will never believe.”",
+    "reference": "John 20:25 (BSB)",
+    "connected_to": "John 20:26",
+    "connected_from": "John 20:24"
+  },
+  {
+    "text": "Eight days later, His disciples were once again inside with the doors locked, and Thomas was with them. Jesus came and stood among them and said, “Peace be with you.”",
+    "reference": "John 20:26 (BSB)",
+    "connected_to": "John 20:27",
+    "connected_from": "John 20:25"
+  },
+  {
+    "text": "Then Jesus said to Thomas, “Put your finger here and look at My hands. Reach out your hand and put it into My side. Stop doubting and believe.”",
+    "reference": "John 20:27 (BSB)",
+    "connected_to": "John 20:28",
+    "connected_from": "John 20:26"
+  },
+  {
+    "text": "Thomas replied, “My Lord and my God!”",
+    "reference": "John 20:28 (BSB)",
+    "connected_to": "John 20:29",
+    "connected_from": "John 20:27"
+  },
+  {
+    "text": "Jesus said to him, “Because you have seen Me, you have believed; blessed are those who have not seen and yet have believed.”",
+    "reference": "John 20:29 (BSB)",
+    "connected_to": "John 20:30",
+    "connected_from": "John 20:28"
+  },
+  {
+    "text": "Jesus performed many other signs in the presence of His disciples, which are not written in this book.",
+    "reference": "John 20:30 (BSB)",
+    "connected_to": "John 20:31",
+    "connected_from": "John 20:29"
+  },
+  {
+    "text": "But these are written so that you may believe that Jesus is the Christ, the Son of God, and that by believing you may have life in His name.",
+    "reference": "John 20:31 (BSB)",
+    "connected_from": "John 20:30"
+  }
+]

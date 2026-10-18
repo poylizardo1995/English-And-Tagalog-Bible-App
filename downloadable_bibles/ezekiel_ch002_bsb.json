@@ -1,0 +1,60 @@
+[
+  {
+    "text": "“Son of man,” He said to me, “stand up on your feet and I will speak to you.”",
+    "reference": "Ezekiel 2:1 (BSB)",
+    "connected_to": "Ezekiel 2:2"
+  },
+  {
+    "text": "And as He spoke to me, the Spirit entered me and set me on my feet, and I heard Him speaking to me.",
+    "reference": "Ezekiel 2:2 (BSB)",
+    "connected_to": "Ezekiel 2:3",
+    "connected_from": "Ezekiel 2:1"
+  },
+  {
+    "text": "“Son of man,” He said to me, “I am sending you to the Israelites, to a rebellious nation that has rebelled against Me. To this very day they and their fathers have rebelled against Me.",
+    "reference": "Ezekiel 2:3 (BSB)",
+    "connected_to": "Ezekiel 2:4",
+    "connected_from": "Ezekiel 2:2"
+  },
+  {
+    "text": "They are obstinate and stubborn children. I am sending you to them, and you are to say to them, ‘This is what the Lord GOD says.’",
+    "reference": "Ezekiel 2:4 (BSB)",
+    "connected_to": "Ezekiel 2:5",
+    "connected_from": "Ezekiel 2:3"
+  },
+  {
+    "text": "And whether they listen or refuse to listen—for they are a rebellious house—they will know that a prophet has been among them.",
+    "reference": "Ezekiel 2:5 (BSB)",
+    "connected_to": "Ezekiel 2:6",
+    "connected_from": "Ezekiel 2:4"
+  },
+  {
+    "text": "But you, son of man, do not be afraid of them or their words. Do not be afraid, though briers and thorns surround you, and you dwell among scorpions. Do not be afraid of their words or dismayed by their presence, though they are a rebellious house.",
+    "reference": "Ezekiel 2:6 (BSB)",
+    "connected_to": "Ezekiel 2:7",
+    "connected_from": "Ezekiel 2:5"
+  },
+  {
+    "text": "But speak My words to them, whether they listen or refuse to listen, for they are rebellious.",
+    "reference": "Ezekiel 2:7 (BSB)",
+    "connected_to": "Ezekiel 2:8",
+    "connected_from": "Ezekiel 2:6"
+  },
+  {
+    "text": "And you, son of man, listen to what I tell you. Do not be rebellious like that rebellious house. Open your mouth and eat what I give you.”",
+    "reference": "Ezekiel 2:8 (BSB)",
+    "connected_to": "Ezekiel 2:9",
+    "connected_from": "Ezekiel 2:7"
+  },
+  {
+    "text": "Then I looked and saw a hand reaching out to me, and in it was a scroll,",
+    "reference": "Ezekiel 2:9 (BSB)",
+    "connected_to": "Ezekiel 2:10",
+    "connected_from": "Ezekiel 2:8"
+  },
+  {
+    "text": "which He unrolled before me. And written on the front and back of it were words of lamentation, mourning, and woe.",
+    "reference": "Ezekiel 2:10 (BSB)",
+    "connected_from": "Ezekiel 2:9"
+  }
+]

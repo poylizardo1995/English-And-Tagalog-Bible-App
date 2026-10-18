@@ -1,0 +1,198 @@
+[
+  {
+    "text": "A gentle answer turns away wrath, but a harsh word stirs up anger.",
+    "reference": "Proverbs 15:1 (BAB)",
+    "connected_to": "Proverbs 15:2"
+  },
+  {
+    "text": "The tongue of the wise commends knowledge, but the mouth of the fool spouts folly.",
+    "reference": "Proverbs 15:2 (BAB)",
+    "connected_to": "Proverbs 15:3",
+    "connected_from": "Proverbs 15:1"
+  },
+  {
+    "text": "The eyes of the LORD {YHWH} are in every place, observing the evil and the good.",
+    "reference": "Proverbs 15:3 (BAB)",
+    "connected_to": "Proverbs 15:4",
+    "connected_from": "Proverbs 15:2"
+  },
+  {
+    "text": "A soothing tongue is a tree of life, but a perverse tongue crushes the spirit {ruach}.",
+    "reference": "Proverbs 15:4 (BAB)",
+    "connected_to": "Proverbs 15:5",
+    "connected_from": "Proverbs 15:3"
+  },
+  {
+    "text": "A fool rejects his father’s discipline, but whoever heeds correction is prudent.",
+    "reference": "Proverbs 15:5 (BAB)",
+    "connected_to": "Proverbs 15:6",
+    "connected_from": "Proverbs 15:4"
+  },
+  {
+    "text": "The house of the righteous has great treasure, but the income of the wicked is trouble.",
+    "reference": "Proverbs 15:6 (BAB)",
+    "connected_to": "Proverbs 15:7",
+    "connected_from": "Proverbs 15:5"
+  },
+  {
+    "text": "The lips of the wise spread knowledge, but not so the hearts of fools.",
+    "reference": "Proverbs 15:7 (BAB)",
+    "connected_to": "Proverbs 15:8",
+    "connected_from": "Proverbs 15:6"
+  },
+  {
+    "text": "The sacrifice of the wicked is detestable to the LORD {YHWH}, but the prayer of the upright is His delight.",
+    "reference": "Proverbs 15:8 (BAB)",
+    "connected_to": "Proverbs 15:9",
+    "connected_from": "Proverbs 15:7"
+  },
+  {
+    "text": "The LORD {YHWH} detests the way of the wicked, but He loves those who pursue righteousness.",
+    "reference": "Proverbs 15:9 (BAB)",
+    "connected_to": "Proverbs 15:10",
+    "connected_from": "Proverbs 15:8"
+  },
+  {
+    "text": "Discipline is harsh for him who leaves the path; he who hates correction will die.",
+    "reference": "Proverbs 15:10 (BAB)",
+    "connected_to": "Proverbs 15:11",
+    "connected_from": "Proverbs 15:9"
+  },
+  {
+    "text": "Sheol and Abaddon (Death and Destruction) lie open before the LORD {YHWH}—how much more the hearts of men!",
+    "reference": "Proverbs 15:11 (BAB)",
+    "connected_to": "Proverbs 15:12",
+    "connected_from": "Proverbs 15:10"
+  },
+  {
+    "text": "A mocker does not love to be reproved, nor will he consult the wise.",
+    "reference": "Proverbs 15:12 (BAB)",
+    "connected_to": "Proverbs 15:13",
+    "connected_from": "Proverbs 15:11"
+  },
+  {
+    "text": "A joyful heart makes a cheerful countenance, but sorrow of the heart crushes the spirit {ruach}.",
+    "reference": "Proverbs 15:13 (BAB)",
+    "connected_to": "Proverbs 15:14",
+    "connected_from": "Proverbs 15:12"
+  },
+  {
+    "text": "A discerning heart seeks knowledge, but the mouth of a fool feeds on folly.",
+    "reference": "Proverbs 15:14 (BAB)",
+    "connected_to": "Proverbs 15:15",
+    "connected_from": "Proverbs 15:13"
+  },
+  {
+    "text": "All the days of the oppressed are bad, but a cheerful heart has a continual feast.",
+    "reference": "Proverbs 15:15 (BAB)",
+    "connected_to": "Proverbs 15:16",
+    "connected_from": "Proverbs 15:14"
+  },
+  {
+    "text": "Better a little with the fear of the LORD {YHWH} than great treasure with turmoil.",
+    "reference": "Proverbs 15:16 (BAB)",
+    "connected_to": "Proverbs 15:17",
+    "connected_from": "Proverbs 15:15"
+  },
+  {
+    "text": "Better a dish of vegetables where there is love than a fattened ox with hatred.",
+    "reference": "Proverbs 15:17 (BAB)",
+    "connected_to": "Proverbs 15:18",
+    "connected_from": "Proverbs 15:16"
+  },
+  {
+    "text": "A hot-tempered man stirs up strife, but he who is slow to anger calms dispute.",
+    "reference": "Proverbs 15:18 (BAB)",
+    "connected_to": "Proverbs 15:19",
+    "connected_from": "Proverbs 15:17"
+  },
+  {
+    "text": "The way of the slacker is like a hedge of thorns, but the path of the upright is a highway.",
+    "reference": "Proverbs 15:19 (BAB)",
+    "connected_to": "Proverbs 15:20",
+    "connected_from": "Proverbs 15:18"
+  },
+  {
+    "text": "A wise son brings joy to his father, but a foolish man despises his mother.",
+    "reference": "Proverbs 15:20 (BAB)",
+    "connected_to": "Proverbs 15:21",
+    "connected_from": "Proverbs 15:19"
+  },
+  {
+    "text": "Folly is joy to one who lacks judgment, but a man of understanding walks a straight path.",
+    "reference": "Proverbs 15:21 (BAB)",
+    "connected_to": "Proverbs 15:22",
+    "connected_from": "Proverbs 15:20"
+  },
+  {
+    "text": "Plans fail for lack of counsel, but with many advisers they succeed.",
+    "reference": "Proverbs 15:22 (BAB)",
+    "connected_to": "Proverbs 15:23",
+    "connected_from": "Proverbs 15:21"
+  },
+  {
+    "text": "A man takes joy in a fitting reply—and how good is a timely word!",
+    "reference": "Proverbs 15:23 (BAB)",
+    "connected_to": "Proverbs 15:24",
+    "connected_from": "Proverbs 15:22"
+  },
+  {
+    "text": "The path of life leads upward for the wise, that he may avoid going down to Sheol.",
+    "reference": "Proverbs 15:24 (BAB)",
+    "connected_to": "Proverbs 15:25",
+    "connected_from": "Proverbs 15:23"
+  },
+  {
+    "text": "The LORD {YHWH} tears down the house of the proud, but He protects the boundaries of the widow.",
+    "reference": "Proverbs 15:25 (BAB)",
+    "connected_to": "Proverbs 15:26",
+    "connected_from": "Proverbs 15:24"
+  },
+  {
+    "text": "The LORD {YHWH} detests the thoughts of the wicked, but the words of the pure are pleasant to Him.",
+    "reference": "Proverbs 15:26 (BAB)",
+    "connected_to": "Proverbs 15:27",
+    "connected_from": "Proverbs 15:25"
+  },
+  {
+    "text": "He who is greedy for unjust gain brings trouble on his household, but he who hates bribes will live.",
+    "reference": "Proverbs 15:27 (BAB)",
+    "connected_to": "Proverbs 15:28",
+    "connected_from": "Proverbs 15:26"
+  },
+  {
+    "text": "The heart of the righteous ponders how to answer, but the mouth of the wicked blurts out evil.",
+    "reference": "Proverbs 15:28 (BAB)",
+    "connected_to": "Proverbs 15:29",
+    "connected_from": "Proverbs 15:27"
+  },
+  {
+    "text": "The LORD {YHWH} is far from the wicked, but He hears the prayer of the righteous.",
+    "reference": "Proverbs 15:29 (BAB)",
+    "connected_to": "Proverbs 15:30",
+    "connected_from": "Proverbs 15:28"
+  },
+  {
+    "text": "The light of the eyes cheers the heart, and good news nourishes the bones.",
+    "reference": "Proverbs 15:30 (BAB)",
+    "connected_to": "Proverbs 15:31",
+    "connected_from": "Proverbs 15:29"
+  },
+  {
+    "text": "He who listens to life-giving reproof will dwell among the wise.",
+    "reference": "Proverbs 15:31 (BAB)",
+    "connected_to": "Proverbs 15:32",
+    "connected_from": "Proverbs 15:30"
+  },
+  {
+    "text": "He who ignores discipline despises himself, but whoever heeds correction gains understanding.",
+    "reference": "Proverbs 15:32 (BAB)",
+    "connected_to": "Proverbs 15:33",
+    "connected_from": "Proverbs 15:31"
+  },
+  {
+    "text": "The fear of the LORD {YHWH} is the instruction of wisdom, and humility comes before honor.",
+    "reference": "Proverbs 15:33 (BAB)",
+    "connected_from": "Proverbs 15:32"
+  }
+]

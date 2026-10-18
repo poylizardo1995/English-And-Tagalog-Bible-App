@@ -1,0 +1,120 @@
+[
+  {
+    "text": "A psalm on Solomon.",
+    "reference": "Psalm 72:1 (DRB)",
+    "connected_to": "Psalm 72:2"
+  },
+  {
+    "text": "Give to the king thy judgment, O God: and to the king’s son thy justice: To judge thy people with justice, and thy poor with judgment.",
+    "reference": "Psalm 72:2 (DRB)",
+    "connected_to": "Psalm 72:3",
+    "connected_from": "Psalm 72:1"
+  },
+  {
+    "text": "Let the mountains receive peace for the people: and the hills justice.",
+    "reference": "Psalm 72:3 (DRB)",
+    "connected_to": "Psalm 72:4",
+    "connected_from": "Psalm 72:2"
+  },
+  {
+    "text": "He shall judge the poor of the people, and he shall save the children of the poor: and he shall humble the oppressor.",
+    "reference": "Psalm 72:4 (DRB)",
+    "connected_to": "Psalm 72:5",
+    "connected_from": "Psalm 72:3"
+  },
+  {
+    "text": "And he shall continue with the sun, and before the moon, throughout all generations.",
+    "reference": "Psalm 72:5 (DRB)",
+    "connected_to": "Psalm 72:6",
+    "connected_from": "Psalm 72:4"
+  },
+  {
+    "text": "He shall come down like rain upon the fleece; and as showers falling gently upon the earth.",
+    "reference": "Psalm 72:6 (DRB)",
+    "connected_to": "Psalm 72:7",
+    "connected_from": "Psalm 72:5"
+  },
+  {
+    "text": "In his days shall justice spring up, and abundance of peace, till the moon be taken sway.",
+    "reference": "Psalm 72:7 (DRB)",
+    "connected_to": "Psalm 72:8",
+    "connected_from": "Psalm 72:6"
+  },
+  {
+    "text": "And he shall rule from sea to sea, and from the river unto the ends of the earth.",
+    "reference": "Psalm 72:8 (DRB)",
+    "connected_to": "Psalm 72:9",
+    "connected_from": "Psalm 72:7"
+  },
+  {
+    "text": "Before him the Ethiopians shall fall down: and his enemies shall lick the ground.",
+    "reference": "Psalm 72:9 (DRB)",
+    "connected_to": "Psalm 72:10",
+    "connected_from": "Psalm 72:8"
+  },
+  {
+    "text": "The kings of Tharsis and the islands shall offer presents: the kings of the Arabians and of Saba shall bring gifts:",
+    "reference": "Psalm 72:10 (DRB)",
+    "connected_to": "Psalm 72:11",
+    "connected_from": "Psalm 72:9"
+  },
+  {
+    "text": "And all kings of the earth shall adore him: all nations shall serve him.",
+    "reference": "Psalm 72:11 (DRB)",
+    "connected_to": "Psalm 72:12",
+    "connected_from": "Psalm 72:10"
+  },
+  {
+    "text": "For he shall deliver the poor from the mighty: and the needy that had no helper.",
+    "reference": "Psalm 72:12 (DRB)",
+    "connected_to": "Psalm 72:13",
+    "connected_from": "Psalm 72:11"
+  },
+  {
+    "text": "He shall spare the poor and needy: and he shall save the souls of the poor.",
+    "reference": "Psalm 72:13 (DRB)",
+    "connected_to": "Psalm 72:14",
+    "connected_from": "Psalm 72:12"
+  },
+  {
+    "text": "He shall redeem their souls from usuries and iniquity: and their names shall be honourable in his sight.",
+    "reference": "Psalm 72:14 (DRB)",
+    "connected_to": "Psalm 72:15",
+    "connected_from": "Psalm 72:13"
+  },
+  {
+    "text": "And he shall live, and to him shall be given of the gold of Arabia, for him they shall always adore: they shall bless him all the day.",
+    "reference": "Psalm 72:15 (DRB)",
+    "connected_to": "Psalm 72:16",
+    "connected_from": "Psalm 72:14"
+  },
+  {
+    "text": "And there shall be a firmament on the earth on the tops of mountains, above Libanus shall the fruit thereof be exalted : and they of the city shall flourish like the grass of the earth.",
+    "reference": "Psalm 72:16 (DRB)",
+    "connected_to": "Psalm 72:17",
+    "connected_from": "Psalm 72:15"
+  },
+  {
+    "text": "Let his name be blessed for evermore : his name continueth before the sun. And in him shall all the tribes of the earth be blessed: all nations shall magnify him.",
+    "reference": "Psalm 72:17 (DRB)",
+    "connected_to": "Psalm 72:18",
+    "connected_from": "Psalm 72:16"
+  },
+  {
+    "text": "Blessed be the Lord, the God of Israel, who alone doth wonderful things.",
+    "reference": "Psalm 72:18 (DRB)",
+    "connected_to": "Psalm 72:19",
+    "connected_from": "Psalm 72:17"
+  },
+  {
+    "text": "And blessed be the name of his majesty for ever: and the whole earth shall be filled with his majesty. So be it. So be it.",
+    "reference": "Psalm 72:19 (DRB)",
+    "connected_to": "Psalm 72:20",
+    "connected_from": "Psalm 72:18"
+  },
+  {
+    "text": "The praises of David, the son of Jesse, are ended.",
+    "reference": "Psalm 72:20 (DRB)",
+    "connected_from": "Psalm 72:19"
+  }
+]

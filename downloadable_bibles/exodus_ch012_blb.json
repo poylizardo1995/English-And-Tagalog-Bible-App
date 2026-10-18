@@ -1,0 +1,306 @@
+[
+  {
+    "text": "And YHWH said to Moses and to Aaron in the land of Egypt, saying,",
+    "reference": "Exodus 12:1 (BLB)",
+    "connected_to": "Exodus 12:2"
+  },
+  {
+    "text": "“This month [shall be] for you⁺ the beginning of months; it [shall be] for you⁺ the first of the months of the year.",
+    "reference": "Exodus 12:2 (BLB)",
+    "connected_to": "Exodus 12:3",
+    "connected_from": "Exodus 12:1"
+  },
+  {
+    "text": "Speak to all the congregation of Israel, saying, on the tenth of this month, and they shall take for themselves—each man—a lamb, according to the house of the fathers, a lamb for a house.",
+    "reference": "Exodus 12:3 (BLB)",
+    "connected_to": "Exodus 12:4",
+    "connected_from": "Exodus 12:2"
+  },
+  {
+    "text": "And if the house is too small for a lamb, then he and his neighbor who is near to his house shall take [it] by the number of souls, each man according to the mouth of his eating, you⁺ shall count for the lamb.",
+    "reference": "Exodus 12:4 (BLB)",
+    "connected_to": "Exodus 12:5",
+    "connected_from": "Exodus 12:3"
+  },
+  {
+    "text": "An unblemished lamb, a male, a son of a year, shall be for you⁺. You⁺ shall take [it] from the sheep or from the goats.",
+    "reference": "Exodus 12:5 (BLB)",
+    "connected_to": "Exodus 12:6",
+    "connected_from": "Exodus 12:4"
+  },
+  {
+    "text": "And it shall be kept for you⁺ until the four [and] tenth day of this month. And the whole assembly of the congregation of Israel shall slaughter it between the evenings,",
+    "reference": "Exodus 12:6 (BLB)",
+    "connected_to": "Exodus 12:7",
+    "connected_from": "Exodus 12:5"
+  },
+  {
+    "text": "and they shall take from the blood and put [it] on the two doorposts and on the lintel on the houses in which they shall eat it.",
+    "reference": "Exodus 12:7 (BLB)",
+    "connected_to": "Exodus 12:8",
+    "connected_from": "Exodus 12:6"
+  },
+  {
+    "text": "And they shall eat the flesh on this night; roasted in fire and with unleavened [bread] [and] with bitter herbs they shall eat it.",
+    "reference": "Exodus 12:8 (BLB)",
+    "connected_to": "Exodus 12:9",
+    "connected_from": "Exodus 12:7"
+  },
+  {
+    "text": "You⁺ shall not eat from it raw or boiled boiling—in water—but only roasted in fire, its head with its legs, and with its entrails.",
+    "reference": "Exodus 12:9 (BLB)",
+    "connected_to": "Exodus 12:10",
+    "connected_from": "Exodus 12:8"
+  },
+  {
+    "text": "And you⁺ shall not leave from it until morning. And what remains from it until morning you⁺ shall burn with the fire.",
+    "reference": "Exodus 12:10 (BLB)",
+    "connected_to": "Exodus 12:11",
+    "connected_from": "Exodus 12:9"
+  },
+  {
+    "text": "And thus you⁺ shall eat it: your⁺ loins girded, your⁺ sandals on your⁺ feet, and your⁺ staff in your⁺ hand; and you⁺ shall eat it in haste. It [is] YHWH's Passover.",
+    "reference": "Exodus 12:11 (BLB)",
+    "connected_to": "Exodus 12:12",
+    "connected_from": "Exodus 12:10"
+  },
+  {
+    "text": "And I will pass through the land of Egypt on this night, and I will strike every firstborn in the land of Egypt, from man even to beast; and on all the gods of Egypt I will execute judgments. I [am] YHWH.",
+    "reference": "Exodus 12:12 (BLB)",
+    "connected_to": "Exodus 12:13",
+    "connected_from": "Exodus 12:11"
+  },
+  {
+    "text": "And the blood shall be a sign for you⁺ on the houses where you⁺ are, and I will see the blood, and I will pass over you⁺, and there shall not be among you⁺ a plague for destruction, in my striking in the land of Egypt.",
+    "reference": "Exodus 12:13 (BLB)",
+    "connected_to": "Exodus 12:14",
+    "connected_from": "Exodus 12:12"
+  },
+  {
+    "text": "And this day shall be for you⁺ a memorial, and you⁺ shall celebrate it. as a feast to YHWH throughout your⁺ generations an everlasting—statute—you⁺ shall celebrate it.",
+    "reference": "Exodus 12:14 (BLB)",
+    "connected_to": "Exodus 12:15",
+    "connected_from": "Exodus 12:13"
+  },
+  {
+    "text": "Seven days you⁺ shall eat unleavened [bread]; indeed, on the first day you⁺ shall remove leaven from your⁺ houses, for anyone eating leavened bread from the first day until the seventh day, that soul shall be cut off from Israel.",
+    "reference": "Exodus 12:15 (BLB)",
+    "connected_to": "Exodus 12:16",
+    "connected_from": "Exodus 12:14"
+  },
+  {
+    "text": "And on the first day there shall be for you⁺ a holy convocation, and on the seventh day, a holy convocation. No manner of work shall be done on them, except [that] which every soul must eat—that alone may be done by you⁺.",
+    "reference": "Exodus 12:16 (BLB)",
+    "connected_to": "Exodus 12:17",
+    "connected_from": "Exodus 12:15"
+  },
+  {
+    "text": "And you⁺ shall keep the Unleavened, for on this same day I brought out your⁺ armies from the land of Egypt. And you⁺ shall keep this day throughout your⁺ generations—an everlasting statute.",
+    "reference": "Exodus 12:17 (BLB)",
+    "connected_to": "Exodus 12:18",
+    "connected_from": "Exodus 12:16"
+  },
+  {
+    "text": "In the first [month], on the four [and] tenth day of the month, in the evening, you⁺ shall eat unleavened [bread], until the first and twentieth day of the month in the evening.",
+    "reference": "Exodus 12:18 (BLB)",
+    "connected_to": "Exodus 12:19",
+    "connected_from": "Exodus 12:17"
+  },
+  {
+    "text": "Seven days leaven shall not be found in your⁺ houses; for anyone eating what is leavened, that soul shall be cut off from the congregation of Israel, among the sojourner and among the native of the land.",
+    "reference": "Exodus 12:19 (BLB)",
+    "connected_to": "Exodus 12:20",
+    "connected_from": "Exodus 12:18"
+  },
+  {
+    "text": "Anything leavened you⁺ shall not eat; in all your⁺ dwellings you⁺ shall eat unleavened [bread].”",
+    "reference": "Exodus 12:20 (BLB)",
+    "connected_to": "Exodus 12:21",
+    "connected_from": "Exodus 12:19"
+  },
+  {
+    "text": "And Moses called for all the elders of Israel and said to them, “Draw out and take for yourselves lambs according to your⁺ families, and slaughter the Passover.",
+    "reference": "Exodus 12:21 (BLB)",
+    "connected_to": "Exodus 12:22",
+    "connected_from": "Exodus 12:20"
+  },
+  {
+    "text": "And you⁺ shall take a bunch of hyssop and dip [it] in the blood that [is] in the basin, and you⁺ shall touch [it] to the lintel and to the two doorposts from the blood that [is] in the basin. and you⁺—each man—shall not go out from the door of his house until morning.",
+    "reference": "Exodus 12:22 (BLB)",
+    "connected_to": "Exodus 12:23",
+    "connected_from": "Exodus 12:21"
+  },
+  {
+    "text": "And YHWH will pass through to strike Egypt, and He will see the blood on the lintel and on the two doorposts, and YHWH will pass over the door and will not allow the destroyer to come into your⁺ houses to strike [you].",
+    "reference": "Exodus 12:23 (BLB)",
+    "connected_to": "Exodus 12:24",
+    "connected_from": "Exodus 12:22"
+  },
+  {
+    "text": "And you⁺ shall keep this word as a statute for you and for your sons unto eternity.",
+    "reference": "Exodus 12:24 (BLB)",
+    "connected_to": "Exodus 12:25",
+    "connected_from": "Exodus 12:23"
+  },
+  {
+    "text": "And it shall come to pass, when you⁺ come to the land that YHWH will give to you⁺ as He has spoken, that you⁺ will keep this service.",
+    "reference": "Exodus 12:25 (BLB)",
+    "connected_to": "Exodus 12:26",
+    "connected_from": "Exodus 12:24"
+  },
+  {
+    "text": "And it shall be, when your⁺ sons say to you⁺, ‘What [is] this service to you⁺?’",
+    "reference": "Exodus 12:26 (BLB)",
+    "connected_to": "Exodus 12:27",
+    "connected_from": "Exodus 12:25"
+  },
+  {
+    "text": "And you⁺ shall say, ‘It [is] a sacrifice of Passover to YHWH, who passed over the houses of the sons of Israel in Egypt when He struck Egypt, and our houses He delivered.’” And the people bowed their heads and worshiped.",
+    "reference": "Exodus 12:27 (BLB)",
+    "connected_to": "Exodus 12:28",
+    "connected_from": "Exodus 12:26"
+  },
+  {
+    "text": "And the sons of Israel went and did as YHWH had commanded Moses and Aaron; so they did.",
+    "reference": "Exodus 12:28 (BLB)",
+    "connected_to": "Exodus 12:29",
+    "connected_from": "Exodus 12:27"
+  },
+  {
+    "text": "And it came to pass at midnight that YHWH struck every firstborn in the land of Egypt, from the firstborn of Pharaoh who sits on his throne to the firstborn of the captive who [is] in the house of the pit, and every firstborn of a beast.",
+    "reference": "Exodus 12:29 (BLB)",
+    "connected_to": "Exodus 12:30",
+    "connected_from": "Exodus 12:28"
+  },
+  {
+    "text": "And Pharaoh rose in the night, he and all his servants and all Egypt, and there was a great cry in Egypt, for [there was] not a house where there [was] not a dead person.",
+    "reference": "Exodus 12:30 (BLB)",
+    "connected_to": "Exodus 12:31",
+    "connected_from": "Exodus 12:29"
+  },
+  {
+    "text": "And he called for Moses and for Aaron by night and said, “Rise, go out from the midst of my people, both you⁺ and the sons of Israel. And go, serve YHWH, according to your⁺ word.",
+    "reference": "Exodus 12:31 (BLB)",
+    "connected_to": "Exodus 12:32",
+    "connected_from": "Exodus 12:30"
+  },
+  {
+    "text": "Also take your⁺ flocks and also your⁺ herds as you⁺ have spoken, and go, and bless me also!”",
+    "reference": "Exodus 12:32 (BLB)",
+    "connected_to": "Exodus 12:33",
+    "connected_from": "Exodus 12:31"
+  },
+  {
+    "text": "And the Egyptians were strong upon the people to hasten to send them out from the land, for they said, “We are all dead people!”",
+    "reference": "Exodus 12:33 (BLB)",
+    "connected_to": "Exodus 12:34",
+    "connected_from": "Exodus 12:32"
+  },
+  {
+    "text": "And the people carried their dough before it was leavened, having bound up their kneading bowls in their clothes on their shoulders.",
+    "reference": "Exodus 12:34 (BLB)",
+    "connected_to": "Exodus 12:35",
+    "connected_from": "Exodus 12:33"
+  },
+  {
+    "text": "And the sons of Israel did according to the word of Moses, and they asked from the Egyptians articles of silver, and articles of gold, and clothing.",
+    "reference": "Exodus 12:35 (BLB)",
+    "connected_to": "Exodus 12:36",
+    "connected_from": "Exodus 12:34"
+  },
+  {
+    "text": "And YHWH gave the people favor in the eyes of Egypt, and they granted their request; and they plundered Egypt.",
+    "reference": "Exodus 12:36 (BLB)",
+    "connected_to": "Exodus 12:37",
+    "connected_from": "Exodus 12:35"
+  },
+  {
+    "text": "And the sons of Israel journeyed from Rameses to Succoth, about six hundred thousand men on foot, apart from little ones.",
+    "reference": "Exodus 12:37 (BLB)",
+    "connected_to": "Exodus 12:38",
+    "connected_from": "Exodus 12:36"
+  },
+  {
+    "text": "And a mixed multitude also went up with them, and flock and herd—very much livestock.",
+    "reference": "Exodus 12:38 (BLB)",
+    "connected_to": "Exodus 12:39",
+    "connected_from": "Exodus 12:37"
+  },
+  {
+    "text": "And they baked the dough that they brought out from Egypt, of unleavened cakes, for it was not leavened for they were driven out from Egypt and were not able to delay, and also they had not made provisions for themselves.",
+    "reference": "Exodus 12:39 (BLB)",
+    "connected_to": "Exodus 12:40",
+    "connected_from": "Exodus 12:38"
+  },
+  {
+    "text": "And the dwelling of the sons of Israel who lived in Egypt thirty years. and four hundred years",
+    "reference": "Exodus 12:40 (BLB)",
+    "connected_to": "Exodus 12:41",
+    "connected_from": "Exodus 12:39"
+  },
+  {
+    "text": "And it came to pass at the end of thirty years and four hundred years—and it came to pass on this same day—that all the armies of YHWH went out from the land of Egypt.",
+    "reference": "Exodus 12:41 (BLB)",
+    "connected_to": "Exodus 12:42",
+    "connected_from": "Exodus 12:40"
+  },
+  {
+    "text": "It [is] a night of vigil for YHWH to bring them out from the land of Egypt. This same night for YHWH, a vigil for all the sons of Israel throughout their generations.",
+    "reference": "Exodus 12:42 (BLB)",
+    "connected_to": "Exodus 12:43",
+    "connected_from": "Exodus 12:41"
+  },
+  {
+    "text": "And YHWH said to Moses and Aaron, “This [is] the statute of the Passover: Any son of a foreigner shall not eat of it.",
+    "reference": "Exodus 12:43 (BLB)",
+    "connected_to": "Exodus 12:44",
+    "connected_from": "Exodus 12:42"
+  },
+  {
+    "text": "And every man’s servant purchased of silver, when you have circumcised him, then he may eat of it.",
+    "reference": "Exodus 12:44 (BLB)",
+    "connected_to": "Exodus 12:45",
+    "connected_from": "Exodus 12:43"
+  },
+  {
+    "text": "A sojourner and a hireling shall not eat of it.",
+    "reference": "Exodus 12:45 (BLB)",
+    "connected_to": "Exodus 12:46",
+    "connected_from": "Exodus 12:44"
+  },
+  {
+    "text": "In one house it shall be eaten; you shall not bring out from the house any of the flesh outside, and a bone of it you⁺ shall not break.",
+    "reference": "Exodus 12:46 (BLB)",
+    "connected_to": "Exodus 12:47",
+    "connected_from": "Exodus 12:45"
+  },
+  {
+    "text": "All the congregation of Israel shall do it.",
+    "reference": "Exodus 12:47 (BLB)",
+    "connected_to": "Exodus 12:48",
+    "connected_from": "Exodus 12:46"
+  },
+  {
+    "text": "And when a sojourner sojourns with you, and he does the Passover to YHWH, every male of his shall be circumcised; and then he may come near to do it, and he shall be as a native of the land. And any uncircumcised person shall not eat of it.",
+    "reference": "Exodus 12:48 (BLB)",
+    "connected_to": "Exodus 12:49",
+    "connected_from": "Exodus 12:47"
+  },
+  {
+    "text": "One law shall be for the native and for the sojourner who is sojourning in your⁺ midst.”",
+    "reference": "Exodus 12:49 (BLB)",
+    "connected_to": "Exodus 12:50",
+    "connected_from": "Exodus 12:48"
+  },
+  {
+    "text": "And all the sons of Israel did as YHWH commanded Moses and Aaron; so they did.",
+    "reference": "Exodus 12:50 (BLB)",
+    "connected_to": "Exodus 12:51",
+    "connected_from": "Exodus 12:49"
+  },
+  {
+    "text": "And it came to pass on this very same day that YHWH brought out the sons of Israel from the land of Egypt by their armies.",
+    "reference": "Exodus 12:51 (BLB)",
+    "connected_from": "Exodus 12:50"
+  }
+]

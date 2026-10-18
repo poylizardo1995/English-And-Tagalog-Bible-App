@@ -1,0 +1,126 @@
+[
+  {
+    "text": "The life of a man on the earth is a battle, and his days are like the days of a hired hand.",
+    "reference": "Job 7:1 (CPDV)",
+    "connected_to": "Job 7:2"
+  },
+  {
+    "text": "Just as a servant desires the shade, and just as the hired hand looks forward to the end of his work,",
+    "reference": "Job 7:2 (CPDV)",
+    "connected_to": "Job 7:3",
+    "connected_from": "Job 7:1"
+  },
+  {
+    "text": "so also have I had empty months and have counted my burdensome nights.",
+    "reference": "Job 7:3 (CPDV)",
+    "connected_to": "Job 7:4",
+    "connected_from": "Job 7:2"
+  },
+  {
+    "text": "If I lie down to sleep, I will say, “When will I rise?” And next I will hope for the evening and will be filled with sorrows even until darkness.",
+    "reference": "Job 7:4 (CPDV)",
+    "connected_to": "Job 7:5",
+    "connected_from": "Job 7:3"
+  },
+  {
+    "text": "My flesh is clothed with particles of rottenness and filth; my skin is dried up and tightened.",
+    "reference": "Job 7:5 (CPDV)",
+    "connected_to": "Job 7:6",
+    "connected_from": "Job 7:4"
+  },
+  {
+    "text": "My days have passed by more quickly than threads are cut by a weaver, and they have been consumed without any hope.",
+    "reference": "Job 7:6 (CPDV)",
+    "connected_to": "Job 7:7",
+    "connected_from": "Job 7:5"
+  },
+  {
+    "text": "Remember that my life is wind, and my eye will not return to see good things.",
+    "reference": "Job 7:7 (CPDV)",
+    "connected_to": "Job 7:8",
+    "connected_from": "Job 7:6"
+  },
+  {
+    "text": "Neither will the sight of man gaze upon me; your eyes are upon me, and I will not endure.",
+    "reference": "Job 7:8 (CPDV)",
+    "connected_to": "Job 7:9",
+    "connected_from": "Job 7:7"
+  },
+  {
+    "text": "Just as a cloud is consumed and passes away, so he who descends to hell will not ascend.",
+    "reference": "Job 7:9 (CPDV)",
+    "connected_to": "Job 7:10",
+    "connected_from": "Job 7:8"
+  },
+  {
+    "text": "He will not return again to his house, nor will his own place know him any longer.",
+    "reference": "Job 7:10 (CPDV)",
+    "connected_to": "Job 7:11",
+    "connected_from": "Job 7:9"
+  },
+  {
+    "text": "And because of this, I will not restrain my mouth. I will speak in the affliction of my spirit. I will converse from the bitterness of my soul.",
+    "reference": "Job 7:11 (CPDV)",
+    "connected_to": "Job 7:12",
+    "connected_from": "Job 7:10"
+  },
+  {
+    "text": "Am I an ocean or a whale, that you have encircled me in a prison?",
+    "reference": "Job 7:12 (CPDV)",
+    "connected_to": "Job 7:13",
+    "connected_from": "Job 7:11"
+  },
+  {
+    "text": "If I say, “My bed will comfort me, and I will find rest, speaking with myself on my blanket,”",
+    "reference": "Job 7:13 (CPDV)",
+    "connected_to": "Job 7:14",
+    "connected_from": "Job 7:12"
+  },
+  {
+    "text": "then you will frighten me with dreams, and strike dread through visions,",
+    "reference": "Job 7:14 (CPDV)",
+    "connected_to": "Job 7:15",
+    "connected_from": "Job 7:13"
+  },
+  {
+    "text": "so that, because of these things, my soul would choose hanging, and my bones, death.",
+    "reference": "Job 7:15 (CPDV)",
+    "connected_to": "Job 7:16",
+    "connected_from": "Job 7:14"
+  },
+  {
+    "text": "I despair; by no means will I live any longer. Spare me, for my days are nothing.",
+    "reference": "Job 7:16 (CPDV)",
+    "connected_to": "Job 7:17",
+    "connected_from": "Job 7:15"
+  },
+  {
+    "text": "What is man, that you should praise him? Or why do you place your heart near him?",
+    "reference": "Job 7:17 (CPDV)",
+    "connected_to": "Job 7:18",
+    "connected_from": "Job 7:16"
+  },
+  {
+    "text": "You visit him at dawn, and you test him unexpectedly.",
+    "reference": "Job 7:18 (CPDV)",
+    "connected_to": "Job 7:19",
+    "connected_from": "Job 7:17"
+  },
+  {
+    "text": "How long will you not spare me, nor release me to ingest my saliva?",
+    "reference": "Job 7:19 (CPDV)",
+    "connected_to": "Job 7:20",
+    "connected_from": "Job 7:18"
+  },
+  {
+    "text": "I have sinned; what should I do for you, O keeper of men? Why have you set me against you, so that I have become burdensome even to myself?",
+    "reference": "Job 7:20 (CPDV)",
+    "connected_to": "Job 7:21",
+    "connected_from": "Job 7:19"
+  },
+  {
+    "text": "Why do you not steal away my sin, and why do you not sweep away my iniquity? Behold, now I will sleep in the dust, and if you seek me in the morning, I will not remain.",
+    "reference": "Job 7:21 (CPDV)",
+    "connected_from": "Job 7:20"
+  }
+]

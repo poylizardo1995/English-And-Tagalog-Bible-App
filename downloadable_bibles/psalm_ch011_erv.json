@@ -1,0 +1,42 @@
+[
+  {
+    "text": "For the Chief Musician. A Psalm of David. In the LORD put I my trust: how say ye to my soul, Flee as a bird to your mountain?",
+    "reference": "Psalm 11:1 (ERV)",
+    "connected_to": "Psalm 11:2"
+  },
+  {
+    "text": "For, lo, the wicked bend the bow, they make ready their arrow upon the string, that they may shoot in darkness at the upright in heart.",
+    "reference": "Psalm 11:2 (ERV)",
+    "connected_to": "Psalm 11:3",
+    "connected_from": "Psalm 11:1"
+  },
+  {
+    "text": "If the foundations be destroyed, what can the righteous do?",
+    "reference": "Psalm 11:3 (ERV)",
+    "connected_to": "Psalm 11:4",
+    "connected_from": "Psalm 11:2"
+  },
+  {
+    "text": "The LORD is in his holy temple, the LORD, his throne is in heaven; his eyes behold, his eyelids try, the children of men.",
+    "reference": "Psalm 11:4 (ERV)",
+    "connected_to": "Psalm 11:5",
+    "connected_from": "Psalm 11:3"
+  },
+  {
+    "text": "The LORD trieth the righteous: but the wicked and him that loveth violence his soul hateth.",
+    "reference": "Psalm 11:5 (ERV)",
+    "connected_to": "Psalm 11:6",
+    "connected_from": "Psalm 11:4"
+  },
+  {
+    "text": "Upon the wicked he shall rain snares; fire and brimstone and burning wind shall be the portion of their cup.",
+    "reference": "Psalm 11:6 (ERV)",
+    "connected_to": "Psalm 11:7",
+    "connected_from": "Psalm 11:5"
+  },
+  {
+    "text": "For the LORD is righteous; he loveth righteousness: the upright shall behold his face.",
+    "reference": "Psalm 11:7 (ERV)",
+    "connected_from": "Psalm 11:6"
+  }
+]

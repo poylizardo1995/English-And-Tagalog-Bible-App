@@ -1,0 +1,48 @@
+[
+  {
+    "text": "When Israel went out of Egypt, the house of Jacob from a people of strange language;",
+    "reference": "Psalm 114:1 (AKJV)",
+    "connected_to": "Psalm 114:2"
+  },
+  {
+    "text": "Judah was his sanctuary, and Israel his dominion.",
+    "reference": "Psalm 114:2 (AKJV)",
+    "connected_to": "Psalm 114:3",
+    "connected_from": "Psalm 114:1"
+  },
+  {
+    "text": "The sea saw it, and fled: Jordan was driven back.",
+    "reference": "Psalm 114:3 (AKJV)",
+    "connected_to": "Psalm 114:4",
+    "connected_from": "Psalm 114:2"
+  },
+  {
+    "text": "The mountains skipped like rams, and the little hills like lambs.",
+    "reference": "Psalm 114:4 (AKJV)",
+    "connected_to": "Psalm 114:5",
+    "connected_from": "Psalm 114:3"
+  },
+  {
+    "text": "What ailed you, O you sea, that you fled? you Jordan, that you were driven back?",
+    "reference": "Psalm 114:5 (AKJV)",
+    "connected_to": "Psalm 114:6",
+    "connected_from": "Psalm 114:4"
+  },
+  {
+    "text": "You mountains, that you skipped like rams; and you little hills, like lambs?",
+    "reference": "Psalm 114:6 (AKJV)",
+    "connected_to": "Psalm 114:7",
+    "connected_from": "Psalm 114:5"
+  },
+  {
+    "text": "Tremble, you earth, at the presence of the Lord, at the presence of the God of Jacob;",
+    "reference": "Psalm 114:7 (AKJV)",
+    "connected_to": "Psalm 114:8",
+    "connected_from": "Psalm 114:6"
+  },
+  {
+    "text": "Which turned the rock into a standing water, the flint into a fountain of waters.",
+    "reference": "Psalm 114:8 (AKJV)",
+    "connected_from": "Psalm 114:7"
+  }
+]

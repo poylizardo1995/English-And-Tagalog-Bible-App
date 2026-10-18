@@ -1,0 +1,84 @@
+[
+  {
+    "text": "For every high priest taken from among men, is ordained for men in the things that appertain to God, that he may offer up gifts and sacrifices for sins:",
+    "reference": "Hebrews 5:1 (DRB)",
+    "connected_to": "Hebrews 5:2"
+  },
+  {
+    "text": "Who can have compassion on them that are ignorant and that err: because he himself also is compassed with infirmity.",
+    "reference": "Hebrews 5:2 (DRB)",
+    "connected_to": "Hebrews 5:3",
+    "connected_from": "Hebrews 5:1"
+  },
+  {
+    "text": "And therefore he ought, as for the people, so also for himself, to offer for sins.",
+    "reference": "Hebrews 5:3 (DRB)",
+    "connected_to": "Hebrews 5:4",
+    "connected_from": "Hebrews 5:2"
+  },
+  {
+    "text": "Neither doth any man take the honour to himself, but he that is called by God, as Aaron was.",
+    "reference": "Hebrews 5:4 (DRB)",
+    "connected_to": "Hebrews 5:5",
+    "connected_from": "Hebrews 5:3"
+  },
+  {
+    "text": "So Christ also did not glorify himself, that he might be made a high priest: but he that said unto him: Thou art my Son, this day have I begotten thee.",
+    "reference": "Hebrews 5:5 (DRB)",
+    "connected_to": "Hebrews 5:6",
+    "connected_from": "Hebrews 5:4"
+  },
+  {
+    "text": "As he saith also in another place: Thou art a priest for ever, according to the order of Melchisedech.",
+    "reference": "Hebrews 5:6 (DRB)",
+    "connected_to": "Hebrews 5:7",
+    "connected_from": "Hebrews 5:5"
+  },
+  {
+    "text": "Who in the days of his flesh, with a strong cry and tears, offering up prayers and supplications to him that was able to save him from death, was heard for his reverence.",
+    "reference": "Hebrews 5:7 (DRB)",
+    "connected_to": "Hebrews 5:8",
+    "connected_from": "Hebrews 5:6"
+  },
+  {
+    "text": "And whereas indeed he was the Son of God, he learned obedience by the things which he suffered:",
+    "reference": "Hebrews 5:8 (DRB)",
+    "connected_to": "Hebrews 5:9",
+    "connected_from": "Hebrews 5:7"
+  },
+  {
+    "text": "And being consummated, he became, to all that obey him, the cause of eternal salvation.",
+    "reference": "Hebrews 5:9 (DRB)",
+    "connected_to": "Hebrews 5:10",
+    "connected_from": "Hebrews 5:8"
+  },
+  {
+    "text": "Called by God a high priest according to the order of Melchisedech.",
+    "reference": "Hebrews 5:10 (DRB)",
+    "connected_to": "Hebrews 5:11",
+    "connected_from": "Hebrews 5:9"
+  },
+  {
+    "text": "Of whom we have much to say, and hard to be intelligibly uttered: because you are become weak to hear.",
+    "reference": "Hebrews 5:11 (DRB)",
+    "connected_to": "Hebrews 5:12",
+    "connected_from": "Hebrews 5:10"
+  },
+  {
+    "text": "For whereas for the time you ought to be masters, you have need to be taught again what are the first elements of the words of God: and you are become such as have need of milk, and not of strong meat.",
+    "reference": "Hebrews 5:12 (DRB)",
+    "connected_to": "Hebrews 5:13",
+    "connected_from": "Hebrews 5:11"
+  },
+  {
+    "text": "For every one that is a partaker of milk, is unskillful in the word of justice: for he is a little child.",
+    "reference": "Hebrews 5:13 (DRB)",
+    "connected_to": "Hebrews 5:14",
+    "connected_from": "Hebrews 5:12"
+  },
+  {
+    "text": "But strong meat is for the perfect; for them who by custom have their senses exercised to the discerning of good and evil.",
+    "reference": "Hebrews 5:14 (DRB)",
+    "connected_from": "Hebrews 5:13"
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "text": "Then the LORD said to Moses,",
+    "reference": "Leviticus 14:1 (BSB)",
+    "connected_to": "Leviticus 14:2"
+  },
+  {
+    "text": "“This is the law for the one afflicted with a skin disease on the day of his cleansing, when he is brought to the priest.",
+    "reference": "Leviticus 14:2 (BSB)",
+    "connected_to": "Leviticus 14:3",
+    "connected_from": "Leviticus 14:1"
+  },
+  {
+    "text": "The priest is to go outside the camp to examine him, and if the skin disease of the afflicted person has healed,",
+    "reference": "Leviticus 14:3 (BSB)",
+    "connected_to": "Leviticus 14:4",
+    "connected_from": "Leviticus 14:2"
+  },
+  {
+    "text": "the priest shall order that two live clean birds, cedar wood, scarlet yarn, and hyssop be brought for the one to be cleansed.",
+    "reference": "Leviticus 14:4 (BSB)",
+    "connected_to": "Leviticus 14:5",
+    "connected_from": "Leviticus 14:3"
+  },
+  {
+    "text": "Then the priest shall command that one of the birds be slaughtered over fresh water in a clay pot.",
+    "reference": "Leviticus 14:5 (BSB)",
+    "connected_to": "Leviticus 14:6",
+    "connected_from": "Leviticus 14:4"
+  },
+  {
+    "text": "And he is to take the live bird together with the cedar wood, scarlet yarn, and hyssop, and dip them into the blood of the bird that was slaughtered over the fresh water.",
+    "reference": "Leviticus 14:6 (BSB)",
+    "connected_to": "Leviticus 14:7",
+    "connected_from": "Leviticus 14:5"
+  },
+  {
+    "text": "Seven times he shall sprinkle the one to be cleansed of the skin disease. Then he shall pronounce him clean and release the live bird into the open field.",
+    "reference": "Leviticus 14:7 (BSB)",
+    "connected_to": "Leviticus 14:8",
+    "connected_from": "Leviticus 14:6"
+  },
+  {
+    "text": "The one being cleansed must wash his clothes, shave off all his hair, and bathe with water; then he will be ceremonially clean. Afterward, he may enter the camp, but he must remain outside his tent for seven days.",
+    "reference": "Leviticus 14:8 (BSB)",
+    "connected_to": "Leviticus 14:9",
+    "connected_from": "Leviticus 14:7"
+  },
+  {
+    "text": "On the seventh day he must shave off all his hair—his head, his beard, his eyebrows, and the rest of his hair. He must wash his clothes and bathe himself with water, and he will be clean.",
+    "reference": "Leviticus 14:9 (BSB)",
+    "connected_to": "Leviticus 14:10",
+    "connected_from": "Leviticus 14:8"
+  },
+  {
+    "text": "On the eighth day he is to bring two unblemished male lambs, an unblemished ewe lamb a year old, a grain offering of three-tenths of an ephah of fine flour mixed with olive oil, and one log of olive oil.",
+    "reference": "Leviticus 14:10 (BSB)",
+    "connected_to": "Leviticus 14:11",
+    "connected_from": "Leviticus 14:9"
+  },
+  {
+    "text": "The priest who performs the cleansing shall present the one to be cleansed, together with these offerings, before the LORD at the entrance to the Tent of Meeting.",
+    "reference": "Leviticus 14:11 (BSB)",
+    "connected_to": "Leviticus 14:12",
+    "connected_from": "Leviticus 14:10"
+  },
+  {
+    "text": "Then the priest is to take one of the male lambs and present it as a guilt offering, along with the log of olive oil; and he must wave them as a wave offering before the LORD.",
+    "reference": "Leviticus 14:12 (BSB)",
+    "connected_to": "Leviticus 14:13",
+    "connected_from": "Leviticus 14:11"
+  },
+  {
+    "text": "Then he is to slaughter the lamb in the sanctuary area where the sin offering and burnt offering are slaughtered. Like the sin offering, the guilt offering belongs to the priest; it is most holy.",
+    "reference": "Leviticus 14:13 (BSB)",
+    "connected_to": "Leviticus 14:14",
+    "connected_from": "Leviticus 14:12"
+  },
+  {
+    "text": "The priest is to take some of the blood from the guilt offering and put it on the right earlobe of the one to be cleansed, on the thumb of his right hand, and on the big toe of his right foot.",
+    "reference": "Leviticus 14:14 (BSB)",
+    "connected_to": "Leviticus 14:15",
+    "connected_from": "Leviticus 14:13"
+  },
+  {
+    "text": "Then the priest shall take some of the log of olive oil, pour it into his left palm,",
+    "reference": "Leviticus 14:15 (BSB)",
+    "connected_to": "Leviticus 14:16",
+    "connected_from": "Leviticus 14:14"
+  },
+  {
+    "text": "dip his right forefinger into the oil in his left palm, and sprinkle some of the oil with his finger seven times before the LORD.",
+    "reference": "Leviticus 14:16 (BSB)",
+    "connected_to": "Leviticus 14:17",
+    "connected_from": "Leviticus 14:15"
+  },
+  {
+    "text": "And the priest is to put some of the oil remaining in his palm on the right earlobe of the one to be cleansed, on the thumb of his right hand, and on the big toe of his right foot, on top of the blood of the guilt offering.",
+    "reference": "Leviticus 14:17 (BSB)",
+    "connected_to": "Leviticus 14:18",
+    "connected_from": "Leviticus 14:16"
+  },
+  {
+    "text": "The rest of the oil in his palm, the priest is to put on the head of the one to be cleansed, to make atonement for him before the LORD.",
+    "reference": "Leviticus 14:18 (BSB)",
+    "connected_to": "Leviticus 14:19",
+    "connected_from": "Leviticus 14:17"
+  },
+  {
+    "text": "Then the priest is to sacrifice the sin offering and make atonement for the one to be cleansed from his uncleanness. After that, the priest shall slaughter the burnt offering",
+    "reference": "Leviticus 14:19 (BSB)",
+    "connected_to": "Leviticus 14:20",
+    "connected_from": "Leviticus 14:18"
+  },
+  {
+    "text": "and offer it on the altar, with the grain offering, to make atonement for him, and he will be clean.",
+    "reference": "Leviticus 14:20 (BSB)",
+    "connected_to": "Leviticus 14:21",
+    "connected_from": "Leviticus 14:19"
+  },
+  {
+    "text": "If, however, the person is poor and cannot afford these offerings, he is to take one male lamb as a guilt offering to be waved to make atonement for him, along with a tenth of an ephah of fine flour mixed with olive oil for a grain offering, a log of olive oil,",
+    "reference": "Leviticus 14:21 (BSB)",
+    "connected_to": "Leviticus 14:22",
+    "connected_from": "Leviticus 14:20"
+  },
+  {
+    "text": "and two turtledoves or two young pigeons, whichever he can afford, one to be a sin offering and the other a burnt offering.",
+    "reference": "Leviticus 14:22 (BSB)",
+    "connected_to": "Leviticus 14:23",
+    "connected_from": "Leviticus 14:21"
+  },
+  {
+    "text": "On the eighth day he is to bring them for his cleansing to the priest at the entrance to the Tent of Meeting before the LORD.",
+    "reference": "Leviticus 14:23 (BSB)",
+    "connected_to": "Leviticus 14:24",
+    "connected_from": "Leviticus 14:22"
+  },
+  {
+    "text": "The priest shall take the lamb for the guilt offering, along with the log of olive oil, and wave them as a wave offering before the LORD.",
+    "reference": "Leviticus 14:24 (BSB)",
+    "connected_to": "Leviticus 14:25",
+    "connected_from": "Leviticus 14:23"
+  },
+  {
+    "text": "And after he slaughters the lamb for the guilt offering, the priest is to take some of the blood of the guilt offering and put it on the right earlobe of the one to be cleansed, on the thumb of his right hand, and on the big toe of his right foot.",
+    "reference": "Leviticus 14:25 (BSB)",
+    "connected_to": "Leviticus 14:26",
+    "connected_from": "Leviticus 14:24"
+  },
+  {
+    "text": "Then the priest is to pour some of the oil into his left palm",
+    "reference": "Leviticus 14:26 (BSB)",
+    "connected_to": "Leviticus 14:27",
+    "connected_from": "Leviticus 14:25"
+  },
+  {
+    "text": "and sprinkle with his right forefinger some of the oil in his left palm seven times before the LORD.",
+    "reference": "Leviticus 14:27 (BSB)",
+    "connected_to": "Leviticus 14:28",
+    "connected_from": "Leviticus 14:26"
+  },
+  {
+    "text": "The priest shall also put some of the oil in his palm on the right earlobe of the one to be cleansed, on the thumb of his right hand, and on the big toe of his right foot—on the same places as the blood of the guilt offering.",
+    "reference": "Leviticus 14:28 (BSB)",
+    "connected_to": "Leviticus 14:29",
+    "connected_from": "Leviticus 14:27"
+  },
+  {
+    "text": "The rest of the oil in his palm, the priest is to put on the head of the one to be cleansed, to make atonement for him before the LORD.",
+    "reference": "Leviticus 14:29 (BSB)",
+    "connected_to": "Leviticus 14:30",
+    "connected_from": "Leviticus 14:28"
+  },
+  {
+    "text": "Then he must sacrifice the turtledoves or young pigeons, whichever he can afford,",
+    "reference": "Leviticus 14:30 (BSB)",
+    "connected_to": "Leviticus 14:31",
+    "connected_from": "Leviticus 14:29"
+  },
+  {
+    "text": "one as a sin offering and the other as a burnt offering, together with the grain offering. In this way the priest will make atonement before the LORD for the one to be cleansed.",
+    "reference": "Leviticus 14:31 (BSB)",
+    "connected_to": "Leviticus 14:32",
+    "connected_from": "Leviticus 14:30"
+  },
+  {
+    "text": "This is the law for someone who has a skin disease and cannot afford the cost of his cleansing.”",
+    "reference": "Leviticus 14:32 (BSB)",
+    "connected_to": "Leviticus 14:33",
+    "connected_from": "Leviticus 14:31"
+  },
+  {
+    "text": "Then the LORD said to Moses and Aaron,",
+    "reference": "Leviticus 14:33 (BSB)",
+    "connected_to": "Leviticus 14:34",
+    "connected_from": "Leviticus 14:32"
+  },
+  {
+    "text": "“When you enter the land of Canaan, which I am giving you as your possession, and I put a contamination of mildew into a house in that land,",
+    "reference": "Leviticus 14:34 (BSB)",
+    "connected_to": "Leviticus 14:35",
+    "connected_from": "Leviticus 14:33"
+  },
+  {
+    "text": "the owner of the house shall come and tell the priest, ‘Something like mildew has appeared in my house.’",
+    "reference": "Leviticus 14:35 (BSB)",
+    "connected_to": "Leviticus 14:36",
+    "connected_from": "Leviticus 14:34"
+  },
+  {
+    "text": "The priest must order that the house be cleared before he enters it to examine the mildew, so that nothing in the house will become unclean. After this, the priest shall go in to inspect the house.",
+    "reference": "Leviticus 14:36 (BSB)",
+    "connected_to": "Leviticus 14:37",
+    "connected_from": "Leviticus 14:35"
+  },
+  {
+    "text": "He is to examine the house, and if the mildew on the walls consists of green or red depressions that appear to be beneath the surface of the wall,",
+    "reference": "Leviticus 14:37 (BSB)",
+    "connected_to": "Leviticus 14:38",
+    "connected_from": "Leviticus 14:36"
+  },
+  {
+    "text": "the priest shall go outside the doorway of the house and close it up for seven days.",
+    "reference": "Leviticus 14:38 (BSB)",
+    "connected_to": "Leviticus 14:39",
+    "connected_from": "Leviticus 14:37"
+  },
+  {
+    "text": "On the seventh day the priest is to return and inspect the house. If the mildew has spread on the walls,",
+    "reference": "Leviticus 14:39 (BSB)",
+    "connected_to": "Leviticus 14:40",
+    "connected_from": "Leviticus 14:38"
+  },
+  {
+    "text": "he must order that the contaminated stones be pulled out and thrown into an unclean place outside the city.",
+    "reference": "Leviticus 14:40 (BSB)",
+    "connected_to": "Leviticus 14:41",
+    "connected_from": "Leviticus 14:39"
+  },
+  {
+    "text": "And he shall have the inside of the house scraped completely and the plaster that is scraped off dumped into an unclean place outside the city.",
+    "reference": "Leviticus 14:41 (BSB)",
+    "connected_to": "Leviticus 14:42",
+    "connected_from": "Leviticus 14:40"
+  },
+  {
+    "text": "So different stones must be obtained to replace the contaminated ones, as well as additional mortar to replaster the house.",
+    "reference": "Leviticus 14:42 (BSB)",
+    "connected_to": "Leviticus 14:43",
+    "connected_from": "Leviticus 14:41"
+  },
+  {
+    "text": "If the mildew reappears in the house after the stones have been torn out and the house has been scraped and replastered,",
+    "reference": "Leviticus 14:43 (BSB)",
+    "connected_to": "Leviticus 14:44",
+    "connected_from": "Leviticus 14:42"
+  },
+  {
+    "text": "the priest must come and inspect it. If the mildew has spread in the house, it is a destructive mildew; the house is unclean.",
+    "reference": "Leviticus 14:44 (BSB)",
+    "connected_to": "Leviticus 14:45",
+    "connected_from": "Leviticus 14:43"
+  },
+  {
+    "text": "It must be torn down with its stones, its timbers, and all its plaster, and taken outside the city to an unclean place.",
+    "reference": "Leviticus 14:45 (BSB)",
+    "connected_to": "Leviticus 14:46",
+    "connected_from": "Leviticus 14:44"
+  },
+  {
+    "text": "Anyone who enters the house during any of the days that it is closed up will be unclean until evening.",
+    "reference": "Leviticus 14:46 (BSB)",
+    "connected_to": "Leviticus 14:47",
+    "connected_from": "Leviticus 14:45"
+  },
+  {
+    "text": "And anyone who sleeps in the house or eats in it must wash his clothes.",
+    "reference": "Leviticus 14:47 (BSB)",
+    "connected_to": "Leviticus 14:48",
+    "connected_from": "Leviticus 14:46"
+  },
+  {
+    "text": "If, however, the priest comes and inspects it, and the mildew has not spread after the house has been replastered, he shall pronounce the house clean, because the mildew is gone.",
+    "reference": "Leviticus 14:48 (BSB)",
+    "connected_to": "Leviticus 14:49",
+    "connected_from": "Leviticus 14:47"
+  },
+  {
+    "text": "He is to take two birds, cedar wood, scarlet yarn, and hyssop to purify the house;",
+    "reference": "Leviticus 14:49 (BSB)",
+    "connected_to": "Leviticus 14:50",
+    "connected_from": "Leviticus 14:48"
+  },
+  {
+    "text": "and he shall slaughter one of the birds over fresh water in a clay pot.",
+    "reference": "Leviticus 14:50 (BSB)",
+    "connected_to": "Leviticus 14:51",
+    "connected_from": "Leviticus 14:49"
+  },
+  {
+    "text": "Then he shall take the cedar wood, the hyssop, the scarlet yarn, and the live bird, dip them in the blood of the slaughtered bird and the fresh water, and sprinkle the house seven times.",
+    "reference": "Leviticus 14:51 (BSB)",
+    "connected_to": "Leviticus 14:52",
+    "connected_from": "Leviticus 14:50"
+  },
+  {
+    "text": "And he shall cleanse the house with the bird’s blood, the fresh water, the live bird, the cedar wood, the hyssop, and the scarlet yarn.",
+    "reference": "Leviticus 14:52 (BSB)",
+    "connected_to": "Leviticus 14:53",
+    "connected_from": "Leviticus 14:51"
+  },
+  {
+    "text": "Finally, he is to release the live bird into the open fields outside the city. In this way he will make atonement for the house, and it will be clean.",
+    "reference": "Leviticus 14:53 (BSB)",
+    "connected_to": "Leviticus 14:54",
+    "connected_from": "Leviticus 14:52"
+  },
+  {
+    "text": "This is the law for any infectious skin disease, for a scaly outbreak,",
+    "reference": "Leviticus 14:54 (BSB)",
+    "connected_to": "Leviticus 14:55",
+    "connected_from": "Leviticus 14:53"
+  },
+  {
+    "text": "for mildew in clothing or in a house,",
+    "reference": "Leviticus 14:55 (BSB)",
+    "connected_to": "Leviticus 14:56",
+    "connected_from": "Leviticus 14:54"
+  },
+  {
+    "text": "and for a swelling, rash, or spot,",
+    "reference": "Leviticus 14:56 (BSB)",
+    "connected_to": "Leviticus 14:57",
+    "connected_from": "Leviticus 14:55"
+  },
+  {
+    "text": "to determine when something is clean or unclean. This is the law regarding skin diseases and mildew.”",
+    "reference": "Leviticus 14:57 (BSB)",
+    "connected_from": "Leviticus 14:56"
+  }
+]

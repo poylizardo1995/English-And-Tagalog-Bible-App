@@ -1,0 +1,36 @@
+[
+  {
+    "text": "A Song of Ascents.  When the LORD brought back those that returned to Zion, We were like unto them that dream.",
+    "reference": "Psalm 126:1 (JPS)",
+    "connected_to": "Psalm 126:2"
+  },
+  {
+    "text": "Then was our mouth filled with laughter, And our tongue with singing; Then said they among the nations: ‘The LORD hath done great things with these.’",
+    "reference": "Psalm 126:2 (JPS)",
+    "connected_to": "Psalm 126:3",
+    "connected_from": "Psalm 126:1"
+  },
+  {
+    "text": "The LORD hath done great things with us; We are rejoiced.",
+    "reference": "Psalm 126:3 (JPS)",
+    "connected_to": "Psalm 126:4",
+    "connected_from": "Psalm 126:2"
+  },
+  {
+    "text": "Turn our captivity, O LORD, As the streams in the dry land.",
+    "reference": "Psalm 126:4 (JPS)",
+    "connected_to": "Psalm 126:5",
+    "connected_from": "Psalm 126:3"
+  },
+  {
+    "text": "They that sow in tears Shall reap in joy.",
+    "reference": "Psalm 126:5 (JPS)",
+    "connected_to": "Psalm 126:6",
+    "connected_from": "Psalm 126:4"
+  },
+  {
+    "text": "Though he goeth on his way weeping that beareth the measure of seed, He shall come home with joy, bearing his sheaves.",
+    "reference": "Psalm 126:6 (JPS)",
+    "connected_from": "Psalm 126:5"
+  }
+]

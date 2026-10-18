@@ -1,0 +1,66 @@
+[
+  {
+    "text": "Come, let us sing aloud to Jehovah, let us shout for joy to the rock of our salvation;",
+    "reference": "Psalm 95:1 (DBT)",
+    "connected_to": "Psalm 95:2"
+  },
+  {
+    "text": "Let us come before his face with thanksgiving; let us shout aloud unto him with psalms.",
+    "reference": "Psalm 95:2 (DBT)",
+    "connected_to": "Psalm 95:3",
+    "connected_from": "Psalm 95:1"
+  },
+  {
+    "text": "For Jehovah is a great God, and a great king above all gods.",
+    "reference": "Psalm 95:3 (DBT)",
+    "connected_to": "Psalm 95:4",
+    "connected_from": "Psalm 95:2"
+  },
+  {
+    "text": "In his hand are the deep places of the earth; the heights of the mountains are his also:",
+    "reference": "Psalm 95:4 (DBT)",
+    "connected_to": "Psalm 95:5",
+    "connected_from": "Psalm 95:3"
+  },
+  {
+    "text": "The sea is his, and he made it, and his hands formed the dry [land].",
+    "reference": "Psalm 95:5 (DBT)",
+    "connected_to": "Psalm 95:6",
+    "connected_from": "Psalm 95:4"
+  },
+  {
+    "text": "Come, let us worship and bow down; let us kneel before Jehovah our Maker.",
+    "reference": "Psalm 95:6 (DBT)",
+    "connected_to": "Psalm 95:7",
+    "connected_from": "Psalm 95:5"
+  },
+  {
+    "text": "For he is our God; and we are the people of his pasture and the sheep of his hand. To-day if ye hear his voice,",
+    "reference": "Psalm 95:7 (DBT)",
+    "connected_to": "Psalm 95:8",
+    "connected_from": "Psalm 95:6"
+  },
+  {
+    "text": "Harden not your heart, as at Meribah, as [in] the day of Massah, in the wilderness;",
+    "reference": "Psalm 95:8 (DBT)",
+    "connected_to": "Psalm 95:9",
+    "connected_from": "Psalm 95:7"
+  },
+  {
+    "text": "When your fathers tempted me, proved me, and saw my work.",
+    "reference": "Psalm 95:9 (DBT)",
+    "connected_to": "Psalm 95:10",
+    "connected_from": "Psalm 95:8"
+  },
+  {
+    "text": "Forty years was I grieved with the generation, and said, It is a people that do err in their heart, and they have not known my ways;",
+    "reference": "Psalm 95:10 (DBT)",
+    "connected_to": "Psalm 95:11",
+    "connected_from": "Psalm 95:9"
+  },
+  {
+    "text": "So that I swore in mine anger, that they should not enter into my rest.",
+    "reference": "Psalm 95:11 (DBT)",
+    "connected_from": "Psalm 95:10"
+  }
+]

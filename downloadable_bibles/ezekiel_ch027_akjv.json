@@ -1,0 +1,216 @@
+[
+  {
+    "text": "The word of the LORD came again to me, saying,",
+    "reference": "Ezekiel 27:1 (AKJV)",
+    "connected_to": "Ezekiel 27:2"
+  },
+  {
+    "text": "Now, you son of man, take up a lamentation for Tyrus;",
+    "reference": "Ezekiel 27:2 (AKJV)",
+    "connected_to": "Ezekiel 27:3",
+    "connected_from": "Ezekiel 27:1"
+  },
+  {
+    "text": "And say to Tyrus, O you that are situate at the entry of the sea, which are a merchant of the people for many isles, Thus said the Lord GOD; O Tyrus, you have said, I am of perfect beauty.",
+    "reference": "Ezekiel 27:3 (AKJV)",
+    "connected_to": "Ezekiel 27:4",
+    "connected_from": "Ezekiel 27:2"
+  },
+  {
+    "text": "Your borders are in the middle of the seas, your builders have perfected your beauty.",
+    "reference": "Ezekiel 27:4 (AKJV)",
+    "connected_to": "Ezekiel 27:5",
+    "connected_from": "Ezekiel 27:3"
+  },
+  {
+    "text": "They have made all your ship boards of fir trees of Senir: they have taken cedars from Lebanon to make masts for you.",
+    "reference": "Ezekiel 27:5 (AKJV)",
+    "connected_to": "Ezekiel 27:6",
+    "connected_from": "Ezekiel 27:4"
+  },
+  {
+    "text": "Of the oaks of Bashan have they made your oars; the company of the Ashurites have made your benches of ivory, brought out of the isles of Chittim.",
+    "reference": "Ezekiel 27:6 (AKJV)",
+    "connected_to": "Ezekiel 27:7",
+    "connected_from": "Ezekiel 27:5"
+  },
+  {
+    "text": "Fine linen with broidered work from Egypt was that which you spread forth to be your sail; blue and purple from the isles of Elishah was that which covered you.",
+    "reference": "Ezekiel 27:7 (AKJV)",
+    "connected_to": "Ezekiel 27:8",
+    "connected_from": "Ezekiel 27:6"
+  },
+  {
+    "text": "The inhabitants of Zidon and Arvad were your mariners: your wise men, O Tyrus, that were in you, were your pilots.",
+    "reference": "Ezekiel 27:8 (AKJV)",
+    "connected_to": "Ezekiel 27:9",
+    "connected_from": "Ezekiel 27:7"
+  },
+  {
+    "text": "The ancients of Gebal and the wise men thereof were in you your caulkers: all the ships of the sea with their mariners were in you to occupy your merchandise.",
+    "reference": "Ezekiel 27:9 (AKJV)",
+    "connected_to": "Ezekiel 27:10",
+    "connected_from": "Ezekiel 27:8"
+  },
+  {
+    "text": "They of Persia and of Lud and of Phut were in your army, your men of war: they hanged the shield and helmet in you; they set forth your comeliness.",
+    "reference": "Ezekiel 27:10 (AKJV)",
+    "connected_to": "Ezekiel 27:11",
+    "connected_from": "Ezekiel 27:9"
+  },
+  {
+    "text": "The men of Arvad with your army were on your walls round about, and the Gammadims were in your towers: they hanged their shields on your walls round about; they have made your beauty perfect.",
+    "reference": "Ezekiel 27:11 (AKJV)",
+    "connected_to": "Ezekiel 27:12",
+    "connected_from": "Ezekiel 27:10"
+  },
+  {
+    "text": "Tarshish was your merchant by reason of the multitude of all kind of riches; with silver, iron, tin, and lead, they traded in your fairs.",
+    "reference": "Ezekiel 27:12 (AKJV)",
+    "connected_to": "Ezekiel 27:13",
+    "connected_from": "Ezekiel 27:11"
+  },
+  {
+    "text": "Javan, Tubal, and Meshech, they were your merchants: they traded the persons of men and vessels of brass in your market.",
+    "reference": "Ezekiel 27:13 (AKJV)",
+    "connected_to": "Ezekiel 27:14",
+    "connected_from": "Ezekiel 27:12"
+  },
+  {
+    "text": "They of the house of Togarmah traded in your fairs with horses and horsemen and mules.",
+    "reference": "Ezekiel 27:14 (AKJV)",
+    "connected_to": "Ezekiel 27:15",
+    "connected_from": "Ezekiel 27:13"
+  },
+  {
+    "text": "The men of Dedan were your merchants; many isles were the merchandise of your hand: they brought you for a present horns of ivory and ebony.",
+    "reference": "Ezekiel 27:15 (AKJV)",
+    "connected_to": "Ezekiel 27:16",
+    "connected_from": "Ezekiel 27:14"
+  },
+  {
+    "text": "Syria was your merchant by reason of the multitude of the wares of your making: they occupied in your fairs with emeralds, purple, and broidered work, and fine linen, and coral, and agate.",
+    "reference": "Ezekiel 27:16 (AKJV)",
+    "connected_to": "Ezekiel 27:17",
+    "connected_from": "Ezekiel 27:15"
+  },
+  {
+    "text": "Judah, and the land of Israel, they were your merchants: they traded in your market wheat of Minnith, and Pannag, and honey, and oil, and balm.",
+    "reference": "Ezekiel 27:17 (AKJV)",
+    "connected_to": "Ezekiel 27:18",
+    "connected_from": "Ezekiel 27:16"
+  },
+  {
+    "text": "Damascus was your merchant in the multitude of the wares of your making, for the multitude of all riches; in the wine of Helbon, and white wool.",
+    "reference": "Ezekiel 27:18 (AKJV)",
+    "connected_to": "Ezekiel 27:19",
+    "connected_from": "Ezekiel 27:17"
+  },
+  {
+    "text": "Dan also and Javan going to and fro occupied in your fairs: bright iron, cassia, and calamus, were in your market.",
+    "reference": "Ezekiel 27:19 (AKJV)",
+    "connected_to": "Ezekiel 27:20",
+    "connected_from": "Ezekiel 27:18"
+  },
+  {
+    "text": "Dedan was your merchant in precious clothes for chariots.",
+    "reference": "Ezekiel 27:20 (AKJV)",
+    "connected_to": "Ezekiel 27:21",
+    "connected_from": "Ezekiel 27:19"
+  },
+  {
+    "text": "Arabia, and all the princes of Kedar, they occupied with you in lambs, and rams, and goats: in these were they your merchants.",
+    "reference": "Ezekiel 27:21 (AKJV)",
+    "connected_to": "Ezekiel 27:22",
+    "connected_from": "Ezekiel 27:20"
+  },
+  {
+    "text": "The merchants of Sheba and Raamah, they were your merchants: they occupied in your fairs with chief of all spices, and with all precious stones, and gold.",
+    "reference": "Ezekiel 27:22 (AKJV)",
+    "connected_to": "Ezekiel 27:23",
+    "connected_from": "Ezekiel 27:21"
+  },
+  {
+    "text": "Haran, and Canneh, and Eden, the merchants of Sheba, Asshur, and Chilmad, were your merchants.",
+    "reference": "Ezekiel 27:23 (AKJV)",
+    "connected_to": "Ezekiel 27:24",
+    "connected_from": "Ezekiel 27:22"
+  },
+  {
+    "text": "These were your merchants in all sorts of things, in blue clothes, and broidered work, and in chests of rich apparel, bound with cords, and made of cedar, among your merchandise.",
+    "reference": "Ezekiel 27:24 (AKJV)",
+    "connected_to": "Ezekiel 27:25",
+    "connected_from": "Ezekiel 27:23"
+  },
+  {
+    "text": "The ships of Tarshish did sing of you in your market: and you were replenished, and made very glorious in the middle of the seas.",
+    "reference": "Ezekiel 27:25 (AKJV)",
+    "connected_to": "Ezekiel 27:26",
+    "connected_from": "Ezekiel 27:24"
+  },
+  {
+    "text": "Your rowers have brought you into great waters: the east wind has broken you in the middle of the seas.",
+    "reference": "Ezekiel 27:26 (AKJV)",
+    "connected_to": "Ezekiel 27:27",
+    "connected_from": "Ezekiel 27:25"
+  },
+  {
+    "text": "Your riches, and your fairs, your merchandise, your mariners, and your pilots, your caulkers, and the occupiers of your merchandise, and all your men of war, that are in you, and in all your company which is in the middle of you, shall fall into the middle of the seas in the day of your ruin.",
+    "reference": "Ezekiel 27:27 (AKJV)",
+    "connected_to": "Ezekiel 27:28",
+    "connected_from": "Ezekiel 27:26"
+  },
+  {
+    "text": "The suburbs shall shake at the sound of the cry of your pilots.",
+    "reference": "Ezekiel 27:28 (AKJV)",
+    "connected_to": "Ezekiel 27:29",
+    "connected_from": "Ezekiel 27:27"
+  },
+  {
+    "text": "And all that handle the oar, the mariners, and all the pilots of the sea, shall come down from their ships, they shall stand on the land;",
+    "reference": "Ezekiel 27:29 (AKJV)",
+    "connected_to": "Ezekiel 27:30",
+    "connected_from": "Ezekiel 27:28"
+  },
+  {
+    "text": "And shall cause their voice to be heard against you, and shall cry bitterly, and shall cast up dust on their heads, they shall wallow themselves in the ashes:",
+    "reference": "Ezekiel 27:30 (AKJV)",
+    "connected_to": "Ezekiel 27:31",
+    "connected_from": "Ezekiel 27:29"
+  },
+  {
+    "text": "And they shall make themselves utterly bald for you, and gird them with sackcloth, and they shall weep for you with bitterness of heart and bitter wailing.",
+    "reference": "Ezekiel 27:31 (AKJV)",
+    "connected_to": "Ezekiel 27:32",
+    "connected_from": "Ezekiel 27:30"
+  },
+  {
+    "text": "And in their wailing they shall take up a lamentation for you, and lament over you, saying, What city is like Tyrus, like the destroyed in the middle of the sea?",
+    "reference": "Ezekiel 27:32 (AKJV)",
+    "connected_to": "Ezekiel 27:33",
+    "connected_from": "Ezekiel 27:31"
+  },
+  {
+    "text": "When your wares went forth out of the seas, you filled many people; you did enrich the kings of the earth with the multitude of your riches and of your merchandise.",
+    "reference": "Ezekiel 27:33 (AKJV)",
+    "connected_to": "Ezekiel 27:34",
+    "connected_from": "Ezekiel 27:32"
+  },
+  {
+    "text": "In the time when you shall be broken by the seas in the depths of the waters your merchandise and all your company in the middle of you shall fall.",
+    "reference": "Ezekiel 27:34 (AKJV)",
+    "connected_to": "Ezekiel 27:35",
+    "connected_from": "Ezekiel 27:33"
+  },
+  {
+    "text": "All the inhabitants of the isles shall be astonished at you, and their kings shall be sore afraid, they shall be troubled in their countenance.",
+    "reference": "Ezekiel 27:35 (AKJV)",
+    "connected_to": "Ezekiel 27:36",
+    "connected_from": "Ezekiel 27:34"
+  },
+  {
+    "text": "The merchants among the people shall hiss at you; you shall be a terror, and never shall be any more.",
+    "reference": "Ezekiel 27:36 (AKJV)",
+    "connected_from": "Ezekiel 27:35"
+  }
+]

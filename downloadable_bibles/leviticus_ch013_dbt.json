@@ -1,0 +1,354 @@
+[
+  {
+    "text": "And Jehovah spoke to Moses and to Aaron, saying,",
+    "reference": "Leviticus 13:1 (DBT)",
+    "connected_to": "Leviticus 13:2"
+  },
+  {
+    "text": "When a man shall have in the skin of his flesh a rising or a scab, or bright spot, and it become in the skin of his flesh a sore [as] of leprosy, then he shall be brought unto Aaron the priest, or unto one of his sons the priests.",
+    "reference": "Leviticus 13:2 (DBT)",
+    "connected_to": "Leviticus 13:3",
+    "connected_from": "Leviticus 13:1"
+  },
+  {
+    "text": "And when the priest looketh on the sore in the skin of the flesh, and the hair in the sore is turned white, and the sore looketh deeper than the skin of his flesh, it is the sore of leprosy; and the priest shall look on him and pronounce him unclean.",
+    "reference": "Leviticus 13:3 (DBT)",
+    "connected_to": "Leviticus 13:4",
+    "connected_from": "Leviticus 13:2"
+  },
+  {
+    "text": "But if the bright spot be white in the skin of his flesh, and look not deeper than the skin, and the hair thereof be not turned white, the priest shall shut up [him that hath] the sore seven days.",
+    "reference": "Leviticus 13:4 (DBT)",
+    "connected_to": "Leviticus 13:5",
+    "connected_from": "Leviticus 13:3"
+  },
+  {
+    "text": "And the priest shall look on him the seventh day; and behold, in his sight, the sore remaineth as it was, the sore hath not spread in the skin, then the priest shall shut him up seven days a second time.",
+    "reference": "Leviticus 13:5 (DBT)",
+    "connected_to": "Leviticus 13:6",
+    "connected_from": "Leviticus 13:4"
+  },
+  {
+    "text": "And the priest shall look on him again the seventh day, and behold, the sore is become pale and the sore hath not spread in the skin, then the priest shall pronounce him clean; it is a scab; and he shall wash his garments and be clean.",
+    "reference": "Leviticus 13:6 (DBT)",
+    "connected_to": "Leviticus 13:7",
+    "connected_from": "Leviticus 13:5"
+  },
+  {
+    "text": "But if the scab have spread much in the skin, after that he hath been seen by the priest for his cleansing, he shall be seen by the priest again;",
+    "reference": "Leviticus 13:7 (DBT)",
+    "connected_to": "Leviticus 13:8",
+    "connected_from": "Leviticus 13:6"
+  },
+  {
+    "text": "and the priest shall look on him, and behold, the scab hath spread in the skin; then the priest shall pronounce him unclean: it is leprosy.",
+    "reference": "Leviticus 13:8 (DBT)",
+    "connected_to": "Leviticus 13:9",
+    "connected_from": "Leviticus 13:7"
+  },
+  {
+    "text": "When a sore [as] of leprosy is in a man, he shall be brought unto the priest;",
+    "reference": "Leviticus 13:9 (DBT)",
+    "connected_to": "Leviticus 13:10",
+    "connected_from": "Leviticus 13:8"
+  },
+  {
+    "text": "and the priest shall look on him, and behold, there is a white rising in the skin, and it hath turned the hair white, and a trace of raw flesh is in the rising:",
+    "reference": "Leviticus 13:10 (DBT)",
+    "connected_to": "Leviticus 13:11",
+    "connected_from": "Leviticus 13:9"
+  },
+  {
+    "text": "it is an old leprosy in the skin of his flesh; and the priest shall pronounce him unclean, and he shall not shut him up, for he is unclean.",
+    "reference": "Leviticus 13:11 (DBT)",
+    "connected_to": "Leviticus 13:12",
+    "connected_from": "Leviticus 13:10"
+  },
+  {
+    "text": "But if the leprosy break out much in the skin, and the leprosy cover all the skin of [him that hath] the sore, from his head even to his foot, wherever the eyes of the priest look,",
+    "reference": "Leviticus 13:12 (DBT)",
+    "connected_to": "Leviticus 13:13",
+    "connected_from": "Leviticus 13:11"
+  },
+  {
+    "text": "and the priest looketh, and behold, the leprosy covereth all his flesh, he shall pronounce [him] clean [that hath] the sore; it is all turned white; he is clean.",
+    "reference": "Leviticus 13:13 (DBT)",
+    "connected_to": "Leviticus 13:14",
+    "connected_from": "Leviticus 13:12"
+  },
+  {
+    "text": "And on the day when raw flesh appeareth in him, he shall be unclean.",
+    "reference": "Leviticus 13:14 (DBT)",
+    "connected_to": "Leviticus 13:15",
+    "connected_from": "Leviticus 13:13"
+  },
+  {
+    "text": "And the priest shall look on the raw flesh, and shall pronounce him unclean: the raw flesh is unclean, it is leprosy.",
+    "reference": "Leviticus 13:15 (DBT)",
+    "connected_to": "Leviticus 13:16",
+    "connected_from": "Leviticus 13:14"
+  },
+  {
+    "text": "But if the raw flesh change again, and be turned white, he shall come unto the priest;",
+    "reference": "Leviticus 13:16 (DBT)",
+    "connected_to": "Leviticus 13:17",
+    "connected_from": "Leviticus 13:15"
+  },
+  {
+    "text": "and the priest shall look on him, and behold, the sore is turned white; then the priest shall pronounce [him] clean [that hath] the sore: he is clean.",
+    "reference": "Leviticus 13:17 (DBT)",
+    "connected_to": "Leviticus 13:18",
+    "connected_from": "Leviticus 13:16"
+  },
+  {
+    "text": "And the flesh—when in the skin thereof cometh a boil, and it is healed,",
+    "reference": "Leviticus 13:18 (DBT)",
+    "connected_to": "Leviticus 13:19",
+    "connected_from": "Leviticus 13:17"
+  },
+  {
+    "text": "and there is in the place of the boil a white rising, or a white-reddish bright spot, it shall be shewn to the priest;",
+    "reference": "Leviticus 13:19 (DBT)",
+    "connected_to": "Leviticus 13:20",
+    "connected_from": "Leviticus 13:18"
+  },
+  {
+    "text": "and the priest shall look on it, and behold, it looketh deeper than the skin, and the hair thereof is turned white; then the priest shall pronounce him unclean: it is the sore of leprosy broken out in the boil.",
+    "reference": "Leviticus 13:20 (DBT)",
+    "connected_to": "Leviticus 13:21",
+    "connected_from": "Leviticus 13:19"
+  },
+  {
+    "text": "But if the priest look on it, and behold, there are no white hairs therein, and it is not deeper than the skin, and is pale, the priest shall shut him up seven days;",
+    "reference": "Leviticus 13:21 (DBT)",
+    "connected_to": "Leviticus 13:22",
+    "connected_from": "Leviticus 13:20"
+  },
+  {
+    "text": "and if it spread much in the skin, then the priest shall pronounce him unclean: it is the sore.",
+    "reference": "Leviticus 13:22 (DBT)",
+    "connected_to": "Leviticus 13:23",
+    "connected_from": "Leviticus 13:21"
+  },
+  {
+    "text": "But if the bright spot have remained in its place, [and] have not spread, it is the scar of the boil; and the priest shall pronounce him clean.",
+    "reference": "Leviticus 13:23 (DBT)",
+    "connected_to": "Leviticus 13:24",
+    "connected_from": "Leviticus 13:22"
+  },
+  {
+    "text": "Or if in the flesh, in the skin thereof, there is a burning inflammation, and the place of the inflammation become a bright spot white-reddish or white,",
+    "reference": "Leviticus 13:24 (DBT)",
+    "connected_to": "Leviticus 13:25",
+    "connected_from": "Leviticus 13:23"
+  },
+  {
+    "text": "and the priest look on it, and behold, the hair is turned white in the bright spot, and it looketh deeper than the skin, it is a leprosy which is broken out in the inflammation; and the priest shall pronounce him unclean: it is the sore of leprosy.",
+    "reference": "Leviticus 13:25 (DBT)",
+    "connected_to": "Leviticus 13:26",
+    "connected_from": "Leviticus 13:24"
+  },
+  {
+    "text": "But if the priest look on it, and behold, there is no white hair in the bright spot, and it is no deeper than the skin, and is pale, the priest shall shut him up seven days.",
+    "reference": "Leviticus 13:26 (DBT)",
+    "connected_to": "Leviticus 13:27",
+    "connected_from": "Leviticus 13:25"
+  },
+  {
+    "text": "And the priest shall look on him the seventh day, and if it have spread much in the skin, the priest shall pronounce him unclean: it is the sore of leprosy.",
+    "reference": "Leviticus 13:27 (DBT)",
+    "connected_to": "Leviticus 13:28",
+    "connected_from": "Leviticus 13:26"
+  },
+  {
+    "text": "But if the bright spot have remained in its place, [and] not spread in the skin, and is pale, it is the rising of the inflammation; and the priest shall pronounce him clean; for it is the scar of the inflammation.",
+    "reference": "Leviticus 13:28 (DBT)",
+    "connected_to": "Leviticus 13:29",
+    "connected_from": "Leviticus 13:27"
+  },
+  {
+    "text": "And if a man or a woman have a sore on the head or on the beard,",
+    "reference": "Leviticus 13:29 (DBT)",
+    "connected_to": "Leviticus 13:30",
+    "connected_from": "Leviticus 13:28"
+  },
+  {
+    "text": "and the priest look on the sore, and behold, it looketh deeper than the skin, and there is in it yellow thin hair, then the priest shall pronounce him unclean; it is a scall, the leprosy of the head or the beard.",
+    "reference": "Leviticus 13:30 (DBT)",
+    "connected_to": "Leviticus 13:31",
+    "connected_from": "Leviticus 13:29"
+  },
+  {
+    "text": "And if the priest look on the sore of the scall, and behold, it is not in sight deeper than the skin, and there is no black hair in it, the priest shall shut up [him that hath] the sore of the scall seven days.",
+    "reference": "Leviticus 13:31 (DBT)",
+    "connected_to": "Leviticus 13:32",
+    "connected_from": "Leviticus 13:30"
+  },
+  {
+    "text": "And when the priest looketh on the sore on the seventh day, and behold, the scall hath not spread, and there is in it no yellow hair, and the scall doth not look deeper than the skin,",
+    "reference": "Leviticus 13:32 (DBT)",
+    "connected_to": "Leviticus 13:33",
+    "connected_from": "Leviticus 13:31"
+  },
+  {
+    "text": "he [that hath the sore] shall shave himself; but the scall shall he not shave; and the priest shall shut up [him that hath] the scall seven days a second time.",
+    "reference": "Leviticus 13:33 (DBT)",
+    "connected_to": "Leviticus 13:34",
+    "connected_from": "Leviticus 13:32"
+  },
+  {
+    "text": "And the priest shall look on the scall on the seventh day, and behold, the scall hath not spread in the skin, nor is in sight deeper than the skin, then the priest shall pronounce him clean; and he shall wash his garments, and be clean.",
+    "reference": "Leviticus 13:34 (DBT)",
+    "connected_to": "Leviticus 13:35",
+    "connected_from": "Leviticus 13:33"
+  },
+  {
+    "text": "But if the scall have spread much in the skin after his cleansing,",
+    "reference": "Leviticus 13:35 (DBT)",
+    "connected_to": "Leviticus 13:36",
+    "connected_from": "Leviticus 13:34"
+  },
+  {
+    "text": "and the priest shall look on him, and behold, the scall hath spread in the skin, the priest shall not seek for yellow hair: he is unclean.",
+    "reference": "Leviticus 13:36 (DBT)",
+    "connected_to": "Leviticus 13:37",
+    "connected_from": "Leviticus 13:35"
+  },
+  {
+    "text": "But if the scall have in his sight remained as it was, and there is black hair grown up therein, the scall is healed: he is clean; and the priest shall pronounce him clean.",
+    "reference": "Leviticus 13:37 (DBT)",
+    "connected_to": "Leviticus 13:38",
+    "connected_from": "Leviticus 13:36"
+  },
+  {
+    "text": "And if a man or a woman have in the skin of their flesh bright spots, white bright spots,",
+    "reference": "Leviticus 13:38 (DBT)",
+    "connected_to": "Leviticus 13:39",
+    "connected_from": "Leviticus 13:37"
+  },
+  {
+    "text": "and the priest look, and behold, there are in the skin of their flesh pale white spots, it is an eruption which is broken out in the skin: he is clean.",
+    "reference": "Leviticus 13:39 (DBT)",
+    "connected_to": "Leviticus 13:40",
+    "connected_from": "Leviticus 13:38"
+  },
+  {
+    "text": "And if a man’s hair have fallen off his head, he is bald: he is clean;",
+    "reference": "Leviticus 13:40 (DBT)",
+    "connected_to": "Leviticus 13:41",
+    "connected_from": "Leviticus 13:39"
+  },
+  {
+    "text": "and if he have the hair fallen off from the part of the head towards his face, he is forehead-bald: he is clean.",
+    "reference": "Leviticus 13:41 (DBT)",
+    "connected_to": "Leviticus 13:42",
+    "connected_from": "Leviticus 13:40"
+  },
+  {
+    "text": "And if there be in the bald head, or bald forehead, a white-reddish sore, it is a leprosy which hath broken out in his bald head, or his bald forehead.",
+    "reference": "Leviticus 13:42 (DBT)",
+    "connected_to": "Leviticus 13:43",
+    "connected_from": "Leviticus 13:41"
+  },
+  {
+    "text": "And the priest shall look on it, and behold, the rising of the sore is white-reddish in his bald head, or in his bald forehead, like the appearance of the leprosy in the skin of the flesh;",
+    "reference": "Leviticus 13:43 (DBT)",
+    "connected_to": "Leviticus 13:44",
+    "connected_from": "Leviticus 13:42"
+  },
+  {
+    "text": "he is a leprous man, he is unclean; the priest shall pronounce him utterly unclean; his sore is in his head.",
+    "reference": "Leviticus 13:44 (DBT)",
+    "connected_to": "Leviticus 13:45",
+    "connected_from": "Leviticus 13:43"
+  },
+  {
+    "text": "And as to the leper in whom the sore is,—his garments shall be rent, and his head shall be uncovered, and he shall put a covering on his beard, and shall cry, Unclean, unclean!",
+    "reference": "Leviticus 13:45 (DBT)",
+    "connected_to": "Leviticus 13:46",
+    "connected_from": "Leviticus 13:44"
+  },
+  {
+    "text": "All the days that the sore shall be in him he shall be unclean: he is unclean; he shall dwell apart; outside the camp shall his dwelling be.",
+    "reference": "Leviticus 13:46 (DBT)",
+    "connected_to": "Leviticus 13:47",
+    "connected_from": "Leviticus 13:45"
+  },
+  {
+    "text": "And if a sore of leprosy is in a garment, in a woollen garment, or a linen garment,",
+    "reference": "Leviticus 13:47 (DBT)",
+    "connected_to": "Leviticus 13:48",
+    "connected_from": "Leviticus 13:46"
+  },
+  {
+    "text": "either in the warp or in the woof of linen or of wool, or in a skin, or in anything made of skin,",
+    "reference": "Leviticus 13:48 (DBT)",
+    "connected_to": "Leviticus 13:49",
+    "connected_from": "Leviticus 13:47"
+  },
+  {
+    "text": "and the sore is greenish or reddish in the garment, or in the skin, or in the warp, or in the woof, or in anything of skin, it is the sore of leprosy, and shall be shewn unto the priest.",
+    "reference": "Leviticus 13:49 (DBT)",
+    "connected_to": "Leviticus 13:50",
+    "connected_from": "Leviticus 13:48"
+  },
+  {
+    "text": "And the priest shall look on the sore, and shall shut up [that which hath] the sore seven days.",
+    "reference": "Leviticus 13:50 (DBT)",
+    "connected_to": "Leviticus 13:51",
+    "connected_from": "Leviticus 13:49"
+  },
+  {
+    "text": "And he shall see the sore on the seventh day: if the sore have spread in the garment, either in the warp or in the woof, or in a skin, in any work that may be made of skin, the sore is a corroding leprosy: it is unclean.",
+    "reference": "Leviticus 13:51 (DBT)",
+    "connected_to": "Leviticus 13:52",
+    "connected_from": "Leviticus 13:50"
+  },
+  {
+    "text": "And they shall burn the garment, or the warp or the woof, of wool or of linen, or anything of skin, wherein the sore is; for it is a corroding leprosy: it shall be burned with fire.",
+    "reference": "Leviticus 13:52 (DBT)",
+    "connected_to": "Leviticus 13:53",
+    "connected_from": "Leviticus 13:51"
+  },
+  {
+    "text": "But if the priest look, and behold, the sore hath not spread in the garment, or in the warp, or in the woof, or in anything of skin,",
+    "reference": "Leviticus 13:53 (DBT)",
+    "connected_to": "Leviticus 13:54",
+    "connected_from": "Leviticus 13:52"
+  },
+  {
+    "text": "then the priest shall command that they wash the thing wherein the sore is, and he shall shut it up seven days a second time.",
+    "reference": "Leviticus 13:54 (DBT)",
+    "connected_to": "Leviticus 13:55",
+    "connected_from": "Leviticus 13:53"
+  },
+  {
+    "text": "And the priest shall look on the sore after the washing, and behold, if the sore have not changed its appearance, and the sore have not spread, it is unclean: thou shalt burn it with fire: it is a fretting sore on what is threadbare or where the nap is gone.",
+    "reference": "Leviticus 13:55 (DBT)",
+    "connected_to": "Leviticus 13:56",
+    "connected_from": "Leviticus 13:54"
+  },
+  {
+    "text": "But if the priest look, and behold, the sore hath become pale after the washing of it, then he shall rend it from the garment, or from the skin, or from the warp, or from the woof.",
+    "reference": "Leviticus 13:56 (DBT)",
+    "connected_to": "Leviticus 13:57",
+    "connected_from": "Leviticus 13:55"
+  },
+  {
+    "text": "And if it appear still in the garment, or in the warp, or in the woof, or in anything of skin, it is a [leprosy] breaking out: thou shalt burn with fire that wherein the sore is.",
+    "reference": "Leviticus 13:57 (DBT)",
+    "connected_to": "Leviticus 13:58",
+    "connected_from": "Leviticus 13:56"
+  },
+  {
+    "text": "But the garment, or the warp, or the woof, or whatever thing of skin which thou hast washed, and the sore departeth from them, it shall be washed a second time, and it is clean.",
+    "reference": "Leviticus 13:58 (DBT)",
+    "connected_to": "Leviticus 13:59",
+    "connected_from": "Leviticus 13:57"
+  },
+  {
+    "text": "This is the law of the sore of leprosy in a garment of wool or linen, or in the warp, or in the woof, or in anything of skin, to cleanse it, or to pronounce it unclean.",
+    "reference": "Leviticus 13:59 (DBT)",
+    "connected_from": "Leviticus 13:58"
+  }
+]

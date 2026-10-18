@@ -1,0 +1,60 @@
+[
+  {
+    "text": "Hear my voice, O God, in my prayer: preserve my life from fear of the enemy.",
+    "reference": "Psalm 64:1 (AKJV)",
+    "connected_to": "Psalm 64:2"
+  },
+  {
+    "text": "Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity:",
+    "reference": "Psalm 64:2 (AKJV)",
+    "connected_to": "Psalm 64:3",
+    "connected_from": "Psalm 64:1"
+  },
+  {
+    "text": "Who whet their tongue like a sword, and bend their bows to shoot their arrows, even bitter words:",
+    "reference": "Psalm 64:3 (AKJV)",
+    "connected_to": "Psalm 64:4",
+    "connected_from": "Psalm 64:2"
+  },
+  {
+    "text": "That they may shoot in secret at the perfect: suddenly do they shoot at him, and fear not.",
+    "reference": "Psalm 64:4 (AKJV)",
+    "connected_to": "Psalm 64:5",
+    "connected_from": "Psalm 64:3"
+  },
+  {
+    "text": "They encourage themselves in an evil matter: they commune of laying snares privately; they say, Who shall see them?",
+    "reference": "Psalm 64:5 (AKJV)",
+    "connected_to": "Psalm 64:6",
+    "connected_from": "Psalm 64:4"
+  },
+  {
+    "text": "They search out iniquities; they accomplish a diligent search: both the inward thought of every one of them, and the heart, is deep.",
+    "reference": "Psalm 64:6 (AKJV)",
+    "connected_to": "Psalm 64:7",
+    "connected_from": "Psalm 64:5"
+  },
+  {
+    "text": "But God shall shoot at them with an arrow; suddenly shall they be wounded.",
+    "reference": "Psalm 64:7 (AKJV)",
+    "connected_to": "Psalm 64:8",
+    "connected_from": "Psalm 64:6"
+  },
+  {
+    "text": "So they shall make their own tongue to fall on themselves: all that see them shall flee away.",
+    "reference": "Psalm 64:8 (AKJV)",
+    "connected_to": "Psalm 64:9",
+    "connected_from": "Psalm 64:7"
+  },
+  {
+    "text": "And all men shall fear, and shall declare the work of God; for they shall wisely consider of his doing.",
+    "reference": "Psalm 64:9 (AKJV)",
+    "connected_to": "Psalm 64:10",
+    "connected_from": "Psalm 64:8"
+  },
+  {
+    "text": "The righteous shall be glad in the LORD, and shall trust in him; and all the upright in heart shall glory.",
+    "reference": "Psalm 64:10 (AKJV)",
+    "connected_from": "Psalm 64:9"
+  }
+]

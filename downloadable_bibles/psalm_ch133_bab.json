@@ -1,0 +1,18 @@
+[
+  {
+    "text": "A song of ascents. Of David (beloved). <span class=|reftext|><a href=|#|><b>1</b></a> Behold, how good and pleasant it is when brothers live together in harmony!",
+    "reference": "Psalm 133:1 (BAB)",
+    "connected_to": "Psalm 133:2"
+  },
+  {
+    "text": "It is like fine oil on the head, running down on the beard, running down Aaron’s (light bringer) beard over the collar of his robes.",
+    "reference": "Psalm 133:2 (BAB)",
+    "connected_to": "Psalm 133:3",
+    "connected_from": "Psalm 133:1"
+  },
+  {
+    "text": "It is like the dew of Hermon (a sanctuary) falling on the mountains of Zion. For there the LORD {YHWH} has bestowed the blessing of life forevermore.",
+    "reference": "Psalm 133:3 (BAB)",
+    "connected_from": "Psalm 133:2"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "text": "Call, I pray thee! Is there any that answereth thee? and to which of the holy ones wilt thou turn?",
+    "reference": "Job 5:1 (DBT)",
+    "connected_to": "Job 5:2"
+  },
+  {
+    "text": "For vexation killeth the foolish man, and envy slayeth the simple.",
+    "reference": "Job 5:2 (DBT)",
+    "connected_to": "Job 5:3",
+    "connected_from": "Job 5:1"
+  },
+  {
+    "text": "I myself saw the foolish taking root, but suddenly I cursed his habitation.",
+    "reference": "Job 5:3 (DBT)",
+    "connected_to": "Job 5:4",
+    "connected_from": "Job 5:2"
+  },
+  {
+    "text": "His children are far from safety, and they are crushed in the gate, and there is no deliverer:",
+    "reference": "Job 5:4 (DBT)",
+    "connected_to": "Job 5:5",
+    "connected_from": "Job 5:3"
+  },
+  {
+    "text": "Whose harvest the hungry eateth up, and taketh even out of the thorns; and the snare gapeth for his substance.",
+    "reference": "Job 5:5 (DBT)",
+    "connected_to": "Job 5:6",
+    "connected_from": "Job 5:4"
+  },
+  {
+    "text": "For evil cometh not forth from the dust, neither doth trouble spring out of the ground;",
+    "reference": "Job 5:6 (DBT)",
+    "connected_to": "Job 5:7",
+    "connected_from": "Job 5:5"
+  },
+  {
+    "text": "For man is born to trouble, as the sparks fly upwards.",
+    "reference": "Job 5:7 (DBT)",
+    "connected_to": "Job 5:8",
+    "connected_from": "Job 5:6"
+  },
+  {
+    "text": "But as for me I will seek unto God, and unto God commit my cause;",
+    "reference": "Job 5:8 (DBT)",
+    "connected_to": "Job 5:9",
+    "connected_from": "Job 5:7"
+  },
+  {
+    "text": "Who doeth great things and unsearchable, marvellous things without number;",
+    "reference": "Job 5:9 (DBT)",
+    "connected_to": "Job 5:10",
+    "connected_from": "Job 5:8"
+  },
+  {
+    "text": "Who giveth rain on the face of the earth, and sendeth waters on the face of the fields;",
+    "reference": "Job 5:10 (DBT)",
+    "connected_to": "Job 5:11",
+    "connected_from": "Job 5:9"
+  },
+  {
+    "text": "Setting up on high those that are low; and mourners are exalted to prosperity.",
+    "reference": "Job 5:11 (DBT)",
+    "connected_to": "Job 5:12",
+    "connected_from": "Job 5:10"
+  },
+  {
+    "text": "He disappointeth the devices of the crafty, and their hands carry not out the enterprise.",
+    "reference": "Job 5:12 (DBT)",
+    "connected_to": "Job 5:13",
+    "connected_from": "Job 5:11"
+  },
+  {
+    "text": "He taketh the wise in their own craftiness; and the counsel of the wily is carried headlong:",
+    "reference": "Job 5:13 (DBT)",
+    "connected_to": "Job 5:14",
+    "connected_from": "Job 5:12"
+  },
+  {
+    "text": "They meet with darkness in a the daytime, and grope at midday as in the night.",
+    "reference": "Job 5:14 (DBT)",
+    "connected_to": "Job 5:15",
+    "connected_from": "Job 5:13"
+  },
+  {
+    "text": "And he saveth the needy from the sword, from their mouth, and from the hand of the mighty.",
+    "reference": "Job 5:15 (DBT)",
+    "connected_to": "Job 5:16",
+    "connected_from": "Job 5:14"
+  },
+  {
+    "text": "So the poor hath what he hopeth for, and unrighteousness stoppeth her mouth.",
+    "reference": "Job 5:16 (DBT)",
+    "connected_to": "Job 5:17",
+    "connected_from": "Job 5:15"
+  },
+  {
+    "text": "Behold, happy is the man whom +God correcteth; therefore despise not the chastening of the Almighty.",
+    "reference": "Job 5:17 (DBT)",
+    "connected_to": "Job 5:18",
+    "connected_from": "Job 5:16"
+  },
+  {
+    "text": "For he maketh sore, and bindeth up; he woundeth, and his hands make whole.",
+    "reference": "Job 5:18 (DBT)",
+    "connected_to": "Job 5:19",
+    "connected_from": "Job 5:17"
+  },
+  {
+    "text": "He will deliver thee in six troubles, and in seven there shall no evil touch thee.",
+    "reference": "Job 5:19 (DBT)",
+    "connected_to": "Job 5:20",
+    "connected_from": "Job 5:18"
+  },
+  {
+    "text": "In famine he will redeem thee from death, and in war from the power of the sword.",
+    "reference": "Job 5:20 (DBT)",
+    "connected_to": "Job 5:21",
+    "connected_from": "Job 5:19"
+  },
+  {
+    "text": "Thou shalt be hidden from the scourge of the tongue; and thou shalt not be afraid of destruction when it cometh.",
+    "reference": "Job 5:21 (DBT)",
+    "connected_to": "Job 5:22",
+    "connected_from": "Job 5:20"
+  },
+  {
+    "text": "At destruction and famine thou shalt laugh, and of the beasts of the earth thou shalt not be afraid.",
+    "reference": "Job 5:22 (DBT)",
+    "connected_to": "Job 5:23",
+    "connected_from": "Job 5:21"
+  },
+  {
+    "text": "For thou shalt be in league with the stones of the field, and the beasts of the field shall be at peace with thee.",
+    "reference": "Job 5:23 (DBT)",
+    "connected_to": "Job 5:24",
+    "connected_from": "Job 5:22"
+  },
+  {
+    "text": "And thou shalt know that thy tent is in peace; and thou wilt survey thy fold, and miss nothing.",
+    "reference": "Job 5:24 (DBT)",
+    "connected_to": "Job 5:25",
+    "connected_from": "Job 5:23"
+  },
+  {
+    "text": "And thou shalt know that thy seed is numerous, and thine offspring as the herb of the earth.",
+    "reference": "Job 5:25 (DBT)",
+    "connected_to": "Job 5:26",
+    "connected_from": "Job 5:24"
+  },
+  {
+    "text": "Thou shalt come to the grave in a ripe age, as a shock of corn is brought in in its season.",
+    "reference": "Job 5:26 (DBT)",
+    "connected_to": "Job 5:27",
+    "connected_from": "Job 5:25"
+  },
+  {
+    "text": "Behold this, we have searched it out, so it is; hear it, and know thou it for thyself.",
+    "reference": "Job 5:27 (DBT)",
+    "connected_from": "Job 5:26"
+  }
+]

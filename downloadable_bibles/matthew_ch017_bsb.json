@@ -1,0 +1,155 @@
+[
+  {
+    "text": "After six days Jesus took with Him Peter, James, and John the brother of James, and led them up a high mountain by themselves.",
+    "reference": "Matthew 17:1 (BSB)",
+    "connected_to": "Matthew 17:2"
+  },
+  {
+    "text": "There He was transfigured before them. His face shone like the sun, and His clothes became as white as the light.",
+    "reference": "Matthew 17:2 (BSB)",
+    "connected_to": "Matthew 17:3",
+    "connected_from": "Matthew 17:1"
+  },
+  {
+    "text": "Suddenly Moses and Elijah appeared before them, talking with Jesus.",
+    "reference": "Matthew 17:3 (BSB)",
+    "connected_to": "Matthew 17:4",
+    "connected_from": "Matthew 17:2"
+  },
+  {
+    "text": "Peter said to Jesus, “Lord, it is good for us to be here. If You wish, I will put up three shelters—one for You, one for Moses, and one for Elijah.”",
+    "reference": "Matthew 17:4 (BSB)",
+    "connected_to": "Matthew 17:5",
+    "connected_from": "Matthew 17:3"
+  },
+  {
+    "text": "While Peter was still speaking, a bright cloud enveloped them, and a voice from the cloud said, “This is My beloved Son, in whom I am well pleased. Listen to Him!”",
+    "reference": "Matthew 17:5 (BSB)",
+    "connected_to": "Matthew 17:6",
+    "connected_from": "Matthew 17:4"
+  },
+  {
+    "text": "When the disciples heard this, they fell facedown in terror.",
+    "reference": "Matthew 17:6 (BSB)",
+    "connected_to": "Matthew 17:7",
+    "connected_from": "Matthew 17:5"
+  },
+  {
+    "text": "Then Jesus came over and touched them. “Get up,” He said. “Do not be afraid.”",
+    "reference": "Matthew 17:7 (BSB)",
+    "connected_to": "Matthew 17:8",
+    "connected_from": "Matthew 17:6"
+  },
+  {
+    "text": "And when they looked up, they saw no one except Jesus.",
+    "reference": "Matthew 17:8 (BSB)",
+    "connected_to": "Matthew 17:9",
+    "connected_from": "Matthew 17:7"
+  },
+  {
+    "text": "As they were coming down the mountain, Jesus commanded them, “Do not tell anyone about this vision until the Son of Man has been raised from the dead.”",
+    "reference": "Matthew 17:9 (BSB)",
+    "connected_to": "Matthew 17:10",
+    "connected_from": "Matthew 17:8"
+  },
+  {
+    "text": "The disciples asked Him, “Why then do the scribes say that Elijah must come first?”",
+    "reference": "Matthew 17:10 (BSB)",
+    "connected_to": "Matthew 17:11",
+    "connected_from": "Matthew 17:9"
+  },
+  {
+    "text": "Jesus replied, “Elijah does indeed come, and he will restore all things.",
+    "reference": "Matthew 17:11 (BSB)",
+    "connected_to": "Matthew 17:12",
+    "connected_from": "Matthew 17:10"
+  },
+  {
+    "text": "But I tell you that Elijah has already come, and they did not recognize him, but have done to him whatever they wished. In the same way, the Son of Man will suffer at their hands.”",
+    "reference": "Matthew 17:12 (BSB)",
+    "connected_to": "Matthew 17:13",
+    "connected_from": "Matthew 17:11"
+  },
+  {
+    "text": "Then the disciples understood that He was speaking to them about John the Baptist.",
+    "reference": "Matthew 17:13 (BSB)",
+    "connected_to": "Matthew 17:14",
+    "connected_from": "Matthew 17:12"
+  },
+  {
+    "text": "When they came to the crowd, a man came up to Jesus and knelt before Him.",
+    "reference": "Matthew 17:14 (BSB)",
+    "connected_to": "Matthew 17:15",
+    "connected_from": "Matthew 17:13"
+  },
+  {
+    "text": "“Lord, have mercy on my son,” he said. “He has seizures and is suffering terribly. He often falls into the fire or into the water.",
+    "reference": "Matthew 17:15 (BSB)",
+    "connected_to": "Matthew 17:16",
+    "connected_from": "Matthew 17:14"
+  },
+  {
+    "text": "I brought him to Your disciples, but they could not heal him.”",
+    "reference": "Matthew 17:16 (BSB)",
+    "connected_to": "Matthew 17:17",
+    "connected_from": "Matthew 17:15"
+  },
+  {
+    "text": "“O unbelieving and perverse generation!” Jesus replied. “How long must I remain with you? How long must I put up with you? Bring the boy here to Me.”",
+    "reference": "Matthew 17:17 (BSB)",
+    "connected_to": "Matthew 17:18",
+    "connected_from": "Matthew 17:16"
+  },
+  {
+    "text": "Then Jesus rebuked the demon, and it came out of the boy, and he was healed from that moment.",
+    "reference": "Matthew 17:18 (BSB)",
+    "connected_to": "Matthew 17:19",
+    "connected_from": "Matthew 17:17"
+  },
+  {
+    "text": "Afterward the disciples came to Jesus privately and asked, “Why couldn’t we drive it out?”",
+    "reference": "Matthew 17:19 (BSB)",
+    "connected_to": "Matthew 17:20",
+    "connected_from": "Matthew 17:18"
+  },
+  {
+    "text": "“Because you have so little faith,” He answered. “For truly I tell you, if you have faith the size of a mustard seed, you can say to this mountain, ‘Move from here to there,’ and it will move. Nothing will be impossible for you.”",
+    "reference": "Matthew 17:20 (BSB)",
+    "connected_to": "Matthew 17:21",
+    "connected_from": "Matthew 17:19"
+  },
+  {
+    "text": "When they gathered together in Galilee, Jesus told them, “The Son of Man is about to be delivered into the hands of men.",
+    "reference": "Matthew 17:22 (BSB)",
+    "connected_to": "Matthew 17:23",
+    "connected_from": "Matthew 17:21"
+  },
+  {
+    "text": "They will kill Him, and on the third day He will be raised to life.” And the disciples were deeply grieved.",
+    "reference": "Matthew 17:23 (BSB)",
+    "connected_to": "Matthew 17:24",
+    "connected_from": "Matthew 17:22"
+  },
+  {
+    "text": "After they had arrived in Capernaum, the collectors of the two-drachma tax came to Peter and asked, “Does your Teacher pay the two drachmas?”",
+    "reference": "Matthew 17:24 (BSB)",
+    "connected_to": "Matthew 17:25",
+    "connected_from": "Matthew 17:23"
+  },
+  {
+    "text": "“Yes,” he answered. When Peter entered the house, Jesus preempted him. “What do you think, Simon?” He asked. “From whom do the kings of the earth collect customs and taxes: from their own sons, or from others?”",
+    "reference": "Matthew 17:25 (BSB)",
+    "connected_to": "Matthew 17:26",
+    "connected_from": "Matthew 17:24"
+  },
+  {
+    "text": "“From others,” Peter answered. “Then the sons are exempt,” Jesus said to him.",
+    "reference": "Matthew 17:26 (BSB)",
+    "connected_from": "Matthew 17:25"
+  },
+  {
+    "text": "“But so that we may not offend them, go to the sea, cast a hook, and take the first fish you catch. When you open its mouth, you will find a four-drachma coin. Take it and give it to them for My tax and yours.”",
+    "reference": "Matthew 17:27 (BSB)",
+    "connected_from": "Matthew 17:26"
+  }
+]

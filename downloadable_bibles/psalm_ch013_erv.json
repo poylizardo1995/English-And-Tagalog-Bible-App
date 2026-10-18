@@ -1,0 +1,36 @@
+[
+  {
+    "text": "For the Chief Musician. A Psalm of David. How long, O LORD, wilt thou forget me for ever? how long wilt thou hide thy face from me?",
+    "reference": "Psalm 13:1 (ERV)",
+    "connected_to": "Psalm 13:2"
+  },
+  {
+    "text": "How long shall I take counsel in my soul, having sorrow in my heart all the day? how long shall mine enemy be exalted over me?",
+    "reference": "Psalm 13:2 (ERV)",
+    "connected_to": "Psalm 13:3",
+    "connected_from": "Psalm 13:1"
+  },
+  {
+    "text": "Consider and answer me, O LORD my God: lighten mine eyes, lest I sleep the sleep of death;",
+    "reference": "Psalm 13:3 (ERV)",
+    "connected_to": "Psalm 13:4",
+    "connected_from": "Psalm 13:2"
+  },
+  {
+    "text": "Lest mine enemy say, I have prevailed against him; lest mine adversaries rejoice when I am moved.",
+    "reference": "Psalm 13:4 (ERV)",
+    "connected_to": "Psalm 13:5",
+    "connected_from": "Psalm 13:3"
+  },
+  {
+    "text": "But I have trusted in thy mercy; my heart shall rejoice in thy salvation:",
+    "reference": "Psalm 13:5 (ERV)",
+    "connected_to": "Psalm 13:6",
+    "connected_from": "Psalm 13:4"
+  },
+  {
+    "text": "I will sing unto the LORD, because he hath dealt bountifully with me.",
+    "reference": "Psalm 13:6 (ERV)",
+    "connected_from": "Psalm 13:5"
+  }
+]

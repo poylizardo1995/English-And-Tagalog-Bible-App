@@ -1,0 +1,60 @@
+[
+  {
+    "text": "And Jonah prayed to YHWH his God from the bowels of the fish,",
+    "reference": "Jonah 2:1 (BLB)",
+    "connected_to": "Jonah 2:2"
+  },
+  {
+    "text": "and he said: “I called out from the distress of mine to YHWH, and He answered me; from the belly of Sheol I cried out—You heard my voice.",
+    "reference": "Jonah 2:2 (BLB)",
+    "connected_to": "Jonah 2:3",
+    "connected_from": "Jonah 2:1"
+  },
+  {
+    "text": "And You cast me [into] the deep, into the heart of the seas, and the current surrounded me; all Your billows and Your waves passed over me.",
+    "reference": "Jonah 2:3 (BLB)",
+    "connected_to": "Jonah 2:4",
+    "connected_from": "Jonah 2:2"
+  },
+  {
+    "text": "And I said, ‘I have been driven out from before Your eyes; yet I will add to look toward the temple of Your holiness.’",
+    "reference": "Jonah 2:4 (BLB)",
+    "connected_to": "Jonah 2:5",
+    "connected_from": "Jonah 2:3"
+  },
+  {
+    "text": "The waters surrounded me up to the soul, the deep closed around me, the seaweed wrapped around my head.",
+    "reference": "Jonah 2:5 (BLB)",
+    "connected_to": "Jonah 2:6",
+    "connected_from": "Jonah 2:4"
+  },
+  {
+    "text": "To the bases of the mountains I went down; the earth with her bars [was] behind me forever. And You brought up my life from the pit, O YHWH my God.",
+    "reference": "Jonah 2:6 (BLB)",
+    "connected_to": "Jonah 2:7",
+    "connected_from": "Jonah 2:5"
+  },
+  {
+    "text": "At the fainting within me of my soul, I remembered YHWH; my prayer came in to You, to the temple of Your holiness.",
+    "reference": "Jonah 2:7 (BLB)",
+    "connected_to": "Jonah 2:8",
+    "connected_from": "Jonah 2:6"
+  },
+  {
+    "text": "Those guarding vanities of worthlessness leave behind their loving devotion.",
+    "reference": "Jonah 2:8 (BLB)",
+    "connected_to": "Jonah 2:9",
+    "connected_from": "Jonah 2:7"
+  },
+  {
+    "text": "And I, with a voice of thanksgiving, will sacrifice to You; what I have vowed, I will fulfill. Salvation [is] of YHWH.”",
+    "reference": "Jonah 2:9 (BLB)",
+    "connected_to": "Jonah 2:10",
+    "connected_from": "Jonah 2:8"
+  },
+  {
+    "text": "And YHWH spoke to the fish, and it vomited Jonah onto the dry land.",
+    "reference": "Jonah 2:10 (BLB)",
+    "connected_from": "Jonah 2:9"
+  }
+]

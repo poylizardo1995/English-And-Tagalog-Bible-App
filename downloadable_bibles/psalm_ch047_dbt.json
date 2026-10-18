@@ -1,0 +1,54 @@
+[
+  {
+    "text": "{To the chief Musician. Of the sons of Korah. A Psalm.} All ye peoples, clap your hands; shout unto God with the voice of triumph!",
+    "reference": "Psalm 47:1 (DBT)",
+    "connected_to": "Psalm 47:2"
+  },
+  {
+    "text": "For Jehovah, the Most High, is terrible, a great king over all the earth.",
+    "reference": "Psalm 47:2 (DBT)",
+    "connected_to": "Psalm 47:3",
+    "connected_from": "Psalm 47:1"
+  },
+  {
+    "text": "He subdueth the peoples under us, and the nations under our feet.",
+    "reference": "Psalm 47:3 (DBT)",
+    "connected_to": "Psalm 47:4",
+    "connected_from": "Psalm 47:2"
+  },
+  {
+    "text": "He hath chosen our inheritance for us, the excellency of Jacob whom he loved. Selah.",
+    "reference": "Psalm 47:4 (DBT)",
+    "connected_to": "Psalm 47:5",
+    "connected_from": "Psalm 47:3"
+  },
+  {
+    "text": "God is gone up amid shouting, Jehovah amid the sound of the trumpet.",
+    "reference": "Psalm 47:5 (DBT)",
+    "connected_to": "Psalm 47:6",
+    "connected_from": "Psalm 47:4"
+  },
+  {
+    "text": "Sing psalms of God, sing psalms; sing psalms unto our King, sing psalms!",
+    "reference": "Psalm 47:6 (DBT)",
+    "connected_to": "Psalm 47:7",
+    "connected_from": "Psalm 47:5"
+  },
+  {
+    "text": "For God is the King of all the earth; sing psalms with understanding.",
+    "reference": "Psalm 47:7 (DBT)",
+    "connected_to": "Psalm 47:8",
+    "connected_from": "Psalm 47:6"
+  },
+  {
+    "text": "God reigneth over the nations; God sitteth upon the throne of his holiness.",
+    "reference": "Psalm 47:8 (DBT)",
+    "connected_to": "Psalm 47:9",
+    "connected_from": "Psalm 47:7"
+  },
+  {
+    "text": "The willing-hearted of the peoples have gathered together, [with] the people of the God of Abraham. For unto God [belong] the shields of the earth: he is greatly exalted.",
+    "reference": "Psalm 47:9 (DBT)",
+    "connected_from": "Psalm 47:8"
+  }
+]

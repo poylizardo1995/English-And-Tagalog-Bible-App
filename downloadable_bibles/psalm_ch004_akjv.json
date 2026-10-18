@@ -1,0 +1,48 @@
+[
+  {
+    "text": "Hear me when I call, O God of my righteousness: you have enlarged me when I was in distress; have mercy on me, and hear my prayer.",
+    "reference": "Psalm 4:1 (AKJV)",
+    "connected_to": "Psalm 4:2"
+  },
+  {
+    "text": "O you sons of men, how long will you turn my glory into shame? how long will you love vanity, and seek after leasing? Selah.",
+    "reference": "Psalm 4:2 (AKJV)",
+    "connected_to": "Psalm 4:3",
+    "connected_from": "Psalm 4:1"
+  },
+  {
+    "text": "But know that the LORD has set apart him that is godly for himself: the LORD will hear when I call to him.",
+    "reference": "Psalm 4:3 (AKJV)",
+    "connected_to": "Psalm 4:4",
+    "connected_from": "Psalm 4:2"
+  },
+  {
+    "text": "Stand in awe, and sin not: commune with your own heart on your bed, and be still. Selah.",
+    "reference": "Psalm 4:4 (AKJV)",
+    "connected_to": "Psalm 4:5",
+    "connected_from": "Psalm 4:3"
+  },
+  {
+    "text": "Offer the sacrifices of righteousness, and put your trust in the LORD.",
+    "reference": "Psalm 4:5 (AKJV)",
+    "connected_to": "Psalm 4:6",
+    "connected_from": "Psalm 4:4"
+  },
+  {
+    "text": "There be many that say, Who will show us any good? LORD, lift you up the light of your countenance on us.",
+    "reference": "Psalm 4:6 (AKJV)",
+    "connected_to": "Psalm 4:7",
+    "connected_from": "Psalm 4:5"
+  },
+  {
+    "text": "You have put gladness in my heart, more than in the time that their corn and their wine increased.",
+    "reference": "Psalm 4:7 (AKJV)",
+    "connected_to": "Psalm 4:8",
+    "connected_from": "Psalm 4:6"
+  },
+  {
+    "text": "I will both lay me down in peace, and sleep: for you, LORD, only make me dwell in safety.",
+    "reference": "Psalm 4:8 (AKJV)",
+    "connected_from": "Psalm 4:7"
+  }
+]

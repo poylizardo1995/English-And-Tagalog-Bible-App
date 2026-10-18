@@ -1,0 +1,138 @@
+[
+  {
+    "text": "And Joseph was brought down to Egypt; and Potiphar, an officer of Pharaoh, captain of the guard, an Egyptian, bought him of the hands of the Ishmeelites, which had brought him down thither.",
+    "reference": "Genesis 39:1 (AKJV)",
+    "connected_to": "Genesis 39:2"
+  },
+  {
+    "text": "And the LORD was with Joseph, and he was a prosperous man; and he was in the house of his master the Egyptian.",
+    "reference": "Genesis 39:2 (AKJV)",
+    "connected_to": "Genesis 39:3",
+    "connected_from": "Genesis 39:1"
+  },
+  {
+    "text": "And his master saw that the LORD was with him, and that the LORD made all that he did to prosper in his hand.",
+    "reference": "Genesis 39:3 (AKJV)",
+    "connected_to": "Genesis 39:4",
+    "connected_from": "Genesis 39:2"
+  },
+  {
+    "text": "And Joseph found grace in his sight, and he served him: and he made him overseer over his house, and all that he had he put into his hand.",
+    "reference": "Genesis 39:4 (AKJV)",
+    "connected_to": "Genesis 39:5",
+    "connected_from": "Genesis 39:3"
+  },
+  {
+    "text": "And it came to pass from the time that he had made him overseer in his house, and over all that he had, that the LORD blessed the Egyptian’s house for Joseph’s sake; and the blessing of the LORD was on all that he had in the house, and in the field.",
+    "reference": "Genesis 39:5 (AKJV)",
+    "connected_to": "Genesis 39:6",
+    "connected_from": "Genesis 39:4"
+  },
+  {
+    "text": "And he left all that he had in Joseph’s hand; and he knew not ought he had, save the bread which he did eat. And Joseph was a goodly person, and well favored.",
+    "reference": "Genesis 39:6 (AKJV)",
+    "connected_to": "Genesis 39:7",
+    "connected_from": "Genesis 39:5"
+  },
+  {
+    "text": "And it came to pass after these things, that his master’s wife cast her eyes on Joseph; and she said, Lie with me.",
+    "reference": "Genesis 39:7 (AKJV)",
+    "connected_to": "Genesis 39:8",
+    "connected_from": "Genesis 39:6"
+  },
+  {
+    "text": "But he refused, and said to his master’s wife, Behold, my master wotteth not what is with me in the house, and he has committed all that he has to my hand;",
+    "reference": "Genesis 39:8 (AKJV)",
+    "connected_to": "Genesis 39:9",
+    "connected_from": "Genesis 39:7"
+  },
+  {
+    "text": "There is none greater in this house than I; neither has he kept back any thing from me but you, because you are his wife: how then can I do this great wickedness, and sin against God?",
+    "reference": "Genesis 39:9 (AKJV)",
+    "connected_to": "Genesis 39:10",
+    "connected_from": "Genesis 39:8"
+  },
+  {
+    "text": "And it came to pass, as she spoke to Joseph day by day, that he listened not to her, to lie by her, or to be with her.",
+    "reference": "Genesis 39:10 (AKJV)",
+    "connected_to": "Genesis 39:11",
+    "connected_from": "Genesis 39:9"
+  },
+  {
+    "text": "And it came to pass about this time, that Joseph went into the house to do his business; and there was none of the men of the house there within.",
+    "reference": "Genesis 39:11 (AKJV)",
+    "connected_to": "Genesis 39:12",
+    "connected_from": "Genesis 39:10"
+  },
+  {
+    "text": "And she caught him by his garment, saying, Lie with me: and he left his garment in her hand, and fled, and got him out.",
+    "reference": "Genesis 39:12 (AKJV)",
+    "connected_to": "Genesis 39:13",
+    "connected_from": "Genesis 39:11"
+  },
+  {
+    "text": "And it came to pass, when she saw that he had left his garment in her hand, and was fled forth,",
+    "reference": "Genesis 39:13 (AKJV)",
+    "connected_to": "Genesis 39:14",
+    "connected_from": "Genesis 39:12"
+  },
+  {
+    "text": "That she called to the men of her house, and spoke to them, saying, See, he has brought in an Hebrew to us to mock us; he came in to me to lie with me, and I cried with a loud voice:",
+    "reference": "Genesis 39:14 (AKJV)",
+    "connected_to": "Genesis 39:15",
+    "connected_from": "Genesis 39:13"
+  },
+  {
+    "text": "And it came to pass, when he heard that I lifted up my voice and cried, that he left his garment with me, and fled, and got him out.",
+    "reference": "Genesis 39:15 (AKJV)",
+    "connected_to": "Genesis 39:16",
+    "connected_from": "Genesis 39:14"
+  },
+  {
+    "text": "And she laid up his garment by her, until his lord came home.",
+    "reference": "Genesis 39:16 (AKJV)",
+    "connected_to": "Genesis 39:17",
+    "connected_from": "Genesis 39:15"
+  },
+  {
+    "text": "And she spoke to him according to these words, saying, The Hebrew servant, which you have brought to us, came in to me to mock me:",
+    "reference": "Genesis 39:17 (AKJV)",
+    "connected_to": "Genesis 39:18",
+    "connected_from": "Genesis 39:16"
+  },
+  {
+    "text": "And it came to pass, as I lifted up my voice and cried, that he left his garment with me, and fled out.",
+    "reference": "Genesis 39:18 (AKJV)",
+    "connected_to": "Genesis 39:19",
+    "connected_from": "Genesis 39:17"
+  },
+  {
+    "text": "And it came to pass, when his master heard the words of his wife, which she spoke to him, saying, After this manner did your servant to me; that his wrath was kindled.",
+    "reference": "Genesis 39:19 (AKJV)",
+    "connected_to": "Genesis 39:20",
+    "connected_from": "Genesis 39:18"
+  },
+  {
+    "text": "And Joseph’s master took him, and put him into the prison, a place where the king’s prisoners were bound: and he was there in the prison.",
+    "reference": "Genesis 39:20 (AKJV)",
+    "connected_to": "Genesis 39:21",
+    "connected_from": "Genesis 39:19"
+  },
+  {
+    "text": "But the LORD was with Joseph, and showed him mercy, and gave him favor in the sight of the keeper of the prison.",
+    "reference": "Genesis 39:21 (AKJV)",
+    "connected_to": "Genesis 39:22",
+    "connected_from": "Genesis 39:20"
+  },
+  {
+    "text": "And the keeper of the prison committed to Joseph’s hand all the prisoners that were in the prison; and whatever they did there, he was the doer of it.",
+    "reference": "Genesis 39:22 (AKJV)",
+    "connected_to": "Genesis 39:23",
+    "connected_from": "Genesis 39:21"
+  },
+  {
+    "text": "The keeper of the prison looked not to any thing that was under his hand; because the LORD was with him, and that which he did, the LORD made it to prosper.",
+    "reference": "Genesis 39:23 (AKJV)",
+    "connected_from": "Genesis 39:22"
+  }
+]

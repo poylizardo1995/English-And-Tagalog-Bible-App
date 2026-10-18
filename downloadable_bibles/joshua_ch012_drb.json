@@ -1,0 +1,144 @@
+[
+  {
+    "text": "These are the kings, whom the children of Israel slew and possessed their land beyond the Jordan towards the rising of the sun, from the torrent Arnon unto mount Hermon, and all the east country that looketh towards the wilderness.",
+    "reference": "Joshua 12:1 (DRB)",
+    "connected_to": "Joshua 12:2"
+  },
+  {
+    "text": "Sehon king of the Amorrhites, who dwelt in Hesebon, and had dominion from Aroer, which is seated upon the bank of the torrent Arnon, and of the middle part in the valley, and of half Galaad, as far as the torrent Jaboc, which is the border of the children of Ammon.",
+    "reference": "Joshua 12:2 (DRB)",
+    "connected_to": "Joshua 12:3",
+    "connected_from": "Joshua 12:1"
+  },
+  {
+    "text": "And from the wilderness, to the sea of Ceneroth towards the east, and to the sea of the wilderness, which is the most salt sea, on the east side by the way that leadeth to Bethsimoth: and on the south side that lieth under Asedoth, Phasga.",
+    "reference": "Joshua 12:3 (DRB)",
+    "connected_to": "Joshua 12:4",
+    "connected_from": "Joshua 12:2"
+  },
+  {
+    "text": "The border of Og the king of Basan, of the remnant of the Raphaims who dwelt in Astaroth, and in Edrai, and had dominion in mount Hermon, and in Salecha, and in all Basan, unto the herders",
+    "reference": "Joshua 12:4 (DRB)",
+    "connected_to": "Joshua 12:5",
+    "connected_from": "Joshua 12:3"
+  },
+  {
+    "text": "Of Gessuri and Machati, and of half Galaad: the borders of Sehon the king of Hesebon.",
+    "reference": "Joshua 12:5 (DRB)",
+    "connected_to": "Joshua 12:6",
+    "connected_from": "Joshua 12:4"
+  },
+  {
+    "text": "Moses the servant of the Lord, and the children of Israel slew them, and Moses delivered their land in possession to the Rubenites, and Gadites, and the half tribe of Manasses.",
+    "reference": "Joshua 12:6 (DRB)",
+    "connected_to": "Joshua 12:7",
+    "connected_from": "Joshua 12:5"
+  },
+  {
+    "text": "These are the kings of the land, whom Josue and the children of Israel slew beyond the Jordan on the west side from Baalgad in the held of Libanus, unto the mount, part of which goeth up into Seir: and Josue delivered it in possession to the tribes of Israel, to every one their divisions,",
+    "reference": "Joshua 12:7 (DRB)",
+    "connected_to": "Joshua 12:8",
+    "connected_from": "Joshua 12:6"
+  },
+  {
+    "text": "As well in the mountains as in the plains and the champaign countries. In Asedoth, and in the wilderness, and in the south was the Hethite and the Amorrhite, the Chanaanite and the Pherezite, the Hevite and the Jebusite.",
+    "reference": "Joshua 12:8 (DRB)",
+    "connected_to": "Joshua 12:9",
+    "connected_from": "Joshua 12:7"
+  },
+  {
+    "text": "The king of Jericho one: the king of Hai, which is on the side of Bethel, one:",
+    "reference": "Joshua 12:9 (DRB)",
+    "connected_to": "Joshua 12:10",
+    "connected_from": "Joshua 12:8"
+  },
+  {
+    "text": "The king of Jerusalem one, the king of Hebron one.",
+    "reference": "Joshua 12:10 (DRB)",
+    "connected_to": "Joshua 12:11",
+    "connected_from": "Joshua 12:9"
+  },
+  {
+    "text": "The king of Jerimoth one, the king of Lachis one,",
+    "reference": "Joshua 12:11 (DRB)",
+    "connected_to": "Joshua 12:12",
+    "connected_from": "Joshua 12:10"
+  },
+  {
+    "text": "The king of Eglon one, the king of Gazer one,",
+    "reference": "Joshua 12:12 (DRB)",
+    "connected_to": "Joshua 12:13",
+    "connected_from": "Joshua 12:11"
+  },
+  {
+    "text": "The king of Dabir one, the king of Gader one,",
+    "reference": "Joshua 12:13 (DRB)",
+    "connected_to": "Joshua 12:14",
+    "connected_from": "Joshua 12:12"
+  },
+  {
+    "text": "The king of Herma one, the king of Hered one,",
+    "reference": "Joshua 12:14 (DRB)",
+    "connected_to": "Joshua 12:15",
+    "connected_from": "Joshua 12:13"
+  },
+  {
+    "text": "The king of Lebna one, the king of Odullam one,",
+    "reference": "Joshua 12:15 (DRB)",
+    "connected_to": "Joshua 12:16",
+    "connected_from": "Joshua 12:14"
+  },
+  {
+    "text": "The king of Maceda one, the king of Bethel one,",
+    "reference": "Joshua 12:16 (DRB)",
+    "connected_to": "Joshua 12:17",
+    "connected_from": "Joshua 12:15"
+  },
+  {
+    "text": "The king of Taphua one, the king of Opher one,",
+    "reference": "Joshua 12:17 (DRB)",
+    "connected_to": "Joshua 12:18",
+    "connected_from": "Joshua 12:16"
+  },
+  {
+    "text": "The king of Aphec one, the king of Saron one,",
+    "reference": "Joshua 12:18 (DRB)",
+    "connected_to": "Joshua 12:19",
+    "connected_from": "Joshua 12:17"
+  },
+  {
+    "text": "The king of Madon one, the king of Asor one,",
+    "reference": "Joshua 12:19 (DRB)",
+    "connected_to": "Joshua 12:20",
+    "connected_from": "Joshua 12:18"
+  },
+  {
+    "text": "The king of Semeron one, the king of Achsaph one,",
+    "reference": "Joshua 12:20 (DRB)",
+    "connected_to": "Joshua 12:21",
+    "connected_from": "Joshua 12:19"
+  },
+  {
+    "text": "The king of Thenac one, the king of Megeddo one,",
+    "reference": "Joshua 12:21 (DRB)",
+    "connected_to": "Joshua 12:22",
+    "connected_from": "Joshua 12:20"
+  },
+  {
+    "text": "The king of Cades one, the king of Jachanan of Carmel one,",
+    "reference": "Joshua 12:22 (DRB)",
+    "connected_to": "Joshua 12:23",
+    "connected_from": "Joshua 12:21"
+  },
+  {
+    "text": "The king of Dor, and of the province of Dor one, the king of the nations of Galgal one,",
+    "reference": "Joshua 12:23 (DRB)",
+    "connected_to": "Joshua 12:24",
+    "connected_from": "Joshua 12:22"
+  },
+  {
+    "text": "The king of Thersa one: all the kings thirty and one.",
+    "reference": "Joshua 12:24 (DRB)",
+    "connected_from": "Joshua 12:23"
+  }
+]

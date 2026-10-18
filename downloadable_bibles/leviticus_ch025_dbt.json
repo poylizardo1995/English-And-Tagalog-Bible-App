@@ -1,0 +1,330 @@
+[
+  {
+    "text": "And Jehovah spoke to Moses in mount Sinai, saying,",
+    "reference": "Leviticus 25:1 (DBT)",
+    "connected_to": "Leviticus 25:2"
+  },
+  {
+    "text": "Speak unto the children of Israel and say unto them, When ye come into the land that I will give you, the land shall celebrate a sabbath to Jehovah.",
+    "reference": "Leviticus 25:2 (DBT)",
+    "connected_to": "Leviticus 25:3",
+    "connected_from": "Leviticus 25:1"
+  },
+  {
+    "text": "Six years shalt thou sow thy field, and six years shalt thou prune thy vineyard, and gather in the produce thereof,",
+    "reference": "Leviticus 25:3 (DBT)",
+    "connected_to": "Leviticus 25:4",
+    "connected_from": "Leviticus 25:2"
+  },
+  {
+    "text": "but in the seventh year shall be a sabbath of rest for the land, a sabbath to Jehovah. Thy field shalt thou not sow, and thy vineyard shalt thou not prune.",
+    "reference": "Leviticus 25:4 (DBT)",
+    "connected_to": "Leviticus 25:5",
+    "connected_from": "Leviticus 25:3"
+  },
+  {
+    "text": "That which springeth up from the scattered seed of thy harvest thou shalt not reap, and the grapes of thine undressed vines thou shalt not gather: a year of rest shall it be for the land.",
+    "reference": "Leviticus 25:5 (DBT)",
+    "connected_to": "Leviticus 25:6",
+    "connected_from": "Leviticus 25:4"
+  },
+  {
+    "text": "And the sabbath of the land shall be for food for you, for thee, and for thy bondman, and for thy handmaid, and for thy hired servant, and for him that dwelleth as a sojourner with thee, and for thy cattle,",
+    "reference": "Leviticus 25:6 (DBT)",
+    "connected_to": "Leviticus 25:7",
+    "connected_from": "Leviticus 25:5"
+  },
+  {
+    "text": "and for the beasts that are in thy land: all the produce thereof shall be for food.",
+    "reference": "Leviticus 25:7 (DBT)",
+    "connected_to": "Leviticus 25:8",
+    "connected_from": "Leviticus 25:6"
+  },
+  {
+    "text": "And thou shalt count seven sabbaths of years, seven times seven years; so that the days of the seven sabbaths of years be unto thee forty-nine years.",
+    "reference": "Leviticus 25:8 (DBT)",
+    "connected_to": "Leviticus 25:9",
+    "connected_from": "Leviticus 25:7"
+  },
+  {
+    "text": "Then shalt thou cause the loud sound of the trumpet to go forth in the seventh month, on the tenth of the month; on the day of atonement shall ye cause the trumpet to go forth throughout your land.",
+    "reference": "Leviticus 25:9 (DBT)",
+    "connected_to": "Leviticus 25:10",
+    "connected_from": "Leviticus 25:8"
+  },
+  {
+    "text": "And ye shall hallow the year of the fiftieth year, and proclaim liberty in the land unto all the inhabitants thereof; a [year of] jubilee shall it be unto you, and ye shall return every man unto his possession, and ye shall return every man unto his family;",
+    "reference": "Leviticus 25:10 (DBT)",
+    "connected_to": "Leviticus 25:11",
+    "connected_from": "Leviticus 25:9"
+  },
+  {
+    "text": "a year of jubilee shall that fiftieth year be unto you: ye shall not sow, neither reap its aftergrowth, nor gather [the fruit of] its undressed vines.",
+    "reference": "Leviticus 25:11 (DBT)",
+    "connected_to": "Leviticus 25:12",
+    "connected_from": "Leviticus 25:10"
+  },
+  {
+    "text": "For it is the jubilee; it shall be holy unto you; out of the field shall ye eat its produce.",
+    "reference": "Leviticus 25:12 (DBT)",
+    "connected_to": "Leviticus 25:13",
+    "connected_from": "Leviticus 25:11"
+  },
+  {
+    "text": "In this year of the jubilee ye shall return every man unto his possession.",
+    "reference": "Leviticus 25:13 (DBT)",
+    "connected_to": "Leviticus 25:14",
+    "connected_from": "Leviticus 25:12"
+  },
+  {
+    "text": "And if ye sell ought unto your neighbour, or buy of your neighbour’s hand, ye shall not overreach one another.",
+    "reference": "Leviticus 25:14 (DBT)",
+    "connected_to": "Leviticus 25:15",
+    "connected_from": "Leviticus 25:13"
+  },
+  {
+    "text": "According to the number of years since the jubilee, thou shalt buy of thy neighbour; according to the number of years of the produce, he shall sell unto thee.",
+    "reference": "Leviticus 25:15 (DBT)",
+    "connected_to": "Leviticus 25:16",
+    "connected_from": "Leviticus 25:14"
+  },
+  {
+    "text": "According to the greater number of the years, thou shalt increase the price thereof; and according to the fewness of years, thou shalt diminish the price of it; for it is the number of crops that he selleth unto thee.",
+    "reference": "Leviticus 25:16 (DBT)",
+    "connected_to": "Leviticus 25:17",
+    "connected_from": "Leviticus 25:15"
+  },
+  {
+    "text": "And ye shall not oppress one another; but thou shalt fear thy God; for I am Jehovah your God.",
+    "reference": "Leviticus 25:17 (DBT)",
+    "connected_to": "Leviticus 25:18",
+    "connected_from": "Leviticus 25:16"
+  },
+  {
+    "text": "And ye shall do my statutes, and observe mine ordinances and do them: thus shall ye dwell in your land securely.",
+    "reference": "Leviticus 25:18 (DBT)",
+    "connected_to": "Leviticus 25:19",
+    "connected_from": "Leviticus 25:17"
+  },
+  {
+    "text": "And the land shall yield its fruit, and ye shall eat and be satisfied, and dwell therein securely.",
+    "reference": "Leviticus 25:19 (DBT)",
+    "connected_to": "Leviticus 25:20",
+    "connected_from": "Leviticus 25:18"
+  },
+  {
+    "text": "And if ye say, What shall we eat in the seventh year? behold, we may not sow, nor gather in our produce;",
+    "reference": "Leviticus 25:20 (DBT)",
+    "connected_to": "Leviticus 25:21",
+    "connected_from": "Leviticus 25:19"
+  },
+  {
+    "text": "then I will command my blessing upon you in the sixth year, that it may bring forth produce for three years;",
+    "reference": "Leviticus 25:21 (DBT)",
+    "connected_to": "Leviticus 25:22",
+    "connected_from": "Leviticus 25:20"
+  },
+  {
+    "text": "and ye shall sow in the eighth year, and ye shall eat of the old fruit until the ninth year; until her produce come in, ye shall eat the old.",
+    "reference": "Leviticus 25:22 (DBT)",
+    "connected_to": "Leviticus 25:23",
+    "connected_from": "Leviticus 25:21"
+  },
+  {
+    "text": "And the land shall not be sold for ever; for the land is mine; for ye are strangers and sojourners with me.",
+    "reference": "Leviticus 25:23 (DBT)",
+    "connected_to": "Leviticus 25:24",
+    "connected_from": "Leviticus 25:22"
+  },
+  {
+    "text": "And in all the land of your possession ye shall grant a redemption for the land.",
+    "reference": "Leviticus 25:24 (DBT)",
+    "connected_to": "Leviticus 25:25",
+    "connected_from": "Leviticus 25:23"
+  },
+  {
+    "text": "If thy brother grow poor, and sell of his possession, then shall his redeemer, his nearest relation, come and redeem that which his brother sold.",
+    "reference": "Leviticus 25:25 (DBT)",
+    "connected_to": "Leviticus 25:26",
+    "connected_from": "Leviticus 25:24"
+  },
+  {
+    "text": "And if the man have no one having right of redemption, and his hand have acquired and found what sufficeth for its redemption,",
+    "reference": "Leviticus 25:26 (DBT)",
+    "connected_to": "Leviticus 25:27",
+    "connected_from": "Leviticus 25:25"
+  },
+  {
+    "text": "then shall he reckon the years since the sale thereof, and restore the overplus unto the man to whom he sold it; and so return unto his possession.",
+    "reference": "Leviticus 25:27 (DBT)",
+    "connected_to": "Leviticus 25:28",
+    "connected_from": "Leviticus 25:26"
+  },
+  {
+    "text": "And if his hand have not found what sufficeth for him to restore it to him, then that which is sold shall remain in the hand of the purchaser, until the year of jubilee; and in the jubilee it shall go out, and he shall return unto his possession.",
+    "reference": "Leviticus 25:28 (DBT)",
+    "connected_to": "Leviticus 25:29",
+    "connected_from": "Leviticus 25:27"
+  },
+  {
+    "text": "And if any one sell a dwelling-house in a walled city, then he shall have the right of redemption up to the end of the year of the sale thereof; for a full year shall he have the right of redemption.",
+    "reference": "Leviticus 25:29 (DBT)",
+    "connected_to": "Leviticus 25:30",
+    "connected_from": "Leviticus 25:28"
+  },
+  {
+    "text": "But if it be not redeemed until a whole year is complete, then the house that is in the walled city shall be established for ever to him that bought it, throughout his generations: it shall not go out in the jubilee.",
+    "reference": "Leviticus 25:30 (DBT)",
+    "connected_to": "Leviticus 25:31",
+    "connected_from": "Leviticus 25:29"
+  },
+  {
+    "text": "But the houses in villages that have no wall round about them shall be reckoned as the fields of the country: they may be redeemed, and they shall go out in the jubilee.",
+    "reference": "Leviticus 25:31 (DBT)",
+    "connected_to": "Leviticus 25:32",
+    "connected_from": "Leviticus 25:30"
+  },
+  {
+    "text": "But as to the cities of the Levites, the houses in the cities of their possession, the Levites shall have a perpetual right of redemption.",
+    "reference": "Leviticus 25:32 (DBT)",
+    "connected_to": "Leviticus 25:33",
+    "connected_from": "Leviticus 25:31"
+  },
+  {
+    "text": "And if any one redeem from one of the Levites, then the house that was sold, in the city of his possession, shall go out in the jubilee; for the houses of the cities of the Levites are their possession among the children of Israel.",
+    "reference": "Leviticus 25:33 (DBT)",
+    "connected_to": "Leviticus 25:34",
+    "connected_from": "Leviticus 25:32"
+  },
+  {
+    "text": "And the field of the suburbs of their cities shall not be sold; for it is their perpetual possession.",
+    "reference": "Leviticus 25:34 (DBT)",
+    "connected_to": "Leviticus 25:35",
+    "connected_from": "Leviticus 25:33"
+  },
+  {
+    "text": "And if thy brother grow poor, and he be fallen into decay beside thee, then thou shalt relieve him, [be he] stranger or sojourner, that he may live beside thee.",
+    "reference": "Leviticus 25:35 (DBT)",
+    "connected_to": "Leviticus 25:36",
+    "connected_from": "Leviticus 25:34"
+  },
+  {
+    "text": "Thou shalt take no usury nor increase of him; and thou shalt fear thy God; that thy brother may live beside thee.",
+    "reference": "Leviticus 25:36 (DBT)",
+    "connected_to": "Leviticus 25:37",
+    "connected_from": "Leviticus 25:35"
+  },
+  {
+    "text": "Thy money shalt thou not give him upon usury, nor lend him thy victuals for increase.",
+    "reference": "Leviticus 25:37 (DBT)",
+    "connected_to": "Leviticus 25:38",
+    "connected_from": "Leviticus 25:36"
+  },
+  {
+    "text": "I am Jehovah your God, who brought you forth out of the land of Egypt, to give you the land of Canaan, to be your God.",
+    "reference": "Leviticus 25:38 (DBT)",
+    "connected_to": "Leviticus 25:39",
+    "connected_from": "Leviticus 25:37"
+  },
+  {
+    "text": "And if thy brother grow poor beside thee, and be sold unto thee, thou shalt not compel him to serve as a bondservant:",
+    "reference": "Leviticus 25:39 (DBT)",
+    "connected_to": "Leviticus 25:40",
+    "connected_from": "Leviticus 25:38"
+  },
+  {
+    "text": "as a hired servant, as a sojourner, shall he be with thee; until the year of jubilee shall he serve thee.",
+    "reference": "Leviticus 25:40 (DBT)",
+    "connected_to": "Leviticus 25:41",
+    "connected_from": "Leviticus 25:39"
+  },
+  {
+    "text": "Then shall he depart from thee, he and his children with him, and shall return unto his own family, and unto the possession of his fathers shall he return.",
+    "reference": "Leviticus 25:41 (DBT)",
+    "connected_to": "Leviticus 25:42",
+    "connected_from": "Leviticus 25:40"
+  },
+  {
+    "text": "For they are my bondmen, whom I brought forth out of the land of Egypt: they shall not be sold as [men] sell bondmen.",
+    "reference": "Leviticus 25:42 (DBT)",
+    "connected_to": "Leviticus 25:43",
+    "connected_from": "Leviticus 25:41"
+  },
+  {
+    "text": "Thou shalt not rule over him with rigour; and thou shalt fear thy God.",
+    "reference": "Leviticus 25:43 (DBT)",
+    "connected_to": "Leviticus 25:44",
+    "connected_from": "Leviticus 25:42"
+  },
+  {
+    "text": "And as for thy bondman and thy handmaid whom thou shalt have—of the nations that are round about you, of them shall ye buy bondmen and handmaids.",
+    "reference": "Leviticus 25:44 (DBT)",
+    "connected_to": "Leviticus 25:45",
+    "connected_from": "Leviticus 25:43"
+  },
+  {
+    "text": "Moreover of the children of them that dwell as sojourners with you, of them may ye buy, and of their family that is with you, which they beget in your land, and they shall be your possession.",
+    "reference": "Leviticus 25:45 (DBT)",
+    "connected_to": "Leviticus 25:46",
+    "connected_from": "Leviticus 25:44"
+  },
+  {
+    "text": "And ye shall leave them as an inheritance to your children after you, to inherit them as a possession: these may ye make your bondmen for ever; but as for your brethren, the children of Israel, ye shall not rule over one another with rigour.",
+    "reference": "Leviticus 25:46 (DBT)",
+    "connected_to": "Leviticus 25:47",
+    "connected_from": "Leviticus 25:45"
+  },
+  {
+    "text": "And if a stranger or sojourner become wealthy beside thee, and thy brother beside him grow poor, and sell himself unto the stranger, who is settled by thee, or to a scion of the stranger’s family,",
+    "reference": "Leviticus 25:47 (DBT)",
+    "connected_to": "Leviticus 25:48",
+    "connected_from": "Leviticus 25:46"
+  },
+  {
+    "text": "after that he is sold there shall be right of redemption for him; one of his brethren may redeem him.",
+    "reference": "Leviticus 25:48 (DBT)",
+    "connected_to": "Leviticus 25:49",
+    "connected_from": "Leviticus 25:47"
+  },
+  {
+    "text": "Either his uncle or his uncle’s son may redeem him, or one of his next relations of his family may redeem him; or if his means be sufficient, he may redeem himself.",
+    "reference": "Leviticus 25:49 (DBT)",
+    "connected_to": "Leviticus 25:50",
+    "connected_from": "Leviticus 25:48"
+  },
+  {
+    "text": "And he shall reckon with him that bought him from the year that he was sold to him unto the year of jubilee; and the price of his sale shall be according to the number of the years, according to the days of a hired servant shall he be with him.",
+    "reference": "Leviticus 25:50 (DBT)",
+    "connected_to": "Leviticus 25:51",
+    "connected_from": "Leviticus 25:49"
+  },
+  {
+    "text": "If there are yet many years, according unto them shall he return his redemption [money] out of the money that he was bought for;",
+    "reference": "Leviticus 25:51 (DBT)",
+    "connected_to": "Leviticus 25:52",
+    "connected_from": "Leviticus 25:50"
+  },
+  {
+    "text": "and if there remain but few years unto the year of jubilee, then he shall reckon with him; according unto his [remaining] years [of service] shall he give him back his redemption [money].",
+    "reference": "Leviticus 25:52 (DBT)",
+    "connected_to": "Leviticus 25:53",
+    "connected_from": "Leviticus 25:51"
+  },
+  {
+    "text": "As a hired servant shall he be with him year by year; [his master] shall not rule with rigour over him before thine eyes.",
+    "reference": "Leviticus 25:53 (DBT)",
+    "connected_to": "Leviticus 25:54",
+    "connected_from": "Leviticus 25:52"
+  },
+  {
+    "text": "And if he be not redeemed in this manner, then he shall go out in the year of jubilee, he and his children with him.",
+    "reference": "Leviticus 25:54 (DBT)",
+    "connected_to": "Leviticus 25:55",
+    "connected_from": "Leviticus 25:53"
+  },
+  {
+    "text": "For the children of Israel are servants unto me; they are my servants whom I brought forth out of the land of Egypt: I am Jehovah your God.",
+    "reference": "Leviticus 25:55 (DBT)",
+    "connected_from": "Leviticus 25:54"
+  }
+]

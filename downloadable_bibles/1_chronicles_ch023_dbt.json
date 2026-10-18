@@ -1,0 +1,192 @@
+[
+  {
+    "text": "And David was old and full of days; and he made Solomon his son king over Israel.",
+    "reference": "1 Chronicles 23:1 (DBT)",
+    "connected_to": "1 Chronicles 23:2"
+  },
+  {
+    "text": "And he gathered together all the princes of Israel, with the priests and the Levites.",
+    "reference": "1 Chronicles 23:2 (DBT)",
+    "connected_to": "1 Chronicles 23:3",
+    "connected_from": "1 Chronicles 23:1"
+  },
+  {
+    "text": "And the Levites were numbered from thirty years old and upward; and their number, by their polls, man by man, was thirty-eight thousand.",
+    "reference": "1 Chronicles 23:3 (DBT)",
+    "connected_to": "1 Chronicles 23:4",
+    "connected_from": "1 Chronicles 23:2"
+  },
+  {
+    "text": "Of these, twenty-four thousand were to preside over the work of the house of Jehovah; and six thousand were officers and judges;",
+    "reference": "1 Chronicles 23:4 (DBT)",
+    "connected_to": "1 Chronicles 23:5",
+    "connected_from": "1 Chronicles 23:3"
+  },
+  {
+    "text": "and four thousand were doorkeepers; and four thousand praised Jehovah with the instruments which I made, [said David,] to praise [therewith].",
+    "reference": "1 Chronicles 23:5 (DBT)",
+    "connected_to": "1 Chronicles 23:6",
+    "connected_from": "1 Chronicles 23:4"
+  },
+  {
+    "text": "And David divided them into courses according to the sons of Levi: Gershon, Kohath, and Merari.",
+    "reference": "1 Chronicles 23:6 (DBT)",
+    "connected_to": "1 Chronicles 23:7",
+    "connected_from": "1 Chronicles 23:5"
+  },
+  {
+    "text": "Of the Gershonites: Laadan and Shimei.",
+    "reference": "1 Chronicles 23:7 (DBT)",
+    "connected_to": "1 Chronicles 23:8",
+    "connected_from": "1 Chronicles 23:6"
+  },
+  {
+    "text": "The sons of Laadan: the head was Jehiel, and Zetham, and Joel, three.",
+    "reference": "1 Chronicles 23:8 (DBT)",
+    "connected_to": "1 Chronicles 23:9",
+    "connected_from": "1 Chronicles 23:7"
+  },
+  {
+    "text": "The sons of Shimei: Shelomith, and Haziel, and Haran, three. These were the chief fathers of Laadan.",
+    "reference": "1 Chronicles 23:9 (DBT)",
+    "connected_to": "1 Chronicles 23:10",
+    "connected_from": "1 Chronicles 23:8"
+  },
+  {
+    "text": "And the sons of Shimei: Jahath, Ziza, and Jeush, and Beriah. These were the four sons of Shimei.",
+    "reference": "1 Chronicles 23:10 (DBT)",
+    "connected_to": "1 Chronicles 23:11",
+    "connected_from": "1 Chronicles 23:9"
+  },
+  {
+    "text": "And Jahath was the head, and Ziza the second; and Jeush and Beriah had not many sons: as father’s house, therefore, they were reckoned as one.",
+    "reference": "1 Chronicles 23:11 (DBT)",
+    "connected_to": "1 Chronicles 23:12",
+    "connected_from": "1 Chronicles 23:10"
+  },
+  {
+    "text": "The sons of Kohath: Amram, Jizhar, Hebron, and Uzziel, four.",
+    "reference": "1 Chronicles 23:12 (DBT)",
+    "connected_to": "1 Chronicles 23:13",
+    "connected_from": "1 Chronicles 23:11"
+  },
+  {
+    "text": "The sons of Amram: Aaron and Moses. And Aaron was separated, that he should be hallowed as most holy, he and his sons for ever, to offer before Jehovah, to do service to him, and to bless in his name for ever.",
+    "reference": "1 Chronicles 23:13 (DBT)",
+    "connected_to": "1 Chronicles 23:14",
+    "connected_from": "1 Chronicles 23:12"
+  },
+  {
+    "text": "And as to Moses the man of God, his sons were named of the tribe of Levi.",
+    "reference": "1 Chronicles 23:14 (DBT)",
+    "connected_to": "1 Chronicles 23:15",
+    "connected_from": "1 Chronicles 23:13"
+  },
+  {
+    "text": "The sons of Moses: Gershom and Eliezer.",
+    "reference": "1 Chronicles 23:15 (DBT)",
+    "connected_to": "1 Chronicles 23:16",
+    "connected_from": "1 Chronicles 23:14"
+  },
+  {
+    "text": "The sons of Gershom: Shebuel the head.",
+    "reference": "1 Chronicles 23:16 (DBT)",
+    "connected_to": "1 Chronicles 23:17",
+    "connected_from": "1 Chronicles 23:15"
+  },
+  {
+    "text": "And the sons of Eliezer: Rehabiah the head; and Eliezer had no other sons, but the sons of Rehabiah were very many.",
+    "reference": "1 Chronicles 23:17 (DBT)",
+    "connected_to": "1 Chronicles 23:18",
+    "connected_from": "1 Chronicles 23:16"
+  },
+  {
+    "text": "the sons of Jizhar: Shelomith the head.",
+    "reference": "1 Chronicles 23:18 (DBT)",
+    "connected_to": "1 Chronicles 23:19",
+    "connected_from": "1 Chronicles 23:17"
+  },
+  {
+    "text": "The sons of Hebron: Jeriah the head, Amariah the second, Jahaziel the third, and Jekameam the fourth.",
+    "reference": "1 Chronicles 23:19 (DBT)",
+    "connected_to": "1 Chronicles 23:20",
+    "connected_from": "1 Chronicles 23:18"
+  },
+  {
+    "text": "The sons of Uzziel: Micah the head, and Jishijah the second.",
+    "reference": "1 Chronicles 23:20 (DBT)",
+    "connected_to": "1 Chronicles 23:21",
+    "connected_from": "1 Chronicles 23:19"
+  },
+  {
+    "text": "The sons of Merari: Mahli and Mushi. The sons of Mahli: Eleazar and Kish.",
+    "reference": "1 Chronicles 23:21 (DBT)",
+    "connected_to": "1 Chronicles 23:22",
+    "connected_from": "1 Chronicles 23:20"
+  },
+  {
+    "text": "And Eleazar died, and had no sons, but daughters; and their brethren the sons of Kish took them.",
+    "reference": "1 Chronicles 23:22 (DBT)",
+    "connected_to": "1 Chronicles 23:23",
+    "connected_from": "1 Chronicles 23:21"
+  },
+  {
+    "text": "The sons of Mushi: Mahli, and Eder, and Jeremoth, three.",
+    "reference": "1 Chronicles 23:23 (DBT)",
+    "connected_to": "1 Chronicles 23:24",
+    "connected_from": "1 Chronicles 23:22"
+  },
+  {
+    "text": "These were the sons of Levi according to their fathers’ houses, the chief fathers, as they were reckoned, by number of names by their polls, who did the work of the service of the house of Jehovah, from twenty years old and upward.",
+    "reference": "1 Chronicles 23:24 (DBT)",
+    "connected_to": "1 Chronicles 23:25",
+    "connected_from": "1 Chronicles 23:23"
+  },
+  {
+    "text": "For David said, Jehovah the God of Israel has given rest to his people, and he will dwell in Jerusalem for ever;",
+    "reference": "1 Chronicles 23:25 (DBT)",
+    "connected_to": "1 Chronicles 23:26",
+    "connected_from": "1 Chronicles 23:24"
+  },
+  {
+    "text": "and the Levites also have no more to carry the tabernacle, nor any of its vessels for its service.",
+    "reference": "1 Chronicles 23:26 (DBT)",
+    "connected_to": "1 Chronicles 23:27",
+    "connected_from": "1 Chronicles 23:25"
+  },
+  {
+    "text": "For by the last words of David was this [done],—the numbering of the sons of Levi from twenty years old and upward.",
+    "reference": "1 Chronicles 23:27 (DBT)",
+    "connected_to": "1 Chronicles 23:28",
+    "connected_from": "1 Chronicles 23:26"
+  },
+  {
+    "text": "For their place was by the side of the sons of Aaron for the service of the house of Jehovah, over the courts, and over the chambers, and over the purifying of all holy things, and [for] the work of the service of the house of God;",
+    "reference": "1 Chronicles 23:28 (DBT)",
+    "connected_to": "1 Chronicles 23:29",
+    "connected_from": "1 Chronicles 23:27"
+  },
+  {
+    "text": "and for the loaves to be set in rows, and for the fine flour for the oblation, and for the unleavened cakes, and for [what is baked in] the pan, and for that which is saturated [with oil], and for all measure of capacity and size;",
+    "reference": "1 Chronicles 23:29 (DBT)",
+    "connected_to": "1 Chronicles 23:30",
+    "connected_from": "1 Chronicles 23:28"
+  },
+  {
+    "text": "and to stand every morning to thank and praise Jehovah, and likewise at even;",
+    "reference": "1 Chronicles 23:30 (DBT)",
+    "connected_to": "1 Chronicles 23:31",
+    "connected_from": "1 Chronicles 23:29"
+  },
+  {
+    "text": "and for all burnt-offerings offered up to Jehovah on the sabbaths, on the new moons, and on the set feasts, by number, according to the ordinance concerning them, continually, before Jehovah;",
+    "reference": "1 Chronicles 23:31 (DBT)",
+    "connected_to": "1 Chronicles 23:32",
+    "connected_from": "1 Chronicles 23:30"
+  },
+  {
+    "text": "and they kept the charge of the tent of meeting, and the charge of the sanctuary, and the charge of the sons of Aaron their brethren, in the service of the house of Jehovah.",
+    "reference": "1 Chronicles 23:32 (DBT)",
+    "connected_from": "1 Chronicles 23:31"
+  }
+]

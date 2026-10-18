@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Why do the nations rage and the peoples plot in vain?",
+    "reference": "Psalm 2:1 (BSB)",
+    "connected_to": "Psalm 2:2"
+  },
+  {
+    "text": "The kings of the earth take their stand and the rulers gather together, against the LORD and against His Anointed One:",
+    "reference": "Psalm 2:2 (BSB)",
+    "connected_to": "Psalm 2:3",
+    "connected_from": "Psalm 2:1"
+  },
+  {
+    "text": "“Let us break Their chains and cast away Their cords.”",
+    "reference": "Psalm 2:3 (BSB)",
+    "connected_to": "Psalm 2:4",
+    "connected_from": "Psalm 2:2"
+  },
+  {
+    "text": "The One enthroned in heaven laughs; the Lord taunts them.",
+    "reference": "Psalm 2:4 (BSB)",
+    "connected_to": "Psalm 2:5",
+    "connected_from": "Psalm 2:3"
+  },
+  {
+    "text": "Then He rebukes them in His anger, and terrifies them in His fury:",
+    "reference": "Psalm 2:5 (BSB)",
+    "connected_to": "Psalm 2:6",
+    "connected_from": "Psalm 2:4"
+  },
+  {
+    "text": "“I have installed My King on Zion, upon My holy mountain.”",
+    "reference": "Psalm 2:6 (BSB)",
+    "connected_to": "Psalm 2:7",
+    "connected_from": "Psalm 2:5"
+  },
+  {
+    "text": "I will proclaim the decree spoken to Me by the LORD: “You are My Son; today I have become Your Father.",
+    "reference": "Psalm 2:7 (BSB)",
+    "connected_to": "Psalm 2:8",
+    "connected_from": "Psalm 2:6"
+  },
+  {
+    "text": "Ask Me, and I will make the nations Your inheritance, the ends of the earth Your possession.",
+    "reference": "Psalm 2:8 (BSB)",
+    "connected_to": "Psalm 2:9",
+    "connected_from": "Psalm 2:7"
+  },
+  {
+    "text": "You will break them with an iron scepter; You will shatter them like pottery.”",
+    "reference": "Psalm 2:9 (BSB)",
+    "connected_to": "Psalm 2:10",
+    "connected_from": "Psalm 2:8"
+  },
+  {
+    "text": "Therefore be wise, O kings; be admonished, O judges of the earth.",
+    "reference": "Psalm 2:10 (BSB)",
+    "connected_to": "Psalm 2:11",
+    "connected_from": "Psalm 2:9"
+  },
+  {
+    "text": "Serve the LORD with fear, and rejoice with trembling.",
+    "reference": "Psalm 2:11 (BSB)",
+    "connected_to": "Psalm 2:12",
+    "connected_from": "Psalm 2:10"
+  },
+  {
+    "text": "Kiss the Son, lest He be angry and you perish in your rebellion, when His wrath ignites in an instant. Blessed are all who take refuge in Him.",
+    "reference": "Psalm 2:12 (BSB)",
+    "connected_from": "Psalm 2:11"
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "text": "BRETHREN, the will of my heart, indeed, and my prayer to God, is for them unto salvation.",
+    "reference": "Romans 10:1 (DRB)",
+    "connected_to": "Romans 10:2"
+  },
+  {
+    "text": "For I bear them witness, that they have a zeal of God, but not according to knowledge.",
+    "reference": "Romans 10:2 (DRB)",
+    "connected_to": "Romans 10:3",
+    "connected_from": "Romans 10:1"
+  },
+  {
+    "text": "For they, not knowing the justice of God, and seeking to establish their own, have not submitted themselves to the justice of God.",
+    "reference": "Romans 10:3 (DRB)",
+    "connected_to": "Romans 10:4",
+    "connected_from": "Romans 10:2"
+  },
+  {
+    "text": "For the end of the law is Christ, unto justice to every one that believeth.",
+    "reference": "Romans 10:4 (DRB)",
+    "connected_to": "Romans 10:5",
+    "connected_from": "Romans 10:3"
+  },
+  {
+    "text": "For Moses wrote, that the justice which is of the law, the man that shall do it, shall live by it.",
+    "reference": "Romans 10:5 (DRB)",
+    "connected_to": "Romans 10:6",
+    "connected_from": "Romans 10:4"
+  },
+  {
+    "text": "But the justice which is of faith, speaketh thus: Say not in thy heart, Who shall ascend into heaven? that is, to bring Christ down;",
+    "reference": "Romans 10:6 (DRB)",
+    "connected_to": "Romans 10:7",
+    "connected_from": "Romans 10:5"
+  },
+  {
+    "text": "Or who shall descend into the deep? that is, to bring up Christ again from the dead.",
+    "reference": "Romans 10:7 (DRB)",
+    "connected_to": "Romans 10:8",
+    "connected_from": "Romans 10:6"
+  },
+  {
+    "text": "But what saith the scripture? The word is nigh thee, even in thy mouth, and in thy heart. This is the word of faith, which we preach.",
+    "reference": "Romans 10:8 (DRB)",
+    "connected_to": "Romans 10:9",
+    "connected_from": "Romans 10:7"
+  },
+  {
+    "text": "For if thou confess with thy mouth the Lord Jesus, and believe in thy heart that God hath raised him up from the dead, thou shalt be saved.",
+    "reference": "Romans 10:9 (DRB)",
+    "connected_to": "Romans 10:10",
+    "connected_from": "Romans 10:8"
+  },
+  {
+    "text": "For, with the heart, we believe unto justice; but, with the mouth, confession is made unto salvation.",
+    "reference": "Romans 10:10 (DRB)",
+    "connected_to": "Romans 10:11",
+    "connected_from": "Romans 10:9"
+  },
+  {
+    "text": "For the scripture saith: Whosoever believeth in him, shall not be confounded.",
+    "reference": "Romans 10:11 (DRB)",
+    "connected_to": "Romans 10:12",
+    "connected_from": "Romans 10:10"
+  },
+  {
+    "text": "For there is no distinction of the Jew and the Greek: for the same is Lord over all, rich unto all that call upon him.",
+    "reference": "Romans 10:12 (DRB)",
+    "connected_to": "Romans 10:13",
+    "connected_from": "Romans 10:11"
+  },
+  {
+    "text": "For whosoever shall call upon the name of the Lord, shall be saved.",
+    "reference": "Romans 10:13 (DRB)",
+    "connected_to": "Romans 10:14",
+    "connected_from": "Romans 10:12"
+  },
+  {
+    "text": "How then shall they call on him, in whom they have not believed? Or how shall they believe him, of whom they have not heard? And how shall they hear, without a preacher?",
+    "reference": "Romans 10:14 (DRB)",
+    "connected_to": "Romans 10:15",
+    "connected_from": "Romans 10:13"
+  },
+  {
+    "text": "And how shall they preach unless they be sent, as it is written: How beautiful are the feet of them that preach the gospel of peace, of them that bring glad tidings of good things!",
+    "reference": "Romans 10:15 (DRB)",
+    "connected_to": "Romans 10:16",
+    "connected_from": "Romans 10:14"
+  },
+  {
+    "text": "But all do not obey the gospel. For Isaias saith: Lord, who hath believed our report?",
+    "reference": "Romans 10:16 (DRB)",
+    "connected_to": "Romans 10:17",
+    "connected_from": "Romans 10:15"
+  },
+  {
+    "text": "Faith then cometh by hearing; and hearing by the word of Christ.",
+    "reference": "Romans 10:17 (DRB)",
+    "connected_to": "Romans 10:18",
+    "connected_from": "Romans 10:16"
+  },
+  {
+    "text": "But I say: Have they not heard? Yes, verily, their sound hath gone forth into all the earth, and their words unto the ends of the whole world.",
+    "reference": "Romans 10:18 (DRB)",
+    "connected_to": "Romans 10:19",
+    "connected_from": "Romans 10:17"
+  },
+  {
+    "text": "But I say: Hath not Israel known? First, Moses saith: I will provoke you to jealousy by that which is not a nation; by a foolish nation I will anger you.",
+    "reference": "Romans 10:19 (DRB)",
+    "connected_to": "Romans 10:20",
+    "connected_from": "Romans 10:18"
+  },
+  {
+    "text": "But Isaias is bold, and saith: I was found by them that did not seek me: I appeared openly to them that asked not after me.",
+    "reference": "Romans 10:20 (DRB)",
+    "connected_to": "Romans 10:21",
+    "connected_from": "Romans 10:19"
+  },
+  {
+    "text": "But to Israel he saith: All the day long have I spread my hands to a people that believeth not, and contradicteth me.",
+    "reference": "Romans 10:21 (DRB)",
+    "connected_from": "Romans 10:20"
+  }
+]

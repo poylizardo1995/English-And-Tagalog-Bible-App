@@ -1,0 +1,408 @@
+[
+  {
+    "text": "And it shall come to pass, if you shall listen diligently to the voice of the LORD your God, to observe and to do all his commandments which I command you this day, that the LORD your God will set you on high above all nations of the earth:",
+    "reference": "Deuteronomy 28:1 (AKJV)",
+    "connected_to": "Deuteronomy 28:2"
+  },
+  {
+    "text": "And all these blessings shall come on you, and overtake you, if you shall listen to the voice of the LORD your God.",
+    "reference": "Deuteronomy 28:2 (AKJV)",
+    "connected_to": "Deuteronomy 28:3",
+    "connected_from": "Deuteronomy 28:1"
+  },
+  {
+    "text": "Blessed shall you be in the city, and blessed shall you be in the field.",
+    "reference": "Deuteronomy 28:3 (AKJV)",
+    "connected_to": "Deuteronomy 28:4",
+    "connected_from": "Deuteronomy 28:2"
+  },
+  {
+    "text": "Blessed shall be the fruit of your body, and the fruit of your ground, and the fruit of your cattle, the increase of your cows, and the flocks of your sheep.",
+    "reference": "Deuteronomy 28:4 (AKJV)",
+    "connected_to": "Deuteronomy 28:5",
+    "connected_from": "Deuteronomy 28:3"
+  },
+  {
+    "text": "Blessed shall be your basket and your store.",
+    "reference": "Deuteronomy 28:5 (AKJV)",
+    "connected_to": "Deuteronomy 28:6",
+    "connected_from": "Deuteronomy 28:4"
+  },
+  {
+    "text": "Blessed shall you be when you come in, and blessed shall you be when you go out.",
+    "reference": "Deuteronomy 28:6 (AKJV)",
+    "connected_to": "Deuteronomy 28:7",
+    "connected_from": "Deuteronomy 28:5"
+  },
+  {
+    "text": "The LORD shall cause your enemies that rise up against you to be smitten before your face: they shall come out against you one way, and flee before you seven ways.",
+    "reference": "Deuteronomy 28:7 (AKJV)",
+    "connected_to": "Deuteronomy 28:8",
+    "connected_from": "Deuteronomy 28:6"
+  },
+  {
+    "text": "The LORD shall command the blessing on you in your storehouses, and in all that you set your hand to; and he shall bless you in the land which the LORD your God gives you.",
+    "reference": "Deuteronomy 28:8 (AKJV)",
+    "connected_to": "Deuteronomy 28:9",
+    "connected_from": "Deuteronomy 28:7"
+  },
+  {
+    "text": "The LORD shall establish you an holy people to himself, as he has sworn to you, if you shall keep the commandments of the LORD your God, and walk in his ways.",
+    "reference": "Deuteronomy 28:9 (AKJV)",
+    "connected_to": "Deuteronomy 28:10",
+    "connected_from": "Deuteronomy 28:8"
+  },
+  {
+    "text": "And all people of the earth shall see that you are called by the name of the LORD; and they shall be afraid of you.",
+    "reference": "Deuteronomy 28:10 (AKJV)",
+    "connected_to": "Deuteronomy 28:11",
+    "connected_from": "Deuteronomy 28:9"
+  },
+  {
+    "text": "And the LORD shall make you plenteous in goods, in the fruit of your body, and in the fruit of your cattle, and in the fruit of your ground, in the land which the LORD swore to your fathers to give you.",
+    "reference": "Deuteronomy 28:11 (AKJV)",
+    "connected_to": "Deuteronomy 28:12",
+    "connected_from": "Deuteronomy 28:10"
+  },
+  {
+    "text": "The LORD shall open to you his good treasure, the heaven to give the rain to your land in his season, and to bless all the work of your hand: and you shall lend to many nations, and you shall not borrow.",
+    "reference": "Deuteronomy 28:12 (AKJV)",
+    "connected_to": "Deuteronomy 28:13",
+    "connected_from": "Deuteronomy 28:11"
+  },
+  {
+    "text": "And the LORD shall make you the head, and not the tail; and you shall be above only, and you shall not be beneath; if that you listen to the commandments of the LORD your God, which I command you this day, to observe and to do them:",
+    "reference": "Deuteronomy 28:13 (AKJV)",
+    "connected_to": "Deuteronomy 28:14",
+    "connected_from": "Deuteronomy 28:12"
+  },
+  {
+    "text": "And you shall not go aside from any of the words which I command you this day, to the right hand, or to the left, to go after other gods to serve them.",
+    "reference": "Deuteronomy 28:14 (AKJV)",
+    "connected_to": "Deuteronomy 28:15",
+    "connected_from": "Deuteronomy 28:13"
+  },
+  {
+    "text": "But it shall come to pass, if you will not listen to the voice of the LORD your God, to observe to do all his commandments and his statutes which I command you this day; that all these curses shall come on you, and overtake you:",
+    "reference": "Deuteronomy 28:15 (AKJV)",
+    "connected_to": "Deuteronomy 28:16",
+    "connected_from": "Deuteronomy 28:14"
+  },
+  {
+    "text": "Cursed shall you be in the city, and cursed shall you be in the field.",
+    "reference": "Deuteronomy 28:16 (AKJV)",
+    "connected_to": "Deuteronomy 28:17",
+    "connected_from": "Deuteronomy 28:15"
+  },
+  {
+    "text": "Cursed shall be your basket and your store.",
+    "reference": "Deuteronomy 28:17 (AKJV)",
+    "connected_to": "Deuteronomy 28:18",
+    "connected_from": "Deuteronomy 28:16"
+  },
+  {
+    "text": "Cursed shall be the fruit of your body, and the fruit of your land, the increase of your cows, and the flocks of your sheep.",
+    "reference": "Deuteronomy 28:18 (AKJV)",
+    "connected_to": "Deuteronomy 28:19",
+    "connected_from": "Deuteronomy 28:17"
+  },
+  {
+    "text": "Cursed shall you be when you come in, and cursed shall you be when you go out.",
+    "reference": "Deuteronomy 28:19 (AKJV)",
+    "connected_to": "Deuteronomy 28:20",
+    "connected_from": "Deuteronomy 28:18"
+  },
+  {
+    "text": "The LORD shall send on you cursing, vexation, and rebuke, in all that you set your hand to for to do, until you be destroyed, and until you perish quickly; because of the wickedness of your doings, whereby you have forsaken me.",
+    "reference": "Deuteronomy 28:20 (AKJV)",
+    "connected_to": "Deuteronomy 28:21",
+    "connected_from": "Deuteronomy 28:19"
+  },
+  {
+    "text": "The LORD shall make the pestilence stick to you, until he have consumed you from off the land, where you go to possess it.",
+    "reference": "Deuteronomy 28:21 (AKJV)",
+    "connected_to": "Deuteronomy 28:22",
+    "connected_from": "Deuteronomy 28:20"
+  },
+  {
+    "text": "The LORD shall smite you with a consumption, and with a fever, and with an inflammation, and with an extreme burning, and with the sword, and with blasting, and with mildew; and they shall pursue you until you perish.",
+    "reference": "Deuteronomy 28:22 (AKJV)",
+    "connected_to": "Deuteronomy 28:23",
+    "connected_from": "Deuteronomy 28:21"
+  },
+  {
+    "text": "And your heaven that is over your head shall be brass, and the earth that is under you shall be iron.",
+    "reference": "Deuteronomy 28:23 (AKJV)",
+    "connected_to": "Deuteronomy 28:24",
+    "connected_from": "Deuteronomy 28:22"
+  },
+  {
+    "text": "The LORD shall make the rain of your land powder and dust: from heaven shall it come down on you, until you be destroyed.",
+    "reference": "Deuteronomy 28:24 (AKJV)",
+    "connected_to": "Deuteronomy 28:25",
+    "connected_from": "Deuteronomy 28:23"
+  },
+  {
+    "text": "The LORD shall cause you to be smitten before your enemies: you shall go out one way against them, and flee seven ways before them: and shall be removed into all the kingdoms of the earth.",
+    "reference": "Deuteronomy 28:25 (AKJV)",
+    "connected_to": "Deuteronomy 28:26",
+    "connected_from": "Deuteronomy 28:24"
+  },
+  {
+    "text": "And your carcass shall be meat to all fowls of the air, and to the beasts of the earth, and no man shall fray them away.",
+    "reference": "Deuteronomy 28:26 (AKJV)",
+    "connected_to": "Deuteronomy 28:27",
+    "connected_from": "Deuteronomy 28:25"
+  },
+  {
+    "text": "The LORD will smite you with the botch of Egypt, and with the tumors, and with the scab, and with the itch, whereof you can not be healed.",
+    "reference": "Deuteronomy 28:27 (AKJV)",
+    "connected_to": "Deuteronomy 28:28",
+    "connected_from": "Deuteronomy 28:26"
+  },
+  {
+    "text": "The LORD shall smite you with madness, and blindness, and astonishment of heart:",
+    "reference": "Deuteronomy 28:28 (AKJV)",
+    "connected_to": "Deuteronomy 28:29",
+    "connected_from": "Deuteronomy 28:27"
+  },
+  {
+    "text": "And you shall grope at noonday, as the blind gropes in darkness, and you shall not prosper in your ways: and you shall be only oppressed and spoiled ever more, and no man shall save you.",
+    "reference": "Deuteronomy 28:29 (AKJV)",
+    "connected_to": "Deuteronomy 28:30",
+    "connected_from": "Deuteronomy 28:28"
+  },
+  {
+    "text": "You shall betroth a wife, and another man shall lie with her: you shall build an house, and you shall not dwell therein: you shall plant a vineyard, and shall not gather the grapes thereof.",
+    "reference": "Deuteronomy 28:30 (AKJV)",
+    "connected_to": "Deuteronomy 28:31",
+    "connected_from": "Deuteronomy 28:29"
+  },
+  {
+    "text": "Your ox shall be slain before your eyes, and you shall not eat thereof: your ass shall be violently taken away from before your face, and shall not be restored to you: your sheep shall be given to your enemies, and you shall have none to rescue them.",
+    "reference": "Deuteronomy 28:31 (AKJV)",
+    "connected_to": "Deuteronomy 28:32",
+    "connected_from": "Deuteronomy 28:30"
+  },
+  {
+    "text": "Your sons and your daughters shall be given to another people, and your eyes shall look, and fail with longing for them all the day long; and there shall be no might in your hand.",
+    "reference": "Deuteronomy 28:32 (AKJV)",
+    "connected_to": "Deuteronomy 28:33",
+    "connected_from": "Deuteronomy 28:31"
+  },
+  {
+    "text": "The fruit of your land, and all your labors, shall a nation which you know not eat up; and you shall be only oppressed and crushed always:",
+    "reference": "Deuteronomy 28:33 (AKJV)",
+    "connected_to": "Deuteronomy 28:34",
+    "connected_from": "Deuteronomy 28:32"
+  },
+  {
+    "text": "So that you shall be mad for the sight of your eyes which you shall see.",
+    "reference": "Deuteronomy 28:34 (AKJV)",
+    "connected_to": "Deuteronomy 28:35",
+    "connected_from": "Deuteronomy 28:33"
+  },
+  {
+    "text": "The LORD shall smite you in the knees, and in the legs, with a sore botch that cannot be healed, from the sole of your foot to the top of your head.",
+    "reference": "Deuteronomy 28:35 (AKJV)",
+    "connected_to": "Deuteronomy 28:36",
+    "connected_from": "Deuteronomy 28:34"
+  },
+  {
+    "text": "The LORD shall bring you, and your king which you shall set over you, to a nation which neither you nor your fathers have known; and there shall you serve other gods, wood and stone.",
+    "reference": "Deuteronomy 28:36 (AKJV)",
+    "connected_to": "Deuteronomy 28:37",
+    "connected_from": "Deuteronomy 28:35"
+  },
+  {
+    "text": "And you shall become an astonishment, a proverb, and a byword, among all nations where the LORD shall lead you.",
+    "reference": "Deuteronomy 28:37 (AKJV)",
+    "connected_to": "Deuteronomy 28:38",
+    "connected_from": "Deuteronomy 28:36"
+  },
+  {
+    "text": "You shall carry much seed out into the field, and shall gather but little in; for the locust shall consume it.",
+    "reference": "Deuteronomy 28:38 (AKJV)",
+    "connected_to": "Deuteronomy 28:39",
+    "connected_from": "Deuteronomy 28:37"
+  },
+  {
+    "text": "You shall plant vineyards, and dress them, but shall neither drink of the wine, nor gather the grapes; for the worms shall eat them.",
+    "reference": "Deuteronomy 28:39 (AKJV)",
+    "connected_to": "Deuteronomy 28:40",
+    "connected_from": "Deuteronomy 28:38"
+  },
+  {
+    "text": "You shall have olive trees throughout all your coasts, but you shall not anoint yourself with the oil; for your olive shall cast his fruit.",
+    "reference": "Deuteronomy 28:40 (AKJV)",
+    "connected_to": "Deuteronomy 28:41",
+    "connected_from": "Deuteronomy 28:39"
+  },
+  {
+    "text": "You shall beget sons and daughters, but you shall not enjoy them; for they shall go into captivity.",
+    "reference": "Deuteronomy 28:41 (AKJV)",
+    "connected_to": "Deuteronomy 28:42",
+    "connected_from": "Deuteronomy 28:40"
+  },
+  {
+    "text": "All your trees and fruit of your land shall the locust consume.",
+    "reference": "Deuteronomy 28:42 (AKJV)",
+    "connected_to": "Deuteronomy 28:43",
+    "connected_from": "Deuteronomy 28:41"
+  },
+  {
+    "text": "The stranger that is within you shall get up above you very high; and you shall come down very low.",
+    "reference": "Deuteronomy 28:43 (AKJV)",
+    "connected_to": "Deuteronomy 28:44",
+    "connected_from": "Deuteronomy 28:42"
+  },
+  {
+    "text": "He shall lend to you, and you shall not lend to him: he shall be the head, and you shall be the tail.",
+    "reference": "Deuteronomy 28:44 (AKJV)",
+    "connected_to": "Deuteronomy 28:45",
+    "connected_from": "Deuteronomy 28:43"
+  },
+  {
+    "text": "Moreover all these curses shall come on you, and shall pursue you, and overtake you, till you be destroyed; because you listened not to the voice of the LORD your God, to keep his commandments and his statutes which he commanded you:",
+    "reference": "Deuteronomy 28:45 (AKJV)",
+    "connected_to": "Deuteronomy 28:46",
+    "connected_from": "Deuteronomy 28:44"
+  },
+  {
+    "text": "And they shall be on you for a sign and for a wonder, and on your seed for ever.",
+    "reference": "Deuteronomy 28:46 (AKJV)",
+    "connected_to": "Deuteronomy 28:47",
+    "connected_from": "Deuteronomy 28:45"
+  },
+  {
+    "text": "Because you served not the LORD your God with joyfulness, and with gladness of heart, for the abundance of all things;",
+    "reference": "Deuteronomy 28:47 (AKJV)",
+    "connected_to": "Deuteronomy 28:48",
+    "connected_from": "Deuteronomy 28:46"
+  },
+  {
+    "text": "Therefore shall you serve your enemies which the LORD shall send against you, in hunger, and in thirst, and in nakedness, and in want of all things: and he shall put a yoke of iron on your neck, until he have destroyed you.",
+    "reference": "Deuteronomy 28:48 (AKJV)",
+    "connected_to": "Deuteronomy 28:49",
+    "connected_from": "Deuteronomy 28:47"
+  },
+  {
+    "text": "The LORD shall bring a nation against you from far, from the end of the earth, as swift as the eagle flies; a nation whose tongue you shall not understand;",
+    "reference": "Deuteronomy 28:49 (AKJV)",
+    "connected_to": "Deuteronomy 28:50",
+    "connected_from": "Deuteronomy 28:48"
+  },
+  {
+    "text": "A nation of fierce countenance, which shall not regard the person of the old, nor show favor to the young:",
+    "reference": "Deuteronomy 28:50 (AKJV)",
+    "connected_to": "Deuteronomy 28:51",
+    "connected_from": "Deuteronomy 28:49"
+  },
+  {
+    "text": "And he shall eat the fruit of your cattle, and the fruit of your land, until you be destroyed: which also shall not leave you either corn, wine, or oil, or the increase of your cows, or flocks of your sheep, until he have destroyed you.",
+    "reference": "Deuteronomy 28:51 (AKJV)",
+    "connected_to": "Deuteronomy 28:52",
+    "connected_from": "Deuteronomy 28:50"
+  },
+  {
+    "text": "And he shall besiege you in all your gates, until your high and fenced walls come down, wherein you trusted, throughout all your land: and he shall besiege you in all your gates throughout all your land, which the LORD your God has given you.",
+    "reference": "Deuteronomy 28:52 (AKJV)",
+    "connected_to": "Deuteronomy 28:53",
+    "connected_from": "Deuteronomy 28:51"
+  },
+  {
+    "text": "And you shall eat the fruit of your own body, the flesh of your sons and of your daughters, which the LORD your God has given you, in the siege, and in the narrow place, with which your enemies shall distress you:",
+    "reference": "Deuteronomy 28:53 (AKJV)",
+    "connected_to": "Deuteronomy 28:54",
+    "connected_from": "Deuteronomy 28:52"
+  },
+  {
+    "text": "So that the man that is tender among you, and very delicate, his eye shall be evil toward his brother, and toward the wife of his bosom, and toward the remnant of his children which he shall leave:",
+    "reference": "Deuteronomy 28:54 (AKJV)",
+    "connected_to": "Deuteronomy 28:55",
+    "connected_from": "Deuteronomy 28:53"
+  },
+  {
+    "text": "So that he will not give to any of them of the flesh of his children whom he shall eat: because he has nothing left him in the siege, and in the narrow place, with which your enemies shall distress you in all your gates.",
+    "reference": "Deuteronomy 28:55 (AKJV)",
+    "connected_to": "Deuteronomy 28:56",
+    "connected_from": "Deuteronomy 28:54"
+  },
+  {
+    "text": "The tender and delicate woman among you, which would not adventure to set the sole of her foot on the ground for delicateness and tenderness, her eye shall be evil toward the husband of her bosom, and toward her son, and toward her daughter,",
+    "reference": "Deuteronomy 28:56 (AKJV)",
+    "connected_to": "Deuteronomy 28:57",
+    "connected_from": "Deuteronomy 28:55"
+  },
+  {
+    "text": "And toward her young one that comes out from between her feet, and toward her children which she shall bear: for she shall eat them for want of all things secretly in the siege and narrow place, with which your enemy shall distress you in your gates.",
+    "reference": "Deuteronomy 28:57 (AKJV)",
+    "connected_to": "Deuteronomy 28:58",
+    "connected_from": "Deuteronomy 28:56"
+  },
+  {
+    "text": "If you will not observe to do all the words of this law that are written in this book, that you may fear this glorious and fearful name, THE LORD THY GOD;",
+    "reference": "Deuteronomy 28:58 (AKJV)",
+    "connected_to": "Deuteronomy 28:59",
+    "connected_from": "Deuteronomy 28:57"
+  },
+  {
+    "text": "Then the LORD will make your plagues wonderful, and the plagues of your seed, even great plagues, and of long continuance, and sore sicknesses, and of long continuance.",
+    "reference": "Deuteronomy 28:59 (AKJV)",
+    "connected_to": "Deuteronomy 28:60",
+    "connected_from": "Deuteronomy 28:58"
+  },
+  {
+    "text": "Moreover he will bring on you all the diseases of Egypt, which you were afraid of; and they shall stick to you.",
+    "reference": "Deuteronomy 28:60 (AKJV)",
+    "connected_to": "Deuteronomy 28:61",
+    "connected_from": "Deuteronomy 28:59"
+  },
+  {
+    "text": "Also every sickness, and every plague, which is not written in the book of this law, them will the LORD bring on you, until you be destroyed.",
+    "reference": "Deuteronomy 28:61 (AKJV)",
+    "connected_to": "Deuteronomy 28:62",
+    "connected_from": "Deuteronomy 28:60"
+  },
+  {
+    "text": "And you shall be left few in number, whereas you were as the stars of heaven for multitude; because you would not obey the voice of the LORD your God.",
+    "reference": "Deuteronomy 28:62 (AKJV)",
+    "connected_to": "Deuteronomy 28:63",
+    "connected_from": "Deuteronomy 28:61"
+  },
+  {
+    "text": "And it shall come to pass, that as the LORD rejoiced over you to do you good, and to multiply you; so the LORD will rejoice over you to destroy you, and to bring you to nothing; and you shall be plucked from off the land where you go to possess it.",
+    "reference": "Deuteronomy 28:63 (AKJV)",
+    "connected_to": "Deuteronomy 28:64",
+    "connected_from": "Deuteronomy 28:62"
+  },
+  {
+    "text": "And the LORD shall scatter you among all people, from the one end of the earth even to the other; and there you shall serve other gods, which neither you nor your fathers have known, even wood and stone.",
+    "reference": "Deuteronomy 28:64 (AKJV)",
+    "connected_to": "Deuteronomy 28:65",
+    "connected_from": "Deuteronomy 28:63"
+  },
+  {
+    "text": "And among these nations shall you find no ease, neither shall the sole of your foot have rest: but the LORD shall give you there a trembling heart, and failing of eyes, and sorrow of mind:",
+    "reference": "Deuteronomy 28:65 (AKJV)",
+    "connected_to": "Deuteronomy 28:66",
+    "connected_from": "Deuteronomy 28:64"
+  },
+  {
+    "text": "And your life shall hang in doubt before you; and you shall fear day and night, and shall have none assurance of your life:",
+    "reference": "Deuteronomy 28:66 (AKJV)",
+    "connected_to": "Deuteronomy 28:67",
+    "connected_from": "Deuteronomy 28:65"
+  },
+  {
+    "text": "In the morning you shall say, Would God it were even! and at even you shall say, Would God it were morning! for the fear of your heart with which you shall fear, and for the sight of your eyes which you shall see.",
+    "reference": "Deuteronomy 28:67 (AKJV)",
+    "connected_to": "Deuteronomy 28:68",
+    "connected_from": "Deuteronomy 28:66"
+  },
+  {
+    "text": "And the LORD shall bring you into Egypt again with ships, by the way whereof I spoke to you, You shall see it no more again: and there you shall be sold to your enemies for slaves and bondwomen, and no man shall buy you.",
+    "reference": "Deuteronomy 28:68 (AKJV)",
+    "connected_from": "Deuteronomy 28:67"
+  }
+]

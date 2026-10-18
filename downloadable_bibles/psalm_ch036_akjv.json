@@ -1,0 +1,72 @@
+[
+  {
+    "text": "The transgression of the wicked said within my heart, that there is no fear of God before his eyes.",
+    "reference": "Psalm 36:1 (AKJV)",
+    "connected_to": "Psalm 36:2"
+  },
+  {
+    "text": "For he flatters himself in his own eyes, until his iniquity be found to be hateful.",
+    "reference": "Psalm 36:2 (AKJV)",
+    "connected_to": "Psalm 36:3",
+    "connected_from": "Psalm 36:1"
+  },
+  {
+    "text": "The words of his mouth are iniquity and deceit: he has left off to be wise, and to do good.",
+    "reference": "Psalm 36:3 (AKJV)",
+    "connected_to": "Psalm 36:4",
+    "connected_from": "Psalm 36:2"
+  },
+  {
+    "text": "He devises mischief on his bed; he sets himself in a way that is not good; he abhors not evil.",
+    "reference": "Psalm 36:4 (AKJV)",
+    "connected_to": "Psalm 36:5",
+    "connected_from": "Psalm 36:3"
+  },
+  {
+    "text": "Your mercy, O LORD, is in the heavens; and your faithfulness reaches to the clouds.",
+    "reference": "Psalm 36:5 (AKJV)",
+    "connected_to": "Psalm 36:6",
+    "connected_from": "Psalm 36:4"
+  },
+  {
+    "text": "Your righteousness is like the great mountains; your judgments are a great deep: O LORD, you preserve man and beast.",
+    "reference": "Psalm 36:6 (AKJV)",
+    "connected_to": "Psalm 36:7",
+    "connected_from": "Psalm 36:5"
+  },
+  {
+    "text": "How excellent is your loving kindness, O God! therefore the children of men put their trust under the shadow of your wings.",
+    "reference": "Psalm 36:7 (AKJV)",
+    "connected_to": "Psalm 36:8",
+    "connected_from": "Psalm 36:6"
+  },
+  {
+    "text": "They shall be abundantly satisfied with the fatness of your house; and you shall make them drink of the river of your pleasures.",
+    "reference": "Psalm 36:8 (AKJV)",
+    "connected_to": "Psalm 36:9",
+    "connected_from": "Psalm 36:7"
+  },
+  {
+    "text": "For with you is the fountain of life: in your light shall we see light.",
+    "reference": "Psalm 36:9 (AKJV)",
+    "connected_to": "Psalm 36:10",
+    "connected_from": "Psalm 36:8"
+  },
+  {
+    "text": "O continue your loving kindness to them that know you; and your righteousness to the upright in heart.",
+    "reference": "Psalm 36:10 (AKJV)",
+    "connected_to": "Psalm 36:11",
+    "connected_from": "Psalm 36:9"
+  },
+  {
+    "text": "Let not the foot of pride come against me, and let not the hand of the wicked remove me.",
+    "reference": "Psalm 36:11 (AKJV)",
+    "connected_to": "Psalm 36:12",
+    "connected_from": "Psalm 36:10"
+  },
+  {
+    "text": "There are the workers of iniquity fallen: they are cast down, and shall not be able to rise.",
+    "reference": "Psalm 36:12 (AKJV)",
+    "connected_from": "Psalm 36:11"
+  }
+]

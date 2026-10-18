@@ -1,0 +1,66 @@
+[
+  {
+    "text": "Preserve me, O God: for in you do I put my trust.",
+    "reference": "Psalm 16:1 (AKJV)",
+    "connected_to": "Psalm 16:2"
+  },
+  {
+    "text": "O my soul, you have said to the LORD, You are my Lord: my goodness extends not to you;",
+    "reference": "Psalm 16:2 (AKJV)",
+    "connected_to": "Psalm 16:3",
+    "connected_from": "Psalm 16:1"
+  },
+  {
+    "text": "But to the saints that are in the earth, and to the excellent, in whom is all my delight.",
+    "reference": "Psalm 16:3 (AKJV)",
+    "connected_to": "Psalm 16:4",
+    "connected_from": "Psalm 16:2"
+  },
+  {
+    "text": "Their sorrows shall be multiplied that hasten after another god: their drink offerings of blood will I not offer, nor take up their names into my lips.",
+    "reference": "Psalm 16:4 (AKJV)",
+    "connected_to": "Psalm 16:5",
+    "connected_from": "Psalm 16:3"
+  },
+  {
+    "text": "The LORD is the portion of my inheritance and of my cup: you maintain my lot.",
+    "reference": "Psalm 16:5 (AKJV)",
+    "connected_to": "Psalm 16:6",
+    "connected_from": "Psalm 16:4"
+  },
+  {
+    "text": "The lines are fallen to me in pleasant places; yes, I have a goodly heritage.",
+    "reference": "Psalm 16:6 (AKJV)",
+    "connected_to": "Psalm 16:7",
+    "connected_from": "Psalm 16:5"
+  },
+  {
+    "text": "I will bless the LORD, who has given me counsel: my reins also instruct me in the night seasons.",
+    "reference": "Psalm 16:7 (AKJV)",
+    "connected_to": "Psalm 16:8",
+    "connected_from": "Psalm 16:6"
+  },
+  {
+    "text": "I have set the LORD always before me: because he is at my right hand, I shall not be moved.",
+    "reference": "Psalm 16:8 (AKJV)",
+    "connected_to": "Psalm 16:9",
+    "connected_from": "Psalm 16:7"
+  },
+  {
+    "text": "Therefore my heart is glad, and my glory rejoices: my flesh also shall rest in hope.",
+    "reference": "Psalm 16:9 (AKJV)",
+    "connected_to": "Psalm 16:10",
+    "connected_from": "Psalm 16:8"
+  },
+  {
+    "text": "For you will not leave my soul in hell; neither will you suffer your Holy One to see corruption.",
+    "reference": "Psalm 16:10 (AKJV)",
+    "connected_to": "Psalm 16:11",
+    "connected_from": "Psalm 16:9"
+  },
+  {
+    "text": "You will show me the path of life: in your presence is fullness of joy; at your right hand there are pleasures for ever more.",
+    "reference": "Psalm 16:11 (AKJV)",
+    "connected_from": "Psalm 16:10"
+  }
+]

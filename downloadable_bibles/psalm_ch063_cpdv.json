@@ -1,0 +1,66 @@
+[
+  {
+    "text": "A Psalm of David, when he was in the desert of Idumea. O God, my God: to you, I keep vigil until first light. For you, my soul has thirsted, to you my body, in so many ways.",
+    "reference": "Psalm 63:1 (CPDV)",
+    "connected_to": "Psalm 63:2"
+  },
+  {
+    "text": "By a deserted land, both inaccessible and waterless, so I have appeared in the sanctuary before you, in order to behold your virtue and your glory.",
+    "reference": "Psalm 63:2 (CPDV)",
+    "connected_to": "Psalm 63:3",
+    "connected_from": "Psalm 63:1"
+  },
+  {
+    "text": "For your mercy is better than life itself. It is you my lips will praise.",
+    "reference": "Psalm 63:3 (CPDV)",
+    "connected_to": "Psalm 63:4",
+    "connected_from": "Psalm 63:2"
+  },
+  {
+    "text": "So will I bless you in my life, and I will lift up my hands in your name.",
+    "reference": "Psalm 63:4 (CPDV)",
+    "connected_to": "Psalm 63:5",
+    "connected_from": "Psalm 63:3"
+  },
+  {
+    "text": "Let my soul be filled, as if with marrow and fatness; and my mouth will give praise with exultant lips.",
+    "reference": "Psalm 63:5 (CPDV)",
+    "connected_to": "Psalm 63:6",
+    "connected_from": "Psalm 63:4"
+  },
+  {
+    "text": "When I have remembered you on my bed in the morning, I will meditate on you.",
+    "reference": "Psalm 63:6 (CPDV)",
+    "connected_to": "Psalm 63:7",
+    "connected_from": "Psalm 63:5"
+  },
+  {
+    "text": "For you have been my helper. And I will exult under the cover of your wings.",
+    "reference": "Psalm 63:7 (CPDV)",
+    "connected_to": "Psalm 63:8",
+    "connected_from": "Psalm 63:6"
+  },
+  {
+    "text": "My soul has clung close to you. Your right hand has supported me.",
+    "reference": "Psalm 63:8 (CPDV)",
+    "connected_to": "Psalm 63:9",
+    "connected_from": "Psalm 63:7"
+  },
+  {
+    "text": "Truly, these ones have sought my soul in vain. They will enter into the lower parts of the earth.",
+    "reference": "Psalm 63:9 (CPDV)",
+    "connected_to": "Psalm 63:10",
+    "connected_from": "Psalm 63:8"
+  },
+  {
+    "text": "They will be delivered into the hand of the sword. They will be the portions of foxes.",
+    "reference": "Psalm 63:10 (CPDV)",
+    "connected_to": "Psalm 63:11",
+    "connected_from": "Psalm 63:9"
+  },
+  {
+    "text": "Truly, the king will rejoice in God: all those who swear by him will be praised, because the mouth of those who speak iniquity has been blocked.",
+    "reference": "Psalm 63:11 (CPDV)",
+    "connected_from": "Psalm 63:10"
+  }
+]

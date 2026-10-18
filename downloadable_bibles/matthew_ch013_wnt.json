@@ -1,0 +1,348 @@
+[
+  {
+    "text": "That same day Jesus had left the house and was sitting on the shore of the Lake,",
+    "reference": "Matthew 13:1 (WNT)",
+    "connected_to": "Matthew 13:2"
+  },
+  {
+    "text": "when a vast multitude of people crowded round Him. He therefore went on board a boat and sat there, while all the people stood on the shore.",
+    "reference": "Matthew 13:2 (WNT)",
+    "connected_to": "Matthew 13:3",
+    "connected_from": "Matthew 13:1"
+  },
+  {
+    "text": "He then spoke many things to them in figurative language. “The sower goes out,” He said, “to sow.",
+    "reference": "Matthew 13:3 (WNT)",
+    "connected_to": "Matthew 13:4",
+    "connected_from": "Matthew 13:2"
+  },
+  {
+    "text": "As he sows, some of the seed falls by the way-side, and the birds come and peck it up.",
+    "reference": "Matthew 13:4 (WNT)",
+    "connected_to": "Matthew 13:5",
+    "connected_from": "Matthew 13:3"
+  },
+  {
+    "text": "Some falls on rocky ground, where it has but scanty soil. It quickly shows itself above ground, because it has no depth of earth;",
+    "reference": "Matthew 13:5 (WNT)",
+    "connected_to": "Matthew 13:6",
+    "connected_from": "Matthew 13:4"
+  },
+  {
+    "text": "but when the sun is risen, it is scorched by the heat, and through having no root it withers up.",
+    "reference": "Matthew 13:6 (WNT)",
+    "connected_to": "Matthew 13:7",
+    "connected_from": "Matthew 13:5"
+  },
+  {
+    "text": "Some falls among the thorns; but the thorns spring up and stifle it.",
+    "reference": "Matthew 13:7 (WNT)",
+    "connected_to": "Matthew 13:8",
+    "connected_from": "Matthew 13:6"
+  },
+  {
+    "text": "But a portion falls upon good ground, and gives a return, some a hundred for one, some sixty, some thirty.",
+    "reference": "Matthew 13:8 (WNT)",
+    "connected_to": "Matthew 13:9",
+    "connected_from": "Matthew 13:7"
+  },
+  {
+    "text": "Listen, every one who has ears!”",
+    "reference": "Matthew 13:9 (WNT)",
+    "connected_to": "Matthew 13:10",
+    "connected_from": "Matthew 13:8"
+  },
+  {
+    "text": "(And His disciples came and asked Him, “Why do you speak to them in figurative language?”",
+    "reference": "Matthew 13:10 (WNT)",
+    "connected_to": "Matthew 13:11",
+    "connected_from": "Matthew 13:9"
+  },
+  {
+    "text": "“Because,” He replied, “while to you it is granted to know the secrets of the Kingdom of the Heavens, to them it is not.",
+    "reference": "Matthew 13:11 (WNT)",
+    "connected_to": "Matthew 13:12",
+    "connected_from": "Matthew 13:10"
+  },
+  {
+    "text": "For whoever has, to him more shall be given, and he shall have abundance; but whoever has not, from him even what he has shall be taken away.",
+    "reference": "Matthew 13:12 (WNT)",
+    "connected_to": "Matthew 13:13",
+    "connected_from": "Matthew 13:11"
+  },
+  {
+    "text": "I speak to them in figurative language for this reason, that while looking they do not see, and while hearing they neither hear nor understand.",
+    "reference": "Matthew 13:13 (WNT)",
+    "connected_to": "Matthew 13:14",
+    "connected_from": "Matthew 13:12"
+  },
+  {
+    "text": "And in regard to them the prophecy of Isaiah is receiving signal fulfilment: “’You will hear and hear and by no means understand, and you will look and look and by no means see.",
+    "reference": "Matthew 13:14 (WNT)",
+    "connected_to": "Matthew 13:15",
+    "connected_from": "Matthew 13:13"
+  },
+  {
+    "text": "For this people’s mind is stupefied, their hearing has become dull, and their eyes they have closed; to prevent their ever seeing with their eyes, or hearing with their ears, or understanding with their minds, and turning back, so that I might heal them.’",
+    "reference": "Matthew 13:15 (WNT)",
+    "connected_to": "Matthew 13:16",
+    "connected_from": "Matthew 13:14"
+  },
+  {
+    "text": "“But as for you, blessed are your eyes, for they see, and your ears, for they hear.",
+    "reference": "Matthew 13:16 (WNT)",
+    "connected_to": "Matthew 13:17",
+    "connected_from": "Matthew 13:15"
+  },
+  {
+    "text": "For I solemnly tell you that many Prophets and holy men have longed to see the sights you see, and have not seen them, and to hear the words you hear, and have not heard them.",
+    "reference": "Matthew 13:17 (WNT)",
+    "connected_to": "Matthew 13:18",
+    "connected_from": "Matthew 13:16"
+  },
+  {
+    "text": "“To you then I will explain the parable of the Sower.",
+    "reference": "Matthew 13:18 (WNT)",
+    "connected_to": "Matthew 13:19",
+    "connected_from": "Matthew 13:17"
+  },
+  {
+    "text": "When a man hears the Message concerning the Kingdom and does not understand it, the Evil one comes and catches away what has been sown in his heart. This is he who has received the seed by the road-side.",
+    "reference": "Matthew 13:19 (WNT)",
+    "connected_to": "Matthew 13:20",
+    "connected_from": "Matthew 13:18"
+  },
+  {
+    "text": "He who has received the seed on the rocky ground is the man who hears the Message and immediately receives it with joy.",
+    "reference": "Matthew 13:20 (WNT)",
+    "connected_to": "Matthew 13:21",
+    "connected_from": "Matthew 13:19"
+  },
+  {
+    "text": "It has struck no root, however, within him. He continues for a time, but when suffering comes, or persecution, because of the Message, he at once stumbles and falls.",
+    "reference": "Matthew 13:21 (WNT)",
+    "connected_to": "Matthew 13:22",
+    "connected_from": "Matthew 13:20"
+  },
+  {
+    "text": "He who has received the seed among the thorns is the man who hears the Message, but the cares of the present age and the delusions of riches quite stifle the Message, and it becomes unfruitful.",
+    "reference": "Matthew 13:22 (WNT)",
+    "connected_to": "Matthew 13:23",
+    "connected_from": "Matthew 13:21"
+  },
+  {
+    "text": "But he who has received the seed on good ground is he who hears and understands. Such hearers give a return, and yield one a hundred for one, another sixty, another thirty.”)",
+    "reference": "Matthew 13:23 (WNT)",
+    "connected_to": "Matthew 13:24",
+    "connected_from": "Matthew 13:22"
+  },
+  {
+    "text": "Another parable He put before them. “The Kingdom of the Heavens,” He said, “may be compared to a man who has sown good seed in his field,",
+    "reference": "Matthew 13:24 (WNT)",
+    "connected_to": "Matthew 13:25",
+    "connected_from": "Matthew 13:23"
+  },
+  {
+    "text": "but during the night his enemy comes, and over the first seed he sows darnel among the wheat, and goes away.",
+    "reference": "Matthew 13:25 (WNT)",
+    "connected_to": "Matthew 13:26",
+    "connected_from": "Matthew 13:24"
+  },
+  {
+    "text": "But when the blade shoots up and the grain is formed, then appears the darnel also.",
+    "reference": "Matthew 13:26 (WNT)",
+    "connected_to": "Matthew 13:27",
+    "connected_from": "Matthew 13:25"
+  },
+  {
+    "text": "“So the farmer’s men come and ask him, “’Sir, was it not good seed that you sowed on your land? Where then does the darnel come from?’",
+    "reference": "Matthew 13:27 (WNT)",
+    "connected_to": "Matthew 13:28",
+    "connected_from": "Matthew 13:26"
+  },
+  {
+    "text": "“’Some enemy has done this,’ he said. “’Shall we go, and collect it?’ the men inquire.",
+    "reference": "Matthew 13:28 (WNT)",
+    "connected_to": "Matthew 13:29",
+    "connected_from": "Matthew 13:27"
+  },
+  {
+    "text": "“’No,’ he replied, ‘for fear that while collecting the darnel you should at the same time root up the wheat with it.",
+    "reference": "Matthew 13:29 (WNT)",
+    "connected_to": "Matthew 13:30",
+    "connected_from": "Matthew 13:28"
+  },
+  {
+    "text": "Leave both to grow together until the harvest, and at harvest-time I will direct the reapers, Collect the darnel first, and make it up into bundles to burn it, but bring all the wheat into my barn.’”",
+    "reference": "Matthew 13:30 (WNT)",
+    "connected_to": "Matthew 13:31",
+    "connected_from": "Matthew 13:29"
+  },
+  {
+    "text": "Another parable He put before them. “The Kingdom of the Heavens,” He said, “is like a mustard-seed, which a man takes and sows in his ground.",
+    "reference": "Matthew 13:31 (WNT)",
+    "connected_to": "Matthew 13:32",
+    "connected_from": "Matthew 13:30"
+  },
+  {
+    "text": "It is the smallest of all seeds, and yet when full-grown it is larger than any herb and forms a tree, so that the birds come and build in its branches.”",
+    "reference": "Matthew 13:32 (WNT)",
+    "connected_to": "Matthew 13:33",
+    "connected_from": "Matthew 13:31"
+  },
+  {
+    "text": "Another parable He spoke to them. “The Kingdom of the Heavens,” He said, “is like yeast which a woman takes and buries in a bushel of flour, for it to work there till the whole mass has risen.”",
+    "reference": "Matthew 13:33 (WNT)",
+    "connected_to": "Matthew 13:34",
+    "connected_from": "Matthew 13:32"
+  },
+  {
+    "text": "All this Jesus spoke to the people in figurative language, and except in figurative language He spoke nothing to them,",
+    "reference": "Matthew 13:34 (WNT)",
+    "connected_to": "Matthew 13:35",
+    "connected_from": "Matthew 13:33"
+  },
+  {
+    "text": "in fulfilment of the saying of the Prophet, “I will open my mouth in figurative language, I will utter things kept hidden since the creation of all things.”",
+    "reference": "Matthew 13:35 (WNT)",
+    "connected_to": "Matthew 13:36",
+    "connected_from": "Matthew 13:34"
+  },
+  {
+    "text": "When He had dismissed the people and had returned to the house, His disciples came to Him with the request, “Explain to us the parable of the darnel sown in the field.”",
+    "reference": "Matthew 13:36 (WNT)",
+    "connected_to": "Matthew 13:37",
+    "connected_from": "Matthew 13:35"
+  },
+  {
+    "text": "“The sower of the good seed,” He replied, “is the Son of Man;",
+    "reference": "Matthew 13:37 (WNT)",
+    "connected_to": "Matthew 13:38",
+    "connected_from": "Matthew 13:36"
+  },
+  {
+    "text": "the field is the world; the good seed—these are the sons of the Kingdom; the darnel, the sons of the Evil one.",
+    "reference": "Matthew 13:38 (WNT)",
+    "connected_to": "Matthew 13:39",
+    "connected_from": "Matthew 13:37"
+  },
+  {
+    "text": "The enemy who sows the darnel is *the Devil*; the harvest is the Close of the Age; the reapers are the angels.",
+    "reference": "Matthew 13:39 (WNT)",
+    "connected_to": "Matthew 13:40",
+    "connected_from": "Matthew 13:38"
+  },
+  {
+    "text": "As then the darnel is collected together and burnt up with fire, so will it be at the Close of the Age.",
+    "reference": "Matthew 13:40 (WNT)",
+    "connected_to": "Matthew 13:41",
+    "connected_from": "Matthew 13:39"
+  },
+  {
+    "text": "The Son of Man will commission His angels, and they will gather out of His Kingdom all causes of sin and all who violate His laws;",
+    "reference": "Matthew 13:41 (WNT)",
+    "connected_to": "Matthew 13:42",
+    "connected_from": "Matthew 13:40"
+  },
+  {
+    "text": "and these they will throw into the fiery furnace. There will be the weeping aloud and the gnashing of teeth.",
+    "reference": "Matthew 13:42 (WNT)",
+    "connected_to": "Matthew 13:43",
+    "connected_from": "Matthew 13:41"
+  },
+  {
+    "text": "Then will the righteous shine out like the sun in their Father’s Kingdom. Listen, every one who has ears!",
+    "reference": "Matthew 13:43 (WNT)",
+    "connected_to": "Matthew 13:44",
+    "connected_from": "Matthew 13:42"
+  },
+  {
+    "text": "“The Kingdom of the Heavens is like treasure buried in the open country, which a man finds, but buries again, and, in his joy about it, goes and sells all he has and buys that piece of ground.",
+    "reference": "Matthew 13:44 (WNT)",
+    "connected_to": "Matthew 13:45",
+    "connected_from": "Matthew 13:43"
+  },
+  {
+    "text": "“Again the Kingdom of the Heavens is like a jewel merchant who is in quest of choice pearls.",
+    "reference": "Matthew 13:45 (WNT)",
+    "connected_to": "Matthew 13:46",
+    "connected_from": "Matthew 13:44"
+  },
+  {
+    "text": "He finds one most costly pearl; he goes away; and though it costs all he has, he buys it.",
+    "reference": "Matthew 13:46 (WNT)",
+    "connected_to": "Matthew 13:47",
+    "connected_from": "Matthew 13:45"
+  },
+  {
+    "text": "“Again the Kingdom of the Heavens is like a draw-net let down into the sea, which encloses fish of all sorts.",
+    "reference": "Matthew 13:47 (WNT)",
+    "connected_to": "Matthew 13:48",
+    "connected_from": "Matthew 13:46"
+  },
+  {
+    "text": "When full, they haul it up on the beach, and sit down and collect the good fish in baskets, while the worthless they throw away.",
+    "reference": "Matthew 13:48 (WNT)",
+    "connected_to": "Matthew 13:49",
+    "connected_from": "Matthew 13:47"
+  },
+  {
+    "text": "So will it be at the Close of the Age. The angels will go forth and separate the wicked from among the righteous,",
+    "reference": "Matthew 13:49 (WNT)",
+    "connected_to": "Matthew 13:50",
+    "connected_from": "Matthew 13:48"
+  },
+  {
+    "text": "and will throw them into the fiery furnace. There will be the weeping aloud and the gnashing of teeth.”",
+    "reference": "Matthew 13:50 (WNT)",
+    "connected_to": "Matthew 13:51",
+    "connected_from": "Matthew 13:49"
+  },
+  {
+    "text": "“Have you understood all this?” He asked. “Yes,” they said.",
+    "reference": "Matthew 13:51 (WNT)",
+    "connected_to": "Matthew 13:52",
+    "connected_from": "Matthew 13:50"
+  },
+  {
+    "text": "“Therefore,” He said, “remember that every Scribe well trained for the Kingdom of the Heavens is like a householder who brings out of his storehouse new things and old.”",
+    "reference": "Matthew 13:52 (WNT)",
+    "connected_to": "Matthew 13:53",
+    "connected_from": "Matthew 13:51"
+  },
+  {
+    "text": "Jesus concluded this series of parables and then departed.",
+    "reference": "Matthew 13:53 (WNT)",
+    "connected_to": "Matthew 13:54",
+    "connected_from": "Matthew 13:52"
+  },
+  {
+    "text": "And He came into His own country and proceeded to teach in their synagogue, so that they were filled with astonishment and exclaimed, “Where did he obtain such wisdom, and these wondrous powers?",
+    "reference": "Matthew 13:54 (WNT)",
+    "connected_to": "Matthew 13:55",
+    "connected_from": "Matthew 13:53"
+  },
+  {
+    "text": "Is not this the carpenter’s son? Is not his mother called Mary? And are not his brothers, James, Joseph, Simon and Judah?",
+    "reference": "Matthew 13:55 (WNT)",
+    "connected_to": "Matthew 13:56",
+    "connected_from": "Matthew 13:54"
+  },
+  {
+    "text": "And his sisters—are they not all living here among us? Where then did he get all this?”",
+    "reference": "Matthew 13:56 (WNT)",
+    "connected_to": "Matthew 13:57",
+    "connected_from": "Matthew 13:55"
+  },
+  {
+    "text": "So they turned angrily away from Him. But Jesus said to them, “There is no prophet left without honour except in his own country and among his own family.”",
+    "reference": "Matthew 13:57 (WNT)",
+    "connected_to": "Matthew 13:58",
+    "connected_from": "Matthew 13:56"
+  },
+  {
+    "text": "And He performed but few mighty deeds there because of their want of faith.",
+    "reference": "Matthew 13:58 (WNT)",
+    "connected_from": "Matthew 13:57"
+  }
+]

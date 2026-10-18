@@ -1,0 +1,78 @@
+[
+  {
+    "text": "{To the chief Musician, to Jeduthun. A Psalm of David.} I said, I will take heed to my ways, that I sin not with my tongue: I will keep my mouth with a muzzle, while the wicked is before me.",
+    "reference": "Psalm 39:1 (DBT)",
+    "connected_to": "Psalm 39:2"
+  },
+  {
+    "text": "I was dumb with silence, I held my peace from good; and my sorrow was stirred.",
+    "reference": "Psalm 39:2 (DBT)",
+    "connected_to": "Psalm 39:3",
+    "connected_from": "Psalm 39:1"
+  },
+  {
+    "text": "My heart burned within me; the fire was kindled in my musing: I spoke with my tongue,",
+    "reference": "Psalm 39:3 (DBT)",
+    "connected_to": "Psalm 39:4",
+    "connected_from": "Psalm 39:2"
+  },
+  {
+    "text": "Make me to know, Jehovah, mine end, and the measure of my days, what it is: I shall know how frail I am.",
+    "reference": "Psalm 39:4 (DBT)",
+    "connected_to": "Psalm 39:5",
+    "connected_from": "Psalm 39:3"
+  },
+  {
+    "text": "Behold, thou hast made my days [as] hand-breadths, and my lifetime is as nothing before thee; verily, every man, [even] the high placed, is altogether vanity. Selah.",
+    "reference": "Psalm 39:5 (DBT)",
+    "connected_to": "Psalm 39:6",
+    "connected_from": "Psalm 39:4"
+  },
+  {
+    "text": "Verily, man walketh in a vain show; verily they are disquieted in vain; he heapeth up [riches], and knoweth not who shall gather them.",
+    "reference": "Psalm 39:6 (DBT)",
+    "connected_to": "Psalm 39:7",
+    "connected_from": "Psalm 39:5"
+  },
+  {
+    "text": "And now, what wait I for, Lord? my hope is in thee.",
+    "reference": "Psalm 39:7 (DBT)",
+    "connected_to": "Psalm 39:8",
+    "connected_from": "Psalm 39:6"
+  },
+  {
+    "text": "Deliver me from all my transgressions; make me not the reproach of the foolish.",
+    "reference": "Psalm 39:8 (DBT)",
+    "connected_to": "Psalm 39:9",
+    "connected_from": "Psalm 39:7"
+  },
+  {
+    "text": "I was dumb, I opened not my mouth; for thou hast done [it].",
+    "reference": "Psalm 39:9 (DBT)",
+    "connected_to": "Psalm 39:10",
+    "connected_from": "Psalm 39:8"
+  },
+  {
+    "text": "Remove thy stroke away from me: I am consumed by the blow of thy hand.",
+    "reference": "Psalm 39:10 (DBT)",
+    "connected_to": "Psalm 39:11",
+    "connected_from": "Psalm 39:9"
+  },
+  {
+    "text": "When thou with rebukes dost correct a man for iniquity, thou makest his beauty to consume away like a moth: surely, every man is vanity. Selah.",
+    "reference": "Psalm 39:11 (DBT)",
+    "connected_to": "Psalm 39:12",
+    "connected_from": "Psalm 39:10"
+  },
+  {
+    "text": "Hear my prayer, Jehovah, and give ear unto my cry; be not silent at my tears: for I am a stranger with thee, a sojourner, like all my fathers.",
+    "reference": "Psalm 39:12 (DBT)",
+    "connected_to": "Psalm 39:13",
+    "connected_from": "Psalm 39:11"
+  },
+  {
+    "text": "Look away from me, and let me recover strength, before I go hence and be no more.",
+    "reference": "Psalm 39:13 (DBT)",
+    "connected_from": "Psalm 39:12"
+  }
+]

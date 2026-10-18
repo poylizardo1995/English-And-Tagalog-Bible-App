@@ -1,0 +1,42 @@
+[
+  {
+    "text": "For the sons of Core, a psalm of a canticle. The foundations thereof are in the holy mountains:",
+    "reference": "Psalm 87:1 (DRB)",
+    "connected_to": "Psalm 87:2"
+  },
+  {
+    "text": "The Lord loveth the gates of Sion above all the tabernacles of Jacob.",
+    "reference": "Psalm 87:2 (DRB)",
+    "connected_to": "Psalm 87:3",
+    "connected_from": "Psalm 87:1"
+  },
+  {
+    "text": "Glorious things are said of thee, O city of God.",
+    "reference": "Psalm 87:3 (DRB)",
+    "connected_to": "Psalm 87:4",
+    "connected_from": "Psalm 87:2"
+  },
+  {
+    "text": "I will be mindful of Rahab and of Babylon knowing me. Behold the foreigners, and Tyre, and the people of the Ethiopians, these were there.",
+    "reference": "Psalm 87:4 (DRB)",
+    "connected_to": "Psalm 87:5",
+    "connected_from": "Psalm 87:3"
+  },
+  {
+    "text": "Shall not Sion say: This man and that man is born in her? and the Highest himself hath founded her.",
+    "reference": "Psalm 87:5 (DRB)",
+    "connected_to": "Psalm 87:6",
+    "connected_from": "Psalm 87:4"
+  },
+  {
+    "text": "The Lord shall tell in his writings of peoples and of princes, of them that have been in her.",
+    "reference": "Psalm 87:6 (DRB)",
+    "connected_to": "Psalm 87:7",
+    "connected_from": "Psalm 87:5"
+  },
+  {
+    "text": "The dwelling in thee is as it were of all rejoicing.",
+    "reference": "Psalm 87:7 (DRB)",
+    "connected_from": "Psalm 87:6"
+  }
+]

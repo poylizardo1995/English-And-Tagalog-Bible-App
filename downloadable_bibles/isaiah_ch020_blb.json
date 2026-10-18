@@ -1,0 +1,36 @@
+[
+  {
+    "text": "In the year of the coming of Tartan to Ashdod, when Sargon the king of Assyria sent him, then he fought against Ashdod and captured it.",
+    "reference": "Isaiah 20:1 (BLB)",
+    "connected_to": "Isaiah 20:2"
+  },
+  {
+    "text": "At the time that YHWH spoke by the hand of Isaiah son of Amoz, saying, “Go and remove the sackcloth from your body, and draw off your sandals from your feet.” And he did so, walking naked and barefoot.",
+    "reference": "Isaiah 20:2 (BLB)",
+    "connected_to": "Isaiah 20:3",
+    "connected_from": "Isaiah 20:1"
+  },
+  {
+    "text": "And YHWH said, “As My servant Isaiah has walked naked and barefoot three years as a sign and a wonder against Egypt and against Cush,",
+    "reference": "Isaiah 20:3 (BLB)",
+    "connected_to": "Isaiah 20:4",
+    "connected_from": "Isaiah 20:2"
+  },
+  {
+    "text": "so the king of Assyria will lead away the captive of Egypt and the exile of Cush—young and old—naked and barefoot, and their buttocks uncovered, the nakedness of Egypt.",
+    "reference": "Isaiah 20:4 (BLB)",
+    "connected_to": "Isaiah 20:5",
+    "connected_from": "Isaiah 20:3"
+  },
+  {
+    "text": "And they will be dismayed and ashamed of Cush [as] their hope and Egypt [as] their glory.",
+    "reference": "Isaiah 20:5 (BLB)",
+    "connected_to": "Isaiah 20:6",
+    "connected_from": "Isaiah 20:4"
+  },
+  {
+    "text": "And the one dwelling [on] this seacoast will say [in] that day, ‘Behold, this [was] our hope, where we would flee there for help to be delivered from the king of Assyria. How then can we escape?’”",
+    "reference": "Isaiah 20:6 (BLB)",
+    "connected_from": "Isaiah 20:5"
+  }
+]

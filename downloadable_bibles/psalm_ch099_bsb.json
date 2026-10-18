@@ -1,0 +1,54 @@
+[
+  {
+    "text": "The LORD reigns; let the nations tremble! He is enthroned above the cherubim; let the earth quake!",
+    "reference": "Psalm 99:1 (BSB)",
+    "connected_to": "Psalm 99:2"
+  },
+  {
+    "text": "Great is the LORD in Zion; He is exalted above all the peoples.",
+    "reference": "Psalm 99:2 (BSB)",
+    "connected_to": "Psalm 99:3",
+    "connected_from": "Psalm 99:1"
+  },
+  {
+    "text": "Let them praise Your great and awesome name—He is holy!",
+    "reference": "Psalm 99:3 (BSB)",
+    "connected_to": "Psalm 99:4",
+    "connected_from": "Psalm 99:2"
+  },
+  {
+    "text": "The mighty King loves justice. You have established equity; You have exercised justice and righteousness in Jacob.",
+    "reference": "Psalm 99:4 (BSB)",
+    "connected_to": "Psalm 99:5",
+    "connected_from": "Psalm 99:3"
+  },
+  {
+    "text": "Exalt the LORD our God, and worship at His footstool; He is holy!",
+    "reference": "Psalm 99:5 (BSB)",
+    "connected_to": "Psalm 99:6",
+    "connected_from": "Psalm 99:4"
+  },
+  {
+    "text": "Moses and Aaron were among His priests; Samuel was among those who called on His name. They called to the LORD and He answered.",
+    "reference": "Psalm 99:6 (BSB)",
+    "connected_to": "Psalm 99:7",
+    "connected_from": "Psalm 99:5"
+  },
+  {
+    "text": "He spoke to them from the pillar of cloud; they kept His decrees and the statutes He gave them.",
+    "reference": "Psalm 99:7 (BSB)",
+    "connected_to": "Psalm 99:8",
+    "connected_from": "Psalm 99:6"
+  },
+  {
+    "text": "O LORD our God, You answered them. You were a forgiving God to them, yet an avenger of their misdeeds.",
+    "reference": "Psalm 99:8 (BSB)",
+    "connected_to": "Psalm 99:9",
+    "connected_from": "Psalm 99:7"
+  },
+  {
+    "text": "Exalt the LORD our God and worship at His holy mountain, for the LORD our God is holy.",
+    "reference": "Psalm 99:9 (BSB)",
+    "connected_from": "Psalm 99:8"
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "text": "What shall we say then? Shall we continue in sin, that grace may abound?",
+    "reference": "Romans 6:1 (AKJV)",
+    "connected_to": "Romans 6:2"
+  },
+  {
+    "text": "God forbid. How shall we, that are dead to sin, live any longer therein?",
+    "reference": "Romans 6:2 (AKJV)",
+    "connected_to": "Romans 6:3",
+    "connected_from": "Romans 6:1"
+  },
+  {
+    "text": "Know you not, that so many of us as were baptized into Jesus Christ were baptized into his death?",
+    "reference": "Romans 6:3 (AKJV)",
+    "connected_to": "Romans 6:4",
+    "connected_from": "Romans 6:2"
+  },
+  {
+    "text": "Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.",
+    "reference": "Romans 6:4 (AKJV)",
+    "connected_to": "Romans 6:5",
+    "connected_from": "Romans 6:3"
+  },
+  {
+    "text": "For if we have been planted together in the likeness of his death, we shall be also in the likeness of his resurrection:",
+    "reference": "Romans 6:5 (AKJV)",
+    "connected_to": "Romans 6:6",
+    "connected_from": "Romans 6:4"
+  },
+  {
+    "text": "Knowing this, that our old man is crucified with him, that the body of sin might be destroyed, that from now on we should not serve sin.",
+    "reference": "Romans 6:6 (AKJV)",
+    "connected_to": "Romans 6:7",
+    "connected_from": "Romans 6:5"
+  },
+  {
+    "text": "For he that is dead is freed from sin.",
+    "reference": "Romans 6:7 (AKJV)",
+    "connected_to": "Romans 6:8",
+    "connected_from": "Romans 6:6"
+  },
+  {
+    "text": "Now if we be dead with Christ, we believe that we shall also live with him:",
+    "reference": "Romans 6:8 (AKJV)",
+    "connected_to": "Romans 6:9",
+    "connected_from": "Romans 6:7"
+  },
+  {
+    "text": "Knowing that Christ being raised from the dead dies no more; death has no more dominion over him.",
+    "reference": "Romans 6:9 (AKJV)",
+    "connected_to": "Romans 6:10",
+    "connected_from": "Romans 6:8"
+  },
+  {
+    "text": "For in that he died, he died to sin once: but in that he lives, he lives to God.",
+    "reference": "Romans 6:10 (AKJV)",
+    "connected_to": "Romans 6:11",
+    "connected_from": "Romans 6:9"
+  },
+  {
+    "text": "Likewise reckon you also yourselves to be dead indeed to sin, but alive to God through Jesus Christ our Lord.",
+    "reference": "Romans 6:11 (AKJV)",
+    "connected_to": "Romans 6:12",
+    "connected_from": "Romans 6:10"
+  },
+  {
+    "text": "Let not sin therefore reign in your mortal body, that you should obey it in the lusts thereof.",
+    "reference": "Romans 6:12 (AKJV)",
+    "connected_to": "Romans 6:13",
+    "connected_from": "Romans 6:11"
+  },
+  {
+    "text": "Neither yield you your members as instruments of unrighteousness to sin: but yield yourselves to God, as those that are alive from the dead, and your members as instruments of righteousness to God.",
+    "reference": "Romans 6:13 (AKJV)",
+    "connected_to": "Romans 6:14",
+    "connected_from": "Romans 6:12"
+  },
+  {
+    "text": "For sin shall not have dominion over you: for you are not under the law, but under grace.",
+    "reference": "Romans 6:14 (AKJV)",
+    "connected_to": "Romans 6:15",
+    "connected_from": "Romans 6:13"
+  },
+  {
+    "text": "What then? shall we sin, because we are not under the law, but under grace? God forbid.",
+    "reference": "Romans 6:15 (AKJV)",
+    "connected_to": "Romans 6:16",
+    "connected_from": "Romans 6:14"
+  },
+  {
+    "text": "Know you not, that to whom you yield yourselves servants to obey, his servants you are to whom you obey; whether of sin to death, or of obedience to righteousness?",
+    "reference": "Romans 6:16 (AKJV)",
+    "connected_to": "Romans 6:17",
+    "connected_from": "Romans 6:15"
+  },
+  {
+    "text": "But God be thanked, that you were the servants of sin, but you have obeyed from the heart that form of doctrine which was delivered you.",
+    "reference": "Romans 6:17 (AKJV)",
+    "connected_to": "Romans 6:18",
+    "connected_from": "Romans 6:16"
+  },
+  {
+    "text": "Being then made free from sin, you became the servants of righteousness.",
+    "reference": "Romans 6:18 (AKJV)",
+    "connected_to": "Romans 6:19",
+    "connected_from": "Romans 6:17"
+  },
+  {
+    "text": "I speak after the manner of men because of the infirmity of your flesh: for as you have yielded your members servants to uncleanness and to iniquity to iniquity; even so now yield your members servants to righteousness to holiness.",
+    "reference": "Romans 6:19 (AKJV)",
+    "connected_to": "Romans 6:20",
+    "connected_from": "Romans 6:18"
+  },
+  {
+    "text": "For when you were the servants of sin, you were free from righteousness.",
+    "reference": "Romans 6:20 (AKJV)",
+    "connected_to": "Romans 6:21",
+    "connected_from": "Romans 6:19"
+  },
+  {
+    "text": "What fruit had you then in those things whereof you are now ashamed? for the end of those things is death.",
+    "reference": "Romans 6:21 (AKJV)",
+    "connected_to": "Romans 6:22",
+    "connected_from": "Romans 6:20"
+  },
+  {
+    "text": "But now being made free from sin, and become servants to God, you have your fruit to holiness, and the end everlasting life.",
+    "reference": "Romans 6:22 (AKJV)",
+    "connected_to": "Romans 6:23",
+    "connected_from": "Romans 6:21"
+  },
+  {
+    "text": "For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.",
+    "reference": "Romans 6:23 (AKJV)",
+    "connected_from": "Romans 6:22"
+  }
+]

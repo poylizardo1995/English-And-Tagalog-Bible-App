@@ -1,0 +1,210 @@
+[
+  {
+    "text": "At the same time came the disciples to Jesus, saying, Who is the greatest in the kingdom of heaven?",
+    "reference": "Matthew 18:1 (AKJV)",
+    "connected_to": "Matthew 18:2"
+  },
+  {
+    "text": "And Jesus called a little child to him, and set him in the middle of them,",
+    "reference": "Matthew 18:2 (AKJV)",
+    "connected_to": "Matthew 18:3",
+    "connected_from": "Matthew 18:1"
+  },
+  {
+    "text": "And said, Truly I say to you, Except you be converted, and become as little children, you shall not enter into the kingdom of heaven.",
+    "reference": "Matthew 18:3 (AKJV)",
+    "connected_to": "Matthew 18:4",
+    "connected_from": "Matthew 18:2"
+  },
+  {
+    "text": "Whoever therefore shall humble himself as this little child, the same is greatest in the kingdom of heaven.",
+    "reference": "Matthew 18:4 (AKJV)",
+    "connected_to": "Matthew 18:5",
+    "connected_from": "Matthew 18:3"
+  },
+  {
+    "text": "And whoever shall receive one such little child in my name receives me.",
+    "reference": "Matthew 18:5 (AKJV)",
+    "connected_to": "Matthew 18:6",
+    "connected_from": "Matthew 18:4"
+  },
+  {
+    "text": "But whoever shall offend one of these little ones which believe in me, it were better for him that a millstone were hanged about his neck, and that he were drowned in the depth of the sea.",
+    "reference": "Matthew 18:6 (AKJV)",
+    "connected_to": "Matthew 18:7",
+    "connected_from": "Matthew 18:5"
+  },
+  {
+    "text": "Woe to the world because of offenses! for it must needs be that offenses come; but woe to that man by whom the offense comes!",
+    "reference": "Matthew 18:7 (AKJV)",
+    "connected_to": "Matthew 18:8",
+    "connected_from": "Matthew 18:6"
+  },
+  {
+    "text": "Why if your hand or your foot offend you, cut them off, and cast them from you: it is better for you to enter into life halt or maimed, rather than having two hands or two feet to be cast into everlasting fire.",
+    "reference": "Matthew 18:8 (AKJV)",
+    "connected_to": "Matthew 18:9",
+    "connected_from": "Matthew 18:7"
+  },
+  {
+    "text": "And if your eye offend you, pluck it out, and cast it from you: it is better for you to enter into life with one eye, rather than having two eyes to be cast into hell fire.",
+    "reference": "Matthew 18:9 (AKJV)",
+    "connected_to": "Matthew 18:10",
+    "connected_from": "Matthew 18:8"
+  },
+  {
+    "text": "Take heed that you despise not one of these little ones; for I say to you, That in heaven their angels do always behold the face of my Father which is in heaven.",
+    "reference": "Matthew 18:10 (AKJV)",
+    "connected_to": "Matthew 18:11",
+    "connected_from": "Matthew 18:9"
+  },
+  {
+    "text": "For the Son of man is come to save that which was lost.",
+    "reference": "Matthew 18:11 (AKJV)",
+    "connected_to": "Matthew 18:12",
+    "connected_from": "Matthew 18:10"
+  },
+  {
+    "text": "How think you? if a man have an hundred sheep, and one of them be gone astray, does he not leave the ninety and nine, and goes into the mountains, and seeks that which is gone astray?",
+    "reference": "Matthew 18:12 (AKJV)",
+    "connected_to": "Matthew 18:13",
+    "connected_from": "Matthew 18:11"
+  },
+  {
+    "text": "And if so be that he find it, truly I say to you, he rejoices more of that sheep, than of the ninety and nine which went not astray.",
+    "reference": "Matthew 18:13 (AKJV)",
+    "connected_to": "Matthew 18:14",
+    "connected_from": "Matthew 18:12"
+  },
+  {
+    "text": "Even so it is not the will of your Father which is in heaven, that one of these little ones should perish.",
+    "reference": "Matthew 18:14 (AKJV)",
+    "connected_to": "Matthew 18:15",
+    "connected_from": "Matthew 18:13"
+  },
+  {
+    "text": "Moreover if your brother shall trespass against you, go and tell him his fault between you and him alone: if he shall hear you, you have gained your brother.",
+    "reference": "Matthew 18:15 (AKJV)",
+    "connected_to": "Matthew 18:16",
+    "connected_from": "Matthew 18:14"
+  },
+  {
+    "text": "But if he will not hear you, then take with you one or two more, that in the mouth of two or three witnesses every word may be established.",
+    "reference": "Matthew 18:16 (AKJV)",
+    "connected_to": "Matthew 18:17",
+    "connected_from": "Matthew 18:15"
+  },
+  {
+    "text": "And if he shall neglect to hear them, tell it to the church: but if he neglect to hear the church, let him be to you as an heathen man and a publican.",
+    "reference": "Matthew 18:17 (AKJV)",
+    "connected_to": "Matthew 18:18",
+    "connected_from": "Matthew 18:16"
+  },
+  {
+    "text": "Truly I say to you, Whatever you shall bind on earth shall be bound in heaven: and whatever you shall loose on earth shall be loosed in heaven.",
+    "reference": "Matthew 18:18 (AKJV)",
+    "connected_to": "Matthew 18:19",
+    "connected_from": "Matthew 18:17"
+  },
+  {
+    "text": "Again I say to you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them of my Father which is in heaven.",
+    "reference": "Matthew 18:19 (AKJV)",
+    "connected_to": "Matthew 18:20",
+    "connected_from": "Matthew 18:18"
+  },
+  {
+    "text": "For where two or three are gathered together in my name, there am I in the middle of them.",
+    "reference": "Matthew 18:20 (AKJV)",
+    "connected_to": "Matthew 18:21",
+    "connected_from": "Matthew 18:19"
+  },
+  {
+    "text": "Then came Peter to him, and said, Lord, how oft shall my brother sin against me, and I forgive him? till seven times?",
+    "reference": "Matthew 18:21 (AKJV)",
+    "connected_to": "Matthew 18:22",
+    "connected_from": "Matthew 18:20"
+  },
+  {
+    "text": "Jesus said to him, I say not to you, Until seven times: but, Until seventy times seven.",
+    "reference": "Matthew 18:22 (AKJV)",
+    "connected_to": "Matthew 18:23",
+    "connected_from": "Matthew 18:21"
+  },
+  {
+    "text": "Therefore is the kingdom of heaven likened to a certain king, which would take account of his servants.",
+    "reference": "Matthew 18:23 (AKJV)",
+    "connected_to": "Matthew 18:24",
+    "connected_from": "Matthew 18:22"
+  },
+  {
+    "text": "And when he had begun to reckon, one was brought to him, which owed him ten thousand talents.",
+    "reference": "Matthew 18:24 (AKJV)",
+    "connected_to": "Matthew 18:25",
+    "connected_from": "Matthew 18:23"
+  },
+  {
+    "text": "But for as much as he had not to pay, his lord commanded him to be sold, and his wife, and children, and all that he had, and payment to be made.",
+    "reference": "Matthew 18:25 (AKJV)",
+    "connected_to": "Matthew 18:26",
+    "connected_from": "Matthew 18:24"
+  },
+  {
+    "text": "The servant therefore fell down, and worshipped him, saying, Lord, have patience with me, and I will pay you all.",
+    "reference": "Matthew 18:26 (AKJV)",
+    "connected_to": "Matthew 18:27",
+    "connected_from": "Matthew 18:25"
+  },
+  {
+    "text": "Then the lord of that servant was moved with compassion, and loosed him, and forgave him the debt.",
+    "reference": "Matthew 18:27 (AKJV)",
+    "connected_to": "Matthew 18:28",
+    "connected_from": "Matthew 18:26"
+  },
+  {
+    "text": "But the same servant went out, and found one of his fellow servants, which owed him an hundred pence: and he laid hands on him, and took him by the throat, saying, Pay me that you owe.",
+    "reference": "Matthew 18:28 (AKJV)",
+    "connected_to": "Matthew 18:29",
+    "connected_from": "Matthew 18:27"
+  },
+  {
+    "text": "And his fellow servant fell down at his feet, and sought him, saying, Have patience with me, and I will pay you all.",
+    "reference": "Matthew 18:29 (AKJV)",
+    "connected_to": "Matthew 18:30",
+    "connected_from": "Matthew 18:28"
+  },
+  {
+    "text": "And he would not: but went and cast him into prison, till he should pay the debt.",
+    "reference": "Matthew 18:30 (AKJV)",
+    "connected_to": "Matthew 18:31",
+    "connected_from": "Matthew 18:29"
+  },
+  {
+    "text": "So when his fellow servants saw what was done, they were very sorry, and came and told to their lord all that was done.",
+    "reference": "Matthew 18:31 (AKJV)",
+    "connected_to": "Matthew 18:32",
+    "connected_from": "Matthew 18:30"
+  },
+  {
+    "text": "Then his lord, after that he had called him, said to him, O you wicked servant, I forgave you all that debt, because you desired me:",
+    "reference": "Matthew 18:32 (AKJV)",
+    "connected_to": "Matthew 18:33",
+    "connected_from": "Matthew 18:31"
+  },
+  {
+    "text": "Should not you also have had compassion on your fellow servant, even as I had pity on you?",
+    "reference": "Matthew 18:33 (AKJV)",
+    "connected_to": "Matthew 18:34",
+    "connected_from": "Matthew 18:32"
+  },
+  {
+    "text": "And his lord was wroth, and delivered him to the tormentors, till he should pay all that was due to him.",
+    "reference": "Matthew 18:34 (AKJV)",
+    "connected_to": "Matthew 18:35",
+    "connected_from": "Matthew 18:33"
+  },
+  {
+    "text": "So likewise shall my heavenly Father do also to you, if you from your hearts forgive not every one his brother their trespasses.",
+    "reference": "Matthew 18:35 (AKJV)",
+    "connected_from": "Matthew 18:34"
+  }
+]

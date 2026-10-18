@@ -1,0 +1,54 @@
+[
+  {
+    "text": "A Song of the Ascents. Of David. <span class=|reftext|><a href=|#|><b>1</b></a> I was glad at the saying to me, “Let us go [to] the house of YHWH.”",
+    "reference": "Psalm 122:1 (BLB)",
+    "connected_to": "Psalm 122:2"
+  },
+  {
+    "text": "Our feet have been standing within your gates, O Jerusalem!",
+    "reference": "Psalm 122:2 (BLB)",
+    "connected_to": "Psalm 122:3",
+    "connected_from": "Psalm 122:1"
+  },
+  {
+    "text": "Jerusalem is built up as a city joined to itself together;",
+    "reference": "Psalm 122:3 (BLB)",
+    "connected_to": "Psalm 122:4",
+    "connected_from": "Psalm 122:2"
+  },
+  {
+    "text": "there the tribes go up, the tribes of YAH, as a testimony for Israel, to give thanks to the name of YHWH.",
+    "reference": "Psalm 122:4 (BLB)",
+    "connected_to": "Psalm 122:5",
+    "connected_from": "Psalm 122:3"
+  },
+  {
+    "text": "For there sit the thrones of judgment, the thrones of the house of David.",
+    "reference": "Psalm 122:5 (BLB)",
+    "connected_to": "Psalm 122:6",
+    "connected_from": "Psalm 122:4"
+  },
+  {
+    "text": "Ask for the peace of Jerusalem: “May they prosper, those loving you!",
+    "reference": "Psalm 122:6 (BLB)",
+    "connected_to": "Psalm 122:7",
+    "connected_from": "Psalm 122:5"
+  },
+  {
+    "text": "May there be peace within your wall, prosperity within your citadels!”",
+    "reference": "Psalm 122:7 (BLB)",
+    "connected_to": "Psalm 122:8",
+    "connected_from": "Psalm 122:6"
+  },
+  {
+    "text": "For the sake of my brothers and my companions let me now say: “Peace [be] within you!”",
+    "reference": "Psalm 122:8 (BLB)",
+    "connected_to": "Psalm 122:9",
+    "connected_from": "Psalm 122:7"
+  },
+  {
+    "text": "For the sake of the house of YHWH our God I will seek good for you.",
+    "reference": "Psalm 122:9 (BLB)",
+    "connected_from": "Psalm 122:8"
+  }
+]

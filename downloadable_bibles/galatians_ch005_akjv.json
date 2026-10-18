@@ -1,0 +1,156 @@
+[
+  {
+    "text": "Stand fast therefore in the liberty with which Christ has made us free, and be not entangled again with the yoke of bondage.",
+    "reference": "Galatians 5:1 (AKJV)",
+    "connected_to": "Galatians 5:2"
+  },
+  {
+    "text": "Behold, I Paul say to you, that if you be circumcised, Christ shall profit you nothing.",
+    "reference": "Galatians 5:2 (AKJV)",
+    "connected_to": "Galatians 5:3",
+    "connected_from": "Galatians 5:1"
+  },
+  {
+    "text": "For I testify again to every man that is circumcised, that he is a debtor to do the whole law.",
+    "reference": "Galatians 5:3 (AKJV)",
+    "connected_to": "Galatians 5:4",
+    "connected_from": "Galatians 5:2"
+  },
+  {
+    "text": "Christ is become of no effect to you, whoever of you are justified by the law; you are fallen from grace.",
+    "reference": "Galatians 5:4 (AKJV)",
+    "connected_to": "Galatians 5:5",
+    "connected_from": "Galatians 5:3"
+  },
+  {
+    "text": "For we through the Spirit wait for the hope of righteousness by faith.",
+    "reference": "Galatians 5:5 (AKJV)",
+    "connected_to": "Galatians 5:6",
+    "connected_from": "Galatians 5:4"
+  },
+  {
+    "text": "For in Jesus Christ neither circumcision avails any thing, nor uncircumcision; but faith which works by love.",
+    "reference": "Galatians 5:6 (AKJV)",
+    "connected_to": "Galatians 5:7",
+    "connected_from": "Galatians 5:5"
+  },
+  {
+    "text": "You did run well; who did hinder you that you should not obey the truth?",
+    "reference": "Galatians 5:7 (AKJV)",
+    "connected_to": "Galatians 5:8",
+    "connected_from": "Galatians 5:6"
+  },
+  {
+    "text": "This persuasion comes not of him that calls you.",
+    "reference": "Galatians 5:8 (AKJV)",
+    "connected_to": "Galatians 5:9",
+    "connected_from": "Galatians 5:7"
+  },
+  {
+    "text": "A little leaven leavens the whole lump.",
+    "reference": "Galatians 5:9 (AKJV)",
+    "connected_to": "Galatians 5:10",
+    "connected_from": "Galatians 5:8"
+  },
+  {
+    "text": "I have confidence in you through the Lord, that you will be none otherwise minded: but he that troubles you shall bear his judgment, whoever he be.",
+    "reference": "Galatians 5:10 (AKJV)",
+    "connected_to": "Galatians 5:11",
+    "connected_from": "Galatians 5:9"
+  },
+  {
+    "text": "And I, brothers, if I yet preach circumcision, why do I yet suffer persecution? then is the offense of the cross ceased.",
+    "reference": "Galatians 5:11 (AKJV)",
+    "connected_to": "Galatians 5:12",
+    "connected_from": "Galatians 5:10"
+  },
+  {
+    "text": "I would they were even cut off which trouble you.",
+    "reference": "Galatians 5:12 (AKJV)",
+    "connected_to": "Galatians 5:13",
+    "connected_from": "Galatians 5:11"
+  },
+  {
+    "text": "For, brothers, you have been called to liberty; only use not liberty for an occasion to the flesh, but by love serve one another.",
+    "reference": "Galatians 5:13 (AKJV)",
+    "connected_to": "Galatians 5:14",
+    "connected_from": "Galatians 5:12"
+  },
+  {
+    "text": "For all the law is fulfilled in one word, even in this; You shall love your neighbor as yourself.",
+    "reference": "Galatians 5:14 (AKJV)",
+    "connected_to": "Galatians 5:15",
+    "connected_from": "Galatians 5:13"
+  },
+  {
+    "text": "But if you bite and devour one another, take heed that you be not consumed one of another.",
+    "reference": "Galatians 5:15 (AKJV)",
+    "connected_to": "Galatians 5:16",
+    "connected_from": "Galatians 5:14"
+  },
+  {
+    "text": "This I say then, Walk in the Spirit, and you shall not fulfill the lust of the flesh.",
+    "reference": "Galatians 5:16 (AKJV)",
+    "connected_to": "Galatians 5:17",
+    "connected_from": "Galatians 5:15"
+  },
+  {
+    "text": "For the flesh lusts against the Spirit, and the Spirit against the flesh: and these are contrary the one to the other: so that you cannot do the things that you would.",
+    "reference": "Galatians 5:17 (AKJV)",
+    "connected_to": "Galatians 5:18",
+    "connected_from": "Galatians 5:16"
+  },
+  {
+    "text": "But if you be led of the Spirit, you are not under the law.",
+    "reference": "Galatians 5:18 (AKJV)",
+    "connected_to": "Galatians 5:19",
+    "connected_from": "Galatians 5:17"
+  },
+  {
+    "text": "Now the works of the flesh are manifest, which are these; Adultery, fornication, uncleanness, lasciviousness,",
+    "reference": "Galatians 5:19 (AKJV)",
+    "connected_to": "Galatians 5:20",
+    "connected_from": "Galatians 5:18"
+  },
+  {
+    "text": "Idolatry, witchcraft, hatred, variance, jealousies, wrath, strife, seditions, heresies,",
+    "reference": "Galatians 5:20 (AKJV)",
+    "connected_to": "Galatians 5:21",
+    "connected_from": "Galatians 5:19"
+  },
+  {
+    "text": "Contentions, murders, drunkenness, revelings, and such like: of the which I tell you before, as I have also told you in time past, that they which do such things shall not inherit the kingdom of God.",
+    "reference": "Galatians 5:21 (AKJV)",
+    "connected_to": "Galatians 5:22",
+    "connected_from": "Galatians 5:20"
+  },
+  {
+    "text": "But the fruit of the Spirit is love, joy, peace, long-suffering, gentleness, goodness, faith,",
+    "reference": "Galatians 5:22 (AKJV)",
+    "connected_to": "Galatians 5:23",
+    "connected_from": "Galatians 5:21"
+  },
+  {
+    "text": "Meekness, temperance: against such there is no law.",
+    "reference": "Galatians 5:23 (AKJV)",
+    "connected_to": "Galatians 5:24",
+    "connected_from": "Galatians 5:22"
+  },
+  {
+    "text": "And they that are Christ’s have crucified the flesh with the affections and lusts.",
+    "reference": "Galatians 5:24 (AKJV)",
+    "connected_to": "Galatians 5:25",
+    "connected_from": "Galatians 5:23"
+  },
+  {
+    "text": "If we live in the Spirit, let us also walk in the Spirit.",
+    "reference": "Galatians 5:25 (AKJV)",
+    "connected_to": "Galatians 5:26",
+    "connected_from": "Galatians 5:24"
+  },
+  {
+    "text": "Let us not be desirous of vain glory, provoking one another, envying one another.",
+    "reference": "Galatians 5:26 (AKJV)",
+    "connected_from": "Galatians 5:25"
+  }
+]

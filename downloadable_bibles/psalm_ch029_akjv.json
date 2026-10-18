@@ -1,0 +1,66 @@
+[
+  {
+    "text": "Give to the LORD, O you mighty, give to the LORD glory and strength.",
+    "reference": "Psalm 29:1 (AKJV)",
+    "connected_to": "Psalm 29:2"
+  },
+  {
+    "text": "Give to the LORD the glory due to his name; worship the LORD in the beauty of holiness.",
+    "reference": "Psalm 29:2 (AKJV)",
+    "connected_to": "Psalm 29:3",
+    "connected_from": "Psalm 29:1"
+  },
+  {
+    "text": "The voice of the LORD is on the waters: the God of glory thunders: the LORD is on many waters.",
+    "reference": "Psalm 29:3 (AKJV)",
+    "connected_to": "Psalm 29:4",
+    "connected_from": "Psalm 29:2"
+  },
+  {
+    "text": "The voice of the LORD is powerful; the voice of the LORD is full of majesty.",
+    "reference": "Psalm 29:4 (AKJV)",
+    "connected_to": "Psalm 29:5",
+    "connected_from": "Psalm 29:3"
+  },
+  {
+    "text": "The voice of the LORD breaks the cedars; yes, the LORD breaks the cedars of Lebanon.",
+    "reference": "Psalm 29:5 (AKJV)",
+    "connected_to": "Psalm 29:6",
+    "connected_from": "Psalm 29:4"
+  },
+  {
+    "text": "He makes them also to skip like a calf; Lebanon and Sirion like a young unicorn.",
+    "reference": "Psalm 29:6 (AKJV)",
+    "connected_to": "Psalm 29:7",
+    "connected_from": "Psalm 29:5"
+  },
+  {
+    "text": "The voice of the LORD divides the flames of fire.",
+    "reference": "Psalm 29:7 (AKJV)",
+    "connected_to": "Psalm 29:8",
+    "connected_from": "Psalm 29:6"
+  },
+  {
+    "text": "The voice of the LORD shakes the wilderness; the LORD shakes the wilderness of Kadesh.",
+    "reference": "Psalm 29:8 (AKJV)",
+    "connected_to": "Psalm 29:9",
+    "connected_from": "Psalm 29:7"
+  },
+  {
+    "text": "The voice of the LORD makes the hinds to calve, and discovers the forests: and in his temple does every one speak of his glory.",
+    "reference": "Psalm 29:9 (AKJV)",
+    "connected_to": "Psalm 29:10",
+    "connected_from": "Psalm 29:8"
+  },
+  {
+    "text": "The LORD sits on the flood; yes, the LORD sits King for ever.",
+    "reference": "Psalm 29:10 (AKJV)",
+    "connected_to": "Psalm 29:11",
+    "connected_from": "Psalm 29:9"
+  },
+  {
+    "text": "The LORD will give strength to his people; the LORD will bless his people with peace.",
+    "reference": "Psalm 29:11 (AKJV)",
+    "connected_from": "Psalm 29:10"
+  }
+]

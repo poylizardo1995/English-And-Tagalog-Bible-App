@@ -1,0 +1,18 @@
+[
+  {
+    "text": "A Song of the Ascents. Of David. <span class=|reftext|><a href=|#|><b>1</b></a> O YHWH, my heart is not lifted high, and my eyes are not raised up, and neither have I gone about in great things, and in marvelous things beyond me.",
+    "reference": "Psalm 131:1 (BLB)",
+    "connected_to": "Psalm 131:2"
+  },
+  {
+    "text": "If not, I have stilled and quieted my soul like a weaned child with his mother; my soul [is] like a weaned child within me.",
+    "reference": "Psalm 131:2 (BLB)",
+    "connected_to": "Psalm 131:3",
+    "connected_from": "Psalm 131:1"
+  },
+  {
+    "text": "Look with hope, O Israel, unto YHWH, from now even to forever!",
+    "reference": "Psalm 131:3 (BLB)",
+    "connected_from": "Psalm 131:2"
+  }
+]

@@ -1,0 +1,420 @@
+[
+  {
+    "text": "Now these are the children of the province, that went up out of the captivity of those that had been carried away, whom Nebuchadnezzar the king of Babylon had carried away unto Babylon, and that returned unto Jerusalem and Judah, every one unto his city;",
+    "reference": "Ezra 2:1 (ASV)",
+    "connected_to": "Ezra 2:2"
+  },
+  {
+    "text": "who came with Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, Baanah.The number of the men of the people of Israel:",
+    "reference": "Ezra 2:2 (ASV)",
+    "connected_to": "Ezra 2:3",
+    "connected_from": "Ezra 2:1"
+  },
+  {
+    "text": "The children of Parosh, two thousand a hundred seventy and two.",
+    "reference": "Ezra 2:3 (ASV)",
+    "connected_to": "Ezra 2:4",
+    "connected_from": "Ezra 2:2"
+  },
+  {
+    "text": "The children of Shephatiah, three hundred seventy and two.",
+    "reference": "Ezra 2:4 (ASV)",
+    "connected_to": "Ezra 2:5",
+    "connected_from": "Ezra 2:3"
+  },
+  {
+    "text": "The children of Arah, seven hundred seventy and five.",
+    "reference": "Ezra 2:5 (ASV)",
+    "connected_to": "Ezra 2:6",
+    "connected_from": "Ezra 2:4"
+  },
+  {
+    "text": "The children of Pahath-moab, of the children of Jeshua and Joab, two thousand eight hundred and twelve.",
+    "reference": "Ezra 2:6 (ASV)",
+    "connected_to": "Ezra 2:7",
+    "connected_from": "Ezra 2:5"
+  },
+  {
+    "text": "The children of Elam, a thousand two hundred fifty and four.",
+    "reference": "Ezra 2:7 (ASV)",
+    "connected_to": "Ezra 2:8",
+    "connected_from": "Ezra 2:6"
+  },
+  {
+    "text": "The children of Zattu, nine hundred forty and five.",
+    "reference": "Ezra 2:8 (ASV)",
+    "connected_to": "Ezra 2:9",
+    "connected_from": "Ezra 2:7"
+  },
+  {
+    "text": "The children of Zaccai, seven hundred and threescore.",
+    "reference": "Ezra 2:9 (ASV)",
+    "connected_to": "Ezra 2:10",
+    "connected_from": "Ezra 2:8"
+  },
+  {
+    "text": "The children of Bani, six hundred forty and two.",
+    "reference": "Ezra 2:10 (ASV)",
+    "connected_to": "Ezra 2:11",
+    "connected_from": "Ezra 2:9"
+  },
+  {
+    "text": "The children of Bebai, six hundred twenty and three.",
+    "reference": "Ezra 2:11 (ASV)",
+    "connected_to": "Ezra 2:12",
+    "connected_from": "Ezra 2:10"
+  },
+  {
+    "text": "The children of Azgad, a thousand two hundred twenty and two.",
+    "reference": "Ezra 2:12 (ASV)",
+    "connected_to": "Ezra 2:13",
+    "connected_from": "Ezra 2:11"
+  },
+  {
+    "text": "The children of Adonikam, six hundred sixty and six.",
+    "reference": "Ezra 2:13 (ASV)",
+    "connected_to": "Ezra 2:14",
+    "connected_from": "Ezra 2:12"
+  },
+  {
+    "text": "The children of Bigvai, two thousand fifty and six.",
+    "reference": "Ezra 2:14 (ASV)",
+    "connected_to": "Ezra 2:15",
+    "connected_from": "Ezra 2:13"
+  },
+  {
+    "text": "The children of Adin, four hundred fifty and four.",
+    "reference": "Ezra 2:15 (ASV)",
+    "connected_to": "Ezra 2:16",
+    "connected_from": "Ezra 2:14"
+  },
+  {
+    "text": "The children of Ater, of Hezekiah, ninety and eight.",
+    "reference": "Ezra 2:16 (ASV)",
+    "connected_to": "Ezra 2:17",
+    "connected_from": "Ezra 2:15"
+  },
+  {
+    "text": "The children of Bezai, three hundred twenty and three.",
+    "reference": "Ezra 2:17 (ASV)",
+    "connected_to": "Ezra 2:18",
+    "connected_from": "Ezra 2:16"
+  },
+  {
+    "text": "The children of Jorah, a hundred and twelve.",
+    "reference": "Ezra 2:18 (ASV)",
+    "connected_to": "Ezra 2:19",
+    "connected_from": "Ezra 2:17"
+  },
+  {
+    "text": "The children of Hashum, two hundred twenty and three.",
+    "reference": "Ezra 2:19 (ASV)",
+    "connected_to": "Ezra 2:20",
+    "connected_from": "Ezra 2:18"
+  },
+  {
+    "text": "The children of Gibbar, ninety and five.",
+    "reference": "Ezra 2:20 (ASV)",
+    "connected_to": "Ezra 2:21",
+    "connected_from": "Ezra 2:19"
+  },
+  {
+    "text": "The children of Beth-lehem, a hundred twenty and three.",
+    "reference": "Ezra 2:21 (ASV)",
+    "connected_to": "Ezra 2:22",
+    "connected_from": "Ezra 2:20"
+  },
+  {
+    "text": "The men of Netophah, fifty and six.",
+    "reference": "Ezra 2:22 (ASV)",
+    "connected_to": "Ezra 2:23",
+    "connected_from": "Ezra 2:21"
+  },
+  {
+    "text": "The men of Anathoth, a hundred twenty and eight.",
+    "reference": "Ezra 2:23 (ASV)",
+    "connected_to": "Ezra 2:24",
+    "connected_from": "Ezra 2:22"
+  },
+  {
+    "text": "The children of Azmaveth, forty and two.",
+    "reference": "Ezra 2:24 (ASV)",
+    "connected_to": "Ezra 2:25",
+    "connected_from": "Ezra 2:23"
+  },
+  {
+    "text": "The children of Kiriath-arim, Chephirah, and Beeroth, seven hundred and forty and three.",
+    "reference": "Ezra 2:25 (ASV)",
+    "connected_to": "Ezra 2:26",
+    "connected_from": "Ezra 2:24"
+  },
+  {
+    "text": "The children of Ramah and Geba, six hundred twenty and one.",
+    "reference": "Ezra 2:26 (ASV)",
+    "connected_to": "Ezra 2:27",
+    "connected_from": "Ezra 2:25"
+  },
+  {
+    "text": "The men of Michmas, a hundred twenty and two.",
+    "reference": "Ezra 2:27 (ASV)",
+    "connected_to": "Ezra 2:28",
+    "connected_from": "Ezra 2:26"
+  },
+  {
+    "text": "The men of Beth-el and Ai, two hundred twenty and three.",
+    "reference": "Ezra 2:28 (ASV)",
+    "connected_to": "Ezra 2:29",
+    "connected_from": "Ezra 2:27"
+  },
+  {
+    "text": "The children of Nebo, fifty and two.",
+    "reference": "Ezra 2:29 (ASV)",
+    "connected_to": "Ezra 2:30",
+    "connected_from": "Ezra 2:28"
+  },
+  {
+    "text": "The children of Magbish, a hundred fifty and six.",
+    "reference": "Ezra 2:30 (ASV)",
+    "connected_to": "Ezra 2:31",
+    "connected_from": "Ezra 2:29"
+  },
+  {
+    "text": "The children of the other Elam, a thousand two hundred fifty and four.",
+    "reference": "Ezra 2:31 (ASV)",
+    "connected_to": "Ezra 2:32",
+    "connected_from": "Ezra 2:30"
+  },
+  {
+    "text": "The children of Harim, three hundred and twenty.",
+    "reference": "Ezra 2:32 (ASV)",
+    "connected_to": "Ezra 2:33",
+    "connected_from": "Ezra 2:31"
+  },
+  {
+    "text": "The children of Lod, Hadid, and Ono, seven hundred twenty and five.",
+    "reference": "Ezra 2:33 (ASV)",
+    "connected_to": "Ezra 2:34",
+    "connected_from": "Ezra 2:32"
+  },
+  {
+    "text": "The children of Jericho, three hundred forty and five.",
+    "reference": "Ezra 2:34 (ASV)",
+    "connected_to": "Ezra 2:35",
+    "connected_from": "Ezra 2:33"
+  },
+  {
+    "text": "The children of Senaah, three thousand and six hundred and thirty.",
+    "reference": "Ezra 2:35 (ASV)",
+    "connected_to": "Ezra 2:36",
+    "connected_from": "Ezra 2:34"
+  },
+  {
+    "text": "The priests: the children of Jedaiah, of the house of Jeshua, nine hundred seventy and three.",
+    "reference": "Ezra 2:36 (ASV)",
+    "connected_to": "Ezra 2:37",
+    "connected_from": "Ezra 2:35"
+  },
+  {
+    "text": "The children of Immer, a thousand fifty and two.",
+    "reference": "Ezra 2:37 (ASV)",
+    "connected_to": "Ezra 2:38",
+    "connected_from": "Ezra 2:36"
+  },
+  {
+    "text": "The children of Pashhur, a thousand two hundred forty and seven.",
+    "reference": "Ezra 2:38 (ASV)",
+    "connected_to": "Ezra 2:39",
+    "connected_from": "Ezra 2:37"
+  },
+  {
+    "text": "The children of Harim, a thousand and seventeen.",
+    "reference": "Ezra 2:39 (ASV)",
+    "connected_to": "Ezra 2:40",
+    "connected_from": "Ezra 2:38"
+  },
+  {
+    "text": "The Levites: the children of Jeshua and Kadmiel, of the children of Hodaviah, seventy and four.",
+    "reference": "Ezra 2:40 (ASV)",
+    "connected_to": "Ezra 2:41",
+    "connected_from": "Ezra 2:39"
+  },
+  {
+    "text": "The singers: the children of Asaph, a hundred twenty and eight.",
+    "reference": "Ezra 2:41 (ASV)",
+    "connected_to": "Ezra 2:42",
+    "connected_from": "Ezra 2:40"
+  },
+  {
+    "text": "The children of the porters: the children of Shallum, the children of Ater, the children of Talmon, the children of Akkub, the children of Hatita, the children of Shobai, in all a hundred thirty and nine.",
+    "reference": "Ezra 2:42 (ASV)",
+    "connected_to": "Ezra 2:43",
+    "connected_from": "Ezra 2:41"
+  },
+  {
+    "text": "The Nethinim: the children of Ziha, the children of Hasupha, the children of Tabbaoth,",
+    "reference": "Ezra 2:43 (ASV)",
+    "connected_to": "Ezra 2:44",
+    "connected_from": "Ezra 2:42"
+  },
+  {
+    "text": "the children of Keros, the children of Siaha, the children of Padon,",
+    "reference": "Ezra 2:44 (ASV)",
+    "connected_to": "Ezra 2:45",
+    "connected_from": "Ezra 2:43"
+  },
+  {
+    "text": "the children of Lebanah, the children of Hagabah, the children of Akkub,",
+    "reference": "Ezra 2:45 (ASV)",
+    "connected_to": "Ezra 2:46",
+    "connected_from": "Ezra 2:44"
+  },
+  {
+    "text": "the children of Hagab, the children of Shamlai, the children of Hanan,",
+    "reference": "Ezra 2:46 (ASV)",
+    "connected_to": "Ezra 2:47",
+    "connected_from": "Ezra 2:45"
+  },
+  {
+    "text": "the children of Giddel, the children of Gahar, the children of Reaiah,",
+    "reference": "Ezra 2:47 (ASV)",
+    "connected_to": "Ezra 2:48",
+    "connected_from": "Ezra 2:46"
+  },
+  {
+    "text": "the children of Rezin, the children of Nekoda, the children of Gazzam,",
+    "reference": "Ezra 2:48 (ASV)",
+    "connected_to": "Ezra 2:49",
+    "connected_from": "Ezra 2:47"
+  },
+  {
+    "text": "the children of Uzza, the children of Paseah, the children of Besai,",
+    "reference": "Ezra 2:49 (ASV)",
+    "connected_to": "Ezra 2:50",
+    "connected_from": "Ezra 2:48"
+  },
+  {
+    "text": "the children of Asnah, the children of Meunim, the children of Nephisim,",
+    "reference": "Ezra 2:50 (ASV)",
+    "connected_to": "Ezra 2:51",
+    "connected_from": "Ezra 2:49"
+  },
+  {
+    "text": "the children of Bakbuk, the children of Hakupha, the children of Harhur,",
+    "reference": "Ezra 2:51 (ASV)",
+    "connected_to": "Ezra 2:52",
+    "connected_from": "Ezra 2:50"
+  },
+  {
+    "text": "the children of Bazluth, the children of Mehida, the children of Harsha,",
+    "reference": "Ezra 2:52 (ASV)",
+    "connected_to": "Ezra 2:53",
+    "connected_from": "Ezra 2:51"
+  },
+  {
+    "text": "the children of Barkos, the children of Sisera, the children of Temah,",
+    "reference": "Ezra 2:53 (ASV)",
+    "connected_to": "Ezra 2:54",
+    "connected_from": "Ezra 2:52"
+  },
+  {
+    "text": "the children of Neziah, the children of Hatipha.",
+    "reference": "Ezra 2:54 (ASV)",
+    "connected_to": "Ezra 2:55",
+    "connected_from": "Ezra 2:53"
+  },
+  {
+    "text": "The children of Solomon’s servants: the children of Sotai, the children of Hassophereth, the children of Peruda,",
+    "reference": "Ezra 2:55 (ASV)",
+    "connected_to": "Ezra 2:56",
+    "connected_from": "Ezra 2:54"
+  },
+  {
+    "text": "the children of Jaalah, the children of Darkon, the children of Giddel,",
+    "reference": "Ezra 2:56 (ASV)",
+    "connected_to": "Ezra 2:57",
+    "connected_from": "Ezra 2:55"
+  },
+  {
+    "text": "the children of Shephatiah, the children of Hattil, the children of Pochereth-hazzebaim, the children of Ami.",
+    "reference": "Ezra 2:57 (ASV)",
+    "connected_to": "Ezra 2:58",
+    "connected_from": "Ezra 2:56"
+  },
+  {
+    "text": "All the Nethinim, and the children of Solomon’s servants, were three hundred ninety and two.",
+    "reference": "Ezra 2:58 (ASV)",
+    "connected_to": "Ezra 2:59",
+    "connected_from": "Ezra 2:57"
+  },
+  {
+    "text": "And these were they that went up from Tel-melah, Tel-harsha, Cherub, Addan, and Immer; but they could not show their fathers’ houses, and their seed, whether they were of Israel:",
+    "reference": "Ezra 2:59 (ASV)",
+    "connected_to": "Ezra 2:60",
+    "connected_from": "Ezra 2:58"
+  },
+  {
+    "text": "the children of Delaiah, the children of Tobiah, the children of Nekoda, six hundred fifty and two.",
+    "reference": "Ezra 2:60 (ASV)",
+    "connected_to": "Ezra 2:61",
+    "connected_from": "Ezra 2:59"
+  },
+  {
+    "text": "And of the children of the priests: the children of Habaiah, the children of Hakkoz, the children of Barzillai, who took a wife of the daughters of Barzillai the Gileadite, and was called after their name.",
+    "reference": "Ezra 2:61 (ASV)",
+    "connected_to": "Ezra 2:62",
+    "connected_from": "Ezra 2:60"
+  },
+  {
+    "text": "These sought their register among those that were reckoned by genealogy, but they were not found: therefore were they deemed polluted and put from the priesthood.",
+    "reference": "Ezra 2:62 (ASV)",
+    "connected_to": "Ezra 2:63",
+    "connected_from": "Ezra 2:61"
+  },
+  {
+    "text": "And the governor said unto them, that they should not eat of the most holy things, till there stood up a priest with Urim and with Thummim.",
+    "reference": "Ezra 2:63 (ASV)",
+    "connected_to": "Ezra 2:64",
+    "connected_from": "Ezra 2:62"
+  },
+  {
+    "text": "The whole assembly together was forty and two thousand three hundred and threescore,",
+    "reference": "Ezra 2:64 (ASV)",
+    "connected_to": "Ezra 2:65",
+    "connected_from": "Ezra 2:63"
+  },
+  {
+    "text": "besides their men-servants and their maid-servants, of whom there were seven thousand three hundred thirty and seven: and they had two hundred singing men and singing women.",
+    "reference": "Ezra 2:65 (ASV)",
+    "connected_to": "Ezra 2:66",
+    "connected_from": "Ezra 2:64"
+  },
+  {
+    "text": "Their horses were seven hundred thirty and six; their mules, two hundred forty and five;",
+    "reference": "Ezra 2:66 (ASV)",
+    "connected_to": "Ezra 2:67",
+    "connected_from": "Ezra 2:65"
+  },
+  {
+    "text": "their camels, four hundred thirty and five; their asses, six thousand seven hundred and twenty.",
+    "reference": "Ezra 2:67 (ASV)",
+    "connected_to": "Ezra 2:68",
+    "connected_from": "Ezra 2:66"
+  },
+  {
+    "text": "And some of the heads of fathers’ houses, when they came to the house of Jehovah which is in Jerusalem, offered willingly for the house of God to set it up in its place:",
+    "reference": "Ezra 2:68 (ASV)",
+    "connected_to": "Ezra 2:69",
+    "connected_from": "Ezra 2:67"
+  },
+  {
+    "text": "they gave after their ability into the treasury of the work threescore and one thousand darics of gold, and five thousand pounds of silver, and one hundred priests’ garments.",
+    "reference": "Ezra 2:69 (ASV)",
+    "connected_to": "Ezra 2:70",
+    "connected_from": "Ezra 2:68"
+  },
+  {
+    "text": "So the priests, and the Levites, and some of the people, and the singers, and the porters, and the Nethinim, dwelt in their cities, and all Israel in their cities.",
+    "reference": "Ezra 2:70 (ASV)",
+    "connected_from": "Ezra 2:69"
+  }
+]

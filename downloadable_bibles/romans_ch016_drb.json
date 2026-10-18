@@ -1,0 +1,162 @@
+[
+  {
+    "text": "AND I commend to you Phebe, our sister, who is in the ministry of the church, that is in Cenchrae:",
+    "reference": "Romans 16:1 (DRB)",
+    "connected_to": "Romans 16:2"
+  },
+  {
+    "text": "That you receive her in the Lord as becometh saints; and that you assist her in whatsoever business she shall have need of you. For she also hath assisted many, and myself also.",
+    "reference": "Romans 16:2 (DRB)",
+    "connected_to": "Romans 16:3",
+    "connected_from": "Romans 16:1"
+  },
+  {
+    "text": "Salute Prisca and Aquila, my helpers in Christ Jesus,",
+    "reference": "Romans 16:3 (DRB)",
+    "connected_to": "Romans 16:4",
+    "connected_from": "Romans 16:2"
+  },
+  {
+    "text": "(Who have for my life laid down their own necks: to whom not I only give thanks, but also all the churches of the Gentiles,)",
+    "reference": "Romans 16:4 (DRB)",
+    "connected_to": "Romans 16:5",
+    "connected_from": "Romans 16:3"
+  },
+  {
+    "text": "And the church which is in their house. Salute Epenetus, my beloved: who is the firstfruits of Asia in Christ.",
+    "reference": "Romans 16:5 (DRB)",
+    "connected_to": "Romans 16:6",
+    "connected_from": "Romans 16:4"
+  },
+  {
+    "text": "Salute Mary, who hath laboured much among you.",
+    "reference": "Romans 16:6 (DRB)",
+    "connected_to": "Romans 16:7",
+    "connected_from": "Romans 16:5"
+  },
+  {
+    "text": "Salute Andronicus and Junias, my kinsmen and fellow prisoners: who are of note among the apostles, who also were in Christ before me.",
+    "reference": "Romans 16:7 (DRB)",
+    "connected_to": "Romans 16:8",
+    "connected_from": "Romans 16:6"
+  },
+  {
+    "text": "Salute Ampliatus, most beloved to me in the Lord.",
+    "reference": "Romans 16:8 (DRB)",
+    "connected_to": "Romans 16:9",
+    "connected_from": "Romans 16:7"
+  },
+  {
+    "text": "Salute Urbanus, our helper in Christ Jesus, and Stachys, my beloved.",
+    "reference": "Romans 16:9 (DRB)",
+    "connected_to": "Romans 16:10",
+    "connected_from": "Romans 16:8"
+  },
+  {
+    "text": "Salute Apelles, approved in Christ.",
+    "reference": "Romans 16:10 (DRB)",
+    "connected_to": "Romans 16:11",
+    "connected_from": "Romans 16:9"
+  },
+  {
+    "text": "Salute them that are of Aristobulus’ household. Salute Herodian, my kinsman. Salute them that are of Narcissus’ household, who are in the Lord.",
+    "reference": "Romans 16:11 (DRB)",
+    "connected_to": "Romans 16:12",
+    "connected_from": "Romans 16:10"
+  },
+  {
+    "text": "Salute Tryphaena and Tryphosa, who labour in the Lord. Salute Persis, the dearly beloved, who hath much laboured in the Lord.",
+    "reference": "Romans 16:12 (DRB)",
+    "connected_to": "Romans 16:13",
+    "connected_from": "Romans 16:11"
+  },
+  {
+    "text": "Salute Rufus, elect in the Lord, and his mother and mine.",
+    "reference": "Romans 16:13 (DRB)",
+    "connected_to": "Romans 16:14",
+    "connected_from": "Romans 16:12"
+  },
+  {
+    "text": "Salute Asyncritus, Phlegon, Hermas, Patrobas, Hermes, and the brethren that are with them.",
+    "reference": "Romans 16:14 (DRB)",
+    "connected_to": "Romans 16:15",
+    "connected_from": "Romans 16:13"
+  },
+  {
+    "text": "Salute Philologus and Julia, Nereus and his sister, and Olympias; and all the saints that are with them.",
+    "reference": "Romans 16:15 (DRB)",
+    "connected_to": "Romans 16:16",
+    "connected_from": "Romans 16:14"
+  },
+  {
+    "text": "Salute one another with an holy kiss. All the churches of Christ salute you.",
+    "reference": "Romans 16:16 (DRB)",
+    "connected_to": "Romans 16:17",
+    "connected_from": "Romans 16:15"
+  },
+  {
+    "text": "Now I beseech you, brethren, to mark them who make dissensions and offences contrary to the doctrine which you have learned, and avoid them.",
+    "reference": "Romans 16:17 (DRB)",
+    "connected_to": "Romans 16:18",
+    "connected_from": "Romans 16:16"
+  },
+  {
+    "text": "For they that are such, serve not Christ our Lord, but their own belly; and by pleasing speeches and good words, seduce the hearts of the innocent.",
+    "reference": "Romans 16:18 (DRB)",
+    "connected_to": "Romans 16:19",
+    "connected_from": "Romans 16:17"
+  },
+  {
+    "text": "For your obedience is published in every place. I rejoice therefore in you. But I would have you to be wise in good, and simple in evil.",
+    "reference": "Romans 16:19 (DRB)",
+    "connected_to": "Romans 16:20",
+    "connected_from": "Romans 16:18"
+  },
+  {
+    "text": "And the God of peace crush Satan under your feet speedily. The grace of our Lord Jesus Christ be with you.",
+    "reference": "Romans 16:20 (DRB)",
+    "connected_to": "Romans 16:21",
+    "connected_from": "Romans 16:19"
+  },
+  {
+    "text": "Timothy, my fellow labourer, saluteth you, and Lucius, and Jason, and Sosipater, my kinsmen.",
+    "reference": "Romans 16:21 (DRB)",
+    "connected_to": "Romans 16:22",
+    "connected_from": "Romans 16:20"
+  },
+  {
+    "text": "I Tertius, who wrote this epistle, salute you in the Lord.",
+    "reference": "Romans 16:22 (DRB)",
+    "connected_to": "Romans 16:23",
+    "connected_from": "Romans 16:21"
+  },
+  {
+    "text": "Caius, my host, and the whole church, saluteth you. Erastus, the treasurer of the city, saluteth you, and Quartus, a brother.",
+    "reference": "Romans 16:23 (DRB)",
+    "connected_to": "Romans 16:24",
+    "connected_from": "Romans 16:22"
+  },
+  {
+    "text": "The grace of our Lord Jesus Christ be with you all. Amen.",
+    "reference": "Romans 16:24 (DRB)",
+    "connected_to": "Romans 16:25",
+    "connected_from": "Romans 16:23"
+  },
+  {
+    "text": "Now to him that is able to establish you, according to my gospel, and the preaching of Jesus Christ, according to the revelation of the mystery, which was kept secret from eternity,",
+    "reference": "Romans 16:25 (DRB)",
+    "connected_to": "Romans 16:26",
+    "connected_from": "Romans 16:24"
+  },
+  {
+    "text": "(Which now is made manifest by the scriptures of the prophets, according to the precept of the eternal God, for the obedience of faith,) known among all nations;",
+    "reference": "Romans 16:26 (DRB)",
+    "connected_to": "Romans 16:27",
+    "connected_from": "Romans 16:25"
+  },
+  {
+    "text": "To God the only wise, through Jesus Christ, to whom be honour and glory for ever and ever. Amen.",
+    "reference": "Romans 16:27 (DRB)",
+    "connected_from": "Romans 16:26"
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "text": "This is the book of the generations of Adam. In the day that God created man, He made him in His own likeness.",
+    "reference": "Genesis 5:1 (BSB)",
+    "connected_to": "Genesis 5:2"
+  },
+  {
+    "text": "Male and female He created them, and He blessed them. And in the day they were created, He called them “man.”",
+    "reference": "Genesis 5:2 (BSB)",
+    "connected_to": "Genesis 5:3",
+    "connected_from": "Genesis 5:1"
+  },
+  {
+    "text": "When Adam was 130 years old, he had a son in his own likeness, after his own image; and he named him Seth.",
+    "reference": "Genesis 5:3 (BSB)",
+    "connected_to": "Genesis 5:4",
+    "connected_from": "Genesis 5:2"
+  },
+  {
+    "text": "And after he had become the father of Seth, Adam lived 800 years and had other sons and daughters.",
+    "reference": "Genesis 5:4 (BSB)",
+    "connected_to": "Genesis 5:5",
+    "connected_from": "Genesis 5:3"
+  },
+  {
+    "text": "So Adam lived a total of 930 years, and then he died.",
+    "reference": "Genesis 5:5 (BSB)",
+    "connected_to": "Genesis 5:6",
+    "connected_from": "Genesis 5:4"
+  },
+  {
+    "text": "When Seth was 105 years old, he became the father of Enosh.",
+    "reference": "Genesis 5:6 (BSB)",
+    "connected_to": "Genesis 5:7",
+    "connected_from": "Genesis 5:5"
+  },
+  {
+    "text": "And after he had become the father of Enosh, Seth lived 807 years and had other sons and daughters.",
+    "reference": "Genesis 5:7 (BSB)",
+    "connected_to": "Genesis 5:8",
+    "connected_from": "Genesis 5:6"
+  },
+  {
+    "text": "So Seth lived a total of 912 years, and then he died.",
+    "reference": "Genesis 5:8 (BSB)",
+    "connected_to": "Genesis 5:9",
+    "connected_from": "Genesis 5:7"
+  },
+  {
+    "text": "When Enosh was 90 years old, he became the father of Kenan.",
+    "reference": "Genesis 5:9 (BSB)",
+    "connected_to": "Genesis 5:10",
+    "connected_from": "Genesis 5:8"
+  },
+  {
+    "text": "And after he had become the father of Kenan, Enosh lived 815 years and had other sons and daughters.",
+    "reference": "Genesis 5:10 (BSB)",
+    "connected_to": "Genesis 5:11",
+    "connected_from": "Genesis 5:9"
+  },
+  {
+    "text": "So Enosh lived a total of 905 years, and then he died.",
+    "reference": "Genesis 5:11 (BSB)",
+    "connected_to": "Genesis 5:12",
+    "connected_from": "Genesis 5:10"
+  },
+  {
+    "text": "When Kenan was 70 years old, he became the father of Mahalalel.",
+    "reference": "Genesis 5:12 (BSB)",
+    "connected_to": "Genesis 5:13",
+    "connected_from": "Genesis 5:11"
+  },
+  {
+    "text": "And after he had become the father of Mahalalel, Kenan lived 840 years and had other sons and daughters.",
+    "reference": "Genesis 5:13 (BSB)",
+    "connected_to": "Genesis 5:14",
+    "connected_from": "Genesis 5:12"
+  },
+  {
+    "text": "So Kenan lived a total of 910 years, and then he died.",
+    "reference": "Genesis 5:14 (BSB)",
+    "connected_to": "Genesis 5:15",
+    "connected_from": "Genesis 5:13"
+  },
+  {
+    "text": "When Mahalalel was 65 years old, he became the father of Jared.",
+    "reference": "Genesis 5:15 (BSB)",
+    "connected_to": "Genesis 5:16",
+    "connected_from": "Genesis 5:14"
+  },
+  {
+    "text": "And after he had become the father of Jared, Mahalalel lived 830 years and had other sons and daughters.",
+    "reference": "Genesis 5:16 (BSB)",
+    "connected_to": "Genesis 5:17",
+    "connected_from": "Genesis 5:15"
+  },
+  {
+    "text": "So Mahalalel lived a total of 895 years, and then he died.",
+    "reference": "Genesis 5:17 (BSB)",
+    "connected_to": "Genesis 5:18",
+    "connected_from": "Genesis 5:16"
+  },
+  {
+    "text": "When Jared was 162 years old, he became the father of Enoch.",
+    "reference": "Genesis 5:18 (BSB)",
+    "connected_to": "Genesis 5:19",
+    "connected_from": "Genesis 5:17"
+  },
+  {
+    "text": "And after he had become the father of Enoch, Jared lived 800 years and had other sons and daughters.",
+    "reference": "Genesis 5:19 (BSB)",
+    "connected_to": "Genesis 5:20",
+    "connected_from": "Genesis 5:18"
+  },
+  {
+    "text": "So Jared lived a total of 962 years, and then he died.",
+    "reference": "Genesis 5:20 (BSB)",
+    "connected_to": "Genesis 5:21",
+    "connected_from": "Genesis 5:19"
+  },
+  {
+    "text": "When Enoch was 65 years old, he became the father of Methuselah.",
+    "reference": "Genesis 5:21 (BSB)",
+    "connected_to": "Genesis 5:22",
+    "connected_from": "Genesis 5:20"
+  },
+  {
+    "text": "And after he had become the father of Methuselah, Enoch walked with God 300 years and had other sons and daughters.",
+    "reference": "Genesis 5:22 (BSB)",
+    "connected_to": "Genesis 5:23",
+    "connected_from": "Genesis 5:21"
+  },
+  {
+    "text": "So Enoch lived a total of 365 years.",
+    "reference": "Genesis 5:23 (BSB)",
+    "connected_to": "Genesis 5:24",
+    "connected_from": "Genesis 5:22"
+  },
+  {
+    "text": "Enoch walked with God, and then he was no more, because God had taken him away.",
+    "reference": "Genesis 5:24 (BSB)",
+    "connected_to": "Genesis 5:25",
+    "connected_from": "Genesis 5:23"
+  },
+  {
+    "text": "When Methuselah was 187 years old, he became the father of Lamech.",
+    "reference": "Genesis 5:25 (BSB)",
+    "connected_to": "Genesis 5:26",
+    "connected_from": "Genesis 5:24"
+  },
+  {
+    "text": "And after he had become the father of Lamech, Methuselah lived 782 years and had other sons and daughters.",
+    "reference": "Genesis 5:26 (BSB)",
+    "connected_to": "Genesis 5:27",
+    "connected_from": "Genesis 5:25"
+  },
+  {
+    "text": "So Methuselah lived a total of 969 years, and then he died.",
+    "reference": "Genesis 5:27 (BSB)",
+    "connected_to": "Genesis 5:28",
+    "connected_from": "Genesis 5:26"
+  },
+  {
+    "text": "When Lamech was 182 years old, he had a son.",
+    "reference": "Genesis 5:28 (BSB)",
+    "connected_to": "Genesis 5:29",
+    "connected_from": "Genesis 5:27"
+  },
+  {
+    "text": "And he named him Noah, saying, “May this one comfort us in the labor and toil of our hands caused by the ground that the LORD has cursed.”",
+    "reference": "Genesis 5:29 (BSB)",
+    "connected_to": "Genesis 5:30",
+    "connected_from": "Genesis 5:28"
+  },
+  {
+    "text": "And after he had become the father of Noah, Lamech lived 595 years and had other sons and daughters.",
+    "reference": "Genesis 5:30 (BSB)",
+    "connected_to": "Genesis 5:31",
+    "connected_from": "Genesis 5:29"
+  },
+  {
+    "text": "So Lamech lived a total of 777 years, and then he died.",
+    "reference": "Genesis 5:31 (BSB)",
+    "connected_to": "Genesis 5:32",
+    "connected_from": "Genesis 5:30"
+  },
+  {
+    "text": "After Noah was 500 years old, he became the father of Shem, Ham, and Japheth.",
+    "reference": "Genesis 5:32 (BSB)",
+    "connected_from": "Genesis 5:31"
+  }
+]

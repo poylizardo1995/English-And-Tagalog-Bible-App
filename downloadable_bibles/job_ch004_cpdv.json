@@ -1,0 +1,126 @@
+[
+  {
+    "text": "But Eliphaz the Themanite, answering, said:",
+    "reference": "Job 4:1 (CPDV)",
+    "connected_to": "Job 4:2"
+  },
+  {
+    "text": "If we start to speak to you, perhaps you will take it badly, but who can hold back the words he has conceived?",
+    "reference": "Job 4:2 (CPDV)",
+    "connected_to": "Job 4:3",
+    "connected_from": "Job 4:1"
+  },
+  {
+    "text": "Behold, you have taught many, and you have strengthened weary hands.",
+    "reference": "Job 4:3 (CPDV)",
+    "connected_to": "Job 4:4",
+    "connected_from": "Job 4:2"
+  },
+  {
+    "text": "Your words have reassured the wavering, and you have fortified the trembling knees.",
+    "reference": "Job 4:4 (CPDV)",
+    "connected_to": "Job 4:5",
+    "connected_from": "Job 4:3"
+  },
+  {
+    "text": "But now the scourge has overcome you, and you falter. It has touched you, and you are disturbed.",
+    "reference": "Job 4:5 (CPDV)",
+    "connected_to": "Job 4:6",
+    "connected_from": "Job 4:4"
+  },
+  {
+    "text": "Where is your reverence, your fortitude, your patience, and the perfection of your ways?",
+    "reference": "Job 4:6 (CPDV)",
+    "connected_to": "Job 4:7",
+    "connected_from": "Job 4:5"
+  },
+  {
+    "text": "Consider this, I beg you: who ever perished being innocent? Or when have the righteous been destroyed?",
+    "reference": "Job 4:7 (CPDV)",
+    "connected_to": "Job 4:8",
+    "connected_from": "Job 4:6"
+  },
+  {
+    "text": "In fact, I have instead seen those who work iniquity and who sow resentments, reap them,",
+    "reference": "Job 4:8 (CPDV)",
+    "connected_to": "Job 4:9",
+    "connected_from": "Job 4:7"
+  },
+  {
+    "text": "perishing by the breath of God, and being consumed by the wrath of his spirit.",
+    "reference": "Job 4:9 (CPDV)",
+    "connected_to": "Job 4:10",
+    "connected_from": "Job 4:8"
+  },
+  {
+    "text": "The roaring of the lion, and the voice of the lioness, and the teeth of young lions have been worn away.",
+    "reference": "Job 4:10 (CPDV)",
+    "connected_to": "Job 4:11",
+    "connected_from": "Job 4:9"
+  },
+  {
+    "text": "The tiger has perished because it does not have prey, and the young lions have been scattered.",
+    "reference": "Job 4:11 (CPDV)",
+    "connected_to": "Job 4:12",
+    "connected_from": "Job 4:10"
+  },
+  {
+    "text": "Furthermore, a word was spoken to me in secret, and, as if by theft, my ears received the pulse of its whisper.",
+    "reference": "Job 4:12 (CPDV)",
+    "connected_to": "Job 4:13",
+    "connected_from": "Job 4:11"
+  },
+  {
+    "text": "In the horror of a vision by night, when men are accustomed to be overtaken by a deep sleep,",
+    "reference": "Job 4:13 (CPDV)",
+    "connected_to": "Job 4:14",
+    "connected_from": "Job 4:12"
+  },
+  {
+    "text": "fear and trembling seized me and all my bones were terrified.",
+    "reference": "Job 4:14 (CPDV)",
+    "connected_to": "Job 4:15",
+    "connected_from": "Job 4:13"
+  },
+  {
+    "text": "And when a spirit passed before me, the hair on my body stood up.",
+    "reference": "Job 4:15 (CPDV)",
+    "connected_to": "Job 4:16",
+    "connected_from": "Job 4:14"
+  },
+  {
+    "text": "There appeared an image before my eyes, someone whose face I did not recognize, and I heard a voice like a gentle breeze.",
+    "reference": "Job 4:16 (CPDV)",
+    "connected_to": "Job 4:17",
+    "connected_from": "Job 4:15"
+  },
+  {
+    "text": "Should man be justified in relation to God, or will a man be more pure than his Maker?",
+    "reference": "Job 4:17 (CPDV)",
+    "connected_to": "Job 4:18",
+    "connected_from": "Job 4:16"
+  },
+  {
+    "text": "Behold, those who serve him are not steadfast, and in his angels he finds imperfection.",
+    "reference": "Job 4:18 (CPDV)",
+    "connected_to": "Job 4:19",
+    "connected_from": "Job 4:17"
+  },
+  {
+    "text": "How much more will those who live in houses of clay, which have an earthly foundation, be consumed like the moth?",
+    "reference": "Job 4:19 (CPDV)",
+    "connected_to": "Job 4:20",
+    "connected_from": "Job 4:18"
+  },
+  {
+    "text": "From morning all the way to evening, they will be cut down, and because no one understands, they will be destroyed without ceasing.",
+    "reference": "Job 4:20 (CPDV)",
+    "connected_to": "Job 4:21",
+    "connected_from": "Job 4:19"
+  },
+  {
+    "text": "But those who are left behind will be taken away from them; they will die, and not in wisdom.",
+    "reference": "Job 4:21 (CPDV)",
+    "connected_from": "Job 4:20"
+  }
+]

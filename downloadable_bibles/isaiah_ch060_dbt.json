@@ -1,0 +1,132 @@
+[
+  {
+    "text": "Arise, shine! for thy light is come, and the glory of Jehovah is risen upon thee.",
+    "reference": "Isaiah 60:1 (DBT)",
+    "connected_to": "Isaiah 60:2"
+  },
+  {
+    "text": "For behold, darkness shall cover the earth, and gross darkness the peoples; but Jehovah will arise upon thee, and his glory shall be seen on thee.",
+    "reference": "Isaiah 60:2 (DBT)",
+    "connected_to": "Isaiah 60:3",
+    "connected_from": "Isaiah 60:1"
+  },
+  {
+    "text": "And the nations shall walk by thy light, and kings by the brightness of thy rising.",
+    "reference": "Isaiah 60:3 (DBT)",
+    "connected_to": "Isaiah 60:4",
+    "connected_from": "Isaiah 60:2"
+  },
+  {
+    "text": "Lift up thine eyes round about, and see: all they gather themselves together, they come to thee: thy sons come from afar, and thy daughters are carried upon the side.",
+    "reference": "Isaiah 60:4 (DBT)",
+    "connected_to": "Isaiah 60:5",
+    "connected_from": "Isaiah 60:3"
+  },
+  {
+    "text": "Then thou shalt see, and shalt be brightened, and thy heart shall throb, and be enlarged; for the abundance of the sea shall be turned unto thee, the wealth of the nations shall come unto thee.",
+    "reference": "Isaiah 60:5 (DBT)",
+    "connected_to": "Isaiah 60:6",
+    "connected_from": "Isaiah 60:4"
+  },
+  {
+    "text": "A multitude of camels shall cover thee, young camels of Midian and Ephah; all they from Sheba shall come: they shall bring gold and incense; and they shall publish the praises of Jehovah.",
+    "reference": "Isaiah 60:6 (DBT)",
+    "connected_to": "Isaiah 60:7",
+    "connected_from": "Isaiah 60:5"
+  },
+  {
+    "text": "All the flocks of Kedar shall be gathered unto thee, the rams of Nebaioth shall serve thee: they shall come up with acceptance on mine altar, and I will beautify the house of my magnificence.",
+    "reference": "Isaiah 60:7 (DBT)",
+    "connected_to": "Isaiah 60:8",
+    "connected_from": "Isaiah 60:6"
+  },
+  {
+    "text": "Who are these that come flying as a cloud, and as doves to their dove-cotes?",
+    "reference": "Isaiah 60:8 (DBT)",
+    "connected_to": "Isaiah 60:9",
+    "connected_from": "Isaiah 60:7"
+  },
+  {
+    "text": "For the isles shall await me, and the ships of Tarshish first, to bring thy sons from afar, their silver and their gold with them, unto the name of Jehovah thy God, and to the Holy One of Israel, for he hath glorified thee.",
+    "reference": "Isaiah 60:9 (DBT)",
+    "connected_to": "Isaiah 60:10",
+    "connected_from": "Isaiah 60:8"
+  },
+  {
+    "text": "And the sons of the alien shall build up thy walls, and their kings shall minister unto thee. For in my wrath I smote thee, but in my favour have I had mercy on thee.",
+    "reference": "Isaiah 60:10 (DBT)",
+    "connected_to": "Isaiah 60:11",
+    "connected_from": "Isaiah 60:9"
+  },
+  {
+    "text": "And thy gates shall stand open continually: (they shall not be shut day nor night,) that the wealth of the nations may be brought unto thee, and that their kings may be led [to thee].",
+    "reference": "Isaiah 60:11 (DBT)",
+    "connected_to": "Isaiah 60:12",
+    "connected_from": "Isaiah 60:10"
+  },
+  {
+    "text": "For the nation and the kingdom that will not serve thee shall perish; and those nations shall be utterly wasted.",
+    "reference": "Isaiah 60:12 (DBT)",
+    "connected_to": "Isaiah 60:13",
+    "connected_from": "Isaiah 60:11"
+  },
+  {
+    "text": "The glory of Lebanon shall come unto thee, the cypress, pine, and box-tree together, to beautify the place of my sanctuary; and I will make the place of my feet glorious.",
+    "reference": "Isaiah 60:13 (DBT)",
+    "connected_to": "Isaiah 60:14",
+    "connected_from": "Isaiah 60:12"
+  },
+  {
+    "text": "And the children of them that afflicted thee shall come bending unto thee; and all they that despised thee shall bow themselves down at the soles of thy feet; and they shall call thee The city of Jehovah, the Zion of the Holy One of Israel.",
+    "reference": "Isaiah 60:14 (DBT)",
+    "connected_to": "Isaiah 60:15",
+    "connected_from": "Isaiah 60:13"
+  },
+  {
+    "text": "Instead of thy being forsaken and hated, so that no one went through [thee], I will make thee an eternal excellency, a joy from generation to generation.",
+    "reference": "Isaiah 60:15 (DBT)",
+    "connected_to": "Isaiah 60:16",
+    "connected_from": "Isaiah 60:14"
+  },
+  {
+    "text": "And thou shalt suck the milk of the nations, and shalt suck the breast of kings; and thou shalt know that I, Jehovah, [am] thy Saviour and thy Redeemer, the Mighty One of Jacob.",
+    "reference": "Isaiah 60:16 (DBT)",
+    "connected_to": "Isaiah 60:17",
+    "connected_from": "Isaiah 60:15"
+  },
+  {
+    "text": "For bronze I will bring gold, and for iron I will bring silver, and for wood bronze, and for stones iron; and I will make thine officers peace, and thy rulers righteousness.",
+    "reference": "Isaiah 60:17 (DBT)",
+    "connected_to": "Isaiah 60:18",
+    "connected_from": "Isaiah 60:16"
+  },
+  {
+    "text": "Violence shall no more be heard in thy land, wasting nor destruction within thy borders; but thou shalt call thy walls Salvation, and thy gates Praise.",
+    "reference": "Isaiah 60:18 (DBT)",
+    "connected_to": "Isaiah 60:19",
+    "connected_from": "Isaiah 60:17"
+  },
+  {
+    "text": "The sun shall be no more thy light by day, neither for brightness shall the moon give light unto thee; but Jehovah shall be thine everlasting light, and thy God thy glory.",
+    "reference": "Isaiah 60:19 (DBT)",
+    "connected_to": "Isaiah 60:20",
+    "connected_from": "Isaiah 60:18"
+  },
+  {
+    "text": "Thy sun shall no more go down, neither shall thy moon withdraw itself; for Jehovah shall be thine everlasting light, and the days of thy mourning shall be ended.",
+    "reference": "Isaiah 60:20 (DBT)",
+    "connected_to": "Isaiah 60:21",
+    "connected_from": "Isaiah 60:19"
+  },
+  {
+    "text": "Thy people also shall be all righteous: they shall possess the land for ever—the branch of my planting, the work of my hands, that I may be glorified.",
+    "reference": "Isaiah 60:21 (DBT)",
+    "connected_to": "Isaiah 60:22",
+    "connected_from": "Isaiah 60:20"
+  },
+  {
+    "text": "The little one shall become a thousand, and the smallest a mighty nation: I, Jehovah, will hasten it in its time.",
+    "reference": "Isaiah 60:22 (DBT)",
+    "connected_from": "Isaiah 60:21"
+  }
+]

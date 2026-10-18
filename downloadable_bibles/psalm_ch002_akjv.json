@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Why do the heathen rage, and the people imagine a vain thing?",
+    "reference": "Psalm 2:1 (AKJV)",
+    "connected_to": "Psalm 2:2"
+  },
+  {
+    "text": "The kings of the earth set themselves, and the rulers take counsel together, against the LORD, and against his anointed, saying,",
+    "reference": "Psalm 2:2 (AKJV)",
+    "connected_to": "Psalm 2:3",
+    "connected_from": "Psalm 2:1"
+  },
+  {
+    "text": "Let us break their bands asunder, and cast away their cords from us.",
+    "reference": "Psalm 2:3 (AKJV)",
+    "connected_to": "Psalm 2:4",
+    "connected_from": "Psalm 2:2"
+  },
+  {
+    "text": "He that sits in the heavens shall laugh: the LORD shall have them in derision.",
+    "reference": "Psalm 2:4 (AKJV)",
+    "connected_to": "Psalm 2:5",
+    "connected_from": "Psalm 2:3"
+  },
+  {
+    "text": "Then shall he speak to them in his wrath, and vex them in his sore displeasure.",
+    "reference": "Psalm 2:5 (AKJV)",
+    "connected_to": "Psalm 2:6",
+    "connected_from": "Psalm 2:4"
+  },
+  {
+    "text": "Yet have I set my king on my holy hill of Zion.",
+    "reference": "Psalm 2:6 (AKJV)",
+    "connected_to": "Psalm 2:7",
+    "connected_from": "Psalm 2:5"
+  },
+  {
+    "text": "I will declare the decree: the LORD has said to me, You are my Son; this day have I begotten you.",
+    "reference": "Psalm 2:7 (AKJV)",
+    "connected_to": "Psalm 2:8",
+    "connected_from": "Psalm 2:6"
+  },
+  {
+    "text": "Ask of me, and I shall give you the heathen for your inheritance, and the uttermost parts of the earth for your possession.",
+    "reference": "Psalm 2:8 (AKJV)",
+    "connected_to": "Psalm 2:9",
+    "connected_from": "Psalm 2:7"
+  },
+  {
+    "text": "You shall break them with a rod of iron; you shall dash them in pieces like a potter’s vessel.",
+    "reference": "Psalm 2:9 (AKJV)",
+    "connected_to": "Psalm 2:10",
+    "connected_from": "Psalm 2:8"
+  },
+  {
+    "text": "Be wise now therefore, O you kings: be instructed, you judges of the earth.",
+    "reference": "Psalm 2:10 (AKJV)",
+    "connected_to": "Psalm 2:11",
+    "connected_from": "Psalm 2:9"
+  },
+  {
+    "text": "Serve the LORD with fear, and rejoice with trembling.",
+    "reference": "Psalm 2:11 (AKJV)",
+    "connected_to": "Psalm 2:12",
+    "connected_from": "Psalm 2:10"
+  },
+  {
+    "text": "Kiss the Son, lest he be angry, and you perish from the way, when his wrath is kindled but a little. Blessed are all they that put their trust in him.",
+    "reference": "Psalm 2:12 (AKJV)",
+    "connected_from": "Psalm 2:11"
+  }
+]

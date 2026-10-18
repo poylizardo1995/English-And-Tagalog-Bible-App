@@ -1,0 +1,54 @@
+[
+  {
+    "text": "By the rivers of Babylon, there we sat down, yes, we wept, when we remembered Zion.",
+    "reference": "Psalm 137:1 (AKJV)",
+    "connected_to": "Psalm 137:2"
+  },
+  {
+    "text": "We hanged our harps on the willows in the middle thereof.",
+    "reference": "Psalm 137:2 (AKJV)",
+    "connected_to": "Psalm 137:3",
+    "connected_from": "Psalm 137:1"
+  },
+  {
+    "text": "For there they that carried us away captive required of us a song; and they that wasted us required of us mirth, saying, Sing us one of the songs of Zion.",
+    "reference": "Psalm 137:3 (AKJV)",
+    "connected_to": "Psalm 137:4",
+    "connected_from": "Psalm 137:2"
+  },
+  {
+    "text": "How shall we sing the LORD’s song in a strange land?",
+    "reference": "Psalm 137:4 (AKJV)",
+    "connected_to": "Psalm 137:5",
+    "connected_from": "Psalm 137:3"
+  },
+  {
+    "text": "If I forget you, O Jerusalem, let my right hand forget her cunning.",
+    "reference": "Psalm 137:5 (AKJV)",
+    "connected_to": "Psalm 137:6",
+    "connected_from": "Psalm 137:4"
+  },
+  {
+    "text": "If I do not remember you, let my tongue stick to the roof of my mouth; if I prefer not Jerusalem above my chief joy.",
+    "reference": "Psalm 137:6 (AKJV)",
+    "connected_to": "Psalm 137:7",
+    "connected_from": "Psalm 137:5"
+  },
+  {
+    "text": "Remember, O LORD, the children of Edom in the day of Jerusalem; who said, Raze it, raze it, even to the foundation thereof.",
+    "reference": "Psalm 137:7 (AKJV)",
+    "connected_to": "Psalm 137:8",
+    "connected_from": "Psalm 137:6"
+  },
+  {
+    "text": "O daughter of Babylon, who are to be destroyed; happy shall he be, that rewards you as you have served us.",
+    "reference": "Psalm 137:8 (AKJV)",
+    "connected_to": "Psalm 137:9",
+    "connected_from": "Psalm 137:7"
+  },
+  {
+    "text": "Happy shall he be, that takes and dashes your little ones against the stones.",
+    "reference": "Psalm 137:9 (AKJV)",
+    "connected_from": "Psalm 137:8"
+  }
+]

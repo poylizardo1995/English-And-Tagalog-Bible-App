@@ -1,0 +1,30 @@
+[
+  {
+    "text": "The LORD reigns! He is robed in majesty; the LORD has clothed and armed Himself with strength. The world indeed is firmly established; it cannot be moved.",
+    "reference": "Psalm 93:1 (BSB)",
+    "connected_to": "Psalm 93:2"
+  },
+  {
+    "text": "Your throne was established long ago; You are from all eternity.",
+    "reference": "Psalm 93:2 (BSB)",
+    "connected_to": "Psalm 93:3",
+    "connected_from": "Psalm 93:1"
+  },
+  {
+    "text": "The floodwaters have risen, O LORD; the rivers have raised their voice; the seas lift up their pounding waves.",
+    "reference": "Psalm 93:3 (BSB)",
+    "connected_to": "Psalm 93:4",
+    "connected_from": "Psalm 93:2"
+  },
+  {
+    "text": "Above the roar of many waters—the mighty breakers of the sea—the LORD on high is majestic.",
+    "reference": "Psalm 93:4 (BSB)",
+    "connected_to": "Psalm 93:5",
+    "connected_from": "Psalm 93:3"
+  },
+  {
+    "text": "Your testimonies are fully confirmed; holiness adorns Your house, O LORD, for all the days to come.",
+    "reference": "Psalm 93:5 (BSB)",
+    "connected_from": "Psalm 93:4"
+  }
+]

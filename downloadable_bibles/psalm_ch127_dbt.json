@@ -1,0 +1,30 @@
+[
+  {
+    "text": "{A Song of degrees. Of Solomon.} Unless Jehovah build the house, in vain do its builders labour in it; unless Jehovah keep the city, the keeper watcheth in vain:",
+    "reference": "Psalm 127:1 (DBT)",
+    "connected_to": "Psalm 127:2"
+  },
+  {
+    "text": "It is vain for you to rise up early, to lie down late, to eat the bread of sorrows: so to his beloved one he giveth sleep.",
+    "reference": "Psalm 127:2 (DBT)",
+    "connected_to": "Psalm 127:3",
+    "connected_from": "Psalm 127:1"
+  },
+  {
+    "text": "Lo, children are an inheritance from Jehovah, [and] the fruit of the womb a reward.",
+    "reference": "Psalm 127:3 (DBT)",
+    "connected_to": "Psalm 127:4",
+    "connected_from": "Psalm 127:2"
+  },
+  {
+    "text": "As arrows in the hand of a mighty man, so are the children of youth.",
+    "reference": "Psalm 127:4 (DBT)",
+    "connected_to": "Psalm 127:5",
+    "connected_from": "Psalm 127:3"
+  },
+  {
+    "text": "Happy is the man that hath filled his quiver with them. They shall not be ashamed when they speak with enemies in the gate.",
+    "reference": "Psalm 127:5 (DBT)",
+    "connected_from": "Psalm 127:4"
+  }
+]

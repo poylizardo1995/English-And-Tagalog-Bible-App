@@ -1,0 +1,66 @@
+[
+  {
+    "text": "Come and let us return unto Jehovah: for he hath torn, and he will heal us; he hath smitten, and he will bind us up.",
+    "reference": "Hosea 6:1 (DBT)",
+    "connected_to": "Hosea 6:2"
+  },
+  {
+    "text": "After two days will he revive us; on the third day he will raise us up, and we shall live before his face;",
+    "reference": "Hosea 6:2 (DBT)",
+    "connected_to": "Hosea 6:3",
+    "connected_from": "Hosea 6:1"
+  },
+  {
+    "text": "and we shall know,—we shall follow on to know Jehovah: his going forth is assured as the morning dawn; and he will come unto us as the rain, as the latter rain which watereth the earth.",
+    "reference": "Hosea 6:3 (DBT)",
+    "connected_to": "Hosea 6:4",
+    "connected_from": "Hosea 6:2"
+  },
+  {
+    "text": "What shall I do unto thee, Ephraim? What shall I do unto thee, Judah? For your goodness is as a morning cloud, and as the dew that early passeth away.",
+    "reference": "Hosea 6:4 (DBT)",
+    "connected_to": "Hosea 6:5",
+    "connected_from": "Hosea 6:3"
+  },
+  {
+    "text": "Therefore have I hewed [them] by the prophets; I have slain them by the words of my mouth: and my judgment goeth forth as the light.",
+    "reference": "Hosea 6:5 (DBT)",
+    "connected_to": "Hosea 6:6",
+    "connected_from": "Hosea 6:4"
+  },
+  {
+    "text": "For I delight in loving-kindness, and not sacrifice; and the knowledge of God more than burnt-offerings.",
+    "reference": "Hosea 6:6 (DBT)",
+    "connected_to": "Hosea 6:7",
+    "connected_from": "Hosea 6:5"
+  },
+  {
+    "text": "But they like Adam have transgressed the covenant: there have they dealt treacherously against me.",
+    "reference": "Hosea 6:7 (DBT)",
+    "connected_to": "Hosea 6:8",
+    "connected_from": "Hosea 6:6"
+  },
+  {
+    "text": "Gilead is a city of them that work iniquity; it is tracked with blood.",
+    "reference": "Hosea 6:8 (DBT)",
+    "connected_to": "Hosea 6:9",
+    "connected_from": "Hosea 6:7"
+  },
+  {
+    "text": "And as troops of robbers lie in wait for a man, so the company of priests murder in the way of Shechem; yea, they commit lewdness.",
+    "reference": "Hosea 6:9 (DBT)",
+    "connected_to": "Hosea 6:10",
+    "connected_from": "Hosea 6:8"
+  },
+  {
+    "text": "In the house of Israel have I seen a horrible thing: the whoredom of Ephraim is there; Israel is defiled.",
+    "reference": "Hosea 6:10 (DBT)",
+    "connected_to": "Hosea 6:11",
+    "connected_from": "Hosea 6:9"
+  },
+  {
+    "text": "Also, for thee, Judah, is a harvest appointed, when I shall turn again the captivity of my people.",
+    "reference": "Hosea 6:11 (DBT)",
+    "connected_from": "Hosea 6:10"
+  }
+]

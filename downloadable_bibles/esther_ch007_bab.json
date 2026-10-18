@@ -1,0 +1,60 @@
+[
+  {
+    "text": "So the king and Haman (magnificent) went to dine with Esther (star) the queen,",
+    "reference": "Esther 7:1 (BAB)",
+    "connected_to": "Esther 7:2"
+  },
+  {
+    "text": "and as they drank their wine on that second day, the king asked once more (star), “Queen Esther, what is your petition? It will be given to you. What is your request? Even up to half the kingdom, it will be fulfilled.”",
+    "reference": "Esther 7:2 (BAB)",
+    "connected_to": "Esther 7:3",
+    "connected_from": "Esther 7:1"
+  },
+  {
+    "text": "Queen Esther (star) replied, “If I have found favor in your sight, O king, and if it pleases the king, grant me my life as my petition, and the lives of my people as my request.",
+    "reference": "Esther 7:3 (BAB)",
+    "connected_to": "Esther 7:4",
+    "connected_from": "Esther 7:2"
+  },
+  {
+    "text": "For my people and I have been sold out to destruction, death, and annihilation. If we had merely been sold as menservants and maidservants, I would have remained silent, because no such distress would justify burdening the king.”",
+    "reference": "Esther 7:4 (BAB)",
+    "connected_to": "Esther 7:5",
+    "connected_from": "Esther 7:3"
+  },
+  {
+    "text": "Then King Xerxes (I will be silent and poor) spoke up and asked Queen Esther (star), “Who is this, and where is the one who would devise \\whose heart has filled him to do/ such a scheme?”",
+    "reference": "Esther 7:5 (BAB)",
+    "connected_to": "Esther 7:6",
+    "connected_from": "Esther 7:4"
+  },
+  {
+    "text": "Esther (star) replied, “The adversary and enemy is this wicked man—Haman (magnificent)!” And Haman stood in terror before the king and queen.",
+    "reference": "Esther 7:6 (BAB)",
+    "connected_to": "Esther 7:7",
+    "connected_from": "Esther 7:5"
+  },
+  {
+    "text": "In his fury, the king arose from drinking his wine and went to the palace garden, while Haman (magnificent) stayed behind to beg Queen Esther (star) for his life, for he realized that the king was planning a terrible fate for him.",
+    "reference": "Esther 7:7 (BAB)",
+    "connected_to": "Esther 7:8",
+    "connected_from": "Esther 7:6"
+  },
+  {
+    "text": "Just as the king returned from the palace garden to the banquet hall, Haman (magnificent) was falling on the couch where Esther (star) was reclining. The king exclaimed, “Would he actually assault the queen while I am in the palace?” As soon as the words had left the king’s mouth, they covered Haman’s face.",
+    "reference": "Esther 7:8 (BAB)",
+    "connected_to": "Esther 7:9",
+    "connected_from": "Esther 7:7"
+  },
+  {
+    "text": "Then Harbonah (donkey driver), one of the eunuchs attending the king, said: “There is a gallows fifty cubits high <75 ft / 22.9 m> at Haman’s (magnificent) house. He had it built for Mordecai (little man), who gave the report that saved the king.” “Hang him on it!” declared the king.",
+    "reference": "Esther 7:9 (BAB)",
+    "connected_to": "Esther 7:10",
+    "connected_from": "Esther 7:8"
+  },
+  {
+    "text": "So they hanged Haman (magnificent) on the gallows he had prepared for Mordecai (little man). Then the fury of the king subsided.",
+    "reference": "Esther 7:10 (BAB)",
+    "connected_from": "Esther 7:9"
+  }
+]

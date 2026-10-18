@@ -1,0 +1,126 @@
+[
+  {
+    "text": "Is there not an appointed time to man on earth? are not his days also like the days of an hireling?",
+    "reference": "Job 7:1 (AKJV)",
+    "connected_to": "Job 7:2"
+  },
+  {
+    "text": "As a servant earnestly desires the shadow, and as an hireling looks for the reward of his work:",
+    "reference": "Job 7:2 (AKJV)",
+    "connected_to": "Job 7:3",
+    "connected_from": "Job 7:1"
+  },
+  {
+    "text": "So am I made to possess months of vanity, and wearisome nights are appointed to me.",
+    "reference": "Job 7:3 (AKJV)",
+    "connected_to": "Job 7:4",
+    "connected_from": "Job 7:2"
+  },
+  {
+    "text": "When I lie down, I say, When shall I arise, and the night be gone? and I am full of tossings to and fro to the dawning of the day.",
+    "reference": "Job 7:4 (AKJV)",
+    "connected_to": "Job 7:5",
+    "connected_from": "Job 7:3"
+  },
+  {
+    "text": "My flesh is clothed with worms and clods of dust; my skin is broken, and become loathsome.",
+    "reference": "Job 7:5 (AKJV)",
+    "connected_to": "Job 7:6",
+    "connected_from": "Job 7:4"
+  },
+  {
+    "text": "My days are swifter than a weaver’s shuttle, and are spent without hope.",
+    "reference": "Job 7:6 (AKJV)",
+    "connected_to": "Job 7:7",
+    "connected_from": "Job 7:5"
+  },
+  {
+    "text": "O remember that my life is wind: my eye shall no more see good.",
+    "reference": "Job 7:7 (AKJV)",
+    "connected_to": "Job 7:8",
+    "connected_from": "Job 7:6"
+  },
+  {
+    "text": "The eye of him that has seen me shall see me no more: your eyes are on me, and I am not.",
+    "reference": "Job 7:8 (AKJV)",
+    "connected_to": "Job 7:9",
+    "connected_from": "Job 7:7"
+  },
+  {
+    "text": "As the cloud is consumed and vanishes away: so he that goes down to the grave shall come up no more.",
+    "reference": "Job 7:9 (AKJV)",
+    "connected_to": "Job 7:10",
+    "connected_from": "Job 7:8"
+  },
+  {
+    "text": "He shall return no more to his house, neither shall his place know him any more.",
+    "reference": "Job 7:10 (AKJV)",
+    "connected_to": "Job 7:11",
+    "connected_from": "Job 7:9"
+  },
+  {
+    "text": "Therefore I will not refrain my mouth; I will speak in the anguish of my spirit; I will complain in the bitterness of my soul.",
+    "reference": "Job 7:11 (AKJV)",
+    "connected_to": "Job 7:12",
+    "connected_from": "Job 7:10"
+  },
+  {
+    "text": "Am I a sea, or a whale, that you set a watch over me?",
+    "reference": "Job 7:12 (AKJV)",
+    "connected_to": "Job 7:13",
+    "connected_from": "Job 7:11"
+  },
+  {
+    "text": "When I say, My bed shall comfort me, my couch shall ease my complaints;",
+    "reference": "Job 7:13 (AKJV)",
+    "connected_to": "Job 7:14",
+    "connected_from": "Job 7:12"
+  },
+  {
+    "text": "Then you scare me with dreams, and terrify me through visions:",
+    "reference": "Job 7:14 (AKJV)",
+    "connected_to": "Job 7:15",
+    "connected_from": "Job 7:13"
+  },
+  {
+    "text": "So that my soul chooses strangling, and death rather than my life.",
+    "reference": "Job 7:15 (AKJV)",
+    "connected_to": "Job 7:16",
+    "connected_from": "Job 7:14"
+  },
+  {
+    "text": "I loathe it; I would not live always: let me alone; for my days are vanity.",
+    "reference": "Job 7:16 (AKJV)",
+    "connected_to": "Job 7:17",
+    "connected_from": "Job 7:15"
+  },
+  {
+    "text": "What is man, that you should magnify him? and that you should set your heart on him?",
+    "reference": "Job 7:17 (AKJV)",
+    "connected_to": "Job 7:18",
+    "connected_from": "Job 7:16"
+  },
+  {
+    "text": "And that you should visit him every morning, and try him every moment?",
+    "reference": "Job 7:18 (AKJV)",
+    "connected_to": "Job 7:19",
+    "connected_from": "Job 7:17"
+  },
+  {
+    "text": "How long will you not depart from me, nor let me alone till I swallow down my spittle?",
+    "reference": "Job 7:19 (AKJV)",
+    "connected_to": "Job 7:20",
+    "connected_from": "Job 7:18"
+  },
+  {
+    "text": "I have sinned; what shall I do to you, O you preserver of men? why have you set me as a mark against you, so that I am a burden to myself?",
+    "reference": "Job 7:20 (AKJV)",
+    "connected_to": "Job 7:21",
+    "connected_from": "Job 7:19"
+  },
+  {
+    "text": "And why do you not pardon my transgression, and take away my iniquity? for now shall I sleep in the dust; and you shall seek me in the morning, but I shall not be.",
+    "reference": "Job 7:21 (AKJV)",
+    "connected_from": "Job 7:20"
+  }
+]

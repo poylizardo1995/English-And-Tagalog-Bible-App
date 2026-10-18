@@ -1,0 +1,150 @@
+[
+  {
+    "text": "Then Job, answering, said:",
+    "reference": "Job 12:1 (CPDV)",
+    "connected_to": "Job 12:2"
+  },
+  {
+    "text": "Are you, therefore, alone among men, and will wisdom die with you?",
+    "reference": "Job 12:2 (CPDV)",
+    "connected_to": "Job 12:3",
+    "connected_from": "Job 12:1"
+  },
+  {
+    "text": "And I have a heart just as you also do, and I am not inferior to you. For who is ignorant of these things, which you know?",
+    "reference": "Job 12:3 (CPDV)",
+    "connected_to": "Job 12:4",
+    "connected_from": "Job 12:2"
+  },
+  {
+    "text": "He who is mocked by his friends as I am, will call upon God, and he will listen to him because it is the sincerity of the just that is being mocked.",
+    "reference": "Job 12:4 (CPDV)",
+    "connected_to": "Job 12:5",
+    "connected_from": "Job 12:3"
+  },
+  {
+    "text": "The lamp that is despised in the thoughts of the rich is ready for the appointed time.",
+    "reference": "Job 12:5 (CPDV)",
+    "connected_to": "Job 12:6",
+    "connected_from": "Job 12:4"
+  },
+  {
+    "text": "The tabernacles of robbers are numerous, and they provoke God boldly; whereas, it is he who has given all things into their hands.",
+    "reference": "Job 12:6 (CPDV)",
+    "connected_to": "Job 12:7",
+    "connected_from": "Job 12:5"
+  },
+  {
+    "text": "In truth, ask the mules, and they will teach you, and the birds of the sky, and they will reveal to you.",
+    "reference": "Job 12:7 (CPDV)",
+    "connected_to": "Job 12:8",
+    "connected_from": "Job 12:6"
+  },
+  {
+    "text": "Speak with the earth, and it will respond to you, and the fish of the sea will explain.",
+    "reference": "Job 12:8 (CPDV)",
+    "connected_to": "Job 12:9",
+    "connected_from": "Job 12:7"
+  },
+  {
+    "text": "Who is ignorant that the hand of the Lord has made all these things?",
+    "reference": "Job 12:9 (CPDV)",
+    "connected_to": "Job 12:10",
+    "connected_from": "Job 12:8"
+  },
+  {
+    "text": "In his hand is the soul of all the living and the spirit of all the flesh of mankind.",
+    "reference": "Job 12:10 (CPDV)",
+    "connected_to": "Job 12:11",
+    "connected_from": "Job 12:9"
+  },
+  {
+    "text": "Does not the ear perceive words, and the palate, when eating, perceive flavor?",
+    "reference": "Job 12:11 (CPDV)",
+    "connected_to": "Job 12:12",
+    "connected_from": "Job 12:10"
+  },
+  {
+    "text": "In old age is wisdom, and in length of days is prudence.",
+    "reference": "Job 12:12 (CPDV)",
+    "connected_to": "Job 12:13",
+    "connected_from": "Job 12:11"
+  },
+  {
+    "text": "With him is wisdom and strength, he has counsel and understanding.",
+    "reference": "Job 12:13 (CPDV)",
+    "connected_to": "Job 12:14",
+    "connected_from": "Job 12:12"
+  },
+  {
+    "text": "If he tears down, there is no one who can build up; if he encloses a man, there is no one who can open.",
+    "reference": "Job 12:14 (CPDV)",
+    "connected_to": "Job 12:15",
+    "connected_from": "Job 12:13"
+  },
+  {
+    "text": "If he restrains the waters, everything will dry up; and if he sends them forth, they will subdue the land.",
+    "reference": "Job 12:15 (CPDV)",
+    "connected_to": "Job 12:16",
+    "connected_from": "Job 12:14"
+  },
+  {
+    "text": "With him is strength and wisdom; he knows both the deceiver and he who is deceived.",
+    "reference": "Job 12:16 (CPDV)",
+    "connected_to": "Job 12:17",
+    "connected_from": "Job 12:15"
+  },
+  {
+    "text": "He leads advisors to a foolish end and judges to stupidity.",
+    "reference": "Job 12:17 (CPDV)",
+    "connected_to": "Job 12:18",
+    "connected_from": "Job 12:16"
+  },
+  {
+    "text": "He removes the belt of kings and encircles their waist with a rope.",
+    "reference": "Job 12:18 (CPDV)",
+    "connected_to": "Job 12:19",
+    "connected_from": "Job 12:17"
+  },
+  {
+    "text": "He leads away priests in dishonor and displaces nobles,",
+    "reference": "Job 12:19 (CPDV)",
+    "connected_to": "Job 12:20",
+    "connected_from": "Job 12:18"
+  },
+  {
+    "text": "altering the lips of those who speak the truth and sweeping away the teaching of the aged.",
+    "reference": "Job 12:20 (CPDV)",
+    "connected_to": "Job 12:21",
+    "connected_from": "Job 12:19"
+  },
+  {
+    "text": "He pours distain upon the leaders, relieving those who had been oppressed.",
+    "reference": "Job 12:21 (CPDV)",
+    "connected_to": "Job 12:22",
+    "connected_from": "Job 12:20"
+  },
+  {
+    "text": "He reveals the depths of the darkness, and he brings the shadow of death into the light.",
+    "reference": "Job 12:22 (CPDV)",
+    "connected_to": "Job 12:23",
+    "connected_from": "Job 12:21"
+  },
+  {
+    "text": "He multiplies peoples, and destroys them, and, having been overthrown, he restores them anew.",
+    "reference": "Job 12:23 (CPDV)",
+    "connected_to": "Job 12:24",
+    "connected_from": "Job 12:22"
+  },
+  {
+    "text": "He transforms the heart of the leaders of the people on earth, and misleads those who in vain advance upon the inviolable.",
+    "reference": "Job 12:24 (CPDV)",
+    "connected_to": "Job 12:25",
+    "connected_from": "Job 12:23"
+  },
+  {
+    "text": "They will grope as in the darkness, not the light, and he will make them stagger like drunkards.",
+    "reference": "Job 12:25 (CPDV)",
+    "connected_from": "Job 12:24"
+  }
+]

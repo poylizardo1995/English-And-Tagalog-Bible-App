@@ -1,0 +1,114 @@
+[
+  {
+    "text": "The words of Jeremiah son of Hilkiah, of the priests who [were] in Anathoth in the land of Benjamin,",
+    "reference": "Jeremiah 1:1 (BLB)",
+    "connected_to": "Jeremiah 1:2"
+  },
+  {
+    "text": "to whom the word of YHWH came in the days of Josiah son of Amon king of Judah, in the thirteenth year of his reigning.",
+    "reference": "Jeremiah 1:2 (BLB)",
+    "connected_to": "Jeremiah 1:3",
+    "connected_from": "Jeremiah 1:1"
+  },
+  {
+    "text": "And it came to pass in the days of Jehoiakim son of Josiah king of Judah, until the completion of the eleventh year of Zedekiah son of Josiah king of Judah, until the exile of Jerusalem in the fifth month.",
+    "reference": "Jeremiah 1:3 (BLB)",
+    "connected_to": "Jeremiah 1:4",
+    "connected_from": "Jeremiah 1:2"
+  },
+  {
+    "text": "And the word of YHWH came to me saying,",
+    "reference": "Jeremiah 1:4 (BLB)",
+    "connected_to": "Jeremiah 1:5",
+    "connected_from": "Jeremiah 1:3"
+  },
+  {
+    "text": "“Before I formed you in the belly, I knew you; and before you came forth from the womb I consecrated you, [and] I ordained you a prophet to the nations.”",
+    "reference": "Jeremiah 1:5 (BLB)",
+    "connected_to": "Jeremiah 1:6",
+    "connected_from": "Jeremiah 1:4"
+  },
+  {
+    "text": "And I said, “Ah, Lord YHWH! Behold, I have not known to speak, for I [am] a youth.”",
+    "reference": "Jeremiah 1:6 (BLB)",
+    "connected_to": "Jeremiah 1:7",
+    "connected_from": "Jeremiah 1:5"
+  },
+  {
+    "text": "And YHWH said to me, “Do not say ‘I [am] a youth.’ For you shall go to all to whom I shall send you, and all that I command you, you shall speak.",
+    "reference": "Jeremiah 1:7 (BLB)",
+    "connected_to": "Jeremiah 1:8",
+    "connected_from": "Jeremiah 1:6"
+  },
+  {
+    "text": "“Do not be afraid of their faces; for I [am] with you to deliver you,” a declaration of YHWH.",
+    "reference": "Jeremiah 1:8 (BLB)",
+    "connected_to": "Jeremiah 1:9",
+    "connected_from": "Jeremiah 1:7"
+  },
+  {
+    "text": "And YHWH stretched out His hand and touched my mouth. And YHWH said to me “Behold, I have put My words in your mouth.",
+    "reference": "Jeremiah 1:9 (BLB)",
+    "connected_to": "Jeremiah 1:10",
+    "connected_from": "Jeremiah 1:8"
+  },
+  {
+    "text": "See, I have set you this day over the nations and over the kingdoms, to uproot and to tear down, and to destroy and to throw down, to build and to plant.”",
+    "reference": "Jeremiah 1:10 (BLB)",
+    "connected_to": "Jeremiah 1:11",
+    "connected_from": "Jeremiah 1:9"
+  },
+  {
+    "text": "And the word of YHWH came to me saying, “What do you see, Jeremiah?” And I said, “I see a branch of an almond tree.”",
+    "reference": "Jeremiah 1:11 (BLB)",
+    "connected_to": "Jeremiah 1:12",
+    "connected_from": "Jeremiah 1:10"
+  },
+  {
+    "text": "And YHWH said to me, “You have seen well;” “For I am watching over My word to do it.”",
+    "reference": "Jeremiah 1:12 (BLB)",
+    "connected_to": "Jeremiah 1:13",
+    "connected_from": "Jeremiah 1:11"
+  },
+  {
+    "text": "And the word of YHWH came to me a second time saying, “What do you see?” And I said, “I see a boiling pot; and its face [is] away from the face of the north.”",
+    "reference": "Jeremiah 1:13 (BLB)",
+    "connected_to": "Jeremiah 1:14",
+    "connected_from": "Jeremiah 1:12"
+  },
+  {
+    "text": "And YHWH said to me, “From the north evil shall break forth over all those dwelling in the land.",
+    "reference": "Jeremiah 1:14 (BLB)",
+    "connected_to": "Jeremiah 1:15",
+    "connected_from": "Jeremiah 1:13"
+  },
+  {
+    "text": "For, behold, I am calling all the families of the kingdoms of the north,” a declaration of YHWH, “And they shall come, and set each man his throne at the entrance of the gates of Jerusalem, and against all its walls round about, and against all the cities of Judah.",
+    "reference": "Jeremiah 1:15 (BLB)",
+    "connected_to": "Jeremiah 1:16",
+    "connected_from": "Jeremiah 1:14"
+  },
+  {
+    "text": "And I will speak My judgments against them over all their wickedness, because they have forsaken Me and have burned incense to other gods, and bowed down [to] the works of their own hands.",
+    "reference": "Jeremiah 1:16 (BLB)",
+    "connected_to": "Jeremiah 1:17",
+    "connected_from": "Jeremiah 1:15"
+  },
+  {
+    "text": "And you must gird your loins, and stand up, and speak to them all that I command you. Do not be dismayed before their faces, lest I dismay you before their faces!",
+    "reference": "Jeremiah 1:17 (BLB)",
+    "connected_to": "Jeremiah 1:18",
+    "connected_from": "Jeremiah 1:16"
+  },
+  {
+    "text": "And behold, for I have made you this day as a fortified city, and as a pillar of iron, and as walls of bronze against all the land, against the kings of Judah, against its princes, against its priests, and against the people of the land.",
+    "reference": "Jeremiah 1:18 (BLB)",
+    "connected_to": "Jeremiah 1:19",
+    "connected_from": "Jeremiah 1:17"
+  },
+  {
+    "text": "And they will fight against you, and they shall not prevail against you; for I [am] with you to deliver you,” a declaration of YHWH.",
+    "reference": "Jeremiah 1:19 (BLB)",
+    "connected_from": "Jeremiah 1:18"
+  }
+]

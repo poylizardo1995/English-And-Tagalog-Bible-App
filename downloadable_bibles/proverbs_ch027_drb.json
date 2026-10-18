@@ -1,0 +1,162 @@
+[
+  {
+    "text": "Boast not for to morrow, for thou knowest not what the day to come may bring forth.",
+    "reference": "Proverbs 27:1 (DRB)",
+    "connected_to": "Proverbs 27:2"
+  },
+  {
+    "text": "Let another praise thee, and not thy own mouth: a stranger, and not thy own lips.",
+    "reference": "Proverbs 27:2 (DRB)",
+    "connected_to": "Proverbs 27:3",
+    "connected_from": "Proverbs 27:1"
+  },
+  {
+    "text": "A stone is heavy, and sand weighty: but the anger of a fool is heavier than them both.",
+    "reference": "Proverbs 27:3 (DRB)",
+    "connected_to": "Proverbs 27:4",
+    "connected_from": "Proverbs 27:2"
+  },
+  {
+    "text": "Anger hath no mercy, nor fury when it breaketh forth: and who can bear the violence of one provoked?",
+    "reference": "Proverbs 27:4 (DRB)",
+    "connected_to": "Proverbs 27:5",
+    "connected_from": "Proverbs 27:3"
+  },
+  {
+    "text": "Open rebuke is better than hidden love.",
+    "reference": "Proverbs 27:5 (DRB)",
+    "connected_to": "Proverbs 27:6",
+    "connected_from": "Proverbs 27:4"
+  },
+  {
+    "text": "Better are the wounds of a friend, than the deceitful kisses of an enemy.",
+    "reference": "Proverbs 27:6 (DRB)",
+    "connected_to": "Proverbs 27:7",
+    "connected_from": "Proverbs 27:5"
+  },
+  {
+    "text": "A soul that is full shall tread upon the honeycomb : and a soul that is hungry shall take even bitter for sweet.",
+    "reference": "Proverbs 27:7 (DRB)",
+    "connected_to": "Proverbs 27:8",
+    "connected_from": "Proverbs 27:6"
+  },
+  {
+    "text": "As a bird that wandereth from her nest, so is a man that leaveth his place.",
+    "reference": "Proverbs 27:8 (DRB)",
+    "connected_to": "Proverbs 27:9",
+    "connected_from": "Proverbs 27:7"
+  },
+  {
+    "text": "Ointment and perfumes rejoice the heart: and the good counsels of a friend are sweet to the soul.",
+    "reference": "Proverbs 27:9 (DRB)",
+    "connected_to": "Proverbs 27:10",
+    "connected_from": "Proverbs 27:8"
+  },
+  {
+    "text": "Thy own friend, and thy father’s friend forsake not: and go not into thy brother’s house in the day of thy affliction. Better is a neighbour that is near, than a brother afar off.",
+    "reference": "Proverbs 27:10 (DRB)",
+    "connected_to": "Proverbs 27:11",
+    "connected_from": "Proverbs 27:9"
+  },
+  {
+    "text": "Study wisdom, my son, and make my heart joyful, that thou mayst give an answer to him that reproacheth.",
+    "reference": "Proverbs 27:11 (DRB)",
+    "connected_to": "Proverbs 27:12",
+    "connected_from": "Proverbs 27:10"
+  },
+  {
+    "text": "The prudent man seeing evil hideth himself: little ones passing on have suffered losses.",
+    "reference": "Proverbs 27:12 (DRB)",
+    "connected_to": "Proverbs 27:13",
+    "connected_from": "Proverbs 27:11"
+  },
+  {
+    "text": "Take away his garment that hath been surety for a stranger: and take from him a pledge for strangers.",
+    "reference": "Proverbs 27:13 (DRB)",
+    "connected_to": "Proverbs 27:14",
+    "connected_from": "Proverbs 27:12"
+  },
+  {
+    "text": "He that blesseth his neighbour with a loud voice, rising in the night, shall be like to him that curseth.",
+    "reference": "Proverbs 27:14 (DRB)",
+    "connected_to": "Proverbs 27:15",
+    "connected_from": "Proverbs 27:13"
+  },
+  {
+    "text": "Roofs dropping through in a cold day, and a contentious woman are alike.",
+    "reference": "Proverbs 27:15 (DRB)",
+    "connected_to": "Proverbs 27:16",
+    "connected_from": "Proverbs 27:14"
+  },
+  {
+    "text": "He that retaineth her, is as he that would hold the wind, and shall call in the oil of his right hand.",
+    "reference": "Proverbs 27:16 (DRB)",
+    "connected_to": "Proverbs 27:17",
+    "connected_from": "Proverbs 27:15"
+  },
+  {
+    "text": "Iron sharpeneth iron, so a man sharpeneth the countenance of his friend.",
+    "reference": "Proverbs 27:17 (DRB)",
+    "connected_to": "Proverbs 27:18",
+    "connected_from": "Proverbs 27:16"
+  },
+  {
+    "text": "He that keepeth the fig tree, shall eat the fruit thereof: and he that is the keeper of his master, shall be glorified.",
+    "reference": "Proverbs 27:18 (DRB)",
+    "connected_to": "Proverbs 27:19",
+    "connected_from": "Proverbs 27:17"
+  },
+  {
+    "text": "As the faces of them that look therein, shine in the water, so the hearts of men are laid open to the wise.",
+    "reference": "Proverbs 27:19 (DRB)",
+    "connected_to": "Proverbs 27:20",
+    "connected_from": "Proverbs 27:18"
+  },
+  {
+    "text": "Hell and destruction are never filled: so the eyes of men are never satisfied.",
+    "reference": "Proverbs 27:20 (DRB)",
+    "connected_to": "Proverbs 27:21",
+    "connected_from": "Proverbs 27:19"
+  },
+  {
+    "text": "As silver is tried in the fining-pot and gold in the furnace: so a man is tried by the mouth of him that praiseth. The heart of the wicked seeketh after evils, but the righteous heart seeketh after knowledge.",
+    "reference": "Proverbs 27:21 (DRB)",
+    "connected_to": "Proverbs 27:22",
+    "connected_from": "Proverbs 27:20"
+  },
+  {
+    "text": "Though thou shouldst bray a fool in the mortar, as when a pestle striketh upon sodden barley, his folly would not be taken from him.",
+    "reference": "Proverbs 27:22 (DRB)",
+    "connected_to": "Proverbs 27:23",
+    "connected_from": "Proverbs 27:21"
+  },
+  {
+    "text": "Be diligent to know the countenance of thy cattle, and consider thy own flocks :",
+    "reference": "Proverbs 27:23 (DRB)",
+    "connected_to": "Proverbs 27:24",
+    "connected_from": "Proverbs 27:22"
+  },
+  {
+    "text": "For thou shalt not always have power: but a crown shall be given to generation and generation.",
+    "reference": "Proverbs 27:24 (DRB)",
+    "connected_to": "Proverbs 27:25",
+    "connected_from": "Proverbs 27:23"
+  },
+  {
+    "text": "The meadows are open, and the green herbs have appeared, and the hay is gathered out of the mountains.",
+    "reference": "Proverbs 27:25 (DRB)",
+    "connected_to": "Proverbs 27:26",
+    "connected_from": "Proverbs 27:24"
+  },
+  {
+    "text": "Lambs are for thy clothing: and kids for the price of the field.",
+    "reference": "Proverbs 27:26 (DRB)",
+    "connected_to": "Proverbs 27:27",
+    "connected_from": "Proverbs 27:25"
+  },
+  {
+    "text": "Let the milk of the goats be enough for thy food, and for the necessities of thy house, and for maintenance for thy handmaids.",
+    "reference": "Proverbs 27:27 (DRB)",
+    "connected_from": "Proverbs 27:26"
+  }
+]

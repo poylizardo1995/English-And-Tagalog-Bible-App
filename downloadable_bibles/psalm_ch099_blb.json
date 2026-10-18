@@ -1,0 +1,54 @@
+[
+  {
+    "text": "YHWH reigns, let the peoples tremble! He dwells [above] the cherubim, let the earth be shaken!",
+    "reference": "Psalm 99:1 (BLB)",
+    "connected_to": "Psalm 99:2"
+  },
+  {
+    "text": "YHWH [is] great in Zion, and high [is] He over all the peoples.",
+    "reference": "Psalm 99:2 (BLB)",
+    "connected_to": "Psalm 99:3",
+    "connected_from": "Psalm 99:1"
+  },
+  {
+    "text": "Let them praise Your great and awesome name! Holy [is] He!",
+    "reference": "Psalm 99:3 (BLB)",
+    "connected_to": "Psalm 99:4",
+    "connected_from": "Psalm 99:2"
+  },
+  {
+    "text": "The mighty King loves justice, You have established uprightness; justice and righteousness You have done in Jacob.",
+    "reference": "Psalm 99:4 (BLB)",
+    "connected_to": "Psalm 99:5",
+    "connected_from": "Psalm 99:3"
+  },
+  {
+    "text": "Exalt YHWH, our God, and bow down at His footstool! Holy [is] He!",
+    "reference": "Psalm 99:5 (BLB)",
+    "connected_to": "Psalm 99:6",
+    "connected_from": "Psalm 99:4"
+  },
+  {
+    "text": "Moses and Aaron [were] among His priests, and Samuel among those calling on His name—they called to YHWH, and He answered them.",
+    "reference": "Psalm 99:6 (BLB)",
+    "connected_to": "Psalm 99:7",
+    "connected_from": "Psalm 99:5"
+  },
+  {
+    "text": "Within the pillar of cloud He spoke to them; they kept His testimonies, and the statute He gave to them.",
+    "reference": "Psalm 99:7 (BLB)",
+    "connected_to": "Psalm 99:8",
+    "connected_from": "Psalm 99:6"
+  },
+  {
+    "text": "O YHWH our God, You answered them; a forgiving God You became for them, and one taking vengeance over their misdeeds.",
+    "reference": "Psalm 99:8 (BLB)",
+    "connected_to": "Psalm 99:9",
+    "connected_from": "Psalm 99:7"
+  },
+  {
+    "text": "Exalt YHWH, our God, and bow down at the mountain of His holiness—for holy [is] YHWH our God!",
+    "reference": "Psalm 99:9 (BLB)",
+    "connected_from": "Psalm 99:8"
+  }
+]

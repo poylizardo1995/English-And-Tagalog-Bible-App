@@ -1,0 +1,102 @@
+[
+  {
+    "text": "A prayer of Moses the man of God. Lord, thou hast been our refuge from generation to generation.",
+    "reference": "Psalm 90:1 (DRB)",
+    "connected_to": "Psalm 90:2"
+  },
+  {
+    "text": "Before the mountains were made, or the earth and the world was formed; from eternity and to eternity thou art God.",
+    "reference": "Psalm 90:2 (DRB)",
+    "connected_to": "Psalm 90:3",
+    "connected_from": "Psalm 90:1"
+  },
+  {
+    "text": "Turn not man away to be brought low: and thou hast said: Be converted, O ye sons of men.",
+    "reference": "Psalm 90:3 (DRB)",
+    "connected_to": "Psalm 90:4",
+    "connected_from": "Psalm 90:2"
+  },
+  {
+    "text": "For a thousand years in thy sight are as yesterday, which is past. And as a watch in the night,",
+    "reference": "Psalm 90:4 (DRB)",
+    "connected_to": "Psalm 90:5",
+    "connected_from": "Psalm 90:3"
+  },
+  {
+    "text": "things that are counted nothing, shall their years be.",
+    "reference": "Psalm 90:5 (DRB)",
+    "connected_to": "Psalm 90:6",
+    "connected_from": "Psalm 90:4"
+  },
+  {
+    "text": "In the morning man shall grow up like grass; in the morning he shall flourish and pass away: in the evening he shall fall, grow dry, and wither.",
+    "reference": "Psalm 90:6 (DRB)",
+    "connected_to": "Psalm 90:7",
+    "connected_from": "Psalm 90:5"
+  },
+  {
+    "text": "For in thy wrath we have fainted away: and are troubled in thy indignation.",
+    "reference": "Psalm 90:7 (DRB)",
+    "connected_to": "Psalm 90:8",
+    "connected_from": "Psalm 90:6"
+  },
+  {
+    "text": "Thou hast set our iniquities before thy eyes: our life in the light of thy countenance.",
+    "reference": "Psalm 90:8 (DRB)",
+    "connected_to": "Psalm 90:9",
+    "connected_from": "Psalm 90:7"
+  },
+  {
+    "text": "For all our days are spent; and in thy wrath we have fainted away. Our years shall be considered spider:",
+    "reference": "Psalm 90:9 (DRB)",
+    "connected_to": "Psalm 90:10",
+    "connected_from": "Psalm 90:8"
+  },
+  {
+    "text": "the days of our years in them are threescore and ten years. But if in the strong they be fourscore years: and what is more of them is labour and sorrow. For mildness is come upon us: and we shall be corrected.",
+    "reference": "Psalm 90:10 (DRB)",
+    "connected_to": "Psalm 90:11",
+    "connected_from": "Psalm 90:9"
+  },
+  {
+    "text": "Who knoweth the power of thy anger, and for thy fear",
+    "reference": "Psalm 90:11 (DRB)",
+    "connected_to": "Psalm 90:12",
+    "connected_from": "Psalm 90:10"
+  },
+  {
+    "text": "can number thy wrath? So make thy right hand known: and men learned in heart, in wisdom.",
+    "reference": "Psalm 90:12 (DRB)",
+    "connected_to": "Psalm 90:13",
+    "connected_from": "Psalm 90:11"
+  },
+  {
+    "text": "Return, O Lord, how long? and be entreated in favour of thy servants.",
+    "reference": "Psalm 90:13 (DRB)",
+    "connected_to": "Psalm 90:14",
+    "connected_from": "Psalm 90:12"
+  },
+  {
+    "text": "We are filled in the morning with thy mercy: and we have rejoiced, and are delighted all our days.",
+    "reference": "Psalm 90:14 (DRB)",
+    "connected_to": "Psalm 90:15",
+    "connected_from": "Psalm 90:13"
+  },
+  {
+    "text": "We have rejoiced for the days in which thou hast humbled us: for the years in which we have seen evils.",
+    "reference": "Psalm 90:15 (DRB)",
+    "connected_to": "Psalm 90:16",
+    "connected_from": "Psalm 90:14"
+  },
+  {
+    "text": "Look upon thy servants and upon their works: and direct their children.",
+    "reference": "Psalm 90:16 (DRB)",
+    "connected_to": "Psalm 90:17",
+    "connected_from": "Psalm 90:15"
+  },
+  {
+    "text": "And let the brightness of the Lord our God be upon us: and direct thou the works of our hands over us; yea, the work of our hands do thou direct.",
+    "reference": "Psalm 90:17 (DRB)",
+    "connected_from": "Psalm 90:16"
+  }
+]

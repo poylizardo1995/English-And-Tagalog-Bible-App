@@ -1,0 +1,66 @@
+[
+  {
+    "text": "A Psalm of David. <span class=|reftext|><a href=|#|><b>1</b></a> Ascribe to YHWH, O sons of the mighty ones. Ascribe to YHWH glory and strength.",
+    "reference": "Psalm 29:1 (BLB)",
+    "connected_to": "Psalm 29:2"
+  },
+  {
+    "text": "Ascribe to YHWH the glory of His name; bow down before YHWH in the splendor of holiness.",
+    "reference": "Psalm 29:2 (BLB)",
+    "connected_to": "Psalm 29:3",
+    "connected_from": "Psalm 29:1"
+  },
+  {
+    "text": "The voice of YHWH [is] upon the waters; the God of glory thunders—YHWH [is] over many waters.",
+    "reference": "Psalm 29:3 (BLB)",
+    "connected_to": "Psalm 29:4",
+    "connected_from": "Psalm 29:2"
+  },
+  {
+    "text": "The voice of YHWH [is] with power, the voice of YHWH [is] with majesty.",
+    "reference": "Psalm 29:4 (BLB)",
+    "connected_to": "Psalm 29:5",
+    "connected_from": "Psalm 29:3"
+  },
+  {
+    "text": "The voice of YHWH breaks the cedars, and YHWH shatters the cedars of Lebanon.",
+    "reference": "Psalm 29:5 (BLB)",
+    "connected_to": "Psalm 29:6",
+    "connected_from": "Psalm 29:4"
+  },
+  {
+    "text": "He makes Lebanon skip like a calf, and Sirion like the son of a wild ox.",
+    "reference": "Psalm 29:6 (BLB)",
+    "connected_to": "Psalm 29:7",
+    "connected_from": "Psalm 29:5"
+  },
+  {
+    "text": "The voice of YHWH is hewing flames of fire.",
+    "reference": "Psalm 29:7 (BLB)",
+    "connected_to": "Psalm 29:8",
+    "connected_from": "Psalm 29:6"
+  },
+  {
+    "text": "The voice of YHWH causes the wilderness to writhe; YHWH causes the wilderness of Kadesh to writhe.",
+    "reference": "Psalm 29:8 (BLB)",
+    "connected_to": "Psalm 29:9",
+    "connected_from": "Psalm 29:7"
+  },
+  {
+    "text": "The voice of YHWH twists the oaks, and strips bare the forests—and in His temple all of it is saying, “Glory!”",
+    "reference": "Psalm 29:9 (BLB)",
+    "connected_to": "Psalm 29:10",
+    "connected_from": "Psalm 29:8"
+  },
+  {
+    "text": "YHWH has sat over the flood, and YHWH sits as King forever.",
+    "reference": "Psalm 29:10 (BLB)",
+    "connected_to": "Psalm 29:11",
+    "connected_from": "Psalm 29:9"
+  },
+  {
+    "text": "YHWH gives strength to His people; YHWH blesses His people with peace.",
+    "reference": "Psalm 29:11 (BLB)",
+    "connected_from": "Psalm 29:10"
+  }
+]

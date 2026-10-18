@@ -1,0 +1,318 @@
+[
+  {
+    "text": "On the first day of the week \\But on the first of the Sabbaths,/, very early in the morning, the women came to the tomb, bringing the spices they had prepared.",
+    "reference": "Luke 24:1 (BAB)",
+    "connected_to": "Luke 24:2"
+  },
+  {
+    "text": "They found the stone rolled away from the tomb,",
+    "reference": "Luke 24:2 (BAB)",
+    "connected_to": "Luke 24:3",
+    "connected_from": "Luke 24:1"
+  },
+  {
+    "text": "but when they entered, they did not find the body of the Lord {Kyriou} Jesus (YHWH saves).",
+    "reference": "Luke 24:3 (BAB)",
+    "connected_to": "Luke 24:4",
+    "connected_from": "Luke 24:2"
+  },
+  {
+    "text": "While they were puzzling over this, suddenly (Behold) two men in radiant apparel stood beside them.",
+    "reference": "Luke 24:4 (BAB)",
+    "connected_to": "Luke 24:5",
+    "connected_from": "Luke 24:3"
+  },
+  {
+    "text": "As the women bowed their faces to the ground in terror, the two men asked them, “Why do you⁺ look for the living among the dead?",
+    "reference": "Luke 24:5 (BAB)",
+    "connected_to": "Luke 24:6",
+    "connected_from": "Luke 24:4"
+  },
+  {
+    "text": "He is not here; He has risen! Remember how He told you⁺ while He was still in Galilee (circuit):",
+    "reference": "Luke 24:6 (BAB)",
+    "connected_to": "Luke 24:7",
+    "connected_from": "Luke 24:5"
+  },
+  {
+    "text": "‘The Son of Man must be delivered into the hands of sinful men, and be crucified, and on the third day rise again.",
+    "reference": "Luke 24:7 (BAB)",
+    "connected_to": "Luke 24:8",
+    "connected_from": "Luke 24:6"
+  },
+  {
+    "text": "Then they remembered His words {rhēmatōn}.",
+    "reference": "Luke 24:8 (BAB)",
+    "connected_to": "Luke 24:9",
+    "connected_from": "Luke 24:7"
+  },
+  {
+    "text": "And when they returned from the tomb, they reported all these things to the Eleven and to all the others.",
+    "reference": "Luke 24:9 (BAB)",
+    "connected_to": "Luke 24:10",
+    "connected_from": "Luke 24:8"
+  },
+  {
+    "text": "It was Mary (beloved) Magdalene (of Magdala), Joanna, Mary the mother of James (supplanter / follower), and the other women with them who told this to the apostles (sent ones).",
+    "reference": "Luke 24:10 (BAB)",
+    "connected_to": "Luke 24:11",
+    "connected_from": "Luke 24:9"
+  },
+  {
+    "text": "But their words {rhēmata} seemed like nonsense to them, and they did not believe the women.",
+    "reference": "Luke 24:11 (BAB)",
+    "connected_to": "Luke 24:12",
+    "connected_from": "Luke 24:10"
+  },
+  {
+    "text": "Peter (rock), however, got up and ran to the tomb. And after bending down and seeing only the linen cloths, he went away, wondering to himself what had happened.",
+    "reference": "Luke 24:12 (BAB)",
+    "connected_to": "Luke 24:13",
+    "connected_from": "Luke 24:11"
+  },
+  {
+    "text": "That same day two of them were going to a village called Emmaus, about seven miles <6.9 mi / 11.1 km> from Jerusalem (city of peace).",
+    "reference": "Luke 24:13 (BAB)",
+    "connected_to": "Luke 24:14",
+    "connected_from": "Luke 24:12"
+  },
+  {
+    "text": "They were talking with each other about everything that had happened.",
+    "reference": "Luke 24:14 (BAB)",
+    "connected_to": "Luke 24:15",
+    "connected_from": "Luke 24:13"
+  },
+  {
+    "text": "And as they talked and deliberated, Jesus (YHWH saves) Himself came up and walked along with them.",
+    "reference": "Luke 24:15 (BAB)",
+    "connected_to": "Luke 24:16",
+    "connected_from": "Luke 24:14"
+  },
+  {
+    "text": "But their eyes were kept from recognizing Him.",
+    "reference": "Luke 24:16 (BAB)",
+    "connected_to": "Luke 24:17",
+    "connected_from": "Luke 24:15"
+  },
+  {
+    "text": "He asked them, “What are you⁺ discussing so intently as you walk along? They stood still, with sadness on their faces.",
+    "reference": "Luke 24:17 (BAB)",
+    "connected_to": "Luke 24:18",
+    "connected_from": "Luke 24:16"
+  },
+  {
+    "text": "One of them, named Cleopas, asked Him, “Are You the only visitor to Jerusalem (city of peace) who does not know the things that have happened there in recent days?",
+    "reference": "Luke 24:18 (BAB)",
+    "connected_to": "Luke 24:19",
+    "connected_from": "Luke 24:17"
+  },
+  {
+    "text": "“What things? He asked. “The events involving Jesus (YHWH saves) of Nazareth (branch), they answered. “This man was a prophet, powerful in speech and action before God {Theou} and all the people.",
+    "reference": "Luke 24:19 (BAB)",
+    "connected_to": "Luke 24:20",
+    "connected_from": "Luke 24:18"
+  },
+  {
+    "text": "Our chief priests and rulers delivered Him up to the sentence of death, and they crucified Him.",
+    "reference": "Luke 24:20 (BAB)",
+    "connected_to": "Luke 24:21",
+    "connected_from": "Luke 24:19"
+  },
+  {
+    "text": "But we were hoping He was the One who would redeem Israel (He wrestles with God). And besides all this, it is the third day since these things took place.",
+    "reference": "Luke 24:21 (BAB)",
+    "connected_to": "Luke 24:22",
+    "connected_from": "Luke 24:20"
+  },
+  {
+    "text": "Furthermore, some of our women astounded us. They were at the tomb early this morning,",
+    "reference": "Luke 24:22 (BAB)",
+    "connected_to": "Luke 24:23",
+    "connected_from": "Luke 24:21"
+  },
+  {
+    "text": "but they did not find His body. They came and told us they had seen a vision of angels (messengers), who said that Jesus was alive.",
+    "reference": "Luke 24:23 (BAB)",
+    "connected_to": "Luke 24:24",
+    "connected_from": "Luke 24:22"
+  },
+  {
+    "text": "Then some of our companions went to the tomb and found it just as the women had described. But Him they did not see.",
+    "reference": "Luke 24:24 (BAB)",
+    "connected_to": "Luke 24:25",
+    "connected_from": "Luke 24:23"
+  },
+  {
+    "text": "Then Jesus said to them, “O foolish ones, and slow of heart to believe all that the prophets have spoken!",
+    "reference": "Luke 24:25 (BAB)",
+    "connected_to": "Luke 24:26",
+    "connected_from": "Luke 24:24"
+  },
+  {
+    "text": "Was it not necessary for the Christ (the Anointed One) to suffer these things and then to enter His glory {doxan}?",
+    "reference": "Luke 24:26 (BAB)",
+    "connected_to": "Luke 24:27",
+    "connected_from": "Luke 24:25"
+  },
+  {
+    "text": "And beginning with Moses (drawn out) and all the Prophets, He explained to them what was written in all the Scriptures (Writings) about Himself.",
+    "reference": "Luke 24:27 (BAB)",
+    "connected_to": "Luke 24:28",
+    "connected_from": "Luke 24:26"
+  },
+  {
+    "text": "As they approached the village where they were headed, He seemed to be going farther.",
+    "reference": "Luke 24:28 (BAB)",
+    "connected_to": "Luke 24:29",
+    "connected_from": "Luke 24:27"
+  },
+  {
+    "text": "But they pleaded with Him, “Stay with us, for it is nearly evening and the day is almost over. So He went in to stay with them.",
+    "reference": "Luke 24:29 (BAB)",
+    "connected_to": "Luke 24:30",
+    "connected_from": "Luke 24:28"
+  },
+  {
+    "text": "While He was reclining at the table with them, He took bread, spoke a blessing and broke it, and gave it to them.",
+    "reference": "Luke 24:30 (BAB)",
+    "connected_to": "Luke 24:31",
+    "connected_from": "Luke 24:29"
+  },
+  {
+    "text": "Then their eyes were opened and they recognized Jesus—and He disappeared from their sight.",
+    "reference": "Luke 24:31 (BAB)",
+    "connected_to": "Luke 24:32",
+    "connected_from": "Luke 24:30"
+  },
+  {
+    "text": "They asked each other, “Were not our hearts burning within us as He spoke with us on the road and opened the Scriptures (Writings) to us?",
+    "reference": "Luke 24:32 (BAB)",
+    "connected_to": "Luke 24:33",
+    "connected_from": "Luke 24:31"
+  },
+  {
+    "text": "And they got up that very hour and returned to Jerusalem (city of peace). There they found the Eleven and those with them, gathered together",
+    "reference": "Luke 24:33 (BAB)",
+    "connected_to": "Luke 24:34",
+    "connected_from": "Luke 24:32"
+  },
+  {
+    "text": "and saying, “The Lord {Kyrios} has indeed risen and has appeared to Simon (hearing)!",
+    "reference": "Luke 24:34 (BAB)",
+    "connected_to": "Luke 24:35",
+    "connected_from": "Luke 24:33"
+  },
+  {
+    "text": "Then the two told what had happened on the road, and how they had recognized Jesus in the breaking of the bread.",
+    "reference": "Luke 24:35 (BAB)",
+    "connected_to": "Luke 24:36",
+    "connected_from": "Luke 24:34"
+  },
+  {
+    "text": "While they were describing these events, Jesus Himself stood among them and said, “Peace be with you⁺.",
+    "reference": "Luke 24:36 (BAB)",
+    "connected_to": "Luke 24:37",
+    "connected_from": "Luke 24:35"
+  },
+  {
+    "text": "But they were startled and frightened, thinking they had seen a spirit {pneuma}.",
+    "reference": "Luke 24:37 (BAB)",
+    "connected_to": "Luke 24:38",
+    "connected_from": "Luke 24:36"
+  },
+  {
+    "text": "“Why are you⁺ troubled, Jesus asked, “and why do doubts arise in your⁺ hearts?",
+    "reference": "Luke 24:38 (BAB)",
+    "connected_to": "Luke 24:39",
+    "connected_from": "Luke 24:37"
+  },
+  {
+    "text": "Look at (behold) My hands and My feet. It is I Myself. Touch Me and see—for a spirit {pneuma} does not have flesh and bones, as you⁺ see I have.",
+    "reference": "Luke 24:39 (BAB)",
+    "connected_to": "Luke 24:40",
+    "connected_from": "Luke 24:38"
+  },
+  {
+    "text": "And when He had said this, He showed them His hands and feet.",
+    "reference": "Luke 24:40 (BAB)",
+    "connected_to": "Luke 24:41",
+    "connected_from": "Luke 24:39"
+  },
+  {
+    "text": "While they were still in disbelief because of their joy and amazement, He asked them, “Do you⁺ have anything here to eat?",
+    "reference": "Luke 24:41 (BAB)",
+    "connected_to": "Luke 24:42",
+    "connected_from": "Luke 24:40"
+  },
+  {
+    "text": "So they gave Him a piece of broiled fish [and some honeycomb.],",
+    "reference": "Luke 24:42 (BAB)",
+    "connected_to": "Luke 24:43",
+    "connected_from": "Luke 24:41"
+  },
+  {
+    "text": "and He took it and ate it in front of them.",
+    "reference": "Luke 24:43 (BAB)",
+    "connected_to": "Luke 24:44",
+    "connected_from": "Luke 24:42"
+  },
+  {
+    "text": "Jesus said to them, “These are the words I spoke to you⁺ while I was still with you⁺: Everything must be fulfilled that is written about Me in the Law of Moses (drawn out), the Prophets, and the Psalms.",
+    "reference": "Luke 24:44 (BAB)",
+    "connected_to": "Luke 24:45",
+    "connected_from": "Luke 24:43"
+  },
+  {
+    "text": "Then He opened their minds to understand the Scriptures (Writings).",
+    "reference": "Luke 24:45 (BAB)",
+    "connected_to": "Luke 24:46",
+    "connected_from": "Luke 24:44"
+  },
+  {
+    "text": "And He told them, “This is what is written: The Christ (the Anointed One) will suffer and rise from the dead on the third day,",
+    "reference": "Luke 24:46 (BAB)",
+    "connected_to": "Luke 24:47",
+    "connected_from": "Luke 24:45"
+  },
+  {
+    "text": "and in His name repentance and [repentance for] forgiveness of sins will be proclaimed to all nations {ethnē}, beginning in Jerusalem (city of peace).",
+    "reference": "Luke 24:47 (BAB)",
+    "connected_to": "Luke 24:48",
+    "connected_from": "Luke 24:46"
+  },
+  {
+    "text": "You⁺ are witnesses of these things.",
+    "reference": "Luke 24:48 (BAB)",
+    "connected_to": "Luke 24:49",
+    "connected_from": "Luke 24:47"
+  },
+  {
+    "text": "And behold, I am sending the promise of My Father upon you⁺. But remain in the city until you⁺ have been clothed with power {dynamin} from on high.",
+    "reference": "Luke 24:49 (BAB)",
+    "connected_to": "Luke 24:50",
+    "connected_from": "Luke 24:48"
+  },
+  {
+    "text": "When Jesus had led them out as far as Bethany (house of affliction), He lifted up His hands and blessed them.",
+    "reference": "Luke 24:50 (BAB)",
+    "connected_to": "Luke 24:51",
+    "connected_from": "Luke 24:49"
+  },
+  {
+    "text": "While He was blessing them, He left them and was carried up into heaven.",
+    "reference": "Luke 24:51 (BAB)",
+    "connected_to": "Luke 24:52",
+    "connected_from": "Luke 24:50"
+  },
+  {
+    "text": "And they worshiped Him and returned to Jerusalem (city of peace) with great joy,",
+    "reference": "Luke 24:52 (BAB)",
+    "connected_to": "Luke 24:53",
+    "connected_from": "Luke 24:51"
+  },
+  {
+    "text": "praising God {Theon} continually in the temple.",
+    "reference": "Luke 24:53 (BAB)",
+    "connected_from": "Luke 24:52"
+  }
+]

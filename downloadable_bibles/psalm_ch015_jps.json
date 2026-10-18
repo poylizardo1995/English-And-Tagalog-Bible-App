@@ -1,0 +1,30 @@
+[
+  {
+    "text": "A Psalm of David.  LORD, who shall sojourn in Thy tabernacle? Who shall dwell upon Thy holy mountain?",
+    "reference": "Psalm 15:1 (JPS)",
+    "connected_to": "Psalm 15:2"
+  },
+  {
+    "text": "He that walketh uprightly, and worketh righteousness, And speaketh truth in his heart;",
+    "reference": "Psalm 15:2 (JPS)",
+    "connected_to": "Psalm 15:3",
+    "connected_from": "Psalm 15:1"
+  },
+  {
+    "text": "That hath no slander upon his tongue, Nor doeth evil to his fellow, Nor taketh up a reproach against his neighbour;",
+    "reference": "Psalm 15:3 (JPS)",
+    "connected_to": "Psalm 15:4",
+    "connected_from": "Psalm 15:2"
+  },
+  {
+    "text": "In whose eyes a vile person is despised, But he honoureth them that fear the LORD; He that sweareth to his own hurt, and changeth not;",
+    "reference": "Psalm 15:4 (JPS)",
+    "connected_to": "Psalm 15:5",
+    "connected_from": "Psalm 15:3"
+  },
+  {
+    "text": "He that putteth not out his money on interest, Nor taketh a bribe against the innocent. He that doeth these things shall never be moved.",
+    "reference": "Psalm 15:5 (JPS)",
+    "connected_from": "Psalm 15:4"
+  }
+]

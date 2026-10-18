@@ -1,0 +1,150 @@
+[
+  {
+    "text": "Paul, prisoner of Christ Jesus, and Timotheus the brother, to Philemon the beloved and our fellow-workman,",
+    "reference": "Philemon 1:1 (DBT)",
+    "connected_to": "Philemon 1:2"
+  },
+  {
+    "text": "and to the sister Apphia and to Archippus our fellow-soldier, and to the assembly which [is] in thine house.",
+    "reference": "Philemon 1:2 (DBT)",
+    "connected_to": "Philemon 1:3",
+    "connected_from": "Philemon 1:1"
+  },
+  {
+    "text": "Grace to you and peace from God our Father, and [the] Lord Jesus Christ.",
+    "reference": "Philemon 1:3 (DBT)",
+    "connected_to": "Philemon 1:4",
+    "connected_from": "Philemon 1:2"
+  },
+  {
+    "text": "I thank my God, always making mention of thee at my prayers,",
+    "reference": "Philemon 1:4 (DBT)",
+    "connected_to": "Philemon 1:5",
+    "connected_from": "Philemon 1:3"
+  },
+  {
+    "text": "hearing of thy love and the faith which thou hast towards the Lord Jesus, and towards all the saints,",
+    "reference": "Philemon 1:5 (DBT)",
+    "connected_to": "Philemon 1:6",
+    "connected_from": "Philemon 1:4"
+  },
+  {
+    "text": "in such sort that thy participation in the faith should become operative in the acknowledgment of every good thing which is in us towards Christ [Jesus].",
+    "reference": "Philemon 1:6 (DBT)",
+    "connected_to": "Philemon 1:7",
+    "connected_from": "Philemon 1:5"
+  },
+  {
+    "text": "For we have great thankfulness and encouragement through thy love, because the bowels of the saints are refreshed by thee, brother.",
+    "reference": "Philemon 1:7 (DBT)",
+    "connected_to": "Philemon 1:8",
+    "connected_from": "Philemon 1:6"
+  },
+  {
+    "text": "Wherefore having much boldness in Christ to enjoin thee what is fitting,",
+    "reference": "Philemon 1:8 (DBT)",
+    "connected_to": "Philemon 1:9",
+    "connected_from": "Philemon 1:7"
+  },
+  {
+    "text": "for love’s sake I rather exhort, being such a one as Paul the aged, and now also prisoner of Jesus Christ.",
+    "reference": "Philemon 1:9 (DBT)",
+    "connected_to": "Philemon 1:10",
+    "connected_from": "Philemon 1:8"
+  },
+  {
+    "text": "I exhort thee for my child, whom I have begotten in [my] bonds, Onesimus,",
+    "reference": "Philemon 1:10 (DBT)",
+    "connected_to": "Philemon 1:11",
+    "connected_from": "Philemon 1:9"
+  },
+  {
+    "text": "once unserviceable to thee, but now serviceable to thee and to me:",
+    "reference": "Philemon 1:11 (DBT)",
+    "connected_to": "Philemon 1:12",
+    "connected_from": "Philemon 1:10"
+  },
+  {
+    "text": "whom I have sent back to thee: [but do thou receive] him, that is, my bowels:",
+    "reference": "Philemon 1:12 (DBT)",
+    "connected_to": "Philemon 1:13",
+    "connected_from": "Philemon 1:11"
+  },
+  {
+    "text": "whom I was desirous of keeping with myself, that for thee he might minister to me in the bonds of the glad tidings;",
+    "reference": "Philemon 1:13 (DBT)",
+    "connected_to": "Philemon 1:14",
+    "connected_from": "Philemon 1:12"
+  },
+  {
+    "text": "but I have wished to do nothing without thy mind, that thy good might not be as of necessity but of willingness:",
+    "reference": "Philemon 1:14 (DBT)",
+    "connected_to": "Philemon 1:15",
+    "connected_from": "Philemon 1:13"
+  },
+  {
+    "text": "for perhaps for this reason he has been separated [from thee] for a time, that thou mightest possess him fully for ever;",
+    "reference": "Philemon 1:15 (DBT)",
+    "connected_to": "Philemon 1:16",
+    "connected_from": "Philemon 1:14"
+  },
+  {
+    "text": "not any longer as a bondman, but above a bondman, a beloved brother, specially to me, and how much rather to thee, both in [the] flesh and in [the] Lord?",
+    "reference": "Philemon 1:16 (DBT)",
+    "connected_to": "Philemon 1:17",
+    "connected_from": "Philemon 1:15"
+  },
+  {
+    "text": "If therefore thou holdest me to be a partner [with thee], receive him as me;",
+    "reference": "Philemon 1:17 (DBT)",
+    "connected_to": "Philemon 1:18",
+    "connected_from": "Philemon 1:16"
+  },
+  {
+    "text": "but if he have wronged thee anything or owe anything [to thee], put this to my account.",
+    "reference": "Philemon 1:18 (DBT)",
+    "connected_to": "Philemon 1:19",
+    "connected_from": "Philemon 1:17"
+  },
+  {
+    "text": "I Paul have written [it] with mine own hand; I will repay [it]: that I say not to thee that thou owest even thine own self also to me.",
+    "reference": "Philemon 1:19 (DBT)",
+    "connected_to": "Philemon 1:20",
+    "connected_from": "Philemon 1:18"
+  },
+  {
+    "text": "Yea, brother, I would have profit of thee in [the] Lord: refresh my bowels in Christ.",
+    "reference": "Philemon 1:20 (DBT)",
+    "connected_to": "Philemon 1:21",
+    "connected_from": "Philemon 1:19"
+  },
+  {
+    "text": "Being confident of thine obedience, I have written to thee, knowing that thou wilt do even more than I say.",
+    "reference": "Philemon 1:21 (DBT)",
+    "connected_to": "Philemon 1:22",
+    "connected_from": "Philemon 1:20"
+  },
+  {
+    "text": "But withal prepare me also a lodging; for I hope that I shall be granted to you through your prayers.",
+    "reference": "Philemon 1:22 (DBT)",
+    "connected_to": "Philemon 1:23",
+    "connected_from": "Philemon 1:21"
+  },
+  {
+    "text": "Epaphras salutes thee, my fellow-prisoner in Christ Jesus;",
+    "reference": "Philemon 1:23 (DBT)",
+    "connected_to": "Philemon 1:24",
+    "connected_from": "Philemon 1:22"
+  },
+  {
+    "text": "Mark, Aristarchus, Demas, Luke, my fellow-workmen.",
+    "reference": "Philemon 1:24 (DBT)",
+    "connected_to": "Philemon 1:25",
+    "connected_from": "Philemon 1:23"
+  },
+  {
+    "text": "The grace of our Lord Jesus Christ [be] with your spirit.",
+    "reference": "Philemon 1:25 (DBT)",
+    "connected_from": "Philemon 1:24"
+  }
+]

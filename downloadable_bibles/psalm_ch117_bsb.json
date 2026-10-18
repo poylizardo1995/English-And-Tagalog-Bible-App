@@ -1,0 +1,12 @@
+[
+  {
+    "text": "Praise the LORD, all you nations! Extol Him, all you peoples!",
+    "reference": "Psalm 117:1 (BSB)",
+    "connected_to": "Psalm 117:2"
+  },
+  {
+    "text": "For great is His loving devotion toward us, and the faithfulness of the LORD endures forever. Hallelujah!",
+    "reference": "Psalm 117:2 (BSB)",
+    "connected_from": "Psalm 117:1"
+  }
+]

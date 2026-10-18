@@ -1,0 +1,60 @@
+[
+  {
+    "text": "{To the chief Musician. ‘Destroy not.’ A Psalm of Asaph: a Song.} Unto thee we give thanks, O God, we give thanks; and thy name is near: thy marvellous works declare it.",
+    "reference": "Psalm 75:1 (DBT)",
+    "connected_to": "Psalm 75:2"
+  },
+  {
+    "text": "When I shall receive the assembly, I will judge with equity.",
+    "reference": "Psalm 75:2 (DBT)",
+    "connected_to": "Psalm 75:3",
+    "connected_from": "Psalm 75:1"
+  },
+  {
+    "text": "The earth and all the inhabitants thereof are dissolved: I have established its pillars. Selah.",
+    "reference": "Psalm 75:3 (DBT)",
+    "connected_to": "Psalm 75:4",
+    "connected_from": "Psalm 75:2"
+  },
+  {
+    "text": "I said unto the boastful, Boast not; and to the wicked, Lift not up the horn:",
+    "reference": "Psalm 75:4 (DBT)",
+    "connected_to": "Psalm 75:5",
+    "connected_from": "Psalm 75:3"
+  },
+  {
+    "text": "Lift not up your horn on high; speak not arrogantly with a [stiff] neck.",
+    "reference": "Psalm 75:5 (DBT)",
+    "connected_to": "Psalm 75:6",
+    "connected_from": "Psalm 75:4"
+  },
+  {
+    "text": "For not from the east nor from the west, nor yet from the south doth exaltation [come]:",
+    "reference": "Psalm 75:6 (DBT)",
+    "connected_to": "Psalm 75:7",
+    "connected_from": "Psalm 75:5"
+  },
+  {
+    "text": "For God is the judge; he putteth down one and exalteth another.",
+    "reference": "Psalm 75:7 (DBT)",
+    "connected_to": "Psalm 75:8",
+    "connected_from": "Psalm 75:6"
+  },
+  {
+    "text": "For in the hand of Jehovah there is a cup, and it foameth with wine, it is full of mixture; and he poureth out of the same; yea, the dregs thereof shall all the wicked of the earth drain off, [and] drink.",
+    "reference": "Psalm 75:8 (DBT)",
+    "connected_to": "Psalm 75:9",
+    "connected_from": "Psalm 75:7"
+  },
+  {
+    "text": "But as for me, I will declare for ever; I will sing psalms to the God of Jacob.",
+    "reference": "Psalm 75:9 (DBT)",
+    "connected_to": "Psalm 75:10",
+    "connected_from": "Psalm 75:8"
+  },
+  {
+    "text": "And all the horns of the wicked will I cut off; [but] the horns of the righteous shall be exalted.",
+    "reference": "Psalm 75:10 (DBT)",
+    "connected_from": "Psalm 75:9"
+  }
+]

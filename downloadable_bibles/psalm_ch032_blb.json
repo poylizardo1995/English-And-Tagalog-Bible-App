@@ -1,0 +1,66 @@
+[
+  {
+    "text": "Of David. A Maskil. <span class=|reftext|><a href=|#|><b>1</b></a> Blessed [is he] with transgression lifted, with sin is covered.",
+    "reference": "Psalm 32:1 (BLB)",
+    "connected_to": "Psalm 32:2"
+  },
+  {
+    "text": "Blessed [is] the man for whom YHWH does not reckon iniquity, and in his spirit [is] no deceit.",
+    "reference": "Psalm 32:2 (BLB)",
+    "connected_to": "Psalm 32:3",
+    "connected_from": "Psalm 32:1"
+  },
+  {
+    "text": "When I remained silent, my bones were worn out by my groaning all the day.",
+    "reference": "Psalm 32:3 (BLB)",
+    "connected_to": "Psalm 32:4",
+    "connected_from": "Psalm 32:2"
+  },
+  {
+    "text": "For day and night Your hand was heavy upon me; my juice was overturned, [as] in the drought of summer. Selah",
+    "reference": "Psalm 32:4 (BLB)",
+    "connected_to": "Psalm 32:5",
+    "connected_from": "Psalm 32:3"
+  },
+  {
+    "text": "I made known to You my sin, and my iniquity I did not hide; I said, “I will make confession over my transgressions to YHWH,” and You forgave the guilt of my sin. Selah",
+    "reference": "Psalm 32:5 (BLB)",
+    "connected_to": "Psalm 32:6",
+    "connected_from": "Psalm 32:4"
+  },
+  {
+    "text": "upon thus, let every godly one pray to You, in a time to find; even with a flood of great waters toward him, they shall not touch him.",
+    "reference": "Psalm 32:6 (BLB)",
+    "connected_to": "Psalm 32:7",
+    "connected_from": "Psalm 32:5"
+  },
+  {
+    "text": "You [are] a hiding [place] unto me; from distress you keep me; with shouts of deliverance, You will surround me. Selah",
+    "reference": "Psalm 32:7 (BLB)",
+    "connected_to": "Psalm 32:8",
+    "connected_from": "Psalm 32:6"
+  },
+  {
+    "text": "I will instruct you and direct you in the way that you should go; [with] My eye I will give counsel concerning you.",
+    "reference": "Psalm 32:8 (BLB)",
+    "connected_to": "Psalm 32:9",
+    "connected_from": "Psalm 32:7"
+  },
+  {
+    "text": "You⁺ should not be like a horse, like a mule without understanding, with bit and bridle to curb its ornaments, [that] there is no coming near to you.",
+    "reference": "Psalm 32:9 (BLB)",
+    "connected_to": "Psalm 32:10",
+    "connected_from": "Psalm 32:8"
+  },
+  {
+    "text": "Many [are] the pains of the wicked, and the one trusting in YHWH, loving devotion shall surround him.",
+    "reference": "Psalm 32:10 (BLB)",
+    "connected_to": "Psalm 32:11",
+    "connected_from": "Psalm 32:9"
+  },
+  {
+    "text": "Be glad in YHWH and rejoice, O righteous ones, and shout for joy, all upright of heart!",
+    "reference": "Psalm 32:11 (BLB)",
+    "connected_from": "Psalm 32:10"
+  }
+]

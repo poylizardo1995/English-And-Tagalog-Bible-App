@@ -1,0 +1,90 @@
+[
+  {
+    "text": "A Psalm. A song for the Sabbath day. It is good to praise the LORD, and to sing praises to Your name, O Most High,",
+    "reference": "Psalm 92:1 (BSB)",
+    "connected_to": "Psalm 92:2"
+  },
+  {
+    "text": "to proclaim Your loving devotion in the morning and Your faithfulness at night",
+    "reference": "Psalm 92:2 (BSB)",
+    "connected_to": "Psalm 92:3",
+    "connected_from": "Psalm 92:1"
+  },
+  {
+    "text": "with the ten-stringed harp and the melody of the lyre.",
+    "reference": "Psalm 92:3 (BSB)",
+    "connected_to": "Psalm 92:4",
+    "connected_from": "Psalm 92:2"
+  },
+  {
+    "text": "For You, O LORD, have made me glad by Your deeds; I sing for joy at the works of Your hands.",
+    "reference": "Psalm 92:4 (BSB)",
+    "connected_to": "Psalm 92:5",
+    "connected_from": "Psalm 92:3"
+  },
+  {
+    "text": "How great are Your works, O LORD, how deep are Your thoughts!",
+    "reference": "Psalm 92:5 (BSB)",
+    "connected_to": "Psalm 92:6",
+    "connected_from": "Psalm 92:4"
+  },
+  {
+    "text": "A senseless man does not know, and a fool does not understand,",
+    "reference": "Psalm 92:6 (BSB)",
+    "connected_to": "Psalm 92:7",
+    "connected_from": "Psalm 92:5"
+  },
+  {
+    "text": "that though the wicked sprout like grass, and all evildoers flourish, they will be forever destroyed.",
+    "reference": "Psalm 92:7 (BSB)",
+    "connected_to": "Psalm 92:8",
+    "connected_from": "Psalm 92:6"
+  },
+  {
+    "text": "But You, O LORD, are exalted forever!",
+    "reference": "Psalm 92:8 (BSB)",
+    "connected_to": "Psalm 92:9",
+    "connected_from": "Psalm 92:7"
+  },
+  {
+    "text": "For surely Your enemies, O LORD, surely Your enemies will perish; all evildoers will be scattered.",
+    "reference": "Psalm 92:9 (BSB)",
+    "connected_to": "Psalm 92:10",
+    "connected_from": "Psalm 92:8"
+  },
+  {
+    "text": "But You have exalted my horn like that of a wild ox; with fine oil I have been anointed.",
+    "reference": "Psalm 92:10 (BSB)",
+    "connected_to": "Psalm 92:11",
+    "connected_from": "Psalm 92:9"
+  },
+  {
+    "text": "My eyes see the downfall of my enemies; my ears hear the wailing of my wicked foes.",
+    "reference": "Psalm 92:11 (BSB)",
+    "connected_to": "Psalm 92:12",
+    "connected_from": "Psalm 92:10"
+  },
+  {
+    "text": "The righteous will flourish like a palm tree, and grow like a cedar in Lebanon.",
+    "reference": "Psalm 92:12 (BSB)",
+    "connected_to": "Psalm 92:13",
+    "connected_from": "Psalm 92:11"
+  },
+  {
+    "text": "Planted in the house of the LORD, they will flourish in the courts of our God.",
+    "reference": "Psalm 92:13 (BSB)",
+    "connected_to": "Psalm 92:14",
+    "connected_from": "Psalm 92:12"
+  },
+  {
+    "text": "In old age they will still bear fruit; healthy and green they will remain,",
+    "reference": "Psalm 92:14 (BSB)",
+    "connected_to": "Psalm 92:15",
+    "connected_from": "Psalm 92:13"
+  },
+  {
+    "text": "to proclaim, “The LORD is upright; He is my Rock, and in Him there is no unrighteousness.”",
+    "reference": "Psalm 92:15 (BSB)",
+    "connected_from": "Psalm 92:14"
+  }
+]

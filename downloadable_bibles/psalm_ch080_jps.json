@@ -1,0 +1,114 @@
+[
+  {
+    "text": "For the Leader; upon Shoshannim. A testimony. A Psalm of Asaph.   Give ear, O Shepherd of Israel, Thou that leadest Joseph like a flock; Thou that art enthroned upon the cherubim, shine forth.",
+    "reference": "Psalm 80:1 (JPS)",
+    "connected_to": "Psalm 80:2"
+  },
+  {
+    "text": "Before Ephraim and Benjamin and Manasseh, stir up Thy might, And come to save us.",
+    "reference": "Psalm 80:2 (JPS)",
+    "connected_to": "Psalm 80:3",
+    "connected_from": "Psalm 80:1"
+  },
+  {
+    "text": "O God, restore us; And cause Thy face to shine, and we shall be saved.",
+    "reference": "Psalm 80:3 (JPS)",
+    "connected_to": "Psalm 80:4",
+    "connected_from": "Psalm 80:2"
+  },
+  {
+    "text": "O LORD God of hosts, How long wilt Thou be angry against the prayer of Thy people?",
+    "reference": "Psalm 80:4 (JPS)",
+    "connected_to": "Psalm 80:5",
+    "connected_from": "Psalm 80:3"
+  },
+  {
+    "text": "Thou hast fed them with the bread of tears, And given them tears to drink in large measure.",
+    "reference": "Psalm 80:5 (JPS)",
+    "connected_to": "Psalm 80:6",
+    "connected_from": "Psalm 80:4"
+  },
+  {
+    "text": "Thou makest us a strife unto our neighbours; And our enemies mock as they please.",
+    "reference": "Psalm 80:6 (JPS)",
+    "connected_to": "Psalm 80:7",
+    "connected_from": "Psalm 80:5"
+  },
+  {
+    "text": "O God of hosts, restore us; And cause Thy face to shine, and we shall be saved.",
+    "reference": "Psalm 80:7 (JPS)",
+    "connected_to": "Psalm 80:8",
+    "connected_from": "Psalm 80:6"
+  },
+  {
+    "text": "Thou didst pluck up a vine out of Egypt; Thou didst drive out the nations, and didst plant it.",
+    "reference": "Psalm 80:8 (JPS)",
+    "connected_to": "Psalm 80:9",
+    "connected_from": "Psalm 80:7"
+  },
+  {
+    "text": "Thou didst clear a place before it, And it took deep root, and filled the land.",
+    "reference": "Psalm 80:9 (JPS)",
+    "connected_to": "Psalm 80:10",
+    "connected_from": "Psalm 80:8"
+  },
+  {
+    "text": "The mountains were covered with the shadow of it, And the mighty cedars with the boughs thereof.",
+    "reference": "Psalm 80:10 (JPS)",
+    "connected_to": "Psalm 80:11",
+    "connected_from": "Psalm 80:9"
+  },
+  {
+    "text": "She sent out her branches unto the sea, And her shoots unto the River.",
+    "reference": "Psalm 80:11 (JPS)",
+    "connected_to": "Psalm 80:12",
+    "connected_from": "Psalm 80:10"
+  },
+  {
+    "text": "Why hast Thou broken down her fences, So that all they that pass by the way do pluck her?",
+    "reference": "Psalm 80:12 (JPS)",
+    "connected_to": "Psalm 80:13",
+    "connected_from": "Psalm 80:11"
+  },
+  {
+    "text": "The boar out of the wood doth ravage it, That which moveth in the field feedeth on it.",
+    "reference": "Psalm 80:13 (JPS)",
+    "connected_to": "Psalm 80:14",
+    "connected_from": "Psalm 80:12"
+  },
+  {
+    "text": "O God of hosts, return, we beseech Thee; Look from heaven, and behold, and be mindful of this vine,",
+    "reference": "Psalm 80:14 (JPS)",
+    "connected_to": "Psalm 80:15",
+    "connected_from": "Psalm 80:13"
+  },
+  {
+    "text": "And of the stock which Thy right hand hath planted, And the branch that Thou madest strong for Thyself.",
+    "reference": "Psalm 80:15 (JPS)",
+    "connected_to": "Psalm 80:16",
+    "connected_from": "Psalm 80:14"
+  },
+  {
+    "text": "It is burned with fire, it is cut down; They perish at the rebuke of Thy countenance.",
+    "reference": "Psalm 80:16 (JPS)",
+    "connected_to": "Psalm 80:17",
+    "connected_from": "Psalm 80:15"
+  },
+  {
+    "text": "Let Thy hand be upon the man of Thy right hand, Upon the son of man whom Thou madest strong for Thyself.",
+    "reference": "Psalm 80:17 (JPS)",
+    "connected_to": "Psalm 80:18",
+    "connected_from": "Psalm 80:16"
+  },
+  {
+    "text": "So shall we not turn back from Thee; Quicken Thou us, and we will call upon Thy name.",
+    "reference": "Psalm 80:18 (JPS)",
+    "connected_to": "Psalm 80:19",
+    "connected_from": "Psalm 80:17"
+  },
+  {
+    "text": "O LORD God of hosts, restore us; Cause Thy face to shine, and we shall be saved.",
+    "reference": "Psalm 80:19 (JPS)",
+    "connected_from": "Psalm 80:18"
+  }
+]

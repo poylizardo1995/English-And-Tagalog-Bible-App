@@ -1,0 +1,96 @@
+[
+  {
+    "text": "And Miriam and Aaron spoke against Moses, upon occasion of the Cushite the woman whom he had taken; for he had taken a Cushite woman.",
+    "reference": "Numbers 12:1 (BLB)",
+    "connected_to": "Numbers 12:2"
+  },
+  {
+    "text": "And they said, “Is [it] only indeed through Moses [that] YHWH has spoken? Is [it] not also through us [that] He has spoken?” And YHWH heard [it].",
+    "reference": "Numbers 12:2 (BLB)",
+    "connected_to": "Numbers 12:3",
+    "connected_from": "Numbers 12:1"
+  },
+  {
+    "text": "And the man Moses [was] very humble, more than all men who [were] on the face of the earth.",
+    "reference": "Numbers 12:3 (BLB)",
+    "connected_to": "Numbers 12:4",
+    "connected_from": "Numbers 12:2"
+  },
+  {
+    "text": "And YHWH said suddenly to Moses and Aaron and Miriam, “Come out, you⁺ three, to the Tent of Meeting.” And the three came out.",
+    "reference": "Numbers 12:4 (BLB)",
+    "connected_to": "Numbers 12:5",
+    "connected_from": "Numbers 12:3"
+  },
+  {
+    "text": "And YHWH came down in the pillar of cloud, and stood [in] the door of the tabernacle, and called Aaron and Miriam; and both of them went forward.",
+    "reference": "Numbers 12:5 (BLB)",
+    "connected_to": "Numbers 12:6",
+    "connected_from": "Numbers 12:4"
+  },
+  {
+    "text": "And He said, “Hear now My words: If there is a prophet among you⁺, [I], YHWH, make Myself known to him in a vision; I speak to him in a dream.",
+    "reference": "Numbers 12:6 (BLB)",
+    "connected_to": "Numbers 12:7",
+    "connected_from": "Numbers 12:5"
+  },
+  {
+    "text": "Not so My servant Moses; in all My house He [is] faithful.",
+    "reference": "Numbers 12:7 (BLB)",
+    "connected_to": "Numbers 12:8",
+    "connected_from": "Numbers 12:6"
+  },
+  {
+    "text": "I speak with him mouth to mouth, and even plainly and not in riddles; and the form of YHWH he sees. And why were you⁺ not afraid to speak against My servant Moses?”",
+    "reference": "Numbers 12:8 (BLB)",
+    "connected_to": "Numbers 12:9",
+    "connected_from": "Numbers 12:7"
+  },
+  {
+    "text": "And the anger of YHWH was kindled against them, and He departed.",
+    "reference": "Numbers 12:9 (BLB)",
+    "connected_to": "Numbers 12:10",
+    "connected_from": "Numbers 12:8"
+  },
+  {
+    "text": "And the cloud departed from above the Tent, and behold, Miriam was leprous as snow. And Aaron turned toward Miriam, and behold, she was leprous.",
+    "reference": "Numbers 12:10 (BLB)",
+    "connected_to": "Numbers 12:11",
+    "connected_from": "Numbers 12:9"
+  },
+  {
+    "text": "And Aaron said to Moses, “Oh, my lord, please do not lay on us [this] sin, which we have done foolishly and in which we have sinned.",
+    "reference": "Numbers 12:11 (BLB)",
+    "connected_to": "Numbers 12:12",
+    "connected_from": "Numbers 12:10"
+  },
+  {
+    "text": "Please do not let her be as one dead, who in his coming out from the womb of his mother, half of his flesh is consumed.”",
+    "reference": "Numbers 12:12 (BLB)",
+    "connected_to": "Numbers 12:13",
+    "connected_from": "Numbers 12:11"
+  },
+  {
+    "text": "And Moses cried out to YHWH, saying, “O God, please, please, heal her.”",
+    "reference": "Numbers 12:13 (BLB)",
+    "connected_to": "Numbers 12:14",
+    "connected_from": "Numbers 12:12"
+  },
+  {
+    "text": "And YHWH said to Moses, “And if her father surely had spit in her face, would not she be shamed seven days? Let her be shut seven days outside of the camp, and afterward she may be received.”",
+    "reference": "Numbers 12:14 (BLB)",
+    "connected_to": "Numbers 12:15",
+    "connected_from": "Numbers 12:13"
+  },
+  {
+    "text": "And Miriam was shut outside of the camp seven days, and the people did not journey until the bringing in of Miriam.",
+    "reference": "Numbers 12:15 (BLB)",
+    "connected_to": "Numbers 12:16",
+    "connected_from": "Numbers 12:14"
+  },
+  {
+    "text": "And afterward the people set out from Hazeroth, and they camped in the Wilderness of Paran.",
+    "reference": "Numbers 12:16 (BLB)",
+    "connected_from": "Numbers 12:15"
+  }
+]

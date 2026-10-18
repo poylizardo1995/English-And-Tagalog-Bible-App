@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Unto the end, in praises, a psalm for Asaph: a canticle to the Assyrians. In Judea God is known: his name is great in Israel.",
+    "reference": "Psalm 76:1 (DRB)",
+    "connected_to": "Psalm 76:2"
+  },
+  {
+    "text": "And his place is in peace: and his abode in Sion:",
+    "reference": "Psalm 76:2 (DRB)",
+    "connected_to": "Psalm 76:3",
+    "connected_from": "Psalm 76:1"
+  },
+  {
+    "text": "There hath he broken the powers of bows, the shield, the sword, and the battie.",
+    "reference": "Psalm 76:3 (DRB)",
+    "connected_to": "Psalm 76:4",
+    "connected_from": "Psalm 76:2"
+  },
+  {
+    "text": "Thou enlightenest wonderfully from the everlasting hills.",
+    "reference": "Psalm 76:4 (DRB)",
+    "connected_to": "Psalm 76:5",
+    "connected_from": "Psalm 76:3"
+  },
+  {
+    "text": "All the foolish of heart were troubled. They have slept their sleep; and all the men of riches have found nothing in their hands.",
+    "reference": "Psalm 76:5 (DRB)",
+    "connected_to": "Psalm 76:6",
+    "connected_from": "Psalm 76:4"
+  },
+  {
+    "text": "At thy rebuke, O God of Jacob, they have all slumbered that mounted on horseback.",
+    "reference": "Psalm 76:6 (DRB)",
+    "connected_to": "Psalm 76:7",
+    "connected_from": "Psalm 76:5"
+  },
+  {
+    "text": "Thou art terrible, and who shall resist thee? from that time thy wrath.",
+    "reference": "Psalm 76:7 (DRB)",
+    "connected_to": "Psalm 76:8",
+    "connected_from": "Psalm 76:6"
+  },
+  {
+    "text": "Thou hast caused judgment to be heard from heaven: the earth trembled and was still,",
+    "reference": "Psalm 76:8 (DRB)",
+    "connected_to": "Psalm 76:9",
+    "connected_from": "Psalm 76:7"
+  },
+  {
+    "text": "When God arose in judgment, to save all the meek of the earth.",
+    "reference": "Psalm 76:9 (DRB)",
+    "connected_to": "Psalm 76:10",
+    "connected_from": "Psalm 76:8"
+  },
+  {
+    "text": "For the thought of man shall give praise to thee: and the remainders of the thought shall keep holiday to thee.",
+    "reference": "Psalm 76:10 (DRB)",
+    "connected_to": "Psalm 76:11",
+    "connected_from": "Psalm 76:9"
+  },
+  {
+    "text": "Vow ye, and pay to the Lord your God: all you that are round about him bring presents. To him that is terrible,",
+    "reference": "Psalm 76:11 (DRB)",
+    "connected_to": "Psalm 76:12",
+    "connected_from": "Psalm 76:10"
+  },
+  {
+    "text": "even to him who taketh away the spirit of princes: to the terrible with the kings of the earth.",
+    "reference": "Psalm 76:12 (DRB)",
+    "connected_from": "Psalm 76:11"
+  }
+]

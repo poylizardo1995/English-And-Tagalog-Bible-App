@@ -1,0 +1,54 @@
+[
+  {
+    "text": "O sing to the LORD a new song; for he has done marvelous things: his right hand, and his holy arm, has gotten him the victory.",
+    "reference": "Psalm 98:1 (AKJV)",
+    "connected_to": "Psalm 98:2"
+  },
+  {
+    "text": "The LORD has made known his salvation: his righteousness has he openly showed in the sight of the heathen.",
+    "reference": "Psalm 98:2 (AKJV)",
+    "connected_to": "Psalm 98:3",
+    "connected_from": "Psalm 98:1"
+  },
+  {
+    "text": "He has remembered his mercy and his truth toward the house of Israel: all the ends of the earth have seen the salvation of our God.",
+    "reference": "Psalm 98:3 (AKJV)",
+    "connected_to": "Psalm 98:4",
+    "connected_from": "Psalm 98:2"
+  },
+  {
+    "text": "Make a joyful noise to the LORD, all the earth: make a loud noise, and rejoice, and sing praise.",
+    "reference": "Psalm 98:4 (AKJV)",
+    "connected_to": "Psalm 98:5",
+    "connected_from": "Psalm 98:3"
+  },
+  {
+    "text": "Sing to the LORD with the harp; with the harp, and the voice of a psalm.",
+    "reference": "Psalm 98:5 (AKJV)",
+    "connected_to": "Psalm 98:6",
+    "connected_from": "Psalm 98:4"
+  },
+  {
+    "text": "With trumpets and sound of cornet make a joyful noise before the LORD, the King.",
+    "reference": "Psalm 98:6 (AKJV)",
+    "connected_to": "Psalm 98:7",
+    "connected_from": "Psalm 98:5"
+  },
+  {
+    "text": "Let the sea roar, and the fullness thereof; the world, and they that dwell therein.",
+    "reference": "Psalm 98:7 (AKJV)",
+    "connected_to": "Psalm 98:8",
+    "connected_from": "Psalm 98:6"
+  },
+  {
+    "text": "Let the floods clap their hands: let the hills be joyful together",
+    "reference": "Psalm 98:8 (AKJV)",
+    "connected_to": "Psalm 98:9",
+    "connected_from": "Psalm 98:7"
+  },
+  {
+    "text": "Before the LORD; for he comes to judge the earth: with righteousness shall he judge the world, and the people with equity.",
+    "reference": "Psalm 98:9 (AKJV)",
+    "connected_from": "Psalm 98:8"
+  }
+]

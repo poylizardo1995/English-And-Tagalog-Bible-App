@@ -1,0 +1,120 @@
+[
+  {
+    "text": "Then answered Zophar the Naamathite, and said,",
+    "reference": "Job 11:1 (AKJV)",
+    "connected_to": "Job 11:2"
+  },
+  {
+    "text": "Should not the multitude of words be answered? and should a man full of talk be justified?",
+    "reference": "Job 11:2 (AKJV)",
+    "connected_to": "Job 11:3",
+    "connected_from": "Job 11:1"
+  },
+  {
+    "text": "Should your lies make men hold their peace? and when you mock, shall no man make you ashamed?",
+    "reference": "Job 11:3 (AKJV)",
+    "connected_to": "Job 11:4",
+    "connected_from": "Job 11:2"
+  },
+  {
+    "text": "For you have said, My doctrine is pure, and I am clean in your eyes.",
+    "reference": "Job 11:4 (AKJV)",
+    "connected_to": "Job 11:5",
+    "connected_from": "Job 11:3"
+  },
+  {
+    "text": "But oh that God would speak, and open his lips against you;",
+    "reference": "Job 11:5 (AKJV)",
+    "connected_to": "Job 11:6",
+    "connected_from": "Job 11:4"
+  },
+  {
+    "text": "And that he would show you the secrets of wisdom, that they are double to that which is! Know therefore that God exacts of you less than your iniquity deserves.",
+    "reference": "Job 11:6 (AKJV)",
+    "connected_to": "Job 11:7",
+    "connected_from": "Job 11:5"
+  },
+  {
+    "text": "Can you by searching find out God? can you find out the Almighty to perfection?",
+    "reference": "Job 11:7 (AKJV)",
+    "connected_to": "Job 11:8",
+    "connected_from": "Job 11:6"
+  },
+  {
+    "text": "It is as high as heaven; what can you do? deeper than hell; what can you know?",
+    "reference": "Job 11:8 (AKJV)",
+    "connected_to": "Job 11:9",
+    "connected_from": "Job 11:7"
+  },
+  {
+    "text": "The measure thereof is longer than the earth, and broader than the sea.",
+    "reference": "Job 11:9 (AKJV)",
+    "connected_to": "Job 11:10",
+    "connected_from": "Job 11:8"
+  },
+  {
+    "text": "If he cut off, and shut up, or gather together, then who can hinder him?",
+    "reference": "Job 11:10 (AKJV)",
+    "connected_to": "Job 11:11",
+    "connected_from": "Job 11:9"
+  },
+  {
+    "text": "For he knows vain men: he sees wickedness also; will he not then consider it?",
+    "reference": "Job 11:11 (AKJV)",
+    "connected_to": "Job 11:12",
+    "connected_from": "Job 11:10"
+  },
+  {
+    "text": "For vain men would be wise, though man be born like a wild ass’s colt.",
+    "reference": "Job 11:12 (AKJV)",
+    "connected_to": "Job 11:13",
+    "connected_from": "Job 11:11"
+  },
+  {
+    "text": "If you prepare your heart, and stretch out your hands toward him;",
+    "reference": "Job 11:13 (AKJV)",
+    "connected_to": "Job 11:14",
+    "connected_from": "Job 11:12"
+  },
+  {
+    "text": "If iniquity be in your hand, put it far away, and let not wickedness dwell in your tabernacles.",
+    "reference": "Job 11:14 (AKJV)",
+    "connected_to": "Job 11:15",
+    "connected_from": "Job 11:13"
+  },
+  {
+    "text": "For then shall you lift up your face without spot; yes, you shall be steadfast, and shall not fear:",
+    "reference": "Job 11:15 (AKJV)",
+    "connected_to": "Job 11:16",
+    "connected_from": "Job 11:14"
+  },
+  {
+    "text": "Because you shall forget your misery, and remember it as waters that pass away:",
+    "reference": "Job 11:16 (AKJV)",
+    "connected_to": "Job 11:17",
+    "connected_from": "Job 11:15"
+  },
+  {
+    "text": "And your age shall be clearer than the noonday: you shall shine forth, you shall be as the morning.",
+    "reference": "Job 11:17 (AKJV)",
+    "connected_to": "Job 11:18",
+    "connected_from": "Job 11:16"
+  },
+  {
+    "text": "And you shall be secure, because there is hope; yes, you shall dig about you, and you shall take your rest in safety.",
+    "reference": "Job 11:18 (AKJV)",
+    "connected_to": "Job 11:19",
+    "connected_from": "Job 11:17"
+  },
+  {
+    "text": "Also you shall lie down, and none shall make you afraid; yes, many shall make suit to you.",
+    "reference": "Job 11:19 (AKJV)",
+    "connected_to": "Job 11:20",
+    "connected_from": "Job 11:18"
+  },
+  {
+    "text": "But the eyes of the wicked shall fail, and they shall not escape, and their hope shall be as the giving up of the ghost.",
+    "reference": "Job 11:20 (AKJV)",
+    "connected_from": "Job 11:19"
+  }
+]

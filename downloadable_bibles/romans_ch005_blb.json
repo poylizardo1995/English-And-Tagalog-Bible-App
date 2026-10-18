@@ -1,0 +1,126 @@
+[
+  {
+    "text": "Therefore, having been justified by faith, we have peace with God through our Lord Jesus Christ,",
+    "reference": "Romans 5:1 (BLB)",
+    "connected_to": "Romans 5:2"
+  },
+  {
+    "text": "through whom also we have access by faith into this grace in which we stand; and we boast in hope of the glory of God.",
+    "reference": "Romans 5:2 (BLB)",
+    "connected_to": "Romans 5:3",
+    "connected_from": "Romans 5:1"
+  },
+  {
+    "text": "And not only [so], but also we boast in tribulations, knowing that tribulation produces perseverance;",
+    "reference": "Romans 5:3 (BLB)",
+    "connected_to": "Romans 5:4",
+    "connected_from": "Romans 5:2"
+  },
+  {
+    "text": "and perseverance, character; and character, hope.",
+    "reference": "Romans 5:4 (BLB)",
+    "connected_to": "Romans 5:5",
+    "connected_from": "Romans 5:3"
+  },
+  {
+    "text": "And hope does not put [us] to shame, because the love of God has been poured out in our hearts through the Holy Spirit, the One having been given to us.",
+    "reference": "Romans 5:5 (BLB)",
+    "connected_to": "Romans 5:6",
+    "connected_from": "Romans 5:4"
+  },
+  {
+    "text": "Still indeed Christ, [in] our still being weak, according to the right time, died for the ungodly.",
+    "reference": "Romans 5:6 (BLB)",
+    "connected_to": "Romans 5:7",
+    "connected_from": "Romans 5:5"
+  },
+  {
+    "text": "For hardly anyone will die for a righteous [man], though for the good [man] perhaps someone would even dare to die.",
+    "reference": "Romans 5:7 (BLB)",
+    "connected_to": "Romans 5:8",
+    "connected_from": "Romans 5:6"
+  },
+  {
+    "text": "But God demonstrates His own love to us, that [in] our being still sinners, Christ died for us.",
+    "reference": "Romans 5:8 (BLB)",
+    "connected_to": "Romans 5:9",
+    "connected_from": "Romans 5:7"
+  },
+  {
+    "text": "Therefore much more, having been justified now by His blood, we will be saved by Him from wrath!",
+    "reference": "Romans 5:9 (BLB)",
+    "connected_to": "Romans 5:10",
+    "connected_from": "Romans 5:8"
+  },
+  {
+    "text": "For if, being enemies, we were reconciled to God through the death of His Son, much more, having been reconciled, we will be saved in His life!",
+    "reference": "Romans 5:10 (BLB)",
+    "connected_to": "Romans 5:11",
+    "connected_from": "Romans 5:9"
+  },
+  {
+    "text": "And not only [so], but also we are boasting in God through our Lord Jesus Christ, through whom we now received reconciliation.",
+    "reference": "Romans 5:11 (BLB)",
+    "connected_to": "Romans 5:12",
+    "connected_from": "Romans 5:10"
+  },
+  {
+    "text": "Because of this, just as through one man sin entered into the world, and death through sin, so also death passed through to all men, because all sinned.",
+    "reference": "Romans 5:12 (BLB)",
+    "connected_to": "Romans 5:13",
+    "connected_from": "Romans 5:11"
+  },
+  {
+    "text": "For until the law, sin was in the world; but sin is not imputed, there being no law.",
+    "reference": "Romans 5:13 (BLB)",
+    "connected_to": "Romans 5:14",
+    "connected_from": "Romans 5:12"
+  },
+  {
+    "text": "Nevertheless, death reigned from Adam until Moses, even over those not having sinned in the likeness of the transgression of Adam, who is a type of the coming One.",
+    "reference": "Romans 5:14 (BLB)",
+    "connected_to": "Romans 5:15",
+    "connected_from": "Romans 5:13"
+  },
+  {
+    "text": "But not as the trespass, so also [is] the gracious gift; for if by the trespass of the one the many died, much more the grace of God and the gift in grace, that of the one man, Jesus Christ, abounded to the many!",
+    "reference": "Romans 5:15 (BLB)",
+    "connected_to": "Romans 5:16",
+    "connected_from": "Romans 5:14"
+  },
+  {
+    "text": "And not as through one having sinned [is] the gift; for indeed the judgment out of one [is] to condemnation; but the gracious gift out of many trespasses [is] to justification.",
+    "reference": "Romans 5:16 (BLB)",
+    "connected_to": "Romans 5:17",
+    "connected_from": "Romans 5:15"
+  },
+  {
+    "text": "For if, by the trespass of the one, death reigned through the one, much more will those receiving the abundance of grace and of the gift of righteousness reign in life through the one, Jesus Christ!",
+    "reference": "Romans 5:17 (BLB)",
+    "connected_to": "Romans 5:18",
+    "connected_from": "Romans 5:16"
+  },
+  {
+    "text": "So then, just as through one trespass [is] condemnation to all men so also through one righteous act [is] justification of life to all men.",
+    "reference": "Romans 5:18 (BLB)",
+    "connected_to": "Romans 5:19",
+    "connected_from": "Romans 5:17"
+  },
+  {
+    "text": "For just as through the disobedience of the one man the many were made sinners, so also through the obedience of the One the many will be made righteous.",
+    "reference": "Romans 5:19 (BLB)",
+    "connected_to": "Romans 5:20",
+    "connected_from": "Romans 5:18"
+  },
+  {
+    "text": "And the law entered so that the trespass might abound; but where sin abounded, grace overabounded,",
+    "reference": "Romans 5:20 (BLB)",
+    "connected_to": "Romans 5:21",
+    "connected_from": "Romans 5:19"
+  },
+  {
+    "text": "so that, just as sin reigned in death, so also grace might reign through righteousness to eternal life through Jesus Christ our Lord.",
+    "reference": "Romans 5:21 (BLB)",
+    "connected_from": "Romans 5:20"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "text": "And the men of Ephraim gathered together and passed over toward Zaphon, and they said to Jephthah, “Why did you pass over to fight against the sons of Ammon and did not call us to go with you? Your house we will burn down over you with the fire.”",
+    "reference": "Judges 12:1 (BLB)",
+    "connected_to": "Judges 12:2"
+  },
+  {
+    "text": "And Jephthah said to them, “I have been a man of exceedingly great struggle—I and My people—with the sons of Ammon. And I called you⁺ and you⁺ did not deliver me out of their hands.",
+    "reference": "Judges 12:2 (BLB)",
+    "connected_to": "Judges 12:3",
+    "connected_from": "Judges 12:1"
+  },
+  {
+    "text": "And I saw that you would not deliver [me], and I took my life in my hands, and passed over against the sons of Ammon. And YHWH delivered them into my hand. Why have you⁺ come up to me this day to fight against me?”",
+    "reference": "Judges 12:3 (BLB)",
+    "connected_to": "Judges 12:4",
+    "connected_from": "Judges 12:2"
+  },
+  {
+    "text": "And Jephthah gathered together all the men of Gilead, and fought against Ephraim. And the men of Gilead defeated Ephraim, because they said, “You⁺ Gileadites are fugitives of Ephraim in the midst of Ephraim, in the midst of Manasseh.”",
+    "reference": "Judges 12:4 (BLB)",
+    "connected_to": "Judges 12:5",
+    "connected_from": "Judges 12:3"
+  },
+  {
+    "text": "And Gilead seized the fords of the Jordan to Ephraim, and when a fugitive from Ephraim said, “Let me pass over,” the men of Gilead would say to him, “[Are] you an Ephraimite?” And if he said, “No,”",
+    "reference": "Judges 12:5 (BLB)",
+    "connected_to": "Judges 12:6",
+    "connected_from": "Judges 12:4"
+  },
+  {
+    "text": "they would say to him, “Say, please, Shibboleth.” And he would say, “Sibboleth,” for he could not pronounce [it] correctly. And they would take him and kill him at the fords of the Jordan. And there fell at that time of Ephraim forty-two thousand.",
+    "reference": "Judges 12:6 (BLB)",
+    "connected_to": "Judges 12:7",
+    "connected_from": "Judges 12:5"
+  },
+  {
+    "text": "And Jephthah judged Israel six years. And Jephthah the Gileadite died, and was buried among the cities of Gilead.",
+    "reference": "Judges 12:7 (BLB)",
+    "connected_to": "Judges 12:8",
+    "connected_from": "Judges 12:6"
+  },
+  {
+    "text": "And after him Ibzan of Bethlehem judged Israel.",
+    "reference": "Judges 12:8 (BLB)",
+    "connected_to": "Judges 12:9",
+    "connected_from": "Judges 12:7"
+  },
+  {
+    "text": "And he had thirty sons, and thirty daughters he gave in marriage to outsiders, and thirty daughters he brought in for his sons from outside. And He judged Israel seven years.",
+    "reference": "Judges 12:9 (BLB)",
+    "connected_to": "Judges 12:10",
+    "connected_from": "Judges 12:8"
+  },
+  {
+    "text": "And Ibzan died, and was buried in Bethlehem.",
+    "reference": "Judges 12:10 (BLB)",
+    "connected_to": "Judges 12:11",
+    "connected_from": "Judges 12:9"
+  },
+  {
+    "text": "And after him, Elon the Zebulunite judged Israel. And He judged Israel ten years.",
+    "reference": "Judges 12:11 (BLB)",
+    "connected_to": "Judges 12:12",
+    "connected_from": "Judges 12:10"
+  },
+  {
+    "text": "And Elon the Zebulunite died and was buried in Aijalon, in the land of Zebulun.",
+    "reference": "Judges 12:12 (BLB)",
+    "connected_to": "Judges 12:13",
+    "connected_from": "Judges 12:11"
+  },
+  {
+    "text": "And after him Abdon son of Hillel the Pirathonite judged Israel,",
+    "reference": "Judges 12:13 (BLB)",
+    "connected_to": "Judges 12:14",
+    "connected_from": "Judges 12:12"
+  },
+  {
+    "text": "and there were unto him forty sons and thirty sons of sons, who rode on seventy young donkeys. And he judged Israel eight years.",
+    "reference": "Judges 12:14 (BLB)",
+    "connected_to": "Judges 12:15",
+    "connected_from": "Judges 12:13"
+  },
+  {
+    "text": "And Abdon son of Hillel the Pirathonite died, and he was buried in Pirathon in the land of Ephraim, in the hill country of the Amalekite.",
+    "reference": "Judges 12:15 (BLB)",
+    "connected_from": "Judges 12:14"
+  }
+]

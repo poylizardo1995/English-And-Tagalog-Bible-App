@@ -1,0 +1,150 @@
+[
+  {
+    "text": "Thus the heavens and the earth were completed in all their vast array.",
+    "reference": "Genesis 2:1 (BSB)",
+    "connected_to": "Genesis 2:2"
+  },
+  {
+    "text": "And by the seventh day God had finished the work He had been doing; so on that day He rested from all His work.",
+    "reference": "Genesis 2:2 (BSB)",
+    "connected_to": "Genesis 2:3",
+    "connected_from": "Genesis 2:1"
+  },
+  {
+    "text": "Then God blessed the seventh day and sanctified it, because on that day He rested from all the work of creation that He had accomplished.",
+    "reference": "Genesis 2:3 (BSB)",
+    "connected_to": "Genesis 2:4",
+    "connected_from": "Genesis 2:2"
+  },
+  {
+    "text": "This is the account of the heavens and the earth when they were created, in the day that the LORD God made them.",
+    "reference": "Genesis 2:4 (BSB)",
+    "connected_to": "Genesis 2:5",
+    "connected_from": "Genesis 2:3"
+  },
+  {
+    "text": "Now no shrub of the field had yet appeared on the earth, nor had any plant of the field sprouted, for the LORD God had not yet sent rain upon the earth, and there was no man to cultivate the ground.",
+    "reference": "Genesis 2:5 (BSB)",
+    "connected_to": "Genesis 2:6",
+    "connected_from": "Genesis 2:4"
+  },
+  {
+    "text": "But springs welled up from the earth and watered the whole surface of the ground.",
+    "reference": "Genesis 2:6 (BSB)",
+    "connected_to": "Genesis 2:7",
+    "connected_from": "Genesis 2:5"
+  },
+  {
+    "text": "Then the LORD God formed man from the dust of the ground and breathed the breath of life into his nostrils, and the man became a living being.",
+    "reference": "Genesis 2:7 (BSB)",
+    "connected_to": "Genesis 2:8",
+    "connected_from": "Genesis 2:6"
+  },
+  {
+    "text": "And the LORD God planted a garden in Eden, in the east, where He placed the man He had formed.",
+    "reference": "Genesis 2:8 (BSB)",
+    "connected_to": "Genesis 2:9",
+    "connected_from": "Genesis 2:7"
+  },
+  {
+    "text": "Out of the ground the LORD God gave growth to every tree that is pleasing to the eye and good for food. And in the middle of the garden were the tree of life and the tree of the knowledge of good and evil.",
+    "reference": "Genesis 2:9 (BSB)",
+    "connected_to": "Genesis 2:10",
+    "connected_from": "Genesis 2:8"
+  },
+  {
+    "text": "Now a river flowed out of Eden to water the garden, and from there it branched into four headwaters:",
+    "reference": "Genesis 2:10 (BSB)",
+    "connected_to": "Genesis 2:11",
+    "connected_from": "Genesis 2:9"
+  },
+  {
+    "text": "The name of the first river is the Pishon; it winds through the whole land of Havilah, where there is gold.",
+    "reference": "Genesis 2:11 (BSB)",
+    "connected_to": "Genesis 2:12",
+    "connected_from": "Genesis 2:10"
+  },
+  {
+    "text": "And the gold of that land is pure, and bdellium and onyx are found there.",
+    "reference": "Genesis 2:12 (BSB)",
+    "connected_to": "Genesis 2:13",
+    "connected_from": "Genesis 2:11"
+  },
+  {
+    "text": "The name of the second river is the Gihon; it winds through the whole land of Cush.",
+    "reference": "Genesis 2:13 (BSB)",
+    "connected_to": "Genesis 2:14",
+    "connected_from": "Genesis 2:12"
+  },
+  {
+    "text": "The name of the third river is the Tigris; it runs along the east side of Assyria. And the fourth river is the Euphrates.",
+    "reference": "Genesis 2:14 (BSB)",
+    "connected_to": "Genesis 2:15",
+    "connected_from": "Genesis 2:13"
+  },
+  {
+    "text": "Then the LORD God took the man and placed him in the Garden of Eden to cultivate and keep it.",
+    "reference": "Genesis 2:15 (BSB)",
+    "connected_to": "Genesis 2:16",
+    "connected_from": "Genesis 2:14"
+  },
+  {
+    "text": "And the LORD God commanded him, “You may eat freely from every tree of the garden,",
+    "reference": "Genesis 2:16 (BSB)",
+    "connected_to": "Genesis 2:17",
+    "connected_from": "Genesis 2:15"
+  },
+  {
+    "text": "but you must not eat from the tree of the knowledge of good and evil; for in the day that you eat of it, you will surely die.”",
+    "reference": "Genesis 2:17 (BSB)",
+    "connected_to": "Genesis 2:18",
+    "connected_from": "Genesis 2:16"
+  },
+  {
+    "text": "The LORD God also said, “It is not good for the man to be alone. I will make for him a suitable helper.”",
+    "reference": "Genesis 2:18 (BSB)",
+    "connected_to": "Genesis 2:19",
+    "connected_from": "Genesis 2:17"
+  },
+  {
+    "text": "And out of the ground the LORD God formed every beast of the field and every bird of the air, and He brought them to the man to see what he would name each one. And whatever the man called each living creature, that was its name.",
+    "reference": "Genesis 2:19 (BSB)",
+    "connected_to": "Genesis 2:20",
+    "connected_from": "Genesis 2:18"
+  },
+  {
+    "text": "The man gave names to all the livestock, to the birds of the air, and to every beast of the field. But for Adam no suitable helper was found.",
+    "reference": "Genesis 2:20 (BSB)",
+    "connected_to": "Genesis 2:21",
+    "connected_from": "Genesis 2:19"
+  },
+  {
+    "text": "So the LORD God caused the man to fall into a deep sleep, and while he slept, He took one of the man’s ribs and closed up the area with flesh.",
+    "reference": "Genesis 2:21 (BSB)",
+    "connected_to": "Genesis 2:22",
+    "connected_from": "Genesis 2:20"
+  },
+  {
+    "text": "And from the rib that the LORD God had taken from the man, He made a woman and brought her to him.",
+    "reference": "Genesis 2:22 (BSB)",
+    "connected_to": "Genesis 2:23",
+    "connected_from": "Genesis 2:21"
+  },
+  {
+    "text": "And the man said: “This is now bone of my bones and flesh of my flesh; she shall be called ‘woman,’ for out of man she was taken.”",
+    "reference": "Genesis 2:23 (BSB)",
+    "connected_to": "Genesis 2:24",
+    "connected_from": "Genesis 2:22"
+  },
+  {
+    "text": "For this reason a man will leave his father and mother and be united to his wife, and they will become one flesh.",
+    "reference": "Genesis 2:24 (BSB)",
+    "connected_to": "Genesis 2:25",
+    "connected_from": "Genesis 2:23"
+  },
+  {
+    "text": "And the man and his wife were both naked, and they were not ashamed.",
+    "reference": "Genesis 2:25 (BSB)",
+    "connected_from": "Genesis 2:24"
+  }
+]

@@ -1,0 +1,198 @@
+[
+  {
+    "text": "Proverbs of Solomon, son of David, king of Israel:",
+    "reference": "Proverbs 1:1 (DBT)",
+    "connected_to": "Proverbs 1:2"
+  },
+  {
+    "text": "to know wisdom and instruction; to discern the words of understanding;",
+    "reference": "Proverbs 1:2 (DBT)",
+    "connected_to": "Proverbs 1:3",
+    "connected_from": "Proverbs 1:1"
+  },
+  {
+    "text": "to receive the instruction of wisdom, righteousness and judgment, and equity;",
+    "reference": "Proverbs 1:3 (DBT)",
+    "connected_to": "Proverbs 1:4",
+    "connected_from": "Proverbs 1:2"
+  },
+  {
+    "text": "to give prudence to the simple, to the young man knowledge and discretion.",
+    "reference": "Proverbs 1:4 (DBT)",
+    "connected_to": "Proverbs 1:5",
+    "connected_from": "Proverbs 1:3"
+  },
+  {
+    "text": "He that is wise will hear, and will increase learning; and the intelligent will gain wise counsels:",
+    "reference": "Proverbs 1:5 (DBT)",
+    "connected_to": "Proverbs 1:6",
+    "connected_from": "Proverbs 1:4"
+  },
+  {
+    "text": "to understand a proverb and an allegory, the words of the wise and their enigmas.",
+    "reference": "Proverbs 1:6 (DBT)",
+    "connected_to": "Proverbs 1:7",
+    "connected_from": "Proverbs 1:5"
+  },
+  {
+    "text": "The fear of Jehovah is the beginning of knowledge: fools despise wisdom and instruction.",
+    "reference": "Proverbs 1:7 (DBT)",
+    "connected_to": "Proverbs 1:8",
+    "connected_from": "Proverbs 1:6"
+  },
+  {
+    "text": "Hear, my son, the instruction of thy father, and forsake not the teaching of thy mother;",
+    "reference": "Proverbs 1:8 (DBT)",
+    "connected_to": "Proverbs 1:9",
+    "connected_from": "Proverbs 1:7"
+  },
+  {
+    "text": "for they shall be a garland of grace unto thy head, and chains about thy neck.",
+    "reference": "Proverbs 1:9 (DBT)",
+    "connected_to": "Proverbs 1:10",
+    "connected_from": "Proverbs 1:8"
+  },
+  {
+    "text": "My son, if sinners entice thee, consent not.",
+    "reference": "Proverbs 1:10 (DBT)",
+    "connected_to": "Proverbs 1:11",
+    "connected_from": "Proverbs 1:9"
+  },
+  {
+    "text": "If they say, Come with us, let us lay wait for blood, let us lurk secretly for the innocent without cause;",
+    "reference": "Proverbs 1:11 (DBT)",
+    "connected_to": "Proverbs 1:12",
+    "connected_from": "Proverbs 1:10"
+  },
+  {
+    "text": "let us swallow them up alive as Sheol, and whole, as those that go down into the pit;",
+    "reference": "Proverbs 1:12 (DBT)",
+    "connected_to": "Proverbs 1:13",
+    "connected_from": "Proverbs 1:11"
+  },
+  {
+    "text": "we shall find all precious substance, we shall fill our houses with spoil:",
+    "reference": "Proverbs 1:13 (DBT)",
+    "connected_to": "Proverbs 1:14",
+    "connected_from": "Proverbs 1:12"
+  },
+  {
+    "text": "cast in thy lot among us; we will all have one purse:",
+    "reference": "Proverbs 1:14 (DBT)",
+    "connected_to": "Proverbs 1:15",
+    "connected_from": "Proverbs 1:13"
+  },
+  {
+    "text": "—my son, walk not in the way with them, keep back thy foot from their path;",
+    "reference": "Proverbs 1:15 (DBT)",
+    "connected_to": "Proverbs 1:16",
+    "connected_from": "Proverbs 1:14"
+  },
+  {
+    "text": "for their feet run to evil, and they make haste to shed blood.",
+    "reference": "Proverbs 1:16 (DBT)",
+    "connected_to": "Proverbs 1:17",
+    "connected_from": "Proverbs 1:15"
+  },
+  {
+    "text": "For in vain the net is spread in the sight of anything which hath wings.",
+    "reference": "Proverbs 1:17 (DBT)",
+    "connected_to": "Proverbs 1:18",
+    "connected_from": "Proverbs 1:16"
+  },
+  {
+    "text": "And these lay wait for their own blood; they lurk secretly for their own lives.",
+    "reference": "Proverbs 1:18 (DBT)",
+    "connected_to": "Proverbs 1:19",
+    "connected_from": "Proverbs 1:17"
+  },
+  {
+    "text": "So are the paths of every one that is greedy of gain: it taketh away the life of its possessors.",
+    "reference": "Proverbs 1:19 (DBT)",
+    "connected_to": "Proverbs 1:20",
+    "connected_from": "Proverbs 1:18"
+  },
+  {
+    "text": "Wisdom crieth without; she raiseth her voice in the broadways;",
+    "reference": "Proverbs 1:20 (DBT)",
+    "connected_to": "Proverbs 1:21",
+    "connected_from": "Proverbs 1:19"
+  },
+  {
+    "text": "she calleth in the chief [place] of concourse, in the entry of the gates; in the city she uttereth her words:",
+    "reference": "Proverbs 1:21 (DBT)",
+    "connected_to": "Proverbs 1:22",
+    "connected_from": "Proverbs 1:20"
+  },
+  {
+    "text": "How long, simple ones, will ye love simpleness, and scorners take pleasure in their scorning, and the foolish hate knowledge?",
+    "reference": "Proverbs 1:22 (DBT)",
+    "connected_to": "Proverbs 1:23",
+    "connected_from": "Proverbs 1:21"
+  },
+  {
+    "text": "Turn you at my reproof: behold, I will pour forth my spirit unto you, I will make known to you my words.",
+    "reference": "Proverbs 1:23 (DBT)",
+    "connected_to": "Proverbs 1:24",
+    "connected_from": "Proverbs 1:22"
+  },
+  {
+    "text": "Because I have called, and ye refused; I have stretched out my hand, and no one regarded;",
+    "reference": "Proverbs 1:24 (DBT)",
+    "connected_to": "Proverbs 1:25",
+    "connected_from": "Proverbs 1:23"
+  },
+  {
+    "text": "and ye have rejected all my counsel, and would none of my reproof:",
+    "reference": "Proverbs 1:25 (DBT)",
+    "connected_to": "Proverbs 1:26",
+    "connected_from": "Proverbs 1:24"
+  },
+  {
+    "text": "I also will laugh in your calamity, I will mock when your fear cometh;",
+    "reference": "Proverbs 1:26 (DBT)",
+    "connected_to": "Proverbs 1:27",
+    "connected_from": "Proverbs 1:25"
+  },
+  {
+    "text": "when your fear cometh as sudden destruction, and your calamity cometh as a whirlwind; when distress and anguish come upon you:",
+    "reference": "Proverbs 1:27 (DBT)",
+    "connected_to": "Proverbs 1:28",
+    "connected_from": "Proverbs 1:26"
+  },
+  {
+    "text": "—then will they call upon me, but I will not answer; they will seek me early, and shall not find me.",
+    "reference": "Proverbs 1:28 (DBT)",
+    "connected_to": "Proverbs 1:29",
+    "connected_from": "Proverbs 1:27"
+  },
+  {
+    "text": "Because they hated knowledge, and did not choose the fear of Jehovah;",
+    "reference": "Proverbs 1:29 (DBT)",
+    "connected_to": "Proverbs 1:30",
+    "connected_from": "Proverbs 1:28"
+  },
+  {
+    "text": "they would none of my counsel, they despised all my reproof:",
+    "reference": "Proverbs 1:30 (DBT)",
+    "connected_to": "Proverbs 1:31",
+    "connected_from": "Proverbs 1:29"
+  },
+  {
+    "text": "therefore shall they eat of the fruit of their way, and be filled with their own devices.",
+    "reference": "Proverbs 1:31 (DBT)",
+    "connected_to": "Proverbs 1:32",
+    "connected_from": "Proverbs 1:30"
+  },
+  {
+    "text": "For the turning away of the simple shall slay them, and the prosperity of the foolish shall cause them to perish.",
+    "reference": "Proverbs 1:32 (DBT)",
+    "connected_to": "Proverbs 1:33",
+    "connected_from": "Proverbs 1:31"
+  },
+  {
+    "text": "But whoso hearkeneth unto me shall dwell safely, and shall be at rest from fear of evil.",
+    "reference": "Proverbs 1:33 (DBT)",
+    "connected_from": "Proverbs 1:32"
+  }
+]

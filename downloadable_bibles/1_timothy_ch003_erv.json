@@ -1,0 +1,96 @@
+[
+  {
+    "text": "Faithful is the saying, If a man seeketh the office of a bishop, he desireth a good work.",
+    "reference": "1 Timothy 3:1 (ERV)",
+    "connected_to": "1 Timothy 3:2"
+  },
+  {
+    "text": "The bishop therefore must be without reproach, the husband of one wife, temperate, soberminded, orderly, given to hospitality, apt to teach;",
+    "reference": "1 Timothy 3:2 (ERV)",
+    "connected_to": "1 Timothy 3:3",
+    "connected_from": "1 Timothy 3:1"
+  },
+  {
+    "text": "no brawler, no striker; but gentle, not contentious, no lover of money;",
+    "reference": "1 Timothy 3:3 (ERV)",
+    "connected_to": "1 Timothy 3:4",
+    "connected_from": "1 Timothy 3:2"
+  },
+  {
+    "text": "one that ruleth well his own house, having his children in subjection with all gravity;",
+    "reference": "1 Timothy 3:4 (ERV)",
+    "connected_to": "1 Timothy 3:5",
+    "connected_from": "1 Timothy 3:3"
+  },
+  {
+    "text": "(but if a man knoweth not how to rule his own house, how shall he take care of the church of God?)",
+    "reference": "1 Timothy 3:5 (ERV)",
+    "connected_to": "1 Timothy 3:6",
+    "connected_from": "1 Timothy 3:4"
+  },
+  {
+    "text": "not a novice, lest being puffed up he fall into the condemnation of the devil.",
+    "reference": "1 Timothy 3:6 (ERV)",
+    "connected_to": "1 Timothy 3:7",
+    "connected_from": "1 Timothy 3:5"
+  },
+  {
+    "text": "Moreover he must have good testimony from them that are without; lest he fall into reproach and the snare of the devil.",
+    "reference": "1 Timothy 3:7 (ERV)",
+    "connected_to": "1 Timothy 3:8",
+    "connected_from": "1 Timothy 3:6"
+  },
+  {
+    "text": "Deacons in like manner must be grave, not doubletongued, not given to much wine, not greedy of filthy lucre;",
+    "reference": "1 Timothy 3:8 (ERV)",
+    "connected_to": "1 Timothy 3:9",
+    "connected_from": "1 Timothy 3:7"
+  },
+  {
+    "text": "holding the mystery of the faith in a pure conscience.",
+    "reference": "1 Timothy 3:9 (ERV)",
+    "connected_to": "1 Timothy 3:10",
+    "connected_from": "1 Timothy 3:8"
+  },
+  {
+    "text": "And let these also first be proved; then let them serve as deacons, if they be blameless.",
+    "reference": "1 Timothy 3:10 (ERV)",
+    "connected_to": "1 Timothy 3:11",
+    "connected_from": "1 Timothy 3:9"
+  },
+  {
+    "text": "Women in like manner must be grave, not slanderers, temperate, faithful in all things.",
+    "reference": "1 Timothy 3:11 (ERV)",
+    "connected_to": "1 Timothy 3:12",
+    "connected_from": "1 Timothy 3:10"
+  },
+  {
+    "text": "Let deacons be husbands of one wife, ruling their children and their own houses well.",
+    "reference": "1 Timothy 3:12 (ERV)",
+    "connected_to": "1 Timothy 3:13",
+    "connected_from": "1 Timothy 3:11"
+  },
+  {
+    "text": "For they that have served well as deacons gain to themselves a good standing, and great boldness in the faith which is in Christ Jesus.",
+    "reference": "1 Timothy 3:13 (ERV)",
+    "connected_to": "1 Timothy 3:14",
+    "connected_from": "1 Timothy 3:12"
+  },
+  {
+    "text": "These things write I unto thee, hoping to come unto thee shortly;",
+    "reference": "1 Timothy 3:14 (ERV)",
+    "connected_to": "1 Timothy 3:15",
+    "connected_from": "1 Timothy 3:13"
+  },
+  {
+    "text": "but if I tarry long, that thou mayest know how men ought to behave themselves in the house of God, which is the church of the living God, the pillar and ground of the truth.",
+    "reference": "1 Timothy 3:15 (ERV)",
+    "connected_to": "1 Timothy 3:16",
+    "connected_from": "1 Timothy 3:14"
+  },
+  {
+    "text": "And without controversy great is the mystery of godliness; He who was manifested in the flesh, justified in the spirit, seen of angels, preached among the nations, believed on in the world, received up in glory.",
+    "reference": "1 Timothy 3:16 (ERV)",
+    "connected_from": "1 Timothy 3:15"
+  }
+]

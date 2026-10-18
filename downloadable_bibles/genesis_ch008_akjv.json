@@ -1,0 +1,132 @@
+[
+  {
+    "text": "And God remembered Noah, and every living thing, and all the cattle that was with him in the ark: and God made a wind to pass over the earth, and the waters assuaged;",
+    "reference": "Genesis 8:1 (AKJV)",
+    "connected_to": "Genesis 8:2"
+  },
+  {
+    "text": "The fountains also of the deep and the windows of heaven were stopped, and the rain from heaven was restrained;",
+    "reference": "Genesis 8:2 (AKJV)",
+    "connected_to": "Genesis 8:3",
+    "connected_from": "Genesis 8:1"
+  },
+  {
+    "text": "And the waters returned from off the earth continually: and after the end of the hundred and fifty days the waters were abated.",
+    "reference": "Genesis 8:3 (AKJV)",
+    "connected_to": "Genesis 8:4",
+    "connected_from": "Genesis 8:2"
+  },
+  {
+    "text": "And the ark rested in the seventh month, on the seventeenth day of the month, on the mountains of Ararat.",
+    "reference": "Genesis 8:4 (AKJV)",
+    "connected_to": "Genesis 8:5",
+    "connected_from": "Genesis 8:3"
+  },
+  {
+    "text": "And the waters decreased continually until the tenth month: in the tenth month, on the first day of the month, were the tops of the mountains seen.",
+    "reference": "Genesis 8:5 (AKJV)",
+    "connected_to": "Genesis 8:6",
+    "connected_from": "Genesis 8:4"
+  },
+  {
+    "text": "And it came to pass at the end of forty days, that Noah opened the window of the ark which he had made:",
+    "reference": "Genesis 8:6 (AKJV)",
+    "connected_to": "Genesis 8:7",
+    "connected_from": "Genesis 8:5"
+  },
+  {
+    "text": "And he sent forth a raven, which went forth to and fro, until the waters were dried up from off the earth.",
+    "reference": "Genesis 8:7 (AKJV)",
+    "connected_to": "Genesis 8:8",
+    "connected_from": "Genesis 8:6"
+  },
+  {
+    "text": "Also he sent forth a dove from him, to see if the waters were abated from off the face of the ground;",
+    "reference": "Genesis 8:8 (AKJV)",
+    "connected_to": "Genesis 8:9",
+    "connected_from": "Genesis 8:7"
+  },
+  {
+    "text": "But the dove found no rest for the sole of her foot, and she returned to him into the ark, for the waters were on the face of the whole earth: then he put forth his hand, and took her, and pulled her in to him into the ark.",
+    "reference": "Genesis 8:9 (AKJV)",
+    "connected_to": "Genesis 8:10",
+    "connected_from": "Genesis 8:8"
+  },
+  {
+    "text": "And he stayed yet other seven days; and again he sent forth the dove out of the ark;",
+    "reference": "Genesis 8:10 (AKJV)",
+    "connected_to": "Genesis 8:11",
+    "connected_from": "Genesis 8:9"
+  },
+  {
+    "text": "And the dove came in to him in the evening; and, see, in her mouth was an olive leaf plucked off: so Noah knew that the waters were abated from off the earth.",
+    "reference": "Genesis 8:11 (AKJV)",
+    "connected_to": "Genesis 8:12",
+    "connected_from": "Genesis 8:10"
+  },
+  {
+    "text": "And he stayed yet other seven days; and sent forth the dove; which returned not again to him any more.",
+    "reference": "Genesis 8:12 (AKJV)",
+    "connected_to": "Genesis 8:13",
+    "connected_from": "Genesis 8:11"
+  },
+  {
+    "text": "And it came to pass in the six hundredth and first year, in the first month, the first day of the month, the waters were dried up from off the earth: and Noah removed the covering of the ark, and looked, and, behold, the face of the ground was dry.",
+    "reference": "Genesis 8:13 (AKJV)",
+    "connected_to": "Genesis 8:14",
+    "connected_from": "Genesis 8:12"
+  },
+  {
+    "text": "And in the second month, on the seven and twentieth day of the month, was the earth dried.",
+    "reference": "Genesis 8:14 (AKJV)",
+    "connected_to": "Genesis 8:15",
+    "connected_from": "Genesis 8:13"
+  },
+  {
+    "text": "And God spoke to Noah, saying,",
+    "reference": "Genesis 8:15 (AKJV)",
+    "connected_to": "Genesis 8:16",
+    "connected_from": "Genesis 8:14"
+  },
+  {
+    "text": "Go forth of the ark, you, and your wife, and your sons, and your sons’ wives with you.",
+    "reference": "Genesis 8:16 (AKJV)",
+    "connected_to": "Genesis 8:17",
+    "connected_from": "Genesis 8:15"
+  },
+  {
+    "text": "Bring forth with you every living thing that is with you, of all flesh, both of fowl, and of cattle, and of every creeping thing that creeps on the earth; that they may breed abundantly in the earth, and be fruitful, and multiply on the earth.",
+    "reference": "Genesis 8:17 (AKJV)",
+    "connected_to": "Genesis 8:18",
+    "connected_from": "Genesis 8:16"
+  },
+  {
+    "text": "And Noah went forth, and his sons, and his wife, and his sons’ wives with him:",
+    "reference": "Genesis 8:18 (AKJV)",
+    "connected_to": "Genesis 8:19",
+    "connected_from": "Genesis 8:17"
+  },
+  {
+    "text": "Every beast, every creeping thing, and every fowl, and whatever creeps on the earth, after their kinds, went forth out of the ark.",
+    "reference": "Genesis 8:19 (AKJV)",
+    "connected_to": "Genesis 8:20",
+    "connected_from": "Genesis 8:18"
+  },
+  {
+    "text": "And Noah built an altar to the LORD; and took of every clean beast, and of every clean fowl, and offered burnt offerings on the altar.",
+    "reference": "Genesis 8:20 (AKJV)",
+    "connected_to": "Genesis 8:21",
+    "connected_from": "Genesis 8:19"
+  },
+  {
+    "text": "And the LORD smelled a sweet smell; and the LORD said in his heart, I will not again curse the ground any more for man’s sake; for the imagination of man’s heart is evil from his youth; neither will I again smite any more every thing living, as I have done.",
+    "reference": "Genesis 8:21 (AKJV)",
+    "connected_to": "Genesis 8:22",
+    "connected_from": "Genesis 8:20"
+  },
+  {
+    "text": "While the earth remains, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease.",
+    "reference": "Genesis 8:22 (AKJV)",
+    "connected_from": "Genesis 8:21"
+  }
+]

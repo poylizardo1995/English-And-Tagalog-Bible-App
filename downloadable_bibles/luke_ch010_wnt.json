@@ -1,0 +1,252 @@
+[
+  {
+    "text": "After this the Lord appointed seventy others, and sent them before Him, by twos, to go to every town or place which He Himself intended to visit.",
+    "reference": "Luke 10:1 (WNT)",
+    "connected_to": "Luke 10:2"
+  },
+  {
+    "text": "And He addressed them thus: “The harvest is abundant, but the reapers are few: therefore entreat the Owner of the harvest to send out more reapers into His fields. And now go.",
+    "reference": "Luke 10:2 (WNT)",
+    "connected_to": "Luke 10:3",
+    "connected_from": "Luke 10:1"
+  },
+  {
+    "text": "Remember that I am sending you out as lambs into the midst of wolves.",
+    "reference": "Luke 10:3 (WNT)",
+    "connected_to": "Luke 10:4",
+    "connected_from": "Luke 10:2"
+  },
+  {
+    "text": "Carry no purse, bag, nor change of shoes; and salute no one on your way.”",
+    "reference": "Luke 10:4 (WNT)",
+    "connected_to": "Luke 10:5",
+    "connected_from": "Luke 10:3"
+  },
+  {
+    "text": "“Whatever house you enter, first say, ‘Peace be to this house!’",
+    "reference": "Luke 10:5 (WNT)",
+    "connected_to": "Luke 10:6",
+    "connected_from": "Luke 10:4"
+  },
+  {
+    "text": "And if there is a lover of peace there, your peace shall rest upon it; otherwise come back upon you.",
+    "reference": "Luke 10:6 (WNT)",
+    "connected_to": "Luke 10:7",
+    "connected_from": "Luke 10:5"
+  },
+  {
+    "text": "And in that same house stay, eating and drinking at their table; for the labourer deserves his wages. Do not move from one house to another.",
+    "reference": "Luke 10:7 (WNT)",
+    "connected_to": "Luke 10:8",
+    "connected_from": "Luke 10:6"
+  },
+  {
+    "text": "“And whatever town you come to and they receive you, eat what they put before you.",
+    "reference": "Luke 10:8 (WNT)",
+    "connected_to": "Luke 10:9",
+    "connected_from": "Luke 10:7"
+  },
+  {
+    "text": "Cure the sick in that town, and tell them, “’The Kingdom of God is now at your door.’",
+    "reference": "Luke 10:9 (WNT)",
+    "connected_to": "Luke 10:10",
+    "connected_from": "Luke 10:8"
+  },
+  {
+    "text": "“But whatever town you come to and they will not receive you, go out into the broader streets and say,",
+    "reference": "Luke 10:10 (WNT)",
+    "connected_to": "Luke 10:11",
+    "connected_from": "Luke 10:9"
+  },
+  {
+    "text": "“’The very dust of your town that hangs about us we wipe off as a protest. Only be sure of this, that the Kingdom of God is close at hand.’",
+    "reference": "Luke 10:11 (WNT)",
+    "connected_to": "Luke 10:12",
+    "connected_from": "Luke 10:10"
+  },
+  {
+    "text": "“I tell you that it will be more endurable for Sodom on the great day than for that town.",
+    "reference": "Luke 10:12 (WNT)",
+    "connected_to": "Luke 10:13",
+    "connected_from": "Luke 10:11"
+  },
+  {
+    "text": "“Alas for thee, Chorazin! Alas for thee, Bethsaida! For had the miracles been performed in Tyre and Sidon which have been performed in you, long ere now they would have repented, sitting in sackcloth and ashes.",
+    "reference": "Luke 10:13 (WNT)",
+    "connected_to": "Luke 10:14",
+    "connected_from": "Luke 10:12"
+  },
+  {
+    "text": "However, for Tyre and Sidon it will be more endurable at the Judgement than for you.",
+    "reference": "Luke 10:14 (WNT)",
+    "connected_to": "Luke 10:15",
+    "connected_from": "Luke 10:13"
+  },
+  {
+    "text": "And thou, Capernaum, shalt thou be lifted high as Heaven? Thou shalt be driven down as low as Hades.",
+    "reference": "Luke 10:15 (WNT)",
+    "connected_to": "Luke 10:16",
+    "connected_from": "Luke 10:14"
+  },
+  {
+    "text": "“He who listens to you listens to me; and he who disregards you disregards me, and he who disregards me disregards Him who sent me.”",
+    "reference": "Luke 10:16 (WNT)",
+    "connected_to": "Luke 10:17",
+    "connected_from": "Luke 10:15"
+  },
+  {
+    "text": "When the Seventy returned, they exclaimed joyfully, “Master, even the demons submit to us when we utter your name.”",
+    "reference": "Luke 10:17 (WNT)",
+    "connected_to": "Luke 10:18",
+    "connected_from": "Luke 10:16"
+  },
+  {
+    "text": "“I saw Satan fall like a lightning-flash out of Heaven,” He replied.",
+    "reference": "Luke 10:18 (WNT)",
+    "connected_to": "Luke 10:19",
+    "connected_from": "Luke 10:17"
+  },
+  {
+    "text": "“I have given you power to tread serpents and scorpions underfoot, and to trample on all the power of the Enemy; and in no case shall anything do you harm.",
+    "reference": "Luke 10:19 (WNT)",
+    "connected_to": "Luke 10:20",
+    "connected_from": "Luke 10:18"
+  },
+  {
+    "text": "Nevertheless rejoice not at this, that the spirits submit to you; but rejoice that your names are registered in Heaven.”",
+    "reference": "Luke 10:20 (WNT)",
+    "connected_to": "Luke 10:21",
+    "connected_from": "Luke 10:19"
+  },
+  {
+    "text": "On that same occasion Jesus was filled by the Holy Spirit with rapturous joy. “I give Thee fervent thanks,” He exclaimed, “O Father, Lord of Heaven and earth, that Thou hast hidden these things from sages and men of understanding, and hast revealed them to babes. Yes, Father, for such has been Thy gracious will.",
+    "reference": "Luke 10:21 (WNT)",
+    "connected_to": "Luke 10:22",
+    "connected_from": "Luke 10:20"
+  },
+  {
+    "text": "All things are delivered to me by my Father; and no one knows who the Son is but the Father, nor who the Father is but the Son, and he to whom the Son may choose to reveal Him.”",
+    "reference": "Luke 10:22 (WNT)",
+    "connected_to": "Luke 10:23",
+    "connected_from": "Luke 10:21"
+  },
+  {
+    "text": "And He turned towards His disciples and said to them apart, “Blessed are the eyes which see what you see!",
+    "reference": "Luke 10:23 (WNT)",
+    "connected_to": "Luke 10:24",
+    "connected_from": "Luke 10:22"
+  },
+  {
+    "text": "For I tell you that many Prophets and kings have desired to see the things you see, and have not seen them, and to hear the things you hear, and have not heard them.”",
+    "reference": "Luke 10:24 (WNT)",
+    "connected_to": "Luke 10:25",
+    "connected_from": "Luke 10:23"
+  },
+  {
+    "text": "Then an expounder of the Law stood up to test Him with a question. “Rabbi,” he asked, “what shall I do to inherit the Life of the Ages?”",
+    "reference": "Luke 10:25 (WNT)",
+    "connected_to": "Luke 10:26",
+    "connected_from": "Luke 10:24"
+  },
+  {
+    "text": "“Go to the Law,” said Jesus; “what is written there? how does it read?”",
+    "reference": "Luke 10:26 (WNT)",
+    "connected_to": "Luke 10:27",
+    "connected_from": "Luke 10:25"
+  },
+  {
+    "text": "“’Thou shalt love the Lord thy God,’” he replied, “’with thy whole heart, thy whole soul, thy whole strength, and thy whole mind; and thy fellow man as much as thyself.’”",
+    "reference": "Luke 10:27 (WNT)",
+    "connected_to": "Luke 10:28",
+    "connected_from": "Luke 10:26"
+  },
+  {
+    "text": "“A right answer,” said Jesus; “do that, and you shall live.”",
+    "reference": "Luke 10:28 (WNT)",
+    "connected_to": "Luke 10:29",
+    "connected_from": "Luke 10:27"
+  },
+  {
+    "text": "But he, desiring to justify himself, said, “But what is meant by my ‘fellow man’?”",
+    "reference": "Luke 10:29 (WNT)",
+    "connected_to": "Luke 10:30",
+    "connected_from": "Luke 10:28"
+  },
+  {
+    "text": "Jesus replied, “A man was once on his way down from Jerusalem to Jericho when he fell among robbers, who after both stripping and beating him went away, leaving him half dead.",
+    "reference": "Luke 10:30 (WNT)",
+    "connected_to": "Luke 10:31",
+    "connected_from": "Luke 10:29"
+  },
+  {
+    "text": "Now a priest happened to be going down that way, and on seeing him passed by on the other side.",
+    "reference": "Luke 10:31 (WNT)",
+    "connected_to": "Luke 10:32",
+    "connected_from": "Luke 10:30"
+  },
+  {
+    "text": "In like manner a Levite also came to the place, and seeing him passed by on the other side.",
+    "reference": "Luke 10:32 (WNT)",
+    "connected_to": "Luke 10:33",
+    "connected_from": "Luke 10:31"
+  },
+  {
+    "text": "But a certain Samaritan, being on a journey, came where he lay, and seeing him was moved with pity.",
+    "reference": "Luke 10:33 (WNT)",
+    "connected_to": "Luke 10:34",
+    "connected_from": "Luke 10:32"
+  },
+  {
+    "text": "He went to him, and dressed his wounds with oil and wine and bound them up. Then placing him on his own mule he brought him to an inn, where he bestowed every care on him.",
+    "reference": "Luke 10:34 (WNT)",
+    "connected_to": "Luke 10:35",
+    "connected_from": "Luke 10:33"
+  },
+  {
+    "text": "The next day he took out two shillings and gave them to the innkeeper. “’Take care of him,’ he said, ‘and whatever further expense you are put to, I will repay it you at my next visit.’",
+    "reference": "Luke 10:35 (WNT)",
+    "connected_to": "Luke 10:36",
+    "connected_from": "Luke 10:34"
+  },
+  {
+    "text": "“Which of those three seems to you to have acted like a fellow man to him who fell among the robbers?”",
+    "reference": "Luke 10:36 (WNT)",
+    "connected_to": "Luke 10:37",
+    "connected_from": "Luke 10:35"
+  },
+  {
+    "text": "“The one who showed him pity,” he replied. “Go,” said Jesus, “and act in the same way.”",
+    "reference": "Luke 10:37 (WNT)",
+    "connected_to": "Luke 10:38",
+    "connected_from": "Luke 10:36"
+  },
+  {
+    "text": "As they pursued their journey He came to a certain village, where a woman named Martha welcomed Him to her house.",
+    "reference": "Luke 10:38 (WNT)",
+    "connected_to": "Luke 10:39",
+    "connected_from": "Luke 10:37"
+  },
+  {
+    "text": "She had a sister called Mary, who seated herself at the Lord’s feet and listened to His teaching.",
+    "reference": "Luke 10:39 (WNT)",
+    "connected_to": "Luke 10:40",
+    "connected_from": "Luke 10:38"
+  },
+  {
+    "text": "Martha meanwhile was busy and distracted in waiting at table, and she came and said, “Master, do you not care that my sister is leaving me to do all the waiting? Tell her to assist me.”",
+    "reference": "Luke 10:40 (WNT)",
+    "connected_to": "Luke 10:41",
+    "connected_from": "Luke 10:39"
+  },
+  {
+    "text": "“Martha, Martha,” replied Jesus, “you are anxious and worried about a multitude of things;",
+    "reference": "Luke 10:41 (WNT)",
+    "connected_to": "Luke 10:42",
+    "connected_from": "Luke 10:40"
+  },
+  {
+    "text": "and yet only one thing is really necessary. Mary has chosen the good portion and she shall not be deprived of it.”",
+    "reference": "Luke 10:42 (WNT)",
+    "connected_from": "Luke 10:41"
+  }
+]

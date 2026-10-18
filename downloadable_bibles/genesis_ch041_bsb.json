@@ -1,0 +1,342 @@
+[
+  {
+    "text": "After two full years had passed, Pharaoh had a dream: He was standing beside the Nile,",
+    "reference": "Genesis 41:1 (BSB)",
+    "connected_to": "Genesis 41:2"
+  },
+  {
+    "text": "when seven cows, sleek and well-fed, came up from the river and began to graze among the reeds.",
+    "reference": "Genesis 41:2 (BSB)",
+    "connected_to": "Genesis 41:3",
+    "connected_from": "Genesis 41:1"
+  },
+  {
+    "text": "After them, seven other cows, sickly and thin, came up from the Nile and stood beside the well-fed cows on the bank of the river.",
+    "reference": "Genesis 41:3 (BSB)",
+    "connected_to": "Genesis 41:4",
+    "connected_from": "Genesis 41:2"
+  },
+  {
+    "text": "And the cows that were sickly and thin devoured the seven sleek, well-fed cows. Then Pharaoh woke up,",
+    "reference": "Genesis 41:4 (BSB)",
+    "connected_to": "Genesis 41:5",
+    "connected_from": "Genesis 41:3"
+  },
+  {
+    "text": "but he fell back asleep and dreamed a second time: Seven heads of grain, plump and ripe, came up on one stalk.",
+    "reference": "Genesis 41:5 (BSB)",
+    "connected_to": "Genesis 41:6",
+    "connected_from": "Genesis 41:4"
+  },
+  {
+    "text": "After them, seven other heads of grain sprouted, thin and scorched by the east wind.",
+    "reference": "Genesis 41:6 (BSB)",
+    "connected_to": "Genesis 41:7",
+    "connected_from": "Genesis 41:5"
+  },
+  {
+    "text": "And the thin heads of grain swallowed up the seven plump, ripe ones. Then Pharaoh awoke and realized it was a dream.",
+    "reference": "Genesis 41:7 (BSB)",
+    "connected_to": "Genesis 41:8",
+    "connected_from": "Genesis 41:6"
+  },
+  {
+    "text": "In the morning his spirit was troubled, so he summoned all the magicians and wise men of Egypt. Pharaoh told them his dreams, but no one could interpret them for him.",
+    "reference": "Genesis 41:8 (BSB)",
+    "connected_to": "Genesis 41:9",
+    "connected_from": "Genesis 41:7"
+  },
+  {
+    "text": "Then the chief cupbearer said to Pharaoh, “Today I recall my failures.",
+    "reference": "Genesis 41:9 (BSB)",
+    "connected_to": "Genesis 41:10",
+    "connected_from": "Genesis 41:8"
+  },
+  {
+    "text": "Pharaoh was once angry with his servants, and he put me and the chief baker in the custody of the captain of the guard.",
+    "reference": "Genesis 41:10 (BSB)",
+    "connected_to": "Genesis 41:11",
+    "connected_from": "Genesis 41:9"
+  },
+  {
+    "text": "One night both the chief baker and I had dreams, and each dream had its own meaning.",
+    "reference": "Genesis 41:11 (BSB)",
+    "connected_to": "Genesis 41:12",
+    "connected_from": "Genesis 41:10"
+  },
+  {
+    "text": "Now a young Hebrew was there with us, a servant of the captain of the guard. We told him our dreams and he interpreted them for us individually.",
+    "reference": "Genesis 41:12 (BSB)",
+    "connected_to": "Genesis 41:13",
+    "connected_from": "Genesis 41:11"
+  },
+  {
+    "text": "And it happened to us just as he had interpreted: I was restored to my position, and the other man was hanged.”",
+    "reference": "Genesis 41:13 (BSB)",
+    "connected_to": "Genesis 41:14",
+    "connected_from": "Genesis 41:12"
+  },
+  {
+    "text": "So Pharaoh sent for Joseph, who was quickly brought out of the dungeon. After he had shaved and changed his clothes, he went in before Pharaoh.",
+    "reference": "Genesis 41:14 (BSB)",
+    "connected_to": "Genesis 41:15",
+    "connected_from": "Genesis 41:13"
+  },
+  {
+    "text": "Pharaoh said to Joseph, “I had a dream, and no one can interpret it. But I have heard it said of you that when you hear a dream you can interpret it.”",
+    "reference": "Genesis 41:15 (BSB)",
+    "connected_to": "Genesis 41:16",
+    "connected_from": "Genesis 41:14"
+  },
+  {
+    "text": "“I myself cannot do it,” Joseph replied, “but God will give Pharaoh a sound answer.”",
+    "reference": "Genesis 41:16 (BSB)",
+    "connected_to": "Genesis 41:17",
+    "connected_from": "Genesis 41:15"
+  },
+  {
+    "text": "Then Pharaoh said to Joseph: “In my dream I was standing on the bank of the Nile,",
+    "reference": "Genesis 41:17 (BSB)",
+    "connected_to": "Genesis 41:18",
+    "connected_from": "Genesis 41:16"
+  },
+  {
+    "text": "when seven cows, well-fed and sleek, came up from the river and began to graze among the reeds.",
+    "reference": "Genesis 41:18 (BSB)",
+    "connected_to": "Genesis 41:19",
+    "connected_from": "Genesis 41:17"
+  },
+  {
+    "text": "After them, seven other cows—sickly, ugly, and thin—came up. I have never seen such ugly cows in all the land of Egypt!",
+    "reference": "Genesis 41:19 (BSB)",
+    "connected_to": "Genesis 41:20",
+    "connected_from": "Genesis 41:18"
+  },
+  {
+    "text": "Then the thin, ugly cows devoured the seven well-fed cows that were there first.",
+    "reference": "Genesis 41:20 (BSB)",
+    "connected_to": "Genesis 41:21",
+    "connected_from": "Genesis 41:19"
+  },
+  {
+    "text": "When they had devoured them, however, no one could tell that they had done so; their appearance was as ugly as it had been before. Then I awoke.",
+    "reference": "Genesis 41:21 (BSB)",
+    "connected_to": "Genesis 41:22",
+    "connected_from": "Genesis 41:20"
+  },
+  {
+    "text": "In my dream I also saw seven heads of grain, plump and ripe, growing on a single stalk.",
+    "reference": "Genesis 41:22 (BSB)",
+    "connected_to": "Genesis 41:23",
+    "connected_from": "Genesis 41:21"
+  },
+  {
+    "text": "After them, seven other heads of grain sprouted—withered, thin, and scorched by the east wind.",
+    "reference": "Genesis 41:23 (BSB)",
+    "connected_to": "Genesis 41:24",
+    "connected_from": "Genesis 41:22"
+  },
+  {
+    "text": "And the thin heads of grain swallowed the seven plump ones. I told this dream to the magicians, but no one could explain it to me.”",
+    "reference": "Genesis 41:24 (BSB)",
+    "connected_to": "Genesis 41:25",
+    "connected_from": "Genesis 41:23"
+  },
+  {
+    "text": "At this, Joseph said to Pharaoh, “The dreams of Pharaoh are one and the same. God has revealed to Pharaoh what He is about to do.",
+    "reference": "Genesis 41:25 (BSB)",
+    "connected_to": "Genesis 41:26",
+    "connected_from": "Genesis 41:24"
+  },
+  {
+    "text": "The seven good cows are seven years, and the seven ripe heads of grain are seven years. The dreams have the same meaning.",
+    "reference": "Genesis 41:26 (BSB)",
+    "connected_to": "Genesis 41:27",
+    "connected_from": "Genesis 41:25"
+  },
+  {
+    "text": "Moreover, the seven thin, ugly cows that came up after them are seven years, and so are the seven worthless heads of grain scorched by the east wind—they are seven years of famine.",
+    "reference": "Genesis 41:27 (BSB)",
+    "connected_to": "Genesis 41:28",
+    "connected_from": "Genesis 41:26"
+  },
+  {
+    "text": "It is just as I said to Pharaoh: God has shown Pharaoh what He is about to do.",
+    "reference": "Genesis 41:28 (BSB)",
+    "connected_to": "Genesis 41:29",
+    "connected_from": "Genesis 41:27"
+  },
+  {
+    "text": "Behold, seven years of great abundance are coming throughout the land of Egypt,",
+    "reference": "Genesis 41:29 (BSB)",
+    "connected_to": "Genesis 41:30",
+    "connected_from": "Genesis 41:28"
+  },
+  {
+    "text": "but seven years of famine will follow them. Then all the abundance in the land of Egypt will be forgotten, and the famine will devastate the land.",
+    "reference": "Genesis 41:30 (BSB)",
+    "connected_to": "Genesis 41:31",
+    "connected_from": "Genesis 41:29"
+  },
+  {
+    "text": "The abundance in the land will not be remembered, since the famine that follows it will be so severe.",
+    "reference": "Genesis 41:31 (BSB)",
+    "connected_to": "Genesis 41:32",
+    "connected_from": "Genesis 41:30"
+  },
+  {
+    "text": "Moreover, because the dream was given to Pharaoh in two versions, the matter has been decreed by God, and He will carry it out shortly.",
+    "reference": "Genesis 41:32 (BSB)",
+    "connected_to": "Genesis 41:33",
+    "connected_from": "Genesis 41:31"
+  },
+  {
+    "text": "Now, therefore, Pharaoh should look for a discerning and wise man and set him over the land of Egypt.",
+    "reference": "Genesis 41:33 (BSB)",
+    "connected_to": "Genesis 41:34",
+    "connected_from": "Genesis 41:32"
+  },
+  {
+    "text": "Let Pharaoh take action and appoint commissioners over the land to take a fifth of the harvest of Egypt during the seven years of abundance.",
+    "reference": "Genesis 41:34 (BSB)",
+    "connected_to": "Genesis 41:35",
+    "connected_from": "Genesis 41:33"
+  },
+  {
+    "text": "Under the authority of Pharaoh, let them collect all the excess food from these good years, that they may come and lay up the grain to be preserved as food in the cities.",
+    "reference": "Genesis 41:35 (BSB)",
+    "connected_to": "Genesis 41:36",
+    "connected_from": "Genesis 41:34"
+  },
+  {
+    "text": "This food will be a reserve for the land during the seven years of famine to come upon the land of Egypt. Then the country will not perish in the famine.”",
+    "reference": "Genesis 41:36 (BSB)",
+    "connected_to": "Genesis 41:37",
+    "connected_from": "Genesis 41:35"
+  },
+  {
+    "text": "This proposal pleased Pharaoh and all his officials.",
+    "reference": "Genesis 41:37 (BSB)",
+    "connected_to": "Genesis 41:38",
+    "connected_from": "Genesis 41:36"
+  },
+  {
+    "text": "So Pharaoh asked them, “Can we find anyone like this man, in whom the Spirit of God abides?”",
+    "reference": "Genesis 41:38 (BSB)",
+    "connected_to": "Genesis 41:39",
+    "connected_from": "Genesis 41:37"
+  },
+  {
+    "text": "Then Pharaoh said to Joseph, “Since God has made all this known to you, there is no one as discerning and wise as you.",
+    "reference": "Genesis 41:39 (BSB)",
+    "connected_to": "Genesis 41:40",
+    "connected_from": "Genesis 41:38"
+  },
+  {
+    "text": "You shall be in charge of my house, and all my people are to obey your commands. Only with regard to the throne will I be greater than you.”",
+    "reference": "Genesis 41:40 (BSB)",
+    "connected_to": "Genesis 41:41",
+    "connected_from": "Genesis 41:39"
+  },
+  {
+    "text": "Pharaoh also told Joseph, “I hereby place you over all the land of Egypt.”",
+    "reference": "Genesis 41:41 (BSB)",
+    "connected_to": "Genesis 41:42",
+    "connected_from": "Genesis 41:40"
+  },
+  {
+    "text": "Then Pharaoh removed the signet ring from his finger, put it on Joseph’s finger, clothed him in garments of fine linen, and placed a gold chain around his neck.",
+    "reference": "Genesis 41:42 (BSB)",
+    "connected_to": "Genesis 41:43",
+    "connected_from": "Genesis 41:41"
+  },
+  {
+    "text": "He had Joseph ride in his second chariot, with men calling out before him, “Bow the knee!” So he placed him over all the land of Egypt.",
+    "reference": "Genesis 41:43 (BSB)",
+    "connected_to": "Genesis 41:44",
+    "connected_from": "Genesis 41:42"
+  },
+  {
+    "text": "And Pharaoh declared to Joseph, “I am Pharaoh, but without your permission, no one in all the land of Egypt shall lift his hand or foot.”",
+    "reference": "Genesis 41:44 (BSB)",
+    "connected_to": "Genesis 41:45",
+    "connected_from": "Genesis 41:43"
+  },
+  {
+    "text": "Pharaoh gave Joseph the name Zaphenath-paneah, and he gave him Asenath daughter of Potiphera, priest of On, to be his wife. And Joseph took charge of all the land of Egypt.",
+    "reference": "Genesis 41:45 (BSB)",
+    "connected_to": "Genesis 41:46",
+    "connected_from": "Genesis 41:44"
+  },
+  {
+    "text": "Now Joseph was thirty years old when he entered the service of Pharaoh king of Egypt. And Joseph left Pharaoh’s presence and traveled throughout the land of Egypt.",
+    "reference": "Genesis 41:46 (BSB)",
+    "connected_to": "Genesis 41:47",
+    "connected_from": "Genesis 41:45"
+  },
+  {
+    "text": "During the seven years of abundance, the land brought forth bountifully.",
+    "reference": "Genesis 41:47 (BSB)",
+    "connected_to": "Genesis 41:48",
+    "connected_from": "Genesis 41:46"
+  },
+  {
+    "text": "During those seven years, Joseph collected all the excess food in the land of Egypt and stored it in the cities. In every city he laid up the food from the fields around it.",
+    "reference": "Genesis 41:48 (BSB)",
+    "connected_to": "Genesis 41:49",
+    "connected_from": "Genesis 41:47"
+  },
+  {
+    "text": "So Joseph stored up grain in such abundance, like the sand of the sea, that he stopped keeping track of it; for it was beyond measure.",
+    "reference": "Genesis 41:49 (BSB)",
+    "connected_to": "Genesis 41:50",
+    "connected_from": "Genesis 41:48"
+  },
+  {
+    "text": "Before the years of famine arrived, two sons were born to Joseph by Asenath daughter of Potiphera, priest of On.",
+    "reference": "Genesis 41:50 (BSB)",
+    "connected_to": "Genesis 41:51",
+    "connected_from": "Genesis 41:49"
+  },
+  {
+    "text": "Joseph named the firstborn Manasseh, saying, “God has made me forget all my hardship and all my father’s household.”",
+    "reference": "Genesis 41:51 (BSB)",
+    "connected_to": "Genesis 41:52",
+    "connected_from": "Genesis 41:50"
+  },
+  {
+    "text": "And the second son he named Ephraim, saying, “God has made me fruitful in the land of my affliction.”",
+    "reference": "Genesis 41:52 (BSB)",
+    "connected_to": "Genesis 41:53",
+    "connected_from": "Genesis 41:51"
+  },
+  {
+    "text": "When the seven years of abundance in the land of Egypt came to an end,",
+    "reference": "Genesis 41:53 (BSB)",
+    "connected_to": "Genesis 41:54",
+    "connected_from": "Genesis 41:52"
+  },
+  {
+    "text": "the seven years of famine began, just as Joseph had said. And although there was famine in every country, there was food throughout the land of Egypt.",
+    "reference": "Genesis 41:54 (BSB)",
+    "connected_to": "Genesis 41:55",
+    "connected_from": "Genesis 41:53"
+  },
+  {
+    "text": "When extreme hunger came to all the land of Egypt and the people cried out to Pharaoh for food, he told all the Egyptians, “Go to Joseph and do whatever he tells you.”",
+    "reference": "Genesis 41:55 (BSB)",
+    "connected_to": "Genesis 41:56",
+    "connected_from": "Genesis 41:54"
+  },
+  {
+    "text": "When the famine had spread over all the land, Joseph opened up all the storehouses and sold grain to the Egyptians; for the famine was severe in the land of Egypt.",
+    "reference": "Genesis 41:56 (BSB)",
+    "connected_to": "Genesis 41:57",
+    "connected_from": "Genesis 41:55"
+  },
+  {
+    "text": "And every nation came to Joseph in Egypt to buy grain, because the famine was severe over all the earth.",
+    "reference": "Genesis 41:57 (BSB)",
+    "connected_from": "Genesis 41:56"
+  }
+]

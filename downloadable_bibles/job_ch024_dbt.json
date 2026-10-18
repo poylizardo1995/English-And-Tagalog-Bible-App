@@ -1,0 +1,150 @@
+[
+  {
+    "text": "Why are not times treasured up with the Almighty? why do not they that know him see his days?",
+    "reference": "Job 24:1 (DBT)",
+    "connected_to": "Job 24:2"
+  },
+  {
+    "text": "They remove the landmarks; they violently take away the flocks and pasture them;",
+    "reference": "Job 24:2 (DBT)",
+    "connected_to": "Job 24:3",
+    "connected_from": "Job 24:1"
+  },
+  {
+    "text": "They drive away the ass of the fatherless, they take the widow’s ox for a pledge;",
+    "reference": "Job 24:3 (DBT)",
+    "connected_to": "Job 24:4",
+    "connected_from": "Job 24:2"
+  },
+  {
+    "text": "They turn the needy out of the way: the afflicted of the land all hide themselves.",
+    "reference": "Job 24:4 (DBT)",
+    "connected_to": "Job 24:5",
+    "connected_from": "Job 24:3"
+  },
+  {
+    "text": "Lo, [as] wild asses in the desert, they go forth to their work, seeking early for the prey: the wilderness [yieldeth] them food for [their] children.",
+    "reference": "Job 24:5 (DBT)",
+    "connected_to": "Job 24:6",
+    "connected_from": "Job 24:4"
+  },
+  {
+    "text": "They reap in the field the fodder thereof, and they gather the vintage of the wicked;",
+    "reference": "Job 24:6 (DBT)",
+    "connected_to": "Job 24:7",
+    "connected_from": "Job 24:5"
+  },
+  {
+    "text": "They pass the night naked without clothing, and have no covering in the cold;",
+    "reference": "Job 24:7 (DBT)",
+    "connected_to": "Job 24:8",
+    "connected_from": "Job 24:6"
+  },
+  {
+    "text": "They are wet with the showers of the mountains, and for want of a shelter embrace the rock...",
+    "reference": "Job 24:8 (DBT)",
+    "connected_to": "Job 24:9",
+    "connected_from": "Job 24:7"
+  },
+  {
+    "text": "They pluck the fatherless from the breast, and take a pledge of the poor:",
+    "reference": "Job 24:9 (DBT)",
+    "connected_to": "Job 24:10",
+    "connected_from": "Job 24:8"
+  },
+  {
+    "text": "These go naked without clothing, and, hungry, they bear the sheaf;",
+    "reference": "Job 24:10 (DBT)",
+    "connected_to": "Job 24:11",
+    "connected_from": "Job 24:9"
+  },
+  {
+    "text": "They press out oil within their walls, they tread their winepresses, and suffer thirst.",
+    "reference": "Job 24:11 (DBT)",
+    "connected_to": "Job 24:12",
+    "connected_from": "Job 24:10"
+  },
+  {
+    "text": "Men groan from out of the city, and the soul of the wounded crieth out; and +God imputeth not the impiety.",
+    "reference": "Job 24:12 (DBT)",
+    "connected_to": "Job 24:13",
+    "connected_from": "Job 24:11"
+  },
+  {
+    "text": "There are those that rebel against the light; they know not the ways thereof, nor abide in the paths thereof.",
+    "reference": "Job 24:13 (DBT)",
+    "connected_to": "Job 24:14",
+    "connected_from": "Job 24:12"
+  },
+  {
+    "text": "The murderer riseth with the light, killeth the afflicted and needy, and in the night is as a thief.",
+    "reference": "Job 24:14 (DBT)",
+    "connected_to": "Job 24:15",
+    "connected_from": "Job 24:13"
+  },
+  {
+    "text": "And the eye of the adulterer waiteth for the twilight, saying, No eye shall see me; and he putteth a covering on [his] face.",
+    "reference": "Job 24:15 (DBT)",
+    "connected_to": "Job 24:16",
+    "connected_from": "Job 24:14"
+  },
+  {
+    "text": "In the dark they dig through houses; by day they shut themselves in; they know not the light:",
+    "reference": "Job 24:16 (DBT)",
+    "connected_to": "Job 24:17",
+    "connected_from": "Job 24:15"
+  },
+  {
+    "text": "For the morning is to them all [as] the shadow of death; for they are familiar with the terrors of the shadow of death.",
+    "reference": "Job 24:17 (DBT)",
+    "connected_to": "Job 24:18",
+    "connected_from": "Job 24:16"
+  },
+  {
+    "text": "He is swift on the face of the waters; their portion is cursed on the earth: he turneth not unto the way of the vineyards.",
+    "reference": "Job 24:18 (DBT)",
+    "connected_to": "Job 24:19",
+    "connected_from": "Job 24:17"
+  },
+  {
+    "text": "Drought and heat consume snow waters; so doth Sheol those that have sinned.",
+    "reference": "Job 24:19 (DBT)",
+    "connected_to": "Job 24:20",
+    "connected_from": "Job 24:18"
+  },
+  {
+    "text": "The womb forgetteth him; the worm feedeth sweetly on him: he shall be no more remembered; and unrighteousness is broken as a tree,—",
+    "reference": "Job 24:20 (DBT)",
+    "connected_to": "Job 24:21",
+    "connected_from": "Job 24:19"
+  },
+  {
+    "text": "He that despoileth the barren that beareth not, and doeth not good to the widow:",
+    "reference": "Job 24:21 (DBT)",
+    "connected_to": "Job 24:22",
+    "connected_from": "Job 24:20"
+  },
+  {
+    "text": "He draweth also the mighty with his power; he riseth up, and no [man] is sure of life.",
+    "reference": "Job 24:22 (DBT)",
+    "connected_to": "Job 24:23",
+    "connected_from": "Job 24:21"
+  },
+  {
+    "text": "[God] setteth him in safety, and he resteth thereon; but his eyes are upon their ways.",
+    "reference": "Job 24:23 (DBT)",
+    "connected_to": "Job 24:24",
+    "connected_from": "Job 24:22"
+  },
+  {
+    "text": "They are exalted for a little, and are no more; they are laid low; like all [other] are they gathered, and are cut off as the tops of the ears of corn.",
+    "reference": "Job 24:24 (DBT)",
+    "connected_to": "Job 24:25",
+    "connected_from": "Job 24:23"
+  },
+  {
+    "text": "If it be not so now, who will make me a liar, and make my speech nothing worth?",
+    "reference": "Job 24:25 (DBT)",
+    "connected_from": "Job 24:24"
+  }
+]

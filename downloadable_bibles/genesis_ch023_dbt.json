@@ -1,0 +1,120 @@
+[
+  {
+    "text": "And the life of Sarah was a hundred and twenty-seven years: [these were] the years of the life of Sarah.",
+    "reference": "Genesis 23:1 (DBT)",
+    "connected_to": "Genesis 23:2"
+  },
+  {
+    "text": "And Sarah died in Kirjath-Arba: that is Hebron, in the land of Canaan. And Abraham came to mourn for Sarah, and to weep for her.",
+    "reference": "Genesis 23:2 (DBT)",
+    "connected_to": "Genesis 23:3",
+    "connected_from": "Genesis 23:1"
+  },
+  {
+    "text": "And Abraham rose up from before his dead, and spoke to the sons of Heth, saying,",
+    "reference": "Genesis 23:3 (DBT)",
+    "connected_to": "Genesis 23:4",
+    "connected_from": "Genesis 23:2"
+  },
+  {
+    "text": "I am a stranger and a sojourner with you; give me a possession of a sepulchre with you, that I may bury my dead from before me.",
+    "reference": "Genesis 23:4 (DBT)",
+    "connected_to": "Genesis 23:5",
+    "connected_from": "Genesis 23:3"
+  },
+  {
+    "text": "And the sons of Heth answered Abraham, saying to him,",
+    "reference": "Genesis 23:5 (DBT)",
+    "connected_to": "Genesis 23:6",
+    "connected_from": "Genesis 23:4"
+  },
+  {
+    "text": "Hear us, my lord: thou art a prince of God among us: in the choicest of our sepulchres bury thy dead: none of us shall withhold from thee his sepulchre for burying thy dead.",
+    "reference": "Genesis 23:6 (DBT)",
+    "connected_to": "Genesis 23:7",
+    "connected_from": "Genesis 23:5"
+  },
+  {
+    "text": "And Abraham rose up, and bowed down to the people of the land, to the sons of Heth,",
+    "reference": "Genesis 23:7 (DBT)",
+    "connected_to": "Genesis 23:8",
+    "connected_from": "Genesis 23:6"
+  },
+  {
+    "text": "and spoke to them, saying, If it be your will that I should bury my dead from before me, hear me, and entreat for me Ephron the son of Zohar,",
+    "reference": "Genesis 23:8 (DBT)",
+    "connected_to": "Genesis 23:9",
+    "connected_from": "Genesis 23:7"
+  },
+  {
+    "text": "that he may give me the cave of Machpelah, which is his, which is at the end of his field; for the full money let him give it to me amongst you for a possession of a sepulchre.",
+    "reference": "Genesis 23:9 (DBT)",
+    "connected_to": "Genesis 23:10",
+    "connected_from": "Genesis 23:8"
+  },
+  {
+    "text": "And Ephron was dwelling among the sons of Heth. And Ephron the Hittite answered Abraham, in the ears of the sons of Heth, [even] of all that went in at the gate of his city, saying,",
+    "reference": "Genesis 23:10 (DBT)",
+    "connected_to": "Genesis 23:11",
+    "connected_from": "Genesis 23:9"
+  },
+  {
+    "text": "No, my lord: hear me. The field give I thee; and the cave that is in it, to thee I give it; before the eyes of the sons of my people give I it thee: bury thy dead.",
+    "reference": "Genesis 23:11 (DBT)",
+    "connected_to": "Genesis 23:12",
+    "connected_from": "Genesis 23:10"
+  },
+  {
+    "text": "And Abraham bowed down before the people of the land;",
+    "reference": "Genesis 23:12 (DBT)",
+    "connected_to": "Genesis 23:13",
+    "connected_from": "Genesis 23:11"
+  },
+  {
+    "text": "and he spoke to Ephron, in the ears of the people of the land, saying, But if only thou wouldst listen to me, I give the money for the field: take [it] of me, and I will bury my dead there.",
+    "reference": "Genesis 23:13 (DBT)",
+    "connected_to": "Genesis 23:14",
+    "connected_from": "Genesis 23:12"
+  },
+  {
+    "text": "And Ephron answered Abraham, saying to him,",
+    "reference": "Genesis 23:14 (DBT)",
+    "connected_to": "Genesis 23:15",
+    "connected_from": "Genesis 23:13"
+  },
+  {
+    "text": "My lord, hearken to me. A field of four hundred shekels of silver, what is that between me and thee? bury therefore thy dead.",
+    "reference": "Genesis 23:15 (DBT)",
+    "connected_to": "Genesis 23:16",
+    "connected_from": "Genesis 23:14"
+  },
+  {
+    "text": "And Abraham hearkened to Ephron; and Abraham weighed to Ephron the money that he had named in the ears of the sons of Heth—four hundred shekels of silver, current with the merchant.",
+    "reference": "Genesis 23:16 (DBT)",
+    "connected_to": "Genesis 23:17",
+    "connected_from": "Genesis 23:15"
+  },
+  {
+    "text": "So the field of Ephron, which was at Machpelah, which was before Mamre, the field, and the cave that was in it, and all the trees that were in the field, that were in all its borders round about,",
+    "reference": "Genesis 23:17 (DBT)",
+    "connected_to": "Genesis 23:18",
+    "connected_from": "Genesis 23:16"
+  },
+  {
+    "text": "were assured to Abraham for a possession before the eyes of the sons of Heth, before all who went in at the gate of his city.",
+    "reference": "Genesis 23:18 (DBT)",
+    "connected_to": "Genesis 23:19",
+    "connected_from": "Genesis 23:17"
+  },
+  {
+    "text": "And after this, Abraham buried Sarah his wife in the cave of the field at Machpelah, opposite to Mamre: that is Hebron, in the land of Canaan.",
+    "reference": "Genesis 23:19 (DBT)",
+    "connected_to": "Genesis 23:20",
+    "connected_from": "Genesis 23:18"
+  },
+  {
+    "text": "And the field and the cave that was in it were assured to Abraham for a possession of a sepulchre by the sons of Heth.",
+    "reference": "Genesis 23:20 (DBT)",
+    "connected_from": "Genesis 23:19"
+  }
+]

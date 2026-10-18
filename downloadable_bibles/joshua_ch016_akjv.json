@@ -1,0 +1,60 @@
+[
+  {
+    "text": "And the lot of the children of Joseph fell from Jordan by Jericho, to the water of Jericho on the east, to the wilderness that goes up from Jericho throughout mount Bethel,",
+    "reference": "Joshua 16:1 (AKJV)",
+    "connected_to": "Joshua 16:2"
+  },
+  {
+    "text": "And goes out from Bethel to Luz, and passes along to the borders of Archi to Ataroth,",
+    "reference": "Joshua 16:2 (AKJV)",
+    "connected_to": "Joshua 16:3",
+    "connected_from": "Joshua 16:1"
+  },
+  {
+    "text": "And goes down westward to the coast of Japhleti, to the coast of Bethhoron the nether, and to Gezer; and the goings out thereof are at the sea.",
+    "reference": "Joshua 16:3 (AKJV)",
+    "connected_to": "Joshua 16:4",
+    "connected_from": "Joshua 16:2"
+  },
+  {
+    "text": "So the children of Joseph, Manasseh and Ephraim, took their inheritance.",
+    "reference": "Joshua 16:4 (AKJV)",
+    "connected_to": "Joshua 16:5",
+    "connected_from": "Joshua 16:3"
+  },
+  {
+    "text": "And the border of the children of Ephraim according to their families was thus: even the border of their inheritance on the east side was Atarothaddar, to Bethhoron the upper;",
+    "reference": "Joshua 16:5 (AKJV)",
+    "connected_to": "Joshua 16:6",
+    "connected_from": "Joshua 16:4"
+  },
+  {
+    "text": "And the border went out toward the sea to Michmethah on the north side; and the border went about eastward to Taanathshiloh, and passed by it on the east to Janohah;",
+    "reference": "Joshua 16:6 (AKJV)",
+    "connected_to": "Joshua 16:7",
+    "connected_from": "Joshua 16:5"
+  },
+  {
+    "text": "And it went down from Janohah to Ataroth, and to Naarath, and came to Jericho, and went out at Jordan.",
+    "reference": "Joshua 16:7 (AKJV)",
+    "connected_to": "Joshua 16:8",
+    "connected_from": "Joshua 16:6"
+  },
+  {
+    "text": "The border went out from Tappuah westward to the river Kanah; and the goings out thereof were at the sea. This is the inheritance of the tribe of the children of Ephraim by their families.",
+    "reference": "Joshua 16:8 (AKJV)",
+    "connected_to": "Joshua 16:9",
+    "connected_from": "Joshua 16:7"
+  },
+  {
+    "text": "And the separate cities for the children of Ephraim were among the inheritance of the children of Manasseh, all the cities with their villages.",
+    "reference": "Joshua 16:9 (AKJV)",
+    "connected_to": "Joshua 16:10",
+    "connected_from": "Joshua 16:8"
+  },
+  {
+    "text": "And they drove not out the Canaanites that dwelled in Gezer: but the Canaanites dwell among the Ephraimites to this day, and serve under tribute.",
+    "reference": "Joshua 16:10 (AKJV)",
+    "connected_from": "Joshua 16:9"
+  }
+]

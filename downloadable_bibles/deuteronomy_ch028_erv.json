@@ -1,0 +1,408 @@
+[
+  {
+    "text": "And it shall come to pass, if thou shalt hearken diligently unto the voice of the LORD thy God, to observe to do all his commandments which I command thee this day, that the LORD thy God will set thee on high above all the nations of the earth:",
+    "reference": "Deuteronomy 28:1 (ERV)",
+    "connected_to": "Deuteronomy 28:2"
+  },
+  {
+    "text": "and all these blessings shall come upon thee, and overtake thee, if thou shalt hearken unto the voice of the LORD thy God.",
+    "reference": "Deuteronomy 28:2 (ERV)",
+    "connected_to": "Deuteronomy 28:3",
+    "connected_from": "Deuteronomy 28:1"
+  },
+  {
+    "text": "Blessed shalt thou be in the city, and blessed shalt thou be in the field.",
+    "reference": "Deuteronomy 28:3 (ERV)",
+    "connected_to": "Deuteronomy 28:4",
+    "connected_from": "Deuteronomy 28:2"
+  },
+  {
+    "text": "Blessed shall be the fruit of thy body, and the fruit of thy ground, and the fruit of thy cattle, the increase of thy kine, and the young of thy flock.",
+    "reference": "Deuteronomy 28:4 (ERV)",
+    "connected_to": "Deuteronomy 28:5",
+    "connected_from": "Deuteronomy 28:3"
+  },
+  {
+    "text": "Blessed shall be thy basket and thy kneadingtrough.",
+    "reference": "Deuteronomy 28:5 (ERV)",
+    "connected_to": "Deuteronomy 28:6",
+    "connected_from": "Deuteronomy 28:4"
+  },
+  {
+    "text": "Blessed shalt thou be when thou comest in, and blessed shalt thou be when thou goest out.",
+    "reference": "Deuteronomy 28:6 (ERV)",
+    "connected_to": "Deuteronomy 28:7",
+    "connected_from": "Deuteronomy 28:5"
+  },
+  {
+    "text": "The LORD shall cause thine enemies that rise up against thee to be smitten before thee: they shall come out against thee one way, and shall flee before thee seven ways.",
+    "reference": "Deuteronomy 28:7 (ERV)",
+    "connected_to": "Deuteronomy 28:8",
+    "connected_from": "Deuteronomy 28:6"
+  },
+  {
+    "text": "The LORD shall command the blessing upon thee in thy barns, and in all that thou puttest thine hand unto: and he shall bless thee in the land which the LORD thy God giveth thee.",
+    "reference": "Deuteronomy 28:8 (ERV)",
+    "connected_to": "Deuteronomy 28:9",
+    "connected_from": "Deuteronomy 28:7"
+  },
+  {
+    "text": "The LORD shall establish thee for an holy people unto himself, as he hath sworn unto thee; if thou shalt keep the commandments of the LORD thy God, and walk in his ways.",
+    "reference": "Deuteronomy 28:9 (ERV)",
+    "connected_to": "Deuteronomy 28:10",
+    "connected_from": "Deuteronomy 28:8"
+  },
+  {
+    "text": "And all the peoples of the earth shall see that thou art called by the name of the LORD; and they shall be afraid of thee.",
+    "reference": "Deuteronomy 28:10 (ERV)",
+    "connected_to": "Deuteronomy 28:11",
+    "connected_from": "Deuteronomy 28:9"
+  },
+  {
+    "text": "And the LORD shall make thee plenteous for good, in the fruit of thy body, and in the fruit of thy cattle, and in the fruit of thy ground, in the land which the LORD sware unto thy fathers to give thee.",
+    "reference": "Deuteronomy 28:11 (ERV)",
+    "connected_to": "Deuteronomy 28:12",
+    "connected_from": "Deuteronomy 28:10"
+  },
+  {
+    "text": "The LORD shall open unto thee his good treasure the heaven to give the rain of thy land in its season, and to bless all the work of thine hand: and thou shalt lend unto many nations, and thou shalt not borrow.",
+    "reference": "Deuteronomy 28:12 (ERV)",
+    "connected_to": "Deuteronomy 28:13",
+    "connected_from": "Deuteronomy 28:11"
+  },
+  {
+    "text": "And the LORD shall make thee the head, and not the tail; and thou shalt be above only, and thou shalt not be beneath; if thou shalt hearken unto the commandments of the LORD thy God, which I command thee this day, to observe and to do them;",
+    "reference": "Deuteronomy 28:13 (ERV)",
+    "connected_to": "Deuteronomy 28:14",
+    "connected_from": "Deuteronomy 28:12"
+  },
+  {
+    "text": "and shalt not turn aside from any of the words which I command you this day, to the right hand, or to the left, to go after other gods to serve them.",
+    "reference": "Deuteronomy 28:14 (ERV)",
+    "connected_to": "Deuteronomy 28:15",
+    "connected_from": "Deuteronomy 28:13"
+  },
+  {
+    "text": "But it shall come to pass, if thou wilt not hearken unto the voice of the LORD thy God, to observe to do all his commandments and his statutes which I command thee this day; that all these curses shall come upon thee, and overtake thee.",
+    "reference": "Deuteronomy 28:15 (ERV)",
+    "connected_to": "Deuteronomy 28:16",
+    "connected_from": "Deuteronomy 28:14"
+  },
+  {
+    "text": "Cursed shalt thou be in the city, and cursed shalt thou be in the field.",
+    "reference": "Deuteronomy 28:16 (ERV)",
+    "connected_to": "Deuteronomy 28:17",
+    "connected_from": "Deuteronomy 28:15"
+  },
+  {
+    "text": "Cursed shall be thy basket and thy kneadingtrough.",
+    "reference": "Deuteronomy 28:17 (ERV)",
+    "connected_to": "Deuteronomy 28:18",
+    "connected_from": "Deuteronomy 28:16"
+  },
+  {
+    "text": "Cursed shall be the fruit of thy body, and the fruit of thy ground, the increase of thy kine, and the young of thy flock.",
+    "reference": "Deuteronomy 28:18 (ERV)",
+    "connected_to": "Deuteronomy 28:19",
+    "connected_from": "Deuteronomy 28:17"
+  },
+  {
+    "text": "Cursed shalt thou be when thou comest in, and cursed shalt thou be when thou goest out.",
+    "reference": "Deuteronomy 28:19 (ERV)",
+    "connected_to": "Deuteronomy 28:20",
+    "connected_from": "Deuteronomy 28:18"
+  },
+  {
+    "text": "The LORD shall send upon thee cursing, discomfiture, and rebuke, in all that thou puttest thine hand unto for to do, until thou be destroyed, and until thou perish quickly; because of the evil of thy doings, whereby thou hast forsaken me.",
+    "reference": "Deuteronomy 28:20 (ERV)",
+    "connected_to": "Deuteronomy 28:21",
+    "connected_from": "Deuteronomy 28:19"
+  },
+  {
+    "text": "The LORD shall make the pestilence cleave unto thee, until he have consumed thee from off the land, whither thou goest in to possess it.",
+    "reference": "Deuteronomy 28:21 (ERV)",
+    "connected_to": "Deuteronomy 28:22",
+    "connected_from": "Deuteronomy 28:20"
+  },
+  {
+    "text": "The LORD shall smite thee with consumption, and with fever, and with inflammation, and with fiery heat, and with the sword, and with blasting, and with mildew; and they shall pursue thee until thou perish.",
+    "reference": "Deuteronomy 28:22 (ERV)",
+    "connected_to": "Deuteronomy 28:23",
+    "connected_from": "Deuteronomy 28:21"
+  },
+  {
+    "text": "And thy heaven that is over thy head shall be brass, and the earth that is under thee shall be iron.",
+    "reference": "Deuteronomy 28:23 (ERV)",
+    "connected_to": "Deuteronomy 28:24",
+    "connected_from": "Deuteronomy 28:22"
+  },
+  {
+    "text": "The LORD shall make the rain of thy land powder and dust: from heaven shall it come down upon thee, until thou be destroyed.",
+    "reference": "Deuteronomy 28:24 (ERV)",
+    "connected_to": "Deuteronomy 28:25",
+    "connected_from": "Deuteronomy 28:23"
+  },
+  {
+    "text": "The LORD shall cause thee to be smitten before thine enemies: thou shalt go out one way against them, and shalt flee seven ways before them: and thou shalt be tossed to and fro among all the kingdoms of the earth.",
+    "reference": "Deuteronomy 28:25 (ERV)",
+    "connected_to": "Deuteronomy 28:26",
+    "connected_from": "Deuteronomy 28:24"
+  },
+  {
+    "text": "And thy carcase shall be meat unto all fowls of the air, and unto the beasts of the earth, and there shall be none to fray them away.",
+    "reference": "Deuteronomy 28:26 (ERV)",
+    "connected_to": "Deuteronomy 28:27",
+    "connected_from": "Deuteronomy 28:25"
+  },
+  {
+    "text": "The LORD shall smite thee with the boil of Egypt, and with the emerods, and with the scurvy, and with the itch, whereof thou canst not be healed.",
+    "reference": "Deuteronomy 28:27 (ERV)",
+    "connected_to": "Deuteronomy 28:28",
+    "connected_from": "Deuteronomy 28:26"
+  },
+  {
+    "text": "The LORD shall smite thee with madness, and with blindness, and with astonishment of heart:",
+    "reference": "Deuteronomy 28:28 (ERV)",
+    "connected_to": "Deuteronomy 28:29",
+    "connected_from": "Deuteronomy 28:27"
+  },
+  {
+    "text": "and thou shalt grope at noonday, as the blind gropeth in darkness, and thou shalt not prosper in thy ways: and thou shalt be only oppressed and spoiled alway, and there shall be none to save thee.",
+    "reference": "Deuteronomy 28:29 (ERV)",
+    "connected_to": "Deuteronomy 28:30",
+    "connected_from": "Deuteronomy 28:28"
+  },
+  {
+    "text": "Thou shalt betroth a wife, and another man shall lie with her: thou shalt build an house, and thou shalt not dwell therein: thou shalt plant a vineyard, and shalt not use the fruit thereof.",
+    "reference": "Deuteronomy 28:30 (ERV)",
+    "connected_to": "Deuteronomy 28:31",
+    "connected_from": "Deuteronomy 28:29"
+  },
+  {
+    "text": "Thine ox shall be slain before thine eyes, and thou shalt not eat thereof: thine ass shall be violently taken away from before thy face, and shall not be restored to thee: thy sheep shall be given unto thine enemies, and thou shalt have none to save thee.",
+    "reference": "Deuteronomy 28:31 (ERV)",
+    "connected_to": "Deuteronomy 28:32",
+    "connected_from": "Deuteronomy 28:30"
+  },
+  {
+    "text": "Thy sons and thy daughters shall be given unto another people, and thine eyes shall look, and fail with longing for them all the day: and there shall be nought in the power of thine hand.",
+    "reference": "Deuteronomy 28:32 (ERV)",
+    "connected_to": "Deuteronomy 28:33",
+    "connected_from": "Deuteronomy 28:31"
+  },
+  {
+    "text": "The fruit of thy ground, and all thy labours, shall a nation which thou knowest not eat up; and thou shalt be only oppressed and crushed alway:",
+    "reference": "Deuteronomy 28:33 (ERV)",
+    "connected_to": "Deuteronomy 28:34",
+    "connected_from": "Deuteronomy 28:32"
+  },
+  {
+    "text": "so that thou shalt be mad for the sight of thine eyes which thou shalt see.",
+    "reference": "Deuteronomy 28:34 (ERV)",
+    "connected_to": "Deuteronomy 28:35",
+    "connected_from": "Deuteronomy 28:33"
+  },
+  {
+    "text": "The LORD shall smite thee in the knees, and in the legs, with a sore boil, whereof thou canst not be healed, from the sole of thy foot unto the crown of thy head.",
+    "reference": "Deuteronomy 28:35 (ERV)",
+    "connected_to": "Deuteronomy 28:36",
+    "connected_from": "Deuteronomy 28:34"
+  },
+  {
+    "text": "The LORD shall bring thee, and thy king which thou shalt set over thee, unto a nation which thou hast not known, thou nor thy fathers; and there shalt thou serve other gods, wood and stone.",
+    "reference": "Deuteronomy 28:36 (ERV)",
+    "connected_to": "Deuteronomy 28:37",
+    "connected_from": "Deuteronomy 28:35"
+  },
+  {
+    "text": "And thou shalt become an astonishment, a proverb, and a byword, among all the peoples whither the LORD shall lead thee away.",
+    "reference": "Deuteronomy 28:37 (ERV)",
+    "connected_to": "Deuteronomy 28:38",
+    "connected_from": "Deuteronomy 28:36"
+  },
+  {
+    "text": "Thou shalt carry much seed out into the field, and shalt gather little in; for the locust shall consume it.",
+    "reference": "Deuteronomy 28:38 (ERV)",
+    "connected_to": "Deuteronomy 28:39",
+    "connected_from": "Deuteronomy 28:37"
+  },
+  {
+    "text": "Thou shalt plant vineyards and dress them, but thou shalt neither drink of the wine, nor gather the grapes; for the worm shall eat them.",
+    "reference": "Deuteronomy 28:39 (ERV)",
+    "connected_to": "Deuteronomy 28:40",
+    "connected_from": "Deuteronomy 28:38"
+  },
+  {
+    "text": "Thou shalt have olive trees throughout all thy borders, but thou shalt not anoint thyself with the oil: for thine olive shall cast its fruit.",
+    "reference": "Deuteronomy 28:40 (ERV)",
+    "connected_to": "Deuteronomy 28:41",
+    "connected_from": "Deuteronomy 28:39"
+  },
+  {
+    "text": "Thou shalt beget sons and daughters, but they shall not be thine; for they shall go into captivity.",
+    "reference": "Deuteronomy 28:41 (ERV)",
+    "connected_to": "Deuteronomy 28:42",
+    "connected_from": "Deuteronomy 28:40"
+  },
+  {
+    "text": "All thy trees and the fruit of thy ground shall the locust possess.",
+    "reference": "Deuteronomy 28:42 (ERV)",
+    "connected_to": "Deuteronomy 28:43",
+    "connected_from": "Deuteronomy 28:41"
+  },
+  {
+    "text": "The stranger that is in the midst of thee shall mount up above thee higher and higher; and thou shalt come down lower and lower.",
+    "reference": "Deuteronomy 28:43 (ERV)",
+    "connected_to": "Deuteronomy 28:44",
+    "connected_from": "Deuteronomy 28:42"
+  },
+  {
+    "text": "He shall lend to thee, and thou shalt not lend to him: he shall be the head, and thou shalt be the tail.",
+    "reference": "Deuteronomy 28:44 (ERV)",
+    "connected_to": "Deuteronomy 28:45",
+    "connected_from": "Deuteronomy 28:43"
+  },
+  {
+    "text": "And all these curses shall come upon thee, and shall pursue thee, and overtake thee, till thou be destroyed; because thou hearkenedst not unto the voice of the LORD thy God, to keep his commandments and his statutes which he commanded thee:",
+    "reference": "Deuteronomy 28:45 (ERV)",
+    "connected_to": "Deuteronomy 28:46",
+    "connected_from": "Deuteronomy 28:44"
+  },
+  {
+    "text": "and they shall be upon thee for a sign and for a wonder, and upon thy seed for ever:",
+    "reference": "Deuteronomy 28:46 (ERV)",
+    "connected_to": "Deuteronomy 28:47",
+    "connected_from": "Deuteronomy 28:45"
+  },
+  {
+    "text": "because thou servedst not the LORD thy God with joyfulness, and with gladness of heart, by reason of the abundance of all things:",
+    "reference": "Deuteronomy 28:47 (ERV)",
+    "connected_to": "Deuteronomy 28:48",
+    "connected_from": "Deuteronomy 28:46"
+  },
+  {
+    "text": "therefore shalt thou serve thine enemies which the LORD shall send against thee, in hunger, and in thirst, and in nakedness, and in want of all things: and he shall put a yoke of iron upon thy neck, until he have destroyed thee.",
+    "reference": "Deuteronomy 28:48 (ERV)",
+    "connected_to": "Deuteronomy 28:49",
+    "connected_from": "Deuteronomy 28:47"
+  },
+  {
+    "text": "The LORD shall bring a nation against thee from far, from the end of the earth, as the eagle flieth; a nation whose tongue thou shalt not understand;",
+    "reference": "Deuteronomy 28:49 (ERV)",
+    "connected_to": "Deuteronomy 28:50",
+    "connected_from": "Deuteronomy 28:48"
+  },
+  {
+    "text": "a nation of fierce countenance, which shall not regard the person of the old, nor shew favour to the young:",
+    "reference": "Deuteronomy 28:50 (ERV)",
+    "connected_to": "Deuteronomy 28:51",
+    "connected_from": "Deuteronomy 28:49"
+  },
+  {
+    "text": "and he shall eat the fruit of thy cattle, and the fruit of thy ground, until thou be destroyed: which also shall not leave thee corn, wine, or oil, the increase of thy kine, or the young of thy flock, until he have caused thee to perish.",
+    "reference": "Deuteronomy 28:51 (ERV)",
+    "connected_to": "Deuteronomy 28:52",
+    "connected_from": "Deuteronomy 28:50"
+  },
+  {
+    "text": "And he shall besiege thee in all thy gates, until thy high and fenced walls come down, wherein thou trustedst, throughout all thy land: and he shall besiege thee in all thy gates throughout all thy land, which the LORD thy God hath given thee.",
+    "reference": "Deuteronomy 28:52 (ERV)",
+    "connected_to": "Deuteronomy 28:53",
+    "connected_from": "Deuteronomy 28:51"
+  },
+  {
+    "text": "And thou shalt eat the fruit of thine own body, the flesh of thy sons and of thy daughters which the LORD thy God hath given thee; in the siege and in the straitness, wherewith thine enemies shall straiten thee.",
+    "reference": "Deuteronomy 28:53 (ERV)",
+    "connected_to": "Deuteronomy 28:54",
+    "connected_from": "Deuteronomy 28:52"
+  },
+  {
+    "text": "The man that is tender among you, and very delicate, his eye shall be evil toward his brother, and toward the wife of his bosom, and toward the remnant of his children which he hath remaining:",
+    "reference": "Deuteronomy 28:54 (ERV)",
+    "connected_to": "Deuteronomy 28:55",
+    "connected_from": "Deuteronomy 28:53"
+  },
+  {
+    "text": "so that he will not give to any of them of the flesh of his children whom he shall eat, because he hath nothing left him; in the siege and in the straitness, wherewith thine enemy shall straiten thee in all thy gates.",
+    "reference": "Deuteronomy 28:55 (ERV)",
+    "connected_to": "Deuteronomy 28:56",
+    "connected_from": "Deuteronomy 28:54"
+  },
+  {
+    "text": "The tender and delicate woman among you, which would not adventure to set the sole of her foot upon the ground for delicateness and tenderness, her eye shall be evil toward the husband of her bosom, and toward her son, and toward her daughter;",
+    "reference": "Deuteronomy 28:56 (ERV)",
+    "connected_to": "Deuteronomy 28:57",
+    "connected_from": "Deuteronomy 28:55"
+  },
+  {
+    "text": "and toward her young one that cometh out from between her feet, and toward her children which she shall bear; for she shall eat them for want of all things secretly: in the siege and in the straitness, wherewith thine enemy shall straiten thee in thy gates.",
+    "reference": "Deuteronomy 28:57 (ERV)",
+    "connected_to": "Deuteronomy 28:58",
+    "connected_from": "Deuteronomy 28:56"
+  },
+  {
+    "text": "If thou wilt not observe to do all the words of this law that are written in this book, that thou mayest fear this glorious and fearful name, THE LORD THY GOD;",
+    "reference": "Deuteronomy 28:58 (ERV)",
+    "connected_to": "Deuteronomy 28:59",
+    "connected_from": "Deuteronomy 28:57"
+  },
+  {
+    "text": "then the LORD will make thy plagues wonderful, and the plagues of thy seed, even great plagues, and of long continuance, and sore sicknesses, and of long continuance.",
+    "reference": "Deuteronomy 28:59 (ERV)",
+    "connected_to": "Deuteronomy 28:60",
+    "connected_from": "Deuteronomy 28:58"
+  },
+  {
+    "text": "And he will bring upon thee again all the diseases of Egypt, which thou wast afraid of; and they shall cleave unto thee.",
+    "reference": "Deuteronomy 28:60 (ERV)",
+    "connected_to": "Deuteronomy 28:61",
+    "connected_from": "Deuteronomy 28:59"
+  },
+  {
+    "text": "Also every sickness, and every plague, which is not written in the book of this law, them will the LORD bring upon thee, until thou be destroyed.",
+    "reference": "Deuteronomy 28:61 (ERV)",
+    "connected_to": "Deuteronomy 28:62",
+    "connected_from": "Deuteronomy 28:60"
+  },
+  {
+    "text": "And ye shall be left few in number, whereas ye were as the stars of heaven for multitude; because thou didst not hearken unto the voice of the LORD thy God.",
+    "reference": "Deuteronomy 28:62 (ERV)",
+    "connected_to": "Deuteronomy 28:63",
+    "connected_from": "Deuteronomy 28:61"
+  },
+  {
+    "text": "And it shall come to pass, that as the LORD rejoiced over you to do you good, and to multiply you; so the LORD will rejoice over you to cause you to perish, and to destroy you; and ye shall be plucked from off the land whither thou goest in to possess it.",
+    "reference": "Deuteronomy 28:63 (ERV)",
+    "connected_to": "Deuteronomy 28:64",
+    "connected_from": "Deuteronomy 28:62"
+  },
+  {
+    "text": "And the LORD shall scatter thee among all peoples, from the one end of the earth even unto the other end of the earth; and there thou shalt serve other gods, which thou hast not known, thou nor thy fathers, even wood and stone.",
+    "reference": "Deuteronomy 28:64 (ERV)",
+    "connected_to": "Deuteronomy 28:65",
+    "connected_from": "Deuteronomy 28:63"
+  },
+  {
+    "text": "And among these nations shalt thou find no ease, and there shall be no rest for the sole of thy foot: but the LORD shall give thee there a trembling heart, and failing of eyes, and pining of soul:",
+    "reference": "Deuteronomy 28:65 (ERV)",
+    "connected_to": "Deuteronomy 28:66",
+    "connected_from": "Deuteronomy 28:64"
+  },
+  {
+    "text": "and thy life shall hang in doubt before thee; and thou shalt fear night and day, and shalt have none assurance of thy life:",
+    "reference": "Deuteronomy 28:66 (ERV)",
+    "connected_to": "Deuteronomy 28:67",
+    "connected_from": "Deuteronomy 28:65"
+  },
+  {
+    "text": "in the morning thou shalt say, Would God it were even! and at even thou shalt say, Would God it were morning! for the fear of thine heart which thou shalt fear, and for the sight of thine eyes which thou shalt see.",
+    "reference": "Deuteronomy 28:67 (ERV)",
+    "connected_to": "Deuteronomy 28:68",
+    "connected_from": "Deuteronomy 28:66"
+  },
+  {
+    "text": "And the LORD shall bring thee into Egypt again with ships, by the way whereof I said unto thee, Thou shalt see it no more again: and there ye shall sell yourselves unto your enemies for bondmen and for bondwomen, and no man shall buy you.",
+    "reference": "Deuteronomy 28:68 (ERV)",
+    "connected_from": "Deuteronomy 28:67"
+  }
+]

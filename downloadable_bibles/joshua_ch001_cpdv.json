@@ -1,0 +1,108 @@
+[
+  {
+    "text": "And after the death of Moses, the servant of the Lord, it happened that the Lord spoke to Joshua, the son of Nun, the minister of Moses, and he said to him:",
+    "reference": "Joshua 1:1 (CPDV)",
+    "connected_to": "Joshua 1:2"
+  },
+  {
+    "text": "“Moses, my servant, has died. Rise up, and cross this Jordan, you and all the people with you, into the land which I will give to the sons of Israel.",
+    "reference": "Joshua 1:2 (CPDV)",
+    "connected_to": "Joshua 1:3",
+    "connected_from": "Joshua 1:1"
+  },
+  {
+    "text": "I will deliver to you every place that the step of your foot will tread upon, just as I said to Moses.",
+    "reference": "Joshua 1:3 (CPDV)",
+    "connected_to": "Joshua 1:4",
+    "connected_from": "Joshua 1:2"
+  },
+  {
+    "text": "From the desert and from Lebanon, even to the great river Euphrates, all the land of the Hittites, as far as the great sea opposite the setting of the sun, shall be your border.",
+    "reference": "Joshua 1:4 (CPDV)",
+    "connected_to": "Joshua 1:5",
+    "connected_from": "Joshua 1:3"
+  },
+  {
+    "text": "No one will be able to resist you during all the days of your life. Just as I was with Moses, so will I be with you. I will not leave you, nor will I forsake you.",
+    "reference": "Joshua 1:5 (CPDV)",
+    "connected_to": "Joshua 1:6",
+    "connected_from": "Joshua 1:4"
+  },
+  {
+    "text": "Be strengthened and be steadfast. For you shall divide by lot, to this people, the land about which I swore to their fathers that I would deliver it to them.",
+    "reference": "Joshua 1:6 (CPDV)",
+    "connected_to": "Joshua 1:7",
+    "connected_from": "Joshua 1:5"
+  },
+  {
+    "text": "Therefore, be strengthened and be very steadfast, so that you may observe and accomplish the entire law, which Moses, my servant, instructed to you. You may not turn aside from it to the right, nor to the left. So may you understand all that you should do.",
+    "reference": "Joshua 1:7 (CPDV)",
+    "connected_to": "Joshua 1:8",
+    "connected_from": "Joshua 1:6"
+  },
+  {
+    "text": "The book of this law shall not depart from your mouth. Instead, you shall meditate upon it, day and night, so that you may observe and do all the things that are written in it. Then you shall direct your way and understand it.",
+    "reference": "Joshua 1:8 (CPDV)",
+    "connected_to": "Joshua 1:9",
+    "connected_from": "Joshua 1:7"
+  },
+  {
+    "text": "Behold, I am instructing you. Be strengthened, and be steadfast. Do not dread, and do not fear. For the Lord your God is with you in all things, wherever you may go.”",
+    "reference": "Joshua 1:9 (CPDV)",
+    "connected_to": "Joshua 1:10",
+    "connected_from": "Joshua 1:8"
+  },
+  {
+    "text": "And Joshua instructed the leaders of the people, saying: “Cross through the midst of the camp, and command the people, and say:",
+    "reference": "Joshua 1:10 (CPDV)",
+    "connected_to": "Joshua 1:11",
+    "connected_from": "Joshua 1:9"
+  },
+  {
+    "text": "‘Prepare your food supplies. For after the third day, you shall cross the Jordan, and you shall enter so as to possess the land, which the Lord your God will give to you.’ ”",
+    "reference": "Joshua 1:11 (CPDV)",
+    "connected_to": "Joshua 1:12",
+    "connected_from": "Joshua 1:10"
+  },
+  {
+    "text": "Likewise, he said to the Reubenites and to the Gadites, and to the one half tribe of Manasseh:",
+    "reference": "Joshua 1:12 (CPDV)",
+    "connected_to": "Joshua 1:13",
+    "connected_from": "Joshua 1:11"
+  },
+  {
+    "text": "“Remember the words, which Moses, the servant of the Lord, instructed to you, saying: ‘The Lord your God has given you rest, and has given you all the land.’",
+    "reference": "Joshua 1:13 (CPDV)",
+    "connected_to": "Joshua 1:14",
+    "connected_from": "Joshua 1:12"
+  },
+  {
+    "text": "Your wives and sons, as well as the cattle, shall remain in the land which Moses delivered to you beyond the Jordan. But as for you, pass over with weapons, before your brothers, all you who are strong of hand, and fight on their behalf,",
+    "reference": "Joshua 1:14 (CPDV)",
+    "connected_to": "Joshua 1:15",
+    "connected_from": "Joshua 1:13"
+  },
+  {
+    "text": "until the Lord gives rest to your brothers, just as he has given to you, and until they also possess the land, which the Lord your God will give to them. And so shall you be returned to the land of your possession. And you shall live in the land, which Moses, the servant of the Lord, gave to you beyond the Jordan, opposite the rising of the sun.”",
+    "reference": "Joshua 1:15 (CPDV)",
+    "connected_to": "Joshua 1:16",
+    "connected_from": "Joshua 1:14"
+  },
+  {
+    "text": "And they responded to Joshua, and they said: “All that you have instructed to us, we shall do. And wherever you will send us, we shall go.",
+    "reference": "Joshua 1:16 (CPDV)",
+    "connected_to": "Joshua 1:17",
+    "connected_from": "Joshua 1:15"
+  },
+  {
+    "text": "Just as we obeyed Moses in all things, so shall we obey you also. But may the Lord your God be with you, just as he was with Moses.",
+    "reference": "Joshua 1:17 (CPDV)",
+    "connected_to": "Joshua 1:18",
+    "connected_from": "Joshua 1:16"
+  },
+  {
+    "text": "Whoever will contradict your mouth, and whoever will not obey all of your words, which you will instruct to him, let him die. But may you be strengthened, and may you act manfully.”",
+    "reference": "Joshua 1:18 (CPDV)",
+    "connected_from": "Joshua 1:17"
+  }
+]

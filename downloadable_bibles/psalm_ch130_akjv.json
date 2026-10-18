@@ -1,0 +1,48 @@
+[
+  {
+    "text": "Out of the depths have I cried to you, O LORD.",
+    "reference": "Psalm 130:1 (AKJV)",
+    "connected_to": "Psalm 130:2"
+  },
+  {
+    "text": "Lord, hear my voice: let your ears be attentive to the voice of my supplications.",
+    "reference": "Psalm 130:2 (AKJV)",
+    "connected_to": "Psalm 130:3",
+    "connected_from": "Psalm 130:1"
+  },
+  {
+    "text": "If you, LORD, should mark iniquities, O Lord, who shall stand?",
+    "reference": "Psalm 130:3 (AKJV)",
+    "connected_to": "Psalm 130:4",
+    "connected_from": "Psalm 130:2"
+  },
+  {
+    "text": "But there is forgiveness with you, that you may be feared.",
+    "reference": "Psalm 130:4 (AKJV)",
+    "connected_to": "Psalm 130:5",
+    "connected_from": "Psalm 130:3"
+  },
+  {
+    "text": "I wait for the LORD, my soul does wait, and in his word do I hope.",
+    "reference": "Psalm 130:5 (AKJV)",
+    "connected_to": "Psalm 130:6",
+    "connected_from": "Psalm 130:4"
+  },
+  {
+    "text": "My soul waits for the Lord more than they that watch for the morning: I say, more than they that watch for the morning.",
+    "reference": "Psalm 130:6 (AKJV)",
+    "connected_to": "Psalm 130:7",
+    "connected_from": "Psalm 130:5"
+  },
+  {
+    "text": "Let Israel hope in the LORD: for with the LORD there is mercy, and with him is plenteous redemption.",
+    "reference": "Psalm 130:7 (AKJV)",
+    "connected_to": "Psalm 130:8",
+    "connected_from": "Psalm 130:6"
+  },
+  {
+    "text": "And he shall redeem Israel from all his iniquities.",
+    "reference": "Psalm 130:8 (AKJV)",
+    "connected_from": "Psalm 130:7"
+  }
+]

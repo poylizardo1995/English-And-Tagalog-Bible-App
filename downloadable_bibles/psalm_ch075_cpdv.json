@@ -1,0 +1,60 @@
+[
+  {
+    "text": "Unto the end. May you not be corrupted. A Canticle Psalm of Asaph. We will confess to you, O God. We will confess, and we will call upon your name. We will describe your wonders.",
+    "reference": "Psalm 75:1 (CPDV)",
+    "connected_to": "Psalm 75:2"
+  },
+  {
+    "text": "While I have time, I will judge justices.",
+    "reference": "Psalm 75:2 (CPDV)",
+    "connected_to": "Psalm 75:3",
+    "connected_from": "Psalm 75:1"
+  },
+  {
+    "text": "The earth has been dissolved, with all who dwell in it. I have confirmed its pillars.",
+    "reference": "Psalm 75:3 (CPDV)",
+    "connected_to": "Psalm 75:4",
+    "connected_from": "Psalm 75:2"
+  },
+  {
+    "text": "I said to the iniquitous: “Do not act unjustly,” and to the offenders: “Do not exalt the horn.”",
+    "reference": "Psalm 75:4 (CPDV)",
+    "connected_to": "Psalm 75:5",
+    "connected_from": "Psalm 75:3"
+  },
+  {
+    "text": "Do not exalt your horn on high. Do not speak iniquity against God.",
+    "reference": "Psalm 75:5 (CPDV)",
+    "connected_to": "Psalm 75:6",
+    "connected_from": "Psalm 75:4"
+  },
+  {
+    "text": "For it is neither from the east, nor from the west, nor before the desert mountains.",
+    "reference": "Psalm 75:6 (CPDV)",
+    "connected_to": "Psalm 75:7",
+    "connected_from": "Psalm 75:5"
+  },
+  {
+    "text": "For God is judge. This one he humbles and that one he exalts.",
+    "reference": "Psalm 75:7 (CPDV)",
+    "connected_to": "Psalm 75:8",
+    "connected_from": "Psalm 75:6"
+  },
+  {
+    "text": "For, in the hand of the Lord, there is a cup of undiluted wine, full of consternation. And he has tipped it from here to there. So, truly, its dregs have not been emptied. All the sinners of the earth will drink.",
+    "reference": "Psalm 75:8 (CPDV)",
+    "connected_to": "Psalm 75:9",
+    "connected_from": "Psalm 75:7"
+  },
+  {
+    "text": "But I will announce it in every age. I will sing to the God of Jacob.",
+    "reference": "Psalm 75:9 (CPDV)",
+    "connected_to": "Psalm 75:10",
+    "connected_from": "Psalm 75:8"
+  },
+  {
+    "text": "And I will break all the horns of sinners. And the horns of the just will be exalted.",
+    "reference": "Psalm 75:10 (CPDV)",
+    "connected_from": "Psalm 75:9"
+  }
+]

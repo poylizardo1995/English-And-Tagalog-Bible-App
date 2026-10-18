@@ -1,0 +1,78 @@
+[
+  {
+    "text": "Sing to the LORD {YHWH} a new song; sing to the LORD, all the earth.",
+    "reference": "Psalm 96:1 (BAB)",
+    "connected_to": "Psalm 96:2"
+  },
+  {
+    "text": "Sing to the LORD {YHWH}, bless His name; proclaim His salvation day after day.",
+    "reference": "Psalm 96:2 (BAB)",
+    "connected_to": "Psalm 96:3",
+    "connected_from": "Psalm 96:1"
+  },
+  {
+    "text": "Declare His glory among the nations, His wonders among all peoples.",
+    "reference": "Psalm 96:3 (BAB)",
+    "connected_to": "Psalm 96:4",
+    "connected_from": "Psalm 96:2"
+  },
+  {
+    "text": "For great is the LORD {YHWH}, and greatly to be praised; He is to be feared above all gods.",
+    "reference": "Psalm 96:4 (BAB)",
+    "connected_to": "Psalm 96:5",
+    "connected_from": "Psalm 96:3"
+  },
+  {
+    "text": "For all the gods of the nations are idols, but it is the LORD {YHWH} who made the heavens.",
+    "reference": "Psalm 96:5 (BAB)",
+    "connected_to": "Psalm 96:6",
+    "connected_from": "Psalm 96:4"
+  },
+  {
+    "text": "Splendor and majesty are before Him; strength and beauty fill His sanctuary.",
+    "reference": "Psalm 96:6 (BAB)",
+    "connected_to": "Psalm 96:7",
+    "connected_from": "Psalm 96:5"
+  },
+  {
+    "text": "Ascribe to the LORD {YHWH}, O families of the nations, ascribe to the LORD glory and strength.",
+    "reference": "Psalm 96:7 (BAB)",
+    "connected_to": "Psalm 96:8",
+    "connected_from": "Psalm 96:6"
+  },
+  {
+    "text": "Ascribe to the LORD {YHWH} the glory due His name; bring an offering and enter His courts.",
+    "reference": "Psalm 96:8 (BAB)",
+    "connected_to": "Psalm 96:9",
+    "connected_from": "Psalm 96:7"
+  },
+  {
+    "text": "Worship the LORD {YHWH} in the splendor of His holiness; tremble before Him, all the earth.",
+    "reference": "Psalm 96:9 (BAB)",
+    "connected_to": "Psalm 96:10",
+    "connected_from": "Psalm 96:8"
+  },
+  {
+    "text": "Declare among the nations: “The LORD {YHWH} reigns!” The world is firmly established; it cannot be moved; He will judge the peoples with equity.",
+    "reference": "Psalm 96:10 (BAB)",
+    "connected_to": "Psalm 96:11",
+    "connected_from": "Psalm 96:9"
+  },
+  {
+    "text": "Let the heavens be glad and the earth rejoice; let the sea resound, and all that fills it.",
+    "reference": "Psalm 96:11 (BAB)",
+    "connected_to": "Psalm 96:12",
+    "connected_from": "Psalm 96:10"
+  },
+  {
+    "text": "Let the fields exult, and all that is in them. Then all the trees of the forest will sing for joy",
+    "reference": "Psalm 96:12 (BAB)",
+    "connected_to": "Psalm 96:13",
+    "connected_from": "Psalm 96:11"
+  },
+  {
+    "text": "before the LORD {YHWH}, for He is coming—He is coming to judge the earth. He will judge the world in righteousness and the peoples in His faithfulness.",
+    "reference": "Psalm 96:13 (BAB)",
+    "connected_from": "Psalm 96:12"
+  }
+]

@@ -1,0 +1,324 @@
+[
+  {
+    "text": "Adam, Seth, Enosh,",
+    "reference": "1 Chronicles 1:1 (BSB)",
+    "connected_to": "1 Chronicles 1:2"
+  },
+  {
+    "text": "Kenan, Mahalalel, Jared,",
+    "reference": "1 Chronicles 1:2 (BSB)",
+    "connected_to": "1 Chronicles 1:3",
+    "connected_from": "1 Chronicles 1:1"
+  },
+  {
+    "text": "Enoch, Methuselah, Lamech, Noah.",
+    "reference": "1 Chronicles 1:3 (BSB)",
+    "connected_to": "1 Chronicles 1:4",
+    "connected_from": "1 Chronicles 1:2"
+  },
+  {
+    "text": "The sons of Noah: Shem, Ham, and Japheth.",
+    "reference": "1 Chronicles 1:4 (BSB)",
+    "connected_to": "1 Chronicles 1:5",
+    "connected_from": "1 Chronicles 1:3"
+  },
+  {
+    "text": "The sons of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.",
+    "reference": "1 Chronicles 1:5 (BSB)",
+    "connected_to": "1 Chronicles 1:6",
+    "connected_from": "1 Chronicles 1:4"
+  },
+  {
+    "text": "The sons of Gomer: Ashkenaz, Riphath, and Togarmah.",
+    "reference": "1 Chronicles 1:6 (BSB)",
+    "connected_to": "1 Chronicles 1:7",
+    "connected_from": "1 Chronicles 1:5"
+  },
+  {
+    "text": "And the sons of Javan: Elishah, Tarshish, the Kittites, and the Rodanites.",
+    "reference": "1 Chronicles 1:7 (BSB)",
+    "connected_to": "1 Chronicles 1:8",
+    "connected_from": "1 Chronicles 1:6"
+  },
+  {
+    "text": "The sons of Ham: Cush, Mizraim, Put, and Canaan.",
+    "reference": "1 Chronicles 1:8 (BSB)",
+    "connected_to": "1 Chronicles 1:9",
+    "connected_from": "1 Chronicles 1:7"
+  },
+  {
+    "text": "The sons of Cush: Seba, Havilah, Sabta, Raamah, and Sabteca. The sons of Raamah: Sheba and Dedan.",
+    "reference": "1 Chronicles 1:9 (BSB)",
+    "connected_to": "1 Chronicles 1:10",
+    "connected_from": "1 Chronicles 1:8"
+  },
+  {
+    "text": "Cush was the father of Nimrod, who began to be a mighty one on the earth.",
+    "reference": "1 Chronicles 1:10 (BSB)",
+    "connected_to": "1 Chronicles 1:11",
+    "connected_from": "1 Chronicles 1:9"
+  },
+  {
+    "text": "Mizraim was the father of the Ludites, the Anamites, the Lehabites, the Naphtuhites,",
+    "reference": "1 Chronicles 1:11 (BSB)",
+    "connected_to": "1 Chronicles 1:12",
+    "connected_from": "1 Chronicles 1:10"
+  },
+  {
+    "text": "the Pathrusites, the Casluhites (from whom the Philistines came), and the Caphtorites.",
+    "reference": "1 Chronicles 1:12 (BSB)",
+    "connected_to": "1 Chronicles 1:13",
+    "connected_from": "1 Chronicles 1:11"
+  },
+  {
+    "text": "And Canaan was the father of Sidon his firstborn, and of the Hittites,",
+    "reference": "1 Chronicles 1:13 (BSB)",
+    "connected_to": "1 Chronicles 1:14",
+    "connected_from": "1 Chronicles 1:12"
+  },
+  {
+    "text": "the Jebusites, the Amorites, the Girgashites,",
+    "reference": "1 Chronicles 1:14 (BSB)",
+    "connected_to": "1 Chronicles 1:15",
+    "connected_from": "1 Chronicles 1:13"
+  },
+  {
+    "text": "the Hivites, the Arkites, the Sinites,",
+    "reference": "1 Chronicles 1:15 (BSB)",
+    "connected_to": "1 Chronicles 1:16",
+    "connected_from": "1 Chronicles 1:14"
+  },
+  {
+    "text": "the Arvadites, the Zemarites, and the Hamathites.",
+    "reference": "1 Chronicles 1:16 (BSB)",
+    "connected_to": "1 Chronicles 1:17",
+    "connected_from": "1 Chronicles 1:15"
+  },
+  {
+    "text": "The sons of Shem: Elam, Asshur, Arphaxad, Lud, and Aram. The sons of Aram: Uz, Hul, Gether, and Meshech.",
+    "reference": "1 Chronicles 1:17 (BSB)",
+    "connected_to": "1 Chronicles 1:18",
+    "connected_from": "1 Chronicles 1:16"
+  },
+  {
+    "text": "Arphaxad was the father of Shelah, and Shelah was the father of Eber.",
+    "reference": "1 Chronicles 1:18 (BSB)",
+    "connected_to": "1 Chronicles 1:19",
+    "connected_from": "1 Chronicles 1:17"
+  },
+  {
+    "text": "Two sons were born to Eber: One was named Peleg, because in his days the earth was divided, and his brother was named Joktan.",
+    "reference": "1 Chronicles 1:19 (BSB)",
+    "connected_to": "1 Chronicles 1:20",
+    "connected_from": "1 Chronicles 1:18"
+  },
+  {
+    "text": "And Joktan was the father of Almodad, Sheleph, Hazarmaveth, Jerah,",
+    "reference": "1 Chronicles 1:20 (BSB)",
+    "connected_to": "1 Chronicles 1:21",
+    "connected_from": "1 Chronicles 1:19"
+  },
+  {
+    "text": "Hadoram, Uzal, Diklah,",
+    "reference": "1 Chronicles 1:21 (BSB)",
+    "connected_to": "1 Chronicles 1:22",
+    "connected_from": "1 Chronicles 1:20"
+  },
+  {
+    "text": "Obal, Abimael, Sheba,",
+    "reference": "1 Chronicles 1:22 (BSB)",
+    "connected_to": "1 Chronicles 1:23",
+    "connected_from": "1 Chronicles 1:21"
+  },
+  {
+    "text": "Ophir, Havilah, and Jobab. All these were sons of Joktan.",
+    "reference": "1 Chronicles 1:23 (BSB)",
+    "connected_to": "1 Chronicles 1:24",
+    "connected_from": "1 Chronicles 1:22"
+  },
+  {
+    "text": "So from Shem came Arphaxad, Shelah,",
+    "reference": "1 Chronicles 1:24 (BSB)",
+    "connected_to": "1 Chronicles 1:25",
+    "connected_from": "1 Chronicles 1:23"
+  },
+  {
+    "text": "Eber, Peleg, Reu,",
+    "reference": "1 Chronicles 1:25 (BSB)",
+    "connected_to": "1 Chronicles 1:26",
+    "connected_from": "1 Chronicles 1:24"
+  },
+  {
+    "text": "Serug, Nahor, Terah,",
+    "reference": "1 Chronicles 1:26 (BSB)",
+    "connected_to": "1 Chronicles 1:27",
+    "connected_from": "1 Chronicles 1:25"
+  },
+  {
+    "text": "and Abram (that is, Abraham).",
+    "reference": "1 Chronicles 1:27 (BSB)",
+    "connected_to": "1 Chronicles 1:28",
+    "connected_from": "1 Chronicles 1:26"
+  },
+  {
+    "text": "The sons of Abraham were Isaac and Ishmael.",
+    "reference": "1 Chronicles 1:28 (BSB)",
+    "connected_to": "1 Chronicles 1:29",
+    "connected_from": "1 Chronicles 1:27"
+  },
+  {
+    "text": "These are their genealogies: Nebaioth the firstborn of Ishmael, then Kedar, Adbeel, Mibsam,",
+    "reference": "1 Chronicles 1:29 (BSB)",
+    "connected_to": "1 Chronicles 1:30",
+    "connected_from": "1 Chronicles 1:28"
+  },
+  {
+    "text": "Mishma, Dumah, Massa, Hadad, Tema,",
+    "reference": "1 Chronicles 1:30 (BSB)",
+    "connected_to": "1 Chronicles 1:31",
+    "connected_from": "1 Chronicles 1:29"
+  },
+  {
+    "text": "Jetur, Naphish, and Kedemah. These were the sons of Ishmael.",
+    "reference": "1 Chronicles 1:31 (BSB)",
+    "connected_to": "1 Chronicles 1:32",
+    "connected_from": "1 Chronicles 1:30"
+  },
+  {
+    "text": "The sons born to Keturah, Abraham’s concubine: Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah. The sons of Jokshan: Sheba and Dedan.",
+    "reference": "1 Chronicles 1:32 (BSB)",
+    "connected_to": "1 Chronicles 1:33",
+    "connected_from": "1 Chronicles 1:31"
+  },
+  {
+    "text": "The sons of Midian: Ephah, Epher, Hanoch, Abida, and Eldaah. All of these were Keturah’s sons.",
+    "reference": "1 Chronicles 1:33 (BSB)",
+    "connected_to": "1 Chronicles 1:34",
+    "connected_from": "1 Chronicles 1:32"
+  },
+  {
+    "text": "Abraham was the father of Isaac. The sons of Isaac: Esau and Israel.",
+    "reference": "1 Chronicles 1:34 (BSB)",
+    "connected_to": "1 Chronicles 1:35",
+    "connected_from": "1 Chronicles 1:33"
+  },
+  {
+    "text": "The sons of Esau: Eliphaz, Reuel, Jeush, Jalam, and Korah.",
+    "reference": "1 Chronicles 1:35 (BSB)",
+    "connected_to": "1 Chronicles 1:36",
+    "connected_from": "1 Chronicles 1:34"
+  },
+  {
+    "text": "The sons of Eliphaz: Teman, Omar, Zepho, Gatam, and Kenaz; and by Timna, Amalek.",
+    "reference": "1 Chronicles 1:36 (BSB)",
+    "connected_to": "1 Chronicles 1:37",
+    "connected_from": "1 Chronicles 1:35"
+  },
+  {
+    "text": "The sons of Reuel: Nahath, Zerah, Shammah, and Mizzah.",
+    "reference": "1 Chronicles 1:37 (BSB)",
+    "connected_to": "1 Chronicles 1:38",
+    "connected_from": "1 Chronicles 1:36"
+  },
+  {
+    "text": "The sons of Seir: Lotan, Shobal, Zibeon, Anah, Dishon, Ezer, and Dishan.",
+    "reference": "1 Chronicles 1:38 (BSB)",
+    "connected_to": "1 Chronicles 1:39",
+    "connected_from": "1 Chronicles 1:37"
+  },
+  {
+    "text": "The sons of Lotan: Hori and Homam. Timna was Lotan’s sister.",
+    "reference": "1 Chronicles 1:39 (BSB)",
+    "connected_to": "1 Chronicles 1:40",
+    "connected_from": "1 Chronicles 1:38"
+  },
+  {
+    "text": "The sons of Shobal: Alvan, Manahath, Ebal, Shepho, and Onam. The sons of Zibeon: Aiah and Anah.",
+    "reference": "1 Chronicles 1:40 (BSB)",
+    "connected_to": "1 Chronicles 1:41",
+    "connected_from": "1 Chronicles 1:39"
+  },
+  {
+    "text": "The son of Anah: Dishon. The sons of Dishon: Hemdan, Eshban, Ithran, and Cheran.",
+    "reference": "1 Chronicles 1:41 (BSB)",
+    "connected_to": "1 Chronicles 1:42",
+    "connected_from": "1 Chronicles 1:40"
+  },
+  {
+    "text": "The sons of Ezer: Bilhan, Zaavan, and Akan. The sons of Dishan: Uz and Aran.",
+    "reference": "1 Chronicles 1:42 (BSB)",
+    "connected_to": "1 Chronicles 1:43",
+    "connected_from": "1 Chronicles 1:41"
+  },
+  {
+    "text": "These are the kings who reigned in the land of Edom before any king reigned over the Israelites: Bela son of Beor. His city was named Dinhabah.",
+    "reference": "1 Chronicles 1:43 (BSB)",
+    "connected_to": "1 Chronicles 1:44",
+    "connected_from": "1 Chronicles 1:42"
+  },
+  {
+    "text": "When Bela died, Jobab son of Zerah from Bozrah reigned in his place.",
+    "reference": "1 Chronicles 1:44 (BSB)",
+    "connected_to": "1 Chronicles 1:45",
+    "connected_from": "1 Chronicles 1:43"
+  },
+  {
+    "text": "When Jobab died, Husham from the land of the Temanites reigned in his place.",
+    "reference": "1 Chronicles 1:45 (BSB)",
+    "connected_to": "1 Chronicles 1:46",
+    "connected_from": "1 Chronicles 1:44"
+  },
+  {
+    "text": "When Husham died, Hadad son of Bedad, who defeated Midian in the country of Moab, reigned in his place. And the name of his city was Avith.",
+    "reference": "1 Chronicles 1:46 (BSB)",
+    "connected_to": "1 Chronicles 1:47",
+    "connected_from": "1 Chronicles 1:45"
+  },
+  {
+    "text": "When Hadad died, Samlah from Masrekah reigned in his place.",
+    "reference": "1 Chronicles 1:47 (BSB)",
+    "connected_to": "1 Chronicles 1:48",
+    "connected_from": "1 Chronicles 1:46"
+  },
+  {
+    "text": "When Samlah died, Shaul from Rehoboth on the Euphrates reigned in his place.",
+    "reference": "1 Chronicles 1:48 (BSB)",
+    "connected_to": "1 Chronicles 1:49",
+    "connected_from": "1 Chronicles 1:47"
+  },
+  {
+    "text": "When Shaul died, Baal-hanan son of Achbor reigned in his place.",
+    "reference": "1 Chronicles 1:49 (BSB)",
+    "connected_to": "1 Chronicles 1:50",
+    "connected_from": "1 Chronicles 1:48"
+  },
+  {
+    "text": "When Baal-hanan died, Hadad reigned in his place. His city was named Pau, and his wife’s name was Mehetabel daughter of Matred, the daughter of Me-zahab.",
+    "reference": "1 Chronicles 1:50 (BSB)",
+    "connected_to": "1 Chronicles 1:51",
+    "connected_from": "1 Chronicles 1:49"
+  },
+  {
+    "text": "Then Hadad died. Now the chiefs of Edom were Timna, Alvah, Jetheth,",
+    "reference": "1 Chronicles 1:51 (BSB)",
+    "connected_to": "1 Chronicles 1:52",
+    "connected_from": "1 Chronicles 1:50"
+  },
+  {
+    "text": "Oholibamah, Elah, Pinon,",
+    "reference": "1 Chronicles 1:52 (BSB)",
+    "connected_to": "1 Chronicles 1:53",
+    "connected_from": "1 Chronicles 1:51"
+  },
+  {
+    "text": "Kenaz, Teman, Mibzar,",
+    "reference": "1 Chronicles 1:53 (BSB)",
+    "connected_to": "1 Chronicles 1:54",
+    "connected_from": "1 Chronicles 1:52"
+  },
+  {
+    "text": "Magdiel, and Iram. These were the chiefs of Edom.",
+    "reference": "1 Chronicles 1:54 (BSB)",
+    "connected_from": "1 Chronicles 1:53"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "text": "Unto the end. A Psalm of David. How long, O Lord? Will you forget me until the end? How long will you turn your face away from me?",
+    "reference": "Psalm 13:1 (CPDV)",
+    "connected_to": "Psalm 13:2"
+  },
+  {
+    "text": "How long can I take counsel in my soul, sorrowing in my heart throughout the day?",
+    "reference": "Psalm 13:2 (CPDV)",
+    "connected_to": "Psalm 13:3",
+    "connected_from": "Psalm 13:1"
+  },
+  {
+    "text": "How long will my enemy be exalted over me?",
+    "reference": "Psalm 13:3 (CPDV)",
+    "connected_to": "Psalm 13:4",
+    "connected_from": "Psalm 13:2"
+  },
+  {
+    "text": "Look upon me and listen to me, O Lord my God. Enlighten my eyes, lest I fall asleep forever in death,",
+    "reference": "Psalm 13:4 (CPDV)",
+    "connected_to": "Psalm 13:5",
+    "connected_from": "Psalm 13:3"
+  },
+  {
+    "text": "lest at any time my enemy may say, “I have prevailed against him.” Those who trouble me will exult, if I have been disturbed.",
+    "reference": "Psalm 13:5 (CPDV)",
+    "connected_to": "Psalm 13:6",
+    "connected_from": "Psalm 13:4"
+  },
+  {
+    "text": "But I have hoped in your mercy. My heart will exult in your salvation. I will sing to the Lord, who assigns good things to me. And I will sing psalms to the name of the Lord Most High.",
+    "reference": "Psalm 13:6 (CPDV)",
+    "connected_from": "Psalm 13:5"
+  }
+]

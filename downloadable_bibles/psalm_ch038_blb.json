@@ -1,0 +1,132 @@
+[
+  {
+    "text": "A Psalm of David, for remembrance. <span class=|reftext|><a href=|#|><b>1</b></a> O YHWH, do not rebuke me in Your wrath and chastise me in Your fury.",
+    "reference": "Psalm 38:1 (BLB)",
+    "connected_to": "Psalm 38:2"
+  },
+  {
+    "text": "For Your arrows descend into me, and Your hand comes down on me.",
+    "reference": "Psalm 38:2 (BLB)",
+    "connected_to": "Psalm 38:3",
+    "connected_from": "Psalm 38:1"
+  },
+  {
+    "text": "No soundness [is] in my flesh before the face of Your anger; no peace [is] in my bones before the face of my sin.",
+    "reference": "Psalm 38:3 (BLB)",
+    "connected_to": "Psalm 38:4",
+    "connected_from": "Psalm 38:2"
+  },
+  {
+    "text": "For my iniquities have passed over my head; like a heavy burden, they are heavy for me.",
+    "reference": "Psalm 38:4 (BLB)",
+    "connected_to": "Psalm 38:5",
+    "connected_from": "Psalm 38:3"
+  },
+  {
+    "text": "My wounds are foul and festering, before the face of my foolishness.",
+    "reference": "Psalm 38:5 (BLB)",
+    "connected_to": "Psalm 38:6",
+    "connected_from": "Psalm 38:4"
+  },
+  {
+    "text": "I am bent, I am bowed down even to excess; all the day I go about mourning.",
+    "reference": "Psalm 38:6 (BLB)",
+    "connected_to": "Psalm 38:7",
+    "connected_from": "Psalm 38:5"
+  },
+  {
+    "text": "For my loins are full of burning, and there is no soundness in my flesh.",
+    "reference": "Psalm 38:7 (BLB)",
+    "connected_to": "Psalm 38:8",
+    "connected_from": "Psalm 38:6"
+  },
+  {
+    "text": "I am numb and crushed, even to excess; I roar from the groaning of my heart.",
+    "reference": "Psalm 38:8 (BLB)",
+    "connected_to": "Psalm 38:9",
+    "connected_from": "Psalm 38:7"
+  },
+  {
+    "text": "O Lord, all my desire [is] before You, and my groaning is not hidden from You.",
+    "reference": "Psalm 38:9 (BLB)",
+    "connected_to": "Psalm 38:10",
+    "connected_from": "Psalm 38:8"
+  },
+  {
+    "text": "My heart pounds, my strength has forsaken me, and the light of my eyes—even they [are] not with me.",
+    "reference": "Psalm 38:10 (BLB)",
+    "connected_to": "Psalm 38:11",
+    "connected_from": "Psalm 38:9"
+  },
+  {
+    "text": "My beloved and my friends stand away from my plague; my neighbors stand far off.",
+    "reference": "Psalm 38:11 (BLB)",
+    "connected_to": "Psalm 38:12",
+    "connected_from": "Psalm 38:10"
+  },
+  {
+    "text": "And those seeking my soul lay snares, and those searching out my harm speak; they ponder destruction and treachery all the day.",
+    "reference": "Psalm 38:12 (BLB)",
+    "connected_to": "Psalm 38:13",
+    "connected_from": "Psalm 38:11"
+  },
+  {
+    "text": "And I [am] like a deaf one [who] does not hear and like a mute one [who] does not open his mouth.",
+    "reference": "Psalm 38:13 (BLB)",
+    "connected_to": "Psalm 38:14",
+    "connected_from": "Psalm 38:12"
+  },
+  {
+    "text": "And I am like a man who is not hearing, and in his mouth [are] no rebukes,",
+    "reference": "Psalm 38:14 (BLB)",
+    "connected_to": "Psalm 38:15",
+    "connected_from": "Psalm 38:13"
+  },
+  {
+    "text": "because for You, O YHWH, I have waited; You will answer, O Lord my God.",
+    "reference": "Psalm 38:15 (BLB)",
+    "connected_to": "Psalm 38:16",
+    "connected_from": "Psalm 38:14"
+  },
+  {
+    "text": "For I said, “Lest they rejoice over me; in the slipping of my foot they magnify themselves against me.”",
+    "reference": "Psalm 38:16 (BLB)",
+    "connected_to": "Psalm 38:17",
+    "connected_from": "Psalm 38:15"
+  },
+  {
+    "text": "For I am ready to fall, and my sorrow [is] before me continually.",
+    "reference": "Psalm 38:17 (BLB)",
+    "connected_to": "Psalm 38:18",
+    "connected_from": "Psalm 38:16"
+  },
+  {
+    "text": "For I declare my iniquity; I am anxious over my sin.",
+    "reference": "Psalm 38:18 (BLB)",
+    "connected_to": "Psalm 38:19",
+    "connected_from": "Psalm 38:17"
+  },
+  {
+    "text": "And my enemies without cause are many, and those hating me without cause have been multiplied.",
+    "reference": "Psalm 38:19 (BLB)",
+    "connected_to": "Psalm 38:20",
+    "connected_from": "Psalm 38:18"
+  },
+  {
+    "text": "And those repaying evil for good, they oppose me, because of my pursuing good.",
+    "reference": "Psalm 38:20 (BLB)",
+    "connected_to": "Psalm 38:21",
+    "connected_from": "Psalm 38:19"
+  },
+  {
+    "text": "Do not forsake me, O YHWH; O my God, do not be far from me!",
+    "reference": "Psalm 38:21 (BLB)",
+    "connected_to": "Psalm 38:22",
+    "connected_from": "Psalm 38:20"
+  },
+  {
+    "text": "Hurry to help me, O Lord, my salvation.",
+    "reference": "Psalm 38:22 (BLB)",
+    "connected_from": "Psalm 38:21"
+  }
+]

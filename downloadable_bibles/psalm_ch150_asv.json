@@ -1,0 +1,36 @@
+[
+  {
+    "text": "Praise ye Jehovah. Praise God in his sanctuary: Praise him in the firmament of his power.",
+    "reference": "Psalm 150:1 (ASV)",
+    "connected_to": "Psalm 150:2"
+  },
+  {
+    "text": "Praise him for his mighty acts: Praise him according to his excellent greatness.",
+    "reference": "Psalm 150:2 (ASV)",
+    "connected_to": "Psalm 150:3",
+    "connected_from": "Psalm 150:1"
+  },
+  {
+    "text": "Praise him with trumpet sound: Praise him with psaltery and harp.",
+    "reference": "Psalm 150:3 (ASV)",
+    "connected_to": "Psalm 150:4",
+    "connected_from": "Psalm 150:2"
+  },
+  {
+    "text": "Praise him with timbrel and dance: Praise him with stringed instruments and pipe.",
+    "reference": "Psalm 150:4 (ASV)",
+    "connected_to": "Psalm 150:5",
+    "connected_from": "Psalm 150:3"
+  },
+  {
+    "text": "Praise him with loud cymbals: Praise him with high sounding cymbals.",
+    "reference": "Psalm 150:5 (ASV)",
+    "connected_to": "Psalm 150:6",
+    "connected_from": "Psalm 150:4"
+  },
+  {
+    "text": "Let everything that hath breath Praise Jehovah. Praise ye Jehovah.",
+    "reference": "Psalm 150:6 (ASV)",
+    "connected_from": "Psalm 150:5"
+  }
+]

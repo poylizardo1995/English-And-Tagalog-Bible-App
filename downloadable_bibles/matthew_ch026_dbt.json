@@ -1,0 +1,450 @@
+[
+  {
+    "text": "And it came to pass when Jesus had finished all these sayings, he said to his disciples,",
+    "reference": "Matthew 26:1 (DBT)",
+    "connected_to": "Matthew 26:2"
+  },
+  {
+    "text": "Ye know that after two days the passover takes place, and the Son of man is delivered up to be crucified.",
+    "reference": "Matthew 26:2 (DBT)",
+    "connected_to": "Matthew 26:3",
+    "connected_from": "Matthew 26:1"
+  },
+  {
+    "text": "Then the chief priests and the elders of the people were gathered together to the palace of the high priest who was called Caiaphas,",
+    "reference": "Matthew 26:3 (DBT)",
+    "connected_to": "Matthew 26:4",
+    "connected_from": "Matthew 26:2"
+  },
+  {
+    "text": "and took counsel together in order that they might seize Jesus by subtlety and kill him;",
+    "reference": "Matthew 26:4 (DBT)",
+    "connected_to": "Matthew 26:5",
+    "connected_from": "Matthew 26:3"
+  },
+  {
+    "text": "but they said, Not in the feast, that there be not a tumult among the people.",
+    "reference": "Matthew 26:5 (DBT)",
+    "connected_to": "Matthew 26:6",
+    "connected_from": "Matthew 26:4"
+  },
+  {
+    "text": "But Jesus being in Bethany, in Simon the leper’s house,",
+    "reference": "Matthew 26:6 (DBT)",
+    "connected_to": "Matthew 26:7",
+    "connected_from": "Matthew 26:5"
+  },
+  {
+    "text": "a woman, having an alabaster flask of very precious ointment, came to him and poured it out upon his head as he lay at table.",
+    "reference": "Matthew 26:7 (DBT)",
+    "connected_to": "Matthew 26:8",
+    "connected_from": "Matthew 26:6"
+  },
+  {
+    "text": "But the disciples seeing it became indignant, saying, To what end [was] this waste?",
+    "reference": "Matthew 26:8 (DBT)",
+    "connected_to": "Matthew 26:9",
+    "connected_from": "Matthew 26:7"
+  },
+  {
+    "text": "for this might have been sold for much and been given to the poor.",
+    "reference": "Matthew 26:9 (DBT)",
+    "connected_to": "Matthew 26:10",
+    "connected_from": "Matthew 26:8"
+  },
+  {
+    "text": "But Jesus knowing [it] said to them, Why do ye trouble the woman? for she has wrought a good work toward me.",
+    "reference": "Matthew 26:10 (DBT)",
+    "connected_to": "Matthew 26:11",
+    "connected_from": "Matthew 26:9"
+  },
+  {
+    "text": "For ye have the poor always with you, but me ye have not always.",
+    "reference": "Matthew 26:11 (DBT)",
+    "connected_to": "Matthew 26:12",
+    "connected_from": "Matthew 26:10"
+  },
+  {
+    "text": "For in pouring out this ointment on my body, she has done it for my burying.",
+    "reference": "Matthew 26:12 (DBT)",
+    "connected_to": "Matthew 26:13",
+    "connected_from": "Matthew 26:11"
+  },
+  {
+    "text": "Verily I say to you, Wheresoever these glad tidings may be preached in the whole world, that also which this [woman] has done shall be spoken of for a memorial of her.",
+    "reference": "Matthew 26:13 (DBT)",
+    "connected_to": "Matthew 26:14",
+    "connected_from": "Matthew 26:12"
+  },
+  {
+    "text": "Then one of the twelve, he who was called Judas Iscariote, went to the chief priests",
+    "reference": "Matthew 26:14 (DBT)",
+    "connected_to": "Matthew 26:15",
+    "connected_from": "Matthew 26:13"
+  },
+  {
+    "text": "and said, What are ye willing to give me, and I will deliver him up to you? And they appointed to him thirty pieces of silver.",
+    "reference": "Matthew 26:15 (DBT)",
+    "connected_to": "Matthew 26:16",
+    "connected_from": "Matthew 26:14"
+  },
+  {
+    "text": "And from that time he sought a good opportunity that he might deliver him up.",
+    "reference": "Matthew 26:16 (DBT)",
+    "connected_to": "Matthew 26:17",
+    "connected_from": "Matthew 26:15"
+  },
+  {
+    "text": "Now on the first [day] of [the feast of] unleavened bread, the disciples came to Jesus, saying, Where wilt thou that we prepare for thee to eat the passover?",
+    "reference": "Matthew 26:17 (DBT)",
+    "connected_to": "Matthew 26:18",
+    "connected_from": "Matthew 26:16"
+  },
+  {
+    "text": "And he said, Go into the city unto such a one, and say to him, The Teacher says, My time is near, I will keep the passover in thy house with my disciples.",
+    "reference": "Matthew 26:18 (DBT)",
+    "connected_to": "Matthew 26:19",
+    "connected_from": "Matthew 26:17"
+  },
+  {
+    "text": "And the disciples did as Jesus had directed them, and they prepared the passover.",
+    "reference": "Matthew 26:19 (DBT)",
+    "connected_to": "Matthew 26:20",
+    "connected_from": "Matthew 26:18"
+  },
+  {
+    "text": "And when the evening was come he lay down at table with the twelve.",
+    "reference": "Matthew 26:20 (DBT)",
+    "connected_to": "Matthew 26:21",
+    "connected_from": "Matthew 26:19"
+  },
+  {
+    "text": "And as they were eating he said, Verily I say to you, that one of you shall deliver me up.",
+    "reference": "Matthew 26:21 (DBT)",
+    "connected_to": "Matthew 26:22",
+    "connected_from": "Matthew 26:20"
+  },
+  {
+    "text": "And being exceedingly grieved they began to say to him, each of them, Is it I, Lord?",
+    "reference": "Matthew 26:22 (DBT)",
+    "connected_to": "Matthew 26:23",
+    "connected_from": "Matthew 26:21"
+  },
+  {
+    "text": "But he answering said, He that dips his hand with me in the dish, he it is who shall deliver me up.",
+    "reference": "Matthew 26:23 (DBT)",
+    "connected_to": "Matthew 26:24",
+    "connected_from": "Matthew 26:22"
+  },
+  {
+    "text": "The Son of man goes indeed, according as it is written concerning him, but woe to that man by whom the Son of man is delivered up; it were good for that man if he had not been born.",
+    "reference": "Matthew 26:24 (DBT)",
+    "connected_to": "Matthew 26:25",
+    "connected_from": "Matthew 26:23"
+  },
+  {
+    "text": "And Judas, who delivered him up, answering said, Is it I, Rabbi? He says to him, Thou hast said.",
+    "reference": "Matthew 26:25 (DBT)",
+    "connected_to": "Matthew 26:26",
+    "connected_from": "Matthew 26:24"
+  },
+  {
+    "text": "And as they were eating, Jesus, having taken [the] bread and blessed, broke [it] and gave [it] to the disciples, and said, Take, eat: this is my body.",
+    "reference": "Matthew 26:26 (DBT)",
+    "connected_to": "Matthew 26:27",
+    "connected_from": "Matthew 26:25"
+  },
+  {
+    "text": "And having taken [the] cup and given thanks, he gave [it] to them, saying, Drink ye all of it.",
+    "reference": "Matthew 26:27 (DBT)",
+    "connected_to": "Matthew 26:28",
+    "connected_from": "Matthew 26:26"
+  },
+  {
+    "text": "For this is my blood, that of the [new] covenant, that shed for many for remission of sins.",
+    "reference": "Matthew 26:28 (DBT)",
+    "connected_to": "Matthew 26:29",
+    "connected_from": "Matthew 26:27"
+  },
+  {
+    "text": "But I say to you, that I will not at all drink henceforth of this fruit of the vine, until that day when I drink it new with you in the kingdom of my Father.",
+    "reference": "Matthew 26:29 (DBT)",
+    "connected_to": "Matthew 26:30",
+    "connected_from": "Matthew 26:28"
+  },
+  {
+    "text": "And having sung a hymn, they went out to the mount of Olives.",
+    "reference": "Matthew 26:30 (DBT)",
+    "connected_to": "Matthew 26:31",
+    "connected_from": "Matthew 26:29"
+  },
+  {
+    "text": "Then saith Jesus to them, All ye shall be offended in me during this night. For it is written, I will smite the shepherd, and the sheep of the flock shall be scattered abroad.",
+    "reference": "Matthew 26:31 (DBT)",
+    "connected_to": "Matthew 26:32",
+    "connected_from": "Matthew 26:30"
+  },
+  {
+    "text": "But after that I shall be risen, I will go before you to Galilee.",
+    "reference": "Matthew 26:32 (DBT)",
+    "connected_to": "Matthew 26:33",
+    "connected_from": "Matthew 26:31"
+  },
+  {
+    "text": "And Peter answering said to him, If all shall be offended in thee, I will never be offended.",
+    "reference": "Matthew 26:33 (DBT)",
+    "connected_to": "Matthew 26:34",
+    "connected_from": "Matthew 26:32"
+  },
+  {
+    "text": "Jesus said to him, Verily I say to thee, that during this night, before [the] cock shall crow, thou shalt deny me thrice.",
+    "reference": "Matthew 26:34 (DBT)",
+    "connected_to": "Matthew 26:35",
+    "connected_from": "Matthew 26:33"
+  },
+  {
+    "text": "Peter says to him, If I should needs die with thee, I will in no wise deny thee. Likewise said all the disciples also.",
+    "reference": "Matthew 26:35 (DBT)",
+    "connected_to": "Matthew 26:36",
+    "connected_from": "Matthew 26:34"
+  },
+  {
+    "text": "Then Jesus comes with them to a place called Gethsemane, and says to the disciples, Sit here until I go away and pray yonder.",
+    "reference": "Matthew 26:36 (DBT)",
+    "connected_to": "Matthew 26:37",
+    "connected_from": "Matthew 26:35"
+  },
+  {
+    "text": "And taking with [him] Peter and the two sons of Zebedee, he began to be sorrowful and deeply depressed.",
+    "reference": "Matthew 26:37 (DBT)",
+    "connected_to": "Matthew 26:38",
+    "connected_from": "Matthew 26:36"
+  },
+  {
+    "text": "Then he says to them, My soul is very sorrowful even unto death; remain here and watch with me.",
+    "reference": "Matthew 26:38 (DBT)",
+    "connected_to": "Matthew 26:39",
+    "connected_from": "Matthew 26:37"
+  },
+  {
+    "text": "And going forward a little he fell upon his face, praying and saying, My Father, if it be possible let this cup pass from me; but not as I will, but as thou [wilt].",
+    "reference": "Matthew 26:39 (DBT)",
+    "connected_to": "Matthew 26:40",
+    "connected_from": "Matthew 26:38"
+  },
+  {
+    "text": "And he comes to the disciples and finds them sleeping, and says to Peter, Thus ye have not been able to watch one hour with me?",
+    "reference": "Matthew 26:40 (DBT)",
+    "connected_to": "Matthew 26:41",
+    "connected_from": "Matthew 26:39"
+  },
+  {
+    "text": "Watch and pray, that ye enter not into temptation: the spirit indeed [is] ready, but the flesh weak.",
+    "reference": "Matthew 26:41 (DBT)",
+    "connected_to": "Matthew 26:42",
+    "connected_from": "Matthew 26:40"
+  },
+  {
+    "text": "Again going away a second time he prayed saying, My Father, if this cannot pass [from me] unless I drink it, thy will be done.",
+    "reference": "Matthew 26:42 (DBT)",
+    "connected_to": "Matthew 26:43",
+    "connected_from": "Matthew 26:41"
+  },
+  {
+    "text": "And coming he found them again sleeping, for their eyes were heavy.",
+    "reference": "Matthew 26:43 (DBT)",
+    "connected_to": "Matthew 26:44",
+    "connected_from": "Matthew 26:42"
+  },
+  {
+    "text": "And leaving them, he went away again and prayed the third time, saying the same thing.",
+    "reference": "Matthew 26:44 (DBT)",
+    "connected_to": "Matthew 26:45",
+    "connected_from": "Matthew 26:43"
+  },
+  {
+    "text": "Then he comes to the disciples and says to them, Sleep on now and take your rest; behold, the hour has drawn nigh, and the Son of man is delivered up into the hands of sinners.",
+    "reference": "Matthew 26:45 (DBT)",
+    "connected_to": "Matthew 26:46",
+    "connected_from": "Matthew 26:44"
+  },
+  {
+    "text": "Arise, let us go; behold, he that delivers me up has drawn nigh.",
+    "reference": "Matthew 26:46 (DBT)",
+    "connected_to": "Matthew 26:47",
+    "connected_from": "Matthew 26:45"
+  },
+  {
+    "text": "And while he was yet speaking, behold, Judas, one of the twelve, came, and with him a great crowd with swords and sticks from the chief priests and elders of the people.",
+    "reference": "Matthew 26:47 (DBT)",
+    "connected_to": "Matthew 26:48",
+    "connected_from": "Matthew 26:46"
+  },
+  {
+    "text": "Now he that delivered him up had given them a sign, saying, Whomsoever I shall kiss, he it is: seize him.",
+    "reference": "Matthew 26:48 (DBT)",
+    "connected_to": "Matthew 26:49",
+    "connected_from": "Matthew 26:47"
+  },
+  {
+    "text": "And immediately coming up to Jesus he said, Hail, Rabbi, and covered him with kisses.",
+    "reference": "Matthew 26:49 (DBT)",
+    "connected_to": "Matthew 26:50",
+    "connected_from": "Matthew 26:48"
+  },
+  {
+    "text": "But Jesus said to him, [My] friend, for what purpose art thou come? Then coming up they laid hands upon Jesus and seized him.",
+    "reference": "Matthew 26:50 (DBT)",
+    "connected_to": "Matthew 26:51",
+    "connected_from": "Matthew 26:49"
+  },
+  {
+    "text": "And behold, one of those with Jesus stretched out his hand and drew his sword, and smiting the bondman of the high priest took off his ear.",
+    "reference": "Matthew 26:51 (DBT)",
+    "connected_to": "Matthew 26:52",
+    "connected_from": "Matthew 26:50"
+  },
+  {
+    "text": "Then saith Jesus to him, Return thy sword to its place; for all who take the sword shall perish by the sword.",
+    "reference": "Matthew 26:52 (DBT)",
+    "connected_to": "Matthew 26:53",
+    "connected_from": "Matthew 26:51"
+  },
+  {
+    "text": "Or thinkest thou that I cannot now call upon my Father, and he will furnish me more than twelve legions of angels?",
+    "reference": "Matthew 26:53 (DBT)",
+    "connected_to": "Matthew 26:54",
+    "connected_from": "Matthew 26:52"
+  },
+  {
+    "text": "How then should the scriptures be fulfilled that thus it must be?",
+    "reference": "Matthew 26:54 (DBT)",
+    "connected_to": "Matthew 26:55",
+    "connected_from": "Matthew 26:53"
+  },
+  {
+    "text": "In that hour Jesus said to the crowds, Are ye come out as against a robber with swords and sticks to take me? I sat daily [with you] teaching in the temple, and ye did not seize me.",
+    "reference": "Matthew 26:55 (DBT)",
+    "connected_to": "Matthew 26:56",
+    "connected_from": "Matthew 26:54"
+  },
+  {
+    "text": "But all this is come to pass that the scriptures of the prophets may be fulfilled. Then all the disciples left him and fled.",
+    "reference": "Matthew 26:56 (DBT)",
+    "connected_to": "Matthew 26:57",
+    "connected_from": "Matthew 26:55"
+  },
+  {
+    "text": "Now they that had seized Jesus led [him] away to Caiaphas the high priest, where the scribes and the elders were assembled.",
+    "reference": "Matthew 26:57 (DBT)",
+    "connected_to": "Matthew 26:58",
+    "connected_from": "Matthew 26:56"
+  },
+  {
+    "text": "And Peter followed him at a distance, even to the palace of the high priest, and entering in sat with the officers to see the end.",
+    "reference": "Matthew 26:58 (DBT)",
+    "connected_to": "Matthew 26:59",
+    "connected_from": "Matthew 26:57"
+  },
+  {
+    "text": "And the chief priests and the elders and the whole sanhedrim sought false witness against Jesus, so that they might put him to death.",
+    "reference": "Matthew 26:59 (DBT)",
+    "connected_to": "Matthew 26:60",
+    "connected_from": "Matthew 26:58"
+  },
+  {
+    "text": "And they found none, though many false witnesses came forward. But at the last two false witnesses came forward",
+    "reference": "Matthew 26:60 (DBT)",
+    "connected_to": "Matthew 26:61",
+    "connected_from": "Matthew 26:59"
+  },
+  {
+    "text": "and said, He said, I am able to destroy the temple of God, and in three days build it.",
+    "reference": "Matthew 26:61 (DBT)",
+    "connected_to": "Matthew 26:62",
+    "connected_from": "Matthew 26:60"
+  },
+  {
+    "text": "And the high priest standing up said to him, Answerest thou nothing? What do these witness against thee?",
+    "reference": "Matthew 26:62 (DBT)",
+    "connected_to": "Matthew 26:63",
+    "connected_from": "Matthew 26:61"
+  },
+  {
+    "text": "But Jesus was silent. And the high priest answering said to him, I adjure thee by the living God that thou tell us if thou art the Christ the Son of God.",
+    "reference": "Matthew 26:63 (DBT)",
+    "connected_to": "Matthew 26:64",
+    "connected_from": "Matthew 26:62"
+  },
+  {
+    "text": "Jesus says to him, Thou hast said. Moreover, I say to you, From henceforth ye shall see the Son of man sitting at the right hand of power, and coming on the clouds of heaven.",
+    "reference": "Matthew 26:64 (DBT)",
+    "connected_to": "Matthew 26:65",
+    "connected_from": "Matthew 26:63"
+  },
+  {
+    "text": "Then the high priest rent his clothes, saying, He has blasphemed: what need have we any more of witnesses? behold, now ye have heard the blasphemy.",
+    "reference": "Matthew 26:65 (DBT)",
+    "connected_to": "Matthew 26:66",
+    "connected_from": "Matthew 26:64"
+  },
+  {
+    "text": "What think ye? And they answering said, He is liable to the penalty of death.",
+    "reference": "Matthew 26:66 (DBT)",
+    "connected_to": "Matthew 26:67",
+    "connected_from": "Matthew 26:65"
+  },
+  {
+    "text": "Then they spit in his face, and buffeted him, and some struck him with the palms of their hand,",
+    "reference": "Matthew 26:67 (DBT)",
+    "connected_to": "Matthew 26:68",
+    "connected_from": "Matthew 26:66"
+  },
+  {
+    "text": "saying, Prophesy to us, Christ, Who is it who struck thee?",
+    "reference": "Matthew 26:68 (DBT)",
+    "connected_to": "Matthew 26:69",
+    "connected_from": "Matthew 26:67"
+  },
+  {
+    "text": "But Peter sat without in the palace-court; and a maid came to him, saying, And thou wast with Jesus the Galilaean.",
+    "reference": "Matthew 26:69 (DBT)",
+    "connected_to": "Matthew 26:70",
+    "connected_from": "Matthew 26:68"
+  },
+  {
+    "text": "But he denied before all, saying, I do not know what thou sayest.",
+    "reference": "Matthew 26:70 (DBT)",
+    "connected_to": "Matthew 26:71",
+    "connected_from": "Matthew 26:69"
+  },
+  {
+    "text": "And when he had gone out into the entrance, another [maid] saw him, and says to those there, This [man] also was with Jesus the Nazaraean.",
+    "reference": "Matthew 26:71 (DBT)",
+    "connected_to": "Matthew 26:72",
+    "connected_from": "Matthew 26:70"
+  },
+  {
+    "text": "And again he denied with an oath: I do not know the man.",
+    "reference": "Matthew 26:72 (DBT)",
+    "connected_to": "Matthew 26:73",
+    "connected_from": "Matthew 26:71"
+  },
+  {
+    "text": "And after a little, those who stood [there], coming to [him], said to Peter, Truly thou too art of them, for also thy speech makes thee manifest.",
+    "reference": "Matthew 26:73 (DBT)",
+    "connected_to": "Matthew 26:74",
+    "connected_from": "Matthew 26:72"
+  },
+  {
+    "text": "Then he began to curse and to swear, I know not the man. And immediately [the] cock crew.",
+    "reference": "Matthew 26:74 (DBT)",
+    "connected_to": "Matthew 26:75",
+    "connected_from": "Matthew 26:73"
+  },
+  {
+    "text": "And Peter remembered the word of Jesus, who had said [to him], Before [the] cock crow thou shalt deny me thrice. And he went forth without, and wept bitterly.",
+    "reference": "Matthew 26:75 (DBT)",
+    "connected_from": "Matthew 26:74"
+  }
+]

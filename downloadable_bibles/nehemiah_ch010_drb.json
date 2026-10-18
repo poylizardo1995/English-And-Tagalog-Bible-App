@@ -1,0 +1,234 @@
+[
+  {
+    "text": "And the subscribers were Nehemias, Athersatha the son of Hachelai, and Sedecias,",
+    "reference": "Nehemiah 10:1 (DRB)",
+    "connected_to": "Nehemiah 10:2"
+  },
+  {
+    "text": "Saraias, Azarias, Jeremias,",
+    "reference": "Nehemiah 10:2 (DRB)",
+    "connected_to": "Nehemiah 10:3",
+    "connected_from": "Nehemiah 10:1"
+  },
+  {
+    "text": "Pheshur, Amarias, Melchias,",
+    "reference": "Nehemiah 10:3 (DRB)",
+    "connected_to": "Nehemiah 10:4",
+    "connected_from": "Nehemiah 10:2"
+  },
+  {
+    "text": "Hattus, Sebenia, Melluch,",
+    "reference": "Nehemiah 10:4 (DRB)",
+    "connected_to": "Nehemiah 10:5",
+    "connected_from": "Nehemiah 10:3"
+  },
+  {
+    "text": "Harem, Merimuth, Obdias,",
+    "reference": "Nehemiah 10:5 (DRB)",
+    "connected_to": "Nehemiah 10:6",
+    "connected_from": "Nehemiah 10:4"
+  },
+  {
+    "text": "Daniel, Genthon, Baruch,",
+    "reference": "Nehemiah 10:6 (DRB)",
+    "connected_to": "Nehemiah 10:7",
+    "connected_from": "Nehemiah 10:5"
+  },
+  {
+    "text": "Mosollam, Abia, Miamin,",
+    "reference": "Nehemiah 10:7 (DRB)",
+    "connected_to": "Nehemiah 10:8",
+    "connected_from": "Nehemiah 10:6"
+  },
+  {
+    "text": "Maazia, Belgia, Semeia: these were priests.",
+    "reference": "Nehemiah 10:8 (DRB)",
+    "connected_to": "Nehemiah 10:9",
+    "connected_from": "Nehemiah 10:7"
+  },
+  {
+    "text": "And the Levites, Josue the son of Azanias, Bennui of the sons of Henadad. Cedmihel,",
+    "reference": "Nehemiah 10:9 (DRB)",
+    "connected_to": "Nehemiah 10:10",
+    "connected_from": "Nehemiah 10:8"
+  },
+  {
+    "text": "And their brethren, Sebenia, Oduia, Celita, Phalaia, Hanan,",
+    "reference": "Nehemiah 10:10 (DRB)",
+    "connected_to": "Nehemiah 10:11",
+    "connected_from": "Nehemiah 10:9"
+  },
+  {
+    "text": "Micha, Rohob, Hasebia,",
+    "reference": "Nehemiah 10:11 (DRB)",
+    "connected_to": "Nehemiah 10:12",
+    "connected_from": "Nehemiah 10:10"
+  },
+  {
+    "text": "Zachur, Serebia, Sabania,",
+    "reference": "Nehemiah 10:12 (DRB)",
+    "connected_to": "Nehemiah 10:13",
+    "connected_from": "Nehemiah 10:11"
+  },
+  {
+    "text": "Odaia, Bani, Baninu.",
+    "reference": "Nehemiah 10:13 (DRB)",
+    "connected_to": "Nehemiah 10:14",
+    "connected_from": "Nehemiah 10:12"
+  },
+  {
+    "text": "The heads of the people, Pharos, Phahath Moab, Elam, Zethu, Bani,",
+    "reference": "Nehemiah 10:14 (DRB)",
+    "connected_to": "Nehemiah 10:15",
+    "connected_from": "Nehemiah 10:13"
+  },
+  {
+    "text": "Bonni, Azgad, Bebai,",
+    "reference": "Nehemiah 10:15 (DRB)",
+    "connected_to": "Nehemiah 10:16",
+    "connected_from": "Nehemiah 10:14"
+  },
+  {
+    "text": "Adonia, Begoai, Adin,",
+    "reference": "Nehemiah 10:16 (DRB)",
+    "connected_to": "Nehemiah 10:17",
+    "connected_from": "Nehemiah 10:15"
+  },
+  {
+    "text": "Ater, Hezecia, Azur,",
+    "reference": "Nehemiah 10:17 (DRB)",
+    "connected_to": "Nehemiah 10:18",
+    "connected_from": "Nehemiah 10:16"
+  },
+  {
+    "text": "Odaia, Hasum, Besai,",
+    "reference": "Nehemiah 10:18 (DRB)",
+    "connected_to": "Nehemiah 10:19",
+    "connected_from": "Nehemiah 10:17"
+  },
+  {
+    "text": "Hareph, Anathoth, Nebai,",
+    "reference": "Nehemiah 10:19 (DRB)",
+    "connected_to": "Nehemiah 10:20",
+    "connected_from": "Nehemiah 10:18"
+  },
+  {
+    "text": "Megphias, Mosollam, Hazir,",
+    "reference": "Nehemiah 10:20 (DRB)",
+    "connected_to": "Nehemiah 10:21",
+    "connected_from": "Nehemiah 10:19"
+  },
+  {
+    "text": "Mesizabel, Sadoc, Jeddua,",
+    "reference": "Nehemiah 10:21 (DRB)",
+    "connected_to": "Nehemiah 10:22",
+    "connected_from": "Nehemiah 10:20"
+  },
+  {
+    "text": "Pheltia, Hanan, Anaia,",
+    "reference": "Nehemiah 10:22 (DRB)",
+    "connected_to": "Nehemiah 10:23",
+    "connected_from": "Nehemiah 10:21"
+  },
+  {
+    "text": "Osee, Hanania, Hasub,",
+    "reference": "Nehemiah 10:23 (DRB)",
+    "connected_to": "Nehemiah 10:24",
+    "connected_from": "Nehemiah 10:22"
+  },
+  {
+    "text": "Alohes, Phalea, Sobec,",
+    "reference": "Nehemiah 10:24 (DRB)",
+    "connected_to": "Nehemiah 10:25",
+    "connected_from": "Nehemiah 10:23"
+  },
+  {
+    "text": "Rehum, Hasebna, Maasia,",
+    "reference": "Nehemiah 10:25 (DRB)",
+    "connected_to": "Nehemiah 10:26",
+    "connected_from": "Nehemiah 10:24"
+  },
+  {
+    "text": "Echaia, Hanan, Anan,",
+    "reference": "Nehemiah 10:26 (DRB)",
+    "connected_to": "Nehemiah 10:27",
+    "connected_from": "Nehemiah 10:25"
+  },
+  {
+    "text": "Melluch, Haran, Baana:",
+    "reference": "Nehemiah 10:27 (DRB)",
+    "connected_to": "Nehemiah 10:28",
+    "connected_from": "Nehemiah 10:26"
+  },
+  {
+    "text": "And the rest of the people, priests, Levites, porters, and singing men, Nathinites, and all that had separated themselves from the people of the lands to the law of God, their wives, their sons, and their daughters.",
+    "reference": "Nehemiah 10:28 (DRB)",
+    "connected_to": "Nehemiah 10:29",
+    "connected_from": "Nehemiah 10:27"
+  },
+  {
+    "text": "All that could understand promising for their brethren, with their chief men, and they came to promise, and swear that they would walk in the law of God, which he gave in the hand of Moses the servant of God, that they would do and keep all the commandments of the Lord our God, and his judgments and his ceremonies.",
+    "reference": "Nehemiah 10:29 (DRB)",
+    "connected_to": "Nehemiah 10:30",
+    "connected_from": "Nehemiah 10:28"
+  },
+  {
+    "text": "And that we would not give our daughters to the people of the land, not take their daughters for our sons.",
+    "reference": "Nehemiah 10:30 (DRB)",
+    "connected_to": "Nehemiah 10:31",
+    "connected_from": "Nehemiah 10:29"
+  },
+  {
+    "text": "And if the people of the land bring in things to sell, or any things for use, to sell them on the sabbath day, that we would not buy them of them on the sabbath, or on the holy day. And that we would leave the seventh year, and the exaction of every hand.",
+    "reference": "Nehemiah 10:31 (DRB)",
+    "connected_to": "Nehemiah 10:32",
+    "connected_from": "Nehemiah 10:30"
+  },
+  {
+    "text": "And we made ordinances for ourselves, to give the third part of a side every year for the work of the house of our God,",
+    "reference": "Nehemiah 10:32 (DRB)",
+    "connected_to": "Nehemiah 10:33",
+    "connected_from": "Nehemiah 10:31"
+  },
+  {
+    "text": "For the leaves of proposition, and for the continual sacrifice, and for a continual holocaust on the sabbaths, on the new moons, on the set feasts, and for the holy things, and for the sin offering: that atonement might be made for Israel, and for every use of the house of our God.",
+    "reference": "Nehemiah 10:33 (DRB)",
+    "connected_to": "Nehemiah 10:34",
+    "connected_from": "Nehemiah 10:32"
+  },
+  {
+    "text": "And we cast lots among the priests, and the Levites, and the people for the offering of wood, that it might be brought into the house of our God by the houses of our fathers at set times, from year to year: to burn upon the altar of the Lord our God, as it is written in the law of Moses :",
+    "reference": "Nehemiah 10:34 (DRB)",
+    "connected_to": "Nehemiah 10:35",
+    "connected_from": "Nehemiah 10:33"
+  },
+  {
+    "text": "And that we would bring the first- fruits of our land, and the firstfruits of all fruit of every tree, from year to year, in the house of our Lord.",
+    "reference": "Nehemiah 10:35 (DRB)",
+    "connected_to": "Nehemiah 10:36",
+    "connected_from": "Nehemiah 10:34"
+  },
+  {
+    "text": "And the firstborn of our sons, and of our cattle, as it is written in the law, and the firstlings of our oxen, and of our sheep, to be offered in the house of our God, to the priests who minister in the house of our God.",
+    "reference": "Nehemiah 10:36 (DRB)",
+    "connected_to": "Nehemiah 10:37",
+    "connected_from": "Nehemiah 10:35"
+  },
+  {
+    "text": "And that we would bring the firstfruits of our meats, and of our libations, and the fruit of every tree, of the vintage also and of oil to the priests, to the storehouse of our God, and the tithes of our ground to the Levites. The Levites also shall receive the tithes of our works out of all the cities.",
+    "reference": "Nehemiah 10:37 (DRB)",
+    "connected_to": "Nehemiah 10:38",
+    "connected_from": "Nehemiah 10:36"
+  },
+  {
+    "text": "And the priest the son of Aaron shall be with the Levites in the tithes of the Levites, and the Levites shall offer the tithe of their tithes in the house of our God, to the storeroom into the treasure house.",
+    "reference": "Nehemiah 10:38 (DRB)",
+    "connected_to": "Nehemiah 10:39",
+    "connected_from": "Nehemiah 10:37"
+  },
+  {
+    "text": "For the children of Israel and the children of Levi shall carry to the treasury the firstfruits of corn, of wine, and of oil: and the sanctified vessels shall be there, and the priests, and the singing men, and the porters, and ministers, and we will not forsake the house of our God.",
+    "reference": "Nehemiah 10:39 (DRB)",
+    "connected_from": "Nehemiah 10:38"
+  }
+]

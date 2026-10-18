@@ -1,0 +1,240 @@
+[
+  {
+    "text": "A Psalm of David. Fret not thyself because of evil-doers, neither be thou envious against them that work unrighteousness.",
+    "reference": "Psalm 37:1 (ERV)",
+    "connected_to": "Psalm 37:2"
+  },
+  {
+    "text": "For they shall soon be cut down like the grass, and wither as the green herb.",
+    "reference": "Psalm 37:2 (ERV)",
+    "connected_to": "Psalm 37:3",
+    "connected_from": "Psalm 37:1"
+  },
+  {
+    "text": "Trust in the LORD, and do good; dwell in the land, and follow after faithfulness.",
+    "reference": "Psalm 37:3 (ERV)",
+    "connected_to": "Psalm 37:4",
+    "connected_from": "Psalm 37:2"
+  },
+  {
+    "text": "Delight thyself also in the LORD; and he shall give thee the desires of thine heart.",
+    "reference": "Psalm 37:4 (ERV)",
+    "connected_to": "Psalm 37:5",
+    "connected_from": "Psalm 37:3"
+  },
+  {
+    "text": "Commit thy way unto the LORD; trust also in him, and he shall bring it to pass.",
+    "reference": "Psalm 37:5 (ERV)",
+    "connected_to": "Psalm 37:6",
+    "connected_from": "Psalm 37:4"
+  },
+  {
+    "text": "Add he shall make thy righteousness to go forth as the light, and thy judgment as the noonday.",
+    "reference": "Psalm 37:6 (ERV)",
+    "connected_to": "Psalm 37:7",
+    "connected_from": "Psalm 37:5"
+  },
+  {
+    "text": "Rest in the LORD, and wait patiently for him: fret not thyself because of him who prospereth in his way, because of the man who bringeth wicked devices to pass.",
+    "reference": "Psalm 37:7 (ERV)",
+    "connected_to": "Psalm 37:8",
+    "connected_from": "Psalm 37:6"
+  },
+  {
+    "text": "Cease from anger, and forsake wrath: fret not thyself, it tendeth only to evil-doing.",
+    "reference": "Psalm 37:8 (ERV)",
+    "connected_to": "Psalm 37:9",
+    "connected_from": "Psalm 37:7"
+  },
+  {
+    "text": "For evil-doers shall be cut off: but those that wait upon the LORD, they shall inherit the land.",
+    "reference": "Psalm 37:9 (ERV)",
+    "connected_to": "Psalm 37:10",
+    "connected_from": "Psalm 37:8"
+  },
+  {
+    "text": "For yet a little while, and the wicked shall not be: yea, thou shalt diligently consider his place, and he shall not be.",
+    "reference": "Psalm 37:10 (ERV)",
+    "connected_to": "Psalm 37:11",
+    "connected_from": "Psalm 37:9"
+  },
+  {
+    "text": "But the meek shall inherit the land; and shall delight themselves in the abundance of peace.",
+    "reference": "Psalm 37:11 (ERV)",
+    "connected_to": "Psalm 37:12",
+    "connected_from": "Psalm 37:10"
+  },
+  {
+    "text": "The wicked plotteth against the just, and gnasheth upon him with his teeth.",
+    "reference": "Psalm 37:12 (ERV)",
+    "connected_to": "Psalm 37:13",
+    "connected_from": "Psalm 37:11"
+  },
+  {
+    "text": "The Lord shall laugh at him: for he seeth that his day is coming.",
+    "reference": "Psalm 37:13 (ERV)",
+    "connected_to": "Psalm 37:14",
+    "connected_from": "Psalm 37:12"
+  },
+  {
+    "text": "The wicked have drawn out the sword, and have bent their bow; to cast down the poor and needy, to slay such as be upright in the way:",
+    "reference": "Psalm 37:14 (ERV)",
+    "connected_to": "Psalm 37:15",
+    "connected_from": "Psalm 37:13"
+  },
+  {
+    "text": "Their sword shall enter into their own heart, and their bows shall be broken.",
+    "reference": "Psalm 37:15 (ERV)",
+    "connected_to": "Psalm 37:16",
+    "connected_from": "Psalm 37:14"
+  },
+  {
+    "text": "Better is a little that the righteous hath than the abundance of many wicked.",
+    "reference": "Psalm 37:16 (ERV)",
+    "connected_to": "Psalm 37:17",
+    "connected_from": "Psalm 37:15"
+  },
+  {
+    "text": "For the arms of the wicked shall be broken: but the LORD upholdeth the righteous.",
+    "reference": "Psalm 37:17 (ERV)",
+    "connected_to": "Psalm 37:18",
+    "connected_from": "Psalm 37:16"
+  },
+  {
+    "text": "The LORD knoweth the days of the perfect: and their inheritance shall be for ever.",
+    "reference": "Psalm 37:18 (ERV)",
+    "connected_to": "Psalm 37:19",
+    "connected_from": "Psalm 37:17"
+  },
+  {
+    "text": "They shall not be ashamed in the time of evil: and in the days of famine they shall be satisfied.",
+    "reference": "Psalm 37:19 (ERV)",
+    "connected_to": "Psalm 37:20",
+    "connected_from": "Psalm 37:18"
+  },
+  {
+    "text": "But the wicked shall perish, and the enemies of the LORD shall be as the excellency of the pastures: they shall consume; in smoke shall they consume away.",
+    "reference": "Psalm 37:20 (ERV)",
+    "connected_to": "Psalm 37:21",
+    "connected_from": "Psalm 37:19"
+  },
+  {
+    "text": "The wicked borroweth, and payeth not again: but the righteous dealeth graciously, and giveth.",
+    "reference": "Psalm 37:21 (ERV)",
+    "connected_to": "Psalm 37:22",
+    "connected_from": "Psalm 37:20"
+  },
+  {
+    "text": "For such as be blessed of him shall inherit the land; and they that be cursed of him shall be cut off.",
+    "reference": "Psalm 37:22 (ERV)",
+    "connected_to": "Psalm 37:23",
+    "connected_from": "Psalm 37:21"
+  },
+  {
+    "text": "A man’s goings are established of the LORD; and he delighteth in his way.",
+    "reference": "Psalm 37:23 (ERV)",
+    "connected_to": "Psalm 37:24",
+    "connected_from": "Psalm 37:22"
+  },
+  {
+    "text": "Though he fall, he shall not be utterly cast down: for the LORD upholdeth him with his hand.",
+    "reference": "Psalm 37:24 (ERV)",
+    "connected_to": "Psalm 37:25",
+    "connected_from": "Psalm 37:23"
+  },
+  {
+    "text": "I have been young, and now am old; yet have I not seen the righteous forsaken, nor his seed begging their bread.",
+    "reference": "Psalm 37:25 (ERV)",
+    "connected_to": "Psalm 37:26",
+    "connected_from": "Psalm 37:24"
+  },
+  {
+    "text": "All the day long he dealeth graciously, and lendeth; and his seed is blessed.",
+    "reference": "Psalm 37:26 (ERV)",
+    "connected_to": "Psalm 37:27",
+    "connected_from": "Psalm 37:25"
+  },
+  {
+    "text": "Depart from evil, and do good; dwell for evermore.",
+    "reference": "Psalm 37:27 (ERV)",
+    "connected_to": "Psalm 37:28",
+    "connected_from": "Psalm 37:26"
+  },
+  {
+    "text": "For the LORD loveth judgment, and forsaketh not his saints; they are preserved for ever: but the seed of the wicked shall be cut off.",
+    "reference": "Psalm 37:28 (ERV)",
+    "connected_to": "Psalm 37:29",
+    "connected_from": "Psalm 37:27"
+  },
+  {
+    "text": "The righteous shall inherit the land, and dwell therein for ever.",
+    "reference": "Psalm 37:29 (ERV)",
+    "connected_to": "Psalm 37:30",
+    "connected_from": "Psalm 37:28"
+  },
+  {
+    "text": "The mouth of the righteous talketh of wisdom, and his tongue speaketh judgment.",
+    "reference": "Psalm 37:30 (ERV)",
+    "connected_to": "Psalm 37:31",
+    "connected_from": "Psalm 37:29"
+  },
+  {
+    "text": "The law of his God is in his heart; none of his steps shall slide.",
+    "reference": "Psalm 37:31 (ERV)",
+    "connected_to": "Psalm 37:32",
+    "connected_from": "Psalm 37:30"
+  },
+  {
+    "text": "The wicked watcheth the righteous, and seeketh to slay him.",
+    "reference": "Psalm 37:32 (ERV)",
+    "connected_to": "Psalm 37:33",
+    "connected_from": "Psalm 37:31"
+  },
+  {
+    "text": "The LORD will not leave him in his hand, nor condemn him when he is judged.",
+    "reference": "Psalm 37:33 (ERV)",
+    "connected_to": "Psalm 37:34",
+    "connected_from": "Psalm 37:32"
+  },
+  {
+    "text": "Wait on the LORD, and keep his way, and he shall exalt thee to inherit the land: when the wicked are cut off, thou shalt see it.",
+    "reference": "Psalm 37:34 (ERV)",
+    "connected_to": "Psalm 37:35",
+    "connected_from": "Psalm 37:33"
+  },
+  {
+    "text": "I have seen the wicked in great power, and spreading himself like a green tree in its native soil.",
+    "reference": "Psalm 37:35 (ERV)",
+    "connected_to": "Psalm 37:36",
+    "connected_from": "Psalm 37:34"
+  },
+  {
+    "text": "But one passed by, and, lo, he was not: yea, I sought him, but he could not be found.",
+    "reference": "Psalm 37:36 (ERV)",
+    "connected_to": "Psalm 37:37",
+    "connected_from": "Psalm 37:35"
+  },
+  {
+    "text": "Mark the perfect man, and behold the upright: for the latter end of that man is peace.",
+    "reference": "Psalm 37:37 (ERV)",
+    "connected_to": "Psalm 37:38",
+    "connected_from": "Psalm 37:36"
+  },
+  {
+    "text": "As for transgressors, they shall be destroyed together: the latter end of the wicked shall be cut off.",
+    "reference": "Psalm 37:38 (ERV)",
+    "connected_to": "Psalm 37:39",
+    "connected_from": "Psalm 37:37"
+  },
+  {
+    "text": "But the salvation of the righteous is of the LORD: he is their strong hold in the time of trouble.",
+    "reference": "Psalm 37:39 (ERV)",
+    "connected_to": "Psalm 37:40",
+    "connected_from": "Psalm 37:38"
+  },
+  {
+    "text": "And the LORD helpeth them, and rescueth them: he rescueth them from the wicked, and saveth them, because they have taken refuge in him.",
+    "reference": "Psalm 37:40 (ERV)",
+    "connected_from": "Psalm 37:39"
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "text": "Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world.",
+    "reference": "1 John 4:1 (AKJV)",
+    "connected_to": "1 John 4:2"
+  },
+  {
+    "text": "Hereby know you the Spirit of God: Every spirit that confesses that Jesus Christ is come in the flesh is of God:",
+    "reference": "1 John 4:2 (AKJV)",
+    "connected_to": "1 John 4:3",
+    "connected_from": "1 John 4:1"
+  },
+  {
+    "text": "And every spirit that confesses not that Jesus Christ is come in the flesh is not of God: and this is that spirit of antichrist, whereof you have heard that it should come; and even now already is it in the world.",
+    "reference": "1 John 4:3 (AKJV)",
+    "connected_to": "1 John 4:4",
+    "connected_from": "1 John 4:2"
+  },
+  {
+    "text": "You are of God, little children, and have overcome them: because greater is he that is in you, than he that is in the world.",
+    "reference": "1 John 4:4 (AKJV)",
+    "connected_to": "1 John 4:5",
+    "connected_from": "1 John 4:3"
+  },
+  {
+    "text": "They are of the world: therefore speak they of the world, and the world hears them.",
+    "reference": "1 John 4:5 (AKJV)",
+    "connected_to": "1 John 4:6",
+    "connected_from": "1 John 4:4"
+  },
+  {
+    "text": "We are of God: he that knows God hears us; he that is not of God hears not us. Hereby know we the spirit of truth, and the spirit of error.",
+    "reference": "1 John 4:6 (AKJV)",
+    "connected_to": "1 John 4:7",
+    "connected_from": "1 John 4:5"
+  },
+  {
+    "text": "Beloved, let us love one another: for love is of God; and every one that loves is born of God, and knows God.",
+    "reference": "1 John 4:7 (AKJV)",
+    "connected_to": "1 John 4:8",
+    "connected_from": "1 John 4:6"
+  },
+  {
+    "text": "He that loves not knows not God; for God is love.",
+    "reference": "1 John 4:8 (AKJV)",
+    "connected_to": "1 John 4:9",
+    "connected_from": "1 John 4:7"
+  },
+  {
+    "text": "In this was manifested the love of God toward us, because that God sent his only begotten Son into the world, that we might live through him.",
+    "reference": "1 John 4:9 (AKJV)",
+    "connected_to": "1 John 4:10",
+    "connected_from": "1 John 4:8"
+  },
+  {
+    "text": "Herein is love, not that we loved God, but that he loved us, and sent his Son to be the propitiation for our sins.",
+    "reference": "1 John 4:10 (AKJV)",
+    "connected_to": "1 John 4:11",
+    "connected_from": "1 John 4:9"
+  },
+  {
+    "text": "Beloved, if God so loved us, we ought also to love one another.",
+    "reference": "1 John 4:11 (AKJV)",
+    "connected_to": "1 John 4:12",
+    "connected_from": "1 John 4:10"
+  },
+  {
+    "text": "No man has seen God at any time. If we love one another, God dwells in us, and his love is perfected in us.",
+    "reference": "1 John 4:12 (AKJV)",
+    "connected_to": "1 John 4:13",
+    "connected_from": "1 John 4:11"
+  },
+  {
+    "text": "Hereby know we that we dwell in him, and he in us, because he has given us of his Spirit.",
+    "reference": "1 John 4:13 (AKJV)",
+    "connected_to": "1 John 4:14",
+    "connected_from": "1 John 4:12"
+  },
+  {
+    "text": "And we have seen and do testify that the Father sent the Son to be the Savior of the world.",
+    "reference": "1 John 4:14 (AKJV)",
+    "connected_to": "1 John 4:15",
+    "connected_from": "1 John 4:13"
+  },
+  {
+    "text": "Whoever shall confess that Jesus is the Son of God, God dwells in him, and he in God.",
+    "reference": "1 John 4:15 (AKJV)",
+    "connected_to": "1 John 4:16",
+    "connected_from": "1 John 4:14"
+  },
+  {
+    "text": "And we have known and believed the love that God has to us. God is love; and he that dwells in love dwells in God, and God in him.",
+    "reference": "1 John 4:16 (AKJV)",
+    "connected_to": "1 John 4:17",
+    "connected_from": "1 John 4:15"
+  },
+  {
+    "text": "Herein is our love made perfect, that we may have boldness in the day of judgment: because as he is, so are we in this world.",
+    "reference": "1 John 4:17 (AKJV)",
+    "connected_to": "1 John 4:18",
+    "connected_from": "1 John 4:16"
+  },
+  {
+    "text": "There is no fear in love; but perfect love casts out fear: because fear has torment. He that fears is not made perfect in love.",
+    "reference": "1 John 4:18 (AKJV)",
+    "connected_to": "1 John 4:19",
+    "connected_from": "1 John 4:17"
+  },
+  {
+    "text": "We love him, because he first loved us.",
+    "reference": "1 John 4:19 (AKJV)",
+    "connected_to": "1 John 4:20",
+    "connected_from": "1 John 4:18"
+  },
+  {
+    "text": "If a man say, I love God, and hates his brother, he is a liar: for he that loves not his brother whom he has seen, how can he love God whom he has not seen?",
+    "reference": "1 John 4:20 (AKJV)",
+    "connected_to": "1 John 4:21",
+    "connected_from": "1 John 4:19"
+  },
+  {
+    "text": "And this commandment have we from him, That he who loves God love his brother also.",
+    "reference": "1 John 4:21 (AKJV)",
+    "connected_from": "1 John 4:20"
+  }
+]

@@ -1,0 +1,96 @@
+[
+  {
+    "text": "Then the whole congregation of Israel left the Desert of Sin, moving from place to place as the LORD commanded. They camped at Rephidim, but there was no water for the people to drink.",
+    "reference": "Exodus 17:1 (BSB)",
+    "connected_to": "Exodus 17:2"
+  },
+  {
+    "text": "So the people contended with Moses, “Give us water to drink.” “Why do you contend with me?” Moses replied. “Why do you test the LORD?”",
+    "reference": "Exodus 17:2 (BSB)",
+    "connected_to": "Exodus 17:3",
+    "connected_from": "Exodus 17:1"
+  },
+  {
+    "text": "But the people thirsted for water there, and they grumbled against Moses: “Why have you brought us out of Egypt—to make us and our children and livestock die of thirst?”",
+    "reference": "Exodus 17:3 (BSB)",
+    "connected_to": "Exodus 17:4",
+    "connected_from": "Exodus 17:2"
+  },
+  {
+    "text": "Then Moses cried out to the LORD, “What should I do with these people? A little more and they will stone me!”",
+    "reference": "Exodus 17:4 (BSB)",
+    "connected_to": "Exodus 17:5",
+    "connected_from": "Exodus 17:3"
+  },
+  {
+    "text": "And the LORD said to Moses, “Walk on ahead of the people and take some of the elders of Israel with you. Take along in your hand the staff with which you struck the Nile, and go.",
+    "reference": "Exodus 17:5 (BSB)",
+    "connected_to": "Exodus 17:6",
+    "connected_from": "Exodus 17:4"
+  },
+  {
+    "text": "Behold, I will stand there before you by the rock at Horeb. And when you strike the rock, water will come out of it for the people to drink.” So Moses did this in the sight of the elders of Israel.",
+    "reference": "Exodus 17:6 (BSB)",
+    "connected_to": "Exodus 17:7",
+    "connected_from": "Exodus 17:5"
+  },
+  {
+    "text": "He named the place Massah and Meribah because the Israelites quarreled, and because they tested the LORD, saying, “Is the LORD among us or not?”",
+    "reference": "Exodus 17:7 (BSB)",
+    "connected_to": "Exodus 17:8",
+    "connected_from": "Exodus 17:6"
+  },
+  {
+    "text": "After this, the Amalekites came and attacked the Israelites at Rephidim.",
+    "reference": "Exodus 17:8 (BSB)",
+    "connected_to": "Exodus 17:9",
+    "connected_from": "Exodus 17:7"
+  },
+  {
+    "text": "So Moses said to Joshua, “Choose some of our men and go out to fight the Amalekites. Tomorrow I will stand on the hilltop with the staff of God in my hand.”",
+    "reference": "Exodus 17:9 (BSB)",
+    "connected_to": "Exodus 17:10",
+    "connected_from": "Exodus 17:8"
+  },
+  {
+    "text": "Joshua did as Moses had instructed him and fought against the Amalekites, while Moses, Aaron, and Hur went up to the top of the hill.",
+    "reference": "Exodus 17:10 (BSB)",
+    "connected_to": "Exodus 17:11",
+    "connected_from": "Exodus 17:9"
+  },
+  {
+    "text": "As long as Moses held up his hands, Israel prevailed; but when he lowered them, Amalek prevailed.",
+    "reference": "Exodus 17:11 (BSB)",
+    "connected_to": "Exodus 17:12",
+    "connected_from": "Exodus 17:10"
+  },
+  {
+    "text": "When Moses’ hands grew heavy, they took a stone and put it under him, and he sat on it. Then Aaron and Hur held his hands up, one on each side, so that his hands remained steady until the sun went down.",
+    "reference": "Exodus 17:12 (BSB)",
+    "connected_to": "Exodus 17:13",
+    "connected_from": "Exodus 17:11"
+  },
+  {
+    "text": "So Joshua overwhelmed Amalek and his army with the sword.",
+    "reference": "Exodus 17:13 (BSB)",
+    "connected_to": "Exodus 17:14",
+    "connected_from": "Exodus 17:12"
+  },
+  {
+    "text": "Then the LORD said to Moses, “Write this on a scroll as a reminder and recite it to Joshua, because I will utterly blot out the memory of Amalek from under heaven.”",
+    "reference": "Exodus 17:14 (BSB)",
+    "connected_to": "Exodus 17:15",
+    "connected_from": "Exodus 17:13"
+  },
+  {
+    "text": "And Moses built an altar and named it The LORD Is My Banner.",
+    "reference": "Exodus 17:15 (BSB)",
+    "connected_to": "Exodus 17:16",
+    "connected_from": "Exodus 17:14"
+  },
+  {
+    "text": "“Indeed,” he said, “a hand was lifted up toward the throne of the LORD. The LORD will war against Amalek from generation to generation.”",
+    "reference": "Exodus 17:16 (BSB)",
+    "connected_from": "Exodus 17:15"
+  }
+]

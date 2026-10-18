@@ -1,0 +1,210 @@
+[
+  {
+    "text": "And He entered into the synagogue again, and a man having a withered hand was there.",
+    "reference": "Mark 3:1 (BLB)",
+    "connected_to": "Mark 3:2"
+  },
+  {
+    "text": "And they were watching Him, whether He will heal him on the Sabbaths, so that they might accuse Him.",
+    "reference": "Mark 3:2 (BLB)",
+    "connected_to": "Mark 3:3",
+    "connected_from": "Mark 3:1"
+  },
+  {
+    "text": "And He says to the man having the withered hand, “Arise into the midst.”",
+    "reference": "Mark 3:3 (BLB)",
+    "connected_to": "Mark 3:4",
+    "connected_from": "Mark 3:2"
+  },
+  {
+    "text": "And He says to them, “Is it lawful on the Sabbaths to do good or to do evil, to save life or to kill?” But they were silent.",
+    "reference": "Mark 3:4 (BLB)",
+    "connected_to": "Mark 3:5",
+    "connected_from": "Mark 3:3"
+  },
+  {
+    "text": "And having looked around at them with anger, being grieved at the hardness of their heart, He says to the man, “Stretch out your hand.” And he stretched [it] out, and his hand was restored.",
+    "reference": "Mark 3:5 (BLB)",
+    "connected_to": "Mark 3:6",
+    "connected_from": "Mark 3:4"
+  },
+  {
+    "text": "And the Pharisees, having gone out, immediately were taking counsel with the Herodians against Him, how they might destroy Him.",
+    "reference": "Mark 3:6 (BLB)",
+    "connected_to": "Mark 3:7",
+    "connected_from": "Mark 3:5"
+  },
+  {
+    "text": "And Jesus withdrew with His disciples to the sea, and a great multitude from Galilee followed, and from Judea,",
+    "reference": "Mark 3:7 (BLB)",
+    "connected_to": "Mark 3:8",
+    "connected_from": "Mark 3:6"
+  },
+  {
+    "text": "and from Jerusalem, and from Idumea, and beyond the Jordan, and around Tyre and Sidon. A great multitude, having heard how much He was doing, came to Him.",
+    "reference": "Mark 3:8 (BLB)",
+    "connected_to": "Mark 3:9",
+    "connected_from": "Mark 3:7"
+  },
+  {
+    "text": "And He spoke to His disciples so that a boat may wait on Him because of the crowd, so that they might not press upon Him.",
+    "reference": "Mark 3:9 (BLB)",
+    "connected_to": "Mark 3:10",
+    "connected_from": "Mark 3:8"
+  },
+  {
+    "text": "For He healed many, so as for as many as had afflictions to fall upon Him so that they might touch Him.",
+    "reference": "Mark 3:10 (BLB)",
+    "connected_to": "Mark 3:11",
+    "connected_from": "Mark 3:9"
+  },
+  {
+    "text": "And the unclean spirits, when they were seeing Him, were falling down before Him and crying out, saying, “You are the Son of God!”",
+    "reference": "Mark 3:11 (BLB)",
+    "connected_to": "Mark 3:12",
+    "connected_from": "Mark 3:10"
+  },
+  {
+    "text": "And He was warning them much that they should not make Him known.",
+    "reference": "Mark 3:12 (BLB)",
+    "connected_to": "Mark 3:13",
+    "connected_from": "Mark 3:11"
+  },
+  {
+    "text": "And He goes up onto the mountain, and He summons those whom He Himself was wanting, and they went away to Him.",
+    "reference": "Mark 3:13 (BLB)",
+    "connected_to": "Mark 3:14",
+    "connected_from": "Mark 3:12"
+  },
+  {
+    "text": "And He appointed twelve, whom also He named apostles, that they might be with Him and that He might send them to preach",
+    "reference": "Mark 3:14 (BLB)",
+    "connected_to": "Mark 3:15",
+    "connected_from": "Mark 3:13"
+  },
+  {
+    "text": "and to have authority to cast out demons.",
+    "reference": "Mark 3:15 (BLB)",
+    "connected_to": "Mark 3:16",
+    "connected_from": "Mark 3:14"
+  },
+  {
+    "text": "And He appointed the Twelve: And to Simon He added the name Peter,",
+    "reference": "Mark 3:16 (BLB)",
+    "connected_to": "Mark 3:17",
+    "connected_from": "Mark 3:15"
+  },
+  {
+    "text": "and James the [son] of Zebedee and John the brother of James, and He added to them the name Boanerges, which is Sons of Thunder,",
+    "reference": "Mark 3:17 (BLB)",
+    "connected_to": "Mark 3:18",
+    "connected_from": "Mark 3:16"
+  },
+  {
+    "text": "and Andrew, and Philip, and Bartholomew, and Matthew, and Thomas, and James the [son] of Alphaeus, and Thaddaeus, and Simon the Cananean,",
+    "reference": "Mark 3:18 (BLB)",
+    "connected_to": "Mark 3:19",
+    "connected_from": "Mark 3:17"
+  },
+  {
+    "text": "and Judas Iscariot, who also betrayed Him.",
+    "reference": "Mark 3:19 (BLB)",
+    "connected_to": "Mark 3:20",
+    "connected_from": "Mark 3:18"
+  },
+  {
+    "text": "And He comes to a house and a crowd comes together again, so that not even are they able to eat bread.",
+    "reference": "Mark 3:20 (BLB)",
+    "connected_to": "Mark 3:21",
+    "connected_from": "Mark 3:19"
+  },
+  {
+    "text": "And having heard, those belonging to Him went out to seize Him; for they were saying that He was out of His mind.",
+    "reference": "Mark 3:21 (BLB)",
+    "connected_to": "Mark 3:22",
+    "connected_from": "Mark 3:20"
+  },
+  {
+    "text": "And the scribes, those from Jerusalem, having come down, were saying, “He has Beelzebul,” and, “By the ruler of the demons He casts out the demons.”",
+    "reference": "Mark 3:22 (BLB)",
+    "connected_to": "Mark 3:23",
+    "connected_from": "Mark 3:21"
+  },
+  {
+    "text": "And having summoned them, He was saying to them in parables, “How is Satan able to cast out Satan?",
+    "reference": "Mark 3:23 (BLB)",
+    "connected_to": "Mark 3:24",
+    "connected_from": "Mark 3:22"
+  },
+  {
+    "text": "And if a kingdom may be divided against itself, that kingdom is not able to stand.",
+    "reference": "Mark 3:24 (BLB)",
+    "connected_to": "Mark 3:25",
+    "connected_from": "Mark 3:23"
+  },
+  {
+    "text": "And if a house may be divided against itself, that house will not be able to stand.",
+    "reference": "Mark 3:25 (BLB)",
+    "connected_to": "Mark 3:26",
+    "connected_from": "Mark 3:24"
+  },
+  {
+    "text": "And if Satan rose up against himself and was divided, he is not able to stand, but he has an end.",
+    "reference": "Mark 3:26 (BLB)",
+    "connected_to": "Mark 3:27",
+    "connected_from": "Mark 3:25"
+  },
+  {
+    "text": "But no one is able, having entered into the house of the strong [man], to plunder his goods, unless first he should bind the strong [man]. And then he will plunder his house.",
+    "reference": "Mark 3:27 (BLB)",
+    "connected_to": "Mark 3:28",
+    "connected_from": "Mark 3:26"
+  },
+  {
+    "text": "Truly I say to you⁺ that all sins and blasphemies will be forgiven the sons of men, as many as they may blaspheme.",
+    "reference": "Mark 3:28 (BLB)",
+    "connected_to": "Mark 3:29",
+    "connected_from": "Mark 3:27"
+  },
+  {
+    "text": "But whoever may blaspheme in regard to the Holy Spirit does not have forgiveness to the age, but is guilty [of] eternal sin.”",
+    "reference": "Mark 3:29 (BLB)",
+    "connected_to": "Mark 3:30",
+    "connected_from": "Mark 3:28"
+  },
+  {
+    "text": "For they were saying, “He has an unclean spirit.”",
+    "reference": "Mark 3:30 (BLB)",
+    "connected_to": "Mark 3:31",
+    "connected_from": "Mark 3:29"
+  },
+  {
+    "text": "And His mother and His brothers come, and standing outside, they sent to Him, calling Him.",
+    "reference": "Mark 3:31 (BLB)",
+    "connected_to": "Mark 3:32",
+    "connected_from": "Mark 3:30"
+  },
+  {
+    "text": "And a crowd was sitting around Him, and they say to Him, “Behold, Your mother and Your brothers outside seek You.”",
+    "reference": "Mark 3:32 (BLB)",
+    "connected_to": "Mark 3:33",
+    "connected_from": "Mark 3:31"
+  },
+  {
+    "text": "And answering them, He says, “Who are My mother and My brothers?”",
+    "reference": "Mark 3:33 (BLB)",
+    "connected_to": "Mark 3:34",
+    "connected_from": "Mark 3:32"
+  },
+  {
+    "text": "And having looked around at those sitting around Him in a circle, He says, “Behold, My mother and My brothers!",
+    "reference": "Mark 3:34 (BLB)",
+    "connected_to": "Mark 3:35",
+    "connected_from": "Mark 3:33"
+  },
+  {
+    "text": "For whoever shall do the will of God, this is My brother and sister and mother.”",
+    "reference": "Mark 3:35 (BLB)",
+    "connected_from": "Mark 3:34"
+  }
+]

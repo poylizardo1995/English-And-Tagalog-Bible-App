@@ -1,0 +1,54 @@
+[
+  {
+    "text": "For the Leader. Maschil of David; when Doeg the Edomite came and told Saul, and said unto him: ‘David is come to the house of Ahimelech.’   Why boastest thou thyself of evil, O mighty man? The mercy of God endureth continually.",
+    "reference": "Psalm 52:1 (JPS)",
+    "connected_to": "Psalm 52:2"
+  },
+  {
+    "text": "Thy tongue deviseth destruction; Like a sharp razor, working deceitfully.",
+    "reference": "Psalm 52:2 (JPS)",
+    "connected_to": "Psalm 52:3",
+    "connected_from": "Psalm 52:1"
+  },
+  {
+    "text": "Thou lovest evil more than good; Falsehood rather than speaking righteousness.  Selah",
+    "reference": "Psalm 52:3 (JPS)",
+    "connected_to": "Psalm 52:4",
+    "connected_from": "Psalm 52:2"
+  },
+  {
+    "text": "Thou lovest all devouring words, The deceitful tongue.",
+    "reference": "Psalm 52:4 (JPS)",
+    "connected_to": "Psalm 52:5",
+    "connected_from": "Psalm 52:3"
+  },
+  {
+    "text": "God will likewise break thee for ever, He will take thee up, and pluck thee out of thy tent, And root thee out of the land of the living.  Selah",
+    "reference": "Psalm 52:5 (JPS)",
+    "connected_to": "Psalm 52:6",
+    "connected_from": "Psalm 52:4"
+  },
+  {
+    "text": "The righteous also shall see, and fear, And shall laugh at him:",
+    "reference": "Psalm 52:6 (JPS)",
+    "connected_to": "Psalm 52:7",
+    "connected_from": "Psalm 52:5"
+  },
+  {
+    "text": "Lo, this is the man that made not God his stronghold; But trusted in the abundance of his riches, And strengthened himself in his wickedness.’",
+    "reference": "Psalm 52:7 (JPS)",
+    "connected_to": "Psalm 52:8",
+    "connected_from": "Psalm 52:6"
+  },
+  {
+    "text": "But as for me, I am like a leafy olive-tree in the house of God; I trust in the mercy of God for ever and ever.",
+    "reference": "Psalm 52:8 (JPS)",
+    "connected_to": "Psalm 52:9",
+    "connected_from": "Psalm 52:7"
+  },
+  {
+    "text": "I will give Thee thanks for ever, because Thou hast done it; And I will wait for Thy name, for it is good, in the presence of Thy saints.",
+    "reference": "Psalm 52:9 (JPS)",
+    "connected_from": "Psalm 52:8"
+  }
+]

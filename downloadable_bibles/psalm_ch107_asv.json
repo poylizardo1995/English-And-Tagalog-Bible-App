@@ -1,0 +1,258 @@
+[
+  {
+    "text": "O give thanks unto Jehovah; for he is good; For his lovingkindness endureth for ever.",
+    "reference": "Psalm 107:1 (ASV)",
+    "connected_to": "Psalm 107:2"
+  },
+  {
+    "text": "Let the redeemed of Jehovah say so, Whom he hath redeemed from the hand of the adversary,",
+    "reference": "Psalm 107:2 (ASV)",
+    "connected_to": "Psalm 107:3",
+    "connected_from": "Psalm 107:1"
+  },
+  {
+    "text": "And gathered out of the lands, From the east and from the west, From the north and from the south.",
+    "reference": "Psalm 107:3 (ASV)",
+    "connected_to": "Psalm 107:4",
+    "connected_from": "Psalm 107:2"
+  },
+  {
+    "text": "They wandered in the wilderness in a desert way; They found no city of habitation.",
+    "reference": "Psalm 107:4 (ASV)",
+    "connected_to": "Psalm 107:5",
+    "connected_from": "Psalm 107:3"
+  },
+  {
+    "text": "Hungry and thirsty, Their soul fainted in them.",
+    "reference": "Psalm 107:5 (ASV)",
+    "connected_to": "Psalm 107:6",
+    "connected_from": "Psalm 107:4"
+  },
+  {
+    "text": "Then they cried unto Jehovah in their trouble, And he delivered them out of their distresses,",
+    "reference": "Psalm 107:6 (ASV)",
+    "connected_to": "Psalm 107:7",
+    "connected_from": "Psalm 107:5"
+  },
+  {
+    "text": "He led them also by a straight way, That they might go to a city of habitation.",
+    "reference": "Psalm 107:7 (ASV)",
+    "connected_to": "Psalm 107:8",
+    "connected_from": "Psalm 107:6"
+  },
+  {
+    "text": "Oh that men would praise Jehovah for his lovingkindness, And for his wonderful works to the children of men!",
+    "reference": "Psalm 107:8 (ASV)",
+    "connected_to": "Psalm 107:9",
+    "connected_from": "Psalm 107:7"
+  },
+  {
+    "text": "For he satisfieth the longing soul, And the hungry soul he filleth with good.",
+    "reference": "Psalm 107:9 (ASV)",
+    "connected_to": "Psalm 107:10",
+    "connected_from": "Psalm 107:8"
+  },
+  {
+    "text": "Such as sat in darkness and in the shadow of death, Being bound in affliction and iron,",
+    "reference": "Psalm 107:10 (ASV)",
+    "connected_to": "Psalm 107:11",
+    "connected_from": "Psalm 107:9"
+  },
+  {
+    "text": "Because they rebelled against the words of God, And contemned the counsel of the Most High:",
+    "reference": "Psalm 107:11 (ASV)",
+    "connected_to": "Psalm 107:12",
+    "connected_from": "Psalm 107:10"
+  },
+  {
+    "text": "Therefore he brought down their heart with labor; They fell down, and there was none to help.",
+    "reference": "Psalm 107:12 (ASV)",
+    "connected_to": "Psalm 107:13",
+    "connected_from": "Psalm 107:11"
+  },
+  {
+    "text": "Then they cried unto Jehovah in their trouble, And he saved them out of their distresses.",
+    "reference": "Psalm 107:13 (ASV)",
+    "connected_to": "Psalm 107:14",
+    "connected_from": "Psalm 107:12"
+  },
+  {
+    "text": "He brought them out of darkness and the shadow of death, And brake their bonds in sunder.",
+    "reference": "Psalm 107:14 (ASV)",
+    "connected_to": "Psalm 107:15",
+    "connected_from": "Psalm 107:13"
+  },
+  {
+    "text": "Oh that men would praise Jehovah for his lovingkindness, And for his wonderful works to the children of men!",
+    "reference": "Psalm 107:15 (ASV)",
+    "connected_to": "Psalm 107:16",
+    "connected_from": "Psalm 107:14"
+  },
+  {
+    "text": "For he hath broken the gates of brass, And cut the bars of iron in sunder.",
+    "reference": "Psalm 107:16 (ASV)",
+    "connected_to": "Psalm 107:17",
+    "connected_from": "Psalm 107:15"
+  },
+  {
+    "text": "Fools because of their transgression, And because of their iniquities, are afflicted.",
+    "reference": "Psalm 107:17 (ASV)",
+    "connected_to": "Psalm 107:18",
+    "connected_from": "Psalm 107:16"
+  },
+  {
+    "text": "Their soul abhorreth all manner of food; And they draw near unto the gates of death.",
+    "reference": "Psalm 107:18 (ASV)",
+    "connected_to": "Psalm 107:19",
+    "connected_from": "Psalm 107:17"
+  },
+  {
+    "text": "Then they cry unto Jehovah in their trouble, And he saveth them out of their distresses.",
+    "reference": "Psalm 107:19 (ASV)",
+    "connected_to": "Psalm 107:20",
+    "connected_from": "Psalm 107:18"
+  },
+  {
+    "text": "He sendeth his word, and healeth them, And delivereth them from their destructions.",
+    "reference": "Psalm 107:20 (ASV)",
+    "connected_to": "Psalm 107:21",
+    "connected_from": "Psalm 107:19"
+  },
+  {
+    "text": "Oh that men would praise Jehovah for his lovingkindness, And for his wonderful works to the children of men!",
+    "reference": "Psalm 107:21 (ASV)",
+    "connected_to": "Psalm 107:22",
+    "connected_from": "Psalm 107:20"
+  },
+  {
+    "text": "And let them offer the sacrifices of thanksgiving, And declare his works with singing.",
+    "reference": "Psalm 107:22 (ASV)",
+    "connected_to": "Psalm 107:23",
+    "connected_from": "Psalm 107:21"
+  },
+  {
+    "text": "They that go down to the sea in ships, That do business in great waters;",
+    "reference": "Psalm 107:23 (ASV)",
+    "connected_to": "Psalm 107:24",
+    "connected_from": "Psalm 107:22"
+  },
+  {
+    "text": "These see the works of Jehovah, And his wonders in the deep.",
+    "reference": "Psalm 107:24 (ASV)",
+    "connected_to": "Psalm 107:25",
+    "connected_from": "Psalm 107:23"
+  },
+  {
+    "text": "For he commandeth, and raiseth the stormy wind, Which lifteth up the waves thereof.",
+    "reference": "Psalm 107:25 (ASV)",
+    "connected_to": "Psalm 107:26",
+    "connected_from": "Psalm 107:24"
+  },
+  {
+    "text": "They mount up to the heavens, they go down again to the depths: Their soul melteth away because of trouble.",
+    "reference": "Psalm 107:26 (ASV)",
+    "connected_to": "Psalm 107:27",
+    "connected_from": "Psalm 107:25"
+  },
+  {
+    "text": "They reel to and fro, and stagger like a drunken man, And are at their wits’ end.",
+    "reference": "Psalm 107:27 (ASV)",
+    "connected_to": "Psalm 107:28",
+    "connected_from": "Psalm 107:26"
+  },
+  {
+    "text": "Then they cry unto Jehovah in their trouble, And he bringeth them out of their distresses.",
+    "reference": "Psalm 107:28 (ASV)",
+    "connected_to": "Psalm 107:29",
+    "connected_from": "Psalm 107:27"
+  },
+  {
+    "text": "He maketh the storm a calm, So that the waves thereof are still.",
+    "reference": "Psalm 107:29 (ASV)",
+    "connected_to": "Psalm 107:30",
+    "connected_from": "Psalm 107:28"
+  },
+  {
+    "text": "Then are they glad because they are quiet; So he bringeth them unto their desired haven.",
+    "reference": "Psalm 107:30 (ASV)",
+    "connected_to": "Psalm 107:31",
+    "connected_from": "Psalm 107:29"
+  },
+  {
+    "text": "Oh that men would praise Jehovah for his lovingkindness, And for his wonderful works to the children of men!",
+    "reference": "Psalm 107:31 (ASV)",
+    "connected_to": "Psalm 107:32",
+    "connected_from": "Psalm 107:30"
+  },
+  {
+    "text": "Let them exalt him also in the assembly of the people, And praise him in the seat of the elders.",
+    "reference": "Psalm 107:32 (ASV)",
+    "connected_to": "Psalm 107:33",
+    "connected_from": "Psalm 107:31"
+  },
+  {
+    "text": "He turneth rivers into a wilderness, And watersprings into a thirsty ground;",
+    "reference": "Psalm 107:33 (ASV)",
+    "connected_to": "Psalm 107:34",
+    "connected_from": "Psalm 107:32"
+  },
+  {
+    "text": "A fruitful land into a salt desert, For the wickedness of them that dwell therein.",
+    "reference": "Psalm 107:34 (ASV)",
+    "connected_to": "Psalm 107:35",
+    "connected_from": "Psalm 107:33"
+  },
+  {
+    "text": "He turneth a wilderness into a pool of water, And a dry land into watersprings.",
+    "reference": "Psalm 107:35 (ASV)",
+    "connected_to": "Psalm 107:36",
+    "connected_from": "Psalm 107:34"
+  },
+  {
+    "text": "And there he maketh the hungry to dwell, That they may prepare a city of habitation,",
+    "reference": "Psalm 107:36 (ASV)",
+    "connected_to": "Psalm 107:37",
+    "connected_from": "Psalm 107:35"
+  },
+  {
+    "text": "And sow fields, and plant vineyards, And get them fruits of increase.",
+    "reference": "Psalm 107:37 (ASV)",
+    "connected_to": "Psalm 107:38",
+    "connected_from": "Psalm 107:36"
+  },
+  {
+    "text": "He blesseth them also, so that they are multiplied greatly; And he suffereth not their cattle to decrease.",
+    "reference": "Psalm 107:38 (ASV)",
+    "connected_to": "Psalm 107:39",
+    "connected_from": "Psalm 107:37"
+  },
+  {
+    "text": "Again, they are diminished and bowed down Through oppression, trouble, and sorrow.",
+    "reference": "Psalm 107:39 (ASV)",
+    "connected_to": "Psalm 107:40",
+    "connected_from": "Psalm 107:38"
+  },
+  {
+    "text": "He poureth contempt upon princes, And causeth them to wander in the waste, where there is no way.",
+    "reference": "Psalm 107:40 (ASV)",
+    "connected_to": "Psalm 107:41",
+    "connected_from": "Psalm 107:39"
+  },
+  {
+    "text": "Yet setteth he the needy on high from affliction, And maketh him families like a flock.",
+    "reference": "Psalm 107:41 (ASV)",
+    "connected_to": "Psalm 107:42",
+    "connected_from": "Psalm 107:40"
+  },
+  {
+    "text": "The upright shall see it, and be glad; And all iniquity shall stop her mouth.",
+    "reference": "Psalm 107:42 (ASV)",
+    "connected_to": "Psalm 107:43",
+    "connected_from": "Psalm 107:41"
+  },
+  {
+    "text": "Whoso is wise will give heed to these things; And they will consider the lovingkindnesses of Jehovah.",
+    "reference": "Psalm 107:43 (ASV)",
+    "connected_from": "Psalm 107:42"
+  }
+]

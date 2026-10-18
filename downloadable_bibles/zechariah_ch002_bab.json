@@ -1,0 +1,78 @@
+[
+  {
+    "text": "Then I lifted up my eyes and saw a man with a measuring line in his hand.",
+    "reference": "Zechariah 2:1 (BAB)",
+    "connected_to": "Zechariah 2:2"
+  },
+  {
+    "text": "“Where are you going?” I asked. “To measure Jerusalem (city of peace),” he replied, “and to determine its width and length.”",
+    "reference": "Zechariah 2:2 (BAB)",
+    "connected_to": "Zechariah 2:3",
+    "connected_from": "Zechariah 2:1"
+  },
+  {
+    "text": "Then the angel who was speaking with me went forth, and another angel came forward to meet him",
+    "reference": "Zechariah 2:3 (BAB)",
+    "connected_to": "Zechariah 2:4",
+    "connected_from": "Zechariah 2:2"
+  },
+  {
+    "text": "and said to him, “Run and tell that young man: ‘Jerusalem (city of peace) will be a city without walls because of the multitude of men and livestock within it.",
+    "reference": "Zechariah 2:4 (BAB)",
+    "connected_to": "Zechariah 2:5",
+    "connected_from": "Zechariah 2:3"
+  },
+  {
+    "text": "For I will be a wall of fire around it, declares the LORD {YHWH}, and I will be the glory within it.’”",
+    "reference": "Zechariah 2:5 (BAB)",
+    "connected_to": "Zechariah 2:6",
+    "connected_from": "Zechariah 2:4"
+  },
+  {
+    "text": "“Get up! Get up! Flee from the land of the north,” declares the LORD {YHWH}, “for I have scattered you⁺ like the four winds {ruachowt} of heaven,” declares the LORD.",
+    "reference": "Zechariah 2:6 (BAB)",
+    "connected_to": "Zechariah 2:7",
+    "connected_from": "Zechariah 2:5"
+  },
+  {
+    "text": "“Get up, O Zion! Escape, you who dwell with the Daughter of Babylon (confusion by mixing)!”",
+    "reference": "Zechariah 2:7 (BAB)",
+    "connected_to": "Zechariah 2:8",
+    "connected_from": "Zechariah 2:6"
+  },
+  {
+    "text": "For this is what the LORD {YHWH} of Hosts says: “After His Glory has sent Me (After the Glorious One has sent Me) against the nations that have plundered you⁺—for whoever touches you⁺ touches the apple (the pupil) of His eye—",
+    "reference": "Zechariah 2:8 (BAB)",
+    "connected_to": "Zechariah 2:9",
+    "connected_from": "Zechariah 2:7"
+  },
+  {
+    "text": "I will surely wave My hand over them, so that they will become plunder for their own servants. Then you⁺ will know that the LORD {YHWH} of Hosts has sent Me.”",
+    "reference": "Zechariah 2:9 (BAB)",
+    "connected_to": "Zechariah 2:10",
+    "connected_from": "Zechariah 2:8"
+  },
+  {
+    "text": "“Shout for joy and be glad, O Daughter of Zion, for I am coming to dwell among you,” declares the LORD {YHWH}.",
+    "reference": "Zechariah 2:10 (BAB)",
+    "connected_to": "Zechariah 2:11",
+    "connected_from": "Zechariah 2:9"
+  },
+  {
+    "text": "“On that day many nations will join themselves to the LORD {YHWH}, and they will become My people. I will dwell among you, and you will know that the LORD of Hosts has sent Me to you.",
+    "reference": "Zechariah 2:11 (BAB)",
+    "connected_to": "Zechariah 2:12",
+    "connected_from": "Zechariah 2:10"
+  },
+  {
+    "text": "And the LORD {YHWH} will take possession of Judah (praised) as His portion in the Holy Land, and He will once again choose Jerusalem (city of peace).",
+    "reference": "Zechariah 2:12 (BAB)",
+    "connected_to": "Zechariah 2:13",
+    "connected_from": "Zechariah 2:11"
+  },
+  {
+    "text": "Be silent before the LORD {YHWH}, all people, for He has roused Himself from His holy dwelling.”",
+    "reference": "Zechariah 2:13 (BAB)",
+    "connected_from": "Zechariah 2:12"
+  }
+]

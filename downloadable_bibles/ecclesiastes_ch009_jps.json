@@ -1,0 +1,108 @@
+[
+  {
+    "text": "For all this I laid to my heart, even to make clear all this: that the righteous, and the wise, and their works, are in the hand of God; whether it be love or hatred, man knoweth it not; all is before them.",
+    "reference": "Ecclesiastes 9:1 (JPS)",
+    "connected_to": "Ecclesiastes 9:2"
+  },
+  {
+    "text": "All things come alike to all; there is one event to the righteous and to the wicked; to the good and to the clean and to the unclean; to him that sacrificeth and to him that sacrificeth not; as is the good, so is the sinner, and he that sweareth, as he that feareth an oath.",
+    "reference": "Ecclesiastes 9:2 (JPS)",
+    "connected_to": "Ecclesiastes 9:3",
+    "connected_from": "Ecclesiastes 9:1"
+  },
+  {
+    "text": "This is an evil in all that is done under the sun, that there is one event unto all; yea also, the heart of the sons of men is full of evil, and madness is in their heart while they live, and after that they go to the dead.",
+    "reference": "Ecclesiastes 9:3 (JPS)",
+    "connected_to": "Ecclesiastes 9:4",
+    "connected_from": "Ecclesiastes 9:2"
+  },
+  {
+    "text": "For to him that is joined to all the living there is hope; for a living dog is better than a dead lion.",
+    "reference": "Ecclesiastes 9:4 (JPS)",
+    "connected_to": "Ecclesiastes 9:5",
+    "connected_from": "Ecclesiastes 9:3"
+  },
+  {
+    "text": "For the living know that they shall die; but the dead know not any thing, neither have they any more a reward; for the memory of them is forgotten.",
+    "reference": "Ecclesiastes 9:5 (JPS)",
+    "connected_to": "Ecclesiastes 9:6",
+    "connected_from": "Ecclesiastes 9:4"
+  },
+  {
+    "text": "As well their love, as their hatred and their envy, is long ago perished; neither have they any more a portion for ever in any thing that is done under the sun.",
+    "reference": "Ecclesiastes 9:6 (JPS)",
+    "connected_to": "Ecclesiastes 9:7",
+    "connected_from": "Ecclesiastes 9:5"
+  },
+  {
+    "text": "Go thy way, eat thy bread with joy, And drink thy wine with a merry heart; For God hath already accepted thy works.",
+    "reference": "Ecclesiastes 9:7 (JPS)",
+    "connected_to": "Ecclesiastes 9:8",
+    "connected_from": "Ecclesiastes 9:6"
+  },
+  {
+    "text": "Let thy garments be always white; And let thy head lack no oil.",
+    "reference": "Ecclesiastes 9:8 (JPS)",
+    "connected_to": "Ecclesiastes 9:9",
+    "connected_from": "Ecclesiastes 9:7"
+  },
+  {
+    "text": "Enjoy life with the wife whom thou lovest all the days of the life of thy vanity, which He hath given thee under the sun, all the days of thy vanity; for that is thy portion in life, and in thy labour wherein thou labourest under the sun.",
+    "reference": "Ecclesiastes 9:9 (JPS)",
+    "connected_to": "Ecclesiastes 9:10",
+    "connected_from": "Ecclesiastes 9:8"
+  },
+  {
+    "text": "Whatsoever thy hand attaineth to do by thy strength, that do; for there is no work, nor device, nor knowledge, nor wisdom, in the grave, whither thou goest.",
+    "reference": "Ecclesiastes 9:10 (JPS)",
+    "connected_to": "Ecclesiastes 9:11",
+    "connected_from": "Ecclesiastes 9:9"
+  },
+  {
+    "text": "I returned, and saw under the sun, that the race is not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches to men of understanding, nor yet favour to men of skill; but time and chance happeneth to them all.",
+    "reference": "Ecclesiastes 9:11 (JPS)",
+    "connected_to": "Ecclesiastes 9:12",
+    "connected_from": "Ecclesiastes 9:10"
+  },
+  {
+    "text": "For man also knoweth not his time; as the fishes that are taken in an evil net, and as the birds that are caught in the snare, even so are the sons of men snared in an evil time, when it falleth suddenly upon them.",
+    "reference": "Ecclesiastes 9:12 (JPS)",
+    "connected_to": "Ecclesiastes 9:13",
+    "connected_from": "Ecclesiastes 9:11"
+  },
+  {
+    "text": "This also have I seen as wisdom under the sun, and it seemed great unto me:",
+    "reference": "Ecclesiastes 9:13 (JPS)",
+    "connected_to": "Ecclesiastes 9:14",
+    "connected_from": "Ecclesiastes 9:12"
+  },
+  {
+    "text": "there was a little city, and few men within it; and there came a great king against it, and besieged it, and built great bulwarks against it;",
+    "reference": "Ecclesiastes 9:14 (JPS)",
+    "connected_to": "Ecclesiastes 9:15",
+    "connected_from": "Ecclesiastes 9:13"
+  },
+  {
+    "text": "now there was found in it a man poor and wise, and he by his wisdom delivered the city; yet no man remembered that same poor man.",
+    "reference": "Ecclesiastes 9:15 (JPS)",
+    "connected_to": "Ecclesiastes 9:16",
+    "connected_from": "Ecclesiastes 9:14"
+  },
+  {
+    "text": "Then said I: ‘Wisdom is better than strength; nevertheless the poor man’s wisdom is despised, and his words are not heard.’",
+    "reference": "Ecclesiastes 9:16 (JPS)",
+    "connected_to": "Ecclesiastes 9:17",
+    "connected_from": "Ecclesiastes 9:15"
+  },
+  {
+    "text": "The words of the wise spoken in quiet Are more acceptable than the cry of a ruler among fools.",
+    "reference": "Ecclesiastes 9:17 (JPS)",
+    "connected_to": "Ecclesiastes 9:18",
+    "connected_from": "Ecclesiastes 9:16"
+  },
+  {
+    "text": "Wisdom is better than weapons of war; But one sinner destroyeth much good.",
+    "reference": "Ecclesiastes 9:18 (JPS)",
+    "connected_from": "Ecclesiastes 9:17"
+  }
+]

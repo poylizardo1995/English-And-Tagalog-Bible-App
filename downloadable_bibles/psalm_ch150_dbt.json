@@ -1,0 +1,36 @@
+[
+  {
+    "text": "Hallelujah! Praise God in his sanctuary; praise him in the firmament of his power.",
+    "reference": "Psalm 150:1 (DBT)",
+    "connected_to": "Psalm 150:2"
+  },
+  {
+    "text": "Praise him in his mighty acts; praise him according to the abundance of his greatness.",
+    "reference": "Psalm 150:2 (DBT)",
+    "connected_to": "Psalm 150:3",
+    "connected_from": "Psalm 150:1"
+  },
+  {
+    "text": "Praise him with the sound of the trumpet; praise him with lute and harp;",
+    "reference": "Psalm 150:3 (DBT)",
+    "connected_to": "Psalm 150:4",
+    "connected_from": "Psalm 150:2"
+  },
+  {
+    "text": "Praise him with the tambour and dance; praise him with stringed instruments and the pipe;",
+    "reference": "Psalm 150:4 (DBT)",
+    "connected_to": "Psalm 150:5",
+    "connected_from": "Psalm 150:3"
+  },
+  {
+    "text": "Praise him with loud cymbals; praise him with high sounding cymbals.",
+    "reference": "Psalm 150:5 (DBT)",
+    "connected_to": "Psalm 150:6",
+    "connected_from": "Psalm 150:4"
+  },
+  {
+    "text": "Let everything that hath breath praise Jah. Hallelujah!",
+    "reference": "Psalm 150:6 (DBT)",
+    "connected_from": "Psalm 150:5"
+  }
+]

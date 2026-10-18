@@ -1,0 +1,96 @@
+[
+  {
+    "text": "And so, the entire multitude of the sons of Israel, having set out from the desert of Sin in stages, according to the word of the Lord, made camp at Rephidim, where there was no water for the people to drink.",
+    "reference": "Exodus 17:1 (CPDV)",
+    "connected_to": "Exodus 17:2"
+  },
+  {
+    "text": "And arguing against Moses, they said, “Give us water, so that we may drink.” And Moses answered them: “Why argue against me? For what reason do you tempt the Lord?”",
+    "reference": "Exodus 17:2 (CPDV)",
+    "connected_to": "Exodus 17:3",
+    "connected_from": "Exodus 17:1"
+  },
+  {
+    "text": "And so the people were thirsty in that place, due to the scarcity of water, and they murmured against Moses, saying: “Why did you cause us to go out of Egypt, so as to kill us and our children, as well as our cattle, with thirst?”",
+    "reference": "Exodus 17:3 (CPDV)",
+    "connected_to": "Exodus 17:4",
+    "connected_from": "Exodus 17:2"
+  },
+  {
+    "text": "Then Moses cried out to the Lord, saying: “What shall I do with this people? A little while more and they will stone me.”",
+    "reference": "Exodus 17:4 (CPDV)",
+    "connected_to": "Exodus 17:5",
+    "connected_from": "Exodus 17:3"
+  },
+  {
+    "text": "And the Lord said to Moses: “Go before the people, and take with you some of the elders of Israel. And take in your hand the staff, with which you struck the river, and advance.",
+    "reference": "Exodus 17:5 (CPDV)",
+    "connected_to": "Exodus 17:6",
+    "connected_from": "Exodus 17:4"
+  },
+  {
+    "text": "Lo, I will stand in that place before you, on the rock of Horeb. And you shall strike the rock, and water will go forth from it, so that the people may drink.” Moses did so in the sight of the elders of Israel.",
+    "reference": "Exodus 17:6 (CPDV)",
+    "connected_to": "Exodus 17:7",
+    "connected_from": "Exodus 17:5"
+  },
+  {
+    "text": "And he called the name of that place ‘Temptation,’ because of the arguing of the sons of Israel, and because they tempted the Lord, saying: “Is the Lord with us, or not?”",
+    "reference": "Exodus 17:7 (CPDV)",
+    "connected_to": "Exodus 17:8",
+    "connected_from": "Exodus 17:6"
+  },
+  {
+    "text": "And Amalek came and fought against Israel at Rephidim.",
+    "reference": "Exodus 17:8 (CPDV)",
+    "connected_to": "Exodus 17:9",
+    "connected_from": "Exodus 17:7"
+  },
+  {
+    "text": "And Moses said to Joshua: “Choose men. And when you go out, fight against Amalek. Tomorrow, I will stand at the top of the hill, holding the staff of God in my hand.”",
+    "reference": "Exodus 17:9 (CPDV)",
+    "connected_to": "Exodus 17:10",
+    "connected_from": "Exodus 17:8"
+  },
+  {
+    "text": "Joshua did as Moses had spoken, and he fought against Amalek. But Moses and Aaron and Hur ascended to the top of the hill.",
+    "reference": "Exodus 17:10 (CPDV)",
+    "connected_to": "Exodus 17:11",
+    "connected_from": "Exodus 17:9"
+  },
+  {
+    "text": "And when Moses lifted up his hands, Israel prevailed. But when he released them a little while, Amalek overcame.",
+    "reference": "Exodus 17:11 (CPDV)",
+    "connected_to": "Exodus 17:12",
+    "connected_from": "Exodus 17:10"
+  },
+  {
+    "text": "Then the hands of Moses became heavy. And so, taking a stone, they placed it beneath him, and he sat on it. Then Aaron and Hur sustained his hands from both sides. And it happened that his hands did not tire until the setting of the sun.",
+    "reference": "Exodus 17:12 (CPDV)",
+    "connected_to": "Exodus 17:13",
+    "connected_from": "Exodus 17:11"
+  },
+  {
+    "text": "And Joshua put to flight Amalek and his people by the edge of the sword.",
+    "reference": "Exodus 17:13 (CPDV)",
+    "connected_to": "Exodus 17:14",
+    "connected_from": "Exodus 17:12"
+  },
+  {
+    "text": "Then the Lord said to Moses: “Write this, as a memorial in a book, and deliver it to the ears of Joshua. For I will wipe away the memory of Amalek from under heaven.”",
+    "reference": "Exodus 17:14 (CPDV)",
+    "connected_to": "Exodus 17:15",
+    "connected_from": "Exodus 17:13"
+  },
+  {
+    "text": "And Moses built an altar. And he called its name, ‘The Lord, my Exaltation.’ For he said:",
+    "reference": "Exodus 17:15 (CPDV)",
+    "connected_to": "Exodus 17:16",
+    "connected_from": "Exodus 17:14"
+  },
+  {
+    "text": "“The hand of the throne of the Lord, and the war of the Lord, will be against Amalek from generation to generation.”",
+    "reference": "Exodus 17:16 (CPDV)",
+    "connected_from": "Exodus 17:15"
+  }
+]

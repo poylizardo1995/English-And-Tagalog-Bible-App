@@ -1,0 +1,102 @@
+[
+  {
+    "text": "What causes conflicts and quarrels among you? Don’t they come from the passions at war within you?",
+    "reference": "James 4:1 (BSB)",
+    "connected_to": "James 4:2"
+  },
+  {
+    "text": "You crave what you do not have; you kill and covet, but are unable to obtain it. You quarrel and fight. You do not have, because you do not ask.",
+    "reference": "James 4:2 (BSB)",
+    "connected_to": "James 4:3",
+    "connected_from": "James 4:1"
+  },
+  {
+    "text": "And when you do ask, you do not receive, because you ask with wrong motives, that you may squander it on your pleasures.",
+    "reference": "James 4:3 (BSB)",
+    "connected_to": "James 4:4",
+    "connected_from": "James 4:2"
+  },
+  {
+    "text": "You adulteresses! Do you not know that friendship with the world is hostility toward God? Therefore, whoever chooses to be a friend of the world renders himself an enemy of God.",
+    "reference": "James 4:4 (BSB)",
+    "connected_to": "James 4:5",
+    "connected_from": "James 4:3"
+  },
+  {
+    "text": "Or do you think the Scripture says without reason that the Spirit He caused to dwell in us yearns with envy?",
+    "reference": "James 4:5 (BSB)",
+    "connected_to": "James 4:6",
+    "connected_from": "James 4:4"
+  },
+  {
+    "text": "But He gives us more grace. This is why it says: “God opposes the proud, but gives grace to the humble.”",
+    "reference": "James 4:6 (BSB)",
+    "connected_to": "James 4:7",
+    "connected_from": "James 4:5"
+  },
+  {
+    "text": "Submit yourselves, then, to God. Resist the devil, and he will flee from you.",
+    "reference": "James 4:7 (BSB)",
+    "connected_to": "James 4:8",
+    "connected_from": "James 4:6"
+  },
+  {
+    "text": "Draw near to God, and He will draw near to you. Cleanse your hands, you sinners, and purify your hearts, you double-minded.",
+    "reference": "James 4:8 (BSB)",
+    "connected_to": "James 4:9",
+    "connected_from": "James 4:7"
+  },
+  {
+    "text": "Grieve, mourn, and weep. Turn your laughter to mourning, and your joy to gloom.",
+    "reference": "James 4:9 (BSB)",
+    "connected_to": "James 4:10",
+    "connected_from": "James 4:8"
+  },
+  {
+    "text": "Humble yourselves before the Lord, and He will exalt you.",
+    "reference": "James 4:10 (BSB)",
+    "connected_to": "James 4:11",
+    "connected_from": "James 4:9"
+  },
+  {
+    "text": "Brothers, do not slander one another. Anyone who speaks against his brother or judges him speaks against the law and judges it. And if you judge the law, you are not a practitioner of the law, but a judge of it.",
+    "reference": "James 4:11 (BSB)",
+    "connected_to": "James 4:12",
+    "connected_from": "James 4:10"
+  },
+  {
+    "text": "There is only one Lawgiver and Judge, the One who is able to save and destroy. But who are you to judge your neighbor?",
+    "reference": "James 4:12 (BSB)",
+    "connected_to": "James 4:13",
+    "connected_from": "James 4:11"
+  },
+  {
+    "text": "Come now, you who say, “Today or tomorrow we will go to this or that city, spend a year there, carry on business, and make a profit.”",
+    "reference": "James 4:13 (BSB)",
+    "connected_to": "James 4:14",
+    "connected_from": "James 4:12"
+  },
+  {
+    "text": "You do not even know what will happen tomorrow! What is your life? You are a mist that appears for a little while and then vanishes.",
+    "reference": "James 4:14 (BSB)",
+    "connected_to": "James 4:15",
+    "connected_from": "James 4:13"
+  },
+  {
+    "text": "Instead, you ought to say, “If the Lord is willing, we will live and do this or that.”",
+    "reference": "James 4:15 (BSB)",
+    "connected_to": "James 4:16",
+    "connected_from": "James 4:14"
+  },
+  {
+    "text": "As it is, you boast in your proud intentions. All such boasting is evil.",
+    "reference": "James 4:16 (BSB)",
+    "connected_to": "James 4:17",
+    "connected_from": "James 4:15"
+  },
+  {
+    "text": "Anyone, then, who knows the right thing to do, yet fails to do it, is guilty of sin.",
+    "reference": "James 4:17 (BSB)",
+    "connected_from": "James 4:16"
+  }
+]

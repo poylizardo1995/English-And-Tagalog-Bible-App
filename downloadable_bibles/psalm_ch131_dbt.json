@@ -1,0 +1,18 @@
+[
+  {
+    "text": "{A Song of degrees. Of David.} Jehovah, my heart is not haughty, nor mine eyes lofty; neither do I exercise myself in great matters, and in things too wonderful for me.",
+    "reference": "Psalm 131:1 (DBT)",
+    "connected_to": "Psalm 131:2"
+  },
+  {
+    "text": "Surely I have restrained and composed my soul, like a weaned child with its mother: my soul within me is as a weaned child.",
+    "reference": "Psalm 131:2 (DBT)",
+    "connected_to": "Psalm 131:3",
+    "connected_from": "Psalm 131:1"
+  },
+  {
+    "text": "Let Israel hope in Jehovah, from henceforth and for evermore.",
+    "reference": "Psalm 131:3 (DBT)",
+    "connected_from": "Psalm 131:2"
+  }
+]

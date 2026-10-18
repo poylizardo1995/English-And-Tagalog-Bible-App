@@ -1,0 +1,66 @@
+[
+  {
+    "text": "O come, let us sing out to YHWH; let us shout to the Rock of our salvation!",
+    "reference": "Psalm 95:1 (BLB)",
+    "connected_to": "Psalm 95:2"
+  },
+  {
+    "text": "Let us come before His face with thanksgiving, let us shout joyfully with psalms to Him!",
+    "reference": "Psalm 95:2 (BLB)",
+    "connected_to": "Psalm 95:3",
+    "connected_from": "Psalm 95:1"
+  },
+  {
+    "text": "For a great God [is] YHWH, and the great King above all gods—",
+    "reference": "Psalm 95:3 (BLB)",
+    "connected_to": "Psalm 95:4",
+    "connected_from": "Psalm 95:2"
+  },
+  {
+    "text": "in whose hand [are] the depths of the earth, and the peaks of the mountains [are] unto Him,",
+    "reference": "Psalm 95:4 (BLB)",
+    "connected_to": "Psalm 95:5",
+    "connected_from": "Psalm 95:3"
+  },
+  {
+    "text": "[and] to whom [is] the sea, for He made it, and His hands formed the dry land.",
+    "reference": "Psalm 95:5 (BLB)",
+    "connected_to": "Psalm 95:6",
+    "connected_from": "Psalm 95:4"
+  },
+  {
+    "text": "O come, let us worship and bow down; let us kneel before the face of YHWH our Maker!",
+    "reference": "Psalm 95:6 (BLB)",
+    "connected_to": "Psalm 95:7",
+    "connected_from": "Psalm 95:5"
+  },
+  {
+    "text": "For He [is] our God, and we [are] the people of His pasture, and the sheep of His hand. Today, if you⁺ hear His voice:",
+    "reference": "Psalm 95:7 (BLB)",
+    "connected_to": "Psalm 95:8",
+    "connected_from": "Psalm 95:6"
+  },
+  {
+    "text": "You⁺ shall not harden your⁺ hearts, as [at] Meribah, as [in] the day at Massah in the wilderness,",
+    "reference": "Psalm 95:8 (BLB)",
+    "connected_to": "Psalm 95:9",
+    "connected_from": "Psalm 95:7"
+  },
+  {
+    "text": "when your⁺ fathers tested Me—they tried Me, even though they had seen My work.",
+    "reference": "Psalm 95:9 (BLB)",
+    "connected_to": "Psalm 95:10",
+    "connected_from": "Psalm 95:8"
+  },
+  {
+    "text": "Forty years I was repulsed by [that] generation, and I said, “They [are] a people going astray [in] heart, and they have not known My ways.”",
+    "reference": "Psalm 95:10 (BLB)",
+    "connected_to": "Psalm 95:11",
+    "connected_from": "Psalm 95:9"
+  },
+  {
+    "text": "So I swore in My anger, “They shall not come into My rest!”",
+    "reference": "Psalm 95:11 (BLB)",
+    "connected_from": "Psalm 95:10"
+  }
+]

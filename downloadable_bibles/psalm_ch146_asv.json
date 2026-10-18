@@ -1,0 +1,60 @@
+[
+  {
+    "text": "Praise ye Jehovah. Praise Jehovah, O my soul.",
+    "reference": "Psalm 146:1 (ASV)",
+    "connected_to": "Psalm 146:2"
+  },
+  {
+    "text": "While I live will I praise Jehovah: I will sing praises unto my God while I have any being.",
+    "reference": "Psalm 146:2 (ASV)",
+    "connected_to": "Psalm 146:3",
+    "connected_from": "Psalm 146:1"
+  },
+  {
+    "text": "Put not your trust in princes, Nor in the son of man, in whom there is no help.",
+    "reference": "Psalm 146:3 (ASV)",
+    "connected_to": "Psalm 146:4",
+    "connected_from": "Psalm 146:2"
+  },
+  {
+    "text": "His breath goeth forth, he returneth to his earth; In that very day his thoughts perish.",
+    "reference": "Psalm 146:4 (ASV)",
+    "connected_to": "Psalm 146:5",
+    "connected_from": "Psalm 146:3"
+  },
+  {
+    "text": "Happy is he that hath the God of Jacob for his help, Whose hope is in Jehovah his God:",
+    "reference": "Psalm 146:5 (ASV)",
+    "connected_to": "Psalm 146:6",
+    "connected_from": "Psalm 146:4"
+  },
+  {
+    "text": "Who made heaven and earth, The sea, and all that in them is; Who keepeth truth for ever;",
+    "reference": "Psalm 146:6 (ASV)",
+    "connected_to": "Psalm 146:7",
+    "connected_from": "Psalm 146:5"
+  },
+  {
+    "text": "Who executeth justice for the oppressed; Who giveth food to the hungry. Jehovah looseth the prisoners;",
+    "reference": "Psalm 146:7 (ASV)",
+    "connected_to": "Psalm 146:8",
+    "connected_from": "Psalm 146:6"
+  },
+  {
+    "text": "Jehovah openeth the eyes of the blind; Jehovah raiseth up them that are bowed down; Jehovah loveth the righteous;",
+    "reference": "Psalm 146:8 (ASV)",
+    "connected_to": "Psalm 146:9",
+    "connected_from": "Psalm 146:7"
+  },
+  {
+    "text": "Jehovah preserveth the sojourners; He upholdeth the fatherless and widow; But the way of the wicked he turneth upside down.",
+    "reference": "Psalm 146:9 (ASV)",
+    "connected_to": "Psalm 146:10",
+    "connected_from": "Psalm 146:8"
+  },
+  {
+    "text": "Jehovah will reign for ever, Thy God, O Zion, unto all generations. Praise ye Jehovah.",
+    "reference": "Psalm 146:10 (ASV)",
+    "connected_from": "Psalm 146:9"
+  }
+]

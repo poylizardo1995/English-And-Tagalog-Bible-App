@@ -1,0 +1,270 @@
+[
+  {
+    "text": "Therefore the whole multitude crying wept that night.",
+    "reference": "Numbers 14:1 (DRB)",
+    "connected_to": "Numbers 14:2"
+  },
+  {
+    "text": "And all the children of Israel murmured against Moses and Aaron, saying:",
+    "reference": "Numbers 14:2 (DRB)",
+    "connected_to": "Numbers 14:3",
+    "connected_from": "Numbers 14:1"
+  },
+  {
+    "text": "Would God that we had died in Egypt and would God we may die in this vast wilderness, and that the Lord may not bring us into this land, lest we fall by the sword, and our wives and children be led away captives. Is it not better to return into Egypt?",
+    "reference": "Numbers 14:3 (DRB)",
+    "connected_to": "Numbers 14:4",
+    "connected_from": "Numbers 14:2"
+  },
+  {
+    "text": "And they said one to another: Let us appoint a captain, and let us return into Egypt.",
+    "reference": "Numbers 14:4 (DRB)",
+    "connected_to": "Numbers 14:5",
+    "connected_from": "Numbers 14:3"
+  },
+  {
+    "text": "And when Moses and Aaron heard this, they fell down flat upon the ground before the multitude of the children of Israel.",
+    "reference": "Numbers 14:5 (DRB)",
+    "connected_to": "Numbers 14:6",
+    "connected_from": "Numbers 14:4"
+  },
+  {
+    "text": "But Josue the son of Nun, and Caleb the son of Jephone, who themselves also had viewed the land, rent their garments,",
+    "reference": "Numbers 14:6 (DRB)",
+    "connected_to": "Numbers 14:7",
+    "connected_from": "Numbers 14:5"
+  },
+  {
+    "text": "And said to all the multitude of the children of Israel: The land which we have gone round is very good:",
+    "reference": "Numbers 14:7 (DRB)",
+    "connected_to": "Numbers 14:8",
+    "connected_from": "Numbers 14:6"
+  },
+  {
+    "text": "If the Lord be favourable, he will bring us into it, and give us a land flowing with milk and honey.",
+    "reference": "Numbers 14:8 (DRB)",
+    "connected_to": "Numbers 14:9",
+    "connected_from": "Numbers 14:7"
+  },
+  {
+    "text": "Be not rebellious against the Lord: and fear ye not the people of this land, for we are able to eat them up as bread. All aid is gone from them: the Lord is with us, fear ye not.",
+    "reference": "Numbers 14:9 (DRB)",
+    "connected_to": "Numbers 14:10",
+    "connected_from": "Numbers 14:8"
+  },
+  {
+    "text": "And when all the multitude cried out, and would have stoned them, the glory of the Lord appeared over the tabernacle of the covenant to all the children of Israel.",
+    "reference": "Numbers 14:10 (DRB)",
+    "connected_to": "Numbers 14:11",
+    "connected_from": "Numbers 14:9"
+  },
+  {
+    "text": "And the Lord said to Moses: How long will this people detract me? how long will they not believe me for all the signs that I have wrought before them?",
+    "reference": "Numbers 14:11 (DRB)",
+    "connected_to": "Numbers 14:12",
+    "connected_from": "Numbers 14:10"
+  },
+  {
+    "text": "I will strike them therefore with pestilence, and will consume them: but thee I will make a ruler over a great nation, and a mightier than this is.",
+    "reference": "Numbers 14:12 (DRB)",
+    "connected_to": "Numbers 14:13",
+    "connected_from": "Numbers 14:11"
+  },
+  {
+    "text": "And Moses said to the Lord: That the Egyptians, from the midst of whom thou hast brought forth this people,",
+    "reference": "Numbers 14:13 (DRB)",
+    "connected_to": "Numbers 14:14",
+    "connected_from": "Numbers 14:12"
+  },
+  {
+    "text": "And the inhabitants of this land, (who have heard that thou, O Lord, art among this people, and art seen face to face, and thy cloud protecteth them, and thou goest before them in a pillar of a cloud by day, and in a pillar of fire by night,)",
+    "reference": "Numbers 14:14 (DRB)",
+    "connected_to": "Numbers 14:15",
+    "connected_from": "Numbers 14:13"
+  },
+  {
+    "text": "May hear that thou hast killed so great a multitude as it were one man and may say:",
+    "reference": "Numbers 14:15 (DRB)",
+    "connected_to": "Numbers 14:16",
+    "connected_from": "Numbers 14:14"
+  },
+  {
+    "text": "He could not bring the people into the land for which he had sworn, therefore did he kill them in the wilderness.",
+    "reference": "Numbers 14:16 (DRB)",
+    "connected_to": "Numbers 14:17",
+    "connected_from": "Numbers 14:15"
+  },
+  {
+    "text": "Let their the strength of the Lord be magnified, as thou hast sworn, saying:",
+    "reference": "Numbers 14:17 (DRB)",
+    "connected_to": "Numbers 14:18",
+    "connected_from": "Numbers 14:16"
+  },
+  {
+    "text": "The Lord is patient and full of mercy, taking away iniquity and wickedness, and leaving no man clear, who visitest the sins of the fathers upon the children unto the third and fourth generation.",
+    "reference": "Numbers 14:18 (DRB)",
+    "connected_to": "Numbers 14:19",
+    "connected_from": "Numbers 14:17"
+  },
+  {
+    "text": "Forgive, I beseech thee, the sins of this people, according to the greatness of thy mercy, as thou hast been merciful to them from their going out of Egypt unto this place.",
+    "reference": "Numbers 14:19 (DRB)",
+    "connected_to": "Numbers 14:20",
+    "connected_from": "Numbers 14:18"
+  },
+  {
+    "text": "And the Lord said: I have forgiven according to thy word.",
+    "reference": "Numbers 14:20 (DRB)",
+    "connected_to": "Numbers 14:21",
+    "connected_from": "Numbers 14:19"
+  },
+  {
+    "text": "As I live: and the whole earth shall be filled with the glory of the Lord.",
+    "reference": "Numbers 14:21 (DRB)",
+    "connected_to": "Numbers 14:22",
+    "connected_from": "Numbers 14:20"
+  },
+  {
+    "text": "But yet all the men that have seen my majesty, and the signs that I have done in Egypt, and in the wilderness, and have tempted me now ten times, and have not obeyed my voice,",
+    "reference": "Numbers 14:22 (DRB)",
+    "connected_to": "Numbers 14:23",
+    "connected_from": "Numbers 14:21"
+  },
+  {
+    "text": "Shall not see the land for which I aware to their fathers, neither shall any one of them that hath detracted me behold it.",
+    "reference": "Numbers 14:23 (DRB)",
+    "connected_to": "Numbers 14:24",
+    "connected_from": "Numbers 14:22"
+  },
+  {
+    "text": "My servant Caleb, who being full of another spirit hath followed me, I will bring into this land which he hath gone round: and his seed shall possess it.",
+    "reference": "Numbers 14:24 (DRB)",
+    "connected_to": "Numbers 14:25",
+    "connected_from": "Numbers 14:23"
+  },
+  {
+    "text": "For the Amalecite and the Chanaanite dwell in the valleys. To morrow remove the camp, and return into the wilderness by the way of the Red Sea.",
+    "reference": "Numbers 14:25 (DRB)",
+    "connected_to": "Numbers 14:26",
+    "connected_from": "Numbers 14:24"
+  },
+  {
+    "text": "And the Lord spoke to Moses and Aaron, saying:",
+    "reference": "Numbers 14:26 (DRB)",
+    "connected_to": "Numbers 14:27",
+    "connected_from": "Numbers 14:25"
+  },
+  {
+    "text": "How long doth this wicked multitude murmur against me? I have heard the murmurings of the children of Israel.",
+    "reference": "Numbers 14:27 (DRB)",
+    "connected_to": "Numbers 14:28",
+    "connected_from": "Numbers 14:26"
+  },
+  {
+    "text": "Say therefore to them: As I live, saith the Lord: According as you have spoken in my hearing, so will I do to you.",
+    "reference": "Numbers 14:28 (DRB)",
+    "connected_to": "Numbers 14:29",
+    "connected_from": "Numbers 14:27"
+  },
+  {
+    "text": "fin the wilderness shall your carcasses lie. All you that were numbered from twenty years old and upward, and have murmured against me,",
+    "reference": "Numbers 14:29 (DRB)",
+    "connected_to": "Numbers 14:30",
+    "connected_from": "Numbers 14:28"
+  },
+  {
+    "text": "Shall not enter into the land, over which I lifted up my bend to make you dwell therein, except Caleb the son of Jephone, and Josue the son of Nun.",
+    "reference": "Numbers 14:30 (DRB)",
+    "connected_to": "Numbers 14:31",
+    "connected_from": "Numbers 14:29"
+  },
+  {
+    "text": "But your children, of whom you said, that they should be a prey to the enemies, will I bring in: that they may see the land which you have despised.",
+    "reference": "Numbers 14:31 (DRB)",
+    "connected_to": "Numbers 14:32",
+    "connected_from": "Numbers 14:30"
+  },
+  {
+    "text": "Your carcasses shall lie in the wilderness.",
+    "reference": "Numbers 14:32 (DRB)",
+    "connected_to": "Numbers 14:33",
+    "connected_from": "Numbers 14:31"
+  },
+  {
+    "text": "Your children shall wander in the desert forty years, and shall bear your fornication, until the carcasses of their fathers be consumed ill the desert,",
+    "reference": "Numbers 14:33 (DRB)",
+    "connected_to": "Numbers 14:34",
+    "connected_from": "Numbers 14:32"
+  },
+  {
+    "text": "According to the number of the forty days, wherein you viewed the land: a year shall be counted for a day. And forty years you shall receive your iniquities, and shall know my revenge:",
+    "reference": "Numbers 14:34 (DRB)",
+    "connected_to": "Numbers 14:35",
+    "connected_from": "Numbers 14:33"
+  },
+  {
+    "text": "For as I have spoken, so will I do to all this wicked multitude, that hath risen up together against me: in this wilderness shall it faint away and die.",
+    "reference": "Numbers 14:35 (DRB)",
+    "connected_to": "Numbers 14:36",
+    "connected_from": "Numbers 14:34"
+  },
+  {
+    "text": "Therefore all the men, whom Moses had sent to view the land, and who at their return had made the whole multitude to murmur against him, speaking ill of the land that it was naught,",
+    "reference": "Numbers 14:36 (DRB)",
+    "connected_to": "Numbers 14:37",
+    "connected_from": "Numbers 14:35"
+  },
+  {
+    "text": "Died and were struck in the sight of the Lord.",
+    "reference": "Numbers 14:37 (DRB)",
+    "connected_to": "Numbers 14:38",
+    "connected_from": "Numbers 14:36"
+  },
+  {
+    "text": "But Josue.the son of Nun. and Caleb the son of Jephone lived, of all them that had gone to view the land.",
+    "reference": "Numbers 14:38 (DRB)",
+    "connected_to": "Numbers 14:39",
+    "connected_from": "Numbers 14:37"
+  },
+  {
+    "text": "And Moses spoke all these words to all the children of Israel, and the people mourned exceedingly.",
+    "reference": "Numbers 14:39 (DRB)",
+    "connected_to": "Numbers 14:40",
+    "connected_from": "Numbers 14:38"
+  },
+  {
+    "text": "And behold rising up very early in the morning, they went up to the top of the mountain, and said: We are ready to go up to the place, of which the Lord hath spoken: for we have sinned.",
+    "reference": "Numbers 14:40 (DRB)",
+    "connected_to": "Numbers 14:41",
+    "connected_from": "Numbers 14:39"
+  },
+  {
+    "text": "And Moses said to them: Why transgress you the word of the Lord, which shall not succeed prosperously with you?",
+    "reference": "Numbers 14:41 (DRB)",
+    "connected_to": "Numbers 14:42",
+    "connected_from": "Numbers 14:40"
+  },
+  {
+    "text": "Go not up, for the Lord is not with you: lest you fall before your enemies.",
+    "reference": "Numbers 14:42 (DRB)",
+    "connected_to": "Numbers 14:43",
+    "connected_from": "Numbers 14:41"
+  },
+  {
+    "text": "The Amalecite and the Chanaanite are before you, and by their sword you shall fall, because you would not consent to the Lord, neither will the Lord be with you.",
+    "reference": "Numbers 14:43 (DRB)",
+    "connected_to": "Numbers 14:44",
+    "connected_from": "Numbers 14:42"
+  },
+  {
+    "text": "But they being blinded went up to the top of the mountain. But the ark of the testament of the Lord and Moses departed not from the camp.",
+    "reference": "Numbers 14:44 (DRB)",
+    "connected_to": "Numbers 14:45",
+    "connected_from": "Numbers 14:43"
+  },
+  {
+    "text": "And the Amalecite came down, and the Chanaanite that dwelt in the mountain: and smiting and slaying them pursued them as far as Horma.",
+    "reference": "Numbers 14:45 (DRB)",
+    "connected_from": "Numbers 14:44"
+  }
+]

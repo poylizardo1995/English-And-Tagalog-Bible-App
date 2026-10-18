@@ -1,0 +1,180 @@
+[
+  {
+    "text": "Wine is a scorner, strong drink is raging; and whoso erreth thereby is not wise.",
+    "reference": "Proverbs 20:1 (DBT)",
+    "connected_to": "Proverbs 20:2"
+  },
+  {
+    "text": "The terror of a king is as the roaring of a lion: he that provoketh him to anger sinneth against his own soul.",
+    "reference": "Proverbs 20:2 (DBT)",
+    "connected_to": "Proverbs 20:3",
+    "connected_from": "Proverbs 20:1"
+  },
+  {
+    "text": "It is an honour for a man to cease from strife; but every fool rusheth into it.",
+    "reference": "Proverbs 20:3 (DBT)",
+    "connected_to": "Proverbs 20:4",
+    "connected_from": "Proverbs 20:2"
+  },
+  {
+    "text": "The sluggard will not plough by reason of the winter; he shall beg in harvest, and have nothing.",
+    "reference": "Proverbs 20:4 (DBT)",
+    "connected_to": "Proverbs 20:5",
+    "connected_from": "Proverbs 20:3"
+  },
+  {
+    "text": "Counsel in the heart of man is deep water, and a man of understanding draweth it out.",
+    "reference": "Proverbs 20:5 (DBT)",
+    "connected_to": "Proverbs 20:6",
+    "connected_from": "Proverbs 20:4"
+  },
+  {
+    "text": "Most men will proclaim every one his own kindness; but a faithful man who shall find?",
+    "reference": "Proverbs 20:6 (DBT)",
+    "connected_to": "Proverbs 20:7",
+    "connected_from": "Proverbs 20:5"
+  },
+  {
+    "text": "The righteous walketh in his integrity: blessed are his children after him!",
+    "reference": "Proverbs 20:7 (DBT)",
+    "connected_to": "Proverbs 20:8",
+    "connected_from": "Proverbs 20:6"
+  },
+  {
+    "text": "A king sitting on the throne of judgment scattereth away all evil with his eyes.",
+    "reference": "Proverbs 20:8 (DBT)",
+    "connected_to": "Proverbs 20:9",
+    "connected_from": "Proverbs 20:7"
+  },
+  {
+    "text": "Who can say, I have made my heart clean, I am pure from my sin?",
+    "reference": "Proverbs 20:9 (DBT)",
+    "connected_to": "Proverbs 20:10",
+    "connected_from": "Proverbs 20:8"
+  },
+  {
+    "text": "Divers weights, divers measures, even both of them are abomination to Jehovah.",
+    "reference": "Proverbs 20:10 (DBT)",
+    "connected_to": "Proverbs 20:11",
+    "connected_from": "Proverbs 20:9"
+  },
+  {
+    "text": "Even a child is known by his doings, whether his work be pure, and whether it be right.",
+    "reference": "Proverbs 20:11 (DBT)",
+    "connected_to": "Proverbs 20:12",
+    "connected_from": "Proverbs 20:10"
+  },
+  {
+    "text": "The hearing ear, and the seeing eye, Jehovah hath made even both of them.",
+    "reference": "Proverbs 20:12 (DBT)",
+    "connected_to": "Proverbs 20:13",
+    "connected_from": "Proverbs 20:11"
+  },
+  {
+    "text": "Love not sleep, lest thou come to poverty; open thine eyes, [and] thou shalt be satisfied with bread.",
+    "reference": "Proverbs 20:13 (DBT)",
+    "connected_to": "Proverbs 20:14",
+    "connected_from": "Proverbs 20:12"
+  },
+  {
+    "text": "Bad! bad! saith the buyer; but when he is gone his way, then he boasteth.",
+    "reference": "Proverbs 20:14 (DBT)",
+    "connected_to": "Proverbs 20:15",
+    "connected_from": "Proverbs 20:13"
+  },
+  {
+    "text": "There is gold, and a multitude of rubies; but the lips of knowledge are a precious Jewel.",
+    "reference": "Proverbs 20:15 (DBT)",
+    "connected_to": "Proverbs 20:16",
+    "connected_from": "Proverbs 20:14"
+  },
+  {
+    "text": "Take his garment that is become surety [for] another, and hold him in pledge for strangers.",
+    "reference": "Proverbs 20:16 (DBT)",
+    "connected_to": "Proverbs 20:17",
+    "connected_from": "Proverbs 20:15"
+  },
+  {
+    "text": "Bread of falsehood is sweet to a man, but afterwards his mouth shall be filled with gravel.",
+    "reference": "Proverbs 20:17 (DBT)",
+    "connected_to": "Proverbs 20:18",
+    "connected_from": "Proverbs 20:16"
+  },
+  {
+    "text": "Plans are established by counsel; and with good advice make war.",
+    "reference": "Proverbs 20:18 (DBT)",
+    "connected_to": "Proverbs 20:19",
+    "connected_from": "Proverbs 20:17"
+  },
+  {
+    "text": "He that goeth about talebearing revealeth secrets; therefore meddle not with him that openeth his lips.",
+    "reference": "Proverbs 20:19 (DBT)",
+    "connected_to": "Proverbs 20:20",
+    "connected_from": "Proverbs 20:18"
+  },
+  {
+    "text": "Whoso curseth his father or his mother, his lamp shall be put out in the blackest darkness.",
+    "reference": "Proverbs 20:20 (DBT)",
+    "connected_to": "Proverbs 20:21",
+    "connected_from": "Proverbs 20:19"
+  },
+  {
+    "text": "An inheritance obtained hastily at the beginning will not be blessed in the end.",
+    "reference": "Proverbs 20:21 (DBT)",
+    "connected_to": "Proverbs 20:22",
+    "connected_from": "Proverbs 20:20"
+  },
+  {
+    "text": "Say not, I will recompense evil: wait on Jehovah, and he shall save thee.",
+    "reference": "Proverbs 20:22 (DBT)",
+    "connected_to": "Proverbs 20:23",
+    "connected_from": "Proverbs 20:21"
+  },
+  {
+    "text": "Divers weights are an abomination unto Jehovah; and a false balance is not good.",
+    "reference": "Proverbs 20:23 (DBT)",
+    "connected_to": "Proverbs 20:24",
+    "connected_from": "Proverbs 20:22"
+  },
+  {
+    "text": "The steps of a man are from Jehovah; and how can a man understand his own way?",
+    "reference": "Proverbs 20:24 (DBT)",
+    "connected_to": "Proverbs 20:25",
+    "connected_from": "Proverbs 20:23"
+  },
+  {
+    "text": "It is a snare to a man rashly to say, It is hallowed, and after vows to make inquiry.",
+    "reference": "Proverbs 20:25 (DBT)",
+    "connected_to": "Proverbs 20:26",
+    "connected_from": "Proverbs 20:24"
+  },
+  {
+    "text": "A wise king scattereth the wicked, and bringeth the wheel over them.",
+    "reference": "Proverbs 20:26 (DBT)",
+    "connected_to": "Proverbs 20:27",
+    "connected_from": "Proverbs 20:25"
+  },
+  {
+    "text": "Man’s spirit is the lamp of Jehovah, searching all the inner parts of the belly.",
+    "reference": "Proverbs 20:27 (DBT)",
+    "connected_to": "Proverbs 20:28",
+    "connected_from": "Proverbs 20:26"
+  },
+  {
+    "text": "Mercy and truth preserve the king; and he upholdeth his throne by mercy.",
+    "reference": "Proverbs 20:28 (DBT)",
+    "connected_to": "Proverbs 20:29",
+    "connected_from": "Proverbs 20:27"
+  },
+  {
+    "text": "The glory of young men is their strength; and the beauty of old men is the grey head.",
+    "reference": "Proverbs 20:29 (DBT)",
+    "connected_to": "Proverbs 20:30",
+    "connected_from": "Proverbs 20:28"
+  },
+  {
+    "text": "Wounding stripes purge away evil, and strokes [purge] the inner parts of the belly.",
+    "reference": "Proverbs 20:30 (DBT)",
+    "connected_from": "Proverbs 20:29"
+  }
+]

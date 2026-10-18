@@ -1,0 +1,78 @@
+[
+  {
+    "text": "For the one directing. A Psalm of David. A Song. <span class=|reftext|><a href=|#|><b>1</b></a> To You praise [is] waiting, O God, in Zion, and to You the vow will be fulfilled.",
+    "reference": "Psalm 65:1 (BLB)",
+    "connected_to": "Psalm 65:2"
+  },
+  {
+    "text": "O Hearer of prayer, to You all flesh will come.",
+    "reference": "Psalm 65:2 (BLB)",
+    "connected_to": "Psalm 65:3",
+    "connected_from": "Psalm 65:1"
+  },
+  {
+    "text": "Matters of iniquities prevail against me—our transgressions, You wipe them away!",
+    "reference": "Psalm 65:3 (BLB)",
+    "connected_to": "Psalm 65:4",
+    "connected_from": "Psalm 65:2"
+  },
+  {
+    "text": "Blessed [is the one] You choose and bring near, [that] he may dwell in Your courts; we will be satisfied with the goodness of Your house, the holiness of Your temple.",
+    "reference": "Psalm 65:4 (BLB)",
+    "connected_to": "Psalm 65:5",
+    "connected_from": "Psalm 65:3"
+  },
+  {
+    "text": "[With] fearsome [things], may You answer us in righteousness, O God of our salvation, the confidence [for] all the farthest ends of the earth and the sea,",
+    "reference": "Psalm 65:5 (BLB)",
+    "connected_to": "Psalm 65:6",
+    "connected_from": "Psalm 65:4"
+  },
+  {
+    "text": "the One establishing the mountains by His strength, being girded with might,",
+    "reference": "Psalm 65:6 (BLB)",
+    "connected_to": "Psalm 65:7",
+    "connected_from": "Psalm 65:5"
+  },
+  {
+    "text": "stilling the roaring of the seas, the roar of their waves, and the uproar of the peoples.",
+    "reference": "Psalm 65:7 (BLB)",
+    "connected_to": "Psalm 65:8",
+    "connected_from": "Psalm 65:6"
+  },
+  {
+    "text": "And those dwelling [at] the ends were afraid of Your signs; the goings forth of morning and evening You cause to sing.",
+    "reference": "Psalm 65:8 (BLB)",
+    "connected_to": "Psalm 65:9",
+    "connected_from": "Psalm 65:7"
+  },
+  {
+    "text": "You attend to the earth and give it abundance; greatly You enrich it; the stream of God is full of water; You provide their grain when thus You prepare it—",
+    "reference": "Psalm 65:9 (BLB)",
+    "connected_to": "Psalm 65:10",
+    "connected_from": "Psalm 65:8"
+  },
+  {
+    "text": "soaking its furrows, descending [on] its ridges; with showers You soften it; its springing up You bless.",
+    "reference": "Psalm 65:10 (BLB)",
+    "connected_to": "Psalm 65:11",
+    "connected_from": "Psalm 65:9"
+  },
+  {
+    "text": "You crown the year [with] Your goodness, and Your tracks drip [with] fatness.",
+    "reference": "Psalm 65:11 (BLB)",
+    "connected_to": "Psalm 65:12",
+    "connected_from": "Psalm 65:10"
+  },
+  {
+    "text": "They drip [on] the pastures of the wilderness, and the hills are surrounded [with] joy.",
+    "reference": "Psalm 65:12 (BLB)",
+    "connected_to": "Psalm 65:13",
+    "connected_from": "Psalm 65:11"
+  },
+  {
+    "text": "The meadows are clothed [with] the flock, and the valleys are feeble with grain—they shout [for joy] [and] even sing.",
+    "reference": "Psalm 65:13 (BLB)",
+    "connected_from": "Psalm 65:12"
+  }
+]

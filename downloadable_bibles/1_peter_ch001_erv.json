@@ -1,0 +1,150 @@
+[
+  {
+    "text": "Peter, an apostle of Jesus Christ, to the elect who are sojourners of the Dispersion in Pontus, Galatia, Cappadocia, Asia, and Bithynia,",
+    "reference": "1 Peter 1:1 (ERV)",
+    "connected_to": "1 Peter 1:2"
+  },
+  {
+    "text": "according to the foreknowledge of God the Father, in sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ: Grace to you and peace be multiplied.",
+    "reference": "1 Peter 1:2 (ERV)",
+    "connected_to": "1 Peter 1:3",
+    "connected_from": "1 Peter 1:1"
+  },
+  {
+    "text": "Blessed be the God and Father of our Lord Jesus Christ, who according to his great mercy begat us again unto a living hope by the resurrection of Jesus Christ from the dead,",
+    "reference": "1 Peter 1:3 (ERV)",
+    "connected_to": "1 Peter 1:4",
+    "connected_from": "1 Peter 1:2"
+  },
+  {
+    "text": "unto an inheritance incorruptible, and undefiled, and that fadeth not away, reserved in heaven for you,",
+    "reference": "1 Peter 1:4 (ERV)",
+    "connected_to": "1 Peter 1:5",
+    "connected_from": "1 Peter 1:3"
+  },
+  {
+    "text": "who by the power of God are guarded through faith unto a salvation ready to be revealed in the last time.",
+    "reference": "1 Peter 1:5 (ERV)",
+    "connected_to": "1 Peter 1:6",
+    "connected_from": "1 Peter 1:4"
+  },
+  {
+    "text": "Wherein ye greatly rejoice, though now for a little while, if need be, ye have been put to grief in manifold temptations,",
+    "reference": "1 Peter 1:6 (ERV)",
+    "connected_to": "1 Peter 1:7",
+    "connected_from": "1 Peter 1:5"
+  },
+  {
+    "text": "that the proof of your faith, being more precious than gold that perisheth though it is proved by fire, might be found unto praise and glory and honour at the revelation of Jesus Christ:",
+    "reference": "1 Peter 1:7 (ERV)",
+    "connected_to": "1 Peter 1:8",
+    "connected_from": "1 Peter 1:6"
+  },
+  {
+    "text": "whom not having seen ye love; on whom, though now ye see him not, yet believing, ye rejoice greatly with joy unspeakable and full of glory:",
+    "reference": "1 Peter 1:8 (ERV)",
+    "connected_to": "1 Peter 1:9",
+    "connected_from": "1 Peter 1:7"
+  },
+  {
+    "text": "receiving the end of your faith, even the salvation of your souls.",
+    "reference": "1 Peter 1:9 (ERV)",
+    "connected_to": "1 Peter 1:10",
+    "connected_from": "1 Peter 1:8"
+  },
+  {
+    "text": "Concerning which salvation the prophets sought and searched diligently, who prophesied of the grace that should come unto you:",
+    "reference": "1 Peter 1:10 (ERV)",
+    "connected_to": "1 Peter 1:11",
+    "connected_from": "1 Peter 1:9"
+  },
+  {
+    "text": "searching what time or what manner of time the Spirit of Christ which was in them did point unto, when it testified beforehand the sufferings of Christ, and the glories that should follow them.",
+    "reference": "1 Peter 1:11 (ERV)",
+    "connected_to": "1 Peter 1:12",
+    "connected_from": "1 Peter 1:10"
+  },
+  {
+    "text": "To whom it was revealed, that not unto themselves, but unto you, did they minister these things, which now have been announced unto you through them that preached the gospel unto you by the Holy Ghost sent forth from heaven; which things angels desire to look into.",
+    "reference": "1 Peter 1:12 (ERV)",
+    "connected_to": "1 Peter 1:13",
+    "connected_from": "1 Peter 1:11"
+  },
+  {
+    "text": "Wherefore girding up the loins of your mind, be sober and set your hope perfectly on the grace that is to be brought unto you at the revelation of Jesus Christ;",
+    "reference": "1 Peter 1:13 (ERV)",
+    "connected_to": "1 Peter 1:14",
+    "connected_from": "1 Peter 1:12"
+  },
+  {
+    "text": "as children of obedience, not fashioning yourselves according to your former lusts in the time of your ignorance:",
+    "reference": "1 Peter 1:14 (ERV)",
+    "connected_to": "1 Peter 1:15",
+    "connected_from": "1 Peter 1:13"
+  },
+  {
+    "text": "but like as he which called you is holy, be ye yourselves also holy in all manner of living;",
+    "reference": "1 Peter 1:15 (ERV)",
+    "connected_to": "1 Peter 1:16",
+    "connected_from": "1 Peter 1:14"
+  },
+  {
+    "text": "because it is written, Ye shall be holy; for I am holy.",
+    "reference": "1 Peter 1:16 (ERV)",
+    "connected_to": "1 Peter 1:17",
+    "connected_from": "1 Peter 1:15"
+  },
+  {
+    "text": "And if ye call on him as Father, who without respect of persons judgeth according to each man’s work, pass the time of your sojourning in fear:",
+    "reference": "1 Peter 1:17 (ERV)",
+    "connected_to": "1 Peter 1:18",
+    "connected_from": "1 Peter 1:16"
+  },
+  {
+    "text": "knowing that ye were redeemed, not with corruptible things, with silver or gold, from your vain manner of life handed down from your fathers;",
+    "reference": "1 Peter 1:18 (ERV)",
+    "connected_to": "1 Peter 1:19",
+    "connected_from": "1 Peter 1:17"
+  },
+  {
+    "text": "but with precious blood, as of a lamb without blemish and without spot, even the blood of Christ:",
+    "reference": "1 Peter 1:19 (ERV)",
+    "connected_to": "1 Peter 1:20",
+    "connected_from": "1 Peter 1:18"
+  },
+  {
+    "text": "who was foreknown indeed before the foundation of the world, but was manifested at the end of the times for your sake,",
+    "reference": "1 Peter 1:20 (ERV)",
+    "connected_to": "1 Peter 1:21",
+    "connected_from": "1 Peter 1:19"
+  },
+  {
+    "text": "who through him are believers in God, which raised him from the dead, and gave him glory; so that your faith and hope might be in God.",
+    "reference": "1 Peter 1:21 (ERV)",
+    "connected_to": "1 Peter 1:22",
+    "connected_from": "1 Peter 1:20"
+  },
+  {
+    "text": "Seeing ye have purified your souls in your obedience to the truth unto unfeigned love of the brethren, love one another from the heart fervently:",
+    "reference": "1 Peter 1:22 (ERV)",
+    "connected_to": "1 Peter 1:23",
+    "connected_from": "1 Peter 1:21"
+  },
+  {
+    "text": "having been begotten again, not of corruptible seed, but of incorruptible, through the word of God, which liveth and abideth.",
+    "reference": "1 Peter 1:23 (ERV)",
+    "connected_to": "1 Peter 1:24",
+    "connected_from": "1 Peter 1:22"
+  },
+  {
+    "text": "For, All flesh is as grass, And all the glory thereof as the flower of grass. The grass withereth, and the flower falleth:",
+    "reference": "1 Peter 1:24 (ERV)",
+    "connected_to": "1 Peter 1:25",
+    "connected_from": "1 Peter 1:23"
+  },
+  {
+    "text": "But the word of the Lord abideth for ever. And this is the word of good tidings which was preached unto you.",
+    "reference": "1 Peter 1:25 (ERV)",
+    "connected_from": "1 Peter 1:24"
+  }
+]

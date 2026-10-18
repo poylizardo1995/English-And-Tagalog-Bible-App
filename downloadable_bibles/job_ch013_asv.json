@@ -1,0 +1,168 @@
+[
+  {
+    "text": "Lo, mine eye hath seen all this, Mine ear hath heard and understood it.",
+    "reference": "Job 13:1 (ASV)",
+    "connected_to": "Job 13:2"
+  },
+  {
+    "text": "What ye know, the same do I know also: I am not inferior unto you.",
+    "reference": "Job 13:2 (ASV)",
+    "connected_to": "Job 13:3",
+    "connected_from": "Job 13:1"
+  },
+  {
+    "text": "Surely I would speak to the Almighty, And I desire to reason with God.",
+    "reference": "Job 13:3 (ASV)",
+    "connected_to": "Job 13:4",
+    "connected_from": "Job 13:2"
+  },
+  {
+    "text": "But ye are forgers of lies; Ye are all physicians of no value.",
+    "reference": "Job 13:4 (ASV)",
+    "connected_to": "Job 13:5",
+    "connected_from": "Job 13:3"
+  },
+  {
+    "text": "Oh that ye would altogether hold your peace! And it would be your wisdom.",
+    "reference": "Job 13:5 (ASV)",
+    "connected_to": "Job 13:6",
+    "connected_from": "Job 13:4"
+  },
+  {
+    "text": "Hear now my reasoning, And hearken to the pleadings of my lips.",
+    "reference": "Job 13:6 (ASV)",
+    "connected_to": "Job 13:7",
+    "connected_from": "Job 13:5"
+  },
+  {
+    "text": "Will ye speak unrighteously for God, And talk deceitfully for him?",
+    "reference": "Job 13:7 (ASV)",
+    "connected_to": "Job 13:8",
+    "connected_from": "Job 13:6"
+  },
+  {
+    "text": "Will ye show partiality to him? Will ye contend for God?",
+    "reference": "Job 13:8 (ASV)",
+    "connected_to": "Job 13:9",
+    "connected_from": "Job 13:7"
+  },
+  {
+    "text": "Is it good that he should search you out? Or as one deceiveth a man, will ye deceive him?",
+    "reference": "Job 13:9 (ASV)",
+    "connected_to": "Job 13:10",
+    "connected_from": "Job 13:8"
+  },
+  {
+    "text": "He will surely reprove you, If ye do secretly show partiality.",
+    "reference": "Job 13:10 (ASV)",
+    "connected_to": "Job 13:11",
+    "connected_from": "Job 13:9"
+  },
+  {
+    "text": "Shall not his majesty make you afraid, And his dread fall upon you?",
+    "reference": "Job 13:11 (ASV)",
+    "connected_to": "Job 13:12",
+    "connected_from": "Job 13:10"
+  },
+  {
+    "text": "Your memorable sayings are proverbs of ashes, Your defences are defences of clay.",
+    "reference": "Job 13:12 (ASV)",
+    "connected_to": "Job 13:13",
+    "connected_from": "Job 13:11"
+  },
+  {
+    "text": "Hold your peace, let me alone, that I may speak; And let come on me what will.",
+    "reference": "Job 13:13 (ASV)",
+    "connected_to": "Job 13:14",
+    "connected_from": "Job 13:12"
+  },
+  {
+    "text": "Wherefore should I take my flesh in my teeth, And put my life in my hand?",
+    "reference": "Job 13:14 (ASV)",
+    "connected_to": "Job 13:15",
+    "connected_from": "Job 13:13"
+  },
+  {
+    "text": "Behold, he will slay me; I have no hope: Nevertheless I will maintain my ways before him.",
+    "reference": "Job 13:15 (ASV)",
+    "connected_to": "Job 13:16",
+    "connected_from": "Job 13:14"
+  },
+  {
+    "text": "This also shall be my salvation, That a godless man shall not come before him.",
+    "reference": "Job 13:16 (ASV)",
+    "connected_to": "Job 13:17",
+    "connected_from": "Job 13:15"
+  },
+  {
+    "text": "Hear diligently my speech, And let my declaration be in your ears.",
+    "reference": "Job 13:17 (ASV)",
+    "connected_to": "Job 13:18",
+    "connected_from": "Job 13:16"
+  },
+  {
+    "text": "Behold now, I have set my cause in order; I know that I am righteous.",
+    "reference": "Job 13:18 (ASV)",
+    "connected_to": "Job 13:19",
+    "connected_from": "Job 13:17"
+  },
+  {
+    "text": "Who is he that will contend with me? For then would I hold my peace and give up the ghost.",
+    "reference": "Job 13:19 (ASV)",
+    "connected_to": "Job 13:20",
+    "connected_from": "Job 13:18"
+  },
+  {
+    "text": "Only do not two things unto me; Then will I not hide myself from thy face:",
+    "reference": "Job 13:20 (ASV)",
+    "connected_to": "Job 13:21",
+    "connected_from": "Job 13:19"
+  },
+  {
+    "text": "Withdraw thy hand far from me; And let not thy terror make me afraid.",
+    "reference": "Job 13:21 (ASV)",
+    "connected_to": "Job 13:22",
+    "connected_from": "Job 13:20"
+  },
+  {
+    "text": "Then call thou, and I will answer; Or let me speak, and answer thou me.",
+    "reference": "Job 13:22 (ASV)",
+    "connected_to": "Job 13:23",
+    "connected_from": "Job 13:21"
+  },
+  {
+    "text": "How many are mine iniquities and sins? Make me to know my transgression and my sin.",
+    "reference": "Job 13:23 (ASV)",
+    "connected_to": "Job 13:24",
+    "connected_from": "Job 13:22"
+  },
+  {
+    "text": "Wherefore hidest thou thy face, And holdest me for thine enemy?",
+    "reference": "Job 13:24 (ASV)",
+    "connected_to": "Job 13:25",
+    "connected_from": "Job 13:23"
+  },
+  {
+    "text": "Wilt thou harass a driven leaf? And wilt thou pursue the dry stubble?",
+    "reference": "Job 13:25 (ASV)",
+    "connected_to": "Job 13:26",
+    "connected_from": "Job 13:24"
+  },
+  {
+    "text": "For thou writest bitter things against me, And makest me to inherit the iniquities of my youth:",
+    "reference": "Job 13:26 (ASV)",
+    "connected_to": "Job 13:27",
+    "connected_from": "Job 13:25"
+  },
+  {
+    "text": "Thou puttest my feet also in the stocks, And markest all my paths; Thou settest a bound to the soles of my feet:",
+    "reference": "Job 13:27 (ASV)",
+    "connected_to": "Job 13:28",
+    "connected_from": "Job 13:26"
+  },
+  {
+    "text": "Though I am like a rotten thing that consumeth, Like a garment that is moth-eaten.",
+    "reference": "Job 13:28 (ASV)",
+    "connected_from": "Job 13:27"
+  }
+]

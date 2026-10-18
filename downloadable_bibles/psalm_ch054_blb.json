@@ -1,0 +1,42 @@
+[
+  {
+    "text": "For the one directing. With stringed instruments. A Maskil of David, at the coming of the Ziphites, when they said to Saul, “Is not David hiding himself with us?” <span class=|reftext|><a href=|#|><b>1</b></a> O God, by Your name save me, and by Your might defend me!",
+    "reference": "Psalm 54:1 (BLB)",
+    "connected_to": "Psalm 54:2"
+  },
+  {
+    "text": "O God, hear my prayer, give ear to the words of my mouth.",
+    "reference": "Psalm 54:2 (BLB)",
+    "connected_to": "Psalm 54:3",
+    "connected_from": "Psalm 54:1"
+  },
+  {
+    "text": "For strangers have risen up against me, and terrible ones have sought my soul; they have not put God before them. Selah",
+    "reference": "Psalm 54:3 (BLB)",
+    "connected_to": "Psalm 54:4",
+    "connected_from": "Psalm 54:2"
+  },
+  {
+    "text": "behold, God [is] the One giving help to me; the Lord [is] with those upholding my soul.",
+    "reference": "Psalm 54:4 (BLB)",
+    "connected_to": "Psalm 54:5",
+    "connected_from": "Psalm 54:3"
+  },
+  {
+    "text": "He will return the evil to my enemies—in Your faithfulness put an end to them!",
+    "reference": "Psalm 54:5 (BLB)",
+    "connected_to": "Psalm 54:6",
+    "connected_from": "Psalm 54:4"
+  },
+  {
+    "text": "With a freewill offering I will sacrifice to You; I will give thanks to Your name, O YHWH, for [it is] good.",
+    "reference": "Psalm 54:6 (BLB)",
+    "connected_to": "Psalm 54:7",
+    "connected_from": "Psalm 54:5"
+  },
+  {
+    "text": "For from all distress He has delivered me, and on my enemies my eye has looked.",
+    "reference": "Psalm 54:7 (BLB)",
+    "connected_from": "Psalm 54:6"
+  }
+]

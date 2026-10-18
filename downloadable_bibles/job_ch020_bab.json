@@ -1,0 +1,174 @@
+[
+  {
+    "text": "Then Zophar (sparrow) the Naamathite replied:",
+    "reference": "Job 20:1 (BAB)",
+    "connected_to": "Job 20:2"
+  },
+  {
+    "text": "“So my anxious thoughts compel me to answer, because of the turmoil within me.",
+    "reference": "Job 20:2 (BAB)",
+    "connected_to": "Job 20:3",
+    "connected_from": "Job 20:1"
+  },
+  {
+    "text": "I have heard a rebuke that insults me, and my understanding prompts a reply.",
+    "reference": "Job 20:3 (BAB)",
+    "connected_to": "Job 20:4",
+    "connected_from": "Job 20:2"
+  },
+  {
+    "text": "Do you not know that from antiquity, since man was placed on the earth,",
+    "reference": "Job 20:4 (BAB)",
+    "connected_to": "Job 20:5",
+    "connected_from": "Job 20:3"
+  },
+  {
+    "text": "the triumph of the wicked has been brief and the joy of the godless momentary?",
+    "reference": "Job 20:5 (BAB)",
+    "connected_to": "Job 20:6",
+    "connected_from": "Job 20:4"
+  },
+  {
+    "text": "Though his arrogance reaches the heavens, and his head touches the clouds,",
+    "reference": "Job 20:6 (BAB)",
+    "connected_to": "Job 20:7",
+    "connected_from": "Job 20:5"
+  },
+  {
+    "text": "he will perish forever, like his own dung; those who had seen him will ask, ‘Where is he?’",
+    "reference": "Job 20:7 (BAB)",
+    "connected_to": "Job 20:8",
+    "connected_from": "Job 20:6"
+  },
+  {
+    "text": "He will fly away like a dream, never to be found; he will be chased away like a vision in the night.",
+    "reference": "Job 20:8 (BAB)",
+    "connected_to": "Job 20:9",
+    "connected_from": "Job 20:7"
+  },
+  {
+    "text": "The eye that saw him will see him no more, and his place will no longer behold him.",
+    "reference": "Job 20:9 (BAB)",
+    "connected_to": "Job 20:10",
+    "connected_from": "Job 20:8"
+  },
+  {
+    "text": "His sons will seek the favor of the poor, for his own hands must return his wealth.",
+    "reference": "Job 20:10 (BAB)",
+    "connected_to": "Job 20:11",
+    "connected_from": "Job 20:9"
+  },
+  {
+    "text": "The youthful vigor that fills his bones will lie down with him in the dust.",
+    "reference": "Job 20:11 (BAB)",
+    "connected_to": "Job 20:12",
+    "connected_from": "Job 20:10"
+  },
+  {
+    "text": "Though evil is sweet in his mouth and he conceals it under his tongue,",
+    "reference": "Job 20:12 (BAB)",
+    "connected_to": "Job 20:13",
+    "connected_from": "Job 20:11"
+  },
+  {
+    "text": "though he cannot bear to let it go and keeps it in his mouth,",
+    "reference": "Job 20:13 (BAB)",
+    "connected_to": "Job 20:14",
+    "connected_from": "Job 20:12"
+  },
+  {
+    "text": "yet in his stomach his food sours into the venom of cobras within him.",
+    "reference": "Job 20:14 (BAB)",
+    "connected_to": "Job 20:15",
+    "connected_from": "Job 20:13"
+  },
+  {
+    "text": "He swallows wealth but vomits it out; God will force it from his stomach.",
+    "reference": "Job 20:15 (BAB)",
+    "connected_to": "Job 20:16",
+    "connected_from": "Job 20:14"
+  },
+  {
+    "text": "He will suck the poison of cobras; the fangs of a viper will kill him.",
+    "reference": "Job 20:16 (BAB)",
+    "connected_to": "Job 20:17",
+    "connected_from": "Job 20:15"
+  },
+  {
+    "text": "He will not enjoy the streams, the rivers flowing with honey and cream.",
+    "reference": "Job 20:17 (BAB)",
+    "connected_to": "Job 20:18",
+    "connected_from": "Job 20:16"
+  },
+  {
+    "text": "He must return the fruit of his labor without consuming it; he cannot enjoy the profits of his trading.",
+    "reference": "Job 20:18 (BAB)",
+    "connected_to": "Job 20:19",
+    "connected_from": "Job 20:17"
+  },
+  {
+    "text": "For he has oppressed and forsaken the poor; he has seized houses he did not build.",
+    "reference": "Job 20:19 (BAB)",
+    "connected_to": "Job 20:20",
+    "connected_from": "Job 20:18"
+  },
+  {
+    "text": "Because his appetite is never satisfied, he cannot escape with his treasure.",
+    "reference": "Job 20:20 (BAB)",
+    "connected_to": "Job 20:21",
+    "connected_from": "Job 20:19"
+  },
+  {
+    "text": "Nothing is left for him to consume; thus his prosperity will not endure.",
+    "reference": "Job 20:21 (BAB)",
+    "connected_to": "Job 20:22",
+    "connected_from": "Job 20:20"
+  },
+  {
+    "text": "In the midst of his plenty, he will be distressed; the full force of misery will come upon him.",
+    "reference": "Job 20:22 (BAB)",
+    "connected_to": "Job 20:23",
+    "connected_from": "Job 20:21"
+  },
+  {
+    "text": "When he has filled his stomach, God will vent His fury upon him, raining it down on him as he eats.",
+    "reference": "Job 20:23 (BAB)",
+    "connected_to": "Job 20:24",
+    "connected_from": "Job 20:22"
+  },
+  {
+    "text": "Though he flees from an iron weapon, a bronze-tipped arrow will pierce him.",
+    "reference": "Job 20:24 (BAB)",
+    "connected_to": "Job 20:25",
+    "connected_from": "Job 20:23"
+  },
+  {
+    "text": "It is drawn out of his back, the gleaming point from his liver \\from his gall/. Terrors come over him.",
+    "reference": "Job 20:25 (BAB)",
+    "connected_to": "Job 20:26",
+    "connected_from": "Job 20:24"
+  },
+  {
+    "text": "Total darkness is reserved for his treasures. A fire unfanned will consume him and devour what is left in his tent.",
+    "reference": "Job 20:26 (BAB)",
+    "connected_to": "Job 20:27",
+    "connected_from": "Job 20:25"
+  },
+  {
+    "text": "The heavens will expose his iniquity, and the earth will rise up against him.",
+    "reference": "Job 20:27 (BAB)",
+    "connected_to": "Job 20:28",
+    "connected_from": "Job 20:26"
+  },
+  {
+    "text": "The possessions of his house will be removed, flowing away on the day of God’s wrath.",
+    "reference": "Job 20:28 (BAB)",
+    "connected_to": "Job 20:29",
+    "connected_from": "Job 20:27"
+  },
+  {
+    "text": "This is the wicked man’s portion from God {Elohim}, the inheritance God has appointed him.”",
+    "reference": "Job 20:29 (BAB)",
+    "connected_from": "Job 20:28"
+  }
+]

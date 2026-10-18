@@ -1,0 +1,276 @@
+[
+  {
+    "text": "“At that time the kingdom of heaven will be like ten virgins who took their lamps and went out to meet the bridegroom.",
+    "reference": "Matthew 25:1 (BSB)",
+    "connected_to": "Matthew 25:2"
+  },
+  {
+    "text": "Five of them were foolish, and five were wise.",
+    "reference": "Matthew 25:2 (BSB)",
+    "connected_to": "Matthew 25:3",
+    "connected_from": "Matthew 25:1"
+  },
+  {
+    "text": "The foolish ones took their lamps but did not take along any extra oil.",
+    "reference": "Matthew 25:3 (BSB)",
+    "connected_to": "Matthew 25:4",
+    "connected_from": "Matthew 25:2"
+  },
+  {
+    "text": "But the wise ones took oil in flasks along with their lamps.",
+    "reference": "Matthew 25:4 (BSB)",
+    "connected_to": "Matthew 25:5",
+    "connected_from": "Matthew 25:3"
+  },
+  {
+    "text": "When the bridegroom was delayed, they all became drowsy and fell asleep.",
+    "reference": "Matthew 25:5 (BSB)",
+    "connected_to": "Matthew 25:6",
+    "connected_from": "Matthew 25:4"
+  },
+  {
+    "text": "At midnight the cry rang out: ‘Here is the bridegroom! Come out to meet him!’",
+    "reference": "Matthew 25:6 (BSB)",
+    "connected_to": "Matthew 25:7",
+    "connected_from": "Matthew 25:5"
+  },
+  {
+    "text": "Then all the virgins woke up and trimmed their lamps.",
+    "reference": "Matthew 25:7 (BSB)",
+    "connected_to": "Matthew 25:8",
+    "connected_from": "Matthew 25:6"
+  },
+  {
+    "text": "The foolish ones said to the wise, ‘Give us some of your oil; our lamps are going out.’",
+    "reference": "Matthew 25:8 (BSB)",
+    "connected_to": "Matthew 25:9",
+    "connected_from": "Matthew 25:7"
+  },
+  {
+    "text": "‘No,’ said the wise ones, ‘or there may not be enough for both us and you. Instead, go to those who sell oil and buy some for yourselves.’",
+    "reference": "Matthew 25:9 (BSB)",
+    "connected_to": "Matthew 25:10",
+    "connected_from": "Matthew 25:8"
+  },
+  {
+    "text": "But while they were on their way to buy it, the bridegroom arrived. Those who were ready went in with him to the wedding banquet, and the door was shut.",
+    "reference": "Matthew 25:10 (BSB)",
+    "connected_to": "Matthew 25:11",
+    "connected_from": "Matthew 25:9"
+  },
+  {
+    "text": "Later the other virgins arrived and said, ‘Lord, lord, open the door for us!’",
+    "reference": "Matthew 25:11 (BSB)",
+    "connected_to": "Matthew 25:12",
+    "connected_from": "Matthew 25:10"
+  },
+  {
+    "text": "But he replied, ‘Truly I tell you, I do not know you.’",
+    "reference": "Matthew 25:12 (BSB)",
+    "connected_to": "Matthew 25:13",
+    "connected_from": "Matthew 25:11"
+  },
+  {
+    "text": "Therefore keep watch, because you do not know the day or the hour.",
+    "reference": "Matthew 25:13 (BSB)",
+    "connected_to": "Matthew 25:14",
+    "connected_from": "Matthew 25:12"
+  },
+  {
+    "text": "For it is just like a man going on a journey, who called his servants and entrusted them with his possessions.",
+    "reference": "Matthew 25:14 (BSB)",
+    "connected_to": "Matthew 25:15",
+    "connected_from": "Matthew 25:13"
+  },
+  {
+    "text": "To one he gave five talents, to another two talents, and to another one talent—each according to his own ability. And he went on his journey.",
+    "reference": "Matthew 25:15 (BSB)",
+    "connected_to": "Matthew 25:16",
+    "connected_from": "Matthew 25:14"
+  },
+  {
+    "text": "The servant who had received the five talents went at once and put them to work and gained five more.",
+    "reference": "Matthew 25:16 (BSB)",
+    "connected_to": "Matthew 25:17",
+    "connected_from": "Matthew 25:15"
+  },
+  {
+    "text": "Likewise, the one with the two talents gained two more.",
+    "reference": "Matthew 25:17 (BSB)",
+    "connected_to": "Matthew 25:18",
+    "connected_from": "Matthew 25:16"
+  },
+  {
+    "text": "But the servant who had received the one talent went off, dug a hole in the ground, and hid his master’s money.",
+    "reference": "Matthew 25:18 (BSB)",
+    "connected_to": "Matthew 25:19",
+    "connected_from": "Matthew 25:17"
+  },
+  {
+    "text": "After a long time the master of those servants returned and settled accounts with them.",
+    "reference": "Matthew 25:19 (BSB)",
+    "connected_to": "Matthew 25:20",
+    "connected_from": "Matthew 25:18"
+  },
+  {
+    "text": "The servant who had received the five talents came and presented five more. ‘Master,’ he said, ‘you entrusted me with five talents. See, I have gained five more.’",
+    "reference": "Matthew 25:20 (BSB)",
+    "connected_to": "Matthew 25:21",
+    "connected_from": "Matthew 25:19"
+  },
+  {
+    "text": "His master replied, ‘Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things. Enter into the joy of your master!’",
+    "reference": "Matthew 25:21 (BSB)",
+    "connected_to": "Matthew 25:22",
+    "connected_from": "Matthew 25:20"
+  },
+  {
+    "text": "The servant who had received the two talents also came and said, ‘Master, you entrusted me with two talents. See, I have gained two more.’",
+    "reference": "Matthew 25:22 (BSB)",
+    "connected_to": "Matthew 25:23",
+    "connected_from": "Matthew 25:21"
+  },
+  {
+    "text": "His master replied, ‘Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things. Enter into the joy of your master!’",
+    "reference": "Matthew 25:23 (BSB)",
+    "connected_to": "Matthew 25:24",
+    "connected_from": "Matthew 25:22"
+  },
+  {
+    "text": "Finally, the servant who had received the one talent came and said, ‘Master, I knew that you are a hard man, reaping where you have not sown and gathering where you have not scattered seed.",
+    "reference": "Matthew 25:24 (BSB)",
+    "connected_to": "Matthew 25:25",
+    "connected_from": "Matthew 25:23"
+  },
+  {
+    "text": "So I was afraid and went out and hid your talent in the ground. See, you have what belongs to you.’",
+    "reference": "Matthew 25:25 (BSB)",
+    "connected_to": "Matthew 25:26",
+    "connected_from": "Matthew 25:24"
+  },
+  {
+    "text": "‘You wicked, lazy servant!’ replied his master. ‘You knew that I reap where I have not sown and gather where I have not scattered seed.",
+    "reference": "Matthew 25:26 (BSB)",
+    "connected_to": "Matthew 25:27",
+    "connected_from": "Matthew 25:25"
+  },
+  {
+    "text": "Then you should have deposited my money with the bankers, and on my return I would have received it back with interest.",
+    "reference": "Matthew 25:27 (BSB)",
+    "connected_to": "Matthew 25:28",
+    "connected_from": "Matthew 25:26"
+  },
+  {
+    "text": "Therefore take the talent from him and give it to the one who has ten talents.",
+    "reference": "Matthew 25:28 (BSB)",
+    "connected_to": "Matthew 25:29",
+    "connected_from": "Matthew 25:27"
+  },
+  {
+    "text": "For everyone who has will be given more, and he will have an abundance. But the one who does not have, even what he has will be taken away from him.",
+    "reference": "Matthew 25:29 (BSB)",
+    "connected_to": "Matthew 25:30",
+    "connected_from": "Matthew 25:28"
+  },
+  {
+    "text": "And throw that worthless servant into the outer darkness, where there will be weeping and gnashing of teeth.’",
+    "reference": "Matthew 25:30 (BSB)",
+    "connected_to": "Matthew 25:31",
+    "connected_from": "Matthew 25:29"
+  },
+  {
+    "text": "When the Son of Man comes in His glory, and all the angels with Him, He will sit on His glorious throne.",
+    "reference": "Matthew 25:31 (BSB)",
+    "connected_to": "Matthew 25:32",
+    "connected_from": "Matthew 25:30"
+  },
+  {
+    "text": "All the nations will be gathered before Him, and He will separate the people one from another, as a shepherd separates the sheep from the goats.",
+    "reference": "Matthew 25:32 (BSB)",
+    "connected_to": "Matthew 25:33",
+    "connected_from": "Matthew 25:31"
+  },
+  {
+    "text": "He will place the sheep on His right and the goats on His left.",
+    "reference": "Matthew 25:33 (BSB)",
+    "connected_to": "Matthew 25:34",
+    "connected_from": "Matthew 25:32"
+  },
+  {
+    "text": "Then the King will say to those on His right, ‘Come, you who are blessed by My Father, inherit the kingdom prepared for you from the foundation of the world.",
+    "reference": "Matthew 25:34 (BSB)",
+    "connected_to": "Matthew 25:35",
+    "connected_from": "Matthew 25:33"
+  },
+  {
+    "text": "For I was hungry and you gave Me something to eat, I was thirsty and you gave Me something to drink, I was a stranger and you took Me in,",
+    "reference": "Matthew 25:35 (BSB)",
+    "connected_to": "Matthew 25:36",
+    "connected_from": "Matthew 25:34"
+  },
+  {
+    "text": "I was naked and you clothed Me, I was sick and you looked after Me, I was in prison and you visited Me.’",
+    "reference": "Matthew 25:36 (BSB)",
+    "connected_to": "Matthew 25:37",
+    "connected_from": "Matthew 25:35"
+  },
+  {
+    "text": "Then the righteous will answer Him, ‘Lord, when did we see You hungry and feed You, or thirsty and give You something to drink?",
+    "reference": "Matthew 25:37 (BSB)",
+    "connected_to": "Matthew 25:38",
+    "connected_from": "Matthew 25:36"
+  },
+  {
+    "text": "When did we see You a stranger and take You in, or naked and clothe You?",
+    "reference": "Matthew 25:38 (BSB)",
+    "connected_to": "Matthew 25:39",
+    "connected_from": "Matthew 25:37"
+  },
+  {
+    "text": "When did we see You sick or in prison and visit You?’",
+    "reference": "Matthew 25:39 (BSB)",
+    "connected_to": "Matthew 25:40",
+    "connected_from": "Matthew 25:38"
+  },
+  {
+    "text": "And the King will reply, ‘Truly I tell you, whatever you did for one of the least of these brothers of Mine, you did for Me.’",
+    "reference": "Matthew 25:40 (BSB)",
+    "connected_to": "Matthew 25:41",
+    "connected_from": "Matthew 25:39"
+  },
+  {
+    "text": "Then He will say to those on His left, ‘Depart from Me, you who are cursed, into the eternal fire prepared for the devil and his angels.",
+    "reference": "Matthew 25:41 (BSB)",
+    "connected_to": "Matthew 25:42",
+    "connected_from": "Matthew 25:40"
+  },
+  {
+    "text": "For I was hungry and you gave Me nothing to eat, I was thirsty and you gave Me nothing to drink,",
+    "reference": "Matthew 25:42 (BSB)",
+    "connected_to": "Matthew 25:43",
+    "connected_from": "Matthew 25:41"
+  },
+  {
+    "text": "I was a stranger and you did not take Me in, I was naked and you did not clothe Me, I was sick and in prison and you did not look after Me.’",
+    "reference": "Matthew 25:43 (BSB)",
+    "connected_to": "Matthew 25:44",
+    "connected_from": "Matthew 25:42"
+  },
+  {
+    "text": "And they too will reply, ‘Lord, when did we see You hungry or thirsty or a stranger or naked or sick or in prison, and did not minister to You?’",
+    "reference": "Matthew 25:44 (BSB)",
+    "connected_to": "Matthew 25:45",
+    "connected_from": "Matthew 25:43"
+  },
+  {
+    "text": "Then the King will answer, ‘Truly I tell you, whatever you did not do for one of the least of these, you did not do for Me.’",
+    "reference": "Matthew 25:45 (BSB)",
+    "connected_to": "Matthew 25:46",
+    "connected_from": "Matthew 25:44"
+  },
+  {
+    "text": "And they will go away into eternal punishment, but the righteous into eternal life.”",
+    "reference": "Matthew 25:46 (BSB)",
+    "connected_from": "Matthew 25:45"
+  }
+]

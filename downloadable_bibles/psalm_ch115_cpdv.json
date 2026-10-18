@@ -1,0 +1,108 @@
+[
+  {
+    "text": "Not to us, O Lord, not to us, but to your name give glory.",
+    "reference": "Psalm 115:1 (CPDV)",
+    "connected_to": "Psalm 115:2"
+  },
+  {
+    "text": "Give glory to your mercy and your truth, lest the Gentiles should say, “Where is their God?”",
+    "reference": "Psalm 115:2 (CPDV)",
+    "connected_to": "Psalm 115:3",
+    "connected_from": "Psalm 115:1"
+  },
+  {
+    "text": "But our God is in heaven. All things whatsoever that he has willed, he has done.",
+    "reference": "Psalm 115:3 (CPDV)",
+    "connected_to": "Psalm 115:4",
+    "connected_from": "Psalm 115:2"
+  },
+  {
+    "text": "The idols of the nations are silver and gold, the works of the hands of men.",
+    "reference": "Psalm 115:4 (CPDV)",
+    "connected_to": "Psalm 115:5",
+    "connected_from": "Psalm 115:3"
+  },
+  {
+    "text": "They have mouths, and do not speak; they have eyes, and do not see.",
+    "reference": "Psalm 115:5 (CPDV)",
+    "connected_to": "Psalm 115:6",
+    "connected_from": "Psalm 115:4"
+  },
+  {
+    "text": "They have ears, and do not hear; they have noses, and do not smell.",
+    "reference": "Psalm 115:6 (CPDV)",
+    "connected_to": "Psalm 115:7",
+    "connected_from": "Psalm 115:5"
+  },
+  {
+    "text": "They have hands, and do not feel; they have feet, and do not walk. Neither will they cry out with their throat.",
+    "reference": "Psalm 115:7 (CPDV)",
+    "connected_to": "Psalm 115:8",
+    "connected_from": "Psalm 115:6"
+  },
+  {
+    "text": "Let those who make them become like them, along with all who trust in them.",
+    "reference": "Psalm 115:8 (CPDV)",
+    "connected_to": "Psalm 115:9",
+    "connected_from": "Psalm 115:7"
+  },
+  {
+    "text": "The house of Israel has hoped in the Lord. He is their helper and their protector.",
+    "reference": "Psalm 115:9 (CPDV)",
+    "connected_to": "Psalm 115:10",
+    "connected_from": "Psalm 115:8"
+  },
+  {
+    "text": "The house of Aaron has hoped in the Lord. He is their helper and their protector.",
+    "reference": "Psalm 115:10 (CPDV)",
+    "connected_to": "Psalm 115:11",
+    "connected_from": "Psalm 115:9"
+  },
+  {
+    "text": "Those who fear the Lord have hoped in the Lord. He is their helper and their protector.",
+    "reference": "Psalm 115:11 (CPDV)",
+    "connected_to": "Psalm 115:12",
+    "connected_from": "Psalm 115:10"
+  },
+  {
+    "text": "The Lord has been mindful of us, and he has blessed us. He has blessed the house of Israel. He has blessed the house of Aaron.",
+    "reference": "Psalm 115:12 (CPDV)",
+    "connected_to": "Psalm 115:13",
+    "connected_from": "Psalm 115:11"
+  },
+  {
+    "text": "He has blessed all who fear the Lord, the small with the great.",
+    "reference": "Psalm 115:13 (CPDV)",
+    "connected_to": "Psalm 115:14",
+    "connected_from": "Psalm 115:12"
+  },
+  {
+    "text": "May the Lord add blessings upon you: upon you, and upon your sons.",
+    "reference": "Psalm 115:14 (CPDV)",
+    "connected_to": "Psalm 115:15",
+    "connected_from": "Psalm 115:13"
+  },
+  {
+    "text": "Blessed are you by the Lord, who made heaven and earth.",
+    "reference": "Psalm 115:15 (CPDV)",
+    "connected_to": "Psalm 115:16",
+    "connected_from": "Psalm 115:14"
+  },
+  {
+    "text": "The heaven of heaven is for the Lord, but the earth he has given to the sons of men.",
+    "reference": "Psalm 115:16 (CPDV)",
+    "connected_to": "Psalm 115:17",
+    "connected_from": "Psalm 115:15"
+  },
+  {
+    "text": "The dead will not praise you, Lord, and neither will all those who descend into Hell.",
+    "reference": "Psalm 115:17 (CPDV)",
+    "connected_to": "Psalm 115:18",
+    "connected_from": "Psalm 115:16"
+  },
+  {
+    "text": "But we who live will bless the Lord, from this time forward, and even forever.",
+    "reference": "Psalm 115:18 (CPDV)",
+    "connected_from": "Psalm 115:17"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "text": "For the Leader; with string-music. Maschil of David: when the Ziphites came and said to Saul: ‘Doth not David hide himself with us?’   O God, save me by Thy name, And right me by Thy might.",
+    "reference": "Psalm 54:1 (JPS)",
+    "connected_to": "Psalm 54:2"
+  },
+  {
+    "text": "O God, hear my prayer; give ear to the words of my mouth.",
+    "reference": "Psalm 54:2 (JPS)",
+    "connected_to": "Psalm 54:3",
+    "connected_from": "Psalm 54:1"
+  },
+  {
+    "text": "For strangers are risen up against me, And violent men have sought after my soul; They have not set God before them.  Selah",
+    "reference": "Psalm 54:3 (JPS)",
+    "connected_to": "Psalm 54:4",
+    "connected_from": "Psalm 54:2"
+  },
+  {
+    "text": "Behold, God is my helper; The Lord is for me as the upholder of my soul.",
+    "reference": "Psalm 54:4 (JPS)",
+    "connected_to": "Psalm 54:5",
+    "connected_from": "Psalm 54:3"
+  },
+  {
+    "text": "He will requite the evil unto them that lie in wait for me; Destroy Thou them in Thy truth.",
+    "reference": "Psalm 54:5 (JPS)",
+    "connected_to": "Psalm 54:6",
+    "connected_from": "Psalm 54:4"
+  },
+  {
+    "text": "With a freewill-offering will I sacrifice unto Thee; I will give thanks unto Thy name, O LORD, for it is good.",
+    "reference": "Psalm 54:6 (JPS)",
+    "connected_to": "Psalm 54:7",
+    "connected_from": "Psalm 54:5"
+  },
+  {
+    "text": "For He hath delivered me out of all trouble; And mine eye hath gazed upon mine enemies.",
+    "reference": "Psalm 54:7 (JPS)",
+    "connected_from": "Psalm 54:6"
+  }
+]

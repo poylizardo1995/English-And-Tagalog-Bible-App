@@ -1,0 +1,72 @@
+[
+  {
+    "text": "A Psalm; a Song at the Dedication of the House; a Psalm of David. I will extol thee, O LORD; for thou hast raised me up, and hast not made my foes to rejoice over me.",
+    "reference": "Psalm 30:1 (ERV)",
+    "connected_to": "Psalm 30:2"
+  },
+  {
+    "text": "O LORD my God, I cried unto thee, and thou hast healed me.",
+    "reference": "Psalm 30:2 (ERV)",
+    "connected_to": "Psalm 30:3",
+    "connected_from": "Psalm 30:1"
+  },
+  {
+    "text": "O LORD, thou hast brought up my soul from Sheol: thou hast kept me alive, that I should not go down to the pit.",
+    "reference": "Psalm 30:3 (ERV)",
+    "connected_to": "Psalm 30:4",
+    "connected_from": "Psalm 30:2"
+  },
+  {
+    "text": "Sing praise unto the LORD, O ye saints of his, and give thanks to his holy name.",
+    "reference": "Psalm 30:4 (ERV)",
+    "connected_to": "Psalm 30:5",
+    "connected_from": "Psalm 30:3"
+  },
+  {
+    "text": "For his anger is but for a moment; in his favour is life: weeping may tarry for the night, but joy cometh in the morning.",
+    "reference": "Psalm 30:5 (ERV)",
+    "connected_to": "Psalm 30:6",
+    "connected_from": "Psalm 30:4"
+  },
+  {
+    "text": "As for me, I said in my prosperity, I shall never be moved.",
+    "reference": "Psalm 30:6 (ERV)",
+    "connected_to": "Psalm 30:7",
+    "connected_from": "Psalm 30:5"
+  },
+  {
+    "text": "Thou, LORD, of thy favour hadst made my mountain to stand strong: thou didst hide thy face; I was troubled.",
+    "reference": "Psalm 30:7 (ERV)",
+    "connected_to": "Psalm 30:8",
+    "connected_from": "Psalm 30:6"
+  },
+  {
+    "text": "I cried to thee, O LORD; and unto the LORD I made supplication:",
+    "reference": "Psalm 30:8 (ERV)",
+    "connected_to": "Psalm 30:9",
+    "connected_from": "Psalm 30:7"
+  },
+  {
+    "text": "What profit is there in my blood, when I go down to the pit? Shall the dust praise thee? shall it declare thy truth?",
+    "reference": "Psalm 30:9 (ERV)",
+    "connected_to": "Psalm 30:10",
+    "connected_from": "Psalm 30:8"
+  },
+  {
+    "text": "Hear, O LORD, and have mercy upon me: LORD, be thou my helper.",
+    "reference": "Psalm 30:10 (ERV)",
+    "connected_to": "Psalm 30:11",
+    "connected_from": "Psalm 30:9"
+  },
+  {
+    "text": "Thou hast turned for me my mourning into dancing; thou hast loosed my sackcloth, and girded me with gladness:",
+    "reference": "Psalm 30:11 (ERV)",
+    "connected_to": "Psalm 30:12",
+    "connected_from": "Psalm 30:10"
+  },
+  {
+    "text": "To the end that my glory may sing praise to thee, and not be silent. O LORD my God, I will give thanks unto thee for ever.",
+    "reference": "Psalm 30:12 (ERV)",
+    "connected_from": "Psalm 30:11"
+  }
+]

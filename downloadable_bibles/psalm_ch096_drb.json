@@ -1,0 +1,78 @@
+[
+  {
+    "text": "A canticle for David himself, when the house was built after the captivity. Sing ye to the Lord a new canticle: sing to the Lord, all the earth.",
+    "reference": "Psalm 96:1 (DRB)",
+    "connected_to": "Psalm 96:2"
+  },
+  {
+    "text": "Sing ye to the Lord and bless his name: shew forth his salvation from day to day.",
+    "reference": "Psalm 96:2 (DRB)",
+    "connected_to": "Psalm 96:3",
+    "connected_from": "Psalm 96:1"
+  },
+  {
+    "text": "Declare his glory among the Gentiles: his wonders among all people.",
+    "reference": "Psalm 96:3 (DRB)",
+    "connected_to": "Psalm 96:4",
+    "connected_from": "Psalm 96:2"
+  },
+  {
+    "text": "For the Lord is great, and exceedingly to be praised: he is to be feared above all gods.",
+    "reference": "Psalm 96:4 (DRB)",
+    "connected_to": "Psalm 96:5",
+    "connected_from": "Psalm 96:3"
+  },
+  {
+    "text": "For all the gods of the Gentiles are devils: but the Lord made the heavens.",
+    "reference": "Psalm 96:5 (DRB)",
+    "connected_to": "Psalm 96:6",
+    "connected_from": "Psalm 96:4"
+  },
+  {
+    "text": "Praise and beauty are before him: holiness and majesty in his sanctuary.",
+    "reference": "Psalm 96:6 (DRB)",
+    "connected_to": "Psalm 96:7",
+    "connected_from": "Psalm 96:5"
+  },
+  {
+    "text": "Bring ye to the Lord, O ye kindreds of the Gentiles, bring ye to the Lord glory and honour:",
+    "reference": "Psalm 96:7 (DRB)",
+    "connected_to": "Psalm 96:8",
+    "connected_from": "Psalm 96:6"
+  },
+  {
+    "text": "bring to the Lord glory unto his name. Bring up sacrifices, and come into his courts:",
+    "reference": "Psalm 96:8 (DRB)",
+    "connected_to": "Psalm 96:9",
+    "connected_from": "Psalm 96:7"
+  },
+  {
+    "text": "adore ye the Lord in his holy court. Let all the earth be moved at his presence.",
+    "reference": "Psalm 96:9 (DRB)",
+    "connected_to": "Psalm 96:10",
+    "connected_from": "Psalm 96:8"
+  },
+  {
+    "text": "Say ye among the Gentiles, the Lord hath reigned. For he hath corrected the world, which shall not be moved: he will judge the people with justice.",
+    "reference": "Psalm 96:10 (DRB)",
+    "connected_to": "Psalm 96:11",
+    "connected_from": "Psalm 96:9"
+  },
+  {
+    "text": "Let the heavens rejoice, and let the earth be glad, let the sea be moved, and the fulness thereof:",
+    "reference": "Psalm 96:11 (DRB)",
+    "connected_to": "Psalm 96:12",
+    "connected_from": "Psalm 96:10"
+  },
+  {
+    "text": "the fields and all things that are in them shall be joyful. Then shall all the trees of the woods rejoice",
+    "reference": "Psalm 96:12 (DRB)",
+    "connected_to": "Psalm 96:13",
+    "connected_from": "Psalm 96:11"
+  },
+  {
+    "text": "before the face of the Lord, because he cometh: because he cometh to judge the earth. He shall judge the world with justice, and the people with his truth.",
+    "reference": "Psalm 96:13 (DRB)",
+    "connected_from": "Psalm 96:12"
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "text": "And Job continued his parable and said,",
+    "reference": "Job 27:1 (DBT)",
+    "connected_to": "Job 27:2"
+  },
+  {
+    "text": "[As] God liveth, who hath taken away my right, and the Almighty, who hath embittered my soul,",
+    "reference": "Job 27:2 (DBT)",
+    "connected_to": "Job 27:3",
+    "connected_from": "Job 27:1"
+  },
+  {
+    "text": "All the while my breath is in me, and the spirit of +God is in my nostrils,",
+    "reference": "Job 27:3 (DBT)",
+    "connected_to": "Job 27:4",
+    "connected_from": "Job 27:2"
+  },
+  {
+    "text": "My lips shall not speak unrighteousness, nor my tongue utter deceit!",
+    "reference": "Job 27:4 (DBT)",
+    "connected_to": "Job 27:5",
+    "connected_from": "Job 27:3"
+  },
+  {
+    "text": "Be it far from me that I should justify you; till I die I will not remove my blamelessness from me.",
+    "reference": "Job 27:5 (DBT)",
+    "connected_to": "Job 27:6",
+    "connected_from": "Job 27:4"
+  },
+  {
+    "text": "My righteousness I hold fast, and will not let it go: my heart reproacheth [me] not one of my days.",
+    "reference": "Job 27:6 (DBT)",
+    "connected_to": "Job 27:7",
+    "connected_from": "Job 27:5"
+  },
+  {
+    "text": "Let mine enemy be as the wicked, and he that riseth up against me as the unrighteous.",
+    "reference": "Job 27:7 (DBT)",
+    "connected_to": "Job 27:8",
+    "connected_from": "Job 27:6"
+  },
+  {
+    "text": "For what is the hope of the ungodly, when [God] cutteth him off, when +God taketh away his soul?",
+    "reference": "Job 27:8 (DBT)",
+    "connected_to": "Job 27:9",
+    "connected_from": "Job 27:7"
+  },
+  {
+    "text": "Will God hear his cry when distress cometh upon him?",
+    "reference": "Job 27:9 (DBT)",
+    "connected_to": "Job 27:10",
+    "connected_from": "Job 27:8"
+  },
+  {
+    "text": "Doth he delight himself in the Almighty? will he at all times call upon +God?",
+    "reference": "Job 27:10 (DBT)",
+    "connected_to": "Job 27:11",
+    "connected_from": "Job 27:9"
+  },
+  {
+    "text": "I will teach you concerning the hand of God; what is with the Almighty will I not conceal.",
+    "reference": "Job 27:11 (DBT)",
+    "connected_to": "Job 27:12",
+    "connected_from": "Job 27:10"
+  },
+  {
+    "text": "Behold, ye yourselves have all seen [it]; and why are ye thus altogether vain?",
+    "reference": "Job 27:12 (DBT)",
+    "connected_to": "Job 27:13",
+    "connected_from": "Job 27:11"
+  },
+  {
+    "text": "This is the portion of the wicked man with God, and the heritage of the violent, which they receive from the Almighty:—",
+    "reference": "Job 27:13 (DBT)",
+    "connected_to": "Job 27:14",
+    "connected_from": "Job 27:12"
+  },
+  {
+    "text": "If his children be multiplied, it is for the sword, and his offspring shall not be satisfied with bread;",
+    "reference": "Job 27:14 (DBT)",
+    "connected_to": "Job 27:15",
+    "connected_from": "Job 27:13"
+  },
+  {
+    "text": "Those that remain of him shall be buried by death, and his widows shall not weep.",
+    "reference": "Job 27:15 (DBT)",
+    "connected_to": "Job 27:16",
+    "connected_from": "Job 27:14"
+  },
+  {
+    "text": "Though he heap up silver as the dust, and prepare clothing as the clay;",
+    "reference": "Job 27:16 (DBT)",
+    "connected_to": "Job 27:17",
+    "connected_from": "Job 27:15"
+  },
+  {
+    "text": "He may prepare it, but the just shall put it on; and the innocent shall divide the silver.",
+    "reference": "Job 27:17 (DBT)",
+    "connected_to": "Job 27:18",
+    "connected_from": "Job 27:16"
+  },
+  {
+    "text": "He buildeth his house as the moth, and as a booth that a keeper maketh.",
+    "reference": "Job 27:18 (DBT)",
+    "connected_to": "Job 27:19",
+    "connected_from": "Job 27:17"
+  },
+  {
+    "text": "He lieth down rich, but will do so no more; he openeth his eyes, and he is not.",
+    "reference": "Job 27:19 (DBT)",
+    "connected_to": "Job 27:20",
+    "connected_from": "Job 27:18"
+  },
+  {
+    "text": "Terrors overtake him like waters; a whirlwind stealeth him away in the night.",
+    "reference": "Job 27:20 (DBT)",
+    "connected_to": "Job 27:21",
+    "connected_from": "Job 27:19"
+  },
+  {
+    "text": "The east wind carrieth him away and he is gone; and as a storm it hurleth him out of his place.",
+    "reference": "Job 27:21 (DBT)",
+    "connected_to": "Job 27:22",
+    "connected_from": "Job 27:20"
+  },
+  {
+    "text": "And [God] shall cast upon him and not spare: he would fain flee out of his hand.",
+    "reference": "Job 27:22 (DBT)",
+    "connected_to": "Job 27:23",
+    "connected_from": "Job 27:21"
+  },
+  {
+    "text": "[Men] shall clap their hands at him, and shall hiss him out of his place.",
+    "reference": "Job 27:23 (DBT)",
+    "connected_from": "Job 27:22"
+  }
+]

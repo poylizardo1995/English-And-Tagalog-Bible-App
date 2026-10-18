@@ -1,0 +1,312 @@
+[
+  {
+    "text": "Give ear, ye heavens, and I will speak; And let the earth hear the words of my mouth.",
+    "reference": "Deuteronomy 32:1 (JPS)",
+    "connected_to": "Deuteronomy 32:2"
+  },
+  {
+    "text": "My doctrine shall drop as the rain, My speech shall distil as the dew; As the small rain upon the tender grass, And as the showers upon the herb.",
+    "reference": "Deuteronomy 32:2 (JPS)",
+    "connected_to": "Deuteronomy 32:3",
+    "connected_from": "Deuteronomy 32:1"
+  },
+  {
+    "text": "For I will proclaim the name of the LORD; Ascribe ye greatness unto our God.",
+    "reference": "Deuteronomy 32:3 (JPS)",
+    "connected_to": "Deuteronomy 32:4",
+    "connected_from": "Deuteronomy 32:2"
+  },
+  {
+    "text": "The Rock, His work is perfect; For all His ways are justice; A God of faithfulness and without iniquity, Just and right is He.",
+    "reference": "Deuteronomy 32:4 (JPS)",
+    "connected_to": "Deuteronomy 32:5",
+    "connected_from": "Deuteronomy 32:3"
+  },
+  {
+    "text": "Is corruption His? No; His children’s is the blemish; A generation crooked and perverse.",
+    "reference": "Deuteronomy 32:5 (JPS)",
+    "connected_to": "Deuteronomy 32:6",
+    "connected_from": "Deuteronomy 32:4"
+  },
+  {
+    "text": "Do ye thus requite the LORD, O foolish people and unwise? Is not He thy father that hath gotten thee? Hath He not made thee, and established thee?",
+    "reference": "Deuteronomy 32:6 (JPS)",
+    "connected_to": "Deuteronomy 32:7",
+    "connected_from": "Deuteronomy 32:5"
+  },
+  {
+    "text": "Remember the days of old, Consider the years of many generations; Ask thy father, and he will declare unto thee, Thine elders, and they will tell thee.",
+    "reference": "Deuteronomy 32:7 (JPS)",
+    "connected_to": "Deuteronomy 32:8",
+    "connected_from": "Deuteronomy 32:6"
+  },
+  {
+    "text": "When the Most High gave to the nations When He separated the children of men, He set the borders of the peoples According to the number of the children of Israel.",
+    "reference": "Deuteronomy 32:8 (JPS)",
+    "connected_to": "Deuteronomy 32:9",
+    "connected_from": "Deuteronomy 32:7"
+  },
+  {
+    "text": "For the portion of the LORD is His people, Jacob the lot of His inheritance.",
+    "reference": "Deuteronomy 32:9 (JPS)",
+    "connected_to": "Deuteronomy 32:10",
+    "connected_from": "Deuteronomy 32:8"
+  },
+  {
+    "text": "He found him in a desert land, And in the waste, a howling wilderness; He compassed him about, He cared for him, He kept him as the apple of His eye.",
+    "reference": "Deuteronomy 32:10 (JPS)",
+    "connected_to": "Deuteronomy 32:11",
+    "connected_from": "Deuteronomy 32:9"
+  },
+  {
+    "text": "As an eagle that stirreth up her nest, Hovereth over her young, Spreadeth abroad her wings, taketh them, Beareth them on her pinions—",
+    "reference": "Deuteronomy 32:11 (JPS)",
+    "connected_to": "Deuteronomy 32:12",
+    "connected_from": "Deuteronomy 32:10"
+  },
+  {
+    "text": "The LORD alone did lead him, And there was no strange god with Him.",
+    "reference": "Deuteronomy 32:12 (JPS)",
+    "connected_to": "Deuteronomy 32:13",
+    "connected_from": "Deuteronomy 32:11"
+  },
+  {
+    "text": "He made him ride on the high places of the earth, And he did eat the fruitage of the field; And He made him to suck honey out of the crag, And oil out of the flinty rock;",
+    "reference": "Deuteronomy 32:13 (JPS)",
+    "connected_to": "Deuteronomy 32:14",
+    "connected_from": "Deuteronomy 32:12"
+  },
+  {
+    "text": "Curd of kine, and milk of sheep, With fat of lambs, And rams of the breed of Bashan, and he-goats, With the kidney-fat of wheat; And of the blood of the grape thou drankest foaming wine.",
+    "reference": "Deuteronomy 32:14 (JPS)",
+    "connected_to": "Deuteronomy 32:15",
+    "connected_from": "Deuteronomy 32:13"
+  },
+  {
+    "text": "But Jeshurun waxed fat, and kicked—Thou didst wax fat, thou didst grow thick, thou didst become gross—And he forsook God who made him, And contemned the Rock of his salvation.",
+    "reference": "Deuteronomy 32:15 (JPS)",
+    "connected_to": "Deuteronomy 32:16",
+    "connected_from": "Deuteronomy 32:14"
+  },
+  {
+    "text": "They roused Him to jealousy with strange gods, With abominations did they provoke Him.",
+    "reference": "Deuteronomy 32:16 (JPS)",
+    "connected_to": "Deuteronomy 32:17",
+    "connected_from": "Deuteronomy 32:15"
+  },
+  {
+    "text": "They sacrificed unto demons, no-gods, Gods that they knew not, New gods that came up of late, Which your fathers dreaded not.",
+    "reference": "Deuteronomy 32:17 (JPS)",
+    "connected_to": "Deuteronomy 32:18",
+    "connected_from": "Deuteronomy 32:16"
+  },
+  {
+    "text": "Of the Rock that begot thee thou wast unmindful, And didst forget God that bore thee.",
+    "reference": "Deuteronomy 32:18 (JPS)",
+    "connected_to": "Deuteronomy 32:19",
+    "connected_from": "Deuteronomy 32:17"
+  },
+  {
+    "text": "And the LORD saw, and spurned, Because of the provoking of His sons and His daughters.",
+    "reference": "Deuteronomy 32:19 (JPS)",
+    "connected_to": "Deuteronomy 32:20",
+    "connected_from": "Deuteronomy 32:18"
+  },
+  {
+    "text": "And He said: ‘I will hide My face from them, I will see what their end shall be; For they are a very froward generation, Children in whom is no faithfulness.",
+    "reference": "Deuteronomy 32:20 (JPS)",
+    "connected_to": "Deuteronomy 32:21",
+    "connected_from": "Deuteronomy 32:19"
+  },
+  {
+    "text": "They have roused Me to jealousy with a no-god; They have provoked Me with their vanities; And I will rouse them to jealousy with a no-people; I will provoke them with a vile nation.",
+    "reference": "Deuteronomy 32:21 (JPS)",
+    "connected_to": "Deuteronomy 32:22",
+    "connected_from": "Deuteronomy 32:20"
+  },
+  {
+    "text": "For a fire is kindled in My nostril, And burneth unto the depths of the nether-world, And devoureth the earth with her produce, And setteth ablaze the foundations of the mountains.",
+    "reference": "Deuteronomy 32:22 (JPS)",
+    "connected_to": "Deuteronomy 32:23",
+    "connected_from": "Deuteronomy 32:21"
+  },
+  {
+    "text": "I will heap evils upon them; I will spend Mine arrows upon them;",
+    "reference": "Deuteronomy 32:23 (JPS)",
+    "connected_to": "Deuteronomy 32:24",
+    "connected_from": "Deuteronomy 32:22"
+  },
+  {
+    "text": "The wasting of hunger, and the devouring of the fiery bolt, And bitter destruction; And the teeth of beasts will I send upon them, With the venom of crawling things of the dust.",
+    "reference": "Deuteronomy 32:24 (JPS)",
+    "connected_to": "Deuteronomy 32:25",
+    "connected_from": "Deuteronomy 32:23"
+  },
+  {
+    "text": "Without shall the sword bereave, And in the chambers terror; Slaying both young man and virgin, The suckling with the man of gray hairs.",
+    "reference": "Deuteronomy 32:25 (JPS)",
+    "connected_to": "Deuteronomy 32:26",
+    "connected_from": "Deuteronomy 32:24"
+  },
+  {
+    "text": "I thought I would make an end of them, I would make their memory cease from among men;",
+    "reference": "Deuteronomy 32:26 (JPS)",
+    "connected_to": "Deuteronomy 32:27",
+    "connected_from": "Deuteronomy 32:25"
+  },
+  {
+    "text": "Were it not that I dreaded the enemy’s provocation, Lest their adversaries should misdeem, Lest they should say: Our hand is exalted, And not the LORD hath wrought all this.’",
+    "reference": "Deuteronomy 32:27 (JPS)",
+    "connected_to": "Deuteronomy 32:28",
+    "connected_from": "Deuteronomy 32:26"
+  },
+  {
+    "text": "For they are a nation void of counsel, And there is no understanding in them.",
+    "reference": "Deuteronomy 32:28 (JPS)",
+    "connected_to": "Deuteronomy 32:29",
+    "connected_from": "Deuteronomy 32:27"
+  },
+  {
+    "text": "If they were wise, they would understand this, They would discern their latter end.",
+    "reference": "Deuteronomy 32:29 (JPS)",
+    "connected_to": "Deuteronomy 32:30",
+    "connected_from": "Deuteronomy 32:28"
+  },
+  {
+    "text": "How should one chase a thousand, And two put ten thousand to flight, Except their Rock had given them over And the LORD had delivered them up?",
+    "reference": "Deuteronomy 32:30 (JPS)",
+    "connected_to": "Deuteronomy 32:31",
+    "connected_from": "Deuteronomy 32:29"
+  },
+  {
+    "text": "For their rock is not as our Rock, Even our enemies themselves being judges.",
+    "reference": "Deuteronomy 32:31 (JPS)",
+    "connected_to": "Deuteronomy 32:32",
+    "connected_from": "Deuteronomy 32:30"
+  },
+  {
+    "text": "For their vine is of the vine of Sodom, And of the fields of Gomorrah; Their grapes are grapes of gall, Their clusters are bitter;",
+    "reference": "Deuteronomy 32:32 (JPS)",
+    "connected_to": "Deuteronomy 32:33",
+    "connected_from": "Deuteronomy 32:31"
+  },
+  {
+    "text": "Their wine is the venom of serpents, And the cruel poison of asps.",
+    "reference": "Deuteronomy 32:33 (JPS)",
+    "connected_to": "Deuteronomy 32:34",
+    "connected_from": "Deuteronomy 32:32"
+  },
+  {
+    "text": "Is not this laid up in store with Me, Sealed up in My treasuries?",
+    "reference": "Deuteronomy 32:34 (JPS)",
+    "connected_to": "Deuteronomy 32:35",
+    "connected_from": "Deuteronomy 32:33"
+  },
+  {
+    "text": "Vengeance is Mine, and recompense, Against the time when their foot shall slip; For the day of their calamity is at hand, And the things that are to come upon them shall make haste.",
+    "reference": "Deuteronomy 32:35 (JPS)",
+    "connected_to": "Deuteronomy 32:36",
+    "connected_from": "Deuteronomy 32:34"
+  },
+  {
+    "text": "For the LORD will judge His people, And repent Himself for His servants; When He seeth that their stay is gone, And there is none remaining, shut up or left at large.",
+    "reference": "Deuteronomy 32:36 (JPS)",
+    "connected_to": "Deuteronomy 32:37",
+    "connected_from": "Deuteronomy 32:35"
+  },
+  {
+    "text": "And it is said: Where are their gods, The rock in whom they trusted;",
+    "reference": "Deuteronomy 32:37 (JPS)",
+    "connected_to": "Deuteronomy 32:38",
+    "connected_from": "Deuteronomy 32:36"
+  },
+  {
+    "text": "Who did eat the fat of their sacrifices, And drank the wine of their drink-offering? Let him rise up and help you, Let him be your protection.",
+    "reference": "Deuteronomy 32:38 (JPS)",
+    "connected_to": "Deuteronomy 32:39",
+    "connected_from": "Deuteronomy 32:37"
+  },
+  {
+    "text": "See now that I, even I, am He, And there is no god with Me; I kill, and I make alive; I have wounded, and I heal; And there is none that can deliver out of My hand.",
+    "reference": "Deuteronomy 32:39 (JPS)",
+    "connected_to": "Deuteronomy 32:40",
+    "connected_from": "Deuteronomy 32:38"
+  },
+  {
+    "text": "For I lift up My hand to heaven, And say: As I live for ever,",
+    "reference": "Deuteronomy 32:40 (JPS)",
+    "connected_to": "Deuteronomy 32:41",
+    "connected_from": "Deuteronomy 32:39"
+  },
+  {
+    "text": "If I whet My glittering sword, And My hand take hold on judgment; I will render vengeance to Mine adversaries, And will recompense them that hate Me.",
+    "reference": "Deuteronomy 32:41 (JPS)",
+    "connected_to": "Deuteronomy 32:42",
+    "connected_from": "Deuteronomy 32:40"
+  },
+  {
+    "text": "I will make Mine arrows drunk with blood, And My sword shall devour flesh; With the blood of the slain and the captives, From the long-haired heads of the enemy.’",
+    "reference": "Deuteronomy 32:42 (JPS)",
+    "connected_to": "Deuteronomy 32:43",
+    "connected_from": "Deuteronomy 32:41"
+  },
+  {
+    "text": "Sing aloud, O ye nations, of His people; For He doth avenge the blood of His servants, And doth render vengeance to His adversaries, And doth make expiation for the land of His people.",
+    "reference": "Deuteronomy 32:43 (JPS)",
+    "connected_to": "Deuteronomy 32:44",
+    "connected_from": "Deuteronomy 32:42"
+  },
+  {
+    "text": "And Moses came and spoke all the words of this song in the ears of the people, he, and Hoshea the son of Nun.",
+    "reference": "Deuteronomy 32:44 (JPS)",
+    "connected_to": "Deuteronomy 32:45",
+    "connected_from": "Deuteronomy 32:43"
+  },
+  {
+    "text": "And when Moses made an end of speaking all these words to all Israel,",
+    "reference": "Deuteronomy 32:45 (JPS)",
+    "connected_to": "Deuteronomy 32:46",
+    "connected_from": "Deuteronomy 32:44"
+  },
+  {
+    "text": "he said unto them: ‘Set your heart unto all the words wherewith I testify against you this day; that ye may charge your children therewith to observe to do all the words of this law.",
+    "reference": "Deuteronomy 32:46 (JPS)",
+    "connected_to": "Deuteronomy 32:47",
+    "connected_from": "Deuteronomy 32:45"
+  },
+  {
+    "text": "For it is no vain thing for you; because it is your life, and through this thing ye shall prolong your days upon the land, whither ye go over the Jordan to possess it.’",
+    "reference": "Deuteronomy 32:47 (JPS)",
+    "connected_to": "Deuteronomy 32:48",
+    "connected_from": "Deuteronomy 32:46"
+  },
+  {
+    "text": "And the LORD spoke unto Moses that selfsame day, saying:",
+    "reference": "Deuteronomy 32:48 (JPS)",
+    "connected_to": "Deuteronomy 32:49",
+    "connected_from": "Deuteronomy 32:47"
+  },
+  {
+    "text": "Get thee up into this mountain of Abarim, unto mount Nebo, which is in the land of Moab, that is over against Jericho; and behold the land of Canaan, which I give unto the children of Israel for a possession;",
+    "reference": "Deuteronomy 32:49 (JPS)",
+    "connected_to": "Deuteronomy 32:50",
+    "connected_from": "Deuteronomy 32:48"
+  },
+  {
+    "text": "and die in the mount whither thou goest up, and be gathered unto thy people; as Aaron thy brother died in mount Hor, and was gathered unto his people.",
+    "reference": "Deuteronomy 32:50 (JPS)",
+    "connected_to": "Deuteronomy 32:51",
+    "connected_from": "Deuteronomy 32:49"
+  },
+  {
+    "text": "Because ye trespassed against Me in the midst of the children of Israel at the waters of Meribath-kadesh, in the wilderness of Zin; because ye sanctified Me not in the midst of the children of Israel.",
+    "reference": "Deuteronomy 32:51 (JPS)",
+    "connected_to": "Deuteronomy 32:52",
+    "connected_from": "Deuteronomy 32:50"
+  },
+  {
+    "text": "For thou shalt see the land afar off; but thou shalt not go thither into the land which I give the children of Israel.’",
+    "reference": "Deuteronomy 32:52 (JPS)",
+    "connected_from": "Deuteronomy 32:51"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "text": "And Moses went up from the plains of Moab to mount Nebo, to the top of Pisgah, which is opposite Jericho. And Jehovah shewed him the whole land, Gilead to Dan,",
+    "reference": "Deuteronomy 34:1 (DBT)",
+    "connected_to": "Deuteronomy 34:2"
+  },
+  {
+    "text": "and all Naphtali, and the land of Ephraim, and Manasseh, and all the land of Judah, unto the hindmost sea,",
+    "reference": "Deuteronomy 34:2 (DBT)",
+    "connected_to": "Deuteronomy 34:3",
+    "connected_from": "Deuteronomy 34:1"
+  },
+  {
+    "text": "and the south, and the plain of the valley of Jericho, the city of palm-trees, to Zoar.",
+    "reference": "Deuteronomy 34:3 (DBT)",
+    "connected_to": "Deuteronomy 34:4",
+    "connected_from": "Deuteronomy 34:2"
+  },
+  {
+    "text": "And Jehovah said unto him, This is the land that I swore unto Abraham, unto Isaac, and unto Jacob, saying, Unto thy seed will I give it: I have caused thee to see it with thine eyes, but thou shalt not go over thither.",
+    "reference": "Deuteronomy 34:4 (DBT)",
+    "connected_to": "Deuteronomy 34:5",
+    "connected_from": "Deuteronomy 34:3"
+  },
+  {
+    "text": "And Moses the servant of Jehovah died there in the land of Moab, according to the word of Jehovah.",
+    "reference": "Deuteronomy 34:5 (DBT)",
+    "connected_to": "Deuteronomy 34:6",
+    "connected_from": "Deuteronomy 34:4"
+  },
+  {
+    "text": "And he buried him in the valley in the land of Moab, opposite Beth-Peor; and no man knows his sepulchre to this day.",
+    "reference": "Deuteronomy 34:6 (DBT)",
+    "connected_to": "Deuteronomy 34:7",
+    "connected_from": "Deuteronomy 34:5"
+  },
+  {
+    "text": "And Moses was a hundred and twenty years old when he died; his eye was not dim, nor his natural force abated.",
+    "reference": "Deuteronomy 34:7 (DBT)",
+    "connected_to": "Deuteronomy 34:8",
+    "connected_from": "Deuteronomy 34:6"
+  },
+  {
+    "text": "And the children of Israel wept for Moses in the plains of Moab thirty days; and the days of weeping and mourning for Moses were ended.",
+    "reference": "Deuteronomy 34:8 (DBT)",
+    "connected_to": "Deuteronomy 34:9",
+    "connected_from": "Deuteronomy 34:7"
+  },
+  {
+    "text": "And Joshua the son of Nun was filled with the spirit of wisdom, for Moses had laid his hands upon him; and the children of Israel hearkened unto him, and did as Jehovah had commanded Moses.",
+    "reference": "Deuteronomy 34:9 (DBT)",
+    "connected_to": "Deuteronomy 34:10",
+    "connected_from": "Deuteronomy 34:8"
+  },
+  {
+    "text": "And there arose no prophet since in Israel like Moses, whom Jehovah had known face to face;",
+    "reference": "Deuteronomy 34:10 (DBT)",
+    "connected_to": "Deuteronomy 34:11",
+    "connected_from": "Deuteronomy 34:9"
+  },
+  {
+    "text": "according to all the signs and wonders that Jehovah had sent him to do in the land of Egypt, to Pharaoh, and to all his servants, and to all his land;",
+    "reference": "Deuteronomy 34:11 (DBT)",
+    "connected_to": "Deuteronomy 34:12",
+    "connected_from": "Deuteronomy 34:10"
+  },
+  {
+    "text": "and according to all that mighty hand; and according to all the great terribleness that Moses had wrought in the sight of all Israel.",
+    "reference": "Deuteronomy 34:12 (DBT)",
+    "connected_from": "Deuteronomy 34:11"
+  }
+]

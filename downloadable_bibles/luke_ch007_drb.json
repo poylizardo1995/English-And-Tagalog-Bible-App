@@ -1,0 +1,300 @@
+[
+  {
+    "text": "AND when he had finished all his words in the hearing of the people, he entered into Capharnaum.",
+    "reference": "Luke 7:1 (DRB)",
+    "connected_to": "Luke 7:2"
+  },
+  {
+    "text": "And the servant of a certain centurion, who was dear to him, being sick, was ready to die.",
+    "reference": "Luke 7:2 (DRB)",
+    "connected_to": "Luke 7:3",
+    "connected_from": "Luke 7:1"
+  },
+  {
+    "text": "And when he had heard of Jesus, he sent unto him the ancients of the Jews, desiring him to come and heal his servant.",
+    "reference": "Luke 7:3 (DRB)",
+    "connected_to": "Luke 7:4",
+    "connected_from": "Luke 7:2"
+  },
+  {
+    "text": "And when they came to Jesus, they besought him earnestly, saying to him: He is worthy that thou shouldest do this for him.",
+    "reference": "Luke 7:4 (DRB)",
+    "connected_to": "Luke 7:5",
+    "connected_from": "Luke 7:3"
+  },
+  {
+    "text": "For he loveth our nation; and he hath built us a synagogue.",
+    "reference": "Luke 7:5 (DRB)",
+    "connected_to": "Luke 7:6",
+    "connected_from": "Luke 7:4"
+  },
+  {
+    "text": "And Jesus went with them. And when he was now not far from the house, the centurion sent his friends to him, saying: Lord, trouble not thyself; for I am not worthy that thou shouldest enter under my roof.",
+    "reference": "Luke 7:6 (DRB)",
+    "connected_to": "Luke 7:7",
+    "connected_from": "Luke 7:5"
+  },
+  {
+    "text": "For which cause neither did I think myself worthy to come to thee; but say the word, and my servant shall be healed.",
+    "reference": "Luke 7:7 (DRB)",
+    "connected_to": "Luke 7:8",
+    "connected_from": "Luke 7:6"
+  },
+  {
+    "text": "For I also am a man subject to authority, having under me soldiers: and I say to one, Go, and he goeth; and to another, Come, and he cometh; and to my servant, Do this, and he doth it.",
+    "reference": "Luke 7:8 (DRB)",
+    "connected_to": "Luke 7:9",
+    "connected_from": "Luke 7:7"
+  },
+  {
+    "text": "Which Jesus hearing, marvelled: and turning about to the multitude that followed him, he said: Amen I say to you, I have not found so great faith, not even in Israel.",
+    "reference": "Luke 7:9 (DRB)",
+    "connected_to": "Luke 7:10",
+    "connected_from": "Luke 7:8"
+  },
+  {
+    "text": "And they who were sent, being returned to the house, found the servant whole who had been sick.",
+    "reference": "Luke 7:10 (DRB)",
+    "connected_to": "Luke 7:11",
+    "connected_from": "Luke 7:9"
+  },
+  {
+    "text": "And it came to pass afterwards, that he went into a city that is called Naim; and there went with him his disciples, and a great multitude.",
+    "reference": "Luke 7:11 (DRB)",
+    "connected_to": "Luke 7:12",
+    "connected_from": "Luke 7:10"
+  },
+  {
+    "text": "And when he came nigh to the gate of the city, behold a dead man was carried out, the only son of his mother; and she was a widow: and a great multitude of the city was with her.",
+    "reference": "Luke 7:12 (DRB)",
+    "connected_to": "Luke 7:13",
+    "connected_from": "Luke 7:11"
+  },
+  {
+    "text": "Whom when the Lord had seen, being moved with mercy towards her, he said to her: Weep not.",
+    "reference": "Luke 7:13 (DRB)",
+    "connected_to": "Luke 7:14",
+    "connected_from": "Luke 7:12"
+  },
+  {
+    "text": "And he came near and touched the bier. And they that carried it, stood still. And he said: Young man, I say to thee, arise.",
+    "reference": "Luke 7:14 (DRB)",
+    "connected_to": "Luke 7:15",
+    "connected_from": "Luke 7:13"
+  },
+  {
+    "text": "And he that was dead, sat up, and began to speak. And he gave him to his mother.",
+    "reference": "Luke 7:15 (DRB)",
+    "connected_to": "Luke 7:16",
+    "connected_from": "Luke 7:14"
+  },
+  {
+    "text": "And there came a fear on them all: and they glorified God, saying: A great prophet is risen up among us: and, God hath visited his people.",
+    "reference": "Luke 7:16 (DRB)",
+    "connected_to": "Luke 7:17",
+    "connected_from": "Luke 7:15"
+  },
+  {
+    "text": "And this rumour of him went forth throughout all Judea, and throughout all the country round about.",
+    "reference": "Luke 7:17 (DRB)",
+    "connected_to": "Luke 7:18",
+    "connected_from": "Luke 7:16"
+  },
+  {
+    "text": "And John’s disciples told him of all these things.",
+    "reference": "Luke 7:18 (DRB)",
+    "connected_to": "Luke 7:19",
+    "connected_from": "Luke 7:17"
+  },
+  {
+    "text": "And John called to him two of his disciples, and sent them to Jesus, saying: Art thou he that art to come; or look we for another?",
+    "reference": "Luke 7:19 (DRB)",
+    "connected_to": "Luke 7:20",
+    "connected_from": "Luke 7:18"
+  },
+  {
+    "text": "And when the men were come unto him, they said: John the Baptist hath sent us to thee, saying: Art thou he that art to come; or look we for another?",
+    "reference": "Luke 7:20 (DRB)",
+    "connected_to": "Luke 7:21",
+    "connected_from": "Luke 7:19"
+  },
+  {
+    "text": "(And in that same hour, he cured many of their diseases, and hurts, and evil spirits: and to many that were blind he gave sight.)",
+    "reference": "Luke 7:21 (DRB)",
+    "connected_to": "Luke 7:22",
+    "connected_from": "Luke 7:20"
+  },
+  {
+    "text": "And answering, he said to them: Go and relate to John what you have heard and seen: the blind see, the lame walk, the lepers are made clean, the deaf hear, the dead rise again, to the poor the gospel is preached:",
+    "reference": "Luke 7:22 (DRB)",
+    "connected_to": "Luke 7:23",
+    "connected_from": "Luke 7:21"
+  },
+  {
+    "text": "And blessed is he whosoever shall not be scandalized in me.",
+    "reference": "Luke 7:23 (DRB)",
+    "connected_to": "Luke 7:24",
+    "connected_from": "Luke 7:22"
+  },
+  {
+    "text": "And when the messengers of John were departed, he began to speak to the multitudes concerning John. What went ye out into the desert to see? a reed shaken with the wind?",
+    "reference": "Luke 7:24 (DRB)",
+    "connected_to": "Luke 7:25",
+    "connected_from": "Luke 7:23"
+  },
+  {
+    "text": "But what went you out to see? a man clothed in soft garments? Behold they that are in costly apparel and live delicately, are in the houses of kings.",
+    "reference": "Luke 7:25 (DRB)",
+    "connected_to": "Luke 7:26",
+    "connected_from": "Luke 7:24"
+  },
+  {
+    "text": "But what went you out to see? a prophet? Yea, I say to you, and more than a prophet.",
+    "reference": "Luke 7:26 (DRB)",
+    "connected_to": "Luke 7:27",
+    "connected_from": "Luke 7:25"
+  },
+  {
+    "text": "This is he of whom it is written: Behold I send my angel before thy face, who shall prepare thy way before thee.",
+    "reference": "Luke 7:27 (DRB)",
+    "connected_to": "Luke 7:28",
+    "connected_from": "Luke 7:26"
+  },
+  {
+    "text": "For I say to you: Amongst those that are born of women, there is not a greater prophet that John the Baptist. But he that is the lesser in the kingdom of God, is greater than he.",
+    "reference": "Luke 7:28 (DRB)",
+    "connected_to": "Luke 7:29",
+    "connected_from": "Luke 7:27"
+  },
+  {
+    "text": "And all the people hearing, and the publicans, justified God, being baptized with John’s baptism.",
+    "reference": "Luke 7:29 (DRB)",
+    "connected_to": "Luke 7:30",
+    "connected_from": "Luke 7:28"
+  },
+  {
+    "text": "But the Pharisees and the lawyers despised the counsel of God against themselves, being not baptized by him.",
+    "reference": "Luke 7:30 (DRB)",
+    "connected_to": "Luke 7:31",
+    "connected_from": "Luke 7:29"
+  },
+  {
+    "text": "And the Lord said: Whereunto then shall I liken the men of this generation? and to what are they like?",
+    "reference": "Luke 7:31 (DRB)",
+    "connected_to": "Luke 7:32",
+    "connected_from": "Luke 7:30"
+  },
+  {
+    "text": "They are like to children sitting in the marketplace, and speaking one to another, and saying: We have piped to you, and you have not danced: we have mourned, and you have not wept.",
+    "reference": "Luke 7:32 (DRB)",
+    "connected_to": "Luke 7:33",
+    "connected_from": "Luke 7:31"
+  },
+  {
+    "text": "For John the Baptist came neither eating bread nor drinking wine; and you say: He hath a devil.",
+    "reference": "Luke 7:33 (DRB)",
+    "connected_to": "Luke 7:34",
+    "connected_from": "Luke 7:32"
+  },
+  {
+    "text": "The Son of man is come eating and drinking: and you say: Behold a man that is a glutton and a drinker of wine, a friend of publicans and sinners.",
+    "reference": "Luke 7:34 (DRB)",
+    "connected_to": "Luke 7:35",
+    "connected_from": "Luke 7:33"
+  },
+  {
+    "text": "And wisdom is justified by all her children.",
+    "reference": "Luke 7:35 (DRB)",
+    "connected_to": "Luke 7:36",
+    "connected_from": "Luke 7:34"
+  },
+  {
+    "text": "And one of the Pharisees desired him to eat with him. And he went into the house of the Pharisee, and sat down to meat.",
+    "reference": "Luke 7:36 (DRB)",
+    "connected_to": "Luke 7:37",
+    "connected_from": "Luke 7:35"
+  },
+  {
+    "text": "And behold a woman that was in the city, a sinner, when she knew that he sat at meat in the Pharisee’s house, brought an alabaster box of ointment;",
+    "reference": "Luke 7:37 (DRB)",
+    "connected_to": "Luke 7:38",
+    "connected_from": "Luke 7:36"
+  },
+  {
+    "text": "And standing behind at his feet, she began to wash his feet, with tears, and wiped them with the hairs of her head, and kissed his feet, and anointed them with the ointment.",
+    "reference": "Luke 7:38 (DRB)",
+    "connected_to": "Luke 7:39",
+    "connected_from": "Luke 7:37"
+  },
+  {
+    "text": "And the Pharisee, who had invited him, seeing it, spoke within himself, saying: This man, if he were a prophet, would know surely who and what manner of woman this is that toucheth him, that she is a sinner.",
+    "reference": "Luke 7:39 (DRB)",
+    "connected_to": "Luke 7:40",
+    "connected_from": "Luke 7:38"
+  },
+  {
+    "text": "And Jesus answering, said to him: Simon, I have somewhat to say to thee. But he said: Master, say it.",
+    "reference": "Luke 7:40 (DRB)",
+    "connected_to": "Luke 7:41",
+    "connected_from": "Luke 7:39"
+  },
+  {
+    "text": "A certain creditor had two debtors, the one who owed five hundred pence, and the other fifty.",
+    "reference": "Luke 7:41 (DRB)",
+    "connected_to": "Luke 7:42",
+    "connected_from": "Luke 7:40"
+  },
+  {
+    "text": "And whereas they had not wherewith to pay, he forgave them both. Which therefore of the two loveth him most?",
+    "reference": "Luke 7:42 (DRB)",
+    "connected_to": "Luke 7:43",
+    "connected_from": "Luke 7:41"
+  },
+  {
+    "text": "Simon answering, said: I suppose that he to whom he forgave most. And he said to him: Thou hast judged rightly.",
+    "reference": "Luke 7:43 (DRB)",
+    "connected_to": "Luke 7:44",
+    "connected_from": "Luke 7:42"
+  },
+  {
+    "text": "And turning to the woman, he said unto Simon: Dost thou see this woman? I entered into thy house, thou gavest me no water for my feet; but she with tears hath washed my feet, and with her hairs hath wiped them.",
+    "reference": "Luke 7:44 (DRB)",
+    "connected_to": "Luke 7:45",
+    "connected_from": "Luke 7:43"
+  },
+  {
+    "text": "Thou gavest me no kiss; but she, since she came in, hath not ceased to kiss my feet.",
+    "reference": "Luke 7:45 (DRB)",
+    "connected_to": "Luke 7:46",
+    "connected_from": "Luke 7:44"
+  },
+  {
+    "text": "My head with oil thou didst not anoint; but she with ointment hath anointed my feet.",
+    "reference": "Luke 7:46 (DRB)",
+    "connected_to": "Luke 7:47",
+    "connected_from": "Luke 7:45"
+  },
+  {
+    "text": "Wherefore I say to thee: Many sins are forgiven her, because she hath loved much. But to whom less is forgiven, he loveth less.",
+    "reference": "Luke 7:47 (DRB)",
+    "connected_to": "Luke 7:48",
+    "connected_from": "Luke 7:46"
+  },
+  {
+    "text": "And he said to her: Thy sins are forgiven thee.",
+    "reference": "Luke 7:48 (DRB)",
+    "connected_to": "Luke 7:49",
+    "connected_from": "Luke 7:47"
+  },
+  {
+    "text": "And they that sat at meat with him began to say within themselves: Who is this that forgiveth sins also?",
+    "reference": "Luke 7:49 (DRB)",
+    "connected_to": "Luke 7:50",
+    "connected_from": "Luke 7:48"
+  },
+  {
+    "text": "And he said to the woman: Thy faith hath made thee safe, go in peace.",
+    "reference": "Luke 7:50 (DRB)",
+    "connected_from": "Luke 7:49"
+  }
+]

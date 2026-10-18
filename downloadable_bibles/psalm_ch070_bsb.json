@@ -1,0 +1,30 @@
+[
+  {
+    "text": "For the choirmaster. Of David. To bring remembrance. Make haste, O God, to deliver me! Hurry, O LORD, to help me!",
+    "reference": "Psalm 70:1 (BSB)",
+    "connected_to": "Psalm 70:2"
+  },
+  {
+    "text": "May those who seek my life be ashamed and confounded; may those who wish me harm be repelled and humiliated.",
+    "reference": "Psalm 70:2 (BSB)",
+    "connected_to": "Psalm 70:3",
+    "connected_from": "Psalm 70:1"
+  },
+  {
+    "text": "May those who say, “Aha, aha!” retreat because of their shame.",
+    "reference": "Psalm 70:3 (BSB)",
+    "connected_to": "Psalm 70:4",
+    "connected_from": "Psalm 70:2"
+  },
+  {
+    "text": "May all who seek You rejoice and be glad in You; may those who love Your salvation always say, “Let God be magnified!”",
+    "reference": "Psalm 70:4 (BSB)",
+    "connected_to": "Psalm 70:5",
+    "connected_from": "Psalm 70:3"
+  },
+  {
+    "text": "But I am poor and needy; hurry to me, O God. You are my help and my deliverer; O LORD, do not delay.",
+    "reference": "Psalm 70:5 (BSB)",
+    "connected_from": "Psalm 70:4"
+  }
+]

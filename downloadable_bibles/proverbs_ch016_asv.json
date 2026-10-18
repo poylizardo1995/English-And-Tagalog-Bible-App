@@ -1,0 +1,198 @@
+[
+  {
+    "text": "The plans of the heart belong to man; But the answer of the tongue is from Jehovah.",
+    "reference": "Proverbs 16:1 (ASV)",
+    "connected_to": "Proverbs 16:2"
+  },
+  {
+    "text": "All the ways of a man are clean in his own eyes; But Jehovah weigheth the spirits.",
+    "reference": "Proverbs 16:2 (ASV)",
+    "connected_to": "Proverbs 16:3",
+    "connected_from": "Proverbs 16:1"
+  },
+  {
+    "text": "Commit thy works unto Jehovah, And thy purposes shall be established.",
+    "reference": "Proverbs 16:3 (ASV)",
+    "connected_to": "Proverbs 16:4",
+    "connected_from": "Proverbs 16:2"
+  },
+  {
+    "text": "Jehovah hath made everything for its own end; Yea, even the wicked for the day of evil.",
+    "reference": "Proverbs 16:4 (ASV)",
+    "connected_to": "Proverbs 16:5",
+    "connected_from": "Proverbs 16:3"
+  },
+  {
+    "text": "Every one that is proud in heart is an abomination to Jehovah: Though hand join in hand, he shall not be unpunished.",
+    "reference": "Proverbs 16:5 (ASV)",
+    "connected_to": "Proverbs 16:6",
+    "connected_from": "Proverbs 16:4"
+  },
+  {
+    "text": "By mercy and truth iniquity is atoned for; And by the fear of Jehovah men depart from evil.",
+    "reference": "Proverbs 16:6 (ASV)",
+    "connected_to": "Proverbs 16:7",
+    "connected_from": "Proverbs 16:5"
+  },
+  {
+    "text": "When a man’s ways please Jehovah, He maketh even his enemies to be at peace with him.",
+    "reference": "Proverbs 16:7 (ASV)",
+    "connected_to": "Proverbs 16:8",
+    "connected_from": "Proverbs 16:6"
+  },
+  {
+    "text": "Better is a little, with righteousness, Than great revenues with injustice.",
+    "reference": "Proverbs 16:8 (ASV)",
+    "connected_to": "Proverbs 16:9",
+    "connected_from": "Proverbs 16:7"
+  },
+  {
+    "text": "A man’s heart deviseth his way; But Jehovah directeth his steps.",
+    "reference": "Proverbs 16:9 (ASV)",
+    "connected_to": "Proverbs 16:10",
+    "connected_from": "Proverbs 16:8"
+  },
+  {
+    "text": "A divine sentence is in the lips of the king; His mouth shall not transgress in judgment.",
+    "reference": "Proverbs 16:10 (ASV)",
+    "connected_to": "Proverbs 16:11",
+    "connected_from": "Proverbs 16:9"
+  },
+  {
+    "text": "A just balance and scales are Jehovah’s; All the weights of the bag are his work.",
+    "reference": "Proverbs 16:11 (ASV)",
+    "connected_to": "Proverbs 16:12",
+    "connected_from": "Proverbs 16:10"
+  },
+  {
+    "text": "It is an abomination to kings to commit wickedness; For the throne is established by righteousness.",
+    "reference": "Proverbs 16:12 (ASV)",
+    "connected_to": "Proverbs 16:13",
+    "connected_from": "Proverbs 16:11"
+  },
+  {
+    "text": "Righteous lips are the delight of kings; And they love him that speaketh right.",
+    "reference": "Proverbs 16:13 (ASV)",
+    "connected_to": "Proverbs 16:14",
+    "connected_from": "Proverbs 16:12"
+  },
+  {
+    "text": "The wrath of a king is as messengers of death; But a wise man will pacify it.",
+    "reference": "Proverbs 16:14 (ASV)",
+    "connected_to": "Proverbs 16:15",
+    "connected_from": "Proverbs 16:13"
+  },
+  {
+    "text": "In the light of the king’s countenance is life; And his favor is as a cloud of the latter rain.",
+    "reference": "Proverbs 16:15 (ASV)",
+    "connected_to": "Proverbs 16:16",
+    "connected_from": "Proverbs 16:14"
+  },
+  {
+    "text": "How much better is it to get wisdom than gold! Yea, to get understanding is rather to be chosen than silver.",
+    "reference": "Proverbs 16:16 (ASV)",
+    "connected_to": "Proverbs 16:17",
+    "connected_from": "Proverbs 16:15"
+  },
+  {
+    "text": "The highway of the upright is to depart from evil: He that keepeth his way preserveth his soul.",
+    "reference": "Proverbs 16:17 (ASV)",
+    "connected_to": "Proverbs 16:18",
+    "connected_from": "Proverbs 16:16"
+  },
+  {
+    "text": "Pride goeth before destruction, And a haughty spirit before a fall.",
+    "reference": "Proverbs 16:18 (ASV)",
+    "connected_to": "Proverbs 16:19",
+    "connected_from": "Proverbs 16:17"
+  },
+  {
+    "text": "Better it is to be of a lowly spirit with the poor, Than to divide the spoil with the proud.",
+    "reference": "Proverbs 16:19 (ASV)",
+    "connected_to": "Proverbs 16:20",
+    "connected_from": "Proverbs 16:18"
+  },
+  {
+    "text": "He that giveth heed unto the word shall find good; And whoso trusteth in Jehovah, happy is he.",
+    "reference": "Proverbs 16:20 (ASV)",
+    "connected_to": "Proverbs 16:21",
+    "connected_from": "Proverbs 16:19"
+  },
+  {
+    "text": "The wise in heart shall be called prudent; And the sweetness of the lips increaseth learning.",
+    "reference": "Proverbs 16:21 (ASV)",
+    "connected_to": "Proverbs 16:22",
+    "connected_from": "Proverbs 16:20"
+  },
+  {
+    "text": "Understanding is a well-spring of life unto him that hath it; But the correction of fools is their folly.",
+    "reference": "Proverbs 16:22 (ASV)",
+    "connected_to": "Proverbs 16:23",
+    "connected_from": "Proverbs 16:21"
+  },
+  {
+    "text": "The heart of the wise instructeth his mouth, And addeth learning to his lips.",
+    "reference": "Proverbs 16:23 (ASV)",
+    "connected_to": "Proverbs 16:24",
+    "connected_from": "Proverbs 16:22"
+  },
+  {
+    "text": "Pleasant words are as a honeycomb, Sweet to the soul, and health to the bones.",
+    "reference": "Proverbs 16:24 (ASV)",
+    "connected_to": "Proverbs 16:25",
+    "connected_from": "Proverbs 16:23"
+  },
+  {
+    "text": "There is a way which seemeth right unto a man, But the end thereof are the ways of death.",
+    "reference": "Proverbs 16:25 (ASV)",
+    "connected_to": "Proverbs 16:26",
+    "connected_from": "Proverbs 16:24"
+  },
+  {
+    "text": "The appetite of the laboring man laboreth for him; For his mouth urgeth him thereto.",
+    "reference": "Proverbs 16:26 (ASV)",
+    "connected_to": "Proverbs 16:27",
+    "connected_from": "Proverbs 16:25"
+  },
+  {
+    "text": "A worthless man deviseth mischief; And in his lips there is as a scorching fire.",
+    "reference": "Proverbs 16:27 (ASV)",
+    "connected_to": "Proverbs 16:28",
+    "connected_from": "Proverbs 16:26"
+  },
+  {
+    "text": "A perverse man scattereth abroad strife; And a whisperer separateth chief friends.",
+    "reference": "Proverbs 16:28 (ASV)",
+    "connected_to": "Proverbs 16:29",
+    "connected_from": "Proverbs 16:27"
+  },
+  {
+    "text": "A man of violence enticeth his neighbor, And leadeth him in a way that is not good.",
+    "reference": "Proverbs 16:29 (ASV)",
+    "connected_to": "Proverbs 16:30",
+    "connected_from": "Proverbs 16:28"
+  },
+  {
+    "text": "He that shutteth his eyes, it is to devise perverse things: He that compresseth his lips bringeth evil to pass.",
+    "reference": "Proverbs 16:30 (ASV)",
+    "connected_to": "Proverbs 16:31",
+    "connected_from": "Proverbs 16:29"
+  },
+  {
+    "text": "The hoary head is a crown of glory; It shall be found in the way of righteousness.",
+    "reference": "Proverbs 16:31 (ASV)",
+    "connected_to": "Proverbs 16:32",
+    "connected_from": "Proverbs 16:30"
+  },
+  {
+    "text": "He that is slow to anger is better than the mighty; And he that ruleth his spirit, than he that taketh a city.",
+    "reference": "Proverbs 16:32 (ASV)",
+    "connected_to": "Proverbs 16:33",
+    "connected_from": "Proverbs 16:31"
+  },
+  {
+    "text": "The lot is cast into the lap; But the whole disposing thereof is of Jehovah.",
+    "reference": "Proverbs 16:33 (ASV)",
+    "connected_from": "Proverbs 16:32"
+  }
+]

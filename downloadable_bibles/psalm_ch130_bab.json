@@ -1,0 +1,48 @@
+[
+  {
+    "text": "A song of ascents. <span class=|reftext|><a href=|#|><b>1</b></a> Out of the depths I cry to You, O LORD {YHWH}!",
+    "reference": "Psalm 130:1 (BAB)",
+    "connected_to": "Psalm 130:2"
+  },
+  {
+    "text": "O Lord {Adonai}, hear my voice; let Your ears be attentive to my plea for mercy.",
+    "reference": "Psalm 130:2 (BAB)",
+    "connected_to": "Psalm 130:3",
+    "connected_from": "Psalm 130:1"
+  },
+  {
+    "text": "If You, O LORD, kept track of iniquities, then who, O Lord {Adonai}, could stand?",
+    "reference": "Psalm 130:3 (BAB)",
+    "connected_to": "Psalm 130:4",
+    "connected_from": "Psalm 130:2"
+  },
+  {
+    "text": "But with You there is forgiveness, so that You may be feared.",
+    "reference": "Psalm 130:4 (BAB)",
+    "connected_to": "Psalm 130:5",
+    "connected_from": "Psalm 130:3"
+  },
+  {
+    "text": "I wait for the LORD {YHWH}; my soul does wait, and in His word I put my hope.",
+    "reference": "Psalm 130:5 (BAB)",
+    "connected_to": "Psalm 130:6",
+    "connected_from": "Psalm 130:4"
+  },
+  {
+    "text": "My soul waits for the Lord {Adonai} more than watchmen wait for the morning—more than watchmen wait for the morning.",
+    "reference": "Psalm 130:6 (BAB)",
+    "connected_to": "Psalm 130:7",
+    "connected_from": "Psalm 130:5"
+  },
+  {
+    "text": "O Israel (he wrestles with God), put your hope in the LORD {YHWH}, for with the LORD is loving devotion, and with Him is redemption in abundance.",
+    "reference": "Psalm 130:7 (BAB)",
+    "connected_to": "Psalm 130:8",
+    "connected_from": "Psalm 130:6"
+  },
+  {
+    "text": "And He will redeem Israel (he wrestles with God) from all iniquity.",
+    "reference": "Psalm 130:8 (BAB)",
+    "connected_from": "Psalm 130:7"
+  }
+]

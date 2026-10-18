@@ -1,0 +1,48 @@
+[
+  {
+    "text": "A Song of the Ascents. <span class=|reftext|><a href=|#|><b>1</b></a> Out of the depths I have called out to You, O YHWH!",
+    "reference": "Psalm 130:1 (BLB)",
+    "connected_to": "Psalm 130:2"
+  },
+  {
+    "text": "O Lord, listen to my voice! Let Your ears be attentive to the voice of my supplications!",
+    "reference": "Psalm 130:2 (BLB)",
+    "connected_to": "Psalm 130:3",
+    "connected_from": "Psalm 130:1"
+  },
+  {
+    "text": "If You were to mark iniquities, O YAH, O Lord, who could stand?",
+    "reference": "Psalm 130:3 (BLB)",
+    "connected_to": "Psalm 130:4",
+    "connected_from": "Psalm 130:2"
+  },
+  {
+    "text": "But with You [is] forgiveness, so that You may be feared.",
+    "reference": "Psalm 130:4 (BLB)",
+    "connected_to": "Psalm 130:5",
+    "connected_from": "Psalm 130:3"
+  },
+  {
+    "text": "I wait for YHWH; my soul waits, and in His word I have hoped.",
+    "reference": "Psalm 130:5 (BLB)",
+    "connected_to": "Psalm 130:6",
+    "connected_from": "Psalm 130:4"
+  },
+  {
+    "text": "My soul [is] for the Lord, more than those watching for the morning, watching for the morning.",
+    "reference": "Psalm 130:6 (BLB)",
+    "connected_to": "Psalm 130:7",
+    "connected_from": "Psalm 130:5"
+  },
+  {
+    "text": "Look with hope, O Israel, unto YHWH! For with YHWH is loving devotion, and redemption [is] abundant with Him.",
+    "reference": "Psalm 130:7 (BLB)",
+    "connected_to": "Psalm 130:8",
+    "connected_from": "Psalm 130:6"
+  },
+  {
+    "text": "And He will redeem Israel from all his iniquities.",
+    "reference": "Psalm 130:8 (BLB)",
+    "connected_from": "Psalm 130:7"
+  }
+]

@@ -1,0 +1,204 @@
+[
+  {
+    "text": "When Jesus came down from the mountain, large crowds followed Him.",
+    "reference": "Matthew 8:1 (BAB)",
+    "connected_to": "Matthew 8:2"
+  },
+  {
+    "text": "Suddenly a leper <Lev 13> came and knelt before Him, saying, “Lord {Kyrie}, if You are willing, You can make me clean.",
+    "reference": "Matthew 8:2 (BAB)",
+    "connected_to": "Matthew 8:3",
+    "connected_from": "Matthew 8:1"
+  },
+  {
+    "text": "Jesus reached out His hand and touched the man. “I am willing, He said. “Be clean! And immediately his leprosy was cleansed.",
+    "reference": "Matthew 8:3 (BAB)",
+    "connected_to": "Matthew 8:4",
+    "connected_from": "Matthew 8:2"
+  },
+  {
+    "text": "Then Jesus (YHWH saves) instructed him, “See that you don’t tell anyone. But go, show yourself to the priest and offer the gift prescribed by Moses (drawn out), as a testimony to them <Lev 14:1–32>.”",
+    "reference": "Matthew 8:4 (BAB)",
+    "connected_to": "Matthew 8:5",
+    "connected_from": "Matthew 8:3"
+  },
+  {
+    "text": "When Jesus had entered Capernaum (village of comfort), a centurion (commander of a hundred) came and pleaded with Him,",
+    "reference": "Matthew 8:5 (BAB)",
+    "connected_to": "Matthew 8:6",
+    "connected_from": "Matthew 8:4"
+  },
+  {
+    "text": "“Lord {Kyrie}, my servant (child) lies at home, paralyzed and in terrible agony.",
+    "reference": "Matthew 8:6 (BAB)",
+    "connected_to": "Matthew 8:7",
+    "connected_from": "Matthew 8:5"
+  },
+  {
+    "text": "“I will go and heal him, Jesus replied.",
+    "reference": "Matthew 8:7 (BAB)",
+    "connected_to": "Matthew 8:8",
+    "connected_from": "Matthew 8:6"
+  },
+  {
+    "text": "The centurion (commander of a hundred) answered, “Lord {Kyrie}, I am not worthy to have You come under my roof. But just say the word, and my servant will be healed.",
+    "reference": "Matthew 8:8 (BAB)",
+    "connected_to": "Matthew 8:9",
+    "connected_from": "Matthew 8:7"
+  },
+  {
+    "text": "For I myself am a man under authority, with soldiers under me. I tell one to go, and he goes, and another to come, and he comes. I tell my servant {doulō} to do something, and he does it.",
+    "reference": "Matthew 8:9 (BAB)",
+    "connected_to": "Matthew 8:10",
+    "connected_from": "Matthew 8:8"
+  },
+  {
+    "text": "When Jesus (YHWH saves) heard this, He marveled and said to those following Him, “Truly I tell you⁺, I have not found anyone in Israel (He wrestles with God) with such great faith.",
+    "reference": "Matthew 8:10 (BAB)",
+    "connected_to": "Matthew 8:11",
+    "connected_from": "Matthew 8:9"
+  },
+  {
+    "text": "I say to you⁺ that many will come from the east and the west to share the banquet with Abraham (father of many), Isaac (he will laugh), and Jacob (he grasps the heel) in the kingdom of heaven.",
+    "reference": "Matthew 8:11 (BAB)",
+    "connected_to": "Matthew 8:12",
+    "connected_from": "Matthew 8:10"
+  },
+  {
+    "text": "But the sons of the kingdom will be thrown into the outer darkness, where there will be weeping and gnashing (grinding) of teeth.",
+    "reference": "Matthew 8:12 (BAB)",
+    "connected_to": "Matthew 8:13",
+    "connected_from": "Matthew 8:11"
+  },
+  {
+    "text": "Then Jesus (YHWH saves) said to the centurion (commander of a hundred), “Go! As you have believed (had faith), so will it be done for you. And his servant was healed at that very hour.",
+    "reference": "Matthew 8:13 (BAB)",
+    "connected_to": "Matthew 8:14",
+    "connected_from": "Matthew 8:12"
+  },
+  {
+    "text": "When Jesus (YHWH saves) arrived at Peter’s house, He saw Peter’s mother-in-law sick in bed with a fever.",
+    "reference": "Matthew 8:14 (BAB)",
+    "connected_to": "Matthew 8:15",
+    "connected_from": "Matthew 8:13"
+  },
+  {
+    "text": "So He touched her hand, and the fever left her, and she got up and began to serve Him.",
+    "reference": "Matthew 8:15 (BAB)",
+    "connected_to": "Matthew 8:16",
+    "connected_from": "Matthew 8:14"
+  },
+  {
+    "text": "When evening came, many who were demon-possessed were brought to Jesus, and He drove out the spirits {pneumata} with a word and healed all the sick.",
+    "reference": "Matthew 8:16 (BAB)",
+    "connected_to": "Matthew 8:17",
+    "connected_from": "Matthew 8:15"
+  },
+  {
+    "text": "This was to fulfill what was spoken through the prophet Isaiah (YHWH saves): “He took up our infirmities and carried our diseases <Isa 53:4>.”",
+    "reference": "Matthew 8:17 (BAB)",
+    "connected_to": "Matthew 8:18",
+    "connected_from": "Matthew 8:16"
+  },
+  {
+    "text": "When Jesus (YHWH saves) saw a large crowd around Him, He gave orders to cross to the other side of the sea (the Sea of Galilee).",
+    "reference": "Matthew 8:18 (BAB)",
+    "connected_to": "Matthew 8:19",
+    "connected_from": "Matthew 8:17"
+  },
+  {
+    "text": "And one of the scribes came to Him and said, “Teacher {Didaskale}, I will follow (accompany) You wherever You go.",
+    "reference": "Matthew 8:19 (BAB)",
+    "connected_to": "Matthew 8:20",
+    "connected_from": "Matthew 8:18"
+  },
+  {
+    "text": "Jesus (YHWH saves) replied, “Foxes have dens and birds of the air have nests, but the Son of Man has no place to lay His head.",
+    "reference": "Matthew 8:20 (BAB)",
+    "connected_to": "Matthew 8:21",
+    "connected_from": "Matthew 8:19"
+  },
+  {
+    "text": "Another of His disciples (pupils) requested, “Lord {Kyrie}, first let me go and bury my father {patera}.",
+    "reference": "Matthew 8:21 (BAB)",
+    "connected_to": "Matthew 8:22",
+    "connected_from": "Matthew 8:20"
+  },
+  {
+    "text": "But Jesus (YHWH saves) told him, “Follow (accompany) Me, and let the dead bury their own dead.",
+    "reference": "Matthew 8:22 (BAB)",
+    "connected_to": "Matthew 8:23",
+    "connected_from": "Matthew 8:21"
+  },
+  {
+    "text": "When He got into the boat, His disciples (pupils) followed Him.",
+    "reference": "Matthew 8:23 (BAB)",
+    "connected_to": "Matthew 8:24",
+    "connected_from": "Matthew 8:22"
+  },
+  {
+    "text": "Suddenly a violent storm came up on the sea, so that the boat was engulfed by the waves. But Jesus was sleeping.",
+    "reference": "Matthew 8:24 (BAB)",
+    "connected_to": "Matthew 8:25",
+    "connected_from": "Matthew 8:23"
+  },
+  {
+    "text": "The disciples went and woke Him, saying, “Lord {Kyrie}, save us! We are perishing!",
+    "reference": "Matthew 8:25 (BAB)",
+    "connected_to": "Matthew 8:26",
+    "connected_from": "Matthew 8:24"
+  },
+  {
+    "text": "“You of little faith, Jesus replied, “why are you⁺ so afraid? Then He got up and rebuked the winds and the sea, and it was perfectly calm.",
+    "reference": "Matthew 8:26 (BAB)",
+    "connected_to": "Matthew 8:27",
+    "connected_from": "Matthew 8:25"
+  },
+  {
+    "text": "The men were amazed and asked, “What kind of man is this? Even the winds and the sea obey Him!",
+    "reference": "Matthew 8:27 (BAB)",
+    "connected_to": "Matthew 8:28",
+    "connected_from": "Matthew 8:26"
+  },
+  {
+    "text": "When Jesus arrived on the other side in the region of the Gadarenes [Gerasenes], He was met by two demon-possessed men coming from the tombs. They were so violent that no one could pass that way.",
+    "reference": "Matthew 8:28 (BAB)",
+    "connected_to": "Matthew 8:29",
+    "connected_from": "Matthew 8:27"
+  },
+  {
+    "text": "“What do You want with us, Son of God {Theou}? they shouted. “Have You come here to torture us before the appointed time?",
+    "reference": "Matthew 8:29 (BAB)",
+    "connected_to": "Matthew 8:30",
+    "connected_from": "Matthew 8:28"
+  },
+  {
+    "text": "In the distance a large herd of pigs was feeding.",
+    "reference": "Matthew 8:30 (BAB)",
+    "connected_to": "Matthew 8:31",
+    "connected_from": "Matthew 8:29"
+  },
+  {
+    "text": "So the demons begged Jesus, “If You drive us out, send us into the herd of pigs.",
+    "reference": "Matthew 8:31 (BAB)",
+    "connected_to": "Matthew 8:32",
+    "connected_from": "Matthew 8:30"
+  },
+  {
+    "text": "“Go! He told them. So they came out and went into the pigs, and the whole herd rushed down the steep bank into the sea and died in the waters.",
+    "reference": "Matthew 8:32 (BAB)",
+    "connected_to": "Matthew 8:33",
+    "connected_from": "Matthew 8:31"
+  },
+  {
+    "text": "Those tending the pigs ran off into the town and reported all this, including the account of the demon-possessed men.",
+    "reference": "Matthew 8:33 (BAB)",
+    "connected_to": "Matthew 8:34",
+    "connected_from": "Matthew 8:32"
+  },
+  {
+    "text": "Then the whole town went out to meet Jesus (YHWH saves). And when they saw Him, they begged Him to leave their region.",
+    "reference": "Matthew 8:34 (BAB)",
+    "connected_from": "Matthew 8:33"
+  }
+]

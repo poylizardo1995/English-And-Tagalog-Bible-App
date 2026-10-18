@@ -1,0 +1,240 @@
+[
+  {
+    "text": "And it came to pass, that after we were gotten from them, and had launched, we came with a straight course to Coos, and the day following to Rhodes, and from there to Patara:",
+    "reference": "Acts 21:1 (AKJV)",
+    "connected_to": "Acts 21:2"
+  },
+  {
+    "text": "And finding a ship sailing over to Phenicia, we went aboard, and set forth.",
+    "reference": "Acts 21:2 (AKJV)",
+    "connected_to": "Acts 21:3",
+    "connected_from": "Acts 21:1"
+  },
+  {
+    "text": "Now when we had discovered Cyprus, we left it on the left hand, and sailed into Syria, and landed at Tyre: for there the ship was to unlade her burden.",
+    "reference": "Acts 21:3 (AKJV)",
+    "connected_to": "Acts 21:4",
+    "connected_from": "Acts 21:2"
+  },
+  {
+    "text": "And finding disciples, we tarried there seven days: who said to Paul through the Spirit, that he should not go up to Jerusalem.",
+    "reference": "Acts 21:4 (AKJV)",
+    "connected_to": "Acts 21:5",
+    "connected_from": "Acts 21:3"
+  },
+  {
+    "text": "And when we had accomplished those days, we departed and went our way; and they all brought us on our way, with wives and children, till we were out of the city: and we kneeled down on the shore, and prayed.",
+    "reference": "Acts 21:5 (AKJV)",
+    "connected_to": "Acts 21:6",
+    "connected_from": "Acts 21:4"
+  },
+  {
+    "text": "And when we had taken our leave one of another, we took ship; and they returned home again.",
+    "reference": "Acts 21:6 (AKJV)",
+    "connected_to": "Acts 21:7",
+    "connected_from": "Acts 21:5"
+  },
+  {
+    "text": "And when we had finished our course from Tyre, we came to Ptolemais, and saluted the brothers, and stayed with them one day.",
+    "reference": "Acts 21:7 (AKJV)",
+    "connected_to": "Acts 21:8",
+    "connected_from": "Acts 21:6"
+  },
+  {
+    "text": "And the next day we that were of Paul’s company departed, and came to Caesarea: and we entered into the house of Philip the evangelist, which was one of the seven; and stayed with him.",
+    "reference": "Acts 21:8 (AKJV)",
+    "connected_to": "Acts 21:9",
+    "connected_from": "Acts 21:7"
+  },
+  {
+    "text": "And the same man had four daughters, virgins, which did prophesy.",
+    "reference": "Acts 21:9 (AKJV)",
+    "connected_to": "Acts 21:10",
+    "connected_from": "Acts 21:8"
+  },
+  {
+    "text": "And as we tarried there many days, there came down from Judaea a certain prophet, named Agabus.",
+    "reference": "Acts 21:10 (AKJV)",
+    "connected_to": "Acts 21:11",
+    "connected_from": "Acts 21:9"
+  },
+  {
+    "text": "And when he was come to us, he took Paul’s girdle, and bound his own hands and feet, and said, Thus said the Holy Ghost, So shall the Jews at Jerusalem bind the man that ownes this girdle, and shall deliver him into the hands of the Gentiles.",
+    "reference": "Acts 21:11 (AKJV)",
+    "connected_to": "Acts 21:12",
+    "connected_from": "Acts 21:10"
+  },
+  {
+    "text": "And when we heard these things, both we, and they of that place, sought him not to go up to Jerusalem.",
+    "reference": "Acts 21:12 (AKJV)",
+    "connected_to": "Acts 21:13",
+    "connected_from": "Acts 21:11"
+  },
+  {
+    "text": "Then Paul answered, What mean you to weep and to break my heart? for I am ready not to be bound only, but also to die at Jerusalem for the name of the Lord Jesus.",
+    "reference": "Acts 21:13 (AKJV)",
+    "connected_to": "Acts 21:14",
+    "connected_from": "Acts 21:12"
+  },
+  {
+    "text": "And when he would not be persuaded, we ceased, saying, The will of the Lord be done.",
+    "reference": "Acts 21:14 (AKJV)",
+    "connected_to": "Acts 21:15",
+    "connected_from": "Acts 21:13"
+  },
+  {
+    "text": "And after those days we took up our carriages, and went up to Jerusalem.",
+    "reference": "Acts 21:15 (AKJV)",
+    "connected_to": "Acts 21:16",
+    "connected_from": "Acts 21:14"
+  },
+  {
+    "text": "There went with us also certain of the disciples of Caesarea, and brought with them one Mnason of Cyprus, an old disciple, with whom we should lodge.",
+    "reference": "Acts 21:16 (AKJV)",
+    "connected_to": "Acts 21:17",
+    "connected_from": "Acts 21:15"
+  },
+  {
+    "text": "And when we were come to Jerusalem, the brothers received us gladly.",
+    "reference": "Acts 21:17 (AKJV)",
+    "connected_to": "Acts 21:18",
+    "connected_from": "Acts 21:16"
+  },
+  {
+    "text": "And the day following Paul went in with us to James; and all the elders were present.",
+    "reference": "Acts 21:18 (AKJV)",
+    "connected_to": "Acts 21:19",
+    "connected_from": "Acts 21:17"
+  },
+  {
+    "text": "And when he had saluted them, he declared particularly what things God had worked among the Gentiles by his ministry.",
+    "reference": "Acts 21:19 (AKJV)",
+    "connected_to": "Acts 21:20",
+    "connected_from": "Acts 21:18"
+  },
+  {
+    "text": "And when they heard it, they glorified the Lord, and said to him, You see, brother, how many thousands of Jews there are which believe; and they are all zealous of the law:",
+    "reference": "Acts 21:20 (AKJV)",
+    "connected_to": "Acts 21:21",
+    "connected_from": "Acts 21:19"
+  },
+  {
+    "text": "And they are informed of you, that you teach all the Jews which are among the Gentiles to forsake Moses, saying that they ought not to circumcise their children, neither to walk after the customs.",
+    "reference": "Acts 21:21 (AKJV)",
+    "connected_to": "Acts 21:22",
+    "connected_from": "Acts 21:20"
+  },
+  {
+    "text": "What is it therefore? the multitude must needs come together: for they will hear that you are come.",
+    "reference": "Acts 21:22 (AKJV)",
+    "connected_to": "Acts 21:23",
+    "connected_from": "Acts 21:21"
+  },
+  {
+    "text": "Do therefore this that we say to you: We have four men which have a vow on them;",
+    "reference": "Acts 21:23 (AKJV)",
+    "connected_to": "Acts 21:24",
+    "connected_from": "Acts 21:22"
+  },
+  {
+    "text": "Them take, and purify yourself with them, and be at charges with them, that they may shave their heads: and all may know that those things, whereof they were informed concerning you, are nothing; but that you yourself also walk orderly, and keep the law.",
+    "reference": "Acts 21:24 (AKJV)",
+    "connected_to": "Acts 21:25",
+    "connected_from": "Acts 21:23"
+  },
+  {
+    "text": "As touching the Gentiles which believe, we have written and concluded that they observe no such thing, save only that they keep themselves from things offered to idols, and from blood, and from strangled, and from fornication.",
+    "reference": "Acts 21:25 (AKJV)",
+    "connected_to": "Acts 21:26",
+    "connected_from": "Acts 21:24"
+  },
+  {
+    "text": "Then Paul took the men, and the next day purifying himself with them entered into the temple, to signify the accomplishment of the days of purification, until that an offering should be offered for every one of them.",
+    "reference": "Acts 21:26 (AKJV)",
+    "connected_to": "Acts 21:27",
+    "connected_from": "Acts 21:25"
+  },
+  {
+    "text": "And when the seven days were almost ended, the Jews which were of Asia, when they saw him in the temple, stirred up all the people, and laid hands on him,",
+    "reference": "Acts 21:27 (AKJV)",
+    "connected_to": "Acts 21:28",
+    "connected_from": "Acts 21:26"
+  },
+  {
+    "text": "Crying out, Men of Israel, help: This is the man, that teaches all men every where against the people, and the law, and this place: and further brought Greeks also into the temple, and has polluted this holy place.",
+    "reference": "Acts 21:28 (AKJV)",
+    "connected_to": "Acts 21:29",
+    "connected_from": "Acts 21:27"
+  },
+  {
+    "text": "(For they had seen before with him in the city Trophimus an Ephesian, whom they supposed that Paul had brought into the temple.)",
+    "reference": "Acts 21:29 (AKJV)",
+    "connected_to": "Acts 21:30",
+    "connected_from": "Acts 21:28"
+  },
+  {
+    "text": "And all the city was moved, and the people ran together: and they took Paul, and drew him out of the temple: and immediately the doors were shut.",
+    "reference": "Acts 21:30 (AKJV)",
+    "connected_to": "Acts 21:31",
+    "connected_from": "Acts 21:29"
+  },
+  {
+    "text": "And as they went about to kill him, tidings came to the chief captain of the band, that all Jerusalem was in an uproar.",
+    "reference": "Acts 21:31 (AKJV)",
+    "connected_to": "Acts 21:32",
+    "connected_from": "Acts 21:30"
+  },
+  {
+    "text": "Who immediately took soldiers and centurions, and ran down to them: and when they saw the chief captain and the soldiers, they left beating of Paul.",
+    "reference": "Acts 21:32 (AKJV)",
+    "connected_to": "Acts 21:33",
+    "connected_from": "Acts 21:31"
+  },
+  {
+    "text": "Then the chief captain came near, and took him, and commanded him to be bound with two chains; and demanded who he was, and what he had done.",
+    "reference": "Acts 21:33 (AKJV)",
+    "connected_to": "Acts 21:34",
+    "connected_from": "Acts 21:32"
+  },
+  {
+    "text": "And some cried one thing, some another, among the multitude: and when he could not know the certainty for the tumult, he commanded him to be carried into the castle.",
+    "reference": "Acts 21:34 (AKJV)",
+    "connected_to": "Acts 21:35",
+    "connected_from": "Acts 21:33"
+  },
+  {
+    "text": "And when he came on the stairs, so it was, that he was borne of the soldiers for the violence of the people.",
+    "reference": "Acts 21:35 (AKJV)",
+    "connected_to": "Acts 21:36",
+    "connected_from": "Acts 21:34"
+  },
+  {
+    "text": "For the multitude of the people followed after, crying, Away with him.",
+    "reference": "Acts 21:36 (AKJV)",
+    "connected_to": "Acts 21:37",
+    "connected_from": "Acts 21:35"
+  },
+  {
+    "text": "And as Paul was to be led into the castle, he said to the chief captain, May I speak to you? Who said, Can you speak Greek?",
+    "reference": "Acts 21:37 (AKJV)",
+    "connected_to": "Acts 21:38",
+    "connected_from": "Acts 21:36"
+  },
+  {
+    "text": "Are not you that Egyptian, which before these days made an uproar, and led out into the wilderness four thousand men that were murderers?",
+    "reference": "Acts 21:38 (AKJV)",
+    "connected_to": "Acts 21:39",
+    "connected_from": "Acts 21:37"
+  },
+  {
+    "text": "But Paul said, I am a man which am a Jew of Tarsus, a city in Cilicia, a citizen of no mean city: and, I beseech you, suffer me to speak to the people.",
+    "reference": "Acts 21:39 (AKJV)",
+    "connected_to": "Acts 21:40",
+    "connected_from": "Acts 21:38"
+  },
+  {
+    "text": "And when he had given him license, Paul stood on the stairs, and beckoned with the hand to the people. And when there was made a great silence, he spoke to them in the Hebrew tongue, saying,",
+    "reference": "Acts 21:40 (AKJV)",
+    "connected_from": "Acts 21:39"
+  }
+]

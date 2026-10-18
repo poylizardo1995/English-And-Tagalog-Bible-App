@@ -1,0 +1,318 @@
+[
+  {
+    "text": "Now king David was old and stricken in years; and they covered him with clothes, but he gat no heat.",
+    "reference": "1 Kings 1:1 (ERV)",
+    "connected_to": "1 Kings 1:2"
+  },
+  {
+    "text": "Wherefore his servants said unto him, Let there be sought for my lord the king a young virgin: and let her stand before the king, and cherish him; and let her lie in thy bosom, that my lord the king may get heat.",
+    "reference": "1 Kings 1:2 (ERV)",
+    "connected_to": "1 Kings 1:3",
+    "connected_from": "1 Kings 1:1"
+  },
+  {
+    "text": "So they sought for a fair damsel throughout all the coasts of Israel, and found Abishag the Shunammite, and brought her to the king.",
+    "reference": "1 Kings 1:3 (ERV)",
+    "connected_to": "1 Kings 1:4",
+    "connected_from": "1 Kings 1:2"
+  },
+  {
+    "text": "And the damsel was very fair; and she cherished the king, and ministered to him; but the king knew her not.",
+    "reference": "1 Kings 1:4 (ERV)",
+    "connected_to": "1 Kings 1:5",
+    "connected_from": "1 Kings 1:3"
+  },
+  {
+    "text": "Then Adonijah the son of Haggith exalted himself, saying, I will be king: and he prepared him chariots and horsemen, and fifty men to run before him.",
+    "reference": "1 Kings 1:5 (ERV)",
+    "connected_to": "1 Kings 1:6",
+    "connected_from": "1 Kings 1:4"
+  },
+  {
+    "text": "And his father had not displeased him at any time in saying, Why hast thou done so? and he was also a very goodly man; and he was born after Absalom.",
+    "reference": "1 Kings 1:6 (ERV)",
+    "connected_to": "1 Kings 1:7",
+    "connected_from": "1 Kings 1:5"
+  },
+  {
+    "text": "And he conferred with Joab the son of Zeruiah, and with Abiathar the priest: and they following Adonijah helped him.",
+    "reference": "1 Kings 1:7 (ERV)",
+    "connected_to": "1 Kings 1:8",
+    "connected_from": "1 Kings 1:6"
+  },
+  {
+    "text": "But Zadok the priest, and Benaiah the son of Jehoiada, and Nathan the prophet, and Shimei, and Rei, and the mighty men which belonged to David, were not with Adonijah.",
+    "reference": "1 Kings 1:8 (ERV)",
+    "connected_to": "1 Kings 1:9",
+    "connected_from": "1 Kings 1:7"
+  },
+  {
+    "text": "And Adonijah slew sheep and oxen and fatlings by the stone of Zoheleth, which is beside En-rogel; and he called all his brethren the king’s sons, and all the men of Judah the king’s servants:",
+    "reference": "1 Kings 1:9 (ERV)",
+    "connected_to": "1 Kings 1:10",
+    "connected_from": "1 Kings 1:8"
+  },
+  {
+    "text": "but Nathan the prophet, and Benaiah, and the mighty men, and Solomon his brother, he called not.",
+    "reference": "1 Kings 1:10 (ERV)",
+    "connected_to": "1 Kings 1:11",
+    "connected_from": "1 Kings 1:9"
+  },
+  {
+    "text": "Then Nathan spake unto Bath-sheba the mother of Solomon, saying, Hast thou not heard that Adonijah the son of Haggith doth reign, and David our lord knoweth it not?",
+    "reference": "1 Kings 1:11 (ERV)",
+    "connected_to": "1 Kings 1:12",
+    "connected_from": "1 Kings 1:10"
+  },
+  {
+    "text": "Now therefore come, let me, I pray thee, give thee counsel, that thou mayest save thine own life, and the life of thy son Solomon.",
+    "reference": "1 Kings 1:12 (ERV)",
+    "connected_to": "1 Kings 1:13",
+    "connected_from": "1 Kings 1:11"
+  },
+  {
+    "text": "Go and get thee in unto king David, and say unto him, Didst not thou, my lord, O king, swear unto thine handmaid, saying, Assuredly Solomon thy son shall reign after me, and he shall sit upon my throne? why then doth Adonijah reign?",
+    "reference": "1 Kings 1:13 (ERV)",
+    "connected_to": "1 Kings 1:14",
+    "connected_from": "1 Kings 1:12"
+  },
+  {
+    "text": "Behold, while thou yet talkest there with the king, I also will come in after thee, and confirm thy words.",
+    "reference": "1 Kings 1:14 (ERV)",
+    "connected_to": "1 Kings 1:15",
+    "connected_from": "1 Kings 1:13"
+  },
+  {
+    "text": "And Bath-sheba went in unto the king into the chamber: and the king was very old; and Abishag the Shunammite ministered unto the king.",
+    "reference": "1 Kings 1:15 (ERV)",
+    "connected_to": "1 Kings 1:16",
+    "connected_from": "1 Kings 1:14"
+  },
+  {
+    "text": "And Bath-sheba bowed, and did obeisance unto the king. And the king said, What wouldest thou?",
+    "reference": "1 Kings 1:16 (ERV)",
+    "connected_to": "1 Kings 1:17",
+    "connected_from": "1 Kings 1:15"
+  },
+  {
+    "text": "And she said unto him, My lord, thou swarest by the LORD thy God unto thine handmaid, saying, Assuredly Solomon thy son shall reign after me, and he shah sit upon my throne.",
+    "reference": "1 Kings 1:17 (ERV)",
+    "connected_to": "1 Kings 1:18",
+    "connected_from": "1 Kings 1:16"
+  },
+  {
+    "text": "And now, behold, Adonijah reigneth; and thou, my lord the king, knowest it not:",
+    "reference": "1 Kings 1:18 (ERV)",
+    "connected_to": "1 Kings 1:19",
+    "connected_from": "1 Kings 1:17"
+  },
+  {
+    "text": "and he hath slain oxen and fatlings and sheep in abundance, and hath called all the sons of the king, and Abiathar the priest, and Joab the captain of the host: but Solomon thy servant hath he not called.",
+    "reference": "1 Kings 1:19 (ERV)",
+    "connected_to": "1 Kings 1:20",
+    "connected_from": "1 Kings 1:18"
+  },
+  {
+    "text": "And thou, my lord the king, the eyes of all Israel are upon thee, that thou shouldest tell them who shall sit on the throne of my lord the king after him.",
+    "reference": "1 Kings 1:20 (ERV)",
+    "connected_to": "1 Kings 1:21",
+    "connected_from": "1 Kings 1:19"
+  },
+  {
+    "text": "Otherwise it shall come to pass, when my lord the king shall sleep with his fathers, that I and my son Solomon shall be counted offenders.",
+    "reference": "1 Kings 1:21 (ERV)",
+    "connected_to": "1 Kings 1:22",
+    "connected_from": "1 Kings 1:20"
+  },
+  {
+    "text": "And, lo, while she yet talked with the king, Nathan the prophet came in.",
+    "reference": "1 Kings 1:22 (ERV)",
+    "connected_to": "1 Kings 1:23",
+    "connected_from": "1 Kings 1:21"
+  },
+  {
+    "text": "And they told the king, saying, Behold, Nathan the prophet. And when he was come in before the king, he bowed himself before the king with his face to the ground.",
+    "reference": "1 Kings 1:23 (ERV)",
+    "connected_to": "1 Kings 1:24",
+    "connected_from": "1 Kings 1:22"
+  },
+  {
+    "text": "And Nathan said, My lord, O king, hast thou said, Adonijah shall reign after me, and he shall sit upon my throne?",
+    "reference": "1 Kings 1:24 (ERV)",
+    "connected_to": "1 Kings 1:25",
+    "connected_from": "1 Kings 1:23"
+  },
+  {
+    "text": "For he is gone down this day, and hath slain oxen and fatlings and sheep in abundance, and hath called all the king’s sons, and the captains of the host, and Abiathar the priest; and, behold, they eat and drink before him, and say, God save king Adonijah.",
+    "reference": "1 Kings 1:25 (ERV)",
+    "connected_to": "1 Kings 1:26",
+    "connected_from": "1 Kings 1:24"
+  },
+  {
+    "text": "But me, even me thy servant, and Zadok the priest, and Benaiah the son of Jehoiada, and thy servant Solomon, hath he not called.",
+    "reference": "1 Kings 1:26 (ERV)",
+    "connected_to": "1 Kings 1:27",
+    "connected_from": "1 Kings 1:25"
+  },
+  {
+    "text": "Is this thing done by my lord the king, and thou hast not shewed unto thy servants who should sit on the throne of my lord the king after him?",
+    "reference": "1 Kings 1:27 (ERV)",
+    "connected_to": "1 Kings 1:28",
+    "connected_from": "1 Kings 1:26"
+  },
+  {
+    "text": "Then king David answered and said, Call me Bath-sheba. And she came into the king’s presence, and stood before the king.",
+    "reference": "1 Kings 1:28 (ERV)",
+    "connected_to": "1 Kings 1:29",
+    "connected_from": "1 Kings 1:27"
+  },
+  {
+    "text": "And the king sware, and said, As the LORD liveth, who hath redeemed my soul out of all adversity,",
+    "reference": "1 Kings 1:29 (ERV)",
+    "connected_to": "1 Kings 1:30",
+    "connected_from": "1 Kings 1:28"
+  },
+  {
+    "text": "verily as I sware unto thee by the LORD, the God of Israel, saying, Assuredly Solomon thy son shall reign after me, and he shall sit upon my throne in my stead; verily so will I do this day:",
+    "reference": "1 Kings 1:30 (ERV)",
+    "connected_to": "1 Kings 1:31",
+    "connected_from": "1 Kings 1:29"
+  },
+  {
+    "text": "Then Bath-sheba bowed with her face to the earth, and did obeisance to the king, and said, Let my lord king David live for ever.",
+    "reference": "1 Kings 1:31 (ERV)",
+    "connected_to": "1 Kings 1:32",
+    "connected_from": "1 Kings 1:30"
+  },
+  {
+    "text": "And king David said, Call me Zadok the priest, and Nathan the prophet, and Benaiah the son of Jehoiada. And they came before the king.",
+    "reference": "1 Kings 1:32 (ERV)",
+    "connected_to": "1 Kings 1:33",
+    "connected_from": "1 Kings 1:31"
+  },
+  {
+    "text": "And the king, said unto them, Take with you the servants of your lord, and cause Solomon my son to ride upon mine own mute, and bring him down to Gihon:",
+    "reference": "1 Kings 1:33 (ERV)",
+    "connected_to": "1 Kings 1:34",
+    "connected_from": "1 Kings 1:32"
+  },
+  {
+    "text": "and let Zadok the priest and Nathan the prophet anoint him there king over Israel: and blow ye with the trumpet, and say, God save king Solomon.",
+    "reference": "1 Kings 1:34 (ERV)",
+    "connected_to": "1 Kings 1:35",
+    "connected_from": "1 Kings 1:33"
+  },
+  {
+    "text": "Then ye shall come up after him, and he shall come and sit upon my throne; for he shall be king in my stead: and I have appointed him to be prince over Israel and over Judah.",
+    "reference": "1 Kings 1:35 (ERV)",
+    "connected_to": "1 Kings 1:36",
+    "connected_from": "1 Kings 1:34"
+  },
+  {
+    "text": "And Benaiah the son of Jehoiada answered the king, and said, Amen: the LORD, the God of my lord the king, say so too.",
+    "reference": "1 Kings 1:36 (ERV)",
+    "connected_to": "1 Kings 1:37",
+    "connected_from": "1 Kings 1:35"
+  },
+  {
+    "text": "As the LORD hath been with my lord the king, even so be he with Solomon, and make his throne greater than the throne of my lord king David.",
+    "reference": "1 Kings 1:37 (ERV)",
+    "connected_to": "1 Kings 1:38",
+    "connected_from": "1 Kings 1:36"
+  },
+  {
+    "text": "So Zadok the priest, and Nathan the prophet, and Benaiah the son of Jehoiada, and the Cherethites and the Pelethites, went down, and caused Solomon to ride upon king David’s mule, and brought him to Gihon.",
+    "reference": "1 Kings 1:38 (ERV)",
+    "connected_to": "1 Kings 1:39",
+    "connected_from": "1 Kings 1:37"
+  },
+  {
+    "text": "And Zadok the priest took the horn of oil out of the Tent, and anointed Solomon. And they blew the trumpet; and all the people said, God save king Solomon.",
+    "reference": "1 Kings 1:39 (ERV)",
+    "connected_to": "1 Kings 1:40",
+    "connected_from": "1 Kings 1:38"
+  },
+  {
+    "text": "And all the people came up after him, and the people piped with pipes, and rejoiced with great joy, so that the earth rent with the sound of them.",
+    "reference": "1 Kings 1:40 (ERV)",
+    "connected_to": "1 Kings 1:41",
+    "connected_from": "1 Kings 1:39"
+  },
+  {
+    "text": "And Adonijah and all the guests that were with him heard it as they had made an end of eating. And when Joab heard the sound of the trumpet, he said, Wherefore is this noise of the city being in an uproar?",
+    "reference": "1 Kings 1:41 (ERV)",
+    "connected_to": "1 Kings 1:42",
+    "connected_from": "1 Kings 1:40"
+  },
+  {
+    "text": "While he yet spake, behold, Jonathan the son of Abiathar the priest came: and Adonijah said, Come in; for thou art a worthy man, and bringest good tidings.",
+    "reference": "1 Kings 1:42 (ERV)",
+    "connected_to": "1 Kings 1:43",
+    "connected_from": "1 Kings 1:41"
+  },
+  {
+    "text": "And Jonathan answered and said to Adonijah, Verily our lord king David hath made Solomon king:",
+    "reference": "1 Kings 1:43 (ERV)",
+    "connected_to": "1 Kings 1:44",
+    "connected_from": "1 Kings 1:42"
+  },
+  {
+    "text": "and the king hath sent with him Zadok the priest, and Nathan the prophet, and Benaiah the son of Jehoiada, and the Cherethites and the Pelethites, and they have caused him to ride upon the king’s mule:",
+    "reference": "1 Kings 1:44 (ERV)",
+    "connected_to": "1 Kings 1:45",
+    "connected_from": "1 Kings 1:43"
+  },
+  {
+    "text": "and Zadok the priest and Nathan the prophet have anointed him king in Gihon: and they are come up from thence rejoicing, so that the city rang again. This is the noise that ye have heard.",
+    "reference": "1 Kings 1:45 (ERV)",
+    "connected_to": "1 Kings 1:46",
+    "connected_from": "1 Kings 1:44"
+  },
+  {
+    "text": "And also Solomon sitteth on the throne of the kingdom.",
+    "reference": "1 Kings 1:46 (ERV)",
+    "connected_to": "1 Kings 1:47",
+    "connected_from": "1 Kings 1:45"
+  },
+  {
+    "text": "And moreover the king’s servants came to bless our lord king David, saying, Thy God make the name of Solomon better than thy name, and make his throne greater than thy throne, and the king bowed himself upon the bed.",
+    "reference": "1 Kings 1:47 (ERV)",
+    "connected_to": "1 Kings 1:48",
+    "connected_from": "1 Kings 1:46"
+  },
+  {
+    "text": "And also thus said the king, Blessed be the LORD, the God of Israel, which hath given one to sit on my throne this day, mine eyes even seeing it.",
+    "reference": "1 Kings 1:48 (ERV)",
+    "connected_to": "1 Kings 1:49",
+    "connected_from": "1 Kings 1:47"
+  },
+  {
+    "text": "And all the guests of Adonijah were afraid, and rose up, and went every man his way.",
+    "reference": "1 Kings 1:49 (ERV)",
+    "connected_to": "1 Kings 1:50",
+    "connected_from": "1 Kings 1:48"
+  },
+  {
+    "text": "And Adonijah feared because of Solomon; and he arose, and went, and caught hold on the horns of the altar.",
+    "reference": "1 Kings 1:50 (ERV)",
+    "connected_to": "1 Kings 1:51",
+    "connected_from": "1 Kings 1:49"
+  },
+  {
+    "text": "And it was told Solomon, saying, Behold, Adonijah feareth king Solomon: for, lo, he hath laid hold on the horns of the altar, saying, Let king Solomon swear unto me this day that he wilt not slay his servant with the sword.",
+    "reference": "1 Kings 1:51 (ERV)",
+    "connected_to": "1 Kings 1:52",
+    "connected_from": "1 Kings 1:50"
+  },
+  {
+    "text": "And Solomon said, If he shall shew himself a worthy man, there shall not an hair of him fall to the earth: but if wickedness be found in him, he shall die.",
+    "reference": "1 Kings 1:52 (ERV)",
+    "connected_to": "1 Kings 1:53",
+    "connected_from": "1 Kings 1:51"
+  },
+  {
+    "text": "So king Solomon sent, and they brought him down from the altar. And he came and did obeisance to king Solomon: and Solomon said unto him, Go to thine house.",
+    "reference": "1 Kings 1:53 (ERV)",
+    "connected_from": "1 Kings 1:52"
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "text": "The word which came to Jeremiah from the LORD, when king Zedekiah sent to him Pashur the son of Melchiah, and Zephaniah the son of Maaseiah the priest, saying,",
+    "reference": "Jeremiah 21:1 (AKJV)",
+    "connected_to": "Jeremiah 21:2"
+  },
+  {
+    "text": "Inquire, I pray you, of the LORD for us; for Nebuchadrezzar king of Babylon makes war against us; if so be that the LORD will deal with us according to all his wondrous works, that he may go up from us.",
+    "reference": "Jeremiah 21:2 (AKJV)",
+    "connected_to": "Jeremiah 21:3",
+    "connected_from": "Jeremiah 21:1"
+  },
+  {
+    "text": "Then said Jeremiah to them, Thus shall you say to Zedekiah:",
+    "reference": "Jeremiah 21:3 (AKJV)",
+    "connected_to": "Jeremiah 21:4",
+    "connected_from": "Jeremiah 21:2"
+  },
+  {
+    "text": "Thus said the LORD God of Israel; Behold, I will turn back the weapons of war that are in your hands, with which you fight against the king of Babylon, and against the Chaldeans, which besiege you without the walls, and I will assemble them into the middle of this city.",
+    "reference": "Jeremiah 21:4 (AKJV)",
+    "connected_to": "Jeremiah 21:5",
+    "connected_from": "Jeremiah 21:3"
+  },
+  {
+    "text": "And I myself will fight against you with an outstretched hand and with a strong arm, even in anger, and in fury, and in great wrath.",
+    "reference": "Jeremiah 21:5 (AKJV)",
+    "connected_to": "Jeremiah 21:6",
+    "connected_from": "Jeremiah 21:4"
+  },
+  {
+    "text": "And I will smite the inhabitants of this city, both man and beast: they shall die of a great pestilence.",
+    "reference": "Jeremiah 21:6 (AKJV)",
+    "connected_to": "Jeremiah 21:7",
+    "connected_from": "Jeremiah 21:5"
+  },
+  {
+    "text": "And afterward, said the LORD, I will deliver Zedekiah king of Judah, and his servants, and the people, and such as are left in this city from the pestilence, from the sword, and from the famine, into the hand of Nebuchadrezzar king of Babylon, and into the hand of their enemies, and into the hand of those that seek their life: and he shall smite them with the edge of the sword; he shall not spare them, neither have pity, nor have mercy.",
+    "reference": "Jeremiah 21:7 (AKJV)",
+    "connected_to": "Jeremiah 21:8",
+    "connected_from": "Jeremiah 21:6"
+  },
+  {
+    "text": "And to this people you shall say, Thus said the LORD; Behold, I set before you the way of life, and the way of death.",
+    "reference": "Jeremiah 21:8 (AKJV)",
+    "connected_to": "Jeremiah 21:9",
+    "connected_from": "Jeremiah 21:7"
+  },
+  {
+    "text": "He that stays in this city shall die by the sword, and by the famine, and by the pestilence: but he that goes out, and falls to the Chaldeans that besiege you, he shall live, and his life shall be to him for a prey.",
+    "reference": "Jeremiah 21:9 (AKJV)",
+    "connected_to": "Jeremiah 21:10",
+    "connected_from": "Jeremiah 21:8"
+  },
+  {
+    "text": "For I have set my face against this city for evil, and not for good, said the LORD: it shall be given into the hand of the king of Babylon, and he shall burn it with fire.",
+    "reference": "Jeremiah 21:10 (AKJV)",
+    "connected_to": "Jeremiah 21:11",
+    "connected_from": "Jeremiah 21:9"
+  },
+  {
+    "text": "And touching the house of the king of Judah, say, Hear you the word of the LORD;",
+    "reference": "Jeremiah 21:11 (AKJV)",
+    "connected_to": "Jeremiah 21:12",
+    "connected_from": "Jeremiah 21:10"
+  },
+  {
+    "text": "O house of David, thus said the LORD; Execute judgment in the morning, and deliver him that is spoiled out of the hand of the oppressor, lest my fury go out like fire, and burn that none can quench it, because of the evil of your doings.",
+    "reference": "Jeremiah 21:12 (AKJV)",
+    "connected_to": "Jeremiah 21:13",
+    "connected_from": "Jeremiah 21:11"
+  },
+  {
+    "text": "Behold, I am against you, O inhabitant of the valley, and rock of the plain, said the LORD; which say, Who shall come down against us? or who shall enter into our habitations?",
+    "reference": "Jeremiah 21:13 (AKJV)",
+    "connected_to": "Jeremiah 21:14",
+    "connected_from": "Jeremiah 21:12"
+  },
+  {
+    "text": "But I will punish you according to the fruit of your doings, said the LORD: and I will kindle a fire in the forest thereof, and it shall devour all things round about it.",
+    "reference": "Jeremiah 21:14 (AKJV)",
+    "connected_from": "Jeremiah 21:13"
+  }
+]

@@ -1,0 +1,288 @@
+[
+  {
+    "text": "Hallelujah! Give ye thanks unto Jehovah; for he is good; for his loving-kindness [endureth] for ever.",
+    "reference": "Psalm 106:1 (DBT)",
+    "connected_to": "Psalm 106:2"
+  },
+  {
+    "text": "Who can utter the mighty acts of Jehovah? [who] can shew forth all his praise?",
+    "reference": "Psalm 106:2 (DBT)",
+    "connected_to": "Psalm 106:3",
+    "connected_from": "Psalm 106:1"
+  },
+  {
+    "text": "Blessed are they that keep justice, [and] he that doeth righteousness at all times.",
+    "reference": "Psalm 106:3 (DBT)",
+    "connected_to": "Psalm 106:4",
+    "connected_from": "Psalm 106:2"
+  },
+  {
+    "text": "Remember me, O Jehovah, with [thy] favour toward thy people; visit me with thy salvation:",
+    "reference": "Psalm 106:4 (DBT)",
+    "connected_to": "Psalm 106:5",
+    "connected_from": "Psalm 106:3"
+  },
+  {
+    "text": "That I may see the prosperity of thy chosen ones, that I may rejoice in the joy of thy nation, that I may glory with thine inheritance.",
+    "reference": "Psalm 106:5 (DBT)",
+    "connected_to": "Psalm 106:6",
+    "connected_from": "Psalm 106:4"
+  },
+  {
+    "text": "We have sinned with our fathers, we have committed iniquity, we have done wickedly.",
+    "reference": "Psalm 106:6 (DBT)",
+    "connected_to": "Psalm 106:7",
+    "connected_from": "Psalm 106:5"
+  },
+  {
+    "text": "Our fathers in Egypt considered not thy wondrous works; they remembered not the multitude of thy loving-kindnesses; but they rebelled at the sea, at the Red Sea.",
+    "reference": "Psalm 106:7 (DBT)",
+    "connected_to": "Psalm 106:8",
+    "connected_from": "Psalm 106:6"
+  },
+  {
+    "text": "Yet he saved them for his name’s sake, that he might make known his might.",
+    "reference": "Psalm 106:8 (DBT)",
+    "connected_to": "Psalm 106:9",
+    "connected_from": "Psalm 106:7"
+  },
+  {
+    "text": "And he rebuked the Red Sea, and it dried up; and he led them through the deeps as through a wilderness.",
+    "reference": "Psalm 106:9 (DBT)",
+    "connected_to": "Psalm 106:10",
+    "connected_from": "Psalm 106:8"
+  },
+  {
+    "text": "And he saved them from the hand of him that hated [them], and redeemed them from the hand of the enemy.",
+    "reference": "Psalm 106:10 (DBT)",
+    "connected_to": "Psalm 106:11",
+    "connected_from": "Psalm 106:9"
+  },
+  {
+    "text": "And the waters covered their oppressors: there was not one of them left.",
+    "reference": "Psalm 106:11 (DBT)",
+    "connected_to": "Psalm 106:12",
+    "connected_from": "Psalm 106:10"
+  },
+  {
+    "text": "Then believed they his words; they sang his praise.",
+    "reference": "Psalm 106:12 (DBT)",
+    "connected_to": "Psalm 106:13",
+    "connected_from": "Psalm 106:11"
+  },
+  {
+    "text": "They soon forgot his works; they waited not for his counsel:",
+    "reference": "Psalm 106:13 (DBT)",
+    "connected_to": "Psalm 106:14",
+    "connected_from": "Psalm 106:12"
+  },
+  {
+    "text": "And they lusted exceedingly in the wilderness, and tempted God in the desert.",
+    "reference": "Psalm 106:14 (DBT)",
+    "connected_to": "Psalm 106:15",
+    "connected_from": "Psalm 106:13"
+  },
+  {
+    "text": "Then he gave them their request, but sent leanness into their soul.",
+    "reference": "Psalm 106:15 (DBT)",
+    "connected_to": "Psalm 106:16",
+    "connected_from": "Psalm 106:14"
+  },
+  {
+    "text": "And they envied Moses in the camp, [and] Aaron, the saint of Jehovah.",
+    "reference": "Psalm 106:16 (DBT)",
+    "connected_to": "Psalm 106:17",
+    "connected_from": "Psalm 106:15"
+  },
+  {
+    "text": "The earth opened and swallowed up Dathan, and covered the company of Abiram;",
+    "reference": "Psalm 106:17 (DBT)",
+    "connected_to": "Psalm 106:18",
+    "connected_from": "Psalm 106:16"
+  },
+  {
+    "text": "And fire was kindled in their company; a flame burned up the wicked.",
+    "reference": "Psalm 106:18 (DBT)",
+    "connected_to": "Psalm 106:19",
+    "connected_from": "Psalm 106:17"
+  },
+  {
+    "text": "They made a calf in Horeb, and did homage to a molten image;",
+    "reference": "Psalm 106:19 (DBT)",
+    "connected_to": "Psalm 106:20",
+    "connected_from": "Psalm 106:18"
+  },
+  {
+    "text": "And they changed their glory into the similitude of an ox that eateth grass.",
+    "reference": "Psalm 106:20 (DBT)",
+    "connected_to": "Psalm 106:21",
+    "connected_from": "Psalm 106:19"
+  },
+  {
+    "text": "They forgot God their Saviour, who had done great things in Egypt,",
+    "reference": "Psalm 106:21 (DBT)",
+    "connected_to": "Psalm 106:22",
+    "connected_from": "Psalm 106:20"
+  },
+  {
+    "text": "Wondrous works in the land of Ham, terrible things by the Red Sea.",
+    "reference": "Psalm 106:22 (DBT)",
+    "connected_to": "Psalm 106:23",
+    "connected_from": "Psalm 106:21"
+  },
+  {
+    "text": "And he said that he would destroy them, had not Moses, his chosen, stood before him in the breach, to turn away his fury, lest he should destroy [them].",
+    "reference": "Psalm 106:23 (DBT)",
+    "connected_to": "Psalm 106:24",
+    "connected_from": "Psalm 106:22"
+  },
+  {
+    "text": "And they despised the pleasant land; they believed not his word,",
+    "reference": "Psalm 106:24 (DBT)",
+    "connected_to": "Psalm 106:25",
+    "connected_from": "Psalm 106:23"
+  },
+  {
+    "text": "But murmured in their tents: they hearkened not unto the voice of Jehovah.",
+    "reference": "Psalm 106:25 (DBT)",
+    "connected_to": "Psalm 106:26",
+    "connected_from": "Psalm 106:24"
+  },
+  {
+    "text": "And he lifted up his hand to them, that he would make them fall in the wilderness;",
+    "reference": "Psalm 106:26 (DBT)",
+    "connected_to": "Psalm 106:27",
+    "connected_from": "Psalm 106:25"
+  },
+  {
+    "text": "And that he would make their seed fall among the nations, and disperse them through the countries.",
+    "reference": "Psalm 106:27 (DBT)",
+    "connected_to": "Psalm 106:28",
+    "connected_from": "Psalm 106:26"
+  },
+  {
+    "text": "And they joined themselves unto Baal-Peor, and ate the sacrifices of the dead;",
+    "reference": "Psalm 106:28 (DBT)",
+    "connected_to": "Psalm 106:29",
+    "connected_from": "Psalm 106:27"
+  },
+  {
+    "text": "And they provoked [him] to anger with their doings; and a plague broke out among them.",
+    "reference": "Psalm 106:29 (DBT)",
+    "connected_to": "Psalm 106:30",
+    "connected_from": "Psalm 106:28"
+  },
+  {
+    "text": "Then stood up Phinehas and executed judgment, and the plague was stayed;",
+    "reference": "Psalm 106:30 (DBT)",
+    "connected_to": "Psalm 106:31",
+    "connected_from": "Psalm 106:29"
+  },
+  {
+    "text": "And that was reckoned unto him for righteousness, from generation to generation, for evermore.",
+    "reference": "Psalm 106:31 (DBT)",
+    "connected_to": "Psalm 106:32",
+    "connected_from": "Psalm 106:30"
+  },
+  {
+    "text": "And they moved him to wrath at the waters of Meribah, and it went ill with Moses on their account;",
+    "reference": "Psalm 106:32 (DBT)",
+    "connected_to": "Psalm 106:33",
+    "connected_from": "Psalm 106:31"
+  },
+  {
+    "text": "For they provoked his spirit, so that he spoke unadvisedly with his lips.",
+    "reference": "Psalm 106:33 (DBT)",
+    "connected_to": "Psalm 106:34",
+    "connected_from": "Psalm 106:32"
+  },
+  {
+    "text": "They did not destroy the peoples, as Jehovah commanded them;",
+    "reference": "Psalm 106:34 (DBT)",
+    "connected_to": "Psalm 106:35",
+    "connected_from": "Psalm 106:33"
+  },
+  {
+    "text": "But they mingled with the nations, and learned their works;",
+    "reference": "Psalm 106:35 (DBT)",
+    "connected_to": "Psalm 106:36",
+    "connected_from": "Psalm 106:34"
+  },
+  {
+    "text": "And they served their idols; and they were a snare unto them:",
+    "reference": "Psalm 106:36 (DBT)",
+    "connected_to": "Psalm 106:37",
+    "connected_from": "Psalm 106:35"
+  },
+  {
+    "text": "And they sacrificed their sons and their daughters unto demons,",
+    "reference": "Psalm 106:37 (DBT)",
+    "connected_to": "Psalm 106:38",
+    "connected_from": "Psalm 106:36"
+  },
+  {
+    "text": "And shed innocent blood, the blood of their sons and of their daughters, whom they sacrificed unto the idols of Canaan; and the land was polluted with blood.",
+    "reference": "Psalm 106:38 (DBT)",
+    "connected_to": "Psalm 106:39",
+    "connected_from": "Psalm 106:37"
+  },
+  {
+    "text": "And they were defiled with their works, and went a-whoring in their doings.",
+    "reference": "Psalm 106:39 (DBT)",
+    "connected_to": "Psalm 106:40",
+    "connected_from": "Psalm 106:38"
+  },
+  {
+    "text": "Then was the anger of Jehovah kindled against his people, and he abhorred his inheritance;",
+    "reference": "Psalm 106:40 (DBT)",
+    "connected_to": "Psalm 106:41",
+    "connected_from": "Psalm 106:39"
+  },
+  {
+    "text": "And he gave them into the hand of the nations; and they that hated them ruled over them:",
+    "reference": "Psalm 106:41 (DBT)",
+    "connected_to": "Psalm 106:42",
+    "connected_from": "Psalm 106:40"
+  },
+  {
+    "text": "And their enemies oppressed them, and they were brought into subjection under their hand.",
+    "reference": "Psalm 106:42 (DBT)",
+    "connected_to": "Psalm 106:43",
+    "connected_from": "Psalm 106:41"
+  },
+  {
+    "text": "Often did he deliver them; but as for them they provoked [him] by their counsel, and they were brought low by their iniquity.",
+    "reference": "Psalm 106:43 (DBT)",
+    "connected_to": "Psalm 106:44",
+    "connected_from": "Psalm 106:42"
+  },
+  {
+    "text": "But he regarded their distress, when he heard their cry;",
+    "reference": "Psalm 106:44 (DBT)",
+    "connected_to": "Psalm 106:45",
+    "connected_from": "Psalm 106:43"
+  },
+  {
+    "text": "And he remembered for them his covenant, and repented according to the multitude of his loving-kindnesses;",
+    "reference": "Psalm 106:45 (DBT)",
+    "connected_to": "Psalm 106:46",
+    "connected_from": "Psalm 106:44"
+  },
+  {
+    "text": "And he caused them to find compassion of all those that had carried them captives.",
+    "reference": "Psalm 106:46 (DBT)",
+    "connected_to": "Psalm 106:47",
+    "connected_from": "Psalm 106:45"
+  },
+  {
+    "text": "Save us, Jehovah our God, and gather us from among the nations, to give thanks unto thy holy name, [and] to triumph in thy praise.",
+    "reference": "Psalm 106:47 (DBT)",
+    "connected_to": "Psalm 106:48",
+    "connected_from": "Psalm 106:46"
+  },
+  {
+    "text": "Blessed be Jehovah the God of Israel, from eternity and to eternity! And let all the people say, Amen! Hallelujah!",
+    "reference": "Psalm 106:48 (DBT)",
+    "connected_from": "Psalm 106:47"
+  }
+]

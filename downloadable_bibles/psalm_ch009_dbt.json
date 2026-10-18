@@ -1,0 +1,120 @@
+[
+  {
+    "text": "{To the chief Musician. Upon Muthlabben. A Psalm of David.} I will praise Jehovah with my whole heart; I will recount all thy marvellous works.",
+    "reference": "Psalm 9:1 (DBT)",
+    "connected_to": "Psalm 9:2"
+  },
+  {
+    "text": "I will be glad and rejoice in thee; I will sing forth thy name, O Most High.",
+    "reference": "Psalm 9:2 (DBT)",
+    "connected_to": "Psalm 9:3",
+    "connected_from": "Psalm 9:1"
+  },
+  {
+    "text": "When mine enemies turned back, they stumbled and perished at thy presence:",
+    "reference": "Psalm 9:3 (DBT)",
+    "connected_to": "Psalm 9:4",
+    "connected_from": "Psalm 9:2"
+  },
+  {
+    "text": "For thou hast maintained my right and my cause. Thou sittest on the throne, judging righteously.",
+    "reference": "Psalm 9:4 (DBT)",
+    "connected_to": "Psalm 9:5",
+    "connected_from": "Psalm 9:3"
+  },
+  {
+    "text": "Thou hast rebuked the nations, thou hast destroyed the wicked; thou hast put out their name for ever and ever.",
+    "reference": "Psalm 9:5 (DBT)",
+    "connected_to": "Psalm 9:6",
+    "connected_from": "Psalm 9:4"
+  },
+  {
+    "text": "O enemy! destructions are ended for ever.—Thou hast also destroyed cities, even the remembrance of them hath perished.",
+    "reference": "Psalm 9:6 (DBT)",
+    "connected_to": "Psalm 9:7",
+    "connected_from": "Psalm 9:5"
+  },
+  {
+    "text": "But Jehovah sitteth for ever; he hath ordained his throne for judgment.",
+    "reference": "Psalm 9:7 (DBT)",
+    "connected_to": "Psalm 9:8",
+    "connected_from": "Psalm 9:6"
+  },
+  {
+    "text": "And it is he that will judge the world with righteousness; he shall execute judgment upon the peoples with equity.",
+    "reference": "Psalm 9:8 (DBT)",
+    "connected_to": "Psalm 9:9",
+    "connected_from": "Psalm 9:7"
+  },
+  {
+    "text": "And Jehovah will be a refuge to the oppressed one, a refuge in times of distress.",
+    "reference": "Psalm 9:9 (DBT)",
+    "connected_to": "Psalm 9:10",
+    "connected_from": "Psalm 9:8"
+  },
+  {
+    "text": "And they that know thy name will confide in thee; for thou, Jehovah, hast not forsaken them that seek thee.",
+    "reference": "Psalm 9:10 (DBT)",
+    "connected_to": "Psalm 9:11",
+    "connected_from": "Psalm 9:9"
+  },
+  {
+    "text": "Sing psalms to Jehovah who dwelleth in Zion; tell among the peoples his doings.",
+    "reference": "Psalm 9:11 (DBT)",
+    "connected_to": "Psalm 9:12",
+    "connected_from": "Psalm 9:10"
+  },
+  {
+    "text": "For when he maketh inquisition for blood, he remembereth them; the cry of the afflicted ones hath he not forgotten.",
+    "reference": "Psalm 9:12 (DBT)",
+    "connected_to": "Psalm 9:13",
+    "connected_from": "Psalm 9:11"
+  },
+  {
+    "text": "Be gracious unto me, O Jehovah; consider mine affliction from them that hate me, lifting me up from the gates of death:",
+    "reference": "Psalm 9:13 (DBT)",
+    "connected_to": "Psalm 9:14",
+    "connected_from": "Psalm 9:12"
+  },
+  {
+    "text": "That I may declare all thy praise in the gates of the daughter of Zion. I will be joyful in thy salvation.",
+    "reference": "Psalm 9:14 (DBT)",
+    "connected_to": "Psalm 9:15",
+    "connected_from": "Psalm 9:13"
+  },
+  {
+    "text": "The nations are sunk down in the pit [that] they made; in the net that they hid is their own foot taken.",
+    "reference": "Psalm 9:15 (DBT)",
+    "connected_to": "Psalm 9:16",
+    "connected_from": "Psalm 9:14"
+  },
+  {
+    "text": "Jehovah is known [by] the judgment he hath executed: the wicked is ensnared in the work of his own hands. Higgaion. Selah.",
+    "reference": "Psalm 9:16 (DBT)",
+    "connected_to": "Psalm 9:17",
+    "connected_from": "Psalm 9:15"
+  },
+  {
+    "text": "The wicked shall be turned into Sheol, all the nations that forget God.",
+    "reference": "Psalm 9:17 (DBT)",
+    "connected_to": "Psalm 9:18",
+    "connected_from": "Psalm 9:16"
+  },
+  {
+    "text": "For the needy one shall not be forgotten alway; the hope of the meek shall not perish for ever.",
+    "reference": "Psalm 9:18 (DBT)",
+    "connected_to": "Psalm 9:19",
+    "connected_from": "Psalm 9:17"
+  },
+  {
+    "text": "Arise, Jehovah; let not man prevail: let the nations be judged in thy sight.",
+    "reference": "Psalm 9:19 (DBT)",
+    "connected_to": "Psalm 9:20",
+    "connected_from": "Psalm 9:18"
+  },
+  {
+    "text": "Put them in fear, Jehovah: that the nations may know themselves to be but men. Selah.",
+    "reference": "Psalm 9:20 (DBT)",
+    "connected_from": "Psalm 9:19"
+  }
+]

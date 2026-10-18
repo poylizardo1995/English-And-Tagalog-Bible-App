@@ -1,0 +1,90 @@
+[
+  {
+    "text": "Awake, awake, clothe yourself with strength, O Zion! Put on your garments of splendor, O Jerusalem, holy city! For the uncircumcised and unclean will no longer enter you.",
+    "reference": "Isaiah 52:1 (BSB)",
+    "connected_to": "Isaiah 52:2"
+  },
+  {
+    "text": "Shake off your dust! Rise up and sit on your throne, O Jerusalem. Remove the chains from your neck, O captive Daughter of Zion.",
+    "reference": "Isaiah 52:2 (BSB)",
+    "connected_to": "Isaiah 52:3",
+    "connected_from": "Isaiah 52:1"
+  },
+  {
+    "text": "For this is what the LORD says: “You were sold for nothing, and without money you will be redeemed.”",
+    "reference": "Isaiah 52:3 (BSB)",
+    "connected_to": "Isaiah 52:4",
+    "connected_from": "Isaiah 52:2"
+  },
+  {
+    "text": "For this is what the Lord GOD says: “At first My people went down to Egypt to live, then Assyria oppressed them without cause.",
+    "reference": "Isaiah 52:4 (BSB)",
+    "connected_to": "Isaiah 52:5",
+    "connected_from": "Isaiah 52:3"
+  },
+  {
+    "text": "And now what have I here? declares the LORD. For My people have been taken without cause; those who rule them taunt, declares the LORD, and My name is blasphemed continually all day long.",
+    "reference": "Isaiah 52:5 (BSB)",
+    "connected_to": "Isaiah 52:6",
+    "connected_from": "Isaiah 52:4"
+  },
+  {
+    "text": "Therefore My people will know My name; therefore they will know on that day that I am He who speaks. Here I am!”",
+    "reference": "Isaiah 52:6 (BSB)",
+    "connected_to": "Isaiah 52:7",
+    "connected_from": "Isaiah 52:5"
+  },
+  {
+    "text": "How beautiful on the mountains are the feet of those who bring good news, who proclaim peace, who bring good tidings, who proclaim salvation, who say to Zion, “Your God reigns!”",
+    "reference": "Isaiah 52:7 (BSB)",
+    "connected_to": "Isaiah 52:8",
+    "connected_from": "Isaiah 52:6"
+  },
+  {
+    "text": "Listen! Your watchmen lift up their voices, together they shout for joy. For every eye will see when the LORD returns to Zion.",
+    "reference": "Isaiah 52:8 (BSB)",
+    "connected_to": "Isaiah 52:9",
+    "connected_from": "Isaiah 52:7"
+  },
+  {
+    "text": "Break forth in joy, sing together, O ruins of Jerusalem, for the LORD has comforted His people; He has redeemed Jerusalem.",
+    "reference": "Isaiah 52:9 (BSB)",
+    "connected_to": "Isaiah 52:10",
+    "connected_from": "Isaiah 52:8"
+  },
+  {
+    "text": "The LORD has bared His holy arm in the sight of all the nations; all the ends of the earth will see the salvation of our God.",
+    "reference": "Isaiah 52:10 (BSB)",
+    "connected_to": "Isaiah 52:11",
+    "connected_from": "Isaiah 52:9"
+  },
+  {
+    "text": "Depart, depart, go out from there! Touch no unclean thing; come out from it, purify yourselves, you who carry the vessels of the LORD.",
+    "reference": "Isaiah 52:11 (BSB)",
+    "connected_to": "Isaiah 52:12",
+    "connected_from": "Isaiah 52:10"
+  },
+  {
+    "text": "For you will not leave in a hurry nor flee in haste, for the LORD goes before you, and the God of Israel is your rear guard.",
+    "reference": "Isaiah 52:12 (BSB)",
+    "connected_to": "Isaiah 52:13",
+    "connected_from": "Isaiah 52:11"
+  },
+  {
+    "text": "Behold, My Servant will prosper; He will be raised and lifted up and highly exalted.",
+    "reference": "Isaiah 52:13 (BSB)",
+    "connected_to": "Isaiah 52:14",
+    "connected_from": "Isaiah 52:12"
+  },
+  {
+    "text": "Just as many were appalled at Him—His appearance was disfigured beyond that of any man, and His form was marred beyond human likeness—",
+    "reference": "Isaiah 52:14 (BSB)",
+    "connected_to": "Isaiah 52:15",
+    "connected_from": "Isaiah 52:13"
+  },
+  {
+    "text": "so He will sprinkle many nations. Kings will shut their mouths because of Him. For they will see what they have not been told, and they will understand what they have not heard.",
+    "reference": "Isaiah 52:15 (BSB)",
+    "connected_from": "Isaiah 52:14"
+  }
+]

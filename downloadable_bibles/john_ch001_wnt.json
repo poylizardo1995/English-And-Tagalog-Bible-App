@@ -1,0 +1,299 @@
+[
+  {
+    "text": "In the beginning was the Word, and the Word was with God, and the Word was God.",
+    "reference": "John 1:1 (WNT)",
+    "connected_to": "John 1:2"
+  },
+  {
+    "text": "He was in the beginning with God.",
+    "reference": "John 1:2 (WNT)",
+    "connected_to": "John 1:3",
+    "connected_from": "John 1:1"
+  },
+  {
+    "text": "All things came into being through Him, and apart from Him nothing that exists came into being.",
+    "reference": "John 1:3 (WNT)",
+    "connected_to": "John 1:4",
+    "connected_from": "John 1:2"
+  },
+  {
+    "text": "In Him was Life, and that Life was the Light of men.",
+    "reference": "John 1:4 (WNT)",
+    "connected_to": "John 1:5",
+    "connected_from": "John 1:3"
+  },
+  {
+    "text": "The Light shines in the darkness, and the darkness has not overpowered it.",
+    "reference": "John 1:5 (WNT)",
+    "connected_to": "John 1:6",
+    "connected_from": "John 1:4"
+  },
+  {
+    "text": "There was a man sent from God, whose name was John.",
+    "reference": "John 1:6 (WNT)",
+    "connected_to": "John 1:7",
+    "connected_from": "John 1:5"
+  },
+  {
+    "text": "He came as a witness, in order that he might give testimony concerning the Light—so that all might believe through him.",
+    "reference": "John 1:7 (WNT)",
+    "connected_to": "John 1:8",
+    "connected_from": "John 1:6"
+  },
+  {
+    "text": "He was not the Light, but he existed that he might give testimony concerning the Light.",
+    "reference": "John 1:8 (WNT)",
+    "connected_to": "John 1:9",
+    "connected_from": "John 1:7"
+  },
+  {
+    "text": "The true Light was that which illumines every man by its coming into the world.",
+    "reference": "John 1:9 (WNT)",
+    "connected_to": "John 1:10",
+    "connected_from": "John 1:8"
+  },
+  {
+    "text": "He was in the world, and the world came into existence through Him, and the world did not recognize Him.",
+    "reference": "John 1:10 (WNT)",
+    "connected_to": "John 1:11",
+    "connected_from": "John 1:9"
+  },
+  {
+    "text": "He came to the things that were His own, and His own people gave Him no welcome.",
+    "reference": "John 1:11 (WNT)",
+    "connected_to": "John 1:12",
+    "connected_from": "John 1:10"
+  },
+  {
+    "text": "But all who have received Him, to them—that is, to those who trust in His name—He has given the privilege of becoming children of God;",
+    "reference": "John 1:12 (WNT)",
+    "connected_to": "John 1:13",
+    "connected_from": "John 1:11"
+  },
+  {
+    "text": "who were begotten as such not by human descent, nor through an impulse of their own nature, nor through the will of a human father, but from God.",
+    "reference": "John 1:13 (WNT)",
+    "connected_to": "John 1:14",
+    "connected_from": "John 1:12"
+  },
+  {
+    "text": "And the Word came in the flesh, and lived for a time in our midst, so that we saw His glory—the glory as of the Father’s only Son, sent from His presence. He was full of grace and truth.",
+    "reference": "John 1:14 (WNT)",
+    "connected_to": "John 1:15",
+    "connected_from": "John 1:13"
+  },
+  {
+    "text": "John gave testimony concerning Him and cried aloud, saying, “This is He of whom I said, ‘He who is coming after me has been put before me,’ for He was before me.”",
+    "reference": "John 1:15 (WNT)",
+    "connected_to": "John 1:16",
+    "connected_from": "John 1:14"
+  },
+  {
+    "text": "For He it is from whose fulness we have all received, and grace upon grace.",
+    "reference": "John 1:16 (WNT)",
+    "connected_to": "John 1:17",
+    "connected_from": "John 1:15"
+  },
+  {
+    "text": "For the Law was given through Moses; grace and truth came through Jesus Christ.",
+    "reference": "John 1:17 (WNT)",
+    "connected_to": "John 1:18",
+    "connected_from": "John 1:16"
+  },
+  {
+    "text": "No human eye has ever seen God: the only Son, who is in the Father’s bosom—He has made Him known.",
+    "reference": "John 1:18 (WNT)",
+    "connected_to": "John 1:19",
+    "connected_from": "John 1:17"
+  },
+  {
+    "text": "This also is John’s testimony, when the Jews sent to him a deputation of Priests and Levites from Jerusalem to ask him who he was.",
+    "reference": "John 1:19 (WNT)",
+    "connected_to": "John 1:20",
+    "connected_from": "John 1:18"
+  },
+  {
+    "text": "He avowed—he did not conceal the truth, but avowed, “I am not the Christ.”",
+    "reference": "John 1:20 (WNT)",
+    "connected_to": "John 1:21",
+    "connected_from": "John 1:19"
+  },
+  {
+    "text": "“What then?” they inquired; “are you Elijah?” “I am not,” he said. “Are you the Prophet?” “No,” he answered.",
+    "reference": "John 1:21 (WNT)",
+    "connected_to": "John 1:22",
+    "connected_from": "John 1:20"
+  },
+  {
+    "text": "So they pressed the question. “Who are you?” they said—”that we may take an answer to those who sent us. What account do you give of yourself?”",
+    "reference": "John 1:22 (WNT)",
+    "connected_to": "John 1:23",
+    "connected_from": "John 1:21"
+  },
+  {
+    "text": "“I am the voice,” he replied, “of one crying aloud, ‘Make straight the Lord’s way in the Desert,’ fulfilling the words of the Prophet Isaiah.”",
+    "reference": "John 1:23 (WNT)",
+    "connected_to": "John 1:24",
+    "connected_from": "John 1:22"
+  },
+  {
+    "text": "They were Pharisees who had been sent.",
+    "reference": "John 1:24 (WNT)",
+    "connected_to": "John 1:25",
+    "connected_from": "John 1:23"
+  },
+  {
+    "text": "Again they questioned him. “Why then do you baptize,” they said, “if you are neither the Christ nor Elijah nor the Prophet?”",
+    "reference": "John 1:25 (WNT)",
+    "connected_to": "John 1:26",
+    "connected_from": "John 1:24"
+  },
+  {
+    "text": "“I baptize in water only,” John answered, “but in your midst stands One whom you do not know—",
+    "reference": "John 1:26 (WNT)",
+    "connected_to": "John 1:27",
+    "connected_from": "John 1:25"
+  },
+  {
+    "text": "He who is to come after me, and whose sandal-strap I am not worthy to unfasten.”",
+    "reference": "John 1:27 (WNT)",
+    "connected_to": "John 1:28",
+    "connected_from": "John 1:26"
+  },
+  {
+    "text": "This conversation took place at Bethany beyond the Jordan, where John was baptizing.",
+    "reference": "John 1:28 (WNT)",
+    "connected_to": "John 1:29",
+    "connected_from": "John 1:27"
+  },
+  {
+    "text": "The next day John saw Jesus coming towards him and exclaimed, “Look, that is the Lamb of God who is to take away the sin of the world!",
+    "reference": "John 1:29 (WNT)",
+    "connected_to": "John 1:30",
+    "connected_from": "John 1:28"
+  },
+  {
+    "text": "This is He about whom I said, ‘After me is to come One who has been put before me, because He was before me.’",
+    "reference": "John 1:30 (WNT)",
+    "connected_to": "John 1:31",
+    "connected_from": "John 1:29"
+  },
+  {
+    "text": "I did not yet know Him; but that He may be openly shown to Israel is the reason why I have come baptizing in water.”",
+    "reference": "John 1:31 (WNT)",
+    "connected_to": "John 1:32",
+    "connected_from": "John 1:30"
+  },
+  {
+    "text": "John also gave testimony by stating: “I have seen the Spirit coming down like a dove out of Heaven; and it remained upon Him.",
+    "reference": "John 1:32 (WNT)",
+    "connected_to": "John 1:33",
+    "connected_from": "John 1:31"
+  },
+  {
+    "text": "I did not yet know Him, but He who sent me to baptize in water said to me, “’The One on whom you see the Spirit coming down, and remaining, He it is who baptizes in the Holy Spirit.’",
+    "reference": "John 1:33 (WNT)",
+    "connected_to": "John 1:34",
+    "connected_from": "John 1:32"
+  },
+  {
+    "text": "“This I have seen, and I have become a witness that He is the Son of God.”",
+    "reference": "John 1:34 (WNT)",
+    "connected_to": "John 1:35",
+    "connected_from": "John 1:33"
+  },
+  {
+    "text": "Again the next day John was standing with two of his disciples,",
+    "reference": "John 1:35 (WNT)",
+    "connected_to": "John 1:36",
+    "connected_from": "John 1:34"
+  },
+  {
+    "text": "when he saw Jesus passing by, and said, “Look! that is the Lamb of God!”",
+    "reference": "John 1:36 (WNT)",
+    "connected_to": "John 1:37",
+    "connected_from": "John 1:35"
+  },
+  {
+    "text": "The two disciples heard his exclamation, and they followed Jesus.",
+    "reference": "John 1:37 (WNT)",
+    "connected_to": "John 1:38",
+    "connected_from": "John 1:36"
+  },
+  {
+    "text": "Then Jesus turned round, and seeing them following He asked them, “What is your wish?” “Rabbi,” they replied—’Rabbi’ means ‘Teacher’—”where are you staying?”",
+    "reference": "John 1:38 (WNT)",
+    "connected_to": "John 1:39",
+    "connected_from": "John 1:37"
+  },
+  {
+    "text": "“Come and you shall see,” He said. So they went and saw where He was staying, and they remained and spent that day with Him. It was then about ten o’clock in the morning.",
+    "reference": "John 1:39 (WNT)",
+    "connected_to": "John 1:40",
+    "connected_from": "John 1:38"
+  },
+  {
+    "text": "Andrew, Simon Peter’s brother, was one of the two who heard John’s exclamation and followed Jesus.",
+    "reference": "John 1:40 (WNT)",
+    "connected_to": "John 1:41",
+    "connected_from": "John 1:39"
+  },
+  {
+    "text": "He first found his own brother Simon, and said to him, “We have found the Messiah!”—that is to say, the Anointed One.",
+    "reference": "John 1:41 (WNT)",
+    "connected_to": "John 1:42",
+    "connected_from": "John 1:40"
+  },
+  {
+    "text": "He brought him to Jesus. Jesus looked at him and said, “You are Simon, son of John: you shall be called Cephas”—that is to say, Peter (or ‘Rock’)",
+    "reference": "John 1:42 (WNT)",
+    "connected_to": "John 1:43",
+    "connected_from": "John 1:41"
+  },
+  {
+    "text": "The next day, having decided to leave Bethany and go into Galilee, Jesus found Philip, and invited him to follow Him.",
+    "reference": "John 1:43 (WNT)",
+    "connected_to": "John 1:44",
+    "connected_from": "John 1:42"
+  },
+  {
+    "text": "Then Philip found Nathanael, and said to him, “We have found him about whom Moses in the Law wrote, as well as the Prophets—Jesus, the son of Joseph, a man of Nazareth.”",
+    "reference": "John 1:45 (WNT)",
+    "connected_to": "John 1:46",
+    "connected_from": "John 1:44"
+  },
+  {
+    "text": "“Can anything good come out of Nazareth?” replied Nathanael. “Come and see,” said Philip.",
+    "reference": "John 1:46 (WNT)",
+    "connected_to": "John 1:47",
+    "connected_from": "John 1:45"
+  },
+  {
+    "text": "Jesus saw Nathanael approaching, and said of him, “Look! here is a true Israelite, in whom there is no deceitfulness!”",
+    "reference": "John 1:47 (WNT)",
+    "connected_to": "John 1:48",
+    "connected_from": "John 1:46"
+  },
+  {
+    "text": "“How do you know me?” Nathanael asked. “Before Philip called you,” said Jesus, “when you were under the fig-tree I saw you.”",
+    "reference": "John 1:48 (WNT)",
+    "connected_to": "John 1:49",
+    "connected_from": "John 1:47"
+  },
+  {
+    "text": "“Rabbi,” cried Nathanael, “you are the Son of God, you are Israel’s King!”",
+    "reference": "John 1:49 (WNT)",
+    "connected_to": "John 1:50",
+    "connected_from": "John 1:48"
+  },
+  {
+    "text": "“Because I said to you, ‘I saw you under the fig-tree,’” replied Jesus, “do you believe? You shall see greater things than that.”",
+    "reference": "John 1:50 (WNT)",
+    "connected_from": "John 1:49"
+  },
+  {
+    "text": "“I tell you all in most solemn truth,” He added, “that you shall see Heaven opened wide, and God’s angels going up, and coming down to the Son of Man.”",
+    "reference": "John 1:51 (WNT)",
+    "connected_from": "John 1:50"
+  }
+]

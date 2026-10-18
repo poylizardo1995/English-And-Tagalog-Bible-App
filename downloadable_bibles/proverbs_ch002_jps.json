@@ -1,0 +1,132 @@
+[
+  {
+    "text": "My son, if thou wilt receive my words, And lay up my commandments with thee;",
+    "reference": "Proverbs 2:1 (JPS)",
+    "connected_to": "Proverbs 2:2"
+  },
+  {
+    "text": "So that thou make thine ear attend unto wisdom, And thy heart incline to discernment;",
+    "reference": "Proverbs 2:2 (JPS)",
+    "connected_to": "Proverbs 2:3",
+    "connected_from": "Proverbs 2:1"
+  },
+  {
+    "text": "Yea, if thou call for understanding, And lift up thy voice for discernment;",
+    "reference": "Proverbs 2:3 (JPS)",
+    "connected_to": "Proverbs 2:4",
+    "connected_from": "Proverbs 2:2"
+  },
+  {
+    "text": "If thou seek her as silver, And search for her as for hid treasures;",
+    "reference": "Proverbs 2:4 (JPS)",
+    "connected_to": "Proverbs 2:5",
+    "connected_from": "Proverbs 2:3"
+  },
+  {
+    "text": "Then shalt thou understand the fear of the LORD, And find the knowledge of God.",
+    "reference": "Proverbs 2:5 (JPS)",
+    "connected_to": "Proverbs 2:6",
+    "connected_from": "Proverbs 2:4"
+  },
+  {
+    "text": "For the LORD giveth wisdom, Out of His mouth cometh knowledge and discernment;",
+    "reference": "Proverbs 2:6 (JPS)",
+    "connected_to": "Proverbs 2:7",
+    "connected_from": "Proverbs 2:5"
+  },
+  {
+    "text": "He layeth up sound wisdom for the upright, He is a shield to them that walk in integrity;",
+    "reference": "Proverbs 2:7 (JPS)",
+    "connected_to": "Proverbs 2:8",
+    "connected_from": "Proverbs 2:6"
+  },
+  {
+    "text": "That He may guard the paths of justice, And preserve the way of His godly ones.",
+    "reference": "Proverbs 2:8 (JPS)",
+    "connected_to": "Proverbs 2:9",
+    "connected_from": "Proverbs 2:7"
+  },
+  {
+    "text": "Then shalt thou understand righteousness and justice, And equity, yea, every good path.",
+    "reference": "Proverbs 2:9 (JPS)",
+    "connected_to": "Proverbs 2:10",
+    "connected_from": "Proverbs 2:8"
+  },
+  {
+    "text": "For wisdom shall enter into thy heart, And knowledge shall be pleasant unto thy soul;",
+    "reference": "Proverbs 2:10 (JPS)",
+    "connected_to": "Proverbs 2:11",
+    "connected_from": "Proverbs 2:9"
+  },
+  {
+    "text": "Discretion shall watch over thee, Discernment shall guard thee;",
+    "reference": "Proverbs 2:11 (JPS)",
+    "connected_to": "Proverbs 2:12",
+    "connected_from": "Proverbs 2:10"
+  },
+  {
+    "text": "To deliver thee from the way of evil, From the men that speak froward things;",
+    "reference": "Proverbs 2:12 (JPS)",
+    "connected_to": "Proverbs 2:13",
+    "connected_from": "Proverbs 2:11"
+  },
+  {
+    "text": "Who leave the paths of uprightness, To walk in the ways of darkness;",
+    "reference": "Proverbs 2:13 (JPS)",
+    "connected_to": "Proverbs 2:14",
+    "connected_from": "Proverbs 2:12"
+  },
+  {
+    "text": "Who rejoice to do evil, And delight in the frowardness of evil;",
+    "reference": "Proverbs 2:14 (JPS)",
+    "connected_to": "Proverbs 2:15",
+    "connected_from": "Proverbs 2:13"
+  },
+  {
+    "text": "Who are crooked in their ways, And perverse in their paths;",
+    "reference": "Proverbs 2:15 (JPS)",
+    "connected_to": "Proverbs 2:16",
+    "connected_from": "Proverbs 2:14"
+  },
+  {
+    "text": "To deliver thee from the strange woman, Even from the alien woman that maketh smooth her words;",
+    "reference": "Proverbs 2:16 (JPS)",
+    "connected_to": "Proverbs 2:17",
+    "connected_from": "Proverbs 2:15"
+  },
+  {
+    "text": "That forsaketh the lord of her youth, And forgetteth the covenant of her God.",
+    "reference": "Proverbs 2:17 (JPS)",
+    "connected_to": "Proverbs 2:18",
+    "connected_from": "Proverbs 2:16"
+  },
+  {
+    "text": "For her house sinketh down unto death, And her paths unto the shades;",
+    "reference": "Proverbs 2:18 (JPS)",
+    "connected_to": "Proverbs 2:19",
+    "connected_from": "Proverbs 2:17"
+  },
+  {
+    "text": "None that go unto her return, Neither do they attain unto the paths of life;",
+    "reference": "Proverbs 2:19 (JPS)",
+    "connected_to": "Proverbs 2:20",
+    "connected_from": "Proverbs 2:18"
+  },
+  {
+    "text": "That thou mayest walk in the way of good men, And keep the paths of the righteous.",
+    "reference": "Proverbs 2:20 (JPS)",
+    "connected_to": "Proverbs 2:21",
+    "connected_from": "Proverbs 2:19"
+  },
+  {
+    "text": "For the upright shall dwell in the land, And the whole-hearted shall remain in it.",
+    "reference": "Proverbs 2:21 (JPS)",
+    "connected_to": "Proverbs 2:22",
+    "connected_from": "Proverbs 2:20"
+  },
+  {
+    "text": "But the wicked shall be cut off from the land, And the faithless shall be plucked up out of it.",
+    "reference": "Proverbs 2:22 (JPS)",
+    "connected_from": "Proverbs 2:21"
+  }
+]

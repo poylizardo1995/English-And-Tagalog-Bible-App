@@ -1,0 +1,60 @@
+[
+  {
+    "text": "Alleluia, of Aggeus and Zacharias.",
+    "reference": "Psalm 146:1 (DRB)",
+    "connected_to": "Psalm 146:2"
+  },
+  {
+    "text": "Praise the Lord, O my soul, in my life I will praise the Lord: I will sing to my God as long as I shall be. Put not your trust in princes:",
+    "reference": "Psalm 146:2 (DRB)",
+    "connected_to": "Psalm 146:3",
+    "connected_from": "Psalm 146:1"
+  },
+  {
+    "text": "in the children of men, in whom there is no salvation.",
+    "reference": "Psalm 146:3 (DRB)",
+    "connected_to": "Psalm 146:4",
+    "connected_from": "Psalm 146:2"
+  },
+  {
+    "text": "His spirit shall go forth, and he shall return into his earth: in that day all their thoughts shall perish.",
+    "reference": "Psalm 146:4 (DRB)",
+    "connected_to": "Psalm 146:5",
+    "connected_from": "Psalm 146:3"
+  },
+  {
+    "text": "Blessed is he who hath the God of Jacob for his helper, whose hope is in the Lord his God:",
+    "reference": "Psalm 146:5 (DRB)",
+    "connected_to": "Psalm 146:6",
+    "connected_from": "Psalm 146:4"
+  },
+  {
+    "text": "who made heaven and earth, the sea, and all things that are in them.",
+    "reference": "Psalm 146:6 (DRB)",
+    "connected_to": "Psalm 146:7",
+    "connected_from": "Psalm 146:5"
+  },
+  {
+    "text": "Who keepeth truth for ever: who executeth judgment for them that suffer wrong: who giveth food to the hungry. The Lord looseth them that are fettered:",
+    "reference": "Psalm 146:7 (DRB)",
+    "connected_to": "Psalm 146:8",
+    "connected_from": "Psalm 146:6"
+  },
+  {
+    "text": "the Lord enlighteneth the blind. The Lord lifteth up them that are cast down: the Lord loveth the just.",
+    "reference": "Psalm 146:8 (DRB)",
+    "connected_to": "Psalm 146:9",
+    "connected_from": "Psalm 146:7"
+  },
+  {
+    "text": "The Lord keepeth the strangers, he will support the fatherless and the widow: and the ways of sinners he will destroy.",
+    "reference": "Psalm 146:9 (DRB)",
+    "connected_to": "Psalm 146:10",
+    "connected_from": "Psalm 146:8"
+  },
+  {
+    "text": "The Lord shall reign for ever: thy God, O Sion, unto generation and generation.",
+    "reference": "Psalm 146:10 (DRB)",
+    "connected_from": "Psalm 146:9"
+  }
+]

@@ -1,0 +1,180 @@
+[
+  {
+    "text": "But Job answered, and said:",
+    "reference": "Job 6:1 (DRB)",
+    "connected_to": "Job 6:2"
+  },
+  {
+    "text": "O that my sins, whereby I have deserved wrath, and the calamity that I suffer, were weighed in a balance.",
+    "reference": "Job 6:2 (DRB)",
+    "connected_to": "Job 6:3",
+    "connected_from": "Job 6:1"
+  },
+  {
+    "text": "As the sand of the sea this would appear heavier: therefore my words are full of sorrow :",
+    "reference": "Job 6:3 (DRB)",
+    "connected_to": "Job 6:4",
+    "connected_from": "Job 6:2"
+  },
+  {
+    "text": "For the arrows of the Lord are in me, the rage whereof drinketh up my spirit, and the terrors of the Lord war against me.",
+    "reference": "Job 6:4 (DRB)",
+    "connected_to": "Job 6:5",
+    "connected_from": "Job 6:3"
+  },
+  {
+    "text": "Will the wild ass bray when he hath grass? or will the ox low when he standeth before a full manger?",
+    "reference": "Job 6:5 (DRB)",
+    "connected_to": "Job 6:6",
+    "connected_from": "Job 6:4"
+  },
+  {
+    "text": "Or can an unsavoury thing be eaten, that is not seasoned with salt? or can a man taste that which when tasted bringeth death?",
+    "reference": "Job 6:6 (DRB)",
+    "connected_to": "Job 6:7",
+    "connected_from": "Job 6:5"
+  },
+  {
+    "text": "The things which before my soul would not touch, now, through anguish are my meats.",
+    "reference": "Job 6:7 (DRB)",
+    "connected_to": "Job 6:8",
+    "connected_from": "Job 6:6"
+  },
+  {
+    "text": "Who will grant that my request may come: and that God may give me what I look for?",
+    "reference": "Job 6:8 (DRB)",
+    "connected_to": "Job 6:9",
+    "connected_from": "Job 6:7"
+  },
+  {
+    "text": "And that he that hath begun may destroy me, that he may let loose his hand, and cut me off?",
+    "reference": "Job 6:9 (DRB)",
+    "connected_to": "Job 6:10",
+    "connected_from": "Job 6:8"
+  },
+  {
+    "text": "And that this may be my comfort, that afflicting me with sorrow, he spare not, nor I contradict the words of the Holy One.",
+    "reference": "Job 6:10 (DRB)",
+    "connected_to": "Job 6:11",
+    "connected_from": "Job 6:9"
+  },
+  {
+    "text": "For what is my strength, that I can hold out? or what is my end that I should keep patience?",
+    "reference": "Job 6:11 (DRB)",
+    "connected_to": "Job 6:12",
+    "connected_from": "Job 6:10"
+  },
+  {
+    "text": "My strength is not the strength of stones, nor is my flesh of brass.",
+    "reference": "Job 6:12 (DRB)",
+    "connected_to": "Job 6:13",
+    "connected_from": "Job 6:11"
+  },
+  {
+    "text": "Behold there is no help for me in myself, and my familiar friends also are departed from me.",
+    "reference": "Job 6:13 (DRB)",
+    "connected_to": "Job 6:14",
+    "connected_from": "Job 6:12"
+  },
+  {
+    "text": "He that taketh away mercy from his friend, forsaketh the fear of the Lord.",
+    "reference": "Job 6:14 (DRB)",
+    "connected_to": "Job 6:15",
+    "connected_from": "Job 6:13"
+  },
+  {
+    "text": "My brethren have passed by me, as the torrent that passeth swiftly in the valleys.",
+    "reference": "Job 6:15 (DRB)",
+    "connected_to": "Job 6:16",
+    "connected_from": "Job 6:14"
+  },
+  {
+    "text": "They that fear the hoary frost, the snow shall fall upon them.",
+    "reference": "Job 6:16 (DRB)",
+    "connected_to": "Job 6:17",
+    "connected_from": "Job 6:15"
+  },
+  {
+    "text": "At the time when they shall be scattered they shall perish: and after it groweth hot they shall be melted out of their place.",
+    "reference": "Job 6:17 (DRB)",
+    "connected_to": "Job 6:18",
+    "connected_from": "Job 6:16"
+  },
+  {
+    "text": "The paths of their steps are entangled: they shall walk in vain, and shall perish.",
+    "reference": "Job 6:18 (DRB)",
+    "connected_to": "Job 6:19",
+    "connected_from": "Job 6:17"
+  },
+  {
+    "text": "Consider the paths of Thema, the ways of Saba, and wait a little while.",
+    "reference": "Job 6:19 (DRB)",
+    "connected_to": "Job 6:20",
+    "connected_from": "Job 6:18"
+  },
+  {
+    "text": "They are confounded, because I have hoped: they are come also even unto me, and are covered with shame.",
+    "reference": "Job 6:20 (DRB)",
+    "connected_to": "Job 6:21",
+    "connected_from": "Job 6:19"
+  },
+  {
+    "text": "Now you are come: and now seeing my affliction you are afraid.",
+    "reference": "Job 6:21 (DRB)",
+    "connected_to": "Job 6:22",
+    "connected_from": "Job 6:20"
+  },
+  {
+    "text": "Did I say: Bring to me, and give me of your substance?",
+    "reference": "Job 6:22 (DRB)",
+    "connected_to": "Job 6:23",
+    "connected_from": "Job 6:21"
+  },
+  {
+    "text": "Or deliver me from the hand of the enemy, and rescue me out of the hand of the mighty?",
+    "reference": "Job 6:23 (DRB)",
+    "connected_to": "Job 6:24",
+    "connected_from": "Job 6:22"
+  },
+  {
+    "text": "Teach me, and I will hold my peace: and if I have been ignorant in any thing, instruct me.",
+    "reference": "Job 6:24 (DRB)",
+    "connected_to": "Job 6:25",
+    "connected_from": "Job 6:23"
+  },
+  {
+    "text": "Why have you detracted the words of truth, whereas there is none of you that can reprove me?",
+    "reference": "Job 6:25 (DRB)",
+    "connected_to": "Job 6:26",
+    "connected_from": "Job 6:24"
+  },
+  {
+    "text": "You dress up speeches only to rebuke, and you utter words to the wind.",
+    "reference": "Job 6:26 (DRB)",
+    "connected_to": "Job 6:27",
+    "connected_from": "Job 6:25"
+  },
+  {
+    "text": "You rush in upon the fatherless, and you endeavour to overthrow your friend.",
+    "reference": "Job 6:27 (DRB)",
+    "connected_to": "Job 6:28",
+    "connected_from": "Job 6:26"
+  },
+  {
+    "text": "However finish what you have begun, give ear, and see whether I lie.",
+    "reference": "Job 6:28 (DRB)",
+    "connected_to": "Job 6:29",
+    "connected_from": "Job 6:27"
+  },
+  {
+    "text": "Answer, I beseech you, without contention: and speaking that which is just, judge ye.",
+    "reference": "Job 6:29 (DRB)",
+    "connected_to": "Job 6:30",
+    "connected_from": "Job 6:28"
+  },
+  {
+    "text": "And you shall not And iniquity in my tongue, neither shall folly sound in my mouth.",
+    "reference": "Job 6:30 (DRB)",
+    "connected_from": "Job 6:29"
+  }
+]

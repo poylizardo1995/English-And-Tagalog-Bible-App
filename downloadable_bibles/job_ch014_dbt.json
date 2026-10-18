@@ -1,0 +1,132 @@
+[
+  {
+    "text": "Man, born of woman, is of few days, and full of trouble.",
+    "reference": "Job 14:1 (DBT)",
+    "connected_to": "Job 14:2"
+  },
+  {
+    "text": "He cometh forth like a flower, and is cut down; and he fleeth as a shadow, and continueth not.",
+    "reference": "Job 14:2 (DBT)",
+    "connected_to": "Job 14:3",
+    "connected_from": "Job 14:1"
+  },
+  {
+    "text": "Yet dost thou open thine eyes upon such a one, and bringest me into judgment with thee?",
+    "reference": "Job 14:3 (DBT)",
+    "connected_to": "Job 14:4",
+    "connected_from": "Job 14:2"
+  },
+  {
+    "text": "Who can bring a clean [man] out of the unclean? Not one!",
+    "reference": "Job 14:4 (DBT)",
+    "connected_to": "Job 14:5",
+    "connected_from": "Job 14:3"
+  },
+  {
+    "text": "If his days are determined, if the number of his months is with thee, [and] thou hast appointed his bounds which he must not pass,",
+    "reference": "Job 14:5 (DBT)",
+    "connected_to": "Job 14:6",
+    "connected_from": "Job 14:4"
+  },
+  {
+    "text": "Look away from him; and let him rest, till he accomplish, as a hireling, his day.",
+    "reference": "Job 14:6 (DBT)",
+    "connected_to": "Job 14:7",
+    "connected_from": "Job 14:5"
+  },
+  {
+    "text": "For there is hope for a tree: if it be cut down, it will sprout again, and its tender branch will not cease;",
+    "reference": "Job 14:7 (DBT)",
+    "connected_to": "Job 14:8",
+    "connected_from": "Job 14:6"
+  },
+  {
+    "text": "Though its root grow old in the earth, and its stock die in the ground,",
+    "reference": "Job 14:8 (DBT)",
+    "connected_to": "Job 14:9",
+    "connected_from": "Job 14:7"
+  },
+  {
+    "text": "Yet through the scent of water it will bud, and put forth boughs like a young plant.",
+    "reference": "Job 14:9 (DBT)",
+    "connected_to": "Job 14:10",
+    "connected_from": "Job 14:8"
+  },
+  {
+    "text": "But a man dieth, and is prostrate; yea, man expireth, and where is he?",
+    "reference": "Job 14:10 (DBT)",
+    "connected_to": "Job 14:11",
+    "connected_from": "Job 14:9"
+  },
+  {
+    "text": "The waters recede from the lake, and the river wasteth and drieth up:",
+    "reference": "Job 14:11 (DBT)",
+    "connected_to": "Job 14:12",
+    "connected_from": "Job 14:10"
+  },
+  {
+    "text": "So man lieth down, and riseth not again; till the heavens be no more, they do not awake, nor are raised out of their sleep.",
+    "reference": "Job 14:12 (DBT)",
+    "connected_to": "Job 14:13",
+    "connected_from": "Job 14:11"
+  },
+  {
+    "text": "Oh that thou wouldest hide me in Sheol, that thou wouldest keep me secret until thine anger be past, that thou wouldest appoint me a set time, and remember me,—",
+    "reference": "Job 14:13 (DBT)",
+    "connected_to": "Job 14:14",
+    "connected_from": "Job 14:12"
+  },
+  {
+    "text": "(If a man die, shall he live [again]?) all the days of my time of toil would I wait, till my change should come:",
+    "reference": "Job 14:14 (DBT)",
+    "connected_to": "Job 14:15",
+    "connected_from": "Job 14:13"
+  },
+  {
+    "text": "Thou wouldest call, and I would answer thee; thou wouldest have a desire after the work of thy hands.",
+    "reference": "Job 14:15 (DBT)",
+    "connected_to": "Job 14:16",
+    "connected_from": "Job 14:14"
+  },
+  {
+    "text": "For now thou numberest my steps: dost thou not watch over my sin?",
+    "reference": "Job 14:16 (DBT)",
+    "connected_to": "Job 14:17",
+    "connected_from": "Job 14:15"
+  },
+  {
+    "text": "My transgression is sealed up in a bag, and thou heapest up mine iniquity.",
+    "reference": "Job 14:17 (DBT)",
+    "connected_to": "Job 14:18",
+    "connected_from": "Job 14:16"
+  },
+  {
+    "text": "And indeed a mountain falling cometh to nought, and the rock is removed out of its place;",
+    "reference": "Job 14:18 (DBT)",
+    "connected_to": "Job 14:19",
+    "connected_from": "Job 14:17"
+  },
+  {
+    "text": "The waters wear the stones, the floods thereof wash away the dust of the earth; and thou destroyest the hope of man.",
+    "reference": "Job 14:19 (DBT)",
+    "connected_to": "Job 14:20",
+    "connected_from": "Job 14:18"
+  },
+  {
+    "text": "Thou prevailest for ever against him, and he passeth away; thou changest his countenance, and dismissest him.",
+    "reference": "Job 14:20 (DBT)",
+    "connected_to": "Job 14:21",
+    "connected_from": "Job 14:19"
+  },
+  {
+    "text": "His sons come to honour, and he knoweth it not; and they are brought low, and he perceiveth it not.",
+    "reference": "Job 14:21 (DBT)",
+    "connected_to": "Job 14:22",
+    "connected_from": "Job 14:20"
+  },
+  {
+    "text": "But his flesh hath pain for himself alone, and his soul mourneth for himself.",
+    "reference": "Job 14:22 (DBT)",
+    "connected_from": "Job 14:21"
+  }
+]

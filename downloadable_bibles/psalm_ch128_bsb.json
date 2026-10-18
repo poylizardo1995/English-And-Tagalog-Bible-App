@@ -1,0 +1,36 @@
+[
+  {
+    "text": "A song of ascents. Blessed are all who fear the LORD, who walk in His ways!",
+    "reference": "Psalm 128:1 (BSB)",
+    "connected_to": "Psalm 128:2"
+  },
+  {
+    "text": "For when you eat the fruit of your labor, blessings and prosperity will be yours.",
+    "reference": "Psalm 128:2 (BSB)",
+    "connected_to": "Psalm 128:3",
+    "connected_from": "Psalm 128:1"
+  },
+  {
+    "text": "Your wife will be like a fruitful vine flourishing within your house, your sons like olive shoots sitting around your table.",
+    "reference": "Psalm 128:3 (BSB)",
+    "connected_to": "Psalm 128:4",
+    "connected_from": "Psalm 128:2"
+  },
+  {
+    "text": "In this way indeed shall blessing come to the man who fears the LORD.",
+    "reference": "Psalm 128:4 (BSB)",
+    "connected_to": "Psalm 128:5",
+    "connected_from": "Psalm 128:3"
+  },
+  {
+    "text": "May the LORD bless you from Zion, that you may see the prosperity of Jerusalem all the days of your life,",
+    "reference": "Psalm 128:5 (BSB)",
+    "connected_to": "Psalm 128:6",
+    "connected_from": "Psalm 128:4"
+  },
+  {
+    "text": "that you may see your children’s children. Peace be upon Israel!",
+    "reference": "Psalm 128:6 (BSB)",
+    "connected_from": "Psalm 128:5"
+  }
+]

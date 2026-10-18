@@ -1,0 +1,342 @@
+[
+  {
+    "text": "Now a certain [man] was sick, Lazarus from Bethany, of the village of Mary and her sister Martha.",
+    "reference": "John 11:1 (BLB)",
+    "connected_to": "John 11:2"
+  },
+  {
+    "text": "And Mary was the one having anointed the Lord with fragrant oil and having wiped His feet with her hair, whose brother Lazarus was sick.",
+    "reference": "John 11:2 (BLB)",
+    "connected_to": "John 11:3",
+    "connected_from": "John 11:1"
+  },
+  {
+    "text": "Therefore the sisters sent to Him, saying, “Lord, behold, [the one] whom You love is sick.”",
+    "reference": "John 11:3 (BLB)",
+    "connected_to": "John 11:4",
+    "connected_from": "John 11:2"
+  },
+  {
+    "text": "And having heard, Jesus said, “This sickness is not unto death, but for the glory of God, so that the Son of God may be glorified through it.”",
+    "reference": "John 11:4 (BLB)",
+    "connected_to": "John 11:5",
+    "connected_from": "John 11:3"
+  },
+  {
+    "text": "Now Jesus loved Martha and her sister and Lazarus.",
+    "reference": "John 11:5 (BLB)",
+    "connected_to": "John 11:6",
+    "connected_from": "John 11:4"
+  },
+  {
+    "text": "Therefore when He heard that he is sick, then indeed He remained in the place in which He was two days.",
+    "reference": "John 11:6 (BLB)",
+    "connected_to": "John 11:7",
+    "connected_from": "John 11:5"
+  },
+  {
+    "text": "Then after this, He says to the disciples, “Let us go into Judea again.”",
+    "reference": "John 11:7 (BLB)",
+    "connected_to": "John 11:8",
+    "connected_from": "John 11:6"
+  },
+  {
+    "text": "The disciples say to Him, “Rabbi, just now the Jews were seeking to stone You, and again You are going there?”",
+    "reference": "John 11:8 (BLB)",
+    "connected_to": "John 11:9",
+    "connected_from": "John 11:7"
+  },
+  {
+    "text": "Jesus answered, “Are there not twelve hours of the day? If anyone may walk in the day, he does not stumble, because he sees the light of this world.",
+    "reference": "John 11:9 (BLB)",
+    "connected_to": "John 11:10",
+    "connected_from": "John 11:8"
+  },
+  {
+    "text": "But if anyone may walk in the night, he stumbles, because the light is not in him.”",
+    "reference": "John 11:10 (BLB)",
+    "connected_to": "John 11:11",
+    "connected_from": "John 11:9"
+  },
+  {
+    "text": "He said these things, and after this He says to them, “Lazarus our friend has fallen asleep, but I go so that I may awaken him.”",
+    "reference": "John 11:11 (BLB)",
+    "connected_to": "John 11:12",
+    "connected_from": "John 11:10"
+  },
+  {
+    "text": "Therefore the disciples said to Him, “Lord, if he has fallen asleep, he will be saved.”",
+    "reference": "John 11:12 (BLB)",
+    "connected_to": "John 11:13",
+    "connected_from": "John 11:11"
+  },
+  {
+    "text": "Now Jesus had spoken about his death; but they thought that He speaks about the rest of sleep.",
+    "reference": "John 11:13 (BLB)",
+    "connected_to": "John 11:14",
+    "connected_from": "John 11:12"
+  },
+  {
+    "text": "So then Jesus said to them plainly, “Lazarus has died,",
+    "reference": "John 11:14 (BLB)",
+    "connected_to": "John 11:15",
+    "connected_from": "John 11:13"
+  },
+  {
+    "text": "and I rejoice for your⁺ sake (so that you⁺ might believe) that I was not there. But let us go to him.”",
+    "reference": "John 11:15 (BLB)",
+    "connected_to": "John 11:16",
+    "connected_from": "John 11:14"
+  },
+  {
+    "text": "Therefore Thomas called Didymus said to [his] fellow disciples, “Let us also go, so that we may die with Him.”",
+    "reference": "John 11:16 (BLB)",
+    "connected_to": "John 11:17",
+    "connected_from": "John 11:15"
+  },
+  {
+    "text": "Therefore, having come, Jesus found him already having been four days in the tomb.",
+    "reference": "John 11:17 (BLB)",
+    "connected_to": "John 11:18",
+    "connected_from": "John 11:16"
+  },
+  {
+    "text": "Now Bethany was near Jerusalem, about fifteen stadia away.",
+    "reference": "John 11:18 (BLB)",
+    "connected_to": "John 11:19",
+    "connected_from": "John 11:17"
+  },
+  {
+    "text": "And many of the Jews had come to Martha and Mary, so that they might console them concerning [their] brother.",
+    "reference": "John 11:19 (BLB)",
+    "connected_to": "John 11:20",
+    "connected_from": "John 11:18"
+  },
+  {
+    "text": "Therefore Martha, when she heard that Jesus is coming, met Him; but Mary was sitting in the house.",
+    "reference": "John 11:20 (BLB)",
+    "connected_to": "John 11:21",
+    "connected_from": "John 11:19"
+  },
+  {
+    "text": "Then Martha said to Jesus, “Lord, if You had been here, my brother would not have died.",
+    "reference": "John 11:21 (BLB)",
+    "connected_to": "John 11:22",
+    "connected_from": "John 11:20"
+  },
+  {
+    "text": "But even now I know that whatever You might ask God, God will give You.”",
+    "reference": "John 11:22 (BLB)",
+    "connected_to": "John 11:23",
+    "connected_from": "John 11:21"
+  },
+  {
+    "text": "Jesus says to her, “Your brother will rise again.”",
+    "reference": "John 11:23 (BLB)",
+    "connected_to": "John 11:24",
+    "connected_from": "John 11:22"
+  },
+  {
+    "text": "Martha says to Him, “I know that he will rise again in the resurrection in the last day.”",
+    "reference": "John 11:24 (BLB)",
+    "connected_to": "John 11:25",
+    "connected_from": "John 11:23"
+  },
+  {
+    "text": "Jesus said to her, “I am the resurrection and the life; the one believing in Me, even if he may die, he will live.",
+    "reference": "John 11:25 (BLB)",
+    "connected_to": "John 11:26",
+    "connected_from": "John 11:24"
+  },
+  {
+    "text": "And everyone living and believing in Me shall never die, to the age. Do you believe this?”",
+    "reference": "John 11:26 (BLB)",
+    "connected_to": "John 11:27",
+    "connected_from": "John 11:25"
+  },
+  {
+    "text": "She says to Him, “Yes, Lord; I have believed that You are the Christ, the Son of God, the One coming into the world.”",
+    "reference": "John 11:27 (BLB)",
+    "connected_to": "John 11:28",
+    "connected_from": "John 11:26"
+  },
+  {
+    "text": "And having said these things, she went away and called her sister Mary secretly, having said, “The Teacher is come, and He calls you.”",
+    "reference": "John 11:28 (BLB)",
+    "connected_to": "John 11:29",
+    "connected_from": "John 11:27"
+  },
+  {
+    "text": "And she, as she heard, rose up quickly and was coming to Him.",
+    "reference": "John 11:29 (BLB)",
+    "connected_to": "John 11:30",
+    "connected_from": "John 11:28"
+  },
+  {
+    "text": "Now Jesus had not yet come into the village, but was still in the place where Martha met Him.",
+    "reference": "John 11:30 (BLB)",
+    "connected_to": "John 11:31",
+    "connected_from": "John 11:29"
+  },
+  {
+    "text": "Then the Jews being with her in the house and consoling her, having seen that Mary rose up quickly and went out, followed her, having thought that she is going to the tomb so that she might weep there.",
+    "reference": "John 11:31 (BLB)",
+    "connected_to": "John 11:32",
+    "connected_from": "John 11:30"
+  },
+  {
+    "text": "Therefore Mary, as she came to where Jesus was, having seen Him, fell at His feet, saying to Him, “Lord, if You had been here, my brother would not have died.”",
+    "reference": "John 11:32 (BLB)",
+    "connected_to": "John 11:33",
+    "connected_from": "John 11:31"
+  },
+  {
+    "text": "Therefore Jesus, as He saw her weeping and the Jews having come with her weeping, was deeply moved in spirit and Himself troubled.",
+    "reference": "John 11:33 (BLB)",
+    "connected_to": "John 11:34",
+    "connected_from": "John 11:32"
+  },
+  {
+    "text": "And He said, “Where have you⁺ laid him?” They say to Him, “Lord, come and see.”",
+    "reference": "John 11:34 (BLB)",
+    "connected_to": "John 11:35",
+    "connected_from": "John 11:33"
+  },
+  {
+    "text": "Jesus wept.",
+    "reference": "John 11:35 (BLB)",
+    "connected_to": "John 11:36",
+    "connected_from": "John 11:34"
+  },
+  {
+    "text": "Therefore the Jews were saying, “Behold how He was loving him!”",
+    "reference": "John 11:36 (BLB)",
+    "connected_to": "John 11:37",
+    "connected_from": "John 11:35"
+  },
+  {
+    "text": "But some of them said, “Was not this [man], the One having opened the eyes of the blind able to have caused also that this one should not have died?”",
+    "reference": "John 11:37 (BLB)",
+    "connected_to": "John 11:38",
+    "connected_from": "John 11:36"
+  },
+  {
+    "text": "So Jesus, being deeply moved in Himself again, comes to the tomb. Now it was a cave, and a stone was lying upon it.",
+    "reference": "John 11:38 (BLB)",
+    "connected_to": "John 11:39",
+    "connected_from": "John 11:37"
+  },
+  {
+    "text": "Jesus says, “Take away the stone.” Martha, the sister of the one having died, says to Him, “Lord, already he stinks, for it is four days.”",
+    "reference": "John 11:39 (BLB)",
+    "connected_to": "John 11:40",
+    "connected_from": "John 11:38"
+  },
+  {
+    "text": "Jesus says to her, “Did I not say to you that if you should believe, you will see the glory of God?”",
+    "reference": "John 11:40 (BLB)",
+    "connected_to": "John 11:41",
+    "connected_from": "John 11:39"
+  },
+  {
+    "text": "So they took away the stone. Now Jesus lifted His eyes upward and said, “Father, I thank You that You heard Me.",
+    "reference": "John 11:41 (BLB)",
+    "connected_to": "John 11:42",
+    "connected_from": "John 11:40"
+  },
+  {
+    "text": "And I knew that You always hear Me; but I said [it] because of the crowd standing around, so that they may believe that You sent Me.”",
+    "reference": "John 11:42 (BLB)",
+    "connected_to": "John 11:43",
+    "connected_from": "John 11:41"
+  },
+  {
+    "text": "And having said these things, He cried out in a loud voice, “Lazarus, come out!”",
+    "reference": "John 11:43 (BLB)",
+    "connected_to": "John 11:44",
+    "connected_from": "John 11:42"
+  },
+  {
+    "text": "The one having been dead came out, the feet and the hands bound with linen strips, and his face bound around in a soudario. Jesus says to them, “Unbind him and allow him to go.”",
+    "reference": "John 11:44 (BLB)",
+    "connected_to": "John 11:45",
+    "connected_from": "John 11:43"
+  },
+  {
+    "text": "Therefore many of the Jews, having come to Mary and having seen what He did, believed in Him.",
+    "reference": "John 11:45 (BLB)",
+    "connected_to": "John 11:46",
+    "connected_from": "John 11:44"
+  },
+  {
+    "text": "But some of them went away to the Pharisees and told them what Jesus did.",
+    "reference": "John 11:46 (BLB)",
+    "connected_to": "John 11:47",
+    "connected_from": "John 11:45"
+  },
+  {
+    "text": "Therefore the chief priests and the Pharisees gathered together a council, and they were saying, “What do we do? For this man does many signs.",
+    "reference": "John 11:47 (BLB)",
+    "connected_to": "John 11:48",
+    "connected_from": "John 11:46"
+  },
+  {
+    "text": "If we shall let Him alone like this, all will believe in Him, and the Romans will come and will take away both our place and nation.”",
+    "reference": "John 11:48 (BLB)",
+    "connected_to": "John 11:49",
+    "connected_from": "John 11:47"
+  },
+  {
+    "text": "But a certain one of them, Caiaphas, being high priest that year, said to them, “You⁺ know nothing at all,",
+    "reference": "John 11:49 (BLB)",
+    "connected_to": "John 11:50",
+    "connected_from": "John 11:48"
+  },
+  {
+    "text": "nor do you⁺ reckon that it is profitable for you⁺ that one man should die for the people and the whole nation should not perish.”",
+    "reference": "John 11:50 (BLB)",
+    "connected_to": "John 11:51",
+    "connected_from": "John 11:49"
+  },
+  {
+    "text": "Now he did not say this from himself, but being high priest that year, he prophesied that Jesus was about to die for the nation,",
+    "reference": "John 11:51 (BLB)",
+    "connected_to": "John 11:52",
+    "connected_from": "John 11:50"
+  },
+  {
+    "text": "and not for the nation only, but also so that the children of God, those having been scattered, He might gather together into one.",
+    "reference": "John 11:52 (BLB)",
+    "connected_to": "John 11:53",
+    "connected_from": "John 11:51"
+  },
+  {
+    "text": "So from that day they took counsel together that they might kill Him.",
+    "reference": "John 11:53 (BLB)",
+    "connected_to": "John 11:54",
+    "connected_from": "John 11:52"
+  },
+  {
+    "text": "Therefore Jesus no longer was walking publicly among the Jews, but He went away from there into the region near the wilderness, to a city called Ephraim. And there He stayed with the disciples.",
+    "reference": "John 11:54 (BLB)",
+    "connected_to": "John 11:55",
+    "connected_from": "John 11:53"
+  },
+  {
+    "text": "Now the Passover of the Jews was near, and many went up to Jerusalem from the country before the Passover, so that they might purify themselves.",
+    "reference": "John 11:55 (BLB)",
+    "connected_to": "John 11:56",
+    "connected_from": "John 11:54"
+  },
+  {
+    "text": "Therefore they were seeking Jesus and were speaking with one another standing in the temple: “What does it seem to you⁺? That He may not come to the feast?”",
+    "reference": "John 11:56 (BLB)",
+    "connected_to": "John 11:57",
+    "connected_from": "John 11:55"
+  },
+  {
+    "text": "Now the chief priests and the Pharisees had given a command that if anyone should know where He is, he should show [it], so that they might seize Him.",
+    "reference": "John 11:57 (BLB)",
+    "connected_from": "John 11:56"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "text": "A Song of Ascents; of David. Jehovah, my heart is not haughty, nor mine eyes lofty; Neither do I exercise myself in great matters, Or in things too wonderful for me.",
+    "reference": "Psalm 131:1 (ASV)",
+    "connected_to": "Psalm 131:2"
+  },
+  {
+    "text": "Surely I have stilled and quieted my soul; Like a weaned child with his mother, Like a weaned child is my soul within me.",
+    "reference": "Psalm 131:2 (ASV)",
+    "connected_to": "Psalm 131:3",
+    "connected_from": "Psalm 131:1"
+  },
+  {
+    "text": "O Israel, hope in Jehovah From this time forth and for evermore.",
+    "reference": "Psalm 131:3 (ASV)",
+    "connected_from": "Psalm 131:2"
+  }
+]

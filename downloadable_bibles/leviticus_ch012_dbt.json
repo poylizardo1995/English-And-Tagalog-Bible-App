@@ -1,0 +1,48 @@
+[
+  {
+    "text": "And Jehovah spoke to Moses, saying,",
+    "reference": "Leviticus 12:1 (DBT)",
+    "connected_to": "Leviticus 12:2"
+  },
+  {
+    "text": "Speak unto the children of Israel, saying, If a woman conceive seed, and bear a male, then she shall be unclean seven days; as in the days of the separation of her infirmity shall she be unclean.",
+    "reference": "Leviticus 12:2 (DBT)",
+    "connected_to": "Leviticus 12:3",
+    "connected_from": "Leviticus 12:1"
+  },
+  {
+    "text": "And on the eighth day shall the flesh of his foreskin be circumcised.",
+    "reference": "Leviticus 12:3 (DBT)",
+    "connected_to": "Leviticus 12:4",
+    "connected_from": "Leviticus 12:2"
+  },
+  {
+    "text": "And she shall continue thirty-three days in the blood of her cleansing; no holy thing shall she touch, nor come into the sanctuary, until the days of her cleansing are fulfilled.",
+    "reference": "Leviticus 12:4 (DBT)",
+    "connected_to": "Leviticus 12:5",
+    "connected_from": "Leviticus 12:3"
+  },
+  {
+    "text": "And if she bear a female, then she shall be unclean two weeks, as in her separation; and she shall continue sixty-six days in the blood of her cleansing.",
+    "reference": "Leviticus 12:5 (DBT)",
+    "connected_to": "Leviticus 12:6",
+    "connected_from": "Leviticus 12:4"
+  },
+  {
+    "text": "And when the days of her cleansing are fulfilled, for a son or for a daughter, she shall bring a yearling lamb for a burnt-offering, and a young pigeon or a turtle-dove for a sin-offering, to the entrance of the tent of meeting, unto the priest.",
+    "reference": "Leviticus 12:6 (DBT)",
+    "connected_to": "Leviticus 12:7",
+    "connected_from": "Leviticus 12:5"
+  },
+  {
+    "text": "And he shall present it before Jehovah, and make atonement for her; and she shall be clean from the flux of her blood. This is the law for her that hath borne a male or a female.",
+    "reference": "Leviticus 12:7 (DBT)",
+    "connected_to": "Leviticus 12:8",
+    "connected_from": "Leviticus 12:6"
+  },
+  {
+    "text": "And if her hand cannot find what is sufficient for a sheep, she shall bring two turtle-doves or two young pigeons; one for a burnt-offering, and the other for a sin-offering; and the priest shall make atonement for her; and she shall be clean.",
+    "reference": "Leviticus 12:8 (DBT)",
+    "connected_from": "Leviticus 12:7"
+  }
+]

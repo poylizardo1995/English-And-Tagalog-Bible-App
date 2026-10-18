@@ -1,0 +1,48 @@
+[
+  {
+    "text": "A Song of the Ascents. <span class=|reftext|><a href=|#|><b>1</b></a> Often they have distressed me from my youth—now let Israel say—",
+    "reference": "Psalm 129:1 (BLB)",
+    "connected_to": "Psalm 129:2"
+  },
+  {
+    "text": "Often they have distressed me from my youth, yet they have not prevailed against me.",
+    "reference": "Psalm 129:2 (BLB)",
+    "connected_to": "Psalm 129:3",
+    "connected_from": "Psalm 129:1"
+  },
+  {
+    "text": "Upon my back, the plowmen were plowing; they have made long their furrows.",
+    "reference": "Psalm 129:3 (BLB)",
+    "connected_to": "Psalm 129:4",
+    "connected_from": "Psalm 129:2"
+  },
+  {
+    "text": "YHWH the Righteous One, may He cut off the cords of the wicked!",
+    "reference": "Psalm 129:4 (BLB)",
+    "connected_to": "Psalm 129:5",
+    "connected_from": "Psalm 129:3"
+  },
+  {
+    "text": "May they be put to shame and turned back, all those hating Zion!",
+    "reference": "Psalm 129:5 (BLB)",
+    "connected_to": "Psalm 129:6",
+    "connected_from": "Psalm 129:4"
+  },
+  {
+    "text": "May they be like grass on the rooftops that has withered before it can grow,",
+    "reference": "Psalm 129:6 (BLB)",
+    "connected_to": "Psalm 129:7",
+    "connected_from": "Psalm 129:5"
+  },
+  {
+    "text": "unable to fill the hand of one reaping, or the bosom of one binding sheaves.",
+    "reference": "Psalm 129:7 (BLB)",
+    "connected_to": "Psalm 129:8",
+    "connected_from": "Psalm 129:6"
+  },
+  {
+    "text": "And neither let those passing by say, “The blessing of YHWH [be] upon you⁺; we bless you⁺ in the name of YHWH!”",
+    "reference": "Psalm 129:8 (BLB)",
+    "connected_from": "Psalm 129:7"
+  }
+]

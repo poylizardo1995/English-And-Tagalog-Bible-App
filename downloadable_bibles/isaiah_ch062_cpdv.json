@@ -1,0 +1,72 @@
+[
+  {
+    "text": "For the sake of Zion, I will not be silent, and for the sake of Jerusalem, I will not rest, until her Just One advances in splendor, and her Savior is kindled like a lamp.",
+    "reference": "Isaiah 62:1 (CPDV)",
+    "connected_to": "Isaiah 62:2"
+  },
+  {
+    "text": "And the Gentiles will see your Just One, and all the kings will see your Renown One. And you shall be called by a new name, which the mouth of the Lord will choose.",
+    "reference": "Isaiah 62:2 (CPDV)",
+    "connected_to": "Isaiah 62:3",
+    "connected_from": "Isaiah 62:1"
+  },
+  {
+    "text": "And you shall be a crown of glory in the hand of the Lord, and a royal diadem in the hand of your God.",
+    "reference": "Isaiah 62:3 (CPDV)",
+    "connected_to": "Isaiah 62:4",
+    "connected_from": "Isaiah 62:2"
+  },
+  {
+    "text": "You will no longer called Forsaken. And your land will no longer be called Desolate. Instead, you shall be called My Will within it, and your land shall be called Inhabited. For the Lord has been well pleased with you, and your land will be inhabited.",
+    "reference": "Isaiah 62:4 (CPDV)",
+    "connected_to": "Isaiah 62:5",
+    "connected_from": "Isaiah 62:3"
+  },
+  {
+    "text": "For the young man will live with the virgin, and your children will live with you. And the groom will rejoice over the bride, and your God will rejoice over you.",
+    "reference": "Isaiah 62:5 (CPDV)",
+    "connected_to": "Isaiah 62:6",
+    "connected_from": "Isaiah 62:4"
+  },
+  {
+    "text": "Upon your walls, O Jerusalem, I have stationed watchmen all day and all night unceasingly; they will not be silent. You who are mindful of the Lord, you should not be silent,",
+    "reference": "Isaiah 62:6 (CPDV)",
+    "connected_to": "Isaiah 62:7",
+    "connected_from": "Isaiah 62:5"
+  },
+  {
+    "text": "and you should not grant silence to him, until he makes firm and establishes Jerusalem as a praise upon the earth.",
+    "reference": "Isaiah 62:7 (CPDV)",
+    "connected_to": "Isaiah 62:8",
+    "connected_from": "Isaiah 62:6"
+  },
+  {
+    "text": "The Lord has sworn with his right hand and with the arm of his strength: “Certainly, I will no longer permit your grain to be the food of your enemies. And the sons of foreigners will not drink your wine, for which you have labored.”",
+    "reference": "Isaiah 62:8 (CPDV)",
+    "connected_to": "Isaiah 62:9",
+    "connected_from": "Isaiah 62:7"
+  },
+  {
+    "text": "For those who gather it will eat it, and they will praise the Lord. And those who bring it together will drink it in my holy courts.",
+    "reference": "Isaiah 62:9 (CPDV)",
+    "connected_to": "Isaiah 62:10",
+    "connected_from": "Isaiah 62:8"
+  },
+  {
+    "text": "Pass through, pass through the gates! Prepare a way for the people! Make the road level, remove the stones, and lift up a sign for the people!",
+    "reference": "Isaiah 62:10 (CPDV)",
+    "connected_to": "Isaiah 62:11",
+    "connected_from": "Isaiah 62:9"
+  },
+  {
+    "text": "Behold, the Lord has caused it to be heard to the ends of the earth. Tell the daughter of Zion: “Behold, your Saviour approaches! Behold, his reward is with him, and his work before him.”",
+    "reference": "Isaiah 62:11 (CPDV)",
+    "connected_to": "Isaiah 62:12",
+    "connected_from": "Isaiah 62:10"
+  },
+  {
+    "text": "And they will call them: The holy people, the redeemed of the Lord. Then you will be called: A city sought, and not forsaken.",
+    "reference": "Isaiah 62:12 (CPDV)",
+    "connected_from": "Isaiah 62:11"
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "text": "A song. A Psalm of Asaph. <span class=|reftext|><a href=|#|><b>1</b></a> O God, [keep] no silence to You; do not be silent, and do not be still, O God.",
+    "reference": "Psalm 83:1 (BLB)",
+    "connected_to": "Psalm 83:2"
+  },
+  {
+    "text": "For behold, Your enemies roar, and those hating You have lifted up the head.",
+    "reference": "Psalm 83:2 (BLB)",
+    "connected_to": "Psalm 83:3",
+    "connected_from": "Psalm 83:1"
+  },
+  {
+    "text": "Against Your people, they act with cunning counsel, and they take counsel together against Your treasured ones.",
+    "reference": "Psalm 83:3 (BLB)",
+    "connected_to": "Psalm 83:4",
+    "connected_from": "Psalm 83:2"
+  },
+  {
+    "text": "They say, “Come, and we shall make them disappear as a nation, and the name of Israel will not be remembered anymore.”",
+    "reference": "Psalm 83:4 (BLB)",
+    "connected_to": "Psalm 83:5",
+    "connected_from": "Psalm 83:3"
+  },
+  {
+    "text": "For, they consulted together in heart; they cut an alliance against You—",
+    "reference": "Psalm 83:5 (BLB)",
+    "connected_to": "Psalm 83:6",
+    "connected_from": "Psalm 83:4"
+  },
+  {
+    "text": "the tents of Edom and the Ishmaelites, Moab and the Hagrites,",
+    "reference": "Psalm 83:6 (BLB)",
+    "connected_to": "Psalm 83:7",
+    "connected_from": "Psalm 83:5"
+  },
+  {
+    "text": "Gebal, and Ammon, and Amalek, Philistia with those dwelling [in] Tyre.",
+    "reference": "Psalm 83:7 (BLB)",
+    "connected_to": "Psalm 83:8",
+    "connected_from": "Psalm 83:6"
+  },
+  {
+    "text": "Assyria also has joined with them; they have become an arm for the sons of Lot. Selah",
+    "reference": "Psalm 83:8 (BLB)",
+    "connected_to": "Psalm 83:9",
+    "connected_from": "Psalm 83:7"
+  },
+  {
+    "text": "may You do to them as [to] Midian, as [to] Sisera, as [to] Jabin, at the River Kishon.",
+    "reference": "Psalm 83:9 (BLB)",
+    "connected_to": "Psalm 83:10",
+    "connected_from": "Psalm 83:8"
+  },
+  {
+    "text": "They perished at Endor; they became dung for the earth!",
+    "reference": "Psalm 83:10 (BLB)",
+    "connected_to": "Psalm 83:11",
+    "connected_from": "Psalm 83:9"
+  },
+  {
+    "text": "Make their nobles like Oreb and like Zeeb, and like Zebah, and like Zalmunna—all their princes—",
+    "reference": "Psalm 83:11 (BLB)",
+    "connected_to": "Psalm 83:12",
+    "connected_from": "Psalm 83:10"
+  },
+  {
+    "text": "who said, “Let us possess for ourselves the pastures of God.”",
+    "reference": "Psalm 83:12 (BLB)",
+    "connected_to": "Psalm 83:13",
+    "connected_from": "Psalm 83:11"
+  },
+  {
+    "text": "O my God, set them like the whirling dust, like chaff before the face of the wind!",
+    "reference": "Psalm 83:13 (BLB)",
+    "connected_to": "Psalm 83:14",
+    "connected_from": "Psalm 83:12"
+  },
+  {
+    "text": "As the fire burns a forest, and as the flame sets the mountains on fire,",
+    "reference": "Psalm 83:14 (BLB)",
+    "connected_to": "Psalm 83:15",
+    "connected_from": "Psalm 83:13"
+  },
+  {
+    "text": "so may You pursue them with Your tempest and terrify them with Your storm.",
+    "reference": "Psalm 83:15 (BLB)",
+    "connected_to": "Psalm 83:16",
+    "connected_from": "Psalm 83:14"
+  },
+  {
+    "text": "Fill their faces [with] shame, and they shall seek Your name, O YHWH.",
+    "reference": "Psalm 83:16 (BLB)",
+    "connected_to": "Psalm 83:17",
+    "connected_from": "Psalm 83:15"
+  },
+  {
+    "text": "Let them be put to shame and dismayed until forever, and may they be ashamed and perish!",
+    "reference": "Psalm 83:17 (BLB)",
+    "connected_to": "Psalm 83:18",
+    "connected_from": "Psalm 83:16"
+  },
+  {
+    "text": "And they shall know that You—Your name [is] YHWH—You alone [are] Most High over all the earth!",
+    "reference": "Psalm 83:18 (BLB)",
+    "connected_from": "Psalm 83:17"
+  }
+]

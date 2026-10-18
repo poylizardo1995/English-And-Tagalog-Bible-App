@@ -1,0 +1,126 @@
+[
+  {
+    "text": "And I heard a great voice out of the temple saying to the seven angels, Go your ways, and pour out the vials of the wrath of God on the earth.",
+    "reference": "Revelation 16:1 (AKJV)",
+    "connected_to": "Revelation 16:2"
+  },
+  {
+    "text": "And the first went, and poured out his vial on the earth; and there fell a noisome and grievous sore on the men which had the mark of the beast, and on them which worshipped his image.",
+    "reference": "Revelation 16:2 (AKJV)",
+    "connected_to": "Revelation 16:3",
+    "connected_from": "Revelation 16:1"
+  },
+  {
+    "text": "And the second angel poured out his vial on the sea; and it became as the blood of a dead man: and every living soul died in the sea.",
+    "reference": "Revelation 16:3 (AKJV)",
+    "connected_to": "Revelation 16:4",
+    "connected_from": "Revelation 16:2"
+  },
+  {
+    "text": "And the third angel poured out his vial on the rivers and fountains of waters; and they became blood.",
+    "reference": "Revelation 16:4 (AKJV)",
+    "connected_to": "Revelation 16:5",
+    "connected_from": "Revelation 16:3"
+  },
+  {
+    "text": "And I heard the angel of the waters say, You are righteous, O Lord, which are, and were, and shall be, because you have judged thus.",
+    "reference": "Revelation 16:5 (AKJV)",
+    "connected_to": "Revelation 16:6",
+    "connected_from": "Revelation 16:4"
+  },
+  {
+    "text": "For they have shed the blood of saints and prophets, and you have given them blood to drink; for they are worthy.",
+    "reference": "Revelation 16:6 (AKJV)",
+    "connected_to": "Revelation 16:7",
+    "connected_from": "Revelation 16:5"
+  },
+  {
+    "text": "And I heard another out of the altar say, Even so, Lord God Almighty, true and righteous are your judgments.",
+    "reference": "Revelation 16:7 (AKJV)",
+    "connected_to": "Revelation 16:8",
+    "connected_from": "Revelation 16:6"
+  },
+  {
+    "text": "And the fourth angel poured out his vial on the sun; and power was given to him to scorch men with fire.",
+    "reference": "Revelation 16:8 (AKJV)",
+    "connected_to": "Revelation 16:9",
+    "connected_from": "Revelation 16:7"
+  },
+  {
+    "text": "And men were scorched with great heat, and blasphemed the name of God, which has power over these plagues: and they repented not to give him glory.",
+    "reference": "Revelation 16:9 (AKJV)",
+    "connected_to": "Revelation 16:10",
+    "connected_from": "Revelation 16:8"
+  },
+  {
+    "text": "And the fifth angel poured out his vial on the seat of the beast; and his kingdom was full of darkness; and they gnawed their tongues for pain,",
+    "reference": "Revelation 16:10 (AKJV)",
+    "connected_to": "Revelation 16:11",
+    "connected_from": "Revelation 16:9"
+  },
+  {
+    "text": "And blasphemed the God of heaven because of their pains and their sores, and repented not of their deeds.",
+    "reference": "Revelation 16:11 (AKJV)",
+    "connected_to": "Revelation 16:12",
+    "connected_from": "Revelation 16:10"
+  },
+  {
+    "text": "And the sixth angel poured out his vial on the great river Euphrates; and the water thereof was dried up, that the way of the kings of the east might be prepared.",
+    "reference": "Revelation 16:12 (AKJV)",
+    "connected_to": "Revelation 16:13",
+    "connected_from": "Revelation 16:11"
+  },
+  {
+    "text": "And I saw three unclean spirits like frogs come out of the mouth of the dragon, and out of the mouth of the beast, and out of the mouth of the false prophet.",
+    "reference": "Revelation 16:13 (AKJV)",
+    "connected_to": "Revelation 16:14",
+    "connected_from": "Revelation 16:12"
+  },
+  {
+    "text": "For they are the spirits of devils, working miracles, which go forth to the kings of the earth and of the whole world, to gather them to the battle of that great day of God Almighty.",
+    "reference": "Revelation 16:14 (AKJV)",
+    "connected_to": "Revelation 16:15",
+    "connected_from": "Revelation 16:13"
+  },
+  {
+    "text": "Behold, I come as a thief. Blessed is he that watches, and keeps his garments, lest he walk naked, and they see his shame.",
+    "reference": "Revelation 16:15 (AKJV)",
+    "connected_to": "Revelation 16:16",
+    "connected_from": "Revelation 16:14"
+  },
+  {
+    "text": "And he gathered them together into a place called in the Hebrew tongue Armageddon.",
+    "reference": "Revelation 16:16 (AKJV)",
+    "connected_to": "Revelation 16:17",
+    "connected_from": "Revelation 16:15"
+  },
+  {
+    "text": "And the seventh angel poured out his vial into the air; and there came a great voice out of the temple of heaven, from the throne, saying, It is done.",
+    "reference": "Revelation 16:17 (AKJV)",
+    "connected_to": "Revelation 16:18",
+    "connected_from": "Revelation 16:16"
+  },
+  {
+    "text": "And there were voices, and thunders, and lightning; and there was a great earthquake, such as was not since men were on the earth, so mighty an earthquake, and so great.",
+    "reference": "Revelation 16:18 (AKJV)",
+    "connected_to": "Revelation 16:19",
+    "connected_from": "Revelation 16:17"
+  },
+  {
+    "text": "And the great city was divided into three parts, and the cities of the nations fell: and great Babylon came in remembrance before God, to give to her the cup of the wine of the fierceness of his wrath.",
+    "reference": "Revelation 16:19 (AKJV)",
+    "connected_to": "Revelation 16:20",
+    "connected_from": "Revelation 16:18"
+  },
+  {
+    "text": "And every island fled away, and the mountains were not found.",
+    "reference": "Revelation 16:20 (AKJV)",
+    "connected_to": "Revelation 16:21",
+    "connected_from": "Revelation 16:19"
+  },
+  {
+    "text": "And there fell on men a great hail out of heaven, every stone about the weight of a talent: and men blasphemed God because of the plague of the hail; for the plague thereof was exceeding great.",
+    "reference": "Revelation 16:21 (AKJV)",
+    "connected_from": "Revelation 16:20"
+  }
+]

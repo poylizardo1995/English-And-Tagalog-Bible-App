@@ -1,0 +1,132 @@
+[
+  {
+    "text": "A Psalm of David; when he changed his behaviour before Abimelech, who drove him away, and he departed. I will bless the LORD at all times: his praise shall continually be in my mouth.",
+    "reference": "Psalm 34:1 (ERV)",
+    "connected_to": "Psalm 34:2"
+  },
+  {
+    "text": "My soul shall make her boast in the LORD: the meek shall hear thereof, and be glad.",
+    "reference": "Psalm 34:2 (ERV)",
+    "connected_to": "Psalm 34:3",
+    "connected_from": "Psalm 34:1"
+  },
+  {
+    "text": "O magnify the LORD with me, and let us exalt his name together.",
+    "reference": "Psalm 34:3 (ERV)",
+    "connected_to": "Psalm 34:4",
+    "connected_from": "Psalm 34:2"
+  },
+  {
+    "text": "I sought the LORD, and he answered me, and delivered me from all my fears.",
+    "reference": "Psalm 34:4 (ERV)",
+    "connected_to": "Psalm 34:5",
+    "connected_from": "Psalm 34:3"
+  },
+  {
+    "text": "They looked unto him, and were lightened: and their faces shall never be confounded.",
+    "reference": "Psalm 34:5 (ERV)",
+    "connected_to": "Psalm 34:6",
+    "connected_from": "Psalm 34:4"
+  },
+  {
+    "text": "This poor man cried, and the LORD heard him, and saved him out of all his troubles.",
+    "reference": "Psalm 34:6 (ERV)",
+    "connected_to": "Psalm 34:7",
+    "connected_from": "Psalm 34:5"
+  },
+  {
+    "text": "The angel of the LORD encampeth round about them that fear him, and delivereth them.",
+    "reference": "Psalm 34:7 (ERV)",
+    "connected_to": "Psalm 34:8",
+    "connected_from": "Psalm 34:6"
+  },
+  {
+    "text": "O taste and see that the LORD is good: blessed is the man that trusteth in him.",
+    "reference": "Psalm 34:8 (ERV)",
+    "connected_to": "Psalm 34:9",
+    "connected_from": "Psalm 34:7"
+  },
+  {
+    "text": "O fear the LORD, ye his saints: for there is no want to them that fear him.",
+    "reference": "Psalm 34:9 (ERV)",
+    "connected_to": "Psalm 34:10",
+    "connected_from": "Psalm 34:8"
+  },
+  {
+    "text": "The young lions do lack, and suffer hunger: but they that seek the LORD shall not want any good thing.",
+    "reference": "Psalm 34:10 (ERV)",
+    "connected_to": "Psalm 34:11",
+    "connected_from": "Psalm 34:9"
+  },
+  {
+    "text": "Come, ye children, hearken unto me: I will teach you the fear of the LORD.",
+    "reference": "Psalm 34:11 (ERV)",
+    "connected_to": "Psalm 34:12",
+    "connected_from": "Psalm 34:10"
+  },
+  {
+    "text": "What man is he that desireth life, and loveth many days, that he may see good?",
+    "reference": "Psalm 34:12 (ERV)",
+    "connected_to": "Psalm 34:13",
+    "connected_from": "Psalm 34:11"
+  },
+  {
+    "text": "Keep thy tongue from evil, and thy lips from speaking guile.",
+    "reference": "Psalm 34:13 (ERV)",
+    "connected_to": "Psalm 34:14",
+    "connected_from": "Psalm 34:12"
+  },
+  {
+    "text": "Depart from evil, and do good; seek peace, and pursue it.",
+    "reference": "Psalm 34:14 (ERV)",
+    "connected_to": "Psalm 34:15",
+    "connected_from": "Psalm 34:13"
+  },
+  {
+    "text": "The eyes of the LORD are toward the righteous, and his ears are open unto their cry.",
+    "reference": "Psalm 34:15 (ERV)",
+    "connected_to": "Psalm 34:16",
+    "connected_from": "Psalm 34:14"
+  },
+  {
+    "text": "The face of the LORD is against them that do evil, to cut off the remembrance of them from the earth.",
+    "reference": "Psalm 34:16 (ERV)",
+    "connected_to": "Psalm 34:17",
+    "connected_from": "Psalm 34:15"
+  },
+  {
+    "text": "The righteous cried, and the LORD heard, and delivered them out of all their troubles.",
+    "reference": "Psalm 34:17 (ERV)",
+    "connected_to": "Psalm 34:18",
+    "connected_from": "Psalm 34:16"
+  },
+  {
+    "text": "The LORD is nigh unto them that are of a broken heart, and saveth such as be of a contrite spirit.",
+    "reference": "Psalm 34:18 (ERV)",
+    "connected_to": "Psalm 34:19",
+    "connected_from": "Psalm 34:17"
+  },
+  {
+    "text": "Many are the afflictions of the righteous: but the LORD delivereth him out of them all.",
+    "reference": "Psalm 34:19 (ERV)",
+    "connected_to": "Psalm 34:20",
+    "connected_from": "Psalm 34:18"
+  },
+  {
+    "text": "He keepeth all his bones: not one of them is broken.",
+    "reference": "Psalm 34:20 (ERV)",
+    "connected_to": "Psalm 34:21",
+    "connected_from": "Psalm 34:19"
+  },
+  {
+    "text": "Evil shall slay the wicked: and they that hate the righteous shall be condemned.",
+    "reference": "Psalm 34:21 (ERV)",
+    "connected_to": "Psalm 34:22",
+    "connected_from": "Psalm 34:20"
+  },
+  {
+    "text": "The LORD redeemeth the soul of his servants: and none of them that trust in him shall be condemned.",
+    "reference": "Psalm 34:22 (ERV)",
+    "connected_from": "Psalm 34:21"
+  }
+]

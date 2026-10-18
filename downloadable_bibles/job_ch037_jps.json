@@ -1,0 +1,144 @@
+[
+  {
+    "text": "At this also my heart trembleth, And is moved out of its place.",
+    "reference": "Job 37:1 (JPS)",
+    "connected_to": "Job 37:2"
+  },
+  {
+    "text": "Hear attentively the noise of His voice, And the sound that goeth out of His mouth.",
+    "reference": "Job 37:2 (JPS)",
+    "connected_to": "Job 37:3",
+    "connected_from": "Job 37:1"
+  },
+  {
+    "text": "He sendeth it forth under the whole heaven, And His lightning unto the ends of the earth.",
+    "reference": "Job 37:3 (JPS)",
+    "connected_to": "Job 37:4",
+    "connected_from": "Job 37:2"
+  },
+  {
+    "text": "After it a voice roareth; He thundereth with the voice of His majesty; And He stayeth them not when His voice is heard.",
+    "reference": "Job 37:4 (JPS)",
+    "connected_to": "Job 37:5",
+    "connected_from": "Job 37:3"
+  },
+  {
+    "text": "God thundereth marvellously with His voice; Great things doeth He, which we cannot comprehend.",
+    "reference": "Job 37:5 (JPS)",
+    "connected_to": "Job 37:6",
+    "connected_from": "Job 37:4"
+  },
+  {
+    "text": "For He saith to the snow: ‘Fall thou on the earth’; Likewise to the shower of rain, and to the showers of His mighty rain.",
+    "reference": "Job 37:6 (JPS)",
+    "connected_to": "Job 37:7",
+    "connected_from": "Job 37:5"
+  },
+  {
+    "text": "He sealeth up the hand of every man, That all men whom He hath made may know it.",
+    "reference": "Job 37:7 (JPS)",
+    "connected_to": "Job 37:8",
+    "connected_from": "Job 37:6"
+  },
+  {
+    "text": "Then the beasts go into coverts, And remain in their dens.",
+    "reference": "Job 37:8 (JPS)",
+    "connected_to": "Job 37:9",
+    "connected_from": "Job 37:7"
+  },
+  {
+    "text": "Out of the Chamber cometh the storm; And cold out of the north.",
+    "reference": "Job 37:9 (JPS)",
+    "connected_to": "Job 37:10",
+    "connected_from": "Job 37:8"
+  },
+  {
+    "text": "By the breath of God ice is given, And the breadth of the waters is straitened.",
+    "reference": "Job 37:10 (JPS)",
+    "connected_to": "Job 37:11",
+    "connected_from": "Job 37:9"
+  },
+  {
+    "text": "Yea, He ladeth the thick cloud with moister, He spreadeth abroad the cloud of His lightning;",
+    "reference": "Job 37:11 (JPS)",
+    "connected_to": "Job 37:12",
+    "connected_from": "Job 37:10"
+  },
+  {
+    "text": "And they are turned round about by His guidance, That they may do whatsoever He commandeth them Upon the face of the habitable world:",
+    "reference": "Job 37:12 (JPS)",
+    "connected_to": "Job 37:13",
+    "connected_from": "Job 37:11"
+  },
+  {
+    "text": "Whether it be for correction, or for His earth, Or for mercy, that He cause it to come.",
+    "reference": "Job 37:13 (JPS)",
+    "connected_to": "Job 37:14",
+    "connected_from": "Job 37:12"
+  },
+  {
+    "text": "Hearken unto this, O Job; Stand still, and consider the wondrous works of God.",
+    "reference": "Job 37:14 (JPS)",
+    "connected_to": "Job 37:15",
+    "connected_from": "Job 37:13"
+  },
+  {
+    "text": "Dost thou know how God enjoineth them, And causeth the lightning of His cloud to shine?",
+    "reference": "Job 37:15 (JPS)",
+    "connected_to": "Job 37:16",
+    "connected_from": "Job 37:14"
+  },
+  {
+    "text": "Dost thou know the balancings of the clouds, The wondrous works of Him who is perfect in knowledge?",
+    "reference": "Job 37:16 (JPS)",
+    "connected_to": "Job 37:17",
+    "connected_from": "Job 37:15"
+  },
+  {
+    "text": "Thou whose garments are warm, When the earth is still by reason of the south wind;",
+    "reference": "Job 37:17 (JPS)",
+    "connected_to": "Job 37:18",
+    "connected_from": "Job 37:16"
+  },
+  {
+    "text": "Canst thou with Him spread out the sky, Which is strong as a molten mirror?",
+    "reference": "Job 37:18 (JPS)",
+    "connected_to": "Job 37:19",
+    "connected_from": "Job 37:17"
+  },
+  {
+    "text": "Teach us what we shall say unto Him; For we cannot order our speech by reason of darkness.",
+    "reference": "Job 37:19 (JPS)",
+    "connected_to": "Job 37:20",
+    "connected_from": "Job 37:18"
+  },
+  {
+    "text": "Shall it be told Him that I would speak? Or should a man wish that he were swallowed up?",
+    "reference": "Job 37:20 (JPS)",
+    "connected_to": "Job 37:21",
+    "connected_from": "Job 37:19"
+  },
+  {
+    "text": "And now men see not the light which is bright in the skies; But the wind passeth, and cleanseth them.",
+    "reference": "Job 37:21 (JPS)",
+    "connected_to": "Job 37:22",
+    "connected_from": "Job 37:20"
+  },
+  {
+    "text": "Out of the north cometh golden splendour, About God is terrible majesty.",
+    "reference": "Job 37:22 (JPS)",
+    "connected_to": "Job 37:23",
+    "connected_from": "Job 37:21"
+  },
+  {
+    "text": "The Almighty, whom we cannot find out, is excellent in power, Yet to judgment and plenteous justice He doeth no violence.",
+    "reference": "Job 37:23 (JPS)",
+    "connected_to": "Job 37:24",
+    "connected_from": "Job 37:22"
+  },
+  {
+    "text": "Men do therefore fear Him; He regardeth not any that are wise of heart.",
+    "reference": "Job 37:24 (JPS)",
+    "connected_from": "Job 37:23"
+  }
+]

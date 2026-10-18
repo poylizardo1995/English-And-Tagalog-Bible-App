@@ -1,0 +1,72 @@
+[
+  {
+    "text": "The LORD reigns, let the earth rejoice; let the distant shores be glad.",
+    "reference": "Psalm 97:1 (BSB)",
+    "connected_to": "Psalm 97:2"
+  },
+  {
+    "text": "Clouds and darkness surround Him; righteousness and justice are His throne’s foundation.",
+    "reference": "Psalm 97:2 (BSB)",
+    "connected_to": "Psalm 97:3",
+    "connected_from": "Psalm 97:1"
+  },
+  {
+    "text": "Fire goes before Him and consumes His foes on every side.",
+    "reference": "Psalm 97:3 (BSB)",
+    "connected_to": "Psalm 97:4",
+    "connected_from": "Psalm 97:2"
+  },
+  {
+    "text": "His lightning illuminates the world; the earth sees and trembles.",
+    "reference": "Psalm 97:4 (BSB)",
+    "connected_to": "Psalm 97:5",
+    "connected_from": "Psalm 97:3"
+  },
+  {
+    "text": "The mountains melt like wax at the presence of the LORD, before the Lord of all the earth.",
+    "reference": "Psalm 97:5 (BSB)",
+    "connected_to": "Psalm 97:6",
+    "connected_from": "Psalm 97:4"
+  },
+  {
+    "text": "The heavens proclaim His righteousness; all the peoples see His glory.",
+    "reference": "Psalm 97:6 (BSB)",
+    "connected_to": "Psalm 97:7",
+    "connected_from": "Psalm 97:5"
+  },
+  {
+    "text": "All worshipers of images are put to shame—those who boast in idols. Worship Him, all you gods!",
+    "reference": "Psalm 97:7 (BSB)",
+    "connected_to": "Psalm 97:8",
+    "connected_from": "Psalm 97:6"
+  },
+  {
+    "text": "Zion hears and rejoices, and the towns of Judah exult because of Your judgments, O LORD.",
+    "reference": "Psalm 97:8 (BSB)",
+    "connected_to": "Psalm 97:9",
+    "connected_from": "Psalm 97:7"
+  },
+  {
+    "text": "For You, O LORD, are Most High over all the earth; You are exalted far above all gods.",
+    "reference": "Psalm 97:9 (BSB)",
+    "connected_to": "Psalm 97:10",
+    "connected_from": "Psalm 97:8"
+  },
+  {
+    "text": "Hate evil, O you who love the LORD! He preserves the souls of His saints; He delivers them from the hand of the wicked.",
+    "reference": "Psalm 97:10 (BSB)",
+    "connected_to": "Psalm 97:11",
+    "connected_from": "Psalm 97:9"
+  },
+  {
+    "text": "Light shines on the righteous, gladness on the upright in heart.",
+    "reference": "Psalm 97:11 (BSB)",
+    "connected_to": "Psalm 97:12",
+    "connected_from": "Psalm 97:10"
+  },
+  {
+    "text": "Rejoice in the LORD, you righteous ones, and praise His holy name.",
+    "reference": "Psalm 97:12 (BSB)",
+    "connected_from": "Psalm 97:11"
+  }
+]

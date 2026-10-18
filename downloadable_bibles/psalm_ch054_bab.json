@@ -1,0 +1,42 @@
+[
+  {
+    "text": "For the choirmaster. With stringed instruments. A Maskil of David (beloved). When the Ziphites (smelters) went to Saul (desired) and said, “Is David not hiding among us?” <span class=|reftext|><a href=|#|><b>1</b></a> Save me, O God {Elohim}, by Your name, and vindicate me by Your might!",
+    "reference": "Psalm 54:1 (BAB)",
+    "connected_to": "Psalm 54:2"
+  },
+  {
+    "text": "Hear my prayer, O God {Elohim}; listen to the words of my mouth.",
+    "reference": "Psalm 54:2 (BAB)",
+    "connected_to": "Psalm 54:3",
+    "connected_from": "Psalm 54:1"
+  },
+  {
+    "text": "For strangers rise up against me, and ruthless men seek my life—men with no regard for God {Elohim}. Selah",
+    "reference": "Psalm 54:3 (BAB)",
+    "connected_to": "Psalm 54:4",
+    "connected_from": "Psalm 54:2"
+  },
+  {
+    "text": "Surely God {Elohim} is my helper; the Lord {Adonai} is the sustainer of my soul.",
+    "reference": "Psalm 54:4 (BAB)",
+    "connected_to": "Psalm 54:5",
+    "connected_from": "Psalm 54:3"
+  },
+  {
+    "text": "He will reward my enemies with evil. In Your faithfulness, destroy them.",
+    "reference": "Psalm 54:5 (BAB)",
+    "connected_to": "Psalm 54:6",
+    "connected_from": "Psalm 54:4"
+  },
+  {
+    "text": "Freely I will sacrifice to You; I will praise Your name, O LORD {YHWH}, for it is good.",
+    "reference": "Psalm 54:6 (BAB)",
+    "connected_to": "Psalm 54:7",
+    "connected_from": "Psalm 54:5"
+  },
+  {
+    "text": "For He has delivered me from every trouble, and my eyes have looked in triumph on my foes.",
+    "reference": "Psalm 54:7 (BAB)",
+    "connected_from": "Psalm 54:6"
+  }
+]

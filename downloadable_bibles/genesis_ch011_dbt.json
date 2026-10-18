@@ -1,0 +1,192 @@
+[
+  {
+    "text": "And the whole earth had one language, and the same words.",
+    "reference": "Genesis 11:1 (DBT)",
+    "connected_to": "Genesis 11:2"
+  },
+  {
+    "text": "And it came to pass as they journeyed from the east, that they found a plain in the land of Shinar, and dwelt there.",
+    "reference": "Genesis 11:2 (DBT)",
+    "connected_to": "Genesis 11:3",
+    "connected_from": "Genesis 11:1"
+  },
+  {
+    "text": "And they said one to another, Come on, let us make bricks, and burn [them] thoroughly. And they had brick for stone, and they had asphalt for mortar.",
+    "reference": "Genesis 11:3 (DBT)",
+    "connected_to": "Genesis 11:4",
+    "connected_from": "Genesis 11:2"
+  },
+  {
+    "text": "And they said, Come on, let us build ourselves a city and a tower, the top of which [may reach] to the heavens; and let us make ourselves a name, lest we be scattered over the face of the whole earth.",
+    "reference": "Genesis 11:4 (DBT)",
+    "connected_to": "Genesis 11:5",
+    "connected_from": "Genesis 11:3"
+  },
+  {
+    "text": "And Jehovah came down to see the city and the tower which the children of men built.",
+    "reference": "Genesis 11:5 (DBT)",
+    "connected_to": "Genesis 11:6",
+    "connected_from": "Genesis 11:4"
+  },
+  {
+    "text": "And Jehovah said, Behold, the people is one, and have all one language; and this have they begun to do. And now will they be hindered in nothing that they meditate doing.",
+    "reference": "Genesis 11:6 (DBT)",
+    "connected_to": "Genesis 11:7",
+    "connected_from": "Genesis 11:5"
+  },
+  {
+    "text": "Come, let us go down, and there confound their language, that they may not understand one another’s speech.",
+    "reference": "Genesis 11:7 (DBT)",
+    "connected_to": "Genesis 11:8",
+    "connected_from": "Genesis 11:6"
+  },
+  {
+    "text": "And Jehovah scattered them thence over the face of the whole earth. And they left off building the city.",
+    "reference": "Genesis 11:8 (DBT)",
+    "connected_to": "Genesis 11:9",
+    "connected_from": "Genesis 11:7"
+  },
+  {
+    "text": "Therefore was its name called Babel; because Jehovah there confounded the language of the whole earth. And Jehovah scattered them thence over the face of the whole earth.",
+    "reference": "Genesis 11:9 (DBT)",
+    "connected_to": "Genesis 11:10",
+    "connected_from": "Genesis 11:8"
+  },
+  {
+    "text": "These are the generations of Shem. Shem was a hundred years old, and begot Arphaxad two years after the flood.",
+    "reference": "Genesis 11:10 (DBT)",
+    "connected_to": "Genesis 11:11",
+    "connected_from": "Genesis 11:9"
+  },
+  {
+    "text": "And Shem lived after he had begotten Arphaxad five hundred years, and begot sons and daughters.",
+    "reference": "Genesis 11:11 (DBT)",
+    "connected_to": "Genesis 11:12",
+    "connected_from": "Genesis 11:10"
+  },
+  {
+    "text": "And Arphaxad lived thirty-five years, and begot Shelah.",
+    "reference": "Genesis 11:12 (DBT)",
+    "connected_to": "Genesis 11:13",
+    "connected_from": "Genesis 11:11"
+  },
+  {
+    "text": "And Arphaxad lived after he had begotten Shelah four hundred and three years, and begot sons and daughters.",
+    "reference": "Genesis 11:13 (DBT)",
+    "connected_to": "Genesis 11:14",
+    "connected_from": "Genesis 11:12"
+  },
+  {
+    "text": "And Shelah lived thirty years, and begot Eber.",
+    "reference": "Genesis 11:14 (DBT)",
+    "connected_to": "Genesis 11:15",
+    "connected_from": "Genesis 11:13"
+  },
+  {
+    "text": "And Shelah lived after he had begotten Eber four hundred and three years, and begot sons and daughters.",
+    "reference": "Genesis 11:15 (DBT)",
+    "connected_to": "Genesis 11:16",
+    "connected_from": "Genesis 11:14"
+  },
+  {
+    "text": "And Eber lived thirty-four years, and begot Peleg.",
+    "reference": "Genesis 11:16 (DBT)",
+    "connected_to": "Genesis 11:17",
+    "connected_from": "Genesis 11:15"
+  },
+  {
+    "text": "And Eber lived after he had begotten Peleg four hundred and thirty years, and begot sons and daughters.",
+    "reference": "Genesis 11:17 (DBT)",
+    "connected_to": "Genesis 11:18",
+    "connected_from": "Genesis 11:16"
+  },
+  {
+    "text": "And Peleg lived thirty years, and begot Reu.",
+    "reference": "Genesis 11:18 (DBT)",
+    "connected_to": "Genesis 11:19",
+    "connected_from": "Genesis 11:17"
+  },
+  {
+    "text": "And Peleg lived after he had begotten Reu two hundred and nine years, and begot sons and daughters.",
+    "reference": "Genesis 11:19 (DBT)",
+    "connected_to": "Genesis 11:20",
+    "connected_from": "Genesis 11:18"
+  },
+  {
+    "text": "And Reu lived thirty-two years, and begot Serug.",
+    "reference": "Genesis 11:20 (DBT)",
+    "connected_to": "Genesis 11:21",
+    "connected_from": "Genesis 11:19"
+  },
+  {
+    "text": "And Reu lived after he had begotten Serug two hundred and seven years, and begot sons and daughters.",
+    "reference": "Genesis 11:21 (DBT)",
+    "connected_to": "Genesis 11:22",
+    "connected_from": "Genesis 11:20"
+  },
+  {
+    "text": "And Serug lived thirty years, and begot Nahor.",
+    "reference": "Genesis 11:22 (DBT)",
+    "connected_to": "Genesis 11:23",
+    "connected_from": "Genesis 11:21"
+  },
+  {
+    "text": "And Serug lived after he had begotten Nahor two hundred years, and begot sons and daughters.",
+    "reference": "Genesis 11:23 (DBT)",
+    "connected_to": "Genesis 11:24",
+    "connected_from": "Genesis 11:22"
+  },
+  {
+    "text": "And Nahor lived twenty-nine years, and begot Terah.",
+    "reference": "Genesis 11:24 (DBT)",
+    "connected_to": "Genesis 11:25",
+    "connected_from": "Genesis 11:23"
+  },
+  {
+    "text": "And Nahor lived after he had begotten Terah a hundred and nineteen years, and begot sons and daughters.",
+    "reference": "Genesis 11:25 (DBT)",
+    "connected_to": "Genesis 11:26",
+    "connected_from": "Genesis 11:24"
+  },
+  {
+    "text": "And Terah lived seventy years, and begot Abram, Nahor, and Haran.",
+    "reference": "Genesis 11:26 (DBT)",
+    "connected_to": "Genesis 11:27",
+    "connected_from": "Genesis 11:25"
+  },
+  {
+    "text": "And these are the generations of Terah: Terah begot Abram, Nahor, and Haran; and Haran begot Lot.",
+    "reference": "Genesis 11:27 (DBT)",
+    "connected_to": "Genesis 11:28",
+    "connected_from": "Genesis 11:26"
+  },
+  {
+    "text": "And Haran died before the face of his father Terah in the land of his nativity at Ur of the Chaldeans.",
+    "reference": "Genesis 11:28 (DBT)",
+    "connected_to": "Genesis 11:29",
+    "connected_from": "Genesis 11:27"
+  },
+  {
+    "text": "And Abram and Nahor took wives: the name of Abram’s wife was Sarai; and the name of Nahor’s wife, Milcah, a daughter of Haran, the father of Milcah and the father of Iscah.",
+    "reference": "Genesis 11:29 (DBT)",
+    "connected_to": "Genesis 11:30",
+    "connected_from": "Genesis 11:28"
+  },
+  {
+    "text": "And Sarai was barren: she had no child.",
+    "reference": "Genesis 11:30 (DBT)",
+    "connected_to": "Genesis 11:31",
+    "connected_from": "Genesis 11:29"
+  },
+  {
+    "text": "And Terah took Abram his son, and Lot the son of Haran his son’s son, and Sarai his daughter-in-law, his son Abram’s wife; and they went forth together out of Ur of the Chaldeans, to go into the land of Canaan, and came as far as Haran, and dwelt there.",
+    "reference": "Genesis 11:31 (DBT)",
+    "connected_to": "Genesis 11:32",
+    "connected_from": "Genesis 11:30"
+  },
+  {
+    "text": "And the days of Terah were two hundred and five years; and Terah died in Haran.",
+    "reference": "Genesis 11:32 (DBT)",
+    "connected_from": "Genesis 11:31"
+  }
+]

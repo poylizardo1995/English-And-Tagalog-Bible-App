@@ -1,0 +1,318 @@
+[
+  {
+    "text": "Then, after these things, Jesus was walking in Galilee. For he was not willing to walk in Judea, because the Jews were seeking to kill him.",
+    "reference": "John 7:1 (CPDV)",
+    "connected_to": "John 7:2"
+  },
+  {
+    "text": "Now the feast day of the Jews, the Feast of Tabernacles, was near.",
+    "reference": "John 7:2 (CPDV)",
+    "connected_to": "John 7:3",
+    "connected_from": "John 7:1"
+  },
+  {
+    "text": "And his brothers said to him: “Move away from here and go into Judea, so that your disciples there may also see your works that you do.",
+    "reference": "John 7:3 (CPDV)",
+    "connected_to": "John 7:4",
+    "connected_from": "John 7:2"
+  },
+  {
+    "text": "Of course, no one does anything in secret, but he himself seeks to be in the public view. Since you do these things, manifest yourself to the world.”",
+    "reference": "John 7:4 (CPDV)",
+    "connected_to": "John 7:5",
+    "connected_from": "John 7:3"
+  },
+  {
+    "text": "For neither did his brothers believe in him.",
+    "reference": "John 7:5 (CPDV)",
+    "connected_to": "John 7:6",
+    "connected_from": "John 7:4"
+  },
+  {
+    "text": "Therefore, Jesus said to them: “My time has not yet come; but your time is always at hand.",
+    "reference": "John 7:6 (CPDV)",
+    "connected_to": "John 7:7",
+    "connected_from": "John 7:5"
+  },
+  {
+    "text": "The world cannot hate you. But it hates me, because I offer testimony about it, that its works are evil.",
+    "reference": "John 7:7 (CPDV)",
+    "connected_to": "John 7:8",
+    "connected_from": "John 7:6"
+  },
+  {
+    "text": "You may go up to this feast day. But I am not going up to this feast day, because my time has not yet been fulfilled.”",
+    "reference": "John 7:8 (CPDV)",
+    "connected_to": "John 7:9",
+    "connected_from": "John 7:7"
+  },
+  {
+    "text": "When he had said these things, he himself remained in Galilee.",
+    "reference": "John 7:9 (CPDV)",
+    "connected_to": "John 7:10",
+    "connected_from": "John 7:8"
+  },
+  {
+    "text": "But after his brothers went up, then he also went up to the feast day, not openly, but as if in secret.",
+    "reference": "John 7:10 (CPDV)",
+    "connected_to": "John 7:11",
+    "connected_from": "John 7:9"
+  },
+  {
+    "text": "Therefore, the Jews were seeking him on the feast day, and they were saying, “Where is he?”",
+    "reference": "John 7:11 (CPDV)",
+    "connected_to": "John 7:12",
+    "connected_from": "John 7:10"
+  },
+  {
+    "text": "And there was much murmuring in the crowd concerning him. For certain ones were saying, “He is good.” But others were saying, “No, for he seduces the crowds.”",
+    "reference": "John 7:12 (CPDV)",
+    "connected_to": "John 7:13",
+    "connected_from": "John 7:11"
+  },
+  {
+    "text": "Yet no one was speaking openly about him, out of fear of the Jews.",
+    "reference": "John 7:13 (CPDV)",
+    "connected_to": "John 7:14",
+    "connected_from": "John 7:12"
+  },
+  {
+    "text": "Then, about the middle of the feast, Jesus ascended into the temple, and he was teaching.",
+    "reference": "John 7:14 (CPDV)",
+    "connected_to": "John 7:15",
+    "connected_from": "John 7:13"
+  },
+  {
+    "text": "And the Jews wondered, saying: “How does this one know letters, though he has not been taught?”",
+    "reference": "John 7:15 (CPDV)",
+    "connected_to": "John 7:16",
+    "connected_from": "John 7:14"
+  },
+  {
+    "text": "Jesus responded to them and said: “My doctrine is not of me, but of him who sent me.",
+    "reference": "John 7:16 (CPDV)",
+    "connected_to": "John 7:17",
+    "connected_from": "John 7:15"
+  },
+  {
+    "text": "If anyone has chosen to do his will, then he will realize, about the doctrine, whether it is from God, or whether I am speaking from myself.",
+    "reference": "John 7:17 (CPDV)",
+    "connected_to": "John 7:18",
+    "connected_from": "John 7:16"
+  },
+  {
+    "text": "Whoever speaks from himself seeks his own glory. But whoever seeks the glory of him who sent him, this one is true, and injustice is not in him.",
+    "reference": "John 7:18 (CPDV)",
+    "connected_to": "John 7:19",
+    "connected_from": "John 7:17"
+  },
+  {
+    "text": "Did not Moses give you the law? And yet not one among you keeps the law!",
+    "reference": "John 7:19 (CPDV)",
+    "connected_to": "John 7:20",
+    "connected_from": "John 7:18"
+  },
+  {
+    "text": "Why are you seeking to kill me?” The crowd responded and said: “You must have a demon. Who is seeking to kill you?”",
+    "reference": "John 7:20 (CPDV)",
+    "connected_to": "John 7:21",
+    "connected_from": "John 7:19"
+  },
+  {
+    "text": "Jesus responded and said to them: “One work have I done, and you all wonder.",
+    "reference": "John 7:21 (CPDV)",
+    "connected_to": "John 7:22",
+    "connected_from": "John 7:20"
+  },
+  {
+    "text": "For Moses gave you circumcision, (not that it is of Moses, but of the fathers) and on the Sabbath you circumcise a man.",
+    "reference": "John 7:22 (CPDV)",
+    "connected_to": "John 7:23",
+    "connected_from": "John 7:21"
+  },
+  {
+    "text": "If a man can receive circumcision on the Sabbath, so that the law of Moses may not be broken, why are you indignant toward me, because I have made a man whole on the Sabbath?",
+    "reference": "John 7:23 (CPDV)",
+    "connected_to": "John 7:24",
+    "connected_from": "John 7:22"
+  },
+  {
+    "text": "Do not judge according to appearances, but instead judge a just judgment.”",
+    "reference": "John 7:24 (CPDV)",
+    "connected_to": "John 7:25",
+    "connected_from": "John 7:23"
+  },
+  {
+    "text": "Therefore, some of those from Jerusalem said: “Is he not the one whom they are seeking to kill?",
+    "reference": "John 7:25 (CPDV)",
+    "connected_to": "John 7:26",
+    "connected_from": "John 7:24"
+  },
+  {
+    "text": "And behold, he is speaking openly, and they say nothing to him. Could the leaders have decided that it is true this one is the Christ?",
+    "reference": "John 7:26 (CPDV)",
+    "connected_to": "John 7:27",
+    "connected_from": "John 7:25"
+  },
+  {
+    "text": "But we know him and where he is from. And when the Christ has arrived, no one will know where he is from.”",
+    "reference": "John 7:27 (CPDV)",
+    "connected_to": "John 7:28",
+    "connected_from": "John 7:26"
+  },
+  {
+    "text": "Therefore, Jesus cried out in the temple, teaching and saying: “You know me, and you also know where I am from. And I have not arrived of myself, but he who sent me is true, and him you do not know.",
+    "reference": "John 7:28 (CPDV)",
+    "connected_to": "John 7:29",
+    "connected_from": "John 7:27"
+  },
+  {
+    "text": "I know him. For I am from him, and he has sent me.”",
+    "reference": "John 7:29 (CPDV)",
+    "connected_to": "John 7:30",
+    "connected_from": "John 7:28"
+  },
+  {
+    "text": "Therefore, they were seeking to apprehend him, and yet no one laid hands on him, because his hour had not yet come.",
+    "reference": "John 7:30 (CPDV)",
+    "connected_to": "John 7:31",
+    "connected_from": "John 7:29"
+  },
+  {
+    "text": "But many among the crowd believed in him, and they were saying, “When the Christ arrives, will he perform more signs than this man does?”",
+    "reference": "John 7:31 (CPDV)",
+    "connected_to": "John 7:32",
+    "connected_from": "John 7:30"
+  },
+  {
+    "text": "The Pharisees heard the crowd murmuring these things about him. And the leaders and the Pharisees sent attendants to apprehend him.",
+    "reference": "John 7:32 (CPDV)",
+    "connected_to": "John 7:33",
+    "connected_from": "John 7:31"
+  },
+  {
+    "text": "Therefore, Jesus said to them: “For a brief time, I am still with you, and then I am going to him who sent me.",
+    "reference": "John 7:33 (CPDV)",
+    "connected_to": "John 7:34",
+    "connected_from": "John 7:32"
+  },
+  {
+    "text": "You shall seek me, and you will not find me. And where I am, you are not able to go.”",
+    "reference": "John 7:34 (CPDV)",
+    "connected_to": "John 7:35",
+    "connected_from": "John 7:33"
+  },
+  {
+    "text": "And so the Jews said among themselves: “Where is this place to which he will go, such that we will not find him? Will he go to those dispersed among the Gentiles and teach the Gentiles?",
+    "reference": "John 7:35 (CPDV)",
+    "connected_to": "John 7:36",
+    "connected_from": "John 7:34"
+  },
+  {
+    "text": "What is this word that he spoke, ‘You will seek me and you will not find me; and where I am, you are not able to go?’ ”",
+    "reference": "John 7:36 (CPDV)",
+    "connected_to": "John 7:37",
+    "connected_from": "John 7:35"
+  },
+  {
+    "text": "Then, on the last great day of the feast, Jesus was standing and crying out, saying: “If anyone thirsts, let him come to me and drink:",
+    "reference": "John 7:37 (CPDV)",
+    "connected_to": "John 7:38",
+    "connected_from": "John 7:36"
+  },
+  {
+    "text": "whoever believes in me, just as Scripture says, ‘From his chest shall flow rivers of living water.’ ”",
+    "reference": "John 7:38 (CPDV)",
+    "connected_to": "John 7:39",
+    "connected_from": "John 7:37"
+  },
+  {
+    "text": "Now he said this about the Spirit, which those who believe in him would soon be receiving. For the Spirit had not yet been given, because Jesus had not yet been glorified.",
+    "reference": "John 7:39 (CPDV)",
+    "connected_to": "John 7:40",
+    "connected_from": "John 7:38"
+  },
+  {
+    "text": "Therefore, some from that crowd, when they had heard these words of his, were saying, “This one truly is the Prophet.”",
+    "reference": "John 7:40 (CPDV)",
+    "connected_to": "John 7:41",
+    "connected_from": "John 7:39"
+  },
+  {
+    "text": "Others were saying, “He is the Christ.” Yet certain ones were saying: “Does the Christ come from Galilee?",
+    "reference": "John 7:41 (CPDV)",
+    "connected_to": "John 7:42",
+    "connected_from": "John 7:40"
+  },
+  {
+    "text": "Does Scripture not say that the Christ comes from the offspring of David and from Bethlehem, the town where David was?”",
+    "reference": "John 7:42 (CPDV)",
+    "connected_to": "John 7:43",
+    "connected_from": "John 7:41"
+  },
+  {
+    "text": "And so there arose a dissension among the multitude because of him.",
+    "reference": "John 7:43 (CPDV)",
+    "connected_to": "John 7:44",
+    "connected_from": "John 7:42"
+  },
+  {
+    "text": "Now certain ones among them wanted to apprehended him, but no one laid hands upon him.",
+    "reference": "John 7:44 (CPDV)",
+    "connected_to": "John 7:45",
+    "connected_from": "John 7:43"
+  },
+  {
+    "text": "Therefore, the attendants went to the high priests and the Pharisees. And they said to them, “Why have you not brought him?”",
+    "reference": "John 7:45 (CPDV)",
+    "connected_to": "John 7:46",
+    "connected_from": "John 7:44"
+  },
+  {
+    "text": "The attendants responded, “Never has a man spoken like this man.”",
+    "reference": "John 7:46 (CPDV)",
+    "connected_to": "John 7:47",
+    "connected_from": "John 7:45"
+  },
+  {
+    "text": "And so the Pharisees answered them: “Have you also been seduced?",
+    "reference": "John 7:47 (CPDV)",
+    "connected_to": "John 7:48",
+    "connected_from": "John 7:46"
+  },
+  {
+    "text": "Have any of the leaders believed in him, or any of the Pharisees?",
+    "reference": "John 7:48 (CPDV)",
+    "connected_to": "John 7:49",
+    "connected_from": "John 7:47"
+  },
+  {
+    "text": "But this crowd, which does not know the law, they are accursed.”",
+    "reference": "John 7:49 (CPDV)",
+    "connected_to": "John 7:50",
+    "connected_from": "John 7:48"
+  },
+  {
+    "text": "Nicodemus, the one who came to him by night and who was one of them, said to them,",
+    "reference": "John 7:50 (CPDV)",
+    "connected_to": "John 7:51",
+    "connected_from": "John 7:49"
+  },
+  {
+    "text": "“Does our law judge a man, unless it has first heard him and has known what he has done?”",
+    "reference": "John 7:51 (CPDV)",
+    "connected_to": "John 7:52",
+    "connected_from": "John 7:50"
+  },
+  {
+    "text": "They responded and said to him: “Are you also a Galilean? Study the Scriptures, and see that a prophet does not arise from Galilee.”",
+    "reference": "John 7:52 (CPDV)",
+    "connected_to": "John 7:53",
+    "connected_from": "John 7:51"
+  },
+  {
+    "text": "And each one returned to his own house.",
+    "reference": "John 7:53 (CPDV)",
+    "connected_from": "John 7:52"
+  }
+]

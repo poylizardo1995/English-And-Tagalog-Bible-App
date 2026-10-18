@@ -1,0 +1,84 @@
+[
+  {
+    "text": "Set the trumpet to your mouth. He shall come as an eagle against the house of the LORD, because they have transgressed my covenant, and trespassed against my law.",
+    "reference": "Hosea 8:1 (AKJV)",
+    "connected_to": "Hosea 8:2"
+  },
+  {
+    "text": "Israel shall cry to me, My God, we know you.",
+    "reference": "Hosea 8:2 (AKJV)",
+    "connected_to": "Hosea 8:3",
+    "connected_from": "Hosea 8:1"
+  },
+  {
+    "text": "Israel has cast off the thing that is good: the enemy shall pursue him.",
+    "reference": "Hosea 8:3 (AKJV)",
+    "connected_to": "Hosea 8:4",
+    "connected_from": "Hosea 8:2"
+  },
+  {
+    "text": "They have set up kings, but not by me: they have made princes, and I knew it not: of their silver and their gold have they made them idols, that they may be cut off.",
+    "reference": "Hosea 8:4 (AKJV)",
+    "connected_to": "Hosea 8:5",
+    "connected_from": "Hosea 8:3"
+  },
+  {
+    "text": "Your calf, O Samaria, has cast you off; my anger is kindled against them: how long will it be ere they attain to innocence?",
+    "reference": "Hosea 8:5 (AKJV)",
+    "connected_to": "Hosea 8:6",
+    "connected_from": "Hosea 8:4"
+  },
+  {
+    "text": "For from Israel was it also: the workman made it; therefore it is not God: but the calf of Samaria shall be broken in pieces.",
+    "reference": "Hosea 8:6 (AKJV)",
+    "connected_to": "Hosea 8:7",
+    "connected_from": "Hosea 8:5"
+  },
+  {
+    "text": "For they have sown the wind, and they shall reap the whirlwind: it has no stalk; the bud shall yield no meal: if so be it yield, the strangers shall swallow it up.",
+    "reference": "Hosea 8:7 (AKJV)",
+    "connected_to": "Hosea 8:8",
+    "connected_from": "Hosea 8:6"
+  },
+  {
+    "text": "Israel is swallowed up: now shall they be among the Gentiles as a vessel wherein is no pleasure.",
+    "reference": "Hosea 8:8 (AKJV)",
+    "connected_to": "Hosea 8:9",
+    "connected_from": "Hosea 8:7"
+  },
+  {
+    "text": "For they are gone up to Assyria, a wild ass alone by himself: Ephraim has hired lovers.",
+    "reference": "Hosea 8:9 (AKJV)",
+    "connected_to": "Hosea 8:10",
+    "connected_from": "Hosea 8:8"
+  },
+  {
+    "text": "Yes, though they have hired among the nations, now will I gather them, and they shall sorrow a little for the burden of the king of princes.",
+    "reference": "Hosea 8:10 (AKJV)",
+    "connected_to": "Hosea 8:11",
+    "connected_from": "Hosea 8:9"
+  },
+  {
+    "text": "Because Ephraim has made many altars to sin, altars shall be to him to sin.",
+    "reference": "Hosea 8:11 (AKJV)",
+    "connected_to": "Hosea 8:12",
+    "connected_from": "Hosea 8:10"
+  },
+  {
+    "text": "I have written to him the great things of my law, but they were counted as a strange thing.",
+    "reference": "Hosea 8:12 (AKJV)",
+    "connected_to": "Hosea 8:13",
+    "connected_from": "Hosea 8:11"
+  },
+  {
+    "text": "They sacrifice flesh for the sacrifices of my offerings, and eat it; but the LORD accepts them not; now will he remember their iniquity, and visit their sins: they shall return to Egypt.",
+    "reference": "Hosea 8:13 (AKJV)",
+    "connected_to": "Hosea 8:14",
+    "connected_from": "Hosea 8:12"
+  },
+  {
+    "text": "For Israel has forgotten his Maker, and builds temples; and Judah has multiplied fenced cities: but I will send a fire on his cities, and it shall devour the palaces thereof.",
+    "reference": "Hosea 8:14 (AKJV)",
+    "connected_from": "Hosea 8:13"
+  }
+]

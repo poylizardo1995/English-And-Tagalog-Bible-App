@@ -1,0 +1,186 @@
+[
+  {
+    "text": "And Dinah the daughter of Leah, which she bore to Jacob, went out to see the daughters of the land.",
+    "reference": "Genesis 34:1 (AKJV)",
+    "connected_to": "Genesis 34:2"
+  },
+  {
+    "text": "And when Shechem the son of Hamor the Hivite, prince of the country, saw her, he took her, and lay with her, and defiled her.",
+    "reference": "Genesis 34:2 (AKJV)",
+    "connected_to": "Genesis 34:3",
+    "connected_from": "Genesis 34:1"
+  },
+  {
+    "text": "And his soul joined to Dinah the daughter of Jacob, and he loved the damsel, and spoke kindly to the damsel.",
+    "reference": "Genesis 34:3 (AKJV)",
+    "connected_to": "Genesis 34:4",
+    "connected_from": "Genesis 34:2"
+  },
+  {
+    "text": "And Shechem spoke to his father Hamor, saying, Get me this damsel to wife.",
+    "reference": "Genesis 34:4 (AKJV)",
+    "connected_to": "Genesis 34:5",
+    "connected_from": "Genesis 34:3"
+  },
+  {
+    "text": "And Jacob heard that he had defiled Dinah his daughter: now his sons were with his cattle in the field: and Jacob held his peace until they were come.",
+    "reference": "Genesis 34:5 (AKJV)",
+    "connected_to": "Genesis 34:6",
+    "connected_from": "Genesis 34:4"
+  },
+  {
+    "text": "And Hamor the father of Shechem went out to Jacob to commune with him.",
+    "reference": "Genesis 34:6 (AKJV)",
+    "connected_to": "Genesis 34:7",
+    "connected_from": "Genesis 34:5"
+  },
+  {
+    "text": "And the sons of Jacob came out of the field when they heard it: and the men were grieved, and they were very wroth, because he had worked folly in Israel in lying with Jacob’s daughter: which thing ought not to be done.",
+    "reference": "Genesis 34:7 (AKJV)",
+    "connected_to": "Genesis 34:8",
+    "connected_from": "Genesis 34:6"
+  },
+  {
+    "text": "And Hamor communed with them, saying, The soul of my son Shechem longs for your daughter: I pray you give her him to wife.",
+    "reference": "Genesis 34:8 (AKJV)",
+    "connected_to": "Genesis 34:9",
+    "connected_from": "Genesis 34:7"
+  },
+  {
+    "text": "And make you marriages with us, and give your daughters to us, and take our daughters to you.",
+    "reference": "Genesis 34:9 (AKJV)",
+    "connected_to": "Genesis 34:10",
+    "connected_from": "Genesis 34:8"
+  },
+  {
+    "text": "And you shall dwell with us: and the land shall be before you; dwell and trade you therein, and get you possessions therein.",
+    "reference": "Genesis 34:10 (AKJV)",
+    "connected_to": "Genesis 34:11",
+    "connected_from": "Genesis 34:9"
+  },
+  {
+    "text": "And Shechem said to her father and to her brothers, Let me find grace in your eyes, and what you shall say to me I will give.",
+    "reference": "Genesis 34:11 (AKJV)",
+    "connected_to": "Genesis 34:12",
+    "connected_from": "Genesis 34:10"
+  },
+  {
+    "text": "Ask me never so much dowry and gift, and I will give according as you shall say to me: but give me the damsel to wife.",
+    "reference": "Genesis 34:12 (AKJV)",
+    "connected_to": "Genesis 34:13",
+    "connected_from": "Genesis 34:11"
+  },
+  {
+    "text": "And the sons of Jacob answered Shechem and Hamor his father deceitfully, and said, because he had defiled Dinah their sister:",
+    "reference": "Genesis 34:13 (AKJV)",
+    "connected_to": "Genesis 34:14",
+    "connected_from": "Genesis 34:12"
+  },
+  {
+    "text": "And they said to them, We cannot do this thing, to give our sister to one that is uncircumcised; for that were a reproach to us:",
+    "reference": "Genesis 34:14 (AKJV)",
+    "connected_to": "Genesis 34:15",
+    "connected_from": "Genesis 34:13"
+  },
+  {
+    "text": "But in this will we consent to you: If you will be as we be, that every male of you be circumcised;",
+    "reference": "Genesis 34:15 (AKJV)",
+    "connected_to": "Genesis 34:16",
+    "connected_from": "Genesis 34:14"
+  },
+  {
+    "text": "Then will we give our daughters to you, and we will take your daughters to us, and we will dwell with you, and we will become one people.",
+    "reference": "Genesis 34:16 (AKJV)",
+    "connected_to": "Genesis 34:17",
+    "connected_from": "Genesis 34:15"
+  },
+  {
+    "text": "But if you will not listen to us, to be circumcised; then will we take our daughter, and we will be gone.",
+    "reference": "Genesis 34:17 (AKJV)",
+    "connected_to": "Genesis 34:18",
+    "connected_from": "Genesis 34:16"
+  },
+  {
+    "text": "And their words pleased Hamor, and Shechem Hamor’s son.",
+    "reference": "Genesis 34:18 (AKJV)",
+    "connected_to": "Genesis 34:19",
+    "connected_from": "Genesis 34:17"
+  },
+  {
+    "text": "And the young man deferred not to do the thing, because he had delight in Jacob’s daughter: and he was more honorable than all the house of his father.",
+    "reference": "Genesis 34:19 (AKJV)",
+    "connected_to": "Genesis 34:20",
+    "connected_from": "Genesis 34:18"
+  },
+  {
+    "text": "And Hamor and Shechem his son came to the gate of their city, and communed with the men of their city, saying,",
+    "reference": "Genesis 34:20 (AKJV)",
+    "connected_to": "Genesis 34:21",
+    "connected_from": "Genesis 34:19"
+  },
+  {
+    "text": "These men are peaceable with us; therefore let them dwell in the land, and trade therein; for the land, behold, it is large enough for them; let us take their daughters to us for wives, and let us give them our daughters.",
+    "reference": "Genesis 34:21 (AKJV)",
+    "connected_to": "Genesis 34:22",
+    "connected_from": "Genesis 34:20"
+  },
+  {
+    "text": "Only herein will the men consent to us for to dwell with us, to be one people, if every male among us be circumcised, as they are circumcised.",
+    "reference": "Genesis 34:22 (AKJV)",
+    "connected_to": "Genesis 34:23",
+    "connected_from": "Genesis 34:21"
+  },
+  {
+    "text": "Shall not their cattle and their substance and every beast of theirs be our’s? only let us consent to them, and they will dwell with us.",
+    "reference": "Genesis 34:23 (AKJV)",
+    "connected_to": "Genesis 34:24",
+    "connected_from": "Genesis 34:22"
+  },
+  {
+    "text": "And to Hamor and to Shechem his son listened all that went out of the gate of his city; and every male was circumcised, all that went out of the gate of his city.",
+    "reference": "Genesis 34:24 (AKJV)",
+    "connected_to": "Genesis 34:25",
+    "connected_from": "Genesis 34:23"
+  },
+  {
+    "text": "And it came to pass on the third day, when they were sore, that two of the sons of Jacob, Simeon and Levi, Dinah’s brothers, took each man his sword, and came on the city boldly, and slew all the males.",
+    "reference": "Genesis 34:25 (AKJV)",
+    "connected_to": "Genesis 34:26",
+    "connected_from": "Genesis 34:24"
+  },
+  {
+    "text": "And they slew Hamor and Shechem his son with the edge of the sword, and took Dinah out of Shechem’s house, and went out.",
+    "reference": "Genesis 34:26 (AKJV)",
+    "connected_to": "Genesis 34:27",
+    "connected_from": "Genesis 34:25"
+  },
+  {
+    "text": "The sons of Jacob came on the slain, and spoiled the city, because they had defiled their sister.",
+    "reference": "Genesis 34:27 (AKJV)",
+    "connected_to": "Genesis 34:28",
+    "connected_from": "Genesis 34:26"
+  },
+  {
+    "text": "They took their sheep, and their oxen, and their asses, and that which was in the city, and that which was in the field,",
+    "reference": "Genesis 34:28 (AKJV)",
+    "connected_to": "Genesis 34:29",
+    "connected_from": "Genesis 34:27"
+  },
+  {
+    "text": "And all their wealth, and all their little ones, and their wives took they captive, and spoiled even all that was in the house.",
+    "reference": "Genesis 34:29 (AKJV)",
+    "connected_to": "Genesis 34:30",
+    "connected_from": "Genesis 34:28"
+  },
+  {
+    "text": "And Jacob said to Simeon and Levi, You have troubled me to make me to stink among the inhabitants of the land, among the Canaanites and the Perizzites: and I being few in number, they shall gather themselves together against me, and slay me; and I shall be destroyed, I and my house.",
+    "reference": "Genesis 34:30 (AKJV)",
+    "connected_to": "Genesis 34:31",
+    "connected_from": "Genesis 34:29"
+  },
+  {
+    "text": "And they said, Should he deal with our sister as with an harlot?",
+    "reference": "Genesis 34:31 (AKJV)",
+    "connected_from": "Genesis 34:30"
+  }
+]

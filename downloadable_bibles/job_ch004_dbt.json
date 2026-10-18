@@ -1,0 +1,126 @@
+[
+  {
+    "text": "And Eliphaz the Temanite answered and said,",
+    "reference": "Job 4:1 (DBT)",
+    "connected_to": "Job 4:2"
+  },
+  {
+    "text": "If a word were essayed to thee, wouldest thou be grieved? But who can refrain from speaking?",
+    "reference": "Job 4:2 (DBT)",
+    "connected_to": "Job 4:3",
+    "connected_from": "Job 4:1"
+  },
+  {
+    "text": "Behold, thou hast instructed many, and thou hast strengthened the weak hands;",
+    "reference": "Job 4:3 (DBT)",
+    "connected_to": "Job 4:4",
+    "connected_from": "Job 4:2"
+  },
+  {
+    "text": "Thy words have upholden him that was stumbling, and thou hast braced up the bending knees:",
+    "reference": "Job 4:4 (DBT)",
+    "connected_to": "Job 4:5",
+    "connected_from": "Job 4:3"
+  },
+  {
+    "text": "But now it is come upon thee, and thou grievest; it toucheth thee, and thou art troubled.",
+    "reference": "Job 4:5 (DBT)",
+    "connected_to": "Job 4:6",
+    "connected_from": "Job 4:4"
+  },
+  {
+    "text": "Hath not thy piety been thy confidence, and the perfection of thy ways thy hope?",
+    "reference": "Job 4:6 (DBT)",
+    "connected_to": "Job 4:7",
+    "connected_from": "Job 4:5"
+  },
+  {
+    "text": "Remember, I pray thee, who that was innocent has perished? and where were the upright cut off?",
+    "reference": "Job 4:7 (DBT)",
+    "connected_to": "Job 4:8",
+    "connected_from": "Job 4:6"
+  },
+  {
+    "text": "Even as I have seen, they that plough iniquity and sow mischief, reap the same.",
+    "reference": "Job 4:8 (DBT)",
+    "connected_to": "Job 4:9",
+    "connected_from": "Job 4:7"
+  },
+  {
+    "text": "By the breath of +God they perish, and by the blast of his nostrils are they consumed.",
+    "reference": "Job 4:9 (DBT)",
+    "connected_to": "Job 4:10",
+    "connected_from": "Job 4:8"
+  },
+  {
+    "text": "The roar of the lion, and the voice of the fierce lion, and the teeth of the young lions, are broken;",
+    "reference": "Job 4:10 (DBT)",
+    "connected_to": "Job 4:11",
+    "connected_from": "Job 4:9"
+  },
+  {
+    "text": "The old lion perisheth for lack of prey, and the whelps of the lioness are scattered.",
+    "reference": "Job 4:11 (DBT)",
+    "connected_to": "Job 4:12",
+    "connected_from": "Job 4:10"
+  },
+  {
+    "text": "Now to me a word was secretly brought, and mine ear received a whisper thereof.",
+    "reference": "Job 4:12 (DBT)",
+    "connected_to": "Job 4:13",
+    "connected_from": "Job 4:11"
+  },
+  {
+    "text": "In thoughts from visions of the night, when deep sleep falleth on men:—",
+    "reference": "Job 4:13 (DBT)",
+    "connected_to": "Job 4:14",
+    "connected_from": "Job 4:12"
+  },
+  {
+    "text": "Fear came on me, and trembling, and made all my bones to shake;",
+    "reference": "Job 4:14 (DBT)",
+    "connected_to": "Job 4:15",
+    "connected_from": "Job 4:13"
+  },
+  {
+    "text": "And a spirit passed before my face—the hair of my flesh stood up—",
+    "reference": "Job 4:15 (DBT)",
+    "connected_to": "Job 4:16",
+    "connected_from": "Job 4:14"
+  },
+  {
+    "text": "It stood still; I could not discern the appearance thereof: a form was before mine eyes; I heard a slight murmur and a voice:",
+    "reference": "Job 4:16 (DBT)",
+    "connected_to": "Job 4:17",
+    "connected_from": "Job 4:15"
+  },
+  {
+    "text": "Shall [mortal] man be more just than +God? Shall a man be purer than his Maker?",
+    "reference": "Job 4:17 (DBT)",
+    "connected_to": "Job 4:18",
+    "connected_from": "Job 4:16"
+  },
+  {
+    "text": "Lo, he trusteth not his servants, and his angels he chargeth with folly:",
+    "reference": "Job 4:18 (DBT)",
+    "connected_to": "Job 4:19",
+    "connected_from": "Job 4:17"
+  },
+  {
+    "text": "How much more them that dwell in houses of clay, whose foundation is in the dust, who are crushed as the moth!",
+    "reference": "Job 4:19 (DBT)",
+    "connected_to": "Job 4:20",
+    "connected_from": "Job 4:18"
+  },
+  {
+    "text": "From morning to evening are they smitten: without any heeding it, they perish for ever.",
+    "reference": "Job 4:20 (DBT)",
+    "connected_to": "Job 4:21",
+    "connected_from": "Job 4:19"
+  },
+  {
+    "text": "Is not their tent-cord torn away in them? they die, and without wisdom.",
+    "reference": "Job 4:21 (DBT)",
+    "connected_from": "Job 4:20"
+  }
+]

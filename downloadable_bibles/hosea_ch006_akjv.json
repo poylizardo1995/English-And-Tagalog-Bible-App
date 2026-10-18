@@ -1,0 +1,66 @@
+[
+  {
+    "text": "Come, and let us return to the LORD: for he has torn, and he will heal us; he has smitten, and he will bind us up.",
+    "reference": "Hosea 6:1 (AKJV)",
+    "connected_to": "Hosea 6:2"
+  },
+  {
+    "text": "After two days will he revive us: in the third day he will raise us up, and we shall live in his sight.",
+    "reference": "Hosea 6:2 (AKJV)",
+    "connected_to": "Hosea 6:3",
+    "connected_from": "Hosea 6:1"
+  },
+  {
+    "text": "Then shall we know, if we follow on to know the LORD: his going forth is prepared as the morning; and he shall come to us as the rain, as the latter and former rain to the earth.",
+    "reference": "Hosea 6:3 (AKJV)",
+    "connected_to": "Hosea 6:4",
+    "connected_from": "Hosea 6:2"
+  },
+  {
+    "text": "O Ephraim, what shall I do to you? O Judah, what shall I do to you? for your goodness is as a morning cloud, and as the early dew it goes away.",
+    "reference": "Hosea 6:4 (AKJV)",
+    "connected_to": "Hosea 6:5",
+    "connected_from": "Hosea 6:3"
+  },
+  {
+    "text": "Therefore have I hewed them by the prophets; I have slain them by the words of my mouth: and your judgments are as the light that goes forth.",
+    "reference": "Hosea 6:5 (AKJV)",
+    "connected_to": "Hosea 6:6",
+    "connected_from": "Hosea 6:4"
+  },
+  {
+    "text": "For I desired mercy, and not sacrifice; and the knowledge of God more than burnt offerings.",
+    "reference": "Hosea 6:6 (AKJV)",
+    "connected_to": "Hosea 6:7",
+    "connected_from": "Hosea 6:5"
+  },
+  {
+    "text": "But they like men have transgressed the covenant: there have they dealt treacherously against me.",
+    "reference": "Hosea 6:7 (AKJV)",
+    "connected_to": "Hosea 6:8",
+    "connected_from": "Hosea 6:6"
+  },
+  {
+    "text": "Gilead is a city of them that work iniquity, and is polluted with blood.",
+    "reference": "Hosea 6:8 (AKJV)",
+    "connected_to": "Hosea 6:9",
+    "connected_from": "Hosea 6:7"
+  },
+  {
+    "text": "And as troops of robbers wait for a man, so the company of priests murder in the way by consent: for they commit lewdness.",
+    "reference": "Hosea 6:9 (AKJV)",
+    "connected_to": "Hosea 6:10",
+    "connected_from": "Hosea 6:8"
+  },
+  {
+    "text": "I have seen an horrible thing in the house of Israel: there is the prostitution of Ephraim, Israel is defiled.",
+    "reference": "Hosea 6:10 (AKJV)",
+    "connected_to": "Hosea 6:11",
+    "connected_from": "Hosea 6:9"
+  },
+  {
+    "text": "Also, O Judah, he has set an harvest for you, when I returned the captivity of my people.",
+    "reference": "Hosea 6:11 (AKJV)",
+    "connected_from": "Hosea 6:10"
+  }
+]

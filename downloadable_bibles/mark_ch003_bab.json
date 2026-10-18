@@ -1,0 +1,210 @@
+[
+  {
+    "text": "Once again Jesus entered the synagogue, and a man with a withered hand was there.",
+    "reference": "Mark 3:1 (BAB)",
+    "connected_to": "Mark 3:2"
+  },
+  {
+    "text": "In order to accuse Jesus, they were watching to see if He would heal on the Sabbath.",
+    "reference": "Mark 3:2 (BAB)",
+    "connected_to": "Mark 3:3",
+    "connected_from": "Mark 3:1"
+  },
+  {
+    "text": "Then Jesus said to the man with the withered hand, “Stand up among us.",
+    "reference": "Mark 3:3 (BAB)",
+    "connected_to": "Mark 3:4",
+    "connected_from": "Mark 3:2"
+  },
+  {
+    "text": "And He asked them, “Which is lawful on the Sabbath: to do good or to do evil, to save life {psychēn} or to destroy it? But they were silent.",
+    "reference": "Mark 3:4 (BAB)",
+    "connected_to": "Mark 3:5",
+    "connected_from": "Mark 3:3"
+  },
+  {
+    "text": "Jesus looked around at them with anger and sorrow at their hardness of heart. Then He said to the man, “Stretch out your hand. So he stretched it out, and it was restored.",
+    "reference": "Mark 3:5 (BAB)",
+    "connected_to": "Mark 3:6",
+    "connected_from": "Mark 3:4"
+  },
+  {
+    "text": "At this, the Pharisees went out and began plotting with the Herodians how they might kill Jesus.",
+    "reference": "Mark 3:6 (BAB)",
+    "connected_to": "Mark 3:7",
+    "connected_from": "Mark 3:5"
+  },
+  {
+    "text": "So Jesus (YHWH saves) withdrew with His disciples (pupils) to the sea, accompanied by a large crowd from Galilee (circuit), Judea (land of praise),",
+    "reference": "Mark 3:7 (BAB)",
+    "connected_to": "Mark 3:8",
+    "connected_from": "Mark 3:6"
+  },
+  {
+    "text": "Jerusalem (city of peace), Idumea, the region beyond the Jordan (flowing down), and the vicinity of Tyre and Sidon. The large crowd came to Him when they heard what great things He was doing.",
+    "reference": "Mark 3:8 (BAB)",
+    "connected_to": "Mark 3:9",
+    "connected_from": "Mark 3:7"
+  },
+  {
+    "text": "Jesus asked His disciples (pupils) to have a boat ready for Him so that the crowd would not crush Him.",
+    "reference": "Mark 3:9 (BAB)",
+    "connected_to": "Mark 3:10",
+    "connected_from": "Mark 3:8"
+  },
+  {
+    "text": "For He had healed so many that all who had diseases were pressing forward to touch Him.",
+    "reference": "Mark 3:10 (BAB)",
+    "connected_to": "Mark 3:11",
+    "connected_from": "Mark 3:9"
+  },
+  {
+    "text": "And when the unclean (impure) spirits {pneumata} saw Him, they fell down before Him and cried out, “You are the Son of God {Theou}!",
+    "reference": "Mark 3:11 (BAB)",
+    "connected_to": "Mark 3:12",
+    "connected_from": "Mark 3:10"
+  },
+  {
+    "text": "But He warned them sternly not to make Him known.",
+    "reference": "Mark 3:12 (BAB)",
+    "connected_to": "Mark 3:13",
+    "connected_from": "Mark 3:11"
+  },
+  {
+    "text": "Then Jesus went up on the mountain and called for those He wanted, and they came to Him.",
+    "reference": "Mark 3:13 (BAB)",
+    "connected_to": "Mark 3:14",
+    "connected_from": "Mark 3:12"
+  },
+  {
+    "text": "He appointed twelve of them, whom He designated as apostles (sent ones), to accompany Him, to be sent out to preach,",
+    "reference": "Mark 3:14 (BAB)",
+    "connected_to": "Mark 3:15",
+    "connected_from": "Mark 3:13"
+  },
+  {
+    "text": "and to have authority [to heal sicknesses, and] to drive out demons.",
+    "reference": "Mark 3:15 (BAB)",
+    "connected_to": "Mark 3:16",
+    "connected_from": "Mark 3:14"
+  },
+  {
+    "text": "These are the twelve He appointed: Simon (hearing) (whom He named Peter),",
+    "reference": "Mark 3:16 (BAB)",
+    "connected_to": "Mark 3:17",
+    "connected_from": "Mark 3:15"
+  },
+  {
+    "text": "James (supplanter / follower) son of Zebedee (YHWH has given) and his brother John (YHWH is gracious) (whom He named Boanerges, meaning “Sons of Thunder”),",
+    "reference": "Mark 3:17 (BAB)",
+    "connected_to": "Mark 3:18",
+    "connected_from": "Mark 3:16"
+  },
+  {
+    "text": "Andrew (manly), Philip (friend of horses), Bartholomew (son of Talmai), Matthew (Gift of YHWH), Thomas (twin), James (supplanter / follower) son of Alphaeus (exchange), Thaddaeus, Simon (hearing) the Zealot \\Simon the Cananean/,",
+    "reference": "Mark 3:18 (BAB)",
+    "connected_to": "Mark 3:19",
+    "connected_from": "Mark 3:17"
+  },
+  {
+    "text": "and Judas (praise) Iscariot, who betrayed Jesus \\who also betrayed Him/.",
+    "reference": "Mark 3:19 (BAB)",
+    "connected_to": "Mark 3:20",
+    "connected_from": "Mark 3:18"
+  },
+  {
+    "text": "Then Jesus went home \\Then He comes to a house/, and once again a crowd gathered, so that He and His disciples could not even eat.",
+    "reference": "Mark 3:20 (BAB)",
+    "connected_to": "Mark 3:21",
+    "connected_from": "Mark 3:19"
+  },
+  {
+    "text": "When His family heard about this, they went out to take custody of Him, saying, “He is out of His mind.",
+    "reference": "Mark 3:21 (BAB)",
+    "connected_to": "Mark 3:22",
+    "connected_from": "Mark 3:20"
+  },
+  {
+    "text": "And the scribes who had come down from Jerusalem (city of peace) were saying, “He is possessed by Beelzebul [Beezebub], and, “By the prince of the demons He drives out demons.",
+    "reference": "Mark 3:22 (BAB)",
+    "connected_to": "Mark 3:23",
+    "connected_from": "Mark 3:21"
+  },
+  {
+    "text": "So Jesus called them together and began to speak to them in parables: “How can Satan (the adversary) drive out Satan?",
+    "reference": "Mark 3:23 (BAB)",
+    "connected_to": "Mark 3:24",
+    "connected_from": "Mark 3:22"
+  },
+  {
+    "text": "If a kingdom is divided against itself, it cannot stand.",
+    "reference": "Mark 3:24 (BAB)",
+    "connected_to": "Mark 3:25",
+    "connected_from": "Mark 3:23"
+  },
+  {
+    "text": "If a house is divided against itself, it cannot stand.",
+    "reference": "Mark 3:25 (BAB)",
+    "connected_to": "Mark 3:26",
+    "connected_from": "Mark 3:24"
+  },
+  {
+    "text": "And if Satan (the adversary) is divided and rises against himself, he cannot stand; his end has come.",
+    "reference": "Mark 3:26 (BAB)",
+    "connected_to": "Mark 3:27",
+    "connected_from": "Mark 3:25"
+  },
+  {
+    "text": "Indeed, no one can enter a strong man’s house to steal his possessions unless he first ties up the strong man. Then he can plunder his house.",
+    "reference": "Mark 3:27 (BAB)",
+    "connected_to": "Mark 3:28",
+    "connected_from": "Mark 3:26"
+  },
+  {
+    "text": "Truly I tell you⁺, the sons of men will be forgiven all sins and blasphemies, as many as they utter.",
+    "reference": "Mark 3:28 (BAB)",
+    "connected_to": "Mark 3:29",
+    "connected_from": "Mark 3:27"
+  },
+  {
+    "text": "But whoever blasphemes against the Holy Spirit {Hagion Pneuma} will never be forgiven; he is guilty of eternal sin.",
+    "reference": "Mark 3:29 (BAB)",
+    "connected_to": "Mark 3:30",
+    "connected_from": "Mark 3:28"
+  },
+  {
+    "text": "Jesus made this statement because they were saying, “He has an unclean (impure) spirit {Pneuma}.",
+    "reference": "Mark 3:30 (BAB)",
+    "connected_to": "Mark 3:31",
+    "connected_from": "Mark 3:29"
+  },
+  {
+    "text": "Then Jesus’ mother and brothers came and stood outside. They sent someone in to summon Him,",
+    "reference": "Mark 3:31 (BAB)",
+    "connected_to": "Mark 3:32",
+    "connected_from": "Mark 3:30"
+  },
+  {
+    "text": "and a crowd was sitting around Him. “Look (Behold), He was told, “Your mother and brothers [and Your sisters.] are outside, asking for You.",
+    "reference": "Mark 3:32 (BAB)",
+    "connected_to": "Mark 3:33",
+    "connected_from": "Mark 3:31"
+  },
+  {
+    "text": "But Jesus replied, “Who are My mother and My brothers?",
+    "reference": "Mark 3:33 (BAB)",
+    "connected_to": "Mark 3:34",
+    "connected_from": "Mark 3:32"
+  },
+  {
+    "text": "Looking at those seated in a circle around Him, He said, “Here are (behold) My mother and My brothers!",
+    "reference": "Mark 3:34 (BAB)",
+    "connected_to": "Mark 3:35",
+    "connected_from": "Mark 3:33"
+  },
+  {
+    "text": "For whoever does the will of God {Theou} is My brother and sister and mother.",
+    "reference": "Mark 3:35 (BAB)",
+    "connected_from": "Mark 3:34"
+  }
+]

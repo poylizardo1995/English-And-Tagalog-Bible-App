@@ -1,0 +1,150 @@
+[
+  {
+    "text": "After this, Jesus again showed Himself to the disciples. It was at the Lake of Tiberias. The circumstances were as follows.",
+    "reference": "John 21:1 (WNT)",
+    "connected_to": "John 21:2"
+  },
+  {
+    "text": "Simon Peter was with Thomas, called the Twin, Nathanael of Cana in Galilee, the sons of Zabdi, and two others of the Master’s disciples.",
+    "reference": "John 21:2 (WNT)",
+    "connected_to": "John 21:3",
+    "connected_from": "John 21:1"
+  },
+  {
+    "text": "Simon Peter said to them, “I am going fishing.” “We will go too,” said they. So they set out and went on board their boat; but they caught nothing that night.",
+    "reference": "John 21:3 (WNT)",
+    "connected_to": "John 21:4",
+    "connected_from": "John 21:2"
+  },
+  {
+    "text": "When, however, day was now dawning, Jesus stood on the beach, though the disciples did not know that it was Jesus.",
+    "reference": "John 21:4 (WNT)",
+    "connected_to": "John 21:5",
+    "connected_from": "John 21:3"
+  },
+  {
+    "text": "He called to them. “Children,” He said, “have you any food there?” “No,” they answered.",
+    "reference": "John 21:5 (WNT)",
+    "connected_to": "John 21:6",
+    "connected_from": "John 21:4"
+  },
+  {
+    "text": "“Throw the net in on the right hand side,” He said, “and you will find fish.” So they threw the net in, and now they could scarcely drag it along for the quantity of fish.",
+    "reference": "John 21:6 (WNT)",
+    "connected_to": "John 21:7",
+    "connected_from": "John 21:5"
+  },
+  {
+    "text": "This made the disciple whom Jesus loved say to Peter, “It is the Master.” Simon Peter therefore, when he heard the words, “It is the Master,” drew on his fisherman’s shirt—for he had not been wearing it—put on his girdle, and sprang into the water.",
+    "reference": "John 21:7 (WNT)",
+    "connected_to": "John 21:8",
+    "connected_from": "John 21:6"
+  },
+  {
+    "text": "But the rest of the disciples came in the small boat (for they were not far from land—only about a hundred yards off)",
+    "reference": "John 21:8 (WNT)",
+    "connected_to": "John 21:9",
+    "connected_from": "John 21:7"
+  },
+  {
+    "text": "As soon as they landed, they saw a charcoal fire burning there, with fish broiling on it, and bread close by.",
+    "reference": "John 21:9 (WNT)",
+    "connected_to": "John 21:10",
+    "connected_from": "John 21:8"
+  },
+  {
+    "text": "Jesus told them to fetch some of the fish which they had just caught.",
+    "reference": "John 21:10 (WNT)",
+    "connected_to": "John 21:11",
+    "connected_from": "John 21:9"
+  },
+  {
+    "text": "So Simon Peter went on board the boat and drew the net ashore full of large fish, 153 in number; and yet, although there were so many, the net had not broken.",
+    "reference": "John 21:11 (WNT)",
+    "connected_to": "John 21:12",
+    "connected_from": "John 21:10"
+  },
+  {
+    "text": "“Come this way and have breakfast,” said Jesus. But not one of the disciples ventured to question Him as to who He was, for they felt sure that it was the Master.",
+    "reference": "John 21:12 (WNT)",
+    "connected_to": "John 21:13",
+    "connected_from": "John 21:11"
+  },
+  {
+    "text": "Then Jesus came and took the bread and gave them some, and the fish in the same way.",
+    "reference": "John 21:13 (WNT)",
+    "connected_to": "John 21:14",
+    "connected_from": "John 21:12"
+  },
+  {
+    "text": "This was now the third occasion on which Jesus showed Himself to the disciples after He had risen from among the dead.",
+    "reference": "John 21:14 (WNT)",
+    "connected_to": "John 21:15",
+    "connected_from": "John 21:13"
+  },
+  {
+    "text": "When they had finished breakfast, Jesus asked Simon Peter, “Simon, son of John, do you love me more than these others do?” “Yes, Master,” was his answer; “you know that you are dear to me.” “Then feed my lambs,” replied Jesus.",
+    "reference": "John 21:15 (WNT)",
+    "connected_to": "John 21:16",
+    "connected_from": "John 21:14"
+  },
+  {
+    "text": "Again a second time He asked him, “Simon, son of John, do you love me?” “Yes, Master,” he said, “you know that you are dear to me.” “Then be a shepherd to my sheep,” He said.",
+    "reference": "John 21:16 (WNT)",
+    "connected_to": "John 21:17",
+    "connected_from": "John 21:15"
+  },
+  {
+    "text": "A third time Jesus put the question: “Simon, son of John, am I dear to you?” It grieved Peter that Jesus asked him the third time, “Am I dear to you?” “Master,” he replied, “you know everything, you can see that you are dear to me.” “Then feed my much-loved sheep,” said Jesus.",
+    "reference": "John 21:17 (WNT)",
+    "connected_to": "John 21:18",
+    "connected_from": "John 21:16"
+  },
+  {
+    "text": "“In most solemn truth I tell you that whereas, when you were young, you used to put on your girdle and walk whichever way you chose, when you have grown old you will stretch out your arms and some one else will put a girdle round you and carry you where you have no wish to go.”",
+    "reference": "John 21:18 (WNT)",
+    "connected_to": "John 21:19",
+    "connected_from": "John 21:17"
+  },
+  {
+    "text": "This He said to indicate the kind of death by which that disciple would bring glory to God; and after speaking thus He said to him, “Follow me.”",
+    "reference": "John 21:19 (WNT)",
+    "connected_to": "John 21:20",
+    "connected_from": "John 21:18"
+  },
+  {
+    "text": "Peter turned round and noticed the disciple whom Jesus loved following—the one who at the supper had leaned back on His breast and had asked, “Master, who is it that is betraying you?”",
+    "reference": "John 21:20 (WNT)",
+    "connected_to": "John 21:21",
+    "connected_from": "John 21:19"
+  },
+  {
+    "text": "On seeing him, Peter asked Jesus, “And, Master, what about him?”",
+    "reference": "John 21:21 (WNT)",
+    "connected_to": "John 21:22",
+    "connected_from": "John 21:20"
+  },
+  {
+    "text": "“If I desire him to remain till I come,” replied Jesus, “what concern is that of yours? You, yourself, must follow me.”",
+    "reference": "John 21:22 (WNT)",
+    "connected_to": "John 21:23",
+    "connected_from": "John 21:21"
+  },
+  {
+    "text": "Hence the report spread among the brethren that that disciple would never die. Yet Jesus did not say, “He is not to die,” but, “If I desire him to remain till I come, what concern is that of yours?”",
+    "reference": "John 21:23 (WNT)",
+    "connected_to": "John 21:24",
+    "connected_from": "John 21:22"
+  },
+  {
+    "text": "That is the disciple who gives his testimony as to these matters, and has written this history; and we know that his testimony is true.",
+    "reference": "John 21:24 (WNT)",
+    "connected_to": "John 21:25",
+    "connected_from": "John 21:23"
+  },
+  {
+    "text": "But there are also many other things which Jesus did—so vast a number indeed that if they were all described in detail, I suppose that the world itself could not contain the books that would have to be written.",
+    "reference": "John 21:25 (WNT)",
+    "connected_from": "John 21:24"
+  }
+]

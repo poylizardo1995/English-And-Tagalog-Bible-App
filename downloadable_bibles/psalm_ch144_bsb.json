@@ -1,0 +1,90 @@
+[
+  {
+    "text": "Of David. Blessed be the LORD, my Rock, who trains my hands for war, my fingers for battle.",
+    "reference": "Psalm 144:1 (BSB)",
+    "connected_to": "Psalm 144:2"
+  },
+  {
+    "text": "He is my steadfast love and my fortress, my stronghold and my deliverer. He is my shield, in whom I take refuge, who subdues peoples under me.",
+    "reference": "Psalm 144:2 (BSB)",
+    "connected_to": "Psalm 144:3",
+    "connected_from": "Psalm 144:1"
+  },
+  {
+    "text": "O LORD, what is man, that You regard him, the son of man that You think of him?",
+    "reference": "Psalm 144:3 (BSB)",
+    "connected_to": "Psalm 144:4",
+    "connected_from": "Psalm 144:2"
+  },
+  {
+    "text": "Man is like a breath; his days are like a passing shadow.",
+    "reference": "Psalm 144:4 (BSB)",
+    "connected_to": "Psalm 144:5",
+    "connected_from": "Psalm 144:3"
+  },
+  {
+    "text": "Part Your heavens, O LORD, and come down; touch the mountains, that they may smoke.",
+    "reference": "Psalm 144:5 (BSB)",
+    "connected_to": "Psalm 144:6",
+    "connected_from": "Psalm 144:4"
+  },
+  {
+    "text": "Flash forth Your lightning and scatter them; shoot Your arrows and rout them.",
+    "reference": "Psalm 144:6 (BSB)",
+    "connected_to": "Psalm 144:7",
+    "connected_from": "Psalm 144:5"
+  },
+  {
+    "text": "Reach down from on high; set me free and rescue me from the deep waters, from the grasp of foreigners,",
+    "reference": "Psalm 144:7 (BSB)",
+    "connected_to": "Psalm 144:8",
+    "connected_from": "Psalm 144:6"
+  },
+  {
+    "text": "whose mouths speak falsehood, whose right hands are deceitful.",
+    "reference": "Psalm 144:8 (BSB)",
+    "connected_to": "Psalm 144:9",
+    "connected_from": "Psalm 144:7"
+  },
+  {
+    "text": "I will sing to You a new song, O God; on a harp of ten strings I will make music to You—",
+    "reference": "Psalm 144:9 (BSB)",
+    "connected_to": "Psalm 144:10",
+    "connected_from": "Psalm 144:8"
+  },
+  {
+    "text": "to Him who gives victory to kings, who frees His servant David from the deadly sword.",
+    "reference": "Psalm 144:10 (BSB)",
+    "connected_to": "Psalm 144:11",
+    "connected_from": "Psalm 144:9"
+  },
+  {
+    "text": "Set me free and rescue me from the grasp of foreigners, whose mouths speak falsehood, whose right hands are deceitful.",
+    "reference": "Psalm 144:11 (BSB)",
+    "connected_to": "Psalm 144:12",
+    "connected_from": "Psalm 144:10"
+  },
+  {
+    "text": "Then our sons will be like plants nurtured in their youth, our daughters like corner pillars carved to adorn a palace.",
+    "reference": "Psalm 144:12 (BSB)",
+    "connected_to": "Psalm 144:13",
+    "connected_from": "Psalm 144:11"
+  },
+  {
+    "text": "Our storehouses will be full, supplying all manner of produce; our flocks will bring forth thousands, tens of thousands in our fields.",
+    "reference": "Psalm 144:13 (BSB)",
+    "connected_to": "Psalm 144:14",
+    "connected_from": "Psalm 144:12"
+  },
+  {
+    "text": "Our oxen will bear great loads. There will be no breach in the walls, no going into captivity, and no cry of lament in our streets.",
+    "reference": "Psalm 144:14 (BSB)",
+    "connected_to": "Psalm 144:15",
+    "connected_from": "Psalm 144:13"
+  },
+  {
+    "text": "Blessed are the people of whom this is so; blessed are the people whose God is the LORD.",
+    "reference": "Psalm 144:15 (BSB)",
+    "connected_from": "Psalm 144:14"
+  }
+]

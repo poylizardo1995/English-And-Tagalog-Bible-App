@@ -1,0 +1,72 @@
+[
+  {
+    "text": "For the Chief Musician; on stringed instruments. A Psalm of Asaph, a Song. In Judah is God known: his name is great in Israel.",
+    "reference": "Psalm 76:1 (ERV)",
+    "connected_to": "Psalm 76:2"
+  },
+  {
+    "text": "In Salem also is his tabernacle, and his dwelling place in Zion.",
+    "reference": "Psalm 76:2 (ERV)",
+    "connected_to": "Psalm 76:3",
+    "connected_from": "Psalm 76:1"
+  },
+  {
+    "text": "There he brake the arrows of the bow; the shield, and the sword, and the battle. Selah",
+    "reference": "Psalm 76:3 (ERV)",
+    "connected_to": "Psalm 76:4",
+    "connected_from": "Psalm 76:2"
+  },
+  {
+    "text": "Glorious art thou and excellent, from the mountains of prey.",
+    "reference": "Psalm 76:4 (ERV)",
+    "connected_to": "Psalm 76:5",
+    "connected_from": "Psalm 76:3"
+  },
+  {
+    "text": "The stouthearted are spoiled, they have slept their sleep; and none of the men of might have found their hands.",
+    "reference": "Psalm 76:5 (ERV)",
+    "connected_to": "Psalm 76:6",
+    "connected_from": "Psalm 76:4"
+  },
+  {
+    "text": "At thy rebuke, O God of Jacob, both chariot and horse are cast into a dead sleep.",
+    "reference": "Psalm 76:6 (ERV)",
+    "connected_to": "Psalm 76:7",
+    "connected_from": "Psalm 76:5"
+  },
+  {
+    "text": "Thou, even thou, art to be feared: and who may stand in thy sight when once thou art angry?",
+    "reference": "Psalm 76:7 (ERV)",
+    "connected_to": "Psalm 76:8",
+    "connected_from": "Psalm 76:6"
+  },
+  {
+    "text": "Thou didst cause sentence to be heard from heaven; the earth feared, and was still,",
+    "reference": "Psalm 76:8 (ERV)",
+    "connected_to": "Psalm 76:9",
+    "connected_from": "Psalm 76:7"
+  },
+  {
+    "text": "When God arose to judgment, to save all the meek of the earth. Selah",
+    "reference": "Psalm 76:9 (ERV)",
+    "connected_to": "Psalm 76:10",
+    "connected_from": "Psalm 76:8"
+  },
+  {
+    "text": "Surely the wrath of man shall praise thee: the residue of wrath shalt thou gird upon thee.",
+    "reference": "Psalm 76:10 (ERV)",
+    "connected_to": "Psalm 76:11",
+    "connected_from": "Psalm 76:9"
+  },
+  {
+    "text": "Vow, and pay unto the LORD your God: let all that be round about him bring presents unto him that ought to be feared.",
+    "reference": "Psalm 76:11 (ERV)",
+    "connected_to": "Psalm 76:12",
+    "connected_from": "Psalm 76:10"
+  },
+  {
+    "text": "He shall cut off the spirit of princes: he is terrible to the kings of the earth.",
+    "reference": "Psalm 76:12 (ERV)",
+    "connected_from": "Psalm 76:11"
+  }
+]

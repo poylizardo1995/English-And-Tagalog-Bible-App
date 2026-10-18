@@ -1,0 +1,329 @@
+[
+  {
+    "text": "Then the whole council rose and led Jesus away to Pilate.",
+    "reference": "Luke 23:1 (BSB)",
+    "connected_to": "Luke 23:2"
+  },
+  {
+    "text": "And they began to accuse Him, saying, “We found this man subverting our nation, forbidding payment of taxes to Caesar, and proclaiming Himself to be Christ, a King.”",
+    "reference": "Luke 23:2 (BSB)",
+    "connected_to": "Luke 23:3",
+    "connected_from": "Luke 23:1"
+  },
+  {
+    "text": "So Pilate asked Him, “Are You the King of the Jews?” “You have said so,” Jesus replied.",
+    "reference": "Luke 23:3 (BSB)",
+    "connected_to": "Luke 23:4",
+    "connected_from": "Luke 23:2"
+  },
+  {
+    "text": "Then Pilate said to the chief priests and the crowds, “I find no basis for a charge against this man.”",
+    "reference": "Luke 23:4 (BSB)",
+    "connected_to": "Luke 23:5",
+    "connected_from": "Luke 23:3"
+  },
+  {
+    "text": "But they kept insisting, “He stirs up the people all over Judea with His teaching. He began in Galilee and has come all the way here.”",
+    "reference": "Luke 23:5 (BSB)",
+    "connected_to": "Luke 23:6",
+    "connected_from": "Luke 23:4"
+  },
+  {
+    "text": "When Pilate heard this, he asked if the man was a Galilean.",
+    "reference": "Luke 23:6 (BSB)",
+    "connected_to": "Luke 23:7",
+    "connected_from": "Luke 23:5"
+  },
+  {
+    "text": "And learning that Jesus was under Herod’s jurisdiction, he sent Him to Herod, who himself was in Jerusalem at that time.",
+    "reference": "Luke 23:7 (BSB)",
+    "connected_to": "Luke 23:8",
+    "connected_from": "Luke 23:6"
+  },
+  {
+    "text": "When Herod saw Jesus, he was greatly pleased. He had wanted to see Him for a long time, because he had heard about Him and was hoping to see Him perform a miracle.",
+    "reference": "Luke 23:8 (BSB)",
+    "connected_to": "Luke 23:9",
+    "connected_from": "Luke 23:7"
+  },
+  {
+    "text": "Herod questioned Jesus at great length, but He gave no answer.",
+    "reference": "Luke 23:9 (BSB)",
+    "connected_to": "Luke 23:10",
+    "connected_from": "Luke 23:8"
+  },
+  {
+    "text": "Meanwhile, the chief priests and scribes stood there, vehemently accusing Him.",
+    "reference": "Luke 23:10 (BSB)",
+    "connected_to": "Luke 23:11",
+    "connected_from": "Luke 23:9"
+  },
+  {
+    "text": "And even Herod and his soldiers ridiculed and mocked Him. Dressing Him in a fine robe, they sent Him back to Pilate.",
+    "reference": "Luke 23:11 (BSB)",
+    "connected_to": "Luke 23:12",
+    "connected_from": "Luke 23:10"
+  },
+  {
+    "text": "That day Herod and Pilate became friends; before this time they had been enemies.",
+    "reference": "Luke 23:12 (BSB)",
+    "connected_to": "Luke 23:13",
+    "connected_from": "Luke 23:11"
+  },
+  {
+    "text": "Then Pilate called together the chief priests, the rulers, and the people,",
+    "reference": "Luke 23:13 (BSB)",
+    "connected_to": "Luke 23:14",
+    "connected_from": "Luke 23:12"
+  },
+  {
+    "text": "and said to them, “You brought me this man as one who was inciting the people to rebellion. I have examined Him here in your presence and found Him not guilty of your charges against Him.",
+    "reference": "Luke 23:14 (BSB)",
+    "connected_to": "Luke 23:15",
+    "connected_from": "Luke 23:13"
+  },
+  {
+    "text": "Neither has Herod, for he sent Him back to us. As you can see, He has done nothing deserving of death.",
+    "reference": "Luke 23:15 (BSB)",
+    "connected_to": "Luke 23:16",
+    "connected_from": "Luke 23:14"
+  },
+  {
+    "text": "Therefore I will punish Him and release Him.”",
+    "reference": "Luke 23:16 (BSB)",
+    "connected_to": "Luke 23:17",
+    "connected_from": "Luke 23:15"
+  },
+  {
+    "text": "But they all cried out in unison: “Away with this man! Release Barabbas to us!”",
+    "reference": "Luke 23:18 (BSB)",
+    "connected_to": "Luke 23:19",
+    "connected_from": "Luke 23:17"
+  },
+  {
+    "text": "(Barabbas had been imprisoned for an insurrection in the city, and for murder.)",
+    "reference": "Luke 23:19 (BSB)",
+    "connected_to": "Luke 23:20",
+    "connected_from": "Luke 23:18"
+  },
+  {
+    "text": "Wanting to release Jesus, Pilate addressed them again,",
+    "reference": "Luke 23:20 (BSB)",
+    "connected_to": "Luke 23:21",
+    "connected_from": "Luke 23:19"
+  },
+  {
+    "text": "but they kept shouting, “Crucify Him! Crucify Him!”",
+    "reference": "Luke 23:21 (BSB)",
+    "connected_to": "Luke 23:22",
+    "connected_from": "Luke 23:20"
+  },
+  {
+    "text": "A third time he said to them, “What evil has this man done? I have found in Him no offense worthy of death. So after I punish Him, I will release Him.”",
+    "reference": "Luke 23:22 (BSB)",
+    "connected_to": "Luke 23:23",
+    "connected_from": "Luke 23:21"
+  },
+  {
+    "text": "But they were insistent, demanding with loud voices for Jesus to be crucified. And their clamor prevailed.",
+    "reference": "Luke 23:23 (BSB)",
+    "connected_to": "Luke 23:24",
+    "connected_from": "Luke 23:22"
+  },
+  {
+    "text": "So Pilate sentenced that their demand be met.",
+    "reference": "Luke 23:24 (BSB)",
+    "connected_to": "Luke 23:25",
+    "connected_from": "Luke 23:23"
+  },
+  {
+    "text": "As they had requested, he released the one imprisoned for insurrection and murder, and he handed Jesus over to their will.",
+    "reference": "Luke 23:25 (BSB)",
+    "connected_to": "Luke 23:26",
+    "connected_from": "Luke 23:24"
+  },
+  {
+    "text": "As the soldiers led Him away, they seized Simon of Cyrene on his way in from the country, and they put the cross on him to carry behind Jesus.",
+    "reference": "Luke 23:26 (BSB)",
+    "connected_to": "Luke 23:27",
+    "connected_from": "Luke 23:25"
+  },
+  {
+    "text": "A great number of people followed Him, including women who kept mourning and wailing for Him.",
+    "reference": "Luke 23:27 (BSB)",
+    "connected_to": "Luke 23:28",
+    "connected_from": "Luke 23:26"
+  },
+  {
+    "text": "But Jesus turned to them and said, “Daughters of Jerusalem, do not weep for Me, but weep for yourselves and for your children.",
+    "reference": "Luke 23:28 (BSB)",
+    "connected_to": "Luke 23:29",
+    "connected_from": "Luke 23:27"
+  },
+  {
+    "text": "Look, the days are coming when people will say, ‘Blessed are the barren women, the wombs that never bore, and breasts that never nursed!’",
+    "reference": "Luke 23:29 (BSB)",
+    "connected_to": "Luke 23:30",
+    "connected_from": "Luke 23:28"
+  },
+  {
+    "text": "At that time ‘they will say to the mountains, “Fall on us!” and to the hills, “Cover us!”’",
+    "reference": "Luke 23:30 (BSB)",
+    "connected_to": "Luke 23:31",
+    "connected_from": "Luke 23:29"
+  },
+  {
+    "text": "For if men do these things while the tree is green, what will happen when it is dry?”",
+    "reference": "Luke 23:31 (BSB)",
+    "connected_to": "Luke 23:32",
+    "connected_from": "Luke 23:30"
+  },
+  {
+    "text": "Two others, who were criminals, were also led away to be executed with Jesus.",
+    "reference": "Luke 23:32 (BSB)",
+    "connected_to": "Luke 23:33",
+    "connected_from": "Luke 23:31"
+  },
+  {
+    "text": "When they came to the place called The Skull, they crucified Him there, along with the criminals, one on His right and the other on His left.",
+    "reference": "Luke 23:33 (BSB)",
+    "connected_to": "Luke 23:34",
+    "connected_from": "Luke 23:32"
+  },
+  {
+    "text": "Then Jesus said, “Father, forgive them, for they do not know what they are doing.” And they divided up His garments by casting lots.",
+    "reference": "Luke 23:34 (BSB)",
+    "connected_to": "Luke 23:35",
+    "connected_from": "Luke 23:33"
+  },
+  {
+    "text": "The people stood watching, and the rulers sneered at Him, saying, “He saved others; let Him save Himself if He is the Christ of God, the Chosen One.”",
+    "reference": "Luke 23:35 (BSB)",
+    "connected_to": "Luke 23:36",
+    "connected_from": "Luke 23:34"
+  },
+  {
+    "text": "The soldiers also mocked Him and came up to offer Him sour wine.",
+    "reference": "Luke 23:36 (BSB)",
+    "connected_to": "Luke 23:37",
+    "connected_from": "Luke 23:35"
+  },
+  {
+    "text": "“If You are the King of the Jews,” they said, “save Yourself!”",
+    "reference": "Luke 23:37 (BSB)",
+    "connected_to": "Luke 23:38",
+    "connected_from": "Luke 23:36"
+  },
+  {
+    "text": "Above Him was posted an inscription: THIS IS THE KING OF THE JEWS.",
+    "reference": "Luke 23:38 (BSB)",
+    "connected_to": "Luke 23:39",
+    "connected_from": "Luke 23:37"
+  },
+  {
+    "text": "One of the criminals who hung there heaped abuse on Him. “Are You not the Christ?” he said. “Save Yourself and us!”",
+    "reference": "Luke 23:39 (BSB)",
+    "connected_to": "Luke 23:40",
+    "connected_from": "Luke 23:38"
+  },
+  {
+    "text": "But the other one rebuked him, saying, “Do you not even fear God, since you are under the same judgment?",
+    "reference": "Luke 23:40 (BSB)",
+    "connected_to": "Luke 23:41",
+    "connected_from": "Luke 23:39"
+  },
+  {
+    "text": "We are punished justly, for we are receiving what our actions deserve. But this man has done nothing wrong.”",
+    "reference": "Luke 23:41 (BSB)",
+    "connected_to": "Luke 23:42",
+    "connected_from": "Luke 23:40"
+  },
+  {
+    "text": "Then he said, “Jesus, remember me when You come into Your kingdom!”",
+    "reference": "Luke 23:42 (BSB)",
+    "connected_to": "Luke 23:43",
+    "connected_from": "Luke 23:41"
+  },
+  {
+    "text": "And Jesus said to him, “Truly I tell you, today you will be with Me in Paradise.”",
+    "reference": "Luke 23:43 (BSB)",
+    "connected_to": "Luke 23:44",
+    "connected_from": "Luke 23:42"
+  },
+  {
+    "text": "It was now about the sixth hour, and darkness came over all the land until the ninth hour.",
+    "reference": "Luke 23:44 (BSB)",
+    "connected_to": "Luke 23:45",
+    "connected_from": "Luke 23:43"
+  },
+  {
+    "text": "The sun was darkened, and the veil of the temple was torn down the middle.",
+    "reference": "Luke 23:45 (BSB)",
+    "connected_to": "Luke 23:46",
+    "connected_from": "Luke 23:44"
+  },
+  {
+    "text": "Then Jesus called out in a loud voice, “Father, into Your hands I commit My Spirit.” And when He had said this, He breathed His last.",
+    "reference": "Luke 23:46 (BSB)",
+    "connected_to": "Luke 23:47",
+    "connected_from": "Luke 23:45"
+  },
+  {
+    "text": "When the centurion saw what had happened, he gave glory to God, saying, “Surely this was a righteous man.”",
+    "reference": "Luke 23:47 (BSB)",
+    "connected_to": "Luke 23:48",
+    "connected_from": "Luke 23:46"
+  },
+  {
+    "text": "And when all the people who had gathered for this spectacle saw what had happened, they returned home beating their breasts.",
+    "reference": "Luke 23:48 (BSB)",
+    "connected_to": "Luke 23:49",
+    "connected_from": "Luke 23:47"
+  },
+  {
+    "text": "But all those who knew Jesus, including the women who had followed Him from Galilee, stood at a distance watching these things.",
+    "reference": "Luke 23:49 (BSB)",
+    "connected_to": "Luke 23:50",
+    "connected_from": "Luke 23:48"
+  },
+  {
+    "text": "Now there was a Council member named Joseph, a good and righteous man,",
+    "reference": "Luke 23:50 (BSB)",
+    "connected_to": "Luke 23:51",
+    "connected_from": "Luke 23:49"
+  },
+  {
+    "text": "who had not consented to their decision or action. He was from the Judean town of Arimathea and was waiting for the kingdom of God.",
+    "reference": "Luke 23:51 (BSB)",
+    "connected_to": "Luke 23:52",
+    "connected_from": "Luke 23:50"
+  },
+  {
+    "text": "He went to Pilate to ask for the body of Jesus.",
+    "reference": "Luke 23:52 (BSB)",
+    "connected_to": "Luke 23:53",
+    "connected_from": "Luke 23:51"
+  },
+  {
+    "text": "Then he took it down, wrapped it in a linen cloth, and placed it in a tomb cut into the rock, where no one had yet been laid.",
+    "reference": "Luke 23:53 (BSB)",
+    "connected_to": "Luke 23:54",
+    "connected_from": "Luke 23:52"
+  },
+  {
+    "text": "It was Preparation Day, and the Sabbath was beginning.",
+    "reference": "Luke 23:54 (BSB)",
+    "connected_to": "Luke 23:55",
+    "connected_from": "Luke 23:53"
+  },
+  {
+    "text": "The women who had come with Jesus from Galilee followed, and they saw the tomb and how His body was placed.",
+    "reference": "Luke 23:55 (BSB)",
+    "connected_from": "Luke 23:54"
+  },
+  {
+    "text": "Then they returned to prepare spices and perfumes. And they rested on the Sabbath, according to the commandment.",
+    "reference": "Luke 23:56 (BSB)",
+    "connected_from": "Luke 23:55"
+  }
+]

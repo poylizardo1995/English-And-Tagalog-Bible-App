@@ -1,0 +1,72 @@
+[
+  {
+    "text": "YHWH reigns, let the earth rejoice, let the many shores be glad!",
+    "reference": "Psalm 97:1 (BLB)",
+    "connected_to": "Psalm 97:2"
+  },
+  {
+    "text": "Cloud and darkness surround Him; righteousness and justice [are] the foundation of His throne.",
+    "reference": "Psalm 97:2 (BLB)",
+    "connected_to": "Psalm 97:3",
+    "connected_from": "Psalm 97:1"
+  },
+  {
+    "text": "A fire goes out before His face, and burns up His adversaries round about.",
+    "reference": "Psalm 97:3 (BLB)",
+    "connected_to": "Psalm 97:4",
+    "connected_from": "Psalm 97:2"
+  },
+  {
+    "text": "His lightnings give light [to] the world; the earth sees, and trembles.",
+    "reference": "Psalm 97:4 (BLB)",
+    "connected_to": "Psalm 97:5",
+    "connected_from": "Psalm 97:3"
+  },
+  {
+    "text": "The mountains are melted like wax from before the face of YHWH, from before the face of the Lord of all the earth.",
+    "reference": "Psalm 97:5 (BLB)",
+    "connected_to": "Psalm 97:6",
+    "connected_from": "Psalm 97:4"
+  },
+  {
+    "text": "The heavens declare His righteousness, and all the peoples see His glory.",
+    "reference": "Psalm 97:6 (BLB)",
+    "connected_to": "Psalm 97:7",
+    "connected_from": "Psalm 97:5"
+  },
+  {
+    "text": "Let all those serving a carved image be put to shame, those boasting in idols! Bow down to Him, all gods!",
+    "reference": "Psalm 97:7 (BLB)",
+    "connected_to": "Psalm 97:8",
+    "connected_from": "Psalm 97:6"
+  },
+  {
+    "text": "Zion hears and is glad; the daughters of Judah rejoice, because of Your judgments, O YHWH.",
+    "reference": "Psalm 97:8 (BLB)",
+    "connected_to": "Psalm 97:9",
+    "connected_from": "Psalm 97:7"
+  },
+  {
+    "text": "For You, O YHWH-Elyon, [are] over all the earth; greatly are You exalted over all gods.",
+    "reference": "Psalm 97:9 (BLB)",
+    "connected_to": "Psalm 97:10",
+    "connected_from": "Psalm 97:8"
+  },
+  {
+    "text": "O lovers of YHWH, hate evil; He preserves the souls of His holy ones; from the hand of the wicked He delivers them.",
+    "reference": "Psalm 97:10 (BLB)",
+    "connected_to": "Psalm 97:11",
+    "connected_from": "Psalm 97:9"
+  },
+  {
+    "text": "Light shines on the righteous, and gladness for the upright of heart.",
+    "reference": "Psalm 97:11 (BLB)",
+    "connected_to": "Psalm 97:12",
+    "connected_from": "Psalm 97:10"
+  },
+  {
+    "text": "Be glad, O righteous ones, in YHWH, and give thanks at the remembrance of His holiness!",
+    "reference": "Psalm 97:12 (BLB)",
+    "connected_from": "Psalm 97:11"
+  }
+]

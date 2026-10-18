@@ -1,0 +1,132 @@
+[
+  {
+    "text": "Then Job, answering, said:",
+    "reference": "Job 16:1 (CPDV)",
+    "connected_to": "Job 16:2"
+  },
+  {
+    "text": "I have often heard such things; you are all aggravating comforters.",
+    "reference": "Job 16:2 (CPDV)",
+    "connected_to": "Job 16:3",
+    "connected_from": "Job 16:1"
+  },
+  {
+    "text": "Will there be no end to windy words? Or is it at all a burden to you, if you speak?",
+    "reference": "Job 16:3 (CPDV)",
+    "connected_to": "Job 16:4",
+    "connected_from": "Job 16:2"
+  },
+  {
+    "text": "I, too, can speak like you; and I also wish that your soul favored my soul. I would also comfort you with speeches and would wag my head over you.",
+    "reference": "Job 16:4 (CPDV)",
+    "connected_to": "Job 16:5",
+    "connected_from": "Job 16:3"
+  },
+  {
+    "text": "I would strengthen you with my mouth, and would move my lips, as if being lenient to you.",
+    "reference": "Job 16:5 (CPDV)",
+    "connected_to": "Job 16:6",
+    "connected_from": "Job 16:4"
+  },
+  {
+    "text": "But what can I do? When I am speaking, my grief will not be quiet; and if I am quiet, it will not withdraw from me.",
+    "reference": "Job 16:6 (CPDV)",
+    "connected_to": "Job 16:7",
+    "connected_from": "Job 16:5"
+  },
+  {
+    "text": "But now my grief has crushed me, and all my limbs have been reduced to nothing.",
+    "reference": "Job 16:7 (CPDV)",
+    "connected_to": "Job 16:8",
+    "connected_from": "Job 16:6"
+  },
+  {
+    "text": "My wrinkles bear witness against me, and a liar rises up against my face, contradicting me.",
+    "reference": "Job 16:8 (CPDV)",
+    "connected_to": "Job 16:9",
+    "connected_from": "Job 16:7"
+  },
+  {
+    "text": "He has gathered together his fury towards me, and, threatening me, he has roared against me with his teeth; my enemy has beheld me with terrible eyes.",
+    "reference": "Job 16:9 (CPDV)",
+    "connected_to": "Job 16:10",
+    "connected_from": "Job 16:8"
+  },
+  {
+    "text": "They have opened their mouths against me, and, reproaching me, they have struck me on the cheek; they are nourished by my sufferings.",
+    "reference": "Job 16:10 (CPDV)",
+    "connected_to": "Job 16:11",
+    "connected_from": "Job 16:9"
+  },
+  {
+    "text": "God has confined me with the immoral, and he has delivered me into the hands of the impious.",
+    "reference": "Job 16:11 (CPDV)",
+    "connected_to": "Job 16:12",
+    "connected_from": "Job 16:10"
+  },
+  {
+    "text": "I, who once was wealthy, am now crushed. He has grabbed me by my neck; he has broken me and has place me before him as a sign.",
+    "reference": "Job 16:12 (CPDV)",
+    "connected_to": "Job 16:13",
+    "connected_from": "Job 16:11"
+  },
+  {
+    "text": "He has surrounded me with his lances. He has severely wounded my lower back, he has not been lenient, and he has poured out my organs upon the earth.",
+    "reference": "Job 16:13 (CPDV)",
+    "connected_to": "Job 16:14",
+    "connected_from": "Job 16:12"
+  },
+  {
+    "text": "He has cut me with wound after wound. He has rushed upon me like a giant.",
+    "reference": "Job 16:14 (CPDV)",
+    "connected_to": "Job 16:15",
+    "connected_from": "Job 16:13"
+  },
+  {
+    "text": "I have sewn sackcloth over my skin, and I have covered my body with ashes.",
+    "reference": "Job 16:15 (CPDV)",
+    "connected_to": "Job 16:16",
+    "connected_from": "Job 16:14"
+  },
+  {
+    "text": "My face is swollen from weeping, and my eyelids have dimmed my vision.",
+    "reference": "Job 16:16 (CPDV)",
+    "connected_to": "Job 16:17",
+    "connected_from": "Job 16:15"
+  },
+  {
+    "text": "These things I have endured without iniquity in my hand, while I held pure prayers before God.",
+    "reference": "Job 16:17 (CPDV)",
+    "connected_to": "Job 16:18",
+    "connected_from": "Job 16:16"
+  },
+  {
+    "text": "O earth, do not conceal my blood, nor let my outcry find a hiding place in you.",
+    "reference": "Job 16:18 (CPDV)",
+    "connected_to": "Job 16:19",
+    "connected_from": "Job 16:17"
+  },
+  {
+    "text": "For behold, my witness is in heaven, and my confidante is on high.",
+    "reference": "Job 16:19 (CPDV)",
+    "connected_to": "Job 16:20",
+    "connected_from": "Job 16:18"
+  },
+  {
+    "text": "My friends are full of words; my eye rains tears upon God.",
+    "reference": "Job 16:20 (CPDV)",
+    "connected_to": "Job 16:21",
+    "connected_from": "Job 16:19"
+  },
+  {
+    "text": "And I wish that a man might be so judged before God, just as the son of man is judged with his assistant!",
+    "reference": "Job 16:21 (CPDV)",
+    "connected_to": "Job 16:22",
+    "connected_from": "Job 16:20"
+  },
+  {
+    "text": "For behold, a few years pass by, and I am walking a path by which I will not return.",
+    "reference": "Job 16:22 (CPDV)",
+    "connected_from": "Job 16:21"
+  }
+]

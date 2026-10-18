@@ -1,0 +1,329 @@
+[
+  {
+    "text": "And the whole company of them rose up, and brought him before Pilate.",
+    "reference": "Luke 23:1 (ERV)",
+    "connected_to": "Luke 23:2"
+  },
+  {
+    "text": "And they began to accuse him, saying, We found this man perverting our nation, and forbidding to give tribute to Caesar, and saying that he himself is Christ a king.",
+    "reference": "Luke 23:2 (ERV)",
+    "connected_to": "Luke 23:3",
+    "connected_from": "Luke 23:1"
+  },
+  {
+    "text": "And Pilate asked him, saying, Art thou the King of the Jews? And he answered him and said, Thou sayest.",
+    "reference": "Luke 23:3 (ERV)",
+    "connected_to": "Luke 23:4",
+    "connected_from": "Luke 23:2"
+  },
+  {
+    "text": "And Pilate said unto the chief priests and the multitudes, I find no fault in this man.",
+    "reference": "Luke 23:4 (ERV)",
+    "connected_to": "Luke 23:5",
+    "connected_from": "Luke 23:3"
+  },
+  {
+    "text": "But they were the more urgent, saying, He stirreth up the people, teaching throughout all Judaea, and beginning from Galilee even unto this place.",
+    "reference": "Luke 23:5 (ERV)",
+    "connected_to": "Luke 23:6",
+    "connected_from": "Luke 23:4"
+  },
+  {
+    "text": "But when Pilate heard it, he asked whether the man were a Galilaean.",
+    "reference": "Luke 23:6 (ERV)",
+    "connected_to": "Luke 23:7",
+    "connected_from": "Luke 23:5"
+  },
+  {
+    "text": "And when he knew that he was of Herod’s jurisdiction, he sent him unto Herod, who himself also was at Jerusalem in these days.",
+    "reference": "Luke 23:7 (ERV)",
+    "connected_to": "Luke 23:8",
+    "connected_from": "Luke 23:6"
+  },
+  {
+    "text": "Now when Herod saw Jesus, he was exceeding glad: for he was of a long time desirous to see him, because he had heard concerning him; and he hoped to see some miracle done by him.",
+    "reference": "Luke 23:8 (ERV)",
+    "connected_to": "Luke 23:9",
+    "connected_from": "Luke 23:7"
+  },
+  {
+    "text": "And he questioned him in many words; but he answered him nothing.",
+    "reference": "Luke 23:9 (ERV)",
+    "connected_to": "Luke 23:10",
+    "connected_from": "Luke 23:8"
+  },
+  {
+    "text": "And the chief priests and the scribes stood, vehemently accusing him.",
+    "reference": "Luke 23:10 (ERV)",
+    "connected_to": "Luke 23:11",
+    "connected_from": "Luke 23:9"
+  },
+  {
+    "text": "And Herod with his soldiers set him at nought, and mocked him, and arraying him in gorgeous apparel sent him back to Pilate.",
+    "reference": "Luke 23:11 (ERV)",
+    "connected_to": "Luke 23:12",
+    "connected_from": "Luke 23:10"
+  },
+  {
+    "text": "And Herod and Pilate became friends with each other that very day: for before they were at enmity between themselves.",
+    "reference": "Luke 23:12 (ERV)",
+    "connected_to": "Luke 23:13",
+    "connected_from": "Luke 23:11"
+  },
+  {
+    "text": "And Pilate called together the chief priests and the rulers and the people,",
+    "reference": "Luke 23:13 (ERV)",
+    "connected_to": "Luke 23:14",
+    "connected_from": "Luke 23:12"
+  },
+  {
+    "text": "and said unto them, Ye brought unto me this man, as one that perverteth the people: and behold, I, having examined him before you, found no fault in this man touching those things whereof ye accuse him:",
+    "reference": "Luke 23:14 (ERV)",
+    "connected_to": "Luke 23:15",
+    "connected_from": "Luke 23:13"
+  },
+  {
+    "text": "no, nor yet Herod: for he sent him back unto us; and behold, nothing worthy of death hath been done by him.",
+    "reference": "Luke 23:15 (ERV)",
+    "connected_to": "Luke 23:16",
+    "connected_from": "Luke 23:14"
+  },
+  {
+    "text": "I will therefore chastise him, and release him.",
+    "reference": "Luke 23:16 (ERV)",
+    "connected_to": "Luke 23:17",
+    "connected_from": "Luke 23:15"
+  },
+  {
+    "text": "But they cried out all together, saying, Away with this man, and release unto us Barabbas:",
+    "reference": "Luke 23:18 (ERV)",
+    "connected_to": "Luke 23:19",
+    "connected_from": "Luke 23:17"
+  },
+  {
+    "text": "one who for a certain insurrection made in the city, and for murder, was cast into prison.",
+    "reference": "Luke 23:19 (ERV)",
+    "connected_to": "Luke 23:20",
+    "connected_from": "Luke 23:18"
+  },
+  {
+    "text": "And Pilate spake unto them again, desiring to release Jesus;",
+    "reference": "Luke 23:20 (ERV)",
+    "connected_to": "Luke 23:21",
+    "connected_from": "Luke 23:19"
+  },
+  {
+    "text": "but they shouted, saying, Crucify, crucify him.",
+    "reference": "Luke 23:21 (ERV)",
+    "connected_to": "Luke 23:22",
+    "connected_from": "Luke 23:20"
+  },
+  {
+    "text": "And he said unto them the third time, Why, what evil hath this man done? I have found no cause of death in him: I will therefore chastise him and release him.",
+    "reference": "Luke 23:22 (ERV)",
+    "connected_to": "Luke 23:23",
+    "connected_from": "Luke 23:21"
+  },
+  {
+    "text": "But they were instant with loud voices, asking that he might be crucified. And their voices prevailed.",
+    "reference": "Luke 23:23 (ERV)",
+    "connected_to": "Luke 23:24",
+    "connected_from": "Luke 23:22"
+  },
+  {
+    "text": "And Pilate gave sentence that what they asked for should be done.",
+    "reference": "Luke 23:24 (ERV)",
+    "connected_to": "Luke 23:25",
+    "connected_from": "Luke 23:23"
+  },
+  {
+    "text": "And he released him that for insurrection and murder had been cast into prison, whom they asked for; but Jesus he delivered up to their will.",
+    "reference": "Luke 23:25 (ERV)",
+    "connected_to": "Luke 23:26",
+    "connected_from": "Luke 23:24"
+  },
+  {
+    "text": "And when they led him away, they laid hold upon one Simon of Cyrene, coming from the country, and laid on him the cross, to bear it after Jesus.",
+    "reference": "Luke 23:26 (ERV)",
+    "connected_to": "Luke 23:27",
+    "connected_from": "Luke 23:25"
+  },
+  {
+    "text": "And there followed him a great multitude of the people, and of women who bewailed and lamented him.",
+    "reference": "Luke 23:27 (ERV)",
+    "connected_to": "Luke 23:28",
+    "connected_from": "Luke 23:26"
+  },
+  {
+    "text": "But Jesus turning unto them said, Daughters of Jerusalem, weep not for me, but weep for yourselves, and for your children.",
+    "reference": "Luke 23:28 (ERV)",
+    "connected_to": "Luke 23:29",
+    "connected_from": "Luke 23:27"
+  },
+  {
+    "text": "For behold, the days are coming, in which they shall say, Blessed are the barren, and the wombs that never bare, and the breasts that never gave suck.",
+    "reference": "Luke 23:29 (ERV)",
+    "connected_to": "Luke 23:30",
+    "connected_from": "Luke 23:28"
+  },
+  {
+    "text": "Then shall they begin to say to the mountains, Fall on us; and to the hills, Cover us.",
+    "reference": "Luke 23:30 (ERV)",
+    "connected_to": "Luke 23:31",
+    "connected_from": "Luke 23:29"
+  },
+  {
+    "text": "For if they do these things in the green tree, what shall be done in the dry?",
+    "reference": "Luke 23:31 (ERV)",
+    "connected_to": "Luke 23:32",
+    "connected_from": "Luke 23:30"
+  },
+  {
+    "text": "And there were also two others, malefactors, led with him to be put to death.",
+    "reference": "Luke 23:32 (ERV)",
+    "connected_to": "Luke 23:33",
+    "connected_from": "Luke 23:31"
+  },
+  {
+    "text": "And when they came unto the place which is called The skull, there they crucified him, and the malefactors, one on the right hand and the other on the left.",
+    "reference": "Luke 23:33 (ERV)",
+    "connected_to": "Luke 23:34",
+    "connected_from": "Luke 23:32"
+  },
+  {
+    "text": "And Jesus said, Father, forgive them; for they know not what they do. And parting his garments among them, they cast lots.",
+    "reference": "Luke 23:34 (ERV)",
+    "connected_to": "Luke 23:35",
+    "connected_from": "Luke 23:33"
+  },
+  {
+    "text": "And the people stood beholding. And the rulers also scoffed at him, saying, He saved others; let him save himself, if this is the Christ of God, his chosen.",
+    "reference": "Luke 23:35 (ERV)",
+    "connected_to": "Luke 23:36",
+    "connected_from": "Luke 23:34"
+  },
+  {
+    "text": "And the soldiers also mocked him, coming to him, offering him vinegar,",
+    "reference": "Luke 23:36 (ERV)",
+    "connected_to": "Luke 23:37",
+    "connected_from": "Luke 23:35"
+  },
+  {
+    "text": "and saying, If thou art the King of the Jews, save thyself.",
+    "reference": "Luke 23:37 (ERV)",
+    "connected_to": "Luke 23:38",
+    "connected_from": "Luke 23:36"
+  },
+  {
+    "text": "And there was also a superscription over him, THIS IS THE KING OF THE JEWS.",
+    "reference": "Luke 23:38 (ERV)",
+    "connected_to": "Luke 23:39",
+    "connected_from": "Luke 23:37"
+  },
+  {
+    "text": "And one of the malefactors which were hanged railed on him, saying, Art not thou the Christ? save thyself and us.",
+    "reference": "Luke 23:39 (ERV)",
+    "connected_to": "Luke 23:40",
+    "connected_from": "Luke 23:38"
+  },
+  {
+    "text": "But the other answered, and rebuking him said, Dost thou not even fear God, seeing thou art in the same condemnation?",
+    "reference": "Luke 23:40 (ERV)",
+    "connected_to": "Luke 23:41",
+    "connected_from": "Luke 23:39"
+  },
+  {
+    "text": "And we indeed justly; for we receive the due reward of our deeds: but this man hath done nothing amiss.",
+    "reference": "Luke 23:41 (ERV)",
+    "connected_to": "Luke 23:42",
+    "connected_from": "Luke 23:40"
+  },
+  {
+    "text": "And he said, Jesus, remember me when thou comest in thy kingdom.",
+    "reference": "Luke 23:42 (ERV)",
+    "connected_to": "Luke 23:43",
+    "connected_from": "Luke 23:41"
+  },
+  {
+    "text": "And he said unto him, Verily I say unto thee, Today shalt thou be with me in Paradise.",
+    "reference": "Luke 23:43 (ERV)",
+    "connected_to": "Luke 23:44",
+    "connected_from": "Luke 23:42"
+  },
+  {
+    "text": "And it was now about the sixth hour, and a darkness came over the whole land until the ninth hour,",
+    "reference": "Luke 23:44 (ERV)",
+    "connected_to": "Luke 23:45",
+    "connected_from": "Luke 23:43"
+  },
+  {
+    "text": "the sun’s light failing: and the veil of the temple was rent in the midst.",
+    "reference": "Luke 23:45 (ERV)",
+    "connected_to": "Luke 23:46",
+    "connected_from": "Luke 23:44"
+  },
+  {
+    "text": "And when Jesus had cried with a loud voice, he said, Father, into thy hands I commend my spirit: and having said this, he gave up the ghost.",
+    "reference": "Luke 23:46 (ERV)",
+    "connected_to": "Luke 23:47",
+    "connected_from": "Luke 23:45"
+  },
+  {
+    "text": "And when the centurion saw what was done, he glorified God, saying, Certainly this was a righteous man.",
+    "reference": "Luke 23:47 (ERV)",
+    "connected_to": "Luke 23:48",
+    "connected_from": "Luke 23:46"
+  },
+  {
+    "text": "And all the multitudes that came together to this sight, when they beheld the things that were done, returned smiting their breasts.",
+    "reference": "Luke 23:48 (ERV)",
+    "connected_to": "Luke 23:49",
+    "connected_from": "Luke 23:47"
+  },
+  {
+    "text": "And all his acquaintance, and the women that followed with him from Galilee, stood afar off, seeing these things.",
+    "reference": "Luke 23:49 (ERV)",
+    "connected_to": "Luke 23:50",
+    "connected_from": "Luke 23:48"
+  },
+  {
+    "text": "And behold, a man named Joseph, who was a councillor, a good man and a righteous",
+    "reference": "Luke 23:50 (ERV)",
+    "connected_to": "Luke 23:51",
+    "connected_from": "Luke 23:49"
+  },
+  {
+    "text": "(he had not consented to their counsel and deed), a man of Arimathaea, a city of the Jews, who was looking for the kingdom of God:",
+    "reference": "Luke 23:51 (ERV)",
+    "connected_to": "Luke 23:52",
+    "connected_from": "Luke 23:50"
+  },
+  {
+    "text": "this man went to Pilate, and asked for the body of Jesus.",
+    "reference": "Luke 23:52 (ERV)",
+    "connected_to": "Luke 23:53",
+    "connected_from": "Luke 23:51"
+  },
+  {
+    "text": "And he took it down, and wrapped it in a linen cloth, and laid him in a tomb that was hewn in stone, where never man had yet lain.",
+    "reference": "Luke 23:53 (ERV)",
+    "connected_to": "Luke 23:54",
+    "connected_from": "Luke 23:52"
+  },
+  {
+    "text": "And it was the day of the Preparation, and the sabbath drew on.",
+    "reference": "Luke 23:54 (ERV)",
+    "connected_to": "Luke 23:55",
+    "connected_from": "Luke 23:53"
+  },
+  {
+    "text": "And the women, which had come with him out of Galilee, followed after, and beheld the tomb, and how his body was laid.",
+    "reference": "Luke 23:55 (ERV)",
+    "connected_from": "Luke 23:54"
+  },
+  {
+    "text": "And they returned, and prepared spices and ointments. And on the sabbath they rested according to the commandment.",
+    "reference": "Luke 23:56 (ERV)",
+    "connected_from": "Luke 23:55"
+  }
+]

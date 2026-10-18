@@ -1,0 +1,276 @@
+[
+  {
+    "text": "And responding, Jesus again spoke to them in parables, saying:",
+    "reference": "Matthew 22:1 (CPDV)",
+    "connected_to": "Matthew 22:2"
+  },
+  {
+    "text": "“The kingdom of heaven is like a man who was king, who celebrated a wedding for his son.",
+    "reference": "Matthew 22:2 (CPDV)",
+    "connected_to": "Matthew 22:3",
+    "connected_from": "Matthew 22:1"
+  },
+  {
+    "text": "And he sent his servants to call those who were invited to the wedding. But they were not willing to come.",
+    "reference": "Matthew 22:3 (CPDV)",
+    "connected_to": "Matthew 22:4",
+    "connected_from": "Matthew 22:2"
+  },
+  {
+    "text": "Again, he sent other servants, saying, ‘Tell the invited: Behold, I have prepared my meal. My bulls and fatlings have been killed, and all is ready. Come to the wedding.’",
+    "reference": "Matthew 22:4 (CPDV)",
+    "connected_to": "Matthew 22:5",
+    "connected_from": "Matthew 22:3"
+  },
+  {
+    "text": "But they ignored this and they went away: one to his country estate, and another to his business.",
+    "reference": "Matthew 22:5 (CPDV)",
+    "connected_to": "Matthew 22:6",
+    "connected_from": "Matthew 22:4"
+  },
+  {
+    "text": "Yet truly, the rest took hold of his servants and, having treated them with contempt, killed them.",
+    "reference": "Matthew 22:6 (CPDV)",
+    "connected_to": "Matthew 22:7",
+    "connected_from": "Matthew 22:5"
+  },
+  {
+    "text": "But when the king heard this, he was angry. And sending out his armies, he destroyed those murderers, and he burned their city.",
+    "reference": "Matthew 22:7 (CPDV)",
+    "connected_to": "Matthew 22:8",
+    "connected_from": "Matthew 22:6"
+  },
+  {
+    "text": "Then he said to his servants: ‘The wedding, indeed, has been prepared. But those who were invited were not worthy.",
+    "reference": "Matthew 22:8 (CPDV)",
+    "connected_to": "Matthew 22:9",
+    "connected_from": "Matthew 22:7"
+  },
+  {
+    "text": "Therefore, go out to the ways, and call whomever you will find to the wedding.’",
+    "reference": "Matthew 22:9 (CPDV)",
+    "connected_to": "Matthew 22:10",
+    "connected_from": "Matthew 22:8"
+  },
+  {
+    "text": "And his servants, departing into the ways, gathered all those whom they found, bad and good, and the wedding was filled with guests.",
+    "reference": "Matthew 22:10 (CPDV)",
+    "connected_to": "Matthew 22:11",
+    "connected_from": "Matthew 22:9"
+  },
+  {
+    "text": "Then the king entered to see the guests. And he saw a man there who was not clothed in a wedding garment.",
+    "reference": "Matthew 22:11 (CPDV)",
+    "connected_to": "Matthew 22:12",
+    "connected_from": "Matthew 22:10"
+  },
+  {
+    "text": "And he said to him, ‘Friend, how is it that you have entered here without having a wedding garment?’ But he was dumbstruck.",
+    "reference": "Matthew 22:12 (CPDV)",
+    "connected_to": "Matthew 22:13",
+    "connected_from": "Matthew 22:11"
+  },
+  {
+    "text": "Then the king said to the ministers: ‘Bind his hands and feet, and cast him into the outer darkness, where there will be weeping and gnashing of teeth.",
+    "reference": "Matthew 22:13 (CPDV)",
+    "connected_to": "Matthew 22:14",
+    "connected_from": "Matthew 22:12"
+  },
+  {
+    "text": "For many are called, but few are chosen.’ ”",
+    "reference": "Matthew 22:14 (CPDV)",
+    "connected_to": "Matthew 22:15",
+    "connected_from": "Matthew 22:13"
+  },
+  {
+    "text": "Then the Pharisees, going out, took counsel as to how they might entrap him in speech.",
+    "reference": "Matthew 22:15 (CPDV)",
+    "connected_to": "Matthew 22:16",
+    "connected_from": "Matthew 22:14"
+  },
+  {
+    "text": "And they sent their disciples to him, with the Herodians, saying: “Teacher, we know that you are truthful, and that you teach the way of God in truth, and that the influence of others is nothing to you. For you do not consider the reputation of men.",
+    "reference": "Matthew 22:16 (CPDV)",
+    "connected_to": "Matthew 22:17",
+    "connected_from": "Matthew 22:15"
+  },
+  {
+    "text": "Therefore, tell us, how does it seem to you? Is it lawful to pay the census tax to Caesar, or not?”",
+    "reference": "Matthew 22:17 (CPDV)",
+    "connected_to": "Matthew 22:18",
+    "connected_from": "Matthew 22:16"
+  },
+  {
+    "text": "But Jesus, knowing their wickedness, said: “Why do you test me, you hypocrites?",
+    "reference": "Matthew 22:18 (CPDV)",
+    "connected_to": "Matthew 22:19",
+    "connected_from": "Matthew 22:17"
+  },
+  {
+    "text": "Show me the coin of the census tax.” And they offered him a denarius.",
+    "reference": "Matthew 22:19 (CPDV)",
+    "connected_to": "Matthew 22:20",
+    "connected_from": "Matthew 22:18"
+  },
+  {
+    "text": "And Jesus said to them, “Whose image is this, and whose inscription?”",
+    "reference": "Matthew 22:20 (CPDV)",
+    "connected_to": "Matthew 22:21",
+    "connected_from": "Matthew 22:19"
+  },
+  {
+    "text": "They said to him, “Caesar’s.” Then he said to them, “Then render to Caesar what is of Caesar; and to God what is of God.”",
+    "reference": "Matthew 22:21 (CPDV)",
+    "connected_to": "Matthew 22:22",
+    "connected_from": "Matthew 22:20"
+  },
+  {
+    "text": "And hearing this, they wondered. And having left him behind, they went away.",
+    "reference": "Matthew 22:22 (CPDV)",
+    "connected_to": "Matthew 22:23",
+    "connected_from": "Matthew 22:21"
+  },
+  {
+    "text": "In that day, the Sadducees, who say there is to be no resurrection, approached him. And they questioned him,",
+    "reference": "Matthew 22:23 (CPDV)",
+    "connected_to": "Matthew 22:24",
+    "connected_from": "Matthew 22:22"
+  },
+  {
+    "text": "saying: “Teacher, Moses said: If anyone will have died, having no son, his brother shall marry his wife, and he shall raise up offspring to his brother.",
+    "reference": "Matthew 22:24 (CPDV)",
+    "connected_to": "Matthew 22:25",
+    "connected_from": "Matthew 22:23"
+  },
+  {
+    "text": "Now there were seven brothers with us. And the first, having taken a wife, died. And having no offspring, he left his wife to his brother:",
+    "reference": "Matthew 22:25 (CPDV)",
+    "connected_to": "Matthew 22:26",
+    "connected_from": "Matthew 22:24"
+  },
+  {
+    "text": "similarly with the second, and the third, even to the seventh.",
+    "reference": "Matthew 22:26 (CPDV)",
+    "connected_to": "Matthew 22:27",
+    "connected_from": "Matthew 22:25"
+  },
+  {
+    "text": "And last of all, the woman also passed away.",
+    "reference": "Matthew 22:27 (CPDV)",
+    "connected_to": "Matthew 22:28",
+    "connected_from": "Matthew 22:26"
+  },
+  {
+    "text": "In the resurrection, then, whose wife of the seven will she be? For they all had her.”",
+    "reference": "Matthew 22:28 (CPDV)",
+    "connected_to": "Matthew 22:29",
+    "connected_from": "Matthew 22:27"
+  },
+  {
+    "text": "But Jesus responded to them by saying: “You have gone astray by knowing neither the Scriptures, nor the power of God.",
+    "reference": "Matthew 22:29 (CPDV)",
+    "connected_to": "Matthew 22:30",
+    "connected_from": "Matthew 22:28"
+  },
+  {
+    "text": "For in the resurrection, they shall neither marry, nor be given in marriage. Instead, they shall be like the Angels of God in heaven.",
+    "reference": "Matthew 22:30 (CPDV)",
+    "connected_to": "Matthew 22:31",
+    "connected_from": "Matthew 22:29"
+  },
+  {
+    "text": "But concerning the resurrection of the dead, have you not read what was spoken by God, saying to you:",
+    "reference": "Matthew 22:31 (CPDV)",
+    "connected_to": "Matthew 22:32",
+    "connected_from": "Matthew 22:30"
+  },
+  {
+    "text": "‘I am the God of Abraham, and the God of Isaac, and the God of Jacob?’ He is not the God of the dead, but of the living.”",
+    "reference": "Matthew 22:32 (CPDV)",
+    "connected_to": "Matthew 22:33",
+    "connected_from": "Matthew 22:31"
+  },
+  {
+    "text": "And when the crowds heard this, they wondered at his doctrine.",
+    "reference": "Matthew 22:33 (CPDV)",
+    "connected_to": "Matthew 22:34",
+    "connected_from": "Matthew 22:32"
+  },
+  {
+    "text": "But the Pharisees, hearing that he had caused the Sadducees to be silent, came together as one.",
+    "reference": "Matthew 22:34 (CPDV)",
+    "connected_to": "Matthew 22:35",
+    "connected_from": "Matthew 22:33"
+  },
+  {
+    "text": "And one of them, a doctor of the law, questioned him, to test him:",
+    "reference": "Matthew 22:35 (CPDV)",
+    "connected_to": "Matthew 22:36",
+    "connected_from": "Matthew 22:34"
+  },
+  {
+    "text": "“Teacher, which is the great commandment in the law?”",
+    "reference": "Matthew 22:36 (CPDV)",
+    "connected_to": "Matthew 22:37",
+    "connected_from": "Matthew 22:35"
+  },
+  {
+    "text": "Jesus said to him: “ ‘You shall love the Lord your God from all your heart, and with all your soul and with all your mind.’",
+    "reference": "Matthew 22:37 (CPDV)",
+    "connected_to": "Matthew 22:38",
+    "connected_from": "Matthew 22:36"
+  },
+  {
+    "text": "This is the greatest and first commandment.",
+    "reference": "Matthew 22:38 (CPDV)",
+    "connected_to": "Matthew 22:39",
+    "connected_from": "Matthew 22:37"
+  },
+  {
+    "text": "But the second is similar to it: ‘You shall love your neighbor as yourself.’",
+    "reference": "Matthew 22:39 (CPDV)",
+    "connected_to": "Matthew 22:40",
+    "connected_from": "Matthew 22:38"
+  },
+  {
+    "text": "On these two commandments the entire law depends, and also the prophets.”",
+    "reference": "Matthew 22:40 (CPDV)",
+    "connected_to": "Matthew 22:41",
+    "connected_from": "Matthew 22:39"
+  },
+  {
+    "text": "Then, when the Pharisees were gathered together, Jesus questioned them,",
+    "reference": "Matthew 22:41 (CPDV)",
+    "connected_to": "Matthew 22:42",
+    "connected_from": "Matthew 22:40"
+  },
+  {
+    "text": "saying: “What do you think about the Christ? Whose son is he?” They said to him, “David’s.”",
+    "reference": "Matthew 22:42 (CPDV)",
+    "connected_to": "Matthew 22:43",
+    "connected_from": "Matthew 22:41"
+  },
+  {
+    "text": "He said to them: “Then how can David, in the Spirit, call him Lord, saying:",
+    "reference": "Matthew 22:43 (CPDV)",
+    "connected_to": "Matthew 22:44",
+    "connected_from": "Matthew 22:42"
+  },
+  {
+    "text": "‘The Lord said to my Lord: Sit at my right hand, until I make your enemies your footstool?’",
+    "reference": "Matthew 22:44 (CPDV)",
+    "connected_to": "Matthew 22:45",
+    "connected_from": "Matthew 22:43"
+  },
+  {
+    "text": "So then, if David calls him Lord, how can he be his son?”",
+    "reference": "Matthew 22:45 (CPDV)",
+    "connected_to": "Matthew 22:46",
+    "connected_from": "Matthew 22:44"
+  },
+  {
+    "text": "And no one was able to respond to him a word. And neither did anyone dare, from that day forward, to question him.",
+    "reference": "Matthew 22:46 (CPDV)",
+    "connected_from": "Matthew 22:45"
+  }
+]

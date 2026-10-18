@@ -1,0 +1,90 @@
+[
+  {
+    "text": "And I lifted up mine eyes again, and saw, and behold, there came four chariots out from between two mountains; and the mountains were mountains of brass.",
+    "reference": "Zechariah 6:1 (DBT)",
+    "connected_to": "Zechariah 6:2"
+  },
+  {
+    "text": "In the first chariot were red horses; and in the second chariot black horses;",
+    "reference": "Zechariah 6:2 (DBT)",
+    "connected_to": "Zechariah 6:3",
+    "connected_from": "Zechariah 6:1"
+  },
+  {
+    "text": "and in the third chariot white horses; and in the fourth chariot grisled, strong horses.",
+    "reference": "Zechariah 6:3 (DBT)",
+    "connected_to": "Zechariah 6:4",
+    "connected_from": "Zechariah 6:2"
+  },
+  {
+    "text": "And I spoke and said unto the angel that talked with me, What are these, my lord?",
+    "reference": "Zechariah 6:4 (DBT)",
+    "connected_to": "Zechariah 6:5",
+    "connected_from": "Zechariah 6:3"
+  },
+  {
+    "text": "And the angel answered and said unto me, These are the four spirits of the heavens, which go forth from standing before the Lord of all the earth.",
+    "reference": "Zechariah 6:5 (DBT)",
+    "connected_to": "Zechariah 6:6",
+    "connected_from": "Zechariah 6:4"
+  },
+  {
+    "text": "That in which are the black horses goeth forth into the north country; and the white go forth after them; and the grisled go forth towards the south country;",
+    "reference": "Zechariah 6:6 (DBT)",
+    "connected_to": "Zechariah 6:7",
+    "connected_from": "Zechariah 6:5"
+  },
+  {
+    "text": "and the strong go forth, and seek to go that they may walk to and fro through the earth. And he said, Go, walk to and fro through the earth. And they walked to and fro through the earth.",
+    "reference": "Zechariah 6:7 (DBT)",
+    "connected_to": "Zechariah 6:8",
+    "connected_from": "Zechariah 6:6"
+  },
+  {
+    "text": "And he cried unto me, and spoke unto me, saying, See, these that go forth towards the north country have quieted my spirit in the north country.",
+    "reference": "Zechariah 6:8 (DBT)",
+    "connected_to": "Zechariah 6:9",
+    "connected_from": "Zechariah 6:7"
+  },
+  {
+    "text": "And the word of Jehovah came unto me, saying,",
+    "reference": "Zechariah 6:9 (DBT)",
+    "connected_to": "Zechariah 6:10",
+    "connected_from": "Zechariah 6:8"
+  },
+  {
+    "text": "Take [gifts] of them of the captivity, of Heldai, of Tobijah, and of Jedaiah, and come thou the same day, and enter into the house of Josiah the son of Zephaniah, whither they are come from Babylon;",
+    "reference": "Zechariah 6:10 (DBT)",
+    "connected_to": "Zechariah 6:11",
+    "connected_from": "Zechariah 6:9"
+  },
+  {
+    "text": "yea, take silver and gold, and make crowns, and set [them] upon the head of Joshua the son of Jehozadak, the high priest;",
+    "reference": "Zechariah 6:11 (DBT)",
+    "connected_to": "Zechariah 6:12",
+    "connected_from": "Zechariah 6:10"
+  },
+  {
+    "text": "and speak unto him, saying, Thus speaketh Jehovah of hosts, saying, Behold a man whose name is [the] Branch; and he shall grow up from his own place, and he shall build the temple of Jehovah:",
+    "reference": "Zechariah 6:12 (DBT)",
+    "connected_to": "Zechariah 6:13",
+    "connected_from": "Zechariah 6:11"
+  },
+  {
+    "text": "even he shall build the temple of Jehovah; and he shall bear the glory, and shall sit and rule upon his throne; and he shall be a priest upon his throne; and the counsel of peace shall be between them both.",
+    "reference": "Zechariah 6:13 (DBT)",
+    "connected_to": "Zechariah 6:14",
+    "connected_from": "Zechariah 6:12"
+  },
+  {
+    "text": "And the crowns shall be for Helem, and for Tobijah, and for Jedaiah, and for Hen the son of Zephaniah, for a memorial in the temple of Jehovah.",
+    "reference": "Zechariah 6:14 (DBT)",
+    "connected_to": "Zechariah 6:15",
+    "connected_from": "Zechariah 6:13"
+  },
+  {
+    "text": "And they that are far off shall come and build at the temple of Jehovah: and ye shall know that Jehovah of hosts hath sent me unto you. And [this] shall come to pass, if ye will diligently hearken to the voice of Jehovah your God.",
+    "reference": "Zechariah 6:15 (DBT)",
+    "connected_from": "Zechariah 6:14"
+  }
+]

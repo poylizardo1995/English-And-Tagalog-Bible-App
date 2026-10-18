@@ -1,0 +1,156 @@
+[
+  {
+    "text": "And the Lord spoke all these words:",
+    "reference": "Exodus 20:1 (DRB)",
+    "connected_to": "Exodus 20:2"
+  },
+  {
+    "text": "I am the Lord thy God, who brought thee out of the land of Egypt, out of the house of bondage.",
+    "reference": "Exodus 20:2 (DRB)",
+    "connected_to": "Exodus 20:3",
+    "connected_from": "Exodus 20:1"
+  },
+  {
+    "text": "Thou shalt not have strange gods before me.",
+    "reference": "Exodus 20:3 (DRB)",
+    "connected_to": "Exodus 20:4",
+    "connected_from": "Exodus 20:2"
+  },
+  {
+    "text": "Thou shalt not make to thyself a graven thing, nor the likeness of any thing that is in heaven above, or in the earth beneath, nor of those things that are in the waters under the earth.",
+    "reference": "Exodus 20:4 (DRB)",
+    "connected_to": "Exodus 20:5",
+    "connected_from": "Exodus 20:3"
+  },
+  {
+    "text": "Thou shalt not adore them, nor serve them: I am the Lord thy God, mighty, jealous, visiting the iniquity of the fathers upon the children, unto the third and fourth generation of them that hate me:",
+    "reference": "Exodus 20:5 (DRB)",
+    "connected_to": "Exodus 20:6",
+    "connected_from": "Exodus 20:4"
+  },
+  {
+    "text": "And shewing mercy unto thousands to them that love me, and keep my commandments.",
+    "reference": "Exodus 20:6 (DRB)",
+    "connected_to": "Exodus 20:7",
+    "connected_from": "Exodus 20:5"
+  },
+  {
+    "text": "Thou shalt not take the name of the Lord thy God in vain: for the Lord will not hold him guiltless that shall take the name of the Lord his God in vain.",
+    "reference": "Exodus 20:7 (DRB)",
+    "connected_to": "Exodus 20:8",
+    "connected_from": "Exodus 20:6"
+  },
+  {
+    "text": "Remember that thou keep holy the sabbath day.",
+    "reference": "Exodus 20:8 (DRB)",
+    "connected_to": "Exodus 20:9",
+    "connected_from": "Exodus 20:7"
+  },
+  {
+    "text": "Six days shalt thou labour, and shalt do all thy works.",
+    "reference": "Exodus 20:9 (DRB)",
+    "connected_to": "Exodus 20:10",
+    "connected_from": "Exodus 20:8"
+  },
+  {
+    "text": "But on the seventh day is the sabbath of the Lord thy God: thou shalt do no work on it, thou nor thy son, nor thy daughter, nor thy manservant, nor thy maidservant, nor thy beast, nor the stranger that is within thy gates.",
+    "reference": "Exodus 20:10 (DRB)",
+    "connected_to": "Exodus 20:11",
+    "connected_from": "Exodus 20:9"
+  },
+  {
+    "text": "For in six days the Lord made heaven and earth, and the sea, and all things that are in them, and rested on the seventh day: therefore the Lord blessed the seventh day, and sanctified it.",
+    "reference": "Exodus 20:11 (DRB)",
+    "connected_to": "Exodus 20:12",
+    "connected_from": "Exodus 20:10"
+  },
+  {
+    "text": "Honour thy father and thy mother, that thou mayest be longlived upon the land which the Lord thy God will give thee.",
+    "reference": "Exodus 20:12 (DRB)",
+    "connected_to": "Exodus 20:13",
+    "connected_from": "Exodus 20:11"
+  },
+  {
+    "text": "Thou shalt not kill.",
+    "reference": "Exodus 20:13 (DRB)",
+    "connected_to": "Exodus 20:14",
+    "connected_from": "Exodus 20:12"
+  },
+  {
+    "text": "Thou shalt not commit adultery.",
+    "reference": "Exodus 20:14 (DRB)",
+    "connected_to": "Exodus 20:15",
+    "connected_from": "Exodus 20:13"
+  },
+  {
+    "text": "Thou shalt not steal.",
+    "reference": "Exodus 20:15 (DRB)",
+    "connected_to": "Exodus 20:16",
+    "connected_from": "Exodus 20:14"
+  },
+  {
+    "text": "Thou shalt not bear false witness against thy neighbour.",
+    "reference": "Exodus 20:16 (DRB)",
+    "connected_to": "Exodus 20:17",
+    "connected_from": "Exodus 20:15"
+  },
+  {
+    "text": "Thou shalt not covet thy neighbour’s house: neither shalt thou desire his wife, nor his servant, nor his handmaid, nor his ox, nor his ass, nor any thing that is his.",
+    "reference": "Exodus 20:17 (DRB)",
+    "connected_to": "Exodus 20:18",
+    "connected_from": "Exodus 20:16"
+  },
+  {
+    "text": "And all the people saw the voices and the flames, and the sound of the trumpet, and the mount smoking: and being terrified and struck with fear, they stood afar off,",
+    "reference": "Exodus 20:18 (DRB)",
+    "connected_to": "Exodus 20:19",
+    "connected_from": "Exodus 20:17"
+  },
+  {
+    "text": "Saying to Moses: Speak thou to us, and we will hear: let not the Lord speak to us, lest we die.",
+    "reference": "Exodus 20:19 (DRB)",
+    "connected_to": "Exodus 20:20",
+    "connected_from": "Exodus 20:18"
+  },
+  {
+    "text": "And Moses said to the people: Fear not: for God is come to prove you, and that the dread of him might be in you, and you should not sin.",
+    "reference": "Exodus 20:20 (DRB)",
+    "connected_to": "Exodus 20:21",
+    "connected_from": "Exodus 20:19"
+  },
+  {
+    "text": "And the people stood afar off. But Moses went to the dark cloud wherein God was.",
+    "reference": "Exodus 20:21 (DRB)",
+    "connected_to": "Exodus 20:22",
+    "connected_from": "Exodus 20:20"
+  },
+  {
+    "text": "And the Lord said to Moses: Thus shalt thou say to the children of Israel: You have seen that I have spoken to you from heaven.",
+    "reference": "Exodus 20:22 (DRB)",
+    "connected_to": "Exodus 20:23",
+    "connected_from": "Exodus 20:21"
+  },
+  {
+    "text": "You shall not make gods of silver, nor shall you make to yourselves gods of gold.",
+    "reference": "Exodus 20:23 (DRB)",
+    "connected_to": "Exodus 20:24",
+    "connected_from": "Exodus 20:22"
+  },
+  {
+    "text": "You shall make an altar of earth unto me, and you shall offer upon it your holocausts and peace offerings, your sheep and oxen, in every place where the memory of my name shall be: I will come to thee, and will bless thee.",
+    "reference": "Exodus 20:24 (DRB)",
+    "connected_to": "Exodus 20:25",
+    "connected_from": "Exodus 20:23"
+  },
+  {
+    "text": "And if thou make an altar of stone unto me, thou shalt not build it of hewn stones: for if thou lift up a tool upon it, it shall be defiled.",
+    "reference": "Exodus 20:25 (DRB)",
+    "connected_to": "Exodus 20:26",
+    "connected_from": "Exodus 20:24"
+  },
+  {
+    "text": "Thou shalt not go up by steps unto my altar, lest thy nakedness be discovered.",
+    "reference": "Exodus 20:26 (DRB)",
+    "connected_from": "Exodus 20:25"
+  }
+]

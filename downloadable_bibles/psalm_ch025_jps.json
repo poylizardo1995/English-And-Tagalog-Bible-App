@@ -1,0 +1,132 @@
+[
+  {
+    "text": "[A Psalm] of David.  Unto Thee, O LORD, do I lift up my soul.",
+    "reference": "Psalm 25:1 (JPS)",
+    "connected_to": "Psalm 25:2"
+  },
+  {
+    "text": "O my God, in Thee have I trusted, let me not be ashamed; Let not mine enemies triumph over me.",
+    "reference": "Psalm 25:2 (JPS)",
+    "connected_to": "Psalm 25:3",
+    "connected_from": "Psalm 25:1"
+  },
+  {
+    "text": "Yea, none that wait for Thee shall be ashamed; They shall be ashamed that deal treacherously without cause.",
+    "reference": "Psalm 25:3 (JPS)",
+    "connected_to": "Psalm 25:4",
+    "connected_from": "Psalm 25:2"
+  },
+  {
+    "text": "Show me Thy ways, O LORD; teach me Thy paths.",
+    "reference": "Psalm 25:4 (JPS)",
+    "connected_to": "Psalm 25:5",
+    "connected_from": "Psalm 25:3"
+  },
+  {
+    "text": "Guide me in Thy truth, and teach me; For Thou art the God of my salvation; For Thee do I wait all the day.",
+    "reference": "Psalm 25:5 (JPS)",
+    "connected_to": "Psalm 25:6",
+    "connected_from": "Psalm 25:4"
+  },
+  {
+    "text": "Remember, O LORD, Thy compassions and Thy mercies; For they have been from of old.",
+    "reference": "Psalm 25:6 (JPS)",
+    "connected_to": "Psalm 25:7",
+    "connected_from": "Psalm 25:5"
+  },
+  {
+    "text": "Remember not the sins of my youth, nor my transgressions; According to Thy mercy remember Thou me, For Thy goodness’ sake, O LORD.",
+    "reference": "Psalm 25:7 (JPS)",
+    "connected_to": "Psalm 25:8",
+    "connected_from": "Psalm 25:6"
+  },
+  {
+    "text": "Good and upright is the LORD; Therefore doth He instruct sinners in the way.",
+    "reference": "Psalm 25:8 (JPS)",
+    "connected_to": "Psalm 25:9",
+    "connected_from": "Psalm 25:7"
+  },
+  {
+    "text": "He guideth The humble in justice; And He teacheth the humble His way.",
+    "reference": "Psalm 25:9 (JPS)",
+    "connected_to": "Psalm 25:10",
+    "connected_from": "Psalm 25:8"
+  },
+  {
+    "text": "All the paths of the LORD are mercy and truth Unto such as keep His covenant and His testimonies.",
+    "reference": "Psalm 25:10 (JPS)",
+    "connected_to": "Psalm 25:11",
+    "connected_from": "Psalm 25:9"
+  },
+  {
+    "text": "For Thy name’s sake, O LORD, Pardon mine iniquity, for it is great.",
+    "reference": "Psalm 25:11 (JPS)",
+    "connected_to": "Psalm 25:12",
+    "connected_from": "Psalm 25:10"
+  },
+  {
+    "text": "What man is he that feareth the LORD? Him will He instruct in the way that He should choose.",
+    "reference": "Psalm 25:12 (JPS)",
+    "connected_to": "Psalm 25:13",
+    "connected_from": "Psalm 25:11"
+  },
+  {
+    "text": "His soul shall abide in prosperity; And his seed shall inherit the land.",
+    "reference": "Psalm 25:13 (JPS)",
+    "connected_to": "Psalm 25:14",
+    "connected_from": "Psalm 25:12"
+  },
+  {
+    "text": "The counsel of the LORD is with them that fear Him; And His covenant, to make them know it.",
+    "reference": "Psalm 25:14 (JPS)",
+    "connected_to": "Psalm 25:15",
+    "connected_from": "Psalm 25:13"
+  },
+  {
+    "text": "Mine eyes are ever toward the LORD; For He will bring forth my feet out of the net.",
+    "reference": "Psalm 25:15 (JPS)",
+    "connected_to": "Psalm 25:16",
+    "connected_from": "Psalm 25:14"
+  },
+  {
+    "text": "Turn Thee unto me, and be gracious unto me; For I am solitary and afflicted.",
+    "reference": "Psalm 25:16 (JPS)",
+    "connected_to": "Psalm 25:17",
+    "connected_from": "Psalm 25:15"
+  },
+  {
+    "text": "The troubles of my heart are enlarged; O bring Thou me out of my distresses.",
+    "reference": "Psalm 25:17 (JPS)",
+    "connected_to": "Psalm 25:18",
+    "connected_from": "Psalm 25:16"
+  },
+  {
+    "text": "See mine affliction and my travail; And forgive all my sins.",
+    "reference": "Psalm 25:18 (JPS)",
+    "connected_to": "Psalm 25:19",
+    "connected_from": "Psalm 25:17"
+  },
+  {
+    "text": "Consider how many are mine enemies, And the cruel hatred wherewith they hate me.",
+    "reference": "Psalm 25:19 (JPS)",
+    "connected_to": "Psalm 25:20",
+    "connected_from": "Psalm 25:18"
+  },
+  {
+    "text": "O keep my soul, and deliver me; Let me not be ashamed, for I have taken refuge in Thee.",
+    "reference": "Psalm 25:20 (JPS)",
+    "connected_to": "Psalm 25:21",
+    "connected_from": "Psalm 25:19"
+  },
+  {
+    "text": "Let integrity and uprightness preserve me, Because I wait for Thee.",
+    "reference": "Psalm 25:21 (JPS)",
+    "connected_to": "Psalm 25:22",
+    "connected_from": "Psalm 25:20"
+  },
+  {
+    "text": "Redeem Israel, O God, out of all his troubles.",
+    "reference": "Psalm 25:22 (JPS)",
+    "connected_from": "Psalm 25:21"
+  }
+]

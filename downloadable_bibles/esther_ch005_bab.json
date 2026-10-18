@@ -1,0 +1,84 @@
+[
+  {
+    "text": "On the third day, Esther (star) put on her royal robes and stood in the inner court of the palace across from the king’s quarters. The king was sitting on his royal throne in the royal courtroom, facing the entrance.",
+    "reference": "Esther 5:1 (BAB)",
+    "connected_to": "Esther 5:2"
+  },
+  {
+    "text": "As soon as the king saw Queen Esther (star) standing in the court, she found favor in his sight. The king extended the gold scepter in his hand toward Esther, and she approached and touched the tip of the scepter.",
+    "reference": "Esther 5:2 (BAB)",
+    "connected_to": "Esther 5:3",
+    "connected_from": "Esther 5:1"
+  },
+  {
+    "text": "“What is it, Queen Esther (star)?” the king inquired. “What is your request? Even up to half the kingdom, it will be given to you.”",
+    "reference": "Esther 5:3 (BAB)",
+    "connected_to": "Esther 5:4",
+    "connected_from": "Esther 5:2"
+  },
+  {
+    "text": "“If it pleases the king,” Esther (star) replied, “may the king and Haman (magnificent) come today to the banquet I have prepared for the king.”",
+    "reference": "Esther 5:4 (BAB)",
+    "connected_to": "Esther 5:5",
+    "connected_from": "Esther 5:3"
+  },
+  {
+    "text": "“Hurry,” commanded the king, “and bring Haman (magnificent), so we can do as Esther (star) has requested.” So the king and Haman went to the banquet that Esther had prepared.",
+    "reference": "Esther 5:5 (BAB)",
+    "connected_to": "Esther 5:6",
+    "connected_from": "Esther 5:4"
+  },
+  {
+    "text": "And as they drank their wine, the king said to Esther (star), “What is your petition? It will be given to you. What is your request? Even up to half the kingdom, it will be fulfilled.”",
+    "reference": "Esther 5:6 (BAB)",
+    "connected_to": "Esther 5:7",
+    "connected_from": "Esther 5:5"
+  },
+  {
+    "text": "Esther (star) replied, “This is my petition and my request:",
+    "reference": "Esther 5:7 (BAB)",
+    "connected_to": "Esther 5:8",
+    "connected_from": "Esther 5:6"
+  },
+  {
+    "text": "If I have found favor in the sight of the king, and if it pleases the king to grant my petition and fulfill my request, may the king and Haman (magnificent) come tomorrow to the banquet I will prepare for them. Then I will answer the king’s question.”",
+    "reference": "Esther 5:8 (BAB)",
+    "connected_to": "Esther 5:9",
+    "connected_from": "Esther 5:7"
+  },
+  {
+    "text": "That day Haman (magnificent) went out full of joy and glad of heart. At the king’s gate, however, he saw Mordecai (little man), who did not rise or tremble in fear at his presence. And Haman was filled with rage toward Mordecai.",
+    "reference": "Esther 5:9 (BAB)",
+    "connected_to": "Esther 5:10",
+    "connected_from": "Esther 5:8"
+  },
+  {
+    "text": "Nevertheless, Haman (magnificent) restrained himself and went home. And calling for his friends and his wife Zeresh (gold),",
+    "reference": "Esther 5:10 (BAB)",
+    "connected_to": "Esther 5:11",
+    "connected_from": "Esther 5:9"
+  },
+  {
+    "text": "Haman (magnificent) recounted to them his glorious wealth, his many sons, and all the ways the king had honored and promoted him over the other officials and servants.",
+    "reference": "Esther 5:11 (BAB)",
+    "connected_to": "Esther 5:12",
+    "connected_from": "Esther 5:10"
+  },
+  {
+    "text": "“What is more,” Haman (magnificent) added, “Queen Esther (star) invited no one but me to join the king at the banquet she prepared, and I am invited back tomorrow along with the king.",
+    "reference": "Esther 5:12 (BAB)",
+    "connected_to": "Esther 5:13",
+    "connected_from": "Esther 5:11"
+  },
+  {
+    "text": "Yet none of this satisfies me as long as I see Mordecai (little man) the Jew sitting at the king’s gate.”",
+    "reference": "Esther 5:13 (BAB)",
+    "connected_to": "Esther 5:14",
+    "connected_from": "Esther 5:12"
+  },
+  {
+    "text": "His wife Zeresh (gold) and all his friends told him, “Have them build a gallows fifty cubits high <75 ft / 22.9 m>, and ask the king in the morning to have Mordecai (little man) hanged on it. Then go to the banquet with the king and enjoy yourself.” The advice pleased Haman (magnificent), and he had the gallows constructed.",
+    "reference": "Esther 5:14 (BAB)",
+    "connected_from": "Esther 5:13"
+  }
+]

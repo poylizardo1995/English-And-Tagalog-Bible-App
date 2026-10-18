@@ -1,0 +1,156 @@
+[
+  {
+    "text": "After this, Job opened his mouth and cursed his day,",
+    "reference": "Job 3:1 (CPDV)",
+    "connected_to": "Job 3:2"
+  },
+  {
+    "text": "and this is what he said:",
+    "reference": "Job 3:2 (CPDV)",
+    "connected_to": "Job 3:3",
+    "connected_from": "Job 3:1"
+  },
+  {
+    "text": "May the day perish on which I was born, and the night, in which it was said, “A man has been conceived.”",
+    "reference": "Job 3:3 (CPDV)",
+    "connected_to": "Job 3:4",
+    "connected_from": "Job 3:2"
+  },
+  {
+    "text": "May that day be turned into darkness, may God not seek it from above, and may light not illuminate it.",
+    "reference": "Job 3:4 (CPDV)",
+    "connected_to": "Job 3:5",
+    "connected_from": "Job 3:3"
+  },
+  {
+    "text": "Let darkness and the shadow of death obscure it, let a fog overtake it, and let it be enveloped in bitterness.",
+    "reference": "Job 3:5 (CPDV)",
+    "connected_to": "Job 3:6",
+    "connected_from": "Job 3:4"
+  },
+  {
+    "text": "Let a whirlwind of darkness take hold of that night, let it not be counted in the days of the year, nor numbered in the months.",
+    "reference": "Job 3:6 (CPDV)",
+    "connected_to": "Job 3:7",
+    "connected_from": "Job 3:5"
+  },
+  {
+    "text": "May that night be alone and unworthy of praise.",
+    "reference": "Job 3:7 (CPDV)",
+    "connected_to": "Job 3:8",
+    "connected_from": "Job 3:6"
+  },
+  {
+    "text": "May they curse it, who curse the day, who are prepared to awaken a leviathan.",
+    "reference": "Job 3:8 (CPDV)",
+    "connected_to": "Job 3:9",
+    "connected_from": "Job 3:7"
+  },
+  {
+    "text": "Let the stars be concealed with its darkness. Let it expect light, and not see it, nor the rising of the dawn in the East.",
+    "reference": "Job 3:9 (CPDV)",
+    "connected_to": "Job 3:10",
+    "connected_from": "Job 3:8"
+  },
+  {
+    "text": "For it did not close the doors of the womb that bore me, nor take away evils from my eyes.",
+    "reference": "Job 3:10 (CPDV)",
+    "connected_to": "Job 3:11",
+    "connected_from": "Job 3:9"
+  },
+  {
+    "text": "Why did I not die in the womb? Having left the womb, why did I not immediately perish?",
+    "reference": "Job 3:11 (CPDV)",
+    "connected_to": "Job 3:12",
+    "connected_from": "Job 3:10"
+  },
+  {
+    "text": "Why was I received upon the knees? Why was I suckled at the breasts?",
+    "reference": "Job 3:12 (CPDV)",
+    "connected_to": "Job 3:13",
+    "connected_from": "Job 3:11"
+  },
+  {
+    "text": "For by now, I should have been sleeping silently, and taking rest in my sleep",
+    "reference": "Job 3:13 (CPDV)",
+    "connected_to": "Job 3:14",
+    "connected_from": "Job 3:12"
+  },
+  {
+    "text": "with the kings and consuls of the earth, who build themselves solitudes,",
+    "reference": "Job 3:14 (CPDV)",
+    "connected_to": "Job 3:15",
+    "connected_from": "Job 3:13"
+  },
+  {
+    "text": "either with princes, who possess gold and fill their houses with silver,",
+    "reference": "Job 3:15 (CPDV)",
+    "connected_to": "Job 3:16",
+    "connected_from": "Job 3:14"
+  },
+  {
+    "text": "or, like a hidden miscarriage, I should not have continued, just like those who, being conceived, have not seen the light.",
+    "reference": "Job 3:16 (CPDV)",
+    "connected_to": "Job 3:17",
+    "connected_from": "Job 3:15"
+  },
+  {
+    "text": "There the impious cease from rebellion, and there the wearied in strength take rest.",
+    "reference": "Job 3:17 (CPDV)",
+    "connected_to": "Job 3:18",
+    "connected_from": "Job 3:16"
+  },
+  {
+    "text": "And at such times, having been bound together without difficulty, they have not heard the voice of the bailiff.",
+    "reference": "Job 3:18 (CPDV)",
+    "connected_to": "Job 3:19",
+    "connected_from": "Job 3:17"
+  },
+  {
+    "text": "The small and great are there, and the servant is free from his master.",
+    "reference": "Job 3:19 (CPDV)",
+    "connected_to": "Job 3:20",
+    "connected_from": "Job 3:18"
+  },
+  {
+    "text": "Why is light given to the miserable, and life to those who are in bitterness of soul,",
+    "reference": "Job 3:20 (CPDV)",
+    "connected_to": "Job 3:21",
+    "connected_from": "Job 3:19"
+  },
+  {
+    "text": "who expect death, and it does not arrive, like those who dig for treasure",
+    "reference": "Job 3:21 (CPDV)",
+    "connected_to": "Job 3:22",
+    "connected_from": "Job 3:20"
+  },
+  {
+    "text": "and who rejoice greatly when they have found the grave,",
+    "reference": "Job 3:22 (CPDV)",
+    "connected_to": "Job 3:23",
+    "connected_from": "Job 3:21"
+  },
+  {
+    "text": "to a man whose way is hidden and whom God has surrounded with darkness?",
+    "reference": "Job 3:23 (CPDV)",
+    "connected_to": "Job 3:24",
+    "connected_from": "Job 3:22"
+  },
+  {
+    "text": "Before I eat, I sigh; and like overflowing waters, so is my howl,",
+    "reference": "Job 3:24 (CPDV)",
+    "connected_to": "Job 3:25",
+    "connected_from": "Job 3:23"
+  },
+  {
+    "text": "for the terror that I feared has happened to me, and so has the dread befallen me.",
+    "reference": "Job 3:25 (CPDV)",
+    "connected_to": "Job 3:26",
+    "connected_from": "Job 3:24"
+  },
+  {
+    "text": "Have I not remained hidden? Have I not kept silence? Have I not remained calm? Yet indignation has overcome me.",
+    "reference": "Job 3:26 (CPDV)",
+    "connected_from": "Job 3:25"
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "text": "And there was a man from the hill country of Ephraim, and his name [was] Micah.",
+    "reference": "Judges 17:1 (BLB)",
+    "connected_to": "Judges 17:2"
+  },
+  {
+    "text": "And he said to his mother, “The thousand and a hundred [shekels] of silver that were taken from you, and on which you put a curse, and even saying it in my ears, here [is] the silver with me. I took it.” And his mother said, “Blessed [is] my son of YHWH!”",
+    "reference": "Judges 17:2 (BLB)",
+    "connected_to": "Judges 17:3",
+    "connected_from": "Judges 17:1"
+  },
+  {
+    "text": "And he returned the thousand and a hundred [shekels] of silver to his mother, and his mother said, “I wholly dedicate the silver to YHWH from my hand for my son to make a carved image and a molten image. And now I will return it to you.”",
+    "reference": "Judges 17:3 (BLB)",
+    "connected_to": "Judges 17:4",
+    "connected_from": "Judges 17:2"
+  },
+  {
+    "text": "And he returned the silver to his mother, and his mother took two hundred [shekels] of silver and gave them to the silversmith, and he made it into a carved image and a molten image, and they were in the house of Micah.",
+    "reference": "Judges 17:4 (BLB)",
+    "connected_to": "Judges 17:5",
+    "connected_from": "Judges 17:3"
+  },
+  {
+    "text": "And the man Micah had a shrine of gods, and he made an ephod and teraphim, and he filled the hand of one of his sons, and he was to him for a priest.",
+    "reference": "Judges 17:5 (BLB)",
+    "connected_to": "Judges 17:6",
+    "connected_from": "Judges 17:4"
+  },
+  {
+    "text": "In those days [there was] no king in Israel; each man did the right in his own eyes.",
+    "reference": "Judges 17:6 (BLB)",
+    "connected_to": "Judges 17:7",
+    "connected_from": "Judges 17:5"
+  },
+  {
+    "text": "And there was a young man from Bethlehem [in] Judah, from the family of Judah, and he [was] a Levite, and he was staying there.",
+    "reference": "Judges 17:7 (BLB)",
+    "connected_to": "Judges 17:8",
+    "connected_from": "Judges 17:6"
+  },
+  {
+    "text": "And the man departed from the city, from Bethlehem [in] Judah, to stay wherever he could find, and he came to the hill country of Ephraim, to the house of Micah, as he made his journey.",
+    "reference": "Judges 17:8 (BLB)",
+    "connected_to": "Judges 17:9",
+    "connected_from": "Judges 17:7"
+  },
+  {
+    "text": "And Micah said to him, “From where have you come?” And he said to him, “I [am] a Levite from Bethlehem [in] Judah, and I am going to sojourn where I do find.”",
+    "reference": "Judges 17:9 (BLB)",
+    "connected_to": "Judges 17:10",
+    "connected_from": "Judges 17:8"
+  },
+  {
+    "text": "And Micah said to him, “Dwell with me, and be to me a father and a priest, and I will give to you ten [shekels] of silver for the days, and a suit of clothes, and your sustenance.” And the Levite went in.",
+    "reference": "Judges 17:10 (BLB)",
+    "connected_to": "Judges 17:11",
+    "connected_from": "Judges 17:9"
+  },
+  {
+    "text": "And the Levite was willing to dwell with the man, and the young man became to him like one of his sons.",
+    "reference": "Judges 17:11 (BLB)",
+    "connected_to": "Judges 17:12",
+    "connected_from": "Judges 17:10"
+  },
+  {
+    "text": "And Micah filled the hand of the Levite, and the young man was to him for a priest, and he was in the house of Micah.",
+    "reference": "Judges 17:12 (BLB)",
+    "connected_to": "Judges 17:13",
+    "connected_from": "Judges 17:11"
+  },
+  {
+    "text": "And Micah said, “Now I know that YHWH will be good to me, since a Levite has become a priest to me.”",
+    "reference": "Judges 17:13 (BLB)",
+    "connected_from": "Judges 17:12"
+  }
+]

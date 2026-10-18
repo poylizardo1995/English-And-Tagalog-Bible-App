@@ -1,0 +1,276 @@
+[
+  {
+    "text": "[“] And this [is] the thing that you shall do to them to sanctify them to minister as priests to Me: Take one bull, a son of the herd, and two rams, unblemished,",
+    "reference": "Exodus 29:1 (BLB)",
+    "connected_to": "Exodus 29:2"
+  },
+  {
+    "text": "and unleavened bread, and unleavened cakes mixed with the oil, and unleavened wafers anointed with the oil; you shall make them of fine flour of wheat.",
+    "reference": "Exodus 29:2 (BLB)",
+    "connected_to": "Exodus 29:3",
+    "connected_from": "Exodus 29:1"
+  },
+  {
+    "text": "And you shall put them in one basket and bring them near in the basket and with the bull and the two rams.",
+    "reference": "Exodus 29:3 (BLB)",
+    "connected_to": "Exodus 29:4",
+    "connected_from": "Exodus 29:2"
+  },
+  {
+    "text": "And you shall bring near Aaron and his sons to the door of the Tent of Meeting, and you shall wash them with the water.",
+    "reference": "Exodus 29:4 (BLB)",
+    "connected_to": "Exodus 29:5",
+    "connected_from": "Exodus 29:3"
+  },
+  {
+    "text": "And you shall take the garments, and you shall clothe Aaron—the tunic, and the robe of the ephod, and the ephod, and the breastplate—and you shall gird him with the skillfully woven waistband of the ephod.",
+    "reference": "Exodus 29:5 (BLB)",
+    "connected_to": "Exodus 29:6",
+    "connected_from": "Exodus 29:4"
+  },
+  {
+    "text": "And you shall put the turban on his head, and put the holy diadem on the turban.",
+    "reference": "Exodus 29:6 (BLB)",
+    "connected_to": "Exodus 29:7",
+    "connected_from": "Exodus 29:5"
+  },
+  {
+    "text": "And you shall take the anointing oil and pour [it] on his head and anoint him.",
+    "reference": "Exodus 29:7 (BLB)",
+    "connected_to": "Exodus 29:8",
+    "connected_from": "Exodus 29:6"
+  },
+  {
+    "text": "And you shall bring his sons near, and put on them tunics.",
+    "reference": "Exodus 29:8 (BLB)",
+    "connected_to": "Exodus 29:9",
+    "connected_from": "Exodus 29:7"
+  },
+  {
+    "text": "And you shall gird them with sashes—Aaron and his sons—and tie on them the headbands; and the priesthood shall be theirs for an everlasting statute. And you shall fill the hand of Aaron and the hand of his sons.",
+    "reference": "Exodus 29:9 (BLB)",
+    "connected_to": "Exodus 29:10",
+    "connected_from": "Exodus 29:8"
+  },
+  {
+    "text": "And you shall bring near the bull before the face of the Tent of Meeting, and Aaron and his sons shall lay their hands on the head of the bull.",
+    "reference": "Exodus 29:10 (BLB)",
+    "connected_to": "Exodus 29:11",
+    "connected_from": "Exodus 29:9"
+  },
+  {
+    "text": "And you shall slaughter the bull before the face of YHWH, [by] the door of the Tent of Meeting.",
+    "reference": "Exodus 29:11 (BLB)",
+    "connected_to": "Exodus 29:12",
+    "connected_from": "Exodus 29:10"
+  },
+  {
+    "text": "And you shall take from the blood of the bull and put [it] on the horns of the altar with your finger, and you shall pour out all the blood at the base of the altar.",
+    "reference": "Exodus 29:12 (BLB)",
+    "connected_to": "Exodus 29:13",
+    "connected_from": "Exodus 29:11"
+  },
+  {
+    "text": "And you shall take all the fat that is covering the entrails, and the lobe of the liver, and the two kidneys, and the fat that [is] on them, and you shall burn [them] on the altar.",
+    "reference": "Exodus 29:13 (BLB)",
+    "connected_to": "Exodus 29:14",
+    "connected_from": "Exodus 29:12"
+  },
+  {
+    "text": "And the flesh of the bull, and its skin and its dung, you shall burn with the fire outside of the camp; it [is] a sin offering.",
+    "reference": "Exodus 29:14 (BLB)",
+    "connected_to": "Exodus 29:15",
+    "connected_from": "Exodus 29:13"
+  },
+  {
+    "text": "And the one ram you shall take, and Aaron and his sons shall lay their hands on the head of the ram.",
+    "reference": "Exodus 29:15 (BLB)",
+    "connected_to": "Exodus 29:16",
+    "connected_from": "Exodus 29:14"
+  },
+  {
+    "text": "And you shall slaughter the ram, and you shall take its blood and sprinkle [it] on the altar all around.",
+    "reference": "Exodus 29:16 (BLB)",
+    "connected_to": "Exodus 29:17",
+    "connected_from": "Exodus 29:15"
+  },
+  {
+    "text": "And the ram you shall cut into its pieces, and you shall wash its entrails and its legs, and you shall put [them] on its pieces and on its head.",
+    "reference": "Exodus 29:17 (BLB)",
+    "connected_to": "Exodus 29:18",
+    "connected_from": "Exodus 29:16"
+  },
+  {
+    "text": "And you shall burn all the ram on the altar. It [is] a burnt offering to YHWH, a pleasing aroma; it [is] a fire offering to YHWH.",
+    "reference": "Exodus 29:18 (BLB)",
+    "connected_to": "Exodus 29:19",
+    "connected_from": "Exodus 29:17"
+  },
+  {
+    "text": "And you shall take the second ram, and Aaron and his sons shall lay their hands on the head of the ram.",
+    "reference": "Exodus 29:19 (BLB)",
+    "connected_to": "Exodus 29:20",
+    "connected_from": "Exodus 29:18"
+  },
+  {
+    "text": "And you shall slaughter the ram, and you shall take from its blood and put [it] on the tip of the right ear of Aaron, and on the tip of the right ear of his sons, and on the thumb of their right hands, and on the big toe of their right foot, and sprinkle the blood on the altar all around.",
+    "reference": "Exodus 29:20 (BLB)",
+    "connected_to": "Exodus 29:21",
+    "connected_from": "Exodus 29:19"
+  },
+  {
+    "text": "And you shall take from the blood that is on the altar, and from the anointing oil, and sprinkle [them] on Aaron, and on his garments, and on his sons, and on the garments of his sons with him; and he shall be holy, and his garments, and his sons, and the garments of his sons with him.",
+    "reference": "Exodus 29:21 (BLB)",
+    "connected_to": "Exodus 29:22",
+    "connected_from": "Exodus 29:20"
+  },
+  {
+    "text": "And you shall take from the ram the fat, and the fat tail, and the fat that is covering the entrails, and the lobe of the liver, and the two kidneys, and the fat that [is] on them, and the right thigh (for it [is] a ram of ordination),",
+    "reference": "Exodus 29:22 (BLB)",
+    "connected_to": "Exodus 29:23",
+    "connected_from": "Exodus 29:21"
+  },
+  {
+    "text": "and one loaf of bread, and one cake of oiled bread, and one wafer from the basket of the unleavened [bread] that [is] before the face of YHWH,",
+    "reference": "Exodus 29:23 (BLB)",
+    "connected_to": "Exodus 29:24",
+    "connected_from": "Exodus 29:22"
+  },
+  {
+    "text": "and you shall put all [these] on the palms of Aaron, and on the palms of his sons, and you shall wave them [as] a wave offering before the face of YHWH.",
+    "reference": "Exodus 29:24 (BLB)",
+    "connected_to": "Exodus 29:25",
+    "connected_from": "Exodus 29:23"
+  },
+  {
+    "text": "And you shall take them from their hands and burn [them] on the altar upon the burnt offering, a pleasing aroma before the face of YHWH; it [is] a fire offering to YHWH.",
+    "reference": "Exodus 29:25 (BLB)",
+    "connected_to": "Exodus 29:26",
+    "connected_from": "Exodus 29:24"
+  },
+  {
+    "text": "And you shall take the breast from the ram of ordination that is for Aaron and wave it, a wave offering before the face of YHWH; and it shall be for you—your portion.",
+    "reference": "Exodus 29:26 (BLB)",
+    "connected_to": "Exodus 29:27",
+    "connected_from": "Exodus 29:25"
+  },
+  {
+    "text": "And you shall sanctify the breast of the wave offering, and the thigh of the contribution, which is waved and which is raised from the ram of ordination, from that which is for Aaron and from that which is for his sons.",
+    "reference": "Exodus 29:27 (BLB)",
+    "connected_to": "Exodus 29:28",
+    "connected_from": "Exodus 29:26"
+  },
+  {
+    "text": "And it shall be for Aaron and for his sons for a statute forever from the sons of Israel, for it [is] a contribution; and it shall be a contribution from the sons of Israel from the sacrifices of their peace offerings, their contributions to YHWH.",
+    "reference": "Exodus 29:28 (BLB)",
+    "connected_to": "Exodus 29:29",
+    "connected_from": "Exodus 29:27"
+  },
+  {
+    "text": "And the holy garments that are for Aaron shall be for his sons after him, to be anointed in them and to fill their hand in them.",
+    "reference": "Exodus 29:29 (BLB)",
+    "connected_to": "Exodus 29:30",
+    "connected_from": "Exodus 29:28"
+  },
+  {
+    "text": "[For] seven days the priest from among his sons shall put them on in his place when he enters into the Tent of Meeting to minister in the Holy Place.",
+    "reference": "Exodus 29:30 (BLB)",
+    "connected_to": "Exodus 29:31",
+    "connected_from": "Exodus 29:29"
+  },
+  {
+    "text": "And the ram of the ordination you shall take and boil its flesh in a holy place.",
+    "reference": "Exodus 29:31 (BLB)",
+    "connected_to": "Exodus 29:32",
+    "connected_from": "Exodus 29:30"
+  },
+  {
+    "text": "And Aaron shall eat—and his sons—the flesh of the ram and the bread that [is] in the basket [at] the door of the Tent of Meeting.",
+    "reference": "Exodus 29:32 (BLB)",
+    "connected_to": "Exodus 29:33",
+    "connected_from": "Exodus 29:31"
+  },
+  {
+    "text": "And they shall eat them, that which atonement was made by them, to fill their hand, to sanctify them. And an outsider shall not eat [them], because they [are] holy.",
+    "reference": "Exodus 29:33 (BLB)",
+    "connected_to": "Exodus 29:34",
+    "connected_from": "Exodus 29:32"
+  },
+  {
+    "text": "And if remains from the flesh of the ordination or from the bread until the morning, then you shall burn the remainder with the fire; it shall not be eaten, because it [is] holy.",
+    "reference": "Exodus 29:34 (BLB)",
+    "connected_to": "Exodus 29:35",
+    "connected_from": "Exodus 29:33"
+  },
+  {
+    "text": "And you shall do thus to Aaron and to his sons according to all that I have commanded you; seven days you shall fill their hand.",
+    "reference": "Exodus 29:35 (BLB)",
+    "connected_to": "Exodus 29:36",
+    "connected_from": "Exodus 29:34"
+  },
+  {
+    "text": "And a bull [as] a sin offering you shall offer day by day for the atonements, and you shall cleanse from sin upon the altar in your making atonement upon it, and you shall anoint it to sanctify it.",
+    "reference": "Exodus 29:36 (BLB)",
+    "connected_to": "Exodus 29:37",
+    "connected_from": "Exodus 29:35"
+  },
+  {
+    "text": "Seven days you shall make atonement upon the altar and sanctify it, and the altar shall be holy of holies; anything that touches the altar shall be holy.",
+    "reference": "Exodus 29:37 (BLB)",
+    "connected_to": "Exodus 29:38",
+    "connected_from": "Exodus 29:36"
+  },
+  {
+    "text": "And this [is] what you shall offer on the altar: Two lambs, sons of a year, day by day continually.",
+    "reference": "Exodus 29:38 (BLB)",
+    "connected_to": "Exodus 29:39",
+    "connected_from": "Exodus 29:37"
+  },
+  {
+    "text": "The one Lamb you shall offer in the morning, and the second lamb you shall offer between the evenings.",
+    "reference": "Exodus 29:39 (BLB)",
+    "connected_to": "Exodus 29:40",
+    "connected_from": "Exodus 29:38"
+  },
+  {
+    "text": "And shall be a tenth [of an ephah] of flour mixed with pressed oil, and a fourth of a hin [as] a drink offering, and a fourth of a hin of wine for the one lamb.",
+    "reference": "Exodus 29:40 (BLB)",
+    "connected_to": "Exodus 29:41",
+    "connected_from": "Exodus 29:39"
+  },
+  {
+    "text": "And the second lamb you shall offer between the evenings according to the grain offering of the morning, and according to its drink offering you shall offer with it for a pleasing aroma, a fire offering to YHWH—",
+    "reference": "Exodus 29:41 (BLB)",
+    "connected_to": "Exodus 29:42",
+    "connected_from": "Exodus 29:40"
+  },
+  {
+    "text": "a continual burnt offering throughout your⁺ generations [at] the door of the Tent of Meeting before the face of YHWH, where there I will meet you⁺ to speak to you there.",
+    "reference": "Exodus 29:42 (BLB)",
+    "connected_to": "Exodus 29:43",
+    "connected_from": "Exodus 29:41"
+  },
+  {
+    "text": "And I will meet there with the sons of Israel, and it shall be sanctified by My glory.",
+    "reference": "Exodus 29:43 (BLB)",
+    "connected_to": "Exodus 29:44",
+    "connected_from": "Exodus 29:42"
+  },
+  {
+    "text": "And I will sanctify the Tent of Meeting and the altar, and Aaron and his sons I will sanctify to minister as priests to Me.",
+    "reference": "Exodus 29:44 (BLB)",
+    "connected_to": "Exodus 29:45",
+    "connected_from": "Exodus 29:43"
+  },
+  {
+    "text": "And I will dwell in the midst of the sons of Israel, and will be their God.",
+    "reference": "Exodus 29:45 (BLB)",
+    "connected_to": "Exodus 29:46",
+    "connected_from": "Exodus 29:44"
+  },
+  {
+    "text": "And they shall know that I [am] YHWH their God, who brought them out from the land of Egypt, to dwell in their midst. I [am] YHWH their God.",
+    "reference": "Exodus 29:46 (BLB)",
+    "connected_from": "Exodus 29:45"
+  }
+]

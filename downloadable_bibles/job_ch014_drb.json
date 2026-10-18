@@ -1,0 +1,132 @@
+[
+  {
+    "text": "Man born of a woman, living for a short time, is filled with many miseries.",
+    "reference": "Job 14:1 (DRB)",
+    "connected_to": "Job 14:2"
+  },
+  {
+    "text": "Who cometh forth like a flower, and is destroyed, and fleeth as a shadow, and never continueth in the same state.",
+    "reference": "Job 14:2 (DRB)",
+    "connected_to": "Job 14:3",
+    "connected_from": "Job 14:1"
+  },
+  {
+    "text": "And dost thou think it meet to open thy eyes upon such an one, and to bring him into judgment with thee?",
+    "reference": "Job 14:3 (DRB)",
+    "connected_to": "Job 14:4",
+    "connected_from": "Job 14:2"
+  },
+  {
+    "text": "Who can make him clean that is conceived of unclean seed ? is it not thou who only art?",
+    "reference": "Job 14:4 (DRB)",
+    "connected_to": "Job 14:5",
+    "connected_from": "Job 14:3"
+  },
+  {
+    "text": "The days of man are short, and the number of his months is with thee: thou hast appointed his bounds which cannot be passed.",
+    "reference": "Job 14:5 (DRB)",
+    "connected_to": "Job 14:6",
+    "connected_from": "Job 14:4"
+  },
+  {
+    "text": "Depart a little from him, that he may rest, until his wished for day come, as that of the hireling.",
+    "reference": "Job 14:6 (DRB)",
+    "connected_to": "Job 14:7",
+    "connected_from": "Job 14:5"
+  },
+  {
+    "text": "A tree hath hope: if it be cut, it groweth green again, and the boughs thereof sprout.",
+    "reference": "Job 14:7 (DRB)",
+    "connected_to": "Job 14:8",
+    "connected_from": "Job 14:6"
+  },
+  {
+    "text": "If its root be old in the earth, and its stock be dead in the dust:",
+    "reference": "Job 14:8 (DRB)",
+    "connected_to": "Job 14:9",
+    "connected_from": "Job 14:7"
+  },
+  {
+    "text": "At the scent of water, it shall spring, and bring forth leaves, as when it was first planted.",
+    "reference": "Job 14:9 (DRB)",
+    "connected_to": "Job 14:10",
+    "connected_from": "Job 14:8"
+  },
+  {
+    "text": "But man when he shall be dead, and stripped and consumed, I pray you where is he?",
+    "reference": "Job 14:10 (DRB)",
+    "connected_to": "Job 14:11",
+    "connected_from": "Job 14:9"
+  },
+  {
+    "text": "As if the waters should depart out of the sea, and an emptied river should be dried up:",
+    "reference": "Job 14:11 (DRB)",
+    "connected_to": "Job 14:12",
+    "connected_from": "Job 14:10"
+  },
+  {
+    "text": "So man when he is fallen asleep shall not rise again; till the heavens be broken, he shall not awake, nor rise up out of his sleep.",
+    "reference": "Job 14:12 (DRB)",
+    "connected_to": "Job 14:13",
+    "connected_from": "Job 14:11"
+  },
+  {
+    "text": "Who will grant me this, that thou mayest protect me in hell, and hide me till thy wrath pass, and appoint me a. time when thou wilt remember me?",
+    "reference": "Job 14:13 (DRB)",
+    "connected_to": "Job 14:14",
+    "connected_from": "Job 14:12"
+  },
+  {
+    "text": "Shall man that is dead, thinkest thou, live again? all the days in which I am now in warfare, I expect until my change come.",
+    "reference": "Job 14:14 (DRB)",
+    "connected_to": "Job 14:15",
+    "connected_from": "Job 14:13"
+  },
+  {
+    "text": "Thou shalt call me, and I will answer thee: to the work of thy hands thou shalt reach out thy right hand.",
+    "reference": "Job 14:15 (DRB)",
+    "connected_to": "Job 14:16",
+    "connected_from": "Job 14:14"
+  },
+  {
+    "text": "Thou indeed hast numbered my steps, but spare my sins.",
+    "reference": "Job 14:16 (DRB)",
+    "connected_to": "Job 14:17",
+    "connected_from": "Job 14:15"
+  },
+  {
+    "text": "Thou hast sealed up my offences as it were in a bag, but hast cured my iniquity.",
+    "reference": "Job 14:17 (DRB)",
+    "connected_to": "Job 14:18",
+    "connected_from": "Job 14:16"
+  },
+  {
+    "text": "A mountain falling cometh to nought, and a rock is removed out of its place.",
+    "reference": "Job 14:18 (DRB)",
+    "connected_to": "Job 14:19",
+    "connected_from": "Job 14:17"
+  },
+  {
+    "text": "Waters wear away the stones, and with inundation the ground by little and little is washed away: so in like manner thou shalt destroy man.",
+    "reference": "Job 14:19 (DRB)",
+    "connected_to": "Job 14:20",
+    "connected_from": "Job 14:18"
+  },
+  {
+    "text": "Thou hast strengthened him for a little while, that he may pass away for ever: thou shalt change his face, and shalt send him away.",
+    "reference": "Job 14:20 (DRB)",
+    "connected_to": "Job 14:21",
+    "connected_from": "Job 14:19"
+  },
+  {
+    "text": "Whether his children come to honour or dishonour, he shall not understand.",
+    "reference": "Job 14:21 (DRB)",
+    "connected_to": "Job 14:22",
+    "connected_from": "Job 14:20"
+  },
+  {
+    "text": "But yet his flesh, while he shall live, shall have pain, and his soul shall mourn over him.",
+    "reference": "Job 14:22 (DRB)",
+    "connected_from": "Job 14:21"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "text": "Then came together to him the Pharisees, and certain of the scribes, which came from Jerusalem.",
+    "reference": "Mark 7:1 (AKJV)",
+    "connected_to": "Mark 7:2"
+  },
+  {
+    "text": "And when they saw some of his disciples eat bread with defiled, that is to say, with unwashed, hands, they found fault.",
+    "reference": "Mark 7:2 (AKJV)",
+    "connected_to": "Mark 7:3",
+    "connected_from": "Mark 7:1"
+  },
+  {
+    "text": "For the Pharisees, and all the Jews, except they wash their hands oft, eat not, holding the tradition of the elders.",
+    "reference": "Mark 7:3 (AKJV)",
+    "connected_to": "Mark 7:4",
+    "connected_from": "Mark 7:2"
+  },
+  {
+    "text": "And when they come from the market, except they wash, they eat not. And many other things there be, which they have received to hold, as the washing of cups, and pots, brazen vessels, and of tables.",
+    "reference": "Mark 7:4 (AKJV)",
+    "connected_to": "Mark 7:5",
+    "connected_from": "Mark 7:3"
+  },
+  {
+    "text": "Then the Pharisees and scribes asked him, Why walk not your disciples according to the tradition of the elders, but eat bread with unwashed hands?",
+    "reference": "Mark 7:5 (AKJV)",
+    "connected_to": "Mark 7:6",
+    "connected_from": "Mark 7:4"
+  },
+  {
+    "text": "He answered and said to them, Well has Esaias prophesied of you hypocrites, as it is written, This people honors me with their lips, but their heart is far from me.",
+    "reference": "Mark 7:6 (AKJV)",
+    "connected_to": "Mark 7:7",
+    "connected_from": "Mark 7:5"
+  },
+  {
+    "text": "However, in vain do they worship me, teaching for doctrines the commandments of men.",
+    "reference": "Mark 7:7 (AKJV)",
+    "connected_to": "Mark 7:8",
+    "connected_from": "Mark 7:6"
+  },
+  {
+    "text": "For laying aside the commandment of God, you hold the tradition of men, as the washing of pots and cups: and many other such like things you do.",
+    "reference": "Mark 7:8 (AKJV)",
+    "connected_to": "Mark 7:9",
+    "connected_from": "Mark 7:7"
+  },
+  {
+    "text": "And he said to them, Full well you reject the commandment of God, that you may keep your own tradition.",
+    "reference": "Mark 7:9 (AKJV)",
+    "connected_to": "Mark 7:10",
+    "connected_from": "Mark 7:8"
+  },
+  {
+    "text": "For Moses said, Honor your father and your mother; and, Whoever curses father or mother, let him die the death:",
+    "reference": "Mark 7:10 (AKJV)",
+    "connected_to": "Mark 7:11",
+    "connected_from": "Mark 7:9"
+  },
+  {
+    "text": "But you say, If a man shall say to his father or mother, It is Corban, that is to say, a gift, by whatever you might be profited by me; he shall be free.",
+    "reference": "Mark 7:11 (AKJV)",
+    "connected_to": "Mark 7:12",
+    "connected_from": "Mark 7:10"
+  },
+  {
+    "text": "And you suffer him no more to do ought for his father or his mother;",
+    "reference": "Mark 7:12 (AKJV)",
+    "connected_to": "Mark 7:13",
+    "connected_from": "Mark 7:11"
+  },
+  {
+    "text": "Making the word of God of none effect through your tradition, which you have delivered: and many such like things do you.",
+    "reference": "Mark 7:13 (AKJV)",
+    "connected_to": "Mark 7:14",
+    "connected_from": "Mark 7:12"
+  },
+  {
+    "text": "And when he had called all the people to him, he said to them, Listen to me every one of you, and understand:",
+    "reference": "Mark 7:14 (AKJV)",
+    "connected_to": "Mark 7:15",
+    "connected_from": "Mark 7:13"
+  },
+  {
+    "text": "There is nothing from without a man, that entering into him can defile him: but the things which come out of him, those are they that defile the man.",
+    "reference": "Mark 7:15 (AKJV)",
+    "connected_to": "Mark 7:16",
+    "connected_from": "Mark 7:14"
+  },
+  {
+    "text": "If any man have ears to hear, let him hear.",
+    "reference": "Mark 7:16 (AKJV)",
+    "connected_to": "Mark 7:17",
+    "connected_from": "Mark 7:15"
+  },
+  {
+    "text": "And when he was entered into the house from the people, his disciples asked him concerning the parable.",
+    "reference": "Mark 7:17 (AKJV)",
+    "connected_to": "Mark 7:18",
+    "connected_from": "Mark 7:16"
+  },
+  {
+    "text": "And he said to them, Are you so without understanding also? Do you not perceive, that whatever thing from without enters into the man, it cannot defile him;",
+    "reference": "Mark 7:18 (AKJV)",
+    "connected_to": "Mark 7:19",
+    "connected_from": "Mark 7:17"
+  },
+  {
+    "text": "Because it enters not into his heart, but into the belly, and goes out into the draught, purging all meats?",
+    "reference": "Mark 7:19 (AKJV)",
+    "connected_to": "Mark 7:20",
+    "connected_from": "Mark 7:18"
+  },
+  {
+    "text": "And he said, That which comes out of the man, that defiles the man.",
+    "reference": "Mark 7:20 (AKJV)",
+    "connected_to": "Mark 7:21",
+    "connected_from": "Mark 7:19"
+  },
+  {
+    "text": "For from within, out of the heart of men, proceed evil thoughts, adulteries, fornications, murders,",
+    "reference": "Mark 7:21 (AKJV)",
+    "connected_to": "Mark 7:22",
+    "connected_from": "Mark 7:20"
+  },
+  {
+    "text": "Thefts, covetousness, wickedness, deceit, lasciviousness, an evil eye, blasphemy, pride, foolishness:",
+    "reference": "Mark 7:22 (AKJV)",
+    "connected_to": "Mark 7:23",
+    "connected_from": "Mark 7:21"
+  },
+  {
+    "text": "All these evil things come from within, and defile the man.",
+    "reference": "Mark 7:23 (AKJV)",
+    "connected_to": "Mark 7:24",
+    "connected_from": "Mark 7:22"
+  },
+  {
+    "text": "And from there he arose, and went into the borders of Tyre and Sidon, and entered into an house, and would have no man know it: but he could not be hid.",
+    "reference": "Mark 7:24 (AKJV)",
+    "connected_to": "Mark 7:25",
+    "connected_from": "Mark 7:23"
+  },
+  {
+    "text": "For a certain woman, whose young daughter had an unclean spirit, heard of him, and came and fell at his feet:",
+    "reference": "Mark 7:25 (AKJV)",
+    "connected_to": "Mark 7:26",
+    "connected_from": "Mark 7:24"
+  },
+  {
+    "text": "The woman was a Greek, a Syrophenician by nation; and she sought him that he would cast forth the devil out of her daughter.",
+    "reference": "Mark 7:26 (AKJV)",
+    "connected_to": "Mark 7:27",
+    "connected_from": "Mark 7:25"
+  },
+  {
+    "text": "But Jesus said to her, Let the children first be filled: for it is not meet to take the children’s bread, and to cast it to the dogs.",
+    "reference": "Mark 7:27 (AKJV)",
+    "connected_to": "Mark 7:28",
+    "connected_from": "Mark 7:26"
+  },
+  {
+    "text": "And she answered and said to him, Yes, Lord: yet the dogs under the table eat of the children’s crumbs.",
+    "reference": "Mark 7:28 (AKJV)",
+    "connected_to": "Mark 7:29",
+    "connected_from": "Mark 7:27"
+  },
+  {
+    "text": "And he said to her, For this saying go your way; the devil is gone out of your daughter.",
+    "reference": "Mark 7:29 (AKJV)",
+    "connected_to": "Mark 7:30",
+    "connected_from": "Mark 7:28"
+  },
+  {
+    "text": "And when she was come to her house, she found the devil gone out, and her daughter laid on the bed.",
+    "reference": "Mark 7:30 (AKJV)",
+    "connected_to": "Mark 7:31",
+    "connected_from": "Mark 7:29"
+  },
+  {
+    "text": "And again, departing from the coasts of Tyre and Sidon, he came to the sea of Galilee, through the middle of the coasts of Decapolis.",
+    "reference": "Mark 7:31 (AKJV)",
+    "connected_to": "Mark 7:32",
+    "connected_from": "Mark 7:30"
+  },
+  {
+    "text": "And they bring to him one that was deaf, and had an impediment in his speech; and they beseech him to put his hand on him.",
+    "reference": "Mark 7:32 (AKJV)",
+    "connected_to": "Mark 7:33",
+    "connected_from": "Mark 7:31"
+  },
+  {
+    "text": "And he took him aside from the multitude, and put his fingers into his ears, and he spit, and touched his tongue;",
+    "reference": "Mark 7:33 (AKJV)",
+    "connected_to": "Mark 7:34",
+    "connected_from": "Mark 7:32"
+  },
+  {
+    "text": "And looking up to heaven, he sighed, and said to him, Ephphatha, that is, Be opened.",
+    "reference": "Mark 7:34 (AKJV)",
+    "connected_to": "Mark 7:35",
+    "connected_from": "Mark 7:33"
+  },
+  {
+    "text": "And straightway his ears were opened, and the string of his tongue was loosed, and he spoke plain.",
+    "reference": "Mark 7:35 (AKJV)",
+    "connected_to": "Mark 7:36",
+    "connected_from": "Mark 7:34"
+  },
+  {
+    "text": "And he charged them that they should tell no man: but the more he charged them, so much the more a great deal they published it;",
+    "reference": "Mark 7:36 (AKJV)",
+    "connected_to": "Mark 7:37",
+    "connected_from": "Mark 7:35"
+  },
+  {
+    "text": "And were beyond measure astonished, saying, He has done all things well: he makes both the deaf to hear, and the dumb to speak.",
+    "reference": "Mark 7:37 (AKJV)",
+    "connected_from": "Mark 7:36"
+  }
+]

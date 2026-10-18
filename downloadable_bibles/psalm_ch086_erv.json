@@ -1,0 +1,102 @@
+[
+  {
+    "text": "A Prayer Of David. Bow down thine ear, O LORD, and answer me; for I am poor and needy.",
+    "reference": "Psalm 86:1 (ERV)",
+    "connected_to": "Psalm 86:2"
+  },
+  {
+    "text": "Preserve my soul; for I am godly: O thou my God, save thy servant that trusteth in thee.",
+    "reference": "Psalm 86:2 (ERV)",
+    "connected_to": "Psalm 86:3",
+    "connected_from": "Psalm 86:1"
+  },
+  {
+    "text": "Be merciful unto me, O Lord; for unto thee do I cry all the day long.",
+    "reference": "Psalm 86:3 (ERV)",
+    "connected_to": "Psalm 86:4",
+    "connected_from": "Psalm 86:2"
+  },
+  {
+    "text": "Rejoice the soul of thy servant; for unto thee, O Lord, do I lift up my soul.",
+    "reference": "Psalm 86:4 (ERV)",
+    "connected_to": "Psalm 86:5",
+    "connected_from": "Psalm 86:3"
+  },
+  {
+    "text": "For thou, Lord, art good, and ready to forgive, and plenteous in mercy unto all them that call upon thee.",
+    "reference": "Psalm 86:5 (ERV)",
+    "connected_to": "Psalm 86:6",
+    "connected_from": "Psalm 86:4"
+  },
+  {
+    "text": "Give ear, O LORD, unto my prayer; and hearken unto the voice of my supplications.",
+    "reference": "Psalm 86:6 (ERV)",
+    "connected_to": "Psalm 86:7",
+    "connected_from": "Psalm 86:5"
+  },
+  {
+    "text": "In the day of my trouble I will call upon thee; for thou wilt answer me.",
+    "reference": "Psalm 86:7 (ERV)",
+    "connected_to": "Psalm 86:8",
+    "connected_from": "Psalm 86:6"
+  },
+  {
+    "text": "There is none like unto thee among the gods, O Lord; neither are there any works like unto thy works.",
+    "reference": "Psalm 86:8 (ERV)",
+    "connected_to": "Psalm 86:9",
+    "connected_from": "Psalm 86:7"
+  },
+  {
+    "text": "All nations whom thou hast made shall come and worship before thee, O Lord; and they shall glorify thy name.",
+    "reference": "Psalm 86:9 (ERV)",
+    "connected_to": "Psalm 86:10",
+    "connected_from": "Psalm 86:8"
+  },
+  {
+    "text": "For thou art great, and doest wondrous things: thou art God alone.",
+    "reference": "Psalm 86:10 (ERV)",
+    "connected_to": "Psalm 86:11",
+    "connected_from": "Psalm 86:9"
+  },
+  {
+    "text": "Teach me thy way, O LORD; I will walk in thy truth: unite my heart to fear thy name.",
+    "reference": "Psalm 86:11 (ERV)",
+    "connected_to": "Psalm 86:12",
+    "connected_from": "Psalm 86:10"
+  },
+  {
+    "text": "I will praise thee, O Lord my God, with my whole heart; and I will glorify thy name for evermore.",
+    "reference": "Psalm 86:12 (ERV)",
+    "connected_to": "Psalm 86:13",
+    "connected_from": "Psalm 86:11"
+  },
+  {
+    "text": "For great is thy mercy toward me; and thou hast delivered my soul from the lowest pit.",
+    "reference": "Psalm 86:13 (ERV)",
+    "connected_to": "Psalm 86:14",
+    "connected_from": "Psalm 86:12"
+  },
+  {
+    "text": "O God, the proud are risen up against me, and the congregation of violent men have sought after my soul, and have not set thee before them.",
+    "reference": "Psalm 86:14 (ERV)",
+    "connected_to": "Psalm 86:15",
+    "connected_from": "Psalm 86:13"
+  },
+  {
+    "text": "But thou, O Lord, art a God full of compassion and gracious, slow to anger, and plenteous in mercy and truth.",
+    "reference": "Psalm 86:15 (ERV)",
+    "connected_to": "Psalm 86:16",
+    "connected_from": "Psalm 86:14"
+  },
+  {
+    "text": "O turn unto me, and have mercy upon me; give thy strength unto thy servant, and save the son of thine handmaid.",
+    "reference": "Psalm 86:16 (ERV)",
+    "connected_to": "Psalm 86:17",
+    "connected_from": "Psalm 86:15"
+  },
+  {
+    "text": "Shew me a token for good; that they which hate me may see it, and be ashamed, because thou, LORD, hast holpen me, and comforted me,",
+    "reference": "Psalm 86:17 (ERV)",
+    "connected_from": "Psalm 86:16"
+  }
+]

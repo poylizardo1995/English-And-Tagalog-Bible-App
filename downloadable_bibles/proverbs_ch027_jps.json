@@ -1,0 +1,162 @@
+[
+  {
+    "text": "Boast not thyself of to-morrow; For thou knowest not what a day may bring forth.",
+    "reference": "Proverbs 27:1 (JPS)",
+    "connected_to": "Proverbs 27:2"
+  },
+  {
+    "text": "Let another man praise thee, and not thine own mouth; A stranger, and not thine own lips.",
+    "reference": "Proverbs 27:2 (JPS)",
+    "connected_to": "Proverbs 27:3",
+    "connected_from": "Proverbs 27:1"
+  },
+  {
+    "text": "A stone is heavy, and the sand weighty; But a fool’s vexation is heavier than they both.",
+    "reference": "Proverbs 27:3 (JPS)",
+    "connected_to": "Proverbs 27:4",
+    "connected_from": "Proverbs 27:2"
+  },
+  {
+    "text": "Wrath is cruel, and anger is overwhelming; But who is able to stand before jealousy?",
+    "reference": "Proverbs 27:4 (JPS)",
+    "connected_to": "Proverbs 27:5",
+    "connected_from": "Proverbs 27:3"
+  },
+  {
+    "text": "Better is open rebuke Than love that is hidden.",
+    "reference": "Proverbs 27:5 (JPS)",
+    "connected_to": "Proverbs 27:6",
+    "connected_from": "Proverbs 27:4"
+  },
+  {
+    "text": "Faithful are the wounds of a friend; But the kisses of an enemy are importunate.",
+    "reference": "Proverbs 27:6 (JPS)",
+    "connected_to": "Proverbs 27:7",
+    "connected_from": "Proverbs 27:5"
+  },
+  {
+    "text": "The full soul loatheth a honeycomb; But to the hungry soul every bitter thing is sweet.",
+    "reference": "Proverbs 27:7 (JPS)",
+    "connected_to": "Proverbs 27:8",
+    "connected_from": "Proverbs 27:6"
+  },
+  {
+    "text": "As a bird that wandereth from her nest, So is a man that wandereth from his place.",
+    "reference": "Proverbs 27:8 (JPS)",
+    "connected_to": "Proverbs 27:9",
+    "connected_from": "Proverbs 27:7"
+  },
+  {
+    "text": "Ointment and perfume rejoice the heart; So doth the sweetness of a man’s friend by hearty counsel.",
+    "reference": "Proverbs 27:9 (JPS)",
+    "connected_to": "Proverbs 27:10",
+    "connected_from": "Proverbs 27:8"
+  },
+  {
+    "text": "Thine own friend, and thy father’s friend, forsake not; Neither go into thy brother’s house in the day of thy calamity; Better is a neighbour that is near than a brother far off.",
+    "reference": "Proverbs 27:10 (JPS)",
+    "connected_to": "Proverbs 27:11",
+    "connected_from": "Proverbs 27:9"
+  },
+  {
+    "text": "My son, be wise, and make my heart glad, That I may answer him that taunteth me.",
+    "reference": "Proverbs 27:11 (JPS)",
+    "connected_to": "Proverbs 27:12",
+    "connected_from": "Proverbs 27:10"
+  },
+  {
+    "text": "A prudent man seeth the evil, and hideth himself; But the thoughtless pass on, and are punished.",
+    "reference": "Proverbs 27:12 (JPS)",
+    "connected_to": "Proverbs 27:13",
+    "connected_from": "Proverbs 27:11"
+  },
+  {
+    "text": "Take his garment that is surety for a stranger; And hold him in pledge that is surety for an alien woman.",
+    "reference": "Proverbs 27:13 (JPS)",
+    "connected_to": "Proverbs 27:14",
+    "connected_from": "Proverbs 27:12"
+  },
+  {
+    "text": "He that blesseth his friend with a loud voice, rising early in the morning, It shall be counted a curse to him.",
+    "reference": "Proverbs 27:14 (JPS)",
+    "connected_to": "Proverbs 27:15",
+    "connected_from": "Proverbs 27:13"
+  },
+  {
+    "text": "A continual dropping in a very rainy day And a contentious woman are alike;",
+    "reference": "Proverbs 27:15 (JPS)",
+    "connected_to": "Proverbs 27:16",
+    "connected_from": "Proverbs 27:14"
+  },
+  {
+    "text": "He that would hide her hideth the wind, And the ointment of his right hand betrayeth itself.",
+    "reference": "Proverbs 27:16 (JPS)",
+    "connected_to": "Proverbs 27:17",
+    "connected_from": "Proverbs 27:15"
+  },
+  {
+    "text": "Iron sharpeneth iron; So a man sharpeneth the countenance of his friend.",
+    "reference": "Proverbs 27:17 (JPS)",
+    "connected_to": "Proverbs 27:18",
+    "connected_from": "Proverbs 27:16"
+  },
+  {
+    "text": "Whoso keepeth the fig-tree shall eat the fruit thereof; And he that waiteth on his master shall be honoured.",
+    "reference": "Proverbs 27:18 (JPS)",
+    "connected_to": "Proverbs 27:19",
+    "connected_from": "Proverbs 27:17"
+  },
+  {
+    "text": "As in water face answereth to face, So the heart of man to man.",
+    "reference": "Proverbs 27:19 (JPS)",
+    "connected_to": "Proverbs 27:20",
+    "connected_from": "Proverbs 27:18"
+  },
+  {
+    "text": "The nether-world and Destruction are never satiated; So the eyes of man are never satiated.",
+    "reference": "Proverbs 27:20 (JPS)",
+    "connected_to": "Proverbs 27:21",
+    "connected_from": "Proverbs 27:19"
+  },
+  {
+    "text": "The refining pot is for silver, and the furnace for gold, And a man is tried by his praise.",
+    "reference": "Proverbs 27:21 (JPS)",
+    "connected_to": "Proverbs 27:22",
+    "connected_from": "Proverbs 27:20"
+  },
+  {
+    "text": "Though thou shouldest bray a fool in a mortar with a pestle among groats, Yet will not his foolishness depart from him.",
+    "reference": "Proverbs 27:22 (JPS)",
+    "connected_to": "Proverbs 27:23",
+    "connected_from": "Proverbs 27:21"
+  },
+  {
+    "text": "Be thou diligent to know the state of thy flocks, And look well to thy herds;",
+    "reference": "Proverbs 27:23 (JPS)",
+    "connected_to": "Proverbs 27:24",
+    "connected_from": "Proverbs 27:22"
+  },
+  {
+    "text": "For riches are not for ever; And doth the crown endure unto all generations?",
+    "reference": "Proverbs 27:24 (JPS)",
+    "connected_to": "Proverbs 27:25",
+    "connected_from": "Proverbs 27:23"
+  },
+  {
+    "text": "When the hay is mown, and the tender grass showeth itself, And the herbs of the mountains are gathered in;",
+    "reference": "Proverbs 27:25 (JPS)",
+    "connected_to": "Proverbs 27:26",
+    "connected_from": "Proverbs 27:24"
+  },
+  {
+    "text": "The lambs will be for thy clothing, And the goats the price for a field.",
+    "reference": "Proverbs 27:26 (JPS)",
+    "connected_to": "Proverbs 27:27",
+    "connected_from": "Proverbs 27:25"
+  },
+  {
+    "text": "And there will be goats’ milk enough for thy food, for the food of thy household; And maintenance for thy maidens.",
+    "reference": "Proverbs 27:27 (JPS)",
+    "connected_from": "Proverbs 27:26"
+  }
+]

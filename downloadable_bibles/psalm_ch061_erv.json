@@ -1,0 +1,48 @@
+[
+  {
+    "text": "For the Chief Musician; on a stringed instrument. A Psalm of David. Hear my cry, O God; attend unto my prayer.",
+    "reference": "Psalm 61:1 (ERV)",
+    "connected_to": "Psalm 61:2"
+  },
+  {
+    "text": "From the end of the earth will I call unto thee, when my heart is overwhelmed: lead me to the rock that is higher than I.",
+    "reference": "Psalm 61:2 (ERV)",
+    "connected_to": "Psalm 61:3",
+    "connected_from": "Psalm 61:1"
+  },
+  {
+    "text": "For thou hast been a refuge for me, a strong tower from the enemy.",
+    "reference": "Psalm 61:3 (ERV)",
+    "connected_to": "Psalm 61:4",
+    "connected_from": "Psalm 61:2"
+  },
+  {
+    "text": "I will dwell in thy tabernacle for ever: I will take refuge in the covert of thy wings. Selah",
+    "reference": "Psalm 61:4 (ERV)",
+    "connected_to": "Psalm 61:5",
+    "connected_from": "Psalm 61:3"
+  },
+  {
+    "text": "For thou, O God, hast heard my vows: thou hast given me the heritage of those that fear thy name.",
+    "reference": "Psalm 61:5 (ERV)",
+    "connected_to": "Psalm 61:6",
+    "connected_from": "Psalm 61:4"
+  },
+  {
+    "text": "Thou wilt prolong the king’s life: his years shall be as many generations.",
+    "reference": "Psalm 61:6 (ERV)",
+    "connected_to": "Psalm 61:7",
+    "connected_from": "Psalm 61:5"
+  },
+  {
+    "text": "He shall abide before God for ever: O prepare lovingkindness and truth, that they may preserve him.",
+    "reference": "Psalm 61:7 (ERV)",
+    "connected_to": "Psalm 61:8",
+    "connected_from": "Psalm 61:6"
+  },
+  {
+    "text": "So will I sing praise unto thy name for ever, that I may daily perform my vows.",
+    "reference": "Psalm 61:8 (ERV)",
+    "connected_from": "Psalm 61:7"
+  }
+]

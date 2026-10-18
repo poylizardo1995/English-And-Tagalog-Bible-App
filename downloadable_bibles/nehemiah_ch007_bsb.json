@@ -1,0 +1,438 @@
+[
+  {
+    "text": "When the wall had been rebuilt and I had set the doors in place, the gatekeepers, singers, and Levites were appointed.",
+    "reference": "Nehemiah 7:1 (BSB)",
+    "connected_to": "Nehemiah 7:2"
+  },
+  {
+    "text": "Then I put my brother Hanani in charge of Jerusalem, along with Hananiah the commander of the fortress, because he was a faithful man who feared God more than most.",
+    "reference": "Nehemiah 7:2 (BSB)",
+    "connected_to": "Nehemiah 7:3",
+    "connected_from": "Nehemiah 7:1"
+  },
+  {
+    "text": "And I told them, “Do not open the gates of Jerusalem until the sun is hot. While the guards are on duty, keep the doors shut and securely fastened. And appoint the residents of Jerusalem as guards, some at their posts and some at their own homes.”",
+    "reference": "Nehemiah 7:3 (BSB)",
+    "connected_to": "Nehemiah 7:4",
+    "connected_from": "Nehemiah 7:2"
+  },
+  {
+    "text": "Now the city was large and spacious, but there were few people in it, and the houses had not yet been rebuilt.",
+    "reference": "Nehemiah 7:4 (BSB)",
+    "connected_to": "Nehemiah 7:5",
+    "connected_from": "Nehemiah 7:3"
+  },
+  {
+    "text": "Then my God put it into my heart to assemble the nobles, the officials, and the people to be enrolled by genealogy. I found the genealogical register of those who had first returned, and I found the following written in it:",
+    "reference": "Nehemiah 7:5 (BSB)",
+    "connected_to": "Nehemiah 7:6",
+    "connected_from": "Nehemiah 7:4"
+  },
+  {
+    "text": "These are the people of the province who came up from the captivity of the exiles carried away to Babylon by Nebuchadnezzar its king. They returned to Jerusalem and Judah, each to his own town,",
+    "reference": "Nehemiah 7:6 (BSB)",
+    "connected_to": "Nehemiah 7:7",
+    "connected_from": "Nehemiah 7:5"
+  },
+  {
+    "text": "accompanied by Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum, and Baanah. This is the count of the men of Israel:",
+    "reference": "Nehemiah 7:7 (BSB)",
+    "connected_to": "Nehemiah 7:8",
+    "connected_from": "Nehemiah 7:6"
+  },
+  {
+    "text": "the descendants of Parosh, 2,172;",
+    "reference": "Nehemiah 7:8 (BSB)",
+    "connected_to": "Nehemiah 7:9",
+    "connected_from": "Nehemiah 7:7"
+  },
+  {
+    "text": "the descendants of Shephatiah, 372;",
+    "reference": "Nehemiah 7:9 (BSB)",
+    "connected_to": "Nehemiah 7:10",
+    "connected_from": "Nehemiah 7:8"
+  },
+  {
+    "text": "the descendants of Arah, 652;",
+    "reference": "Nehemiah 7:10 (BSB)",
+    "connected_to": "Nehemiah 7:11",
+    "connected_from": "Nehemiah 7:9"
+  },
+  {
+    "text": "the descendants of Pahath-moab (through the line of Jeshua and Joab), 2,818;",
+    "reference": "Nehemiah 7:11 (BSB)",
+    "connected_to": "Nehemiah 7:12",
+    "connected_from": "Nehemiah 7:10"
+  },
+  {
+    "text": "the descendants of Elam, 1,254;",
+    "reference": "Nehemiah 7:12 (BSB)",
+    "connected_to": "Nehemiah 7:13",
+    "connected_from": "Nehemiah 7:11"
+  },
+  {
+    "text": "the descendants of Zattu, 845;",
+    "reference": "Nehemiah 7:13 (BSB)",
+    "connected_to": "Nehemiah 7:14",
+    "connected_from": "Nehemiah 7:12"
+  },
+  {
+    "text": "the descendants of Zaccai, 760;",
+    "reference": "Nehemiah 7:14 (BSB)",
+    "connected_to": "Nehemiah 7:15",
+    "connected_from": "Nehemiah 7:13"
+  },
+  {
+    "text": "the descendants of Binnui, 648;",
+    "reference": "Nehemiah 7:15 (BSB)",
+    "connected_to": "Nehemiah 7:16",
+    "connected_from": "Nehemiah 7:14"
+  },
+  {
+    "text": "the descendants of Bebai, 628;",
+    "reference": "Nehemiah 7:16 (BSB)",
+    "connected_to": "Nehemiah 7:17",
+    "connected_from": "Nehemiah 7:15"
+  },
+  {
+    "text": "the descendants of Azgad, 2,322;",
+    "reference": "Nehemiah 7:17 (BSB)",
+    "connected_to": "Nehemiah 7:18",
+    "connected_from": "Nehemiah 7:16"
+  },
+  {
+    "text": "the descendants of Adonikam, 667;",
+    "reference": "Nehemiah 7:18 (BSB)",
+    "connected_to": "Nehemiah 7:19",
+    "connected_from": "Nehemiah 7:17"
+  },
+  {
+    "text": "the descendants of Bigvai, 2,067;",
+    "reference": "Nehemiah 7:19 (BSB)",
+    "connected_to": "Nehemiah 7:20",
+    "connected_from": "Nehemiah 7:18"
+  },
+  {
+    "text": "the descendants of Adin, 655;",
+    "reference": "Nehemiah 7:20 (BSB)",
+    "connected_to": "Nehemiah 7:21",
+    "connected_from": "Nehemiah 7:19"
+  },
+  {
+    "text": "the descendants of Ater (through Hezekiah), 98;",
+    "reference": "Nehemiah 7:21 (BSB)",
+    "connected_to": "Nehemiah 7:22",
+    "connected_from": "Nehemiah 7:20"
+  },
+  {
+    "text": "the descendants of Hashum, 328;",
+    "reference": "Nehemiah 7:22 (BSB)",
+    "connected_to": "Nehemiah 7:23",
+    "connected_from": "Nehemiah 7:21"
+  },
+  {
+    "text": "the descendants of Bezai, 324;",
+    "reference": "Nehemiah 7:23 (BSB)",
+    "connected_to": "Nehemiah 7:24",
+    "connected_from": "Nehemiah 7:22"
+  },
+  {
+    "text": "the descendants of Hariph, 112;",
+    "reference": "Nehemiah 7:24 (BSB)",
+    "connected_to": "Nehemiah 7:25",
+    "connected_from": "Nehemiah 7:23"
+  },
+  {
+    "text": "the descendants of Gibeon, 95;",
+    "reference": "Nehemiah 7:25 (BSB)",
+    "connected_to": "Nehemiah 7:26",
+    "connected_from": "Nehemiah 7:24"
+  },
+  {
+    "text": "the men of Bethlehem and Netophah, 188;",
+    "reference": "Nehemiah 7:26 (BSB)",
+    "connected_to": "Nehemiah 7:27",
+    "connected_from": "Nehemiah 7:25"
+  },
+  {
+    "text": "the men of Anathoth, 128;",
+    "reference": "Nehemiah 7:27 (BSB)",
+    "connected_to": "Nehemiah 7:28",
+    "connected_from": "Nehemiah 7:26"
+  },
+  {
+    "text": "the men of Beth-azmaveth, 42;",
+    "reference": "Nehemiah 7:28 (BSB)",
+    "connected_to": "Nehemiah 7:29",
+    "connected_from": "Nehemiah 7:27"
+  },
+  {
+    "text": "the men of Kiriath-jearim, Chephirah, and Beeroth, 743;",
+    "reference": "Nehemiah 7:29 (BSB)",
+    "connected_to": "Nehemiah 7:30",
+    "connected_from": "Nehemiah 7:28"
+  },
+  {
+    "text": "the men of Ramah and Geba, 621;",
+    "reference": "Nehemiah 7:30 (BSB)",
+    "connected_to": "Nehemiah 7:31",
+    "connected_from": "Nehemiah 7:29"
+  },
+  {
+    "text": "the men of Michmash, 122;",
+    "reference": "Nehemiah 7:31 (BSB)",
+    "connected_to": "Nehemiah 7:32",
+    "connected_from": "Nehemiah 7:30"
+  },
+  {
+    "text": "the men of Bethel and Ai, 123;",
+    "reference": "Nehemiah 7:32 (BSB)",
+    "connected_to": "Nehemiah 7:33",
+    "connected_from": "Nehemiah 7:31"
+  },
+  {
+    "text": "the men of the other Nebo, 52;",
+    "reference": "Nehemiah 7:33 (BSB)",
+    "connected_to": "Nehemiah 7:34",
+    "connected_from": "Nehemiah 7:32"
+  },
+  {
+    "text": "the descendants of the other Elam, 1,254;",
+    "reference": "Nehemiah 7:34 (BSB)",
+    "connected_to": "Nehemiah 7:35",
+    "connected_from": "Nehemiah 7:33"
+  },
+  {
+    "text": "the descendants of Harim, 320;",
+    "reference": "Nehemiah 7:35 (BSB)",
+    "connected_to": "Nehemiah 7:36",
+    "connected_from": "Nehemiah 7:34"
+  },
+  {
+    "text": "the men of Jericho, 345;",
+    "reference": "Nehemiah 7:36 (BSB)",
+    "connected_to": "Nehemiah 7:37",
+    "connected_from": "Nehemiah 7:35"
+  },
+  {
+    "text": "the men of Lod, Hadid, and Ono, 721;",
+    "reference": "Nehemiah 7:37 (BSB)",
+    "connected_to": "Nehemiah 7:38",
+    "connected_from": "Nehemiah 7:36"
+  },
+  {
+    "text": "and the descendants of Senaah, 3,930.",
+    "reference": "Nehemiah 7:38 (BSB)",
+    "connected_to": "Nehemiah 7:39",
+    "connected_from": "Nehemiah 7:37"
+  },
+  {
+    "text": "The priests: the descendants of Jedaiah (through the house of Jeshua), 973;",
+    "reference": "Nehemiah 7:39 (BSB)",
+    "connected_to": "Nehemiah 7:40",
+    "connected_from": "Nehemiah 7:38"
+  },
+  {
+    "text": "the descendants of Immer, 1,052;",
+    "reference": "Nehemiah 7:40 (BSB)",
+    "connected_to": "Nehemiah 7:41",
+    "connected_from": "Nehemiah 7:39"
+  },
+  {
+    "text": "the descendants of Pashhur, 1,247;",
+    "reference": "Nehemiah 7:41 (BSB)",
+    "connected_to": "Nehemiah 7:42",
+    "connected_from": "Nehemiah 7:40"
+  },
+  {
+    "text": "and the descendants of Harim, 1,017.",
+    "reference": "Nehemiah 7:42 (BSB)",
+    "connected_to": "Nehemiah 7:43",
+    "connected_from": "Nehemiah 7:41"
+  },
+  {
+    "text": "The Levites: the descendants of Jeshua (through Kadmiel, through the line of Hodevah), 74.",
+    "reference": "Nehemiah 7:43 (BSB)",
+    "connected_to": "Nehemiah 7:44",
+    "connected_from": "Nehemiah 7:42"
+  },
+  {
+    "text": "The singers: the descendants of Asaph, 148.",
+    "reference": "Nehemiah 7:44 (BSB)",
+    "connected_to": "Nehemiah 7:45",
+    "connected_from": "Nehemiah 7:43"
+  },
+  {
+    "text": "The gatekeepers: the descendants of Shallum, the descendants of Ater, the descendants of Talmon, the descendants of Akkub, the descendants of Hatita, and the descendants of Shobai, 138 in all.",
+    "reference": "Nehemiah 7:45 (BSB)",
+    "connected_to": "Nehemiah 7:46",
+    "connected_from": "Nehemiah 7:44"
+  },
+  {
+    "text": "The temple servants: the descendants of Ziha, the descendants of Hasupha, the descendants of Tabbaoth,",
+    "reference": "Nehemiah 7:46 (BSB)",
+    "connected_to": "Nehemiah 7:47",
+    "connected_from": "Nehemiah 7:45"
+  },
+  {
+    "text": "the descendants of Keros, the descendants of Sia, the descendants of Padon,",
+    "reference": "Nehemiah 7:47 (BSB)",
+    "connected_to": "Nehemiah 7:48",
+    "connected_from": "Nehemiah 7:46"
+  },
+  {
+    "text": "the descendants of Lebanah, the descendants of Hagabah, the descendants of Shalmai,",
+    "reference": "Nehemiah 7:48 (BSB)",
+    "connected_to": "Nehemiah 7:49",
+    "connected_from": "Nehemiah 7:47"
+  },
+  {
+    "text": "the descendants of Hanan, the descendants of Giddel, the descendants of Gahar,",
+    "reference": "Nehemiah 7:49 (BSB)",
+    "connected_to": "Nehemiah 7:50",
+    "connected_from": "Nehemiah 7:48"
+  },
+  {
+    "text": "the descendants of Reaiah, the descendants of Rezin, the descendants of Nekoda,",
+    "reference": "Nehemiah 7:50 (BSB)",
+    "connected_to": "Nehemiah 7:51",
+    "connected_from": "Nehemiah 7:49"
+  },
+  {
+    "text": "the descendants of Gazzam, the descendants of Uzza, the descendants of Paseah,",
+    "reference": "Nehemiah 7:51 (BSB)",
+    "connected_to": "Nehemiah 7:52",
+    "connected_from": "Nehemiah 7:50"
+  },
+  {
+    "text": "the descendants of Besai, the descendants of Meunim, the descendants of Nephushesim,",
+    "reference": "Nehemiah 7:52 (BSB)",
+    "connected_to": "Nehemiah 7:53",
+    "connected_from": "Nehemiah 7:51"
+  },
+  {
+    "text": "the descendants of Bakbuk, the descendants of Hakupha, the descendants of Harhur,",
+    "reference": "Nehemiah 7:53 (BSB)",
+    "connected_to": "Nehemiah 7:54",
+    "connected_from": "Nehemiah 7:52"
+  },
+  {
+    "text": "the descendants of Bazlith, the descendants of Mehida, the descendants of Harsha,",
+    "reference": "Nehemiah 7:54 (BSB)",
+    "connected_to": "Nehemiah 7:55",
+    "connected_from": "Nehemiah 7:53"
+  },
+  {
+    "text": "the descendants of Barkos, the descendants of Sisera, the descendants of Temah,",
+    "reference": "Nehemiah 7:55 (BSB)",
+    "connected_to": "Nehemiah 7:56",
+    "connected_from": "Nehemiah 7:54"
+  },
+  {
+    "text": "the descendants of Neziah, and the descendants of Hatipha.",
+    "reference": "Nehemiah 7:56 (BSB)",
+    "connected_to": "Nehemiah 7:57",
+    "connected_from": "Nehemiah 7:55"
+  },
+  {
+    "text": "The descendants of the servants of Solomon: the descendants of Sotai, the descendants of Sophereth, the descendants of Perida,",
+    "reference": "Nehemiah 7:57 (BSB)",
+    "connected_to": "Nehemiah 7:58",
+    "connected_from": "Nehemiah 7:56"
+  },
+  {
+    "text": "the descendants of Jaala, the descendants of Darkon, the descendants of Giddel,",
+    "reference": "Nehemiah 7:58 (BSB)",
+    "connected_to": "Nehemiah 7:59",
+    "connected_from": "Nehemiah 7:57"
+  },
+  {
+    "text": "the descendants of Shephatiah, the descendants of Hattil, the descendants of Pochereth-hazzebaim, and the descendants of Amon.",
+    "reference": "Nehemiah 7:59 (BSB)",
+    "connected_to": "Nehemiah 7:60",
+    "connected_from": "Nehemiah 7:58"
+  },
+  {
+    "text": "The temple servants and descendants of the servants of Solomon numbered 392 in all.",
+    "reference": "Nehemiah 7:60 (BSB)",
+    "connected_to": "Nehemiah 7:61",
+    "connected_from": "Nehemiah 7:59"
+  },
+  {
+    "text": "The following came up from Tel-melah, Tel-harsha, Cherub, Addon, and Immer, but they could not prove that their families were descended from Israel:",
+    "reference": "Nehemiah 7:61 (BSB)",
+    "connected_to": "Nehemiah 7:62",
+    "connected_from": "Nehemiah 7:60"
+  },
+  {
+    "text": "the descendants of Delaiah, the descendants of Tobiah, and the descendants of Nekoda, 642 in all.",
+    "reference": "Nehemiah 7:62 (BSB)",
+    "connected_to": "Nehemiah 7:63",
+    "connected_from": "Nehemiah 7:61"
+  },
+  {
+    "text": "And from among the priests: the descendants of Hobaiah, the descendants of Hakkoz, and the descendants of Barzillai (who had married a daughter of Barzillai the Gileadite and was called by their name).",
+    "reference": "Nehemiah 7:63 (BSB)",
+    "connected_to": "Nehemiah 7:64",
+    "connected_from": "Nehemiah 7:62"
+  },
+  {
+    "text": "These men searched for their family records, but they could not find them and so were excluded from the priesthood as unclean.",
+    "reference": "Nehemiah 7:64 (BSB)",
+    "connected_to": "Nehemiah 7:65",
+    "connected_from": "Nehemiah 7:63"
+  },
+  {
+    "text": "The governor ordered them not to eat the most holy things until there was a priest to consult the Urim and Thummim.",
+    "reference": "Nehemiah 7:65 (BSB)",
+    "connected_to": "Nehemiah 7:66",
+    "connected_from": "Nehemiah 7:64"
+  },
+  {
+    "text": "The whole assembly numbered 42,360,",
+    "reference": "Nehemiah 7:66 (BSB)",
+    "connected_to": "Nehemiah 7:67",
+    "connected_from": "Nehemiah 7:65"
+  },
+  {
+    "text": "in addition to their 7,337 menservants and maidservants, as well as their 245 male and female singers.",
+    "reference": "Nehemiah 7:67 (BSB)",
+    "connected_to": "Nehemiah 7:68",
+    "connected_from": "Nehemiah 7:66"
+  },
+  {
+    "text": "They had 736 horses, 245 mules,",
+    "reference": "Nehemiah 7:68 (BSB)",
+    "connected_to": "Nehemiah 7:69",
+    "connected_from": "Nehemiah 7:67"
+  },
+  {
+    "text": "435 camels, and 6,720 donkeys.",
+    "reference": "Nehemiah 7:69 (BSB)",
+    "connected_to": "Nehemiah 7:70",
+    "connected_from": "Nehemiah 7:68"
+  },
+  {
+    "text": "Some of the heads of the families contributed to the project. The governor gave to the treasury 1,000 darics of gold, 50 bowls, and 530 priestly garments.",
+    "reference": "Nehemiah 7:70 (BSB)",
+    "connected_to": "Nehemiah 7:71",
+    "connected_from": "Nehemiah 7:69"
+  },
+  {
+    "text": "And some of the heads of the families gave to the treasury for the project 20,000 darics of gold and 2,200 minas of silver.",
+    "reference": "Nehemiah 7:71 (BSB)",
+    "connected_to": "Nehemiah 7:72",
+    "connected_from": "Nehemiah 7:70"
+  },
+  {
+    "text": "The rest of the people gave a total of 20,000 darics of gold, 2,000 minas of silver, and 67 priestly garments.",
+    "reference": "Nehemiah 7:72 (BSB)",
+    "connected_to": "Nehemiah 7:73",
+    "connected_from": "Nehemiah 7:71"
+  },
+  {
+    "text": "So the priests, Levites, gatekeepers, singers, and temple servants, along with some of the people and the rest of the Israelites, settled in their own towns. And by the seventh month the Israelites had settled in their towns.",
+    "reference": "Nehemiah 7:73 (BSB)",
+    "connected_from": "Nehemiah 7:72"
+  }
+]

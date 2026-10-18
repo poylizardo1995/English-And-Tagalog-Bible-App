@@ -1,0 +1,180 @@
+[
+  {
+    "text": "And the LORD spoke to Moses, saying,",
+    "reference": "Leviticus 18:1 (AKJV)",
+    "connected_to": "Leviticus 18:2"
+  },
+  {
+    "text": "Speak to the children of Israel, and say to them, I am the LORD your God.",
+    "reference": "Leviticus 18:2 (AKJV)",
+    "connected_to": "Leviticus 18:3",
+    "connected_from": "Leviticus 18:1"
+  },
+  {
+    "text": "After the doings of the land of Egypt, wherein you dwelled, shall you not do: and after the doings of the land of Canaan, where I bring you, shall you not do: neither shall you walk in their ordinances.",
+    "reference": "Leviticus 18:3 (AKJV)",
+    "connected_to": "Leviticus 18:4",
+    "connected_from": "Leviticus 18:2"
+  },
+  {
+    "text": "You shall do my judgments, and keep my ordinances, to walk therein: I am the LORD your God.",
+    "reference": "Leviticus 18:4 (AKJV)",
+    "connected_to": "Leviticus 18:5",
+    "connected_from": "Leviticus 18:3"
+  },
+  {
+    "text": "You shall therefore keep my statutes, and my judgments: which if a man do, he shall live in them: I am the LORD.",
+    "reference": "Leviticus 18:5 (AKJV)",
+    "connected_to": "Leviticus 18:6",
+    "connected_from": "Leviticus 18:4"
+  },
+  {
+    "text": "None of you shall approach to any that is near of kin to him, to uncover their nakedness: I am the LORD.",
+    "reference": "Leviticus 18:6 (AKJV)",
+    "connected_to": "Leviticus 18:7",
+    "connected_from": "Leviticus 18:5"
+  },
+  {
+    "text": "The nakedness of your father, or the nakedness of your mother, shall you not uncover: she is your mother; you shall not uncover her nakedness.",
+    "reference": "Leviticus 18:7 (AKJV)",
+    "connected_to": "Leviticus 18:8",
+    "connected_from": "Leviticus 18:6"
+  },
+  {
+    "text": "The nakedness of your father’s wife shall you not uncover: it is your father’s nakedness.",
+    "reference": "Leviticus 18:8 (AKJV)",
+    "connected_to": "Leviticus 18:9",
+    "connected_from": "Leviticus 18:7"
+  },
+  {
+    "text": "The nakedness of your sister, the daughter of your father, or daughter of your mother, whether she be born at home, or born abroad, even their nakedness you shall not uncover.",
+    "reference": "Leviticus 18:9 (AKJV)",
+    "connected_to": "Leviticus 18:10",
+    "connected_from": "Leviticus 18:8"
+  },
+  {
+    "text": "The nakedness of your son’s daughter, or of your daughter’s daughter, even their nakedness you shall not uncover: for theirs is your own nakedness.",
+    "reference": "Leviticus 18:10 (AKJV)",
+    "connected_to": "Leviticus 18:11",
+    "connected_from": "Leviticus 18:9"
+  },
+  {
+    "text": "The nakedness of your father’s wife’s daughter, begotten of your father, she is your sister, you shall not uncover her nakedness.",
+    "reference": "Leviticus 18:11 (AKJV)",
+    "connected_to": "Leviticus 18:12",
+    "connected_from": "Leviticus 18:10"
+  },
+  {
+    "text": "You shall not uncover the nakedness of your father’s sister: she is your father’s near kinswoman.",
+    "reference": "Leviticus 18:12 (AKJV)",
+    "connected_to": "Leviticus 18:13",
+    "connected_from": "Leviticus 18:11"
+  },
+  {
+    "text": "You shall not uncover the nakedness of your mother’s sister: for she is your mother’s near kinswoman.",
+    "reference": "Leviticus 18:13 (AKJV)",
+    "connected_to": "Leviticus 18:14",
+    "connected_from": "Leviticus 18:12"
+  },
+  {
+    "text": "You shall not uncover the nakedness of your father’s brother, you shall not approach to his wife: she is your aunt.",
+    "reference": "Leviticus 18:14 (AKJV)",
+    "connected_to": "Leviticus 18:15",
+    "connected_from": "Leviticus 18:13"
+  },
+  {
+    "text": "You shall not uncover the nakedness of your daughter in law: she is your son’s wife; you shall not uncover her nakedness.",
+    "reference": "Leviticus 18:15 (AKJV)",
+    "connected_to": "Leviticus 18:16",
+    "connected_from": "Leviticus 18:14"
+  },
+  {
+    "text": "You shall not uncover the nakedness of your brother’s wife: it is your brother’s nakedness.",
+    "reference": "Leviticus 18:16 (AKJV)",
+    "connected_to": "Leviticus 18:17",
+    "connected_from": "Leviticus 18:15"
+  },
+  {
+    "text": "You shall not uncover the nakedness of a woman and her daughter, neither shall you take her son’s daughter, or her daughter’s daughter, to uncover her nakedness; for they are her near kinswomen: it is wickedness.",
+    "reference": "Leviticus 18:17 (AKJV)",
+    "connected_to": "Leviticus 18:18",
+    "connected_from": "Leviticus 18:16"
+  },
+  {
+    "text": "Neither shall you take a wife to her sister, to vex her, to uncover her nakedness, beside the other in her life time.",
+    "reference": "Leviticus 18:18 (AKJV)",
+    "connected_to": "Leviticus 18:19",
+    "connected_from": "Leviticus 18:17"
+  },
+  {
+    "text": "Also you shall not approach to a woman to uncover her nakedness, as long as she is put apart for her uncleanness.",
+    "reference": "Leviticus 18:19 (AKJV)",
+    "connected_to": "Leviticus 18:20",
+    "connected_from": "Leviticus 18:18"
+  },
+  {
+    "text": "Moreover you shall not lie carnally with your neighbor’s wife, to defile yourself with her.",
+    "reference": "Leviticus 18:20 (AKJV)",
+    "connected_to": "Leviticus 18:21",
+    "connected_from": "Leviticus 18:19"
+  },
+  {
+    "text": "And you shall not let any of your seed pass through the fire to Molech, neither shall you profane the name of your God: I am the LORD.",
+    "reference": "Leviticus 18:21 (AKJV)",
+    "connected_to": "Leviticus 18:22",
+    "connected_from": "Leviticus 18:20"
+  },
+  {
+    "text": "You shall not lie with mankind, as with womankind: it is abomination.",
+    "reference": "Leviticus 18:22 (AKJV)",
+    "connected_to": "Leviticus 18:23",
+    "connected_from": "Leviticus 18:21"
+  },
+  {
+    "text": "Neither shall you lie with any beast to defile yourself therewith: neither shall any woman stand before a beast to lie down thereto: it is confusion.",
+    "reference": "Leviticus 18:23 (AKJV)",
+    "connected_to": "Leviticus 18:24",
+    "connected_from": "Leviticus 18:22"
+  },
+  {
+    "text": "Defile not you yourselves in any of these things: for in all these the nations are defiled which I cast out before you:",
+    "reference": "Leviticus 18:24 (AKJV)",
+    "connected_to": "Leviticus 18:25",
+    "connected_from": "Leviticus 18:23"
+  },
+  {
+    "text": "And the land is defiled: therefore I do visit the iniquity thereof on it, and the land itself vomits out her inhabitants.",
+    "reference": "Leviticus 18:25 (AKJV)",
+    "connected_to": "Leviticus 18:26",
+    "connected_from": "Leviticus 18:24"
+  },
+  {
+    "text": "You shall therefore keep my statutes and my judgments, and shall not commit any of these abominations; neither any of your own nation, nor any stranger that sojournes among you:",
+    "reference": "Leviticus 18:26 (AKJV)",
+    "connected_to": "Leviticus 18:27",
+    "connected_from": "Leviticus 18:25"
+  },
+  {
+    "text": "(For all these abominations have the men of the land done, which were before you, and the land is defiled;)",
+    "reference": "Leviticus 18:27 (AKJV)",
+    "connected_to": "Leviticus 18:28",
+    "connected_from": "Leviticus 18:26"
+  },
+  {
+    "text": "That the land spew not you out also, when you defile it, as it spewed out the nations that were before you.",
+    "reference": "Leviticus 18:28 (AKJV)",
+    "connected_to": "Leviticus 18:29",
+    "connected_from": "Leviticus 18:27"
+  },
+  {
+    "text": "For whoever shall commit any of these abominations, even the souls that commit them shall be cut off from among their people.",
+    "reference": "Leviticus 18:29 (AKJV)",
+    "connected_to": "Leviticus 18:30",
+    "connected_from": "Leviticus 18:28"
+  },
+  {
+    "text": "Therefore shall you keep my ordinance, that you commit not any one of these abominable customs, which were committed before you, and that you defile not yourselves therein: I am the LORD your God.",
+    "reference": "Leviticus 18:30 (AKJV)",
+    "connected_from": "Leviticus 18:29"
+  }
+]

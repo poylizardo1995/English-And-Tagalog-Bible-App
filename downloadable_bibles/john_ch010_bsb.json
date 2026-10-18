@@ -1,0 +1,252 @@
+[
+  {
+    "text": "“Truly, truly, I tell you, whoever does not enter the sheepfold by the gate, but climbs in some other way, is a thief and a robber.",
+    "reference": "John 10:1 (BSB)",
+    "connected_to": "John 10:2"
+  },
+  {
+    "text": "But the one who enters by the gate is the shepherd of the sheep.",
+    "reference": "John 10:2 (BSB)",
+    "connected_to": "John 10:3",
+    "connected_from": "John 10:1"
+  },
+  {
+    "text": "The gatekeeper opens the gate for him, and the sheep listen for his voice. He calls his own sheep by name and leads them out.",
+    "reference": "John 10:3 (BSB)",
+    "connected_to": "John 10:4",
+    "connected_from": "John 10:2"
+  },
+  {
+    "text": "When he has brought out all his own, he goes on ahead of them, and his sheep follow him because they know his voice.",
+    "reference": "John 10:4 (BSB)",
+    "connected_to": "John 10:5",
+    "connected_from": "John 10:3"
+  },
+  {
+    "text": "But they will never follow a stranger; in fact, they will flee from him because they do not recognize his voice.”",
+    "reference": "John 10:5 (BSB)",
+    "connected_to": "John 10:6",
+    "connected_from": "John 10:4"
+  },
+  {
+    "text": "Jesus spoke to them using this illustration, but they did not understand what He was telling them.",
+    "reference": "John 10:6 (BSB)",
+    "connected_to": "John 10:7",
+    "connected_from": "John 10:5"
+  },
+  {
+    "text": "So He said to them again, “Truly, truly, I tell you, I am the gate for the sheep.",
+    "reference": "John 10:7 (BSB)",
+    "connected_to": "John 10:8",
+    "connected_from": "John 10:6"
+  },
+  {
+    "text": "All who came before Me were thieves and robbers, but the sheep did not listen to them.",
+    "reference": "John 10:8 (BSB)",
+    "connected_to": "John 10:9",
+    "connected_from": "John 10:7"
+  },
+  {
+    "text": "I am the gate. If anyone enters through Me, he will be saved. He will come in and go out and find pasture.",
+    "reference": "John 10:9 (BSB)",
+    "connected_to": "John 10:10",
+    "connected_from": "John 10:8"
+  },
+  {
+    "text": "The thief comes only to steal and kill and destroy. I have come that they may have life, and have it in all its fullness.",
+    "reference": "John 10:10 (BSB)",
+    "connected_to": "John 10:11",
+    "connected_from": "John 10:9"
+  },
+  {
+    "text": "I am the good shepherd. The good shepherd lays down His life for the sheep.",
+    "reference": "John 10:11 (BSB)",
+    "connected_to": "John 10:12",
+    "connected_from": "John 10:10"
+  },
+  {
+    "text": "The hired hand is not the shepherd, and the sheep are not his own. When he sees the wolf coming, he abandons the sheep and runs away. Then the wolf pounces on them and scatters the flock.",
+    "reference": "John 10:12 (BSB)",
+    "connected_to": "John 10:13",
+    "connected_from": "John 10:11"
+  },
+  {
+    "text": "The man runs away because he is a hired servant and is unconcerned for the sheep.",
+    "reference": "John 10:13 (BSB)",
+    "connected_to": "John 10:14",
+    "connected_from": "John 10:12"
+  },
+  {
+    "text": "I am the good shepherd. I know My sheep and My sheep know Me,",
+    "reference": "John 10:14 (BSB)",
+    "connected_to": "John 10:15",
+    "connected_from": "John 10:13"
+  },
+  {
+    "text": "just as the Father knows Me and I know the Father. And I lay down My life for the sheep.",
+    "reference": "John 10:15 (BSB)",
+    "connected_to": "John 10:16",
+    "connected_from": "John 10:14"
+  },
+  {
+    "text": "I have other sheep that are not of this fold. I must bring them in as well, and they will listen to My voice. Then there will be one flock and one shepherd.",
+    "reference": "John 10:16 (BSB)",
+    "connected_to": "John 10:17",
+    "connected_from": "John 10:15"
+  },
+  {
+    "text": "The reason the Father loves Me is that I lay down My life in order to take it up again.",
+    "reference": "John 10:17 (BSB)",
+    "connected_to": "John 10:18",
+    "connected_from": "John 10:16"
+  },
+  {
+    "text": "No one takes it from Me, but I lay it down of My own accord. I have authority to lay it down and authority to take it up again. This charge I have received from My Father.”",
+    "reference": "John 10:18 (BSB)",
+    "connected_to": "John 10:19",
+    "connected_from": "John 10:17"
+  },
+  {
+    "text": "Again there was division among the Jews because of Jesus’ message.",
+    "reference": "John 10:19 (BSB)",
+    "connected_to": "John 10:20",
+    "connected_from": "John 10:18"
+  },
+  {
+    "text": "Many of them said, “He is demon-possessed and insane. Why would you listen to Him?”",
+    "reference": "John 10:20 (BSB)",
+    "connected_to": "John 10:21",
+    "connected_from": "John 10:19"
+  },
+  {
+    "text": "But others replied, “These are not the words of a man possessed by a demon. Can a demon open the eyes of the blind?”",
+    "reference": "John 10:21 (BSB)",
+    "connected_to": "John 10:22",
+    "connected_from": "John 10:20"
+  },
+  {
+    "text": "At that time the Feast of Dedication took place in Jerusalem. It was winter,",
+    "reference": "John 10:22 (BSB)",
+    "connected_to": "John 10:23",
+    "connected_from": "John 10:21"
+  },
+  {
+    "text": "and Jesus was walking in the temple courts in Solomon’s Colonnade.",
+    "reference": "John 10:23 (BSB)",
+    "connected_to": "John 10:24",
+    "connected_from": "John 10:22"
+  },
+  {
+    "text": "So the Jews gathered around Him and demanded, “How long will You keep us in suspense? If You are the Christ, tell us plainly.”",
+    "reference": "John 10:24 (BSB)",
+    "connected_to": "John 10:25",
+    "connected_from": "John 10:23"
+  },
+  {
+    "text": "“I already told you,” Jesus replied, “but you did not believe. The works I do in My Father’s name testify on My behalf.",
+    "reference": "John 10:25 (BSB)",
+    "connected_to": "John 10:26",
+    "connected_from": "John 10:24"
+  },
+  {
+    "text": "But because you are not My sheep, you refuse to believe.",
+    "reference": "John 10:26 (BSB)",
+    "connected_to": "John 10:27",
+    "connected_from": "John 10:25"
+  },
+  {
+    "text": "My sheep listen to My voice; I know them, and they follow Me.",
+    "reference": "John 10:27 (BSB)",
+    "connected_to": "John 10:28",
+    "connected_from": "John 10:26"
+  },
+  {
+    "text": "I give them eternal life, and they will never perish. No one can snatch them out of My hand.",
+    "reference": "John 10:28 (BSB)",
+    "connected_to": "John 10:29",
+    "connected_from": "John 10:27"
+  },
+  {
+    "text": "My Father who has given them to Me is greater than all. No one can snatch them out of My Father’s hand.",
+    "reference": "John 10:29 (BSB)",
+    "connected_to": "John 10:30",
+    "connected_from": "John 10:28"
+  },
+  {
+    "text": "I and the Father are one.”",
+    "reference": "John 10:30 (BSB)",
+    "connected_to": "John 10:31",
+    "connected_from": "John 10:29"
+  },
+  {
+    "text": "At this, the Jews again picked up stones to stone Him.",
+    "reference": "John 10:31 (BSB)",
+    "connected_to": "John 10:32",
+    "connected_from": "John 10:30"
+  },
+  {
+    "text": "But Jesus responded, “I have shown you many good works from the Father. For which of these do you stone Me?”",
+    "reference": "John 10:32 (BSB)",
+    "connected_to": "John 10:33",
+    "connected_from": "John 10:31"
+  },
+  {
+    "text": "“We are not stoning You for any good work,” said the Jews, “but for blasphemy, because You, who are a man, make Yourself out to be God.”",
+    "reference": "John 10:33 (BSB)",
+    "connected_to": "John 10:34",
+    "connected_from": "John 10:32"
+  },
+  {
+    "text": "Jesus replied, “Is it not written in your Law: ‘I have said you are gods’?",
+    "reference": "John 10:34 (BSB)",
+    "connected_to": "John 10:35",
+    "connected_from": "John 10:33"
+  },
+  {
+    "text": "If he called them gods to whom the word of God came—and the Scripture cannot be broken—",
+    "reference": "John 10:35 (BSB)",
+    "connected_to": "John 10:36",
+    "connected_from": "John 10:34"
+  },
+  {
+    "text": "then what about the One whom the Father sanctified and sent into the world? How then can you accuse Me of blasphemy for stating that I am the Son of God?",
+    "reference": "John 10:36 (BSB)",
+    "connected_to": "John 10:37",
+    "connected_from": "John 10:35"
+  },
+  {
+    "text": "If I am not doing the works of My Father, then do not believe Me.",
+    "reference": "John 10:37 (BSB)",
+    "connected_to": "John 10:38",
+    "connected_from": "John 10:36"
+  },
+  {
+    "text": "But if I am doing them, even though you do not believe Me, believe the works themselves, so that you may know and understand that the Father is in Me, and I am in the Father.”",
+    "reference": "John 10:38 (BSB)",
+    "connected_to": "John 10:39",
+    "connected_from": "John 10:37"
+  },
+  {
+    "text": "At this, they tried again to seize Him, but He escaped their grasp.",
+    "reference": "John 10:39 (BSB)",
+    "connected_to": "John 10:40",
+    "connected_from": "John 10:38"
+  },
+  {
+    "text": "Then Jesus went back across the Jordan to the place where John had first been baptizing, and He stayed there.",
+    "reference": "John 10:40 (BSB)",
+    "connected_to": "John 10:41",
+    "connected_from": "John 10:39"
+  },
+  {
+    "text": "Many came to Him and said, “Although John never performed a sign, everything he said about this man was true.”",
+    "reference": "John 10:41 (BSB)",
+    "connected_to": "John 10:42",
+    "connected_from": "John 10:40"
+  },
+  {
+    "text": "And many in that place believed in Jesus.",
+    "reference": "John 10:42 (BSB)",
+    "connected_from": "John 10:41"
+  }
+]

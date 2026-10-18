@@ -1,0 +1,36 @@
+[
+  {
+    "text": "A Psalm of David. The LORD is my shepherd; I shall not want.",
+    "reference": "Psalm 23:1 (ERV)",
+    "connected_to": "Psalm 23:2"
+  },
+  {
+    "text": "He maketh me to lie down in green pastures: he leadeth me beside the still waters.",
+    "reference": "Psalm 23:2 (ERV)",
+    "connected_to": "Psalm 23:3",
+    "connected_from": "Psalm 23:1"
+  },
+  {
+    "text": "He restoreth my soul: he guideth me in the paths of righteousness for his name’s sake.",
+    "reference": "Psalm 23:3 (ERV)",
+    "connected_to": "Psalm 23:4",
+    "connected_from": "Psalm 23:2"
+  },
+  {
+    "text": "Yea, though I walk through the valley of the shadow of death, I will fear no evil; for thou art with me: thy rod and thy staff, they comfort me.",
+    "reference": "Psalm 23:4 (ERV)",
+    "connected_to": "Psalm 23:5",
+    "connected_from": "Psalm 23:3"
+  },
+  {
+    "text": "Thou preparest a table before me in the presence of mine enemies: thou hast anointed my head with oil; my cup runneth over.",
+    "reference": "Psalm 23:5 (ERV)",
+    "connected_to": "Psalm 23:6",
+    "connected_from": "Psalm 23:4"
+  },
+  {
+    "text": "Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever.",
+    "reference": "Psalm 23:6 (ERV)",
+    "connected_from": "Psalm 23:5"
+  }
+]

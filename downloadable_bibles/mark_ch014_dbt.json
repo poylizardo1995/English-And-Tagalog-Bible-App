@@ -1,0 +1,432 @@
+[
+  {
+    "text": "Now the passover and the [feast of] unleavened bread was after two days. And the chief priests and the scribes were seeking how they might seize him by subtlety and kill him.",
+    "reference": "Mark 14:1 (DBT)",
+    "connected_to": "Mark 14:2"
+  },
+  {
+    "text": "For they said, Not in the feast, lest perhaps there be a tumult of the people.",
+    "reference": "Mark 14:2 (DBT)",
+    "connected_to": "Mark 14:3",
+    "connected_from": "Mark 14:1"
+  },
+  {
+    "text": "And when he was in Bethany, in the house of Simon the leper, as he lay at table, there came a woman having an alabaster flask of ointment of pure nard, very costly; and having broken the alabaster flask, she poured it out upon his head.",
+    "reference": "Mark 14:3 (DBT)",
+    "connected_to": "Mark 14:4",
+    "connected_from": "Mark 14:2"
+  },
+  {
+    "text": "And there were some indignant in themselves, and saying, Why has this waste been made of the ointment?",
+    "reference": "Mark 14:4 (DBT)",
+    "connected_to": "Mark 14:5",
+    "connected_from": "Mark 14:3"
+  },
+  {
+    "text": "for this ointment could have been sold for more than three hundred denarii and given to the poor. And they spoke very angrily at her.",
+    "reference": "Mark 14:5 (DBT)",
+    "connected_to": "Mark 14:6",
+    "connected_from": "Mark 14:4"
+  },
+  {
+    "text": "But Jesus said, Let her alone; why do ye trouble her? she has wrought a good work as to me;",
+    "reference": "Mark 14:6 (DBT)",
+    "connected_to": "Mark 14:7",
+    "connected_from": "Mark 14:5"
+  },
+  {
+    "text": "for ye have the poor always with you, and whenever ye would ye can do them good; but me ye have not always.",
+    "reference": "Mark 14:7 (DBT)",
+    "connected_to": "Mark 14:8",
+    "connected_from": "Mark 14:6"
+  },
+  {
+    "text": "What she could she has done. She has beforehand anointed my body for the burial.",
+    "reference": "Mark 14:8 (DBT)",
+    "connected_to": "Mark 14:9",
+    "connected_from": "Mark 14:7"
+  },
+  {
+    "text": "And verily I say unto you, Wheresoever these glad tidings may be preached in the whole world, what this [woman] has done shall be also spoken of for a memorial of her.",
+    "reference": "Mark 14:9 (DBT)",
+    "connected_to": "Mark 14:10",
+    "connected_from": "Mark 14:8"
+  },
+  {
+    "text": "And Judas Iscariote, one of the twelve, went away to the chief priests that he might deliver him up to them;",
+    "reference": "Mark 14:10 (DBT)",
+    "connected_to": "Mark 14:11",
+    "connected_from": "Mark 14:9"
+  },
+  {
+    "text": "and they, when they heard it, rejoiced, and promised him to give money. And he sought how he could opportunely deliver him up.",
+    "reference": "Mark 14:11 (DBT)",
+    "connected_to": "Mark 14:12",
+    "connected_from": "Mark 14:10"
+  },
+  {
+    "text": "And the first day of unleavened bread, when they slew the passover, his disciples say to him, Where wilt thou that we go and prepare, that thou mayest eat the passover?",
+    "reference": "Mark 14:12 (DBT)",
+    "connected_to": "Mark 14:13",
+    "connected_from": "Mark 14:11"
+  },
+  {
+    "text": "And he sends two of his disciples, and says to them, Go into the city, and a man shall meet you carrying a pitcher of water; follow him.",
+    "reference": "Mark 14:13 (DBT)",
+    "connected_to": "Mark 14:14",
+    "connected_from": "Mark 14:12"
+  },
+  {
+    "text": "And wheresoever he enters, say to the master of the house, The Teacher says, Where is my guest-chamber where I may eat the passover with my disciples?",
+    "reference": "Mark 14:14 (DBT)",
+    "connected_to": "Mark 14:15",
+    "connected_from": "Mark 14:13"
+  },
+  {
+    "text": "and he will shew you a large upper room furnished ready. There make ready for us.",
+    "reference": "Mark 14:15 (DBT)",
+    "connected_to": "Mark 14:16",
+    "connected_from": "Mark 14:14"
+  },
+  {
+    "text": "And his disciples went away and came into the city, and found as he had said to them; and they made ready the passover.",
+    "reference": "Mark 14:16 (DBT)",
+    "connected_to": "Mark 14:17",
+    "connected_from": "Mark 14:15"
+  },
+  {
+    "text": "And when evening was come, he comes with the twelve.",
+    "reference": "Mark 14:17 (DBT)",
+    "connected_to": "Mark 14:18",
+    "connected_from": "Mark 14:16"
+  },
+  {
+    "text": "And as they lay at table and were eating, Jesus said, Verily I say to you, One of you shall deliver me up; he who is eating with me.",
+    "reference": "Mark 14:18 (DBT)",
+    "connected_to": "Mark 14:19",
+    "connected_from": "Mark 14:17"
+  },
+  {
+    "text": "And they began to be grieved, and to say to him, one by one, Is it I? [and another, Is it I?]",
+    "reference": "Mark 14:19 (DBT)",
+    "connected_to": "Mark 14:20",
+    "connected_from": "Mark 14:18"
+  },
+  {
+    "text": "But he answered and said to them, One of the twelve, he who dips with me in the dish.",
+    "reference": "Mark 14:20 (DBT)",
+    "connected_to": "Mark 14:21",
+    "connected_from": "Mark 14:19"
+  },
+  {
+    "text": "The Son of man goes indeed as it is written concerning him, but woe to that man by whom the Son of man is delivered up; [it were] good for that man if he had not been born.",
+    "reference": "Mark 14:21 (DBT)",
+    "connected_to": "Mark 14:22",
+    "connected_from": "Mark 14:20"
+  },
+  {
+    "text": "And as they were eating, Jesus, having taken bread, when he had blessed, broke [it], and gave [it] to them, and said, Take [this]: this is my body.",
+    "reference": "Mark 14:22 (DBT)",
+    "connected_to": "Mark 14:23",
+    "connected_from": "Mark 14:21"
+  },
+  {
+    "text": "And having taken [the] cup, when he had given thanks, he gave [it] to them, and they all drank out of it.",
+    "reference": "Mark 14:23 (DBT)",
+    "connected_to": "Mark 14:24",
+    "connected_from": "Mark 14:22"
+  },
+  {
+    "text": "And he said to them, This is my blood, that of the [new] covenant, that shed for many.",
+    "reference": "Mark 14:24 (DBT)",
+    "connected_to": "Mark 14:25",
+    "connected_from": "Mark 14:23"
+  },
+  {
+    "text": "Verily I say to you, I will no more drink at all of the fruit of the vine, until that day when I drink it new in the kingdom of God.",
+    "reference": "Mark 14:25 (DBT)",
+    "connected_to": "Mark 14:26",
+    "connected_from": "Mark 14:24"
+  },
+  {
+    "text": "And having sung a hymn, they went out to the mount of Olives.",
+    "reference": "Mark 14:26 (DBT)",
+    "connected_to": "Mark 14:27",
+    "connected_from": "Mark 14:25"
+  },
+  {
+    "text": "And Jesus says to them, All ye shall be offended, for it is written, I will smite the shepherd, and the sheep shall be scattered abroad.",
+    "reference": "Mark 14:27 (DBT)",
+    "connected_to": "Mark 14:28",
+    "connected_from": "Mark 14:26"
+  },
+  {
+    "text": "But after I am risen, I will go before you into Galilee.",
+    "reference": "Mark 14:28 (DBT)",
+    "connected_to": "Mark 14:29",
+    "connected_from": "Mark 14:27"
+  },
+  {
+    "text": "But Peter said to him, Even if all should be offended, yet not I.",
+    "reference": "Mark 14:29 (DBT)",
+    "connected_to": "Mark 14:30",
+    "connected_from": "Mark 14:28"
+  },
+  {
+    "text": "And Jesus says to him, Verily I say to thee, that thou to-day, in this night, before [the] cock shall crow twice, thou shalt thrice deny me.",
+    "reference": "Mark 14:30 (DBT)",
+    "connected_to": "Mark 14:31",
+    "connected_from": "Mark 14:29"
+  },
+  {
+    "text": "But he said [so much] exceedingly the more, If I should have to die with thee, I will in no wise deny thee. And likewise said they all too.",
+    "reference": "Mark 14:31 (DBT)",
+    "connected_to": "Mark 14:32",
+    "connected_from": "Mark 14:30"
+  },
+  {
+    "text": "And they come to a place of which the name [is] Gethsemane, and he says to his disciples, Sit here while I shall pray.",
+    "reference": "Mark 14:32 (DBT)",
+    "connected_to": "Mark 14:33",
+    "connected_from": "Mark 14:31"
+  },
+  {
+    "text": "And he takes with him Peter and James and John, and he began to be amazed and oppressed in spirit.",
+    "reference": "Mark 14:33 (DBT)",
+    "connected_to": "Mark 14:34",
+    "connected_from": "Mark 14:32"
+  },
+  {
+    "text": "And he says to them, My soul is full of grief even unto death; abide here and watch.",
+    "reference": "Mark 14:34 (DBT)",
+    "connected_to": "Mark 14:35",
+    "connected_from": "Mark 14:33"
+  },
+  {
+    "text": "And, going forward a little, he fell upon the earth; and he prayed that, if it were possible, the hour might pass away from him.",
+    "reference": "Mark 14:35 (DBT)",
+    "connected_to": "Mark 14:36",
+    "connected_from": "Mark 14:34"
+  },
+  {
+    "text": "And he said, Abba, Father, all things are possible to thee: take away this cup from me; but not what I will, but what thou [wilt].",
+    "reference": "Mark 14:36 (DBT)",
+    "connected_to": "Mark 14:37",
+    "connected_from": "Mark 14:35"
+  },
+  {
+    "text": "And he comes and finds them sleeping. And he says to Peter, Simon, dost thou sleep? Hast thou not been able to watch one hour?",
+    "reference": "Mark 14:37 (DBT)",
+    "connected_to": "Mark 14:38",
+    "connected_from": "Mark 14:36"
+  },
+  {
+    "text": "Watch and pray, that ye enter not into temptation. The spirit indeed [is] willing, but the flesh weak.",
+    "reference": "Mark 14:38 (DBT)",
+    "connected_to": "Mark 14:39",
+    "connected_from": "Mark 14:37"
+  },
+  {
+    "text": "And going away, he prayed again, saying the same thing.",
+    "reference": "Mark 14:39 (DBT)",
+    "connected_to": "Mark 14:40",
+    "connected_from": "Mark 14:38"
+  },
+  {
+    "text": "And returning, he found them again sleeping, for their eyes were heavy; and they knew not what they should answer him.",
+    "reference": "Mark 14:40 (DBT)",
+    "connected_to": "Mark 14:41",
+    "connected_from": "Mark 14:39"
+  },
+  {
+    "text": "And he comes the third time and says to them, Sleep on now, and take your rest. It is enough; the hour is come; behold, the Son of man is delivered up into the hands of sinners.",
+    "reference": "Mark 14:41 (DBT)",
+    "connected_to": "Mark 14:42",
+    "connected_from": "Mark 14:40"
+  },
+  {
+    "text": "Arise, let us go; behold, he that delivers me up has drawn nigh.",
+    "reference": "Mark 14:42 (DBT)",
+    "connected_to": "Mark 14:43",
+    "connected_from": "Mark 14:41"
+  },
+  {
+    "text": "And immediately, while he was yet speaking, Judas comes up, [being] one of the twelve, and with him a great crowd, with swords and sticks, from the chief priests and the scribes and the elders.",
+    "reference": "Mark 14:43 (DBT)",
+    "connected_to": "Mark 14:44",
+    "connected_from": "Mark 14:42"
+  },
+  {
+    "text": "Now he that delivered him up had given them a sign between them, saying, Whomsoever I shall kiss, that is he; seize him, and lead [him] away safely.",
+    "reference": "Mark 14:44 (DBT)",
+    "connected_to": "Mark 14:45",
+    "connected_from": "Mark 14:43"
+  },
+  {
+    "text": "And being come, straightway coming up to him, he says, Rabbi, Rabbi; and he covered him with kisses.",
+    "reference": "Mark 14:45 (DBT)",
+    "connected_to": "Mark 14:46",
+    "connected_from": "Mark 14:44"
+  },
+  {
+    "text": "And they laid their hands upon him and seized him.",
+    "reference": "Mark 14:46 (DBT)",
+    "connected_to": "Mark 14:47",
+    "connected_from": "Mark 14:45"
+  },
+  {
+    "text": "But a certain one of those who stood by, having drawn his sword, struck the bondman of the high priest, and took off his ear.",
+    "reference": "Mark 14:47 (DBT)",
+    "connected_to": "Mark 14:48",
+    "connected_from": "Mark 14:46"
+  },
+  {
+    "text": "And Jesus answering said to them, Are ye come out as against a robber, with swords and sticks to take me?",
+    "reference": "Mark 14:48 (DBT)",
+    "connected_to": "Mark 14:49",
+    "connected_from": "Mark 14:47"
+  },
+  {
+    "text": "I was daily with you teaching in the temple, and ye did not seize me; but [it is] that the scriptures may be fulfilled.",
+    "reference": "Mark 14:49 (DBT)",
+    "connected_to": "Mark 14:50",
+    "connected_from": "Mark 14:48"
+  },
+  {
+    "text": "And all left him and fled.",
+    "reference": "Mark 14:50 (DBT)",
+    "connected_to": "Mark 14:51",
+    "connected_from": "Mark 14:49"
+  },
+  {
+    "text": "And a certain young man followed him with a linen cloth cast about his naked [body]; and [the young men] seize him;",
+    "reference": "Mark 14:51 (DBT)",
+    "connected_to": "Mark 14:52",
+    "connected_from": "Mark 14:50"
+  },
+  {
+    "text": "but he, leaving the linen cloth behind [him], fled from them naked.",
+    "reference": "Mark 14:52 (DBT)",
+    "connected_to": "Mark 14:53",
+    "connected_from": "Mark 14:51"
+  },
+  {
+    "text": "And they led away Jesus to the high priest. And there come together to him all the chief priests and the elders and the scribes.",
+    "reference": "Mark 14:53 (DBT)",
+    "connected_to": "Mark 14:54",
+    "connected_from": "Mark 14:52"
+  },
+  {
+    "text": "And Peter followed him at a distance, till [he was] within the court of the high priest’s palace; and he was sitting with the officers and warming himself in the light [of the fire].",
+    "reference": "Mark 14:54 (DBT)",
+    "connected_to": "Mark 14:55",
+    "connected_from": "Mark 14:53"
+  },
+  {
+    "text": "And the chief priests and the whole sanhedrim sought testimony against Jesus to cause him to be put to death, and did not find [any].",
+    "reference": "Mark 14:55 (DBT)",
+    "connected_to": "Mark 14:56",
+    "connected_from": "Mark 14:54"
+  },
+  {
+    "text": "For many bore false witness against him, and their testimony did not agree.",
+    "reference": "Mark 14:56 (DBT)",
+    "connected_to": "Mark 14:57",
+    "connected_from": "Mark 14:55"
+  },
+  {
+    "text": "And certain persons rose up and bore false witness against him, saying,",
+    "reference": "Mark 14:57 (DBT)",
+    "connected_to": "Mark 14:58",
+    "connected_from": "Mark 14:56"
+  },
+  {
+    "text": "We heard him saying, I will destroy this temple which is made with hands, and in the course of three days I will build another not made with hands.",
+    "reference": "Mark 14:58 (DBT)",
+    "connected_to": "Mark 14:59",
+    "connected_from": "Mark 14:57"
+  },
+  {
+    "text": "And neither thus did their testimony agree.",
+    "reference": "Mark 14:59 (DBT)",
+    "connected_to": "Mark 14:60",
+    "connected_from": "Mark 14:58"
+  },
+  {
+    "text": "And the high priest, rising up before them all, asked Jesus, saying, Answerest thou nothing? What do these testify against thee?",
+    "reference": "Mark 14:60 (DBT)",
+    "connected_to": "Mark 14:61",
+    "connected_from": "Mark 14:59"
+  },
+  {
+    "text": "But he was silent, and answered nothing. Again the high priest asked him, and says to him, Thou art the Christ, the Son of the Blessed?",
+    "reference": "Mark 14:61 (DBT)",
+    "connected_to": "Mark 14:62",
+    "connected_from": "Mark 14:60"
+  },
+  {
+    "text": "And Jesus said, I am, and ye shall see the Son of man sitting at the right hand of power, and coming with the clouds of heaven.",
+    "reference": "Mark 14:62 (DBT)",
+    "connected_to": "Mark 14:63",
+    "connected_from": "Mark 14:61"
+  },
+  {
+    "text": "And the high priest, having rent his clothes, says, What need have we any more of witnesses?",
+    "reference": "Mark 14:63 (DBT)",
+    "connected_to": "Mark 14:64",
+    "connected_from": "Mark 14:62"
+  },
+  {
+    "text": "Ye have heard the blasphemy; what think ye? And they all condemned him to be guilty of death.",
+    "reference": "Mark 14:64 (DBT)",
+    "connected_to": "Mark 14:65",
+    "connected_from": "Mark 14:63"
+  },
+  {
+    "text": "And some began to spit upon him, and cover up his face, and buffet him, and say to him, Prophesy; and the officers struck him with the palms of their hands.",
+    "reference": "Mark 14:65 (DBT)",
+    "connected_to": "Mark 14:66",
+    "connected_from": "Mark 14:64"
+  },
+  {
+    "text": "And Peter being below in the palace-court, there comes one of the maids of the high priest,",
+    "reference": "Mark 14:66 (DBT)",
+    "connected_to": "Mark 14:67",
+    "connected_from": "Mark 14:65"
+  },
+  {
+    "text": "and seeing Peter warming himself, having looked at him, says, And thou wast with the Nazarene, Jesus.",
+    "reference": "Mark 14:67 (DBT)",
+    "connected_to": "Mark 14:68",
+    "connected_from": "Mark 14:66"
+  },
+  {
+    "text": "But he denied, saying, I know not nor understand what thou sayest. And he went out into the vestibule; and a cock crew.",
+    "reference": "Mark 14:68 (DBT)",
+    "connected_to": "Mark 14:69",
+    "connected_from": "Mark 14:67"
+  },
+  {
+    "text": "And the maid, seeing him, again began to say to those that stood by, This is [one] of them.",
+    "reference": "Mark 14:69 (DBT)",
+    "connected_to": "Mark 14:70",
+    "connected_from": "Mark 14:68"
+  },
+  {
+    "text": "And he again denied. And again, after a little, those that stood by said to Peter, Truly thou art [one] of them, for also thou art a Galilean.",
+    "reference": "Mark 14:70 (DBT)",
+    "connected_to": "Mark 14:71",
+    "connected_from": "Mark 14:69"
+  },
+  {
+    "text": "But he began to curse and to swear, I know not this man of whom ye speak.",
+    "reference": "Mark 14:71 (DBT)",
+    "connected_to": "Mark 14:72",
+    "connected_from": "Mark 14:70"
+  },
+  {
+    "text": "And the second time a cock crew. And Peter remembered the word that Jesus said to him, Before [the] cock crow twice, thou shalt deny me thrice; and when he thought thereon he wept.",
+    "reference": "Mark 14:72 (DBT)",
+    "connected_from": "Mark 14:71"
+  }
+]

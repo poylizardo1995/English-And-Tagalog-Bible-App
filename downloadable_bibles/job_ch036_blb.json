@@ -1,0 +1,198 @@
+[
+  {
+    "text": "And Elihu added and said:",
+    "reference": "Job 36:1 (BLB)",
+    "connected_to": "Job 36:2"
+  },
+  {
+    "text": "“Surround unto me a little, and I will show you, that [there are] words yet to God.",
+    "reference": "Job 36:2 (BLB)",
+    "connected_to": "Job 36:3",
+    "connected_from": "Job 36:1"
+  },
+  {
+    "text": "I will lift up my knowledge from afar, and to my Maker I will ascribe righteousness.",
+    "reference": "Job 36:3 (BLB)",
+    "connected_to": "Job 36:4",
+    "connected_from": "Job 36:2"
+  },
+  {
+    "text": "For truly, my words [are] not false; the one complete in knowledge [is] with you.",
+    "reference": "Job 36:4 (BLB)",
+    "connected_to": "Job 36:5",
+    "connected_from": "Job 36:3"
+  },
+  {
+    "text": "Behold, God [is] mighty, and He does not despise; [He is] mighty [in] strength of heart.",
+    "reference": "Job 36:5 (BLB)",
+    "connected_to": "Job 36:6",
+    "connected_from": "Job 36:4"
+  },
+  {
+    "text": "He does not keep the wicked alive, and He gives justice to the afflicted.",
+    "reference": "Job 36:6 (BLB)",
+    "connected_to": "Job 36:7",
+    "connected_from": "Job 36:5"
+  },
+  {
+    "text": "He does not take away His eyes from the righteous, but [they are] with kings on the throne; and He has seated them forever, and they are exalted.",
+    "reference": "Job 36:7 (BLB)",
+    "connected_to": "Job 36:8",
+    "connected_from": "Job 36:6"
+  },
+  {
+    "text": "And if they are bound in the fetters, caught in the cords of affliction,",
+    "reference": "Job 36:8 (BLB)",
+    "connected_to": "Job 36:9",
+    "connected_from": "Job 36:7"
+  },
+  {
+    "text": "then he declares to them their work and their transgressions, because they magnified themselves.",
+    "reference": "Job 36:9 (BLB)",
+    "connected_to": "Job 36:10",
+    "connected_from": "Job 36:8"
+  },
+  {
+    "text": "And He opens their ear to correction, and He says that they should turn back from iniquity.",
+    "reference": "Job 36:10 (BLB)",
+    "connected_to": "Job 36:11",
+    "connected_from": "Job 36:9"
+  },
+  {
+    "text": "If they do hear and serve, they will complete their days in good, and their years in pleasantness.",
+    "reference": "Job 36:11 (BLB)",
+    "connected_to": "Job 36:12",
+    "connected_from": "Job 36:10"
+  },
+  {
+    "text": "And if they do not obey, by a weapon they shall pass away, and they shall die as without knowledge.",
+    "reference": "Job 36:12 (BLB)",
+    "connected_to": "Job 36:13",
+    "connected_from": "Job 36:11"
+  },
+  {
+    "text": "And the godless of heart set the nose; they do not cry out when He binds them.",
+    "reference": "Job 36:13 (BLB)",
+    "connected_to": "Job 36:14",
+    "connected_from": "Job 36:12"
+  },
+  {
+    "text": "Their soul dies in youth, and their life among the male shrine prostitutes.",
+    "reference": "Job 36:14 (BLB)",
+    "connected_to": "Job 36:15",
+    "connected_from": "Job 36:13"
+  },
+  {
+    "text": "He rescues the afflicted one by his affliction, and uncovers their ear by oppression.",
+    "reference": "Job 36:15 (BLB)",
+    "connected_to": "Job 36:16",
+    "connected_from": "Job 36:14"
+  },
+  {
+    "text": "And indeed He has drawn you from the mouth of distress, [into] a broad place without constraint under it, and the resting of your table is full of richness.",
+    "reference": "Job 36:16 (BLB)",
+    "connected_to": "Job 36:17",
+    "connected_from": "Job 36:15"
+  },
+  {
+    "text": "And you are filled [with] the judgment of the wicked; judgment and justice take hold—",
+    "reference": "Job 36:17 (BLB)",
+    "connected_to": "Job 36:18",
+    "connected_from": "Job 36:16"
+  },
+  {
+    "text": "for wrath, lest it entice you with mocking, and a large bribe not let it stretch you.",
+    "reference": "Job 36:18 (BLB)",
+    "connected_to": "Job 36:19",
+    "connected_from": "Job 36:17"
+  },
+  {
+    "text": "Can your opulence make arrangement in time of distress, or all the forces of strength?",
+    "reference": "Job 36:19 (BLB)",
+    "connected_to": "Job 36:20",
+    "connected_from": "Job 36:18"
+  },
+  {
+    "text": "Do not long for the night, for the coming up of peoples in place of them.",
+    "reference": "Job 36:20 (BLB)",
+    "connected_to": "Job 36:21",
+    "connected_from": "Job 36:19"
+  },
+  {
+    "text": "Take heed not to turn to iniquity, for upon this you have been chosen by affliction.",
+    "reference": "Job 36:21 (BLB)",
+    "connected_to": "Job 36:22",
+    "connected_from": "Job 36:20"
+  },
+  {
+    "text": "Behold, God is exalted in His power; who [is] a teacher like Him?",
+    "reference": "Job 36:22 (BLB)",
+    "connected_to": "Job 36:23",
+    "connected_from": "Job 36:21"
+  },
+  {
+    "text": "Who has appointed for Him His way? Or who has said, ‘You have done unrighteousness’?",
+    "reference": "Job 36:23 (BLB)",
+    "connected_to": "Job 36:24",
+    "connected_from": "Job 36:22"
+  },
+  {
+    "text": "Remember that you should magnify His work, of which men have sung.",
+    "reference": "Job 36:24 (BLB)",
+    "connected_to": "Job 36:25",
+    "connected_from": "Job 36:23"
+  },
+  {
+    "text": "Every man has gazed on it; mankind looks on [it] from afar.",
+    "reference": "Job 36:25 (BLB)",
+    "connected_to": "Job 36:26",
+    "connected_from": "Job 36:24"
+  },
+  {
+    "text": "Behold, God [is] great, and we do not know [Him], and [there is] no searching the number of His years.",
+    "reference": "Job 36:26 (BLB)",
+    "connected_to": "Job 36:27",
+    "connected_from": "Job 36:25"
+  },
+  {
+    "text": "For He draws up drops of water; they distill as rain from the mist,",
+    "reference": "Job 36:27 (BLB)",
+    "connected_to": "Job 36:28",
+    "connected_from": "Job 36:26"
+  },
+  {
+    "text": "which the clouds pour down; they drop upon man in abundance.",
+    "reference": "Job 36:28 (BLB)",
+    "connected_to": "Job 36:29",
+    "connected_from": "Job 36:27"
+  },
+  {
+    "text": "Indeed, if one will understand the spreading out of a cloud, the noises [from] His pavilion?",
+    "reference": "Job 36:29 (BLB)",
+    "connected_to": "Job 36:30",
+    "connected_from": "Job 36:28"
+  },
+  {
+    "text": "Behold, He scatters His lightning around Him, and covers the depths of the sea.",
+    "reference": "Job 36:30 (BLB)",
+    "connected_to": "Job 36:31",
+    "connected_from": "Job 36:29"
+  },
+  {
+    "text": "For by these He judges the peoples; He gives food in abundance.",
+    "reference": "Job 36:31 (BLB)",
+    "connected_to": "Job 36:32",
+    "connected_from": "Job 36:30"
+  },
+  {
+    "text": "With [His] palms He covers the lightning, and He gives a charge upon it for [its] striking.",
+    "reference": "Job 36:32 (BLB)",
+    "connected_to": "Job 36:33",
+    "connected_from": "Job 36:31"
+  },
+  {
+    "text": "[By] its shouting He declares concerning it, the cattle also concerning the arising.",
+    "reference": "Job 36:33 (BLB)",
+    "connected_from": "Job 36:32"
+  }
+]

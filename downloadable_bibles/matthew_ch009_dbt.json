@@ -1,0 +1,228 @@
+[
+  {
+    "text": "And going on board the ship, he passed over and came to his own city.",
+    "reference": "Matthew 9:1 (DBT)",
+    "connected_to": "Matthew 9:2"
+  },
+  {
+    "text": "And behold, they brought to him a paralytic, laid upon a bed; and Jesus, seeing their faith, said to the paralytic, Be of good courage, child; thy sins are forgiven.",
+    "reference": "Matthew 9:2 (DBT)",
+    "connected_to": "Matthew 9:3",
+    "connected_from": "Matthew 9:1"
+  },
+  {
+    "text": "And behold, certain of the scribes said to themselves, This [man] blasphemes.",
+    "reference": "Matthew 9:3 (DBT)",
+    "connected_to": "Matthew 9:4",
+    "connected_from": "Matthew 9:2"
+  },
+  {
+    "text": "And Jesus, seeing their thoughts, said, Why do ye think evil things in your hearts?",
+    "reference": "Matthew 9:4 (DBT)",
+    "connected_to": "Matthew 9:5",
+    "connected_from": "Matthew 9:3"
+  },
+  {
+    "text": "For which is easier: to say, Thy sins are forgiven; or to say, Rise up and walk?",
+    "reference": "Matthew 9:5 (DBT)",
+    "connected_to": "Matthew 9:6",
+    "connected_from": "Matthew 9:4"
+  },
+  {
+    "text": "But that ye may know that the Son of man has power on earth to forgive sins, (then he says to the paralytic,) Rise up, take up thy bed and go to thy house.",
+    "reference": "Matthew 9:6 (DBT)",
+    "connected_to": "Matthew 9:7",
+    "connected_from": "Matthew 9:5"
+  },
+  {
+    "text": "And he rose up and went to his house.",
+    "reference": "Matthew 9:7 (DBT)",
+    "connected_to": "Matthew 9:8",
+    "connected_from": "Matthew 9:6"
+  },
+  {
+    "text": "But the crowds seeing [it], were in fear, and glorified God who gave such power to men.",
+    "reference": "Matthew 9:8 (DBT)",
+    "connected_to": "Matthew 9:9",
+    "connected_from": "Matthew 9:7"
+  },
+  {
+    "text": "And Jesus, passing on thence, saw a man sitting at the tax-office, called Matthew, and says to him, Follow me. And he rose up and followed him.",
+    "reference": "Matthew 9:9 (DBT)",
+    "connected_to": "Matthew 9:10",
+    "connected_from": "Matthew 9:8"
+  },
+  {
+    "text": "And it came to pass, as he lay at table in the house, that behold, many tax-gatherers and sinners came and lay at table with Jesus and his disciples.",
+    "reference": "Matthew 9:10 (DBT)",
+    "connected_to": "Matthew 9:11",
+    "connected_from": "Matthew 9:9"
+  },
+  {
+    "text": "And the Pharisees seeing [it], said to his disciples, Why does your teacher eat with tax-gatherers and sinners?",
+    "reference": "Matthew 9:11 (DBT)",
+    "connected_to": "Matthew 9:12",
+    "connected_from": "Matthew 9:10"
+  },
+  {
+    "text": "But [Jesus] hearing it, said, They that are strong have not need of a physician, but those that are ill.",
+    "reference": "Matthew 9:12 (DBT)",
+    "connected_to": "Matthew 9:13",
+    "connected_from": "Matthew 9:11"
+  },
+  {
+    "text": "But go and learn what [that] is—I will have mercy and not sacrifice; for I have not come to call righteous [men] but sinners.",
+    "reference": "Matthew 9:13 (DBT)",
+    "connected_to": "Matthew 9:14",
+    "connected_from": "Matthew 9:12"
+  },
+  {
+    "text": "Then come to him the disciples of John, saying, Why do we and the Pharisees often fast, but thy disciples fast not?",
+    "reference": "Matthew 9:14 (DBT)",
+    "connected_to": "Matthew 9:15",
+    "connected_from": "Matthew 9:13"
+  },
+  {
+    "text": "And Jesus said to them, Can the sons of the bridechamber mourn so long as the bridegroom is with them? But days will come when the bridegroom will have been taken away from them, and then they will fast.",
+    "reference": "Matthew 9:15 (DBT)",
+    "connected_to": "Matthew 9:16",
+    "connected_from": "Matthew 9:14"
+  },
+  {
+    "text": "But no one puts a patch of new cloth on an old garment, for its filling up takes from the garment and a worse rent takes place.",
+    "reference": "Matthew 9:16 (DBT)",
+    "connected_to": "Matthew 9:17",
+    "connected_from": "Matthew 9:15"
+  },
+  {
+    "text": "Nor do men put new wine into old skins, otherwise the skins burst and the wine is poured out, and the skins will be destroyed; but they put new wine into new skins, and both are preserved together.",
+    "reference": "Matthew 9:17 (DBT)",
+    "connected_to": "Matthew 9:18",
+    "connected_from": "Matthew 9:16"
+  },
+  {
+    "text": "As he spoke these things to them, behold, a ruler coming in did homage to him, saying, My daughter has by this died; but come and lay thy hand upon her and she shall live.",
+    "reference": "Matthew 9:18 (DBT)",
+    "connected_to": "Matthew 9:19",
+    "connected_from": "Matthew 9:17"
+  },
+  {
+    "text": "And Jesus rose up and followed him, and [so did] his disciples.",
+    "reference": "Matthew 9:19 (DBT)",
+    "connected_to": "Matthew 9:20",
+    "connected_from": "Matthew 9:18"
+  },
+  {
+    "text": "And behold, a woman, who had had a bloody flux [for] twelve years, came behind and touched the hem of his garment;",
+    "reference": "Matthew 9:20 (DBT)",
+    "connected_to": "Matthew 9:21",
+    "connected_from": "Matthew 9:19"
+  },
+  {
+    "text": "for she said within herself, If I should only touch his garment I shall be healed.",
+    "reference": "Matthew 9:21 (DBT)",
+    "connected_to": "Matthew 9:22",
+    "connected_from": "Matthew 9:20"
+  },
+  {
+    "text": "But Jesus turning and seeing her, said, Be of good courage, daughter; thy faith has healed thee. And the woman was healed from that hour.",
+    "reference": "Matthew 9:22 (DBT)",
+    "connected_to": "Matthew 9:23",
+    "connected_from": "Matthew 9:21"
+  },
+  {
+    "text": "And when Jesus was come to the house of the ruler, and saw the flute-players and the crowd making a tumult,",
+    "reference": "Matthew 9:23 (DBT)",
+    "connected_to": "Matthew 9:24",
+    "connected_from": "Matthew 9:22"
+  },
+  {
+    "text": "he said, Withdraw, for the damsel is not dead, but sleeps. And they derided him.",
+    "reference": "Matthew 9:24 (DBT)",
+    "connected_to": "Matthew 9:25",
+    "connected_from": "Matthew 9:23"
+  },
+  {
+    "text": "But when the crowd had been put out, he went in and took her hand; and the damsel rose up.",
+    "reference": "Matthew 9:25 (DBT)",
+    "connected_to": "Matthew 9:26",
+    "connected_from": "Matthew 9:24"
+  },
+  {
+    "text": "And the fame of it went out into all that land.",
+    "reference": "Matthew 9:26 (DBT)",
+    "connected_to": "Matthew 9:27",
+    "connected_from": "Matthew 9:25"
+  },
+  {
+    "text": "And as Jesus passed on thence, two blind [men] followed him, crying and saying, Have mercy on us, Son of David.",
+    "reference": "Matthew 9:27 (DBT)",
+    "connected_to": "Matthew 9:28",
+    "connected_from": "Matthew 9:26"
+  },
+  {
+    "text": "And when he was come to the house, the blind [men] came to him. And Jesus says to them, Do ye believe that I am able to do this? They say to him, Yea, Lord.",
+    "reference": "Matthew 9:28 (DBT)",
+    "connected_to": "Matthew 9:29",
+    "connected_from": "Matthew 9:27"
+  },
+  {
+    "text": "Then he touched their eyes, saying, According to your faith, be it unto you.",
+    "reference": "Matthew 9:29 (DBT)",
+    "connected_to": "Matthew 9:30",
+    "connected_from": "Matthew 9:28"
+  },
+  {
+    "text": "And their eyes were opened; and Jesus charged them sharply, saying, See, let no man know it.",
+    "reference": "Matthew 9:30 (DBT)",
+    "connected_to": "Matthew 9:31",
+    "connected_from": "Matthew 9:29"
+  },
+  {
+    "text": "But they, when they were gone out, spread his name abroad in all that land.",
+    "reference": "Matthew 9:31 (DBT)",
+    "connected_to": "Matthew 9:32",
+    "connected_from": "Matthew 9:30"
+  },
+  {
+    "text": "But as these were going out, behold, they brought to him a dumb man possessed by a demon.",
+    "reference": "Matthew 9:32 (DBT)",
+    "connected_to": "Matthew 9:33",
+    "connected_from": "Matthew 9:31"
+  },
+  {
+    "text": "And the demon having been cast out, the dumb spake. And the crowds were astonished, saying, It has never been seen thus in Israel.",
+    "reference": "Matthew 9:33 (DBT)",
+    "connected_to": "Matthew 9:34",
+    "connected_from": "Matthew 9:32"
+  },
+  {
+    "text": "But the Pharisees said, He casts out the demons through the prince of the demons.",
+    "reference": "Matthew 9:34 (DBT)",
+    "connected_to": "Matthew 9:35",
+    "connected_from": "Matthew 9:33"
+  },
+  {
+    "text": "And Jesus went round all the cities and the villages, teaching in their synagogues, and preaching the glad tidings of the kingdom, and healing every disease and every bodily weakness.",
+    "reference": "Matthew 9:35 (DBT)",
+    "connected_to": "Matthew 9:36",
+    "connected_from": "Matthew 9:34"
+  },
+  {
+    "text": "But when he saw the crowds he was moved with compassion for them, because they were harassed, and cast away as sheep not having a shepherd.",
+    "reference": "Matthew 9:36 (DBT)",
+    "connected_to": "Matthew 9:37",
+    "connected_from": "Matthew 9:35"
+  },
+  {
+    "text": "Then saith he to his disciples, The harvest [is] great and the workmen [are] few;",
+    "reference": "Matthew 9:37 (DBT)",
+    "connected_to": "Matthew 9:38",
+    "connected_from": "Matthew 9:36"
+  },
+  {
+    "text": "supplicate therefore the Lord of the harvest, that he send forth workmen unto his harvest.",
+    "reference": "Matthew 9:38 (DBT)",
+    "connected_from": "Matthew 9:37"
+  }
+]

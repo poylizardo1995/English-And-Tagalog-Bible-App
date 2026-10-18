@@ -1,0 +1,174 @@
+[
+  {
+    "text": "And the children of Israel, the whole assembly, came into the wilderness of Zin, in the first month; and the people abode at Kadesh; and Miriam died there, and was buried there.",
+    "reference": "Numbers 20:1 (DBT)",
+    "connected_to": "Numbers 20:2"
+  },
+  {
+    "text": "And there was no water for the assembly, and they gathered themselves together against Moses and against Aaron.",
+    "reference": "Numbers 20:2 (DBT)",
+    "connected_to": "Numbers 20:3",
+    "connected_from": "Numbers 20:1"
+  },
+  {
+    "text": "And the people contended with Moses, and spoke, saying, Would that we had died when our brethren died before Jehovah!",
+    "reference": "Numbers 20:3 (DBT)",
+    "connected_to": "Numbers 20:4",
+    "connected_from": "Numbers 20:2"
+  },
+  {
+    "text": "And why have ye brought the congregation of Jehovah into this wilderness, that we should die there, we and our beasts?",
+    "reference": "Numbers 20:4 (DBT)",
+    "connected_to": "Numbers 20:5",
+    "connected_from": "Numbers 20:3"
+  },
+  {
+    "text": "And why have ye made us to go up out of Egypt, to bring us to this evil place? it is no place of seed, or of figs, or of vines, or of pomegranates, neither is there any water to drink.",
+    "reference": "Numbers 20:5 (DBT)",
+    "connected_to": "Numbers 20:6",
+    "connected_from": "Numbers 20:4"
+  },
+  {
+    "text": "And Moses and Aaron went from before the congregation to the entrance of the tent of meeting, and fell upon their faces; and the glory of Jehovah appeared to them.",
+    "reference": "Numbers 20:6 (DBT)",
+    "connected_to": "Numbers 20:7",
+    "connected_from": "Numbers 20:5"
+  },
+  {
+    "text": "And Jehovah spoke to Moses, saying,",
+    "reference": "Numbers 20:7 (DBT)",
+    "connected_to": "Numbers 20:8",
+    "connected_from": "Numbers 20:6"
+  },
+  {
+    "text": "Take the staff, and gather the assembly together, thou, and Aaron thy brother, and speak ye unto the rock before their eyes, and it shall give its water; and thou shalt bring forth to them water out of the rock, and shalt give the assembly and their beasts drink.",
+    "reference": "Numbers 20:8 (DBT)",
+    "connected_to": "Numbers 20:9",
+    "connected_from": "Numbers 20:7"
+  },
+  {
+    "text": "And Moses took the staff from before Jehovah, as he had commanded him.",
+    "reference": "Numbers 20:9 (DBT)",
+    "connected_to": "Numbers 20:10",
+    "connected_from": "Numbers 20:8"
+  },
+  {
+    "text": "And Moses and Aaron gathered the congregation together before the rock, and he said to them, Hear now, ye rebels: shall we bring forth to you water out of this rock?",
+    "reference": "Numbers 20:10 (DBT)",
+    "connected_to": "Numbers 20:11",
+    "connected_from": "Numbers 20:9"
+  },
+  {
+    "text": "And Moses lifted up his hand, and with his staff smote the rock twice, and much water came out, and the assembly drank, and their beasts.",
+    "reference": "Numbers 20:11 (DBT)",
+    "connected_to": "Numbers 20:12",
+    "connected_from": "Numbers 20:10"
+  },
+  {
+    "text": "And Jehovah said to Moses and to Aaron, Because ye believed me not, to hallow me before the eyes of the children of Israel, therefore ye shall not bring this congregation into the land that I have given them.",
+    "reference": "Numbers 20:12 (DBT)",
+    "connected_to": "Numbers 20:13",
+    "connected_from": "Numbers 20:11"
+  },
+  {
+    "text": "These are the waters of Meribah, where the children of Israel contended with Jehovah, and he hallowed himself in them.",
+    "reference": "Numbers 20:13 (DBT)",
+    "connected_to": "Numbers 20:14",
+    "connected_from": "Numbers 20:12"
+  },
+  {
+    "text": "And Moses sent messengers from Kadesh to the king of Edom, Thus says thy brother Israel: Thou knowest all the trouble that hath befallen us,",
+    "reference": "Numbers 20:14 (DBT)",
+    "connected_to": "Numbers 20:15",
+    "connected_from": "Numbers 20:13"
+  },
+  {
+    "text": "how our fathers went down to Egypt, and we dwelt in Egypt a long time, and the Egyptians evil entreated us and our fathers;",
+    "reference": "Numbers 20:15 (DBT)",
+    "connected_to": "Numbers 20:16",
+    "connected_from": "Numbers 20:14"
+  },
+  {
+    "text": "and when we cried to Jehovah, he heard our voice, and sent an angel, and brought us forth out of Egypt; and behold, we are at Kadesh, a city at the extremity of thy border.",
+    "reference": "Numbers 20:16 (DBT)",
+    "connected_to": "Numbers 20:17",
+    "connected_from": "Numbers 20:15"
+  },
+  {
+    "text": "Let us pass, I pray thee, through thy country; we will not pass through fields, or through vineyards, neither will we drink water out of the wells: we will go by the king’s road; we will not turn to the right hand nor to the left, until we have passed thy border.",
+    "reference": "Numbers 20:17 (DBT)",
+    "connected_to": "Numbers 20:18",
+    "connected_from": "Numbers 20:16"
+  },
+  {
+    "text": "But Edom said to him, Thou shalt not pass by me, lest I come out against thee with the sword.",
+    "reference": "Numbers 20:18 (DBT)",
+    "connected_to": "Numbers 20:19",
+    "connected_from": "Numbers 20:17"
+  },
+  {
+    "text": "And the children of Israel said to him, We will go by the high way; and if we drink of thy water, I and my cattle, then I will pay for it: I will only, without anything else, go through on my feet.",
+    "reference": "Numbers 20:19 (DBT)",
+    "connected_to": "Numbers 20:20",
+    "connected_from": "Numbers 20:18"
+  },
+  {
+    "text": "And he said, Thou shalt not go through. And Edom came out against him with much people, and with a strong hand.",
+    "reference": "Numbers 20:20 (DBT)",
+    "connected_to": "Numbers 20:21",
+    "connected_from": "Numbers 20:19"
+  },
+  {
+    "text": "Thus Edom refused to give Israel passage through his territory; and Israel turned away from him.",
+    "reference": "Numbers 20:21 (DBT)",
+    "connected_to": "Numbers 20:22",
+    "connected_from": "Numbers 20:20"
+  },
+  {
+    "text": "And they removed from Kadesh; and the children of Israel, the whole assembly, came to mount Hor.",
+    "reference": "Numbers 20:22 (DBT)",
+    "connected_to": "Numbers 20:23",
+    "connected_from": "Numbers 20:21"
+  },
+  {
+    "text": "And Jehovah spoke to Moses and to Aaron in mount Hor, on the border of the land of Edom, saying,",
+    "reference": "Numbers 20:23 (DBT)",
+    "connected_to": "Numbers 20:24",
+    "connected_from": "Numbers 20:22"
+  },
+  {
+    "text": "Aaron shall be gathered unto his peoples; for he shall not enter into the land that I have given unto the children of Israel, because ye rebelled against my commandment at the waters of Meribah.",
+    "reference": "Numbers 20:24 (DBT)",
+    "connected_to": "Numbers 20:25",
+    "connected_from": "Numbers 20:23"
+  },
+  {
+    "text": "Take Aaron and Eleazar his son, and bring them up unto mount Hor,",
+    "reference": "Numbers 20:25 (DBT)",
+    "connected_to": "Numbers 20:26",
+    "connected_from": "Numbers 20:24"
+  },
+  {
+    "text": "and strip Aaron of his garments, and put them upon Eleazar his son; and Aaron shall be gathered [to his peoples], and shall die there.",
+    "reference": "Numbers 20:26 (DBT)",
+    "connected_to": "Numbers 20:27",
+    "connected_from": "Numbers 20:25"
+  },
+  {
+    "text": "And Moses did as Jehovah had commanded, and they went up mount Hor before the eyes of the whole assembly.",
+    "reference": "Numbers 20:27 (DBT)",
+    "connected_to": "Numbers 20:28",
+    "connected_from": "Numbers 20:26"
+  },
+  {
+    "text": "And Moses stripped Aaron of his garments, and put them upon Eleazar his son; and Aaron died there upon the top of the mountain; and Moses and Eleazar came down from the mountain.",
+    "reference": "Numbers 20:28 (DBT)",
+    "connected_to": "Numbers 20:29",
+    "connected_from": "Numbers 20:27"
+  },
+  {
+    "text": "And the whole assembly saw that Aaron was dead, and they mourned for Aaron thirty days, [even] the whole house of Israel.",
+    "reference": "Numbers 20:29 (DBT)",
+    "connected_from": "Numbers 20:28"
+  }
+]

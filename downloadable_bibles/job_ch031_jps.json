@@ -1,0 +1,240 @@
+[
+  {
+    "text": "I made a covenant with mine eyes; How then should I look upon a maid?",
+    "reference": "Job 31:1 (JPS)",
+    "connected_to": "Job 31:2"
+  },
+  {
+    "text": "For what would be the portion of God from above, And the heritage of the Almighty from on high?",
+    "reference": "Job 31:2 (JPS)",
+    "connected_to": "Job 31:3",
+    "connected_from": "Job 31:1"
+  },
+  {
+    "text": "Is it not calamity to the unrighteous, And disaster to the workers of iniquity?",
+    "reference": "Job 31:3 (JPS)",
+    "connected_to": "Job 31:4",
+    "connected_from": "Job 31:2"
+  },
+  {
+    "text": "Doth not He see my ways, And count all my steps?",
+    "reference": "Job 31:4 (JPS)",
+    "connected_to": "Job 31:5",
+    "connected_from": "Job 31:3"
+  },
+  {
+    "text": "If I have walked with vanity, And my foot hath hasted to deceit—",
+    "reference": "Job 31:5 (JPS)",
+    "connected_to": "Job 31:6",
+    "connected_from": "Job 31:4"
+  },
+  {
+    "text": "Let me be weighed in a just balance, That God may know mine integrity—",
+    "reference": "Job 31:6 (JPS)",
+    "connected_to": "Job 31:7",
+    "connected_from": "Job 31:5"
+  },
+  {
+    "text": "If my step hath turned out of the way, And my heart walked after mine eyes, And if any spot hath cleaved to my hands;",
+    "reference": "Job 31:7 (JPS)",
+    "connected_to": "Job 31:8",
+    "connected_from": "Job 31:6"
+  },
+  {
+    "text": "Then let me sow, and let another eat; Yea, let the produce of my field be rooted out.",
+    "reference": "Job 31:8 (JPS)",
+    "connected_to": "Job 31:9",
+    "connected_from": "Job 31:7"
+  },
+  {
+    "text": "If my heart have been enticed unto a woman, And I have lain in wait at my neighbour’s door;",
+    "reference": "Job 31:9 (JPS)",
+    "connected_to": "Job 31:10",
+    "connected_from": "Job 31:8"
+  },
+  {
+    "text": "Then let my wife grind unto another, And let others bow down upon her.",
+    "reference": "Job 31:10 (JPS)",
+    "connected_to": "Job 31:11",
+    "connected_from": "Job 31:9"
+  },
+  {
+    "text": "For that were a heinous crime; Yea, it were an iniquity to be punished by the judges.",
+    "reference": "Job 31:11 (JPS)",
+    "connected_to": "Job 31:12",
+    "connected_from": "Job 31:10"
+  },
+  {
+    "text": "For it is a fire that consumeth unto destruction, And would root out all mine increase.",
+    "reference": "Job 31:12 (JPS)",
+    "connected_to": "Job 31:13",
+    "connected_from": "Job 31:11"
+  },
+  {
+    "text": "If I did despise the cause of my man-servant, Or of my maid-servant, when they contended with me—",
+    "reference": "Job 31:13 (JPS)",
+    "connected_to": "Job 31:14",
+    "connected_from": "Job 31:12"
+  },
+  {
+    "text": "What then shall I do when God riseth up? And when He remembereth, what shall I answer Him?",
+    "reference": "Job 31:14 (JPS)",
+    "connected_to": "Job 31:15",
+    "connected_from": "Job 31:13"
+  },
+  {
+    "text": "Did not He that made me in the womb make him? And did not One fashion us in the womb?",
+    "reference": "Job 31:15 (JPS)",
+    "connected_to": "Job 31:16",
+    "connected_from": "Job 31:14"
+  },
+  {
+    "text": "If I have withheld aught that the poor desired, Or have caused the eyes of the widow to fail;",
+    "reference": "Job 31:16 (JPS)",
+    "connected_to": "Job 31:17",
+    "connected_from": "Job 31:15"
+  },
+  {
+    "text": "Or have eaten my morsel myself alone, And the fatherless hath not eaten thereof—",
+    "reference": "Job 31:17 (JPS)",
+    "connected_to": "Job 31:18",
+    "connected_from": "Job 31:16"
+  },
+  {
+    "text": "Nay, from my youth he grew up with me as with a father, And I have been her guide from my mother’s womb.",
+    "reference": "Job 31:18 (JPS)",
+    "connected_to": "Job 31:19",
+    "connected_from": "Job 31:17"
+  },
+  {
+    "text": "If I have seen any wanderer in want of clothing, Or that the needy had no covering;",
+    "reference": "Job 31:19 (JPS)",
+    "connected_to": "Job 31:20",
+    "connected_from": "Job 31:18"
+  },
+  {
+    "text": "If his loins have not blessed me, And if he were not warmed with the fleece of my sheep;",
+    "reference": "Job 31:20 (JPS)",
+    "connected_to": "Job 31:21",
+    "connected_from": "Job 31:19"
+  },
+  {
+    "text": "If I have lifted up my hand against the fatherless, Because I saw my help in the gate;",
+    "reference": "Job 31:21 (JPS)",
+    "connected_to": "Job 31:22",
+    "connected_from": "Job 31:20"
+  },
+  {
+    "text": "Then let my shoulder fall from the shoulder-blade, And mine arm be broken from the bone.",
+    "reference": "Job 31:22 (JPS)",
+    "connected_to": "Job 31:23",
+    "connected_from": "Job 31:21"
+  },
+  {
+    "text": "For calamity from God was a terror to me, And by reason of His majesty I could do nothing.",
+    "reference": "Job 31:23 (JPS)",
+    "connected_to": "Job 31:24",
+    "connected_from": "Job 31:22"
+  },
+  {
+    "text": "If I have made gold my hope, And have said to the fine gold: ‘Thou art my confidence’;",
+    "reference": "Job 31:24 (JPS)",
+    "connected_to": "Job 31:25",
+    "connected_from": "Job 31:23"
+  },
+  {
+    "text": "If I rejoiced because my wealth was great, And because my hand had gotten much;",
+    "reference": "Job 31:25 (JPS)",
+    "connected_to": "Job 31:26",
+    "connected_from": "Job 31:24"
+  },
+  {
+    "text": "If I beheld the sun when it shined, Or the moon walking in brightness;",
+    "reference": "Job 31:26 (JPS)",
+    "connected_to": "Job 31:27",
+    "connected_from": "Job 31:25"
+  },
+  {
+    "text": "And my heart hath been secretly enticed, And my mouth hath kissed my hand;",
+    "reference": "Job 31:27 (JPS)",
+    "connected_to": "Job 31:28",
+    "connected_from": "Job 31:26"
+  },
+  {
+    "text": "This also were an iniquity to be punished by the judges; For I should have lied to God that is above.",
+    "reference": "Job 31:28 (JPS)",
+    "connected_to": "Job 31:29",
+    "connected_from": "Job 31:27"
+  },
+  {
+    "text": "If I rejoiced at the destruction of him that hated me, Or exulted when evil found him—",
+    "reference": "Job 31:29 (JPS)",
+    "connected_to": "Job 31:30",
+    "connected_from": "Job 31:28"
+  },
+  {
+    "text": "Yea, I suffered not my mouth to sin By asking his life with a curse.",
+    "reference": "Job 31:30 (JPS)",
+    "connected_to": "Job 31:31",
+    "connected_from": "Job 31:29"
+  },
+  {
+    "text": "If the men of my tent said not: ‘Who can find one that hath not been satisfied with his meat?’",
+    "reference": "Job 31:31 (JPS)",
+    "connected_to": "Job 31:32",
+    "connected_from": "Job 31:30"
+  },
+  {
+    "text": "The stranger did not lodge in the street; My doors I opened to the roadside.",
+    "reference": "Job 31:32 (JPS)",
+    "connected_to": "Job 31:33",
+    "connected_from": "Job 31:31"
+  },
+  {
+    "text": "If after the manner of men I covered my transgressions, By hiding mine iniquity in my bosom—",
+    "reference": "Job 31:33 (JPS)",
+    "connected_to": "Job 31:34",
+    "connected_from": "Job 31:32"
+  },
+  {
+    "text": "Because I feared the great multitude, And the most contemptible among families terrified me, So that I kept silence, and went not out of the door.",
+    "reference": "Job 31:34 (JPS)",
+    "connected_to": "Job 31:35",
+    "connected_from": "Job 31:33"
+  },
+  {
+    "text": "Oh that I had one to hear me!—Lo, here is my signature, let the Almighty answer me—And that I had the indictment which mine adversary hath written!",
+    "reference": "Job 31:35 (JPS)",
+    "connected_to": "Job 31:36",
+    "connected_from": "Job 31:34"
+  },
+  {
+    "text": "Surely I would carry it upon my shoulder; I would bind it unto me as a crown.",
+    "reference": "Job 31:36 (JPS)",
+    "connected_to": "Job 31:37",
+    "connected_from": "Job 31:35"
+  },
+  {
+    "text": "I would declare unto him the number of my steps; As a prince would I go near unto him.",
+    "reference": "Job 31:37 (JPS)",
+    "connected_to": "Job 31:38",
+    "connected_from": "Job 31:36"
+  },
+  {
+    "text": "If my land cry out against me, And the furrows thereof weep together;",
+    "reference": "Job 31:38 (JPS)",
+    "connected_to": "Job 31:39",
+    "connected_from": "Job 31:37"
+  },
+  {
+    "text": "If I have eaten the fruits thereof without money, Or have caused the tillers thereof to be disappointed—",
+    "reference": "Job 31:39 (JPS)",
+    "connected_to": "Job 31:40",
+    "connected_from": "Job 31:38"
+  },
+  {
+    "text": "Let thistles grow instead of wheat, And noisome weeds instead of barley. The words of Job are ended.",
+    "reference": "Job 31:40 (JPS)",
+    "connected_from": "Job 31:39"
+  }
+]

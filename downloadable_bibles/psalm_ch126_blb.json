@@ -1,0 +1,36 @@
+[
+  {
+    "text": "A Song of the Ascents. <span class=|reftext|><a href=|#|><b>1</b></a> In YHWH turning back the captivity of Zion, we were like those dreaming.",
+    "reference": "Psalm 126:1 (BLB)",
+    "connected_to": "Psalm 126:2"
+  },
+  {
+    "text": "Then our mouth was filled with laughter, and our tongue with a shout of joy. Then they said among the nations, “YHWH, has done great things for these.”",
+    "reference": "Psalm 126:2 (BLB)",
+    "connected_to": "Psalm 126:3",
+    "connected_from": "Psalm 126:1"
+  },
+  {
+    "text": "YHWH has done great things for us; and we came to be glad.",
+    "reference": "Psalm 126:3 (BLB)",
+    "connected_to": "Psalm 126:4",
+    "connected_from": "Psalm 126:2"
+  },
+  {
+    "text": "Bring back, O YHWH, our captives, like streams in the Negev!",
+    "reference": "Psalm 126:4 (BLB)",
+    "connected_to": "Psalm 126:5",
+    "connected_from": "Psalm 126:3"
+  },
+  {
+    "text": "Those sowing in tears will reap with a shout of joy.",
+    "reference": "Psalm 126:5 (BLB)",
+    "connected_to": "Psalm 126:6",
+    "connected_from": "Psalm 126:4"
+  },
+  {
+    "text": "Going forth, he who goes and weeps, bearing the basket of seed, coming in, he comes with a shout, bearing his sheaves.",
+    "reference": "Psalm 126:6 (BLB)",
+    "connected_from": "Psalm 126:5"
+  }
+]

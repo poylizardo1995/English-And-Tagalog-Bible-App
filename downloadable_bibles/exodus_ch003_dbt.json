@@ -1,0 +1,132 @@
+[
+  {
+    "text": "And Moses tended the flock of Jethro his father-in-law, the priest of Midian. And he led the flock behind the wilderness, and came to the mountain of God—to Horeb.",
+    "reference": "Exodus 3:1 (DBT)",
+    "connected_to": "Exodus 3:2"
+  },
+  {
+    "text": "And the Angel of Jehovah appeared to him in a flame of fire out of the midst of a thorn-bush: and he looked, and behold, the thorn-bush burned with fire, and the thorn-bush was not being consumed.",
+    "reference": "Exodus 3:2 (DBT)",
+    "connected_to": "Exodus 3:3",
+    "connected_from": "Exodus 3:1"
+  },
+  {
+    "text": "And Moses said, Let me now turn aside and see this great sight, why the thorn-bush is not burnt.",
+    "reference": "Exodus 3:3 (DBT)",
+    "connected_to": "Exodus 3:4",
+    "connected_from": "Exodus 3:2"
+  },
+  {
+    "text": "And Jehovah saw that he turned aside to see, and God called to him out of the midst of the thorn-bush and said, Moses, Moses! And he said, Here am I.",
+    "reference": "Exodus 3:4 (DBT)",
+    "connected_to": "Exodus 3:5",
+    "connected_from": "Exodus 3:3"
+  },
+  {
+    "text": "And he said, Draw not nigh hither: loose thy sandals from off thy feet, for the place whereon thou standest is holy ground.",
+    "reference": "Exodus 3:5 (DBT)",
+    "connected_to": "Exodus 3:6",
+    "connected_from": "Exodus 3:4"
+  },
+  {
+    "text": "And he said, I am the God of thy father, the God of Abraham, the God of Isaac, and the God of Jacob. And Moses hid his face; for he was afraid to look at God.",
+    "reference": "Exodus 3:6 (DBT)",
+    "connected_to": "Exodus 3:7",
+    "connected_from": "Exodus 3:5"
+  },
+  {
+    "text": "And Jehovah said, I have seen assuredly the affliction of my people who are in Egypt, and their cry have I heard on account of their taskmasters; for I know their sorrows.",
+    "reference": "Exodus 3:7 (DBT)",
+    "connected_to": "Exodus 3:8",
+    "connected_from": "Exodus 3:6"
+  },
+  {
+    "text": "And I am come down to deliver them out of the hand of the Egyptians, and to bring them up out of that land unto a good and spacious land, unto a land flowing with milk and honey, unto the place of the Canaanites, and the Hittites, and the Amorites, and the Perizzites, and the Hivites, and the Jebusites.",
+    "reference": "Exodus 3:8 (DBT)",
+    "connected_to": "Exodus 3:9",
+    "connected_from": "Exodus 3:7"
+  },
+  {
+    "text": "And now behold, the cry of the children of Israel is come unto me; and I have also seen the oppression with which the Egyptians oppress them.",
+    "reference": "Exodus 3:9 (DBT)",
+    "connected_to": "Exodus 3:10",
+    "connected_from": "Exodus 3:8"
+  },
+  {
+    "text": "And now come, and I will send thee unto Pharaoh, that thou mayest bring forth my people the children of Israel out of Egypt.",
+    "reference": "Exodus 3:10 (DBT)",
+    "connected_to": "Exodus 3:11",
+    "connected_from": "Exodus 3:9"
+  },
+  {
+    "text": "And Moses said to God, Who am I, that I should go unto Pharaoh, and that I should bring forth the children of Israel out of Egypt?",
+    "reference": "Exodus 3:11 (DBT)",
+    "connected_to": "Exodus 3:12",
+    "connected_from": "Exodus 3:10"
+  },
+  {
+    "text": "And he said, For I will be with thee; and this shall be the sign to thee that I have sent thee: when thou hast brought forth the people out of Egypt, ye shall serve God upon this mountain.",
+    "reference": "Exodus 3:12 (DBT)",
+    "connected_to": "Exodus 3:13",
+    "connected_from": "Exodus 3:11"
+  },
+  {
+    "text": "And Moses said to God, Behold, [when] I come unto the children of Israel, and shall say unto them, The God of your fathers hath sent me unto you; and they shall say, What is his name? what shall I say unto them?",
+    "reference": "Exodus 3:13 (DBT)",
+    "connected_to": "Exodus 3:14",
+    "connected_from": "Exodus 3:12"
+  },
+  {
+    "text": "And God said to Moses, I AM THAT I AM. And he said, Thus shalt thou say unto the children of Israel: I AM hath sent me unto you.",
+    "reference": "Exodus 3:14 (DBT)",
+    "connected_to": "Exodus 3:15",
+    "connected_from": "Exodus 3:13"
+  },
+  {
+    "text": "And God said moreover to Moses, Thus shalt thou say unto the children of Israel: Jehovah, the God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath sent me unto you. This is my name for ever, and this is my memorial unto all generations.",
+    "reference": "Exodus 3:15 (DBT)",
+    "connected_to": "Exodus 3:16",
+    "connected_from": "Exodus 3:14"
+  },
+  {
+    "text": "Go and gather the elders of Israel together, and say unto them, Jehovah the God of your fathers, the God of Abraham, Isaac, and Jacob, hath appeared to me, saying, I have indeed visited you, and [seen] that which is done unto you in Egypt;",
+    "reference": "Exodus 3:16 (DBT)",
+    "connected_to": "Exodus 3:17",
+    "connected_from": "Exodus 3:15"
+  },
+  {
+    "text": "and I have said, I will bring you up out of the affliction of Egypt, unto the land of the Canaanites, and the Hittites, and the Amorites, and the Perizzites, and the Hivites, and the Jebusites, unto a land flowing with milk and honey.",
+    "reference": "Exodus 3:17 (DBT)",
+    "connected_to": "Exodus 3:18",
+    "connected_from": "Exodus 3:16"
+  },
+  {
+    "text": "And they shall hearken to thy voice. And thou shalt come, thou and the elders of Israel, unto the king of Egypt, and ye shall say unto him, Jehovah, the God of the Hebrews, hath met with us; and now, let us go, we pray thee, three days’ journey into the wilderness, that we may sacrifice to Jehovah our God.",
+    "reference": "Exodus 3:18 (DBT)",
+    "connected_to": "Exodus 3:19",
+    "connected_from": "Exodus 3:17"
+  },
+  {
+    "text": "But I know that the king of Egypt will not let you go, no, not by a powerful hand.",
+    "reference": "Exodus 3:19 (DBT)",
+    "connected_to": "Exodus 3:20",
+    "connected_from": "Exodus 3:18"
+  },
+  {
+    "text": "And I will stretch out my hand and smite Egypt with all my wonders which I will do in the midst thereof; and after that he will let you go.",
+    "reference": "Exodus 3:20 (DBT)",
+    "connected_to": "Exodus 3:21",
+    "connected_from": "Exodus 3:19"
+  },
+  {
+    "text": "And I will give this people favour in the eyes of the Egyptians, and it shall come to pass, when ye go out, that ye shall not go out empty;",
+    "reference": "Exodus 3:21 (DBT)",
+    "connected_to": "Exodus 3:22",
+    "connected_from": "Exodus 3:20"
+  },
+  {
+    "text": "but every woman shall ask of her neighbour, and of her that is the inmate of her house, utensils of silver, and utensils of gold, and clothing; and ye shall put [them] on your sons and on your daughters, and shall spoil the Egyptians.",
+    "reference": "Exodus 3:22 (DBT)",
+    "connected_from": "Exodus 3:21"
+  }
+]

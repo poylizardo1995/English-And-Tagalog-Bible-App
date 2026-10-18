@@ -1,0 +1,138 @@
+[
+  {
+    "text": "The Lord spoke to Moses in the desert of Sinai, in the second year after they departed from the land of Egypt, in the first month, saying:",
+    "reference": "Numbers 9:1 (CPDV)",
+    "connected_to": "Numbers 9:2"
+  },
+  {
+    "text": "“Let the sons of Israel observe the Passover at its proper time,",
+    "reference": "Numbers 9:2 (CPDV)",
+    "connected_to": "Numbers 9:3",
+    "connected_from": "Numbers 9:1"
+  },
+  {
+    "text": "on the fourteenth day of this month, in the evening, according to all of its ceremonies and justifications.”",
+    "reference": "Numbers 9:3 (CPDV)",
+    "connected_to": "Numbers 9:4",
+    "connected_from": "Numbers 9:2"
+  },
+  {
+    "text": "And Moses instructed the sons of Israel, so that they would observe the Passover.",
+    "reference": "Numbers 9:4 (CPDV)",
+    "connected_to": "Numbers 9:5",
+    "connected_from": "Numbers 9:3"
+  },
+  {
+    "text": "And they observed it at its proper time: on the fourteenth day of the month, in the evening, at mount Sinai. The sons of Israel acted according to all the things that the Lord had commanded Moses.",
+    "reference": "Numbers 9:5 (CPDV)",
+    "connected_to": "Numbers 9:6",
+    "connected_from": "Numbers 9:4"
+  },
+  {
+    "text": "But behold, certain ones, who were not able to observe the Passover on that day, being unclean because of the life of a man, approaching Moses and Aaron,",
+    "reference": "Numbers 9:6 (CPDV)",
+    "connected_to": "Numbers 9:7",
+    "connected_from": "Numbers 9:5"
+  },
+  {
+    "text": "said to them: “We are unclean because of the life of a man. Why have we been cheated, in that we are not permitted to offer, at its proper time, the oblation to the Lord among the sons of Israel?”",
+    "reference": "Numbers 9:7 (CPDV)",
+    "connected_to": "Numbers 9:8",
+    "connected_from": "Numbers 9:6"
+  },
+  {
+    "text": "And Moses responded to them: “Remain, so that I may consult the Lord, as to what he will rule about you.”",
+    "reference": "Numbers 9:8 (CPDV)",
+    "connected_to": "Numbers 9:9",
+    "connected_from": "Numbers 9:7"
+  },
+  {
+    "text": "And the Lord spoke to Moses, saying:",
+    "reference": "Numbers 9:9 (CPDV)",
+    "connected_to": "Numbers 9:10",
+    "connected_from": "Numbers 9:8"
+  },
+  {
+    "text": "“Say to the sons of Israel: The man who becomes unclean because of a life, or if he is on a distant journey within your nation, let him observe the Passover to the Lord.",
+    "reference": "Numbers 9:10 (CPDV)",
+    "connected_to": "Numbers 9:11",
+    "connected_from": "Numbers 9:9"
+  },
+  {
+    "text": "In the second month, on the fourteenth day of the month, in the evening, they shall eat it with unleavened bread and wild lettuce.",
+    "reference": "Numbers 9:11 (CPDV)",
+    "connected_to": "Numbers 9:12",
+    "connected_from": "Numbers 9:10"
+  },
+  {
+    "text": "They shall not leave behind any of it until morning, and they shall not break a bone of it; they shall observe all the rituals of the Passover.",
+    "reference": "Numbers 9:12 (CPDV)",
+    "connected_to": "Numbers 9:13",
+    "connected_from": "Numbers 9:11"
+  },
+  {
+    "text": "But if any man was both clean, and not on a journey, and yet he did not observe the Passover, that soul shall be exterminated from among his people, because he did not offer the sacrifice to the Lord in its time. He shall bear his sin.",
+    "reference": "Numbers 9:13 (CPDV)",
+    "connected_to": "Numbers 9:14",
+    "connected_from": "Numbers 9:12"
+  },
+  {
+    "text": "Likewise, the sojourner and the newcomer, if they are among you, shall observe the Passover to the Lord according to its ceremonies and justifications. The same precept shall be with you, as much for the newcomer as for the native.”",
+    "reference": "Numbers 9:14 (CPDV)",
+    "connected_to": "Numbers 9:15",
+    "connected_from": "Numbers 9:13"
+  },
+  {
+    "text": "And so, on the day when the tabernacle was raised, a cloud covered it. But over the tabernacle, from evening until morning, there was, as it seemed, the appearance of fire.",
+    "reference": "Numbers 9:15 (CPDV)",
+    "connected_to": "Numbers 9:16",
+    "connected_from": "Numbers 9:14"
+  },
+  {
+    "text": "This was so continually: throughout the day a cloud covered it, and throughout the night, the appearance of fire.",
+    "reference": "Numbers 9:16 (CPDV)",
+    "connected_to": "Numbers 9:17",
+    "connected_from": "Numbers 9:15"
+  },
+  {
+    "text": "And when the cloud that was protecting the tabernacle had been taken up, then the sons of Israel advanced forward, and in the place where the cloud had remained standing, there they made camp.",
+    "reference": "Numbers 9:17 (CPDV)",
+    "connected_to": "Numbers 9:18",
+    "connected_from": "Numbers 9:16"
+  },
+  {
+    "text": "Upon the order of the Lord they advanced, and upon his order they fixed the tabernacle. All the days during which the cloud was standing over the tabernacle, they remained in the same place.",
+    "reference": "Numbers 9:18 (CPDV)",
+    "connected_to": "Numbers 9:19",
+    "connected_from": "Numbers 9:17"
+  },
+  {
+    "text": "And if it happened that it remained for a long time over it, the sons of Israel kept the night watches of the Lord, and they did not advance,",
+    "reference": "Numbers 9:19 (CPDV)",
+    "connected_to": "Numbers 9:20",
+    "connected_from": "Numbers 9:18"
+  },
+  {
+    "text": "during as many days as the cloud remained over the tabernacle. At the command of the Lord they raised their tents, and at his command they took them down.",
+    "reference": "Numbers 9:20 (CPDV)",
+    "connected_to": "Numbers 9:21",
+    "connected_from": "Numbers 9:19"
+  },
+  {
+    "text": "If the cloud remained from evening until morning, and immediately, at first light, it left the tabernacle, they set out. And if it withdrew after a day and a night, they dismantled their tents.",
+    "reference": "Numbers 9:21 (CPDV)",
+    "connected_to": "Numbers 9:22",
+    "connected_from": "Numbers 9:20"
+  },
+  {
+    "text": "Yet truly, whether it remained over the tabernacle for two days, or one month, or a longer time, the sons of Israel remained in the same place, and they did not set out. Then, as soon as it withdrew, they moved the camp.",
+    "reference": "Numbers 9:22 (CPDV)",
+    "connected_to": "Numbers 9:23",
+    "connected_from": "Numbers 9:21"
+  },
+  {
+    "text": "By the word of the Lord they fixed their tents, and by his word they advanced. And they kept the night watches of the Lord, according to his command by the hand of Moses.",
+    "reference": "Numbers 9:23 (CPDV)",
+    "connected_from": "Numbers 9:22"
+  }
+]

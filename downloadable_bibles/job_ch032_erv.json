@@ -1,0 +1,132 @@
+[
+  {
+    "text": "So these three men ceased to answer Job, because he was righteous in his own eyes.",
+    "reference": "Job 32:1 (ERV)",
+    "connected_to": "Job 32:2"
+  },
+  {
+    "text": "Then was kindled the wrath of Elihu the son of Barachel the Buzite, of the family of Ram: against Job was his wrath kindled, because he justified himself rather than God.",
+    "reference": "Job 32:2 (ERV)",
+    "connected_to": "Job 32:3",
+    "connected_from": "Job 32:1"
+  },
+  {
+    "text": "Also against his three friends was his wrath kindled, because they had found no answer, and yet had condemned Job.",
+    "reference": "Job 32:3 (ERV)",
+    "connected_to": "Job 32:4",
+    "connected_from": "Job 32:2"
+  },
+  {
+    "text": "Now Elihu had waited to speak unto Job, because they were elder than he.",
+    "reference": "Job 32:4 (ERV)",
+    "connected_to": "Job 32:5",
+    "connected_from": "Job 32:3"
+  },
+  {
+    "text": "And when Elihu saw that there was no answer in the mouth of these three men, his wrath was kindled.",
+    "reference": "Job 32:5 (ERV)",
+    "connected_to": "Job 32:6",
+    "connected_from": "Job 32:4"
+  },
+  {
+    "text": "And Elihu the son of Barachel the Buzite answered and said, I am young, and ye are very old; wherefore I held back, and durst not shew you mine opinion.",
+    "reference": "Job 32:6 (ERV)",
+    "connected_to": "Job 32:7",
+    "connected_from": "Job 32:5"
+  },
+  {
+    "text": "I said, Days should speak, and multitude of years should teach wisdom.",
+    "reference": "Job 32:7 (ERV)",
+    "connected_to": "Job 32:8",
+    "connected_from": "Job 32:6"
+  },
+  {
+    "text": "But there is a spirit in man, and the breath of the Almighty giveth them understanding.",
+    "reference": "Job 32:8 (ERV)",
+    "connected_to": "Job 32:9",
+    "connected_from": "Job 32:7"
+  },
+  {
+    "text": "It is not the great that are wise, nor the aged that understand judgment.",
+    "reference": "Job 32:9 (ERV)",
+    "connected_to": "Job 32:10",
+    "connected_from": "Job 32:8"
+  },
+  {
+    "text": "Therefore I said, Hearken to me; I also will shew mine opinion.",
+    "reference": "Job 32:10 (ERV)",
+    "connected_to": "Job 32:11",
+    "connected_from": "Job 32:9"
+  },
+  {
+    "text": "Behold, I waited for your words, I listened for your reasons, whilst ye searched out what to say.",
+    "reference": "Job 32:11 (ERV)",
+    "connected_to": "Job 32:12",
+    "connected_from": "Job 32:10"
+  },
+  {
+    "text": "Yea, I attended unto you, and, behold, there was none that convinced Job, or that answered his words, among you.",
+    "reference": "Job 32:12 (ERV)",
+    "connected_to": "Job 32:13",
+    "connected_from": "Job 32:11"
+  },
+  {
+    "text": "Beware lest ye say, We have found wisdom; God may vanquish him, not man:",
+    "reference": "Job 32:13 (ERV)",
+    "connected_to": "Job 32:14",
+    "connected_from": "Job 32:12"
+  },
+  {
+    "text": "For he hath not directed his words against me; neither will I answer him with your speeches.",
+    "reference": "Job 32:14 (ERV)",
+    "connected_to": "Job 32:15",
+    "connected_from": "Job 32:13"
+  },
+  {
+    "text": "They are amazed, they answer no more: they have not a word to say.",
+    "reference": "Job 32:15 (ERV)",
+    "connected_to": "Job 32:16",
+    "connected_from": "Job 32:14"
+  },
+  {
+    "text": "And shall I wait, because they speak not, because they stand still, and answer no more?",
+    "reference": "Job 32:16 (ERV)",
+    "connected_to": "Job 32:17",
+    "connected_from": "Job 32:15"
+  },
+  {
+    "text": "I also will answer my part, I also will shew mine opinion.",
+    "reference": "Job 32:17 (ERV)",
+    "connected_to": "Job 32:18",
+    "connected_from": "Job 32:16"
+  },
+  {
+    "text": "For I am full of words; the spirit within me constraineth me.",
+    "reference": "Job 32:18 (ERV)",
+    "connected_to": "Job 32:19",
+    "connected_from": "Job 32:17"
+  },
+  {
+    "text": "Behold, my belly is as wine which hath no vent; like new bottles it is ready to burst.",
+    "reference": "Job 32:19 (ERV)",
+    "connected_to": "Job 32:20",
+    "connected_from": "Job 32:18"
+  },
+  {
+    "text": "I will speak, that I may be refreshed; I will open my lips and answer.",
+    "reference": "Job 32:20 (ERV)",
+    "connected_to": "Job 32:21",
+    "connected_from": "Job 32:19"
+  },
+  {
+    "text": "Let me not, I pray you, respect any man’s person; neither will I give flattering titles unto any man.",
+    "reference": "Job 32:21 (ERV)",
+    "connected_to": "Job 32:22",
+    "connected_from": "Job 32:20"
+  },
+  {
+    "text": "For I know not to give flattering titles; else would my Maker soon take me away.",
+    "reference": "Job 32:22 (ERV)",
+    "connected_from": "Job 32:21"
+  }
+]

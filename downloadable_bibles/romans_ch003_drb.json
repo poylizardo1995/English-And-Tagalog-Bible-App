@@ -1,0 +1,186 @@
+[
+  {
+    "text": "WHAT advantage then hath the Jew, or what is the profit of circumcision?",
+    "reference": "Romans 3:1 (DRB)",
+    "connected_to": "Romans 3:2"
+  },
+  {
+    "text": "Much every way. First indeed, because the words of God were committed to them.",
+    "reference": "Romans 3:2 (DRB)",
+    "connected_to": "Romans 3:3",
+    "connected_from": "Romans 3:1"
+  },
+  {
+    "text": "For what if some of them have not believed? shall their unbelief make the faith of God without effect? God forbid.",
+    "reference": "Romans 3:3 (DRB)",
+    "connected_to": "Romans 3:4",
+    "connected_from": "Romans 3:2"
+  },
+  {
+    "text": "But God is true; and every man a liar, as it is written, That thou mayest be justified in thy words, and mayest overcome when thou art judged.",
+    "reference": "Romans 3:4 (DRB)",
+    "connected_to": "Romans 3:5",
+    "connected_from": "Romans 3:3"
+  },
+  {
+    "text": "But if our injustice commend the justice of God, what shall we say? Is God unjust, who executeth wrath?",
+    "reference": "Romans 3:5 (DRB)",
+    "connected_to": "Romans 3:6",
+    "connected_from": "Romans 3:4"
+  },
+  {
+    "text": "(I speak according to man.) God forbid: otherwise how shall God judge this world?",
+    "reference": "Romans 3:6 (DRB)",
+    "connected_to": "Romans 3:7",
+    "connected_from": "Romans 3:5"
+  },
+  {
+    "text": "For if the truth of God hath more abounded through my lie, unto his glory, why am I also yet judged as a sinner?",
+    "reference": "Romans 3:7 (DRB)",
+    "connected_to": "Romans 3:8",
+    "connected_from": "Romans 3:6"
+  },
+  {
+    "text": "And not rather (as we are slandered, and as some affirm that we say) let us do evil, that there may come good? whose damnation is just.",
+    "reference": "Romans 3:8 (DRB)",
+    "connected_to": "Romans 3:9",
+    "connected_from": "Romans 3:7"
+  },
+  {
+    "text": "What then? Do we excel them? No, not so. For we have charged both Jews, and Greeks, that they are all under sin.",
+    "reference": "Romans 3:9 (DRB)",
+    "connected_to": "Romans 3:10",
+    "connected_from": "Romans 3:8"
+  },
+  {
+    "text": "As it is written: There is not any man just.",
+    "reference": "Romans 3:10 (DRB)",
+    "connected_to": "Romans 3:11",
+    "connected_from": "Romans 3:9"
+  },
+  {
+    "text": "There is none that understandeth, there is none that seeketh after God.",
+    "reference": "Romans 3:11 (DRB)",
+    "connected_to": "Romans 3:12",
+    "connected_from": "Romans 3:10"
+  },
+  {
+    "text": "All have turned out of the way; they are become unprofitable together: there is none that doth good, there is not so much as one.",
+    "reference": "Romans 3:12 (DRB)",
+    "connected_to": "Romans 3:13",
+    "connected_from": "Romans 3:11"
+  },
+  {
+    "text": "Their throat is an open sepulchre; with their tongues they have dealt deceitfully. The venom of asps is under their lips.",
+    "reference": "Romans 3:13 (DRB)",
+    "connected_to": "Romans 3:14",
+    "connected_from": "Romans 3:12"
+  },
+  {
+    "text": "Whose mouth is full of cursing and bitterness:",
+    "reference": "Romans 3:14 (DRB)",
+    "connected_to": "Romans 3:15",
+    "connected_from": "Romans 3:13"
+  },
+  {
+    "text": "Their feet swift to shed blood:",
+    "reference": "Romans 3:15 (DRB)",
+    "connected_to": "Romans 3:16",
+    "connected_from": "Romans 3:14"
+  },
+  {
+    "text": "Destruction and misery in their ways:",
+    "reference": "Romans 3:16 (DRB)",
+    "connected_to": "Romans 3:17",
+    "connected_from": "Romans 3:15"
+  },
+  {
+    "text": "And the way of peace they have not known:",
+    "reference": "Romans 3:17 (DRB)",
+    "connected_to": "Romans 3:18",
+    "connected_from": "Romans 3:16"
+  },
+  {
+    "text": "There is no fear of God before their eyes.",
+    "reference": "Romans 3:18 (DRB)",
+    "connected_to": "Romans 3:19",
+    "connected_from": "Romans 3:17"
+  },
+  {
+    "text": "Now we know, that what things soever the law speaketh, it speaketh to them that are in the law; that every mouth may be stopped, and all the world may be made subject to God.",
+    "reference": "Romans 3:19 (DRB)",
+    "connected_to": "Romans 3:20",
+    "connected_from": "Romans 3:18"
+  },
+  {
+    "text": "Because by the works of the law no flesh shall be justified before him. For by the law is the knowledge of sin.",
+    "reference": "Romans 3:20 (DRB)",
+    "connected_to": "Romans 3:21",
+    "connected_from": "Romans 3:19"
+  },
+  {
+    "text": "But now without the law the justice of God is made manifest, being witnessed by the law and the prophets.",
+    "reference": "Romans 3:21 (DRB)",
+    "connected_to": "Romans 3:22",
+    "connected_from": "Romans 3:20"
+  },
+  {
+    "text": "Even the justice of God, by faith of Jesus Christ, unto all and upon all them that believe in him: for there is no distinction:",
+    "reference": "Romans 3:22 (DRB)",
+    "connected_to": "Romans 3:23",
+    "connected_from": "Romans 3:21"
+  },
+  {
+    "text": "For all have sinned, and do need the glory of God.",
+    "reference": "Romans 3:23 (DRB)",
+    "connected_to": "Romans 3:24",
+    "connected_from": "Romans 3:22"
+  },
+  {
+    "text": "Being justified freely by his grace, through the redemption, that is in Christ Jesus,",
+    "reference": "Romans 3:24 (DRB)",
+    "connected_to": "Romans 3:25",
+    "connected_from": "Romans 3:23"
+  },
+  {
+    "text": "Whom God hath proposed to be a propitiation, through faith in his blood, to the shewing of his justice, for the remission of former sins,",
+    "reference": "Romans 3:25 (DRB)",
+    "connected_to": "Romans 3:26",
+    "connected_from": "Romans 3:24"
+  },
+  {
+    "text": "Through the forbearance of God, for the shewing of his justice in this time; that he himself may be just, and the justifier of him, who is of the faith of Jesus Christ.",
+    "reference": "Romans 3:26 (DRB)",
+    "connected_to": "Romans 3:27",
+    "connected_from": "Romans 3:25"
+  },
+  {
+    "text": "Where is then thy boasting? It is excluded. By what law? Of works? No, but by the law of faith.",
+    "reference": "Romans 3:27 (DRB)",
+    "connected_to": "Romans 3:28",
+    "connected_from": "Romans 3:26"
+  },
+  {
+    "text": "For we account a man to be justified by faith, without the works of the law.",
+    "reference": "Romans 3:28 (DRB)",
+    "connected_to": "Romans 3:29",
+    "connected_from": "Romans 3:27"
+  },
+  {
+    "text": "Is he the God of the Jews only? Is he not also of the Gentiles? Yes, of the Gentiles also.",
+    "reference": "Romans 3:29 (DRB)",
+    "connected_to": "Romans 3:30",
+    "connected_from": "Romans 3:28"
+  },
+  {
+    "text": "For it is one God, that justifieth circumcision by faith, and uncircumcision through faith.",
+    "reference": "Romans 3:30 (DRB)",
+    "connected_to": "Romans 3:31",
+    "connected_from": "Romans 3:29"
+  },
+  {
+    "text": "Do we, then, destroy the law through faith? God forbid: but we establish the law.",
+    "reference": "Romans 3:31 (DRB)",
+    "connected_from": "Romans 3:30"
+  }
+]

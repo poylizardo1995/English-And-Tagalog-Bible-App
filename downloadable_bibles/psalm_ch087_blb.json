@@ -1,0 +1,42 @@
+[
+  {
+    "text": "Of the sons of Korah. A Psalm. A song. <span class=|reftext|><a href=|#|><b>1</b></a> His foundation [is] on the holy mountains.",
+    "reference": "Psalm 87:1 (BLB)",
+    "connected_to": "Psalm 87:2"
+  },
+  {
+    "text": "YHWH loves the gates of Zion above all the dwellings of Jacob.",
+    "reference": "Psalm 87:2 (BLB)",
+    "connected_to": "Psalm 87:3",
+    "connected_from": "Psalm 87:1"
+  },
+  {
+    "text": "Glorious things are ascribed to you, O city of God. Selah",
+    "reference": "Psalm 87:3 (BLB)",
+    "connected_to": "Psalm 87:4",
+    "connected_from": "Psalm 87:2"
+  },
+  {
+    "text": "“I will mention Rahab and Babylon among those who know Me—behold Philistia and Tyre, with Cush: This one was born there.",
+    "reference": "Psalm 87:4 (BLB)",
+    "connected_to": "Psalm 87:5",
+    "connected_from": "Psalm 87:3"
+  },
+  {
+    "text": "And of Zion it will be said: “[This] man and [that] man were born in her; and He, the Most High, will establish her.”",
+    "reference": "Psalm 87:5 (BLB)",
+    "connected_to": "Psalm 87:6",
+    "connected_from": "Psalm 87:4"
+  },
+  {
+    "text": "YHWH will record in the register of the peoples: “This one was born there.” Selah",
+    "reference": "Psalm 87:6 (BLB)",
+    "connected_to": "Psalm 87:7",
+    "connected_from": "Psalm 87:5"
+  },
+  {
+    "text": "and those singing, also as players on instruments: “All my springs [are] in you.”",
+    "reference": "Psalm 87:7 (BLB)",
+    "connected_from": "Psalm 87:6"
+  }
+]

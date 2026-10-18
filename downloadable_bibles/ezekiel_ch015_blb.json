@@ -1,0 +1,48 @@
+[
+  {
+    "text": "And the word of YHWH came to me, saying:",
+    "reference": "Ezekiel 15:1 (BLB)",
+    "connected_to": "Ezekiel 15:2"
+  },
+  {
+    "text": "“Son of man, how is the wood of the vine more than any wood, the [vine] branch that is among the trees of the forest?",
+    "reference": "Ezekiel 15:2 (BLB)",
+    "connected_to": "Ezekiel 15:3",
+    "connected_from": "Ezekiel 15:1"
+  },
+  {
+    "text": "Is wood taken from it it to use for work? Or do they make from it a peg to hang any vessel on it?",
+    "reference": "Ezekiel 15:3 (BLB)",
+    "connected_to": "Ezekiel 15:4",
+    "connected_from": "Ezekiel 15:2"
+  },
+  {
+    "text": "Behold, it is given to the fire for food; the two of its ends the fire devours, and the middle of it is burned. Is it useful for work?",
+    "reference": "Ezekiel 15:4 (BLB)",
+    "connected_to": "Ezekiel 15:5",
+    "connected_from": "Ezekiel 15:3"
+  },
+  {
+    "text": "Behold, in its being complete, it could not be made for work; how much [less] when the fire has devoured it and it is burned, can it even be made yet for work!",
+    "reference": "Ezekiel 15:5 (BLB)",
+    "connected_to": "Ezekiel 15:6",
+    "connected_from": "Ezekiel 15:4"
+  },
+  {
+    "text": "Therefore, thus says the Lord YHWH: ‘Just like the wood of the vine among the trees of the forest, which I have given to the fire for food, so I have given those dwelling in Jerusalem.",
+    "reference": "Ezekiel 15:6 (BLB)",
+    "connected_to": "Ezekiel 15:7",
+    "connected_from": "Ezekiel 15:5"
+  },
+  {
+    "text": "And I will set My face against them; from the fire they will come out, and the fire will devour them! And you⁺ will know that I [am] YHWH, in My setting My face against them.",
+    "reference": "Ezekiel 15:7 (BLB)",
+    "connected_to": "Ezekiel 15:8",
+    "connected_from": "Ezekiel 15:6"
+  },
+  {
+    "text": "And I will make the land a desolation, because they have acted unfaithfully—an unfaithfulness’—a declaration of the Lord YHWH.”",
+    "reference": "Ezekiel 15:8 (BLB)",
+    "connected_from": "Ezekiel 15:7"
+  }
+]

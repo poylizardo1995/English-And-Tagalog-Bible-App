@@ -1,0 +1,120 @@
+[
+  {
+    "text": "Then answered Zophar the Naamathite, and said:",
+    "reference": "Job 11:1 (JPS)",
+    "connected_to": "Job 11:2"
+  },
+  {
+    "text": "Should not the multitude of words be answered? And should a man full of talk be accounted right?",
+    "reference": "Job 11:2 (JPS)",
+    "connected_to": "Job 11:3",
+    "connected_from": "Job 11:1"
+  },
+  {
+    "text": "Thy boastings have made men hold their peace, And thou hast mocked, with none to make thee ashamed;",
+    "reference": "Job 11:3 (JPS)",
+    "connected_to": "Job 11:4",
+    "connected_from": "Job 11:2"
+  },
+  {
+    "text": "And thou hast said: ‘My doctrine is pure, And I am clean in Thine eyes.’",
+    "reference": "Job 11:4 (JPS)",
+    "connected_to": "Job 11:5",
+    "connected_from": "Job 11:3"
+  },
+  {
+    "text": "But oh that God would speak, And open His lips against thee;",
+    "reference": "Job 11:5 (JPS)",
+    "connected_to": "Job 11:6",
+    "connected_from": "Job 11:4"
+  },
+  {
+    "text": "And that He would tell thee the secrets of wisdom, That sound wisdom is manifold! Know therefore that God exacteth of thee less than thine iniquity deserveth.",
+    "reference": "Job 11:6 (JPS)",
+    "connected_to": "Job 11:7",
+    "connected_from": "Job 11:5"
+  },
+  {
+    "text": "Canst thou find out the deep things of God? Canst thou attain unto the purpose of the Almighty?",
+    "reference": "Job 11:7 (JPS)",
+    "connected_to": "Job 11:8",
+    "connected_from": "Job 11:6"
+  },
+  {
+    "text": "It is high as heaven; what canst thou do? Deeper than the nether-world; what canst thou know?",
+    "reference": "Job 11:8 (JPS)",
+    "connected_to": "Job 11:9",
+    "connected_from": "Job 11:7"
+  },
+  {
+    "text": "The measure thereof is longer than the earth, And broader than the sea.",
+    "reference": "Job 11:9 (JPS)",
+    "connected_to": "Job 11:10",
+    "connected_from": "Job 11:8"
+  },
+  {
+    "text": "If He pass by, and shut up, Or gather in, then who can hinder Him?",
+    "reference": "Job 11:10 (JPS)",
+    "connected_to": "Job 11:11",
+    "connected_from": "Job 11:9"
+  },
+  {
+    "text": "For He knoweth base men; And when He seeth iniquity, will He not then consider it?",
+    "reference": "Job 11:11 (JPS)",
+    "connected_to": "Job 11:12",
+    "connected_from": "Job 11:10"
+  },
+  {
+    "text": "But an empty man will get understanding, When a wild ass’s colt is born a man.",
+    "reference": "Job 11:12 (JPS)",
+    "connected_to": "Job 11:13",
+    "connected_from": "Job 11:11"
+  },
+  {
+    "text": "If thou set thy heart aright, And stretch out thy hands toward Him—",
+    "reference": "Job 11:13 (JPS)",
+    "connected_to": "Job 11:14",
+    "connected_from": "Job 11:12"
+  },
+  {
+    "text": "If iniquity be in thy hand, put it far away, And let not unrighteousness dwell in thy tents—",
+    "reference": "Job 11:14 (JPS)",
+    "connected_to": "Job 11:15",
+    "connected_from": "Job 11:13"
+  },
+  {
+    "text": "Surely then shalt thou lift up thy face without spot; Yea, thou shalt be stedfast, and shalt not fear;",
+    "reference": "Job 11:15 (JPS)",
+    "connected_to": "Job 11:16",
+    "connected_from": "Job 11:14"
+  },
+  {
+    "text": "For thou shalt forget thy misery; Thou shalt remember it as waters that are passed away;",
+    "reference": "Job 11:16 (JPS)",
+    "connected_to": "Job 11:17",
+    "connected_from": "Job 11:15"
+  },
+  {
+    "text": "And thy life shall be clearer than the noonday; Though there be darkness, it shall be as the morning.",
+    "reference": "Job 11:17 (JPS)",
+    "connected_to": "Job 11:18",
+    "connected_from": "Job 11:16"
+  },
+  {
+    "text": "And thou shalt be secure, because there is hope; Yea, thou shalt look about thee, and shalt take thy rest in safety.",
+    "reference": "Job 11:18 (JPS)",
+    "connected_to": "Job 11:19",
+    "connected_from": "Job 11:17"
+  },
+  {
+    "text": "Also thou shalt lie down, and none shall make thee afraid; Yea, many shall make suit unto thee.",
+    "reference": "Job 11:19 (JPS)",
+    "connected_to": "Job 11:20",
+    "connected_from": "Job 11:18"
+  },
+  {
+    "text": "But the eyes of the wicked shall fail, And they shall have no way to flee, And their hope shall be the drooping of the soul.",
+    "reference": "Job 11:20 (JPS)",
+    "connected_from": "Job 11:19"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "text": "And the Lord said to Moses: Yet one plague more will I bring upon Pharao and Egypt, and after that he shall let you go and thrust you out.",
+    "reference": "Exodus 11:1 (DRB)",
+    "connected_to": "Exodus 11:2"
+  },
+  {
+    "text": "Therefore thou shalt tell all the people that every man ask of his friend, and every woman of her neighbour, vessels of silver, and of gold.",
+    "reference": "Exodus 11:2 (DRB)",
+    "connected_to": "Exodus 11:3",
+    "connected_from": "Exodus 11:1"
+  },
+  {
+    "text": "And the Lord will give favour to his people in the sight of the Egyptians. And Moses was a very great man in the land of Egypt, in the sight of Pharao’s servants, and of all the people.",
+    "reference": "Exodus 11:3 (DRB)",
+    "connected_to": "Exodus 11:4",
+    "connected_from": "Exodus 11:2"
+  },
+  {
+    "text": "And he said: Thus said the Lord: At midnight I will enter into Egypt.",
+    "reference": "Exodus 11:4 (DRB)",
+    "connected_to": "Exodus 11:5",
+    "connected_from": "Exodus 11:3"
+  },
+  {
+    "text": "And every firstborn in the land of the Egyptians shall die, from the firstborn of Pharao who sitteth on his throne, even to the first born of the handmaid that is at the mill, and all the firstborn of beasts.",
+    "reference": "Exodus 11:5 (DRB)",
+    "connected_to": "Exodus 11:6",
+    "connected_from": "Exodus 11:4"
+  },
+  {
+    "text": "And there shall be a great cry in all the land of Egypt, such as neither hath been before, nor shall be hereafter.",
+    "reference": "Exodus 11:6 (DRB)",
+    "connected_to": "Exodus 11:7",
+    "connected_from": "Exodus 11:5"
+  },
+  {
+    "text": "But with all the children of Israel there shall not a dog make the least noise, from man even to beast: that you may know how wonderful a difference the Lord maketh between the Egyptians and Israel.",
+    "reference": "Exodus 11:7 (DRB)",
+    "connected_to": "Exodus 11:8",
+    "connected_from": "Exodus 11:6"
+  },
+  {
+    "text": "And all these thy servants shall come down to me, and shall worship me, saying: Go forth thou, and all the people that is under thee: after that we will go out.",
+    "reference": "Exodus 11:8 (DRB)",
+    "connected_to": "Exodus 11:9",
+    "connected_from": "Exodus 11:7"
+  },
+  {
+    "text": "And he went out from Pharao exceeding angry. But the Lord said to Moses: Pharao will not hear you, that many signs may be done in the land of Egypt.",
+    "reference": "Exodus 11:9 (DRB)",
+    "connected_to": "Exodus 11:10",
+    "connected_from": "Exodus 11:8"
+  },
+  {
+    "text": "And Moses and Aaron did all the wonders that are written, before Pharao. And the Lord hardened Pharao’s heart, neither did he let the children of Israel go out of his land.",
+    "reference": "Exodus 11:10 (DRB)",
+    "connected_from": "Exodus 11:9"
+  }
+]

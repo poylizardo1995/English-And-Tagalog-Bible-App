@@ -1,0 +1,30 @@
+[
+  {
+    "text": "A song of ascents. Of Solomon (peace). <span class=|reftext|><a href=|#|><b>1</b></a> Unless the LORD {YHWH} builds the house, its builders labor in vain; unless the LORD protects the city, its watchmen stand guard in vain.",
+    "reference": "Psalm 127:1 (BAB)",
+    "connected_to": "Psalm 127:2"
+  },
+  {
+    "text": "In vain you⁺ rise early and stay up late, toiling for bread to eat—for He gives sleep to His beloved.",
+    "reference": "Psalm 127:2 (BAB)",
+    "connected_to": "Psalm 127:3",
+    "connected_from": "Psalm 127:1"
+  },
+  {
+    "text": "Children are indeed a heritage from the LORD {YHWH}, and the fruit of the womb is His reward.",
+    "reference": "Psalm 127:3 (BAB)",
+    "connected_to": "Psalm 127:4",
+    "connected_from": "Psalm 127:2"
+  },
+  {
+    "text": "Like arrows in the hand of a warrior, so are children born in one’s youth.",
+    "reference": "Psalm 127:4 (BAB)",
+    "connected_to": "Psalm 127:5",
+    "connected_from": "Psalm 127:3"
+  },
+  {
+    "text": "Blessed is the man whose quiver is full of them. He will not be put to shame when he confronts the enemies at the gate.",
+    "reference": "Psalm 127:5 (BAB)",
+    "connected_from": "Psalm 127:4"
+  }
+]

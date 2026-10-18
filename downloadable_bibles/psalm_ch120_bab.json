@@ -1,0 +1,42 @@
+[
+  {
+    "text": "A song of ascents. <span class=|reftext|><a href=|#|><b>1</b></a> In my distress I cried to the LORD {YHWH}, and He answered me.",
+    "reference": "Psalm 120:1 (BAB)",
+    "connected_to": "Psalm 120:2"
+  },
+  {
+    "text": "Deliver my soul, O LORD {YHWH}, from lying lips and a deceitful tongue.",
+    "reference": "Psalm 120:2 (BAB)",
+    "connected_to": "Psalm 120:3",
+    "connected_from": "Psalm 120:1"
+  },
+  {
+    "text": "What will He do to you, and what will be added to you, O deceitful tongue?",
+    "reference": "Psalm 120:3 (BAB)",
+    "connected_to": "Psalm 120:4",
+    "connected_from": "Psalm 120:2"
+  },
+  {
+    "text": "Sharp arrows will come from the warrior, with burning coals of the broom tree!",
+    "reference": "Psalm 120:4 (BAB)",
+    "connected_to": "Psalm 120:5",
+    "connected_from": "Psalm 120:3"
+  },
+  {
+    "text": "Woe to me that I dwell in Meshech (drawing out), that I live among the tents of Kedar (dark)!",
+    "reference": "Psalm 120:5 (BAB)",
+    "connected_to": "Psalm 120:6",
+    "connected_from": "Psalm 120:4"
+  },
+  {
+    "text": "Too long have I dwelt among those who hate peace.",
+    "reference": "Psalm 120:6 (BAB)",
+    "connected_to": "Psalm 120:7",
+    "connected_from": "Psalm 120:5"
+  },
+  {
+    "text": "I am in favor of peace; but when I speak, they want war.",
+    "reference": "Psalm 120:7 (BAB)",
+    "connected_from": "Psalm 120:6"
+  }
+]

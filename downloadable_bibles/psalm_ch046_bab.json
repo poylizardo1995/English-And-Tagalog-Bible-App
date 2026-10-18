@@ -1,0 +1,66 @@
+[
+  {
+    "text": "For the choirmaster. Of the sons of Korah (bald). According to Alamoth (Alamoth). A song. <span class=|reftext|><a href=|#|><b>1</b></a> God {Elohim} is our refuge and strength, an ever-present help in times of trouble.",
+    "reference": "Psalm 46:1 (BAB)",
+    "connected_to": "Psalm 46:2"
+  },
+  {
+    "text": "Therefore we will not fear, though the earth is transformed and the mountains are toppled into the depths of the seas,",
+    "reference": "Psalm 46:2 (BAB)",
+    "connected_to": "Psalm 46:3",
+    "connected_from": "Psalm 46:1"
+  },
+  {
+    "text": "though their waters roar and foam and the mountains quake in the surge. Selah",
+    "reference": "Psalm 46:3 (BAB)",
+    "connected_to": "Psalm 46:4",
+    "connected_from": "Psalm 46:2"
+  },
+  {
+    "text": "There is a river whose streams delight the city of God {Elohim}, the holy place where the Most High dwells.",
+    "reference": "Psalm 46:4 (BAB)",
+    "connected_to": "Psalm 46:5",
+    "connected_from": "Psalm 46:3"
+  },
+  {
+    "text": "God {Elohim} is within her; she will not be moved. God will help her when morning dawns.",
+    "reference": "Psalm 46:5 (BAB)",
+    "connected_to": "Psalm 46:6",
+    "connected_from": "Psalm 46:4"
+  },
+  {
+    "text": "Nations (nations) rage, kingdoms crumble; the earth melts when He lifts His voice.",
+    "reference": "Psalm 46:6 (BAB)",
+    "connected_to": "Psalm 46:7",
+    "connected_from": "Psalm 46:5"
+  },
+  {
+    "text": "The LORD {YHWH} of Hosts is with us; the God {Elohe} of Jacob (he grasps the heel) is our fortress (height). Selah",
+    "reference": "Psalm 46:7 (BAB)",
+    "connected_to": "Psalm 46:8",
+    "connected_from": "Psalm 46:6"
+  },
+  {
+    "text": "Come, see the works of the LORD {YHWH}, who brings devastation upon the earth.",
+    "reference": "Psalm 46:8 (BAB)",
+    "connected_to": "Psalm 46:9",
+    "connected_from": "Psalm 46:7"
+  },
+  {
+    "text": "He makes wars to cease throughout the earth; He breaks the bow and shatters the spear; He burns the shields (chariots) in the fire.",
+    "reference": "Psalm 46:9 (BAB)",
+    "connected_to": "Psalm 46:10",
+    "connected_from": "Psalm 46:8"
+  },
+  {
+    "text": "“Be still and know that I am God {Elohim}; I will be exalted among the nations, I will be exalted over the earth.”",
+    "reference": "Psalm 46:10 (BAB)",
+    "connected_to": "Psalm 46:11",
+    "connected_from": "Psalm 46:9"
+  },
+  {
+    "text": "The LORD {YHWH} of Hosts is with us; the God {Elohe} of Jacob (he grasps the heel) is our fortress (height). Selah",
+    "reference": "Psalm 46:11 (BAB)",
+    "connected_from": "Psalm 46:10"
+  }
+]

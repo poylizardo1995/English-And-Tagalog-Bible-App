@@ -1,0 +1,120 @@
+[
+  {
+    "text": "Unto the end. For the secrets of the Son. A Psalm of David. I will confess to you, Lord, with my whole heart. I will recount all your wonders.",
+    "reference": "Psalm 9:1 (CPDV)",
+    "connected_to": "Psalm 9:2"
+  },
+  {
+    "text": "I will rejoice and exult in you. I will sing a psalm to your name, O Most High.",
+    "reference": "Psalm 9:2 (CPDV)",
+    "connected_to": "Psalm 9:3",
+    "connected_from": "Psalm 9:1"
+  },
+  {
+    "text": "For my enemy will be turned back. They will be weakened and perish before your face.",
+    "reference": "Psalm 9:3 (CPDV)",
+    "connected_to": "Psalm 9:4",
+    "connected_from": "Psalm 9:2"
+  },
+  {
+    "text": "For you have accomplished my judgment and my cause. You have sat upon the throne that judges justice.",
+    "reference": "Psalm 9:4 (CPDV)",
+    "connected_to": "Psalm 9:5",
+    "connected_from": "Psalm 9:3"
+  },
+  {
+    "text": "You have rebuked the Gentiles, and the impious one has perished. You have deleted their name in eternity and for all generations.",
+    "reference": "Psalm 9:5 (CPDV)",
+    "connected_to": "Psalm 9:6",
+    "connected_from": "Psalm 9:4"
+  },
+  {
+    "text": "The spears of the enemy have failed in the end, and their cities, you have destroyed. Their memory has perished with a loud noise.",
+    "reference": "Psalm 9:6 (CPDV)",
+    "connected_to": "Psalm 9:7",
+    "connected_from": "Psalm 9:5"
+  },
+  {
+    "text": "But the Lord remains in eternity. He has prepared his throne in judgment.",
+    "reference": "Psalm 9:7 (CPDV)",
+    "connected_to": "Psalm 9:8",
+    "connected_from": "Psalm 9:6"
+  },
+  {
+    "text": "And he will judge the whole world in equity. He will judge the people in justice.",
+    "reference": "Psalm 9:8 (CPDV)",
+    "connected_to": "Psalm 9:9",
+    "connected_from": "Psalm 9:7"
+  },
+  {
+    "text": "And the Lord has become a refuge for the poor, a helper in opportunity, in tribulation.",
+    "reference": "Psalm 9:9 (CPDV)",
+    "connected_to": "Psalm 9:10",
+    "connected_from": "Psalm 9:8"
+  },
+  {
+    "text": "And may they hope in you, who know your name. For you have not abandoned those seeking you, Lord.",
+    "reference": "Psalm 9:10 (CPDV)",
+    "connected_to": "Psalm 9:11",
+    "connected_from": "Psalm 9:9"
+  },
+  {
+    "text": "Sing a psalm to the Lord, who dwells in Zion. Announce his study among the Gentiles.",
+    "reference": "Psalm 9:11 (CPDV)",
+    "connected_to": "Psalm 9:12",
+    "connected_from": "Psalm 9:10"
+  },
+  {
+    "text": "Because of those who yearned for their blood, he has remembered them. He has not forgotten the cry of the poor.",
+    "reference": "Psalm 9:12 (CPDV)",
+    "connected_to": "Psalm 9:13",
+    "connected_from": "Psalm 9:11"
+  },
+  {
+    "text": "Have mercy on me, Lord. See my humiliation from my enemies.",
+    "reference": "Psalm 9:13 (CPDV)",
+    "connected_to": "Psalm 9:14",
+    "connected_from": "Psalm 9:12"
+  },
+  {
+    "text": "You lift me up from the gates of death, so that I may announce all your praises at the gates of the daughter of Zion.",
+    "reference": "Psalm 9:14 (CPDV)",
+    "connected_to": "Psalm 9:15",
+    "connected_from": "Psalm 9:13"
+  },
+  {
+    "text": "I will exult in your salvation. The Gentiles have become trapped in the ruin that they made. Their foot has been caught in the same snare that they themselves had hidden.",
+    "reference": "Psalm 9:15 (CPDV)",
+    "connected_to": "Psalm 9:16",
+    "connected_from": "Psalm 9:14"
+  },
+  {
+    "text": "The Lord will be recognized when making judgments. The sinner has been caught in the works of his own hands.",
+    "reference": "Psalm 9:16 (CPDV)",
+    "connected_to": "Psalm 9:17",
+    "connected_from": "Psalm 9:15"
+  },
+  {
+    "text": "The sinners will be turned into Hell: all the Gentiles who have forgotten God.",
+    "reference": "Psalm 9:17 (CPDV)",
+    "connected_to": "Psalm 9:18",
+    "connected_from": "Psalm 9:16"
+  },
+  {
+    "text": "For the poor will not be forgotten in the end. The patience of the poor will not perish in the end.",
+    "reference": "Psalm 9:18 (CPDV)",
+    "connected_to": "Psalm 9:19",
+    "connected_from": "Psalm 9:17"
+  },
+  {
+    "text": "Rise up, Lord: do not let man be strengthened. Let the Gentiles be judged in your sight.",
+    "reference": "Psalm 9:19 (CPDV)",
+    "connected_to": "Psalm 9:20",
+    "connected_from": "Psalm 9:18"
+  },
+  {
+    "text": "O Lord, establish a lawgiver over them, so that the Gentiles may know that they are only men.",
+    "reference": "Psalm 9:20 (CPDV)",
+    "connected_from": "Psalm 9:19"
+  }
+]

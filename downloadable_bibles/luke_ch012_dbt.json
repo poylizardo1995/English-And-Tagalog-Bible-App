@@ -1,0 +1,354 @@
+[
+  {
+    "text": "In those [times], the myriads of the crowd being gathered together, so that they trod one on another, he began to say to his disciples first, Beware of the leaven of the Pharisees, which is hypocrisy;",
+    "reference": "Luke 12:1 (DBT)",
+    "connected_to": "Luke 12:2"
+  },
+  {
+    "text": "but there is nothing covered up which shall not be revealed, nor secret that shall not be known;",
+    "reference": "Luke 12:2 (DBT)",
+    "connected_to": "Luke 12:3",
+    "connected_from": "Luke 12:1"
+  },
+  {
+    "text": "therefore whatever ye have said in the darkness shall be heard in the light, and what ye have spoken in the ear in chambers shall be proclaimed upon the housetops.",
+    "reference": "Luke 12:3 (DBT)",
+    "connected_to": "Luke 12:4",
+    "connected_from": "Luke 12:2"
+  },
+  {
+    "text": "But I say to you, my friends, Fear not those who kill the body and after this have no more that they can do.",
+    "reference": "Luke 12:4 (DBT)",
+    "connected_to": "Luke 12:5",
+    "connected_from": "Luke 12:3"
+  },
+  {
+    "text": "But I will shew you whom ye shall fear: Fear him who after he has killed has authority to cast into hell; yea, I say to you, Fear him.",
+    "reference": "Luke 12:5 (DBT)",
+    "connected_to": "Luke 12:6",
+    "connected_from": "Luke 12:4"
+  },
+  {
+    "text": "Are not five sparrows sold for two assaria? and one of them is not forgotten before God.",
+    "reference": "Luke 12:6 (DBT)",
+    "connected_to": "Luke 12:7",
+    "connected_from": "Luke 12:5"
+  },
+  {
+    "text": "But even the hairs of your head are all numbered. Fear not therefore, ye are better than many sparrows.",
+    "reference": "Luke 12:7 (DBT)",
+    "connected_to": "Luke 12:8",
+    "connected_from": "Luke 12:6"
+  },
+  {
+    "text": "But I say to you, Whosoever shall confess me before men, the Son of man will confess him also before the angels of God;",
+    "reference": "Luke 12:8 (DBT)",
+    "connected_to": "Luke 12:9",
+    "connected_from": "Luke 12:7"
+  },
+  {
+    "text": "but he that shall have denied me before men shall be denied before the angels of God;",
+    "reference": "Luke 12:9 (DBT)",
+    "connected_to": "Luke 12:10",
+    "connected_from": "Luke 12:8"
+  },
+  {
+    "text": "and whoever shall say a word against the Son of man it shall be forgiven him; but to him that speaks injuriously against the Holy Spirit it shall not be forgiven.",
+    "reference": "Luke 12:10 (DBT)",
+    "connected_to": "Luke 12:11",
+    "connected_from": "Luke 12:9"
+  },
+  {
+    "text": "But when they bring you before the synagogues and rulers and the authorities, be not careful how or what ye shall answer, or what ye shall say;",
+    "reference": "Luke 12:11 (DBT)",
+    "connected_to": "Luke 12:12",
+    "connected_from": "Luke 12:10"
+  },
+  {
+    "text": "for the Holy Spirit shall teach you in the hour itself what should be said.",
+    "reference": "Luke 12:12 (DBT)",
+    "connected_to": "Luke 12:13",
+    "connected_from": "Luke 12:11"
+  },
+  {
+    "text": "And a person said to him out of the crowd, Teacher, speak to my brother to divide the inheritance with me.",
+    "reference": "Luke 12:13 (DBT)",
+    "connected_to": "Luke 12:14",
+    "connected_from": "Luke 12:12"
+  },
+  {
+    "text": "But he said to him, Man, who established me [as] a judge or a divider over you?",
+    "reference": "Luke 12:14 (DBT)",
+    "connected_to": "Luke 12:15",
+    "connected_from": "Luke 12:13"
+  },
+  {
+    "text": "And he said to them, Take heed and keep yourselves from all covetousness, for [it is] not because a man is in abundance [that] his life is in his possessions.",
+    "reference": "Luke 12:15 (DBT)",
+    "connected_to": "Luke 12:16",
+    "connected_from": "Luke 12:14"
+  },
+  {
+    "text": "And he spoke a parable to them, saying, The land of a certain rich man brought forth abundantly.",
+    "reference": "Luke 12:16 (DBT)",
+    "connected_to": "Luke 12:17",
+    "connected_from": "Luke 12:15"
+  },
+  {
+    "text": "And he reasoned within himself saying, What shall I do? for I have not [a place] where I shall lay up my fruits.",
+    "reference": "Luke 12:17 (DBT)",
+    "connected_to": "Luke 12:18",
+    "connected_from": "Luke 12:16"
+  },
+  {
+    "text": "And he said, This will I do: I will take away my granaries and build greater, and there I will lay up all my produce and my good things;",
+    "reference": "Luke 12:18 (DBT)",
+    "connected_to": "Luke 12:19",
+    "connected_from": "Luke 12:17"
+  },
+  {
+    "text": "and I will say to my soul, Soul, thou hast much good things laid by for many years; repose thyself, eat, drink, be merry.",
+    "reference": "Luke 12:19 (DBT)",
+    "connected_to": "Luke 12:20",
+    "connected_from": "Luke 12:18"
+  },
+  {
+    "text": "But God said to him, Fool, this night thy soul shall be required of thee; and whose shall be what thou hast prepared?",
+    "reference": "Luke 12:20 (DBT)",
+    "connected_to": "Luke 12:21",
+    "connected_from": "Luke 12:19"
+  },
+  {
+    "text": "Thus is he who lays up treasure for himself, and is not rich toward God.",
+    "reference": "Luke 12:21 (DBT)",
+    "connected_to": "Luke 12:22",
+    "connected_from": "Luke 12:20"
+  },
+  {
+    "text": "And he said to his disciples, For this cause I say unto you, Be not careful for life, what ye shall eat, nor for the body, what ye shall put on.",
+    "reference": "Luke 12:22 (DBT)",
+    "connected_to": "Luke 12:23",
+    "connected_from": "Luke 12:21"
+  },
+  {
+    "text": "The life is more than food, and the body than raiment.",
+    "reference": "Luke 12:23 (DBT)",
+    "connected_to": "Luke 12:24",
+    "connected_from": "Luke 12:22"
+  },
+  {
+    "text": "Consider the ravens, that they sow not nor reap; which have neither storehouse nor granary; and God feeds them. How much better are ye than the birds?",
+    "reference": "Luke 12:24 (DBT)",
+    "connected_to": "Luke 12:25",
+    "connected_from": "Luke 12:23"
+  },
+  {
+    "text": "But which of you by being careful can add to his stature one cubit?",
+    "reference": "Luke 12:25 (DBT)",
+    "connected_to": "Luke 12:26",
+    "connected_from": "Luke 12:24"
+  },
+  {
+    "text": "If therefore ye cannot [do] even what is least, why are ye careful about the rest?",
+    "reference": "Luke 12:26 (DBT)",
+    "connected_to": "Luke 12:27",
+    "connected_from": "Luke 12:25"
+  },
+  {
+    "text": "Consider the lilies how they grow: they neither toil nor spin; but I say unto you, Not even Solomon in all his glory was clothed as one of these.",
+    "reference": "Luke 12:27 (DBT)",
+    "connected_to": "Luke 12:28",
+    "connected_from": "Luke 12:26"
+  },
+  {
+    "text": "But if God thus clothe the grass, which to-day is in the field and to-morrow is cast into [the] oven, how much rather you, O ye of little faith?",
+    "reference": "Luke 12:28 (DBT)",
+    "connected_to": "Luke 12:29",
+    "connected_from": "Luke 12:27"
+  },
+  {
+    "text": "And ye, seek not what ye shall eat or what ye shall drink, and be not in anxiety;",
+    "reference": "Luke 12:29 (DBT)",
+    "connected_to": "Luke 12:30",
+    "connected_from": "Luke 12:28"
+  },
+  {
+    "text": "for all these things do the nations of the world seek after, and your Father knows that ye have need of these things;",
+    "reference": "Luke 12:30 (DBT)",
+    "connected_to": "Luke 12:31",
+    "connected_from": "Luke 12:29"
+  },
+  {
+    "text": "but seek his kingdom, and [all] these things shall be added to you.",
+    "reference": "Luke 12:31 (DBT)",
+    "connected_to": "Luke 12:32",
+    "connected_from": "Luke 12:30"
+  },
+  {
+    "text": "Fear not, little flock, for it has been the good pleasure of your Father to give you the kingdom.",
+    "reference": "Luke 12:32 (DBT)",
+    "connected_to": "Luke 12:33",
+    "connected_from": "Luke 12:31"
+  },
+  {
+    "text": "Sell what ye possess and give alms; make to yourselves purses which do not grow old, a treasure which does not fail in the heavens, where thief does not draw near nor moth destroy.",
+    "reference": "Luke 12:33 (DBT)",
+    "connected_to": "Luke 12:34",
+    "connected_from": "Luke 12:32"
+  },
+  {
+    "text": "For where your treasure is, there also will your heart be.",
+    "reference": "Luke 12:34 (DBT)",
+    "connected_to": "Luke 12:35",
+    "connected_from": "Luke 12:33"
+  },
+  {
+    "text": "Let your loins be girded about, and lamps burning;",
+    "reference": "Luke 12:35 (DBT)",
+    "connected_to": "Luke 12:36",
+    "connected_from": "Luke 12:34"
+  },
+  {
+    "text": "and ye like men who wait their own lord whenever he may leave the wedding, that when he comes and knocks, they may open to him immediately.",
+    "reference": "Luke 12:36 (DBT)",
+    "connected_to": "Luke 12:37",
+    "connected_from": "Luke 12:35"
+  },
+  {
+    "text": "Blessed are those bondmen whom the lord [on] coming shall find watching; verily I say unto you, that he will gird himself and make them recline at table, and coming up will serve them.",
+    "reference": "Luke 12:37 (DBT)",
+    "connected_to": "Luke 12:38",
+    "connected_from": "Luke 12:36"
+  },
+  {
+    "text": "And if he come in the second watch, and come in the third watch, and find [them] thus, blessed are those [bondmen].",
+    "reference": "Luke 12:38 (DBT)",
+    "connected_to": "Luke 12:39",
+    "connected_from": "Luke 12:37"
+  },
+  {
+    "text": "But this know, that if the master of the house had known in what hour the thief was coming, he would have watched, and not have suffered his house to be dug through.",
+    "reference": "Luke 12:39 (DBT)",
+    "connected_to": "Luke 12:40",
+    "connected_from": "Luke 12:38"
+  },
+  {
+    "text": "And ye therefore, be ye ready, for in the hour in which ye do not think [it], the Son of man comes.",
+    "reference": "Luke 12:40 (DBT)",
+    "connected_to": "Luke 12:41",
+    "connected_from": "Luke 12:39"
+  },
+  {
+    "text": "And Peter said to him, Lord, sayest thou this parable to us, or also to all?",
+    "reference": "Luke 12:41 (DBT)",
+    "connected_to": "Luke 12:42",
+    "connected_from": "Luke 12:40"
+  },
+  {
+    "text": "And the Lord said, Who then is the faithful and prudent steward, whom his lord will set over his household, to give the measure of corn in season?",
+    "reference": "Luke 12:42 (DBT)",
+    "connected_to": "Luke 12:43",
+    "connected_from": "Luke 12:41"
+  },
+  {
+    "text": "Blessed is that bondman whom his lord [on] coming shall find doing thus;",
+    "reference": "Luke 12:43 (DBT)",
+    "connected_to": "Luke 12:44",
+    "connected_from": "Luke 12:42"
+  },
+  {
+    "text": "verily I say unto you, that he will set him over all that he has.",
+    "reference": "Luke 12:44 (DBT)",
+    "connected_to": "Luke 12:45",
+    "connected_from": "Luke 12:43"
+  },
+  {
+    "text": "But if that bondman should say in his heart, My lord delays to come, and begin to beat the menservants and the maidservants, and to eat and to drink and to be drunken,",
+    "reference": "Luke 12:45 (DBT)",
+    "connected_to": "Luke 12:46",
+    "connected_from": "Luke 12:44"
+  },
+  {
+    "text": "the lord of that bondman shall come in a day when he does not expect it, and in an hour he knows not of, and shall cut him in two and appoint his portion with the unbelievers.",
+    "reference": "Luke 12:46 (DBT)",
+    "connected_to": "Luke 12:47",
+    "connected_from": "Luke 12:45"
+  },
+  {
+    "text": "But that bondman who knew his own lord’s will, and had not prepared [himself] nor done his will, shall be beaten with many [stripes];",
+    "reference": "Luke 12:47 (DBT)",
+    "connected_to": "Luke 12:48",
+    "connected_from": "Luke 12:46"
+  },
+  {
+    "text": "but he who knew [it] not, and did things worthy of stripes, shall be beaten with few. And to every one to whom much has been given, much shall be required from him; and to whom [men] have committed much, they will ask from him the more.",
+    "reference": "Luke 12:48 (DBT)",
+    "connected_to": "Luke 12:49",
+    "connected_from": "Luke 12:47"
+  },
+  {
+    "text": "I have come to cast a fire on the earth; and what will I if already it has been kindled?",
+    "reference": "Luke 12:49 (DBT)",
+    "connected_to": "Luke 12:50",
+    "connected_from": "Luke 12:48"
+  },
+  {
+    "text": "But I have a baptism to be baptised with, and how am I straitened until it shall have been accomplished!",
+    "reference": "Luke 12:50 (DBT)",
+    "connected_to": "Luke 12:51",
+    "connected_from": "Luke 12:49"
+  },
+  {
+    "text": "Think ye that I have come to give peace in the earth? Nay, I say to you, but rather division:",
+    "reference": "Luke 12:51 (DBT)",
+    "connected_to": "Luke 12:52",
+    "connected_from": "Luke 12:50"
+  },
+  {
+    "text": "for from henceforth there shall be five in one house divided; three shall be divided against two, and two against three:",
+    "reference": "Luke 12:52 (DBT)",
+    "connected_to": "Luke 12:53",
+    "connected_from": "Luke 12:51"
+  },
+  {
+    "text": "father against son, and son against father; mother against daughter, and daughter against mother; a mother-in-law against her daughter-in-law, and a daughter-in-law against her mother-in-law.",
+    "reference": "Luke 12:53 (DBT)",
+    "connected_to": "Luke 12:54",
+    "connected_from": "Luke 12:52"
+  },
+  {
+    "text": "And he said also to the crowds, When ye see a cloud rising out of the west, straightway ye say, A shower is coming; and so it happens.",
+    "reference": "Luke 12:54 (DBT)",
+    "connected_to": "Luke 12:55",
+    "connected_from": "Luke 12:53"
+  },
+  {
+    "text": "And when [ye see] the south wind blow, ye say, There will be heat; and it happens.",
+    "reference": "Luke 12:55 (DBT)",
+    "connected_to": "Luke 12:56",
+    "connected_from": "Luke 12:54"
+  },
+  {
+    "text": "Hypocrites, ye know how to judge of the appearance of the earth and of the heaven; how [is it then that] ye do not discern this time?",
+    "reference": "Luke 12:56 (DBT)",
+    "connected_to": "Luke 12:57",
+    "connected_from": "Luke 12:55"
+  },
+  {
+    "text": "And why even of yourselves judge ye not what is right?",
+    "reference": "Luke 12:57 (DBT)",
+    "connected_to": "Luke 12:58",
+    "connected_from": "Luke 12:56"
+  },
+  {
+    "text": "For as thou goest with thine adverse party before a magistrate, strive in the way to be reconciled with him, lest he drag thee away to the judge, and the judge shall deliver thee to the officer, and the officer cast thee into prison.",
+    "reference": "Luke 12:58 (DBT)",
+    "connected_to": "Luke 12:59",
+    "connected_from": "Luke 12:57"
+  },
+  {
+    "text": "I say unto thee, Thou shalt in no wise come out thence until thou hast paid the very last mite.",
+    "reference": "Luke 12:59 (DBT)",
+    "connected_from": "Luke 12:58"
+  }
+]

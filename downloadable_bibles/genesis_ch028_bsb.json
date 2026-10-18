@@ -1,0 +1,132 @@
+[
+  {
+    "text": "So Isaac called for Jacob and blessed him. “Do not take a wife from the Canaanite women,” he commanded.",
+    "reference": "Genesis 28:1 (BSB)",
+    "connected_to": "Genesis 28:2"
+  },
+  {
+    "text": "“Go at once to Paddan-aram, to the house of your mother’s father Bethuel, and take a wife from among the daughters of Laban, your mother’s brother.",
+    "reference": "Genesis 28:2 (BSB)",
+    "connected_to": "Genesis 28:3",
+    "connected_from": "Genesis 28:1"
+  },
+  {
+    "text": "May God Almighty bless you and make you fruitful and multiply you, so that you may become a company of peoples.",
+    "reference": "Genesis 28:3 (BSB)",
+    "connected_to": "Genesis 28:4",
+    "connected_from": "Genesis 28:2"
+  },
+  {
+    "text": "And may He give the blessing of Abraham to you and your descendants, so that you may possess the land where you dwell as a foreigner, the land God gave to Abraham.”",
+    "reference": "Genesis 28:4 (BSB)",
+    "connected_to": "Genesis 28:5",
+    "connected_from": "Genesis 28:3"
+  },
+  {
+    "text": "So Isaac sent Jacob to Paddan-aram, to Laban son of Bethuel the Aramean, the brother of Rebekah, who was the mother of Jacob and Esau.",
+    "reference": "Genesis 28:5 (BSB)",
+    "connected_to": "Genesis 28:6",
+    "connected_from": "Genesis 28:4"
+  },
+  {
+    "text": "Now Esau learned that Isaac had blessed Jacob and sent him to Paddan-aram to take a wife there, commanding him, “Do not marry a Canaanite woman,”",
+    "reference": "Genesis 28:6 (BSB)",
+    "connected_to": "Genesis 28:7",
+    "connected_from": "Genesis 28:5"
+  },
+  {
+    "text": "and that Jacob had obeyed his father and mother and gone to Paddan-aram.",
+    "reference": "Genesis 28:7 (BSB)",
+    "connected_to": "Genesis 28:8",
+    "connected_from": "Genesis 28:6"
+  },
+  {
+    "text": "And seeing that his father Isaac disapproved of the Canaanite women,",
+    "reference": "Genesis 28:8 (BSB)",
+    "connected_to": "Genesis 28:9",
+    "connected_from": "Genesis 28:7"
+  },
+  {
+    "text": "Esau went to Ishmael and married Mahalath, the sister of Nebaioth and daughter of Abraham’s son Ishmael, in addition to the wives he already had.",
+    "reference": "Genesis 28:9 (BSB)",
+    "connected_to": "Genesis 28:10",
+    "connected_from": "Genesis 28:8"
+  },
+  {
+    "text": "Meanwhile Jacob left Beersheba and set out for Haran.",
+    "reference": "Genesis 28:10 (BSB)",
+    "connected_to": "Genesis 28:11",
+    "connected_from": "Genesis 28:9"
+  },
+  {
+    "text": "On reaching a certain place, he spent the night there because the sun had set. And taking one of the stones from that place, he put it under his head and lay down to sleep.",
+    "reference": "Genesis 28:11 (BSB)",
+    "connected_to": "Genesis 28:12",
+    "connected_from": "Genesis 28:10"
+  },
+  {
+    "text": "And Jacob had a dream about a ladder that rested on the earth with its top reaching up to heaven, and God’s angels were going up and down the ladder.",
+    "reference": "Genesis 28:12 (BSB)",
+    "connected_to": "Genesis 28:13",
+    "connected_from": "Genesis 28:11"
+  },
+  {
+    "text": "And there at the top the LORD was standing and saying, “I am the LORD, the God of your father Abraham and the God of Isaac. I will give you and your descendants the land on which you now lie.",
+    "reference": "Genesis 28:13 (BSB)",
+    "connected_to": "Genesis 28:14",
+    "connected_from": "Genesis 28:12"
+  },
+  {
+    "text": "Your descendants will be like the dust of the earth, and you will spread out to the west and east and north and south. All the families of the earth will be blessed through you and your offspring.",
+    "reference": "Genesis 28:14 (BSB)",
+    "connected_to": "Genesis 28:15",
+    "connected_from": "Genesis 28:13"
+  },
+  {
+    "text": "Look, I am with you, and I will watch over you wherever you go, and I will bring you back to this land. For I will not leave you until I have done what I have promised you.”",
+    "reference": "Genesis 28:15 (BSB)",
+    "connected_to": "Genesis 28:16",
+    "connected_from": "Genesis 28:14"
+  },
+  {
+    "text": "When Jacob woke up, he said, “Surely the LORD is in this place, and I was unaware of it.”",
+    "reference": "Genesis 28:16 (BSB)",
+    "connected_to": "Genesis 28:17",
+    "connected_from": "Genesis 28:15"
+  },
+  {
+    "text": "And he was afraid and said, “How awesome is this place! This is none other than the house of God; this is the gate of heaven!”",
+    "reference": "Genesis 28:17 (BSB)",
+    "connected_to": "Genesis 28:18",
+    "connected_from": "Genesis 28:16"
+  },
+  {
+    "text": "Early the next morning, Jacob took the stone that he had placed under his head, and he set it up as a pillar. He poured oil on top of it,",
+    "reference": "Genesis 28:18 (BSB)",
+    "connected_to": "Genesis 28:19",
+    "connected_from": "Genesis 28:17"
+  },
+  {
+    "text": "and he called that place Bethel, though previously the city had been named Luz.",
+    "reference": "Genesis 28:19 (BSB)",
+    "connected_to": "Genesis 28:20",
+    "connected_from": "Genesis 28:18"
+  },
+  {
+    "text": "Then Jacob made a vow, saying, “If God will be with me and watch over me on this journey, and if He will provide me with food to eat and clothes to wear,",
+    "reference": "Genesis 28:20 (BSB)",
+    "connected_to": "Genesis 28:21",
+    "connected_from": "Genesis 28:19"
+  },
+  {
+    "text": "so that I may return safely to my father’s house, then the LORD will be my God.",
+    "reference": "Genesis 28:21 (BSB)",
+    "connected_to": "Genesis 28:22",
+    "connected_from": "Genesis 28:20"
+  },
+  {
+    "text": "And this stone I have set up as a pillar will be God’s house, and of all that You give me I will surely give You a tenth.”",
+    "reference": "Genesis 28:22 (BSB)",
+    "connected_from": "Genesis 28:21"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "text": "{[A Psalm] of David.} Bless Jehovah, O my soul; and all that is within me, [bless] his holy name!",
+    "reference": "Psalm 103:1 (DBT)",
+    "connected_to": "Psalm 103:2"
+  },
+  {
+    "text": "Bless Jehovah, O my soul, and forget not all his benefits:",
+    "reference": "Psalm 103:2 (DBT)",
+    "connected_to": "Psalm 103:3",
+    "connected_from": "Psalm 103:1"
+  },
+  {
+    "text": "Who forgiveth all thine iniquities, who healeth all thy diseases;",
+    "reference": "Psalm 103:3 (DBT)",
+    "connected_to": "Psalm 103:4",
+    "connected_from": "Psalm 103:2"
+  },
+  {
+    "text": "Who redeemeth thy life from the pit, who crowneth thee with loving-kindness and tender mercies;",
+    "reference": "Psalm 103:4 (DBT)",
+    "connected_to": "Psalm 103:5",
+    "connected_from": "Psalm 103:3"
+  },
+  {
+    "text": "Who satisfieth thine old age with good [things]; thy youth is renewed like the eagle’s.",
+    "reference": "Psalm 103:5 (DBT)",
+    "connected_to": "Psalm 103:6",
+    "connected_from": "Psalm 103:4"
+  },
+  {
+    "text": "Jehovah executeth righteousness and justice for all that are oppressed.",
+    "reference": "Psalm 103:6 (DBT)",
+    "connected_to": "Psalm 103:7",
+    "connected_from": "Psalm 103:5"
+  },
+  {
+    "text": "He made known his ways unto Moses, his acts unto the children of Israel.",
+    "reference": "Psalm 103:7 (DBT)",
+    "connected_to": "Psalm 103:8",
+    "connected_from": "Psalm 103:6"
+  },
+  {
+    "text": "Jehovah is merciful and gracious, slow to anger, and abundant in loving-kindness.",
+    "reference": "Psalm 103:8 (DBT)",
+    "connected_to": "Psalm 103:9",
+    "connected_from": "Psalm 103:7"
+  },
+  {
+    "text": "He will not always chide, neither will he keep [his anger] for ever.",
+    "reference": "Psalm 103:9 (DBT)",
+    "connected_to": "Psalm 103:10",
+    "connected_from": "Psalm 103:8"
+  },
+  {
+    "text": "He hath not dealt with us according to our sins, nor rewarded us according to our iniquities.",
+    "reference": "Psalm 103:10 (DBT)",
+    "connected_to": "Psalm 103:11",
+    "connected_from": "Psalm 103:9"
+  },
+  {
+    "text": "For as the heavens are high above the earth, so great is his loving-kindness toward them that fear him.",
+    "reference": "Psalm 103:11 (DBT)",
+    "connected_to": "Psalm 103:12",
+    "connected_from": "Psalm 103:10"
+  },
+  {
+    "text": "As far as the east is from the west, so far hath he removed our transgressions from us.",
+    "reference": "Psalm 103:12 (DBT)",
+    "connected_to": "Psalm 103:13",
+    "connected_from": "Psalm 103:11"
+  },
+  {
+    "text": "As a father pitieth [his] children, so Jehovah pitieth them that fear him.",
+    "reference": "Psalm 103:13 (DBT)",
+    "connected_to": "Psalm 103:14",
+    "connected_from": "Psalm 103:12"
+  },
+  {
+    "text": "For himself knoweth our frame; he remembereth that we are dust.",
+    "reference": "Psalm 103:14 (DBT)",
+    "connected_to": "Psalm 103:15",
+    "connected_from": "Psalm 103:13"
+  },
+  {
+    "text": "As for man, his days are as grass; as a flower of the field, so he flourisheth:",
+    "reference": "Psalm 103:15 (DBT)",
+    "connected_to": "Psalm 103:16",
+    "connected_from": "Psalm 103:14"
+  },
+  {
+    "text": "For the wind passeth over it, and it is gone, and the place thereof knoweth it no more.",
+    "reference": "Psalm 103:16 (DBT)",
+    "connected_to": "Psalm 103:17",
+    "connected_from": "Psalm 103:15"
+  },
+  {
+    "text": "But the loving-kindness of Jehovah is from everlasting and to everlasting, upon them that fear him, and his righteousness unto children’s children,",
+    "reference": "Psalm 103:17 (DBT)",
+    "connected_to": "Psalm 103:18",
+    "connected_from": "Psalm 103:16"
+  },
+  {
+    "text": "To such as keep his covenant and to those that remember his precepts to do them.",
+    "reference": "Psalm 103:18 (DBT)",
+    "connected_to": "Psalm 103:19",
+    "connected_from": "Psalm 103:17"
+  },
+  {
+    "text": "Jehovah hath established his throne in the heavens, and his kingdom ruleth over all.",
+    "reference": "Psalm 103:19 (DBT)",
+    "connected_to": "Psalm 103:20",
+    "connected_from": "Psalm 103:18"
+  },
+  {
+    "text": "Bless Jehovah, ye his angels, mighty in strength, that execute his word, hearkening unto the voice of his word.",
+    "reference": "Psalm 103:20 (DBT)",
+    "connected_to": "Psalm 103:21",
+    "connected_from": "Psalm 103:19"
+  },
+  {
+    "text": "Bless Jehovah, all ye his hosts; ye ministers of his that do his will.",
+    "reference": "Psalm 103:21 (DBT)",
+    "connected_to": "Psalm 103:22",
+    "connected_from": "Psalm 103:20"
+  },
+  {
+    "text": "Bless Jehovah, all his works, in all places of his dominion. Bless Jehovah, O my soul!",
+    "reference": "Psalm 103:22 (DBT)",
+    "connected_from": "Psalm 103:21"
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "text": "Wisdom hath built herself a house, she hath hewn her out seven pillars.",
+    "reference": "Proverbs 9:1 (DRB)",
+    "connected_to": "Proverbs 9:2"
+  },
+  {
+    "text": "She hath slain her victims, mingled her wine, and set forth her table.",
+    "reference": "Proverbs 9:2 (DRB)",
+    "connected_to": "Proverbs 9:3",
+    "connected_from": "Proverbs 9:1"
+  },
+  {
+    "text": "She hath sent her maids to invite to the tower, and to the walls of the city:",
+    "reference": "Proverbs 9:3 (DRB)",
+    "connected_to": "Proverbs 9:4",
+    "connected_from": "Proverbs 9:2"
+  },
+  {
+    "text": "Whosoever is a little one, let him come to me. And to the unwise she said:",
+    "reference": "Proverbs 9:4 (DRB)",
+    "connected_to": "Proverbs 9:5",
+    "connected_from": "Proverbs 9:3"
+  },
+  {
+    "text": "Come, eat my bread, and drink the wine which I have mingled for you.",
+    "reference": "Proverbs 9:5 (DRB)",
+    "connected_to": "Proverbs 9:6",
+    "connected_from": "Proverbs 9:4"
+  },
+  {
+    "text": "Forsake childishness, and live, and walk by the ways of prudence.",
+    "reference": "Proverbs 9:6 (DRB)",
+    "connected_to": "Proverbs 9:7",
+    "connected_from": "Proverbs 9:5"
+  },
+  {
+    "text": "He that teacheth a scorner, doth an injury to himself: and he that rebuketh a wicked man, getteth himself a blot.",
+    "reference": "Proverbs 9:7 (DRB)",
+    "connected_to": "Proverbs 9:8",
+    "connected_from": "Proverbs 9:6"
+  },
+  {
+    "text": "Rebuke not a scorner lest he hate thee. Rebuke a wise man, and he will love thee.",
+    "reference": "Proverbs 9:8 (DRB)",
+    "connected_to": "Proverbs 9:9",
+    "connected_from": "Proverbs 9:7"
+  },
+  {
+    "text": "Give an occasion to a wise man, and wisdom shall be added to him. Teach a just man, and he shall make haste to receive it.",
+    "reference": "Proverbs 9:9 (DRB)",
+    "connected_to": "Proverbs 9:10",
+    "connected_from": "Proverbs 9:8"
+  },
+  {
+    "text": "The fear of the Lord is the beginning of wisdom: and the knowledge of the holy is prudence.",
+    "reference": "Proverbs 9:10 (DRB)",
+    "connected_to": "Proverbs 9:11",
+    "connected_from": "Proverbs 9:9"
+  },
+  {
+    "text": "For by me shall thy days be multiplied, and years of life shall be added to thee.",
+    "reference": "Proverbs 9:11 (DRB)",
+    "connected_to": "Proverbs 9:12",
+    "connected_from": "Proverbs 9:10"
+  },
+  {
+    "text": "If thou be wise, thou shalt be so to thyself: and if a scorner, thou alone shalt bear the evil.",
+    "reference": "Proverbs 9:12 (DRB)",
+    "connected_to": "Proverbs 9:13",
+    "connected_from": "Proverbs 9:11"
+  },
+  {
+    "text": "A foolish woman and clamorous, and full of allurements, and knowing nothing at all,",
+    "reference": "Proverbs 9:13 (DRB)",
+    "connected_to": "Proverbs 9:14",
+    "connected_from": "Proverbs 9:12"
+  },
+  {
+    "text": "Sat at the door of her house, upon a seat, in a high place of the city,",
+    "reference": "Proverbs 9:14 (DRB)",
+    "connected_to": "Proverbs 9:15",
+    "connected_from": "Proverbs 9:13"
+  },
+  {
+    "text": "To call them that pass by the way, and go on their journey:",
+    "reference": "Proverbs 9:15 (DRB)",
+    "connected_to": "Proverbs 9:16",
+    "connected_from": "Proverbs 9:14"
+  },
+  {
+    "text": "He that is a little one, let him turn to me. And to the fool she said:",
+    "reference": "Proverbs 9:16 (DRB)",
+    "connected_to": "Proverbs 9:17",
+    "connected_from": "Proverbs 9:15"
+  },
+  {
+    "text": "Stolen waters are sweeter, and hid den bread is more pleasant.",
+    "reference": "Proverbs 9:17 (DRB)",
+    "connected_to": "Proverbs 9:18",
+    "connected_from": "Proverbs 9:16"
+  },
+  {
+    "text": "And he did not know that giants are there, and that her guests are in the depths of hell. The Parables of Solomon",
+    "reference": "Proverbs 9:18 (DRB)",
+    "connected_from": "Proverbs 9:17"
+  }
+]

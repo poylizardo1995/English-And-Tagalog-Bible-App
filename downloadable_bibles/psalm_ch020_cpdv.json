@@ -1,0 +1,54 @@
+[
+  {
+    "text": "Unto the end. A Psalm of David. May the Lord hear you in the day of tribulation. May the name of the God of Jacob protect you.",
+    "reference": "Psalm 20:1 (CPDV)",
+    "connected_to": "Psalm 20:2"
+  },
+  {
+    "text": "May he send you help from the sanctuary and watch over you from Zion.",
+    "reference": "Psalm 20:2 (CPDV)",
+    "connected_to": "Psalm 20:3",
+    "connected_from": "Psalm 20:1"
+  },
+  {
+    "text": "May he be mindful of all your sacrifices, and may your burnt-offerings be fat.",
+    "reference": "Psalm 20:3 (CPDV)",
+    "connected_to": "Psalm 20:4",
+    "connected_from": "Psalm 20:2"
+  },
+  {
+    "text": "May he grant to you according to your heart, and confirm all your counsels.",
+    "reference": "Psalm 20:4 (CPDV)",
+    "connected_to": "Psalm 20:5",
+    "connected_from": "Psalm 20:3"
+  },
+  {
+    "text": "We will rejoice in your salvation, and in the name of our God, we will be magnified.",
+    "reference": "Psalm 20:5 (CPDV)",
+    "connected_to": "Psalm 20:6",
+    "connected_from": "Psalm 20:4"
+  },
+  {
+    "text": "May the Lord fulfill all your petitions. Now I know that the Lord has saved his Christ. He will hear him from his holy heaven. The salvation of his right hand is in his power.",
+    "reference": "Psalm 20:6 (CPDV)",
+    "connected_to": "Psalm 20:7",
+    "connected_from": "Psalm 20:5"
+  },
+  {
+    "text": "Some trust in chariots, and some in horses, but we will call upon the name of the Lord our God.",
+    "reference": "Psalm 20:7 (CPDV)",
+    "connected_to": "Psalm 20:8",
+    "connected_from": "Psalm 20:6"
+  },
+  {
+    "text": "They have been bound, and they have fallen. But we have risen up, and we have been set upright.",
+    "reference": "Psalm 20:8 (CPDV)",
+    "connected_to": "Psalm 20:9",
+    "connected_from": "Psalm 20:7"
+  },
+  {
+    "text": "O Lord, save the king, and hear us on the day that we will call upon you.",
+    "reference": "Psalm 20:9 (CPDV)",
+    "connected_from": "Psalm 20:8"
+  }
+]

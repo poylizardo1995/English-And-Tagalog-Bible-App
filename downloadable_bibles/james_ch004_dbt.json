@@ -1,0 +1,102 @@
+[
+  {
+    "text": "Whence [come] wars and whence fightings among you? [Is it] not thence,—from your pleasures, which war in your members?",
+    "reference": "James 4:1 (DBT)",
+    "connected_to": "James 4:2"
+  },
+  {
+    "text": "Ye lust and have not: ye kill and are full of envy, and cannot obtain; ye fight and war; ye have not because ye ask not.",
+    "reference": "James 4:2 (DBT)",
+    "connected_to": "James 4:3",
+    "connected_from": "James 4:1"
+  },
+  {
+    "text": "Ye ask and receive not, because ye ask evilly, that ye may consume [it] in your pleasures.",
+    "reference": "James 4:3 (DBT)",
+    "connected_to": "James 4:4",
+    "connected_from": "James 4:2"
+  },
+  {
+    "text": "Adulteresses, know ye not that friendship with the world is enmity with God? Whoever therefore is minded to be [the] friend of the world is constituted enemy of God.",
+    "reference": "James 4:4 (DBT)",
+    "connected_to": "James 4:5",
+    "connected_from": "James 4:3"
+  },
+  {
+    "text": "Think ye that the scripture speaks in vain? Does the Spirit which has taken his abode in us desire enviously?",
+    "reference": "James 4:5 (DBT)",
+    "connected_to": "James 4:6",
+    "connected_from": "James 4:4"
+  },
+  {
+    "text": "But he gives more grace. Wherefore he says, God sets himself against [the] proud, but gives grace to [the] lowly.",
+    "reference": "James 4:6 (DBT)",
+    "connected_to": "James 4:7",
+    "connected_from": "James 4:5"
+  },
+  {
+    "text": "Subject yourselves therefore to God. Resist the devil, and he will flee from you.",
+    "reference": "James 4:7 (DBT)",
+    "connected_to": "James 4:8",
+    "connected_from": "James 4:6"
+  },
+  {
+    "text": "Draw near to God, and he will draw near to you. Cleanse [your] hands, sinners, and purify [your] hearts, ye double-minded.",
+    "reference": "James 4:8 (DBT)",
+    "connected_to": "James 4:9",
+    "connected_from": "James 4:7"
+  },
+  {
+    "text": "Be wretched, and mourn, and weep: let your laughter be turned to mourning, and [your] joy to heaviness.",
+    "reference": "James 4:9 (DBT)",
+    "connected_to": "James 4:10",
+    "connected_from": "James 4:8"
+  },
+  {
+    "text": "Humble yourselves before [the] Lord, and he shall exalt you.",
+    "reference": "James 4:10 (DBT)",
+    "connected_to": "James 4:11",
+    "connected_from": "James 4:9"
+  },
+  {
+    "text": "Speak not against one another, brethren. He that speaks against [his] brother, or judges his brother, speaks against [the] law and judges [the] law. But if thou judgest [the] law, thou art not doer of [the] law, but judge.",
+    "reference": "James 4:11 (DBT)",
+    "connected_to": "James 4:12",
+    "connected_from": "James 4:10"
+  },
+  {
+    "text": "One is the lawgiver and judge, who is able to save and to destroy: but who art thou who judgest thy neighbour?",
+    "reference": "James 4:12 (DBT)",
+    "connected_to": "James 4:13",
+    "connected_from": "James 4:11"
+  },
+  {
+    "text": "Go to now, ye who say, To-day or to-morrow will we go into such a city and spend a year there, and traffic and make gain,",
+    "reference": "James 4:13 (DBT)",
+    "connected_to": "James 4:14",
+    "connected_from": "James 4:12"
+  },
+  {
+    "text": "ye who do not know what will be on the morrow, ([for] what [is] your life? It is even a vapour, appearing for a little while, and then disappearing,)",
+    "reference": "James 4:14 (DBT)",
+    "connected_to": "James 4:15",
+    "connected_from": "James 4:13"
+  },
+  {
+    "text": "instead of your saying, If the Lord should [so] will and we should live, we will also do this or that.",
+    "reference": "James 4:15 (DBT)",
+    "connected_to": "James 4:16",
+    "connected_from": "James 4:14"
+  },
+  {
+    "text": "But now ye glory in your vauntings: all such glorying is evil.",
+    "reference": "James 4:16 (DBT)",
+    "connected_to": "James 4:17",
+    "connected_from": "James 4:15"
+  },
+  {
+    "text": "To him therefore who knows how to do good, and does it not, to him it is sin.",
+    "reference": "James 4:17 (DBT)",
+    "connected_from": "James 4:16"
+  }
+]

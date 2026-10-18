@@ -1,0 +1,78 @@
+[
+  {
+    "text": "For the Leader. A Psalm. A Song of David.   Praise waiteth for Thee, O God, in Zion; And unto Thee the vow is performed.",
+    "reference": "Psalm 65:1 (JPS)",
+    "connected_to": "Psalm 65:2"
+  },
+  {
+    "text": "O Thou that hearest prayer, Unto Thee doth all flesh come.",
+    "reference": "Psalm 65:2 (JPS)",
+    "connected_to": "Psalm 65:3",
+    "connected_from": "Psalm 65:1"
+  },
+  {
+    "text": "The tale of iniquities is too heavy for me; As for our transgressions, Thou wilt pardon them.",
+    "reference": "Psalm 65:3 (JPS)",
+    "connected_to": "Psalm 65:4",
+    "connected_from": "Psalm 65:2"
+  },
+  {
+    "text": "Happy is the man whom Thou choosest, and bringest near, That he may dwell in Thy courts; May we be satisfied with the goodness of Thy house, The holy place of Thy temple!",
+    "reference": "Psalm 65:4 (JPS)",
+    "connected_to": "Psalm 65:5",
+    "connected_from": "Psalm 65:3"
+  },
+  {
+    "text": "With wondrous works dost Thou answer us in righteousness, O God of our salvation; Thou the confidence of all the ends of the earth, And of the far distant seas;",
+    "reference": "Psalm 65:5 (JPS)",
+    "connected_to": "Psalm 65:6",
+    "connected_from": "Psalm 65:4"
+  },
+  {
+    "text": "Who by Thy strength settest fast the mountains, Who art girded about with might;",
+    "reference": "Psalm 65:6 (JPS)",
+    "connected_to": "Psalm 65:7",
+    "connected_from": "Psalm 65:5"
+  },
+  {
+    "text": "Who stillest the roaring of the seas, the roaring of their waves, And the tumult of the peoples;",
+    "reference": "Psalm 65:7 (JPS)",
+    "connected_to": "Psalm 65:8",
+    "connected_from": "Psalm 65:6"
+  },
+  {
+    "text": "So that they that dwell in the uttermost parts stand in awe of Thy signs; Thou makest the outgoings of the morning and evening to rejoice.",
+    "reference": "Psalm 65:8 (JPS)",
+    "connected_to": "Psalm 65:9",
+    "connected_from": "Psalm 65:7"
+  },
+  {
+    "text": "Thou hast remembered the earth, and watered her, greatly enriching her, With the river of God that is full of water; Thou preparest them corn, for so preparest Thou her.",
+    "reference": "Psalm 65:9 (JPS)",
+    "connected_to": "Psalm 65:10",
+    "connected_from": "Psalm 65:8"
+  },
+  {
+    "text": "Watering her ridges abundantly, Settling down the furrows thereof, Thou makest her soft with showers; Thou blessest the growth thereof.",
+    "reference": "Psalm 65:10 (JPS)",
+    "connected_to": "Psalm 65:11",
+    "connected_from": "Psalm 65:9"
+  },
+  {
+    "text": "Thou crownest the year with Thy goodness; And Thy paths drop fatness.",
+    "reference": "Psalm 65:11 (JPS)",
+    "connected_to": "Psalm 65:12",
+    "connected_from": "Psalm 65:10"
+  },
+  {
+    "text": "The pastures of the wilderness do drop; And the hills are girded with joy.",
+    "reference": "Psalm 65:12 (JPS)",
+    "connected_to": "Psalm 65:13",
+    "connected_from": "Psalm 65:11"
+  },
+  {
+    "text": "The meadows are clothed with flocks; The valleys also are covered over with corn; They shout for joy, yea, they sing.",
+    "reference": "Psalm 65:13 (JPS)",
+    "connected_from": "Psalm 65:12"
+  }
+]

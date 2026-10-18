@@ -1,0 +1,30 @@
+[
+  {
+    "text": "A song of ascents. Those who trust in the LORD are like Mount Zion. It cannot be moved; it abides forever.",
+    "reference": "Psalm 125:1 (BSB)",
+    "connected_to": "Psalm 125:2"
+  },
+  {
+    "text": "As the mountains surround Jerusalem, so the LORD surrounds His people, both now and forevermore.",
+    "reference": "Psalm 125:2 (BSB)",
+    "connected_to": "Psalm 125:3",
+    "connected_from": "Psalm 125:1"
+  },
+  {
+    "text": "For the scepter of the wicked will not rest upon the land allotted to the righteous, so that the righteous will not put forth their hands to injustice.",
+    "reference": "Psalm 125:3 (BSB)",
+    "connected_to": "Psalm 125:4",
+    "connected_from": "Psalm 125:2"
+  },
+  {
+    "text": "Do good, O LORD, to those who are good, and to the upright in heart.",
+    "reference": "Psalm 125:4 (BSB)",
+    "connected_to": "Psalm 125:5",
+    "connected_from": "Psalm 125:3"
+  },
+  {
+    "text": "But those who turn to crooked ways the LORD will banish with the evildoers. Peace be upon Israel.",
+    "reference": "Psalm 125:5 (BSB)",
+    "connected_from": "Psalm 125:4"
+  }
+]

@@ -1,0 +1,396 @@
+[
+  {
+    "text": "When morning came all the High Priests and the Elders of the people consulted together against Jesus to put Him to death;",
+    "reference": "Matthew 27:1 (WNT)",
+    "connected_to": "Matthew 27:2"
+  },
+  {
+    "text": "and binding Him they led Him away and handed Him over to Pilate the Governor.",
+    "reference": "Matthew 27:2 (WNT)",
+    "connected_to": "Matthew 27:3",
+    "connected_from": "Matthew 27:1"
+  },
+  {
+    "text": "Then when Judas, who had betrayed Him, saw that He was condemned, smitten with remorse he brought back the thirty shekels to the High Priests and Elders",
+    "reference": "Matthew 27:3 (WNT)",
+    "connected_to": "Matthew 27:4",
+    "connected_from": "Matthew 27:2"
+  },
+  {
+    "text": "and said, “I have sinned, in betraying to death one who is innocent.” “What does that matter to us?” they replied; it is your business.”",
+    "reference": "Matthew 27:4 (WNT)",
+    "connected_to": "Matthew 27:5",
+    "connected_from": "Matthew 27:3"
+  },
+  {
+    "text": "Flinging the shekels into the Sanctuary he left the place, and went and hanged himself.",
+    "reference": "Matthew 27:5 (WNT)",
+    "connected_to": "Matthew 27:6",
+    "connected_from": "Matthew 27:4"
+  },
+  {
+    "text": "When the High Priests had gathered up the money they said, “It is illegal to put it into the Treasury, because it is the price of blood.”",
+    "reference": "Matthew 27:6 (WNT)",
+    "connected_to": "Matthew 27:7",
+    "connected_from": "Matthew 27:5"
+  },
+  {
+    "text": "So after consulting together they spent the money in the purchase of the Potter’s Field as a burial place for people not belonging to the city;",
+    "reference": "Matthew 27:7 (WNT)",
+    "connected_to": "Matthew 27:8",
+    "connected_from": "Matthew 27:6"
+  },
+  {
+    "text": "for which reason that piece of ground received the name, which it still bears, of ‘the Field of Blood.’",
+    "reference": "Matthew 27:8 (WNT)",
+    "connected_to": "Matthew 27:9",
+    "connected_from": "Matthew 27:7"
+  },
+  {
+    "text": "Then were fulfilled the words spoken by the Prophet Jeremiah, “And I took the thirty shekels, the price of the prized one on whom Israelites had set a price,",
+    "reference": "Matthew 27:9 (WNT)",
+    "connected_to": "Matthew 27:10",
+    "connected_from": "Matthew 27:8"
+  },
+  {
+    "text": "and gave them for the potter’s field, as the Lord directed me.”",
+    "reference": "Matthew 27:10 (WNT)",
+    "connected_to": "Matthew 27:11",
+    "connected_from": "Matthew 27:9"
+  },
+  {
+    "text": "Meanwhile Jesus was brought before the Governor, and the latter put the question, “Are you the King of the Jews?” “I am their King,” He answered.",
+    "reference": "Matthew 27:11 (WNT)",
+    "connected_to": "Matthew 27:12",
+    "connected_from": "Matthew 27:10"
+  },
+  {
+    "text": "When however the High Priests and the Elders kept bringing their charges against Him, He said not a word in reply.",
+    "reference": "Matthew 27:12 (WNT)",
+    "connected_to": "Matthew 27:13",
+    "connected_from": "Matthew 27:11"
+  },
+  {
+    "text": "“Do you not hear,” asked Pilate, “what a mass of evidence they are bringing against you?”",
+    "reference": "Matthew 27:13 (WNT)",
+    "connected_to": "Matthew 27:14",
+    "connected_from": "Matthew 27:12"
+  },
+  {
+    "text": "But He made no reply to a single accusation, so that the Governor was greatly astonished.",
+    "reference": "Matthew 27:14 (WNT)",
+    "connected_to": "Matthew 27:15",
+    "connected_from": "Matthew 27:13"
+  },
+  {
+    "text": "“Now it was the Governor’s custom at the Festival to release some one prisoner, whomsoever the populace desired;",
+    "reference": "Matthew 27:15 (WNT)",
+    "connected_to": "Matthew 27:16",
+    "connected_from": "Matthew 27:14"
+  },
+  {
+    "text": "and at this time they had a notorious prisoner called Barabbas.",
+    "reference": "Matthew 27:16 (WNT)",
+    "connected_to": "Matthew 27:17",
+    "connected_from": "Matthew 27:15"
+  },
+  {
+    "text": "So when they were now assembled Pilate appealed to them. “Whom shall I release to you,” he said, “Barabbas, or Jesus the so-called Christ?”",
+    "reference": "Matthew 27:17 (WNT)",
+    "connected_to": "Matthew 27:18",
+    "connected_from": "Matthew 27:16"
+  },
+  {
+    "text": "For he knew that it was from envious hatred that Jesus had been brought before him.",
+    "reference": "Matthew 27:18 (WNT)",
+    "connected_to": "Matthew 27:19",
+    "connected_from": "Matthew 27:17"
+  },
+  {
+    "text": "While he was sitting on the tribunal a message came to him from his wife. “Have nothing to do with that innocent man,” she said, “for during the night I have suffered terribly in a dream through him.”",
+    "reference": "Matthew 27:19 (WNT)",
+    "connected_to": "Matthew 27:20",
+    "connected_from": "Matthew 27:18"
+  },
+  {
+    "text": "The High Priests, however, and the Elders urged the crowd to ask for Barabbas and to demand the death of Jesus.",
+    "reference": "Matthew 27:20 (WNT)",
+    "connected_to": "Matthew 27:21",
+    "connected_from": "Matthew 27:19"
+  },
+  {
+    "text": "So when the Governor a second time asked them, “Which of the two shall I release to you?”—they cried, “Barabbas!”",
+    "reference": "Matthew 27:21 (WNT)",
+    "connected_to": "Matthew 27:22",
+    "connected_from": "Matthew 27:20"
+  },
+  {
+    "text": "“What then,” said Pilate, “shall I do with Jesus, the so-called Christ?” With one voice they shouted, “Let him be crucified!”",
+    "reference": "Matthew 27:22 (WNT)",
+    "connected_to": "Matthew 27:23",
+    "connected_from": "Matthew 27:21"
+  },
+  {
+    "text": "“Why, what crime has he committed?” asked Pilate. But they kept on furiously shouting, “Let him be crucified!”",
+    "reference": "Matthew 27:23 (WNT)",
+    "connected_to": "Matthew 27:24",
+    "connected_from": "Matthew 27:22"
+  },
+  {
+    "text": "So when he saw that he could gain nothing, but that on the contrary there was a riot threatening, he called for water and washed his hands in sight of them all, saying, “I am not responsible for this murder: you must answer for it.”",
+    "reference": "Matthew 27:24 (WNT)",
+    "connected_to": "Matthew 27:25",
+    "connected_from": "Matthew 27:23"
+  },
+  {
+    "text": "“His blood,” replied all the people, “be on us and on our children!”",
+    "reference": "Matthew 27:25 (WNT)",
+    "connected_to": "Matthew 27:26",
+    "connected_from": "Matthew 27:24"
+  },
+  {
+    "text": "Then he released Barabbas to them, but Jesus he ordered to be scourged, and gave Him up to be crucified.",
+    "reference": "Matthew 27:26 (WNT)",
+    "connected_to": "Matthew 27:27",
+    "connected_from": "Matthew 27:25"
+  },
+  {
+    "text": "Then the Governor’s soldiers took Jesus into the Praetorium, and called together the whole battalion to make sport of Him.",
+    "reference": "Matthew 27:27 (WNT)",
+    "connected_to": "Matthew 27:28",
+    "connected_from": "Matthew 27:26"
+  },
+  {
+    "text": "Stripping off His garments, they put on Him a general’s short crimson cloak.",
+    "reference": "Matthew 27:28 (WNT)",
+    "connected_to": "Matthew 27:29",
+    "connected_from": "Matthew 27:27"
+  },
+  {
+    "text": "They twisted a wreath of thorny twigs and put it on His head, and they put a sceptre of cane in His right hand, and kneeling to Him they shouted in mockery, “Long live the King of the Jews!”",
+    "reference": "Matthew 27:29 (WNT)",
+    "connected_to": "Matthew 27:30",
+    "connected_from": "Matthew 27:28"
+  },
+  {
+    "text": "Then they spat upon Him, and taking the cane they repeatedly struck Him on the head with it.",
+    "reference": "Matthew 27:30 (WNT)",
+    "connected_to": "Matthew 27:31",
+    "connected_from": "Matthew 27:29"
+  },
+  {
+    "text": "At last, having finished their sport, they took off the cloak, clothed Him again in His own garments, and led Him away for crucifixion.",
+    "reference": "Matthew 27:31 (WNT)",
+    "connected_to": "Matthew 27:32",
+    "connected_from": "Matthew 27:30"
+  },
+  {
+    "text": "Going out they met a Cyrenaean named Simon; whom they compelled to carry His cross,",
+    "reference": "Matthew 27:32 (WNT)",
+    "connected_to": "Matthew 27:33",
+    "connected_from": "Matthew 27:31"
+  },
+  {
+    "text": "and so they came to a place called Golgotha, which means ‘Skull-ground.’",
+    "reference": "Matthew 27:33 (WNT)",
+    "connected_to": "Matthew 27:34",
+    "connected_from": "Matthew 27:32"
+  },
+  {
+    "text": "Here they gave Him a mixture of wine and gall to drink, but having tasted it He refused to drink it.",
+    "reference": "Matthew 27:34 (WNT)",
+    "connected_to": "Matthew 27:35",
+    "connected_from": "Matthew 27:33"
+  },
+  {
+    "text": "After crucifying Him, they divided His garments among them by lot,",
+    "reference": "Matthew 27:35 (WNT)",
+    "connected_to": "Matthew 27:36",
+    "connected_from": "Matthew 27:34"
+  },
+  {
+    "text": "and sat down there on guard.",
+    "reference": "Matthew 27:36 (WNT)",
+    "connected_to": "Matthew 27:37",
+    "connected_from": "Matthew 27:35"
+  },
+  {
+    "text": "Over His head they placed a written statement of the charge against Him: THIS IS JESUS THE KING OF THE JEWS.",
+    "reference": "Matthew 27:37 (WNT)",
+    "connected_to": "Matthew 27:38",
+    "connected_from": "Matthew 27:36"
+  },
+  {
+    "text": "At the same time two robbers were crucified with Him, one at His right hand and the other at His left.",
+    "reference": "Matthew 27:38 (WNT)",
+    "connected_to": "Matthew 27:39",
+    "connected_from": "Matthew 27:37"
+  },
+  {
+    "text": "And the passers-by reviled Him. They shook their heads at Him",
+    "reference": "Matthew 27:39 (WNT)",
+    "connected_to": "Matthew 27:40",
+    "connected_from": "Matthew 27:38"
+  },
+  {
+    "text": "and said, “You who would pull down the Sanctuary and build a new one within three days, save yourself. If you are God’s Son, come down from the cross.”",
+    "reference": "Matthew 27:40 (WNT)",
+    "connected_to": "Matthew 27:41",
+    "connected_from": "Matthew 27:39"
+  },
+  {
+    "text": "In like manner the High Priests also, together with the Scribes and the Elders, taunted Him.",
+    "reference": "Matthew 27:41 (WNT)",
+    "connected_to": "Matthew 27:42",
+    "connected_from": "Matthew 27:40"
+  },
+  {
+    "text": "“He saved others,” they said, “himself he cannot save! He is the King of Israel! Let him now come down from the cross, and we will believe in him.",
+    "reference": "Matthew 27:42 (WNT)",
+    "connected_to": "Matthew 27:43",
+    "connected_from": "Matthew 27:41"
+  },
+  {
+    "text": "His trust is in God: let God deliver him now, if He will have him; for he said, ‘I am God’s Son.’”",
+    "reference": "Matthew 27:43 (WNT)",
+    "connected_to": "Matthew 27:44",
+    "connected_from": "Matthew 27:42"
+  },
+  {
+    "text": "Insults of the same kind were heaped on Him even by the robbers who were being crucified with Him.",
+    "reference": "Matthew 27:44 (WNT)",
+    "connected_to": "Matthew 27:45",
+    "connected_from": "Matthew 27:43"
+  },
+  {
+    "text": "Now from noon until three o’clock in the afternoon there was darkness over the whole land;",
+    "reference": "Matthew 27:45 (WNT)",
+    "connected_to": "Matthew 27:46",
+    "connected_from": "Matthew 27:44"
+  },
+  {
+    "text": "but about three o’clock Jesus cried out in a loud voice, “Eli, Eli, lama sabachthani?” that is to say, “My God, My God, why hast Thou forsaken me?”",
+    "reference": "Matthew 27:46 (WNT)",
+    "connected_to": "Matthew 27:47",
+    "connected_from": "Matthew 27:45"
+  },
+  {
+    "text": "“The man is calling for Elijah,” said some of the bystanders.",
+    "reference": "Matthew 27:47 (WNT)",
+    "connected_to": "Matthew 27:48",
+    "connected_from": "Matthew 27:46"
+  },
+  {
+    "text": "One of them ran forthwith, and filling a sponge with sour wine put it on the end of a cane and offered it Him to drink;",
+    "reference": "Matthew 27:48 (WNT)",
+    "connected_to": "Matthew 27:49",
+    "connected_from": "Matthew 27:47"
+  },
+  {
+    "text": "while the rest said, “Let us see whether Elijah is coming to deliver him.”",
+    "reference": "Matthew 27:49 (WNT)",
+    "connected_to": "Matthew 27:50",
+    "connected_from": "Matthew 27:48"
+  },
+  {
+    "text": "But Jesus uttered another loud cry and then yielded up His spirit.",
+    "reference": "Matthew 27:50 (WNT)",
+    "connected_to": "Matthew 27:51",
+    "connected_from": "Matthew 27:49"
+  },
+  {
+    "text": "Immediately the curtain of the Sanctuary was torn in two from top to bottom: the earth quaked; the rocks split;",
+    "reference": "Matthew 27:51 (WNT)",
+    "connected_to": "Matthew 27:52",
+    "connected_from": "Matthew 27:50"
+  },
+  {
+    "text": "the tombs opened; and many of God’s people who were asleep in death awoke.",
+    "reference": "Matthew 27:52 (WNT)",
+    "connected_to": "Matthew 27:53",
+    "connected_from": "Matthew 27:51"
+  },
+  {
+    "text": "And coming out of their tombs after Christ’s resurrection they entered the holy city and showed themselves to many.",
+    "reference": "Matthew 27:53 (WNT)",
+    "connected_to": "Matthew 27:54",
+    "connected_from": "Matthew 27:52"
+  },
+  {
+    "text": "As for the Captain and the soldiers who were with Him keeping guard over Jesus, when they witnessed the earthquake and the other occurrences they were filled with terror, and exclaimed, “Assuredly he was God’s Son.”",
+    "reference": "Matthew 27:54 (WNT)",
+    "connected_to": "Matthew 27:55",
+    "connected_from": "Matthew 27:53"
+  },
+  {
+    "text": "And there were a number of women there looking on from a distance, who had followed Jesus from Galilee ministering to His necessities;",
+    "reference": "Matthew 27:55 (WNT)",
+    "connected_to": "Matthew 27:56",
+    "connected_from": "Matthew 27:54"
+  },
+  {
+    "text": "among them being Mary of Magdala, Mary the mother of James and Joses, and the mother of the sons of Zabdi.",
+    "reference": "Matthew 27:56 (WNT)",
+    "connected_to": "Matthew 27:57",
+    "connected_from": "Matthew 27:55"
+  },
+  {
+    "text": "Towards sunset there came a wealthy inhabitant of Arimathaea, named Joseph, who himself also had become a disciple of Jesus.",
+    "reference": "Matthew 27:57 (WNT)",
+    "connected_to": "Matthew 27:58",
+    "connected_from": "Matthew 27:56"
+  },
+  {
+    "text": "He went to Pilate and begged to have the body of Jesus, and Pilate ordered it to be given to him.",
+    "reference": "Matthew 27:58 (WNT)",
+    "connected_to": "Matthew 27:59",
+    "connected_from": "Matthew 27:57"
+  },
+  {
+    "text": "So Joseph took the body and wrapped it in a clean sheet of fine linen.",
+    "reference": "Matthew 27:59 (WNT)",
+    "connected_to": "Matthew 27:60",
+    "connected_from": "Matthew 27:58"
+  },
+  {
+    "text": "He then laid it in his own new tomb which he had hewn in the solid rock, and after rolling a great stone against the door of the tomb he went home.",
+    "reference": "Matthew 27:60 (WNT)",
+    "connected_to": "Matthew 27:61",
+    "connected_from": "Matthew 27:59"
+  },
+  {
+    "text": "Mary of Magdala and the other Mary were both present there, sitting opposite to the sepulchre.",
+    "reference": "Matthew 27:61 (WNT)",
+    "connected_to": "Matthew 27:62",
+    "connected_from": "Matthew 27:60"
+  },
+  {
+    "text": "On the next day, the day after the Preparation, the High Priests and the Pharisees came in a body to Pilate.",
+    "reference": "Matthew 27:62 (WNT)",
+    "connected_to": "Matthew 27:63",
+    "connected_from": "Matthew 27:61"
+  },
+  {
+    "text": "“Sir,” they said, “we recollect that during his lifetime that impostor pretended that after two days he was to rise to life again.",
+    "reference": "Matthew 27:63 (WNT)",
+    "connected_to": "Matthew 27:64",
+    "connected_from": "Matthew 27:62"
+  },
+  {
+    "text": "So give orders for the sepulchre to be securely guarded till the third day, for fear his disciples should come by night and steal the body, and then tell the people that he has come back to life; and so the last imposture will be more serious than the first.”",
+    "reference": "Matthew 27:64 (WNT)",
+    "connected_to": "Matthew 27:65",
+    "connected_from": "Matthew 27:63"
+  },
+  {
+    "text": "“You can have a guard,” said Pilate: “go and make all safe, as best you can.”",
+    "reference": "Matthew 27:65 (WNT)",
+    "connected_to": "Matthew 27:66",
+    "connected_from": "Matthew 27:64"
+  },
+  {
+    "text": "So they went and made the sepulchre secure, sealing the stone besides setting the guard.",
+    "reference": "Matthew 27:66 (WNT)",
+    "connected_from": "Matthew 27:65"
+  }
+]

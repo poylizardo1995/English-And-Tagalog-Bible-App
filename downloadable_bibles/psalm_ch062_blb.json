@@ -1,0 +1,72 @@
+[
+  {
+    "text": "For the one directing. According to Jeduthun. A Psalm of David. <span class=|reftext|><a href=|#|><b>1</b></a> Only toward God [is] my soul silent; from Him [is] my salvation.",
+    "reference": "Psalm 62:1 (BLB)",
+    "connected_to": "Psalm 62:2"
+  },
+  {
+    "text": "Only He [is] my Rock and my salvation, My tower; not much will I be shaken.",
+    "reference": "Psalm 62:2 (BLB)",
+    "connected_to": "Psalm 62:3",
+    "connected_from": "Psalm 62:1"
+  },
+  {
+    "text": "Until when will you⁺ plot against a man? You⁺ are destroyed, all of you⁺, like a wall leaning, a fence being pushed down.",
+    "reference": "Psalm 62:3 (BLB)",
+    "connected_to": "Psalm 62:4",
+    "connected_from": "Psalm 62:2"
+  },
+  {
+    "text": "Surely from his high position they take counsel to thrust [him] down; they delight in lies—with their mouth they bless, and within them they curse. Selah",
+    "reference": "Psalm 62:4 (BLB)",
+    "connected_to": "Psalm 62:5",
+    "connected_from": "Psalm 62:3"
+  },
+  {
+    "text": "Only for God be silent, O my soul, for from Him [is] my hope.",
+    "reference": "Psalm 62:5 (BLB)",
+    "connected_to": "Psalm 62:6",
+    "connected_from": "Psalm 62:4"
+  },
+  {
+    "text": "Only He [is] my Rock and my salvation, my secure height; I will not be shaken.",
+    "reference": "Psalm 62:6 (BLB)",
+    "connected_to": "Psalm 62:7",
+    "connected_from": "Psalm 62:5"
+  },
+  {
+    "text": "In God [is] my salvation and my glory, the Rock of my strength; my refuge [is] in God.",
+    "reference": "Psalm 62:7 (BLB)",
+    "connected_to": "Psalm 62:8",
+    "connected_from": "Psalm 62:6"
+  },
+  {
+    "text": "Trust in Him at all times, O people; pour out your⁺ heart before Him; God [is] [is] a refuge for us. Selah",
+    "reference": "Psalm 62:8 (BLB)",
+    "connected_to": "Psalm 62:9",
+    "connected_from": "Psalm 62:7"
+  },
+  {
+    "text": "Only a vapor [are] the sons of a man, a lie the sons of a man—in the scales they go up as a vapor together.",
+    "reference": "Psalm 62:9 (BLB)",
+    "connected_to": "Psalm 62:10",
+    "connected_from": "Psalm 62:8"
+  },
+  {
+    "text": "You should⁺ not trust in oppression, and do not be vain in robbery; [on] wealth when it increases you⁺ should not set the heart.",
+    "reference": "Psalm 62:10 (BLB)",
+    "connected_to": "Psalm 62:11",
+    "connected_from": "Psalm 62:9"
+  },
+  {
+    "text": "Once God has spoken; twice I have heard this, that strength [is] unto God,",
+    "reference": "Psalm 62:11 (BLB)",
+    "connected_to": "Psalm 62:12",
+    "connected_from": "Psalm 62:10"
+  },
+  {
+    "text": "and unto You, O Lord, [is] loving devotion. For You do recompense to each man according to his work.",
+    "reference": "Psalm 62:12 (BLB)",
+    "connected_from": "Psalm 62:11"
+  }
+]

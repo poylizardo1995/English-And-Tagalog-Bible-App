@@ -1,0 +1,24 @@
+[
+  {
+    "text": "A song of ascents. I lift up my eyes to You, the One enthroned in heaven.",
+    "reference": "Psalm 123:1 (BSB)",
+    "connected_to": "Psalm 123:2"
+  },
+  {
+    "text": "As the eyes of servants look to the hand of their master, as the eyes of a maidservant look to the hand of her mistress, so our eyes are on the LORD our God until He shows us mercy.",
+    "reference": "Psalm 123:2 (BSB)",
+    "connected_to": "Psalm 123:3",
+    "connected_from": "Psalm 123:1"
+  },
+  {
+    "text": "Have mercy on us, O LORD, have mercy, for we have endured much contempt.",
+    "reference": "Psalm 123:3 (BSB)",
+    "connected_to": "Psalm 123:4",
+    "connected_from": "Psalm 123:2"
+  },
+  {
+    "text": "We have endured much scorn from the arrogant, much contempt from the proud.",
+    "reference": "Psalm 123:4 (BSB)",
+    "connected_from": "Psalm 123:3"
+  }
+]

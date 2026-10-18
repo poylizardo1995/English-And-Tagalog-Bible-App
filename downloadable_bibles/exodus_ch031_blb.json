@@ -1,0 +1,108 @@
+[
+  {
+    "text": "And YHWH spoke to Moses, saying,",
+    "reference": "Exodus 31:1 (BLB)",
+    "connected_to": "Exodus 31:2"
+  },
+  {
+    "text": "“See, I have called by name Bezalel son of Uri, son of Hur, of the tribe of Judah.",
+    "reference": "Exodus 31:2 (BLB)",
+    "connected_to": "Exodus 31:3",
+    "connected_from": "Exodus 31:1"
+  },
+  {
+    "text": "And I have filled him with the Spirit of God, in wisdom and in understanding and in knowledge and in all [manner of] workmanship,",
+    "reference": "Exodus 31:3 (BLB)",
+    "connected_to": "Exodus 31:4",
+    "connected_from": "Exodus 31:2"
+  },
+  {
+    "text": "to design artistic works, to work in gold and in silver and in bronze,",
+    "reference": "Exodus 31:4 (BLB)",
+    "connected_to": "Exodus 31:5",
+    "connected_from": "Exodus 31:3"
+  },
+  {
+    "text": "and in cutting stone for setting, and in cutting wood, to work in all [manner of] workmanship.",
+    "reference": "Exodus 31:5 (BLB)",
+    "connected_to": "Exodus 31:6",
+    "connected_from": "Exodus 31:4"
+  },
+  {
+    "text": "And I, behold, have appointed with him Oholiab son of Ahisamach, of the tribe of Dan. And in the hearts of all who are wise of heart, I have put wisdom, and they shall make all that I have commanded you:",
+    "reference": "Exodus 31:6 (BLB)",
+    "connected_to": "Exodus 31:7",
+    "connected_from": "Exodus 31:5"
+  },
+  {
+    "text": "The Tent of Meeting, and the ark of the Testimony, and the mercy seat that [is] on it, and all the vessels of the tent,",
+    "reference": "Exodus 31:7 (BLB)",
+    "connected_to": "Exodus 31:8",
+    "connected_from": "Exodus 31:6"
+  },
+  {
+    "text": "and the table and its vessels, and the pure lampstand and all its vessels, and the altar of incense,",
+    "reference": "Exodus 31:8 (BLB)",
+    "connected_to": "Exodus 31:9",
+    "connected_from": "Exodus 31:7"
+  },
+  {
+    "text": "and the altar of the burnt offering and all its vessels, and the basin and its stand,",
+    "reference": "Exodus 31:9 (BLB)",
+    "connected_to": "Exodus 31:10",
+    "connected_from": "Exodus 31:8"
+  },
+  {
+    "text": "and the woven garments and the holy garments for Aaron the priest, and the garments of his sons to minister as priests,",
+    "reference": "Exodus 31:10 (BLB)",
+    "connected_to": "Exodus 31:11",
+    "connected_from": "Exodus 31:9"
+  },
+  {
+    "text": "and the anointing oil, and the incense of spice for the Holy Place. According to all that I have commanded you, they shall do.”",
+    "reference": "Exodus 31:11 (BLB)",
+    "connected_to": "Exodus 31:12",
+    "connected_from": "Exodus 31:10"
+  },
+  {
+    "text": "And YHWH spoke to Moses, saying,",
+    "reference": "Exodus 31:12 (BLB)",
+    "connected_to": "Exodus 31:13",
+    "connected_from": "Exodus 31:11"
+  },
+  {
+    "text": "“And You, speak to the sons of Israel, saying, ‘Truly My Sabbaths you⁺ shall keep, for it [is] a sign between Me and between you⁺ throughout your⁺ generations, that [you] may know that I [am] YHWH who sanctifies you⁺.",
+    "reference": "Exodus 31:13 (BLB)",
+    "connected_to": "Exodus 31:14",
+    "connected_from": "Exodus 31:12"
+  },
+  {
+    "text": "And you⁺ shall keep the Sabbath, for it [is] holy to you⁺. Everyone who profanes [it], he must surely be put to death, for every doer of work on it, that soul shall be cut off from among his people.",
+    "reference": "Exodus 31:14 (BLB)",
+    "connected_to": "Exodus 31:15",
+    "connected_from": "Exodus 31:13"
+  },
+  {
+    "text": "Six days work shall be done, and the seventh day [is] a Sabbath of complete rest, holy to YHWH. Every doer of work on the Sabbath day, he must surely be put to death.",
+    "reference": "Exodus 31:15 (BLB)",
+    "connected_to": "Exodus 31:16",
+    "connected_from": "Exodus 31:14"
+  },
+  {
+    "text": "And the sons of Israel shall keep the Sabbath, to do the Sabbath throughout their generations [as] an everlasting covenant.",
+    "reference": "Exodus 31:16 (BLB)",
+    "connected_to": "Exodus 31:17",
+    "connected_from": "Exodus 31:15"
+  },
+  {
+    "text": "It [is] a sign between Me and between the sons of Israel forever; for [in] six days YHWH made the heavens and the earth, and on the seventh day He rested and was refreshed.’”",
+    "reference": "Exodus 31:17 (BLB)",
+    "connected_to": "Exodus 31:18",
+    "connected_from": "Exodus 31:16"
+  },
+  {
+    "text": "And He gave unto Moses, as He finished speaking with him on Mount Sinai, two tablets of the Testimony, tablets of stone, written with the finger of God.",
+    "reference": "Exodus 31:18 (BLB)",
+    "connected_from": "Exodus 31:17"
+  }
+]

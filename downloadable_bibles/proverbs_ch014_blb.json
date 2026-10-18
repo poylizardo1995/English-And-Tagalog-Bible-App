@@ -1,0 +1,210 @@
+[
+  {
+    "text": "The wisest of women builds her house, and a foolish woman with her own hands tears it down.",
+    "reference": "Proverbs 14:1 (BLB)",
+    "connected_to": "Proverbs 14:2"
+  },
+  {
+    "text": "The one walking in his uprightness [is] fearful of YHWH, and the one devious in his ways despises Him.",
+    "reference": "Proverbs 14:2 (BLB)",
+    "connected_to": "Proverbs 14:3",
+    "connected_from": "Proverbs 14:1"
+  },
+  {
+    "text": "In the mouth of a fool [is] a branch of pride, and the lips of the wise ones guard them.",
+    "reference": "Proverbs 14:3 (BLB)",
+    "connected_to": "Proverbs 14:4",
+    "connected_from": "Proverbs 14:2"
+  },
+  {
+    "text": "With no oxen, the trough [is] empty, and an abundance of produce [is] by the strength of an ox.",
+    "reference": "Proverbs 14:4 (BLB)",
+    "connected_to": "Proverbs 14:5",
+    "connected_from": "Proverbs 14:3"
+  },
+  {
+    "text": "A witness of faithfulness does not lie, and a witness of deception breathes out lies.",
+    "reference": "Proverbs 14:5 (BLB)",
+    "connected_to": "Proverbs 14:6",
+    "connected_from": "Proverbs 14:4"
+  },
+  {
+    "text": "A scoffer seeks wisdom, and there is none, and knowledge [is] easy to the discerning one.",
+    "reference": "Proverbs 14:6 (BLB)",
+    "connected_to": "Proverbs 14:7",
+    "connected_from": "Proverbs 14:5"
+  },
+  {
+    "text": "Depart from in front of a man [who is] foolish, for you will not know there the lips of knowledge.",
+    "reference": "Proverbs 14:7 (BLB)",
+    "connected_to": "Proverbs 14:8",
+    "connected_from": "Proverbs 14:6"
+  },
+  {
+    "text": "The wisdom of a prudent one [is] to understand his way, and the folly of fools [is] deceit.",
+    "reference": "Proverbs 14:8 (BLB)",
+    "connected_to": "Proverbs 14:9",
+    "connected_from": "Proverbs 14:7"
+  },
+  {
+    "text": "Fools mock the guilt offering, and among the upright ones [is] favor.",
+    "reference": "Proverbs 14:9 (BLB)",
+    "connected_to": "Proverbs 14:10",
+    "connected_from": "Proverbs 14:8"
+  },
+  {
+    "text": "The heart knows the bitterness of its own soul, and in its joy a stranger does not share.",
+    "reference": "Proverbs 14:10 (BLB)",
+    "connected_to": "Proverbs 14:11",
+    "connected_from": "Proverbs 14:9"
+  },
+  {
+    "text": "The house of the wicked ones will be destroyed, and the tent of the upright ones will flourish.",
+    "reference": "Proverbs 14:11 (BLB)",
+    "connected_to": "Proverbs 14:12",
+    "connected_from": "Proverbs 14:10"
+  },
+  {
+    "text": "There is a way right before the face of a man, and its end [is] the way of death.",
+    "reference": "Proverbs 14:12 (BLB)",
+    "connected_to": "Proverbs 14:13",
+    "connected_from": "Proverbs 14:11"
+  },
+  {
+    "text": "Even in laughter a heart may be pained, and the end of joy [is] grief.",
+    "reference": "Proverbs 14:13 (BLB)",
+    "connected_to": "Proverbs 14:14",
+    "connected_from": "Proverbs 14:12"
+  },
+  {
+    "text": "The one turning back in heart will be filled from his ways, and a good man, from himself.",
+    "reference": "Proverbs 14:14 (BLB)",
+    "connected_to": "Proverbs 14:15",
+    "connected_from": "Proverbs 14:13"
+  },
+  {
+    "text": "The simple one affirms every word, and the prudent one considers his step.",
+    "reference": "Proverbs 14:15 (BLB)",
+    "connected_to": "Proverbs 14:16",
+    "connected_from": "Proverbs 14:14"
+  },
+  {
+    "text": "A wise one fears and turns aside from evil, and a fool is transgressing and is confident.",
+    "reference": "Proverbs 14:16 (BLB)",
+    "connected_to": "Proverbs 14:17",
+    "connected_from": "Proverbs 14:15"
+  },
+  {
+    "text": "One short of nostrils acts [with] foolishness, and a man of schemes is hated.",
+    "reference": "Proverbs 14:17 (BLB)",
+    "connected_to": "Proverbs 14:18",
+    "connected_from": "Proverbs 14:16"
+  },
+  {
+    "text": "The simple ones inherit foolishness, and the prudent are crowned with knowledge.",
+    "reference": "Proverbs 14:18 (BLB)",
+    "connected_to": "Proverbs 14:19",
+    "connected_from": "Proverbs 14:17"
+  },
+  {
+    "text": "The evil ones will bow before the face of of good ones, and wicked ones at the gates of the righteous one.",
+    "reference": "Proverbs 14:19 (BLB)",
+    "connected_to": "Proverbs 14:20",
+    "connected_from": "Proverbs 14:18"
+  },
+  {
+    "text": "The poor one is hated even by his neighbor, and those loving the rich one [are] many.",
+    "reference": "Proverbs 14:20 (BLB)",
+    "connected_to": "Proverbs 14:21",
+    "connected_from": "Proverbs 14:19"
+  },
+  {
+    "text": "The one despising his neighbor sins, and the one showing favor [to] the poor [is] blessed.",
+    "reference": "Proverbs 14:21 (BLB)",
+    "connected_to": "Proverbs 14:22",
+    "connected_from": "Proverbs 14:20"
+  },
+  {
+    "text": "Do they not go astray [who] are planning evil? And loving devotion and truth [are] unto those planning good.",
+    "reference": "Proverbs 14:22 (BLB)",
+    "connected_to": "Proverbs 14:23",
+    "connected_from": "Proverbs 14:21"
+  },
+  {
+    "text": "In all labor there is profit, and a word of the lips [is] only to poverty.",
+    "reference": "Proverbs 14:23 (BLB)",
+    "connected_to": "Proverbs 14:24",
+    "connected_from": "Proverbs 14:22"
+  },
+  {
+    "text": "The crown of the wise [is] their wealth; the folly of fools [is] folly.",
+    "reference": "Proverbs 14:24 (BLB)",
+    "connected_to": "Proverbs 14:25",
+    "connected_from": "Proverbs 14:23"
+  },
+  {
+    "text": "A witness of truth is delivering souls, and one who breathes out lies [is] deceitful.",
+    "reference": "Proverbs 14:25 (BLB)",
+    "connected_to": "Proverbs 14:26",
+    "connected_from": "Proverbs 14:24"
+  },
+  {
+    "text": "In the fear of YHWH confidence [is] strong, and for his sons there is a refuge.",
+    "reference": "Proverbs 14:26 (BLB)",
+    "connected_to": "Proverbs 14:27",
+    "connected_from": "Proverbs 14:25"
+  },
+  {
+    "text": "The fear of YHWH [is] a fountain of life, to turn aside from the snares of death.",
+    "reference": "Proverbs 14:27 (BLB)",
+    "connected_to": "Proverbs 14:28",
+    "connected_from": "Proverbs 14:26"
+  },
+  {
+    "text": "In a multitude of people [is] the glory of a king, and in a lack of people [is] the ruin of a prince.",
+    "reference": "Proverbs 14:28 (BLB)",
+    "connected_to": "Proverbs 14:29",
+    "connected_from": "Proverbs 14:27"
+  },
+  {
+    "text": "The one slow to anger [is] great in understanding, and the one short of temper lifts up folly.",
+    "reference": "Proverbs 14:29 (BLB)",
+    "connected_to": "Proverbs 14:30",
+    "connected_from": "Proverbs 14:28"
+  },
+  {
+    "text": "A heart of healing [is] life to the body, and jealousy [is] rottenness to the bones.",
+    "reference": "Proverbs 14:30 (BLB)",
+    "connected_to": "Proverbs 14:31",
+    "connected_from": "Proverbs 14:29"
+  },
+  {
+    "text": "The one oppressing the poor reproaches his Maker, and the one honoring Him shows favor [to] the needy.",
+    "reference": "Proverbs 14:31 (BLB)",
+    "connected_to": "Proverbs 14:32",
+    "connected_from": "Proverbs 14:30"
+  },
+  {
+    "text": "By his evil a wicked one is thrust down, and a righteous one takes refuge in his death.",
+    "reference": "Proverbs 14:32 (BLB)",
+    "connected_to": "Proverbs 14:33",
+    "connected_from": "Proverbs 14:31"
+  },
+  {
+    "text": "In the heart of a discerning one wisdom rests, and within fools she makes herself known.",
+    "reference": "Proverbs 14:33 (BLB)",
+    "connected_to": "Proverbs 14:34",
+    "connected_from": "Proverbs 14:32"
+  },
+  {
+    "text": "Righteousness exalts a nation, and sin [is] a reproach of peoples.",
+    "reference": "Proverbs 14:34 (BLB)",
+    "connected_to": "Proverbs 14:35",
+    "connected_from": "Proverbs 14:33"
+  },
+  {
+    "text": "The favor of a king [is] toward a wise servant, and his wrath is to one causing shame.",
+    "reference": "Proverbs 14:35 (BLB)",
+    "connected_from": "Proverbs 14:34"
+  }
+]

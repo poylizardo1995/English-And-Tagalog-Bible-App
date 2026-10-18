@@ -1,0 +1,162 @@
+[
+  {
+    "text": "NOW when Festus was come into the province, after three days, he went up to Jerusalem from Caesarea.",
+    "reference": "Acts 25:1 (DRB)",
+    "connected_to": "Acts 25:2"
+  },
+  {
+    "text": "And the chief priests, and principal men of the Jews, went unto him against Paul: and they besought him,",
+    "reference": "Acts 25:2 (DRB)",
+    "connected_to": "Acts 25:3",
+    "connected_from": "Acts 25:1"
+  },
+  {
+    "text": "Requesting favour against him, that he would command him to be brought to Jerusalem, laying wait to kill him in the way.",
+    "reference": "Acts 25:3 (DRB)",
+    "connected_to": "Acts 25:4",
+    "connected_from": "Acts 25:2"
+  },
+  {
+    "text": "But Festus answered: That Paul was kept in Caesarea, and that he himself would very shortly depart thither.",
+    "reference": "Acts 25:4 (DRB)",
+    "connected_to": "Acts 25:5",
+    "connected_from": "Acts 25:3"
+  },
+  {
+    "text": "Let them, therefore, saith he, among you that are able, go down with me, and accuse him, if there be any crime in the man.",
+    "reference": "Acts 25:5 (DRB)",
+    "connected_to": "Acts 25:6",
+    "connected_from": "Acts 25:4"
+  },
+  {
+    "text": "And having tarried among them no more than eight or ten days, he went down to Caesarea, and the next day he sat in the judgment seat; and commanded Paul to be brought.",
+    "reference": "Acts 25:6 (DRB)",
+    "connected_to": "Acts 25:7",
+    "connected_from": "Acts 25:5"
+  },
+  {
+    "text": "Who being brought, the Jews stood about him, who were come down from Jerusalem, objecting many and grievous causes, which they could not prove;",
+    "reference": "Acts 25:7 (DRB)",
+    "connected_to": "Acts 25:8",
+    "connected_from": "Acts 25:6"
+  },
+  {
+    "text": "Paul making answer for himself: Neither against the law of the Jews, nor against the temple, nor against Caesar, have I offended in any thing.",
+    "reference": "Acts 25:8 (DRB)",
+    "connected_to": "Acts 25:9",
+    "connected_from": "Acts 25:7"
+  },
+  {
+    "text": "But Festus, willing to shew the Jews a pleasure, answering Paul, said: Wilt thou go up to Jerusalem, and there be judged of these things before me?",
+    "reference": "Acts 25:9 (DRB)",
+    "connected_to": "Acts 25:10",
+    "connected_from": "Acts 25:8"
+  },
+  {
+    "text": "Then Paul said: I stand at Caesar’s judgment seat, where I ought to be judged. To the Jews I have done no injury, as thou very well knowest.",
+    "reference": "Acts 25:10 (DRB)",
+    "connected_to": "Acts 25:11",
+    "connected_from": "Acts 25:9"
+  },
+  {
+    "text": "For if I have injured them, or have committed any thing worthy of death, I refuse not to die. But if there be none of these things whereof they accuse me, no man may deliver me to them: I appeal to Caesar.",
+    "reference": "Acts 25:11 (DRB)",
+    "connected_to": "Acts 25:12",
+    "connected_from": "Acts 25:10"
+  },
+  {
+    "text": "Then Festus having conferred with the council, answered: Hast thou appealed to Caesar? To Caesar shalt thou go.",
+    "reference": "Acts 25:12 (DRB)",
+    "connected_to": "Acts 25:13",
+    "connected_from": "Acts 25:11"
+  },
+  {
+    "text": "And after some days, king Agrippa and Bernice came down to Caesarea to salute Festus.",
+    "reference": "Acts 25:13 (DRB)",
+    "connected_to": "Acts 25:14",
+    "connected_from": "Acts 25:12"
+  },
+  {
+    "text": "And as they tarried there many days, Festus told the king of Paul, saying: A certain man was left prisoner by Felix.",
+    "reference": "Acts 25:14 (DRB)",
+    "connected_to": "Acts 25:15",
+    "connected_from": "Acts 25:13"
+  },
+  {
+    "text": "About whom, when I was at Jerusalem, the chief priests, and the ancients of the Jews, came unto me, desiring condemnation against him.",
+    "reference": "Acts 25:15 (DRB)",
+    "connected_to": "Acts 25:16",
+    "connected_from": "Acts 25:14"
+  },
+  {
+    "text": "To whom I answered: It is not the custom of the Romans to condemn any man, before that he who is accused have his accusers present, and have liberty to make his answer, to clear himself of the things laid to his charge.",
+    "reference": "Acts 25:16 (DRB)",
+    "connected_to": "Acts 25:17",
+    "connected_from": "Acts 25:15"
+  },
+  {
+    "text": "When therefore they were come hither, without any delay, on the day following, sitting in the judgment seat, I commanded the man to be brought.",
+    "reference": "Acts 25:17 (DRB)",
+    "connected_to": "Acts 25:18",
+    "connected_from": "Acts 25:16"
+  },
+  {
+    "text": "Against whom, when the accusers stood up, they brought no accusation of things which I thought ill of:",
+    "reference": "Acts 25:18 (DRB)",
+    "connected_to": "Acts 25:19",
+    "connected_from": "Acts 25:17"
+  },
+  {
+    "text": "But had certain questions of their own superstition against him, and of one Jesus deceased, whom Paul affirmed to be alive.",
+    "reference": "Acts 25:19 (DRB)",
+    "connected_to": "Acts 25:20",
+    "connected_from": "Acts 25:18"
+  },
+  {
+    "text": "I therefore being in a doubt of this manner of question, asked him whether he would go to Jerusalem, and there be judged of these things.",
+    "reference": "Acts 25:20 (DRB)",
+    "connected_to": "Acts 25:21",
+    "connected_from": "Acts 25:19"
+  },
+  {
+    "text": "But Paul appealing to be reserved unto the hearing of Augustus, I commanded him to be kept, till I might send him to Caesar.",
+    "reference": "Acts 25:21 (DRB)",
+    "connected_to": "Acts 25:22",
+    "connected_from": "Acts 25:20"
+  },
+  {
+    "text": "And Agrippa said to Festus: I would also hear the man, myself. To morrow, said he, thou shalt hear him.",
+    "reference": "Acts 25:22 (DRB)",
+    "connected_to": "Acts 25:23",
+    "connected_from": "Acts 25:21"
+  },
+  {
+    "text": "And on the next day, when Agrippa and Bernice were come with great pomp, and had entered into the hall of audience, with the tribunes, and principal men of the city, at Festus’ commandment, Paul was brought forth.",
+    "reference": "Acts 25:23 (DRB)",
+    "connected_to": "Acts 25:24",
+    "connected_from": "Acts 25:22"
+  },
+  {
+    "text": "And Festus saith: King Agrippa, and all ye men who are here present with us, you see this man, about whom all the multitude of the Jews dealt with me at Jerusalem, requesting and crying out that he ought not to live any longer.",
+    "reference": "Acts 25:24 (DRB)",
+    "connected_to": "Acts 25:25",
+    "connected_from": "Acts 25:23"
+  },
+  {
+    "text": "Yet have I found nothing that he hath committed worthy of death. But forasmuch as he himself hath appealed to Augustus, I have determined to send him.",
+    "reference": "Acts 25:25 (DRB)",
+    "connected_to": "Acts 25:26",
+    "connected_from": "Acts 25:24"
+  },
+  {
+    "text": "Of whom I have nothing certain to write to my lord. For which cause I have brought him forth before you, and especially before thee, O king Agrippa, that examination being made, I may have what to write.",
+    "reference": "Acts 25:26 (DRB)",
+    "connected_to": "Acts 25:27",
+    "connected_from": "Acts 25:25"
+  },
+  {
+    "text": "For it seemeth to me unreasonable to send a prisoner, and not to signify the things laid to his charge.",
+    "reference": "Acts 25:27 (DRB)",
+    "connected_from": "Acts 25:26"
+  }
+]

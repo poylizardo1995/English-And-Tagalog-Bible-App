@@ -1,0 +1,72 @@
+[
+  {
+    "text": "O LORD {YHWH}, You are my God {Elohay}! I will exalt You; I will praise Your name. For You have worked wonders—plans formed long ago—in perfect faithfulness.",
+    "reference": "Isaiah 25:1 (BAB)",
+    "connected_to": "Isaiah 25:2"
+  },
+  {
+    "text": "Indeed, You have made the city a heap of rubble, the fortified town a ruin. The fortress of strangers is a city no more; it will never be rebuilt.",
+    "reference": "Isaiah 25:2 (BAB)",
+    "connected_to": "Isaiah 25:3",
+    "connected_from": "Isaiah 25:1"
+  },
+  {
+    "text": "Therefore, a strong people will honor You. The cities of ruthless nations will revere You.",
+    "reference": "Isaiah 25:3 (BAB)",
+    "connected_to": "Isaiah 25:4",
+    "connected_from": "Isaiah 25:2"
+  },
+  {
+    "text": "For You have been a refuge for the poor, a stronghold for the needy in distress, a refuge from the storm, a shade from the heat. For the breath {ruach} of the ruthless is like rain against a wall,",
+    "reference": "Isaiah 25:4 (BAB)",
+    "connected_to": "Isaiah 25:5",
+    "connected_from": "Isaiah 25:3"
+  },
+  {
+    "text": "like heat in a dry land. You subdue the uproar of foreigners. As the shade of a cloud cools the heat, so the song of the ruthless is silenced.",
+    "reference": "Isaiah 25:5 (BAB)",
+    "connected_to": "Isaiah 25:6",
+    "connected_from": "Isaiah 25:4"
+  },
+  {
+    "text": "On this mountain the LORD {YHWH} of Hosts will prepare a lavish banquet for all the peoples, a feast of aged wine, of choice meat, of finely aged wine.",
+    "reference": "Isaiah 25:6 (BAB)",
+    "connected_to": "Isaiah 25:7",
+    "connected_from": "Isaiah 25:5"
+  },
+  {
+    "text": "On this mountain He will swallow up the shroud that enfolds all peoples, the sheet that covers all nations;",
+    "reference": "Isaiah 25:7 (BAB)",
+    "connected_to": "Isaiah 25:8",
+    "connected_from": "Isaiah 25:6"
+  },
+  {
+    "text": "He will swallow up death forever (He will swallow up death in victory). The Lord GOD {Adonai YHWH} will wipe away the tears from every face <Rev 7:17, Rev 21:4> and remove the disgrace of His people from the whole earth. For the LORD {YHWH} has spoken.",
+    "reference": "Isaiah 25:8 (BAB)",
+    "connected_to": "Isaiah 25:9",
+    "connected_from": "Isaiah 25:7"
+  },
+  {
+    "text": "And in that day it will be said, “Surely this is our God {Elohenu}; we have waited for Him, and He has saved us. This is the LORD {YHWH} for whom we have waited. Let us rejoice and be glad in His salvation.”",
+    "reference": "Isaiah 25:9 (BAB)",
+    "connected_to": "Isaiah 25:10",
+    "connected_from": "Isaiah 25:8"
+  },
+  {
+    "text": "For the hand of the LORD {YHWH} will rest on this mountain. But Moab (of his father) will be trampled in his place as straw is trodden into the dung pile.",
+    "reference": "Isaiah 25:10 (BAB)",
+    "connected_to": "Isaiah 25:11",
+    "connected_from": "Isaiah 25:9"
+  },
+  {
+    "text": "He will spread out his hands within it, as a swimmer spreads his arms to swim. His pride will be brought low, despite (along with) the skill of his hands.",
+    "reference": "Isaiah 25:11 (BAB)",
+    "connected_to": "Isaiah 25:12",
+    "connected_from": "Isaiah 25:10"
+  },
+  {
+    "text": "The high-walled (height) fortress will be brought down, cast to the ground, into the dust.",
+    "reference": "Isaiah 25:12 (BAB)",
+    "connected_from": "Isaiah 25:11"
+  }
+]

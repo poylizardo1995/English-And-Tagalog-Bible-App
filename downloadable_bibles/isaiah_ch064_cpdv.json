@@ -1,0 +1,72 @@
+[
+  {
+    "text": "I wish that you would rend the heavens, and then descend! The mountains would flow away before your face.",
+    "reference": "Isaiah 64:1 (CPDV)",
+    "connected_to": "Isaiah 64:2"
+  },
+  {
+    "text": "They would melt, as if thoroughly burned by fire. The waters would burn with fire, so that your name might be made known to your enemies, so that the nations would be stirred up before your face.",
+    "reference": "Isaiah 64:2 (CPDV)",
+    "connected_to": "Isaiah 64:3",
+    "connected_from": "Isaiah 64:1"
+  },
+  {
+    "text": "When you will perform miracles, we will not be able to withstand them. You descended, and the mountains flowed away before your presence.",
+    "reference": "Isaiah 64:3 (CPDV)",
+    "connected_to": "Isaiah 64:4",
+    "connected_from": "Isaiah 64:2"
+  },
+  {
+    "text": "From ages past, they have not heard it, and they have not perceived it with the ears. Apart from you, O God, the eye has not seen what you have prepared for those who await you.",
+    "reference": "Isaiah 64:4 (CPDV)",
+    "connected_to": "Isaiah 64:5",
+    "connected_from": "Isaiah 64:3"
+  },
+  {
+    "text": "You have met with those who rejoice in doing justice. By your ways, they will remember you. Behold, you have been angry, for we have sinned. In this, we have continued, but we will be saved.",
+    "reference": "Isaiah 64:5 (CPDV)",
+    "connected_to": "Isaiah 64:6",
+    "connected_from": "Isaiah 64:4"
+  },
+  {
+    "text": "And we have all become like the unclean. And all our justices are like a rag of menstruation. And we have all fallen away, like a leaf. And our iniquities have carried us away, like the wind.",
+    "reference": "Isaiah 64:6 (CPDV)",
+    "connected_to": "Isaiah 64:7",
+    "connected_from": "Isaiah 64:5"
+  },
+  {
+    "text": "There is no one who calls upon your name, who rises up and holds fast to you. You have concealed your face from us, and you have crushed us with the hand of our own iniquity.",
+    "reference": "Isaiah 64:7 (CPDV)",
+    "connected_to": "Isaiah 64:8",
+    "connected_from": "Isaiah 64:6"
+  },
+  {
+    "text": "And now, O Lord, you are our Father, yet truly, we are clay. And you are our Maker, and we are all the works of your hands.",
+    "reference": "Isaiah 64:8 (CPDV)",
+    "connected_to": "Isaiah 64:9",
+    "connected_from": "Isaiah 64:7"
+  },
+  {
+    "text": "Do not be so angry, O Lord, and no longer call to mind our iniquity. Behold, consider that we are all your people.",
+    "reference": "Isaiah 64:9 (CPDV)",
+    "connected_to": "Isaiah 64:10",
+    "connected_from": "Isaiah 64:8"
+  },
+  {
+    "text": "The city of your sanctuary has become a desert. Zion has become a desert. Jerusalem is desolate.",
+    "reference": "Isaiah 64:10 (CPDV)",
+    "connected_to": "Isaiah 64:11",
+    "connected_from": "Isaiah 64:9"
+  },
+  {
+    "text": "The house of our sanctification and of our glory, where our fathers praised you, has been completely consumed by fire, and all our admirable things have been turned into ruins.",
+    "reference": "Isaiah 64:11 (CPDV)",
+    "connected_to": "Isaiah 64:12",
+    "connected_from": "Isaiah 64:10"
+  },
+  {
+    "text": "Should you restrain yourself, O Lord, concerning these things? Should you remain silent, and afflict us vehemently?",
+    "reference": "Isaiah 64:12 (CPDV)",
+    "connected_from": "Isaiah 64:11"
+  }
+]

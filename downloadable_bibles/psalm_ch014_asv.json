@@ -1,0 +1,42 @@
+[
+  {
+    "text": "For the Chief Musician. A Psalm of David. The fool hath said in his heart, There is no God. They are corrupt, they have done abominable works; There is none that doeth good.",
+    "reference": "Psalm 14:1 (ASV)",
+    "connected_to": "Psalm 14:2"
+  },
+  {
+    "text": "Jehovah looked down from heaven upon the children of men, To see if there were any that did understand, That did seek after God.",
+    "reference": "Psalm 14:2 (ASV)",
+    "connected_to": "Psalm 14:3",
+    "connected_from": "Psalm 14:1"
+  },
+  {
+    "text": "They are all gone aside; they are together become filthy; There is none that doeth good, no, not one.",
+    "reference": "Psalm 14:3 (ASV)",
+    "connected_to": "Psalm 14:4",
+    "connected_from": "Psalm 14:2"
+  },
+  {
+    "text": "Have all the workers of iniquity no knowledge, Who eat up my people as they eat bread, And call not upon Jehovah?",
+    "reference": "Psalm 14:4 (ASV)",
+    "connected_to": "Psalm 14:5",
+    "connected_from": "Psalm 14:3"
+  },
+  {
+    "text": "There were they in great fear; For God is in the generation of the righteous.",
+    "reference": "Psalm 14:5 (ASV)",
+    "connected_to": "Psalm 14:6",
+    "connected_from": "Psalm 14:4"
+  },
+  {
+    "text": "Ye put to shame the counsel of the poor, Because Jehovah is his refuge.",
+    "reference": "Psalm 14:6 (ASV)",
+    "connected_to": "Psalm 14:7",
+    "connected_from": "Psalm 14:5"
+  },
+  {
+    "text": "Oh that the salvation of Israel were come out of Zion! When Jehovah bringeth back the captivity of his people, Then shall Jacob rejoice, and Israel shall be glad.",
+    "reference": "Psalm 14:7 (ASV)",
+    "connected_from": "Psalm 14:6"
+  }
+]

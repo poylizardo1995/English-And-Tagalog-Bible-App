@@ -1,0 +1,264 @@
+[
+  {
+    "text": "And when it was determined that we should sail for Italy, they delivered Paul and certain other prisoners to a centurion named Julius, of the Augustan band.",
+    "reference": "Acts 27:1 (ERV)",
+    "connected_to": "Acts 27:2"
+  },
+  {
+    "text": "And embarking in a ship of Adramyttium, which was about to sail unto the places on the coast of Asia, we put to sea, Aristarchus, a Macedonian of Thessalonica, being with us.",
+    "reference": "Acts 27:2 (ERV)",
+    "connected_to": "Acts 27:3",
+    "connected_from": "Acts 27:1"
+  },
+  {
+    "text": "And the next day we touched at Sidon: and Julius treated Paul kindly, and gave him leave to go unto his friends and refresh himself.",
+    "reference": "Acts 27:3 (ERV)",
+    "connected_to": "Acts 27:4",
+    "connected_from": "Acts 27:2"
+  },
+  {
+    "text": "And putting to sea from thence, we sailed under the lee of Cyprus, because the winds were contrary.",
+    "reference": "Acts 27:4 (ERV)",
+    "connected_to": "Acts 27:5",
+    "connected_from": "Acts 27:3"
+  },
+  {
+    "text": "And when we had sailed across the sea which is off Cilicia and Pamphylia, we came to Myra, a city of Lycia.",
+    "reference": "Acts 27:5 (ERV)",
+    "connected_to": "Acts 27:6",
+    "connected_from": "Acts 27:4"
+  },
+  {
+    "text": "And there the centurion found a ship of Alexandria sailing for Italy; and he put us therein.",
+    "reference": "Acts 27:6 (ERV)",
+    "connected_to": "Acts 27:7",
+    "connected_from": "Acts 27:5"
+  },
+  {
+    "text": "And when we had sailed slowly many days, and were come with difficulty over against Cnidus, the wind not further suffering us, we sailed under the lee of Crete, over against Salmone;",
+    "reference": "Acts 27:7 (ERV)",
+    "connected_to": "Acts 27:8",
+    "connected_from": "Acts 27:6"
+  },
+  {
+    "text": "and with difficulty coasting along it we came unto a certain place called Fair Havens; nigh whereunto was the city of Lasea.",
+    "reference": "Acts 27:8 (ERV)",
+    "connected_to": "Acts 27:9",
+    "connected_from": "Acts 27:7"
+  },
+  {
+    "text": "And when much time was spent, and the voyage was now dangerous, because the Fast was now already gone by, Paul admonished them,",
+    "reference": "Acts 27:9 (ERV)",
+    "connected_to": "Acts 27:10",
+    "connected_from": "Acts 27:8"
+  },
+  {
+    "text": "and said unto them, Sirs, I perceive that the voyage will be with injury and much loss, not only of the lading and the ship, but also of our lives.",
+    "reference": "Acts 27:10 (ERV)",
+    "connected_to": "Acts 27:11",
+    "connected_from": "Acts 27:9"
+  },
+  {
+    "text": "But the centurion gave more heed to the master and to the owner of the ship, than to those things which were spoken by Paul.",
+    "reference": "Acts 27:11 (ERV)",
+    "connected_to": "Acts 27:12",
+    "connected_from": "Acts 27:10"
+  },
+  {
+    "text": "And because the haven was not commodious to winter in, the more part advised to put to sea from thence, if by any means they could reach Phoenix, and winter there; which is a haven of Crete, looking north-east and south-east.",
+    "reference": "Acts 27:12 (ERV)",
+    "connected_to": "Acts 27:13",
+    "connected_from": "Acts 27:11"
+  },
+  {
+    "text": "And when the south wind blew softly, supposing that they had obtained their purpose, they weighed anchor and sailed along Crete, close in shore.",
+    "reference": "Acts 27:13 (ERV)",
+    "connected_to": "Acts 27:14",
+    "connected_from": "Acts 27:12"
+  },
+  {
+    "text": "But after no long time there beat down from it a tempestuous wind, which is called Euraquilo:",
+    "reference": "Acts 27:14 (ERV)",
+    "connected_to": "Acts 27:15",
+    "connected_from": "Acts 27:13"
+  },
+  {
+    "text": "and when the ship was caught, and could not face the wind, we gave way to it, and were driven.",
+    "reference": "Acts 27:15 (ERV)",
+    "connected_to": "Acts 27:16",
+    "connected_from": "Acts 27:14"
+  },
+  {
+    "text": "And running under the lee of a small island called Cauda, we were able, with difficulty, to secure the boat:",
+    "reference": "Acts 27:16 (ERV)",
+    "connected_to": "Acts 27:17",
+    "connected_from": "Acts 27:15"
+  },
+  {
+    "text": "and when they had hoisted it up, they used helps, under-girding the ship; and, fearing lest they should be cast upon the Syrtis, they lowered the gear, and so were driven.",
+    "reference": "Acts 27:17 (ERV)",
+    "connected_to": "Acts 27:18",
+    "connected_from": "Acts 27:16"
+  },
+  {
+    "text": "And as we laboured exceedingly with the storm, the next day they began to throw the freight overboard;",
+    "reference": "Acts 27:18 (ERV)",
+    "connected_to": "Acts 27:19",
+    "connected_from": "Acts 27:17"
+  },
+  {
+    "text": "and the third day they cast out with their own hands the tackling of the ship.",
+    "reference": "Acts 27:19 (ERV)",
+    "connected_to": "Acts 27:20",
+    "connected_from": "Acts 27:18"
+  },
+  {
+    "text": "And when neither sun nor stars shone upon us for many days, and no small tempest lay on us, all hope that we should be saved was now taken away.",
+    "reference": "Acts 27:20 (ERV)",
+    "connected_to": "Acts 27:21",
+    "connected_from": "Acts 27:19"
+  },
+  {
+    "text": "And when they had been long without food, then Paul stood forth in the midst of them, and said, Sirs, ye should have hearkened unto me, and not have set sail from Crete, and have gotten this injury and loss.",
+    "reference": "Acts 27:21 (ERV)",
+    "connected_to": "Acts 27:22",
+    "connected_from": "Acts 27:20"
+  },
+  {
+    "text": "And now I exhort you to be of good cheer: for there shall be no loss of life among you, but only of the ship.",
+    "reference": "Acts 27:22 (ERV)",
+    "connected_to": "Acts 27:23",
+    "connected_from": "Acts 27:21"
+  },
+  {
+    "text": "For there stood by me this night an angel of the God whose I am, whom also I serve,",
+    "reference": "Acts 27:23 (ERV)",
+    "connected_to": "Acts 27:24",
+    "connected_from": "Acts 27:22"
+  },
+  {
+    "text": "saying, Fear not, Paul; thou must stand before Caesar: and lo, God hath granted thee all them that sail with thee.",
+    "reference": "Acts 27:24 (ERV)",
+    "connected_to": "Acts 27:25",
+    "connected_from": "Acts 27:23"
+  },
+  {
+    "text": "Wherefore, sirs, be of good cheer: for I believe God, that it shall be even so as it hath been spoken unto me.",
+    "reference": "Acts 27:25 (ERV)",
+    "connected_to": "Acts 27:26",
+    "connected_from": "Acts 27:24"
+  },
+  {
+    "text": "Howbeit we must be cast upon a certain island.",
+    "reference": "Acts 27:26 (ERV)",
+    "connected_to": "Acts 27:27",
+    "connected_from": "Acts 27:25"
+  },
+  {
+    "text": "But when the fourteenth night was come, as we were driven to and fro in the sea of Adria, about midnight the sailors surmised that they were drawing near to some country;",
+    "reference": "Acts 27:27 (ERV)",
+    "connected_to": "Acts 27:28",
+    "connected_from": "Acts 27:26"
+  },
+  {
+    "text": "and they sounded, and found twenty fathoms: and after a little space, they sounded again, and found fifteen fathoms.",
+    "reference": "Acts 27:28 (ERV)",
+    "connected_to": "Acts 27:29",
+    "connected_from": "Acts 27:27"
+  },
+  {
+    "text": "And fearing lest haply we should be cast ashore on rocky ground, they let go four anchors from the stern, and wished for the day.",
+    "reference": "Acts 27:29 (ERV)",
+    "connected_to": "Acts 27:30",
+    "connected_from": "Acts 27:28"
+  },
+  {
+    "text": "And as the sailors were seeking to flee out of the ship, and had lowered the boat into the sea, under colour as though they would lay out anchors from the foreship,",
+    "reference": "Acts 27:30 (ERV)",
+    "connected_to": "Acts 27:31",
+    "connected_from": "Acts 27:29"
+  },
+  {
+    "text": "Paul said to the centurion and to the soldiers, Except these abide in the ship, ye cannot be saved.",
+    "reference": "Acts 27:31 (ERV)",
+    "connected_to": "Acts 27:32",
+    "connected_from": "Acts 27:30"
+  },
+  {
+    "text": "Then the soldiers cut away the ropes of the boat, and let her fall off.",
+    "reference": "Acts 27:32 (ERV)",
+    "connected_to": "Acts 27:33",
+    "connected_from": "Acts 27:31"
+  },
+  {
+    "text": "And while the day was coming on, Paul besought them all to take some food, saying, This day is the fourteenth day that ye wait and continue fasting, having taken nothing.",
+    "reference": "Acts 27:33 (ERV)",
+    "connected_to": "Acts 27:34",
+    "connected_from": "Acts 27:32"
+  },
+  {
+    "text": "Wherefore I beseech you to take some food: for this is for your safety: for there shall not a hair perish from the head of any of you.",
+    "reference": "Acts 27:34 (ERV)",
+    "connected_to": "Acts 27:35",
+    "connected_from": "Acts 27:33"
+  },
+  {
+    "text": "And when he had said this, and had taken bread, he gave thanks to God in the presence of all: and he brake it, and began to eat.",
+    "reference": "Acts 27:35 (ERV)",
+    "connected_to": "Acts 27:36",
+    "connected_from": "Acts 27:34"
+  },
+  {
+    "text": "Then were they all of good cheer, and themselves also took food.",
+    "reference": "Acts 27:36 (ERV)",
+    "connected_to": "Acts 27:37",
+    "connected_from": "Acts 27:35"
+  },
+  {
+    "text": "And we were in all in the ship two hundred threescore and sixteen souls.",
+    "reference": "Acts 27:37 (ERV)",
+    "connected_to": "Acts 27:38",
+    "connected_from": "Acts 27:36"
+  },
+  {
+    "text": "And when they had eaten enough, they lightened the ship, throwing out the wheat into the sea.",
+    "reference": "Acts 27:38 (ERV)",
+    "connected_to": "Acts 27:39",
+    "connected_from": "Acts 27:37"
+  },
+  {
+    "text": "And when it was day, they knew not the land: but they perceived a certain bay with a beach, and they took counsel whether they could drive the ship upon it.",
+    "reference": "Acts 27:39 (ERV)",
+    "connected_to": "Acts 27:40",
+    "connected_from": "Acts 27:38"
+  },
+  {
+    "text": "And casting off the anchors, they left them in the sea, at the same time loosing the bands of the rudders; and hoisting up the foresail to the wind, they made for the beach.",
+    "reference": "Acts 27:40 (ERV)",
+    "connected_to": "Acts 27:41",
+    "connected_from": "Acts 27:39"
+  },
+  {
+    "text": "But lighting upon a place where two seas met, they ran the vessel aground; and the foreship struck and remained unmoveable, but the stern began to break up by the violence of the waves.",
+    "reference": "Acts 27:41 (ERV)",
+    "connected_to": "Acts 27:42",
+    "connected_from": "Acts 27:40"
+  },
+  {
+    "text": "And the soldiers’ counsel was to kill the prisoners, lest any of them should swim out, and escape.",
+    "reference": "Acts 27:42 (ERV)",
+    "connected_to": "Acts 27:43",
+    "connected_from": "Acts 27:41"
+  },
+  {
+    "text": "But the centurion, desiring to save Paul, stayed them from their purpose; and commanded that they which could swim should cast themselves overboard, and get first to the land:",
+    "reference": "Acts 27:43 (ERV)",
+    "connected_to": "Acts 27:44",
+    "connected_from": "Acts 27:42"
+  },
+  {
+    "text": "and the rest, some on planks, and some on other things from the ship. And so it came to pass, that they all escaped safe to the land.",
+    "reference": "Acts 27:44 (ERV)",
+    "connected_from": "Acts 27:43"
+  }
+]

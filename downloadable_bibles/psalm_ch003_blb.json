@@ -1,0 +1,48 @@
+[
+  {
+    "text": "A Psalm of David, in his fleeing from the face of Absalom his son. <span class=|reftext|><a href=|#|><b>1</b></a> O YHWH, how many are my adversaries! Many [are] rising up against me!",
+    "reference": "Psalm 3:1 (BLB)",
+    "connected_to": "Psalm 3:2"
+  },
+  {
+    "text": "Many are saying of my soul, “There is no salvation for him in God.” Selah",
+    "reference": "Psalm 3:2 (BLB)",
+    "connected_to": "Psalm 3:3",
+    "connected_from": "Psalm 3:1"
+  },
+  {
+    "text": "and You, O YHWH, are a shield behind me, my glory, and One lifting high my head.",
+    "reference": "Psalm 3:3 (BLB)",
+    "connected_to": "Psalm 3:4",
+    "connected_from": "Psalm 3:2"
+  },
+  {
+    "text": "With my voice I cry to YHWH, and He answers me from the mountain of His holiness. Selah",
+    "reference": "Psalm 3:4 (BLB)",
+    "connected_to": "Psalm 3:5",
+    "connected_from": "Psalm 3:3"
+  },
+  {
+    "text": "I lie down and sleep; I awake, for YHWH sustains me.",
+    "reference": "Psalm 3:5 (BLB)",
+    "connected_to": "Psalm 3:6",
+    "connected_from": "Psalm 3:4"
+  },
+  {
+    "text": "I shall not fear the multitudes of people, who have set [themselves] all around against me.",
+    "reference": "Psalm 3:6 (BLB)",
+    "connected_to": "Psalm 3:7",
+    "connected_from": "Psalm 3:5"
+  },
+  {
+    "text": "Arise, O YHWH! Save me, O my God! O that You would strike all my enemies [on] the jaw; may you break the teeth of the wicked!",
+    "reference": "Psalm 3:7 (BLB)",
+    "connected_to": "Psalm 3:8",
+    "connected_from": "Psalm 3:6"
+  },
+  {
+    "text": "Unto YHWH [is] the salvation; may Your blessing [be] upon Your people. Selah",
+    "reference": "Psalm 3:8 (BLB)",
+    "connected_from": "Psalm 3:7"
+  }
+]

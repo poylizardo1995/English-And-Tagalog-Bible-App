@@ -1,0 +1,102 @@
+[
+  {
+    "text": "O LORD my God, in you do I put my trust: save me from all them that persecute me, and deliver me:",
+    "reference": "Psalm 7:1 (AKJV)",
+    "connected_to": "Psalm 7:2"
+  },
+  {
+    "text": "Lest he tear my soul like a lion, rending it in pieces, while there is none to deliver.",
+    "reference": "Psalm 7:2 (AKJV)",
+    "connected_to": "Psalm 7:3",
+    "connected_from": "Psalm 7:1"
+  },
+  {
+    "text": "O LORD my God, If I have done this; if there be iniquity in my hands;",
+    "reference": "Psalm 7:3 (AKJV)",
+    "connected_to": "Psalm 7:4",
+    "connected_from": "Psalm 7:2"
+  },
+  {
+    "text": "If I have rewarded evil to him that was at peace with me; (yes, I have delivered him that without cause is my enemy:)",
+    "reference": "Psalm 7:4 (AKJV)",
+    "connected_to": "Psalm 7:5",
+    "connected_from": "Psalm 7:3"
+  },
+  {
+    "text": "Let the enemy persecute my soul, and take it; yes, let him tread down my life on the earth, and lay my honor in the dust. Selah.",
+    "reference": "Psalm 7:5 (AKJV)",
+    "connected_to": "Psalm 7:6",
+    "connected_from": "Psalm 7:4"
+  },
+  {
+    "text": "Arise, O LORD, in your anger, lift up yourself because of the rage of my enemies: and awake for me to the judgment that you have commanded.",
+    "reference": "Psalm 7:6 (AKJV)",
+    "connected_to": "Psalm 7:7",
+    "connected_from": "Psalm 7:5"
+  },
+  {
+    "text": "So shall the congregation of the people compass you about: for their sakes therefore return you on high.",
+    "reference": "Psalm 7:7 (AKJV)",
+    "connected_to": "Psalm 7:8",
+    "connected_from": "Psalm 7:6"
+  },
+  {
+    "text": "The LORD shall judge the people: judge me, O LORD, according to my righteousness, and according to my integrity that is in me.",
+    "reference": "Psalm 7:8 (AKJV)",
+    "connected_to": "Psalm 7:9",
+    "connected_from": "Psalm 7:7"
+  },
+  {
+    "text": "Oh let the wickedness of the wicked come to an end; but establish the just: for the righteous God tries the hearts and reins.",
+    "reference": "Psalm 7:9 (AKJV)",
+    "connected_to": "Psalm 7:10",
+    "connected_from": "Psalm 7:8"
+  },
+  {
+    "text": "My defense is of God, which saves the upright in heart.",
+    "reference": "Psalm 7:10 (AKJV)",
+    "connected_to": "Psalm 7:11",
+    "connected_from": "Psalm 7:9"
+  },
+  {
+    "text": "God judges the righteous, and God is angry with the wicked every day.",
+    "reference": "Psalm 7:11 (AKJV)",
+    "connected_to": "Psalm 7:12",
+    "connected_from": "Psalm 7:10"
+  },
+  {
+    "text": "If he turn not, he will whet his sword; he has bent his bow, and made it ready.",
+    "reference": "Psalm 7:12 (AKJV)",
+    "connected_to": "Psalm 7:13",
+    "connected_from": "Psalm 7:11"
+  },
+  {
+    "text": "He has also prepared for him the instruments of death; he ordains his arrows against the persecutors.",
+    "reference": "Psalm 7:13 (AKJV)",
+    "connected_to": "Psalm 7:14",
+    "connected_from": "Psalm 7:12"
+  },
+  {
+    "text": "Behold, he travails with iniquity, and has conceived mischief, and brought forth falsehood.",
+    "reference": "Psalm 7:14 (AKJV)",
+    "connected_to": "Psalm 7:15",
+    "connected_from": "Psalm 7:13"
+  },
+  {
+    "text": "He made a pit, and dig it, and is fallen into the ditch which he made.",
+    "reference": "Psalm 7:15 (AKJV)",
+    "connected_to": "Psalm 7:16",
+    "connected_from": "Psalm 7:14"
+  },
+  {
+    "text": "His mischief shall return on his own head, and his violent dealing shall come down on his own pate.",
+    "reference": "Psalm 7:16 (AKJV)",
+    "connected_to": "Psalm 7:17",
+    "connected_from": "Psalm 7:15"
+  },
+  {
+    "text": "I will praise the LORD according to his righteousness: and will sing praise to the name of the LORD most high.",
+    "reference": "Psalm 7:17 (AKJV)",
+    "connected_from": "Psalm 7:16"
+  }
+]

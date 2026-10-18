@@ -1,0 +1,264 @@
+[
+  {
+    "text": "Then Jesus began to speak to them in parables: “A man planted a vineyard. He put a wall around it, dug a wine vat, and built a watchtower. Then he rented it out to some tenants (farmers) and went away on a journey.",
+    "reference": "Mark 12:1 (BAB)",
+    "connected_to": "Mark 12:2"
+  },
+  {
+    "text": "At harvest time, he sent a servant {doulon} to the tenants (farmers) to collect his share of the fruit of the vineyard.",
+    "reference": "Mark 12:2 (BAB)",
+    "connected_to": "Mark 12:3",
+    "connected_from": "Mark 12:1"
+  },
+  {
+    "text": "But they seized the servant, beat him, and sent him away empty-handed.",
+    "reference": "Mark 12:3 (BAB)",
+    "connected_to": "Mark 12:4",
+    "connected_from": "Mark 12:2"
+  },
+  {
+    "text": "Then he sent them another servant {doulon}, and they struck him over the head and treated him shamefully.",
+    "reference": "Mark 12:4 (BAB)",
+    "connected_to": "Mark 12:5",
+    "connected_from": "Mark 12:3"
+  },
+  {
+    "text": "He sent still another, and this one they killed. He sent many others; some they beat and others they killed.",
+    "reference": "Mark 12:5 (BAB)",
+    "connected_to": "Mark 12:6",
+    "connected_from": "Mark 12:4"
+  },
+  {
+    "text": "Finally, having one beloved {agapēton} son, he sent him to them. ‘They will respect my son, he said.",
+    "reference": "Mark 12:6 (BAB)",
+    "connected_to": "Mark 12:7",
+    "connected_from": "Mark 12:5"
+  },
+  {
+    "text": "But the tenants (farmers) said to one another, ‘This is the heir. Come, let us kill him, and the inheritance will be ours.",
+    "reference": "Mark 12:7 (BAB)",
+    "connected_to": "Mark 12:8",
+    "connected_from": "Mark 12:6"
+  },
+  {
+    "text": "So they seized the son, killed him, and threw him out of the vineyard.",
+    "reference": "Mark 12:8 (BAB)",
+    "connected_to": "Mark 12:9",
+    "connected_from": "Mark 12:7"
+  },
+  {
+    "text": "What then will the owner {kyrios} of the vineyard do? He will come and kill those tenants (farmers) and give the vineyard to others.",
+    "reference": "Mark 12:9 (BAB)",
+    "connected_to": "Mark 12:10",
+    "connected_from": "Mark 12:8"
+  },
+  {
+    "text": "Have you⁺ never read this Scripture: ‘The stone the builders rejected has become the cornerstone.",
+    "reference": "Mark 12:10 (BAB)",
+    "connected_to": "Mark 12:11",
+    "connected_from": "Mark 12:9"
+  },
+  {
+    "text": "This is from the Lord {Kyriou}, and it is marvelous in our eyes <Psa 118:22–23>’",
+    "reference": "Mark 12:11 (BAB)",
+    "connected_to": "Mark 12:12",
+    "connected_from": "Mark 12:10"
+  },
+  {
+    "text": "At this, the leaders sought \\they sought/ to arrest Jesus, for they knew that He had spoken this parable against them. But fearing the crowd, they left Him and went away.",
+    "reference": "Mark 12:12 (BAB)",
+    "connected_to": "Mark 12:13",
+    "connected_from": "Mark 12:11"
+  },
+  {
+    "text": "Later, they sent some of the Pharisees and Herodians to catch Jesus in His words.",
+    "reference": "Mark 12:13 (BAB)",
+    "connected_to": "Mark 12:14",
+    "connected_from": "Mark 12:12"
+  },
+  {
+    "text": "“Teacher {Didaskale}, they said, “we know that You are honest and seek favor from no one. Indeed, You are impartial and teach {didaskeis} the way of God {Theou} in accordance with the truth. Is it lawful to pay taxes to Caesar (Emporer) or not? Should we pay them or not?",
+    "reference": "Mark 12:14 (BAB)",
+    "connected_to": "Mark 12:15",
+    "connected_from": "Mark 12:13"
+  },
+  {
+    "text": "But Jesus saw through their hypocrisy and said, “Why are you⁺ testing Me? Bring Me a denarius (day’s wage) to inspect.",
+    "reference": "Mark 12:15 (BAB)",
+    "connected_to": "Mark 12:16",
+    "connected_from": "Mark 12:14"
+  },
+  {
+    "text": "So they brought it, and He asked them, “Whose image is this? And whose inscription? “Caesar’s, they answered.",
+    "reference": "Mark 12:16 (BAB)",
+    "connected_to": "Mark 12:17",
+    "connected_from": "Mark 12:15"
+  },
+  {
+    "text": "Then Jesus (YHWH saves) told them, “Give to Caesar (Emporer) what is Caesar’s, and to God {Theō} what is God’s {Theou}. And they marveled at Him.",
+    "reference": "Mark 12:17 (BAB)",
+    "connected_to": "Mark 12:18",
+    "connected_from": "Mark 12:16"
+  },
+  {
+    "text": "Then the Sadducees, who say there is no resurrection (rising again), came to Jesus and questioned Him:",
+    "reference": "Mark 12:18 (BAB)",
+    "connected_to": "Mark 12:19",
+    "connected_from": "Mark 12:17"
+  },
+  {
+    "text": "“Teacher {Didaskale}, Moses (drawn out) wrote for us that if a man’s brother dies and leaves a wife but no children, the man is to marry his brother’s widow and raise up offspring (seed) for him <Deu 25:5>.",
+    "reference": "Mark 12:19 (BAB)",
+    "connected_to": "Mark 12:20",
+    "connected_from": "Mark 12:18"
+  },
+  {
+    "text": "Now there were seven brothers. The first one married and died, leaving no children (seed).",
+    "reference": "Mark 12:20 (BAB)",
+    "connected_to": "Mark 12:21",
+    "connected_from": "Mark 12:19"
+  },
+  {
+    "text": "Then the second one married the widow, but he also died and left no children (seed). And the third did likewise.",
+    "reference": "Mark 12:21 (BAB)",
+    "connected_to": "Mark 12:22",
+    "connected_from": "Mark 12:20"
+  },
+  {
+    "text": "In this way, none of the seven left any children (seed). And last of all, the woman died.",
+    "reference": "Mark 12:22 (BAB)",
+    "connected_to": "Mark 12:23",
+    "connected_from": "Mark 12:21"
+  },
+  {
+    "text": "In the resurrection (rising again), then \\In the resurrection, when they rise,/, whose wife will she be? For all seven were married to her.",
+    "reference": "Mark 12:23 (BAB)",
+    "connected_to": "Mark 12:24",
+    "connected_from": "Mark 12:22"
+  },
+  {
+    "text": "Jesus (YHWH saves) said to them, “Aren’t you⁺ mistaken, because you do not know the Scriptures (Writings) or the power {dynamin} of God {Theou}?",
+    "reference": "Mark 12:24 (BAB)",
+    "connected_to": "Mark 12:25",
+    "connected_from": "Mark 12:23"
+  },
+  {
+    "text": "When the dead rise, they will neither marry nor be given in marriage. Instead, they will be like the angels (messengers) in heaven.",
+    "reference": "Mark 12:25 (BAB)",
+    "connected_to": "Mark 12:26",
+    "connected_from": "Mark 12:24"
+  },
+  {
+    "text": "But concerning the dead rising, have you⁺ not read about the burning bush in the Book (papyrus roll) of Moses (drawn out), how God {Theos} told him, ‘I am the God of Abraham (father of many), the God of Isaac (he will laugh), and the God of Jacob <Exo 3:6>’",
+    "reference": "Mark 12:26 (BAB)",
+    "connected_to": "Mark 12:27",
+    "connected_from": "Mark 12:25"
+  },
+  {
+    "text": "He is not the God {Theos} of the dead, but of the living. You⁺ are badly mistaken!",
+    "reference": "Mark 12:27 (BAB)",
+    "connected_to": "Mark 12:28",
+    "connected_from": "Mark 12:26"
+  },
+  {
+    "text": "Now one of the scribes had come up and heard their debate. Noticing how well Jesus had answered them, he asked Him, “Which commandment is the most important of all?",
+    "reference": "Mark 12:28 (BAB)",
+    "connected_to": "Mark 12:29",
+    "connected_from": "Mark 12:27"
+  },
+  {
+    "text": "Jesus (YHWH saves) replied, “This is the most important: ‘Hear, O Israel (He wrestles with God), the Lord {Kyrios} our God {Theos}, the Lord is One.",
+    "reference": "Mark 12:29 (BAB)",
+    "connected_to": "Mark 12:30",
+    "connected_from": "Mark 12:28"
+  },
+  {
+    "text": "Love {agapēseis} the Lord {Kyrion} your God {Theon} with all your heart and with all your soul {psychēs} and with all your mind and with all your strength <Deu 6:4–5>.’",
+    "reference": "Mark 12:30 (BAB)",
+    "connected_to": "Mark 12:31",
+    "connected_from": "Mark 12:29"
+  },
+  {
+    "text": "The second is this: ‘Love {Agapēseis} your neighbor as yourself <Lev 19:18>.’ No other commandment is greater than these.",
+    "reference": "Mark 12:31 (BAB)",
+    "connected_to": "Mark 12:32",
+    "connected_from": "Mark 12:30"
+  },
+  {
+    "text": "“Right, Teacher {Didaskale}, the scribe replied. “You have stated correctly that God is One and there is no other but Him,",
+    "reference": "Mark 12:32 (BAB)",
+    "connected_to": "Mark 12:33",
+    "connected_from": "Mark 12:31"
+  },
+  {
+    "text": "and to love {agapan} Him with all your heart and with all your understanding and with all your strength, and to love your neighbor as yourself. This is more important than all burnt offerings and sacrifices.",
+    "reference": "Mark 12:33 (BAB)",
+    "connected_to": "Mark 12:34",
+    "connected_from": "Mark 12:32"
+  },
+  {
+    "text": "When Jesus (YHWH saves) saw that the man had answered wisely, He said, “You are not far from the kingdom of God {Theou}. And no one dared to question Him any further.",
+    "reference": "Mark 12:34 (BAB)",
+    "connected_to": "Mark 12:35",
+    "connected_from": "Mark 12:33"
+  },
+  {
+    "text": "While Jesus was teaching {didaskōn} in the temple courts \\the temple/, He asked, “How can the scribes say that the Christ (the Anointed One) is the Son of David (beloved)?",
+    "reference": "Mark 12:35 (BAB)",
+    "connected_to": "Mark 12:36",
+    "connected_from": "Mark 12:34"
+  },
+  {
+    "text": "Speaking by the Holy Spirit {Hagiō Pneumati}, David (beloved) himself declared: ‘The Lord {Kyrios} said to my Lord {Kyriō}, “Sit at My right hand until I put Your enemies under Your feet <Psa 110:1>.”’",
+    "reference": "Mark 12:36 (BAB)",
+    "connected_to": "Mark 12:37",
+    "connected_from": "Mark 12:35"
+  },
+  {
+    "text": "David (beloved) himself calls Him ‘Lord {Kyrion}.’ So how can He be David’s son? And the large crowd listened to Him with delight.",
+    "reference": "Mark 12:37 (BAB)",
+    "connected_to": "Mark 12:38",
+    "connected_from": "Mark 12:36"
+  },
+  {
+    "text": "In His teaching {didachē} Jesus also said, “Watch out for the scribes. They like to walk around in long robes, to receive greetings in the marketplaces (town square),",
+    "reference": "Mark 12:38 (BAB)",
+    "connected_to": "Mark 12:39",
+    "connected_from": "Mark 12:37"
+  },
+  {
+    "text": "and to have the chief seats in the synagogues and the places of honor at banquets.",
+    "reference": "Mark 12:39 (BAB)",
+    "connected_to": "Mark 12:40",
+    "connected_from": "Mark 12:38"
+  },
+  {
+    "text": "They defraud widows of their houses \\They devour widows’ houses/, and for a show make lengthy prayers. These men will receive greater condemnation.",
+    "reference": "Mark 12:40 (BAB)",
+    "connected_to": "Mark 12:41",
+    "connected_from": "Mark 12:39"
+  },
+  {
+    "text": "As Jesus was sitting opposite the treasury, He watched the crowd putting money into it. And many rich people put in large amounts.",
+    "reference": "Mark 12:41 (BAB)",
+    "connected_to": "Mark 12:42",
+    "connected_from": "Mark 12:40"
+  },
+  {
+    "text": "Then one poor widow came and put in two small copper coins, which amounted to a small fraction of a denarius \\put in two lepta, which is a kodrant&#275;s/.",
+    "reference": "Mark 12:42 (BAB)",
+    "connected_to": "Mark 12:43",
+    "connected_from": "Mark 12:41"
+  },
+  {
+    "text": "Jesus called His disciples to Him and said, “Truly I tell you⁺, this poor widow has put more than all the others into the treasury.",
+    "reference": "Mark 12:43 (BAB)",
+    "connected_to": "Mark 12:44",
+    "connected_from": "Mark 12:42"
+  },
+  {
+    "text": "For they all contributed out of their surplus, but she out of her poverty has put in all she had to live on.",
+    "reference": "Mark 12:44 (BAB)",
+    "connected_from": "Mark 12:43"
+  }
+]

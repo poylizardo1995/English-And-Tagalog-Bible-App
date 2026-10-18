@@ -1,0 +1,18 @@
+[
+  {
+    "text": "A Song of the Ascents. Of David. <span class=|reftext|><a href=|#|><b>1</b></a> Behold, how good and how pleasant [is] the dwelling of brothers even together!",
+    "reference": "Psalm 133:1 (BLB)",
+    "connected_to": "Psalm 133:2"
+  },
+  {
+    "text": "[It is] good like oil upon the head, running down upon the beard, the beard of Aaron, which is running down upon the mouth of his garments;",
+    "reference": "Psalm 133:2 (BLB)",
+    "connected_to": "Psalm 133:3",
+    "connected_from": "Psalm 133:1"
+  },
+  {
+    "text": "[or] like the dew of Hermon, which is coming down upon the mountains of Zion. For there YHWH commanded the blessing—life even to forever!",
+    "reference": "Psalm 133:3 (BLB)",
+    "connected_from": "Psalm 133:2"
+  }
+]

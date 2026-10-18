@@ -1,0 +1,78 @@
+[
+  {
+    "text": "And YHWH spoke to Moses, saying,",
+    "reference": "Numbers 17:1 (BLB)",
+    "connected_to": "Numbers 17:2"
+  },
+  {
+    "text": "“Speak to the sons of Israel, and get from them a staff, a rod from each house of a father, all their leaders according to the house of their father, twelve rods. You shall write the name of each man on his rod.",
+    "reference": "Numbers 17:2 (BLB)",
+    "connected_to": "Numbers 17:3",
+    "connected_from": "Numbers 17:1"
+  },
+  {
+    "text": "And you shall write the name of Aaron on the rod of Levi, for there shall be one rod is for the head the house of of their fathers.",
+    "reference": "Numbers 17:3 (BLB)",
+    "connected_to": "Numbers 17:4",
+    "connected_from": "Numbers 17:2"
+  },
+  {
+    "text": "And you shall place them in the Tent of Meeting before the face of the Testimony, where I meet with you⁺.",
+    "reference": "Numbers 17:4 (BLB)",
+    "connected_to": "Numbers 17:5",
+    "connected_from": "Numbers 17:3"
+  },
+  {
+    "text": "And it shall come to pass [that] the rod of the man whom I choose, it will blossom. And I will rid Myself of the complaints of the sons of Israel, which they make against you⁺.”",
+    "reference": "Numbers 17:5 (BLB)",
+    "connected_to": "Numbers 17:6",
+    "connected_from": "Numbers 17:4"
+  },
+  {
+    "text": "And Moses spoke to the sons of Israel, and each of their leaders gave to him one rod for a leader, one apiece for a leader, according to the houses of their fathers—twelve rods—and the rod of Aaron [was] in the midst of their rods.",
+    "reference": "Numbers 17:6 (BLB)",
+    "connected_to": "Numbers 17:7",
+    "connected_from": "Numbers 17:5"
+  },
+  {
+    "text": "And Moses placed the rods before the face of YHWH in the Tent of the Testimony.",
+    "reference": "Numbers 17:7 (BLB)",
+    "connected_to": "Numbers 17:8",
+    "connected_from": "Numbers 17:6"
+  },
+  {
+    "text": "And it came to pass on the next day that Moses went into the tabernacle of witness, and behold, the rod of Aaron had sprouted for the house of Levi and put forth buds and produced blossoms and yielded almonds.",
+    "reference": "Numbers 17:8 (BLB)",
+    "connected_to": "Numbers 17:9",
+    "connected_from": "Numbers 17:7"
+  },
+  {
+    "text": "And Moses brought out all the rods from before YHWH to all the sons of Israel, and they looked, and each man took his rod.",
+    "reference": "Numbers 17:9 (BLB)",
+    "connected_to": "Numbers 17:10",
+    "connected_from": "Numbers 17:8"
+  },
+  {
+    "text": "And YHWH said to Moses, “Bring back the rod of Aaron before the face of the Testimony, to be kept as a sign against the rebels, that you may put away their complaints against Me, lest they die.”",
+    "reference": "Numbers 17:10 (BLB)",
+    "connected_to": "Numbers 17:11",
+    "connected_from": "Numbers 17:9"
+  },
+  {
+    "text": "And Moses did as YHWH had commanded him; so he did.",
+    "reference": "Numbers 17:11 (BLB)",
+    "connected_to": "Numbers 17:12",
+    "connected_from": "Numbers 17:10"
+  },
+  {
+    "text": "And the sons of Israel spoke to Moses, saying, “Behold, we have expired, we have perished, all of us have perished.",
+    "reference": "Numbers 17:12 (BLB)",
+    "connected_to": "Numbers 17:13",
+    "connected_from": "Numbers 17:11"
+  },
+  {
+    "text": "Whoever [is] at all drawing near unto the tabernacle of YHWH, he must die. Shall we all utterly die?”",
+    "reference": "Numbers 17:13 (BLB)",
+    "connected_from": "Numbers 17:12"
+  }
+]

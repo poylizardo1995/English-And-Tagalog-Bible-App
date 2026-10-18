@@ -1,0 +1,30 @@
+[
+  {
+    "text": "A Psalm of thanksgiving. Make a joyful noise unto Jehovah, all ye lands.",
+    "reference": "Psalm 100:1 (ASV)",
+    "connected_to": "Psalm 100:2"
+  },
+  {
+    "text": "Serve Jehovah with gladness: Come before his presence with singing.",
+    "reference": "Psalm 100:2 (ASV)",
+    "connected_to": "Psalm 100:3",
+    "connected_from": "Psalm 100:1"
+  },
+  {
+    "text": "Know ye that Jehovah, he is God: It is he that hath made us, and we are his; We are his people, and the sheep of his pasture.",
+    "reference": "Psalm 100:3 (ASV)",
+    "connected_to": "Psalm 100:4",
+    "connected_from": "Psalm 100:2"
+  },
+  {
+    "text": "Enter into his gates with thanksgiving, And into his courts with praise: Give thanks unto him, and bless his name.",
+    "reference": "Psalm 100:4 (ASV)",
+    "connected_to": "Psalm 100:5",
+    "connected_from": "Psalm 100:3"
+  },
+  {
+    "text": "For Jehovah is good; his lovingkindness endureth for ever, And his faithfulness unto all generations.",
+    "reference": "Psalm 100:5 (ASV)",
+    "connected_from": "Psalm 100:4"
+  }
+]

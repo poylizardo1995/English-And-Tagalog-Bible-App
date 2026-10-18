@@ -1,0 +1,174 @@
+[
+  {
+    "text": "And the LORD spake unto Moses, saying,",
+    "reference": "Numbers 34:1 (ERV)",
+    "connected_to": "Numbers 34:2"
+  },
+  {
+    "text": "Command the children of Israel, and say unto them, When ye come into the land of Canaan, (this is the land that shall fall unto you for an inheritance, even the land of Canaan according to the borders thereof,)",
+    "reference": "Numbers 34:2 (ERV)",
+    "connected_to": "Numbers 34:3",
+    "connected_from": "Numbers 34:1"
+  },
+  {
+    "text": "then your south quarter shall be from the wilderness of Zin along by the side of Edom, and your south border shall be from the end of the Salt Sea eastward:",
+    "reference": "Numbers 34:3 (ERV)",
+    "connected_to": "Numbers 34:4",
+    "connected_from": "Numbers 34:2"
+  },
+  {
+    "text": "and your border shall turn about southward of the ascent of Akrabbim, and pass along to Zin: and the goings out thereof shall be southward of Kadesh-barnea; and it shall go forth to Hazar-addar, and pass along to Azmon:",
+    "reference": "Numbers 34:4 (ERV)",
+    "connected_to": "Numbers 34:5",
+    "connected_from": "Numbers 34:3"
+  },
+  {
+    "text": "and the border shall turn about from Azmon unto the brook of Egypt, and the goings out thereof shall be at the sea.",
+    "reference": "Numbers 34:5 (ERV)",
+    "connected_to": "Numbers 34:6",
+    "connected_from": "Numbers 34:4"
+  },
+  {
+    "text": "And for the western border, ye shall have the great sea and the border thereof: this shall be your west border.",
+    "reference": "Numbers 34:6 (ERV)",
+    "connected_to": "Numbers 34:7",
+    "connected_from": "Numbers 34:5"
+  },
+  {
+    "text": "And this shall be your north border: from the great sea ye shall mark out for you mount Hor:",
+    "reference": "Numbers 34:7 (ERV)",
+    "connected_to": "Numbers 34:8",
+    "connected_from": "Numbers 34:6"
+  },
+  {
+    "text": "from mount Hor ye shall mark out unto the entering in of Hamath; and the goings out of the border shall be at Zedad:",
+    "reference": "Numbers 34:8 (ERV)",
+    "connected_to": "Numbers 34:9",
+    "connected_from": "Numbers 34:7"
+  },
+  {
+    "text": "and the border shall go forth to Ziphron, and the goings out thereof shall be at Hazar-enan: this shall be your north border.",
+    "reference": "Numbers 34:9 (ERV)",
+    "connected_to": "Numbers 34:10",
+    "connected_from": "Numbers 34:8"
+  },
+  {
+    "text": "And ye shall mark out your east border from Hazar-enan to Shepham:",
+    "reference": "Numbers 34:10 (ERV)",
+    "connected_to": "Numbers 34:11",
+    "connected_from": "Numbers 34:9"
+  },
+  {
+    "text": "and the border shall go down from Shepham to Riblah, on the east side of Ain; and the border shall go down, and shall reach unto the side of the sea of Chinnereth eastward:",
+    "reference": "Numbers 34:11 (ERV)",
+    "connected_to": "Numbers 34:12",
+    "connected_from": "Numbers 34:10"
+  },
+  {
+    "text": "and the border shall go down to Jordan, and the goings out thereof shall be at the Salt Sea: this shall be your land according to the borders thereof round about.",
+    "reference": "Numbers 34:12 (ERV)",
+    "connected_to": "Numbers 34:13",
+    "connected_from": "Numbers 34:11"
+  },
+  {
+    "text": "And Moses commanded the children of Israel, saying, This is the land which ye shall inherit by lot, which the LORD hath commanded to give unto the nine tribes, and to the half tribe:",
+    "reference": "Numbers 34:13 (ERV)",
+    "connected_to": "Numbers 34:14",
+    "connected_from": "Numbers 34:12"
+  },
+  {
+    "text": "for the tribe of the children of Reuben according to their fathers’ houses, and the tribe of the children of Gad according to their fathers’ houses, have received, and the half tribe of Manasseh have received, their inheritance:",
+    "reference": "Numbers 34:14 (ERV)",
+    "connected_to": "Numbers 34:15",
+    "connected_from": "Numbers 34:13"
+  },
+  {
+    "text": "the two tribes and the half tribe have received their inheritance beyond the Jordan at Jericho eastward, toward the sunrising.",
+    "reference": "Numbers 34:15 (ERV)",
+    "connected_to": "Numbers 34:16",
+    "connected_from": "Numbers 34:14"
+  },
+  {
+    "text": "And the LORD spake unto Moses, saying,",
+    "reference": "Numbers 34:16 (ERV)",
+    "connected_to": "Numbers 34:17",
+    "connected_from": "Numbers 34:15"
+  },
+  {
+    "text": "These are the names of the men which shall divide the land unto you for inheritance: Eleazar the priest, and Joshua the son of Nun.",
+    "reference": "Numbers 34:17 (ERV)",
+    "connected_to": "Numbers 34:18",
+    "connected_from": "Numbers 34:16"
+  },
+  {
+    "text": "And ye shall take one prince of every tribe, to divide the land for inheritance.",
+    "reference": "Numbers 34:18 (ERV)",
+    "connected_to": "Numbers 34:19",
+    "connected_from": "Numbers 34:17"
+  },
+  {
+    "text": "And these are the names of the men: of the tribe of Judah, Caleb the son of Jephunneh.",
+    "reference": "Numbers 34:19 (ERV)",
+    "connected_to": "Numbers 34:20",
+    "connected_from": "Numbers 34:18"
+  },
+  {
+    "text": "And of the tribe of the children of Simeon, Shemuel the son of Ammihud.",
+    "reference": "Numbers 34:20 (ERV)",
+    "connected_to": "Numbers 34:21",
+    "connected_from": "Numbers 34:19"
+  },
+  {
+    "text": "Of the tribe of Benjamin, Elidad the son of Chislon.",
+    "reference": "Numbers 34:21 (ERV)",
+    "connected_to": "Numbers 34:22",
+    "connected_from": "Numbers 34:20"
+  },
+  {
+    "text": "And of the tribe of the children of Dan a prince, Bukki the son of Jogli.",
+    "reference": "Numbers 34:22 (ERV)",
+    "connected_to": "Numbers 34:23",
+    "connected_from": "Numbers 34:21"
+  },
+  {
+    "text": "Of the children of Joseph: of the tribe of the children of Manasseh a prince, Hanniel the son of Ephod:",
+    "reference": "Numbers 34:23 (ERV)",
+    "connected_to": "Numbers 34:24",
+    "connected_from": "Numbers 34:22"
+  },
+  {
+    "text": "and of the tribe of the children of Ephraim a prince, Kemuel the son of Shiphtan.",
+    "reference": "Numbers 34:24 (ERV)",
+    "connected_to": "Numbers 34:25",
+    "connected_from": "Numbers 34:23"
+  },
+  {
+    "text": "And of the tribe of the children of Zebulun a prince, Elizaphan the son of Parnach.",
+    "reference": "Numbers 34:25 (ERV)",
+    "connected_to": "Numbers 34:26",
+    "connected_from": "Numbers 34:24"
+  },
+  {
+    "text": "And of the tribe of the children of Issachar a prince, Paltiel the son of Azzan.",
+    "reference": "Numbers 34:26 (ERV)",
+    "connected_to": "Numbers 34:27",
+    "connected_from": "Numbers 34:25"
+  },
+  {
+    "text": "And of the tribe of the children of Asher a prince, Ahihud the son of Shelomi.",
+    "reference": "Numbers 34:27 (ERV)",
+    "connected_to": "Numbers 34:28",
+    "connected_from": "Numbers 34:26"
+  },
+  {
+    "text": "And of the tribe of the children of Naphtali a prince, Pedahel the son of Ammihud.",
+    "reference": "Numbers 34:28 (ERV)",
+    "connected_to": "Numbers 34:29",
+    "connected_from": "Numbers 34:27"
+  },
+  {
+    "text": "These are they whom the LORD commanded to divide the inheritance unto the children of Israel in the land of Canaan.",
+    "reference": "Numbers 34:29 (ERV)",
+    "connected_from": "Numbers 34:28"
+  }
+]

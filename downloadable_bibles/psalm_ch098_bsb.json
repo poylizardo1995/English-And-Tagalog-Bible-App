@@ -1,0 +1,54 @@
+[
+  {
+    "text": "A Psalm. Sing to the LORD a new song, for He has done wonders; His right hand and holy arm have gained Him the victory.",
+    "reference": "Psalm 98:1 (BSB)",
+    "connected_to": "Psalm 98:2"
+  },
+  {
+    "text": "The LORD has proclaimed His salvation and revealed His righteousness to the nations.",
+    "reference": "Psalm 98:2 (BSB)",
+    "connected_to": "Psalm 98:3",
+    "connected_from": "Psalm 98:1"
+  },
+  {
+    "text": "He has remembered His love and faithfulness to the house of Israel; all the ends of the earth have seen the salvation of our God.",
+    "reference": "Psalm 98:3 (BSB)",
+    "connected_to": "Psalm 98:4",
+    "connected_from": "Psalm 98:2"
+  },
+  {
+    "text": "Make a joyful noise to the LORD, all the earth; break forth—let your cry ring out, and sing praises!",
+    "reference": "Psalm 98:4 (BSB)",
+    "connected_to": "Psalm 98:5",
+    "connected_from": "Psalm 98:3"
+  },
+  {
+    "text": "Sing praises to the LORD with the lyre, in melodious song with the harp.",
+    "reference": "Psalm 98:5 (BSB)",
+    "connected_to": "Psalm 98:6",
+    "connected_from": "Psalm 98:4"
+  },
+  {
+    "text": "With trumpets and the blast of the ram’s horn shout for joy before the LORD, the King.",
+    "reference": "Psalm 98:6 (BSB)",
+    "connected_to": "Psalm 98:7",
+    "connected_from": "Psalm 98:5"
+  },
+  {
+    "text": "Let the sea resound, and all that fills it, the world, and all who dwell in it.",
+    "reference": "Psalm 98:7 (BSB)",
+    "connected_to": "Psalm 98:8",
+    "connected_from": "Psalm 98:6"
+  },
+  {
+    "text": "Let the rivers clap their hands, let the mountains sing together for joy",
+    "reference": "Psalm 98:8 (BSB)",
+    "connected_to": "Psalm 98:9",
+    "connected_from": "Psalm 98:7"
+  },
+  {
+    "text": "before the LORD, for He comes to judge the earth. He will judge the world with righteousness and the peoples with equity.",
+    "reference": "Psalm 98:9 (BSB)",
+    "connected_from": "Psalm 98:8"
+  }
+]

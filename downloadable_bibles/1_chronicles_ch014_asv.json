@@ -1,0 +1,102 @@
+[
+  {
+    "text": "And Hiram king of Tyre sent messengers to David, and cedar-trees, and masons, and carpenters, to build him a house.",
+    "reference": "1 Chronicles 14:1 (ASV)",
+    "connected_to": "1 Chronicles 14:2"
+  },
+  {
+    "text": "And David perceived that Jehovah had established him king over Israel; for his kingdom was exalted on high, for his people Israel’s sake.",
+    "reference": "1 Chronicles 14:2 (ASV)",
+    "connected_to": "1 Chronicles 14:3",
+    "connected_from": "1 Chronicles 14:1"
+  },
+  {
+    "text": "And David took more wives at Jerusalem; and David begat more sons and daughters.",
+    "reference": "1 Chronicles 14:3 (ASV)",
+    "connected_to": "1 Chronicles 14:4",
+    "connected_from": "1 Chronicles 14:2"
+  },
+  {
+    "text": "And these are the names of the children whom he had in Jerusalem: Shammua, and Shobab, Nathan, and Solomon,",
+    "reference": "1 Chronicles 14:4 (ASV)",
+    "connected_to": "1 Chronicles 14:5",
+    "connected_from": "1 Chronicles 14:3"
+  },
+  {
+    "text": "and Ibhar, and Elishua, and Elpelet,",
+    "reference": "1 Chronicles 14:5 (ASV)",
+    "connected_to": "1 Chronicles 14:6",
+    "connected_from": "1 Chronicles 14:4"
+  },
+  {
+    "text": "and Nogah, and Nepheg, and Japhia,",
+    "reference": "1 Chronicles 14:6 (ASV)",
+    "connected_to": "1 Chronicles 14:7",
+    "connected_from": "1 Chronicles 14:5"
+  },
+  {
+    "text": "and Elishama, and Beeliada, and Eliphelet.",
+    "reference": "1 Chronicles 14:7 (ASV)",
+    "connected_to": "1 Chronicles 14:8",
+    "connected_from": "1 Chronicles 14:6"
+  },
+  {
+    "text": "And when the Philistines heard that David was anointed king over all Israel, all the Philistines went up to seek David: and David heard of it, and went out against them.",
+    "reference": "1 Chronicles 14:8 (ASV)",
+    "connected_to": "1 Chronicles 14:9",
+    "connected_from": "1 Chronicles 14:7"
+  },
+  {
+    "text": "Now the Philistines had come and made a raid in the valley of Rephaim.",
+    "reference": "1 Chronicles 14:9 (ASV)",
+    "connected_to": "1 Chronicles 14:10",
+    "connected_from": "1 Chronicles 14:8"
+  },
+  {
+    "text": "And David inquired of God, saying, Shall I go up against the Philistines? and wilt thou deliver them into my hand? And Jehovah said unto him, Go up; for I will deliver them into thy hand.",
+    "reference": "1 Chronicles 14:10 (ASV)",
+    "connected_to": "1 Chronicles 14:11",
+    "connected_from": "1 Chronicles 14:9"
+  },
+  {
+    "text": "So they came up to Baal-perazim, and David smote them there; and David said, God hath broken mine enemies by my hand, like the breach of waters. Therefore they called the name of that place Baal-perazim.",
+    "reference": "1 Chronicles 14:11 (ASV)",
+    "connected_to": "1 Chronicles 14:12",
+    "connected_from": "1 Chronicles 14:10"
+  },
+  {
+    "text": "And they left their gods there; and David gave commandment, and they were burned with fire.",
+    "reference": "1 Chronicles 14:12 (ASV)",
+    "connected_to": "1 Chronicles 14:13",
+    "connected_from": "1 Chronicles 14:11"
+  },
+  {
+    "text": "And the Philistines yet again made a raid in the valley.",
+    "reference": "1 Chronicles 14:13 (ASV)",
+    "connected_to": "1 Chronicles 14:14",
+    "connected_from": "1 Chronicles 14:12"
+  },
+  {
+    "text": "And David inquired again of God; and God said unto him, Thou shalt not go up after them: turn away from them, and come upon them over against the mulberry-trees.",
+    "reference": "1 Chronicles 14:14 (ASV)",
+    "connected_to": "1 Chronicles 14:15",
+    "connected_from": "1 Chronicles 14:13"
+  },
+  {
+    "text": "And it shall be, when thou hearest the sound of marching in the tops of the mulberry-trees, that then thou shalt go out to battle; for God is gone out before thee to smite the host of the Philistines.",
+    "reference": "1 Chronicles 14:15 (ASV)",
+    "connected_to": "1 Chronicles 14:16",
+    "connected_from": "1 Chronicles 14:14"
+  },
+  {
+    "text": "And David did as God commanded him: and they smote the host of the Philistines from Gibeon even to Gezer.",
+    "reference": "1 Chronicles 14:16 (ASV)",
+    "connected_to": "1 Chronicles 14:17",
+    "connected_from": "1 Chronicles 14:15"
+  },
+  {
+    "text": "And the fame of David went out into all lands; and Jehovah brought the fear of him upon all nations.",
+    "reference": "1 Chronicles 14:17 (ASV)",
+    "connected_from": "1 Chronicles 14:16"
+  }
+]

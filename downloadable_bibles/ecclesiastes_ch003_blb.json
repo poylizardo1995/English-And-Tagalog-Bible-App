@@ -1,0 +1,132 @@
+[
+  {
+    "text": "To everything [there is] a season, and a time for every [thing] desired under the heavens:",
+    "reference": "Ecclesiastes 3:1 (BLB)",
+    "connected_to": "Ecclesiastes 3:2"
+  },
+  {
+    "text": "A time to give birth and a time to die, a time to plant and a time to pluck up the planted,",
+    "reference": "Ecclesiastes 3:2 (BLB)",
+    "connected_to": "Ecclesiastes 3:3",
+    "connected_from": "Ecclesiastes 3:1"
+  },
+  {
+    "text": "a time to kill and a time to heal, a time to break down and a time to build up,",
+    "reference": "Ecclesiastes 3:3 (BLB)",
+    "connected_to": "Ecclesiastes 3:4",
+    "connected_from": "Ecclesiastes 3:2"
+  },
+  {
+    "text": "a time to weep and a time to laugh, a time to mourn and a time to dance,",
+    "reference": "Ecclesiastes 3:4 (BLB)",
+    "connected_to": "Ecclesiastes 3:5",
+    "connected_from": "Ecclesiastes 3:3"
+  },
+  {
+    "text": "a time to cast away stones and a time to gather stones, a time to embrace and a time to refrain from embracing,",
+    "reference": "Ecclesiastes 3:5 (BLB)",
+    "connected_to": "Ecclesiastes 3:6",
+    "connected_from": "Ecclesiastes 3:4"
+  },
+  {
+    "text": "a time to seek and a time to lose, a time to keep and a time to cast away,",
+    "reference": "Ecclesiastes 3:6 (BLB)",
+    "connected_to": "Ecclesiastes 3:7",
+    "connected_from": "Ecclesiastes 3:5"
+  },
+  {
+    "text": "a time to tear and a time to sew, a time to be silent and a time to speak,",
+    "reference": "Ecclesiastes 3:7 (BLB)",
+    "connected_to": "Ecclesiastes 3:8",
+    "connected_from": "Ecclesiastes 3:6"
+  },
+  {
+    "text": "a time to love and a time to hate, a time of war and a time of peace.",
+    "reference": "Ecclesiastes 3:8 (BLB)",
+    "connected_to": "Ecclesiastes 3:9",
+    "connected_from": "Ecclesiastes 3:7"
+  },
+  {
+    "text": "What [is] the profit of the one making in that which he toils?",
+    "reference": "Ecclesiastes 3:9 (BLB)",
+    "connected_to": "Ecclesiastes 3:10",
+    "connected_from": "Ecclesiastes 3:8"
+  },
+  {
+    "text": "I have seen the task that God has given to the sons of man, to be occupied with it.",
+    "reference": "Ecclesiastes 3:10 (BLB)",
+    "connected_to": "Ecclesiastes 3:11",
+    "connected_from": "Ecclesiastes 3:9"
+  },
+  {
+    "text": "He has made everything beautiful in its time. He has also eternity put in their heart, without which a man cannot find out the work that God has done from beginning even to end.",
+    "reference": "Ecclesiastes 3:11 (BLB)",
+    "connected_to": "Ecclesiastes 3:12",
+    "connected_from": "Ecclesiastes 3:10"
+  },
+  {
+    "text": "I know that there is nothing good for them, but than to rejoice and to do good during their lives,",
+    "reference": "Ecclesiastes 3:12 (BLB)",
+    "connected_to": "Ecclesiastes 3:13",
+    "connected_from": "Ecclesiastes 3:11"
+  },
+  {
+    "text": "and also [that] every man should eat and drink and see good in all his toil—it [is] a gift of God.",
+    "reference": "Ecclesiastes 3:13 (BLB)",
+    "connected_to": "Ecclesiastes 3:14",
+    "connected_from": "Ecclesiastes 3:12"
+  },
+  {
+    "text": "I know that everything that God does, it will be forever; to it nothing can be added, and from it nothing can be diminished; and God has done [it] that they should fear from before His face.",
+    "reference": "Ecclesiastes 3:14 (BLB)",
+    "connected_to": "Ecclesiastes 3:15",
+    "connected_from": "Ecclesiastes 3:13"
+  },
+  {
+    "text": "That which has been already, it [is]; and that which is to be, it has already been—and God requires that which is pursued.",
+    "reference": "Ecclesiastes 3:15 (BLB)",
+    "connected_to": "Ecclesiastes 3:16",
+    "connected_from": "Ecclesiastes 3:14"
+  },
+  {
+    "text": "And again I saw under the sun that in the place of judgment there [was] wickedness, and [in] the place of righteousness, there [was] wickedness.",
+    "reference": "Ecclesiastes 3:16 (BLB)",
+    "connected_to": "Ecclesiastes 3:17",
+    "connected_from": "Ecclesiastes 3:15"
+  },
+  {
+    "text": "I said in my heart, “The righteous and the wicked, God will judge, because a time [is] to every activity, and for every work there.”",
+    "reference": "Ecclesiastes 3:17 (BLB)",
+    "connected_to": "Ecclesiastes 3:18",
+    "connected_from": "Ecclesiastes 3:16"
+  },
+  {
+    "text": "I said in my heart concerning the manner of the sons of man, “God [is] testing them, that they might see that they [are] beasts—they themselves.”",
+    "reference": "Ecclesiastes 3:18 (BLB)",
+    "connected_to": "Ecclesiastes 3:19",
+    "connected_from": "Ecclesiastes 3:17"
+  },
+  {
+    "text": "For an event [is to] the sons of man, and an event [is to] the beasts, one [is] and an event for them: As the death of this one, so [is] the death of this one; and one breath [is] to all, and the advantage of the man over the beast [is] nothing—for all [is] vapor.",
+    "reference": "Ecclesiastes 3:19 (BLB)",
+    "connected_to": "Ecclesiastes 3:20",
+    "connected_from": "Ecclesiastes 3:18"
+  },
+  {
+    "text": "All are going to one place; all are from the dust, and all return to the dust.",
+    "reference": "Ecclesiastes 3:20 (BLB)",
+    "connected_to": "Ecclesiastes 3:21",
+    "connected_from": "Ecclesiastes 3:19"
+  },
+  {
+    "text": "Who knows [if] the spirit of the sons of man, it is ascending upward, and the spirit of the beast, it is desending downward into the earth?",
+    "reference": "Ecclesiastes 3:21 (BLB)",
+    "connected_to": "Ecclesiastes 3:22",
+    "connected_from": "Ecclesiastes 3:20"
+  },
+  {
+    "text": "And I saw that nothing [is] better than that the man should rejoice in his own works, for that [is] his portion. For who can bring him to see what will come after him?",
+    "reference": "Ecclesiastes 3:22 (BLB)",
+    "connected_from": "Ecclesiastes 3:21"
+  }
+]

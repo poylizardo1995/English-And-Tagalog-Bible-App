@@ -1,0 +1,96 @@
+[
+  {
+    "text": "And all the congregation of the children of Israel journeyed from the wilderness of Sin, after their journeys, according to the commandment of the LORD, and pitched in Rephidim: and there was no water for the people to drink.",
+    "reference": "Exodus 17:1 (AKJV)",
+    "connected_to": "Exodus 17:2"
+  },
+  {
+    "text": "Why the people did chide with Moses, and said, Give us water that we may drink. And Moses said to them, Why chide you with me? why do you tempt the LORD?",
+    "reference": "Exodus 17:2 (AKJV)",
+    "connected_to": "Exodus 17:3",
+    "connected_from": "Exodus 17:1"
+  },
+  {
+    "text": "And the people thirsted there for water; and the people murmured against Moses, and said, Why is this that you have brought us up out of Egypt, to kill us and our children and our cattle with thirst?",
+    "reference": "Exodus 17:3 (AKJV)",
+    "connected_to": "Exodus 17:4",
+    "connected_from": "Exodus 17:2"
+  },
+  {
+    "text": "And Moses cried to the LORD, saying, What shall I do to this people? they be almost ready to stone me.",
+    "reference": "Exodus 17:4 (AKJV)",
+    "connected_to": "Exodus 17:5",
+    "connected_from": "Exodus 17:3"
+  },
+  {
+    "text": "And the LORD said to Moses, Go on before the people, and take with you of the elders of Israel; and your rod, with which you smote the river, take in your hand, and go.",
+    "reference": "Exodus 17:5 (AKJV)",
+    "connected_to": "Exodus 17:6",
+    "connected_from": "Exodus 17:4"
+  },
+  {
+    "text": "Behold, I will stand before you there on the rock in Horeb; and you shall smite the rock, and there shall come water out of it, that the people may drink. And Moses did so in the sight of the elders of Israel.",
+    "reference": "Exodus 17:6 (AKJV)",
+    "connected_to": "Exodus 17:7",
+    "connected_from": "Exodus 17:5"
+  },
+  {
+    "text": "And he called the name of the place Massah, and Meribah, because of the chiding of the children of Israel, and because they tempted the LORD, saying, Is the LORD among us, or not?",
+    "reference": "Exodus 17:7 (AKJV)",
+    "connected_to": "Exodus 17:8",
+    "connected_from": "Exodus 17:6"
+  },
+  {
+    "text": "Then came Amalek, and fought with Israel in Rephidim.",
+    "reference": "Exodus 17:8 (AKJV)",
+    "connected_to": "Exodus 17:9",
+    "connected_from": "Exodus 17:7"
+  },
+  {
+    "text": "And Moses said to Joshua, Choose us out men, and go out, fight with Amalek: to morrow I will stand on the top of the hill with the rod of God in my hand.",
+    "reference": "Exodus 17:9 (AKJV)",
+    "connected_to": "Exodus 17:10",
+    "connected_from": "Exodus 17:8"
+  },
+  {
+    "text": "So Joshua did as Moses had said to him, and fought with Amalek: and Moses, Aaron, and Hur went up to the top of the hill.",
+    "reference": "Exodus 17:10 (AKJV)",
+    "connected_to": "Exodus 17:11",
+    "connected_from": "Exodus 17:9"
+  },
+  {
+    "text": "And it came to pass, when Moses held up his hand, that Israel prevailed: and when he let down his hand, Amalek prevailed.",
+    "reference": "Exodus 17:11 (AKJV)",
+    "connected_to": "Exodus 17:12",
+    "connected_from": "Exodus 17:10"
+  },
+  {
+    "text": "But Moses hands were heavy; and they took a stone, and put it under him, and he sat thereon; and Aaron and Hur stayed up his hands, the one on the one side, and the other on the other side; and his hands were steady until the going down of the sun.",
+    "reference": "Exodus 17:12 (AKJV)",
+    "connected_to": "Exodus 17:13",
+    "connected_from": "Exodus 17:11"
+  },
+  {
+    "text": "And Joshua discomfited Amalek and his people with the edge of the sword.",
+    "reference": "Exodus 17:13 (AKJV)",
+    "connected_to": "Exodus 17:14",
+    "connected_from": "Exodus 17:12"
+  },
+  {
+    "text": "And the LORD said to Moses, Write this for a memorial in a book, and rehearse it in the ears of Joshua: for I will utterly put out the remembrance of Amalek from under heaven.",
+    "reference": "Exodus 17:14 (AKJV)",
+    "connected_to": "Exodus 17:15",
+    "connected_from": "Exodus 17:13"
+  },
+  {
+    "text": "And Moses built an altar, and called the name of it Jehovahnissi:",
+    "reference": "Exodus 17:15 (AKJV)",
+    "connected_to": "Exodus 17:16",
+    "connected_from": "Exodus 17:14"
+  },
+  {
+    "text": "For he said, Because the LORD has sworn that the LORD will have war with Amalek from generation to generation.",
+    "reference": "Exodus 17:16 (AKJV)",
+    "connected_from": "Exodus 17:15"
+  }
+]

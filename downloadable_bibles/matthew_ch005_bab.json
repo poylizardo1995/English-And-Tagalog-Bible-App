@@ -1,0 +1,288 @@
+[
+  {
+    "text": "When Jesus saw the crowds, He went up on the mountain and sat down. His disciples (pupils) came to Him,",
+    "reference": "Matthew 5:1 (BAB)",
+    "connected_to": "Matthew 5:2"
+  },
+  {
+    "text": "and He began to teach them, saying:",
+    "reference": "Matthew 5:2 (BAB)",
+    "connected_to": "Matthew 5:3",
+    "connected_from": "Matthew 5:1"
+  },
+  {
+    "text": "“Blessed are the poor in spirit {pneumati}, for theirs is the kingdom of heaven.",
+    "reference": "Matthew 5:3 (BAB)",
+    "connected_to": "Matthew 5:4",
+    "connected_from": "Matthew 5:2"
+  },
+  {
+    "text": "Blessed are those who mourn, for they will be comforted.",
+    "reference": "Matthew 5:4 (BAB)",
+    "connected_to": "Matthew 5:5",
+    "connected_from": "Matthew 5:3"
+  },
+  {
+    "text": "Blessed are the meek, for they will inherit the earth.",
+    "reference": "Matthew 5:5 (BAB)",
+    "connected_to": "Matthew 5:6",
+    "connected_from": "Matthew 5:4"
+  },
+  {
+    "text": "Blessed are those who hunger and thirst for righteousness, for they will be filled.",
+    "reference": "Matthew 5:6 (BAB)",
+    "connected_to": "Matthew 5:7",
+    "connected_from": "Matthew 5:5"
+  },
+  {
+    "text": "Blessed are the merciful, for they will be shown mercy.",
+    "reference": "Matthew 5:7 (BAB)",
+    "connected_to": "Matthew 5:8",
+    "connected_from": "Matthew 5:6"
+  },
+  {
+    "text": "Blessed are the pure in heart, for they will see God {Theon}.",
+    "reference": "Matthew 5:8 (BAB)",
+    "connected_to": "Matthew 5:9",
+    "connected_from": "Matthew 5:7"
+  },
+  {
+    "text": "Blessed are the peacemakers, for they will be called sons of God {Theou}.",
+    "reference": "Matthew 5:9 (BAB)",
+    "connected_to": "Matthew 5:10",
+    "connected_from": "Matthew 5:8"
+  },
+  {
+    "text": "Blessed are those who are persecuted because of righteousness, for theirs is the kingdom of heaven.",
+    "reference": "Matthew 5:10 (BAB)",
+    "connected_to": "Matthew 5:11",
+    "connected_from": "Matthew 5:9"
+  },
+  {
+    "text": "Blessed are you⁺ when people insult you⁺, persecute you, and falsely say all kinds of evil against you⁺ because of Me.",
+    "reference": "Matthew 5:11 (BAB)",
+    "connected_to": "Matthew 5:12",
+    "connected_from": "Matthew 5:10"
+  },
+  {
+    "text": "Rejoice and be glad, because great is your⁺ reward in heaven, for in the same way they persecuted the prophets before you⁺.",
+    "reference": "Matthew 5:12 (BAB)",
+    "connected_to": "Matthew 5:13",
+    "connected_from": "Matthew 5:11"
+  },
+  {
+    "text": "You⁺ are the salt of the earth. But if the salt loses its savor, how can it be made salty again? It is no longer good for anything, except to be thrown out and trampled by men.",
+    "reference": "Matthew 5:13 (BAB)",
+    "connected_to": "Matthew 5:14",
+    "connected_from": "Matthew 5:12"
+  },
+  {
+    "text": "You⁺ are the light of the world. A city on a hill \\A city lying on a hill/ cannot be hidden.",
+    "reference": "Matthew 5:14 (BAB)",
+    "connected_to": "Matthew 5:15",
+    "connected_from": "Matthew 5:13"
+  },
+  {
+    "text": "Neither do people light a lamp and put it under a basket. Instead, they set it on a stand, and it gives light to everyone in the house.",
+    "reference": "Matthew 5:15 (BAB)",
+    "connected_to": "Matthew 5:16",
+    "connected_from": "Matthew 5:14"
+  },
+  {
+    "text": "In the same way, let your⁺ light shine before men, that they may see your⁺ good deeds (acts) and glorify your⁺ Father {patera} in heaven.",
+    "reference": "Matthew 5:16 (BAB)",
+    "connected_to": "Matthew 5:17",
+    "connected_from": "Matthew 5:15"
+  },
+  {
+    "text": "Do not think that I have come to abolish the Law or the Prophets. I have not come to abolish them, but to fulfill them.",
+    "reference": "Matthew 5:17 (BAB)",
+    "connected_to": "Matthew 5:18",
+    "connected_from": "Matthew 5:16"
+  },
+  {
+    "text": "For I tell you⁺ truly, until heaven and earth pass away, not a single jot, not a stroke of a pen, will disappear from the Law until everything is accomplished.",
+    "reference": "Matthew 5:18 (BAB)",
+    "connected_to": "Matthew 5:19",
+    "connected_from": "Matthew 5:17"
+  },
+  {
+    "text": "So then, whoever breaks one of the least of these commandments and teaches {didaxē} others to do likewise will be called least in the kingdom of heaven; but whoever practices and teaches them will be called great in the kingdom of heaven.",
+    "reference": "Matthew 5:19 (BAB)",
+    "connected_to": "Matthew 5:20",
+    "connected_from": "Matthew 5:18"
+  },
+  {
+    "text": "For I tell you⁺ that unless your⁺ righteousness exceeds that of the scribes and Pharisees, you⁺ will never enter the kingdom of heaven.",
+    "reference": "Matthew 5:20 (BAB)",
+    "connected_to": "Matthew 5:21",
+    "connected_from": "Matthew 5:19"
+  },
+  {
+    "text": "You⁺ have heard that it was said to the ancients, ‘Do not murder <Exo 20:13>’ and ‘Anyone who murders will be subject to judgment.’",
+    "reference": "Matthew 5:21 (BAB)",
+    "connected_to": "Matthew 5:22",
+    "connected_from": "Matthew 5:20"
+  },
+  {
+    "text": "But I tell you⁺ that anyone who is angry with his brother [without cause.] will be subject to judgment. Again, anyone who says to his brother, ‘Raca (Raca),’ will be subject to the Sanhedrin (the Council). But anyone who says, ‘You fool! will be subject to the fire of hell (the hell of fire).",
+    "reference": "Matthew 5:22 (BAB)",
+    "connected_to": "Matthew 5:23",
+    "connected_from": "Matthew 5:21"
+  },
+  {
+    "text": "So if you are offering your gift at the altar and there remember that your brother has something against you,",
+    "reference": "Matthew 5:23 (BAB)",
+    "connected_to": "Matthew 5:24",
+    "connected_from": "Matthew 5:22"
+  },
+  {
+    "text": "leave your gift there before the altar. First go and be reconciled to your brother; then come and offer your gift.",
+    "reference": "Matthew 5:24 (BAB)",
+    "connected_to": "Matthew 5:25",
+    "connected_from": "Matthew 5:23"
+  },
+  {
+    "text": "Reconcile quickly with your adversary, while you are still on the way to court. Otherwise, he may hand you over to the judge, and the judge may hand you over to the officer, and you may be thrown into prison.",
+    "reference": "Matthew 5:25 (BAB)",
+    "connected_to": "Matthew 5:26",
+    "connected_from": "Matthew 5:24"
+  },
+  {
+    "text": "Truly I tell you, you will not get out until you have paid the last penny {kodrant&#275;n}.",
+    "reference": "Matthew 5:26 (BAB)",
+    "connected_to": "Matthew 5:27",
+    "connected_from": "Matthew 5:25"
+  },
+  {
+    "text": "You⁺ have heard that it was said, ‘Do not commit adultery <Exo 20:14>.’",
+    "reference": "Matthew 5:27 (BAB)",
+    "connected_to": "Matthew 5:28",
+    "connected_from": "Matthew 5:26"
+  },
+  {
+    "text": "But I tell you⁺ that anyone who looks at a woman to lust after her has already committed adultery with her in his heart.",
+    "reference": "Matthew 5:28 (BAB)",
+    "connected_to": "Matthew 5:29",
+    "connected_from": "Matthew 5:27"
+  },
+  {
+    "text": "If your right eye causes you to sin, gouge it out and throw it away. It is better for you to lose one part of your body than for your whole body to be thrown into hell {Gehenna}.",
+    "reference": "Matthew 5:29 (BAB)",
+    "connected_to": "Matthew 5:30",
+    "connected_from": "Matthew 5:28"
+  },
+  {
+    "text": "And if your right hand causes you to sin, cut it off and throw it away. It is better for you to lose one part of your body than for your whole body to depart into hell {Gehenna}.",
+    "reference": "Matthew 5:30 (BAB)",
+    "connected_to": "Matthew 5:31",
+    "connected_from": "Matthew 5:29"
+  },
+  {
+    "text": "It has also been said, ‘Whoever divorces his wife must give her a certificate of divorce <Deu 24:1>.’",
+    "reference": "Matthew 5:31 (BAB)",
+    "connected_to": "Matthew 5:32",
+    "connected_from": "Matthew 5:30"
+  },
+  {
+    "text": "But I tell you⁺ that anyone who divorces his wife, except for sexual immorality {porneias}, brings adultery upon her (causes her to commit adultery). And he who marries a divorced woman commits adultery.",
+    "reference": "Matthew 5:32 (BAB)",
+    "connected_to": "Matthew 5:33",
+    "connected_from": "Matthew 5:31"
+  },
+  {
+    "text": "Again, you⁺ have heard that it was said to the ancients, ‘Do not break your oath, but fulfill your vows to the Lord <Num 30:2>.’",
+    "reference": "Matthew 5:33 (BAB)",
+    "connected_to": "Matthew 5:34",
+    "connected_from": "Matthew 5:32"
+  },
+  {
+    "text": "But I tell you⁺ not to swear at all: either by heaven, for it is God’s {Theou} throne;",
+    "reference": "Matthew 5:34 (BAB)",
+    "connected_to": "Matthew 5:35",
+    "connected_from": "Matthew 5:33"
+  },
+  {
+    "text": "or by the earth, for it is His footstool; or by Jerusalem (city of peace), for it is the city of the great King.",
+    "reference": "Matthew 5:35 (BAB)",
+    "connected_to": "Matthew 5:36",
+    "connected_from": "Matthew 5:34"
+  },
+  {
+    "text": "Nor should you swear by your head, for you cannot make a single hair white or black.",
+    "reference": "Matthew 5:36 (BAB)",
+    "connected_to": "Matthew 5:37",
+    "connected_from": "Matthew 5:35"
+  },
+  {
+    "text": "Simply let your⁺ ‘Yes be ‘Yes, and your ‘No, ‘No. Anything more comes from the evil one (from evil).",
+    "reference": "Matthew 5:37 (BAB)",
+    "connected_to": "Matthew 5:38",
+    "connected_from": "Matthew 5:36"
+  },
+  {
+    "text": "You⁺ have heard that it was said, ‘Eye for eye and tooth for tooth <Exo 21:24>.’",
+    "reference": "Matthew 5:38 (BAB)",
+    "connected_to": "Matthew 5:39",
+    "connected_from": "Matthew 5:37"
+  },
+  {
+    "text": "But I tell you⁺ not to resist an evil person. If someone slaps you on your right cheek, turn to him the other also;",
+    "reference": "Matthew 5:39 (BAB)",
+    "connected_to": "Matthew 5:40",
+    "connected_from": "Matthew 5:38"
+  },
+  {
+    "text": "if someone wants to sue you and take your tunic, let him have your cloak as well;",
+    "reference": "Matthew 5:40 (BAB)",
+    "connected_to": "Matthew 5:41",
+    "connected_from": "Matthew 5:39"
+  },
+  {
+    "text": "and if someone forces you to go one mile <4,855 ft / 1,480 m>, go with him two miles \\go with him two./.",
+    "reference": "Matthew 5:41 (BAB)",
+    "connected_to": "Matthew 5:42",
+    "connected_from": "Matthew 5:40"
+  },
+  {
+    "text": "Give to the one who asks you, and do not turn away from the one who wants to borrow from you.",
+    "reference": "Matthew 5:42 (BAB)",
+    "connected_to": "Matthew 5:43",
+    "connected_from": "Matthew 5:41"
+  },
+  {
+    "text": "You⁺ have heard that it was said, ‘Love {Agapēseis} your neighbor <Lev 19:18>’ and ‘Hate your enemy.’",
+    "reference": "Matthew 5:43 (BAB)",
+    "connected_to": "Matthew 5:44",
+    "connected_from": "Matthew 5:42"
+  },
+  {
+    "text": "But I tell you⁺, love {agapate} your⁺ enemies [bless those who curse you, do good to those who hate you,] and pray for those who [spitefully accuse you and] persecute you⁺,",
+    "reference": "Matthew 5:44 (BAB)",
+    "connected_to": "Matthew 5:45",
+    "connected_from": "Matthew 5:43"
+  },
+  {
+    "text": "that you⁺ may be sons of your⁺ Father in heaven. He causes His sun to rise on the evil and the good, and sends rain on the righteous and the unrighteous.",
+    "reference": "Matthew 5:45 (BAB)",
+    "connected_to": "Matthew 5:46",
+    "connected_from": "Matthew 5:44"
+  },
+  {
+    "text": "If you⁺ love {agapēsēte} those who love {agapōntas} you⁺, what reward will you⁺ get? Do not even tax collectors do the same?",
+    "reference": "Matthew 5:46 (BAB)",
+    "connected_to": "Matthew 5:47",
+    "connected_from": "Matthew 5:45"
+  },
+  {
+    "text": "And if you⁺ greet only your⁺ brothers (and sisters), what are you⁺ doing more than others? Do not even Gentiles {ethnikoi} do the same?",
+    "reference": "Matthew 5:47 (BAB)",
+    "connected_to": "Matthew 5:48",
+    "connected_from": "Matthew 5:46"
+  },
+  {
+    "text": "Be perfect (complete), therefore, as your⁺ heavenly Father {Patēr} is perfect.",
+    "reference": "Matthew 5:48 (BAB)",
+    "connected_from": "Matthew 5:47"
+  }
+]

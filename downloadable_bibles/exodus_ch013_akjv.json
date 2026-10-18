@@ -1,0 +1,132 @@
+[
+  {
+    "text": "And the LORD spoke to Moses, saying,",
+    "reference": "Exodus 13:1 (AKJV)",
+    "connected_to": "Exodus 13:2"
+  },
+  {
+    "text": "Sanctify to me all the firstborn, whatever opens the womb among the children of Israel, both of man and of beast: it is mine.",
+    "reference": "Exodus 13:2 (AKJV)",
+    "connected_to": "Exodus 13:3",
+    "connected_from": "Exodus 13:1"
+  },
+  {
+    "text": "And Moses said to the people, Remember this day, in which you came out from Egypt, out of the house of bondage; for by strength of hand the LORD brought you out from this place: there shall no leavened bread be eaten.",
+    "reference": "Exodus 13:3 (AKJV)",
+    "connected_to": "Exodus 13:4",
+    "connected_from": "Exodus 13:2"
+  },
+  {
+    "text": "This day came you out in the month Abib.",
+    "reference": "Exodus 13:4 (AKJV)",
+    "connected_to": "Exodus 13:5",
+    "connected_from": "Exodus 13:3"
+  },
+  {
+    "text": "And it shall be when the LORD shall bring you into the land of the Canaanites, and the Hittites, and the Amorites, and the Hivites, and the Jebusites, which he swore to your fathers to give you, a land flowing with milk and honey, that you shall keep this service in this month.",
+    "reference": "Exodus 13:5 (AKJV)",
+    "connected_to": "Exodus 13:6",
+    "connected_from": "Exodus 13:4"
+  },
+  {
+    "text": "Seven days you shall eat unleavened bread, and in the seventh day shall be a feast to the LORD.",
+    "reference": "Exodus 13:6 (AKJV)",
+    "connected_to": "Exodus 13:7",
+    "connected_from": "Exodus 13:5"
+  },
+  {
+    "text": "Unleavened bread shall be eaten seven days; and there shall no leavened bread be seen with you, neither shall there be leaven seen with you in all your quarters.",
+    "reference": "Exodus 13:7 (AKJV)",
+    "connected_to": "Exodus 13:8",
+    "connected_from": "Exodus 13:6"
+  },
+  {
+    "text": "And you shall show your son in that day, saying, This is done because of that which the LORD did to me when I came forth out of Egypt.",
+    "reference": "Exodus 13:8 (AKJV)",
+    "connected_to": "Exodus 13:9",
+    "connected_from": "Exodus 13:7"
+  },
+  {
+    "text": "And it shall be for a sign to you on your hand, and for a memorial between your eyes, that the LORD’s law may be in your mouth: for with a strong hand has the LORD brought you out of Egypt.",
+    "reference": "Exodus 13:9 (AKJV)",
+    "connected_to": "Exodus 13:10",
+    "connected_from": "Exodus 13:8"
+  },
+  {
+    "text": "You shall therefore keep this ordinance in his season from year to year.",
+    "reference": "Exodus 13:10 (AKJV)",
+    "connected_to": "Exodus 13:11",
+    "connected_from": "Exodus 13:9"
+  },
+  {
+    "text": "And it shall be when the LORD shall bring you into the land of the Canaanites, as he swore to you and to your fathers, and shall give it you,",
+    "reference": "Exodus 13:11 (AKJV)",
+    "connected_to": "Exodus 13:12",
+    "connected_from": "Exodus 13:10"
+  },
+  {
+    "text": "That you shall set apart to the LORD all that opens the matrix, and every firstling that comes of a beast which you have; the males shall be the LORD’s.",
+    "reference": "Exodus 13:12 (AKJV)",
+    "connected_to": "Exodus 13:13",
+    "connected_from": "Exodus 13:11"
+  },
+  {
+    "text": "And every firstling of an ass you shall redeem with a lamb; and if you will not redeem it, then you shall break his neck: and all the firstborn of man among your children shall you redeem.",
+    "reference": "Exodus 13:13 (AKJV)",
+    "connected_to": "Exodus 13:14",
+    "connected_from": "Exodus 13:12"
+  },
+  {
+    "text": "And it shall be when your son asks you in time to come, saying, What is this? that you shall say to him, By strength of hand the LORD brought us out from Egypt, from the house of bondage:",
+    "reference": "Exodus 13:14 (AKJV)",
+    "connected_to": "Exodus 13:15",
+    "connected_from": "Exodus 13:13"
+  },
+  {
+    "text": "And it came to pass, when Pharaoh would hardly let us go, that the LORD slew all the firstborn in the land of Egypt, both the firstborn of man, and the firstborn of beast: therefore I sacrifice to the LORD all that opens the matrix, being males; but all the firstborn of my children I redeem.",
+    "reference": "Exodus 13:15 (AKJV)",
+    "connected_to": "Exodus 13:16",
+    "connected_from": "Exodus 13:14"
+  },
+  {
+    "text": "And it shall be for a token on your hand, and for frontlets between your eyes: for by strength of hand the LORD brought us forth out of Egypt.",
+    "reference": "Exodus 13:16 (AKJV)",
+    "connected_to": "Exodus 13:17",
+    "connected_from": "Exodus 13:15"
+  },
+  {
+    "text": "And it came to pass, when Pharaoh had let the people go, that God led them not through the way of the land of the Philistines, although that was near; for God said, Lest peradventure the people repent when they see war, and they return to Egypt:",
+    "reference": "Exodus 13:17 (AKJV)",
+    "connected_to": "Exodus 13:18",
+    "connected_from": "Exodus 13:16"
+  },
+  {
+    "text": "But God led the people about, through the way of the wilderness of the Red sea: and the children of Israel went up harnessed out of the land of Egypt.",
+    "reference": "Exodus 13:18 (AKJV)",
+    "connected_to": "Exodus 13:19",
+    "connected_from": "Exodus 13:17"
+  },
+  {
+    "text": "And Moses took the bones of Joseph with him: for he had straightly sworn the children of Israel, saying, God will surely visit you; and you shall carry up my bones away hence with you.",
+    "reference": "Exodus 13:19 (AKJV)",
+    "connected_to": "Exodus 13:20",
+    "connected_from": "Exodus 13:18"
+  },
+  {
+    "text": "And they took their journey from Succoth, and encamped in Etham, in the edge of the wilderness.",
+    "reference": "Exodus 13:20 (AKJV)",
+    "connected_to": "Exodus 13:21",
+    "connected_from": "Exodus 13:19"
+  },
+  {
+    "text": "And the LORD went before them by day in a pillar of a cloud, to lead them the way; and by night in a pillar of fire, to give them light; to go by day and night:",
+    "reference": "Exodus 13:21 (AKJV)",
+    "connected_to": "Exodus 13:22",
+    "connected_from": "Exodus 13:20"
+  },
+  {
+    "text": "He took not away the pillar of the cloud by day, nor the pillar of fire by night, from before the people.",
+    "reference": "Exodus 13:22 (AKJV)",
+    "connected_from": "Exodus 13:21"
+  }
+]

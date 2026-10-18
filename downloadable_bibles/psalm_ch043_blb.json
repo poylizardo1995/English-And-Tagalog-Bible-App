@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Judge for me, O God, and plead my cause! From a nation unfaithful, from a man of deceit and injustice, may You deliver me.",
+    "reference": "Psalm 43:1 (BLB)",
+    "connected_to": "Psalm 43:2"
+  },
+  {
+    "text": "For You [are] the God of my strength. Why have You rejected me? Why must I walk in mourning, in the oppression of the enemy?",
+    "reference": "Psalm 43:2 (BLB)",
+    "connected_to": "Psalm 43:3",
+    "connected_from": "Psalm 43:1"
+  },
+  {
+    "text": "Send forth Your light and Your truth; they shall guide me; let them bring me to Your holy mountain, and to Your dwelling place!",
+    "reference": "Psalm 43:3 (BLB)",
+    "connected_to": "Psalm 43:4",
+    "connected_from": "Psalm 43:2"
+  },
+  {
+    "text": "And I will come to the altar of God, to God, the joy of my rejoicing; and I will praise you with the harp, O God, my God.",
+    "reference": "Psalm 43:4 (BLB)",
+    "connected_to": "Psalm 43:5",
+    "connected_from": "Psalm 43:3"
+  },
+  {
+    "text": "Why are you cast down, O my soul, and why are you disquieted within me? Wait for God, for still I will praise Him, the salvation of my face, and my God.",
+    "reference": "Psalm 43:5 (BLB)",
+    "connected_from": "Psalm 43:4"
+  }
+]

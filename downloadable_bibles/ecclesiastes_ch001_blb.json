@@ -1,0 +1,108 @@
+[
+  {
+    "text": "The words of Qoheleth, the son of David, king in Jerusalem.",
+    "reference": "Ecclesiastes 1:1 (BLB)",
+    "connected_to": "Ecclesiastes 1:2"
+  },
+  {
+    "text": "“Vapor of vapors,” says Qoheleth, “Vapor of vapors—the whole [of it] [is] vapor!”",
+    "reference": "Ecclesiastes 1:2 (BLB)",
+    "connected_to": "Ecclesiastes 1:3",
+    "connected_from": "Ecclesiastes 1:1"
+  },
+  {
+    "text": "What profit [is] unto the man from all his toil, with which he toils under the sun?",
+    "reference": "Ecclesiastes 1:3 (BLB)",
+    "connected_to": "Ecclesiastes 1:4",
+    "connected_from": "Ecclesiastes 1:2"
+  },
+  {
+    "text": "A generation is going and a generation is coming, and the earth is standing forever.",
+    "reference": "Ecclesiastes 1:4 (BLB)",
+    "connected_to": "Ecclesiastes 1:5",
+    "connected_from": "Ecclesiastes 1:3"
+  },
+  {
+    "text": "And the sun has risen, and the sun has gone in, and to its place, panting, it is rising there.",
+    "reference": "Ecclesiastes 1:5 (BLB)",
+    "connected_to": "Ecclesiastes 1:6",
+    "connected_from": "Ecclesiastes 1:4"
+  },
+  {
+    "text": "Going toward the south, and turning about to the north—turning about, turning about—the wind is going about, and on its round the wind is returning.",
+    "reference": "Ecclesiastes 1:6 (BLB)",
+    "connected_to": "Ecclesiastes 1:7",
+    "connected_from": "Ecclesiastes 1:5"
+  },
+  {
+    "text": "All the rivers are going to the sea, and the sea it has no filling; to the place from which the rivers come, there they are turning back to go.",
+    "reference": "Ecclesiastes 1:7 (BLB)",
+    "connected_to": "Ecclesiastes 1:8",
+    "connected_from": "Ecclesiastes 1:6"
+  },
+  {
+    "text": "All the things [are] wearisome—a man is not able to speak; the eye is not satisfied from seeing, and the ear is not filled from hearing.",
+    "reference": "Ecclesiastes 1:8 (BLB)",
+    "connected_to": "Ecclesiastes 1:9",
+    "connected_from": "Ecclesiastes 1:7"
+  },
+  {
+    "text": "What has been, it will be; and what has been done, it will be done; and nothing at all [is] new under the sun.",
+    "reference": "Ecclesiastes 1:9 (BLB)",
+    "connected_to": "Ecclesiastes 1:10",
+    "connected_from": "Ecclesiastes 1:8"
+  },
+  {
+    "text": "Is there anything of which one may say, “See this? It [is] new!” Already it has been in the ages that were from before our faces.",
+    "reference": "Ecclesiastes 1:10 (BLB)",
+    "connected_to": "Ecclesiastes 1:11",
+    "connected_from": "Ecclesiastes 1:9"
+  },
+  {
+    "text": "There is no remembrance of the former [things], and of the latter [things] that will come to be, there will be no remembrance of them with those who come to be after [them].",
+    "reference": "Ecclesiastes 1:11 (BLB)",
+    "connected_to": "Ecclesiastes 1:12",
+    "connected_from": "Ecclesiastes 1:10"
+  },
+  {
+    "text": "I, Qoheleth, was king over Israel in Jerusalem.",
+    "reference": "Ecclesiastes 1:12 (BLB)",
+    "connected_to": "Ecclesiastes 1:13",
+    "connected_from": "Ecclesiastes 1:11"
+  },
+  {
+    "text": "And I gave my heart to search and spy out by wisdom, concerning all that is done under the heavens. This burdensome task God has given to the sons of man, to be occupied with it!",
+    "reference": "Ecclesiastes 1:13 (BLB)",
+    "connected_to": "Ecclesiastes 1:14",
+    "connected_from": "Ecclesiastes 1:12"
+  },
+  {
+    "text": "I have seen all the deeds that are done under the sun, and indeed, all [is] vapor and striving after the wind.",
+    "reference": "Ecclesiastes 1:14 (BLB)",
+    "connected_to": "Ecclesiastes 1:15",
+    "connected_from": "Ecclesiastes 1:13"
+  },
+  {
+    "text": "What is crooked is not able to be straightened, and what is lacking is not able to be counted.",
+    "reference": "Ecclesiastes 1:15 (BLB)",
+    "connected_to": "Ecclesiastes 1:16",
+    "connected_from": "Ecclesiastes 1:14"
+  },
+  {
+    "text": "I spoke with my heart, saying, “Behold, I have become great, and I have added wisdom over all who were before me in Jerusalem, and my heart has seen great wisdom and knowledge.”",
+    "reference": "Ecclesiastes 1:16 (BLB)",
+    "connected_to": "Ecclesiastes 1:17",
+    "connected_from": "Ecclesiastes 1:15"
+  },
+  {
+    "text": "And I set my heart to know wisdom, and to know madness and folly; I have known that this also—it [is] a striving after the wind.",
+    "reference": "Ecclesiastes 1:17 (BLB)",
+    "connected_to": "Ecclesiastes 1:18",
+    "connected_from": "Ecclesiastes 1:16"
+  },
+  {
+    "text": "For with an abundance of wisdom [is] much grief, and he [who] adds to knowledge adds to sorrow.",
+    "reference": "Ecclesiastes 1:18 (BLB)",
+    "connected_from": "Ecclesiastes 1:17"
+  }
+]

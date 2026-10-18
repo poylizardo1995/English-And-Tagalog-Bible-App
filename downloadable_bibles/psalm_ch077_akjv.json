@@ -1,0 +1,120 @@
+[
+  {
+    "text": "I cried to God with my voice, even to God with my voice; and he gave ear to me.",
+    "reference": "Psalm 77:1 (AKJV)",
+    "connected_to": "Psalm 77:2"
+  },
+  {
+    "text": "In the day of my trouble I sought the Lord: my sore ran in the night, and ceased not: my soul refused to be comforted.",
+    "reference": "Psalm 77:2 (AKJV)",
+    "connected_to": "Psalm 77:3",
+    "connected_from": "Psalm 77:1"
+  },
+  {
+    "text": "I remembered God, and was troubled: I complained, and my spirit was overwhelmed. Selah.",
+    "reference": "Psalm 77:3 (AKJV)",
+    "connected_to": "Psalm 77:4",
+    "connected_from": "Psalm 77:2"
+  },
+  {
+    "text": "You hold my eyes waking: I am so troubled that I cannot speak.",
+    "reference": "Psalm 77:4 (AKJV)",
+    "connected_to": "Psalm 77:5",
+    "connected_from": "Psalm 77:3"
+  },
+  {
+    "text": "I have considered the days of old, the years of ancient times.",
+    "reference": "Psalm 77:5 (AKJV)",
+    "connected_to": "Psalm 77:6",
+    "connected_from": "Psalm 77:4"
+  },
+  {
+    "text": "I call to remembrance my song in the night: I commune with my own heart: and my spirit made diligent search.",
+    "reference": "Psalm 77:6 (AKJV)",
+    "connected_to": "Psalm 77:7",
+    "connected_from": "Psalm 77:5"
+  },
+  {
+    "text": "Will the Lord cast off for ever? and will he be favorable no more?",
+    "reference": "Psalm 77:7 (AKJV)",
+    "connected_to": "Psalm 77:8",
+    "connected_from": "Psalm 77:6"
+  },
+  {
+    "text": "Is his mercy clean gone for ever? does his promise fail for ever more?",
+    "reference": "Psalm 77:8 (AKJV)",
+    "connected_to": "Psalm 77:9",
+    "connected_from": "Psalm 77:7"
+  },
+  {
+    "text": "Has God forgotten to be gracious? has he in anger shut up his tender mercies? Selah.",
+    "reference": "Psalm 77:9 (AKJV)",
+    "connected_to": "Psalm 77:10",
+    "connected_from": "Psalm 77:8"
+  },
+  {
+    "text": "And I said, This is my infirmity: but I will remember the years of the right hand of the most High.",
+    "reference": "Psalm 77:10 (AKJV)",
+    "connected_to": "Psalm 77:11",
+    "connected_from": "Psalm 77:9"
+  },
+  {
+    "text": "I will remember the works of the LORD: surely I will remember your wonders of old.",
+    "reference": "Psalm 77:11 (AKJV)",
+    "connected_to": "Psalm 77:12",
+    "connected_from": "Psalm 77:10"
+  },
+  {
+    "text": "I will meditate also of all your work, and talk of your doings.",
+    "reference": "Psalm 77:12 (AKJV)",
+    "connected_to": "Psalm 77:13",
+    "connected_from": "Psalm 77:11"
+  },
+  {
+    "text": "Your way, O God, is in the sanctuary: who is so great a God as our God?",
+    "reference": "Psalm 77:13 (AKJV)",
+    "connected_to": "Psalm 77:14",
+    "connected_from": "Psalm 77:12"
+  },
+  {
+    "text": "You are the God that do wonders: you have declared your strength among the people.",
+    "reference": "Psalm 77:14 (AKJV)",
+    "connected_to": "Psalm 77:15",
+    "connected_from": "Psalm 77:13"
+  },
+  {
+    "text": "You have with your arm redeemed your people, the sons of Jacob and Joseph. Selah.",
+    "reference": "Psalm 77:15 (AKJV)",
+    "connected_to": "Psalm 77:16",
+    "connected_from": "Psalm 77:14"
+  },
+  {
+    "text": "The waters saw you, O God, the waters saw you; they were afraid: the depths also were troubled.",
+    "reference": "Psalm 77:16 (AKJV)",
+    "connected_to": "Psalm 77:17",
+    "connected_from": "Psalm 77:15"
+  },
+  {
+    "text": "The clouds poured out water: the skies sent out a sound: your arrows also went abroad.",
+    "reference": "Psalm 77:17 (AKJV)",
+    "connected_to": "Psalm 77:18",
+    "connected_from": "Psalm 77:16"
+  },
+  {
+    "text": "The voice of your thunder was in the heaven: the lightning lightened the world: the earth trembled and shook.",
+    "reference": "Psalm 77:18 (AKJV)",
+    "connected_to": "Psalm 77:19",
+    "connected_from": "Psalm 77:17"
+  },
+  {
+    "text": "Your way is in the sea, and your path in the great waters, and your footsteps are not known.",
+    "reference": "Psalm 77:19 (AKJV)",
+    "connected_to": "Psalm 77:20",
+    "connected_from": "Psalm 77:18"
+  },
+  {
+    "text": "You led your people like a flock by the hand of Moses and Aaron.",
+    "reference": "Psalm 77:20 (AKJV)",
+    "connected_from": "Psalm 77:19"
+  }
+]

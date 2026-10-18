@@ -1,0 +1,30 @@
+[
+  {
+    "text": "A Song of the Ascents. <span class=|reftext|><a href=|#|><b>1</b></a> Those trusting in YHWH are like Mount Zion—it cannot be shaken; it abides forever.",
+    "reference": "Psalm 125:1 (BLB)",
+    "connected_to": "Psalm 125:2"
+  },
+  {
+    "text": "Jerusalem, the mountains surround her, and YHWH surrounds His people, from now even to forever.",
+    "reference": "Psalm 125:2 (BLB)",
+    "connected_to": "Psalm 125:3",
+    "connected_from": "Psalm 125:1"
+  },
+  {
+    "text": "For the rod of the wicked shall not rest upon the lot of the righteous, so that the righteous do not stretch out their hands to injustice.",
+    "reference": "Psalm 125:3 (BLB)",
+    "connected_to": "Psalm 125:4",
+    "connected_from": "Psalm 125:2"
+  },
+  {
+    "text": "Do good, O YHWH, to the good, and to the upright in their hearts!",
+    "reference": "Psalm 125:4 (BLB)",
+    "connected_to": "Psalm 125:5",
+    "connected_from": "Psalm 125:3"
+  },
+  {
+    "text": "And those turning to their crooked ways, YHWH will lead them away with the workers of iniquity! Peace [be] upon Israel!",
+    "reference": "Psalm 125:5 (BLB)",
+    "connected_from": "Psalm 125:4"
+  }
+]

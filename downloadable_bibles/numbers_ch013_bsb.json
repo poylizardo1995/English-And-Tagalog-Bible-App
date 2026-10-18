@@ -1,0 +1,198 @@
+[
+  {
+    "text": "And the LORD said to Moses,",
+    "reference": "Numbers 13:1 (BSB)",
+    "connected_to": "Numbers 13:2"
+  },
+  {
+    "text": "“Send out for yourself men to spy out the land of Canaan, which I am giving to the Israelites. From each of their fathers’ tribes send one man who is a leader among them.”",
+    "reference": "Numbers 13:2 (BSB)",
+    "connected_to": "Numbers 13:3",
+    "connected_from": "Numbers 13:1"
+  },
+  {
+    "text": "So at the command of the LORD, Moses sent them out from the Wilderness of Paran. All the men were leaders of the Israelites,",
+    "reference": "Numbers 13:3 (BSB)",
+    "connected_to": "Numbers 13:4",
+    "connected_from": "Numbers 13:2"
+  },
+  {
+    "text": "and these were their names: From the tribe of Reuben, Shammua son of Zaccur;",
+    "reference": "Numbers 13:4 (BSB)",
+    "connected_to": "Numbers 13:5",
+    "connected_from": "Numbers 13:3"
+  },
+  {
+    "text": "from the tribe of Simeon, Shaphat son of Hori;",
+    "reference": "Numbers 13:5 (BSB)",
+    "connected_to": "Numbers 13:6",
+    "connected_from": "Numbers 13:4"
+  },
+  {
+    "text": "from the tribe of Judah, Caleb son of Jephunneh;",
+    "reference": "Numbers 13:6 (BSB)",
+    "connected_to": "Numbers 13:7",
+    "connected_from": "Numbers 13:5"
+  },
+  {
+    "text": "from the tribe of Issachar, Igal son of Joseph;",
+    "reference": "Numbers 13:7 (BSB)",
+    "connected_to": "Numbers 13:8",
+    "connected_from": "Numbers 13:6"
+  },
+  {
+    "text": "from the tribe of Ephraim, Hoshea son of Nun;",
+    "reference": "Numbers 13:8 (BSB)",
+    "connected_to": "Numbers 13:9",
+    "connected_from": "Numbers 13:7"
+  },
+  {
+    "text": "from the tribe of Benjamin, Palti son of Raphu;",
+    "reference": "Numbers 13:9 (BSB)",
+    "connected_to": "Numbers 13:10",
+    "connected_from": "Numbers 13:8"
+  },
+  {
+    "text": "from the tribe of Zebulun, Gaddiel son of Sodi;",
+    "reference": "Numbers 13:10 (BSB)",
+    "connected_to": "Numbers 13:11",
+    "connected_from": "Numbers 13:9"
+  },
+  {
+    "text": "from the tribe of Manasseh (a tribe of Joseph), Gaddi son of Susi;",
+    "reference": "Numbers 13:11 (BSB)",
+    "connected_to": "Numbers 13:12",
+    "connected_from": "Numbers 13:10"
+  },
+  {
+    "text": "from the tribe of Dan, Ammiel son of Gemalli;",
+    "reference": "Numbers 13:12 (BSB)",
+    "connected_to": "Numbers 13:13",
+    "connected_from": "Numbers 13:11"
+  },
+  {
+    "text": "from the tribe of Asher, Sethur son of Michael;",
+    "reference": "Numbers 13:13 (BSB)",
+    "connected_to": "Numbers 13:14",
+    "connected_from": "Numbers 13:12"
+  },
+  {
+    "text": "from the tribe of Naphtali, Nahbi son of Vophsi;",
+    "reference": "Numbers 13:14 (BSB)",
+    "connected_to": "Numbers 13:15",
+    "connected_from": "Numbers 13:13"
+  },
+  {
+    "text": "and from the tribe of Gad, Geuel son of Machi.",
+    "reference": "Numbers 13:15 (BSB)",
+    "connected_to": "Numbers 13:16",
+    "connected_from": "Numbers 13:14"
+  },
+  {
+    "text": "These were the names of the men Moses sent to spy out the land; and Moses gave to Hoshea son of Nun the name Joshua.",
+    "reference": "Numbers 13:16 (BSB)",
+    "connected_to": "Numbers 13:17",
+    "connected_from": "Numbers 13:15"
+  },
+  {
+    "text": "When Moses sent them to spy out the land of Canaan, he told them, “Go up through the Negev and into the hill country.",
+    "reference": "Numbers 13:17 (BSB)",
+    "connected_to": "Numbers 13:18",
+    "connected_from": "Numbers 13:16"
+  },
+  {
+    "text": "See what the land is like and whether its people are strong or weak, few or many.",
+    "reference": "Numbers 13:18 (BSB)",
+    "connected_to": "Numbers 13:19",
+    "connected_from": "Numbers 13:17"
+  },
+  {
+    "text": "Is the land where they live good or bad? Are the cities where they dwell open camps or fortifications?",
+    "reference": "Numbers 13:19 (BSB)",
+    "connected_to": "Numbers 13:20",
+    "connected_from": "Numbers 13:18"
+  },
+  {
+    "text": "Is the soil fertile or unproductive? Are there trees in it or not? Be courageous and bring back some of the fruit of the land.” (It was the season for the first ripe grapes.)",
+    "reference": "Numbers 13:20 (BSB)",
+    "connected_to": "Numbers 13:21",
+    "connected_from": "Numbers 13:19"
+  },
+  {
+    "text": "So they went up and spied out the land from the Wilderness of Zin as far as Rehob, toward Lebo-hamath.",
+    "reference": "Numbers 13:21 (BSB)",
+    "connected_to": "Numbers 13:22",
+    "connected_from": "Numbers 13:20"
+  },
+  {
+    "text": "They went up through the Negev and came to Hebron, where Ahiman, Sheshai, and Talmai, the descendants of Anak, dwelled. It had been built seven years before Zoan in Egypt.",
+    "reference": "Numbers 13:22 (BSB)",
+    "connected_to": "Numbers 13:23",
+    "connected_from": "Numbers 13:21"
+  },
+  {
+    "text": "When they came to the Valley of Eshcol, they cut down a branch with a single cluster of grapes, which they carried on a pole between two men. They also took some pomegranates and figs.",
+    "reference": "Numbers 13:23 (BSB)",
+    "connected_to": "Numbers 13:24",
+    "connected_from": "Numbers 13:22"
+  },
+  {
+    "text": "Because of the cluster of grapes the Israelites cut there, that place was called the Valley of Eshcol.",
+    "reference": "Numbers 13:24 (BSB)",
+    "connected_to": "Numbers 13:25",
+    "connected_from": "Numbers 13:23"
+  },
+  {
+    "text": "After forty days the men returned from spying out the land,",
+    "reference": "Numbers 13:25 (BSB)",
+    "connected_to": "Numbers 13:26",
+    "connected_from": "Numbers 13:24"
+  },
+  {
+    "text": "and they went back to Moses, Aaron, and the whole congregation of Israel in the Wilderness of Paran at Kadesh. They brought back a report for the whole congregation and showed them the fruit of the land.",
+    "reference": "Numbers 13:26 (BSB)",
+    "connected_to": "Numbers 13:27",
+    "connected_from": "Numbers 13:25"
+  },
+  {
+    "text": "And they gave this account to Moses: “We went into the land to which you sent us, and indeed, it is flowing with milk and honey. Here is some of its fruit!",
+    "reference": "Numbers 13:27 (BSB)",
+    "connected_to": "Numbers 13:28",
+    "connected_from": "Numbers 13:26"
+  },
+  {
+    "text": "Nevertheless, the people living in the land are strong, and the cities are large and fortified. We even saw the descendants of Anak there.",
+    "reference": "Numbers 13:28 (BSB)",
+    "connected_to": "Numbers 13:29",
+    "connected_from": "Numbers 13:27"
+  },
+  {
+    "text": "The Amalekites live in the land of the Negev; the Hittites, Jebusites, and Amorites live in the hill country; and the Canaanites live by the sea and along the Jordan.”",
+    "reference": "Numbers 13:29 (BSB)",
+    "connected_to": "Numbers 13:30",
+    "connected_from": "Numbers 13:28"
+  },
+  {
+    "text": "Then Caleb quieted the people before Moses and said, “We must go up and take possession of the land, for we can certainly conquer it!”",
+    "reference": "Numbers 13:30 (BSB)",
+    "connected_to": "Numbers 13:31",
+    "connected_from": "Numbers 13:29"
+  },
+  {
+    "text": "But the men who had gone up with him replied, “We cannot go up against the people, for they are stronger than we are!”",
+    "reference": "Numbers 13:31 (BSB)",
+    "connected_to": "Numbers 13:32",
+    "connected_from": "Numbers 13:30"
+  },
+  {
+    "text": "So they gave the Israelites a bad report about the land that they had spied out: “The land we explored devours its inhabitants, and all the people we saw there are great in stature.",
+    "reference": "Numbers 13:32 (BSB)",
+    "connected_to": "Numbers 13:33",
+    "connected_from": "Numbers 13:31"
+  },
+  {
+    "text": "We even saw the Nephilim there—the descendants of Anak that come from the Nephilim! We seemed like grasshoppers in our own sight, and we must have seemed the same to them!”",
+    "reference": "Numbers 13:33 (BSB)",
+    "connected_from": "Numbers 13:32"
+  }
+]

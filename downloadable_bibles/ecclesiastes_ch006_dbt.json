@@ -1,0 +1,72 @@
+[
+  {
+    "text": "There is an evil that I have seen under the sun, and it is frequent among men:",
+    "reference": "Ecclesiastes 6:1 (DBT)",
+    "connected_to": "Ecclesiastes 6:2"
+  },
+  {
+    "text": "one to whom God giveth riches, wealth, and honour, and he wanteth nothing for his soul of all that he desireth, yet God giveth him not power to eat thereof, but a stranger eateth it: this is vanity, and a sore evil.",
+    "reference": "Ecclesiastes 6:2 (DBT)",
+    "connected_to": "Ecclesiastes 6:3",
+    "connected_from": "Ecclesiastes 6:1"
+  },
+  {
+    "text": "If a man beget a hundred [sons], and live many years, so that the days of his years be many, but his soul be not filled with good, and also he have no burial, I say an untimely birth is better than he.",
+    "reference": "Ecclesiastes 6:3 (DBT)",
+    "connected_to": "Ecclesiastes 6:4",
+    "connected_from": "Ecclesiastes 6:2"
+  },
+  {
+    "text": "For it cometh in vanity, and departeth in darkness, and its name is covered with darkness;",
+    "reference": "Ecclesiastes 6:4 (DBT)",
+    "connected_to": "Ecclesiastes 6:5",
+    "connected_from": "Ecclesiastes 6:3"
+  },
+  {
+    "text": "moreover it hath not seen nor known the sun: this hath rest rather than the other.",
+    "reference": "Ecclesiastes 6:5 (DBT)",
+    "connected_to": "Ecclesiastes 6:6",
+    "connected_from": "Ecclesiastes 6:4"
+  },
+  {
+    "text": "Yea, though he live twice a thousand years, yet hath he seen no good: do not all go to one place?",
+    "reference": "Ecclesiastes 6:6 (DBT)",
+    "connected_to": "Ecclesiastes 6:7",
+    "connected_from": "Ecclesiastes 6:5"
+  },
+  {
+    "text": "All the labour of man is for his mouth, and yet the appetite is not filled.",
+    "reference": "Ecclesiastes 6:7 (DBT)",
+    "connected_to": "Ecclesiastes 6:8",
+    "connected_from": "Ecclesiastes 6:6"
+  },
+  {
+    "text": "For what advantage hath the wise above the fool? what hath the poor, that knoweth to walk before the living?",
+    "reference": "Ecclesiastes 6:8 (DBT)",
+    "connected_to": "Ecclesiastes 6:9",
+    "connected_from": "Ecclesiastes 6:7"
+  },
+  {
+    "text": "Better is the seeing of the eyes than the wandering of the desire: this also is vanity and pursuit of the wind.",
+    "reference": "Ecclesiastes 6:9 (DBT)",
+    "connected_to": "Ecclesiastes 6:10",
+    "connected_from": "Ecclesiastes 6:8"
+  },
+  {
+    "text": "That which is hath already been named; and what man is, is known, and that he cannot contend with him that is mightier than he.",
+    "reference": "Ecclesiastes 6:10 (DBT)",
+    "connected_to": "Ecclesiastes 6:11",
+    "connected_from": "Ecclesiastes 6:9"
+  },
+  {
+    "text": "For there are many things that increase vanity: what is man advantaged?",
+    "reference": "Ecclesiastes 6:11 (DBT)",
+    "connected_to": "Ecclesiastes 6:12",
+    "connected_from": "Ecclesiastes 6:10"
+  },
+  {
+    "text": "For who knoweth what is good for man in life, all the days of his vain life which he spendeth as a shadow? for who can tell man what shall be after him under the sun?",
+    "reference": "Ecclesiastes 6:12 (DBT)",
+    "connected_from": "Ecclesiastes 6:11"
+  }
+]

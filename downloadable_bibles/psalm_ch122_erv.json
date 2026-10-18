@@ -1,0 +1,54 @@
+[
+  {
+    "text": "A Song of Ascents; of David. I was glad when they said unto me, Let us go unto the house of the LORD.",
+    "reference": "Psalm 122:1 (ERV)",
+    "connected_to": "Psalm 122:2"
+  },
+  {
+    "text": "Our feet are standing within thy gates, O Jerusalem;",
+    "reference": "Psalm 122:2 (ERV)",
+    "connected_to": "Psalm 122:3",
+    "connected_from": "Psalm 122:1"
+  },
+  {
+    "text": "Jerusalem, that art builded as a city that is compact together:",
+    "reference": "Psalm 122:3 (ERV)",
+    "connected_to": "Psalm 122:4",
+    "connected_from": "Psalm 122:2"
+  },
+  {
+    "text": "Whither the tribes go up, even the tribes of the LORD for a testimony unto Israel, to give thanks into the name of the LORD.",
+    "reference": "Psalm 122:4 (ERV)",
+    "connected_to": "Psalm 122:5",
+    "connected_from": "Psalm 122:3"
+  },
+  {
+    "text": "For there are set thrones for judgment, the thrones of the house of David.",
+    "reference": "Psalm 122:5 (ERV)",
+    "connected_to": "Psalm 122:6",
+    "connected_from": "Psalm 122:4"
+  },
+  {
+    "text": "Pray for the peace of Jerusalem: they shall prosper that love thee.",
+    "reference": "Psalm 122:6 (ERV)",
+    "connected_to": "Psalm 122:7",
+    "connected_from": "Psalm 122:5"
+  },
+  {
+    "text": "Peace be within thy walls, and prosperity within thy palaces.",
+    "reference": "Psalm 122:7 (ERV)",
+    "connected_to": "Psalm 122:8",
+    "connected_from": "Psalm 122:6"
+  },
+  {
+    "text": "For my brethren and companions’ sakes, I will now say, Peace be within thee.",
+    "reference": "Psalm 122:8 (ERV)",
+    "connected_to": "Psalm 122:9",
+    "connected_from": "Psalm 122:7"
+  },
+  {
+    "text": "For the sake of the house of the LORD our God I will seek thy good.",
+    "reference": "Psalm 122:9 (ERV)",
+    "connected_from": "Psalm 122:8"
+  }
+]

@@ -1,0 +1,204 @@
+[
+  {
+    "text": "And when he was come down from the mountain, great multitudes followed him.",
+    "reference": "Matthew 8:1 (ERV)",
+    "connected_to": "Matthew 8:2"
+  },
+  {
+    "text": "And behold, there came to him a leper and worshipped him, saying, Lord, if thou wilt, thou canst make me clean.",
+    "reference": "Matthew 8:2 (ERV)",
+    "connected_to": "Matthew 8:3",
+    "connected_from": "Matthew 8:1"
+  },
+  {
+    "text": "And he stretched forth his hand, and touched him, saying, I will; be thou made clean. And straightway his leprosy was cleansed.",
+    "reference": "Matthew 8:3 (ERV)",
+    "connected_to": "Matthew 8:4",
+    "connected_from": "Matthew 8:2"
+  },
+  {
+    "text": "And Jesus saith unto him, See thou tell no man; but go thy way, shew thyself to the priest, and offer the gift that Moses commanded, for a testimony unto them.",
+    "reference": "Matthew 8:4 (ERV)",
+    "connected_to": "Matthew 8:5",
+    "connected_from": "Matthew 8:3"
+  },
+  {
+    "text": "And when he was entered into Capernaum, there came unto him a centurion, beseeching him,",
+    "reference": "Matthew 8:5 (ERV)",
+    "connected_to": "Matthew 8:6",
+    "connected_from": "Matthew 8:4"
+  },
+  {
+    "text": "and saying, Lord, my servant lieth in the house sick of the palsy, grievously tormented.",
+    "reference": "Matthew 8:6 (ERV)",
+    "connected_to": "Matthew 8:7",
+    "connected_from": "Matthew 8:5"
+  },
+  {
+    "text": "And he saith unto him, I will come and heal him.",
+    "reference": "Matthew 8:7 (ERV)",
+    "connected_to": "Matthew 8:8",
+    "connected_from": "Matthew 8:6"
+  },
+  {
+    "text": "And the centurion answered and said, Lord, I am not worthy that thou shouldest come under my roof: but only say the word, and my servant shall be healed.",
+    "reference": "Matthew 8:8 (ERV)",
+    "connected_to": "Matthew 8:9",
+    "connected_from": "Matthew 8:7"
+  },
+  {
+    "text": "For I also am a man under authority, having under myself soldiers: and I say to this one, Go, and he goeth; and to another, Come, and he cometh; and to my servant, Do this, and he doeth it.",
+    "reference": "Matthew 8:9 (ERV)",
+    "connected_to": "Matthew 8:10",
+    "connected_from": "Matthew 8:8"
+  },
+  {
+    "text": "And when Jesus heard it, he marveled, and said to them that followed, Verily I say unto you, I have not found so great faith, no, not in Israel.",
+    "reference": "Matthew 8:10 (ERV)",
+    "connected_to": "Matthew 8:11",
+    "connected_from": "Matthew 8:9"
+  },
+  {
+    "text": "And I say unto you, that many shall come from the east and the west, and shall sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven:",
+    "reference": "Matthew 8:11 (ERV)",
+    "connected_to": "Matthew 8:12",
+    "connected_from": "Matthew 8:10"
+  },
+  {
+    "text": "but the sons of the kingdom shall be cast forth into the outer darkness: there shall be the weeping and gnashing of teeth.",
+    "reference": "Matthew 8:12 (ERV)",
+    "connected_to": "Matthew 8:13",
+    "connected_from": "Matthew 8:11"
+  },
+  {
+    "text": "And Jesus said unto the centurion, Go thy way; as thou hast believed, so be it done unto thee. And the servant was healed in that hour.",
+    "reference": "Matthew 8:13 (ERV)",
+    "connected_to": "Matthew 8:14",
+    "connected_from": "Matthew 8:12"
+  },
+  {
+    "text": "And when Jesus was come into Peter’s house, he saw his wife’s mother lying sick of a fever.",
+    "reference": "Matthew 8:14 (ERV)",
+    "connected_to": "Matthew 8:15",
+    "connected_from": "Matthew 8:13"
+  },
+  {
+    "text": "And he touched her hand, and the fever left her; and she arose, and ministered unto him.",
+    "reference": "Matthew 8:15 (ERV)",
+    "connected_to": "Matthew 8:16",
+    "connected_from": "Matthew 8:14"
+  },
+  {
+    "text": "And when even was come, they brought unto him many possessed with devils: and he cast out the spirits with a word, and healed all that were sick:",
+    "reference": "Matthew 8:16 (ERV)",
+    "connected_to": "Matthew 8:17",
+    "connected_from": "Matthew 8:15"
+  },
+  {
+    "text": "that it might be fulfilled which was spoken by Isaiah the prophet, saying, Himself took our infirmities, and bare our diseases.",
+    "reference": "Matthew 8:17 (ERV)",
+    "connected_to": "Matthew 8:18",
+    "connected_from": "Matthew 8:16"
+  },
+  {
+    "text": "Now when Jesus saw great multitudes about him, he gave commandment to depart unto the other side.",
+    "reference": "Matthew 8:18 (ERV)",
+    "connected_to": "Matthew 8:19",
+    "connected_from": "Matthew 8:17"
+  },
+  {
+    "text": "And there came a scribe, and said unto him, Master, I will follow thee whithersoever thou goest.",
+    "reference": "Matthew 8:19 (ERV)",
+    "connected_to": "Matthew 8:20",
+    "connected_from": "Matthew 8:18"
+  },
+  {
+    "text": "And Jesus saith unto him, The foxes have holes, and the birds of the heaven have nests; but the Son of man hath not where to lay his head.",
+    "reference": "Matthew 8:20 (ERV)",
+    "connected_to": "Matthew 8:21",
+    "connected_from": "Matthew 8:19"
+  },
+  {
+    "text": "And another of the disciples said unto him, Lord, suffer me first to go and bury my father.",
+    "reference": "Matthew 8:21 (ERV)",
+    "connected_to": "Matthew 8:22",
+    "connected_from": "Matthew 8:20"
+  },
+  {
+    "text": "But Jesus saith unto him, Follow me; and leave the dead to bury their own dead.",
+    "reference": "Matthew 8:22 (ERV)",
+    "connected_to": "Matthew 8:23",
+    "connected_from": "Matthew 8:21"
+  },
+  {
+    "text": "And when he was entered into a boat, his disciples followed him.",
+    "reference": "Matthew 8:23 (ERV)",
+    "connected_to": "Matthew 8:24",
+    "connected_from": "Matthew 8:22"
+  },
+  {
+    "text": "And behold, there arose a great tempest in the sea, insomuch that the boat was covered with the waves: but he was asleep.",
+    "reference": "Matthew 8:24 (ERV)",
+    "connected_to": "Matthew 8:25",
+    "connected_from": "Matthew 8:23"
+  },
+  {
+    "text": "And they came to him, and awoke him, saying, Save, Lord; we perish.",
+    "reference": "Matthew 8:25 (ERV)",
+    "connected_to": "Matthew 8:26",
+    "connected_from": "Matthew 8:24"
+  },
+  {
+    "text": "And he saith unto them, Why are ye fearful, O ye of little faith? Then he arose, and rebuked the winds and the sea; and there was a great calm.",
+    "reference": "Matthew 8:26 (ERV)",
+    "connected_to": "Matthew 8:27",
+    "connected_from": "Matthew 8:25"
+  },
+  {
+    "text": "And the men marveled, saying, What manner of man is this, that even the winds and the sea obey him?",
+    "reference": "Matthew 8:27 (ERV)",
+    "connected_to": "Matthew 8:28",
+    "connected_from": "Matthew 8:26"
+  },
+  {
+    "text": "And when he was come to the other side into the country of the Gadarenes, there met him two possessed with devils, coming forth out of the tombs, exceeding fierce, so that no man could pass by that way.",
+    "reference": "Matthew 8:28 (ERV)",
+    "connected_to": "Matthew 8:29",
+    "connected_from": "Matthew 8:27"
+  },
+  {
+    "text": "And behold, they cried out, saying, What have we to do with thee, thou Son of God? art thou come hither to torment us before the time?",
+    "reference": "Matthew 8:29 (ERV)",
+    "connected_to": "Matthew 8:30",
+    "connected_from": "Matthew 8:28"
+  },
+  {
+    "text": "Now there was afar off from them a herd of many swine feeding.",
+    "reference": "Matthew 8:30 (ERV)",
+    "connected_to": "Matthew 8:31",
+    "connected_from": "Matthew 8:29"
+  },
+  {
+    "text": "And the devils besought him, saying, If thou cast us out, send us away into the herd of swine.",
+    "reference": "Matthew 8:31 (ERV)",
+    "connected_to": "Matthew 8:32",
+    "connected_from": "Matthew 8:30"
+  },
+  {
+    "text": "And he said unto them, Go. And they came out, and went into the swine: and behold, the whole herd rushed down the steep into the sea, and perished in the waters.",
+    "reference": "Matthew 8:32 (ERV)",
+    "connected_to": "Matthew 8:33",
+    "connected_from": "Matthew 8:31"
+  },
+  {
+    "text": "And they that fed them fled, and went away into the city, and told everything, and what was befallen to them that were possessed with devils.",
+    "reference": "Matthew 8:33 (ERV)",
+    "connected_to": "Matthew 8:34",
+    "connected_from": "Matthew 8:32"
+  },
+  {
+    "text": "And behold, all the city came out to meet Jesus: and when they saw him, they besought him that he would depart from their borders.",
+    "reference": "Matthew 8:34 (ERV)",
+    "connected_from": "Matthew 8:33"
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "text": "Truly, truly, I say to you, He that enters not by the door into the sheepfold, but climbs up some other way, the same is a thief and a robber.",
+    "reference": "John 10:1 (AKJV)",
+    "connected_to": "John 10:2"
+  },
+  {
+    "text": "But he that enters in by the door is the shepherd of the sheep.",
+    "reference": "John 10:2 (AKJV)",
+    "connected_to": "John 10:3",
+    "connected_from": "John 10:1"
+  },
+  {
+    "text": "To him the porter opens; and the sheep hear his voice: and he calls his own sheep by name, and leads them out.",
+    "reference": "John 10:3 (AKJV)",
+    "connected_to": "John 10:4",
+    "connected_from": "John 10:2"
+  },
+  {
+    "text": "And when he puts forth his own sheep, he goes before them, and the sheep follow him: for they know his voice.",
+    "reference": "John 10:4 (AKJV)",
+    "connected_to": "John 10:5",
+    "connected_from": "John 10:3"
+  },
+  {
+    "text": "And a stranger will they not follow, but will flee from him: for they know not the voice of strangers.",
+    "reference": "John 10:5 (AKJV)",
+    "connected_to": "John 10:6",
+    "connected_from": "John 10:4"
+  },
+  {
+    "text": "This parable spoke Jesus to them: but they understood not what things they were which he spoke to them.",
+    "reference": "John 10:6 (AKJV)",
+    "connected_to": "John 10:7",
+    "connected_from": "John 10:5"
+  },
+  {
+    "text": "Then said Jesus to them again, Truly, truly, I say to you, I am the door of the sheep.",
+    "reference": "John 10:7 (AKJV)",
+    "connected_to": "John 10:8",
+    "connected_from": "John 10:6"
+  },
+  {
+    "text": "All that ever came before me are thieves and robbers: but the sheep did not hear them.",
+    "reference": "John 10:8 (AKJV)",
+    "connected_to": "John 10:9",
+    "connected_from": "John 10:7"
+  },
+  {
+    "text": "I am the door: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture.",
+    "reference": "John 10:9 (AKJV)",
+    "connected_to": "John 10:10",
+    "connected_from": "John 10:8"
+  },
+  {
+    "text": "The thief comes not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have it more abundantly.",
+    "reference": "John 10:10 (AKJV)",
+    "connected_to": "John 10:11",
+    "connected_from": "John 10:9"
+  },
+  {
+    "text": "I am the good shepherd: the good shepherd gives his life for the sheep.",
+    "reference": "John 10:11 (AKJV)",
+    "connected_to": "John 10:12",
+    "connected_from": "John 10:10"
+  },
+  {
+    "text": "But he that is an hireling, and not the shepherd, whose own the sheep are not, sees the wolf coming, and leaves the sheep, and flees: and the wolf catches them, and scatters the sheep.",
+    "reference": "John 10:12 (AKJV)",
+    "connected_to": "John 10:13",
+    "connected_from": "John 10:11"
+  },
+  {
+    "text": "The hireling flees, because he is an hireling, and cares not for the sheep.",
+    "reference": "John 10:13 (AKJV)",
+    "connected_to": "John 10:14",
+    "connected_from": "John 10:12"
+  },
+  {
+    "text": "I am the good shepherd, and know my sheep, and am known of mine.",
+    "reference": "John 10:14 (AKJV)",
+    "connected_to": "John 10:15",
+    "connected_from": "John 10:13"
+  },
+  {
+    "text": "As the Father knows me, even so know I the Father: and I lay down my life for the sheep.",
+    "reference": "John 10:15 (AKJV)",
+    "connected_to": "John 10:16",
+    "connected_from": "John 10:14"
+  },
+  {
+    "text": "And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, and one shepherd.",
+    "reference": "John 10:16 (AKJV)",
+    "connected_to": "John 10:17",
+    "connected_from": "John 10:15"
+  },
+  {
+    "text": "Therefore does my Father love me, because I lay down my life, that I might take it again.",
+    "reference": "John 10:17 (AKJV)",
+    "connected_to": "John 10:18",
+    "connected_from": "John 10:16"
+  },
+  {
+    "text": "No man takes it from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again. This commandment have I received of my Father.",
+    "reference": "John 10:18 (AKJV)",
+    "connected_to": "John 10:19",
+    "connected_from": "John 10:17"
+  },
+  {
+    "text": "There was a division therefore again among the Jews for these sayings.",
+    "reference": "John 10:19 (AKJV)",
+    "connected_to": "John 10:20",
+    "connected_from": "John 10:18"
+  },
+  {
+    "text": "And many of them said, He has a devil, and is mad; why hear you him?",
+    "reference": "John 10:20 (AKJV)",
+    "connected_to": "John 10:21",
+    "connected_from": "John 10:19"
+  },
+  {
+    "text": "Others said, These are not the words of him that has a devil. Can a devil open the eyes of the blind?",
+    "reference": "John 10:21 (AKJV)",
+    "connected_to": "John 10:22",
+    "connected_from": "John 10:20"
+  },
+  {
+    "text": "And it was at Jerusalem the feast of the dedication, and it was winter.",
+    "reference": "John 10:22 (AKJV)",
+    "connected_to": "John 10:23",
+    "connected_from": "John 10:21"
+  },
+  {
+    "text": "And Jesus walked in the temple in Solomon’s porch.",
+    "reference": "John 10:23 (AKJV)",
+    "connected_to": "John 10:24",
+    "connected_from": "John 10:22"
+  },
+  {
+    "text": "Then came the Jews round about him, and said to him, How long do you make us to doubt? If you be the Christ, tell us plainly.",
+    "reference": "John 10:24 (AKJV)",
+    "connected_to": "John 10:25",
+    "connected_from": "John 10:23"
+  },
+  {
+    "text": "Jesus answered them, I told you, and you believed not: the works that I do in my Father’s name, they bear witness of me.",
+    "reference": "John 10:25 (AKJV)",
+    "connected_to": "John 10:26",
+    "connected_from": "John 10:24"
+  },
+  {
+    "text": "But you believe not, because you are not of my sheep, as I said to you.",
+    "reference": "John 10:26 (AKJV)",
+    "connected_to": "John 10:27",
+    "connected_from": "John 10:25"
+  },
+  {
+    "text": "My sheep hear my voice, and I know them, and they follow me:",
+    "reference": "John 10:27 (AKJV)",
+    "connected_to": "John 10:28",
+    "connected_from": "John 10:26"
+  },
+  {
+    "text": "And I give to them eternal life; and they shall never perish, neither shall any man pluck them out of my hand.",
+    "reference": "John 10:28 (AKJV)",
+    "connected_to": "John 10:29",
+    "connected_from": "John 10:27"
+  },
+  {
+    "text": "My Father, which gave them me, is greater than all; and no man is able to pluck them out of my Father’s hand.",
+    "reference": "John 10:29 (AKJV)",
+    "connected_to": "John 10:30",
+    "connected_from": "John 10:28"
+  },
+  {
+    "text": "I and my Father are one.",
+    "reference": "John 10:30 (AKJV)",
+    "connected_to": "John 10:31",
+    "connected_from": "John 10:29"
+  },
+  {
+    "text": "Then the Jews took up stones again to stone him.",
+    "reference": "John 10:31 (AKJV)",
+    "connected_to": "John 10:32",
+    "connected_from": "John 10:30"
+  },
+  {
+    "text": "Jesus answered them, Many good works have I showed you from my Father; for which of those works do you stone me?",
+    "reference": "John 10:32 (AKJV)",
+    "connected_to": "John 10:33",
+    "connected_from": "John 10:31"
+  },
+  {
+    "text": "The Jews answered him, saying, For a good work we stone you not; but for blasphemy; and because that you, being a man, make yourself God.",
+    "reference": "John 10:33 (AKJV)",
+    "connected_to": "John 10:34",
+    "connected_from": "John 10:32"
+  },
+  {
+    "text": "Jesus answered them, Is it not written in your law, I said, You are gods?",
+    "reference": "John 10:34 (AKJV)",
+    "connected_to": "John 10:35",
+    "connected_from": "John 10:33"
+  },
+  {
+    "text": "If he called them gods, to whom the word of God came, and the scripture cannot be broken;",
+    "reference": "John 10:35 (AKJV)",
+    "connected_to": "John 10:36",
+    "connected_from": "John 10:34"
+  },
+  {
+    "text": "Say you of him, whom the Father has sanctified, and sent into the world, You blaspheme; because I said, I am the Son of God?",
+    "reference": "John 10:36 (AKJV)",
+    "connected_to": "John 10:37",
+    "connected_from": "John 10:35"
+  },
+  {
+    "text": "If I do not the works of my Father, believe me not.",
+    "reference": "John 10:37 (AKJV)",
+    "connected_to": "John 10:38",
+    "connected_from": "John 10:36"
+  },
+  {
+    "text": "But if I do, though you believe not me, believe the works: that you may know, and believe, that the Father is in me, and I in him.",
+    "reference": "John 10:38 (AKJV)",
+    "connected_to": "John 10:39",
+    "connected_from": "John 10:37"
+  },
+  {
+    "text": "Therefore they sought again to take him: but he escaped out of their hand,",
+    "reference": "John 10:39 (AKJV)",
+    "connected_to": "John 10:40",
+    "connected_from": "John 10:38"
+  },
+  {
+    "text": "And went away again beyond Jordan into the place where John at first baptized; and there he stayed.",
+    "reference": "John 10:40 (AKJV)",
+    "connected_to": "John 10:41",
+    "connected_from": "John 10:39"
+  },
+  {
+    "text": "And many resorted to him, and said, John did no miracle: but all things that John spoke of this man were true.",
+    "reference": "John 10:41 (AKJV)",
+    "connected_to": "John 10:42",
+    "connected_from": "John 10:40"
+  },
+  {
+    "text": "And many believed on him there.",
+    "reference": "John 10:42 (AKJV)",
+    "connected_from": "John 10:41"
+  }
+]

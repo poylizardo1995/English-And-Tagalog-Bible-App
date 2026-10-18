@@ -1,0 +1,156 @@
+[
+  {
+    "text": "Now Peter and John were going up into the temple at the hour of prayer, the ninth.",
+    "reference": "Acts 3:1 (BLB)",
+    "connected_to": "Acts 3:2"
+  },
+  {
+    "text": "And a certain man was being carried, being lame from his mother’s womb, whom they placed every day at the temple gate called Beautiful to ask for alms from those going into the temple,",
+    "reference": "Acts 3:2 (BLB)",
+    "connected_to": "Acts 3:3",
+    "connected_from": "Acts 3:1"
+  },
+  {
+    "text": "who, having seen Peter and John being about to enter into the temple, was asking to receive alms.",
+    "reference": "Acts 3:3 (BLB)",
+    "connected_to": "Acts 3:4",
+    "connected_from": "Acts 3:2"
+  },
+  {
+    "text": "And Peter, having looked intently upon him, with John, said, “Look toward us!”",
+    "reference": "Acts 3:4 (BLB)",
+    "connected_to": "Acts 3:5",
+    "connected_from": "Acts 3:3"
+  },
+  {
+    "text": "And he began to give heed to them, expecting to receive something from them.",
+    "reference": "Acts 3:5 (BLB)",
+    "connected_to": "Acts 3:6",
+    "connected_from": "Acts 3:4"
+  },
+  {
+    "text": "But Peter said, “Silver and gold, unto me there is none; but what I have, this I give to you: In the name of Jesus Christ of Nazareth, rise up and walk!”",
+    "reference": "Acts 3:6 (BLB)",
+    "connected_to": "Acts 3:7",
+    "connected_from": "Acts 3:5"
+  },
+  {
+    "text": "And having taken him by the right hand, he raised him up, and immediately his feet and ankles were strengthened.",
+    "reference": "Acts 3:7 (BLB)",
+    "connected_to": "Acts 3:8",
+    "connected_from": "Acts 3:6"
+  },
+  {
+    "text": "And leaping up, he stood and began walking, and he entered into the temple with them, walking and leaping and praising God.",
+    "reference": "Acts 3:8 (BLB)",
+    "connected_to": "Acts 3:9",
+    "connected_from": "Acts 3:7"
+  },
+  {
+    "text": "And all the people saw him walking and praising God,",
+    "reference": "Acts 3:9 (BLB)",
+    "connected_to": "Acts 3:10",
+    "connected_from": "Acts 3:8"
+  },
+  {
+    "text": "and they recognized him, that he was the one sitting for alms at the Beautiful Gate of the temple. And they were filled with wonder and amazement at that having happened to him.",
+    "reference": "Acts 3:10 (BLB)",
+    "connected_to": "Acts 3:11",
+    "connected_from": "Acts 3:9"
+  },
+  {
+    "text": "Now of him clinging to Peter and John, all the people ran together to them in the colonnade called Solomon’s, greatly amazed.",
+    "reference": "Acts 3:11 (BLB)",
+    "connected_to": "Acts 3:12",
+    "connected_from": "Acts 3:10"
+  },
+  {
+    "text": "But having seen, Peter answered to the people: “Men, Israelites, why do you⁺ wonder at this? Or why do you⁺ look intently on us as if by [our] own power or godliness [we] have made him to walk?",
+    "reference": "Acts 3:12 (BLB)",
+    "connected_to": "Acts 3:13",
+    "connected_from": "Acts 3:11"
+  },
+  {
+    "text": "The God of Abraham, and the God of Isaac, and the God of Jacob, the God of our fathers, has glorified His servant Jesus, whom indeed you⁺ delivered up and denied in the presence of Pilate, that one having adjudged to release [Him].",
+    "reference": "Acts 3:13 (BLB)",
+    "connected_to": "Acts 3:14",
+    "connected_from": "Acts 3:12"
+  },
+  {
+    "text": "But you⁺ denied the Holy and Righteous One and requested a man, a murderer, to be granted to you⁺.",
+    "reference": "Acts 3:14 (BLB)",
+    "connected_to": "Acts 3:15",
+    "connected_from": "Acts 3:13"
+  },
+  {
+    "text": "And you⁺ killed the Author of life, whom God raised out from the dead, of which we are witnesses.",
+    "reference": "Acts 3:15 (BLB)",
+    "connected_to": "Acts 3:16",
+    "connected_from": "Acts 3:14"
+  },
+  {
+    "text": "And on the faith in His name, this [man] whom you⁺ see and know, His name strengthened; and the faith that [is] through Him has given to him this complete soundness before all of you⁺.",
+    "reference": "Acts 3:16 (BLB)",
+    "connected_to": "Acts 3:17",
+    "connected_from": "Acts 3:15"
+  },
+  {
+    "text": "And now, brothers, I know that you⁺ acted in ignorance, as your⁺ rulers also.",
+    "reference": "Acts 3:17 (BLB)",
+    "connected_to": "Acts 3:18",
+    "connected_from": "Acts 3:16"
+  },
+  {
+    "text": "But what God foretold through the mouth of all the prophets, [that] His Christ should suffer, He thus fulfilled.",
+    "reference": "Acts 3:18 (BLB)",
+    "connected_to": "Acts 3:19",
+    "connected_from": "Acts 3:17"
+  },
+  {
+    "text": "Repent, therefore, and turn back, for the blotting out of your⁺ sins,",
+    "reference": "Acts 3:19 (BLB)",
+    "connected_to": "Acts 3:20",
+    "connected_from": "Acts 3:18"
+  },
+  {
+    "text": "so that times of refreshing may come from the presence of the Lord, and [that] He may send the One having been appointed to you⁺, Christ Jesus,",
+    "reference": "Acts 3:20 (BLB)",
+    "connected_to": "Acts 3:21",
+    "connected_from": "Acts 3:19"
+  },
+  {
+    "text": "whom indeed it is necessary for heaven to receive until the times of restoration of all things, of which God spoke by the mouth of His holy prophets from the age.",
+    "reference": "Acts 3:21 (BLB)",
+    "connected_to": "Acts 3:22",
+    "connected_from": "Acts 3:20"
+  },
+  {
+    "text": "Indeed Moses said, ‘The Lord your⁺ God will raise up to you⁺ a prophet like me out of your⁺ brothers. You⁺ will listen to Him in all things, as many as He might say to you⁺.",
+    "reference": "Acts 3:22 (BLB)",
+    "connected_to": "Acts 3:23",
+    "connected_from": "Acts 3:21"
+  },
+  {
+    "text": "And it will come to pass [that] every soul who might not heed that prophet will be utterly destroyed out of the people.’",
+    "reference": "Acts 3:23 (BLB)",
+    "connected_to": "Acts 3:24",
+    "connected_from": "Acts 3:22"
+  },
+  {
+    "text": "And also all the prophets from Samuel, and those subsequently, as many as have spoken—they also proclaimed these days.",
+    "reference": "Acts 3:24 (BLB)",
+    "connected_to": "Acts 3:25",
+    "connected_from": "Acts 3:23"
+  },
+  {
+    "text": "You⁺ are the sons of the prophets and of the covenant that God made with your⁺ fathers, saying to Abraham, ‘And in your seed all the families of the earth will be blessed.’",
+    "reference": "Acts 3:25 (BLB)",
+    "connected_to": "Acts 3:26",
+    "connected_from": "Acts 3:24"
+  },
+  {
+    "text": "God, having raised up His servant, sent Him first to you⁺, blessing you⁺ in turning away each one from your⁺ wickednesses.”",
+    "reference": "Acts 3:26 (BLB)",
+    "connected_from": "Acts 3:25"
+  }
+]

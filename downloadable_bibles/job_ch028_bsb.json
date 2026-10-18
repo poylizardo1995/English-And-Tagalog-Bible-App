@@ -1,0 +1,168 @@
+[
+  {
+    "text": "“Surely there is a mine for silver and a place where gold is refined.",
+    "reference": "Job 28:1 (BSB)",
+    "connected_to": "Job 28:2"
+  },
+  {
+    "text": "Iron is taken from the earth, and copper is smelted from ore.",
+    "reference": "Job 28:2 (BSB)",
+    "connected_to": "Job 28:3",
+    "connected_from": "Job 28:1"
+  },
+  {
+    "text": "Man puts an end to the darkness; he probes the farthest recesses for ore in deepest darkness.",
+    "reference": "Job 28:3 (BSB)",
+    "connected_to": "Job 28:4",
+    "connected_from": "Job 28:2"
+  },
+  {
+    "text": "Far from human habitation he cuts a shaft in places forgotten by the foot of man. Far from men he dangles and sways.",
+    "reference": "Job 28:4 (BSB)",
+    "connected_to": "Job 28:5",
+    "connected_from": "Job 28:3"
+  },
+  {
+    "text": "Food may come from the earth, but from below it is transformed as by fire.",
+    "reference": "Job 28:5 (BSB)",
+    "connected_to": "Job 28:6",
+    "connected_from": "Job 28:4"
+  },
+  {
+    "text": "Its rocks are the source of sapphires, containing flecks of gold.",
+    "reference": "Job 28:6 (BSB)",
+    "connected_to": "Job 28:7",
+    "connected_from": "Job 28:5"
+  },
+  {
+    "text": "No bird of prey knows that path; no falcon’s eye has seen it.",
+    "reference": "Job 28:7 (BSB)",
+    "connected_to": "Job 28:8",
+    "connected_from": "Job 28:6"
+  },
+  {
+    "text": "Proud beasts have never trodden it; no lion has ever prowled over it.",
+    "reference": "Job 28:8 (BSB)",
+    "connected_to": "Job 28:9",
+    "connected_from": "Job 28:7"
+  },
+  {
+    "text": "The miner strikes the flint; he overturns mountains at their base.",
+    "reference": "Job 28:9 (BSB)",
+    "connected_to": "Job 28:10",
+    "connected_from": "Job 28:8"
+  },
+  {
+    "text": "He hews out channels in the rocks, and his eyes spot every treasure.",
+    "reference": "Job 28:10 (BSB)",
+    "connected_to": "Job 28:11",
+    "connected_from": "Job 28:9"
+  },
+  {
+    "text": "He stops up the sources of the streams to bring what is hidden to light.",
+    "reference": "Job 28:11 (BSB)",
+    "connected_to": "Job 28:12",
+    "connected_from": "Job 28:10"
+  },
+  {
+    "text": "But where can wisdom be found, and where does understanding dwell?",
+    "reference": "Job 28:12 (BSB)",
+    "connected_to": "Job 28:13",
+    "connected_from": "Job 28:11"
+  },
+  {
+    "text": "No man can know its value, nor is it found in the land of the living.",
+    "reference": "Job 28:13 (BSB)",
+    "connected_to": "Job 28:14",
+    "connected_from": "Job 28:12"
+  },
+  {
+    "text": "The ocean depths say, ‘It is not in me,’ while the sea declares, ‘It is not with me.’",
+    "reference": "Job 28:14 (BSB)",
+    "connected_to": "Job 28:15",
+    "connected_from": "Job 28:13"
+  },
+  {
+    "text": "It cannot be bought with gold, nor can its price be weighed out in silver.",
+    "reference": "Job 28:15 (BSB)",
+    "connected_to": "Job 28:16",
+    "connected_from": "Job 28:14"
+  },
+  {
+    "text": "It cannot be valued in the gold of Ophir, in precious onyx or sapphire.",
+    "reference": "Job 28:16 (BSB)",
+    "connected_to": "Job 28:17",
+    "connected_from": "Job 28:15"
+  },
+  {
+    "text": "Neither gold nor crystal can compare to it, nor jewels of fine gold be exchanged for it.",
+    "reference": "Job 28:17 (BSB)",
+    "connected_to": "Job 28:18",
+    "connected_from": "Job 28:16"
+  },
+  {
+    "text": "Coral and quartz are unworthy of mention; the price of wisdom is beyond rubies.",
+    "reference": "Job 28:18 (BSB)",
+    "connected_to": "Job 28:19",
+    "connected_from": "Job 28:17"
+  },
+  {
+    "text": "Topaz from Cush cannot compare to it, nor can it be valued in pure gold.",
+    "reference": "Job 28:19 (BSB)",
+    "connected_to": "Job 28:20",
+    "connected_from": "Job 28:18"
+  },
+  {
+    "text": "From where, then, does wisdom come, and where does understanding dwell?",
+    "reference": "Job 28:20 (BSB)",
+    "connected_to": "Job 28:21",
+    "connected_from": "Job 28:19"
+  },
+  {
+    "text": "It is hidden from the eyes of every living thing and concealed from the birds of the air.",
+    "reference": "Job 28:21 (BSB)",
+    "connected_to": "Job 28:22",
+    "connected_from": "Job 28:20"
+  },
+  {
+    "text": "Abaddon and Death say, ‘We have heard a rumor about it.’",
+    "reference": "Job 28:22 (BSB)",
+    "connected_to": "Job 28:23",
+    "connected_from": "Job 28:21"
+  },
+  {
+    "text": "But God understands its way, and He knows its place.",
+    "reference": "Job 28:23 (BSB)",
+    "connected_to": "Job 28:24",
+    "connected_from": "Job 28:22"
+  },
+  {
+    "text": "For He looks to the ends of the earth and sees everything under the heavens.",
+    "reference": "Job 28:24 (BSB)",
+    "connected_to": "Job 28:25",
+    "connected_from": "Job 28:23"
+  },
+  {
+    "text": "When God fixed the weight of the wind and measured out the waters,",
+    "reference": "Job 28:25 (BSB)",
+    "connected_to": "Job 28:26",
+    "connected_from": "Job 28:24"
+  },
+  {
+    "text": "when He set a limit for the rain and a path for the thunderbolt,",
+    "reference": "Job 28:26 (BSB)",
+    "connected_to": "Job 28:27",
+    "connected_from": "Job 28:25"
+  },
+  {
+    "text": "then He looked at wisdom and appraised it; He established it and searched it out.",
+    "reference": "Job 28:27 (BSB)",
+    "connected_to": "Job 28:28",
+    "connected_from": "Job 28:26"
+  },
+  {
+    "text": "And He said to man, ‘Behold, the fear of the Lord, that is wisdom, and to turn away from evil is understanding.’”",
+    "reference": "Job 28:28 (BSB)",
+    "connected_from": "Job 28:27"
+  }
+]

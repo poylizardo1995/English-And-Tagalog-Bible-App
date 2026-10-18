@@ -1,0 +1,78 @@
+[
+  {
+    "text": "But it happened that, on a certain day, when the sons of God had arrived and they stood before the Lord, Satan likewise arrived among them, and he stood in his sight.",
+    "reference": "Job 2:1 (CPDV)",
+    "connected_to": "Job 2:2"
+  },
+  {
+    "text": "So the Lord said to Satan, “Where do you come from?” Answering, he said, “I have circled the land, and walked around in it.”",
+    "reference": "Job 2:2 (CPDV)",
+    "connected_to": "Job 2:3",
+    "connected_from": "Job 2:1"
+  },
+  {
+    "text": "And the Lord said to Satan, “Have you not considered my servant, Job, that there is no one like him in the land, a simple and honest man, fearing God and withdrawing from evil, and still retaining his innocence? Yet you have stirred me against him, so that I would afflict him to no purpose.”",
+    "reference": "Job 2:3 (CPDV)",
+    "connected_to": "Job 2:4",
+    "connected_from": "Job 2:2"
+  },
+  {
+    "text": "Answering him, Satan said, “Skin for skin; and everything that a man has, he will give for his life.",
+    "reference": "Job 2:4 (CPDV)",
+    "connected_to": "Job 2:5",
+    "connected_from": "Job 2:3"
+  },
+  {
+    "text": "Yet send your hand and touch his bone and his flesh, and then you will see whether or not he blesses you to your face.”",
+    "reference": "Job 2:5 (CPDV)",
+    "connected_to": "Job 2:6",
+    "connected_from": "Job 2:4"
+  },
+  {
+    "text": "Therefore, the Lord said to Satan, “Behold, he is in your hand, but even so, spare his life.”",
+    "reference": "Job 2:6 (CPDV)",
+    "connected_to": "Job 2:7",
+    "connected_from": "Job 2:5"
+  },
+  {
+    "text": "And so, Satan departed from the face of the Lord and he struck Job with a very serious ulcer from the sole of the foot all the way to the crown of his head.",
+    "reference": "Job 2:7 (CPDV)",
+    "connected_to": "Job 2:8",
+    "connected_from": "Job 2:6"
+  },
+  {
+    "text": "So he took a shard of earthenware and scraped the discharge, while sitting on a heap of refuse.",
+    "reference": "Job 2:8 (CPDV)",
+    "connected_to": "Job 2:9",
+    "connected_from": "Job 2:7"
+  },
+  {
+    "text": "But his wife said to him, “Do you still continue in your simplicity? Bless God and die.”",
+    "reference": "Job 2:9 (CPDV)",
+    "connected_to": "Job 2:10",
+    "connected_from": "Job 2:8"
+  },
+  {
+    "text": "He said to her, “You have spoken like one of the foolish wives. If we accepted good things from the hand of God, why should we not accept bad things?” In all this, Job did not sin with his lips.",
+    "reference": "Job 2:10 (CPDV)",
+    "connected_to": "Job 2:11",
+    "connected_from": "Job 2:9"
+  },
+  {
+    "text": "And so, three friends of Job, hearing about all the evil that had befallen him, arrived, each one from his own place, Eliphaz the Themanite, and Baldad the Suhite, and Zophar the Naamathite. For they had agreed to come together to visit and console him.",
+    "reference": "Job 2:11 (CPDV)",
+    "connected_to": "Job 2:12",
+    "connected_from": "Job 2:10"
+  },
+  {
+    "text": "And when they had raised up their eyes from a distance, they did not recognize him, and, crying out, they wept, and, tearing their garments, they scattered dust over their heads into the sky.",
+    "reference": "Job 2:12 (CPDV)",
+    "connected_to": "Job 2:13",
+    "connected_from": "Job 2:11"
+  },
+  {
+    "text": "And they sat with him on the ground for seven day and seven nights, and no one spoke a word to him, for they saw that his sorrow was very great.",
+    "reference": "Job 2:13 (CPDV)",
+    "connected_from": "Job 2:12"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "text": "Alleluia. I will confess to you, O Lord, with my whole heart, in the council of the just and in the congregation.",
+    "reference": "Psalm 111:1 (CPDV)",
+    "connected_to": "Psalm 111:2"
+  },
+  {
+    "text": "Great are the works of the Lord, exquisite in all his intentions.",
+    "reference": "Psalm 111:2 (CPDV)",
+    "connected_to": "Psalm 111:3",
+    "connected_from": "Psalm 111:1"
+  },
+  {
+    "text": "Confession and magnificence are his work. And his justice remains from age to age.",
+    "reference": "Psalm 111:3 (CPDV)",
+    "connected_to": "Psalm 111:4",
+    "connected_from": "Psalm 111:2"
+  },
+  {
+    "text": "He has created a memorial to his wonders; he is a merciful and compassionate Lord.",
+    "reference": "Psalm 111:4 (CPDV)",
+    "connected_to": "Psalm 111:5",
+    "connected_from": "Psalm 111:3"
+  },
+  {
+    "text": "He has given food to those who fear him. He will be mindful of his covenant in every age.",
+    "reference": "Psalm 111:5 (CPDV)",
+    "connected_to": "Psalm 111:6",
+    "connected_from": "Psalm 111:4"
+  },
+  {
+    "text": "He will announce the virtue of his works to his people,",
+    "reference": "Psalm 111:6 (CPDV)",
+    "connected_to": "Psalm 111:7",
+    "connected_from": "Psalm 111:5"
+  },
+  {
+    "text": "so that he may give them the inheritance of the nations. The works of his hands are truth and judgment.",
+    "reference": "Psalm 111:7 (CPDV)",
+    "connected_to": "Psalm 111:8",
+    "connected_from": "Psalm 111:6"
+  },
+  {
+    "text": "All his commands are faithful: confirmed from age to age, created in truth and fairness.",
+    "reference": "Psalm 111:8 (CPDV)",
+    "connected_to": "Psalm 111:9",
+    "connected_from": "Psalm 111:7"
+  },
+  {
+    "text": "He has sent redemption upon his people. He has commanded his covenant for all eternity. Holy and terrible is his name.",
+    "reference": "Psalm 111:9 (CPDV)",
+    "connected_to": "Psalm 111:10",
+    "connected_from": "Psalm 111:8"
+  },
+  {
+    "text": "The fear of the Lord is the beginning of wisdom. A good understanding is for all who do it. His praise remains from age to age.",
+    "reference": "Psalm 111:10 (CPDV)",
+    "connected_from": "Psalm 111:9"
+  }
+]

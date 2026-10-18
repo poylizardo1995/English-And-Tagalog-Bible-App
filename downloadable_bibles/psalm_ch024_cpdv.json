@@ -1,0 +1,60 @@
+[
+  {
+    "text": "For the First Sabbath. A Psalm of David. The earth and all its fullness belong to the Lord: the whole world and all that dwells in it.",
+    "reference": "Psalm 24:1 (CPDV)",
+    "connected_to": "Psalm 24:2"
+  },
+  {
+    "text": "For he has founded it upon the seas, and he has prepared it upon the rivers.",
+    "reference": "Psalm 24:2 (CPDV)",
+    "connected_to": "Psalm 24:3",
+    "connected_from": "Psalm 24:1"
+  },
+  {
+    "text": "Who will ascend to the mountain of the Lord? And who will stand in his holy place?",
+    "reference": "Psalm 24:3 (CPDV)",
+    "connected_to": "Psalm 24:4",
+    "connected_from": "Psalm 24:2"
+  },
+  {
+    "text": "The innocent of hands and the clean of heart, who has not received his soul in vain, nor sworn deceitfully to his neighbor.",
+    "reference": "Psalm 24:4 (CPDV)",
+    "connected_to": "Psalm 24:5",
+    "connected_from": "Psalm 24:3"
+  },
+  {
+    "text": "He will receive a blessing from the Lord, and mercy from God, his Saviour.",
+    "reference": "Psalm 24:5 (CPDV)",
+    "connected_to": "Psalm 24:6",
+    "connected_from": "Psalm 24:4"
+  },
+  {
+    "text": "This is the generation that seeks him, that seeks the face of the God of Jacob.",
+    "reference": "Psalm 24:6 (CPDV)",
+    "connected_to": "Psalm 24:7",
+    "connected_from": "Psalm 24:5"
+  },
+  {
+    "text": "Lift up your gates, you princes, and be lifted up, eternal gates. And the King of Glory shall enter.",
+    "reference": "Psalm 24:7 (CPDV)",
+    "connected_to": "Psalm 24:8",
+    "connected_from": "Psalm 24:6"
+  },
+  {
+    "text": "Who is this King of Glory? The Lord who is strong and powerful; the Lord powerful in battle.",
+    "reference": "Psalm 24:8 (CPDV)",
+    "connected_to": "Psalm 24:9",
+    "connected_from": "Psalm 24:7"
+  },
+  {
+    "text": "Lift up your gates, you princes, and be lifted up, eternal gates. And the King of Glory shall enter.",
+    "reference": "Psalm 24:9 (CPDV)",
+    "connected_to": "Psalm 24:10",
+    "connected_from": "Psalm 24:8"
+  },
+  {
+    "text": "Who is this King of Glory? The Lord of virtue. He himself is the King of Glory.",
+    "reference": "Psalm 24:10 (CPDV)",
+    "connected_from": "Psalm 24:9"
+  }
+]

@@ -1,0 +1,198 @@
+[
+  {
+    "text": "Now Joshua was old and well along in years, and the LORD said to him, “You are old and well along in years, but very much of the land remains to be possessed.",
+    "reference": "Joshua 13:1 (BSB)",
+    "connected_to": "Joshua 13:2"
+  },
+  {
+    "text": "This is the land that remains: All the territory of the Philistines and the Geshurites,",
+    "reference": "Joshua 13:2 (BSB)",
+    "connected_to": "Joshua 13:3",
+    "connected_from": "Joshua 13:1"
+  },
+  {
+    "text": "from the Shihor east of Egypt to the territory of Ekron on the north (considered to be Canaanite territory)—that of the five Philistine rulers of Gaza, Ashdod, Ashkelon, Gath, and Ekron, as well as that of the Avvites;",
+    "reference": "Joshua 13:3 (BSB)",
+    "connected_to": "Joshua 13:4",
+    "connected_from": "Joshua 13:2"
+  },
+  {
+    "text": "to the south, all the land of the Canaanites, from Mearah of the Sidonians to Aphek, as far as the border of the Amorites;",
+    "reference": "Joshua 13:4 (BSB)",
+    "connected_to": "Joshua 13:5",
+    "connected_from": "Joshua 13:3"
+  },
+  {
+    "text": "the land of the Gebalites; and all Lebanon to the east, from Baal-gad below Mount Hermon to Lebo-hamath.",
+    "reference": "Joshua 13:5 (BSB)",
+    "connected_to": "Joshua 13:6",
+    "connected_from": "Joshua 13:4"
+  },
+  {
+    "text": "All the inhabitants of the hill country from Lebanon to Misrephoth-maim—all the Sidonians—I Myself will drive out before the Israelites. Be sure to divide it by lot as an inheritance to Israel, as I have commanded you.",
+    "reference": "Joshua 13:6 (BSB)",
+    "connected_to": "Joshua 13:7",
+    "connected_from": "Joshua 13:5"
+  },
+  {
+    "text": "Now therefore divide this land as an inheritance to the nine tribes and the half-tribe of Manasseh.”",
+    "reference": "Joshua 13:7 (BSB)",
+    "connected_to": "Joshua 13:8",
+    "connected_from": "Joshua 13:6"
+  },
+  {
+    "text": "The other half of Manasseh, along with the Reubenites and Gadites, had received the inheritance Moses had given them beyond the Jordan to the east, just as Moses the servant of the LORD had assigned to them:",
+    "reference": "Joshua 13:8 (BSB)",
+    "connected_to": "Joshua 13:9",
+    "connected_from": "Joshua 13:7"
+  },
+  {
+    "text": "The area from Aroer on the rim of the Arnon Valley, along with the city in the middle of the valley, the whole plateau of Medeba as far as Dibon,",
+    "reference": "Joshua 13:9 (BSB)",
+    "connected_to": "Joshua 13:10",
+    "connected_from": "Joshua 13:8"
+  },
+  {
+    "text": "and all the cities of Sihon king of the Amorites who reigned in Heshbon, as far as the border of the Ammonites;",
+    "reference": "Joshua 13:10 (BSB)",
+    "connected_to": "Joshua 13:11",
+    "connected_from": "Joshua 13:9"
+  },
+  {
+    "text": "also Gilead and the territory of the Geshurites and Maacathites, all of Mount Hermon, and all Bashan as far as Salecah—",
+    "reference": "Joshua 13:11 (BSB)",
+    "connected_to": "Joshua 13:12",
+    "connected_from": "Joshua 13:10"
+  },
+  {
+    "text": "the whole kingdom of Og in Bashan, who had reigned in Ashtaroth and Edrei and had remained as a remnant of the Rephaim. Moses had struck them down and dispossessed them,",
+    "reference": "Joshua 13:12 (BSB)",
+    "connected_to": "Joshua 13:13",
+    "connected_from": "Joshua 13:11"
+  },
+  {
+    "text": "but the Israelites did not drive out the Geshurites or the Maacathites. So Geshur and Maacath dwell among the Israelites to this day.",
+    "reference": "Joshua 13:13 (BSB)",
+    "connected_to": "Joshua 13:14",
+    "connected_from": "Joshua 13:12"
+  },
+  {
+    "text": "To the tribe of Levi, however, Moses had given no inheritance. The food offerings to the LORD, the God of Israel, are their inheritance, just as He had promised them.",
+    "reference": "Joshua 13:14 (BSB)",
+    "connected_to": "Joshua 13:15",
+    "connected_from": "Joshua 13:13"
+  },
+  {
+    "text": "This is what Moses had given to the clans of the tribe of Reuben:",
+    "reference": "Joshua 13:15 (BSB)",
+    "connected_to": "Joshua 13:16",
+    "connected_from": "Joshua 13:14"
+  },
+  {
+    "text": "The territory from Aroer on the rim of the Arnon Valley, along with the city in the middle of the valley, to the whole plateau beyond Medeba,",
+    "reference": "Joshua 13:16 (BSB)",
+    "connected_to": "Joshua 13:17",
+    "connected_from": "Joshua 13:15"
+  },
+  {
+    "text": "to Heshbon and all its cities on the plateau, including Dibon, Bamoth-baal, Beth-baal-meon,",
+    "reference": "Joshua 13:17 (BSB)",
+    "connected_to": "Joshua 13:18",
+    "connected_from": "Joshua 13:16"
+  },
+  {
+    "text": "Jahaz, Kedemoth, Mephaath,",
+    "reference": "Joshua 13:18 (BSB)",
+    "connected_to": "Joshua 13:19",
+    "connected_from": "Joshua 13:17"
+  },
+  {
+    "text": "Kiriathaim, Sibmah, Zereth-shahar on the hill in the valley,",
+    "reference": "Joshua 13:19 (BSB)",
+    "connected_to": "Joshua 13:20",
+    "connected_from": "Joshua 13:18"
+  },
+  {
+    "text": "Beth-peor, the slopes of Pisgah, and Beth-jeshimoth—",
+    "reference": "Joshua 13:20 (BSB)",
+    "connected_to": "Joshua 13:21",
+    "connected_from": "Joshua 13:19"
+  },
+  {
+    "text": "all the cities of the plateau and all the kingdom of Sihon king of the Amorites, who reigned in Heshbon until Moses killed him and the chiefs of Midian (Evi, Rekem, Zur, Hur, and Reba), the princes of Sihon who lived in the land.",
+    "reference": "Joshua 13:21 (BSB)",
+    "connected_to": "Joshua 13:22",
+    "connected_from": "Joshua 13:20"
+  },
+  {
+    "text": "The Israelites also killed the diviner Balaam son of Beor along with the others they put to the sword.",
+    "reference": "Joshua 13:22 (BSB)",
+    "connected_to": "Joshua 13:23",
+    "connected_from": "Joshua 13:21"
+  },
+  {
+    "text": "And the border of the Reubenites was the bank of the Jordan. This was the inheritance of the clans of the Reubenites, including the cities and villages.",
+    "reference": "Joshua 13:23 (BSB)",
+    "connected_to": "Joshua 13:24",
+    "connected_from": "Joshua 13:22"
+  },
+  {
+    "text": "This is what Moses had given to the clans of the tribe of Gad:",
+    "reference": "Joshua 13:24 (BSB)",
+    "connected_to": "Joshua 13:25",
+    "connected_from": "Joshua 13:23"
+  },
+  {
+    "text": "The territory of Jazer, all the cities of Gilead, and half the land of the Ammonites as far as Aroer, near Rabbah;",
+    "reference": "Joshua 13:25 (BSB)",
+    "connected_to": "Joshua 13:26",
+    "connected_from": "Joshua 13:24"
+  },
+  {
+    "text": "the territory from Heshbon to Ramath-mizpeh and Betonim, and from Mahanaim to the border of Debir;",
+    "reference": "Joshua 13:26 (BSB)",
+    "connected_to": "Joshua 13:27",
+    "connected_from": "Joshua 13:25"
+  },
+  {
+    "text": "and in the valley, Beth-haram, Beth-nimrah, Succoth, and Zaphon, with the rest of the kingdom of Sihon king of Heshbon (the territory on the east side of the Jordan up to the edge of the Sea of Chinnereth).",
+    "reference": "Joshua 13:27 (BSB)",
+    "connected_to": "Joshua 13:28",
+    "connected_from": "Joshua 13:26"
+  },
+  {
+    "text": "This was the inheritance of the clans of the Gadites, including the cities and villages.",
+    "reference": "Joshua 13:28 (BSB)",
+    "connected_to": "Joshua 13:29",
+    "connected_from": "Joshua 13:27"
+  },
+  {
+    "text": "This is what Moses had given to the clans of the half-tribe of Manasseh, that is, to half the tribe of the descendants of Manasseh:",
+    "reference": "Joshua 13:29 (BSB)",
+    "connected_to": "Joshua 13:30",
+    "connected_from": "Joshua 13:28"
+  },
+  {
+    "text": "The territory from Mahanaim through all Bashan—all the kingdom of Og king of Bashan, including all the towns of Jair that are in Bashan, sixty cities;",
+    "reference": "Joshua 13:30 (BSB)",
+    "connected_to": "Joshua 13:31",
+    "connected_from": "Joshua 13:29"
+  },
+  {
+    "text": "half of Gilead; and Ashtaroth and Edrei, the royal cities of Og in Bashan. All this was for the clans of the descendants of Machir son of Manasseh, that is, half of the descendants of Machir.",
+    "reference": "Joshua 13:31 (BSB)",
+    "connected_to": "Joshua 13:32",
+    "connected_from": "Joshua 13:30"
+  },
+  {
+    "text": "These were the portions Moses had given them on the plains of Moab beyond the Jordan, east of Jericho.",
+    "reference": "Joshua 13:32 (BSB)",
+    "connected_to": "Joshua 13:33",
+    "connected_from": "Joshua 13:31"
+  },
+  {
+    "text": "To the tribe of Levi, however, Moses had given no inheritance. The LORD, the God of Israel, is their inheritance, just as He had promised them.",
+    "reference": "Joshua 13:33 (BSB)",
+    "connected_from": "Joshua 13:32"
+  }
+]

@@ -1,0 +1,204 @@
+[
+  {
+    "text": "Upon descending from the hill country He was followed by immense crowds.",
+    "reference": "Matthew 8:1 (WNT)",
+    "connected_to": "Matthew 8:2"
+  },
+  {
+    "text": "And a leper came to Him, and throwing himself at His feet, said, “Sir, if only you are willing you are able to cleanse me.”",
+    "reference": "Matthew 8:2 (WNT)",
+    "connected_to": "Matthew 8:3",
+    "connected_from": "Matthew 8:1"
+  },
+  {
+    "text": "So Jesus put out His hand and touched him, and said, “I am willing: be cleansed.” Instantly he was cleansed from his leprosy;",
+    "reference": "Matthew 8:3 (WNT)",
+    "connected_to": "Matthew 8:4",
+    "connected_from": "Matthew 8:2"
+  },
+  {
+    "text": "and Jesus said to him, “Be careful to tell no one, but go and show yourself to the priest, and offer the gift which Moses appointed as evidence for them.”",
+    "reference": "Matthew 8:4 (WNT)",
+    "connected_to": "Matthew 8:5",
+    "connected_from": "Matthew 8:3"
+  },
+  {
+    "text": "After His entry into Capernaum a Captain came to Him, and entreated Him.",
+    "reference": "Matthew 8:5 (WNT)",
+    "connected_to": "Matthew 8:6",
+    "connected_from": "Matthew 8:4"
+  },
+  {
+    "text": "“Sir,” he said, “my servant at home is lying ill with paralysis, and is suffering great pain.”",
+    "reference": "Matthew 8:6 (WNT)",
+    "connected_to": "Matthew 8:7",
+    "connected_from": "Matthew 8:5"
+  },
+  {
+    "text": "“I will come and cure him,” said Jesus.",
+    "reference": "Matthew 8:7 (WNT)",
+    "connected_to": "Matthew 8:8",
+    "connected_from": "Matthew 8:6"
+  },
+  {
+    "text": "“Sir,” replied the Captain, “I am not a fit person to receive you under my roof: merely say the word, and my servant will be cured.",
+    "reference": "Matthew 8:8 (WNT)",
+    "connected_to": "Matthew 8:9",
+    "connected_from": "Matthew 8:7"
+  },
+  {
+    "text": "For I myself am also under authority, and have soldiers under me. To one I say ‘Go,’ and he goes, to another ‘Come,’ and he comes, and to my slave ‘Do this or that,’ and he does it.”",
+    "reference": "Matthew 8:9 (WNT)",
+    "connected_to": "Matthew 8:10",
+    "connected_from": "Matthew 8:8"
+  },
+  {
+    "text": "Jesus listened to this reply, and was astonished, and said to the people following Him, “I solemnly tell you that in no Israelite have I found faith as great as this.",
+    "reference": "Matthew 8:10 (WNT)",
+    "connected_to": "Matthew 8:11",
+    "connected_from": "Matthew 8:9"
+  },
+  {
+    "text": "And I tell you that many will come from the east and from the west and will recline at table with Abraham, Isaac and Jacob in the Kingdom of the Heavens,",
+    "reference": "Matthew 8:11 (WNT)",
+    "connected_to": "Matthew 8:12",
+    "connected_from": "Matthew 8:10"
+  },
+  {
+    "text": "while the natural heirs of the Kingdom will be driven out into the darkness outside: there will be the weeping aloud and the gnashing of teeth.”",
+    "reference": "Matthew 8:12 (WNT)",
+    "connected_to": "Matthew 8:13",
+    "connected_from": "Matthew 8:11"
+  },
+  {
+    "text": "And Jesus said to the Captain, “Go, and just as you have believed, so be it for you.” And the servant recovered precisely at that time.",
+    "reference": "Matthew 8:13 (WNT)",
+    "connected_to": "Matthew 8:14",
+    "connected_from": "Matthew 8:12"
+  },
+  {
+    "text": "After this Jesus went to the house of Peter, whose mother-in-law he found ill in bed with fever.",
+    "reference": "Matthew 8:14 (WNT)",
+    "connected_to": "Matthew 8:15",
+    "connected_from": "Matthew 8:13"
+  },
+  {
+    "text": "He touched her hand and the fever left her: and then she rose and waited upon Him.",
+    "reference": "Matthew 8:15 (WNT)",
+    "connected_to": "Matthew 8:16",
+    "connected_from": "Matthew 8:14"
+  },
+  {
+    "text": "In the evening many demoniacs were brought to Him, and with a word He expelled the demons; and He cured all the sick,",
+    "reference": "Matthew 8:16 (WNT)",
+    "connected_to": "Matthew 8:17",
+    "connected_from": "Matthew 8:15"
+  },
+  {
+    "text": "in order that this prediction of the Prophet Isaiah might be fulfilled, “He took on Him our weaknesses, and bore the burden of our diseases.”",
+    "reference": "Matthew 8:17 (WNT)",
+    "connected_to": "Matthew 8:18",
+    "connected_from": "Matthew 8:16"
+  },
+  {
+    "text": "Seeing great crowds about Him Jesus had given directions to cross to the other side of the Lake,",
+    "reference": "Matthew 8:18 (WNT)",
+    "connected_to": "Matthew 8:19",
+    "connected_from": "Matthew 8:17"
+  },
+  {
+    "text": "when a Scribe came and said to Him, “Teacher, I will follow you wherever you go.”",
+    "reference": "Matthew 8:19 (WNT)",
+    "connected_to": "Matthew 8:20",
+    "connected_from": "Matthew 8:18"
+  },
+  {
+    "text": "“Foxes have holes,” replied Jesus, “and birds have nests; but the Son of Man has nowhere to lay His head.”",
+    "reference": "Matthew 8:20 (WNT)",
+    "connected_to": "Matthew 8:21",
+    "connected_from": "Matthew 8:19"
+  },
+  {
+    "text": "Another of the disciples said to Him, “Sir, allow me first to go and bury my father.”",
+    "reference": "Matthew 8:21 (WNT)",
+    "connected_to": "Matthew 8:22",
+    "connected_from": "Matthew 8:20"
+  },
+  {
+    "text": "“Follow me,” said Jesus, “and leave the dead to bury their own dead.”",
+    "reference": "Matthew 8:22 (WNT)",
+    "connected_to": "Matthew 8:23",
+    "connected_from": "Matthew 8:21"
+  },
+  {
+    "text": "Then He went on board a fishing-boat, and His disciples followed Him.",
+    "reference": "Matthew 8:23 (WNT)",
+    "connected_to": "Matthew 8:24",
+    "connected_from": "Matthew 8:22"
+  },
+  {
+    "text": "But suddenly there arose a great storm on the Lake, so that the waves threatened to engulf the boat; but He was asleep.",
+    "reference": "Matthew 8:24 (WNT)",
+    "connected_to": "Matthew 8:25",
+    "connected_from": "Matthew 8:23"
+  },
+  {
+    "text": "So they came and woke Him, crying, “Master, save us, we are drowning!”",
+    "reference": "Matthew 8:25 (WNT)",
+    "connected_to": "Matthew 8:26",
+    "connected_from": "Matthew 8:24"
+  },
+  {
+    "text": "“Why are you so easily frightened,” He replied, “you men of little faith?” Then He rose and reproved the winds and the waves, and there was a perfect calm;",
+    "reference": "Matthew 8:26 (WNT)",
+    "connected_to": "Matthew 8:27",
+    "connected_from": "Matthew 8:25"
+  },
+  {
+    "text": "and the men, filled with amazement, exclaimed, “What kind of man is this? for the very winds and waves obey him!”",
+    "reference": "Matthew 8:27 (WNT)",
+    "connected_to": "Matthew 8:28",
+    "connected_from": "Matthew 8:26"
+  },
+  {
+    "text": "On His arrival at the other side, in the country of the Gadarenes, there met Him two men possessed by demons, coming from among the tombs: they were so dangerously fierce that no one was able to pass that way.",
+    "reference": "Matthew 8:28 (WNT)",
+    "connected_to": "Matthew 8:29",
+    "connected_from": "Matthew 8:27"
+  },
+  {
+    "text": "They cried aloud, “What hast Thou to do with us, Thou Son of God? Hast Thou come here to torment us before the time?”",
+    "reference": "Matthew 8:29 (WNT)",
+    "connected_to": "Matthew 8:30",
+    "connected_from": "Matthew 8:28"
+  },
+  {
+    "text": "Now at some distance from them a vast herd of swine were feeding.",
+    "reference": "Matthew 8:30 (WNT)",
+    "connected_to": "Matthew 8:31",
+    "connected_from": "Matthew 8:29"
+  },
+  {
+    "text": "So the demons entreated Him. “If Thou drivest us out,” they said, “send us into the herd of swine.”",
+    "reference": "Matthew 8:31 (WNT)",
+    "connected_to": "Matthew 8:32",
+    "connected_from": "Matthew 8:30"
+  },
+  {
+    "text": "“Go,” He replied. Then they came out from the men and went into the swine, whereupon the entire herd instantly rushed down the cliff into the Lake and perished in the water.",
+    "reference": "Matthew 8:32 (WNT)",
+    "connected_to": "Matthew 8:33",
+    "connected_from": "Matthew 8:31"
+  },
+  {
+    "text": "The swineherds fled, and went and told the whole story in the town, including what had happened to the demoniacs.",
+    "reference": "Matthew 8:33 (WNT)",
+    "connected_to": "Matthew 8:34",
+    "connected_from": "Matthew 8:32"
+  },
+  {
+    "text": "So at once the whole population came out to meet Jesus; and when they saw Him, they besought Him to leave their country.",
+    "reference": "Matthew 8:34 (WNT)",
+    "connected_from": "Matthew 8:33"
+  }
+]

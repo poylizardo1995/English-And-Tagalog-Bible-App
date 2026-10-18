@@ -1,0 +1,36 @@
+[
+  {
+    "text": "Then answered Bildad the Shuhite, and said,",
+    "reference": "Job 25:1 (AKJV)",
+    "connected_to": "Job 25:2"
+  },
+  {
+    "text": "Dominion and fear are with him, he makes peace in his high places.",
+    "reference": "Job 25:2 (AKJV)",
+    "connected_to": "Job 25:3",
+    "connected_from": "Job 25:1"
+  },
+  {
+    "text": "Is there any number of his armies? and on whom does not his light arise?",
+    "reference": "Job 25:3 (AKJV)",
+    "connected_to": "Job 25:4",
+    "connected_from": "Job 25:2"
+  },
+  {
+    "text": "How then can man be justified with God? or how can he be clean that is born of a woman?",
+    "reference": "Job 25:4 (AKJV)",
+    "connected_to": "Job 25:5",
+    "connected_from": "Job 25:3"
+  },
+  {
+    "text": "Behold even to the moon, and it shines not; yes, the stars are not pure in his sight.",
+    "reference": "Job 25:5 (AKJV)",
+    "connected_to": "Job 25:6",
+    "connected_from": "Job 25:4"
+  },
+  {
+    "text": "How much less man, that is a worm? and the son of man, which is a worm?",
+    "reference": "Job 25:6 (AKJV)",
+    "connected_from": "Job 25:5"
+  }
+]

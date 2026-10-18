@@ -1,0 +1,312 @@
+[
+  {
+    "text": "And it came to pass in those days [that] a decree went out from Caesar Augustus to register all the world.",
+    "reference": "Luke 2:1 (BLB)",
+    "connected_to": "Luke 2:2"
+  },
+  {
+    "text": "This registration first came to pass [in] the governing of Syria of Quirinius.",
+    "reference": "Luke 2:2 (BLB)",
+    "connected_to": "Luke 2:3",
+    "connected_from": "Luke 2:1"
+  },
+  {
+    "text": "And all were going to be registered, each to his own city.",
+    "reference": "Luke 2:3 (BLB)",
+    "connected_to": "Luke 2:4",
+    "connected_from": "Luke 2:2"
+  },
+  {
+    "text": "And Joseph also went up from Galilee, out of the city of Nazareth, to Judea, to the City of David, which is called Bethlehem, because of his being of the house and family of David,",
+    "reference": "Luke 2:4 (BLB)",
+    "connected_to": "Luke 2:5",
+    "connected_from": "Luke 2:3"
+  },
+  {
+    "text": "to register with Mary, the one betrothed to him, she being pregnant.",
+    "reference": "Luke 2:5 (BLB)",
+    "connected_to": "Luke 2:6",
+    "connected_from": "Luke 2:4"
+  },
+  {
+    "text": "And it came to pass, in their being there, [that] the days of her giving birth were fulfilled.",
+    "reference": "Luke 2:6 (BLB)",
+    "connected_to": "Luke 2:7",
+    "connected_from": "Luke 2:5"
+  },
+  {
+    "text": "And she gave birth to her Son, the firstborn, and she wrapped Him in swaddling cloths and laid Him in a manger, because there was no place for them in the inn.",
+    "reference": "Luke 2:7 (BLB)",
+    "connected_to": "Luke 2:8",
+    "connected_from": "Luke 2:6"
+  },
+  {
+    "text": "And there were shepherds in the same region, lodging in the fields and keeping watch by night over their flock.",
+    "reference": "Luke 2:8 (BLB)",
+    "connected_to": "Luke 2:9",
+    "connected_from": "Luke 2:7"
+  },
+  {
+    "text": "And an angel of the Lord stood by them, and the glory of the Lord shone around them, and they feared [with] great fear.",
+    "reference": "Luke 2:9 (BLB)",
+    "connected_to": "Luke 2:10",
+    "connected_from": "Luke 2:8"
+  },
+  {
+    "text": "And the angel said to them, “Do not be afraid, for behold, I bring good news to you⁺ [of] great joy that will be to all the people.",
+    "reference": "Luke 2:10 (BLB)",
+    "connected_to": "Luke 2:11",
+    "connected_from": "Luke 2:9"
+  },
+  {
+    "text": "For today in the City of David a Savior was born to you⁺, who is Christ the Lord.",
+    "reference": "Luke 2:11 (BLB)",
+    "connected_to": "Luke 2:12",
+    "connected_from": "Luke 2:10"
+  },
+  {
+    "text": "And this [is] the sign to you⁺: You⁺ will find a baby wrapped in swaddling cloths and lying in a manger.”",
+    "reference": "Luke 2:12 (BLB)",
+    "connected_to": "Luke 2:13",
+    "connected_from": "Luke 2:11"
+  },
+  {
+    "text": "And suddenly there was with the angel a multitude of the heavenly host, praising God and saying:",
+    "reference": "Luke 2:13 (BLB)",
+    "connected_to": "Luke 2:14",
+    "connected_from": "Luke 2:12"
+  },
+  {
+    "text": "“Glory to God in the highest, and on earth peace among men with whom He is well pleased!”",
+    "reference": "Luke 2:14 (BLB)",
+    "connected_to": "Luke 2:15",
+    "connected_from": "Luke 2:13"
+  },
+  {
+    "text": "And it came to pass, as the angels went away from them into heaven, [that] the shepherds were saying to one another, “Let us go through indeed as far as Bethlehem, and let us see this saying that has come to pass, which the Lord made known to us.”",
+    "reference": "Luke 2:15 (BLB)",
+    "connected_to": "Luke 2:16",
+    "connected_from": "Luke 2:14"
+  },
+  {
+    "text": "And having hurried, they came and found both Mary and Joseph, and the baby lying in the manger.",
+    "reference": "Luke 2:16 (BLB)",
+    "connected_to": "Luke 2:17",
+    "connected_from": "Luke 2:15"
+  },
+  {
+    "text": "And having seen, they made known concerning the saying having been spoken to them concerning this Child.",
+    "reference": "Luke 2:17 (BLB)",
+    "connected_to": "Luke 2:18",
+    "connected_from": "Luke 2:16"
+  },
+  {
+    "text": "And all those having heard marveled concerning the things having been spoken to them by the shepherds.",
+    "reference": "Luke 2:18 (BLB)",
+    "connected_to": "Luke 2:19",
+    "connected_from": "Luke 2:17"
+  },
+  {
+    "text": "But Mary was preserving all these matters, pondering in her heart.",
+    "reference": "Luke 2:19 (BLB)",
+    "connected_to": "Luke 2:20",
+    "connected_from": "Luke 2:18"
+  },
+  {
+    "text": "And the shepherds returned, glorifying and praising God for all things that they heard and saw, just as it was said to them.",
+    "reference": "Luke 2:20 (BLB)",
+    "connected_to": "Luke 2:21",
+    "connected_from": "Luke 2:19"
+  },
+  {
+    "text": "And when eight days to circumcise Him were fulfilled, then His name was called Jesus, which He had been called by the angel before His being conceived in the womb.",
+    "reference": "Luke 2:21 (BLB)",
+    "connected_to": "Luke 2:22",
+    "connected_from": "Luke 2:20"
+  },
+  {
+    "text": "And when the days of their purification were fulfilled according to the Law of Moses, they brought Him up to Jerusalem to present to the Lord",
+    "reference": "Luke 2:22 (BLB)",
+    "connected_to": "Luke 2:23",
+    "connected_from": "Luke 2:21"
+  },
+  {
+    "text": "(just as it has been written in the Law of the Lord: “Every male opening a womb will be called holy to the Lord”),",
+    "reference": "Luke 2:23 (BLB)",
+    "connected_to": "Luke 2:24",
+    "connected_from": "Luke 2:22"
+  },
+  {
+    "text": "and to give a sacrifice according to that said in the Law of the Lord: “A pair of turtledoves or two young pigeons.”",
+    "reference": "Luke 2:24 (BLB)",
+    "connected_to": "Luke 2:25",
+    "connected_from": "Luke 2:23"
+  },
+  {
+    "text": "And behold, there was a man in Jerusalem whose name [was] Simeon. And this man [was] righteous and devout, waiting for the consolation of Israel, and the Holy Spirit was upon him.",
+    "reference": "Luke 2:25 (BLB)",
+    "connected_to": "Luke 2:26",
+    "connected_from": "Luke 2:24"
+  },
+  {
+    "text": "And it was divinely revealed to him by the Holy Spirit [that] he would not see death before he should see the Christ of the Lord.",
+    "reference": "Luke 2:26 (BLB)",
+    "connected_to": "Luke 2:27",
+    "connected_from": "Luke 2:25"
+  },
+  {
+    "text": "And he went in the Spirit into the temple. And in the parents bringing in the child Jesus [for] them to do according to that having become customary by the Law concerning Him,",
+    "reference": "Luke 2:27 (BLB)",
+    "connected_to": "Luke 2:28",
+    "connected_from": "Luke 2:26"
+  },
+  {
+    "text": "then he took Him into the arms and blessed God, and he said:",
+    "reference": "Luke 2:28 (BLB)",
+    "connected_to": "Luke 2:29",
+    "connected_from": "Luke 2:27"
+  },
+  {
+    "text": "“Now, Lord, You dismiss Your servant in peace, according to Your word.",
+    "reference": "Luke 2:29 (BLB)",
+    "connected_to": "Luke 2:30",
+    "connected_from": "Luke 2:28"
+  },
+  {
+    "text": "For my eyes saw Your salvation,",
+    "reference": "Luke 2:30 (BLB)",
+    "connected_to": "Luke 2:31",
+    "connected_from": "Luke 2:29"
+  },
+  {
+    "text": "which You prepared before the face of all the peoples,",
+    "reference": "Luke 2:31 (BLB)",
+    "connected_to": "Luke 2:32",
+    "connected_from": "Luke 2:30"
+  },
+  {
+    "text": "a light to the uncovering of the Gentiles, and the glory of Your people Israel.”",
+    "reference": "Luke 2:32 (BLB)",
+    "connected_to": "Luke 2:33",
+    "connected_from": "Luke 2:31"
+  },
+  {
+    "text": "And His father and mother were marveling at the things having been spoken concerning Him.",
+    "reference": "Luke 2:33 (BLB)",
+    "connected_to": "Luke 2:34",
+    "connected_from": "Luke 2:32"
+  },
+  {
+    "text": "And Simeon blessed them and said to His mother Mary: “Behold, this [Child] is appointed for the falling and rising up of many in Israel, and for a sign spoken against—",
+    "reference": "Luke 2:34 (BLB)",
+    "connected_to": "Luke 2:35",
+    "connected_from": "Luke 2:33"
+  },
+  {
+    "text": "and a sword will also pass through your [own] soul—so that the thoughts of many hearts may be revealed.”",
+    "reference": "Luke 2:35 (BLB)",
+    "connected_to": "Luke 2:36",
+    "connected_from": "Luke 2:34"
+  },
+  {
+    "text": "And there was Anna, a prophetess, daughter of Phanuel, of the tribe of Asher; she [was] advanced in many days, having lived with a husband seven years from her virginity,",
+    "reference": "Luke 2:36 (BLB)",
+    "connected_to": "Luke 2:37",
+    "connected_from": "Luke 2:35"
+  },
+  {
+    "text": "and she [was] a widow until eighty-four years, who did not depart the temple, serving with fastings and petitions night and day.",
+    "reference": "Luke 2:37 (BLB)",
+    "connected_to": "Luke 2:38",
+    "connected_from": "Luke 2:36"
+  },
+  {
+    "text": "And having come up at that hour, she was giving praise to God and was speaking concerning Him to all those waiting for the redemption of Jerusalem.",
+    "reference": "Luke 2:38 (BLB)",
+    "connected_to": "Luke 2:39",
+    "connected_from": "Luke 2:37"
+  },
+  {
+    "text": "And when they accomplished everything according to the Law of the Lord, they returned to Galilee, to their city, Nazareth.",
+    "reference": "Luke 2:39 (BLB)",
+    "connected_to": "Luke 2:40",
+    "connected_from": "Luke 2:38"
+  },
+  {
+    "text": "And the Child continued to grow and become strong, being filled with wisdom. And the grace of God was upon Him.",
+    "reference": "Luke 2:40 (BLB)",
+    "connected_to": "Luke 2:41",
+    "connected_from": "Luke 2:39"
+  },
+  {
+    "text": "And His parents were going every year to Jerusalem for the Feast of the Passover.",
+    "reference": "Luke 2:41 (BLB)",
+    "connected_to": "Luke 2:42",
+    "connected_from": "Luke 2:40"
+  },
+  {
+    "text": "And when He was twelve years [old], [on] their having gone up according to the custom of the Feast",
+    "reference": "Luke 2:42 (BLB)",
+    "connected_to": "Luke 2:43",
+    "connected_from": "Luke 2:41"
+  },
+  {
+    "text": "and having completed the days, in their returning, the boy Jesus remained behind in Jerusalem, and His parents did not know.",
+    "reference": "Luke 2:43 (BLB)",
+    "connected_to": "Luke 2:44",
+    "connected_from": "Luke 2:42"
+  },
+  {
+    "text": "And having supposed Him to be in their company, they went a day’s journey and began seeking Him among the relatives and the acquaintances.",
+    "reference": "Luke 2:44 (BLB)",
+    "connected_to": "Luke 2:45",
+    "connected_from": "Luke 2:43"
+  },
+  {
+    "text": "And not having found [Him], they returned to Jerusalem, seeking Him.",
+    "reference": "Luke 2:45 (BLB)",
+    "connected_to": "Luke 2:46",
+    "connected_from": "Luke 2:44"
+  },
+  {
+    "text": "And it came to pass after three days [that] they found Him in the temple, sitting in the midst of the teachers, both hearing them and questioning them.",
+    "reference": "Luke 2:46 (BLB)",
+    "connected_to": "Luke 2:47",
+    "connected_from": "Luke 2:45"
+  },
+  {
+    "text": "And all those hearing Him were amazed at His understanding and answers.",
+    "reference": "Luke 2:47 (BLB)",
+    "connected_to": "Luke 2:48",
+    "connected_from": "Luke 2:46"
+  },
+  {
+    "text": "And having seen Him, they were astonished, and His mother said to Him, “Child, why did You do thus to us? Behold, Your father and I, being distressed, were seeking You.”",
+    "reference": "Luke 2:48 (BLB)",
+    "connected_to": "Luke 2:49",
+    "connected_from": "Luke 2:47"
+  },
+  {
+    "text": "And He said to them, “Why [is it] that you⁺ were seeking Me? Did you⁺ not know that it is necessary for Me to be in the [house] of My Father?”",
+    "reference": "Luke 2:49 (BLB)",
+    "connected_to": "Luke 2:50",
+    "connected_from": "Luke 2:48"
+  },
+  {
+    "text": "And they did not understand the word that He spoke to them.",
+    "reference": "Luke 2:50 (BLB)",
+    "connected_to": "Luke 2:51",
+    "connected_from": "Luke 2:49"
+  },
+  {
+    "text": "And He went down with them and came to Nazareth, and He was subject to them. And His mother was keeping all these matters in her heart.",
+    "reference": "Luke 2:51 (BLB)",
+    "connected_to": "Luke 2:52",
+    "connected_from": "Luke 2:50"
+  },
+  {
+    "text": "And Jesus continued to advance in wisdom and stature, and in favor with God and men.",
+    "reference": "Luke 2:52 (BLB)",
+    "connected_from": "Luke 2:51"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "text": "For the one directing. With the Nehiloth. A Psalm of David. <span class=|reftext|><a href=|#|><b>1</b></a> Give ear to my words, O YHWH; have regard [for] my murmuring.",
+    "reference": "Psalm 5:1 (BLB)",
+    "connected_to": "Psalm 5:2"
+  },
+  {
+    "text": "Be attentive to the voice of my cry, O my King and my God, for to You I pray.",
+    "reference": "Psalm 5:2 (BLB)",
+    "connected_to": "Psalm 5:3",
+    "connected_from": "Psalm 5:1"
+  },
+  {
+    "text": "O YHWH, in the morning You hear my voice; in the morning I direct [it] to You, and I keep watch.",
+    "reference": "Psalm 5:3 (BLB)",
+    "connected_to": "Psalm 5:4",
+    "connected_from": "Psalm 5:2"
+  },
+  {
+    "text": "For You [are] not a God delighting in wickedness; evil shall not sojourn with You.",
+    "reference": "Psalm 5:4 (BLB)",
+    "connected_to": "Psalm 5:5",
+    "connected_from": "Psalm 5:3"
+  },
+  {
+    "text": "The one boasting shall not stand in Your sight; You hate all workers of iniquity.",
+    "reference": "Psalm 5:5 (BLB)",
+    "connected_to": "Psalm 5:6",
+    "connected_from": "Psalm 5:4"
+  },
+  {
+    "text": "You will destroy those speaking falsehood; a man of blood and deceit YHWH abhors.",
+    "reference": "Psalm 5:6 (BLB)",
+    "connected_to": "Psalm 5:7",
+    "connected_from": "Psalm 5:5"
+  },
+  {
+    "text": "But I, in the abundance of Your loving devotion, will come into Your house; I will bow down toward the temple of Your Holiness in fear of You.",
+    "reference": "Psalm 5:7 (BLB)",
+    "connected_to": "Psalm 5:8",
+    "connected_from": "Psalm 5:6"
+  },
+  {
+    "text": "O YHWH, guide me in Your righteousness, on account of my enemies; make straight Your path before my face.",
+    "reference": "Psalm 5:8 (BLB)",
+    "connected_to": "Psalm 5:9",
+    "connected_from": "Psalm 5:7"
+  },
+  {
+    "text": "For there is no firmness in his mouth; within them is destruction; their throat [is] a grave being wide open; they make their tongue smooth.",
+    "reference": "Psalm 5:9 (BLB)",
+    "connected_to": "Psalm 5:10",
+    "connected_from": "Psalm 5:8"
+  },
+  {
+    "text": "Declare them guilty, O God; let them fall by their own devices; in the abundance of their transgressions drive them away, for they have rebelled against You.",
+    "reference": "Psalm 5:10 (BLB)",
+    "connected_to": "Psalm 5:11",
+    "connected_from": "Psalm 5:9"
+  },
+  {
+    "text": "And let all those taking refuge in You rejoice forever; let them shout for joy, and may You cover them over; and let those loving Your name exult in You.",
+    "reference": "Psalm 5:11 (BLB)",
+    "connected_to": "Psalm 5:12",
+    "connected_from": "Psalm 5:10"
+  },
+  {
+    "text": "For You will bless the righteous one, O YHWH; as a shield You will surround him with favor.",
+    "reference": "Psalm 5:12 (BLB)",
+    "connected_from": "Psalm 5:11"
+  }
+]

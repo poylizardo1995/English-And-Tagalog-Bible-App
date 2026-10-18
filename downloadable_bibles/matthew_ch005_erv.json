@@ -1,0 +1,288 @@
+[
+  {
+    "text": "And seeing the multitudes, he went up into the mountain: and when he had sat down, his disciples came unto him:",
+    "reference": "Matthew 5:1 (ERV)",
+    "connected_to": "Matthew 5:2"
+  },
+  {
+    "text": "and he opened his mouth and taught them, saying,",
+    "reference": "Matthew 5:2 (ERV)",
+    "connected_to": "Matthew 5:3",
+    "connected_from": "Matthew 5:1"
+  },
+  {
+    "text": "Blessed are the poor in spirit: for theirs is the kingdom of heaven.",
+    "reference": "Matthew 5:3 (ERV)",
+    "connected_to": "Matthew 5:4",
+    "connected_from": "Matthew 5:2"
+  },
+  {
+    "text": "Blessed are they that mourn: for they shall be comforted.",
+    "reference": "Matthew 5:4 (ERV)",
+    "connected_to": "Matthew 5:5",
+    "connected_from": "Matthew 5:3"
+  },
+  {
+    "text": "Blessed are the meek: for they shall inherit the earth.",
+    "reference": "Matthew 5:5 (ERV)",
+    "connected_to": "Matthew 5:6",
+    "connected_from": "Matthew 5:4"
+  },
+  {
+    "text": "Blessed are they that hunger and thirst after righteousness: for they shall be filled.",
+    "reference": "Matthew 5:6 (ERV)",
+    "connected_to": "Matthew 5:7",
+    "connected_from": "Matthew 5:5"
+  },
+  {
+    "text": "Blessed are the merciful: for they shall obtain mercy.",
+    "reference": "Matthew 5:7 (ERV)",
+    "connected_to": "Matthew 5:8",
+    "connected_from": "Matthew 5:6"
+  },
+  {
+    "text": "Blessed are the pure in heart: for they shall see God.",
+    "reference": "Matthew 5:8 (ERV)",
+    "connected_to": "Matthew 5:9",
+    "connected_from": "Matthew 5:7"
+  },
+  {
+    "text": "Blessed are the peacemakers: for they shall be called sons of God.",
+    "reference": "Matthew 5:9 (ERV)",
+    "connected_to": "Matthew 5:10",
+    "connected_from": "Matthew 5:8"
+  },
+  {
+    "text": "Blessed are they that have been persecuted for righteousness’ sake: for theirs is the kingdom of heaven.",
+    "reference": "Matthew 5:10 (ERV)",
+    "connected_to": "Matthew 5:11",
+    "connected_from": "Matthew 5:9"
+  },
+  {
+    "text": "Blessed are ye when men shall reproach you, and persecute you, and say all manner of evil against you falsely, for my sake.",
+    "reference": "Matthew 5:11 (ERV)",
+    "connected_to": "Matthew 5:12",
+    "connected_from": "Matthew 5:10"
+  },
+  {
+    "text": "Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets which were before you.",
+    "reference": "Matthew 5:12 (ERV)",
+    "connected_to": "Matthew 5:13",
+    "connected_from": "Matthew 5:11"
+  },
+  {
+    "text": "Ye are the salt of the earth: but if the salt have lost its savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out and trodden under foot of men.",
+    "reference": "Matthew 5:13 (ERV)",
+    "connected_to": "Matthew 5:14",
+    "connected_from": "Matthew 5:12"
+  },
+  {
+    "text": "Ye are the light of the world. A city set on a hill cannot be hid.",
+    "reference": "Matthew 5:14 (ERV)",
+    "connected_to": "Matthew 5:15",
+    "connected_from": "Matthew 5:13"
+  },
+  {
+    "text": "Neither do men light a lamp, and put it under the bushel, but on the stand; and it shineth unto all that are in the house.",
+    "reference": "Matthew 5:15 (ERV)",
+    "connected_to": "Matthew 5:16",
+    "connected_from": "Matthew 5:14"
+  },
+  {
+    "text": "Even so let your light shine before men, that they may see your good works, and glorify your Father which is in heaven.",
+    "reference": "Matthew 5:16 (ERV)",
+    "connected_to": "Matthew 5:17",
+    "connected_from": "Matthew 5:15"
+  },
+  {
+    "text": "Think not that I came to destroy the law or the prophets: I came not to destroy, but to fulfill.",
+    "reference": "Matthew 5:17 (ERV)",
+    "connected_to": "Matthew 5:18",
+    "connected_from": "Matthew 5:16"
+  },
+  {
+    "text": "For verily I say unto you, Till heaven and earth pass away, one jot or one tittle shall in no wise pass away from the law, till all things be accomplished.",
+    "reference": "Matthew 5:18 (ERV)",
+    "connected_to": "Matthew 5:19",
+    "connected_from": "Matthew 5:17"
+  },
+  {
+    "text": "Whosoever therefore shall break one of these least commandments, and shall teach men so, shall be called least in the kingdom of heaven: but whosoever shall do and teach them, he shall be called great in the kingdom of heaven.",
+    "reference": "Matthew 5:19 (ERV)",
+    "connected_to": "Matthew 5:20",
+    "connected_from": "Matthew 5:18"
+  },
+  {
+    "text": "For I say unto you, that except your righteousness shall exceed the righteousness of the scribes and Pharisees, ye shall in no wise enter into the kingdom of heaven.",
+    "reference": "Matthew 5:20 (ERV)",
+    "connected_to": "Matthew 5:21",
+    "connected_from": "Matthew 5:19"
+  },
+  {
+    "text": "Ye have heard that it was said to them of old time, Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment:",
+    "reference": "Matthew 5:21 (ERV)",
+    "connected_to": "Matthew 5:22",
+    "connected_from": "Matthew 5:20"
+  },
+  {
+    "text": "but I say unto you, that every one who is angry with his brother shall be in danger of the judgment; and whosoever shall say to his brother, Raca, shall be in danger of the council; and whosoever shall say, Thou fool, shall be in danger of the hell of fire.",
+    "reference": "Matthew 5:22 (ERV)",
+    "connected_to": "Matthew 5:23",
+    "connected_from": "Matthew 5:21"
+  },
+  {
+    "text": "If therefore thou art offering thy gift at the altar, and there rememberest that thy brother hath aught against thee,",
+    "reference": "Matthew 5:23 (ERV)",
+    "connected_to": "Matthew 5:24",
+    "connected_from": "Matthew 5:22"
+  },
+  {
+    "text": "leave there thy gift before the altar, and go thy way, first be reconciled to thy brother, and then come and offer thy gift.",
+    "reference": "Matthew 5:24 (ERV)",
+    "connected_to": "Matthew 5:25",
+    "connected_from": "Matthew 5:23"
+  },
+  {
+    "text": "Agree with thine adversary quickly, whiles thou art with him in the way; lest haply the adversary deliver thee to the judge, and the judge deliver thee to the officer, and thou be cast into prison.",
+    "reference": "Matthew 5:25 (ERV)",
+    "connected_to": "Matthew 5:26",
+    "connected_from": "Matthew 5:24"
+  },
+  {
+    "text": "Verily I say unto thee, Thou shalt by no means come out thence, till thou have paid the last farthing.",
+    "reference": "Matthew 5:26 (ERV)",
+    "connected_to": "Matthew 5:27",
+    "connected_from": "Matthew 5:25"
+  },
+  {
+    "text": "Ye have heard that it was said, Thou shalt not commit adultery:",
+    "reference": "Matthew 5:27 (ERV)",
+    "connected_to": "Matthew 5:28",
+    "connected_from": "Matthew 5:26"
+  },
+  {
+    "text": "but I say unto you, that every one that looketh on a woman to lust after her hath committed adultery with her already in his heart.",
+    "reference": "Matthew 5:28 (ERV)",
+    "connected_to": "Matthew 5:29",
+    "connected_from": "Matthew 5:27"
+  },
+  {
+    "text": "And if thy right eye causeth thee to stumble, pluck it out, and cast it from thee: for it is profitable for thee that one of thy members should perish, and not thy whole body be cast into hell.",
+    "reference": "Matthew 5:29 (ERV)",
+    "connected_to": "Matthew 5:30",
+    "connected_from": "Matthew 5:28"
+  },
+  {
+    "text": "And if thy right hand causeth thee to stumble, cut it off, and cast it from thee: for it is profitable for thee that one of thy members should perish, and not thy whole body go into hell.",
+    "reference": "Matthew 5:30 (ERV)",
+    "connected_to": "Matthew 5:31",
+    "connected_from": "Matthew 5:29"
+  },
+  {
+    "text": "It was said also, Whosoever shall put away his wife, let him give her a writing of divorcement:",
+    "reference": "Matthew 5:31 (ERV)",
+    "connected_to": "Matthew 5:32",
+    "connected_from": "Matthew 5:30"
+  },
+  {
+    "text": "but I say unto you, that every one that putteth away his wife, saving for the cause of fornication, maketh her an adulteress: and whosoever shall marry her when she is put away committeth adultery.",
+    "reference": "Matthew 5:32 (ERV)",
+    "connected_to": "Matthew 5:33",
+    "connected_from": "Matthew 5:31"
+  },
+  {
+    "text": "Again, ye have heard that it was said to them of old time, Thou shalt not forswear thyself, but shalt perform unto the Lord thine oaths:",
+    "reference": "Matthew 5:33 (ERV)",
+    "connected_to": "Matthew 5:34",
+    "connected_from": "Matthew 5:32"
+  },
+  {
+    "text": "but I say unto you, Swear not at all; neither by the heaven, for it is the throne of God;",
+    "reference": "Matthew 5:34 (ERV)",
+    "connected_to": "Matthew 5:35",
+    "connected_from": "Matthew 5:33"
+  },
+  {
+    "text": "nor by the earth, for it is the footstool of his feet; nor by Jerusalem, for it is the city of the great King.",
+    "reference": "Matthew 5:35 (ERV)",
+    "connected_to": "Matthew 5:36",
+    "connected_from": "Matthew 5:34"
+  },
+  {
+    "text": "Neither shalt thou swear by thy head, for thou canst not make one hair white or black.",
+    "reference": "Matthew 5:36 (ERV)",
+    "connected_to": "Matthew 5:37",
+    "connected_from": "Matthew 5:35"
+  },
+  {
+    "text": "But let your speech be, Yea, yea; Nay, nay: and whatsoever is more than these is of the evil one.",
+    "reference": "Matthew 5:37 (ERV)",
+    "connected_to": "Matthew 5:38",
+    "connected_from": "Matthew 5:36"
+  },
+  {
+    "text": "Ye have heard that it was said, An eye for an eye, and a tooth for a tooth:",
+    "reference": "Matthew 5:38 (ERV)",
+    "connected_to": "Matthew 5:39",
+    "connected_from": "Matthew 5:37"
+  },
+  {
+    "text": "but I say unto you, Resist not him that is evil: but whosoever smiteth thee on thy right cheek, turn to him the other also.",
+    "reference": "Matthew 5:39 (ERV)",
+    "connected_to": "Matthew 5:40",
+    "connected_from": "Matthew 5:38"
+  },
+  {
+    "text": "And if any man would go to law with thee, and take away thy coat, let him have thy cloke also.",
+    "reference": "Matthew 5:40 (ERV)",
+    "connected_to": "Matthew 5:41",
+    "connected_from": "Matthew 5:39"
+  },
+  {
+    "text": "And whosoever shall compel thee to go one mile, go with him twain.",
+    "reference": "Matthew 5:41 (ERV)",
+    "connected_to": "Matthew 5:42",
+    "connected_from": "Matthew 5:40"
+  },
+  {
+    "text": "Give to him that asketh thee, and from him that would borrow of thee turn not thou away.",
+    "reference": "Matthew 5:42 (ERV)",
+    "connected_to": "Matthew 5:43",
+    "connected_from": "Matthew 5:41"
+  },
+  {
+    "text": "Ye have heard that it was said, Thou shalt love thy neighbour, and hate thine enemy:",
+    "reference": "Matthew 5:43 (ERV)",
+    "connected_to": "Matthew 5:44",
+    "connected_from": "Matthew 5:42"
+  },
+  {
+    "text": "but I say unto you, Love your enemies, and pray for them that persecute you;",
+    "reference": "Matthew 5:44 (ERV)",
+    "connected_to": "Matthew 5:45",
+    "connected_from": "Matthew 5:43"
+  },
+  {
+    "text": "that ye may be sons of your Father which is in heaven: for he maketh his sun to rise on the evil and the good, and sendeth rain on the just and the unjust.",
+    "reference": "Matthew 5:45 (ERV)",
+    "connected_to": "Matthew 5:46",
+    "connected_from": "Matthew 5:44"
+  },
+  {
+    "text": "For if ye love them that love you, what reward have ye? do not even the publicans the same?",
+    "reference": "Matthew 5:46 (ERV)",
+    "connected_to": "Matthew 5:47",
+    "connected_from": "Matthew 5:45"
+  },
+  {
+    "text": "And if ye salute your brethren only, what do ye more than others? do not even the Gentiles the same?",
+    "reference": "Matthew 5:47 (ERV)",
+    "connected_to": "Matthew 5:48",
+    "connected_from": "Matthew 5:46"
+  },
+  {
+    "text": "Ye therefore shall be perfect, as your heavenly Father is perfect.",
+    "reference": "Matthew 5:48 (ERV)",
+    "connected_from": "Matthew 5:47"
+  }
+]

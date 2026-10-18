@@ -1,0 +1,132 @@
+[
+  {
+    "text": "Now these are the names of the children of Israel, which came into Egypt; every man and his household came with Jacob.",
+    "reference": "Exodus 1:1 (AKJV)",
+    "connected_to": "Exodus 1:2"
+  },
+  {
+    "text": "Reuben, Simeon, Levi, and Judah,",
+    "reference": "Exodus 1:2 (AKJV)",
+    "connected_to": "Exodus 1:3",
+    "connected_from": "Exodus 1:1"
+  },
+  {
+    "text": "Issachar, Zebulun, and Benjamin,",
+    "reference": "Exodus 1:3 (AKJV)",
+    "connected_to": "Exodus 1:4",
+    "connected_from": "Exodus 1:2"
+  },
+  {
+    "text": "Dan, and Naphtali, Gad, and Asher.",
+    "reference": "Exodus 1:4 (AKJV)",
+    "connected_to": "Exodus 1:5",
+    "connected_from": "Exodus 1:3"
+  },
+  {
+    "text": "And all the souls that came out of the loins of Jacob were seventy souls: for Joseph was in Egypt already.",
+    "reference": "Exodus 1:5 (AKJV)",
+    "connected_to": "Exodus 1:6",
+    "connected_from": "Exodus 1:4"
+  },
+  {
+    "text": "And Joseph died, and all his brothers, and all that generation.",
+    "reference": "Exodus 1:6 (AKJV)",
+    "connected_to": "Exodus 1:7",
+    "connected_from": "Exodus 1:5"
+  },
+  {
+    "text": "And the children of Israel were fruitful, and increased abundantly, and multiplied, and waxed exceeding mighty; and the land was filled with them.",
+    "reference": "Exodus 1:7 (AKJV)",
+    "connected_to": "Exodus 1:8",
+    "connected_from": "Exodus 1:6"
+  },
+  {
+    "text": "Now there arose up a new king over Egypt, which knew not Joseph.",
+    "reference": "Exodus 1:8 (AKJV)",
+    "connected_to": "Exodus 1:9",
+    "connected_from": "Exodus 1:7"
+  },
+  {
+    "text": "And he said to his people, Behold, the people of the children of Israel are more and mightier than we:",
+    "reference": "Exodus 1:9 (AKJV)",
+    "connected_to": "Exodus 1:10",
+    "connected_from": "Exodus 1:8"
+  },
+  {
+    "text": "Come on, let us deal wisely with them; lest they multiply, and it come to pass, that, when there falls out any war, they join also to our enemies, and fight against us, and so get them up out of the land.",
+    "reference": "Exodus 1:10 (AKJV)",
+    "connected_to": "Exodus 1:11",
+    "connected_from": "Exodus 1:9"
+  },
+  {
+    "text": "Therefore they did set over them taskmasters to afflict them with their burdens. And they built for Pharaoh treasure cities, Pithom and Raamses.",
+    "reference": "Exodus 1:11 (AKJV)",
+    "connected_to": "Exodus 1:12",
+    "connected_from": "Exodus 1:10"
+  },
+  {
+    "text": "But the more they afflicted them, the more they multiplied and grew. And they were grieved because of the children of Israel.",
+    "reference": "Exodus 1:12 (AKJV)",
+    "connected_to": "Exodus 1:13",
+    "connected_from": "Exodus 1:11"
+  },
+  {
+    "text": "And the Egyptians made the children of Israel to serve with rigor:",
+    "reference": "Exodus 1:13 (AKJV)",
+    "connected_to": "Exodus 1:14",
+    "connected_from": "Exodus 1:12"
+  },
+  {
+    "text": "And they made their lives bitter with hard bondage, in mortar, and in brick, and in all manner of service in the field: all their service, wherein they made them serve, was with rigor.",
+    "reference": "Exodus 1:14 (AKJV)",
+    "connected_to": "Exodus 1:15",
+    "connected_from": "Exodus 1:13"
+  },
+  {
+    "text": "And the king of Egypt spoke to the Hebrew midwives, of which the name of the one was Shiphrah, and the name of the other Puah:",
+    "reference": "Exodus 1:15 (AKJV)",
+    "connected_to": "Exodus 1:16",
+    "connected_from": "Exodus 1:14"
+  },
+  {
+    "text": "And he said, When you do the office of a midwife to the Hebrew women, and see them on the stools; if it be a son, then you shall kill him: but if it be a daughter, then she shall live.",
+    "reference": "Exodus 1:16 (AKJV)",
+    "connected_to": "Exodus 1:17",
+    "connected_from": "Exodus 1:15"
+  },
+  {
+    "text": "But the midwives feared God, and did not as the king of Egypt commanded them, but saved the men children alive.",
+    "reference": "Exodus 1:17 (AKJV)",
+    "connected_to": "Exodus 1:18",
+    "connected_from": "Exodus 1:16"
+  },
+  {
+    "text": "And the king of Egypt called for the midwives, and said to them, Why have you done this thing, and have saved the men children alive?",
+    "reference": "Exodus 1:18 (AKJV)",
+    "connected_to": "Exodus 1:19",
+    "connected_from": "Exodus 1:17"
+  },
+  {
+    "text": "And the midwives said to Pharaoh, Because the Hebrew women are not as the Egyptian women; for they are lively, and are delivered ere the midwives come in to them.",
+    "reference": "Exodus 1:19 (AKJV)",
+    "connected_to": "Exodus 1:20",
+    "connected_from": "Exodus 1:18"
+  },
+  {
+    "text": "Therefore God dealt well with the midwives: and the people multiplied, and waxed very mighty.",
+    "reference": "Exodus 1:20 (AKJV)",
+    "connected_to": "Exodus 1:21",
+    "connected_from": "Exodus 1:19"
+  },
+  {
+    "text": "And it came to pass, because the midwives feared God, that he made them houses.",
+    "reference": "Exodus 1:21 (AKJV)",
+    "connected_to": "Exodus 1:22",
+    "connected_from": "Exodus 1:20"
+  },
+  {
+    "text": "And Pharaoh charged all his people, saying, Every son that is born you shall cast into the river, and every daughter you shall save alive.",
+    "reference": "Exodus 1:22 (AKJV)",
+    "connected_from": "Exodus 1:21"
+  }
+]

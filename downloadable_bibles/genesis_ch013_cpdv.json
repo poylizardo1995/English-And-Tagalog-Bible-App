@@ -1,0 +1,108 @@
+[
+  {
+    "text": "Therefore, Abram ascended from Egypt, he and his wife, and all that he had, and Lot with him, toward the southern region.",
+    "reference": "Genesis 13:1 (CPDV)",
+    "connected_to": "Genesis 13:2"
+  },
+  {
+    "text": "But he was very wealthy by the possession of gold and silver.",
+    "reference": "Genesis 13:2 (CPDV)",
+    "connected_to": "Genesis 13:3",
+    "connected_from": "Genesis 13:1"
+  },
+  {
+    "text": "And he returned by the way that he came, from the meridian into Bethel, all the way to the place where before he had pitched his tent, between Bethel and Hai.",
+    "reference": "Genesis 13:3 (CPDV)",
+    "connected_to": "Genesis 13:4",
+    "connected_from": "Genesis 13:2"
+  },
+  {
+    "text": "There, at the place of the altar he had made before, he again called upon the name of the Lord.",
+    "reference": "Genesis 13:4 (CPDV)",
+    "connected_to": "Genesis 13:5",
+    "connected_from": "Genesis 13:3"
+  },
+  {
+    "text": "But Lot also, who was with Abram, had flocks of sheep, and cattle, and tents.",
+    "reference": "Genesis 13:5 (CPDV)",
+    "connected_to": "Genesis 13:6",
+    "connected_from": "Genesis 13:4"
+  },
+  {
+    "text": "Neither was the land able to contain them, so that they might dwell together. Indeed, their substance was so great that they could not live in common.",
+    "reference": "Genesis 13:6 (CPDV)",
+    "connected_to": "Genesis 13:7",
+    "connected_from": "Genesis 13:5"
+  },
+  {
+    "text": "And then there also arose a conflict between the shepherds of Abram and of Lot. Now at that time the Canaanite and the Perizzite lived in that land.",
+    "reference": "Genesis 13:7 (CPDV)",
+    "connected_to": "Genesis 13:8",
+    "connected_from": "Genesis 13:6"
+  },
+  {
+    "text": "Therefore, Abram said to Lot: “I ask you, let there be no quarrel between me and you, and between my shepherds and your shepherds. For we are brothers.",
+    "reference": "Genesis 13:8 (CPDV)",
+    "connected_to": "Genesis 13:9",
+    "connected_from": "Genesis 13:7"
+  },
+  {
+    "text": "Behold, the entire land is before your eyes. Withdraw from me, I beg you. If you will go to the left, I will take the right. If you choose the right, I will pass to the left.”",
+    "reference": "Genesis 13:9 (CPDV)",
+    "connected_to": "Genesis 13:10",
+    "connected_from": "Genesis 13:8"
+  },
+  {
+    "text": "And so Lot, lifting up his eyes, saw all the region around the Jordan, which was thoroughly irrigated, before the Lord overthrew Sodom and Gomorrah. It was like the Paradise of the Lord, and it was like Egypt, approaching toward Zoar.",
+    "reference": "Genesis 13:10 (CPDV)",
+    "connected_to": "Genesis 13:11",
+    "connected_from": "Genesis 13:9"
+  },
+  {
+    "text": "And Lot chose for himself the region around the Jordan, and he withdrew by way of the east. And they were divided, one brother from the other.",
+    "reference": "Genesis 13:11 (CPDV)",
+    "connected_to": "Genesis 13:12",
+    "connected_from": "Genesis 13:10"
+  },
+  {
+    "text": "Abram dwelt in the land of Canaan. In truth, Lot stayed in the towns that were around the Jordan, and he lived in Sodom.",
+    "reference": "Genesis 13:12 (CPDV)",
+    "connected_to": "Genesis 13:13",
+    "connected_from": "Genesis 13:11"
+  },
+  {
+    "text": "But the men of Sodom were very wicked, and they were sinners before the Lord beyond measure.",
+    "reference": "Genesis 13:13 (CPDV)",
+    "connected_to": "Genesis 13:14",
+    "connected_from": "Genesis 13:12"
+  },
+  {
+    "text": "And the Lord said to Abram, after Lot was divided from him: “Lift up your eyes, and gaze out from the place where you are now, to the north and to the meridian, to the east and to the west.",
+    "reference": "Genesis 13:14 (CPDV)",
+    "connected_to": "Genesis 13:15",
+    "connected_from": "Genesis 13:13"
+  },
+  {
+    "text": "All the land that you see, I will give to you, and to your offspring even forever.",
+    "reference": "Genesis 13:15 (CPDV)",
+    "connected_to": "Genesis 13:16",
+    "connected_from": "Genesis 13:14"
+  },
+  {
+    "text": "And I will make your offspring like the dust of the earth. If any man is able to number the dust of the earth, he will be able to number your offspring as well.",
+    "reference": "Genesis 13:16 (CPDV)",
+    "connected_to": "Genesis 13:17",
+    "connected_from": "Genesis 13:15"
+  },
+  {
+    "text": "Arise and walk through the land in its length, and breadth. For I will give it to you.”",
+    "reference": "Genesis 13:17 (CPDV)",
+    "connected_to": "Genesis 13:18",
+    "connected_from": "Genesis 13:16"
+  },
+  {
+    "text": "Therefore, moving his tent, Abram went and dwelt by the steep valley of Mamre, which is in Hebron. And he built an altar there to the Lord.",
+    "reference": "Genesis 13:18 (CPDV)",
+    "connected_from": "Genesis 13:17"
+  }
+]

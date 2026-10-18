@@ -1,0 +1,102 @@
+[
+  {
+    "text": "And the men of Kirjathjearim came, and fetched up the ark of the LORD, and brought it into the house of Abinadab in the hill, and sanctified Eleazar his son to keep the ark of the LORD.",
+    "reference": "1 Samuel 7:1 (AKJV)",
+    "connected_to": "1 Samuel 7:2"
+  },
+  {
+    "text": "And it came to pass, while the ark stayed in Kirjathjearim, that the time was long; for it was twenty years: and all the house of Israel lamented after the LORD.",
+    "reference": "1 Samuel 7:2 (AKJV)",
+    "connected_to": "1 Samuel 7:3",
+    "connected_from": "1 Samuel 7:1"
+  },
+  {
+    "text": "And Samuel spoke to all the house of Israel, saying, If you do return to the LORD with all your hearts, then put away the strange gods and Ashtaroth from among you, and prepare your hearts to the LORD, and serve him only: and he will deliver you out of the hand of the Philistines.",
+    "reference": "1 Samuel 7:3 (AKJV)",
+    "connected_to": "1 Samuel 7:4",
+    "connected_from": "1 Samuel 7:2"
+  },
+  {
+    "text": "Then the children of Israel did put away Baalim and Ashtaroth, and served the LORD only.",
+    "reference": "1 Samuel 7:4 (AKJV)",
+    "connected_to": "1 Samuel 7:5",
+    "connected_from": "1 Samuel 7:3"
+  },
+  {
+    "text": "And Samuel said, Gather all Israel to Mizpeh, and I will pray for you to the LORD.",
+    "reference": "1 Samuel 7:5 (AKJV)",
+    "connected_to": "1 Samuel 7:6",
+    "connected_from": "1 Samuel 7:4"
+  },
+  {
+    "text": "And they gathered together to Mizpeh, and drew water, and poured it out before the LORD, and fasted on that day, and said there, We have sinned against the LORD. And Samuel judged the children of Israel in Mizpeh.",
+    "reference": "1 Samuel 7:6 (AKJV)",
+    "connected_to": "1 Samuel 7:7",
+    "connected_from": "1 Samuel 7:5"
+  },
+  {
+    "text": "And when the Philistines heard that the children of Israel were gathered together to Mizpeh, the lords of the Philistines went up against Israel. And when the children of Israel heard it, they were afraid of the Philistines.",
+    "reference": "1 Samuel 7:7 (AKJV)",
+    "connected_to": "1 Samuel 7:8",
+    "connected_from": "1 Samuel 7:6"
+  },
+  {
+    "text": "And the children of Israel said to Samuel, Cease not to cry to the LORD our God for us, that he will save us out of the hand of the Philistines.",
+    "reference": "1 Samuel 7:8 (AKJV)",
+    "connected_to": "1 Samuel 7:9",
+    "connected_from": "1 Samuel 7:7"
+  },
+  {
+    "text": "And Samuel took a sucking lamb, and offered it for a burnt offering wholly to the LORD: and Samuel cried to the LORD for Israel; and the LORD heard him.",
+    "reference": "1 Samuel 7:9 (AKJV)",
+    "connected_to": "1 Samuel 7:10",
+    "connected_from": "1 Samuel 7:8"
+  },
+  {
+    "text": "And as Samuel was offering up the burnt offering, the Philistines drew near to battle against Israel: but the LORD thundered with a great thunder on that day on the Philistines, and discomfited them; and they were smitten before Israel.",
+    "reference": "1 Samuel 7:10 (AKJV)",
+    "connected_to": "1 Samuel 7:11",
+    "connected_from": "1 Samuel 7:9"
+  },
+  {
+    "text": "And the men of Israel went out of Mizpeh, and pursued the Philistines, and smote them, until they came under Bethcar.",
+    "reference": "1 Samuel 7:11 (AKJV)",
+    "connected_to": "1 Samuel 7:12",
+    "connected_from": "1 Samuel 7:10"
+  },
+  {
+    "text": "Then Samuel took a stone, and set it between Mizpeh and Shen, and called the name of it Ebenezer, saying, Till now has the LORD helped us.",
+    "reference": "1 Samuel 7:12 (AKJV)",
+    "connected_to": "1 Samuel 7:13",
+    "connected_from": "1 Samuel 7:11"
+  },
+  {
+    "text": "So the Philistines were subdued, and they came no more into the coast of Israel: and the hand of the LORD was against the Philistines all the days of Samuel.",
+    "reference": "1 Samuel 7:13 (AKJV)",
+    "connected_to": "1 Samuel 7:14",
+    "connected_from": "1 Samuel 7:12"
+  },
+  {
+    "text": "And the cities which the Philistines had taken from Israel were restored to Israel, from Ekron even to Gath; and the coasts thereof did Israel deliver out of the hands of the Philistines. And there was peace between Israel and the Amorites.",
+    "reference": "1 Samuel 7:14 (AKJV)",
+    "connected_to": "1 Samuel 7:15",
+    "connected_from": "1 Samuel 7:13"
+  },
+  {
+    "text": "And Samuel judged Israel all the days of his life.",
+    "reference": "1 Samuel 7:15 (AKJV)",
+    "connected_to": "1 Samuel 7:16",
+    "connected_from": "1 Samuel 7:14"
+  },
+  {
+    "text": "And he went from year to year in circuit to Bethel, and Gilgal, and Mizpeh, and judged Israel in all those places.",
+    "reference": "1 Samuel 7:16 (AKJV)",
+    "connected_to": "1 Samuel 7:17",
+    "connected_from": "1 Samuel 7:15"
+  },
+  {
+    "text": "And his return was to Ramah; for there was his house; and there he judged Israel; and there he built an altar to the LORD.",
+    "reference": "1 Samuel 7:17 (AKJV)",
+    "connected_from": "1 Samuel 7:16"
+  }
+]

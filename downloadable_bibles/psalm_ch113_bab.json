@@ -1,0 +1,54 @@
+[
+  {
+    "text": "Hallelujah (Praise the LORD)! Give praise, O servants of the LORD {YHWH}; praise the name of the LORD.",
+    "reference": "Psalm 113:1 (BAB)",
+    "connected_to": "Psalm 113:2"
+  },
+  {
+    "text": "Blessed be the name of the LORD {YHWH} both now and forevermore.",
+    "reference": "Psalm 113:2 (BAB)",
+    "connected_to": "Psalm 113:3",
+    "connected_from": "Psalm 113:1"
+  },
+  {
+    "text": "From where the sun rises to where it sets, the name of the LORD {YHWH} is praised.",
+    "reference": "Psalm 113:3 (BAB)",
+    "connected_to": "Psalm 113:4",
+    "connected_from": "Psalm 113:2"
+  },
+  {
+    "text": "The LORD {YHWH} is exalted over all the nations, His glory above the heavens.",
+    "reference": "Psalm 113:4 (BAB)",
+    "connected_to": "Psalm 113:5",
+    "connected_from": "Psalm 113:3"
+  },
+  {
+    "text": "Who is like the LORD our God {YHWH Elohenu}, the One enthroned on high?",
+    "reference": "Psalm 113:5 (BAB)",
+    "connected_to": "Psalm 113:6",
+    "connected_from": "Psalm 113:4"
+  },
+  {
+    "text": "He humbles Himself to behold the heavens and the earth.",
+    "reference": "Psalm 113:6 (BAB)",
+    "connected_to": "Psalm 113:7",
+    "connected_from": "Psalm 113:5"
+  },
+  {
+    "text": "He raises the poor from the dust and lifts the needy from the dump",
+    "reference": "Psalm 113:7 (BAB)",
+    "connected_to": "Psalm 113:8",
+    "connected_from": "Psalm 113:6"
+  },
+  {
+    "text": "to seat them with nobles, with the princes of His people.",
+    "reference": "Psalm 113:8 (BAB)",
+    "connected_to": "Psalm 113:9",
+    "connected_from": "Psalm 113:7"
+  },
+  {
+    "text": "He settles the barren woman in her home as a joyful mother to her children. Hallelujah!",
+    "reference": "Psalm 113:9 (BAB)",
+    "connected_from": "Psalm 113:8"
+  }
+]

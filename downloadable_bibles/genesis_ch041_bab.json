@@ -1,0 +1,342 @@
+[
+  {
+    "text": "After two full years had passed, Pharaoh (great house) had a dream: He was standing beside the Nile,",
+    "reference": "Genesis 41:1 (BAB)",
+    "connected_to": "Genesis 41:2"
+  },
+  {
+    "text": "when seven cows, sleek and well-fed, came up from the river and began to graze among the reeds.",
+    "reference": "Genesis 41:2 (BAB)",
+    "connected_to": "Genesis 41:3",
+    "connected_from": "Genesis 41:1"
+  },
+  {
+    "text": "After them, seven other cows, sickly and thin, came up from the Nile and stood beside the well-fed cows on the bank of the river.",
+    "reference": "Genesis 41:3 (BAB)",
+    "connected_to": "Genesis 41:4",
+    "connected_from": "Genesis 41:2"
+  },
+  {
+    "text": "And the cows that were sickly and thin devoured the seven sleek, well-fed cows. Then Pharaoh (great house) woke up,",
+    "reference": "Genesis 41:4 (BAB)",
+    "connected_to": "Genesis 41:5",
+    "connected_from": "Genesis 41:3"
+  },
+  {
+    "text": "but he fell back asleep and dreamed a second time: Seven heads of grain, plump and ripe, came up on one stalk.",
+    "reference": "Genesis 41:5 (BAB)",
+    "connected_to": "Genesis 41:6",
+    "connected_from": "Genesis 41:4"
+  },
+  {
+    "text": "After them, seven other heads of grain sprouted, thin and scorched by the east wind.",
+    "reference": "Genesis 41:6 (BAB)",
+    "connected_to": "Genesis 41:7",
+    "connected_from": "Genesis 41:5"
+  },
+  {
+    "text": "And the thin heads of grain swallowed up the seven plump, ripe ones. Then Pharaoh (great house) awoke and realized it was a dream.",
+    "reference": "Genesis 41:7 (BAB)",
+    "connected_to": "Genesis 41:8",
+    "connected_from": "Genesis 41:6"
+  },
+  {
+    "text": "In the morning his spirit {ruachow} was troubled, so he summoned all the magicians and wise men of Egypt (land of bondage). Pharaoh (great house) told them his dreams, but no one could interpret them for him.",
+    "reference": "Genesis 41:8 (BAB)",
+    "connected_to": "Genesis 41:9",
+    "connected_from": "Genesis 41:7"
+  },
+  {
+    "text": "Then the chief cupbearer said to Pharaoh (great house), “Today I recall my failures.",
+    "reference": "Genesis 41:9 (BAB)",
+    "connected_to": "Genesis 41:10",
+    "connected_from": "Genesis 41:8"
+  },
+  {
+    "text": "Pharaoh (great house) was once angry with his servants, and he put me and the chief baker in the custody of the captain of the guard.",
+    "reference": "Genesis 41:10 (BAB)",
+    "connected_to": "Genesis 41:11",
+    "connected_from": "Genesis 41:9"
+  },
+  {
+    "text": "One night both the chief baker and I had dreams, and each dream had its own meaning.",
+    "reference": "Genesis 41:11 (BAB)",
+    "connected_to": "Genesis 41:12",
+    "connected_from": "Genesis 41:10"
+  },
+  {
+    "text": "Now a young Hebrew (one from beyond) was there with us, a servant of the captain of the guard. We told him our dreams and he interpreted them for us individually.",
+    "reference": "Genesis 41:12 (BAB)",
+    "connected_to": "Genesis 41:13",
+    "connected_from": "Genesis 41:11"
+  },
+  {
+    "text": "And it happened to us just as he had interpreted: I was restored to my position, and the other man was hanged.”",
+    "reference": "Genesis 41:13 (BAB)",
+    "connected_to": "Genesis 41:14",
+    "connected_from": "Genesis 41:12"
+  },
+  {
+    "text": "So Pharaoh (great house) sent for Joseph (YHWH has added), who was quickly brought out of the dungeon. After he had shaved and changed his clothes, he went in before Pharaoh.",
+    "reference": "Genesis 41:14 (BAB)",
+    "connected_to": "Genesis 41:15",
+    "connected_from": "Genesis 41:13"
+  },
+  {
+    "text": "Pharaoh (great house) said to Joseph (YHWH has added), “I had a dream, and no one can interpret it. But I have heard it said of you that when you hear a dream you can interpret it.”",
+    "reference": "Genesis 41:15 (BAB)",
+    "connected_to": "Genesis 41:16",
+    "connected_from": "Genesis 41:14"
+  },
+  {
+    "text": "“I myself cannot do it,” Joseph (YHWH has added) replied (great house), “but God {Elohim} will give Pharaoh a sound answer.”",
+    "reference": "Genesis 41:16 (BAB)",
+    "connected_to": "Genesis 41:17",
+    "connected_from": "Genesis 41:15"
+  },
+  {
+    "text": "Then Pharaoh (great house) said to Joseph (YHWH has added): “In my dream I was standing on the bank of the Nile,",
+    "reference": "Genesis 41:17 (BAB)",
+    "connected_to": "Genesis 41:18",
+    "connected_from": "Genesis 41:16"
+  },
+  {
+    "text": "when seven cows, well-fed and sleek, came up from the river and began to graze among the reeds.",
+    "reference": "Genesis 41:18 (BAB)",
+    "connected_to": "Genesis 41:19",
+    "connected_from": "Genesis 41:17"
+  },
+  {
+    "text": "After them, seven other cows—sickly, ugly, and thin—came up. I have never seen such ugly cows in all the land of Egypt (land of bondage)!",
+    "reference": "Genesis 41:19 (BAB)",
+    "connected_to": "Genesis 41:20",
+    "connected_from": "Genesis 41:18"
+  },
+  {
+    "text": "Then the thin, ugly cows devoured the seven well-fed cows that were there first.",
+    "reference": "Genesis 41:20 (BAB)",
+    "connected_to": "Genesis 41:21",
+    "connected_from": "Genesis 41:19"
+  },
+  {
+    "text": "When they had devoured them, however, no one could tell that they had done so; their appearance was as ugly as it had been before. Then I awoke.",
+    "reference": "Genesis 41:21 (BAB)",
+    "connected_to": "Genesis 41:22",
+    "connected_from": "Genesis 41:20"
+  },
+  {
+    "text": "In my dream I also saw seven heads of grain, plump and ripe, growing on a single stalk.",
+    "reference": "Genesis 41:22 (BAB)",
+    "connected_to": "Genesis 41:23",
+    "connected_from": "Genesis 41:21"
+  },
+  {
+    "text": "After them, seven other heads of grain sprouted—withered, thin, and scorched by the east wind.",
+    "reference": "Genesis 41:23 (BAB)",
+    "connected_to": "Genesis 41:24",
+    "connected_from": "Genesis 41:22"
+  },
+  {
+    "text": "And the thin heads of grain swallowed the seven plump ones. I told this dream to the magicians, but no one could explain it to me.”",
+    "reference": "Genesis 41:24 (BAB)",
+    "connected_to": "Genesis 41:25",
+    "connected_from": "Genesis 41:23"
+  },
+  {
+    "text": "At this, Joseph (YHWH has added) said to Pharaoh (great house), “The dreams of Pharaoh are one and the same. God {Elohim} has revealed to Pharaoh what He is about to do.",
+    "reference": "Genesis 41:25 (BAB)",
+    "connected_to": "Genesis 41:26",
+    "connected_from": "Genesis 41:24"
+  },
+  {
+    "text": "The seven good cows are seven years, and the seven ripe heads of grain are seven years. The dreams have the same meaning.",
+    "reference": "Genesis 41:26 (BAB)",
+    "connected_to": "Genesis 41:27",
+    "connected_from": "Genesis 41:25"
+  },
+  {
+    "text": "Moreover, the seven thin, ugly cows that came up after them are seven years, and so are the seven worthless heads of grain scorched by the east wind—they are seven years of famine.",
+    "reference": "Genesis 41:27 (BAB)",
+    "connected_to": "Genesis 41:28",
+    "connected_from": "Genesis 41:26"
+  },
+  {
+    "text": "It is just as I said to Pharaoh (great house): God {Elohim} has shown Pharaoh what He is about to do.",
+    "reference": "Genesis 41:28 (BAB)",
+    "connected_to": "Genesis 41:29",
+    "connected_from": "Genesis 41:27"
+  },
+  {
+    "text": "Behold, seven years of great abundance are coming throughout the land of Egypt (land of bondage),",
+    "reference": "Genesis 41:29 (BAB)",
+    "connected_to": "Genesis 41:30",
+    "connected_from": "Genesis 41:28"
+  },
+  {
+    "text": "but seven years of famine will follow them. Then all the abundance in the land of Egypt (land of bondage) will be forgotten, and the famine will devastate the land.",
+    "reference": "Genesis 41:30 (BAB)",
+    "connected_to": "Genesis 41:31",
+    "connected_from": "Genesis 41:29"
+  },
+  {
+    "text": "The abundance in the land will not be remembered, since the famine that follows it will be so severe.",
+    "reference": "Genesis 41:31 (BAB)",
+    "connected_to": "Genesis 41:32",
+    "connected_from": "Genesis 41:30"
+  },
+  {
+    "text": "Moreover, because the dream was given to Pharaoh (great house) in two versions, the matter has been decreed by God {Elohim}, and He will carry it out shortly.",
+    "reference": "Genesis 41:32 (BAB)",
+    "connected_to": "Genesis 41:33",
+    "connected_from": "Genesis 41:31"
+  },
+  {
+    "text": "Now, therefore, Pharaoh (great house) should look for a discerning and wise man and set him over the land of Egypt (land of bondage).",
+    "reference": "Genesis 41:33 (BAB)",
+    "connected_to": "Genesis 41:34",
+    "connected_from": "Genesis 41:32"
+  },
+  {
+    "text": "Let Pharaoh (great house) take action and appoint commissioners over the land to take a fifth of the harvest [a fifth from the land] of Egypt (land of bondage) during the seven years of abundance.",
+    "reference": "Genesis 41:34 (BAB)",
+    "connected_to": "Genesis 41:35",
+    "connected_from": "Genesis 41:33"
+  },
+  {
+    "text": "Under the authority of Pharaoh (great house), let them collect all the excess food from these good years, that they may come and lay up the grain to be preserved as food in the cities.",
+    "reference": "Genesis 41:35 (BAB)",
+    "connected_to": "Genesis 41:36",
+    "connected_from": "Genesis 41:34"
+  },
+  {
+    "text": "This food will be a reserve for the land during the seven years of famine to come upon the land of Egypt (land of bondage). Then the country will not perish in the famine.”",
+    "reference": "Genesis 41:36 (BAB)",
+    "connected_to": "Genesis 41:37",
+    "connected_from": "Genesis 41:35"
+  },
+  {
+    "text": "This proposal pleased Pharaoh (great house) and all his officials.",
+    "reference": "Genesis 41:37 (BAB)",
+    "connected_to": "Genesis 41:38",
+    "connected_from": "Genesis 41:36"
+  },
+  {
+    "text": "So Pharaoh (great house) asked them, “Can we find anyone like this man, in whom the Spirit of God {Ruach Elohim} abides?”",
+    "reference": "Genesis 41:38 (BAB)",
+    "connected_to": "Genesis 41:39",
+    "connected_from": "Genesis 41:37"
+  },
+  {
+    "text": "Then Pharaoh (great house) said to Joseph (YHWH has added), “Since God {Elohim} has made all this known to you, there is no one as discerning and wise as you.",
+    "reference": "Genesis 41:39 (BAB)",
+    "connected_to": "Genesis 41:40",
+    "connected_from": "Genesis 41:38"
+  },
+  {
+    "text": "You shall be in charge of my house, and all my people are to obey your commands. Only with regard to the throne will I be greater than you.”",
+    "reference": "Genesis 41:40 (BAB)",
+    "connected_to": "Genesis 41:41",
+    "connected_from": "Genesis 41:39"
+  },
+  {
+    "text": "Pharaoh (great house) also told Joseph (YHWH has added), “I hereby place you over all the land of Egypt (land of bondage).”",
+    "reference": "Genesis 41:41 (BAB)",
+    "connected_to": "Genesis 41:42",
+    "connected_from": "Genesis 41:40"
+  },
+  {
+    "text": "Then Pharaoh (great house) removed the signet ring from his finger, put it on Joseph’s (YHWH has added) finger, clothed him in garments of fine linen, and placed a gold chain around his neck.",
+    "reference": "Genesis 41:42 (BAB)",
+    "connected_to": "Genesis 41:43",
+    "connected_from": "Genesis 41:41"
+  },
+  {
+    "text": "He had Joseph ride in his second chariot, with men calling out before him, “Bow the knee {Abrek}!” So he placed him over all the land of Egypt (land of bondage).",
+    "reference": "Genesis 41:43 (BAB)",
+    "connected_to": "Genesis 41:44",
+    "connected_from": "Genesis 41:42"
+  },
+  {
+    "text": "And Pharaoh (great house) declared to Joseph (YHWH has added), “I am Pharaoh, but without your permission, no one in all the land of Egypt (land of bondage) shall lift his hand or foot.”",
+    "reference": "Genesis 41:44 (BAB)",
+    "connected_to": "Genesis 41:45",
+    "connected_from": "Genesis 41:43"
+  },
+  {
+    "text": "Pharaoh (great house) gave Joseph (YHWH has added) the name Zaphenath-paneah (Revealer of Mysteries), and he gave him Asenath (belonging to the goddess Neith) daughter of Potiphera (he whom the Ra gave), priest of On (Heliopolis), to be his wife. And Joseph took charge of all the land of Egypt (land of bondage).",
+    "reference": "Genesis 41:45 (BAB)",
+    "connected_to": "Genesis 41:46",
+    "connected_from": "Genesis 41:44"
+  },
+  {
+    "text": "Now Joseph (YHWH has added) was thirty years old when he entered the service of Pharaoh (great house) king of Egypt (land of bondage). And Joseph left Pharaoh’s presence and traveled throughout the land of Egypt.",
+    "reference": "Genesis 41:46 (BAB)",
+    "connected_to": "Genesis 41:47",
+    "connected_from": "Genesis 41:45"
+  },
+  {
+    "text": "During the seven years of abundance, the land brought forth bountifully.",
+    "reference": "Genesis 41:47 (BAB)",
+    "connected_to": "Genesis 41:48",
+    "connected_from": "Genesis 41:46"
+  },
+  {
+    "text": "During those seven years, Joseph collected all the excess food in the land of Egypt (land of bondage) and stored it in the cities. In every city he laid up the food from the fields around it.",
+    "reference": "Genesis 41:48 (BAB)",
+    "connected_to": "Genesis 41:49",
+    "connected_from": "Genesis 41:47"
+  },
+  {
+    "text": "So Joseph (YHWH has added) stored up grain in such abundance, like the sand of the sea, that he stopped keeping track of it; for it was beyond measure.",
+    "reference": "Genesis 41:49 (BAB)",
+    "connected_to": "Genesis 41:50",
+    "connected_from": "Genesis 41:48"
+  },
+  {
+    "text": "Before the years of famine arrived, two sons were born to Joseph (YHWH has added) by Asenath (belonging to the goddess Neith) daughter of Potiphera (he whom the Ra gave), priest of On (Heliopolis).",
+    "reference": "Genesis 41:50 (BAB)",
+    "connected_to": "Genesis 41:51",
+    "connected_from": "Genesis 41:49"
+  },
+  {
+    "text": "Joseph (YHWH has added) named the firstborn Manasseh (making to forget), saying, “God {Elohim} has made me forget all my hardship and all my father’s household.”",
+    "reference": "Genesis 41:51 (BAB)",
+    "connected_to": "Genesis 41:52",
+    "connected_from": "Genesis 41:50"
+  },
+  {
+    "text": "And the second son he named Ephraim (twice fruitful), saying, “God {Elohim} has made me fruitful in the land of my affliction.”",
+    "reference": "Genesis 41:52 (BAB)",
+    "connected_to": "Genesis 41:53",
+    "connected_from": "Genesis 41:51"
+  },
+  {
+    "text": "When the seven years of abundance in the land of Egypt (land of bondage) came to an end,",
+    "reference": "Genesis 41:53 (BAB)",
+    "connected_to": "Genesis 41:54",
+    "connected_from": "Genesis 41:52"
+  },
+  {
+    "text": "the seven years of famine began, just as Joseph (YHWH has added) had said. And although there was famine in every country, there was food throughout the land of Egypt (land of bondage).",
+    "reference": "Genesis 41:54 (BAB)",
+    "connected_to": "Genesis 41:55",
+    "connected_from": "Genesis 41:53"
+  },
+  {
+    "text": "When extreme hunger came to all the land of Egypt (land of bondage) and the people cried out to Pharaoh (great house) for food, he told all the Egyptians (double straits), “Go to Joseph (YHWH has added) and do whatever he tells you⁺.”",
+    "reference": "Genesis 41:55 (BAB)",
+    "connected_to": "Genesis 41:56",
+    "connected_from": "Genesis 41:54"
+  },
+  {
+    "text": "When the famine had spread over all the land, Joseph (YHWH has added) opened up all the storehouses and sold grain to the Egyptians (land of bondage); for the famine was severe in the land of Egypt.",
+    "reference": "Genesis 41:56 (BAB)",
+    "connected_to": "Genesis 41:57",
+    "connected_from": "Genesis 41:55"
+  },
+  {
+    "text": "And every nation came to Joseph (YHWH has added) in Egypt (land of bondage) to buy grain, because the famine was severe over all the earth.",
+    "reference": "Genesis 41:57 (BAB)",
+    "connected_from": "Genesis 41:56"
+  }
+]

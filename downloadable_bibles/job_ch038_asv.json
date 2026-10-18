@@ -1,0 +1,246 @@
+[
+  {
+    "text": "Then Jehovah answered Job out of the whirlwind, and said,",
+    "reference": "Job 38:1 (ASV)",
+    "connected_to": "Job 38:2"
+  },
+  {
+    "text": "Who is this that darkeneth counsel By words without knowledge?",
+    "reference": "Job 38:2 (ASV)",
+    "connected_to": "Job 38:3",
+    "connected_from": "Job 38:1"
+  },
+  {
+    "text": "Gird up now thy loins like a man; For I will demand of thee, and declare thou unto me.",
+    "reference": "Job 38:3 (ASV)",
+    "connected_to": "Job 38:4",
+    "connected_from": "Job 38:2"
+  },
+  {
+    "text": "Where wast thou when I laid the foundations of the earth? Declare, if thou hast understanding.",
+    "reference": "Job 38:4 (ASV)",
+    "connected_to": "Job 38:5",
+    "connected_from": "Job 38:3"
+  },
+  {
+    "text": "Who determined the measures thereof, if thou knowest? Or who stretched the line upon it?",
+    "reference": "Job 38:5 (ASV)",
+    "connected_to": "Job 38:6",
+    "connected_from": "Job 38:4"
+  },
+  {
+    "text": "Whereupon were the foundations thereof fastened? Or who laid the corner-stone thereof,",
+    "reference": "Job 38:6 (ASV)",
+    "connected_to": "Job 38:7",
+    "connected_from": "Job 38:5"
+  },
+  {
+    "text": "When the morning stars sang together, And all the sons of God shouted for joy?",
+    "reference": "Job 38:7 (ASV)",
+    "connected_to": "Job 38:8",
+    "connected_from": "Job 38:6"
+  },
+  {
+    "text": "Or who shut up the sea with doors, When it brake forth, as if it had issued out of the womb;",
+    "reference": "Job 38:8 (ASV)",
+    "connected_to": "Job 38:9",
+    "connected_from": "Job 38:7"
+  },
+  {
+    "text": "When I made clouds the garment thereof, And thick darkness a swaddling-band for it,",
+    "reference": "Job 38:9 (ASV)",
+    "connected_to": "Job 38:10",
+    "connected_from": "Job 38:8"
+  },
+  {
+    "text": "And marked out for it my bound, And set bars and doors,",
+    "reference": "Job 38:10 (ASV)",
+    "connected_to": "Job 38:11",
+    "connected_from": "Job 38:9"
+  },
+  {
+    "text": "And said, Hitherto shalt thou come, but no further; And here shall thy proud waves be stayed?",
+    "reference": "Job 38:11 (ASV)",
+    "connected_to": "Job 38:12",
+    "connected_from": "Job 38:10"
+  },
+  {
+    "text": "Hast thou commanded the morning since thy days began, And caused the dayspring to know its place;",
+    "reference": "Job 38:12 (ASV)",
+    "connected_to": "Job 38:13",
+    "connected_from": "Job 38:11"
+  },
+  {
+    "text": "That it might take hold of the ends of the earth, And the wicked be shaken out of it?",
+    "reference": "Job 38:13 (ASV)",
+    "connected_to": "Job 38:14",
+    "connected_from": "Job 38:12"
+  },
+  {
+    "text": "It is changed as clay under the seal; And all things stand forth as a garment:",
+    "reference": "Job 38:14 (ASV)",
+    "connected_to": "Job 38:15",
+    "connected_from": "Job 38:13"
+  },
+  {
+    "text": "And from the wicked their light is withholden, And the high arm is broken.",
+    "reference": "Job 38:15 (ASV)",
+    "connected_to": "Job 38:16",
+    "connected_from": "Job 38:14"
+  },
+  {
+    "text": "Hast thou entered into the springs of the sea? Or hast thou walked in the recesses of the deep?",
+    "reference": "Job 38:16 (ASV)",
+    "connected_to": "Job 38:17",
+    "connected_from": "Job 38:15"
+  },
+  {
+    "text": "Have the gates of death been revealed unto thee? Or hast thou seen the gates of the shadow of death?",
+    "reference": "Job 38:17 (ASV)",
+    "connected_to": "Job 38:18",
+    "connected_from": "Job 38:16"
+  },
+  {
+    "text": "Hast thou comprehended the earth in its breadth? Declare, if thou knowest it all.",
+    "reference": "Job 38:18 (ASV)",
+    "connected_to": "Job 38:19",
+    "connected_from": "Job 38:17"
+  },
+  {
+    "text": "Where is the way to the dwelling of light? And as for darkness, where is the place thereof,",
+    "reference": "Job 38:19 (ASV)",
+    "connected_to": "Job 38:20",
+    "connected_from": "Job 38:18"
+  },
+  {
+    "text": "That thou shouldest take it to the bound thereof, And that thou shouldest discern the paths to the house thereof?",
+    "reference": "Job 38:20 (ASV)",
+    "connected_to": "Job 38:21",
+    "connected_from": "Job 38:19"
+  },
+  {
+    "text": "Doubtless, thou knowest, for thou wast then born, And the number of thy days is great!",
+    "reference": "Job 38:21 (ASV)",
+    "connected_to": "Job 38:22",
+    "connected_from": "Job 38:20"
+  },
+  {
+    "text": "Hast thou entered the treasuries of the snow, Or hast thou seen the treasures of the hail,",
+    "reference": "Job 38:22 (ASV)",
+    "connected_to": "Job 38:23",
+    "connected_from": "Job 38:21"
+  },
+  {
+    "text": "Which I have reserved against the time of trouble, Against the day of battle and war?",
+    "reference": "Job 38:23 (ASV)",
+    "connected_to": "Job 38:24",
+    "connected_from": "Job 38:22"
+  },
+  {
+    "text": "By what way is the light parted, Or the east wind scattered upon the earth?",
+    "reference": "Job 38:24 (ASV)",
+    "connected_to": "Job 38:25",
+    "connected_from": "Job 38:23"
+  },
+  {
+    "text": "Who hath cleft a channel for the waterflood, Or the way for the lightning of the thunder;",
+    "reference": "Job 38:25 (ASV)",
+    "connected_to": "Job 38:26",
+    "connected_from": "Job 38:24"
+  },
+  {
+    "text": "To cause it to rain on a land where no man is; On the wilderness, wherein there is no man;",
+    "reference": "Job 38:26 (ASV)",
+    "connected_to": "Job 38:27",
+    "connected_from": "Job 38:25"
+  },
+  {
+    "text": "To satisfy the waste and desolate ground, And to cause the tender grass to spring forth?",
+    "reference": "Job 38:27 (ASV)",
+    "connected_to": "Job 38:28",
+    "connected_from": "Job 38:26"
+  },
+  {
+    "text": "Hath the rain a father? Or who hath begotten the drops of dew?",
+    "reference": "Job 38:28 (ASV)",
+    "connected_to": "Job 38:29",
+    "connected_from": "Job 38:27"
+  },
+  {
+    "text": "Out of whose womb came the ice? And the hoary frost of heaven, who hath gendered it?",
+    "reference": "Job 38:29 (ASV)",
+    "connected_to": "Job 38:30",
+    "connected_from": "Job 38:28"
+  },
+  {
+    "text": "The waters hide themselves and become like stone, And the face of the deep is frozen.",
+    "reference": "Job 38:30 (ASV)",
+    "connected_to": "Job 38:31",
+    "connected_from": "Job 38:29"
+  },
+  {
+    "text": "Canst thou bind the cluster of the Pleiades, Or loose the bands of Orion?",
+    "reference": "Job 38:31 (ASV)",
+    "connected_to": "Job 38:32",
+    "connected_from": "Job 38:30"
+  },
+  {
+    "text": "Canst thou lead forth the Mazzaroth in their season? Or canst thou guide the Bear with her train?",
+    "reference": "Job 38:32 (ASV)",
+    "connected_to": "Job 38:33",
+    "connected_from": "Job 38:31"
+  },
+  {
+    "text": "Knowest thou the ordinances of the heavens? Canst thou establish the dominion thereof in the earth?",
+    "reference": "Job 38:33 (ASV)",
+    "connected_to": "Job 38:34",
+    "connected_from": "Job 38:32"
+  },
+  {
+    "text": "Canst thou lift up thy voice to the clouds, That abundance of waters may cover thee?",
+    "reference": "Job 38:34 (ASV)",
+    "connected_to": "Job 38:35",
+    "connected_from": "Job 38:33"
+  },
+  {
+    "text": "Canst thou send forth lightnings, that they may go, And say unto thee, Here we are?",
+    "reference": "Job 38:35 (ASV)",
+    "connected_to": "Job 38:36",
+    "connected_from": "Job 38:34"
+  },
+  {
+    "text": "Who hath put wisdom in the inward parts? Or who hath given understanding to the mind?",
+    "reference": "Job 38:36 (ASV)",
+    "connected_to": "Job 38:37",
+    "connected_from": "Job 38:35"
+  },
+  {
+    "text": "Who can number the clouds by wisdom? Or who can pour out the bottles of heaven,",
+    "reference": "Job 38:37 (ASV)",
+    "connected_to": "Job 38:38",
+    "connected_from": "Job 38:36"
+  },
+  {
+    "text": "When the dust runneth into a mass, And the clods cleave fast together?",
+    "reference": "Job 38:38 (ASV)",
+    "connected_to": "Job 38:39",
+    "connected_from": "Job 38:37"
+  },
+  {
+    "text": "Canst thou hunt the prey for the lioness, Or satisfy the appetite of the young lions,",
+    "reference": "Job 38:39 (ASV)",
+    "connected_to": "Job 38:40",
+    "connected_from": "Job 38:38"
+  },
+  {
+    "text": "When they couch in their dens, And abide in the covert to lie in wait?",
+    "reference": "Job 38:40 (ASV)",
+    "connected_to": "Job 38:41",
+    "connected_from": "Job 38:39"
+  },
+  {
+    "text": "Who provideth for the raven his prey, When his young ones cry unto God, And wander for lack of food?",
+    "reference": "Job 38:41 (ASV)",
+    "connected_from": "Job 38:40"
+  }
+]

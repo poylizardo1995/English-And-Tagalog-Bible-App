@@ -1,0 +1,150 @@
+[
+  {
+    "text": "Paul, a prisoner of Christ Jesus, and Timothy our brother, To Philemon our beloved fellow worker,",
+    "reference": "Philemon 1:1 (BSB)",
+    "connected_to": "Philemon 1:2"
+  },
+  {
+    "text": "to Apphia our sister, to Archippus our fellow soldier, and to the church that meets at your house:",
+    "reference": "Philemon 1:2 (BSB)",
+    "connected_to": "Philemon 1:3",
+    "connected_from": "Philemon 1:1"
+  },
+  {
+    "text": "Grace and peace to you from God our Father and the Lord Jesus Christ.",
+    "reference": "Philemon 1:3 (BSB)",
+    "connected_to": "Philemon 1:4",
+    "connected_from": "Philemon 1:2"
+  },
+  {
+    "text": "I always thank my God, remembering you in my prayers,",
+    "reference": "Philemon 1:4 (BSB)",
+    "connected_to": "Philemon 1:5",
+    "connected_from": "Philemon 1:3"
+  },
+  {
+    "text": "because I hear about your faith in the Lord Jesus and your love for all the saints.",
+    "reference": "Philemon 1:5 (BSB)",
+    "connected_to": "Philemon 1:6",
+    "connected_from": "Philemon 1:4"
+  },
+  {
+    "text": "I pray that your partnership in the faith may become effective as you fully acknowledge every good thing that is ours in Christ.",
+    "reference": "Philemon 1:6 (BSB)",
+    "connected_to": "Philemon 1:7",
+    "connected_from": "Philemon 1:5"
+  },
+  {
+    "text": "I take great joy and encouragement in your love, because you, brother, have refreshed the hearts of the saints.",
+    "reference": "Philemon 1:7 (BSB)",
+    "connected_to": "Philemon 1:8",
+    "connected_from": "Philemon 1:6"
+  },
+  {
+    "text": "So although in Christ I am bold enough to order you to do what is proper,",
+    "reference": "Philemon 1:8 (BSB)",
+    "connected_to": "Philemon 1:9",
+    "connected_from": "Philemon 1:7"
+  },
+  {
+    "text": "I prefer to appeal on the basis of love. For I, Paul, am now aged, and a prisoner of Christ Jesus as well.",
+    "reference": "Philemon 1:9 (BSB)",
+    "connected_to": "Philemon 1:10",
+    "connected_from": "Philemon 1:8"
+  },
+  {
+    "text": "I appeal to you for my child Onesimus, whose father I became while I was in chains.",
+    "reference": "Philemon 1:10 (BSB)",
+    "connected_to": "Philemon 1:11",
+    "connected_from": "Philemon 1:9"
+  },
+  {
+    "text": "Formerly he was useless to you, but now he has become useful both to you and to me.",
+    "reference": "Philemon 1:11 (BSB)",
+    "connected_to": "Philemon 1:12",
+    "connected_from": "Philemon 1:10"
+  },
+  {
+    "text": "I am sending back to you him who is my very heart.",
+    "reference": "Philemon 1:12 (BSB)",
+    "connected_to": "Philemon 1:13",
+    "connected_from": "Philemon 1:11"
+  },
+  {
+    "text": "I would have liked to keep him with me, so that on your behalf he could minister to me in my chains for the gospel.",
+    "reference": "Philemon 1:13 (BSB)",
+    "connected_to": "Philemon 1:14",
+    "connected_from": "Philemon 1:12"
+  },
+  {
+    "text": "But I did not want to do anything without your consent, so that your goodness will not be out of compulsion, but by your own free will.",
+    "reference": "Philemon 1:14 (BSB)",
+    "connected_to": "Philemon 1:15",
+    "connected_from": "Philemon 1:13"
+  },
+  {
+    "text": "For perhaps this is why he was separated from you for a while, so that you might have him back for good—",
+    "reference": "Philemon 1:15 (BSB)",
+    "connected_to": "Philemon 1:16",
+    "connected_from": "Philemon 1:14"
+  },
+  {
+    "text": "no longer as a slave, but better than a slave, as a beloved brother. He is especially beloved to me, but even more so to you, both in person and in the Lord.",
+    "reference": "Philemon 1:16 (BSB)",
+    "connected_to": "Philemon 1:17",
+    "connected_from": "Philemon 1:15"
+  },
+  {
+    "text": "So if you consider me a partner, receive him as you would receive me.",
+    "reference": "Philemon 1:17 (BSB)",
+    "connected_to": "Philemon 1:18",
+    "connected_from": "Philemon 1:16"
+  },
+  {
+    "text": "But if he has wronged you in any way or owes you anything, charge it to my account.",
+    "reference": "Philemon 1:18 (BSB)",
+    "connected_to": "Philemon 1:19",
+    "connected_from": "Philemon 1:17"
+  },
+  {
+    "text": "I, Paul, write this with my own hand. I will repay it—not to mention that you owe me your very self.",
+    "reference": "Philemon 1:19 (BSB)",
+    "connected_to": "Philemon 1:20",
+    "connected_from": "Philemon 1:18"
+  },
+  {
+    "text": "Yes, brother, let me have some benefit from you in the Lord. Refresh my heart in Christ.",
+    "reference": "Philemon 1:20 (BSB)",
+    "connected_to": "Philemon 1:21",
+    "connected_from": "Philemon 1:19"
+  },
+  {
+    "text": "Confident of your obedience, I write to you, knowing that you will do even more than I ask.",
+    "reference": "Philemon 1:21 (BSB)",
+    "connected_to": "Philemon 1:22",
+    "connected_from": "Philemon 1:20"
+  },
+  {
+    "text": "In the meantime, prepare a guest room for me, because I hope that through your prayers I will be restored to you.",
+    "reference": "Philemon 1:22 (BSB)",
+    "connected_to": "Philemon 1:23",
+    "connected_from": "Philemon 1:21"
+  },
+  {
+    "text": "Epaphras, my fellow prisoner in Christ Jesus, sends you greetings,",
+    "reference": "Philemon 1:23 (BSB)",
+    "connected_to": "Philemon 1:24",
+    "connected_from": "Philemon 1:22"
+  },
+  {
+    "text": "as do Mark, Aristarchus, Demas, and Luke, my fellow workers.",
+    "reference": "Philemon 1:24 (BSB)",
+    "connected_to": "Philemon 1:25",
+    "connected_from": "Philemon 1:23"
+  },
+  {
+    "text": "The grace of the Lord Jesus Christ be with your spirit.",
+    "reference": "Philemon 1:25 (BSB)",
+    "connected_from": "Philemon 1:24"
+  }
+]

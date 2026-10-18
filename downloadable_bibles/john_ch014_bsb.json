@@ -1,0 +1,186 @@
+[
+  {
+    "text": "“Do not let your hearts be troubled. You believe in God; believe in Me as well.",
+    "reference": "John 14:1 (BSB)",
+    "connected_to": "John 14:2"
+  },
+  {
+    "text": "In My Father’s house are many rooms. If it were not so, would I have told you that I am going there to prepare a place for you?",
+    "reference": "John 14:2 (BSB)",
+    "connected_to": "John 14:3",
+    "connected_from": "John 14:1"
+  },
+  {
+    "text": "And if I go and prepare a place for you, I will come back and welcome you into My presence, so that you also may be where I am.",
+    "reference": "John 14:3 (BSB)",
+    "connected_to": "John 14:4",
+    "connected_from": "John 14:2"
+  },
+  {
+    "text": "You know the way to the place where I am going.”",
+    "reference": "John 14:4 (BSB)",
+    "connected_to": "John 14:5",
+    "connected_from": "John 14:3"
+  },
+  {
+    "text": "“Lord,” said Thomas, “we do not know where You are going, so how can we know the way?”",
+    "reference": "John 14:5 (BSB)",
+    "connected_to": "John 14:6",
+    "connected_from": "John 14:4"
+  },
+  {
+    "text": "Jesus answered, “I am the way and the truth and the life. No one comes to the Father except through Me.",
+    "reference": "John 14:6 (BSB)",
+    "connected_to": "John 14:7",
+    "connected_from": "John 14:5"
+  },
+  {
+    "text": "If you had known Me, you would know My Father as well. From now on you do know Him and have seen Him.”",
+    "reference": "John 14:7 (BSB)",
+    "connected_to": "John 14:8",
+    "connected_from": "John 14:6"
+  },
+  {
+    "text": "Philip said to Him, “Lord, show us the Father, and that will be enough for us.”",
+    "reference": "John 14:8 (BSB)",
+    "connected_to": "John 14:9",
+    "connected_from": "John 14:7"
+  },
+  {
+    "text": "Jesus replied, “Philip, I have been with you all this time, and still you do not know Me? Anyone who has seen Me has seen the Father. How can you say, ‘Show us the Father’?",
+    "reference": "John 14:9 (BSB)",
+    "connected_to": "John 14:10",
+    "connected_from": "John 14:8"
+  },
+  {
+    "text": "Do you not believe that I am in the Father and the Father is in Me? The words I say to you, I do not speak on My own. Instead, it is the Father dwelling in Me, performing His works.",
+    "reference": "John 14:10 (BSB)",
+    "connected_to": "John 14:11",
+    "connected_from": "John 14:9"
+  },
+  {
+    "text": "Believe Me that I am in the Father and the Father is in Me—or at least believe on account of the works themselves.",
+    "reference": "John 14:11 (BSB)",
+    "connected_to": "John 14:12",
+    "connected_from": "John 14:10"
+  },
+  {
+    "text": "Truly, truly, I tell you, whoever believes in Me will also do the works that I am doing. He will do even greater things than these, because I am going to the Father.",
+    "reference": "John 14:12 (BSB)",
+    "connected_to": "John 14:13",
+    "connected_from": "John 14:11"
+  },
+  {
+    "text": "And I will do whatever you ask in My name, so that the Father may be glorified in the Son.",
+    "reference": "John 14:13 (BSB)",
+    "connected_to": "John 14:14",
+    "connected_from": "John 14:12"
+  },
+  {
+    "text": "If you ask Me for anything in My name, I will do it.",
+    "reference": "John 14:14 (BSB)",
+    "connected_to": "John 14:15",
+    "connected_from": "John 14:13"
+  },
+  {
+    "text": "If you love Me, you will keep My commandments.",
+    "reference": "John 14:15 (BSB)",
+    "connected_to": "John 14:16",
+    "connected_from": "John 14:14"
+  },
+  {
+    "text": "And I will ask the Father, and He will give you another Advocate to be with you forever—",
+    "reference": "John 14:16 (BSB)",
+    "connected_to": "John 14:17",
+    "connected_from": "John 14:15"
+  },
+  {
+    "text": "the Spirit of truth. The world cannot receive Him, because it neither sees Him nor knows Him. But you do know Him, for He abides with you and will be in you.",
+    "reference": "John 14:17 (BSB)",
+    "connected_to": "John 14:18",
+    "connected_from": "John 14:16"
+  },
+  {
+    "text": "I will not leave you as orphans; I will come to you.",
+    "reference": "John 14:18 (BSB)",
+    "connected_to": "John 14:19",
+    "connected_from": "John 14:17"
+  },
+  {
+    "text": "In a little while the world will see Me no more, but you will see Me. Because I live, you also will live.",
+    "reference": "John 14:19 (BSB)",
+    "connected_to": "John 14:20",
+    "connected_from": "John 14:18"
+  },
+  {
+    "text": "On that day you will know that I am in My Father, and you are in Me, and I am in you.",
+    "reference": "John 14:20 (BSB)",
+    "connected_to": "John 14:21",
+    "connected_from": "John 14:19"
+  },
+  {
+    "text": "Whoever has My commandments and keeps them is the one who loves Me. The one who loves Me will be loved by My Father, and I will love him and reveal Myself to him.”",
+    "reference": "John 14:21 (BSB)",
+    "connected_to": "John 14:22",
+    "connected_from": "John 14:20"
+  },
+  {
+    "text": "Judas (not Iscariot) asked Him, “Lord, why are You going to reveal Yourself to us and not to the world?”",
+    "reference": "John 14:22 (BSB)",
+    "connected_to": "John 14:23",
+    "connected_from": "John 14:21"
+  },
+  {
+    "text": "Jesus replied, “If anyone loves Me, he will keep My word. My Father will love him, and We will come to him and make Our home with him.",
+    "reference": "John 14:23 (BSB)",
+    "connected_to": "John 14:24",
+    "connected_from": "John 14:22"
+  },
+  {
+    "text": "Whoever does not love Me does not keep My words. The word that you hear is not My own, but it is from the Father who sent Me.",
+    "reference": "John 14:24 (BSB)",
+    "connected_to": "John 14:25",
+    "connected_from": "John 14:23"
+  },
+  {
+    "text": "All this I have spoken to you while I am still with you.",
+    "reference": "John 14:25 (BSB)",
+    "connected_to": "John 14:26",
+    "connected_from": "John 14:24"
+  },
+  {
+    "text": "But the Advocate, the Holy Spirit, whom the Father will send in My name, will teach you all things and will remind you of everything I have told you.",
+    "reference": "John 14:26 (BSB)",
+    "connected_to": "John 14:27",
+    "connected_from": "John 14:25"
+  },
+  {
+    "text": "Peace I leave with you; My peace I give to you. I do not give to you as the world gives. Do not let your hearts be troubled; do not be afraid.",
+    "reference": "John 14:27 (BSB)",
+    "connected_to": "John 14:28",
+    "connected_from": "John 14:26"
+  },
+  {
+    "text": "You heard Me say, ‘I am going away, and I am coming back to you.’ If you loved Me, you would rejoice that I am going to the Father, because the Father is greater than I.",
+    "reference": "John 14:28 (BSB)",
+    "connected_to": "John 14:29",
+    "connected_from": "John 14:27"
+  },
+  {
+    "text": "And now I have told you before it happens, so that when it does happen, you will believe.",
+    "reference": "John 14:29 (BSB)",
+    "connected_to": "John 14:30",
+    "connected_from": "John 14:28"
+  },
+  {
+    "text": "I will not speak with you much longer, for the prince of this world is coming, and he has no claim on Me.",
+    "reference": "John 14:30 (BSB)",
+    "connected_to": "John 14:31",
+    "connected_from": "John 14:29"
+  },
+  {
+    "text": "But I do exactly what the Father has commanded Me, so that the world may know that I love the Father. Get up! Let us go on from here.",
+    "reference": "John 14:31 (BSB)",
+    "connected_from": "John 14:30"
+  }
+]

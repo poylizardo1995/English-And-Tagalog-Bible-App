@@ -1,0 +1,354 @@
+[
+  {
+    "text": "But Jesus continued on to the Mount of Olives.",
+    "reference": "John 8:1 (CPDV)",
+    "connected_to": "John 8:2"
+  },
+  {
+    "text": "And early in the morning, he went again to the temple; and all the people came to him. And sitting down, he taught them.",
+    "reference": "John 8:2 (CPDV)",
+    "connected_to": "John 8:3",
+    "connected_from": "John 8:1"
+  },
+  {
+    "text": "Now the scribes and Pharisees brought forward a woman caught in adultery, and they stood her in front of them.",
+    "reference": "John 8:3 (CPDV)",
+    "connected_to": "John 8:4",
+    "connected_from": "John 8:2"
+  },
+  {
+    "text": "And they said to him: “Teacher, this woman was just now caught in adultery.",
+    "reference": "John 8:4 (CPDV)",
+    "connected_to": "John 8:5",
+    "connected_from": "John 8:3"
+  },
+  {
+    "text": "And in the law, Moses commanded us to stone such a one. Therefore, what do you say?”",
+    "reference": "John 8:5 (CPDV)",
+    "connected_to": "John 8:6",
+    "connected_from": "John 8:4"
+  },
+  {
+    "text": "But they were saying this to test him, so that they might be able to accuse him. Then Jesus bent down and wrote with his finger on the earth.",
+    "reference": "John 8:6 (CPDV)",
+    "connected_to": "John 8:7",
+    "connected_from": "John 8:5"
+  },
+  {
+    "text": "And then, when they persevered in questioning him, he stood upright and said to them, “Let whoever is without sin among you be the first to cast a stone at her.”",
+    "reference": "John 8:7 (CPDV)",
+    "connected_to": "John 8:8",
+    "connected_from": "John 8:6"
+  },
+  {
+    "text": "And bending down again, he wrote on the earth.",
+    "reference": "John 8:8 (CPDV)",
+    "connected_to": "John 8:9",
+    "connected_from": "John 8:7"
+  },
+  {
+    "text": "But upon hearing this, they went away, one by one, beginning with the eldest. And Jesus alone remained, with the woman standing in front of him.",
+    "reference": "John 8:9 (CPDV)",
+    "connected_to": "John 8:10",
+    "connected_from": "John 8:8"
+  },
+  {
+    "text": "Then Jesus, raising himself up, said to her: “Woman, where are those who accused you? Has no one condemned you?”",
+    "reference": "John 8:10 (CPDV)",
+    "connected_to": "John 8:11",
+    "connected_from": "John 8:9"
+  },
+  {
+    "text": "And she said, “No one, Lord.” Then Jesus said: “Neither will I condemn you. Go, and now do not choose to sin anymore.”",
+    "reference": "John 8:11 (CPDV)",
+    "connected_to": "John 8:12",
+    "connected_from": "John 8:10"
+  },
+  {
+    "text": "Then Jesus spoke to them again, saying: “I am the light of the world. Whoever follows me does not walk in darkness, but shall have the light of life.”",
+    "reference": "John 8:12 (CPDV)",
+    "connected_to": "John 8:13",
+    "connected_from": "John 8:11"
+  },
+  {
+    "text": "And so the Pharisees said to him, “You offer testimony about yourself; your testimony is not true.”",
+    "reference": "John 8:13 (CPDV)",
+    "connected_to": "John 8:14",
+    "connected_from": "John 8:12"
+  },
+  {
+    "text": "Jesus responded and said to them: “Even though I offer testimony about myself, my testimony is true, for I know where I came from and where I am going.",
+    "reference": "John 8:14 (CPDV)",
+    "connected_to": "John 8:15",
+    "connected_from": "John 8:13"
+  },
+  {
+    "text": "You judge according to the flesh. I do not judge anyone.",
+    "reference": "John 8:15 (CPDV)",
+    "connected_to": "John 8:16",
+    "connected_from": "John 8:14"
+  },
+  {
+    "text": "And when I do judge, my judgment is true. For I am not alone, but it is I and he who sent me: the Father.",
+    "reference": "John 8:16 (CPDV)",
+    "connected_to": "John 8:17",
+    "connected_from": "John 8:15"
+  },
+  {
+    "text": "And it is written in your law that the testimony of two men is true.",
+    "reference": "John 8:17 (CPDV)",
+    "connected_to": "John 8:18",
+    "connected_from": "John 8:16"
+  },
+  {
+    "text": "I am one who offers testimony about myself, and the Father who sent me offers testimony about me.”",
+    "reference": "John 8:18 (CPDV)",
+    "connected_to": "John 8:19",
+    "connected_from": "John 8:17"
+  },
+  {
+    "text": "Therefore, they said to him, “Where is your Father?” Jesus answered: “You know neither me, nor my Father. If you did know me, perhaps you would know my Father also.”",
+    "reference": "John 8:19 (CPDV)",
+    "connected_to": "John 8:20",
+    "connected_from": "John 8:18"
+  },
+  {
+    "text": "Jesus spoke these words at the treasury, while teaching in the temple. And no one apprehended him, because his hour had not yet come.",
+    "reference": "John 8:20 (CPDV)",
+    "connected_to": "John 8:21",
+    "connected_from": "John 8:19"
+  },
+  {
+    "text": "Therefore, Jesus again spoke to them: “I am going, and you shall seek me. And you will die in your sin. Where I am going, you are not able to go.”",
+    "reference": "John 8:21 (CPDV)",
+    "connected_to": "John 8:22",
+    "connected_from": "John 8:20"
+  },
+  {
+    "text": "And so the Jews said, “Is he going to kill himself, for he said: ‘Where I am going, you are not able to go?’ ”",
+    "reference": "John 8:22 (CPDV)",
+    "connected_to": "John 8:23",
+    "connected_from": "John 8:21"
+  },
+  {
+    "text": "And he said to them: “You are from below. I am from above. You are of this world. I am not of this world.",
+    "reference": "John 8:23 (CPDV)",
+    "connected_to": "John 8:24",
+    "connected_from": "John 8:22"
+  },
+  {
+    "text": "Therefore, I said to you, that you will die in your sins. For if you will not believe that I am, you will die in your sin.”",
+    "reference": "John 8:24 (CPDV)",
+    "connected_to": "John 8:25",
+    "connected_from": "John 8:23"
+  },
+  {
+    "text": "And so they said to him, “Who are you?” Jesus said to them: “The Beginning, who is also speaking to you.",
+    "reference": "John 8:25 (CPDV)",
+    "connected_to": "John 8:26",
+    "connected_from": "John 8:24"
+  },
+  {
+    "text": "I have much to say about you and to judge. But he who sent me is true. And what I have heard from him, this I speak within the world.”",
+    "reference": "John 8:26 (CPDV)",
+    "connected_to": "John 8:27",
+    "connected_from": "John 8:25"
+  },
+  {
+    "text": "And they did not realize that he was calling God his Father.",
+    "reference": "John 8:27 (CPDV)",
+    "connected_to": "John 8:28",
+    "connected_from": "John 8:26"
+  },
+  {
+    "text": "And so Jesus said to them: “When you will have lifted up the Son of man, then you shall realize that I am, and that I do nothing of myself, but just as the Father has taught me, so do I speak.",
+    "reference": "John 8:28 (CPDV)",
+    "connected_to": "John 8:29",
+    "connected_from": "John 8:27"
+  },
+  {
+    "text": "And he who sent me is with me, and he has not abandoned me alone. For I always do what is pleasing to him.”",
+    "reference": "John 8:29 (CPDV)",
+    "connected_to": "John 8:30",
+    "connected_from": "John 8:28"
+  },
+  {
+    "text": "As he was speaking these things, many believed in him.",
+    "reference": "John 8:30 (CPDV)",
+    "connected_to": "John 8:31",
+    "connected_from": "John 8:29"
+  },
+  {
+    "text": "Therefore, Jesus said to those Jews who believed in him: “If you will abide in my word, you will truly be my disciples.",
+    "reference": "John 8:31 (CPDV)",
+    "connected_to": "John 8:32",
+    "connected_from": "John 8:30"
+  },
+  {
+    "text": "And you shall know the truth, and the truth shall set you free.”",
+    "reference": "John 8:32 (CPDV)",
+    "connected_to": "John 8:33",
+    "connected_from": "John 8:31"
+  },
+  {
+    "text": "They answered him: “We are the offspring of Abraham, and we have never been a slave to anyone. How can you say, ‘You shall be set free?’ ”",
+    "reference": "John 8:33 (CPDV)",
+    "connected_to": "John 8:34",
+    "connected_from": "John 8:32"
+  },
+  {
+    "text": "Jesus answered them: “Amen, amen, I say to you, that everyone who commits sin is a slave of sin.",
+    "reference": "John 8:34 (CPDV)",
+    "connected_to": "John 8:35",
+    "connected_from": "John 8:33"
+  },
+  {
+    "text": "Now the slave does not abide in the house for eternity. Yet the Son does abide in eternity.",
+    "reference": "John 8:35 (CPDV)",
+    "connected_to": "John 8:36",
+    "connected_from": "John 8:34"
+  },
+  {
+    "text": "Therefore, if the Son has set you free, then you will truly be free.",
+    "reference": "John 8:36 (CPDV)",
+    "connected_to": "John 8:37",
+    "connected_from": "John 8:35"
+  },
+  {
+    "text": "I know that you are sons of Abraham. But you are seeking to kill me, because my word has not taken hold in you.",
+    "reference": "John 8:37 (CPDV)",
+    "connected_to": "John 8:38",
+    "connected_from": "John 8:36"
+  },
+  {
+    "text": "I speak what I have seen with my Father. And you do what you have seen with your father.”",
+    "reference": "John 8:38 (CPDV)",
+    "connected_to": "John 8:39",
+    "connected_from": "John 8:37"
+  },
+  {
+    "text": "They responded and said to him, “Abraham is our father.” Jesus said to them: “If you are the sons of Abraham, then do the works of Abraham.",
+    "reference": "John 8:39 (CPDV)",
+    "connected_to": "John 8:40",
+    "connected_from": "John 8:38"
+  },
+  {
+    "text": "But now you are seeking to kill me, a man who has spoken the truth to you, which I have heard from God. This is not what Abraham did.",
+    "reference": "John 8:40 (CPDV)",
+    "connected_to": "John 8:41",
+    "connected_from": "John 8:39"
+  },
+  {
+    "text": "You do the works of your father.” Therefore, they said to him: “We were not born out of fornication. We have one father: God.”",
+    "reference": "John 8:41 (CPDV)",
+    "connected_to": "John 8:42",
+    "connected_from": "John 8:40"
+  },
+  {
+    "text": "Then Jesus said to them: “If God were your father, certainly you would love me. For I proceeded and came from God. For I did not come from myself, but he sent me.",
+    "reference": "John 8:42 (CPDV)",
+    "connected_to": "John 8:43",
+    "connected_from": "John 8:41"
+  },
+  {
+    "text": "Why do you not recognize my speech? It is because you are not able to hear my word.",
+    "reference": "John 8:43 (CPDV)",
+    "connected_to": "John 8:44",
+    "connected_from": "John 8:42"
+  },
+  {
+    "text": "You are of your father, the devil. And you will carry out the desires of your father. He was a murderer from the beginning. And he did not stand in the truth, because the truth is not in him. When he speaks a lie, he speaks it from his own self. For he is a liar, and the father of lies.",
+    "reference": "John 8:44 (CPDV)",
+    "connected_to": "John 8:45",
+    "connected_from": "John 8:43"
+  },
+  {
+    "text": "But if I speak the truth, you do not believe me.",
+    "reference": "John 8:45 (CPDV)",
+    "connected_to": "John 8:46",
+    "connected_from": "John 8:44"
+  },
+  {
+    "text": "Which of you can convict me of sin? If I speak the truth to you, why do you not believe me?",
+    "reference": "John 8:46 (CPDV)",
+    "connected_to": "John 8:47",
+    "connected_from": "John 8:45"
+  },
+  {
+    "text": "Whoever is of God, hears the words of God. For this reason, you do not hear them: because you are not of God.”",
+    "reference": "John 8:47 (CPDV)",
+    "connected_to": "John 8:48",
+    "connected_from": "John 8:46"
+  },
+  {
+    "text": "Therefore, the Jews responded and said to him, “Are we not correct in saying that you are a Samaritan, and that you have a demon?”",
+    "reference": "John 8:48 (CPDV)",
+    "connected_to": "John 8:49",
+    "connected_from": "John 8:47"
+  },
+  {
+    "text": "Jesus responded: “I do not have a demon. But I honor my Father, and you have dishonored me.",
+    "reference": "John 8:49 (CPDV)",
+    "connected_to": "John 8:50",
+    "connected_from": "John 8:48"
+  },
+  {
+    "text": "But I am not seeking my own glory. There is One who seeks and judges.",
+    "reference": "John 8:50 (CPDV)",
+    "connected_to": "John 8:51",
+    "connected_from": "John 8:49"
+  },
+  {
+    "text": "Amen, amen, I say to you, if anyone will have kept my word, he will not see death for eternity.”",
+    "reference": "John 8:51 (CPDV)",
+    "connected_to": "John 8:52",
+    "connected_from": "John 8:50"
+  },
+  {
+    "text": "Therefore, the Jews said: “Now we know that you have a demon. Abraham is dead, and the Prophets; and yet you say, ‘If anyone will have kept my word, he shall not taste death for eternity.’",
+    "reference": "John 8:52 (CPDV)",
+    "connected_to": "John 8:53",
+    "connected_from": "John 8:51"
+  },
+  {
+    "text": "Are you greater than our father Abraham, who is dead? And the prophets are dead. So who do you make yourself to be?”",
+    "reference": "John 8:53 (CPDV)",
+    "connected_to": "John 8:54",
+    "connected_from": "John 8:52"
+  },
+  {
+    "text": "Jesus responded: “If I glorify myself, my glory is nothing. It is my Father who glorifies me. And you say about him that he is your God.",
+    "reference": "John 8:54 (CPDV)",
+    "connected_to": "John 8:55",
+    "connected_from": "John 8:53"
+  },
+  {
+    "text": "And yet you have not known him. But I know him. And if I were to say that I do not know him, then I would be like you, a liar. But I know him, and I keep his word.",
+    "reference": "John 8:55 (CPDV)",
+    "connected_to": "John 8:56",
+    "connected_from": "John 8:54"
+  },
+  {
+    "text": "Abraham, your father, rejoiced that he might see my day; he saw it and was glad.”",
+    "reference": "John 8:56 (CPDV)",
+    "connected_to": "John 8:57",
+    "connected_from": "John 8:55"
+  },
+  {
+    "text": "And so the Jews said to him, “You have not yet reached fifty years, and you have seen Abraham?”",
+    "reference": "John 8:57 (CPDV)",
+    "connected_to": "John 8:58",
+    "connected_from": "John 8:56"
+  },
+  {
+    "text": "Jesus said to them, “Amen, amen, I say to you, before Abraham was made, I am.”",
+    "reference": "John 8:58 (CPDV)",
+    "connected_to": "John 8:59",
+    "connected_from": "John 8:57"
+  },
+  {
+    "text": "Therefore, they took up stones to cast at him. But Jesus hid himself, and he departed from the temple.",
+    "reference": "John 8:59 (CPDV)",
+    "connected_from": "John 8:58"
+  }
+]

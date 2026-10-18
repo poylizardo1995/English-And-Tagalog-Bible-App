@@ -1,0 +1,36 @@
+[
+  {
+    "text": "A Song of Ascents.  Happy is every one that feareth the LORD, That walketh in His ways.",
+    "reference": "Psalm 128:1 (JPS)",
+    "connected_to": "Psalm 128:2"
+  },
+  {
+    "text": "When thou eatest the labour of thy hands, Happy shalt thou be, and it shall be well with thee.",
+    "reference": "Psalm 128:2 (JPS)",
+    "connected_to": "Psalm 128:3",
+    "connected_from": "Psalm 128:1"
+  },
+  {
+    "text": "Thy wife shall be as a fruitful vine, in the innermost parts of thy house; Thy children like olive plants, round about thy table.",
+    "reference": "Psalm 128:3 (JPS)",
+    "connected_to": "Psalm 128:4",
+    "connected_from": "Psalm 128:2"
+  },
+  {
+    "text": "Behold, surely thus shall the man be blessed That feareth the LORD.",
+    "reference": "Psalm 128:4 (JPS)",
+    "connected_to": "Psalm 128:5",
+    "connected_from": "Psalm 128:3"
+  },
+  {
+    "text": "The LORD bless thee out of Zion; And see thou the good of Jerusalem all the days of thy life;",
+    "reference": "Psalm 128:5 (JPS)",
+    "connected_to": "Psalm 128:6",
+    "connected_from": "Psalm 128:4"
+  },
+  {
+    "text": "And see thy children’s children. Peace be upon Israel!",
+    "reference": "Psalm 128:6 (JPS)",
+    "connected_from": "Psalm 128:5"
+  }
+]

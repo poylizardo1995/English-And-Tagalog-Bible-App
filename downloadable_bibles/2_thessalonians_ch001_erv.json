@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Paul, and Silvanus, and Timothy, unto the church of the Thessalonians in God our Father and the Lord Jesus Christ;",
+    "reference": "2 Thessalonians 1:1 (ERV)",
+    "connected_to": "2 Thessalonians 1:2"
+  },
+  {
+    "text": "Grace to you and peace from God the Father and the Lord Jesus Christ.",
+    "reference": "2 Thessalonians 1:2 (ERV)",
+    "connected_to": "2 Thessalonians 1:3",
+    "connected_from": "2 Thessalonians 1:1"
+  },
+  {
+    "text": "We are bound to give thanks to God alway for you, brethren, even as it is meet, for that your faith groweth exceedingly, and the love of each one of you all toward one another aboundeth;",
+    "reference": "2 Thessalonians 1:3 (ERV)",
+    "connected_to": "2 Thessalonians 1:4",
+    "connected_from": "2 Thessalonians 1:2"
+  },
+  {
+    "text": "so that we ourselves glory in you in the churches of God for your patience and faith in all your persecutions and in the afflictions which ye endure;",
+    "reference": "2 Thessalonians 1:4 (ERV)",
+    "connected_to": "2 Thessalonians 1:5",
+    "connected_from": "2 Thessalonians 1:3"
+  },
+  {
+    "text": "which is a manifest token of the righteous judgment of God; to the end that ye may be counted worthy of the kingdom of God, for which ye also suffer:",
+    "reference": "2 Thessalonians 1:5 (ERV)",
+    "connected_to": "2 Thessalonians 1:6",
+    "connected_from": "2 Thessalonians 1:4"
+  },
+  {
+    "text": "if so be that it is a righteous thing with God to recompense affliction to them that afflict you,",
+    "reference": "2 Thessalonians 1:6 (ERV)",
+    "connected_to": "2 Thessalonians 1:7",
+    "connected_from": "2 Thessalonians 1:5"
+  },
+  {
+    "text": "and to you that are afflicted rest with us, at the revelation of the Lord Jesus from heaven with the angels of his power",
+    "reference": "2 Thessalonians 1:7 (ERV)",
+    "connected_to": "2 Thessalonians 1:8",
+    "connected_from": "2 Thessalonians 1:6"
+  },
+  {
+    "text": "in flaming fire, rendering vengeance to them that know not God, and to them that obey not the gospel of our Lord Jesus:",
+    "reference": "2 Thessalonians 1:8 (ERV)",
+    "connected_to": "2 Thessalonians 1:9",
+    "connected_from": "2 Thessalonians 1:7"
+  },
+  {
+    "text": "who shall suffer punishment, even eternal destruction from the face of the Lord and from the glory of his might,",
+    "reference": "2 Thessalonians 1:9 (ERV)",
+    "connected_to": "2 Thessalonians 1:10",
+    "connected_from": "2 Thessalonians 1:8"
+  },
+  {
+    "text": "when he shall come to be glorified in his saints, and to be marveled at in all them that believed (because our testimony unto you was believed) in that day.",
+    "reference": "2 Thessalonians 1:10 (ERV)",
+    "connected_to": "2 Thessalonians 1:11",
+    "connected_from": "2 Thessalonians 1:9"
+  },
+  {
+    "text": "To which end we also pray always for you, that our God may count you worthy of your calling, and fulfill every desire of goodness and every work of faith, with power;",
+    "reference": "2 Thessalonians 1:11 (ERV)",
+    "connected_to": "2 Thessalonians 1:12",
+    "connected_from": "2 Thessalonians 1:10"
+  },
+  {
+    "text": "that the name of our Lord Jesus may be glorified in you, and ye in him, according to the grace of our God and the Lord Jesus Christ.",
+    "reference": "2 Thessalonians 1:12 (ERV)",
+    "connected_from": "2 Thessalonians 1:11"
+  }
+]

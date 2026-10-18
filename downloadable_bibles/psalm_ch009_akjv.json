@@ -1,0 +1,120 @@
+[
+  {
+    "text": "I will praise you, O LORD, with my whole heart; I will show forth all your marvelous works.",
+    "reference": "Psalm 9:1 (AKJV)",
+    "connected_to": "Psalm 9:2"
+  },
+  {
+    "text": "I will be glad and rejoice in you: I will sing praise to your name, O you most High.",
+    "reference": "Psalm 9:2 (AKJV)",
+    "connected_to": "Psalm 9:3",
+    "connected_from": "Psalm 9:1"
+  },
+  {
+    "text": "When my enemies are turned back, they shall fall and perish at your presence.",
+    "reference": "Psalm 9:3 (AKJV)",
+    "connected_to": "Psalm 9:4",
+    "connected_from": "Psalm 9:2"
+  },
+  {
+    "text": "For you have maintained my right and my cause; you sat in the throne judging right.",
+    "reference": "Psalm 9:4 (AKJV)",
+    "connected_to": "Psalm 9:5",
+    "connected_from": "Psalm 9:3"
+  },
+  {
+    "text": "You have rebuked the heathen, you have destroyed the wicked, you have put out their name for ever and ever.",
+    "reference": "Psalm 9:5 (AKJV)",
+    "connected_to": "Psalm 9:6",
+    "connected_from": "Psalm 9:4"
+  },
+  {
+    "text": "O you enemy, destructions are come to a perpetual end: and you have destroyed cities; their memorial is perished with them.",
+    "reference": "Psalm 9:6 (AKJV)",
+    "connected_to": "Psalm 9:7",
+    "connected_from": "Psalm 9:5"
+  },
+  {
+    "text": "But the LORD shall endure for ever: he has prepared his throne for judgment.",
+    "reference": "Psalm 9:7 (AKJV)",
+    "connected_to": "Psalm 9:8",
+    "connected_from": "Psalm 9:6"
+  },
+  {
+    "text": "And he shall judge the world in righteousness, he shall minister judgment to the people in uprightness.",
+    "reference": "Psalm 9:8 (AKJV)",
+    "connected_to": "Psalm 9:9",
+    "connected_from": "Psalm 9:7"
+  },
+  {
+    "text": "The LORD also will be a refuge for the oppressed, a refuge in times of trouble.",
+    "reference": "Psalm 9:9 (AKJV)",
+    "connected_to": "Psalm 9:10",
+    "connected_from": "Psalm 9:8"
+  },
+  {
+    "text": "And they that know your name will put their trust in you: for you, LORD, have not forsaken them that seek you.",
+    "reference": "Psalm 9:10 (AKJV)",
+    "connected_to": "Psalm 9:11",
+    "connected_from": "Psalm 9:9"
+  },
+  {
+    "text": "Sing praises to the LORD, which dwells in Zion: declare among the people his doings.",
+    "reference": "Psalm 9:11 (AKJV)",
+    "connected_to": "Psalm 9:12",
+    "connected_from": "Psalm 9:10"
+  },
+  {
+    "text": "When he makes inquisition for blood, he remembers them: he forgets not the cry of the humble.",
+    "reference": "Psalm 9:12 (AKJV)",
+    "connected_to": "Psalm 9:13",
+    "connected_from": "Psalm 9:11"
+  },
+  {
+    "text": "Have mercy on me, O LORD; consider my trouble which I suffer of them that hate me, you that lift me up from the gates of death:",
+    "reference": "Psalm 9:13 (AKJV)",
+    "connected_to": "Psalm 9:14",
+    "connected_from": "Psalm 9:12"
+  },
+  {
+    "text": "That I may show forth all your praise in the gates of the daughter of Zion: I will rejoice in your salvation.",
+    "reference": "Psalm 9:14 (AKJV)",
+    "connected_to": "Psalm 9:15",
+    "connected_from": "Psalm 9:13"
+  },
+  {
+    "text": "The heathen are sunk down in the pit that they made: in the net which they hid is their own foot taken.",
+    "reference": "Psalm 9:15 (AKJV)",
+    "connected_to": "Psalm 9:16",
+    "connected_from": "Psalm 9:14"
+  },
+  {
+    "text": "The LORD is known by the judgment which he executes: the wicked is snared in the work of his own hands. Higgaion. Selah.",
+    "reference": "Psalm 9:16 (AKJV)",
+    "connected_to": "Psalm 9:17",
+    "connected_from": "Psalm 9:15"
+  },
+  {
+    "text": "The wicked shall be turned into hell, and all the nations that forget God.",
+    "reference": "Psalm 9:17 (AKJV)",
+    "connected_to": "Psalm 9:18",
+    "connected_from": "Psalm 9:16"
+  },
+  {
+    "text": "For the needy shall not always be forgotten: the expectation of the poor shall not perish for ever.",
+    "reference": "Psalm 9:18 (AKJV)",
+    "connected_to": "Psalm 9:19",
+    "connected_from": "Psalm 9:17"
+  },
+  {
+    "text": "Arise, O LORD; let not man prevail: let the heathen be judged in your sight.",
+    "reference": "Psalm 9:19 (AKJV)",
+    "connected_to": "Psalm 9:20",
+    "connected_from": "Psalm 9:18"
+  },
+  {
+    "text": "Put them in fear, O LORD: that the nations may know themselves to be but men. Selah.",
+    "reference": "Psalm 9:20 (AKJV)",
+    "connected_from": "Psalm 9:19"
+  }
+]

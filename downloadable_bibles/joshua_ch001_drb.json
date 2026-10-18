@@ -1,0 +1,108 @@
+[
+  {
+    "text": "Now it came to pass after the death of Moses the servant of the Lord, that the Lord spoke to Josue the son of Nun, the minister of Moses, and said to him:",
+    "reference": "Joshua 1:1 (DRB)",
+    "connected_to": "Joshua 1:2"
+  },
+  {
+    "text": "Moses my servant is dead: arise, and pass over this Jordan, thou and thy people with thee, into the land which I will give to the children of Israel.",
+    "reference": "Joshua 1:2 (DRB)",
+    "connected_to": "Joshua 1:3",
+    "connected_from": "Joshua 1:1"
+  },
+  {
+    "text": "I will deliver to you every place that the sole of your foot shall tread upon, as I have said to Moses.",
+    "reference": "Joshua 1:3 (DRB)",
+    "connected_to": "Joshua 1:4",
+    "connected_from": "Joshua 1:2"
+  },
+  {
+    "text": "From the desert and from Libanus unto the great river Euphrates, all the land of the Hethites unto the great sea toward the going; down of the sun, shall be your border.",
+    "reference": "Joshua 1:4 (DRB)",
+    "connected_to": "Joshua 1:5",
+    "connected_from": "Joshua 1:3"
+  },
+  {
+    "text": "No man shall be able to resist you all the days of thy life: as I have been with Moses, so will I be with thee: I will not leave thee, nor forsake thee.",
+    "reference": "Joshua 1:5 (DRB)",
+    "connected_to": "Joshua 1:6",
+    "connected_from": "Joshua 1:4"
+  },
+  {
+    "text": "Take courage, and be strong: for thou shalt divide by lot to this people the land, for which I swore to their fathers, that I would deliver it to them.",
+    "reference": "Joshua 1:6 (DRB)",
+    "connected_to": "Joshua 1:7",
+    "connected_from": "Joshua 1:5"
+  },
+  {
+    "text": "Take courage therefore, and be very valiant: that thou mayst observe and do all the law, which Moses my servant hath commanded thee: turn not from it to the right hand or to the left, that thou mayst understand all things which thou dost.",
+    "reference": "Joshua 1:7 (DRB)",
+    "connected_to": "Joshua 1:8",
+    "connected_from": "Joshua 1:6"
+  },
+  {
+    "text": "Let not the book of this law depart from thy mouth: but thou shalt meditate on it day and night, that thou mayst observe and do all things that are written in it: then shalt thou direct thy way, and understand it.",
+    "reference": "Joshua 1:8 (DRB)",
+    "connected_to": "Joshua 1:9",
+    "connected_from": "Joshua 1:7"
+  },
+  {
+    "text": "Behold I command thee, take courage, end be strong. Fear not and be not dismayed: because the Lord thy God is with thee in all things whatsoever thou shalt go to.",
+    "reference": "Joshua 1:9 (DRB)",
+    "connected_to": "Joshua 1:10",
+    "connected_from": "Joshua 1:8"
+  },
+  {
+    "text": "And Josue commanded the princes of the people, saying: Pass through the midst of the camp, and command the people, and say:",
+    "reference": "Joshua 1:10 (DRB)",
+    "connected_to": "Joshua 1:11",
+    "connected_from": "Joshua 1:9"
+  },
+  {
+    "text": "Prepare you victuals: for after the third day you shall pass over the Jordan and shall go in to possess the land, which the Lord your God will give you.",
+    "reference": "Joshua 1:11 (DRB)",
+    "connected_to": "Joshua 1:12",
+    "connected_from": "Joshua 1:10"
+  },
+  {
+    "text": "And he said to the Rubenites, and the Gadites, and the half tribe of Manasses:",
+    "reference": "Joshua 1:12 (DRB)",
+    "connected_to": "Joshua 1:13",
+    "connected_from": "Joshua 1:11"
+  },
+  {
+    "text": "Remember the word, which Moses the servant of the Lord commanded you, saying: The Lord your God hath given you rest, and all this land.",
+    "reference": "Joshua 1:13 (DRB)",
+    "connected_to": "Joshua 1:14",
+    "connected_from": "Joshua 1:12"
+  },
+  {
+    "text": "Your wives, and children, and cattle shall remain in the land which Moses gave you on this side of the Jordan: but pass you over armed before your brethren, all of you that are strong of hand, and fight for them,",
+    "reference": "Joshua 1:14 (DRB)",
+    "connected_to": "Joshua 1:15",
+    "connected_from": "Joshua 1:13"
+  },
+  {
+    "text": "Until the Lord give rest to your brethren as he hath given you, and they also possess the land which the Lord your God will give them: and so you shall return into the land of your possession, and you shall dwell in it, which Moses the servant of the Lord gave you beyond the Jordan, toward the rising of the sun.",
+    "reference": "Joshua 1:15 (DRB)",
+    "connected_to": "Joshua 1:16",
+    "connected_from": "Joshua 1:14"
+  },
+  {
+    "text": "And they made answer to Josue, and said: All that thou hast commanded us we will do; and whithersoever thou shalt send us, we will go.",
+    "reference": "Joshua 1:16 (DRB)",
+    "connected_to": "Joshua 1:17",
+    "connected_from": "Joshua 1:15"
+  },
+  {
+    "text": "As we obeyed Moses in all things, so will we obey thee also: only be the Lord thy God with thee, as he was with Moses.",
+    "reference": "Joshua 1:17 (DRB)",
+    "connected_to": "Joshua 1:18",
+    "connected_from": "Joshua 1:16"
+  },
+  {
+    "text": "He that shall gainsay thy mouth, and not obey all thy words, that thou shalt command him, let him die: only take thou courage, and do manfully.",
+    "reference": "Joshua 1:18 (DRB)",
+    "connected_from": "Joshua 1:17"
+  }
+]

@@ -1,0 +1,264 @@
+[
+  {
+    "text": "And Jehovah spoke to Moses, saying,",
+    "reference": "Leviticus 23:1 (DBT)",
+    "connected_to": "Leviticus 23:2"
+  },
+  {
+    "text": "Speak unto the children of Israel, and say unto them, [Concerning] the set feasts of Jehovah, which ye shall proclaim as holy convocations—these are my set feasts.",
+    "reference": "Leviticus 23:2 (DBT)",
+    "connected_to": "Leviticus 23:3",
+    "connected_from": "Leviticus 23:1"
+  },
+  {
+    "text": "Six days shall work be done; but on the seventh day is the sabbath of rest, a holy convocation; no manner of work shall ye do: it is the sabbath to Jehovah in all your dwellings.",
+    "reference": "Leviticus 23:3 (DBT)",
+    "connected_to": "Leviticus 23:4",
+    "connected_from": "Leviticus 23:2"
+  },
+  {
+    "text": "These are the set feasts of Jehovah, holy convocations, which ye shall proclaim in their seasons:",
+    "reference": "Leviticus 23:4 (DBT)",
+    "connected_to": "Leviticus 23:5",
+    "connected_from": "Leviticus 23:3"
+  },
+  {
+    "text": "In the first month, on the fourteenth of the month, between the two evenings, is the passover to Jehovah.",
+    "reference": "Leviticus 23:5 (DBT)",
+    "connected_to": "Leviticus 23:6",
+    "connected_from": "Leviticus 23:4"
+  },
+  {
+    "text": "And on the fifteenth day of this month is the feast of unleavened bread to Jehovah; seven days shall ye eat unleavened bread.",
+    "reference": "Leviticus 23:6 (DBT)",
+    "connected_to": "Leviticus 23:7",
+    "connected_from": "Leviticus 23:5"
+  },
+  {
+    "text": "On the first day ye shall have a holy convocation: no manner of servile work shall ye do.",
+    "reference": "Leviticus 23:7 (DBT)",
+    "connected_to": "Leviticus 23:8",
+    "connected_from": "Leviticus 23:6"
+  },
+  {
+    "text": "And ye shall present to Jehovah an offering by fire seven days; on the seventh day is a holy convocation: no manner of servile work shall ye do.",
+    "reference": "Leviticus 23:8 (DBT)",
+    "connected_to": "Leviticus 23:9",
+    "connected_from": "Leviticus 23:7"
+  },
+  {
+    "text": "And Jehovah spoke to Moses, saying,",
+    "reference": "Leviticus 23:9 (DBT)",
+    "connected_to": "Leviticus 23:10",
+    "connected_from": "Leviticus 23:8"
+  },
+  {
+    "text": "Speak unto the children of Israel and say unto them, When ye come into the land that I give unto you, and ye reap the harvest thereof, then ye shall bring a sheaf of the first-fruits of your harvest unto the priest.",
+    "reference": "Leviticus 23:10 (DBT)",
+    "connected_to": "Leviticus 23:11",
+    "connected_from": "Leviticus 23:9"
+  },
+  {
+    "text": "And he shall wave the sheaf before Jehovah, to be accepted for you; on the next day after the sabbath the priest shall wave it.",
+    "reference": "Leviticus 23:11 (DBT)",
+    "connected_to": "Leviticus 23:12",
+    "connected_from": "Leviticus 23:10"
+  },
+  {
+    "text": "And ye shall offer that day when ye wave the sheaf, a he-lamb without blemish, a yearling, for a burnt-offering to Jehovah;",
+    "reference": "Leviticus 23:12 (DBT)",
+    "connected_to": "Leviticus 23:13",
+    "connected_from": "Leviticus 23:11"
+  },
+  {
+    "text": "and the oblation thereof: two tenths of fine flour mingled with oil, an offering by fire to Jehovah for a sweet odour; and the drink-offering thereof, of wine, a fourth part of a hin.",
+    "reference": "Leviticus 23:13 (DBT)",
+    "connected_to": "Leviticus 23:14",
+    "connected_from": "Leviticus 23:12"
+  },
+  {
+    "text": "And ye shall not eat bread, or roast corn, or green ears, until the same day that ye have brought the offering of your God: [it is] an everlasting statute throughout your generations in all your dwellings.",
+    "reference": "Leviticus 23:14 (DBT)",
+    "connected_to": "Leviticus 23:15",
+    "connected_from": "Leviticus 23:13"
+  },
+  {
+    "text": "And ye shall count from the morning after the sabbath, from the day that ye brought the sheaf of the wave-offering, seven weeks; they shall be complete;",
+    "reference": "Leviticus 23:15 (DBT)",
+    "connected_to": "Leviticus 23:16",
+    "connected_from": "Leviticus 23:14"
+  },
+  {
+    "text": "even unto the morning after the seventh sabbath shall ye count fifty days; and ye shall present a new oblation to Jehovah.",
+    "reference": "Leviticus 23:16 (DBT)",
+    "connected_to": "Leviticus 23:17",
+    "connected_from": "Leviticus 23:15"
+  },
+  {
+    "text": "Out of your dwellings shall ye bring two wave-loaves, of two tenths of fine flour; with leaven shall they be baken; [as] first-fruits to Jehovah.",
+    "reference": "Leviticus 23:17 (DBT)",
+    "connected_to": "Leviticus 23:18",
+    "connected_from": "Leviticus 23:16"
+  },
+  {
+    "text": "And ye shall present with the bread seven he-lambs without blemish, yearlings, and one young bullock, and two rams: they shall be a burnt-offering to Jehovah with their oblation, and their drink-offerings, an offering by fire of a sweet odour to Jehovah.",
+    "reference": "Leviticus 23:18 (DBT)",
+    "connected_to": "Leviticus 23:19",
+    "connected_from": "Leviticus 23:17"
+  },
+  {
+    "text": "And ye shall sacrifice one buck of the goats for a sin-offering, and two he-lambs, yearlings, for a sacrifice of peace-offering.",
+    "reference": "Leviticus 23:19 (DBT)",
+    "connected_to": "Leviticus 23:20",
+    "connected_from": "Leviticus 23:18"
+  },
+  {
+    "text": "And the priest shall wave them with the bread of the first-fruits as a wave-offering before Jehovah, with the two he-lambs; they shall be holy to Jehovah, for the priest.",
+    "reference": "Leviticus 23:20 (DBT)",
+    "connected_to": "Leviticus 23:21",
+    "connected_from": "Leviticus 23:19"
+  },
+  {
+    "text": "And ye shall make proclamation on that same day—a holy convocation shall it be unto you: no manner of servile work shall ye do: [it is] an everlasting statute in all your dwellings throughout your generations.",
+    "reference": "Leviticus 23:21 (DBT)",
+    "connected_to": "Leviticus 23:22",
+    "connected_from": "Leviticus 23:20"
+  },
+  {
+    "text": "And when ye reap the harvest of your land, thou shalt not in thy harvest entirely reap the corners of thy field, and the gleaning of thy harvest shalt thou not gather: thou shalt leave them unto the poor and to the stranger: I am Jehovah your God.",
+    "reference": "Leviticus 23:22 (DBT)",
+    "connected_to": "Leviticus 23:23",
+    "connected_from": "Leviticus 23:21"
+  },
+  {
+    "text": "And Jehovah spoke to Moses, saying,",
+    "reference": "Leviticus 23:23 (DBT)",
+    "connected_to": "Leviticus 23:24",
+    "connected_from": "Leviticus 23:22"
+  },
+  {
+    "text": "Speak unto the children of Israel, saying, In the seventh month, on the first of the month, shall ye have a rest, a memorial of blowing of trumpets, a holy convocation.",
+    "reference": "Leviticus 23:24 (DBT)",
+    "connected_to": "Leviticus 23:25",
+    "connected_from": "Leviticus 23:23"
+  },
+  {
+    "text": "No manner of servile work shall ye do; and ye shall present an offering by fire to Jehovah.",
+    "reference": "Leviticus 23:25 (DBT)",
+    "connected_to": "Leviticus 23:26",
+    "connected_from": "Leviticus 23:24"
+  },
+  {
+    "text": "And Jehovah spoke to Moses, saying,",
+    "reference": "Leviticus 23:26 (DBT)",
+    "connected_to": "Leviticus 23:27",
+    "connected_from": "Leviticus 23:25"
+  },
+  {
+    "text": "Also on the tenth of this seventh month is the day of the atonement: a holy convocation shall it be unto you; and ye shall afflict your souls, and present an offering by fire to Jehovah.",
+    "reference": "Leviticus 23:27 (DBT)",
+    "connected_to": "Leviticus 23:28",
+    "connected_from": "Leviticus 23:26"
+  },
+  {
+    "text": "And ye shall do no manner of work on that same day; for it is a day of atonement, to make atonement for you before Jehovah your God.",
+    "reference": "Leviticus 23:28 (DBT)",
+    "connected_to": "Leviticus 23:29",
+    "connected_from": "Leviticus 23:27"
+  },
+  {
+    "text": "For every soul that is not afflicted on that same day, shall be cut off from among his peoples.",
+    "reference": "Leviticus 23:29 (DBT)",
+    "connected_to": "Leviticus 23:30",
+    "connected_from": "Leviticus 23:28"
+  },
+  {
+    "text": "And every soul that doeth any manner of work on that same day, the same soul will I destroy from among his people.",
+    "reference": "Leviticus 23:30 (DBT)",
+    "connected_to": "Leviticus 23:31",
+    "connected_from": "Leviticus 23:29"
+  },
+  {
+    "text": "No manner of work shall ye do: [it is] an everlasting statute throughout your generations in all your dwellings.",
+    "reference": "Leviticus 23:31 (DBT)",
+    "connected_to": "Leviticus 23:32",
+    "connected_from": "Leviticus 23:30"
+  },
+  {
+    "text": "A sabbath of rest shall it be unto you; and ye shall afflict your souls. On the ninth of the month at even, from even unto even, shall ye celebrate your sabbath.",
+    "reference": "Leviticus 23:32 (DBT)",
+    "connected_to": "Leviticus 23:33",
+    "connected_from": "Leviticus 23:31"
+  },
+  {
+    "text": "And Jehovah spoke to Moses, saying,",
+    "reference": "Leviticus 23:33 (DBT)",
+    "connected_to": "Leviticus 23:34",
+    "connected_from": "Leviticus 23:32"
+  },
+  {
+    "text": "Speak unto the children of Israel, saying, On the fifteenth day of this seventh month is the feast of booths seven days to Jehovah.",
+    "reference": "Leviticus 23:34 (DBT)",
+    "connected_to": "Leviticus 23:35",
+    "connected_from": "Leviticus 23:33"
+  },
+  {
+    "text": "On the first day there shall be a holy convocation: no manner of servile work shall ye do.",
+    "reference": "Leviticus 23:35 (DBT)",
+    "connected_to": "Leviticus 23:36",
+    "connected_from": "Leviticus 23:34"
+  },
+  {
+    "text": "Seven days ye shall present an offering by fire to Jehovah; on the eighth day shall be a holy convocation unto you; and ye shall present an offering by fire to Jehovah: it is a solemn assembly; no manner of servile work shall ye do.",
+    "reference": "Leviticus 23:36 (DBT)",
+    "connected_to": "Leviticus 23:37",
+    "connected_from": "Leviticus 23:35"
+  },
+  {
+    "text": "These are the set feasts of Jehovah, which ye shall proclaim as holy convocations, to present an offering by fire to Jehovah, a burnt-offering, and an oblation, a sacrifice, and drink-offerings, everything upon its day;",
+    "reference": "Leviticus 23:37 (DBT)",
+    "connected_to": "Leviticus 23:38",
+    "connected_from": "Leviticus 23:36"
+  },
+  {
+    "text": "besides the sabbaths of Jehovah, and besides your gifts, and besides all your vows, and besides all your voluntary offerings, which ye give to Jehovah.",
+    "reference": "Leviticus 23:38 (DBT)",
+    "connected_to": "Leviticus 23:39",
+    "connected_from": "Leviticus 23:37"
+  },
+  {
+    "text": "But on the fifteenth day of the seventh month, when ye have gathered in the produce of the land, ye shall celebrate the feast of Jehovah seven days: on the first day there shall be rest, and on the eighth day there shall be rest.",
+    "reference": "Leviticus 23:39 (DBT)",
+    "connected_to": "Leviticus 23:40",
+    "connected_from": "Leviticus 23:38"
+  },
+  {
+    "text": "And ye shall take on the first day the fruit of beautiful trees, palm branches and the boughs of leafy trees, and willows of the brook; and ye shall rejoice before Jehovah your God seven days.",
+    "reference": "Leviticus 23:40 (DBT)",
+    "connected_to": "Leviticus 23:41",
+    "connected_from": "Leviticus 23:39"
+  },
+  {
+    "text": "And ye shall celebrate it as a feast to Jehovah seven days in the year: [it is] an everlasting statute throughout your generations; in the seventh month shall ye celebrate it.",
+    "reference": "Leviticus 23:41 (DBT)",
+    "connected_to": "Leviticus 23:42",
+    "connected_from": "Leviticus 23:40"
+  },
+  {
+    "text": "In booths shall ye dwell seven days; all born in Israel shall dwell in booths;",
+    "reference": "Leviticus 23:42 (DBT)",
+    "connected_to": "Leviticus 23:43",
+    "connected_from": "Leviticus 23:41"
+  },
+  {
+    "text": "that your generations may know that I caused the children of Israel to dwell in booths, when I brought them out of the land of Egypt: I am Jehovah your God.",
+    "reference": "Leviticus 23:43 (DBT)",
+    "connected_to": "Leviticus 23:44",
+    "connected_from": "Leviticus 23:42"
+  },
+  {
+    "text": "And Moses declared the set feasts of Jehovah to the children of Israel.",
+    "reference": "Leviticus 23:44 (DBT)",
+    "connected_from": "Leviticus 23:43"
+  }
+]

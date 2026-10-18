@@ -1,0 +1,318 @@
+[
+  {
+    "text": "After these things Jesus walked in Galilee: for he would not walk in Jewry, because the Jews sought to kill him.",
+    "reference": "John 7:1 (AKJV)",
+    "connected_to": "John 7:2"
+  },
+  {
+    "text": "Now the Jew’s feast of tabernacles was at hand.",
+    "reference": "John 7:2 (AKJV)",
+    "connected_to": "John 7:3",
+    "connected_from": "John 7:1"
+  },
+  {
+    "text": "His brothers therefore said to him, Depart hence, and go into Judaea, that your disciples also may see the works that you do.",
+    "reference": "John 7:3 (AKJV)",
+    "connected_to": "John 7:4",
+    "connected_from": "John 7:2"
+  },
+  {
+    "text": "For there is no man that does any thing in secret, and he himself seeks to be known openly. If you do these things, show yourself to the world.",
+    "reference": "John 7:4 (AKJV)",
+    "connected_to": "John 7:5",
+    "connected_from": "John 7:3"
+  },
+  {
+    "text": "For neither did his brothers believe in him.",
+    "reference": "John 7:5 (AKJV)",
+    "connected_to": "John 7:6",
+    "connected_from": "John 7:4"
+  },
+  {
+    "text": "Then Jesus said to them, My time is not yet come: but your time is always ready.",
+    "reference": "John 7:6 (AKJV)",
+    "connected_to": "John 7:7",
+    "connected_from": "John 7:5"
+  },
+  {
+    "text": "The world cannot hate you; but me it hates, because I testify of it, that the works thereof are evil.",
+    "reference": "John 7:7 (AKJV)",
+    "connected_to": "John 7:8",
+    "connected_from": "John 7:6"
+  },
+  {
+    "text": "Go you up to this feast: I go not up yet to this feast: for my time is not yet full come.",
+    "reference": "John 7:8 (AKJV)",
+    "connected_to": "John 7:9",
+    "connected_from": "John 7:7"
+  },
+  {
+    "text": "When he had said these words to them, he stayed still in Galilee.",
+    "reference": "John 7:9 (AKJV)",
+    "connected_to": "John 7:10",
+    "connected_from": "John 7:8"
+  },
+  {
+    "text": "But when his brothers were gone up, then went he also up to the feast, not openly, but as it were in secret.",
+    "reference": "John 7:10 (AKJV)",
+    "connected_to": "John 7:11",
+    "connected_from": "John 7:9"
+  },
+  {
+    "text": "Then the Jews sought him at the feast, and said, Where is he?",
+    "reference": "John 7:11 (AKJV)",
+    "connected_to": "John 7:12",
+    "connected_from": "John 7:10"
+  },
+  {
+    "text": "And there was much murmuring among the people concerning him: for some said, He is a good man: others said, No; but he deceives the people.",
+    "reference": "John 7:12 (AKJV)",
+    "connected_to": "John 7:13",
+    "connected_from": "John 7:11"
+  },
+  {
+    "text": "However, no man spoke openly of him for fear of the Jews.",
+    "reference": "John 7:13 (AKJV)",
+    "connected_to": "John 7:14",
+    "connected_from": "John 7:12"
+  },
+  {
+    "text": "Now about the middle of the feast Jesus went up into the temple, and taught.",
+    "reference": "John 7:14 (AKJV)",
+    "connected_to": "John 7:15",
+    "connected_from": "John 7:13"
+  },
+  {
+    "text": "And the Jews marveled, saying, How knows this man letters, having never learned?",
+    "reference": "John 7:15 (AKJV)",
+    "connected_to": "John 7:16",
+    "connected_from": "John 7:14"
+  },
+  {
+    "text": "Jesus answered them, and said, My doctrine is not mine, but his that sent me.",
+    "reference": "John 7:16 (AKJV)",
+    "connected_to": "John 7:17",
+    "connected_from": "John 7:15"
+  },
+  {
+    "text": "If any man will do his will, he shall know of the doctrine, whether it be of God, or whether I speak of myself.",
+    "reference": "John 7:17 (AKJV)",
+    "connected_to": "John 7:18",
+    "connected_from": "John 7:16"
+  },
+  {
+    "text": "He that speaks of himself seeks his own glory: but he that seeks his glory that sent him, the same is true, and no unrighteousness is in him.",
+    "reference": "John 7:18 (AKJV)",
+    "connected_to": "John 7:19",
+    "connected_from": "John 7:17"
+  },
+  {
+    "text": "Did not Moses give you the law, and yet none of you keeps the law? Why go you about to kill me?",
+    "reference": "John 7:19 (AKJV)",
+    "connected_to": "John 7:20",
+    "connected_from": "John 7:18"
+  },
+  {
+    "text": "The people answered and said, You have a devil: who goes about to kill you?",
+    "reference": "John 7:20 (AKJV)",
+    "connected_to": "John 7:21",
+    "connected_from": "John 7:19"
+  },
+  {
+    "text": "Jesus answered and said to them, I have done one work, and you all marvel.",
+    "reference": "John 7:21 (AKJV)",
+    "connected_to": "John 7:22",
+    "connected_from": "John 7:20"
+  },
+  {
+    "text": "Moses therefore gave to you circumcision; (not because it is of Moses, but of the fathers;) and you on the sabbath day circumcise a man.",
+    "reference": "John 7:22 (AKJV)",
+    "connected_to": "John 7:23",
+    "connected_from": "John 7:21"
+  },
+  {
+    "text": "If a man on the sabbath day receive circumcision, that the law of Moses should not be broken; are you angry at me, because I have made a man every whit whole on the sabbath day?",
+    "reference": "John 7:23 (AKJV)",
+    "connected_to": "John 7:24",
+    "connected_from": "John 7:22"
+  },
+  {
+    "text": "Judge not according to the appearance, but judge righteous judgment.",
+    "reference": "John 7:24 (AKJV)",
+    "connected_to": "John 7:25",
+    "connected_from": "John 7:23"
+  },
+  {
+    "text": "Then said some of them of Jerusalem, Is not this he, whom they seek to kill?",
+    "reference": "John 7:25 (AKJV)",
+    "connected_to": "John 7:26",
+    "connected_from": "John 7:24"
+  },
+  {
+    "text": "But, see, he speaks boldly, and they say nothing to him. Do the rulers know indeed that this is the very Christ?",
+    "reference": "John 7:26 (AKJV)",
+    "connected_to": "John 7:27",
+    "connected_from": "John 7:25"
+  },
+  {
+    "text": "However, we know this man from where he is: but when Christ comes, no man knows from where he is.",
+    "reference": "John 7:27 (AKJV)",
+    "connected_to": "John 7:28",
+    "connected_from": "John 7:26"
+  },
+  {
+    "text": "Then cried Jesus in the temple as he taught, saying, You both know me, and you know from where I am: and I am not come of myself, but he that sent me is true, whom you know not.",
+    "reference": "John 7:28 (AKJV)",
+    "connected_to": "John 7:29",
+    "connected_from": "John 7:27"
+  },
+  {
+    "text": "But I know him: for I am from him, and he has sent me.",
+    "reference": "John 7:29 (AKJV)",
+    "connected_to": "John 7:30",
+    "connected_from": "John 7:28"
+  },
+  {
+    "text": "Then they sought to take him: but no man laid hands on him, because his hour was not yet come.",
+    "reference": "John 7:30 (AKJV)",
+    "connected_to": "John 7:31",
+    "connected_from": "John 7:29"
+  },
+  {
+    "text": "And many of the people believed on him, and said, When Christ comes, will he do more miracles than these which this man has done?",
+    "reference": "John 7:31 (AKJV)",
+    "connected_to": "John 7:32",
+    "connected_from": "John 7:30"
+  },
+  {
+    "text": "The Pharisees heard that the people murmured such things concerning him; and the Pharisees and the chief priests sent officers to take him.",
+    "reference": "John 7:32 (AKJV)",
+    "connected_to": "John 7:33",
+    "connected_from": "John 7:31"
+  },
+  {
+    "text": "Then said Jesus to them, Yet a little while am I with you, and then I go to him that sent me.",
+    "reference": "John 7:33 (AKJV)",
+    "connected_to": "John 7:34",
+    "connected_from": "John 7:32"
+  },
+  {
+    "text": "You shall seek me, and shall not find me: and where I am, thither you cannot come.",
+    "reference": "John 7:34 (AKJV)",
+    "connected_to": "John 7:35",
+    "connected_from": "John 7:33"
+  },
+  {
+    "text": "Then said the Jews among themselves, Where will he go, that we shall not find him? will he go to the dispersed among the Gentiles, and teach the Gentiles?",
+    "reference": "John 7:35 (AKJV)",
+    "connected_to": "John 7:36",
+    "connected_from": "John 7:34"
+  },
+  {
+    "text": "What manner of saying is this that he said, You shall seek me, and shall not find me: and where I am, thither you cannot come?",
+    "reference": "John 7:36 (AKJV)",
+    "connected_to": "John 7:37",
+    "connected_from": "John 7:35"
+  },
+  {
+    "text": "In the last day, that great day of the feast, Jesus stood and cried, saying, If any man thirst, let him come to me, and drink.",
+    "reference": "John 7:37 (AKJV)",
+    "connected_to": "John 7:38",
+    "connected_from": "John 7:36"
+  },
+  {
+    "text": "He that believes on me, as the scripture has said, out of his belly shall flow rivers of living water.",
+    "reference": "John 7:38 (AKJV)",
+    "connected_to": "John 7:39",
+    "connected_from": "John 7:37"
+  },
+  {
+    "text": "(But this spoke he of the Spirit, which they that believe on him should receive: for the Holy Ghost was not yet given; because that Jesus was not yet glorified.)",
+    "reference": "John 7:39 (AKJV)",
+    "connected_to": "John 7:40",
+    "connected_from": "John 7:38"
+  },
+  {
+    "text": "Many of the people therefore, when they heard this saying, said, Of a truth this is the Prophet.",
+    "reference": "John 7:40 (AKJV)",
+    "connected_to": "John 7:41",
+    "connected_from": "John 7:39"
+  },
+  {
+    "text": "Others said, This is the Christ. But some said, Shall Christ come out of Galilee?",
+    "reference": "John 7:41 (AKJV)",
+    "connected_to": "John 7:42",
+    "connected_from": "John 7:40"
+  },
+  {
+    "text": "Has not the scripture said, That Christ comes of the seed of David, and out of the town of Bethlehem, where David was?",
+    "reference": "John 7:42 (AKJV)",
+    "connected_to": "John 7:43",
+    "connected_from": "John 7:41"
+  },
+  {
+    "text": "So there was a division among the people because of him.",
+    "reference": "John 7:43 (AKJV)",
+    "connected_to": "John 7:44",
+    "connected_from": "John 7:42"
+  },
+  {
+    "text": "And some of them would have taken him; but no man laid hands on him.",
+    "reference": "John 7:44 (AKJV)",
+    "connected_to": "John 7:45",
+    "connected_from": "John 7:43"
+  },
+  {
+    "text": "Then came the officers to the chief priests and Pharisees; and they said to them, Why have you not brought him?",
+    "reference": "John 7:45 (AKJV)",
+    "connected_to": "John 7:46",
+    "connected_from": "John 7:44"
+  },
+  {
+    "text": "The officers answered, Never man spoke like this man.",
+    "reference": "John 7:46 (AKJV)",
+    "connected_to": "John 7:47",
+    "connected_from": "John 7:45"
+  },
+  {
+    "text": "Then answered them the Pharisees, Are you also deceived?",
+    "reference": "John 7:47 (AKJV)",
+    "connected_to": "John 7:48",
+    "connected_from": "John 7:46"
+  },
+  {
+    "text": "Have any of the rulers or of the Pharisees believed on him?",
+    "reference": "John 7:48 (AKJV)",
+    "connected_to": "John 7:49",
+    "connected_from": "John 7:47"
+  },
+  {
+    "text": "But this people who knows not the law are cursed.",
+    "reference": "John 7:49 (AKJV)",
+    "connected_to": "John 7:50",
+    "connected_from": "John 7:48"
+  },
+  {
+    "text": "Nicodemus said to them, (he that came to Jesus by night, being one of them,)",
+    "reference": "John 7:50 (AKJV)",
+    "connected_to": "John 7:51",
+    "connected_from": "John 7:49"
+  },
+  {
+    "text": "Does our law judge any man, before it hear him, and know what he does?",
+    "reference": "John 7:51 (AKJV)",
+    "connected_to": "John 7:52",
+    "connected_from": "John 7:50"
+  },
+  {
+    "text": "They answered and said to him, Are you also of Galilee? Search, and look: for out of Galilee rises no prophet.",
+    "reference": "John 7:52 (AKJV)",
+    "connected_to": "John 7:53",
+    "connected_from": "John 7:51"
+  },
+  {
+    "text": "And every man went to his own house.",
+    "reference": "John 7:53 (AKJV)",
+    "connected_from": "John 7:52"
+  }
+]

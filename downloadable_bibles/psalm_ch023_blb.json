@@ -1,0 +1,36 @@
+[
+  {
+    "text": "A Psalm of David. <span class=|reftext|><a href=|#|><b>1</b></a> YHWH [is] my shepherd; I shall not lack.",
+    "reference": "Psalm 23:1 (BLB)",
+    "connected_to": "Psalm 23:2"
+  },
+  {
+    "text": "In pastures green He makes me to lie down; beside waters of resting He guides me.",
+    "reference": "Psalm 23:2 (BLB)",
+    "connected_to": "Psalm 23:3",
+    "connected_from": "Psalm 23:1"
+  },
+  {
+    "text": "He restores my soul; He guides me in the paths of righteousness, for the sake of His name.",
+    "reference": "Psalm 23:3 (BLB)",
+    "connected_to": "Psalm 23:4",
+    "connected_from": "Psalm 23:2"
+  },
+  {
+    "text": "Even though I may walk in the valley of the shadow of death, I will fear no evil, for You [are] with me; Your rod and Your staff, they comfort me.",
+    "reference": "Psalm 23:4 (BLB)",
+    "connected_to": "Psalm 23:5",
+    "connected_from": "Psalm 23:3"
+  },
+  {
+    "text": "You arrange a table before me in front of my enemies; You anoint my head with the oil; my cup overflows.",
+    "reference": "Psalm 23:5 (BLB)",
+    "connected_to": "Psalm 23:6",
+    "connected_from": "Psalm 23:4"
+  },
+  {
+    "text": "Surely goodness and mercy will pursue me all the days of my life, and I will dwell in the house of YHWH for the length of days.",
+    "reference": "Psalm 23:6 (BLB)",
+    "connected_from": "Psalm 23:5"
+  }
+]

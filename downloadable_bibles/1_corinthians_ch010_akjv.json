@@ -1,0 +1,198 @@
+[
+  {
+    "text": "Moreover, brothers, I would not that you should be ignorant, how that all our fathers were under the cloud, and all passed through the sea;",
+    "reference": "1 Corinthians 10:1 (AKJV)",
+    "connected_to": "1 Corinthians 10:2"
+  },
+  {
+    "text": "And were all baptized to Moses in the cloud and in the sea;",
+    "reference": "1 Corinthians 10:2 (AKJV)",
+    "connected_to": "1 Corinthians 10:3",
+    "connected_from": "1 Corinthians 10:1"
+  },
+  {
+    "text": "And did all eat the same spiritual meat;",
+    "reference": "1 Corinthians 10:3 (AKJV)",
+    "connected_to": "1 Corinthians 10:4",
+    "connected_from": "1 Corinthians 10:2"
+  },
+  {
+    "text": "And did all drink the same spiritual drink: for they drank of that spiritual Rock that followed them: and that Rock was Christ.",
+    "reference": "1 Corinthians 10:4 (AKJV)",
+    "connected_to": "1 Corinthians 10:5",
+    "connected_from": "1 Corinthians 10:3"
+  },
+  {
+    "text": "But with many of them God was not well pleased: for they were overthrown in the wilderness.",
+    "reference": "1 Corinthians 10:5 (AKJV)",
+    "connected_to": "1 Corinthians 10:6",
+    "connected_from": "1 Corinthians 10:4"
+  },
+  {
+    "text": "Now these things were our examples, to the intent we should not lust after evil things, as they also lusted.",
+    "reference": "1 Corinthians 10:6 (AKJV)",
+    "connected_to": "1 Corinthians 10:7",
+    "connected_from": "1 Corinthians 10:5"
+  },
+  {
+    "text": "Neither be you idolaters, as were some of them; as it is written, The people sat down to eat and drink, and rose up to play.",
+    "reference": "1 Corinthians 10:7 (AKJV)",
+    "connected_to": "1 Corinthians 10:8",
+    "connected_from": "1 Corinthians 10:6"
+  },
+  {
+    "text": "Neither let us commit fornication, as some of them committed, and fell in one day three and twenty thousand.",
+    "reference": "1 Corinthians 10:8 (AKJV)",
+    "connected_to": "1 Corinthians 10:9",
+    "connected_from": "1 Corinthians 10:7"
+  },
+  {
+    "text": "Neither let us tempt Christ, as some of them also tempted, and were destroyed of serpents.",
+    "reference": "1 Corinthians 10:9 (AKJV)",
+    "connected_to": "1 Corinthians 10:10",
+    "connected_from": "1 Corinthians 10:8"
+  },
+  {
+    "text": "Neither murmur you, as some of them also murmured, and were destroyed of the destroyer.",
+    "reference": "1 Corinthians 10:10 (AKJV)",
+    "connected_to": "1 Corinthians 10:11",
+    "connected_from": "1 Corinthians 10:9"
+  },
+  {
+    "text": "Now all these things happened to them for ensamples: and they are written for our admonition, on whom the ends of the world are come.",
+    "reference": "1 Corinthians 10:11 (AKJV)",
+    "connected_to": "1 Corinthians 10:12",
+    "connected_from": "1 Corinthians 10:10"
+  },
+  {
+    "text": "Why let him that thinks he stands take heed lest he fall.",
+    "reference": "1 Corinthians 10:12 (AKJV)",
+    "connected_to": "1 Corinthians 10:13",
+    "connected_from": "1 Corinthians 10:11"
+  },
+  {
+    "text": "There has no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that you are able; but will with the temptation also make a way to escape, that you may be able to bear it.",
+    "reference": "1 Corinthians 10:13 (AKJV)",
+    "connected_to": "1 Corinthians 10:14",
+    "connected_from": "1 Corinthians 10:12"
+  },
+  {
+    "text": "Why, my dearly beloved, flee from idolatry.",
+    "reference": "1 Corinthians 10:14 (AKJV)",
+    "connected_to": "1 Corinthians 10:15",
+    "connected_from": "1 Corinthians 10:13"
+  },
+  {
+    "text": "I speak as to wise men; judge you what I say.",
+    "reference": "1 Corinthians 10:15 (AKJV)",
+    "connected_to": "1 Corinthians 10:16",
+    "connected_from": "1 Corinthians 10:14"
+  },
+  {
+    "text": "The cup of blessing which we bless, is it not the communion of the blood of Christ? The bread which we break, is it not the communion of the body of Christ?",
+    "reference": "1 Corinthians 10:16 (AKJV)",
+    "connected_to": "1 Corinthians 10:17",
+    "connected_from": "1 Corinthians 10:15"
+  },
+  {
+    "text": "For we being many are one bread, and one body: for we are all partakers of that one bread.",
+    "reference": "1 Corinthians 10:17 (AKJV)",
+    "connected_to": "1 Corinthians 10:18",
+    "connected_from": "1 Corinthians 10:16"
+  },
+  {
+    "text": "Behold Israel after the flesh: are not they which eat of the sacrifices partakers of the altar?",
+    "reference": "1 Corinthians 10:18 (AKJV)",
+    "connected_to": "1 Corinthians 10:19",
+    "connected_from": "1 Corinthians 10:17"
+  },
+  {
+    "text": "What say I then? that the idol is any thing, or that which is offered in sacrifice to idols is any thing?",
+    "reference": "1 Corinthians 10:19 (AKJV)",
+    "connected_to": "1 Corinthians 10:20",
+    "connected_from": "1 Corinthians 10:18"
+  },
+  {
+    "text": "But I say, that the things which the Gentiles sacrifice, they sacrifice to devils, and not to God: and I would not that you should have fellowship with devils.",
+    "reference": "1 Corinthians 10:20 (AKJV)",
+    "connected_to": "1 Corinthians 10:21",
+    "connected_from": "1 Corinthians 10:19"
+  },
+  {
+    "text": "You cannot drink the cup of the Lord, and the cup of devils: you cannot be partakers of the Lord’s table, and of the table of devils.",
+    "reference": "1 Corinthians 10:21 (AKJV)",
+    "connected_to": "1 Corinthians 10:22",
+    "connected_from": "1 Corinthians 10:20"
+  },
+  {
+    "text": "Do we provoke the Lord to jealousy? are we stronger than he?",
+    "reference": "1 Corinthians 10:22 (AKJV)",
+    "connected_to": "1 Corinthians 10:23",
+    "connected_from": "1 Corinthians 10:21"
+  },
+  {
+    "text": "All things are lawful for me, but all things are not expedient: all things are lawful for me, but all things edify not.",
+    "reference": "1 Corinthians 10:23 (AKJV)",
+    "connected_to": "1 Corinthians 10:24",
+    "connected_from": "1 Corinthians 10:22"
+  },
+  {
+    "text": "Let no man seek his own, but every man another’s wealth.",
+    "reference": "1 Corinthians 10:24 (AKJV)",
+    "connected_to": "1 Corinthians 10:25",
+    "connected_from": "1 Corinthians 10:23"
+  },
+  {
+    "text": "Whatever is sold in the shambles, that eat, asking no question for conscience sake:",
+    "reference": "1 Corinthians 10:25 (AKJV)",
+    "connected_to": "1 Corinthians 10:26",
+    "connected_from": "1 Corinthians 10:24"
+  },
+  {
+    "text": "For the earth is the Lord’s, and the fullness thereof.",
+    "reference": "1 Corinthians 10:26 (AKJV)",
+    "connected_to": "1 Corinthians 10:27",
+    "connected_from": "1 Corinthians 10:25"
+  },
+  {
+    "text": "If any of them that believe not bid you to a feast, and you be disposed to go; whatever is set before you, eat, asking no question for conscience sake.",
+    "reference": "1 Corinthians 10:27 (AKJV)",
+    "connected_to": "1 Corinthians 10:28",
+    "connected_from": "1 Corinthians 10:26"
+  },
+  {
+    "text": "But if any man say to you, This is offered in sacrifice to idols, eat not for his sake that showed it, and for conscience sake: for the earth is the Lord’s, and the fullness thereof:",
+    "reference": "1 Corinthians 10:28 (AKJV)",
+    "connected_to": "1 Corinthians 10:29",
+    "connected_from": "1 Corinthians 10:27"
+  },
+  {
+    "text": "Conscience, I say, not your own, but of the other: for why is my liberty judged of another man’s conscience?",
+    "reference": "1 Corinthians 10:29 (AKJV)",
+    "connected_to": "1 Corinthians 10:30",
+    "connected_from": "1 Corinthians 10:28"
+  },
+  {
+    "text": "For if I by grace be a partaker, why am I evil spoken of for that for which I give thanks?",
+    "reference": "1 Corinthians 10:30 (AKJV)",
+    "connected_to": "1 Corinthians 10:31",
+    "connected_from": "1 Corinthians 10:29"
+  },
+  {
+    "text": "Whether therefore you eat, or drink, or whatever you do, do all to the glory of God.",
+    "reference": "1 Corinthians 10:31 (AKJV)",
+    "connected_to": "1 Corinthians 10:32",
+    "connected_from": "1 Corinthians 10:30"
+  },
+  {
+    "text": "Give none offense, neither to the Jews, nor to the Gentiles, nor to the church of God:",
+    "reference": "1 Corinthians 10:32 (AKJV)",
+    "connected_to": "1 Corinthians 10:33",
+    "connected_from": "1 Corinthians 10:31"
+  },
+  {
+    "text": "Even as I please all men in all things, not seeking my own profit, but the profit of many, that they may be saved.",
+    "reference": "1 Corinthians 10:33 (AKJV)",
+    "connected_from": "1 Corinthians 10:32"
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "text": "For the choirmaster. To the tune of “The Doe of the Dawn.” A Psalm of David. My God, my God, why have You forsaken me? Why are You so far from saving me, so far from my words of groaning?",
+    "reference": "Psalm 22:1 (BSB)",
+    "connected_to": "Psalm 22:2"
+  },
+  {
+    "text": "I cry out by day, O my God, but You do not answer, and by night, but I have no rest.",
+    "reference": "Psalm 22:2 (BSB)",
+    "connected_to": "Psalm 22:3",
+    "connected_from": "Psalm 22:1"
+  },
+  {
+    "text": "Yet You are holy, enthroned on the praises of Israel.",
+    "reference": "Psalm 22:3 (BSB)",
+    "connected_to": "Psalm 22:4",
+    "connected_from": "Psalm 22:2"
+  },
+  {
+    "text": "In You our fathers trusted; they trusted and You delivered them.",
+    "reference": "Psalm 22:4 (BSB)",
+    "connected_to": "Psalm 22:5",
+    "connected_from": "Psalm 22:3"
+  },
+  {
+    "text": "They cried out to You and were set free; they trusted in You and were not disappointed.",
+    "reference": "Psalm 22:5 (BSB)",
+    "connected_to": "Psalm 22:6",
+    "connected_from": "Psalm 22:4"
+  },
+  {
+    "text": "But I am a worm and not a man, scorned by men and despised by the people.",
+    "reference": "Psalm 22:6 (BSB)",
+    "connected_to": "Psalm 22:7",
+    "connected_from": "Psalm 22:5"
+  },
+  {
+    "text": "All who see me mock me; they sneer and shake their heads:",
+    "reference": "Psalm 22:7 (BSB)",
+    "connected_to": "Psalm 22:8",
+    "connected_from": "Psalm 22:6"
+  },
+  {
+    "text": "“He trusts in the LORD, let the LORD deliver him; let the LORD rescue him, since He delights in him.”",
+    "reference": "Psalm 22:8 (BSB)",
+    "connected_to": "Psalm 22:9",
+    "connected_from": "Psalm 22:7"
+  },
+  {
+    "text": "Yet You brought me forth from the womb; You made me secure at my mother’s breast.",
+    "reference": "Psalm 22:9 (BSB)",
+    "connected_to": "Psalm 22:10",
+    "connected_from": "Psalm 22:8"
+  },
+  {
+    "text": "From birth I was cast upon You; from my mother’s womb You have been my God.",
+    "reference": "Psalm 22:10 (BSB)",
+    "connected_to": "Psalm 22:11",
+    "connected_from": "Psalm 22:9"
+  },
+  {
+    "text": "Be not far from me, for trouble is near and there is no one to help.",
+    "reference": "Psalm 22:11 (BSB)",
+    "connected_to": "Psalm 22:12",
+    "connected_from": "Psalm 22:10"
+  },
+  {
+    "text": "Many bulls surround me; strong bulls of Bashan encircle me.",
+    "reference": "Psalm 22:12 (BSB)",
+    "connected_to": "Psalm 22:13",
+    "connected_from": "Psalm 22:11"
+  },
+  {
+    "text": "They open their jaws against me like lions that roar and maul.",
+    "reference": "Psalm 22:13 (BSB)",
+    "connected_to": "Psalm 22:14",
+    "connected_from": "Psalm 22:12"
+  },
+  {
+    "text": "I am poured out like water, and all my bones are disjointed. My heart is like wax; it melts away within me.",
+    "reference": "Psalm 22:14 (BSB)",
+    "connected_to": "Psalm 22:15",
+    "connected_from": "Psalm 22:13"
+  },
+  {
+    "text": "My strength is dried up like a potsherd, and my tongue sticks to the roof of my mouth. You lay me in the dust of death.",
+    "reference": "Psalm 22:15 (BSB)",
+    "connected_to": "Psalm 22:16",
+    "connected_from": "Psalm 22:14"
+  },
+  {
+    "text": "For dogs surround me; a band of evil men encircles me; they have pierced my hands and feet.",
+    "reference": "Psalm 22:16 (BSB)",
+    "connected_to": "Psalm 22:17",
+    "connected_from": "Psalm 22:15"
+  },
+  {
+    "text": "I can count all my bones; they stare and gloat over me.",
+    "reference": "Psalm 22:17 (BSB)",
+    "connected_to": "Psalm 22:18",
+    "connected_from": "Psalm 22:16"
+  },
+  {
+    "text": "They divide my garments among them and cast lots for my clothing.",
+    "reference": "Psalm 22:18 (BSB)",
+    "connected_to": "Psalm 22:19",
+    "connected_from": "Psalm 22:17"
+  },
+  {
+    "text": "But You, O LORD, be not far off; O my Strength, come quickly to help me.",
+    "reference": "Psalm 22:19 (BSB)",
+    "connected_to": "Psalm 22:20",
+    "connected_from": "Psalm 22:18"
+  },
+  {
+    "text": "Deliver my soul from the sword, my precious life from the power of wild dogs.",
+    "reference": "Psalm 22:20 (BSB)",
+    "connected_to": "Psalm 22:21",
+    "connected_from": "Psalm 22:19"
+  },
+  {
+    "text": "Save me from the mouth of the lion; at the horns of the wild oxen You have answered me!",
+    "reference": "Psalm 22:21 (BSB)",
+    "connected_to": "Psalm 22:22",
+    "connected_from": "Psalm 22:20"
+  },
+  {
+    "text": "I will proclaim Your name to my brothers; I will praise You in the assembly.",
+    "reference": "Psalm 22:22 (BSB)",
+    "connected_to": "Psalm 22:23",
+    "connected_from": "Psalm 22:21"
+  },
+  {
+    "text": "You who fear the LORD, praise Him! All descendants of Jacob, honor Him! All offspring of Israel, revere Him!",
+    "reference": "Psalm 22:23 (BSB)",
+    "connected_to": "Psalm 22:24",
+    "connected_from": "Psalm 22:22"
+  },
+  {
+    "text": "For He has not despised or detested the torment of the afflicted. He has not hidden His face from him, but has attended to his cry for help.",
+    "reference": "Psalm 22:24 (BSB)",
+    "connected_to": "Psalm 22:25",
+    "connected_from": "Psalm 22:23"
+  },
+  {
+    "text": "My praise for You resounds in the great assembly; I will fulfill my vows before those who fear You.",
+    "reference": "Psalm 22:25 (BSB)",
+    "connected_to": "Psalm 22:26",
+    "connected_from": "Psalm 22:24"
+  },
+  {
+    "text": "The poor will eat and be satisfied; those who seek the LORD will praise Him. May your hearts live forever!",
+    "reference": "Psalm 22:26 (BSB)",
+    "connected_to": "Psalm 22:27",
+    "connected_from": "Psalm 22:25"
+  },
+  {
+    "text": "All the ends of the earth will remember and turn to the LORD. All the families of the nations will bow down before Him.",
+    "reference": "Psalm 22:27 (BSB)",
+    "connected_to": "Psalm 22:28",
+    "connected_from": "Psalm 22:26"
+  },
+  {
+    "text": "For dominion belongs to the LORD and He rules over the nations.",
+    "reference": "Psalm 22:28 (BSB)",
+    "connected_to": "Psalm 22:29",
+    "connected_from": "Psalm 22:27"
+  },
+  {
+    "text": "All the rich of the earth will feast and worship; all who go down to the dust will kneel before Him—even those unable to preserve their lives.",
+    "reference": "Psalm 22:29 (BSB)",
+    "connected_to": "Psalm 22:30",
+    "connected_from": "Psalm 22:28"
+  },
+  {
+    "text": "Posterity will serve Him; they will declare the Lord to a new generation.",
+    "reference": "Psalm 22:30 (BSB)",
+    "connected_to": "Psalm 22:31",
+    "connected_from": "Psalm 22:29"
+  },
+  {
+    "text": "They will come and proclaim His righteousness to a people yet unborn—all that He has done.",
+    "reference": "Psalm 22:31 (BSB)",
+    "connected_from": "Psalm 22:30"
+  }
+]

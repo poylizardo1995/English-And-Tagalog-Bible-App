@@ -1,0 +1,150 @@
+[
+  {
+    "text": "Then Jesus was led by the Spirit into the wilderness to be tempted by the devil.",
+    "reference": "Matthew 4:1 (BSB)",
+    "connected_to": "Matthew 4:2"
+  },
+  {
+    "text": "After fasting forty days and forty nights, He was hungry.",
+    "reference": "Matthew 4:2 (BSB)",
+    "connected_to": "Matthew 4:3",
+    "connected_from": "Matthew 4:1"
+  },
+  {
+    "text": "The tempter came to Him and said, “If You are the Son of God, tell these stones to become bread.”",
+    "reference": "Matthew 4:3 (BSB)",
+    "connected_to": "Matthew 4:4",
+    "connected_from": "Matthew 4:2"
+  },
+  {
+    "text": "But Jesus answered, “It is written: ‘Man shall not live on bread alone, but on every word that comes from the mouth of God.’”",
+    "reference": "Matthew 4:4 (BSB)",
+    "connected_to": "Matthew 4:5",
+    "connected_from": "Matthew 4:3"
+  },
+  {
+    "text": "Then the devil took Him to the holy city and set Him on the pinnacle of the temple.",
+    "reference": "Matthew 4:5 (BSB)",
+    "connected_to": "Matthew 4:6",
+    "connected_from": "Matthew 4:4"
+  },
+  {
+    "text": "“If You are the Son of God,” he said, “throw Yourself down. For it is written: ‘He will command His angels concerning You, and they will lift You up in their hands, so that You will not strike Your foot against a stone.’”",
+    "reference": "Matthew 4:6 (BSB)",
+    "connected_to": "Matthew 4:7",
+    "connected_from": "Matthew 4:5"
+  },
+  {
+    "text": "Jesus replied, “It is also written: ‘Do not put the Lord your God to the test.’”",
+    "reference": "Matthew 4:7 (BSB)",
+    "connected_to": "Matthew 4:8",
+    "connected_from": "Matthew 4:6"
+  },
+  {
+    "text": "Again, the devil took Him to a very high mountain and showed Him all the kingdoms of the world and their glory.",
+    "reference": "Matthew 4:8 (BSB)",
+    "connected_to": "Matthew 4:9",
+    "connected_from": "Matthew 4:7"
+  },
+  {
+    "text": "“All this I will give You,” he said, “if You will fall down and worship me.”",
+    "reference": "Matthew 4:9 (BSB)",
+    "connected_to": "Matthew 4:10",
+    "connected_from": "Matthew 4:8"
+  },
+  {
+    "text": "“Away from Me, Satan!” Jesus told him. “For it is written: ‘Worship the Lord your God and serve Him only.’”",
+    "reference": "Matthew 4:10 (BSB)",
+    "connected_to": "Matthew 4:11",
+    "connected_from": "Matthew 4:9"
+  },
+  {
+    "text": "Then the devil left Him, and angels came and ministered to Him.",
+    "reference": "Matthew 4:11 (BSB)",
+    "connected_to": "Matthew 4:12",
+    "connected_from": "Matthew 4:10"
+  },
+  {
+    "text": "When Jesus heard that John had been imprisoned, He withdrew to Galilee.",
+    "reference": "Matthew 4:12 (BSB)",
+    "connected_to": "Matthew 4:13",
+    "connected_from": "Matthew 4:11"
+  },
+  {
+    "text": "Leaving Nazareth, He went and lived in Capernaum, which is by the sea in the region of Zebulun and Naphtali,",
+    "reference": "Matthew 4:13 (BSB)",
+    "connected_to": "Matthew 4:14",
+    "connected_from": "Matthew 4:12"
+  },
+  {
+    "text": "to fulfill what was spoken through the prophet Isaiah:",
+    "reference": "Matthew 4:14 (BSB)",
+    "connected_to": "Matthew 4:15",
+    "connected_from": "Matthew 4:13"
+  },
+  {
+    "text": "“Land of Zebulun and land of Naphtali, the Way of the Sea, beyond the Jordan, Galilee of the Gentiles—",
+    "reference": "Matthew 4:15 (BSB)",
+    "connected_to": "Matthew 4:16",
+    "connected_from": "Matthew 4:14"
+  },
+  {
+    "text": "the people living in darkness have seen a great light; on those living in the land of the shadow of death, a light has dawned.”",
+    "reference": "Matthew 4:16 (BSB)",
+    "connected_to": "Matthew 4:17",
+    "connected_from": "Matthew 4:15"
+  },
+  {
+    "text": "From that time on Jesus began to preach, “Repent, for the kingdom of heaven is near.”",
+    "reference": "Matthew 4:17 (BSB)",
+    "connected_to": "Matthew 4:18",
+    "connected_from": "Matthew 4:16"
+  },
+  {
+    "text": "As Jesus was walking beside the Sea of Galilee, He saw two brothers, Simon called Peter and his brother Andrew. They were casting a net into the sea, for they were fishermen.",
+    "reference": "Matthew 4:18 (BSB)",
+    "connected_to": "Matthew 4:19",
+    "connected_from": "Matthew 4:17"
+  },
+  {
+    "text": "“Come, follow Me,” Jesus said, “and I will make you fishers of men.”",
+    "reference": "Matthew 4:19 (BSB)",
+    "connected_to": "Matthew 4:20",
+    "connected_from": "Matthew 4:18"
+  },
+  {
+    "text": "And at once they left their nets and followed Him.",
+    "reference": "Matthew 4:20 (BSB)",
+    "connected_to": "Matthew 4:21",
+    "connected_from": "Matthew 4:19"
+  },
+  {
+    "text": "Going on from there, He saw two other brothers, James son of Zebedee and his brother John. They were in a boat with their father Zebedee, mending their nets. Jesus called them,",
+    "reference": "Matthew 4:21 (BSB)",
+    "connected_to": "Matthew 4:22",
+    "connected_from": "Matthew 4:20"
+  },
+  {
+    "text": "and immediately they left the boat and their father and followed Him.",
+    "reference": "Matthew 4:22 (BSB)",
+    "connected_to": "Matthew 4:23",
+    "connected_from": "Matthew 4:21"
+  },
+  {
+    "text": "Jesus went throughout Galilee, teaching in their synagogues, preaching the gospel of the kingdom, and healing every disease and sickness among the people.",
+    "reference": "Matthew 4:23 (BSB)",
+    "connected_to": "Matthew 4:24",
+    "connected_from": "Matthew 4:22"
+  },
+  {
+    "text": "News about Him spread all over Syria, and people brought to Him all who were ill with various diseases, those suffering acute pain, the demon-possessed, those having seizures, and the paralyzed, and He healed them.",
+    "reference": "Matthew 4:24 (BSB)",
+    "connected_to": "Matthew 4:25",
+    "connected_from": "Matthew 4:23"
+  },
+  {
+    "text": "Large crowds followed Him, having come from Galilee, the Decapolis, Jerusalem, Judea, and beyond the Jordan.",
+    "reference": "Matthew 4:25 (BSB)",
+    "connected_from": "Matthew 4:24"
+  }
+]

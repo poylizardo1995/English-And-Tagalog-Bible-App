@@ -1,0 +1,84 @@
+[
+  {
+    "text": "Behold, this is the third time that I am coming to you. By the mouth of two or three witnesses, every word shall stand.",
+    "reference": "2 Corinthians 13:1 (CPDV)",
+    "connected_to": "2 Corinthians 13:2"
+  },
+  {
+    "text": "I have preached when present, and I will preach now while absent, to those who sinned before, and to all the others, because, when I arrive again, I will not be lenient with you.",
+    "reference": "2 Corinthians 13:2 (CPDV)",
+    "connected_to": "2 Corinthians 13:3",
+    "connected_from": "2 Corinthians 13:1"
+  },
+  {
+    "text": "Do you seek evidence that it is Christ who speaks in me, who is not weak with you, but is powerful with you?",
+    "reference": "2 Corinthians 13:3 (CPDV)",
+    "connected_to": "2 Corinthians 13:4",
+    "connected_from": "2 Corinthians 13:2"
+  },
+  {
+    "text": "For although he was crucified in weakness, yet he lives by the power of God. And yes, we are weak in him. But we shall live with him by the power of God among you.",
+    "reference": "2 Corinthians 13:4 (CPDV)",
+    "connected_to": "2 Corinthians 13:5",
+    "connected_from": "2 Corinthians 13:3"
+  },
+  {
+    "text": "Test yourselves as to whether you are in the faith. Examine yourselves. Or do you yourselves not know whether Christ Jesus is in you? But perhaps you are reprobates.",
+    "reference": "2 Corinthians 13:5 (CPDV)",
+    "connected_to": "2 Corinthians 13:6",
+    "connected_from": "2 Corinthians 13:4"
+  },
+  {
+    "text": "But I hope you know that we ourselves are not reprobates.",
+    "reference": "2 Corinthians 13:6 (CPDV)",
+    "connected_to": "2 Corinthians 13:7",
+    "connected_from": "2 Corinthians 13:5"
+  },
+  {
+    "text": "Now we pray to God that you shall do nothing evil, not so that we may seem to be approved, but so that you may do what is good, even if we seem like reprobates.",
+    "reference": "2 Corinthians 13:7 (CPDV)",
+    "connected_to": "2 Corinthians 13:8",
+    "connected_from": "2 Corinthians 13:6"
+  },
+  {
+    "text": "For we cannot do anything against the truth, but only for the truth.",
+    "reference": "2 Corinthians 13:8 (CPDV)",
+    "connected_to": "2 Corinthians 13:9",
+    "connected_from": "2 Corinthians 13:7"
+  },
+  {
+    "text": "For we rejoice that we are weak, while you are strong. This is also what we pray for: your perfection.",
+    "reference": "2 Corinthians 13:9 (CPDV)",
+    "connected_to": "2 Corinthians 13:10",
+    "connected_from": "2 Corinthians 13:8"
+  },
+  {
+    "text": "Therefore, I write these things while absent, so that, when present, I may not have to act more harshly, according to the authority which the Lord has given to me, for edification and not for destruction.",
+    "reference": "2 Corinthians 13:10 (CPDV)",
+    "connected_to": "2 Corinthians 13:11",
+    "connected_from": "2 Corinthians 13:9"
+  },
+  {
+    "text": "As to the rest, brothers, rejoice, be perfect, be encouraged, have the same mind, have peace. And so the God of peace and love will be with you.",
+    "reference": "2 Corinthians 13:11 (CPDV)",
+    "connected_to": "2 Corinthians 13:12",
+    "connected_from": "2 Corinthians 13:10"
+  },
+  {
+    "text": "Greet one another with a holy kiss.",
+    "reference": "2 Corinthians 13:12 (CPDV)",
+    "connected_to": "2 Corinthians 13:13",
+    "connected_from": "2 Corinthians 13:11"
+  },
+  {
+    "text": "All the saints greet you.",
+    "reference": "2 Corinthians 13:13 (CPDV)",
+    "connected_to": "2 Corinthians 13:14",
+    "connected_from": "2 Corinthians 13:12"
+  },
+  {
+    "text": "The grace of our Lord Jesus Christ, and the charity of God, and the communion of the Holy Spirit be with you all. Amen.",
+    "reference": "2 Corinthians 13:14 (CPDV)",
+    "connected_from": "2 Corinthians 13:13"
+  }
+]

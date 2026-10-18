@@ -1,0 +1,72 @@
+[
+  {
+    "text": "There is an evil that I have seen under the sun, and it [is] great upon mankind:",
+    "reference": "Ecclesiastes 6:1 (BLB)",
+    "connected_to": "Ecclesiastes 6:2"
+  },
+  {
+    "text": "A man [for] whom God has given to him riches and wealth and honor, and he has no lack for his soul from all that; he desires and God does not give him power to eat from it; instead a foreign man eats it. This [is] vapor, and it [is] a sickening evil.",
+    "reference": "Ecclesiastes 6:2 (BLB)",
+    "connected_to": "Ecclesiastes 6:3",
+    "connected_from": "Ecclesiastes 6:1"
+  },
+  {
+    "text": "If a man begets a hundred and lives many years, and many are the days of his years, and his soul is not satisfied from this goodness, and also not is unto him a grave, I say that a stillborn child is better off than he.",
+    "reference": "Ecclesiastes 6:3 (BLB)",
+    "connected_to": "Ecclesiastes 6:4",
+    "connected_from": "Ecclesiastes 6:2"
+  },
+  {
+    "text": "For in vapor he comes, and in darkness he goes, and in darkness his name is covered.",
+    "reference": "Ecclesiastes 6:4 (BLB)",
+    "connected_to": "Ecclesiastes 6:5",
+    "connected_from": "Ecclesiastes 6:3"
+  },
+  {
+    "text": "Even he has not seen the sun and has not known it, more rest [is] unto this one than this one.",
+    "reference": "Ecclesiastes 6:5 (BLB)",
+    "connected_to": "Ecclesiastes 6:6",
+    "connected_from": "Ecclesiastes 6:4"
+  },
+  {
+    "text": "And though he might live a thousand years twice over, and has not seen goodness, are not all are going to one place?",
+    "reference": "Ecclesiastes 6:6 (BLB)",
+    "connected_to": "Ecclesiastes 6:7",
+    "connected_from": "Ecclesiastes 6:5"
+  },
+  {
+    "text": "All the toil of man [is] for his mouth, yet the soul is not filled.",
+    "reference": "Ecclesiastes 6:7 (BLB)",
+    "connected_to": "Ecclesiastes 6:8",
+    "connected_from": "Ecclesiastes 6:6"
+  },
+  {
+    "text": "Indeed, what advantage [is] for the wise one over the fool? What [is] to the poor one knowing how to walk before the living?",
+    "reference": "Ecclesiastes 6:8 (BLB)",
+    "connected_to": "Ecclesiastes 6:9",
+    "connected_from": "Ecclesiastes 6:7"
+  },
+  {
+    "text": "Better is a sight of the eyes than the wandering of the soul; this also [is] vapor and a striving after the wind.",
+    "reference": "Ecclesiastes 6:9 (BLB)",
+    "connected_to": "Ecclesiastes 6:10",
+    "connected_from": "Ecclesiastes 6:8"
+  },
+  {
+    "text": "That which has come to be, already its name has been called; and it is known that he [is] man, and he is not able to contend with one stronger than he.",
+    "reference": "Ecclesiastes 6:10 (BLB)",
+    "connected_to": "Ecclesiastes 6:11",
+    "connected_from": "Ecclesiastes 6:9"
+  },
+  {
+    "text": "For there are many words, multiplying vapor—what advantage [is] for man?",
+    "reference": "Ecclesiastes 6:11 (BLB)",
+    "connected_to": "Ecclesiastes 6:12",
+    "connected_from": "Ecclesiastes 6:10"
+  },
+  {
+    "text": "For who knows what [is] good for man in life all the days of the life of his vapor, and he makes them like a shadow? For who can declare to man what will come to be after him under the sun?",
+    "reference": "Ecclesiastes 6:12 (BLB)",
+    "connected_from": "Ecclesiastes 6:11"
+  }
+]

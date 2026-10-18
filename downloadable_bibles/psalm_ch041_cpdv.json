@@ -1,0 +1,78 @@
+[
+  {
+    "text": "Unto the end. A Psalm of David himself. Blessed is he who shows understanding toward the needy and the poor. The Lord will deliver him in the evil day.",
+    "reference": "Psalm 41:1 (CPDV)",
+    "connected_to": "Psalm 41:2"
+  },
+  {
+    "text": "May the Lord preserve him and give him life, and make him blessed upon the earth. And may he not hand him over to the will of his adversaries.",
+    "reference": "Psalm 41:2 (CPDV)",
+    "connected_to": "Psalm 41:3",
+    "connected_from": "Psalm 41:1"
+  },
+  {
+    "text": "May the Lord bring him help on his bed of sorrow. In his infirmity, you have changed his entire covering.",
+    "reference": "Psalm 41:3 (CPDV)",
+    "connected_to": "Psalm 41:4",
+    "connected_from": "Psalm 41:2"
+  },
+  {
+    "text": "I said, “O Lord, be merciful to me. Heal my soul, because I have sinned against you.”",
+    "reference": "Psalm 41:4 (CPDV)",
+    "connected_to": "Psalm 41:5",
+    "connected_from": "Psalm 41:3"
+  },
+  {
+    "text": "My enemies have spoken evils against me. When will he die and his name perish?",
+    "reference": "Psalm 41:5 (CPDV)",
+    "connected_to": "Psalm 41:6",
+    "connected_from": "Psalm 41:4"
+  },
+  {
+    "text": "And when he came in to see me, he was speaking emptiness. His heart gathered iniquity to itself. He went outside, and he was speaking in the same way.",
+    "reference": "Psalm 41:6 (CPDV)",
+    "connected_to": "Psalm 41:7",
+    "connected_from": "Psalm 41:5"
+  },
+  {
+    "text": "All my enemies were whispering against me. They were thinking up evils against me.",
+    "reference": "Psalm 41:7 (CPDV)",
+    "connected_to": "Psalm 41:8",
+    "connected_from": "Psalm 41:6"
+  },
+  {
+    "text": "They established an unjust word against me. Will he that sleeps no longer rise again?",
+    "reference": "Psalm 41:8 (CPDV)",
+    "connected_to": "Psalm 41:9",
+    "connected_from": "Psalm 41:7"
+  },
+  {
+    "text": "For even the man of my peace, in whom I hoped, who ate my bread, has greatly supplanted me.",
+    "reference": "Psalm 41:9 (CPDV)",
+    "connected_to": "Psalm 41:10",
+    "connected_from": "Psalm 41:8"
+  },
+  {
+    "text": "But you, O Lord, have mercy on me, and raise me up again. And I will requite them.",
+    "reference": "Psalm 41:10 (CPDV)",
+    "connected_to": "Psalm 41:11",
+    "connected_from": "Psalm 41:9"
+  },
+  {
+    "text": "By this, I knew that you preferred me: because my adversary will not rejoice over me.",
+    "reference": "Psalm 41:11 (CPDV)",
+    "connected_to": "Psalm 41:12",
+    "connected_from": "Psalm 41:10"
+  },
+  {
+    "text": "But you have sustained me, because of my innocence, and you have confirmed me in your sight in eternity.",
+    "reference": "Psalm 41:12 (CPDV)",
+    "connected_to": "Psalm 41:13",
+    "connected_from": "Psalm 41:11"
+  },
+  {
+    "text": "Blessed is the Lord God of Israel, for all generations and even forever. Amen. Amen.",
+    "reference": "Psalm 41:13 (CPDV)",
+    "connected_from": "Psalm 41:12"
+  }
+]

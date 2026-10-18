@@ -1,0 +1,174 @@
+[
+  {
+    "text": "A good name is better than many riches. And good esteem is above silver and gold.",
+    "reference": "Proverbs 22:1 (CPDV)",
+    "connected_to": "Proverbs 22:2"
+  },
+  {
+    "text": "The rich and poor have met one another. The Lord is the maker of them both.",
+    "reference": "Proverbs 22:2 (CPDV)",
+    "connected_to": "Proverbs 22:3",
+    "connected_from": "Proverbs 22:1"
+  },
+  {
+    "text": "The clever saw evil and hid himself. The innocent continued on and was afflicted with damage.",
+    "reference": "Proverbs 22:3 (CPDV)",
+    "connected_to": "Proverbs 22:4",
+    "connected_from": "Proverbs 22:2"
+  },
+  {
+    "text": "The end of moderation is the fear of the Lord, riches and glory and life.",
+    "reference": "Proverbs 22:4 (CPDV)",
+    "connected_to": "Proverbs 22:5",
+    "connected_from": "Proverbs 22:3"
+  },
+  {
+    "text": "Weapons and swords are on the way of the perverse. But he who guards his own soul withdraws far from them.",
+    "reference": "Proverbs 22:5 (CPDV)",
+    "connected_to": "Proverbs 22:6",
+    "connected_from": "Proverbs 22:4"
+  },
+  {
+    "text": "The proverb is: A youth is close to his way; even when he is old, he will not withdraw from it.",
+    "reference": "Proverbs 22:6 (CPDV)",
+    "connected_to": "Proverbs 22:7",
+    "connected_from": "Proverbs 22:5"
+  },
+  {
+    "text": "The rich rule over the poor. And the borrower is servant to the lender.",
+    "reference": "Proverbs 22:7 (CPDV)",
+    "connected_to": "Proverbs 22:8",
+    "connected_from": "Proverbs 22:6"
+  },
+  {
+    "text": "Whoever sows iniquity will reap evils, and by the rod of his own wrath he will be consumed.",
+    "reference": "Proverbs 22:8 (CPDV)",
+    "connected_to": "Proverbs 22:9",
+    "connected_from": "Proverbs 22:7"
+  },
+  {
+    "text": "Whoever is inclined to mercy shall be blessed, for from his bread he has given to the poor. Whoever gives gifts will acquire victory and honor. But he carries away the soul of the receiver.",
+    "reference": "Proverbs 22:9 (CPDV)",
+    "connected_to": "Proverbs 22:10",
+    "connected_from": "Proverbs 22:8"
+  },
+  {
+    "text": "Cast out the one who ridicules, and conflict will go out with him, and accusations and insults will cease.",
+    "reference": "Proverbs 22:10 (CPDV)",
+    "connected_to": "Proverbs 22:11",
+    "connected_from": "Proverbs 22:9"
+  },
+  {
+    "text": "Whoever loves cleanness of heart, because of the grace of his lips, will have the king as his friend.",
+    "reference": "Proverbs 22:11 (CPDV)",
+    "connected_to": "Proverbs 22:12",
+    "connected_from": "Proverbs 22:10"
+  },
+  {
+    "text": "The eyes of the Lord watch over knowledge. And the words of the iniquitous are supplanted.",
+    "reference": "Proverbs 22:12 (CPDV)",
+    "connected_to": "Proverbs 22:13",
+    "connected_from": "Proverbs 22:11"
+  },
+  {
+    "text": "The lazy one says: “There is a lion outside. I might be slain in the midst of the streets.”",
+    "reference": "Proverbs 22:13 (CPDV)",
+    "connected_to": "Proverbs 22:14",
+    "connected_from": "Proverbs 22:12"
+  },
+  {
+    "text": "The mouth of a foreign woman is a deep pit; the Lord was angry with him who will fall into it.",
+    "reference": "Proverbs 22:14 (CPDV)",
+    "connected_to": "Proverbs 22:15",
+    "connected_from": "Proverbs 22:13"
+  },
+  {
+    "text": "Foolishness has been bound to the heart of a child, and a rod of discipline shall cause it to flee.",
+    "reference": "Proverbs 22:15 (CPDV)",
+    "connected_to": "Proverbs 22:16",
+    "connected_from": "Proverbs 22:14"
+  },
+  {
+    "text": "Whoever slanders the poor, so as to augment his own riches, will give it away to one who is richer, and will be in need.",
+    "reference": "Proverbs 22:16 (CPDV)",
+    "connected_to": "Proverbs 22:17",
+    "connected_from": "Proverbs 22:15"
+  },
+  {
+    "text": "Incline your ear, and listen to the words of the wise. Then apply your heart to my doctrine.",
+    "reference": "Proverbs 22:17 (CPDV)",
+    "connected_to": "Proverbs 22:18",
+    "connected_from": "Proverbs 22:16"
+  },
+  {
+    "text": "It shall be beautiful to you, if you preserve it in your inner self, and it shall overflow from your lips,",
+    "reference": "Proverbs 22:18 (CPDV)",
+    "connected_to": "Proverbs 22:19",
+    "connected_from": "Proverbs 22:17"
+  },
+  {
+    "text": "so that your confidence may be in the Lord. Therefore, I also have revealed it to you this day.",
+    "reference": "Proverbs 22:19 (CPDV)",
+    "connected_to": "Proverbs 22:20",
+    "connected_from": "Proverbs 22:18"
+  },
+  {
+    "text": "Behold, I have written it for you in three ways, and with meditations and knowledge,",
+    "reference": "Proverbs 22:20 (CPDV)",
+    "connected_to": "Proverbs 22:21",
+    "connected_from": "Proverbs 22:19"
+  },
+  {
+    "text": "so that I might reveal to you, firmly and with words of truth, in order to respond about these things to those who sent you.",
+    "reference": "Proverbs 22:21 (CPDV)",
+    "connected_to": "Proverbs 22:22",
+    "connected_from": "Proverbs 22:20"
+  },
+  {
+    "text": "Do not act with violence toward the pauper because he is poor. And do not weary the needy at the gate.",
+    "reference": "Proverbs 22:22 (CPDV)",
+    "connected_to": "Proverbs 22:23",
+    "connected_from": "Proverbs 22:21"
+  },
+  {
+    "text": "For the Lord will judge his case, and he will pierce those who have pierced his soul.",
+    "reference": "Proverbs 22:23 (CPDV)",
+    "connected_to": "Proverbs 22:24",
+    "connected_from": "Proverbs 22:22"
+  },
+  {
+    "text": "Do not be willing to be a friend to an angry man, and do not walk with a furious man,",
+    "reference": "Proverbs 22:24 (CPDV)",
+    "connected_to": "Proverbs 22:25",
+    "connected_from": "Proverbs 22:23"
+  },
+  {
+    "text": "lest perhaps you learn his ways, and take up a stumbling block to your soul.",
+    "reference": "Proverbs 22:25 (CPDV)",
+    "connected_to": "Proverbs 22:26",
+    "connected_from": "Proverbs 22:24"
+  },
+  {
+    "text": "Do not be willing to be with those who certify with their hands, and who offer themselves as a guarantee against debts.",
+    "reference": "Proverbs 22:26 (CPDV)",
+    "connected_to": "Proverbs 22:27",
+    "connected_from": "Proverbs 22:25"
+  },
+  {
+    "text": "For if you do not have the means to restore, what reason should there be for him to take the covering from your bed?",
+    "reference": "Proverbs 22:27 (CPDV)",
+    "connected_to": "Proverbs 22:28",
+    "connected_from": "Proverbs 22:26"
+  },
+  {
+    "text": "Do not cross beyond the ancient limits that your fathers have set.",
+    "reference": "Proverbs 22:28 (CPDV)",
+    "connected_to": "Proverbs 22:29",
+    "connected_from": "Proverbs 22:27"
+  },
+  {
+    "text": "Have you seen a man swift in his work? He shall stand in the sight of kings, and not before those who are disreputable.",
+    "reference": "Proverbs 22:29 (CPDV)",
+    "connected_from": "Proverbs 22:28"
+  }
+]

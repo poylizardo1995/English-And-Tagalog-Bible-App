@@ -1,0 +1,144 @@
+[
+  {
+    "text": "O lord, you have searched me, and known me.",
+    "reference": "Psalm 139:1 (AKJV)",
+    "connected_to": "Psalm 139:2"
+  },
+  {
+    "text": "You know my sitting down and my rising up, you understand my thought afar off.",
+    "reference": "Psalm 139:2 (AKJV)",
+    "connected_to": "Psalm 139:3",
+    "connected_from": "Psalm 139:1"
+  },
+  {
+    "text": "You compass my path and my lying down, and are acquainted with all my ways.",
+    "reference": "Psalm 139:3 (AKJV)",
+    "connected_to": "Psalm 139:4",
+    "connected_from": "Psalm 139:2"
+  },
+  {
+    "text": "For there is not a word in my tongue, but, see, O LORD, you know it altogether.",
+    "reference": "Psalm 139:4 (AKJV)",
+    "connected_to": "Psalm 139:5",
+    "connected_from": "Psalm 139:3"
+  },
+  {
+    "text": "You have beset me behind and before, and laid your hand on me.",
+    "reference": "Psalm 139:5 (AKJV)",
+    "connected_to": "Psalm 139:6",
+    "connected_from": "Psalm 139:4"
+  },
+  {
+    "text": "Such knowledge is too wonderful for me; it is high, I cannot attain to it.",
+    "reference": "Psalm 139:6 (AKJV)",
+    "connected_to": "Psalm 139:7",
+    "connected_from": "Psalm 139:5"
+  },
+  {
+    "text": "Where shall I go from your spirit? or where shall I flee from your presence?",
+    "reference": "Psalm 139:7 (AKJV)",
+    "connected_to": "Psalm 139:8",
+    "connected_from": "Psalm 139:6"
+  },
+  {
+    "text": "If I ascend up into heaven, you are there: if I make my bed in hell, behold, you are there.",
+    "reference": "Psalm 139:8 (AKJV)",
+    "connected_to": "Psalm 139:9",
+    "connected_from": "Psalm 139:7"
+  },
+  {
+    "text": "If I take the wings of the morning, and dwell in the uttermost parts of the sea;",
+    "reference": "Psalm 139:9 (AKJV)",
+    "connected_to": "Psalm 139:10",
+    "connected_from": "Psalm 139:8"
+  },
+  {
+    "text": "Even there shall your hand lead me, and your right hand shall hold me.",
+    "reference": "Psalm 139:10 (AKJV)",
+    "connected_to": "Psalm 139:11",
+    "connected_from": "Psalm 139:9"
+  },
+  {
+    "text": "If I say, Surely the darkness shall cover me; even the night shall be light about me.",
+    "reference": "Psalm 139:11 (AKJV)",
+    "connected_to": "Psalm 139:12",
+    "connected_from": "Psalm 139:10"
+  },
+  {
+    "text": "Yes, the darkness hides not from you; but the night shines as the day: the darkness and the light are both alike to you.",
+    "reference": "Psalm 139:12 (AKJV)",
+    "connected_to": "Psalm 139:13",
+    "connected_from": "Psalm 139:11"
+  },
+  {
+    "text": "For you have possessed my reins: you have covered me in my mother’s womb.",
+    "reference": "Psalm 139:13 (AKJV)",
+    "connected_to": "Psalm 139:14",
+    "connected_from": "Psalm 139:12"
+  },
+  {
+    "text": "I will praise you; for I am fearfully and wonderfully made: marvelous are your works; and that my soul knows right well.",
+    "reference": "Psalm 139:14 (AKJV)",
+    "connected_to": "Psalm 139:15",
+    "connected_from": "Psalm 139:13"
+  },
+  {
+    "text": "My substance was not hid from you, when I was made in secret, and curiously worked in the lowest parts of the earth.",
+    "reference": "Psalm 139:15 (AKJV)",
+    "connected_to": "Psalm 139:16",
+    "connected_from": "Psalm 139:14"
+  },
+  {
+    "text": "Your eyes did see my substance, yet being imperfect; and in your book all my members were written, which in continuance were fashioned, when as yet there was none of them.",
+    "reference": "Psalm 139:16 (AKJV)",
+    "connected_to": "Psalm 139:17",
+    "connected_from": "Psalm 139:15"
+  },
+  {
+    "text": "How precious also are your thoughts to me, O God! how great is the sum of them!",
+    "reference": "Psalm 139:17 (AKJV)",
+    "connected_to": "Psalm 139:18",
+    "connected_from": "Psalm 139:16"
+  },
+  {
+    "text": "If I should count them, they are more in number than the sand: when I awake, I am still with you.",
+    "reference": "Psalm 139:18 (AKJV)",
+    "connected_to": "Psalm 139:19",
+    "connected_from": "Psalm 139:17"
+  },
+  {
+    "text": "Surely you will slay the wicked, O God: depart from me therefore, you bloody men.",
+    "reference": "Psalm 139:19 (AKJV)",
+    "connected_to": "Psalm 139:20",
+    "connected_from": "Psalm 139:18"
+  },
+  {
+    "text": "For they speak against you wickedly, and your enemies take your name in vain.",
+    "reference": "Psalm 139:20 (AKJV)",
+    "connected_to": "Psalm 139:21",
+    "connected_from": "Psalm 139:19"
+  },
+  {
+    "text": "Do not I hate them, O LORD, that hate you? and am not I grieved with those that rise up against you?",
+    "reference": "Psalm 139:21 (AKJV)",
+    "connected_to": "Psalm 139:22",
+    "connected_from": "Psalm 139:20"
+  },
+  {
+    "text": "I hate them with perfect hatred: I count them my enemies.",
+    "reference": "Psalm 139:22 (AKJV)",
+    "connected_to": "Psalm 139:23",
+    "connected_from": "Psalm 139:21"
+  },
+  {
+    "text": "Search me, O God, and know my heart: try me, and know my thoughts:",
+    "reference": "Psalm 139:23 (AKJV)",
+    "connected_to": "Psalm 139:24",
+    "connected_from": "Psalm 139:22"
+  },
+  {
+    "text": "And see if there be any wicked way in me, and lead me in the way everlasting.",
+    "reference": "Psalm 139:24 (AKJV)",
+    "connected_from": "Psalm 139:23"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "text": "For the one directing. Of the sons of Korah. A Psalm. <span class=|reftext|><a href=|#|><b>1</b></a> All [you] peoples, clap your hands; shout unto God, with a voice of a ringing cry!",
+    "reference": "Psalm 47:1 (BLB)",
+    "connected_to": "Psalm 47:2"
+  },
+  {
+    "text": "For YHWH-Elyon [is] to be feared; [He is] the great King over all the earth.",
+    "reference": "Psalm 47:2 (BLB)",
+    "connected_to": "Psalm 47:3",
+    "connected_from": "Psalm 47:1"
+  },
+  {
+    "text": "He turns back the peoples under us, and the nations under our feet.",
+    "reference": "Psalm 47:3 (BLB)",
+    "connected_to": "Psalm 47:4",
+    "connected_from": "Psalm 47:2"
+  },
+  {
+    "text": "He chose for us our inheritance, the excellence of Jacob, whom He loves. Selah",
+    "reference": "Psalm 47:4 (BLB)",
+    "connected_to": "Psalm 47:5",
+    "connected_from": "Psalm 47:3"
+  },
+  {
+    "text": "God has gone up with a shout, YHWH with the voice of a shofar.",
+    "reference": "Psalm 47:5 (BLB)",
+    "connected_to": "Psalm 47:6",
+    "connected_from": "Psalm 47:4"
+  },
+  {
+    "text": "Sing praises to God, sing praises! Sing praises to our King, sing praises!",
+    "reference": "Psalm 47:6 (BLB)",
+    "connected_to": "Psalm 47:7",
+    "connected_from": "Psalm 47:5"
+  },
+  {
+    "text": "For the King of all the earth [is] God—sing praises [with] skill!",
+    "reference": "Psalm 47:7 (BLB)",
+    "connected_to": "Psalm 47:8",
+    "connected_from": "Psalm 47:6"
+  },
+  {
+    "text": "God reigns over the nations; God sits upon the throne of His holiness.",
+    "reference": "Psalm 47:8 (BLB)",
+    "connected_to": "Psalm 47:9",
+    "connected_from": "Psalm 47:7"
+  },
+  {
+    "text": "The princes of the peoples have gathered together, the people of the God of Abraham; for the shields of the earth [are] unto God—[He is] greatly to be exalted.",
+    "reference": "Psalm 47:9 (BLB)",
+    "connected_from": "Psalm 47:8"
+  }
+]

@@ -1,0 +1,174 @@
+[
+  {
+    "text": "And Job answered and said:",
+    "reference": "Job 19:1 (BLB)",
+    "connected_to": "Job 19:2"
+  },
+  {
+    "text": "“Until when will you⁺ afflict my soul, and crush me with words?",
+    "reference": "Job 19:2 (BLB)",
+    "connected_to": "Job 19:3",
+    "connected_from": "Job 19:1"
+  },
+  {
+    "text": "These ten times you⁺ have reproached me; are you⁺ not ashamed [that] you⁺ have done wrong to me?",
+    "reference": "Job 19:3 (BLB)",
+    "connected_to": "Job 19:4",
+    "connected_from": "Job 19:2"
+  },
+  {
+    "text": "And if I have truly gone astray, my straying lodges with me.",
+    "reference": "Job 19:4 (BLB)",
+    "connected_to": "Job 19:5",
+    "connected_from": "Job 19:3"
+  },
+  {
+    "text": "If you⁺ would truly magnify [yourselves] over me and plead my reproach against me,",
+    "reference": "Job 19:5 (BLB)",
+    "connected_to": "Job 19:6",
+    "connected_from": "Job 19:4"
+  },
+  {
+    "text": "then know that God has wronged me and has thrown His net over me.",
+    "reference": "Job 19:6 (BLB)",
+    "connected_to": "Job 19:7",
+    "connected_from": "Job 19:5"
+  },
+  {
+    "text": "Behold, I cry out, ‘Violence!’ And I am not answered. I cry for help, [and] there is no justice.",
+    "reference": "Job 19:7 (BLB)",
+    "connected_to": "Job 19:8",
+    "connected_from": "Job 19:6"
+  },
+  {
+    "text": "My way He has walled off, and I cannot pass over; and upon my paths He has set darkness.",
+    "reference": "Job 19:8 (BLB)",
+    "connected_to": "Job 19:9",
+    "connected_from": "Job 19:7"
+  },
+  {
+    "text": "My honor He has stripped from me, and He has turned aside the crown from my head.",
+    "reference": "Job 19:9 (BLB)",
+    "connected_to": "Job 19:10",
+    "connected_from": "Job 19:8"
+  },
+  {
+    "text": "He tears me down round about and I depart, and He pulls out my hope like a tree.",
+    "reference": "Job 19:10 (BLB)",
+    "connected_to": "Job 19:11",
+    "connected_from": "Job 19:9"
+  },
+  {
+    "text": "And He has kindled against me His anger, and He reckons me for Himself among His adversaries.",
+    "reference": "Job 19:11 (BLB)",
+    "connected_to": "Job 19:12",
+    "connected_from": "Job 19:10"
+  },
+  {
+    "text": "His troops come as one, and they build up their ramp against me, and they encamp all around my tent.",
+    "reference": "Job 19:12 (BLB)",
+    "connected_to": "Job 19:13",
+    "connected_from": "Job 19:11"
+  },
+  {
+    "text": "My brothers He has put far from me, and my acquaintances surely are estranged from me.",
+    "reference": "Job 19:13 (BLB)",
+    "connected_to": "Job 19:14",
+    "connected_from": "Job 19:12"
+  },
+  {
+    "text": "Those near to me have ceased, and those known to me have forgotten me.",
+    "reference": "Job 19:14 (BLB)",
+    "connected_to": "Job 19:15",
+    "connected_from": "Job 19:13"
+  },
+  {
+    "text": "Those who sojourn in my house, and my maidservants, they reckon me as a stranger; I have become a foreigner in their eyes.",
+    "reference": "Job 19:15 (BLB)",
+    "connected_to": "Job 19:16",
+    "connected_from": "Job 19:14"
+  },
+  {
+    "text": "I call to my servant, and he does not answer; with my mouth I seek favor from him.",
+    "reference": "Job 19:16 (BLB)",
+    "connected_to": "Job 19:17",
+    "connected_from": "Job 19:15"
+  },
+  {
+    "text": "My breath is strange to my wife, and I am loathsome to the sons of my womb.",
+    "reference": "Job 19:17 (BLB)",
+    "connected_to": "Job 19:18",
+    "connected_from": "Job 19:16"
+  },
+  {
+    "text": "Even little boys despise me; I arise, and they speak against me.",
+    "reference": "Job 19:18 (BLB)",
+    "connected_to": "Job 19:19",
+    "connected_from": "Job 19:17"
+  },
+  {
+    "text": "All the men of my counsel abhor me; and those I love have turned against me.",
+    "reference": "Job 19:19 (BLB)",
+    "connected_to": "Job 19:20",
+    "connected_from": "Job 19:18"
+  },
+  {
+    "text": "My bone clings to my skin and to my flesh, and I have escaped by the skin of my teeth.",
+    "reference": "Job 19:20 (BLB)",
+    "connected_to": "Job 19:21",
+    "connected_from": "Job 19:19"
+  },
+  {
+    "text": "Pity me, pity me, you⁺ my friends, for the hand of God has touched me.",
+    "reference": "Job 19:21 (BLB)",
+    "connected_to": "Job 19:22",
+    "connected_from": "Job 19:20"
+  },
+  {
+    "text": "Why do you⁺ pursue me as God [does]? Are you⁺ not even satisfied with my flesh?",
+    "reference": "Job 19:22 (BLB)",
+    "connected_to": "Job 19:23",
+    "connected_from": "Job 19:21"
+  },
+  {
+    "text": "Who will grant now that my words should be written? Who will grant [that] they be inscribed in a book,",
+    "reference": "Job 19:23 (BLB)",
+    "connected_to": "Job 19:24",
+    "connected_from": "Job 19:22"
+  },
+  {
+    "text": "with a pen of iron and with lead, they would be engraved forever in the rock!",
+    "reference": "Job 19:24 (BLB)",
+    "connected_to": "Job 19:25",
+    "connected_from": "Job 19:23"
+  },
+  {
+    "text": "And I know [that] my Redeemer lives, and in the end He will stand upon the dust.",
+    "reference": "Job 19:25 (BLB)",
+    "connected_to": "Job 19:26",
+    "connected_from": "Job 19:24"
+  },
+  {
+    "text": "And after they strike off my skin thus, yet in my flesh I will see God.",
+    "reference": "Job 19:26 (BLB)",
+    "connected_to": "Job 19:27",
+    "connected_from": "Job 19:25"
+  },
+  {
+    "text": "[He] whom I will see for myself, indeed my eyes will see, and not a stranger. My kidneys yearn in my bosom!",
+    "reference": "Job 19:27 (BLB)",
+    "connected_to": "Job 19:28",
+    "connected_from": "Job 19:26"
+  },
+  {
+    "text": "If you⁺ should say, ‘How we will pursue after him,’ and ‘The root of the matter is found with him,’",
+    "reference": "Job 19:28 (BLB)",
+    "connected_to": "Job 19:29",
+    "connected_from": "Job 19:27"
+  },
+  {
+    "text": "be afraid for yourselves of the face of the sword, for from wrath is the punishment of the sword, so that you⁺ may know [there is] a judgment.”",
+    "reference": "Job 19:29 (BLB)",
+    "connected_from": "Job 19:28"
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "text": "And Jehovah had said to Abram, Go out of thy land, and from thy kindred, and from thy father’s house, to the land that I will shew thee.",
+    "reference": "Genesis 12:1 (DBT)",
+    "connected_to": "Genesis 12:2"
+  },
+  {
+    "text": "And I will make of thee a great nation, and bless thee, and make thy name great; and thou shalt be a blessing.",
+    "reference": "Genesis 12:2 (DBT)",
+    "connected_to": "Genesis 12:3",
+    "connected_from": "Genesis 12:1"
+  },
+  {
+    "text": "And I will bless them that bless thee, and curse him that curseth thee; and in thee shall all families of the earth be blessed.",
+    "reference": "Genesis 12:3 (DBT)",
+    "connected_to": "Genesis 12:4",
+    "connected_from": "Genesis 12:2"
+  },
+  {
+    "text": "And Abram departed as Jehovah had said to him. And Lot went with him. And Abram was seventy-five years old when he departed out of Haran.",
+    "reference": "Genesis 12:4 (DBT)",
+    "connected_to": "Genesis 12:5",
+    "connected_from": "Genesis 12:3"
+  },
+  {
+    "text": "And Abram took Sarai his wife, and Lot his brother’s son, and all their possessions that they had acquired, and the souls that they had obtained in Haran, and they went out to go into the land of Canaan; and into the land of Canaan they came.",
+    "reference": "Genesis 12:5 (DBT)",
+    "connected_to": "Genesis 12:6",
+    "connected_from": "Genesis 12:4"
+  },
+  {
+    "text": "And Abram passed through the land to the place of Shechem, to the oak of Moreh. And the Canaanite was then in the land.",
+    "reference": "Genesis 12:6 (DBT)",
+    "connected_to": "Genesis 12:7",
+    "connected_from": "Genesis 12:5"
+  },
+  {
+    "text": "And Jehovah appeared to Abram, and said, Unto thy seed will I give this land. And there he built an altar to Jehovah who had appeared to him.",
+    "reference": "Genesis 12:7 (DBT)",
+    "connected_to": "Genesis 12:8",
+    "connected_from": "Genesis 12:6"
+  },
+  {
+    "text": "And he removed thence towards the mountain on the east of Bethel, and pitched his tent, [having] Bethel toward the west, and Ai toward the east; and there he built an altar to Jehovah, and called on the name of Jehovah.",
+    "reference": "Genesis 12:8 (DBT)",
+    "connected_to": "Genesis 12:9",
+    "connected_from": "Genesis 12:7"
+  },
+  {
+    "text": "And Abram moved onward, going on still toward the south.",
+    "reference": "Genesis 12:9 (DBT)",
+    "connected_to": "Genesis 12:10",
+    "connected_from": "Genesis 12:8"
+  },
+  {
+    "text": "And there was a famine in the land. And Abram went down to Egypt to sojourn there, for the famine was grievous in the land.",
+    "reference": "Genesis 12:10 (DBT)",
+    "connected_to": "Genesis 12:11",
+    "connected_from": "Genesis 12:9"
+  },
+  {
+    "text": "And it came to pass when he was come near to enter into Egypt, that he said to Sarai his wife, Behold now, I know that thou art a woman fair to look upon.",
+    "reference": "Genesis 12:11 (DBT)",
+    "connected_to": "Genesis 12:12",
+    "connected_from": "Genesis 12:10"
+  },
+  {
+    "text": "And it will come to pass when the Egyptians see thee, that they will say, She is his wife; and they will slay me, and save thee alive.",
+    "reference": "Genesis 12:12 (DBT)",
+    "connected_to": "Genesis 12:13",
+    "connected_from": "Genesis 12:11"
+  },
+  {
+    "text": "Say, I pray thee, thou art my sister, that it may be well with me on thy account, and my soul may live because of thee.",
+    "reference": "Genesis 12:13 (DBT)",
+    "connected_to": "Genesis 12:14",
+    "connected_from": "Genesis 12:12"
+  },
+  {
+    "text": "And it came to pass when Abram came into Egypt, that the Egyptians beheld the woman that she was very fair.",
+    "reference": "Genesis 12:14 (DBT)",
+    "connected_to": "Genesis 12:15",
+    "connected_from": "Genesis 12:13"
+  },
+  {
+    "text": "And the princes of Pharaoh saw her, and praised her to Pharaoh; and the woman was taken into Pharaoh’s house.",
+    "reference": "Genesis 12:15 (DBT)",
+    "connected_to": "Genesis 12:16",
+    "connected_from": "Genesis 12:14"
+  },
+  {
+    "text": "And he treated Abram well on her account; and he had sheep, and oxen, and he-asses, and bondmen, and bondwomen, and she-asses, and camels.",
+    "reference": "Genesis 12:16 (DBT)",
+    "connected_to": "Genesis 12:17",
+    "connected_from": "Genesis 12:15"
+  },
+  {
+    "text": "And Jehovah plagued Pharaoh and his house with great plagues because of Sarai Abram’s wife.",
+    "reference": "Genesis 12:17 (DBT)",
+    "connected_to": "Genesis 12:18",
+    "connected_from": "Genesis 12:16"
+  },
+  {
+    "text": "And Pharaoh called Abram, and said, What is this thou hast done to me? Why didst thou not tell me that she was thy wife?",
+    "reference": "Genesis 12:18 (DBT)",
+    "connected_to": "Genesis 12:19",
+    "connected_from": "Genesis 12:17"
+  },
+  {
+    "text": "Why didst thou say, She is my sister, so that I took her as my wife. And now, behold, there is thy wife: take [her], and go away.",
+    "reference": "Genesis 12:19 (DBT)",
+    "connected_to": "Genesis 12:20",
+    "connected_from": "Genesis 12:18"
+  },
+  {
+    "text": "And Pharaoh commanded [his] men concerning him, and they sent him away, and his wife, and all that he had.",
+    "reference": "Genesis 12:20 (DBT)",
+    "connected_from": "Genesis 12:19"
+  }
+]

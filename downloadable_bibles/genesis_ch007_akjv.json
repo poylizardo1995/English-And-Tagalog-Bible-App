@@ -1,0 +1,144 @@
+[
+  {
+    "text": "And the LORD said to Noah, Come you and all your house into the ark; for you have I seen righteous before me in this generation.",
+    "reference": "Genesis 7:1 (AKJV)",
+    "connected_to": "Genesis 7:2"
+  },
+  {
+    "text": "Of every clean beast you shall take to you by sevens, the male and his female: and of beasts that are not clean by two, the male and his female.",
+    "reference": "Genesis 7:2 (AKJV)",
+    "connected_to": "Genesis 7:3",
+    "connected_from": "Genesis 7:1"
+  },
+  {
+    "text": "Of fowls also of the air by sevens, the male and the female; to keep seed alive on the face of all the earth.",
+    "reference": "Genesis 7:3 (AKJV)",
+    "connected_to": "Genesis 7:4",
+    "connected_from": "Genesis 7:2"
+  },
+  {
+    "text": "For yet seven days, and I will cause it to rain on the earth forty days and forty nights; and every living substance that I have made will I destroy from off the face of the earth.",
+    "reference": "Genesis 7:4 (AKJV)",
+    "connected_to": "Genesis 7:5",
+    "connected_from": "Genesis 7:3"
+  },
+  {
+    "text": "And Noah did according to all that the LORD commanded him.",
+    "reference": "Genesis 7:5 (AKJV)",
+    "connected_to": "Genesis 7:6",
+    "connected_from": "Genesis 7:4"
+  },
+  {
+    "text": "And Noah was six hundred years old when the flood of waters was on the earth.",
+    "reference": "Genesis 7:6 (AKJV)",
+    "connected_to": "Genesis 7:7",
+    "connected_from": "Genesis 7:5"
+  },
+  {
+    "text": "And Noah went in, and his sons, and his wife, and his sons’ wives with him, into the ark, because of the waters of the flood.",
+    "reference": "Genesis 7:7 (AKJV)",
+    "connected_to": "Genesis 7:8",
+    "connected_from": "Genesis 7:6"
+  },
+  {
+    "text": "Of clean beasts, and of beasts that are not clean, and of fowls, and of every thing that creeps on the earth,",
+    "reference": "Genesis 7:8 (AKJV)",
+    "connected_to": "Genesis 7:9",
+    "connected_from": "Genesis 7:7"
+  },
+  {
+    "text": "There went in two and two to Noah into the ark, the male and the female, as God had commanded Noah.",
+    "reference": "Genesis 7:9 (AKJV)",
+    "connected_to": "Genesis 7:10",
+    "connected_from": "Genesis 7:8"
+  },
+  {
+    "text": "And it came to pass after seven days, that the waters of the flood were on the earth.",
+    "reference": "Genesis 7:10 (AKJV)",
+    "connected_to": "Genesis 7:11",
+    "connected_from": "Genesis 7:9"
+  },
+  {
+    "text": "In the six hundredth year of Noah’s life, in the second month, the seventeenth day of the month, the same day were all the fountains of the great deep broken up, and the windows of heaven were opened.",
+    "reference": "Genesis 7:11 (AKJV)",
+    "connected_to": "Genesis 7:12",
+    "connected_from": "Genesis 7:10"
+  },
+  {
+    "text": "And the rain was on the earth forty days and forty nights.",
+    "reference": "Genesis 7:12 (AKJV)",
+    "connected_to": "Genesis 7:13",
+    "connected_from": "Genesis 7:11"
+  },
+  {
+    "text": "In the selfsame day entered Noah, and Shem, and Ham, and Japheth, the sons of Noah, and Noah’s wife, and the three wives of his sons with them, into the ark;",
+    "reference": "Genesis 7:13 (AKJV)",
+    "connected_to": "Genesis 7:14",
+    "connected_from": "Genesis 7:12"
+  },
+  {
+    "text": "They, and every beast after his kind, and all the cattle after their kind, and every creeping thing that creeps on the earth after his kind, and every fowl after his kind, every bird of every sort.",
+    "reference": "Genesis 7:14 (AKJV)",
+    "connected_to": "Genesis 7:15",
+    "connected_from": "Genesis 7:13"
+  },
+  {
+    "text": "And they went in to Noah into the ark, two and two of all flesh, wherein is the breath of life.",
+    "reference": "Genesis 7:15 (AKJV)",
+    "connected_to": "Genesis 7:16",
+    "connected_from": "Genesis 7:14"
+  },
+  {
+    "text": "And they that went in, went in male and female of all flesh, as God had commanded him: and the LORD shut him in.",
+    "reference": "Genesis 7:16 (AKJV)",
+    "connected_to": "Genesis 7:17",
+    "connected_from": "Genesis 7:15"
+  },
+  {
+    "text": "And the flood was forty days on the earth; and the waters increased, and bore up the ark, and it was lift up above the earth.",
+    "reference": "Genesis 7:17 (AKJV)",
+    "connected_to": "Genesis 7:18",
+    "connected_from": "Genesis 7:16"
+  },
+  {
+    "text": "And the waters prevailed, and were increased greatly on the earth; and the ark went on the face of the waters.",
+    "reference": "Genesis 7:18 (AKJV)",
+    "connected_to": "Genesis 7:19",
+    "connected_from": "Genesis 7:17"
+  },
+  {
+    "text": "And the waters prevailed exceedingly on the earth; and all the high hills, that were under the whole heaven, were covered.",
+    "reference": "Genesis 7:19 (AKJV)",
+    "connected_to": "Genesis 7:20",
+    "connected_from": "Genesis 7:18"
+  },
+  {
+    "text": "Fifteen cubits upward did the waters prevail; and the mountains were covered.",
+    "reference": "Genesis 7:20 (AKJV)",
+    "connected_to": "Genesis 7:21",
+    "connected_from": "Genesis 7:19"
+  },
+  {
+    "text": "And all flesh died that moved on the earth, both of fowl, and of cattle, and of beast, and of every creeping thing that creeps on the earth, and every man:",
+    "reference": "Genesis 7:21 (AKJV)",
+    "connected_to": "Genesis 7:22",
+    "connected_from": "Genesis 7:20"
+  },
+  {
+    "text": "All in whose nostrils was the breath of life, of all that was in the dry land, died.",
+    "reference": "Genesis 7:22 (AKJV)",
+    "connected_to": "Genesis 7:23",
+    "connected_from": "Genesis 7:21"
+  },
+  {
+    "text": "And every living substance was destroyed which was on the face of the ground, both man, and cattle, and the creeping things, and the fowl of the heaven; and they were destroyed from the earth: and Noah only remained alive, and they that were with him in the ark.",
+    "reference": "Genesis 7:23 (AKJV)",
+    "connected_to": "Genesis 7:24",
+    "connected_from": "Genesis 7:22"
+  },
+  {
+    "text": "And the waters prevailed on the earth an hundred and fifty days.",
+    "reference": "Genesis 7:24 (AKJV)",
+    "connected_from": "Genesis 7:23"
+  }
+]

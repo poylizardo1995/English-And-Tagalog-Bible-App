@@ -1,0 +1,216 @@
+[
+  {
+    "text": "And these are the judgments which thou shalt set before them.",
+    "reference": "Exodus 21:1 (DBT)",
+    "connected_to": "Exodus 21:2"
+  },
+  {
+    "text": "If thou buy a Hebrew bondman, six years shall he serve; and in the seventh he shall go out free for nothing.",
+    "reference": "Exodus 21:2 (DBT)",
+    "connected_to": "Exodus 21:3",
+    "connected_from": "Exodus 21:1"
+  },
+  {
+    "text": "If he came in alone, he shall go out alone: if he had a wife, then his wife shall go out with him.",
+    "reference": "Exodus 21:3 (DBT)",
+    "connected_to": "Exodus 21:4",
+    "connected_from": "Exodus 21:2"
+  },
+  {
+    "text": "If his master have given him a wife, and she have borne him sons or daughters, the wife and her children shall be her master’s, and he shall go out alone.",
+    "reference": "Exodus 21:4 (DBT)",
+    "connected_to": "Exodus 21:5",
+    "connected_from": "Exodus 21:3"
+  },
+  {
+    "text": "But if the bondman shall say distinctly, I love my master, my wife, and my children, I will not go free;",
+    "reference": "Exodus 21:5 (DBT)",
+    "connected_to": "Exodus 21:6",
+    "connected_from": "Exodus 21:4"
+  },
+  {
+    "text": "then his master shall bring him before the judges, and shall bring him to the door, or to the door-post; and his master shall bore his ear through with an awl; and he shall be his bondman for ever.",
+    "reference": "Exodus 21:6 (DBT)",
+    "connected_to": "Exodus 21:7",
+    "connected_from": "Exodus 21:5"
+  },
+  {
+    "text": "And if a man shall sell his daughter as a handmaid, she shall not go out as the bondmen go out.",
+    "reference": "Exodus 21:7 (DBT)",
+    "connected_to": "Exodus 21:8",
+    "connected_from": "Exodus 21:6"
+  },
+  {
+    "text": "If she is unacceptable in the eyes of her master, who had taken her for himself, then shall he let her be ransomed: to sell her unto a foreign people he hath no power, after having dealt unfaithfully with her.",
+    "reference": "Exodus 21:8 (DBT)",
+    "connected_to": "Exodus 21:9",
+    "connected_from": "Exodus 21:7"
+  },
+  {
+    "text": "And if he have appointed her unto his son, he shall deal with her after the law of daughters.",
+    "reference": "Exodus 21:9 (DBT)",
+    "connected_to": "Exodus 21:10",
+    "connected_from": "Exodus 21:8"
+  },
+  {
+    "text": "If he take himself another, her food, her clothing, and her conjugal rights he shall not diminish.",
+    "reference": "Exodus 21:10 (DBT)",
+    "connected_to": "Exodus 21:11",
+    "connected_from": "Exodus 21:9"
+  },
+  {
+    "text": "And if he do not these three things unto her, then shall she go out free without money.",
+    "reference": "Exodus 21:11 (DBT)",
+    "connected_to": "Exodus 21:12",
+    "connected_from": "Exodus 21:10"
+  },
+  {
+    "text": "He that striketh a man, so that he die, shall certainly be put to death.",
+    "reference": "Exodus 21:12 (DBT)",
+    "connected_to": "Exodus 21:13",
+    "connected_from": "Exodus 21:11"
+  },
+  {
+    "text": "But if he have not lain in wait, and God have delivered [him] into his hand, I will appoint thee a place to which he shall flee.",
+    "reference": "Exodus 21:13 (DBT)",
+    "connected_to": "Exodus 21:14",
+    "connected_from": "Exodus 21:12"
+  },
+  {
+    "text": "But if a man act wantonly toward his neighbour, and slay him with guile, thou shalt take him from mine altar, that he may die.",
+    "reference": "Exodus 21:14 (DBT)",
+    "connected_to": "Exodus 21:15",
+    "connected_from": "Exodus 21:13"
+  },
+  {
+    "text": "And he that striketh his father, or his mother, shall certainly be put to death.",
+    "reference": "Exodus 21:15 (DBT)",
+    "connected_to": "Exodus 21:16",
+    "connected_from": "Exodus 21:14"
+  },
+  {
+    "text": "And he that stealeth a man, and selleth him, or if he be found in his hand, he shall certainly be put to death.",
+    "reference": "Exodus 21:16 (DBT)",
+    "connected_to": "Exodus 21:17",
+    "connected_from": "Exodus 21:15"
+  },
+  {
+    "text": "And he that curseth his father, or his mother, shall certainly be put to death.",
+    "reference": "Exodus 21:17 (DBT)",
+    "connected_to": "Exodus 21:18",
+    "connected_from": "Exodus 21:16"
+  },
+  {
+    "text": "And if men dispute, and one strike the other with a stone, or with the fist, and he die not, but take to [his] bed,",
+    "reference": "Exodus 21:18 (DBT)",
+    "connected_to": "Exodus 21:19",
+    "connected_from": "Exodus 21:17"
+  },
+  {
+    "text": "—if he rise, and walk abroad upon his staff, then shall he that struck [him] be guiltless; only he shall pay [for] the loss of his time, and shall cause [him] to be thoroughly healed.",
+    "reference": "Exodus 21:19 (DBT)",
+    "connected_to": "Exodus 21:20",
+    "connected_from": "Exodus 21:18"
+  },
+  {
+    "text": "And if a man strike his bondman or his handmaid with a staff, and he die under his hand, he shall certainly be avenged.",
+    "reference": "Exodus 21:20 (DBT)",
+    "connected_to": "Exodus 21:21",
+    "connected_from": "Exodus 21:19"
+  },
+  {
+    "text": "Only, if he continue [to live] a day or two days, he shall not be avenged; for he is his money.",
+    "reference": "Exodus 21:21 (DBT)",
+    "connected_to": "Exodus 21:22",
+    "connected_from": "Exodus 21:20"
+  },
+  {
+    "text": "And if men strive together, and strike a woman with child, so that she be delivered, and no mischief happen, he shall in any case be fined, according as the woman’s husband shall impose on him, and shall give it as the judges estimate.",
+    "reference": "Exodus 21:22 (DBT)",
+    "connected_to": "Exodus 21:23",
+    "connected_from": "Exodus 21:21"
+  },
+  {
+    "text": "But if mischief happen, then thou shalt give life for life,",
+    "reference": "Exodus 21:23 (DBT)",
+    "connected_to": "Exodus 21:24",
+    "connected_from": "Exodus 21:22"
+  },
+  {
+    "text": "eye for eye, tooth for tooth, hand for hand, foot for foot,",
+    "reference": "Exodus 21:24 (DBT)",
+    "connected_to": "Exodus 21:25",
+    "connected_from": "Exodus 21:23"
+  },
+  {
+    "text": "branding for branding, wound for wound, stripe for stripe.",
+    "reference": "Exodus 21:25 (DBT)",
+    "connected_to": "Exodus 21:26",
+    "connected_from": "Exodus 21:24"
+  },
+  {
+    "text": "And if a man strike the eye of his bondman or the eye of his handmaid, and it be marred, he shall let him go for his eye.",
+    "reference": "Exodus 21:26 (DBT)",
+    "connected_to": "Exodus 21:27",
+    "connected_from": "Exodus 21:25"
+  },
+  {
+    "text": "And if he knock out his bondman’s tooth or his handmaid’s tooth, he shall let him go free for his tooth.",
+    "reference": "Exodus 21:27 (DBT)",
+    "connected_to": "Exodus 21:28",
+    "connected_from": "Exodus 21:26"
+  },
+  {
+    "text": "And if an ox gore a man or a woman, so that they die, then the ox shall certainly be stoned, and its flesh shall not be eaten; but the owner of the ox shall be guiltless.",
+    "reference": "Exodus 21:28 (DBT)",
+    "connected_to": "Exodus 21:29",
+    "connected_from": "Exodus 21:27"
+  },
+  {
+    "text": "But if the ox have gored heretofore, and it have been testified to its owner, and he have not kept it in, and it kill a man or a woman,—the ox shall be stoned, and its owner also shall be put to death.",
+    "reference": "Exodus 21:29 (DBT)",
+    "connected_to": "Exodus 21:30",
+    "connected_from": "Exodus 21:28"
+  },
+  {
+    "text": "If there be imposed on him a satisfaction, then he shall give the ransom of his life, according to what is imposed on him.",
+    "reference": "Exodus 21:30 (DBT)",
+    "connected_to": "Exodus 21:31",
+    "connected_from": "Exodus 21:29"
+  },
+  {
+    "text": "Whether it gore a son or gore a daughter, according to this judgment shall it be done to him.",
+    "reference": "Exodus 21:31 (DBT)",
+    "connected_to": "Exodus 21:32",
+    "connected_from": "Exodus 21:30"
+  },
+  {
+    "text": "If the ox gore a bondman or a handmaid, he shall give to their master thirty shekels of silver, and the ox shall be stoned.",
+    "reference": "Exodus 21:32 (DBT)",
+    "connected_to": "Exodus 21:33",
+    "connected_from": "Exodus 21:31"
+  },
+  {
+    "text": "—And if a man open a pit, or if a man dig a pit, and do not cover it, and an ox or an ass fall into it,",
+    "reference": "Exodus 21:33 (DBT)",
+    "connected_to": "Exodus 21:34",
+    "connected_from": "Exodus 21:32"
+  },
+  {
+    "text": "the owner of the pit shall make it good, shall give money to the owner of them; and the dead [ox] shall be his.",
+    "reference": "Exodus 21:34 (DBT)",
+    "connected_to": "Exodus 21:35",
+    "connected_from": "Exodus 21:33"
+  },
+  {
+    "text": "—And if one man’s ox gore his neighbour’s ox, and it die, then they shall sell the live ox, and divide the money thereof, and divide the dead also.",
+    "reference": "Exodus 21:35 (DBT)",
+    "connected_to": "Exodus 21:36",
+    "connected_from": "Exodus 21:34"
+  },
+  {
+    "text": "Or if it be known that the ox have gored heretofore, and its owner have not kept him in, he shall in any case restore ox for ox; and the dead shall be his.",
+    "reference": "Exodus 21:36 (DBT)",
+    "connected_from": "Exodus 21:35"
+  }
+]

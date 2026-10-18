@@ -1,0 +1,54 @@
+[
+  {
+    "text": "Jotham was twenty-five years old when he became king, and he reigned in Jerusalem sixteen years. His mother’s name was Jerushah daughter of Zadok.",
+    "reference": "2 Chronicles 27:1 (BSB)",
+    "connected_to": "2 Chronicles 27:2"
+  },
+  {
+    "text": "And he did what was right in the eyes of the LORD, just as his father Uzziah had done. In addition, he did not enter the temple of the LORD. But the people still behaved corruptly.",
+    "reference": "2 Chronicles 27:2 (BSB)",
+    "connected_to": "2 Chronicles 27:3",
+    "connected_from": "2 Chronicles 27:1"
+  },
+  {
+    "text": "Jotham rebuilt the Upper Gate of the house of the LORD, and he worked extensively on the wall at the hill of Ophel.",
+    "reference": "2 Chronicles 27:3 (BSB)",
+    "connected_to": "2 Chronicles 27:4",
+    "connected_from": "2 Chronicles 27:2"
+  },
+  {
+    "text": "He also built cities in the hill country of Judah and fortresses and towers in the forests.",
+    "reference": "2 Chronicles 27:4 (BSB)",
+    "connected_to": "2 Chronicles 27:5",
+    "connected_from": "2 Chronicles 27:3"
+  },
+  {
+    "text": "Jotham waged war against the king of the Ammonites and defeated them, and that year they gave him a hundred talents of silver, ten thousand cors of wheat, and ten thousand cors of barley. They paid him the same in the second and third years.",
+    "reference": "2 Chronicles 27:5 (BSB)",
+    "connected_to": "2 Chronicles 27:6",
+    "connected_from": "2 Chronicles 27:4"
+  },
+  {
+    "text": "So Jotham grew powerful because he ordered his ways before the LORD his God.",
+    "reference": "2 Chronicles 27:6 (BSB)",
+    "connected_to": "2 Chronicles 27:7",
+    "connected_from": "2 Chronicles 27:5"
+  },
+  {
+    "text": "As for the rest of the acts of Jotham, along with all his wars and his ways, they are indeed written in the Book of the Kings of Israel and Judah.",
+    "reference": "2 Chronicles 27:7 (BSB)",
+    "connected_to": "2 Chronicles 27:8",
+    "connected_from": "2 Chronicles 27:6"
+  },
+  {
+    "text": "He was twenty-five years old when he became king, and he reigned in Jerusalem sixteen years.",
+    "reference": "2 Chronicles 27:8 (BSB)",
+    "connected_to": "2 Chronicles 27:9",
+    "connected_from": "2 Chronicles 27:7"
+  },
+  {
+    "text": "And Jotham rested with his fathers and was buried in the City of David. And his son Ahaz reigned in his place.",
+    "reference": "2 Chronicles 27:9 (BSB)",
+    "connected_from": "2 Chronicles 27:8"
+  }
+]

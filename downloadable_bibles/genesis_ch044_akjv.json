@@ -1,0 +1,204 @@
+[
+  {
+    "text": "And he commanded the steward of his house, saying, Fill the men’s sacks with food, as much as they can carry, and put every man’s money in his sack’s mouth.",
+    "reference": "Genesis 44:1 (AKJV)",
+    "connected_to": "Genesis 44:2"
+  },
+  {
+    "text": "And put my cup, the silver cup, in the sack’s mouth of the youngest, and his corn money. And he did according to the word that Joseph had spoken.",
+    "reference": "Genesis 44:2 (AKJV)",
+    "connected_to": "Genesis 44:3",
+    "connected_from": "Genesis 44:1"
+  },
+  {
+    "text": "As soon as the morning was light, the men were sent away, they and their asses.",
+    "reference": "Genesis 44:3 (AKJV)",
+    "connected_to": "Genesis 44:4",
+    "connected_from": "Genesis 44:2"
+  },
+  {
+    "text": "And when they were gone out of the city, and not yet far off, Joseph said to his steward, Up, follow after the men; and when you do overtake them, say to them, Why have you rewarded evil for good?",
+    "reference": "Genesis 44:4 (AKJV)",
+    "connected_to": "Genesis 44:5",
+    "connected_from": "Genesis 44:3"
+  },
+  {
+    "text": "Is not this it in which my lord drinks, and whereby indeed he divines? you have done evil in so doing.",
+    "reference": "Genesis 44:5 (AKJV)",
+    "connected_to": "Genesis 44:6",
+    "connected_from": "Genesis 44:4"
+  },
+  {
+    "text": "And he overtook them, and he spoke to them these same words.",
+    "reference": "Genesis 44:6 (AKJV)",
+    "connected_to": "Genesis 44:7",
+    "connected_from": "Genesis 44:5"
+  },
+  {
+    "text": "And they said to him, Why said my lord these words? God forbid that your servants should do according to this thing:",
+    "reference": "Genesis 44:7 (AKJV)",
+    "connected_to": "Genesis 44:8",
+    "connected_from": "Genesis 44:6"
+  },
+  {
+    "text": "Behold, the money, which we found in our sacks’ mouths, we brought again to you out of the land of Canaan: how then should we steal out of your lord’s house silver or gold?",
+    "reference": "Genesis 44:8 (AKJV)",
+    "connected_to": "Genesis 44:9",
+    "connected_from": "Genesis 44:7"
+  },
+  {
+    "text": "With whomsoever of your servants it be found, both let him die, and we also will be my lord’s slaves.",
+    "reference": "Genesis 44:9 (AKJV)",
+    "connected_to": "Genesis 44:10",
+    "connected_from": "Genesis 44:8"
+  },
+  {
+    "text": "And he said, Now also let it be according to your words: he with whom it is found shall be my servant; and you shall be blameless.",
+    "reference": "Genesis 44:10 (AKJV)",
+    "connected_to": "Genesis 44:11",
+    "connected_from": "Genesis 44:9"
+  },
+  {
+    "text": "Then they speedily took down every man his sack to the ground, and opened every man his sack.",
+    "reference": "Genesis 44:11 (AKJV)",
+    "connected_to": "Genesis 44:12",
+    "connected_from": "Genesis 44:10"
+  },
+  {
+    "text": "And he searched, and began at the oldest, and left at the youngest: and the cup was found in Benjamin’s sack.",
+    "reference": "Genesis 44:12 (AKJV)",
+    "connected_to": "Genesis 44:13",
+    "connected_from": "Genesis 44:11"
+  },
+  {
+    "text": "Then they rent their clothes, and laded every man his ass, and returned to the city.",
+    "reference": "Genesis 44:13 (AKJV)",
+    "connected_to": "Genesis 44:14",
+    "connected_from": "Genesis 44:12"
+  },
+  {
+    "text": "And Judah and his brothers came to Joseph’s house; for he was yet there: and they fell before him on the ground.",
+    "reference": "Genesis 44:14 (AKJV)",
+    "connected_to": "Genesis 44:15",
+    "connected_from": "Genesis 44:13"
+  },
+  {
+    "text": "And Joseph said to them, What deed is this that you have done? know you not that such a man as I can certainly divine?",
+    "reference": "Genesis 44:15 (AKJV)",
+    "connected_to": "Genesis 44:16",
+    "connected_from": "Genesis 44:14"
+  },
+  {
+    "text": "And Judah said, What shall we say to my lord? what shall we speak? or how shall we clear ourselves? God has found out the iniquity of your servants: behold, we are my lord’s servants, both we, and he also with whom the cup is found.",
+    "reference": "Genesis 44:16 (AKJV)",
+    "connected_to": "Genesis 44:17",
+    "connected_from": "Genesis 44:15"
+  },
+  {
+    "text": "And he said, God forbid that I should do so: but the man in whose hand the cup is found, he shall be my servant; and as for you, get you up in peace to your father.",
+    "reference": "Genesis 44:17 (AKJV)",
+    "connected_to": "Genesis 44:18",
+    "connected_from": "Genesis 44:16"
+  },
+  {
+    "text": "Then Judah came near to him, and said, Oh my lord, let your servant, I pray you, speak a word in my lord’s ears, and let not your anger burn against your servant: for you are even as Pharaoh.",
+    "reference": "Genesis 44:18 (AKJV)",
+    "connected_to": "Genesis 44:19",
+    "connected_from": "Genesis 44:17"
+  },
+  {
+    "text": "My lord asked his servants, saying, Have you a father, or a brother?",
+    "reference": "Genesis 44:19 (AKJV)",
+    "connected_to": "Genesis 44:20",
+    "connected_from": "Genesis 44:18"
+  },
+  {
+    "text": "And we said to my lord, We have a father, an old man, and a child of his old age, a little one; and his brother is dead, and he alone is left of his mother, and his father loves him.",
+    "reference": "Genesis 44:20 (AKJV)",
+    "connected_to": "Genesis 44:21",
+    "connected_from": "Genesis 44:19"
+  },
+  {
+    "text": "And you said to your servants, Bring him down to me, that I may set my eyes on him.",
+    "reference": "Genesis 44:21 (AKJV)",
+    "connected_to": "Genesis 44:22",
+    "connected_from": "Genesis 44:20"
+  },
+  {
+    "text": "And we said to my lord, The lad cannot leave his father: for if he should leave his father, his father would die.",
+    "reference": "Genesis 44:22 (AKJV)",
+    "connected_to": "Genesis 44:23",
+    "connected_from": "Genesis 44:21"
+  },
+  {
+    "text": "And you said to your servants, Except your youngest brother come down with you, you shall see my face no more.",
+    "reference": "Genesis 44:23 (AKJV)",
+    "connected_to": "Genesis 44:24",
+    "connected_from": "Genesis 44:22"
+  },
+  {
+    "text": "And it came to pass when we came up to your servant my father, we told him the words of my lord.",
+    "reference": "Genesis 44:24 (AKJV)",
+    "connected_to": "Genesis 44:25",
+    "connected_from": "Genesis 44:23"
+  },
+  {
+    "text": "And our father said, Go again, and buy us a little food.",
+    "reference": "Genesis 44:25 (AKJV)",
+    "connected_to": "Genesis 44:26",
+    "connected_from": "Genesis 44:24"
+  },
+  {
+    "text": "And we said, We cannot go down: if our youngest brother be with us, then will we go down: for we may not see the man’s face, except our youngest brother be with us.",
+    "reference": "Genesis 44:26 (AKJV)",
+    "connected_to": "Genesis 44:27",
+    "connected_from": "Genesis 44:25"
+  },
+  {
+    "text": "And your servant my father said to us, You know that my wife bore me two sons:",
+    "reference": "Genesis 44:27 (AKJV)",
+    "connected_to": "Genesis 44:28",
+    "connected_from": "Genesis 44:26"
+  },
+  {
+    "text": "And the one went out from me, and I said, Surely he is torn in pieces; and I saw him not since:",
+    "reference": "Genesis 44:28 (AKJV)",
+    "connected_to": "Genesis 44:29",
+    "connected_from": "Genesis 44:27"
+  },
+  {
+    "text": "And if you take this also from me, and mischief befall him, you shall bring down my gray hairs with sorrow to the grave.",
+    "reference": "Genesis 44:29 (AKJV)",
+    "connected_to": "Genesis 44:30",
+    "connected_from": "Genesis 44:28"
+  },
+  {
+    "text": "Now therefore when I come to your servant my father, and the lad be not with us; seeing that his life is bound up in the lad’s life;",
+    "reference": "Genesis 44:30 (AKJV)",
+    "connected_to": "Genesis 44:31",
+    "connected_from": "Genesis 44:29"
+  },
+  {
+    "text": "It shall come to pass, when he sees that the lad is not with us, that he will die: and your servants shall bring down the gray hairs of your servant our father with sorrow to the grave.",
+    "reference": "Genesis 44:31 (AKJV)",
+    "connected_to": "Genesis 44:32",
+    "connected_from": "Genesis 44:30"
+  },
+  {
+    "text": "For your servant became surety for the lad to my father, saying, If I bring him not to you, then I shall bear the blame to my father for ever.",
+    "reference": "Genesis 44:32 (AKJV)",
+    "connected_to": "Genesis 44:33",
+    "connected_from": "Genesis 44:31"
+  },
+  {
+    "text": "Now therefore, I pray you, let your servant abide instead of the lad a slave to my lord; and let the lad go up with his brothers.",
+    "reference": "Genesis 44:33 (AKJV)",
+    "connected_to": "Genesis 44:34",
+    "connected_from": "Genesis 44:32"
+  },
+  {
+    "text": "For how shall I go up to my father, and the lad be not with me? lest peradventure I see the evil that shall come on my father.",
+    "reference": "Genesis 44:34 (AKJV)",
+    "connected_from": "Genesis 44:33"
+  }
+]

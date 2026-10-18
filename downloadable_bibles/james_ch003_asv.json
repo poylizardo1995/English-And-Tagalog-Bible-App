@@ -1,0 +1,108 @@
+[
+  {
+    "text": "Be not many of you teachers, my brethren, knowing that we shall receive heavier judgment.",
+    "reference": "James 3:1 (ASV)",
+    "connected_to": "James 3:2"
+  },
+  {
+    "text": "For in many things we all stumble. If any stumbleth not in word, the same is a perfect man, able to bridle the whole body also.",
+    "reference": "James 3:2 (ASV)",
+    "connected_to": "James 3:3",
+    "connected_from": "James 3:1"
+  },
+  {
+    "text": "Now if we put the horses’ bridles into their mouths that they may obey us, we turn about their whole body also.",
+    "reference": "James 3:3 (ASV)",
+    "connected_to": "James 3:4",
+    "connected_from": "James 3:2"
+  },
+  {
+    "text": "Behold, the ships also, though they are so great and are driven by rough winds, are yet turned about by a very small rudder, whither the impulse of the steersman willeth.",
+    "reference": "James 3:4 (ASV)",
+    "connected_to": "James 3:5",
+    "connected_from": "James 3:3"
+  },
+  {
+    "text": "So the tongue also is a little member, and boasteth great things. Behold, how much wood is kindled by how small a fire!",
+    "reference": "James 3:5 (ASV)",
+    "connected_to": "James 3:6",
+    "connected_from": "James 3:4"
+  },
+  {
+    "text": "And the tongue is a fire: the world of iniquity among our members is the tongue, which defileth the whole body, and setteth on fire the wheel of nature, and is set on fire by hell.",
+    "reference": "James 3:6 (ASV)",
+    "connected_to": "James 3:7",
+    "connected_from": "James 3:5"
+  },
+  {
+    "text": "For every kind of beasts and birds, of creeping things and things in the sea, is tamed, and hath been tamed by mankind:",
+    "reference": "James 3:7 (ASV)",
+    "connected_to": "James 3:8",
+    "connected_from": "James 3:6"
+  },
+  {
+    "text": "but the tongue can no man tame; it is a restless evil, it is full of deadly poison.",
+    "reference": "James 3:8 (ASV)",
+    "connected_to": "James 3:9",
+    "connected_from": "James 3:7"
+  },
+  {
+    "text": "Therewith bless we the Lord and Father; and therewith curse we men, who are made after the likeness of God:",
+    "reference": "James 3:9 (ASV)",
+    "connected_to": "James 3:10",
+    "connected_from": "James 3:8"
+  },
+  {
+    "text": "out of the same mouth cometh forth blessing and cursing. My brethren, these things ought not so to be.",
+    "reference": "James 3:10 (ASV)",
+    "connected_to": "James 3:11",
+    "connected_from": "James 3:9"
+  },
+  {
+    "text": "Doth the fountain send forth from the same opening sweet water and bitter?",
+    "reference": "James 3:11 (ASV)",
+    "connected_to": "James 3:12",
+    "connected_from": "James 3:10"
+  },
+  {
+    "text": "Can a fig tree, my brethren, yield olives, or a vine figs? neither can salt water yield sweet.",
+    "reference": "James 3:12 (ASV)",
+    "connected_to": "James 3:13",
+    "connected_from": "James 3:11"
+  },
+  {
+    "text": "Who is wise and understanding among you? let him show by his good life his works in meekness of wisdom.",
+    "reference": "James 3:13 (ASV)",
+    "connected_to": "James 3:14",
+    "connected_from": "James 3:12"
+  },
+  {
+    "text": "But if ye have bitter jealousy and faction in your heart, glory not and lie not against the truth.",
+    "reference": "James 3:14 (ASV)",
+    "connected_to": "James 3:15",
+    "connected_from": "James 3:13"
+  },
+  {
+    "text": "This wisdom is not a wisdom that cometh down from above, but is earthly, sensual, devilish.",
+    "reference": "James 3:15 (ASV)",
+    "connected_to": "James 3:16",
+    "connected_from": "James 3:14"
+  },
+  {
+    "text": "For where jealousy and faction are, there is confusion and every vile deed.",
+    "reference": "James 3:16 (ASV)",
+    "connected_to": "James 3:17",
+    "connected_from": "James 3:15"
+  },
+  {
+    "text": "But the wisdom that is from above is first pure, then peaceable, gentle, easy to be entreated, full of mercy and good fruits, without variance, without hypocrisy.",
+    "reference": "James 3:17 (ASV)",
+    "connected_to": "James 3:18",
+    "connected_from": "James 3:16"
+  },
+  {
+    "text": "And the fruit of righteousness is sown in peace for them that make peace.",
+    "reference": "James 3:18 (ASV)",
+    "connected_from": "James 3:17"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "text": "For the choirmaster. According to Gittith (Gittith). A Psalm of David (beloved). <span class=|reftext|><a href=|#|><b>1</b></a> O LORD {YHWH}, our Lord, how majestic is Your name in all the earth! You have set Your glory above the heavens.",
+    "reference": "Psalm 8:1 (BAB)",
+    "connected_to": "Psalm 8:2"
+  },
+  {
+    "text": "From the mouths of children and infants You have ordained praise \\You have ordained strength/ on account of Your adversaries, to silence the enemy and avenger.",
+    "reference": "Psalm 8:2 (BAB)",
+    "connected_to": "Psalm 8:3",
+    "connected_from": "Psalm 8:1"
+  },
+  {
+    "text": "When I behold Your heavens, the work of Your fingers, the moon and the stars, which You have set in place—",
+    "reference": "Psalm 8:3 (BAB)",
+    "connected_to": "Psalm 8:4",
+    "connected_from": "Psalm 8:2"
+  },
+  {
+    "text": "what is man that You are mindful of him, or the son of man that You care for him?",
+    "reference": "Psalm 8:4 (BAB)",
+    "connected_to": "Psalm 8:5",
+    "connected_from": "Psalm 8:3"
+  },
+  {
+    "text": "You made him a little lower than the angels (than God); You crowned him with glory and honor.",
+    "reference": "Psalm 8:5 (BAB)",
+    "connected_to": "Psalm 8:6",
+    "connected_from": "Psalm 8:4"
+  },
+  {
+    "text": "You made him ruler of the works of Your hands; You have placed everything under his feet <1Co 15:27 and Heb 2:6–8>:",
+    "reference": "Psalm 8:6 (BAB)",
+    "connected_to": "Psalm 8:7",
+    "connected_from": "Psalm 8:5"
+  },
+  {
+    "text": "all sheep and oxen, and even the beasts of the field,",
+    "reference": "Psalm 8:7 (BAB)",
+    "connected_to": "Psalm 8:8",
+    "connected_from": "Psalm 8:6"
+  },
+  {
+    "text": "the birds of the air and the fish of the sea, all that swim the paths of the seas.",
+    "reference": "Psalm 8:8 (BAB)",
+    "connected_to": "Psalm 8:9",
+    "connected_from": "Psalm 8:7"
+  },
+  {
+    "text": "O LORD {YHWH}, our Lord, how majestic is Your name in all the earth!",
+    "reference": "Psalm 8:9 (BAB)",
+    "connected_from": "Psalm 8:8"
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "text": "And Adam had relations with his wife Eve, and she conceived and gave birth to Cain. “With the help of the LORD I have brought forth a man,” she said.",
+    "reference": "Genesis 4:1 (BSB)",
+    "connected_to": "Genesis 4:2"
+  },
+  {
+    "text": "Later she gave birth to Cain’s brother Abel. Now Abel was a keeper of sheep, while Cain was a tiller of the soil.",
+    "reference": "Genesis 4:2 (BSB)",
+    "connected_to": "Genesis 4:3",
+    "connected_from": "Genesis 4:1"
+  },
+  {
+    "text": "So in the course of time, Cain brought some of the fruit of the soil as an offering to the LORD,",
+    "reference": "Genesis 4:3 (BSB)",
+    "connected_to": "Genesis 4:4",
+    "connected_from": "Genesis 4:2"
+  },
+  {
+    "text": "while Abel brought the best portions of the firstborn of his flock. And the LORD looked with favor on Abel and his offering,",
+    "reference": "Genesis 4:4 (BSB)",
+    "connected_to": "Genesis 4:5",
+    "connected_from": "Genesis 4:3"
+  },
+  {
+    "text": "but He had no regard for Cain and his offering. So Cain became very angry, and his countenance fell.",
+    "reference": "Genesis 4:5 (BSB)",
+    "connected_to": "Genesis 4:6",
+    "connected_from": "Genesis 4:4"
+  },
+  {
+    "text": "“Why are you angry,” said the LORD to Cain, “and why has your countenance fallen?",
+    "reference": "Genesis 4:6 (BSB)",
+    "connected_to": "Genesis 4:7",
+    "connected_from": "Genesis 4:5"
+  },
+  {
+    "text": "If you do what is right, will you not be accepted? But if you refuse to do what is right, sin is crouching at your door; it desires you, but you must master it.”",
+    "reference": "Genesis 4:7 (BSB)",
+    "connected_to": "Genesis 4:8",
+    "connected_from": "Genesis 4:6"
+  },
+  {
+    "text": "Then Cain said to his brother Abel, “Let us go out to the field.” And while they were in the field, Cain rose up against his brother Abel and killed him.",
+    "reference": "Genesis 4:8 (BSB)",
+    "connected_to": "Genesis 4:9",
+    "connected_from": "Genesis 4:7"
+  },
+  {
+    "text": "And the LORD said to Cain, “Where is your brother Abel?” “I do not know!” he answered. “Am I my brother’s keeper?”",
+    "reference": "Genesis 4:9 (BSB)",
+    "connected_to": "Genesis 4:10",
+    "connected_from": "Genesis 4:8"
+  },
+  {
+    "text": "“What have you done?” replied the LORD. “The voice of your brother’s blood cries out to Me from the ground.",
+    "reference": "Genesis 4:10 (BSB)",
+    "connected_to": "Genesis 4:11",
+    "connected_from": "Genesis 4:9"
+  },
+  {
+    "text": "Now you are cursed and banished from the ground, which has opened its mouth to receive your brother’s blood from your hand.",
+    "reference": "Genesis 4:11 (BSB)",
+    "connected_to": "Genesis 4:12",
+    "connected_from": "Genesis 4:10"
+  },
+  {
+    "text": "When you till the ground, it will no longer yield its produce to you. You will be a fugitive and a wanderer on the earth.”",
+    "reference": "Genesis 4:12 (BSB)",
+    "connected_to": "Genesis 4:13",
+    "connected_from": "Genesis 4:11"
+  },
+  {
+    "text": "But Cain said to the LORD, “My punishment is greater than I can bear.",
+    "reference": "Genesis 4:13 (BSB)",
+    "connected_to": "Genesis 4:14",
+    "connected_from": "Genesis 4:12"
+  },
+  {
+    "text": "Behold, this day You have driven me from the face of the earth, and from Your face I will be hidden; I will be a fugitive and a wanderer on the earth, and whoever finds me will kill me.”",
+    "reference": "Genesis 4:14 (BSB)",
+    "connected_to": "Genesis 4:15",
+    "connected_from": "Genesis 4:13"
+  },
+  {
+    "text": "“Not so!” replied the LORD. “If anyone slays Cain, then Cain will be avenged sevenfold.” And the LORD placed a mark on Cain, so that no one who found him would kill him.",
+    "reference": "Genesis 4:15 (BSB)",
+    "connected_to": "Genesis 4:16",
+    "connected_from": "Genesis 4:14"
+  },
+  {
+    "text": "So Cain went out from the presence of the LORD and settled in the land of Nod, east of Eden.",
+    "reference": "Genesis 4:16 (BSB)",
+    "connected_to": "Genesis 4:17",
+    "connected_from": "Genesis 4:15"
+  },
+  {
+    "text": "And Cain had relations with his wife, and she conceived and gave birth to Enoch. Then Cain built a city and named it after his son Enoch.",
+    "reference": "Genesis 4:17 (BSB)",
+    "connected_to": "Genesis 4:18",
+    "connected_from": "Genesis 4:16"
+  },
+  {
+    "text": "Now to Enoch was born Irad, and Irad was the father of Mehujael, and Mehujael was the father of Methusael, and Methusael was the father of Lamech.",
+    "reference": "Genesis 4:18 (BSB)",
+    "connected_to": "Genesis 4:19",
+    "connected_from": "Genesis 4:17"
+  },
+  {
+    "text": "And Lamech married two women, one named Adah and the other Zillah.",
+    "reference": "Genesis 4:19 (BSB)",
+    "connected_to": "Genesis 4:20",
+    "connected_from": "Genesis 4:18"
+  },
+  {
+    "text": "Adah gave birth to Jabal; he was the father of those who dwell in tents and raise livestock.",
+    "reference": "Genesis 4:20 (BSB)",
+    "connected_to": "Genesis 4:21",
+    "connected_from": "Genesis 4:19"
+  },
+  {
+    "text": "And his brother’s name was Jubal; he was the father of all who play the harp and flute.",
+    "reference": "Genesis 4:21 (BSB)",
+    "connected_to": "Genesis 4:22",
+    "connected_from": "Genesis 4:20"
+  },
+  {
+    "text": "And Zillah gave birth to Tubal-cain, a forger of every implement of bronze and iron. And the sister of Tubal-cain was Naamah.",
+    "reference": "Genesis 4:22 (BSB)",
+    "connected_to": "Genesis 4:23",
+    "connected_from": "Genesis 4:21"
+  },
+  {
+    "text": "Then Lamech said to his wives: “Adah and Zillah, hear my voice; wives of Lamech, listen to my speech. For I have slain a man for wounding me, a young man for striking me.",
+    "reference": "Genesis 4:23 (BSB)",
+    "connected_to": "Genesis 4:24",
+    "connected_from": "Genesis 4:22"
+  },
+  {
+    "text": "If Cain is avenged sevenfold, then Lamech seventy-sevenfold.”",
+    "reference": "Genesis 4:24 (BSB)",
+    "connected_to": "Genesis 4:25",
+    "connected_from": "Genesis 4:23"
+  },
+  {
+    "text": "And Adam again had relations with his wife, and she gave birth to a son and named him Seth, saying, “God has granted me another seed in place of Abel, since Cain killed him.”",
+    "reference": "Genesis 4:25 (BSB)",
+    "connected_to": "Genesis 4:26",
+    "connected_from": "Genesis 4:24"
+  },
+  {
+    "text": "And to Seth also a son was born, and he called him Enosh. At that time men began to call upon the name of the LORD.",
+    "reference": "Genesis 4:26 (BSB)",
+    "connected_from": "Genesis 4:25"
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "text": "Moses answered and said: They will not believe me, nor hear my voice, but they will say: The Lord hath not appeared to thee.",
+    "reference": "Exodus 4:1 (DRB)",
+    "connected_to": "Exodus 4:2"
+  },
+  {
+    "text": "Then he said to him: What is that thou holdest in thy hand? He answered: A rod.",
+    "reference": "Exodus 4:2 (DRB)",
+    "connected_to": "Exodus 4:3",
+    "connected_from": "Exodus 4:1"
+  },
+  {
+    "text": "And the Lord said: Cast it down upon the ground. He cast it down, and it was turned into a serpent: so that Moses fled from it.",
+    "reference": "Exodus 4:3 (DRB)",
+    "connected_to": "Exodus 4:4",
+    "connected_from": "Exodus 4:2"
+  },
+  {
+    "text": "And the Lord said: Put out thy hand and take it by the tail. He put forth his hand, and took hold of it, and it was turned into a rod.",
+    "reference": "Exodus 4:4 (DRB)",
+    "connected_to": "Exodus 4:5",
+    "connected_from": "Exodus 4:3"
+  },
+  {
+    "text": "That they may believe, saith he, that the Lord God of their fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath appeared to thee.",
+    "reference": "Exodus 4:5 (DRB)",
+    "connected_to": "Exodus 4:6",
+    "connected_from": "Exodus 4:4"
+  },
+  {
+    "text": "And the Lord said again: Put thy hand into thy bosom. And when he had put it into his bosom, he brought it forth leprous as snow.",
+    "reference": "Exodus 4:6 (DRB)",
+    "connected_to": "Exodus 4:7",
+    "connected_from": "Exodus 4:5"
+  },
+  {
+    "text": "And he said: Put back thy hand into thy bosom. He put it back, and brought it out again, and it was like the other flesh.",
+    "reference": "Exodus 4:7 (DRB)",
+    "connected_to": "Exodus 4:8",
+    "connected_from": "Exodus 4:6"
+  },
+  {
+    "text": "If they will not believe thee, saith he, nor hear the voice of the former sign, they will believe the word of the latter sign.",
+    "reference": "Exodus 4:8 (DRB)",
+    "connected_to": "Exodus 4:9",
+    "connected_from": "Exodus 4:7"
+  },
+  {
+    "text": "But if they will not even believe these two signs, nor hear thy voice: take of the river water, and pour it out upon the dry land, and whatsoever thou drawest out of the river shall be turned into blood.",
+    "reference": "Exodus 4:9 (DRB)",
+    "connected_to": "Exodus 4:10",
+    "connected_from": "Exodus 4:8"
+  },
+  {
+    "text": "Moses said: I beseech thee, Lord. I am not eloquent from yesterday and the day before: and since thou hast spoken to thy servant, I have more impediment and slowness of tongue.",
+    "reference": "Exodus 4:10 (DRB)",
+    "connected_to": "Exodus 4:11",
+    "connected_from": "Exodus 4:9"
+  },
+  {
+    "text": "The Lord said to him: Who made man’s mouth? or who made the dumb and the deaf, the seeing and the blind? did not I?",
+    "reference": "Exodus 4:11 (DRB)",
+    "connected_to": "Exodus 4:12",
+    "connected_from": "Exodus 4:10"
+  },
+  {
+    "text": "Go therefore and I will be in thy mouth: and I will teach thee what thou shalt speak.",
+    "reference": "Exodus 4:12 (DRB)",
+    "connected_to": "Exodus 4:13",
+    "connected_from": "Exodus 4:11"
+  },
+  {
+    "text": "But he said: I beseech thee, Lord send whom thou wilt send.",
+    "reference": "Exodus 4:13 (DRB)",
+    "connected_to": "Exodus 4:14",
+    "connected_from": "Exodus 4:12"
+  },
+  {
+    "text": "The Lord being angry at Moses, said Aaron the Levite is thy brother, I know that he is eloquent: behold he cometh forth to meet thee, and seeing thee shall be glad at heart.",
+    "reference": "Exodus 4:14 (DRB)",
+    "connected_to": "Exodus 4:15",
+    "connected_from": "Exodus 4:13"
+  },
+  {
+    "text": "Speak to him, and put my words in his mouth: and I will be in thy mouth, and in his mouth, and will shew you what you must do.",
+    "reference": "Exodus 4:15 (DRB)",
+    "connected_to": "Exodus 4:16",
+    "connected_from": "Exodus 4:14"
+  },
+  {
+    "text": "He shall speak in thy stead to the people, and shall be thy mouth: but thou shalt be to him in those things that pertain to God.",
+    "reference": "Exodus 4:16 (DRB)",
+    "connected_to": "Exodus 4:17",
+    "connected_from": "Exodus 4:15"
+  },
+  {
+    "text": "And take this rod in thy hand, wherewith thou shalt do the signs.",
+    "reference": "Exodus 4:17 (DRB)",
+    "connected_to": "Exodus 4:18",
+    "connected_from": "Exodus 4:16"
+  },
+  {
+    "text": "Moses went his way, and returned to Jethro his father in law and said to him: I will go and return to my brethren into Egypt, that I may see if they be yet alive. And Jethro said to him: Go in peace.",
+    "reference": "Exodus 4:18 (DRB)",
+    "connected_to": "Exodus 4:19",
+    "connected_from": "Exodus 4:17"
+  },
+  {
+    "text": "And the Lord said to Moses, in Madian: Go, and return into Egypt: for they are all dead that sought thy life.",
+    "reference": "Exodus 4:19 (DRB)",
+    "connected_to": "Exodus 4:20",
+    "connected_from": "Exodus 4:18"
+  },
+  {
+    "text": "Moses therefore took his wife, and his sons, and set them upon an ass: and returned into Egypt, carrying the rod of God in his hand.",
+    "reference": "Exodus 4:20 (DRB)",
+    "connected_to": "Exodus 4:21",
+    "connected_from": "Exodus 4:19"
+  },
+  {
+    "text": "And the Lord said to him as he was returning into Egypt: See that thou do all the wonders before Pharao, which I have put in thy hand: I shall harden his heart, and he will not let the people go.",
+    "reference": "Exodus 4:21 (DRB)",
+    "connected_to": "Exodus 4:22",
+    "connected_from": "Exodus 4:20"
+  },
+  {
+    "text": "And thou shalt say to him: Thus saith the Lord: Israel is my son, my firstborn.",
+    "reference": "Exodus 4:22 (DRB)",
+    "connected_to": "Exodus 4:23",
+    "connected_from": "Exodus 4:21"
+  },
+  {
+    "text": "I have said to thee: Let my son go, that he may serve me, and thou wouldst not let him go: behold I will kill thy son, thy firstborn.",
+    "reference": "Exodus 4:23 (DRB)",
+    "connected_to": "Exodus 4:24",
+    "connected_from": "Exodus 4:22"
+  },
+  {
+    "text": "And when he was in his journey, in the inn, the Lord met him, and would have killed him.",
+    "reference": "Exodus 4:24 (DRB)",
+    "connected_to": "Exodus 4:25",
+    "connected_from": "Exodus 4:23"
+  },
+  {
+    "text": "Immediately Sephora took a very sharp stone, and circumcised the fore skin of her son, and touched his feet and said: A bloody spouse art thou to me.",
+    "reference": "Exodus 4:25 (DRB)",
+    "connected_to": "Exodus 4:26",
+    "connected_from": "Exodus 4:24"
+  },
+  {
+    "text": "And he let him go after she had said A bloody spouse art thou to me, because of the circumcision.",
+    "reference": "Exodus 4:26 (DRB)",
+    "connected_to": "Exodus 4:27",
+    "connected_from": "Exodus 4:25"
+  },
+  {
+    "text": "And the Lord said to Aaron: Go into the desert to meet Moses. And he went forth to meet him in the mountain of God, and kissed him.",
+    "reference": "Exodus 4:27 (DRB)",
+    "connected_to": "Exodus 4:28",
+    "connected_from": "Exodus 4:26"
+  },
+  {
+    "text": "And Moses told Aaron all the words of the Lord, by which he had sent him, and the signs that he had commanded.",
+    "reference": "Exodus 4:28 (DRB)",
+    "connected_to": "Exodus 4:29",
+    "connected_from": "Exodus 4:27"
+  },
+  {
+    "text": "And they came together, and they assembled all the ancients of the children of Israel.",
+    "reference": "Exodus 4:29 (DRB)",
+    "connected_to": "Exodus 4:30",
+    "connected_from": "Exodus 4:28"
+  },
+  {
+    "text": "And Aaron spoke all the words which the Lord had said to Moses: and he wrought the signs before the people,",
+    "reference": "Exodus 4:30 (DRB)",
+    "connected_to": "Exodus 4:31",
+    "connected_from": "Exodus 4:29"
+  },
+  {
+    "text": "And the people believed. And they heard that the Lord had visited the children of Israel: and that he had looked upon their affliction: and falling down they adored.",
+    "reference": "Exodus 4:31 (DRB)",
+    "connected_from": "Exodus 4:30"
+  }
+]

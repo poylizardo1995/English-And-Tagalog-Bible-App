@@ -1,0 +1,132 @@
+[
+  {
+    "text": "And Job answered and said,",
+    "reference": "Job 16:1 (DBT)",
+    "connected_to": "Job 16:2"
+  },
+  {
+    "text": "I have heard many such things: grievous comforters are ye all.",
+    "reference": "Job 16:2 (DBT)",
+    "connected_to": "Job 16:3",
+    "connected_from": "Job 16:1"
+  },
+  {
+    "text": "Shall words of wind have an end? or what provoketh thee that thou answerest?",
+    "reference": "Job 16:3 (DBT)",
+    "connected_to": "Job 16:4",
+    "connected_from": "Job 16:2"
+  },
+  {
+    "text": "I also could speak as ye: if your soul were in my soul’s stead, I could join together words against you, and shake my head at you;",
+    "reference": "Job 16:4 (DBT)",
+    "connected_to": "Job 16:5",
+    "connected_from": "Job 16:3"
+  },
+  {
+    "text": "[But] I would encourage you with my mouth, and the solace of my lips should assuage [your pain].",
+    "reference": "Job 16:5 (DBT)",
+    "connected_to": "Job 16:6",
+    "connected_from": "Job 16:4"
+  },
+  {
+    "text": "If I speak, my pain is not assuaged; and if I forbear, what am I eased?",
+    "reference": "Job 16:6 (DBT)",
+    "connected_to": "Job 16:7",
+    "connected_from": "Job 16:5"
+  },
+  {
+    "text": "But now he hath made me weary;... thou hast made desolate all my family;",
+    "reference": "Job 16:7 (DBT)",
+    "connected_to": "Job 16:8",
+    "connected_from": "Job 16:6"
+  },
+  {
+    "text": "Thou hast shrivelled me up! it is become a witness; and my leanness riseth up against me, it beareth witness to my face.",
+    "reference": "Job 16:8 (DBT)",
+    "connected_to": "Job 16:9",
+    "connected_from": "Job 16:7"
+  },
+  {
+    "text": "His anger teareth and pursueth me; he gnasheth with his teeth against me; [as] mine adversary he sharpeneth his eyes at me.",
+    "reference": "Job 16:9 (DBT)",
+    "connected_to": "Job 16:10",
+    "connected_from": "Job 16:8"
+  },
+  {
+    "text": "They gape upon me with their mouth; they smite my cheeks reproachfully; they range themselves together against me.",
+    "reference": "Job 16:10 (DBT)",
+    "connected_to": "Job 16:11",
+    "connected_from": "Job 16:9"
+  },
+  {
+    "text": "God hath delivered me over to the iniquitous man, and hurled me into the hands of the wicked.",
+    "reference": "Job 16:11 (DBT)",
+    "connected_to": "Job 16:12",
+    "connected_from": "Job 16:10"
+  },
+  {
+    "text": "I was at rest, but he hath shattered me; he hath taken me by the neck and shaken me to pieces, and set me up for his mark.",
+    "reference": "Job 16:12 (DBT)",
+    "connected_to": "Job 16:13",
+    "connected_from": "Job 16:11"
+  },
+  {
+    "text": "His arrows encompass me round about, he cleaveth my reins asunder and doth not spare; he poureth out my gall upon the ground.",
+    "reference": "Job 16:13 (DBT)",
+    "connected_to": "Job 16:14",
+    "connected_from": "Job 16:12"
+  },
+  {
+    "text": "He breaketh me with breach upon breach; he runneth upon me like a mighty man.",
+    "reference": "Job 16:14 (DBT)",
+    "connected_to": "Job 16:15",
+    "connected_from": "Job 16:13"
+  },
+  {
+    "text": "I have sewed sackcloth upon my skin, and rolled my horn in the dust.",
+    "reference": "Job 16:15 (DBT)",
+    "connected_to": "Job 16:16",
+    "connected_from": "Job 16:14"
+  },
+  {
+    "text": "My face is red with weeping, and on my eyelids is the shadow of death;",
+    "reference": "Job 16:16 (DBT)",
+    "connected_to": "Job 16:17",
+    "connected_from": "Job 16:15"
+  },
+  {
+    "text": "Although there is no violence in my hands, and my prayer is pure.",
+    "reference": "Job 16:17 (DBT)",
+    "connected_to": "Job 16:18",
+    "connected_from": "Job 16:16"
+  },
+  {
+    "text": "O earth, cover not my blood, and let there be no place for my cry!",
+    "reference": "Job 16:18 (DBT)",
+    "connected_to": "Job 16:19",
+    "connected_from": "Job 16:17"
+  },
+  {
+    "text": "Even now, behold, my Witness is in the heavens, and he that voucheth for me is in the heights.",
+    "reference": "Job 16:19 (DBT)",
+    "connected_to": "Job 16:20",
+    "connected_from": "Job 16:18"
+  },
+  {
+    "text": "My friends are my mockers; mine eye poureth out tears unto +God.",
+    "reference": "Job 16:20 (DBT)",
+    "connected_to": "Job 16:21",
+    "connected_from": "Job 16:19"
+  },
+  {
+    "text": "Oh that there were arbitration for a man with +God, as a son of man for his friend!",
+    "reference": "Job 16:21 (DBT)",
+    "connected_to": "Job 16:22",
+    "connected_from": "Job 16:20"
+  },
+  {
+    "text": "For years [few] in number shall pass,—and I shall go the way [whence] I shall not return.",
+    "reference": "Job 16:22 (DBT)",
+    "connected_from": "Job 16:21"
+  }
+]

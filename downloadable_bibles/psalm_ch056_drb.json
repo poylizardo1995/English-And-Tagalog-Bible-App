@@ -1,0 +1,78 @@
+[
+  {
+    "text": "Unto the end, for a people that is removed at a distance from the sanctuary for David, for an inscription of a title (or pillar ) when the Philistines held him in Geth. Have mercy on me, O God, for man hath trodden me under foot; all the day long he hath afflicted me fighting against me.",
+    "reference": "Psalm 56:1 (DRB)",
+    "connected_to": "Psalm 56:2"
+  },
+  {
+    "text": "My enemies have trodden on me all the day long; for they are many that make war against me.",
+    "reference": "Psalm 56:2 (DRB)",
+    "connected_to": "Psalm 56:3",
+    "connected_from": "Psalm 56:1"
+  },
+  {
+    "text": "From the height of the day I shall fear: but I will trust in thee.",
+    "reference": "Psalm 56:3 (DRB)",
+    "connected_to": "Psalm 56:4",
+    "connected_from": "Psalm 56:2"
+  },
+  {
+    "text": "In God I will praise my words, in God I have put my trust: I will not fear what flesh can do against me.",
+    "reference": "Psalm 56:4 (DRB)",
+    "connected_to": "Psalm 56:5",
+    "connected_from": "Psalm 56:3"
+  },
+  {
+    "text": "All the day long they detested my words: all their thoughts were against me unto evil.",
+    "reference": "Psalm 56:5 (DRB)",
+    "connected_to": "Psalm 56:6",
+    "connected_from": "Psalm 56:4"
+  },
+  {
+    "text": "They will dwell and hide themselves: they will watch my heel. As they have waited for my soul,",
+    "reference": "Psalm 56:6 (DRB)",
+    "connected_to": "Psalm 56:7",
+    "connected_from": "Psalm 56:5"
+  },
+  {
+    "text": "for nothing shalt thou save them: in thy anger thou shalt break the people in pieces, O God,",
+    "reference": "Psalm 56:7 (DRB)",
+    "connected_to": "Psalm 56:8",
+    "connected_from": "Psalm 56:6"
+  },
+  {
+    "text": "I have declared to thee my life: thou hast set my tears in thy sight, As also in thy promise.",
+    "reference": "Psalm 56:8 (DRB)",
+    "connected_to": "Psalm 56:9",
+    "connected_from": "Psalm 56:7"
+  },
+  {
+    "text": "Then shall my enemies be turned back. In what day soever I shall call upon thee, behold I know thou art my God.",
+    "reference": "Psalm 56:9 (DRB)",
+    "connected_to": "Psalm 56:10",
+    "connected_from": "Psalm 56:8"
+  },
+  {
+    "text": "In God will I praise the word, in the Lord will I praise his speech. In God have I hoped, I will not fear what man can do to me.",
+    "reference": "Psalm 56:10 (DRB)",
+    "connected_to": "Psalm 56:11",
+    "connected_from": "Psalm 56:9"
+  },
+  {
+    "text": "In God will I praise the word, in the Lord will I praise his speech. In God have I hoped, I will not fear what man can do to me.",
+    "reference": "Psalm 56:11 (DRB)",
+    "connected_to": "Psalm 56:12",
+    "connected_from": "Psalm 56:10"
+  },
+  {
+    "text": "In me, O God, are vows to thee, which I will pay, praises to thee:",
+    "reference": "Psalm 56:12 (DRB)",
+    "connected_to": "Psalm 56:13",
+    "connected_from": "Psalm 56:11"
+  },
+  {
+    "text": "Because thou hast delivered my soul from death, my feet from falling: that I may please in the sight of God, in the light of the living.",
+    "reference": "Psalm 56:13 (DRB)",
+    "connected_from": "Psalm 56:12"
+  }
+]

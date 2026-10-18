@@ -1,0 +1,78 @@
+[
+  {
+    "text": "Chorus to Bride: Where has your beloved gone, O most beautiful among women? To where has your beloved turned aside, so that we may seek him with you?",
+    "reference": "Song of Solomon 6:1 (CPDV)",
+    "connected_to": "Song of Solomon 6:2"
+  },
+  {
+    "text": "Bride: My beloved has descended to his garden, to the courtyard of aromatic plants, in order to pasture in the gardens and gather the lilies.",
+    "reference": "Song of Solomon 6:2 (CPDV)",
+    "connected_to": "Song of Solomon 6:3",
+    "connected_from": "Song of Solomon 6:1"
+  },
+  {
+    "text": "I am for my beloved, and my beloved is for me. He pastures among the lilies.",
+    "reference": "Song of Solomon 6:3 (CPDV)",
+    "connected_to": "Song of Solomon 6:4",
+    "connected_from": "Song of Solomon 6:2"
+  },
+  {
+    "text": "Groom to Bride: My love, you are beautiful: sweet and graceful, like Jerusalem; terrible, like an army in battle array.",
+    "reference": "Song of Solomon 6:4 (CPDV)",
+    "connected_to": "Song of Solomon 6:5",
+    "connected_from": "Song of Solomon 6:3"
+  },
+  {
+    "text": "Avert your eyes from me, for they have caused me fly away. Your hair is like a flock of goats, which have appeared out of Gilead.",
+    "reference": "Song of Solomon 6:5 (CPDV)",
+    "connected_to": "Song of Solomon 6:6",
+    "connected_from": "Song of Solomon 6:4"
+  },
+  {
+    "text": "Your teeth are like a flock of sheep, which have ascended from the washing, each one with its identical twin, and not one among them is barren.",
+    "reference": "Song of Solomon 6:6 (CPDV)",
+    "connected_to": "Song of Solomon 6:7",
+    "connected_from": "Song of Solomon 6:5"
+  },
+  {
+    "text": "Like the skin of a pomegranate, so are your cheeks, except for your hiddenness.",
+    "reference": "Song of Solomon 6:7 (CPDV)",
+    "connected_to": "Song of Solomon 6:8",
+    "connected_from": "Song of Solomon 6:6"
+  },
+  {
+    "text": "There are sixty queens, and eighty concubines, and maidens without number.",
+    "reference": "Song of Solomon 6:8 (CPDV)",
+    "connected_to": "Song of Solomon 6:9",
+    "connected_from": "Song of Solomon 6:7"
+  },
+  {
+    "text": "One is my dove, my perfect one. One is her mother; elect is she who bore her. The daughters saw her, and they proclaimed her most blessed. The queens and concubines saw her, and they praised her.",
+    "reference": "Song of Solomon 6:9 (CPDV)",
+    "connected_to": "Song of Solomon 6:10",
+    "connected_from": "Song of Solomon 6:8"
+  },
+  {
+    "text": "Chorus to Groom: Who is she, who advances like the rising dawn, as beautiful as the moon, as elect as the sun, as terrible as an army in battle array?",
+    "reference": "Song of Solomon 6:10 (CPDV)",
+    "connected_to": "Song of Solomon 6:11",
+    "connected_from": "Song of Solomon 6:9"
+  },
+  {
+    "text": "Bride: I descended to the garden of nuts, in order to see the fruits of the steep valleys, and to examine whether the vineyard had flourished and the pomegranates had produced buds.",
+    "reference": "Song of Solomon 6:11 (CPDV)",
+    "connected_to": "Song of Solomon 6:12",
+    "connected_from": "Song of Solomon 6:10"
+  },
+  {
+    "text": "I did not understand. My soul was stirred up within me because of the chariots of Amminadab.",
+    "reference": "Song of Solomon 6:12 (CPDV)",
+    "connected_to": "Song of Solomon 6:13",
+    "connected_from": "Song of Solomon 6:11"
+  },
+  {
+    "text": "Chorus to Bride: Return, return, O Sulamitess. Return, return, so that we may consider you.",
+    "reference": "Song of Solomon 6:13 (CPDV)",
+    "connected_from": "Song of Solomon 6:12"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "text": "{A Psalm of thanksgiving.} Shout aloud unto Jehovah, all the earth!",
+    "reference": "Psalm 100:1 (DBT)",
+    "connected_to": "Psalm 100:2"
+  },
+  {
+    "text": "Serve Jehovah with joy: come before his presence with exultation.",
+    "reference": "Psalm 100:2 (DBT)",
+    "connected_to": "Psalm 100:3",
+    "connected_from": "Psalm 100:1"
+  },
+  {
+    "text": "Know that Jehovah is God: it is he that hath made us, and not we ourselves; [we are] his people, and the sheep of his pasture.",
+    "reference": "Psalm 100:3 (DBT)",
+    "connected_to": "Psalm 100:4",
+    "connected_from": "Psalm 100:2"
+  },
+  {
+    "text": "Enter into his gates with thanksgiving [and] into his courts with praise; give thanks unto him, bless his name:",
+    "reference": "Psalm 100:4 (DBT)",
+    "connected_to": "Psalm 100:5",
+    "connected_from": "Psalm 100:3"
+  },
+  {
+    "text": "For Jehovah is good; his loving-kindness [endureth] for ever; and his faithfulness from generation to generation.",
+    "reference": "Psalm 100:5 (DBT)",
+    "connected_from": "Psalm 100:4"
+  }
+]

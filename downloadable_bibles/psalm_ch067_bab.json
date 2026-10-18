@@ -1,0 +1,42 @@
+[
+  {
+    "text": "For the choirmaster. With stringed instruments. A Psalm. A song. <span class=|reftext|><a href=|#|><b>1</b></a> May God {Elohim} be gracious to us and bless us, and cause His face to shine upon us, Selah",
+    "reference": "Psalm 67:1 (BAB)",
+    "connected_to": "Psalm 67:2"
+  },
+  {
+    "text": "that Your ways may be known on earth, Your salvation among all nations.",
+    "reference": "Psalm 67:2 (BAB)",
+    "connected_to": "Psalm 67:3",
+    "connected_from": "Psalm 67:1"
+  },
+  {
+    "text": "Let the peoples praise You, O God {Elohim}; let all the peoples praise You.",
+    "reference": "Psalm 67:3 (BAB)",
+    "connected_to": "Psalm 67:4",
+    "connected_from": "Psalm 67:2"
+  },
+  {
+    "text": "Let the nations be glad and sing for joy, for You judge the peoples justly and lead the nations of the earth. Selah",
+    "reference": "Psalm 67:4 (BAB)",
+    "connected_to": "Psalm 67:5",
+    "connected_from": "Psalm 67:3"
+  },
+  {
+    "text": "Let the peoples praise You, O God {Elohim}; let all the peoples praise You.",
+    "reference": "Psalm 67:5 (BAB)",
+    "connected_to": "Psalm 67:6",
+    "connected_from": "Psalm 67:4"
+  },
+  {
+    "text": "The earth has yielded its harvest; God {Elohim}, our God, blesses us.",
+    "reference": "Psalm 67:6 (BAB)",
+    "connected_to": "Psalm 67:7",
+    "connected_from": "Psalm 67:5"
+  },
+  {
+    "text": "God {Elohim} blesses us, that all the ends of the earth shall fear Him.",
+    "reference": "Psalm 67:7 (BAB)",
+    "connected_from": "Psalm 67:6"
+  }
+]

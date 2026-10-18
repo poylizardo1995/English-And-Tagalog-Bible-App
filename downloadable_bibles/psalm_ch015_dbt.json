@@ -1,0 +1,30 @@
+[
+  {
+    "text": "{A Psalm of David.} Jehovah, who shall sojourn in thy tent? who shall dwell in the hill of thy holiness?",
+    "reference": "Psalm 15:1 (DBT)",
+    "connected_to": "Psalm 15:2"
+  },
+  {
+    "text": "He that walketh uprightly, and worketh righteousness, and speaketh the truth from his heart.",
+    "reference": "Psalm 15:2 (DBT)",
+    "connected_to": "Psalm 15:3",
+    "connected_from": "Psalm 15:1"
+  },
+  {
+    "text": "[He that] slandereth not with his tongue, doeth not evil to his companion, nor taketh up a reproach against his neighbour;",
+    "reference": "Psalm 15:3 (DBT)",
+    "connected_to": "Psalm 15:4",
+    "connected_from": "Psalm 15:2"
+  },
+  {
+    "text": "In whose eyes the depraved person is contemned, and who honoureth them that fear Jehovah; who, if he have sworn to his own hurt, changeth it not;",
+    "reference": "Psalm 15:4 (DBT)",
+    "connected_to": "Psalm 15:5",
+    "connected_from": "Psalm 15:3"
+  },
+  {
+    "text": "[He that] putteth not out his money to usury, nor taketh reward against the innocent. He that doeth these [things] shall never be moved.",
+    "reference": "Psalm 15:5 (DBT)",
+    "connected_from": "Psalm 15:4"
+  }
+]

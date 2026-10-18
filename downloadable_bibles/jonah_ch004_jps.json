@@ -1,0 +1,66 @@
+[
+  {
+    "text": "But it displeased Jonah exceedingly, and he was angry.",
+    "reference": "Jonah 4:1 (JPS)",
+    "connected_to": "Jonah 4:2"
+  },
+  {
+    "text": "And he prayed unto the LORD, and said: ‘I pray Thee, O LORD, was not this my saying, when I was yet in mine own country? Therefore I fled beforehand unto Tarshish; for I knew that Thou art a gracious God, and compassionate, long-suffering, and abundant in mercy, and repentest Thee of the evil.",
+    "reference": "Jonah 4:2 (JPS)",
+    "connected_to": "Jonah 4:3",
+    "connected_from": "Jonah 4:1"
+  },
+  {
+    "text": "Therefore now, O LORD, take, I beseech Thee, my life from me; for it is better for me to die than to live.’",
+    "reference": "Jonah 4:3 (JPS)",
+    "connected_to": "Jonah 4:4",
+    "connected_from": "Jonah 4:2"
+  },
+  {
+    "text": "And the LORD said: ‘Art thou greatly angry?’",
+    "reference": "Jonah 4:4 (JPS)",
+    "connected_to": "Jonah 4:5",
+    "connected_from": "Jonah 4:3"
+  },
+  {
+    "text": "Then Jonah went out of the city, and sat on the east side of the city, and there made him a booth, and sat under it in the shadow, till he might see what would become of the city.",
+    "reference": "Jonah 4:5 (JPS)",
+    "connected_to": "Jonah 4:6",
+    "connected_from": "Jonah 4:4"
+  },
+  {
+    "text": "And the LORD God prepared a gourd, and made it to come up over Jonah, that it might be a shadow over his head, to deliver him from his evil. So Jonah was exceeding glad because of the gourd.",
+    "reference": "Jonah 4:6 (JPS)",
+    "connected_to": "Jonah 4:7",
+    "connected_from": "Jonah 4:5"
+  },
+  {
+    "text": "But God prepared a worm when the morning rose the next day, and it smote the gourd, that it withered.",
+    "reference": "Jonah 4:7 (JPS)",
+    "connected_to": "Jonah 4:8",
+    "connected_from": "Jonah 4:6"
+  },
+  {
+    "text": "And it came to pass, when the sun arose, that God prepared a vehement east wind; and the sun beat upon the head of Jonah, that he fainted, and requested for himself that he might die, and said: ‘It is better for me to die than to live.’",
+    "reference": "Jonah 4:8 (JPS)",
+    "connected_to": "Jonah 4:9",
+    "connected_from": "Jonah 4:7"
+  },
+  {
+    "text": "And God said to Jonah: ‘Art thou greatly angry for the gourd?’ And he said: ‘I am greatly angry, even unto death.’",
+    "reference": "Jonah 4:9 (JPS)",
+    "connected_to": "Jonah 4:10",
+    "connected_from": "Jonah 4:8"
+  },
+  {
+    "text": "And the LORD said: ‘Thou hast had pity on the gourd, for which thou hast not laboured, neither madest it grow, which came up in a night, and perished in a night;",
+    "reference": "Jonah 4:10 (JPS)",
+    "connected_to": "Jonah 4:11",
+    "connected_from": "Jonah 4:9"
+  },
+  {
+    "text": "and should not I have pity on Nineveh, that great city, wherein are more than sixscore thousand persons that cannot discern between their right hand and their left hand, and also much cattle?’",
+    "reference": "Jonah 4:11 (JPS)",
+    "connected_from": "Jonah 4:10"
+  }
+]

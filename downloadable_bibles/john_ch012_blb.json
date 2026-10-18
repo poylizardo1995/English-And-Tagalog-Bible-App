@@ -1,0 +1,300 @@
+[
+  {
+    "text": "Therefore Jesus, six days before the Passover, came to Bethany where Lazarus was, whom Jesus raised out from the dead.",
+    "reference": "John 12:1 (BLB)",
+    "connected_to": "John 12:2"
+  },
+  {
+    "text": "Therefore they made Him a supper there, and Martha was serving, and Lazarus was one of those reclining with Him.",
+    "reference": "John 12:2 (BLB)",
+    "connected_to": "John 12:3",
+    "connected_from": "John 12:1"
+  },
+  {
+    "text": "Therefore Mary, having taken a litra of fragrant oil of pure nard, of great price, anointed the feet of Jesus and wiped His feet with her hair; and the house was filled with the fragrance of the oil.",
+    "reference": "John 12:3 (BLB)",
+    "connected_to": "John 12:4",
+    "connected_from": "John 12:2"
+  },
+  {
+    "text": "But Judas Iscariot, one of His disciples, being about to betray Him, says,",
+    "reference": "John 12:4 (BLB)",
+    "connected_to": "John 12:5",
+    "connected_from": "John 12:3"
+  },
+  {
+    "text": "“Why was this fragrant oil not sold for three hundred denarii and given to the poor?”",
+    "reference": "John 12:5 (BLB)",
+    "connected_to": "John 12:6",
+    "connected_from": "John 12:4"
+  },
+  {
+    "text": "But he said this not because he was caring for the poor, but because he was a thief; and having the money bag, he used to take up that being put into [it].",
+    "reference": "John 12:6 (BLB)",
+    "connected_to": "John 12:7",
+    "connected_from": "John 12:5"
+  },
+  {
+    "text": "Therefore Jesus said, “Leave her alone, so that for the day of My burial she may keep it.",
+    "reference": "John 12:7 (BLB)",
+    "connected_to": "John 12:8",
+    "connected_from": "John 12:6"
+  },
+  {
+    "text": "For you⁺ always have the poor with you, but not always do you⁺ have Me.”",
+    "reference": "John 12:8 (BLB)",
+    "connected_to": "John 12:9",
+    "connected_from": "John 12:7"
+  },
+  {
+    "text": "Therefore the great crowd of the Jews knew that He is there; and they came, not because of Jesus only, but so that they might see Lazarus also, whom He raised out from the dead.",
+    "reference": "John 12:9 (BLB)",
+    "connected_to": "John 12:10",
+    "connected_from": "John 12:8"
+  },
+  {
+    "text": "And the chief priests took counsel that they might kill Lazarus also,",
+    "reference": "John 12:10 (BLB)",
+    "connected_to": "John 12:11",
+    "connected_from": "John 12:9"
+  },
+  {
+    "text": "because on account of him many of the Jews were going away and were believing in Jesus.",
+    "reference": "John 12:11 (BLB)",
+    "connected_to": "John 12:12",
+    "connected_from": "John 12:10"
+  },
+  {
+    "text": "On the next day the great crowd, having come to the feast, having heard that Jesus is coming into Jerusalem,",
+    "reference": "John 12:12 (BLB)",
+    "connected_to": "John 12:13",
+    "connected_from": "John 12:11"
+  },
+  {
+    "text": "took the branches of the palm trees and went out to meet Him, and they were shouting: “Hosanna!” “Blessed is the One coming in the name of the Lord!” “And the King of Israel!”",
+    "reference": "John 12:13 (BLB)",
+    "connected_to": "John 12:14",
+    "connected_from": "John 12:12"
+  },
+  {
+    "text": "Now Jesus, having found a young donkey, sat on it, just as it is written:",
+    "reference": "John 12:14 (BLB)",
+    "connected_to": "John 12:15",
+    "connected_from": "John 12:13"
+  },
+  {
+    "text": "“Do not fear, daughter of Zion; behold, your King comes, sitting on the colt of a donkey.”",
+    "reference": "John 12:15 (BLB)",
+    "connected_to": "John 12:16",
+    "connected_from": "John 12:14"
+  },
+  {
+    "text": "His disciples did not know these things from the first, but when Jesus was glorified, then they remembered that these things were written of Him and these things they did to Him.",
+    "reference": "John 12:16 (BLB)",
+    "connected_to": "John 12:17",
+    "connected_from": "John 12:15"
+  },
+  {
+    "text": "Therefore the crowd being with Him when He called Lazarus out of the tomb and raised him out from the dead were testifying.",
+    "reference": "John 12:17 (BLB)",
+    "connected_to": "John 12:18",
+    "connected_from": "John 12:16"
+  },
+  {
+    "text": "Because of this the crowd also met Him, because they heard of His having done this sign.",
+    "reference": "John 12:18 (BLB)",
+    "connected_to": "John 12:19",
+    "connected_from": "John 12:17"
+  },
+  {
+    "text": "Therefore the Pharisees said among themselves, “You⁺ see that you⁺ gain nothing. Behold, the world went away after Him!”",
+    "reference": "John 12:19 (BLB)",
+    "connected_to": "John 12:20",
+    "connected_from": "John 12:18"
+  },
+  {
+    "text": "Now there were certain Greeks among those coming up so that they might worship at the feast.",
+    "reference": "John 12:20 (BLB)",
+    "connected_to": "John 12:21",
+    "connected_from": "John 12:19"
+  },
+  {
+    "text": "Therefore these came to Philip, who was from Bethsaida of Galilee, and they were asking him, saying, “Sir, we want to see Jesus.”",
+    "reference": "John 12:21 (BLB)",
+    "connected_to": "John 12:22",
+    "connected_from": "John 12:20"
+  },
+  {
+    "text": "Philip comes and tells Andrew; Andrew and Philip come and tell Jesus.",
+    "reference": "John 12:22 (BLB)",
+    "connected_to": "John 12:23",
+    "connected_from": "John 12:21"
+  },
+  {
+    "text": "And Jesus answered them, saying, “The hour has come that the Son of Man shall be glorified.",
+    "reference": "John 12:23 (BLB)",
+    "connected_to": "John 12:24",
+    "connected_from": "John 12:22"
+  },
+  {
+    "text": "Truly, truly, I say to you⁺, unless the grain of wheat, having fallen into the ground, should die, it remains alone; but if it should die, it bears much fruit.",
+    "reference": "John 12:24 (BLB)",
+    "connected_to": "John 12:25",
+    "connected_from": "John 12:23"
+  },
+  {
+    "text": "The one loving his life loses it, and the one hating his life in this world will keep it to eternal life.",
+    "reference": "John 12:25 (BLB)",
+    "connected_to": "John 12:26",
+    "connected_from": "John 12:24"
+  },
+  {
+    "text": "If anyone may serve Me, let him follow Me; and where I am, there also My servant will be. If anyone may serve Me, the Father will honor him.",
+    "reference": "John 12:26 (BLB)",
+    "connected_to": "John 12:27",
+    "connected_from": "John 12:25"
+  },
+  {
+    "text": "Now My soul has been troubled, and what shall I say? ‘Father, save Me from this hour’? But because of this I came to this hour.",
+    "reference": "John 12:27 (BLB)",
+    "connected_to": "John 12:28",
+    "connected_from": "John 12:26"
+  },
+  {
+    "text": "Father, glorify Your name!” Therefore a voice came from heaven: “I have both glorified [it], and I will glorify [it] again.”",
+    "reference": "John 12:28 (BLB)",
+    "connected_to": "John 12:29",
+    "connected_from": "John 12:27"
+  },
+  {
+    "text": "Therefore the crowd, having stood and having heard, was saying, “There has been thunder.” Others were saying, “An angel has spoken to Him.”",
+    "reference": "John 12:29 (BLB)",
+    "connected_to": "John 12:30",
+    "connected_from": "John 12:28"
+  },
+  {
+    "text": "Jesus answered and said, “This voice has not come because of Me, but because of you⁺.",
+    "reference": "John 12:30 (BLB)",
+    "connected_to": "John 12:31",
+    "connected_from": "John 12:29"
+  },
+  {
+    "text": "Now is the judgment of this world; now the ruler of this world will be cast out.",
+    "reference": "John 12:31 (BLB)",
+    "connected_to": "John 12:32",
+    "connected_from": "John 12:30"
+  },
+  {
+    "text": "And I, when I shall be lifted up from the earth, will draw all to Myself.”",
+    "reference": "John 12:32 (BLB)",
+    "connected_to": "John 12:33",
+    "connected_from": "John 12:31"
+  },
+  {
+    "text": "Now He was saying this signifying by what death He was about to die.",
+    "reference": "John 12:33 (BLB)",
+    "connected_to": "John 12:34",
+    "connected_from": "John 12:32"
+  },
+  {
+    "text": "Then the crowd answered Him, “We heard from the Law that the Christ remains to the age, and how do You say that it is necessary for the Son of Man to be lifted up? Who is this Son of Man?”",
+    "reference": "John 12:34 (BLB)",
+    "connected_to": "John 12:35",
+    "connected_from": "John 12:33"
+  },
+  {
+    "text": "Therefore Jesus said to them, “Yet a little time the Light is among you⁺. Walk while you⁺ have the Light, so that darkness might not overtake you⁺. And the one walking in the darkness does not know where he goes.",
+    "reference": "John 12:35 (BLB)",
+    "connected_to": "John 12:36",
+    "connected_from": "John 12:34"
+  },
+  {
+    "text": "While you⁺ have the Light, believe in the Light, so that you⁺ may become sons of light.” Jesus spoke these things, and having gone away, He was hidden from them.",
+    "reference": "John 12:36 (BLB)",
+    "connected_to": "John 12:37",
+    "connected_from": "John 12:35"
+  },
+  {
+    "text": "But of Him having done so many signs before them, they did not believe in Him,",
+    "reference": "John 12:37 (BLB)",
+    "connected_to": "John 12:38",
+    "connected_from": "John 12:36"
+  },
+  {
+    "text": "so that the word of Isaiah the prophet might be fulfilled that said: “Lord, who has believed our report? And to whom was the arm of the Lord revealed?”",
+    "reference": "John 12:38 (BLB)",
+    "connected_to": "John 12:39",
+    "connected_from": "John 12:37"
+  },
+  {
+    "text": "Because of this, they were not able to believe, because again Isaiah said:",
+    "reference": "John 12:39 (BLB)",
+    "connected_to": "John 12:40",
+    "connected_from": "John 12:38"
+  },
+  {
+    "text": "“He has blinded their eyes and hardened their heart, so that they might not see with the eyes, and understand with the heart, and turn, and I will heal them.”",
+    "reference": "John 12:40 (BLB)",
+    "connected_to": "John 12:41",
+    "connected_from": "John 12:39"
+  },
+  {
+    "text": "Isaiah said these things because he saw His glory and spoke about Him.",
+    "reference": "John 12:41 (BLB)",
+    "connected_to": "John 12:42",
+    "connected_from": "John 12:40"
+  },
+  {
+    "text": "Nevertheless, indeed many of the rulers also believed in Him, but because of the Pharisees they were not confessing, so that they might not be put out of the synagogue;",
+    "reference": "John 12:42 (BLB)",
+    "connected_to": "John 12:43",
+    "connected_from": "John 12:41"
+  },
+  {
+    "text": "for they loved the glory of men more than the glory of God.",
+    "reference": "John 12:43 (BLB)",
+    "connected_to": "John 12:44",
+    "connected_from": "John 12:42"
+  },
+  {
+    "text": "And Jesus cried out and said, “The one believing in Me does not believe in Me but in the One having sent Me.",
+    "reference": "John 12:44 (BLB)",
+    "connected_to": "John 12:45",
+    "connected_from": "John 12:43"
+  },
+  {
+    "text": "And the one beholding Me beholds the One having sent Me.",
+    "reference": "John 12:45 (BLB)",
+    "connected_to": "John 12:46",
+    "connected_from": "John 12:44"
+  },
+  {
+    "text": "I have come into the world [as] a light, so that everyone believing in Me should not remain in the darkness.",
+    "reference": "John 12:46 (BLB)",
+    "connected_to": "John 12:47",
+    "connected_from": "John 12:45"
+  },
+  {
+    "text": "And if anyone might hear My words and not keep [them], I do not judge him; for I did not come so that I might judge the world, but so that I might save the world.",
+    "reference": "John 12:47 (BLB)",
+    "connected_to": "John 12:48",
+    "connected_from": "John 12:46"
+  },
+  {
+    "text": "The one rejecting Me and not receiving My words has one judging him: The word that I spoke, which will judge him in the last day.",
+    "reference": "John 12:48 (BLB)",
+    "connected_to": "John 12:49",
+    "connected_from": "John 12:47"
+  },
+  {
+    "text": "For I did not speak from Myself, but the Father Himself, having sent Me, has given Me a commandment, what I should say and what I should speak.",
+    "reference": "John 12:49 (BLB)",
+    "connected_to": "John 12:50",
+    "connected_from": "John 12:48"
+  },
+  {
+    "text": "And I know that His commandment is eternal life. Therefore what I speak, just as the Father has said to Me, so I speak.”",
+    "reference": "John 12:50 (BLB)",
+    "connected_from": "John 12:49"
+  }
+]

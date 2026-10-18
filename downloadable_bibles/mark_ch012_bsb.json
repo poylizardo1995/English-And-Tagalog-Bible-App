@@ -1,0 +1,264 @@
+[
+  {
+    "text": "Then Jesus began to speak to them in parables: “A man planted a vineyard. He put a wall around it, dug a wine vat, and built a watchtower. Then he rented it out to some tenants and went away on a journey.",
+    "reference": "Mark 12:1 (BSB)",
+    "connected_to": "Mark 12:2"
+  },
+  {
+    "text": "At harvest time, he sent a servant to the tenants to collect his share of the fruit of the vineyard.",
+    "reference": "Mark 12:2 (BSB)",
+    "connected_to": "Mark 12:3",
+    "connected_from": "Mark 12:1"
+  },
+  {
+    "text": "But they seized the servant, beat him, and sent him away empty-handed.",
+    "reference": "Mark 12:3 (BSB)",
+    "connected_to": "Mark 12:4",
+    "connected_from": "Mark 12:2"
+  },
+  {
+    "text": "Then he sent them another servant, and they struck him over the head and treated him shamefully.",
+    "reference": "Mark 12:4 (BSB)",
+    "connected_to": "Mark 12:5",
+    "connected_from": "Mark 12:3"
+  },
+  {
+    "text": "He sent still another, and this one they killed. He sent many others; some they beat and others they killed.",
+    "reference": "Mark 12:5 (BSB)",
+    "connected_to": "Mark 12:6",
+    "connected_from": "Mark 12:4"
+  },
+  {
+    "text": "Finally, having one beloved son, he sent him to them. ‘They will respect my son,’ he said.",
+    "reference": "Mark 12:6 (BSB)",
+    "connected_to": "Mark 12:7",
+    "connected_from": "Mark 12:5"
+  },
+  {
+    "text": "But the tenants said to one another, ‘This is the heir. Come, let us kill him, and the inheritance will be ours.’",
+    "reference": "Mark 12:7 (BSB)",
+    "connected_to": "Mark 12:8",
+    "connected_from": "Mark 12:6"
+  },
+  {
+    "text": "So they seized the son, killed him, and threw him out of the vineyard.",
+    "reference": "Mark 12:8 (BSB)",
+    "connected_to": "Mark 12:9",
+    "connected_from": "Mark 12:7"
+  },
+  {
+    "text": "What then will the owner of the vineyard do? He will come and kill those tenants and give the vineyard to others.",
+    "reference": "Mark 12:9 (BSB)",
+    "connected_to": "Mark 12:10",
+    "connected_from": "Mark 12:8"
+  },
+  {
+    "text": "Have you never read this Scripture: ‘The stone the builders rejected has become the cornerstone.",
+    "reference": "Mark 12:10 (BSB)",
+    "connected_to": "Mark 12:11",
+    "connected_from": "Mark 12:9"
+  },
+  {
+    "text": "This is from the Lord, and it is marvelous in our eyes’?”",
+    "reference": "Mark 12:11 (BSB)",
+    "connected_to": "Mark 12:12",
+    "connected_from": "Mark 12:10"
+  },
+  {
+    "text": "At this, the leaders sought to arrest Jesus, for they knew that He had spoken this parable against them. But fearing the crowd, they left Him and went away.",
+    "reference": "Mark 12:12 (BSB)",
+    "connected_to": "Mark 12:13",
+    "connected_from": "Mark 12:11"
+  },
+  {
+    "text": "Later, they sent some of the Pharisees and Herodians to catch Jesus in His words.",
+    "reference": "Mark 12:13 (BSB)",
+    "connected_to": "Mark 12:14",
+    "connected_from": "Mark 12:12"
+  },
+  {
+    "text": "“Teacher,” they said, “we know that You are honest and seek favor from no one. Indeed, You are impartial and teach the way of God in accordance with the truth. Is it lawful to pay taxes to Caesar or not? Should we pay them or not?”",
+    "reference": "Mark 12:14 (BSB)",
+    "connected_to": "Mark 12:15",
+    "connected_from": "Mark 12:13"
+  },
+  {
+    "text": "But Jesus saw through their hypocrisy and said, “Why are you testing Me? Bring Me a denarius to inspect.”",
+    "reference": "Mark 12:15 (BSB)",
+    "connected_to": "Mark 12:16",
+    "connected_from": "Mark 12:14"
+  },
+  {
+    "text": "So they brought it, and He asked them, “Whose image is this? And whose inscription?” “Caesar’s,” they answered.",
+    "reference": "Mark 12:16 (BSB)",
+    "connected_to": "Mark 12:17",
+    "connected_from": "Mark 12:15"
+  },
+  {
+    "text": "Then Jesus told them, “Give to Caesar what is Caesar’s, and to God what is God’s.” And they marveled at Him.",
+    "reference": "Mark 12:17 (BSB)",
+    "connected_to": "Mark 12:18",
+    "connected_from": "Mark 12:16"
+  },
+  {
+    "text": "Then the Sadducees, who say there is no resurrection, came to Jesus and questioned Him:",
+    "reference": "Mark 12:18 (BSB)",
+    "connected_to": "Mark 12:19",
+    "connected_from": "Mark 12:17"
+  },
+  {
+    "text": "“Teacher, Moses wrote for us that if a man’s brother dies and leaves a wife but no children, the man is to marry his brother’s widow and raise up offspring for him.",
+    "reference": "Mark 12:19 (BSB)",
+    "connected_to": "Mark 12:20",
+    "connected_from": "Mark 12:18"
+  },
+  {
+    "text": "Now there were seven brothers. The first one married and died, leaving no children.",
+    "reference": "Mark 12:20 (BSB)",
+    "connected_to": "Mark 12:21",
+    "connected_from": "Mark 12:19"
+  },
+  {
+    "text": "Then the second one married the widow, but he also died and left no children. And the third did likewise.",
+    "reference": "Mark 12:21 (BSB)",
+    "connected_to": "Mark 12:22",
+    "connected_from": "Mark 12:20"
+  },
+  {
+    "text": "In this way, none of the seven left any children. And last of all, the woman died.",
+    "reference": "Mark 12:22 (BSB)",
+    "connected_to": "Mark 12:23",
+    "connected_from": "Mark 12:21"
+  },
+  {
+    "text": "In the resurrection, then, whose wife will she be? For all seven were married to her.”",
+    "reference": "Mark 12:23 (BSB)",
+    "connected_to": "Mark 12:24",
+    "connected_from": "Mark 12:22"
+  },
+  {
+    "text": "Jesus said to them, “Aren’t you mistaken, because you do not know the Scriptures or the power of God?",
+    "reference": "Mark 12:24 (BSB)",
+    "connected_to": "Mark 12:25",
+    "connected_from": "Mark 12:23"
+  },
+  {
+    "text": "When the dead rise, they will neither marry nor be given in marriage. Instead, they will be like the angels in heaven.",
+    "reference": "Mark 12:25 (BSB)",
+    "connected_to": "Mark 12:26",
+    "connected_from": "Mark 12:24"
+  },
+  {
+    "text": "But concerning the dead rising, have you not read about the burning bush in the Book of Moses, how God told him, ‘I am the God of Abraham, the God of Isaac, and the God of Jacob’?",
+    "reference": "Mark 12:26 (BSB)",
+    "connected_to": "Mark 12:27",
+    "connected_from": "Mark 12:25"
+  },
+  {
+    "text": "He is not the God of the dead, but of the living. You are badly mistaken!”",
+    "reference": "Mark 12:27 (BSB)",
+    "connected_to": "Mark 12:28",
+    "connected_from": "Mark 12:26"
+  },
+  {
+    "text": "Now one of the scribes had come up and heard their debate. Noticing how well Jesus had answered them, he asked Him, “Which commandment is the most important of all?”",
+    "reference": "Mark 12:28 (BSB)",
+    "connected_to": "Mark 12:29",
+    "connected_from": "Mark 12:27"
+  },
+  {
+    "text": "Jesus replied, “This is the most important: ‘Hear, O Israel, the Lord our God, the Lord is One.",
+    "reference": "Mark 12:29 (BSB)",
+    "connected_to": "Mark 12:30",
+    "connected_from": "Mark 12:28"
+  },
+  {
+    "text": "Love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.’",
+    "reference": "Mark 12:30 (BSB)",
+    "connected_to": "Mark 12:31",
+    "connected_from": "Mark 12:29"
+  },
+  {
+    "text": "The second is this: ‘Love your neighbor as yourself.’ No other commandment is greater than these.”",
+    "reference": "Mark 12:31 (BSB)",
+    "connected_to": "Mark 12:32",
+    "connected_from": "Mark 12:30"
+  },
+  {
+    "text": "“Right, Teacher,” the scribe replied. “You have stated correctly that God is One and there is no other but Him,",
+    "reference": "Mark 12:32 (BSB)",
+    "connected_to": "Mark 12:33",
+    "connected_from": "Mark 12:31"
+  },
+  {
+    "text": "and to love Him with all your heart and with all your understanding and with all your strength, and to love your neighbor as yourself. This is more important than all burnt offerings and sacrifices.”",
+    "reference": "Mark 12:33 (BSB)",
+    "connected_to": "Mark 12:34",
+    "connected_from": "Mark 12:32"
+  },
+  {
+    "text": "When Jesus saw that the man had answered wisely, He said, “You are not far from the kingdom of God.” And no one dared to question Him any further.",
+    "reference": "Mark 12:34 (BSB)",
+    "connected_to": "Mark 12:35",
+    "connected_from": "Mark 12:33"
+  },
+  {
+    "text": "While Jesus was teaching in the temple courts, He asked, “How can the scribes say that the Christ is the Son of David?",
+    "reference": "Mark 12:35 (BSB)",
+    "connected_to": "Mark 12:36",
+    "connected_from": "Mark 12:34"
+  },
+  {
+    "text": "Speaking by the Holy Spirit, David himself declared: ‘The Lord said to my Lord, “Sit at My right hand until I put Your enemies under Your feet.”’",
+    "reference": "Mark 12:36 (BSB)",
+    "connected_to": "Mark 12:37",
+    "connected_from": "Mark 12:35"
+  },
+  {
+    "text": "David himself calls Him ‘Lord.’ So how can He be David’s son?” And the large crowd listened to Him with delight.",
+    "reference": "Mark 12:37 (BSB)",
+    "connected_to": "Mark 12:38",
+    "connected_from": "Mark 12:36"
+  },
+  {
+    "text": "In His teaching Jesus also said, “Watch out for the scribes. They like to walk around in long robes, to receive greetings in the marketplaces,",
+    "reference": "Mark 12:38 (BSB)",
+    "connected_to": "Mark 12:39",
+    "connected_from": "Mark 12:37"
+  },
+  {
+    "text": "and to have the chief seats in the synagogues and the places of honor at banquets.",
+    "reference": "Mark 12:39 (BSB)",
+    "connected_to": "Mark 12:40",
+    "connected_from": "Mark 12:38"
+  },
+  {
+    "text": "They defraud widows of their houses, and for a show make lengthy prayers. These men will receive greater condemnation.”",
+    "reference": "Mark 12:40 (BSB)",
+    "connected_to": "Mark 12:41",
+    "connected_from": "Mark 12:39"
+  },
+  {
+    "text": "As Jesus was sitting opposite the treasury, He watched the crowd putting money into it. And many rich people put in large amounts.",
+    "reference": "Mark 12:41 (BSB)",
+    "connected_to": "Mark 12:42",
+    "connected_from": "Mark 12:40"
+  },
+  {
+    "text": "Then one poor widow came and put in two small copper coins, which amounted to a small fraction of a denarius.",
+    "reference": "Mark 12:42 (BSB)",
+    "connected_to": "Mark 12:43",
+    "connected_from": "Mark 12:41"
+  },
+  {
+    "text": "Jesus called His disciples to Him and said, “Truly I tell you, this poor widow has put more than all the others into the treasury.",
+    "reference": "Mark 12:43 (BSB)",
+    "connected_to": "Mark 12:44",
+    "connected_from": "Mark 12:42"
+  },
+  {
+    "text": "For they all contributed out of their surplus, but she out of her poverty has put in all she had to live on.”",
+    "reference": "Mark 12:44 (BSB)",
+    "connected_from": "Mark 12:43"
+  }
+]

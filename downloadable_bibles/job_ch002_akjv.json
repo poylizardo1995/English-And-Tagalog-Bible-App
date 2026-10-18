@@ -1,0 +1,78 @@
+[
+  {
+    "text": "Again there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them to present himself before the LORD.",
+    "reference": "Job 2:1 (AKJV)",
+    "connected_to": "Job 2:2"
+  },
+  {
+    "text": "And the LORD said to Satan, From where come you? And Satan answered the LORD, and said, From going to and fro in the earth, and from walking up and down in it.",
+    "reference": "Job 2:2 (AKJV)",
+    "connected_to": "Job 2:3",
+    "connected_from": "Job 2:1"
+  },
+  {
+    "text": "And the LORD said to Satan, Have you considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that fears God, and eschews evil? and still he holds fast his integrity, although you moved me against him, to destroy him without cause.",
+    "reference": "Job 2:3 (AKJV)",
+    "connected_to": "Job 2:4",
+    "connected_from": "Job 2:2"
+  },
+  {
+    "text": "And Satan answered the LORD, and said, Skin for skin, yes, all that a man has will he give for his life.",
+    "reference": "Job 2:4 (AKJV)",
+    "connected_to": "Job 2:5",
+    "connected_from": "Job 2:3"
+  },
+  {
+    "text": "But put forth your hand now, and touch his bone and his flesh, and he will curse you to your face.",
+    "reference": "Job 2:5 (AKJV)",
+    "connected_to": "Job 2:6",
+    "connected_from": "Job 2:4"
+  },
+  {
+    "text": "And the LORD said to Satan, Behold, he is in your hand; but save his life.",
+    "reference": "Job 2:6 (AKJV)",
+    "connected_to": "Job 2:7",
+    "connected_from": "Job 2:5"
+  },
+  {
+    "text": "So went Satan forth from the presence of the LORD, and smote Job with sore boils from the sole of his foot to his crown.",
+    "reference": "Job 2:7 (AKJV)",
+    "connected_to": "Job 2:8",
+    "connected_from": "Job 2:6"
+  },
+  {
+    "text": "And he took him a potsherd to scrape himself with; and he sat down among the ashes.",
+    "reference": "Job 2:8 (AKJV)",
+    "connected_to": "Job 2:9",
+    "connected_from": "Job 2:7"
+  },
+  {
+    "text": "Then said his wife to him, Do you still retain your integrity? curse God, and die.",
+    "reference": "Job 2:9 (AKJV)",
+    "connected_to": "Job 2:10",
+    "connected_from": "Job 2:8"
+  },
+  {
+    "text": "But he said to her, You speak as one of the foolish women speaks. What? shall we receive good at the hand of God, and shall we not receive evil? In all this did not Job sin with his lips.",
+    "reference": "Job 2:10 (AKJV)",
+    "connected_to": "Job 2:11",
+    "connected_from": "Job 2:9"
+  },
+  {
+    "text": "Now when Job’s three friends heard of all this evil that was come on him, they came every one from his own place; Eliphaz the Temanite, and Bildad the Shuhite, and Zophar the Naamathite: for they had made an appointment together to come to mourn with him and to comfort him.",
+    "reference": "Job 2:11 (AKJV)",
+    "connected_to": "Job 2:12",
+    "connected_from": "Job 2:10"
+  },
+  {
+    "text": "And when they lifted up their eyes afar off, and knew him not, they lifted up their voice, and wept; and they rent every one his mantle, and sprinkled dust on their heads toward heaven.",
+    "reference": "Job 2:12 (AKJV)",
+    "connected_to": "Job 2:13",
+    "connected_from": "Job 2:11"
+  },
+  {
+    "text": "So they sat down with him on the ground seven days and seven nights, and none spoke a word to him: for they saw that his grief was very great.",
+    "reference": "Job 2:13 (AKJV)",
+    "connected_from": "Job 2:12"
+  }
+]

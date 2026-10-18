@@ -1,0 +1,420 @@
+[
+  {
+    "text": "Now these are the people of the province who came up from the captivity of the exiles carried away to Babylon by Nebuchadnezzar its king. They returned to Jerusalem and Judah, each to his own town,",
+    "reference": "Ezra 2:1 (BSB)",
+    "connected_to": "Ezra 2:2"
+  },
+  {
+    "text": "accompanied by Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah. This is the count of the men of Israel:",
+    "reference": "Ezra 2:2 (BSB)",
+    "connected_to": "Ezra 2:3",
+    "connected_from": "Ezra 2:1"
+  },
+  {
+    "text": "the descendants of Parosh, 2,172;",
+    "reference": "Ezra 2:3 (BSB)",
+    "connected_to": "Ezra 2:4",
+    "connected_from": "Ezra 2:2"
+  },
+  {
+    "text": "the descendants of Shephatiah, 372;",
+    "reference": "Ezra 2:4 (BSB)",
+    "connected_to": "Ezra 2:5",
+    "connected_from": "Ezra 2:3"
+  },
+  {
+    "text": "the descendants of Arah, 775;",
+    "reference": "Ezra 2:5 (BSB)",
+    "connected_to": "Ezra 2:6",
+    "connected_from": "Ezra 2:4"
+  },
+  {
+    "text": "the descendants of Pahath-moab (through the line of Jeshua and Joab), 2,812;",
+    "reference": "Ezra 2:6 (BSB)",
+    "connected_to": "Ezra 2:7",
+    "connected_from": "Ezra 2:5"
+  },
+  {
+    "text": "the descendants of Elam, 1,254;",
+    "reference": "Ezra 2:7 (BSB)",
+    "connected_to": "Ezra 2:8",
+    "connected_from": "Ezra 2:6"
+  },
+  {
+    "text": "the descendants of Zattu, 945;",
+    "reference": "Ezra 2:8 (BSB)",
+    "connected_to": "Ezra 2:9",
+    "connected_from": "Ezra 2:7"
+  },
+  {
+    "text": "the descendants of Zaccai, 760;",
+    "reference": "Ezra 2:9 (BSB)",
+    "connected_to": "Ezra 2:10",
+    "connected_from": "Ezra 2:8"
+  },
+  {
+    "text": "the descendants of Bani, 642;",
+    "reference": "Ezra 2:10 (BSB)",
+    "connected_to": "Ezra 2:11",
+    "connected_from": "Ezra 2:9"
+  },
+  {
+    "text": "the descendants of Bebai, 623;",
+    "reference": "Ezra 2:11 (BSB)",
+    "connected_to": "Ezra 2:12",
+    "connected_from": "Ezra 2:10"
+  },
+  {
+    "text": "the descendants of Azgad, 1,222;",
+    "reference": "Ezra 2:12 (BSB)",
+    "connected_to": "Ezra 2:13",
+    "connected_from": "Ezra 2:11"
+  },
+  {
+    "text": "the descendants of Adonikam, 666;",
+    "reference": "Ezra 2:13 (BSB)",
+    "connected_to": "Ezra 2:14",
+    "connected_from": "Ezra 2:12"
+  },
+  {
+    "text": "the descendants of Bigvai, 2,056;",
+    "reference": "Ezra 2:14 (BSB)",
+    "connected_to": "Ezra 2:15",
+    "connected_from": "Ezra 2:13"
+  },
+  {
+    "text": "the descendants of Adin, 454;",
+    "reference": "Ezra 2:15 (BSB)",
+    "connected_to": "Ezra 2:16",
+    "connected_from": "Ezra 2:14"
+  },
+  {
+    "text": "the descendants of Ater (through Hezekiah), 98;",
+    "reference": "Ezra 2:16 (BSB)",
+    "connected_to": "Ezra 2:17",
+    "connected_from": "Ezra 2:15"
+  },
+  {
+    "text": "the descendants of Bezai, 323;",
+    "reference": "Ezra 2:17 (BSB)",
+    "connected_to": "Ezra 2:18",
+    "connected_from": "Ezra 2:16"
+  },
+  {
+    "text": "the descendants of Jorah, 112;",
+    "reference": "Ezra 2:18 (BSB)",
+    "connected_to": "Ezra 2:19",
+    "connected_from": "Ezra 2:17"
+  },
+  {
+    "text": "the descendants of Hashum, 223;",
+    "reference": "Ezra 2:19 (BSB)",
+    "connected_to": "Ezra 2:20",
+    "connected_from": "Ezra 2:18"
+  },
+  {
+    "text": "the descendants of Gibbar, 95;",
+    "reference": "Ezra 2:20 (BSB)",
+    "connected_to": "Ezra 2:21",
+    "connected_from": "Ezra 2:19"
+  },
+  {
+    "text": "the men of Bethlehem, 123;",
+    "reference": "Ezra 2:21 (BSB)",
+    "connected_to": "Ezra 2:22",
+    "connected_from": "Ezra 2:20"
+  },
+  {
+    "text": "the men of Netophah, 56;",
+    "reference": "Ezra 2:22 (BSB)",
+    "connected_to": "Ezra 2:23",
+    "connected_from": "Ezra 2:21"
+  },
+  {
+    "text": "the men of Anathoth, 128;",
+    "reference": "Ezra 2:23 (BSB)",
+    "connected_to": "Ezra 2:24",
+    "connected_from": "Ezra 2:22"
+  },
+  {
+    "text": "the descendants of Azmaveth, 42;",
+    "reference": "Ezra 2:24 (BSB)",
+    "connected_to": "Ezra 2:25",
+    "connected_from": "Ezra 2:23"
+  },
+  {
+    "text": "the men of Kiriath-jearim, Chephirah, and Beeroth, 743;",
+    "reference": "Ezra 2:25 (BSB)",
+    "connected_to": "Ezra 2:26",
+    "connected_from": "Ezra 2:24"
+  },
+  {
+    "text": "the men of Ramah and Geba, 621;",
+    "reference": "Ezra 2:26 (BSB)",
+    "connected_to": "Ezra 2:27",
+    "connected_from": "Ezra 2:25"
+  },
+  {
+    "text": "the men of Michmash, 122;",
+    "reference": "Ezra 2:27 (BSB)",
+    "connected_to": "Ezra 2:28",
+    "connected_from": "Ezra 2:26"
+  },
+  {
+    "text": "the men of Bethel and Ai, 223;",
+    "reference": "Ezra 2:28 (BSB)",
+    "connected_to": "Ezra 2:29",
+    "connected_from": "Ezra 2:27"
+  },
+  {
+    "text": "the descendants of Nebo, 52;",
+    "reference": "Ezra 2:29 (BSB)",
+    "connected_to": "Ezra 2:30",
+    "connected_from": "Ezra 2:28"
+  },
+  {
+    "text": "the descendants of Magbish, 156;",
+    "reference": "Ezra 2:30 (BSB)",
+    "connected_to": "Ezra 2:31",
+    "connected_from": "Ezra 2:29"
+  },
+  {
+    "text": "the descendants of the other Elam, 1,254;",
+    "reference": "Ezra 2:31 (BSB)",
+    "connected_to": "Ezra 2:32",
+    "connected_from": "Ezra 2:30"
+  },
+  {
+    "text": "the descendants of Harim, 320;",
+    "reference": "Ezra 2:32 (BSB)",
+    "connected_to": "Ezra 2:33",
+    "connected_from": "Ezra 2:31"
+  },
+  {
+    "text": "the men of Lod, Hadid, and Ono, 725;",
+    "reference": "Ezra 2:33 (BSB)",
+    "connected_to": "Ezra 2:34",
+    "connected_from": "Ezra 2:32"
+  },
+  {
+    "text": "the men of Jericho, 345;",
+    "reference": "Ezra 2:34 (BSB)",
+    "connected_to": "Ezra 2:35",
+    "connected_from": "Ezra 2:33"
+  },
+  {
+    "text": "and the descendants of Senaah, 3,630.",
+    "reference": "Ezra 2:35 (BSB)",
+    "connected_to": "Ezra 2:36",
+    "connected_from": "Ezra 2:34"
+  },
+  {
+    "text": "The priests: The descendants of Jedaiah (through the house of Jeshua), 973;",
+    "reference": "Ezra 2:36 (BSB)",
+    "connected_to": "Ezra 2:37",
+    "connected_from": "Ezra 2:35"
+  },
+  {
+    "text": "the descendants of Immer, 1,052;",
+    "reference": "Ezra 2:37 (BSB)",
+    "connected_to": "Ezra 2:38",
+    "connected_from": "Ezra 2:36"
+  },
+  {
+    "text": "the descendants of Pashhur, 1,247;",
+    "reference": "Ezra 2:38 (BSB)",
+    "connected_to": "Ezra 2:39",
+    "connected_from": "Ezra 2:37"
+  },
+  {
+    "text": "and the descendants of Harim, 1,017.",
+    "reference": "Ezra 2:39 (BSB)",
+    "connected_to": "Ezra 2:40",
+    "connected_from": "Ezra 2:38"
+  },
+  {
+    "text": "The Levites: the descendants of Jeshua and Kadmiel (through the line of Hodaviah), 74.",
+    "reference": "Ezra 2:40 (BSB)",
+    "connected_to": "Ezra 2:41",
+    "connected_from": "Ezra 2:39"
+  },
+  {
+    "text": "The singers: the descendants of Asaph, 128.",
+    "reference": "Ezra 2:41 (BSB)",
+    "connected_to": "Ezra 2:42",
+    "connected_from": "Ezra 2:40"
+  },
+  {
+    "text": "The gatekeepers: the descendants of Shallum, the descendants of Ater, the descendants of Talmon, the descendants of Akkub, the descendants of Hatita, and the descendants of Shobai, 139 in all.",
+    "reference": "Ezra 2:42 (BSB)",
+    "connected_to": "Ezra 2:43",
+    "connected_from": "Ezra 2:41"
+  },
+  {
+    "text": "The temple servants: the descendants of Ziha, the descendants of Hasupha, the descendants of Tabbaoth,",
+    "reference": "Ezra 2:43 (BSB)",
+    "connected_to": "Ezra 2:44",
+    "connected_from": "Ezra 2:42"
+  },
+  {
+    "text": "the descendants of Keros, the descendants of Siaha, the descendants of Padon,",
+    "reference": "Ezra 2:44 (BSB)",
+    "connected_to": "Ezra 2:45",
+    "connected_from": "Ezra 2:43"
+  },
+  {
+    "text": "the descendants of Lebanah, the descendants of Hagabah, the descendants of Akkub,",
+    "reference": "Ezra 2:45 (BSB)",
+    "connected_to": "Ezra 2:46",
+    "connected_from": "Ezra 2:44"
+  },
+  {
+    "text": "the descendants of Hagab, the descendants of Shalmai, the descendants of Hanan,",
+    "reference": "Ezra 2:46 (BSB)",
+    "connected_to": "Ezra 2:47",
+    "connected_from": "Ezra 2:45"
+  },
+  {
+    "text": "the descendants of Giddel, the descendants of Gahar, the descendants of Reaiah,",
+    "reference": "Ezra 2:47 (BSB)",
+    "connected_to": "Ezra 2:48",
+    "connected_from": "Ezra 2:46"
+  },
+  {
+    "text": "the descendants of Rezin, the descendants of Nekoda, the descendants of Gazzam,",
+    "reference": "Ezra 2:48 (BSB)",
+    "connected_to": "Ezra 2:49",
+    "connected_from": "Ezra 2:47"
+  },
+  {
+    "text": "the descendants of Uzza, the descendants of Paseah, the descendants of Besai,",
+    "reference": "Ezra 2:49 (BSB)",
+    "connected_to": "Ezra 2:50",
+    "connected_from": "Ezra 2:48"
+  },
+  {
+    "text": "the descendants of Asnah, the descendants of Meunim, the descendants of Nephusim,",
+    "reference": "Ezra 2:50 (BSB)",
+    "connected_to": "Ezra 2:51",
+    "connected_from": "Ezra 2:49"
+  },
+  {
+    "text": "the descendants of Bakbuk, the descendants of Hakupha, the descendants of Harhur,",
+    "reference": "Ezra 2:51 (BSB)",
+    "connected_to": "Ezra 2:52",
+    "connected_from": "Ezra 2:50"
+  },
+  {
+    "text": "the descendants of Bazluth, the descendants of Mehida, the descendants of Harsha,",
+    "reference": "Ezra 2:52 (BSB)",
+    "connected_to": "Ezra 2:53",
+    "connected_from": "Ezra 2:51"
+  },
+  {
+    "text": "the descendants of Barkos, the descendants of Sisera, the descendants of Temah,",
+    "reference": "Ezra 2:53 (BSB)",
+    "connected_to": "Ezra 2:54",
+    "connected_from": "Ezra 2:52"
+  },
+  {
+    "text": "the descendants of Neziah, and the descendants of Hatipha.",
+    "reference": "Ezra 2:54 (BSB)",
+    "connected_to": "Ezra 2:55",
+    "connected_from": "Ezra 2:53"
+  },
+  {
+    "text": "The descendants of the servants of Solomon: the descendants of Sotai, the descendants of Hassophereth, the descendants of Peruda,",
+    "reference": "Ezra 2:55 (BSB)",
+    "connected_to": "Ezra 2:56",
+    "connected_from": "Ezra 2:54"
+  },
+  {
+    "text": "the descendants of Jaala, the descendants of Darkon, the descendants of Giddel,",
+    "reference": "Ezra 2:56 (BSB)",
+    "connected_to": "Ezra 2:57",
+    "connected_from": "Ezra 2:55"
+  },
+  {
+    "text": "the descendants of Shephatiah, the descendants of Hattil, the descendants of Pochereth-hazzebaim, and the descendants of Ami.",
+    "reference": "Ezra 2:57 (BSB)",
+    "connected_to": "Ezra 2:58",
+    "connected_from": "Ezra 2:56"
+  },
+  {
+    "text": "The temple servants and descendants of the servants of Solomon numbered 392 in all.",
+    "reference": "Ezra 2:58 (BSB)",
+    "connected_to": "Ezra 2:59",
+    "connected_from": "Ezra 2:57"
+  },
+  {
+    "text": "The following came up from Tel-melah, Tel-harsha, Cherub, Addan, and Immer, but they could not prove that their families were descended from Israel:",
+    "reference": "Ezra 2:59 (BSB)",
+    "connected_to": "Ezra 2:60",
+    "connected_from": "Ezra 2:58"
+  },
+  {
+    "text": "the descendants of Delaiah, the descendants of Tobiah, and the descendants of Nekoda, 652 in all.",
+    "reference": "Ezra 2:60 (BSB)",
+    "connected_to": "Ezra 2:61",
+    "connected_from": "Ezra 2:59"
+  },
+  {
+    "text": "And from among the priests: the descendants of Hobaiah, the descendants of Hakkoz, and the descendants of Barzillai (who had married a daughter of Barzillai the Gileadite and was called by their name).",
+    "reference": "Ezra 2:61 (BSB)",
+    "connected_to": "Ezra 2:62",
+    "connected_from": "Ezra 2:60"
+  },
+  {
+    "text": "These men searched for their family records, but they could not find them and so were excluded from the priesthood as unclean.",
+    "reference": "Ezra 2:62 (BSB)",
+    "connected_to": "Ezra 2:63",
+    "connected_from": "Ezra 2:61"
+  },
+  {
+    "text": "The governor ordered them not to eat the most holy things until there was a priest to consult the Urim and Thummim.",
+    "reference": "Ezra 2:63 (BSB)",
+    "connected_to": "Ezra 2:64",
+    "connected_from": "Ezra 2:62"
+  },
+  {
+    "text": "The whole assembly numbered 42,360,",
+    "reference": "Ezra 2:64 (BSB)",
+    "connected_to": "Ezra 2:65",
+    "connected_from": "Ezra 2:63"
+  },
+  {
+    "text": "in addition to their 7,337 menservants and maidservants, as well as their 200 male and female singers.",
+    "reference": "Ezra 2:65 (BSB)",
+    "connected_to": "Ezra 2:66",
+    "connected_from": "Ezra 2:64"
+  },
+  {
+    "text": "They had 736 horses, 245 mules,",
+    "reference": "Ezra 2:66 (BSB)",
+    "connected_to": "Ezra 2:67",
+    "connected_from": "Ezra 2:65"
+  },
+  {
+    "text": "435 camels, and 6,720 donkeys.",
+    "reference": "Ezra 2:67 (BSB)",
+    "connected_to": "Ezra 2:68",
+    "connected_from": "Ezra 2:66"
+  },
+  {
+    "text": "When they arrived at the house of the LORD in Jerusalem, some of the heads of the families gave freewill offerings to rebuild the house of God on its original site.",
+    "reference": "Ezra 2:68 (BSB)",
+    "connected_to": "Ezra 2:69",
+    "connected_from": "Ezra 2:67"
+  },
+  {
+    "text": "According to their ability, they gave to the treasury for this work 61,000 darics of gold, 5,000 minas of silver, and 100 priestly garments.",
+    "reference": "Ezra 2:69 (BSB)",
+    "connected_to": "Ezra 2:70",
+    "connected_from": "Ezra 2:68"
+  },
+  {
+    "text": "So the priests, the Levites, the singers, the gatekeepers, and the temple servants, along with some of the people, settled in their own towns; and the rest of the Israelites settled in their towns.",
+    "reference": "Ezra 2:70 (BSB)",
+    "connected_from": "Ezra 2:69"
+  }
+]

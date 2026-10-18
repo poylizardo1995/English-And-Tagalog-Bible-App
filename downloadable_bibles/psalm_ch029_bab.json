@@ -1,0 +1,66 @@
+[
+  {
+    "text": "A Psalm of David (beloved). <span class=|reftext|><a href=|#|><b>1</b></a> Ascribe to the LORD {YHWH}, O heavenly beings (sons of God), ascribe to the LORD glory and strength.",
+    "reference": "Psalm 29:1 (BAB)",
+    "connected_to": "Psalm 29:2"
+  },
+  {
+    "text": "Ascribe to the LORD {YHWH} the glory due His name; worship the LORD in the splendor of His holiness (in holy attire).",
+    "reference": "Psalm 29:2 (BAB)",
+    "connected_to": "Psalm 29:3",
+    "connected_from": "Psalm 29:1"
+  },
+  {
+    "text": "The voice of the LORD {YHWH} is over the waters; the God of glory thunders; the LORD is heard over many waters.",
+    "reference": "Psalm 29:3 (BAB)",
+    "connected_to": "Psalm 29:4",
+    "connected_from": "Psalm 29:2"
+  },
+  {
+    "text": "The voice of the LORD {YHWH} is powerful; the voice of the LORD is majestic.",
+    "reference": "Psalm 29:4 (BAB)",
+    "connected_to": "Psalm 29:5",
+    "connected_from": "Psalm 29:3"
+  },
+  {
+    "text": "The voice of the LORD {YHWH} breaks the cedars; the LORD shatters the cedars of Lebanon (whiteness).",
+    "reference": "Psalm 29:5 (BAB)",
+    "connected_to": "Psalm 29:6",
+    "connected_from": "Psalm 29:4"
+  },
+  {
+    "text": "He makes Lebanon (whiteness) skip like a calf, and Sirion (Mount Hermon) like a young wild ox.",
+    "reference": "Psalm 29:6 (BAB)",
+    "connected_to": "Psalm 29:7",
+    "connected_from": "Psalm 29:5"
+  },
+  {
+    "text": "The voice of the LORD {YHWH} strikes with flames of fire.",
+    "reference": "Psalm 29:7 (BAB)",
+    "connected_to": "Psalm 29:8",
+    "connected_from": "Psalm 29:6"
+  },
+  {
+    "text": "The voice of the LORD {YHWH} shakes the wilderness; the LORD shakes the Wilderness of Kadesh (holy).",
+    "reference": "Psalm 29:8 (BAB)",
+    "connected_to": "Psalm 29:9",
+    "connected_from": "Psalm 29:7"
+  },
+  {
+    "text": "The voice of the LORD {YHWH} twists the oaks (LORD makes the deer to calve) and strips the forests bare. And in His temple all cry, “Glory!”",
+    "reference": "Psalm 29:9 (BAB)",
+    "connected_to": "Psalm 29:10",
+    "connected_from": "Psalm 29:8"
+  },
+  {
+    "text": "The LORD {YHWH} sits enthroned over the flood; the LORD is enthroned as King forever.",
+    "reference": "Psalm 29:10 (BAB)",
+    "connected_to": "Psalm 29:11",
+    "connected_from": "Psalm 29:9"
+  },
+  {
+    "text": "The LORD {YHWH} gives His people strength; the LORD blesses His people with peace.",
+    "reference": "Psalm 29:11 (BAB)",
+    "connected_from": "Psalm 29:10"
+  }
+]

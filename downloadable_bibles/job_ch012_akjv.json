@@ -1,0 +1,150 @@
+[
+  {
+    "text": "And Job answered and said,",
+    "reference": "Job 12:1 (AKJV)",
+    "connected_to": "Job 12:2"
+  },
+  {
+    "text": "No doubt but you are the people, and wisdom shall die with you.",
+    "reference": "Job 12:2 (AKJV)",
+    "connected_to": "Job 12:3",
+    "connected_from": "Job 12:1"
+  },
+  {
+    "text": "But I have understanding as well as you; I am not inferior to you: yes, who knows not such things as these?",
+    "reference": "Job 12:3 (AKJV)",
+    "connected_to": "Job 12:4",
+    "connected_from": "Job 12:2"
+  },
+  {
+    "text": "I am as one mocked of his neighbor, who calls on God, and he answers him: the just upright man is laughed to scorn.",
+    "reference": "Job 12:4 (AKJV)",
+    "connected_to": "Job 12:5",
+    "connected_from": "Job 12:3"
+  },
+  {
+    "text": "He that is ready to slip with his feet is as a lamp despised in the thought of him that is at ease.",
+    "reference": "Job 12:5 (AKJV)",
+    "connected_to": "Job 12:6",
+    "connected_from": "Job 12:4"
+  },
+  {
+    "text": "The tabernacles of robbers prosper, and they that provoke God are secure; into whose hand God brings abundantly.",
+    "reference": "Job 12:6 (AKJV)",
+    "connected_to": "Job 12:7",
+    "connected_from": "Job 12:5"
+  },
+  {
+    "text": "But ask now the beasts, and they shall teach you; and the fowls of the air, and they shall tell you:",
+    "reference": "Job 12:7 (AKJV)",
+    "connected_to": "Job 12:8",
+    "connected_from": "Job 12:6"
+  },
+  {
+    "text": "Or speak to the earth, and it shall teach you: and the fishes of the sea shall declare to you.",
+    "reference": "Job 12:8 (AKJV)",
+    "connected_to": "Job 12:9",
+    "connected_from": "Job 12:7"
+  },
+  {
+    "text": "Who knows not in all these that the hand of the LORD has worked this?",
+    "reference": "Job 12:9 (AKJV)",
+    "connected_to": "Job 12:10",
+    "connected_from": "Job 12:8"
+  },
+  {
+    "text": "In whose hand is the soul of every living thing, and the breath of all mankind.",
+    "reference": "Job 12:10 (AKJV)",
+    "connected_to": "Job 12:11",
+    "connected_from": "Job 12:9"
+  },
+  {
+    "text": "Does not the ear try words? and the mouth taste his meat?",
+    "reference": "Job 12:11 (AKJV)",
+    "connected_to": "Job 12:12",
+    "connected_from": "Job 12:10"
+  },
+  {
+    "text": "With the ancient is wisdom; and in length of days understanding.",
+    "reference": "Job 12:12 (AKJV)",
+    "connected_to": "Job 12:13",
+    "connected_from": "Job 12:11"
+  },
+  {
+    "text": "With him is wisdom and strength, he has counsel and understanding.",
+    "reference": "Job 12:13 (AKJV)",
+    "connected_to": "Job 12:14",
+    "connected_from": "Job 12:12"
+  },
+  {
+    "text": "Behold, he breaks down, and it cannot be built again: he shuts up a man, and there can be no opening.",
+    "reference": "Job 12:14 (AKJV)",
+    "connected_to": "Job 12:15",
+    "connected_from": "Job 12:13"
+  },
+  {
+    "text": "Behold, he withholds the waters, and they dry up: also he sends them out, and they overturn the earth.",
+    "reference": "Job 12:15 (AKJV)",
+    "connected_to": "Job 12:16",
+    "connected_from": "Job 12:14"
+  },
+  {
+    "text": "With him is strength and wisdom: the deceived and the deceiver are his.",
+    "reference": "Job 12:16 (AKJV)",
+    "connected_to": "Job 12:17",
+    "connected_from": "Job 12:15"
+  },
+  {
+    "text": "He leads counsellors away spoiled, and makes the judges fools.",
+    "reference": "Job 12:17 (AKJV)",
+    "connected_to": "Job 12:18",
+    "connected_from": "Job 12:16"
+  },
+  {
+    "text": "He looses the bond of kings, and girds their loins with a girdle.",
+    "reference": "Job 12:18 (AKJV)",
+    "connected_to": "Job 12:19",
+    "connected_from": "Job 12:17"
+  },
+  {
+    "text": "He leads princes away spoiled, and overthrows the mighty.",
+    "reference": "Job 12:19 (AKJV)",
+    "connected_to": "Job 12:20",
+    "connected_from": "Job 12:18"
+  },
+  {
+    "text": "He removes away the speech of the trusty, and takes away the understanding of the aged.",
+    "reference": "Job 12:20 (AKJV)",
+    "connected_to": "Job 12:21",
+    "connected_from": "Job 12:19"
+  },
+  {
+    "text": "He pours contempt on princes, and weakens the strength of the mighty.",
+    "reference": "Job 12:21 (AKJV)",
+    "connected_to": "Job 12:22",
+    "connected_from": "Job 12:20"
+  },
+  {
+    "text": "He discovers deep things out of darkness, and brings out to light the shadow of death.",
+    "reference": "Job 12:22 (AKJV)",
+    "connected_to": "Job 12:23",
+    "connected_from": "Job 12:21"
+  },
+  {
+    "text": "He increases the nations, and destroys them: he enlarges the nations, and straitens them again.",
+    "reference": "Job 12:23 (AKJV)",
+    "connected_to": "Job 12:24",
+    "connected_from": "Job 12:22"
+  },
+  {
+    "text": "He takes away the heart of the chief of the people of the earth, and causes them to wander in a wilderness where there is no way.",
+    "reference": "Job 12:24 (AKJV)",
+    "connected_to": "Job 12:25",
+    "connected_from": "Job 12:23"
+  },
+  {
+    "text": "They grope in the dark without light, and he makes them to stagger like a drunken man.",
+    "reference": "Job 12:25 (AKJV)",
+    "connected_from": "Job 12:24"
+  }
+]

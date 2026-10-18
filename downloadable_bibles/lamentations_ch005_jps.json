@@ -1,0 +1,132 @@
+[
+  {
+    "text": "Remember, O LORD, what is come upon us; Behold, and see our reproach.",
+    "reference": "Lamentations 5:1 (JPS)",
+    "connected_to": "Lamentations 5:2"
+  },
+  {
+    "text": "Our inheritance is turned unto strangers, Our houses unto aliens.",
+    "reference": "Lamentations 5:2 (JPS)",
+    "connected_to": "Lamentations 5:3",
+    "connected_from": "Lamentations 5:1"
+  },
+  {
+    "text": "We are become orphans and fatherless, Our mothers are as widows.",
+    "reference": "Lamentations 5:3 (JPS)",
+    "connected_to": "Lamentations 5:4",
+    "connected_from": "Lamentations 5:2"
+  },
+  {
+    "text": "We have drunk our water for money; Our wood cometh to us for price.",
+    "reference": "Lamentations 5:4 (JPS)",
+    "connected_to": "Lamentations 5:5",
+    "connected_from": "Lamentations 5:3"
+  },
+  {
+    "text": "To our very necks we are pursued; We labour, and have no rest.",
+    "reference": "Lamentations 5:5 (JPS)",
+    "connected_to": "Lamentations 5:6",
+    "connected_from": "Lamentations 5:4"
+  },
+  {
+    "text": "We have given the hand to Egypt, And to Assyria, to have bread enough;",
+    "reference": "Lamentations 5:6 (JPS)",
+    "connected_to": "Lamentations 5:7",
+    "connected_from": "Lamentations 5:5"
+  },
+  {
+    "text": "Our fathers have sinned, and are not; And we have borne their iniquities.",
+    "reference": "Lamentations 5:7 (JPS)",
+    "connected_to": "Lamentations 5:8",
+    "connected_from": "Lamentations 5:6"
+  },
+  {
+    "text": "Servants rule over us; There is none to deliver us out of their hand.",
+    "reference": "Lamentations 5:8 (JPS)",
+    "connected_to": "Lamentations 5:9",
+    "connected_from": "Lamentations 5:7"
+  },
+  {
+    "text": "We get our bread with the peril of our lives Because of the sword of the wilderness.",
+    "reference": "Lamentations 5:9 (JPS)",
+    "connected_to": "Lamentations 5:10",
+    "connected_from": "Lamentations 5:8"
+  },
+  {
+    "text": "Our skin is hot like an oven Because of the burning heat of famine.",
+    "reference": "Lamentations 5:10 (JPS)",
+    "connected_to": "Lamentations 5:11",
+    "connected_from": "Lamentations 5:9"
+  },
+  {
+    "text": "They have ravished the women in Zion, The maidens in the cities of Judah.",
+    "reference": "Lamentations 5:11 (JPS)",
+    "connected_to": "Lamentations 5:12",
+    "connected_from": "Lamentations 5:10"
+  },
+  {
+    "text": "Princes are hanged up by their hand; The faces of elders are not honoured.",
+    "reference": "Lamentations 5:12 (JPS)",
+    "connected_to": "Lamentations 5:13",
+    "connected_from": "Lamentations 5:11"
+  },
+  {
+    "text": "The young men have borne the mill, And the children have stumbled under the wood.",
+    "reference": "Lamentations 5:13 (JPS)",
+    "connected_to": "Lamentations 5:14",
+    "connected_from": "Lamentations 5:12"
+  },
+  {
+    "text": "The elders have ceased from the gate, The young men from their music.",
+    "reference": "Lamentations 5:14 (JPS)",
+    "connected_to": "Lamentations 5:15",
+    "connected_from": "Lamentations 5:13"
+  },
+  {
+    "text": "The joy of our heart is ceased; Our dance is turned into mourning.",
+    "reference": "Lamentations 5:15 (JPS)",
+    "connected_to": "Lamentations 5:16",
+    "connected_from": "Lamentations 5:14"
+  },
+  {
+    "text": "The crown is fallen from our head; Woe unto us! for we have sinned.",
+    "reference": "Lamentations 5:16 (JPS)",
+    "connected_to": "Lamentations 5:17",
+    "connected_from": "Lamentations 5:15"
+  },
+  {
+    "text": "For this our heart is faint, For these things our eyes are dim;",
+    "reference": "Lamentations 5:17 (JPS)",
+    "connected_to": "Lamentations 5:18",
+    "connected_from": "Lamentations 5:16"
+  },
+  {
+    "text": "For the mountain of Zion, which is desolate, The foxes walk upon it.",
+    "reference": "Lamentations 5:18 (JPS)",
+    "connected_to": "Lamentations 5:19",
+    "connected_from": "Lamentations 5:17"
+  },
+  {
+    "text": "Thou, O LORD, art enthroned for ever, Thy throne is from generation to generation.",
+    "reference": "Lamentations 5:19 (JPS)",
+    "connected_to": "Lamentations 5:20",
+    "connected_from": "Lamentations 5:18"
+  },
+  {
+    "text": "Wherefore dost Thou forget us for ever, And forsake us so long time?",
+    "reference": "Lamentations 5:20 (JPS)",
+    "connected_to": "Lamentations 5:21",
+    "connected_from": "Lamentations 5:19"
+  },
+  {
+    "text": "Turn Thou us unto Thee, O LORD, and we shall be turned; Renew our days as of old.",
+    "reference": "Lamentations 5:21 (JPS)",
+    "connected_to": "Lamentations 5:22",
+    "connected_from": "Lamentations 5:20"
+  },
+  {
+    "text": "Thou canst not have utterly rejected us, And be exceeding wroth against us!",
+    "reference": "Lamentations 5:22 (JPS)",
+    "connected_from": "Lamentations 5:21"
+  }
+]

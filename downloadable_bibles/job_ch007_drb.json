@@ -1,0 +1,126 @@
+[
+  {
+    "text": "The life of man upon earth is a warfare, and his days are like the days of a hireling.",
+    "reference": "Job 7:1 (DRB)",
+    "connected_to": "Job 7:2"
+  },
+  {
+    "text": "As a servant longeth for the shade, as the hireling looketh for the end of his work;",
+    "reference": "Job 7:2 (DRB)",
+    "connected_to": "Job 7:3",
+    "connected_from": "Job 7:1"
+  },
+  {
+    "text": "So I also have had empty months, and have numbered to myself wearisome nights.",
+    "reference": "Job 7:3 (DRB)",
+    "connected_to": "Job 7:4",
+    "connected_from": "Job 7:2"
+  },
+  {
+    "text": "If I lie down to sleep, I shall say: When shall arise? and again I shall look for the evening, and shall be filled with sorrows even till darkness.",
+    "reference": "Job 7:4 (DRB)",
+    "connected_to": "Job 7:5",
+    "connected_from": "Job 7:3"
+  },
+  {
+    "text": "My flesh is clothed with rottenness and the filth of dust, my skin is withered and drawn together.",
+    "reference": "Job 7:5 (DRB)",
+    "connected_to": "Job 7:6",
+    "connected_from": "Job 7:4"
+  },
+  {
+    "text": "My days have passed more swiftly than the web is cut by the weaver, and are consumed without any hope.",
+    "reference": "Job 7:6 (DRB)",
+    "connected_to": "Job 7:7",
+    "connected_from": "Job 7:5"
+  },
+  {
+    "text": "Remember that my life is but wind, and my eyes shall not return to see good things.",
+    "reference": "Job 7:7 (DRB)",
+    "connected_to": "Job 7:8",
+    "connected_from": "Job 7:6"
+  },
+  {
+    "text": "Nor shall the sight of man behold me: thy eyes are upon me, and I shall be no more.",
+    "reference": "Job 7:8 (DRB)",
+    "connected_to": "Job 7:9",
+    "connected_from": "Job 7:7"
+  },
+  {
+    "text": "As a cloud is consumed, and passeth away: so he that shall go down to hell shall not come up.",
+    "reference": "Job 7:9 (DRB)",
+    "connected_to": "Job 7:10",
+    "connected_from": "Job 7:8"
+  },
+  {
+    "text": "Nor shall he return my more into his house, neither shall his place know him any more.",
+    "reference": "Job 7:10 (DRB)",
+    "connected_to": "Job 7:11",
+    "connected_from": "Job 7:9"
+  },
+  {
+    "text": "Wherefore I will not spare my month, I will speak in the affliction of my spirit: I will talk with the bitterness of my soul.",
+    "reference": "Job 7:11 (DRB)",
+    "connected_to": "Job 7:12",
+    "connected_from": "Job 7:10"
+  },
+  {
+    "text": "Am I a sea, or a whale, that thou hast enclosed me in a prison?",
+    "reference": "Job 7:12 (DRB)",
+    "connected_to": "Job 7:13",
+    "connected_from": "Job 7:11"
+  },
+  {
+    "text": "If I say: My bed shall comfort me, and I shall be relieved speaking with myself on my couch:",
+    "reference": "Job 7:13 (DRB)",
+    "connected_to": "Job 7:14",
+    "connected_from": "Job 7:12"
+  },
+  {
+    "text": "Thou wilt frighten me with dreams and terrify me with visions.",
+    "reference": "Job 7:14 (DRB)",
+    "connected_to": "Job 7:15",
+    "connected_from": "Job 7:13"
+  },
+  {
+    "text": "So that my soul rather chooseth hanging, and my bones death.",
+    "reference": "Job 7:15 (DRB)",
+    "connected_to": "Job 7:16",
+    "connected_from": "Job 7:14"
+  },
+  {
+    "text": "I have done with hope, I shall now live no longer: spare me, for my days are nothing.",
+    "reference": "Job 7:16 (DRB)",
+    "connected_to": "Job 7:17",
+    "connected_from": "Job 7:15"
+  },
+  {
+    "text": "What is a man that thou shouldst magnify him? or why dost thou set thy heart upon him?",
+    "reference": "Job 7:17 (DRB)",
+    "connected_to": "Job 7:18",
+    "connected_from": "Job 7:16"
+  },
+  {
+    "text": "Thou visitest him early in the morning, and thou provest him suddenly.",
+    "reference": "Job 7:18 (DRB)",
+    "connected_to": "Job 7:19",
+    "connected_from": "Job 7:17"
+  },
+  {
+    "text": "How long wilt thou not spare me, nor suffer me to swallow down my spittle?",
+    "reference": "Job 7:19 (DRB)",
+    "connected_to": "Job 7:20",
+    "connected_from": "Job 7:18"
+  },
+  {
+    "text": "I have sinned: what shall I do to thee, O keeper of men? why hast thou set me opposite to thee, and I am become burdensome to myself?",
+    "reference": "Job 7:20 (DRB)",
+    "connected_to": "Job 7:21",
+    "connected_from": "Job 7:19"
+  },
+  {
+    "text": "Why dost thou not remove my sin, and why dost thou not take away my iniquity? Behold now I shall sleep in the dust: and if thou seek me in the morning, I shall not be.",
+    "reference": "Job 7:21 (DRB)",
+    "connected_from": "Job 7:20"
+  }
+]

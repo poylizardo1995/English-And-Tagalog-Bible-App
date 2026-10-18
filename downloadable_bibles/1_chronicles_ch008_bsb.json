@@ -1,0 +1,240 @@
+[
+  {
+    "text": "Benjamin was the father of Bela his firstborn, Ashbel the second, Aharah the third,",
+    "reference": "1 Chronicles 8:1 (BSB)",
+    "connected_to": "1 Chronicles 8:2"
+  },
+  {
+    "text": "Nohah the fourth, and Rapha the fifth.",
+    "reference": "1 Chronicles 8:2 (BSB)",
+    "connected_to": "1 Chronicles 8:3",
+    "connected_from": "1 Chronicles 8:1"
+  },
+  {
+    "text": "The sons of Bela: Addar, Gera, Abihud,",
+    "reference": "1 Chronicles 8:3 (BSB)",
+    "connected_to": "1 Chronicles 8:4",
+    "connected_from": "1 Chronicles 8:2"
+  },
+  {
+    "text": "Abishua, Naaman, Ahoah,",
+    "reference": "1 Chronicles 8:4 (BSB)",
+    "connected_to": "1 Chronicles 8:5",
+    "connected_from": "1 Chronicles 8:3"
+  },
+  {
+    "text": "Gera, Shephuphan, and Huram.",
+    "reference": "1 Chronicles 8:5 (BSB)",
+    "connected_to": "1 Chronicles 8:6",
+    "connected_from": "1 Chronicles 8:4"
+  },
+  {
+    "text": "These were the descendants of Ehud who were the heads of the families living in Geba and were exiled to Manahath:",
+    "reference": "1 Chronicles 8:6 (BSB)",
+    "connected_to": "1 Chronicles 8:7",
+    "connected_from": "1 Chronicles 8:5"
+  },
+  {
+    "text": "Naaman, Ahijah, and Gera, who carried them into exile and who was the father of Uzza and Ahihud.",
+    "reference": "1 Chronicles 8:7 (BSB)",
+    "connected_to": "1 Chronicles 8:8",
+    "connected_from": "1 Chronicles 8:6"
+  },
+  {
+    "text": "Shaharaim had sons in the country of Moab after he had divorced his wives Hushim and Baara.",
+    "reference": "1 Chronicles 8:8 (BSB)",
+    "connected_to": "1 Chronicles 8:9",
+    "connected_from": "1 Chronicles 8:7"
+  },
+  {
+    "text": "His sons by his wife Hodesh: Jobab, Zibia, Mesha, Malcam,",
+    "reference": "1 Chronicles 8:9 (BSB)",
+    "connected_to": "1 Chronicles 8:10",
+    "connected_from": "1 Chronicles 8:8"
+  },
+  {
+    "text": "Jeuz, Sachia, and Mirmah. These were his sons, heads of families.",
+    "reference": "1 Chronicles 8:10 (BSB)",
+    "connected_to": "1 Chronicles 8:11",
+    "connected_from": "1 Chronicles 8:9"
+  },
+  {
+    "text": "He also had sons by Hushim: Abitub and Elpaal.",
+    "reference": "1 Chronicles 8:11 (BSB)",
+    "connected_to": "1 Chronicles 8:12",
+    "connected_from": "1 Chronicles 8:10"
+  },
+  {
+    "text": "The sons of Elpaal: Eber, Misham, Shemed (who built Ono and Lod with its villages),",
+    "reference": "1 Chronicles 8:12 (BSB)",
+    "connected_to": "1 Chronicles 8:13",
+    "connected_from": "1 Chronicles 8:11"
+  },
+  {
+    "text": "and Beriah and Shema (who were the heads of families living in Aijalon and who drove out the inhabitants of Gath).",
+    "reference": "1 Chronicles 8:13 (BSB)",
+    "connected_to": "1 Chronicles 8:14",
+    "connected_from": "1 Chronicles 8:12"
+  },
+  {
+    "text": "Ahio, Shashak, Jeremoth,",
+    "reference": "1 Chronicles 8:14 (BSB)",
+    "connected_to": "1 Chronicles 8:15",
+    "connected_from": "1 Chronicles 8:13"
+  },
+  {
+    "text": "Zebadiah, Arad, Eder,",
+    "reference": "1 Chronicles 8:15 (BSB)",
+    "connected_to": "1 Chronicles 8:16",
+    "connected_from": "1 Chronicles 8:14"
+  },
+  {
+    "text": "Michael, Ishpah, and Joha were the sons of Beriah.",
+    "reference": "1 Chronicles 8:16 (BSB)",
+    "connected_to": "1 Chronicles 8:17",
+    "connected_from": "1 Chronicles 8:15"
+  },
+  {
+    "text": "Zebadiah, Meshullam, Hizki, Heber,",
+    "reference": "1 Chronicles 8:17 (BSB)",
+    "connected_to": "1 Chronicles 8:18",
+    "connected_from": "1 Chronicles 8:16"
+  },
+  {
+    "text": "Ishmerai, Izliah, and Jobab were the sons of Elpaal.",
+    "reference": "1 Chronicles 8:18 (BSB)",
+    "connected_to": "1 Chronicles 8:19",
+    "connected_from": "1 Chronicles 8:17"
+  },
+  {
+    "text": "Jakim, Zichri, Zabdi,",
+    "reference": "1 Chronicles 8:19 (BSB)",
+    "connected_to": "1 Chronicles 8:20",
+    "connected_from": "1 Chronicles 8:18"
+  },
+  {
+    "text": "Elienai, Zillethai, Eliel,",
+    "reference": "1 Chronicles 8:20 (BSB)",
+    "connected_to": "1 Chronicles 8:21",
+    "connected_from": "1 Chronicles 8:19"
+  },
+  {
+    "text": "Adaiah, Beraiah, and Shimrath were the sons of Shimei.",
+    "reference": "1 Chronicles 8:21 (BSB)",
+    "connected_to": "1 Chronicles 8:22",
+    "connected_from": "1 Chronicles 8:20"
+  },
+  {
+    "text": "Ishpan, Eber, Eliel,",
+    "reference": "1 Chronicles 8:22 (BSB)",
+    "connected_to": "1 Chronicles 8:23",
+    "connected_from": "1 Chronicles 8:21"
+  },
+  {
+    "text": "Abdon, Zichri, Hanan,",
+    "reference": "1 Chronicles 8:23 (BSB)",
+    "connected_to": "1 Chronicles 8:24",
+    "connected_from": "1 Chronicles 8:22"
+  },
+  {
+    "text": "Hananiah, Elam, Anthothijah,",
+    "reference": "1 Chronicles 8:24 (BSB)",
+    "connected_to": "1 Chronicles 8:25",
+    "connected_from": "1 Chronicles 8:23"
+  },
+  {
+    "text": "Iphdeiah, and Penuel were the sons of Shashak.",
+    "reference": "1 Chronicles 8:25 (BSB)",
+    "connected_to": "1 Chronicles 8:26",
+    "connected_from": "1 Chronicles 8:24"
+  },
+  {
+    "text": "Shamsherai, Shehariah, Athaliah,",
+    "reference": "1 Chronicles 8:26 (BSB)",
+    "connected_to": "1 Chronicles 8:27",
+    "connected_from": "1 Chronicles 8:25"
+  },
+  {
+    "text": "Jaareshiah, Elijah, and Zichri were the sons of Jeroham.",
+    "reference": "1 Chronicles 8:27 (BSB)",
+    "connected_to": "1 Chronicles 8:28",
+    "connected_from": "1 Chronicles 8:26"
+  },
+  {
+    "text": "All these were heads of families, the chiefs according to their genealogies, and they lived in Jerusalem.",
+    "reference": "1 Chronicles 8:28 (BSB)",
+    "connected_to": "1 Chronicles 8:29",
+    "connected_from": "1 Chronicles 8:27"
+  },
+  {
+    "text": "Jeiel the father of Gibeon lived in Gibeon. His wife’s name was Maacah,",
+    "reference": "1 Chronicles 8:29 (BSB)",
+    "connected_to": "1 Chronicles 8:30",
+    "connected_from": "1 Chronicles 8:28"
+  },
+  {
+    "text": "and Abdon was his firstborn son, then Zur, Kish, Baal, Nadab,",
+    "reference": "1 Chronicles 8:30 (BSB)",
+    "connected_to": "1 Chronicles 8:31",
+    "connected_from": "1 Chronicles 8:29"
+  },
+  {
+    "text": "Gedor, Ahio, Zecher,",
+    "reference": "1 Chronicles 8:31 (BSB)",
+    "connected_to": "1 Chronicles 8:32",
+    "connected_from": "1 Chronicles 8:30"
+  },
+  {
+    "text": "and Mikloth, who was the father of Shimeah. They too lived alongside their relatives in Jerusalem.",
+    "reference": "1 Chronicles 8:32 (BSB)",
+    "connected_to": "1 Chronicles 8:33",
+    "connected_from": "1 Chronicles 8:31"
+  },
+  {
+    "text": "Ner was the father of Kish, Kish was the father of Saul, and Saul was the father of Jonathan, Malchishua, Abinadab, and Esh-baal.",
+    "reference": "1 Chronicles 8:33 (BSB)",
+    "connected_to": "1 Chronicles 8:34",
+    "connected_from": "1 Chronicles 8:32"
+  },
+  {
+    "text": "The son of Jonathan: Merib-baal, and Merib-baal was the father of Micah.",
+    "reference": "1 Chronicles 8:34 (BSB)",
+    "connected_to": "1 Chronicles 8:35",
+    "connected_from": "1 Chronicles 8:33"
+  },
+  {
+    "text": "The sons of Micah: Pithon, Melech, Tarea, and Ahaz.",
+    "reference": "1 Chronicles 8:35 (BSB)",
+    "connected_to": "1 Chronicles 8:36",
+    "connected_from": "1 Chronicles 8:34"
+  },
+  {
+    "text": "Ahaz was the father of Jehoaddah, Jehoaddah was the father of Alemeth, Azmaveth, and Zimri, and Zimri was the father of Moza.",
+    "reference": "1 Chronicles 8:36 (BSB)",
+    "connected_to": "1 Chronicles 8:37",
+    "connected_from": "1 Chronicles 8:35"
+  },
+  {
+    "text": "Moza was the father of Binea. Raphah was his son, Eleasah his son, and Azel his son.",
+    "reference": "1 Chronicles 8:37 (BSB)",
+    "connected_to": "1 Chronicles 8:38",
+    "connected_from": "1 Chronicles 8:36"
+  },
+  {
+    "text": "Azel had six sons, and these were their names: Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan. All these were the sons of Azel.",
+    "reference": "1 Chronicles 8:38 (BSB)",
+    "connected_to": "1 Chronicles 8:39",
+    "connected_from": "1 Chronicles 8:37"
+  },
+  {
+    "text": "The sons of his brother Eshek: Ulam was his firstborn, Jeush second, and Eliphelet third.",
+    "reference": "1 Chronicles 8:39 (BSB)",
+    "connected_to": "1 Chronicles 8:40",
+    "connected_from": "1 Chronicles 8:38"
+  },
+  {
+    "text": "The sons of Ulam were mighty men of valor, archers, and they had many sons and grandsons—150 in all. All these were the descendants of Benjamin.",
+    "reference": "1 Chronicles 8:40 (BSB)",
+    "connected_from": "1 Chronicles 8:39"
+  }
+]

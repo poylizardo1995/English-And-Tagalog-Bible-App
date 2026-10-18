@@ -1,0 +1,66 @@
+[
+  {
+    "text": "Come, and let us return unto the LORD; For He hath torn, and He will heal us, He hath smitten, and He will bind us up.",
+    "reference": "Hosea 6:1 (JPS)",
+    "connected_to": "Hosea 6:2"
+  },
+  {
+    "text": "After two days will He revive us, On the third day He will raise us up, that we may live in His presence.",
+    "reference": "Hosea 6:2 (JPS)",
+    "connected_to": "Hosea 6:3",
+    "connected_from": "Hosea 6:1"
+  },
+  {
+    "text": "And let us know, eagerly strive to know the LORD, His going forth is sure as the morning; And He shall come unto us as the rain, As the latter rain that watereth the earth.’",
+    "reference": "Hosea 6:3 (JPS)",
+    "connected_to": "Hosea 6:4",
+    "connected_from": "Hosea 6:2"
+  },
+  {
+    "text": "O Ephraim, what shall I do unto thee? O Judah, what shall I do unto thee? For your goodness is as a morning cloud, And as the dew that early passeth away.",
+    "reference": "Hosea 6:4 (JPS)",
+    "connected_to": "Hosea 6:5",
+    "connected_from": "Hosea 6:3"
+  },
+  {
+    "text": "Therefore have I hewed them by the prophets, I have slain them by the words of My mouth; And thy judgment goeth forth as the light.",
+    "reference": "Hosea 6:5 (JPS)",
+    "connected_to": "Hosea 6:6",
+    "connected_from": "Hosea 6:4"
+  },
+  {
+    "text": "For I desire mercy, and not sacrifice, And the knowledge of God rather than burnt-offerings.",
+    "reference": "Hosea 6:6 (JPS)",
+    "connected_to": "Hosea 6:7",
+    "connected_from": "Hosea 6:5"
+  },
+  {
+    "text": "But they like men have transgressed the covenant; There have they dealt treacherously against Me.",
+    "reference": "Hosea 6:7 (JPS)",
+    "connected_to": "Hosea 6:8",
+    "connected_from": "Hosea 6:6"
+  },
+  {
+    "text": "Gilead is a city of them that work iniquity, It is covered with footprints of blood.",
+    "reference": "Hosea 6:8 (JPS)",
+    "connected_to": "Hosea 6:9",
+    "connected_from": "Hosea 6:7"
+  },
+  {
+    "text": "And as troops of robbers wait for a man, So doth the company of priests; They murder in the way toward Shechem; Yea, they commit enormity.",
+    "reference": "Hosea 6:9 (JPS)",
+    "connected_to": "Hosea 6:10",
+    "connected_from": "Hosea 6:8"
+  },
+  {
+    "text": "In the house of Israel I have seen a horrible thing; There harlotry is found in Ephraim, Israel is defiled.",
+    "reference": "Hosea 6:10 (JPS)",
+    "connected_to": "Hosea 6:11",
+    "connected_from": "Hosea 6:9"
+  },
+  {
+    "text": "Also, O Judah, there is a harvest appointed for thee!  When I would turn the captivity of My people,",
+    "reference": "Hosea 6:11 (JPS)",
+    "connected_from": "Hosea 6:10"
+  }
+]

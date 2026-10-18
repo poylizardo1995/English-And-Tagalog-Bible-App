@@ -1,0 +1,48 @@
+[
+  {
+    "text": "For the one directing. With stringed instruments. A Psalm of David. <span class=|reftext|><a href=|#|><b>1</b></a> In my calling out, may You answer me, O God of my righteousness! In [my] distress, You widened [it] for me; show me favor and hear my prayer.",
+    "reference": "Psalm 4:1 (BLB)",
+    "connected_to": "Psalm 4:2"
+  },
+  {
+    "text": "O sons of men, until when will my glory be shame? Will you⁺ love vanity, [and] seek after falsehood? Selah",
+    "reference": "Psalm 4:2 (BLB)",
+    "connected_to": "Psalm 4:3",
+    "connected_from": "Psalm 4:1"
+  },
+  {
+    "text": "and know that YHWH has marked out the faithful one for Himself; YHWH hears in my calling to Him.",
+    "reference": "Psalm 4:3 (BLB)",
+    "connected_to": "Psalm 4:4",
+    "connected_from": "Psalm 4:2"
+  },
+  {
+    "text": "Tremble and do not sin; speak in your⁺ heart on your⁺ bed, and be silent. Selah",
+    "reference": "Psalm 4:4 (BLB)",
+    "connected_to": "Psalm 4:5",
+    "connected_from": "Psalm 4:3"
+  },
+  {
+    "text": "Sacrifice the sacrifices of righteousness, and trust in YHWH.",
+    "reference": "Psalm 4:5 (BLB)",
+    "connected_to": "Psalm 4:6",
+    "connected_from": "Psalm 4:4"
+  },
+  {
+    "text": "Many are saying, “Who will show us good?” Lift upon us the light of Your face, O YHWH.",
+    "reference": "Psalm 4:6 (BLB)",
+    "connected_to": "Psalm 4:7",
+    "connected_from": "Psalm 4:5"
+  },
+  {
+    "text": "You have put joy in my heart, more than the time when their grain and their new wine have increased.",
+    "reference": "Psalm 4:7 (BLB)",
+    "connected_to": "Psalm 4:8",
+    "connected_from": "Psalm 4:6"
+  },
+  {
+    "text": "In peace I will both lie down and will sleep, for You alone, O YHWH, cause me to dwell in safety.",
+    "reference": "Psalm 4:8 (BLB)",
+    "connected_from": "Psalm 4:7"
+  }
+]

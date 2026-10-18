@@ -1,0 +1,216 @@
+[
+  {
+    "text": "In that time, Herod the Tetrarch heard the news about Jesus.",
+    "reference": "Matthew 14:1 (CPDV)",
+    "connected_to": "Matthew 14:2"
+  },
+  {
+    "text": "And he said to his servants: “This is John the Baptist. He has risen from the dead, and that is why miracles are at work in him.”",
+    "reference": "Matthew 14:2 (CPDV)",
+    "connected_to": "Matthew 14:3",
+    "connected_from": "Matthew 14:1"
+  },
+  {
+    "text": "For Herod had apprehended John, and bound him, and put him in prison, because of Herodias, the wife of his brother.",
+    "reference": "Matthew 14:3 (CPDV)",
+    "connected_to": "Matthew 14:4",
+    "connected_from": "Matthew 14:2"
+  },
+  {
+    "text": "For John was telling him, “It is not lawful for you to have her.”",
+    "reference": "Matthew 14:4 (CPDV)",
+    "connected_to": "Matthew 14:5",
+    "connected_from": "Matthew 14:3"
+  },
+  {
+    "text": "And though he wanted to kill him, he feared the people, because they held him to be a prophet.",
+    "reference": "Matthew 14:5 (CPDV)",
+    "connected_to": "Matthew 14:6",
+    "connected_from": "Matthew 14:4"
+  },
+  {
+    "text": "Then, on Herod’s birthday, the daughter of Herodias danced in their midst, and it pleased Herod.",
+    "reference": "Matthew 14:6 (CPDV)",
+    "connected_to": "Matthew 14:7",
+    "connected_from": "Matthew 14:5"
+  },
+  {
+    "text": "And so he promised with an oath to give her whatever she would ask of him.",
+    "reference": "Matthew 14:7 (CPDV)",
+    "connected_to": "Matthew 14:8",
+    "connected_from": "Matthew 14:6"
+  },
+  {
+    "text": "But, having been advised by her mother, she said, “Give me here, on a platter, the head of John the Baptist.”",
+    "reference": "Matthew 14:8 (CPDV)",
+    "connected_to": "Matthew 14:9",
+    "connected_from": "Matthew 14:7"
+  },
+  {
+    "text": "And the king was greatly saddened. But because of his oath, and because of those who sat at table with him, he ordered it to be given.",
+    "reference": "Matthew 14:9 (CPDV)",
+    "connected_to": "Matthew 14:10",
+    "connected_from": "Matthew 14:8"
+  },
+  {
+    "text": "And he sent and beheaded John in prison.",
+    "reference": "Matthew 14:10 (CPDV)",
+    "connected_to": "Matthew 14:11",
+    "connected_from": "Matthew 14:9"
+  },
+  {
+    "text": "And his head was brought on a platter, and it was given to the girl, and she brought it to her mother.",
+    "reference": "Matthew 14:11 (CPDV)",
+    "connected_to": "Matthew 14:12",
+    "connected_from": "Matthew 14:10"
+  },
+  {
+    "text": "And his disciples approached and took the body, and they buried it. And arriving, they reported it to Jesus.",
+    "reference": "Matthew 14:12 (CPDV)",
+    "connected_to": "Matthew 14:13",
+    "connected_from": "Matthew 14:11"
+  },
+  {
+    "text": "When Jesus had heard it, he withdrew from there by boat, to a deserted place by himself. And when the crowds had heard of it, they followed him on foot from the cities.",
+    "reference": "Matthew 14:13 (CPDV)",
+    "connected_to": "Matthew 14:14",
+    "connected_from": "Matthew 14:12"
+  },
+  {
+    "text": "And going out, he saw a great multitude, and he took pity on them, and he cured their sick.",
+    "reference": "Matthew 14:14 (CPDV)",
+    "connected_to": "Matthew 14:15",
+    "connected_from": "Matthew 14:13"
+  },
+  {
+    "text": "And when evening had arrived, his disciples approached him, saying: “This is a deserted place, and the hour has now passed. Dismiss the crowds, so that, by going into the towns, they may buy food for themselves.”",
+    "reference": "Matthew 14:15 (CPDV)",
+    "connected_to": "Matthew 14:16",
+    "connected_from": "Matthew 14:14"
+  },
+  {
+    "text": "But Jesus said to them: “They have no need to go. Give them something to eat yourselves.”",
+    "reference": "Matthew 14:16 (CPDV)",
+    "connected_to": "Matthew 14:17",
+    "connected_from": "Matthew 14:15"
+  },
+  {
+    "text": "They answered him, “We have nothing here, except five loaves and two fish.”",
+    "reference": "Matthew 14:17 (CPDV)",
+    "connected_to": "Matthew 14:18",
+    "connected_from": "Matthew 14:16"
+  },
+  {
+    "text": "He said to them, “Bring them here to me.”",
+    "reference": "Matthew 14:18 (CPDV)",
+    "connected_to": "Matthew 14:19",
+    "connected_from": "Matthew 14:17"
+  },
+  {
+    "text": "And when he had ordered the multitude to sit down upon the grass, he took the five loaves and the two fish, and gazing up to heaven, he blessed and broke and gave the bread to the disciples, and then the disciples to the multitudes.",
+    "reference": "Matthew 14:19 (CPDV)",
+    "connected_to": "Matthew 14:20",
+    "connected_from": "Matthew 14:18"
+  },
+  {
+    "text": "And they all ate and were satisfied. And they took up the remnants: twelve baskets full of fragments.",
+    "reference": "Matthew 14:20 (CPDV)",
+    "connected_to": "Matthew 14:21",
+    "connected_from": "Matthew 14:19"
+  },
+  {
+    "text": "Now the number of those who ate was five thousand men, besides women and children.",
+    "reference": "Matthew 14:21 (CPDV)",
+    "connected_to": "Matthew 14:22",
+    "connected_from": "Matthew 14:20"
+  },
+  {
+    "text": "And Jesus promptly compelled his disciples to climb into the boat, and to precede him in crossing the sea, while he dismissed the crowds.",
+    "reference": "Matthew 14:22 (CPDV)",
+    "connected_to": "Matthew 14:23",
+    "connected_from": "Matthew 14:21"
+  },
+  {
+    "text": "And having dismissed the multitude, he ascended alone onto a mountain to pray. And when evening arrived, he was alone there.",
+    "reference": "Matthew 14:23 (CPDV)",
+    "connected_to": "Matthew 14:24",
+    "connected_from": "Matthew 14:22"
+  },
+  {
+    "text": "But in the midst of the sea, the boat was being tossed about by the waves. For the wind was against them.",
+    "reference": "Matthew 14:24 (CPDV)",
+    "connected_to": "Matthew 14:25",
+    "connected_from": "Matthew 14:23"
+  },
+  {
+    "text": "Then, in the fourth watch of the night, he came to them, walking upon the sea.",
+    "reference": "Matthew 14:25 (CPDV)",
+    "connected_to": "Matthew 14:26",
+    "connected_from": "Matthew 14:24"
+  },
+  {
+    "text": "And seeing him walking upon the sea, they were disturbed, saying: “It must be an apparition.” And they cried out, because of fear.",
+    "reference": "Matthew 14:26 (CPDV)",
+    "connected_to": "Matthew 14:27",
+    "connected_from": "Matthew 14:25"
+  },
+  {
+    "text": "And immediately, Jesus spoke to them, saying: “Have faith. It is I. Do not be afraid.”",
+    "reference": "Matthew 14:27 (CPDV)",
+    "connected_to": "Matthew 14:28",
+    "connected_from": "Matthew 14:26"
+  },
+  {
+    "text": "Then Peter responded by saying, “Lord, if it is you, order me come to you over the waters.”",
+    "reference": "Matthew 14:28 (CPDV)",
+    "connected_to": "Matthew 14:29",
+    "connected_from": "Matthew 14:27"
+  },
+  {
+    "text": "And he said, “Come.” And Peter, descending from the boat, walked over the water, so as to go to Jesus.",
+    "reference": "Matthew 14:29 (CPDV)",
+    "connected_to": "Matthew 14:30",
+    "connected_from": "Matthew 14:28"
+  },
+  {
+    "text": "Yet truly, seeing that the wind was strong, he was afraid. And as he began to sink, he cried out, saying: “Lord, save me.”",
+    "reference": "Matthew 14:30 (CPDV)",
+    "connected_to": "Matthew 14:31",
+    "connected_from": "Matthew 14:29"
+  },
+  {
+    "text": "And immediately Jesus extended his hand and took hold of him. And he said to him, “O little in faith, why did you doubt?”",
+    "reference": "Matthew 14:31 (CPDV)",
+    "connected_to": "Matthew 14:32",
+    "connected_from": "Matthew 14:30"
+  },
+  {
+    "text": "And when they had ascended into the boat, the wind ceased.",
+    "reference": "Matthew 14:32 (CPDV)",
+    "connected_to": "Matthew 14:33",
+    "connected_from": "Matthew 14:31"
+  },
+  {
+    "text": "Then those who were in the boat drew near and adored him, saying: “Truly, you are the Son of God.”",
+    "reference": "Matthew 14:33 (CPDV)",
+    "connected_to": "Matthew 14:34",
+    "connected_from": "Matthew 14:32"
+  },
+  {
+    "text": "And having crossed the sea, they arrived in the land of Genesaret.",
+    "reference": "Matthew 14:34 (CPDV)",
+    "connected_to": "Matthew 14:35",
+    "connected_from": "Matthew 14:33"
+  },
+  {
+    "text": "And when the men of that place had recognized him, they sent into all that region, and they brought to him all who had maladies.",
+    "reference": "Matthew 14:35 (CPDV)",
+    "connected_to": "Matthew 14:36",
+    "connected_from": "Matthew 14:34"
+  },
+  {
+    "text": "And they petitioned him, so that they might touch even the hem of his garment. And as many as touched it were made whole.",
+    "reference": "Matthew 14:36 (CPDV)",
+    "connected_from": "Matthew 14:35"
+  }
+]

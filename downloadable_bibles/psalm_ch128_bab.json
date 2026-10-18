@@ -1,0 +1,36 @@
+[
+  {
+    "text": "A song of ascents. <span class=|reftext|><a href=|#|><b>1</b></a> Blessed are all who fear the LORD {YHWH}, who walk in His ways!",
+    "reference": "Psalm 128:1 (BAB)",
+    "connected_to": "Psalm 128:2"
+  },
+  {
+    "text": "For when you eat the fruit of your labor, blessings and prosperity will be yours.",
+    "reference": "Psalm 128:2 (BAB)",
+    "connected_to": "Psalm 128:3",
+    "connected_from": "Psalm 128:1"
+  },
+  {
+    "text": "Your wife will be like a fruitful vine flourishing within your house, your sons like olive shoots sitting around your table.",
+    "reference": "Psalm 128:3 (BAB)",
+    "connected_to": "Psalm 128:4",
+    "connected_from": "Psalm 128:2"
+  },
+  {
+    "text": "In this way indeed shall blessing come to the man who fears the LORD {YHWH}.",
+    "reference": "Psalm 128:4 (BAB)",
+    "connected_to": "Psalm 128:5",
+    "connected_from": "Psalm 128:3"
+  },
+  {
+    "text": "May the LORD {YHWH} bless you from Zion, that you may see the prosperity of Jerusalem (city of peace) all the days of your life,",
+    "reference": "Psalm 128:5 (BAB)",
+    "connected_to": "Psalm 128:6",
+    "connected_from": "Psalm 128:4"
+  },
+  {
+    "text": "that you may see your children’s children. Peace be upon Israel (he wrestles with God)!",
+    "reference": "Psalm 128:6 (BAB)",
+    "connected_from": "Psalm 128:5"
+  }
+]

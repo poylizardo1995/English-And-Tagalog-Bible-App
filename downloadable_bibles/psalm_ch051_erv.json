@@ -1,0 +1,114 @@
+[
+  {
+    "text": "For the Chief Musician. A psalm of David: when Nathan the prophet came unto him, after he had gone in to Bath-sheba. Have mercy upon me, O God, according to thy lovingkindness; according to the multitude of thy tender mercies blot out my transgressions.",
+    "reference": "Psalm 51:1 (ERV)",
+    "connected_to": "Psalm 51:2"
+  },
+  {
+    "text": "Wash me throughly from mine iniquity, and cleanse me from my sin.",
+    "reference": "Psalm 51:2 (ERV)",
+    "connected_to": "Psalm 51:3",
+    "connected_from": "Psalm 51:1"
+  },
+  {
+    "text": "For I acknowledge my transgressions: and my sin is ever before me.",
+    "reference": "Psalm 51:3 (ERV)",
+    "connected_to": "Psalm 51:4",
+    "connected_from": "Psalm 51:2"
+  },
+  {
+    "text": "Against thee, thee only, have I sinned, and done that which is evil in thy sight: that thou mayest be justified when thou speakest, and be clear when thou judgest.",
+    "reference": "Psalm 51:4 (ERV)",
+    "connected_to": "Psalm 51:5",
+    "connected_from": "Psalm 51:3"
+  },
+  {
+    "text": "Behold, I was shapen in iniquity; and in sin did my mother conceive me.",
+    "reference": "Psalm 51:5 (ERV)",
+    "connected_to": "Psalm 51:6",
+    "connected_from": "Psalm 51:4"
+  },
+  {
+    "text": "Behold, thou desirest truth in the inward parts: and in the hidden part thou shalt make me to know wisdom.",
+    "reference": "Psalm 51:6 (ERV)",
+    "connected_to": "Psalm 51:7",
+    "connected_from": "Psalm 51:5"
+  },
+  {
+    "text": "Purge me with hyssop, and I shall be clean: wash me, and I shall be whiter than snow.",
+    "reference": "Psalm 51:7 (ERV)",
+    "connected_to": "Psalm 51:8",
+    "connected_from": "Psalm 51:6"
+  },
+  {
+    "text": "Make me to hear joy and gladness; that the bones which thou hast broken may rejoice.",
+    "reference": "Psalm 51:8 (ERV)",
+    "connected_to": "Psalm 51:9",
+    "connected_from": "Psalm 51:7"
+  },
+  {
+    "text": "Hide thy face from my sins, and blot out all mine iniquities.",
+    "reference": "Psalm 51:9 (ERV)",
+    "connected_to": "Psalm 51:10",
+    "connected_from": "Psalm 51:8"
+  },
+  {
+    "text": "Create in me a clean heart, O God; and renew a right spirit within me.",
+    "reference": "Psalm 51:10 (ERV)",
+    "connected_to": "Psalm 51:11",
+    "connected_from": "Psalm 51:9"
+  },
+  {
+    "text": "Cast me not away from thy presence; and take not thy holy spirit from me.",
+    "reference": "Psalm 51:11 (ERV)",
+    "connected_to": "Psalm 51:12",
+    "connected_from": "Psalm 51:10"
+  },
+  {
+    "text": "Restore unto me the joy of thy salvation: and uphold me with a free spirit.",
+    "reference": "Psalm 51:12 (ERV)",
+    "connected_to": "Psalm 51:13",
+    "connected_from": "Psalm 51:11"
+  },
+  {
+    "text": "Then will I teach transgressors thy ways; and sinners shall be converted unto thee.",
+    "reference": "Psalm 51:13 (ERV)",
+    "connected_to": "Psalm 51:14",
+    "connected_from": "Psalm 51:12"
+  },
+  {
+    "text": "Deliver me from bloodguiltiness, O God, thou God of my salvation; and my tongue shall sing aloud of thy righteousness.",
+    "reference": "Psalm 51:14 (ERV)",
+    "connected_to": "Psalm 51:15",
+    "connected_from": "Psalm 51:13"
+  },
+  {
+    "text": "O Lord, open thou my lips; and my mouth shall shew forth thy praise.",
+    "reference": "Psalm 51:15 (ERV)",
+    "connected_to": "Psalm 51:16",
+    "connected_from": "Psalm 51:14"
+  },
+  {
+    "text": "For thou delightest not in sacrifice; else would I give it: thou hast no pleasure in burnt offering.",
+    "reference": "Psalm 51:16 (ERV)",
+    "connected_to": "Psalm 51:17",
+    "connected_from": "Psalm 51:15"
+  },
+  {
+    "text": "The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, thou wilt not despise.",
+    "reference": "Psalm 51:17 (ERV)",
+    "connected_to": "Psalm 51:18",
+    "connected_from": "Psalm 51:16"
+  },
+  {
+    "text": "Do good in thy good pleasure unto Zion: build thou the walls of Jerusalem.",
+    "reference": "Psalm 51:18 (ERV)",
+    "connected_to": "Psalm 51:19",
+    "connected_from": "Psalm 51:17"
+  },
+  {
+    "text": "Then shalt thou delight in the sacrifices of righteousness, in burnt offering and whole burnt offering: then shall they offer bullocks upon thine altar.",
+    "reference": "Psalm 51:19 (ERV)",
+    "connected_from": "Psalm 51:18"
+  }
+]

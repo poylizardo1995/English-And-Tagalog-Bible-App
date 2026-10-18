@@ -1,0 +1,66 @@
+[
+  {
+    "text": "Jonah, however (dove), was greatly displeased, and he became angry.",
+    "reference": "Jonah 4:1 (BAB)",
+    "connected_to": "Jonah 4:2"
+  },
+  {
+    "text": "So he prayed to the LORD {YHWH}, saying, “O LORD, is this not what I said while I was still in my own country? This is why I was so quick to flee toward Tarshish (yellow jasper). I knew that You are a gracious and compassionate God, slow to anger, abounding in loving devotion—One who relents from sending disaster.",
+    "reference": "Jonah 4:2 (BAB)",
+    "connected_to": "Jonah 4:3",
+    "connected_from": "Jonah 4:1"
+  },
+  {
+    "text": "And now, O LORD {YHWH}, please take my life from me, for it is better for me to die than to live.”",
+    "reference": "Jonah 4:3 (BAB)",
+    "connected_to": "Jonah 4:4",
+    "connected_from": "Jonah 4:2"
+  },
+  {
+    "text": "But the LORD {YHWH} replied, “Have you any right to be angry?”",
+    "reference": "Jonah 4:4 (BAB)",
+    "connected_to": "Jonah 4:5",
+    "connected_from": "Jonah 4:3"
+  },
+  {
+    "text": "Then Jonah (dove) left the city and sat down east of it, where he made himself a shelter and sat in its shade to see what would happen to the city.",
+    "reference": "Jonah 4:5 (BAB)",
+    "connected_to": "Jonah 4:6",
+    "connected_from": "Jonah 4:4"
+  },
+  {
+    "text": "So the LORD God {YHWH Elohim} appointed a vine {qiqayon}, and it grew up to provide shade over Jonah’s (dove) head to ease his discomfort, and Jonah was greatly pleased with the plant.",
+    "reference": "Jonah 4:6 (BAB)",
+    "connected_to": "Jonah 4:7",
+    "connected_from": "Jonah 4:5"
+  },
+  {
+    "text": "When dawn came the next day, God {Elohim} appointed a worm that attacked the plant so that it withered.",
+    "reference": "Jonah 4:7 (BAB)",
+    "connected_to": "Jonah 4:8",
+    "connected_from": "Jonah 4:6"
+  },
+  {
+    "text": "As the sun was rising, God {Elohim} appointed a scorching east wind {ruach}, and the sun beat down on Jonah’s (dove) head so that he grew faint and wished to die, saying, “It is better for me to die than to live.”",
+    "reference": "Jonah 4:8 (BAB)",
+    "connected_to": "Jonah 4:9",
+    "connected_from": "Jonah 4:7"
+  },
+  {
+    "text": "Then God {Elohim} asked Jonah (dove), “Have you any right to be angry about the plant?” “I do,” he replied. “I am angry enough to die!”",
+    "reference": "Jonah 4:9 (BAB)",
+    "connected_to": "Jonah 4:10",
+    "connected_from": "Jonah 4:8"
+  },
+  {
+    "text": "But the LORD {YHWH} said, “You cared about the plant, which you neither tended nor made grow. It sprang up in a night and perished in a night.",
+    "reference": "Jonah 4:10 (BAB)",
+    "connected_to": "Jonah 4:11",
+    "connected_from": "Jonah 4:9"
+  },
+  {
+    "text": "So should I not care about the great city of Nineveh (abode of Ninus), which has more than 120,000 people who cannot tell their right hand from their left, and many cattle as well?”",
+    "reference": "Jonah 4:11 (BAB)",
+    "connected_from": "Jonah 4:10"
+  }
+]

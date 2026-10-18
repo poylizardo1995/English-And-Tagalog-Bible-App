@@ -1,0 +1,240 @@
+[
+  {
+    "text": "When Jesus had spoken these words, he went forth with his disciples over the brook Kidron, where was a garden, into which he entered, himself and his disciples.",
+    "reference": "John 18:1 (ASV)",
+    "connected_to": "John 18:2"
+  },
+  {
+    "text": "Now Judas also, who betrayed him, knew the place: for Jesus oft-times resorted thither with his disciples.",
+    "reference": "John 18:2 (ASV)",
+    "connected_to": "John 18:3",
+    "connected_from": "John 18:1"
+  },
+  {
+    "text": "Judas then, having received the band of soldiers, and officers from the chief priests and the Pharisees, cometh thither with lanterns and torches and weapons.",
+    "reference": "John 18:3 (ASV)",
+    "connected_to": "John 18:4",
+    "connected_from": "John 18:2"
+  },
+  {
+    "text": "Jesus therefore, knowing all the things that were coming upon him, went forth, and saith unto them, Whom seek ye?",
+    "reference": "John 18:4 (ASV)",
+    "connected_to": "John 18:5",
+    "connected_from": "John 18:3"
+  },
+  {
+    "text": "They answered him, Jesus of Nazareth. Jesus saith unto them, I am he. And Judas also, who betrayed him, was standing with them.",
+    "reference": "John 18:5 (ASV)",
+    "connected_to": "John 18:6",
+    "connected_from": "John 18:4"
+  },
+  {
+    "text": "When therefore he said unto them, I am he, they went backward, and fell to the ground.",
+    "reference": "John 18:6 (ASV)",
+    "connected_to": "John 18:7",
+    "connected_from": "John 18:5"
+  },
+  {
+    "text": "Again therefore he asked them, Whom seek ye? And they said, Jesus of Nazareth.",
+    "reference": "John 18:7 (ASV)",
+    "connected_to": "John 18:8",
+    "connected_from": "John 18:6"
+  },
+  {
+    "text": "Jesus answered, I told you that I am he; if therefore ye seek me, let these go their way:",
+    "reference": "John 18:8 (ASV)",
+    "connected_to": "John 18:9",
+    "connected_from": "John 18:7"
+  },
+  {
+    "text": "that the word might be fulfilled which he spake, Of those whom thou hast given me I lost not one.",
+    "reference": "John 18:9 (ASV)",
+    "connected_to": "John 18:10",
+    "connected_from": "John 18:8"
+  },
+  {
+    "text": "Simon Peter therefore having a sword drew it, and struck the high priest’s servant, and cut off his right ear. Now the servant’s name was Malchus.",
+    "reference": "John 18:10 (ASV)",
+    "connected_to": "John 18:11",
+    "connected_from": "John 18:9"
+  },
+  {
+    "text": "Jesus therefore said unto Peter, Put up the sword into the sheath: the cup which the Father hath given me, shall I not drink it?",
+    "reference": "John 18:11 (ASV)",
+    "connected_to": "John 18:12",
+    "connected_from": "John 18:10"
+  },
+  {
+    "text": "So the band and the chief captain, and the officers of the Jews, seized Jesus and bound him,",
+    "reference": "John 18:12 (ASV)",
+    "connected_to": "John 18:13",
+    "connected_from": "John 18:11"
+  },
+  {
+    "text": "and led him to Annas first; for he was father in law to Caiaphas, who was high priest that year.",
+    "reference": "John 18:13 (ASV)",
+    "connected_to": "John 18:14",
+    "connected_from": "John 18:12"
+  },
+  {
+    "text": "Now Caiaphas was he that gave counsel to the Jews, that it was expedient that one man should die for the people.",
+    "reference": "John 18:14 (ASV)",
+    "connected_to": "John 18:15",
+    "connected_from": "John 18:13"
+  },
+  {
+    "text": "And Simon Peter followed Jesus, and so did another disciple. Now that disciple was known unto the high priest, and entered in with Jesus into the court of the high priest;",
+    "reference": "John 18:15 (ASV)",
+    "connected_to": "John 18:16",
+    "connected_from": "John 18:14"
+  },
+  {
+    "text": "but Peter was standing at the door without. So the other disciple, who was known unto the high priest, went out and spake unto her that kept the door, and brought in Peter.",
+    "reference": "John 18:16 (ASV)",
+    "connected_to": "John 18:17",
+    "connected_from": "John 18:15"
+  },
+  {
+    "text": "The maid therefore that kept the door saith unto Peter, Art thou also one of this man’s disciples? He saith, I am not.",
+    "reference": "John 18:17 (ASV)",
+    "connected_to": "John 18:18",
+    "connected_from": "John 18:16"
+  },
+  {
+    "text": "Now the servants and the officers were standing there, having made a fire of coals; for it was cold; and they were warming themselves: and Peter also was with them, standing and warming himself.",
+    "reference": "John 18:18 (ASV)",
+    "connected_to": "John 18:19",
+    "connected_from": "John 18:17"
+  },
+  {
+    "text": "The high priest therefore asked Jesus of his disciples, and of his teaching.",
+    "reference": "John 18:19 (ASV)",
+    "connected_to": "John 18:20",
+    "connected_from": "John 18:18"
+  },
+  {
+    "text": "Jesus answered him, I have spoken openly to the world; I ever taught in synagogues, and in the temple, where all the Jews come together; and in secret spake I nothing.",
+    "reference": "John 18:20 (ASV)",
+    "connected_to": "John 18:21",
+    "connected_from": "John 18:19"
+  },
+  {
+    "text": "Why askest thou me? ask them that have heard me, what I spake unto them: behold, these know the things which I said.",
+    "reference": "John 18:21 (ASV)",
+    "connected_to": "John 18:22",
+    "connected_from": "John 18:20"
+  },
+  {
+    "text": "And when he had said this, one of the officers standing by struck Jesus with his hand, saying, Answerest thou the high priest so?",
+    "reference": "John 18:22 (ASV)",
+    "connected_to": "John 18:23",
+    "connected_from": "John 18:21"
+  },
+  {
+    "text": "Jesus answered him, If I have spoken evil, bear witness of the evil: but if well, why smitest thou me?",
+    "reference": "John 18:23 (ASV)",
+    "connected_to": "John 18:24",
+    "connected_from": "John 18:22"
+  },
+  {
+    "text": "Annas therefore sent him bound unto Caiaphas the high priest.",
+    "reference": "John 18:24 (ASV)",
+    "connected_to": "John 18:25",
+    "connected_from": "John 18:23"
+  },
+  {
+    "text": "Now Simon Peter was standing and warming himself. They said therefore unto him, Art thou also one of his disciples? He denied, and said, I am not.",
+    "reference": "John 18:25 (ASV)",
+    "connected_to": "John 18:26",
+    "connected_from": "John 18:24"
+  },
+  {
+    "text": "One of the servants of the high priest, being a kinsman of him whose ear Peter cut off, saith, Did not I see thee in the garden with him?",
+    "reference": "John 18:26 (ASV)",
+    "connected_to": "John 18:27",
+    "connected_from": "John 18:25"
+  },
+  {
+    "text": "Peter therefore denied again: and straightway the cock crew.",
+    "reference": "John 18:27 (ASV)",
+    "connected_to": "John 18:28",
+    "connected_from": "John 18:26"
+  },
+  {
+    "text": "They lead Jesus therefore from Caiaphas into the Prætorium: and it was early; and they themselves entered not into the Prætorium, that they might not be defiled, but might eat the passover.",
+    "reference": "John 18:28 (ASV)",
+    "connected_to": "John 18:29",
+    "connected_from": "John 18:27"
+  },
+  {
+    "text": "Pilate therefore went out unto them, and saith, What accusation bring ye against this man?",
+    "reference": "John 18:29 (ASV)",
+    "connected_to": "John 18:30",
+    "connected_from": "John 18:28"
+  },
+  {
+    "text": "They answered and said unto him, If this man were not an evildoer, we should not have delivered him up unto thee.",
+    "reference": "John 18:30 (ASV)",
+    "connected_to": "John 18:31",
+    "connected_from": "John 18:29"
+  },
+  {
+    "text": "Pilate therefore said unto them, Take him yourselves, and judge him according to your law. The Jews said unto him, It is not lawful for us to put any man to death:",
+    "reference": "John 18:31 (ASV)",
+    "connected_to": "John 18:32",
+    "connected_from": "John 18:30"
+  },
+  {
+    "text": "that the word of Jesus might be fulfilled, which he spake, signifying by what manner of death he should die.",
+    "reference": "John 18:32 (ASV)",
+    "connected_to": "John 18:33",
+    "connected_from": "John 18:31"
+  },
+  {
+    "text": "Pilate therefore entered again into the Prætorium, and called Jesus, and said unto him, Art thou the King of the Jews?",
+    "reference": "John 18:33 (ASV)",
+    "connected_to": "John 18:34",
+    "connected_from": "John 18:32"
+  },
+  {
+    "text": "Jesus answered, Sayest thou this of thyself, or did others tell it thee concerning me?",
+    "reference": "John 18:34 (ASV)",
+    "connected_to": "John 18:35",
+    "connected_from": "John 18:33"
+  },
+  {
+    "text": "Pilate answered, Am I a Jew? Thine own nation and the chief priests delivered thee unto me: what hast thou done?",
+    "reference": "John 18:35 (ASV)",
+    "connected_to": "John 18:36",
+    "connected_from": "John 18:34"
+  },
+  {
+    "text": "Jesus answered, My kingdom is not of this world: if my kingdom were of this world, then would my servants fight, that I should not be delivered to the Jews: but now is my kingdom not from hence.",
+    "reference": "John 18:36 (ASV)",
+    "connected_to": "John 18:37",
+    "connected_from": "John 18:35"
+  },
+  {
+    "text": "Pilate therefore said unto him, Art thou a king then? Jesus answered, Thou sayest that I am a king. To this end have I been born, and to this end am I come into the world, that I should bear witness unto the truth. Every one that is of the truth heareth my voice.",
+    "reference": "John 18:37 (ASV)",
+    "connected_to": "John 18:38",
+    "connected_from": "John 18:36"
+  },
+  {
+    "text": "Pilate saith unto him, What is truth?And when he had said this, he went out again unto the Jews, and saith unto them, I find no crime in him.",
+    "reference": "John 18:38 (ASV)",
+    "connected_to": "John 18:39",
+    "connected_from": "John 18:37"
+  },
+  {
+    "text": "But ye have a custom, that I should release unto you one at the passover: will ye therefore that I release unto you the King of the Jews?",
+    "reference": "John 18:39 (ASV)",
+    "connected_to": "John 18:40",
+    "connected_from": "John 18:38"
+  },
+  {
+    "text": "They cried out therefore again, saying, Not this man, but Barabbas. Now Barabbas was a robber.",
+    "reference": "John 18:40 (ASV)",
+    "connected_from": "John 18:39"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "text": "Unto the end, for Maeleth, understandings to David. The fool said in his hear t: There is no God. They are corrupted, and become abominable in iniquities: there is none that doth good.",
+    "reference": "Psalm 53:1 (DRB)",
+    "connected_to": "Psalm 53:2"
+  },
+  {
+    "text": "God looked down from heaven on the children of men: to see if there were any that did understand, or did seek God.",
+    "reference": "Psalm 53:2 (DRB)",
+    "connected_to": "Psalm 53:3",
+    "connected_from": "Psalm 53:1"
+  },
+  {
+    "text": "All have gone aside, they are become unprofitable together, there is none that doth good, no not one.",
+    "reference": "Psalm 53:3 (DRB)",
+    "connected_to": "Psalm 53:4",
+    "connected_from": "Psalm 53:2"
+  },
+  {
+    "text": "Shall not all the workers of iniquity know, who eat up my people as they eat bread?",
+    "reference": "Psalm 53:4 (DRB)",
+    "connected_to": "Psalm 53:5",
+    "connected_from": "Psalm 53:3"
+  },
+  {
+    "text": "They have not called upon God: there have they trembled for fear, where there was no fear. For God hath scattered the bones of them that please men: they have been confounded, because God hath despised them.",
+    "reference": "Psalm 53:5 (DRB)",
+    "connected_to": "Psalm 53:6",
+    "connected_from": "Psalm 53:4"
+  },
+  {
+    "text": "Who will give out of Sion the salvation of Israel? when God shall bring back the captivity of his people, Jacob shall rejoice, and Israel shall be glad. Unto the end, In verses, understanding for David. When the men of Ziph had come and said to Saul: Is not David hidden with us?",
+    "reference": "Psalm 53:6 (DRB)",
+    "connected_from": "Psalm 53:5"
+  }
+]

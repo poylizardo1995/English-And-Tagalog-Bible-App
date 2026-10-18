@@ -1,0 +1,90 @@
+[
+  {
+    "text": "Blessed be the Lord my God, who teacheth my hands to fight, and my fingers to war.",
+    "reference": "Psalm 144:1 (DRB)",
+    "connected_to": "Psalm 144:2"
+  },
+  {
+    "text": "My mercy, and my refuge: my support, and my deliverer: My protector, and I have hoped in him: who subdueth my people under me.",
+    "reference": "Psalm 144:2 (DRB)",
+    "connected_to": "Psalm 144:3",
+    "connected_from": "Psalm 144:1"
+  },
+  {
+    "text": "Lord, what is man, that thou art made known to him? or the son of man, that thou makest account of him?",
+    "reference": "Psalm 144:3 (DRB)",
+    "connected_to": "Psalm 144:4",
+    "connected_from": "Psalm 144:2"
+  },
+  {
+    "text": "Man is like to vanity: his days pass away like a shadow.",
+    "reference": "Psalm 144:4 (DRB)",
+    "connected_to": "Psalm 144:5",
+    "connected_from": "Psalm 144:3"
+  },
+  {
+    "text": "Lord, bow down thy heavens and descend: touch the mountains and they shall smoke.",
+    "reference": "Psalm 144:5 (DRB)",
+    "connected_to": "Psalm 144:6",
+    "connected_from": "Psalm 144:4"
+  },
+  {
+    "text": "Send forth lightning, and thou shalt scatter them: shoot out thy arrows, and thou shalt trouble them.",
+    "reference": "Psalm 144:6 (DRB)",
+    "connected_to": "Psalm 144:7",
+    "connected_from": "Psalm 144:5"
+  },
+  {
+    "text": "Put forth thy hand from on high, take me out, and deliver me from many waters: from the hand of strange children:",
+    "reference": "Psalm 144:7 (DRB)",
+    "connected_to": "Psalm 144:8",
+    "connected_from": "Psalm 144:6"
+  },
+  {
+    "text": "Whose mouth hath spoken vanity: and their right hand is the right hand of iniquity.",
+    "reference": "Psalm 144:8 (DRB)",
+    "connected_to": "Psalm 144:9",
+    "connected_from": "Psalm 144:7"
+  },
+  {
+    "text": "To thee, O God, I will sing a new canticle: on the psaltery and an instrument of ten strings I will sing praises to thee.",
+    "reference": "Psalm 144:9 (DRB)",
+    "connected_to": "Psalm 144:10",
+    "connected_from": "Psalm 144:8"
+  },
+  {
+    "text": "Who givest salvation to kings: who hast redeemed thy servant David from the malicious sword:",
+    "reference": "Psalm 144:10 (DRB)",
+    "connected_to": "Psalm 144:11",
+    "connected_from": "Psalm 144:9"
+  },
+  {
+    "text": "Deliver me, And rescue me out of the hand of strange children; whose mouth hath spoken vanity: and their right hand is the right hand of iniquity:",
+    "reference": "Psalm 144:11 (DRB)",
+    "connected_to": "Psalm 144:12",
+    "connected_from": "Psalm 144:10"
+  },
+  {
+    "text": "Whose sons are as new plants in their youth: Their daughters decked out, adorned round about after the similitude of a temple:",
+    "reference": "Psalm 144:12 (DRB)",
+    "connected_to": "Psalm 144:13",
+    "connected_from": "Psalm 144:11"
+  },
+  {
+    "text": "Their storehouses full, flowing out of this into that. Their sheep fruitful in young, abounding in their goings forth:",
+    "reference": "Psalm 144:13 (DRB)",
+    "connected_to": "Psalm 144:14",
+    "connected_from": "Psalm 144:12"
+  },
+  {
+    "text": "their oxen fat. There is no breach of wall, nor passage, nor crying out in their streets.",
+    "reference": "Psalm 144:14 (DRB)",
+    "connected_to": "Psalm 144:15",
+    "connected_from": "Psalm 144:13"
+  },
+  {
+    "text": "They have called the people happy, that hath these things: but happy is that people whose God is the Lord.",
+    "reference": "Psalm 144:15 (DRB)",
+    "connected_from": "Psalm 144:14"
+  }
+]

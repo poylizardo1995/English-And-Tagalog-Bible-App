@@ -1,0 +1,96 @@
+[
+  {
+    "text": "Hear you now what the LORD said; Arise, contend you before the mountains, and let the hills hear your voice.",
+    "reference": "Micah 6:1 (AKJV)",
+    "connected_to": "Micah 6:2"
+  },
+  {
+    "text": "Hear you, O mountains, the LORD’s controversy, and you strong foundations of the earth: for the LORD has a controversy with his people, and he will plead with Israel.",
+    "reference": "Micah 6:2 (AKJV)",
+    "connected_to": "Micah 6:3",
+    "connected_from": "Micah 6:1"
+  },
+  {
+    "text": "O my people, what have I done to you? and wherein have I wearied you? testify against me.",
+    "reference": "Micah 6:3 (AKJV)",
+    "connected_to": "Micah 6:4",
+    "connected_from": "Micah 6:2"
+  },
+  {
+    "text": "For I brought you up out of the land of Egypt, and redeemed you out of the house of servants; and I sent before you Moses, Aaron, and Miriam.",
+    "reference": "Micah 6:4 (AKJV)",
+    "connected_to": "Micah 6:5",
+    "connected_from": "Micah 6:3"
+  },
+  {
+    "text": "O my people, remember now what Balak king of Moab consulted, and what Balaam the son of Beor answered him from Shittim to Gilgal; that you may know the righteousness of the LORD.",
+    "reference": "Micah 6:5 (AKJV)",
+    "connected_to": "Micah 6:6",
+    "connected_from": "Micah 6:4"
+  },
+  {
+    "text": "With which shall I come before the LORD, and bow myself before the high God? shall I come before him with burnt offerings, with calves of a year old?",
+    "reference": "Micah 6:6 (AKJV)",
+    "connected_to": "Micah 6:7",
+    "connected_from": "Micah 6:5"
+  },
+  {
+    "text": "Will the LORD be pleased with thousands of rams, or with ten thousands of rivers of oil? shall I give my firstborn for my transgression, the fruit of my body for the sin of my soul?",
+    "reference": "Micah 6:7 (AKJV)",
+    "connected_to": "Micah 6:8",
+    "connected_from": "Micah 6:6"
+  },
+  {
+    "text": "He has showed you, O man, what is good; and what does the LORD require of you, but to do justly, and to love mercy, and to walk humbly with your God?",
+    "reference": "Micah 6:8 (AKJV)",
+    "connected_to": "Micah 6:9",
+    "connected_from": "Micah 6:7"
+  },
+  {
+    "text": "The LORD’s voice cries to the city, and the man of wisdom shall see your name: hear you the rod, and who has appointed it.",
+    "reference": "Micah 6:9 (AKJV)",
+    "connected_to": "Micah 6:10",
+    "connected_from": "Micah 6:8"
+  },
+  {
+    "text": "Are there yet the treasures of wickedness in the house of the wicked, and the scant measure that is abominable?",
+    "reference": "Micah 6:10 (AKJV)",
+    "connected_to": "Micah 6:11",
+    "connected_from": "Micah 6:9"
+  },
+  {
+    "text": "Shall I count them pure with the wicked balances, and with the bag of deceitful weights?",
+    "reference": "Micah 6:11 (AKJV)",
+    "connected_to": "Micah 6:12",
+    "connected_from": "Micah 6:10"
+  },
+  {
+    "text": "For the rich men thereof are full of violence, and the inhabitants thereof have spoken lies, and their tongue is deceitful in their mouth.",
+    "reference": "Micah 6:12 (AKJV)",
+    "connected_to": "Micah 6:13",
+    "connected_from": "Micah 6:11"
+  },
+  {
+    "text": "Therefore also will I make you sick in smiting you, in making you desolate because of your sins.",
+    "reference": "Micah 6:13 (AKJV)",
+    "connected_to": "Micah 6:14",
+    "connected_from": "Micah 6:12"
+  },
+  {
+    "text": "You shall eat, but not be satisfied; and your casting down shall be in the middle of you; and you shall take hold, but shall not deliver; and that which you deliver will I give up to the sword.",
+    "reference": "Micah 6:14 (AKJV)",
+    "connected_to": "Micah 6:15",
+    "connected_from": "Micah 6:13"
+  },
+  {
+    "text": "You shall sow, but you shall not reap; you shall tread the olives, but you shall not anoint you with oil; and sweet wine, but shall not drink wine.",
+    "reference": "Micah 6:15 (AKJV)",
+    "connected_to": "Micah 6:16",
+    "connected_from": "Micah 6:14"
+  },
+  {
+    "text": "For the statutes of Omri are kept, and all the works of the house of Ahab, and you walk in their counsels; that I should make you a desolation, and the inhabitants thereof an hissing: therefore you shall bear the reproach of my people.",
+    "reference": "Micah 6:16 (AKJV)",
+    "connected_from": "Micah 6:15"
+  }
+]

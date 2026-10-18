@@ -1,0 +1,150 @@
+[
+  {
+    "text": "The Genealogy of Jesus Christ, the son of David, the son of Abraham.",
+    "reference": "Matthew 1:1 (WNT)",
+    "connected_to": "Matthew 1:2"
+  },
+  {
+    "text": "Abraham was the father of Isaac; Isaac of Jacob; Jacob of Judah and his brothers.",
+    "reference": "Matthew 1:2 (WNT)",
+    "connected_to": "Matthew 1:3",
+    "connected_from": "Matthew 1:1"
+  },
+  {
+    "text": "Judah was the father (by Tamar)",
+    "reference": "Matthew 1:3 (WNT)",
+    "connected_to": "Matthew 1:4",
+    "connected_from": "Matthew 1:2"
+  },
+  {
+    "text": "Ram of Amminadab; Amminadab of Nahshon; Nahshon of Salmon;",
+    "reference": "Matthew 1:4 (WNT)",
+    "connected_to": "Matthew 1:5",
+    "connected_from": "Matthew 1:3"
+  },
+  {
+    "text": "Salmon (by Rahab)",
+    "reference": "Matthew 1:5 (WNT)",
+    "connected_to": "Matthew 1:6",
+    "connected_from": "Matthew 1:4"
+  },
+  {
+    "text": "Jesse of David—the King. David (by Uriah’s widow)",
+    "reference": "Matthew 1:6 (WNT)",
+    "connected_to": "Matthew 1:7",
+    "connected_from": "Matthew 1:5"
+  },
+  {
+    "text": "Solomon of Rehoboam; Rehoboam of Abijah; Abijah of Asa;",
+    "reference": "Matthew 1:7 (WNT)",
+    "connected_to": "Matthew 1:8",
+    "connected_from": "Matthew 1:6"
+  },
+  {
+    "text": "Asa of Jehoshaphat; Jehoshaphat of Jehoram; Jehoram of Uzziah;",
+    "reference": "Matthew 1:8 (WNT)",
+    "connected_to": "Matthew 1:9",
+    "connected_from": "Matthew 1:7"
+  },
+  {
+    "text": "Uzziah of Jotham; Jotham of Ahaz; Ahaz of Hezekiah;",
+    "reference": "Matthew 1:9 (WNT)",
+    "connected_to": "Matthew 1:10",
+    "connected_from": "Matthew 1:8"
+  },
+  {
+    "text": "Hezekiah of Manasseh; Manasseh of Amon; Amon of Josiah;",
+    "reference": "Matthew 1:10 (WNT)",
+    "connected_to": "Matthew 1:11",
+    "connected_from": "Matthew 1:9"
+  },
+  {
+    "text": "Josiah of Jeconiah and his brothers at the period of the Removal to Babylon.",
+    "reference": "Matthew 1:11 (WNT)",
+    "connected_to": "Matthew 1:12",
+    "connected_from": "Matthew 1:10"
+  },
+  {
+    "text": "After the Removal to Babylon Jeconiah had a son Shealtiel; Shealtiel was the father of Zerubbabel;",
+    "reference": "Matthew 1:12 (WNT)",
+    "connected_to": "Matthew 1:13",
+    "connected_from": "Matthew 1:11"
+  },
+  {
+    "text": "Zerubbabel of Abiud; Abiud of Eliakim; Eliakim of Azor;",
+    "reference": "Matthew 1:13 (WNT)",
+    "connected_to": "Matthew 1:14",
+    "connected_from": "Matthew 1:12"
+  },
+  {
+    "text": "Azor of Zadok; Zadok of Achim; Achim of Eliud;",
+    "reference": "Matthew 1:14 (WNT)",
+    "connected_to": "Matthew 1:15",
+    "connected_from": "Matthew 1:13"
+  },
+  {
+    "text": "Eliud of Eleazar; Eleazar of Matthan; Matthan of Jacob;",
+    "reference": "Matthew 1:15 (WNT)",
+    "connected_to": "Matthew 1:16",
+    "connected_from": "Matthew 1:14"
+  },
+  {
+    "text": "and Jacob of Joseph the husband of Mary, who was the mother of JESUS who is called CHRIST.",
+    "reference": "Matthew 1:16 (WNT)",
+    "connected_to": "Matthew 1:17",
+    "connected_from": "Matthew 1:15"
+  },
+  {
+    "text": "There are therefore, in all, fourteen generations from Abraham to David; fourteen from David to the Removal to Babylon; and fourteen from the Removal to Babylon to the Christ.",
+    "reference": "Matthew 1:17 (WNT)",
+    "connected_to": "Matthew 1:18",
+    "connected_from": "Matthew 1:16"
+  },
+  {
+    "text": "The circumstances of the birth of Jesus Christ were these. After his mother Mary was betrothed to Joseph, before they were united in marriage, she was found to be with child through the Holy Spirit.",
+    "reference": "Matthew 1:18 (WNT)",
+    "connected_to": "Matthew 1:19",
+    "connected_from": "Matthew 1:17"
+  },
+  {
+    "text": "But Joseph her husband, being a kind-hearted man and unwilling publicly to disgrace her, had determined to release her privately from the betrothal.",
+    "reference": "Matthew 1:19 (WNT)",
+    "connected_to": "Matthew 1:20",
+    "connected_from": "Matthew 1:18"
+  },
+  {
+    "text": "But while he was contemplating this step, an angel of the Lord appeared to him in a dream and said, “Joseph, son of David, do not be afraid to bring home your wife Mary, for she is with child through the Holy Spirit.",
+    "reference": "Matthew 1:20 (WNT)",
+    "connected_to": "Matthew 1:21",
+    "connected_from": "Matthew 1:19"
+  },
+  {
+    "text": "She will give birth to a Son, and you are to call His name JESUS for He it is who will save His People from their sins.”",
+    "reference": "Matthew 1:21 (WNT)",
+    "connected_to": "Matthew 1:22",
+    "connected_from": "Matthew 1:20"
+  },
+  {
+    "text": "All this took place in fulfilment of what the Lord had spoken through the Prophet,",
+    "reference": "Matthew 1:22 (WNT)",
+    "connected_to": "Matthew 1:23",
+    "connected_from": "Matthew 1:21"
+  },
+  {
+    "text": "“Mark! The maiden will be with child and will give birth to a son, and they will call His name Immanuel”—a word which signifies ‘God with us’.",
+    "reference": "Matthew 1:23 (WNT)",
+    "connected_to": "Matthew 1:24",
+    "connected_from": "Matthew 1:22"
+  },
+  {
+    "text": "When Joseph awoke, he did as the angel of the Lord had commanded, and brought home his wife,",
+    "reference": "Matthew 1:24 (WNT)",
+    "connected_to": "Matthew 1:25",
+    "connected_from": "Matthew 1:23"
+  },
+  {
+    "text": "but did not live with her until she had given birth to a son. The child’s name he called JESUS.",
+    "reference": "Matthew 1:25 (WNT)",
+    "connected_from": "Matthew 1:24"
+  }
+]

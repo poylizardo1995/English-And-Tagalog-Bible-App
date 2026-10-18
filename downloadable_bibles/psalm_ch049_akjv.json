@@ -1,0 +1,120 @@
+[
+  {
+    "text": "Hear this, all you people; give ear, all you inhabitants of the world:",
+    "reference": "Psalm 49:1 (AKJV)",
+    "connected_to": "Psalm 49:2"
+  },
+  {
+    "text": "Both low and high, rich and poor, together.",
+    "reference": "Psalm 49:2 (AKJV)",
+    "connected_to": "Psalm 49:3",
+    "connected_from": "Psalm 49:1"
+  },
+  {
+    "text": "My mouth shall speak of wisdom; and the meditation of my heart shall be of understanding.",
+    "reference": "Psalm 49:3 (AKJV)",
+    "connected_to": "Psalm 49:4",
+    "connected_from": "Psalm 49:2"
+  },
+  {
+    "text": "I will incline my ear to a parable: I will open my dark saying on the harp.",
+    "reference": "Psalm 49:4 (AKJV)",
+    "connected_to": "Psalm 49:5",
+    "connected_from": "Psalm 49:3"
+  },
+  {
+    "text": "Why should I fear in the days of evil, when the iniquity of my heels shall compass me about?",
+    "reference": "Psalm 49:5 (AKJV)",
+    "connected_to": "Psalm 49:6",
+    "connected_from": "Psalm 49:4"
+  },
+  {
+    "text": "They that trust in their wealth, and boast themselves in the multitude of their riches;",
+    "reference": "Psalm 49:6 (AKJV)",
+    "connected_to": "Psalm 49:7",
+    "connected_from": "Psalm 49:5"
+  },
+  {
+    "text": "None of them can by any means redeem his brother, nor give to God a ransom for him:",
+    "reference": "Psalm 49:7 (AKJV)",
+    "connected_to": "Psalm 49:8",
+    "connected_from": "Psalm 49:6"
+  },
+  {
+    "text": "(For the redemption of their soul is precious, and it ceases for ever:)",
+    "reference": "Psalm 49:8 (AKJV)",
+    "connected_to": "Psalm 49:9",
+    "connected_from": "Psalm 49:7"
+  },
+  {
+    "text": "That he should still live for ever, and not see corruption.",
+    "reference": "Psalm 49:9 (AKJV)",
+    "connected_to": "Psalm 49:10",
+    "connected_from": "Psalm 49:8"
+  },
+  {
+    "text": "For he sees that wise men die, likewise the fool and the brutish person perish, and leave their wealth to others.",
+    "reference": "Psalm 49:10 (AKJV)",
+    "connected_to": "Psalm 49:11",
+    "connected_from": "Psalm 49:9"
+  },
+  {
+    "text": "Their inward thought is, that their houses shall continue for ever, and their dwelling places to all generations; they call their lands after their own names.",
+    "reference": "Psalm 49:11 (AKJV)",
+    "connected_to": "Psalm 49:12",
+    "connected_from": "Psalm 49:10"
+  },
+  {
+    "text": "Nevertheless man being in honor stays not: he is like the beasts that perish.",
+    "reference": "Psalm 49:12 (AKJV)",
+    "connected_to": "Psalm 49:13",
+    "connected_from": "Psalm 49:11"
+  },
+  {
+    "text": "This their way is their folly: yet their posterity approve their sayings. Selah.",
+    "reference": "Psalm 49:13 (AKJV)",
+    "connected_to": "Psalm 49:14",
+    "connected_from": "Psalm 49:12"
+  },
+  {
+    "text": "Like sheep they are laid in the grave; death shall feed on them; and the upright shall have dominion over them in the morning; and their beauty shall consume in the grave from their dwelling.",
+    "reference": "Psalm 49:14 (AKJV)",
+    "connected_to": "Psalm 49:15",
+    "connected_from": "Psalm 49:13"
+  },
+  {
+    "text": "But God will redeem my soul from the power of the grave: for he shall receive me. Selah.",
+    "reference": "Psalm 49:15 (AKJV)",
+    "connected_to": "Psalm 49:16",
+    "connected_from": "Psalm 49:14"
+  },
+  {
+    "text": "Be not you afraid when one is made rich, when the glory of his house is increased;",
+    "reference": "Psalm 49:16 (AKJV)",
+    "connected_to": "Psalm 49:17",
+    "connected_from": "Psalm 49:15"
+  },
+  {
+    "text": "For when he dies he shall carry nothing away: his glory shall not descend after him.",
+    "reference": "Psalm 49:17 (AKJV)",
+    "connected_to": "Psalm 49:18",
+    "connected_from": "Psalm 49:16"
+  },
+  {
+    "text": "Though while he lived he blessed his soul: and men will praise you, when you do well to yourself.",
+    "reference": "Psalm 49:18 (AKJV)",
+    "connected_to": "Psalm 49:19",
+    "connected_from": "Psalm 49:17"
+  },
+  {
+    "text": "He shall go to the generation of his fathers; they shall never see light.",
+    "reference": "Psalm 49:19 (AKJV)",
+    "connected_to": "Psalm 49:20",
+    "connected_from": "Psalm 49:18"
+  },
+  {
+    "text": "Man that is in honor, and understands not, is like the beasts that perish.",
+    "reference": "Psalm 49:20 (AKJV)",
+    "connected_from": "Psalm 49:19"
+  }
+]

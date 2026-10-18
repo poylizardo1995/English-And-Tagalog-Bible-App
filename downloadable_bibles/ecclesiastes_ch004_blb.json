@@ -1,0 +1,96 @@
+[
+  {
+    "text": "And I turned, and I saw all the oppressions that are done under the sun, and behold, the tears of the oppressed, and no one [is] comforting to them—while from the hand of those oppressing them [is] strength, and no one [is] comforting to them.",
+    "reference": "Ecclesiastes 4:1 (BLB)",
+    "connected_to": "Ecclesiastes 4:2"
+  },
+  {
+    "text": "I—and I praised those who were dead, who already had died, above the living who are still alive;",
+    "reference": "Ecclesiastes 4:2 (BLB)",
+    "connected_to": "Ecclesiastes 4:3",
+    "connected_from": "Ecclesiastes 4:1"
+  },
+  {
+    "text": "and better than both [is] the one who has not yet been, who has not seen the evil work that is done under the sun!",
+    "reference": "Ecclesiastes 4:3 (BLB)",
+    "connected_to": "Ecclesiastes 4:4",
+    "connected_from": "Ecclesiastes 4:2"
+  },
+  {
+    "text": "I—and I have seen all the toil and every skillful deed, that it was the envy of each man from his neighbor. This also [is] vapor and a striving after the wind.",
+    "reference": "Ecclesiastes 4:4 (BLB)",
+    "connected_to": "Ecclesiastes 4:5",
+    "connected_from": "Ecclesiastes 4:3"
+  },
+  {
+    "text": "The fool is folding his hands and is eating his own flesh.",
+    "reference": "Ecclesiastes 4:5 (BLB)",
+    "connected_to": "Ecclesiastes 4:6",
+    "connected_from": "Ecclesiastes 4:4"
+  },
+  {
+    "text": "Better the fullness of palm [with] quietness than the fullness of two palms [with] toil and a striving after the wind.",
+    "reference": "Ecclesiastes 4:6 (BLB)",
+    "connected_to": "Ecclesiastes 4:7",
+    "connected_from": "Ecclesiastes 4:5"
+  },
+  {
+    "text": "And I turned, and I saw a vapor under the sun:",
+    "reference": "Ecclesiastes 4:7 (BLB)",
+    "connected_to": "Ecclesiastes 4:8",
+    "connected_from": "Ecclesiastes 4:6"
+  },
+  {
+    "text": "There is one, and there is not a second—there is not even a son or brother for him—and there is not end to all his toils; and his eye is not satisfied with wealth: “For whom [am] I toiling and depriving my soul of good?” This also [is] vapor, and it [is] a task of evil.",
+    "reference": "Ecclesiastes 4:8 (BLB)",
+    "connected_to": "Ecclesiastes 4:9",
+    "connected_from": "Ecclesiastes 4:7"
+  },
+  {
+    "text": "Two [are] better than the one, because there is for them a good wage for their toil;",
+    "reference": "Ecclesiastes 4:9 (BLB)",
+    "connected_to": "Ecclesiastes 4:10",
+    "connected_from": "Ecclesiastes 4:8"
+  },
+  {
+    "text": "for if they fall, the one raises up his companion—and woe to him, the one who falls, and there is not a second to raise him up!",
+    "reference": "Ecclesiastes 4:10 (BLB)",
+    "connected_to": "Ecclesiastes 4:11",
+    "connected_from": "Ecclesiastes 4:9"
+  },
+  {
+    "text": "Also, if two lie down, then there is warmth for them; but for one, how can he keep warm?",
+    "reference": "Ecclesiastes 4:11 (BLB)",
+    "connected_to": "Ecclesiastes 4:12",
+    "connected_from": "Ecclesiastes 4:10"
+  },
+  {
+    "text": "And though one may be overpowered, the two can stand against him; and a threefold cord cannot quickly be broken.",
+    "reference": "Ecclesiastes 4:12 (BLB)",
+    "connected_to": "Ecclesiastes 4:13",
+    "connected_from": "Ecclesiastes 4:11"
+  },
+  {
+    "text": "Better a youth poor and wise than a king old and foolish, who does not know to be warned anymore.",
+    "reference": "Ecclesiastes 4:13 (BLB)",
+    "connected_to": "Ecclesiastes 4:14",
+    "connected_from": "Ecclesiastes 4:12"
+  },
+  {
+    "text": "For from the house of bondage he came to be king, for even in his kingdom he was born poor.",
+    "reference": "Ecclesiastes 4:14 (BLB)",
+    "connected_to": "Ecclesiastes 4:15",
+    "connected_from": "Ecclesiastes 4:13"
+  },
+  {
+    "text": "I saw all the living who are walking under the sun, with the second youth who stands in his place.",
+    "reference": "Ecclesiastes 4:15 (BLB)",
+    "connected_to": "Ecclesiastes 4:16",
+    "connected_from": "Ecclesiastes 4:14"
+  },
+  {
+    "text": "[There is] no end to all the people, to all who were before their faces, yet those coming after will not rejoice in him. Surely this also [is] vapor and a striving after the wind.",
+    "reference": "Ecclesiastes 4:16 (BLB)",
+    "connected_from": "Ecclesiastes 4:15"
+  }
+]

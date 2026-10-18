@@ -1,0 +1,54 @@
+[
+  {
+    "text": "This is the burden (burden) against Moab (of his father): Ar (a city) in Moab is ruined, destroyed in a night! Kir (wall) in Moab is devastated, destroyed in a night!",
+    "reference": "Isaiah 15:1 (BAB)",
+    "connected_to": "Isaiah 15:2"
+  },
+  {
+    "text": "Dibon (wasting) goes up to its temple to weep at its high places. Moab (of his father) wails over Nebo (prophet), as well as over Medeba (water of rest). Every head is shaved, every beard is cut off.",
+    "reference": "Isaiah 15:2 (BAB)",
+    "connected_to": "Isaiah 15:3",
+    "connected_from": "Isaiah 15:1"
+  },
+  {
+    "text": "In its streets they wear sackcloth; on the rooftops and in the public squares they all wail, falling down weeping.",
+    "reference": "Isaiah 15:3 (BAB)",
+    "connected_to": "Isaiah 15:4",
+    "connected_from": "Isaiah 15:2"
+  },
+  {
+    "text": "Heshbon (stronghold) and Elealeh (God is ascending) cry out; their voices are heard as far as Jahaz (trodden down). Therefore the soldiers of Moab (of his father) cry out; their souls tremble within.",
+    "reference": "Isaiah 15:4 (BAB)",
+    "connected_to": "Isaiah 15:5",
+    "connected_from": "Isaiah 15:3"
+  },
+  {
+    "text": "My heart cries out over Moab (of his father); her fugitives flee as far as Zoar (insignificance), as far as Eglath-shelishiyah (Zoar, like a heifer three years of age.). With weeping they ascend the slope of Luhith (tablets); they lament their destruction on the road to Horonaim (two caves).",
+    "reference": "Isaiah 15:5 (BAB)",
+    "connected_to": "Isaiah 15:6",
+    "connected_from": "Isaiah 15:4"
+  },
+  {
+    "text": "The waters of Nimrim (pure) are dried up, and the grass is withered; the vegetation is gone, and the greenery is no more.",
+    "reference": "Isaiah 15:6 (BAB)",
+    "connected_to": "Isaiah 15:7",
+    "connected_from": "Isaiah 15:5"
+  },
+  {
+    "text": "So they carry their wealth and belongings over the Brook of the Willows (Poplars).",
+    "reference": "Isaiah 15:7 (BAB)",
+    "connected_to": "Isaiah 15:8",
+    "connected_from": "Isaiah 15:6"
+  },
+  {
+    "text": "For their outcry echoes to the border of Moab (of his father). Their wailing reaches Eglaim (double reservoir); it is heard in Beer-elim (well of God).",
+    "reference": "Isaiah 15:8 (BAB)",
+    "connected_to": "Isaiah 15:9",
+    "connected_from": "Isaiah 15:7"
+  },
+  {
+    "text": "The waters of Dimon [Dibon] are full of blood, but I will bring more upon Dimon (river bed / silence)—a lion upon the fugitives of Moab (of his father) and upon the remnant of the land.",
+    "reference": "Isaiah 15:9 (BAB)",
+    "connected_from": "Isaiah 15:8"
+  }
+]

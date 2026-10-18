@@ -1,0 +1,96 @@
+[
+  {
+    "text": "Then all the multitude of the children of Israel setting forward from the desert of Sin, by their mansions, according to the word of the Lord, encamped in Raphidim, where there was no water for the people to drink.",
+    "reference": "Exodus 17:1 (DRB)",
+    "connected_to": "Exodus 17:2"
+  },
+  {
+    "text": "And they chode with Moses, and said: Give us water, that we may drink. And Moses answered them: Why chide you with me? Wherefore do you tempt the Lord?",
+    "reference": "Exodus 17:2 (DRB)",
+    "connected_to": "Exodus 17:3",
+    "connected_from": "Exodus 17:1"
+  },
+  {
+    "text": "So the people were thirsty there for want of water, and murmured against Moses, saying: Why didst thou make us go forth out of Egypt, to kill us and our children, and our beasts with thirst?",
+    "reference": "Exodus 17:3 (DRB)",
+    "connected_to": "Exodus 17:4",
+    "connected_from": "Exodus 17:2"
+  },
+  {
+    "text": "And Moses cried to the Lord, saying: What shall I do to this people? Yet a little more and they will stone me.",
+    "reference": "Exodus 17:4 (DRB)",
+    "connected_to": "Exodus 17:5",
+    "connected_from": "Exodus 17:3"
+  },
+  {
+    "text": "And the Lord said to Moses: God before the people, and take with thee of the ancients of Israel: and take in thy hand the rod wherewith thou didst strike the river, and go.",
+    "reference": "Exodus 17:5 (DRB)",
+    "connected_to": "Exodus 17:6",
+    "connected_from": "Exodus 17:4"
+  },
+  {
+    "text": "Behold I will stand there before thee, upon the rock Horeb: and thou shalt strike the rock, and water shall come out of it that the people may drink. Moses did so before the ancients of Israel:",
+    "reference": "Exodus 17:6 (DRB)",
+    "connected_to": "Exodus 17:7",
+    "connected_from": "Exodus 17:5"
+  },
+  {
+    "text": "And he called the name of that place Temptation, because the chiding of the children of Israel, and for that they tempted the Lord, saying: Is the Lord amongst us or not?",
+    "reference": "Exodus 17:7 (DRB)",
+    "connected_to": "Exodus 17:8",
+    "connected_from": "Exodus 17:6"
+  },
+  {
+    "text": "And Amalec came, and fought against Israel in Raphidim.",
+    "reference": "Exodus 17:8 (DRB)",
+    "connected_to": "Exodus 17:9",
+    "connected_from": "Exodus 17:7"
+  },
+  {
+    "text": "And Moses said to Josue: Choose out men: and go out and fight against Amalec: to morrow I will stand on the top of the hill having the rod of God in my hand.",
+    "reference": "Exodus 17:9 (DRB)",
+    "connected_to": "Exodus 17:10",
+    "connected_from": "Exodus 17:8"
+  },
+  {
+    "text": "Josue did as Moses had spoken, and he fought against Amalec; but Moses, and Aaron, and Hur went up upon the top of the hill.",
+    "reference": "Exodus 17:10 (DRB)",
+    "connected_to": "Exodus 17:11",
+    "connected_from": "Exodus 17:9"
+  },
+  {
+    "text": "And when Moses lifted up his hands, Israel overcame: but if he let them down a little, Amalec overcame.",
+    "reference": "Exodus 17:11 (DRB)",
+    "connected_to": "Exodus 17:12",
+    "connected_from": "Exodus 17:10"
+  },
+  {
+    "text": "And Moses’ hands were heavy: so they took a stone, and put under him, and he sat on it: and Aaron and Hur stayed up his hands on both sides. And it came to pass that his hands were not weary until sunset.",
+    "reference": "Exodus 17:12 (DRB)",
+    "connected_to": "Exodus 17:13",
+    "connected_from": "Exodus 17:11"
+  },
+  {
+    "text": "And Josue put Amalec and his people to flight, by the edge of the sword.",
+    "reference": "Exodus 17:13 (DRB)",
+    "connected_to": "Exodus 17:14",
+    "connected_from": "Exodus 17:12"
+  },
+  {
+    "text": "And the Lord said to Moses: Write this for a memorial in a book, and deliver it to the ears of Josue: for I will destroy the memory of Amalec from under heaven.",
+    "reference": "Exodus 17:14 (DRB)",
+    "connected_to": "Exodus 17:15",
+    "connected_from": "Exodus 17:13"
+  },
+  {
+    "text": "And Moses built an altar: and called the name thereof, The Lord my exaltation, saying:",
+    "reference": "Exodus 17:15 (DRB)",
+    "connected_to": "Exodus 17:16",
+    "connected_from": "Exodus 17:14"
+  },
+  {
+    "text": "Because the hand of the throne of the Lord, and the war of the Lord shall be against Amalec, from generation to generation.",
+    "reference": "Exodus 17:16 (DRB)",
+    "connected_from": "Exodus 17:15"
+  }
+]

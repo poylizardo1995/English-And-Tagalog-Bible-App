@@ -1,0 +1,300 @@
+[
+  {
+    "text": "For the choirmaster. Of David the servant of the LORD, who sang this song to the LORD on the day the LORD had delivered him from the hand of all his enemies and from the hand of Saul. He said: I love You, O LORD, my strength.",
+    "reference": "Psalm 18:1 (BSB)",
+    "connected_to": "Psalm 18:2"
+  },
+  {
+    "text": "The LORD is my rock, my fortress, and my deliverer. My God is my rock, in whom I take refuge, my shield, and the horn of my salvation, my stronghold.",
+    "reference": "Psalm 18:2 (BSB)",
+    "connected_to": "Psalm 18:3",
+    "connected_from": "Psalm 18:1"
+  },
+  {
+    "text": "I will call upon the LORD, who is worthy to be praised; so shall I be saved from my enemies.",
+    "reference": "Psalm 18:3 (BSB)",
+    "connected_to": "Psalm 18:4",
+    "connected_from": "Psalm 18:2"
+  },
+  {
+    "text": "The cords of death encompassed me; the torrents of chaos overwhelmed me.",
+    "reference": "Psalm 18:4 (BSB)",
+    "connected_to": "Psalm 18:5",
+    "connected_from": "Psalm 18:3"
+  },
+  {
+    "text": "The cords of Sheol entangled me; the snares of death confronted me.",
+    "reference": "Psalm 18:5 (BSB)",
+    "connected_to": "Psalm 18:6",
+    "connected_from": "Psalm 18:4"
+  },
+  {
+    "text": "In my distress I called upon the LORD; I cried to my God for help. From His temple He heard my voice, and my cry for His help reached His ears.",
+    "reference": "Psalm 18:6 (BSB)",
+    "connected_to": "Psalm 18:7",
+    "connected_from": "Psalm 18:5"
+  },
+  {
+    "text": "Then the earth shook and quaked, and the foundations of the mountains trembled; they were shaken because He burned with anger.",
+    "reference": "Psalm 18:7 (BSB)",
+    "connected_to": "Psalm 18:8",
+    "connected_from": "Psalm 18:6"
+  },
+  {
+    "text": "Smoke rose from His nostrils, and consuming fire came from His mouth; glowing coals blazed forth.",
+    "reference": "Psalm 18:8 (BSB)",
+    "connected_to": "Psalm 18:9",
+    "connected_from": "Psalm 18:7"
+  },
+  {
+    "text": "He parted the heavens and came down with dark clouds beneath His feet.",
+    "reference": "Psalm 18:9 (BSB)",
+    "connected_to": "Psalm 18:10",
+    "connected_from": "Psalm 18:8"
+  },
+  {
+    "text": "He mounted a cherub and flew; He soared on the wings of the wind.",
+    "reference": "Psalm 18:10 (BSB)",
+    "connected_to": "Psalm 18:11",
+    "connected_from": "Psalm 18:9"
+  },
+  {
+    "text": "He made darkness His hiding place, and storm clouds a canopy around Him.",
+    "reference": "Psalm 18:11 (BSB)",
+    "connected_to": "Psalm 18:12",
+    "connected_from": "Psalm 18:10"
+  },
+  {
+    "text": "From the brightness of His presence His clouds advanced—hailstones and coals of fire.",
+    "reference": "Psalm 18:12 (BSB)",
+    "connected_to": "Psalm 18:13",
+    "connected_from": "Psalm 18:11"
+  },
+  {
+    "text": "The LORD thundered from heaven; the voice of the Most High resounded—hailstones and coals of fire.",
+    "reference": "Psalm 18:13 (BSB)",
+    "connected_to": "Psalm 18:14",
+    "connected_from": "Psalm 18:12"
+  },
+  {
+    "text": "He shot His arrows and scattered the foes; He hurled lightning and routed them.",
+    "reference": "Psalm 18:14 (BSB)",
+    "connected_to": "Psalm 18:15",
+    "connected_from": "Psalm 18:13"
+  },
+  {
+    "text": "The channels of the sea appeared, and the foundations of the world were exposed, at Your rebuke, O LORD, at the blast of the breath of Your nostrils.",
+    "reference": "Psalm 18:15 (BSB)",
+    "connected_to": "Psalm 18:16",
+    "connected_from": "Psalm 18:14"
+  },
+  {
+    "text": "He reached down from on high and took hold of me; He drew me out of deep waters.",
+    "reference": "Psalm 18:16 (BSB)",
+    "connected_to": "Psalm 18:17",
+    "connected_from": "Psalm 18:15"
+  },
+  {
+    "text": "He rescued me from my powerful enemy, from foes too mighty for me.",
+    "reference": "Psalm 18:17 (BSB)",
+    "connected_to": "Psalm 18:18",
+    "connected_from": "Psalm 18:16"
+  },
+  {
+    "text": "They confronted me in my day of calamity, but the LORD was my support.",
+    "reference": "Psalm 18:18 (BSB)",
+    "connected_to": "Psalm 18:19",
+    "connected_from": "Psalm 18:17"
+  },
+  {
+    "text": "He brought me out into the open; He rescued me because He delighted in me.",
+    "reference": "Psalm 18:19 (BSB)",
+    "connected_to": "Psalm 18:20",
+    "connected_from": "Psalm 18:18"
+  },
+  {
+    "text": "The LORD has rewarded me according to my righteousness; He has repaid me according to the cleanness of my hands.",
+    "reference": "Psalm 18:20 (BSB)",
+    "connected_to": "Psalm 18:21",
+    "connected_from": "Psalm 18:19"
+  },
+  {
+    "text": "For I have kept the ways of the LORD and have not wickedly departed from my God.",
+    "reference": "Psalm 18:21 (BSB)",
+    "connected_to": "Psalm 18:22",
+    "connected_from": "Psalm 18:20"
+  },
+  {
+    "text": "For all His ordinances are before me; I have not disregarded His statutes.",
+    "reference": "Psalm 18:22 (BSB)",
+    "connected_to": "Psalm 18:23",
+    "connected_from": "Psalm 18:21"
+  },
+  {
+    "text": "And I have been blameless before Him and kept myself from iniquity.",
+    "reference": "Psalm 18:23 (BSB)",
+    "connected_to": "Psalm 18:24",
+    "connected_from": "Psalm 18:22"
+  },
+  {
+    "text": "So the LORD has repaid me according to my righteousness, according to the cleanness of my hands in His sight.",
+    "reference": "Psalm 18:24 (BSB)",
+    "connected_to": "Psalm 18:25",
+    "connected_from": "Psalm 18:23"
+  },
+  {
+    "text": "To the faithful You show Yourself faithful, to the blameless You show Yourself blameless;",
+    "reference": "Psalm 18:25 (BSB)",
+    "connected_to": "Psalm 18:26",
+    "connected_from": "Psalm 18:24"
+  },
+  {
+    "text": "to the pure You show Yourself pure, but to the crooked You show Yourself shrewd.",
+    "reference": "Psalm 18:26 (BSB)",
+    "connected_to": "Psalm 18:27",
+    "connected_from": "Psalm 18:25"
+  },
+  {
+    "text": "For You save an afflicted people, but You humble those with haughty eyes.",
+    "reference": "Psalm 18:27 (BSB)",
+    "connected_to": "Psalm 18:28",
+    "connected_from": "Psalm 18:26"
+  },
+  {
+    "text": "For You, O LORD, light my lamp; my God lights up my darkness.",
+    "reference": "Psalm 18:28 (BSB)",
+    "connected_to": "Psalm 18:29",
+    "connected_from": "Psalm 18:27"
+  },
+  {
+    "text": "For in You I can charge an army, and with my God I can scale a wall.",
+    "reference": "Psalm 18:29 (BSB)",
+    "connected_to": "Psalm 18:30",
+    "connected_from": "Psalm 18:28"
+  },
+  {
+    "text": "As for God, His way is perfect; the word of the LORD is flawless. He is a shield to all who take refuge in Him.",
+    "reference": "Psalm 18:30 (BSB)",
+    "connected_to": "Psalm 18:31",
+    "connected_from": "Psalm 18:29"
+  },
+  {
+    "text": "For who is God besides the LORD? And who is the Rock except our God?",
+    "reference": "Psalm 18:31 (BSB)",
+    "connected_to": "Psalm 18:32",
+    "connected_from": "Psalm 18:30"
+  },
+  {
+    "text": "It is God who arms me with strength and makes my way clear.",
+    "reference": "Psalm 18:32 (BSB)",
+    "connected_to": "Psalm 18:33",
+    "connected_from": "Psalm 18:31"
+  },
+  {
+    "text": "He makes my feet like those of a deer and stations me upon the heights.",
+    "reference": "Psalm 18:33 (BSB)",
+    "connected_to": "Psalm 18:34",
+    "connected_from": "Psalm 18:32"
+  },
+  {
+    "text": "He trains my hands for battle; my arms can bend a bow of bronze.",
+    "reference": "Psalm 18:34 (BSB)",
+    "connected_to": "Psalm 18:35",
+    "connected_from": "Psalm 18:33"
+  },
+  {
+    "text": "You have given me Your shield of salvation; Your right hand upholds me, and Your gentleness exalts me.",
+    "reference": "Psalm 18:35 (BSB)",
+    "connected_to": "Psalm 18:36",
+    "connected_from": "Psalm 18:34"
+  },
+  {
+    "text": "You broaden the path beneath me so that my ankles do not give way.",
+    "reference": "Psalm 18:36 (BSB)",
+    "connected_to": "Psalm 18:37",
+    "connected_from": "Psalm 18:35"
+  },
+  {
+    "text": "I pursued my enemies and overtook them; I did not turn back until they were consumed.",
+    "reference": "Psalm 18:37 (BSB)",
+    "connected_to": "Psalm 18:38",
+    "connected_from": "Psalm 18:36"
+  },
+  {
+    "text": "I crushed them so they could not rise; they have fallen under my feet.",
+    "reference": "Psalm 18:38 (BSB)",
+    "connected_to": "Psalm 18:39",
+    "connected_from": "Psalm 18:37"
+  },
+  {
+    "text": "You have armed me with strength for battle; You have subdued my foes beneath me.",
+    "reference": "Psalm 18:39 (BSB)",
+    "connected_to": "Psalm 18:40",
+    "connected_from": "Psalm 18:38"
+  },
+  {
+    "text": "You have made my enemies retreat before me; I destroyed those who hated me.",
+    "reference": "Psalm 18:40 (BSB)",
+    "connected_to": "Psalm 18:41",
+    "connected_from": "Psalm 18:39"
+  },
+  {
+    "text": "They cried for help, but there was no one to save them—to the LORD, but He did not answer.",
+    "reference": "Psalm 18:41 (BSB)",
+    "connected_to": "Psalm 18:42",
+    "connected_from": "Psalm 18:40"
+  },
+  {
+    "text": "I ground them as dust in the face of the wind; I trampled them like mud in the streets.",
+    "reference": "Psalm 18:42 (BSB)",
+    "connected_to": "Psalm 18:43",
+    "connected_from": "Psalm 18:41"
+  },
+  {
+    "text": "You have delivered me from the strife of the people; You have made me the head of nations; a people I had not known shall serve me.",
+    "reference": "Psalm 18:43 (BSB)",
+    "connected_to": "Psalm 18:44",
+    "connected_from": "Psalm 18:42"
+  },
+  {
+    "text": "When they hear me, they obey me; foreigners cower before me.",
+    "reference": "Psalm 18:44 (BSB)",
+    "connected_to": "Psalm 18:45",
+    "connected_from": "Psalm 18:43"
+  },
+  {
+    "text": "Foreigners lose heart and come trembling from their strongholds.",
+    "reference": "Psalm 18:45 (BSB)",
+    "connected_to": "Psalm 18:46",
+    "connected_from": "Psalm 18:44"
+  },
+  {
+    "text": "The LORD lives, and blessed be my Rock! And may the God of my salvation be exalted—",
+    "reference": "Psalm 18:46 (BSB)",
+    "connected_to": "Psalm 18:47",
+    "connected_from": "Psalm 18:45"
+  },
+  {
+    "text": "the God who avenges me and subdues nations beneath me,",
+    "reference": "Psalm 18:47 (BSB)",
+    "connected_to": "Psalm 18:48",
+    "connected_from": "Psalm 18:46"
+  },
+  {
+    "text": "who delivers me from my enemies. You exalt me above my foes; You rescue me from violent men.",
+    "reference": "Psalm 18:48 (BSB)",
+    "connected_to": "Psalm 18:49",
+    "connected_from": "Psalm 18:47"
+  },
+  {
+    "text": "Therefore I will praise You, O LORD, among the nations; I will sing praises to Your name.",
+    "reference": "Psalm 18:49 (BSB)",
+    "connected_to": "Psalm 18:50",
+    "connected_from": "Psalm 18:48"
+  },
+  {
+    "text": "Great salvation He brings to His king. He shows loving devotion to His anointed, to David and his descendants forever.",
+    "reference": "Psalm 18:50 (BSB)",
+    "connected_from": "Psalm 18:49"
+  }
+]

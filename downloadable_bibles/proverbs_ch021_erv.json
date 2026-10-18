@@ -1,0 +1,186 @@
+[
+  {
+    "text": "The king’s heart is in the hand of the LORD as the watercourses: he turneth it whithersoever he will.",
+    "reference": "Proverbs 21:1 (ERV)",
+    "connected_to": "Proverbs 21:2"
+  },
+  {
+    "text": "Every way of a man is right in his own eyes: but the LORD weigheth the hearts.",
+    "reference": "Proverbs 21:2 (ERV)",
+    "connected_to": "Proverbs 21:3",
+    "connected_from": "Proverbs 21:1"
+  },
+  {
+    "text": "To do justice and judgment is more acceptable to the LORD than sacrifice.",
+    "reference": "Proverbs 21:3 (ERV)",
+    "connected_to": "Proverbs 21:4",
+    "connected_from": "Proverbs 21:2"
+  },
+  {
+    "text": "An high look, and a proud heart, even the lamp of the wicked, is sin.",
+    "reference": "Proverbs 21:4 (ERV)",
+    "connected_to": "Proverbs 21:5",
+    "connected_from": "Proverbs 21:3"
+  },
+  {
+    "text": "The thoughts of the diligent tend only to plenteousness: but every one that is hasty hasteth only to want.",
+    "reference": "Proverbs 21:5 (ERV)",
+    "connected_to": "Proverbs 21:6",
+    "connected_from": "Proverbs 21:4"
+  },
+  {
+    "text": "The getting of treasures by a lying tongue is a vapour driven to and fro; they that seek them seek death.",
+    "reference": "Proverbs 21:6 (ERV)",
+    "connected_to": "Proverbs 21:7",
+    "connected_from": "Proverbs 21:5"
+  },
+  {
+    "text": "The violence of the wicked shall sweep them away; because they refuse to do judgment.",
+    "reference": "Proverbs 21:7 (ERV)",
+    "connected_to": "Proverbs 21:8",
+    "connected_from": "Proverbs 21:6"
+  },
+  {
+    "text": "The way of him that is laden with guilt is exceeding crooked: but as for the pure, his work is right.",
+    "reference": "Proverbs 21:8 (ERV)",
+    "connected_to": "Proverbs 21:9",
+    "connected_from": "Proverbs 21:7"
+  },
+  {
+    "text": "It is better to dwell in the corner of the housetop, than with a contentious woman in a wide house.",
+    "reference": "Proverbs 21:9 (ERV)",
+    "connected_to": "Proverbs 21:10",
+    "connected_from": "Proverbs 21:8"
+  },
+  {
+    "text": "The soul of the wicked desireth evil: his neighbour findeth no favour in his eyes.",
+    "reference": "Proverbs 21:10 (ERV)",
+    "connected_to": "Proverbs 21:11",
+    "connected_from": "Proverbs 21:9"
+  },
+  {
+    "text": "When the scorner is punished, the simple is made wise: and when the wise is instructed, he receiveth knowledge.",
+    "reference": "Proverbs 21:11 (ERV)",
+    "connected_to": "Proverbs 21:12",
+    "connected_from": "Proverbs 21:10"
+  },
+  {
+    "text": "The righteous man considereth the house of the wicked; how the wicked are overthrown to their ruin.",
+    "reference": "Proverbs 21:12 (ERV)",
+    "connected_to": "Proverbs 21:13",
+    "connected_from": "Proverbs 21:11"
+  },
+  {
+    "text": "Whoso stoppeth his ears at the cry of the poor, he also shall cry, but shall not be heard.",
+    "reference": "Proverbs 21:13 (ERV)",
+    "connected_to": "Proverbs 21:14",
+    "connected_from": "Proverbs 21:12"
+  },
+  {
+    "text": "A gift in secret pacifieth anger, and a present in the bosom strong wrath.",
+    "reference": "Proverbs 21:14 (ERV)",
+    "connected_to": "Proverbs 21:15",
+    "connected_from": "Proverbs 21:13"
+  },
+  {
+    "text": "It is joy to the righteous to do judgment; but it is a destruction to the workers of iniquity.",
+    "reference": "Proverbs 21:15 (ERV)",
+    "connected_to": "Proverbs 21:16",
+    "connected_from": "Proverbs 21:14"
+  },
+  {
+    "text": "The man that wandereth out of the way of understanding shall rest in the congregation of the dead.",
+    "reference": "Proverbs 21:16 (ERV)",
+    "connected_to": "Proverbs 21:17",
+    "connected_from": "Proverbs 21:15"
+  },
+  {
+    "text": "He that loveth pleasure shall be a poor man: he that loveth wine and oil shall not be rich.",
+    "reference": "Proverbs 21:17 (ERV)",
+    "connected_to": "Proverbs 21:18",
+    "connected_from": "Proverbs 21:16"
+  },
+  {
+    "text": "The wicked is a ransom for the righteous; and the treacherous cometh in the stead of the upright.",
+    "reference": "Proverbs 21:18 (ERV)",
+    "connected_to": "Proverbs 21:19",
+    "connected_from": "Proverbs 21:17"
+  },
+  {
+    "text": "It is better to dwell in a desert land, than with a contentious and fretful woman.",
+    "reference": "Proverbs 21:19 (ERV)",
+    "connected_to": "Proverbs 21:20",
+    "connected_from": "Proverbs 21:18"
+  },
+  {
+    "text": "There is precious treasure and oil in the dwelling of the wise; but a foolish man swalloweth it up.",
+    "reference": "Proverbs 21:20 (ERV)",
+    "connected_to": "Proverbs 21:21",
+    "connected_from": "Proverbs 21:19"
+  },
+  {
+    "text": "He that followeth after righteousness and mercy findeth life, righteousness, and honour.",
+    "reference": "Proverbs 21:21 (ERV)",
+    "connected_to": "Proverbs 21:22",
+    "connected_from": "Proverbs 21:20"
+  },
+  {
+    "text": "A wise man scaleth the city of the mighty, and bringeth down the strength of the confidence thereof.",
+    "reference": "Proverbs 21:22 (ERV)",
+    "connected_to": "Proverbs 21:23",
+    "connected_from": "Proverbs 21:21"
+  },
+  {
+    "text": "Whoso keepeth his mouth and his tongue keepeth his soul from troubles.",
+    "reference": "Proverbs 21:23 (ERV)",
+    "connected_to": "Proverbs 21:24",
+    "connected_from": "Proverbs 21:22"
+  },
+  {
+    "text": "The proud and haughty man, scorner is his name, he worketh in the arrogance of pride.",
+    "reference": "Proverbs 21:24 (ERV)",
+    "connected_to": "Proverbs 21:25",
+    "connected_from": "Proverbs 21:23"
+  },
+  {
+    "text": "The desire of the slothful killeth him; for his hands refuse to labour.",
+    "reference": "Proverbs 21:25 (ERV)",
+    "connected_to": "Proverbs 21:26",
+    "connected_from": "Proverbs 21:24"
+  },
+  {
+    "text": "There is that coveteth greedily all the day long: but the righteous giveth and withholdeth not.",
+    "reference": "Proverbs 21:26 (ERV)",
+    "connected_to": "Proverbs 21:27",
+    "connected_from": "Proverbs 21:25"
+  },
+  {
+    "text": "The sacrifice of the wicked is an abomination: how much more, when he bringeth it with a wicked mind!",
+    "reference": "Proverbs 21:27 (ERV)",
+    "connected_to": "Proverbs 21:28",
+    "connected_from": "Proverbs 21:26"
+  },
+  {
+    "text": "A false witness shall perish: but the man that heareth shall speak unchallenged.",
+    "reference": "Proverbs 21:28 (ERV)",
+    "connected_to": "Proverbs 21:29",
+    "connected_from": "Proverbs 21:27"
+  },
+  {
+    "text": "A wicked man hardeneth his face: but as for the upright, he ordereth his ways.",
+    "reference": "Proverbs 21:29 (ERV)",
+    "connected_to": "Proverbs 21:30",
+    "connected_from": "Proverbs 21:28"
+  },
+  {
+    "text": "There is no wisdom nor understanding nor counsel against the LORD.",
+    "reference": "Proverbs 21:30 (ERV)",
+    "connected_to": "Proverbs 21:31",
+    "connected_from": "Proverbs 21:29"
+  },
+  {
+    "text": "The horse is prepared against the day of battle: but victory is of the LORD,",
+    "reference": "Proverbs 21:31 (ERV)",
+    "connected_from": "Proverbs 21:30"
+  }
+]

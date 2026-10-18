@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Why are the nations in tumultuous agitation, and [why] do the peoples meditate a vain thing?",
+    "reference": "Psalm 2:1 (DBT)",
+    "connected_to": "Psalm 2:2"
+  },
+  {
+    "text": "The kings of the earth set themselves, and the princes plot together, against Jehovah and against his anointed:",
+    "reference": "Psalm 2:2 (DBT)",
+    "connected_to": "Psalm 2:3",
+    "connected_from": "Psalm 2:1"
+  },
+  {
+    "text": "Let us break their bonds asunder, and cast away their cords from us!",
+    "reference": "Psalm 2:3 (DBT)",
+    "connected_to": "Psalm 2:4",
+    "connected_from": "Psalm 2:2"
+  },
+  {
+    "text": "He that dwelleth in the heavens shall laugh, the Lord shall have them in derision.",
+    "reference": "Psalm 2:4 (DBT)",
+    "connected_to": "Psalm 2:5",
+    "connected_from": "Psalm 2:3"
+  },
+  {
+    "text": "Then will he speak to them in his anger, and in his fierce displeasure will he terrify them:",
+    "reference": "Psalm 2:5 (DBT)",
+    "connected_to": "Psalm 2:6",
+    "connected_from": "Psalm 2:4"
+  },
+  {
+    "text": "And I have anointed my king upon Zion, the hill of my holiness.",
+    "reference": "Psalm 2:6 (DBT)",
+    "connected_to": "Psalm 2:7",
+    "connected_from": "Psalm 2:5"
+  },
+  {
+    "text": "I will declare the decree: Jehovah hath said unto me, Thou art my Son; I this day have begotten thee.",
+    "reference": "Psalm 2:7 (DBT)",
+    "connected_to": "Psalm 2:8",
+    "connected_from": "Psalm 2:6"
+  },
+  {
+    "text": "Ask of me, and I will give thee nations for an inheritance, and for thy possession the ends of the earth:",
+    "reference": "Psalm 2:8 (DBT)",
+    "connected_to": "Psalm 2:9",
+    "connected_from": "Psalm 2:7"
+  },
+  {
+    "text": "Thou shalt break them with a sceptre of iron, as a potter’s vessel thou shalt dash them in pieces.",
+    "reference": "Psalm 2:9 (DBT)",
+    "connected_to": "Psalm 2:10",
+    "connected_from": "Psalm 2:8"
+  },
+  {
+    "text": "And now, O kings, be ye wise, be admonished, ye judges of the earth.",
+    "reference": "Psalm 2:10 (DBT)",
+    "connected_to": "Psalm 2:11",
+    "connected_from": "Psalm 2:9"
+  },
+  {
+    "text": "Serve Jehovah with fear, and rejoice with trembling.",
+    "reference": "Psalm 2:11 (DBT)",
+    "connected_to": "Psalm 2:12",
+    "connected_from": "Psalm 2:10"
+  },
+  {
+    "text": "Kiss the Son, lest he be angry, and ye perish in the way, though his anger burn but a little. Blessed are all who have their trust in him.",
+    "reference": "Psalm 2:12 (DBT)",
+    "connected_from": "Psalm 2:11"
+  }
+]

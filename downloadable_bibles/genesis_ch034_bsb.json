@@ -1,0 +1,186 @@
+[
+  {
+    "text": "Now Dinah, the daughter Leah had borne to Jacob, went out to visit the daughters of the land.",
+    "reference": "Genesis 34:1 (BSB)",
+    "connected_to": "Genesis 34:2"
+  },
+  {
+    "text": "When Shechem son of Hamor the Hivite, the prince of the region, saw her, he took her and lay with her by force.",
+    "reference": "Genesis 34:2 (BSB)",
+    "connected_to": "Genesis 34:3",
+    "connected_from": "Genesis 34:1"
+  },
+  {
+    "text": "And his soul was drawn to Dinah, the daughter of Jacob. He loved the young girl and spoke to her tenderly.",
+    "reference": "Genesis 34:3 (BSB)",
+    "connected_to": "Genesis 34:4",
+    "connected_from": "Genesis 34:2"
+  },
+  {
+    "text": "So Shechem told his father Hamor, “Get me this girl as a wife.”",
+    "reference": "Genesis 34:4 (BSB)",
+    "connected_to": "Genesis 34:5",
+    "connected_from": "Genesis 34:3"
+  },
+  {
+    "text": "Jacob heard that Shechem had defiled his daughter Dinah, but since his sons were with his livestock in the field, he remained silent about it until they returned.",
+    "reference": "Genesis 34:5 (BSB)",
+    "connected_to": "Genesis 34:6",
+    "connected_from": "Genesis 34:4"
+  },
+  {
+    "text": "Meanwhile, Shechem’s father Hamor came to speak with Jacob.",
+    "reference": "Genesis 34:6 (BSB)",
+    "connected_to": "Genesis 34:7",
+    "connected_from": "Genesis 34:5"
+  },
+  {
+    "text": "When Jacob’s sons heard what had happened, they returned from the field. They were filled with grief and fury, because Shechem had committed an outrage in Israel by lying with Jacob’s daughter—a thing that should not be done.",
+    "reference": "Genesis 34:7 (BSB)",
+    "connected_to": "Genesis 34:8",
+    "connected_from": "Genesis 34:6"
+  },
+  {
+    "text": "But Hamor said to them, “My son Shechem longs for your daughter. Please give her to him as his wife.",
+    "reference": "Genesis 34:8 (BSB)",
+    "connected_to": "Genesis 34:9",
+    "connected_from": "Genesis 34:7"
+  },
+  {
+    "text": "Intermarry with us; give us your daughters and take our daughters for yourselves.",
+    "reference": "Genesis 34:9 (BSB)",
+    "connected_to": "Genesis 34:10",
+    "connected_from": "Genesis 34:8"
+  },
+  {
+    "text": "You may settle among us, and the land will be open to you. Live here, move about freely, and acquire your own property.”",
+    "reference": "Genesis 34:10 (BSB)",
+    "connected_to": "Genesis 34:11",
+    "connected_from": "Genesis 34:9"
+  },
+  {
+    "text": "Then Shechem said to Dinah’s father and brothers, “Grant me this favor, and I will give you whatever you ask.",
+    "reference": "Genesis 34:11 (BSB)",
+    "connected_to": "Genesis 34:12",
+    "connected_from": "Genesis 34:10"
+  },
+  {
+    "text": "Demand a high dowry and an expensive gift, and I will give you whatever you ask. Only give me the girl as my wife!”",
+    "reference": "Genesis 34:12 (BSB)",
+    "connected_to": "Genesis 34:13",
+    "connected_from": "Genesis 34:11"
+  },
+  {
+    "text": "But because Shechem had defiled their sister Dinah, Jacob’s sons answered him and his father Hamor deceitfully.",
+    "reference": "Genesis 34:13 (BSB)",
+    "connected_to": "Genesis 34:14",
+    "connected_from": "Genesis 34:12"
+  },
+  {
+    "text": "“We cannot do such a thing,” they said. “To give our sister to an uncircumcised man would be a disgrace to us.",
+    "reference": "Genesis 34:14 (BSB)",
+    "connected_to": "Genesis 34:15",
+    "connected_from": "Genesis 34:13"
+  },
+  {
+    "text": "We will consent to this on one condition, that you become circumcised like us—every one of your males.",
+    "reference": "Genesis 34:15 (BSB)",
+    "connected_to": "Genesis 34:16",
+    "connected_from": "Genesis 34:14"
+  },
+  {
+    "text": "Then we will give you our daughters and take your daughters for ourselves. We will dwell among you and become one people.",
+    "reference": "Genesis 34:16 (BSB)",
+    "connected_to": "Genesis 34:17",
+    "connected_from": "Genesis 34:15"
+  },
+  {
+    "text": "But if you will not agree to be circumcised, then we will take our sister and go.”",
+    "reference": "Genesis 34:17 (BSB)",
+    "connected_to": "Genesis 34:18",
+    "connected_from": "Genesis 34:16"
+  },
+  {
+    "text": "Their offer seemed good to Hamor and his son Shechem.",
+    "reference": "Genesis 34:18 (BSB)",
+    "connected_to": "Genesis 34:19",
+    "connected_from": "Genesis 34:17"
+  },
+  {
+    "text": "The young man, who was the most respected of all his father’s household, did not hesitate to fulfill this request, because he was delighted with Jacob’s daughter.",
+    "reference": "Genesis 34:19 (BSB)",
+    "connected_to": "Genesis 34:20",
+    "connected_from": "Genesis 34:18"
+  },
+  {
+    "text": "So Hamor and his son Shechem went to the gate of their city and addressed the men of their city:",
+    "reference": "Genesis 34:20 (BSB)",
+    "connected_to": "Genesis 34:21",
+    "connected_from": "Genesis 34:19"
+  },
+  {
+    "text": "“These men are at peace with us. Let them live and trade in our land; indeed, it is large enough for them. Let us take their daughters in marriage and give our daughters to them.",
+    "reference": "Genesis 34:21 (BSB)",
+    "connected_to": "Genesis 34:22",
+    "connected_from": "Genesis 34:20"
+  },
+  {
+    "text": "But only on this condition will the men agree to dwell with us and be one people: if all our men are circumcised as they are.",
+    "reference": "Genesis 34:22 (BSB)",
+    "connected_to": "Genesis 34:23",
+    "connected_from": "Genesis 34:21"
+  },
+  {
+    "text": "Will not their livestock, their possessions, and all their animals become ours? Only let us consent to them, and they will dwell among us.”",
+    "reference": "Genesis 34:23 (BSB)",
+    "connected_to": "Genesis 34:24",
+    "connected_from": "Genesis 34:22"
+  },
+  {
+    "text": "All the men who went out of the city gate listened to Hamor and his son Shechem, and every male of the city was circumcised.",
+    "reference": "Genesis 34:24 (BSB)",
+    "connected_to": "Genesis 34:25",
+    "connected_from": "Genesis 34:23"
+  },
+  {
+    "text": "Three days later, while they were still in pain, two of Jacob’s sons (Dinah’s brothers Simeon and Levi) took their swords, went into the unsuspecting city, and slaughtered every male.",
+    "reference": "Genesis 34:25 (BSB)",
+    "connected_to": "Genesis 34:26",
+    "connected_from": "Genesis 34:24"
+  },
+  {
+    "text": "They killed Hamor and his son Shechem with their swords, took Dinah out of Shechem’s house, and went away.",
+    "reference": "Genesis 34:26 (BSB)",
+    "connected_to": "Genesis 34:27",
+    "connected_from": "Genesis 34:25"
+  },
+  {
+    "text": "Jacob’s other sons came upon the slaughter and looted the city, because their sister had been defiled.",
+    "reference": "Genesis 34:27 (BSB)",
+    "connected_to": "Genesis 34:28",
+    "connected_from": "Genesis 34:26"
+  },
+  {
+    "text": "They took their flocks and herds and donkeys, and everything else in the city or in the field.",
+    "reference": "Genesis 34:28 (BSB)",
+    "connected_to": "Genesis 34:29",
+    "connected_from": "Genesis 34:27"
+  },
+  {
+    "text": "They carried off all their possessions and women and children, and they plundered everything in their houses.",
+    "reference": "Genesis 34:29 (BSB)",
+    "connected_to": "Genesis 34:30",
+    "connected_from": "Genesis 34:28"
+  },
+  {
+    "text": "Then Jacob said to Simeon and Levi, “You have brought trouble upon me by making me a stench to the Canaanites and Perizzites, the people of this land. We are few in number; if they unite against me and attack me, I and my household will be destroyed.”",
+    "reference": "Genesis 34:30 (BSB)",
+    "connected_to": "Genesis 34:31",
+    "connected_from": "Genesis 34:29"
+  },
+  {
+    "text": "But they replied, “Should he have treated our sister like a prostitute?”",
+    "reference": "Genesis 34:31 (BSB)",
+    "connected_from": "Genesis 34:30"
+  }
+]

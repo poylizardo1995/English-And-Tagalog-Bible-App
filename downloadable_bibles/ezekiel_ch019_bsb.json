@@ -1,0 +1,84 @@
+[
+  {
+    "text": "“As for you, take up a lament for the princes of Israel",
+    "reference": "Ezekiel 19:1 (BSB)",
+    "connected_to": "Ezekiel 19:2"
+  },
+  {
+    "text": "and say: ‘What was your mother? A lioness among the lions! She lay down among the young lions; she reared her cubs.",
+    "reference": "Ezekiel 19:2 (BSB)",
+    "connected_to": "Ezekiel 19:3",
+    "connected_from": "Ezekiel 19:1"
+  },
+  {
+    "text": "She brought up one of her cubs, and he became a young lion. After learning to tear his prey, he devoured men.",
+    "reference": "Ezekiel 19:3 (BSB)",
+    "connected_to": "Ezekiel 19:4",
+    "connected_from": "Ezekiel 19:2"
+  },
+  {
+    "text": "When the nations heard of him, he was trapped in their pit. With hooks they led him away to the land of Egypt.",
+    "reference": "Ezekiel 19:4 (BSB)",
+    "connected_to": "Ezekiel 19:5",
+    "connected_from": "Ezekiel 19:3"
+  },
+  {
+    "text": "When she saw that she had waited in vain, that her hope was lost, she took another of her cubs and made him a young lion.",
+    "reference": "Ezekiel 19:5 (BSB)",
+    "connected_to": "Ezekiel 19:6",
+    "connected_from": "Ezekiel 19:4"
+  },
+  {
+    "text": "He prowled among the lions, and became a young lion. After learning to tear his prey, he devoured men.",
+    "reference": "Ezekiel 19:6 (BSB)",
+    "connected_to": "Ezekiel 19:7",
+    "connected_from": "Ezekiel 19:5"
+  },
+  {
+    "text": "He broke down their strongholds and devastated their cities. The land and everything in it shuddered at the sound of his roaring.",
+    "reference": "Ezekiel 19:7 (BSB)",
+    "connected_to": "Ezekiel 19:8",
+    "connected_from": "Ezekiel 19:6"
+  },
+  {
+    "text": "Then the nations set out against him from the provinces on every side. They spread their net over him; he was trapped in their pit.",
+    "reference": "Ezekiel 19:8 (BSB)",
+    "connected_to": "Ezekiel 19:9",
+    "connected_from": "Ezekiel 19:7"
+  },
+  {
+    "text": "With hooks they caged him and brought him to the king of Babylon. They brought him into captivity so that his roar was heard no longer on the mountains of Israel.",
+    "reference": "Ezekiel 19:9 (BSB)",
+    "connected_to": "Ezekiel 19:10",
+    "connected_from": "Ezekiel 19:8"
+  },
+  {
+    "text": "Your mother was like a vine in your vineyard, planted by the water; it was fruitful and full of branches because of the abundant waters.",
+    "reference": "Ezekiel 19:10 (BSB)",
+    "connected_to": "Ezekiel 19:11",
+    "connected_from": "Ezekiel 19:9"
+  },
+  {
+    "text": "It had strong branches, fit for a ruler’s scepter. It towered high above the thick branches, conspicuous for its height and for its dense foliage.",
+    "reference": "Ezekiel 19:11 (BSB)",
+    "connected_to": "Ezekiel 19:12",
+    "connected_from": "Ezekiel 19:10"
+  },
+  {
+    "text": "But it was uprooted in fury, cast down to the ground, and the east wind dried up its fruit. Its strong branches were stripped off and they withered; the fire consumed them.",
+    "reference": "Ezekiel 19:12 (BSB)",
+    "connected_to": "Ezekiel 19:13",
+    "connected_from": "Ezekiel 19:11"
+  },
+  {
+    "text": "Now it is planted in the wilderness, in a dry and thirsty land.",
+    "reference": "Ezekiel 19:13 (BSB)",
+    "connected_to": "Ezekiel 19:14",
+    "connected_from": "Ezekiel 19:12"
+  },
+  {
+    "text": "Fire has gone out from its main branch and devoured its fruit; on it no strong branch remains fit for a ruler’s scepter.’ This is a lament and shall be used as a lament.”",
+    "reference": "Ezekiel 19:14 (BSB)",
+    "connected_from": "Ezekiel 19:13"
+  }
+]

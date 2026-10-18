@@ -1,0 +1,108 @@
+[
+  {
+    "text": "While Israel was staying in Shittim, the men began to indulge in sexual immorality with the daughters of Moab,",
+    "reference": "Numbers 25:1 (BSB)",
+    "connected_to": "Numbers 25:2"
+  },
+  {
+    "text": "who also invited them to the sacrifices for their gods. And the people ate and bowed down to these gods.",
+    "reference": "Numbers 25:2 (BSB)",
+    "connected_to": "Numbers 25:3",
+    "connected_from": "Numbers 25:1"
+  },
+  {
+    "text": "So Israel joined in worshiping Baal of Peor, and the anger of the LORD burned against them.",
+    "reference": "Numbers 25:3 (BSB)",
+    "connected_to": "Numbers 25:4",
+    "connected_from": "Numbers 25:2"
+  },
+  {
+    "text": "Then the LORD said to Moses, “Take all the leaders of the people and execute them in broad daylight before the LORD, so that His fierce anger may turn away from Israel.”",
+    "reference": "Numbers 25:4 (BSB)",
+    "connected_to": "Numbers 25:5",
+    "connected_from": "Numbers 25:3"
+  },
+  {
+    "text": "So Moses told the judges of Israel, “Each of you must kill all of his men who have joined in worshiping Baal of Peor.”",
+    "reference": "Numbers 25:5 (BSB)",
+    "connected_to": "Numbers 25:6",
+    "connected_from": "Numbers 25:4"
+  },
+  {
+    "text": "Just then an Israelite man brought to his family a Midianite woman in the sight of Moses and the whole congregation of Israel while they were weeping at the entrance to the Tent of Meeting.",
+    "reference": "Numbers 25:6 (BSB)",
+    "connected_to": "Numbers 25:7",
+    "connected_from": "Numbers 25:5"
+  },
+  {
+    "text": "On seeing this, Phinehas son of Eleazar, the son of Aaron the priest, got up from the assembly, took a spear in his hand,",
+    "reference": "Numbers 25:7 (BSB)",
+    "connected_to": "Numbers 25:8",
+    "connected_from": "Numbers 25:6"
+  },
+  {
+    "text": "followed the Israelite into the tent, and drove the spear through both of them—through the Israelite and on through the belly of the woman. So the plague against the Israelites was halted,",
+    "reference": "Numbers 25:8 (BSB)",
+    "connected_to": "Numbers 25:9",
+    "connected_from": "Numbers 25:7"
+  },
+  {
+    "text": "but those who died in the plague numbered 24,000.",
+    "reference": "Numbers 25:9 (BSB)",
+    "connected_to": "Numbers 25:10",
+    "connected_from": "Numbers 25:8"
+  },
+  {
+    "text": "Then the LORD said to Moses,",
+    "reference": "Numbers 25:10 (BSB)",
+    "connected_to": "Numbers 25:11",
+    "connected_from": "Numbers 25:9"
+  },
+  {
+    "text": "“Phinehas son of Eleazar, the son of Aaron the priest, has turned My wrath away from the Israelites; for he was zealous for My sake among them, so that I did not consume the Israelites in My zeal.",
+    "reference": "Numbers 25:11 (BSB)",
+    "connected_to": "Numbers 25:12",
+    "connected_from": "Numbers 25:10"
+  },
+  {
+    "text": "Declare, therefore, that I am granting him My covenant of peace.",
+    "reference": "Numbers 25:12 (BSB)",
+    "connected_to": "Numbers 25:13",
+    "connected_from": "Numbers 25:11"
+  },
+  {
+    "text": "It will be a covenant of permanent priesthood for him and his descendants, because he was zealous for his God and made atonement for the Israelites.”",
+    "reference": "Numbers 25:13 (BSB)",
+    "connected_to": "Numbers 25:14",
+    "connected_from": "Numbers 25:12"
+  },
+  {
+    "text": "The name of the Israelite who was slain with the Midianite woman was Zimri son of Salu, the leader of a Simeonite family.",
+    "reference": "Numbers 25:14 (BSB)",
+    "connected_to": "Numbers 25:15",
+    "connected_from": "Numbers 25:13"
+  },
+  {
+    "text": "And the name of the slain Midianite woman was Cozbi, the daughter of Zur, a tribal chief of a Midianite family.",
+    "reference": "Numbers 25:15 (BSB)",
+    "connected_to": "Numbers 25:16",
+    "connected_from": "Numbers 25:14"
+  },
+  {
+    "text": "And the LORD said to Moses,",
+    "reference": "Numbers 25:16 (BSB)",
+    "connected_to": "Numbers 25:17",
+    "connected_from": "Numbers 25:15"
+  },
+  {
+    "text": "“Attack the Midianites and strike them dead.",
+    "reference": "Numbers 25:17 (BSB)",
+    "connected_to": "Numbers 25:18",
+    "connected_from": "Numbers 25:16"
+  },
+  {
+    "text": "For they assailed you deceitfully when they seduced you in the matter of Peor and their sister Cozbi, the daughter of the Midianite leader, the woman who was killed on the day the plague came because of Peor.”",
+    "reference": "Numbers 25:18 (BSB)",
+    "connected_from": "Numbers 25:17"
+  }
+]

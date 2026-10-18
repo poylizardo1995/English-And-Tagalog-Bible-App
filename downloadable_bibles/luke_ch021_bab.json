@@ -1,0 +1,228 @@
+[
+  {
+    "text": "Then Jesus looked up and saw the rich putting their gifts into the treasury,",
+    "reference": "Luke 21:1 (BAB)",
+    "connected_to": "Luke 21:2"
+  },
+  {
+    "text": "and He saw a poor widow put in two small copper coins \\two lepta/.",
+    "reference": "Luke 21:2 (BAB)",
+    "connected_to": "Luke 21:3",
+    "connected_from": "Luke 21:1"
+  },
+  {
+    "text": "“Truly I tell you⁺, He said, “this poor widow has put in more than all the others.",
+    "reference": "Luke 21:3 (BAB)",
+    "connected_to": "Luke 21:4",
+    "connected_from": "Luke 21:2"
+  },
+  {
+    "text": "For they all contributed out of their surplus, but she out of her poverty has put in all she had to live on.",
+    "reference": "Luke 21:4 (BAB)",
+    "connected_to": "Luke 21:5",
+    "connected_from": "Luke 21:3"
+  },
+  {
+    "text": "As some of the disciples were remarking how the temple was adorned with beautiful stones and consecrated gifts, Jesus said,",
+    "reference": "Luke 21:5 (BAB)",
+    "connected_to": "Luke 21:6",
+    "connected_from": "Luke 21:4"
+  },
+  {
+    "text": "“As for what you⁺ see here, the time will come when not one stone will be left on another; every one will be thrown down.",
+    "reference": "Luke 21:6 (BAB)",
+    "connected_to": "Luke 21:7",
+    "connected_from": "Luke 21:5"
+  },
+  {
+    "text": "“Teacher {Didaskale}, they asked, “when will these things happen? And what will be the sign that they are about to take place?",
+    "reference": "Luke 21:7 (BAB)",
+    "connected_to": "Luke 21:8",
+    "connected_from": "Luke 21:6"
+  },
+  {
+    "text": "Jesus answered, “See to it that you⁺ are not deceived. For many will come in My name, claiming, ‘I am He, and, ‘The time is near. Do not follow them.",
+    "reference": "Luke 21:8 (BAB)",
+    "connected_to": "Luke 21:9",
+    "connected_from": "Luke 21:7"
+  },
+  {
+    "text": "When you⁺ hear of wars and rebellions, do not be alarmed. These things must happen first, but the end is not imminent.",
+    "reference": "Luke 21:9 (BAB)",
+    "connected_to": "Luke 21:10",
+    "connected_from": "Luke 21:8"
+  },
+  {
+    "text": "Then He told them, “Nation {ethnos} will rise against nation, and kingdom against kingdom.",
+    "reference": "Luke 21:10 (BAB)",
+    "connected_to": "Luke 21:11",
+    "connected_from": "Luke 21:9"
+  },
+  {
+    "text": "There will be great earthquakes, famines, and pestilences in various places, along with fearful sights and great signs from heaven.",
+    "reference": "Luke 21:11 (BAB)",
+    "connected_to": "Luke 21:12",
+    "connected_from": "Luke 21:10"
+  },
+  {
+    "text": "But before all this, they will seize you⁺ and persecute you. On account of My name they will deliver you to the synagogues and prisons, and they will bring you before kings and governors.",
+    "reference": "Luke 21:12 (BAB)",
+    "connected_to": "Luke 21:13",
+    "connected_from": "Luke 21:11"
+  },
+  {
+    "text": "This will be your⁺ opportunity to serve as witnesses.",
+    "reference": "Luke 21:13 (BAB)",
+    "connected_to": "Luke 21:14",
+    "connected_from": "Luke 21:12"
+  },
+  {
+    "text": "So make up your⁺ mind not to worry beforehand how to defend yourselves.",
+    "reference": "Luke 21:14 (BAB)",
+    "connected_to": "Luke 21:15",
+    "connected_from": "Luke 21:13"
+  },
+  {
+    "text": "For I will give you⁺ speech and wisdom that none of your⁺ adversaries will be able to resist or contradict.",
+    "reference": "Luke 21:15 (BAB)",
+    "connected_to": "Luke 21:16",
+    "connected_from": "Luke 21:14"
+  },
+  {
+    "text": "You⁺ will be betrayed even by parents and brothers and relatives and friends, and some of you⁺ will be put to death.",
+    "reference": "Luke 21:16 (BAB)",
+    "connected_to": "Luke 21:17",
+    "connected_from": "Luke 21:15"
+  },
+  {
+    "text": "And you⁺ will be hated by everyone because of My name.",
+    "reference": "Luke 21:17 (BAB)",
+    "connected_to": "Luke 21:18",
+    "connected_from": "Luke 21:16"
+  },
+  {
+    "text": "Yet not even a hair of your⁺ head will perish.",
+    "reference": "Luke 21:18 (BAB)",
+    "connected_to": "Luke 21:19",
+    "connected_from": "Luke 21:17"
+  },
+  {
+    "text": "By your⁺ patient endurance (perseverance) you⁺ will gain your⁺ souls {psychas}.",
+    "reference": "Luke 21:19 (BAB)",
+    "connected_to": "Luke 21:20",
+    "connected_from": "Luke 21:18"
+  },
+  {
+    "text": "But when you⁺ see Jerusalem (city of peace) surrounded by armies, you⁺ will know that her desolation is near.",
+    "reference": "Luke 21:20 (BAB)",
+    "connected_to": "Luke 21:21",
+    "connected_from": "Luke 21:19"
+  },
+  {
+    "text": "Then let those who are in Judea (land of praise) flee to the mountains, let those in the city get out, and let those in the country stay out of the city.",
+    "reference": "Luke 21:21 (BAB)",
+    "connected_to": "Luke 21:22",
+    "connected_from": "Luke 21:20"
+  },
+  {
+    "text": "For these are the days of vengeance, to fulfill all that is written.",
+    "reference": "Luke 21:22 (BAB)",
+    "connected_to": "Luke 21:23",
+    "connected_from": "Luke 21:21"
+  },
+  {
+    "text": "How miserable those days will be for pregnant and nursing mothers! For there will be great distress upon the land and wrath against this people.",
+    "reference": "Luke 21:23 (BAB)",
+    "connected_to": "Luke 21:24",
+    "connected_from": "Luke 21:22"
+  },
+  {
+    "text": "They will fall by the edge of the sword and be led captive into all the nations {ethnē}. And Jerusalem (city of peace) will be trodden down by the Gentiles {ethnōn}, until the times of the Gentiles are fulfilled.",
+    "reference": "Luke 21:24 (BAB)",
+    "connected_to": "Luke 21:25",
+    "connected_from": "Luke 21:23"
+  },
+  {
+    "text": "There will be signs in the sun and moon and stars, and on the earth dismay among the nations {ethnōn}, bewildered by the roaring of the sea and the surging of the waves.",
+    "reference": "Luke 21:25 (BAB)",
+    "connected_to": "Luke 21:26",
+    "connected_from": "Luke 21:24"
+  },
+  {
+    "text": "Men will faint from fear and anxiety over what is coming upon the earth, for the powers {dynameis} of the heavens will be shaken.",
+    "reference": "Luke 21:26 (BAB)",
+    "connected_to": "Luke 21:27",
+    "connected_from": "Luke 21:25"
+  },
+  {
+    "text": "At that time they will see the Son of Man coming in a cloud with power {dynameōs} and great glory <Dan 7:13–14>.",
+    "reference": "Luke 21:27 (BAB)",
+    "connected_to": "Luke 21:28",
+    "connected_from": "Luke 21:26"
+  },
+  {
+    "text": "When these things begin to happen, stand up and lift up your⁺ heads, because your⁺ redemption is drawing near.",
+    "reference": "Luke 21:28 (BAB)",
+    "connected_to": "Luke 21:29",
+    "connected_from": "Luke 21:27"
+  },
+  {
+    "text": "Then Jesus told them a parable: “Look at (behold) the fig tree and all the trees.",
+    "reference": "Luke 21:29 (BAB)",
+    "connected_to": "Luke 21:30",
+    "connected_from": "Luke 21:28"
+  },
+  {
+    "text": "When they sprout leaves, you⁺ can see for yourselves and know that summer is near.",
+    "reference": "Luke 21:30 (BAB)",
+    "connected_to": "Luke 21:31",
+    "connected_from": "Luke 21:29"
+  },
+  {
+    "text": "So also, when you⁺ see these things happening, know that the kingdom of God {Theou} is near.",
+    "reference": "Luke 21:31 (BAB)",
+    "connected_to": "Luke 21:32",
+    "connected_from": "Luke 21:30"
+  },
+  {
+    "text": "Truly I tell you⁺, this generation will not pass away until all these things have happened.",
+    "reference": "Luke 21:32 (BAB)",
+    "connected_to": "Luke 21:33",
+    "connected_from": "Luke 21:31"
+  },
+  {
+    "text": "Heaven and earth will pass away, but My words will never pass away.",
+    "reference": "Luke 21:33 (BAB)",
+    "connected_to": "Luke 21:34",
+    "connected_from": "Luke 21:32"
+  },
+  {
+    "text": "But watch yourselves, or your⁺ hearts will be weighed down by dissipation, drunkenness, and the worries of life—and that day will spring upon you⁺ suddenly like a snare.",
+    "reference": "Luke 21:34 (BAB)",
+    "connected_to": "Luke 21:35",
+    "connected_from": "Luke 21:33"
+  },
+  {
+    "text": "For it will come upon all who dwell on the face of all the earth.",
+    "reference": "Luke 21:35 (BAB)",
+    "connected_to": "Luke 21:36",
+    "connected_from": "Luke 21:34"
+  },
+  {
+    "text": "So keep watch at all times, and pray that you⁺ may have the strength to escape all that is about to happen and to stand before the Son of Man.",
+    "reference": "Luke 21:36 (BAB)",
+    "connected_to": "Luke 21:37",
+    "connected_from": "Luke 21:35"
+  },
+  {
+    "text": "Every day Jesus taught {didaskōn} at the temple, but every evening He went out to spend the night on the Mount of Olives.",
+    "reference": "Luke 21:37 (BAB)",
+    "connected_to": "Luke 21:38",
+    "connected_from": "Luke 21:36"
+  },
+  {
+    "text": "And early in the morning all the people would come to hear Him at the temple.",
+    "reference": "Luke 21:38 (BAB)",
+    "connected_from": "Luke 21:37"
+  }
+]

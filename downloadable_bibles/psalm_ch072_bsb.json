@@ -1,0 +1,120 @@
+[
+  {
+    "text": "Of Solomon. Endow the king with Your justice, O God, and the son of the king with Your righteousness.",
+    "reference": "Psalm 72:1 (BSB)",
+    "connected_to": "Psalm 72:2"
+  },
+  {
+    "text": "May he judge Your people with righteousness and Your afflicted with justice.",
+    "reference": "Psalm 72:2 (BSB)",
+    "connected_to": "Psalm 72:3",
+    "connected_from": "Psalm 72:1"
+  },
+  {
+    "text": "May the mountains bring peace to the people, and the hills bring righteousness.",
+    "reference": "Psalm 72:3 (BSB)",
+    "connected_to": "Psalm 72:4",
+    "connected_from": "Psalm 72:2"
+  },
+  {
+    "text": "May he vindicate the afflicted among the people; may he save the children of the needy and crush the oppressor.",
+    "reference": "Psalm 72:4 (BSB)",
+    "connected_to": "Psalm 72:5",
+    "connected_from": "Psalm 72:3"
+  },
+  {
+    "text": "May they fear him as long as the sun shines, as long as the moon remains, through all generations.",
+    "reference": "Psalm 72:5 (BSB)",
+    "connected_to": "Psalm 72:6",
+    "connected_from": "Psalm 72:4"
+  },
+  {
+    "text": "May he be like rain that falls on freshly cut grass, like spring showers that water the earth.",
+    "reference": "Psalm 72:6 (BSB)",
+    "connected_to": "Psalm 72:7",
+    "connected_from": "Psalm 72:5"
+  },
+  {
+    "text": "May the righteous flourish in his days and prosperity abound until the moon is no more.",
+    "reference": "Psalm 72:7 (BSB)",
+    "connected_to": "Psalm 72:8",
+    "connected_from": "Psalm 72:6"
+  },
+  {
+    "text": "May he rule from sea to sea, and from the Euphrates to the ends of the earth.",
+    "reference": "Psalm 72:8 (BSB)",
+    "connected_to": "Psalm 72:9",
+    "connected_from": "Psalm 72:7"
+  },
+  {
+    "text": "May the nomads bow before him, and his enemies lick the dust.",
+    "reference": "Psalm 72:9 (BSB)",
+    "connected_to": "Psalm 72:10",
+    "connected_from": "Psalm 72:8"
+  },
+  {
+    "text": "May the kings of Tarshish and distant shores bring tribute; may the kings of Sheba and Seba offer gifts.",
+    "reference": "Psalm 72:10 (BSB)",
+    "connected_to": "Psalm 72:11",
+    "connected_from": "Psalm 72:9"
+  },
+  {
+    "text": "May all kings bow down to him and all nations serve him.",
+    "reference": "Psalm 72:11 (BSB)",
+    "connected_to": "Psalm 72:12",
+    "connected_from": "Psalm 72:10"
+  },
+  {
+    "text": "For he will deliver the needy who cry out and the afflicted who have no helper.",
+    "reference": "Psalm 72:12 (BSB)",
+    "connected_to": "Psalm 72:13",
+    "connected_from": "Psalm 72:11"
+  },
+  {
+    "text": "He will take pity on the poor and needy and save the lives of the oppressed.",
+    "reference": "Psalm 72:13 (BSB)",
+    "connected_to": "Psalm 72:14",
+    "connected_from": "Psalm 72:12"
+  },
+  {
+    "text": "He will redeem them from oppression and violence, for their blood is precious in his sight.",
+    "reference": "Psalm 72:14 (BSB)",
+    "connected_to": "Psalm 72:15",
+    "connected_from": "Psalm 72:13"
+  },
+  {
+    "text": "Long may he live! May gold from Sheba be given him. May people ever pray for him; may they bless him all day long.",
+    "reference": "Psalm 72:15 (BSB)",
+    "connected_to": "Psalm 72:16",
+    "connected_from": "Psalm 72:14"
+  },
+  {
+    "text": "May there be an abundance of grain in the land; may it sway atop the hills. May its fruit trees flourish like the forests of Lebanon, the people of its cities like the grass of the field.",
+    "reference": "Psalm 72:16 (BSB)",
+    "connected_to": "Psalm 72:17",
+    "connected_from": "Psalm 72:15"
+  },
+  {
+    "text": "May his name endure forever; may his name continue as long as the sun shines. In him may all nations be blessed; may they call him blessed.",
+    "reference": "Psalm 72:17 (BSB)",
+    "connected_to": "Psalm 72:18",
+    "connected_from": "Psalm 72:16"
+  },
+  {
+    "text": "Blessed be the LORD God, the God of Israel, who alone does marvelous deeds.",
+    "reference": "Psalm 72:18 (BSB)",
+    "connected_to": "Psalm 72:19",
+    "connected_from": "Psalm 72:17"
+  },
+  {
+    "text": "And blessed be His glorious name forever; may all the earth be filled with His glory. Amen and amen.",
+    "reference": "Psalm 72:19 (BSB)",
+    "connected_to": "Psalm 72:20",
+    "connected_from": "Psalm 72:18"
+  },
+  {
+    "text": "Thus conclude the prayers of David son of Jesse.",
+    "reference": "Psalm 72:20 (BSB)",
+    "connected_from": "Psalm 72:19"
+  }
+]

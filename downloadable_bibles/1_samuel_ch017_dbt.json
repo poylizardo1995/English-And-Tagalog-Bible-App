@@ -1,0 +1,348 @@
+[
+  {
+    "text": "And the Philistines assembled their armies to battle, and were gathered together at Sochoh, which belongs to Judah, and encamped between Sochoh and Azekah, in Ephesdammim.",
+    "reference": "1 Samuel 17:1 (DBT)",
+    "connected_to": "1 Samuel 17:2"
+  },
+  {
+    "text": "And Saul and the men of Israel were gathered together, and encamped in the valley of terebinths, and set the battle in array against the Philistines.",
+    "reference": "1 Samuel 17:2 (DBT)",
+    "connected_to": "1 Samuel 17:3",
+    "connected_from": "1 Samuel 17:1"
+  },
+  {
+    "text": "And the Philistines stood on the mountain on the one side, and Israel stood on the mountain on the other side; and the ravine was between them.",
+    "reference": "1 Samuel 17:3 (DBT)",
+    "connected_to": "1 Samuel 17:4",
+    "connected_from": "1 Samuel 17:2"
+  },
+  {
+    "text": "And there went out a champion from the camp of the Philistines, named Goliath, of Gath, whose height was six cubits and a span.",
+    "reference": "1 Samuel 17:4 (DBT)",
+    "connected_to": "1 Samuel 17:5",
+    "connected_from": "1 Samuel 17:3"
+  },
+  {
+    "text": "And he had a helmet of bronze upon his head, and he was clothed with a corselet of scales; and the weight of the corselet was five thousand shekels of bronze.",
+    "reference": "1 Samuel 17:5 (DBT)",
+    "connected_to": "1 Samuel 17:6",
+    "connected_from": "1 Samuel 17:4"
+  },
+  {
+    "text": "And he had greaves of bronze upon his legs, and a javelin of bronze between his shoulders.",
+    "reference": "1 Samuel 17:6 (DBT)",
+    "connected_to": "1 Samuel 17:7",
+    "connected_from": "1 Samuel 17:5"
+  },
+  {
+    "text": "And the shaft of his spear was like a weaver’s beam; and his spear’s head weighed six hundred shekels of iron; and the shield-bearer went before him.",
+    "reference": "1 Samuel 17:7 (DBT)",
+    "connected_to": "1 Samuel 17:8",
+    "connected_from": "1 Samuel 17:6"
+  },
+  {
+    "text": "And he stood and cried to the ranks of Israel, and said to them, Why are ye come out to set your battle in array? am not I the Philistine, and ye servants of Saul? choose for yourselves a man, and let him come down to me.",
+    "reference": "1 Samuel 17:8 (DBT)",
+    "connected_to": "1 Samuel 17:9",
+    "connected_from": "1 Samuel 17:7"
+  },
+  {
+    "text": "If he be able to fight with me, and to smite me, then will we be your servants; but if I overcome and smite him, then shall ye be our servants and serve us.",
+    "reference": "1 Samuel 17:9 (DBT)",
+    "connected_to": "1 Samuel 17:10",
+    "connected_from": "1 Samuel 17:8"
+  },
+  {
+    "text": "And the Philistine said, I have defied the ranks of Israel this day; give me a man, that we may fight together.",
+    "reference": "1 Samuel 17:10 (DBT)",
+    "connected_to": "1 Samuel 17:11",
+    "connected_from": "1 Samuel 17:9"
+  },
+  {
+    "text": "And Saul and all Israel heard these words of the Philistine, and they were dismayed and greatly afraid.",
+    "reference": "1 Samuel 17:11 (DBT)",
+    "connected_to": "1 Samuel 17:12",
+    "connected_from": "1 Samuel 17:10"
+  },
+  {
+    "text": "Now David was the son of that Ephrathite of Bethlehem-Judah whose name was Jesse; and he had eight sons; and the man was old in the days of Saul, advanced [in years] among men.",
+    "reference": "1 Samuel 17:12 (DBT)",
+    "connected_to": "1 Samuel 17:13",
+    "connected_from": "1 Samuel 17:11"
+  },
+  {
+    "text": "And the three eldest of the sons of Jesse had gone and followed Saul to the battle; and the names of his three sons that went to the battle were Eliab the firstborn, and the second to him Abinadab, and the third Shammah.",
+    "reference": "1 Samuel 17:13 (DBT)",
+    "connected_to": "1 Samuel 17:14",
+    "connected_from": "1 Samuel 17:12"
+  },
+  {
+    "text": "And David was the youngest; and the three eldest had followed Saul.",
+    "reference": "1 Samuel 17:14 (DBT)",
+    "connected_to": "1 Samuel 17:15",
+    "connected_from": "1 Samuel 17:13"
+  },
+  {
+    "text": "But David went and returned from Saul to feed his father’s sheep at Bethlehem.",
+    "reference": "1 Samuel 17:15 (DBT)",
+    "connected_to": "1 Samuel 17:16",
+    "connected_from": "1 Samuel 17:14"
+  },
+  {
+    "text": "And the Philistine drew near morning and evening, and presented himself forty days.",
+    "reference": "1 Samuel 17:16 (DBT)",
+    "connected_to": "1 Samuel 17:17",
+    "connected_from": "1 Samuel 17:15"
+  },
+  {
+    "text": "And Jesse said to David his son, Take, I pray, for thy brethren, this ephah of parched [corn] and these ten loaves, and carry them quickly to the camp to thy brethren;",
+    "reference": "1 Samuel 17:17 (DBT)",
+    "connected_to": "1 Samuel 17:18",
+    "connected_from": "1 Samuel 17:16"
+  },
+  {
+    "text": "and carry these ten cheeses to the captain of the thousand, and visit thy brethren to see how they are, and take a pledge of them.",
+    "reference": "1 Samuel 17:18 (DBT)",
+    "connected_to": "1 Samuel 17:19",
+    "connected_from": "1 Samuel 17:17"
+  },
+  {
+    "text": "Now Saul, and they, and all the men of Israel [were] in the valley of terebinths, fighting against the Philistines.",
+    "reference": "1 Samuel 17:19 (DBT)",
+    "connected_to": "1 Samuel 17:20",
+    "connected_from": "1 Samuel 17:18"
+  },
+  {
+    "text": "And David rose up early in the morning, and left the sheep with a keeper, and took his charge and went, as Jesse had commanded him. And he came to the wagon-defence; and the host which was going forth to the battle-array shouted for the fight.",
+    "reference": "1 Samuel 17:20 (DBT)",
+    "connected_to": "1 Samuel 17:21",
+    "connected_from": "1 Samuel 17:19"
+  },
+  {
+    "text": "And Israel and the Philistines put the battle in array, rank against rank.",
+    "reference": "1 Samuel 17:21 (DBT)",
+    "connected_to": "1 Samuel 17:22",
+    "connected_from": "1 Samuel 17:20"
+  },
+  {
+    "text": "And David left the things he was carrying in the hand of the keeper of the baggage, and ran into the ranks, and came and saluted his brethren.",
+    "reference": "1 Samuel 17:22 (DBT)",
+    "connected_to": "1 Samuel 17:23",
+    "connected_from": "1 Samuel 17:21"
+  },
+  {
+    "text": "And as he talked with them, behold there came up the champion, the Philistine of Gath, Goliath by name, out of the ranks of the Philistines, and spoke according to the same words; and David heard [them].",
+    "reference": "1 Samuel 17:23 (DBT)",
+    "connected_to": "1 Samuel 17:24",
+    "connected_from": "1 Samuel 17:22"
+  },
+  {
+    "text": "And all the men of Israel, when they saw the man, fled from him and were greatly afraid.",
+    "reference": "1 Samuel 17:24 (DBT)",
+    "connected_to": "1 Samuel 17:25",
+    "connected_from": "1 Samuel 17:23"
+  },
+  {
+    "text": "And the men of Israel said, Have ye seen this man that comes up? for to defy Israel is he come up: and it shall be, that the man who smites him, him will the king enrich with great riches, and will give him his daughter, and make his father’s house free in Israel.",
+    "reference": "1 Samuel 17:25 (DBT)",
+    "connected_to": "1 Samuel 17:26",
+    "connected_from": "1 Samuel 17:24"
+  },
+  {
+    "text": "And David spoke to the men that stood by him, saying, What shall be done to the man that smites this Philistine, and takes away the reproach from Israel? for who is this uncircumcised Philistine, that he should defy the armies of the living God?",
+    "reference": "1 Samuel 17:26 (DBT)",
+    "connected_to": "1 Samuel 17:27",
+    "connected_from": "1 Samuel 17:25"
+  },
+  {
+    "text": "And the people told him after this manner, saying, So shall it be done to the man that smites him.",
+    "reference": "1 Samuel 17:27 (DBT)",
+    "connected_to": "1 Samuel 17:28",
+    "connected_from": "1 Samuel 17:26"
+  },
+  {
+    "text": "And Eliab, his eldest brother, heard while he spoke to the men; and Eliab’s anger was kindled against David, and he said, Why art thou come down? and with whom hast thou left those few sheep in the wilderness? I know thy pride and the naughtiness of thy heart; for thou art come down that thou mightest see the battle.",
+    "reference": "1 Samuel 17:28 (DBT)",
+    "connected_to": "1 Samuel 17:29",
+    "connected_from": "1 Samuel 17:27"
+  },
+  {
+    "text": "And David said, What have I now done? Was it not laid upon me?",
+    "reference": "1 Samuel 17:29 (DBT)",
+    "connected_to": "1 Samuel 17:30",
+    "connected_from": "1 Samuel 17:28"
+  },
+  {
+    "text": "And he turned from him to another, and spoke after the same manner; and the people answered him again after the former manner.",
+    "reference": "1 Samuel 17:30 (DBT)",
+    "connected_to": "1 Samuel 17:31",
+    "connected_from": "1 Samuel 17:29"
+  },
+  {
+    "text": "And the words were heard which David spoke, and they rehearsed them before Saul; and he sent for him.",
+    "reference": "1 Samuel 17:31 (DBT)",
+    "connected_to": "1 Samuel 17:32",
+    "connected_from": "1 Samuel 17:30"
+  },
+  {
+    "text": "And David said to Saul, Let no man’s heart fail because of him: thy servant will go and fight with this Philistine.",
+    "reference": "1 Samuel 17:32 (DBT)",
+    "connected_to": "1 Samuel 17:33",
+    "connected_from": "1 Samuel 17:31"
+  },
+  {
+    "text": "And Saul said to David, Thou art not able to go against this Philistine to fight with him; for thou art but a youth, and he a man of war from his youth.",
+    "reference": "1 Samuel 17:33 (DBT)",
+    "connected_to": "1 Samuel 17:34",
+    "connected_from": "1 Samuel 17:32"
+  },
+  {
+    "text": "And David said to Saul, Thy servant fed his father’s sheep, and there came a lion, and also a bear, and took a lamb out of the flock.",
+    "reference": "1 Samuel 17:34 (DBT)",
+    "connected_to": "1 Samuel 17:35",
+    "connected_from": "1 Samuel 17:33"
+  },
+  {
+    "text": "And I went after him, and smote him, and delivered it out of his mouth; and when he arose against me, I seized him by his beard, and smote him, and slew him.",
+    "reference": "1 Samuel 17:35 (DBT)",
+    "connected_to": "1 Samuel 17:36",
+    "connected_from": "1 Samuel 17:34"
+  },
+  {
+    "text": "Thy servant smote both the lion and the bear; and this uncircumcised Philistine shall be as one of them, because he has defied the armies of the living God.",
+    "reference": "1 Samuel 17:36 (DBT)",
+    "connected_to": "1 Samuel 17:37",
+    "connected_from": "1 Samuel 17:35"
+  },
+  {
+    "text": "And David said, Jehovah who delivered me out of the paw of the lion and out of the paw of the bear, he will deliver me out of the hand of this Philistine. And Saul said to David, Go, and Jehovah be with thee.",
+    "reference": "1 Samuel 17:37 (DBT)",
+    "connected_to": "1 Samuel 17:38",
+    "connected_from": "1 Samuel 17:36"
+  },
+  {
+    "text": "And Saul clothed David with his dress, and put a helmet of bronze upon his head, and clothed him with a corselet.",
+    "reference": "1 Samuel 17:38 (DBT)",
+    "connected_to": "1 Samuel 17:39",
+    "connected_from": "1 Samuel 17:37"
+  },
+  {
+    "text": "And David girded his sword upon his dress, and endeavoured to go; for he had not yet tried [it]. And David said to Saul, I cannot go in these; for I have never tried [them]. And David put them off him.",
+    "reference": "1 Samuel 17:39 (DBT)",
+    "connected_to": "1 Samuel 17:40",
+    "connected_from": "1 Samuel 17:38"
+  },
+  {
+    "text": "And he took his staff in his hand, and chose him five smooth stones out of the brook, and put them in the shepherd’s bag that he had, into the pocket; and his sling was in his hand. And he drew near to the Philistine.",
+    "reference": "1 Samuel 17:40 (DBT)",
+    "connected_to": "1 Samuel 17:41",
+    "connected_from": "1 Samuel 17:39"
+  },
+  {
+    "text": "And the Philistine came on and approached David; and the man that bore the shield was before him.",
+    "reference": "1 Samuel 17:41 (DBT)",
+    "connected_to": "1 Samuel 17:42",
+    "connected_from": "1 Samuel 17:40"
+  },
+  {
+    "text": "And when the Philistine looked about and saw David, he disdained him; for he was a youth, and ruddy, and besides of a beautiful countenance.",
+    "reference": "1 Samuel 17:42 (DBT)",
+    "connected_to": "1 Samuel 17:43",
+    "connected_from": "1 Samuel 17:41"
+  },
+  {
+    "text": "And the Philistine said to David, Am I a dog, that thou comest to me with staves? And the Philistine cursed David by his gods.",
+    "reference": "1 Samuel 17:43 (DBT)",
+    "connected_to": "1 Samuel 17:44",
+    "connected_from": "1 Samuel 17:42"
+  },
+  {
+    "text": "And the Philistine said to David, Come to me, and I will give thy flesh to the fowls of the heavens and to the beasts of the field.",
+    "reference": "1 Samuel 17:44 (DBT)",
+    "connected_to": "1 Samuel 17:45",
+    "connected_from": "1 Samuel 17:43"
+  },
+  {
+    "text": "And David said to the Philistine, Thou comest to me with sword, and with spear, and with javelin; but I come to thee in the name of Jehovah of hosts, the God of the armies of Israel, whom thou hast defied.",
+    "reference": "1 Samuel 17:45 (DBT)",
+    "connected_to": "1 Samuel 17:46",
+    "connected_from": "1 Samuel 17:44"
+  },
+  {
+    "text": "This day will Jehovah deliver thee up into my hand; and I will smite thee, and take thy head from thee; and I will give the carcases of the camp of the Philistines this day to the fowl of the heavens and to the wild beasts of the earth. And all the earth shall know that Israel has a God;",
+    "reference": "1 Samuel 17:46 (DBT)",
+    "connected_to": "1 Samuel 17:47",
+    "connected_from": "1 Samuel 17:45"
+  },
+  {
+    "text": "and all this congregation shall know that Jehovah saves not with sword and spear; for the battle is Jehovah’s, and he will give you into our hands.",
+    "reference": "1 Samuel 17:47 (DBT)",
+    "connected_to": "1 Samuel 17:48",
+    "connected_from": "1 Samuel 17:46"
+  },
+  {
+    "text": "And it came to pass, when the Philistine arose, and came and advanced to meet David, that David hasted, and ran towards the ranks to meet the Philistine.",
+    "reference": "1 Samuel 17:48 (DBT)",
+    "connected_to": "1 Samuel 17:49",
+    "connected_from": "1 Samuel 17:47"
+  },
+  {
+    "text": "And David put his hand into the bag, and took thence a stone, and slang it, and smote the Philistine in his forehead, and the stone sank into his forehead; and he fell on his face to the earth.",
+    "reference": "1 Samuel 17:49 (DBT)",
+    "connected_to": "1 Samuel 17:50",
+    "connected_from": "1 Samuel 17:48"
+  },
+  {
+    "text": "So David overcame the Philistine with a sling and a stone, and smote the Philistine and killed him; and there was no sword in the hand of David.",
+    "reference": "1 Samuel 17:50 (DBT)",
+    "connected_to": "1 Samuel 17:51",
+    "connected_from": "1 Samuel 17:49"
+  },
+  {
+    "text": "And David ran, and stood upon the Philistine, and took his sword, and drew it out of its sheath, and killed him completely, and cut off his head with it. And when the Philistines saw that their hero was dead, they fled.",
+    "reference": "1 Samuel 17:51 (DBT)",
+    "connected_to": "1 Samuel 17:52",
+    "connected_from": "1 Samuel 17:50"
+  },
+  {
+    "text": "And the men of Israel and of Judah arose, and shouted, and pursued the Philistines, until thou comest to the ravine and to the gates of Ekron. And the wounded of the Philistines fell down on the way to Shaaraim, even to Gath, and to Ekron.",
+    "reference": "1 Samuel 17:52 (DBT)",
+    "connected_to": "1 Samuel 17:53",
+    "connected_from": "1 Samuel 17:51"
+  },
+  {
+    "text": "And the children of Israel returned from chasing after the Philistines, and they pillaged their camps.",
+    "reference": "1 Samuel 17:53 (DBT)",
+    "connected_to": "1 Samuel 17:54",
+    "connected_from": "1 Samuel 17:52"
+  },
+  {
+    "text": "And David took the head of the Philistine and brought it to Jerusalem; but he put his armour in his tent.",
+    "reference": "1 Samuel 17:54 (DBT)",
+    "connected_to": "1 Samuel 17:55",
+    "connected_from": "1 Samuel 17:53"
+  },
+  {
+    "text": "And when Saul saw David go forth against the Philistine, he said to Abner, the captain of the host, Abner, whose son is this young man? And Abner said, As thy soul liveth, O king, I cannot tell.",
+    "reference": "1 Samuel 17:55 (DBT)",
+    "connected_to": "1 Samuel 17:56",
+    "connected_from": "1 Samuel 17:54"
+  },
+  {
+    "text": "And the king said, Inquire thou whose son this youth is.",
+    "reference": "1 Samuel 17:56 (DBT)",
+    "connected_to": "1 Samuel 17:57",
+    "connected_from": "1 Samuel 17:55"
+  },
+  {
+    "text": "And as David returned from the slaughter of the Philistine, Abner took him, and brought him before Saul with the head of the Philistine in his hand.",
+    "reference": "1 Samuel 17:57 (DBT)",
+    "connected_to": "1 Samuel 17:58",
+    "connected_from": "1 Samuel 17:56"
+  },
+  {
+    "text": "And Saul said to him, Whose son art thou, young man? And David said, I am the son of thy servant Jesse the Beth-lehemite.",
+    "reference": "1 Samuel 17:58 (DBT)",
+    "connected_from": "1 Samuel 17:57"
+  }
+]

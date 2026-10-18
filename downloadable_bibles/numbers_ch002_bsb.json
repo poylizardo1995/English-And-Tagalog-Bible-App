@@ -1,0 +1,204 @@
+[
+  {
+    "text": "Then the LORD said to Moses and Aaron:",
+    "reference": "Numbers 2:1 (BSB)",
+    "connected_to": "Numbers 2:2"
+  },
+  {
+    "text": "“The Israelites are to camp around the Tent of Meeting at a distance from it, each man under his standard, with the banners of his family.",
+    "reference": "Numbers 2:2 (BSB)",
+    "connected_to": "Numbers 2:3",
+    "connected_from": "Numbers 2:1"
+  },
+  {
+    "text": "On the east side, toward the sunrise, the divisions of Judah are to camp under their standard: The leader of the Judahites is Nahshon son of Amminadab,",
+    "reference": "Numbers 2:3 (BSB)",
+    "connected_to": "Numbers 2:4",
+    "connected_from": "Numbers 2:2"
+  },
+  {
+    "text": "and his division numbers 74,600.",
+    "reference": "Numbers 2:4 (BSB)",
+    "connected_to": "Numbers 2:5",
+    "connected_from": "Numbers 2:3"
+  },
+  {
+    "text": "The tribe of Issachar will camp next to it. The leader of the Issacharites is Nethanel son of Zuar,",
+    "reference": "Numbers 2:5 (BSB)",
+    "connected_to": "Numbers 2:6",
+    "connected_from": "Numbers 2:4"
+  },
+  {
+    "text": "and his division numbers 54,400.",
+    "reference": "Numbers 2:6 (BSB)",
+    "connected_to": "Numbers 2:7",
+    "connected_from": "Numbers 2:5"
+  },
+  {
+    "text": "Next will be the tribe of Zebulun. The leader of the Zebulunites is Eliab son of Helon,",
+    "reference": "Numbers 2:7 (BSB)",
+    "connected_to": "Numbers 2:8",
+    "connected_from": "Numbers 2:6"
+  },
+  {
+    "text": "and his division numbers 57,400.",
+    "reference": "Numbers 2:8 (BSB)",
+    "connected_to": "Numbers 2:9",
+    "connected_from": "Numbers 2:7"
+  },
+  {
+    "text": "The total number of men in the divisions of the camp of Judah is 186,400; they shall set out first.",
+    "reference": "Numbers 2:9 (BSB)",
+    "connected_to": "Numbers 2:10",
+    "connected_from": "Numbers 2:8"
+  },
+  {
+    "text": "On the south side, the divisions of Reuben are to camp under their standard: The leader of the Reubenites is Elizur son of Shedeur,",
+    "reference": "Numbers 2:10 (BSB)",
+    "connected_to": "Numbers 2:11",
+    "connected_from": "Numbers 2:9"
+  },
+  {
+    "text": "and his division numbers 46,500.",
+    "reference": "Numbers 2:11 (BSB)",
+    "connected_to": "Numbers 2:12",
+    "connected_from": "Numbers 2:10"
+  },
+  {
+    "text": "The tribe of Simeon will camp next to it. The leader of the Simeonites is Shelumiel son of Zurishaddai,",
+    "reference": "Numbers 2:12 (BSB)",
+    "connected_to": "Numbers 2:13",
+    "connected_from": "Numbers 2:11"
+  },
+  {
+    "text": "and his division numbers 59,300.",
+    "reference": "Numbers 2:13 (BSB)",
+    "connected_to": "Numbers 2:14",
+    "connected_from": "Numbers 2:12"
+  },
+  {
+    "text": "Next will be the tribe of Gad. The leader of the Gadites is Eliasaph son of Deuel,",
+    "reference": "Numbers 2:14 (BSB)",
+    "connected_to": "Numbers 2:15",
+    "connected_from": "Numbers 2:13"
+  },
+  {
+    "text": "and his division numbers 45,650.",
+    "reference": "Numbers 2:15 (BSB)",
+    "connected_to": "Numbers 2:16",
+    "connected_from": "Numbers 2:14"
+  },
+  {
+    "text": "The total number of men in the divisions of the camp of Reuben is 151,450; they shall set out second.",
+    "reference": "Numbers 2:16 (BSB)",
+    "connected_to": "Numbers 2:17",
+    "connected_from": "Numbers 2:15"
+  },
+  {
+    "text": "In the middle of the camps, the Tent of Meeting is to travel with the camp of the Levites. They are to set out in the order they encamped, each in his own place under his standard.",
+    "reference": "Numbers 2:17 (BSB)",
+    "connected_to": "Numbers 2:18",
+    "connected_from": "Numbers 2:16"
+  },
+  {
+    "text": "On the west side, the divisions of Ephraim are to camp under their standard: The leader of the Ephraimites is Elishama son of Ammihud,",
+    "reference": "Numbers 2:18 (BSB)",
+    "connected_to": "Numbers 2:19",
+    "connected_from": "Numbers 2:17"
+  },
+  {
+    "text": "and his division numbers 40,500.",
+    "reference": "Numbers 2:19 (BSB)",
+    "connected_to": "Numbers 2:20",
+    "connected_from": "Numbers 2:18"
+  },
+  {
+    "text": "The tribe of Manasseh will be next to it. The leader of the Manassites is Gamaliel son of Pedahzur,",
+    "reference": "Numbers 2:20 (BSB)",
+    "connected_to": "Numbers 2:21",
+    "connected_from": "Numbers 2:19"
+  },
+  {
+    "text": "and his division numbers 32,200.",
+    "reference": "Numbers 2:21 (BSB)",
+    "connected_to": "Numbers 2:22",
+    "connected_from": "Numbers 2:20"
+  },
+  {
+    "text": "Next will be the tribe of Benjamin. The leader of the Benjamites is Abidan son of Gideoni,",
+    "reference": "Numbers 2:22 (BSB)",
+    "connected_to": "Numbers 2:23",
+    "connected_from": "Numbers 2:21"
+  },
+  {
+    "text": "and his division numbers 35,400.",
+    "reference": "Numbers 2:23 (BSB)",
+    "connected_to": "Numbers 2:24",
+    "connected_from": "Numbers 2:22"
+  },
+  {
+    "text": "The total number of men in the divisions of the camp of Ephraim is 108,100; they shall set out third.",
+    "reference": "Numbers 2:24 (BSB)",
+    "connected_to": "Numbers 2:25",
+    "connected_from": "Numbers 2:23"
+  },
+  {
+    "text": "On the north side, the divisions of Dan are to camp under their standard: The leader of the Danites is Ahiezer son of Ammishaddai,",
+    "reference": "Numbers 2:25 (BSB)",
+    "connected_to": "Numbers 2:26",
+    "connected_from": "Numbers 2:24"
+  },
+  {
+    "text": "and his division numbers 62,700.",
+    "reference": "Numbers 2:26 (BSB)",
+    "connected_to": "Numbers 2:27",
+    "connected_from": "Numbers 2:25"
+  },
+  {
+    "text": "The tribe of Asher will camp next to it. The leader of the Asherites is Pagiel son of Ocran,",
+    "reference": "Numbers 2:27 (BSB)",
+    "connected_to": "Numbers 2:28",
+    "connected_from": "Numbers 2:26"
+  },
+  {
+    "text": "and his division numbers 41,500.",
+    "reference": "Numbers 2:28 (BSB)",
+    "connected_to": "Numbers 2:29",
+    "connected_from": "Numbers 2:27"
+  },
+  {
+    "text": "Next will be the tribe of Naphtali. The leader of the Naphtalites is Ahira son of Enan,",
+    "reference": "Numbers 2:29 (BSB)",
+    "connected_to": "Numbers 2:30",
+    "connected_from": "Numbers 2:28"
+  },
+  {
+    "text": "and his division numbers 53,400.",
+    "reference": "Numbers 2:30 (BSB)",
+    "connected_to": "Numbers 2:31",
+    "connected_from": "Numbers 2:29"
+  },
+  {
+    "text": "The total number of men in the camp of Dan is 157,600; they shall set out last, under their standards.”",
+    "reference": "Numbers 2:31 (BSB)",
+    "connected_to": "Numbers 2:32",
+    "connected_from": "Numbers 2:30"
+  },
+  {
+    "text": "These are the Israelites, numbered according to their families. The total of those counted in the camps, by their divisions, was 603,550.",
+    "reference": "Numbers 2:32 (BSB)",
+    "connected_to": "Numbers 2:33",
+    "connected_from": "Numbers 2:31"
+  },
+  {
+    "text": "But the Levites were not counted among the other Israelites, as the LORD had commanded Moses.",
+    "reference": "Numbers 2:33 (BSB)",
+    "connected_to": "Numbers 2:34",
+    "connected_from": "Numbers 2:32"
+  },
+  {
+    "text": "So the Israelites did everything the LORD commanded Moses; they camped under their standards in this way and set out in the same way, each man with his clan and his family.",
+    "reference": "Numbers 2:34 (BSB)",
+    "connected_from": "Numbers 2:33"
+  }
+]

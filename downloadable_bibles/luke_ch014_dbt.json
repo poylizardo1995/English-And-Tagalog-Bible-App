@@ -1,0 +1,210 @@
+[
+  {
+    "text": "And it came to pass, as he went into the house of one of the rulers, [who was] of the Pharisees, to eat bread on [the] sabbath, that they were watching him.",
+    "reference": "Luke 14:1 (DBT)",
+    "connected_to": "Luke 14:2"
+  },
+  {
+    "text": "And behold, there was a certain dropsical [man] before him.",
+    "reference": "Luke 14:2 (DBT)",
+    "connected_to": "Luke 14:3",
+    "connected_from": "Luke 14:1"
+  },
+  {
+    "text": "And Jesus answering spoke unto the doctors of the law and Pharisees, saying, Is it lawful to heal on the sabbath?",
+    "reference": "Luke 14:3 (DBT)",
+    "connected_to": "Luke 14:4",
+    "connected_from": "Luke 14:2"
+  },
+  {
+    "text": "But they were silent. And taking him he healed him and let him go.",
+    "reference": "Luke 14:4 (DBT)",
+    "connected_to": "Luke 14:5",
+    "connected_from": "Luke 14:3"
+  },
+  {
+    "text": "And answering he said to them, Of which of you shall an ass or ox fall into a well, that he does not straightway pull him up on the sabbath day?",
+    "reference": "Luke 14:5 (DBT)",
+    "connected_to": "Luke 14:6",
+    "connected_from": "Luke 14:4"
+  },
+  {
+    "text": "And they were not able to answer him to these things.",
+    "reference": "Luke 14:6 (DBT)",
+    "connected_to": "Luke 14:7",
+    "connected_from": "Luke 14:5"
+  },
+  {
+    "text": "And he spoke a parable to those that were invited, remarking how they chose out the first places, saying to them,",
+    "reference": "Luke 14:7 (DBT)",
+    "connected_to": "Luke 14:8",
+    "connected_from": "Luke 14:6"
+  },
+  {
+    "text": "When thou art invited by any one to a wedding, do not lay thyself down in the first place at table, lest perhaps a more honourable than thou be invited by him,",
+    "reference": "Luke 14:8 (DBT)",
+    "connected_to": "Luke 14:9",
+    "connected_from": "Luke 14:7"
+  },
+  {
+    "text": "and he who invited thee and him come and say to thee, Give place to this [man], and then thou begin with shame to take the last place.",
+    "reference": "Luke 14:9 (DBT)",
+    "connected_to": "Luke 14:10",
+    "connected_from": "Luke 14:8"
+  },
+  {
+    "text": "But when thou hast been invited, go and put thyself down in the last place, that when he who has invited thee comes, he may say to thee, Friend, go up higher: then shalt thou have honour before all that are lying at table with thee;",
+    "reference": "Luke 14:10 (DBT)",
+    "connected_to": "Luke 14:11",
+    "connected_from": "Luke 14:9"
+  },
+  {
+    "text": "for every one that exalts himself shall be abased, and he that abases himself shall be exalted.",
+    "reference": "Luke 14:11 (DBT)",
+    "connected_to": "Luke 14:12",
+    "connected_from": "Luke 14:10"
+  },
+  {
+    "text": "And he said also to him that had invited him, When thou makest a dinner or a supper, call not thy friends, nor thy brethren, nor thy kinsfolk, nor rich neighbours, lest it may be they also should invite thee in return, and a recompense be made thee.",
+    "reference": "Luke 14:12 (DBT)",
+    "connected_to": "Luke 14:13",
+    "connected_from": "Luke 14:11"
+  },
+  {
+    "text": "But when thou makest a feast, call poor, crippled, lame, blind:",
+    "reference": "Luke 14:13 (DBT)",
+    "connected_to": "Luke 14:14",
+    "connected_from": "Luke 14:12"
+  },
+  {
+    "text": "and thou shalt be blessed; for they have not [the means] to recompense thee; for it shall be recompensed thee in the resurrection of the just.",
+    "reference": "Luke 14:14 (DBT)",
+    "connected_to": "Luke 14:15",
+    "connected_from": "Luke 14:13"
+  },
+  {
+    "text": "And one of those that were lying at table with [them], hearing these things, said to him, Blessed [is] he who shall eat bread in the kingdom of God.",
+    "reference": "Luke 14:15 (DBT)",
+    "connected_to": "Luke 14:16",
+    "connected_from": "Luke 14:14"
+  },
+  {
+    "text": "And he said to him, A certain man made a great supper and invited many.",
+    "reference": "Luke 14:16 (DBT)",
+    "connected_to": "Luke 14:17",
+    "connected_from": "Luke 14:15"
+  },
+  {
+    "text": "And he sent his bondman at the hour of supper to say to those who were invited, Come, for already all things are ready.",
+    "reference": "Luke 14:17 (DBT)",
+    "connected_to": "Luke 14:18",
+    "connected_from": "Luke 14:16"
+  },
+  {
+    "text": "And all began, without exception, to excuse themselves. The first said to him, I have bought land, and I must go out and see it; I pray thee hold me for excused.",
+    "reference": "Luke 14:18 (DBT)",
+    "connected_to": "Luke 14:19",
+    "connected_from": "Luke 14:17"
+  },
+  {
+    "text": "And another said, I have bought five yoke of oxen, and I go to prove them; I pray thee hold me for excused.",
+    "reference": "Luke 14:19 (DBT)",
+    "connected_to": "Luke 14:20",
+    "connected_from": "Luke 14:18"
+  },
+  {
+    "text": "And another said, I have married a wife, and on this account I cannot come.",
+    "reference": "Luke 14:20 (DBT)",
+    "connected_to": "Luke 14:21",
+    "connected_from": "Luke 14:19"
+  },
+  {
+    "text": "And the bondman came up and brought back word of these things to his lord. Then the master of the house, in anger, said to his bondman, Go out quickly into the streets and lanes of the city, and bring here the poor and crippled and lame and blind.",
+    "reference": "Luke 14:21 (DBT)",
+    "connected_to": "Luke 14:22",
+    "connected_from": "Luke 14:20"
+  },
+  {
+    "text": "And the bondman said, Sir, it is done as thou hast commanded, and there is still room.",
+    "reference": "Luke 14:22 (DBT)",
+    "connected_to": "Luke 14:23",
+    "connected_from": "Luke 14:21"
+  },
+  {
+    "text": "And the lord said to the bondman, Go out into the ways and fences and compel to come in, that my house may be filled;",
+    "reference": "Luke 14:23 (DBT)",
+    "connected_to": "Luke 14:24",
+    "connected_from": "Luke 14:22"
+  },
+  {
+    "text": "for I say to you, that not one of those men who were invited shall taste of my supper.",
+    "reference": "Luke 14:24 (DBT)",
+    "connected_to": "Luke 14:25",
+    "connected_from": "Luke 14:23"
+  },
+  {
+    "text": "And great crowds went with him; and, turning round, he said to them,",
+    "reference": "Luke 14:25 (DBT)",
+    "connected_to": "Luke 14:26",
+    "connected_from": "Luke 14:24"
+  },
+  {
+    "text": "If any man come to me, and shall not hate his own father and mother, and wife, and children, and brothers, and sisters, yea, and his own life too, he cannot be my disciple;",
+    "reference": "Luke 14:26 (DBT)",
+    "connected_to": "Luke 14:27",
+    "connected_from": "Luke 14:25"
+  },
+  {
+    "text": "and whoever does not carry his cross and come after me cannot be my disciple.",
+    "reference": "Luke 14:27 (DBT)",
+    "connected_to": "Luke 14:28",
+    "connected_from": "Luke 14:26"
+  },
+  {
+    "text": "For which of you, desirous of building a tower, does not first sit down and count the cost, if he have what [is needed] to complete it;",
+    "reference": "Luke 14:28 (DBT)",
+    "connected_to": "Luke 14:29",
+    "connected_from": "Luke 14:27"
+  },
+  {
+    "text": "in order that, having laid the foundation of it, and not being able to finish it, all who see it do not begin to mock at him,",
+    "reference": "Luke 14:29 (DBT)",
+    "connected_to": "Luke 14:30",
+    "connected_from": "Luke 14:28"
+  },
+  {
+    "text": "saying, This man began to build and was not able to finish?",
+    "reference": "Luke 14:30 (DBT)",
+    "connected_to": "Luke 14:31",
+    "connected_from": "Luke 14:29"
+  },
+  {
+    "text": "Or what king, going on his way to engage in war with another king, does not, sitting down first, take counsel whether he is able with ten thousand to meet him coming against him with twenty thousand?",
+    "reference": "Luke 14:31 (DBT)",
+    "connected_to": "Luke 14:32",
+    "connected_from": "Luke 14:30"
+  },
+  {
+    "text": "and if not, while he is yet far off, having sent an embassy, he asks for terms of peace.",
+    "reference": "Luke 14:32 (DBT)",
+    "connected_to": "Luke 14:33",
+    "connected_from": "Luke 14:31"
+  },
+  {
+    "text": "Thus then every one of you who forsakes not all that is his own cannot be my disciple.",
+    "reference": "Luke 14:33 (DBT)",
+    "connected_to": "Luke 14:34",
+    "connected_from": "Luke 14:32"
+  },
+  {
+    "text": "Salt [then] [is] good, but if the salt also has become savourless, wherewith shall it be seasoned?",
+    "reference": "Luke 14:34 (DBT)",
+    "connected_to": "Luke 14:35",
+    "connected_from": "Luke 14:33"
+  },
+  {
+    "text": "It is proper neither for land nor for dung; it is cast out. He that hath ears to hear, let him hear.",
+    "reference": "Luke 14:35 (DBT)",
+    "connected_from": "Luke 14:34"
+  }
+]

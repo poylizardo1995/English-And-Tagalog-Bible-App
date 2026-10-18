@@ -1,0 +1,210 @@
+[
+  {
+    "text": "{To the chief Musician. Of David. A Psalm: a Song.} Let God arise, let his enemies be scattered, and let them that hate him flee before him.",
+    "reference": "Psalm 68:1 (DBT)",
+    "connected_to": "Psalm 68:2"
+  },
+  {
+    "text": "As smoke is driven, thou wilt drive them away; as wax melteth before the fire, the wicked shall perish at the presence of God.",
+    "reference": "Psalm 68:2 (DBT)",
+    "connected_to": "Psalm 68:3",
+    "connected_from": "Psalm 68:1"
+  },
+  {
+    "text": "But the righteous shall rejoice: they shall exult before God and be glad with joy.",
+    "reference": "Psalm 68:3 (DBT)",
+    "connected_to": "Psalm 68:4",
+    "connected_from": "Psalm 68:2"
+  },
+  {
+    "text": "Sing unto God, sing forth his name; cast up a way for him that rideth in the deserts: his name is Jah; and rejoice before him.",
+    "reference": "Psalm 68:4 (DBT)",
+    "connected_to": "Psalm 68:5",
+    "connected_from": "Psalm 68:3"
+  },
+  {
+    "text": "A father of the fatherless, and a judge of the widows, is God in his holy habitation.",
+    "reference": "Psalm 68:5 (DBT)",
+    "connected_to": "Psalm 68:6",
+    "connected_from": "Psalm 68:4"
+  },
+  {
+    "text": "God maketh the solitary into families; those that were bound he bringeth out into prosperity: but the rebellious dwell in a parched [land].",
+    "reference": "Psalm 68:6 (DBT)",
+    "connected_to": "Psalm 68:7",
+    "connected_from": "Psalm 68:5"
+  },
+  {
+    "text": "O God, when thou wentest forth before thy people, when thou didst march through the wilderness—(Selah)—",
+    "reference": "Psalm 68:7 (DBT)",
+    "connected_to": "Psalm 68:8",
+    "connected_from": "Psalm 68:6"
+  },
+  {
+    "text": "The earth trembled, the heavens also dropped at the presence of God, yon Sinai, at the presence of God, the God of Israel.",
+    "reference": "Psalm 68:8 (DBT)",
+    "connected_to": "Psalm 68:9",
+    "connected_from": "Psalm 68:7"
+  },
+  {
+    "text": "Thou, O God, didst pour a plentiful rain upon thine inheritance, and when it was weary thou strengthenedst it.",
+    "reference": "Psalm 68:9 (DBT)",
+    "connected_to": "Psalm 68:10",
+    "connected_from": "Psalm 68:8"
+  },
+  {
+    "text": "Thy flock hath dwelt therein: thou hast prepared in thy goodness, for the afflicted, O God!",
+    "reference": "Psalm 68:10 (DBT)",
+    "connected_to": "Psalm 68:11",
+    "connected_from": "Psalm 68:9"
+  },
+  {
+    "text": "The Lord gives the word: great the host of the publishers.",
+    "reference": "Psalm 68:11 (DBT)",
+    "connected_to": "Psalm 68:12",
+    "connected_from": "Psalm 68:10"
+  },
+  {
+    "text": "Kings of armies flee; they flee, and she that tarrieth at home divideth the spoil.",
+    "reference": "Psalm 68:12 (DBT)",
+    "connected_to": "Psalm 68:13",
+    "connected_from": "Psalm 68:11"
+  },
+  {
+    "text": "Though ye have lain among the sheepfolds, [ye shall be as] wings of a dove covered with silver, and her feathers with green gold.",
+    "reference": "Psalm 68:13 (DBT)",
+    "connected_to": "Psalm 68:14",
+    "connected_from": "Psalm 68:12"
+  },
+  {
+    "text": "When the Almighty scattered kings in it, it became snow-white as Zalmon.",
+    "reference": "Psalm 68:14 (DBT)",
+    "connected_to": "Psalm 68:15",
+    "connected_from": "Psalm 68:13"
+  },
+  {
+    "text": "[As] mount Bashan is the mount of God, a many-peaked mountain, [as] mount Bashan.",
+    "reference": "Psalm 68:15 (DBT)",
+    "connected_to": "Psalm 68:16",
+    "connected_from": "Psalm 68:14"
+  },
+  {
+    "text": "Why do ye look with envy, ye many-peaked mountains, upon the mount that God hath desired for his abode? yea, Jehovah will dwell [there] for ever.",
+    "reference": "Psalm 68:16 (DBT)",
+    "connected_to": "Psalm 68:17",
+    "connected_from": "Psalm 68:15"
+  },
+  {
+    "text": "The chariots of God are twenty thousand, thousands upon thousands; the Lord is among them: it is a Sinai in holiness.",
+    "reference": "Psalm 68:17 (DBT)",
+    "connected_to": "Psalm 68:18",
+    "connected_from": "Psalm 68:16"
+  },
+  {
+    "text": "Thou hast ascended on high, thou hast led captivity captive: thou hast received gifts in Man, and even [for] the rebellious, for the dwelling [there] of Jah Elohim.",
+    "reference": "Psalm 68:18 (DBT)",
+    "connected_to": "Psalm 68:19",
+    "connected_from": "Psalm 68:17"
+  },
+  {
+    "text": "Blessed be the Lord: day by day doth he load us [with good], the God who is our salvation. Selah.",
+    "reference": "Psalm 68:19 (DBT)",
+    "connected_to": "Psalm 68:20",
+    "connected_from": "Psalm 68:18"
+  },
+  {
+    "text": "Our God is the God of salvation; and with Jehovah, the Lord, are the goings forth [even] from death.",
+    "reference": "Psalm 68:20 (DBT)",
+    "connected_to": "Psalm 68:21",
+    "connected_from": "Psalm 68:19"
+  },
+  {
+    "text": "Verily God will smite the head of his enemies, the hairy scalp of him that goeth on still in his trespasses.",
+    "reference": "Psalm 68:21 (DBT)",
+    "connected_to": "Psalm 68:22",
+    "connected_from": "Psalm 68:20"
+  },
+  {
+    "text": "The Lord said, I will bring again from Bashan, I will bring [them] again from the depth of the sea;",
+    "reference": "Psalm 68:22 (DBT)",
+    "connected_to": "Psalm 68:23",
+    "connected_from": "Psalm 68:21"
+  },
+  {
+    "text": "That thou mayest dip thy foot in blood: the tongue of thy dogs has its portion from enemies.",
+    "reference": "Psalm 68:23 (DBT)",
+    "connected_to": "Psalm 68:24",
+    "connected_from": "Psalm 68:22"
+  },
+  {
+    "text": "They have seen thy goings, O God, the goings of my God, my King, in the sanctuary.",
+    "reference": "Psalm 68:24 (DBT)",
+    "connected_to": "Psalm 68:25",
+    "connected_from": "Psalm 68:23"
+  },
+  {
+    "text": "The singers went before, the players on stringed instruments after, in the midst of maidens playing on tabrets.",
+    "reference": "Psalm 68:25 (DBT)",
+    "connected_to": "Psalm 68:26",
+    "connected_from": "Psalm 68:24"
+  },
+  {
+    "text": "In the congregations bless ye God, the Lord,—[ye] from the fountain of Israel.",
+    "reference": "Psalm 68:26 (DBT)",
+    "connected_to": "Psalm 68:27",
+    "connected_from": "Psalm 68:25"
+  },
+  {
+    "text": "There is little Benjamin, their ruler; the princes of Judah, their company; the princes of Zebulun, the princes of Naphtali.",
+    "reference": "Psalm 68:27 (DBT)",
+    "connected_to": "Psalm 68:28",
+    "connected_from": "Psalm 68:26"
+  },
+  {
+    "text": "Thy God hath commanded thy strength: strengthen, O God, that which thou hast wrought for us.",
+    "reference": "Psalm 68:28 (DBT)",
+    "connected_to": "Psalm 68:29",
+    "connected_from": "Psalm 68:27"
+  },
+  {
+    "text": "Because of thy temple at Jerusalem shall kings bring presents unto thee.",
+    "reference": "Psalm 68:29 (DBT)",
+    "connected_to": "Psalm 68:30",
+    "connected_from": "Psalm 68:28"
+  },
+  {
+    "text": "Rebuke the beast of the reeds, the assembly of the strong, with the calves of the peoples: [every one] submitteth himself with pieces of silver. Scatter the peoples that delight in war.",
+    "reference": "Psalm 68:30 (DBT)",
+    "connected_to": "Psalm 68:31",
+    "connected_from": "Psalm 68:29"
+  },
+  {
+    "text": "Great ones shall come out of Egypt; Ethiopia shall quickly stretch out her hands unto God.",
+    "reference": "Psalm 68:31 (DBT)",
+    "connected_to": "Psalm 68:32",
+    "connected_from": "Psalm 68:30"
+  },
+  {
+    "text": "Ye kingdoms of the earth, sing unto God; sing psalms of the Lord, (Selah,)",
+    "reference": "Psalm 68:32 (DBT)",
+    "connected_to": "Psalm 68:33",
+    "connected_from": "Psalm 68:31"
+  },
+  {
+    "text": "Of him that rideth upon the heavens, the heavens which are of old: lo, he uttereth his voice, a mighty voice.",
+    "reference": "Psalm 68:33 (DBT)",
+    "connected_to": "Psalm 68:34",
+    "connected_from": "Psalm 68:32"
+  },
+  {
+    "text": "Ascribe ye strength unto God: his excellency is over Israel, and his strength is in the clouds.",
+    "reference": "Psalm 68:34 (DBT)",
+    "connected_to": "Psalm 68:35",
+    "connected_from": "Psalm 68:33"
+  },
+  {
+    "text": "Terrible art thou, O God, out of thy sanctuaries,—the God of Israel! He it is that giveth strength and might unto the people. Blessed be God!",
+    "reference": "Psalm 68:35 (DBT)",
+    "connected_from": "Psalm 68:34"
+  }
+]

@@ -1,0 +1,300 @@
+[
+  {
+    "text": "AT that time Jesus went through the corn on the sabbath: and his disciples being hungry, began to pluck the ears, and to eat.",
+    "reference": "Matthew 12:1 (DRB)",
+    "connected_to": "Matthew 12:2"
+  },
+  {
+    "text": "And the Pharisees seeing them, said to him: Behold thy disciples do that which is not lawful to do on the sabbath days.",
+    "reference": "Matthew 12:2 (DRB)",
+    "connected_to": "Matthew 12:3",
+    "connected_from": "Matthew 12:1"
+  },
+  {
+    "text": "But he said to them: Have you not read what David did when he was hungry, and they that were with him:",
+    "reference": "Matthew 12:3 (DRB)",
+    "connected_to": "Matthew 12:4",
+    "connected_from": "Matthew 12:2"
+  },
+  {
+    "text": "How he entered into the house of God, and did eat the loaves of proposition, which it was not lawful for him to eat, nor for them that were with him, but for the priests only?",
+    "reference": "Matthew 12:4 (DRB)",
+    "connected_to": "Matthew 12:5",
+    "connected_from": "Matthew 12:3"
+  },
+  {
+    "text": "Or have ye not read in the law, that on the sabbath days the priests in the temple break the sabbath, and are without blame?",
+    "reference": "Matthew 12:5 (DRB)",
+    "connected_to": "Matthew 12:6",
+    "connected_from": "Matthew 12:4"
+  },
+  {
+    "text": "But I tell you that there is here a greater than the temple.",
+    "reference": "Matthew 12:6 (DRB)",
+    "connected_to": "Matthew 12:7",
+    "connected_from": "Matthew 12:5"
+  },
+  {
+    "text": "And if you knew what this meaneth: I will have mercy, and not sacrifice: you would never have condemned the innocent.",
+    "reference": "Matthew 12:7 (DRB)",
+    "connected_to": "Matthew 12:8",
+    "connected_from": "Matthew 12:6"
+  },
+  {
+    "text": "For the Son of man is Lord even of the sabbath.",
+    "reference": "Matthew 12:8 (DRB)",
+    "connected_to": "Matthew 12:9",
+    "connected_from": "Matthew 12:7"
+  },
+  {
+    "text": "And when he has passed from thence, he came into their synagogues.",
+    "reference": "Matthew 12:9 (DRB)",
+    "connected_to": "Matthew 12:10",
+    "connected_from": "Matthew 12:8"
+  },
+  {
+    "text": "And behold there was a man who had a withered hand, and they asked him, saying: Is it lawful to heal on the sabbath days? that they might accuse him.",
+    "reference": "Matthew 12:10 (DRB)",
+    "connected_to": "Matthew 12:11",
+    "connected_from": "Matthew 12:9"
+  },
+  {
+    "text": "But he said to them: What man shall there be among you, that hath one sheep: and if the same fall into a pit on the sabbath day, will he not take hold on it and lift it up?",
+    "reference": "Matthew 12:11 (DRB)",
+    "connected_to": "Matthew 12:12",
+    "connected_from": "Matthew 12:10"
+  },
+  {
+    "text": "How much better is a man than a sheep? Therefore it it lawful to do a good deed on the sabbath days.",
+    "reference": "Matthew 12:12 (DRB)",
+    "connected_to": "Matthew 12:13",
+    "connected_from": "Matthew 12:11"
+  },
+  {
+    "text": "Then he saith to the man: Stretch forth thy hand; and he stretched it forth, and it was restored to health even as the other.",
+    "reference": "Matthew 12:13 (DRB)",
+    "connected_to": "Matthew 12:14",
+    "connected_from": "Matthew 12:12"
+  },
+  {
+    "text": "And the Pharisees going out made a consultation against him, how they might destroy him.",
+    "reference": "Matthew 12:14 (DRB)",
+    "connected_to": "Matthew 12:15",
+    "connected_from": "Matthew 12:13"
+  },
+  {
+    "text": "But Jesus knowing it, retired from thence: and many followed him, and he healed them all.",
+    "reference": "Matthew 12:15 (DRB)",
+    "connected_to": "Matthew 12:16",
+    "connected_from": "Matthew 12:14"
+  },
+  {
+    "text": "And he charged them that they should not make him known.",
+    "reference": "Matthew 12:16 (DRB)",
+    "connected_to": "Matthew 12:17",
+    "connected_from": "Matthew 12:15"
+  },
+  {
+    "text": "That it might be fulfilled which was spoken by Isaias the prophet, saying:",
+    "reference": "Matthew 12:17 (DRB)",
+    "connected_to": "Matthew 12:18",
+    "connected_from": "Matthew 12:16"
+  },
+  {
+    "text": "Behold my servant whom I have chosen, my beloved in whom my soul hath been well pleased. I will put my spirit upon him, and he shall shew judgment to the Gentiles.",
+    "reference": "Matthew 12:18 (DRB)",
+    "connected_to": "Matthew 12:19",
+    "connected_from": "Matthew 12:17"
+  },
+  {
+    "text": "He shall not contend, nor cry out, neither shall any man hear his voice in the streets.",
+    "reference": "Matthew 12:19 (DRB)",
+    "connected_to": "Matthew 12:20",
+    "connected_from": "Matthew 12:18"
+  },
+  {
+    "text": "The bruised reed he shall not break: and smoking flax he shall not extinguish: till he send forth judgment unto victory.",
+    "reference": "Matthew 12:20 (DRB)",
+    "connected_to": "Matthew 12:21",
+    "connected_from": "Matthew 12:19"
+  },
+  {
+    "text": "And in his name the Gentiles shall hope.",
+    "reference": "Matthew 12:21 (DRB)",
+    "connected_to": "Matthew 12:22",
+    "connected_from": "Matthew 12:20"
+  },
+  {
+    "text": "Then was offered to him one possessed with a devil, blind and dumb: and he healed him, so that he spoke and saw.",
+    "reference": "Matthew 12:22 (DRB)",
+    "connected_to": "Matthew 12:23",
+    "connected_from": "Matthew 12:21"
+  },
+  {
+    "text": "And all the multitudes were amazed, and said: Is not this the son of David?",
+    "reference": "Matthew 12:23 (DRB)",
+    "connected_to": "Matthew 12:24",
+    "connected_from": "Matthew 12:22"
+  },
+  {
+    "text": "But the Pharisees hearing it, said: This man casteth not out the devils but by Beelzebub the prince of the devils.",
+    "reference": "Matthew 12:24 (DRB)",
+    "connected_to": "Matthew 12:25",
+    "connected_from": "Matthew 12:23"
+  },
+  {
+    "text": "And Jesus knowing their thoughts, said to them: Every kingdom divided against itself shall be made desolate: and every city or house divided against itself shall not stand.",
+    "reference": "Matthew 12:25 (DRB)",
+    "connected_to": "Matthew 12:26",
+    "connected_from": "Matthew 12:24"
+  },
+  {
+    "text": "And if Satan cast out Satan, he is divided against himself: how then shall his kingdom stand?",
+    "reference": "Matthew 12:26 (DRB)",
+    "connected_to": "Matthew 12:27",
+    "connected_from": "Matthew 12:25"
+  },
+  {
+    "text": "And if I by Beelzebub cast out devils, by whom do your children cast them out? Therefore they shall be your judges.",
+    "reference": "Matthew 12:27 (DRB)",
+    "connected_to": "Matthew 12:28",
+    "connected_from": "Matthew 12:26"
+  },
+  {
+    "text": "But if I by the Spirit of God cast out devils, then is the kingdom of God come upon you.",
+    "reference": "Matthew 12:28 (DRB)",
+    "connected_to": "Matthew 12:29",
+    "connected_from": "Matthew 12:27"
+  },
+  {
+    "text": "Or how can any one enter into the house of the strong, and rifle his goods, unless he first bind the strong? and then he will rifle his house.",
+    "reference": "Matthew 12:29 (DRB)",
+    "connected_to": "Matthew 12:30",
+    "connected_from": "Matthew 12:28"
+  },
+  {
+    "text": "He that is not with me, is against me: and he that gathereth not with me, scattereth.",
+    "reference": "Matthew 12:30 (DRB)",
+    "connected_to": "Matthew 12:31",
+    "connected_from": "Matthew 12:29"
+  },
+  {
+    "text": "Therefore I say to you: Every sin and blasphemy shall be forgiven men, but the blasphemy of the Spirit shall not be forgiven.",
+    "reference": "Matthew 12:31 (DRB)",
+    "connected_to": "Matthew 12:32",
+    "connected_from": "Matthew 12:30"
+  },
+  {
+    "text": "And whosoever shall speak a word against the Son of man, it shall be forgiven him: but he that shall speak against the Holy Ghost, it shall not be forgiven him, neither in this world, nor in the world to come.",
+    "reference": "Matthew 12:32 (DRB)",
+    "connected_to": "Matthew 12:33",
+    "connected_from": "Matthew 12:31"
+  },
+  {
+    "text": "Either make the tree good and its fruit good: or make the tree evil, and its fruit evil. For by the fruit the tree is known.",
+    "reference": "Matthew 12:33 (DRB)",
+    "connected_to": "Matthew 12:34",
+    "connected_from": "Matthew 12:32"
+  },
+  {
+    "text": "O generation of vipers, how can you speak good things, whereas you are evil? for out of the abundance of the heart the mouth speaketh.",
+    "reference": "Matthew 12:34 (DRB)",
+    "connected_to": "Matthew 12:35",
+    "connected_from": "Matthew 12:33"
+  },
+  {
+    "text": "A good man out of a good treasure bringeth forth good things: and an evil man out of an evil treasure bringeth forth evil things.",
+    "reference": "Matthew 12:35 (DRB)",
+    "connected_to": "Matthew 12:36",
+    "connected_from": "Matthew 12:34"
+  },
+  {
+    "text": "But I say unto you, that every idle word that men shall speak, they shall render an account for it in the day of judgment.",
+    "reference": "Matthew 12:36 (DRB)",
+    "connected_to": "Matthew 12:37",
+    "connected_from": "Matthew 12:35"
+  },
+  {
+    "text": "For by thy words thou shalt be justified, and by thy words thou shalt be condemned.",
+    "reference": "Matthew 12:37 (DRB)",
+    "connected_to": "Matthew 12:38",
+    "connected_from": "Matthew 12:36"
+  },
+  {
+    "text": "Then some of the scribes and Pharisees answered him, saying: Master we would see a sign from thee.",
+    "reference": "Matthew 12:38 (DRB)",
+    "connected_to": "Matthew 12:39",
+    "connected_from": "Matthew 12:37"
+  },
+  {
+    "text": "Who answering said to them: An evil and adulterous generation seeketh a sign: and a sign shall not be given it, but the sign of Jonas the prophet.",
+    "reference": "Matthew 12:39 (DRB)",
+    "connected_to": "Matthew 12:40",
+    "connected_from": "Matthew 12:38"
+  },
+  {
+    "text": "For as Jonas was in the whale’s belly three days and three nights: so shall the Son of man be in the heart of the earth three days and three nights.",
+    "reference": "Matthew 12:40 (DRB)",
+    "connected_to": "Matthew 12:41",
+    "connected_from": "Matthew 12:39"
+  },
+  {
+    "text": "The men of Ninive shall rise in judgment with this generation, and shall condemn it: because they did penance at the preaching of Jonas. And behold a greater than Jonas here.",
+    "reference": "Matthew 12:41 (DRB)",
+    "connected_to": "Matthew 12:42",
+    "connected_from": "Matthew 12:40"
+  },
+  {
+    "text": "The queen of the south shall rise in judgment with this generation, and shall condemn it: because she came from the ends of the earth to hear the wisdom of Solomon, and behold a greater than Solomon here.",
+    "reference": "Matthew 12:42 (DRB)",
+    "connected_to": "Matthew 12:43",
+    "connected_from": "Matthew 12:41"
+  },
+  {
+    "text": "And when an unclean spirit is gone out of a man he walketh through dry places seeking rest, and findeth none.",
+    "reference": "Matthew 12:43 (DRB)",
+    "connected_to": "Matthew 12:44",
+    "connected_from": "Matthew 12:42"
+  },
+  {
+    "text": "Then he saith: I will return into my house from whence I came out. And coming he findeth it empty, swept, and garnished.",
+    "reference": "Matthew 12:44 (DRB)",
+    "connected_to": "Matthew 12:45",
+    "connected_from": "Matthew 12:43"
+  },
+  {
+    "text": "Then he goeth, and taketh with him seven other spirits more wicked than himself, and they enter in and dwell there: and the last state of that man in made worse than the first. So shall it be also to this wicked generation.",
+    "reference": "Matthew 12:45 (DRB)",
+    "connected_to": "Matthew 12:46",
+    "connected_from": "Matthew 12:44"
+  },
+  {
+    "text": "As he was yet speaking to the multitudes, behold his mother and his brethren stood without, seeking to speak to him.",
+    "reference": "Matthew 12:46 (DRB)",
+    "connected_to": "Matthew 12:47",
+    "connected_from": "Matthew 12:45"
+  },
+  {
+    "text": "And one said unto him: Behold thy mother and thy brethren stand without, seeking thee.",
+    "reference": "Matthew 12:47 (DRB)",
+    "connected_to": "Matthew 12:48",
+    "connected_from": "Matthew 12:46"
+  },
+  {
+    "text": "But he answering him that told him, said: Who is my mother, and who are my brethren?",
+    "reference": "Matthew 12:48 (DRB)",
+    "connected_to": "Matthew 12:49",
+    "connected_from": "Matthew 12:47"
+  },
+  {
+    "text": "And stretching forth his hand towards his disciples, he said: Behold my mother and my brethren.",
+    "reference": "Matthew 12:49 (DRB)",
+    "connected_to": "Matthew 12:50",
+    "connected_from": "Matthew 12:48"
+  },
+  {
+    "text": "For whosoever shall do the will of my Father, that is in heaven, he is my brother, and sister, and mother.",
+    "reference": "Matthew 12:50 (DRB)",
+    "connected_from": "Matthew 12:49"
+  }
+]

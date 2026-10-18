@@ -1,0 +1,132 @@
+[
+  {
+    "text": "Remember, O Lord, what has befallen us. Consider and look kindly upon our disgrace.",
+    "reference": "Lamentations 5:1 (CPDV)",
+    "connected_to": "Lamentations 5:2"
+  },
+  {
+    "text": "Our inheritance has been turned over to foreigners; our houses to outsiders.",
+    "reference": "Lamentations 5:2 (CPDV)",
+    "connected_to": "Lamentations 5:3",
+    "connected_from": "Lamentations 5:1"
+  },
+  {
+    "text": "We have become orphans without a father; our mothers are like widows.",
+    "reference": "Lamentations 5:3 (CPDV)",
+    "connected_to": "Lamentations 5:4",
+    "connected_from": "Lamentations 5:2"
+  },
+  {
+    "text": "We paid for our drinking water. We acquired our wood for a price.",
+    "reference": "Lamentations 5:4 (CPDV)",
+    "connected_to": "Lamentations 5:5",
+    "connected_from": "Lamentations 5:3"
+  },
+  {
+    "text": "We were dragged by our necks. Being weary, no rest was given to us.",
+    "reference": "Lamentations 5:5 (CPDV)",
+    "connected_to": "Lamentations 5:6",
+    "connected_from": "Lamentations 5:4"
+  },
+  {
+    "text": "We have given our hand to Egypt and to the Assyrians, so that we may be satisfied with bread.",
+    "reference": "Lamentations 5:6 (CPDV)",
+    "connected_to": "Lamentations 5:7",
+    "connected_from": "Lamentations 5:5"
+  },
+  {
+    "text": "Our fathers have sinned, and are not. And we have carried their iniquities.",
+    "reference": "Lamentations 5:7 (CPDV)",
+    "connected_to": "Lamentations 5:8",
+    "connected_from": "Lamentations 5:6"
+  },
+  {
+    "text": "Servants have become rulers over us. There was no one to redeem us from their hand.",
+    "reference": "Lamentations 5:8 (CPDV)",
+    "connected_to": "Lamentations 5:9",
+    "connected_from": "Lamentations 5:7"
+  },
+  {
+    "text": "We obtained our bread at the risk of our lives, before the face of the sword, in the wilderness.",
+    "reference": "Lamentations 5:9 (CPDV)",
+    "connected_to": "Lamentations 5:10",
+    "connected_from": "Lamentations 5:8"
+  },
+  {
+    "text": "Our skin was burned, as if by an oven, before the face of the tempest of the famine.",
+    "reference": "Lamentations 5:10 (CPDV)",
+    "connected_to": "Lamentations 5:11",
+    "connected_from": "Lamentations 5:9"
+  },
+  {
+    "text": "They humiliated the women in Zion and the virgins in the cities of Judah.",
+    "reference": "Lamentations 5:11 (CPDV)",
+    "connected_to": "Lamentations 5:12",
+    "connected_from": "Lamentations 5:10"
+  },
+  {
+    "text": "The leaders were suspended by their hand. They were not ashamed before the faces of the elders.",
+    "reference": "Lamentations 5:12 (CPDV)",
+    "connected_to": "Lamentations 5:13",
+    "connected_from": "Lamentations 5:11"
+  },
+  {
+    "text": "They have sexually abused the adolescents, and the children were corrupted in the wood.",
+    "reference": "Lamentations 5:13 (CPDV)",
+    "connected_to": "Lamentations 5:14",
+    "connected_from": "Lamentations 5:12"
+  },
+  {
+    "text": "The elders have ceased from the gates, the youths from the choir of the psalms.",
+    "reference": "Lamentations 5:14 (CPDV)",
+    "connected_to": "Lamentations 5:15",
+    "connected_from": "Lamentations 5:13"
+  },
+  {
+    "text": "The gladness of our heart has failed, our singing has been turned into mourning.",
+    "reference": "Lamentations 5:15 (CPDV)",
+    "connected_to": "Lamentations 5:16",
+    "connected_from": "Lamentations 5:14"
+  },
+  {
+    "text": "The crown has fallen from our head. Woe to us, for we have sinned.",
+    "reference": "Lamentations 5:16 (CPDV)",
+    "connected_to": "Lamentations 5:17",
+    "connected_from": "Lamentations 5:15"
+  },
+  {
+    "text": "Because of this, our heart became gloomy; for this reason, our eyes have been darkened:",
+    "reference": "Lamentations 5:17 (CPDV)",
+    "connected_to": "Lamentations 5:18",
+    "connected_from": "Lamentations 5:16"
+  },
+  {
+    "text": "because of mount Zion, because it was ruined. Foxes have wandered upon it.",
+    "reference": "Lamentations 5:18 (CPDV)",
+    "connected_to": "Lamentations 5:19",
+    "connected_from": "Lamentations 5:17"
+  },
+  {
+    "text": "But you, O Lord, shall remain for eternity, your throne from generation to generation.",
+    "reference": "Lamentations 5:19 (CPDV)",
+    "connected_to": "Lamentations 5:20",
+    "connected_from": "Lamentations 5:18"
+  },
+  {
+    "text": "Why would you forget us forever? Why would you forsake us for a long time?",
+    "reference": "Lamentations 5:20 (CPDV)",
+    "connected_to": "Lamentations 5:21",
+    "connected_from": "Lamentations 5:19"
+  },
+  {
+    "text": "Convert us, O Lord, to you, and we shall be converted. Renew our days, as from the beginning.",
+    "reference": "Lamentations 5:21 (CPDV)",
+    "connected_to": "Lamentations 5:22",
+    "connected_from": "Lamentations 5:20"
+  },
+  {
+    "text": "But you have utterly rejected us; you are vehemently angry against us.",
+    "reference": "Lamentations 5:22 (CPDV)",
+    "connected_from": "Lamentations 5:21"
+  }
+]

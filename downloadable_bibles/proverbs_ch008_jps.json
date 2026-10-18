@@ -1,0 +1,216 @@
+[
+  {
+    "text": "Doth not wisdom call, And understanding put forth her voice?",
+    "reference": "Proverbs 8:1 (JPS)",
+    "connected_to": "Proverbs 8:2"
+  },
+  {
+    "text": "In the top of high places by the way, Where the paths meet, she standeth;",
+    "reference": "Proverbs 8:2 (JPS)",
+    "connected_to": "Proverbs 8:3",
+    "connected_from": "Proverbs 8:1"
+  },
+  {
+    "text": "Beside the gates, at the entry of the city, At the coming in at the doors, she crieth aloud:",
+    "reference": "Proverbs 8:3 (JPS)",
+    "connected_to": "Proverbs 8:4",
+    "connected_from": "Proverbs 8:2"
+  },
+  {
+    "text": "Unto you, O men, I call, And my voice is to the sons of men.",
+    "reference": "Proverbs 8:4 (JPS)",
+    "connected_to": "Proverbs 8:5",
+    "connected_from": "Proverbs 8:3"
+  },
+  {
+    "text": "O ye thoughtless, understand prudence, And, ye fools, be ye of an understanding heart.",
+    "reference": "Proverbs 8:5 (JPS)",
+    "connected_to": "Proverbs 8:6",
+    "connected_from": "Proverbs 8:4"
+  },
+  {
+    "text": "Hear, for I will speak excellent things, And the opening of my lips shall be right things.",
+    "reference": "Proverbs 8:6 (JPS)",
+    "connected_to": "Proverbs 8:7",
+    "connected_from": "Proverbs 8:5"
+  },
+  {
+    "text": "For my mouth shall utter truth, And wickedness is an abomination to my lips.",
+    "reference": "Proverbs 8:7 (JPS)",
+    "connected_to": "Proverbs 8:8",
+    "connected_from": "Proverbs 8:6"
+  },
+  {
+    "text": "All the words of my mouth are in righteousness, There is nothing perverse or crooked in them.",
+    "reference": "Proverbs 8:8 (JPS)",
+    "connected_to": "Proverbs 8:9",
+    "connected_from": "Proverbs 8:7"
+  },
+  {
+    "text": "They are all plain to him that understandeth, And right to them that find knowledge.",
+    "reference": "Proverbs 8:9 (JPS)",
+    "connected_to": "Proverbs 8:10",
+    "connected_from": "Proverbs 8:8"
+  },
+  {
+    "text": "Receive my instruction, and not silver, And knowledge rather than choice gold.",
+    "reference": "Proverbs 8:10 (JPS)",
+    "connected_to": "Proverbs 8:11",
+    "connected_from": "Proverbs 8:9"
+  },
+  {
+    "text": "For wisdom is better than rubies, And all things desirable are not to be compared unto her.",
+    "reference": "Proverbs 8:11 (JPS)",
+    "connected_to": "Proverbs 8:12",
+    "connected_from": "Proverbs 8:10"
+  },
+  {
+    "text": "I wisdom dwell with prudence, And find out knowledge of devices.",
+    "reference": "Proverbs 8:12 (JPS)",
+    "connected_to": "Proverbs 8:13",
+    "connected_from": "Proverbs 8:11"
+  },
+  {
+    "text": "The fear of the LORD is to hate evil; Pride, and arrogancy, and the evil way, And the froward mouth, do I hate.",
+    "reference": "Proverbs 8:13 (JPS)",
+    "connected_to": "Proverbs 8:14",
+    "connected_from": "Proverbs 8:12"
+  },
+  {
+    "text": "Counsel is mine, and sound wisdom; I am understanding, power is mine.",
+    "reference": "Proverbs 8:14 (JPS)",
+    "connected_to": "Proverbs 8:15",
+    "connected_from": "Proverbs 8:13"
+  },
+  {
+    "text": "By me kings reign, And princes decree justice.",
+    "reference": "Proverbs 8:15 (JPS)",
+    "connected_to": "Proverbs 8:16",
+    "connected_from": "Proverbs 8:14"
+  },
+  {
+    "text": "By me princes rule, And nobles, even all the judges of the earth.",
+    "reference": "Proverbs 8:16 (JPS)",
+    "connected_to": "Proverbs 8:17",
+    "connected_from": "Proverbs 8:15"
+  },
+  {
+    "text": "I love them that love me, And those that seek me earnestly shall find me.",
+    "reference": "Proverbs 8:17 (JPS)",
+    "connected_to": "Proverbs 8:18",
+    "connected_from": "Proverbs 8:16"
+  },
+  {
+    "text": "Riches and honour are with me; Yea, enduring riches and righteousness.",
+    "reference": "Proverbs 8:18 (JPS)",
+    "connected_to": "Proverbs 8:19",
+    "connected_from": "Proverbs 8:17"
+  },
+  {
+    "text": "My fruit is better than gold, yea, than fine gold; And my produce than choice silver.",
+    "reference": "Proverbs 8:19 (JPS)",
+    "connected_to": "Proverbs 8:20",
+    "connected_from": "Proverbs 8:18"
+  },
+  {
+    "text": "I walk in the way of righteousness, In the midst of the paths of justice;",
+    "reference": "Proverbs 8:20 (JPS)",
+    "connected_to": "Proverbs 8:21",
+    "connected_from": "Proverbs 8:19"
+  },
+  {
+    "text": "That I may cause those that love me to inherit substance, And that I may fill their treasuries.",
+    "reference": "Proverbs 8:21 (JPS)",
+    "connected_to": "Proverbs 8:22",
+    "connected_from": "Proverbs 8:20"
+  },
+  {
+    "text": "The LORD made me as the beginning of His way, The first of His works of old.",
+    "reference": "Proverbs 8:22 (JPS)",
+    "connected_to": "Proverbs 8:23",
+    "connected_from": "Proverbs 8:21"
+  },
+  {
+    "text": "I was set up from everlasting, from the beginning, Or ever the earth was.",
+    "reference": "Proverbs 8:23 (JPS)",
+    "connected_to": "Proverbs 8:24",
+    "connected_from": "Proverbs 8:22"
+  },
+  {
+    "text": "When there were no depths, I was brought forth; When there were no fountains abounding with water.",
+    "reference": "Proverbs 8:24 (JPS)",
+    "connected_to": "Proverbs 8:25",
+    "connected_from": "Proverbs 8:23"
+  },
+  {
+    "text": "Before the mountains were settled, Before the hills was I brought forth;",
+    "reference": "Proverbs 8:25 (JPS)",
+    "connected_to": "Proverbs 8:26",
+    "connected_from": "Proverbs 8:24"
+  },
+  {
+    "text": "While as yet He had not made the earth, nor the fields, Nor the beginning of the dust of the world.",
+    "reference": "Proverbs 8:26 (JPS)",
+    "connected_to": "Proverbs 8:27",
+    "connected_from": "Proverbs 8:25"
+  },
+  {
+    "text": "When He established the heavens, I was there; When He set a circle upon the face of the deep,",
+    "reference": "Proverbs 8:27 (JPS)",
+    "connected_to": "Proverbs 8:28",
+    "connected_from": "Proverbs 8:26"
+  },
+  {
+    "text": "When He made firm the skies above, When the fountains of the deep showed their might,",
+    "reference": "Proverbs 8:28 (JPS)",
+    "connected_to": "Proverbs 8:29",
+    "connected_from": "Proverbs 8:27"
+  },
+  {
+    "text": "When He gave to the sea His decree, That the waters should not transgress His commandment, When He appointed the foundations of the earth;",
+    "reference": "Proverbs 8:29 (JPS)",
+    "connected_to": "Proverbs 8:30",
+    "connected_from": "Proverbs 8:28"
+  },
+  {
+    "text": "Then I was by Him, as a nursling; And I was daily all delight, Playing always before Him,",
+    "reference": "Proverbs 8:30 (JPS)",
+    "connected_to": "Proverbs 8:31",
+    "connected_from": "Proverbs 8:29"
+  },
+  {
+    "text": "Playing in His habitable earth, And my delights are with the sons of men.",
+    "reference": "Proverbs 8:31 (JPS)",
+    "connected_to": "Proverbs 8:32",
+    "connected_from": "Proverbs 8:30"
+  },
+  {
+    "text": "Now therefore, ye children, hearken unto me; For happy are they that keep my ways.",
+    "reference": "Proverbs 8:32 (JPS)",
+    "connected_to": "Proverbs 8:33",
+    "connected_from": "Proverbs 8:31"
+  },
+  {
+    "text": "Hear instruction, and be wise, And refuse it not.",
+    "reference": "Proverbs 8:33 (JPS)",
+    "connected_to": "Proverbs 8:34",
+    "connected_from": "Proverbs 8:32"
+  },
+  {
+    "text": "Happy is the man that hearkeneth to me, Watching daily at my gates, waiting at the posts of my doors.",
+    "reference": "Proverbs 8:34 (JPS)",
+    "connected_to": "Proverbs 8:35",
+    "connected_from": "Proverbs 8:33"
+  },
+  {
+    "text": "For whoso findeth me findeth life, And obtaineth favour of the LORD.",
+    "reference": "Proverbs 8:35 (JPS)",
+    "connected_to": "Proverbs 8:36",
+    "connected_from": "Proverbs 8:34"
+  },
+  {
+    "text": "But he that misseth me wrongeth his own soul; All they that hate me love death.’",
+    "reference": "Proverbs 8:36 (JPS)",
+    "connected_from": "Proverbs 8:35"
+  }
+]

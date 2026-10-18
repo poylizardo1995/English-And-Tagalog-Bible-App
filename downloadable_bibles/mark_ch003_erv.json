@@ -1,0 +1,210 @@
+[
+  {
+    "text": "And he entered again into the synagogue; and there was a man there which had his hand withered.",
+    "reference": "Mark 3:1 (ERV)",
+    "connected_to": "Mark 3:2"
+  },
+  {
+    "text": "And they watched him, whether he would heal him on the sabbath day; that they might accuse him.",
+    "reference": "Mark 3:2 (ERV)",
+    "connected_to": "Mark 3:3",
+    "connected_from": "Mark 3:1"
+  },
+  {
+    "text": "And he saith unto the man that had his hand withered, Stand forth.",
+    "reference": "Mark 3:3 (ERV)",
+    "connected_to": "Mark 3:4",
+    "connected_from": "Mark 3:2"
+  },
+  {
+    "text": "And he saith unto them, Is it lawful on the sabbath day to do good, or to do harm? to save a life, or to kill? But they held their peace.",
+    "reference": "Mark 3:4 (ERV)",
+    "connected_to": "Mark 3:5",
+    "connected_from": "Mark 3:3"
+  },
+  {
+    "text": "And when he had looked round about on them with anger, being grieved at the hardening of their heart, he saith unto the man, Stretch forth thy hand. And he stretched it forth: and his hand was restored.",
+    "reference": "Mark 3:5 (ERV)",
+    "connected_to": "Mark 3:6",
+    "connected_from": "Mark 3:4"
+  },
+  {
+    "text": "And the Pharisees went out, and straightway with the Herodians took counsel against him, how they might destroy him.",
+    "reference": "Mark 3:6 (ERV)",
+    "connected_to": "Mark 3:7",
+    "connected_from": "Mark 3:5"
+  },
+  {
+    "text": "And Jesus with his disciples withdrew to the sea: and a great multitude from Galilee followed: and from Judaea,",
+    "reference": "Mark 3:7 (ERV)",
+    "connected_to": "Mark 3:8",
+    "connected_from": "Mark 3:6"
+  },
+  {
+    "text": "and from Jerusalem, and from Idumaea, and beyond Jordan, and about Tyre and Sidon, a great multitude, hearing what great things he did, came unto him.",
+    "reference": "Mark 3:8 (ERV)",
+    "connected_to": "Mark 3:9",
+    "connected_from": "Mark 3:7"
+  },
+  {
+    "text": "And he spake to his disciples, that a little boat should wait on him because of the crowd, lest they should throng him:",
+    "reference": "Mark 3:9 (ERV)",
+    "connected_to": "Mark 3:10",
+    "connected_from": "Mark 3:8"
+  },
+  {
+    "text": "for he had healed many; insomuch that as many as had plagues pressed upon him that they might touch him.",
+    "reference": "Mark 3:10 (ERV)",
+    "connected_to": "Mark 3:11",
+    "connected_from": "Mark 3:9"
+  },
+  {
+    "text": "And the unclean spirits, whensoever they beheld him, fell down before him, and cried, saying, Thou art the Son of God.",
+    "reference": "Mark 3:11 (ERV)",
+    "connected_to": "Mark 3:12",
+    "connected_from": "Mark 3:10"
+  },
+  {
+    "text": "And he charged them much that they should not make him known.",
+    "reference": "Mark 3:12 (ERV)",
+    "connected_to": "Mark 3:13",
+    "connected_from": "Mark 3:11"
+  },
+  {
+    "text": "And he goeth up into the mountain, and calleth unto him whom he himself would: and they went unto him.",
+    "reference": "Mark 3:13 (ERV)",
+    "connected_to": "Mark 3:14",
+    "connected_from": "Mark 3:12"
+  },
+  {
+    "text": "And he appointed twelve, that they might be with him, and that he might send them forth to preach,",
+    "reference": "Mark 3:14 (ERV)",
+    "connected_to": "Mark 3:15",
+    "connected_from": "Mark 3:13"
+  },
+  {
+    "text": "and to have authority to cast out devils:",
+    "reference": "Mark 3:15 (ERV)",
+    "connected_to": "Mark 3:16",
+    "connected_from": "Mark 3:14"
+  },
+  {
+    "text": "and Simon he surnamed Peter;",
+    "reference": "Mark 3:16 (ERV)",
+    "connected_to": "Mark 3:17",
+    "connected_from": "Mark 3:15"
+  },
+  {
+    "text": "and James the son of Zebedee, and John the brother of James; and them he surnamed Boanerges, which is, Sons of thunder:",
+    "reference": "Mark 3:17 (ERV)",
+    "connected_to": "Mark 3:18",
+    "connected_from": "Mark 3:16"
+  },
+  {
+    "text": "and Andrew, and Philip, and Bartholomew, and Matthew, and Thomas, and James the son of Alphaeus, and Thaddaeus, and Simon the Cananaean,",
+    "reference": "Mark 3:18 (ERV)",
+    "connected_to": "Mark 3:19",
+    "connected_from": "Mark 3:17"
+  },
+  {
+    "text": "and Judas Iscariot, which also betrayed him. And he cometh into a house.",
+    "reference": "Mark 3:19 (ERV)",
+    "connected_to": "Mark 3:20",
+    "connected_from": "Mark 3:18"
+  },
+  {
+    "text": "And the multitude cometh together again, so that they could not so much as eat bread.",
+    "reference": "Mark 3:20 (ERV)",
+    "connected_to": "Mark 3:21",
+    "connected_from": "Mark 3:19"
+  },
+  {
+    "text": "And when his friends heard it, they went out to lay hold on him: for they said, He is beside himself.",
+    "reference": "Mark 3:21 (ERV)",
+    "connected_to": "Mark 3:22",
+    "connected_from": "Mark 3:20"
+  },
+  {
+    "text": "And the scribes which came down from Jerusalem said, He hath Beelzebub, and, By the prince of the devils casteth he out the devils.",
+    "reference": "Mark 3:22 (ERV)",
+    "connected_to": "Mark 3:23",
+    "connected_from": "Mark 3:21"
+  },
+  {
+    "text": "And he called them unto him, and said unto them in parables, How can Satan cast out Satan?",
+    "reference": "Mark 3:23 (ERV)",
+    "connected_to": "Mark 3:24",
+    "connected_from": "Mark 3:22"
+  },
+  {
+    "text": "And if a kingdom be divided against itself, that kingdom cannot stand.",
+    "reference": "Mark 3:24 (ERV)",
+    "connected_to": "Mark 3:25",
+    "connected_from": "Mark 3:23"
+  },
+  {
+    "text": "And if a house be divided against itself, that house will not be able to stand.",
+    "reference": "Mark 3:25 (ERV)",
+    "connected_to": "Mark 3:26",
+    "connected_from": "Mark 3:24"
+  },
+  {
+    "text": "And if Satan hath risen up against himself, and is divided, he cannot stand, but hath an end.",
+    "reference": "Mark 3:26 (ERV)",
+    "connected_to": "Mark 3:27",
+    "connected_from": "Mark 3:25"
+  },
+  {
+    "text": "But no one can enter into the house of the strong man, and spoil his goods, except he first bind the strong man; and then he will spoil his house.",
+    "reference": "Mark 3:27 (ERV)",
+    "connected_to": "Mark 3:28",
+    "connected_from": "Mark 3:26"
+  },
+  {
+    "text": "Verily I say unto you, All their sins shall be forgiven unto the sons of men, and their blasphemies wherewith soever they shall blaspheme:",
+    "reference": "Mark 3:28 (ERV)",
+    "connected_to": "Mark 3:29",
+    "connected_from": "Mark 3:27"
+  },
+  {
+    "text": "but whosoever shall blaspheme against the Holy Spirit hath never forgiveness, but is guilty of an eternal sin:",
+    "reference": "Mark 3:29 (ERV)",
+    "connected_to": "Mark 3:30",
+    "connected_from": "Mark 3:28"
+  },
+  {
+    "text": "because they said, He hath an unclean spirit.",
+    "reference": "Mark 3:30 (ERV)",
+    "connected_to": "Mark 3:31",
+    "connected_from": "Mark 3:29"
+  },
+  {
+    "text": "And there come his mother and his brethren; and, standing without, they sent unto him, calling him.",
+    "reference": "Mark 3:31 (ERV)",
+    "connected_to": "Mark 3:32",
+    "connected_from": "Mark 3:30"
+  },
+  {
+    "text": "And a multitude was sitting about him; and they say unto him, Behold, thy mother and thy brethren without seek for thee.",
+    "reference": "Mark 3:32 (ERV)",
+    "connected_to": "Mark 3:33",
+    "connected_from": "Mark 3:31"
+  },
+  {
+    "text": "And he answereth them, and saith, Who is my mother and my brethren?",
+    "reference": "Mark 3:33 (ERV)",
+    "connected_to": "Mark 3:34",
+    "connected_from": "Mark 3:32"
+  },
+  {
+    "text": "And looking round on them which sat round about him, he saith, Behold, my mother and my brethren!",
+    "reference": "Mark 3:34 (ERV)",
+    "connected_to": "Mark 3:35",
+    "connected_from": "Mark 3:33"
+  },
+  {
+    "text": "For whosoever shall do the will of God, the same is my brother, and sister, and mother.",
+    "reference": "Mark 3:35 (ERV)",
+    "connected_from": "Mark 3:34"
+  }
+]

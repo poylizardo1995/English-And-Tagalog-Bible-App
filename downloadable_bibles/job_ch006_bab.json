@@ -1,0 +1,180 @@
+[
+  {
+    "text": "Then Job (hated) replied:",
+    "reference": "Job 6:1 (BAB)",
+    "connected_to": "Job 6:2"
+  },
+  {
+    "text": "“If only my grief could be weighed and placed with my calamity on the scales.",
+    "reference": "Job 6:2 (BAB)",
+    "connected_to": "Job 6:3",
+    "connected_from": "Job 6:1"
+  },
+  {
+    "text": "For then it would outweigh the sand of the seas—no wonder my words have been rash.",
+    "reference": "Job 6:3 (BAB)",
+    "connected_to": "Job 6:4",
+    "connected_from": "Job 6:2"
+  },
+  {
+    "text": "For the arrows of the Almighty have pierced me; my spirit {ruahi} drinks in their poison; the terrors of God are arrayed against me.",
+    "reference": "Job 6:4 (BAB)",
+    "connected_to": "Job 6:5",
+    "connected_from": "Job 6:3"
+  },
+  {
+    "text": "Does a wild donkey bray over fresh grass, or an ox low over its fodder?",
+    "reference": "Job 6:5 (BAB)",
+    "connected_to": "Job 6:6",
+    "connected_from": "Job 6:4"
+  },
+  {
+    "text": "Is tasteless food eaten without salt, or is there flavor in the white of an egg (in the sap of the mallow plant)",
+    "reference": "Job 6:6 (BAB)",
+    "connected_to": "Job 6:7",
+    "connected_from": "Job 6:5"
+  },
+  {
+    "text": "My soul refuses to touch them; they are loathsome food to me.",
+    "reference": "Job 6:7 (BAB)",
+    "connected_to": "Job 6:8",
+    "connected_from": "Job 6:6"
+  },
+  {
+    "text": "If only my request were granted and God would fulfill my hope:",
+    "reference": "Job 6:8 (BAB)",
+    "connected_to": "Job 6:9",
+    "connected_from": "Job 6:7"
+  },
+  {
+    "text": "that God would be willing to crush me, to unleash His hand and cut me off!",
+    "reference": "Job 6:9 (BAB)",
+    "connected_to": "Job 6:10",
+    "connected_from": "Job 6:8"
+  },
+  {
+    "text": "It still brings me comfort, and joy through unrelenting pain, that I have not denied the words of the Holy One {Qadosh}.",
+    "reference": "Job 6:10 (BAB)",
+    "connected_to": "Job 6:11",
+    "connected_from": "Job 6:9"
+  },
+  {
+    "text": "What strength do I have, that I should still hope? What is my future, that I should be patient?",
+    "reference": "Job 6:11 (BAB)",
+    "connected_to": "Job 6:12",
+    "connected_from": "Job 6:10"
+  },
+  {
+    "text": "Is my strength like that of stone, or my flesh made of bronze?",
+    "reference": "Job 6:12 (BAB)",
+    "connected_to": "Job 6:13",
+    "connected_from": "Job 6:11"
+  },
+  {
+    "text": "Is there any help within me now that success is driven from me?",
+    "reference": "Job 6:13 (BAB)",
+    "connected_to": "Job 6:14",
+    "connected_from": "Job 6:12"
+  },
+  {
+    "text": "A despairing man should have the kindness of his friend, even if he forsakes the fear of the Almighty.",
+    "reference": "Job 6:14 (BAB)",
+    "connected_to": "Job 6:15",
+    "connected_from": "Job 6:13"
+  },
+  {
+    "text": "But my brothers are as faithless as wadis, as seasonal streams that overflow,",
+    "reference": "Job 6:15 (BAB)",
+    "connected_to": "Job 6:16",
+    "connected_from": "Job 6:14"
+  },
+  {
+    "text": "darkened because of the ice and the inflow of melting snow,",
+    "reference": "Job 6:16 (BAB)",
+    "connected_to": "Job 6:17",
+    "connected_from": "Job 6:15"
+  },
+  {
+    "text": "but ceasing in the dry season and vanishing from their channels in the heat.",
+    "reference": "Job 6:17 (BAB)",
+    "connected_to": "Job 6:18",
+    "connected_from": "Job 6:16"
+  },
+  {
+    "text": "Caravans turn aside from their routes; they go into the wasteland and perish.",
+    "reference": "Job 6:18 (BAB)",
+    "connected_to": "Job 6:19",
+    "connected_from": "Job 6:17"
+  },
+  {
+    "text": "The caravans of Tema (desert) look for water; the travelers of Sheba (seven) hope to find it.",
+    "reference": "Job 6:19 (BAB)",
+    "connected_to": "Job 6:20",
+    "connected_from": "Job 6:18"
+  },
+  {
+    "text": "They are confounded because they had hoped; their arrival brings disappointment.",
+    "reference": "Job 6:20 (BAB)",
+    "connected_to": "Job 6:21",
+    "connected_from": "Job 6:19"
+  },
+  {
+    "text": "For now you⁺ are of no help; you⁺ see terror, and you⁺ are afraid.",
+    "reference": "Job 6:21 (BAB)",
+    "connected_to": "Job 6:22",
+    "connected_from": "Job 6:20"
+  },
+  {
+    "text": "Have I ever said, ‘Give me something; offer me a bribe from your⁺ wealth;",
+    "reference": "Job 6:22 (BAB)",
+    "connected_to": "Job 6:23",
+    "connected_from": "Job 6:21"
+  },
+  {
+    "text": "deliver me from the hand of the enemy; redeem me from the grasp of the ruthless’?",
+    "reference": "Job 6:23 (BAB)",
+    "connected_to": "Job 6:24",
+    "connected_from": "Job 6:22"
+  },
+  {
+    "text": "Teach me, and I will be silent. Help me understand how I have erred.",
+    "reference": "Job 6:24 (BAB)",
+    "connected_to": "Job 6:25",
+    "connected_from": "Job 6:23"
+  },
+  {
+    "text": "How painful are honest words! But what does your⁺ argument prove?",
+    "reference": "Job 6:25 (BAB)",
+    "connected_to": "Job 6:26",
+    "connected_from": "Job 6:24"
+  },
+  {
+    "text": "Do you⁺ intend to correct my words, and treat as wind {ruach} my cry of despair?",
+    "reference": "Job 6:26 (BAB)",
+    "connected_to": "Job 6:27",
+    "connected_from": "Job 6:25"
+  },
+  {
+    "text": "You⁺ would even cast lots for an orphan and barter away your⁺ friend.",
+    "reference": "Job 6:27 (BAB)",
+    "connected_to": "Job 6:28",
+    "connected_from": "Job 6:26"
+  },
+  {
+    "text": "But now, please look at me. Would I lie to your⁺ face?",
+    "reference": "Job 6:28 (BAB)",
+    "connected_to": "Job 6:29",
+    "connected_from": "Job 6:27"
+  },
+  {
+    "text": "Reconsider; do not be unjust. Reconsider, for my righteousness is at stake.",
+    "reference": "Job 6:29 (BAB)",
+    "connected_to": "Job 6:30",
+    "connected_from": "Job 6:28"
+  },
+  {
+    "text": "Is there iniquity on my tongue? Can my mouth not discern malice?",
+    "reference": "Job 6:30 (BAB)",
+    "connected_from": "Job 6:29"
+  }
+]

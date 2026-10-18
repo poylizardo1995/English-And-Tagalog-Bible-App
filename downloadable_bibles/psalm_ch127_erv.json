@@ -1,0 +1,30 @@
+[
+  {
+    "text": "A Song of Ascents; of Solomon. Except the LORD build the house, they labour in vain that build it: except the LORD keep the city, the watchman waketh but in vain.",
+    "reference": "Psalm 127:1 (ERV)",
+    "connected_to": "Psalm 127:2"
+  },
+  {
+    "text": "It is vain for you that ye rise up early, and so late take rest, and eat the bread of toil: for so he giveth unto his beloved sleep.",
+    "reference": "Psalm 127:2 (ERV)",
+    "connected_to": "Psalm 127:3",
+    "connected_from": "Psalm 127:1"
+  },
+  {
+    "text": "Lo, children are an heritage of the LORD: and the fruit of the womb is his reward.",
+    "reference": "Psalm 127:3 (ERV)",
+    "connected_to": "Psalm 127:4",
+    "connected_from": "Psalm 127:2"
+  },
+  {
+    "text": "As arrows in the hand of a mighty man, so are the children of youth.",
+    "reference": "Psalm 127:4 (ERV)",
+    "connected_to": "Psalm 127:5",
+    "connected_from": "Psalm 127:3"
+  },
+  {
+    "text": "Happy is the man that hath his quiver full of them: they shall not be ashamed, when they speak with their enemies in the gate.",
+    "reference": "Psalm 127:5 (ERV)",
+    "connected_from": "Psalm 127:4"
+  }
+]

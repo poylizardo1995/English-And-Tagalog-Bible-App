@@ -1,0 +1,66 @@
+[
+  {
+    "text": "{A Psalm of David; when he was in the wilderness of Judah.} O God, thou art my God; early will I seek thee. My soul thirsteth for thee, my flesh languisheth for thee, in a dry and weary land without water:",
+    "reference": "Psalm 63:1 (DBT)",
+    "connected_to": "Psalm 63:2"
+  },
+  {
+    "text": "To see thy power and thy glory, as I have beheld thee in the sanctuary;",
+    "reference": "Psalm 63:2 (DBT)",
+    "connected_to": "Psalm 63:3",
+    "connected_from": "Psalm 63:1"
+  },
+  {
+    "text": "For thy loving-kindness is better than life: my lips shall praise thee.",
+    "reference": "Psalm 63:3 (DBT)",
+    "connected_to": "Psalm 63:4",
+    "connected_from": "Psalm 63:2"
+  },
+  {
+    "text": "So will I bless thee while I live; I will lift up my hands in thy name.",
+    "reference": "Psalm 63:4 (DBT)",
+    "connected_to": "Psalm 63:5",
+    "connected_from": "Psalm 63:3"
+  },
+  {
+    "text": "My soul is satisfied as with marrow and fatness, and my mouth shall praise [thee] with joyful lips.",
+    "reference": "Psalm 63:5 (DBT)",
+    "connected_to": "Psalm 63:6",
+    "connected_from": "Psalm 63:4"
+  },
+  {
+    "text": "When I remember thee upon my bed, I meditate on thee in the night-watches:",
+    "reference": "Psalm 63:6 (DBT)",
+    "connected_to": "Psalm 63:7",
+    "connected_from": "Psalm 63:5"
+  },
+  {
+    "text": "For thou hast been my help, and in the shadow of thy wings will I sing for joy.",
+    "reference": "Psalm 63:7 (DBT)",
+    "connected_to": "Psalm 63:8",
+    "connected_from": "Psalm 63:6"
+  },
+  {
+    "text": "My soul followeth hard after thee: thy right hand upholdeth me.",
+    "reference": "Psalm 63:8 (DBT)",
+    "connected_to": "Psalm 63:9",
+    "connected_from": "Psalm 63:7"
+  },
+  {
+    "text": "But those that seek my soul, to destroy [it], shall go into the lower parts of the earth;",
+    "reference": "Psalm 63:9 (DBT)",
+    "connected_to": "Psalm 63:10",
+    "connected_from": "Psalm 63:8"
+  },
+  {
+    "text": "They shall be given over to the power of the sword; they shall be the portion of foxes.",
+    "reference": "Psalm 63:10 (DBT)",
+    "connected_to": "Psalm 63:11",
+    "connected_from": "Psalm 63:9"
+  },
+  {
+    "text": "But the king shall rejoice in God; every one that sweareth by him shall glory: for the mouth of them that speak lies shall be stopped.",
+    "reference": "Psalm 63:11 (DBT)",
+    "connected_from": "Psalm 63:10"
+  }
+]

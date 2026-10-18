@@ -1,0 +1,108 @@
+[
+  {
+    "text": "Masters {kyrioi}, supply your slaves {doulois} with what is right and fair, since you know that you⁺ also have a Master {Kyrion} in heaven.",
+    "reference": "Colossians 4:1 (BAB)",
+    "connected_to": "Colossians 4:2"
+  },
+  {
+    "text": "Devote yourselves to prayer, being watchful and thankful,",
+    "reference": "Colossians 4:2 (BAB)",
+    "connected_to": "Colossians 4:3",
+    "connected_from": "Colossians 4:1"
+  },
+  {
+    "text": "as you pray also for us, that God {Theos} may open to us a door for the word, so that we may proclaim the mystery of Christ (the Anointed One), for which I am in chains.",
+    "reference": "Colossians 4:3 (BAB)",
+    "connected_to": "Colossians 4:4",
+    "connected_from": "Colossians 4:2"
+  },
+  {
+    "text": "Pray that I may declare it clearly, as I should.",
+    "reference": "Colossians 4:4 (BAB)",
+    "connected_to": "Colossians 4:5",
+    "connected_from": "Colossians 4:3"
+  },
+  {
+    "text": "Act wisely toward outsiders, redeeming (ransoming) the time.",
+    "reference": "Colossians 4:5 (BAB)",
+    "connected_to": "Colossians 4:6",
+    "connected_from": "Colossians 4:4"
+  },
+  {
+    "text": "Let your⁺ speech always be gracious, seasoned with salt, so that you⁺ may know how to answer everyone.",
+    "reference": "Colossians 4:6 (BAB)",
+    "connected_to": "Colossians 4:7",
+    "connected_from": "Colossians 4:5"
+  },
+  {
+    "text": "Tychicus will tell you⁺ all the news about me. He is a beloved {agapētos} brother, a faithful minister {diakonos}, and a fellow servant {syndoulos} in the Lord {Kyriō}.",
+    "reference": "Colossians 4:7 (BAB)",
+    "connected_to": "Colossians 4:8",
+    "connected_from": "Colossians 4:6"
+  },
+  {
+    "text": "I have sent him to you⁺ for this very purpose, that you⁺ may know about us, and that he may encourage your⁺ hearts.",
+    "reference": "Colossians 4:8 (BAB)",
+    "connected_to": "Colossians 4:9",
+    "connected_from": "Colossians 4:7"
+  },
+  {
+    "text": "With him I am sending Onesimus (beneficial, profitable), our faithful and beloved {agapētō} brother, who is one of you⁺. They will tell you⁺ about everything here.",
+    "reference": "Colossians 4:9 (BAB)",
+    "connected_to": "Colossians 4:10",
+    "connected_from": "Colossians 4:8"
+  },
+  {
+    "text": "My fellow prisoner Aristarchus (of Macedonia) sends you⁺ greetings, as does Mark the cousin of Barnabas (son of encouragement). You⁺ have already received instructions about him: If he comes to you⁺, welcome him.",
+    "reference": "Colossians 4:10 (BAB)",
+    "connected_to": "Colossians 4:11",
+    "connected_from": "Colossians 4:9"
+  },
+  {
+    "text": "Jesus (YHWH saves), who is called Justus (righteous), also sends greetings. These are the only Jews among my fellow workers for the kingdom of God {Theou}, and they have been a comfort to me.",
+    "reference": "Colossians 4:11 (BAB)",
+    "connected_to": "Colossians 4:12",
+    "connected_from": "Colossians 4:10"
+  },
+  {
+    "text": "Epaphras, who is one of you⁺ and a servant {doulos} of Christ (the Anointed One) Jesus (YHWH saves), sends you⁺ greetings. He is always wrestling in prayer for you⁺, so that you⁺ may stand mature (complete) and fully assured in the full will of God {Theou}.",
+    "reference": "Colossians 4:12 (BAB)",
+    "connected_to": "Colossians 4:13",
+    "connected_from": "Colossians 4:11"
+  },
+  {
+    "text": "For I testify about him that he goes to great pains for you⁺ and for those at Laodicea and Hierapolis.",
+    "reference": "Colossians 4:13 (BAB)",
+    "connected_to": "Colossians 4:14",
+    "connected_from": "Colossians 4:12"
+  },
+  {
+    "text": "Luke (from Lucania), the beloved {agapētos} physician, and Demas send you⁺ greetings.",
+    "reference": "Colossians 4:14 (BAB)",
+    "connected_to": "Colossians 4:15",
+    "connected_from": "Colossians 4:13"
+  },
+  {
+    "text": "Greet the brothers (and sisters) in Laodicea, as well as Nympha and the church {ekklēsian} that meets at her house.",
+    "reference": "Colossians 4:15 (BAB)",
+    "connected_to": "Colossians 4:16",
+    "connected_from": "Colossians 4:14"
+  },
+  {
+    "text": "After this letter {epistolē} has been read among you⁺, make sure that it is also read in the church {ekklēsia} of the Laodiceans, and that you⁺ in turn read the letter from Laodicea.",
+    "reference": "Colossians 4:16 (BAB)",
+    "connected_to": "Colossians 4:17",
+    "connected_from": "Colossians 4:15"
+  },
+  {
+    "text": "Tell Archippus: “See to it that you complete the ministry {diakonian} you have received in the Lord {Kyriō}.",
+    "reference": "Colossians 4:17 (BAB)",
+    "connected_to": "Colossians 4:18",
+    "connected_from": "Colossians 4:16"
+  },
+  {
+    "text": "This greeting is in my own hand—Paul (humble). Remember my chains. Grace be with you⁺ [Amen.].",
+    "reference": "Colossians 4:18 (BAB)",
+    "connected_from": "Colossians 4:17"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man.",
+    "reference": "Psalm 43:1 (ERV)",
+    "connected_to": "Psalm 43:2"
+  },
+  {
+    "text": "For thou art the God of my strength; why hast thou cast me off? why go I mourning because of the oppression of the enemy?",
+    "reference": "Psalm 43:2 (ERV)",
+    "connected_to": "Psalm 43:3",
+    "connected_from": "Psalm 43:1"
+  },
+  {
+    "text": "O send out thy light and thy truth; let them lead me: let them bring me unto thy holy hill, and to thy tabernacles.",
+    "reference": "Psalm 43:3 (ERV)",
+    "connected_to": "Psalm 43:4",
+    "connected_from": "Psalm 43:2"
+  },
+  {
+    "text": "Then will I go unto the altar of God, unto God my exceeding joy: and upon the harp will I praise thee, O God, my God.",
+    "reference": "Psalm 43:4 (ERV)",
+    "connected_to": "Psalm 43:5",
+    "connected_from": "Psalm 43:3"
+  },
+  {
+    "text": "Why art thou cast down, O my soul? and why art thou disquieted within me? hope thou in God: for I shall yet praise him, who is the health of my countenance, and my God.",
+    "reference": "Psalm 43:5 (ERV)",
+    "connected_from": "Psalm 43:4"
+  }
+]

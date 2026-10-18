@@ -1,0 +1,78 @@
+[
+  {
+    "text": "And David said, Is there yet any that is left of the house of Saul, that I may show him kindness for Jonathan’s sake?",
+    "reference": "2 Samuel 9:1 (AKJV)",
+    "connected_to": "2 Samuel 9:2"
+  },
+  {
+    "text": "And there was of the house of Saul a servant whose name was Ziba. And when they had called him to David, the king said to him, Are you Ziba? And he said, Your servant is he.",
+    "reference": "2 Samuel 9:2 (AKJV)",
+    "connected_to": "2 Samuel 9:3",
+    "connected_from": "2 Samuel 9:1"
+  },
+  {
+    "text": "And the king said, Is there not yet any of the house of Saul, that I may show the kindness of God to him? And Ziba said to the king, Jonathan has yet a son, which is lame on his feet.",
+    "reference": "2 Samuel 9:3 (AKJV)",
+    "connected_to": "2 Samuel 9:4",
+    "connected_from": "2 Samuel 9:2"
+  },
+  {
+    "text": "And the king said to him, Where is he? And Ziba said to the king, Behold, he is in the house of Machir, the son of Ammiel, in Lodebar.",
+    "reference": "2 Samuel 9:4 (AKJV)",
+    "connected_to": "2 Samuel 9:5",
+    "connected_from": "2 Samuel 9:3"
+  },
+  {
+    "text": "Then king David sent, and fetched him out of the house of Machir, the son of Ammiel, from Lodebar.",
+    "reference": "2 Samuel 9:5 (AKJV)",
+    "connected_to": "2 Samuel 9:6",
+    "connected_from": "2 Samuel 9:4"
+  },
+  {
+    "text": "Now when Mephibosheth, the son of Jonathan, the son of Saul, was come to David, he fell on his face, and did reverence. And David said, Mephibosheth. And he answered, Behold your servant!",
+    "reference": "2 Samuel 9:6 (AKJV)",
+    "connected_to": "2 Samuel 9:7",
+    "connected_from": "2 Samuel 9:5"
+  },
+  {
+    "text": "And David said to him, Fear not: for I will surely show you kindness for Jonathan your father’s sake, and will restore you all the land of Saul your father; and you shall eat bread at my table continually.",
+    "reference": "2 Samuel 9:7 (AKJV)",
+    "connected_to": "2 Samuel 9:8",
+    "connected_from": "2 Samuel 9:6"
+  },
+  {
+    "text": "And he bowed himself, and said, What is your servant, that you should look on such a dead dog as I am?",
+    "reference": "2 Samuel 9:8 (AKJV)",
+    "connected_to": "2 Samuel 9:9",
+    "connected_from": "2 Samuel 9:7"
+  },
+  {
+    "text": "Then the king called to Ziba, Saul’s servant, and said to him, I have given to your master’s son all that pertained to Saul and to all his house.",
+    "reference": "2 Samuel 9:9 (AKJV)",
+    "connected_to": "2 Samuel 9:10",
+    "connected_from": "2 Samuel 9:8"
+  },
+  {
+    "text": "You therefore, and your sons, and your servants, shall till the land for him, and you shall bring in the fruits, that your master’s son may have food to eat: but Mephibosheth your master’s son shall eat bread always at my table. Now Ziba had fifteen sons and twenty servants.",
+    "reference": "2 Samuel 9:10 (AKJV)",
+    "connected_to": "2 Samuel 9:11",
+    "connected_from": "2 Samuel 9:9"
+  },
+  {
+    "text": "Then said Ziba to the king, According to all that my lord the king has commanded his servant, so shall your servant do. As for Mephibosheth, said the king, he shall eat at my table, as one of the king’s sons.",
+    "reference": "2 Samuel 9:11 (AKJV)",
+    "connected_to": "2 Samuel 9:12",
+    "connected_from": "2 Samuel 9:10"
+  },
+  {
+    "text": "And Mephibosheth had a young son, whose name was Micha. And all that dwelled in the house of Ziba were servants to Mephibosheth.",
+    "reference": "2 Samuel 9:12 (AKJV)",
+    "connected_to": "2 Samuel 9:13",
+    "connected_from": "2 Samuel 9:11"
+  },
+  {
+    "text": "So Mephibosheth dwelled in Jerusalem: for he did eat continually at the king’s table; and was lame on both his feet.",
+    "reference": "2 Samuel 9:13 (AKJV)",
+    "connected_from": "2 Samuel 9:12"
+  }
+]

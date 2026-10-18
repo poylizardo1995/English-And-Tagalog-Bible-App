@@ -1,0 +1,12 @@
+[
+  {
+    "text": "O praise the Lord, all ye nations: praise him, all ye people.",
+    "reference": "Psalm 117:1 (DRB)",
+    "connected_to": "Psalm 117:2"
+  },
+  {
+    "text": "For his mercy is confirmed upon us: and the truth of the Lord remaineth for ever.",
+    "reference": "Psalm 117:2 (DRB)",
+    "connected_from": "Psalm 117:1"
+  }
+]

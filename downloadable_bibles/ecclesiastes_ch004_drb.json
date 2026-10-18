@@ -1,0 +1,96 @@
+[
+  {
+    "text": "I turned myself to other things, and I saw the oppressions that are done under the sun, and the tears of the innocent, and they had no comforter; and they were not able to resist their violence, being destitute of help from any.",
+    "reference": "Ecclesiastes 4:1 (DRB)",
+    "connected_to": "Ecclesiastes 4:2"
+  },
+  {
+    "text": "And I praised the dead rather than the living:",
+    "reference": "Ecclesiastes 4:2 (DRB)",
+    "connected_to": "Ecclesiastes 4:3",
+    "connected_from": "Ecclesiastes 4:1"
+  },
+  {
+    "text": "And I judged him happier than them both, that is not yet born, nor hath seen the evils that are done under the sun.",
+    "reference": "Ecclesiastes 4:3 (DRB)",
+    "connected_to": "Ecclesiastes 4:4",
+    "connected_from": "Ecclesiastes 4:2"
+  },
+  {
+    "text": "Again I considered all the labours of men, and I remarked that their industries are exposed to the envy of their neighhour: so in this also there is vanity, and fruitless care.",
+    "reference": "Ecclesiastes 4:4 (DRB)",
+    "connected_to": "Ecclesiastes 4:5",
+    "connected_from": "Ecclesiastes 4:3"
+  },
+  {
+    "text": "The fool foldeth his hands together, and eateth his own flesh, saying:",
+    "reference": "Ecclesiastes 4:5 (DRB)",
+    "connected_to": "Ecclesiastes 4:6",
+    "connected_from": "Ecclesiastes 4:4"
+  },
+  {
+    "text": "Better is a handful with rest, than both hands full with labour, and vexation of mind.",
+    "reference": "Ecclesiastes 4:6 (DRB)",
+    "connected_to": "Ecclesiastes 4:7",
+    "connected_from": "Ecclesiastes 4:5"
+  },
+  {
+    "text": "Considering I found also another vanity under the sun:",
+    "reference": "Ecclesiastes 4:7 (DRB)",
+    "connected_to": "Ecclesiastes 4:8",
+    "connected_from": "Ecclesiastes 4:6"
+  },
+  {
+    "text": "There is but one, and he hath not a second, no child, no brother, and yet he ceaseth not to labour, neither are his eyes satisfied with riches, neither doth he reflect, saying: For whom do I labour, and defraud my soul of good things? in this also is vanity, and a grievous vexation.",
+    "reference": "Ecclesiastes 4:8 (DRB)",
+    "connected_to": "Ecclesiastes 4:9",
+    "connected_from": "Ecclesiastes 4:7"
+  },
+  {
+    "text": "It is better therefore that two should be together, than one: for they have the advantage of their society:",
+    "reference": "Ecclesiastes 4:9 (DRB)",
+    "connected_to": "Ecclesiastes 4:10",
+    "connected_from": "Ecclesiastes 4:8"
+  },
+  {
+    "text": "If one fall he shall be supported by the other: woe to him that is alone, for when he falleth, he hath none to lift him up.",
+    "reference": "Ecclesiastes 4:10 (DRB)",
+    "connected_to": "Ecclesiastes 4:11",
+    "connected_from": "Ecclesiastes 4:9"
+  },
+  {
+    "text": "And if two lie together, they shall warm one another: how shall one alone be warmed?",
+    "reference": "Ecclesiastes 4:11 (DRB)",
+    "connected_to": "Ecclesiastes 4:12",
+    "connected_from": "Ecclesiastes 4:10"
+  },
+  {
+    "text": "And if a man prevail against one, two shall withstand him: a threefold cord is not easily broken.",
+    "reference": "Ecclesiastes 4:12 (DRB)",
+    "connected_to": "Ecclesiastes 4:13",
+    "connected_from": "Ecclesiastes 4:11"
+  },
+  {
+    "text": "Better is a child that is poor and wise, than a king that is old and foolish, who knoweth not to foresee for hereafter.",
+    "reference": "Ecclesiastes 4:13 (DRB)",
+    "connected_to": "Ecclesiastes 4:14",
+    "connected_from": "Ecclesiastes 4:12"
+  },
+  {
+    "text": "Because out of prison and chains sometimes a man cometh forth to a kingdom: and another born king is consumed with poverty.",
+    "reference": "Ecclesiastes 4:14 (DRB)",
+    "connected_to": "Ecclesiastes 4:15",
+    "connected_from": "Ecclesiastes 4:13"
+  },
+  {
+    "text": "I saw all men living, that walk under the sun with the second young man, who shall rise up in his place.",
+    "reference": "Ecclesiastes 4:15 (DRB)",
+    "connected_to": "Ecclesiastes 4:16",
+    "connected_from": "Ecclesiastes 4:14"
+  },
+  {
+    "text": "The number of the people, of all that were before him is infinite: and they that shall come afterwards, shall not rejoice in him: but this also is vanity, and vexation of spirit.",
+    "reference": "Ecclesiastes 4:16 (DRB)",
+    "connected_from": "Ecclesiastes 4:15"
+  }
+]

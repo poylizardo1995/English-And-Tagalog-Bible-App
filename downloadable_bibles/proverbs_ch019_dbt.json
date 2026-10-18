@@ -1,0 +1,174 @@
+[
+  {
+    "text": "Better is a poor [man] that walketh in his integrity, than he that is perverse in his lips, and is a fool.",
+    "reference": "Proverbs 19:1 (DBT)",
+    "connected_to": "Proverbs 19:2"
+  },
+  {
+    "text": "Also that a person be without knowledge is not good; and he that hasteth with his feet maketh false steps.",
+    "reference": "Proverbs 19:2 (DBT)",
+    "connected_to": "Proverbs 19:3",
+    "connected_from": "Proverbs 19:1"
+  },
+  {
+    "text": "The folly of man distorteth his way, and his heart is irritated against Jehovah.",
+    "reference": "Proverbs 19:3 (DBT)",
+    "connected_to": "Proverbs 19:4",
+    "connected_from": "Proverbs 19:2"
+  },
+  {
+    "text": "Wealth addeth many friends; but the poor is separated from his friend.",
+    "reference": "Proverbs 19:4 (DBT)",
+    "connected_to": "Proverbs 19:5",
+    "connected_from": "Proverbs 19:3"
+  },
+  {
+    "text": "A false witness shall not be held innocent, and he that uttereth lies shall not escape.",
+    "reference": "Proverbs 19:5 (DBT)",
+    "connected_to": "Proverbs 19:6",
+    "connected_from": "Proverbs 19:4"
+  },
+  {
+    "text": "Many court the favour of a noble; and every one is friend to a man that giveth.",
+    "reference": "Proverbs 19:6 (DBT)",
+    "connected_to": "Proverbs 19:7",
+    "connected_from": "Proverbs 19:5"
+  },
+  {
+    "text": "All the brethren of a poor [man] hate him; how much more do his friends go far from him: he pursueth [them] with words,—they are not [to be found].",
+    "reference": "Proverbs 19:7 (DBT)",
+    "connected_to": "Proverbs 19:8",
+    "connected_from": "Proverbs 19:6"
+  },
+  {
+    "text": "He that getteth sense loveth his own soul; he that keepeth understanding shall find good.",
+    "reference": "Proverbs 19:8 (DBT)",
+    "connected_to": "Proverbs 19:9",
+    "connected_from": "Proverbs 19:7"
+  },
+  {
+    "text": "A false witness shall not be held innocent, and he that uttereth lies shall perish.",
+    "reference": "Proverbs 19:9 (DBT)",
+    "connected_to": "Proverbs 19:10",
+    "connected_from": "Proverbs 19:8"
+  },
+  {
+    "text": "Good living beseemeth not a fool; how much less for a servant to have rule over princes.",
+    "reference": "Proverbs 19:10 (DBT)",
+    "connected_to": "Proverbs 19:11",
+    "connected_from": "Proverbs 19:9"
+  },
+  {
+    "text": "The discretion of a man maketh him slow to anger, and it is his glory to pass over a transgression.",
+    "reference": "Proverbs 19:11 (DBT)",
+    "connected_to": "Proverbs 19:12",
+    "connected_from": "Proverbs 19:10"
+  },
+  {
+    "text": "The king’s displeasure is as the roaring of a lion; but his favour is as dew upon the grass.",
+    "reference": "Proverbs 19:12 (DBT)",
+    "connected_to": "Proverbs 19:13",
+    "connected_from": "Proverbs 19:11"
+  },
+  {
+    "text": "A foolish son is the calamity of his father; and the contentions of a wife are a continual dropping.",
+    "reference": "Proverbs 19:13 (DBT)",
+    "connected_to": "Proverbs 19:14",
+    "connected_from": "Proverbs 19:12"
+  },
+  {
+    "text": "House and wealth are an inheritance from fathers; but a prudent wife is from Jehovah.",
+    "reference": "Proverbs 19:14 (DBT)",
+    "connected_to": "Proverbs 19:15",
+    "connected_from": "Proverbs 19:13"
+  },
+  {
+    "text": "Slothfulness casteth into a deep sleep, and the idle soul shall suffer hunger.",
+    "reference": "Proverbs 19:15 (DBT)",
+    "connected_to": "Proverbs 19:16",
+    "connected_from": "Proverbs 19:14"
+  },
+  {
+    "text": "He that keepeth the commandment keepeth his soul; he that is careless of his ways shall die.",
+    "reference": "Proverbs 19:16 (DBT)",
+    "connected_to": "Proverbs 19:17",
+    "connected_from": "Proverbs 19:15"
+  },
+  {
+    "text": "He that is gracious to the poor lendeth unto Jehovah; and what he hath bestowed will he repay unto him.",
+    "reference": "Proverbs 19:17 (DBT)",
+    "connected_to": "Proverbs 19:18",
+    "connected_from": "Proverbs 19:16"
+  },
+  {
+    "text": "Chasten thy son, seeing there is hope; but set not thy soul upon killing him.",
+    "reference": "Proverbs 19:18 (DBT)",
+    "connected_to": "Proverbs 19:19",
+    "connected_from": "Proverbs 19:17"
+  },
+  {
+    "text": "A man of great wrath shall suffer punishment; for if thou deliver [him], yet thou must do it again.",
+    "reference": "Proverbs 19:19 (DBT)",
+    "connected_to": "Proverbs 19:20",
+    "connected_from": "Proverbs 19:18"
+  },
+  {
+    "text": "Hear counsel, and receive instruction, that thou mayest be wise in thy latter end.",
+    "reference": "Proverbs 19:20 (DBT)",
+    "connected_to": "Proverbs 19:21",
+    "connected_from": "Proverbs 19:19"
+  },
+  {
+    "text": "Many are the thoughts in a man’s heart, but the counsel of Jehovah, that doth stand.",
+    "reference": "Proverbs 19:21 (DBT)",
+    "connected_to": "Proverbs 19:22",
+    "connected_from": "Proverbs 19:20"
+  },
+  {
+    "text": "The charm of a man is his kindness; and a poor [man] is better than a liar.",
+    "reference": "Proverbs 19:22 (DBT)",
+    "connected_to": "Proverbs 19:23",
+    "connected_from": "Proverbs 19:21"
+  },
+  {
+    "text": "The fear of Jehovah [tendeth] to life, and he [that hath it] shall rest satisfied without being visited with evil.",
+    "reference": "Proverbs 19:23 (DBT)",
+    "connected_to": "Proverbs 19:24",
+    "connected_from": "Proverbs 19:22"
+  },
+  {
+    "text": "A sluggard burieth his hand in the dish, and will not even bring it to his mouth again.",
+    "reference": "Proverbs 19:24 (DBT)",
+    "connected_to": "Proverbs 19:25",
+    "connected_from": "Proverbs 19:23"
+  },
+  {
+    "text": "Smite a scorner, and the simple will beware; reprove the intelligent, and he will understand knowledge.",
+    "reference": "Proverbs 19:25 (DBT)",
+    "connected_to": "Proverbs 19:26",
+    "connected_from": "Proverbs 19:24"
+  },
+  {
+    "text": "He that ruineth [his] father and chaseth away [his] mother is a son that causeth shame and bringeth reproach.",
+    "reference": "Proverbs 19:26 (DBT)",
+    "connected_to": "Proverbs 19:27",
+    "connected_from": "Proverbs 19:25"
+  },
+  {
+    "text": "Cease, my son, to hear the instruction which causeth to stray from the words of knowledge.",
+    "reference": "Proverbs 19:27 (DBT)",
+    "connected_to": "Proverbs 19:28",
+    "connected_from": "Proverbs 19:26"
+  },
+  {
+    "text": "A witness of Belial scorneth judgment, and the mouth of the wicked swalloweth down iniquity.",
+    "reference": "Proverbs 19:28 (DBT)",
+    "connected_to": "Proverbs 19:29",
+    "connected_from": "Proverbs 19:27"
+  },
+  {
+    "text": "Judgments are prepared for scorners, and stripes for the back of the foolish.",
+    "reference": "Proverbs 19:29 (DBT)",
+    "connected_from": "Proverbs 19:28"
+  }
+]

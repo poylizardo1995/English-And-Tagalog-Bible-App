@@ -1,0 +1,90 @@
+[
+  {
+    "text": "The prayer of David. Hear, O Lord, my justice: attend to my supplication. Give ear unto my prayer, which proceedeth not from deceitful lips.",
+    "reference": "Psalm 17:1 (DRB)",
+    "connected_to": "Psalm 17:2"
+  },
+  {
+    "text": "Let my judgment come forth from thy countenance: let thy eyes behold the things that are equitable.",
+    "reference": "Psalm 17:2 (DRB)",
+    "connected_to": "Psalm 17:3",
+    "connected_from": "Psalm 17:1"
+  },
+  {
+    "text": "Thou hast proved my heart, and visited it by night, thou hast tried me by fire: and iniquity hath not been found in me.",
+    "reference": "Psalm 17:3 (DRB)",
+    "connected_to": "Psalm 17:4",
+    "connected_from": "Psalm 17:2"
+  },
+  {
+    "text": "That my mouth may not speak the works of men: for the sake of the words of thy lips, I have kept hard ways.",
+    "reference": "Psalm 17:4 (DRB)",
+    "connected_to": "Psalm 17:5",
+    "connected_from": "Psalm 17:3"
+  },
+  {
+    "text": "Perfect thou my goings in thy paths: that my footsteps be not moved.",
+    "reference": "Psalm 17:5 (DRB)",
+    "connected_to": "Psalm 17:6",
+    "connected_from": "Psalm 17:4"
+  },
+  {
+    "text": "I have cried to thee, for thou, O God, hast heard me: O incline thy ear unto me, and hear my words.",
+    "reference": "Psalm 17:6 (DRB)",
+    "connected_to": "Psalm 17:7",
+    "connected_from": "Psalm 17:5"
+  },
+  {
+    "text": "Shew forth thy wonderful mercies; thou who savest them that trust in thee.",
+    "reference": "Psalm 17:7 (DRB)",
+    "connected_to": "Psalm 17:8",
+    "connected_from": "Psalm 17:6"
+  },
+  {
+    "text": "From them that resist thy right hand keep me, as the apple of thy eye. Protect me under the shadow of thy wings.",
+    "reference": "Psalm 17:8 (DRB)",
+    "connected_to": "Psalm 17:9",
+    "connected_from": "Psalm 17:7"
+  },
+  {
+    "text": "From the face of the wicked who have afflicted me. My enemies have surrounded my soul:",
+    "reference": "Psalm 17:9 (DRB)",
+    "connected_to": "Psalm 17:10",
+    "connected_from": "Psalm 17:8"
+  },
+  {
+    "text": "they have shut up their fat: their mouth hath spoken proudly.",
+    "reference": "Psalm 17:10 (DRB)",
+    "connected_to": "Psalm 17:11",
+    "connected_from": "Psalm 17:9"
+  },
+  {
+    "text": "They have cast me forth and now they have surrounded me: they have set their eyes bowing down to the earth.",
+    "reference": "Psalm 17:11 (DRB)",
+    "connected_to": "Psalm 17:12",
+    "connected_from": "Psalm 17:10"
+  },
+  {
+    "text": "They have taken me, as a lion prepared for the prey; and as a young lion dwelling in secret places.",
+    "reference": "Psalm 17:12 (DRB)",
+    "connected_to": "Psalm 17:13",
+    "connected_from": "Psalm 17:11"
+  },
+  {
+    "text": "Arise, O Lord, disappoint him and supplant him; deliver my soul from the wicked one: thy sword",
+    "reference": "Psalm 17:13 (DRB)",
+    "connected_to": "Psalm 17:14",
+    "connected_from": "Psalm 17:12"
+  },
+  {
+    "text": "from the enemies of thy hand. O Lord, divide them from the few of the earth in their life: their belly is filled from thy hidden stores. They are full of children: and they have left to their little ones the rest of their substance.",
+    "reference": "Psalm 17:14 (DRB)",
+    "connected_to": "Psalm 17:15",
+    "connected_from": "Psalm 17:13"
+  },
+  {
+    "text": "But as for me, I will appear before thy sight in justice: I shall be satisfied when thy glory shall appear.",
+    "reference": "Psalm 17:15 (DRB)",
+    "connected_from": "Psalm 17:14"
+  }
+]

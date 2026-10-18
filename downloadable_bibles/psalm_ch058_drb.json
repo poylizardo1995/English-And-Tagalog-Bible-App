@@ -1,0 +1,66 @@
+[
+  {
+    "text": "Unto the end, destroy not, for David, for an inscription of a title. If in very deed you speak justice: judge right things, ye sons of men.",
+    "reference": "Psalm 58:1 (DRB)",
+    "connected_to": "Psalm 58:2"
+  },
+  {
+    "text": "For in your heart you work iniquity: your hands forge injustice in the earth.",
+    "reference": "Psalm 58:2 (DRB)",
+    "connected_to": "Psalm 58:3",
+    "connected_from": "Psalm 58:1"
+  },
+  {
+    "text": "The wicked are alienated from the womb; they have gone astray from the womb: they have spoken false things.",
+    "reference": "Psalm 58:3 (DRB)",
+    "connected_to": "Psalm 58:4",
+    "connected_from": "Psalm 58:2"
+  },
+  {
+    "text": "Their madness is according to the likeness of a serpent: like the deaf asp that stoppeth her ears:",
+    "reference": "Psalm 58:4 (DRB)",
+    "connected_to": "Psalm 58:5",
+    "connected_from": "Psalm 58:3"
+  },
+  {
+    "text": "Which will not hear the voice of the charmers; nor of the wizard that charmeth wisely.",
+    "reference": "Psalm 58:5 (DRB)",
+    "connected_to": "Psalm 58:6",
+    "connected_from": "Psalm 58:4"
+  },
+  {
+    "text": "God shall break in pieces their teeth in their mouth: the Lord shall break the grinders of the lions.",
+    "reference": "Psalm 58:6 (DRB)",
+    "connected_to": "Psalm 58:7",
+    "connected_from": "Psalm 58:5"
+  },
+  {
+    "text": "They shall come to nothing, like water running down; he hath bent his bow till they be weakened.",
+    "reference": "Psalm 58:7 (DRB)",
+    "connected_to": "Psalm 58:8",
+    "connected_from": "Psalm 58:6"
+  },
+  {
+    "text": "Like wax that melteth they shall be taken away: fire hath fallen on them, and they shall not see the sun.",
+    "reference": "Psalm 58:8 (DRB)",
+    "connected_to": "Psalm 58:9",
+    "connected_from": "Psalm 58:7"
+  },
+  {
+    "text": "Before your thorns could know the brier; he swalloweth them up, as alive, in his wrath.",
+    "reference": "Psalm 58:9 (DRB)",
+    "connected_to": "Psalm 58:10",
+    "connected_from": "Psalm 58:8"
+  },
+  {
+    "text": "The just shall rejoice when he shall see the revenge: he shall wash his hands in the blood of the sinner.",
+    "reference": "Psalm 58:10 (DRB)",
+    "connected_to": "Psalm 58:11",
+    "connected_from": "Psalm 58:9"
+  },
+  {
+    "text": "And man shall say: If indeed there be fruit to the just: there is indeed a God that judgeth them on the earth.",
+    "reference": "Psalm 58:11 (DRB)",
+    "connected_from": "Psalm 58:10"
+  }
+]

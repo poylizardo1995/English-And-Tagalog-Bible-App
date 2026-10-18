@@ -1,0 +1,42 @@
+[
+  {
+    "text": "Save me, O God, by your name, and judge me by your strength.",
+    "reference": "Psalm 54:1 (AKJV)",
+    "connected_to": "Psalm 54:2"
+  },
+  {
+    "text": "Hear my prayer, O God; give ear to the words of my mouth.",
+    "reference": "Psalm 54:2 (AKJV)",
+    "connected_to": "Psalm 54:3",
+    "connected_from": "Psalm 54:1"
+  },
+  {
+    "text": "For strangers are risen up against me, and oppressors seek after my soul: they have not set God before them. Selah.",
+    "reference": "Psalm 54:3 (AKJV)",
+    "connected_to": "Psalm 54:4",
+    "connected_from": "Psalm 54:2"
+  },
+  {
+    "text": "Behold, God is my helper: the Lord is with them that uphold my soul.",
+    "reference": "Psalm 54:4 (AKJV)",
+    "connected_to": "Psalm 54:5",
+    "connected_from": "Psalm 54:3"
+  },
+  {
+    "text": "He shall reward evil to my enemies: cut them off in your truth.",
+    "reference": "Psalm 54:5 (AKJV)",
+    "connected_to": "Psalm 54:6",
+    "connected_from": "Psalm 54:4"
+  },
+  {
+    "text": "I will freely sacrifice to you: I will praise your name, O LORD; for it is good.",
+    "reference": "Psalm 54:6 (AKJV)",
+    "connected_to": "Psalm 54:7",
+    "connected_from": "Psalm 54:5"
+  },
+  {
+    "text": "For he has delivered me out of all trouble: and my eye has seen his desire on my enemies.",
+    "reference": "Psalm 54:7 (AKJV)",
+    "connected_from": "Psalm 54:6"
+  }
+]

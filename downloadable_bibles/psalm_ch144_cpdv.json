@@ -1,0 +1,90 @@
+[
+  {
+    "text": "A Psalm of David versus Goliath. Blessed is the Lord, my God, who trains my hands for the battle and my fingers for the war.",
+    "reference": "Psalm 144:1 (CPDV)",
+    "connected_to": "Psalm 144:2"
+  },
+  {
+    "text": "My mercy and my refuge, my supporter and my deliverer, my protector and him in whom I have hoped: he subdues my people under me.",
+    "reference": "Psalm 144:2 (CPDV)",
+    "connected_to": "Psalm 144:3",
+    "connected_from": "Psalm 144:1"
+  },
+  {
+    "text": "O Lord, what is man that you have become known to him? Or the son of man that you consider him?",
+    "reference": "Psalm 144:3 (CPDV)",
+    "connected_to": "Psalm 144:4",
+    "connected_from": "Psalm 144:2"
+  },
+  {
+    "text": "Man has been made similar to vanity. His days pass by like a shadow.",
+    "reference": "Psalm 144:4 (CPDV)",
+    "connected_to": "Psalm 144:5",
+    "connected_from": "Psalm 144:3"
+  },
+  {
+    "text": "O Lord, incline your heavens and descend. Touch the mountains, and they will smoke.",
+    "reference": "Psalm 144:5 (CPDV)",
+    "connected_to": "Psalm 144:6",
+    "connected_from": "Psalm 144:4"
+  },
+  {
+    "text": "Send a flash of lightning, and you will scatter them. Shoot your arrows, and you will set them in disarray.",
+    "reference": "Psalm 144:6 (CPDV)",
+    "connected_to": "Psalm 144:7",
+    "connected_from": "Psalm 144:5"
+  },
+  {
+    "text": "Send forth your hand from on high: rescue me, and free me from many waters, from the hand of the sons of foreigners.",
+    "reference": "Psalm 144:7 (CPDV)",
+    "connected_to": "Psalm 144:8",
+    "connected_from": "Psalm 144:6"
+  },
+  {
+    "text": "Their mouth has been speaking vain things, and their right hand is the right hand of iniquity.",
+    "reference": "Psalm 144:8 (CPDV)",
+    "connected_to": "Psalm 144:9",
+    "connected_from": "Psalm 144:7"
+  },
+  {
+    "text": "To you, O God, I will sing a new song. On the psaltery, with an instrument of ten strings, I will sing psalms to you.",
+    "reference": "Psalm 144:9 (CPDV)",
+    "connected_to": "Psalm 144:10",
+    "connected_from": "Psalm 144:8"
+  },
+  {
+    "text": "He gives salvation to kings. He has redeemed your servant David from the malignant sword.",
+    "reference": "Psalm 144:10 (CPDV)",
+    "connected_to": "Psalm 144:11",
+    "connected_from": "Psalm 144:9"
+  },
+  {
+    "text": "Rescue me, and deliver me from the hand of the sons of foreigners. Their mouth has been speaking vain things, and their right hand is the right hand of iniquity.",
+    "reference": "Psalm 144:11 (CPDV)",
+    "connected_to": "Psalm 144:12",
+    "connected_from": "Psalm 144:10"
+  },
+  {
+    "text": "Their sons are like new plantings in their youth. Their daughters are dressed up: adorned all around like the idols of a temple.",
+    "reference": "Psalm 144:12 (CPDV)",
+    "connected_to": "Psalm 144:13",
+    "connected_from": "Psalm 144:11"
+  },
+  {
+    "text": "Their cupboards are full: overflowing from one thing into another. Their sheep bear young, brought forth in abundance.",
+    "reference": "Psalm 144:13 (CPDV)",
+    "connected_to": "Psalm 144:14",
+    "connected_from": "Psalm 144:12"
+  },
+  {
+    "text": "Their cattle are fat. There is no ruined wall or passage, nor anyone crying out in their streets.",
+    "reference": "Psalm 144:14 (CPDV)",
+    "connected_to": "Psalm 144:15",
+    "connected_from": "Psalm 144:13"
+  },
+  {
+    "text": "They have called the people that has these things: blessed. But blessed is the people whose God is the Lord.",
+    "reference": "Psalm 144:15 (CPDV)",
+    "connected_from": "Psalm 144:14"
+  }
+]

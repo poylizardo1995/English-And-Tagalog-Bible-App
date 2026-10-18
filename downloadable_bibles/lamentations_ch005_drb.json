@@ -1,0 +1,132 @@
+[
+  {
+    "text": "Remember, O Lord, what is come upon us: consider and behold our reproach.",
+    "reference": "Lamentations 5:1 (DRB)",
+    "connected_to": "Lamentations 5:2"
+  },
+  {
+    "text": "Our inheritance is turned to aliens: our houses to strangers.",
+    "reference": "Lamentations 5:2 (DRB)",
+    "connected_to": "Lamentations 5:3",
+    "connected_from": "Lamentations 5:1"
+  },
+  {
+    "text": "We are become orphans without a father: our mothers are as widows.",
+    "reference": "Lamentations 5:3 (DRB)",
+    "connected_to": "Lamentations 5:4",
+    "connected_from": "Lamentations 5:2"
+  },
+  {
+    "text": "We have drunk our water for money: we have bought our wood.",
+    "reference": "Lamentations 5:4 (DRB)",
+    "connected_to": "Lamentations 5:5",
+    "connected_from": "Lamentations 5:3"
+  },
+  {
+    "text": "We were dragged by the necks, we were weary and no rest was given us.",
+    "reference": "Lamentations 5:5 (DRB)",
+    "connected_to": "Lamentations 5:6",
+    "connected_from": "Lamentations 5:4"
+  },
+  {
+    "text": "We have given our hand to Egypt, and to the Assyrians, that we might be satisfied with bread.",
+    "reference": "Lamentations 5:6 (DRB)",
+    "connected_to": "Lamentations 5:7",
+    "connected_from": "Lamentations 5:5"
+  },
+  {
+    "text": "Our fathers have sinned, and are not: and we have borne their iniquities.",
+    "reference": "Lamentations 5:7 (DRB)",
+    "connected_to": "Lamentations 5:8",
+    "connected_from": "Lamentations 5:6"
+  },
+  {
+    "text": "Servants have ruled over us: there was none to redeem us out of their hand.",
+    "reference": "Lamentations 5:8 (DRB)",
+    "connected_to": "Lamentations 5:9",
+    "connected_from": "Lamentations 5:7"
+  },
+  {
+    "text": "We fetched our bread at the peril of our lives, because of the sword in the desert.",
+    "reference": "Lamentations 5:9 (DRB)",
+    "connected_to": "Lamentations 5:10",
+    "connected_from": "Lamentations 5:8"
+  },
+  {
+    "text": "Our skin was burnt as an oven, by reason of the violence of the famine.",
+    "reference": "Lamentations 5:10 (DRB)",
+    "connected_to": "Lamentations 5:11",
+    "connected_from": "Lamentations 5:9"
+  },
+  {
+    "text": "They oppressed the women in Sion, and the virgins in the cities of Juda.",
+    "reference": "Lamentations 5:11 (DRB)",
+    "connected_to": "Lamentations 5:12",
+    "connected_from": "Lamentations 5:10"
+  },
+  {
+    "text": "The princes were hanged up by their hand: they did not respect the persons of the ancient.",
+    "reference": "Lamentations 5:12 (DRB)",
+    "connected_to": "Lamentations 5:13",
+    "connected_from": "Lamentations 5:11"
+  },
+  {
+    "text": "They abused the young men indecently: and the children fell under the wood.",
+    "reference": "Lamentations 5:13 (DRB)",
+    "connected_to": "Lamentations 5:14",
+    "connected_from": "Lamentations 5:12"
+  },
+  {
+    "text": "The ancients have ceased from the gates: the young men from the choir of the singers.",
+    "reference": "Lamentations 5:14 (DRB)",
+    "connected_to": "Lamentations 5:15",
+    "connected_from": "Lamentations 5:13"
+  },
+  {
+    "text": "The joy of our heart is ceased, our dancing is turned into mourning.",
+    "reference": "Lamentations 5:15 (DRB)",
+    "connected_to": "Lamentations 5:16",
+    "connected_from": "Lamentations 5:14"
+  },
+  {
+    "text": "The crown is fallen from our head woe to us, because we have sinned.",
+    "reference": "Lamentations 5:16 (DRB)",
+    "connected_to": "Lamentations 5:17",
+    "connected_from": "Lamentations 5:15"
+  },
+  {
+    "text": "Therefore is our heart sorrowful, therefore are our eyes become dim,",
+    "reference": "Lamentations 5:17 (DRB)",
+    "connected_to": "Lamentations 5:18",
+    "connected_from": "Lamentations 5:16"
+  },
+  {
+    "text": "For mount Sion, because it is destroyed, foxes have walked upon it.",
+    "reference": "Lamentations 5:18 (DRB)",
+    "connected_to": "Lamentations 5:19",
+    "connected_from": "Lamentations 5:17"
+  },
+  {
+    "text": "But thou, O Lord, shalt remain for ever, thy throne from generation to generation.",
+    "reference": "Lamentations 5:19 (DRB)",
+    "connected_to": "Lamentations 5:20",
+    "connected_from": "Lamentations 5:18"
+  },
+  {
+    "text": "Why wilt thou forget us for ever? why wilt thou forsake us for a long time?",
+    "reference": "Lamentations 5:20 (DRB)",
+    "connected_to": "Lamentations 5:21",
+    "connected_from": "Lamentations 5:19"
+  },
+  {
+    "text": "Convert us, O Lord, to thee, and we shall be converted: renew our days, as from the beginning.",
+    "reference": "Lamentations 5:21 (DRB)",
+    "connected_to": "Lamentations 5:22",
+    "connected_from": "Lamentations 5:20"
+  },
+  {
+    "text": "But thou hast utterly rejected us, thou art exceedingly angry against us.",
+    "reference": "Lamentations 5:22 (DRB)",
+    "connected_from": "Lamentations 5:21"
+  }
+]

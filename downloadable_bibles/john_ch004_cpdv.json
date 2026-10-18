@@ -1,0 +1,324 @@
+[
+  {
+    "text": "And so, when Jesus realized that the Pharisees had heard that Jesus made more disciples and baptized more than John,",
+    "reference": "John 4:1 (CPDV)",
+    "connected_to": "John 4:2"
+  },
+  {
+    "text": "(though Jesus himself was not baptizing, but only his disciples)",
+    "reference": "John 4:2 (CPDV)",
+    "connected_to": "John 4:3",
+    "connected_from": "John 4:1"
+  },
+  {
+    "text": "he left behind Judea, and he traveled again to Galilee.",
+    "reference": "John 4:3 (CPDV)",
+    "connected_to": "John 4:4",
+    "connected_from": "John 4:2"
+  },
+  {
+    "text": "Now he needed to cross through Samaria.",
+    "reference": "John 4:4 (CPDV)",
+    "connected_to": "John 4:5",
+    "connected_from": "John 4:3"
+  },
+  {
+    "text": "Therefore, he went into a city of Samaria which is called Sychar, near the estate which Jacob gave to his son Joseph.",
+    "reference": "John 4:5 (CPDV)",
+    "connected_to": "John 4:6",
+    "connected_from": "John 4:4"
+  },
+  {
+    "text": "And Jacob’s well was there. And so Jesus, being tired from the journey, was sitting in a certain way on the well. It was about the sixth hour.",
+    "reference": "John 4:6 (CPDV)",
+    "connected_to": "John 4:7",
+    "connected_from": "John 4:5"
+  },
+  {
+    "text": "A woman of Samaria arrived to draw water. Jesus said to her, “Give me to drink.”",
+    "reference": "John 4:7 (CPDV)",
+    "connected_to": "John 4:8",
+    "connected_from": "John 4:6"
+  },
+  {
+    "text": "For his disciples had gone into the city in order to buy food.",
+    "reference": "John 4:8 (CPDV)",
+    "connected_to": "John 4:9",
+    "connected_from": "John 4:7"
+  },
+  {
+    "text": "And so, that Samaritan woman said to him, “How is it that you, being a Jew, are requesting a drink from me, though I am a Samaritan woman?” For the Jews do not associate with the Samaritans.",
+    "reference": "John 4:9 (CPDV)",
+    "connected_to": "John 4:10",
+    "connected_from": "John 4:8"
+  },
+  {
+    "text": "Jesus responded and said to her: “If you knew the gift of God, and who it is who is saying to you, ‘Give me to drink,’ perhaps you would have made a request of him, and he would have given you living water.”",
+    "reference": "John 4:10 (CPDV)",
+    "connected_to": "John 4:11",
+    "connected_from": "John 4:9"
+  },
+  {
+    "text": "The woman said to him: “Lord, you do not have anything with which to draw water, and the well is deep. From where, then, do you have living water?",
+    "reference": "John 4:11 (CPDV)",
+    "connected_to": "John 4:12",
+    "connected_from": "John 4:10"
+  },
+  {
+    "text": "Surely, you are not greater than our father Jacob, who gave us the well and who drank from it, with his sons and his cattle?”",
+    "reference": "John 4:12 (CPDV)",
+    "connected_to": "John 4:13",
+    "connected_from": "John 4:11"
+  },
+  {
+    "text": "Jesus responded and said to her: “All who drink from this water will thirst again. But whoever shall drink from the water that I will give to him will not thirst for eternity.",
+    "reference": "John 4:13 (CPDV)",
+    "connected_to": "John 4:14",
+    "connected_from": "John 4:12"
+  },
+  {
+    "text": "Instead, the water that I will give to him will become in him a fountain of water, springing up into eternal life.”",
+    "reference": "John 4:14 (CPDV)",
+    "connected_to": "John 4:15",
+    "connected_from": "John 4:13"
+  },
+  {
+    "text": "The woman said to him, “Lord, give me this water, so that I may not thirst and may not come here to draw water.”",
+    "reference": "John 4:15 (CPDV)",
+    "connected_to": "John 4:16",
+    "connected_from": "John 4:14"
+  },
+  {
+    "text": "Jesus said to her, “Go, call your husband, and return here.”",
+    "reference": "John 4:16 (CPDV)",
+    "connected_to": "John 4:17",
+    "connected_from": "John 4:15"
+  },
+  {
+    "text": "The woman responded and said, “I have no husband.” Jesus said to her: “You have spoken well, in saying, ‘I have no husband.’",
+    "reference": "John 4:17 (CPDV)",
+    "connected_to": "John 4:18",
+    "connected_from": "John 4:16"
+  },
+  {
+    "text": "For you have had five husbands, but he whom you have now is not your husband. You have spoken this in truth.”",
+    "reference": "John 4:18 (CPDV)",
+    "connected_to": "John 4:19",
+    "connected_from": "John 4:17"
+  },
+  {
+    "text": "The woman said to him: “Lord, I see that you are a Prophet.",
+    "reference": "John 4:19 (CPDV)",
+    "connected_to": "John 4:20",
+    "connected_from": "John 4:18"
+  },
+  {
+    "text": "Our fathers worshipped on this mountain, but you say that Jerusalem is the place where one ought to worship.”",
+    "reference": "John 4:20 (CPDV)",
+    "connected_to": "John 4:21",
+    "connected_from": "John 4:19"
+  },
+  {
+    "text": "Jesus said to her: “Woman, believe me, the hour is coming when you shall worship the Father, neither on this mountain, nor in Jerusalem.",
+    "reference": "John 4:21 (CPDV)",
+    "connected_to": "John 4:22",
+    "connected_from": "John 4:20"
+  },
+  {
+    "text": "You worship what you do not know; we worship what we do know. For salvation is from the Jews.",
+    "reference": "John 4:22 (CPDV)",
+    "connected_to": "John 4:23",
+    "connected_from": "John 4:21"
+  },
+  {
+    "text": "But the hour is coming, and it is now, when true worshippers shall worship the Father in spirit and in truth. For the Father also seeks such persons who may worship him.",
+    "reference": "John 4:23 (CPDV)",
+    "connected_to": "John 4:24",
+    "connected_from": "John 4:22"
+  },
+  {
+    "text": "God is Spirit. And so, those who worship him must worship in spirit and in truth.”",
+    "reference": "John 4:24 (CPDV)",
+    "connected_to": "John 4:25",
+    "connected_from": "John 4:23"
+  },
+  {
+    "text": "The woman said to him: “I know that the Messiah is coming (who is called the Christ). And then, when he will have arrived, he will announce everything to us.”",
+    "reference": "John 4:25 (CPDV)",
+    "connected_to": "John 4:26",
+    "connected_from": "John 4:24"
+  },
+  {
+    "text": "Jesus said to her: “I am he, the one who is speaking with you.”",
+    "reference": "John 4:26 (CPDV)",
+    "connected_to": "John 4:27",
+    "connected_from": "John 4:25"
+  },
+  {
+    "text": "And then his disciples arrived. And they wondered that he was speaking with the woman. Yet no one said: “What are you seeking?” or, “Why are you talking with her?”",
+    "reference": "John 4:27 (CPDV)",
+    "connected_to": "John 4:28",
+    "connected_from": "John 4:26"
+  },
+  {
+    "text": "And so the woman left behind her water jar and went into the city. And she said to the men there:",
+    "reference": "John 4:28 (CPDV)",
+    "connected_to": "John 4:29",
+    "connected_from": "John 4:27"
+  },
+  {
+    "text": "“Come and see a man who has told me all the things that I have done. Is he not the Christ?”",
+    "reference": "John 4:29 (CPDV)",
+    "connected_to": "John 4:30",
+    "connected_from": "John 4:28"
+  },
+  {
+    "text": "Therefore, they went out of the city and came to him.",
+    "reference": "John 4:30 (CPDV)",
+    "connected_to": "John 4:31",
+    "connected_from": "John 4:29"
+  },
+  {
+    "text": "Meanwhile, the disciples petitioned him, saying, “Rabbi, eat.”",
+    "reference": "John 4:31 (CPDV)",
+    "connected_to": "John 4:32",
+    "connected_from": "John 4:30"
+  },
+  {
+    "text": "But he said to them, “I have food to eat which you do not know.”",
+    "reference": "John 4:32 (CPDV)",
+    "connected_to": "John 4:33",
+    "connected_from": "John 4:31"
+  },
+  {
+    "text": "Therefore, the disciples said to one another, “Could someone have brought him something to eat?”",
+    "reference": "John 4:33 (CPDV)",
+    "connected_to": "John 4:34",
+    "connected_from": "John 4:32"
+  },
+  {
+    "text": "Jesus said to them: “My food is to do the will of the One who sent me, so that I may perfect his work.",
+    "reference": "John 4:34 (CPDV)",
+    "connected_to": "John 4:35",
+    "connected_from": "John 4:33"
+  },
+  {
+    "text": "Do you not say, ‘There are still four months, and then the harvest arrives?’ Behold, I say to you: Lift up your eyes and look at the countryside; for it is already ripe for the harvest.",
+    "reference": "John 4:35 (CPDV)",
+    "connected_to": "John 4:36",
+    "connected_from": "John 4:34"
+  },
+  {
+    "text": "For he who reaps, receives wages and gathers fruit unto eternal life, so that both he who sows and he who reaps may rejoice together.",
+    "reference": "John 4:36 (CPDV)",
+    "connected_to": "John 4:37",
+    "connected_from": "John 4:35"
+  },
+  {
+    "text": "For in this the word is true: that it is one who sows, and it is another who reaps.",
+    "reference": "John 4:37 (CPDV)",
+    "connected_to": "John 4:38",
+    "connected_from": "John 4:36"
+  },
+  {
+    "text": "I have sent you to reap that for which you did not labor. Others have labored, and you have entered into their labors.”",
+    "reference": "John 4:38 (CPDV)",
+    "connected_to": "John 4:39",
+    "connected_from": "John 4:37"
+  },
+  {
+    "text": "Now many of the Samaritans from that city believed in him, because of the word of the woman who was offering testimony: “For he told me all the things that I have done.”",
+    "reference": "John 4:39 (CPDV)",
+    "connected_to": "John 4:40",
+    "connected_from": "John 4:38"
+  },
+  {
+    "text": "Therefore, when the Samaritans had come to him, they petitioned him to lodge there. And he lodged there for two days.",
+    "reference": "John 4:40 (CPDV)",
+    "connected_to": "John 4:41",
+    "connected_from": "John 4:39"
+  },
+  {
+    "text": "And many more believed in him, because of his own word.",
+    "reference": "John 4:41 (CPDV)",
+    "connected_to": "John 4:42",
+    "connected_from": "John 4:40"
+  },
+  {
+    "text": "And they said to the woman: “Now we believe, not because of your speech, but because we ourselves have heard him, and so we know that he is truly the Savior of the world.”",
+    "reference": "John 4:42 (CPDV)",
+    "connected_to": "John 4:43",
+    "connected_from": "John 4:41"
+  },
+  {
+    "text": "Then, after two days, he departed from there, and he traveled into Galilee.",
+    "reference": "John 4:43 (CPDV)",
+    "connected_to": "John 4:44",
+    "connected_from": "John 4:42"
+  },
+  {
+    "text": "For Jesus himself offered testimony that a Prophet has no honor in his own country.",
+    "reference": "John 4:44 (CPDV)",
+    "connected_to": "John 4:45",
+    "connected_from": "John 4:43"
+  },
+  {
+    "text": "And so, when he had arrived in Galilee, the Galileans received him, because they had seen all that he had done at Jerusalem, in the day of the feast. For they also went to the feast day.",
+    "reference": "John 4:45 (CPDV)",
+    "connected_to": "John 4:46",
+    "connected_from": "John 4:44"
+  },
+  {
+    "text": "Then he went again into Cana of Galilee, where he made water into wine. And there was a certain ruler, whose son was sick at Capernaum.",
+    "reference": "John 4:46 (CPDV)",
+    "connected_to": "John 4:47",
+    "connected_from": "John 4:45"
+  },
+  {
+    "text": "Since he had heard that Jesus came to Galilee from Judea, he sent to him and begged him to come down and heal his son. For he was beginning to die.",
+    "reference": "John 4:47 (CPDV)",
+    "connected_to": "John 4:48",
+    "connected_from": "John 4:46"
+  },
+  {
+    "text": "Therefore, Jesus said to him, “Unless you have seen signs and wonders, you do not believe.”",
+    "reference": "John 4:48 (CPDV)",
+    "connected_to": "John 4:49",
+    "connected_from": "John 4:47"
+  },
+  {
+    "text": "The ruler said to him, “Lord, come down before my son dies.”",
+    "reference": "John 4:49 (CPDV)",
+    "connected_to": "John 4:50",
+    "connected_from": "John 4:48"
+  },
+  {
+    "text": "Jesus said to him, “Go, your son lives.” The man believed the word that Jesus spoke to him, and so he went away.",
+    "reference": "John 4:50 (CPDV)",
+    "connected_to": "John 4:51",
+    "connected_from": "John 4:49"
+  },
+  {
+    "text": "Then, as he was going down, his servants met him. And they reported to him, saying that his son was alive.",
+    "reference": "John 4:51 (CPDV)",
+    "connected_to": "John 4:52",
+    "connected_from": "John 4:50"
+  },
+  {
+    "text": "Therefore, he asked them at which hour he had become better. And they said to him, “Yesterday, at the seventh hour, the fever left him.”",
+    "reference": "John 4:52 (CPDV)",
+    "connected_to": "John 4:53",
+    "connected_from": "John 4:51"
+  },
+  {
+    "text": "Then the father realized that it was at the same hour that Jesus said to him, “Your son lives.” And both he and his entire household believed.",
+    "reference": "John 4:53 (CPDV)",
+    "connected_to": "John 4:54",
+    "connected_from": "John 4:52"
+  },
+  {
+    "text": "This next sign was the second that Jesus accomplished, after he had arrived in Galilee from Judea.",
+    "reference": "John 4:54 (CPDV)",
+    "connected_from": "John 4:53"
+  }
+]

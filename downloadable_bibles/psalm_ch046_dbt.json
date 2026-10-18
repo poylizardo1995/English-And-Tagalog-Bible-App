@@ -1,0 +1,66 @@
+[
+  {
+    "text": "{To the chief Musician. Of the sons of Korah. On Alamoth. A song.} God is our refuge and strength, a help in distresses, very readily found.",
+    "reference": "Psalm 46:1 (DBT)",
+    "connected_to": "Psalm 46:2"
+  },
+  {
+    "text": "Therefore will we not fear though the earth be removed, and though the mountains be carried into the heart of the seas;",
+    "reference": "Psalm 46:2 (DBT)",
+    "connected_to": "Psalm 46:3",
+    "connected_from": "Psalm 46:1"
+  },
+  {
+    "text": "Though the waters thereof roar [and] foam, though the mountains shake with the swelling thereof. Selah.",
+    "reference": "Psalm 46:3 (DBT)",
+    "connected_to": "Psalm 46:4",
+    "connected_from": "Psalm 46:2"
+  },
+  {
+    "text": "There is a river the streams whereof make glad the city of God, the sanctuary of the habitations of the Most High.",
+    "reference": "Psalm 46:4 (DBT)",
+    "connected_to": "Psalm 46:5",
+    "connected_from": "Psalm 46:3"
+  },
+  {
+    "text": "God is in the midst of her; she shall not be moved: God shall help her at the dawn of the morning.",
+    "reference": "Psalm 46:5 (DBT)",
+    "connected_to": "Psalm 46:6",
+    "connected_from": "Psalm 46:4"
+  },
+  {
+    "text": "The nations raged, the kingdoms were moved; he uttered his voice, the earth melted.",
+    "reference": "Psalm 46:6 (DBT)",
+    "connected_to": "Psalm 46:7",
+    "connected_from": "Psalm 46:5"
+  },
+  {
+    "text": "Jehovah of hosts is with us; the God of Jacob is our high fortress. Selah.",
+    "reference": "Psalm 46:7 (DBT)",
+    "connected_to": "Psalm 46:8",
+    "connected_from": "Psalm 46:6"
+  },
+  {
+    "text": "Come, behold the works of Jehovah, what desolations he hath made in the earth:",
+    "reference": "Psalm 46:8 (DBT)",
+    "connected_to": "Psalm 46:9",
+    "connected_from": "Psalm 46:7"
+  },
+  {
+    "text": "He hath made wars to cease unto the end of the earth; he breaketh the bow, and cutteth the spear in sunder; he burneth the chariots in the fire.",
+    "reference": "Psalm 46:9 (DBT)",
+    "connected_to": "Psalm 46:10",
+    "connected_from": "Psalm 46:8"
+  },
+  {
+    "text": "Be still, and know that I am God: I will be exalted among the nations, I will be exalted in the earth.",
+    "reference": "Psalm 46:10 (DBT)",
+    "connected_to": "Psalm 46:11",
+    "connected_from": "Psalm 46:9"
+  },
+  {
+    "text": "Jehovah of hosts is with us; the God of Jacob is our high fortress. Selah.",
+    "reference": "Psalm 46:11 (DBT)",
+    "connected_from": "Psalm 46:10"
+  }
+]

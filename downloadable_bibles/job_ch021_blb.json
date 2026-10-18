@@ -1,0 +1,204 @@
+[
+  {
+    "text": "And Job answered and said:",
+    "reference": "Job 21:1 (BLB)",
+    "connected_to": "Job 21:2"
+  },
+  {
+    "text": "“Listen carefully [to] my speech, and let this be your⁺ consolation.",
+    "reference": "Job 21:2 (BLB)",
+    "connected_to": "Job 21:3",
+    "connected_from": "Job 21:1"
+  },
+  {
+    "text": "Bear with me, and I will speak; and after I have spoken, you may mock.",
+    "reference": "Job 21:3 (BLB)",
+    "connected_to": "Job 21:4",
+    "connected_from": "Job 21:2"
+  },
+  {
+    "text": "As for me, is my complaint against man? And if [so], why [should] not my spirit be short?",
+    "reference": "Job 21:4 (BLB)",
+    "connected_to": "Job 21:5",
+    "connected_from": "Job 21:3"
+  },
+  {
+    "text": "Turn to me and be appalled, and put a hand over [your] mouth.",
+    "reference": "Job 21:5 (BLB)",
+    "connected_to": "Job 21:6",
+    "connected_from": "Job 21:4"
+  },
+  {
+    "text": "Even when I remember, then I am terrified, and trembling seizes my flesh.",
+    "reference": "Job 21:6 (BLB)",
+    "connected_to": "Job 21:7",
+    "connected_from": "Job 21:5"
+  },
+  {
+    "text": "Why do the wicked live on, growing old, even becoming mighty in power?",
+    "reference": "Job 21:7 (BLB)",
+    "connected_to": "Job 21:8",
+    "connected_from": "Job 21:6"
+  },
+  {
+    "text": "Their seed is established with them before their face, and their offspring before their eyes.",
+    "reference": "Job 21:8 (BLB)",
+    "connected_to": "Job 21:9",
+    "connected_from": "Job 21:7"
+  },
+  {
+    "text": "Their houses [are] safe from dread, and the rod of God is not upon them.",
+    "reference": "Job 21:9 (BLB)",
+    "connected_to": "Job 21:10",
+    "connected_from": "Job 21:8"
+  },
+  {
+    "text": "His bull passes over, without fail; his cow brings forth, and [does] not miscarry.",
+    "reference": "Job 21:10 (BLB)",
+    "connected_to": "Job 21:11",
+    "connected_from": "Job 21:9"
+  },
+  {
+    "text": "They send forth their little boys like a flock, and their children skip about.",
+    "reference": "Job 21:11 (BLB)",
+    "connected_to": "Job 21:12",
+    "connected_from": "Job 21:10"
+  },
+  {
+    "text": "They lift up to the tambourine and harp, and they rejoice at the sound of the flute.",
+    "reference": "Job 21:12 (BLB)",
+    "connected_to": "Job 21:13",
+    "connected_from": "Job 21:11"
+  },
+  {
+    "text": "They wear out their days in prosperity, and in peace go down to Sheol.",
+    "reference": "Job 21:13 (BLB)",
+    "connected_to": "Job 21:14",
+    "connected_from": "Job 21:12"
+  },
+  {
+    "text": "And they said to God, ‘Turn away from us! For we do not delight to know Your ways.",
+    "reference": "Job 21:14 (BLB)",
+    "connected_to": "Job 21:15",
+    "connected_from": "Job 21:13"
+  },
+  {
+    "text": "What [is] Shaddai that we should serve Him? And what do we gain that we should meet with Him?’",
+    "reference": "Job 21:15 (BLB)",
+    "connected_to": "Job 21:16",
+    "connected_from": "Job 21:14"
+  },
+  {
+    "text": "Behold, their own good [is] not in their hand; the counsel of the wicked is far from me.",
+    "reference": "Job 21:16 (BLB)",
+    "connected_to": "Job 21:17",
+    "connected_from": "Job 21:15"
+  },
+  {
+    "text": "How often [is] the lamp of the wicked put out, and their destruction comes upon them? The pains He apportions in His anger.",
+    "reference": "Job 21:17 (BLB)",
+    "connected_to": "Job 21:18",
+    "connected_from": "Job 21:16"
+  },
+  {
+    "text": "They become like straw before the face of the wind, and like chaff that the storm carries him away.",
+    "reference": "Job 21:18 (BLB)",
+    "connected_to": "Job 21:19",
+    "connected_from": "Job 21:17"
+  },
+  {
+    "text": "Does God store up for his sons his trouble? Let Him repay to him, and he will know.",
+    "reference": "Job 21:19 (BLB)",
+    "connected_to": "Job 21:20",
+    "connected_from": "Job 21:18"
+  },
+  {
+    "text": "Let his eyes see his destruction, and let him drink from the wrath of Shaddai.",
+    "reference": "Job 21:20 (BLB)",
+    "connected_to": "Job 21:21",
+    "connected_from": "Job 21:19"
+  },
+  {
+    "text": "For what [is] his delight in his house after him, when the number of his months is cut off?",
+    "reference": "Job 21:21 (BLB)",
+    "connected_to": "Job 21:22",
+    "connected_from": "Job 21:20"
+  },
+  {
+    "text": "Can one teach knowledge to God, since He judges those being high?",
+    "reference": "Job 21:22 (BLB)",
+    "connected_to": "Job 21:23",
+    "connected_from": "Job 21:21"
+  },
+  {
+    "text": "This one dies in the bone of his perfection, all of him at ease and at rest;",
+    "reference": "Job 21:23 (BLB)",
+    "connected_to": "Job 21:24",
+    "connected_from": "Job 21:22"
+  },
+  {
+    "text": "his pails are full of milk, and the marrow of his bones is moist.",
+    "reference": "Job 21:24 (BLB)",
+    "connected_to": "Job 21:25",
+    "connected_from": "Job 21:23"
+  },
+  {
+    "text": "And this one dies bitter in soul, and not having eaten of the good.",
+    "reference": "Job 21:25 (BLB)",
+    "connected_to": "Job 21:26",
+    "connected_from": "Job 21:24"
+  },
+  {
+    "text": "Together upon the dust they lie down, and the worm covers them over.",
+    "reference": "Job 21:26 (BLB)",
+    "connected_to": "Job 21:27",
+    "connected_from": "Job 21:25"
+  },
+  {
+    "text": "Behold, I know your⁺ thoughts, and the notions you⁺ wrest upon me.",
+    "reference": "Job 21:27 (BLB)",
+    "connected_to": "Job 21:28",
+    "connected_from": "Job 21:26"
+  },
+  {
+    "text": "For you⁺ say, ‘Where [is] the house of the noble? And where [is] the tent of the habitation of the wicked?’",
+    "reference": "Job 21:28 (BLB)",
+    "connected_to": "Job 21:29",
+    "connected_from": "Job 21:27"
+  },
+  {
+    "text": "Have you⁺ not asked those passing along the way, and do you⁺ not recognize their signs,",
+    "reference": "Job 21:29 (BLB)",
+    "connected_to": "Job 21:30",
+    "connected_from": "Job 21:28"
+  },
+  {
+    "text": "that from a day of calamity the evil one is held back, [and] in the day of wrath they are brought forth?",
+    "reference": "Job 21:30 (BLB)",
+    "connected_to": "Job 21:31",
+    "connected_from": "Job 21:29"
+  },
+  {
+    "text": "Who shall declare his way to his face? And who will repay him [for] what he has done?",
+    "reference": "Job 21:31 (BLB)",
+    "connected_to": "Job 21:32",
+    "connected_from": "Job 21:30"
+  },
+  {
+    "text": "When he is brought along to the graves, then one keeps watch over [his] tomb.",
+    "reference": "Job 21:32 (BLB)",
+    "connected_to": "Job 21:33",
+    "connected_from": "Job 21:31"
+  },
+  {
+    "text": "The clods of the torrent are sweet to him; and after him every man will extend, and those before his face are without number.",
+    "reference": "Job 21:33 (BLB)",
+    "connected_to": "Job 21:34",
+    "connected_from": "Job 21:32"
+  },
+  {
+    "text": "And how can you⁺ comfort me in vain, and in your⁺ answers remains falsehood?”",
+    "reference": "Job 21:34 (BLB)",
+    "connected_from": "Job 21:33"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "text": "And what Samuel had said happened to all Israel. And Israel went out against the Philistines to battle, and encamped beside Eben-ezer; and the Philistines encamped in Aphek.",
+    "reference": "1 Samuel 4:1 (DBT)",
+    "connected_to": "1 Samuel 4:2"
+  },
+  {
+    "text": "And the Philistines put themselves in array against Israel; and the battle spread, and Israel was routed before the Philistines; and they slew in battle array in the field about four thousand men.",
+    "reference": "1 Samuel 4:2 (DBT)",
+    "connected_to": "1 Samuel 4:3",
+    "connected_from": "1 Samuel 4:1"
+  },
+  {
+    "text": "And the people came into the camp; and the elders of Israel said, Why has Jehovah smitten us to-day before the Philistines? Let us fetch ourselves the ark of the covenant of Jehovah out of Shiloh, that it may come among us, and save us out of the hand of our enemies.",
+    "reference": "1 Samuel 4:3 (DBT)",
+    "connected_to": "1 Samuel 4:4",
+    "connected_from": "1 Samuel 4:2"
+  },
+  {
+    "text": "So the people sent to Shiloh, and they brought from thence the ark of the covenant of Jehovah of hosts, who sitteth between the cherubim; and the two sons of Eli, Hophni and Phinehas, were there by the ark of the covenant of God.",
+    "reference": "1 Samuel 4:4 (DBT)",
+    "connected_to": "1 Samuel 4:5",
+    "connected_from": "1 Samuel 4:3"
+  },
+  {
+    "text": "And it came to pass when the ark of the covenant of Jehovah came into the camp, that all Israel shouted with a great shout, so that the earth shook.",
+    "reference": "1 Samuel 4:5 (DBT)",
+    "connected_to": "1 Samuel 4:6",
+    "connected_from": "1 Samuel 4:4"
+  },
+  {
+    "text": "And the Philistines heard the noise of the shout, and said, What is the noise of this great shout in the camp of the Hebrews? And they understood that the ark of Jehovah had come into the camp.",
+    "reference": "1 Samuel 4:6 (DBT)",
+    "connected_to": "1 Samuel 4:7",
+    "connected_from": "1 Samuel 4:5"
+  },
+  {
+    "text": "And the Philistines were afraid, for they said, God is come into the camp. And they said, Woe unto us! for there has not been such a thing heretofore.",
+    "reference": "1 Samuel 4:7 (DBT)",
+    "connected_to": "1 Samuel 4:8",
+    "connected_from": "1 Samuel 4:6"
+  },
+  {
+    "text": "Woe unto us! who shall deliver us out of the hand of these mighty gods? these are the gods that smote the Egyptians with every plague in the wilderness.",
+    "reference": "1 Samuel 4:8 (DBT)",
+    "connected_to": "1 Samuel 4:9",
+    "connected_from": "1 Samuel 4:7"
+  },
+  {
+    "text": "Shew yourselves valiant and be men, ye Philistines, that ye may not have to be servants to the Hebrews, as they have been servants to you: be men, and fight.",
+    "reference": "1 Samuel 4:9 (DBT)",
+    "connected_to": "1 Samuel 4:10",
+    "connected_from": "1 Samuel 4:8"
+  },
+  {
+    "text": "And the Philistines fought, and Israel was routed, and they fled every man to his tent; and there was a very great slaughter, and there fell of Israel thirty thousand footmen.",
+    "reference": "1 Samuel 4:10 (DBT)",
+    "connected_to": "1 Samuel 4:11",
+    "connected_from": "1 Samuel 4:9"
+  },
+  {
+    "text": "And the ark of God was taken; and the two sons of Eli, Hophni and Phinehas, died.",
+    "reference": "1 Samuel 4:11 (DBT)",
+    "connected_to": "1 Samuel 4:12",
+    "connected_from": "1 Samuel 4:10"
+  },
+  {
+    "text": "And there ran a man of Benjamin out of the battle, and came to Shiloh the same day, with his clothes rent and with earth upon his head.",
+    "reference": "1 Samuel 4:12 (DBT)",
+    "connected_to": "1 Samuel 4:13",
+    "connected_from": "1 Samuel 4:11"
+  },
+  {
+    "text": "And when he came, behold, Eli was sitting upon the seat by the way-side watching; for his heart trembled for the ark of God. And the man came to tell it in the city, and all the city cried out.",
+    "reference": "1 Samuel 4:13 (DBT)",
+    "connected_to": "1 Samuel 4:14",
+    "connected_from": "1 Samuel 4:12"
+  },
+  {
+    "text": "And Eli heard the noise of the crying, and said, What is the noise of this tumult? And the man came hastily, and told Eli.",
+    "reference": "1 Samuel 4:14 (DBT)",
+    "connected_to": "1 Samuel 4:15",
+    "connected_from": "1 Samuel 4:13"
+  },
+  {
+    "text": "Now Eli was ninety-eight years old; and his eyes were set, that he could not see.",
+    "reference": "1 Samuel 4:15 (DBT)",
+    "connected_to": "1 Samuel 4:16",
+    "connected_from": "1 Samuel 4:14"
+  },
+  {
+    "text": "And the man said to Eli, I am he that came out of the battle, and I have fled to-day out of the battle. And he said, What has taken place, my son?",
+    "reference": "1 Samuel 4:16 (DBT)",
+    "connected_to": "1 Samuel 4:17",
+    "connected_from": "1 Samuel 4:15"
+  },
+  {
+    "text": "And the messenger answered and said, Israel has fled before the Philistines, and there has been also a great slaughter among the people, and thy two sons also, Hophni and Phinehas, are dead, and the ark of God is taken.",
+    "reference": "1 Samuel 4:17 (DBT)",
+    "connected_to": "1 Samuel 4:18",
+    "connected_from": "1 Samuel 4:16"
+  },
+  {
+    "text": "And it came to pass, when he mentioned the ark of God, that he fell from off the seat backward by the side of the gate, and his neck broke, and he died; for the man was old, and heavy. And he had judged Israel forty years.",
+    "reference": "1 Samuel 4:18 (DBT)",
+    "connected_to": "1 Samuel 4:19",
+    "connected_from": "1 Samuel 4:17"
+  },
+  {
+    "text": "And his daughter-in-law, Phinehas’ wife, was with child, near to be delivered; and when she heard the tidings that the ark of God was taken, and that her father-in-law and her husband were dead, she bowed herself and travailed; for her pains came upon her.",
+    "reference": "1 Samuel 4:19 (DBT)",
+    "connected_to": "1 Samuel 4:20",
+    "connected_from": "1 Samuel 4:18"
+  },
+  {
+    "text": "And as she was dying, the women that stood by her said, Fear not; for thou hast borne a son. But she did not answer, neither did she take it to heart.",
+    "reference": "1 Samuel 4:20 (DBT)",
+    "connected_to": "1 Samuel 4:21",
+    "connected_from": "1 Samuel 4:19"
+  },
+  {
+    "text": "And she named the child Ichabod, saying, The glory is departed from Israel; because the ark of God was taken, and because of her father-in-law and her husband.",
+    "reference": "1 Samuel 4:21 (DBT)",
+    "connected_to": "1 Samuel 4:22",
+    "connected_from": "1 Samuel 4:20"
+  },
+  {
+    "text": "And she said, The glory is departed from Israel, for the ark of God is taken.",
+    "reference": "1 Samuel 4:22 (DBT)",
+    "connected_from": "1 Samuel 4:21"
+  }
+]

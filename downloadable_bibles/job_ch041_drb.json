@@ -1,0 +1,204 @@
+[
+  {
+    "text": "Canst thou draw out the leviathan with a hook, or canst thou tie his tongue with a cord?",
+    "reference": "Job 41:1 (DRB)",
+    "connected_to": "Job 41:2"
+  },
+  {
+    "text": "Canst thou put a ring in his nose, or bore through his jaw with a buckle?",
+    "reference": "Job 41:2 (DRB)",
+    "connected_to": "Job 41:3",
+    "connected_from": "Job 41:1"
+  },
+  {
+    "text": "Will he make many supplications to thee, or speak soft words to thee?",
+    "reference": "Job 41:3 (DRB)",
+    "connected_to": "Job 41:4",
+    "connected_from": "Job 41:2"
+  },
+  {
+    "text": "Will he make a covenant with thee, and wilt thou take him to be a servant for ever?",
+    "reference": "Job 41:4 (DRB)",
+    "connected_to": "Job 41:5",
+    "connected_from": "Job 41:3"
+  },
+  {
+    "text": "Shalt thou play with him as with a bird, or tie him up for thy handmaids?",
+    "reference": "Job 41:5 (DRB)",
+    "connected_to": "Job 41:6",
+    "connected_from": "Job 41:4"
+  },
+  {
+    "text": "Shall friends cut him in pieces, shall merchants divide him?",
+    "reference": "Job 41:6 (DRB)",
+    "connected_to": "Job 41:7",
+    "connected_from": "Job 41:5"
+  },
+  {
+    "text": "Wilt thou fill nets with his skin, and the cabins of fishes with his head?",
+    "reference": "Job 41:7 (DRB)",
+    "connected_to": "Job 41:8",
+    "connected_from": "Job 41:6"
+  },
+  {
+    "text": "Lay thy hand upon him : remember the battle, and speak no more.",
+    "reference": "Job 41:8 (DRB)",
+    "connected_to": "Job 41:9",
+    "connected_from": "Job 41:7"
+  },
+  {
+    "text": "Behold his hope shall fail him, and in the sight of all he shall be cast down.",
+    "reference": "Job 41:9 (DRB)",
+    "connected_to": "Job 41:10",
+    "connected_from": "Job 41:8"
+  },
+  {
+    "text": "I will not stir him up, like one that is cruel : for who can resist my countenance?",
+    "reference": "Job 41:10 (DRB)",
+    "connected_to": "Job 41:11",
+    "connected_from": "Job 41:9"
+  },
+  {
+    "text": "Who hath given me before that I should repay him? All things that are under heaven are mine.",
+    "reference": "Job 41:11 (DRB)",
+    "connected_to": "Job 41:12",
+    "connected_from": "Job 41:10"
+  },
+  {
+    "text": "I will not spare him, nor his mighty words, and framed to make supplication.",
+    "reference": "Job 41:12 (DRB)",
+    "connected_to": "Job 41:13",
+    "connected_from": "Job 41:11"
+  },
+  {
+    "text": "Who can discover the face of his garment? or who can go into the midst of his mouth?",
+    "reference": "Job 41:13 (DRB)",
+    "connected_to": "Job 41:14",
+    "connected_from": "Job 41:12"
+  },
+  {
+    "text": "Who can open the doors of his face? his teeth are terrible round about.",
+    "reference": "Job 41:14 (DRB)",
+    "connected_to": "Job 41:15",
+    "connected_from": "Job 41:13"
+  },
+  {
+    "text": "His body is like molten shields, shut close up with scales pressing upon one another.",
+    "reference": "Job 41:15 (DRB)",
+    "connected_to": "Job 41:16",
+    "connected_from": "Job 41:14"
+  },
+  {
+    "text": "One is joined to another, and not so much as any air can come between them :",
+    "reference": "Job 41:16 (DRB)",
+    "connected_to": "Job 41:17",
+    "connected_from": "Job 41:15"
+  },
+  {
+    "text": "They stick one to another and they hold one another fast, and shall not be separated.",
+    "reference": "Job 41:17 (DRB)",
+    "connected_to": "Job 41:18",
+    "connected_from": "Job 41:16"
+  },
+  {
+    "text": "His sneezing is like the shining of fire, and his eyes like the eyelids of the morning.",
+    "reference": "Job 41:18 (DRB)",
+    "connected_to": "Job 41:19",
+    "connected_from": "Job 41:17"
+  },
+  {
+    "text": "Out of his mouth go forth lamps, like torches of lighted fire.",
+    "reference": "Job 41:19 (DRB)",
+    "connected_to": "Job 41:20",
+    "connected_from": "Job 41:18"
+  },
+  {
+    "text": "Out of his nostrils goeth smoke, like that of a pot heated and boiling.",
+    "reference": "Job 41:20 (DRB)",
+    "connected_to": "Job 41:21",
+    "connected_from": "Job 41:19"
+  },
+  {
+    "text": "His breath kindleth coals, and a flame cometh forth out of his mouth.",
+    "reference": "Job 41:21 (DRB)",
+    "connected_to": "Job 41:22",
+    "connected_from": "Job 41:20"
+  },
+  {
+    "text": "In his neck strength shall dwell, and want goeth before his face.",
+    "reference": "Job 41:22 (DRB)",
+    "connected_to": "Job 41:23",
+    "connected_from": "Job 41:21"
+  },
+  {
+    "text": "The members of his flesh cleave one to another : he shall send lightnings against him, and they shall not be carried to another place.",
+    "reference": "Job 41:23 (DRB)",
+    "connected_to": "Job 41:24",
+    "connected_from": "Job 41:22"
+  },
+  {
+    "text": "His heart shall be as hard as a stone, and as firm as a smith’s anvil.",
+    "reference": "Job 41:24 (DRB)",
+    "connected_to": "Job 41:25",
+    "connected_from": "Job 41:23"
+  },
+  {
+    "text": "When he shall raise him up, the angels shall fear, and being affrighted shall purify themselves.",
+    "reference": "Job 41:25 (DRB)",
+    "connected_to": "Job 41:26",
+    "connected_from": "Job 41:24"
+  },
+  {
+    "text": "When a sword shall lay at him, it shall not be able to hold, nor a spear, nor a breastplate.",
+    "reference": "Job 41:26 (DRB)",
+    "connected_to": "Job 41:27",
+    "connected_from": "Job 41:25"
+  },
+  {
+    "text": "For he shall esteem iron as straw, and brass as rotten wood.",
+    "reference": "Job 41:27 (DRB)",
+    "connected_to": "Job 41:28",
+    "connected_from": "Job 41:26"
+  },
+  {
+    "text": "The archer shall not put him to flight, the stones of the sling are to him like stubble.",
+    "reference": "Job 41:28 (DRB)",
+    "connected_to": "Job 41:29",
+    "connected_from": "Job 41:27"
+  },
+  {
+    "text": "As stubble will he esteem the hammer, and he will laugh him to scorn who shaketh the spear.",
+    "reference": "Job 41:29 (DRB)",
+    "connected_to": "Job 41:30",
+    "connected_from": "Job 41:28"
+  },
+  {
+    "text": "The beams of the sun shall be under him, and he shall strew gold under him like mire.",
+    "reference": "Job 41:30 (DRB)",
+    "connected_to": "Job 41:31",
+    "connected_from": "Job 41:29"
+  },
+  {
+    "text": "He shall make the deep sea to boil like a pot, and shall make it as when ointments boil.",
+    "reference": "Job 41:31 (DRB)",
+    "connected_to": "Job 41:32",
+    "connected_from": "Job 41:30"
+  },
+  {
+    "text": "A path shall shine after him, he shall esteem the deep as growing old.",
+    "reference": "Job 41:32 (DRB)",
+    "connected_to": "Job 41:33",
+    "connected_from": "Job 41:31"
+  },
+  {
+    "text": "There is no power upon earth that can be compared with him who was made to fear no one.",
+    "reference": "Job 41:33 (DRB)",
+    "connected_to": "Job 41:34",
+    "connected_from": "Job 41:32"
+  },
+  {
+    "text": "He beholdeth every high thing, he is king over all the children of pride.",
+    "reference": "Job 41:34 (DRB)",
+    "connected_from": "Job 41:33"
+  }
+]

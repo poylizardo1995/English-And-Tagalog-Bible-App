@@ -1,0 +1,144 @@
+[
+  {
+    "text": "For the choirmaster. A Psalm of David (beloved). <span class=|reftext|><a href=|#|><b>1</b></a> O LORD {YHWH}, You have searched me and known me.",
+    "reference": "Psalm 139:1 (BAB)",
+    "connected_to": "Psalm 139:2"
+  },
+  {
+    "text": "You know when I sit and when I rise; You understand my thoughts from afar.",
+    "reference": "Psalm 139:2 (BAB)",
+    "connected_to": "Psalm 139:3",
+    "connected_from": "Psalm 139:1"
+  },
+  {
+    "text": "You search out my path and my lying down; You are aware of all my ways.",
+    "reference": "Psalm 139:3 (BAB)",
+    "connected_to": "Psalm 139:4",
+    "connected_from": "Psalm 139:2"
+  },
+  {
+    "text": "Even before a word is on my tongue, You know all about it, O LORD {YHWH}.",
+    "reference": "Psalm 139:4 (BAB)",
+    "connected_to": "Psalm 139:5",
+    "connected_from": "Psalm 139:3"
+  },
+  {
+    "text": "You hem me in behind and before; You have laid Your hand upon me.",
+    "reference": "Psalm 139:5 (BAB)",
+    "connected_to": "Psalm 139:6",
+    "connected_from": "Psalm 139:4"
+  },
+  {
+    "text": "Such knowledge is too wonderful for me, too lofty for me to attain.",
+    "reference": "Psalm 139:6 (BAB)",
+    "connected_to": "Psalm 139:7",
+    "connected_from": "Psalm 139:5"
+  },
+  {
+    "text": "Where can I go to escape Your Spirit {Ruach}? Where can I flee from Your presence?",
+    "reference": "Psalm 139:7 (BAB)",
+    "connected_to": "Psalm 139:8",
+    "connected_from": "Psalm 139:6"
+  },
+  {
+    "text": "If I ascend to the heavens, You are there; if I make my bed in Sheol, You are there.",
+    "reference": "Psalm 139:8 (BAB)",
+    "connected_to": "Psalm 139:9",
+    "connected_from": "Psalm 139:7"
+  },
+  {
+    "text": "If I rise on the wings of the dawn, if I settle by the farthest sea,",
+    "reference": "Psalm 139:9 (BAB)",
+    "connected_to": "Psalm 139:10",
+    "connected_from": "Psalm 139:8"
+  },
+  {
+    "text": "even there Your hand will guide me; Your right hand will hold me fast.",
+    "reference": "Psalm 139:10 (BAB)",
+    "connected_to": "Psalm 139:11",
+    "connected_from": "Psalm 139:9"
+  },
+  {
+    "text": "If I say, “Surely the darkness will hide me, and the light become night around me”—",
+    "reference": "Psalm 139:11 (BAB)",
+    "connected_to": "Psalm 139:12",
+    "connected_from": "Psalm 139:10"
+  },
+  {
+    "text": "even the darkness is not dark to You, but the night shines like the day, for darkness is as light to You.",
+    "reference": "Psalm 139:12 (BAB)",
+    "connected_to": "Psalm 139:13",
+    "connected_from": "Psalm 139:11"
+  },
+  {
+    "text": "For You formed my inmost being \\my kidneys/; You knit me together in my mother’s womb.",
+    "reference": "Psalm 139:13 (BAB)",
+    "connected_to": "Psalm 139:14",
+    "connected_from": "Psalm 139:12"
+  },
+  {
+    "text": "I praise You, for I am fearfully and wonderfully made. Marvelous are Your works, and I know this very well.",
+    "reference": "Psalm 139:14 (BAB)",
+    "connected_to": "Psalm 139:15",
+    "connected_from": "Psalm 139:13"
+  },
+  {
+    "text": "My frame was not hidden from You when I was made in secret, when I was woven together in the depths of the earth.",
+    "reference": "Psalm 139:15 (BAB)",
+    "connected_to": "Psalm 139:16",
+    "connected_from": "Psalm 139:14"
+  },
+  {
+    "text": "Your eyes saw my unformed body; all my days were written in Your book and ordained for me before one of them came to be.",
+    "reference": "Psalm 139:16 (BAB)",
+    "connected_to": "Psalm 139:17",
+    "connected_from": "Psalm 139:15"
+  },
+  {
+    "text": "How precious to me are Your thoughts (How amazing are Your thoughts concerning me), O God, how vast is their sum!",
+    "reference": "Psalm 139:17 (BAB)",
+    "connected_to": "Psalm 139:18",
+    "connected_from": "Psalm 139:16"
+  },
+  {
+    "text": "If I were to count them, they would outnumber the grains of sand; and when I awake, I am still with You.",
+    "reference": "Psalm 139:18 (BAB)",
+    "connected_to": "Psalm 139:19",
+    "connected_from": "Psalm 139:17"
+  },
+  {
+    "text": "O God, that You would slay the wicked—away from me, you bloodthirsty men—",
+    "reference": "Psalm 139:19 (BAB)",
+    "connected_to": "Psalm 139:20",
+    "connected_from": "Psalm 139:18"
+  },
+  {
+    "text": "who speak of You deceitfully; Your enemies take Your name in vain \\Your enemies take in vain/.",
+    "reference": "Psalm 139:20 (BAB)",
+    "connected_to": "Psalm 139:21",
+    "connected_from": "Psalm 139:19"
+  },
+  {
+    "text": "Do I not hate those who hate You, O LORD {YHWH}, and detest those who rise against You?",
+    "reference": "Psalm 139:21 (BAB)",
+    "connected_to": "Psalm 139:22",
+    "connected_from": "Psalm 139:20"
+  },
+  {
+    "text": "I hate them with perfect hatred; I count them as my enemies.",
+    "reference": "Psalm 139:22 (BAB)",
+    "connected_to": "Psalm 139:23",
+    "connected_from": "Psalm 139:21"
+  },
+  {
+    "text": "Search me, O God, and know my heart; test me and know my concerns.",
+    "reference": "Psalm 139:23 (BAB)",
+    "connected_to": "Psalm 139:24",
+    "connected_from": "Psalm 139:22"
+  },
+  {
+    "text": "See if there is any offensive way in me; lead me in the way everlasting.",
+    "reference": "Psalm 139:24 (BAB)",
+    "connected_from": "Psalm 139:23"
+  }
+]

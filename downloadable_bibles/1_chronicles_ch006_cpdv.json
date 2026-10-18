@@ -1,0 +1,486 @@
+[
+  {
+    "text": "The sons of Levi: Gershom, Kohath, and Merari.",
+    "reference": "1 Chronicles 6:1 (CPDV)",
+    "connected_to": "1 Chronicles 6:2"
+  },
+  {
+    "text": "The sons of Kohath: Amram, Izhar, Hebron, and Uzziel.",
+    "reference": "1 Chronicles 6:2 (CPDV)",
+    "connected_to": "1 Chronicles 6:3",
+    "connected_from": "1 Chronicles 6:1"
+  },
+  {
+    "text": "The sons of Amram: Aaron, Moses, and Miriam. The sons of Aaron: Nadab and Abihu, Eleazar and Ithamar.",
+    "reference": "1 Chronicles 6:3 (CPDV)",
+    "connected_to": "1 Chronicles 6:4",
+    "connected_from": "1 Chronicles 6:2"
+  },
+  {
+    "text": "Eleazar conceived Phinehas, and Phinehas conceived Abishua.",
+    "reference": "1 Chronicles 6:4 (CPDV)",
+    "connected_to": "1 Chronicles 6:5",
+    "connected_from": "1 Chronicles 6:3"
+  },
+  {
+    "text": "Truly, Abishua conceived Bukki, and Bukki conceived Uzzi.",
+    "reference": "1 Chronicles 6:5 (CPDV)",
+    "connected_to": "1 Chronicles 6:6",
+    "connected_from": "1 Chronicles 6:4"
+  },
+  {
+    "text": "Uzzi conceived Zerahiah, and Zerahiah conceived Meraioth.",
+    "reference": "1 Chronicles 6:6 (CPDV)",
+    "connected_to": "1 Chronicles 6:7",
+    "connected_from": "1 Chronicles 6:5"
+  },
+  {
+    "text": "Then Meraioth conceived Amariah, and Amariah conceived Ahitub.",
+    "reference": "1 Chronicles 6:7 (CPDV)",
+    "connected_to": "1 Chronicles 6:8",
+    "connected_from": "1 Chronicles 6:6"
+  },
+  {
+    "text": "Ahitub conceived Zadok, and Zadok conceived Ahimaaz.",
+    "reference": "1 Chronicles 6:8 (CPDV)",
+    "connected_to": "1 Chronicles 6:9",
+    "connected_from": "1 Chronicles 6:7"
+  },
+  {
+    "text": "Ahimaaz conceived Azariah; Azariah conceived Johanan.",
+    "reference": "1 Chronicles 6:9 (CPDV)",
+    "connected_to": "1 Chronicles 6:10",
+    "connected_from": "1 Chronicles 6:8"
+  },
+  {
+    "text": "Johanan conceived Azariah. He is the one who executed the priestly office in the house that Solomon built in Jerusalem.",
+    "reference": "1 Chronicles 6:10 (CPDV)",
+    "connected_to": "1 Chronicles 6:11",
+    "connected_from": "1 Chronicles 6:9"
+  },
+  {
+    "text": "Now Azariah conceived Amariah, and Amariah conceived Ahitub.",
+    "reference": "1 Chronicles 6:11 (CPDV)",
+    "connected_to": "1 Chronicles 6:12",
+    "connected_from": "1 Chronicles 6:10"
+  },
+  {
+    "text": "Ahitub conceived Zadok, and Zadok conceived Shallum.",
+    "reference": "1 Chronicles 6:12 (CPDV)",
+    "connected_to": "1 Chronicles 6:13",
+    "connected_from": "1 Chronicles 6:11"
+  },
+  {
+    "text": "Shallum conceived Hilkiah, and Hilkiah conceived Azariah.",
+    "reference": "1 Chronicles 6:13 (CPDV)",
+    "connected_to": "1 Chronicles 6:14",
+    "connected_from": "1 Chronicles 6:12"
+  },
+  {
+    "text": "Azariah conceived Seraiah, and Seraiah conceived Jehozadak.",
+    "reference": "1 Chronicles 6:14 (CPDV)",
+    "connected_to": "1 Chronicles 6:15",
+    "connected_from": "1 Chronicles 6:13"
+  },
+  {
+    "text": "Now Jehozadak departed, when the Lord took away Judah and Jerusalem, by the hands of Nebuchadnezzar.",
+    "reference": "1 Chronicles 6:15 (CPDV)",
+    "connected_to": "1 Chronicles 6:16",
+    "connected_from": "1 Chronicles 6:14"
+  },
+  {
+    "text": "So the sons of Levi were Gershom, Kohath, and Merari.",
+    "reference": "1 Chronicles 6:16 (CPDV)",
+    "connected_to": "1 Chronicles 6:17",
+    "connected_from": "1 Chronicles 6:15"
+  },
+  {
+    "text": "And these are the names of the sons of Gershom: Libni and Shimei.",
+    "reference": "1 Chronicles 6:17 (CPDV)",
+    "connected_to": "1 Chronicles 6:18",
+    "connected_from": "1 Chronicles 6:16"
+  },
+  {
+    "text": "The sons of Kohath: Amram, and Izhar, and Hebron, and Uzziel.",
+    "reference": "1 Chronicles 6:18 (CPDV)",
+    "connected_to": "1 Chronicles 6:19",
+    "connected_from": "1 Chronicles 6:17"
+  },
+  {
+    "text": "The sons of Merari: Mahli and Mushi. And so these are the kindred of Levi, according to their families.",
+    "reference": "1 Chronicles 6:19 (CPDV)",
+    "connected_to": "1 Chronicles 6:20",
+    "connected_from": "1 Chronicles 6:18"
+  },
+  {
+    "text": "Of Gershom: Libni his son, Jahath his son, Zimmah his son,",
+    "reference": "1 Chronicles 6:20 (CPDV)",
+    "connected_to": "1 Chronicles 6:21",
+    "connected_from": "1 Chronicles 6:19"
+  },
+  {
+    "text": "Joah his son, Iddo his son, Zerah his son, Jeatherai his son.",
+    "reference": "1 Chronicles 6:21 (CPDV)",
+    "connected_to": "1 Chronicles 6:22",
+    "connected_from": "1 Chronicles 6:20"
+  },
+  {
+    "text": "The sons of Kohath: Amminadab his son, Korah his son, Assir his son,",
+    "reference": "1 Chronicles 6:22 (CPDV)",
+    "connected_to": "1 Chronicles 6:23",
+    "connected_from": "1 Chronicles 6:21"
+  },
+  {
+    "text": "Elkanah his son, Ebiasaph his son, Assir his son,",
+    "reference": "1 Chronicles 6:23 (CPDV)",
+    "connected_to": "1 Chronicles 6:24",
+    "connected_from": "1 Chronicles 6:22"
+  },
+  {
+    "text": "Tahath his son, Uriel his son, Uzziah his son, Shaul his son.",
+    "reference": "1 Chronicles 6:24 (CPDV)",
+    "connected_to": "1 Chronicles 6:25",
+    "connected_from": "1 Chronicles 6:23"
+  },
+  {
+    "text": "The sons of Elkanah: Amasai and Ahimoth",
+    "reference": "1 Chronicles 6:25 (CPDV)",
+    "connected_to": "1 Chronicles 6:26",
+    "connected_from": "1 Chronicles 6:24"
+  },
+  {
+    "text": "and Elkanah. The sons of Elkanah: Zophai his son, Nahath his son,",
+    "reference": "1 Chronicles 6:26 (CPDV)",
+    "connected_to": "1 Chronicles 6:27",
+    "connected_from": "1 Chronicles 6:25"
+  },
+  {
+    "text": "Eliab his son, Jeroham his son, Elkanah his son.",
+    "reference": "1 Chronicles 6:27 (CPDV)",
+    "connected_to": "1 Chronicles 6:28",
+    "connected_from": "1 Chronicles 6:26"
+  },
+  {
+    "text": "The sons of Samuel: Vasseni the firstborn, and Abijah.",
+    "reference": "1 Chronicles 6:28 (CPDV)",
+    "connected_to": "1 Chronicles 6:29",
+    "connected_from": "1 Chronicles 6:27"
+  },
+  {
+    "text": "Now the sons of Merari were: Mahli, Libni his son, Shimei his son, Uzzah his son,",
+    "reference": "1 Chronicles 6:29 (CPDV)",
+    "connected_to": "1 Chronicles 6:30",
+    "connected_from": "1 Chronicles 6:28"
+  },
+  {
+    "text": "Shimea his son, Haggiah his son, Asaiah his son.",
+    "reference": "1 Chronicles 6:30 (CPDV)",
+    "connected_to": "1 Chronicles 6:31",
+    "connected_from": "1 Chronicles 6:29"
+  },
+  {
+    "text": "These are the ones whom David appointed over the singing men in the house of the Lord, in the place where the ark was located.",
+    "reference": "1 Chronicles 6:31 (CPDV)",
+    "connected_to": "1 Chronicles 6:32",
+    "connected_from": "1 Chronicles 6:30"
+  },
+  {
+    "text": "And they ministered before the tabernacle of the testimony with singing, until Solomon built the house of the Lord in Jerusalem. And they would stand according to their order in the ministry.",
+    "reference": "1 Chronicles 6:32 (CPDV)",
+    "connected_to": "1 Chronicles 6:33",
+    "connected_from": "1 Chronicles 6:31"
+  },
+  {
+    "text": "Truly, these are the ones who were assisting, with their sons, from the sons of Kohath: the singer Heman, the son of Joel, the son of Samuel,",
+    "reference": "1 Chronicles 6:33 (CPDV)",
+    "connected_to": "1 Chronicles 6:34",
+    "connected_from": "1 Chronicles 6:32"
+  },
+  {
+    "text": "the son of Elkanah, the son of Jeroham, the son of Eliel, the son of Toah,",
+    "reference": "1 Chronicles 6:34 (CPDV)",
+    "connected_to": "1 Chronicles 6:35",
+    "connected_from": "1 Chronicles 6:33"
+  },
+  {
+    "text": "the son of Zuph, the son of Elkanah, the son of Mahath, the son of Amasai,",
+    "reference": "1 Chronicles 6:35 (CPDV)",
+    "connected_to": "1 Chronicles 6:36",
+    "connected_from": "1 Chronicles 6:34"
+  },
+  {
+    "text": "the son of Elkanah, the son of Joel, the son of Azariah, the son of Zephaniah,",
+    "reference": "1 Chronicles 6:36 (CPDV)",
+    "connected_to": "1 Chronicles 6:37",
+    "connected_from": "1 Chronicles 6:35"
+  },
+  {
+    "text": "the son of Tahath, the son of Assir, the son of Ebiasaph, the son of Korah,",
+    "reference": "1 Chronicles 6:37 (CPDV)",
+    "connected_to": "1 Chronicles 6:38",
+    "connected_from": "1 Chronicles 6:36"
+  },
+  {
+    "text": "the son of Izhar, the son of Kohath, the son of Levi, the son of Israel.",
+    "reference": "1 Chronicles 6:38 (CPDV)",
+    "connected_to": "1 Chronicles 6:39",
+    "connected_from": "1 Chronicles 6:37"
+  },
+  {
+    "text": "And there was also his brother, Asaph, who was standing at his right, Asaph, the son of Berechiah, the son of Shimea,",
+    "reference": "1 Chronicles 6:39 (CPDV)",
+    "connected_to": "1 Chronicles 6:40",
+    "connected_from": "1 Chronicles 6:38"
+  },
+  {
+    "text": "the son of Michael, the son of Baaseiah, the son of Malchijah,",
+    "reference": "1 Chronicles 6:40 (CPDV)",
+    "connected_to": "1 Chronicles 6:41",
+    "connected_from": "1 Chronicles 6:39"
+  },
+  {
+    "text": "the son of Ethni, the son of Zerah, the son of Adaiah,",
+    "reference": "1 Chronicles 6:41 (CPDV)",
+    "connected_to": "1 Chronicles 6:42",
+    "connected_from": "1 Chronicles 6:40"
+  },
+  {
+    "text": "the son of Ethan, the son of Zimmah, the son of Shimei,",
+    "reference": "1 Chronicles 6:42 (CPDV)",
+    "connected_to": "1 Chronicles 6:43",
+    "connected_from": "1 Chronicles 6:41"
+  },
+  {
+    "text": "the son of Jahath, the son of Gershom, the son of Levi.",
+    "reference": "1 Chronicles 6:43 (CPDV)",
+    "connected_to": "1 Chronicles 6:44",
+    "connected_from": "1 Chronicles 6:42"
+  },
+  {
+    "text": "Now the sons of Merari, their brothers, were on the left: Ethan, the son of Kishi, the son of Abdi, the son of Malluch,",
+    "reference": "1 Chronicles 6:44 (CPDV)",
+    "connected_to": "1 Chronicles 6:45",
+    "connected_from": "1 Chronicles 6:43"
+  },
+  {
+    "text": "the son of Hashabiah, the son of Amaziah, the son of Hilkiah,",
+    "reference": "1 Chronicles 6:45 (CPDV)",
+    "connected_to": "1 Chronicles 6:46",
+    "connected_from": "1 Chronicles 6:44"
+  },
+  {
+    "text": "the son of Amzi, the son of Boni, the son of Shemer,",
+    "reference": "1 Chronicles 6:46 (CPDV)",
+    "connected_to": "1 Chronicles 6:47",
+    "connected_from": "1 Chronicles 6:45"
+  },
+  {
+    "text": "the son of Mahli, the son of Mushi, the son of Merari, the son of Levi.",
+    "reference": "1 Chronicles 6:47 (CPDV)",
+    "connected_to": "1 Chronicles 6:48",
+    "connected_from": "1 Chronicles 6:46"
+  },
+  {
+    "text": "There were also their brothers, Levites who were appointed for every ministry of the tabernacle of the house of the Lord.",
+    "reference": "1 Chronicles 6:48 (CPDV)",
+    "connected_to": "1 Chronicles 6:49",
+    "connected_from": "1 Chronicles 6:47"
+  },
+  {
+    "text": "Truly, Aaron and his sons were burning offerings upon the altar of holocausts and upon the altar of incense, for the entire work of the Holy of Holies, and to pray on behalf of Israel, in accord with all the things that Moses, the servant of God, had instructed.",
+    "reference": "1 Chronicles 6:49 (CPDV)",
+    "connected_to": "1 Chronicles 6:50",
+    "connected_from": "1 Chronicles 6:48"
+  },
+  {
+    "text": "Now these are the sons of Aaron: Eleazar his son, Phinehas his son, Abishua his son,",
+    "reference": "1 Chronicles 6:50 (CPDV)",
+    "connected_to": "1 Chronicles 6:51",
+    "connected_from": "1 Chronicles 6:49"
+  },
+  {
+    "text": "Bukki his son, Uzzi his son, Zerahiah his son,",
+    "reference": "1 Chronicles 6:51 (CPDV)",
+    "connected_to": "1 Chronicles 6:52",
+    "connected_from": "1 Chronicles 6:50"
+  },
+  {
+    "text": "Meraioth his son, Amariah his son, Ahitub his son,",
+    "reference": "1 Chronicles 6:52 (CPDV)",
+    "connected_to": "1 Chronicles 6:53",
+    "connected_from": "1 Chronicles 6:51"
+  },
+  {
+    "text": "Zadok his son, Ahimaaz his son.",
+    "reference": "1 Chronicles 6:53 (CPDV)",
+    "connected_to": "1 Chronicles 6:54",
+    "connected_from": "1 Chronicles 6:52"
+  },
+  {
+    "text": "And these are their habitations according to the villages and confines, specifically of the sons of Aaron, according to the kindred of the Kohathites. For it fell to them by lot.",
+    "reference": "1 Chronicles 6:54 (CPDV)",
+    "connected_to": "1 Chronicles 6:55",
+    "connected_from": "1 Chronicles 6:53"
+  },
+  {
+    "text": "And so, they gave Hebron, in the land of Judah, and its suburbs all around, to them,",
+    "reference": "1 Chronicles 6:55 (CPDV)",
+    "connected_to": "1 Chronicles 6:56",
+    "connected_from": "1 Chronicles 6:54"
+  },
+  {
+    "text": "but they gave the fields of the city, and the villages, to Caleb, the son of Jephunneh.",
+    "reference": "1 Chronicles 6:56 (CPDV)",
+    "connected_to": "1 Chronicles 6:57",
+    "connected_from": "1 Chronicles 6:55"
+  },
+  {
+    "text": "Then, to the sons of Aaron, they gave the cities of refuge: Hebron, and Libnah with its suburbs,",
+    "reference": "1 Chronicles 6:57 (CPDV)",
+    "connected_to": "1 Chronicles 6:58",
+    "connected_from": "1 Chronicles 6:56"
+  },
+  {
+    "text": "also Jattir and Eshtemoa with their suburbs, then also Hilen and Debir with their suburbs,",
+    "reference": "1 Chronicles 6:58 (CPDV)",
+    "connected_to": "1 Chronicles 6:59",
+    "connected_from": "1 Chronicles 6:57"
+  },
+  {
+    "text": "as well as Ashan and Beth-shemesh with their suburbs.",
+    "reference": "1 Chronicles 6:59 (CPDV)",
+    "connected_to": "1 Chronicles 6:60",
+    "connected_from": "1 Chronicles 6:58"
+  },
+  {
+    "text": "And from the tribe of Benjamin: Geba with its suburbs, and Alemeth with its suburbs, as well as Anathoth with its suburbs. All the cities throughout their kindred were thirteen.",
+    "reference": "1 Chronicles 6:60 (CPDV)",
+    "connected_to": "1 Chronicles 6:61",
+    "connected_from": "1 Chronicles 6:59"
+  },
+  {
+    "text": "Now to the sons of Kohath, those remaining from their kindred, they gave ten cities, from the one half tribe of Manasseh, as a possession;",
+    "reference": "1 Chronicles 6:61 (CPDV)",
+    "connected_to": "1 Chronicles 6:62",
+    "connected_from": "1 Chronicles 6:60"
+  },
+  {
+    "text": "and to the sons of Gershom, according to their families, from the tribe of Issachar, and from the tribe of Asher, and from the tribe of Naphtali, and from the tribe Manasseh in Bashan: thirteen cities.",
+    "reference": "1 Chronicles 6:62 (CPDV)",
+    "connected_to": "1 Chronicles 6:63",
+    "connected_from": "1 Chronicles 6:61"
+  },
+  {
+    "text": "Then to the sons of Merari, according to their families, from the tribe of Reuben, and from the tribe of Gad, and from the tribe of Zebulun, they gave by lot twelve cities.",
+    "reference": "1 Chronicles 6:63 (CPDV)",
+    "connected_to": "1 Chronicles 6:64",
+    "connected_from": "1 Chronicles 6:62"
+  },
+  {
+    "text": "Also, the sons of Israel gave, to the Levites, cities and their suburbs,",
+    "reference": "1 Chronicles 6:64 (CPDV)",
+    "connected_to": "1 Chronicles 6:65",
+    "connected_from": "1 Chronicles 6:63"
+  },
+  {
+    "text": "and they gave them by lot, out of the tribe of the sons of Judah, and out of the tribe of the sons of Simeon, and out of the tribe of the sons of Benjamin, these cities, which they called by their names.",
+    "reference": "1 Chronicles 6:65 (CPDV)",
+    "connected_to": "1 Chronicles 6:66",
+    "connected_from": "1 Chronicles 6:64"
+  },
+  {
+    "text": "And for those who were from the kindred of the sons of Kohath, the cities with their borders were from the tribe of Ephraim.",
+    "reference": "1 Chronicles 6:66 (CPDV)",
+    "connected_to": "1 Chronicles 6:67",
+    "connected_from": "1 Chronicles 6:65"
+  },
+  {
+    "text": "Then they gave to them the cities of refuge: Shechem with its suburbs on mount Ephraim, and Gezer with its suburbs,",
+    "reference": "1 Chronicles 6:67 (CPDV)",
+    "connected_to": "1 Chronicles 6:68",
+    "connected_from": "1 Chronicles 6:66"
+  },
+  {
+    "text": "as well as Jokmeam with its suburbs, and Beth-horon similarly,",
+    "reference": "1 Chronicles 6:68 (CPDV)",
+    "connected_to": "1 Chronicles 6:69",
+    "connected_from": "1 Chronicles 6:67"
+  },
+  {
+    "text": "and indeed Hilen with its suburbs, and Gath Rimmon in the same manner.",
+    "reference": "1 Chronicles 6:69 (CPDV)",
+    "connected_to": "1 Chronicles 6:70",
+    "connected_from": "1 Chronicles 6:68"
+  },
+  {
+    "text": "Then too, out of the one half tribe of Manasseh: Aner and its suburbs, Bileam and its suburbs; these in particular went to those who were remaining from the kindred of the sons of Kohath.",
+    "reference": "1 Chronicles 6:70 (CPDV)",
+    "connected_to": "1 Chronicles 6:71",
+    "connected_from": "1 Chronicles 6:69"
+  },
+  {
+    "text": "And to the sons of Gershom, from the kindred of the one half tribe of Manasseh: Golan, in Bashan, and its suburbs, and Ashtaroth with its suburbs;",
+    "reference": "1 Chronicles 6:71 (CPDV)",
+    "connected_to": "1 Chronicles 6:72",
+    "connected_from": "1 Chronicles 6:70"
+  },
+  {
+    "text": "from the tribe of Issachar: Kedesh and its suburbs, and Daberath with its suburbs,",
+    "reference": "1 Chronicles 6:72 (CPDV)",
+    "connected_to": "1 Chronicles 6:73",
+    "connected_from": "1 Chronicles 6:71"
+  },
+  {
+    "text": "as well as Ramoth and its suburbs, and Anem with its suburbs;",
+    "reference": "1 Chronicles 6:73 (CPDV)",
+    "connected_to": "1 Chronicles 6:74",
+    "connected_from": "1 Chronicles 6:72"
+  },
+  {
+    "text": "truly, from the tribe of Asher: Mashal with its suburbs, and Abdon similarly;",
+    "reference": "1 Chronicles 6:74 (CPDV)",
+    "connected_to": "1 Chronicles 6:75",
+    "connected_from": "1 Chronicles 6:73"
+  },
+  {
+    "text": "as well as Hukkok and its suburbs, and Rehob with its suburbs;",
+    "reference": "1 Chronicles 6:75 (CPDV)",
+    "connected_to": "1 Chronicles 6:76",
+    "connected_from": "1 Chronicles 6:74"
+  },
+  {
+    "text": "moreover, from the tribe of Naphtali: Kedesh in Galilee and its suburbs, Hammon with its suburbs, and Kiriathaim and its suburbs.",
+    "reference": "1 Chronicles 6:76 (CPDV)",
+    "connected_to": "1 Chronicles 6:77",
+    "connected_from": "1 Chronicles 6:75"
+  },
+  {
+    "text": "Then to the remaining sons of Merari, from the tribe of Zebulun: Rimmono and its suburbs, and Tabor with its suburbs;",
+    "reference": "1 Chronicles 6:77 (CPDV)",
+    "connected_to": "1 Chronicles 6:78",
+    "connected_from": "1 Chronicles 6:76"
+  },
+  {
+    "text": "and also, across the Jordan opposite Jericho, facing the east of the Jordan, from the tribe of Reuben: Bezer in the wilderness with its suburbs, and Jahzah with its suburbs;",
+    "reference": "1 Chronicles 6:78 (CPDV)",
+    "connected_to": "1 Chronicles 6:79",
+    "connected_from": "1 Chronicles 6:77"
+  },
+  {
+    "text": "as well as Kedemoth and its suburbs, and Mephaath with its suburbs;",
+    "reference": "1 Chronicles 6:79 (CPDV)",
+    "connected_to": "1 Chronicles 6:80",
+    "connected_from": "1 Chronicles 6:78"
+  },
+  {
+    "text": "indeed also, from the tribe of Gad: Ramoth in Gilead and its suburbs, and Mahanaim with its suburbs;",
+    "reference": "1 Chronicles 6:80 (CPDV)",
+    "connected_to": "1 Chronicles 6:81",
+    "connected_from": "1 Chronicles 6:79"
+  },
+  {
+    "text": "then too, Heshbon with its suburbs, and Jazer with its suburbs.",
+    "reference": "1 Chronicles 6:81 (CPDV)",
+    "connected_from": "1 Chronicles 6:80"
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "text": "Nevertheless, there will be no more gloom for those in distress. In the past He humbled the land of Zebulun and the land of Naphtali, but in the future He will honor the Way of the Sea, beyond the Jordan, Galilee of the nations:",
+    "reference": "Isaiah 9:1 (BSB)",
+    "connected_to": "Isaiah 9:2"
+  },
+  {
+    "text": "The people walking in darkness have seen a great light; on those living in the land of the shadow of death, a light has dawned.",
+    "reference": "Isaiah 9:2 (BSB)",
+    "connected_to": "Isaiah 9:3",
+    "connected_from": "Isaiah 9:1"
+  },
+  {
+    "text": "You have enlarged the nation and increased its joy. The people rejoice before You as they rejoice at harvest time, as men rejoice in dividing the plunder.",
+    "reference": "Isaiah 9:3 (BSB)",
+    "connected_to": "Isaiah 9:4",
+    "connected_from": "Isaiah 9:2"
+  },
+  {
+    "text": "For as in the day of Midian You have shattered the yoke of their burden, the bar across their shoulders, and the rod of their oppressor.",
+    "reference": "Isaiah 9:4 (BSB)",
+    "connected_to": "Isaiah 9:5",
+    "connected_from": "Isaiah 9:3"
+  },
+  {
+    "text": "For every trampling boot of battle and every garment rolled in blood will be burned as fuel for the fire.",
+    "reference": "Isaiah 9:5 (BSB)",
+    "connected_to": "Isaiah 9:6",
+    "connected_from": "Isaiah 9:4"
+  },
+  {
+    "text": "For unto us a child is born, unto us a son is given, and the government will be upon His shoulders. And He will be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace.",
+    "reference": "Isaiah 9:6 (BSB)",
+    "connected_to": "Isaiah 9:7",
+    "connected_from": "Isaiah 9:5"
+  },
+  {
+    "text": "Of the increase of His government and peace there will be no end. He will reign on the throne of David and over his kingdom, to establish and sustain it with justice and righteousness from that time and forevermore. The zeal of the LORD of Hosts will accomplish this.",
+    "reference": "Isaiah 9:7 (BSB)",
+    "connected_to": "Isaiah 9:8",
+    "connected_from": "Isaiah 9:6"
+  },
+  {
+    "text": "The Lord has sent a message against Jacob, and it has fallen upon Israel.",
+    "reference": "Isaiah 9:8 (BSB)",
+    "connected_to": "Isaiah 9:9",
+    "connected_from": "Isaiah 9:7"
+  },
+  {
+    "text": "All the people will know it—Ephraim and the dwellers of Samaria. With pride and arrogance of heart they will say:",
+    "reference": "Isaiah 9:9 (BSB)",
+    "connected_to": "Isaiah 9:10",
+    "connected_from": "Isaiah 9:8"
+  },
+  {
+    "text": "“The bricks have fallen, but we will rebuild with finished stone; the sycamores have been felled, but we will replace them with cedars.”",
+    "reference": "Isaiah 9:10 (BSB)",
+    "connected_to": "Isaiah 9:11",
+    "connected_from": "Isaiah 9:9"
+  },
+  {
+    "text": "The LORD has raised up the foes of Rezin against him and joined his enemies together.",
+    "reference": "Isaiah 9:11 (BSB)",
+    "connected_to": "Isaiah 9:12",
+    "connected_from": "Isaiah 9:10"
+  },
+  {
+    "text": "Aram from the east and Philistia from the west have devoured Israel with open mouths. Despite all this, His anger is not turned away; His hand is still upraised.",
+    "reference": "Isaiah 9:12 (BSB)",
+    "connected_to": "Isaiah 9:13",
+    "connected_from": "Isaiah 9:11"
+  },
+  {
+    "text": "But the people did not return to Him who struck them; they did not seek the LORD of Hosts.",
+    "reference": "Isaiah 9:13 (BSB)",
+    "connected_to": "Isaiah 9:14",
+    "connected_from": "Isaiah 9:12"
+  },
+  {
+    "text": "So the LORD will cut off Israel’s head and tail, both palm branch and reed in a single day.",
+    "reference": "Isaiah 9:14 (BSB)",
+    "connected_to": "Isaiah 9:15",
+    "connected_from": "Isaiah 9:13"
+  },
+  {
+    "text": "The head is the elder and honorable man, and the tail is the prophet who teaches lies.",
+    "reference": "Isaiah 9:15 (BSB)",
+    "connected_to": "Isaiah 9:16",
+    "connected_from": "Isaiah 9:14"
+  },
+  {
+    "text": "For those who guide this people mislead them, and those they mislead are swallowed up.",
+    "reference": "Isaiah 9:16 (BSB)",
+    "connected_to": "Isaiah 9:17",
+    "connected_from": "Isaiah 9:15"
+  },
+  {
+    "text": "Therefore the Lord takes no pleasure in their young men; He has no compassion on their fatherless and widows. For every one of them is godless and wicked, and every mouth speaks folly. Despite all this, His anger is not turned away; His hand is still upraised.",
+    "reference": "Isaiah 9:17 (BSB)",
+    "connected_to": "Isaiah 9:18",
+    "connected_from": "Isaiah 9:16"
+  },
+  {
+    "text": "For wickedness burns like a fire that consumes the thorns and briers and kindles the forest thickets, which roll upward in billows of smoke.",
+    "reference": "Isaiah 9:18 (BSB)",
+    "connected_to": "Isaiah 9:19",
+    "connected_from": "Isaiah 9:17"
+  },
+  {
+    "text": "By the wrath of the LORD of Hosts the land is scorched, and the people are fuel for the fire. No man even spares his brother.",
+    "reference": "Isaiah 9:19 (BSB)",
+    "connected_to": "Isaiah 9:20",
+    "connected_from": "Isaiah 9:18"
+  },
+  {
+    "text": "They carve out what is on the right, but they are still hungry; they eat what is on the left, but they are still not satisfied. Each one devours the flesh of his own offspring.",
+    "reference": "Isaiah 9:20 (BSB)",
+    "connected_to": "Isaiah 9:21",
+    "connected_from": "Isaiah 9:19"
+  },
+  {
+    "text": "Manasseh devours Ephraim, and Ephraim Manasseh; together they turn against Judah. Despite all this, His anger is not turned away; His hand is still upraised.",
+    "reference": "Isaiah 9:21 (BSB)",
+    "connected_from": "Isaiah 9:20"
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "text": "O that you were to me like a brother who nursed at my mother’s breasts! If I found you outdoors, I would kiss you, and no one would despise me.",
+    "reference": "Song of Solomon 8:1 (BAB)",
+    "connected_to": "Song of Solomon 8:2"
+  },
+  {
+    "text": "I would lead you and bring you to the house of my mother who taught me. I would give you spiced wine to drink, the nectar of my pomegranates.",
+    "reference": "Song of Solomon 8:2 (BAB)",
+    "connected_to": "Song of Solomon 8:3",
+    "connected_from": "Song of Solomon 8:1"
+  },
+  {
+    "text": "His left hand is under my head, and his right arm embraces me.",
+    "reference": "Song of Solomon 8:3 (BAB)",
+    "connected_to": "Song of Solomon 8:4",
+    "connected_from": "Song of Solomon 8:2"
+  },
+  {
+    "text": "O daughters of Jerusalem (city of peace), I adjure you⁺: Do not arouse or awaken love until the time is right.",
+    "reference": "Song of Solomon 8:4 (BAB)",
+    "connected_to": "Song of Solomon 8:5",
+    "connected_from": "Song of Solomon 8:3"
+  },
+  {
+    "text": "Who is this coming up from the wilderness, leaning on her beloved? I roused you under the apple tree; there your mother conceived you; there she travailed and brought you forth.",
+    "reference": "Song of Solomon 8:5 (BAB)",
+    "connected_to": "Song of Solomon 8:6",
+    "connected_from": "Song of Solomon 8:4"
+  },
+  {
+    "text": "Set me as a seal over your heart, as a seal upon your arm. For love is as strong as death, its jealousy (passion) as unrelenting as Sheol. Its sparks are fiery flames, the fiercest blaze of all.",
+    "reference": "Song of Solomon 8:6 (BAB)",
+    "connected_to": "Song of Solomon 8:7",
+    "connected_from": "Song of Solomon 8:5"
+  },
+  {
+    "text": "Mighty waters cannot quench love; rivers cannot sweep it away. If a man were to give all the wealth of his house for love, his offer would be utterly scorned.",
+    "reference": "Song of Solomon 8:7 (BAB)",
+    "connected_to": "Song of Solomon 8:8",
+    "connected_from": "Song of Solomon 8:6"
+  },
+  {
+    "text": "We have a little sister, and her breasts are not yet grown. What shall we do for our sister on the day she is spoken for?",
+    "reference": "Song of Solomon 8:8 (BAB)",
+    "connected_to": "Song of Solomon 8:9",
+    "connected_from": "Song of Solomon 8:7"
+  },
+  {
+    "text": "If she is a wall, we will build a tower of silver upon her. If she is a door, we will enclose her with panels of cedar.",
+    "reference": "Song of Solomon 8:9 (BAB)",
+    "connected_to": "Song of Solomon 8:10",
+    "connected_from": "Song of Solomon 8:8"
+  },
+  {
+    "text": "I am a wall, and my breasts are like towers. So I have become in his eyes like one who brings peace.",
+    "reference": "Song of Solomon 8:10 (BAB)",
+    "connected_to": "Song of Solomon 8:11",
+    "connected_from": "Song of Solomon 8:9"
+  },
+  {
+    "text": "Solomon (peace) had a vineyard in Baal-hamon (lord of abundance). He leased it to the tenants. For its fruit, each was to bring a thousand shekels of silver <25.1 lb / 11.4 kg>.",
+    "reference": "Song of Solomon 8:11 (BAB)",
+    "connected_to": "Song of Solomon 8:12",
+    "connected_from": "Song of Solomon 8:10"
+  },
+  {
+    "text": "But my own vineyard is mine to give; the thousand shekels are for you, O Solomon (peace), and two hundred are for those who tend its fruit.",
+    "reference": "Song of Solomon 8:12 (BAB)",
+    "connected_to": "Song of Solomon 8:13",
+    "connected_from": "Song of Solomon 8:11"
+  },
+  {
+    "text": "You who dwell in the gardens, my companions are listening for your voice. Let me hear it!",
+    "reference": "Song of Solomon 8:13 (BAB)",
+    "connected_to": "Song of Solomon 8:14",
+    "connected_from": "Song of Solomon 8:12"
+  },
+  {
+    "text": "Come away, my beloved, and be like a gazelle or a young stag on the mountains of spices.",
+    "reference": "Song of Solomon 8:14 (BAB)",
+    "connected_from": "Song of Solomon 8:13"
+  }
+]

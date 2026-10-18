@@ -1,0 +1,108 @@
+[
+  {
+    "text": "Are we beginning again to commend ourselves? or need we, as do some, epistles of commendation to you or from you?",
+    "reference": "2 Corinthians 3:1 (ASV)",
+    "connected_to": "2 Corinthians 3:2"
+  },
+  {
+    "text": "Ye are our epistle, written in our hearts, known and read of all men;",
+    "reference": "2 Corinthians 3:2 (ASV)",
+    "connected_to": "2 Corinthians 3:3",
+    "connected_from": "2 Corinthians 3:1"
+  },
+  {
+    "text": "being made manifest that ye are an epistle of Christ, ministered by us, written not with ink, but with the Spirit of the living God; not in tables of stone, but in tables that are hearts of flesh.",
+    "reference": "2 Corinthians 3:3 (ASV)",
+    "connected_to": "2 Corinthians 3:4",
+    "connected_from": "2 Corinthians 3:2"
+  },
+  {
+    "text": "And such confidence have we through Christ to God-ward:",
+    "reference": "2 Corinthians 3:4 (ASV)",
+    "connected_to": "2 Corinthians 3:5",
+    "connected_from": "2 Corinthians 3:3"
+  },
+  {
+    "text": "not that we are sufficient of ourselves, to account anything as from ourselves; but our sufficiency is from God;",
+    "reference": "2 Corinthians 3:5 (ASV)",
+    "connected_to": "2 Corinthians 3:6",
+    "connected_from": "2 Corinthians 3:4"
+  },
+  {
+    "text": "who also made us sufficient as ministers of a new covenant; not of the letter, but of the spirit: for the letter killeth, but the spirit giveth life.",
+    "reference": "2 Corinthians 3:6 (ASV)",
+    "connected_to": "2 Corinthians 3:7",
+    "connected_from": "2 Corinthians 3:5"
+  },
+  {
+    "text": "But if the ministration of death, written, and engraven on stones, came with glory, so that the children of Israel could not look stedfastly upon the face of Moses for the glory of his face; which glory was passing away:",
+    "reference": "2 Corinthians 3:7 (ASV)",
+    "connected_to": "2 Corinthians 3:8",
+    "connected_from": "2 Corinthians 3:6"
+  },
+  {
+    "text": "how shall not rather the ministration of the spirit be with glory?",
+    "reference": "2 Corinthians 3:8 (ASV)",
+    "connected_to": "2 Corinthians 3:9",
+    "connected_from": "2 Corinthians 3:7"
+  },
+  {
+    "text": "For if the ministration of condemnation hath glory, much rather doth the ministration of righteousness exceed in glory.",
+    "reference": "2 Corinthians 3:9 (ASV)",
+    "connected_to": "2 Corinthians 3:10",
+    "connected_from": "2 Corinthians 3:8"
+  },
+  {
+    "text": "For verily that which hath been made glorious hath not been made glorious in this respect, by reason of the glory that surpasseth.",
+    "reference": "2 Corinthians 3:10 (ASV)",
+    "connected_to": "2 Corinthians 3:11",
+    "connected_from": "2 Corinthians 3:9"
+  },
+  {
+    "text": "For if that which passeth away was with glory, much more that which remaineth is in glory.",
+    "reference": "2 Corinthians 3:11 (ASV)",
+    "connected_to": "2 Corinthians 3:12",
+    "connected_from": "2 Corinthians 3:10"
+  },
+  {
+    "text": "Having therefore such a hope, we use great boldness of speech,",
+    "reference": "2 Corinthians 3:12 (ASV)",
+    "connected_to": "2 Corinthians 3:13",
+    "connected_from": "2 Corinthians 3:11"
+  },
+  {
+    "text": "and are not as Moses, who put a veil upon his face, that the children of Israel should not look stedfastly on the end of that which was passing away:",
+    "reference": "2 Corinthians 3:13 (ASV)",
+    "connected_to": "2 Corinthians 3:14",
+    "connected_from": "2 Corinthians 3:12"
+  },
+  {
+    "text": "but their minds were hardened: for until this very day at the reading of the old covenant the same veil remaineth, it not being revealed to them that it is done away in Christ.",
+    "reference": "2 Corinthians 3:14 (ASV)",
+    "connected_to": "2 Corinthians 3:15",
+    "connected_from": "2 Corinthians 3:13"
+  },
+  {
+    "text": "But unto this day, whensoever Moses is read, a veil lieth upon their heart.",
+    "reference": "2 Corinthians 3:15 (ASV)",
+    "connected_to": "2 Corinthians 3:16",
+    "connected_from": "2 Corinthians 3:14"
+  },
+  {
+    "text": "But whensoever it shall turn to the Lord, the veil is taken away.",
+    "reference": "2 Corinthians 3:16 (ASV)",
+    "connected_to": "2 Corinthians 3:17",
+    "connected_from": "2 Corinthians 3:15"
+  },
+  {
+    "text": "Now the Lord is the Spirit: and where the Spirit of the Lord is, there is liberty.",
+    "reference": "2 Corinthians 3:17 (ASV)",
+    "connected_to": "2 Corinthians 3:18",
+    "connected_from": "2 Corinthians 3:16"
+  },
+  {
+    "text": "But we all, with unveiled face beholding as in a mirror the glory of the Lord, are transformed into the same image from glory to glory, even as from the Lord the Spirit.",
+    "reference": "2 Corinthians 3:18 (ASV)",
+    "connected_from": "2 Corinthians 3:17"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "text": "Then Job answered:",
+    "reference": "Job 16:1 (BSB)",
+    "connected_to": "Job 16:2"
+  },
+  {
+    "text": "“I have heard many things like these; miserable comforters are you all.",
+    "reference": "Job 16:2 (BSB)",
+    "connected_to": "Job 16:3",
+    "connected_from": "Job 16:1"
+  },
+  {
+    "text": "Is there no end to your long-winded speeches? What provokes you to continue testifying?",
+    "reference": "Job 16:3 (BSB)",
+    "connected_to": "Job 16:4",
+    "connected_from": "Job 16:2"
+  },
+  {
+    "text": "I could also speak like you if you were in my place; I could heap up words against you and shake my head at you.",
+    "reference": "Job 16:4 (BSB)",
+    "connected_to": "Job 16:5",
+    "connected_from": "Job 16:3"
+  },
+  {
+    "text": "But I would encourage you with my mouth, and the consolation of my lips would bring relief.",
+    "reference": "Job 16:5 (BSB)",
+    "connected_to": "Job 16:6",
+    "connected_from": "Job 16:4"
+  },
+  {
+    "text": "Even if I speak, my pain is not relieved, and if I hold back, how will it go away?",
+    "reference": "Job 16:6 (BSB)",
+    "connected_to": "Job 16:7",
+    "connected_from": "Job 16:5"
+  },
+  {
+    "text": "Surely He has now exhausted me; You have devastated all my family.",
+    "reference": "Job 16:7 (BSB)",
+    "connected_to": "Job 16:8",
+    "connected_from": "Job 16:6"
+  },
+  {
+    "text": "You have bound me, and it has become a witness; my frailty rises up and testifies against me.",
+    "reference": "Job 16:8 (BSB)",
+    "connected_to": "Job 16:9",
+    "connected_from": "Job 16:7"
+  },
+  {
+    "text": "His anger has torn me and opposed me; He gnashes His teeth at me. My adversary pierces me with His eyes.",
+    "reference": "Job 16:9 (BSB)",
+    "connected_to": "Job 16:10",
+    "connected_from": "Job 16:8"
+  },
+  {
+    "text": "They open their mouths against me and strike my cheeks with contempt; they join together against me.",
+    "reference": "Job 16:10 (BSB)",
+    "connected_to": "Job 16:11",
+    "connected_from": "Job 16:9"
+  },
+  {
+    "text": "God has delivered me to unjust men; He has thrown me to the clutches of the wicked.",
+    "reference": "Job 16:11 (BSB)",
+    "connected_to": "Job 16:12",
+    "connected_from": "Job 16:10"
+  },
+  {
+    "text": "I was at ease, but He shattered me; He seized me by the neck and crushed me. He has set me up as His target;",
+    "reference": "Job 16:12 (BSB)",
+    "connected_to": "Job 16:13",
+    "connected_from": "Job 16:11"
+  },
+  {
+    "text": "His archers surround me. He pierces my kidneys without mercy and spills my gall on the ground.",
+    "reference": "Job 16:13 (BSB)",
+    "connected_to": "Job 16:14",
+    "connected_from": "Job 16:12"
+  },
+  {
+    "text": "He breaks me with wound upon wound; He rushes me like a mighty warrior.",
+    "reference": "Job 16:14 (BSB)",
+    "connected_to": "Job 16:15",
+    "connected_from": "Job 16:13"
+  },
+  {
+    "text": "I have sewn sackcloth over my skin; I have buried my horn in the dust.",
+    "reference": "Job 16:15 (BSB)",
+    "connected_to": "Job 16:16",
+    "connected_from": "Job 16:14"
+  },
+  {
+    "text": "My face is red with weeping, and deep shadows ring my eyes;",
+    "reference": "Job 16:16 (BSB)",
+    "connected_to": "Job 16:17",
+    "connected_from": "Job 16:15"
+  },
+  {
+    "text": "yet my hands are free of violence and my prayer is pure.",
+    "reference": "Job 16:17 (BSB)",
+    "connected_to": "Job 16:18",
+    "connected_from": "Job 16:16"
+  },
+  {
+    "text": "O earth, do not cover my blood; may my cry for help never be laid to rest.",
+    "reference": "Job 16:18 (BSB)",
+    "connected_to": "Job 16:19",
+    "connected_from": "Job 16:17"
+  },
+  {
+    "text": "Even now my witness is in heaven, and my advocate is on high.",
+    "reference": "Job 16:19 (BSB)",
+    "connected_to": "Job 16:20",
+    "connected_from": "Job 16:18"
+  },
+  {
+    "text": "My friends are my scoffers as my eyes pour out tears to God.",
+    "reference": "Job 16:20 (BSB)",
+    "connected_to": "Job 16:21",
+    "connected_from": "Job 16:19"
+  },
+  {
+    "text": "Oh, that a man might plead with God as he pleads with his neighbor!",
+    "reference": "Job 16:21 (BSB)",
+    "connected_to": "Job 16:22",
+    "connected_from": "Job 16:20"
+  },
+  {
+    "text": "For when only a few years are past I will go the way of no return.",
+    "reference": "Job 16:22 (BSB)",
+    "connected_from": "Job 16:21"
+  }
+]

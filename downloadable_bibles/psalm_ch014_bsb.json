@@ -1,0 +1,42 @@
+[
+  {
+    "text": "For the choirmaster. Of David. The fool says in his heart, “There is no God.” They are corrupt; their acts are vile. There is no one who does good.",
+    "reference": "Psalm 14:1 (BSB)",
+    "connected_to": "Psalm 14:2"
+  },
+  {
+    "text": "The LORD looks down from heaven upon the sons of men to see if any understand, if any seek God.",
+    "reference": "Psalm 14:2 (BSB)",
+    "connected_to": "Psalm 14:3",
+    "connected_from": "Psalm 14:1"
+  },
+  {
+    "text": "All have turned away, they have together become corrupt; there is no one who does good, not even one.",
+    "reference": "Psalm 14:3 (BSB)",
+    "connected_to": "Psalm 14:4",
+    "connected_from": "Psalm 14:2"
+  },
+  {
+    "text": "Will the workers of iniquity never learn? They devour my people like bread; they refuse to call upon the LORD.",
+    "reference": "Psalm 14:4 (BSB)",
+    "connected_to": "Psalm 14:5",
+    "connected_from": "Psalm 14:3"
+  },
+  {
+    "text": "There they are, overwhelmed with dread, for God is in the company of the righteous.",
+    "reference": "Psalm 14:5 (BSB)",
+    "connected_to": "Psalm 14:6",
+    "connected_from": "Psalm 14:4"
+  },
+  {
+    "text": "You sinners frustrate the plans of the oppressed, yet the LORD is their shelter.",
+    "reference": "Psalm 14:6 (BSB)",
+    "connected_to": "Psalm 14:7",
+    "connected_from": "Psalm 14:5"
+  },
+  {
+    "text": "Oh, that the salvation of Israel would come from Zion! When the LORD restores His captive people, let Jacob rejoice, let Israel be glad!",
+    "reference": "Psalm 14:7 (BSB)",
+    "connected_from": "Psalm 14:6"
+  }
+]

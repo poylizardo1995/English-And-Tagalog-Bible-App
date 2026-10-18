@@ -1,0 +1,180 @@
+[
+  {
+    "text": "Knowest thou the time when the wild goats bring forth among the rocks, or hast thou observed the hinds when they fawn?",
+    "reference": "Job 39:1 (DRB)",
+    "connected_to": "Job 39:2"
+  },
+  {
+    "text": "Hast thou numbered the months of their conceiving, or knowest thou the time when they bring forth?",
+    "reference": "Job 39:2 (DRB)",
+    "connected_to": "Job 39:3",
+    "connected_from": "Job 39:1"
+  },
+  {
+    "text": "They bow themselves to bring forth young, and they cast them, and send forth roarings.",
+    "reference": "Job 39:3 (DRB)",
+    "connected_to": "Job 39:4",
+    "connected_from": "Job 39:2"
+  },
+  {
+    "text": "Their young are weaned and go to feed : they go forth, and return not to them.",
+    "reference": "Job 39:4 (DRB)",
+    "connected_to": "Job 39:5",
+    "connected_from": "Job 39:3"
+  },
+  {
+    "text": "Who hath sent out the wild ass free, and who hath loosed his bonds?",
+    "reference": "Job 39:5 (DRB)",
+    "connected_to": "Job 39:6",
+    "connected_from": "Job 39:4"
+  },
+  {
+    "text": "To whom I have given a house in the wilderness, and his dwellings in the barren land.",
+    "reference": "Job 39:6 (DRB)",
+    "connected_to": "Job 39:7",
+    "connected_from": "Job 39:5"
+  },
+  {
+    "text": "He scorneth the multitude of the city, he heareth not the cry of the driver.",
+    "reference": "Job 39:7 (DRB)",
+    "connected_to": "Job 39:8",
+    "connected_from": "Job 39:6"
+  },
+  {
+    "text": "He looketh round about the mountains of his pasture, and seeketh for every green thing.",
+    "reference": "Job 39:8 (DRB)",
+    "connected_to": "Job 39:9",
+    "connected_from": "Job 39:7"
+  },
+  {
+    "text": "Shall the rhinoceros be willing to serve thee, or will he stay at thy crib?",
+    "reference": "Job 39:9 (DRB)",
+    "connected_to": "Job 39:10",
+    "connected_from": "Job 39:8"
+  },
+  {
+    "text": "Canst thou bind the rhinoceros with thy thong to plough, or will he break the clods of the valleys after thee?",
+    "reference": "Job 39:10 (DRB)",
+    "connected_to": "Job 39:11",
+    "connected_from": "Job 39:9"
+  },
+  {
+    "text": "Wilt thou have confidence in his great strength, and leave thy labours to him?",
+    "reference": "Job 39:11 (DRB)",
+    "connected_to": "Job 39:12",
+    "connected_from": "Job 39:10"
+  },
+  {
+    "text": "Wilt thou trust him that he will render thee the seed, and gather it into thy barnfloor?",
+    "reference": "Job 39:12 (DRB)",
+    "connected_to": "Job 39:13",
+    "connected_from": "Job 39:11"
+  },
+  {
+    "text": "The wing of the ostrich is like the wings of the heron, and of the hawk.",
+    "reference": "Job 39:13 (DRB)",
+    "connected_to": "Job 39:14",
+    "connected_from": "Job 39:12"
+  },
+  {
+    "text": "When she leaveth her eggs on the earth, thou perhaps wilt warm them in the dust.",
+    "reference": "Job 39:14 (DRB)",
+    "connected_to": "Job 39:15",
+    "connected_from": "Job 39:13"
+  },
+  {
+    "text": "She forgetteth that the foot may tread upon them, or that the beasts of the field may break them.",
+    "reference": "Job 39:15 (DRB)",
+    "connected_to": "Job 39:16",
+    "connected_from": "Job 39:14"
+  },
+  {
+    "text": "She is hardened against her young ones, as though they were not hers, she hath laboured in vain, no fear constraining her.",
+    "reference": "Job 39:16 (DRB)",
+    "connected_to": "Job 39:17",
+    "connected_from": "Job 39:15"
+  },
+  {
+    "text": "For God hath deprived her of wisdom, neither hath he given her understanding.",
+    "reference": "Job 39:17 (DRB)",
+    "connected_to": "Job 39:18",
+    "connected_from": "Job 39:16"
+  },
+  {
+    "text": "When time shall be, she setteth up her wings on high : she scorneth the horse and his rider.",
+    "reference": "Job 39:18 (DRB)",
+    "connected_to": "Job 39:19",
+    "connected_from": "Job 39:17"
+  },
+  {
+    "text": "Wilt thou give strength to the horse, or clothe his neck with neighing?",
+    "reference": "Job 39:19 (DRB)",
+    "connected_to": "Job 39:20",
+    "connected_from": "Job 39:18"
+  },
+  {
+    "text": "Wilt thou lift him up like the locusts? the glory of his nostrils is terror.",
+    "reference": "Job 39:20 (DRB)",
+    "connected_to": "Job 39:21",
+    "connected_from": "Job 39:19"
+  },
+  {
+    "text": "He breaketh up the earth with his hoof, he pranceth boldly, he goeth forward to meet armed men.",
+    "reference": "Job 39:21 (DRB)",
+    "connected_to": "Job 39:22",
+    "connected_from": "Job 39:20"
+  },
+  {
+    "text": "He despiseth fear, he turneth not his back to the sword,",
+    "reference": "Job 39:22 (DRB)",
+    "connected_to": "Job 39:23",
+    "connected_from": "Job 39:21"
+  },
+  {
+    "text": "Above him shall the quiver rattle, the spear and shield shall glitter.",
+    "reference": "Job 39:23 (DRB)",
+    "connected_to": "Job 39:24",
+    "connected_from": "Job 39:22"
+  },
+  {
+    "text": "Chasing and raging he swalloweth the ground, neither doth he make account when the noise of the trumpet soundeth.",
+    "reference": "Job 39:24 (DRB)",
+    "connected_to": "Job 39:25",
+    "connected_from": "Job 39:23"
+  },
+  {
+    "text": "When he heareth the trumpet he saith : Ha, ha : he smelleth the battle afar off, the encouraging of the captains, and the shouting of the army.",
+    "reference": "Job 39:25 (DRB)",
+    "connected_to": "Job 39:26",
+    "connected_from": "Job 39:24"
+  },
+  {
+    "text": "Doth the hawk wax feathered by thy wisdom, spreading her wings to the south?",
+    "reference": "Job 39:26 (DRB)",
+    "connected_to": "Job 39:27",
+    "connected_from": "Job 39:25"
+  },
+  {
+    "text": "Will the eagle mount up at thy command, and make her nest in high places?",
+    "reference": "Job 39:27 (DRB)",
+    "connected_to": "Job 39:28",
+    "connected_from": "Job 39:26"
+  },
+  {
+    "text": "She abideth among the rocks, and dwelleth among cragged flints, and stony hills, where there is no access.",
+    "reference": "Job 39:28 (DRB)",
+    "connected_to": "Job 39:29",
+    "connected_from": "Job 39:27"
+  },
+  {
+    "text": "From thence she looketh for the prey, and her eyes behold afar off.",
+    "reference": "Job 39:29 (DRB)",
+    "connected_to": "Job 39:30",
+    "connected_from": "Job 39:28"
+  },
+  {
+    "text": "Her young ones shall suck up blood : and wheresoever the carcass shall be, she is immediately there.",
+    "reference": "Job 39:30 (DRB)",
+    "connected_from": "Job 39:29"
+  }
+]

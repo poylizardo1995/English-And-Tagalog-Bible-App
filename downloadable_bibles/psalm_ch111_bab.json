@@ -1,0 +1,60 @@
+[
+  {
+    "text": "Hallelujah (Praise the LORD)! I will give thanks to the LORD {YHWH} with all my heart in the council of the upright and in the assembly.",
+    "reference": "Psalm 111:1 (BAB)",
+    "connected_to": "Psalm 111:2"
+  },
+  {
+    "text": "Great are the works of the LORD {YHWH}; they are pondered by all who delight in them.",
+    "reference": "Psalm 111:2 (BAB)",
+    "connected_to": "Psalm 111:3",
+    "connected_from": "Psalm 111:1"
+  },
+  {
+    "text": "Splendid and majestic is His work; His righteousness endures forever.",
+    "reference": "Psalm 111:3 (BAB)",
+    "connected_to": "Psalm 111:4",
+    "connected_from": "Psalm 111:2"
+  },
+  {
+    "text": "He has caused His wonders to be remembered; the LORD {YHWH} is gracious and compassionate.",
+    "reference": "Psalm 111:4 (BAB)",
+    "connected_to": "Psalm 111:5",
+    "connected_from": "Psalm 111:3"
+  },
+  {
+    "text": "He provides food for those who fear Him; He remembers His covenant forever.",
+    "reference": "Psalm 111:5 (BAB)",
+    "connected_to": "Psalm 111:6",
+    "connected_from": "Psalm 111:4"
+  },
+  {
+    "text": "He has shown His people the power of His works by giving them the inheritance of the nations.",
+    "reference": "Psalm 111:6 (BAB)",
+    "connected_to": "Psalm 111:7",
+    "connected_from": "Psalm 111:5"
+  },
+  {
+    "text": "The works of His hands are truth and justice; all His precepts are trustworthy.",
+    "reference": "Psalm 111:7 (BAB)",
+    "connected_to": "Psalm 111:8",
+    "connected_from": "Psalm 111:6"
+  },
+  {
+    "text": "They are upheld forever and ever, enacted in truth and uprightness.",
+    "reference": "Psalm 111:8 (BAB)",
+    "connected_to": "Psalm 111:9",
+    "connected_from": "Psalm 111:7"
+  },
+  {
+    "text": "He has sent redemption to His people; He has ordained His covenant forever; holy and awesome is His name.",
+    "reference": "Psalm 111:9 (BAB)",
+    "connected_to": "Psalm 111:10",
+    "connected_from": "Psalm 111:8"
+  },
+  {
+    "text": "The fear of the LORD {YHWH} is the beginning of wisdom; all who follow His precepts gain rich understanding. His praise endures forever!",
+    "reference": "Psalm 111:10 (BAB)",
+    "connected_from": "Psalm 111:9"
+  }
+]

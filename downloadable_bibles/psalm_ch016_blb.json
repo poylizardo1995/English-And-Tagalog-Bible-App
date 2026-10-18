@@ -1,0 +1,66 @@
+[
+  {
+    "text": "A Miktam of David. <span class=|reftext|><a href=|#|><b>1</b></a> Preserve me, O God, for I take refuge in You.",
+    "reference": "Psalm 16:1 (BLB)",
+    "connected_to": "Psalm 16:2"
+  },
+  {
+    "text": "I said to YHWH, “You [are] my Lord. My goodness [is] nothing apart from You.”",
+    "reference": "Psalm 16:2 (BLB)",
+    "connected_to": "Psalm 16:3",
+    "connected_from": "Psalm 16:1"
+  },
+  {
+    "text": "As for the holy ones who [are] in the land, they and the excellent ones, all my delight [is] in them.",
+    "reference": "Psalm 16:3 (BLB)",
+    "connected_to": "Psalm 16:4",
+    "connected_from": "Psalm 16:2"
+  },
+  {
+    "text": "May their sorrows be multiplied, those who hurry [after] another! I will not pour out their drink offerings of blood, and I will not lift up their names upon my lips.",
+    "reference": "Psalm 16:4 (BLB)",
+    "connected_to": "Psalm 16:5",
+    "connected_from": "Psalm 16:3"
+  },
+  {
+    "text": "YHWH, [is] the portion of my share, and my cup; You [are] the One upholding my lot.",
+    "reference": "Psalm 16:5 (BLB)",
+    "connected_to": "Psalm 16:6",
+    "connected_from": "Psalm 16:4"
+  },
+  {
+    "text": "The lines have fallen to me in the pleasant [places]; indeed, a pleasing inheritance [is] unto me.",
+    "reference": "Psalm 16:6 (BLB)",
+    "connected_to": "Psalm 16:7",
+    "connected_from": "Psalm 16:5"
+  },
+  {
+    "text": "I will bless YHWH, who counsels me; even [in] the nights, my kidneys instruct me.",
+    "reference": "Psalm 16:7 (BLB)",
+    "connected_to": "Psalm 16:8",
+    "connected_from": "Psalm 16:6"
+  },
+  {
+    "text": "I have set YHWH before me continually; because [He is] at my right hand, I will not be shaken.",
+    "reference": "Psalm 16:8 (BLB)",
+    "connected_to": "Psalm 16:9",
+    "connected_from": "Psalm 16:7"
+  },
+  {
+    "text": "Therefore my heart is glad and my glory rejoices; my flesh also will dwell securely.",
+    "reference": "Psalm 16:9 (BLB)",
+    "connected_to": "Psalm 16:10",
+    "connected_from": "Psalm 16:8"
+  },
+  {
+    "text": "For You will not abandon my soul to Sheol, and You will not give Your Holy one to see corruption.",
+    "reference": "Psalm 16:10 (BLB)",
+    "connected_to": "Psalm 16:11",
+    "connected_from": "Psalm 16:9"
+  },
+  {
+    "text": "You make known to me the path of life; fullness of joys [is] with Your face, pleasant [things] [are] at Your right hand forever.",
+    "reference": "Psalm 16:11 (BLB)",
+    "connected_from": "Psalm 16:10"
+  }
+]

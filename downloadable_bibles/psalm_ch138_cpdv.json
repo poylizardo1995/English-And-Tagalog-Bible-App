@@ -1,0 +1,48 @@
+[
+  {
+    "text": "Of David himself. O Lord, I will confess to you with my whole heart, for you have heard the words of my mouth. I will sing psalms to you in the sight of the Angels.",
+    "reference": "Psalm 138:1 (CPDV)",
+    "connected_to": "Psalm 138:2"
+  },
+  {
+    "text": "I will adore before your holy temple, and I will confess your name: it is above your mercy and your truth. For you have magnified your holy name above all.",
+    "reference": "Psalm 138:2 (CPDV)",
+    "connected_to": "Psalm 138:3",
+    "connected_from": "Psalm 138:1"
+  },
+  {
+    "text": "On whatever day that I will call upon you: hear me. You will multiply virtue in my soul.",
+    "reference": "Psalm 138:3 (CPDV)",
+    "connected_to": "Psalm 138:4",
+    "connected_from": "Psalm 138:2"
+  },
+  {
+    "text": "May all the kings of the earth confess to you, O Lord. For they have heard all the words of your mouth.",
+    "reference": "Psalm 138:4 (CPDV)",
+    "connected_to": "Psalm 138:5",
+    "connected_from": "Psalm 138:3"
+  },
+  {
+    "text": "And let them sing in accordance with the ways of the Lord. For great is the glory of the Lord.",
+    "reference": "Psalm 138:5 (CPDV)",
+    "connected_to": "Psalm 138:6",
+    "connected_from": "Psalm 138:4"
+  },
+  {
+    "text": "For the Lord is exalted, and he looks with favor on the humble. But the lofty he knows from a distance.",
+    "reference": "Psalm 138:6 (CPDV)",
+    "connected_to": "Psalm 138:7",
+    "connected_from": "Psalm 138:5"
+  },
+  {
+    "text": "If I wander into the midst of tribulation, you will revive me. For you extended your hand against the wrath of my enemies. And your right hand has accomplished my salvation.",
+    "reference": "Psalm 138:7 (CPDV)",
+    "connected_to": "Psalm 138:8",
+    "connected_from": "Psalm 138:6"
+  },
+  {
+    "text": "The Lord will provide retribution on my behalf. O Lord, your mercy is forever. Do not disdain the works of your hands.",
+    "reference": "Psalm 138:8 (CPDV)",
+    "connected_from": "Psalm 138:7"
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "text": "Of David himself. O Lord, judge those who harm me; assail those who attack me.",
+    "reference": "Psalm 35:1 (CPDV)",
+    "connected_to": "Psalm 35:2"
+  },
+  {
+    "text": "Take hold of weapons and a shield, and rise up in assistance to me.",
+    "reference": "Psalm 35:2 (CPDV)",
+    "connected_to": "Psalm 35:3",
+    "connected_from": "Psalm 35:1"
+  },
+  {
+    "text": "Bring forth the spear, and close in on those who persecute me. Say to my soul, “I am your salvation.”",
+    "reference": "Psalm 35:3 (CPDV)",
+    "connected_to": "Psalm 35:4",
+    "connected_from": "Psalm 35:2"
+  },
+  {
+    "text": "Let them be confounded and in awe, who pursue my soul. Let them be turned back and be confounded, who think up evil against me.",
+    "reference": "Psalm 35:4 (CPDV)",
+    "connected_to": "Psalm 35:5",
+    "connected_from": "Psalm 35:3"
+  },
+  {
+    "text": "May they become like dust before the face of the wind, and let the Angel of the Lord hem them in.",
+    "reference": "Psalm 35:5 (CPDV)",
+    "connected_to": "Psalm 35:6",
+    "connected_from": "Psalm 35:4"
+  },
+  {
+    "text": "May their way become dark and slippery, and may the Angel of the Lord pursue them.",
+    "reference": "Psalm 35:6 (CPDV)",
+    "connected_to": "Psalm 35:7",
+    "connected_from": "Psalm 35:5"
+  },
+  {
+    "text": "For, without cause, they have concealed their snare for me unto destruction. Over nothing, they have rebuked my soul.",
+    "reference": "Psalm 35:7 (CPDV)",
+    "connected_to": "Psalm 35:8",
+    "connected_from": "Psalm 35:6"
+  },
+  {
+    "text": "Let the snare, of which he is ignorant, come upon him, and let the deception, which he has hidden, take hold of him: and may he fall into that very snare.",
+    "reference": "Psalm 35:8 (CPDV)",
+    "connected_to": "Psalm 35:9",
+    "connected_from": "Psalm 35:7"
+  },
+  {
+    "text": "But my soul will exult in the Lord and delight over his salvation.",
+    "reference": "Psalm 35:9 (CPDV)",
+    "connected_to": "Psalm 35:10",
+    "connected_from": "Psalm 35:8"
+  },
+  {
+    "text": "All my bones will say, “Lord, who is like you?” He rescues the needy from the hand of the stronger one, the indigent and the poor from those who plunder him.",
+    "reference": "Psalm 35:10 (CPDV)",
+    "connected_to": "Psalm 35:11",
+    "connected_from": "Psalm 35:9"
+  },
+  {
+    "text": "Unfair witnesses have risen up, interrogating me about things of which I am ignorant.",
+    "reference": "Psalm 35:11 (CPDV)",
+    "connected_to": "Psalm 35:12",
+    "connected_from": "Psalm 35:10"
+  },
+  {
+    "text": "They repaid me evil for good, to the deprivation of my soul.",
+    "reference": "Psalm 35:12 (CPDV)",
+    "connected_to": "Psalm 35:13",
+    "connected_from": "Psalm 35:11"
+  },
+  {
+    "text": "But as for me, when they were harassing me, I was clothed with haircloth. I humbled my soul with fasting, and my prayer will become my sinews.",
+    "reference": "Psalm 35:13 (CPDV)",
+    "connected_to": "Psalm 35:14",
+    "connected_from": "Psalm 35:12"
+  },
+  {
+    "text": "Like a neighbor, and like our brother, so did I please; like one mourning and contrite, so was I humbled.",
+    "reference": "Psalm 35:14 (CPDV)",
+    "connected_to": "Psalm 35:15",
+    "connected_from": "Psalm 35:13"
+  },
+  {
+    "text": "And they have been joyful against me, and they joined together. Scourges have been gathered over me, and I was ignorant of it.",
+    "reference": "Psalm 35:15 (CPDV)",
+    "connected_to": "Psalm 35:16",
+    "connected_from": "Psalm 35:14"
+  },
+  {
+    "text": "They have been scattered, yet they were unremorseful. They have tested me. They scoffed at me with scorn. They gnashed their teeth over me.",
+    "reference": "Psalm 35:16 (CPDV)",
+    "connected_to": "Psalm 35:17",
+    "connected_from": "Psalm 35:15"
+  },
+  {
+    "text": "Lord, when will you look down upon me? Restore my soul from before their malice, my only one from before the lions.",
+    "reference": "Psalm 35:17 (CPDV)",
+    "connected_to": "Psalm 35:18",
+    "connected_from": "Psalm 35:16"
+  },
+  {
+    "text": "I will confess to you in a great Church. I will praise you among a weighty people.",
+    "reference": "Psalm 35:18 (CPDV)",
+    "connected_to": "Psalm 35:19",
+    "connected_from": "Psalm 35:17"
+  },
+  {
+    "text": "May those who are my unjust adversaries not be glad over me: those who have hated me without cause, and who nod agreement with their eyes.",
+    "reference": "Psalm 35:19 (CPDV)",
+    "connected_to": "Psalm 35:20",
+    "connected_from": "Psalm 35:18"
+  },
+  {
+    "text": "For indeed, they spoke peacefully to me; and speaking with passion to the earth, they intended deceit.",
+    "reference": "Psalm 35:20 (CPDV)",
+    "connected_to": "Psalm 35:21",
+    "connected_from": "Psalm 35:19"
+  },
+  {
+    "text": "And they opened their mouth wide over me. They said, “Well, well, our eyes have seen.”",
+    "reference": "Psalm 35:21 (CPDV)",
+    "connected_to": "Psalm 35:22",
+    "connected_from": "Psalm 35:20"
+  },
+  {
+    "text": "You have seen, O Lord, do not be silent. Lord, do not depart from me.",
+    "reference": "Psalm 35:22 (CPDV)",
+    "connected_to": "Psalm 35:23",
+    "connected_from": "Psalm 35:21"
+  },
+  {
+    "text": "Rise up and be attentive to my judgment, to my cause, my God and my Lord.",
+    "reference": "Psalm 35:23 (CPDV)",
+    "connected_to": "Psalm 35:24",
+    "connected_from": "Psalm 35:22"
+  },
+  {
+    "text": "Judge me according to your justice, O Lord, my God, and do not let them be glad over me.",
+    "reference": "Psalm 35:24 (CPDV)",
+    "connected_to": "Psalm 35:25",
+    "connected_from": "Psalm 35:23"
+  },
+  {
+    "text": "Do not let them say in their hearts, “Well, well, to our soul.” Neither let them say, “We have devoured him.”",
+    "reference": "Psalm 35:25 (CPDV)",
+    "connected_to": "Psalm 35:26",
+    "connected_from": "Psalm 35:24"
+  },
+  {
+    "text": "Let them blush and be in awe together, those who congratulate at my misfortunes. Let them be clothed with confusion and awe, who speak great things against me.",
+    "reference": "Psalm 35:26 (CPDV)",
+    "connected_to": "Psalm 35:27",
+    "connected_from": "Psalm 35:25"
+  },
+  {
+    "text": "Let them exult and rejoice, who wish my justice, and let them ever say, “The Lord be magnified,” who will the peace of his servant.",
+    "reference": "Psalm 35:27 (CPDV)",
+    "connected_to": "Psalm 35:28",
+    "connected_from": "Psalm 35:26"
+  },
+  {
+    "text": "And so my tongue will express your justice: your praise all day long.",
+    "reference": "Psalm 35:28 (CPDV)",
+    "connected_from": "Psalm 35:27"
+  }
+]

@@ -1,0 +1,204 @@
+[
+  {
+    "text": "And YHWH spoke to Moses after the death of the two sons of Aaron, when they drew near before the face of YHWH, and they died.",
+    "reference": "Leviticus 16:1 (BLB)",
+    "connected_to": "Leviticus 16:2"
+  },
+  {
+    "text": "And YHWH said to Moses, “Speak to Aaron your brother, and he shall not come in at any time to the Holy Place inside the veil before the face of the mercy seat that [is] on the ark, and he will not die. For in the cloud I appear above the mercy seat.",
+    "reference": "Leviticus 16:2 (BLB)",
+    "connected_to": "Leviticus 16:3",
+    "connected_from": "Leviticus 16:1"
+  },
+  {
+    "text": "In this [way] Aaron shall come to the Holy Place; with a bull, a son of the herd, for a sin offering, and a ram for a burnt offering.",
+    "reference": "Leviticus 16:3 (BLB)",
+    "connected_to": "Leviticus 16:4",
+    "connected_from": "Leviticus 16:2"
+  },
+  {
+    "text": "And he shall put on the holy linen tunic, and the linen undergarments he shall have on his flesh, and he shall gird himself with a linen sash, and he shall wrap himself with the linen turban; these [are] holy garments. And he shall bathe his flesh in the water, and he shall put them on.",
+    "reference": "Leviticus 16:4 (BLB)",
+    "connected_to": "Leviticus 16:5",
+    "connected_from": "Leviticus 16:3"
+  },
+  {
+    "text": "And from the congregation of the sons of Israel he shall take two kids of the goats for a sin offering, and one ram for a burnt offering.",
+    "reference": "Leviticus 16:5 (BLB)",
+    "connected_to": "Leviticus 16:6",
+    "connected_from": "Leviticus 16:4"
+  },
+  {
+    "text": "And Aaron shall bring near the bull of the sin offering, which [is] for himself, and he shall make atonement on behalf of himself, and on behalf of his house.",
+    "reference": "Leviticus 16:6 (BLB)",
+    "connected_to": "Leviticus 16:7",
+    "connected_from": "Leviticus 16:5"
+  },
+  {
+    "text": "And he shall take the two goats, and he shall present them before the face of YHWH [at] the door of the Tent of Meeting.",
+    "reference": "Leviticus 16:7 (BLB)",
+    "connected_to": "Leviticus 16:8",
+    "connected_from": "Leviticus 16:6"
+  },
+  {
+    "text": "And Aaron shall give lots upon the two goats, one lot for YHWH and one lot for Azazel.",
+    "reference": "Leviticus 16:8 (BLB)",
+    "connected_to": "Leviticus 16:9",
+    "connected_from": "Leviticus 16:7"
+  },
+  {
+    "text": "And Aaron shall bring near the goat upon which the lot for YHWH came up, and he shall do it [as] a sin offering.",
+    "reference": "Leviticus 16:9 (BLB)",
+    "connected_to": "Leviticus 16:10",
+    "connected_from": "Leviticus 16:8"
+  },
+  {
+    "text": "And the goat upon which the lot for Azazel came up shall be presented alive before the face of YHWH, to make atonement upon it, to send it away to Azazel into the wilderness.",
+    "reference": "Leviticus 16:10 (BLB)",
+    "connected_to": "Leviticus 16:11",
+    "connected_from": "Leviticus 16:9"
+  },
+  {
+    "text": "And Aaron shall bring near the bull of the sin offering that is for himself, and he shall make atonement on behalf of himself, and on behalf of his house, and he shall slaughter the bull of the sin offering, which [is] for himself.",
+    "reference": "Leviticus 16:11 (BLB)",
+    "connected_to": "Leviticus 16:12",
+    "connected_from": "Leviticus 16:10"
+  },
+  {
+    "text": "And he shall take the fullness of the firepan of burning coals of fire from on the altar before the face of YHWH, and the fullness of his handfuls of fine incense of spices, and he shall bring [it] inside the veil.",
+    "reference": "Leviticus 16:12 (BLB)",
+    "connected_to": "Leviticus 16:13",
+    "connected_from": "Leviticus 16:11"
+  },
+  {
+    "text": "And he shall put the incense on the fire before the face of YHWH, and the cloud of incense shall cover the mercy seat that [is] on the Testimony, and he will not die.",
+    "reference": "Leviticus 16:13 (BLB)",
+    "connected_to": "Leviticus 16:14",
+    "connected_from": "Leviticus 16:12"
+  },
+  {
+    "text": "And he shall take from the blood from the bull, and he shall sprinkle [it] with his finger on the face of the mercy seat on the east [side]; and before the face of the mercy seat he shall sprinkle the blood seven times with his finger.",
+    "reference": "Leviticus 16:14 (BLB)",
+    "connected_to": "Leviticus 16:15",
+    "connected_from": "Leviticus 16:13"
+  },
+  {
+    "text": "And he shall slaughter the goat of the sin offering that [is] for the people, and he shall bring its blood to the inside of the veil, and he shall do with its blood as he did with the blood of the bull, and he shall sprinkle it on the mercy seat and before the face of the mercy seat.",
+    "reference": "Leviticus 16:15 (BLB)",
+    "connected_to": "Leviticus 16:16",
+    "connected_from": "Leviticus 16:14"
+  },
+  {
+    "text": "And he shall make atonement upon the Holy Place from the uncleannesses of the sons of Israel and from their transgressions, for all their sins; and thus he shall do for the Tent of Meeting, the one dwelling with them in the midst of their uncleannesses.",
+    "reference": "Leviticus 16:16 (BLB)",
+    "connected_to": "Leviticus 16:17",
+    "connected_from": "Leviticus 16:15"
+  },
+  {
+    "text": "And any man shall not be in the Tent of Meeting when he goes in to make atonement in the Holy Place, until he comes out, and he may make atonement on behalf of himself and on behalf of his house and on behalf of all the assembly of Israel.",
+    "reference": "Leviticus 16:17 (BLB)",
+    "connected_to": "Leviticus 16:18",
+    "connected_from": "Leviticus 16:16"
+  },
+  {
+    "text": "And he shall go out to the altar that [is] before the face of YHWH and he shall make atonement upon it; and he shall take from the blood of the bull, and from the blood of the goat, and he shall put it on the horns of the altar all around.",
+    "reference": "Leviticus 16:18 (BLB)",
+    "connected_to": "Leviticus 16:19",
+    "connected_from": "Leviticus 16:17"
+  },
+  {
+    "text": "And he shall sprinkle on it from of the blood with his finger seven times, and he shall cleanse it, and he shall sanctify it from the uncleannesses of the sons of Israel.",
+    "reference": "Leviticus 16:19 (BLB)",
+    "connected_to": "Leviticus 16:20",
+    "connected_from": "Leviticus 16:18"
+  },
+  {
+    "text": "And he shall finish from making atonement [upon] the Holy Place and the Tent of Meeting and the altar, and he shall bring near the living goat.",
+    "reference": "Leviticus 16:20 (BLB)",
+    "connected_to": "Leviticus 16:21",
+    "connected_from": "Leviticus 16:19"
+  },
+  {
+    "text": "And Aaron shall lay his two hands on the head of the living goat, and he shall confess over it all the iniquities of the sons of Israel, and all their transgressions for all their sins, and he shall put them on the head of the goat, and he shall send [it] away into the wilderness by the hand of a suitable man.",
+    "reference": "Leviticus 16:21 (BLB)",
+    "connected_to": "Leviticus 16:22",
+    "connected_from": "Leviticus 16:20"
+  },
+  {
+    "text": "And the goat shall carry on itself all their iniquities, to a land inaccessible; and he shall send away the goat into the wilderness.",
+    "reference": "Leviticus 16:22 (BLB)",
+    "connected_to": "Leviticus 16:23",
+    "connected_from": "Leviticus 16:21"
+  },
+  {
+    "text": "And Aaron shall come into the Tent of Meeting, and he shall take off the linen garments that he put on when he went into the Holy Place, and he shall leave them there.",
+    "reference": "Leviticus 16:23 (BLB)",
+    "connected_to": "Leviticus 16:24",
+    "connected_from": "Leviticus 16:22"
+  },
+  {
+    "text": "And he shall bathe his flesh with the water in a holy place, and he shall put on his garments, and he shall come out, and he shall do his burnt offering and the burnt offering of the people, and he shall make atonement on behalf of himself and on behalf of the people.",
+    "reference": "Leviticus 16:24 (BLB)",
+    "connected_to": "Leviticus 16:25",
+    "connected_from": "Leviticus 16:23"
+  },
+  {
+    "text": "And the fat of the sin offering he shall burn on the altar.",
+    "reference": "Leviticus 16:25 (BLB)",
+    "connected_to": "Leviticus 16:26",
+    "connected_from": "Leviticus 16:24"
+  },
+  {
+    "text": "And the one sending away the goat to Azazel shall wash his clothes, and he shall bathe his flesh in the water, and afterward he shall come into the camp.",
+    "reference": "Leviticus 16:26 (BLB)",
+    "connected_to": "Leviticus 16:27",
+    "connected_from": "Leviticus 16:25"
+  },
+  {
+    "text": "And the bull of the sin offering and the goat of the sin offering, whose blood was brought in to make atonement in the Holy Place, shall be brought out to the outside of the camp; and they shall burn in the fire their skins and their flesh and their dung.",
+    "reference": "Leviticus 16:27 (BLB)",
+    "connected_to": "Leviticus 16:28",
+    "connected_from": "Leviticus 16:26"
+  },
+  {
+    "text": "And the one burning them shall wash his clothes, and he shall bathe his flesh in the water, and afterward he shall come into the camp.",
+    "reference": "Leviticus 16:28 (BLB)",
+    "connected_to": "Leviticus 16:29",
+    "connected_from": "Leviticus 16:27"
+  },
+  {
+    "text": "And it shall be an everlasting statute for you⁺: In the seventh month on the tenth of the month you⁺ shall afflict your⁺ souls, and you⁺ shall not do any work—the native and the sojourner who is sojourning in your⁺ midst.",
+    "reference": "Leviticus 16:29 (BLB)",
+    "connected_to": "Leviticus 16:30",
+    "connected_from": "Leviticus 16:28"
+  },
+  {
+    "text": "For on this day he shall make atonement upon you⁺ to cleanse you⁺ from all your⁺ sins before the face of YHWH, [and] you⁺ shall be clean.",
+    "reference": "Leviticus 16:30 (BLB)",
+    "connected_to": "Leviticus 16:31",
+    "connected_from": "Leviticus 16:29"
+  },
+  {
+    "text": "It [is] a Sabbath of complete rest for you⁺, and you⁺ shall afflict your⁺ souls; [it is] an everlasting statute.",
+    "reference": "Leviticus 16:31 (BLB)",
+    "connected_to": "Leviticus 16:32",
+    "connected_from": "Leviticus 16:30"
+  },
+  {
+    "text": "And the priest shall make atonement, he who is anointed and he whose hand is filled to minister as priest in place of his father, and he shall put on the linen garments, the holy garments.",
+    "reference": "Leviticus 16:32 (BLB)",
+    "connected_to": "Leviticus 16:33",
+    "connected_from": "Leviticus 16:31"
+  },
+  {
+    "text": "And he shall make atonement [upon] the Sanctuary of Holiness and the Tent of Meeting; and he shall make atonement [upon] the altar; and he shall make atonement upon the priests and upon all the people of the assembly.",
+    "reference": "Leviticus 16:33 (BLB)",
+    "connected_to": "Leviticus 16:34",
+    "connected_from": "Leviticus 16:32"
+  },
+  {
+    "text": "And this shall be an everlasting statute for you⁺, to make atonement upon the sons of Israel, from all their sins, once in the year.” And he did as YHWH had commanded Moses.",
+    "reference": "Leviticus 16:34 (BLB)",
+    "connected_from": "Leviticus 16:33"
+  }
+]

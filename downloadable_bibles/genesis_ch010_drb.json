@@ -1,0 +1,192 @@
+[
+  {
+    "text": "These are the generations of the sons of Noe: Sem, Cham, and Japheth: and unto them sons were born after the flood.",
+    "reference": "Genesis 10:1 (DRB)",
+    "connected_to": "Genesis 10:2"
+  },
+  {
+    "text": "The sons of Japheth: Gomer, and Magog, and Madai, and Javan, and Thubal, and Mosoch, and Thiras.",
+    "reference": "Genesis 10:2 (DRB)",
+    "connected_to": "Genesis 10:3",
+    "connected_from": "Genesis 10:1"
+  },
+  {
+    "text": "And the sons of Gomer: Ascenez and Riphath and Thogorma.",
+    "reference": "Genesis 10:3 (DRB)",
+    "connected_to": "Genesis 10:4",
+    "connected_from": "Genesis 10:2"
+  },
+  {
+    "text": "And the sons of Javan: Elisa and Tharsis, Cetthim, and Dodanim.",
+    "reference": "Genesis 10:4 (DRB)",
+    "connected_to": "Genesis 10:5",
+    "connected_from": "Genesis 10:3"
+  },
+  {
+    "text": "By these were divided the islands of the Gentiles in their lands, every one according to his tongue and their families in their nations.",
+    "reference": "Genesis 10:5 (DRB)",
+    "connected_to": "Genesis 10:6",
+    "connected_from": "Genesis 10:4"
+  },
+  {
+    "text": "And the sons of Cham: Chus, and Mesram, and Phuth, and Chanaan.",
+    "reference": "Genesis 10:6 (DRB)",
+    "connected_to": "Genesis 10:7",
+    "connected_from": "Genesis 10:5"
+  },
+  {
+    "text": "And the sons of Chus: Saba and Hevila, and Sabatha, and Regma, and Sabatacha. The sons of Regma: Saba and Dadan.",
+    "reference": "Genesis 10:7 (DRB)",
+    "connected_to": "Genesis 10:8",
+    "connected_from": "Genesis 10:6"
+  },
+  {
+    "text": "Now Chus begot Nemrod: he began to be mighty on earth.",
+    "reference": "Genesis 10:8 (DRB)",
+    "connected_to": "Genesis 10:9",
+    "connected_from": "Genesis 10:7"
+  },
+  {
+    "text": "And he was a stout hunter before the Lord. Hence came a proverb: Even as Nemrod the stout hunter before the Lord.",
+    "reference": "Genesis 10:9 (DRB)",
+    "connected_to": "Genesis 10:10",
+    "connected_from": "Genesis 10:8"
+  },
+  {
+    "text": "And the beginning of his kingdom was Babylon, and Arach, and Achad, and Chalanne in the land of Sennaar.",
+    "reference": "Genesis 10:10 (DRB)",
+    "connected_to": "Genesis 10:11",
+    "connected_from": "Genesis 10:9"
+  },
+  {
+    "text": "Out of that land came forth Assur, and built Ninive, and the streets of the city, and Chale.",
+    "reference": "Genesis 10:11 (DRB)",
+    "connected_to": "Genesis 10:12",
+    "connected_from": "Genesis 10:10"
+  },
+  {
+    "text": "Resen also between Ninive and Chale: this is the great city.",
+    "reference": "Genesis 10:12 (DRB)",
+    "connected_to": "Genesis 10:13",
+    "connected_from": "Genesis 10:11"
+  },
+  {
+    "text": "And Mesraim begot Ludim, and Anamim, and Laabim, Nepthuim,",
+    "reference": "Genesis 10:13 (DRB)",
+    "connected_to": "Genesis 10:14",
+    "connected_from": "Genesis 10:12"
+  },
+  {
+    "text": "And Phetrusim, and Chasluim; of whom came forth the Philistines, and the Capthorim.",
+    "reference": "Genesis 10:14 (DRB)",
+    "connected_to": "Genesis 10:15",
+    "connected_from": "Genesis 10:13"
+  },
+  {
+    "text": "And Chanaan begot Sidon, his firstborn, the Hethite,",
+    "reference": "Genesis 10:15 (DRB)",
+    "connected_to": "Genesis 10:16",
+    "connected_from": "Genesis 10:14"
+  },
+  {
+    "text": "And the Jebusite, and the Amorrhite, and the Gergesite,",
+    "reference": "Genesis 10:16 (DRB)",
+    "connected_to": "Genesis 10:17",
+    "connected_from": "Genesis 10:15"
+  },
+  {
+    "text": "The Hevite and the Aracite: the Sinite,",
+    "reference": "Genesis 10:17 (DRB)",
+    "connected_to": "Genesis 10:18",
+    "connected_from": "Genesis 10:16"
+  },
+  {
+    "text": "And the Aradian, the Samarite, and the Hamathite: and afterwards the families of the Chanaanites were spread abroad.",
+    "reference": "Genesis 10:18 (DRB)",
+    "connected_to": "Genesis 10:19",
+    "connected_from": "Genesis 10:17"
+  },
+  {
+    "text": "And the limits of Chanaan were from Sidon as one comes to Gerara even to Gaza, until thou enter Sodom and Gomorrha, and Adama, and Seboim even to Lesa.",
+    "reference": "Genesis 10:19 (DRB)",
+    "connected_to": "Genesis 10:20",
+    "connected_from": "Genesis 10:18"
+  },
+  {
+    "text": "These are the children of Cham in their kindreds, and tongues, and generations, and lands, and nations.",
+    "reference": "Genesis 10:20 (DRB)",
+    "connected_to": "Genesis 10:21",
+    "connected_from": "Genesis 10:19"
+  },
+  {
+    "text": "Of Sem also, the father of all children of Heber, the elder brother of Japheth, sons were born.",
+    "reference": "Genesis 10:21 (DRB)",
+    "connected_to": "Genesis 10:22",
+    "connected_from": "Genesis 10:20"
+  },
+  {
+    "text": "The sons of Sem: Elam and Assur, and Arphaxad, and Lud, and Aram.",
+    "reference": "Genesis 10:22 (DRB)",
+    "connected_to": "Genesis 10:23",
+    "connected_from": "Genesis 10:21"
+  },
+  {
+    "text": "The sons of Aram: Us and Hull, and Gether: and Mess.",
+    "reference": "Genesis 10:23 (DRB)",
+    "connected_to": "Genesis 10:24",
+    "connected_from": "Genesis 10:22"
+  },
+  {
+    "text": "But Arphaxad begot Sale, of whom was born Heber.",
+    "reference": "Genesis 10:24 (DRB)",
+    "connected_to": "Genesis 10:25",
+    "connected_from": "Genesis 10:23"
+  },
+  {
+    "text": "And to Heber were born two sons: the name of the one was Phaleg, because in his days the earth was divided: and his brother’s name Jectan.",
+    "reference": "Genesis 10:25 (DRB)",
+    "connected_to": "Genesis 10:26",
+    "connected_from": "Genesis 10:24"
+  },
+  {
+    "text": "Which Jectan begot Elmodad, and Saleph, and Asarmoth, Jare,",
+    "reference": "Genesis 10:26 (DRB)",
+    "connected_to": "Genesis 10:27",
+    "connected_from": "Genesis 10:25"
+  },
+  {
+    "text": "And Anduram, and Uzal, and Decla,",
+    "reference": "Genesis 10:27 (DRB)",
+    "connected_to": "Genesis 10:28",
+    "connected_from": "Genesis 10:26"
+  },
+  {
+    "text": "And Ebal, and Abimael, Saba,",
+    "reference": "Genesis 10:28 (DRB)",
+    "connected_to": "Genesis 10:29",
+    "connected_from": "Genesis 10:27"
+  },
+  {
+    "text": "And Ophir, and Hevila, and Jobab.",
+    "reference": "Genesis 10:29 (DRB)",
+    "connected_to": "Genesis 10:30",
+    "connected_from": "Genesis 10:28"
+  },
+  {
+    "text": "And their dwelling was from Messa as we go on as far as Sephar, a mountain in the east.",
+    "reference": "Genesis 10:30 (DRB)",
+    "connected_to": "Genesis 10:31",
+    "connected_from": "Genesis 10:29"
+  },
+  {
+    "text": "These are the children of Sem according to their kindreds and tongues, and countries in their nations.",
+    "reference": "Genesis 10:31 (DRB)",
+    "connected_to": "Genesis 10:32",
+    "connected_from": "Genesis 10:30"
+  },
+  {
+    "text": "These are the families of Noe, according to their peoples and nations. By these were the nations divided on the earth after the flood.",
+    "reference": "Genesis 10:32 (DRB)",
+    "connected_from": "Genesis 10:31"
+  }
+]

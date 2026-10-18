@@ -1,0 +1,324 @@
+[
+  {
+    "text": "And Jehovah spoke to Moses in the wilderness of Sinai in the tent of meeting, on the first of the second month, in the second year after their departure from the land of Egypt, saying,",
+    "reference": "Numbers 1:1 (DBT)",
+    "connected_to": "Numbers 1:2"
+  },
+  {
+    "text": "Take the sum of the whole assembly of the children of Israel, after their families, according to their fathers’ houses, by the number of the names, every male, according to their polls;",
+    "reference": "Numbers 1:2 (DBT)",
+    "connected_to": "Numbers 1:3",
+    "connected_from": "Numbers 1:1"
+  },
+  {
+    "text": "from twenty years and upward, all that go forth to military service in Israel: ye shall number them according to their hosts, thou and Aaron.",
+    "reference": "Numbers 1:3 (DBT)",
+    "connected_to": "Numbers 1:4",
+    "connected_from": "Numbers 1:2"
+  },
+  {
+    "text": "And with you there shall be a man for every tribe, a man who is the head of his father’s house.",
+    "reference": "Numbers 1:4 (DBT)",
+    "connected_to": "Numbers 1:5",
+    "connected_from": "Numbers 1:3"
+  },
+  {
+    "text": "And these are the names of the men that shall stand with you: for Reuben, Elizur the son of Shedeur;",
+    "reference": "Numbers 1:5 (DBT)",
+    "connected_to": "Numbers 1:6",
+    "connected_from": "Numbers 1:4"
+  },
+  {
+    "text": "for Simeon, Shelumiel the son of Zurishaddai;",
+    "reference": "Numbers 1:6 (DBT)",
+    "connected_to": "Numbers 1:7",
+    "connected_from": "Numbers 1:5"
+  },
+  {
+    "text": "for Judah, Nahshon the son of Amminadab;",
+    "reference": "Numbers 1:7 (DBT)",
+    "connected_to": "Numbers 1:8",
+    "connected_from": "Numbers 1:6"
+  },
+  {
+    "text": "for Issachar, Nethaneel the son of Zuar;",
+    "reference": "Numbers 1:8 (DBT)",
+    "connected_to": "Numbers 1:9",
+    "connected_from": "Numbers 1:7"
+  },
+  {
+    "text": "for Zebulun, Eliab the son of Helon;",
+    "reference": "Numbers 1:9 (DBT)",
+    "connected_to": "Numbers 1:10",
+    "connected_from": "Numbers 1:8"
+  },
+  {
+    "text": "for the children of Joseph: for Ephraim, Elishama the son of Ammihud; for Manasseh, Gamaliel the son of Pedahzur;",
+    "reference": "Numbers 1:10 (DBT)",
+    "connected_to": "Numbers 1:11",
+    "connected_from": "Numbers 1:9"
+  },
+  {
+    "text": "for Benjamin, Abidan the son of Gideoni;",
+    "reference": "Numbers 1:11 (DBT)",
+    "connected_to": "Numbers 1:12",
+    "connected_from": "Numbers 1:10"
+  },
+  {
+    "text": "for Dan, Ahiezer the son of Ammishaddai;",
+    "reference": "Numbers 1:12 (DBT)",
+    "connected_to": "Numbers 1:13",
+    "connected_from": "Numbers 1:11"
+  },
+  {
+    "text": "for Asher, Pagiel the son of Ocran;",
+    "reference": "Numbers 1:13 (DBT)",
+    "connected_to": "Numbers 1:14",
+    "connected_from": "Numbers 1:12"
+  },
+  {
+    "text": "for Gad, Eliasaph the son of Deuel;",
+    "reference": "Numbers 1:14 (DBT)",
+    "connected_to": "Numbers 1:15",
+    "connected_from": "Numbers 1:13"
+  },
+  {
+    "text": "for Naphtali, Ahira the son of Enan.",
+    "reference": "Numbers 1:15 (DBT)",
+    "connected_to": "Numbers 1:16",
+    "connected_from": "Numbers 1:14"
+  },
+  {
+    "text": "These were those summoned of the assembly, princes of the tribes of their fathers, the heads of the thousands of Israel.",
+    "reference": "Numbers 1:16 (DBT)",
+    "connected_to": "Numbers 1:17",
+    "connected_from": "Numbers 1:15"
+  },
+  {
+    "text": "And Moses and Aaron took these men who are expressed by their names,",
+    "reference": "Numbers 1:17 (DBT)",
+    "connected_to": "Numbers 1:18",
+    "connected_from": "Numbers 1:16"
+  },
+  {
+    "text": "and gathered the whole assembly together on the first of the second month. And they declared their pedigrees after their families, according to their fathers’ houses, by the number of the names, from twenty years old and upward, according to their polls.",
+    "reference": "Numbers 1:18 (DBT)",
+    "connected_to": "Numbers 1:19",
+    "connected_from": "Numbers 1:17"
+  },
+  {
+    "text": "As Jehovah had commanded Moses, so he numbered them in the wilderness of Sinai.",
+    "reference": "Numbers 1:19 (DBT)",
+    "connected_to": "Numbers 1:20",
+    "connected_from": "Numbers 1:18"
+  },
+  {
+    "text": "And the sons of Reuben, Israel’s eldest son, their generations, after their families, according to their fathers’ houses, by the number of the names, according to their polls, every male from twenty years old and upward, all that went forth to military service:",
+    "reference": "Numbers 1:20 (DBT)",
+    "connected_to": "Numbers 1:21",
+    "connected_from": "Numbers 1:19"
+  },
+  {
+    "text": "those that were numbered of them, of the tribe of Reuben, were forty-six thousand five hundred.",
+    "reference": "Numbers 1:21 (DBT)",
+    "connected_to": "Numbers 1:22",
+    "connected_from": "Numbers 1:20"
+  },
+  {
+    "text": "Of the sons of Simeon: their generations, after their families, according to their fathers’ houses, those that were numbered of them, by the number of the names, according to their polls, every male from twenty years old and upward, all that went forth to military service:",
+    "reference": "Numbers 1:22 (DBT)",
+    "connected_to": "Numbers 1:23",
+    "connected_from": "Numbers 1:21"
+  },
+  {
+    "text": "those that were numbered of them, of the tribe of Simeon, were fifty-nine thousand three hundred.",
+    "reference": "Numbers 1:23 (DBT)",
+    "connected_to": "Numbers 1:24",
+    "connected_from": "Numbers 1:22"
+  },
+  {
+    "text": "Of the sons of Gad: their generations, after their families, according to their fathers’ houses, by the number of the names, from twenty years old and upward, all that went forth to military service:",
+    "reference": "Numbers 1:24 (DBT)",
+    "connected_to": "Numbers 1:25",
+    "connected_from": "Numbers 1:23"
+  },
+  {
+    "text": "those that were numbered of them, of the tribe of Gad, were forty-five thousand six hundred and fifty.",
+    "reference": "Numbers 1:25 (DBT)",
+    "connected_to": "Numbers 1:26",
+    "connected_from": "Numbers 1:24"
+  },
+  {
+    "text": "Of the sons of Judah: their generations, after their families, according to their fathers’ houses, by the number of the names, from twenty years old and upward, all that went forth to military service:",
+    "reference": "Numbers 1:26 (DBT)",
+    "connected_to": "Numbers 1:27",
+    "connected_from": "Numbers 1:25"
+  },
+  {
+    "text": "those that were numbered of them, of the tribe of Judah, were seventy-four thousand six hundred.",
+    "reference": "Numbers 1:27 (DBT)",
+    "connected_to": "Numbers 1:28",
+    "connected_from": "Numbers 1:26"
+  },
+  {
+    "text": "Of the sons of Issachar: their generations, after their families, according to their fathers’ houses, by the number of the names, from twenty years old and upward, all that went forth to military service:",
+    "reference": "Numbers 1:28 (DBT)",
+    "connected_to": "Numbers 1:29",
+    "connected_from": "Numbers 1:27"
+  },
+  {
+    "text": "those that were numbered of them, of the tribe of Issachar, were fifty-four thousand four hundred.",
+    "reference": "Numbers 1:29 (DBT)",
+    "connected_to": "Numbers 1:30",
+    "connected_from": "Numbers 1:28"
+  },
+  {
+    "text": "Of the sons of Zebulun: their generations, after their families, according to their fathers’ houses, by the number of the names, from twenty years old and upward, all that went forth to military service:",
+    "reference": "Numbers 1:30 (DBT)",
+    "connected_to": "Numbers 1:31",
+    "connected_from": "Numbers 1:29"
+  },
+  {
+    "text": "those that were numbered of them, of the tribe of Zebulun, were fifty-seven thousand four hundred.",
+    "reference": "Numbers 1:31 (DBT)",
+    "connected_to": "Numbers 1:32",
+    "connected_from": "Numbers 1:30"
+  },
+  {
+    "text": "Of the sons of Joseph: of the children of Ephraim: their generations, after their families, according to their fathers’ houses, by the number of the names, from twenty years old and upward, all that went forth to military service:",
+    "reference": "Numbers 1:32 (DBT)",
+    "connected_to": "Numbers 1:33",
+    "connected_from": "Numbers 1:31"
+  },
+  {
+    "text": "those that were numbered of them, of the tribe of Ephraim, were forty thousand five hundred.",
+    "reference": "Numbers 1:33 (DBT)",
+    "connected_to": "Numbers 1:34",
+    "connected_from": "Numbers 1:32"
+  },
+  {
+    "text": "Of the children of Manasseh: their generations, after their families, according to their fathers’ houses, by the number of the names, from twenty years old and upward, all that went forth to military service:",
+    "reference": "Numbers 1:34 (DBT)",
+    "connected_to": "Numbers 1:35",
+    "connected_from": "Numbers 1:33"
+  },
+  {
+    "text": "those that were numbered of them, of the tribe of Manasseh, were thirty-two thousand two hundred.",
+    "reference": "Numbers 1:35 (DBT)",
+    "connected_to": "Numbers 1:36",
+    "connected_from": "Numbers 1:34"
+  },
+  {
+    "text": "Of the sons of Benjamin: their generations, after their families, according to their fathers’ houses, by the number of the names, from twenty years old and upward, all that went forth to military service:",
+    "reference": "Numbers 1:36 (DBT)",
+    "connected_to": "Numbers 1:37",
+    "connected_from": "Numbers 1:35"
+  },
+  {
+    "text": "those that were numbered of them, of the tribe of Benjamin, were thirty-five thousand four hundred.",
+    "reference": "Numbers 1:37 (DBT)",
+    "connected_to": "Numbers 1:38",
+    "connected_from": "Numbers 1:36"
+  },
+  {
+    "text": "Of the sons of Dan: their generations, after their families, according to their fathers’ houses, by the number of the names, from twenty years old and upward, all that went forth to military service:",
+    "reference": "Numbers 1:38 (DBT)",
+    "connected_to": "Numbers 1:39",
+    "connected_from": "Numbers 1:37"
+  },
+  {
+    "text": "those that were numbered of them, of the tribe of Dan, were sixty-two thousand seven hundred.",
+    "reference": "Numbers 1:39 (DBT)",
+    "connected_to": "Numbers 1:40",
+    "connected_from": "Numbers 1:38"
+  },
+  {
+    "text": "Of the sons of Asher: their generations, after their families, according to their fathers’ houses, by the number of the names, from twenty years old and upward, all that went forth to military service:",
+    "reference": "Numbers 1:40 (DBT)",
+    "connected_to": "Numbers 1:41",
+    "connected_from": "Numbers 1:39"
+  },
+  {
+    "text": "those that were numbered of them, of the tribe of Asher, were forty-one thousand five hundred.",
+    "reference": "Numbers 1:41 (DBT)",
+    "connected_to": "Numbers 1:42",
+    "connected_from": "Numbers 1:40"
+  },
+  {
+    "text": "Of the sons of Naphtali: their generations, after their families, according to their fathers’ houses, by the number of the names, from twenty years old and upward, all that went forth to military service:",
+    "reference": "Numbers 1:42 (DBT)",
+    "connected_to": "Numbers 1:43",
+    "connected_from": "Numbers 1:41"
+  },
+  {
+    "text": "those that were numbered of them, of the tribe of Naphtali, were fifty-three thousand four hundred.",
+    "reference": "Numbers 1:43 (DBT)",
+    "connected_to": "Numbers 1:44",
+    "connected_from": "Numbers 1:42"
+  },
+  {
+    "text": "These are those that were numbered, whom Moses and Aaron numbered, and the princes of Israel, the twelve men: each one was for the house of his fathers.",
+    "reference": "Numbers 1:44 (DBT)",
+    "connected_to": "Numbers 1:45",
+    "connected_from": "Numbers 1:43"
+  },
+  {
+    "text": "And all those that were numbered of the children of Israel, according to their fathers’ houses, from twenty years old and upward, all that went forth to military service in Israel,",
+    "reference": "Numbers 1:45 (DBT)",
+    "connected_to": "Numbers 1:46",
+    "connected_from": "Numbers 1:44"
+  },
+  {
+    "text": "all they that were numbered were six hundred and three thousand five hundred and fifty.",
+    "reference": "Numbers 1:46 (DBT)",
+    "connected_to": "Numbers 1:47",
+    "connected_from": "Numbers 1:45"
+  },
+  {
+    "text": "But the Levites after the tribe of their fathers were not numbered among them.",
+    "reference": "Numbers 1:47 (DBT)",
+    "connected_to": "Numbers 1:48",
+    "connected_from": "Numbers 1:46"
+  },
+  {
+    "text": "For Jehovah had spoken to Moses, saying,",
+    "reference": "Numbers 1:48 (DBT)",
+    "connected_to": "Numbers 1:49",
+    "connected_from": "Numbers 1:47"
+  },
+  {
+    "text": "Only thou shalt not number the tribe of Levi, neither take the sum of them among the children of Israel.",
+    "reference": "Numbers 1:49 (DBT)",
+    "connected_to": "Numbers 1:50",
+    "connected_from": "Numbers 1:48"
+  },
+  {
+    "text": "But thou, appoint the Levites over the tabernacle of testimony, and over all the vessels thereof, and over all things that belong to it: they shall bear the tabernacle, and all its vessels; and they shall serve it, and round about the tabernacle shall they encamp;",
+    "reference": "Numbers 1:50 (DBT)",
+    "connected_to": "Numbers 1:51",
+    "connected_from": "Numbers 1:49"
+  },
+  {
+    "text": "and when the tabernacle setteth forward, the Levites shall take it down; and when the tabernacle encampeth, the Levites shall set it up; and the stranger that cometh near shall be put to death.",
+    "reference": "Numbers 1:51 (DBT)",
+    "connected_to": "Numbers 1:52",
+    "connected_from": "Numbers 1:50"
+  },
+  {
+    "text": "And the children of Israel shall encamp every man in his camp, and every man by his own standard, according to their hosts;",
+    "reference": "Numbers 1:52 (DBT)",
+    "connected_to": "Numbers 1:53",
+    "connected_from": "Numbers 1:51"
+  },
+  {
+    "text": "but the Levites shall encamp round about the tabernacle of testimony, that there come not wrath upon the assembly of the children of Israel; and the Levites shall keep the charge of the tabernacle of testimony.",
+    "reference": "Numbers 1:53 (DBT)",
+    "connected_to": "Numbers 1:54",
+    "connected_from": "Numbers 1:52"
+  },
+  {
+    "text": "And the children of Israel did so; according to all that Jehovah had commanded Moses, so did they.",
+    "reference": "Numbers 1:54 (DBT)",
+    "connected_from": "Numbers 1:53"
+  }
+]

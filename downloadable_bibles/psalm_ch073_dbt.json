@@ -1,0 +1,168 @@
+[
+  {
+    "text": "{A Psalm of Asaph.} Truly God is good to Israel, to such as are of a pure heart.",
+    "reference": "Psalm 73:1 (DBT)",
+    "connected_to": "Psalm 73:2"
+  },
+  {
+    "text": "But as for me, my feet were almost gone, my steps had well nigh slipped;",
+    "reference": "Psalm 73:2 (DBT)",
+    "connected_to": "Psalm 73:3",
+    "connected_from": "Psalm 73:1"
+  },
+  {
+    "text": "For I was envious at the arrogant, seeing the prosperity of the wicked.",
+    "reference": "Psalm 73:3 (DBT)",
+    "connected_to": "Psalm 73:4",
+    "connected_from": "Psalm 73:2"
+  },
+  {
+    "text": "For they have no pangs in their death, and their body is well nourished;",
+    "reference": "Psalm 73:4 (DBT)",
+    "connected_to": "Psalm 73:5",
+    "connected_from": "Psalm 73:3"
+  },
+  {
+    "text": "They have not the hardships of mankind, neither are they plagued like [other] men:",
+    "reference": "Psalm 73:5 (DBT)",
+    "connected_to": "Psalm 73:6",
+    "connected_from": "Psalm 73:4"
+  },
+  {
+    "text": "Therefore pride encompasseth them as a neck-chain, violence covereth them [as] a garment;",
+    "reference": "Psalm 73:6 (DBT)",
+    "connected_to": "Psalm 73:7",
+    "connected_from": "Psalm 73:5"
+  },
+  {
+    "text": "Their eyes stand out from fatness, they exceed the imaginations of their heart:",
+    "reference": "Psalm 73:7 (DBT)",
+    "connected_to": "Psalm 73:8",
+    "connected_from": "Psalm 73:6"
+  },
+  {
+    "text": "They mock and speak wickedly of oppression, they speak loftily:",
+    "reference": "Psalm 73:8 (DBT)",
+    "connected_to": "Psalm 73:9",
+    "connected_from": "Psalm 73:7"
+  },
+  {
+    "text": "They set their mouth in the heavens, and their tongue walketh through the earth.",
+    "reference": "Psalm 73:9 (DBT)",
+    "connected_to": "Psalm 73:10",
+    "connected_from": "Psalm 73:8"
+  },
+  {
+    "text": "Therefore his people turn hither, and waters in fulness are wrung out to them.",
+    "reference": "Psalm 73:10 (DBT)",
+    "connected_to": "Psalm 73:11",
+    "connected_from": "Psalm 73:9"
+  },
+  {
+    "text": "And they say, How can God know, and is there knowledge in the Most High?",
+    "reference": "Psalm 73:11 (DBT)",
+    "connected_to": "Psalm 73:12",
+    "connected_from": "Psalm 73:10"
+  },
+  {
+    "text": "Behold, these are the wicked, and they prosper in the world: they heap up riches.",
+    "reference": "Psalm 73:12 (DBT)",
+    "connected_to": "Psalm 73:13",
+    "connected_from": "Psalm 73:11"
+  },
+  {
+    "text": "Truly have I purified my heart in vain, and washed my hands in innocency:",
+    "reference": "Psalm 73:13 (DBT)",
+    "connected_to": "Psalm 73:14",
+    "connected_from": "Psalm 73:12"
+  },
+  {
+    "text": "For all the day have I been plagued, and chastened every morning.",
+    "reference": "Psalm 73:14 (DBT)",
+    "connected_to": "Psalm 73:15",
+    "connected_from": "Psalm 73:13"
+  },
+  {
+    "text": "If I said, I will speak thus, behold, I should be faithless to the generation of thy children.",
+    "reference": "Psalm 73:15 (DBT)",
+    "connected_to": "Psalm 73:16",
+    "connected_from": "Psalm 73:14"
+  },
+  {
+    "text": "When I thought to be able to know this, it was a grievous task in mine eyes;",
+    "reference": "Psalm 73:16 (DBT)",
+    "connected_to": "Psalm 73:17",
+    "connected_from": "Psalm 73:15"
+  },
+  {
+    "text": "Until I went into the sanctuaries of God; [then] understood I their end.",
+    "reference": "Psalm 73:17 (DBT)",
+    "connected_to": "Psalm 73:18",
+    "connected_from": "Psalm 73:16"
+  },
+  {
+    "text": "Truly thou settest them in slippery places, thou castest them down in ruins.",
+    "reference": "Psalm 73:18 (DBT)",
+    "connected_to": "Psalm 73:19",
+    "connected_from": "Psalm 73:17"
+  },
+  {
+    "text": "How are they suddenly made desolate! they pass away, consumed with terrors.",
+    "reference": "Psalm 73:19 (DBT)",
+    "connected_to": "Psalm 73:20",
+    "connected_from": "Psalm 73:18"
+  },
+  {
+    "text": "As a dream, when one awaketh, wilt thou, Lord, on arising despise their image.",
+    "reference": "Psalm 73:20 (DBT)",
+    "connected_to": "Psalm 73:21",
+    "connected_from": "Psalm 73:19"
+  },
+  {
+    "text": "When my heart was in a ferment, and I was pricked in my reins,",
+    "reference": "Psalm 73:21 (DBT)",
+    "connected_to": "Psalm 73:22",
+    "connected_from": "Psalm 73:20"
+  },
+  {
+    "text": "Then I was brutish and knew nothing; I was [as] a beast with thee.",
+    "reference": "Psalm 73:22 (DBT)",
+    "connected_to": "Psalm 73:23",
+    "connected_from": "Psalm 73:21"
+  },
+  {
+    "text": "Nevertheless I am continually with thee: thou hast holden my right hand;",
+    "reference": "Psalm 73:23 (DBT)",
+    "connected_to": "Psalm 73:24",
+    "connected_from": "Psalm 73:22"
+  },
+  {
+    "text": "Thou wilt guide me by thy counsel, and after the glory, thou wilt receive me.",
+    "reference": "Psalm 73:24 (DBT)",
+    "connected_to": "Psalm 73:25",
+    "connected_from": "Psalm 73:23"
+  },
+  {
+    "text": "Whom have I in the heavens? and there is none upon earth I desire beside thee.",
+    "reference": "Psalm 73:25 (DBT)",
+    "connected_to": "Psalm 73:26",
+    "connected_from": "Psalm 73:24"
+  },
+  {
+    "text": "My flesh and my heart faileth: God is the rock of my heart and my portion for ever.",
+    "reference": "Psalm 73:26 (DBT)",
+    "connected_to": "Psalm 73:27",
+    "connected_from": "Psalm 73:25"
+  },
+  {
+    "text": "For behold, they that are far from thee shall perish; thou destroyest every one that goeth a whoring from thee.",
+    "reference": "Psalm 73:27 (DBT)",
+    "connected_to": "Psalm 73:28",
+    "connected_from": "Psalm 73:26"
+  },
+  {
+    "text": "But as for me, it is good for me to draw near to God: I have put my trust in the Lord Jehovah, that I may declare all thy works.",
+    "reference": "Psalm 73:28 (DBT)",
+    "connected_from": "Psalm 73:27"
+  }
+]

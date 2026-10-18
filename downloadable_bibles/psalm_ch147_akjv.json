@@ -1,0 +1,120 @@
+[
+  {
+    "text": "Praise you the LORD: for it is good to sing praises to our God; for it is pleasant; and praise is comely.",
+    "reference": "Psalm 147:1 (AKJV)",
+    "connected_to": "Psalm 147:2"
+  },
+  {
+    "text": "The LORD does build up Jerusalem: he gathers together the outcasts of Israel.",
+    "reference": "Psalm 147:2 (AKJV)",
+    "connected_to": "Psalm 147:3",
+    "connected_from": "Psalm 147:1"
+  },
+  {
+    "text": "He heals the broken in heart, and binds up their wounds.",
+    "reference": "Psalm 147:3 (AKJV)",
+    "connected_to": "Psalm 147:4",
+    "connected_from": "Psalm 147:2"
+  },
+  {
+    "text": "He tells the number of the stars; he calls them all by their names.",
+    "reference": "Psalm 147:4 (AKJV)",
+    "connected_to": "Psalm 147:5",
+    "connected_from": "Psalm 147:3"
+  },
+  {
+    "text": "Great is our Lord, and of great power: his understanding is infinite.",
+    "reference": "Psalm 147:5 (AKJV)",
+    "connected_to": "Psalm 147:6",
+    "connected_from": "Psalm 147:4"
+  },
+  {
+    "text": "The LORD lifts up the meek: he casts the wicked down to the ground.",
+    "reference": "Psalm 147:6 (AKJV)",
+    "connected_to": "Psalm 147:7",
+    "connected_from": "Psalm 147:5"
+  },
+  {
+    "text": "Sing to the LORD with thanksgiving; sing praise on the harp to our God:",
+    "reference": "Psalm 147:7 (AKJV)",
+    "connected_to": "Psalm 147:8",
+    "connected_from": "Psalm 147:6"
+  },
+  {
+    "text": "Who covers the heaven with clouds, who prepares rain for the earth, who makes grass to grow on the mountains.",
+    "reference": "Psalm 147:8 (AKJV)",
+    "connected_to": "Psalm 147:9",
+    "connected_from": "Psalm 147:7"
+  },
+  {
+    "text": "He gives to the beast his food, and to the young ravens which cry.",
+    "reference": "Psalm 147:9 (AKJV)",
+    "connected_to": "Psalm 147:10",
+    "connected_from": "Psalm 147:8"
+  },
+  {
+    "text": "He delights not in the strength of the horse: he takes not pleasure in the legs of a man.",
+    "reference": "Psalm 147:10 (AKJV)",
+    "connected_to": "Psalm 147:11",
+    "connected_from": "Psalm 147:9"
+  },
+  {
+    "text": "The LORD takes pleasure in them that fear him, in those that hope in his mercy.",
+    "reference": "Psalm 147:11 (AKJV)",
+    "connected_to": "Psalm 147:12",
+    "connected_from": "Psalm 147:10"
+  },
+  {
+    "text": "Praise the LORD, O Jerusalem; praise your God, O Zion.",
+    "reference": "Psalm 147:12 (AKJV)",
+    "connected_to": "Psalm 147:13",
+    "connected_from": "Psalm 147:11"
+  },
+  {
+    "text": "For he has strengthened the bars of your gates; he has blessed your children within you.",
+    "reference": "Psalm 147:13 (AKJV)",
+    "connected_to": "Psalm 147:14",
+    "connected_from": "Psalm 147:12"
+  },
+  {
+    "text": "He makes peace in your borders, and fills you with the finest of the wheat.",
+    "reference": "Psalm 147:14 (AKJV)",
+    "connected_to": "Psalm 147:15",
+    "connected_from": "Psalm 147:13"
+  },
+  {
+    "text": "He sends forth his commandment on earth: his word runs very swiftly.",
+    "reference": "Psalm 147:15 (AKJV)",
+    "connected_to": "Psalm 147:16",
+    "connected_from": "Psalm 147:14"
+  },
+  {
+    "text": "He gives snow like wool: he scatters the hoarfrost like ashes.",
+    "reference": "Psalm 147:16 (AKJV)",
+    "connected_to": "Psalm 147:17",
+    "connected_from": "Psalm 147:15"
+  },
+  {
+    "text": "He casts forth his ice like morsels: who can stand before his cold?",
+    "reference": "Psalm 147:17 (AKJV)",
+    "connected_to": "Psalm 147:18",
+    "connected_from": "Psalm 147:16"
+  },
+  {
+    "text": "He sends out his word, and melts them: he causes his wind to blow, and the waters flow.",
+    "reference": "Psalm 147:18 (AKJV)",
+    "connected_to": "Psalm 147:19",
+    "connected_from": "Psalm 147:17"
+  },
+  {
+    "text": "He shows his word to Jacob, his statutes and his judgments to Israel.",
+    "reference": "Psalm 147:19 (AKJV)",
+    "connected_to": "Psalm 147:20",
+    "connected_from": "Psalm 147:18"
+  },
+  {
+    "text": "He has not dealt so with any nation: and as for his judgments, they have not known them. Praise you the LORD.",
+    "reference": "Psalm 147:20 (AKJV)",
+    "connected_from": "Psalm 147:19"
+  }
+]

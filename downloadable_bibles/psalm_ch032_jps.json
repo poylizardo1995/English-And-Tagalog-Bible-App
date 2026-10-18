@@ -1,0 +1,66 @@
+[
+  {
+    "text": "[A Psalm] of David. Maschil.  Happy is he whose transgression is forgiven, whose sin is pardoned.",
+    "reference": "Psalm 32:1 (JPS)",
+    "connected_to": "Psalm 32:2"
+  },
+  {
+    "text": "Happy is the man unto whom the LORD counteth not iniquity, And in whose spirit there is no guile.",
+    "reference": "Psalm 32:2 (JPS)",
+    "connected_to": "Psalm 32:3",
+    "connected_from": "Psalm 32:1"
+  },
+  {
+    "text": "When I kept silence, my bones wore away Through my groaning all the day long.",
+    "reference": "Psalm 32:3 (JPS)",
+    "connected_to": "Psalm 32:4",
+    "connected_from": "Psalm 32:2"
+  },
+  {
+    "text": "For day and night Thy hand was heavy upon me; My sap was turned as in the droughts of summer.  Selah",
+    "reference": "Psalm 32:4 (JPS)",
+    "connected_to": "Psalm 32:5",
+    "connected_from": "Psalm 32:3"
+  },
+  {
+    "text": "I acknowledged my sin unto Thee, and mine iniquity have I not hid; I said: ‘I will make confession concerning my transgressions unto the LORD’—And Thou, Thou forgavest the iniquity of my sin.  Selah",
+    "reference": "Psalm 32:5 (JPS)",
+    "connected_to": "Psalm 32:6",
+    "connected_from": "Psalm 32:4"
+  },
+  {
+    "text": "For this let every one that is godly pray unto Thee in a time when Thou mayest be found; Surely, when the great waters overflow, they will not reach unto him.",
+    "reference": "Psalm 32:6 (JPS)",
+    "connected_to": "Psalm 32:7",
+    "connected_from": "Psalm 32:5"
+  },
+  {
+    "text": "Thou art my hiding-place; Thou wilt preserve me from the adversary; With songs of deliverance Thou wilt compass me about.  Selah",
+    "reference": "Psalm 32:7 (JPS)",
+    "connected_to": "Psalm 32:8",
+    "connected_from": "Psalm 32:6"
+  },
+  {
+    "text": "I will instruct thee and teach thee in the way which thou shalt go; I will give counsel, Mine eye being upon thee.’",
+    "reference": "Psalm 32:8 (JPS)",
+    "connected_to": "Psalm 32:9",
+    "connected_from": "Psalm 32:7"
+  },
+  {
+    "text": "Be ye not as the horse, or as the mule, which have no understanding; Whose mouth must be held in with bit and bridle, That they come not near unto thee.",
+    "reference": "Psalm 32:9 (JPS)",
+    "connected_to": "Psalm 32:10",
+    "connected_from": "Psalm 32:8"
+  },
+  {
+    "text": "Many are the sorrows of the wicked; But he that trusteth in the LORD, mercy compasseth him about.",
+    "reference": "Psalm 32:10 (JPS)",
+    "connected_to": "Psalm 32:11",
+    "connected_from": "Psalm 32:9"
+  },
+  {
+    "text": "Be glad in the LORD, and rejoice, ye righteous; And shout for joy, all ye that are upright in heart.",
+    "reference": "Psalm 32:11 (JPS)",
+    "connected_from": "Psalm 32:10"
+  }
+]

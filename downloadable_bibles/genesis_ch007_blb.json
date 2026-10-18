@@ -1,0 +1,144 @@
+[
+  {
+    "text": "And YHWH said to Noah, “Go, you and all your house, into the ark, because you I have seen righteous before My face in this generation.",
+    "reference": "Genesis 7:1 (BLB)",
+    "connected_to": "Genesis 7:2"
+  },
+  {
+    "text": "From every clean animal you shall take with you seven [by] seven, a male and his female; and from the animals that [are] not clean, [from] these two: A male and his female;",
+    "reference": "Genesis 7:2 (BLB)",
+    "connected_to": "Genesis 7:3",
+    "connected_from": "Genesis 7:1"
+  },
+  {
+    "text": "also from each bird of the heavens, seven [by] seven, male and female, to keep alive the seed upon the face of all the earth.",
+    "reference": "Genesis 7:3 (BLB)",
+    "connected_to": "Genesis 7:4",
+    "connected_from": "Genesis 7:2"
+  },
+  {
+    "text": "For after seven more days I am sending rain upon the earth [for] forty days and forty nights; I will wipe out every living thing that I have made from the face of the ground!”",
+    "reference": "Genesis 7:4 (BLB)",
+    "connected_to": "Genesis 7:5",
+    "connected_from": "Genesis 7:3"
+  },
+  {
+    "text": "And Noah did according to all that YHWH had commanded him.",
+    "reference": "Genesis 7:5 (BLB)",
+    "connected_to": "Genesis 7:6",
+    "connected_from": "Genesis 7:4"
+  },
+  {
+    "text": "And Noah [was] a son of six hundred years, and the flood of waters came upon the earth.",
+    "reference": "Genesis 7:6 (BLB)",
+    "connected_to": "Genesis 7:7",
+    "connected_from": "Genesis 7:5"
+  },
+  {
+    "text": "And Noah entered—and his sons, and his wife, and the wives of his sons with him—into the ark, from the face of the waters of the flood.",
+    "reference": "Genesis 7:7 (BLB)",
+    "connected_to": "Genesis 7:8",
+    "connected_from": "Genesis 7:6"
+  },
+  {
+    "text": "From the clean animal, and from the animal that [is] not clean, and from the bird and everything that crawls on the ground,",
+    "reference": "Genesis 7:8 (BLB)",
+    "connected_to": "Genesis 7:9",
+    "connected_from": "Genesis 7:7"
+  },
+  {
+    "text": "two [by] two they came to Noah, to the ark, male and female, as God had commanded Noah.",
+    "reference": "Genesis 7:9 (BLB)",
+    "connected_to": "Genesis 7:10",
+    "connected_from": "Genesis 7:8"
+  },
+  {
+    "text": "And it came to pass, after the seven days, that the waters of the flood came upon the earth.",
+    "reference": "Genesis 7:10 (BLB)",
+    "connected_to": "Genesis 7:11",
+    "connected_from": "Genesis 7:9"
+  },
+  {
+    "text": "[In] the six hundredth year, in [that] year of the life of Noah, in the second month, on the seven and tenth day of the month—on this day burst forth all the fountains of the great deep, and the windows of the heavens were opened.",
+    "reference": "Genesis 7:11 (BLB)",
+    "connected_to": "Genesis 7:12",
+    "connected_from": "Genesis 7:10"
+  },
+  {
+    "text": "And rain was upon the earth [for] forty days and forty nights.",
+    "reference": "Genesis 7:12 (BLB)",
+    "connected_to": "Genesis 7:13",
+    "connected_from": "Genesis 7:11"
+  },
+  {
+    "text": "On this very day entered Noah, and Shem and Ham and Japheth, the sons of Noah, and Noah’s wife, and the three wives of his sons with them, into the ark—",
+    "reference": "Genesis 7:13 (BLB)",
+    "connected_to": "Genesis 7:14",
+    "connected_from": "Genesis 7:12"
+  },
+  {
+    "text": "they and every beast according to its kind, and all the livestock according to its kind, and every crawling thing that crawls on the earth according to its kind, and every bird according to its kind (every bird of every wing).",
+    "reference": "Genesis 7:14 (BLB)",
+    "connected_to": "Genesis 7:15",
+    "connected_from": "Genesis 7:13"
+  },
+  {
+    "text": "And they came to Noah, to the ark, two [by] two, from all the flesh in which [is] the breath of life.",
+    "reference": "Genesis 7:15 (BLB)",
+    "connected_to": "Genesis 7:16",
+    "connected_from": "Genesis 7:14"
+  },
+  {
+    "text": "And those coming in, male and female from all flesh, they went [in] as God had commanded him. And YHWH shut [it] behind him.",
+    "reference": "Genesis 7:16 (BLB)",
+    "connected_to": "Genesis 7:17",
+    "connected_from": "Genesis 7:15"
+  },
+  {
+    "text": "And the flood kept coming forty days on the earth, and the waters multiplied, and they lifted up the ark, and it rose high above the earth.",
+    "reference": "Genesis 7:17 (BLB)",
+    "connected_to": "Genesis 7:18",
+    "connected_from": "Genesis 7:16"
+  },
+  {
+    "text": "And the waters prevailed and increased greatly on the earth, and the ark moved about on the face of the waters.",
+    "reference": "Genesis 7:18 (BLB)",
+    "connected_to": "Genesis 7:19",
+    "connected_from": "Genesis 7:17"
+  },
+  {
+    "text": "And the waters prevailed greatly, greatly on the earth, and all the high mountains that [were] under all the heavens were covered.",
+    "reference": "Genesis 7:19 (BLB)",
+    "connected_to": "Genesis 7:20",
+    "connected_from": "Genesis 7:18"
+  },
+  {
+    "text": "Five [and] ten cubits upward the waters prevailed, and the mountains were covered.",
+    "reference": "Genesis 7:20 (BLB)",
+    "connected_to": "Genesis 7:21",
+    "connected_from": "Genesis 7:19"
+  },
+  {
+    "text": "And all flesh that moved on the earth perished—the bird, and the livestock, and the beast, and every swarming thing that swarms on the earth, and all mankind.",
+    "reference": "Genesis 7:21 (BLB)",
+    "connected_to": "Genesis 7:22",
+    "connected_from": "Genesis 7:20"
+  },
+  {
+    "text": "Everything that [had] in its nostrils the breath of the spirit of life—of all that [was] on the dry land—died.",
+    "reference": "Genesis 7:22 (BLB)",
+    "connected_to": "Genesis 7:23",
+    "connected_from": "Genesis 7:21"
+  },
+  {
+    "text": "And He wiped out every living thing that [was] on the face of the ground: From mankind to livestock to crawling thing and to the bird of the heavens. And they were wiped out from the earth, and only Noah remained, and those who [were] with him in the ark.",
+    "reference": "Genesis 7:23 (BLB)",
+    "connected_to": "Genesis 7:24",
+    "connected_from": "Genesis 7:22"
+  },
+  {
+    "text": "And the waters prevailed on the earth fifty and a hundred days.",
+    "reference": "Genesis 7:24 (BLB)",
+    "connected_from": "Genesis 7:23"
+  }
+]

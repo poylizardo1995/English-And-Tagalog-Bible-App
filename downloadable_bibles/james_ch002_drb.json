@@ -1,0 +1,156 @@
+[
+  {
+    "text": "My brethren, have not the faith of our Lord Jesus Christ of glory with respect of persons.",
+    "reference": "James 2:1 (DRB)",
+    "connected_to": "James 2:2"
+  },
+  {
+    "text": "For if there shall come into your assembly a man having a golden ring, in fine apparel, and there shall come in also a poor man in mean attire,",
+    "reference": "James 2:2 (DRB)",
+    "connected_to": "James 2:3",
+    "connected_from": "James 2:1"
+  },
+  {
+    "text": "And you have respect to him that is clothed with the fine apparel, and shall say to him: Sit thou here well; but say to the poor man: Stand thou there, or sit under my footstool:",
+    "reference": "James 2:3 (DRB)",
+    "connected_to": "James 2:4",
+    "connected_from": "James 2:2"
+  },
+  {
+    "text": "Do you not judge within yourselves, and are become judges of unjust thoughts?",
+    "reference": "James 2:4 (DRB)",
+    "connected_to": "James 2:5",
+    "connected_from": "James 2:3"
+  },
+  {
+    "text": "Hearken, my dearest brethren: hath not God chosen the poor in this world, rich in faith, and heirs of the kingdom which God hath promised to them that love him?",
+    "reference": "James 2:5 (DRB)",
+    "connected_to": "James 2:6",
+    "connected_from": "James 2:4"
+  },
+  {
+    "text": "But you have dishonoured the poor man. Do not the rich oppress you by might? and do not they draw you before the judgment seats?",
+    "reference": "James 2:6 (DRB)",
+    "connected_to": "James 2:7",
+    "connected_from": "James 2:5"
+  },
+  {
+    "text": "Do not they blaspheme the good name that is invoked upon you?",
+    "reference": "James 2:7 (DRB)",
+    "connected_to": "James 2:8",
+    "connected_from": "James 2:6"
+  },
+  {
+    "text": "If then you fulfil the royal law, according to the scriptures, Thou shalt love thy neighbour as thyself; you do well.",
+    "reference": "James 2:8 (DRB)",
+    "connected_to": "James 2:9",
+    "connected_from": "James 2:7"
+  },
+  {
+    "text": "But if you have respect to persons, you commit sin, being reproved by the law as transgressors.",
+    "reference": "James 2:9 (DRB)",
+    "connected_to": "James 2:10",
+    "connected_from": "James 2:8"
+  },
+  {
+    "text": "And whosoever shall keep the whole law, but offend in one point, is become guilty of all.",
+    "reference": "James 2:10 (DRB)",
+    "connected_to": "James 2:11",
+    "connected_from": "James 2:9"
+  },
+  {
+    "text": "For he that said, Thou shalt not commit adultery, said also, Thou shalt not kill. Now if thou do not commit adultery, but shalt kill, thou art become a transgressor of the law.",
+    "reference": "James 2:11 (DRB)",
+    "connected_to": "James 2:12",
+    "connected_from": "James 2:10"
+  },
+  {
+    "text": "So speak ye, and so do, as being to be judged by the law of liberty.",
+    "reference": "James 2:12 (DRB)",
+    "connected_to": "James 2:13",
+    "connected_from": "James 2:11"
+  },
+  {
+    "text": "For judgment without mercy to him that hath not done mercy. And mercy exalteth itself above judgment.",
+    "reference": "James 2:13 (DRB)",
+    "connected_to": "James 2:14",
+    "connected_from": "James 2:12"
+  },
+  {
+    "text": "What shall it profit, my brethren, if a man say he hath faith, but hath not works? Shall faith be able to save him?",
+    "reference": "James 2:14 (DRB)",
+    "connected_to": "James 2:15",
+    "connected_from": "James 2:13"
+  },
+  {
+    "text": "And if a brother or sister be naked, and want daily food:",
+    "reference": "James 2:15 (DRB)",
+    "connected_to": "James 2:16",
+    "connected_from": "James 2:14"
+  },
+  {
+    "text": "And one of you say to them: Go in peace, be ye warmed and filled; yet give them not those things that are necessary for the body, what shall it profit?",
+    "reference": "James 2:16 (DRB)",
+    "connected_to": "James 2:17",
+    "connected_from": "James 2:15"
+  },
+  {
+    "text": "So faith also, if it have not works, is dead in itself.",
+    "reference": "James 2:17 (DRB)",
+    "connected_to": "James 2:18",
+    "connected_from": "James 2:16"
+  },
+  {
+    "text": "But some man will say: Thou hast faith, and I have works: shew me thy faith without works; and I will shew thee, by works, my faith.",
+    "reference": "James 2:18 (DRB)",
+    "connected_to": "James 2:19",
+    "connected_from": "James 2:17"
+  },
+  {
+    "text": "Thou believest that there is one God. Thou dost well: the devils also believe and tremble.",
+    "reference": "James 2:19 (DRB)",
+    "connected_to": "James 2:20",
+    "connected_from": "James 2:18"
+  },
+  {
+    "text": "But wilt thou know, O vain man, that faith without works is dead?",
+    "reference": "James 2:20 (DRB)",
+    "connected_to": "James 2:21",
+    "connected_from": "James 2:19"
+  },
+  {
+    "text": "Was not Abraham our father justified by works, offering up Isaac his son upon the altar?",
+    "reference": "James 2:21 (DRB)",
+    "connected_to": "James 2:22",
+    "connected_from": "James 2:20"
+  },
+  {
+    "text": "Seest thou, that faith did co-operate with his works; and by works faith was made perfect?",
+    "reference": "James 2:22 (DRB)",
+    "connected_to": "James 2:23",
+    "connected_from": "James 2:21"
+  },
+  {
+    "text": "And the scripture was fulfilled, saying: Abraham believed God, and it was reputed to him to justice, and he was called the friend of God.",
+    "reference": "James 2:23 (DRB)",
+    "connected_to": "James 2:24",
+    "connected_from": "James 2:22"
+  },
+  {
+    "text": "Do you see that by works a man is justified; and not by faith only?",
+    "reference": "James 2:24 (DRB)",
+    "connected_to": "James 2:25",
+    "connected_from": "James 2:23"
+  },
+  {
+    "text": "And in like manner also Rahab the harlot, was not she justified by works, receiving the messengers, and sending them out another way?",
+    "reference": "James 2:25 (DRB)",
+    "connected_to": "James 2:26",
+    "connected_from": "James 2:24"
+  },
+  {
+    "text": "For even as the body without the spirit is dead; so also faith without works is dead.",
+    "reference": "James 2:26 (DRB)",
+    "connected_from": "James 2:25"
+  }
+]

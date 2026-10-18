@@ -1,0 +1,42 @@
+[
+  {
+    "text": "In the LORD put I my trust: how say you to my soul, Flee as a bird to your mountain?",
+    "reference": "Psalm 11:1 (AKJV)",
+    "connected_to": "Psalm 11:2"
+  },
+  {
+    "text": "For, see, the wicked bend their bow, they make ready their arrow on the string, that they may privately shoot at the upright in heart.",
+    "reference": "Psalm 11:2 (AKJV)",
+    "connected_to": "Psalm 11:3",
+    "connected_from": "Psalm 11:1"
+  },
+  {
+    "text": "If the foundations be destroyed, what can the righteous do?",
+    "reference": "Psalm 11:3 (AKJV)",
+    "connected_to": "Psalm 11:4",
+    "connected_from": "Psalm 11:2"
+  },
+  {
+    "text": "The LORD is in his holy temple, the LORD’s throne is in heaven: his eyes behold, his eyelids try, the children of men.",
+    "reference": "Psalm 11:4 (AKJV)",
+    "connected_to": "Psalm 11:5",
+    "connected_from": "Psalm 11:3"
+  },
+  {
+    "text": "The LORD tries the righteous: but the wicked and him that loves violence his soul hates.",
+    "reference": "Psalm 11:5 (AKJV)",
+    "connected_to": "Psalm 11:6",
+    "connected_from": "Psalm 11:4"
+  },
+  {
+    "text": "On the wicked he shall rain snares, fire and brimstone, and an horrible tempest: this shall be the portion of their cup.",
+    "reference": "Psalm 11:6 (AKJV)",
+    "connected_to": "Psalm 11:7",
+    "connected_from": "Psalm 11:5"
+  },
+  {
+    "text": "For the righteous LORD loves righteousness; his countenance does behold the upright.",
+    "reference": "Psalm 11:7 (AKJV)",
+    "connected_from": "Psalm 11:6"
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "text": "Then Eliphaz the Themanite answered, and said:",
+    "reference": "Job 4:1 (DRB)",
+    "connected_to": "Job 4:2"
+  },
+  {
+    "text": "If we begin to speak to thee, perhaps thou wilt take it ill, but who can withhold the words he hath conceived?",
+    "reference": "Job 4:2 (DRB)",
+    "connected_to": "Job 4:3",
+    "connected_from": "Job 4:1"
+  },
+  {
+    "text": "Behold thou hast taught many, and thou hast strengthened the weary hands:",
+    "reference": "Job 4:3 (DRB)",
+    "connected_to": "Job 4:4",
+    "connected_from": "Job 4:2"
+  },
+  {
+    "text": "Thy words have confirmed them that were staggering, and thou hast strengthened the trembling knees:",
+    "reference": "Job 4:4 (DRB)",
+    "connected_to": "Job 4:5",
+    "connected_from": "Job 4:3"
+  },
+  {
+    "text": "But now the scourge is come upon thee, and thou faintest: it hath touched thee, and thou art troubled.",
+    "reference": "Job 4:5 (DRB)",
+    "connected_to": "Job 4:6",
+    "connected_from": "Job 4:4"
+  },
+  {
+    "text": "Where is thy fear, thy fortitude, thy patience, and the perfection of thy ways?",
+    "reference": "Job 4:6 (DRB)",
+    "connected_to": "Job 4:7",
+    "connected_from": "Job 4:5"
+  },
+  {
+    "text": "Remember, I pray thee, who ever perished being innocent? or when were the just destroyed?",
+    "reference": "Job 4:7 (DRB)",
+    "connected_to": "Job 4:8",
+    "connected_from": "Job 4:6"
+  },
+  {
+    "text": "On the contrary I have seen those who work iniquity, and sow sorrows, and reap them,",
+    "reference": "Job 4:8 (DRB)",
+    "connected_to": "Job 4:9",
+    "connected_from": "Job 4:7"
+  },
+  {
+    "text": "Perishing by the blast of God, and consumed by the spirit of his wrath.",
+    "reference": "Job 4:9 (DRB)",
+    "connected_to": "Job 4:10",
+    "connected_from": "Job 4:8"
+  },
+  {
+    "text": "The roaring of the lion, and the voice of the lioness, and the teeth of the whelps of lions are broken:",
+    "reference": "Job 4:10 (DRB)",
+    "connected_to": "Job 4:11",
+    "connected_from": "Job 4:9"
+  },
+  {
+    "text": "The tiger hath perished for want of prey, and the young lions are scattered abroad.",
+    "reference": "Job 4:11 (DRB)",
+    "connected_to": "Job 4:12",
+    "connected_from": "Job 4:10"
+  },
+  {
+    "text": "Now there was a word spoken to me in private, and my ears by stealth as it were received the veins of its whisper.",
+    "reference": "Job 4:12 (DRB)",
+    "connected_to": "Job 4:13",
+    "connected_from": "Job 4:11"
+  },
+  {
+    "text": "In the horror of a vision by night, when deep sleep is wont to hold men,",
+    "reference": "Job 4:13 (DRB)",
+    "connected_to": "Job 4:14",
+    "connected_from": "Job 4:12"
+  },
+  {
+    "text": "Fear seized upon me, and trembling, and all my bones were affrighted:",
+    "reference": "Job 4:14 (DRB)",
+    "connected_to": "Job 4:15",
+    "connected_from": "Job 4:13"
+  },
+  {
+    "text": "And when a spirit passed before me, the hair of my flesh stood up.",
+    "reference": "Job 4:15 (DRB)",
+    "connected_to": "Job 4:16",
+    "connected_from": "Job 4:14"
+  },
+  {
+    "text": "There stood one whose countenance I knew not, an image before my eyes, and I heard the voice as it were of a gentle wind:",
+    "reference": "Job 4:16 (DRB)",
+    "connected_to": "Job 4:17",
+    "connected_from": "Job 4:15"
+  },
+  {
+    "text": "Shall man be justified in comparison of God, or shall a man be more pure than his maker?",
+    "reference": "Job 4:17 (DRB)",
+    "connected_to": "Job 4:18",
+    "connected_from": "Job 4:16"
+  },
+  {
+    "text": "Behold they that serve him are not steadfast, and in his angels he found wickedness:",
+    "reference": "Job 4:18 (DRB)",
+    "connected_to": "Job 4:19",
+    "connected_from": "Job 4:17"
+  },
+  {
+    "text": "How much more shall they that dwell in houses of clay, who have an earthly foundation, be consumed as with the moth?",
+    "reference": "Job 4:19 (DRB)",
+    "connected_to": "Job 4:20",
+    "connected_from": "Job 4:18"
+  },
+  {
+    "text": "From morning till evening they shall be cut down: and because no one understandeth, they shall perish for ever.",
+    "reference": "Job 4:20 (DRB)",
+    "connected_to": "Job 4:21",
+    "connected_from": "Job 4:19"
+  },
+  {
+    "text": "And they that shall be left, shall be taken away from them: they shall die, and not in wisdom.",
+    "reference": "Job 4:21 (DRB)",
+    "connected_from": "Job 4:20"
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "text": "And he also said to his disciples: “A certain man was wealthy, and he had a steward of his estate. And this man was accused to him of having dissipated his goods.",
+    "reference": "Luke 16:1 (CPDV)",
+    "connected_to": "Luke 16:2"
+  },
+  {
+    "text": "And he called him and said to him: ‘What is this that I hear about you? Give an account of your stewardship. For you can no longer be my steward.’",
+    "reference": "Luke 16:2 (CPDV)",
+    "connected_to": "Luke 16:3",
+    "connected_from": "Luke 16:1"
+  },
+  {
+    "text": "And the steward said within himself: ‘What shall I do? For my lord is taking the stewardship away from me. I am not strong enough to dig. I am too ashamed to beg.",
+    "reference": "Luke 16:3 (CPDV)",
+    "connected_to": "Luke 16:4",
+    "connected_from": "Luke 16:2"
+  },
+  {
+    "text": "I know what I will do so that, when I have been removed from the stewardship, they may receive me into their houses.’",
+    "reference": "Luke 16:4 (CPDV)",
+    "connected_to": "Luke 16:5",
+    "connected_from": "Luke 16:3"
+  },
+  {
+    "text": "And so, calling together each one of his lord’s debtors, he said to the first, ‘How much do you owe my lord?’",
+    "reference": "Luke 16:5 (CPDV)",
+    "connected_to": "Luke 16:6",
+    "connected_from": "Luke 16:4"
+  },
+  {
+    "text": "So he said, ‘One hundred jars of oil.’ And he said to him, ‘Take your invoice, and quickly, sit down and write fifty.’",
+    "reference": "Luke 16:6 (CPDV)",
+    "connected_to": "Luke 16:7",
+    "connected_from": "Luke 16:5"
+  },
+  {
+    "text": "Next, he said to another, ‘In truth, how much do you owe?’ And he said, ‘One hundred measures of wheat.’ He said to him, ‘Take your record books, and write eighty.’",
+    "reference": "Luke 16:7 (CPDV)",
+    "connected_to": "Luke 16:8",
+    "connected_from": "Luke 16:6"
+  },
+  {
+    "text": "And the lord praised the iniquitous steward, in that he had acted prudently. For the sons of this age are more prudent with their generation than are the sons of light.",
+    "reference": "Luke 16:8 (CPDV)",
+    "connected_to": "Luke 16:9",
+    "connected_from": "Luke 16:7"
+  },
+  {
+    "text": "And so I say to you, make friends for yourself using iniquitous mammon, so that, when you will have passed away, they may receive you into the eternal tabernacles.",
+    "reference": "Luke 16:9 (CPDV)",
+    "connected_to": "Luke 16:10",
+    "connected_from": "Luke 16:8"
+  },
+  {
+    "text": "Whoever is faithful in what is least, is also faithful in what is greater. And whoever is unjust in what is small, is also unjust in what is greater.",
+    "reference": "Luke 16:10 (CPDV)",
+    "connected_to": "Luke 16:11",
+    "connected_from": "Luke 16:9"
+  },
+  {
+    "text": "So then, if you have not been faithful with iniquitous mammon, who will trust you with what is true?",
+    "reference": "Luke 16:11 (CPDV)",
+    "connected_to": "Luke 16:12",
+    "connected_from": "Luke 16:10"
+  },
+  {
+    "text": "And if you have not been faithful with what belongs to another, who will give you what is yours?",
+    "reference": "Luke 16:12 (CPDV)",
+    "connected_to": "Luke 16:13",
+    "connected_from": "Luke 16:11"
+  },
+  {
+    "text": "No servant is able to serve two lords. For either he will hate the one and love the other, or he will cling to the one and despise the other. You cannot serve God and mammon.”",
+    "reference": "Luke 16:13 (CPDV)",
+    "connected_to": "Luke 16:14",
+    "connected_from": "Luke 16:12"
+  },
+  {
+    "text": "But the Pharisees, who were greedy, were listening to all these things. And they ridiculed him.",
+    "reference": "Luke 16:14 (CPDV)",
+    "connected_to": "Luke 16:15",
+    "connected_from": "Luke 16:13"
+  },
+  {
+    "text": "And he said to them: “You are the ones who justify yourselves in the sight of men. But God knows your hearts. For what is lifted up by men is an abomination in the sight of God.",
+    "reference": "Luke 16:15 (CPDV)",
+    "connected_to": "Luke 16:16",
+    "connected_from": "Luke 16:14"
+  },
+  {
+    "text": "The law and the prophets were until John. Since then, the kingdom of God is being evangelized, and everyone acts with violence toward it.",
+    "reference": "Luke 16:16 (CPDV)",
+    "connected_to": "Luke 16:17",
+    "connected_from": "Luke 16:15"
+  },
+  {
+    "text": "But it is easier for heaven and earth to pass away, than for one dot of the law to fall away.",
+    "reference": "Luke 16:17 (CPDV)",
+    "connected_to": "Luke 16:18",
+    "connected_from": "Luke 16:16"
+  },
+  {
+    "text": "Everyone who divorces his wife and marries another commits adultery. And whoever marries her who has been divorced by her husband commits adultery.",
+    "reference": "Luke 16:18 (CPDV)",
+    "connected_to": "Luke 16:19",
+    "connected_from": "Luke 16:17"
+  },
+  {
+    "text": "A certain man was wealthy, and he was clothed in purple and in fine linen. And he feasted splendidly every day.",
+    "reference": "Luke 16:19 (CPDV)",
+    "connected_to": "Luke 16:20",
+    "connected_from": "Luke 16:18"
+  },
+  {
+    "text": "And there was a certain beggar, named Lazarus, who lay at his gate, covered with sores,",
+    "reference": "Luke 16:20 (CPDV)",
+    "connected_to": "Luke 16:21",
+    "connected_from": "Luke 16:19"
+  },
+  {
+    "text": "wanting to be filled with the crumbs which were falling from the wealthy man’s table. But no one gave it to him. And even the dogs came and licked his sores.",
+    "reference": "Luke 16:21 (CPDV)",
+    "connected_to": "Luke 16:22",
+    "connected_from": "Luke 16:20"
+  },
+  {
+    "text": "Then it happened that the beggar died, and he was carried by the Angels into the bosom of Abraham. Now the wealthy man also died, and he was entombed in Hell.",
+    "reference": "Luke 16:22 (CPDV)",
+    "connected_to": "Luke 16:23",
+    "connected_from": "Luke 16:21"
+  },
+  {
+    "text": "Then lifting up his eyes, while he was in torments, he saw Abraham far away, and Lazarus in his bosom.",
+    "reference": "Luke 16:23 (CPDV)",
+    "connected_to": "Luke 16:24",
+    "connected_from": "Luke 16:22"
+  },
+  {
+    "text": "And crying out, he said: ‘Father Abraham, take pity on me and send Lazarus, so that he may dip the tip of his finger in water to refresh my tongue. For I am tortured in this fire.’",
+    "reference": "Luke 16:24 (CPDV)",
+    "connected_to": "Luke 16:25",
+    "connected_from": "Luke 16:23"
+  },
+  {
+    "text": "And Abraham said to him: ‘Son, recall that you received good things in your life, and in comparison, Lazarus received bad things. But now he is consoled, and truly you are tormented.",
+    "reference": "Luke 16:25 (CPDV)",
+    "connected_to": "Luke 16:26",
+    "connected_from": "Luke 16:24"
+  },
+  {
+    "text": "And besides all this, between us and you a great chaos has been established, so that those who might want to cross from here to you are not able, nor can someone cross from there to here.’",
+    "reference": "Luke 16:26 (CPDV)",
+    "connected_to": "Luke 16:27",
+    "connected_from": "Luke 16:25"
+  },
+  {
+    "text": "And he said: ‘Then, father, I beg you to send him to my father’s house, for I have five brothers,",
+    "reference": "Luke 16:27 (CPDV)",
+    "connected_to": "Luke 16:28",
+    "connected_from": "Luke 16:26"
+  },
+  {
+    "text": "so that he may testify to them, lest they also come into this place of torments.’",
+    "reference": "Luke 16:28 (CPDV)",
+    "connected_to": "Luke 16:29",
+    "connected_from": "Luke 16:27"
+  },
+  {
+    "text": "And Abraham said to him: ‘They have Moses and the prophets. Let them listen to them.’",
+    "reference": "Luke 16:29 (CPDV)",
+    "connected_to": "Luke 16:30",
+    "connected_from": "Luke 16:28"
+  },
+  {
+    "text": "So he said: ‘No, father Abraham. But if someone were to go to them from the dead, they would repent.’",
+    "reference": "Luke 16:30 (CPDV)",
+    "connected_to": "Luke 16:31",
+    "connected_from": "Luke 16:29"
+  },
+  {
+    "text": "But he said to him: ‘If they will not listen to Moses and the prophets, neither will they believe even if someone has resurrected from the dead.’ ”",
+    "reference": "Luke 16:31 (CPDV)",
+    "connected_from": "Luke 16:30"
+  }
+]

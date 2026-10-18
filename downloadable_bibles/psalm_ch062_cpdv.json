@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Unto the end. For Jeduthun. A Psalm of David. Will my soul not be subject to God? For from him is my salvation.",
+    "reference": "Psalm 62:1 (CPDV)",
+    "connected_to": "Psalm 62:2"
+  },
+  {
+    "text": "Yes, he himself is my God and my salvation. He is my supporter; I will be moved no more.",
+    "reference": "Psalm 62:2 (CPDV)",
+    "connected_to": "Psalm 62:3",
+    "connected_from": "Psalm 62:1"
+  },
+  {
+    "text": "How is it that you rush against a man? Every one of you puts to death, as if you were pulling down a ruined wall, leaning over and falling apart.",
+    "reference": "Psalm 62:3 (CPDV)",
+    "connected_to": "Psalm 62:4",
+    "connected_from": "Psalm 62:2"
+  },
+  {
+    "text": "So, truly, they intended to reject my price. I ran in thirst. They blessed with their mouth and cursed with their heart.",
+    "reference": "Psalm 62:4 (CPDV)",
+    "connected_to": "Psalm 62:5",
+    "connected_from": "Psalm 62:3"
+  },
+  {
+    "text": "Yet, truly, my soul will be subject to God. For from him is my patience.",
+    "reference": "Psalm 62:5 (CPDV)",
+    "connected_to": "Psalm 62:6",
+    "connected_from": "Psalm 62:4"
+  },
+  {
+    "text": "For he is my God and my Savior. He is my helper; I will not be expelled.",
+    "reference": "Psalm 62:6 (CPDV)",
+    "connected_to": "Psalm 62:7",
+    "connected_from": "Psalm 62:5"
+  },
+  {
+    "text": "In God is my salvation and my glory. He is the God of my help, and my hope is in God.",
+    "reference": "Psalm 62:7 (CPDV)",
+    "connected_to": "Psalm 62:8",
+    "connected_from": "Psalm 62:6"
+  },
+  {
+    "text": "All peoples gathered together: trust in him. Pour out your hearts in his sight. God is our helper for eternity.",
+    "reference": "Psalm 62:8 (CPDV)",
+    "connected_to": "Psalm 62:9",
+    "connected_from": "Psalm 62:7"
+  },
+  {
+    "text": "So, truly, the sons of men are untrustworthy. The sons of men are liars in the scales, so that, by emptiness, they may deceive among themselves.",
+    "reference": "Psalm 62:9 (CPDV)",
+    "connected_to": "Psalm 62:10",
+    "connected_from": "Psalm 62:8"
+  },
+  {
+    "text": "Do not trust in iniquity, and do not desire plunder. If riches flow toward you, do not be willing to set your heart on them.",
+    "reference": "Psalm 62:10 (CPDV)",
+    "connected_to": "Psalm 62:11",
+    "connected_from": "Psalm 62:9"
+  },
+  {
+    "text": "God has spoken once. I have heard two things: that power belongs to God,",
+    "reference": "Psalm 62:11 (CPDV)",
+    "connected_to": "Psalm 62:12",
+    "connected_from": "Psalm 62:10"
+  },
+  {
+    "text": "and that mercy belongs to you, O Lord. For you will repay each one according to his works.",
+    "reference": "Psalm 62:12 (CPDV)",
+    "connected_from": "Psalm 62:11"
+  }
+]

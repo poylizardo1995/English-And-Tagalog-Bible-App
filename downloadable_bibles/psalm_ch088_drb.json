@@ -1,0 +1,108 @@
+[
+  {
+    "text": "A canticle of a psalm for the sons of Core: unto the end, for Maheleth, to answer understanding of Eman the Ezrahite. O Lord, the God of my salvation: I have cried in the day, and in the night before thee.",
+    "reference": "Psalm 88:1 (DRB)",
+    "connected_to": "Psalm 88:2"
+  },
+  {
+    "text": "Let my prayer come in before thee: incline thy ear to my petition.",
+    "reference": "Psalm 88:2 (DRB)",
+    "connected_to": "Psalm 88:3",
+    "connected_from": "Psalm 88:1"
+  },
+  {
+    "text": "For my soul is filled with evils: and my life hath drawn nigh to hell.",
+    "reference": "Psalm 88:3 (DRB)",
+    "connected_to": "Psalm 88:4",
+    "connected_from": "Psalm 88:2"
+  },
+  {
+    "text": "I am counted among them that go down to the pit: I am become as a man without help,",
+    "reference": "Psalm 88:4 (DRB)",
+    "connected_to": "Psalm 88:5",
+    "connected_from": "Psalm 88:3"
+  },
+  {
+    "text": "free among the dead. Like the slain sleeping in the sepulchres, whom thou rememberest no more: and they are cast off from thy hand.",
+    "reference": "Psalm 88:5 (DRB)",
+    "connected_to": "Psalm 88:6",
+    "connected_from": "Psalm 88:4"
+  },
+  {
+    "text": "They have laid me in the lower pit: in the dark places, and in the shadow of death.",
+    "reference": "Psalm 88:6 (DRB)",
+    "connected_to": "Psalm 88:7",
+    "connected_from": "Psalm 88:5"
+  },
+  {
+    "text": "Thy wrath is strong over me: and all thy waves thou hast brought in upon me.",
+    "reference": "Psalm 88:7 (DRB)",
+    "connected_to": "Psalm 88:8",
+    "connected_from": "Psalm 88:6"
+  },
+  {
+    "text": "Thou hast put away my acquaintance far from me: they have set me an abomination to themselves. I was delivered up, and came not forth:",
+    "reference": "Psalm 88:8 (DRB)",
+    "connected_to": "Psalm 88:9",
+    "connected_from": "Psalm 88:7"
+  },
+  {
+    "text": "my eyes languished through poverty. All the day I cried to thee, O Lord: I stretched out my hands to thee.",
+    "reference": "Psalm 88:9 (DRB)",
+    "connected_to": "Psalm 88:10",
+    "connected_from": "Psalm 88:8"
+  },
+  {
+    "text": "Wilt thou shew wonders to the dead? or shall physicians raise to life, and give praise to thee?",
+    "reference": "Psalm 88:10 (DRB)",
+    "connected_to": "Psalm 88:11",
+    "connected_from": "Psalm 88:9"
+  },
+  {
+    "text": "Shall any one in the sepulchre declare thy mercy: and thy truth in destruction?",
+    "reference": "Psalm 88:11 (DRB)",
+    "connected_to": "Psalm 88:12",
+    "connected_from": "Psalm 88:10"
+  },
+  {
+    "text": "Shall thy wonders be known in the dark; and thy justice in the land of forgetfulness?",
+    "reference": "Psalm 88:12 (DRB)",
+    "connected_to": "Psalm 88:13",
+    "connected_from": "Psalm 88:11"
+  },
+  {
+    "text": "But I, O Lord, have cried to thee: and in the morning my prayer shall prevent thee.",
+    "reference": "Psalm 88:13 (DRB)",
+    "connected_to": "Psalm 88:14",
+    "connected_from": "Psalm 88:12"
+  },
+  {
+    "text": "Lord, why castest thou off my prayer: why turnest thou away thy face from me?",
+    "reference": "Psalm 88:14 (DRB)",
+    "connected_to": "Psalm 88:15",
+    "connected_from": "Psalm 88:13"
+  },
+  {
+    "text": "I am poor, and in labours from my youth: and being exalted have been humbled and troubled.",
+    "reference": "Psalm 88:15 (DRB)",
+    "connected_to": "Psalm 88:16",
+    "connected_from": "Psalm 88:14"
+  },
+  {
+    "text": "Thy wrath hath come upon me: and thy terrors have troubled me.",
+    "reference": "Psalm 88:16 (DRB)",
+    "connected_to": "Psalm 88:17",
+    "connected_from": "Psalm 88:15"
+  },
+  {
+    "text": "They have come round about me like water all the day: they have compassed me about together.",
+    "reference": "Psalm 88:17 (DRB)",
+    "connected_to": "Psalm 88:18",
+    "connected_from": "Psalm 88:16"
+  },
+  {
+    "text": "Friend and neighbour thou hast put far from me: and my acquaintance, because of misery.",
+    "reference": "Psalm 88:18 (DRB)",
+    "connected_from": "Psalm 88:17"
+  }
+]

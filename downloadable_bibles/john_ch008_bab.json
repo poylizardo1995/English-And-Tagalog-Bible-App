@@ -1,0 +1,354 @@
+[
+  {
+    "text": "But Jesus (YHWH saves) went to the Mount of Olives.",
+    "reference": "John 8:1 (BAB)",
+    "connected_to": "John 8:2"
+  },
+  {
+    "text": "Early in the morning He went back into the temple courts \\the temple/. All the people came to Him, and He sat down to teach them.",
+    "reference": "John 8:2 (BAB)",
+    "connected_to": "John 8:3",
+    "connected_from": "John 8:1"
+  },
+  {
+    "text": "The scribes and Pharisees, however, brought to Him a woman caught in adultery. They made her stand before them",
+    "reference": "John 8:3 (BAB)",
+    "connected_to": "John 8:4",
+    "connected_from": "John 8:2"
+  },
+  {
+    "text": "and said, “Teacher {Didaskale}, this woman was caught in the act of adultery.",
+    "reference": "John 8:4 (BAB)",
+    "connected_to": "John 8:5",
+    "connected_from": "John 8:3"
+  },
+  {
+    "text": "In the Law Moses (drawn out) commanded us to stone such a woman. So what do You say?",
+    "reference": "John 8:5 (BAB)",
+    "connected_to": "John 8:6",
+    "connected_from": "John 8:4"
+  },
+  {
+    "text": "They said this to test Him, in order to have a basis for accusing Him. But Jesus (YHWH saves) bent down and began to write on the ground with His finger.",
+    "reference": "John 8:6 (BAB)",
+    "connected_to": "John 8:7",
+    "connected_from": "John 8:5"
+  },
+  {
+    "text": "When they continued to question Him, He straightened up and said to them, “Let him who is without sin among you⁺ be the first to cast a stone at her.",
+    "reference": "John 8:7 (BAB)",
+    "connected_to": "John 8:8",
+    "connected_from": "John 8:6"
+  },
+  {
+    "text": "And again He bent down and wrote on the ground.",
+    "reference": "John 8:8 (BAB)",
+    "connected_to": "John 8:9",
+    "connected_from": "John 8:7"
+  },
+  {
+    "text": "When they heard this [and were convicted by their conscience,], they began to go away one by one, beginning with the older ones, until only Jesus (YHWH saves) was left, with the woman standing there.",
+    "reference": "John 8:9 (BAB)",
+    "connected_to": "John 8:10",
+    "connected_from": "John 8:8"
+  },
+  {
+    "text": "Then Jesus (YHWH saves) straightened up [and saw no one but the woman.] and asked her, “Woman, where are your accusers [where are they]? Has no one condemned you?",
+    "reference": "John 8:10 (BAB)",
+    "connected_to": "John 8:11",
+    "connected_from": "John 8:9"
+  },
+  {
+    "text": "“No one, Lord {kyrie}, she answered. “Then neither do I condemn you, Jesus (YHWH saves) declared. “Now go and sin no more.",
+    "reference": "John 8:11 (BAB)",
+    "connected_to": "John 8:12",
+    "connected_from": "John 8:10"
+  },
+  {
+    "text": "Once again, Jesus (YHWH saves) spoke to the people and said, “I am the light of the world. Whoever follows Me will never walk in the darkness, but will have the light of life.",
+    "reference": "John 8:12 (BAB)",
+    "connected_to": "John 8:13",
+    "connected_from": "John 8:11"
+  },
+  {
+    "text": "So the Pharisees said to Him, “You are testifying about Yourself; Your testimony is not valid.",
+    "reference": "John 8:13 (BAB)",
+    "connected_to": "John 8:14",
+    "connected_from": "John 8:12"
+  },
+  {
+    "text": "Jesus (YHWH saves) replied, “Even if I testify about Myself, My testimony is valid, because I know where I came from and where I am going. But you⁺ do not know where I came from or where I am going.",
+    "reference": "John 8:14 (BAB)",
+    "connected_to": "John 8:15",
+    "connected_from": "John 8:13"
+  },
+  {
+    "text": "You⁺ judge according to the flesh; I judge no one.",
+    "reference": "John 8:15 (BAB)",
+    "connected_to": "John 8:16",
+    "connected_from": "John 8:14"
+  },
+  {
+    "text": "But even if I do judge, My judgment is true, because I am not alone; I am with the Father {patēr} who sent Me \\but it is I and the Father who sent Me/.",
+    "reference": "John 8:16 (BAB)",
+    "connected_to": "John 8:17",
+    "connected_from": "John 8:15"
+  },
+  {
+    "text": "Even in your⁺ own Law it is written that the testimony of two men is valid <Deu 19:15>.",
+    "reference": "John 8:17 (BAB)",
+    "connected_to": "John 8:18",
+    "connected_from": "John 8:16"
+  },
+  {
+    "text": "I am One who testifies about Myself, and the Father {Patēr}, who sent Me, also testifies about Me.",
+    "reference": "John 8:18 (BAB)",
+    "connected_to": "John 8:19",
+    "connected_from": "John 8:17"
+  },
+  {
+    "text": "“Where is Your Father {Patēr}? they asked Him. “You⁺ do not know Me or My Father {Patera}, Jesus (YHWH saves) answered. “If you⁺ knew Me, you⁺ would know My Father as well.",
+    "reference": "John 8:19 (BAB)",
+    "connected_to": "John 8:20",
+    "connected_from": "John 8:18"
+  },
+  {
+    "text": "He spoke these words {rhēmata} while teaching {didaskōn} in the temple courts, near the treasury. Yet no one seized Him, because His hour had not yet come.",
+    "reference": "John 8:20 (BAB)",
+    "connected_to": "John 8:21",
+    "connected_from": "John 8:19"
+  },
+  {
+    "text": "Again He said to them, “I am going away, and you⁺ will look for Me, but you⁺ will die in your⁺ sin. Where I am going, you⁺ cannot come.",
+    "reference": "John 8:21 (BAB)",
+    "connected_to": "John 8:22",
+    "connected_from": "John 8:20"
+  },
+  {
+    "text": "So the Jews (people of praise) began to ask, “Will He kill Himself, since He says, ‘Where I am going, you⁺ cannot come’?",
+    "reference": "John 8:22 (BAB)",
+    "connected_to": "John 8:23",
+    "connected_from": "John 8:21"
+  },
+  {
+    "text": "Then He told them, “You⁺ are from below; I am from above. You⁺ are of this world; I am not of this world.",
+    "reference": "John 8:23 (BAB)",
+    "connected_to": "John 8:24",
+    "connected_from": "John 8:22"
+  },
+  {
+    "text": "That is why I told you⁺ that you⁺ would die in your⁺ sins. For unless you⁺ believe that I am He, you⁺ will die in your⁺ sins.",
+    "reference": "John 8:24 (BAB)",
+    "connected_to": "John 8:25",
+    "connected_from": "John 8:23"
+  },
+  {
+    "text": "“Who are You? they asked. “Just what I have been telling you⁺ from the beginning, Jesus (YHWH saves) replied.",
+    "reference": "John 8:25 (BAB)",
+    "connected_to": "John 8:26",
+    "connected_from": "John 8:24"
+  },
+  {
+    "text": "“I have much to say about you⁺ and much to judge. But the One who sent Me is truthful, and what I have heard from Him, I tell the world.",
+    "reference": "John 8:26 (BAB)",
+    "connected_to": "John 8:27",
+    "connected_from": "John 8:25"
+  },
+  {
+    "text": "They did not understand that He was telling them about the Father {Patera}.",
+    "reference": "John 8:27 (BAB)",
+    "connected_to": "John 8:28",
+    "connected_from": "John 8:26"
+  },
+  {
+    "text": "So Jesus (YHWH saves) said, “When you⁺ have lifted up the Son of Man, then you⁺ will know that I am He, and that I do nothing on My own, but speak exactly what the Father {Patēr} has taught Me.",
+    "reference": "John 8:28 (BAB)",
+    "connected_to": "John 8:29",
+    "connected_from": "John 8:27"
+  },
+  {
+    "text": "He who sent Me is with Me. He has not left Me alone, because I always do what pleases Him.",
+    "reference": "John 8:29 (BAB)",
+    "connected_to": "John 8:30",
+    "connected_from": "John 8:28"
+  },
+  {
+    "text": "As Jesus spoke these things, many believed (had faith) in Him.",
+    "reference": "John 8:30 (BAB)",
+    "connected_to": "John 8:31",
+    "connected_from": "John 8:29"
+  },
+  {
+    "text": "So He said to the Jews (people of praise) who had believed Him, “If you⁺ continue in My word, you⁺ are truly My disciples (pupils).",
+    "reference": "John 8:31 (BAB)",
+    "connected_to": "John 8:32",
+    "connected_from": "John 8:30"
+  },
+  {
+    "text": "Then you⁺ will know the truth, and the truth will set you⁺ free.",
+    "reference": "John 8:32 (BAB)",
+    "connected_to": "John 8:33",
+    "connected_from": "John 8:31"
+  },
+  {
+    "text": "“We are Abraham’s descendants (seed), they answered. “We have never been slaves to anyone. How can You say we will be set free?",
+    "reference": "John 8:33 (BAB)",
+    "connected_to": "John 8:34",
+    "connected_from": "John 8:32"
+  },
+  {
+    "text": "Jesus (YHWH saves) replied, “Truly, truly, I tell you⁺, everyone who sins is a slave {doulos} to sin.",
+    "reference": "John 8:34 (BAB)",
+    "connected_to": "John 8:35",
+    "connected_from": "John 8:33"
+  },
+  {
+    "text": "A slave {doulos} does not remain in the house forever \\to the age/, but a son remains forever.",
+    "reference": "John 8:35 (BAB)",
+    "connected_to": "John 8:36",
+    "connected_from": "John 8:34"
+  },
+  {
+    "text": "So if the Son sets you⁺ free, you⁺ will be free indeed.",
+    "reference": "John 8:36 (BAB)",
+    "connected_to": "John 8:37",
+    "connected_from": "John 8:35"
+  },
+  {
+    "text": "I know you⁺ are Abraham’s descendants (seed), but you⁺ are trying to kill Me because My word has no place within you⁺.",
+    "reference": "John 8:37 (BAB)",
+    "connected_to": "John 8:38",
+    "connected_from": "John 8:36"
+  },
+  {
+    "text": "I speak of what I have seen in the presence of the Father, and you⁺ do what you⁺ have heard from your⁺ father.",
+    "reference": "John 8:38 (BAB)",
+    "connected_to": "John 8:39",
+    "connected_from": "John 8:37"
+  },
+  {
+    "text": "“Abraham (father of many) is our father {patēr}, they replied. “If you⁺ were children of Abraham, said Jesus (YHWH saves), “you⁺ would do the works (acts) of Abraham.",
+    "reference": "John 8:39 (BAB)",
+    "connected_to": "John 8:40",
+    "connected_from": "John 8:38"
+  },
+  {
+    "text": "But now you⁺ are trying to kill Me, a man who has told you⁺ the truth that I heard from God {Theou}. Abraham (father of many) never did such a thing.",
+    "reference": "John 8:40 (BAB)",
+    "connected_to": "John 8:41",
+    "connected_from": "John 8:39"
+  },
+  {
+    "text": "You⁺ are doing the works (acts) of your⁺ father. “We are not illegitimate children, they declared. “Our only Father {Patera} is God Himself.",
+    "reference": "John 8:41 (BAB)",
+    "connected_to": "John 8:42",
+    "connected_from": "John 8:40"
+  },
+  {
+    "text": "Jesus (YHWH saves) said to them, “If God {Theos} were your⁺ Father {Patēr}, you⁺ would love {ēgapate} Me, for I have come here from God {Theou}. I have not come on My own, but He sent Me.",
+    "reference": "John 8:42 (BAB)",
+    "connected_to": "John 8:43",
+    "connected_from": "John 8:41"
+  },
+  {
+    "text": "Why do you⁺ not understand what I am saying? It is because you⁺ are unable to accept My message.",
+    "reference": "John 8:43 (BAB)",
+    "connected_to": "John 8:44",
+    "connected_from": "John 8:42"
+  },
+  {
+    "text": "You⁺ belong to your⁺ father, the devil {diabolou}, and you⁺ want to carry out his desires. He was a murderer from the beginning, refusing to uphold the truth, because there is no truth in him. When he lies, he speaks his native language, because he is a liar and the father {patēr} of lies.",
+    "reference": "John 8:44 (BAB)",
+    "connected_to": "John 8:45",
+    "connected_from": "John 8:43"
+  },
+  {
+    "text": "But because I speak the truth, you⁺ do not believe Me!",
+    "reference": "John 8:45 (BAB)",
+    "connected_to": "John 8:46",
+    "connected_from": "John 8:44"
+  },
+  {
+    "text": "Which of you⁺ can prove Me guilty of sin? If I speak the truth, why do you⁺ not believe Me?",
+    "reference": "John 8:46 (BAB)",
+    "connected_to": "John 8:47",
+    "connected_from": "John 8:45"
+  },
+  {
+    "text": "Whoever belongs to God {Theou} hears the words {rhēmata} of God. The reason you⁺ do not hear is that you⁺ do not belong to God.",
+    "reference": "John 8:47 (BAB)",
+    "connected_to": "John 8:48",
+    "connected_from": "John 8:46"
+  },
+  {
+    "text": "The Jews (people of praise) answered Him, “Are we not right to say that You are a Samaritan and You have a demon?",
+    "reference": "John 8:48 (BAB)",
+    "connected_to": "John 8:49",
+    "connected_from": "John 8:47"
+  },
+  {
+    "text": "“I do not have a demon, Jesus (YHWH saves) replied, “but I honor My Father {Patera}, and you⁺ dishonor Me.",
+    "reference": "John 8:49 (BAB)",
+    "connected_to": "John 8:50",
+    "connected_from": "John 8:48"
+  },
+  {
+    "text": "I do not seek My own glory {doxan}. There is One who seeks it, and He is the Judge.",
+    "reference": "John 8:50 (BAB)",
+    "connected_to": "John 8:51",
+    "connected_from": "John 8:49"
+  },
+  {
+    "text": "Truly, truly, I tell you⁺, if anyone keeps My word, he will never see death.",
+    "reference": "John 8:51 (BAB)",
+    "connected_to": "John 8:52",
+    "connected_from": "John 8:50"
+  },
+  {
+    "text": "“Now we know that You have a demon! declared the Jews (people of praise). “Abraham (father of many) died, and so did the prophets, yet You say that anyone who keeps Your word will never taste death.",
+    "reference": "John 8:52 (BAB)",
+    "connected_to": "John 8:53",
+    "connected_from": "John 8:51"
+  },
+  {
+    "text": "Are You greater than our father Abraham (father of many)? He died, as did the prophets. Who do You claim to be?",
+    "reference": "John 8:53 (BAB)",
+    "connected_to": "John 8:54",
+    "connected_from": "John 8:52"
+  },
+  {
+    "text": "Jesus (YHWH saves) answered, “If I glorify Myself, My glory {doxa} means nothing. The One who glorifies Me is My Father {Patēr}, of whom you⁺ say, ‘He is our [Your] God {Theos}.’",
+    "reference": "John 8:54 (BAB)",
+    "connected_to": "John 8:55",
+    "connected_from": "John 8:53"
+  },
+  {
+    "text": "You⁺ do not know Him, but I know Him. If I said I did not know Him, I would be a liar like you⁺. But I do know Him, and I keep His word.",
+    "reference": "John 8:55 (BAB)",
+    "connected_to": "John 8:56",
+    "connected_from": "John 8:54"
+  },
+  {
+    "text": "Your⁺ father {patēr} Abraham (father of many) rejoiced that he would see My day. He saw it and was glad.",
+    "reference": "John 8:56 (BAB)",
+    "connected_to": "John 8:57",
+    "connected_from": "John 8:55"
+  },
+  {
+    "text": "Then the Jews (people of praise) said to Him, “You are not yet fifty years old, and You have seen Abraham (father of many)?",
+    "reference": "John 8:57 (BAB)",
+    "connected_to": "John 8:58",
+    "connected_from": "John 8:56"
+  },
+  {
+    "text": "“Truly, truly, I tell you⁺, Jesus (YHWH saves) declared, “before Abraham (father of many) was born, I am \\before Abraham was, I am!/!",
+    "reference": "John 8:58 (BAB)",
+    "connected_to": "John 8:59",
+    "connected_from": "John 8:57"
+  },
+  {
+    "text": "At this, they picked up stones to throw at Him. But Jesus (YHWH saves) was hidden and went out of the temple area [going through the midst of them, and so He passed by].",
+    "reference": "John 8:59 (BAB)",
+    "connected_from": "John 8:58"
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "text": "Hallelujah (Praise the LORD)! Praise the name of the LORD {YHWH}. Give praise, O servants of the LORD,",
+    "reference": "Psalm 135:1 (BAB)",
+    "connected_to": "Psalm 135:2"
+  },
+  {
+    "text": "who stand in the house of the LORD {YHWH}, in the courts of the house of our God {Elohenu}.",
+    "reference": "Psalm 135:2 (BAB)",
+    "connected_to": "Psalm 135:3",
+    "connected_from": "Psalm 135:1"
+  },
+  {
+    "text": "Hallelujah, for the LORD {YHWH} is good; sing praises to His name, for it is lovely.",
+    "reference": "Psalm 135:3 (BAB)",
+    "connected_to": "Psalm 135:4",
+    "connected_from": "Psalm 135:2"
+  },
+  {
+    "text": "For the LORD has chosen Jacob (he grasps the heel) as His own, Israel (he wrestles with God) as His treasured possession.",
+    "reference": "Psalm 135:4 (BAB)",
+    "connected_to": "Psalm 135:5",
+    "connected_from": "Psalm 135:3"
+  },
+  {
+    "text": "For I know that the LORD {YHWH} is great; our Lord is above all gods.",
+    "reference": "Psalm 135:5 (BAB)",
+    "connected_to": "Psalm 135:6",
+    "connected_from": "Psalm 135:4"
+  },
+  {
+    "text": "The LORD {YHWH} does all that pleases Him in the heavens and on the earth, in the seas and in all their depths.",
+    "reference": "Psalm 135:6 (BAB)",
+    "connected_to": "Psalm 135:7",
+    "connected_from": "Psalm 135:5"
+  },
+  {
+    "text": "He causes the clouds to rise from the ends of the earth. He generates the lightning with the rain and brings forth the wind {ruach} from His storehouses.",
+    "reference": "Psalm 135:7 (BAB)",
+    "connected_to": "Psalm 135:8",
+    "connected_from": "Psalm 135:6"
+  },
+  {
+    "text": "He struck down the firstborn of Egypt (land of bondage), of both man and beast.",
+    "reference": "Psalm 135:8 (BAB)",
+    "connected_to": "Psalm 135:9",
+    "connected_from": "Psalm 135:7"
+  },
+  {
+    "text": "He sent signs and wonders into your midst, O Egypt (land of bondage), against Pharaoh (great house) and all his servants.",
+    "reference": "Psalm 135:9 (BAB)",
+    "connected_to": "Psalm 135:10",
+    "connected_from": "Psalm 135:8"
+  },
+  {
+    "text": "He struck down many nations and slaughtered mighty kings:",
+    "reference": "Psalm 135:10 (BAB)",
+    "connected_to": "Psalm 135:11",
+    "connected_from": "Psalm 135:9"
+  },
+  {
+    "text": "Sihon (warrior) king of the Amorites (sayers), Og (long-necked) king of Bashan (fruitful), and all the kings of Canaan (lowland).",
+    "reference": "Psalm 135:11 (BAB)",
+    "connected_to": "Psalm 135:12",
+    "connected_from": "Psalm 135:10"
+  },
+  {
+    "text": "He gave their land as an inheritance, as a heritage to His people Israel (he wrestles with God).",
+    "reference": "Psalm 135:12 (BAB)",
+    "connected_to": "Psalm 135:13",
+    "connected_from": "Psalm 135:11"
+  },
+  {
+    "text": "Your name, O LORD {YHWH}, endures forever, Your renown, O LORD, through all generations.",
+    "reference": "Psalm 135:13 (BAB)",
+    "connected_to": "Psalm 135:14",
+    "connected_from": "Psalm 135:12"
+  },
+  {
+    "text": "For the LORD {YHWH} will vindicate His people (will judge His people) and will have compassion on His servants.",
+    "reference": "Psalm 135:14 (BAB)",
+    "connected_to": "Psalm 135:15",
+    "connected_from": "Psalm 135:13"
+  },
+  {
+    "text": "The idols of the nations are silver and gold, made by the hands of men.",
+    "reference": "Psalm 135:15 (BAB)",
+    "connected_to": "Psalm 135:16",
+    "connected_from": "Psalm 135:14"
+  },
+  {
+    "text": "They have mouths, but cannot speak; they have eyes, but cannot see;",
+    "reference": "Psalm 135:16 (BAB)",
+    "connected_to": "Psalm 135:17",
+    "connected_from": "Psalm 135:15"
+  },
+  {
+    "text": "they have ears, but cannot hear; nor is there breath {ruach} in their mouths.",
+    "reference": "Psalm 135:17 (BAB)",
+    "connected_to": "Psalm 135:18",
+    "connected_from": "Psalm 135:16"
+  },
+  {
+    "text": "Those who make them become like them, as do all who trust in them.",
+    "reference": "Psalm 135:18 (BAB)",
+    "connected_to": "Psalm 135:19",
+    "connected_from": "Psalm 135:17"
+  },
+  {
+    "text": "O house of Israel (he wrestles with God), bless the LORD {YHWH}; O house of Aaron (light bringer), bless the LORD;",
+    "reference": "Psalm 135:19 (BAB)",
+    "connected_to": "Psalm 135:20",
+    "connected_from": "Psalm 135:18"
+  },
+  {
+    "text": "O house of Levi (joined to), bless the LORD {YHWH}; you who fear the LORD, bless the LORD!",
+    "reference": "Psalm 135:20 (BAB)",
+    "connected_to": "Psalm 135:21",
+    "connected_from": "Psalm 135:19"
+  },
+  {
+    "text": "Blessed be the LORD {YHWH} from Zion—He who dwells in Jerusalem (city of peace). Hallelujah!",
+    "reference": "Psalm 135:21 (BAB)",
+    "connected_from": "Psalm 135:20"
+  }
+]

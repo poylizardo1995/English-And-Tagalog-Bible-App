@@ -1,0 +1,222 @@
+[
+  {
+    "text": "And as he was departing from the temple, one of his disciples said to him, “Teacher, observe these fine stones and fine structures.”",
+    "reference": "Mark 13:1 (CPDV)",
+    "connected_to": "Mark 13:2"
+  },
+  {
+    "text": "And in response, Jesus said to him: “Do you see all these great buildings? There shall not be left stone upon stone, which is not torn down.”",
+    "reference": "Mark 13:2 (CPDV)",
+    "connected_to": "Mark 13:3",
+    "connected_from": "Mark 13:1"
+  },
+  {
+    "text": "And as he sat at the Mount of Olives, opposite the temple, Peter, and James, and John, and Andrew questioned him privately.",
+    "reference": "Mark 13:3 (CPDV)",
+    "connected_to": "Mark 13:4",
+    "connected_from": "Mark 13:2"
+  },
+  {
+    "text": "“Tell us, when will these things be, and what will be the sign when all these things will begin to be fulfilled?”",
+    "reference": "Mark 13:4 (CPDV)",
+    "connected_to": "Mark 13:5",
+    "connected_from": "Mark 13:3"
+  },
+  {
+    "text": "And Jesus, answering, began to say to them: “See to it that no one leads you astray.",
+    "reference": "Mark 13:5 (CPDV)",
+    "connected_to": "Mark 13:6",
+    "connected_from": "Mark 13:4"
+  },
+  {
+    "text": "For many will come in my name, saying, ‘For I am he,’ and they will lead many astray.",
+    "reference": "Mark 13:6 (CPDV)",
+    "connected_to": "Mark 13:7",
+    "connected_from": "Mark 13:5"
+  },
+  {
+    "text": "But when you will have heard of wars and rumors of wars, you should not be afraid. For these things must be, but the end is not so soon.",
+    "reference": "Mark 13:7 (CPDV)",
+    "connected_to": "Mark 13:8",
+    "connected_from": "Mark 13:6"
+  },
+  {
+    "text": "For nation will rise up against nation, and kingdom over kingdom, and there shall be earthquakes in various places, and famines. These are but the beginning of the sorrows.",
+    "reference": "Mark 13:8 (CPDV)",
+    "connected_to": "Mark 13:9",
+    "connected_from": "Mark 13:7"
+  },
+  {
+    "text": "But see to yourselves. For they will hand you over to councils, and in the synagogues you will be beaten, and you shall stand before governors and kings because of me, as a testimony for them.",
+    "reference": "Mark 13:9 (CPDV)",
+    "connected_to": "Mark 13:10",
+    "connected_from": "Mark 13:8"
+  },
+  {
+    "text": "And the Gospel must first be preached to all nations.",
+    "reference": "Mark 13:10 (CPDV)",
+    "connected_to": "Mark 13:11",
+    "connected_from": "Mark 13:9"
+  },
+  {
+    "text": "And when they have seized you and handed you over, do not consider in advance what to say. But whatever will be given you in that hour, say that. For you will not be speaking, but the Holy Spirit.",
+    "reference": "Mark 13:11 (CPDV)",
+    "connected_to": "Mark 13:12",
+    "connected_from": "Mark 13:10"
+  },
+  {
+    "text": "Then brother will betray brother to death, and the father, a son; and children will rise up against their parents and will bring about their death.",
+    "reference": "Mark 13:12 (CPDV)",
+    "connected_to": "Mark 13:13",
+    "connected_from": "Mark 13:11"
+  },
+  {
+    "text": "And you will be hated by all for the sake of my name. But whoever will have persevered unto the end, the same will be saved.",
+    "reference": "Mark 13:13 (CPDV)",
+    "connected_to": "Mark 13:14",
+    "connected_from": "Mark 13:12"
+  },
+  {
+    "text": "Then, when you have seen the abomination of desolation, standing where it ought not to be, let the reader understand: then let those who are in Judea flee to the mountains.",
+    "reference": "Mark 13:14 (CPDV)",
+    "connected_to": "Mark 13:15",
+    "connected_from": "Mark 13:13"
+  },
+  {
+    "text": "And let whoever is on the rooftop not descend to the house, nor enter so as to take anything from the house.",
+    "reference": "Mark 13:15 (CPDV)",
+    "connected_to": "Mark 13:16",
+    "connected_from": "Mark 13:14"
+  },
+  {
+    "text": "And let whoever may be in the field not return to take his garment.",
+    "reference": "Mark 13:16 (CPDV)",
+    "connected_to": "Mark 13:17",
+    "connected_from": "Mark 13:15"
+  },
+  {
+    "text": "But woe to those who are pregnant or nursing in those days.",
+    "reference": "Mark 13:17 (CPDV)",
+    "connected_to": "Mark 13:18",
+    "connected_from": "Mark 13:16"
+  },
+  {
+    "text": "Truly, pray that these things may not happen in winter.",
+    "reference": "Mark 13:18 (CPDV)",
+    "connected_to": "Mark 13:19",
+    "connected_from": "Mark 13:17"
+  },
+  {
+    "text": "For those days shall have such tribulations as have not been since the beginning of the creation that God founded, even until now, and shall not be.",
+    "reference": "Mark 13:19 (CPDV)",
+    "connected_to": "Mark 13:20",
+    "connected_from": "Mark 13:18"
+  },
+  {
+    "text": "And unless the Lord had shortened the days, no flesh would be saved. But, for the sake of the elect, whom he has chosen, he has shortened the days.",
+    "reference": "Mark 13:20 (CPDV)",
+    "connected_to": "Mark 13:21",
+    "connected_from": "Mark 13:19"
+  },
+  {
+    "text": "And then, if anyone will have said to you: ‘Behold, here is the Christ. Behold, in that place.’ Do not believe it.",
+    "reference": "Mark 13:21 (CPDV)",
+    "connected_to": "Mark 13:22",
+    "connected_from": "Mark 13:20"
+  },
+  {
+    "text": "For false Christs and false prophets will rise up, and they will present signs and wonders, so as to lead astray, if it were possible, even the elect.",
+    "reference": "Mark 13:22 (CPDV)",
+    "connected_to": "Mark 13:23",
+    "connected_from": "Mark 13:21"
+  },
+  {
+    "text": "Therefore, you must take heed. Behold, I have foretold all to you.",
+    "reference": "Mark 13:23 (CPDV)",
+    "connected_to": "Mark 13:24",
+    "connected_from": "Mark 13:22"
+  },
+  {
+    "text": "But in those days, after that tribulation, the sun will be darkened, and the moon will not give her splendor.",
+    "reference": "Mark 13:24 (CPDV)",
+    "connected_to": "Mark 13:25",
+    "connected_from": "Mark 13:23"
+  },
+  {
+    "text": "And the stars of heaven will be falling down, and the powers that are in heaven will be moved.",
+    "reference": "Mark 13:25 (CPDV)",
+    "connected_to": "Mark 13:26",
+    "connected_from": "Mark 13:24"
+  },
+  {
+    "text": "And then they shall see the Son of man arriving on the clouds, with great power and glory.",
+    "reference": "Mark 13:26 (CPDV)",
+    "connected_to": "Mark 13:27",
+    "connected_from": "Mark 13:25"
+  },
+  {
+    "text": "And then he will send his Angels, and gather together his elect, from the four winds, from the limits of the earth, to the limits of heaven.",
+    "reference": "Mark 13:27 (CPDV)",
+    "connected_to": "Mark 13:28",
+    "connected_from": "Mark 13:26"
+  },
+  {
+    "text": "Now from the fig tree discern a parable. When its branch becomes tender and the foliage has been formed, you know that summer is very near.",
+    "reference": "Mark 13:28 (CPDV)",
+    "connected_to": "Mark 13:29",
+    "connected_from": "Mark 13:27"
+  },
+  {
+    "text": "So also, when you will have seen these things happen, know that it is very near, even at the doors.",
+    "reference": "Mark 13:29 (CPDV)",
+    "connected_to": "Mark 13:30",
+    "connected_from": "Mark 13:28"
+  },
+  {
+    "text": "Amen I say to you, that this lineage shall not pass away, until all these things have happened.",
+    "reference": "Mark 13:30 (CPDV)",
+    "connected_to": "Mark 13:31",
+    "connected_from": "Mark 13:29"
+  },
+  {
+    "text": "Heaven and earth shall pass away, but my word shall not pass away.",
+    "reference": "Mark 13:31 (CPDV)",
+    "connected_to": "Mark 13:32",
+    "connected_from": "Mark 13:30"
+  },
+  {
+    "text": "But concerning that day or hour, no one knows, neither the Angels in heaven, nor the Son, but only the Father.",
+    "reference": "Mark 13:32 (CPDV)",
+    "connected_to": "Mark 13:33",
+    "connected_from": "Mark 13:31"
+  },
+  {
+    "text": "Take heed, be vigilant, and pray. For you do not know when the time may be.",
+    "reference": "Mark 13:33 (CPDV)",
+    "connected_to": "Mark 13:34",
+    "connected_from": "Mark 13:32"
+  },
+  {
+    "text": "It is like a man who, setting out on a sojourn, left behind his house, and gave his servants authority over every work, and instructed the doorkeeper to stand watch.",
+    "reference": "Mark 13:34 (CPDV)",
+    "connected_to": "Mark 13:35",
+    "connected_from": "Mark 13:33"
+  },
+  {
+    "text": "Therefore, be vigilant, for you do not know when the lord of the house may arrive: in the evening, or in the middle of the night, or at first light, or in the morning.",
+    "reference": "Mark 13:35 (CPDV)",
+    "connected_to": "Mark 13:36",
+    "connected_from": "Mark 13:34"
+  },
+  {
+    "text": "Otherwise, when he will have arrived unexpectedly, he may find you sleeping.",
+    "reference": "Mark 13:36 (CPDV)",
+    "connected_to": "Mark 13:37",
+    "connected_from": "Mark 13:35"
+  },
+  {
+    "text": "But what I say to you, I say to all: Be vigilant.”",
+    "reference": "Mark 13:37 (CPDV)",
+    "connected_from": "Mark 13:36"
+  }
+]

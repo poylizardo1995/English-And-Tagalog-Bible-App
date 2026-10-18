@@ -1,0 +1,102 @@
+[
+  {
+    "text": "Now in those days John the Baptist comes, preaching in the wilderness of Judea",
+    "reference": "Matthew 3:1 (BLB)",
+    "connected_to": "Matthew 3:2"
+  },
+  {
+    "text": "and saying, “Repent, for the kingdom of the heavens has drawn near.”",
+    "reference": "Matthew 3:2 (BLB)",
+    "connected_to": "Matthew 3:3",
+    "connected_from": "Matthew 3:1"
+  },
+  {
+    "text": "For this is the one having been spoken of through Isaiah the prophet, saying, “A voice of one crying in the wilderness: ‘Prepare the way of the Lord; make straight His paths.’”",
+    "reference": "Matthew 3:3 (BLB)",
+    "connected_to": "Matthew 3:4",
+    "connected_from": "Matthew 3:2"
+  },
+  {
+    "text": "And John himself had his clothing of camel’s hair and a belt of leather around his waist, and his food was locusts and wild honey.",
+    "reference": "Matthew 3:4 (BLB)",
+    "connected_to": "Matthew 3:5",
+    "connected_from": "Matthew 3:3"
+  },
+  {
+    "text": "At that time they were going out to him—Jerusalem and all Judea and all the region around the Jordan.",
+    "reference": "Matthew 3:5 (BLB)",
+    "connected_to": "Matthew 3:6",
+    "connected_from": "Matthew 3:4"
+  },
+  {
+    "text": "And they were being baptized in the Jordan River by him, confessing their sins.",
+    "reference": "Matthew 3:6 (BLB)",
+    "connected_to": "Matthew 3:7",
+    "connected_from": "Matthew 3:5"
+  },
+  {
+    "text": "But having seen many of the Pharisees and Sadducees coming to his baptism, he said to them, “Offspring of vipers, who warned you⁺ to flee from the coming wrath?",
+    "reference": "Matthew 3:7 (BLB)",
+    "connected_to": "Matthew 3:8",
+    "connected_from": "Matthew 3:6"
+  },
+  {
+    "text": "Therefore produce fruit worthy of repentance.",
+    "reference": "Matthew 3:8 (BLB)",
+    "connected_to": "Matthew 3:9",
+    "connected_from": "Matthew 3:7"
+  },
+  {
+    "text": "And do not think to say in yourselves, ‘We have Abraham [as] father.’ For I say to you⁺ that out of these stones God is able to raise up children to Abraham.",
+    "reference": "Matthew 3:9 (BLB)",
+    "connected_to": "Matthew 3:10",
+    "connected_from": "Matthew 3:8"
+  },
+  {
+    "text": "And already the ax is laid to the root of the trees; therefore every tree not producing good fruit is cut down and is thrown into fire.",
+    "reference": "Matthew 3:10 (BLB)",
+    "connected_to": "Matthew 3:11",
+    "connected_from": "Matthew 3:9"
+  },
+  {
+    "text": "I indeed baptize you⁺ in water unto repentance, but the One coming after me is mightier than I, of whom I am not sufficient to carry the sandals. He will baptize you⁺ in the Holy Spirit and fire,",
+    "reference": "Matthew 3:11 (BLB)",
+    "connected_to": "Matthew 3:12",
+    "connected_from": "Matthew 3:10"
+  },
+  {
+    "text": "whose winnowing fork [is] in His hand, and He will thoroughly cleanse His threshing floor and will gather His wheat into the barn; but He will burn up the chaff with unquenchable fire.”",
+    "reference": "Matthew 3:12 (BLB)",
+    "connected_to": "Matthew 3:13",
+    "connected_from": "Matthew 3:11"
+  },
+  {
+    "text": "Then Jesus comes from Galilee to the Jordan to John to be baptized by him.",
+    "reference": "Matthew 3:13 (BLB)",
+    "connected_to": "Matthew 3:14",
+    "connected_from": "Matthew 3:12"
+  },
+  {
+    "text": "But John was preventing Him, saying, “I have need to be baptized by You, and You come to me?”",
+    "reference": "Matthew 3:14 (BLB)",
+    "connected_to": "Matthew 3:15",
+    "connected_from": "Matthew 3:13"
+  },
+  {
+    "text": "But answering, Jesus said to him, “Permit [it] presently; for thus it is fitting to us to fulfill all righteousness.” Then he permits Him.",
+    "reference": "Matthew 3:15 (BLB)",
+    "connected_to": "Matthew 3:16",
+    "connected_from": "Matthew 3:14"
+  },
+  {
+    "text": "And having been baptized, Jesus immediately went up from the water; and behold, the heavens were opened, and He saw the Spirit of God descending as a dove and coming upon Him.",
+    "reference": "Matthew 3:16 (BLB)",
+    "connected_to": "Matthew 3:17",
+    "connected_from": "Matthew 3:15"
+  },
+  {
+    "text": "And behold, a voice out of the heavens, saying, “This is My Son, the Beloved, in whom I was well pleased.”",
+    "reference": "Matthew 3:17 (BLB)",
+    "connected_from": "Matthew 3:16"
+  }
+]

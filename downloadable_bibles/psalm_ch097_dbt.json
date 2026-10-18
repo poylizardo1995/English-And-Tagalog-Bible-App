@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Jehovah reigneth: let the earth be glad, let the many isles rejoice.",
+    "reference": "Psalm 97:1 (DBT)",
+    "connected_to": "Psalm 97:2"
+  },
+  {
+    "text": "Clouds and darkness are round about him; righteousness and judgment are the foundation of his throne.",
+    "reference": "Psalm 97:2 (DBT)",
+    "connected_to": "Psalm 97:3",
+    "connected_from": "Psalm 97:1"
+  },
+  {
+    "text": "A fire goeth before him, and burneth up his adversaries round about.",
+    "reference": "Psalm 97:3 (DBT)",
+    "connected_to": "Psalm 97:4",
+    "connected_from": "Psalm 97:2"
+  },
+  {
+    "text": "His lightnings lightened the world: the earth saw, and trembled.",
+    "reference": "Psalm 97:4 (DBT)",
+    "connected_to": "Psalm 97:5",
+    "connected_from": "Psalm 97:3"
+  },
+  {
+    "text": "The mountains melted like wax at the presence of Jehovah, at the presence of the Lord of the whole earth.",
+    "reference": "Psalm 97:5 (DBT)",
+    "connected_to": "Psalm 97:6",
+    "connected_from": "Psalm 97:4"
+  },
+  {
+    "text": "The heavens declare his righteousness, and all the peoples see his glory.",
+    "reference": "Psalm 97:6 (DBT)",
+    "connected_to": "Psalm 97:7",
+    "connected_from": "Psalm 97:5"
+  },
+  {
+    "text": "Ashamed be all they that serve graven images, that boast themselves of idols. Worship him, all ye gods.",
+    "reference": "Psalm 97:7 (DBT)",
+    "connected_to": "Psalm 97:8",
+    "connected_from": "Psalm 97:6"
+  },
+  {
+    "text": "Zion heard, and rejoiced; and the daughters of Judah were glad, because of thy judgments, O Jehovah.",
+    "reference": "Psalm 97:8 (DBT)",
+    "connected_to": "Psalm 97:9",
+    "connected_from": "Psalm 97:7"
+  },
+  {
+    "text": "For thou, Jehovah, art the Most High above all the earth; thou art exalted exceedingly above all gods.",
+    "reference": "Psalm 97:9 (DBT)",
+    "connected_to": "Psalm 97:10",
+    "connected_from": "Psalm 97:8"
+  },
+  {
+    "text": "Ye that love Jehovah, hate evil: he preserveth the souls of his saints, he delivereth them out of the hand of the wicked.",
+    "reference": "Psalm 97:10 (DBT)",
+    "connected_to": "Psalm 97:11",
+    "connected_from": "Psalm 97:9"
+  },
+  {
+    "text": "Light is sown for the righteous, and joy for the upright in heart.",
+    "reference": "Psalm 97:11 (DBT)",
+    "connected_to": "Psalm 97:12",
+    "connected_from": "Psalm 97:10"
+  },
+  {
+    "text": "Rejoice in Jehovah, ye righteous; and give thanks in remembrance of his holiness.",
+    "reference": "Psalm 97:12 (DBT)",
+    "connected_from": "Psalm 97:11"
+  }
+]

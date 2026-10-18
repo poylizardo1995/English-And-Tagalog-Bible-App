@@ -1,0 +1,66 @@
+[
+  {
+    "text": "On my bed at night I sought the one I love; I sought him, but did not find him.",
+    "reference": "Song of Solomon 3:1 (BAB)",
+    "connected_to": "Song of Solomon 3:2"
+  },
+  {
+    "text": "I will arise now and go about the city, through the streets and squares. I will seek the one I love. So I sought him but did not find him.",
+    "reference": "Song of Solomon 3:2 (BAB)",
+    "connected_to": "Song of Solomon 3:3",
+    "connected_from": "Song of Solomon 3:1"
+  },
+  {
+    "text": "I encountered the watchmen on their rounds of the city: “Have you⁺ seen the one I love?”",
+    "reference": "Song of Solomon 3:3 (BAB)",
+    "connected_to": "Song of Solomon 3:4",
+    "connected_from": "Song of Solomon 3:2"
+  },
+  {
+    "text": "I had just passed them when I found the one I love. I held him and would not let go until I had brought him to my mother’s house, to the chamber of the one who conceived me.",
+    "reference": "Song of Solomon 3:4 (BAB)",
+    "connected_to": "Song of Solomon 3:5",
+    "connected_from": "Song of Solomon 3:3"
+  },
+  {
+    "text": "O daughters of Jerusalem (city of peace), I adjure you⁺ by the gazelles and does of the field: Do not arouse or awaken love until the time is right.",
+    "reference": "Song of Solomon 3:5 (BAB)",
+    "connected_to": "Song of Solomon 3:6",
+    "connected_from": "Song of Solomon 3:4"
+  },
+  {
+    "text": "Who is this coming up from the wilderness like a column of smoke, scented with myrrh and frankincense from all the spices of the merchant?",
+    "reference": "Song of Solomon 3:6 (BAB)",
+    "connected_to": "Song of Solomon 3:7",
+    "connected_from": "Song of Solomon 3:5"
+  },
+  {
+    "text": "Behold, it is Solomon’s (peace) carriage (the couch on which servants carry a king), escorted by sixty of the mightiest men of Israel (he wrestles with God).",
+    "reference": "Song of Solomon 3:7 (BAB)",
+    "connected_to": "Song of Solomon 3:8",
+    "connected_from": "Song of Solomon 3:6"
+  },
+  {
+    "text": "All are skilled with the sword, experienced in warfare. Each has his sword at his side prepared for the terror of the night.",
+    "reference": "Song of Solomon 3:8 (BAB)",
+    "connected_to": "Song of Solomon 3:9",
+    "connected_from": "Song of Solomon 3:7"
+  },
+  {
+    "text": "King Solomon (peace) has made his carriage out of the timber of Lebanon (whiteness).",
+    "reference": "Song of Solomon 3:9 (BAB)",
+    "connected_to": "Song of Solomon 3:10",
+    "connected_from": "Song of Solomon 3:8"
+  },
+  {
+    "text": "He has made its posts of silver, its base of gold, its seat of purple fabric. Its interior is inlaid with love by the daughters of Jerusalem (city of peace).",
+    "reference": "Song of Solomon 3:10 (BAB)",
+    "connected_to": "Song of Solomon 3:11",
+    "connected_from": "Song of Solomon 3:9"
+  },
+  {
+    "text": "Come out, O daughters of Zion, and gaze at King Solomon (peace), wearing the crown with which his mother crowned him on the day of his wedding—the day of his heart’s rejoicing.",
+    "reference": "Song of Solomon 3:11 (BAB)",
+    "connected_from": "Song of Solomon 3:10"
+  }
+]

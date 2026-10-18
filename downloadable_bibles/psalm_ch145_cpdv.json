@@ -1,0 +1,126 @@
+[
+  {
+    "text": "The Praise of David himself. I will extol you, O God, my king. And I will bless your name, in this time and forever and ever.",
+    "reference": "Psalm 145:1 (CPDV)",
+    "connected_to": "Psalm 145:2"
+  },
+  {
+    "text": "Throughout every single day, I will bless you. And I will praise your name, in this time and forever and ever.",
+    "reference": "Psalm 145:2 (CPDV)",
+    "connected_to": "Psalm 145:3",
+    "connected_from": "Psalm 145:1"
+  },
+  {
+    "text": "The Lord is great and exceedingly praiseworthy. And there is no end to his greatness.",
+    "reference": "Psalm 145:3 (CPDV)",
+    "connected_to": "Psalm 145:4",
+    "connected_from": "Psalm 145:2"
+  },
+  {
+    "text": "Generation after generation will praise your works, and they will declare your power.",
+    "reference": "Psalm 145:4 (CPDV)",
+    "connected_to": "Psalm 145:5",
+    "connected_from": "Psalm 145:3"
+  },
+  {
+    "text": "They will tell of the magnificent glory of your sanctity. And they will discourse of your wonders.",
+    "reference": "Psalm 145:5 (CPDV)",
+    "connected_to": "Psalm 145:6",
+    "connected_from": "Psalm 145:4"
+  },
+  {
+    "text": "And they will talk about the virtue of your terrible acts. And they will describe your greatness.",
+    "reference": "Psalm 145:6 (CPDV)",
+    "connected_to": "Psalm 145:7",
+    "connected_from": "Psalm 145:5"
+  },
+  {
+    "text": "They will shout about the memory of your abundant sweetness. And they will exult in your justice.",
+    "reference": "Psalm 145:7 (CPDV)",
+    "connected_to": "Psalm 145:8",
+    "connected_from": "Psalm 145:6"
+  },
+  {
+    "text": "The Lord is compassionate and merciful, patient and full of mercy.",
+    "reference": "Psalm 145:8 (CPDV)",
+    "connected_to": "Psalm 145:9",
+    "connected_from": "Psalm 145:7"
+  },
+  {
+    "text": "The Lord is sweet to all things, and his compassion is upon all his works.",
+    "reference": "Psalm 145:9 (CPDV)",
+    "connected_to": "Psalm 145:10",
+    "connected_from": "Psalm 145:8"
+  },
+  {
+    "text": "O Lord, may all your works confess to you, and let your holy ones bless you.",
+    "reference": "Psalm 145:10 (CPDV)",
+    "connected_to": "Psalm 145:11",
+    "connected_from": "Psalm 145:9"
+  },
+  {
+    "text": "They will speak of the glory of your kingdom, and they will declare your power,",
+    "reference": "Psalm 145:11 (CPDV)",
+    "connected_to": "Psalm 145:12",
+    "connected_from": "Psalm 145:10"
+  },
+  {
+    "text": "so as to make known to the sons of men your power and the glory of your magnificent kingdom.",
+    "reference": "Psalm 145:12 (CPDV)",
+    "connected_to": "Psalm 145:13",
+    "connected_from": "Psalm 145:11"
+  },
+  {
+    "text": "Your kingdom is a kingdom for all ages, and your dominion is with all, from generation to generation. The Lord is faithful in all his words and holy in all his works.",
+    "reference": "Psalm 145:13 (CPDV)",
+    "connected_to": "Psalm 145:14",
+    "connected_from": "Psalm 145:12"
+  },
+  {
+    "text": "The Lord lifts up all who have fallen down, and he sets upright all who have been thrown down.",
+    "reference": "Psalm 145:14 (CPDV)",
+    "connected_to": "Psalm 145:15",
+    "connected_from": "Psalm 145:13"
+  },
+  {
+    "text": "O Lord, all eyes hope in you, and you provide their food in due time.",
+    "reference": "Psalm 145:15 (CPDV)",
+    "connected_to": "Psalm 145:16",
+    "connected_from": "Psalm 145:14"
+  },
+  {
+    "text": "You open your hand, and you fill every kind of animal with a blessing.",
+    "reference": "Psalm 145:16 (CPDV)",
+    "connected_to": "Psalm 145:17",
+    "connected_from": "Psalm 145:15"
+  },
+  {
+    "text": "The Lord is just in all his ways and holy in all his works.",
+    "reference": "Psalm 145:17 (CPDV)",
+    "connected_to": "Psalm 145:18",
+    "connected_from": "Psalm 145:16"
+  },
+  {
+    "text": "The Lord is near to all who call upon him, to all who call upon him in truth.",
+    "reference": "Psalm 145:18 (CPDV)",
+    "connected_to": "Psalm 145:19",
+    "connected_from": "Psalm 145:17"
+  },
+  {
+    "text": "He will do the will of those who fear him, and he will heed their supplication and accomplish their salvation.",
+    "reference": "Psalm 145:19 (CPDV)",
+    "connected_to": "Psalm 145:20",
+    "connected_from": "Psalm 145:18"
+  },
+  {
+    "text": "The Lord watches over all who love him. And he will destroy all sinners.",
+    "reference": "Psalm 145:20 (CPDV)",
+    "connected_to": "Psalm 145:21",
+    "connected_from": "Psalm 145:19"
+  },
+  {
+    "text": "My mouth will speak the praise of the Lord, and may all flesh bless his holy name, in this time and forever and ever.",
+    "reference": "Psalm 145:21 (CPDV)",
+    "connected_from": "Psalm 145:20"
+  }
+]

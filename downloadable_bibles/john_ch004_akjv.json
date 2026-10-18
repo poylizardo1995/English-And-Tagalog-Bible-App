@@ -1,0 +1,324 @@
+[
+  {
+    "text": "When therefore the LORD knew how the Pharisees had heard that Jesus made and baptized more disciples than John,",
+    "reference": "John 4:1 (AKJV)",
+    "connected_to": "John 4:2"
+  },
+  {
+    "text": "(Though Jesus himself baptized not, but his disciples,)",
+    "reference": "John 4:2 (AKJV)",
+    "connected_to": "John 4:3",
+    "connected_from": "John 4:1"
+  },
+  {
+    "text": "He left Judaea, and departed again into Galilee.",
+    "reference": "John 4:3 (AKJV)",
+    "connected_to": "John 4:4",
+    "connected_from": "John 4:2"
+  },
+  {
+    "text": "And he must needs go through Samaria.",
+    "reference": "John 4:4 (AKJV)",
+    "connected_to": "John 4:5",
+    "connected_from": "John 4:3"
+  },
+  {
+    "text": "Then comes he to a city of Samaria, which is called Sychar, near to the parcel of ground that Jacob gave to his son Joseph.",
+    "reference": "John 4:5 (AKJV)",
+    "connected_to": "John 4:6",
+    "connected_from": "John 4:4"
+  },
+  {
+    "text": "Now Jacob’s well was there. Jesus therefore, being wearied with his journey, sat thus on the well: and it was about the sixth hour.",
+    "reference": "John 4:6 (AKJV)",
+    "connected_to": "John 4:7",
+    "connected_from": "John 4:5"
+  },
+  {
+    "text": "There comes a woman of Samaria to draw water: Jesus said to her, Give me to drink.",
+    "reference": "John 4:7 (AKJV)",
+    "connected_to": "John 4:8",
+    "connected_from": "John 4:6"
+  },
+  {
+    "text": "(For his disciples were gone away to the city to buy meat.)",
+    "reference": "John 4:8 (AKJV)",
+    "connected_to": "John 4:9",
+    "connected_from": "John 4:7"
+  },
+  {
+    "text": "Then said the woman of Samaria to him, How is it that you, being a Jew, ask drink of me, which am a woman of Samaria? for the Jews have no dealings with the Samaritans.",
+    "reference": "John 4:9 (AKJV)",
+    "connected_to": "John 4:10",
+    "connected_from": "John 4:8"
+  },
+  {
+    "text": "Jesus answered and said to her, If you knew the gift of God, and who it is that said to you, Give me to drink; you would have asked of him, and he would have given you living water.",
+    "reference": "John 4:10 (AKJV)",
+    "connected_to": "John 4:11",
+    "connected_from": "John 4:9"
+  },
+  {
+    "text": "The woman said to him, Sir, you have nothing to draw with, and the well is deep: from where then have you that living water?",
+    "reference": "John 4:11 (AKJV)",
+    "connected_to": "John 4:12",
+    "connected_from": "John 4:10"
+  },
+  {
+    "text": "Are you greater than our father Jacob, which gave us the well, and drank thereof himself, and his children, and his cattle?",
+    "reference": "John 4:12 (AKJV)",
+    "connected_to": "John 4:13",
+    "connected_from": "John 4:11"
+  },
+  {
+    "text": "Jesus answered and said to her, Whoever drinks of this water shall thirst again:",
+    "reference": "John 4:13 (AKJV)",
+    "connected_to": "John 4:14",
+    "connected_from": "John 4:12"
+  },
+  {
+    "text": "But whoever drinks of the water that I shall give him shall never thirst; but the water that I shall give him shall be in him a well of water springing up into everlasting life.",
+    "reference": "John 4:14 (AKJV)",
+    "connected_to": "John 4:15",
+    "connected_from": "John 4:13"
+  },
+  {
+    "text": "The woman said to him, Sir, give me this water, that I thirst not, neither come here to draw.",
+    "reference": "John 4:15 (AKJV)",
+    "connected_to": "John 4:16",
+    "connected_from": "John 4:14"
+  },
+  {
+    "text": "Jesus said to her, Go, call your husband, and come here.",
+    "reference": "John 4:16 (AKJV)",
+    "connected_to": "John 4:17",
+    "connected_from": "John 4:15"
+  },
+  {
+    "text": "The woman answered and said, I have no husband. Jesus said to her, You have well said, I have no husband:",
+    "reference": "John 4:17 (AKJV)",
+    "connected_to": "John 4:18",
+    "connected_from": "John 4:16"
+  },
+  {
+    "text": "For you have had five husbands; and he whom you now have is not your husband: in that said you truly.",
+    "reference": "John 4:18 (AKJV)",
+    "connected_to": "John 4:19",
+    "connected_from": "John 4:17"
+  },
+  {
+    "text": "The woman said to him, Sir, I perceive that you are a prophet.",
+    "reference": "John 4:19 (AKJV)",
+    "connected_to": "John 4:20",
+    "connected_from": "John 4:18"
+  },
+  {
+    "text": "Our fathers worshipped in this mountain; and you say, that in Jerusalem is the place where men ought to worship.",
+    "reference": "John 4:20 (AKJV)",
+    "connected_to": "John 4:21",
+    "connected_from": "John 4:19"
+  },
+  {
+    "text": "Jesus said to her, Woman, believe me, the hour comes, when you shall neither in this mountain, nor yet at Jerusalem, worship the Father.",
+    "reference": "John 4:21 (AKJV)",
+    "connected_to": "John 4:22",
+    "connected_from": "John 4:20"
+  },
+  {
+    "text": "You worship you know not what: we know what we worship: for salvation is of the Jews.",
+    "reference": "John 4:22 (AKJV)",
+    "connected_to": "John 4:23",
+    "connected_from": "John 4:21"
+  },
+  {
+    "text": "But the hour comes, and now is, when the true worshippers shall worship the Father in spirit and in truth: for the Father seeks such to worship him.",
+    "reference": "John 4:23 (AKJV)",
+    "connected_to": "John 4:24",
+    "connected_from": "John 4:22"
+  },
+  {
+    "text": "God is a Spirit: and they that worship him must worship him in spirit and in truth.",
+    "reference": "John 4:24 (AKJV)",
+    "connected_to": "John 4:25",
+    "connected_from": "John 4:23"
+  },
+  {
+    "text": "The woman said to him, I know that Messias comes, which is called Christ: when he is come, he will tell us all things.",
+    "reference": "John 4:25 (AKJV)",
+    "connected_to": "John 4:26",
+    "connected_from": "John 4:24"
+  },
+  {
+    "text": "Jesus said to her, I that speak to you am he.",
+    "reference": "John 4:26 (AKJV)",
+    "connected_to": "John 4:27",
+    "connected_from": "John 4:25"
+  },
+  {
+    "text": "And on this came his disciples, and marveled that he talked with the woman: yet no man said, What seek you? or, Why talk you with her?",
+    "reference": "John 4:27 (AKJV)",
+    "connected_to": "John 4:28",
+    "connected_from": "John 4:26"
+  },
+  {
+    "text": "The woman then left her water pot, and went her way into the city, and said to the men,",
+    "reference": "John 4:28 (AKJV)",
+    "connected_to": "John 4:29",
+    "connected_from": "John 4:27"
+  },
+  {
+    "text": "Come, see a man, which told me all things that ever I did: is not this the Christ?",
+    "reference": "John 4:29 (AKJV)",
+    "connected_to": "John 4:30",
+    "connected_from": "John 4:28"
+  },
+  {
+    "text": "Then they went out of the city, and came to him.",
+    "reference": "John 4:30 (AKJV)",
+    "connected_to": "John 4:31",
+    "connected_from": "John 4:29"
+  },
+  {
+    "text": "In the mean while his disciples prayed him, saying, Master, eat.",
+    "reference": "John 4:31 (AKJV)",
+    "connected_to": "John 4:32",
+    "connected_from": "John 4:30"
+  },
+  {
+    "text": "But he said to them, I have meat to eat that you know not of.",
+    "reference": "John 4:32 (AKJV)",
+    "connected_to": "John 4:33",
+    "connected_from": "John 4:31"
+  },
+  {
+    "text": "Therefore said the disciples one to another, Has any man brought him ought to eat?",
+    "reference": "John 4:33 (AKJV)",
+    "connected_to": "John 4:34",
+    "connected_from": "John 4:32"
+  },
+  {
+    "text": "Jesus said to them, My meat is to do the will of him that sent me, and to finish his work.",
+    "reference": "John 4:34 (AKJV)",
+    "connected_to": "John 4:35",
+    "connected_from": "John 4:33"
+  },
+  {
+    "text": "Say not you, There are yet four months, and then comes harvest? behold, I say to you, Lift up your eyes, and look on the fields; for they are white already to harvest.",
+    "reference": "John 4:35 (AKJV)",
+    "connected_to": "John 4:36",
+    "connected_from": "John 4:34"
+  },
+  {
+    "text": "And he that reaps receives wages, and gathers fruit to life eternal: that both he that sows and he that reaps may rejoice together.",
+    "reference": "John 4:36 (AKJV)",
+    "connected_to": "John 4:37",
+    "connected_from": "John 4:35"
+  },
+  {
+    "text": "And herein is that saying true, One sows, and another reaps.",
+    "reference": "John 4:37 (AKJV)",
+    "connected_to": "John 4:38",
+    "connected_from": "John 4:36"
+  },
+  {
+    "text": "I sent you to reap that where on you bestowed no labor: other men labored, and you are entered into their labors.",
+    "reference": "John 4:38 (AKJV)",
+    "connected_to": "John 4:39",
+    "connected_from": "John 4:37"
+  },
+  {
+    "text": "And many of the Samaritans of that city believed on him for the saying of the woman, which testified, He told me all that ever I did.",
+    "reference": "John 4:39 (AKJV)",
+    "connected_to": "John 4:40",
+    "connected_from": "John 4:38"
+  },
+  {
+    "text": "So when the Samaritans were come to him, they sought him that he would tarry with them: and he stayed there two days.",
+    "reference": "John 4:40 (AKJV)",
+    "connected_to": "John 4:41",
+    "connected_from": "John 4:39"
+  },
+  {
+    "text": "And many more believed because of his own word;",
+    "reference": "John 4:41 (AKJV)",
+    "connected_to": "John 4:42",
+    "connected_from": "John 4:40"
+  },
+  {
+    "text": "And said to the woman, Now we believe, not because of your saying: for we have heard him ourselves, and know that this is indeed the Christ, the Savior of the world.",
+    "reference": "John 4:42 (AKJV)",
+    "connected_to": "John 4:43",
+    "connected_from": "John 4:41"
+  },
+  {
+    "text": "Now after two days he departed there, and went into Galilee.",
+    "reference": "John 4:43 (AKJV)",
+    "connected_to": "John 4:44",
+    "connected_from": "John 4:42"
+  },
+  {
+    "text": "For Jesus himself testified, that a prophet has no honor in his own country.",
+    "reference": "John 4:44 (AKJV)",
+    "connected_to": "John 4:45",
+    "connected_from": "John 4:43"
+  },
+  {
+    "text": "Then when he was come into Galilee, the Galilaeans received him, having seen all the things that he did at Jerusalem at the feast: for they also went to the feast.",
+    "reference": "John 4:45 (AKJV)",
+    "connected_to": "John 4:46",
+    "connected_from": "John 4:44"
+  },
+  {
+    "text": "So Jesus came again into Cana of Galilee, where he made the water wine. And there was a certain nobleman, whose son was sick at Capernaum.",
+    "reference": "John 4:46 (AKJV)",
+    "connected_to": "John 4:47",
+    "connected_from": "John 4:45"
+  },
+  {
+    "text": "When he heard that Jesus was come out of Judaea into Galilee, he went to him, and sought him that he would come down, and heal his son: for he was at the point of death.",
+    "reference": "John 4:47 (AKJV)",
+    "connected_to": "John 4:48",
+    "connected_from": "John 4:46"
+  },
+  {
+    "text": "Then said Jesus to him, Except you see signs and wonders, you will not believe.",
+    "reference": "John 4:48 (AKJV)",
+    "connected_to": "John 4:49",
+    "connected_from": "John 4:47"
+  },
+  {
+    "text": "The nobleman said to him, Sir, come down ere my child die.",
+    "reference": "John 4:49 (AKJV)",
+    "connected_to": "John 4:50",
+    "connected_from": "John 4:48"
+  },
+  {
+    "text": "Jesus said to him, Go your way; your son lives. And the man believed the word that Jesus had spoken to him, and he went his way.",
+    "reference": "John 4:50 (AKJV)",
+    "connected_to": "John 4:51",
+    "connected_from": "John 4:49"
+  },
+  {
+    "text": "And as he was now going down, his servants met him, and told him, saying, Your son lives.",
+    "reference": "John 4:51 (AKJV)",
+    "connected_to": "John 4:52",
+    "connected_from": "John 4:50"
+  },
+  {
+    "text": "Then inquired he of them the hour when he began to amend. And they said to him, Yesterday at the seventh hour the fever left him.",
+    "reference": "John 4:52 (AKJV)",
+    "connected_to": "John 4:53",
+    "connected_from": "John 4:51"
+  },
+  {
+    "text": "So the father knew that it was at the same hour, in the which Jesus said to him, Your son lives: and himself believed, and his whole house.",
+    "reference": "John 4:53 (AKJV)",
+    "connected_to": "John 4:54",
+    "connected_from": "John 4:52"
+  },
+  {
+    "text": "This is again the second miracle that Jesus did, when he was come out of Judaea into Galilee.",
+    "reference": "John 4:54 (AKJV)",
+    "connected_from": "John 4:53"
+  }
+]

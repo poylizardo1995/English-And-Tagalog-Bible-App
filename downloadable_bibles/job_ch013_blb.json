@@ -1,0 +1,168 @@
+[
+  {
+    "text": "[“] Behold, all [this] my eye has seen; my ear has heard and understood it.",
+    "reference": "Job 13:1 (BLB)",
+    "connected_to": "Job 13:2"
+  },
+  {
+    "text": "According to your⁺ knowledge, I also know; I am not falling below you⁺.",
+    "reference": "Job 13:2 (BLB)",
+    "connected_to": "Job 13:3",
+    "connected_from": "Job 13:1"
+  },
+  {
+    "text": "But I wish to speak to Shaddai, and to reason with God I desire.",
+    "reference": "Job 13:3 (BLB)",
+    "connected_to": "Job 13:4",
+    "connected_from": "Job 13:2"
+  },
+  {
+    "text": "But you⁺, are plasterers of a lie, worthless physicians all of you⁺.",
+    "reference": "Job 13:4 (BLB)",
+    "connected_to": "Job 13:5",
+    "connected_from": "Job 13:3"
+  },
+  {
+    "text": "Who will give [that] you will surely remain silent, and it will be for wisdom for you⁺.",
+    "reference": "Job 13:5 (BLB)",
+    "connected_to": "Job 13:6",
+    "connected_from": "Job 13:4"
+  },
+  {
+    "text": "Hear now my reasoning, and be attentive to the quarreling of my lips.",
+    "reference": "Job 13:6 (BLB)",
+    "connected_to": "Job 13:7",
+    "connected_from": "Job 13:5"
+  },
+  {
+    "text": "Will you⁺ speak injustice for God, and will you⁺ speak deceit for Him?",
+    "reference": "Job 13:7 (BLB)",
+    "connected_to": "Job 13:8",
+    "connected_from": "Job 13:6"
+  },
+  {
+    "text": "Will you⁺ lift His face, or will you⁺ contend for God?",
+    "reference": "Job 13:8 (BLB)",
+    "connected_to": "Job 13:9",
+    "connected_from": "Job 13:7"
+  },
+  {
+    "text": "Will [it be] good when He searches you⁺ out? Or as one mocks a man, can you⁺ mock Him?",
+    "reference": "Job 13:9 (BLB)",
+    "connected_to": "Job 13:10",
+    "connected_from": "Job 13:8"
+  },
+  {
+    "text": "He will surely rebuke you⁺, if in secrecy you⁺ were lifting faces.",
+    "reference": "Job 13:10 (BLB)",
+    "connected_to": "Job 13:11",
+    "connected_from": "Job 13:9"
+  },
+  {
+    "text": "Will not His excellence terrify you⁺ and the dread of Him fall upon you⁺?",
+    "reference": "Job 13:11 (BLB)",
+    "connected_to": "Job 13:12",
+    "connected_from": "Job 13:10"
+  },
+  {
+    "text": "Your⁺ remembrances [are] proverbs of ashes; your⁺ defenses [are] defenses of clay.",
+    "reference": "Job 13:12 (BLB)",
+    "connected_to": "Job 13:13",
+    "connected_from": "Job 13:11"
+  },
+  {
+    "text": "Keep silent from me, and I will speak, and let come upon me what may.",
+    "reference": "Job 13:13 (BLB)",
+    "connected_to": "Job 13:14",
+    "connected_from": "Job 13:12"
+  },
+  {
+    "text": "For what do I take up my flesh in my teeth, and my soul do I set in my palm?",
+    "reference": "Job 13:14 (BLB)",
+    "connected_to": "Job 13:15",
+    "connected_from": "Job 13:13"
+  },
+  {
+    "text": "Behold, He may slay me; unto Him I will hope. Indeed, my ways to His face I will defend.",
+    "reference": "Job 13:15 (BLB)",
+    "connected_to": "Job 13:16",
+    "connected_from": "Job 13:14"
+  },
+  {
+    "text": "Even this [may be] unto me salvation, for the godless one shall not come [in] before His face.",
+    "reference": "Job 13:16 (BLB)",
+    "connected_to": "Job 13:17",
+    "connected_from": "Job 13:15"
+  },
+  {
+    "text": "Listen [with] hearing [to] my speech, and may my declaration [be] in your⁺ ears.",
+    "reference": "Job 13:17 (BLB)",
+    "connected_to": "Job 13:18",
+    "connected_from": "Job 13:16"
+  },
+  {
+    "text": "Behold, now, I have arranged my defense. I know that I am righteous.",
+    "reference": "Job 13:18 (BLB)",
+    "connected_to": "Job 13:19",
+    "connected_from": "Job 13:17"
+  },
+  {
+    "text": "Who [is] he [who] will contend with me? For then I would be silent and die.",
+    "reference": "Job 13:19 (BLB)",
+    "connected_to": "Job 13:20",
+    "connected_from": "Job 13:18"
+  },
+  {
+    "text": "Only two [things] may You not do with me; then from Your face I will not hide myself.",
+    "reference": "Job 13:20 (BLB)",
+    "connected_to": "Job 13:21",
+    "connected_from": "Job 13:19"
+  },
+  {
+    "text": "Withdraw your hand from me, and do not let Your terror terrify me.",
+    "reference": "Job 13:21 (BLB)",
+    "connected_to": "Job 13:22",
+    "connected_from": "Job 13:20"
+  },
+  {
+    "text": "And call, and I will answer; or let me speak, and You reply.",
+    "reference": "Job 13:22 (BLB)",
+    "connected_to": "Job 13:23",
+    "connected_from": "Job 13:21"
+  },
+  {
+    "text": "How many [are] the iniquities and sins for me? Make me know my transgression and my sin.",
+    "reference": "Job 13:23 (BLB)",
+    "connected_to": "Job 13:24",
+    "connected_from": "Job 13:22"
+  },
+  {
+    "text": "Why do You hide Your face and consider me as an enemy unto You?",
+    "reference": "Job 13:24 (BLB)",
+    "connected_to": "Job 13:25",
+    "connected_from": "Job 13:23"
+  },
+  {
+    "text": "Would You make tremble a leaf driven away, and would You pursue dry stubble?",
+    "reference": "Job 13:25 (BLB)",
+    "connected_to": "Job 13:26",
+    "connected_from": "Job 13:24"
+  },
+  {
+    "text": "For You write against me bitter [things], and you make me inherit the iniquities of my youth.",
+    "reference": "Job 13:26 (BLB)",
+    "connected_to": "Job 13:27",
+    "connected_from": "Job 13:25"
+  },
+  {
+    "text": "And You put my feet in the stock, and You watch all my paths; upon the soles of my feet You engrave.",
+    "reference": "Job 13:27 (BLB)",
+    "connected_to": "Job 13:28",
+    "connected_from": "Job 13:26"
+  },
+  {
+    "text": "And he, like a rotten thing, is worn out, like a garment a moth has eaten.",
+    "reference": "Job 13:28 (BLB)",
+    "connected_from": "Job 13:27"
+  }
+]

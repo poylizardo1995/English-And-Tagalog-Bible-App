@@ -1,0 +1,198 @@
+[
+  {
+    "text": "A mild answer breaketh wrath: but a harsh word stirreth up fury.",
+    "reference": "Proverbs 15:1 (DRB)",
+    "connected_to": "Proverbs 15:2"
+  },
+  {
+    "text": "The tongue of the wise adorneth knowledge: but the mouth of fools bubbleth out folly.",
+    "reference": "Proverbs 15:2 (DRB)",
+    "connected_to": "Proverbs 15:3",
+    "connected_from": "Proverbs 15:1"
+  },
+  {
+    "text": "The eyes of the Lord in every place behold the good and the evil.",
+    "reference": "Proverbs 15:3 (DRB)",
+    "connected_to": "Proverbs 15:4",
+    "connected_from": "Proverbs 15:2"
+  },
+  {
+    "text": "A peaceable tongue is a tree of life: but that which is immoderate, shall crush the spirit.",
+    "reference": "Proverbs 15:4 (DRB)",
+    "connected_to": "Proverbs 15:5",
+    "connected_from": "Proverbs 15:3"
+  },
+  {
+    "text": "A fool laugheth at the instruction of his father: but he that regardeth reproofs shall become prudent. In abundant justice there is the greatest strength: but the devices of the wicked shall be rooted out.",
+    "reference": "Proverbs 15:5 (DRB)",
+    "connected_to": "Proverbs 15:6",
+    "connected_from": "Proverbs 15:4"
+  },
+  {
+    "text": "The house of the just is very much strength: and in the fruits of the wicked is trouble.",
+    "reference": "Proverbs 15:6 (DRB)",
+    "connected_to": "Proverbs 15:7",
+    "connected_from": "Proverbs 15:5"
+  },
+  {
+    "text": "The lips of the wise shall disperse knowledge: the heart of fools shall be unlike.",
+    "reference": "Proverbs 15:7 (DRB)",
+    "connected_to": "Proverbs 15:8",
+    "connected_from": "Proverbs 15:6"
+  },
+  {
+    "text": "The victims of the wicked are abominable to the Lord: the vows of the just are acceptable.",
+    "reference": "Proverbs 15:8 (DRB)",
+    "connected_to": "Proverbs 15:9",
+    "connected_from": "Proverbs 15:7"
+  },
+  {
+    "text": "The way of the wicked is an abomination to the Lord: he that followeth justice is beloved by him.",
+    "reference": "Proverbs 15:9 (DRB)",
+    "connected_to": "Proverbs 15:10",
+    "connected_from": "Proverbs 15:8"
+  },
+  {
+    "text": "Instruction is grievous to him that forsaketh the way of life: he that hateth reproof shall die.",
+    "reference": "Proverbs 15:10 (DRB)",
+    "connected_to": "Proverbs 15:11",
+    "connected_from": "Proverbs 15:9"
+  },
+  {
+    "text": "Hell and destruction are before the Lord: how much more the hearts of the children of men?",
+    "reference": "Proverbs 15:11 (DRB)",
+    "connected_to": "Proverbs 15:12",
+    "connected_from": "Proverbs 15:10"
+  },
+  {
+    "text": "A corrupt man loveth not one that reproveth him: nor will he go to the wise.",
+    "reference": "Proverbs 15:12 (DRB)",
+    "connected_to": "Proverbs 15:13",
+    "connected_from": "Proverbs 15:11"
+  },
+  {
+    "text": "A glad heart maketh a cheerful countenance: but by grief of mind the spirit is cast down.",
+    "reference": "Proverbs 15:13 (DRB)",
+    "connected_to": "Proverbs 15:14",
+    "connected_from": "Proverbs 15:12"
+  },
+  {
+    "text": "The heart of the wise seeketh instruction: and the mouth of fools feedeth on foolishness.",
+    "reference": "Proverbs 15:14 (DRB)",
+    "connected_to": "Proverbs 15:15",
+    "connected_from": "Proverbs 15:13"
+  },
+  {
+    "text": "All the days of the poor are evil: a secure mind is like a continual feast.",
+    "reference": "Proverbs 15:15 (DRB)",
+    "connected_to": "Proverbs 15:16",
+    "connected_from": "Proverbs 15:14"
+  },
+  {
+    "text": "Better is a little with the fear of the Lord, than great treasures without content,",
+    "reference": "Proverbs 15:16 (DRB)",
+    "connected_to": "Proverbs 15:17",
+    "connected_from": "Proverbs 15:15"
+  },
+  {
+    "text": "It is better to be invited to herbs with love, than to a fatted calf with hatred.",
+    "reference": "Proverbs 15:17 (DRB)",
+    "connected_to": "Proverbs 15:18",
+    "connected_from": "Proverbs 15:16"
+  },
+  {
+    "text": "A passionate man stirreth up strifes: he that is patient appeaseth those that are stirred up.",
+    "reference": "Proverbs 15:18 (DRB)",
+    "connected_to": "Proverbs 15:19",
+    "connected_from": "Proverbs 15:17"
+  },
+  {
+    "text": "The way of the slothful is as a hedge of thorns; the way of the just is without offence.",
+    "reference": "Proverbs 15:19 (DRB)",
+    "connected_to": "Proverbs 15:20",
+    "connected_from": "Proverbs 15:18"
+  },
+  {
+    "text": "A wise son maketh a father joyful: but the foolish man despiseth his mother.",
+    "reference": "Proverbs 15:20 (DRB)",
+    "connected_to": "Proverbs 15:21",
+    "connected_from": "Proverbs 15:19"
+  },
+  {
+    "text": "Folly is joy to the fool: and the wise man maketh straight his steps.",
+    "reference": "Proverbs 15:21 (DRB)",
+    "connected_to": "Proverbs 15:22",
+    "connected_from": "Proverbs 15:20"
+  },
+  {
+    "text": "Designs are brought to nothing where there is no counsel: but where there are many counsellors, they are established.",
+    "reference": "Proverbs 15:22 (DRB)",
+    "connected_to": "Proverbs 15:23",
+    "connected_from": "Proverbs 15:21"
+  },
+  {
+    "text": "A man rejoiceth in the sentence of his mouth: and a word in due time is best.",
+    "reference": "Proverbs 15:23 (DRB)",
+    "connected_to": "Proverbs 15:24",
+    "connected_from": "Proverbs 15:22"
+  },
+  {
+    "text": "The path of life is above for the wise, that he may decline from the lowest hell.",
+    "reference": "Proverbs 15:24 (DRB)",
+    "connected_to": "Proverbs 15:25",
+    "connected_from": "Proverbs 15:23"
+  },
+  {
+    "text": "The Lord will destroy the house of the proud: and will strengthen the borders of the widow.",
+    "reference": "Proverbs 15:25 (DRB)",
+    "connected_to": "Proverbs 15:26",
+    "connected_from": "Proverbs 15:24"
+  },
+  {
+    "text": "Evil thoughts are an abomination to the Lord: and pure words most beautiful shall be confirmed by him.",
+    "reference": "Proverbs 15:26 (DRB)",
+    "connected_to": "Proverbs 15:27",
+    "connected_from": "Proverbs 15:25"
+  },
+  {
+    "text": "He that is greedy of gain troubleth his own house: but he that hateth bribes shall live. By mercy and faith sins are purged away: and by the fear of the Lord every one declineth from evil.",
+    "reference": "Proverbs 15:27 (DRB)",
+    "connected_to": "Proverbs 15:28",
+    "connected_from": "Proverbs 15:26"
+  },
+  {
+    "text": "The mind of the just studieth obedience: the mouth of the wicked over floweth with evils.",
+    "reference": "Proverbs 15:28 (DRB)",
+    "connected_to": "Proverbs 15:29",
+    "connected_from": "Proverbs 15:27"
+  },
+  {
+    "text": "The Lord is far from the wicked: and he will hear the prayers of the just.",
+    "reference": "Proverbs 15:29 (DRB)",
+    "connected_to": "Proverbs 15:30",
+    "connected_from": "Proverbs 15:28"
+  },
+  {
+    "text": "The light of the eyes rejoiceth the soul: a good name maketh the bones fat.",
+    "reference": "Proverbs 15:30 (DRB)",
+    "connected_to": "Proverbs 15:31",
+    "connected_from": "Proverbs 15:29"
+  },
+  {
+    "text": "The ear that heareth the reproofs of life, shall abide in the midst of the wise.",
+    "reference": "Proverbs 15:31 (DRB)",
+    "connected_to": "Proverbs 15:32",
+    "connected_from": "Proverbs 15:30"
+  },
+  {
+    "text": "He that rejecteth instruction, despiseth his own soul: but he that yieldeth to reproof possesseth understanding.",
+    "reference": "Proverbs 15:32 (DRB)",
+    "connected_to": "Proverbs 15:33",
+    "connected_from": "Proverbs 15:31"
+  },
+  {
+    "text": "The fear of the Lord is the lesson of wisdom: and humility goeth before glory.",
+    "reference": "Proverbs 15:33 (DRB)",
+    "connected_from": "Proverbs 15:32"
+  }
+]

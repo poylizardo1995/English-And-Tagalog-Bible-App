@@ -1,0 +1,168 @@
+[
+  {
+    "text": "Whoso loveth discipline loveth knowledge, but he that hateth reproof is brutish.",
+    "reference": "Proverbs 12:1 (DBT)",
+    "connected_to": "Proverbs 12:2"
+  },
+  {
+    "text": "A good [man] obtaineth favour of Jehovah; but a man of mischievous devices will he condemn.",
+    "reference": "Proverbs 12:2 (DBT)",
+    "connected_to": "Proverbs 12:3",
+    "connected_from": "Proverbs 12:1"
+  },
+  {
+    "text": "A man shall not be established by wickedness; but the root of the righteous shall not be moved.",
+    "reference": "Proverbs 12:3 (DBT)",
+    "connected_to": "Proverbs 12:4",
+    "connected_from": "Proverbs 12:2"
+  },
+  {
+    "text": "A woman of worth is a crown to her husband; but she that maketh ashamed is as rottenness in his bones.",
+    "reference": "Proverbs 12:4 (DBT)",
+    "connected_to": "Proverbs 12:5",
+    "connected_from": "Proverbs 12:3"
+  },
+  {
+    "text": "The thoughts of the righteous are right; the counsels of the wicked are deceit.",
+    "reference": "Proverbs 12:5 (DBT)",
+    "connected_to": "Proverbs 12:6",
+    "connected_from": "Proverbs 12:4"
+  },
+  {
+    "text": "The words of the wicked are a lying-in-wait for blood; but the mouth of the upright shall deliver them.",
+    "reference": "Proverbs 12:6 (DBT)",
+    "connected_to": "Proverbs 12:7",
+    "connected_from": "Proverbs 12:5"
+  },
+  {
+    "text": "Overthrow the wicked, and they are no [more]; but the house of the righteous shall stand.",
+    "reference": "Proverbs 12:7 (DBT)",
+    "connected_to": "Proverbs 12:8",
+    "connected_from": "Proverbs 12:6"
+  },
+  {
+    "text": "A man is commended according to his wisdom; but he that is of a perverted heart shall be despised.",
+    "reference": "Proverbs 12:8 (DBT)",
+    "connected_to": "Proverbs 12:9",
+    "connected_from": "Proverbs 12:7"
+  },
+  {
+    "text": "Better is he that is lightly esteemed, and hath a servant, than he that honoureth himself, and lacketh bread.",
+    "reference": "Proverbs 12:9 (DBT)",
+    "connected_to": "Proverbs 12:10",
+    "connected_from": "Proverbs 12:8"
+  },
+  {
+    "text": "A righteous man is concerned for the life of his beast; but the tender mercies of the wicked are cruel.",
+    "reference": "Proverbs 12:10 (DBT)",
+    "connected_to": "Proverbs 12:11",
+    "connected_from": "Proverbs 12:9"
+  },
+  {
+    "text": "He that tilleth his land shall be satisfied with bread; but he that followeth the worthless is void of understanding.",
+    "reference": "Proverbs 12:11 (DBT)",
+    "connected_to": "Proverbs 12:12",
+    "connected_from": "Proverbs 12:10"
+  },
+  {
+    "text": "The wicked desireth the net of evil [men]; but the root of the righteous yieldeth [fruit].",
+    "reference": "Proverbs 12:12 (DBT)",
+    "connected_to": "Proverbs 12:13",
+    "connected_from": "Proverbs 12:11"
+  },
+  {
+    "text": "In the transgression of the lips is an evil snare; but a righteous [man] shall go forth out of trouble.",
+    "reference": "Proverbs 12:13 (DBT)",
+    "connected_to": "Proverbs 12:14",
+    "connected_from": "Proverbs 12:12"
+  },
+  {
+    "text": "A man is satisfied with good by the fruit of his mouth; and the recompense of a man’s hands shall be rendered unto him.",
+    "reference": "Proverbs 12:14 (DBT)",
+    "connected_to": "Proverbs 12:15",
+    "connected_from": "Proverbs 12:13"
+  },
+  {
+    "text": "The way of a fool is right in his own eyes; but he that is wise hearkeneth unto counsel.",
+    "reference": "Proverbs 12:15 (DBT)",
+    "connected_to": "Proverbs 12:16",
+    "connected_from": "Proverbs 12:14"
+  },
+  {
+    "text": "The vexation of the fool is presently known; but a prudent [man] covereth shame.",
+    "reference": "Proverbs 12:16 (DBT)",
+    "connected_to": "Proverbs 12:17",
+    "connected_from": "Proverbs 12:15"
+  },
+  {
+    "text": "He that uttereth truth sheweth forth righteousness; but a false witness deceit.",
+    "reference": "Proverbs 12:17 (DBT)",
+    "connected_to": "Proverbs 12:18",
+    "connected_from": "Proverbs 12:16"
+  },
+  {
+    "text": "There is that babbleth like the piercings of a sword; but the tongue of the wise is health.",
+    "reference": "Proverbs 12:18 (DBT)",
+    "connected_to": "Proverbs 12:19",
+    "connected_from": "Proverbs 12:17"
+  },
+  {
+    "text": "The lip of truth shall be established for ever; but a lying tongue is but for a moment.",
+    "reference": "Proverbs 12:19 (DBT)",
+    "connected_to": "Proverbs 12:20",
+    "connected_from": "Proverbs 12:18"
+  },
+  {
+    "text": "Deceit is in the heart of them that devise evil; but to the counsellors of peace is joy.",
+    "reference": "Proverbs 12:20 (DBT)",
+    "connected_to": "Proverbs 12:21",
+    "connected_from": "Proverbs 12:19"
+  },
+  {
+    "text": "There shall no evil happen to a righteous [man]; but the wicked shall be filled with mischief.",
+    "reference": "Proverbs 12:21 (DBT)",
+    "connected_to": "Proverbs 12:22",
+    "connected_from": "Proverbs 12:20"
+  },
+  {
+    "text": "Lying lips are an abomination to Jehovah; but they that deal truly are his delight.",
+    "reference": "Proverbs 12:22 (DBT)",
+    "connected_to": "Proverbs 12:23",
+    "connected_from": "Proverbs 12:21"
+  },
+  {
+    "text": "A prudent man concealeth knowledge; but the heart of the foolish proclaimeth folly.",
+    "reference": "Proverbs 12:23 (DBT)",
+    "connected_to": "Proverbs 12:24",
+    "connected_from": "Proverbs 12:22"
+  },
+  {
+    "text": "The hand of the diligent shall bear rule; but the slothful [hand] shall be under tribute.",
+    "reference": "Proverbs 12:24 (DBT)",
+    "connected_to": "Proverbs 12:25",
+    "connected_from": "Proverbs 12:23"
+  },
+  {
+    "text": "Heaviness in the heart of man maketh it stoop; but a good word maketh it glad.",
+    "reference": "Proverbs 12:25 (DBT)",
+    "connected_to": "Proverbs 12:26",
+    "connected_from": "Proverbs 12:24"
+  },
+  {
+    "text": "The righteous guideth his neighbour; but the way of the wicked misleadeth them.",
+    "reference": "Proverbs 12:26 (DBT)",
+    "connected_to": "Proverbs 12:27",
+    "connected_from": "Proverbs 12:25"
+  },
+  {
+    "text": "The slothful roasteth not what he took in hunting; but man’s precious substance is to the diligent.",
+    "reference": "Proverbs 12:27 (DBT)",
+    "connected_to": "Proverbs 12:28",
+    "connected_from": "Proverbs 12:26"
+  },
+  {
+    "text": "In the path of righteousness is life, and in the pathway thereof there is no death.",
+    "reference": "Proverbs 12:28 (DBT)",
+    "connected_from": "Proverbs 12:27"
+  }
+]

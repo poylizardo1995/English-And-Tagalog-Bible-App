@@ -1,0 +1,60 @@
+[
+  {
+    "text": "For the choirmaster. A Psalm of David. Hear, O God, my voice of complaint; preserve my life from dread of the enemy.",
+    "reference": "Psalm 64:1 (BSB)",
+    "connected_to": "Psalm 64:2"
+  },
+  {
+    "text": "Hide me from the scheming of the wicked, from the mob of workers of iniquity,",
+    "reference": "Psalm 64:2 (BSB)",
+    "connected_to": "Psalm 64:3",
+    "connected_from": "Psalm 64:1"
+  },
+  {
+    "text": "who sharpen their tongues like swords and aim their bitter words like arrows,",
+    "reference": "Psalm 64:3 (BSB)",
+    "connected_to": "Psalm 64:4",
+    "connected_from": "Psalm 64:2"
+  },
+  {
+    "text": "ambushing the innocent in seclusion, shooting suddenly, without fear.",
+    "reference": "Psalm 64:4 (BSB)",
+    "connected_to": "Psalm 64:5",
+    "connected_from": "Psalm 64:3"
+  },
+  {
+    "text": "They hold fast to their evil purpose; they speak of hiding their snares. “Who will see them?” they say.",
+    "reference": "Psalm 64:5 (BSB)",
+    "connected_to": "Psalm 64:6",
+    "connected_from": "Psalm 64:4"
+  },
+  {
+    "text": "They devise injustice and say, “We have perfected a secret plan.” For the inner man and the heart are mysterious.",
+    "reference": "Psalm 64:6 (BSB)",
+    "connected_to": "Psalm 64:7",
+    "connected_from": "Psalm 64:5"
+  },
+  {
+    "text": "But God will shoot them with arrows; suddenly they will be wounded.",
+    "reference": "Psalm 64:7 (BSB)",
+    "connected_to": "Psalm 64:8",
+    "connected_from": "Psalm 64:6"
+  },
+  {
+    "text": "They will be made to stumble, their own tongues turned against them. All who see will shake their heads.",
+    "reference": "Psalm 64:8 (BSB)",
+    "connected_to": "Psalm 64:9",
+    "connected_from": "Psalm 64:7"
+  },
+  {
+    "text": "Then all mankind will fear and proclaim the work of God; so they will ponder what He has done.",
+    "reference": "Psalm 64:9 (BSB)",
+    "connected_to": "Psalm 64:10",
+    "connected_from": "Psalm 64:8"
+  },
+  {
+    "text": "Let the righteous rejoice in the LORD and take refuge in Him; let all the upright in heart exult.",
+    "reference": "Psalm 64:10 (BSB)",
+    "connected_from": "Psalm 64:9"
+  }
+]

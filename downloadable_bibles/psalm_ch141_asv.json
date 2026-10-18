@@ -1,0 +1,60 @@
+[
+  {
+    "text": "A Psalm of David. Jehovah, I have called upon thee; make haste unto me: Give ear unto my voice, when I call unto thee.",
+    "reference": "Psalm 141:1 (ASV)",
+    "connected_to": "Psalm 141:2"
+  },
+  {
+    "text": "Let my prayer be set forth as incense before thee; The lifting up of my hands as the evening sacrifice.",
+    "reference": "Psalm 141:2 (ASV)",
+    "connected_to": "Psalm 141:3",
+    "connected_from": "Psalm 141:1"
+  },
+  {
+    "text": "Set a watch, O Jehovah, before my mouth; Keep the door of my lips.",
+    "reference": "Psalm 141:3 (ASV)",
+    "connected_to": "Psalm 141:4",
+    "connected_from": "Psalm 141:2"
+  },
+  {
+    "text": "Incline not my heart to any evil thing, To practise deeds of wickedness With men that work iniquity: And let me not eat of their dainties.",
+    "reference": "Psalm 141:4 (ASV)",
+    "connected_to": "Psalm 141:5",
+    "connected_from": "Psalm 141:3"
+  },
+  {
+    "text": "Let the righteous smite me, it shall be a kindness; And let him reprove me, it shall be as oil upon the head; Let not my head refuse it: For even in their wickedness shall my prayer continue.",
+    "reference": "Psalm 141:5 (ASV)",
+    "connected_to": "Psalm 141:6",
+    "connected_from": "Psalm 141:4"
+  },
+  {
+    "text": "Their judges are thrown down by the sides of the rock; And they shall hear my words; for they are sweet.",
+    "reference": "Psalm 141:6 (ASV)",
+    "connected_to": "Psalm 141:7",
+    "connected_from": "Psalm 141:5"
+  },
+  {
+    "text": "As when one ploweth and cleaveth the earth, Our bones are scattered at the mouth of Sheol.",
+    "reference": "Psalm 141:7 (ASV)",
+    "connected_to": "Psalm 141:8",
+    "connected_from": "Psalm 141:6"
+  },
+  {
+    "text": "For mine eyes are unto thee, O Jehovah the Lord: In thee do I take refuge; leave not my soul destitute.",
+    "reference": "Psalm 141:8 (ASV)",
+    "connected_to": "Psalm 141:9",
+    "connected_from": "Psalm 141:7"
+  },
+  {
+    "text": "Keep me from the snare which they have laid for me, And from the gins of the workers of iniquity.",
+    "reference": "Psalm 141:9 (ASV)",
+    "connected_to": "Psalm 141:10",
+    "connected_from": "Psalm 141:8"
+  },
+  {
+    "text": "Let the wicked fall into their own nets, Whilst that I withal escape.",
+    "reference": "Psalm 141:10 (ASV)",
+    "connected_from": "Psalm 141:9"
+  }
+]

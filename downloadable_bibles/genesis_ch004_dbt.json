@@ -1,0 +1,156 @@
+[
+  {
+    "text": "And Man knew Eve his wife; and she conceived, and bore Cain, and said, I have acquired a man with Jehovah.",
+    "reference": "Genesis 4:1 (DBT)",
+    "connected_to": "Genesis 4:2"
+  },
+  {
+    "text": "And she further bore his brother Abel. And Abel was a shepherd, but Cain was a husbandman.",
+    "reference": "Genesis 4:2 (DBT)",
+    "connected_to": "Genesis 4:3",
+    "connected_from": "Genesis 4:1"
+  },
+  {
+    "text": "And in process of time it came to pass that Cain brought of the fruit of the ground an offering to Jehovah.",
+    "reference": "Genesis 4:3 (DBT)",
+    "connected_to": "Genesis 4:4",
+    "connected_from": "Genesis 4:2"
+  },
+  {
+    "text": "And Abel, he also brought of the firstlings of his flock, and of their fat. And Jehovah looked upon Abel, and on his offering;",
+    "reference": "Genesis 4:4 (DBT)",
+    "connected_to": "Genesis 4:5",
+    "connected_from": "Genesis 4:3"
+  },
+  {
+    "text": "and upon Cain, and on his offering, he did not look. And Cain was very angry, and his countenance fell.",
+    "reference": "Genesis 4:5 (DBT)",
+    "connected_to": "Genesis 4:6",
+    "connected_from": "Genesis 4:4"
+  },
+  {
+    "text": "And Jehovah said to Cain, Why art thou angry, and why is thy countenance fallen?",
+    "reference": "Genesis 4:6 (DBT)",
+    "connected_to": "Genesis 4:7",
+    "connected_from": "Genesis 4:5"
+  },
+  {
+    "text": "If thou doest well, will not [thy countenance] look up [with confidence]? and if thou doest not well, sin lieth at the door; and unto thee [shall be] his desire, and thou shalt rule over him.",
+    "reference": "Genesis 4:7 (DBT)",
+    "connected_to": "Genesis 4:8",
+    "connected_from": "Genesis 4:6"
+  },
+  {
+    "text": "And Cain spoke to Abel his brother, and it came to pass when they were in the field, that Cain rose up against Abel his brother, and slew him.",
+    "reference": "Genesis 4:8 (DBT)",
+    "connected_to": "Genesis 4:9",
+    "connected_from": "Genesis 4:7"
+  },
+  {
+    "text": "And Jehovah said to Cain, Where is Abel thy brother? And he said, I know not: am I my brother’s keeper?",
+    "reference": "Genesis 4:9 (DBT)",
+    "connected_to": "Genesis 4:10",
+    "connected_from": "Genesis 4:8"
+  },
+  {
+    "text": "And he said, What hast thou done? the voice of thy brother’s blood is crying to me from the ground.",
+    "reference": "Genesis 4:10 (DBT)",
+    "connected_to": "Genesis 4:11",
+    "connected_from": "Genesis 4:9"
+  },
+  {
+    "text": "And now be thou cursed from the ground, which hath opened its mouth to receive thy brother’s blood from thy hand.",
+    "reference": "Genesis 4:11 (DBT)",
+    "connected_to": "Genesis 4:12",
+    "connected_from": "Genesis 4:10"
+  },
+  {
+    "text": "When thou tillest the ground, it shall not henceforth yield thee its strength; a wanderer and fugitive shalt thou be on the earth.",
+    "reference": "Genesis 4:12 (DBT)",
+    "connected_to": "Genesis 4:13",
+    "connected_from": "Genesis 4:11"
+  },
+  {
+    "text": "And Cain said to Jehovah, My punishment is too great to be borne.",
+    "reference": "Genesis 4:13 (DBT)",
+    "connected_to": "Genesis 4:14",
+    "connected_from": "Genesis 4:12"
+  },
+  {
+    "text": "Behold, thou hast driven me this day from the face of the ground, and from thy face shall I be hid; and I shall be a wanderer and fugitive on the earth; and it will come to pass, [that] every one who finds me will slay me.",
+    "reference": "Genesis 4:14 (DBT)",
+    "connected_to": "Genesis 4:15",
+    "connected_from": "Genesis 4:13"
+  },
+  {
+    "text": "And Jehovah said to him, Therefore, whoever slayeth Cain, it shall be revenged sevenfold. And Jehovah set a mark on Cain, lest any finding him should smite him.",
+    "reference": "Genesis 4:15 (DBT)",
+    "connected_to": "Genesis 4:16",
+    "connected_from": "Genesis 4:14"
+  },
+  {
+    "text": "And Cain went out from the presence of Jehovah, and dwelt in the land of Nod, toward the east of Eden.",
+    "reference": "Genesis 4:16 (DBT)",
+    "connected_to": "Genesis 4:17",
+    "connected_from": "Genesis 4:15"
+  },
+  {
+    "text": "And Cain knew his wife, and she conceived and bore Enoch. And he built a city; and he called the name of the city after the name of his son Enoch.",
+    "reference": "Genesis 4:17 (DBT)",
+    "connected_to": "Genesis 4:18",
+    "connected_from": "Genesis 4:16"
+  },
+  {
+    "text": "And to Enoch was born Irad; and Irad begot Mehujael; and Mehujael begot Methushael; and Methushael begot Lemech.",
+    "reference": "Genesis 4:18 (DBT)",
+    "connected_to": "Genesis 4:19",
+    "connected_from": "Genesis 4:17"
+  },
+  {
+    "text": "And Lemech took two wives: the name of the one was Adah, and the name of the second, Zillah.",
+    "reference": "Genesis 4:19 (DBT)",
+    "connected_to": "Genesis 4:20",
+    "connected_from": "Genesis 4:18"
+  },
+  {
+    "text": "And Adah bore Jabal: he was the father of those who dwell in tents, and [breed] cattle.",
+    "reference": "Genesis 4:20 (DBT)",
+    "connected_to": "Genesis 4:21",
+    "connected_from": "Genesis 4:19"
+  },
+  {
+    "text": "And his brother’s name was Jubal: he was the father of those who handle the harp and pipe.",
+    "reference": "Genesis 4:21 (DBT)",
+    "connected_to": "Genesis 4:22",
+    "connected_from": "Genesis 4:20"
+  },
+  {
+    "text": "And Zillah, she also bore Tubal-Cain, the forger of every kind of tool of brass and iron. And the sister of Tubal-Cain was Naamah.",
+    "reference": "Genesis 4:22 (DBT)",
+    "connected_to": "Genesis 4:23",
+    "connected_from": "Genesis 4:21"
+  },
+  {
+    "text": "And Lemech said to his wives: Adah and Zillah, hear my voice, Ye wives of Lemech, listen to my speech. For I have slain a man for my wound, and a youth for my bruise.",
+    "reference": "Genesis 4:23 (DBT)",
+    "connected_to": "Genesis 4:24",
+    "connected_from": "Genesis 4:22"
+  },
+  {
+    "text": "If Cain shall be avenged seven-fold; Lemech seventy and seven fold.",
+    "reference": "Genesis 4:24 (DBT)",
+    "connected_to": "Genesis 4:25",
+    "connected_from": "Genesis 4:23"
+  },
+  {
+    "text": "And Adam knew his wife again, and she bore a son, and called his name Seth:... For God has appointed me another seed instead of Abel, because Cain has slain him.",
+    "reference": "Genesis 4:25 (DBT)",
+    "connected_to": "Genesis 4:26",
+    "connected_from": "Genesis 4:24"
+  },
+  {
+    "text": "And to Seth, to him also was born a son; and he called his name Enosh. Then people began to call on the name of Jehovah.",
+    "reference": "Genesis 4:26 (DBT)",
+    "connected_from": "Genesis 4:25"
+  }
+]

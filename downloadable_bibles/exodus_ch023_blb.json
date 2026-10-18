@@ -1,0 +1,198 @@
+[
+  {
+    "text": "[“] You shall not lift up a vain report. Do not put your hand with the wicked to be a violent witness.",
+    "reference": "Exodus 23:1 (BLB)",
+    "connected_to": "Exodus 23:2"
+  },
+  {
+    "text": "You shall not follow a crowd to do evil, and you shall not testify in a dispute to turn aside after many to turn aside [justice].",
+    "reference": "Exodus 23:2 (BLB)",
+    "connected_to": "Exodus 23:3",
+    "connected_from": "Exodus 23:1"
+  },
+  {
+    "text": "And to a poor man you shall not honor in his dispute.",
+    "reference": "Exodus 23:3 (BLB)",
+    "connected_to": "Exodus 23:4",
+    "connected_from": "Exodus 23:2"
+  },
+  {
+    "text": "If you encounter the ox of your enemy or his donkey going astray, you shall surely return it to him.",
+    "reference": "Exodus 23:4 (BLB)",
+    "connected_to": "Exodus 23:5",
+    "connected_from": "Exodus 23:3"
+  },
+  {
+    "text": "If you see the donkey of one who hates you lying under its burden, then do not leave it; you must surely help him with it.",
+    "reference": "Exodus 23:5 (BLB)",
+    "connected_to": "Exodus 23:6",
+    "connected_from": "Exodus 23:4"
+  },
+  {
+    "text": "You shall not turn aside the justice of your poor in his dispute.",
+    "reference": "Exodus 23:6 (BLB)",
+    "connected_to": "Exodus 23:7",
+    "connected_from": "Exodus 23:5"
+  },
+  {
+    "text": "From a false matter you shall keep far, and the innocent and righteous you shall not kill, for I will not justify the wicked.",
+    "reference": "Exodus 23:7 (BLB)",
+    "connected_to": "Exodus 23:8",
+    "connected_from": "Exodus 23:6"
+  },
+  {
+    "text": "And a bribe you shall not take, for the bribe blinds the clear-sighted and perverts the words of the righteous.",
+    "reference": "Exodus 23:8 (BLB)",
+    "connected_to": "Exodus 23:9",
+    "connected_from": "Exodus 23:7"
+  },
+  {
+    "text": "And a sojourner you shall not oppress, for you⁺ yourselves know the soul of a sojourner, because you⁺ were sojourners in the land of Egypt.",
+    "reference": "Exodus 23:9 (BLB)",
+    "connected_to": "Exodus 23:10",
+    "connected_from": "Exodus 23:8"
+  },
+  {
+    "text": "And [for] six years you shall sow your land and gather its produce.",
+    "reference": "Exodus 23:10 (BLB)",
+    "connected_to": "Exodus 23:11",
+    "connected_from": "Exodus 23:9"
+  },
+  {
+    "text": "And the seventh [year] you shall let it rest and let it lie fallow, and the poor of your people shall eat. And what they leave, the beast of the field shall eat. You shall do likewise for your vineyard [and] for your olive grove.",
+    "reference": "Exodus 23:11 (BLB)",
+    "connected_to": "Exodus 23:12",
+    "connected_from": "Exodus 23:10"
+  },
+  {
+    "text": "Six days you shall do your works, and on the seventh day you shall rest, so that your ox and your donkey may rest, and the son of your maidservant and the sojourner may be refreshed.",
+    "reference": "Exodus 23:12 (BLB)",
+    "connected_to": "Exodus 23:13",
+    "connected_from": "Exodus 23:11"
+  },
+  {
+    "text": "And take heed in all that I have said to you⁺. And the name of other gods you⁺ shall not mention, nor let it be heard on your mouth.",
+    "reference": "Exodus 23:13 (BLB)",
+    "connected_to": "Exodus 23:14",
+    "connected_from": "Exodus 23:12"
+  },
+  {
+    "text": "Three times in the year you shall keep a feast to Me.",
+    "reference": "Exodus 23:14 (BLB)",
+    "connected_to": "Exodus 23:15",
+    "connected_from": "Exodus 23:13"
+  },
+  {
+    "text": "The Feast of the Unleavened you shall keep; seven days you shall eat unleavened [bread], as I commanded you, at the appointed time in the month of Abib; for in it you came out of Egypt. And none shall appear before My face empty.",
+    "reference": "Exodus 23:15 (BLB)",
+    "connected_to": "Exodus 23:16",
+    "connected_from": "Exodus 23:14"
+  },
+  {
+    "text": "And the Feast of the Harvest, the firstfruits of your labors that you sow in the field; and the Feast of the Ingathering at the end of the year, when you have gathered in your labors from the field.",
+    "reference": "Exodus 23:16 (BLB)",
+    "connected_to": "Exodus 23:17",
+    "connected_from": "Exodus 23:15"
+  },
+  {
+    "text": "Three times in the year all your males shall appear before the face of the Lord YHWH.",
+    "reference": "Exodus 23:17 (BLB)",
+    "connected_to": "Exodus 23:18",
+    "connected_from": "Exodus 23:16"
+  },
+  {
+    "text": "You shall not offer the blood of My sacrifice on leavened bread, nor shall the fat of My sacrifice remain until morning.",
+    "reference": "Exodus 23:18 (BLB)",
+    "connected_to": "Exodus 23:19",
+    "connected_from": "Exodus 23:17"
+  },
+  {
+    "text": "The first of the firstfruits of your ground you shall bring into the house of YHWH your God. You shall not boil a young goat in the milk of its mother.",
+    "reference": "Exodus 23:19 (BLB)",
+    "connected_to": "Exodus 23:20",
+    "connected_from": "Exodus 23:18"
+  },
+  {
+    "text": "Behold, I am sending an angel before your face to guard you on the way and to bring you to the place that I have prepared.",
+    "reference": "Exodus 23:20 (BLB)",
+    "connected_to": "Exodus 23:21",
+    "connected_from": "Exodus 23:19"
+  },
+  {
+    "text": "Be guarded from his face and listen to his voice; do not rebel against him, for he will not pardon your⁺ transgressions, for My name [is] within him.",
+    "reference": "Exodus 23:21 (BLB)",
+    "connected_to": "Exodus 23:22",
+    "connected_from": "Exodus 23:20"
+  },
+  {
+    "text": "But if you will listen carefully to his voice and do all that I speak, then I will be an enemy to your enemies and an adversary to your adversaries.",
+    "reference": "Exodus 23:22 (BLB)",
+    "connected_to": "Exodus 23:23",
+    "connected_from": "Exodus 23:21"
+  },
+  {
+    "text": "For My angel will go before your faces and bring you in to the Amorite, and the Hittite, and the Perizzite, and the Canaanite, the Hivite, and the Jebusite; and I will cut them off.",
+    "reference": "Exodus 23:23 (BLB)",
+    "connected_to": "Exodus 23:24",
+    "connected_from": "Exodus 23:22"
+  },
+  {
+    "text": "You shall not bow down to their gods, and you shall not serve them, and you shall not do according to their works; for you must utterly demolish them and thoroughly break to pieces their pillars.",
+    "reference": "Exodus 23:24 (BLB)",
+    "connected_to": "Exodus 23:25",
+    "connected_from": "Exodus 23:23"
+  },
+  {
+    "text": "And you⁺ shall serve YHWH your⁺ God, and He will bless your bread and your water, and I will take away sickness from among you.",
+    "reference": "Exodus 23:25 (BLB)",
+    "connected_to": "Exodus 23:26",
+    "connected_from": "Exodus 23:24"
+  },
+  {
+    "text": "There will be no one miscarrying or barren in your land; the number of your days I will fulfill.",
+    "reference": "Exodus 23:26 (BLB)",
+    "connected_to": "Exodus 23:27",
+    "connected_from": "Exodus 23:25"
+  },
+  {
+    "text": "My terror I will send before your faces, and I will confuse all the people among whom you come in; and I will give the neck of all your enemies to you.",
+    "reference": "Exodus 23:27 (BLB)",
+    "connected_to": "Exodus 23:28",
+    "connected_from": "Exodus 23:26"
+  },
+  {
+    "text": "And I will send the hornet before your faces, and it shall drive out the Hivite, the Canaanite, and the Hittite from before your faces.",
+    "reference": "Exodus 23:28 (BLB)",
+    "connected_to": "Exodus 23:29",
+    "connected_from": "Exodus 23:27"
+  },
+  {
+    "text": "I will not drive them out from before your faces in one year, lest the land become desolate and the beast of the field become too numerous for you.",
+    "reference": "Exodus 23:29 (BLB)",
+    "connected_to": "Exodus 23:30",
+    "connected_from": "Exodus 23:28"
+  },
+  {
+    "text": "Little by little I will drive them out from before your faces, until that you are fruitful and you take possession of the land.",
+    "reference": "Exodus 23:30 (BLB)",
+    "connected_to": "Exodus 23:31",
+    "connected_from": "Exodus 23:29"
+  },
+  {
+    "text": "And I will set your border from the Red Sea and to the Sea of the Philistines, and from the wilderness to the River. For I will give into your⁺ hands those dwelling in the land, and you shall drive them out from before your faces.",
+    "reference": "Exodus 23:31 (BLB)",
+    "connected_to": "Exodus 23:32",
+    "connected_from": "Exodus 23:30"
+  },
+  {
+    "text": "You shall not cut a covenant with them or with their gods.",
+    "reference": "Exodus 23:32 (BLB)",
+    "connected_to": "Exodus 23:33",
+    "connected_from": "Exodus 23:31"
+  },
+  {
+    "text": "They shall not dwell in your land, lest they cause you to sin against Me. For [if] you serve their gods, it will surely be a snare to you.”",
+    "reference": "Exodus 23:33 (BLB)",
+    "connected_from": "Exodus 23:32"
+  }
+]

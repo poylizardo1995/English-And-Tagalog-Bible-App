@@ -1,0 +1,312 @@
+[
+  {
+    "text": "Now there were at Antioch, in the church that was there, prophets and teachers, Barnabas, and Symeon that was called Niger, and Lucius of Cyrene, and Manaen the foster-brother of Herod the tetrarch, and Saul.",
+    "reference": "Acts 13:1 (ERV)",
+    "connected_to": "Acts 13:2"
+  },
+  {
+    "text": "And as they ministered to the Lord, and fasted, the Holy Ghost said, Separate me Barnabas and Saul for the work whereunto I have called them.",
+    "reference": "Acts 13:2 (ERV)",
+    "connected_to": "Acts 13:3",
+    "connected_from": "Acts 13:1"
+  },
+  {
+    "text": "Then, when they had fasted and prayed and laid their hands on them, they sent them away.",
+    "reference": "Acts 13:3 (ERV)",
+    "connected_to": "Acts 13:4",
+    "connected_from": "Acts 13:2"
+  },
+  {
+    "text": "So they, being sent forth by the Holy Ghost, went down to Seleucia; and from thence they sailed to Cyprus.",
+    "reference": "Acts 13:4 (ERV)",
+    "connected_to": "Acts 13:5",
+    "connected_from": "Acts 13:3"
+  },
+  {
+    "text": "And when they were at Salamis, they proclaimed the word of God in the synagogues of the Jews: and they had also John as their attendant.",
+    "reference": "Acts 13:5 (ERV)",
+    "connected_to": "Acts 13:6",
+    "connected_from": "Acts 13:4"
+  },
+  {
+    "text": "And when they had gone through the whole island unto Paphos, they found a certain sorcerer, a false prophet, a Jew, whose name was Bar-Jesus;",
+    "reference": "Acts 13:6 (ERV)",
+    "connected_to": "Acts 13:7",
+    "connected_from": "Acts 13:5"
+  },
+  {
+    "text": "which was with the proconsul, Sergius Paulus, a man of understanding. The same called unto him Barnabas and Saul, and sought to hear the word of God.",
+    "reference": "Acts 13:7 (ERV)",
+    "connected_to": "Acts 13:8",
+    "connected_from": "Acts 13:6"
+  },
+  {
+    "text": "But Elymas the sorcerer (for so is his name by interpretation) withstood them, seeking to turn aside the proconsul from the faith.",
+    "reference": "Acts 13:8 (ERV)",
+    "connected_to": "Acts 13:9",
+    "connected_from": "Acts 13:7"
+  },
+  {
+    "text": "But Saul, who is also called Paul, filled with the Holy Ghost, fastened his eyes on him,",
+    "reference": "Acts 13:9 (ERV)",
+    "connected_to": "Acts 13:10",
+    "connected_from": "Acts 13:8"
+  },
+  {
+    "text": "and said, O full of all guile and all villany, thou son of the devil, thou enemy of all righteousness, wilt thou not cease to pervert the right ways of the Lord?",
+    "reference": "Acts 13:10 (ERV)",
+    "connected_to": "Acts 13:11",
+    "connected_from": "Acts 13:9"
+  },
+  {
+    "text": "And now, behold, the hand of the Lord is upon thee, and thou shalt be blind, not seeing the sun for a season. And immediately there fell on him a mist and a darkness; and he went about seeking some to lead him by the hand.",
+    "reference": "Acts 13:11 (ERV)",
+    "connected_to": "Acts 13:12",
+    "connected_from": "Acts 13:10"
+  },
+  {
+    "text": "Then the proconsul, when he saw what was done, believed, being astonished at the teaching of the Lord.",
+    "reference": "Acts 13:12 (ERV)",
+    "connected_to": "Acts 13:13",
+    "connected_from": "Acts 13:11"
+  },
+  {
+    "text": "Now Paul and his company set sail from Paphos, and came to Perga in Pamphylia: and John departed from them and returned to Jerusalem.",
+    "reference": "Acts 13:13 (ERV)",
+    "connected_to": "Acts 13:14",
+    "connected_from": "Acts 13:12"
+  },
+  {
+    "text": "But they, passing through from Perga, came to Antioch of Pisidia; and they went into the synagogue on the sabbath day, and sat down.",
+    "reference": "Acts 13:14 (ERV)",
+    "connected_to": "Acts 13:15",
+    "connected_from": "Acts 13:13"
+  },
+  {
+    "text": "And after the reading of the law and the prophets the rulers of the synagogue sent unto them, saying, Brethren, if ye have any word of exhortation for the people, say on.",
+    "reference": "Acts 13:15 (ERV)",
+    "connected_to": "Acts 13:16",
+    "connected_from": "Acts 13:14"
+  },
+  {
+    "text": "And Paul stood up, and beckoning with the hand said, Men of Israel, and ye that fear God, hearken.",
+    "reference": "Acts 13:16 (ERV)",
+    "connected_to": "Acts 13:17",
+    "connected_from": "Acts 13:15"
+  },
+  {
+    "text": "The God of this people Israel chose our fathers, and exalted the people when they sojourned in the land of Egypt, and with a high arm led he them forth out of it.",
+    "reference": "Acts 13:17 (ERV)",
+    "connected_to": "Acts 13:18",
+    "connected_from": "Acts 13:16"
+  },
+  {
+    "text": "And for about the time of forty years suffered he their manners in the wilderness.",
+    "reference": "Acts 13:18 (ERV)",
+    "connected_to": "Acts 13:19",
+    "connected_from": "Acts 13:17"
+  },
+  {
+    "text": "And when he had destroyed seven nations in the land of Canaan, he gave them their land for an inheritance, for about four hundred and fifty years:",
+    "reference": "Acts 13:19 (ERV)",
+    "connected_to": "Acts 13:20",
+    "connected_from": "Acts 13:18"
+  },
+  {
+    "text": "and after these things he gave them judges until Samuel the prophet.",
+    "reference": "Acts 13:20 (ERV)",
+    "connected_to": "Acts 13:21",
+    "connected_from": "Acts 13:19"
+  },
+  {
+    "text": "And afterward they asked for a king: and God gave unto them Saul the son of Kish, a man of the tribe of Benjamin, for the space of forty years.",
+    "reference": "Acts 13:21 (ERV)",
+    "connected_to": "Acts 13:22",
+    "connected_from": "Acts 13:20"
+  },
+  {
+    "text": "And when he had removed him, he raised up David to be their king; to whom also he bare witness, and said, I have found David the son of Jesse, a man after my heart, who shall do all my will.",
+    "reference": "Acts 13:22 (ERV)",
+    "connected_to": "Acts 13:23",
+    "connected_from": "Acts 13:21"
+  },
+  {
+    "text": "Of this man’s seed hath God according to promise brought unto Israel a Saviour, Jesus;",
+    "reference": "Acts 13:23 (ERV)",
+    "connected_to": "Acts 13:24",
+    "connected_from": "Acts 13:22"
+  },
+  {
+    "text": "when John had first preached before his coming the baptism of repentance to all the people of Israel.",
+    "reference": "Acts 13:24 (ERV)",
+    "connected_to": "Acts 13:25",
+    "connected_from": "Acts 13:23"
+  },
+  {
+    "text": "And as John was fulfilling his course, he said, What suppose ye that I am? I am not he. But behold, there cometh one after me, the shoes of whose feet I am not worthy to unloose.",
+    "reference": "Acts 13:25 (ERV)",
+    "connected_to": "Acts 13:26",
+    "connected_from": "Acts 13:24"
+  },
+  {
+    "text": "Brethren, children of the stock of Abraham, and those among you that fear God, to us is the word of this salvation sent forth.",
+    "reference": "Acts 13:26 (ERV)",
+    "connected_to": "Acts 13:27",
+    "connected_from": "Acts 13:25"
+  },
+  {
+    "text": "For they that dwell in Jerusalem, and their rulers, because they knew him not, nor the voices of the prophets which are read every sabbath, fulfilled them by condemning him.",
+    "reference": "Acts 13:27 (ERV)",
+    "connected_to": "Acts 13:28",
+    "connected_from": "Acts 13:26"
+  },
+  {
+    "text": "And though they found no cause of death in him, yet asked they of Pilate that he should be slain.",
+    "reference": "Acts 13:28 (ERV)",
+    "connected_to": "Acts 13:29",
+    "connected_from": "Acts 13:27"
+  },
+  {
+    "text": "And when they had fulfilled all things that were written of him, they took him down from the tree, and laid him in a tomb.",
+    "reference": "Acts 13:29 (ERV)",
+    "connected_to": "Acts 13:30",
+    "connected_from": "Acts 13:28"
+  },
+  {
+    "text": "But God raised him from the dead:",
+    "reference": "Acts 13:30 (ERV)",
+    "connected_to": "Acts 13:31",
+    "connected_from": "Acts 13:29"
+  },
+  {
+    "text": "and he was seen for many days of them that came up with him from Galilee to Jerusalem, who are now his witnesses unto the people.",
+    "reference": "Acts 13:31 (ERV)",
+    "connected_to": "Acts 13:32",
+    "connected_from": "Acts 13:30"
+  },
+  {
+    "text": "And we bring you good tidings of the promise made unto the fathers,",
+    "reference": "Acts 13:32 (ERV)",
+    "connected_to": "Acts 13:33",
+    "connected_from": "Acts 13:31"
+  },
+  {
+    "text": "how that God hath fulfilled the same unto our children, in that he raised up Jesus; as also it is written in the second psalm, Thou art my Son, this day have I begotten thee.",
+    "reference": "Acts 13:33 (ERV)",
+    "connected_to": "Acts 13:34",
+    "connected_from": "Acts 13:32"
+  },
+  {
+    "text": "And as concerning that he raised him up from the dead, now no more to return to corruption, he hath spoken on this wise, I will give you the holy and sure blessings of David.",
+    "reference": "Acts 13:34 (ERV)",
+    "connected_to": "Acts 13:35",
+    "connected_from": "Acts 13:33"
+  },
+  {
+    "text": "Because he saith also in another psalm, Thou wilt not give thy Holy One to see corruption.",
+    "reference": "Acts 13:35 (ERV)",
+    "connected_to": "Acts 13:36",
+    "connected_from": "Acts 13:34"
+  },
+  {
+    "text": "For David, after he had in his own generation served the counsel of God, fell on sleep, and was laid unto his fathers, and saw corruption:",
+    "reference": "Acts 13:36 (ERV)",
+    "connected_to": "Acts 13:37",
+    "connected_from": "Acts 13:35"
+  },
+  {
+    "text": "but he whom God raised up saw no corruption.",
+    "reference": "Acts 13:37 (ERV)",
+    "connected_to": "Acts 13:38",
+    "connected_from": "Acts 13:36"
+  },
+  {
+    "text": "Be it known unto you therefore, brethren, that through this man is proclaimed unto you remission of sins:",
+    "reference": "Acts 13:38 (ERV)",
+    "connected_to": "Acts 13:39",
+    "connected_from": "Acts 13:37"
+  },
+  {
+    "text": "and by him every one that believeth is justified from all things, from which ye could not be justified by the law of Moses.",
+    "reference": "Acts 13:39 (ERV)",
+    "connected_to": "Acts 13:40",
+    "connected_from": "Acts 13:38"
+  },
+  {
+    "text": "Beware therefore, lest that come upon you, which is spoken in the prophets;",
+    "reference": "Acts 13:40 (ERV)",
+    "connected_to": "Acts 13:41",
+    "connected_from": "Acts 13:39"
+  },
+  {
+    "text": "Behold, ye despisers, and wonder, and perish; For I work a work in your days, A work which ye shall in no wise believe, if one declare it unto you.",
+    "reference": "Acts 13:41 (ERV)",
+    "connected_to": "Acts 13:42",
+    "connected_from": "Acts 13:40"
+  },
+  {
+    "text": "And as they went out, they besought that these words might be spoken to them the next sabbath.",
+    "reference": "Acts 13:42 (ERV)",
+    "connected_to": "Acts 13:43",
+    "connected_from": "Acts 13:41"
+  },
+  {
+    "text": "Now when the synagogue broke up, many of the Jews and of the devout proselytes followed Paul and Barnabas: who, speaking to them, urged them to continue in the grace of God.",
+    "reference": "Acts 13:43 (ERV)",
+    "connected_to": "Acts 13:44",
+    "connected_from": "Acts 13:42"
+  },
+  {
+    "text": "And the next sabbath almost the whole city was gathered together to hear the word of God.",
+    "reference": "Acts 13:44 (ERV)",
+    "connected_to": "Acts 13:45",
+    "connected_from": "Acts 13:43"
+  },
+  {
+    "text": "But when the Jews saw the multitudes, they were filled with jealousy, and contradicted the things which were spoken by Paul, and blasphemed.",
+    "reference": "Acts 13:45 (ERV)",
+    "connected_to": "Acts 13:46",
+    "connected_from": "Acts 13:44"
+  },
+  {
+    "text": "And Paul and Barnabas spake out boldly, and said, It was necessary that the word of God should first be spoken to you. Seeing ye thrust it from you, and judge yourselves unworthy of eternal life, lo, we turn to the Gentiles.",
+    "reference": "Acts 13:46 (ERV)",
+    "connected_to": "Acts 13:47",
+    "connected_from": "Acts 13:45"
+  },
+  {
+    "text": "For so hath the Lord commanded us, saying, I have set thee for a light of the Gentiles, That thou shouldest be for salvation unto the uttermost part of the earth.",
+    "reference": "Acts 13:47 (ERV)",
+    "connected_to": "Acts 13:48",
+    "connected_from": "Acts 13:46"
+  },
+  {
+    "text": "And as the Gentiles heard this, they were glad, and glorified the word of God: and as many as were ordained to eternal life believed.",
+    "reference": "Acts 13:48 (ERV)",
+    "connected_to": "Acts 13:49",
+    "connected_from": "Acts 13:47"
+  },
+  {
+    "text": "And the word of the Lord was spread abroad throughout all the region.",
+    "reference": "Acts 13:49 (ERV)",
+    "connected_to": "Acts 13:50",
+    "connected_from": "Acts 13:48"
+  },
+  {
+    "text": "But the Jews urged on the devout women of honourable estate, and the chief men of the city, and stirred up a persecution against Paul and Barnabas, and cast them out of their borders.",
+    "reference": "Acts 13:50 (ERV)",
+    "connected_to": "Acts 13:51",
+    "connected_from": "Acts 13:49"
+  },
+  {
+    "text": "But they shook off the dust of their feet against them, and came unto Iconium.",
+    "reference": "Acts 13:51 (ERV)",
+    "connected_to": "Acts 13:52",
+    "connected_from": "Acts 13:50"
+  },
+  {
+    "text": "And the disciples were filled with joy and with the Holy Ghost.",
+    "reference": "Acts 13:52 (ERV)",
+    "connected_from": "Acts 13:51"
+  }
+]

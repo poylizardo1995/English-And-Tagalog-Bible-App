@@ -1,0 +1,96 @@
+[
+  {
+    "text": "And I, brethren, when I came unto you, came not with excellency of speech or of wisdom, proclaiming to you the testimony of God.",
+    "reference": "1 Corinthians 2:1 (ASV)",
+    "connected_to": "1 Corinthians 2:2"
+  },
+  {
+    "text": "For I determined not to know anything among you, save Jesus Christ, and him crucified.",
+    "reference": "1 Corinthians 2:2 (ASV)",
+    "connected_to": "1 Corinthians 2:3",
+    "connected_from": "1 Corinthians 2:1"
+  },
+  {
+    "text": "And I was with you in weakness, and in fear, and in much trembling.",
+    "reference": "1 Corinthians 2:3 (ASV)",
+    "connected_to": "1 Corinthians 2:4",
+    "connected_from": "1 Corinthians 2:2"
+  },
+  {
+    "text": "And my speech and my preaching were not in persuasive words of wisdom, but in demonstration of the Spirit and of power:",
+    "reference": "1 Corinthians 2:4 (ASV)",
+    "connected_to": "1 Corinthians 2:5",
+    "connected_from": "1 Corinthians 2:3"
+  },
+  {
+    "text": "that your faith should not stand in the wisdom of men, but in the power of God.",
+    "reference": "1 Corinthians 2:5 (ASV)",
+    "connected_to": "1 Corinthians 2:6",
+    "connected_from": "1 Corinthians 2:4"
+  },
+  {
+    "text": "We speak wisdom, however, among them that are fullgrown: yet a wisdom not of this world, nor of the rulers of this world, who are coming to nought:",
+    "reference": "1 Corinthians 2:6 (ASV)",
+    "connected_to": "1 Corinthians 2:7",
+    "connected_from": "1 Corinthians 2:5"
+  },
+  {
+    "text": "but we speak God’s wisdom in a mystery, even the wisdom that hath been hidden, which God foreordained before the worlds unto our glory:",
+    "reference": "1 Corinthians 2:7 (ASV)",
+    "connected_to": "1 Corinthians 2:8",
+    "connected_from": "1 Corinthians 2:6"
+  },
+  {
+    "text": "which none of the rulers of this world hath known: for had they known it, they would not have crucified the Lord of glory:",
+    "reference": "1 Corinthians 2:8 (ASV)",
+    "connected_to": "1 Corinthians 2:9",
+    "connected_from": "1 Corinthians 2:7"
+  },
+  {
+    "text": "but as it is written, Things which eye saw not, and ear heard not, And which entered not into the heart of man, Whatsoever things God prepared for them that love him.",
+    "reference": "1 Corinthians 2:9 (ASV)",
+    "connected_to": "1 Corinthians 2:10",
+    "connected_from": "1 Corinthians 2:8"
+  },
+  {
+    "text": "But unto us God revealed them through the Spirit: for the Spirit searcheth all things, yea, the deep things of God.",
+    "reference": "1 Corinthians 2:10 (ASV)",
+    "connected_to": "1 Corinthians 2:11",
+    "connected_from": "1 Corinthians 2:9"
+  },
+  {
+    "text": "For who among men knoweth the things of a man, save the spirit of the man, which is in him? even so the things of God none knoweth, save the Spirit of God.",
+    "reference": "1 Corinthians 2:11 (ASV)",
+    "connected_to": "1 Corinthians 2:12",
+    "connected_from": "1 Corinthians 2:10"
+  },
+  {
+    "text": "But we received, not the spirit of the world, but the spirit which is from God; that we might know the things that were freely given to us of God.",
+    "reference": "1 Corinthians 2:12 (ASV)",
+    "connected_to": "1 Corinthians 2:13",
+    "connected_from": "1 Corinthians 2:11"
+  },
+  {
+    "text": "Which things also we speak, not in words which man’s wisdom teacheth, but which the Spirit teacheth; combining spiritual things with spiritual words.",
+    "reference": "1 Corinthians 2:13 (ASV)",
+    "connected_to": "1 Corinthians 2:14",
+    "connected_from": "1 Corinthians 2:12"
+  },
+  {
+    "text": "Now the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him; and he cannot know them, because they are spiritually judged.",
+    "reference": "1 Corinthians 2:14 (ASV)",
+    "connected_to": "1 Corinthians 2:15",
+    "connected_from": "1 Corinthians 2:13"
+  },
+  {
+    "text": "But he that is spiritual judgeth all things, and he himself is judged of no man.",
+    "reference": "1 Corinthians 2:15 (ASV)",
+    "connected_to": "1 Corinthians 2:16",
+    "connected_from": "1 Corinthians 2:14"
+  },
+  {
+    "text": "For who hath known the mind of the Lord, that he should instruct him? But we have the mind of Christ.",
+    "reference": "1 Corinthians 2:16 (ASV)",
+    "connected_from": "1 Corinthians 2:15"
+  }
+]

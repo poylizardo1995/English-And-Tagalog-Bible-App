@@ -1,0 +1,48 @@
+[
+  {
+    "text": "{A Song of degrees.} Out of the depths do I call upon thee, Jehovah.",
+    "reference": "Psalm 130:1 (DBT)",
+    "connected_to": "Psalm 130:2"
+  },
+  {
+    "text": "Lord, hear my voice; let thine ears be attentive to the voice of my supplication.",
+    "reference": "Psalm 130:2 (DBT)",
+    "connected_to": "Psalm 130:3",
+    "connected_from": "Psalm 130:1"
+  },
+  {
+    "text": "If thou, Jah, shouldest mark iniquities, Lord, who shall stand?",
+    "reference": "Psalm 130:3 (DBT)",
+    "connected_to": "Psalm 130:4",
+    "connected_from": "Psalm 130:2"
+  },
+  {
+    "text": "But there is forgiveness with thee, that thou mayest be feared.",
+    "reference": "Psalm 130:4 (DBT)",
+    "connected_to": "Psalm 130:5",
+    "connected_from": "Psalm 130:3"
+  },
+  {
+    "text": "I wait for Jehovah; my soul doth wait, and in his word do I hope.",
+    "reference": "Psalm 130:5 (DBT)",
+    "connected_to": "Psalm 130:6",
+    "connected_from": "Psalm 130:4"
+  },
+  {
+    "text": "My soul [waiteth] for the Lord more than the watchers [wait] for the morning, [more than] the watchers for the morning.",
+    "reference": "Psalm 130:6 (DBT)",
+    "connected_to": "Psalm 130:7",
+    "connected_from": "Psalm 130:5"
+  },
+  {
+    "text": "Let Israel hope in Jehovah, because with Jehovah there is loving-kindness, and with him is plenteous redemption;",
+    "reference": "Psalm 130:7 (DBT)",
+    "connected_to": "Psalm 130:8",
+    "connected_from": "Psalm 130:6"
+  },
+  {
+    "text": "And he will redeem Israel from all his iniquities.",
+    "reference": "Psalm 130:8 (DBT)",
+    "connected_from": "Psalm 130:7"
+  }
+]

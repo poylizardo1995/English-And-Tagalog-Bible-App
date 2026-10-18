@@ -1,0 +1,36 @@
+[
+  {
+    "text": "And you will say in that day, “I will praise You, O YHWH! Though You were angry with me, Your nose has turned away, and You have comforted me.",
+    "reference": "Isaiah 12:1 (BLB)",
+    "connected_to": "Isaiah 12:2"
+  },
+  {
+    "text": "Behold, God [is] my salvation; I will trust and not be afraid, for my strength and song [is] YAH—YHWH, and He has become for me salvation.”",
+    "reference": "Isaiah 12:2 (BLB)",
+    "connected_to": "Isaiah 12:3",
+    "connected_from": "Isaiah 12:1"
+  },
+  {
+    "text": "And you⁺ will draw water with joy from the springs of salvation.",
+    "reference": "Isaiah 12:3 (BLB)",
+    "connected_to": "Isaiah 12:4",
+    "connected_from": "Isaiah 12:2"
+  },
+  {
+    "text": "And you⁺ will say in that day: “Give praise to YHWH; call on His name! Declare among the peoples His deeds; cause it to be remembered that His Name is exalted.",
+    "reference": "Isaiah 12:4 (BLB)",
+    "connected_to": "Isaiah 12:5",
+    "connected_from": "Isaiah 12:3"
+  },
+  {
+    "text": "Sing to YHWH, for He has done magnificent [things]; let this be known in all the earth.",
+    "reference": "Isaiah 12:5 (BLB)",
+    "connected_to": "Isaiah 12:6",
+    "connected_from": "Isaiah 12:4"
+  },
+  {
+    "text": "Cry out and ring out, O dweller of Zion, for great among you [is] the Holy One of Israel.”",
+    "reference": "Isaiah 12:6 (BLB)",
+    "connected_from": "Isaiah 12:5"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "text": "Man, that is born of a woman, Is of few days, and full of trouble.",
+    "reference": "Job 14:1 (ASV)",
+    "connected_to": "Job 14:2"
+  },
+  {
+    "text": "He cometh forth like a flower, and is cut down: He fleeth also as a shadow, and continueth not.",
+    "reference": "Job 14:2 (ASV)",
+    "connected_to": "Job 14:3",
+    "connected_from": "Job 14:1"
+  },
+  {
+    "text": "And dost thou open thine eyes upon such a one, And bringest me into judgment with thee?",
+    "reference": "Job 14:3 (ASV)",
+    "connected_to": "Job 14:4",
+    "connected_from": "Job 14:2"
+  },
+  {
+    "text": "Who can bring a clean thing out of an unclean? not one.",
+    "reference": "Job 14:4 (ASV)",
+    "connected_to": "Job 14:5",
+    "connected_from": "Job 14:3"
+  },
+  {
+    "text": "Seeing his days are determined, The number of his months is with thee, And thou hast appointed his bounds that he cannot pass;",
+    "reference": "Job 14:5 (ASV)",
+    "connected_to": "Job 14:6",
+    "connected_from": "Job 14:4"
+  },
+  {
+    "text": "Look away from him, that he may rest, Till he shall accomplish, as a hireling, his day.",
+    "reference": "Job 14:6 (ASV)",
+    "connected_to": "Job 14:7",
+    "connected_from": "Job 14:5"
+  },
+  {
+    "text": "For there is hope of a tree, If it be cut down, that it will sprout again, And that the tender branch thereof will not cease.",
+    "reference": "Job 14:7 (ASV)",
+    "connected_to": "Job 14:8",
+    "connected_from": "Job 14:6"
+  },
+  {
+    "text": "Though the root thereof wax old in the earth, And the stock thereof die in the ground;",
+    "reference": "Job 14:8 (ASV)",
+    "connected_to": "Job 14:9",
+    "connected_from": "Job 14:7"
+  },
+  {
+    "text": "Yet through the scent of water it will bud, And put forth boughs like a plant.",
+    "reference": "Job 14:9 (ASV)",
+    "connected_to": "Job 14:10",
+    "connected_from": "Job 14:8"
+  },
+  {
+    "text": "But man dieth, and is laid low: Yea, man giveth up the ghost, and where is he?",
+    "reference": "Job 14:10 (ASV)",
+    "connected_to": "Job 14:11",
+    "connected_from": "Job 14:9"
+  },
+  {
+    "text": "As the waters fail from the sea, And the river wasteth and drieth up;",
+    "reference": "Job 14:11 (ASV)",
+    "connected_to": "Job 14:12",
+    "connected_from": "Job 14:10"
+  },
+  {
+    "text": "So man lieth down and riseth not: Till the heavens be no more, they shall not awake, Nor be roused out of their sleep.",
+    "reference": "Job 14:12 (ASV)",
+    "connected_to": "Job 14:13",
+    "connected_from": "Job 14:11"
+  },
+  {
+    "text": "Oh that thou wouldest hide me in Sheol, That thou wouldest keep me secret, until thy wrath be past, That thou wouldest appoint me a set time, and remember me!",
+    "reference": "Job 14:13 (ASV)",
+    "connected_to": "Job 14:14",
+    "connected_from": "Job 14:12"
+  },
+  {
+    "text": "If a man die, shall he live again? All the days of my warfare would I wait, Till my release should come.",
+    "reference": "Job 14:14 (ASV)",
+    "connected_to": "Job 14:15",
+    "connected_from": "Job 14:13"
+  },
+  {
+    "text": "Thou wouldest call, and I would answer thee: Thou wouldest have a desire to the work of thy hands.",
+    "reference": "Job 14:15 (ASV)",
+    "connected_to": "Job 14:16",
+    "connected_from": "Job 14:14"
+  },
+  {
+    "text": "But now thou numberest my steps: Dost thou not watch over my sin?",
+    "reference": "Job 14:16 (ASV)",
+    "connected_to": "Job 14:17",
+    "connected_from": "Job 14:15"
+  },
+  {
+    "text": "My transgression is sealed up in a bag, And thou fastenest up mine iniquity.",
+    "reference": "Job 14:17 (ASV)",
+    "connected_to": "Job 14:18",
+    "connected_from": "Job 14:16"
+  },
+  {
+    "text": "But the mountain falling cometh to nought; And the rock is removed out of its place;",
+    "reference": "Job 14:18 (ASV)",
+    "connected_to": "Job 14:19",
+    "connected_from": "Job 14:17"
+  },
+  {
+    "text": "The waters wear the stones; The overflowings thereof wash away the dust of the earth: So thou destroyest the hope of man.",
+    "reference": "Job 14:19 (ASV)",
+    "connected_to": "Job 14:20",
+    "connected_from": "Job 14:18"
+  },
+  {
+    "text": "Thou prevailest for ever against him, and he passeth; Thou changest his countenance, and sendest him away.",
+    "reference": "Job 14:20 (ASV)",
+    "connected_to": "Job 14:21",
+    "connected_from": "Job 14:19"
+  },
+  {
+    "text": "His sons come to honor, and he knoweth it not; And they are brought low, but he perceiveth it not of them.",
+    "reference": "Job 14:21 (ASV)",
+    "connected_to": "Job 14:22",
+    "connected_from": "Job 14:20"
+  },
+  {
+    "text": "But his flesh upon him hath pain, And his soul within him mourneth.",
+    "reference": "Job 14:22 (ASV)",
+    "connected_from": "Job 14:21"
+  }
+]

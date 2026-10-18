@@ -1,0 +1,144 @@
+[
+  {
+    "text": "For the choirmaster. A Psalm of David. In You, O LORD, I have taken refuge; let me never be put to shame; save me by Your righteousness.",
+    "reference": "Psalm 31:1 (BSB)",
+    "connected_to": "Psalm 31:2"
+  },
+  {
+    "text": "Incline Your ear to me; come quickly to my rescue. Be my rock of refuge, the stronghold of my deliverance.",
+    "reference": "Psalm 31:2 (BSB)",
+    "connected_to": "Psalm 31:3",
+    "connected_from": "Psalm 31:1"
+  },
+  {
+    "text": "For You are my rock and my fortress; lead me and guide me for the sake of Your name.",
+    "reference": "Psalm 31:3 (BSB)",
+    "connected_to": "Psalm 31:4",
+    "connected_from": "Psalm 31:2"
+  },
+  {
+    "text": "You free me from the net laid out for me, for You are my refuge.",
+    "reference": "Psalm 31:4 (BSB)",
+    "connected_to": "Psalm 31:5",
+    "connected_from": "Psalm 31:3"
+  },
+  {
+    "text": "Into Your hands I commit my spirit; You have redeemed me, O LORD, God of truth.",
+    "reference": "Psalm 31:5 (BSB)",
+    "connected_to": "Psalm 31:6",
+    "connected_from": "Psalm 31:4"
+  },
+  {
+    "text": "I hate those who cling to worthless idols, but in the LORD I trust.",
+    "reference": "Psalm 31:6 (BSB)",
+    "connected_to": "Psalm 31:7",
+    "connected_from": "Psalm 31:5"
+  },
+  {
+    "text": "I will be glad and rejoice in Your loving devotion, for You have seen my affliction; You have known the anguish of my soul.",
+    "reference": "Psalm 31:7 (BSB)",
+    "connected_to": "Psalm 31:8",
+    "connected_from": "Psalm 31:6"
+  },
+  {
+    "text": "You have not delivered me to the enemy; You have set my feet in the open.",
+    "reference": "Psalm 31:8 (BSB)",
+    "connected_to": "Psalm 31:9",
+    "connected_from": "Psalm 31:7"
+  },
+  {
+    "text": "Be merciful to me, O LORD, for I am in distress; my eyes fail from sorrow, my soul and body as well.",
+    "reference": "Psalm 31:9 (BSB)",
+    "connected_to": "Psalm 31:10",
+    "connected_from": "Psalm 31:8"
+  },
+  {
+    "text": "For my life is consumed with grief and my years with groaning; my iniquity has drained my strength, and my bones are wasting away.",
+    "reference": "Psalm 31:10 (BSB)",
+    "connected_to": "Psalm 31:11",
+    "connected_from": "Psalm 31:9"
+  },
+  {
+    "text": "Among all my enemies I am a disgrace, and among my neighbors even more. I am dreaded by my friends—they flee when they see me on the street.",
+    "reference": "Psalm 31:11 (BSB)",
+    "connected_to": "Psalm 31:12",
+    "connected_from": "Psalm 31:10"
+  },
+  {
+    "text": "I am forgotten like a dead man, out of mind. I am like a broken vessel.",
+    "reference": "Psalm 31:12 (BSB)",
+    "connected_to": "Psalm 31:13",
+    "connected_from": "Psalm 31:11"
+  },
+  {
+    "text": "For I hear the slander of many; there is terror on every side. They conspire against me and plot to take my life.",
+    "reference": "Psalm 31:13 (BSB)",
+    "connected_to": "Psalm 31:14",
+    "connected_from": "Psalm 31:12"
+  },
+  {
+    "text": "But I trust in You, O LORD; I say, “You are my God.”",
+    "reference": "Psalm 31:14 (BSB)",
+    "connected_to": "Psalm 31:15",
+    "connected_from": "Psalm 31:13"
+  },
+  {
+    "text": "My times are in Your hands; deliver me from my enemies and from those who pursue me.",
+    "reference": "Psalm 31:15 (BSB)",
+    "connected_to": "Psalm 31:16",
+    "connected_from": "Psalm 31:14"
+  },
+  {
+    "text": "Make Your face shine on Your servant; save me by Your loving devotion.",
+    "reference": "Psalm 31:16 (BSB)",
+    "connected_to": "Psalm 31:17",
+    "connected_from": "Psalm 31:15"
+  },
+  {
+    "text": "O LORD, let me not be ashamed, for I have called on You. Let the wicked be put to shame; let them lie silent in Sheol.",
+    "reference": "Psalm 31:17 (BSB)",
+    "connected_to": "Psalm 31:18",
+    "connected_from": "Psalm 31:16"
+  },
+  {
+    "text": "May lying lips be silenced—lips that speak with arrogance against the righteous, full of pride and contempt.",
+    "reference": "Psalm 31:18 (BSB)",
+    "connected_to": "Psalm 31:19",
+    "connected_from": "Psalm 31:17"
+  },
+  {
+    "text": "How great is Your goodness which You have laid up for those who fear You, which You have bestowed before the sons of men on those who take refuge in You!",
+    "reference": "Psalm 31:19 (BSB)",
+    "connected_to": "Psalm 31:20",
+    "connected_from": "Psalm 31:18"
+  },
+  {
+    "text": "You hide them in the secret place of Your presence from the schemes of men. You conceal them in Your shelter from accusing tongues.",
+    "reference": "Psalm 31:20 (BSB)",
+    "connected_to": "Psalm 31:21",
+    "connected_from": "Psalm 31:19"
+  },
+  {
+    "text": "Blessed be the LORD, for He has shown me His loving devotion in a city under siege.",
+    "reference": "Psalm 31:21 (BSB)",
+    "connected_to": "Psalm 31:22",
+    "connected_from": "Psalm 31:20"
+  },
+  {
+    "text": "In my alarm I said, “I am cut off from Your sight!” But You heard my plea for mercy when I called to You for help.",
+    "reference": "Psalm 31:22 (BSB)",
+    "connected_to": "Psalm 31:23",
+    "connected_from": "Psalm 31:21"
+  },
+  {
+    "text": "Love the LORD, all His saints. The LORD preserves the faithful, but fully repays the arrogant.",
+    "reference": "Psalm 31:23 (BSB)",
+    "connected_to": "Psalm 31:24",
+    "connected_from": "Psalm 31:22"
+  },
+  {
+    "text": "Be strong and courageous, all you who hope in the LORD.",
+    "reference": "Psalm 31:24 (BSB)",
+    "connected_from": "Psalm 31:23"
+  }
+]

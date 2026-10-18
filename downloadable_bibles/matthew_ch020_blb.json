@@ -1,0 +1,204 @@
+[
+  {
+    "text": "“For the kingdom of the heavens is like a man, a master of a house, who went out in the morning to hire workmen for his vineyard.",
+    "reference": "Matthew 20:1 (BLB)",
+    "connected_to": "Matthew 20:2"
+  },
+  {
+    "text": "And having agreed with the workmen for a denarius a day, he sent them into his vineyard.",
+    "reference": "Matthew 20:2 (BLB)",
+    "connected_to": "Matthew 20:3",
+    "connected_from": "Matthew 20:1"
+  },
+  {
+    "text": "And having gone out about the third hour, he saw others standing in the marketplace idle.",
+    "reference": "Matthew 20:3 (BLB)",
+    "connected_to": "Matthew 20:4",
+    "connected_from": "Matthew 20:2"
+  },
+  {
+    "text": "And to those ones he said, ‘You⁺ also go into the vineyard, and I will give you⁺ whatever may be right.’",
+    "reference": "Matthew 20:4 (BLB)",
+    "connected_to": "Matthew 20:5",
+    "connected_from": "Matthew 20:3"
+  },
+  {
+    "text": "And they went away. And having gone out again about the sixth and ninth hour, he did likewise.",
+    "reference": "Matthew 20:5 (BLB)",
+    "connected_to": "Matthew 20:6",
+    "connected_from": "Matthew 20:4"
+  },
+  {
+    "text": "And about the eleventh, having gone out, he found others standing, and he says to them, ‘Why do you⁺ stand here all the day idle?’",
+    "reference": "Matthew 20:6 (BLB)",
+    "connected_to": "Matthew 20:7",
+    "connected_from": "Matthew 20:5"
+  },
+  {
+    "text": "They say to him, ‘Because no one hired us.’ He says to them, ‘You⁺ also go into the vineyard.’",
+    "reference": "Matthew 20:7 (BLB)",
+    "connected_to": "Matthew 20:8",
+    "connected_from": "Matthew 20:6"
+  },
+  {
+    "text": "And evening having come, the master of the vineyard says to his foreman, ‘Call the workmen and pay them the wages, having begun from the last, up to the first.’",
+    "reference": "Matthew 20:8 (BLB)",
+    "connected_to": "Matthew 20:9",
+    "connected_from": "Matthew 20:7"
+  },
+  {
+    "text": "And having come, the ones of about the eleventh hour each received a denarius.",
+    "reference": "Matthew 20:9 (BLB)",
+    "connected_to": "Matthew 20:10",
+    "connected_from": "Matthew 20:8"
+  },
+  {
+    "text": "And having come, the first thought that they will receive more. But they themselves also received each a denarius.",
+    "reference": "Matthew 20:10 (BLB)",
+    "connected_to": "Matthew 20:11",
+    "connected_from": "Matthew 20:9"
+  },
+  {
+    "text": "And having received [it], they were grumbling against the master of the house,",
+    "reference": "Matthew 20:11 (BLB)",
+    "connected_to": "Matthew 20:12",
+    "connected_from": "Matthew 20:10"
+  },
+  {
+    "text": "saying, ‘These, the last, worked one hour, and you made them equal to us, the ones having borne the burden of the day and the scorching heat.’",
+    "reference": "Matthew 20:12 (BLB)",
+    "connected_to": "Matthew 20:13",
+    "connected_from": "Matthew 20:11"
+  },
+  {
+    "text": "And answering one of them, he said, ‘Friend, I am doing you no wrong. Did you not agree with me on a denarius?",
+    "reference": "Matthew 20:13 (BLB)",
+    "connected_to": "Matthew 20:14",
+    "connected_from": "Matthew 20:12"
+  },
+  {
+    "text": "Take what [is] yours and go. But I want to give to this last one as to you also.",
+    "reference": "Matthew 20:14 (BLB)",
+    "connected_to": "Matthew 20:15",
+    "connected_from": "Matthew 20:13"
+  },
+  {
+    "text": "Or is it not lawful for me to do what I want with what [is] mine? Or is your eye evil because I am good?’",
+    "reference": "Matthew 20:15 (BLB)",
+    "connected_to": "Matthew 20:16",
+    "connected_from": "Matthew 20:14"
+  },
+  {
+    "text": "Thus the last will be first, and the first, last.”",
+    "reference": "Matthew 20:16 (BLB)",
+    "connected_to": "Matthew 20:17",
+    "connected_from": "Matthew 20:15"
+  },
+  {
+    "text": "And Jesus, going up to Jerusalem, took aside the twelve disciples by themselves, and on the way He said to them,",
+    "reference": "Matthew 20:17 (BLB)",
+    "connected_to": "Matthew 20:18",
+    "connected_from": "Matthew 20:16"
+  },
+  {
+    "text": "“Behold, we are going up to Jerusalem, and the Son of Man will be betrayed to the chief priests and scribes, and they will condemn Him to death.",
+    "reference": "Matthew 20:18 (BLB)",
+    "connected_to": "Matthew 20:19",
+    "connected_from": "Matthew 20:17"
+  },
+  {
+    "text": "And they will betray Him to the Gentiles to mock and to flog and to crucify, and on the third day He will be raised up.”",
+    "reference": "Matthew 20:19 (BLB)",
+    "connected_to": "Matthew 20:20",
+    "connected_from": "Matthew 20:18"
+  },
+  {
+    "text": "Then the mother of the sons of Zebedee came to Him with her sons, kneeling down and asking something from Him.",
+    "reference": "Matthew 20:20 (BLB)",
+    "connected_to": "Matthew 20:21",
+    "connected_from": "Matthew 20:19"
+  },
+  {
+    "text": "And He said to her, “What do you want?” She says to Him, “Say that these two sons of mine shall sit, one at Your right hand and one at Your left hand, in Your kingdom.”",
+    "reference": "Matthew 20:21 (BLB)",
+    "connected_to": "Matthew 20:22",
+    "connected_from": "Matthew 20:20"
+  },
+  {
+    "text": "And answering, Jesus said, “You⁺ do not know what you⁺ are asking. Are you⁺ able to drink the cup that I am about to drink?” They say to Him, “We are able.”",
+    "reference": "Matthew 20:22 (BLB)",
+    "connected_to": "Matthew 20:23",
+    "connected_from": "Matthew 20:21"
+  },
+  {
+    "text": "He says to them, “Indeed you⁺ will drink My cup, but to sit at My right hand and at [My] left, this is not Mine to give, but [to] [those] for whom it has been prepared by My Father.”",
+    "reference": "Matthew 20:23 (BLB)",
+    "connected_to": "Matthew 20:24",
+    "connected_from": "Matthew 20:22"
+  },
+  {
+    "text": "And having heard, the ten were indignant about the two brothers.",
+    "reference": "Matthew 20:24 (BLB)",
+    "connected_to": "Matthew 20:25",
+    "connected_from": "Matthew 20:23"
+  },
+  {
+    "text": "But Jesus, having summoned them, said, “You⁺ know that the rulers of the Gentiles exercise lordship over them, and the great ones exercise authority over them.",
+    "reference": "Matthew 20:25 (BLB)",
+    "connected_to": "Matthew 20:26",
+    "connected_from": "Matthew 20:24"
+  },
+  {
+    "text": "It will not be this way among you⁺. But whoever may want to become great among you⁺, he will be your⁺ servant;",
+    "reference": "Matthew 20:26 (BLB)",
+    "connected_to": "Matthew 20:27",
+    "connected_from": "Matthew 20:25"
+  },
+  {
+    "text": "and whoever may want to be first among you⁺, he will be your⁺ slave—",
+    "reference": "Matthew 20:27 (BLB)",
+    "connected_to": "Matthew 20:28",
+    "connected_from": "Matthew 20:26"
+  },
+  {
+    "text": "even as the Son of Man did not come to be served, but to serve, and to give His life [as] a ransom for many.”",
+    "reference": "Matthew 20:28 (BLB)",
+    "connected_to": "Matthew 20:29",
+    "connected_from": "Matthew 20:27"
+  },
+  {
+    "text": "And [in] their going out from Jericho, a great crowd followed Him.",
+    "reference": "Matthew 20:29 (BLB)",
+    "connected_to": "Matthew 20:30",
+    "connected_from": "Matthew 20:28"
+  },
+  {
+    "text": "And behold, two blind [men] sitting beside the road, having heard that Jesus is passing by, cried out, saying, “Lord, have mercy on us, Son of David!”",
+    "reference": "Matthew 20:30 (BLB)",
+    "connected_to": "Matthew 20:31",
+    "connected_from": "Matthew 20:29"
+  },
+  {
+    "text": "And the crowd rebuked them, that they should be silent. But they cried out all the more, saying, “Lord, have mercy on us, Son of David!”",
+    "reference": "Matthew 20:31 (BLB)",
+    "connected_to": "Matthew 20:32",
+    "connected_from": "Matthew 20:30"
+  },
+  {
+    "text": "And having stood, Jesus called them and said, “What do you⁺ want [that] I may do for you⁺?”",
+    "reference": "Matthew 20:32 (BLB)",
+    "connected_to": "Matthew 20:33",
+    "connected_from": "Matthew 20:31"
+  },
+  {
+    "text": "They say to Him, “Lord, that our eyes may be opened.”",
+    "reference": "Matthew 20:33 (BLB)",
+    "connected_to": "Matthew 20:34",
+    "connected_from": "Matthew 20:32"
+  },
+  {
+    "text": "And having been moved with compassion, Jesus touched their eyes, and immediately they received their sight, and they followed Him.",
+    "reference": "Matthew 20:34 (BLB)",
+    "connected_from": "Matthew 20:33"
+  }
+]

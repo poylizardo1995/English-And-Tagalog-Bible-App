@@ -1,0 +1,132 @@
+[
+  {
+    "text": "Remember, O LORD, what is come on us: consider, and behold our reproach.",
+    "reference": "Lamentations 5:1 (AKJV)",
+    "connected_to": "Lamentations 5:2"
+  },
+  {
+    "text": "Our inheritance is turned to strangers, our houses to aliens.",
+    "reference": "Lamentations 5:2 (AKJV)",
+    "connected_to": "Lamentations 5:3",
+    "connected_from": "Lamentations 5:1"
+  },
+  {
+    "text": "We are orphans and fatherless, our mothers are as widows.",
+    "reference": "Lamentations 5:3 (AKJV)",
+    "connected_to": "Lamentations 5:4",
+    "connected_from": "Lamentations 5:2"
+  },
+  {
+    "text": "We have drunken our water for money; our wood is sold to us.",
+    "reference": "Lamentations 5:4 (AKJV)",
+    "connected_to": "Lamentations 5:5",
+    "connected_from": "Lamentations 5:3"
+  },
+  {
+    "text": "Our necks are under persecution: we labor, and have no rest.",
+    "reference": "Lamentations 5:5 (AKJV)",
+    "connected_to": "Lamentations 5:6",
+    "connected_from": "Lamentations 5:4"
+  },
+  {
+    "text": "We have given the hand to the Egyptians, and to the Assyrians, to be satisfied with bread.",
+    "reference": "Lamentations 5:6 (AKJV)",
+    "connected_to": "Lamentations 5:7",
+    "connected_from": "Lamentations 5:5"
+  },
+  {
+    "text": "Our fathers have sinned, and are not; and we have borne their iniquities.",
+    "reference": "Lamentations 5:7 (AKJV)",
+    "connected_to": "Lamentations 5:8",
+    "connected_from": "Lamentations 5:6"
+  },
+  {
+    "text": "Servants have ruled over us: there is none that does deliver us out of their hand.",
+    "reference": "Lamentations 5:8 (AKJV)",
+    "connected_to": "Lamentations 5:9",
+    "connected_from": "Lamentations 5:7"
+  },
+  {
+    "text": "We got our bread with the peril of our lives because of the sword of the wilderness.",
+    "reference": "Lamentations 5:9 (AKJV)",
+    "connected_to": "Lamentations 5:10",
+    "connected_from": "Lamentations 5:8"
+  },
+  {
+    "text": "Our skin was black like an oven because of the terrible famine.",
+    "reference": "Lamentations 5:10 (AKJV)",
+    "connected_to": "Lamentations 5:11",
+    "connected_from": "Lamentations 5:9"
+  },
+  {
+    "text": "They ravished the women in Zion, and the maids in the cities of Judah.",
+    "reference": "Lamentations 5:11 (AKJV)",
+    "connected_to": "Lamentations 5:12",
+    "connected_from": "Lamentations 5:10"
+  },
+  {
+    "text": "Princes are hanged up by their hand: the faces of elders were not honored.",
+    "reference": "Lamentations 5:12 (AKJV)",
+    "connected_to": "Lamentations 5:13",
+    "connected_from": "Lamentations 5:11"
+  },
+  {
+    "text": "They took the young men to grind, and the children fell under the wood.",
+    "reference": "Lamentations 5:13 (AKJV)",
+    "connected_to": "Lamentations 5:14",
+    "connected_from": "Lamentations 5:12"
+  },
+  {
+    "text": "The elders have ceased from the gate, the young men from their music.",
+    "reference": "Lamentations 5:14 (AKJV)",
+    "connected_to": "Lamentations 5:15",
+    "connected_from": "Lamentations 5:13"
+  },
+  {
+    "text": "The joy of our heart is ceased; our dance is turned into mourning.",
+    "reference": "Lamentations 5:15 (AKJV)",
+    "connected_to": "Lamentations 5:16",
+    "connected_from": "Lamentations 5:14"
+  },
+  {
+    "text": "The crown is fallen from our head: woe to us, that we have sinned!",
+    "reference": "Lamentations 5:16 (AKJV)",
+    "connected_to": "Lamentations 5:17",
+    "connected_from": "Lamentations 5:15"
+  },
+  {
+    "text": "For this our heart is faint; for these things our eyes are dim.",
+    "reference": "Lamentations 5:17 (AKJV)",
+    "connected_to": "Lamentations 5:18",
+    "connected_from": "Lamentations 5:16"
+  },
+  {
+    "text": "Because of the mountain of Zion, which is desolate, the foxes walk on it.",
+    "reference": "Lamentations 5:18 (AKJV)",
+    "connected_to": "Lamentations 5:19",
+    "connected_from": "Lamentations 5:17"
+  },
+  {
+    "text": "You, O LORD, remain for ever; your throne from generation to generation.",
+    "reference": "Lamentations 5:19 (AKJV)",
+    "connected_to": "Lamentations 5:20",
+    "connected_from": "Lamentations 5:18"
+  },
+  {
+    "text": "Why do you forget us for ever, and forsake us so long time?",
+    "reference": "Lamentations 5:20 (AKJV)",
+    "connected_to": "Lamentations 5:21",
+    "connected_from": "Lamentations 5:19"
+  },
+  {
+    "text": "Turn you us to you, O LORD, and we shall be turned; renew our days as of old.",
+    "reference": "Lamentations 5:21 (AKJV)",
+    "connected_to": "Lamentations 5:22",
+    "connected_from": "Lamentations 5:20"
+  },
+  {
+    "text": "But you have utterly rejected us; you are very wroth against us.",
+    "reference": "Lamentations 5:22 (AKJV)",
+    "connected_from": "Lamentations 5:21"
+  }
+]

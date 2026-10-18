@@ -1,0 +1,54 @@
+[
+  {
+    "text": "A Psalm of David himself. Sing to the Lord a new song, for he has performed wonders. His right hand has accomplished salvation for him, with his holy arm.",
+    "reference": "Psalm 98:1 (CPDV)",
+    "connected_to": "Psalm 98:2"
+  },
+  {
+    "text": "The Lord has made known his salvation. He has revealed his justice in the sight of the nations.",
+    "reference": "Psalm 98:2 (CPDV)",
+    "connected_to": "Psalm 98:3",
+    "connected_from": "Psalm 98:1"
+  },
+  {
+    "text": "He has remembered his mercy and his truth toward the house of Israel. All the ends of the earth have seen the salvation of our God.",
+    "reference": "Psalm 98:3 (CPDV)",
+    "connected_to": "Psalm 98:4",
+    "connected_from": "Psalm 98:2"
+  },
+  {
+    "text": "Sing joyfully to God, all the earth. Sing and exult, and sing psalms.",
+    "reference": "Psalm 98:4 (CPDV)",
+    "connected_to": "Psalm 98:5",
+    "connected_from": "Psalm 98:3"
+  },
+  {
+    "text": "Sing psalms to the Lord with stringed instruments, with strings and the voice of a psalmist,",
+    "reference": "Psalm 98:5 (CPDV)",
+    "connected_to": "Psalm 98:6",
+    "connected_from": "Psalm 98:4"
+  },
+  {
+    "text": "with subtle wind instruments and the voice of woodwinds. Make a joyful noise before the Lord our king.",
+    "reference": "Psalm 98:6 (CPDV)",
+    "connected_to": "Psalm 98:7",
+    "connected_from": "Psalm 98:5"
+  },
+  {
+    "text": "Let the sea be moved and all its fullness, the whole world and all who dwell in it.",
+    "reference": "Psalm 98:7 (CPDV)",
+    "connected_to": "Psalm 98:8",
+    "connected_from": "Psalm 98:6"
+  },
+  {
+    "text": "The rivers will clap their hands, the mountains will exult together,",
+    "reference": "Psalm 98:8 (CPDV)",
+    "connected_to": "Psalm 98:9",
+    "connected_from": "Psalm 98:7"
+  },
+  {
+    "text": "before the presence of the Lord. For he comes to judge the earth. He will judge the whole world with justice, and the peoples with fairness.",
+    "reference": "Psalm 98:9 (CPDV)",
+    "connected_from": "Psalm 98:8"
+  }
+]

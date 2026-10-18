@@ -1,0 +1,30 @@
+[
+  {
+    "text": "For the one directing. Of David. For remembrance. <span class=|reftext|><a href=|#|><b>1</b></a> O God, deliver me, O YHWH, may You hurry—to help me!",
+    "reference": "Psalm 70:1 (BLB)",
+    "connected_to": "Psalm 70:2"
+  },
+  {
+    "text": "Let them be ashamed and confounded, those seeking my soul; let them be turned back and be disgraced, those taking delight [in] my harm!",
+    "reference": "Psalm 70:2 (BLB)",
+    "connected_to": "Psalm 70:3",
+    "connected_from": "Psalm 70:1"
+  },
+  {
+    "text": "Let them be turned back over the heel of their shame, those saying, “Aha, aha!”",
+    "reference": "Psalm 70:3 (BLB)",
+    "connected_to": "Psalm 70:4",
+    "connected_from": "Psalm 70:2"
+  },
+  {
+    "text": "Let all those seeking You rejoice and be glad in You; those loving Your salvation, let them say continually “May God be magnified!”",
+    "reference": "Psalm 70:4 (BLB)",
+    "connected_to": "Psalm 70:5",
+    "connected_from": "Psalm 70:3"
+  },
+  {
+    "text": "And I [am] lowly and needy; O God, hurry to me! You [are] my help and my deliverer, O YHWH—do not delay!",
+    "reference": "Psalm 70:5 (BLB)",
+    "connected_from": "Psalm 70:4"
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "text": "A psalm of a canticle, for the sons of Core, on the second day of the week. Great is the Lord, and exceedingly to be praised in the city of our God, in his holy mountain.",
+    "reference": "Psalm 48:1 (DRB)",
+    "connected_to": "Psalm 48:2"
+  },
+  {
+    "text": "With the joy of the whole earth is mount Sion founded, on the sides of the north, the city of the great king.",
+    "reference": "Psalm 48:2 (DRB)",
+    "connected_to": "Psalm 48:3",
+    "connected_from": "Psalm 48:1"
+  },
+  {
+    "text": "In her houses shall God be known, when he shall protect her.",
+    "reference": "Psalm 48:3 (DRB)",
+    "connected_to": "Psalm 48:4",
+    "connected_from": "Psalm 48:2"
+  },
+  {
+    "text": "For behold the kings of the earth assembled themselves: they gathered together.",
+    "reference": "Psalm 48:4 (DRB)",
+    "connected_to": "Psalm 48:5",
+    "connected_from": "Psalm 48:3"
+  },
+  {
+    "text": "So they saw, and they wondered, they were troubled, they were moved:",
+    "reference": "Psalm 48:5 (DRB)",
+    "connected_to": "Psalm 48:6",
+    "connected_from": "Psalm 48:4"
+  },
+  {
+    "text": "trembling took hold of them. There were pains as of a woman in labour.",
+    "reference": "Psalm 48:6 (DRB)",
+    "connected_to": "Psalm 48:7",
+    "connected_from": "Psalm 48:5"
+  },
+  {
+    "text": "With a vehement wind thou shalt break in pieces the ships of Tharsis.",
+    "reference": "Psalm 48:7 (DRB)",
+    "connected_to": "Psalm 48:8",
+    "connected_from": "Psalm 48:6"
+  },
+  {
+    "text": "As we have heard, so have we seen, in the city of the Lord of hosts, in the city of our God: God hath founded it for ever.",
+    "reference": "Psalm 48:8 (DRB)",
+    "connected_to": "Psalm 48:9",
+    "connected_from": "Psalm 48:7"
+  },
+  {
+    "text": "We have received thy mercy, O God, in the midst of thy temple.",
+    "reference": "Psalm 48:9 (DRB)",
+    "connected_to": "Psalm 48:10",
+    "connected_from": "Psalm 48:8"
+  },
+  {
+    "text": "According to thy name, O God, so also is thy praise unto the ends of the earth: thy right hand is full of justice.",
+    "reference": "Psalm 48:10 (DRB)",
+    "connected_to": "Psalm 48:11",
+    "connected_from": "Psalm 48:9"
+  },
+  {
+    "text": "Let mount Sion rejoice, and the daughters of Juda be glad; because of thy judgments, O Lord.",
+    "reference": "Psalm 48:11 (DRB)",
+    "connected_to": "Psalm 48:12",
+    "connected_from": "Psalm 48:10"
+  },
+  {
+    "text": "Surround Sion, and encompass her: tell ye in her towers.",
+    "reference": "Psalm 48:12 (DRB)",
+    "connected_to": "Psalm 48:13",
+    "connected_from": "Psalm 48:11"
+  },
+  {
+    "text": "Set your hearts on her strength; and distribute her houses, that ye may relate it in another generation.",
+    "reference": "Psalm 48:13 (DRB)",
+    "connected_to": "Psalm 48:14",
+    "connected_from": "Psalm 48:12"
+  },
+  {
+    "text": "For this is God, our God unto eternity, and for ever and ever: he shall rule us for evermore.",
+    "reference": "Psalm 48:14 (DRB)",
+    "connected_from": "Psalm 48:13"
+  }
+]

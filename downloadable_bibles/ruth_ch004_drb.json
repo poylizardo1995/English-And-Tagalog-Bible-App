@@ -1,0 +1,132 @@
+[
+  {
+    "text": "Then Booz went up to the gate, and sat there. And when he had seen the kinsman going by, of whom he had spoken before, he said to him, calling him by his name: Turn aside for a little while, and sit down here. He turned aside, and sat down.",
+    "reference": "Ruth 4:1 (DRB)",
+    "connected_to": "Ruth 4:2"
+  },
+  {
+    "text": "And Booz taking ten men of the ancients of the city, said to them: Sit ye down here.",
+    "reference": "Ruth 4:2 (DRB)",
+    "connected_to": "Ruth 4:3",
+    "connected_from": "Ruth 4:1"
+  },
+  {
+    "text": "They sat down, and he spoke to the kinsman: Noemi, who is returned from the country of Moab, will sell a parcel of land that belonged to our brother Elimelech.",
+    "reference": "Ruth 4:3 (DRB)",
+    "connected_to": "Ruth 4:4",
+    "connected_from": "Ruth 4:2"
+  },
+  {
+    "text": "I would have thee to understand this, and would tell thee before all that sit here, and before the ancients of my people. If thou wilt take possession of it by the right of kindred: buy it and possess it: but if it please thee not, tell me so, that I may know what I have to do. For there is no near kinsman besides thee, who art first, and me, who am second. But he answered: I will buy the field.",
+    "reference": "Ruth 4:4 (DRB)",
+    "connected_to": "Ruth 4:5",
+    "connected_from": "Ruth 4:3"
+  },
+  {
+    "text": "And Booz said to him: When thou shalt buy the field at the woman’s hand, thou must take also Ruth the Moabitess, who was the wife of the deceased: to raise up the name of thy kinsman in his inheritance.",
+    "reference": "Ruth 4:5 (DRB)",
+    "connected_to": "Ruth 4:6",
+    "connected_from": "Ruth 4:4"
+  },
+  {
+    "text": "He answered: I yield up my right of next akin: for I must not cut off the posterity of my own family. Do thou make use of my privilege, which I profess I do willingly forego.",
+    "reference": "Ruth 4:6 (DRB)",
+    "connected_to": "Ruth 4:7",
+    "connected_from": "Ruth 4:5"
+  },
+  {
+    "text": "Now this in former times was the manner in Israel between kinsmen, that if at any time one yielded his right to another: that the grant might be sure, the man put off his shoe, and gave it to his neighhour; this was a testimony of cession of right in Israel.",
+    "reference": "Ruth 4:7 (DRB)",
+    "connected_to": "Ruth 4:8",
+    "connected_from": "Ruth 4:6"
+  },
+  {
+    "text": "So Booz said to his kinsman: Put off thy shoe. And immediately he took it off from his foot.",
+    "reference": "Ruth 4:8 (DRB)",
+    "connected_to": "Ruth 4:9",
+    "connected_from": "Ruth 4:7"
+  },
+  {
+    "text": "And he said to the ancients and to all the people: You are witnesses this day, that I have bought all that was Elimelech’s, and Chelion’s, and Mahalon’s, of the hand of Noemi:",
+    "reference": "Ruth 4:9 (DRB)",
+    "connected_to": "Ruth 4:10",
+    "connected_from": "Ruth 4:8"
+  },
+  {
+    "text": "And have taken to wife Ruth the Moabitess, the wife of Mahalon, to raise up the name of the deceased in his inheritance lest his name be cut off, from among his family and his brethren and his people. You, I say, are witnesses of this thing.",
+    "reference": "Ruth 4:10 (DRB)",
+    "connected_to": "Ruth 4:11",
+    "connected_from": "Ruth 4:9"
+  },
+  {
+    "text": "Then all the people that were in the gate, and the ancients answered: We are witnesses: The Lord make this woman who cometh into thy house, like Rachel, and Lia, who built up the house of Israel: that she may be an example of virtue in Ephrata, and may have a famous name in Bethlehem:",
+    "reference": "Ruth 4:11 (DRB)",
+    "connected_to": "Ruth 4:12",
+    "connected_from": "Ruth 4:10"
+  },
+  {
+    "text": "And that the house may be, as the house of Phares, whom Thamar bore unto Juda, of the seed which the Lord shall give thee of this young woman.",
+    "reference": "Ruth 4:12 (DRB)",
+    "connected_to": "Ruth 4:13",
+    "connected_from": "Ruth 4:11"
+  },
+  {
+    "text": "Booz therefore took Ruth, and married her: and went in unto her, and the Lord gave her to conceive and to bear a son.",
+    "reference": "Ruth 4:13 (DRB)",
+    "connected_to": "Ruth 4:14",
+    "connected_from": "Ruth 4:12"
+  },
+  {
+    "text": "And the women said to Noemi: Blessed be the Lord, who hath not suffered thy family to want a successor, that his name should be preserved in Israel.",
+    "reference": "Ruth 4:14 (DRB)",
+    "connected_to": "Ruth 4:15",
+    "connected_from": "Ruth 4:13"
+  },
+  {
+    "text": "And thou shouldst have one to comfort thy soul, and cherish thy old age. For he is born of thy daughter in law: who loveth thee: and is much better to thee, than if thou hadst seven sons.",
+    "reference": "Ruth 4:15 (DRB)",
+    "connected_to": "Ruth 4:16",
+    "connected_from": "Ruth 4:14"
+  },
+  {
+    "text": "And Noemi taking the child laid it in her bosom, and she carried it, and was a nurse unto it.",
+    "reference": "Ruth 4:16 (DRB)",
+    "connected_to": "Ruth 4:17",
+    "connected_from": "Ruth 4:15"
+  },
+  {
+    "text": "And the women her neighbours, congratulating with her and saying: There is a son born to Noemi: called his name Obed: he is the father of Isai, the father of David.",
+    "reference": "Ruth 4:17 (DRB)",
+    "connected_to": "Ruth 4:18",
+    "connected_from": "Ruth 4:16"
+  },
+  {
+    "text": "These are the generations of Phares: Phares begot Esron,",
+    "reference": "Ruth 4:18 (DRB)",
+    "connected_to": "Ruth 4:19",
+    "connected_from": "Ruth 4:17"
+  },
+  {
+    "text": "Esron begot Aram, Aram begot Aminadab,",
+    "reference": "Ruth 4:19 (DRB)",
+    "connected_to": "Ruth 4:20",
+    "connected_from": "Ruth 4:18"
+  },
+  {
+    "text": "Aminadab begot Nahasson, Nahasson begot Salmon,",
+    "reference": "Ruth 4:20 (DRB)",
+    "connected_to": "Ruth 4:21",
+    "connected_from": "Ruth 4:19"
+  },
+  {
+    "text": "Salmon begot Booz, Booz begot Obed,",
+    "reference": "Ruth 4:21 (DRB)",
+    "connected_to": "Ruth 4:22",
+    "connected_from": "Ruth 4:20"
+  },
+  {
+    "text": "Obed begot Isai, Isai begot David.",
+    "reference": "Ruth 4:22 (DRB)",
+    "connected_from": "Ruth 4:21"
+  }
+]

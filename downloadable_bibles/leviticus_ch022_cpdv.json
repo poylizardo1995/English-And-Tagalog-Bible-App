@@ -1,0 +1,198 @@
+[
+  {
+    "text": "The Lord also spoke to Moses saying:",
+    "reference": "Leviticus 22:1 (CPDV)",
+    "connected_to": "Leviticus 22:2"
+  },
+  {
+    "text": "Speak to Aaron and to his sons, so that they may be careful of those things which have been consecrated for the sons of Israel, and so that they may not contaminate the name of the things sanctified to me, which they offer. I am the Lord.",
+    "reference": "Leviticus 22:2 (CPDV)",
+    "connected_to": "Leviticus 22:3",
+    "connected_from": "Leviticus 22:1"
+  },
+  {
+    "text": "Say to them and to their posterity: Every man of your stock, who approaches toward those things which have been consecrated, and which the sons of Israel have brought forward to the Lord, in whom there is uncleanness, shall perish before the Lord. I am the Lord.",
+    "reference": "Leviticus 22:3 (CPDV)",
+    "connected_to": "Leviticus 22:4",
+    "connected_from": "Leviticus 22:2"
+  },
+  {
+    "text": "The man of the offspring of Aaron, who is a leper or who is suffering a flow of seed, shall not eat of those things which have been sanctified to me, until he is healed. Whoever will have touched what is unclean because of the dead, and he whose seed goes out from him, as if from sexual intercourse,",
+    "reference": "Leviticus 22:4 (CPDV)",
+    "connected_to": "Leviticus 22:5",
+    "connected_from": "Leviticus 22:3"
+  },
+  {
+    "text": "and whoever has touched a creeping thing, or any kind of unclean thing, the touching of which is filthy,",
+    "reference": "Leviticus 22:5 (CPDV)",
+    "connected_to": "Leviticus 22:6",
+    "connected_from": "Leviticus 22:4"
+  },
+  {
+    "text": "shall be unclean until evening, and shall not eat those things which have been sanctified. But when he has washed his flesh with water,",
+    "reference": "Leviticus 22:6 (CPDV)",
+    "connected_to": "Leviticus 22:7",
+    "connected_from": "Leviticus 22:5"
+  },
+  {
+    "text": "and the sun has set, then, having been purified, he shall eat from what has been sanctified, because it is his food.",
+    "reference": "Leviticus 22:7 (CPDV)",
+    "connected_to": "Leviticus 22:8",
+    "connected_from": "Leviticus 22:6"
+  },
+  {
+    "text": "Whatever dies on its own, and whatever has been seized by a wild beast, they shall not eat, nor shall they be polluted by these. I am the Lord.",
+    "reference": "Leviticus 22:8 (CPDV)",
+    "connected_to": "Leviticus 22:9",
+    "connected_from": "Leviticus 22:7"
+  },
+  {
+    "text": "Let them observe my precepts, so that they may not fall under sin, and die in the Sanctuary, when they will have defiled it. I am the Lord, who sanctifies them.",
+    "reference": "Leviticus 22:9 (CPDV)",
+    "connected_to": "Leviticus 22:10",
+    "connected_from": "Leviticus 22:8"
+  },
+  {
+    "text": "No foreigner shall eat from what has been sanctified; a guest of the priests and a hired servant shall not eat from them.",
+    "reference": "Leviticus 22:10 (CPDV)",
+    "connected_to": "Leviticus 22:11",
+    "connected_from": "Leviticus 22:9"
+  },
+  {
+    "text": "But whomever the priest has bought, and whoever has been born into his house, these shall eat from them.",
+    "reference": "Leviticus 22:11 (CPDV)",
+    "connected_to": "Leviticus 22:12",
+    "connected_from": "Leviticus 22:10"
+  },
+  {
+    "text": "If the daughter of a priest has been married to any of the people, she shall not eat from what has been sanctified, nor from the first-fruits.",
+    "reference": "Leviticus 22:12 (CPDV)",
+    "connected_to": "Leviticus 22:13",
+    "connected_from": "Leviticus 22:11"
+  },
+  {
+    "text": "But if she is a widow or divorced, and, being without children, she returns to her father’s house, she shall be nourished by her father’s foods, just as she was accustomed to do as a girl. No foreigner shall have the authority to eat from them.",
+    "reference": "Leviticus 22:13 (CPDV)",
+    "connected_to": "Leviticus 22:14",
+    "connected_from": "Leviticus 22:12"
+  },
+  {
+    "text": "Whoever, through ignorance, eats from what has been sanctified shall add a fifth part to that which he ate, and he shall give it to the priest at the Sanctuary.",
+    "reference": "Leviticus 22:14 (CPDV)",
+    "connected_to": "Leviticus 22:15",
+    "connected_from": "Leviticus 22:13"
+  },
+  {
+    "text": "And they shall not contaminate what has been sanctified from the sons of Israel, which they offer to the Lord,",
+    "reference": "Leviticus 22:15 (CPDV)",
+    "connected_to": "Leviticus 22:16",
+    "connected_from": "Leviticus 22:14"
+  },
+  {
+    "text": "lest perhaps they may suffer the iniquity of their offense, when they will have eaten what has been sanctified. I am the Lord, who sanctifies them.",
+    "reference": "Leviticus 22:16 (CPDV)",
+    "connected_to": "Leviticus 22:17",
+    "connected_from": "Leviticus 22:15"
+  },
+  {
+    "text": "And the Lord spoke to Moses, saying:",
+    "reference": "Leviticus 22:17 (CPDV)",
+    "connected_to": "Leviticus 22:18",
+    "connected_from": "Leviticus 22:16"
+  },
+  {
+    "text": "Speak to Aaron, and to his sons, and to all the sons of Israel, and you shall say to them: The man from the house of Israel, or from the newcomers who live with you, who would bring forward his oblation, either fulfilling his vows or offering spontaneously, whatever he brings forward as a holocaust for the Lord,",
+    "reference": "Leviticus 22:18 (CPDV)",
+    "connected_to": "Leviticus 22:19",
+    "connected_from": "Leviticus 22:17"
+  },
+  {
+    "text": "in order to be offered through you, shall offer an immaculate male from the oxen, or from the sheep, or from the goats.",
+    "reference": "Leviticus 22:19 (CPDV)",
+    "connected_to": "Leviticus 22:20",
+    "connected_from": "Leviticus 22:18"
+  },
+  {
+    "text": "If it has a blemish, you shall not offer it, and it shall not be acceptable.",
+    "reference": "Leviticus 22:20 (CPDV)",
+    "connected_to": "Leviticus 22:21",
+    "connected_from": "Leviticus 22:19"
+  },
+  {
+    "text": "The man who will have offered a victim of peace offerings to the Lord, either fulfilling his vows or offering spontaneously, whether of oxen, or of sheep, shall offer what is immaculate, so that it may be acceptable. There shall be no blemish in it.",
+    "reference": "Leviticus 22:21 (CPDV)",
+    "connected_to": "Leviticus 22:22",
+    "connected_from": "Leviticus 22:20"
+  },
+  {
+    "text": "If it is blind, or if it is broken, or if it has a scar, or if it is has a boil, or a skin disease or infection, you shall not offer these to the Lord, nor shall you burn any of these upon the altar of the Lord.",
+    "reference": "Leviticus 22:22 (CPDV)",
+    "connected_to": "Leviticus 22:23",
+    "connected_from": "Leviticus 22:21"
+  },
+  {
+    "text": "An ox or a sheep, having an amputated ear or tail, you are able to offer voluntarily, but a vow is not able to be fulfilled by these.",
+    "reference": "Leviticus 22:23 (CPDV)",
+    "connected_to": "Leviticus 22:24",
+    "connected_from": "Leviticus 22:22"
+  },
+  {
+    "text": "You shall not offer to the Lord any animal which has the testicles bruised, or crushed, or cut and taken away, and you shall not cause any of these things in your land.",
+    "reference": "Leviticus 22:24 (CPDV)",
+    "connected_to": "Leviticus 22:25",
+    "connected_from": "Leviticus 22:23"
+  },
+  {
+    "text": "From the hand of a foreigner, you shall not offer bread to your God, nor anything else that he would choose to give; for all this has been corrupted and blemished. You shall not accept them.",
+    "reference": "Leviticus 22:25 (CPDV)",
+    "connected_to": "Leviticus 22:26",
+    "connected_from": "Leviticus 22:24"
+  },
+  {
+    "text": "And the Lord spoke to Moses, saying:",
+    "reference": "Leviticus 22:26 (CPDV)",
+    "connected_to": "Leviticus 22:27",
+    "connected_from": "Leviticus 22:25"
+  },
+  {
+    "text": "An ox, a sheep, or a goat, when they have been born, shall be under the udder of their mother for seven days. But on the eighth day and thereafter, they are able to be offered to the Lord.",
+    "reference": "Leviticus 22:27 (CPDV)",
+    "connected_to": "Leviticus 22:28",
+    "connected_from": "Leviticus 22:26"
+  },
+  {
+    "text": "Whether it is an ox, or a sheep, they shall not be immolated on the same day with their newborns.",
+    "reference": "Leviticus 22:28 (CPDV)",
+    "connected_to": "Leviticus 22:29",
+    "connected_from": "Leviticus 22:27"
+  },
+  {
+    "text": "If you immolate a victim as an act of thanksgiving to the Lord, so that he may be pleased,",
+    "reference": "Leviticus 22:29 (CPDV)",
+    "connected_to": "Leviticus 22:30",
+    "connected_from": "Leviticus 22:28"
+  },
+  {
+    "text": "you shall eat it on the same day; none of it shall remain until morning on the next day. I am the Lord.",
+    "reference": "Leviticus 22:30 (CPDV)",
+    "connected_to": "Leviticus 22:31",
+    "connected_from": "Leviticus 22:29"
+  },
+  {
+    "text": "Observe my commandments, and do them. I am the Lord.",
+    "reference": "Leviticus 22:31 (CPDV)",
+    "connected_to": "Leviticus 22:32",
+    "connected_from": "Leviticus 22:30"
+  },
+  {
+    "text": "Do not pollute my holy name, so that I may be sanctified in the midst of the sons of Israel. I am the Lord, who sanctifies you,",
+    "reference": "Leviticus 22:32 (CPDV)",
+    "connected_to": "Leviticus 22:33",
+    "connected_from": "Leviticus 22:31"
+  },
+  {
+    "text": "and who led you away from the land of Egypt, so that I may be to you as God. I am the Lord.",
+    "reference": "Leviticus 22:33 (CPDV)",
+    "connected_from": "Leviticus 22:32"
+  }
+]

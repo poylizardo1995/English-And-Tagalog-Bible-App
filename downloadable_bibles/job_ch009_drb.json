@@ -1,0 +1,210 @@
+[
+  {
+    "text": "And Job answered, and said:",
+    "reference": "Job 9:1 (DRB)",
+    "connected_to": "Job 9:2"
+  },
+  {
+    "text": "Indeed I know it is so, and that man cannot be justified compared with",
+    "reference": "Job 9:2 (DRB)",
+    "connected_to": "Job 9:3",
+    "connected_from": "Job 9:1"
+  },
+  {
+    "text": "If he will contend with him, he cannot answer him one for a thousand.",
+    "reference": "Job 9:3 (DRB)",
+    "connected_to": "Job 9:4",
+    "connected_from": "Job 9:2"
+  },
+  {
+    "text": "He is wise in heart, and mighty in strength: who hath resisted him, and hath had peace ?",
+    "reference": "Job 9:4 (DRB)",
+    "connected_to": "Job 9:5",
+    "connected_from": "Job 9:3"
+  },
+  {
+    "text": "Who hath removed mountains, and they whom he overthrew in his wrath, knew it not.",
+    "reference": "Job 9:5 (DRB)",
+    "connected_to": "Job 9:6",
+    "connected_from": "Job 9:4"
+  },
+  {
+    "text": "Who shaketh the earth out of her place, and the pillars thereof tremble.",
+    "reference": "Job 9:6 (DRB)",
+    "connected_to": "Job 9:7",
+    "connected_from": "Job 9:5"
+  },
+  {
+    "text": "Who commandeth tile sun and it riseth not: and shutteth up the stars as it were under a seal:",
+    "reference": "Job 9:7 (DRB)",
+    "connected_to": "Job 9:8",
+    "connected_from": "Job 9:6"
+  },
+  {
+    "text": "Who alone spreadeth out the heavens, and walketh upon the waves of the sea.",
+    "reference": "Job 9:8 (DRB)",
+    "connected_to": "Job 9:9",
+    "connected_from": "Job 9:7"
+  },
+  {
+    "text": "Who maketh Arcturus, and Orion, and Hyades, and the inner parts of the south.",
+    "reference": "Job 9:9 (DRB)",
+    "connected_to": "Job 9:10",
+    "connected_from": "Job 9:8"
+  },
+  {
+    "text": "Who doth things great and incomprehensible, and wonderful, of which there is no number.",
+    "reference": "Job 9:10 (DRB)",
+    "connected_to": "Job 9:11",
+    "connected_from": "Job 9:9"
+  },
+  {
+    "text": "If he come to me, I shall not see him: if he depart I shall not understand.",
+    "reference": "Job 9:11 (DRB)",
+    "connected_to": "Job 9:12",
+    "connected_from": "Job 9:10"
+  },
+  {
+    "text": "If he examine on a sudden, who shall answer him? or who can say: Why dost thou so?",
+    "reference": "Job 9:12 (DRB)",
+    "connected_to": "Job 9:13",
+    "connected_from": "Job 9:11"
+  },
+  {
+    "text": "God, whose wrath no man can resist, and under whom they stoop that bear up the world.",
+    "reference": "Job 9:13 (DRB)",
+    "connected_to": "Job 9:14",
+    "connected_from": "Job 9:12"
+  },
+  {
+    "text": "What am I then, that I should answer him, and have words with him?",
+    "reference": "Job 9:14 (DRB)",
+    "connected_to": "Job 9:15",
+    "connected_from": "Job 9:13"
+  },
+  {
+    "text": "I, who although I should have any just thing, would not answer, but would make supplication to my judge.",
+    "reference": "Job 9:15 (DRB)",
+    "connected_to": "Job 9:16",
+    "connected_from": "Job 9:14"
+  },
+  {
+    "text": "And if he should hear me when I call, I should not believe that he had heard my voice.",
+    "reference": "Job 9:16 (DRB)",
+    "connected_to": "Job 9:17",
+    "connected_from": "Job 9:15"
+  },
+  {
+    "text": "For he shall crush me in a whirlwind, and multiply my wounds even without cause.",
+    "reference": "Job 9:17 (DRB)",
+    "connected_to": "Job 9:18",
+    "connected_from": "Job 9:16"
+  },
+  {
+    "text": "He alloweth not my spirit to rest, and he filleth me with bitterness.",
+    "reference": "Job 9:18 (DRB)",
+    "connected_to": "Job 9:19",
+    "connected_from": "Job 9:17"
+  },
+  {
+    "text": "If strength be demanded, he is most strong: if equity of judgment, no man dare bear witness for me.",
+    "reference": "Job 9:19 (DRB)",
+    "connected_to": "Job 9:20",
+    "connected_from": "Job 9:18"
+  },
+  {
+    "text": "If I would justify myself, my own mouth shall condemn me: if I would shew myself innocent, he shall prove me wicked.",
+    "reference": "Job 9:20 (DRB)",
+    "connected_to": "Job 9:21",
+    "connected_from": "Job 9:19"
+  },
+  {
+    "text": "Although I should be simple, even this my soul shall be ignorant of, and I shall be weary of my life.",
+    "reference": "Job 9:21 (DRB)",
+    "connected_to": "Job 9:22",
+    "connected_from": "Job 9:20"
+  },
+  {
+    "text": "One thing there is that I have spoken, both the innocent and the wicked he consumeth.",
+    "reference": "Job 9:22 (DRB)",
+    "connected_to": "Job 9:23",
+    "connected_from": "Job 9:21"
+  },
+  {
+    "text": "If he scourge, let him kill at once, and not laugh at the pains of the innocent.",
+    "reference": "Job 9:23 (DRB)",
+    "connected_to": "Job 9:24",
+    "connected_from": "Job 9:22"
+  },
+  {
+    "text": "The earth is given into the hand of the wicked, he covereth the face of the judges thereof: and if it be not he, who is it then?",
+    "reference": "Job 9:24 (DRB)",
+    "connected_to": "Job 9:25",
+    "connected_from": "Job 9:23"
+  },
+  {
+    "text": "My days have been swifter than a post: they have fled away and have not seen good.",
+    "reference": "Job 9:25 (DRB)",
+    "connected_to": "Job 9:26",
+    "connected_from": "Job 9:24"
+  },
+  {
+    "text": "They have passed by as ships carrying fruits, as an eagle flying to the prey.",
+    "reference": "Job 9:26 (DRB)",
+    "connected_to": "Job 9:27",
+    "connected_from": "Job 9:25"
+  },
+  {
+    "text": "If I say: I will not speak so: I change my face, and am tormented with sorrow.",
+    "reference": "Job 9:27 (DRB)",
+    "connected_to": "Job 9:28",
+    "connected_from": "Job 9:26"
+  },
+  {
+    "text": "I feared all my works, knowing that thou didst not spare the offender.",
+    "reference": "Job 9:28 (DRB)",
+    "connected_to": "Job 9:29",
+    "connected_from": "Job 9:27"
+  },
+  {
+    "text": "But if so also I am wicked, why have I laboured in vain?",
+    "reference": "Job 9:29 (DRB)",
+    "connected_to": "Job 9:30",
+    "connected_from": "Job 9:28"
+  },
+  {
+    "text": "If I be washed as it were with snow waters, and my hands shall shine ever so clean :",
+    "reference": "Job 9:30 (DRB)",
+    "connected_to": "Job 9:31",
+    "connected_from": "Job 9:29"
+  },
+  {
+    "text": "Yet thou shalt plunge me in filth, and my garments shall abhor me,",
+    "reference": "Job 9:31 (DRB)",
+    "connected_to": "Job 9:32",
+    "connected_from": "Job 9:30"
+  },
+  {
+    "text": "For I shall not answer a man that is like myself: nor one that may be heard with me equally in judgment.",
+    "reference": "Job 9:32 (DRB)",
+    "connected_to": "Job 9:33",
+    "connected_from": "Job 9:31"
+  },
+  {
+    "text": "There is none that may be able to reprove both, and to put his hand between both.",
+    "reference": "Job 9:33 (DRB)",
+    "connected_to": "Job 9:34",
+    "connected_from": "Job 9:32"
+  },
+  {
+    "text": "Let him take his rod away from me, and let not his fear terrify me.",
+    "reference": "Job 9:34 (DRB)",
+    "connected_to": "Job 9:35",
+    "connected_from": "Job 9:33"
+  },
+  {
+    "text": "I will speak, and will not fear him: for I cannot answer while I am in fear.",
+    "reference": "Job 9:35 (DRB)",
+    "connected_from": "Job 9:34"
+  }
+]

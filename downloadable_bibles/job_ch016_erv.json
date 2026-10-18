@@ -1,0 +1,132 @@
+[
+  {
+    "text": "Then Job answered and said,",
+    "reference": "Job 16:1 (ERV)",
+    "connected_to": "Job 16:2"
+  },
+  {
+    "text": "I have heard many such things: miserable comforters are ye all.",
+    "reference": "Job 16:2 (ERV)",
+    "connected_to": "Job 16:3",
+    "connected_from": "Job 16:1"
+  },
+  {
+    "text": "Shall vain words have an end? or what provoketh thee that thou answerest?",
+    "reference": "Job 16:3 (ERV)",
+    "connected_to": "Job 16:4",
+    "connected_from": "Job 16:2"
+  },
+  {
+    "text": "I also could speak as ye do; if your soul were in my soul’s stead, I could join words together against you, and shake mine head at you.",
+    "reference": "Job 16:4 (ERV)",
+    "connected_to": "Job 16:5",
+    "connected_from": "Job 16:3"
+  },
+  {
+    "text": "But I would strengthen you with my mouth, and the solace of my lips should assuage your grief.",
+    "reference": "Job 16:5 (ERV)",
+    "connected_to": "Job 16:6",
+    "connected_from": "Job 16:4"
+  },
+  {
+    "text": "Though I speak, my grief is not assuaged: and though I forbear, what am I eased?",
+    "reference": "Job 16:6 (ERV)",
+    "connected_to": "Job 16:7",
+    "connected_from": "Job 16:5"
+  },
+  {
+    "text": "But now he hath made me weary: thou hast made desolate all my company.",
+    "reference": "Job 16:7 (ERV)",
+    "connected_to": "Job 16:8",
+    "connected_from": "Job 16:6"
+  },
+  {
+    "text": "And thou hast laid fast hold on me, which is a witness against me: and my leanness riseth up against me, it testifieth to my face.",
+    "reference": "Job 16:8 (ERV)",
+    "connected_to": "Job 16:9",
+    "connected_from": "Job 16:7"
+  },
+  {
+    "text": "He hath torn me in his wrath, and persecuted me; he hath gnashed upon me with his teeth: mine adversary sharpeneth his eyes upon me.",
+    "reference": "Job 16:9 (ERV)",
+    "connected_to": "Job 16:10",
+    "connected_from": "Job 16:8"
+  },
+  {
+    "text": "They have gaped upon me with their mouth; they have smitten me upon the cheek reproachfully: they gather themselves together against me.",
+    "reference": "Job 16:10 (ERV)",
+    "connected_to": "Job 16:11",
+    "connected_from": "Job 16:9"
+  },
+  {
+    "text": "God delivereth me to the ungodly, and casteth me into the hands of the wicked.",
+    "reference": "Job 16:11 (ERV)",
+    "connected_to": "Job 16:12",
+    "connected_from": "Job 16:10"
+  },
+  {
+    "text": "I was at ease, and he brake me asunder; yea, he hath taken me by the neck, and dashed me to pieces: he hath also set me up for his mark.",
+    "reference": "Job 16:12 (ERV)",
+    "connected_to": "Job 16:13",
+    "connected_from": "Job 16:11"
+  },
+  {
+    "text": "His archers compass me round about, he cleaveth my reins asunder, and doth not spare; he poureth out my gall upon the ground.",
+    "reference": "Job 16:13 (ERV)",
+    "connected_to": "Job 16:14",
+    "connected_from": "Job 16:12"
+  },
+  {
+    "text": "He breaketh me with breach upon breach; he runneth upon me like a giant.",
+    "reference": "Job 16:14 (ERV)",
+    "connected_to": "Job 16:15",
+    "connected_from": "Job 16:13"
+  },
+  {
+    "text": "I have sewed sackcloth upon my skin, and have laid my horn in the dust.",
+    "reference": "Job 16:15 (ERV)",
+    "connected_to": "Job 16:16",
+    "connected_from": "Job 16:14"
+  },
+  {
+    "text": "My face is foul with weeping, and on my eyelids is the shadow of death;",
+    "reference": "Job 16:16 (ERV)",
+    "connected_to": "Job 16:17",
+    "connected_from": "Job 16:15"
+  },
+  {
+    "text": "Although there is no violence in mine hands, and my prayer is pure.",
+    "reference": "Job 16:17 (ERV)",
+    "connected_to": "Job 16:18",
+    "connected_from": "Job 16:16"
+  },
+  {
+    "text": "O earth, cover not thou my blood, and let my cry have no resting place.",
+    "reference": "Job 16:18 (ERV)",
+    "connected_to": "Job 16:19",
+    "connected_from": "Job 16:17"
+  },
+  {
+    "text": "Even now, behold, my witness is in heaven, and he that coucheth for me is on high.",
+    "reference": "Job 16:19 (ERV)",
+    "connected_to": "Job 16:20",
+    "connected_from": "Job 16:18"
+  },
+  {
+    "text": "My friends scorn me: but mine eye poureth out tears unto God;",
+    "reference": "Job 16:20 (ERV)",
+    "connected_to": "Job 16:21",
+    "connected_from": "Job 16:19"
+  },
+  {
+    "text": "That he would maintain the right of a man with God, and of a son of man with his neighbour!",
+    "reference": "Job 16:21 (ERV)",
+    "connected_to": "Job 16:22",
+    "connected_from": "Job 16:20"
+  },
+  {
+    "text": "For when a few years are come, I shall go the way whence I shall not return.",
+    "reference": "Job 16:22 (ERV)",
+    "connected_from": "Job 16:21"
+  }
+]

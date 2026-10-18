@@ -1,0 +1,72 @@
+[
+  {
+    "text": "For the Leader; upon the Gittith. A Psalm of the sons of Korah.   How lovely are Thy tabernacles, O LORD of hosts!",
+    "reference": "Psalm 84:1 (JPS)",
+    "connected_to": "Psalm 84:2"
+  },
+  {
+    "text": "My soul yearneth, yea, even pineth for the courts of the LORD; My heart and my flesh sing for joy unto the living God.",
+    "reference": "Psalm 84:2 (JPS)",
+    "connected_to": "Psalm 84:3",
+    "connected_from": "Psalm 84:1"
+  },
+  {
+    "text": "Yea, the sparrow hath found a house, and the swallow a nest for herself, Where she may lay her young; Thine altars, O LORD of hosts, My King, and my God—",
+    "reference": "Psalm 84:3 (JPS)",
+    "connected_to": "Psalm 84:4",
+    "connected_from": "Psalm 84:2"
+  },
+  {
+    "text": "Happy are they that dwell in Thy house, They are ever praising Thee.  Selah",
+    "reference": "Psalm 84:4 (JPS)",
+    "connected_to": "Psalm 84:5",
+    "connected_from": "Psalm 84:3"
+  },
+  {
+    "text": "Happy is the man whose strength is in Thee; In whose heart are the highways.",
+    "reference": "Psalm 84:5 (JPS)",
+    "connected_to": "Psalm 84:6",
+    "connected_from": "Psalm 84:4"
+  },
+  {
+    "text": "Passing through the valley of Baca they make it a place of springs; Yea, the early rain clotheth it with blessings.",
+    "reference": "Psalm 84:6 (JPS)",
+    "connected_to": "Psalm 84:7",
+    "connected_from": "Psalm 84:5"
+  },
+  {
+    "text": "They go from strength to strength, Every one of them appeareth before God in Zion.",
+    "reference": "Psalm 84:7 (JPS)",
+    "connected_to": "Psalm 84:8",
+    "connected_from": "Psalm 84:6"
+  },
+  {
+    "text": "O LORD God of hosts, hear my prayer; Give ear, O God of Jacob.  Selah",
+    "reference": "Psalm 84:8 (JPS)",
+    "connected_to": "Psalm 84:9",
+    "connected_from": "Psalm 84:7"
+  },
+  {
+    "text": "Behold, O God our shield, And look upon the face of Thine anointed.",
+    "reference": "Psalm 84:9 (JPS)",
+    "connected_to": "Psalm 84:10",
+    "connected_from": "Psalm 84:8"
+  },
+  {
+    "text": "For a day in Thy courts is better than a thousand; I had rather stand at the threshold of the house of my God, Than to dwell in the tents of wickedness.",
+    "reference": "Psalm 84:10 (JPS)",
+    "connected_to": "Psalm 84:11",
+    "connected_from": "Psalm 84:9"
+  },
+  {
+    "text": "For the LORD God is a sun and a shield; The LORD giveth grace and glory; No good thing will He withhold from them that walk uprightly.",
+    "reference": "Psalm 84:11 (JPS)",
+    "connected_to": "Psalm 84:12",
+    "connected_from": "Psalm 84:10"
+  },
+  {
+    "text": "O LORD of hosts, Happy is the man that trusteth in Thee.",
+    "reference": "Psalm 84:12 (JPS)",
+    "connected_from": "Psalm 84:11"
+  }
+]

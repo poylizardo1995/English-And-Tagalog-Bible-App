@@ -1,0 +1,42 @@
+[
+  {
+    "text": "The LORD said to my Lord, Sit you at my right hand, until I make your enemies your footstool.",
+    "reference": "Psalm 110:1 (AKJV)",
+    "connected_to": "Psalm 110:2"
+  },
+  {
+    "text": "The LORD shall send the rod of your strength out of Zion: rule you in the middle of your enemies.",
+    "reference": "Psalm 110:2 (AKJV)",
+    "connected_to": "Psalm 110:3",
+    "connected_from": "Psalm 110:1"
+  },
+  {
+    "text": "Your people shall be willing in the day of your power, in the beauties of holiness from the womb of the morning: you have the dew of your youth.",
+    "reference": "Psalm 110:3 (AKJV)",
+    "connected_to": "Psalm 110:4",
+    "connected_from": "Psalm 110:2"
+  },
+  {
+    "text": "The LORD has sworn, and will not repent, You are a priest for ever after the order of Melchizedek.",
+    "reference": "Psalm 110:4 (AKJV)",
+    "connected_to": "Psalm 110:5",
+    "connected_from": "Psalm 110:3"
+  },
+  {
+    "text": "The Lord at your right hand shall strike through kings in the day of his wrath.",
+    "reference": "Psalm 110:5 (AKJV)",
+    "connected_to": "Psalm 110:6",
+    "connected_from": "Psalm 110:4"
+  },
+  {
+    "text": "He shall judge among the heathen, he shall fill the places with the dead bodies; he shall wound the heads over many countries.",
+    "reference": "Psalm 110:6 (AKJV)",
+    "connected_to": "Psalm 110:7",
+    "connected_from": "Psalm 110:5"
+  },
+  {
+    "text": "He shall drink of the brook in the way: therefore shall he lift up the head.",
+    "reference": "Psalm 110:7 (AKJV)",
+    "connected_from": "Psalm 110:6"
+  }
+]

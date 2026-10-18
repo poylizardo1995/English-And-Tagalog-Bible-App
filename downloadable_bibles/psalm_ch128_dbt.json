@@ -1,0 +1,36 @@
+[
+  {
+    "text": "{A Song of degrees.} Blessed is every one that feareth Jehovah, that walketh in his ways.",
+    "reference": "Psalm 128:1 (DBT)",
+    "connected_to": "Psalm 128:2"
+  },
+  {
+    "text": "For thou shalt eat the labour of thy hands; happy shalt thou be, and it shall be well with thee.",
+    "reference": "Psalm 128:2 (DBT)",
+    "connected_to": "Psalm 128:3",
+    "connected_from": "Psalm 128:1"
+  },
+  {
+    "text": "Thy wife shall be as a fruitful vine in the inner part of thy house; thy children like olive-plants round about thy table.",
+    "reference": "Psalm 128:3 (DBT)",
+    "connected_to": "Psalm 128:4",
+    "connected_from": "Psalm 128:2"
+  },
+  {
+    "text": "Behold, thus shall the man be blessed that feareth Jehovah.",
+    "reference": "Psalm 128:4 (DBT)",
+    "connected_to": "Psalm 128:5",
+    "connected_from": "Psalm 128:3"
+  },
+  {
+    "text": "Jehovah will bless thee out of Zion; and mayest thou see the good of Jerusalem all the days of thy life,",
+    "reference": "Psalm 128:5 (DBT)",
+    "connected_to": "Psalm 128:6",
+    "connected_from": "Psalm 128:4"
+  },
+  {
+    "text": "And see thy children’s children. Peace be upon Israel!",
+    "reference": "Psalm 128:6 (DBT)",
+    "connected_from": "Psalm 128:5"
+  }
+]

@@ -1,0 +1,174 @@
+[
+  {
+    "text": "And God blessed Noah and his sons, and said to them, Be fruitful, and multiply, and replenish the earth.",
+    "reference": "Genesis 9:1 (AKJV)",
+    "connected_to": "Genesis 9:2"
+  },
+  {
+    "text": "And the fear of you and the dread of you shall be on every beast of the earth, and on every fowl of the air, on all that moves on the earth, and on all the fishes of the sea; into your hand are they delivered.",
+    "reference": "Genesis 9:2 (AKJV)",
+    "connected_to": "Genesis 9:3",
+    "connected_from": "Genesis 9:1"
+  },
+  {
+    "text": "Every moving thing that lives shall be meat for you; even as the green herb have I given you all things.",
+    "reference": "Genesis 9:3 (AKJV)",
+    "connected_to": "Genesis 9:4",
+    "connected_from": "Genesis 9:2"
+  },
+  {
+    "text": "But flesh with the life thereof, which is the blood thereof, shall you not eat.",
+    "reference": "Genesis 9:4 (AKJV)",
+    "connected_to": "Genesis 9:5",
+    "connected_from": "Genesis 9:3"
+  },
+  {
+    "text": "And surely your blood of your lives will I require; at the hand of every beast will I require it, and at the hand of man; at the hand of every man’s brother will I require the life of man.",
+    "reference": "Genesis 9:5 (AKJV)",
+    "connected_to": "Genesis 9:6",
+    "connected_from": "Genesis 9:4"
+  },
+  {
+    "text": "Whoever sheds man’s blood, by man shall his blood be shed: for in the image of God made he man.",
+    "reference": "Genesis 9:6 (AKJV)",
+    "connected_to": "Genesis 9:7",
+    "connected_from": "Genesis 9:5"
+  },
+  {
+    "text": "And you, be you fruitful, and multiply; bring forth abundantly in the earth, and multiply therein.",
+    "reference": "Genesis 9:7 (AKJV)",
+    "connected_to": "Genesis 9:8",
+    "connected_from": "Genesis 9:6"
+  },
+  {
+    "text": "And God spoke to Noah, and to his sons with him, saying,",
+    "reference": "Genesis 9:8 (AKJV)",
+    "connected_to": "Genesis 9:9",
+    "connected_from": "Genesis 9:7"
+  },
+  {
+    "text": "And I, behold, I establish my covenant with you, and with your seed after you;",
+    "reference": "Genesis 9:9 (AKJV)",
+    "connected_to": "Genesis 9:10",
+    "connected_from": "Genesis 9:8"
+  },
+  {
+    "text": "And with every living creature that is with you, of the fowl, of the cattle, and of every beast of the earth with you; from all that go out of the ark, to every beast of the earth.",
+    "reference": "Genesis 9:10 (AKJV)",
+    "connected_to": "Genesis 9:11",
+    "connected_from": "Genesis 9:9"
+  },
+  {
+    "text": "And I will establish my covenant with you, neither shall all flesh be cut off any more by the waters of a flood; neither shall there any more be a flood to destroy the earth.",
+    "reference": "Genesis 9:11 (AKJV)",
+    "connected_to": "Genesis 9:12",
+    "connected_from": "Genesis 9:10"
+  },
+  {
+    "text": "And God said, This is the token of the covenant which I make between me and you and every living creature that is with you, for perpetual generations:",
+    "reference": "Genesis 9:12 (AKJV)",
+    "connected_to": "Genesis 9:13",
+    "connected_from": "Genesis 9:11"
+  },
+  {
+    "text": "I do set my bow in the cloud, and it shall be for a token of a covenant between me and the earth.",
+    "reference": "Genesis 9:13 (AKJV)",
+    "connected_to": "Genesis 9:14",
+    "connected_from": "Genesis 9:12"
+  },
+  {
+    "text": "And it shall come to pass, when I bring a cloud over the earth, that the bow shall be seen in the cloud:",
+    "reference": "Genesis 9:14 (AKJV)",
+    "connected_to": "Genesis 9:15",
+    "connected_from": "Genesis 9:13"
+  },
+  {
+    "text": "And I will remember my covenant, which is between me and you and every living creature of all flesh; and the waters shall no more become a flood to destroy all flesh.",
+    "reference": "Genesis 9:15 (AKJV)",
+    "connected_to": "Genesis 9:16",
+    "connected_from": "Genesis 9:14"
+  },
+  {
+    "text": "And the bow shall be in the cloud; and I will look on it, that I may remember the everlasting covenant between God and every living creature of all flesh that is on the earth.",
+    "reference": "Genesis 9:16 (AKJV)",
+    "connected_to": "Genesis 9:17",
+    "connected_from": "Genesis 9:15"
+  },
+  {
+    "text": "And God said to Noah, This is the token of the covenant, which I have established between me and all flesh that is on the earth.",
+    "reference": "Genesis 9:17 (AKJV)",
+    "connected_to": "Genesis 9:18",
+    "connected_from": "Genesis 9:16"
+  },
+  {
+    "text": "And the sons of Noah, that went forth of the ark, were Shem, and Ham, and Japheth: and Ham is the father of Canaan.",
+    "reference": "Genesis 9:18 (AKJV)",
+    "connected_to": "Genesis 9:19",
+    "connected_from": "Genesis 9:17"
+  },
+  {
+    "text": "These are the three sons of Noah: and of them was the whole earth covered.",
+    "reference": "Genesis 9:19 (AKJV)",
+    "connected_to": "Genesis 9:20",
+    "connected_from": "Genesis 9:18"
+  },
+  {
+    "text": "And Noah began to be an farmer, and he planted a vineyard:",
+    "reference": "Genesis 9:20 (AKJV)",
+    "connected_to": "Genesis 9:21",
+    "connected_from": "Genesis 9:19"
+  },
+  {
+    "text": "And he drank of the wine, and was drunken; and he was uncovered within his tent.",
+    "reference": "Genesis 9:21 (AKJV)",
+    "connected_to": "Genesis 9:22",
+    "connected_from": "Genesis 9:20"
+  },
+  {
+    "text": "And Ham, the father of Canaan, saw the nakedness of his father, and told his two brothers without.",
+    "reference": "Genesis 9:22 (AKJV)",
+    "connected_to": "Genesis 9:23",
+    "connected_from": "Genesis 9:21"
+  },
+  {
+    "text": "And Shem and Japheth took a garment, and laid it on both their shoulders, and went backward, and covered the nakedness of their father; and their faces were backward, and they saw not their father’s nakedness.",
+    "reference": "Genesis 9:23 (AKJV)",
+    "connected_to": "Genesis 9:24",
+    "connected_from": "Genesis 9:22"
+  },
+  {
+    "text": "And Noah awoke from his wine, and knew what his younger son had done to him.",
+    "reference": "Genesis 9:24 (AKJV)",
+    "connected_to": "Genesis 9:25",
+    "connected_from": "Genesis 9:23"
+  },
+  {
+    "text": "And he said, Cursed be Canaan; a servant of servants shall he be to his brothers.",
+    "reference": "Genesis 9:25 (AKJV)",
+    "connected_to": "Genesis 9:26",
+    "connected_from": "Genesis 9:24"
+  },
+  {
+    "text": "And he said, Blessed be the LORD God of Shem; and Canaan shall be his servant.",
+    "reference": "Genesis 9:26 (AKJV)",
+    "connected_to": "Genesis 9:27",
+    "connected_from": "Genesis 9:25"
+  },
+  {
+    "text": "God shall enlarge Japheth, and he shall dwell in the tents of Shem; and Canaan shall be his servant.",
+    "reference": "Genesis 9:27 (AKJV)",
+    "connected_to": "Genesis 9:28",
+    "connected_from": "Genesis 9:26"
+  },
+  {
+    "text": "And Noah lived after the flood three hundred and fifty years.",
+    "reference": "Genesis 9:28 (AKJV)",
+    "connected_to": "Genesis 9:29",
+    "connected_from": "Genesis 9:27"
+  },
+  {
+    "text": "And all the days of Noah were nine hundred and fifty years: and he died.",
+    "reference": "Genesis 9:29 (AKJV)",
+    "connected_from": "Genesis 9:28"
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "text": "And remember your Creator in the days of your youth, while the days of evil have not come, and the years have drawn near when you say, “No delight for me [is] in them!”",
+    "reference": "Ecclesiastes 12:1 (BLB)",
+    "connected_to": "Ecclesiastes 12:2"
+  },
+  {
+    "text": "While that the sun is not darkened, and the light, and the moon, and the stars, and the clouds return after the rain,",
+    "reference": "Ecclesiastes 12:2 (BLB)",
+    "connected_to": "Ecclesiastes 12:3",
+    "connected_from": "Ecclesiastes 12:1"
+  },
+  {
+    "text": "in the day the guards of the house tremble, and the men of strength bow down, and those gridning cease because they are few, and those looking out through the windows grow dim,",
+    "reference": "Ecclesiastes 12:3 (BLB)",
+    "connected_to": "Ecclesiastes 12:4",
+    "connected_from": "Ecclesiastes 12:2"
+  },
+  {
+    "text": "and the doors are shut in the streets, and the sound of the grinding becomes low, and one rises up at the voice of the bird, and all the daughters of the song are bent low—",
+    "reference": "Ecclesiastes 12:4 (BLB)",
+    "connected_to": "Ecclesiastes 12:5",
+    "connected_from": "Ecclesiastes 12:3"
+  },
+  {
+    "text": "they are afraid even from height and terrors in the way; for the almond tree blossoms, and the grasshopper carries itself along and the caper berry breaks off, because man is going to his eternal home, and those mourning go around in the street—",
+    "reference": "Ecclesiastes 12:5 (BLB)",
+    "connected_to": "Ecclesiastes 12:6",
+    "connected_from": "Ecclesiastes 12:4"
+  },
+  {
+    "text": "while the cord of silver is not snapped or the bowl of gold broken or the pitcher shattered at the fountain or the wheel crushed at the well,",
+    "reference": "Ecclesiastes 12:6 (BLB)",
+    "connected_to": "Ecclesiastes 12:7",
+    "connected_from": "Ecclesiastes 12:5"
+  },
+  {
+    "text": "and the dust returns to the earth as it was, and the spirit returns to God who gave it.",
+    "reference": "Ecclesiastes 12:7 (BLB)",
+    "connected_to": "Ecclesiastes 12:8",
+    "connected_from": "Ecclesiastes 12:6"
+  },
+  {
+    "text": "“Vapor of vapors,” says the Qoheleth; “All [is] vapor!”",
+    "reference": "Ecclesiastes 12:8 (BLB)",
+    "connected_to": "Ecclesiastes 12:9",
+    "connected_from": "Ecclesiastes 12:7"
+  },
+  {
+    "text": "And further, Qoheleth, being wise, also did he teach the people knowledge, and he pondered, and he searched, [and] he arranged many proverbs.",
+    "reference": "Ecclesiastes 12:9 (BLB)",
+    "connected_to": "Ecclesiastes 12:10",
+    "connected_from": "Ecclesiastes 12:8"
+  },
+  {
+    "text": "Qoheleth sought to find words of delight and to record uprightly—words of truth.",
+    "reference": "Ecclesiastes 12:10 (BLB)",
+    "connected_to": "Ecclesiastes 12:11",
+    "connected_from": "Ecclesiastes 12:9"
+  },
+  {
+    "text": "The words of the wise [are] like goads, and like nails implanted [by] the masters of collections, given by one Shepherd.",
+    "reference": "Ecclesiastes 12:11 (BLB)",
+    "connected_to": "Ecclesiastes 12:12",
+    "connected_from": "Ecclesiastes 12:10"
+  },
+  {
+    "text": "And further, by these my son, be warned: To the making of many books there is no end, and much study is weariness to the flesh.",
+    "reference": "Ecclesiastes 12:12 (BLB)",
+    "connected_to": "Ecclesiastes 12:13",
+    "connected_from": "Ecclesiastes 12:11"
+  },
+  {
+    "text": "The conclusion of the whole of matter has been heard. You shall fear God and keep His commandments—for this [is] [is] the whole of the man.",
+    "reference": "Ecclesiastes 12:13 (BLB)",
+    "connected_to": "Ecclesiastes 12:14",
+    "connected_from": "Ecclesiastes 12:12"
+  },
+  {
+    "text": "For God will bring every work into judgment, with every hidden thing, whether good or evil.",
+    "reference": "Ecclesiastes 12:14 (BLB)",
+    "connected_from": "Ecclesiastes 12:13"
+  }
+]

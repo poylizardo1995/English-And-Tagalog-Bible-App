@@ -1,0 +1,66 @@
+[
+  {
+    "text": "Michtam of David. Preserve me, O God; for in thee do I take refuge.",
+    "reference": "Psalm 16:1 (ASV)",
+    "connected_to": "Psalm 16:2"
+  },
+  {
+    "text": "O my soul, thou hast said unto Jehovah, Thou art my Lord: I have no good beyond thee.",
+    "reference": "Psalm 16:2 (ASV)",
+    "connected_to": "Psalm 16:3",
+    "connected_from": "Psalm 16:1"
+  },
+  {
+    "text": "As for the saints that are in the earth, They are the excellent in whom is all my delight.",
+    "reference": "Psalm 16:3 (ASV)",
+    "connected_to": "Psalm 16:4",
+    "connected_from": "Psalm 16:2"
+  },
+  {
+    "text": "Their sorrows shall be multiplied that give gifts for another god: Their drink-offerings of blood will I not offer, Nor take their names upon my lips.",
+    "reference": "Psalm 16:4 (ASV)",
+    "connected_to": "Psalm 16:5",
+    "connected_from": "Psalm 16:3"
+  },
+  {
+    "text": "Jehovah is the portion of mine inheritance and of my cup: Thou maintainest my lot.",
+    "reference": "Psalm 16:5 (ASV)",
+    "connected_to": "Psalm 16:6",
+    "connected_from": "Psalm 16:4"
+  },
+  {
+    "text": "The lines are fallen unto me in pleasant places; Yea, I have a goodly heritage.",
+    "reference": "Psalm 16:6 (ASV)",
+    "connected_to": "Psalm 16:7",
+    "connected_from": "Psalm 16:5"
+  },
+  {
+    "text": "I will bless Jehovah, who hath given me counsel; Yea, my heart instructeth me in the night seasons.",
+    "reference": "Psalm 16:7 (ASV)",
+    "connected_to": "Psalm 16:8",
+    "connected_from": "Psalm 16:6"
+  },
+  {
+    "text": "I have set Jehovah always before me: Because he is at my right hand, I shall not be moved.",
+    "reference": "Psalm 16:8 (ASV)",
+    "connected_to": "Psalm 16:9",
+    "connected_from": "Psalm 16:7"
+  },
+  {
+    "text": "Therefore my heart is glad, and my glory rejoiceth; My flesh also shall dwell in safety.",
+    "reference": "Psalm 16:9 (ASV)",
+    "connected_to": "Psalm 16:10",
+    "connected_from": "Psalm 16:8"
+  },
+  {
+    "text": "For thou wilt not leave my soul to Sheol; Neither wilt thou suffer thy holy one to see corruption.",
+    "reference": "Psalm 16:10 (ASV)",
+    "connected_to": "Psalm 16:11",
+    "connected_from": "Psalm 16:9"
+  },
+  {
+    "text": "Thou wilt show me the path of life: In thy presence is fulness of joy; In thy right hand there are pleasures for evermore.",
+    "reference": "Psalm 16:11 (ASV)",
+    "connected_from": "Psalm 16:10"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "text": "A Song of the Ascents. <span class=|reftext|><a href=|#|><b>1</b></a> To YHWH, in the distress for me, I cried out, and He answered me.",
+    "reference": "Psalm 120:1 (BLB)",
+    "connected_to": "Psalm 120:2"
+  },
+  {
+    "text": "O YHWH, deliver my soul from a lip of falsehood, from a tongue of deceit!",
+    "reference": "Psalm 120:2 (BLB)",
+    "connected_to": "Psalm 120:3",
+    "connected_from": "Psalm 120:1"
+  },
+  {
+    "text": "What will He give to you, or what will He add to you, O tongue of deceit?",
+    "reference": "Psalm 120:3 (BLB)",
+    "connected_to": "Psalm 120:4",
+    "connected_from": "Psalm 120:2"
+  },
+  {
+    "text": "The sharpened arrows of a mighty one, with the burning coals of broom trees!",
+    "reference": "Psalm 120:4 (BLB)",
+    "connected_to": "Psalm 120:5",
+    "connected_from": "Psalm 120:3"
+  },
+  {
+    "text": "Woe to me for I have sojourned [in] Mesech; I have dwelt among the tents of Kedar!",
+    "reference": "Psalm 120:5 (BLB)",
+    "connected_to": "Psalm 120:6",
+    "connected_from": "Psalm 120:4"
+  },
+  {
+    "text": "Too much has dwelt my soul with the one hating peace!",
+    "reference": "Psalm 120:6 (BLB)",
+    "connected_to": "Psalm 120:7",
+    "connected_from": "Psalm 120:5"
+  },
+  {
+    "text": "I [am] peace, and when I speak, they [are] for war.",
+    "reference": "Psalm 120:7 (BLB)",
+    "connected_from": "Psalm 120:6"
+  }
+]

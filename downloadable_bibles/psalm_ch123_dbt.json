@@ -1,0 +1,24 @@
+[
+  {
+    "text": "{A Song of degrees.} Unto thee do I lift up mine eyes, O thou that dwellest in the heavens.",
+    "reference": "Psalm 123:1 (DBT)",
+    "connected_to": "Psalm 123:2"
+  },
+  {
+    "text": "Behold, as the eyes of servants [look] unto the hand of their masters, as the eyes of a maiden unto the hand of her mistress, so our eyes [are directed] to Jehovah our God, until he be gracious unto us.",
+    "reference": "Psalm 123:2 (DBT)",
+    "connected_to": "Psalm 123:3",
+    "connected_from": "Psalm 123:1"
+  },
+  {
+    "text": "Be gracious unto us, O Jehovah, be gracious unto us; for we are exceedingly filled with contempt.",
+    "reference": "Psalm 123:3 (DBT)",
+    "connected_to": "Psalm 123:4",
+    "connected_from": "Psalm 123:2"
+  },
+  {
+    "text": "Our soul is exceedingly filled with the scorning of those that are at ease, with the contempt of the proud.",
+    "reference": "Psalm 123:4 (DBT)",
+    "connected_from": "Psalm 123:3"
+  }
+]

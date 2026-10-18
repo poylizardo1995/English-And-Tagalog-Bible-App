@@ -1,0 +1,222 @@
+[
+  {
+    "text": "As He was leaving the Temple, one of His disciples exclaimed, “Look, Rabbi, what wonderful stones! what wonderful buildings!”",
+    "reference": "Mark 13:1 (WNT)",
+    "connected_to": "Mark 13:2"
+  },
+  {
+    "text": "“You see all these great buildings?” Jesus replied; “not one stone will be left here upon another—not thrown down.”",
+    "reference": "Mark 13:2 (WNT)",
+    "connected_to": "Mark 13:3",
+    "connected_from": "Mark 13:1"
+  },
+  {
+    "text": "He was sitting on the Mount of Olives opposite to the Temple, when Peter, James, John, and Andrew, apart from the others asked Him,",
+    "reference": "Mark 13:3 (WNT)",
+    "connected_to": "Mark 13:4",
+    "connected_from": "Mark 13:2"
+  },
+  {
+    "text": "“Tell us, When will these things be? and what will be the sign when all these predictions are on the point of being fulfilled?”",
+    "reference": "Mark 13:4 (WNT)",
+    "connected_to": "Mark 13:5",
+    "connected_from": "Mark 13:3"
+  },
+  {
+    "text": "So Jesus began to say to them: “Take care that no one misleads you.",
+    "reference": "Mark 13:5 (WNT)",
+    "connected_to": "Mark 13:6",
+    "connected_from": "Mark 13:4"
+  },
+  {
+    "text": "Many will come assuming my name and saying, ‘I am He;’ and they will mislead many.",
+    "reference": "Mark 13:6 (WNT)",
+    "connected_to": "Mark 13:7",
+    "connected_from": "Mark 13:5"
+  },
+  {
+    "text": "But when you hear of wars and rumours of wars, do not be alarmed: come they must, but the End is not yet.",
+    "reference": "Mark 13:7 (WNT)",
+    "connected_to": "Mark 13:8",
+    "connected_from": "Mark 13:6"
+  },
+  {
+    "text": "For nation will rise in arms against nation, and kingdom against kingdom. There will be earthquakes in various places; there will be famines. These miseries are but like the early pains of childbirth.",
+    "reference": "Mark 13:8 (WNT)",
+    "connected_to": "Mark 13:9",
+    "connected_from": "Mark 13:7"
+  },
+  {
+    "text": "“You yourselves must be on your guard. They will deliver you up to Sanhedrins; you will be brought into synagogues and cruelly beaten; and you will stand before governors and kings for my sake, to be witnesses to them for me.",
+    "reference": "Mark 13:9 (WNT)",
+    "connected_to": "Mark 13:10",
+    "connected_from": "Mark 13:8"
+  },
+  {
+    "text": "But the proclamation of the Good News must be carried to all the Gentiles before the End comes.",
+    "reference": "Mark 13:10 (WNT)",
+    "connected_to": "Mark 13:11",
+    "connected_from": "Mark 13:9"
+  },
+  {
+    "text": "When however they are marching you along under arrest, do not be anxious beforehand about what you are to say, but speak what is given you when the time comes; for it will not be you who speak, but the Holy Spirit.",
+    "reference": "Mark 13:11 (WNT)",
+    "connected_to": "Mark 13:12",
+    "connected_from": "Mark 13:10"
+  },
+  {
+    "text": "“Brother will betray brother to be killed, and fathers will betray children; and children will rise against their parents and have them put to death.",
+    "reference": "Mark 13:12 (WNT)",
+    "connected_to": "Mark 13:13",
+    "connected_from": "Mark 13:11"
+  },
+  {
+    "text": "You will be objects of universal hatred because you are called by my name, but those who stand firm to the End will be saved.",
+    "reference": "Mark 13:13 (WNT)",
+    "connected_to": "Mark 13:14",
+    "connected_from": "Mark 13:12"
+  },
+  {
+    "text": "“As soon, however, as you see the Abomination of Desolation standing where he ought not”—let the reader observe these words—”then let those in Judaea escape to the hills;",
+    "reference": "Mark 13:14 (WNT)",
+    "connected_to": "Mark 13:15",
+    "connected_from": "Mark 13:13"
+  },
+  {
+    "text": "let him who is on the roof not come down and enter the house to fetch anything out of it;",
+    "reference": "Mark 13:15 (WNT)",
+    "connected_to": "Mark 13:16",
+    "connected_from": "Mark 13:14"
+  },
+  {
+    "text": "and let not him who is in the field turn back to pick up his outer garment.",
+    "reference": "Mark 13:16 (WNT)",
+    "connected_to": "Mark 13:17",
+    "connected_from": "Mark 13:15"
+  },
+  {
+    "text": "And alas for the women who at that time are with child or have infants!",
+    "reference": "Mark 13:17 (WNT)",
+    "connected_to": "Mark 13:18",
+    "connected_from": "Mark 13:16"
+  },
+  {
+    "text": "“But pray that it may not come in the winter.",
+    "reference": "Mark 13:18 (WNT)",
+    "connected_to": "Mark 13:19",
+    "connected_from": "Mark 13:17"
+  },
+  {
+    "text": "For those will be times of suffering the like of which has never been from the first creation of God’s world until now, and assuredly never will be again;",
+    "reference": "Mark 13:19 (WNT)",
+    "connected_to": "Mark 13:20",
+    "connected_from": "Mark 13:18"
+  },
+  {
+    "text": "and but for the fact that the Lord has cut short those days, no one would escape; but for the sake of His own People whom He has chosen for Himself He has cut short the days.",
+    "reference": "Mark 13:20 (WNT)",
+    "connected_to": "Mark 13:21",
+    "connected_from": "Mark 13:19"
+  },
+  {
+    "text": "“At that time if any one says to you, ‘See, here is the Christ!’ or ‘See, He is there!’ do not believe it.",
+    "reference": "Mark 13:21 (WNT)",
+    "connected_to": "Mark 13:22",
+    "connected_from": "Mark 13:20"
+  },
+  {
+    "text": "For there will rise up false Christs and false prophets, displaying signs and prodigies with a view to lead astray—if indeed that were possible—even God’s own People.",
+    "reference": "Mark 13:22 (WNT)",
+    "connected_to": "Mark 13:23",
+    "connected_from": "Mark 13:21"
+  },
+  {
+    "text": "But as for yourselves, be on your guard: I have forewarned you of everything.",
+    "reference": "Mark 13:23 (WNT)",
+    "connected_to": "Mark 13:24",
+    "connected_from": "Mark 13:22"
+  },
+  {
+    "text": "“At that time, however, after that distress, the sun will be darkened and the moon will not shed her light;",
+    "reference": "Mark 13:24 (WNT)",
+    "connected_to": "Mark 13:25",
+    "connected_from": "Mark 13:23"
+  },
+  {
+    "text": "the stars will be seen falling from the firmament, and the forces which are in the heavens will be disordered and disturbed.",
+    "reference": "Mark 13:25 (WNT)",
+    "connected_to": "Mark 13:26",
+    "connected_from": "Mark 13:24"
+  },
+  {
+    "text": "And then will they see the Son of Man coming in clouds with great power and glory.",
+    "reference": "Mark 13:26 (WNT)",
+    "connected_to": "Mark 13:27",
+    "connected_from": "Mark 13:25"
+  },
+  {
+    "text": "Then He will send forth the angels and gather together His chosen People from north, south, east and west, from the remotest parts of the earth and the sky.",
+    "reference": "Mark 13:27 (WNT)",
+    "connected_to": "Mark 13:28",
+    "connected_from": "Mark 13:26"
+  },
+  {
+    "text": "“Learn from the fig-tree the lesson it teaches. As soon as its branch has become soft and it is bursting into leaf, you know that summer is near.",
+    "reference": "Mark 13:28 (WNT)",
+    "connected_to": "Mark 13:29",
+    "connected_from": "Mark 13:27"
+  },
+  {
+    "text": "So also do you, when you see these things happening, be sure that He is near, at your very door.",
+    "reference": "Mark 13:29 (WNT)",
+    "connected_to": "Mark 13:30",
+    "connected_from": "Mark 13:28"
+  },
+  {
+    "text": "I tell you in solemn truth that the present generation will certainly not pass away without all these things having first taken place.",
+    "reference": "Mark 13:30 (WNT)",
+    "connected_to": "Mark 13:31",
+    "connected_from": "Mark 13:29"
+  },
+  {
+    "text": "Earth and sky will pass away, but it is certain that my words will not pass away.",
+    "reference": "Mark 13:31 (WNT)",
+    "connected_to": "Mark 13:32",
+    "connected_from": "Mark 13:30"
+  },
+  {
+    "text": "“But as to that day or the exact time no one knows—not even the angels in Heaven, nor the Son, but the Father alone.",
+    "reference": "Mark 13:32 (WNT)",
+    "connected_to": "Mark 13:33",
+    "connected_from": "Mark 13:31"
+  },
+  {
+    "text": "Take care, be on the alert, and pray; for you do not know when it will happen.",
+    "reference": "Mark 13:33 (WNT)",
+    "connected_to": "Mark 13:34",
+    "connected_from": "Mark 13:32"
+  },
+  {
+    "text": "It is like a man living abroad who has left his house, and given the management to his servants—to each one his special duty—and has ordered the porter to keep awake.",
+    "reference": "Mark 13:34 (WNT)",
+    "connected_to": "Mark 13:35",
+    "connected_from": "Mark 13:33"
+  },
+  {
+    "text": "Be wakeful therefore, for you know not when the master of the house is coming—in the evening, at midnight, at cock-crow, or at dawn.",
+    "reference": "Mark 13:35 (WNT)",
+    "connected_to": "Mark 13:36",
+    "connected_from": "Mark 13:34"
+  },
+  {
+    "text": "Beware lest He should arrive unexpectedly and find you asleep.",
+    "reference": "Mark 13:36 (WNT)",
+    "connected_to": "Mark 13:37",
+    "connected_from": "Mark 13:35"
+  },
+  {
+    "text": "Moreover, what I say to you I say to all—Be wakeful!”",
+    "reference": "Mark 13:37 (WNT)",
+    "connected_from": "Mark 13:36"
+  }
+]

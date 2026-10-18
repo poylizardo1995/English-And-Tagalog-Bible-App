@@ -1,0 +1,78 @@
+[
+  {
+    "text": "Bel bows down, Nebo stoops, their idols were on the beasts, and on the cattle: your carriages were heavy laden; they are a burden to the weary beast.",
+    "reference": "Isaiah 46:1 (AKJV)",
+    "connected_to": "Isaiah 46:2"
+  },
+  {
+    "text": "They stoop, they bow down together; they could not deliver the burden, but themselves are gone into captivity.",
+    "reference": "Isaiah 46:2 (AKJV)",
+    "connected_to": "Isaiah 46:3",
+    "connected_from": "Isaiah 46:1"
+  },
+  {
+    "text": "Listen to me, O house of Jacob, and all the remnant of the house of Israel, which are borne by me from the belly, which are carried from the womb:",
+    "reference": "Isaiah 46:3 (AKJV)",
+    "connected_to": "Isaiah 46:4",
+    "connected_from": "Isaiah 46:2"
+  },
+  {
+    "text": "And even to your old age I am he; and even to hoar hairs will I carry you: I have made, and I will bear; even I will carry, and will deliver you.",
+    "reference": "Isaiah 46:4 (AKJV)",
+    "connected_to": "Isaiah 46:5",
+    "connected_from": "Isaiah 46:3"
+  },
+  {
+    "text": "To whom will you liken me, and make me equal, and compare me, that we may be like?",
+    "reference": "Isaiah 46:5 (AKJV)",
+    "connected_to": "Isaiah 46:6",
+    "connected_from": "Isaiah 46:4"
+  },
+  {
+    "text": "They lavish gold out of the bag, and weigh silver in the balance, and hire a goldsmith; and he makes it a god: they fall down, yes, they worship.",
+    "reference": "Isaiah 46:6 (AKJV)",
+    "connected_to": "Isaiah 46:7",
+    "connected_from": "Isaiah 46:5"
+  },
+  {
+    "text": "They bear him on the shoulder, they carry him, and set him in his place, and he stands; from his place shall he not remove: yes, one shall cry to him, yet can he not answer, nor save him out of his trouble.",
+    "reference": "Isaiah 46:7 (AKJV)",
+    "connected_to": "Isaiah 46:8",
+    "connected_from": "Isaiah 46:6"
+  },
+  {
+    "text": "Remember this, and show yourselves men: bring it again to mind, O you transgressors.",
+    "reference": "Isaiah 46:8 (AKJV)",
+    "connected_to": "Isaiah 46:9",
+    "connected_from": "Isaiah 46:7"
+  },
+  {
+    "text": "Remember the former things of old: for I am God, and there is none else; I am God, and there is none like me,",
+    "reference": "Isaiah 46:9 (AKJV)",
+    "connected_to": "Isaiah 46:10",
+    "connected_from": "Isaiah 46:8"
+  },
+  {
+    "text": "Declaring the end from the beginning, and from ancient times the things that are not yet done, saying, My counsel shall stand, and I will do all my pleasure:",
+    "reference": "Isaiah 46:10 (AKJV)",
+    "connected_to": "Isaiah 46:11",
+    "connected_from": "Isaiah 46:9"
+  },
+  {
+    "text": "Calling a ravenous bird from the east, the man that executes my counsel from a far country: yes, I have spoken it, I will also bring it to pass; I have purposed it, I will also do it.",
+    "reference": "Isaiah 46:11 (AKJV)",
+    "connected_to": "Isaiah 46:12",
+    "connected_from": "Isaiah 46:10"
+  },
+  {
+    "text": "Listen to me, you stouthearted, that are far from righteousness:",
+    "reference": "Isaiah 46:12 (AKJV)",
+    "connected_to": "Isaiah 46:13",
+    "connected_from": "Isaiah 46:11"
+  },
+  {
+    "text": "I bring near my righteousness; it shall not be far off, and my salvation shall not tarry: and I will place salvation in Zion for Israel my glory.",
+    "reference": "Isaiah 46:13 (AKJV)",
+    "connected_from": "Isaiah 46:12"
+  }
+]

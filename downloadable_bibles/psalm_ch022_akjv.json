@@ -1,0 +1,186 @@
+[
+  {
+    "text": "My God, my God, why have you forsaken me? why are you so far from helping me, and from the words of my roaring?",
+    "reference": "Psalm 22:1 (AKJV)",
+    "connected_to": "Psalm 22:2"
+  },
+  {
+    "text": "O my God, I cry in the day time, but you hear not; and in the night season, and am not silent.",
+    "reference": "Psalm 22:2 (AKJV)",
+    "connected_to": "Psalm 22:3",
+    "connected_from": "Psalm 22:1"
+  },
+  {
+    "text": "But you are holy, O you that inhabit the praises of Israel.",
+    "reference": "Psalm 22:3 (AKJV)",
+    "connected_to": "Psalm 22:4",
+    "connected_from": "Psalm 22:2"
+  },
+  {
+    "text": "Our fathers trusted in you: they trusted, and you did deliver them.",
+    "reference": "Psalm 22:4 (AKJV)",
+    "connected_to": "Psalm 22:5",
+    "connected_from": "Psalm 22:3"
+  },
+  {
+    "text": "They cried to you, and were delivered: they trusted in you, and were not confounded.",
+    "reference": "Psalm 22:5 (AKJV)",
+    "connected_to": "Psalm 22:6",
+    "connected_from": "Psalm 22:4"
+  },
+  {
+    "text": "But I am a worm, and no man; a reproach of men, and despised of the people.",
+    "reference": "Psalm 22:6 (AKJV)",
+    "connected_to": "Psalm 22:7",
+    "connected_from": "Psalm 22:5"
+  },
+  {
+    "text": "All they that see me laugh me to scorn: they shoot out the lip, they shake the head, saying,",
+    "reference": "Psalm 22:7 (AKJV)",
+    "connected_to": "Psalm 22:8",
+    "connected_from": "Psalm 22:6"
+  },
+  {
+    "text": "He trusted on the LORD that he would deliver him: let him deliver him, seeing he delighted in him.",
+    "reference": "Psalm 22:8 (AKJV)",
+    "connected_to": "Psalm 22:9",
+    "connected_from": "Psalm 22:7"
+  },
+  {
+    "text": "But you are he that took me out of the womb: you did make me hope when I was on my mother’s breasts.",
+    "reference": "Psalm 22:9 (AKJV)",
+    "connected_to": "Psalm 22:10",
+    "connected_from": "Psalm 22:8"
+  },
+  {
+    "text": "I was cast on you from the womb: you are my God from my mother’s belly.",
+    "reference": "Psalm 22:10 (AKJV)",
+    "connected_to": "Psalm 22:11",
+    "connected_from": "Psalm 22:9"
+  },
+  {
+    "text": "Be not far from me; for trouble is near; for there is none to help.",
+    "reference": "Psalm 22:11 (AKJV)",
+    "connected_to": "Psalm 22:12",
+    "connected_from": "Psalm 22:10"
+  },
+  {
+    "text": "Many bulls have compassed me: strong bulls of Bashan have beset me round.",
+    "reference": "Psalm 22:12 (AKJV)",
+    "connected_to": "Psalm 22:13",
+    "connected_from": "Psalm 22:11"
+  },
+  {
+    "text": "They gaped on me with their mouths, as a ravening and a roaring lion.",
+    "reference": "Psalm 22:13 (AKJV)",
+    "connected_to": "Psalm 22:14",
+    "connected_from": "Psalm 22:12"
+  },
+  {
+    "text": "I am poured out like water, and all my bones are out of joint: my heart is like wax; it is melted in the middle of my bowels.",
+    "reference": "Psalm 22:14 (AKJV)",
+    "connected_to": "Psalm 22:15",
+    "connected_from": "Psalm 22:13"
+  },
+  {
+    "text": "My strength is dried up like a potsherd; and my tongue sticks to my jaws; and you have brought me into the dust of death.",
+    "reference": "Psalm 22:15 (AKJV)",
+    "connected_to": "Psalm 22:16",
+    "connected_from": "Psalm 22:14"
+  },
+  {
+    "text": "For dogs have compassed me: the assembly of the wicked have enclosed me: they pierced my hands and my feet.",
+    "reference": "Psalm 22:16 (AKJV)",
+    "connected_to": "Psalm 22:17",
+    "connected_from": "Psalm 22:15"
+  },
+  {
+    "text": "I may tell all my bones: they look and stare on me.",
+    "reference": "Psalm 22:17 (AKJV)",
+    "connected_to": "Psalm 22:18",
+    "connected_from": "Psalm 22:16"
+  },
+  {
+    "text": "They part my garments among them, and cast lots on my clothing.",
+    "reference": "Psalm 22:18 (AKJV)",
+    "connected_to": "Psalm 22:19",
+    "connected_from": "Psalm 22:17"
+  },
+  {
+    "text": "But be not you far from me, O LORD: O my strength, haste you to help me.",
+    "reference": "Psalm 22:19 (AKJV)",
+    "connected_to": "Psalm 22:20",
+    "connected_from": "Psalm 22:18"
+  },
+  {
+    "text": "Deliver my soul from the sword; my darling from the power of the dog.",
+    "reference": "Psalm 22:20 (AKJV)",
+    "connected_to": "Psalm 22:21",
+    "connected_from": "Psalm 22:19"
+  },
+  {
+    "text": "Save me from the lion’s mouth: for you have heard me from the horns of the unicorns.",
+    "reference": "Psalm 22:21 (AKJV)",
+    "connected_to": "Psalm 22:22",
+    "connected_from": "Psalm 22:20"
+  },
+  {
+    "text": "I will declare your name to my brothers: in the middle of the congregation will I praise you.",
+    "reference": "Psalm 22:22 (AKJV)",
+    "connected_to": "Psalm 22:23",
+    "connected_from": "Psalm 22:21"
+  },
+  {
+    "text": "You that fear the LORD, praise him; all you the seed of Jacob, glorify him; and fear him, all you the seed of Israel.",
+    "reference": "Psalm 22:23 (AKJV)",
+    "connected_to": "Psalm 22:24",
+    "connected_from": "Psalm 22:22"
+  },
+  {
+    "text": "For he has not despised nor abhorred the affliction of the afflicted; neither has he hid his face from him; but when he cried to him, he heard.",
+    "reference": "Psalm 22:24 (AKJV)",
+    "connected_to": "Psalm 22:25",
+    "connected_from": "Psalm 22:23"
+  },
+  {
+    "text": "My praise shall be of you in the great congregation: I will pay my vows before them that fear him.",
+    "reference": "Psalm 22:25 (AKJV)",
+    "connected_to": "Psalm 22:26",
+    "connected_from": "Psalm 22:24"
+  },
+  {
+    "text": "The meek shall eat and be satisfied: they shall praise the LORD that seek him: your heart shall live for ever.",
+    "reference": "Psalm 22:26 (AKJV)",
+    "connected_to": "Psalm 22:27",
+    "connected_from": "Psalm 22:25"
+  },
+  {
+    "text": "All the ends of the world shall remember and turn to the LORD: and all the kindreds of the nations shall worship before you.",
+    "reference": "Psalm 22:27 (AKJV)",
+    "connected_to": "Psalm 22:28",
+    "connected_from": "Psalm 22:26"
+  },
+  {
+    "text": "For the kingdom is the LORD’s: and he is the governor among the nations.",
+    "reference": "Psalm 22:28 (AKJV)",
+    "connected_to": "Psalm 22:29",
+    "connected_from": "Psalm 22:27"
+  },
+  {
+    "text": "All they that be fat on earth shall eat and worship: all they that go down to the dust shall bow before him: and none can keep alive his own soul.",
+    "reference": "Psalm 22:29 (AKJV)",
+    "connected_to": "Psalm 22:30",
+    "connected_from": "Psalm 22:28"
+  },
+  {
+    "text": "A seed shall serve him; it shall be accounted to the Lord for a generation.",
+    "reference": "Psalm 22:30 (AKJV)",
+    "connected_to": "Psalm 22:31",
+    "connected_from": "Psalm 22:29"
+  },
+  {
+    "text": "They shall come, and shall declare his righteousness to a people that shall be born, that he has done this.",
+    "reference": "Psalm 22:31 (AKJV)",
+    "connected_from": "Psalm 22:30"
+  }
+]

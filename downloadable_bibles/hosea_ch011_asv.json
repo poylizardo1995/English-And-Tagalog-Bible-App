@@ -1,0 +1,72 @@
+[
+  {
+    "text": "When Israel was a child, then I loved him, and called my son out of Egypt.",
+    "reference": "Hosea 11:1 (ASV)",
+    "connected_to": "Hosea 11:2"
+  },
+  {
+    "text": "The more the prophets called them, the more they went from them: they sacrificed unto the Baalim, and burned incense to graven images.",
+    "reference": "Hosea 11:2 (ASV)",
+    "connected_to": "Hosea 11:3",
+    "connected_from": "Hosea 11:1"
+  },
+  {
+    "text": "Yet I taught Ephraim to walk; I took them on my arms; but they knew not that I healed them.",
+    "reference": "Hosea 11:3 (ASV)",
+    "connected_to": "Hosea 11:4",
+    "connected_from": "Hosea 11:2"
+  },
+  {
+    "text": "I drew them with cords of a man, with bands of love; and I was to them as they that lift up the yoke on their jaws; and I laid food before them.",
+    "reference": "Hosea 11:4 (ASV)",
+    "connected_to": "Hosea 11:5",
+    "connected_from": "Hosea 11:3"
+  },
+  {
+    "text": "They shall not return into the land of Egypt; but the Assyrian shall be their king, because they refused to return to me.",
+    "reference": "Hosea 11:5 (ASV)",
+    "connected_to": "Hosea 11:6",
+    "connected_from": "Hosea 11:4"
+  },
+  {
+    "text": "And the sword shall fall upon their cities, and shall consume their bars, and devour them, because of their own counsels.",
+    "reference": "Hosea 11:6 (ASV)",
+    "connected_to": "Hosea 11:7",
+    "connected_from": "Hosea 11:5"
+  },
+  {
+    "text": "And my people are bent on backsliding from me: though they call them to him that is on high, none at all will exalt him.",
+    "reference": "Hosea 11:7 (ASV)",
+    "connected_to": "Hosea 11:8",
+    "connected_from": "Hosea 11:6"
+  },
+  {
+    "text": "How shall I give thee up, Ephraim? how shall I cast thee off, Israel? how shall I make thee as Admah? how shall I set thee as Zeboiim? my heart is turned within me, my compassions are kindled together.",
+    "reference": "Hosea 11:8 (ASV)",
+    "connected_to": "Hosea 11:9",
+    "connected_from": "Hosea 11:7"
+  },
+  {
+    "text": "I will not execute the fierceness of mine anger, I will not return to destroy Ephraim: for I am God, and not man; the Holy One in the midst of thee; and I will not come in wrath.",
+    "reference": "Hosea 11:9 (ASV)",
+    "connected_to": "Hosea 11:10",
+    "connected_from": "Hosea 11:8"
+  },
+  {
+    "text": "They shall walk after Jehovah, who will roar like a lion; for he will roar, and the children shall come trembling from the west.",
+    "reference": "Hosea 11:10 (ASV)",
+    "connected_to": "Hosea 11:11",
+    "connected_from": "Hosea 11:9"
+  },
+  {
+    "text": "They shall come trembling as a bird out of Egypt, and as a dove out of the land of Assyria; and I will make them to dwell in their houses, saith Jehovah.",
+    "reference": "Hosea 11:11 (ASV)",
+    "connected_to": "Hosea 11:12",
+    "connected_from": "Hosea 11:10"
+  },
+  {
+    "text": "Ephraim compasseth me about with falsehood, and the house of Israel with deceit; but Judah yet ruleth with God, and is faithful with the Holy One.",
+    "reference": "Hosea 11:12 (ASV)",
+    "connected_from": "Hosea 11:11"
+  }
+]

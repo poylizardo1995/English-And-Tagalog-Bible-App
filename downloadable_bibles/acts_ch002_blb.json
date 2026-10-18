@@ -1,0 +1,282 @@
+[
+  {
+    "text": "And in the arriving of the day of Pentecost, they were all together at the same [place].",
+    "reference": "Acts 2:1 (BLB)",
+    "connected_to": "Acts 2:2"
+  },
+  {
+    "text": "And suddenly a sound like a violent rushing of wind came out of heaven, and it filled the whole house where they were sitting.",
+    "reference": "Acts 2:2 (BLB)",
+    "connected_to": "Acts 2:3",
+    "connected_from": "Acts 2:1"
+  },
+  {
+    "text": "And there appeared to them dividing tongues as of fire, and they sat upon each one of them.",
+    "reference": "Acts 2:3 (BLB)",
+    "connected_to": "Acts 2:4",
+    "connected_from": "Acts 2:2"
+  },
+  {
+    "text": "And they were all filled with the Holy Spirit and began to speak in other tongues as the Spirit was giving to them to declare forth.",
+    "reference": "Acts 2:4 (BLB)",
+    "connected_to": "Acts 2:5",
+    "connected_from": "Acts 2:3"
+  },
+  {
+    "text": "Now there were Jews dwelling in Jerusalem, devout men from every nation under heaven.",
+    "reference": "Acts 2:5 (BLB)",
+    "connected_to": "Acts 2:6",
+    "connected_from": "Acts 2:4"
+  },
+  {
+    "text": "Now this sound having happened, the multitude came together and was confounded, because each one was hearing them speaking in [his] own language.",
+    "reference": "Acts 2:6 (BLB)",
+    "connected_to": "Acts 2:7",
+    "connected_from": "Acts 2:5"
+  },
+  {
+    "text": "And they were amazed and were marveling, saying, “Behold, are not all these who are speaking Galileans?",
+    "reference": "Acts 2:7 (BLB)",
+    "connected_to": "Acts 2:8",
+    "connected_from": "Acts 2:6"
+  },
+  {
+    "text": "And how do we each hear our own language in which we were born?",
+    "reference": "Acts 2:8 (BLB)",
+    "connected_to": "Acts 2:9",
+    "connected_from": "Acts 2:7"
+  },
+  {
+    "text": "Parthians and Medes and Elamites; and those inhabiting Mesopotamia, also Judea and Cappadocia, Pontus and Asia,",
+    "reference": "Acts 2:9 (BLB)",
+    "connected_to": "Acts 2:10",
+    "connected_from": "Acts 2:8"
+  },
+  {
+    "text": "both Phrygia and Pamphylia, Egypt and the parts of Libya that [are] around Cyrene; and those visiting from Rome,",
+    "reference": "Acts 2:10 (BLB)",
+    "connected_to": "Acts 2:11",
+    "connected_from": "Acts 2:9"
+  },
+  {
+    "text": "both Jews and converts; Cretans and Arabs—we hear them speaking [in] our own tongues the great things of God!”",
+    "reference": "Acts 2:11 (BLB)",
+    "connected_to": "Acts 2:12",
+    "connected_from": "Acts 2:10"
+  },
+  {
+    "text": "And all were amazed and were perplexed, saying to one another, “What does this wish to be?”",
+    "reference": "Acts 2:12 (BLB)",
+    "connected_to": "Acts 2:13",
+    "connected_from": "Acts 2:11"
+  },
+  {
+    "text": "But others, mocking, were saying, “They are full of new wine!”",
+    "reference": "Acts 2:13 (BLB)",
+    "connected_to": "Acts 2:14",
+    "connected_from": "Acts 2:12"
+  },
+  {
+    "text": "But Peter, having stood up with the Eleven, lifted up his voice and declared forth to them: “Men of Judea and all those inhabiting Jerusalem, let this be known to you⁺, and give heed to my words.",
+    "reference": "Acts 2:14 (BLB)",
+    "connected_to": "Acts 2:15",
+    "connected_from": "Acts 2:13"
+  },
+  {
+    "text": "For these are not drunkards, as you⁺ suppose, for it is the third hour of the day!",
+    "reference": "Acts 2:15 (BLB)",
+    "connected_to": "Acts 2:16",
+    "connected_from": "Acts 2:14"
+  },
+  {
+    "text": "But this is that having been spoken by the prophet Joel:",
+    "reference": "Acts 2:16 (BLB)",
+    "connected_to": "Acts 2:17",
+    "connected_from": "Acts 2:15"
+  },
+  {
+    "text": "‘And it will come to pass in the last days, God says, [that] I will pour out from My Spirit upon all flesh, and your⁺ sons and your⁺ daughters will prophesy, and your⁺ young men will see visions, and your⁺ old men will dream dreams.",
+    "reference": "Acts 2:17 (BLB)",
+    "connected_to": "Acts 2:18",
+    "connected_from": "Acts 2:16"
+  },
+  {
+    "text": "And even on My menservants and on My maidservants I will pour out from My Spirit in those days, and they will prophesy.",
+    "reference": "Acts 2:18 (BLB)",
+    "connected_to": "Acts 2:19",
+    "connected_from": "Acts 2:17"
+  },
+  {
+    "text": "And I will show wonders in the heaven above and signs on the earth below, blood and fire and vapor of smoke.",
+    "reference": "Acts 2:19 (BLB)",
+    "connected_to": "Acts 2:20",
+    "connected_from": "Acts 2:18"
+  },
+  {
+    "text": "The sun will be turned into darkness, and the moon into blood, before the coming Day of the Lord, great and glorious.",
+    "reference": "Acts 2:20 (BLB)",
+    "connected_to": "Acts 2:21",
+    "connected_from": "Acts 2:19"
+  },
+  {
+    "text": "And it will come to pass [that] everyone who shall call upon the name of the Lord will be saved.”",
+    "reference": "Acts 2:21 (BLB)",
+    "connected_to": "Acts 2:22",
+    "connected_from": "Acts 2:20"
+  },
+  {
+    "text": "Men, Israelites, hear these words: Jesus of Nazareth, a man having been set forth by God to you⁺ by miracles and wonders and signs, which God did through Him in your⁺ midst, as you yourselves know,",
+    "reference": "Acts 2:22 (BLB)",
+    "connected_to": "Acts 2:23",
+    "connected_from": "Acts 2:21"
+  },
+  {
+    "text": "Him delivered up by the determinate counsel and foreknowledge of God, you⁺ put to death, having crucified by lawless hands—",
+    "reference": "Acts 2:23 (BLB)",
+    "connected_to": "Acts 2:24",
+    "connected_from": "Acts 2:22"
+  },
+  {
+    "text": "whom God raised up, having loosed the agony of death, inasmuch as it was not possible [for] Him to be held by it.",
+    "reference": "Acts 2:24 (BLB)",
+    "connected_to": "Acts 2:25",
+    "connected_from": "Acts 2:23"
+  },
+  {
+    "text": "For David says about Him: ‘I foresaw the Lord before me through all, because He is at my right hand, that I should not be shaken.",
+    "reference": "Acts 2:25 (BLB)",
+    "connected_to": "Acts 2:26",
+    "connected_from": "Acts 2:24"
+  },
+  {
+    "text": "Because of this my heart was glad and my tongue rejoiced, and now also my flesh will dwell in hope,",
+    "reference": "Acts 2:26 (BLB)",
+    "connected_to": "Acts 2:27",
+    "connected_from": "Acts 2:25"
+  },
+  {
+    "text": "for You will not abandon my soul into Hades, nor will You give Your Holy One to see decay.",
+    "reference": "Acts 2:27 (BLB)",
+    "connected_to": "Acts 2:28",
+    "connected_from": "Acts 2:26"
+  },
+  {
+    "text": "You made known to me the paths of life; You will fill me with joy in Your presence.’",
+    "reference": "Acts 2:28 (BLB)",
+    "connected_to": "Acts 2:29",
+    "connected_from": "Acts 2:27"
+  },
+  {
+    "text": "Men, brothers, it is permitted [me] to speak with freedom to you⁺ concerning the patriarch David, that he both died and was buried, and his tomb is among us unto this day,",
+    "reference": "Acts 2:29 (BLB)",
+    "connected_to": "Acts 2:30",
+    "connected_from": "Acts 2:28"
+  },
+  {
+    "text": "being therefore a prophet and knowing that God swore to him with an oath to seat one out of the fruit of his loins upon his throne.",
+    "reference": "Acts 2:30 (BLB)",
+    "connected_to": "Acts 2:31",
+    "connected_from": "Acts 2:29"
+  },
+  {
+    "text": "Having foreseen, he spoke concerning the resurrection of the Christ, that neither was He abandoned into Hades, nor did His flesh see decay.",
+    "reference": "Acts 2:31 (BLB)",
+    "connected_to": "Acts 2:32",
+    "connected_from": "Acts 2:30"
+  },
+  {
+    "text": "This Jesus God raised up, of which we all are witnesses.",
+    "reference": "Acts 2:32 (BLB)",
+    "connected_to": "Acts 2:33",
+    "connected_from": "Acts 2:31"
+  },
+  {
+    "text": "Therefore, having been exalted to the right hand of God and having received the promise of the Holy Spirit from the Father, He poured out this which you⁺ both see and hear.",
+    "reference": "Acts 2:33 (BLB)",
+    "connected_to": "Acts 2:34",
+    "connected_from": "Acts 2:32"
+  },
+  {
+    "text": "For David did not ascend into the heavens, but he himself says: ‘The Lord said to my Lord, “Sit at My right hand",
+    "reference": "Acts 2:34 (BLB)",
+    "connected_to": "Acts 2:35",
+    "connected_from": "Acts 2:33"
+  },
+  {
+    "text": "until I place Your enemies [as] a footstool for Your feet.”’",
+    "reference": "Acts 2:35 (BLB)",
+    "connected_to": "Acts 2:36",
+    "connected_from": "Acts 2:34"
+  },
+  {
+    "text": "Therefore let all the house of Israel know assuredly that God made Him both Lord and Christ—this Jesus whom you⁺ crucified.”",
+    "reference": "Acts 2:36 (BLB)",
+    "connected_to": "Acts 2:37",
+    "connected_from": "Acts 2:35"
+  },
+  {
+    "text": "And having heard, they were pierced to the heart and said to Peter and the other apostles, “Men, brothers, what shall we do?”",
+    "reference": "Acts 2:37 (BLB)",
+    "connected_to": "Acts 2:38",
+    "connected_from": "Acts 2:36"
+  },
+  {
+    "text": "And Peter says to them, “Repent and be baptized, every one of you⁺, in the name of Jesus Christ for the forgiveness of your⁺ sins, and you⁺ will receive the gift of the Holy Spirit.",
+    "reference": "Acts 2:38 (BLB)",
+    "connected_to": "Acts 2:39",
+    "connected_from": "Acts 2:37"
+  },
+  {
+    "text": "For the promise is to you⁺ and to your⁺ children and to all those at a distance, as many as the Lord our God shall summon.”",
+    "reference": "Acts 2:39 (BLB)",
+    "connected_to": "Acts 2:40",
+    "connected_from": "Acts 2:38"
+  },
+  {
+    "text": "And he earnestly testified many other words and was exhorting them, saying, “Be saved from this crooked generation.”",
+    "reference": "Acts 2:40 (BLB)",
+    "connected_to": "Acts 2:41",
+    "connected_from": "Acts 2:39"
+  },
+  {
+    "text": "Therefore those indeed having received his word were baptized, and on that day about three thousand souls were added.",
+    "reference": "Acts 2:41 (BLB)",
+    "connected_to": "Acts 2:42",
+    "connected_from": "Acts 2:40"
+  },
+  {
+    "text": "Now they were steadfastly continuing in the teaching of the apostles and in the fellowship, in the breaking of the bread and in the prayers.",
+    "reference": "Acts 2:42 (BLB)",
+    "connected_to": "Acts 2:43",
+    "connected_from": "Acts 2:41"
+  },
+  {
+    "text": "And fear was coming upon every soul, and many wonders and signs were taking place through the apostles.",
+    "reference": "Acts 2:43 (BLB)",
+    "connected_to": "Acts 2:44",
+    "connected_from": "Acts 2:42"
+  },
+  {
+    "text": "And all those believing were in the same [place] and were having all things in common.",
+    "reference": "Acts 2:44 (BLB)",
+    "connected_to": "Acts 2:45",
+    "connected_from": "Acts 2:43"
+  },
+  {
+    "text": "And they were selling the possessions and the goods and were dividing them to all, as anyone had need.",
+    "reference": "Acts 2:45 (BLB)",
+    "connected_to": "Acts 2:46",
+    "connected_from": "Acts 2:44"
+  },
+  {
+    "text": "And every day they were steadfastly continuing with one accord in the temple and breaking bread at each house. They were partaking of food with gladness and sincerity of heart,",
+    "reference": "Acts 2:46 (BLB)",
+    "connected_to": "Acts 2:47",
+    "connected_from": "Acts 2:45"
+  },
+  {
+    "text": "praising God and having favor with all the people. And the Lord kept adding every day to the same those being saved.",
+    "reference": "Acts 2:47 (BLB)",
+    "connected_from": "Acts 2:46"
+  }
+]

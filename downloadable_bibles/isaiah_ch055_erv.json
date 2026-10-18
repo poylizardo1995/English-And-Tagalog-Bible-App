@@ -1,0 +1,78 @@
+[
+  {
+    "text": "Ho, every one that thirsteth, come ye to the waters, and he that hath no money; come ye, buy, and eat; yea, come, buy wine and milk without money and without price.",
+    "reference": "Isaiah 55:1 (ERV)",
+    "connected_to": "Isaiah 55:2"
+  },
+  {
+    "text": "Wherefore do ye spend money for that which is not bread? and your labour for that which satisfieth not? hearken diligently unto me, and eat ye that which is good, and let your soul delight itself in fatness.",
+    "reference": "Isaiah 55:2 (ERV)",
+    "connected_to": "Isaiah 55:3",
+    "connected_from": "Isaiah 55:1"
+  },
+  {
+    "text": "Incline your ear, and come unto me; hear, and your soul shall live: and I will make an everlasting covenant with you, even the sure mercies of David.",
+    "reference": "Isaiah 55:3 (ERV)",
+    "connected_to": "Isaiah 55:4",
+    "connected_from": "Isaiah 55:2"
+  },
+  {
+    "text": "Behold, I have given him for a witness to the peoples, a leader and commander to the peoples.",
+    "reference": "Isaiah 55:4 (ERV)",
+    "connected_to": "Isaiah 55:5",
+    "connected_from": "Isaiah 55:3"
+  },
+  {
+    "text": "Behold, thou shalt call a nation that thou knowest not, and a nation that knew not thee shall run unto thee, because of the LORD thy God, and for the Holy One of Israel; for he hath glorified thee.",
+    "reference": "Isaiah 55:5 (ERV)",
+    "connected_to": "Isaiah 55:6",
+    "connected_from": "Isaiah 55:4"
+  },
+  {
+    "text": "Seek ye the LORD while he may be found, call ye upon him while he is near:",
+    "reference": "Isaiah 55:6 (ERV)",
+    "connected_to": "Isaiah 55:7",
+    "connected_from": "Isaiah 55:5"
+  },
+  {
+    "text": "let the wicked forsake his way, and the unrighteous man his thoughts: and let him return unto the LORD, and he will have mercy upon him; and to our God, for he will abundantly pardon.",
+    "reference": "Isaiah 55:7 (ERV)",
+    "connected_to": "Isaiah 55:8",
+    "connected_from": "Isaiah 55:6"
+  },
+  {
+    "text": "For my thoughts are not your thoughts, neither are your ways my ways, saith the LORD.",
+    "reference": "Isaiah 55:8 (ERV)",
+    "connected_to": "Isaiah 55:9",
+    "connected_from": "Isaiah 55:7"
+  },
+  {
+    "text": "For as the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts.",
+    "reference": "Isaiah 55:9 (ERV)",
+    "connected_to": "Isaiah 55:10",
+    "connected_from": "Isaiah 55:8"
+  },
+  {
+    "text": "For as the rain cometh down and the snow from heaven, and returneth not thither, but watereth the earth, and maketh it bring forth and bud, and giveth seed to the sower and bread to the eater;",
+    "reference": "Isaiah 55:10 (ERV)",
+    "connected_to": "Isaiah 55:11",
+    "connected_from": "Isaiah 55:9"
+  },
+  {
+    "text": "so shall my word be that goeth forth out of my mouth: it shall not return unto me void, but it shall accomplish that which I please, and it shall prosper in the thing whereto I sent it.",
+    "reference": "Isaiah 55:11 (ERV)",
+    "connected_to": "Isaiah 55:12",
+    "connected_from": "Isaiah 55:10"
+  },
+  {
+    "text": "For ye shall go out with joy, and be led forth with peace: the mountains and the hills shall break forth before you into singing, and all the trees of the field shall clap their hands.",
+    "reference": "Isaiah 55:12 (ERV)",
+    "connected_to": "Isaiah 55:13",
+    "connected_from": "Isaiah 55:11"
+  },
+  {
+    "text": "Instead of the thorn shall come up the fir tree, and instead of the brier shall come up the myrtle tree: and it shall be to the LORD for a name, for an everlasting sign that shall not be cut off.",
+    "reference": "Isaiah 55:13 (ERV)",
+    "connected_from": "Isaiah 55:12"
+  }
+]

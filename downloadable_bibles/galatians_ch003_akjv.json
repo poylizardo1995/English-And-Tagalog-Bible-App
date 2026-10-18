@@ -1,0 +1,174 @@
+[
+  {
+    "text": "O foolish Galatians, who has bewitched you, that you should not obey the truth, before whose eyes Jesus Christ has been evidently set forth, crucified among you?",
+    "reference": "Galatians 3:1 (AKJV)",
+    "connected_to": "Galatians 3:2"
+  },
+  {
+    "text": "This only would I learn of you, Received you the Spirit by the works of the law, or by the hearing of faith?",
+    "reference": "Galatians 3:2 (AKJV)",
+    "connected_to": "Galatians 3:3",
+    "connected_from": "Galatians 3:1"
+  },
+  {
+    "text": "Are you so foolish? having begun in the Spirit, are you now made perfect by the flesh?",
+    "reference": "Galatians 3:3 (AKJV)",
+    "connected_to": "Galatians 3:4",
+    "connected_from": "Galatians 3:2"
+  },
+  {
+    "text": "Have you suffered so many things in vain? if it be yet in vain.",
+    "reference": "Galatians 3:4 (AKJV)",
+    "connected_to": "Galatians 3:5",
+    "connected_from": "Galatians 3:3"
+  },
+  {
+    "text": "He therefore that ministers to you the Spirit, and works miracles among you, does he it by the works of the law, or by the hearing of faith?",
+    "reference": "Galatians 3:5 (AKJV)",
+    "connected_to": "Galatians 3:6",
+    "connected_from": "Galatians 3:4"
+  },
+  {
+    "text": "Even as Abraham believed God, and it was accounted to him for righteousness.",
+    "reference": "Galatians 3:6 (AKJV)",
+    "connected_to": "Galatians 3:7",
+    "connected_from": "Galatians 3:5"
+  },
+  {
+    "text": "Know you therefore that they which are of faith, the same are the children of Abraham.",
+    "reference": "Galatians 3:7 (AKJV)",
+    "connected_to": "Galatians 3:8",
+    "connected_from": "Galatians 3:6"
+  },
+  {
+    "text": "And the scripture, foreseeing that God would justify the heathen through faith, preached before the gospel to Abraham, saying, In you shall all nations be blessed.",
+    "reference": "Galatians 3:8 (AKJV)",
+    "connected_to": "Galatians 3:9",
+    "connected_from": "Galatians 3:7"
+  },
+  {
+    "text": "So then they which be of faith are blessed with faithful Abraham.",
+    "reference": "Galatians 3:9 (AKJV)",
+    "connected_to": "Galatians 3:10",
+    "connected_from": "Galatians 3:8"
+  },
+  {
+    "text": "For as many as are of the works of the law are under the curse: for it is written, Cursed is every one that continues not in all things which are written in the book of the law to do them.",
+    "reference": "Galatians 3:10 (AKJV)",
+    "connected_to": "Galatians 3:11",
+    "connected_from": "Galatians 3:9"
+  },
+  {
+    "text": "But that no man is justified by the law in the sight of God, it is evident: for, The just shall live by faith.",
+    "reference": "Galatians 3:11 (AKJV)",
+    "connected_to": "Galatians 3:12",
+    "connected_from": "Galatians 3:10"
+  },
+  {
+    "text": "And the law is not of faith: but, The man that does them shall live in them.",
+    "reference": "Galatians 3:12 (AKJV)",
+    "connected_to": "Galatians 3:13",
+    "connected_from": "Galatians 3:11"
+  },
+  {
+    "text": "Christ has redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangs on a tree:",
+    "reference": "Galatians 3:13 (AKJV)",
+    "connected_to": "Galatians 3:14",
+    "connected_from": "Galatians 3:12"
+  },
+  {
+    "text": "That the blessing of Abraham might come on the Gentiles through Jesus Christ; that we might receive the promise of the Spirit through faith.",
+    "reference": "Galatians 3:14 (AKJV)",
+    "connected_to": "Galatians 3:15",
+    "connected_from": "Galatians 3:13"
+  },
+  {
+    "text": "Brothers, I speak after the manner of men; Though it be but a man’s covenant, yet if it be confirmed, no man cancels, or adds thereto.",
+    "reference": "Galatians 3:15 (AKJV)",
+    "connected_to": "Galatians 3:16",
+    "connected_from": "Galatians 3:14"
+  },
+  {
+    "text": "Now to Abraham and his seed were the promises made. He said not, And to seeds, as of many; but as of one, And to your seed, which is Christ.",
+    "reference": "Galatians 3:16 (AKJV)",
+    "connected_to": "Galatians 3:17",
+    "connected_from": "Galatians 3:15"
+  },
+  {
+    "text": "And this I say, that the covenant, that was confirmed before of God in Christ, the law, which was four hundred and thirty years after, cannot cancel, that it should make the promise of none effect.",
+    "reference": "Galatians 3:17 (AKJV)",
+    "connected_to": "Galatians 3:18",
+    "connected_from": "Galatians 3:16"
+  },
+  {
+    "text": "For if the inheritance be of the law, it is no more of promise: but God gave it to Abraham by promise.",
+    "reference": "Galatians 3:18 (AKJV)",
+    "connected_to": "Galatians 3:19",
+    "connected_from": "Galatians 3:17"
+  },
+  {
+    "text": "Why then serves the law? It was added because of transgressions, till the seed should come to whom the promise was made; and it was ordained by angels in the hand of a mediator.",
+    "reference": "Galatians 3:19 (AKJV)",
+    "connected_to": "Galatians 3:20",
+    "connected_from": "Galatians 3:18"
+  },
+  {
+    "text": "Now a mediator is not a mediator of one, but God is one.",
+    "reference": "Galatians 3:20 (AKJV)",
+    "connected_to": "Galatians 3:21",
+    "connected_from": "Galatians 3:19"
+  },
+  {
+    "text": "Is the law then against the promises of God? God forbid: for if there had been a law given which could have given life, truly righteousness should have been by the law.",
+    "reference": "Galatians 3:21 (AKJV)",
+    "connected_to": "Galatians 3:22",
+    "connected_from": "Galatians 3:20"
+  },
+  {
+    "text": "But the scripture has concluded all under sin, that the promise by faith of Jesus Christ might be given to them that believe.",
+    "reference": "Galatians 3:22 (AKJV)",
+    "connected_to": "Galatians 3:23",
+    "connected_from": "Galatians 3:21"
+  },
+  {
+    "text": "But before faith came, we were kept under the law, shut up to the faith which should afterwards be revealed.",
+    "reference": "Galatians 3:23 (AKJV)",
+    "connected_to": "Galatians 3:24",
+    "connected_from": "Galatians 3:22"
+  },
+  {
+    "text": "Why the law was our schoolmaster to bring us to Christ, that we might be justified by faith.",
+    "reference": "Galatians 3:24 (AKJV)",
+    "connected_to": "Galatians 3:25",
+    "connected_from": "Galatians 3:23"
+  },
+  {
+    "text": "But after that faith is come, we are no longer under a schoolmaster.",
+    "reference": "Galatians 3:25 (AKJV)",
+    "connected_to": "Galatians 3:26",
+    "connected_from": "Galatians 3:24"
+  },
+  {
+    "text": "For you are all the children of God by faith in Christ Jesus.",
+    "reference": "Galatians 3:26 (AKJV)",
+    "connected_to": "Galatians 3:27",
+    "connected_from": "Galatians 3:25"
+  },
+  {
+    "text": "For as many of you as have been baptized into Christ have put on Christ.",
+    "reference": "Galatians 3:27 (AKJV)",
+    "connected_to": "Galatians 3:28",
+    "connected_from": "Galatians 3:26"
+  },
+  {
+    "text": "There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for you are all one in Christ Jesus.",
+    "reference": "Galatians 3:28 (AKJV)",
+    "connected_to": "Galatians 3:29",
+    "connected_from": "Galatians 3:27"
+  },
+  {
+    "text": "And if you be Christ’s, then are you Abraham’s seed, and heirs according to the promise.",
+    "reference": "Galatians 3:29 (AKJV)",
+    "connected_from": "Galatians 3:28"
+  }
+]

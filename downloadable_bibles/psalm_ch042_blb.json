@@ -1,0 +1,66 @@
+[
+  {
+    "text": "For the one directing. A Maskil of the sons of Korah. <span class=|reftext|><a href=|#|><b>1</b></a> As the deer pants for streams of water, so my soul pants for You, O God.",
+    "reference": "Psalm 42:1 (BLB)",
+    "connected_to": "Psalm 42:2"
+  },
+  {
+    "text": "My soul thirsts for God, for the living God. When shall I come and appear before the face of God?",
+    "reference": "Psalm 42:2 (BLB)",
+    "connected_to": "Psalm 42:3",
+    "connected_from": "Psalm 42:1"
+  },
+  {
+    "text": "My tears have been to me [as] bread, day and night, in the saying to me all the day, “Where [is] your God?”",
+    "reference": "Psalm 42:3 (BLB)",
+    "connected_to": "Psalm 42:4",
+    "connected_from": "Psalm 42:2"
+  },
+  {
+    "text": "These [things] I remember, and I pour out my soul within myself: How I crossed over with the throng; I moved with them up to the house of God, with the voice of shouting and praise, with a multitude keeping the feast.",
+    "reference": "Psalm 42:4 (BLB)",
+    "connected_to": "Psalm 42:5",
+    "connected_from": "Psalm 42:3"
+  },
+  {
+    "text": "Why are you cast down, O my soul, and in commotion within me? Wait for God, for still I will praise Him, for the salvation of His face.",
+    "reference": "Psalm 42:5 (BLB)",
+    "connected_to": "Psalm 42:6",
+    "connected_from": "Psalm 42:4"
+  },
+  {
+    "text": "O My God, my soul is downcast within me; upon thus I remember You, from the land of the Jordan and Hermon, from the mount of Mizar.",
+    "reference": "Psalm 42:6 (BLB)",
+    "connected_to": "Psalm 42:7",
+    "connected_from": "Psalm 42:5"
+  },
+  {
+    "text": "Deep is calling to deep, at the voice of Your waterfalls, [and] all Your breakers and waves have passed over me.",
+    "reference": "Psalm 42:7 (BLB)",
+    "connected_to": "Psalm 42:8",
+    "connected_from": "Psalm 42:6"
+  },
+  {
+    "text": "By day, YHWH commands His loving devotion, and in the night His song [is] with me, a prayer to the God of my life.",
+    "reference": "Psalm 42:8 (BLB)",
+    "connected_to": "Psalm 42:9",
+    "connected_from": "Psalm 42:7"
+  },
+  {
+    "text": "I will say to God my rock, “Why have You forgotten me? Why must I walk in mourning in the oppression of the enemy?”",
+    "reference": "Psalm 42:9 (BLB)",
+    "connected_to": "Psalm 42:10",
+    "connected_from": "Psalm 42:8"
+  },
+  {
+    "text": "With a shattering in my bones, my enemies taunt me, in their saying to me all the day, “Where [is] your God?”",
+    "reference": "Psalm 42:10 (BLB)",
+    "connected_to": "Psalm 42:11",
+    "connected_from": "Psalm 42:9"
+  },
+  {
+    "text": "Why are you cast down, O my soul, and why are you in commotion within me? Wait for God, for still I will praise Him, the salvation of my face, and my God.",
+    "reference": "Psalm 42:11 (BLB)",
+    "connected_from": "Psalm 42:10"
+  }
+]

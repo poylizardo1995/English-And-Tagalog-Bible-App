@@ -1,0 +1,24 @@
+[
+  {
+    "text": "A Song of Ascents. Unto thee do I lift up mine eyes, O thou that sittest in the heavens.",
+    "reference": "Psalm 123:1 (ERV)",
+    "connected_to": "Psalm 123:2"
+  },
+  {
+    "text": "Behold, as the eyes of servants look unto the hand of their master, as the eyes of a maiden unto the hand of her mistress; so our eyes look unto the LORD our God, until he have mercy upon us.",
+    "reference": "Psalm 123:2 (ERV)",
+    "connected_to": "Psalm 123:3",
+    "connected_from": "Psalm 123:1"
+  },
+  {
+    "text": "Have mercy upon us, O LORD, have mercy upon us: for we are exceedingly filled with contempt.",
+    "reference": "Psalm 123:3 (ERV)",
+    "connected_to": "Psalm 123:4",
+    "connected_from": "Psalm 123:2"
+  },
+  {
+    "text": "Our soul is exceedingly filled with the scorning of those that are at ease, and with the contempt of the proud.",
+    "reference": "Psalm 123:4 (ERV)",
+    "connected_from": "Psalm 123:3"
+  }
+]

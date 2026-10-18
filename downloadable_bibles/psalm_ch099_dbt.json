@@ -1,0 +1,54 @@
+[
+  {
+    "text": "Jehovah reigneth: let the peoples tremble. He sitteth [between the] cherubim: let the earth be moved.",
+    "reference": "Psalm 99:1 (DBT)",
+    "connected_to": "Psalm 99:2"
+  },
+  {
+    "text": "Jehovah is great in Zion, and he is high above all the peoples.",
+    "reference": "Psalm 99:2 (DBT)",
+    "connected_to": "Psalm 99:3",
+    "connected_from": "Psalm 99:1"
+  },
+  {
+    "text": "They shall praise thy great and terrible name,—it is holy!—",
+    "reference": "Psalm 99:3 (DBT)",
+    "connected_to": "Psalm 99:4",
+    "connected_from": "Psalm 99:2"
+  },
+  {
+    "text": "And the strength of the king that loveth justice. Thou hast established equity: it is thou that executest judgment and righteousness in Jacob.",
+    "reference": "Psalm 99:4 (DBT)",
+    "connected_to": "Psalm 99:5",
+    "connected_from": "Psalm 99:3"
+  },
+  {
+    "text": "Exalt Jehovah our God, and worship at his footstool. He is holy!",
+    "reference": "Psalm 99:5 (DBT)",
+    "connected_to": "Psalm 99:6",
+    "connected_from": "Psalm 99:4"
+  },
+  {
+    "text": "Moses and Aaron among his priests, and Samuel among them that call upon his name: they called unto Jehovah, and he answered them.",
+    "reference": "Psalm 99:6 (DBT)",
+    "connected_to": "Psalm 99:7",
+    "connected_from": "Psalm 99:5"
+  },
+  {
+    "text": "He spoke unto them in the pillar of cloud: they kept his testimonies, and the statute that he gave them.",
+    "reference": "Psalm 99:7 (DBT)",
+    "connected_to": "Psalm 99:8",
+    "connected_from": "Psalm 99:6"
+  },
+  {
+    "text": "Jehovah, our God, thou answeredst them: a forgiving God wast thou unto them, though thou tookest vengeance of their doings.",
+    "reference": "Psalm 99:8 (DBT)",
+    "connected_to": "Psalm 99:9",
+    "connected_from": "Psalm 99:7"
+  },
+  {
+    "text": "Exalt Jehovah our God, and worship at the hill of his holiness; for holy is Jehovah our God.",
+    "reference": "Psalm 99:9 (DBT)",
+    "connected_from": "Psalm 99:8"
+  }
+]

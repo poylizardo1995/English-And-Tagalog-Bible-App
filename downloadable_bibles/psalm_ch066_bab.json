@@ -1,0 +1,120 @@
+[
+  {
+    "text": "For the choirmaster. A song. A Psalm. <span class=|reftext|><a href=|#|><b>1</b></a> Make a joyful noise to God {Elohim}, all the earth!",
+    "reference": "Psalm 66:1 (BAB)",
+    "connected_to": "Psalm 66:2"
+  },
+  {
+    "text": "Sing the glory of His name; make His praise glorious.",
+    "reference": "Psalm 66:2 (BAB)",
+    "connected_to": "Psalm 66:3",
+    "connected_from": "Psalm 66:1"
+  },
+  {
+    "text": "Say to God {Elohim}, “How awesome are Your deeds! So great is Your power that Your enemies cower before You.",
+    "reference": "Psalm 66:3 (BAB)",
+    "connected_to": "Psalm 66:4",
+    "connected_from": "Psalm 66:2"
+  },
+  {
+    "text": "All the earth bows down to You; they sing praise to You; they sing praise to Your name.” Selah",
+    "reference": "Psalm 66:4 (BAB)",
+    "connected_to": "Psalm 66:5",
+    "connected_from": "Psalm 66:3"
+  },
+  {
+    "text": "Come and see the works of God {Elohim}; how awesome are His deeds toward mankind.",
+    "reference": "Psalm 66:5 (BAB)",
+    "connected_to": "Psalm 66:6",
+    "connected_from": "Psalm 66:4"
+  },
+  {
+    "text": "He turned the sea into dry land; they passed through the waters on foot; there we rejoiced in Him.",
+    "reference": "Psalm 66:6 (BAB)",
+    "connected_to": "Psalm 66:7",
+    "connected_from": "Psalm 66:5"
+  },
+  {
+    "text": "He rules forever by His power; His eyes watch the nations. Do not let the rebellious exalt themselves. Selah",
+    "reference": "Psalm 66:7 (BAB)",
+    "connected_to": "Psalm 66:8",
+    "connected_from": "Psalm 66:6"
+  },
+  {
+    "text": "Bless our God {Elohenu}, O peoples; let the sound of His praise be heard.",
+    "reference": "Psalm 66:8 (BAB)",
+    "connected_to": "Psalm 66:9",
+    "connected_from": "Psalm 66:7"
+  },
+  {
+    "text": "He preserves our lives and keeps our feet from slipping.",
+    "reference": "Psalm 66:9 (BAB)",
+    "connected_to": "Psalm 66:10",
+    "connected_from": "Psalm 66:8"
+  },
+  {
+    "text": "For You, O God {Elohim}, have tested us; You have refined us like silver.",
+    "reference": "Psalm 66:10 (BAB)",
+    "connected_to": "Psalm 66:11",
+    "connected_from": "Psalm 66:9"
+  },
+  {
+    "text": "You led us into the net; You laid burdens on our backs.",
+    "reference": "Psalm 66:11 (BAB)",
+    "connected_to": "Psalm 66:12",
+    "connected_from": "Psalm 66:10"
+  },
+  {
+    "text": "You let men ride over our heads; we went through fire and water, but You brought us into abundance.",
+    "reference": "Psalm 66:12 (BAB)",
+    "connected_to": "Psalm 66:13",
+    "connected_from": "Psalm 66:11"
+  },
+  {
+    "text": "I will enter Your house with burnt offerings; I will fulfill my vows to You—",
+    "reference": "Psalm 66:13 (BAB)",
+    "connected_to": "Psalm 66:14",
+    "connected_from": "Psalm 66:12"
+  },
+  {
+    "text": "the vows that my lips promised and my mouth spoke in my distress.",
+    "reference": "Psalm 66:14 (BAB)",
+    "connected_to": "Psalm 66:15",
+    "connected_from": "Psalm 66:13"
+  },
+  {
+    "text": "I will offer You fatlings as burnt offerings, with the fragrant smoke of rams; I will offer bulls and goats. Selah",
+    "reference": "Psalm 66:15 (BAB)",
+    "connected_to": "Psalm 66:16",
+    "connected_from": "Psalm 66:14"
+  },
+  {
+    "text": "Come and listen, all you who fear God {Elohim}, and I will declare what He has done for me.",
+    "reference": "Psalm 66:16 (BAB)",
+    "connected_to": "Psalm 66:17",
+    "connected_from": "Psalm 66:15"
+  },
+  {
+    "text": "I cried out to Him with my mouth and praised Him with my tongue (and His praise was on my tongue).",
+    "reference": "Psalm 66:17 (BAB)",
+    "connected_to": "Psalm 66:18",
+    "connected_from": "Psalm 66:16"
+  },
+  {
+    "text": "If I had cherished iniquity in my heart, the Lord {Adonai} would not have listened.",
+    "reference": "Psalm 66:18 (BAB)",
+    "connected_to": "Psalm 66:19",
+    "connected_from": "Psalm 66:17"
+  },
+  {
+    "text": "But God {Elohim} has surely heard; He has attended to the sound of my prayer.",
+    "reference": "Psalm 66:19 (BAB)",
+    "connected_to": "Psalm 66:20",
+    "connected_from": "Psalm 66:18"
+  },
+  {
+    "text": "Blessed be God {Elohim}, who has not rejected my prayer or withheld from me His loving devotion!",
+    "reference": "Psalm 66:20 (BAB)",
+    "connected_from": "Psalm 66:19"
+  }
+]

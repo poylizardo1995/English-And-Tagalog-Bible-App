@@ -1,0 +1,246 @@
+[
+  {
+    "text": "And as he passed on, he saw a man blind from birth.",
+    "reference": "John 9:1 (DBT)",
+    "connected_to": "John 9:2"
+  },
+  {
+    "text": "And his disciples asked him, saying, Rabbi, who sinned, this [man] or his parents, that he should be born blind?",
+    "reference": "John 9:2 (DBT)",
+    "connected_to": "John 9:3",
+    "connected_from": "John 9:1"
+  },
+  {
+    "text": "Jesus answered, Neither has this [man] sinned nor his parents, but that the works of God should be manifested in him.",
+    "reference": "John 9:3 (DBT)",
+    "connected_to": "John 9:4",
+    "connected_from": "John 9:2"
+  },
+  {
+    "text": "I must work the works of him that has sent me while it is day. [The] night is coming, when no one can work.",
+    "reference": "John 9:4 (DBT)",
+    "connected_to": "John 9:5",
+    "connected_from": "John 9:3"
+  },
+  {
+    "text": "As long as I am in the world, I am [the] light of the world.",
+    "reference": "John 9:5 (DBT)",
+    "connected_to": "John 9:6",
+    "connected_from": "John 9:4"
+  },
+  {
+    "text": "Having said these things, he spat on the ground and made mud of the spittle, and put the mud, as ointment, on his eyes.",
+    "reference": "John 9:6 (DBT)",
+    "connected_to": "John 9:7",
+    "connected_from": "John 9:5"
+  },
+  {
+    "text": "And he said to him, Go, wash in the pool of Siloam, which is interpreted, Sent. He went therefore and washed, and came seeing.",
+    "reference": "John 9:7 (DBT)",
+    "connected_to": "John 9:8",
+    "connected_from": "John 9:6"
+  },
+  {
+    "text": "The neighbours therefore, and those who used to see him before, that he was a beggar, said, Is not this he that was sitting and begging?",
+    "reference": "John 9:8 (DBT)",
+    "connected_to": "John 9:9",
+    "connected_from": "John 9:7"
+  },
+  {
+    "text": "Some said, It is he; others said, No, but he is like him: he said, It is I.",
+    "reference": "John 9:9 (DBT)",
+    "connected_to": "John 9:10",
+    "connected_from": "John 9:8"
+  },
+  {
+    "text": "They said therefore to him, How have thine eyes been opened?",
+    "reference": "John 9:10 (DBT)",
+    "connected_to": "John 9:11",
+    "connected_from": "John 9:9"
+  },
+  {
+    "text": "He answered [and said], A man called Jesus made mud and anointed mine eyes, and said to me, Go to Siloam and wash: and having gone and washed, I saw.",
+    "reference": "John 9:11 (DBT)",
+    "connected_to": "John 9:12",
+    "connected_from": "John 9:10"
+  },
+  {
+    "text": "They said therefore to him, Where is he? He says, I do not know.",
+    "reference": "John 9:12 (DBT)",
+    "connected_to": "John 9:13",
+    "connected_from": "John 9:11"
+  },
+  {
+    "text": "They bring him who was before blind to the Pharisees.",
+    "reference": "John 9:13 (DBT)",
+    "connected_to": "John 9:14",
+    "connected_from": "John 9:12"
+  },
+  {
+    "text": "Now it was sabbath when Jesus made the mud and opened his eyes.",
+    "reference": "John 9:14 (DBT)",
+    "connected_to": "John 9:15",
+    "connected_from": "John 9:13"
+  },
+  {
+    "text": "The Pharisees therefore also again asked him how he received his sight. And he said to them, He put mud upon mine eyes, and I washed, and I see.",
+    "reference": "John 9:15 (DBT)",
+    "connected_to": "John 9:16",
+    "connected_from": "John 9:14"
+  },
+  {
+    "text": "Some of the Pharisees therefore said, This man is not of God, for he does not keep the sabbath. Others said, How can a sinful man perform such signs? And there was a division among them.",
+    "reference": "John 9:16 (DBT)",
+    "connected_to": "John 9:17",
+    "connected_from": "John 9:15"
+  },
+  {
+    "text": "They say therefore again to the blind [man], What dost thou say of him, that he has opened thine eyes? And he said, He is a prophet.",
+    "reference": "John 9:17 (DBT)",
+    "connected_to": "John 9:18",
+    "connected_from": "John 9:16"
+  },
+  {
+    "text": "The Jews therefore did not believe concerning him that he was blind and had received sight, until they had called the parents of him that had received sight.",
+    "reference": "John 9:18 (DBT)",
+    "connected_to": "John 9:19",
+    "connected_from": "John 9:17"
+  },
+  {
+    "text": "And they asked them saying, This is your son, of whom ye say that he was born blind: how then does he now see?",
+    "reference": "John 9:19 (DBT)",
+    "connected_to": "John 9:20",
+    "connected_from": "John 9:18"
+  },
+  {
+    "text": "His parents answered [them] and said, We know that this is our son, and that he was born blind;",
+    "reference": "John 9:20 (DBT)",
+    "connected_to": "John 9:21",
+    "connected_from": "John 9:19"
+  },
+  {
+    "text": "but how he now sees we do not know, or who has opened his eyes we do not know. He is of age: ask him; he will speak concerning himself.",
+    "reference": "John 9:21 (DBT)",
+    "connected_to": "John 9:22",
+    "connected_from": "John 9:20"
+  },
+  {
+    "text": "His parents said these things because they feared the Jews, for the Jews had already agreed that if any one confessed him [to be the] Christ, he should be excommunicated from the synagogue.",
+    "reference": "John 9:22 (DBT)",
+    "connected_to": "John 9:23",
+    "connected_from": "John 9:21"
+  },
+  {
+    "text": "On this account his parents said, He is of age: ask him.",
+    "reference": "John 9:23 (DBT)",
+    "connected_to": "John 9:24",
+    "connected_from": "John 9:22"
+  },
+  {
+    "text": "They called therefore a second time the man who had been blind, and said to him, Give glory to God: we know that this man is sinful.",
+    "reference": "John 9:24 (DBT)",
+    "connected_to": "John 9:25",
+    "connected_from": "John 9:23"
+  },
+  {
+    "text": "He answered therefore, If he is sinful I know not. One thing I know, that, being blind [before], now I see.",
+    "reference": "John 9:25 (DBT)",
+    "connected_to": "John 9:26",
+    "connected_from": "John 9:24"
+  },
+  {
+    "text": "And they said to him again, What did he do to thee? how opened he thine eyes?",
+    "reference": "John 9:26 (DBT)",
+    "connected_to": "John 9:27",
+    "connected_from": "John 9:25"
+  },
+  {
+    "text": "He answered them, I told you already and ye did not hear: why do ye desire to hear again? do ye also wish to become his disciples?",
+    "reference": "John 9:27 (DBT)",
+    "connected_to": "John 9:28",
+    "connected_from": "John 9:26"
+  },
+  {
+    "text": "They railed at him, and said, Thou art his disciple, but we are disciples of Moses.",
+    "reference": "John 9:28 (DBT)",
+    "connected_to": "John 9:29",
+    "connected_from": "John 9:27"
+  },
+  {
+    "text": "We know that God spoke to Moses; but [as to] this [man], we know not whence he is.",
+    "reference": "John 9:29 (DBT)",
+    "connected_to": "John 9:30",
+    "connected_from": "John 9:28"
+  },
+  {
+    "text": "The man answered and said to them, Now in this is a wonderful thing, that ye do not know whence he is, and he has opened mine eyes.",
+    "reference": "John 9:30 (DBT)",
+    "connected_to": "John 9:31",
+    "connected_from": "John 9:29"
+  },
+  {
+    "text": "[But] we know that God does not hear sinners; but if any one be God-fearing and do his will, him he hears.",
+    "reference": "John 9:31 (DBT)",
+    "connected_to": "John 9:32",
+    "connected_from": "John 9:30"
+  },
+  {
+    "text": "Since time was, it has not been heard that any one opened the eyes of one born blind.",
+    "reference": "John 9:32 (DBT)",
+    "connected_to": "John 9:33",
+    "connected_from": "John 9:31"
+  },
+  {
+    "text": "If this [man] were not of God he would be able to do nothing.",
+    "reference": "John 9:33 (DBT)",
+    "connected_to": "John 9:34",
+    "connected_from": "John 9:32"
+  },
+  {
+    "text": "They answered and said to him, Thou hast been wholly born in sins, and thou teachest us? And they cast him out.",
+    "reference": "John 9:34 (DBT)",
+    "connected_to": "John 9:35",
+    "connected_from": "John 9:33"
+  },
+  {
+    "text": "Jesus heard that they had cast him out, and having found him, he said to him, Thou, dost thou believe on the Son of God?",
+    "reference": "John 9:35 (DBT)",
+    "connected_to": "John 9:36",
+    "connected_from": "John 9:34"
+  },
+  {
+    "text": "He answered and said, And who is he, Lord, that I may believe on him?",
+    "reference": "John 9:36 (DBT)",
+    "connected_to": "John 9:37",
+    "connected_from": "John 9:35"
+  },
+  {
+    "text": "And Jesus said to him, Thou hast both seen him, and he that speaks with thee is he.",
+    "reference": "John 9:37 (DBT)",
+    "connected_to": "John 9:38",
+    "connected_from": "John 9:36"
+  },
+  {
+    "text": "And he said, I believe, Lord: and he did him homage.",
+    "reference": "John 9:38 (DBT)",
+    "connected_to": "John 9:39",
+    "connected_from": "John 9:37"
+  },
+  {
+    "text": "And Jesus said, For judgment am I come into this world, that they which see not may see, and they which see may become blind.",
+    "reference": "John 9:39 (DBT)",
+    "connected_to": "John 9:40",
+    "connected_from": "John 9:38"
+  },
+  {
+    "text": "And [some] of the Pharisees who were with him heard these things, and they said to him, Are we blind also?",
+    "reference": "John 9:40 (DBT)",
+    "connected_to": "John 9:41",
+    "connected_from": "John 9:39"
+  },
+  {
+    "text": "Jesus said to them, If ye were blind ye would not have sin; but now ye say, We see, your sin remains.",
+    "reference": "John 9:41 (DBT)",
+    "connected_from": "John 9:40"
+  }
+]

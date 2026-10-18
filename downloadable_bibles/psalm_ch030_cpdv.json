@@ -1,0 +1,72 @@
+[
+  {
+    "text": "A Canticle Psalm. In dedication to the house of David. I will extol you, Lord, for you have sustained me, and you have not allowed my enemies to delight over me.",
+    "reference": "Psalm 30:1 (CPDV)",
+    "connected_to": "Psalm 30:2"
+  },
+  {
+    "text": "O Lord my God, I have cried out to you, and you have healed me.",
+    "reference": "Psalm 30:2 (CPDV)",
+    "connected_to": "Psalm 30:3",
+    "connected_from": "Psalm 30:1"
+  },
+  {
+    "text": "Lord, you led my soul away from Hell. You have saved me from those who descend into the pit.",
+    "reference": "Psalm 30:3 (CPDV)",
+    "connected_to": "Psalm 30:4",
+    "connected_from": "Psalm 30:2"
+  },
+  {
+    "text": "Sing a psalm to the Lord, you his saints, and confess with remembrance of his holiness.",
+    "reference": "Psalm 30:4 (CPDV)",
+    "connected_to": "Psalm 30:5",
+    "connected_from": "Psalm 30:3"
+  },
+  {
+    "text": "For wrath is in his indignation, and life is in his will. Toward evening, weeping will linger, and toward morning, gladness.",
+    "reference": "Psalm 30:5 (CPDV)",
+    "connected_to": "Psalm 30:6",
+    "connected_from": "Psalm 30:4"
+  },
+  {
+    "text": "But I have said in my abundance: “I will never be disturbed.”",
+    "reference": "Psalm 30:6 (CPDV)",
+    "connected_to": "Psalm 30:7",
+    "connected_from": "Psalm 30:5"
+  },
+  {
+    "text": "O Lord, in your will, you made virtue preferable to beauty for me. You turned your face away from me, and I became disturbed.",
+    "reference": "Psalm 30:7 (CPDV)",
+    "connected_to": "Psalm 30:8",
+    "connected_from": "Psalm 30:6"
+  },
+  {
+    "text": "To you, Lord, I will cry out. And I will make supplication to my God.",
+    "reference": "Psalm 30:8 (CPDV)",
+    "connected_to": "Psalm 30:9",
+    "connected_from": "Psalm 30:7"
+  },
+  {
+    "text": "What use would there be in my blood, if I descend into corruption? Will dust confess to you or announce your truth?",
+    "reference": "Psalm 30:9 (CPDV)",
+    "connected_to": "Psalm 30:10",
+    "connected_from": "Psalm 30:8"
+  },
+  {
+    "text": "The Lord has heard, and he has been merciful to me. The Lord has become my helper.",
+    "reference": "Psalm 30:10 (CPDV)",
+    "connected_to": "Psalm 30:11",
+    "connected_from": "Psalm 30:9"
+  },
+  {
+    "text": "You have turned my mourning into gladness for me. You have cut off my sackcloth, and you have surrounded me with joy.",
+    "reference": "Psalm 30:11 (CPDV)",
+    "connected_to": "Psalm 30:12",
+    "connected_from": "Psalm 30:10"
+  },
+  {
+    "text": "So then, may my glory sing to you, and may I not regret it. O Lord, my God, I will confess to you for eternity.",
+    "reference": "Psalm 30:12 (CPDV)",
+    "connected_from": "Psalm 30:11"
+  }
+]

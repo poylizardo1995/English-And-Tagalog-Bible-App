@@ -1,0 +1,204 @@
+[
+  {
+    "text": "Then the LORD said to Moses,",
+    "reference": "Leviticus 27:1 (BSB)",
+    "connected_to": "Leviticus 27:2"
+  },
+  {
+    "text": "“Speak to the Israelites and say to them, ‘When someone makes a special vow to the LORD involving the value of persons,",
+    "reference": "Leviticus 27:2 (BSB)",
+    "connected_to": "Leviticus 27:3",
+    "connected_from": "Leviticus 27:1"
+  },
+  {
+    "text": "if the valuation concerns a male from twenty to sixty years of age, then your valuation shall be fifty shekels of silver, according to the sanctuary shekel.",
+    "reference": "Leviticus 27:3 (BSB)",
+    "connected_to": "Leviticus 27:4",
+    "connected_from": "Leviticus 27:2"
+  },
+  {
+    "text": "Or if it is a female, then your valuation shall be thirty shekels.",
+    "reference": "Leviticus 27:4 (BSB)",
+    "connected_to": "Leviticus 27:5",
+    "connected_from": "Leviticus 27:3"
+  },
+  {
+    "text": "And if the person is from five to twenty years of age, then your valuation for the male shall be twenty shekels, and for the female ten shekels.",
+    "reference": "Leviticus 27:5 (BSB)",
+    "connected_to": "Leviticus 27:6",
+    "connected_from": "Leviticus 27:4"
+  },
+  {
+    "text": "Now if the person is from one month to five years of age, then your valuation for the male shall be five shekels of silver, and for the female three shekels of silver.",
+    "reference": "Leviticus 27:6 (BSB)",
+    "connected_to": "Leviticus 27:7",
+    "connected_from": "Leviticus 27:5"
+  },
+  {
+    "text": "And if the person is sixty years of age or older, then your valuation shall be fifteen shekels for the male and ten shekels for the female.",
+    "reference": "Leviticus 27:7 (BSB)",
+    "connected_to": "Leviticus 27:8",
+    "connected_from": "Leviticus 27:6"
+  },
+  {
+    "text": "But if the one making the vow is too poor to pay the valuation, he is to present the person before the priest, who shall set the value according to what the one making the vow can afford.",
+    "reference": "Leviticus 27:8 (BSB)",
+    "connected_to": "Leviticus 27:9",
+    "connected_from": "Leviticus 27:7"
+  },
+  {
+    "text": "If he vows an animal that may be brought as an offering to the LORD, any such animal given to the LORD shall be holy.",
+    "reference": "Leviticus 27:9 (BSB)",
+    "connected_to": "Leviticus 27:10",
+    "connected_from": "Leviticus 27:8"
+  },
+  {
+    "text": "He must not replace it or exchange it, either good for bad or bad for good. But if he does substitute one animal for another, both that animal and its substitute will be holy.",
+    "reference": "Leviticus 27:10 (BSB)",
+    "connected_to": "Leviticus 27:11",
+    "connected_from": "Leviticus 27:9"
+  },
+  {
+    "text": "But if the vow involves any of the unclean animals that may not be brought as an offering to the LORD, the animal must be presented before the priest.",
+    "reference": "Leviticus 27:11 (BSB)",
+    "connected_to": "Leviticus 27:12",
+    "connected_from": "Leviticus 27:10"
+  },
+  {
+    "text": "The priest shall set its value, whether high or low; as the priest values it, the price will be set.",
+    "reference": "Leviticus 27:12 (BSB)",
+    "connected_to": "Leviticus 27:13",
+    "connected_from": "Leviticus 27:11"
+  },
+  {
+    "text": "If, however, the owner decides to redeem the animal, he must add a fifth to its value.",
+    "reference": "Leviticus 27:13 (BSB)",
+    "connected_to": "Leviticus 27:14",
+    "connected_from": "Leviticus 27:12"
+  },
+  {
+    "text": "Now if a man consecrates his house as holy to the LORD, then the priest shall value it either as good or bad. The price will stand just as the priest values it.",
+    "reference": "Leviticus 27:14 (BSB)",
+    "connected_to": "Leviticus 27:15",
+    "connected_from": "Leviticus 27:13"
+  },
+  {
+    "text": "But if he who consecrated his house redeems it, he must add a fifth to the assessed value, and it will belong to him.",
+    "reference": "Leviticus 27:15 (BSB)",
+    "connected_to": "Leviticus 27:16",
+    "connected_from": "Leviticus 27:14"
+  },
+  {
+    "text": "If a man consecrates to the LORD a parcel of his land, then your valuation shall be proportional to the seed required for it—fifty shekels of silver for every homer of barley seed.",
+    "reference": "Leviticus 27:16 (BSB)",
+    "connected_to": "Leviticus 27:17",
+    "connected_from": "Leviticus 27:15"
+  },
+  {
+    "text": "If he consecrates his field during the Year of Jubilee, the price will stand according to your valuation.",
+    "reference": "Leviticus 27:17 (BSB)",
+    "connected_to": "Leviticus 27:18",
+    "connected_from": "Leviticus 27:16"
+  },
+  {
+    "text": "But if he consecrates his field after the Jubilee, the priest is to calculate the price in proportion to the years left until the next Year of Jubilee, so that your valuation will be reduced.",
+    "reference": "Leviticus 27:18 (BSB)",
+    "connected_to": "Leviticus 27:19",
+    "connected_from": "Leviticus 27:17"
+  },
+  {
+    "text": "And if the one who consecrated the field decides to redeem it, he must add a fifth to the assessed value, and it shall belong to him.",
+    "reference": "Leviticus 27:19 (BSB)",
+    "connected_to": "Leviticus 27:20",
+    "connected_from": "Leviticus 27:18"
+  },
+  {
+    "text": "If, however, he does not redeem the field, or if he has sold it to another man, it may no longer be redeemed.",
+    "reference": "Leviticus 27:20 (BSB)",
+    "connected_to": "Leviticus 27:21",
+    "connected_from": "Leviticus 27:19"
+  },
+  {
+    "text": "When the field is released in the Jubilee, it will become holy, like a field devoted to the LORD; it becomes the property of the priests.",
+    "reference": "Leviticus 27:21 (BSB)",
+    "connected_to": "Leviticus 27:22",
+    "connected_from": "Leviticus 27:20"
+  },
+  {
+    "text": "Now if a man consecrates to the LORD a field he has purchased, which is not a part of his own property,",
+    "reference": "Leviticus 27:22 (BSB)",
+    "connected_to": "Leviticus 27:23",
+    "connected_from": "Leviticus 27:21"
+  },
+  {
+    "text": "then the priest shall calculate for him the value up to the Year of Jubilee, and the man shall pay the assessed value on that day as a sacred offering to the LORD.",
+    "reference": "Leviticus 27:23 (BSB)",
+    "connected_to": "Leviticus 27:24",
+    "connected_from": "Leviticus 27:22"
+  },
+  {
+    "text": "In the Year of Jubilee the field shall return to the one from whom it was bought—the original owner of the land.",
+    "reference": "Leviticus 27:24 (BSB)",
+    "connected_to": "Leviticus 27:25",
+    "connected_from": "Leviticus 27:23"
+  },
+  {
+    "text": "Every valuation will be according to the sanctuary shekel, twenty gerahs to the shekel.",
+    "reference": "Leviticus 27:25 (BSB)",
+    "connected_to": "Leviticus 27:26",
+    "connected_from": "Leviticus 27:24"
+  },
+  {
+    "text": "But no one may consecrate a firstborn of the livestock, because a firstborn belongs to the LORD. Whether it is an ox or a sheep, it is the LORD’s.",
+    "reference": "Leviticus 27:26 (BSB)",
+    "connected_to": "Leviticus 27:27",
+    "connected_from": "Leviticus 27:25"
+  },
+  {
+    "text": "But if it is among the unclean animals, then he may redeem it according to your valuation and add a fifth of its value. If it is not redeemed, then it shall be sold according to your valuation.",
+    "reference": "Leviticus 27:27 (BSB)",
+    "connected_to": "Leviticus 27:28",
+    "connected_from": "Leviticus 27:26"
+  },
+  {
+    "text": "Nothing that a man sets apart to the LORD from all he owns—whether a man, an animal, or his inherited land—can be sold or redeemed; everything so devoted is most holy to the LORD.",
+    "reference": "Leviticus 27:28 (BSB)",
+    "connected_to": "Leviticus 27:29",
+    "connected_from": "Leviticus 27:27"
+  },
+  {
+    "text": "No person set apart for destruction may be ransomed; he must surely be put to death.",
+    "reference": "Leviticus 27:29 (BSB)",
+    "connected_to": "Leviticus 27:30",
+    "connected_from": "Leviticus 27:28"
+  },
+  {
+    "text": "Thus any tithe from the land, whether from the seed of the land or the fruit of the trees, belongs to the LORD; it is holy to the LORD.",
+    "reference": "Leviticus 27:30 (BSB)",
+    "connected_to": "Leviticus 27:31",
+    "connected_from": "Leviticus 27:29"
+  },
+  {
+    "text": "If a man wishes to redeem part of his tithe, he must add a fifth to its value.",
+    "reference": "Leviticus 27:31 (BSB)",
+    "connected_to": "Leviticus 27:32",
+    "connected_from": "Leviticus 27:30"
+  },
+  {
+    "text": "Every tenth animal from the herd or flock that passes under the shepherd’s rod will be holy to the LORD.",
+    "reference": "Leviticus 27:32 (BSB)",
+    "connected_to": "Leviticus 27:33",
+    "connected_from": "Leviticus 27:31"
+  },
+  {
+    "text": "He must not inspect whether it is good or bad, and he shall not make any substitution. But if he does make a substitution, both the animal and its substitute shall become holy; they cannot be redeemed.’”",
+    "reference": "Leviticus 27:33 (BSB)",
+    "connected_to": "Leviticus 27:34",
+    "connected_from": "Leviticus 27:32"
+  },
+  {
+    "text": "These are the commandments that the LORD gave to Moses for the Israelites on Mount Sinai.",
+    "reference": "Leviticus 27:34 (BSB)",
+    "connected_from": "Leviticus 27:33"
+  }
+]

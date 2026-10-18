@@ -1,0 +1,96 @@
+[
+  {
+    "text": "Thus saith Jehovah: For three transgressions of Moab, and for four, I will not revoke its sentence; because he burned the bones of the king of Edom into lime.",
+    "reference": "Amos 2:1 (DBT)",
+    "connected_to": "Amos 2:2"
+  },
+  {
+    "text": "And I will send a fire upon Moab, and it shall devour the palaces of Kerijoth; and Moab shall die with tumult, with shouting, [and] with the sound of the trumpet.",
+    "reference": "Amos 2:2 (DBT)",
+    "connected_to": "Amos 2:3",
+    "connected_from": "Amos 2:1"
+  },
+  {
+    "text": "And I will cut off the judge from the midst thereof, and will slay all the princes thereof with him, saith Jehovah.",
+    "reference": "Amos 2:3 (DBT)",
+    "connected_to": "Amos 2:4",
+    "connected_from": "Amos 2:2"
+  },
+  {
+    "text": "Thus saith Jehovah: For three transgressions of Judah, and for four, I will not revoke its sentence; because they have despised the law of Jehovah, and have not kept his statutes; and their lies have caused them to err, after which their fathers walked.",
+    "reference": "Amos 2:4 (DBT)",
+    "connected_to": "Amos 2:5",
+    "connected_from": "Amos 2:3"
+  },
+  {
+    "text": "And I will send a fire upon Judah, and it shall devour the palaces of Jerusalem.",
+    "reference": "Amos 2:5 (DBT)",
+    "connected_to": "Amos 2:6",
+    "connected_from": "Amos 2:4"
+  },
+  {
+    "text": "Thus saith Jehovah: For three transgressions of Israel, and for four, I will not revoke its sentence; because they have sold the righteous for silver, and the needy for a pair of shoes;",
+    "reference": "Amos 2:6 (DBT)",
+    "connected_to": "Amos 2:7",
+    "connected_from": "Amos 2:5"
+  },
+  {
+    "text": "panting after the dust of the earth on the head of the poor, and turning aside the way of the meek; and a man and his father will go in unto the [same] maid, to profane my holy name.",
+    "reference": "Amos 2:7 (DBT)",
+    "connected_to": "Amos 2:8",
+    "connected_from": "Amos 2:6"
+  },
+  {
+    "text": "And they lay [themselves] down by every altar upon clothes taken in pledge, and they drink [in] the house of their God the wine of the condemned.",
+    "reference": "Amos 2:8 (DBT)",
+    "connected_to": "Amos 2:9",
+    "connected_from": "Amos 2:7"
+  },
+  {
+    "text": "But I destroyed the Amorite before them, whose height was as the height of the cedars, and he was strong as the oaks; but I destroyed his fruit from above, and his roots from beneath.",
+    "reference": "Amos 2:9 (DBT)",
+    "connected_to": "Amos 2:10",
+    "connected_from": "Amos 2:8"
+  },
+  {
+    "text": "And I brought you up from the land of Egypt, and led you forty years in the wilderness, to possess the land of the Amorite.",
+    "reference": "Amos 2:10 (DBT)",
+    "connected_to": "Amos 2:11",
+    "connected_from": "Amos 2:9"
+  },
+  {
+    "text": "And I raised up of your sons for prophets, and of your young men for Nazarites. Is it not even thus, ye children of Israel? saith Jehovah.",
+    "reference": "Amos 2:11 (DBT)",
+    "connected_to": "Amos 2:12",
+    "connected_from": "Amos 2:10"
+  },
+  {
+    "text": "And ye gave the Nazarites wine to drink; and commanded the prophets, saying, Prophesy not.",
+    "reference": "Amos 2:12 (DBT)",
+    "connected_to": "Amos 2:13",
+    "connected_from": "Amos 2:11"
+  },
+  {
+    "text": "Behold, I will press upon you, as a cart presseth that is full of sheaves.",
+    "reference": "Amos 2:13 (DBT)",
+    "connected_to": "Amos 2:14",
+    "connected_from": "Amos 2:12"
+  },
+  {
+    "text": "And flight shall perish from the swift, and the strong shall not strengthen his force, neither shall the mighty deliver his soul.",
+    "reference": "Amos 2:14 (DBT)",
+    "connected_to": "Amos 2:15",
+    "connected_from": "Amos 2:13"
+  },
+  {
+    "text": "Neither shall he stand that handleth the bow; and the swift of foot shall not escape, and he that rideth the horse shall not deliver his soul;",
+    "reference": "Amos 2:15 (DBT)",
+    "connected_to": "Amos 2:16",
+    "connected_from": "Amos 2:14"
+  },
+  {
+    "text": "and he that is stout-hearted among the mighty shall flee away naked in that day, saith Jehovah.",
+    "reference": "Amos 2:16 (DBT)",
+    "connected_from": "Amos 2:15"
+  }
+]

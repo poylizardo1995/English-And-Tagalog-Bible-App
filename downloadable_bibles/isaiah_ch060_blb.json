@@ -1,0 +1,132 @@
+[
+  {
+    "text": "Arise, shine! For your light has come, and the glory of YHWH has risen upon you.",
+    "reference": "Isaiah 60:1 (BLB)",
+    "connected_to": "Isaiah 60:2"
+  },
+  {
+    "text": "For, behold, the darkness may cover the earth, and deep darkness the peoples; and over you YHWH will rise, and His glory will be seen over you.",
+    "reference": "Isaiah 60:2 (BLB)",
+    "connected_to": "Isaiah 60:3",
+    "connected_from": "Isaiah 60:1"
+  },
+  {
+    "text": "And nations will come to your light, and kings to the brightness of your dawning.",
+    "reference": "Isaiah 60:3 (BLB)",
+    "connected_to": "Isaiah 60:4",
+    "connected_from": "Isaiah 60:2"
+  },
+  {
+    "text": "Lift up your eyes all around, and see! They all gather; they have come to you! Your sons come from afar, and your daughters are supported on the side.",
+    "reference": "Isaiah 60:4 (BLB)",
+    "connected_to": "Isaiah 60:5",
+    "connected_from": "Isaiah 60:3"
+  },
+  {
+    "text": "Then you will look and be radiant, and your heart will tremble and be enlarged, when the abundance of the sea is turned over to you, the wealth of the nations will come to you.",
+    "reference": "Isaiah 60:5 (BLB)",
+    "connected_to": "Isaiah 60:6",
+    "connected_from": "Isaiah 60:4"
+  },
+  {
+    "text": "A multitude of camels will cover you, young camels of Midian and Ephah; all those from Sheba will come; they will bring gold and incense, and they will proclaim the praises of YHWH.",
+    "reference": "Isaiah 60:6 (BLB)",
+    "connected_to": "Isaiah 60:7",
+    "connected_from": "Isaiah 60:5"
+  },
+  {
+    "text": "All the flock of Kedar will be gathered to you; the rams of Nebajoth will serve you; they will ascend with acceptance on My altar, and I will glorify the house of My beauty.",
+    "reference": "Isaiah 60:7 (BLB)",
+    "connected_to": "Isaiah 60:8",
+    "connected_from": "Isaiah 60:6"
+  },
+  {
+    "text": "Who [are] these flying like the cloud, and like the doves to their windows?",
+    "reference": "Isaiah 60:8 (BLB)",
+    "connected_to": "Isaiah 60:9",
+    "connected_from": "Isaiah 60:7"
+  },
+  {
+    "text": "Surely for Me the islands are waiting, and [with] the ships of Tarshish first in [line], to bring your sons from afar, with them their silver and their gold for the name of YHWH your God, and for the Holy One of Israel, because He has glorified you.",
+    "reference": "Isaiah 60:9 (BLB)",
+    "connected_to": "Isaiah 60:10",
+    "connected_from": "Isaiah 60:8"
+  },
+  {
+    "text": "And the sons of foreigners will rebuild your walls, and their kings will serve you; for in My wrath I struck you, and in My favor I have compassion on you.",
+    "reference": "Isaiah 60:10 (BLB)",
+    "connected_to": "Isaiah 60:11",
+    "connected_from": "Isaiah 60:9"
+  },
+  {
+    "text": "And your gates will be open continually—day and night they will not be shut—for bringing the wealth of the nations to you, and their kings being led in procession.",
+    "reference": "Isaiah 60:11 (BLB)",
+    "connected_to": "Isaiah 60:12",
+    "connected_from": "Isaiah 60:10"
+  },
+  {
+    "text": "For the nation and the kingdom that will not serve you will perish, and the nations will be utterly destroyed.",
+    "reference": "Isaiah 60:12 (BLB)",
+    "connected_to": "Isaiah 60:13",
+    "connected_from": "Isaiah 60:11"
+  },
+  {
+    "text": "The glory of Lebanon will come to you—the cypress, elm, and boxwood together—to beautify the place of My sanctuary, and I will glorify the place of My feet.",
+    "reference": "Isaiah 60:13 (BLB)",
+    "connected_to": "Isaiah 60:14",
+    "connected_from": "Isaiah 60:12"
+  },
+  {
+    "text": "They will come to you, bowing down—the sons of those who afflicted you, and they will bow low at the soles of your feet—all those who despised you; and they will call you the City of YHWH—Zion, [of] the Holy One of Israel.",
+    "reference": "Isaiah 60:14 (BLB)",
+    "connected_to": "Isaiah 60:15",
+    "connected_from": "Isaiah 60:13"
+  },
+  {
+    "text": "Instead of your being forsaken and hated, with no one passing through, then I will make you a pride forever, a joy to generation and generation.",
+    "reference": "Isaiah 60:15 (BLB)",
+    "connected_to": "Isaiah 60:16",
+    "connected_from": "Isaiah 60:14"
+  },
+  {
+    "text": "And you will suck the milk of nations, and you will suck the breast of kings; and you will know that I [am] YHWH your Savior and your Redeemer, the Mighty One of Jacob.",
+    "reference": "Isaiah 60:16 (BLB)",
+    "connected_to": "Isaiah 60:17",
+    "connected_from": "Isaiah 60:15"
+  },
+  {
+    "text": "In place of bronze I will bring gold, and in place of iron I will bring silver, and in place of the wood bronze, and in place of stones iron; I will appoint peace as your governor, and righteousness as your rulers.",
+    "reference": "Isaiah 60:17 (BLB)",
+    "connected_to": "Isaiah 60:18",
+    "connected_from": "Isaiah 60:16"
+  },
+  {
+    "text": "Violence will not be heard any longer in your land—devastation or destruction within your borders; and you will call your walls Salvation, and your gates Praise.",
+    "reference": "Isaiah 60:18 (BLB)",
+    "connected_to": "Isaiah 60:19",
+    "connected_from": "Isaiah 60:17"
+  },
+  {
+    "text": "No longer will the sun be for you as light by day, and for brightness the moon will not shine on your [night], and YHWH will be for you as a light forever, and your God as your glory.",
+    "reference": "Isaiah 60:19 (BLB)",
+    "connected_to": "Isaiah 60:20",
+    "connected_from": "Isaiah 60:18"
+  },
+  {
+    "text": "Your sun will not any longer go down, and your moon will not be gathered; for YHWH will be for you as a light forever, and the days of your mourning will be ended.",
+    "reference": "Isaiah 60:20 (BLB)",
+    "connected_to": "Isaiah 60:21",
+    "connected_from": "Isaiah 60:19"
+  },
+  {
+    "text": "And your people, all of them, [will be] righteous; they will inherit the land forever, the branch of My planting, the work of My hands, to [My] being glorified.",
+    "reference": "Isaiah 60:21 (BLB)",
+    "connected_to": "Isaiah 60:22",
+    "connected_from": "Isaiah 60:20"
+  },
+  {
+    "text": "The little one will become as a thousand, and the smallest as a mighty nation; I [am] YHWH, [and] in its time I will hasten it!",
+    "reference": "Isaiah 60:22 (BLB)",
+    "connected_from": "Isaiah 60:21"
+  }
+]

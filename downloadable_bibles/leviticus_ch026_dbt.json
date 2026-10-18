@@ -1,0 +1,276 @@
+[
+  {
+    "text": "Ye shall make yourselves no idols, neither rear you up for yourselves carved image, or statue, nor shall ye set up a figured stone in your land, to bow down unto it; for I am Jehovah your God.",
+    "reference": "Leviticus 26:1 (DBT)",
+    "connected_to": "Leviticus 26:2"
+  },
+  {
+    "text": "Ye shall observe my sabbaths, and my sanctuary shall ye reverence: I am Jehovah.",
+    "reference": "Leviticus 26:2 (DBT)",
+    "connected_to": "Leviticus 26:3",
+    "connected_from": "Leviticus 26:1"
+  },
+  {
+    "text": "If ye walk in my statutes, and observe my commandments and do them,",
+    "reference": "Leviticus 26:3 (DBT)",
+    "connected_to": "Leviticus 26:4",
+    "connected_from": "Leviticus 26:2"
+  },
+  {
+    "text": "then I will give your rain in the season thereof, and the land shall yield its produce, and the trees of the field shall yield their fruit;",
+    "reference": "Leviticus 26:4 (DBT)",
+    "connected_to": "Leviticus 26:5",
+    "connected_from": "Leviticus 26:3"
+  },
+  {
+    "text": "and your threshing shall reach unto the vintage, and the vintage shall reach unto the sowing-time; and ye shall eat your bread to the full, and dwell in your land securely.",
+    "reference": "Leviticus 26:5 (DBT)",
+    "connected_to": "Leviticus 26:6",
+    "connected_from": "Leviticus 26:4"
+  },
+  {
+    "text": "And I will give peace in the land, and ye shall lie down, and none shall make you afraid; and I will put away the evil beasts out of the land; and the sword shall not go through your land.",
+    "reference": "Leviticus 26:6 (DBT)",
+    "connected_to": "Leviticus 26:7",
+    "connected_from": "Leviticus 26:5"
+  },
+  {
+    "text": "And ye shall chase your enemies, and they shall fall before you by the sword;",
+    "reference": "Leviticus 26:7 (DBT)",
+    "connected_to": "Leviticus 26:8",
+    "connected_from": "Leviticus 26:6"
+  },
+  {
+    "text": "and five of you shall chase a hundred, and a hundred of you shall put ten thousand to flight; and your enemies shall fall beside you by the sword.",
+    "reference": "Leviticus 26:8 (DBT)",
+    "connected_to": "Leviticus 26:9",
+    "connected_from": "Leviticus 26:7"
+  },
+  {
+    "text": "And I will turn my face towards you and make you fruitful, and multiply you, and establish my covenant with you.",
+    "reference": "Leviticus 26:9 (DBT)",
+    "connected_to": "Leviticus 26:10",
+    "connected_from": "Leviticus 26:8"
+  },
+  {
+    "text": "And ye shall eat old store, and clear away the old because of the new.",
+    "reference": "Leviticus 26:10 (DBT)",
+    "connected_to": "Leviticus 26:11",
+    "connected_from": "Leviticus 26:9"
+  },
+  {
+    "text": "And I will set my habitation among you; and my soul shall not abhor you;",
+    "reference": "Leviticus 26:11 (DBT)",
+    "connected_to": "Leviticus 26:12",
+    "connected_from": "Leviticus 26:10"
+  },
+  {
+    "text": "and I will walk among you, and will be your God, and ye shall be to me a people.",
+    "reference": "Leviticus 26:12 (DBT)",
+    "connected_to": "Leviticus 26:13",
+    "connected_from": "Leviticus 26:11"
+  },
+  {
+    "text": "I am Jehovah your God, who brought you forth out of the land of Egypt, that ye should not be their bondmen; and I have broken the bands of your yoke, and made you walk upright.",
+    "reference": "Leviticus 26:13 (DBT)",
+    "connected_to": "Leviticus 26:14",
+    "connected_from": "Leviticus 26:12"
+  },
+  {
+    "text": "But if ye hearken not unto me, and do not all these commandments,",
+    "reference": "Leviticus 26:14 (DBT)",
+    "connected_to": "Leviticus 26:15",
+    "connected_from": "Leviticus 26:13"
+  },
+  {
+    "text": "and if ye shall despise my statutes, and if your soul shall abhor mine ordinances, so that ye do not all my commandments, that ye break my covenant,",
+    "reference": "Leviticus 26:15 (DBT)",
+    "connected_to": "Leviticus 26:16",
+    "connected_from": "Leviticus 26:14"
+  },
+  {
+    "text": "I also will do this unto you—I will even appoint over you terror, consumption, and fever, which shall cause the eyes to fail, and the soul to waste away; and ye shall sow your seed in vain, for your enemies shall eat it.",
+    "reference": "Leviticus 26:16 (DBT)",
+    "connected_to": "Leviticus 26:17",
+    "connected_from": "Leviticus 26:15"
+  },
+  {
+    "text": "And I will set my face against you, that ye may be routed before your enemies; they that hate you shall have dominion over you; and ye shall flee when none pursueth you.",
+    "reference": "Leviticus 26:17 (DBT)",
+    "connected_to": "Leviticus 26:18",
+    "connected_from": "Leviticus 26:16"
+  },
+  {
+    "text": "And if for this ye hearken not unto me, I will punish you sevenfold more for your sins,",
+    "reference": "Leviticus 26:18 (DBT)",
+    "connected_to": "Leviticus 26:19",
+    "connected_from": "Leviticus 26:17"
+  },
+  {
+    "text": "and I will break the arrogance of your power; and I will make your heaven as iron, and your earth as bronze,",
+    "reference": "Leviticus 26:19 (DBT)",
+    "connected_to": "Leviticus 26:20",
+    "connected_from": "Leviticus 26:18"
+  },
+  {
+    "text": "and your strength shall be spent in vain, and your land shall not yield its produce; and the trees of the land shall not yield their fruit.",
+    "reference": "Leviticus 26:20 (DBT)",
+    "connected_to": "Leviticus 26:21",
+    "connected_from": "Leviticus 26:19"
+  },
+  {
+    "text": "And if ye walk contrary unto me, and will not hearken unto me, I will bring sevenfold more plagues upon you according to your sins.",
+    "reference": "Leviticus 26:21 (DBT)",
+    "connected_to": "Leviticus 26:22",
+    "connected_from": "Leviticus 26:20"
+  },
+  {
+    "text": "And I will send the beasts of the field among you, that they may rob you of your children, and cut off your cattle, and make you few in number; and your streets shall be desolate.",
+    "reference": "Leviticus 26:22 (DBT)",
+    "connected_to": "Leviticus 26:23",
+    "connected_from": "Leviticus 26:21"
+  },
+  {
+    "text": "And if ye will not be disciplined by me through these, but walk contrary unto me,",
+    "reference": "Leviticus 26:23 (DBT)",
+    "connected_to": "Leviticus 26:24",
+    "connected_from": "Leviticus 26:22"
+  },
+  {
+    "text": "then will I also walk contrary unto you, and will smite you, even I, sevenfold for your sins.",
+    "reference": "Leviticus 26:24 (DBT)",
+    "connected_to": "Leviticus 26:25",
+    "connected_from": "Leviticus 26:23"
+  },
+  {
+    "text": "And I will bring a sword upon you that avengeth with the vengeance of the covenant, and ye shall be gathered together into your cities, and I will send the pestilence among you; and ye shall be delivered into the hand of the enemy.",
+    "reference": "Leviticus 26:25 (DBT)",
+    "connected_to": "Leviticus 26:26",
+    "connected_from": "Leviticus 26:24"
+  },
+  {
+    "text": "When I break the staff of your bread, ten women shall bake your bread in one oven, and shall deliver you the bread again by weight; and ye shall eat, and not be satisfied.",
+    "reference": "Leviticus 26:26 (DBT)",
+    "connected_to": "Leviticus 26:27",
+    "connected_from": "Leviticus 26:25"
+  },
+  {
+    "text": "And if for this ye hearken not to me, but walk contrary unto me,",
+    "reference": "Leviticus 26:27 (DBT)",
+    "connected_to": "Leviticus 26:28",
+    "connected_from": "Leviticus 26:26"
+  },
+  {
+    "text": "then I will walk contrary unto you also in fury; and I, even I, will chastise you seven-fold for your sins.",
+    "reference": "Leviticus 26:28 (DBT)",
+    "connected_to": "Leviticus 26:29",
+    "connected_from": "Leviticus 26:27"
+  },
+  {
+    "text": "And ye shall eat the flesh of your sons, and the flesh of your daughters shall ye eat.",
+    "reference": "Leviticus 26:29 (DBT)",
+    "connected_to": "Leviticus 26:30",
+    "connected_from": "Leviticus 26:28"
+  },
+  {
+    "text": "And I will lay waste your high places, and cut down your sun-pillars, and cast your carcases upon the carcases of your idols; and my soul shall abhor you.",
+    "reference": "Leviticus 26:30 (DBT)",
+    "connected_to": "Leviticus 26:31",
+    "connected_from": "Leviticus 26:29"
+  },
+  {
+    "text": "And I will lay waste your cities and desolate your sanctuaries; and I will not smell your sweet odours.",
+    "reference": "Leviticus 26:31 (DBT)",
+    "connected_to": "Leviticus 26:32",
+    "connected_from": "Leviticus 26:30"
+  },
+  {
+    "text": "And I will bring the land into desolation; that your enemies who dwell there in may be astonished at it.",
+    "reference": "Leviticus 26:32 (DBT)",
+    "connected_to": "Leviticus 26:33",
+    "connected_from": "Leviticus 26:31"
+  },
+  {
+    "text": "And I will scatter you among the nations, and will draw out the sword after you; and your land shall be desolation, and your cities waste.",
+    "reference": "Leviticus 26:33 (DBT)",
+    "connected_to": "Leviticus 26:34",
+    "connected_from": "Leviticus 26:32"
+  },
+  {
+    "text": "Then shall the land enjoy its sabbaths all the days of the desolation, when ye are in your enemies’ land; then shall the land rest, and enjoy its sabbaths.",
+    "reference": "Leviticus 26:34 (DBT)",
+    "connected_to": "Leviticus 26:35",
+    "connected_from": "Leviticus 26:33"
+  },
+  {
+    "text": "All the days of the desolation it shall rest, [the days in] which it did not rest on your sabbaths, when ye dwelt therein.",
+    "reference": "Leviticus 26:35 (DBT)",
+    "connected_to": "Leviticus 26:36",
+    "connected_from": "Leviticus 26:34"
+  },
+  {
+    "text": "And as to those that remain of you—I will send faintness into their hearts in the lands of their enemies, that the sound of a driven leaf shall chase them, and they shall flee, as fleeing from a sword; and they shall fall when none pursueth;",
+    "reference": "Leviticus 26:36 (DBT)",
+    "connected_to": "Leviticus 26:37",
+    "connected_from": "Leviticus 26:35"
+  },
+  {
+    "text": "and they shall stumble one over another, as it were before a sword, when none pursueth; and ye shall have no power to stand before your enemies.",
+    "reference": "Leviticus 26:37 (DBT)",
+    "connected_to": "Leviticus 26:38",
+    "connected_from": "Leviticus 26:36"
+  },
+  {
+    "text": "And ye shall perish among the nations, and the land of your enemies shall eat you up.",
+    "reference": "Leviticus 26:38 (DBT)",
+    "connected_to": "Leviticus 26:39",
+    "connected_from": "Leviticus 26:37"
+  },
+  {
+    "text": "And they that remain of you shall waste away through their iniquity in your enemies’ lands; and also through the iniquities of their fathers shall they waste away with them.",
+    "reference": "Leviticus 26:39 (DBT)",
+    "connected_to": "Leviticus 26:40",
+    "connected_from": "Leviticus 26:38"
+  },
+  {
+    "text": "And they shall confess their iniquity, and the iniquity of their fathers, through their unfaithfulness wherein they were unfaithful to me, and also that they have walked contrary unto me,",
+    "reference": "Leviticus 26:40 (DBT)",
+    "connected_to": "Leviticus 26:41",
+    "connected_from": "Leviticus 26:39"
+  },
+  {
+    "text": "so that I also walked contrary unto them, and brought them into the land of their enemies. If then their uncircumcised heart be humbled, and they then accept the punishment of their iniquity,",
+    "reference": "Leviticus 26:41 (DBT)",
+    "connected_to": "Leviticus 26:42",
+    "connected_from": "Leviticus 26:40"
+  },
+  {
+    "text": "I will remember my covenant with Jacob, and also my covenant with Isaac, and also my covenant with Abraham will I remember; and I will remember the land.",
+    "reference": "Leviticus 26:42 (DBT)",
+    "connected_to": "Leviticus 26:43",
+    "connected_from": "Leviticus 26:41"
+  },
+  {
+    "text": "For the land shall be left by them, and shall enjoy its sabbaths, when it is in desolation without them; and they shall accept the punishment of their iniquity; because, even because they despised my judgments, and their soul abhorred my statutes.",
+    "reference": "Leviticus 26:43 (DBT)",
+    "connected_to": "Leviticus 26:44",
+    "connected_from": "Leviticus 26:42"
+  },
+  {
+    "text": "And yet for all that, when they are in the land of their enemies, I will not despise them, and will not abhor them, to make an end of them utterly, to break my covenant with them, for I am Jehovah their God.",
+    "reference": "Leviticus 26:44 (DBT)",
+    "connected_to": "Leviticus 26:45",
+    "connected_from": "Leviticus 26:43"
+  },
+  {
+    "text": "But I will remember toward them the covenant with their ancestors whom I brought forth out of the land of Egypt before the eyes of the nations, that I might be their God: I am Jehovah.",
+    "reference": "Leviticus 26:45 (DBT)",
+    "connected_to": "Leviticus 26:46",
+    "connected_from": "Leviticus 26:44"
+  },
+  {
+    "text": "These are the statutes and ordinances and laws which Jehovah made between him and the children of Israel in mount Sinai, by the hand of Moses.",
+    "reference": "Leviticus 26:46 (DBT)",
+    "connected_from": "Leviticus 26:45"
+  }
+]

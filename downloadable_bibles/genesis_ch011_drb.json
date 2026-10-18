@@ -1,0 +1,192 @@
+[
+  {
+    "text": "And the earth was of one tongue, and of the same speech.",
+    "reference": "Genesis 11:1 (DRB)",
+    "connected_to": "Genesis 11:2"
+  },
+  {
+    "text": "And when they removed from the east, they found a plain in the land of Sennaar, and dwelt in it.",
+    "reference": "Genesis 11:2 (DRB)",
+    "connected_to": "Genesis 11:3",
+    "connected_from": "Genesis 11:1"
+  },
+  {
+    "text": "And each one said to his neighbour: Come, let us make brick, and bake them of stones, and slime instead of mortar.",
+    "reference": "Genesis 11:3 (DRB)",
+    "connected_to": "Genesis 11:4",
+    "connected_from": "Genesis 11:2"
+  },
+  {
+    "text": "And they said: Come, let us make a city and a tower, the top whereof may reach to heaven: and let us make our name famous before we be scattered abroad into all lands.",
+    "reference": "Genesis 11:4 (DRB)",
+    "connected_to": "Genesis 11:5",
+    "connected_from": "Genesis 11:3"
+  },
+  {
+    "text": "And the Lord came down to see the city and the tower, which the children of Adam were building.",
+    "reference": "Genesis 11:5 (DRB)",
+    "connected_to": "Genesis 11:6",
+    "connected_from": "Genesis 11:4"
+  },
+  {
+    "text": "And he said: Behold, it is one people, and all have one tongue: and they have begun to do this, neither will they leave off from their designs, till they accomplish them in deed.",
+    "reference": "Genesis 11:6 (DRB)",
+    "connected_to": "Genesis 11:7",
+    "connected_from": "Genesis 11:5"
+  },
+  {
+    "text": "Come ye, therefore, let us go down, and there may not understand one another’s speech.",
+    "reference": "Genesis 11:7 (DRB)",
+    "connected_to": "Genesis 11:8",
+    "connected_from": "Genesis 11:6"
+  },
+  {
+    "text": "And so the Lord scattered them from that place into all lands, and they ceased to build the city.",
+    "reference": "Genesis 11:8 (DRB)",
+    "connected_to": "Genesis 11:9",
+    "connected_from": "Genesis 11:7"
+  },
+  {
+    "text": "And therefore the name thereof was called Babel, because there the language of the whole earth was confounded: and from thence the Lord scattered them abroad upon the face of all countries.",
+    "reference": "Genesis 11:9 (DRB)",
+    "connected_to": "Genesis 11:10",
+    "connected_from": "Genesis 11:8"
+  },
+  {
+    "text": "These are the generations of Sem: Sem was a hundred years old when he begot Arphaxad, two years old when he begot Arphaxad, two years after the flood.",
+    "reference": "Genesis 11:10 (DRB)",
+    "connected_to": "Genesis 11:11",
+    "connected_from": "Genesis 11:9"
+  },
+  {
+    "text": "And Sem lived after he begot Arphaxad, five hundred years, and begot sons and daughters.",
+    "reference": "Genesis 11:11 (DRB)",
+    "connected_to": "Genesis 11:12",
+    "connected_from": "Genesis 11:10"
+  },
+  {
+    "text": "And Arphaxad lived thirty-five years, and begot Sale.",
+    "reference": "Genesis 11:12 (DRB)",
+    "connected_to": "Genesis 11:13",
+    "connected_from": "Genesis 11:11"
+  },
+  {
+    "text": "And Arphaxad lived after he begot Sale, three hundred and three years; and begot sons and daughters.",
+    "reference": "Genesis 11:13 (DRB)",
+    "connected_to": "Genesis 11:14",
+    "connected_from": "Genesis 11:12"
+  },
+  {
+    "text": "Sale also lived thirty years, and begot Heber.",
+    "reference": "Genesis 11:14 (DRB)",
+    "connected_to": "Genesis 11:15",
+    "connected_from": "Genesis 11:13"
+  },
+  {
+    "text": "And Sale lived after he begot Heber, four hundred and three years; and begot sons and daughters.",
+    "reference": "Genesis 11:15 (DRB)",
+    "connected_to": "Genesis 11:16",
+    "connected_from": "Genesis 11:14"
+  },
+  {
+    "text": "And Heber lived thirty-four years, and begot Phaleg.",
+    "reference": "Genesis 11:16 (DRB)",
+    "connected_to": "Genesis 11:17",
+    "connected_from": "Genesis 11:15"
+  },
+  {
+    "text": "And Heber lived after he begot Phaleg, four hundred and thirty years: and begot sons and daughters.",
+    "reference": "Genesis 11:17 (DRB)",
+    "connected_to": "Genesis 11:18",
+    "connected_from": "Genesis 11:16"
+  },
+  {
+    "text": "Phaleg also lived thirty years, and begot Reu.",
+    "reference": "Genesis 11:18 (DRB)",
+    "connected_to": "Genesis 11:19",
+    "connected_from": "Genesis 11:17"
+  },
+  {
+    "text": "And Phaleg lived after he begot Reu, two hundred and nine years, and begot sons and daughters.",
+    "reference": "Genesis 11:19 (DRB)",
+    "connected_to": "Genesis 11:20",
+    "connected_from": "Genesis 11:18"
+  },
+  {
+    "text": "And Reu lived thirty-two years, and begot Sarug.",
+    "reference": "Genesis 11:20 (DRB)",
+    "connected_to": "Genesis 11:21",
+    "connected_from": "Genesis 11:19"
+  },
+  {
+    "text": "And Reu lived after he begot Sarug, two hundred and seven years, and begot sons and daughters.",
+    "reference": "Genesis 11:21 (DRB)",
+    "connected_to": "Genesis 11:22",
+    "connected_from": "Genesis 11:20"
+  },
+  {
+    "text": "And Sarug lived thirty years, and begot Nachor.",
+    "reference": "Genesis 11:22 (DRB)",
+    "connected_to": "Genesis 11:23",
+    "connected_from": "Genesis 11:21"
+  },
+  {
+    "text": "And Sarug lived after he begot Nachor, two hundred years: and begot sons and daughters.",
+    "reference": "Genesis 11:23 (DRB)",
+    "connected_to": "Genesis 11:24",
+    "connected_from": "Genesis 11:22"
+  },
+  {
+    "text": "And Nachor lived nine and twenty years, and begot Thare.",
+    "reference": "Genesis 11:24 (DRB)",
+    "connected_to": "Genesis 11:25",
+    "connected_from": "Genesis 11:23"
+  },
+  {
+    "text": "And Nachor lived after he begot Thare, a hundred and nineteen years: and begot sons and daughters.",
+    "reference": "Genesis 11:25 (DRB)",
+    "connected_to": "Genesis 11:26",
+    "connected_from": "Genesis 11:24"
+  },
+  {
+    "text": "And Thare lived seventy years, and begot Abram, and Nachor, and Aran.",
+    "reference": "Genesis 11:26 (DRB)",
+    "connected_to": "Genesis 11:27",
+    "connected_from": "Genesis 11:25"
+  },
+  {
+    "text": "And these are the generations of Thare: Thare begot Abram, Nachor, and Aran. And Aran begot Lot.",
+    "reference": "Genesis 11:27 (DRB)",
+    "connected_to": "Genesis 11:28",
+    "connected_from": "Genesis 11:26"
+  },
+  {
+    "text": "And Aran died before Thare his father, in the land of his nativity in Ur of the Chaldees.",
+    "reference": "Genesis 11:28 (DRB)",
+    "connected_to": "Genesis 11:29",
+    "connected_from": "Genesis 11:27"
+  },
+  {
+    "text": "And Abram and Nachor married wives: the name of Abram’s wife was Sarai: and the name of Nachor’s wife, Melcha, the daughter of Aran, father of Melcha, and father of Jescha.",
+    "reference": "Genesis 11:29 (DRB)",
+    "connected_to": "Genesis 11:30",
+    "connected_from": "Genesis 11:28"
+  },
+  {
+    "text": "And Sarai was barren, and had no children.",
+    "reference": "Genesis 11:30 (DRB)",
+    "connected_to": "Genesis 11:31",
+    "connected_from": "Genesis 11:29"
+  },
+  {
+    "text": "And Thare took Abram, his son, and Lot the son of Aran, his son’s son, and Sarai his daughter in law, the wife of Abram his son, and brought them out of Ur of the Chaldees, to go into the land of Chanaan: and they came as far as Haran, and dwelt there.",
+    "reference": "Genesis 11:31 (DRB)",
+    "connected_to": "Genesis 11:32",
+    "connected_from": "Genesis 11:30"
+  },
+  {
+    "text": "And the days of Thare were tow hundred and five years, and he died in Haran.",
+    "reference": "Genesis 11:32 (DRB)",
+    "connected_from": "Genesis 11:31"
+  }
+]

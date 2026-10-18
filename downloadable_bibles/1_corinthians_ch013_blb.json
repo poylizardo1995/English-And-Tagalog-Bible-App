@@ -1,0 +1,78 @@
+[
+  {
+    "text": "If I should speak in the tongues of men and of angels, but have not love, I have become a sounding brass or a clanging cymbal.",
+    "reference": "1 Corinthians 13:1 (BLB)",
+    "connected_to": "1 Corinthians 13:2"
+  },
+  {
+    "text": "And if I should have prophecy and should understand all mysteries and all knowledge, and if I should have all faith so as to remove mountains, but have not love, I am nothing.",
+    "reference": "1 Corinthians 13:2 (BLB)",
+    "connected_to": "1 Corinthians 13:3",
+    "connected_from": "1 Corinthians 13:1"
+  },
+  {
+    "text": "And if I should give away all my possessions, and if I should deliver up my body that I may boast, but have not love, I am profited nothing.",
+    "reference": "1 Corinthians 13:3 (BLB)",
+    "connected_to": "1 Corinthians 13:4",
+    "connected_from": "1 Corinthians 13:2"
+  },
+  {
+    "text": "Love is patient, it is kind; love does not envy, love does not boast, it is not puffed up.",
+    "reference": "1 Corinthians 13:4 (BLB)",
+    "connected_to": "1 Corinthians 13:5",
+    "connected_from": "1 Corinthians 13:3"
+  },
+  {
+    "text": "It does not act unbecomingly, it does not seek its own [things], it is not provoked, it keeps no reckoning of evil.",
+    "reference": "1 Corinthians 13:5 (BLB)",
+    "connected_to": "1 Corinthians 13:6",
+    "connected_from": "1 Corinthians 13:4"
+  },
+  {
+    "text": "It does not rejoice at unrighteousness, but it rejoices with the truth.",
+    "reference": "1 Corinthians 13:6 (BLB)",
+    "connected_to": "1 Corinthians 13:7",
+    "connected_from": "1 Corinthians 13:5"
+  },
+  {
+    "text": "It bears all things, believes all things, hopes all things, endures all things.",
+    "reference": "1 Corinthians 13:7 (BLB)",
+    "connected_to": "1 Corinthians 13:8",
+    "connected_from": "1 Corinthians 13:6"
+  },
+  {
+    "text": "Love never fails; but if [there are] prophecies, they will be made null; and if [there are] tongues, they will cease; and if [there is] knowledge, it will be made null.",
+    "reference": "1 Corinthians 13:8 (BLB)",
+    "connected_to": "1 Corinthians 13:9",
+    "connected_from": "1 Corinthians 13:7"
+  },
+  {
+    "text": "For we know in part and we prophesy in part;",
+    "reference": "1 Corinthians 13:9 (BLB)",
+    "connected_to": "1 Corinthians 13:10",
+    "connected_from": "1 Corinthians 13:8"
+  },
+  {
+    "text": "but when the perfect should come, the partial will be made null.",
+    "reference": "1 Corinthians 13:10 (BLB)",
+    "connected_to": "1 Corinthians 13:11",
+    "connected_from": "1 Corinthians 13:9"
+  },
+  {
+    "text": "When I was a child, I was speaking like a child, I was thinking like a child, I was reasoning like a child; when I became a man, I have made null the [things] of the child.",
+    "reference": "1 Corinthians 13:11 (BLB)",
+    "connected_to": "1 Corinthians 13:12",
+    "connected_from": "1 Corinthians 13:10"
+  },
+  {
+    "text": "For now we see through a glass in obscurity, but then, face to face. Now I know in part, but then I will know fully, even as I have been fully known.",
+    "reference": "1 Corinthians 13:12 (BLB)",
+    "connected_to": "1 Corinthians 13:13",
+    "connected_from": "1 Corinthians 13:11"
+  },
+  {
+    "text": "But now these three things remain: faith, hope, love; but the greatest of these [is] love.",
+    "reference": "1 Corinthians 13:13 (BLB)",
+    "connected_from": "1 Corinthians 13:12"
+  }
+]

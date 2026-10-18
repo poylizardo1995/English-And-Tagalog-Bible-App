@@ -1,0 +1,138 @@
+[
+  {
+    "text": "A Psalm of Asaph. The God of gods, the Lord has spoken, and he has called the earth, from the rising of the sun even to its setting,",
+    "reference": "Psalm 50:1 (CPDV)",
+    "connected_to": "Psalm 50:2"
+  },
+  {
+    "text": "from Zion, the brilliance of his beauty.",
+    "reference": "Psalm 50:2 (CPDV)",
+    "connected_to": "Psalm 50:3",
+    "connected_from": "Psalm 50:1"
+  },
+  {
+    "text": "God will arrive manifestly. Our God also will not keep silence. A fire will flare up in his sight, and a mighty tempest will surround him.",
+    "reference": "Psalm 50:3 (CPDV)",
+    "connected_to": "Psalm 50:4",
+    "connected_from": "Psalm 50:2"
+  },
+  {
+    "text": "He will call to heaven from above, and to the earth, to discern his people.",
+    "reference": "Psalm 50:4 (CPDV)",
+    "connected_to": "Psalm 50:5",
+    "connected_from": "Psalm 50:3"
+  },
+  {
+    "text": "Gather his holy ones to him, you who order his covenant above sacrifices.",
+    "reference": "Psalm 50:5 (CPDV)",
+    "connected_to": "Psalm 50:6",
+    "connected_from": "Psalm 50:4"
+  },
+  {
+    "text": "And the heavens will announce his justice. For God is the judge.",
+    "reference": "Psalm 50:6 (CPDV)",
+    "connected_to": "Psalm 50:7",
+    "connected_from": "Psalm 50:5"
+  },
+  {
+    "text": "Listen, my people, and I will speak. Listen, Israel, and I will testify for you. I am God, your God.",
+    "reference": "Psalm 50:7 (CPDV)",
+    "connected_to": "Psalm 50:8",
+    "connected_from": "Psalm 50:6"
+  },
+  {
+    "text": "I will not reprove you for your sacrifices. Moreover, your holocausts are ever in my sight.",
+    "reference": "Psalm 50:8 (CPDV)",
+    "connected_to": "Psalm 50:9",
+    "connected_from": "Psalm 50:7"
+  },
+  {
+    "text": "I will not accept calves from your house, nor he-goats from your flocks.",
+    "reference": "Psalm 50:9 (CPDV)",
+    "connected_to": "Psalm 50:10",
+    "connected_from": "Psalm 50:8"
+  },
+  {
+    "text": "For all the wild beasts of the forest are mine: the cattle on the hills and the oxen.",
+    "reference": "Psalm 50:10 (CPDV)",
+    "connected_to": "Psalm 50:11",
+    "connected_from": "Psalm 50:9"
+  },
+  {
+    "text": "I know all the flying things of the air, and the beauty of the field is with me.",
+    "reference": "Psalm 50:11 (CPDV)",
+    "connected_to": "Psalm 50:12",
+    "connected_from": "Psalm 50:10"
+  },
+  {
+    "text": "If I should be hungry, I would not tell you: for the whole world is mine, and all its plentitude.",
+    "reference": "Psalm 50:12 (CPDV)",
+    "connected_to": "Psalm 50:13",
+    "connected_from": "Psalm 50:11"
+  },
+  {
+    "text": "Shall I gnaw on the flesh of bulls? Or would I drink the blood of goats?",
+    "reference": "Psalm 50:13 (CPDV)",
+    "connected_to": "Psalm 50:14",
+    "connected_from": "Psalm 50:12"
+  },
+  {
+    "text": "Offer to God the sacrifice of praise, and pay your vows to the Most High.",
+    "reference": "Psalm 50:14 (CPDV)",
+    "connected_to": "Psalm 50:15",
+    "connected_from": "Psalm 50:13"
+  },
+  {
+    "text": "And call upon me in the day of tribulation. I will rescue you, and you will honor me.",
+    "reference": "Psalm 50:15 (CPDV)",
+    "connected_to": "Psalm 50:16",
+    "connected_from": "Psalm 50:14"
+  },
+  {
+    "text": "But to the sinner, God has said: Why do you discourse on my justices, and take up my covenant through your mouth?",
+    "reference": "Psalm 50:16 (CPDV)",
+    "connected_to": "Psalm 50:17",
+    "connected_from": "Psalm 50:15"
+  },
+  {
+    "text": "Truly, you have hated discipline, and you have cast my sermons behind you.",
+    "reference": "Psalm 50:17 (CPDV)",
+    "connected_to": "Psalm 50:18",
+    "connected_from": "Psalm 50:16"
+  },
+  {
+    "text": "If you saw a thief, you ran with him, and you have placed your portion with adulterers.",
+    "reference": "Psalm 50:18 (CPDV)",
+    "connected_to": "Psalm 50:19",
+    "connected_from": "Psalm 50:17"
+  },
+  {
+    "text": "Your mouth has abounded with malice, and your tongue has concocted deceits.",
+    "reference": "Psalm 50:19 (CPDV)",
+    "connected_to": "Psalm 50:20",
+    "connected_from": "Psalm 50:18"
+  },
+  {
+    "text": "Sitting, you spoke against your brother, and you set up a scandal against your mother’s son.",
+    "reference": "Psalm 50:20 (CPDV)",
+    "connected_to": "Psalm 50:21",
+    "connected_from": "Psalm 50:19"
+  },
+  {
+    "text": "These things you have done, and I was silent. You thought, unjustly, that I ought to be like you. But I will reprove you, and I will set myself against your face.",
+    "reference": "Psalm 50:21 (CPDV)",
+    "connected_to": "Psalm 50:22",
+    "connected_from": "Psalm 50:20"
+  },
+  {
+    "text": "Understand these things, you who forget God; lest at any time, he might quickly take you away, and there would be no one to rescue you.",
+    "reference": "Psalm 50:22 (CPDV)",
+    "connected_to": "Psalm 50:23",
+    "connected_from": "Psalm 50:21"
+  },
+  {
+    "text": "The sacrifice of praise will honor me. And in that place is the journey by which I will reveal to him the salvation of God.",
+    "reference": "Psalm 50:23 (CPDV)",
+    "connected_from": "Psalm 50:22"
+  }
+]

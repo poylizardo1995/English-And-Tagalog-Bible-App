@@ -1,0 +1,114 @@
+[
+  {
+    "text": "Alleluia. I have loved: therefore, the Lord will heed the voice of my prayer.",
+    "reference": "Psalm 116:1 (CPDV)",
+    "connected_to": "Psalm 116:2"
+  },
+  {
+    "text": "For he has inclined his ear to me. And in my days, I will call upon him.",
+    "reference": "Psalm 116:2 (CPDV)",
+    "connected_to": "Psalm 116:3",
+    "connected_from": "Psalm 116:1"
+  },
+  {
+    "text": "The sorrows of death have surrounded me, and the perils of Hell have found me. I have found tribulation and sorrow.",
+    "reference": "Psalm 116:3 (CPDV)",
+    "connected_to": "Psalm 116:4",
+    "connected_from": "Psalm 116:2"
+  },
+  {
+    "text": "And so, I called upon the name of the Lord. O Lord, free my soul.",
+    "reference": "Psalm 116:4 (CPDV)",
+    "connected_to": "Psalm 116:5",
+    "connected_from": "Psalm 116:3"
+  },
+  {
+    "text": "Merciful is the Lord, and just. And our God is compassionate.",
+    "reference": "Psalm 116:5 (CPDV)",
+    "connected_to": "Psalm 116:6",
+    "connected_from": "Psalm 116:4"
+  },
+  {
+    "text": "The Lord is the keeper of little ones. I was humbled, and he freed me.",
+    "reference": "Psalm 116:6 (CPDV)",
+    "connected_to": "Psalm 116:7",
+    "connected_from": "Psalm 116:5"
+  },
+  {
+    "text": "Turn again, my soul, to your rest. For the Lord has done good to you.",
+    "reference": "Psalm 116:7 (CPDV)",
+    "connected_to": "Psalm 116:8",
+    "connected_from": "Psalm 116:6"
+  },
+  {
+    "text": "For he has rescued my soul from death, my eyes from tears, my feet from slipping.",
+    "reference": "Psalm 116:8 (CPDV)",
+    "connected_to": "Psalm 116:9",
+    "connected_from": "Psalm 116:7"
+  },
+  {
+    "text": "I will please the Lord in the land of the living.",
+    "reference": "Psalm 116:9 (CPDV)",
+    "connected_to": "Psalm 116:10",
+    "connected_from": "Psalm 116:8"
+  },
+  {
+    "text": "Alleluia. I had confidence, because of what I was saying, but then I was greatly humbled.",
+    "reference": "Psalm 116:10 (CPDV)",
+    "connected_to": "Psalm 116:11",
+    "connected_from": "Psalm 116:9"
+  },
+  {
+    "text": "I said in my excess, “Every man is a liar.”",
+    "reference": "Psalm 116:11 (CPDV)",
+    "connected_to": "Psalm 116:12",
+    "connected_from": "Psalm 116:10"
+  },
+  {
+    "text": "What shall I repay to the Lord, for all the things that he has repaid to me?",
+    "reference": "Psalm 116:12 (CPDV)",
+    "connected_to": "Psalm 116:13",
+    "connected_from": "Psalm 116:11"
+  },
+  {
+    "text": "I will take up the cup of salvation, and I will call upon the name of the Lord.",
+    "reference": "Psalm 116:13 (CPDV)",
+    "connected_to": "Psalm 116:14",
+    "connected_from": "Psalm 116:12"
+  },
+  {
+    "text": "I will repay my vows to the Lord, in the sight of all his people.",
+    "reference": "Psalm 116:14 (CPDV)",
+    "connected_to": "Psalm 116:15",
+    "connected_from": "Psalm 116:13"
+  },
+  {
+    "text": "Precious in the sight of the Lord is the death of his holy ones.",
+    "reference": "Psalm 116:15 (CPDV)",
+    "connected_to": "Psalm 116:16",
+    "connected_from": "Psalm 116:14"
+  },
+  {
+    "text": "O Lord, because I am your servant, your servant and the son of your handmaid, you have broken my bonds.",
+    "reference": "Psalm 116:16 (CPDV)",
+    "connected_to": "Psalm 116:17",
+    "connected_from": "Psalm 116:15"
+  },
+  {
+    "text": "I will sacrifice to you the sacrifice of praise, and I will invoke the name of the Lord.",
+    "reference": "Psalm 116:17 (CPDV)",
+    "connected_to": "Psalm 116:18",
+    "connected_from": "Psalm 116:16"
+  },
+  {
+    "text": "I will repay my vows to the Lord in the sight of all his people,",
+    "reference": "Psalm 116:18 (CPDV)",
+    "connected_to": "Psalm 116:19",
+    "connected_from": "Psalm 116:17"
+  },
+  {
+    "text": "in the courts of the house of the Lord, in your midst, O Jerusalem.",
+    "reference": "Psalm 116:19 (CPDV)",
+    "connected_from": "Psalm 116:18"
+  }
+]

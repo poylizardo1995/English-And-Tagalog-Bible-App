@@ -1,0 +1,162 @@
+[
+  {
+    "text": "[“] Call out, please. Is there one answering you? And to which of the holy ones will you turn?",
+    "reference": "Job 5:1 (BLB)",
+    "connected_to": "Job 5:2"
+  },
+  {
+    "text": "For indignation kills the foolish, and jealousy kills the simple.",
+    "reference": "Job 5:2 (BLB)",
+    "connected_to": "Job 5:3",
+    "connected_from": "Job 5:1"
+  },
+  {
+    "text": "I have seen a fool taking root, and suddenly I cursed his abode.",
+    "reference": "Job 5:3 (BLB)",
+    "connected_to": "Job 5:4",
+    "connected_from": "Job 5:2"
+  },
+  {
+    "text": "His sons are far from safety; indeed they are crushed in the gate, and [there is] none rescuing;",
+    "reference": "Job 5:4 (BLB)",
+    "connected_to": "Job 5:5",
+    "connected_from": "Job 5:3"
+  },
+  {
+    "text": "whose harvest the hungry one devours, even from among the thorns he takes it, and the thirsty one pants [after] their wealth.",
+    "reference": "Job 5:5 (BLB)",
+    "connected_to": "Job 5:6",
+    "connected_from": "Job 5:4"
+  },
+  {
+    "text": "For trouble does not come forth from the dust, nor does toil spring [up] from the ground.",
+    "reference": "Job 5:6 (BLB)",
+    "connected_to": "Job 5:7",
+    "connected_from": "Job 5:5"
+  },
+  {
+    "text": "For man is born into toil, and as the sons of the flame soar to fly.",
+    "reference": "Job 5:7 (BLB)",
+    "connected_to": "Job 5:8",
+    "connected_from": "Job 5:6"
+  },
+  {
+    "text": "But [as for] me, I would seek for God, and unto God I would commit my cause—",
+    "reference": "Job 5:8 (BLB)",
+    "connected_to": "Job 5:9",
+    "connected_from": "Job 5:7"
+  },
+  {
+    "text": "the One doing great things, and there is no searching out, wonders until there is no numbering.",
+    "reference": "Job 5:9 (BLB)",
+    "connected_to": "Job 5:10",
+    "connected_from": "Job 5:8"
+  },
+  {
+    "text": "The One giving rain upon the face of the earth, and sending waters upon the face of the outside,",
+    "reference": "Job 5:10 (BLB)",
+    "connected_to": "Job 5:11",
+    "connected_from": "Job 5:9"
+  },
+  {
+    "text": "to set the lowly ones on high, and those mourning are high in safety.",
+    "reference": "Job 5:11 (BLB)",
+    "connected_to": "Job 5:12",
+    "connected_from": "Job 5:10"
+  },
+  {
+    "text": "[He] is breaking the plots of the crafty, and their hands cannot execute wisdom.",
+    "reference": "Job 5:12 (BLB)",
+    "connected_to": "Job 5:13",
+    "connected_from": "Job 5:11"
+  },
+  {
+    "text": "He is catching the wise in their craftiness, and the counsel of those being deceptive is hurried.",
+    "reference": "Job 5:13 (BLB)",
+    "connected_to": "Job 5:14",
+    "connected_from": "Job 5:12"
+  },
+  {
+    "text": "By day they encounter darkness, and they grope about at midday as [at] night.",
+    "reference": "Job 5:14 (BLB)",
+    "connected_to": "Job 5:15",
+    "connected_from": "Job 5:13"
+  },
+  {
+    "text": "And He saves the needy from the sword in their mouth, and from the hand of the mighty.",
+    "reference": "Job 5:15 (BLB)",
+    "connected_to": "Job 5:16",
+    "connected_from": "Job 5:14"
+  },
+  {
+    "text": "And there is hope for the poor, and injustice shuts its mouth.",
+    "reference": "Job 5:16 (BLB)",
+    "connected_to": "Job 5:17",
+    "connected_from": "Job 5:15"
+  },
+  {
+    "text": "Behold, blessed [is] the man [whom] God reproves, and the discipline of Shaddai you should not despise.",
+    "reference": "Job 5:17 (BLB)",
+    "connected_to": "Job 5:18",
+    "connected_from": "Job 5:16"
+  },
+  {
+    "text": "For He brings pain, and binds up; he wounds, and his hands heal.",
+    "reference": "Job 5:18 (BLB)",
+    "connected_to": "Job 5:19",
+    "connected_from": "Job 5:17"
+  },
+  {
+    "text": "In six distresses he will rescue you, and in seven, evil shall not touch you.",
+    "reference": "Job 5:19 (BLB)",
+    "connected_to": "Job 5:20",
+    "connected_from": "Job 5:18"
+  },
+  {
+    "text": "In famine he will redeem you from death, and in war from the hands of the sword.",
+    "reference": "Job 5:20 (BLB)",
+    "connected_to": "Job 5:21",
+    "connected_from": "Job 5:19"
+  },
+  {
+    "text": "From the scourge of the tongue you will be hidden, and you shall not be afraid of destruction when it comes.",
+    "reference": "Job 5:21 (BLB)",
+    "connected_to": "Job 5:22",
+    "connected_from": "Job 5:20"
+  },
+  {
+    "text": "At destruction and famine you will laugh, and of the beasts of the earth you shall not be afraid.",
+    "reference": "Job 5:22 (BLB)",
+    "connected_to": "Job 5:23",
+    "connected_from": "Job 5:21"
+  },
+  {
+    "text": "For your covenant [will be] with the stones of the field, and the beasts of the field will be at peace with you.",
+    "reference": "Job 5:23 (BLB)",
+    "connected_to": "Job 5:24",
+    "connected_from": "Job 5:22"
+  },
+  {
+    "text": "And you will know that your tent [is at] peace, and you shall visit your abode and not miss.",
+    "reference": "Job 5:24 (BLB)",
+    "connected_to": "Job 5:25",
+    "connected_from": "Job 5:23"
+  },
+  {
+    "text": "And you will know that your seed [is] numerous, and your offspring like the grass of the earth.",
+    "reference": "Job 5:25 (BLB)",
+    "connected_to": "Job 5:26",
+    "connected_from": "Job 5:24"
+  },
+  {
+    "text": "You shall come in strength to the grave, like the lifting of a sheaf in its time.",
+    "reference": "Job 5:26 (BLB)",
+    "connected_to": "Job 5:27",
+    "connected_from": "Job 5:25"
+  },
+  {
+    "text": "Behold this—we have searched it out, [and] it [is] so; hear it, and you shall know [it] for yourself.”",
+    "reference": "Job 5:27 (BLB)",
+    "connected_from": "Job 5:26"
+  }
+]

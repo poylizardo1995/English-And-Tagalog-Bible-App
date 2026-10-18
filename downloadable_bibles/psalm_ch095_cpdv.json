@@ -1,0 +1,66 @@
+[
+  {
+    "text": "The Praise of a Canticle, of David himself. Come, let us exult in the Lord. Let us shout joyfully to God, our Savior.",
+    "reference": "Psalm 95:1 (CPDV)",
+    "connected_to": "Psalm 95:2"
+  },
+  {
+    "text": "Let us anticipate his presence with confession, and let us sing joyfully to him with psalms.",
+    "reference": "Psalm 95:2 (CPDV)",
+    "connected_to": "Psalm 95:3",
+    "connected_from": "Psalm 95:1"
+  },
+  {
+    "text": "For the Lord is a great God and a great King over all gods.",
+    "reference": "Psalm 95:3 (CPDV)",
+    "connected_to": "Psalm 95:4",
+    "connected_from": "Psalm 95:2"
+  },
+  {
+    "text": "For in his hand are all the limits of the earth, and the heights of the mountains are his.",
+    "reference": "Psalm 95:4 (CPDV)",
+    "connected_to": "Psalm 95:5",
+    "connected_from": "Psalm 95:3"
+  },
+  {
+    "text": "For the sea is his, and he made it, and his hands formed the dry land.",
+    "reference": "Psalm 95:5 (CPDV)",
+    "connected_to": "Psalm 95:6",
+    "connected_from": "Psalm 95:4"
+  },
+  {
+    "text": "Come, let us adore and fall prostrate, and let us weep before the Lord who made us.",
+    "reference": "Psalm 95:6 (CPDV)",
+    "connected_to": "Psalm 95:7",
+    "connected_from": "Psalm 95:5"
+  },
+  {
+    "text": "For he is the Lord our God, and we are the people of his pasture and the sheep of his hand.",
+    "reference": "Psalm 95:7 (CPDV)",
+    "connected_to": "Psalm 95:8",
+    "connected_from": "Psalm 95:6"
+  },
+  {
+    "text": "If today you hear his voice, harden not your hearts:",
+    "reference": "Psalm 95:8 (CPDV)",
+    "connected_to": "Psalm 95:9",
+    "connected_from": "Psalm 95:7"
+  },
+  {
+    "text": "as in the provocation, according to the day of temptation in the wilderness, where your fathers tempted me; they tested me, though they had seen my works.",
+    "reference": "Psalm 95:9 (CPDV)",
+    "connected_to": "Psalm 95:10",
+    "connected_from": "Psalm 95:8"
+  },
+  {
+    "text": "For forty years, I was offended by that generation, and I said: These have always strayed in heart.",
+    "reference": "Psalm 95:10 (CPDV)",
+    "connected_to": "Psalm 95:11",
+    "connected_from": "Psalm 95:9"
+  },
+  {
+    "text": "And these have not known my ways. So I swore in my wrath: They shall not enter into my rest.",
+    "reference": "Psalm 95:11 (CPDV)",
+    "connected_from": "Psalm 95:10"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Jehovah reigneth, he hath clothed himself with majesty: Jehovah hath clothed himself, he hath girded himself with strength; yea, the world is established, it shall not be moved.",
+    "reference": "Psalm 93:1 (DBT)",
+    "connected_to": "Psalm 93:2"
+  },
+  {
+    "text": "Thy throne is established of old; thou art from eternity.",
+    "reference": "Psalm 93:2 (DBT)",
+    "connected_to": "Psalm 93:3",
+    "connected_from": "Psalm 93:1"
+  },
+  {
+    "text": "The floods lifted up, O Jehovah, the floods lifted up their voice; the floods lifted up their roaring waves.",
+    "reference": "Psalm 93:3 (DBT)",
+    "connected_to": "Psalm 93:4",
+    "connected_from": "Psalm 93:2"
+  },
+  {
+    "text": "Jehovah on high is mightier than the voices of many waters, than the mighty breakers of the sea.",
+    "reference": "Psalm 93:4 (DBT)",
+    "connected_to": "Psalm 93:5",
+    "connected_from": "Psalm 93:3"
+  },
+  {
+    "text": "Thy testimonies are very sure: holiness becometh thy house, O Jehovah, for ever.",
+    "reference": "Psalm 93:5 (DBT)",
+    "connected_from": "Psalm 93:4"
+  }
+]

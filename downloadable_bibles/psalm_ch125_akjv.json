@@ -1,0 +1,30 @@
+[
+  {
+    "text": "They that trust in the LORD shall be as mount Zion, which cannot be removed, but stays for ever.",
+    "reference": "Psalm 125:1 (AKJV)",
+    "connected_to": "Psalm 125:2"
+  },
+  {
+    "text": "As the mountains are round about Jerusalem, so the LORD is round about his people from now on even for ever.",
+    "reference": "Psalm 125:2 (AKJV)",
+    "connected_to": "Psalm 125:3",
+    "connected_from": "Psalm 125:1"
+  },
+  {
+    "text": "For the rod of the wicked shall not rest on the lot of the righteous; lest the righteous put forth their hands to iniquity.",
+    "reference": "Psalm 125:3 (AKJV)",
+    "connected_to": "Psalm 125:4",
+    "connected_from": "Psalm 125:2"
+  },
+  {
+    "text": "Do good, O LORD, to those that be good, and to them that are upright in their hearts.",
+    "reference": "Psalm 125:4 (AKJV)",
+    "connected_to": "Psalm 125:5",
+    "connected_from": "Psalm 125:3"
+  },
+  {
+    "text": "As for such as turn aside to their crooked ways, the LORD shall lead them forth with the workers of iniquity: but peace shall be on Israel.",
+    "reference": "Psalm 125:5 (AKJV)",
+    "connected_from": "Psalm 125:4"
+  }
+]

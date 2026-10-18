@@ -1,0 +1,330 @@
+[
+  {
+    "text": "And these are the sons of Israel: Ruben, Simeon, Levi, Juda, Issachar, and Zabulon,",
+    "reference": "1 Chronicles 2:1 (DRB)",
+    "connected_to": "1 Chronicles 2:2"
+  },
+  {
+    "text": "Dan, Joseph, Benjamin, Nephtali, Gad, and Aser.",
+    "reference": "1 Chronicles 2:2 (DRB)",
+    "connected_to": "1 Chronicles 2:3",
+    "connected_from": "1 Chronicles 2:1"
+  },
+  {
+    "text": "The sons of Juda: Her, Onan and Sela. These three were born to him of the Chanaanitess the daughter of Sue. And Her the firstborn of Juda, was wicked in the sight of the Lord, and he slew him.",
+    "reference": "1 Chronicles 2:3 (DRB)",
+    "connected_to": "1 Chronicles 2:4",
+    "connected_from": "1 Chronicles 2:2"
+  },
+  {
+    "text": "And Thamar his daughter in law bore him Phares and Zara. So all the sons of Juda were five.",
+    "reference": "1 Chronicles 2:4 (DRB)",
+    "connected_to": "1 Chronicles 2:5",
+    "connected_from": "1 Chronicles 2:3"
+  },
+  {
+    "text": "And the sons of Phares, were Hesron and Hamul.",
+    "reference": "1 Chronicles 2:5 (DRB)",
+    "connected_to": "1 Chronicles 2:6",
+    "connected_from": "1 Chronicles 2:4"
+  },
+  {
+    "text": "And the sons also of Zare: Zamri, and Ethan, and Eman, and Chalchal, and Dara, five in all.",
+    "reference": "1 Chronicles 2:6 (DRB)",
+    "connected_to": "1 Chronicles 2:7",
+    "connected_from": "1 Chronicles 2:5"
+  },
+  {
+    "text": "And the sons of Charmi: Achar, who troubled Israel, and sinned by the theft of the anathema.",
+    "reference": "1 Chronicles 2:7 (DRB)",
+    "connected_to": "1 Chronicles 2:8",
+    "connected_from": "1 Chronicles 2:6"
+  },
+  {
+    "text": "The sons of Ethan: Azarias,",
+    "reference": "1 Chronicles 2:8 (DRB)",
+    "connected_to": "1 Chronicles 2:9",
+    "connected_from": "1 Chronicles 2:7"
+  },
+  {
+    "text": "And the sons of Hesron that were born to him: Jerameel, and Ram, and Calubi.",
+    "reference": "1 Chronicles 2:9 (DRB)",
+    "connected_to": "1 Chronicles 2:10",
+    "connected_from": "1 Chronicles 2:8"
+  },
+  {
+    "text": "And Ram beget Aminadab, and Aminadab beget Nahasson, prince of the children of Juda.",
+    "reference": "1 Chronicles 2:10 (DRB)",
+    "connected_to": "1 Chronicles 2:11",
+    "connected_from": "1 Chronicles 2:9"
+  },
+  {
+    "text": "And Nahasson beget Salma, the father of Boot.",
+    "reference": "1 Chronicles 2:11 (DRB)",
+    "connected_to": "1 Chronicles 2:12",
+    "connected_from": "1 Chronicles 2:10"
+  },
+  {
+    "text": "And Boot beget Obed, and Obed beget Isai.",
+    "reference": "1 Chronicles 2:12 (DRB)",
+    "connected_to": "1 Chronicles 2:13",
+    "connected_from": "1 Chronicles 2:11"
+  },
+  {
+    "text": "And Isai beget Eliab his firstborn, the second Abinadab, the third Simmaa,",
+    "reference": "1 Chronicles 2:13 (DRB)",
+    "connected_to": "1 Chronicles 2:14",
+    "connected_from": "1 Chronicles 2:12"
+  },
+  {
+    "text": "The fourth, Nathanael, the fifth Raddai,",
+    "reference": "1 Chronicles 2:14 (DRB)",
+    "connected_to": "1 Chronicles 2:15",
+    "connected_from": "1 Chronicles 2:13"
+  },
+  {
+    "text": "The sixth Asom, the seventh David.",
+    "reference": "1 Chronicles 2:15 (DRB)",
+    "connected_to": "1 Chronicles 2:16",
+    "connected_from": "1 Chronicles 2:14"
+  },
+  {
+    "text": "And their sisters were Sarvia, and Abigail. The sons of Sarvia: Abisai, Joab, and Asael, three.",
+    "reference": "1 Chronicles 2:16 (DRB)",
+    "connected_to": "1 Chronicles 2:17",
+    "connected_from": "1 Chronicles 2:15"
+  },
+  {
+    "text": "And Abigail bore Amasa, whose father was Jether the Ismahelite.",
+    "reference": "1 Chronicles 2:17 (DRB)",
+    "connected_to": "1 Chronicles 2:18",
+    "connected_from": "1 Chronicles 2:16"
+  },
+  {
+    "text": "And Caleb the son of Hesron took a wife named Azuba, of whom he had Jerioth: and her sons were Jaser, and Sobab, and Ardon.",
+    "reference": "1 Chronicles 2:18 (DRB)",
+    "connected_to": "1 Chronicles 2:19",
+    "connected_from": "1 Chronicles 2:17"
+  },
+  {
+    "text": "And when Azuba was dead, Caleb took to wife Ephrata: who bore him Hur.",
+    "reference": "1 Chronicles 2:19 (DRB)",
+    "connected_to": "1 Chronicles 2:20",
+    "connected_from": "1 Chronicles 2:18"
+  },
+  {
+    "text": "And Hur beget Uri: and Uri beget Bezeleel.",
+    "reference": "1 Chronicles 2:20 (DRB)",
+    "connected_to": "1 Chronicles 2:21",
+    "connected_from": "1 Chronicles 2:19"
+  },
+  {
+    "text": "And afterwards Hesron went in to the daughter of Machir the father of Galaad, and took her to wife when he was threescore years old: and she bore him Segub.",
+    "reference": "1 Chronicles 2:21 (DRB)",
+    "connected_to": "1 Chronicles 2:22",
+    "connected_from": "1 Chronicles 2:20"
+  },
+  {
+    "text": "And Segub beget Jair, and he had three and twenty cities in the land of Galaad.",
+    "reference": "1 Chronicles 2:22 (DRB)",
+    "connected_to": "1 Chronicles 2:23",
+    "connected_from": "1 Chronicles 2:21"
+  },
+  {
+    "text": "And he took Gessur, and Aram the towns of Jair, and Canath, and the villages thereof, threescore cities. All these, the sons of Machir father of Galaad.",
+    "reference": "1 Chronicles 2:23 (DRB)",
+    "connected_to": "1 Chronicles 2:24",
+    "connected_from": "1 Chronicles 2:22"
+  },
+  {
+    "text": "And when Hesron was dead, Caleb went in to Ephrata. Hesron also had to wife Abia who bore him Ashur the father of Thecua.",
+    "reference": "1 Chronicles 2:24 (DRB)",
+    "connected_to": "1 Chronicles 2:25",
+    "connected_from": "1 Chronicles 2:23"
+  },
+  {
+    "text": "And the sons of Jerameel the firstborn of Hesron, were Ram his firstborn, and Buna, and Aram, and Asom, and Achia.",
+    "reference": "1 Chronicles 2:25 (DRB)",
+    "connected_to": "1 Chronicles 2:26",
+    "connected_from": "1 Chronicles 2:24"
+  },
+  {
+    "text": "And Jerameel married another wife, named Atara, who was the mother of Onam.",
+    "reference": "1 Chronicles 2:26 (DRB)",
+    "connected_to": "1 Chronicles 2:27",
+    "connected_from": "1 Chronicles 2:25"
+  },
+  {
+    "text": "And the sons of Ram the firstborn of Jerameel, were Moos, Jamin, and Achar.",
+    "reference": "1 Chronicles 2:27 (DRB)",
+    "connected_to": "1 Chronicles 2:28",
+    "connected_from": "1 Chronicles 2:26"
+  },
+  {
+    "text": "And Onam had sons Semei, and Jada. And the sons of Semei: Nadab, and Abisur.",
+    "reference": "1 Chronicles 2:28 (DRB)",
+    "connected_to": "1 Chronicles 2:29",
+    "connected_from": "1 Chronicles 2:27"
+  },
+  {
+    "text": "And the name of Abisur’s wife was Abihail, who bore him Ahobban, and Molid.",
+    "reference": "1 Chronicles 2:29 (DRB)",
+    "connected_to": "1 Chronicles 2:30",
+    "connected_from": "1 Chronicles 2:28"
+  },
+  {
+    "text": "And the sons of Nadab were Saled, and Apphaim. And Saled died without children.",
+    "reference": "1 Chronicles 2:30 (DRB)",
+    "connected_to": "1 Chronicles 2:31",
+    "connected_from": "1 Chronicles 2:29"
+  },
+  {
+    "text": "But the son of Apphaim was Jesi: and Jesi beget Sesan. And Sesan beget Oholai.",
+    "reference": "1 Chronicles 2:31 (DRB)",
+    "connected_to": "1 Chronicles 2:32",
+    "connected_from": "1 Chronicles 2:30"
+  },
+  {
+    "text": "And the sons of Jada the brother of Semei : Jether and Jonathan. And Jether also died without children.",
+    "reference": "1 Chronicles 2:32 (DRB)",
+    "connected_to": "1 Chronicles 2:33",
+    "connected_from": "1 Chronicles 2:31"
+  },
+  {
+    "text": "But Jonathan beget Phaleth, and Ziza, These were the sons of Jerameel.",
+    "reference": "1 Chronicles 2:33 (DRB)",
+    "connected_to": "1 Chronicles 2:34",
+    "connected_from": "1 Chronicles 2:32"
+  },
+  {
+    "text": "And Sesan had no sons, but daughters and a servant an Egyptian, named Jeraa.",
+    "reference": "1 Chronicles 2:34 (DRB)",
+    "connected_to": "1 Chronicles 2:35",
+    "connected_from": "1 Chronicles 2:33"
+  },
+  {
+    "text": "And he gave him his daughter to wife: and she bore him Ethei.",
+    "reference": "1 Chronicles 2:35 (DRB)",
+    "connected_to": "1 Chronicles 2:36",
+    "connected_from": "1 Chronicles 2:34"
+  },
+  {
+    "text": "And Ethei begot Nathan, and Nathan beget Zabad.",
+    "reference": "1 Chronicles 2:36 (DRB)",
+    "connected_to": "1 Chronicles 2:37",
+    "connected_from": "1 Chronicles 2:35"
+  },
+  {
+    "text": "And Zabad beget Ophlal, and Ophlal beget Obed.",
+    "reference": "1 Chronicles 2:37 (DRB)",
+    "connected_to": "1 Chronicles 2:38",
+    "connected_from": "1 Chronicles 2:36"
+  },
+  {
+    "text": "Obed beget Jehu, Jehu beget Azarias.",
+    "reference": "1 Chronicles 2:38 (DRB)",
+    "connected_to": "1 Chronicles 2:39",
+    "connected_from": "1 Chronicles 2:37"
+  },
+  {
+    "text": "Azarias beget Helles, and Helles begot Elasa.",
+    "reference": "1 Chronicles 2:39 (DRB)",
+    "connected_to": "1 Chronicles 2:40",
+    "connected_from": "1 Chronicles 2:38"
+  },
+  {
+    "text": "Elasa beget Sisamoi, Sisamoi beget Sellum,",
+    "reference": "1 Chronicles 2:40 (DRB)",
+    "connected_to": "1 Chronicles 2:41",
+    "connected_from": "1 Chronicles 2:39"
+  },
+  {
+    "text": "Sellum beget Icamia, and Icamia begot Elisama.",
+    "reference": "1 Chronicles 2:41 (DRB)",
+    "connected_to": "1 Chronicles 2:42",
+    "connected_from": "1 Chronicles 2:40"
+  },
+  {
+    "text": "Now the sons of Caleb the brother of Jerameel were Mesa his firstborn, who was the father of Siph: and the sons of Maresa father of Hebron.",
+    "reference": "1 Chronicles 2:42 (DRB)",
+    "connected_to": "1 Chronicles 2:43",
+    "connected_from": "1 Chronicles 2:41"
+  },
+  {
+    "text": "And the sons of Hebron, Core, and Thaphua, and Recem, and Samma.",
+    "reference": "1 Chronicles 2:43 (DRB)",
+    "connected_to": "1 Chronicles 2:44",
+    "connected_from": "1 Chronicles 2:42"
+  },
+  {
+    "text": "And Samma beget Raham, the father of Jercaam, and Recem beget Sammai.",
+    "reference": "1 Chronicles 2:44 (DRB)",
+    "connected_to": "1 Chronicles 2:45",
+    "connected_from": "1 Chronicles 2:43"
+  },
+  {
+    "text": "The son of Sammai, Maon: and Maon the father of Bethsur.",
+    "reference": "1 Chronicles 2:45 (DRB)",
+    "connected_to": "1 Chronicles 2:46",
+    "connected_from": "1 Chronicles 2:44"
+  },
+  {
+    "text": "And Epha the concubine of Caleb bore Haran, and Mesa, and Gezez. And Haran beget Gezez.",
+    "reference": "1 Chronicles 2:46 (DRB)",
+    "connected_to": "1 Chronicles 2:47",
+    "connected_from": "1 Chronicles 2:45"
+  },
+  {
+    "text": "And the sons of Jahaddai, Rogom, and Joathan, and Gesan, and Phalet, and Epha, and Saaph.",
+    "reference": "1 Chronicles 2:47 (DRB)",
+    "connected_to": "1 Chronicles 2:48",
+    "connected_from": "1 Chronicles 2:46"
+  },
+  {
+    "text": "And Maacha the concubine of Caleb bore Saber, and Tharana.",
+    "reference": "1 Chronicles 2:48 (DRB)",
+    "connected_to": "1 Chronicles 2:49",
+    "connected_from": "1 Chronicles 2:47"
+  },
+  {
+    "text": "And Saaph the father of Madmena beget Sue the father of Machbena, and the father of Gabaa. And the daughter of Caleb was Achsa.",
+    "reference": "1 Chronicles 2:49 (DRB)",
+    "connected_to": "1 Chronicles 2:50",
+    "connected_from": "1 Chronicles 2:48"
+  },
+  {
+    "text": "These were the sons of Caleb, the son of Hur the firstborn of Ephrata, Sobal the father of Cariathiarim.",
+    "reference": "1 Chronicles 2:50 (DRB)",
+    "connected_to": "1 Chronicles 2:51",
+    "connected_from": "1 Chronicles 2:49"
+  },
+  {
+    "text": "Salma the father of Bethlehem, Hariph the father of Bethgader.",
+    "reference": "1 Chronicles 2:51 (DRB)",
+    "connected_to": "1 Chronicles 2:52",
+    "connected_from": "1 Chronicles 2:50"
+  },
+  {
+    "text": "And Sobal the father of Cariathiarim had sons: he that saw half of the places of rest.",
+    "reference": "1 Chronicles 2:52 (DRB)",
+    "connected_to": "1 Chronicles 2:53",
+    "connected_from": "1 Chronicles 2:51"
+  },
+  {
+    "text": "And of the kindred of Cariathiarim, the Jethrites, and Aphuthites, and Semathites, and Maserites. Of them came the Saraites, and Esthaolites.",
+    "reference": "1 Chronicles 2:53 (DRB)",
+    "connected_to": "1 Chronicles 2:54",
+    "connected_from": "1 Chronicles 2:52"
+  },
+  {
+    "text": "The sons of Salma, Bethlehem, and Netophathi, the crowns of the house of Joab, and half of the place of rest of Sarai.",
+    "reference": "1 Chronicles 2:54 (DRB)",
+    "connected_to": "1 Chronicles 2:55",
+    "connected_from": "1 Chronicles 2:53"
+  },
+  {
+    "text": "And the families of the scribes that dwell in Jabes, singing and making melody, and abiding in tents. These are the Cinites, who came of Calor (Chamath) father of the house of Rechab,",
+    "reference": "1 Chronicles 2:55 (DRB)",
+    "connected_from": "1 Chronicles 2:54"
+  }
+]

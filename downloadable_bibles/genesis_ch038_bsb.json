@@ -1,0 +1,180 @@
+[
+  {
+    "text": "About that time, Judah left his brothers and settled near a man named Hirah, an Adullamite.",
+    "reference": "Genesis 38:1 (BSB)",
+    "connected_to": "Genesis 38:2"
+  },
+  {
+    "text": "There Judah saw the daughter of a Canaanite man named Shua, and he took her as a wife and slept with her.",
+    "reference": "Genesis 38:2 (BSB)",
+    "connected_to": "Genesis 38:3",
+    "connected_from": "Genesis 38:1"
+  },
+  {
+    "text": "So she conceived and gave birth to a son, and Judah named him Er.",
+    "reference": "Genesis 38:3 (BSB)",
+    "connected_to": "Genesis 38:4",
+    "connected_from": "Genesis 38:2"
+  },
+  {
+    "text": "Again she conceived and gave birth to a son, and she named him Onan.",
+    "reference": "Genesis 38:4 (BSB)",
+    "connected_to": "Genesis 38:5",
+    "connected_from": "Genesis 38:3"
+  },
+  {
+    "text": "Then she gave birth to another son and named him Shelah; it was at Chezib that she gave birth to him.",
+    "reference": "Genesis 38:5 (BSB)",
+    "connected_to": "Genesis 38:6",
+    "connected_from": "Genesis 38:4"
+  },
+  {
+    "text": "Now Judah acquired a wife for Er, his firstborn, and her name was Tamar.",
+    "reference": "Genesis 38:6 (BSB)",
+    "connected_to": "Genesis 38:7",
+    "connected_from": "Genesis 38:5"
+  },
+  {
+    "text": "But Er, Judah’s firstborn, was wicked in the sight of the LORD; so the LORD put him to death.",
+    "reference": "Genesis 38:7 (BSB)",
+    "connected_to": "Genesis 38:8",
+    "connected_from": "Genesis 38:6"
+  },
+  {
+    "text": "Then Judah said to Onan, “Sleep with your brother’s wife. Perform your duty as her brother-in-law and raise up offspring for your brother.”",
+    "reference": "Genesis 38:8 (BSB)",
+    "connected_to": "Genesis 38:9",
+    "connected_from": "Genesis 38:7"
+  },
+  {
+    "text": "But Onan knew that the offspring would not belong to him; so whenever he would sleep with his brother’s wife, he would spill his seed on the ground so that he would not produce offspring for his brother.",
+    "reference": "Genesis 38:9 (BSB)",
+    "connected_to": "Genesis 38:10",
+    "connected_from": "Genesis 38:8"
+  },
+  {
+    "text": "What he did was wicked in the sight of the LORD, so He put Onan to death as well.",
+    "reference": "Genesis 38:10 (BSB)",
+    "connected_to": "Genesis 38:11",
+    "connected_from": "Genesis 38:9"
+  },
+  {
+    "text": "Then Judah said to his daughter-in-law Tamar, “Live as a widow in your father’s house until my son Shelah grows up.” For he thought, “He may die too, like his brothers.” So Tamar went to live in her father’s house.",
+    "reference": "Genesis 38:11 (BSB)",
+    "connected_to": "Genesis 38:12",
+    "connected_from": "Genesis 38:10"
+  },
+  {
+    "text": "After a long time Judah’s wife, the daughter of Shua, died. When Judah had finished mourning, he and his friend Hirah the Adullamite went up to his sheepshearers at Timnah.",
+    "reference": "Genesis 38:12 (BSB)",
+    "connected_to": "Genesis 38:13",
+    "connected_from": "Genesis 38:11"
+  },
+  {
+    "text": "When Tamar was told, “Your father-in-law is going up to Timnah to shear his sheep,”",
+    "reference": "Genesis 38:13 (BSB)",
+    "connected_to": "Genesis 38:14",
+    "connected_from": "Genesis 38:12"
+  },
+  {
+    "text": "she removed her widow’s garments, covered her face with a veil to disguise herself, and sat at the entrance to Enaim, which is on the way to Timnah. For she saw that although Shelah had grown up, she had not been given to him as a wife.",
+    "reference": "Genesis 38:14 (BSB)",
+    "connected_to": "Genesis 38:15",
+    "connected_from": "Genesis 38:13"
+  },
+  {
+    "text": "When Judah saw her, he thought she was a prostitute because she had covered her face.",
+    "reference": "Genesis 38:15 (BSB)",
+    "connected_to": "Genesis 38:16",
+    "connected_from": "Genesis 38:14"
+  },
+  {
+    "text": "Not realizing that she was his daughter-in-law, he went over to her and said, “Come now, let me sleep with you.” “What will you give me for sleeping with you?” she inquired.",
+    "reference": "Genesis 38:16 (BSB)",
+    "connected_to": "Genesis 38:17",
+    "connected_from": "Genesis 38:15"
+  },
+  {
+    "text": "“I will send you a young goat from my flock,” Judah answered. But she replied, “Only if you leave me something as a pledge until you send it.”",
+    "reference": "Genesis 38:17 (BSB)",
+    "connected_to": "Genesis 38:18",
+    "connected_from": "Genesis 38:16"
+  },
+  {
+    "text": "“What pledge should I give you?” he asked. She answered, “Your seal and your cord, and the staff in your hand.” So he gave them to her and slept with her, and she became pregnant by him.",
+    "reference": "Genesis 38:18 (BSB)",
+    "connected_to": "Genesis 38:19",
+    "connected_from": "Genesis 38:17"
+  },
+  {
+    "text": "Then Tamar got up and departed. And she removed her veil and put on her widow’s garments again.",
+    "reference": "Genesis 38:19 (BSB)",
+    "connected_to": "Genesis 38:20",
+    "connected_from": "Genesis 38:18"
+  },
+  {
+    "text": "Now when Judah sent his friend Hirah the Adullamite with the young goat to collect the items he had left with the woman, he could not find her.",
+    "reference": "Genesis 38:20 (BSB)",
+    "connected_to": "Genesis 38:21",
+    "connected_from": "Genesis 38:19"
+  },
+  {
+    "text": "He asked the men of that place, “Where is the shrine prostitute who was beside the road at Enaim?” “No shrine prostitute has been here,” they answered.",
+    "reference": "Genesis 38:21 (BSB)",
+    "connected_to": "Genesis 38:22",
+    "connected_from": "Genesis 38:20"
+  },
+  {
+    "text": "So Hirah returned to Judah and said, “I could not find her, and furthermore, the men of that place said, ‘No shrine prostitute has been here.’”",
+    "reference": "Genesis 38:22 (BSB)",
+    "connected_to": "Genesis 38:23",
+    "connected_from": "Genesis 38:21"
+  },
+  {
+    "text": "“Let her keep the items,” Judah replied. “Otherwise we will become a laughingstock. After all, I did send her this young goat, but you could not find her.”",
+    "reference": "Genesis 38:23 (BSB)",
+    "connected_to": "Genesis 38:24",
+    "connected_from": "Genesis 38:22"
+  },
+  {
+    "text": "About three months later, Judah was told, “Your daughter-in-law Tamar has prostituted herself, and now she is pregnant.” “Bring her out!” Judah replied. “Let her be burned to death!”",
+    "reference": "Genesis 38:24 (BSB)",
+    "connected_to": "Genesis 38:25",
+    "connected_from": "Genesis 38:23"
+  },
+  {
+    "text": "As she was being brought out, Tamar sent a message to her father-in-law: “I am pregnant by the man to whom these items belong.” And she added, “Please examine them. Whose seal and cord and staff are these?”",
+    "reference": "Genesis 38:25 (BSB)",
+    "connected_to": "Genesis 38:26",
+    "connected_from": "Genesis 38:24"
+  },
+  {
+    "text": "Judah recognized the items and said, “She is more righteous than I, since I did not give her to my son Shelah.” And he did not have relations with her again.",
+    "reference": "Genesis 38:26 (BSB)",
+    "connected_to": "Genesis 38:27",
+    "connected_from": "Genesis 38:25"
+  },
+  {
+    "text": "When the time came for Tamar to give birth, there were twins in her womb.",
+    "reference": "Genesis 38:27 (BSB)",
+    "connected_to": "Genesis 38:28",
+    "connected_from": "Genesis 38:26"
+  },
+  {
+    "text": "And as she was giving birth, one of them put out his hand; so the midwife took a scarlet thread and tied it around his wrist. “This one came out first,” she announced.",
+    "reference": "Genesis 38:28 (BSB)",
+    "connected_to": "Genesis 38:29",
+    "connected_from": "Genesis 38:27"
+  },
+  {
+    "text": "But when he pulled his hand back and his brother came out, she said, “You have broken out first!” So he was named Perez.",
+    "reference": "Genesis 38:29 (BSB)",
+    "connected_to": "Genesis 38:30",
+    "connected_from": "Genesis 38:28"
+  },
+  {
+    "text": "Then his brother came out with the scarlet thread around his wrist, and he was named Zerah.",
+    "reference": "Genesis 38:30 (BSB)",
+    "connected_from": "Genesis 38:29"
+  }
+]

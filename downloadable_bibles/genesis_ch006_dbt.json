@@ -1,0 +1,132 @@
+[
+  {
+    "text": "And it came to pass when mankind began to multiply on the earth, and daughters were born to them,",
+    "reference": "Genesis 6:1 (DBT)",
+    "connected_to": "Genesis 6:2"
+  },
+  {
+    "text": "that the sons of God saw the daughters of men that they were fair, and took themselves wives of all that they chose.",
+    "reference": "Genesis 6:2 (DBT)",
+    "connected_to": "Genesis 6:3",
+    "connected_from": "Genesis 6:1"
+  },
+  {
+    "text": "And Jehovah said, My Spirit shall not always plead with Man; for he indeed is flesh; but his days shall be a hundred and twenty years.",
+    "reference": "Genesis 6:3 (DBT)",
+    "connected_to": "Genesis 6:4",
+    "connected_from": "Genesis 6:2"
+  },
+  {
+    "text": "In those days were the giants on the earth, and also afterwards, when the sons of God had come in to the daughters of men, and they had borne [children] to them; these were the heroes, who of old were men of renown.",
+    "reference": "Genesis 6:4 (DBT)",
+    "connected_to": "Genesis 6:5",
+    "connected_from": "Genesis 6:3"
+  },
+  {
+    "text": "And Jehovah saw that the wickedness of Man was great on the earth, and every imagination of the thoughts of his heart only evil continually.",
+    "reference": "Genesis 6:5 (DBT)",
+    "connected_to": "Genesis 6:6",
+    "connected_from": "Genesis 6:4"
+  },
+  {
+    "text": "And Jehovah repented that he had made Man on the earth, and it grieved him in his heart.",
+    "reference": "Genesis 6:6 (DBT)",
+    "connected_to": "Genesis 6:7",
+    "connected_from": "Genesis 6:5"
+  },
+  {
+    "text": "And Jehovah said, I will destroy Man, whom I have created, from the earth—from man to cattle, to creeping things, and to fowl of the heavens; for I repent that I have made them.",
+    "reference": "Genesis 6:7 (DBT)",
+    "connected_to": "Genesis 6:8",
+    "connected_from": "Genesis 6:6"
+  },
+  {
+    "text": "But Noah found favour in the eyes of Jehovah.",
+    "reference": "Genesis 6:8 (DBT)",
+    "connected_to": "Genesis 6:9",
+    "connected_from": "Genesis 6:7"
+  },
+  {
+    "text": "This is the history of Noah. Noah was a just man, perfect amongst his generations: Noah walked with God.",
+    "reference": "Genesis 6:9 (DBT)",
+    "connected_to": "Genesis 6:10",
+    "connected_from": "Genesis 6:8"
+  },
+  {
+    "text": "And Noah begot three sons, Shem, Ham, and Japheth.",
+    "reference": "Genesis 6:10 (DBT)",
+    "connected_to": "Genesis 6:11",
+    "connected_from": "Genesis 6:9"
+  },
+  {
+    "text": "And the earth was corrupt before God, and the earth was full of violence.",
+    "reference": "Genesis 6:11 (DBT)",
+    "connected_to": "Genesis 6:12",
+    "connected_from": "Genesis 6:10"
+  },
+  {
+    "text": "And God looked upon the earth, and behold, it was corrupt; for all flesh had corrupted its way on the earth.",
+    "reference": "Genesis 6:12 (DBT)",
+    "connected_to": "Genesis 6:13",
+    "connected_from": "Genesis 6:11"
+  },
+  {
+    "text": "And God said to Noah, The end of all flesh is come before me, for the earth is full of violence through them; and behold, I will destroy them with the earth.",
+    "reference": "Genesis 6:13 (DBT)",
+    "connected_to": "Genesis 6:14",
+    "connected_from": "Genesis 6:12"
+  },
+  {
+    "text": "Make thyself an ark of gopher wood: [with] cells shalt thou make the ark; and pitch it inside and outside with pitch.",
+    "reference": "Genesis 6:14 (DBT)",
+    "connected_to": "Genesis 6:15",
+    "connected_from": "Genesis 6:13"
+  },
+  {
+    "text": "And thus shalt thou make it: let the length of the ark be three hundred cubits, the breadth of it fifty cubits, and the height of it thirty cubits.",
+    "reference": "Genesis 6:15 (DBT)",
+    "connected_to": "Genesis 6:16",
+    "connected_from": "Genesis 6:14"
+  },
+  {
+    "text": "A light shalt thou make to the ark; and to a cubit high shalt thou finish it above. And the door of the ark shalt thou set in its side: [with] a lower, second, and third [story] shalt thou make it.",
+    "reference": "Genesis 6:16 (DBT)",
+    "connected_to": "Genesis 6:17",
+    "connected_from": "Genesis 6:15"
+  },
+  {
+    "text": "For I, behold, I bring a flood of waters on the earth, to destroy all flesh under the heavens in which is the breath of life: everything that is on the earth shall expire.",
+    "reference": "Genesis 6:17 (DBT)",
+    "connected_to": "Genesis 6:18",
+    "connected_from": "Genesis 6:16"
+  },
+  {
+    "text": "But with thee will I establish my covenant; and thou shalt go into the ark, thou, and thy sons, and thy wife, and thy sons’ wives with thee.",
+    "reference": "Genesis 6:18 (DBT)",
+    "connected_to": "Genesis 6:19",
+    "connected_from": "Genesis 6:17"
+  },
+  {
+    "text": "And of every living thing of all flesh, two of every [sort] shalt thou bring into the ark, to keep [them] alive with thee: they shall be male and female.",
+    "reference": "Genesis 6:19 (DBT)",
+    "connected_to": "Genesis 6:20",
+    "connected_from": "Genesis 6:18"
+  },
+  {
+    "text": "Of fowl after their kind, and of the cattle after their kind, of every creeping thing of the ground after its kind, two of each shall go in to thee, to keep [them] alive.",
+    "reference": "Genesis 6:20 (DBT)",
+    "connected_to": "Genesis 6:21",
+    "connected_from": "Genesis 6:19"
+  },
+  {
+    "text": "And take thou of all food that is eaten, and gather [it] to thee, that it may be for food for thee and for them.",
+    "reference": "Genesis 6:21 (DBT)",
+    "connected_to": "Genesis 6:22",
+    "connected_from": "Genesis 6:20"
+  },
+  {
+    "text": "And Noah did it; according to all that God had commanded him, so did he.",
+    "reference": "Genesis 6:22 (DBT)",
+    "connected_from": "Genesis 6:21"
+  }
+]

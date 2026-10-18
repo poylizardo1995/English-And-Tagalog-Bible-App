@@ -1,0 +1,96 @@
+[
+  {
+    "text": "A faithful saying: if a man desire the office of a bishop, he desireth a good work.",
+    "reference": "1 Timothy 3:1 (DRB)",
+    "connected_to": "1 Timothy 3:2"
+  },
+  {
+    "text": "It behoveth therefore a bishop to be blameless, the husband of one wife, sober, prudent, of good behaviour, chaste, given to hospitality, a teacher,",
+    "reference": "1 Timothy 3:2 (DRB)",
+    "connected_to": "1 Timothy 3:3",
+    "connected_from": "1 Timothy 3:1"
+  },
+  {
+    "text": "Not given to wine, no striker, but modest, not quarrelsome, not covetous, but",
+    "reference": "1 Timothy 3:3 (DRB)",
+    "connected_to": "1 Timothy 3:4",
+    "connected_from": "1 Timothy 3:2"
+  },
+  {
+    "text": "One that ruleth well his own house, having his children in subjection with all chastity.",
+    "reference": "1 Timothy 3:4 (DRB)",
+    "connected_to": "1 Timothy 3:5",
+    "connected_from": "1 Timothy 3:3"
+  },
+  {
+    "text": "But if a man know not how to rule his own house, how shall he take care of the church of God?",
+    "reference": "1 Timothy 3:5 (DRB)",
+    "connected_to": "1 Timothy 3:6",
+    "connected_from": "1 Timothy 3:4"
+  },
+  {
+    "text": "Not a neophyte: lest being puffed up with pride, he fall into the judgment of the devil.",
+    "reference": "1 Timothy 3:6 (DRB)",
+    "connected_to": "1 Timothy 3:7",
+    "connected_from": "1 Timothy 3:5"
+  },
+  {
+    "text": "Moreover he must have a good testimony of them who are without: lest he fall into reproach and the snare of the devil.",
+    "reference": "1 Timothy 3:7 (DRB)",
+    "connected_to": "1 Timothy 3:8",
+    "connected_from": "1 Timothy 3:6"
+  },
+  {
+    "text": "Deacons in like manner chaste, not double tongued, not given to much wine, not greedy of filthy lucre:",
+    "reference": "1 Timothy 3:8 (DRB)",
+    "connected_to": "1 Timothy 3:9",
+    "connected_from": "1 Timothy 3:7"
+  },
+  {
+    "text": "Holding the mystery of faith in a pure conscience.",
+    "reference": "1 Timothy 3:9 (DRB)",
+    "connected_to": "1 Timothy 3:10",
+    "connected_from": "1 Timothy 3:8"
+  },
+  {
+    "text": "And let these also first be proved: and so let them minister, having no crime.",
+    "reference": "1 Timothy 3:10 (DRB)",
+    "connected_to": "1 Timothy 3:11",
+    "connected_from": "1 Timothy 3:9"
+  },
+  {
+    "text": "The women in like manner chaste, not slanderers, but sober, faithful in all things.",
+    "reference": "1 Timothy 3:11 (DRB)",
+    "connected_to": "1 Timothy 3:12",
+    "connected_from": "1 Timothy 3:10"
+  },
+  {
+    "text": "Let deacons be the husbands of one wife: who rule well their children, and their own houses.",
+    "reference": "1 Timothy 3:12 (DRB)",
+    "connected_to": "1 Timothy 3:13",
+    "connected_from": "1 Timothy 3:11"
+  },
+  {
+    "text": "For they that have ministered well, shall purchase to themselves a good degree, and much confidence in the faith which is in Christ Jesus.",
+    "reference": "1 Timothy 3:13 (DRB)",
+    "connected_to": "1 Timothy 3:14",
+    "connected_from": "1 Timothy 3:12"
+  },
+  {
+    "text": "These things I write to thee, hoping that I shall come to thee shortly.",
+    "reference": "1 Timothy 3:14 (DRB)",
+    "connected_to": "1 Timothy 3:15",
+    "connected_from": "1 Timothy 3:13"
+  },
+  {
+    "text": "But if I tarry long, that thou mayest know how thou oughtest to behave thyself in the house of God, which is the church of the living God, the pillar and ground of the truth.",
+    "reference": "1 Timothy 3:15 (DRB)",
+    "connected_to": "1 Timothy 3:16",
+    "connected_from": "1 Timothy 3:14"
+  },
+  {
+    "text": "And evidently great is the mystery of godliness, which was manifested in the flesh, was justified in the spirit, appeared unto angels, hath been preached unto the Gentiles, is believed in the world, is taken up in glory.",
+    "reference": "1 Timothy 3:16 (DRB)",
+    "connected_from": "1 Timothy 3:15"
+  }
+]

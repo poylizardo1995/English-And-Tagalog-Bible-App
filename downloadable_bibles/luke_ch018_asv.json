@@ -1,0 +1,258 @@
+[
+  {
+    "text": "And he spake a parable unto them to the end that they ought always to pray, and not to faint;",
+    "reference": "Luke 18:1 (ASV)",
+    "connected_to": "Luke 18:2"
+  },
+  {
+    "text": "saying, There was in a city a judge, who feared not God, and regarded not man:",
+    "reference": "Luke 18:2 (ASV)",
+    "connected_to": "Luke 18:3",
+    "connected_from": "Luke 18:1"
+  },
+  {
+    "text": "and there was a widow in that city; and she came oft unto him, saying, Avenge me of mine adversary.",
+    "reference": "Luke 18:3 (ASV)",
+    "connected_to": "Luke 18:4",
+    "connected_from": "Luke 18:2"
+  },
+  {
+    "text": "And he would not for a while: but afterward he said within himself, Though I fear not God, nor regard man;",
+    "reference": "Luke 18:4 (ASV)",
+    "connected_to": "Luke 18:5",
+    "connected_from": "Luke 18:3"
+  },
+  {
+    "text": "yet because this widow troubleth me, I will avenge her, lest she wear me out by her continual coming.",
+    "reference": "Luke 18:5 (ASV)",
+    "connected_to": "Luke 18:6",
+    "connected_from": "Luke 18:4"
+  },
+  {
+    "text": "And the Lord said, Hear what the unrighteous judge saith.",
+    "reference": "Luke 18:6 (ASV)",
+    "connected_to": "Luke 18:7",
+    "connected_from": "Luke 18:5"
+  },
+  {
+    "text": "And shall not God avenge his elect, that cry to him day and night, and yet he is longsuffering over them?",
+    "reference": "Luke 18:7 (ASV)",
+    "connected_to": "Luke 18:8",
+    "connected_from": "Luke 18:6"
+  },
+  {
+    "text": "I say unto you, that he will avenge them speedily. Nevertheless, when the Son of man cometh, shall he find faith on the earth?",
+    "reference": "Luke 18:8 (ASV)",
+    "connected_to": "Luke 18:9",
+    "connected_from": "Luke 18:7"
+  },
+  {
+    "text": "And he spake also this parable unto certain who trusted in themselves that they were righteous, and set all others at nought:",
+    "reference": "Luke 18:9 (ASV)",
+    "connected_to": "Luke 18:10",
+    "connected_from": "Luke 18:8"
+  },
+  {
+    "text": "Two men went up into the temple to pray; the one a Pharisee, and the other a publican.",
+    "reference": "Luke 18:10 (ASV)",
+    "connected_to": "Luke 18:11",
+    "connected_from": "Luke 18:9"
+  },
+  {
+    "text": "The Pharisee stood and prayed thus with himself, God, I thank thee, that I am not as the rest of men, extortioners, unjust, adulterers, or even as this publican.",
+    "reference": "Luke 18:11 (ASV)",
+    "connected_to": "Luke 18:12",
+    "connected_from": "Luke 18:10"
+  },
+  {
+    "text": "I fast twice in the week; I give tithes of all that I get.",
+    "reference": "Luke 18:12 (ASV)",
+    "connected_to": "Luke 18:13",
+    "connected_from": "Luke 18:11"
+  },
+  {
+    "text": "But the publican, standing afar off, would not lift up so much as his eyes unto heaven, but smote his breast, saying, God, be thou merciful to me a sinner.",
+    "reference": "Luke 18:13 (ASV)",
+    "connected_to": "Luke 18:14",
+    "connected_from": "Luke 18:12"
+  },
+  {
+    "text": "I say unto you, This man went down to his house justified rather than the other: for every one that exalteth himself shall be humbled; but he that humbleth himself shall be exalted.",
+    "reference": "Luke 18:14 (ASV)",
+    "connected_to": "Luke 18:15",
+    "connected_from": "Luke 18:13"
+  },
+  {
+    "text": "And they were bringing unto him also their babes, that he should touch them: but when the disciples saw it, they rebuked them.",
+    "reference": "Luke 18:15 (ASV)",
+    "connected_to": "Luke 18:16",
+    "connected_from": "Luke 18:14"
+  },
+  {
+    "text": "But Jesus called them unto him, saying, Suffer the little children to come unto me, and forbid them not: for to such belongeth the kingdom of God.",
+    "reference": "Luke 18:16 (ASV)",
+    "connected_to": "Luke 18:17",
+    "connected_from": "Luke 18:15"
+  },
+  {
+    "text": "Verily I say unto you, Whosoever shall not receive the kingdom of God as a little child, he shall in no wise enter therein.",
+    "reference": "Luke 18:17 (ASV)",
+    "connected_to": "Luke 18:18",
+    "connected_from": "Luke 18:16"
+  },
+  {
+    "text": "And a certain ruler asked him, saying, Good Teacher, what shall I do to inherit eternal life?",
+    "reference": "Luke 18:18 (ASV)",
+    "connected_to": "Luke 18:19",
+    "connected_from": "Luke 18:17"
+  },
+  {
+    "text": "And Jesus said unto him, Why callest thou me good? none is good, save one, even God.",
+    "reference": "Luke 18:19 (ASV)",
+    "connected_to": "Luke 18:20",
+    "connected_from": "Luke 18:18"
+  },
+  {
+    "text": "Thou knowest the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Honor thy father and mother.",
+    "reference": "Luke 18:20 (ASV)",
+    "connected_to": "Luke 18:21",
+    "connected_from": "Luke 18:19"
+  },
+  {
+    "text": "And he said, All these things have I observed from my youth up.",
+    "reference": "Luke 18:21 (ASV)",
+    "connected_to": "Luke 18:22",
+    "connected_from": "Luke 18:20"
+  },
+  {
+    "text": "And when Jesus heard it, he said unto him, One thing thou lackest yet: sell all that thou hast, and distribute unto the poor, and thou shalt have treasure in heaven: and come, follow me.",
+    "reference": "Luke 18:22 (ASV)",
+    "connected_to": "Luke 18:23",
+    "connected_from": "Luke 18:21"
+  },
+  {
+    "text": "But when he heard these things, he became exceeding sorrowful; for he was very rich.",
+    "reference": "Luke 18:23 (ASV)",
+    "connected_to": "Luke 18:24",
+    "connected_from": "Luke 18:22"
+  },
+  {
+    "text": "And Jesus seeing him said, How hardly shall they that have riches enter into the kingdom of God!",
+    "reference": "Luke 18:24 (ASV)",
+    "connected_to": "Luke 18:25",
+    "connected_from": "Luke 18:23"
+  },
+  {
+    "text": "For it is easier for a camel to enter in through a needle’s eye, than for a rich man to enter into the kingdom of God.",
+    "reference": "Luke 18:25 (ASV)",
+    "connected_to": "Luke 18:26",
+    "connected_from": "Luke 18:24"
+  },
+  {
+    "text": "And they that heard it said, Then who can be saved?",
+    "reference": "Luke 18:26 (ASV)",
+    "connected_to": "Luke 18:27",
+    "connected_from": "Luke 18:25"
+  },
+  {
+    "text": "But he said, The things which are impossible with men are possible with God.",
+    "reference": "Luke 18:27 (ASV)",
+    "connected_to": "Luke 18:28",
+    "connected_from": "Luke 18:26"
+  },
+  {
+    "text": "And Peter said, Lo, we have left our own, and followed thee.",
+    "reference": "Luke 18:28 (ASV)",
+    "connected_to": "Luke 18:29",
+    "connected_from": "Luke 18:27"
+  },
+  {
+    "text": "And he said unto them, Verily I say unto you, There is no man that hath left house, or wife, or brethren, or parents, or children, for the kingdom of God’s sake,",
+    "reference": "Luke 18:29 (ASV)",
+    "connected_to": "Luke 18:30",
+    "connected_from": "Luke 18:28"
+  },
+  {
+    "text": "who shall not receive manifold more in this time, and in the world to come eternal life.",
+    "reference": "Luke 18:30 (ASV)",
+    "connected_to": "Luke 18:31",
+    "connected_from": "Luke 18:29"
+  },
+  {
+    "text": "And he took unto him the twelve, and said unto them, Behold, we go up to Jerusalem, and all the things that are written through the prophets shall be accomplished unto the Son of man.",
+    "reference": "Luke 18:31 (ASV)",
+    "connected_to": "Luke 18:32",
+    "connected_from": "Luke 18:30"
+  },
+  {
+    "text": "For he shall be delivered up unto the Gentiles, and shall be mocked, and shamefully treated, and spit upon:",
+    "reference": "Luke 18:32 (ASV)",
+    "connected_to": "Luke 18:33",
+    "connected_from": "Luke 18:31"
+  },
+  {
+    "text": "and they shall scourge and kill him: and the third day he shall rise again.",
+    "reference": "Luke 18:33 (ASV)",
+    "connected_to": "Luke 18:34",
+    "connected_from": "Luke 18:32"
+  },
+  {
+    "text": "And they understood none of these things; and this saying was hid from them, and they perceived not the things that were said.",
+    "reference": "Luke 18:34 (ASV)",
+    "connected_to": "Luke 18:35",
+    "connected_from": "Luke 18:33"
+  },
+  {
+    "text": "And it came to pass, as he drew nigh unto Jericho, a certain blind man sat by the way side begging:",
+    "reference": "Luke 18:35 (ASV)",
+    "connected_to": "Luke 18:36",
+    "connected_from": "Luke 18:34"
+  },
+  {
+    "text": "and hearing a multitude going by, he inquired what this meant.",
+    "reference": "Luke 18:36 (ASV)",
+    "connected_to": "Luke 18:37",
+    "connected_from": "Luke 18:35"
+  },
+  {
+    "text": "And they told him, that Jesus of Nazareth passeth by.",
+    "reference": "Luke 18:37 (ASV)",
+    "connected_to": "Luke 18:38",
+    "connected_from": "Luke 18:36"
+  },
+  {
+    "text": "And he cried, saying, Jesus, thou son of David, have mercy on me.",
+    "reference": "Luke 18:38 (ASV)",
+    "connected_to": "Luke 18:39",
+    "connected_from": "Luke 18:37"
+  },
+  {
+    "text": "And they that went before rebuked him, that he should hold his peace but he cried out the more a great deal, Thou son of David, have mercy on me.",
+    "reference": "Luke 18:39 (ASV)",
+    "connected_to": "Luke 18:40",
+    "connected_from": "Luke 18:38"
+  },
+  {
+    "text": "And Jesus stood, and commanded him to be brought unto him: and when he was come near, he asked him,",
+    "reference": "Luke 18:40 (ASV)",
+    "connected_to": "Luke 18:41",
+    "connected_from": "Luke 18:39"
+  },
+  {
+    "text": "What wilt thou that I should do unto thee? And he said, Lord, that I may receive my sight.",
+    "reference": "Luke 18:41 (ASV)",
+    "connected_to": "Luke 18:42",
+    "connected_from": "Luke 18:40"
+  },
+  {
+    "text": "And Jesus said unto him, Receive thy sight: thy faith hath made thee whole.",
+    "reference": "Luke 18:42 (ASV)",
+    "connected_to": "Luke 18:43",
+    "connected_from": "Luke 18:41"
+  },
+  {
+    "text": "And immediately he received his sight, and followed him, glorifying God: and all the people, when they saw it, gave praise unto God.",
+    "reference": "Luke 18:43 (ASV)",
+    "connected_from": "Luke 18:42"
+  }
+]

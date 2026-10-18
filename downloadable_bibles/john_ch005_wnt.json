@@ -1,0 +1,275 @@
+[
+  {
+    "text": "After this there was a Festival of the Jews, and Jesus went up to Jerusalem.",
+    "reference": "John 5:1 (WNT)",
+    "connected_to": "John 5:2"
+  },
+  {
+    "text": "Now there is in Jerusalem near the Sheep Gate a pool, called in Hebrew ‘Bethesda.’ It has five arcades.",
+    "reference": "John 5:2 (WNT)",
+    "connected_to": "John 5:3",
+    "connected_from": "John 5:1"
+  },
+  {
+    "text": "In these there used to lie a great number of sick persons, and of people who were blind or lame or paralyzed.",
+    "reference": "John 5:3 (WNT)",
+    "connected_to": "John 5:4",
+    "connected_from": "John 5:2"
+  },
+  {
+    "text": "And there was one man there who had been an invalid for thirty-eight years.",
+    "reference": "John 5:5 (WNT)",
+    "connected_to": "John 5:6",
+    "connected_from": "John 5:4"
+  },
+  {
+    "text": "Jesus saw him lying there, and knowing that he had been a long time in that condition, He asked him, “Do you wish to have health and strength?”",
+    "reference": "John 5:6 (WNT)",
+    "connected_to": "John 5:7",
+    "connected_from": "John 5:5"
+  },
+  {
+    "text": "“Sir,” replied the sufferer, “I have no one to put me into the pool when the water is moved; but while I am coming some one else steps down before me.”",
+    "reference": "John 5:7 (WNT)",
+    "connected_to": "John 5:8",
+    "connected_from": "John 5:6"
+  },
+  {
+    "text": "“Rise,” said Jesus, “take up your mat and walk.”",
+    "reference": "John 5:8 (WNT)",
+    "connected_to": "John 5:9",
+    "connected_from": "John 5:7"
+  },
+  {
+    "text": "Instantly the man was restored to perfect health, and he took up his mat and began to walk.",
+    "reference": "John 5:9 (WNT)",
+    "connected_to": "John 5:10",
+    "connected_from": "John 5:8"
+  },
+  {
+    "text": "That day was a Sabbath. So the Jews said to the man who had been cured, “It is the Sabbath: you must not carry your mat.”",
+    "reference": "John 5:10 (WNT)",
+    "connected_to": "John 5:11",
+    "connected_from": "John 5:9"
+  },
+  {
+    "text": "“He who cured me,” he replied, “said to me, ‘Take up your mat and walk.’”",
+    "reference": "John 5:11 (WNT)",
+    "connected_to": "John 5:12",
+    "connected_from": "John 5:10"
+  },
+  {
+    "text": "“Who is it,” they asked, “that said to you, ‘Take up your mat and walk’?”",
+    "reference": "John 5:12 (WNT)",
+    "connected_to": "John 5:13",
+    "connected_from": "John 5:11"
+  },
+  {
+    "text": "But the man who had been cured did not know who it was; for Jesus had passed out unnoticed, there being a crowd in the place.",
+    "reference": "John 5:13 (WNT)",
+    "connected_to": "John 5:14",
+    "connected_from": "John 5:12"
+  },
+  {
+    "text": "Afterwards Jesus found him in the Temple and said to him, “You are now restored to health. Do not sin any more, or a worse thing may befall you.”",
+    "reference": "John 5:14 (WNT)",
+    "connected_to": "John 5:15",
+    "connected_from": "John 5:13"
+  },
+  {
+    "text": "The man went and told the Jews that it was Jesus who had restored him to health;",
+    "reference": "John 5:15 (WNT)",
+    "connected_to": "John 5:16",
+    "connected_from": "John 5:14"
+  },
+  {
+    "text": "and on this account the Jews began to persecute Jesus—because He did these things on the Sabbath.",
+    "reference": "John 5:16 (WNT)",
+    "connected_to": "John 5:17",
+    "connected_from": "John 5:15"
+  },
+  {
+    "text": "His reply to their accusation was, “My Father works unceasingly, and so do I.”",
+    "reference": "John 5:17 (WNT)",
+    "connected_to": "John 5:18",
+    "connected_from": "John 5:16"
+  },
+  {
+    "text": "On this account then the Jews were all the more eager to put Him to death—because He not only broke the Sabbath, but also spoke of God as being in a special sense His Father, thus putting Himself on a level with God.",
+    "reference": "John 5:18 (WNT)",
+    "connected_to": "John 5:19",
+    "connected_from": "John 5:17"
+  },
+  {
+    "text": "“In most solemn truth I tell you,” replied Jesus, “that the Son can do nothing of Himself—He can only do what He sees the Father doing; for whatever He does, that the Son does in like manner.",
+    "reference": "John 5:19 (WNT)",
+    "connected_to": "John 5:20",
+    "connected_from": "John 5:18"
+  },
+  {
+    "text": "For the Father loves the Son and reveals to Him all that He Himself is doing. And greater deeds than these will He reveal to Him, in order that you may wonder.",
+    "reference": "John 5:20 (WNT)",
+    "connected_to": "John 5:21",
+    "connected_from": "John 5:19"
+  },
+  {
+    "text": "For just as the Father awakens the dead and gives them life, so the Son also gives life to whom He wills.",
+    "reference": "John 5:21 (WNT)",
+    "connected_to": "John 5:22",
+    "connected_from": "John 5:20"
+  },
+  {
+    "text": "The Father indeed does not judge any one, but He has entrusted all judgement to the Son,",
+    "reference": "John 5:22 (WNT)",
+    "connected_to": "John 5:23",
+    "connected_from": "John 5:21"
+  },
+  {
+    "text": "that all may honour the Son even as they honour the Father. The man who withholds honour from the Son withholds honour from the Father who sent Him.",
+    "reference": "John 5:23 (WNT)",
+    "connected_to": "John 5:24",
+    "connected_from": "John 5:22"
+  },
+  {
+    "text": "“In most solemn truth I tell you that he who listens to my teaching and believes Him who sent me, has the Life of the Ages, and does not come under judgement, but has passed over out of death into Life.",
+    "reference": "John 5:24 (WNT)",
+    "connected_to": "John 5:25",
+    "connected_from": "John 5:23"
+  },
+  {
+    "text": "“In most solemn truth I tell you that a time is coming—nay, has already come—when the dead will hear the voice of the Son of God, and those who hear it will live.",
+    "reference": "John 5:25 (WNT)",
+    "connected_to": "John 5:26",
+    "connected_from": "John 5:24"
+  },
+  {
+    "text": "For just as the Father has life in Himself, so He has also given to the Son to have life in Himself.",
+    "reference": "John 5:26 (WNT)",
+    "connected_to": "John 5:27",
+    "connected_from": "John 5:25"
+  },
+  {
+    "text": "And He has conferred on Him authority to act as Judge, because He is the Son of Man.",
+    "reference": "John 5:27 (WNT)",
+    "connected_to": "John 5:28",
+    "connected_from": "John 5:26"
+  },
+  {
+    "text": "Wonder not at this. For a time is coming when all who are in the graves will hear His voice and will come forth—",
+    "reference": "John 5:28 (WNT)",
+    "connected_to": "John 5:29",
+    "connected_from": "John 5:27"
+  },
+  {
+    "text": "they who have done what is right to the resurrection of Life, and they whose actions have been evil to the resurrection of judgement.",
+    "reference": "John 5:29 (WNT)",
+    "connected_to": "John 5:30",
+    "connected_from": "John 5:28"
+  },
+  {
+    "text": "“I can of my own self do nothing. As I am bidden, so I judge; and mine is a just judgement, because it is not my own will that guides me, but the will of Him who sent me.",
+    "reference": "John 5:30 (WNT)",
+    "connected_to": "John 5:31",
+    "connected_from": "John 5:29"
+  },
+  {
+    "text": "“If I give testimony concerning myself, my testimony cannot be accepted.",
+    "reference": "John 5:31 (WNT)",
+    "connected_to": "John 5:32",
+    "connected_from": "John 5:30"
+  },
+  {
+    "text": "There is Another who gives testimony concerning me, and I know that the testimony is true which He offers concerning me.",
+    "reference": "John 5:32 (WNT)",
+    "connected_to": "John 5:33",
+    "connected_from": "John 5:31"
+  },
+  {
+    "text": "“You sent to John, and he both was and still is a witness to the truth.",
+    "reference": "John 5:33 (WNT)",
+    "connected_to": "John 5:34",
+    "connected_from": "John 5:32"
+  },
+  {
+    "text": "But the testimony on my behalf which I accept is not from man; though I say all this in order that you may be saved.",
+    "reference": "John 5:34 (WNT)",
+    "connected_to": "John 5:35",
+    "connected_from": "John 5:33"
+  },
+  {
+    "text": "He was the lamp that burned and shone, and for a time you were willing to be gladdened by his light.",
+    "reference": "John 5:35 (WNT)",
+    "connected_to": "John 5:36",
+    "connected_from": "John 5:34"
+  },
+  {
+    "text": "“But the testimony which I have is weightier than that of John; for the work the Father has assigned to me for me to bring it to completion—the very work which I am doing—affords testimony concerning me that the Father has sent me.",
+    "reference": "John 5:36 (WNT)",
+    "connected_to": "John 5:37",
+    "connected_from": "John 5:35"
+  },
+  {
+    "text": "And the Father who sent me, *He* has given testimony concerning me. None of you have ever either heard His voice or seen what He is like.",
+    "reference": "John 5:37 (WNT)",
+    "connected_to": "John 5:38",
+    "connected_from": "John 5:36"
+  },
+  {
+    "text": "Nor have you His word dwelling within you, for you refuse to believe Him whom *He* has sent.",
+    "reference": "John 5:38 (WNT)",
+    "connected_to": "John 5:39",
+    "connected_from": "John 5:37"
+  },
+  {
+    "text": "“You search the Scriptures, because you suppose that in them you will find the Life of the Ages; and it is those Scriptures that yield testimony concerning me;",
+    "reference": "John 5:39 (WNT)",
+    "connected_to": "John 5:40",
+    "connected_from": "John 5:38"
+  },
+  {
+    "text": "and yet you are unwilling to come to me that you may have Life.",
+    "reference": "John 5:40 (WNT)",
+    "connected_to": "John 5:41",
+    "connected_from": "John 5:39"
+  },
+  {
+    "text": "“I do not accept glory from man,",
+    "reference": "John 5:41 (WNT)",
+    "connected_to": "John 5:42",
+    "connected_from": "John 5:40"
+  },
+  {
+    "text": "but I know you well, and I know that in your hearts you do not really love God.",
+    "reference": "John 5:42 (WNT)",
+    "connected_to": "John 5:43",
+    "connected_from": "John 5:41"
+  },
+  {
+    "text": "I have come as my Father’s representative, and you do not receive me. If some one else comes representing only himself, him you will receive.",
+    "reference": "John 5:43 (WNT)",
+    "connected_to": "John 5:44",
+    "connected_from": "John 5:42"
+  },
+  {
+    "text": "How is it possible for you to believe, while you receive glory from one another and have no desire for the glory that comes from the only God?",
+    "reference": "John 5:44 (WNT)",
+    "connected_to": "John 5:45",
+    "connected_from": "John 5:43"
+  },
+  {
+    "text": "“Do not suppose that I will accuse you to the Father. There is one who accuses you, namely Moses, on whom your hope rests.",
+    "reference": "John 5:45 (WNT)",
+    "connected_to": "John 5:46",
+    "connected_from": "John 5:44"
+  },
+  {
+    "text": "For if you believe Moses, you would believe me; for he wrote about me.",
+    "reference": "John 5:46 (WNT)",
+    "connected_from": "John 5:45"
+  },
+  {
+    "text": "But if you disbelieve his writings, how are you to believe my words?”",
+    "reference": "John 5:47 (WNT)",
+    "connected_from": "John 5:46"
+  }
+]

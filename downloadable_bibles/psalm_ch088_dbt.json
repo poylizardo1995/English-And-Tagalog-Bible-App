@@ -1,0 +1,108 @@
+[
+  {
+    "text": "{A Song, a Psalm for the sons of Korah. To the chief Musician. Upon Mahalath Leannoth. An instruction. Of Heman the Ezrahite.} Jehovah, God of my salvation, I have cried by day [and] in the night before thee.",
+    "reference": "Psalm 88:1 (DBT)",
+    "connected_to": "Psalm 88:2"
+  },
+  {
+    "text": "Let my prayer come before thee; incline thine ear unto my cry.",
+    "reference": "Psalm 88:2 (DBT)",
+    "connected_to": "Psalm 88:3",
+    "connected_from": "Psalm 88:1"
+  },
+  {
+    "text": "For my soul is full of troubles, and my life draweth nigh to Sheol.",
+    "reference": "Psalm 88:3 (DBT)",
+    "connected_to": "Psalm 88:4",
+    "connected_from": "Psalm 88:2"
+  },
+  {
+    "text": "I am reckoned with them that go down into the pit; I am as a man that hath no strength:",
+    "reference": "Psalm 88:4 (DBT)",
+    "connected_to": "Psalm 88:5",
+    "connected_from": "Psalm 88:3"
+  },
+  {
+    "text": "Prostrate among the dead, like the slain that lie in the grave; whom thou rememberest no more, and who are cut off from thy hand.",
+    "reference": "Psalm 88:5 (DBT)",
+    "connected_to": "Psalm 88:6",
+    "connected_from": "Psalm 88:4"
+  },
+  {
+    "text": "Thou hast laid me in the lowest pit, in dark places, in the deeps.",
+    "reference": "Psalm 88:6 (DBT)",
+    "connected_to": "Psalm 88:7",
+    "connected_from": "Psalm 88:5"
+  },
+  {
+    "text": "Thy fury lieth hard upon me, and thou hast afflicted [me] with all thy waves. Selah.",
+    "reference": "Psalm 88:7 (DBT)",
+    "connected_to": "Psalm 88:8",
+    "connected_from": "Psalm 88:6"
+  },
+  {
+    "text": "Thou hast put my familiar friends far from me; thou hast made me an abomination unto them: I am shut up, and I cannot come forth.",
+    "reference": "Psalm 88:8 (DBT)",
+    "connected_to": "Psalm 88:9",
+    "connected_from": "Psalm 88:7"
+  },
+  {
+    "text": "Mine eye consumeth by reason of affliction. Upon thee, Jehovah, have I called every day; I have stretched out my hands unto thee.",
+    "reference": "Psalm 88:9 (DBT)",
+    "connected_to": "Psalm 88:10",
+    "connected_from": "Psalm 88:8"
+  },
+  {
+    "text": "Wilt thou do wonders to the dead? shall the shades arise and praise thee? Selah.",
+    "reference": "Psalm 88:10 (DBT)",
+    "connected_to": "Psalm 88:11",
+    "connected_from": "Psalm 88:9"
+  },
+  {
+    "text": "Shall thy loving-kindness be declared in the grave? thy faithfulness in Destruction?",
+    "reference": "Psalm 88:11 (DBT)",
+    "connected_to": "Psalm 88:12",
+    "connected_from": "Psalm 88:10"
+  },
+  {
+    "text": "Shall thy wonders be known in the dark? and thy righteousness in the land of forgetfulness?",
+    "reference": "Psalm 88:12 (DBT)",
+    "connected_to": "Psalm 88:13",
+    "connected_from": "Psalm 88:11"
+  },
+  {
+    "text": "But as for me, Jehovah, I cry unto thee, and in the morning my prayer cometh before thee.",
+    "reference": "Psalm 88:13 (DBT)",
+    "connected_to": "Psalm 88:14",
+    "connected_from": "Psalm 88:12"
+  },
+  {
+    "text": "Why, O Jehovah, castest thou off my soul? [why] hidest thou thy face from me?",
+    "reference": "Psalm 88:14 (DBT)",
+    "connected_to": "Psalm 88:15",
+    "connected_from": "Psalm 88:13"
+  },
+  {
+    "text": "I am afflicted and expiring from my youth up; I suffer thy terrors, [and] I am distracted.",
+    "reference": "Psalm 88:15 (DBT)",
+    "connected_to": "Psalm 88:16",
+    "connected_from": "Psalm 88:14"
+  },
+  {
+    "text": "Thy fierce anger hath gone over me; thy terrors have brought me to nought:",
+    "reference": "Psalm 88:16 (DBT)",
+    "connected_to": "Psalm 88:17",
+    "connected_from": "Psalm 88:15"
+  },
+  {
+    "text": "They have surrounded me all the day like water; they have compassed me about together.",
+    "reference": "Psalm 88:17 (DBT)",
+    "connected_to": "Psalm 88:18",
+    "connected_from": "Psalm 88:16"
+  },
+  {
+    "text": "Lover and associate hast thou put far from me: my familiar friends are darkness.",
+    "reference": "Psalm 88:18 (DBT)",
+    "connected_from": "Psalm 88:17"
+  }
+]

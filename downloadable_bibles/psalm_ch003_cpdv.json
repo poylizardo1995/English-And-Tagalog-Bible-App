@@ -1,0 +1,48 @@
+[
+  {
+    "text": "A Psalm of David. When he fled from the face of his son, Absalom. Lord, why have those who trouble me been multiplied? Many rise up against me.",
+    "reference": "Psalm 3:1 (CPDV)",
+    "connected_to": "Psalm 3:2"
+  },
+  {
+    "text": "Many say to my soul, “There is no salvation for him in his God.”",
+    "reference": "Psalm 3:2 (CPDV)",
+    "connected_to": "Psalm 3:3",
+    "connected_from": "Psalm 3:1"
+  },
+  {
+    "text": "But you, Lord, are my supporter, my glory, and the one who raises up my head.",
+    "reference": "Psalm 3:3 (CPDV)",
+    "connected_to": "Psalm 3:4",
+    "connected_from": "Psalm 3:2"
+  },
+  {
+    "text": "I have cried out to the Lord with my voice, and he has heard me from his holy mountain.",
+    "reference": "Psalm 3:4 (CPDV)",
+    "connected_to": "Psalm 3:5",
+    "connected_from": "Psalm 3:3"
+  },
+  {
+    "text": "I have slept, and I have been stupefied. But I awakened because the Lord has taken me up.",
+    "reference": "Psalm 3:5 (CPDV)",
+    "connected_to": "Psalm 3:6",
+    "connected_from": "Psalm 3:4"
+  },
+  {
+    "text": "I will not fear the thousands of people surrounding me. Rise up, Lord. Save me, my God.",
+    "reference": "Psalm 3:6 (CPDV)",
+    "connected_to": "Psalm 3:7",
+    "connected_from": "Psalm 3:5"
+  },
+  {
+    "text": "For you have struck all those who oppose me without cause. You have broken the teeth of sinners.",
+    "reference": "Psalm 3:7 (CPDV)",
+    "connected_to": "Psalm 3:8",
+    "connected_from": "Psalm 3:6"
+  },
+  {
+    "text": "Salvation is of the Lord, and your blessing is upon your people.",
+    "reference": "Psalm 3:8 (CPDV)",
+    "connected_from": "Psalm 3:7"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "text": "Woe to those going down to Egypt for help, who rely on horses and trust in chariots that are many, and in horsemen that they are very numerous, and they do not look to the Holy One of Israel, and YHWH they do not seek.",
+    "reference": "Isaiah 31:1 (BLB)",
+    "connected_to": "Isaiah 31:2"
+  },
+  {
+    "text": "He [is] also wise, and He brings disaster; and His words He does not turn aside, and He will rise up against a house of evildoers, and against the help of the workers of iniquity.",
+    "reference": "Isaiah 31:2 (BLB)",
+    "connected_to": "Isaiah 31:3",
+    "connected_from": "Isaiah 31:1"
+  },
+  {
+    "text": "For Egypt [is] is man and not God, and their horses are flesh and not Spirit. And YHWH stretches out His hand, and the helper will stumble, and the one being helped will fall, and together all of them will perish.",
+    "reference": "Isaiah 31:3 (BLB)",
+    "connected_to": "Isaiah 31:4",
+    "connected_from": "Isaiah 31:2"
+  },
+  {
+    "text": "For thus has said YHWH to me: “As the lion roars or the young lion over his prey, when a multitude of shepherds is called against him—at their voice he is not afraid and at their clamor he is not alarmed—so YHWH of Hosts will come down to fight on Mount Zion, and on her hill.",
+    "reference": "Isaiah 31:4 (BLB)",
+    "connected_to": "Isaiah 31:5",
+    "connected_from": "Isaiah 31:3"
+  },
+  {
+    "text": "Like birds flying about, so YHWH of hosts will give cover over Jerusalem, covering and delivering it, passing over and preserving it.”",
+    "reference": "Isaiah 31:5 (BLB)",
+    "connected_to": "Isaiah 31:6",
+    "connected_from": "Isaiah 31:4"
+  },
+  {
+    "text": "Return to the one against whom you have deeply rebelled, O sons of Israel,",
+    "reference": "Isaiah 31:6 (BLB)",
+    "connected_to": "Isaiah 31:7",
+    "connected_from": "Isaiah 31:5"
+  },
+  {
+    "text": "for in that day, a man will reject the idols of his silver and the idols of his gold, which your⁺ own hands have made for you⁺ as sin.",
+    "reference": "Isaiah 31:7 (BLB)",
+    "connected_to": "Isaiah 31:8",
+    "connected_from": "Isaiah 31:6"
+  },
+  {
+    "text": "And Assyria Will fall by a sword not of man, and a sword not of man will devour him; and he will flee from from the face of the sword, and his young men will be for forced labor.",
+    "reference": "Isaiah 31:8 (BLB)",
+    "connected_to": "Isaiah 31:9",
+    "connected_from": "Isaiah 31:7"
+  },
+  {
+    "text": "And his stronghold will pass away at the terror, and his princes will be frightened at the banner,” says YHWH, whose fire unto Him [is] in Zion, and a furnace unto Him [is] in Jerusalem.",
+    "reference": "Isaiah 31:9 (BLB)",
+    "connected_from": "Isaiah 31:8"
+  }
+]

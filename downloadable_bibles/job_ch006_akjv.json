@@ -1,0 +1,180 @@
+[
+  {
+    "text": "But Job answered and said,",
+    "reference": "Job 6:1 (AKJV)",
+    "connected_to": "Job 6:2"
+  },
+  {
+    "text": "Oh that my grief were thoroughly weighed, and my calamity laid in the balances together!",
+    "reference": "Job 6:2 (AKJV)",
+    "connected_to": "Job 6:3",
+    "connected_from": "Job 6:1"
+  },
+  {
+    "text": "For now it would be heavier than the sand of the sea: therefore my words are swallowed up.",
+    "reference": "Job 6:3 (AKJV)",
+    "connected_to": "Job 6:4",
+    "connected_from": "Job 6:2"
+  },
+  {
+    "text": "For the arrows of the Almighty are within me, the poison whereof drinks up my spirit: the terrors of God do set themselves in array against me.",
+    "reference": "Job 6:4 (AKJV)",
+    "connected_to": "Job 6:5",
+    "connected_from": "Job 6:3"
+  },
+  {
+    "text": "Does the wild ass bray when he has grass? or lows the ox over his fodder?",
+    "reference": "Job 6:5 (AKJV)",
+    "connected_to": "Job 6:6",
+    "connected_from": "Job 6:4"
+  },
+  {
+    "text": "Can that which is unsavory be eaten without salt? or is there any taste in the white of an egg?",
+    "reference": "Job 6:6 (AKJV)",
+    "connected_to": "Job 6:7",
+    "connected_from": "Job 6:5"
+  },
+  {
+    "text": "The things that my soul refused to touch are as my sorrowful meat.",
+    "reference": "Job 6:7 (AKJV)",
+    "connected_to": "Job 6:8",
+    "connected_from": "Job 6:6"
+  },
+  {
+    "text": "Oh that I might have my request; and that God would grant me the thing that I long for!",
+    "reference": "Job 6:8 (AKJV)",
+    "connected_to": "Job 6:9",
+    "connected_from": "Job 6:7"
+  },
+  {
+    "text": "Even that it would please God to destroy me; that he would let loose his hand, and cut me off!",
+    "reference": "Job 6:9 (AKJV)",
+    "connected_to": "Job 6:10",
+    "connected_from": "Job 6:8"
+  },
+  {
+    "text": "Then should I yet have comfort; yes, I would harden myself in sorrow: let him not spare; for I have not concealed the words of the Holy One.",
+    "reference": "Job 6:10 (AKJV)",
+    "connected_to": "Job 6:11",
+    "connected_from": "Job 6:9"
+  },
+  {
+    "text": "What is my strength, that I should hope? and what is my end, that I should prolong my life?",
+    "reference": "Job 6:11 (AKJV)",
+    "connected_to": "Job 6:12",
+    "connected_from": "Job 6:10"
+  },
+  {
+    "text": "Is my strength the strength of stones? or is my flesh of brass?",
+    "reference": "Job 6:12 (AKJV)",
+    "connected_to": "Job 6:13",
+    "connected_from": "Job 6:11"
+  },
+  {
+    "text": "Is not my help in me? and is wisdom driven quite from me?",
+    "reference": "Job 6:13 (AKJV)",
+    "connected_to": "Job 6:14",
+    "connected_from": "Job 6:12"
+  },
+  {
+    "text": "To him that is afflicted pity should be showed from his friend; but he forsakes the fear of the Almighty.",
+    "reference": "Job 6:14 (AKJV)",
+    "connected_to": "Job 6:15",
+    "connected_from": "Job 6:13"
+  },
+  {
+    "text": "My brothers have dealt deceitfully as a brook, and as the stream of brooks they pass away;",
+    "reference": "Job 6:15 (AKJV)",
+    "connected_to": "Job 6:16",
+    "connected_from": "Job 6:14"
+  },
+  {
+    "text": "Which are blackish by reason of the ice, and wherein the snow is hid:",
+    "reference": "Job 6:16 (AKJV)",
+    "connected_to": "Job 6:17",
+    "connected_from": "Job 6:15"
+  },
+  {
+    "text": "What time they wax warm, they vanish: when it is hot, they are consumed out of their place.",
+    "reference": "Job 6:17 (AKJV)",
+    "connected_to": "Job 6:18",
+    "connected_from": "Job 6:16"
+  },
+  {
+    "text": "The paths of their way are turned aside; they go to nothing, and perish.",
+    "reference": "Job 6:18 (AKJV)",
+    "connected_to": "Job 6:19",
+    "connected_from": "Job 6:17"
+  },
+  {
+    "text": "The troops of Tema looked, the companies of Sheba waited for them.",
+    "reference": "Job 6:19 (AKJV)",
+    "connected_to": "Job 6:20",
+    "connected_from": "Job 6:18"
+  },
+  {
+    "text": "They were confounded because they had hoped; they came thither, and were ashamed.",
+    "reference": "Job 6:20 (AKJV)",
+    "connected_to": "Job 6:21",
+    "connected_from": "Job 6:19"
+  },
+  {
+    "text": "For now you are nothing; you see my casting down, and are afraid.",
+    "reference": "Job 6:21 (AKJV)",
+    "connected_to": "Job 6:22",
+    "connected_from": "Job 6:20"
+  },
+  {
+    "text": "Did I say, Bring to me? or, Give a reward for me of your substance?",
+    "reference": "Job 6:22 (AKJV)",
+    "connected_to": "Job 6:23",
+    "connected_from": "Job 6:21"
+  },
+  {
+    "text": "Or, Deliver me from the enemy’s hand? or, Redeem me from the hand of the mighty?",
+    "reference": "Job 6:23 (AKJV)",
+    "connected_to": "Job 6:24",
+    "connected_from": "Job 6:22"
+  },
+  {
+    "text": "Teach me, and I will hold my tongue: and cause me to understand wherein I have erred.",
+    "reference": "Job 6:24 (AKJV)",
+    "connected_to": "Job 6:25",
+    "connected_from": "Job 6:23"
+  },
+  {
+    "text": "How forcible are right words! but what does your arguing reprove?",
+    "reference": "Job 6:25 (AKJV)",
+    "connected_to": "Job 6:26",
+    "connected_from": "Job 6:24"
+  },
+  {
+    "text": "Do you imagine to reprove words, and the speeches of one that is desperate, which are as wind?",
+    "reference": "Job 6:26 (AKJV)",
+    "connected_to": "Job 6:27",
+    "connected_from": "Job 6:25"
+  },
+  {
+    "text": "Yes, you overwhelm the fatherless, and you dig a pit for your friend.",
+    "reference": "Job 6:27 (AKJV)",
+    "connected_to": "Job 6:28",
+    "connected_from": "Job 6:26"
+  },
+  {
+    "text": "Now therefore be content, look on me; for it is evident to you if I lie.",
+    "reference": "Job 6:28 (AKJV)",
+    "connected_to": "Job 6:29",
+    "connected_from": "Job 6:27"
+  },
+  {
+    "text": "Return, I pray you, let it not be iniquity; yes, return again, my righteousness is in it.",
+    "reference": "Job 6:29 (AKJV)",
+    "connected_to": "Job 6:30",
+    "connected_from": "Job 6:28"
+  },
+  {
+    "text": "Is there iniquity in my tongue? cannot my taste discern perverse things?",
+    "reference": "Job 6:30 (AKJV)",
+    "connected_from": "Job 6:29"
+  }
+]

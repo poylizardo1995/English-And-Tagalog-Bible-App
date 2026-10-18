@@ -1,0 +1,48 @@
+[
+  {
+    "text": "Of David. I give You thanks with all my heart; before the gods I sing Your praises.",
+    "reference": "Psalm 138:1 (BSB)",
+    "connected_to": "Psalm 138:2"
+  },
+  {
+    "text": "I bow down toward Your holy temple and give thanks to Your name for Your loving devotion and Your faithfulness; You have exalted Your name and Your word above all else.",
+    "reference": "Psalm 138:2 (BSB)",
+    "connected_to": "Psalm 138:3",
+    "connected_from": "Psalm 138:1"
+  },
+  {
+    "text": "On the day I called, You answered me; You emboldened me and strengthened my soul.",
+    "reference": "Psalm 138:3 (BSB)",
+    "connected_to": "Psalm 138:4",
+    "connected_from": "Psalm 138:2"
+  },
+  {
+    "text": "All the kings of the earth will give You thanks, O LORD, when they hear the words of Your mouth.",
+    "reference": "Psalm 138:4 (BSB)",
+    "connected_to": "Psalm 138:5",
+    "connected_from": "Psalm 138:3"
+  },
+  {
+    "text": "They will sing of the ways of the LORD, for the glory of the LORD is great.",
+    "reference": "Psalm 138:5 (BSB)",
+    "connected_to": "Psalm 138:6",
+    "connected_from": "Psalm 138:4"
+  },
+  {
+    "text": "Though the LORD is on high, He attends to the lowly; but the proud He knows from afar.",
+    "reference": "Psalm 138:6 (BSB)",
+    "connected_to": "Psalm 138:7",
+    "connected_from": "Psalm 138:5"
+  },
+  {
+    "text": "If I walk in the midst of trouble, You preserve me from the anger of my foes; You extend Your hand, and Your right hand saves me.",
+    "reference": "Psalm 138:7 (BSB)",
+    "connected_to": "Psalm 138:8",
+    "connected_from": "Psalm 138:6"
+  },
+  {
+    "text": "The LORD will fulfill His purpose for me. O LORD, Your loving devotion endures forever—do not abandon the works of Your hands.",
+    "reference": "Psalm 138:8 (BSB)",
+    "connected_from": "Psalm 138:7"
+  }
+]

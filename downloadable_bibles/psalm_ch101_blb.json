@@ -1,0 +1,48 @@
+[
+  {
+    "text": "A Psalm. Of David. <span class=|reftext|><a href=|#|><b>1</b></a> I will sing of loving devotion and justice; to You, O YHWH, I will sing praises.",
+    "reference": "Psalm 101:1 (BLB)",
+    "connected_to": "Psalm 101:2"
+  },
+  {
+    "text": "I will act wisely in the way of integrity. When will You come to me? I walk about in the integrity of my heart, in the midst of my house.",
+    "reference": "Psalm 101:2 (BLB)",
+    "connected_to": "Psalm 101:3",
+    "connected_from": "Psalm 101:1"
+  },
+  {
+    "text": "I do not set before my eyes an object of worthlessness; I have hated the work of those turning aside—it shall not cling to me!",
+    "reference": "Psalm 101:3 (BLB)",
+    "connected_to": "Psalm 101:4",
+    "connected_from": "Psalm 101:2"
+  },
+  {
+    "text": "A perverse heart shall depart from me; evil I will not know.",
+    "reference": "Psalm 101:4 (BLB)",
+    "connected_to": "Psalm 101:5",
+    "connected_from": "Psalm 101:3"
+  },
+  {
+    "text": "The one slandering his neighbor in secret, I will put an end [to] him; the high of eyes and proud of heart—him I will not endure.",
+    "reference": "Psalm 101:5 (BLB)",
+    "connected_to": "Psalm 101:6",
+    "connected_from": "Psalm 101:4"
+  },
+  {
+    "text": "My eyes [are] on the faithful ones of the land, to dwell with me; the one walking in the way of integrity, he shall minister to me.",
+    "reference": "Psalm 101:6 (BLB)",
+    "connected_to": "Psalm 101:7",
+    "connected_from": "Psalm 101:5"
+  },
+  {
+    "text": "There shall not dwell within my house one working deceit; the one speaking lies shall not be fixed before my eyes.",
+    "reference": "Psalm 101:7 (BLB)",
+    "connected_to": "Psalm 101:8",
+    "connected_from": "Psalm 101:6"
+  },
+  {
+    "text": "At morning I cut off all the wicked of the land, to cut off from the city of YHWH all workers of iniquity!",
+    "reference": "Psalm 101:8 (BLB)",
+    "connected_from": "Psalm 101:7"
+  }
+]

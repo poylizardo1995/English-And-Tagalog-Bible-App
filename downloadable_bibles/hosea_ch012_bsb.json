@@ -1,0 +1,84 @@
+[
+  {
+    "text": "Ephraim feeds on the wind and pursues the east wind all day long; he multiplies lies and violence; he makes a covenant with Assyria and sends olive oil to Egypt.",
+    "reference": "Hosea 12:1 (BSB)",
+    "connected_to": "Hosea 12:2"
+  },
+  {
+    "text": "The LORD has a charge to bring against Judah. He will punish Jacob according to his ways and repay him according to his deeds.",
+    "reference": "Hosea 12:2 (BSB)",
+    "connected_to": "Hosea 12:3",
+    "connected_from": "Hosea 12:1"
+  },
+  {
+    "text": "In the womb he grasped his brother’s heel, and in his vigor he wrestled with God.",
+    "reference": "Hosea 12:3 (BSB)",
+    "connected_to": "Hosea 12:4",
+    "connected_from": "Hosea 12:2"
+  },
+  {
+    "text": "Yes, he struggled with the angel and prevailed; he wept and sought His favor; he found Him at Bethel and spoke with Him there—",
+    "reference": "Hosea 12:4 (BSB)",
+    "connected_to": "Hosea 12:5",
+    "connected_from": "Hosea 12:3"
+  },
+  {
+    "text": "the LORD God of Hosts, the LORD is His name of renown.",
+    "reference": "Hosea 12:5 (BSB)",
+    "connected_to": "Hosea 12:6",
+    "connected_from": "Hosea 12:4"
+  },
+  {
+    "text": "But you must return to your God; maintain love and justice, and always wait on your God.",
+    "reference": "Hosea 12:6 (BSB)",
+    "connected_to": "Hosea 12:7",
+    "connected_from": "Hosea 12:5"
+  },
+  {
+    "text": "A merchant loves to defraud with dishonest scales in his hands.",
+    "reference": "Hosea 12:7 (BSB)",
+    "connected_to": "Hosea 12:8",
+    "connected_from": "Hosea 12:6"
+  },
+  {
+    "text": "And Ephraim boasts: “How rich I have become! I have found wealth for myself. In all my labors, they can find in me no iniquity that is sinful.”",
+    "reference": "Hosea 12:8 (BSB)",
+    "connected_to": "Hosea 12:9",
+    "connected_from": "Hosea 12:7"
+  },
+  {
+    "text": "But I am the LORD your God ever since the land of Egypt. I will again make you dwell in tents, as in the days of the appointed feast.",
+    "reference": "Hosea 12:9 (BSB)",
+    "connected_to": "Hosea 12:10",
+    "connected_from": "Hosea 12:8"
+  },
+  {
+    "text": "I spoke through the prophets and multiplied their visions; I gave parables through the prophets.",
+    "reference": "Hosea 12:10 (BSB)",
+    "connected_to": "Hosea 12:11",
+    "connected_from": "Hosea 12:9"
+  },
+  {
+    "text": "Is there iniquity in Gilead? They will surely come to nothing. Do they sacrifice bulls in Gilgal? Indeed, their altars will be heaps of stones in the furrows of the field.",
+    "reference": "Hosea 12:11 (BSB)",
+    "connected_to": "Hosea 12:12",
+    "connected_from": "Hosea 12:10"
+  },
+  {
+    "text": "Jacob fled to the land of Aram and Israel worked for a wife—for a wife he tended sheep.",
+    "reference": "Hosea 12:12 (BSB)",
+    "connected_to": "Hosea 12:13",
+    "connected_from": "Hosea 12:11"
+  },
+  {
+    "text": "But by a prophet the LORD brought Israel out of Egypt, and by a prophet he was preserved.",
+    "reference": "Hosea 12:13 (BSB)",
+    "connected_to": "Hosea 12:14",
+    "connected_from": "Hosea 12:12"
+  },
+  {
+    "text": "Ephraim has provoked bitter anger, so his Lord will leave his bloodguilt upon him and repay him for his contempt.",
+    "reference": "Hosea 12:14 (BSB)",
+    "connected_from": "Hosea 12:13"
+  }
+]

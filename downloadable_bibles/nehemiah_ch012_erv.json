@@ -1,0 +1,282 @@
+[
+  {
+    "text": "Now these are the priests and the Levites that went up with Zerubbabel the son of Shealtiel, and Jeshua: Seraiah, Jeremiah, Ezra;",
+    "reference": "Nehemiah 12:1 (ERV)",
+    "connected_to": "Nehemiah 12:2"
+  },
+  {
+    "text": "Amariah, Malluch, Hattush;",
+    "reference": "Nehemiah 12:2 (ERV)",
+    "connected_to": "Nehemiah 12:3",
+    "connected_from": "Nehemiah 12:1"
+  },
+  {
+    "text": "Shecaniah, Rehum, Meremoth;",
+    "reference": "Nehemiah 12:3 (ERV)",
+    "connected_to": "Nehemiah 12:4",
+    "connected_from": "Nehemiah 12:2"
+  },
+  {
+    "text": "Iddo, Ginnethoi, Abijah;",
+    "reference": "Nehemiah 12:4 (ERV)",
+    "connected_to": "Nehemiah 12:5",
+    "connected_from": "Nehemiah 12:3"
+  },
+  {
+    "text": "Mijamin, Maadiah, Bilgah;",
+    "reference": "Nehemiah 12:5 (ERV)",
+    "connected_to": "Nehemiah 12:6",
+    "connected_from": "Nehemiah 12:4"
+  },
+  {
+    "text": "Shemaiah, and Joiarib, Jedaiah;",
+    "reference": "Nehemiah 12:6 (ERV)",
+    "connected_to": "Nehemiah 12:7",
+    "connected_from": "Nehemiah 12:5"
+  },
+  {
+    "text": "Sallu, Amok, Hilkiah, Jedaiah. These were the chiefs of the priests and of their brethren in the days of Jeshua.",
+    "reference": "Nehemiah 12:7 (ERV)",
+    "connected_to": "Nehemiah 12:8",
+    "connected_from": "Nehemiah 12:6"
+  },
+  {
+    "text": "Moreover the Levites: Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and Mattaniah, which was over the thanksgiving, he and his brethren.",
+    "reference": "Nehemiah 12:8 (ERV)",
+    "connected_to": "Nehemiah 12:9",
+    "connected_from": "Nehemiah 12:7"
+  },
+  {
+    "text": "Also Bakbukiah and Unno, their brethren, were over against them in wards.",
+    "reference": "Nehemiah 12:9 (ERV)",
+    "connected_to": "Nehemiah 12:10",
+    "connected_from": "Nehemiah 12:8"
+  },
+  {
+    "text": "And Jeshua begat Joiakim, and Joiakim begat Eliashib, and Eliashib begat Joiada,",
+    "reference": "Nehemiah 12:10 (ERV)",
+    "connected_to": "Nehemiah 12:11",
+    "connected_from": "Nehemiah 12:9"
+  },
+  {
+    "text": "and Joiada begat Jonathan, and Jonathan begat Jaddua.",
+    "reference": "Nehemiah 12:11 (ERV)",
+    "connected_to": "Nehemiah 12:12",
+    "connected_from": "Nehemiah 12:10"
+  },
+  {
+    "text": "And in the days of Joiakim were priests, heads of fathers’ houses: of Seraiah, Meraiah; of Jeremiah, Hananiah;",
+    "reference": "Nehemiah 12:12 (ERV)",
+    "connected_to": "Nehemiah 12:13",
+    "connected_from": "Nehemiah 12:11"
+  },
+  {
+    "text": "of Ezra, Meshullam; of Amariah, Jehohanan;",
+    "reference": "Nehemiah 12:13 (ERV)",
+    "connected_to": "Nehemiah 12:14",
+    "connected_from": "Nehemiah 12:12"
+  },
+  {
+    "text": "of Malluchi, Jonathan; of Shebaniah, Joseph;",
+    "reference": "Nehemiah 12:14 (ERV)",
+    "connected_to": "Nehemiah 12:15",
+    "connected_from": "Nehemiah 12:13"
+  },
+  {
+    "text": "of Harim, Adna; of Meraioth, Helkai;",
+    "reference": "Nehemiah 12:15 (ERV)",
+    "connected_to": "Nehemiah 12:16",
+    "connected_from": "Nehemiah 12:14"
+  },
+  {
+    "text": "of Iddo, Zechariah; of Gennethon, Meshullam;",
+    "reference": "Nehemiah 12:16 (ERV)",
+    "connected_to": "Nehemiah 12:17",
+    "connected_from": "Nehemiah 12:15"
+  },
+  {
+    "text": "of Abijah, Zichri; of Miniamin, of Moadiah, Piltai;",
+    "reference": "Nehemiah 12:17 (ERV)",
+    "connected_to": "Nehemiah 12:18",
+    "connected_from": "Nehemiah 12:16"
+  },
+  {
+    "text": "of Bilgah, Shammua; of Shemaiah, Jehonathan;",
+    "reference": "Nehemiah 12:18 (ERV)",
+    "connected_to": "Nehemiah 12:19",
+    "connected_from": "Nehemiah 12:17"
+  },
+  {
+    "text": "and of Joiarib, Mattenai; of Jedaiah, Uzzi;",
+    "reference": "Nehemiah 12:19 (ERV)",
+    "connected_to": "Nehemiah 12:20",
+    "connected_from": "Nehemiah 12:18"
+  },
+  {
+    "text": "of Sallai, Kallai; of Amok, Eber;",
+    "reference": "Nehemiah 12:20 (ERV)",
+    "connected_to": "Nehemiah 12:21",
+    "connected_from": "Nehemiah 12:19"
+  },
+  {
+    "text": "of Hilkiah, Hashabiah; of Jedaiah, Nethanel.",
+    "reference": "Nehemiah 12:21 (ERV)",
+    "connected_to": "Nehemiah 12:22",
+    "connected_from": "Nehemiah 12:20"
+  },
+  {
+    "text": "The Levites in the days of Eliashib, Joiada, and Johanan, and Jaddua, were recorded heads of fathers’ houses: also the priests, in the reign of Darius the Persian.",
+    "reference": "Nehemiah 12:22 (ERV)",
+    "connected_to": "Nehemiah 12:23",
+    "connected_from": "Nehemiah 12:21"
+  },
+  {
+    "text": "The sons of Levi, heads of fathers’ houses, were written in the book of the chronicles, even until the days of Johanan the son of Eliashib.",
+    "reference": "Nehemiah 12:23 (ERV)",
+    "connected_to": "Nehemiah 12:24",
+    "connected_from": "Nehemiah 12:22"
+  },
+  {
+    "text": "And the chiefs of the Levites: Hashabiah, Sherebiah, and Jeshua the son of Kadmiel, with their brethren over against them, to praise and give thanks, according to the commandment of David the man of God, ward against ward.",
+    "reference": "Nehemiah 12:24 (ERV)",
+    "connected_to": "Nehemiah 12:25",
+    "connected_from": "Nehemiah 12:23"
+  },
+  {
+    "text": "Mattaniah, and Bakbukiah, Obadiah, Meshullam, Talmon, Akkub, were porters keeping the ward at the storehouses of the gates.",
+    "reference": "Nehemiah 12:25 (ERV)",
+    "connected_to": "Nehemiah 12:26",
+    "connected_from": "Nehemiah 12:24"
+  },
+  {
+    "text": "These were in the days of Joiakim the son of Jeshua, the son of Jozadak, and in the days of Nehemiah the governor, and of Ezra the priest the scribe.",
+    "reference": "Nehemiah 12:26 (ERV)",
+    "connected_to": "Nehemiah 12:27",
+    "connected_from": "Nehemiah 12:25"
+  },
+  {
+    "text": "And at the dedication of the wall of Jerusalem they sought the Levites out of all their places, to bring them to Jerusalem, to keep the dedication, with gladness, both with thanksgivings, and with singing, with cymbals, psalteries, and with harps.",
+    "reference": "Nehemiah 12:27 (ERV)",
+    "connected_to": "Nehemiah 12:28",
+    "connected_from": "Nehemiah 12:26"
+  },
+  {
+    "text": "And the sons of the singers gathered themselves together, both out of the plain round about Jerusalem, and from the villages of the Netophathites;",
+    "reference": "Nehemiah 12:28 (ERV)",
+    "connected_to": "Nehemiah 12:29",
+    "connected_from": "Nehemiah 12:27"
+  },
+  {
+    "text": "also from Beth-gilgal, and out of the fields of Geba and Azmaveth: for the singers had builded them villages round about Jerusalem.",
+    "reference": "Nehemiah 12:29 (ERV)",
+    "connected_to": "Nehemiah 12:30",
+    "connected_from": "Nehemiah 12:28"
+  },
+  {
+    "text": "And the priests and the Levites purified themselves; and they purified the people, and the gates, and the wall.",
+    "reference": "Nehemiah 12:30 (ERV)",
+    "connected_to": "Nehemiah 12:31",
+    "connected_from": "Nehemiah 12:29"
+  },
+  {
+    "text": "Then I brought up the princes of Judah upon the wall, and appointed two great companies that gave thanks and went in procession; whereof one went on the right hand upon the wall toward the dung gate:",
+    "reference": "Nehemiah 12:31 (ERV)",
+    "connected_to": "Nehemiah 12:32",
+    "connected_from": "Nehemiah 12:30"
+  },
+  {
+    "text": "and after them went Hoshaiah, and half of the princes of Judah,",
+    "reference": "Nehemiah 12:32 (ERV)",
+    "connected_to": "Nehemiah 12:33",
+    "connected_from": "Nehemiah 12:31"
+  },
+  {
+    "text": "and Azariah, Ezra, and Meshullam,",
+    "reference": "Nehemiah 12:33 (ERV)",
+    "connected_to": "Nehemiah 12:34",
+    "connected_from": "Nehemiah 12:32"
+  },
+  {
+    "text": "Judah, and Benjamin, and Shemaiah, and Jeremiah,",
+    "reference": "Nehemiah 12:34 (ERV)",
+    "connected_to": "Nehemiah 12:35",
+    "connected_from": "Nehemiah 12:33"
+  },
+  {
+    "text": "and certain of the priests’ sons with trumpets: Zechariah the son of Jonathan, the son of Shemaiah, the son of Mattaniah, the son of Micaiah, the son of Zaccur, the son of Asaph;",
+    "reference": "Nehemiah 12:35 (ERV)",
+    "connected_to": "Nehemiah 12:36",
+    "connected_from": "Nehemiah 12:34"
+  },
+  {
+    "text": "and his brethren, Shemaiah, and Azarel, Milalai, Gilalai, Maai, Nethanel, and Judah, Hanani, with the musical instruments of David the man of God; and Ezra the scribe was before them:",
+    "reference": "Nehemiah 12:36 (ERV)",
+    "connected_to": "Nehemiah 12:37",
+    "connected_from": "Nehemiah 12:35"
+  },
+  {
+    "text": "And by the fountain gate, and straight before them, they went up by the stairs of the city of David, at the going up of the wall, above the house of David, even unto the water gate eastward.",
+    "reference": "Nehemiah 12:37 (ERV)",
+    "connected_to": "Nehemiah 12:38",
+    "connected_from": "Nehemiah 12:36"
+  },
+  {
+    "text": "And the other company of them that gave thanks went to meet them, and I after them, with the half of the people, upon the wall, above the tower of the furnaces, even unto the broad wall;",
+    "reference": "Nehemiah 12:38 (ERV)",
+    "connected_to": "Nehemiah 12:39",
+    "connected_from": "Nehemiah 12:37"
+  },
+  {
+    "text": "and above the gate of Ephraim, and by the old gate, and by the fish gate, and the tower of Hananel, and the tower of Hammeah, even unto the sheep gate: and they stood still in the gate of the guard.",
+    "reference": "Nehemiah 12:39 (ERV)",
+    "connected_to": "Nehemiah 12:40",
+    "connected_from": "Nehemiah 12:38"
+  },
+  {
+    "text": "So stood the two companies of them that gave thanks in the house of God, and I, and the half of the rulers with me:",
+    "reference": "Nehemiah 12:40 (ERV)",
+    "connected_to": "Nehemiah 12:41",
+    "connected_from": "Nehemiah 12:39"
+  },
+  {
+    "text": "and the priests, Eliakim, Maaseiah, Miniamin, Micaiah, Elioenai, Zechariah, and Hananiah, with trumpets;",
+    "reference": "Nehemiah 12:41 (ERV)",
+    "connected_to": "Nehemiah 12:42",
+    "connected_from": "Nehemiah 12:40"
+  },
+  {
+    "text": "and Maaseiah, and Shemaiah, and Eleazar, and Uzzi, and Jehohanan, and Malchijah, and Elam, and Ezer. And the singers sang loud, with Jezrahiah their overseer.",
+    "reference": "Nehemiah 12:42 (ERV)",
+    "connected_to": "Nehemiah 12:43",
+    "connected_from": "Nehemiah 12:41"
+  },
+  {
+    "text": "And they offered great sacrifices that day, and rejoiced; for God had made them rejoice with great joy; and the women also and the children rejoiced: so that the joy of Jerusalem was heard even afar off.",
+    "reference": "Nehemiah 12:43 (ERV)",
+    "connected_to": "Nehemiah 12:44",
+    "connected_from": "Nehemiah 12:42"
+  },
+  {
+    "text": "And on that day were men appointed over the chambers for the treasures, for the heave offerings, for the firstfruits, and for the tithes, to gather into them, according to the fields of the cities, the portions appointed by the law for the priests and Levites: for Judah rejoiced for the priests and for the Levites that waited.",
+    "reference": "Nehemiah 12:44 (ERV)",
+    "connected_to": "Nehemiah 12:45",
+    "connected_from": "Nehemiah 12:43"
+  },
+  {
+    "text": "And they kept the ward of their God, and the ward of the purification, and so did the singers and the porters, according to the commandment of David, and of Solomon his son.",
+    "reference": "Nehemiah 12:45 (ERV)",
+    "connected_to": "Nehemiah 12:46",
+    "connected_from": "Nehemiah 12:44"
+  },
+  {
+    "text": "For in the days of David and Asaph of old there was a chief of the singers, and songs of praise and thanksgiving unto God.",
+    "reference": "Nehemiah 12:46 (ERV)",
+    "connected_to": "Nehemiah 12:47",
+    "connected_from": "Nehemiah 12:45"
+  },
+  {
+    "text": "And all Israel in the days of Zerubbabel, and in the days of Nehemiah, gave the portions of the singers and the porters, as every day required: and they sanctified for the Levites; and the Levites sanctified for the sons of Aaron.",
+    "reference": "Nehemiah 12:47 (ERV)",
+    "connected_from": "Nehemiah 12:46"
+  }
+]

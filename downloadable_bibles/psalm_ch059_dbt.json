@@ -1,0 +1,102 @@
+[
+  {
+    "text": "{To the chief Musician. ‘Destroy not.’ Of David. Michtam; when Saul sent, and they watched the house to kill him.} Deliver me from mine enemies, O my God; secure me on high from them that rise up against me.",
+    "reference": "Psalm 59:1 (DBT)",
+    "connected_to": "Psalm 59:2"
+  },
+  {
+    "text": "Deliver me from the workers of iniquity, and save me from men of blood.",
+    "reference": "Psalm 59:2 (DBT)",
+    "connected_to": "Psalm 59:3",
+    "connected_from": "Psalm 59:1"
+  },
+  {
+    "text": "For behold, they lie in wait for my soul; strong ones are gathered against me: not for my transgression, nor for my sin, O Jehovah.",
+    "reference": "Psalm 59:3 (DBT)",
+    "connected_to": "Psalm 59:4",
+    "connected_from": "Psalm 59:2"
+  },
+  {
+    "text": "They run and prepare themselves without [my] fault: awake to meet me, and behold.",
+    "reference": "Psalm 59:4 (DBT)",
+    "connected_to": "Psalm 59:5",
+    "connected_from": "Psalm 59:3"
+  },
+  {
+    "text": "Yea, do thou, Jehovah, the God of hosts, the God of Israel, arise to visit all the nations: be not gracious to any plotters of iniquity. Selah.",
+    "reference": "Psalm 59:5 (DBT)",
+    "connected_to": "Psalm 59:6",
+    "connected_from": "Psalm 59:4"
+  },
+  {
+    "text": "They return in the evening; they howl like a dog, and go round about the city:",
+    "reference": "Psalm 59:6 (DBT)",
+    "connected_to": "Psalm 59:7",
+    "connected_from": "Psalm 59:5"
+  },
+  {
+    "text": "Behold, they belch out with their mouth; swords are in their lips: for who [say they] doth hear?",
+    "reference": "Psalm 59:7 (DBT)",
+    "connected_to": "Psalm 59:8",
+    "connected_from": "Psalm 59:6"
+  },
+  {
+    "text": "But thou, Jehovah, wilt laugh at them; thou wilt have all the nations in derision.",
+    "reference": "Psalm 59:8 (DBT)",
+    "connected_to": "Psalm 59:9",
+    "connected_from": "Psalm 59:7"
+  },
+  {
+    "text": "Their strength!... I will take heed to thee; for God is my high fortress.",
+    "reference": "Psalm 59:9 (DBT)",
+    "connected_to": "Psalm 59:10",
+    "connected_from": "Psalm 59:8"
+  },
+  {
+    "text": "God, whose loving-kindness will come to meet me,—God shall let me see [my desire] upon mine enemies.",
+    "reference": "Psalm 59:10 (DBT)",
+    "connected_to": "Psalm 59:11",
+    "connected_from": "Psalm 59:9"
+  },
+  {
+    "text": "Slay them not, lest my people forget; by thy power make them wander, and bring them down, O Lord, our shield.",
+    "reference": "Psalm 59:11 (DBT)",
+    "connected_to": "Psalm 59:12",
+    "connected_from": "Psalm 59:10"
+  },
+  {
+    "text": "[Because of] the sin of their mouth, the word of their lips, let them even be taken in their pride; and because of cursing and lying which they speak.",
+    "reference": "Psalm 59:12 (DBT)",
+    "connected_to": "Psalm 59:13",
+    "connected_from": "Psalm 59:11"
+  },
+  {
+    "text": "Make an end in wrath, make an end, that they may be no more; that they may know that God ruleth in Jacob, unto the ends of the earth. Selah.",
+    "reference": "Psalm 59:13 (DBT)",
+    "connected_to": "Psalm 59:14",
+    "connected_from": "Psalm 59:12"
+  },
+  {
+    "text": "And in the evening they shall return, they shall howl like a dog, and go round about the city.",
+    "reference": "Psalm 59:14 (DBT)",
+    "connected_to": "Psalm 59:15",
+    "connected_from": "Psalm 59:13"
+  },
+  {
+    "text": "They shall wander about for meat, and stay all night if they be not satisfied.",
+    "reference": "Psalm 59:15 (DBT)",
+    "connected_to": "Psalm 59:16",
+    "connected_from": "Psalm 59:14"
+  },
+  {
+    "text": "But as for me, I will sing of thy strength; yea, I will sing aloud of thy loving-kindness in the morning; for thou hast been to me a high fortress, and a refuge in the day of my trouble.",
+    "reference": "Psalm 59:16 (DBT)",
+    "connected_to": "Psalm 59:17",
+    "connected_from": "Psalm 59:15"
+  },
+  {
+    "text": "Unto thee, my strength, will I sing psalms; for God is my high fortress, the God of my mercy.",
+    "reference": "Psalm 59:17 (DBT)",
+    "connected_from": "Psalm 59:16"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "text": "A Psalm of thanksgiving. Make a joyful noise unto the LORD, all ye lands.",
+    "reference": "Psalm 100:1 (ERV)",
+    "connected_to": "Psalm 100:2"
+  },
+  {
+    "text": "Serve the LORD with gladness: come before his presence with singing.",
+    "reference": "Psalm 100:2 (ERV)",
+    "connected_to": "Psalm 100:3",
+    "connected_from": "Psalm 100:1"
+  },
+  {
+    "text": "Know ye that the LORD he is God: it is he that hath made us, and we are his; we are his people, and the sheep of his pasture.",
+    "reference": "Psalm 100:3 (ERV)",
+    "connected_to": "Psalm 100:4",
+    "connected_from": "Psalm 100:2"
+  },
+  {
+    "text": "Enter into his gates with thanksgiving, and into his courts with praise: give thanks unto him, and bless his name.",
+    "reference": "Psalm 100:4 (ERV)",
+    "connected_to": "Psalm 100:5",
+    "connected_from": "Psalm 100:3"
+  },
+  {
+    "text": "For the LORD is good; his mercy endureth for ever; and his faithfulness unto all generations.",
+    "reference": "Psalm 100:5 (ERV)",
+    "connected_from": "Psalm 100:4"
+  }
+]

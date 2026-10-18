@@ -1,0 +1,66 @@
+[
+  {
+    "text": "As the hart pants after the water brooks, so pants my soul after you, O God.",
+    "reference": "Psalm 42:1 (AKJV)",
+    "connected_to": "Psalm 42:2"
+  },
+  {
+    "text": "My soul thirsts for God, for the living God: when shall I come and appear before God?",
+    "reference": "Psalm 42:2 (AKJV)",
+    "connected_to": "Psalm 42:3",
+    "connected_from": "Psalm 42:1"
+  },
+  {
+    "text": "My tears have been my meat day and night, while they continually say to me, Where is your God?",
+    "reference": "Psalm 42:3 (AKJV)",
+    "connected_to": "Psalm 42:4",
+    "connected_from": "Psalm 42:2"
+  },
+  {
+    "text": "When I remember these things, I pour out my soul in me: for I had gone with the multitude, I went with them to the house of God, with the voice of joy and praise, with a multitude that kept holy day.",
+    "reference": "Psalm 42:4 (AKJV)",
+    "connected_to": "Psalm 42:5",
+    "connected_from": "Psalm 42:3"
+  },
+  {
+    "text": "Why are you cast down, O my soul? and why are you disquieted in me? hope you in God: for I shall yet praise him for the help of his countenance.",
+    "reference": "Psalm 42:5 (AKJV)",
+    "connected_to": "Psalm 42:6",
+    "connected_from": "Psalm 42:4"
+  },
+  {
+    "text": "O my God, my soul is cast down within me: therefore will I remember you from the land of Jordan, and of the Hermonites, from the hill Mizar.",
+    "reference": "Psalm 42:6 (AKJV)",
+    "connected_to": "Psalm 42:7",
+    "connected_from": "Psalm 42:5"
+  },
+  {
+    "text": "Deep calls to deep at the noise of your waterspouts: all your waves and your billows are gone over me.",
+    "reference": "Psalm 42:7 (AKJV)",
+    "connected_to": "Psalm 42:8",
+    "connected_from": "Psalm 42:6"
+  },
+  {
+    "text": "Yet the LORD will command his loving kindness in the day time, and in the night his song shall be with me, and my prayer to the God of my life.",
+    "reference": "Psalm 42:8 (AKJV)",
+    "connected_to": "Psalm 42:9",
+    "connected_from": "Psalm 42:7"
+  },
+  {
+    "text": "I will say to God my rock, Why have you forgotten me? why go I mourning because of the oppression of the enemy?",
+    "reference": "Psalm 42:9 (AKJV)",
+    "connected_to": "Psalm 42:10",
+    "connected_from": "Psalm 42:8"
+  },
+  {
+    "text": "As with a sword in my bones, my enemies reproach me; while they say daily to me, Where is your God?",
+    "reference": "Psalm 42:10 (AKJV)",
+    "connected_to": "Psalm 42:11",
+    "connected_from": "Psalm 42:9"
+  },
+  {
+    "text": "Why are you cast down, O my soul? and why are you disquieted within me? hope you in God: for I shall yet praise him, who is the health of my countenance, and my God.",
+    "reference": "Psalm 42:11 (AKJV)",
+    "connected_from": "Psalm 42:10"
+  }
+]

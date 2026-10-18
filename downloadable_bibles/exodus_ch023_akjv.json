@@ -1,0 +1,198 @@
+[
+  {
+    "text": "You shall not raise a false report: put not your hand with the wicked to be an unrighteous witness.",
+    "reference": "Exodus 23:1 (AKJV)",
+    "connected_to": "Exodus 23:2"
+  },
+  {
+    "text": "You shall not follow a multitude to do evil; neither shall you speak in a cause to decline after many to wrest judgment:",
+    "reference": "Exodus 23:2 (AKJV)",
+    "connected_to": "Exodus 23:3",
+    "connected_from": "Exodus 23:1"
+  },
+  {
+    "text": "Neither shall you countenance a poor man in his cause.",
+    "reference": "Exodus 23:3 (AKJV)",
+    "connected_to": "Exodus 23:4",
+    "connected_from": "Exodus 23:2"
+  },
+  {
+    "text": "If you meet your enemy’s ox or his ass going astray, you shall surely bring it back to him again.",
+    "reference": "Exodus 23:4 (AKJV)",
+    "connected_to": "Exodus 23:5",
+    "connected_from": "Exodus 23:3"
+  },
+  {
+    "text": "If you see the ass of him that hates you lying under his burden, and would forbear to help him, you shall surely help with him.",
+    "reference": "Exodus 23:5 (AKJV)",
+    "connected_to": "Exodus 23:6",
+    "connected_from": "Exodus 23:4"
+  },
+  {
+    "text": "You shall not wrest the judgment of your poor in his cause.",
+    "reference": "Exodus 23:6 (AKJV)",
+    "connected_to": "Exodus 23:7",
+    "connected_from": "Exodus 23:5"
+  },
+  {
+    "text": "Keep you far from a false matter; and the innocent and righteous slay you not: for I will not justify the wicked.",
+    "reference": "Exodus 23:7 (AKJV)",
+    "connected_to": "Exodus 23:8",
+    "connected_from": "Exodus 23:6"
+  },
+  {
+    "text": "And you shall take no gift: for the gift blinds the wise, and perverts the words of the righteous.",
+    "reference": "Exodus 23:8 (AKJV)",
+    "connected_to": "Exodus 23:9",
+    "connected_from": "Exodus 23:7"
+  },
+  {
+    "text": "Also you shall not oppress a stranger: for you know the heart of a stranger, seeing you were strangers in the land of Egypt.",
+    "reference": "Exodus 23:9 (AKJV)",
+    "connected_to": "Exodus 23:10",
+    "connected_from": "Exodus 23:8"
+  },
+  {
+    "text": "And six years you shall sow your land, and shall gather in the fruits thereof:",
+    "reference": "Exodus 23:10 (AKJV)",
+    "connected_to": "Exodus 23:11",
+    "connected_from": "Exodus 23:9"
+  },
+  {
+    "text": "But the seventh year you shall let it rest and lie still; that the poor of your people may eat: and what they leave the beasts of the field shall eat. In like manner you shall deal with your vineyard, and with your olive grove.",
+    "reference": "Exodus 23:11 (AKJV)",
+    "connected_to": "Exodus 23:12",
+    "connected_from": "Exodus 23:10"
+  },
+  {
+    "text": "Six days you shall do your work, and on the seventh day you shall rest: that your ox and your ass may rest, and the son of your handmaid, and the stranger, may be refreshed.",
+    "reference": "Exodus 23:12 (AKJV)",
+    "connected_to": "Exodus 23:13",
+    "connected_from": "Exodus 23:11"
+  },
+  {
+    "text": "And in all things that I have said to you be circumspect: and make no mention of the name of other gods, neither let it be heard out of your mouth.",
+    "reference": "Exodus 23:13 (AKJV)",
+    "connected_to": "Exodus 23:14",
+    "connected_from": "Exodus 23:12"
+  },
+  {
+    "text": "Three times you shall keep a feast to me in the year.",
+    "reference": "Exodus 23:14 (AKJV)",
+    "connected_to": "Exodus 23:15",
+    "connected_from": "Exodus 23:13"
+  },
+  {
+    "text": "You shall keep the feast of unleavened bread: (you shall eat unleavened bread seven days, as I commanded you, in the time appointed of the month Abib; for in it you came out from Egypt: and none shall appear before me empty:)",
+    "reference": "Exodus 23:15 (AKJV)",
+    "connected_to": "Exodus 23:16",
+    "connected_from": "Exodus 23:14"
+  },
+  {
+    "text": "And the feast of harvest, the first fruits of your labors, which you have sown in the field: and the feast of ingathering, which is in the end of the year, when you have gathered in your labors out of the field.",
+    "reference": "Exodus 23:16 (AKJV)",
+    "connected_to": "Exodus 23:17",
+    "connected_from": "Exodus 23:15"
+  },
+  {
+    "text": "Three items in the year all your males shall appear before the LORD God.",
+    "reference": "Exodus 23:17 (AKJV)",
+    "connected_to": "Exodus 23:18",
+    "connected_from": "Exodus 23:16"
+  },
+  {
+    "text": "You shall not offer the blood of my sacrifice with leavened bread; neither shall the fat of my sacrifice remain until the morning.",
+    "reference": "Exodus 23:18 (AKJV)",
+    "connected_to": "Exodus 23:19",
+    "connected_from": "Exodus 23:17"
+  },
+  {
+    "text": "The first of the first fruits of your land you shall bring into the house of the LORD your God. You shall not seethe a kid in his mother’s milk.",
+    "reference": "Exodus 23:19 (AKJV)",
+    "connected_to": "Exodus 23:20",
+    "connected_from": "Exodus 23:18"
+  },
+  {
+    "text": "Behold, I send an Angel before you, to keep you in the way, and to bring you into the place which I have prepared.",
+    "reference": "Exodus 23:20 (AKJV)",
+    "connected_to": "Exodus 23:21",
+    "connected_from": "Exodus 23:19"
+  },
+  {
+    "text": "Beware of him, and obey his voice, provoke him not; for he will not pardon your transgressions: for my name is in him.",
+    "reference": "Exodus 23:21 (AKJV)",
+    "connected_to": "Exodus 23:22",
+    "connected_from": "Exodus 23:20"
+  },
+  {
+    "text": "But if you shall indeed obey his voice, and do all that I speak; then I will be an enemy to your enemies, and an adversary to your adversaries.",
+    "reference": "Exodus 23:22 (AKJV)",
+    "connected_to": "Exodus 23:23",
+    "connected_from": "Exodus 23:21"
+  },
+  {
+    "text": "For my Angel shall go before you, and bring you in to the Amorites, and the Hittites, and the Perizzites, and the Canaanites, the Hivites, and the Jebusites: and I will cut them off.",
+    "reference": "Exodus 23:23 (AKJV)",
+    "connected_to": "Exodus 23:24",
+    "connected_from": "Exodus 23:22"
+  },
+  {
+    "text": "You shall not bow down to their gods, nor serve them, nor do after their works: but you shall utterly overthrow them, and quite break down their images.",
+    "reference": "Exodus 23:24 (AKJV)",
+    "connected_to": "Exodus 23:25",
+    "connected_from": "Exodus 23:23"
+  },
+  {
+    "text": "And you shall serve the LORD your God, and he shall bless your bread, and your water; and I will take sickness away from the middle of you.",
+    "reference": "Exodus 23:25 (AKJV)",
+    "connected_to": "Exodus 23:26",
+    "connected_from": "Exodus 23:24"
+  },
+  {
+    "text": "There shall nothing cast their young, nor be barren, in your land: the number of your days I will fulfill.",
+    "reference": "Exodus 23:26 (AKJV)",
+    "connected_to": "Exodus 23:27",
+    "connected_from": "Exodus 23:25"
+  },
+  {
+    "text": "I will send my fear before you, and will destroy all the people to whom you shall come, and I will make all your enemies turn their backs to you.",
+    "reference": "Exodus 23:27 (AKJV)",
+    "connected_to": "Exodus 23:28",
+    "connected_from": "Exodus 23:26"
+  },
+  {
+    "text": "And I will send hornets before you, which shall drive out the Hivite, the Canaanite, and the Hittite, from before you.",
+    "reference": "Exodus 23:28 (AKJV)",
+    "connected_to": "Exodus 23:29",
+    "connected_from": "Exodus 23:27"
+  },
+  {
+    "text": "I will not drive them out from before you in one year; lest the land become desolate, and the beast of the field multiply against you.",
+    "reference": "Exodus 23:29 (AKJV)",
+    "connected_to": "Exodus 23:30",
+    "connected_from": "Exodus 23:28"
+  },
+  {
+    "text": "By little and little I will drive them out from before you, until you be increased, and inherit the land.",
+    "reference": "Exodus 23:30 (AKJV)",
+    "connected_to": "Exodus 23:31",
+    "connected_from": "Exodus 23:29"
+  },
+  {
+    "text": "And I will set your bounds from the Red sea even to the sea of the Philistines, and from the desert to the river: for I will deliver the inhabitants of the land into your hand; and you shall drive them out before you.",
+    "reference": "Exodus 23:31 (AKJV)",
+    "connected_to": "Exodus 23:32",
+    "connected_from": "Exodus 23:30"
+  },
+  {
+    "text": "You shall make no covenant with them, nor with their gods.",
+    "reference": "Exodus 23:32 (AKJV)",
+    "connected_to": "Exodus 23:33",
+    "connected_from": "Exodus 23:31"
+  },
+  {
+    "text": "They shall not dwell in your land, lest they make you sin against me: for if you serve their gods, it will surely be a snare to you.",
+    "reference": "Exodus 23:33 (AKJV)",
+    "connected_from": "Exodus 23:32"
+  }
+]

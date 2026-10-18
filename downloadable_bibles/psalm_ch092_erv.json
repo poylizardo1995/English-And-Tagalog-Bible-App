@@ -1,0 +1,90 @@
+[
+  {
+    "text": "A Psalm, a Song for the sabbath day. It is a good thing to give thanks unto the LORD, and to sing praises unto thy name, O Most High:",
+    "reference": "Psalm 92:1 (ERV)",
+    "connected_to": "Psalm 92:2"
+  },
+  {
+    "text": "To shew forth thy lovingkindness in the morning, and thy faithfulness every night,",
+    "reference": "Psalm 92:2 (ERV)",
+    "connected_to": "Psalm 92:3",
+    "connected_from": "Psalm 92:1"
+  },
+  {
+    "text": "With an instrument of ten strings, and with the psaltery; with a solemn sound upon the harp.",
+    "reference": "Psalm 92:3 (ERV)",
+    "connected_to": "Psalm 92:4",
+    "connected_from": "Psalm 92:2"
+  },
+  {
+    "text": "For thou, LORD, hast made me glad through thy work: I will triumph in the works of thy hands.",
+    "reference": "Psalm 92:4 (ERV)",
+    "connected_to": "Psalm 92:5",
+    "connected_from": "Psalm 92:3"
+  },
+  {
+    "text": "How great are thy works, O LORD! thy thoughts are very deep.",
+    "reference": "Psalm 92:5 (ERV)",
+    "connected_to": "Psalm 92:6",
+    "connected_from": "Psalm 92:4"
+  },
+  {
+    "text": "A brutish man knoweth not; neither doth a fool understand this:",
+    "reference": "Psalm 92:6 (ERV)",
+    "connected_to": "Psalm 92:7",
+    "connected_from": "Psalm 92:5"
+  },
+  {
+    "text": "When the wicked spring as the grass, and when all the workers of iniquity do flourish; it is that they shall be destroyed for ever:",
+    "reference": "Psalm 92:7 (ERV)",
+    "connected_to": "Psalm 92:8",
+    "connected_from": "Psalm 92:6"
+  },
+  {
+    "text": "But thou, O LORD, art on high for evermore.",
+    "reference": "Psalm 92:8 (ERV)",
+    "connected_to": "Psalm 92:9",
+    "connected_from": "Psalm 92:7"
+  },
+  {
+    "text": "For, lo, thine enemies, O LORD, for, lo, thine enemies shall perish; all the workers of iniquity shall be scattered.",
+    "reference": "Psalm 92:9 (ERV)",
+    "connected_to": "Psalm 92:10",
+    "connected_from": "Psalm 92:8"
+  },
+  {
+    "text": "But my horn hast thou exalted like the horn of the wild-ox: I am anointed with fresh oil.",
+    "reference": "Psalm 92:10 (ERV)",
+    "connected_to": "Psalm 92:11",
+    "connected_from": "Psalm 92:9"
+  },
+  {
+    "text": "Mine eye also hath seen my desire on mine enemies, mine ears have heard my desire of the evil-doers that rise up against me.",
+    "reference": "Psalm 92:11 (ERV)",
+    "connected_to": "Psalm 92:12",
+    "connected_from": "Psalm 92:10"
+  },
+  {
+    "text": "The righteous shall flourish like the palm tree: he shall grow like a cedar in Lebanon.",
+    "reference": "Psalm 92:12 (ERV)",
+    "connected_to": "Psalm 92:13",
+    "connected_from": "Psalm 92:11"
+  },
+  {
+    "text": "They that are planted in the house of the LORD shall flourish in the courts of our God.",
+    "reference": "Psalm 92:13 (ERV)",
+    "connected_to": "Psalm 92:14",
+    "connected_from": "Psalm 92:12"
+  },
+  {
+    "text": "They shall still bring forth fruit in old age; they shall be full of sap and green:",
+    "reference": "Psalm 92:14 (ERV)",
+    "connected_to": "Psalm 92:15",
+    "connected_from": "Psalm 92:13"
+  },
+  {
+    "text": "To shew that the LORD is upright; he is my rock, and there is no unrighteousness in him.",
+    "reference": "Psalm 92:15 (ERV)",
+    "connected_from": "Psalm 92:14"
+  }
+]

@@ -1,0 +1,180 @@
+[
+  {
+    "text": "But the LORD said to Moses, “Now you will see what I will do to Pharaoh, for because of My mighty hand he will let the people go; because of My strong hand he will drive them out of his land.”",
+    "reference": "Exodus 6:1 (BSB)",
+    "connected_to": "Exodus 6:2"
+  },
+  {
+    "text": "God also told Moses, “I am the LORD.",
+    "reference": "Exodus 6:2 (BSB)",
+    "connected_to": "Exodus 6:3",
+    "connected_from": "Exodus 6:1"
+  },
+  {
+    "text": "I appeared to Abraham, to Isaac, and to Jacob as God Almighty, but by My name the LORD I did not make Myself known to them.",
+    "reference": "Exodus 6:3 (BSB)",
+    "connected_to": "Exodus 6:4",
+    "connected_from": "Exodus 6:2"
+  },
+  {
+    "text": "I also established My covenant with them to give them the land of Canaan, the land where they lived as foreigners.",
+    "reference": "Exodus 6:4 (BSB)",
+    "connected_to": "Exodus 6:5",
+    "connected_from": "Exodus 6:3"
+  },
+  {
+    "text": "Furthermore, I have heard the groaning of the Israelites, whom the Egyptians are enslaving, and I have remembered My covenant.",
+    "reference": "Exodus 6:5 (BSB)",
+    "connected_to": "Exodus 6:6",
+    "connected_from": "Exodus 6:4"
+  },
+  {
+    "text": "Therefore tell the Israelites: ‘I am the LORD, and I will bring you out from under the yoke of the Egyptians and deliver you from their bondage. I will redeem you with an outstretched arm and with mighty acts of judgment.",
+    "reference": "Exodus 6:6 (BSB)",
+    "connected_to": "Exodus 6:7",
+    "connected_from": "Exodus 6:5"
+  },
+  {
+    "text": "I will take you as My own people, and I will be your God. Then you will know that I am the LORD your God, who brought you out from under the yoke of the Egyptians.",
+    "reference": "Exodus 6:7 (BSB)",
+    "connected_to": "Exodus 6:8",
+    "connected_from": "Exodus 6:6"
+  },
+  {
+    "text": "And I will bring you into the land that I swore to give to Abraham, Isaac, and Jacob. I will give it to you as a possession. I am the LORD!’”",
+    "reference": "Exodus 6:8 (BSB)",
+    "connected_to": "Exodus 6:9",
+    "connected_from": "Exodus 6:7"
+  },
+  {
+    "text": "Moses relayed this message to the Israelites, but on account of their broken spirit and cruel bondage, they did not listen to him.",
+    "reference": "Exodus 6:9 (BSB)",
+    "connected_to": "Exodus 6:10",
+    "connected_from": "Exodus 6:8"
+  },
+  {
+    "text": "So the LORD said to Moses,",
+    "reference": "Exodus 6:10 (BSB)",
+    "connected_to": "Exodus 6:11",
+    "connected_from": "Exodus 6:9"
+  },
+  {
+    "text": "“Go and tell Pharaoh king of Egypt to let the Israelites go out of his land.”",
+    "reference": "Exodus 6:11 (BSB)",
+    "connected_to": "Exodus 6:12",
+    "connected_from": "Exodus 6:10"
+  },
+  {
+    "text": "But in the LORD’s presence Moses replied, “If the Israelites will not listen to me, then why would Pharaoh listen to me, since I am unskilled in speech?”",
+    "reference": "Exodus 6:12 (BSB)",
+    "connected_to": "Exodus 6:13",
+    "connected_from": "Exodus 6:11"
+  },
+  {
+    "text": "Then the LORD spoke to Moses and Aaron and gave them a charge concerning both the Israelites and Pharaoh king of Egypt, to bring the Israelites out of the land of Egypt.",
+    "reference": "Exodus 6:13 (BSB)",
+    "connected_to": "Exodus 6:14",
+    "connected_from": "Exodus 6:12"
+  },
+  {
+    "text": "These were the heads of their fathers’ houses: The sons of Reuben, the firstborn of Israel, were Hanoch and Pallu, Hezron and Carmi. These were the clans of Reuben.",
+    "reference": "Exodus 6:14 (BSB)",
+    "connected_to": "Exodus 6:15",
+    "connected_from": "Exodus 6:13"
+  },
+  {
+    "text": "The sons of Simeon were Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul, the son of a Canaanite woman. These were the clans of Simeon.",
+    "reference": "Exodus 6:15 (BSB)",
+    "connected_to": "Exodus 6:16",
+    "connected_from": "Exodus 6:14"
+  },
+  {
+    "text": "These were the names of the sons of Levi according to their records: Gershon, Kohath, and Merari. Levi lived 137 years.",
+    "reference": "Exodus 6:16 (BSB)",
+    "connected_to": "Exodus 6:17",
+    "connected_from": "Exodus 6:15"
+  },
+  {
+    "text": "The sons of Gershon were Libni and Shimei, by their clans.",
+    "reference": "Exodus 6:17 (BSB)",
+    "connected_to": "Exodus 6:18",
+    "connected_from": "Exodus 6:16"
+  },
+  {
+    "text": "The sons of Kohath were Amram, Izhar, Hebron, and Uzziel. Kohath lived 133 years.",
+    "reference": "Exodus 6:18 (BSB)",
+    "connected_to": "Exodus 6:19",
+    "connected_from": "Exodus 6:17"
+  },
+  {
+    "text": "The sons of Merari were Mahli and Mushi. These were the clans of the Levites according to their records.",
+    "reference": "Exodus 6:19 (BSB)",
+    "connected_to": "Exodus 6:20",
+    "connected_from": "Exodus 6:18"
+  },
+  {
+    "text": "And Amram married his father’s sister Jochebed, and she bore him Aaron and Moses. Amram lived 137 years.",
+    "reference": "Exodus 6:20 (BSB)",
+    "connected_to": "Exodus 6:21",
+    "connected_from": "Exodus 6:19"
+  },
+  {
+    "text": "The sons of Izhar were Korah, Nepheg, and Zichri.",
+    "reference": "Exodus 6:21 (BSB)",
+    "connected_to": "Exodus 6:22",
+    "connected_from": "Exodus 6:20"
+  },
+  {
+    "text": "The sons of Uzziel were Mishael, Elzaphan, and Sithri.",
+    "reference": "Exodus 6:22 (BSB)",
+    "connected_to": "Exodus 6:23",
+    "connected_from": "Exodus 6:21"
+  },
+  {
+    "text": "And Aaron married Elisheba, the daughter of Amminadab and sister of Nahshon, and she bore him Nadab and Abihu, Eleazar and Ithamar.",
+    "reference": "Exodus 6:23 (BSB)",
+    "connected_to": "Exodus 6:24",
+    "connected_from": "Exodus 6:22"
+  },
+  {
+    "text": "The sons of Korah were Assir, Elkanah, and Abiasaph. These were the clans of the Korahites.",
+    "reference": "Exodus 6:24 (BSB)",
+    "connected_to": "Exodus 6:25",
+    "connected_from": "Exodus 6:23"
+  },
+  {
+    "text": "Aaron’s son Eleazar married one of the daughters of Putiel, and she bore him Phinehas. These were the heads of the Levite families by their clans.",
+    "reference": "Exodus 6:25 (BSB)",
+    "connected_to": "Exodus 6:26",
+    "connected_from": "Exodus 6:24"
+  },
+  {
+    "text": "It was this Aaron and Moses to whom the LORD said, “Bring the Israelites out of the land of Egypt by their divisions.”",
+    "reference": "Exodus 6:26 (BSB)",
+    "connected_to": "Exodus 6:27",
+    "connected_from": "Exodus 6:25"
+  },
+  {
+    "text": "Moses and Aaron were the ones who spoke to Pharaoh king of Egypt in order to bring the Israelites out of Egypt.",
+    "reference": "Exodus 6:27 (BSB)",
+    "connected_to": "Exodus 6:28",
+    "connected_from": "Exodus 6:26"
+  },
+  {
+    "text": "Now on the day that the LORD spoke to Moses in Egypt,",
+    "reference": "Exodus 6:28 (BSB)",
+    "connected_to": "Exodus 6:29",
+    "connected_from": "Exodus 6:27"
+  },
+  {
+    "text": "He said to him, “I am the LORD; tell Pharaoh king of Egypt everything I say to you.”",
+    "reference": "Exodus 6:29 (BSB)",
+    "connected_to": "Exodus 6:30",
+    "connected_from": "Exodus 6:28"
+  },
+  {
+    "text": "But in the LORD’s presence Moses replied, “Since I am unskilled in speech, why would Pharaoh listen to me?”",
+    "reference": "Exodus 6:30 (BSB)",
+    "connected_from": "Exodus 6:29"
+  }
+]

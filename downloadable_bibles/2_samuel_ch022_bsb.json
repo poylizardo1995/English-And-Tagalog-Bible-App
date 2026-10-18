@@ -1,0 +1,306 @@
+[
+  {
+    "text": "And David sang this song to the LORD on the day the LORD had delivered him from the hand of all his enemies and from the hand of Saul.",
+    "reference": "2 Samuel 22:1 (BSB)",
+    "connected_to": "2 Samuel 22:2"
+  },
+  {
+    "text": "He said: “The LORD is my rock, my fortress, and my deliverer.",
+    "reference": "2 Samuel 22:2 (BSB)",
+    "connected_to": "2 Samuel 22:3",
+    "connected_from": "2 Samuel 22:1"
+  },
+  {
+    "text": "My God is my rock, in whom I take refuge, my shield, and the horn of my salvation. My stronghold, my refuge, and my Savior, You save me from violence.",
+    "reference": "2 Samuel 22:3 (BSB)",
+    "connected_to": "2 Samuel 22:4",
+    "connected_from": "2 Samuel 22:2"
+  },
+  {
+    "text": "I will call upon the LORD, who is worthy to be praised; so shall I be saved from my enemies.",
+    "reference": "2 Samuel 22:4 (BSB)",
+    "connected_to": "2 Samuel 22:5",
+    "connected_from": "2 Samuel 22:3"
+  },
+  {
+    "text": "For the waves of death engulfed me; the torrents of chaos overwhelmed me.",
+    "reference": "2 Samuel 22:5 (BSB)",
+    "connected_to": "2 Samuel 22:6",
+    "connected_from": "2 Samuel 22:4"
+  },
+  {
+    "text": "The cords of Sheol entangled me; the snares of death confronted me.",
+    "reference": "2 Samuel 22:6 (BSB)",
+    "connected_to": "2 Samuel 22:7",
+    "connected_from": "2 Samuel 22:5"
+  },
+  {
+    "text": "In my distress I called upon the LORD; I cried out to my God. And from His temple He heard my voice, and my cry for help reached His ears.",
+    "reference": "2 Samuel 22:7 (BSB)",
+    "connected_to": "2 Samuel 22:8",
+    "connected_from": "2 Samuel 22:6"
+  },
+  {
+    "text": "Then the earth shook and quaked; the foundations of the heavens trembled; they were shaken because He burned with anger.",
+    "reference": "2 Samuel 22:8 (BSB)",
+    "connected_to": "2 Samuel 22:9",
+    "connected_from": "2 Samuel 22:7"
+  },
+  {
+    "text": "Smoke rose from His nostrils, and consuming fire came from His mouth; glowing coals blazed forth.",
+    "reference": "2 Samuel 22:9 (BSB)",
+    "connected_to": "2 Samuel 22:10",
+    "connected_from": "2 Samuel 22:8"
+  },
+  {
+    "text": "He parted the heavens and came down with dark clouds beneath His feet.",
+    "reference": "2 Samuel 22:10 (BSB)",
+    "connected_to": "2 Samuel 22:11",
+    "connected_from": "2 Samuel 22:9"
+  },
+  {
+    "text": "He mounted a cherub and flew; He soared on the wings of the wind.",
+    "reference": "2 Samuel 22:11 (BSB)",
+    "connected_to": "2 Samuel 22:12",
+    "connected_from": "2 Samuel 22:10"
+  },
+  {
+    "text": "He made darkness a canopy around Him, a gathering of water and thick clouds.",
+    "reference": "2 Samuel 22:12 (BSB)",
+    "connected_to": "2 Samuel 22:13",
+    "connected_from": "2 Samuel 22:11"
+  },
+  {
+    "text": "From the brightness of His presence coals of fire blazed forth.",
+    "reference": "2 Samuel 22:13 (BSB)",
+    "connected_to": "2 Samuel 22:14",
+    "connected_from": "2 Samuel 22:12"
+  },
+  {
+    "text": "The LORD thundered from heaven; the voice of the Most High resounded.",
+    "reference": "2 Samuel 22:14 (BSB)",
+    "connected_to": "2 Samuel 22:15",
+    "connected_from": "2 Samuel 22:13"
+  },
+  {
+    "text": "He shot His arrows and scattered the foes; He hurled lightning and routed them.",
+    "reference": "2 Samuel 22:15 (BSB)",
+    "connected_to": "2 Samuel 22:16",
+    "connected_from": "2 Samuel 22:14"
+  },
+  {
+    "text": "The channels of the sea appeared, and the foundations of the world were exposed at the rebuke of the LORD, at the blast of the breath of His nostrils.",
+    "reference": "2 Samuel 22:16 (BSB)",
+    "connected_to": "2 Samuel 22:17",
+    "connected_from": "2 Samuel 22:15"
+  },
+  {
+    "text": "He reached down from on high and took hold of me; He drew me out of deep waters.",
+    "reference": "2 Samuel 22:17 (BSB)",
+    "connected_to": "2 Samuel 22:18",
+    "connected_from": "2 Samuel 22:16"
+  },
+  {
+    "text": "He rescued me from my powerful enemy, from foes too mighty for me.",
+    "reference": "2 Samuel 22:18 (BSB)",
+    "connected_to": "2 Samuel 22:19",
+    "connected_from": "2 Samuel 22:17"
+  },
+  {
+    "text": "They confronted me in my day of calamity, but the LORD was my support.",
+    "reference": "2 Samuel 22:19 (BSB)",
+    "connected_to": "2 Samuel 22:20",
+    "connected_from": "2 Samuel 22:18"
+  },
+  {
+    "text": "He brought me out into the open; He rescued me because He delighted in me.",
+    "reference": "2 Samuel 22:20 (BSB)",
+    "connected_to": "2 Samuel 22:21",
+    "connected_from": "2 Samuel 22:19"
+  },
+  {
+    "text": "The LORD has rewarded me according to my righteousness; He has repaid me according to the cleanness of my hands.",
+    "reference": "2 Samuel 22:21 (BSB)",
+    "connected_to": "2 Samuel 22:22",
+    "connected_from": "2 Samuel 22:20"
+  },
+  {
+    "text": "For I have kept the ways of the LORD and have not wickedly departed from my God.",
+    "reference": "2 Samuel 22:22 (BSB)",
+    "connected_to": "2 Samuel 22:23",
+    "connected_from": "2 Samuel 22:21"
+  },
+  {
+    "text": "For all His ordinances are before me; I have not disregarded His statutes.",
+    "reference": "2 Samuel 22:23 (BSB)",
+    "connected_to": "2 Samuel 22:24",
+    "connected_from": "2 Samuel 22:22"
+  },
+  {
+    "text": "And I have been blameless before Him and kept myself from iniquity.",
+    "reference": "2 Samuel 22:24 (BSB)",
+    "connected_to": "2 Samuel 22:25",
+    "connected_from": "2 Samuel 22:23"
+  },
+  {
+    "text": "So the LORD has repaid me according to my righteousness, according to my cleanness in His sight.",
+    "reference": "2 Samuel 22:25 (BSB)",
+    "connected_to": "2 Samuel 22:26",
+    "connected_from": "2 Samuel 22:24"
+  },
+  {
+    "text": "To the faithful You show Yourself faithful, to the blameless You show Yourself blameless;",
+    "reference": "2 Samuel 22:26 (BSB)",
+    "connected_to": "2 Samuel 22:27",
+    "connected_from": "2 Samuel 22:25"
+  },
+  {
+    "text": "to the pure You show Yourself pure, but to the crooked You show Yourself shrewd.",
+    "reference": "2 Samuel 22:27 (BSB)",
+    "connected_to": "2 Samuel 22:28",
+    "connected_from": "2 Samuel 22:26"
+  },
+  {
+    "text": "You save an afflicted people, but Your eyes are on the haughty to bring them down.",
+    "reference": "2 Samuel 22:28 (BSB)",
+    "connected_to": "2 Samuel 22:29",
+    "connected_from": "2 Samuel 22:27"
+  },
+  {
+    "text": "For You, O LORD, are my lamp; the LORD lights up my darkness.",
+    "reference": "2 Samuel 22:29 (BSB)",
+    "connected_to": "2 Samuel 22:30",
+    "connected_from": "2 Samuel 22:28"
+  },
+  {
+    "text": "For in You I can charge an army; with my God I can scale a wall.",
+    "reference": "2 Samuel 22:30 (BSB)",
+    "connected_to": "2 Samuel 22:31",
+    "connected_from": "2 Samuel 22:29"
+  },
+  {
+    "text": "As for God, His way is perfect; the word of the LORD is flawless. He is a shield to all who take refuge in Him.",
+    "reference": "2 Samuel 22:31 (BSB)",
+    "connected_to": "2 Samuel 22:32",
+    "connected_from": "2 Samuel 22:30"
+  },
+  {
+    "text": "For who is God besides the LORD? And who is the Rock except our God?",
+    "reference": "2 Samuel 22:32 (BSB)",
+    "connected_to": "2 Samuel 22:33",
+    "connected_from": "2 Samuel 22:31"
+  },
+  {
+    "text": "God is my strong fortress, and He makes my way clear.",
+    "reference": "2 Samuel 22:33 (BSB)",
+    "connected_to": "2 Samuel 22:34",
+    "connected_from": "2 Samuel 22:32"
+  },
+  {
+    "text": "He makes my feet like those of a deer and stations me upon the heights.",
+    "reference": "2 Samuel 22:34 (BSB)",
+    "connected_to": "2 Samuel 22:35",
+    "connected_from": "2 Samuel 22:33"
+  },
+  {
+    "text": "He trains my hands for battle; my arms can bend a bow of bronze.",
+    "reference": "2 Samuel 22:35 (BSB)",
+    "connected_to": "2 Samuel 22:36",
+    "connected_from": "2 Samuel 22:34"
+  },
+  {
+    "text": "You have given me Your shield of salvation, and Your gentleness exalts me.",
+    "reference": "2 Samuel 22:36 (BSB)",
+    "connected_to": "2 Samuel 22:37",
+    "connected_from": "2 Samuel 22:35"
+  },
+  {
+    "text": "You broaden the path beneath me so that my ankles do not give way.",
+    "reference": "2 Samuel 22:37 (BSB)",
+    "connected_to": "2 Samuel 22:38",
+    "connected_from": "2 Samuel 22:36"
+  },
+  {
+    "text": "I pursued my enemies and destroyed them; I did not turn back until they were consumed.",
+    "reference": "2 Samuel 22:38 (BSB)",
+    "connected_to": "2 Samuel 22:39",
+    "connected_from": "2 Samuel 22:37"
+  },
+  {
+    "text": "I devoured and crushed them so they could not rise; they have fallen under my feet.",
+    "reference": "2 Samuel 22:39 (BSB)",
+    "connected_to": "2 Samuel 22:40",
+    "connected_from": "2 Samuel 22:38"
+  },
+  {
+    "text": "You have armed me with strength for battle; You have subdued my foes beneath me.",
+    "reference": "2 Samuel 22:40 (BSB)",
+    "connected_to": "2 Samuel 22:41",
+    "connected_from": "2 Samuel 22:39"
+  },
+  {
+    "text": "You have made my enemies retreat before me; I destroyed those who hated me.",
+    "reference": "2 Samuel 22:41 (BSB)",
+    "connected_to": "2 Samuel 22:42",
+    "connected_from": "2 Samuel 22:40"
+  },
+  {
+    "text": "They looked, but there was no one to save them—to the LORD, but He did not answer.",
+    "reference": "2 Samuel 22:42 (BSB)",
+    "connected_to": "2 Samuel 22:43",
+    "connected_from": "2 Samuel 22:41"
+  },
+  {
+    "text": "I ground them as the dust of the earth; I crushed and trampled them like mud in the streets.",
+    "reference": "2 Samuel 22:43 (BSB)",
+    "connected_to": "2 Samuel 22:44",
+    "connected_from": "2 Samuel 22:42"
+  },
+  {
+    "text": "You have delivered me from the strife of my people; You have preserved me as the head of nations; a people I had not known shall serve me.",
+    "reference": "2 Samuel 22:44 (BSB)",
+    "connected_to": "2 Samuel 22:45",
+    "connected_from": "2 Samuel 22:43"
+  },
+  {
+    "text": "Foreigners cower before me; when they hear me, they obey me.",
+    "reference": "2 Samuel 22:45 (BSB)",
+    "connected_to": "2 Samuel 22:46",
+    "connected_from": "2 Samuel 22:44"
+  },
+  {
+    "text": "Foreigners lose heart and come trembling from their strongholds.",
+    "reference": "2 Samuel 22:46 (BSB)",
+    "connected_to": "2 Samuel 22:47",
+    "connected_from": "2 Samuel 22:45"
+  },
+  {
+    "text": "The LORD lives, and blessed be my Rock! And may God, the Rock of my salvation, be exalted—",
+    "reference": "2 Samuel 22:47 (BSB)",
+    "connected_to": "2 Samuel 22:48",
+    "connected_from": "2 Samuel 22:46"
+  },
+  {
+    "text": "the God who avenges me and brings down nations beneath me,",
+    "reference": "2 Samuel 22:48 (BSB)",
+    "connected_to": "2 Samuel 22:49",
+    "connected_from": "2 Samuel 22:47"
+  },
+  {
+    "text": "who frees me from my enemies. You exalt me above my foes; You rescue me from violent men.",
+    "reference": "2 Samuel 22:49 (BSB)",
+    "connected_to": "2 Samuel 22:50",
+    "connected_from": "2 Samuel 22:48"
+  },
+  {
+    "text": "Therefore I will praise You, O LORD, among the nations; I will sing praises to Your name.",
+    "reference": "2 Samuel 22:50 (BSB)",
+    "connected_to": "2 Samuel 22:51",
+    "connected_from": "2 Samuel 22:49"
+  },
+  {
+    "text": "Great salvation He brings to His king. He shows loving devotion to His anointed, to David and his descendants forever.”",
+    "reference": "2 Samuel 22:51 (BSB)",
+    "connected_from": "2 Samuel 22:50"
+  }
+]

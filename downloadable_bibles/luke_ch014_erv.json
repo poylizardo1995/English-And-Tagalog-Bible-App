@@ -1,0 +1,210 @@
+[
+  {
+    "text": "And it came to pass, when he went into the house of one of the rulers of the Pharisees on a sabbath to eat bread, that they were watching him.",
+    "reference": "Luke 14:1 (ERV)",
+    "connected_to": "Luke 14:2"
+  },
+  {
+    "text": "And behold, there was before him a certain man which had the dropsy.",
+    "reference": "Luke 14:2 (ERV)",
+    "connected_to": "Luke 14:3",
+    "connected_from": "Luke 14:1"
+  },
+  {
+    "text": "And Jesus answering spake unto the lawyers and Pharisees, saying, Is it lawful to heal on the sabbath, or not?",
+    "reference": "Luke 14:3 (ERV)",
+    "connected_to": "Luke 14:4",
+    "connected_from": "Luke 14:2"
+  },
+  {
+    "text": "But they held their peace. And he took him, and healed him, and let him go.",
+    "reference": "Luke 14:4 (ERV)",
+    "connected_to": "Luke 14:5",
+    "connected_from": "Luke 14:3"
+  },
+  {
+    "text": "And he said unto them, Which of you shall have an ass or an ox fallen into a well, and will not straightway draw him up on a sabbath day?",
+    "reference": "Luke 14:5 (ERV)",
+    "connected_to": "Luke 14:6",
+    "connected_from": "Luke 14:4"
+  },
+  {
+    "text": "And they could not answer again unto these things.",
+    "reference": "Luke 14:6 (ERV)",
+    "connected_to": "Luke 14:7",
+    "connected_from": "Luke 14:5"
+  },
+  {
+    "text": "And he spake a parable unto those which were bidden, when he marked how they chose out the chief seats; saying unto them,",
+    "reference": "Luke 14:7 (ERV)",
+    "connected_to": "Luke 14:8",
+    "connected_from": "Luke 14:6"
+  },
+  {
+    "text": "When thou art bidden of any man to a marriage feast, sit not down in the chief seat; lest haply a more honourable man than thou be bidden of him,",
+    "reference": "Luke 14:8 (ERV)",
+    "connected_to": "Luke 14:9",
+    "connected_from": "Luke 14:7"
+  },
+  {
+    "text": "and he that bade thee and him shall come and say to thee, Give this man place; and then thou shalt begin with shame to take the lowest place.",
+    "reference": "Luke 14:9 (ERV)",
+    "connected_to": "Luke 14:10",
+    "connected_from": "Luke 14:8"
+  },
+  {
+    "text": "But when thou art bidden, go and sit down in the lowest place; that when he that hath bidden thee cometh, he may say to thee, Friend, go up higher: then shalt thou have glory in the presence of all that sit at meat with thee.",
+    "reference": "Luke 14:10 (ERV)",
+    "connected_to": "Luke 14:11",
+    "connected_from": "Luke 14:9"
+  },
+  {
+    "text": "For every one that exalteth himself shall be humbled; and he that humbleth himself shall be exalted.",
+    "reference": "Luke 14:11 (ERV)",
+    "connected_to": "Luke 14:12",
+    "connected_from": "Luke 14:10"
+  },
+  {
+    "text": "And he said to him also that had bidden him, When thou makest a dinner or a supper, call not thy friends, nor thy brethren, nor thy kinsmen, nor rich neighbours; lest haply they also bid thee again, and a recompense be made thee.",
+    "reference": "Luke 14:12 (ERV)",
+    "connected_to": "Luke 14:13",
+    "connected_from": "Luke 14:11"
+  },
+  {
+    "text": "But when thou makest a feast, bid the poor, the maimed, the lame, the blind:",
+    "reference": "Luke 14:13 (ERV)",
+    "connected_to": "Luke 14:14",
+    "connected_from": "Luke 14:12"
+  },
+  {
+    "text": "and thou shalt be blessed; because they have not wherewith to recompense thee: for thou shalt be recompensed in the resurrection of the just.",
+    "reference": "Luke 14:14 (ERV)",
+    "connected_to": "Luke 14:15",
+    "connected_from": "Luke 14:13"
+  },
+  {
+    "text": "And when one of them that sat at meat with him heard these things, he said unto him, Blessed is he that shall eat bread in the kingdom of God.",
+    "reference": "Luke 14:15 (ERV)",
+    "connected_to": "Luke 14:16",
+    "connected_from": "Luke 14:14"
+  },
+  {
+    "text": "But he said unto him, A certain man made a great supper; and he bade many:",
+    "reference": "Luke 14:16 (ERV)",
+    "connected_to": "Luke 14:17",
+    "connected_from": "Luke 14:15"
+  },
+  {
+    "text": "and he sent forth his servant at supper time to say to them that were bidden, Come; for all things are now ready.",
+    "reference": "Luke 14:17 (ERV)",
+    "connected_to": "Luke 14:18",
+    "connected_from": "Luke 14:16"
+  },
+  {
+    "text": "And they all with one consent began to make excuse. The first said unto him, I have bought a field, and I must needs go out and see it: I pray thee have me excused.",
+    "reference": "Luke 14:18 (ERV)",
+    "connected_to": "Luke 14:19",
+    "connected_from": "Luke 14:17"
+  },
+  {
+    "text": "And another said, I have bought five yoke of oxen, and I go to prove them: I pray thee have me excused.",
+    "reference": "Luke 14:19 (ERV)",
+    "connected_to": "Luke 14:20",
+    "connected_from": "Luke 14:18"
+  },
+  {
+    "text": "And another said, I have married a wife, and therefore I cannot come.",
+    "reference": "Luke 14:20 (ERV)",
+    "connected_to": "Luke 14:21",
+    "connected_from": "Luke 14:19"
+  },
+  {
+    "text": "And the servant came, and told his lord these things. Then the master of the house being angry said to his servant, Go out quickly into the streets and lanes of the city, and bring in hither the poor and maimed and blind and lame.",
+    "reference": "Luke 14:21 (ERV)",
+    "connected_to": "Luke 14:22",
+    "connected_from": "Luke 14:20"
+  },
+  {
+    "text": "And the servant said, Lord, what thou didst command is done, and yet there is room.",
+    "reference": "Luke 14:22 (ERV)",
+    "connected_to": "Luke 14:23",
+    "connected_from": "Luke 14:21"
+  },
+  {
+    "text": "And the lord said unto the servant, Go out into the highways and hedges, and constrain them to come in, that my house may be filled.",
+    "reference": "Luke 14:23 (ERV)",
+    "connected_to": "Luke 14:24",
+    "connected_from": "Luke 14:22"
+  },
+  {
+    "text": "For I say unto you, that none of those men which were bidden shall taste of my supper.",
+    "reference": "Luke 14:24 (ERV)",
+    "connected_to": "Luke 14:25",
+    "connected_from": "Luke 14:23"
+  },
+  {
+    "text": "Now there went with him great multitudes: and he turned, and said unto them,",
+    "reference": "Luke 14:25 (ERV)",
+    "connected_to": "Luke 14:26",
+    "connected_from": "Luke 14:24"
+  },
+  {
+    "text": "If any man cometh unto me, and hateth not his own father, and mother, and wife, and children, and brethren, and sisters, yea, and his own life also, he cannot be my disciple.",
+    "reference": "Luke 14:26 (ERV)",
+    "connected_to": "Luke 14:27",
+    "connected_from": "Luke 14:25"
+  },
+  {
+    "text": "Whosoever doth not bear his own cross, and come after me, cannot be my disciple.",
+    "reference": "Luke 14:27 (ERV)",
+    "connected_to": "Luke 14:28",
+    "connected_from": "Luke 14:26"
+  },
+  {
+    "text": "For which of you, desiring to build a tower, doth not first sit down and count the cost, whether he have wherewith to complete it?",
+    "reference": "Luke 14:28 (ERV)",
+    "connected_to": "Luke 14:29",
+    "connected_from": "Luke 14:27"
+  },
+  {
+    "text": "Lest haply, when he hath laid a foundation, and is not able to finish, all that behold begin to mock him,",
+    "reference": "Luke 14:29 (ERV)",
+    "connected_to": "Luke 14:30",
+    "connected_from": "Luke 14:28"
+  },
+  {
+    "text": "saying, This man began to build, and was not able to finish.",
+    "reference": "Luke 14:30 (ERV)",
+    "connected_to": "Luke 14:31",
+    "connected_from": "Luke 14:29"
+  },
+  {
+    "text": "Or what king, as he goeth to encounter another king in war, will not sit down first and take counsel whether he is able with ten thousand to meet him that cometh against him with twenty thousand?",
+    "reference": "Luke 14:31 (ERV)",
+    "connected_to": "Luke 14:32",
+    "connected_from": "Luke 14:30"
+  },
+  {
+    "text": "Or else, while the other is yet a great way off, he sendeth an ambassage, and asketh conditions of peace.",
+    "reference": "Luke 14:32 (ERV)",
+    "connected_to": "Luke 14:33",
+    "connected_from": "Luke 14:31"
+  },
+  {
+    "text": "So therefore whosoever he be of you that renounceth not all that he hath, he cannot be my disciple.",
+    "reference": "Luke 14:33 (ERV)",
+    "connected_to": "Luke 14:34",
+    "connected_from": "Luke 14:32"
+  },
+  {
+    "text": "Salt therefore is good: but if even the salt have lost its savour, wherewith shall it be seasoned?",
+    "reference": "Luke 14:34 (ERV)",
+    "connected_to": "Luke 14:35",
+    "connected_from": "Luke 14:33"
+  },
+  {
+    "text": "It is fit neither for the land nor for the dunghill: men cast it out. He that hath ears to hear, let him hear.",
+    "reference": "Luke 14:35 (ERV)",
+    "connected_from": "Luke 14:34"
+  }
+]

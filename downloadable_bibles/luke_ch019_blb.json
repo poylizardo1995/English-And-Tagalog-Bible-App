@@ -1,0 +1,288 @@
+[
+  {
+    "text": "And having entered, He was passing through Jericho.",
+    "reference": "Luke 19:1 (BLB)",
+    "connected_to": "Luke 19:2"
+  },
+  {
+    "text": "And behold, a man called by the name Zacchaeus, and he was a chief tax collector, and he [was] rich.",
+    "reference": "Luke 19:2 (BLB)",
+    "connected_to": "Luke 19:3",
+    "connected_from": "Luke 19:1"
+  },
+  {
+    "text": "And he was seeking to see Jesus, who He is. And he was not able on account of the crowd, because he was small in stature.",
+    "reference": "Luke 19:3 (BLB)",
+    "connected_to": "Luke 19:4",
+    "connected_from": "Luke 19:2"
+  },
+  {
+    "text": "And having run ahead to the front, he went up on a sycamore-fig tree so that he might see Him, for He was about to pass through that [way].",
+    "reference": "Luke 19:4 (BLB)",
+    "connected_to": "Luke 19:5",
+    "connected_from": "Luke 19:3"
+  },
+  {
+    "text": "And as He came upon the place, having looked up, Jesus said to him, “Zacchaeus, having hurried, come down, for it is necessary for Me to stay in your house today.”",
+    "reference": "Luke 19:5 (BLB)",
+    "connected_to": "Luke 19:6",
+    "connected_from": "Luke 19:4"
+  },
+  {
+    "text": "And having hurried, he came down and received Him, rejoicing.",
+    "reference": "Luke 19:6 (BLB)",
+    "connected_to": "Luke 19:7",
+    "connected_from": "Luke 19:5"
+  },
+  {
+    "text": "And having seen [it], they were all grumbling, saying, “He entered to lodge with a sinful man.”",
+    "reference": "Luke 19:7 (BLB)",
+    "connected_to": "Luke 19:8",
+    "connected_from": "Luke 19:6"
+  },
+  {
+    "text": "But having stood, Zacchaeus said to the Lord, “Behold, half of my possessions, Lord, I give to the poor; and if I defrauded anything of anyone, I repay [it] fourfold.”",
+    "reference": "Luke 19:8 (BLB)",
+    "connected_to": "Luke 19:9",
+    "connected_from": "Luke 19:7"
+  },
+  {
+    "text": "And Jesus said to him, “Today salvation came to this house, because he also is a son of Abraham.",
+    "reference": "Luke 19:9 (BLB)",
+    "connected_to": "Luke 19:10",
+    "connected_from": "Luke 19:8"
+  },
+  {
+    "text": "For the Son of Man came to seek and to save the lost.”",
+    "reference": "Luke 19:10 (BLB)",
+    "connected_to": "Luke 19:11",
+    "connected_from": "Luke 19:9"
+  },
+  {
+    "text": "Now [in] their hearing these things, having proceeded, He spoke a parable because of His being near Jerusalem and their thinking that the kingdom of God is about to appear immediately.",
+    "reference": "Luke 19:11 (BLB)",
+    "connected_to": "Luke 19:12",
+    "connected_from": "Luke 19:10"
+  },
+  {
+    "text": "Therefore He said, “A certain man of noble birth went to a far country to receive for himself a kingdom and to return.",
+    "reference": "Luke 19:12 (BLB)",
+    "connected_to": "Luke 19:13",
+    "connected_from": "Luke 19:11"
+  },
+  {
+    "text": "And having called ten of his servants, he gave to them ten minas and said to them, ‘Do business until I come.’",
+    "reference": "Luke 19:13 (BLB)",
+    "connected_to": "Luke 19:14",
+    "connected_from": "Luke 19:12"
+  },
+  {
+    "text": "But his citizens hated him and sent a delegation after him, saying, ‘We are not willing [for] this [man] to reign over us.’",
+    "reference": "Luke 19:14 (BLB)",
+    "connected_to": "Luke 19:15",
+    "connected_from": "Luke 19:13"
+  },
+  {
+    "text": "And it came to pass on his returning, having received the kingdom, that he directed these servants to whom he had given the money to be called to him, so that he might know what each had gained by doing business.",
+    "reference": "Luke 19:15 (BLB)",
+    "connected_to": "Luke 19:16",
+    "connected_from": "Luke 19:14"
+  },
+  {
+    "text": "And the first came up, saying, ‘Lord, your mina produced ten minas.’",
+    "reference": "Luke 19:16 (BLB)",
+    "connected_to": "Luke 19:17",
+    "connected_from": "Luke 19:15"
+  },
+  {
+    "text": "And he said to him, ‘Well done, good servant! Because you were faithful in very little, be having authority over ten cities.’",
+    "reference": "Luke 19:17 (BLB)",
+    "connected_to": "Luke 19:18",
+    "connected_from": "Luke 19:16"
+  },
+  {
+    "text": "And the second came, saying, ‘Your mina, master, made five minas.’",
+    "reference": "Luke 19:18 (BLB)",
+    "connected_to": "Luke 19:19",
+    "connected_from": "Luke 19:17"
+  },
+  {
+    "text": "And he said also to this one, ‘And you, be over five cities.’",
+    "reference": "Luke 19:19 (BLB)",
+    "connected_to": "Luke 19:20",
+    "connected_from": "Luke 19:18"
+  },
+  {
+    "text": "And the other came, saying, ‘Master, behold your mina, which I had lying away in a soudario.",
+    "reference": "Luke 19:20 (BLB)",
+    "connected_to": "Luke 19:21",
+    "connected_from": "Luke 19:19"
+  },
+  {
+    "text": "For I was afraid of you, because you are a harsh man. You take up what you did not lay down, and you reap what you did not sow.’",
+    "reference": "Luke 19:21 (BLB)",
+    "connected_to": "Luke 19:22",
+    "connected_from": "Luke 19:20"
+  },
+  {
+    "text": "He says to him, ‘Out of your mouth I will judge you, evil servant. You knew that I am a harsh man, taking up what I did not lay down and reaping what I did not sow?",
+    "reference": "Luke 19:22 (BLB)",
+    "connected_to": "Luke 19:23",
+    "connected_from": "Luke 19:21"
+  },
+  {
+    "text": "And why did you not give my money to the bank, and I, having come, might have collected it with interest?’",
+    "reference": "Luke 19:23 (BLB)",
+    "connected_to": "Luke 19:24",
+    "connected_from": "Luke 19:22"
+  },
+  {
+    "text": "And to those standing by he said, ‘Take from him the mina and give [it] to the one having the ten minas.’",
+    "reference": "Luke 19:24 (BLB)",
+    "connected_to": "Luke 19:25",
+    "connected_from": "Luke 19:23"
+  },
+  {
+    "text": "And they said to him, ‘Lord, he has ten minas!’",
+    "reference": "Luke 19:25 (BLB)",
+    "connected_to": "Luke 19:26",
+    "connected_from": "Luke 19:24"
+  },
+  {
+    "text": "I say to you⁺ that to everyone having, it will be given; but from the one not having, even that which he has will be taken away.",
+    "reference": "Luke 19:26 (BLB)",
+    "connected_to": "Luke 19:27",
+    "connected_from": "Luke 19:25"
+  },
+  {
+    "text": "However, these enemies of mine, those not having been willing [for] me to reign over them, bring [them] here and slay them before me.’”",
+    "reference": "Luke 19:27 (BLB)",
+    "connected_to": "Luke 19:28",
+    "connected_from": "Luke 19:26"
+  },
+  {
+    "text": "And having said these things, He was going on ahead, going up to Jerusalem.",
+    "reference": "Luke 19:28 (BLB)",
+    "connected_to": "Luke 19:29",
+    "connected_from": "Luke 19:27"
+  },
+  {
+    "text": "And it came to pass as He drew near to Bethphage and Bethany, toward the mount called Olivet, [that] He sent two of the disciples,",
+    "reference": "Luke 19:29 (BLB)",
+    "connected_to": "Luke 19:30",
+    "connected_from": "Luke 19:28"
+  },
+  {
+    "text": "saying, “Go into the village ahead, in which, entering, you⁺ will find a colt tied, on which no one of men ever sat; and having loosed it, bring [it].",
+    "reference": "Luke 19:30 (BLB)",
+    "connected_to": "Luke 19:31",
+    "connected_from": "Luke 19:29"
+  },
+  {
+    "text": "And if anyone may ask you⁺, ‘Why are you⁺ loosing [it]?’ thus you⁺ will say, ‘Because the Lord has need of it.’”",
+    "reference": "Luke 19:31 (BLB)",
+    "connected_to": "Luke 19:32",
+    "connected_from": "Luke 19:30"
+  },
+  {
+    "text": "And having gone away, those sent found [it] just as He said to them.",
+    "reference": "Luke 19:32 (BLB)",
+    "connected_to": "Luke 19:33",
+    "connected_from": "Luke 19:31"
+  },
+  {
+    "text": "And [on] their loosing the colt, its masters said to them, “Why are you⁺ loosing the colt?”",
+    "reference": "Luke 19:33 (BLB)",
+    "connected_to": "Luke 19:34",
+    "connected_from": "Luke 19:32"
+  },
+  {
+    "text": "And they said, “The Lord has need of it.”",
+    "reference": "Luke 19:34 (BLB)",
+    "connected_to": "Luke 19:35",
+    "connected_from": "Luke 19:33"
+  },
+  {
+    "text": "And they led it to Jesus, and having cast their garments on the colt, they put Jesus on [it].",
+    "reference": "Luke 19:35 (BLB)",
+    "connected_to": "Luke 19:36",
+    "connected_from": "Luke 19:34"
+  },
+  {
+    "text": "And [in] His going, they were spreading their garments in the road.",
+    "reference": "Luke 19:36 (BLB)",
+    "connected_to": "Luke 19:37",
+    "connected_from": "Luke 19:35"
+  },
+  {
+    "text": "And [in] His drawing near, already at the descent of the Mount of Olives, the whole multitude of the disciples, rejoicing, began to praise God in a loud voice for all the mighty works that they had seen,",
+    "reference": "Luke 19:37 (BLB)",
+    "connected_to": "Luke 19:38",
+    "connected_from": "Luke 19:36"
+  },
+  {
+    "text": "saying: “Blessed is the coming King in the name of the Lord!” “Peace in heaven and glory in the highest!”",
+    "reference": "Luke 19:38 (BLB)",
+    "connected_to": "Luke 19:39",
+    "connected_from": "Luke 19:37"
+  },
+  {
+    "text": "And some of the Pharisees from the crowd said to Him, “Teacher, rebuke Your disciples!”",
+    "reference": "Luke 19:39 (BLB)",
+    "connected_to": "Luke 19:40",
+    "connected_from": "Luke 19:38"
+  },
+  {
+    "text": "And answering, He said, “I say to you⁺ that if these will be silent, the stones will cry out.”",
+    "reference": "Luke 19:40 (BLB)",
+    "connected_to": "Luke 19:41",
+    "connected_from": "Luke 19:39"
+  },
+  {
+    "text": "And as He drew near, having seen the city, He wept over it,",
+    "reference": "Luke 19:41 (BLB)",
+    "connected_to": "Luke 19:42",
+    "connected_from": "Luke 19:40"
+  },
+  {
+    "text": "saying, “If you knew in this day, even you, the things for peace! But now they were hidden from your eyes.",
+    "reference": "Luke 19:42 (BLB)",
+    "connected_to": "Luke 19:43",
+    "connected_from": "Luke 19:41"
+  },
+  {
+    "text": "For the days will come upon you, and your enemies will cast around you a barricade, and they will surround you and will hem you in on every side.",
+    "reference": "Luke 19:43 (BLB)",
+    "connected_to": "Luke 19:44",
+    "connected_from": "Luke 19:42"
+  },
+  {
+    "text": "And they will level you to the ground, and your children in you, and they will not leave a stone upon a stone in you, because you did not know the season of your visitation.”",
+    "reference": "Luke 19:44 (BLB)",
+    "connected_to": "Luke 19:45",
+    "connected_from": "Luke 19:43"
+  },
+  {
+    "text": "And having entered into the temple, He began to cast out those selling,",
+    "reference": "Luke 19:45 (BLB)",
+    "connected_to": "Luke 19:46",
+    "connected_from": "Luke 19:44"
+  },
+  {
+    "text": "saying to them, “It has been written: ‘And My house will be a house of prayer.’ But you⁺ made it ‘a den of robbers.’”",
+    "reference": "Luke 19:46 (BLB)",
+    "connected_to": "Luke 19:47",
+    "connected_from": "Luke 19:45"
+  },
+  {
+    "text": "And He was teaching every day in the temple. But the chief priests and the scribes and the foremost of the people were seeking to destroy Him.",
+    "reference": "Luke 19:47 (BLB)",
+    "connected_to": "Luke 19:48",
+    "connected_from": "Luke 19:46"
+  },
+  {
+    "text": "And they were not finding what they might do; for all the people were hanging on Him, hearing.",
+    "reference": "Luke 19:48 (BLB)",
+    "connected_from": "Luke 19:47"
+  }
+]

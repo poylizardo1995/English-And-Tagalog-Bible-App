@@ -1,0 +1,174 @@
+[
+  {
+    "text": "Then Job answered , and said:",
+    "reference": "Job 19:1 (DRB)",
+    "connected_to": "Job 19:2"
+  },
+  {
+    "text": "How long do you afflict my soul, and break me in pieces with words?",
+    "reference": "Job 19:2 (DRB)",
+    "connected_to": "Job 19:3",
+    "connected_from": "Job 19:1"
+  },
+  {
+    "text": "Behold, these ten times you confound me, and are not ashamed to oppress me.",
+    "reference": "Job 19:3 (DRB)",
+    "connected_to": "Job 19:4",
+    "connected_from": "Job 19:2"
+  },
+  {
+    "text": "For if I have been ignorant, my ignorance shall be with me.",
+    "reference": "Job 19:4 (DRB)",
+    "connected_to": "Job 19:5",
+    "connected_from": "Job 19:3"
+  },
+  {
+    "text": "But you have set yourselves up against me, and reprove me with my reproaches.",
+    "reference": "Job 19:5 (DRB)",
+    "connected_to": "Job 19:6",
+    "connected_from": "Job 19:4"
+  },
+  {
+    "text": "At least now understand, that God hath not afflicted me with an equal judgment, and compassed me with his scourges.",
+    "reference": "Job 19:6 (DRB)",
+    "connected_to": "Job 19:7",
+    "connected_from": "Job 19:5"
+  },
+  {
+    "text": "Behold I cry suffering violence, and no one will hear: I shall cry aloud, and there is none to judge.",
+    "reference": "Job 19:7 (DRB)",
+    "connected_to": "Job 19:8",
+    "connected_from": "Job 19:6"
+  },
+  {
+    "text": "He hath hedged in my path round about, and I cannot pass, and in my way he hath set darkness.",
+    "reference": "Job 19:8 (DRB)",
+    "connected_to": "Job 19:9",
+    "connected_from": "Job 19:7"
+  },
+  {
+    "text": "He hath stripped me of my glory, and hath taken the crown from my head.",
+    "reference": "Job 19:9 (DRB)",
+    "connected_to": "Job 19:10",
+    "connected_from": "Job 19:8"
+  },
+  {
+    "text": "He hath destroyed me on every side, and I am lost, and he hath taken away my hope, as from a tree that is plucked up.",
+    "reference": "Job 19:10 (DRB)",
+    "connected_to": "Job 19:11",
+    "connected_from": "Job 19:9"
+  },
+  {
+    "text": "His wrath is kindled against me, and he hath counted me as his enemy.",
+    "reference": "Job 19:11 (DRB)",
+    "connected_to": "Job 19:12",
+    "connected_from": "Job 19:10"
+  },
+  {
+    "text": "His troops have come together, and have made themselves a way by me, and have besieged my tabernacle round about.",
+    "reference": "Job 19:12 (DRB)",
+    "connected_to": "Job 19:13",
+    "connected_from": "Job 19:11"
+  },
+  {
+    "text": "He hath put my brethren far from me, and my acquaintance like strangers have departed from me.",
+    "reference": "Job 19:13 (DRB)",
+    "connected_to": "Job 19:14",
+    "connected_from": "Job 19:12"
+  },
+  {
+    "text": "My kinsmen have forsaken me, and they that knew me, have forgotten me.",
+    "reference": "Job 19:14 (DRB)",
+    "connected_to": "Job 19:15",
+    "connected_from": "Job 19:13"
+  },
+  {
+    "text": "They that dwelt in my house, and my maidservants have counted me a stranger, and I have been like an alien in their eyes.",
+    "reference": "Job 19:15 (DRB)",
+    "connected_to": "Job 19:16",
+    "connected_from": "Job 19:14"
+  },
+  {
+    "text": "I called my servant, and he gave me no answer, I entreated him with my own mouth.",
+    "reference": "Job 19:16 (DRB)",
+    "connected_to": "Job 19:17",
+    "connected_from": "Job 19:15"
+  },
+  {
+    "text": "My wife hath abhorred my breath, and I entreated the children of my womb.",
+    "reference": "Job 19:17 (DRB)",
+    "connected_to": "Job 19:18",
+    "connected_from": "Job 19:16"
+  },
+  {
+    "text": "Even fools despise me; and when I gone from them, they spoke against me.",
+    "reference": "Job 19:18 (DRB)",
+    "connected_to": "Job 19:19",
+    "connected_from": "Job 19:17"
+  },
+  {
+    "text": "They that were sometime my counsellors, have abhorred me: and he whom I love most is turned against me.",
+    "reference": "Job 19:19 (DRB)",
+    "connected_to": "Job 19:20",
+    "connected_from": "Job 19:18"
+  },
+  {
+    "text": "The flesh being consumed. My bone hath cleaved to my skin, and nothing but lips are left about my teeth.",
+    "reference": "Job 19:20 (DRB)",
+    "connected_to": "Job 19:21",
+    "connected_from": "Job 19:19"
+  },
+  {
+    "text": "Have pity on me, have pity on me, at least you my friends, because the hand of the Lord hath touched me.",
+    "reference": "Job 19:21 (DRB)",
+    "connected_to": "Job 19:22",
+    "connected_from": "Job 19:20"
+  },
+  {
+    "text": "Why do you persecute me as God, and glut yourselves with my flesh?",
+    "reference": "Job 19:22 (DRB)",
+    "connected_to": "Job 19:23",
+    "connected_from": "Job 19:21"
+  },
+  {
+    "text": "Who will grant me that my words may be written? Who will grant me that they may be marked down in a book?",
+    "reference": "Job 19:23 (DRB)",
+    "connected_to": "Job 19:24",
+    "connected_from": "Job 19:22"
+  },
+  {
+    "text": "With an iron pen and in a plate of lead, or else be graven with an instrument in flint stone.",
+    "reference": "Job 19:24 (DRB)",
+    "connected_to": "Job 19:25",
+    "connected_from": "Job 19:23"
+  },
+  {
+    "text": "For I know that my Redeemer liveth, and in the last day I shall rise out of the earth.",
+    "reference": "Job 19:25 (DRB)",
+    "connected_to": "Job 19:26",
+    "connected_from": "Job 19:24"
+  },
+  {
+    "text": "And I shall be clothed again with my skin, and in my flesh I will see my God.",
+    "reference": "Job 19:26 (DRB)",
+    "connected_to": "Job 19:27",
+    "connected_from": "Job 19:25"
+  },
+  {
+    "text": "Whom I myself shall see, and my eyes shall behold, and not another: this my hope is laid up in my bosom.",
+    "reference": "Job 19:27 (DRB)",
+    "connected_to": "Job 19:28",
+    "connected_from": "Job 19:26"
+  },
+  {
+    "text": "Why then do you say now: Let us persecute him, and let us find occasion of word against him?",
+    "reference": "Job 19:28 (DRB)",
+    "connected_to": "Job 19:29",
+    "connected_from": "Job 19:27"
+  },
+  {
+    "text": "Flee then from the face of the sword, for the sword is the revenger of iniquities: and know ye that there is judgment.",
+    "reference": "Job 19:29 (DRB)",
+    "connected_from": "Job 19:28"
+  }
+]

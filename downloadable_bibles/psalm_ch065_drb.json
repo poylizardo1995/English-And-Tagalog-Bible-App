@@ -1,0 +1,78 @@
+[
+  {
+    "text": "To the end, a psalm of David. The canticle of Jeremias and Ezechiel to the people of the captivity, when they began to go out. A Hymn, O God, becometh thee in Sion: and a vow shall be paid to thee in Jerusalem.",
+    "reference": "Psalm 65:1 (DRB)",
+    "connected_to": "Psalm 65:2"
+  },
+  {
+    "text": "O hear my prayer: all flesh shall come to thee.",
+    "reference": "Psalm 65:2 (DRB)",
+    "connected_to": "Psalm 65:3",
+    "connected_from": "Psalm 65:1"
+  },
+  {
+    "text": "The words of the wicked have prevailed over us: and thou wilt pardon our transgressions.",
+    "reference": "Psalm 65:3 (DRB)",
+    "connected_to": "Psalm 65:4",
+    "connected_from": "Psalm 65:2"
+  },
+  {
+    "text": "Blessed is he whom thou hast chosen and taken to thee: he shall dwell in thy courts. We shall be filled with the good things of thy house; holy is thy temple,",
+    "reference": "Psalm 65:4 (DRB)",
+    "connected_to": "Psalm 65:5",
+    "connected_from": "Psalm 65:3"
+  },
+  {
+    "text": "wonderful in justice. Hear us, O God our saviour, who art the hope of all the ends of the earth, and in the sea afar off.",
+    "reference": "Psalm 65:5 (DRB)",
+    "connected_to": "Psalm 65:6",
+    "connected_from": "Psalm 65:4"
+  },
+  {
+    "text": "Thou who preparest the mountains by thy strength, being girded with power:",
+    "reference": "Psalm 65:6 (DRB)",
+    "connected_to": "Psalm 65:7",
+    "connected_from": "Psalm 65:5"
+  },
+  {
+    "text": "who troublest the depth of the sea, the noise of its waves. The Gentiles shall be troubled,",
+    "reference": "Psalm 65:7 (DRB)",
+    "connected_to": "Psalm 65:8",
+    "connected_from": "Psalm 65:6"
+  },
+  {
+    "text": "and they that dwell in the uttermost borders shall be afraid at thy signs: thou shalt make the outgoings of the morning and of the evening to be joyful.",
+    "reference": "Psalm 65:8 (DRB)",
+    "connected_to": "Psalm 65:9",
+    "connected_from": "Psalm 65:7"
+  },
+  {
+    "text": "Thou hast visited the earth, and hast plentifully watered it; thou hast many ways enriched it. The river of God is filled with water, thou hast prepared their food: for so is its preparation.",
+    "reference": "Psalm 65:9 (DRB)",
+    "connected_to": "Psalm 65:10",
+    "connected_from": "Psalm 65:8"
+  },
+  {
+    "text": "Fill up plentifully the streams thereof, multiply its fruits; it shall spring up and rejoice in its showers.",
+    "reference": "Psalm 65:10 (DRB)",
+    "connected_to": "Psalm 65:11",
+    "connected_from": "Psalm 65:9"
+  },
+  {
+    "text": "Thou shalt bless the crown of the year of thy goodness: and thy fields shall be filled with plenty.",
+    "reference": "Psalm 65:11 (DRB)",
+    "connected_to": "Psalm 65:12",
+    "connected_from": "Psalm 65:10"
+  },
+  {
+    "text": "The beautiful places of the wilderness shall grow fat: and the hills shall be girded about with joy,",
+    "reference": "Psalm 65:12 (DRB)",
+    "connected_to": "Psalm 65:13",
+    "connected_from": "Psalm 65:11"
+  },
+  {
+    "text": "The rams of the flock are clothed, and the vales shall abound with corn: they shall shout, yea they shall sing a hymn.",
+    "reference": "Psalm 65:13 (DRB)",
+    "connected_from": "Psalm 65:12"
+  }
+]

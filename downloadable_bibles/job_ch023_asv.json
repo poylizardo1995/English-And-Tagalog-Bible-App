@@ -1,0 +1,102 @@
+[
+  {
+    "text": "Then Job answered and said,",
+    "reference": "Job 23:1 (ASV)",
+    "connected_to": "Job 23:2"
+  },
+  {
+    "text": "Even to-day is my complaint rebellious: My stroke is heavier than my groaning.",
+    "reference": "Job 23:2 (ASV)",
+    "connected_to": "Job 23:3",
+    "connected_from": "Job 23:1"
+  },
+  {
+    "text": "Oh that I knew where I might find him! That I might come even to his seat!",
+    "reference": "Job 23:3 (ASV)",
+    "connected_to": "Job 23:4",
+    "connected_from": "Job 23:2"
+  },
+  {
+    "text": "I would set my cause in order before him, And fill my mouth with arguments.",
+    "reference": "Job 23:4 (ASV)",
+    "connected_to": "Job 23:5",
+    "connected_from": "Job 23:3"
+  },
+  {
+    "text": "I would know the words which he would answer me, And understand what he would say unto me.",
+    "reference": "Job 23:5 (ASV)",
+    "connected_to": "Job 23:6",
+    "connected_from": "Job 23:4"
+  },
+  {
+    "text": "Would he contend with me in the greatness of his power? Nay; but he would give heed unto me.",
+    "reference": "Job 23:6 (ASV)",
+    "connected_to": "Job 23:7",
+    "connected_from": "Job 23:5"
+  },
+  {
+    "text": "There the upright might reason with him; So should I be delivered for ever from my judge.",
+    "reference": "Job 23:7 (ASV)",
+    "connected_to": "Job 23:8",
+    "connected_from": "Job 23:6"
+  },
+  {
+    "text": "Behold, I go forward, but he is not there; And backward, but I cannot perceive him;",
+    "reference": "Job 23:8 (ASV)",
+    "connected_to": "Job 23:9",
+    "connected_from": "Job 23:7"
+  },
+  {
+    "text": "On the left hand, when he doth work, but I cannot behold him; He hideth himself on the right hand, that I cannot see him.",
+    "reference": "Job 23:9 (ASV)",
+    "connected_to": "Job 23:10",
+    "connected_from": "Job 23:8"
+  },
+  {
+    "text": "But he knoweth the way that I take; When he hath tried me, I shall come forth as gold.",
+    "reference": "Job 23:10 (ASV)",
+    "connected_to": "Job 23:11",
+    "connected_from": "Job 23:9"
+  },
+  {
+    "text": "My foot hath held fast to his steps; His way have I kept, and turned not aside.",
+    "reference": "Job 23:11 (ASV)",
+    "connected_to": "Job 23:12",
+    "connected_from": "Job 23:10"
+  },
+  {
+    "text": "I have not gone back from the commandment of his lips; I have treasured up the words of his mouth more than my necessary food.",
+    "reference": "Job 23:12 (ASV)",
+    "connected_to": "Job 23:13",
+    "connected_from": "Job 23:11"
+  },
+  {
+    "text": "But he is in one mind, and who can turn him? And what his soul desireth, even that he doeth.",
+    "reference": "Job 23:13 (ASV)",
+    "connected_to": "Job 23:14",
+    "connected_from": "Job 23:12"
+  },
+  {
+    "text": "For he performeth that which is appointed for me: And many such things are with him.",
+    "reference": "Job 23:14 (ASV)",
+    "connected_to": "Job 23:15",
+    "connected_from": "Job 23:13"
+  },
+  {
+    "text": "Therefore am I terrified at his presence; When I consider, I am afraid of him.",
+    "reference": "Job 23:15 (ASV)",
+    "connected_to": "Job 23:16",
+    "connected_from": "Job 23:14"
+  },
+  {
+    "text": "For God hath made my heart faint, And the Almighty hath terrified me;",
+    "reference": "Job 23:16 (ASV)",
+    "connected_to": "Job 23:17",
+    "connected_from": "Job 23:15"
+  },
+  {
+    "text": "Because I was not cut off before the darkness, Neither did he cover the thick darkness from my face.",
+    "reference": "Job 23:17 (ASV)",
+    "connected_from": "Job 23:16"
+  }
+]

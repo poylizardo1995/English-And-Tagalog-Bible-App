@@ -1,0 +1,42 @@
+[
+  {
+    "text": "For the one directing. Of David. <span class=|reftext|><a href=|#|><b>1</b></a> The fool says in his heart, “There is no God.” They are corrupt; they have done abominable deeds; there is no one doing good.",
+    "reference": "Psalm 14:1 (BLB)",
+    "connected_to": "Psalm 14:2"
+  },
+  {
+    "text": "YHWH looks down from the heavens upon the sons of man, to see, is there one understanding, seeking God?",
+    "reference": "Psalm 14:2 (BLB)",
+    "connected_to": "Psalm 14:3",
+    "connected_from": "Psalm 14:1"
+  },
+  {
+    "text": "All have turned aside, together they have become corrupt; there is no one doing good, not even one.",
+    "reference": "Psalm 14:3 (BLB)",
+    "connected_to": "Psalm 14:4",
+    "connected_from": "Psalm 14:2"
+  },
+  {
+    "text": "All those working iniquity, have they not know? They devour my people they have eaten bread; on YHWH they do not call.",
+    "reference": "Psalm 14:4 (BLB)",
+    "connected_to": "Psalm 14:5",
+    "connected_from": "Psalm 14:3"
+  },
+  {
+    "text": "There they tremble with dread, for God [is] in the generation of the righteous.",
+    "reference": "Psalm 14:5 (BLB)",
+    "connected_to": "Psalm 14:6",
+    "connected_from": "Psalm 14:4"
+  },
+  {
+    "text": "The counsel of the poor you⁺ have shamed, for YHWH [is] his place of refuge.",
+    "reference": "Psalm 14:6 (BLB)",
+    "connected_to": "Psalm 14:7",
+    "connected_from": "Psalm 14:5"
+  },
+  {
+    "text": "Who gives from Zion the salvation of Israel? In YHWH turning back the captivity of His people, let Jacob rejoice; let Israel be glad!",
+    "reference": "Psalm 14:7 (BLB)",
+    "connected_from": "Psalm 14:6"
+  }
+]

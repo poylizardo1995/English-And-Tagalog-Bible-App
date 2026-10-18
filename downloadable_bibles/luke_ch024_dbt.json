@@ -1,0 +1,318 @@
+[
+  {
+    "text": "But on the morrow of the sabbath, very early indeed in the morning, they came to the tomb, bringing the aromatic spices which they had prepared.",
+    "reference": "Luke 24:1 (DBT)",
+    "connected_to": "Luke 24:2"
+  },
+  {
+    "text": "And they found the stone rolled away from the sepulchre.",
+    "reference": "Luke 24:2 (DBT)",
+    "connected_to": "Luke 24:3",
+    "connected_from": "Luke 24:1"
+  },
+  {
+    "text": "And when they had entered they found not the body of the Lord Jesus.",
+    "reference": "Luke 24:3 (DBT)",
+    "connected_to": "Luke 24:4",
+    "connected_from": "Luke 24:2"
+  },
+  {
+    "text": "And it came to pass as they were in perplexity about it, that behold, two men suddenly stood by them in shining raiment.",
+    "reference": "Luke 24:4 (DBT)",
+    "connected_to": "Luke 24:5",
+    "connected_from": "Luke 24:3"
+  },
+  {
+    "text": "And as they were filled with fear and bowed their faces to the ground, they said to them, Why seek ye the living one among the dead?",
+    "reference": "Luke 24:5 (DBT)",
+    "connected_to": "Luke 24:6",
+    "connected_from": "Luke 24:4"
+  },
+  {
+    "text": "He is not here, but is risen: remember how he spoke to you, being yet in Galilee,",
+    "reference": "Luke 24:6 (DBT)",
+    "connected_to": "Luke 24:7",
+    "connected_from": "Luke 24:5"
+  },
+  {
+    "text": "saying, The Son of man must be delivered up into the hands of sinners, and be crucified, and rise the third day.",
+    "reference": "Luke 24:7 (DBT)",
+    "connected_to": "Luke 24:8",
+    "connected_from": "Luke 24:6"
+  },
+  {
+    "text": "And they remembered his words;",
+    "reference": "Luke 24:8 (DBT)",
+    "connected_to": "Luke 24:9",
+    "connected_from": "Luke 24:7"
+  },
+  {
+    "text": "and, returning from the sepulchre, related all these things to the eleven and to all the rest.",
+    "reference": "Luke 24:9 (DBT)",
+    "connected_to": "Luke 24:10",
+    "connected_from": "Luke 24:8"
+  },
+  {
+    "text": "Now it was Mary of Magdala, and Johanna, and Mary the [mother] of James, and the others with them, who told these things to the apostles.",
+    "reference": "Luke 24:10 (DBT)",
+    "connected_to": "Luke 24:11",
+    "connected_from": "Luke 24:9"
+  },
+  {
+    "text": "And their words appeared in their eyes as an idle tale, and they disbelieved them.",
+    "reference": "Luke 24:11 (DBT)",
+    "connected_to": "Luke 24:12",
+    "connected_from": "Luke 24:10"
+  },
+  {
+    "text": "But Peter, rising up, ran to the sepulchre, and stooping down he sees the linen clothes lying there alone, and went away home, wondering at what had happened.",
+    "reference": "Luke 24:12 (DBT)",
+    "connected_to": "Luke 24:13",
+    "connected_from": "Luke 24:11"
+  },
+  {
+    "text": "And behold, two of them were going on the same day to a village distant sixty stadia from Jerusalem, called Emmaus;",
+    "reference": "Luke 24:13 (DBT)",
+    "connected_to": "Luke 24:14",
+    "connected_from": "Luke 24:12"
+  },
+  {
+    "text": "and they conversed with one another about all these things which had taken place.",
+    "reference": "Luke 24:14 (DBT)",
+    "connected_to": "Luke 24:15",
+    "connected_from": "Luke 24:13"
+  },
+  {
+    "text": "And it came to pass as they conversed and reasoned, that Jesus himself drawing nigh, went with them;",
+    "reference": "Luke 24:15 (DBT)",
+    "connected_to": "Luke 24:16",
+    "connected_from": "Luke 24:14"
+  },
+  {
+    "text": "but their eyes were holden so as not to know him.",
+    "reference": "Luke 24:16 (DBT)",
+    "connected_to": "Luke 24:17",
+    "connected_from": "Luke 24:15"
+  },
+  {
+    "text": "And he said to them, What discourses are these which pass between you as ye walk, and are downcast?",
+    "reference": "Luke 24:17 (DBT)",
+    "connected_to": "Luke 24:18",
+    "connected_from": "Luke 24:16"
+  },
+  {
+    "text": "And one [of them], named Cleopas, answering said to him, Thou sojournest alone in Jerusalem, and dost not know what has taken place in it in these days?",
+    "reference": "Luke 24:18 (DBT)",
+    "connected_to": "Luke 24:19",
+    "connected_from": "Luke 24:17"
+  },
+  {
+    "text": "And he said to them, What things? And they said to him, The things concerning Jesus the Nazaraean, who was a prophet mighty in deed and word before God and all the people;",
+    "reference": "Luke 24:19 (DBT)",
+    "connected_to": "Luke 24:20",
+    "connected_from": "Luke 24:18"
+  },
+  {
+    "text": "and how the chief priests and our rulers delivered him up to [the] judgment of death and crucified him.",
+    "reference": "Luke 24:20 (DBT)",
+    "connected_to": "Luke 24:21",
+    "connected_from": "Luke 24:19"
+  },
+  {
+    "text": "But we had hoped that he was [the one] who is about to redeem Israel. But then, besides all these things, it is now, to-day, the third day since these things took place.",
+    "reference": "Luke 24:21 (DBT)",
+    "connected_to": "Luke 24:22",
+    "connected_from": "Luke 24:20"
+  },
+  {
+    "text": "And withal, certain women from amongst us astonished us, having been very early at the sepulchre,",
+    "reference": "Luke 24:22 (DBT)",
+    "connected_to": "Luke 24:23",
+    "connected_from": "Luke 24:21"
+  },
+  {
+    "text": "and, not having found his body, came, saying that they also had seen a vision of angels, who say that he is living.",
+    "reference": "Luke 24:23 (DBT)",
+    "connected_to": "Luke 24:24",
+    "connected_from": "Luke 24:22"
+  },
+  {
+    "text": "And some of those with us went to the sepulchre, and found it so, as the women also had said, but him they saw not.",
+    "reference": "Luke 24:24 (DBT)",
+    "connected_to": "Luke 24:25",
+    "connected_from": "Luke 24:23"
+  },
+  {
+    "text": "And he said to them, O senseless and slow of heart to believe in all that the prophets have spoken!",
+    "reference": "Luke 24:25 (DBT)",
+    "connected_to": "Luke 24:26",
+    "connected_from": "Luke 24:24"
+  },
+  {
+    "text": "Ought not the Christ to have suffered these things and to enter into his glory?",
+    "reference": "Luke 24:26 (DBT)",
+    "connected_to": "Luke 24:27",
+    "connected_from": "Luke 24:25"
+  },
+  {
+    "text": "And having begun from Moses and from all the prophets, he interpreted to them in all the scriptures the things concerning himself.",
+    "reference": "Luke 24:27 (DBT)",
+    "connected_to": "Luke 24:28",
+    "connected_from": "Luke 24:26"
+  },
+  {
+    "text": "And they drew near to the village where they were going, and he made as though he would go farther.",
+    "reference": "Luke 24:28 (DBT)",
+    "connected_to": "Luke 24:29",
+    "connected_from": "Luke 24:27"
+  },
+  {
+    "text": "And they constrained him, saying, Stay with us, for it is toward evening and the day is declining. And he entered in to stay with them.",
+    "reference": "Luke 24:29 (DBT)",
+    "connected_to": "Luke 24:30",
+    "connected_from": "Luke 24:28"
+  },
+  {
+    "text": "And it came to pass as he was at table with them, having taken the bread, he blessed, and having broken it, gave it to them.",
+    "reference": "Luke 24:30 (DBT)",
+    "connected_to": "Luke 24:31",
+    "connected_from": "Luke 24:29"
+  },
+  {
+    "text": "And their eyes were opened, and they recognised him. And he disappeared from them.",
+    "reference": "Luke 24:31 (DBT)",
+    "connected_to": "Luke 24:32",
+    "connected_from": "Luke 24:30"
+  },
+  {
+    "text": "And they said to one another, Was not our heart burning in us as he spoke to us on the way, [and] as he opened the scriptures to us?",
+    "reference": "Luke 24:32 (DBT)",
+    "connected_to": "Luke 24:33",
+    "connected_from": "Luke 24:31"
+  },
+  {
+    "text": "And rising up the same hour, they returned to Jerusalem. And they found the eleven, and those with them, gathered together,",
+    "reference": "Luke 24:33 (DBT)",
+    "connected_to": "Luke 24:34",
+    "connected_from": "Luke 24:32"
+  },
+  {
+    "text": "saying, The Lord is indeed risen and has appeared to Simon.",
+    "reference": "Luke 24:34 (DBT)",
+    "connected_to": "Luke 24:35",
+    "connected_from": "Luke 24:33"
+  },
+  {
+    "text": "And they related what [had happened] on the way, and how he was made known to them in the breaking of bread.",
+    "reference": "Luke 24:35 (DBT)",
+    "connected_to": "Luke 24:36",
+    "connected_from": "Luke 24:34"
+  },
+  {
+    "text": "And as they were saying these things, he himself stood in their midst, and says to them, Peace [be] unto you.",
+    "reference": "Luke 24:36 (DBT)",
+    "connected_to": "Luke 24:37",
+    "connected_from": "Luke 24:35"
+  },
+  {
+    "text": "But they, being confounded and being frightened, supposed they beheld a spirit.",
+    "reference": "Luke 24:37 (DBT)",
+    "connected_to": "Luke 24:38",
+    "connected_from": "Luke 24:36"
+  },
+  {
+    "text": "And he said to them, Why are ye troubled? and why are thoughts rising in your hearts?",
+    "reference": "Luke 24:38 (DBT)",
+    "connected_to": "Luke 24:39",
+    "connected_from": "Luke 24:37"
+  },
+  {
+    "text": "behold my hands and my feet, that it is I myself. Handle me and see, for a spirit has not flesh and bones as ye see me having.",
+    "reference": "Luke 24:39 (DBT)",
+    "connected_to": "Luke 24:40",
+    "connected_from": "Luke 24:38"
+  },
+  {
+    "text": "And having said this he shewed them his hands and his feet.",
+    "reference": "Luke 24:40 (DBT)",
+    "connected_to": "Luke 24:41",
+    "connected_from": "Luke 24:39"
+  },
+  {
+    "text": "But while they yet did not believe for joy, and were wondering, he said to them, Have ye anything here to eat?",
+    "reference": "Luke 24:41 (DBT)",
+    "connected_to": "Luke 24:42",
+    "connected_from": "Luke 24:40"
+  },
+  {
+    "text": "And they gave him part of a broiled fish and of a honeycomb;",
+    "reference": "Luke 24:42 (DBT)",
+    "connected_to": "Luke 24:43",
+    "connected_from": "Luke 24:41"
+  },
+  {
+    "text": "and he took it and ate before them.",
+    "reference": "Luke 24:43 (DBT)",
+    "connected_to": "Luke 24:44",
+    "connected_from": "Luke 24:42"
+  },
+  {
+    "text": "And he said to them, These [are] the words which I spoke to you while I was yet with you, that all that is written concerning me in the law of Moses and prophets and psalms must be fulfilled.",
+    "reference": "Luke 24:44 (DBT)",
+    "connected_to": "Luke 24:45",
+    "connected_from": "Luke 24:43"
+  },
+  {
+    "text": "Then he opened their understanding to understand the scriptures,",
+    "reference": "Luke 24:45 (DBT)",
+    "connected_to": "Luke 24:46",
+    "connected_from": "Luke 24:44"
+  },
+  {
+    "text": "and said to them, Thus it is written, and thus it behoved the Christ to suffer, and to rise from among the dead the third day;",
+    "reference": "Luke 24:46 (DBT)",
+    "connected_to": "Luke 24:47",
+    "connected_from": "Luke 24:45"
+  },
+  {
+    "text": "and that repentance and remission of sins should be preached in his name to all the nations beginning at Jerusalem.",
+    "reference": "Luke 24:47 (DBT)",
+    "connected_to": "Luke 24:48",
+    "connected_from": "Luke 24:46"
+  },
+  {
+    "text": "And ye are witnesses of these things.",
+    "reference": "Luke 24:48 (DBT)",
+    "connected_to": "Luke 24:49",
+    "connected_from": "Luke 24:47"
+  },
+  {
+    "text": "And behold, I send the promise of my Father upon you; but do ye remain in the city till ye be clothed with power from on high.",
+    "reference": "Luke 24:49 (DBT)",
+    "connected_to": "Luke 24:50",
+    "connected_from": "Luke 24:48"
+  },
+  {
+    "text": "And he led them out as far as Bethany, and having lifted up his hands, he blessed them.",
+    "reference": "Luke 24:50 (DBT)",
+    "connected_to": "Luke 24:51",
+    "connected_from": "Luke 24:49"
+  },
+  {
+    "text": "And it came to pass as he was blessing them, he was separated from them and was carried up into heaven.",
+    "reference": "Luke 24:51 (DBT)",
+    "connected_to": "Luke 24:52",
+    "connected_from": "Luke 24:50"
+  },
+  {
+    "text": "And they, having done him homage, returned to Jerusalem with great joy,",
+    "reference": "Luke 24:52 (DBT)",
+    "connected_to": "Luke 24:53",
+    "connected_from": "Luke 24:51"
+  },
+  {
+    "text": "and were continually in the temple praising and blessing God.",
+    "reference": "Luke 24:53 (DBT)",
+    "connected_from": "Luke 24:52"
+  }
+]

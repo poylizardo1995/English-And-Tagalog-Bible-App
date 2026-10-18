@@ -1,0 +1,66 @@
+[
+  {
+    "text": "Michtam of David.  Keep me, O God; for I have taken refuge in Thee.",
+    "reference": "Psalm 16:1 (JPS)",
+    "connected_to": "Psalm 16:2"
+  },
+  {
+    "text": "I have said unto the LORD: ‘Thou art my Lord; I have no good but in Thee’;",
+    "reference": "Psalm 16:2 (JPS)",
+    "connected_to": "Psalm 16:3",
+    "connected_from": "Psalm 16:1"
+  },
+  {
+    "text": "As for the holy that are in the earth, They are the excellent in whom is all my delight.",
+    "reference": "Psalm 16:3 (JPS)",
+    "connected_to": "Psalm 16:4",
+    "connected_from": "Psalm 16:2"
+  },
+  {
+    "text": "Let the idols of them be multiplied that make suit unto another; Their drink-offerings of blood will I not offer, Nor take their names upon my lips.",
+    "reference": "Psalm 16:4 (JPS)",
+    "connected_to": "Psalm 16:5",
+    "connected_from": "Psalm 16:3"
+  },
+  {
+    "text": "O LORD, the portion of mine inheritance and of my cup, Thou maintainest my lot.",
+    "reference": "Psalm 16:5 (JPS)",
+    "connected_to": "Psalm 16:6",
+    "connected_from": "Psalm 16:4"
+  },
+  {
+    "text": "The lines are fallen unto me in pleasant places; Yea, I have a goodly heritage.",
+    "reference": "Psalm 16:6 (JPS)",
+    "connected_to": "Psalm 16:7",
+    "connected_from": "Psalm 16:5"
+  },
+  {
+    "text": "I will bless the LORD, who hath given me counsel; Yea, in the night seasons my reins instruct me.",
+    "reference": "Psalm 16:7 (JPS)",
+    "connected_to": "Psalm 16:8",
+    "connected_from": "Psalm 16:6"
+  },
+  {
+    "text": "I have set the LORD always before me; Surely He is at my right hand, I shall not be moved.",
+    "reference": "Psalm 16:8 (JPS)",
+    "connected_to": "Psalm 16:9",
+    "connected_from": "Psalm 16:7"
+  },
+  {
+    "text": "Therefore my heart is glad, and my glory rejoiceth; my flesh also dwelleth in safety;",
+    "reference": "Psalm 16:9 (JPS)",
+    "connected_to": "Psalm 16:10",
+    "connected_from": "Psalm 16:8"
+  },
+  {
+    "text": "For Thou wilt not abandon my soul to the nether-world; Neither wilt Thou suffer Thy godly one to see the pit.",
+    "reference": "Psalm 16:10 (JPS)",
+    "connected_to": "Psalm 16:11",
+    "connected_from": "Psalm 16:9"
+  },
+  {
+    "text": "Thou makest me to know the path of life; In Thy presence is fulness of joy, In Thy right hand bliss for evermore.",
+    "reference": "Psalm 16:11 (JPS)",
+    "connected_from": "Psalm 16:10"
+  }
+]

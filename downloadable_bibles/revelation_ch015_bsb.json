@@ -1,0 +1,48 @@
+[
+  {
+    "text": "Then I saw another great and marvelous sign in heaven: seven angels with the seven final plagues, with which the wrath of God is completed.",
+    "reference": "Revelation 15:1 (BSB)",
+    "connected_to": "Revelation 15:2"
+  },
+  {
+    "text": "And I saw something like a sea of glass mixed with fire, beside which stood those who had conquered the beast and its image and the number of its name. They were holding harps from God,",
+    "reference": "Revelation 15:2 (BSB)",
+    "connected_to": "Revelation 15:3",
+    "connected_from": "Revelation 15:1"
+  },
+  {
+    "text": "and they sang the song of God’s servant Moses and of the Lamb: “Great and wonderful are Your works, O Lord God Almighty! Just and true are Your ways, O King of the nations!",
+    "reference": "Revelation 15:3 (BSB)",
+    "connected_to": "Revelation 15:4",
+    "connected_from": "Revelation 15:2"
+  },
+  {
+    "text": "Who will not fear You, O Lord, and glorify Your name? For You alone are holy. All nations will come and worship before You, for Your righteous acts have been revealed.”",
+    "reference": "Revelation 15:4 (BSB)",
+    "connected_to": "Revelation 15:5",
+    "connected_from": "Revelation 15:3"
+  },
+  {
+    "text": "After this I looked, and the temple—the tabernacle of the Testimony—was opened in heaven.",
+    "reference": "Revelation 15:5 (BSB)",
+    "connected_to": "Revelation 15:6",
+    "connected_from": "Revelation 15:4"
+  },
+  {
+    "text": "And out of the temple came the seven angels with the seven plagues, dressed in clean and bright linen and girded with golden sashes around their chests.",
+    "reference": "Revelation 15:6 (BSB)",
+    "connected_to": "Revelation 15:7",
+    "connected_from": "Revelation 15:5"
+  },
+  {
+    "text": "Then one of the four living creatures gave the seven angels seven golden bowls full of the wrath of God, who lives forever and ever.",
+    "reference": "Revelation 15:7 (BSB)",
+    "connected_to": "Revelation 15:8",
+    "connected_from": "Revelation 15:6"
+  },
+  {
+    "text": "And the temple was filled with smoke from the glory of God and from His power; and no one could enter the temple until the seven plagues of the seven angels were completed.",
+    "reference": "Revelation 15:8 (BSB)",
+    "connected_from": "Revelation 15:7"
+  }
+]

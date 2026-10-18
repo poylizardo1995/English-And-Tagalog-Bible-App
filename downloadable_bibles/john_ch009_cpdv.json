@@ -1,0 +1,246 @@
+[
+  {
+    "text": "And Jesus, while passing by, saw a man blind from birth.",
+    "reference": "John 9:1 (CPDV)",
+    "connected_to": "John 9:2"
+  },
+  {
+    "text": "And his disciples asked him, “Rabbi, who sinned, this man or his parents, that he would be born blind?”",
+    "reference": "John 9:2 (CPDV)",
+    "connected_to": "John 9:3",
+    "connected_from": "John 9:1"
+  },
+  {
+    "text": "Jesus responded: “Neither this man nor his parents sinned, but it was so that the works of God would be made manifest in him.",
+    "reference": "John 9:3 (CPDV)",
+    "connected_to": "John 9:4",
+    "connected_from": "John 9:2"
+  },
+  {
+    "text": "I must work the works of him who sent me, while it is day: the night is coming, when no one is able to work.",
+    "reference": "John 9:4 (CPDV)",
+    "connected_to": "John 9:5",
+    "connected_from": "John 9:3"
+  },
+  {
+    "text": "As long as I am in the world, I am the light of the world.”",
+    "reference": "John 9:5 (CPDV)",
+    "connected_to": "John 9:6",
+    "connected_from": "John 9:4"
+  },
+  {
+    "text": "When he had said these things, he spat on the ground, and he made clay from the spittle, and he smeared the clay over his eyes.",
+    "reference": "John 9:6 (CPDV)",
+    "connected_to": "John 9:7",
+    "connected_from": "John 9:5"
+  },
+  {
+    "text": "And he said to him: “Go, wash in the pool of Siloam” (which is translated as: one who has been sent). Therefore, he went away and washed, and he returned, seeing.",
+    "reference": "John 9:7 (CPDV)",
+    "connected_to": "John 9:8",
+    "connected_from": "John 9:6"
+  },
+  {
+    "text": "And so the bystanders and those who had seen him before, when he was a beggar, said, “Is this not the one who was sitting and begging?” Some said, “This is he.”",
+    "reference": "John 9:8 (CPDV)",
+    "connected_to": "John 9:9",
+    "connected_from": "John 9:7"
+  },
+  {
+    "text": "But others said, “Certainly not, but he is similar to him.” Yet truly, he himself said, “I am he.”",
+    "reference": "John 9:9 (CPDV)",
+    "connected_to": "John 9:10",
+    "connected_from": "John 9:8"
+  },
+  {
+    "text": "Therefore, they said to him, “How were your eyes opened?”",
+    "reference": "John 9:10 (CPDV)",
+    "connected_to": "John 9:11",
+    "connected_from": "John 9:9"
+  },
+  {
+    "text": "He responded: “That man who is called Jesus made clay, and he anointed my eyes and said to me, ‘Go to the pool of Siloam and wash.’ And I went, and I washed, and I see.”",
+    "reference": "John 9:11 (CPDV)",
+    "connected_to": "John 9:12",
+    "connected_from": "John 9:10"
+  },
+  {
+    "text": "And they said to him, “Where is he?” He said, “I do not know.”",
+    "reference": "John 9:12 (CPDV)",
+    "connected_to": "John 9:13",
+    "connected_from": "John 9:11"
+  },
+  {
+    "text": "They brought the one who had been blind to the Pharisees.",
+    "reference": "John 9:13 (CPDV)",
+    "connected_to": "John 9:14",
+    "connected_from": "John 9:12"
+  },
+  {
+    "text": "Now it was the Sabbath, when Jesus made the clay and opened his eyes.",
+    "reference": "John 9:14 (CPDV)",
+    "connected_to": "John 9:15",
+    "connected_from": "John 9:13"
+  },
+  {
+    "text": "Therefore, again the Pharisees questioned him as to how he had seen. And he said to them, “He placed clay over my eyes, and I washed, and I see.”",
+    "reference": "John 9:15 (CPDV)",
+    "connected_to": "John 9:16",
+    "connected_from": "John 9:14"
+  },
+  {
+    "text": "And so certain Pharisees said: “This man, who does not keep the Sabbath, is not from God.” But others said, “How could a sinful man accomplish these signs?” And there was a schism among them.",
+    "reference": "John 9:16 (CPDV)",
+    "connected_to": "John 9:17",
+    "connected_from": "John 9:15"
+  },
+  {
+    "text": "Therefore, they spoke again to the blind man, “What do you say about him who opened your eyes?” Then he said, “He is a Prophet.”",
+    "reference": "John 9:17 (CPDV)",
+    "connected_to": "John 9:18",
+    "connected_from": "John 9:16"
+  },
+  {
+    "text": "Therefore, the Jews did not believe, about him, that he had been blind and had seen, until they called the parents of him who had seen.",
+    "reference": "John 9:18 (CPDV)",
+    "connected_to": "John 9:19",
+    "connected_from": "John 9:17"
+  },
+  {
+    "text": "And they questioned them, saying: “Is this your son, whom you say was born blind? Then how is it that he now sees?”",
+    "reference": "John 9:19 (CPDV)",
+    "connected_to": "John 9:20",
+    "connected_from": "John 9:18"
+  },
+  {
+    "text": "His parents responded to them and said: “We know that this is our son and that he was born blind.",
+    "reference": "John 9:20 (CPDV)",
+    "connected_to": "John 9:21",
+    "connected_from": "John 9:19"
+  },
+  {
+    "text": "But how it is that he now sees, we do not know. And who opened his eyes, we do not know. Ask him. He is old enough. Let him speak for himself.”",
+    "reference": "John 9:21 (CPDV)",
+    "connected_to": "John 9:22",
+    "connected_from": "John 9:20"
+  },
+  {
+    "text": "His parents said these things because they were afraid of the Jews. For the Jews had already conspired, so that if anyone were to confess him to be the Christ, he would be expelled from the synagogue.",
+    "reference": "John 9:22 (CPDV)",
+    "connected_to": "John 9:23",
+    "connected_from": "John 9:21"
+  },
+  {
+    "text": "It was for this reason that his parents said: “He is old enough. Ask him.”",
+    "reference": "John 9:23 (CPDV)",
+    "connected_to": "John 9:24",
+    "connected_from": "John 9:22"
+  },
+  {
+    "text": "Therefore, they again called the man who had been blind, and they said to him: “Give glory to God. We know that this man is a sinner.”",
+    "reference": "John 9:24 (CPDV)",
+    "connected_to": "John 9:25",
+    "connected_from": "John 9:23"
+  },
+  {
+    "text": "And so he said to them: “If he is a sinner, I do not know it. One thing I do know, that although I was blind, now I see.”",
+    "reference": "John 9:25 (CPDV)",
+    "connected_to": "John 9:26",
+    "connected_from": "John 9:24"
+  },
+  {
+    "text": "Then they said to him: “What did he do to you? How did he open your eyes?”",
+    "reference": "John 9:26 (CPDV)",
+    "connected_to": "John 9:27",
+    "connected_from": "John 9:25"
+  },
+  {
+    "text": "He answered them: “I have already told you, and you heard it. Why do you want to hear it again? Do you also want to become his disciples?”",
+    "reference": "John 9:27 (CPDV)",
+    "connected_to": "John 9:28",
+    "connected_from": "John 9:26"
+  },
+  {
+    "text": "Therefore, they cursed him and said: “You be his disciple. But we are disciples of Moses.",
+    "reference": "John 9:28 (CPDV)",
+    "connected_to": "John 9:29",
+    "connected_from": "John 9:27"
+  },
+  {
+    "text": "We know that God spoke to Moses. But this man, we do not know where he is from.”",
+    "reference": "John 9:29 (CPDV)",
+    "connected_to": "John 9:30",
+    "connected_from": "John 9:28"
+  },
+  {
+    "text": "The man responded and said to them: “Now in this is a wonder: that you do not know where he is from, and yet he has opened my eyes.",
+    "reference": "John 9:30 (CPDV)",
+    "connected_to": "John 9:31",
+    "connected_from": "John 9:29"
+  },
+  {
+    "text": "And we know that God does not hear sinners. But if anyone is a worshipper of God and does his will, then he heeds him.",
+    "reference": "John 9:31 (CPDV)",
+    "connected_to": "John 9:32",
+    "connected_from": "John 9:30"
+  },
+  {
+    "text": "From ancient times, it has not been heard that anyone has opened the eyes of someone born blind.",
+    "reference": "John 9:32 (CPDV)",
+    "connected_to": "John 9:33",
+    "connected_from": "John 9:31"
+  },
+  {
+    "text": "Unless this man were of God, he would not be able to do any such thing.”",
+    "reference": "John 9:33 (CPDV)",
+    "connected_to": "John 9:34",
+    "connected_from": "John 9:32"
+  },
+  {
+    "text": "They responded and said to him, “You were born entirely in sins, and you would teach us?” And they cast him out.",
+    "reference": "John 9:34 (CPDV)",
+    "connected_to": "John 9:35",
+    "connected_from": "John 9:33"
+  },
+  {
+    "text": "Jesus heard that they had cast him out. And when he had found him, he said to him, “Do you believe in the Son of God?”",
+    "reference": "John 9:35 (CPDV)",
+    "connected_to": "John 9:36",
+    "connected_from": "John 9:34"
+  },
+  {
+    "text": "He responded and said, “Who is he, Lord, so that I may believe in him?”",
+    "reference": "John 9:36 (CPDV)",
+    "connected_to": "John 9:37",
+    "connected_from": "John 9:35"
+  },
+  {
+    "text": "And Jesus said to him, “You have both seen him, and he is the one who is speaking with you.”",
+    "reference": "John 9:37 (CPDV)",
+    "connected_to": "John 9:38",
+    "connected_from": "John 9:36"
+  },
+  {
+    "text": "And he said, “I believe, Lord.” And falling prostrate, he worshipped him.",
+    "reference": "John 9:38 (CPDV)",
+    "connected_to": "John 9:39",
+    "connected_from": "John 9:37"
+  },
+  {
+    "text": "And Jesus said, “I came into this world in judgment, so that those who do not see, may see; and so that those who see, may become blind.”",
+    "reference": "John 9:39 (CPDV)",
+    "connected_to": "John 9:40",
+    "connected_from": "John 9:38"
+  },
+  {
+    "text": "And certain Pharisees, who were with him, heard this, and they said to him, “Are we also blind?”",
+    "reference": "John 9:40 (CPDV)",
+    "connected_to": "John 9:41",
+    "connected_from": "John 9:39"
+  },
+  {
+    "text": "Jesus said to them: “If you were blind, you would not have sin. Yet now you say, ‘We see.’ So your sin persists.”",
+    "reference": "John 9:41 (CPDV)",
+    "connected_from": "John 9:40"
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "text": "Hallelu YAH! For [it is] good to praise our God—how pleasant [and] beautiful [is] praise!",
+    "reference": "Psalm 147:1 (BLB)",
+    "connected_to": "Psalm 147:2"
+  },
+  {
+    "text": "The One building up Jerusalem [is] YHWH, [and] He gathers together the exiles of Israel,",
+    "reference": "Psalm 147:2 (BLB)",
+    "connected_to": "Psalm 147:3",
+    "connected_from": "Psalm 147:1"
+  },
+  {
+    "text": "giving healing to the broken of heart, and binding up their wounds,",
+    "reference": "Psalm 147:3 (BLB)",
+    "connected_to": "Psalm 147:4",
+    "connected_from": "Psalm 147:2"
+  },
+  {
+    "text": "Appointing the number of the stars—for all of them He calls by names.",
+    "reference": "Psalm 147:4 (BLB)",
+    "connected_to": "Psalm 147:5",
+    "connected_from": "Psalm 147:3"
+  },
+  {
+    "text": "Great [is] our Lord, and abundant in power; of His understanding there is no numbering!",
+    "reference": "Psalm 147:5 (BLB)",
+    "connected_to": "Psalm 147:6",
+    "connected_from": "Psalm 147:4"
+  },
+  {
+    "text": "YHWH restores the humble; He casts down the wicked to the ground.",
+    "reference": "Psalm 147:6 (BLB)",
+    "connected_to": "Psalm 147:7",
+    "connected_from": "Psalm 147:5"
+  },
+  {
+    "text": "Sing to YHWH with thanksgiving; make music to our God on the harp,",
+    "reference": "Psalm 147:7 (BLB)",
+    "connected_to": "Psalm 147:8",
+    "connected_from": "Psalm 147:6"
+  },
+  {
+    "text": "[to] the One covering the heavens with clouds, the One preparing rain for the earth, the One making grass sprout on the hills,",
+    "reference": "Psalm 147:8 (BLB)",
+    "connected_to": "Psalm 147:9",
+    "connected_from": "Psalm 147:7"
+  },
+  {
+    "text": "giving to the beast its food, [and] to the young of the ravens that call out.",
+    "reference": "Psalm 147:9 (BLB)",
+    "connected_to": "Psalm 147:10",
+    "connected_from": "Psalm 147:8"
+  },
+  {
+    "text": "He does not delight in the strength of the horse, and not in the legs of the man does He take pleasure.",
+    "reference": "Psalm 147:10 (BLB)",
+    "connected_to": "Psalm 147:11",
+    "connected_from": "Psalm 147:9"
+  },
+  {
+    "text": "YHWH is pleased with those who fear him, those hoping in His loving devotion.",
+    "reference": "Psalm 147:11 (BLB)",
+    "connected_to": "Psalm 147:12",
+    "connected_from": "Psalm 147:10"
+  },
+  {
+    "text": "Exalt, O Jerusalem, YHWH; praise your God, O Zion!",
+    "reference": "Psalm 147:12 (BLB)",
+    "connected_to": "Psalm 147:13",
+    "connected_from": "Psalm 147:11"
+  },
+  {
+    "text": "For He has strengthened the bars of your gates; He has blessed your sons within you.",
+    "reference": "Psalm 147:13 (BLB)",
+    "connected_to": "Psalm 147:14",
+    "connected_from": "Psalm 147:12"
+  },
+  {
+    "text": "The One making peace [for] your border, He satisfies you with the fat of wheat.",
+    "reference": "Psalm 147:14 (BLB)",
+    "connected_to": "Psalm 147:15",
+    "connected_from": "Psalm 147:13"
+  },
+  {
+    "text": "The One sending forth His utterance [to] the earth, how swiftly His word runs!",
+    "reference": "Psalm 147:15 (BLB)",
+    "connected_to": "Psalm 147:16",
+    "connected_from": "Psalm 147:14"
+  },
+  {
+    "text": "The One giving snow like wool, He scatters the frost like ashes,",
+    "reference": "Psalm 147:16 (BLB)",
+    "connected_to": "Psalm 147:17",
+    "connected_from": "Psalm 147:15"
+  },
+  {
+    "text": "casting forth His hail like morsels; before the face of His cold, who can stand?",
+    "reference": "Psalm 147:17 (BLB)",
+    "connected_to": "Psalm 147:18",
+    "connected_from": "Psalm 147:16"
+  },
+  {
+    "text": "He sends out His word and melts them; His wind he makes blow, [and] the waters flow.",
+    "reference": "Psalm 147:18 (BLB)",
+    "connected_to": "Psalm 147:19",
+    "connected_from": "Psalm 147:17"
+  },
+  {
+    "text": "He declares His words to Jacob, His statutes and His judgments to Israel.",
+    "reference": "Psalm 147:19 (BLB)",
+    "connected_to": "Psalm 147:20",
+    "connected_from": "Psalm 147:18"
+  },
+  {
+    "text": "He has not done so for any nation; and His judgments they have not known. Praise YAH!",
+    "reference": "Psalm 147:20 (BLB)",
+    "connected_from": "Psalm 147:19"
+  }
+]

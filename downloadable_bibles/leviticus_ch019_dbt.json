@@ -1,0 +1,222 @@
+[
+  {
+    "text": "And Jehovah spoke to Moses, saying,",
+    "reference": "Leviticus 19:1 (DBT)",
+    "connected_to": "Leviticus 19:2"
+  },
+  {
+    "text": "Speak unto all the assembly of the children of Israel, and say unto them, Holy shall ye be, for I Jehovah your God am holy.",
+    "reference": "Leviticus 19:2 (DBT)",
+    "connected_to": "Leviticus 19:3",
+    "connected_from": "Leviticus 19:1"
+  },
+  {
+    "text": "Ye shall reverence every man his mother, and his father, and my sabbaths shall ye keep: I am Jehovah your God.",
+    "reference": "Leviticus 19:3 (DBT)",
+    "connected_to": "Leviticus 19:4",
+    "connected_from": "Leviticus 19:2"
+  },
+  {
+    "text": "Ye shall not turn unto idols, and ye shall not make to yourselves molten gods: I am Jehovah your God.",
+    "reference": "Leviticus 19:4 (DBT)",
+    "connected_to": "Leviticus 19:5",
+    "connected_from": "Leviticus 19:3"
+  },
+  {
+    "text": "And if ye sacrifice a sacrifice of peace-offering to Jehovah, ye shall sacrifice it for your acceptance.",
+    "reference": "Leviticus 19:5 (DBT)",
+    "connected_to": "Leviticus 19:6",
+    "connected_from": "Leviticus 19:4"
+  },
+  {
+    "text": "On the day when ye sacrifice it shall it be eaten, and on the morrow; and that which remaineth until the third day shall be burned with fire.",
+    "reference": "Leviticus 19:6 (DBT)",
+    "connected_to": "Leviticus 19:7",
+    "connected_from": "Leviticus 19:5"
+  },
+  {
+    "text": "And if it be eaten at all on the third day, it is an unclean thing: it shall not be accepted.",
+    "reference": "Leviticus 19:7 (DBT)",
+    "connected_to": "Leviticus 19:8",
+    "connected_from": "Leviticus 19:6"
+  },
+  {
+    "text": "And he that eateth it shall bear his iniquity; for he hath profaned the hallowed thing of Jehovah; and that soul shall be cut off from among his peoples.",
+    "reference": "Leviticus 19:8 (DBT)",
+    "connected_to": "Leviticus 19:9",
+    "connected_from": "Leviticus 19:7"
+  },
+  {
+    "text": "And when ye reap the harvest of your land, thou shalt not wholly reap the corners of thy field, and the gleaning of thy harvest thou shalt not gather.",
+    "reference": "Leviticus 19:9 (DBT)",
+    "connected_to": "Leviticus 19:10",
+    "connected_from": "Leviticus 19:8"
+  },
+  {
+    "text": "And thy vineyard shalt thou not glean, neither shalt thou gather what hath been left of thy vineyard; thou shalt leave them for the poor and the stranger: I am Jehovah your God.",
+    "reference": "Leviticus 19:10 (DBT)",
+    "connected_to": "Leviticus 19:11",
+    "connected_from": "Leviticus 19:9"
+  },
+  {
+    "text": "Ye shall not steal, and ye shall not deal falsely, and ye shall not lie one to another.",
+    "reference": "Leviticus 19:11 (DBT)",
+    "connected_to": "Leviticus 19:12",
+    "connected_from": "Leviticus 19:10"
+  },
+  {
+    "text": "And ye shall not swear by my name falsely, and profane the name of thy God: I am Jehovah.",
+    "reference": "Leviticus 19:12 (DBT)",
+    "connected_to": "Leviticus 19:13",
+    "connected_from": "Leviticus 19:11"
+  },
+  {
+    "text": "Thou shalt not oppress thy neighbour, neither rob him. The wages of the hired servant shall not abide with thee all night until the morning.",
+    "reference": "Leviticus 19:13 (DBT)",
+    "connected_to": "Leviticus 19:14",
+    "connected_from": "Leviticus 19:12"
+  },
+  {
+    "text": "Thou shalt not revile a deaf person, and thou shalt not put a stumbling-block before a blind one; but thou shalt fear thy God: I am Jehovah.",
+    "reference": "Leviticus 19:14 (DBT)",
+    "connected_to": "Leviticus 19:15",
+    "connected_from": "Leviticus 19:13"
+  },
+  {
+    "text": "Ye shall do no unrighteousness in judgment; thou shalt not respect the person of the lowly, nor honour the person of the great; in righteousness shalt thou judge thy neighbour.",
+    "reference": "Leviticus 19:15 (DBT)",
+    "connected_to": "Leviticus 19:16",
+    "connected_from": "Leviticus 19:14"
+  },
+  {
+    "text": "Thou shalt not go about as a talebearer among thy people; thou shalt not stand up against the life of thy neighbour: I am Jehovah.",
+    "reference": "Leviticus 19:16 (DBT)",
+    "connected_to": "Leviticus 19:17",
+    "connected_from": "Leviticus 19:15"
+  },
+  {
+    "text": "Thou shalt not hate thy brother in thy heart; thou shalt earnestly rebuke thy neighbour, lest thou bear sin on account of him.",
+    "reference": "Leviticus 19:17 (DBT)",
+    "connected_to": "Leviticus 19:18",
+    "connected_from": "Leviticus 19:16"
+  },
+  {
+    "text": "Thou shalt not avenge thyself, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am Jehovah.",
+    "reference": "Leviticus 19:18 (DBT)",
+    "connected_to": "Leviticus 19:19",
+    "connected_from": "Leviticus 19:17"
+  },
+  {
+    "text": "My statutes shall ye observe. Thou shalt not let thy cattle gender with another sort; thou shalt not sow thy field with seed of two sorts; and a garment woven of two materials shall not come upon thee.",
+    "reference": "Leviticus 19:19 (DBT)",
+    "connected_to": "Leviticus 19:20",
+    "connected_from": "Leviticus 19:18"
+  },
+  {
+    "text": "And if a man lie with a woman for copulation, and she is a bondwoman betrothed to a husband, but not at all ransomed, nor hath freedom been given to her, there shall be a chastisement: they shall not be put to death, for she was not free.",
+    "reference": "Leviticus 19:20 (DBT)",
+    "connected_to": "Leviticus 19:21",
+    "connected_from": "Leviticus 19:19"
+  },
+  {
+    "text": "And he shall bring his trespass-offering to Jehovah, unto the entrance of the tent of meeting, a ram for a trespass-offering.",
+    "reference": "Leviticus 19:21 (DBT)",
+    "connected_to": "Leviticus 19:22",
+    "connected_from": "Leviticus 19:20"
+  },
+  {
+    "text": "And the priest shall make atonement for him with the ram of the trespass-offering before Jehovah for his sin which he hath done; and the sin which he hath done shall be forgiven him.",
+    "reference": "Leviticus 19:22 (DBT)",
+    "connected_to": "Leviticus 19:23",
+    "connected_from": "Leviticus 19:21"
+  },
+  {
+    "text": "And when ye come into the land and plant all manner of trees for food, then ye shall count its fruit as uncircumcised, three years shall it be uncircumcised unto you: it shall not be eaten of;",
+    "reference": "Leviticus 19:23 (DBT)",
+    "connected_to": "Leviticus 19:24",
+    "connected_from": "Leviticus 19:22"
+  },
+  {
+    "text": "and in the fourth year all the fruit thereof shall be holy for praise to Jehovah;",
+    "reference": "Leviticus 19:24 (DBT)",
+    "connected_to": "Leviticus 19:25",
+    "connected_from": "Leviticus 19:23"
+  },
+  {
+    "text": "and in the fifth year shall ye eat the fruit thereof, that it may increase unto you the produce thereof: I am Jehovah your God.",
+    "reference": "Leviticus 19:25 (DBT)",
+    "connected_to": "Leviticus 19:26",
+    "connected_from": "Leviticus 19:24"
+  },
+  {
+    "text": "Ye shall eat nothing with the blood.—Ye shall not practise enchantment, nor use auguries.",
+    "reference": "Leviticus 19:26 (DBT)",
+    "connected_to": "Leviticus 19:27",
+    "connected_from": "Leviticus 19:25"
+  },
+  {
+    "text": "ye shall not shave the corners of your head round, neither shalt thou mutilate the corners of thy beard.",
+    "reference": "Leviticus 19:27 (DBT)",
+    "connected_to": "Leviticus 19:28",
+    "connected_from": "Leviticus 19:26"
+  },
+  {
+    "text": "And cuttings for a dead person shall ye not make in your flesh, nor put any tattoo writing upon you: I am Jehovah.",
+    "reference": "Leviticus 19:28 (DBT)",
+    "connected_to": "Leviticus 19:29",
+    "connected_from": "Leviticus 19:27"
+  },
+  {
+    "text": "—Do not profane thy daughter, to give her up to whoredom; lest the land practise whoredom, and the land become full of infamy.",
+    "reference": "Leviticus 19:29 (DBT)",
+    "connected_to": "Leviticus 19:30",
+    "connected_from": "Leviticus 19:28"
+  },
+  {
+    "text": "my sabbaths shall ye keep, And my sanctuary shall ye reverence: I am Jehovah.",
+    "reference": "Leviticus 19:30 (DBT)",
+    "connected_to": "Leviticus 19:31",
+    "connected_from": "Leviticus 19:29"
+  },
+  {
+    "text": "—Turn not unto necromancers and unto soothsayers; seek not after them to make yourselves unclean: I am Jehovah your God.",
+    "reference": "Leviticus 19:31 (DBT)",
+    "connected_to": "Leviticus 19:32",
+    "connected_from": "Leviticus 19:30"
+  },
+  {
+    "text": "Before the hoary head thou shalt rise up, and shalt honour the face of an old man; and thou shalt fear thy God: I am Jehovah.",
+    "reference": "Leviticus 19:32 (DBT)",
+    "connected_to": "Leviticus 19:33",
+    "connected_from": "Leviticus 19:31"
+  },
+  {
+    "text": "And if a stranger sojourn with thee in your land, ye shall not molest him.",
+    "reference": "Leviticus 19:33 (DBT)",
+    "connected_to": "Leviticus 19:34",
+    "connected_from": "Leviticus 19:32"
+  },
+  {
+    "text": "As one born among you shall the stranger who sojourneth with you be unto you; and thou shalt love him as thyself; for ye were strangers in the land of Egypt: I am Jehovah your God.",
+    "reference": "Leviticus 19:34 (DBT)",
+    "connected_to": "Leviticus 19:35",
+    "connected_from": "Leviticus 19:33"
+  },
+  {
+    "text": "Ye shall do no unrighteousness in judgment, in measure of length, in weight, and in measure of capacity:",
+    "reference": "Leviticus 19:35 (DBT)",
+    "connected_to": "Leviticus 19:36",
+    "connected_from": "Leviticus 19:34"
+  },
+  {
+    "text": "just balances, just weights, a just ephah, and a just hin shall ye have: I am Jehovah your God, who brought you out of the land of Egypt.",
+    "reference": "Leviticus 19:36 (DBT)",
+    "connected_to": "Leviticus 19:37",
+    "connected_from": "Leviticus 19:35"
+  },
+  {
+    "text": "And ye shall observe all my statutes, and all mine ordinances, and do them: I am Jehovah.",
+    "reference": "Leviticus 19:37 (DBT)",
+    "connected_from": "Leviticus 19:36"
+  }
+]

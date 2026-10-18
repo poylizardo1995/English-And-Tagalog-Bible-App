@@ -1,0 +1,36 @@
+[
+  {
+    "text": "When the lord brought back the captivity of Sion, we became like men comforted.",
+    "reference": "Psalm 126:1 (DRB)",
+    "connected_to": "Psalm 126:2"
+  },
+  {
+    "text": "Then was our mouth filled with gladness; and our tongue with joy. Then shall they say among the Gentiles: The Lord hath done great things for them.",
+    "reference": "Psalm 126:2 (DRB)",
+    "connected_to": "Psalm 126:3",
+    "connected_from": "Psalm 126:1"
+  },
+  {
+    "text": "The Lord hath done great things for us: we are become joyful.",
+    "reference": "Psalm 126:3 (DRB)",
+    "connected_to": "Psalm 126:4",
+    "connected_from": "Psalm 126:2"
+  },
+  {
+    "text": "Turn again our captivity, O Lord, as a stream in the south.",
+    "reference": "Psalm 126:4 (DRB)",
+    "connected_to": "Psalm 126:5",
+    "connected_from": "Psalm 126:3"
+  },
+  {
+    "text": "They that sow in tears shall reap in joy.",
+    "reference": "Psalm 126:5 (DRB)",
+    "connected_to": "Psalm 126:6",
+    "connected_from": "Psalm 126:4"
+  },
+  {
+    "text": "Going they went and wept, casting their seeds. But coming they shall come with joyfulness, carrying their sheaves.",
+    "reference": "Psalm 126:6 (DRB)",
+    "connected_from": "Psalm 126:5"
+  }
+]

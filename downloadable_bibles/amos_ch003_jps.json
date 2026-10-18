@@ -1,0 +1,90 @@
+[
+  {
+    "text": "Hear this word that the LORD hath spoken against you, O children of Israel, against the whole family which I brought up out of the land of Egypt, saying:",
+    "reference": "Amos 3:1 (JPS)",
+    "connected_to": "Amos 3:2"
+  },
+  {
+    "text": "You only have I known of all the families of the earth; Therefore I will visit upon you all your iniquities.",
+    "reference": "Amos 3:2 (JPS)",
+    "connected_to": "Amos 3:3",
+    "connected_from": "Amos 3:1"
+  },
+  {
+    "text": "Will two walk together, Except they have agreed?",
+    "reference": "Amos 3:3 (JPS)",
+    "connected_to": "Amos 3:4",
+    "connected_from": "Amos 3:2"
+  },
+  {
+    "text": "Will a lion roar in the forest, When he hath no prey? Will a young lion give forth his voice out of his den, If he have taken nothing?",
+    "reference": "Amos 3:4 (JPS)",
+    "connected_to": "Amos 3:5",
+    "connected_from": "Amos 3:3"
+  },
+  {
+    "text": "Will a bird fall in a snare upon the earth, Where there is no lure for it? Will a snare spring up from the ground, And have taken nothing at all?",
+    "reference": "Amos 3:5 (JPS)",
+    "connected_to": "Amos 3:6",
+    "connected_from": "Amos 3:4"
+  },
+  {
+    "text": "Shall the horn be blown in a city, And the people not tremble? Shall evil befall a city, And the LORD hath not done it?",
+    "reference": "Amos 3:6 (JPS)",
+    "connected_to": "Amos 3:7",
+    "connected_from": "Amos 3:5"
+  },
+  {
+    "text": "For the Lord GOD will do nothing, But He revealeth His counsel unto His servants the prophets.",
+    "reference": "Amos 3:7 (JPS)",
+    "connected_to": "Amos 3:8",
+    "connected_from": "Amos 3:6"
+  },
+  {
+    "text": "The lion hath roared, Who will not fear? The Lord GOD hath spoken, Who can but prophesy?",
+    "reference": "Amos 3:8 (JPS)",
+    "connected_to": "Amos 3:9",
+    "connected_from": "Amos 3:7"
+  },
+  {
+    "text": "Proclaim it upon the palaces at Ashdod, And upon the palaces in the land of Egypt, And say: ‘Assemble yourselves upon the mountains of Samaria, And behold the great confusions therein, And the oppressions in the midst thereof.’",
+    "reference": "Amos 3:9 (JPS)",
+    "connected_to": "Amos 3:10",
+    "connected_from": "Amos 3:8"
+  },
+  {
+    "text": "For they know not to do right, saith the LORD, Who store up violence and robbery in their palaces.",
+    "reference": "Amos 3:10 (JPS)",
+    "connected_to": "Amos 3:11",
+    "connected_from": "Amos 3:9"
+  },
+  {
+    "text": "Therefore thus saith the Lord GOD: An adversary, even round about the land! And he shall bring down thy strength from thee, And thy palaces shall be spoiled.",
+    "reference": "Amos 3:11 (JPS)",
+    "connected_to": "Amos 3:12",
+    "connected_from": "Amos 3:10"
+  },
+  {
+    "text": "Thus saith the LORD:  As the shepherd rescueth out of the mouth of the lion Two legs, or a piece of an ear, So shall the children of Israel that dwell in Samaria Escape with the corner of a couch, and the leg of a bed.",
+    "reference": "Amos 3:12 (JPS)",
+    "connected_to": "Amos 3:13",
+    "connected_from": "Amos 3:11"
+  },
+  {
+    "text": "Hear ye, and testify against the house of Jacob, Saith the Lord GOD, the God of hosts.",
+    "reference": "Amos 3:13 (JPS)",
+    "connected_to": "Amos 3:14",
+    "connected_from": "Amos 3:12"
+  },
+  {
+    "text": "For in the day that I shall visit the transgressions of Israel upon him, I will also punish the altars of Beth-el, And the horns of the altar shall be cut off, And fall to the ground.",
+    "reference": "Amos 3:14 (JPS)",
+    "connected_to": "Amos 3:15",
+    "connected_from": "Amos 3:13"
+  },
+  {
+    "text": "And I will smite the winter-house with the summer-house; And the houses of ivory shall perish, And the great houses shall have an end, Saith the LORD.",
+    "reference": "Amos 3:15 (JPS)",
+    "connected_from": "Amos 3:14"
+  }
+]

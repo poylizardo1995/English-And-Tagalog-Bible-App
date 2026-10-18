@@ -1,0 +1,18 @@
+[
+  {
+    "text": "A song of ascents. Come, bless the LORD, all you servants of the LORD who serve by night in the house of the LORD!",
+    "reference": "Psalm 134:1 (BSB)",
+    "connected_to": "Psalm 134:2"
+  },
+  {
+    "text": "Lift up your hands to the sanctuary and bless the LORD!",
+    "reference": "Psalm 134:2 (BSB)",
+    "connected_to": "Psalm 134:3",
+    "connected_from": "Psalm 134:1"
+  },
+  {
+    "text": "May the LORD, the Maker of heaven and earth, bless you from Zion.",
+    "reference": "Psalm 134:3 (BSB)",
+    "connected_from": "Psalm 134:2"
+  }
+]

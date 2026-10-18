@@ -1,0 +1,72 @@
+[
+  {
+    "text": "A Psalm. A song [for] the dedication of the house of David. <span class=|reftext|><a href=|#|><b>1</b></a> I will exalt You, O YHWH, for You have drawn me up, and You did not let my enemies rejoice over me.",
+    "reference": "Psalm 30:1 (BLB)",
+    "connected_to": "Psalm 30:2"
+  },
+  {
+    "text": "O YHWH my God, I cried for help to You, and You healed me.",
+    "reference": "Psalm 30:2 (BLB)",
+    "connected_to": "Psalm 30:3",
+    "connected_from": "Psalm 30:1"
+  },
+  {
+    "text": "O YHWH, You have brought up my soul from Sheol; from my going down [to] the Pit, You have kept me alive.",
+    "reference": "Psalm 30:3 (BLB)",
+    "connected_to": "Psalm 30:4",
+    "connected_from": "Psalm 30:2"
+  },
+  {
+    "text": "Make music to YHWH, His faithful ones, and praise His holy name.",
+    "reference": "Psalm 30:4 (BLB)",
+    "connected_to": "Psalm 30:5",
+    "connected_from": "Psalm 30:3"
+  },
+  {
+    "text": "For a moment [is] His anger; for a lifetime [is] His favor. In the night lodges weeping, and in the morning, joy.",
+    "reference": "Psalm 30:5 (BLB)",
+    "connected_to": "Psalm 30:6",
+    "connected_from": "Psalm 30:4"
+  },
+  {
+    "text": "And I said in my prosperity, “I will not be shaken forever.”",
+    "reference": "Psalm 30:6 (BLB)",
+    "connected_to": "Psalm 30:7",
+    "connected_from": "Psalm 30:5"
+  },
+  {
+    "text": "O YHWH, by Your favor You made my mountain stand strong; You have hidden Your face—I was dismayed.",
+    "reference": "Psalm 30:7 (BLB)",
+    "connected_to": "Psalm 30:8",
+    "connected_from": "Psalm 30:6"
+  },
+  {
+    "text": "To You, O YHWH, I called out, and to my Lord I made supplication.",
+    "reference": "Psalm 30:8 (BLB)",
+    "connected_to": "Psalm 30:9",
+    "connected_from": "Psalm 30:7"
+  },
+  {
+    "text": "“What profit [is] in my blood, in my going down to the Pit? Will the dust confess You? Will it declare Your truth?",
+    "reference": "Psalm 30:9 (BLB)",
+    "connected_to": "Psalm 30:10",
+    "connected_from": "Psalm 30:8"
+  },
+  {
+    "text": "Hear, O YHWH, and have mercy on me; O YHWH, be the One giving help to me.”",
+    "reference": "Psalm 30:10 (BLB)",
+    "connected_to": "Psalm 30:11",
+    "connected_from": "Psalm 30:9"
+  },
+  {
+    "text": "You have turned my mourning to dancing for me; You have opened my sackcloth and clothed me with gladness,",
+    "reference": "Psalm 30:11 (BLB)",
+    "connected_to": "Psalm 30:12",
+    "connected_from": "Psalm 30:10"
+  },
+  {
+    "text": "so that [my] glory will sing praise to you, and not be silent. O YHWH, my God, I will give thanks to You forever.",
+    "reference": "Psalm 30:12 (BLB)",
+    "connected_from": "Psalm 30:11"
+  }
+]

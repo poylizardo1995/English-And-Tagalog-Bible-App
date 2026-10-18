@@ -1,0 +1,222 @@
+[
+  {
+    "text": "The Lord spoke to Moses, saying:",
+    "reference": "Leviticus 19:1 (CPDV)",
+    "connected_to": "Leviticus 19:2"
+  },
+  {
+    "text": "Speak to the entire assembly of the sons of Israel, and you shall say to them: Be holy, for I, the Lord your God, am holy.",
+    "reference": "Leviticus 19:2 (CPDV)",
+    "connected_to": "Leviticus 19:3",
+    "connected_from": "Leviticus 19:1"
+  },
+  {
+    "text": "Let each one fear his father and his mother. Observe my Sabbaths. I am the Lord your God.",
+    "reference": "Leviticus 19:3 (CPDV)",
+    "connected_to": "Leviticus 19:4",
+    "connected_from": "Leviticus 19:2"
+  },
+  {
+    "text": "Do not be willing to convert to idols, neither should you make molten gods for yourselves. I am the Lord your God.",
+    "reference": "Leviticus 19:4 (CPDV)",
+    "connected_to": "Leviticus 19:5",
+    "connected_from": "Leviticus 19:3"
+  },
+  {
+    "text": "If you immolate a victim of peace offerings to the Lord, so that he may be appeased,",
+    "reference": "Leviticus 19:5 (CPDV)",
+    "connected_to": "Leviticus 19:6",
+    "connected_from": "Leviticus 19:4"
+  },
+  {
+    "text": "you shall eat it on the same day as when it was immolated, and the next day. Then whatever will remain on the third day you shall burn with fire.",
+    "reference": "Leviticus 19:6 (CPDV)",
+    "connected_to": "Leviticus 19:7",
+    "connected_from": "Leviticus 19:5"
+  },
+  {
+    "text": "If anyone, after two days, will have eaten from it, he shall be profane and guilty of impiety.",
+    "reference": "Leviticus 19:7 (CPDV)",
+    "connected_to": "Leviticus 19:8",
+    "connected_from": "Leviticus 19:6"
+  },
+  {
+    "text": "And he shall bear his iniquity, for he has polluted what is holy to the Lord. And that soul shall perish from his people.",
+    "reference": "Leviticus 19:8 (CPDV)",
+    "connected_to": "Leviticus 19:9",
+    "connected_from": "Leviticus 19:7"
+  },
+  {
+    "text": "When you will have harvested the grain fields of your land, you shall not cut it down to the surface of the land, even to the ground, nor shall you gather the remaining ears of grain.",
+    "reference": "Leviticus 19:9 (CPDV)",
+    "connected_to": "Leviticus 19:10",
+    "connected_from": "Leviticus 19:8"
+  },
+  {
+    "text": "Neither shall you gather the clusters or individual grapes which fall down in your vineyard, but you shall leave them for paupers and travelers to take. I am the Lord your God.",
+    "reference": "Leviticus 19:10 (CPDV)",
+    "connected_to": "Leviticus 19:11",
+    "connected_from": "Leviticus 19:9"
+  },
+  {
+    "text": "You shall not steal. You shall not lie. Neither shall anyone deceive his neighbor.",
+    "reference": "Leviticus 19:11 (CPDV)",
+    "connected_to": "Leviticus 19:12",
+    "connected_from": "Leviticus 19:10"
+  },
+  {
+    "text": "You shall not commit perjury in my name, nor shall you pollute the name of your God. I am the Lord.",
+    "reference": "Leviticus 19:12 (CPDV)",
+    "connected_to": "Leviticus 19:13",
+    "connected_from": "Leviticus 19:11"
+  },
+  {
+    "text": "You shall not slander your neighbor, nor shall you oppress him by violence. The wages of a hired hand, you shall not delay with you until tomorrow.",
+    "reference": "Leviticus 19:13 (CPDV)",
+    "connected_to": "Leviticus 19:14",
+    "connected_from": "Leviticus 19:12"
+  },
+  {
+    "text": "You shall not speak evil of the deaf, nor shall you place a stumbling block before the blind, but you shall fear the Lord your God, for I am the Lord.",
+    "reference": "Leviticus 19:14 (CPDV)",
+    "connected_to": "Leviticus 19:15",
+    "connected_from": "Leviticus 19:13"
+  },
+  {
+    "text": "You shall not do what is unjust, nor shall you judge unjustly. You shall not consider the reputation of the poor, nor shall you honor the countenance of the powerful. Judge your neighbor justly.",
+    "reference": "Leviticus 19:15 (CPDV)",
+    "connected_to": "Leviticus 19:16",
+    "connected_from": "Leviticus 19:14"
+  },
+  {
+    "text": "You shall not be a detractor, nor a whisperer, among the people. You shall not stand against the blood of your neighbor. I am the Lord.",
+    "reference": "Leviticus 19:16 (CPDV)",
+    "connected_to": "Leviticus 19:17",
+    "connected_from": "Leviticus 19:15"
+  },
+  {
+    "text": "You shall not hate your brother in your heart, but reprove him openly, lest you have sin over him.",
+    "reference": "Leviticus 19:17 (CPDV)",
+    "connected_to": "Leviticus 19:18",
+    "connected_from": "Leviticus 19:16"
+  },
+  {
+    "text": "Do not seek revenge, neither should you be mindful of the injury of your fellow citizens. You shall love your friend as yourself. I am the Lord.",
+    "reference": "Leviticus 19:18 (CPDV)",
+    "connected_to": "Leviticus 19:19",
+    "connected_from": "Leviticus 19:17"
+  },
+  {
+    "text": "Observe my laws. You shall not cause your cattle to breed with other kinds of animals. You shall not sow your field with diverse seeds. You shall not be clothed with a garment which has been woven from two things.",
+    "reference": "Leviticus 19:19 (CPDV)",
+    "connected_to": "Leviticus 19:20",
+    "connected_from": "Leviticus 19:18"
+  },
+  {
+    "text": "If a man will have slept in sexual intercourse with a woman, who is a servant and who is also able to be married, and yet he has not redeemed her with a price, nor paid to set her free, they both shall be beaten, but they shall not die, for she was not a free woman.",
+    "reference": "Leviticus 19:20 (CPDV)",
+    "connected_to": "Leviticus 19:21",
+    "connected_from": "Leviticus 19:19"
+  },
+  {
+    "text": "But, for his offense, he shall offer a ram to the Lord at the door of the tabernacle of the testimony.",
+    "reference": "Leviticus 19:21 (CPDV)",
+    "connected_to": "Leviticus 19:22",
+    "connected_from": "Leviticus 19:20"
+  },
+  {
+    "text": "And the priest shall pray for him, and for his sin, before the Lord, and he shall win his favor again for him, and the sin shall be forgiven.",
+    "reference": "Leviticus 19:22 (CPDV)",
+    "connected_to": "Leviticus 19:23",
+    "connected_from": "Leviticus 19:21"
+  },
+  {
+    "text": "When you will have entered into the land, and will have planted in it fruit trees, you shall take away their first-fruits; the fruit that germinates shall be unclean to you, neither shall you eat from these.",
+    "reference": "Leviticus 19:23 (CPDV)",
+    "connected_to": "Leviticus 19:24",
+    "connected_from": "Leviticus 19:22"
+  },
+  {
+    "text": "But in the fourth year, all their fruit shall be sanctified for the praise of the Lord.",
+    "reference": "Leviticus 19:24 (CPDV)",
+    "connected_to": "Leviticus 19:25",
+    "connected_from": "Leviticus 19:23"
+  },
+  {
+    "text": "And in the fifth year you shall eat the produce, gathering the fruits which are brought forth. I am the Lord your God.",
+    "reference": "Leviticus 19:25 (CPDV)",
+    "connected_to": "Leviticus 19:26",
+    "connected_from": "Leviticus 19:24"
+  },
+  {
+    "text": "You shall not eat with blood. You shall not practice divination, nor the observation of dreams.",
+    "reference": "Leviticus 19:26 (CPDV)",
+    "connected_to": "Leviticus 19:27",
+    "connected_from": "Leviticus 19:25"
+  },
+  {
+    "text": "And you shall not cut the hair of your head circularly, nor shave your beard.",
+    "reference": "Leviticus 19:27 (CPDV)",
+    "connected_to": "Leviticus 19:28",
+    "connected_from": "Leviticus 19:26"
+  },
+  {
+    "text": "You shall not cut your flesh for the dead, and you shall not make other figures or marks on yourself. I am the Lord.",
+    "reference": "Leviticus 19:28 (CPDV)",
+    "connected_to": "Leviticus 19:29",
+    "connected_from": "Leviticus 19:27"
+  },
+  {
+    "text": "Do not prostitute your daughter, lest the land be contaminated and filled with crimes.",
+    "reference": "Leviticus 19:29 (CPDV)",
+    "connected_to": "Leviticus 19:30",
+    "connected_from": "Leviticus 19:28"
+  },
+  {
+    "text": "Observe my Sabbaths, and be apprehensive toward my Sanctuary. I am the Lord.",
+    "reference": "Leviticus 19:30 (CPDV)",
+    "connected_to": "Leviticus 19:31",
+    "connected_from": "Leviticus 19:29"
+  },
+  {
+    "text": "Do not turn aside to astrologers, nor consult with soothsayers, so as to be polluted through them. I am the Lord your God.",
+    "reference": "Leviticus 19:31 (CPDV)",
+    "connected_to": "Leviticus 19:32",
+    "connected_from": "Leviticus 19:30"
+  },
+  {
+    "text": "Rise up in the presence of a gray-haired head, and honor the reputation of an elder, and fear the Lord your God. I am the Lord.",
+    "reference": "Leviticus 19:32 (CPDV)",
+    "connected_to": "Leviticus 19:33",
+    "connected_from": "Leviticus 19:31"
+  },
+  {
+    "text": "If a newcomer lives in your land and abides among you, do not reproach him,",
+    "reference": "Leviticus 19:33 (CPDV)",
+    "connected_to": "Leviticus 19:34",
+    "connected_from": "Leviticus 19:32"
+  },
+  {
+    "text": "but let him be among you like one native born. And you shall love him as yourselves. For you were also newcomers in the land of Egypt. I am the Lord your God.",
+    "reference": "Leviticus 19:34 (CPDV)",
+    "connected_to": "Leviticus 19:35",
+    "connected_from": "Leviticus 19:33"
+  },
+  {
+    "text": "Do not be willing to accomplish iniquity in judgment, in lengths, in weights, in quantities.",
+    "reference": "Leviticus 19:35 (CPDV)",
+    "connected_to": "Leviticus 19:36",
+    "connected_from": "Leviticus 19:34"
+  },
+  {
+    "text": "Let the scales be just and the weights equal, let the dry measure be just and the liquid measure be equal. I am the Lord your God, who led you away from the land of Egypt.",
+    "reference": "Leviticus 19:36 (CPDV)",
+    "connected_to": "Leviticus 19:37",
+    "connected_from": "Leviticus 19:35"
+  },
+  {
+    "text": "Keep all my precepts, and all my judgments, and accomplish them. I am the Lord.",
+    "reference": "Leviticus 19:37 (CPDV)",
+    "connected_from": "Leviticus 19:36"
+  }
+]

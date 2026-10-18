@@ -1,0 +1,48 @@
+[
+  {
+    "text": "A Psalm of Asaph. <span class=|reftext|><a href=|#|><b>1</b></a> God takes His stand in the congregation of the divine; among the gods he renders judgment:",
+    "reference": "Psalm 82:1 (BLB)",
+    "connected_to": "Psalm 82:2"
+  },
+  {
+    "text": "“Until when will you⁺ judge unjustly, and lift [up] the faces of the wicked? Selah",
+    "reference": "Psalm 82:2 (BLB)",
+    "connected_to": "Psalm 82:3",
+    "connected_from": "Psalm 82:1"
+  },
+  {
+    "text": "Judge for the weak and the fatherless; [for] the oppressed and needy bring justice.",
+    "reference": "Psalm 82:3 (BLB)",
+    "connected_to": "Psalm 82:4",
+    "connected_from": "Psalm 82:2"
+  },
+  {
+    "text": "Rescue the weak and needy; deliver them from the hand of the wicked.",
+    "reference": "Psalm 82:4 (BLB)",
+    "connected_to": "Psalm 82:5",
+    "connected_from": "Psalm 82:3"
+  },
+  {
+    "text": "They do not know, ad they do not understand; in the darkness they walk about; all the foundations of the earth are shaken.",
+    "reference": "Psalm 82:5 (BLB)",
+    "connected_to": "Psalm 82:6",
+    "connected_from": "Psalm 82:4"
+  },
+  {
+    "text": "I said, ‘You⁺ [are] gods, and all of you⁺ sons of the Most High.’",
+    "reference": "Psalm 82:6 (BLB)",
+    "connected_to": "Psalm 82:7",
+    "connected_from": "Psalm 82:5"
+  },
+  {
+    "text": "Surely like a man you⁺ will die, and like one of the princes you⁺ will fall.”",
+    "reference": "Psalm 82:7 (BLB)",
+    "connected_to": "Psalm 82:8",
+    "connected_from": "Psalm 82:6"
+  },
+  {
+    "text": "Rise up, O God, [and] judge the earth! For You have an inheritance among all the nations.",
+    "reference": "Psalm 82:8 (BLB)",
+    "connected_from": "Psalm 82:7"
+  }
+]

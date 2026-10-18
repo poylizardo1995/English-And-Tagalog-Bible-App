@@ -1,0 +1,42 @@
+[
+  {
+    "text": "{To the chief Musician. [A Psalm] of David.} In Jehovah have I put my trust: how say ye to my soul, Flee [as] a bird to your mountain?",
+    "reference": "Psalm 11:1 (DBT)",
+    "connected_to": "Psalm 11:2"
+  },
+  {
+    "text": "For behold, the wicked bend the bow, they make ready their arrow upon the string, that they may in darkness shoot at the upright in heart.",
+    "reference": "Psalm 11:2 (DBT)",
+    "connected_to": "Psalm 11:3",
+    "connected_from": "Psalm 11:1"
+  },
+  {
+    "text": "If the foundations be destroyed, what shall the righteous do?",
+    "reference": "Psalm 11:3 (DBT)",
+    "connected_to": "Psalm 11:4",
+    "connected_from": "Psalm 11:2"
+  },
+  {
+    "text": "Jehovah [is] in the temple of his holiness; Jehovah,—his throne is in the heavens: his eyes behold, his eyelids try the children of men.",
+    "reference": "Psalm 11:4 (DBT)",
+    "connected_to": "Psalm 11:5",
+    "connected_from": "Psalm 11:3"
+  },
+  {
+    "text": "Jehovah trieth the righteous one; but the wicked, and him that loveth violence, his soul hateth.",
+    "reference": "Psalm 11:5 (DBT)",
+    "connected_to": "Psalm 11:6",
+    "connected_from": "Psalm 11:4"
+  },
+  {
+    "text": "Upon the wicked he shall rain snares, fire and brimstone; and scorching wind shall be the portion of their cup.",
+    "reference": "Psalm 11:6 (DBT)",
+    "connected_to": "Psalm 11:7",
+    "connected_from": "Psalm 11:5"
+  },
+  {
+    "text": "For righteous is Jehovah; he loveth righteousness, his countenance doth behold the upright.",
+    "reference": "Psalm 11:7 (DBT)",
+    "connected_from": "Psalm 11:6"
+  }
+]

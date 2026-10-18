@@ -1,0 +1,42 @@
+[
+  {
+    "text": "{An instruction of David; when he was in the cave: a prayer.} I cry unto Jehovah with my voice: with my voice unto Jehovah do I make supplication.",
+    "reference": "Psalm 142:1 (DBT)",
+    "connected_to": "Psalm 142:2"
+  },
+  {
+    "text": "I pour out my plaint before him; I shew before him my trouble.",
+    "reference": "Psalm 142:2 (DBT)",
+    "connected_to": "Psalm 142:3",
+    "connected_from": "Psalm 142:1"
+  },
+  {
+    "text": "When my spirit was overwhelmed within me, then thou knewest my path. In the way wherein I walked have they hidden a snare for me.",
+    "reference": "Psalm 142:3 (DBT)",
+    "connected_to": "Psalm 142:4",
+    "connected_from": "Psalm 142:2"
+  },
+  {
+    "text": "Look on the right hand and see; there is no man that knoweth me: refuge hath failed me; no man careth for my soul.",
+    "reference": "Psalm 142:4 (DBT)",
+    "connected_to": "Psalm 142:5",
+    "connected_from": "Psalm 142:3"
+  },
+  {
+    "text": "I cried unto thee, Jehovah; I said, Thou art my refuge, my portion in the land of the living.",
+    "reference": "Psalm 142:5 (DBT)",
+    "connected_to": "Psalm 142:6",
+    "connected_from": "Psalm 142:4"
+  },
+  {
+    "text": "Attend unto my cry, for I am brought very low; deliver me from my persecutors, for they are stronger than I.",
+    "reference": "Psalm 142:6 (DBT)",
+    "connected_to": "Psalm 142:7",
+    "connected_from": "Psalm 142:5"
+  },
+  {
+    "text": "Bring my soul out of prison, that I may celebrate thy name. The righteous shall surround me, because thou dealest bountifully with me.",
+    "reference": "Psalm 142:7 (DBT)",
+    "connected_from": "Psalm 142:6"
+  }
+]

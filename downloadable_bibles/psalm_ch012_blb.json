@@ -1,0 +1,48 @@
+[
+  {
+    "text": "For the one directing. According to Sheminith. A Psalm of David. <span class=|reftext|><a href=|#|><b>1</b></a> Help, O YHWH! For the godly one ceases [to be]; for the faithful ones disappear from the sons of man.",
+    "reference": "Psalm 12:1 (BLB)",
+    "connected_to": "Psalm 12:2"
+  },
+  {
+    "text": "Vanity they speak, each man with his neighbor; [with] lips of flattery with a double heart they speak.",
+    "reference": "Psalm 12:2 (BLB)",
+    "connected_to": "Psalm 12:3",
+    "connected_from": "Psalm 12:1"
+  },
+  {
+    "text": "May YHWH cut off all lips of flattery, a tongue speaking great [things]—",
+    "reference": "Psalm 12:3 (BLB)",
+    "connected_to": "Psalm 12:4",
+    "connected_from": "Psalm 12:2"
+  },
+  {
+    "text": "those who have said, “By our tongues we will prevail; our lips [are] with us; who [is] lord over us?”",
+    "reference": "Psalm 12:4 (BLB)",
+    "connected_to": "Psalm 12:5",
+    "connected_from": "Psalm 12:3"
+  },
+  {
+    "text": "“From the oppression of the poor, from the groaning of the needy, now I shall arise,” says YHWH. “I will set in safety [him who] breathes for it.”",
+    "reference": "Psalm 12:5 (BLB)",
+    "connected_to": "Psalm 12:6",
+    "connected_from": "Psalm 12:4"
+  },
+  {
+    "text": "The words of YHWH [are] pure words, silver refined in a furnace of earth, purified sevenfold.",
+    "reference": "Psalm 12:6 (BLB)",
+    "connected_to": "Psalm 12:7",
+    "connected_from": "Psalm 12:5"
+  },
+  {
+    "text": "You, O YHWH, shall keep them; You will guard them from this generation forever.",
+    "reference": "Psalm 12:7 (BLB)",
+    "connected_to": "Psalm 12:8",
+    "connected_from": "Psalm 12:6"
+  },
+  {
+    "text": "On every side the wicked walk, as vileness is exalted by the sons of man.",
+    "reference": "Psalm 12:8 (BLB)",
+    "connected_from": "Psalm 12:7"
+  }
+]

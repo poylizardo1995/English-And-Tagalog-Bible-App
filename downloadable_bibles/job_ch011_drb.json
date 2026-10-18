@@ -1,0 +1,120 @@
+[
+  {
+    "text": "Then Sophar the Naamathite answered, and said:",
+    "reference": "Job 11:1 (DRB)",
+    "connected_to": "Job 11:2"
+  },
+  {
+    "text": "Shall not he that speaketh much, hear also? or shall a man full of talk be justified?",
+    "reference": "Job 11:2 (DRB)",
+    "connected_to": "Job 11:3",
+    "connected_from": "Job 11:1"
+  },
+  {
+    "text": "Shall men hold their peace to thee only? and when thou hast mocked others, shall no man confute thee?",
+    "reference": "Job 11:3 (DRB)",
+    "connected_to": "Job 11:4",
+    "connected_from": "Job 11:2"
+  },
+  {
+    "text": "For thou hast said: My word is pure, and I am clean in thy sight.",
+    "reference": "Job 11:4 (DRB)",
+    "connected_to": "Job 11:5",
+    "connected_from": "Job 11:3"
+  },
+  {
+    "text": "And I wish that God would speak with thee, and would open his lips to thee,",
+    "reference": "Job 11:5 (DRB)",
+    "connected_to": "Job 11:6",
+    "connected_from": "Job 11:4"
+  },
+  {
+    "text": "That he might shew thee the secrets of wisdom, and that his law is manifold, and thou mightest understand that he exacteth much less of thee, than thy iniquity deserveth.",
+    "reference": "Job 11:6 (DRB)",
+    "connected_to": "Job 11:7",
+    "connected_from": "Job 11:5"
+  },
+  {
+    "text": "Peradventure thou wilt comprehend the steps of God, and wilt find out the Almighty perfectly?",
+    "reference": "Job 11:7 (DRB)",
+    "connected_to": "Job 11:8",
+    "connected_from": "Job 11:6"
+  },
+  {
+    "text": "He is higher than heaven, and what wilt thou do ? he is deeper than hell, and how wilt thou know?",
+    "reference": "Job 11:8 (DRB)",
+    "connected_to": "Job 11:9",
+    "connected_from": "Job 11:7"
+  },
+  {
+    "text": "The measure of him is longer than the earth, and broader than the sea.",
+    "reference": "Job 11:9 (DRB)",
+    "connected_to": "Job 11:10",
+    "connected_from": "Job 11:8"
+  },
+  {
+    "text": "If he shall overturn all things, or shall press them together, who shall contradict him?",
+    "reference": "Job 11:10 (DRB)",
+    "connected_to": "Job 11:11",
+    "connected_from": "Job 11:9"
+  },
+  {
+    "text": "For he knoweth the vanity of men, and when he seeth iniquity, doth he not consider it?",
+    "reference": "Job 11:11 (DRB)",
+    "connected_to": "Job 11:12",
+    "connected_from": "Job 11:10"
+  },
+  {
+    "text": "A vain man is lifted up into pride, and thinketh himself born free like a wild ass’s colt.",
+    "reference": "Job 11:12 (DRB)",
+    "connected_to": "Job 11:13",
+    "connected_from": "Job 11:11"
+  },
+  {
+    "text": "Rut thou hast hardened thy heart, and hast spread thy hands to him.",
+    "reference": "Job 11:13 (DRB)",
+    "connected_to": "Job 11:14",
+    "connected_from": "Job 11:12"
+  },
+  {
+    "text": "If thou wilt put away from thee the iniquity that is in thy hand, and lot not injustice remain in thy tabernacle:",
+    "reference": "Job 11:14 (DRB)",
+    "connected_to": "Job 11:15",
+    "connected_from": "Job 11:13"
+  },
+  {
+    "text": "Then mayst thou lift up thy face without spot, and thou shalt be steadfast, and shalt not fear.",
+    "reference": "Job 11:15 (DRB)",
+    "connected_to": "Job 11:16",
+    "connected_from": "Job 11:14"
+  },
+  {
+    "text": "Thou shalt also forget misery, and remember it only as waters that are passed away.",
+    "reference": "Job 11:16 (DRB)",
+    "connected_to": "Job 11:17",
+    "connected_from": "Job 11:15"
+  },
+  {
+    "text": "And brightness like that of the noonday, shall arise to thee at evening: and when thou shalt think thyself consumed, thou shalt rise as the day star.",
+    "reference": "Job 11:17 (DRB)",
+    "connected_to": "Job 11:18",
+    "connected_from": "Job 11:16"
+  },
+  {
+    "text": "And thou shalt have confidence, hope being set before thee, and being buried thou shalt sleep secure.",
+    "reference": "Job 11:18 (DRB)",
+    "connected_to": "Job 11:19",
+    "connected_from": "Job 11:17"
+  },
+  {
+    "text": "Thou shalt rest, and there shall be none to make thee afraid: and many shall entreat thy face.",
+    "reference": "Job 11:19 (DRB)",
+    "connected_to": "Job 11:20",
+    "connected_from": "Job 11:18"
+  },
+  {
+    "text": "But the eyes of the wicked shall decay, and the way to escape shall fail them, and their hope the abomination of the soul.",
+    "reference": "Job 11:20 (DRB)",
+    "connected_from": "Job 11:19"
+  }
+]

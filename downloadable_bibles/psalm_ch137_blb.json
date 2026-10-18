@@ -1,0 +1,54 @@
+[
+  {
+    "text": "By the rivers of Babylon, there we sat down and we wept in our remembering Zion.",
+    "reference": "Psalm 137:1 (BLB)",
+    "connected_to": "Psalm 137:2"
+  },
+  {
+    "text": "Upon the willows in her midst, we hung our harps.",
+    "reference": "Psalm 137:2 (BLB)",
+    "connected_to": "Psalm 137:3",
+    "connected_from": "Psalm 137:1"
+  },
+  {
+    "text": "For there our captors required of us the words of a song, and our tormentors, joy: “Sing to us a song of Zion.”",
+    "reference": "Psalm 137:3 (BLB)",
+    "connected_to": "Psalm 137:4",
+    "connected_from": "Psalm 137:2"
+  },
+  {
+    "text": "How can we sing a song of YHWH in a foreign land?",
+    "reference": "Psalm 137:4 (BLB)",
+    "connected_to": "Psalm 137:5",
+    "connected_from": "Psalm 137:3"
+  },
+  {
+    "text": "If I should forget you, O Jerusalem, may my right hand forget.",
+    "reference": "Psalm 137:5 (BLB)",
+    "connected_to": "Psalm 137:6",
+    "connected_from": "Psalm 137:4"
+  },
+  {
+    "text": "May my tongue cling to my palate, if I do not remember you, if I do not exalt Jerusalem above my chief joy!",
+    "reference": "Psalm 137:6 (BLB)",
+    "connected_to": "Psalm 137:7",
+    "connected_from": "Psalm 137:5"
+  },
+  {
+    "text": "Remember, O YHWH, about the sons of Edom, on the day of Jerusalem—those saying, “Lay [her] bare! Lay [her] bare to her foundation!”",
+    "reference": "Psalm 137:7 (BLB)",
+    "connected_to": "Psalm 137:8",
+    "connected_from": "Psalm 137:6"
+  },
+  {
+    "text": "O Daughter of Babylon, O destroyed one, blessed [is] he who repays to you, dealing with you as you have dealt with us!",
+    "reference": "Psalm 137:8 (BLB)",
+    "connected_to": "Psalm 137:9",
+    "connected_from": "Psalm 137:7"
+  },
+  {
+    "text": "Blessed [is] he who seizes and dashes your infants against the rock!",
+    "reference": "Psalm 137:9 (BLB)",
+    "connected_from": "Psalm 137:8"
+  }
+]

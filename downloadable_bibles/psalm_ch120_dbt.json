@@ -1,0 +1,42 @@
+[
+  {
+    "text": "{A Song of degrees.} In my trouble I called unto Jehovah, and he answered me.",
+    "reference": "Psalm 120:1 (DBT)",
+    "connected_to": "Psalm 120:2"
+  },
+  {
+    "text": "Jehovah, deliver my soul from the lying lip, from the deceitful tongue.",
+    "reference": "Psalm 120:2 (DBT)",
+    "connected_to": "Psalm 120:3",
+    "connected_from": "Psalm 120:1"
+  },
+  {
+    "text": "What shall be given unto thee, what shall be added unto thee, thou deceitful tongue?",
+    "reference": "Psalm 120:3 (DBT)",
+    "connected_to": "Psalm 120:4",
+    "connected_from": "Psalm 120:2"
+  },
+  {
+    "text": "Sharp arrows of a mighty one, with burning coals of broom-wood.",
+    "reference": "Psalm 120:4 (DBT)",
+    "connected_to": "Psalm 120:5",
+    "connected_from": "Psalm 120:3"
+  },
+  {
+    "text": "Woe is me, that I sojourn in Meshech, that I dwell among the tents of Kedar!",
+    "reference": "Psalm 120:5 (DBT)",
+    "connected_to": "Psalm 120:6",
+    "connected_from": "Psalm 120:4"
+  },
+  {
+    "text": "My soul hath long dwelt with them that hate peace.",
+    "reference": "Psalm 120:6 (DBT)",
+    "connected_to": "Psalm 120:7",
+    "connected_from": "Psalm 120:5"
+  },
+  {
+    "text": "I [am for] peace; but when I speak, they [are] for war.",
+    "reference": "Psalm 120:7 (DBT)",
+    "connected_from": "Psalm 120:6"
+  }
+]

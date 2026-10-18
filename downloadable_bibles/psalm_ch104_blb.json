@@ -1,0 +1,210 @@
+[
+  {
+    "text": "O my soul, bless YHWH! O YHWH my God, You are very great; with honor and majesty You are clothed.",
+    "reference": "Psalm 104:1 (BLB)",
+    "connected_to": "Psalm 104:2"
+  },
+  {
+    "text": "Covering Himself [with] light as a garment, stretching out the heavens like a curtain,",
+    "reference": "Psalm 104:2 (BLB)",
+    "connected_to": "Psalm 104:3",
+    "connected_from": "Psalm 104:1"
+  },
+  {
+    "text": "the One laying the beams in the waters of His upper chambers, the One making the clouds His chariot, the One walking on the wings of the wind,",
+    "reference": "Psalm 104:3 (BLB)",
+    "connected_to": "Psalm 104:4",
+    "connected_from": "Psalm 104:2"
+  },
+  {
+    "text": "making the winds His messengers, His servants flaming fire.",
+    "reference": "Psalm 104:4 (BLB)",
+    "connected_to": "Psalm 104:5",
+    "connected_from": "Psalm 104:3"
+  },
+  {
+    "text": "He set the earth upon [its] foundations; it should not be shaken forever and ever.",
+    "reference": "Psalm 104:5 (BLB)",
+    "connected_to": "Psalm 104:6",
+    "connected_from": "Psalm 104:4"
+  },
+  {
+    "text": "The deep, as [with] a garment You covered it; upon the mountains the waters were standing.",
+    "reference": "Psalm 104:6 (BLB)",
+    "connected_to": "Psalm 104:7",
+    "connected_from": "Psalm 104:5"
+  },
+  {
+    "text": "From Your rebuke they fled; from the voice of Your thunder they hurried away.",
+    "reference": "Psalm 104:7 (BLB)",
+    "connected_to": "Psalm 104:8",
+    "connected_from": "Psalm 104:6"
+  },
+  {
+    "text": "Upon the mountains, the valleys sank down, to the place that You established for them.",
+    "reference": "Psalm 104:8 (BLB)",
+    "connected_to": "Psalm 104:9",
+    "connected_from": "Psalm 104:7"
+  },
+  {
+    "text": "You have set a boundary [that] they may not cross over; they may never return to cover the earth.",
+    "reference": "Psalm 104:9 (BLB)",
+    "connected_to": "Psalm 104:10",
+    "connected_from": "Psalm 104:8"
+  },
+  {
+    "text": "He sends the springs into the valleys; they flow between the hills.",
+    "reference": "Psalm 104:10 (BLB)",
+    "connected_to": "Psalm 104:11",
+    "connected_from": "Psalm 104:9"
+  },
+  {
+    "text": "They give drink to every beast of the field; the wild donkeys break their thirst.",
+    "reference": "Psalm 104:11 (BLB)",
+    "connected_to": "Psalm 104:12",
+    "connected_from": "Psalm 104:10"
+  },
+  {
+    "text": "Nearby them the birds of the heavens are dwelling; from between the branches they give forth a voice.",
+    "reference": "Psalm 104:12 (BLB)",
+    "connected_to": "Psalm 104:13",
+    "connected_from": "Psalm 104:11"
+  },
+  {
+    "text": "Watering the hills from His upper chambers; with the fruit of Your works the earth is satisfied—",
+    "reference": "Psalm 104:13 (BLB)",
+    "connected_to": "Psalm 104:14",
+    "connected_from": "Psalm 104:12"
+  },
+  {
+    "text": "causing the grass to sprout for the cattle, and vegetation for the service of man, to bring forth food from the earth,",
+    "reference": "Psalm 104:14 (BLB)",
+    "connected_to": "Psalm 104:15",
+    "connected_from": "Psalm 104:13"
+  },
+  {
+    "text": "and wine makes glad the heart of man, to make [his] face shine from oil, and bread supports the heart of man.",
+    "reference": "Psalm 104:15 (BLB)",
+    "connected_to": "Psalm 104:16",
+    "connected_from": "Psalm 104:14"
+  },
+  {
+    "text": "The trees of YHWH are satisfied, the cedars of Lebanon that He planted,",
+    "reference": "Psalm 104:16 (BLB)",
+    "connected_to": "Psalm 104:17",
+    "connected_from": "Psalm 104:15"
+  },
+  {
+    "text": "where in the birds make their nests; the stork—the cypresses [are] her house.",
+    "reference": "Psalm 104:17 (BLB)",
+    "connected_to": "Psalm 104:18",
+    "connected_from": "Psalm 104:16"
+  },
+  {
+    "text": "The high mountains [are] for the wild goats; the crags a refuge for the rock badgers.",
+    "reference": "Psalm 104:18 (BLB)",
+    "connected_to": "Psalm 104:19",
+    "connected_from": "Psalm 104:17"
+  },
+  {
+    "text": "He made the moon for appointed times; the sun knows its entrance.",
+    "reference": "Psalm 104:19 (BLB)",
+    "connected_to": "Psalm 104:20",
+    "connected_from": "Psalm 104:18"
+  },
+  {
+    "text": "You make darkness, and it becomes night; in it all the living [things] of the forest creep about.",
+    "reference": "Psalm 104:20 (BLB)",
+    "connected_to": "Psalm 104:21",
+    "connected_from": "Psalm 104:19"
+  },
+  {
+    "text": "The young lions roar for the prey and seek their food from God.",
+    "reference": "Psalm 104:21 (BLB)",
+    "connected_to": "Psalm 104:22",
+    "connected_from": "Psalm 104:20"
+  },
+  {
+    "text": "The sun rises, they are gathered; and in their dens they stretch out.",
+    "reference": "Psalm 104:22 (BLB)",
+    "connected_to": "Psalm 104:23",
+    "connected_from": "Psalm 104:21"
+  },
+  {
+    "text": "Man goes out to his work, and to his labor until the evening.",
+    "reference": "Psalm 104:23 (BLB)",
+    "connected_to": "Psalm 104:24",
+    "connected_from": "Psalm 104:22"
+  },
+  {
+    "text": "How many are Your works, O YHWH! All of them You have made in wisdom; the earth is full of Your creatures.",
+    "reference": "Psalm 104:24 (BLB)",
+    "connected_to": "Psalm 104:25",
+    "connected_from": "Psalm 104:23"
+  },
+  {
+    "text": "This [is] the sea, great and wide—in it [are] teeming things, and without number, living things small with the great.",
+    "reference": "Psalm 104:25 (BLB)",
+    "connected_to": "Psalm 104:26",
+    "connected_from": "Psalm 104:24"
+  },
+  {
+    "text": "There the ships go about, [and] Leviathan, which You formed to play in it.",
+    "reference": "Psalm 104:26 (BLB)",
+    "connected_to": "Psalm 104:27",
+    "connected_from": "Psalm 104:25"
+  },
+  {
+    "text": "All of them look to You, to give their food, in its season.",
+    "reference": "Psalm 104:27 (BLB)",
+    "connected_to": "Psalm 104:28",
+    "connected_from": "Psalm 104:26"
+  },
+  {
+    "text": "You give to them, [and] they gather in; You open Your hand, [and] they are satisfied [with] good.",
+    "reference": "Psalm 104:28 (BLB)",
+    "connected_to": "Psalm 104:29",
+    "connected_from": "Psalm 104:27"
+  },
+  {
+    "text": "You hide Your face—they are troubled; You gather their spirit—they die, and to their dust they return.",
+    "reference": "Psalm 104:29 (BLB)",
+    "connected_to": "Psalm 104:30",
+    "connected_from": "Psalm 104:28"
+  },
+  {
+    "text": "You send forth Your Spirit—they are created, and You renew the face of the earth.",
+    "reference": "Psalm 104:30 (BLB)",
+    "connected_to": "Psalm 104:31",
+    "connected_from": "Psalm 104:29"
+  },
+  {
+    "text": "May the glory of YHWH be forever; may YHWH rejoice in His works—",
+    "reference": "Psalm 104:31 (BLB)",
+    "connected_to": "Psalm 104:32",
+    "connected_from": "Psalm 104:30"
+  },
+  {
+    "text": "the One looking on the earth, and it trembles; He touches the mountains, and they smoke.",
+    "reference": "Psalm 104:32 (BLB)",
+    "connected_to": "Psalm 104:33",
+    "connected_from": "Psalm 104:31"
+  },
+  {
+    "text": "I will sing to YHWH during my life; I will sing praise to my God while I [live]!",
+    "reference": "Psalm 104:33 (BLB)",
+    "connected_to": "Psalm 104:34",
+    "connected_from": "Psalm 104:32"
+  },
+  {
+    "text": "May my melody be pleasing to Him; I rejoice in YHWH.",
+    "reference": "Psalm 104:34 (BLB)",
+    "connected_to": "Psalm 104:35",
+    "connected_from": "Psalm 104:33"
+  },
+  {
+    "text": "May the sinful ones be consumed from the earth, and the wicked shall not be anymore! O my soul, bless YHWH! Hallelu YAH!",
+    "reference": "Psalm 104:35 (BLB)",
+    "connected_from": "Psalm 104:34"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "text": "A Psalm of David. Blessed be the LORD my rock, which teacheth my hands to war, and my fingers to fight:",
+    "reference": "Psalm 144:1 (ERV)",
+    "connected_to": "Psalm 144:2"
+  },
+  {
+    "text": "My lovingkindness, and my fortress, my high tower, and my deliverer; my shield, and he in whom I trust; who subdueth my people under me.",
+    "reference": "Psalm 144:2 (ERV)",
+    "connected_to": "Psalm 144:3",
+    "connected_from": "Psalm 144:1"
+  },
+  {
+    "text": "LORD, what is man, that thou takest knowledge of him? or the son of man, that thou makest account of him?",
+    "reference": "Psalm 144:3 (ERV)",
+    "connected_to": "Psalm 144:4",
+    "connected_from": "Psalm 144:2"
+  },
+  {
+    "text": "Man is like to vanity: his days are as a shadow that passeth away.",
+    "reference": "Psalm 144:4 (ERV)",
+    "connected_to": "Psalm 144:5",
+    "connected_from": "Psalm 144:3"
+  },
+  {
+    "text": "Bow thy heavens, O LORD, and come down: touch the mountains, and they shall smoke.",
+    "reference": "Psalm 144:5 (ERV)",
+    "connected_to": "Psalm 144:6",
+    "connected_from": "Psalm 144:4"
+  },
+  {
+    "text": "Cast forth lightning, and scatter them; send out thine arrows, and discomfit them.",
+    "reference": "Psalm 144:6 (ERV)",
+    "connected_to": "Psalm 144:7",
+    "connected_from": "Psalm 144:5"
+  },
+  {
+    "text": "Stretch forth thine hand from above; rescue me, and deliver me out of great waters, out of the hand of strangers;",
+    "reference": "Psalm 144:7 (ERV)",
+    "connected_to": "Psalm 144:8",
+    "connected_from": "Psalm 144:6"
+  },
+  {
+    "text": "Whose mouth speaketh vanity, and their right hand is a right hand of falsehood.",
+    "reference": "Psalm 144:8 (ERV)",
+    "connected_to": "Psalm 144:9",
+    "connected_from": "Psalm 144:7"
+  },
+  {
+    "text": "I will sing a new song unto thee, O God: upon a psaltery of ten strings will I sing praises unto thee.",
+    "reference": "Psalm 144:9 (ERV)",
+    "connected_to": "Psalm 144:10",
+    "connected_from": "Psalm 144:8"
+  },
+  {
+    "text": "It is he that giveth salvation unto kings: who rescueth David his servant from the hurtful sword.",
+    "reference": "Psalm 144:10 (ERV)",
+    "connected_to": "Psalm 144:11",
+    "connected_from": "Psalm 144:9"
+  },
+  {
+    "text": "Rescue me, and deliver me out of the hand of strangers, whose mouth speaketh vanity, and their right hand is a right hand of falsehood.",
+    "reference": "Psalm 144:11 (ERV)",
+    "connected_to": "Psalm 144:12",
+    "connected_from": "Psalm 144:10"
+  },
+  {
+    "text": "When our sons shall be as plants grown up in their youth; and our daughters as corner stones hewn after the fashion of a palace;",
+    "reference": "Psalm 144:12 (ERV)",
+    "connected_to": "Psalm 144:13",
+    "connected_from": "Psalm 144:11"
+  },
+  {
+    "text": "When our garners are full, affording all manner of store; and our sheep bring forth thousands and ten thousands in our fields;",
+    "reference": "Psalm 144:13 (ERV)",
+    "connected_to": "Psalm 144:14",
+    "connected_from": "Psalm 144:12"
+  },
+  {
+    "text": "When our oxen are well laden; when there is no breaking in, and no going forth, and no outcry in our streets;",
+    "reference": "Psalm 144:14 (ERV)",
+    "connected_to": "Psalm 144:15",
+    "connected_from": "Psalm 144:13"
+  },
+  {
+    "text": "Happy is the people, that is in such a case: yea, happy is the people, whose God is the LORD.",
+    "reference": "Psalm 144:15 (ERV)",
+    "connected_from": "Psalm 144:14"
+  }
+]

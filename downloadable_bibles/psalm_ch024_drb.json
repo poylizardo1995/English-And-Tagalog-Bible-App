@@ -1,0 +1,60 @@
+[
+  {
+    "text": "On the first day of the week, a psalm for David. The earth is the Lord’s and the fulness thereof: the world, and all they that dwell therein.",
+    "reference": "Psalm 24:1 (DRB)",
+    "connected_to": "Psalm 24:2"
+  },
+  {
+    "text": "For he hath founded it upon the seas; and hath prepared it upon the rivers.",
+    "reference": "Psalm 24:2 (DRB)",
+    "connected_to": "Psalm 24:3",
+    "connected_from": "Psalm 24:1"
+  },
+  {
+    "text": "Who shall ascend into the mountain of the Lord: or who shall stand in his holy place?",
+    "reference": "Psalm 24:3 (DRB)",
+    "connected_to": "Psalm 24:4",
+    "connected_from": "Psalm 24:2"
+  },
+  {
+    "text": "The innocent in hands, and clean of heart, who hath not taken his soul in vain, nor sworn deceitfully to his neighbour.",
+    "reference": "Psalm 24:4 (DRB)",
+    "connected_to": "Psalm 24:5",
+    "connected_from": "Psalm 24:3"
+  },
+  {
+    "text": "He shall receive a blessing from the Lord, and mercy from God his Saviour.",
+    "reference": "Psalm 24:5 (DRB)",
+    "connected_to": "Psalm 24:6",
+    "connected_from": "Psalm 24:4"
+  },
+  {
+    "text": "This is the generation of them that seek him, of them that seek the face of the God of Jacob.",
+    "reference": "Psalm 24:6 (DRB)",
+    "connected_to": "Psalm 24:7",
+    "connected_from": "Psalm 24:5"
+  },
+  {
+    "text": "Lift up your gates, O ye princes, and be ye lifted up, O eternal gates: and the King of Glory shall enter in.",
+    "reference": "Psalm 24:7 (DRB)",
+    "connected_to": "Psalm 24:8",
+    "connected_from": "Psalm 24:6"
+  },
+  {
+    "text": "Who is this King of Glory? the Lord who is strong and mighty: the Lord mighty in battle.",
+    "reference": "Psalm 24:8 (DRB)",
+    "connected_to": "Psalm 24:9",
+    "connected_from": "Psalm 24:7"
+  },
+  {
+    "text": "Lift up your gates, O ye princes, and be ye lifted up, O eternal gates: and the King of Glory shall enter in.",
+    "reference": "Psalm 24:9 (DRB)",
+    "connected_to": "Psalm 24:10",
+    "connected_from": "Psalm 24:8"
+  },
+  {
+    "text": "Who is this King of Glory? the Lord of hosts, he is the King of Glory.",
+    "reference": "Psalm 24:10 (DRB)",
+    "connected_from": "Psalm 24:9"
+  }
+]

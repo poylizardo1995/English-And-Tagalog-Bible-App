@@ -1,0 +1,108 @@
+[
+  {
+    "text": "These are the words of the Teacher (the Convener), the son of David (beloved), king in Jerusalem (city of peace):",
+    "reference": "Ecclesiastes 1:1 (BAB)",
+    "connected_to": "Ecclesiastes 1:2"
+  },
+  {
+    "text": "“Futility \\vapor/ of futilities,” says the Teacher, “futility of futilities! Everything is futile!”",
+    "reference": "Ecclesiastes 1:2 (BAB)",
+    "connected_to": "Ecclesiastes 1:3",
+    "connected_from": "Ecclesiastes 1:1"
+  },
+  {
+    "text": "What does a man gain from all his labor, at which he toils under the sun?",
+    "reference": "Ecclesiastes 1:3 (BAB)",
+    "connected_to": "Ecclesiastes 1:4",
+    "connected_from": "Ecclesiastes 1:2"
+  },
+  {
+    "text": "Generations come and generations go, but the earth remains forever.",
+    "reference": "Ecclesiastes 1:4 (BAB)",
+    "connected_to": "Ecclesiastes 1:5",
+    "connected_from": "Ecclesiastes 1:3"
+  },
+  {
+    "text": "The sun rises and the sun sets; it hurries back to where it rises.",
+    "reference": "Ecclesiastes 1:5 (BAB)",
+    "connected_to": "Ecclesiastes 1:6",
+    "connected_from": "Ecclesiastes 1:4"
+  },
+  {
+    "text": "The wind {ruach} blows southward, then turns northward; round and round it swirls, ever returning on its course.",
+    "reference": "Ecclesiastes 1:6 (BAB)",
+    "connected_to": "Ecclesiastes 1:7",
+    "connected_from": "Ecclesiastes 1:5"
+  },
+  {
+    "text": "All the rivers flow into the sea, yet the sea is never full; to the place from which the streams come, there again they flow.",
+    "reference": "Ecclesiastes 1:7 (BAB)",
+    "connected_to": "Ecclesiastes 1:8",
+    "connected_from": "Ecclesiastes 1:6"
+  },
+  {
+    "text": "All things are wearisome, more than one can describe; the eye is not satisfied with seeing, nor the ear content with hearing.",
+    "reference": "Ecclesiastes 1:8 (BAB)",
+    "connected_to": "Ecclesiastes 1:9",
+    "connected_from": "Ecclesiastes 1:7"
+  },
+  {
+    "text": "What has been will be again, and what has been done will be done again; there is nothing new under the sun.",
+    "reference": "Ecclesiastes 1:9 (BAB)",
+    "connected_to": "Ecclesiastes 1:10",
+    "connected_from": "Ecclesiastes 1:8"
+  },
+  {
+    "text": "Is there a case where one can say, “Look, this is new”? It has already existed in the ages before us.",
+    "reference": "Ecclesiastes 1:10 (BAB)",
+    "connected_to": "Ecclesiastes 1:11",
+    "connected_from": "Ecclesiastes 1:9"
+  },
+  {
+    "text": "There is no remembrance of those who came before, and those yet to come will not be remembered by those who follow after.",
+    "reference": "Ecclesiastes 1:11 (BAB)",
+    "connected_to": "Ecclesiastes 1:12",
+    "connected_from": "Ecclesiastes 1:10"
+  },
+  {
+    "text": "I, the Teacher, was king over Israel (he wrestles with God) in Jerusalem (city of peace).",
+    "reference": "Ecclesiastes 1:12 (BAB)",
+    "connected_to": "Ecclesiastes 1:13",
+    "connected_from": "Ecclesiastes 1:11"
+  },
+  {
+    "text": "And I set my mind to seek and explore by wisdom all that is done under heaven. What a miserable task God {Elohim} has laid upon the sons of men to occupy them!",
+    "reference": "Ecclesiastes 1:13 (BAB)",
+    "connected_to": "Ecclesiastes 1:14",
+    "connected_from": "Ecclesiastes 1:12"
+  },
+  {
+    "text": "I have seen all the things that are done under the sun, and have found them all to be futile, a pursuit of the wind {ruach}.",
+    "reference": "Ecclesiastes 1:14 (BAB)",
+    "connected_to": "Ecclesiastes 1:15",
+    "connected_from": "Ecclesiastes 1:13"
+  },
+  {
+    "text": "What is crooked cannot be straightened, and what is lacking cannot be counted.",
+    "reference": "Ecclesiastes 1:15 (BAB)",
+    "connected_to": "Ecclesiastes 1:16",
+    "connected_from": "Ecclesiastes 1:14"
+  },
+  {
+    "text": "I said to myself, “Behold, I have grown and increased in wisdom beyond all those before me who were over Jerusalem (city of peace), and my mind has observed a wealth of wisdom and knowledge.”",
+    "reference": "Ecclesiastes 1:16 (BAB)",
+    "connected_to": "Ecclesiastes 1:17",
+    "connected_from": "Ecclesiastes 1:15"
+  },
+  {
+    "text": "So I set my mind to know wisdom and madness and folly; I learned that this, too, is a pursuit of the wind {ruach}.",
+    "reference": "Ecclesiastes 1:17 (BAB)",
+    "connected_to": "Ecclesiastes 1:18",
+    "connected_from": "Ecclesiastes 1:16"
+  },
+  {
+    "text": "For with much wisdom comes much sorrow, and as knowledge grows, grief increases.",
+    "reference": "Ecclesiastes 1:18 (BAB)",
+    "connected_from": "Ecclesiastes 1:17"
+  }
+]

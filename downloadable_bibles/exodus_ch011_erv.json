@@ -1,0 +1,60 @@
+[
+  {
+    "text": "And the LORD said unto Moses, Yet one plague more will I bring upon Pharaoh, and upon Egypt; afterwards he will let you go hence: when he shall let you go, he shall surely thrust you out hence altogether.",
+    "reference": "Exodus 11:1 (ERV)",
+    "connected_to": "Exodus 11:2"
+  },
+  {
+    "text": "Speak now in the ears of the people, and let them ask every man of his neighbour, and every woman of her neighbour, jewels of silver, and jewels of gold.",
+    "reference": "Exodus 11:2 (ERV)",
+    "connected_to": "Exodus 11:3",
+    "connected_from": "Exodus 11:1"
+  },
+  {
+    "text": "And the LORD gave the people favour in the sight of the Egyptians. Moreover the man Moses was very great in the land of Egypt, in the sight of Pharaoh’s servants, and in the sight of the people.",
+    "reference": "Exodus 11:3 (ERV)",
+    "connected_to": "Exodus 11:4",
+    "connected_from": "Exodus 11:2"
+  },
+  {
+    "text": "And Moses said, Thus saith the LORD, About midnight will I go out into the midst of Egypt:",
+    "reference": "Exodus 11:4 (ERV)",
+    "connected_to": "Exodus 11:5",
+    "connected_from": "Exodus 11:3"
+  },
+  {
+    "text": "and all the firstborn in the land of Egypt shall die, from the firstborn of Pharaoh that sitteth upon his throne, even unto the firstborn of the maidservant that is behind the mill; and all the firstborn of cattle.",
+    "reference": "Exodus 11:5 (ERV)",
+    "connected_to": "Exodus 11:6",
+    "connected_from": "Exodus 11:4"
+  },
+  {
+    "text": "And there shall be a great cry throughout all the land of Egypt, such as there hath been none like it, nor shall be like it any more.",
+    "reference": "Exodus 11:6 (ERV)",
+    "connected_to": "Exodus 11:7",
+    "connected_from": "Exodus 11:5"
+  },
+  {
+    "text": "But against any of the children of Israel shall not a dog move his tongue, against man or beast: that ye may know how that the LORD doth put a difference between the Egyptians and Israel.",
+    "reference": "Exodus 11:7 (ERV)",
+    "connected_to": "Exodus 11:8",
+    "connected_from": "Exodus 11:6"
+  },
+  {
+    "text": "And all these thy servants shall come down unto me, and bow down themselves unto me, saying, Get thee out, and all the people that follow thee: and after that I will go out. And he went out from Pharaoh in hot anger.",
+    "reference": "Exodus 11:8 (ERV)",
+    "connected_to": "Exodus 11:9",
+    "connected_from": "Exodus 11:7"
+  },
+  {
+    "text": "And the LORD said unto Moses, Pharaoh will not hearken unto you: that my wonders may be multiplied in the land of Egypt.",
+    "reference": "Exodus 11:9 (ERV)",
+    "connected_to": "Exodus 11:10",
+    "connected_from": "Exodus 11:8"
+  },
+  {
+    "text": "And Moses and Aaron did all these wonders before Pharaoh: and the LORD hardened Pharaoh’s heart, and he did not let the children of Israel go out of his land.",
+    "reference": "Exodus 11:10 (ERV)",
+    "connected_from": "Exodus 11:9"
+  }
+]

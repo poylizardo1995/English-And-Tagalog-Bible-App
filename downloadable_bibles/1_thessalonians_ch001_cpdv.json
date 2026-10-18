@@ -1,0 +1,60 @@
+[
+  {
+    "text": "Paul and Sylvanus and Timothy, to the church of the Thessalonians, in God the Father and the Lord Jesus Christ.",
+    "reference": "1 Thessalonians 1:1 (CPDV)",
+    "connected_to": "1 Thessalonians 1:2"
+  },
+  {
+    "text": "Grace and peace to you. We give thanks to God always for all of you, keeping the memory of you in our prayers without ceasing,",
+    "reference": "1 Thessalonians 1:2 (CPDV)",
+    "connected_to": "1 Thessalonians 1:3",
+    "connected_from": "1 Thessalonians 1:1"
+  },
+  {
+    "text": "remembering your work of faith, and hardship, and charity, and enduring hope, in our Lord Jesus Christ, before God our Father.",
+    "reference": "1 Thessalonians 1:3 (CPDV)",
+    "connected_to": "1 Thessalonians 1:4",
+    "connected_from": "1 Thessalonians 1:2"
+  },
+  {
+    "text": "For we know, brothers, beloved of God, of your election.",
+    "reference": "1 Thessalonians 1:4 (CPDV)",
+    "connected_to": "1 Thessalonians 1:5",
+    "connected_from": "1 Thessalonians 1:3"
+  },
+  {
+    "text": "For our Gospel has not been among you in word alone, but also in virtue, and in the Holy Spirit, and with a great fullness, in the same manner as you know we have acted among you for your sake.",
+    "reference": "1 Thessalonians 1:5 (CPDV)",
+    "connected_to": "1 Thessalonians 1:6",
+    "connected_from": "1 Thessalonians 1:4"
+  },
+  {
+    "text": "And so, you became imitators of us and of the Lord, accepting the Word in the midst of great tribulation, but with the joy of the Holy Spirit.",
+    "reference": "1 Thessalonians 1:6 (CPDV)",
+    "connected_to": "1 Thessalonians 1:7",
+    "connected_from": "1 Thessalonians 1:5"
+  },
+  {
+    "text": "So have you become a pattern for all who believe in Macedonia and in Achaia.",
+    "reference": "1 Thessalonians 1:7 (CPDV)",
+    "connected_to": "1 Thessalonians 1:8",
+    "connected_from": "1 Thessalonians 1:6"
+  },
+  {
+    "text": "For from you, the Word of the Lord was spread, not only in Macedonia and in Achaia, but also in every place. Your faith, which is toward God, has advanced so much so that we do not need to speak to you about anything.",
+    "reference": "1 Thessalonians 1:8 (CPDV)",
+    "connected_to": "1 Thessalonians 1:9",
+    "connected_from": "1 Thessalonians 1:7"
+  },
+  {
+    "text": "For others are reporting among us of the kind of acceptance we had among you, and how you were converted from idols to God, to the service of the living and true God,",
+    "reference": "1 Thessalonians 1:9 (CPDV)",
+    "connected_to": "1 Thessalonians 1:10",
+    "connected_from": "1 Thessalonians 1:8"
+  },
+  {
+    "text": "and to the expectation of his Son from heaven (whom he raised up from the dead), Jesus, who has rescued us from the approaching wrath.",
+    "reference": "1 Thessalonians 1:10 (CPDV)",
+    "connected_from": "1 Thessalonians 1:9"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "text": "The Lord shewed me: and behold two baskets full of figs, set before the temple of the Lord: after that Nabuchodonosor king of Babylon had carried away Jechonias the son of Joakim the king of Juda, and his chief men, and the craftsmen, and engravers of Jerusalem, and had brought them to Babylon.",
+    "reference": "Jeremiah 24:1 (DRB)",
+    "connected_to": "Jeremiah 24:2"
+  },
+  {
+    "text": "One basket had very good figs, like the figs of the first season: and the other basket had very bad figs, which could not be eaten, because they were bad.",
+    "reference": "Jeremiah 24:2 (DRB)",
+    "connected_to": "Jeremiah 24:3",
+    "connected_from": "Jeremiah 24:1"
+  },
+  {
+    "text": "And the Lord said to me: What seest thou, Jeremias? And I said: Figs, the good figs, very good: and the bad figs, very bad, which cannot be eaten because they are bad.",
+    "reference": "Jeremiah 24:3 (DRB)",
+    "connected_to": "Jeremiah 24:4",
+    "connected_from": "Jeremiah 24:2"
+  },
+  {
+    "text": "And the word of the Lord came to me, saying:",
+    "reference": "Jeremiah 24:4 (DRB)",
+    "connected_to": "Jeremiah 24:5",
+    "connected_from": "Jeremiah 24:3"
+  },
+  {
+    "text": "Thus saith the Lord the God of Israel: Like these good figs, so will I regard the captives of Juda, whom I have sent forth out of this place into the land oif the Chaldeans, for their own good.",
+    "reference": "Jeremiah 24:5 (DRB)",
+    "connected_to": "Jeremiah 24:6",
+    "connected_from": "Jeremiah 24:4"
+  },
+  {
+    "text": "And I will set my eyes upon them to be pacified, and I will bring them again into this land: and I will be their God: and I will build them up, and not pull them down: and I will plant them, and not pluck them up.",
+    "reference": "Jeremiah 24:6 (DRB)",
+    "connected_to": "Jeremiah 24:7",
+    "connected_from": "Jeremiah 24:5"
+  },
+  {
+    "text": "And I will give them a heart to know me, that I am the Lord: and they shall be my people, and I will be their God: because they shall return to me with their whole heart.",
+    "reference": "Jeremiah 24:7 (DRB)",
+    "connected_to": "Jeremiah 24:8",
+    "connected_from": "Jeremiah 24:6"
+  },
+  {
+    "text": "And as the very bad figs, that cannot be eaten, because they are bad: thus saith the Lord: So will I give Sedecias the king of Juda, and his princes, and the residue of Jerusalem, that have remained in this city, and that dwell in the land of Egypt.",
+    "reference": "Jeremiah 24:8 (DRB)",
+    "connected_to": "Jeremiah 24:9",
+    "connected_from": "Jeremiah 24:7"
+  },
+  {
+    "text": "And I will deliver them up to vexation, and affliction, to all the kingdoms of the earth: to be a reproach, and a byword, and a proverb, and to be a curse in all places, to which I have cast them out.",
+    "reference": "Jeremiah 24:9 (DRB)",
+    "connected_to": "Jeremiah 24:10",
+    "connected_from": "Jeremiah 24:8"
+  },
+  {
+    "text": "And I will send among them the sword, and the famine, and the pestilence: till they be consumed out of the land which I gave to them, and their fathers.",
+    "reference": "Jeremiah 24:10 (DRB)",
+    "connected_from": "Jeremiah 24:9"
+  }
+]

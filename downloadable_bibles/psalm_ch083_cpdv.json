@@ -1,0 +1,108 @@
+[
+  {
+    "text": "A Canticle Psalm of Asaph. O God, who will ever be like you? Do not be silent, and do not be unmoved, O God.",
+    "reference": "Psalm 83:1 (CPDV)",
+    "connected_to": "Psalm 83:2"
+  },
+  {
+    "text": "For behold, your enemies have sounded off, and those who hate you have carried out a head.",
+    "reference": "Psalm 83:2 (CPDV)",
+    "connected_to": "Psalm 83:3",
+    "connected_from": "Psalm 83:1"
+  },
+  {
+    "text": "They have acted with malice in counsel over your people, and they have plotted against your holy ones.",
+    "reference": "Psalm 83:3 (CPDV)",
+    "connected_to": "Psalm 83:4",
+    "connected_from": "Psalm 83:2"
+  },
+  {
+    "text": "They have said, “Come, let us scatter them from the nations and not allow the name of Israel to be remembered any longer.”",
+    "reference": "Psalm 83:4 (CPDV)",
+    "connected_to": "Psalm 83:5",
+    "connected_from": "Psalm 83:3"
+  },
+  {
+    "text": "For they plotted unanimously. Joined together against you, they ordained a covenant:",
+    "reference": "Psalm 83:5 (CPDV)",
+    "connected_to": "Psalm 83:6",
+    "connected_from": "Psalm 83:4"
+  },
+  {
+    "text": "the tabernacle of Edomites and Ishmaelites, and Moab and the Hagarites,",
+    "reference": "Psalm 83:6 (CPDV)",
+    "connected_to": "Psalm 83:7",
+    "connected_from": "Psalm 83:5"
+  },
+  {
+    "text": "and Gebal, and Ammon, and Amalek, the foreigners among the inhabitants of Tyre.",
+    "reference": "Psalm 83:7 (CPDV)",
+    "connected_to": "Psalm 83:8",
+    "connected_from": "Psalm 83:6"
+  },
+  {
+    "text": "For even Assur comes with them. They have become the helpers of the sons of Lot.",
+    "reference": "Psalm 83:8 (CPDV)",
+    "connected_to": "Psalm 83:9",
+    "connected_from": "Psalm 83:7"
+  },
+  {
+    "text": "Do to them as you did to Midian and Sisera, just as to Jabin at the torrent of Kishon.",
+    "reference": "Psalm 83:9 (CPDV)",
+    "connected_to": "Psalm 83:10",
+    "connected_from": "Psalm 83:8"
+  },
+  {
+    "text": "They perished at Endor, and they became like the dung of the earth.",
+    "reference": "Psalm 83:10 (CPDV)",
+    "connected_to": "Psalm 83:11",
+    "connected_from": "Psalm 83:9"
+  },
+  {
+    "text": "Set their leaders to be like Oreb and Zeeb, and Zebah and Zalmunna: all their leaders",
+    "reference": "Psalm 83:11 (CPDV)",
+    "connected_to": "Psalm 83:12",
+    "connected_from": "Psalm 83:10"
+  },
+  {
+    "text": "who said, “Let us possess the Sanctuary of God for an inheritance.”",
+    "reference": "Psalm 83:12 (CPDV)",
+    "connected_to": "Psalm 83:13",
+    "connected_from": "Psalm 83:11"
+  },
+  {
+    "text": "My God, set them like a wheel, and like stubble before the face of the wind.",
+    "reference": "Psalm 83:13 (CPDV)",
+    "connected_to": "Psalm 83:14",
+    "connected_from": "Psalm 83:12"
+  },
+  {
+    "text": "Set them like a fire burning up the forest, and like a flame burning up the mountains.",
+    "reference": "Psalm 83:14 (CPDV)",
+    "connected_to": "Psalm 83:15",
+    "connected_from": "Psalm 83:13"
+  },
+  {
+    "text": "So will you pursue them in your tempest, and disturb them in your wrath.",
+    "reference": "Psalm 83:15 (CPDV)",
+    "connected_to": "Psalm 83:16",
+    "connected_from": "Psalm 83:14"
+  },
+  {
+    "text": "Fill their faces with shame, and they will seek your name, O Lord.",
+    "reference": "Psalm 83:16 (CPDV)",
+    "connected_to": "Psalm 83:17",
+    "connected_from": "Psalm 83:15"
+  },
+  {
+    "text": "Let them be ashamed and troubled, from age to age, and let them be confounded and perish.",
+    "reference": "Psalm 83:17 (CPDV)",
+    "connected_to": "Psalm 83:18",
+    "connected_from": "Psalm 83:16"
+  },
+  {
+    "text": "And let them know that the Lord is your name. You alone are the Most High in all the earth.",
+    "reference": "Psalm 83:18 (CPDV)",
+    "connected_from": "Psalm 83:17"
+  }
+]

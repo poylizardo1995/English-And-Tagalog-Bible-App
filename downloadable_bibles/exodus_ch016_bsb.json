@@ -1,0 +1,216 @@
+[
+  {
+    "text": "On the fifteenth day of the second month after they had left the land of Egypt, the whole congregation of Israel set out from Elim and came to the Desert of Sin, which is between Elim and Sinai.",
+    "reference": "Exodus 16:1 (BSB)",
+    "connected_to": "Exodus 16:2"
+  },
+  {
+    "text": "And there in the desert the whole congregation of Israel grumbled against Moses and Aaron.",
+    "reference": "Exodus 16:2 (BSB)",
+    "connected_to": "Exodus 16:3",
+    "connected_from": "Exodus 16:1"
+  },
+  {
+    "text": "“If only we had died by the LORD’s hand in the land of Egypt!” they said. “There we sat by pots of meat and ate our fill of bread, but you have brought us into this desert to starve this whole assembly to death!”",
+    "reference": "Exodus 16:3 (BSB)",
+    "connected_to": "Exodus 16:4",
+    "connected_from": "Exodus 16:2"
+  },
+  {
+    "text": "Then the LORD said to Moses, “Behold, I will rain down bread from heaven for you. Each day the people are to go out and gather enough for that day. In this way I will test whether or not they will follow My instructions.",
+    "reference": "Exodus 16:4 (BSB)",
+    "connected_to": "Exodus 16:5",
+    "connected_from": "Exodus 16:3"
+  },
+  {
+    "text": "Then on the sixth day, when they prepare what they bring in, it will be twice as much as they gather on the other days.”",
+    "reference": "Exodus 16:5 (BSB)",
+    "connected_to": "Exodus 16:6",
+    "connected_from": "Exodus 16:4"
+  },
+  {
+    "text": "So Moses and Aaron said to all the Israelites, “This evening you will know that it was the LORD who brought you out of the land of Egypt,",
+    "reference": "Exodus 16:6 (BSB)",
+    "connected_to": "Exodus 16:7",
+    "connected_from": "Exodus 16:5"
+  },
+  {
+    "text": "and in the morning you will see the LORD’s glory, because He has heard your grumbling against Him. For who are we, that you should grumble against us?”",
+    "reference": "Exodus 16:7 (BSB)",
+    "connected_to": "Exodus 16:8",
+    "connected_from": "Exodus 16:6"
+  },
+  {
+    "text": "And Moses added, “The LORD will give you meat to eat this evening and bread to fill you in the morning, for He has heard your grumbling against Him. Who are we? Your grumblings are not against us but against the LORD.”",
+    "reference": "Exodus 16:8 (BSB)",
+    "connected_to": "Exodus 16:9",
+    "connected_from": "Exodus 16:7"
+  },
+  {
+    "text": "Then Moses said to Aaron, “Tell the whole congregation of Israel, ‘Come before the LORD, for He has heard your grumbling.’”",
+    "reference": "Exodus 16:9 (BSB)",
+    "connected_to": "Exodus 16:10",
+    "connected_from": "Exodus 16:8"
+  },
+  {
+    "text": "And as Aaron was speaking to the whole congregation of Israel, they looked toward the desert, and there in a cloud the glory of the LORD appeared.",
+    "reference": "Exodus 16:10 (BSB)",
+    "connected_to": "Exodus 16:11",
+    "connected_from": "Exodus 16:9"
+  },
+  {
+    "text": "Then the LORD said to Moses,",
+    "reference": "Exodus 16:11 (BSB)",
+    "connected_to": "Exodus 16:12",
+    "connected_from": "Exodus 16:10"
+  },
+  {
+    "text": "“I have heard the grumbling of the Israelites. Tell them, ‘At twilight you will eat meat, and in the morning you will be filled with bread. Then you will know that I am the LORD your God.’”",
+    "reference": "Exodus 16:12 (BSB)",
+    "connected_to": "Exodus 16:13",
+    "connected_from": "Exodus 16:11"
+  },
+  {
+    "text": "That evening quail came and covered the camp, and in the morning there was a layer of dew around the camp.",
+    "reference": "Exodus 16:13 (BSB)",
+    "connected_to": "Exodus 16:14",
+    "connected_from": "Exodus 16:12"
+  },
+  {
+    "text": "When the layer of dew had evaporated, there were thin flakes on the desert floor, as fine as frost on the ground.",
+    "reference": "Exodus 16:14 (BSB)",
+    "connected_to": "Exodus 16:15",
+    "connected_from": "Exodus 16:13"
+  },
+  {
+    "text": "When the Israelites saw it, they asked one another, “What is it?” For they did not know what it was. So Moses told them, “It is the bread that the LORD has given you to eat.",
+    "reference": "Exodus 16:15 (BSB)",
+    "connected_to": "Exodus 16:16",
+    "connected_from": "Exodus 16:14"
+  },
+  {
+    "text": "This is what the LORD has commanded: ‘Each one is to gather as much as he needs. You may take an omer for each person in your tent.’”",
+    "reference": "Exodus 16:16 (BSB)",
+    "connected_to": "Exodus 16:17",
+    "connected_from": "Exodus 16:15"
+  },
+  {
+    "text": "So the Israelites did this. Some gathered more, and some less.",
+    "reference": "Exodus 16:17 (BSB)",
+    "connected_to": "Exodus 16:18",
+    "connected_from": "Exodus 16:16"
+  },
+  {
+    "text": "When they measured it by the omer, he who gathered much had no excess, and he who gathered little had no shortfall. Each one gathered as much as he needed to eat.",
+    "reference": "Exodus 16:18 (BSB)",
+    "connected_to": "Exodus 16:19",
+    "connected_from": "Exodus 16:17"
+  },
+  {
+    "text": "Then Moses said to them, “No one may keep any of it until morning.”",
+    "reference": "Exodus 16:19 (BSB)",
+    "connected_to": "Exodus 16:20",
+    "connected_from": "Exodus 16:18"
+  },
+  {
+    "text": "But they did not listen to Moses; some people left part of it until morning, and it became infested with maggots and began to smell. So Moses was angry with them.",
+    "reference": "Exodus 16:20 (BSB)",
+    "connected_to": "Exodus 16:21",
+    "connected_from": "Exodus 16:19"
+  },
+  {
+    "text": "Every morning each one gathered as much as was needed, and when the sun grew hot, it melted away.",
+    "reference": "Exodus 16:21 (BSB)",
+    "connected_to": "Exodus 16:22",
+    "connected_from": "Exodus 16:20"
+  },
+  {
+    "text": "On the sixth day, they gathered twice as much food—two omers per person—and all the leaders of the congregation came and reported this to Moses.",
+    "reference": "Exodus 16:22 (BSB)",
+    "connected_to": "Exodus 16:23",
+    "connected_from": "Exodus 16:21"
+  },
+  {
+    "text": "He told them, “This is what the LORD has said: ‘Tomorrow is to be a day of complete rest, a holy Sabbath to the LORD. So bake what you want to bake, and boil what you want to boil. Then set aside whatever remains and keep it until morning.’”",
+    "reference": "Exodus 16:23 (BSB)",
+    "connected_to": "Exodus 16:24",
+    "connected_from": "Exodus 16:22"
+  },
+  {
+    "text": "So they set it aside until morning as Moses had commanded, and it did not smell or contain any maggots.",
+    "reference": "Exodus 16:24 (BSB)",
+    "connected_to": "Exodus 16:25",
+    "connected_from": "Exodus 16:23"
+  },
+  {
+    "text": "“Eat it today,” Moses said, “because today is a Sabbath to the LORD. Today you will not find anything in the field.",
+    "reference": "Exodus 16:25 (BSB)",
+    "connected_to": "Exodus 16:26",
+    "connected_from": "Exodus 16:24"
+  },
+  {
+    "text": "For six days you may gather, but on the seventh day, the Sabbath, it will not be there.”",
+    "reference": "Exodus 16:26 (BSB)",
+    "connected_to": "Exodus 16:27",
+    "connected_from": "Exodus 16:25"
+  },
+  {
+    "text": "Yet on the seventh day some of the people went out to gather, but they did not find anything.",
+    "reference": "Exodus 16:27 (BSB)",
+    "connected_to": "Exodus 16:28",
+    "connected_from": "Exodus 16:26"
+  },
+  {
+    "text": "Then the LORD said to Moses, “How long will you refuse to keep My commandments and instructions?",
+    "reference": "Exodus 16:28 (BSB)",
+    "connected_to": "Exodus 16:29",
+    "connected_from": "Exodus 16:27"
+  },
+  {
+    "text": "Understand that the LORD has given you the Sabbath; that is why on the sixth day He will give you bread for two days. On the seventh day, everyone must stay where he is; no one may leave his place.”",
+    "reference": "Exodus 16:29 (BSB)",
+    "connected_to": "Exodus 16:30",
+    "connected_from": "Exodus 16:28"
+  },
+  {
+    "text": "So the people rested on the seventh day.",
+    "reference": "Exodus 16:30 (BSB)",
+    "connected_to": "Exodus 16:31",
+    "connected_from": "Exodus 16:29"
+  },
+  {
+    "text": "Now the house of Israel called the bread manna. It was white like coriander seed and tasted like wafers made with honey.",
+    "reference": "Exodus 16:31 (BSB)",
+    "connected_to": "Exodus 16:32",
+    "connected_from": "Exodus 16:30"
+  },
+  {
+    "text": "Moses said, “This is what the LORD has commanded: ‘Keep an omer of manna for the generations to come, so that they may see the bread I fed you in the wilderness when I brought you out of the land of Egypt.’”",
+    "reference": "Exodus 16:32 (BSB)",
+    "connected_to": "Exodus 16:33",
+    "connected_from": "Exodus 16:31"
+  },
+  {
+    "text": "So Moses told Aaron, “Take a jar and fill it with an omer of manna. Then place it before the LORD to be preserved for the generations to come.”",
+    "reference": "Exodus 16:33 (BSB)",
+    "connected_to": "Exodus 16:34",
+    "connected_from": "Exodus 16:32"
+  },
+  {
+    "text": "And Aaron placed it in front of the Testimony, to be preserved just as the LORD had commanded Moses.",
+    "reference": "Exodus 16:34 (BSB)",
+    "connected_to": "Exodus 16:35",
+    "connected_from": "Exodus 16:33"
+  },
+  {
+    "text": "The Israelites ate manna forty years, until they came to a land where they could settle; they ate manna until they reached the border of Canaan.",
+    "reference": "Exodus 16:35 (BSB)",
+    "connected_to": "Exodus 16:36",
+    "connected_from": "Exodus 16:34"
+  },
+  {
+    "text": "(Now an omer is a tenth of an ephah.)",
+    "reference": "Exodus 16:36 (BSB)",
+    "connected_from": "Exodus 16:35"
+  }
+]

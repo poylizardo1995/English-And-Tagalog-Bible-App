@@ -1,0 +1,150 @@
+[
+  {
+    "text": "And Job answered and said,",
+    "reference": "Job 12:1 (DBT)",
+    "connected_to": "Job 12:2"
+  },
+  {
+    "text": "Truly ye are the people, and wisdom shall die with you!",
+    "reference": "Job 12:2 (DBT)",
+    "connected_to": "Job 12:3",
+    "connected_from": "Job 12:1"
+  },
+  {
+    "text": "I also have understanding as well as you; I am not inferior to you; and who knoweth not such things as these?",
+    "reference": "Job 12:3 (DBT)",
+    "connected_to": "Job 12:4",
+    "connected_from": "Job 12:2"
+  },
+  {
+    "text": "I am to be one that is a derision to his friend, I who call upon +God, and whom he will answer: a derision is the just upright [man].",
+    "reference": "Job 12:4 (DBT)",
+    "connected_to": "Job 12:5",
+    "connected_from": "Job 12:3"
+  },
+  {
+    "text": "He that is ready to stumble with the foot is a lamp despised in the thought of him that is at ease.",
+    "reference": "Job 12:5 (DBT)",
+    "connected_to": "Job 12:6",
+    "connected_from": "Job 12:4"
+  },
+  {
+    "text": "The tents of desolators are in peace, and they that provoke God are secure; into whose hand +God bringeth.",
+    "reference": "Job 12:6 (DBT)",
+    "connected_to": "Job 12:7",
+    "connected_from": "Job 12:5"
+  },
+  {
+    "text": "But ask now the beasts, and they shall teach thee; and the fowl of the heavens, and they shall tell thee;",
+    "reference": "Job 12:7 (DBT)",
+    "connected_to": "Job 12:8",
+    "connected_from": "Job 12:6"
+  },
+  {
+    "text": "Or speak to the earth, and it shall teach thee; and the fishes of the sea shall declare unto thee.",
+    "reference": "Job 12:8 (DBT)",
+    "connected_to": "Job 12:9",
+    "connected_from": "Job 12:7"
+  },
+  {
+    "text": "Who knoweth not in all these, that the hand of Jehovah hath wrought this?",
+    "reference": "Job 12:9 (DBT)",
+    "connected_to": "Job 12:10",
+    "connected_from": "Job 12:8"
+  },
+  {
+    "text": "In whose hand is the soul of every living thing, and the spirit of all flesh of man.",
+    "reference": "Job 12:10 (DBT)",
+    "connected_to": "Job 12:11",
+    "connected_from": "Job 12:9"
+  },
+  {
+    "text": "Doth not the ear try words, as the palate tasteth food?",
+    "reference": "Job 12:11 (DBT)",
+    "connected_to": "Job 12:12",
+    "connected_from": "Job 12:10"
+  },
+  {
+    "text": "With the aged is wisdom, and in length of days understanding.",
+    "reference": "Job 12:12 (DBT)",
+    "connected_to": "Job 12:13",
+    "connected_from": "Job 12:11"
+  },
+  {
+    "text": "With him is wisdom and might; he hath counsel and understanding.",
+    "reference": "Job 12:13 (DBT)",
+    "connected_to": "Job 12:14",
+    "connected_from": "Job 12:12"
+  },
+  {
+    "text": "Behold, he breaketh down, and it is not built again; he shutteth up a man, and there is no opening.",
+    "reference": "Job 12:14 (DBT)",
+    "connected_to": "Job 12:15",
+    "connected_from": "Job 12:13"
+  },
+  {
+    "text": "Behold, he withholdeth the waters, and they dry up; and he sendeth them out, and they overturn the earth.",
+    "reference": "Job 12:15 (DBT)",
+    "connected_to": "Job 12:16",
+    "connected_from": "Job 12:14"
+  },
+  {
+    "text": "With him is strength and effectual knowledge; the deceived and the deceiver are his.",
+    "reference": "Job 12:16 (DBT)",
+    "connected_to": "Job 12:17",
+    "connected_from": "Job 12:15"
+  },
+  {
+    "text": "He leadeth counsellors away spoiled, and judges maketh he fools;",
+    "reference": "Job 12:17 (DBT)",
+    "connected_to": "Job 12:18",
+    "connected_from": "Job 12:16"
+  },
+  {
+    "text": "He weakeneth the government of kings, and bindeth their loins with a fetter;",
+    "reference": "Job 12:18 (DBT)",
+    "connected_to": "Job 12:19",
+    "connected_from": "Job 12:17"
+  },
+  {
+    "text": "He leadeth priests away spoiled, and overthroweth the mighty;",
+    "reference": "Job 12:19 (DBT)",
+    "connected_to": "Job 12:20",
+    "connected_from": "Job 12:18"
+  },
+  {
+    "text": "He depriveth of speech the trusty, and taketh away the judgment of the elders;",
+    "reference": "Job 12:20 (DBT)",
+    "connected_to": "Job 12:21",
+    "connected_from": "Job 12:19"
+  },
+  {
+    "text": "He poureth contempt upon nobles, and slackeneth the girdle of the mighty;",
+    "reference": "Job 12:21 (DBT)",
+    "connected_to": "Job 12:22",
+    "connected_from": "Job 12:20"
+  },
+  {
+    "text": "He discovereth deep things out of darkness, and bringeth out into light the shadow of death;",
+    "reference": "Job 12:22 (DBT)",
+    "connected_to": "Job 12:23",
+    "connected_from": "Job 12:21"
+  },
+  {
+    "text": "He increaseth the nations, and destroyeth them; he spreadeth out the nations, and bringeth them in;",
+    "reference": "Job 12:23 (DBT)",
+    "connected_to": "Job 12:24",
+    "connected_from": "Job 12:22"
+  },
+  {
+    "text": "He taketh away the understanding of the chiefs of the people of the earth, and causeth them to wander in a pathless waste.",
+    "reference": "Job 12:24 (DBT)",
+    "connected_to": "Job 12:25",
+    "connected_from": "Job 12:23"
+  },
+  {
+    "text": "They grope in the dark without light, and he maketh them to stagger like a drunkard.",
+    "reference": "Job 12:25 (DBT)",
+    "connected_from": "Job 12:24"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "text": "A prayer of Moses, the man of God. O Lord, you have been our refuge from generation to generation.",
+    "reference": "Psalm 90:1 (CPDV)",
+    "connected_to": "Psalm 90:2"
+  },
+  {
+    "text": "Before the mountains became, or the land was formed along with the world: from ages past, even to all ages, you are God.",
+    "reference": "Psalm 90:2 (CPDV)",
+    "connected_to": "Psalm 90:3",
+    "connected_from": "Psalm 90:1"
+  },
+  {
+    "text": "And, lest man be turned aside in humiliation, you have said: Be converted, O sons of men.",
+    "reference": "Psalm 90:3 (CPDV)",
+    "connected_to": "Psalm 90:4",
+    "connected_from": "Psalm 90:2"
+  },
+  {
+    "text": "For a thousand years before your eyes are like the days of yesterday, which have passed by, and they are like a watch of the night,",
+    "reference": "Psalm 90:4 (CPDV)",
+    "connected_to": "Psalm 90:5",
+    "connected_from": "Psalm 90:3"
+  },
+  {
+    "text": "which was held for nothing: so their years shall be.",
+    "reference": "Psalm 90:5 (CPDV)",
+    "connected_to": "Psalm 90:6",
+    "connected_from": "Psalm 90:4"
+  },
+  {
+    "text": "In the morning, he may pass away like grass; in the morning, he may flower and pass away. In the evening, he will fall, and harden, and become dry.",
+    "reference": "Psalm 90:6 (CPDV)",
+    "connected_to": "Psalm 90:7",
+    "connected_from": "Psalm 90:5"
+  },
+  {
+    "text": "For, at your wrath, we have withered away, and we have been disturbed by your fury.",
+    "reference": "Psalm 90:7 (CPDV)",
+    "connected_to": "Psalm 90:8",
+    "connected_from": "Psalm 90:6"
+  },
+  {
+    "text": "You have placed our iniquities in your sight, our age in the illumination of your countenance.",
+    "reference": "Psalm 90:8 (CPDV)",
+    "connected_to": "Psalm 90:9",
+    "connected_from": "Psalm 90:7"
+  },
+  {
+    "text": "For all our days have faded away, and at your wrath, we have fainted. Our years will be considered to be like a spider’s web.",
+    "reference": "Psalm 90:9 (CPDV)",
+    "connected_to": "Psalm 90:10",
+    "connected_from": "Psalm 90:8"
+  },
+  {
+    "text": "The days of our years in them are seventy years. But in the powerful, they are eighty years, and more of these are with hardship and sorrow. For mildness has overwhelmed us, and we shall be corrected.",
+    "reference": "Psalm 90:10 (CPDV)",
+    "connected_to": "Psalm 90:11",
+    "connected_from": "Psalm 90:9"
+  },
+  {
+    "text": "Who knows the power of your wrath? And, before fear, can your wrath",
+    "reference": "Psalm 90:11 (CPDV)",
+    "connected_to": "Psalm 90:12",
+    "connected_from": "Psalm 90:10"
+  },
+  {
+    "text": "be numbered? So make known your right hand, along with men learned in heart, in wisdom.",
+    "reference": "Psalm 90:12 (CPDV)",
+    "connected_to": "Psalm 90:13",
+    "connected_from": "Psalm 90:11"
+  },
+  {
+    "text": "Return, O Lord, how long? And may you be persuaded on behalf of your servants.",
+    "reference": "Psalm 90:13 (CPDV)",
+    "connected_to": "Psalm 90:14",
+    "connected_from": "Psalm 90:12"
+  },
+  {
+    "text": "We were filled in the morning with your mercy, and we exulted and delighted all our days.",
+    "reference": "Psalm 90:14 (CPDV)",
+    "connected_to": "Psalm 90:15",
+    "connected_from": "Psalm 90:13"
+  },
+  {
+    "text": "We have been rejoicing, because of the days in which you humbled us, because of the years in which we saw evils.",
+    "reference": "Psalm 90:15 (CPDV)",
+    "connected_to": "Psalm 90:16",
+    "connected_from": "Psalm 90:14"
+  },
+  {
+    "text": "Look down upon your servants and upon their works, and direct their sons.",
+    "reference": "Psalm 90:16 (CPDV)",
+    "connected_to": "Psalm 90:17",
+    "connected_from": "Psalm 90:15"
+  },
+  {
+    "text": "And may the splendor of the Lord our God be upon us. And so, direct the works of our hands over us; direct even the work of our hands.",
+    "reference": "Psalm 90:17 (CPDV)",
+    "connected_from": "Psalm 90:16"
+  }
+]

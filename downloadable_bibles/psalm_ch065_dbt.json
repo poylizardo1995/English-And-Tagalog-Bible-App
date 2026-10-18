@@ -1,0 +1,78 @@
+[
+  {
+    "text": "{To the chief Musician. A Psalm of David: a Song.} Praise waiteth for thee in silence, O God, in Zion; and unto thee shall the vow be performed.",
+    "reference": "Psalm 65:1 (DBT)",
+    "connected_to": "Psalm 65:2"
+  },
+  {
+    "text": "O thou that hearest prayer, unto thee shall all flesh come.",
+    "reference": "Psalm 65:2 (DBT)",
+    "connected_to": "Psalm 65:3",
+    "connected_from": "Psalm 65:1"
+  },
+  {
+    "text": "Iniquities have prevailed against me: our transgressions, thou wilt forgive them.",
+    "reference": "Psalm 65:3 (DBT)",
+    "connected_to": "Psalm 65:4",
+    "connected_from": "Psalm 65:2"
+  },
+  {
+    "text": "Blessed is he whom thou choosest and causest to approach: he shall dwell in thy courts. We shall be satisfied with the goodness of thy house, of thy holy temple.",
+    "reference": "Psalm 65:4 (DBT)",
+    "connected_to": "Psalm 65:5",
+    "connected_from": "Psalm 65:3"
+  },
+  {
+    "text": "By terrible things in righteousness wilt thou answer us, O God of our salvation, thou confidence of all the ends of the earth, and of the distant regions of the sea....",
+    "reference": "Psalm 65:5 (DBT)",
+    "connected_to": "Psalm 65:6",
+    "connected_from": "Psalm 65:4"
+  },
+  {
+    "text": "Who by his strength established the mountains, being girded with power;",
+    "reference": "Psalm 65:6 (DBT)",
+    "connected_to": "Psalm 65:7",
+    "connected_from": "Psalm 65:5"
+  },
+  {
+    "text": "Who stilleth the raging of the seas, the raging of their waves, and the tumult of the peoples.",
+    "reference": "Psalm 65:7 (DBT)",
+    "connected_to": "Psalm 65:8",
+    "connected_from": "Psalm 65:6"
+  },
+  {
+    "text": "And they that dwell in the uttermost parts are afraid at thy tokens; thou makest the outgoings of the morning and evening to rejoice.",
+    "reference": "Psalm 65:8 (DBT)",
+    "connected_to": "Psalm 65:9",
+    "connected_from": "Psalm 65:7"
+  },
+  {
+    "text": "Thou hast visited the earth, thou hast watered it; thou greatly enrichest it: the river of God is full of water; thou providest their corn, when thou hast so prepared it:",
+    "reference": "Psalm 65:9 (DBT)",
+    "connected_to": "Psalm 65:10",
+    "connected_from": "Psalm 65:8"
+  },
+  {
+    "text": "Thou dost satiate its furrows, thou smoothest its clods, thou makest it soft with showers; thou blessest the springing thereof.",
+    "reference": "Psalm 65:10 (DBT)",
+    "connected_to": "Psalm 65:11",
+    "connected_from": "Psalm 65:9"
+  },
+  {
+    "text": "Thou crownest the year with thy goodness, and thy paths drop fatness:",
+    "reference": "Psalm 65:11 (DBT)",
+    "connected_to": "Psalm 65:12",
+    "connected_from": "Psalm 65:10"
+  },
+  {
+    "text": "They drop upon the pastures of the wilderness, and the hills are girded with gladness.",
+    "reference": "Psalm 65:12 (DBT)",
+    "connected_to": "Psalm 65:13",
+    "connected_from": "Psalm 65:11"
+  },
+  {
+    "text": "The meadows are clothed with flocks, and the valleys are covered over with corn; they shout for joy, yea, they sing.",
+    "reference": "Psalm 65:13 (DBT)",
+    "connected_from": "Psalm 65:12"
+  }
+]

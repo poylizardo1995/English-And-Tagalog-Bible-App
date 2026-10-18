@@ -1,0 +1,126 @@
+[
+  {
+    "text": "In that day, will be sung this song in the land of Judah: We have a strong city; He sets salvation [for] walls and a rampart.",
+    "reference": "Isaiah 26:1 (BLB)",
+    "connected_to": "Isaiah 26:2"
+  },
+  {
+    "text": "Open the gates, that a righteous nation may enter in—one keeping faith.",
+    "reference": "Isaiah 26:2 (BLB)",
+    "connected_to": "Isaiah 26:3",
+    "connected_from": "Isaiah 26:1"
+  },
+  {
+    "text": "You will keep the one steadfast of mind in perfect peace, because he trusts in You.",
+    "reference": "Isaiah 26:3 (BLB)",
+    "connected_to": "Isaiah 26:4",
+    "connected_from": "Isaiah 26:2"
+  },
+  {
+    "text": "Trust in YHWH even to forever, for in YAH—YHWH—[is] a Rock of Ages.",
+    "reference": "Isaiah 26:4 (BLB)",
+    "connected_to": "Isaiah 26:5",
+    "connected_from": "Isaiah 26:3"
+  },
+  {
+    "text": "For He has brought down those dwelling [in] a high place; the city up high He brings low—He brings it down to the ground, He makes it touch even to the dust.",
+    "reference": "Isaiah 26:5 (BLB)",
+    "connected_to": "Isaiah 26:6",
+    "connected_from": "Isaiah 26:4"
+  },
+  {
+    "text": "The foot will trample it—the feet of the poor, the steps of the lowly.",
+    "reference": "Isaiah 26:6 (BLB)",
+    "connected_to": "Isaiah 26:7",
+    "connected_from": "Isaiah 26:5"
+  },
+  {
+    "text": "The path of a righteous one [is] uprightness; You make level a straight track for the righteous one.",
+    "reference": "Isaiah 26:7 (BLB)",
+    "connected_to": "Isaiah 26:8",
+    "connected_from": "Isaiah 26:6"
+  },
+  {
+    "text": "Indeed, [in] the path of Your judgments, O YHWH, we wait for You; for Your name and for the remembrance of You [is] the desire of the soul.",
+    "reference": "Isaiah 26:8 (BLB)",
+    "connected_to": "Isaiah 26:9",
+    "connected_from": "Isaiah 26:7"
+  },
+  {
+    "text": "[With] my soul I have desired You in the night; yes, [with] my spirit within me I seek You early; for when Your judgments [are] on the earth, those dwelling in the world will learn righteousness.",
+    "reference": "Isaiah 26:9 (BLB)",
+    "connected_to": "Isaiah 26:10",
+    "connected_from": "Isaiah 26:8"
+  },
+  {
+    "text": "Let the wicked be favored—he will not learn righteousness; in the land of uprightness he acts unjustly, and he cannot see the majesty of YHWH.",
+    "reference": "Isaiah 26:10 (BLB)",
+    "connected_to": "Isaiah 26:11",
+    "connected_from": "Isaiah 26:9"
+  },
+  {
+    "text": "O YHWH, Your hand is lifted high; they do not see [it]. Let them see the zeal for the people and be ashamed; yes, the fire of Your enemies will devour them.",
+    "reference": "Isaiah 26:11 (BLB)",
+    "connected_to": "Isaiah 26:12",
+    "connected_from": "Isaiah 26:10"
+  },
+  {
+    "text": "O YHWH, You will establish peace for us, even for all our works You have done for us.",
+    "reference": "Isaiah 26:12 (BLB)",
+    "connected_to": "Isaiah 26:13",
+    "connected_from": "Isaiah 26:11"
+  },
+  {
+    "text": "O YHWH our God, lords besides You have ruled over us; only by You we make mention of Your name.",
+    "reference": "Isaiah 26:13 (BLB)",
+    "connected_to": "Isaiah 26:14",
+    "connected_from": "Isaiah 26:12"
+  },
+  {
+    "text": "Those being dead will not live; the Rephaim will not rise; therefore you have attended to and destroyed them, and You have made to perish all memory of them.",
+    "reference": "Isaiah 26:14 (BLB)",
+    "connected_to": "Isaiah 26:15",
+    "connected_from": "Isaiah 26:13"
+  },
+  {
+    "text": "You have added to the nation, O YHWH; You have added to the nation, You are glorified; You have expanded all the borders of the land.",
+    "reference": "Isaiah 26:15 (BLB)",
+    "connected_to": "Isaiah 26:16",
+    "connected_from": "Isaiah 26:14"
+  },
+  {
+    "text": "O YHWH, in the distress they visited You; they poured out a whispering [with] Your discipline upon them.",
+    "reference": "Isaiah 26:16 (BLB)",
+    "connected_to": "Isaiah 26:17",
+    "connected_from": "Isaiah 26:15"
+  },
+  {
+    "text": "Like a pregnant woman drawing near to giving birth writhes and cries out in pain, so have we been before Your face, O YHWH.",
+    "reference": "Isaiah 26:17 (BLB)",
+    "connected_to": "Isaiah 26:18",
+    "connected_from": "Isaiah 26:16"
+  },
+  {
+    "text": "We were pregnant; we writhed; we gave birth as if [to] the wind; we have not accomplished salvation [on] earth, and those dwelling in the world have not fallen.",
+    "reference": "Isaiah 26:18 (BLB)",
+    "connected_to": "Isaiah 26:19",
+    "connected_from": "Isaiah 26:17"
+  },
+  {
+    "text": "Your dead will live—my corpse they rise! Awake and sing out, O dwellers of the dust! For a dew of light [is] your dew, and the earth, she will cast out the Rephaim.",
+    "reference": "Isaiah 26:19 (BLB)",
+    "connected_to": "Isaiah 26:20",
+    "connected_from": "Isaiah 26:18"
+  },
+  {
+    "text": "Go, my people, come into your chambers, and shut your doors behind you; hide yourself a little while, until [His] anger has passed by.",
+    "reference": "Isaiah 26:20 (BLB)",
+    "connected_to": "Isaiah 26:21",
+    "connected_from": "Isaiah 26:19"
+  },
+  {
+    "text": "For behold, YHWH is coming forth from His place to punish the iniquity of those dwelling in the earth! And the earth will uncover her bloodshed and she will not cover anymore over her slain.",
+    "reference": "Isaiah 26:21 (BLB)",
+    "connected_from": "Isaiah 26:20"
+  }
+]

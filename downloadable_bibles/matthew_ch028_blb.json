@@ -1,0 +1,120 @@
+[
+  {
+    "text": "Now after the Sabbaths, it being dawn toward the first of the Sabbaths, Mary Magdalene and the other Mary came to see the tomb.",
+    "reference": "Matthew 28:1 (BLB)",
+    "connected_to": "Matthew 28:2"
+  },
+  {
+    "text": "And behold, there was a great earthquake; for an angel of the Lord, having descended out of heaven and having come, rolled away the stone and was sitting upon it.",
+    "reference": "Matthew 28:2 (BLB)",
+    "connected_to": "Matthew 28:3",
+    "connected_from": "Matthew 28:1"
+  },
+  {
+    "text": "And his appearance was like lightning, and his clothing white as snow.",
+    "reference": "Matthew 28:3 (BLB)",
+    "connected_to": "Matthew 28:4",
+    "connected_from": "Matthew 28:2"
+  },
+  {
+    "text": "And those keeping guard trembled from fear of him, and they became like dead [men].",
+    "reference": "Matthew 28:4 (BLB)",
+    "connected_to": "Matthew 28:5",
+    "connected_from": "Matthew 28:3"
+  },
+  {
+    "text": "And answering, the angel said to the women, “Do not be afraid, for I know that you⁺ seek Jesus, the One having been crucified.",
+    "reference": "Matthew 28:5 (BLB)",
+    "connected_to": "Matthew 28:6",
+    "connected_from": "Matthew 28:4"
+  },
+  {
+    "text": "He is not here, for He is risen, as He said! Come, see the place where He was lying.",
+    "reference": "Matthew 28:6 (BLB)",
+    "connected_to": "Matthew 28:7",
+    "connected_from": "Matthew 28:5"
+  },
+  {
+    "text": "And having gone quickly, say to His disciples, ‘He is risen from the dead, and behold, He goes before you⁺ into Galilee; there you⁺ will see Him.’ Behold, I have told you⁺.”",
+    "reference": "Matthew 28:7 (BLB)",
+    "connected_to": "Matthew 28:8",
+    "connected_from": "Matthew 28:6"
+  },
+  {
+    "text": "And having gone out quickly from the tomb with fear and great joy, they ran to tell His disciples.",
+    "reference": "Matthew 28:8 (BLB)",
+    "connected_to": "Matthew 28:9",
+    "connected_from": "Matthew 28:7"
+  },
+  {
+    "text": "And behold, Jesus met them, saying, “Greetings!” And having come, they took hold of His feet and worshiped Him.",
+    "reference": "Matthew 28:9 (BLB)",
+    "connected_to": "Matthew 28:10",
+    "connected_from": "Matthew 28:8"
+  },
+  {
+    "text": "Then Jesus says to them, “Do not be afraid. Go, tell My brothers, so that they should go into Galilee. And there they will see Me.”",
+    "reference": "Matthew 28:10 (BLB)",
+    "connected_to": "Matthew 28:11",
+    "connected_from": "Matthew 28:9"
+  },
+  {
+    "text": "And [in] their going, behold, some of the guard, having gone into the city, reported to the chief priests all the things having come to pass.",
+    "reference": "Matthew 28:11 (BLB)",
+    "connected_to": "Matthew 28:12",
+    "connected_from": "Matthew 28:10"
+  },
+  {
+    "text": "And having been gathered together with the elders and having taken counsel, they gave many pieces of silver to the soldiers,",
+    "reference": "Matthew 28:12 (BLB)",
+    "connected_to": "Matthew 28:13",
+    "connected_from": "Matthew 28:11"
+  },
+  {
+    "text": "saying, “Say, ‘His disciples, having come by night, stole Him—we being asleep.’",
+    "reference": "Matthew 28:13 (BLB)",
+    "connected_to": "Matthew 28:14",
+    "connected_from": "Matthew 28:12"
+  },
+  {
+    "text": "And if this is heard by the governor, we will persuade him, and we will keep you⁺ out of trouble.”",
+    "reference": "Matthew 28:14 (BLB)",
+    "connected_to": "Matthew 28:15",
+    "connected_from": "Matthew 28:13"
+  },
+  {
+    "text": "And having taken the pieces of silver, they did as they were instructed. And this report was spread abroad among the Jews until the present day.",
+    "reference": "Matthew 28:15 (BLB)",
+    "connected_to": "Matthew 28:16",
+    "connected_from": "Matthew 28:14"
+  },
+  {
+    "text": "And the eleven disciples went into Galilee, to the mountain where Jesus assigned them.",
+    "reference": "Matthew 28:16 (BLB)",
+    "connected_to": "Matthew 28:17",
+    "connected_from": "Matthew 28:15"
+  },
+  {
+    "text": "And having seen Him, they worshiped; but some doubted.",
+    "reference": "Matthew 28:17 (BLB)",
+    "connected_to": "Matthew 28:18",
+    "connected_from": "Matthew 28:16"
+  },
+  {
+    "text": "And having come near, Jesus spoke to them, saying, “All authority in heaven and on the earth was given to Me.",
+    "reference": "Matthew 28:18 (BLB)",
+    "connected_to": "Matthew 28:19",
+    "connected_from": "Matthew 28:17"
+  },
+  {
+    "text": "Therefore, having gone, disciple all the nations, baptizing them in the name of the Father, and of the Son, and of the Holy Spirit,",
+    "reference": "Matthew 28:19 (BLB)",
+    "connected_to": "Matthew 28:20",
+    "connected_from": "Matthew 28:18"
+  },
+  {
+    "text": "teaching them to observe all things, as much as I commanded you⁺. And behold, I am with you⁺ all the days, until the consummation of the age.”",
+    "reference": "Matthew 28:20 (BLB)",
+    "connected_from": "Matthew 28:19"
+  }
+]

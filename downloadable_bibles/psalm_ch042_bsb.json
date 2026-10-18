@@ -1,0 +1,66 @@
+[
+  {
+    "text": "For the choirmaster. A Maskil of the sons of Korah. As the deer pants for streams of water, so my soul longs after You, O God.",
+    "reference": "Psalm 42:1 (BSB)",
+    "connected_to": "Psalm 42:2"
+  },
+  {
+    "text": "My soul thirsts for God, the living God. When shall I come and appear in God’s presence?",
+    "reference": "Psalm 42:2 (BSB)",
+    "connected_to": "Psalm 42:3",
+    "connected_from": "Psalm 42:1"
+  },
+  {
+    "text": "My tears have been my food both day and night, while men ask me all day long, “Where is your God?”",
+    "reference": "Psalm 42:3 (BSB)",
+    "connected_to": "Psalm 42:4",
+    "connected_from": "Psalm 42:2"
+  },
+  {
+    "text": "These things come to mind as I pour out my soul: how I walked with the multitude, leading the festive procession to the house of God with shouts of joy and praise.",
+    "reference": "Psalm 42:4 (BSB)",
+    "connected_to": "Psalm 42:5",
+    "connected_from": "Psalm 42:3"
+  },
+  {
+    "text": "Why are you downcast, O my soul? Why the unease within me? Put your hope in God, for I will yet praise Him for the salvation of His presence.",
+    "reference": "Psalm 42:5 (BSB)",
+    "connected_to": "Psalm 42:6",
+    "connected_from": "Psalm 42:4"
+  },
+  {
+    "text": "O my God, my soul despairs within me. Therefore I remember You from the land of Jordan and the peaks of Hermon—even from Mount Mizar.",
+    "reference": "Psalm 42:6 (BSB)",
+    "connected_to": "Psalm 42:7",
+    "connected_from": "Psalm 42:5"
+  },
+  {
+    "text": "Deep calls to deep in the roar of Your waterfalls; all Your breakers and waves have rolled over me.",
+    "reference": "Psalm 42:7 (BSB)",
+    "connected_to": "Psalm 42:8",
+    "connected_from": "Psalm 42:6"
+  },
+  {
+    "text": "The LORD decrees His loving devotion by day, and at night His song is with me as a prayer to the God of my life.",
+    "reference": "Psalm 42:8 (BSB)",
+    "connected_to": "Psalm 42:9",
+    "connected_from": "Psalm 42:7"
+  },
+  {
+    "text": "I say to God my Rock, “Why have You forgotten me? Why must I walk in sorrow because of the enemy’s oppression?”",
+    "reference": "Psalm 42:9 (BSB)",
+    "connected_to": "Psalm 42:10",
+    "connected_from": "Psalm 42:8"
+  },
+  {
+    "text": "Like the crushing of my bones, my enemies taunt me, while they say to me all day long, “Where is your God?”",
+    "reference": "Psalm 42:10 (BSB)",
+    "connected_to": "Psalm 42:11",
+    "connected_from": "Psalm 42:9"
+  },
+  {
+    "text": "Why are you downcast, O my soul? Why the unease within me? Put your hope in God, for I will yet praise Him, my Savior and my God.",
+    "reference": "Psalm 42:11 (BSB)",
+    "connected_from": "Psalm 42:10"
+  }
+]

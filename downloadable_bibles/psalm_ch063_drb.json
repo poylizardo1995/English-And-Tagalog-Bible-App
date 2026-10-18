@@ -1,0 +1,66 @@
+[
+  {
+    "text": "A psalm of David when he was in the desert of Edom. O God, my God, to thee do I watch at break of day. For thee my soul hath thirsted; for thee my flesh, O how many ways!",
+    "reference": "Psalm 63:1 (DRB)",
+    "connected_to": "Psalm 63:2"
+  },
+  {
+    "text": "In a desert land, and where there is no way, and no water: so in the sanctuary have I come before thee, to see thy power and thy glory.",
+    "reference": "Psalm 63:2 (DRB)",
+    "connected_to": "Psalm 63:3",
+    "connected_from": "Psalm 63:1"
+  },
+  {
+    "text": "For thy mercy is better than lives: thee my lips shall praise.",
+    "reference": "Psalm 63:3 (DRB)",
+    "connected_to": "Psalm 63:4",
+    "connected_from": "Psalm 63:2"
+  },
+  {
+    "text": "Thus will I bless thee all my life long: and in thy name I will lift up my hands.",
+    "reference": "Psalm 63:4 (DRB)",
+    "connected_to": "Psalm 63:5",
+    "connected_from": "Psalm 63:3"
+  },
+  {
+    "text": "Let my soul be filled as with marrow and fatness: and my mouth shall praise thee with joyful lips.",
+    "reference": "Psalm 63:5 (DRB)",
+    "connected_to": "Psalm 63:6",
+    "connected_from": "Psalm 63:4"
+  },
+  {
+    "text": "If I have remembered thee upon my bed, I will meditate on thee in the morning:",
+    "reference": "Psalm 63:6 (DRB)",
+    "connected_to": "Psalm 63:7",
+    "connected_from": "Psalm 63:5"
+  },
+  {
+    "text": "because thou hast been my helper. And I will rejoice under the covert of thy wings:",
+    "reference": "Psalm 63:7 (DRB)",
+    "connected_to": "Psalm 63:8",
+    "connected_from": "Psalm 63:6"
+  },
+  {
+    "text": "my soul hath stuck close to thee: thy right hand hath received me.",
+    "reference": "Psalm 63:8 (DRB)",
+    "connected_to": "Psalm 63:9",
+    "connected_from": "Psalm 63:7"
+  },
+  {
+    "text": "But they have sought my soul in vain, they shall go into the lower parts of the earth:",
+    "reference": "Psalm 63:9 (DRB)",
+    "connected_to": "Psalm 63:10",
+    "connected_from": "Psalm 63:8"
+  },
+  {
+    "text": "They shall be delivered into the hands of the sword, they shall be the portions of foxes.",
+    "reference": "Psalm 63:10 (DRB)",
+    "connected_to": "Psalm 63:11",
+    "connected_from": "Psalm 63:9"
+  },
+  {
+    "text": "But the king shall rejoice in God, all they shall be praised that swear by him: because the mouth is stopped of them that speak wicked things.",
+    "reference": "Psalm 63:11 (DRB)",
+    "connected_from": "Psalm 63:10"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "text": "A Canticle in steps. Blessed are all those who fear the Lord, who walk in his ways.",
+    "reference": "Psalm 128:1 (CPDV)",
+    "connected_to": "Psalm 128:2"
+  },
+  {
+    "text": "For you will eat by the labors of your hands. Blessed are you, and it will be well with you.",
+    "reference": "Psalm 128:2 (CPDV)",
+    "connected_to": "Psalm 128:3",
+    "connected_from": "Psalm 128:1"
+  },
+  {
+    "text": "Your wife is like an abundant vine on the sides of your house. Your sons are like young olive trees surrounding your table.",
+    "reference": "Psalm 128:3 (CPDV)",
+    "connected_to": "Psalm 128:4",
+    "connected_from": "Psalm 128:2"
+  },
+  {
+    "text": "Behold, so will the man be blessed who fears the Lord.",
+    "reference": "Psalm 128:4 (CPDV)",
+    "connected_to": "Psalm 128:5",
+    "connected_from": "Psalm 128:3"
+  },
+  {
+    "text": "May the Lord bless you from Zion, and may you see the good things of Jerusalem, all the days of your life.",
+    "reference": "Psalm 128:5 (CPDV)",
+    "connected_to": "Psalm 128:6",
+    "connected_from": "Psalm 128:4"
+  },
+  {
+    "text": "And may you see the sons of your sons. Peace be upon Israel.",
+    "reference": "Psalm 128:6 (CPDV)",
+    "connected_from": "Psalm 128:5"
+  }
+]

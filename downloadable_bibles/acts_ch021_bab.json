@@ -1,0 +1,240 @@
+[
+  {
+    "text": "After we had torn ourselves away from them, we sailed directly to Cos, and the next day on to Rhodes, and from there to Patara.",
+    "reference": "Acts 21:1 (BAB)",
+    "connected_to": "Acts 21:2"
+  },
+  {
+    "text": "Finding a ship crossing over to Phoenicia, we boarded it and set sail.",
+    "reference": "Acts 21:2 (BAB)",
+    "connected_to": "Acts 21:3",
+    "connected_from": "Acts 21:1"
+  },
+  {
+    "text": "After sighting Cyprus and passing south of it, we sailed on to Syria and landed at Tyre, where the ship was to unload its cargo.",
+    "reference": "Acts 21:3 (BAB)",
+    "connected_to": "Acts 21:4",
+    "connected_from": "Acts 21:2"
+  },
+  {
+    "text": "We sought out the disciples (pupils) in Tyre and stayed with them seven days. Through the Spirit {Pneumatos} they kept telling Paul (humble) not to go up to Jerusalem (city of peace).",
+    "reference": "Acts 21:4 (BAB)",
+    "connected_to": "Acts 21:5",
+    "connected_from": "Acts 21:3"
+  },
+  {
+    "text": "But when our time there had ended, we set out on our journey. All the disciples, with their wives and children, accompanied us out of the city and knelt down on the beach to pray with us.",
+    "reference": "Acts 21:5 (BAB)",
+    "connected_to": "Acts 21:6",
+    "connected_from": "Acts 21:4"
+  },
+  {
+    "text": "And after we had said our farewells, we went aboard the ship, and they returned home.",
+    "reference": "Acts 21:6 (BAB)",
+    "connected_to": "Acts 21:7",
+    "connected_from": "Acts 21:5"
+  },
+  {
+    "text": "When we had finished our voyage from Tyre, we landed at Ptolemais, where we greeted the brothers (and sisters) and stayed with them for a day.",
+    "reference": "Acts 21:7 (BAB)",
+    "connected_to": "Acts 21:8",
+    "connected_from": "Acts 21:6"
+  },
+  {
+    "text": "Leaving the next day, we went on to Caesarea and stayed at the home of Philip (friend of horses) the evangelist, who was one of the Seven <Act 6:5>.",
+    "reference": "Acts 21:8 (BAB)",
+    "connected_to": "Acts 21:9",
+    "connected_from": "Acts 21:7"
+  },
+  {
+    "text": "He had four unmarried daughters who prophesied.",
+    "reference": "Acts 21:9 (BAB)",
+    "connected_to": "Acts 21:10",
+    "connected_from": "Acts 21:8"
+  },
+  {
+    "text": "After we had been there several days, a prophet named Agabus came down from Judea (land of praise).",
+    "reference": "Acts 21:10 (BAB)",
+    "connected_to": "Acts 21:11",
+    "connected_from": "Acts 21:9"
+  },
+  {
+    "text": "Coming over to us, he took Paul’s belt, bound his own feet and hands, and said, “The Holy Spirit {Hagion Pneuma} says: ‘In this way the Jews (people of praise) of Jerusalem (city of peace) will bind the owner of this belt and hand him over to the Gentiles {ethnōn}.",
+    "reference": "Acts 21:11 (BAB)",
+    "connected_to": "Acts 21:12",
+    "connected_from": "Acts 21:10"
+  },
+  {
+    "text": "When we heard this, we and the people there pleaded with Paul not to go up to Jerusalem (city of peace).",
+    "reference": "Acts 21:12 (BAB)",
+    "connected_to": "Acts 21:13",
+    "connected_from": "Acts 21:11"
+  },
+  {
+    "text": "Then Paul (humble) answered, “Why are you⁺ weeping and breaking my heart? I am ready not only to be bound, but also to die in Jerusalem (city of peace) for the name of the Lord {Kyriou} Jesus (YHWH saves).",
+    "reference": "Acts 21:13 (BAB)",
+    "connected_to": "Acts 21:14",
+    "connected_from": "Acts 21:12"
+  },
+  {
+    "text": "When he would not be dissuaded, we quieted down and said, “The Lord’s {Kyriou} will be done.",
+    "reference": "Acts 21:14 (BAB)",
+    "connected_to": "Acts 21:15",
+    "connected_from": "Acts 21:13"
+  },
+  {
+    "text": "After these days, we packed up and went on to Jerusalem (city of peace).",
+    "reference": "Acts 21:15 (BAB)",
+    "connected_to": "Acts 21:16",
+    "connected_from": "Acts 21:14"
+  },
+  {
+    "text": "Some of the disciples (pupils) from Caesarea accompanied us, and they took us to stay at the home of Mnason (reminding) the Cypriot, an early disciple (pupil).",
+    "reference": "Acts 21:16 (BAB)",
+    "connected_to": "Acts 21:17",
+    "connected_from": "Acts 21:15"
+  },
+  {
+    "text": "When we arrived in Jerusalem (city of peace), the brothers (and sisters) welcomed us joyfully.",
+    "reference": "Acts 21:17 (BAB)",
+    "connected_to": "Acts 21:18",
+    "connected_from": "Acts 21:16"
+  },
+  {
+    "text": "The next day Paul (humble) went in with us to see James (supplanter / follower), and all the elders were present.",
+    "reference": "Acts 21:18 (BAB)",
+    "connected_to": "Acts 21:19",
+    "connected_from": "Acts 21:17"
+  },
+  {
+    "text": "Paul greeted them and recounted one by one the things that God {Theos} had done among the Gentiles {ethnesin} through his ministry {diakonias}.",
+    "reference": "Acts 21:19 (BAB)",
+    "connected_to": "Acts 21:20",
+    "connected_from": "Acts 21:18"
+  },
+  {
+    "text": "When they heard this, they glorified God {Theon}. Then they said to Paul, “You see, brother, how many thousands of Jews (people of praise) have believed, and all of them are zealous for the law.",
+    "reference": "Acts 21:20 (BAB)",
+    "connected_to": "Acts 21:21",
+    "connected_from": "Acts 21:19"
+  },
+  {
+    "text": "But they are under the impression that you teach {didaskeis} all the Jews (people of praise) who live among the Gentiles {ethnē} to forsake Moses (drawn out), telling them not to circumcise their children or observe our customs.",
+    "reference": "Acts 21:21 (BAB)",
+    "connected_to": "Acts 21:22",
+    "connected_from": "Acts 21:20"
+  },
+  {
+    "text": "What then should we do? They will certainly hear that you have come.",
+    "reference": "Acts 21:22 (BAB)",
+    "connected_to": "Acts 21:23",
+    "connected_from": "Acts 21:21"
+  },
+  {
+    "text": "Therefore do what we advise you. There are four men with us who have taken a vow.",
+    "reference": "Acts 21:23 (BAB)",
+    "connected_to": "Acts 21:24",
+    "connected_from": "Acts 21:22"
+  },
+  {
+    "text": "Take these men, purify yourself along with them, and pay their expenses so they can have their heads shaved. Then everyone will know that there is no truth to these rumors about you, but that you also live in obedience to the law.",
+    "reference": "Acts 21:24 (BAB)",
+    "connected_to": "Acts 21:25",
+    "connected_from": "Acts 21:23"
+  },
+  {
+    "text": "As for the Gentile {ethnōn} believers, we have written to them our decision that they must abstain from food sacrificed to idols, from blood, from the meat of strangled animals, and from sexual immorality {porneian}.",
+    "reference": "Acts 21:25 (BAB)",
+    "connected_to": "Acts 21:26",
+    "connected_from": "Acts 21:24"
+  },
+  {
+    "text": "So the next day Paul (humble) took the men and purified himself along with them. Then he entered the temple to give notice of the date when their purification would be complete and the offering would be made for each of them.",
+    "reference": "Acts 21:26 (BAB)",
+    "connected_to": "Acts 21:27",
+    "connected_from": "Acts 21:25"
+  },
+  {
+    "text": "When the seven days were almost over, some Jews (people of praise) from the province of Asia \\from Asia/ saw Paul at the temple. They stirred up the whole crowd and seized him,",
+    "reference": "Acts 21:27 (BAB)",
+    "connected_to": "Acts 21:28",
+    "connected_from": "Acts 21:26"
+  },
+  {
+    "text": "crying out, “Men of Israel (He wrestles with God), help us! This is the man who teaches {didaskōn} everyone everywhere against our people and against our law and against this place. Furthermore, he has brought Greeks into the temple and defiled this holy place.",
+    "reference": "Acts 21:28 (BAB)",
+    "connected_to": "Acts 21:29",
+    "connected_from": "Acts 21:27"
+  },
+  {
+    "text": "For they had previously seen Trophimus (nourishing) the Ephesian with him in the city, and they assumed that Paul (humble) had brought him into the temple.",
+    "reference": "Acts 21:29 (BAB)",
+    "connected_to": "Acts 21:30",
+    "connected_from": "Acts 21:28"
+  },
+  {
+    "text": "The whole city was stirred up, and the people rushed together. They seized Paul (humble) and dragged him out of the temple, and at once the gates were shut.",
+    "reference": "Acts 21:30 (BAB)",
+    "connected_to": "Acts 21:31",
+    "connected_from": "Acts 21:29"
+  },
+  {
+    "text": "While they were trying to kill him, the commander (of a thousand men) of the Roman regiment \\the commander of the cohort/ received a report that all Jerusalem (city of peace) was in turmoil.",
+    "reference": "Acts 21:31 (BAB)",
+    "connected_to": "Acts 21:32",
+    "connected_from": "Acts 21:30"
+  },
+  {
+    "text": "Immediately he took some soldiers and centurions and ran down to the crowd. When the people saw the commander (of a thousand men) and the soldiers, they stopped beating Paul (humble).",
+    "reference": "Acts 21:32 (BAB)",
+    "connected_to": "Acts 21:33",
+    "connected_from": "Acts 21:31"
+  },
+  {
+    "text": "The commander (of a thousand men) came up and arrested Paul, ordering that he be bound with two chains. Then he asked who he was and what he had done.",
+    "reference": "Acts 21:33 (BAB)",
+    "connected_to": "Acts 21:34",
+    "connected_from": "Acts 21:32"
+  },
+  {
+    "text": "Some in the crowd were shouting one thing, and some another. And since the commander could not get at the truth because of the uproar, he ordered that Paul be brought into the barracks.",
+    "reference": "Acts 21:34 (BAB)",
+    "connected_to": "Acts 21:35",
+    "connected_from": "Acts 21:33"
+  },
+  {
+    "text": "When Paul reached the steps, he had to be carried by the soldiers because of the violence of the mob.",
+    "reference": "Acts 21:35 (BAB)",
+    "connected_to": "Acts 21:36",
+    "connected_from": "Acts 21:34"
+  },
+  {
+    "text": "For the crowd that followed him kept shouting, “Away with him!",
+    "reference": "Acts 21:36 (BAB)",
+    "connected_to": "Acts 21:37",
+    "connected_from": "Acts 21:35"
+  },
+  {
+    "text": "As they were about to take Paul (humble) into the barracks, he asked the commander (of a thousand men), “May I say something to you? “Do you speak Greek? he replied.",
+    "reference": "Acts 21:37 (BAB)",
+    "connected_to": "Acts 21:38",
+    "connected_from": "Acts 21:36"
+  },
+  {
+    "text": "“Aren’t you the Egyptian (double straits) who incited a rebellion some time ago and led four thousand members of the Assassins into the wilderness (solitary place)?",
+    "reference": "Acts 21:38 (BAB)",
+    "connected_to": "Acts 21:39",
+    "connected_from": "Acts 21:37"
+  },
+  {
+    "text": "But Paul (humble) answered, “I am a Jew from Tarsus in Cilicia, a citizen of no ordinary city. Now I beg you to allow me to speak to the people.",
+    "reference": "Acts 21:39 (BAB)",
+    "connected_to": "Acts 21:40",
+    "connected_from": "Acts 21:38"
+  },
+  {
+    "text": "Having received permission, Paul (humble) stood on the steps and motioned to the crowd. A great hush came over the crowd, and he addressed them in Hebrew (in Aramaic):",
+    "reference": "Acts 21:40 (BAB)",
+    "connected_from": "Acts 21:39"
+  }
+]

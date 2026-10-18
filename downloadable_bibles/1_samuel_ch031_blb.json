@@ -1,0 +1,78 @@
+[
+  {
+    "text": "And the Philistines fought against Israel, and the men of Israel fled from before the Philistines and fell slain on Mount Gilboa.",
+    "reference": "1 Samuel 31:1 (BLB)",
+    "connected_to": "1 Samuel 31:2"
+  },
+  {
+    "text": "And the Philistines followed hard after Saul and his sons, and the Philistines killed Jonathan and Abinadab and Malchishua, the sons of Saul.",
+    "reference": "1 Samuel 31:2 (BLB)",
+    "connected_to": "1 Samuel 31:3",
+    "connected_from": "1 Samuel 31:1"
+  },
+  {
+    "text": "And the battle became fierce against Saul, and the archers found him—men with the bow—and he was wounded severely by the archers.",
+    "reference": "1 Samuel 31:3 (BLB)",
+    "connected_to": "1 Samuel 31:4",
+    "connected_from": "1 Samuel 31:2"
+  },
+  {
+    "text": "And Saul said to the bearer of his armor, “Draw your sword and thrust me through with it, lest these uncircumcised ones come and thrust me through and torture me.” And the bearer of his armor was not willing, for he was greatly afraid. And Saul took a sword and fell on it.",
+    "reference": "1 Samuel 31:4 (BLB)",
+    "connected_to": "1 Samuel 31:5",
+    "connected_from": "1 Samuel 31:3"
+  },
+  {
+    "text": "And the bearer of his armor saw that Saul was dead, and he fell he also on his sword, and he died with him.",
+    "reference": "1 Samuel 31:5 (BLB)",
+    "connected_to": "1 Samuel 31:6",
+    "connected_from": "1 Samuel 31:4"
+  },
+  {
+    "text": "And Saul died, and his three sons, and the bearer of his armor, and all his men, that day together.",
+    "reference": "1 Samuel 31:6 (BLB)",
+    "connected_to": "1 Samuel 31:7",
+    "connected_from": "1 Samuel 31:5"
+  },
+  {
+    "text": "And they saw—the men of Israel who [were] on the other side of the valley, and who [were] beyond the Jordan—that the men of Israel had fled, and that Saul and his sons were dead. And they forsook the cities and fled. And the Philistines came and dwelt in them.",
+    "reference": "1 Samuel 31:7 (BLB)",
+    "connected_to": "1 Samuel 31:8",
+    "connected_from": "1 Samuel 31:6"
+  },
+  {
+    "text": "And it came to pass the next day that the Philistines came to strip the slain, and they found Saul and his three sons fallen on Mount Gilboa.",
+    "reference": "1 Samuel 31:8 (BLB)",
+    "connected_to": "1 Samuel 31:9",
+    "connected_from": "1 Samuel 31:7"
+  },
+  {
+    "text": "And they cut off his head and stripped off his armor, and they sent into the land of the Philistines all around, to proclaim [it] [in] the temple of their idols and among the people.",
+    "reference": "1 Samuel 31:9 (BLB)",
+    "connected_to": "1 Samuel 31:10",
+    "connected_from": "1 Samuel 31:8"
+  },
+  {
+    "text": "And they put his armor in the temple of the Ashtoreths, and his body they fastened to the wall of Beth-shan.",
+    "reference": "1 Samuel 31:10 (BLB)",
+    "connected_to": "1 Samuel 31:11",
+    "connected_from": "1 Samuel 31:9"
+  },
+  {
+    "text": "And those dwelling in Jabesh-gilead heard about what the Philistines had done to Saul,",
+    "reference": "1 Samuel 31:11 (BLB)",
+    "connected_to": "1 Samuel 31:12",
+    "connected_from": "1 Samuel 31:10"
+  },
+  {
+    "text": "and all the valiant men arose and traveled all the night, and they took the body of Saul and the bodies of his sons from the wall of Beth-shan. And they came to Jabesh and burned them there.",
+    "reference": "1 Samuel 31:12 (BLB)",
+    "connected_to": "1 Samuel 31:13",
+    "connected_from": "1 Samuel 31:11"
+  },
+  {
+    "text": "And they took their bones and buried [them] under the tamarisk tree at Jabesh, and they fasted seven days.",
+    "reference": "1 Samuel 31:13 (BLB)",
+    "connected_from": "1 Samuel 31:12"
+  }
+]

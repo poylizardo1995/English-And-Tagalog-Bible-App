@@ -1,0 +1,120 @@
+[
+  {
+    "text": "Then Zophar (sparrow) the Naamathite replied:",
+    "reference": "Job 11:1 (BAB)",
+    "connected_to": "Job 11:2"
+  },
+  {
+    "text": "“Should this stream of words go unanswered and such a speaker be vindicated?",
+    "reference": "Job 11:2 (BAB)",
+    "connected_to": "Job 11:3",
+    "connected_from": "Job 11:1"
+  },
+  {
+    "text": "Should your babbling put others to silence? Will you scoff without rebuke?",
+    "reference": "Job 11:3 (BAB)",
+    "connected_to": "Job 11:4",
+    "connected_from": "Job 11:2"
+  },
+  {
+    "text": "You have said, ‘My doctrine is sound, and I am pure in Your sight.’",
+    "reference": "Job 11:4 (BAB)",
+    "connected_to": "Job 11:5",
+    "connected_from": "Job 11:3"
+  },
+  {
+    "text": "But if only God would speak and open His lips against you,",
+    "reference": "Job 11:5 (BAB)",
+    "connected_to": "Job 11:6",
+    "connected_from": "Job 11:4"
+  },
+  {
+    "text": "and disclose to you the secrets of wisdom, for true wisdom has two sides. Know then that God exacts from you less than your iniquity deserves.",
+    "reference": "Job 11:6 (BAB)",
+    "connected_to": "Job 11:7",
+    "connected_from": "Job 11:5"
+  },
+  {
+    "text": "Can you fathom the deep things of God or discover the limits of the Almighty?",
+    "reference": "Job 11:7 (BAB)",
+    "connected_to": "Job 11:8",
+    "connected_from": "Job 11:6"
+  },
+  {
+    "text": "They are higher than the heavens—what can you do? They are deeper than Sheol—what can you know?",
+    "reference": "Job 11:8 (BAB)",
+    "connected_to": "Job 11:9",
+    "connected_from": "Job 11:7"
+  },
+  {
+    "text": "Their measure is longer than the earth and wider than the sea.",
+    "reference": "Job 11:9 (BAB)",
+    "connected_to": "Job 11:10",
+    "connected_from": "Job 11:8"
+  },
+  {
+    "text": "If He comes along to imprison you, or convenes a court, who can stop Him?",
+    "reference": "Job 11:10 (BAB)",
+    "connected_to": "Job 11:11",
+    "connected_from": "Job 11:9"
+  },
+  {
+    "text": "Surely He knows the deceit of men. If He sees iniquity, does He not take note?",
+    "reference": "Job 11:11 (BAB)",
+    "connected_to": "Job 11:12",
+    "connected_from": "Job 11:10"
+  },
+  {
+    "text": "But a witless man can no more become wise than the colt of a wild donkey can be born a man (can be born tame)!",
+    "reference": "Job 11:12 (BAB)",
+    "connected_to": "Job 11:13",
+    "connected_from": "Job 11:11"
+  },
+  {
+    "text": "As for you, if you direct your heart and lift up your hands to Him,",
+    "reference": "Job 11:13 (BAB)",
+    "connected_to": "Job 11:14",
+    "connected_from": "Job 11:12"
+  },
+  {
+    "text": "if you put away the iniquity in your hand, and allow no injustice to dwell in your tents,",
+    "reference": "Job 11:14 (BAB)",
+    "connected_to": "Job 11:15",
+    "connected_from": "Job 11:13"
+  },
+  {
+    "text": "then indeed you will lift up your face without blemish; you will stand firm and unafraid.",
+    "reference": "Job 11:15 (BAB)",
+    "connected_to": "Job 11:16",
+    "connected_from": "Job 11:14"
+  },
+  {
+    "text": "For you will forget your misery, recalling it only as waters gone by.",
+    "reference": "Job 11:16 (BAB)",
+    "connected_to": "Job 11:17",
+    "connected_from": "Job 11:15"
+  },
+  {
+    "text": "Your life will be brighter than noonday; its darkness will be like the morning.",
+    "reference": "Job 11:17 (BAB)",
+    "connected_to": "Job 11:18",
+    "connected_from": "Job 11:16"
+  },
+  {
+    "text": "You will be secure, because there is hope, and you will look around and lie down in safety.",
+    "reference": "Job 11:18 (BAB)",
+    "connected_to": "Job 11:19",
+    "connected_from": "Job 11:17"
+  },
+  {
+    "text": "You will lie down without fear, and many will court your favor.",
+    "reference": "Job 11:19 (BAB)",
+    "connected_to": "Job 11:20",
+    "connected_from": "Job 11:18"
+  },
+  {
+    "text": "But the eyes of the wicked will fail, and escape will elude them; they will hope for their last breath.”",
+    "reference": "Job 11:20 (BAB)",
+    "connected_from": "Job 11:19"
+  }
+]

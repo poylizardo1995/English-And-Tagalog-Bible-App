@@ -1,0 +1,96 @@
+[
+  {
+    "text": "He who dwells in the shelter of the Most High will abide in the shadow of the Almighty.",
+    "reference": "Psalm 91:1 (BSB)",
+    "connected_to": "Psalm 91:2"
+  },
+  {
+    "text": "I will say to the LORD, “You are my refuge and my fortress, my God, in whom I trust.”",
+    "reference": "Psalm 91:2 (BSB)",
+    "connected_to": "Psalm 91:3",
+    "connected_from": "Psalm 91:1"
+  },
+  {
+    "text": "Surely He will deliver you from the snare of the fowler, and from the deadly plague.",
+    "reference": "Psalm 91:3 (BSB)",
+    "connected_to": "Psalm 91:4",
+    "connected_from": "Psalm 91:2"
+  },
+  {
+    "text": "He will cover you with His feathers; under His wings you will find refuge; His faithfulness is a shield and rampart.",
+    "reference": "Psalm 91:4 (BSB)",
+    "connected_to": "Psalm 91:5",
+    "connected_from": "Psalm 91:3"
+  },
+  {
+    "text": "You will not fear the terror of the night, nor the arrow that flies by day,",
+    "reference": "Psalm 91:5 (BSB)",
+    "connected_to": "Psalm 91:6",
+    "connected_from": "Psalm 91:4"
+  },
+  {
+    "text": "nor the pestilence that stalks in the darkness, nor the calamity that destroys at noon.",
+    "reference": "Psalm 91:6 (BSB)",
+    "connected_to": "Psalm 91:7",
+    "connected_from": "Psalm 91:5"
+  },
+  {
+    "text": "Though a thousand may fall at your side, and ten thousand at your right hand, no harm will come near you.",
+    "reference": "Psalm 91:7 (BSB)",
+    "connected_to": "Psalm 91:8",
+    "connected_from": "Psalm 91:6"
+  },
+  {
+    "text": "You will only see it with your eyes and witness the punishment of the wicked.",
+    "reference": "Psalm 91:8 (BSB)",
+    "connected_to": "Psalm 91:9",
+    "connected_from": "Psalm 91:7"
+  },
+  {
+    "text": "Because you have made the LORD your dwelling—my refuge, the Most High—",
+    "reference": "Psalm 91:9 (BSB)",
+    "connected_to": "Psalm 91:10",
+    "connected_from": "Psalm 91:8"
+  },
+  {
+    "text": "no evil will befall you, no plague will approach your tent.",
+    "reference": "Psalm 91:10 (BSB)",
+    "connected_to": "Psalm 91:11",
+    "connected_from": "Psalm 91:9"
+  },
+  {
+    "text": "For He will command His angels concerning you to guard you in all your ways.",
+    "reference": "Psalm 91:11 (BSB)",
+    "connected_to": "Psalm 91:12",
+    "connected_from": "Psalm 91:10"
+  },
+  {
+    "text": "They will lift you up in their hands, so that you will not strike your foot against a stone.",
+    "reference": "Psalm 91:12 (BSB)",
+    "connected_to": "Psalm 91:13",
+    "connected_from": "Psalm 91:11"
+  },
+  {
+    "text": "You will tread on the lion and cobra; you will trample the young lion and serpent.",
+    "reference": "Psalm 91:13 (BSB)",
+    "connected_to": "Psalm 91:14",
+    "connected_from": "Psalm 91:12"
+  },
+  {
+    "text": "“Because he loves Me, I will deliver him; because he knows My name, I will protect him.",
+    "reference": "Psalm 91:14 (BSB)",
+    "connected_to": "Psalm 91:15",
+    "connected_from": "Psalm 91:13"
+  },
+  {
+    "text": "When he calls out to Me, I will answer him; I will be with him in trouble. I will deliver him and honor him.",
+    "reference": "Psalm 91:15 (BSB)",
+    "connected_to": "Psalm 91:16",
+    "connected_from": "Psalm 91:14"
+  },
+  {
+    "text": "With long life I will satisfy him and show him My salvation.”",
+    "reference": "Psalm 91:16 (BSB)",
+    "connected_from": "Psalm 91:15"
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "text": "{For Solomon.} O God, give the king thy judgments, and thy righteousness unto the king’s son.",
+    "reference": "Psalm 72:1 (DBT)",
+    "connected_to": "Psalm 72:2"
+  },
+  {
+    "text": "He will judge thy people with righteousness, and thine afflicted with judgment.",
+    "reference": "Psalm 72:2 (DBT)",
+    "connected_to": "Psalm 72:3",
+    "connected_from": "Psalm 72:1"
+  },
+  {
+    "text": "The mountains shall bring peace to the people, and the hills, by righteousness.",
+    "reference": "Psalm 72:3 (DBT)",
+    "connected_to": "Psalm 72:4",
+    "connected_from": "Psalm 72:2"
+  },
+  {
+    "text": "He will do justice to the afflicted of the people; he will save the children of the needy, and will break in pieces the oppressor.",
+    "reference": "Psalm 72:4 (DBT)",
+    "connected_to": "Psalm 72:5",
+    "connected_from": "Psalm 72:3"
+  },
+  {
+    "text": "They shall fear thee as long as sun and moon endure, from generation to generation.",
+    "reference": "Psalm 72:5 (DBT)",
+    "connected_to": "Psalm 72:6",
+    "connected_from": "Psalm 72:4"
+  },
+  {
+    "text": "He shall come down like rain on the mown grass, as showers that water the earth.",
+    "reference": "Psalm 72:6 (DBT)",
+    "connected_to": "Psalm 72:7",
+    "connected_from": "Psalm 72:5"
+  },
+  {
+    "text": "In his days shall the righteous flourish, and abundance of peace till the moon be no more.",
+    "reference": "Psalm 72:7 (DBT)",
+    "connected_to": "Psalm 72:8",
+    "connected_from": "Psalm 72:6"
+  },
+  {
+    "text": "And he shall have dominion from sea to sea, and from the river unto the ends of the earth.",
+    "reference": "Psalm 72:8 (DBT)",
+    "connected_to": "Psalm 72:9",
+    "connected_from": "Psalm 72:7"
+  },
+  {
+    "text": "The dwellers in the desert shall bow before him, and his enemies shall lick the dust.",
+    "reference": "Psalm 72:9 (DBT)",
+    "connected_to": "Psalm 72:10",
+    "connected_from": "Psalm 72:8"
+  },
+  {
+    "text": "The kings of Tarshish and of the isles shall render presents; the kings of Sheba and Seba shall offer tribute:",
+    "reference": "Psalm 72:10 (DBT)",
+    "connected_to": "Psalm 72:11",
+    "connected_from": "Psalm 72:9"
+  },
+  {
+    "text": "Yea, all kings shall bow down before him; all nations shall serve him.",
+    "reference": "Psalm 72:11 (DBT)",
+    "connected_to": "Psalm 72:12",
+    "connected_from": "Psalm 72:10"
+  },
+  {
+    "text": "For he will deliver the needy who crieth, and the afflicted, who hath no helper;",
+    "reference": "Psalm 72:12 (DBT)",
+    "connected_to": "Psalm 72:13",
+    "connected_from": "Psalm 72:11"
+  },
+  {
+    "text": "He will have compassion on the poor and needy, and will save the souls of the needy:",
+    "reference": "Psalm 72:13 (DBT)",
+    "connected_to": "Psalm 72:14",
+    "connected_from": "Psalm 72:12"
+  },
+  {
+    "text": "He will redeem their souls from oppression and violence, and precious shall their blood be in his sight.",
+    "reference": "Psalm 72:14 (DBT)",
+    "connected_to": "Psalm 72:15",
+    "connected_from": "Psalm 72:13"
+  },
+  {
+    "text": "And he shall live; and to him shall be given of the gold of Sheba; and prayer shall be made for him continually: all the day shall he be blessed.",
+    "reference": "Psalm 72:15 (DBT)",
+    "connected_to": "Psalm 72:16",
+    "connected_from": "Psalm 72:14"
+  },
+  {
+    "text": "There shall be abundance of corn in the earth, upon the top of the mountains; the fruit thereof shall shake like Lebanon; and they of the city shall bloom like the herb of the earth.",
+    "reference": "Psalm 72:16 (DBT)",
+    "connected_to": "Psalm 72:17",
+    "connected_from": "Psalm 72:15"
+  },
+  {
+    "text": "His name shall endure for ever; his name shall be continued as long as the sun: and [men] shall bless themselves in him; all nations shall call him blessed.",
+    "reference": "Psalm 72:17 (DBT)",
+    "connected_to": "Psalm 72:18",
+    "connected_from": "Psalm 72:16"
+  },
+  {
+    "text": "Blessed be Jehovah Elohim, the God of Israel, who alone doeth wondrous things!",
+    "reference": "Psalm 72:18 (DBT)",
+    "connected_to": "Psalm 72:19",
+    "connected_from": "Psalm 72:17"
+  },
+  {
+    "text": "And blessed be his glorious name for ever! and let the whole earth be filled with his glory! Amen, and Amen.",
+    "reference": "Psalm 72:19 (DBT)",
+    "connected_to": "Psalm 72:20",
+    "connected_from": "Psalm 72:18"
+  },
+  {
+    "text": "The prayers of David the son of Jesse are ended.",
+    "reference": "Psalm 72:20 (DBT)",
+    "connected_from": "Psalm 72:19"
+  }
+]

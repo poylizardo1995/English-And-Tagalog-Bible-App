@@ -1,0 +1,174 @@
+[
+  {
+    "text": "Alleluia. Confess to the Lord, for he is good, for his mercy is forever.",
+    "reference": "Psalm 118:1 (CPDV)",
+    "connected_to": "Psalm 118:2"
+  },
+  {
+    "text": "Let Israel now say: For he is good, for his mercy is forever.",
+    "reference": "Psalm 118:2 (CPDV)",
+    "connected_to": "Psalm 118:3",
+    "connected_from": "Psalm 118:1"
+  },
+  {
+    "text": "Let the house of Aaron now say: For his mercy is forever.",
+    "reference": "Psalm 118:3 (CPDV)",
+    "connected_to": "Psalm 118:4",
+    "connected_from": "Psalm 118:2"
+  },
+  {
+    "text": "Let those who fear the Lord now say: For his mercy is forever.",
+    "reference": "Psalm 118:4 (CPDV)",
+    "connected_to": "Psalm 118:5",
+    "connected_from": "Psalm 118:3"
+  },
+  {
+    "text": "In my tribulation, I called upon the Lord. And the Lord heeded me with generosity.",
+    "reference": "Psalm 118:5 (CPDV)",
+    "connected_to": "Psalm 118:6",
+    "connected_from": "Psalm 118:4"
+  },
+  {
+    "text": "The Lord is my helper. I will not fear what man can do to me.",
+    "reference": "Psalm 118:6 (CPDV)",
+    "connected_to": "Psalm 118:7",
+    "connected_from": "Psalm 118:5"
+  },
+  {
+    "text": "The Lord is my helper. And I will look down upon my enemies.",
+    "reference": "Psalm 118:7 (CPDV)",
+    "connected_to": "Psalm 118:8",
+    "connected_from": "Psalm 118:6"
+  },
+  {
+    "text": "It is good to trust in the Lord, rather than to trust in man.",
+    "reference": "Psalm 118:8 (CPDV)",
+    "connected_to": "Psalm 118:9",
+    "connected_from": "Psalm 118:7"
+  },
+  {
+    "text": "It is good to hope in the Lord, rather than to hope in leaders.",
+    "reference": "Psalm 118:9 (CPDV)",
+    "connected_to": "Psalm 118:10",
+    "connected_from": "Psalm 118:8"
+  },
+  {
+    "text": "All the nations have surrounded me. And, in the name of the Lord, I have been avenged over them.",
+    "reference": "Psalm 118:10 (CPDV)",
+    "connected_to": "Psalm 118:11",
+    "connected_from": "Psalm 118:9"
+  },
+  {
+    "text": "Surrounding me, they closed in on me. And, in the name of the Lord, I have been avenged over them.",
+    "reference": "Psalm 118:11 (CPDV)",
+    "connected_to": "Psalm 118:12",
+    "connected_from": "Psalm 118:10"
+  },
+  {
+    "text": "They surrounded me like a swarm, and they burned like fire among the thorns. And, in the name of the Lord, I have been avenged over them.",
+    "reference": "Psalm 118:12 (CPDV)",
+    "connected_to": "Psalm 118:13",
+    "connected_from": "Psalm 118:11"
+  },
+  {
+    "text": "Having been pushed, I was overturned so as to fall. But the Lord took me up.",
+    "reference": "Psalm 118:13 (CPDV)",
+    "connected_to": "Psalm 118:14",
+    "connected_from": "Psalm 118:12"
+  },
+  {
+    "text": "The Lord is my strength and my praise. And he has become my salvation.",
+    "reference": "Psalm 118:14 (CPDV)",
+    "connected_to": "Psalm 118:15",
+    "connected_from": "Psalm 118:13"
+  },
+  {
+    "text": "A voice of exultation and salvation is in the tabernacles of the just.",
+    "reference": "Psalm 118:15 (CPDV)",
+    "connected_to": "Psalm 118:16",
+    "connected_from": "Psalm 118:14"
+  },
+  {
+    "text": "The right hand of the Lord has wrought virtue. The right hand of the Lord has exalted me. The right hand of the Lord has wrought virtue.",
+    "reference": "Psalm 118:16 (CPDV)",
+    "connected_to": "Psalm 118:17",
+    "connected_from": "Psalm 118:15"
+  },
+  {
+    "text": "I will not die, but I will live. And I will declare the works of the Lord.",
+    "reference": "Psalm 118:17 (CPDV)",
+    "connected_to": "Psalm 118:18",
+    "connected_from": "Psalm 118:16"
+  },
+  {
+    "text": "When chastising, the Lord chastised me. But he has not delivered me over to death.",
+    "reference": "Psalm 118:18 (CPDV)",
+    "connected_to": "Psalm 118:19",
+    "connected_from": "Psalm 118:17"
+  },
+  {
+    "text": "Open the gates of justice to me. I will enter them, and I will confess to the Lord.",
+    "reference": "Psalm 118:19 (CPDV)",
+    "connected_to": "Psalm 118:20",
+    "connected_from": "Psalm 118:18"
+  },
+  {
+    "text": "This is the gate of the Lord. The just will enter by it.",
+    "reference": "Psalm 118:20 (CPDV)",
+    "connected_to": "Psalm 118:21",
+    "connected_from": "Psalm 118:19"
+  },
+  {
+    "text": "I will confess to you because you have heard me. And you have become my salvation.",
+    "reference": "Psalm 118:21 (CPDV)",
+    "connected_to": "Psalm 118:22",
+    "connected_from": "Psalm 118:20"
+  },
+  {
+    "text": "The stone which the builders have rejected, this has become the head of the corner.",
+    "reference": "Psalm 118:22 (CPDV)",
+    "connected_to": "Psalm 118:23",
+    "connected_from": "Psalm 118:21"
+  },
+  {
+    "text": "By the Lord has this been done, and it is a wonder before our eyes.",
+    "reference": "Psalm 118:23 (CPDV)",
+    "connected_to": "Psalm 118:24",
+    "connected_from": "Psalm 118:22"
+  },
+  {
+    "text": "This is the day that the Lord has made. Let us exult and rejoice in it.",
+    "reference": "Psalm 118:24 (CPDV)",
+    "connected_to": "Psalm 118:25",
+    "connected_from": "Psalm 118:23"
+  },
+  {
+    "text": "O Lord, grant salvation to me. O Lord, grant good prosperity.",
+    "reference": "Psalm 118:25 (CPDV)",
+    "connected_to": "Psalm 118:26",
+    "connected_from": "Psalm 118:24"
+  },
+  {
+    "text": "Blessed is he who arrives in the name of the Lord. We have blessed you from the house of the Lord.",
+    "reference": "Psalm 118:26 (CPDV)",
+    "connected_to": "Psalm 118:27",
+    "connected_from": "Psalm 118:25"
+  },
+  {
+    "text": "The Lord is God, and he has enlightened us. Establish a solemn day amid a dense crowd, even to the horn of the altar.",
+    "reference": "Psalm 118:27 (CPDV)",
+    "connected_to": "Psalm 118:28",
+    "connected_from": "Psalm 118:26"
+  },
+  {
+    "text": "You are my God, and I will confess to you. You are my God, and I will exalt you. I will confess to you, for you have heeded me. And you have become my salvation.",
+    "reference": "Psalm 118:28 (CPDV)",
+    "connected_to": "Psalm 118:29",
+    "connected_from": "Psalm 118:27"
+  },
+  {
+    "text": "Confess to the Lord, for he is good, for his mercy is forever.",
+    "reference": "Psalm 118:29 (CPDV)",
+    "connected_from": "Psalm 118:28"
+  }
+]

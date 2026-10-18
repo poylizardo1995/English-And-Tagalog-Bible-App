@@ -1,0 +1,96 @@
+[
+  {
+    "text": "Behold, you [are] beautiful, my darling, behold, you [are] beautiful! Your eyes [are] doves behind your veil; your hair [is] like a flock of the goats streaming down from Mount Gilead.",
+    "reference": "Song of Solomon 4:1 (BLB)",
+    "connected_to": "Song of Solomon 4:2"
+  },
+  {
+    "text": "Your teeth [are] like a flock shorn, having come up from the washing, all of which have twins, and there is not a bereaved one among them.",
+    "reference": "Song of Solomon 4:2 (BLB)",
+    "connected_to": "Song of Solomon 4:3",
+    "connected_from": "Song of Solomon 4:1"
+  },
+  {
+    "text": "Like a thread of scarlet [are] your lips, and your mouth is lovely. Like the halves of the pomegranate [is] your temple, behind your veil.",
+    "reference": "Song of Solomon 4:3 (BLB)",
+    "connected_to": "Song of Solomon 4:4",
+    "connected_from": "Song of Solomon 4:2"
+  },
+  {
+    "text": "Like the tower of David [is] your neck, built with rows of stones; a thousand shields hang on it, all the shields of the mighty ones.",
+    "reference": "Song of Solomon 4:4 (BLB)",
+    "connected_to": "Song of Solomon 4:5",
+    "connected_from": "Song of Solomon 4:3"
+  },
+  {
+    "text": "Your two breasts [are] like two fawns, twins of a gazelle, grazing among the lilies.",
+    "reference": "Song of Solomon 4:5 (BLB)",
+    "connected_to": "Song of Solomon 4:6",
+    "connected_from": "Song of Solomon 4:4"
+  },
+  {
+    "text": "Until the day breathes, and the shadows flee, I will go my way to the mountain of myrrh, and to the hill of frankincense.",
+    "reference": "Song of Solomon 4:6 (BLB)",
+    "connected_to": "Song of Solomon 4:7",
+    "connected_from": "Song of Solomon 4:5"
+  },
+  {
+    "text": "All of you [is] beautiful, my darling, and [there is] not a blemish on you.",
+    "reference": "Song of Solomon 4:7 (BLB)",
+    "connected_to": "Song of Solomon 4:8",
+    "connected_from": "Song of Solomon 4:6"
+  },
+  {
+    "text": "Come with me from Lebanon, my bride, with me from Lebanon! Descend from the top of Amana, from the top of Senir and Hermon, from the dens of the lions, from the mountains of the leopards.",
+    "reference": "Song of Solomon 4:8 (BLB)",
+    "connected_to": "Song of Solomon 4:9",
+    "connected_from": "Song of Solomon 4:7"
+  },
+  {
+    "text": "You have captured my heart, my sister, my bride; you have captured my heart with one of your eyes, with one jewel of your neck.",
+    "reference": "Song of Solomon 4:9 (BLB)",
+    "connected_to": "Song of Solomon 4:10",
+    "connected_from": "Song of Solomon 4:8"
+  },
+  {
+    "text": "How beautiful [is] your love, my sister, my bride! How much better [is] your love than wine, and the scent of your oils than all spices!",
+    "reference": "Song of Solomon 4:10 (BLB)",
+    "connected_to": "Song of Solomon 4:11",
+    "connected_from": "Song of Solomon 4:9"
+  },
+  {
+    "text": "Your lips drip with nectar, my bride; honey and milk [are] under your tongue, and the fragrance of your garments [is] like the fragrance of Lebanon.",
+    "reference": "Song of Solomon 4:11 (BLB)",
+    "connected_to": "Song of Solomon 4:12",
+    "connected_from": "Song of Solomon 4:10"
+  },
+  {
+    "text": "A garden locked up [is] my sister, my bride—a spring locked up, a fountain sealed.",
+    "reference": "Song of Solomon 4:12 (BLB)",
+    "connected_to": "Song of Solomon 4:13",
+    "connected_from": "Song of Solomon 4:11"
+  },
+  {
+    "text": "Your shoots [are] an orchard of pomegranates, with the choicest of fruits, henna with nard,",
+    "reference": "Song of Solomon 4:13 (BLB)",
+    "connected_to": "Song of Solomon 4:14",
+    "connected_from": "Song of Solomon 4:12"
+  },
+  {
+    "text": "nard and saffron, calamus and cinnamon, with all trees of frankincense, myrrh and aloes, with all the finest spices,",
+    "reference": "Song of Solomon 4:14 (BLB)",
+    "connected_to": "Song of Solomon 4:15",
+    "connected_from": "Song of Solomon 4:13"
+  },
+  {
+    "text": "a fountain of gardens, a well of living water, and flowing down from Lebanon.",
+    "reference": "Song of Solomon 4:15 (BLB)",
+    "connected_to": "Song of Solomon 4:16",
+    "connected_from": "Song of Solomon 4:14"
+  },
+  {
+    "text": "Awake, north [wind], and come, south wind! Breathe on my garden, [that] its spices may flow out. Let my beloved come to his garden, and eat the fruit of its excellencies.",
+    "reference": "Song of Solomon 4:16 (BLB)",
+    "connected_from": "Song of Solomon 4:15"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "text": "A Psalm of David (beloved). <span class=|reftext|><a href=|#|><b>1</b></a> O LORD {YHWH}, hear my prayer. In Your faithfulness, give ear to my plea; in Your righteousness, answer me.",
+    "reference": "Psalm 143:1 (BAB)",
+    "connected_to": "Psalm 143:2"
+  },
+  {
+    "text": "Do not bring Your servant into judgment, for no one alive is righteous before You.",
+    "reference": "Psalm 143:2 (BAB)",
+    "connected_to": "Psalm 143:3",
+    "connected_from": "Psalm 143:1"
+  },
+  {
+    "text": "For the enemy has pursued my soul, crushing my life to the ground, making me dwell in darkness like those long since dead.",
+    "reference": "Psalm 143:3 (BAB)",
+    "connected_to": "Psalm 143:4",
+    "connected_from": "Psalm 143:2"
+  },
+  {
+    "text": "My spirit {ruahi} grows faint within me; my heart is dismayed inside me.",
+    "reference": "Psalm 143:4 (BAB)",
+    "connected_to": "Psalm 143:5",
+    "connected_from": "Psalm 143:3"
+  },
+  {
+    "text": "I remember the days of old; I meditate on all Your works; I consider the work of Your hands.",
+    "reference": "Psalm 143:5 (BAB)",
+    "connected_to": "Psalm 143:6",
+    "connected_from": "Psalm 143:4"
+  },
+  {
+    "text": "I stretch out my hands to You; my soul thirsts for You like a parched land. Selah",
+    "reference": "Psalm 143:6 (BAB)",
+    "connected_to": "Psalm 143:7",
+    "connected_from": "Psalm 143:5"
+  },
+  {
+    "text": "Answer me quickly, O LORD {YHWH}; my spirit {ruahi} fails. Do not hide Your face from me, or I will be like those who descend to the Pit.",
+    "reference": "Psalm 143:7 (BAB)",
+    "connected_to": "Psalm 143:8",
+    "connected_from": "Psalm 143:6"
+  },
+  {
+    "text": "Let me hear Your loving devotion in the morning, for I have put my trust in You. Teach me the way I should walk, for to You I lift up my soul.",
+    "reference": "Psalm 143:8 (BAB)",
+    "connected_to": "Psalm 143:9",
+    "connected_from": "Psalm 143:7"
+  },
+  {
+    "text": "Deliver me from my enemies, O LORD {YHWH}; I flee to You for refuge [in You I take cover].",
+    "reference": "Psalm 143:9 (BAB)",
+    "connected_to": "Psalm 143:10",
+    "connected_from": "Psalm 143:8"
+  },
+  {
+    "text": "Teach me to do Your will, for You are my God {Elohim}. May Your good Spirit {Ruacha} lead me on level ground.",
+    "reference": "Psalm 143:10 (BAB)",
+    "connected_to": "Psalm 143:11",
+    "connected_from": "Psalm 143:9"
+  },
+  {
+    "text": "For the sake of Your name, O LORD {YHWH}, revive me. In Your righteousness, bring my soul out of trouble.",
+    "reference": "Psalm 143:11 (BAB)",
+    "connected_to": "Psalm 143:12",
+    "connected_from": "Psalm 143:10"
+  },
+  {
+    "text": "And in Your loving devotion, cut off my enemies. Destroy all who afflict me, for I am Your servant.",
+    "reference": "Psalm 143:12 (BAB)",
+    "connected_from": "Psalm 143:11"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "text": "Then Jesus spoke to the crowds and to his disciples,",
+    "reference": "Matthew 23:1 (DBT)",
+    "connected_to": "Matthew 23:2"
+  },
+  {
+    "text": "saying, The scribes and the Pharisees have set themselves down in Moses’ seat:",
+    "reference": "Matthew 23:2 (DBT)",
+    "connected_to": "Matthew 23:3",
+    "connected_from": "Matthew 23:1"
+  },
+  {
+    "text": "all things therefore, whatever they may tell you, do and keep. But do not after their works, for they say and do not,",
+    "reference": "Matthew 23:3 (DBT)",
+    "connected_to": "Matthew 23:4",
+    "connected_from": "Matthew 23:2"
+  },
+  {
+    "text": "but bind burdens heavy and hard to bear, and lay them on the shoulders of men, but will not move them with their finger.",
+    "reference": "Matthew 23:4 (DBT)",
+    "connected_to": "Matthew 23:5",
+    "connected_from": "Matthew 23:3"
+  },
+  {
+    "text": "And all their works they do to be seen of men: for they make broad their phylacteries and enlarge the borders [of their garments],",
+    "reference": "Matthew 23:5 (DBT)",
+    "connected_to": "Matthew 23:6",
+    "connected_from": "Matthew 23:4"
+  },
+  {
+    "text": "and love the chief place in feasts and the first seats in the synagogues,",
+    "reference": "Matthew 23:6 (DBT)",
+    "connected_to": "Matthew 23:7",
+    "connected_from": "Matthew 23:5"
+  },
+  {
+    "text": "and salutations in the market-places, and to be called of men, Rabbi, Rabbi.",
+    "reference": "Matthew 23:7 (DBT)",
+    "connected_to": "Matthew 23:8",
+    "connected_from": "Matthew 23:6"
+  },
+  {
+    "text": "But ye, be not ye called Rabbi; for one is your instructor, and all ye are brethren.",
+    "reference": "Matthew 23:8 (DBT)",
+    "connected_to": "Matthew 23:9",
+    "connected_from": "Matthew 23:7"
+  },
+  {
+    "text": "And call not [any one] your father upon the earth; for one is your Father, he who is in the heavens.",
+    "reference": "Matthew 23:9 (DBT)",
+    "connected_to": "Matthew 23:10",
+    "connected_from": "Matthew 23:8"
+  },
+  {
+    "text": "Neither be called instructors, for one is your instructor, the Christ.",
+    "reference": "Matthew 23:10 (DBT)",
+    "connected_to": "Matthew 23:11",
+    "connected_from": "Matthew 23:9"
+  },
+  {
+    "text": "But the greatest of you shall be your servant.",
+    "reference": "Matthew 23:11 (DBT)",
+    "connected_to": "Matthew 23:12",
+    "connected_from": "Matthew 23:10"
+  },
+  {
+    "text": "And whoever shall exalt himself shall be humbled, and whoever shall humble himself shall be exalted.",
+    "reference": "Matthew 23:12 (DBT)",
+    "connected_to": "Matthew 23:13",
+    "connected_from": "Matthew 23:11"
+  },
+  {
+    "text": "But woe unto you, scribes and Pharisees, hypocrites, for ye shut up the kingdom of the heavens before men; for ye do not enter, nor do ye suffer those that are entering to go in.",
+    "reference": "Matthew 23:13 (DBT)",
+    "connected_to": "Matthew 23:14",
+    "connected_from": "Matthew 23:12"
+  },
+  {
+    "text": "Woe to you, scribes and Pharisees, hypocrites, for ye compass the sea and the dry [land] to make one proselyte, and when he is become [such], ye make him twofold more [the] son of hell than yourselves.",
+    "reference": "Matthew 23:15 (DBT)",
+    "connected_to": "Matthew 23:16",
+    "connected_from": "Matthew 23:14"
+  },
+  {
+    "text": "Woe to you, blind guides, who say, Whosoever shall swear by the temple, it is nothing; but whosoever shall swear by the gold of the temple, he is a debtor.",
+    "reference": "Matthew 23:16 (DBT)",
+    "connected_to": "Matthew 23:17",
+    "connected_from": "Matthew 23:15"
+  },
+  {
+    "text": "Fools and blind, for which is greater, the gold, or the temple which sanctifies the gold?",
+    "reference": "Matthew 23:17 (DBT)",
+    "connected_to": "Matthew 23:18",
+    "connected_from": "Matthew 23:16"
+  },
+  {
+    "text": "And, Whosoever shall swear by the altar, it is nothing; but whosoever shall swear by the gift that is upon it is a debtor.",
+    "reference": "Matthew 23:18 (DBT)",
+    "connected_to": "Matthew 23:19",
+    "connected_from": "Matthew 23:17"
+  },
+  {
+    "text": "[Fools and] blind ones, for which is greater, the gift, or the altar which sanctifies the gift?",
+    "reference": "Matthew 23:19 (DBT)",
+    "connected_to": "Matthew 23:20",
+    "connected_from": "Matthew 23:18"
+  },
+  {
+    "text": "He therefore that swears by the altar swears by it and by all things that are upon it.",
+    "reference": "Matthew 23:20 (DBT)",
+    "connected_to": "Matthew 23:21",
+    "connected_from": "Matthew 23:19"
+  },
+  {
+    "text": "And he that swears by the temple swears by it and by him that dwells in it.",
+    "reference": "Matthew 23:21 (DBT)",
+    "connected_to": "Matthew 23:22",
+    "connected_from": "Matthew 23:20"
+  },
+  {
+    "text": "And he that swears by heaven swears by the throne of God and by him that sits upon it.",
+    "reference": "Matthew 23:22 (DBT)",
+    "connected_to": "Matthew 23:23",
+    "connected_from": "Matthew 23:21"
+  },
+  {
+    "text": "Woe to you, scribes and Pharisees, hypocrites, for ye pay tithes of mint and anise and cummin, and ye have left aside the weightier matters of the law, judgment and mercy and faith: these ye ought to have done and not have left those aside.",
+    "reference": "Matthew 23:23 (DBT)",
+    "connected_to": "Matthew 23:24",
+    "connected_from": "Matthew 23:22"
+  },
+  {
+    "text": "Blind guides, who strain out the gnat, but drink down the camel.",
+    "reference": "Matthew 23:24 (DBT)",
+    "connected_to": "Matthew 23:25",
+    "connected_from": "Matthew 23:23"
+  },
+  {
+    "text": "Woe to you, scribes and Pharisees, hypocrites, for ye make clean the outside of the cup and of the dish, but within they are full of rapine and intemperance.",
+    "reference": "Matthew 23:25 (DBT)",
+    "connected_to": "Matthew 23:26",
+    "connected_from": "Matthew 23:24"
+  },
+  {
+    "text": "Blind Pharisee, make clean first the inside of the cup and of the dish, that their outside also may become clean.",
+    "reference": "Matthew 23:26 (DBT)",
+    "connected_to": "Matthew 23:27",
+    "connected_from": "Matthew 23:25"
+  },
+  {
+    "text": "Woe to you, scribes and Pharisees, hypocrites, for ye are like whited sepulchres, which appear beautiful outwardly, but within are full of dead men’s bones and all uncleanness.",
+    "reference": "Matthew 23:27 (DBT)",
+    "connected_to": "Matthew 23:28",
+    "connected_from": "Matthew 23:26"
+  },
+  {
+    "text": "Thus also ye, outwardly ye appear righteous to men, but within are full of hypocrisy and lawlessness.",
+    "reference": "Matthew 23:28 (DBT)",
+    "connected_to": "Matthew 23:29",
+    "connected_from": "Matthew 23:27"
+  },
+  {
+    "text": "Woe to you, scribes and Pharisees, hypocrites, for ye build the sepulchres of the prophets and adorn the tombs of the just,",
+    "reference": "Matthew 23:29 (DBT)",
+    "connected_to": "Matthew 23:30",
+    "connected_from": "Matthew 23:28"
+  },
+  {
+    "text": "and ye say, If we had been in the days of our fathers we would not have been partakers with them in the blood of the prophets.",
+    "reference": "Matthew 23:30 (DBT)",
+    "connected_to": "Matthew 23:31",
+    "connected_from": "Matthew 23:29"
+  },
+  {
+    "text": "So that ye bear witness of yourselves that ye are sons of those who slew the prophets:",
+    "reference": "Matthew 23:31 (DBT)",
+    "connected_to": "Matthew 23:32",
+    "connected_from": "Matthew 23:30"
+  },
+  {
+    "text": "and ye, fill ye up the measure of your fathers.",
+    "reference": "Matthew 23:32 (DBT)",
+    "connected_to": "Matthew 23:33",
+    "connected_from": "Matthew 23:31"
+  },
+  {
+    "text": "Serpents, offspring of vipers, how should ye escape the judgment of hell?",
+    "reference": "Matthew 23:33 (DBT)",
+    "connected_to": "Matthew 23:34",
+    "connected_from": "Matthew 23:32"
+  },
+  {
+    "text": "Therefore, behold, I send unto you prophets, and wise men, and scribes; and [some] of them ye will kill and crucify, and [some] of them ye will scourge in your synagogues, and will persecute from city to city;",
+    "reference": "Matthew 23:34 (DBT)",
+    "connected_to": "Matthew 23:35",
+    "connected_from": "Matthew 23:33"
+  },
+  {
+    "text": "so that all righteous blood shed upon the earth should come upon you, from the blood of righteous Abel to the blood of Zacharias son of Barachias, whom ye slew between the temple and the altar.",
+    "reference": "Matthew 23:35 (DBT)",
+    "connected_to": "Matthew 23:36",
+    "connected_from": "Matthew 23:34"
+  },
+  {
+    "text": "Verily I say unto you, All these things shall come upon this generation.",
+    "reference": "Matthew 23:36 (DBT)",
+    "connected_to": "Matthew 23:37",
+    "connected_from": "Matthew 23:35"
+  },
+  {
+    "text": "Jerusalem, Jerusalem, [the city] that kills the prophets and stones those that are sent unto her, how often would I have gathered thy children as a hen gathers her chickens under her wings, and ye would not!",
+    "reference": "Matthew 23:37 (DBT)",
+    "connected_to": "Matthew 23:38",
+    "connected_from": "Matthew 23:36"
+  },
+  {
+    "text": "Behold, your house is left unto you desolate;",
+    "reference": "Matthew 23:38 (DBT)",
+    "connected_from": "Matthew 23:37"
+  },
+  {
+    "text": "for I say unto you, Ye shall in no wise see me henceforth until ye say, Blessed [be] he that comes in the name of [the] Lord.",
+    "reference": "Matthew 23:39 (DBT)",
+    "connected_from": "Matthew 23:38"
+  }
+]

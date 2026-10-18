@@ -1,0 +1,36 @@
+[
+  {
+    "text": "Blessed is the man who does not walk in the counsel of the wicked, or set foot on the path of sinners, or sit in the seat of mockers.",
+    "reference": "Psalm 1:1 (BAB)",
+    "connected_to": "Psalm 1:2"
+  },
+  {
+    "text": "But his delight is in the Law of the LORD {YHWH}, and on His law he meditates day and night.",
+    "reference": "Psalm 1:2 (BAB)",
+    "connected_to": "Psalm 1:3",
+    "connected_from": "Psalm 1:1"
+  },
+  {
+    "text": "He is like a tree planted by streams of water, yielding its fruit in season, whose leaf does not wither, and who prospers in all he does.",
+    "reference": "Psalm 1:3 (BAB)",
+    "connected_to": "Psalm 1:4",
+    "connected_from": "Psalm 1:2"
+  },
+  {
+    "text": "Not so the wicked! For they are like chaff driven off by the wind {ruach}.",
+    "reference": "Psalm 1:4 (BAB)",
+    "connected_to": "Psalm 1:5",
+    "connected_from": "Psalm 1:3"
+  },
+  {
+    "text": "Therefore the wicked will not stand in the judgment, nor sinners in the assembly of the righteous.",
+    "reference": "Psalm 1:5 (BAB)",
+    "connected_to": "Psalm 1:6",
+    "connected_from": "Psalm 1:4"
+  },
+  {
+    "text": "For the LORD {YHWH} guards the path of the righteous, but the way of the wicked will perish.",
+    "reference": "Psalm 1:6 (BAB)",
+    "connected_from": "Psalm 1:5"
+  }
+]

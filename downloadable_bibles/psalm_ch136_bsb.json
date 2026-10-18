@@ -1,0 +1,156 @@
+[
+  {
+    "text": "Give thanks to the LORD, for He is good. His loving devotion endures forever.",
+    "reference": "Psalm 136:1 (BSB)",
+    "connected_to": "Psalm 136:2"
+  },
+  {
+    "text": "Give thanks to the God of gods. His loving devotion endures forever.",
+    "reference": "Psalm 136:2 (BSB)",
+    "connected_to": "Psalm 136:3",
+    "connected_from": "Psalm 136:1"
+  },
+  {
+    "text": "Give thanks to the Lord of lords. His loving devotion endures forever.",
+    "reference": "Psalm 136:3 (BSB)",
+    "connected_to": "Psalm 136:4",
+    "connected_from": "Psalm 136:2"
+  },
+  {
+    "text": "He alone does great wonders. His loving devotion endures forever.",
+    "reference": "Psalm 136:4 (BSB)",
+    "connected_to": "Psalm 136:5",
+    "connected_from": "Psalm 136:3"
+  },
+  {
+    "text": "By His insight He made the heavens. His loving devotion endures forever.",
+    "reference": "Psalm 136:5 (BSB)",
+    "connected_to": "Psalm 136:6",
+    "connected_from": "Psalm 136:4"
+  },
+  {
+    "text": "He spread out the earth upon the waters. His loving devotion endures forever.",
+    "reference": "Psalm 136:6 (BSB)",
+    "connected_to": "Psalm 136:7",
+    "connected_from": "Psalm 136:5"
+  },
+  {
+    "text": "He made the great lights—His loving devotion endures forever.",
+    "reference": "Psalm 136:7 (BSB)",
+    "connected_to": "Psalm 136:8",
+    "connected_from": "Psalm 136:6"
+  },
+  {
+    "text": "the sun to rule the day, His loving devotion endures forever.",
+    "reference": "Psalm 136:8 (BSB)",
+    "connected_to": "Psalm 136:9",
+    "connected_from": "Psalm 136:7"
+  },
+  {
+    "text": "the moon and stars to govern the night. His loving devotion endures forever.",
+    "reference": "Psalm 136:9 (BSB)",
+    "connected_to": "Psalm 136:10",
+    "connected_from": "Psalm 136:8"
+  },
+  {
+    "text": "He struck down the firstborn of Egypt His loving devotion endures forever.",
+    "reference": "Psalm 136:10 (BSB)",
+    "connected_to": "Psalm 136:11",
+    "connected_from": "Psalm 136:9"
+  },
+  {
+    "text": "and brought Israel out from among them His loving devotion endures forever.",
+    "reference": "Psalm 136:11 (BSB)",
+    "connected_to": "Psalm 136:12",
+    "connected_from": "Psalm 136:10"
+  },
+  {
+    "text": "with a mighty hand and an outstretched arm. His loving devotion endures forever.",
+    "reference": "Psalm 136:12 (BSB)",
+    "connected_to": "Psalm 136:13",
+    "connected_from": "Psalm 136:11"
+  },
+  {
+    "text": "He divided the Red Sea in two His loving devotion endures forever.",
+    "reference": "Psalm 136:13 (BSB)",
+    "connected_to": "Psalm 136:14",
+    "connected_from": "Psalm 136:12"
+  },
+  {
+    "text": "and led Israel through the midst, His loving devotion endures forever.",
+    "reference": "Psalm 136:14 (BSB)",
+    "connected_to": "Psalm 136:15",
+    "connected_from": "Psalm 136:13"
+  },
+  {
+    "text": "but swept Pharaoh and his army into the Red Sea. His loving devotion endures forever.",
+    "reference": "Psalm 136:15 (BSB)",
+    "connected_to": "Psalm 136:16",
+    "connected_from": "Psalm 136:14"
+  },
+  {
+    "text": "He led His people through the wilderness. His loving devotion endures forever.",
+    "reference": "Psalm 136:16 (BSB)",
+    "connected_to": "Psalm 136:17",
+    "connected_from": "Psalm 136:15"
+  },
+  {
+    "text": "He struck down great kings His loving devotion endures forever.",
+    "reference": "Psalm 136:17 (BSB)",
+    "connected_to": "Psalm 136:18",
+    "connected_from": "Psalm 136:16"
+  },
+  {
+    "text": "and slaughtered mighty kings—His loving devotion endures forever.",
+    "reference": "Psalm 136:18 (BSB)",
+    "connected_to": "Psalm 136:19",
+    "connected_from": "Psalm 136:17"
+  },
+  {
+    "text": "Sihon king of the Amorites His loving devotion endures forever.",
+    "reference": "Psalm 136:19 (BSB)",
+    "connected_to": "Psalm 136:20",
+    "connected_from": "Psalm 136:18"
+  },
+  {
+    "text": "and Og king of Bashan—His loving devotion endures forever.",
+    "reference": "Psalm 136:20 (BSB)",
+    "connected_to": "Psalm 136:21",
+    "connected_from": "Psalm 136:19"
+  },
+  {
+    "text": "and He gave their land as an inheritance, His loving devotion endures forever.",
+    "reference": "Psalm 136:21 (BSB)",
+    "connected_to": "Psalm 136:22",
+    "connected_from": "Psalm 136:20"
+  },
+  {
+    "text": "a heritage to His servant Israel. His loving devotion endures forever.",
+    "reference": "Psalm 136:22 (BSB)",
+    "connected_to": "Psalm 136:23",
+    "connected_from": "Psalm 136:21"
+  },
+  {
+    "text": "He remembered us in our low estate His loving devotion endures forever.",
+    "reference": "Psalm 136:23 (BSB)",
+    "connected_to": "Psalm 136:24",
+    "connected_from": "Psalm 136:22"
+  },
+  {
+    "text": "and freed us from our enemies. His loving devotion endures forever.",
+    "reference": "Psalm 136:24 (BSB)",
+    "connected_to": "Psalm 136:25",
+    "connected_from": "Psalm 136:23"
+  },
+  {
+    "text": "He gives food to every creature. His loving devotion endures forever.",
+    "reference": "Psalm 136:25 (BSB)",
+    "connected_to": "Psalm 136:26",
+    "connected_from": "Psalm 136:24"
+  },
+  {
+    "text": "Give thanks to the God of heaven! His loving devotion endures forever.",
+    "reference": "Psalm 136:26 (BSB)",
+    "connected_from": "Psalm 136:25"
+  }
+]

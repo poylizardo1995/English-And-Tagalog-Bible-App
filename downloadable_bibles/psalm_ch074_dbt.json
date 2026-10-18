@@ -1,0 +1,138 @@
+[
+  {
+    "text": "{An instruction: of Asaph.} Why, O God, hast thou cast off for ever? [why] doth thine anger smoke against the sheep of thy pasture?",
+    "reference": "Psalm 74:1 (DBT)",
+    "connected_to": "Psalm 74:2"
+  },
+  {
+    "text": "Remember thine assembly, which thou hast purchased of old, which thou hast redeemed [to be] the portion of thine inheritance, this mount Zion, wherein thou hast dwelt.",
+    "reference": "Psalm 74:2 (DBT)",
+    "connected_to": "Psalm 74:3",
+    "connected_from": "Psalm 74:1"
+  },
+  {
+    "text": "Lift up thy steps unto the perpetual desolations: everything in the sanctuary hath the enemy destroyed.",
+    "reference": "Psalm 74:3 (DBT)",
+    "connected_to": "Psalm 74:4",
+    "connected_from": "Psalm 74:2"
+  },
+  {
+    "text": "Thine adversaries roar in the midst of thy place of assembly; they set up their signs [for] signs.",
+    "reference": "Psalm 74:4 (DBT)",
+    "connected_to": "Psalm 74:5",
+    "connected_from": "Psalm 74:3"
+  },
+  {
+    "text": "[A man] was known as he could lift up axes in the thicket of trees;",
+    "reference": "Psalm 74:5 (DBT)",
+    "connected_to": "Psalm 74:6",
+    "connected_from": "Psalm 74:4"
+  },
+  {
+    "text": "And now they break down its carved work altogether, with hatchets and hammers.",
+    "reference": "Psalm 74:6 (DBT)",
+    "connected_to": "Psalm 74:7",
+    "connected_from": "Psalm 74:5"
+  },
+  {
+    "text": "They have set on fire thy sanctuary, they have profaned the habitation of thy name to the ground.",
+    "reference": "Psalm 74:7 (DBT)",
+    "connected_to": "Psalm 74:8",
+    "connected_from": "Psalm 74:6"
+  },
+  {
+    "text": "They said in their heart, Let us destroy them together: they have burned up all God’s places of assembly in the land.",
+    "reference": "Psalm 74:8 (DBT)",
+    "connected_to": "Psalm 74:9",
+    "connected_from": "Psalm 74:7"
+  },
+  {
+    "text": "We see not our signs; there is no more any prophet, neither is there among us any that knoweth how long.",
+    "reference": "Psalm 74:9 (DBT)",
+    "connected_to": "Psalm 74:10",
+    "connected_from": "Psalm 74:8"
+  },
+  {
+    "text": "How long, O God, shall the adversary reproach? Shall the enemy contemn thy name for ever?",
+    "reference": "Psalm 74:10 (DBT)",
+    "connected_to": "Psalm 74:11",
+    "connected_from": "Psalm 74:9"
+  },
+  {
+    "text": "Why withdrawest thou thy hand, and thy right hand? [pluck it] out of thy bosom: consume [them].",
+    "reference": "Psalm 74:11 (DBT)",
+    "connected_to": "Psalm 74:12",
+    "connected_from": "Psalm 74:10"
+  },
+  {
+    "text": "But God is my king of old, accomplishing deliverances in the midst of the earth.",
+    "reference": "Psalm 74:12 (DBT)",
+    "connected_to": "Psalm 74:13",
+    "connected_from": "Psalm 74:11"
+  },
+  {
+    "text": "Thou didst divide the sea by thy strength; thou didst break the heads of the monsters on the waters:",
+    "reference": "Psalm 74:13 (DBT)",
+    "connected_to": "Psalm 74:14",
+    "connected_from": "Psalm 74:12"
+  },
+  {
+    "text": "Thou didst break in pieces the heads of leviathan, thou gavest him to be meat to those that people the desert.",
+    "reference": "Psalm 74:14 (DBT)",
+    "connected_to": "Psalm 74:15",
+    "connected_from": "Psalm 74:13"
+  },
+  {
+    "text": "Thou didst cleave fountain and torrent, thou driedst up ever-flowing rivers.",
+    "reference": "Psalm 74:15 (DBT)",
+    "connected_to": "Psalm 74:16",
+    "connected_from": "Psalm 74:14"
+  },
+  {
+    "text": "The day is thine, the night also is thine; thou hast prepared the moon and the sun:",
+    "reference": "Psalm 74:16 (DBT)",
+    "connected_to": "Psalm 74:17",
+    "connected_from": "Psalm 74:15"
+  },
+  {
+    "text": "Thou hast set all the borders of the earth; summer and winter—thou didst form them.",
+    "reference": "Psalm 74:17 (DBT)",
+    "connected_to": "Psalm 74:18",
+    "connected_from": "Psalm 74:16"
+  },
+  {
+    "text": "Remember this, that an enemy hath reproached Jehovah, and a foolish people have contemned thy name.",
+    "reference": "Psalm 74:18 (DBT)",
+    "connected_to": "Psalm 74:19",
+    "connected_from": "Psalm 74:17"
+  },
+  {
+    "text": "Give not up the soul of thy turtle-dove unto the wild beast; forget not the troop of thine afflicted for ever.",
+    "reference": "Psalm 74:19 (DBT)",
+    "connected_to": "Psalm 74:20",
+    "connected_from": "Psalm 74:18"
+  },
+  {
+    "text": "Have respect unto the covenant; for the dark places of the earth are full of the dwellings of violence.",
+    "reference": "Psalm 74:20 (DBT)",
+    "connected_to": "Psalm 74:21",
+    "connected_from": "Psalm 74:19"
+  },
+  {
+    "text": "Oh let not the oppressed one return ashamed; let the afflicted and needy praise thy name.",
+    "reference": "Psalm 74:21 (DBT)",
+    "connected_to": "Psalm 74:22",
+    "connected_from": "Psalm 74:20"
+  },
+  {
+    "text": "Rise up, O God, plead thine own cause: remember how the foolish man reproacheth thee all the day;",
+    "reference": "Psalm 74:22 (DBT)",
+    "connected_to": "Psalm 74:23",
+    "connected_from": "Psalm 74:21"
+  },
+  {
+    "text": "Forget not the voice of thine adversaries: the tumult of those that rise up against thee ascendeth continually.",
+    "reference": "Psalm 74:23 (DBT)",
+    "connected_from": "Psalm 74:22"
+  }
+]

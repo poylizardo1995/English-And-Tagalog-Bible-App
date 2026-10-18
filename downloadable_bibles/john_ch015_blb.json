@@ -1,0 +1,162 @@
+[
+  {
+    "text": "[“] I am the true vine, and My Father is the vinedresser.",
+    "reference": "John 15:1 (BLB)",
+    "connected_to": "John 15:2"
+  },
+  {
+    "text": "Every branch not bearing fruit in Me, He takes it away; and every one bearing fruit, He prunes it clean so that it may bear more fruit.",
+    "reference": "John 15:2 (BLB)",
+    "connected_to": "John 15:3",
+    "connected_from": "John 15:1"
+  },
+  {
+    "text": "Already you⁺ are clean because of the word that I have spoken to you⁺.",
+    "reference": "John 15:3 (BLB)",
+    "connected_to": "John 15:4",
+    "connected_from": "John 15:2"
+  },
+  {
+    "text": "Remain in Me, and I in you⁺. As the branch is not able to bear fruit of itself unless it remains in the vine, so neither you⁺, unless you⁺ remain in Me.",
+    "reference": "John 15:4 (BLB)",
+    "connected_to": "John 15:5",
+    "connected_from": "John 15:3"
+  },
+  {
+    "text": "I am the vine; you⁺ [are] the branches. The one remaining in Me and I in him, he bears much fruit. For apart from Me you⁺ are able to do nothing.",
+    "reference": "John 15:5 (BLB)",
+    "connected_to": "John 15:6",
+    "connected_from": "John 15:4"
+  },
+  {
+    "text": "If anyone does not remain in Me, he is thrown out like the branch and is dried up; and they gather them and cast [them] into the fire, and they are burned.",
+    "reference": "John 15:6 (BLB)",
+    "connected_to": "John 15:7",
+    "connected_from": "John 15:5"
+  },
+  {
+    "text": "If you⁺ remain in Me and My words remain in you⁺, you⁺ shall ask whatever you⁺ wish, and to you⁺ it will come to pass.",
+    "reference": "John 15:7 (BLB)",
+    "connected_to": "John 15:8",
+    "connected_from": "John 15:6"
+  },
+  {
+    "text": "In this My Father is glorified, that you⁺ should bear much fruit, and you⁺ shall be My disciples.",
+    "reference": "John 15:8 (BLB)",
+    "connected_to": "John 15:9",
+    "connected_from": "John 15:7"
+  },
+  {
+    "text": "As the Father has loved Me, I also have loved you⁺. Remain in My love.",
+    "reference": "John 15:9 (BLB)",
+    "connected_to": "John 15:10",
+    "connected_from": "John 15:8"
+  },
+  {
+    "text": "If you⁺ keep My commandments, you⁺ will abide in My love, as I have kept My Father’s commandments and abide in His love.",
+    "reference": "John 15:10 (BLB)",
+    "connected_to": "John 15:11",
+    "connected_from": "John 15:9"
+  },
+  {
+    "text": "These things I have spoken to you⁺ so that My joy may be in you⁺ and your⁺ joy may be full.",
+    "reference": "John 15:11 (BLB)",
+    "connected_to": "John 15:12",
+    "connected_from": "John 15:10"
+  },
+  {
+    "text": "This is My commandment, that you⁺ should love one another as I have loved you⁺.",
+    "reference": "John 15:12 (BLB)",
+    "connected_to": "John 15:13",
+    "connected_from": "John 15:11"
+  },
+  {
+    "text": "Greater love has no one than this, that one should lay down his life for his friends.",
+    "reference": "John 15:13 (BLB)",
+    "connected_to": "John 15:14",
+    "connected_from": "John 15:12"
+  },
+  {
+    "text": "You⁺ are My friends if you⁺ do what I command you⁺.",
+    "reference": "John 15:14 (BLB)",
+    "connected_to": "John 15:15",
+    "connected_from": "John 15:13"
+  },
+  {
+    "text": "No longer do I call you⁺ servants, because the servant does not know what his master is doing. But I have called you⁺ friends, because all things that I heard from My Father I have made known to you⁺.",
+    "reference": "John 15:15 (BLB)",
+    "connected_to": "John 15:16",
+    "connected_from": "John 15:14"
+  },
+  {
+    "text": "You⁺ did not choose Me, but I chose you⁺, and I appointed you⁺ so that you⁺ should go and bear fruit, and [that] your⁺ fruit should remain, so that whatever you⁺ might ask the Father in My name, He may give you⁺.",
+    "reference": "John 15:16 (BLB)",
+    "connected_to": "John 15:17",
+    "connected_from": "John 15:15"
+  },
+  {
+    "text": "These things I command you⁺, that you⁺ love one another.",
+    "reference": "John 15:17 (BLB)",
+    "connected_to": "John 15:18",
+    "connected_from": "John 15:16"
+  },
+  {
+    "text": "If the world hates you⁺, you⁺ know that it has hated Me before you⁺.",
+    "reference": "John 15:18 (BLB)",
+    "connected_to": "John 15:19",
+    "connected_from": "John 15:17"
+  },
+  {
+    "text": "If you⁺ were of the world, the world would love [you] [as] its own; but because you⁺ are not of the world, but I chose you⁺ out of the world, on account of this, the world hates you⁺.",
+    "reference": "John 15:19 (BLB)",
+    "connected_to": "John 15:20",
+    "connected_from": "John 15:18"
+  },
+  {
+    "text": "Remember the word that I said to you⁺: ‘A servant is not greater than his master.’ If they persecuted Me, they will also persecute you⁺; if they kept My word, they will keep yours⁺ also.",
+    "reference": "John 15:20 (BLB)",
+    "connected_to": "John 15:21",
+    "connected_from": "John 15:19"
+  },
+  {
+    "text": "But they will do all these things against you⁺ on account of My name, because they do not know the One having sent Me.",
+    "reference": "John 15:21 (BLB)",
+    "connected_to": "John 15:22",
+    "connected_from": "John 15:20"
+  },
+  {
+    "text": "If I had not come and spoken to them, they would not have had sin; but now they have no excuse for their sin.",
+    "reference": "John 15:22 (BLB)",
+    "connected_to": "John 15:23",
+    "connected_from": "John 15:21"
+  },
+  {
+    "text": "The one hating Me hates My Father also.",
+    "reference": "John 15:23 (BLB)",
+    "connected_to": "John 15:24",
+    "connected_from": "John 15:22"
+  },
+  {
+    "text": "If I had not done among them the works that no other has done, they would not have had sin; but now they have both seen and hated both Me and My Father.",
+    "reference": "John 15:24 (BLB)",
+    "connected_to": "John 15:25",
+    "connected_from": "John 15:23"
+  },
+  {
+    "text": "But [this is] so that the word having been written in their Law may be fulfilled: ‘They hated Me without cause.’",
+    "reference": "John 15:25 (BLB)",
+    "connected_to": "John 15:26",
+    "connected_from": "John 15:24"
+  },
+  {
+    "text": "When the Advocate comes, whom I will send to you⁺ from the Father, the Spirit of truth who goes forth from the Father, He will testify about Me.",
+    "reference": "John 15:26 (BLB)",
+    "connected_to": "John 15:27",
+    "connected_from": "John 15:25"
+  },
+  {
+    "text": "And you⁺ also testify, because you⁺ are with Me from the beginning.[]",
+    "reference": "John 15:27 (BLB)",
+    "connected_from": "John 15:26"
+  }
+]

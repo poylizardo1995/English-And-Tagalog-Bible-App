@@ -1,0 +1,78 @@
+[
+  {
+    "text": "For the Leader; upon Jonath-elem-rehokim. [A Psalm] of David; Michtam; when the Philistines took him in Gath.   Be gracious unto me, O God, for man would swallow me up; All the day he fighting oppresseth me.",
+    "reference": "Psalm 56:1 (JPS)",
+    "connected_to": "Psalm 56:2"
+  },
+  {
+    "text": "They that lie in wait for me would swallow me up all the day; For they are many that fight against me, O Most High,",
+    "reference": "Psalm 56:2 (JPS)",
+    "connected_to": "Psalm 56:3",
+    "connected_from": "Psalm 56:1"
+  },
+  {
+    "text": "In the day that I am afraid, I will put my trust in Thee.",
+    "reference": "Psalm 56:3 (JPS)",
+    "connected_to": "Psalm 56:4",
+    "connected_from": "Psalm 56:2"
+  },
+  {
+    "text": "In God—I will praise His word—In God do I trust, I will not be afraid; What can flesh do unto me?",
+    "reference": "Psalm 56:4 (JPS)",
+    "connected_to": "Psalm 56:5",
+    "connected_from": "Psalm 56:3"
+  },
+  {
+    "text": "All the day they trouble mine affairs; All their thoughts are against me for evil.",
+    "reference": "Psalm 56:5 (JPS)",
+    "connected_to": "Psalm 56:6",
+    "connected_from": "Psalm 56:4"
+  },
+  {
+    "text": "They gather themselves together, they hide themselves, They mark my steps; According as they have waited for my soul.",
+    "reference": "Psalm 56:6 (JPS)",
+    "connected_to": "Psalm 56:7",
+    "connected_from": "Psalm 56:5"
+  },
+  {
+    "text": "Because of iniquity cast them out; In anger bring down the peoples, O God.",
+    "reference": "Psalm 56:7 (JPS)",
+    "connected_to": "Psalm 56:8",
+    "connected_from": "Psalm 56:6"
+  },
+  {
+    "text": "Thou has counted my wanderings; Put Thou my tears into Thy bottle; Are they not in Thy book?",
+    "reference": "Psalm 56:8 (JPS)",
+    "connected_to": "Psalm 56:9",
+    "connected_from": "Psalm 56:7"
+  },
+  {
+    "text": "Then shall mine enemies turn back in the day that I call; This I know, that God is for me.",
+    "reference": "Psalm 56:9 (JPS)",
+    "connected_to": "Psalm 56:10",
+    "connected_from": "Psalm 56:8"
+  },
+  {
+    "text": "In God—I will praise His word—In the LORD—I will praise His word—",
+    "reference": "Psalm 56:10 (JPS)",
+    "connected_to": "Psalm 56:11",
+    "connected_from": "Psalm 56:9"
+  },
+  {
+    "text": "In God do I trust, I will not be afraid; What can man do unto me?",
+    "reference": "Psalm 56:11 (JPS)",
+    "connected_to": "Psalm 56:12",
+    "connected_from": "Psalm 56:10"
+  },
+  {
+    "text": "Thy vows are upon me, O God; I will render thank-offerings unto Thee.",
+    "reference": "Psalm 56:12 (JPS)",
+    "connected_to": "Psalm 56:13",
+    "connected_from": "Psalm 56:11"
+  },
+  {
+    "text": "For thou hast delivered my soul from death; Hast Thou not delivered my feet from stumbling? That I may walk before God in the light of the living?",
+    "reference": "Psalm 56:13 (JPS)",
+    "connected_from": "Psalm 56:12"
+  }
+]

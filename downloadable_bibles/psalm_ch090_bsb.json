@@ -1,0 +1,102 @@
+[
+  {
+    "text": "A prayer of Moses the man of God. Lord, You have been our dwelling place through all generations.",
+    "reference": "Psalm 90:1 (BSB)",
+    "connected_to": "Psalm 90:2"
+  },
+  {
+    "text": "Before the mountains were born or You brought forth the earth and the world, from everlasting to everlasting You are God.",
+    "reference": "Psalm 90:2 (BSB)",
+    "connected_to": "Psalm 90:3",
+    "connected_from": "Psalm 90:1"
+  },
+  {
+    "text": "You return man to dust, saying, “Return, O sons of mortals.”",
+    "reference": "Psalm 90:3 (BSB)",
+    "connected_to": "Psalm 90:4",
+    "connected_from": "Psalm 90:2"
+  },
+  {
+    "text": "For in Your sight a thousand years are but a day that passes, or a watch of the night.",
+    "reference": "Psalm 90:4 (BSB)",
+    "connected_to": "Psalm 90:5",
+    "connected_from": "Psalm 90:3"
+  },
+  {
+    "text": "You sweep them away in their sleep; they are like the new grass of the morning—",
+    "reference": "Psalm 90:5 (BSB)",
+    "connected_to": "Psalm 90:6",
+    "connected_from": "Psalm 90:4"
+  },
+  {
+    "text": "in the morning it springs up new, but by evening it fades and withers.",
+    "reference": "Psalm 90:6 (BSB)",
+    "connected_to": "Psalm 90:7",
+    "connected_from": "Psalm 90:5"
+  },
+  {
+    "text": "For we are consumed by Your anger and terrified by Your wrath.",
+    "reference": "Psalm 90:7 (BSB)",
+    "connected_to": "Psalm 90:8",
+    "connected_from": "Psalm 90:6"
+  },
+  {
+    "text": "You have set our iniquities before You, our secret sins in the light of Your presence.",
+    "reference": "Psalm 90:8 (BSB)",
+    "connected_to": "Psalm 90:9",
+    "connected_from": "Psalm 90:7"
+  },
+  {
+    "text": "For all our days decline in Your fury; we finish our years with a sigh.",
+    "reference": "Psalm 90:9 (BSB)",
+    "connected_to": "Psalm 90:10",
+    "connected_from": "Psalm 90:8"
+  },
+  {
+    "text": "The length of our days is seventy years—or eighty if we are strong—yet their pride is but labor and sorrow, for they quickly pass, and we fly away.",
+    "reference": "Psalm 90:10 (BSB)",
+    "connected_to": "Psalm 90:11",
+    "connected_from": "Psalm 90:9"
+  },
+  {
+    "text": "Who knows the power of Your anger? Your wrath matches the fear You are due.",
+    "reference": "Psalm 90:11 (BSB)",
+    "connected_to": "Psalm 90:12",
+    "connected_from": "Psalm 90:10"
+  },
+  {
+    "text": "So teach us to number our days, that we may present a heart of wisdom.",
+    "reference": "Psalm 90:12 (BSB)",
+    "connected_to": "Psalm 90:13",
+    "connected_from": "Psalm 90:11"
+  },
+  {
+    "text": "Return, O LORD! How long will it be? Have compassion on Your servants.",
+    "reference": "Psalm 90:13 (BSB)",
+    "connected_to": "Psalm 90:14",
+    "connected_from": "Psalm 90:12"
+  },
+  {
+    "text": "Satisfy us in the morning with Your loving devotion, that we may sing for joy and be glad all our days.",
+    "reference": "Psalm 90:14 (BSB)",
+    "connected_to": "Psalm 90:15",
+    "connected_from": "Psalm 90:13"
+  },
+  {
+    "text": "Make us glad for as many days as You have afflicted us, for as many years as we have seen evil.",
+    "reference": "Psalm 90:15 (BSB)",
+    "connected_to": "Psalm 90:16",
+    "connected_from": "Psalm 90:14"
+  },
+  {
+    "text": "May Your work be shown to Your servants, and Your splendor to their children.",
+    "reference": "Psalm 90:16 (BSB)",
+    "connected_to": "Psalm 90:17",
+    "connected_from": "Psalm 90:15"
+  },
+  {
+    "text": "May the favor of the Lord our God rest upon us; establish for us the work of our hands—yes, establish the work of our hands!",
+    "reference": "Psalm 90:17 (BSB)",
+    "connected_from": "Psalm 90:16"
+  }
+]

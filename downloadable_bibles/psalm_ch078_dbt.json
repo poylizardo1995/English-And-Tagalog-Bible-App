@@ -1,0 +1,432 @@
+[
+  {
+    "text": "{An instruction. Of Asaph.} Give ear, O my people, to my law; incline your ears to the words of my mouth.",
+    "reference": "Psalm 78:1 (DBT)",
+    "connected_to": "Psalm 78:2"
+  },
+  {
+    "text": "I will open my mouth in a parable; I will utter riddles from of old,",
+    "reference": "Psalm 78:2 (DBT)",
+    "connected_to": "Psalm 78:3",
+    "connected_from": "Psalm 78:1"
+  },
+  {
+    "text": "Which we have heard and known, and our fathers have told us:",
+    "reference": "Psalm 78:3 (DBT)",
+    "connected_to": "Psalm 78:4",
+    "connected_from": "Psalm 78:2"
+  },
+  {
+    "text": "We will not hide [them] from their sons, shewing forth to the generation to come the praises of Jehovah, and his strength, and his marvellous works which he hath done.",
+    "reference": "Psalm 78:4 (DBT)",
+    "connected_to": "Psalm 78:5",
+    "connected_from": "Psalm 78:3"
+  },
+  {
+    "text": "For he established a testimony in Jacob, and appointed a law in Israel, which he commanded our fathers, that they should make them known to their children;",
+    "reference": "Psalm 78:5 (DBT)",
+    "connected_to": "Psalm 78:6",
+    "connected_from": "Psalm 78:4"
+  },
+  {
+    "text": "That the generation to come might know [them], the children that should be born; that they might rise up and tell [them] to their children,",
+    "reference": "Psalm 78:6 (DBT)",
+    "connected_to": "Psalm 78:7",
+    "connected_from": "Psalm 78:5"
+  },
+  {
+    "text": "And that they might set their hope in God, and not forget the works of God, but observe his commandments;",
+    "reference": "Psalm 78:7 (DBT)",
+    "connected_to": "Psalm 78:8",
+    "connected_from": "Psalm 78:6"
+  },
+  {
+    "text": "And might not be as their fathers, a stubborn and rebellious generation, a generation that prepared not their heart, and whose spirit was not stedfast with God.",
+    "reference": "Psalm 78:8 (DBT)",
+    "connected_to": "Psalm 78:9",
+    "connected_from": "Psalm 78:7"
+  },
+  {
+    "text": "The sons of Ephraim, armed bowmen, turned back in the day of battle.",
+    "reference": "Psalm 78:9 (DBT)",
+    "connected_to": "Psalm 78:10",
+    "connected_from": "Psalm 78:8"
+  },
+  {
+    "text": "They kept not the covenant of God, and refused to walk in his law;",
+    "reference": "Psalm 78:10 (DBT)",
+    "connected_to": "Psalm 78:11",
+    "connected_from": "Psalm 78:9"
+  },
+  {
+    "text": "And forgot his doings, and his marvellous works which he had shewn them.",
+    "reference": "Psalm 78:11 (DBT)",
+    "connected_to": "Psalm 78:12",
+    "connected_from": "Psalm 78:10"
+  },
+  {
+    "text": "In the sight of their fathers had he done wonders, in the land of Egypt, the field of Zoan.",
+    "reference": "Psalm 78:12 (DBT)",
+    "connected_to": "Psalm 78:13",
+    "connected_from": "Psalm 78:11"
+  },
+  {
+    "text": "He clave the sea, and caused them to pass through; and made the waters to stand as a heap;",
+    "reference": "Psalm 78:13 (DBT)",
+    "connected_to": "Psalm 78:14",
+    "connected_from": "Psalm 78:12"
+  },
+  {
+    "text": "And he led them with a cloud in the daytime, and all the night with the light of fire.",
+    "reference": "Psalm 78:14 (DBT)",
+    "connected_to": "Psalm 78:15",
+    "connected_from": "Psalm 78:13"
+  },
+  {
+    "text": "He clave rocks in the wilderness, and gave [them] drink as out of the depths, abundantly;",
+    "reference": "Psalm 78:15 (DBT)",
+    "connected_to": "Psalm 78:16",
+    "connected_from": "Psalm 78:14"
+  },
+  {
+    "text": "And he brought streams out of the rock, and caused waters to run down like rivers.",
+    "reference": "Psalm 78:16 (DBT)",
+    "connected_to": "Psalm 78:17",
+    "connected_from": "Psalm 78:15"
+  },
+  {
+    "text": "Yet they still went on sinning against him, provoking the Most High in the desert;",
+    "reference": "Psalm 78:17 (DBT)",
+    "connected_to": "Psalm 78:18",
+    "connected_from": "Psalm 78:16"
+  },
+  {
+    "text": "And they tempted God in their heart, by asking meat for their lust;",
+    "reference": "Psalm 78:18 (DBT)",
+    "connected_to": "Psalm 78:19",
+    "connected_from": "Psalm 78:17"
+  },
+  {
+    "text": "And they spoke against God: they said, Is God able to prepare a table in the wilderness?",
+    "reference": "Psalm 78:19 (DBT)",
+    "connected_to": "Psalm 78:20",
+    "connected_from": "Psalm 78:18"
+  },
+  {
+    "text": "Behold, he smote the rock, and waters gushed out, and streams overflowed; is he able to give bread also, or provide flesh for his people?",
+    "reference": "Psalm 78:20 (DBT)",
+    "connected_to": "Psalm 78:21",
+    "connected_from": "Psalm 78:19"
+  },
+  {
+    "text": "Therefore Jehovah heard, and was wroth; and fire was kindled against Jacob, and anger also went up against Israel:",
+    "reference": "Psalm 78:21 (DBT)",
+    "connected_to": "Psalm 78:22",
+    "connected_from": "Psalm 78:20"
+  },
+  {
+    "text": "Because they believed not in God, and confided not in his salvation;",
+    "reference": "Psalm 78:22 (DBT)",
+    "connected_to": "Psalm 78:23",
+    "connected_from": "Psalm 78:21"
+  },
+  {
+    "text": "Though he had commanded the clouds from above, and had opened the doors of the heavens,",
+    "reference": "Psalm 78:23 (DBT)",
+    "connected_to": "Psalm 78:24",
+    "connected_from": "Psalm 78:22"
+  },
+  {
+    "text": "And had rained down manna upon them to eat, and had given them the corn of the heavens.",
+    "reference": "Psalm 78:24 (DBT)",
+    "connected_to": "Psalm 78:25",
+    "connected_from": "Psalm 78:23"
+  },
+  {
+    "text": "Man did eat the bread of the mighty; he sent them provision to the full.",
+    "reference": "Psalm 78:25 (DBT)",
+    "connected_to": "Psalm 78:26",
+    "connected_from": "Psalm 78:24"
+  },
+  {
+    "text": "He caused the east wind to rise in the heavens, and by his strength he brought the south wind;",
+    "reference": "Psalm 78:26 (DBT)",
+    "connected_to": "Psalm 78:27",
+    "connected_from": "Psalm 78:25"
+  },
+  {
+    "text": "And he rained flesh upon them as dust, and feathered fowl as the sand of the seas,",
+    "reference": "Psalm 78:27 (DBT)",
+    "connected_to": "Psalm 78:28",
+    "connected_from": "Psalm 78:26"
+  },
+  {
+    "text": "And he let it fall in the midst of their camp, round about their habitations:",
+    "reference": "Psalm 78:28 (DBT)",
+    "connected_to": "Psalm 78:29",
+    "connected_from": "Psalm 78:27"
+  },
+  {
+    "text": "And they did eat, and were well filled; for that they lusted after, he brought to them.",
+    "reference": "Psalm 78:29 (DBT)",
+    "connected_to": "Psalm 78:30",
+    "connected_from": "Psalm 78:28"
+  },
+  {
+    "text": "They were not alienated from their lust, their meat was yet in their mouths,",
+    "reference": "Psalm 78:30 (DBT)",
+    "connected_to": "Psalm 78:31",
+    "connected_from": "Psalm 78:29"
+  },
+  {
+    "text": "When the anger of God went up against them; and he slew the fattest of them, and smote down the chosen men of Israel.",
+    "reference": "Psalm 78:31 (DBT)",
+    "connected_to": "Psalm 78:32",
+    "connected_from": "Psalm 78:30"
+  },
+  {
+    "text": "For all this, they sinned still, and believed not in his marvellous works;",
+    "reference": "Psalm 78:32 (DBT)",
+    "connected_to": "Psalm 78:33",
+    "connected_from": "Psalm 78:31"
+  },
+  {
+    "text": "And he consumed their days in vanity, and their years in terror.",
+    "reference": "Psalm 78:33 (DBT)",
+    "connected_to": "Psalm 78:34",
+    "connected_from": "Psalm 78:32"
+  },
+  {
+    "text": "When he slew them, then they sought him, and returned and sought early after God;",
+    "reference": "Psalm 78:34 (DBT)",
+    "connected_to": "Psalm 78:35",
+    "connected_from": "Psalm 78:33"
+  },
+  {
+    "text": "And they remembered that God was their rock, and God, the Most High, their redeemer.",
+    "reference": "Psalm 78:35 (DBT)",
+    "connected_to": "Psalm 78:36",
+    "connected_from": "Psalm 78:34"
+  },
+  {
+    "text": "But they flattered him with their mouth, and lied unto him with their tongue;",
+    "reference": "Psalm 78:36 (DBT)",
+    "connected_to": "Psalm 78:37",
+    "connected_from": "Psalm 78:35"
+  },
+  {
+    "text": "For their heart was not firm toward him, neither were they stedfast in his covenant.",
+    "reference": "Psalm 78:37 (DBT)",
+    "connected_to": "Psalm 78:38",
+    "connected_from": "Psalm 78:36"
+  },
+  {
+    "text": "But he was merciful: he forgave the iniquity, and destroyed [them] not; but many a time turned he his anger away, and did not stir up all his fury:",
+    "reference": "Psalm 78:38 (DBT)",
+    "connected_to": "Psalm 78:39",
+    "connected_from": "Psalm 78:37"
+  },
+  {
+    "text": "And he remembered that they were flesh, a breath that passeth away and cometh not again.",
+    "reference": "Psalm 78:39 (DBT)",
+    "connected_to": "Psalm 78:40",
+    "connected_from": "Psalm 78:38"
+  },
+  {
+    "text": "How oft did they provoke him in the wilderness, and grieve him in the desert!",
+    "reference": "Psalm 78:40 (DBT)",
+    "connected_to": "Psalm 78:41",
+    "connected_from": "Psalm 78:39"
+  },
+  {
+    "text": "And they turned again and tempted God, and grieved the Holy One of Israel.",
+    "reference": "Psalm 78:41 (DBT)",
+    "connected_to": "Psalm 78:42",
+    "connected_from": "Psalm 78:40"
+  },
+  {
+    "text": "They remembered not his hand, the day when he delivered them from the oppressor,",
+    "reference": "Psalm 78:42 (DBT)",
+    "connected_to": "Psalm 78:43",
+    "connected_from": "Psalm 78:41"
+  },
+  {
+    "text": "How he set his signs in Egypt, and his miracles in the field of Zoan;",
+    "reference": "Psalm 78:43 (DBT)",
+    "connected_to": "Psalm 78:44",
+    "connected_from": "Psalm 78:42"
+  },
+  {
+    "text": "And turned their rivers into blood, and their streams, that they could not drink;",
+    "reference": "Psalm 78:44 (DBT)",
+    "connected_to": "Psalm 78:45",
+    "connected_from": "Psalm 78:43"
+  },
+  {
+    "text": "He sent dog-flies among them, which devoured them, and frogs, which destroyed them;",
+    "reference": "Psalm 78:45 (DBT)",
+    "connected_to": "Psalm 78:46",
+    "connected_from": "Psalm 78:44"
+  },
+  {
+    "text": "And he gave their increase unto the caterpillar, and their labour unto the locust;",
+    "reference": "Psalm 78:46 (DBT)",
+    "connected_to": "Psalm 78:47",
+    "connected_from": "Psalm 78:45"
+  },
+  {
+    "text": "He killed their vines with hail, and their sycamore trees with hail-stones;",
+    "reference": "Psalm 78:47 (DBT)",
+    "connected_to": "Psalm 78:48",
+    "connected_from": "Psalm 78:46"
+  },
+  {
+    "text": "And he delivered up their cattle to the hail, and their flocks to thunderbolts.",
+    "reference": "Psalm 78:48 (DBT)",
+    "connected_to": "Psalm 78:49",
+    "connected_from": "Psalm 78:47"
+  },
+  {
+    "text": "He cast upon them the fierceness of his anger, wrath, and indignation, and distress,—a mission of angels of woes.",
+    "reference": "Psalm 78:49 (DBT)",
+    "connected_to": "Psalm 78:50",
+    "connected_from": "Psalm 78:48"
+  },
+  {
+    "text": "He made a way for his anger; he spared not their soul from death, but gave their life over to the pestilence;",
+    "reference": "Psalm 78:50 (DBT)",
+    "connected_to": "Psalm 78:51",
+    "connected_from": "Psalm 78:49"
+  },
+  {
+    "text": "And he smote all the firstborn in Egypt, the first-fruits of their vigour in the tents of Ham.",
+    "reference": "Psalm 78:51 (DBT)",
+    "connected_to": "Psalm 78:52",
+    "connected_from": "Psalm 78:50"
+  },
+  {
+    "text": "And he made his own people to go forth like sheep, and guided them in the wilderness like a flock;",
+    "reference": "Psalm 78:52 (DBT)",
+    "connected_to": "Psalm 78:53",
+    "connected_from": "Psalm 78:51"
+  },
+  {
+    "text": "And he led them safely, so that they were without fear; and the sea covered their enemies.",
+    "reference": "Psalm 78:53 (DBT)",
+    "connected_to": "Psalm 78:54",
+    "connected_from": "Psalm 78:52"
+  },
+  {
+    "text": "And he brought them to his holy border, this mountain, which his right hand purchased;",
+    "reference": "Psalm 78:54 (DBT)",
+    "connected_to": "Psalm 78:55",
+    "connected_from": "Psalm 78:53"
+  },
+  {
+    "text": "And he drove out the nations before them, and allotted them for an inheritance by line, and made the tribes of Israel to dwell in their tents.",
+    "reference": "Psalm 78:55 (DBT)",
+    "connected_to": "Psalm 78:56",
+    "connected_from": "Psalm 78:54"
+  },
+  {
+    "text": "But they tempted and provoked God, the Most High, and kept not his testimonies,",
+    "reference": "Psalm 78:56 (DBT)",
+    "connected_to": "Psalm 78:57",
+    "connected_from": "Psalm 78:55"
+  },
+  {
+    "text": "And they drew back and dealt treacherously like their fathers: they turned like a deceitful bow.",
+    "reference": "Psalm 78:57 (DBT)",
+    "connected_to": "Psalm 78:58",
+    "connected_from": "Psalm 78:56"
+  },
+  {
+    "text": "And they provoked him to anger with their high places, and moved him to jealousy with their graven images.",
+    "reference": "Psalm 78:58 (DBT)",
+    "connected_to": "Psalm 78:59",
+    "connected_from": "Psalm 78:57"
+  },
+  {
+    "text": "God heard, and was wroth, and greatly abhorred Israel:",
+    "reference": "Psalm 78:59 (DBT)",
+    "connected_to": "Psalm 78:60",
+    "connected_from": "Psalm 78:58"
+  },
+  {
+    "text": "And he forsook the tabernacle at Shiloh, the tent where he had dwelt among men,",
+    "reference": "Psalm 78:60 (DBT)",
+    "connected_to": "Psalm 78:61",
+    "connected_from": "Psalm 78:59"
+  },
+  {
+    "text": "And gave his strength into captivity, and his glory into the hand of the oppressor;",
+    "reference": "Psalm 78:61 (DBT)",
+    "connected_to": "Psalm 78:62",
+    "connected_from": "Psalm 78:60"
+  },
+  {
+    "text": "And delivered up his people unto the sword, and was very wroth with his inheritance:",
+    "reference": "Psalm 78:62 (DBT)",
+    "connected_to": "Psalm 78:63",
+    "connected_from": "Psalm 78:61"
+  },
+  {
+    "text": "The fire consumed their young men, and their maidens were not praised in [nuptial] song;",
+    "reference": "Psalm 78:63 (DBT)",
+    "connected_to": "Psalm 78:64",
+    "connected_from": "Psalm 78:62"
+  },
+  {
+    "text": "Their priests fell by the sword, and their widows made no lamentation.",
+    "reference": "Psalm 78:64 (DBT)",
+    "connected_to": "Psalm 78:65",
+    "connected_from": "Psalm 78:63"
+  },
+  {
+    "text": "Then the Lord awoke as one out of sleep, like a mighty man that shouteth aloud by reason of wine;",
+    "reference": "Psalm 78:65 (DBT)",
+    "connected_to": "Psalm 78:66",
+    "connected_from": "Psalm 78:64"
+  },
+  {
+    "text": "And he smote his adversaries in the hinder part, and put them to everlasting reproach.",
+    "reference": "Psalm 78:66 (DBT)",
+    "connected_to": "Psalm 78:67",
+    "connected_from": "Psalm 78:65"
+  },
+  {
+    "text": "And he rejected the tent of Joseph, and chose not the tribe of Ephraim,",
+    "reference": "Psalm 78:67 (DBT)",
+    "connected_to": "Psalm 78:68",
+    "connected_from": "Psalm 78:66"
+  },
+  {
+    "text": "But chose the tribe of Judah, the mount Zion which he loved;",
+    "reference": "Psalm 78:68 (DBT)",
+    "connected_to": "Psalm 78:69",
+    "connected_from": "Psalm 78:67"
+  },
+  {
+    "text": "And he built his sanctuary like the heights, like the earth which he hath founded for ever.",
+    "reference": "Psalm 78:69 (DBT)",
+    "connected_to": "Psalm 78:70",
+    "connected_from": "Psalm 78:68"
+  },
+  {
+    "text": "And he chose David his servant, and took him from the sheepfolds:",
+    "reference": "Psalm 78:70 (DBT)",
+    "connected_to": "Psalm 78:71",
+    "connected_from": "Psalm 78:69"
+  },
+  {
+    "text": "From following the suckling-ewes, he brought him to feed Jacob his people, and Israel his inheritance.",
+    "reference": "Psalm 78:71 (DBT)",
+    "connected_to": "Psalm 78:72",
+    "connected_from": "Psalm 78:70"
+  },
+  {
+    "text": "And he fed them according to the integrity of his heart, and led them by the skilfulness of his hands.",
+    "reference": "Psalm 78:72 (DBT)",
+    "connected_from": "Psalm 78:71"
+  }
+]

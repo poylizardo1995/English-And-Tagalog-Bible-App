@@ -1,0 +1,18 @@
+[
+  {
+    "text": "A Song of the Ascents. <span class=|reftext|><a href=|#|><b>1</b></a> Come, bless YHWH, all servants of YHWH, those standing in the house of YHWH by night!",
+    "reference": "Psalm 134:1 (BLB)",
+    "connected_to": "Psalm 134:2"
+  },
+  {
+    "text": "Lift up your⁺ hands to the holy place, and bless YHWH!",
+    "reference": "Psalm 134:2 (BLB)",
+    "connected_to": "Psalm 134:3",
+    "connected_from": "Psalm 134:1"
+  },
+  {
+    "text": "May YHWH bless you from Zion, Maker of heavens and earth!",
+    "reference": "Psalm 134:3 (BLB)",
+    "connected_from": "Psalm 134:2"
+  }
+]

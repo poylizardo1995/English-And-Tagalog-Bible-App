@@ -1,0 +1,132 @@
+[
+  {
+    "text": "The Baldad the Suhite answered, and said:",
+    "reference": "Job 8:1 (DRB)",
+    "connected_to": "Job 8:2"
+  },
+  {
+    "text": "How long wilt thou speak these things, and how long shall the words of thy mouth be like a strong wind?",
+    "reference": "Job 8:2 (DRB)",
+    "connected_to": "Job 8:3",
+    "connected_from": "Job 8:1"
+  },
+  {
+    "text": "Doth God pervert judgment, or doth the Almighty overthrow that which is just?",
+    "reference": "Job 8:3 (DRB)",
+    "connected_to": "Job 8:4",
+    "connected_from": "Job 8:2"
+  },
+  {
+    "text": "Although thy children have sinned against him, and he hath left them in the hand of their iniquity:",
+    "reference": "Job 8:4 (DRB)",
+    "connected_to": "Job 8:5",
+    "connected_from": "Job 8:3"
+  },
+  {
+    "text": "Yet if thou wilt arise early to God, and wilt beseech the Almighty:",
+    "reference": "Job 8:5 (DRB)",
+    "connected_to": "Job 8:6",
+    "connected_from": "Job 8:4"
+  },
+  {
+    "text": "If thou wilt walk clean and upright, he will presently awake onto thee, and will make the dwelling of thy justice peaceable:",
+    "reference": "Job 8:6 (DRB)",
+    "connected_to": "Job 8:7",
+    "connected_from": "Job 8:5"
+  },
+  {
+    "text": "Insomuch, that if thy former things were small, thy latter things would be multiplied exceedingly.",
+    "reference": "Job 8:7 (DRB)",
+    "connected_to": "Job 8:8",
+    "connected_from": "Job 8:6"
+  },
+  {
+    "text": "For inquire of the former generation, and search diligently into the memory of the fathers:",
+    "reference": "Job 8:8 (DRB)",
+    "connected_to": "Job 8:9",
+    "connected_from": "Job 8:7"
+  },
+  {
+    "text": "(For we are but of yesterday, and are ignorant that our days upon earth are but a shadow:)",
+    "reference": "Job 8:9 (DRB)",
+    "connected_to": "Job 8:10",
+    "connected_from": "Job 8:8"
+  },
+  {
+    "text": "And they shall teach thee: they shall speak to thee, and utter words out of their hearts.",
+    "reference": "Job 8:10 (DRB)",
+    "connected_to": "Job 8:11",
+    "connected_from": "Job 8:9"
+  },
+  {
+    "text": "Can the rush be green without moisture? or a sedge-bush grow without water?",
+    "reference": "Job 8:11 (DRB)",
+    "connected_to": "Job 8:12",
+    "connected_from": "Job 8:10"
+  },
+  {
+    "text": "When it is yet in flower, and is not plucked up with the hand, it withereth before all herbs.",
+    "reference": "Job 8:12 (DRB)",
+    "connected_to": "Job 8:13",
+    "connected_from": "Job 8:11"
+  },
+  {
+    "text": "Even so are the ways of all that forget God, and the hope of the hypocrite shall perish:",
+    "reference": "Job 8:13 (DRB)",
+    "connected_to": "Job 8:14",
+    "connected_from": "Job 8:12"
+  },
+  {
+    "text": "His folly shall not please him, and his trust shall be like the spider’s web.",
+    "reference": "Job 8:14 (DRB)",
+    "connected_to": "Job 8:15",
+    "connected_from": "Job 8:13"
+  },
+  {
+    "text": "He shall lean upon his house, and it shall not stand: he shall prop it up, and it shall not rise:",
+    "reference": "Job 8:15 (DRB)",
+    "connected_to": "Job 8:16",
+    "connected_from": "Job 8:14"
+  },
+  {
+    "text": "He seemeth to have moisture before the sun cometh, and at his rising his blossom shall shoot forth.",
+    "reference": "Job 8:16 (DRB)",
+    "connected_to": "Job 8:17",
+    "connected_from": "Job 8:15"
+  },
+  {
+    "text": "His roots shall be thick upon a heap of stones, and among the stones he shall abide.",
+    "reference": "Job 8:17 (DRB)",
+    "connected_to": "Job 8:18",
+    "connected_from": "Job 8:16"
+  },
+  {
+    "text": "If one swallow him up out of his place, he shall deny him, and shall say: I know thee not.",
+    "reference": "Job 8:18 (DRB)",
+    "connected_to": "Job 8:19",
+    "connected_from": "Job 8:17"
+  },
+  {
+    "text": "For this is the joy of his way, that others may spring again out of the earth.",
+    "reference": "Job 8:19 (DRB)",
+    "connected_to": "Job 8:20",
+    "connected_from": "Job 8:18"
+  },
+  {
+    "text": "God will not cast away the simple, nor reach out his hand to the evildoer:",
+    "reference": "Job 8:20 (DRB)",
+    "connected_to": "Job 8:21",
+    "connected_from": "Job 8:19"
+  },
+  {
+    "text": "Until thy mouth be filled with laughter, and thy lips with rejoicing.",
+    "reference": "Job 8:21 (DRB)",
+    "connected_to": "Job 8:22",
+    "connected_from": "Job 8:20"
+  },
+  {
+    "text": "They that hate thee, shall be clothed with confusion: and the dwelling of the wicked shall not stand.",
+    "reference": "Job 8:22 (DRB)",
+    "connected_from": "Job 8:21"
+  }
+]

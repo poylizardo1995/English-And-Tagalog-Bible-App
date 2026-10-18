@@ -1,0 +1,174 @@
+[
+  {
+    "text": "Then the LORD said to Moses,",
+    "reference": "Numbers 34:1 (BSB)",
+    "connected_to": "Numbers 34:2"
+  },
+  {
+    "text": "“Command the Israelites and say to them: When you enter the land of Canaan, it will be allotted to you as an inheritance with these boundaries:",
+    "reference": "Numbers 34:2 (BSB)",
+    "connected_to": "Numbers 34:3",
+    "connected_from": "Numbers 34:1"
+  },
+  {
+    "text": "Your southern border will extend from the Wilderness of Zin along the border of Edom. On the east, your southern border will run from the end of the Salt Sea,",
+    "reference": "Numbers 34:3 (BSB)",
+    "connected_to": "Numbers 34:4",
+    "connected_from": "Numbers 34:2"
+  },
+  {
+    "text": "cross south of the Ascent of Akrabbim, continue to Zin, and go south of Kadesh-barnea. Then it will go on to Hazar-addar and proceed to Azmon,",
+    "reference": "Numbers 34:4 (BSB)",
+    "connected_to": "Numbers 34:5",
+    "connected_from": "Numbers 34:3"
+  },
+  {
+    "text": "where it will turn from Azmon, join the Brook of Egypt, and end at the Sea.",
+    "reference": "Numbers 34:5 (BSB)",
+    "connected_to": "Numbers 34:6",
+    "connected_from": "Numbers 34:4"
+  },
+  {
+    "text": "Your western border will be the coastline of the Great Sea; this will be your boundary on the west.",
+    "reference": "Numbers 34:6 (BSB)",
+    "connected_to": "Numbers 34:7",
+    "connected_from": "Numbers 34:5"
+  },
+  {
+    "text": "Your northern border will run from the Great Sea directly to Mount Hor,",
+    "reference": "Numbers 34:7 (BSB)",
+    "connected_to": "Numbers 34:8",
+    "connected_from": "Numbers 34:6"
+  },
+  {
+    "text": "and from Mount Hor to Lebo-hamath, then extend to Zedad,",
+    "reference": "Numbers 34:8 (BSB)",
+    "connected_to": "Numbers 34:9",
+    "connected_from": "Numbers 34:7"
+  },
+  {
+    "text": "continue to Ziphron, and end at Hazar-enan. This will be your boundary on the north.",
+    "reference": "Numbers 34:9 (BSB)",
+    "connected_to": "Numbers 34:10",
+    "connected_from": "Numbers 34:8"
+  },
+  {
+    "text": "And your eastern border will run straight from Hazar-enan to Shepham,",
+    "reference": "Numbers 34:10 (BSB)",
+    "connected_to": "Numbers 34:11",
+    "connected_from": "Numbers 34:9"
+  },
+  {
+    "text": "then go down from Shepham to Riblah on the east side of Ain and continue along the slopes east of the Sea of Chinnereth.",
+    "reference": "Numbers 34:11 (BSB)",
+    "connected_to": "Numbers 34:12",
+    "connected_from": "Numbers 34:10"
+  },
+  {
+    "text": "Then the border will go down along the Jordan and end at the Salt Sea. This will be your land, defined by its borders on all sides.”",
+    "reference": "Numbers 34:12 (BSB)",
+    "connected_to": "Numbers 34:13",
+    "connected_from": "Numbers 34:11"
+  },
+  {
+    "text": "So Moses commanded the Israelites, “Apportion this land by lot as an inheritance. The LORD has commanded that it be given to the nine and a half tribes.",
+    "reference": "Numbers 34:13 (BSB)",
+    "connected_to": "Numbers 34:14",
+    "connected_from": "Numbers 34:12"
+  },
+  {
+    "text": "For the tribes of the Reubenites and Gadites, along with the half-tribe of Manasseh, have already received their inheritance.",
+    "reference": "Numbers 34:14 (BSB)",
+    "connected_to": "Numbers 34:15",
+    "connected_from": "Numbers 34:13"
+  },
+  {
+    "text": "These two and a half tribes have received their inheritance across the Jordan from Jericho, toward the sunrise.”",
+    "reference": "Numbers 34:15 (BSB)",
+    "connected_to": "Numbers 34:16",
+    "connected_from": "Numbers 34:14"
+  },
+  {
+    "text": "Then the LORD said to Moses,",
+    "reference": "Numbers 34:16 (BSB)",
+    "connected_to": "Numbers 34:17",
+    "connected_from": "Numbers 34:15"
+  },
+  {
+    "text": "“These are the names of the men who are to assign the land as an inheritance for you: Eleazar the priest and Joshua son of Nun.",
+    "reference": "Numbers 34:17 (BSB)",
+    "connected_to": "Numbers 34:18",
+    "connected_from": "Numbers 34:16"
+  },
+  {
+    "text": "Appoint one leader from each tribe to distribute the land.",
+    "reference": "Numbers 34:18 (BSB)",
+    "connected_to": "Numbers 34:19",
+    "connected_from": "Numbers 34:17"
+  },
+  {
+    "text": "These are their names: Caleb son of Jephunneh from the tribe of Judah;",
+    "reference": "Numbers 34:19 (BSB)",
+    "connected_to": "Numbers 34:20",
+    "connected_from": "Numbers 34:18"
+  },
+  {
+    "text": "Shemuel son of Ammihud from the tribe of Simeon;",
+    "reference": "Numbers 34:20 (BSB)",
+    "connected_to": "Numbers 34:21",
+    "connected_from": "Numbers 34:19"
+  },
+  {
+    "text": "Elidad son of Chislon from the tribe of Benjamin;",
+    "reference": "Numbers 34:21 (BSB)",
+    "connected_to": "Numbers 34:22",
+    "connected_from": "Numbers 34:20"
+  },
+  {
+    "text": "Bukki son of Jogli, a leader from the tribe of Dan;",
+    "reference": "Numbers 34:22 (BSB)",
+    "connected_to": "Numbers 34:23",
+    "connected_from": "Numbers 34:21"
+  },
+  {
+    "text": "Hanniel son of Ephod, a leader from the tribe of Manasseh son of Joseph;",
+    "reference": "Numbers 34:23 (BSB)",
+    "connected_to": "Numbers 34:24",
+    "connected_from": "Numbers 34:22"
+  },
+  {
+    "text": "Kemuel son of Shiphtan, a leader from the tribe of Ephraim;",
+    "reference": "Numbers 34:24 (BSB)",
+    "connected_to": "Numbers 34:25",
+    "connected_from": "Numbers 34:23"
+  },
+  {
+    "text": "Eli-zaphan son of Parnach, a leader from the tribe of Zebulun;",
+    "reference": "Numbers 34:25 (BSB)",
+    "connected_to": "Numbers 34:26",
+    "connected_from": "Numbers 34:24"
+  },
+  {
+    "text": "Paltiel son of Azzan, a leader from the tribe of Issachar;",
+    "reference": "Numbers 34:26 (BSB)",
+    "connected_to": "Numbers 34:27",
+    "connected_from": "Numbers 34:25"
+  },
+  {
+    "text": "Ahihud son of Shelomi, a leader from the tribe of Asher;",
+    "reference": "Numbers 34:27 (BSB)",
+    "connected_to": "Numbers 34:28",
+    "connected_from": "Numbers 34:26"
+  },
+  {
+    "text": "and Pedahel son of Ammihud, a leader from the tribe of Naphtali.”",
+    "reference": "Numbers 34:28 (BSB)",
+    "connected_to": "Numbers 34:29",
+    "connected_from": "Numbers 34:27"
+  },
+  {
+    "text": "These are the ones whom the LORD commanded to apportion the inheritance to the Israelites in the land of Canaan.",
+    "reference": "Numbers 34:29 (BSB)",
+    "connected_from": "Numbers 34:28"
+  }
+]

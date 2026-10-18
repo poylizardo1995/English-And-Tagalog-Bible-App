@@ -1,0 +1,396 @@
+[
+  {
+    "text": "AND when morning was come, all the chief priests and ancients of the people took counsel against Jesus, that they might put him to death.",
+    "reference": "Matthew 27:1 (DRB)",
+    "connected_to": "Matthew 27:2"
+  },
+  {
+    "text": "And they brought him bound, and delivered him to Pontius Pilate the governor.",
+    "reference": "Matthew 27:2 (DRB)",
+    "connected_to": "Matthew 27:3",
+    "connected_from": "Matthew 27:1"
+  },
+  {
+    "text": "Then Judas, who betrayed him, seeing that he was condemned, repenting himself, brought back the thirty pieces of silver to the chief priests and ancients,",
+    "reference": "Matthew 27:3 (DRB)",
+    "connected_to": "Matthew 27:4",
+    "connected_from": "Matthew 27:2"
+  },
+  {
+    "text": "Saying: I have sinned in betraying innocent blood. But they said: What is that to us? look thou to it.",
+    "reference": "Matthew 27:4 (DRB)",
+    "connected_to": "Matthew 27:5",
+    "connected_from": "Matthew 27:3"
+  },
+  {
+    "text": "And casting down the pieces of silver in the temple, he departed: and went and hanged himself with an halter.",
+    "reference": "Matthew 27:5 (DRB)",
+    "connected_to": "Matthew 27:6",
+    "connected_from": "Matthew 27:4"
+  },
+  {
+    "text": "But the chief priests having taken the pieces of silver, said: It is not lawful to put them into the corbona, because it is the price of blood.",
+    "reference": "Matthew 27:6 (DRB)",
+    "connected_to": "Matthew 27:7",
+    "connected_from": "Matthew 27:5"
+  },
+  {
+    "text": "And after they had consulted together, they bought with them the potter’s field, to be a burying place for strangers.",
+    "reference": "Matthew 27:7 (DRB)",
+    "connected_to": "Matthew 27:8",
+    "connected_from": "Matthew 27:6"
+  },
+  {
+    "text": "For this cause the field was called Haceldama, that is, The field of blood, even to this day.",
+    "reference": "Matthew 27:8 (DRB)",
+    "connected_to": "Matthew 27:9",
+    "connected_from": "Matthew 27:7"
+  },
+  {
+    "text": "Then was fulfilled that which was spoken by Jeremias the prophet, saying: And they took the thirty pieces of silver, the price of him that was prized, whom they prized of the children of Israel.",
+    "reference": "Matthew 27:9 (DRB)",
+    "connected_to": "Matthew 27:10",
+    "connected_from": "Matthew 27:8"
+  },
+  {
+    "text": "And they gave them unto the potter’s field, as the Lord appointed to me.",
+    "reference": "Matthew 27:10 (DRB)",
+    "connected_to": "Matthew 27:11",
+    "connected_from": "Matthew 27:9"
+  },
+  {
+    "text": "And Jesus stood before the governor, and the governor asked him, saying: Art thou the king of the Jews? Jesus saith to him: Thou sayest it.",
+    "reference": "Matthew 27:11 (DRB)",
+    "connected_to": "Matthew 27:12",
+    "connected_from": "Matthew 27:10"
+  },
+  {
+    "text": "And when he was accused by the chief priests and ancients, he answered nothing.",
+    "reference": "Matthew 27:12 (DRB)",
+    "connected_to": "Matthew 27:13",
+    "connected_from": "Matthew 27:11"
+  },
+  {
+    "text": "Then Pilate saith to him: Dost not thou hear how great testimonies they allege against thee?",
+    "reference": "Matthew 27:13 (DRB)",
+    "connected_to": "Matthew 27:14",
+    "connected_from": "Matthew 27:12"
+  },
+  {
+    "text": "And he answered him to never a word; so that the governor wondered exceedingly.",
+    "reference": "Matthew 27:14 (DRB)",
+    "connected_to": "Matthew 27:15",
+    "connected_from": "Matthew 27:13"
+  },
+  {
+    "text": "Now upon the solemn day the governor was accustomed to release to the people one prisoner, whom they would.",
+    "reference": "Matthew 27:15 (DRB)",
+    "connected_to": "Matthew 27:16",
+    "connected_from": "Matthew 27:14"
+  },
+  {
+    "text": "And he had then a notorious prisoner, that was called Barabbas.",
+    "reference": "Matthew 27:16 (DRB)",
+    "connected_to": "Matthew 27:17",
+    "connected_from": "Matthew 27:15"
+  },
+  {
+    "text": "They therefore being gathered together, Pilate said: Whom will you that I release to you, Barabbas, or Jesus that is called Christ?",
+    "reference": "Matthew 27:17 (DRB)",
+    "connected_to": "Matthew 27:18",
+    "connected_from": "Matthew 27:16"
+  },
+  {
+    "text": "For he knew that for envy they had delivered him.",
+    "reference": "Matthew 27:18 (DRB)",
+    "connected_to": "Matthew 27:19",
+    "connected_from": "Matthew 27:17"
+  },
+  {
+    "text": "And as he was sitting in the place of judgment, his wife sent to him, saying: Have thou nothing to do with that just man; for I have suffered many things this day in a dream because of him.",
+    "reference": "Matthew 27:19 (DRB)",
+    "connected_to": "Matthew 27:20",
+    "connected_from": "Matthew 27:18"
+  },
+  {
+    "text": "But the chief priests and ancients persuaded the people, that they should ask Barabbas, and make Jesus away.",
+    "reference": "Matthew 27:20 (DRB)",
+    "connected_to": "Matthew 27:21",
+    "connected_from": "Matthew 27:19"
+  },
+  {
+    "text": "And the governor answering, said to them: Whether will you of the two to be released unto you? But they said, Barabbas.",
+    "reference": "Matthew 27:21 (DRB)",
+    "connected_to": "Matthew 27:22",
+    "connected_from": "Matthew 27:20"
+  },
+  {
+    "text": "Pilate saith to them: What shall I do then with Jesus that is called Christ? They say all: Let him be crucified.",
+    "reference": "Matthew 27:22 (DRB)",
+    "connected_to": "Matthew 27:23",
+    "connected_from": "Matthew 27:21"
+  },
+  {
+    "text": "The governor said to them: Why, what evil hath he done? But they cried out the more, saying: Let him be crucified.",
+    "reference": "Matthew 27:23 (DRB)",
+    "connected_to": "Matthew 27:24",
+    "connected_from": "Matthew 27:22"
+  },
+  {
+    "text": "And Pilate seeing that he prevailed nothing, but that rather a tumult was made; taking water washed his hands before the people, saying: I am innocent of the blood of this just man; look you to it.",
+    "reference": "Matthew 27:24 (DRB)",
+    "connected_to": "Matthew 27:25",
+    "connected_from": "Matthew 27:23"
+  },
+  {
+    "text": "And the whole people answering, said: His blood be upon us and our children.",
+    "reference": "Matthew 27:25 (DRB)",
+    "connected_to": "Matthew 27:26",
+    "connected_from": "Matthew 27:24"
+  },
+  {
+    "text": "Then he released to them Barabbas, and having scourged Jesus, delivered him unto them to be crucified.",
+    "reference": "Matthew 27:26 (DRB)",
+    "connected_to": "Matthew 27:27",
+    "connected_from": "Matthew 27:25"
+  },
+  {
+    "text": "Then the soldiers of the governor taking Jesus into the hall, gathered together unto him the whole band;",
+    "reference": "Matthew 27:27 (DRB)",
+    "connected_to": "Matthew 27:28",
+    "connected_from": "Matthew 27:26"
+  },
+  {
+    "text": "And stripping him, they put a scarlet cloak about him.",
+    "reference": "Matthew 27:28 (DRB)",
+    "connected_to": "Matthew 27:29",
+    "connected_from": "Matthew 27:27"
+  },
+  {
+    "text": "And platting a crown of thorns, they put it upon his head, and a reed in his right hand. And bowing the knee before him, they mocked him, saying: Hail, king of the Jews.",
+    "reference": "Matthew 27:29 (DRB)",
+    "connected_to": "Matthew 27:30",
+    "connected_from": "Matthew 27:28"
+  },
+  {
+    "text": "And spitting upon him, they took the reed, and struck his head.",
+    "reference": "Matthew 27:30 (DRB)",
+    "connected_to": "Matthew 27:31",
+    "connected_from": "Matthew 27:29"
+  },
+  {
+    "text": "And after they had mocked him, they took off the cloak from him, and put on him his own garments, and led him away to crucify him.",
+    "reference": "Matthew 27:31 (DRB)",
+    "connected_to": "Matthew 27:32",
+    "connected_from": "Matthew 27:30"
+  },
+  {
+    "text": "And going out, they found a man of Cyrene, named Simon: him they forced to take up his cross.",
+    "reference": "Matthew 27:32 (DRB)",
+    "connected_to": "Matthew 27:33",
+    "connected_from": "Matthew 27:31"
+  },
+  {
+    "text": "And they came to the place that is called Golgotha, which is the place of Calvary.",
+    "reference": "Matthew 27:33 (DRB)",
+    "connected_to": "Matthew 27:34",
+    "connected_from": "Matthew 27:32"
+  },
+  {
+    "text": "And they gave him wine to drink mingled with gall. And when he had tasted, he would not drink.",
+    "reference": "Matthew 27:34 (DRB)",
+    "connected_to": "Matthew 27:35",
+    "connected_from": "Matthew 27:33"
+  },
+  {
+    "text": "And after they had crucified him, they divided his garments, casting lots; that it might be fulfilled which was spoken by the prophet, saying: They divided my garments among them; and upon my vesture they cast lots.",
+    "reference": "Matthew 27:35 (DRB)",
+    "connected_to": "Matthew 27:36",
+    "connected_from": "Matthew 27:34"
+  },
+  {
+    "text": "And they sat and watched him.",
+    "reference": "Matthew 27:36 (DRB)",
+    "connected_to": "Matthew 27:37",
+    "connected_from": "Matthew 27:35"
+  },
+  {
+    "text": "And they put over his head his cause written: THIS IS JESUS THE KING OF THE JEWS.",
+    "reference": "Matthew 27:37 (DRB)",
+    "connected_to": "Matthew 27:38",
+    "connected_from": "Matthew 27:36"
+  },
+  {
+    "text": "Then were crucified with him two thieves: one on the right hand, and one on the left.",
+    "reference": "Matthew 27:38 (DRB)",
+    "connected_to": "Matthew 27:39",
+    "connected_from": "Matthew 27:37"
+  },
+  {
+    "text": "And they that passed by, blasphemed him, wagging their heads,",
+    "reference": "Matthew 27:39 (DRB)",
+    "connected_to": "Matthew 27:40",
+    "connected_from": "Matthew 27:38"
+  },
+  {
+    "text": "And saying: Vah, thou that destroyest the temple of God, and in three days dost rebuild it: save thy own self: if thou be the Son of God, come down from the cross.",
+    "reference": "Matthew 27:40 (DRB)",
+    "connected_to": "Matthew 27:41",
+    "connected_from": "Matthew 27:39"
+  },
+  {
+    "text": "In like manner also the chief priests, with the scribes and ancients, mocking, said:",
+    "reference": "Matthew 27:41 (DRB)",
+    "connected_to": "Matthew 27:42",
+    "connected_from": "Matthew 27:40"
+  },
+  {
+    "text": "He saved others; himself he cannot save. If he be the king of Israel, let him now come down from the cross, and we will believe him.",
+    "reference": "Matthew 27:42 (DRB)",
+    "connected_to": "Matthew 27:43",
+    "connected_from": "Matthew 27:41"
+  },
+  {
+    "text": "He trusted in God; let him now deliver him if he will have him; for he said: I am the Son of God.",
+    "reference": "Matthew 27:43 (DRB)",
+    "connected_to": "Matthew 27:44",
+    "connected_from": "Matthew 27:42"
+  },
+  {
+    "text": "And the selfsame thing the thieves also, that were crucified with him, reproached him with.",
+    "reference": "Matthew 27:44 (DRB)",
+    "connected_to": "Matthew 27:45",
+    "connected_from": "Matthew 27:43"
+  },
+  {
+    "text": "Now from the sixth hour there was darkness over the whole earth, until the ninth hour.",
+    "reference": "Matthew 27:45 (DRB)",
+    "connected_to": "Matthew 27:46",
+    "connected_from": "Matthew 27:44"
+  },
+  {
+    "text": "And about the ninth hour Jesus cried with a loud voice, saying: Eli, Eli, lamma sabacthani? that is, My God, my God, why hast thou forsaken me?",
+    "reference": "Matthew 27:46 (DRB)",
+    "connected_to": "Matthew 27:47",
+    "connected_from": "Matthew 27:45"
+  },
+  {
+    "text": "And some that stood there and heard, said: This man calleth Elias.",
+    "reference": "Matthew 27:47 (DRB)",
+    "connected_to": "Matthew 27:48",
+    "connected_from": "Matthew 27:46"
+  },
+  {
+    "text": "And immediately one of them running took a sponge, and filled it with vinegar; and put it on a reed, and gave him to drink.",
+    "reference": "Matthew 27:48 (DRB)",
+    "connected_to": "Matthew 27:49",
+    "connected_from": "Matthew 27:47"
+  },
+  {
+    "text": "And the others said: Let be, let us see whether Elias will come to deliver him.",
+    "reference": "Matthew 27:49 (DRB)",
+    "connected_to": "Matthew 27:50",
+    "connected_from": "Matthew 27:48"
+  },
+  {
+    "text": "And Jesus again crying with a loud voice, yielded up the ghost.",
+    "reference": "Matthew 27:50 (DRB)",
+    "connected_to": "Matthew 27:51",
+    "connected_from": "Matthew 27:49"
+  },
+  {
+    "text": "And behold the veil of the temple was rent in two from the top even to the bottom, and the earth quaked, and the rocks were rent.",
+    "reference": "Matthew 27:51 (DRB)",
+    "connected_to": "Matthew 27:52",
+    "connected_from": "Matthew 27:50"
+  },
+  {
+    "text": "And the graves were opened: and many bodies of the saints that had slept arose,",
+    "reference": "Matthew 27:52 (DRB)",
+    "connected_to": "Matthew 27:53",
+    "connected_from": "Matthew 27:51"
+  },
+  {
+    "text": "And coming out of the tombs after his resurrection, came into the holy city, and appeared to many.",
+    "reference": "Matthew 27:53 (DRB)",
+    "connected_to": "Matthew 27:54",
+    "connected_from": "Matthew 27:52"
+  },
+  {
+    "text": "Now the centurion and they that were with him watching Jesus, having seen the earthquake, and the things that were done, were sore afraid, saying: Indeed this was the Son of God.",
+    "reference": "Matthew 27:54 (DRB)",
+    "connected_to": "Matthew 27:55",
+    "connected_from": "Matthew 27:53"
+  },
+  {
+    "text": "And there were there many women afar off, who had followed Jesus from Galilee, ministering unto him:",
+    "reference": "Matthew 27:55 (DRB)",
+    "connected_to": "Matthew 27:56",
+    "connected_from": "Matthew 27:54"
+  },
+  {
+    "text": "Among whom was Mary Magdalen, and Mary the mother of James and Joseph, and the mother of the sons of Zebedee.",
+    "reference": "Matthew 27:56 (DRB)",
+    "connected_to": "Matthew 27:57",
+    "connected_from": "Matthew 27:55"
+  },
+  {
+    "text": "And when it was evening, there came a certain rich man of Arimathea, named Joseph, who also himself was a disciple of Jesus.",
+    "reference": "Matthew 27:57 (DRB)",
+    "connected_to": "Matthew 27:58",
+    "connected_from": "Matthew 27:56"
+  },
+  {
+    "text": "He went to Pilate, and asked the body of Jesus. Then Pilate commanded that the body should be delivered.",
+    "reference": "Matthew 27:58 (DRB)",
+    "connected_to": "Matthew 27:59",
+    "connected_from": "Matthew 27:57"
+  },
+  {
+    "text": "And Joseph taking the body, wrapped it up in a clean linen cloth.",
+    "reference": "Matthew 27:59 (DRB)",
+    "connected_to": "Matthew 27:60",
+    "connected_from": "Matthew 27:58"
+  },
+  {
+    "text": "And laid it in his own new monument, which he had hewed out in a rock. And he rolled a great stone to the door of the monument, and went his way.",
+    "reference": "Matthew 27:60 (DRB)",
+    "connected_to": "Matthew 27:61",
+    "connected_from": "Matthew 27:59"
+  },
+  {
+    "text": "And there was there Mary Magdalen, and the other Mary sitting over against the sepulchre.",
+    "reference": "Matthew 27:61 (DRB)",
+    "connected_to": "Matthew 27:62",
+    "connected_from": "Matthew 27:60"
+  },
+  {
+    "text": "And the next day, which followed the day of preparation, the chief priests and the Pharisees came together to Pilate,",
+    "reference": "Matthew 27:62 (DRB)",
+    "connected_to": "Matthew 27:63",
+    "connected_from": "Matthew 27:61"
+  },
+  {
+    "text": "Saying: Sir, we have remembered, that that seducer said, while he was yet alive: After three days I will rise again.",
+    "reference": "Matthew 27:63 (DRB)",
+    "connected_to": "Matthew 27:64",
+    "connected_from": "Matthew 27:62"
+  },
+  {
+    "text": "Command therefore the sepulchre to be guarded until the third day: lest perhaps his disciples come and steal him away, and say to the people: He is risen from the dead; and the last error shall be worse than the first.",
+    "reference": "Matthew 27:64 (DRB)",
+    "connected_to": "Matthew 27:65",
+    "connected_from": "Matthew 27:63"
+  },
+  {
+    "text": "Pilate saith to them: You have a guard; go, guard it as you know.",
+    "reference": "Matthew 27:65 (DRB)",
+    "connected_to": "Matthew 27:66",
+    "connected_from": "Matthew 27:64"
+  },
+  {
+    "text": "And they departing, made the sepulchre sure, sealing the stone, and setting guards.",
+    "reference": "Matthew 27:66 (DRB)",
+    "connected_from": "Matthew 27:65"
+  }
+]

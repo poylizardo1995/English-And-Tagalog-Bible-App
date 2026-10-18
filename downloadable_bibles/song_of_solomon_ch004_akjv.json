@@ -1,0 +1,96 @@
+[
+  {
+    "text": "Behold, you are fair, my love; behold, you are fair; you have doves’ eyes within your locks: your hair is as a flock of goats, that appear from mount Gilead.",
+    "reference": "Song of Solomon 4:1 (AKJV)",
+    "connected_to": "Song of Solomon 4:2"
+  },
+  {
+    "text": "Your teeth are like a flock of sheep that are even shorn, which came up from the washing; whereof every one bear twins, and none is barren among them.",
+    "reference": "Song of Solomon 4:2 (AKJV)",
+    "connected_to": "Song of Solomon 4:3",
+    "connected_from": "Song of Solomon 4:1"
+  },
+  {
+    "text": "Your lips are like a thread of scarlet, and your speech is comely: your temples are like a piece of a pomegranate within your locks.",
+    "reference": "Song of Solomon 4:3 (AKJV)",
+    "connected_to": "Song of Solomon 4:4",
+    "connected_from": "Song of Solomon 4:2"
+  },
+  {
+    "text": "Your neck is like the tower of David built for an armory, where on there hang a thousand bucklers, all shields of mighty men.",
+    "reference": "Song of Solomon 4:4 (AKJV)",
+    "connected_to": "Song of Solomon 4:5",
+    "connected_from": "Song of Solomon 4:3"
+  },
+  {
+    "text": "Your two breasts are like two young roes that are twins, which feed among the lilies.",
+    "reference": "Song of Solomon 4:5 (AKJV)",
+    "connected_to": "Song of Solomon 4:6",
+    "connected_from": "Song of Solomon 4:4"
+  },
+  {
+    "text": "Until the day break, and the shadows flee away, I will get me to the mountain of myrrh, and to the hill of frankincense.",
+    "reference": "Song of Solomon 4:6 (AKJV)",
+    "connected_to": "Song of Solomon 4:7",
+    "connected_from": "Song of Solomon 4:5"
+  },
+  {
+    "text": "You are all fair, my love; there is no spot in you.",
+    "reference": "Song of Solomon 4:7 (AKJV)",
+    "connected_to": "Song of Solomon 4:8",
+    "connected_from": "Song of Solomon 4:6"
+  },
+  {
+    "text": "Come with me from Lebanon, my spouse, with me from Lebanon: look from the top of Amana, from the top of Shenir and Hermon, from the lions’ dens, from the mountains of the leopards.",
+    "reference": "Song of Solomon 4:8 (AKJV)",
+    "connected_to": "Song of Solomon 4:9",
+    "connected_from": "Song of Solomon 4:7"
+  },
+  {
+    "text": "You have ravished my heart, my sister, my spouse; you have ravished my heart with one of your eyes, with one chain of your neck.",
+    "reference": "Song of Solomon 4:9 (AKJV)",
+    "connected_to": "Song of Solomon 4:10",
+    "connected_from": "Song of Solomon 4:8"
+  },
+  {
+    "text": "How fair is your love, my sister, my spouse! how much better is your love than wine! and the smell of your ointments than all spices!",
+    "reference": "Song of Solomon 4:10 (AKJV)",
+    "connected_to": "Song of Solomon 4:11",
+    "connected_from": "Song of Solomon 4:9"
+  },
+  {
+    "text": "Your lips, O my spouse, drop as the honeycomb: honey and milk are under your tongue; and the smell of your garments is like the smell of Lebanon.",
+    "reference": "Song of Solomon 4:11 (AKJV)",
+    "connected_to": "Song of Solomon 4:12",
+    "connected_from": "Song of Solomon 4:10"
+  },
+  {
+    "text": "A garden enclosed is my sister, my spouse; a spring shut up, a fountain sealed.",
+    "reference": "Song of Solomon 4:12 (AKJV)",
+    "connected_to": "Song of Solomon 4:13",
+    "connected_from": "Song of Solomon 4:11"
+  },
+  {
+    "text": "Your plants are an orchard of pomegranates, with pleasant fruits; camphire, with spikenard,",
+    "reference": "Song of Solomon 4:13 (AKJV)",
+    "connected_to": "Song of Solomon 4:14",
+    "connected_from": "Song of Solomon 4:12"
+  },
+  {
+    "text": "Spikenard and saffron; calamus and cinnamon, with all trees of frankincense; myrrh and aloes, with all the chief spices:",
+    "reference": "Song of Solomon 4:14 (AKJV)",
+    "connected_to": "Song of Solomon 4:15",
+    "connected_from": "Song of Solomon 4:13"
+  },
+  {
+    "text": "A fountain of gardens, a well of living waters, and streams from Lebanon.",
+    "reference": "Song of Solomon 4:15 (AKJV)",
+    "connected_to": "Song of Solomon 4:16",
+    "connected_from": "Song of Solomon 4:14"
+  },
+  {
+    "text": "Awake, O north wind; and come, you south; blow on my garden, that the spices thereof may flow out. Let my beloved come into his garden, and eat his pleasant fruits.",
+    "reference": "Song of Solomon 4:16 (AKJV)",
+    "connected_from": "Song of Solomon 4:15"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "text": "{A Song of degrees. Of David.} I rejoiced when they said unto me, Let us go into the house of Jehovah.",
+    "reference": "Psalm 122:1 (DBT)",
+    "connected_to": "Psalm 122:2"
+  },
+  {
+    "text": "Our feet shall stand within thy gates, O Jerusalem.",
+    "reference": "Psalm 122:2 (DBT)",
+    "connected_to": "Psalm 122:3",
+    "connected_from": "Psalm 122:1"
+  },
+  {
+    "text": "Jerusalem, which art built as a city that is compact together,",
+    "reference": "Psalm 122:3 (DBT)",
+    "connected_to": "Psalm 122:4",
+    "connected_from": "Psalm 122:2"
+  },
+  {
+    "text": "Whither the tribes go up, the tribes of Jah, a testimony to Israel, to give thanks unto the name of Jehovah.",
+    "reference": "Psalm 122:4 (DBT)",
+    "connected_to": "Psalm 122:5",
+    "connected_from": "Psalm 122:3"
+  },
+  {
+    "text": "For there are set thrones for judgment, the thrones of the house of David.",
+    "reference": "Psalm 122:5 (DBT)",
+    "connected_to": "Psalm 122:6",
+    "connected_from": "Psalm 122:4"
+  },
+  {
+    "text": "Pray for the peace of Jerusalem: they shall prosper that love thee.",
+    "reference": "Psalm 122:6 (DBT)",
+    "connected_to": "Psalm 122:7",
+    "connected_from": "Psalm 122:5"
+  },
+  {
+    "text": "Peace be within thy bulwarks, prosperity within thy palaces.",
+    "reference": "Psalm 122:7 (DBT)",
+    "connected_to": "Psalm 122:8",
+    "connected_from": "Psalm 122:6"
+  },
+  {
+    "text": "For my brethren and companions’ sakes I will say, Peace be within thee!",
+    "reference": "Psalm 122:8 (DBT)",
+    "connected_to": "Psalm 122:9",
+    "connected_from": "Psalm 122:7"
+  },
+  {
+    "text": "Because of the house of Jehovah our God I will seek thy good.",
+    "reference": "Psalm 122:9 (DBT)",
+    "connected_from": "Psalm 122:8"
+  }
+]

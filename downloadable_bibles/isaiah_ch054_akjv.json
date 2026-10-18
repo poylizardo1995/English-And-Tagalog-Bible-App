@@ -1,0 +1,102 @@
+[
+  {
+    "text": "Sing, O barren, you that did not bear; break forth into singing, and cry aloud, you that did not travail with child: for more are the children of the desolate than the children of the married wife, said the LORD.",
+    "reference": "Isaiah 54:1 (AKJV)",
+    "connected_to": "Isaiah 54:2"
+  },
+  {
+    "text": "Enlarge the place of your tent, and let them stretch forth the curtains of your habitations: spare not, lengthen your cords, and strengthen your stakes;",
+    "reference": "Isaiah 54:2 (AKJV)",
+    "connected_to": "Isaiah 54:3",
+    "connected_from": "Isaiah 54:1"
+  },
+  {
+    "text": "For you shall break forth on the right hand and on the left; and your seed shall inherit the Gentiles, and make the desolate cities to be inhabited.",
+    "reference": "Isaiah 54:3 (AKJV)",
+    "connected_to": "Isaiah 54:4",
+    "connected_from": "Isaiah 54:2"
+  },
+  {
+    "text": "Fear not; for you shall not be ashamed: neither be you confounded; for you shall not be put to shame: for you shall forget the shame of your youth, and shall not remember the reproach of your widowhood any more.",
+    "reference": "Isaiah 54:4 (AKJV)",
+    "connected_to": "Isaiah 54:5",
+    "connected_from": "Isaiah 54:3"
+  },
+  {
+    "text": "For your Maker is your husband; the LORD of hosts is his name; and your Redeemer the Holy One of Israel; The God of the whole earth shall he be called.",
+    "reference": "Isaiah 54:5 (AKJV)",
+    "connected_to": "Isaiah 54:6",
+    "connected_from": "Isaiah 54:4"
+  },
+  {
+    "text": "For the LORD has called you as a woman forsaken and grieved in spirit, and a wife of youth, when you were refused, said your God.",
+    "reference": "Isaiah 54:6 (AKJV)",
+    "connected_to": "Isaiah 54:7",
+    "connected_from": "Isaiah 54:5"
+  },
+  {
+    "text": "For a small moment have I forsaken you; but with great mercies will I gather you.",
+    "reference": "Isaiah 54:7 (AKJV)",
+    "connected_to": "Isaiah 54:8",
+    "connected_from": "Isaiah 54:6"
+  },
+  {
+    "text": "In a little wrath I hid my face from you for a moment; but with everlasting kindness will I have mercy on you, said the LORD your Redeemer.",
+    "reference": "Isaiah 54:8 (AKJV)",
+    "connected_to": "Isaiah 54:9",
+    "connected_from": "Isaiah 54:7"
+  },
+  {
+    "text": "For this is as the waters of Noah to me: for as I have sworn that the waters of Noah should no more go over the earth; so have I sworn that I would not be wroth with you, nor rebuke you.",
+    "reference": "Isaiah 54:9 (AKJV)",
+    "connected_to": "Isaiah 54:10",
+    "connected_from": "Isaiah 54:8"
+  },
+  {
+    "text": "For the mountains shall depart, and the hills be removed; but my kindness shall not depart from you, neither shall the covenant of my peace be removed, said the LORD that has mercy on you.",
+    "reference": "Isaiah 54:10 (AKJV)",
+    "connected_to": "Isaiah 54:11",
+    "connected_from": "Isaiah 54:9"
+  },
+  {
+    "text": "O you afflicted, tossed with tempest, and not comforted, behold, I will lay your stones with fair colors, and lay your foundations with sapphires.",
+    "reference": "Isaiah 54:11 (AKJV)",
+    "connected_to": "Isaiah 54:12",
+    "connected_from": "Isaiah 54:10"
+  },
+  {
+    "text": "And I will make your windows of agates, and your gates of carbuncles, and all your borders of pleasant stones.",
+    "reference": "Isaiah 54:12 (AKJV)",
+    "connected_to": "Isaiah 54:13",
+    "connected_from": "Isaiah 54:11"
+  },
+  {
+    "text": "And all your children shall be taught of the LORD; and great shall be the peace of your children.",
+    "reference": "Isaiah 54:13 (AKJV)",
+    "connected_to": "Isaiah 54:14",
+    "connected_from": "Isaiah 54:12"
+  },
+  {
+    "text": "In righteousness shall you be established: you shall be far from oppression; for you shall not fear: and from terror; for it shall not come near you.",
+    "reference": "Isaiah 54:14 (AKJV)",
+    "connected_to": "Isaiah 54:15",
+    "connected_from": "Isaiah 54:13"
+  },
+  {
+    "text": "Behold, they shall surely gather together, but not by me: whoever shall gather together against you shall fall for your sake.",
+    "reference": "Isaiah 54:15 (AKJV)",
+    "connected_to": "Isaiah 54:16",
+    "connected_from": "Isaiah 54:14"
+  },
+  {
+    "text": "Behold, I have created the smith that blows the coals in the fire, and that brings forth an instrument for his work; and I have created the waster to destroy.",
+    "reference": "Isaiah 54:16 (AKJV)",
+    "connected_to": "Isaiah 54:17",
+    "connected_from": "Isaiah 54:15"
+  },
+  {
+    "text": "No weapon that is formed against you shall prosper; and every tongue that shall rise against you in judgment you shall condemn. This is the heritage of the servants of the LORD, and their righteousness is of me, said the LORD.",
+    "reference": "Isaiah 54:17 (AKJV)",
+    "connected_from": "Isaiah 54:16"
+  }
+]

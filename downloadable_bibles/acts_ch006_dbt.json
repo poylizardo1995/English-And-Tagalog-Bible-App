@@ -1,0 +1,90 @@
+[
+  {
+    "text": "But in those days, the disciples multiplying in number, there arose a murmuring of the Hellenists against the Hebrews because their widows were overlooked in the daily ministration.",
+    "reference": "Acts 6:1 (DBT)",
+    "connected_to": "Acts 6:2"
+  },
+  {
+    "text": "And the twelve, having called the multitude of the disciples to [them], said, It is not right that we, leaving the word of God, should serve tables.",
+    "reference": "Acts 6:2 (DBT)",
+    "connected_to": "Acts 6:3",
+    "connected_from": "Acts 6:1"
+  },
+  {
+    "text": "Look out therefore, brethren, from among yourselves seven men, well reported of, full of [the] [Holy] Spirit and wisdom, whom we will establish over this business:",
+    "reference": "Acts 6:3 (DBT)",
+    "connected_to": "Acts 6:4",
+    "connected_from": "Acts 6:2"
+  },
+  {
+    "text": "but we will give ourselves up to prayer and the ministry of the word.",
+    "reference": "Acts 6:4 (DBT)",
+    "connected_to": "Acts 6:5",
+    "connected_from": "Acts 6:3"
+  },
+  {
+    "text": "And the saying pleased the whole multitude: and they chose Stephen, a man full of faith and [the] Holy Spirit, and Philip, and Prochorus, and Nicanor, and Timon, and Parmenas, and Nicolas, a proselyte of Antioch,",
+    "reference": "Acts 6:5 (DBT)",
+    "connected_to": "Acts 6:6",
+    "connected_from": "Acts 6:4"
+  },
+  {
+    "text": "whom they set before the apostles; and, having prayed, they laid their hands on them.",
+    "reference": "Acts 6:6 (DBT)",
+    "connected_to": "Acts 6:7",
+    "connected_from": "Acts 6:5"
+  },
+  {
+    "text": "And the word of God increased; and the number of the disciples in Jerusalem was very greatly multiplied, and a great crowd of the priests obeyed the faith.",
+    "reference": "Acts 6:7 (DBT)",
+    "connected_to": "Acts 6:8",
+    "connected_from": "Acts 6:6"
+  },
+  {
+    "text": "And Stephen, full of grace and power, wrought wonders and great signs among the people.",
+    "reference": "Acts 6:8 (DBT)",
+    "connected_to": "Acts 6:9",
+    "connected_from": "Acts 6:7"
+  },
+  {
+    "text": "And there arose up certain of those of the synagogue called of freedmen, and of Cyrenians, and of Alexandrians, and of those of Cilicia and Asia, disputing with Stephen.",
+    "reference": "Acts 6:9 (DBT)",
+    "connected_to": "Acts 6:10",
+    "connected_from": "Acts 6:8"
+  },
+  {
+    "text": "And they were not able to resist the wisdom and the Spirit with which he spoke.",
+    "reference": "Acts 6:10 (DBT)",
+    "connected_to": "Acts 6:11",
+    "connected_from": "Acts 6:9"
+  },
+  {
+    "text": "Then they suborned men, saying, We have heard him speaking blasphemous words against Moses and God.",
+    "reference": "Acts 6:11 (DBT)",
+    "connected_to": "Acts 6:12",
+    "connected_from": "Acts 6:10"
+  },
+  {
+    "text": "And they roused the people, and the elders, and the scribes. And coming upon [him] they seized him and brought [him] to the council.",
+    "reference": "Acts 6:12 (DBT)",
+    "connected_to": "Acts 6:13",
+    "connected_from": "Acts 6:11"
+  },
+  {
+    "text": "And they set false witnesses, saying, This man does not cease speaking words against the holy place and the law;",
+    "reference": "Acts 6:13 (DBT)",
+    "connected_to": "Acts 6:14",
+    "connected_from": "Acts 6:12"
+  },
+  {
+    "text": "for we have heard him saying, This Jesus the Nazaraean shall destroy this place, and change the customs which Moses taught us.",
+    "reference": "Acts 6:14 (DBT)",
+    "connected_to": "Acts 6:15",
+    "connected_from": "Acts 6:13"
+  },
+  {
+    "text": "And all who sat in the council, looking fixedly on him, saw his face as [the] face of an angel.",
+    "reference": "Acts 6:15 (DBT)",
+    "connected_from": "Acts 6:14"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "text": "I love Jehovah, for he hath heard my voice [and] my supplications;",
+    "reference": "Psalm 116:1 (DBT)",
+    "connected_to": "Psalm 116:2"
+  },
+  {
+    "text": "For he hath inclined his ear unto me, and I will call upon him during [all] my days.",
+    "reference": "Psalm 116:2 (DBT)",
+    "connected_to": "Psalm 116:3",
+    "connected_from": "Psalm 116:1"
+  },
+  {
+    "text": "The bands of death encompassed me, and the anguish of Sheol took hold of me; I found trouble and sorrow:",
+    "reference": "Psalm 116:3 (DBT)",
+    "connected_to": "Psalm 116:4",
+    "connected_from": "Psalm 116:2"
+  },
+  {
+    "text": "Then called I upon the name of Jehovah: I beseech thee, Jehovah, deliver my soul.",
+    "reference": "Psalm 116:4 (DBT)",
+    "connected_to": "Psalm 116:5",
+    "connected_from": "Psalm 116:3"
+  },
+  {
+    "text": "Gracious is Jehovah and righteous; and our God is merciful.",
+    "reference": "Psalm 116:5 (DBT)",
+    "connected_to": "Psalm 116:6",
+    "connected_from": "Psalm 116:4"
+  },
+  {
+    "text": "Jehovah keepeth the simple: I was brought low, and he saved me.",
+    "reference": "Psalm 116:6 (DBT)",
+    "connected_to": "Psalm 116:7",
+    "connected_from": "Psalm 116:5"
+  },
+  {
+    "text": "Return unto thy rest, O my soul; for Jehovah hath dealt bountifully with thee.",
+    "reference": "Psalm 116:7 (DBT)",
+    "connected_to": "Psalm 116:8",
+    "connected_from": "Psalm 116:6"
+  },
+  {
+    "text": "For thou hast delivered my soul from death, mine eyes from tears, my feet from falling.",
+    "reference": "Psalm 116:8 (DBT)",
+    "connected_to": "Psalm 116:9",
+    "connected_from": "Psalm 116:7"
+  },
+  {
+    "text": "I will walk before Jehovah in the land of the living.",
+    "reference": "Psalm 116:9 (DBT)",
+    "connected_to": "Psalm 116:10",
+    "connected_from": "Psalm 116:8"
+  },
+  {
+    "text": "I believed, therefore have I spoken. As for me, I was greatly afflicted.",
+    "reference": "Psalm 116:10 (DBT)",
+    "connected_to": "Psalm 116:11",
+    "connected_from": "Psalm 116:9"
+  },
+  {
+    "text": "I said in my haste, All men are liars.",
+    "reference": "Psalm 116:11 (DBT)",
+    "connected_to": "Psalm 116:12",
+    "connected_from": "Psalm 116:10"
+  },
+  {
+    "text": "What shall I render unto Jehovah, [for] all his benefits toward me?",
+    "reference": "Psalm 116:12 (DBT)",
+    "connected_to": "Psalm 116:13",
+    "connected_from": "Psalm 116:11"
+  },
+  {
+    "text": "I will take the cup of salvation, and call upon the name of Jehovah.",
+    "reference": "Psalm 116:13 (DBT)",
+    "connected_to": "Psalm 116:14",
+    "connected_from": "Psalm 116:12"
+  },
+  {
+    "text": "I will perform my vows unto Jehovah, yea, before all his people.",
+    "reference": "Psalm 116:14 (DBT)",
+    "connected_to": "Psalm 116:15",
+    "connected_from": "Psalm 116:13"
+  },
+  {
+    "text": "Precious in the sight of Jehovah is the death of his saints.",
+    "reference": "Psalm 116:15 (DBT)",
+    "connected_to": "Psalm 116:16",
+    "connected_from": "Psalm 116:14"
+  },
+  {
+    "text": "Yea, Jehovah! for I am thy servant; I am thy servant, the son of thy handmaid: thou hast loosed my bonds.",
+    "reference": "Psalm 116:16 (DBT)",
+    "connected_to": "Psalm 116:17",
+    "connected_from": "Psalm 116:15"
+  },
+  {
+    "text": "I will offer to thee the sacrifice of thanksgiving, and will call upon the name of Jehovah.",
+    "reference": "Psalm 116:17 (DBT)",
+    "connected_to": "Psalm 116:18",
+    "connected_from": "Psalm 116:16"
+  },
+  {
+    "text": "I will perform my vows unto Jehovah, yea, before all his people,",
+    "reference": "Psalm 116:18 (DBT)",
+    "connected_to": "Psalm 116:19",
+    "connected_from": "Psalm 116:17"
+  },
+  {
+    "text": "In the courts of Jehovah’s house, in the midst of thee, O Jerusalem. Hallelujah!",
+    "reference": "Psalm 116:19 (DBT)",
+    "connected_from": "Psalm 116:18"
+  }
+]

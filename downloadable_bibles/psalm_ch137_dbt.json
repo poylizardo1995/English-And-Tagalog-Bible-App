@@ -1,0 +1,54 @@
+[
+  {
+    "text": "By the rivers of Babylon, there we sat down; yea, we wept when we remembered Zion.",
+    "reference": "Psalm 137:1 (DBT)",
+    "connected_to": "Psalm 137:2"
+  },
+  {
+    "text": "We hanged our harps upon the willows in the midst thereof.",
+    "reference": "Psalm 137:2 (DBT)",
+    "connected_to": "Psalm 137:3",
+    "connected_from": "Psalm 137:1"
+  },
+  {
+    "text": "For there they that carried us away captive required of us a song; and they that made us wail [required] mirth, [saying,] Sing us [one] of the songs of Zion.",
+    "reference": "Psalm 137:3 (DBT)",
+    "connected_to": "Psalm 137:4",
+    "connected_from": "Psalm 137:2"
+  },
+  {
+    "text": "How should we sing a song of Jehovah’s upon a foreign soil?",
+    "reference": "Psalm 137:4 (DBT)",
+    "connected_to": "Psalm 137:5",
+    "connected_from": "Psalm 137:3"
+  },
+  {
+    "text": "If I forget thee, Jerusalem, let my right hand forget [its skill];",
+    "reference": "Psalm 137:5 (DBT)",
+    "connected_to": "Psalm 137:6",
+    "connected_from": "Psalm 137:4"
+  },
+  {
+    "text": "If I do not remember thee, let my tongue cleave to my palate: if I prefer not Jerusalem above my chief joy.",
+    "reference": "Psalm 137:6 (DBT)",
+    "connected_to": "Psalm 137:7",
+    "connected_from": "Psalm 137:5"
+  },
+  {
+    "text": "Remember, O Jehovah, against the sons of Edom, the day of Jerusalem; who said, Lay [it] bare, Lay [it] bare, down to its foundation!",
+    "reference": "Psalm 137:7 (DBT)",
+    "connected_to": "Psalm 137:8",
+    "connected_from": "Psalm 137:6"
+  },
+  {
+    "text": "Daughter of Babylon, who art to be laid waste, happy he that rendereth unto thee that which thou hast meted out to us.",
+    "reference": "Psalm 137:8 (DBT)",
+    "connected_to": "Psalm 137:9",
+    "connected_from": "Psalm 137:7"
+  },
+  {
+    "text": "Happy he that taketh and dasheth thy little ones against the rock.",
+    "reference": "Psalm 137:9 (DBT)",
+    "connected_from": "Psalm 137:8"
+  }
+]

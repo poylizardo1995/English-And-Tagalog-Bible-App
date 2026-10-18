@@ -1,0 +1,222 @@
+[
+  {
+    "text": "And Elihu answered and said,",
+    "reference": "Job 34:1 (BLB)",
+    "connected_to": "Job 34:2"
+  },
+  {
+    "text": "“Hear, O wise men, my words, and give ear to me, knowing ones.",
+    "reference": "Job 34:2 (BLB)",
+    "connected_to": "Job 34:3",
+    "connected_from": "Job 34:1"
+  },
+  {
+    "text": "For the ear shall test words, and the palate tastes to eat.",
+    "reference": "Job 34:3 (BLB)",
+    "connected_to": "Job 34:4",
+    "connected_from": "Job 34:2"
+  },
+  {
+    "text": "Let us choose for ourselves what is just; let us know among ourselves what [is] good.",
+    "reference": "Job 34:4 (BLB)",
+    "connected_to": "Job 34:5",
+    "connected_from": "Job 34:3"
+  },
+  {
+    "text": "For Job has said, ‘I am righteous, and God has turned aside my justice.",
+    "reference": "Job 34:5 (BLB)",
+    "connected_to": "Job 34:6",
+    "connected_from": "Job 34:4"
+  },
+  {
+    "text": "[And] over my justice should I lie? Mortal [is] my arrow, without transgression.’",
+    "reference": "Job 34:6 (BLB)",
+    "connected_to": "Job 34:7",
+    "connected_from": "Job 34:5"
+  },
+  {
+    "text": "Who [is] a man like Job, drinking up derision like the water,",
+    "reference": "Job 34:7 (BLB)",
+    "connected_to": "Job 34:8",
+    "connected_from": "Job 34:6"
+  },
+  {
+    "text": "and he travels in company with workers of iniquity, and in walking with men of wickedness?",
+    "reference": "Job 34:8 (BLB)",
+    "connected_to": "Job 34:9",
+    "connected_from": "Job 34:7"
+  },
+  {
+    "text": "For he has said, ‘Nothing does it profit a man that he should delight in God.’",
+    "reference": "Job 34:9 (BLB)",
+    "connected_to": "Job 34:10",
+    "connected_from": "Job 34:8"
+  },
+  {
+    "text": "Therefore, O men of heart, listen to me. Far be it to God from wickedness, and Shaddai from injustice.",
+    "reference": "Job 34:10 (BLB)",
+    "connected_to": "Job 34:11",
+    "connected_from": "Job 34:9"
+  },
+  {
+    "text": "For the work of man, he repays to him; and according to the way of a man, He causes him to find [it].",
+    "reference": "Job 34:11 (BLB)",
+    "connected_to": "Job 34:12",
+    "connected_from": "Job 34:10"
+  },
+  {
+    "text": "Yes, surely God does not act wickedly, and Shaddai does not pervert justice.",
+    "reference": "Job 34:12 (BLB)",
+    "connected_to": "Job 34:13",
+    "connected_from": "Job 34:11"
+  },
+  {
+    "text": "Who gave charge to Him over the earth? And who has set [Him] [over] all of the world?",
+    "reference": "Job 34:13 (BLB)",
+    "connected_to": "Job 34:14",
+    "connected_from": "Job 34:12"
+  },
+  {
+    "text": "If He should set His heart to it, gathering His Spirit and His breath to Himself,",
+    "reference": "Job 34:14 (BLB)",
+    "connected_to": "Job 34:15",
+    "connected_from": "Job 34:13"
+  },
+  {
+    "text": "[then] all flesh would perish together, and man would return to the dust.",
+    "reference": "Job 34:15 (BLB)",
+    "connected_to": "Job 34:16",
+    "connected_from": "Job 34:14"
+  },
+  {
+    "text": "And if [there is] understanding, hear this; give ear to the sound of my words.",
+    "reference": "Job 34:16 (BLB)",
+    "connected_to": "Job 34:17",
+    "connected_from": "Job 34:15"
+  },
+  {
+    "text": "And shall one hating justice govern? Or will you declare wicked the just and mighty One?",
+    "reference": "Job 34:17 (BLB)",
+    "connected_to": "Job 34:18",
+    "connected_from": "Job 34:16"
+  },
+  {
+    "text": "Who says to a king, ‘Worthless,’ [or] to nobles, ‘Wicked’?",
+    "reference": "Job 34:18 (BLB)",
+    "connected_to": "Job 34:19",
+    "connected_from": "Job 34:17"
+  },
+  {
+    "text": "Who does not lift the faces of princes, and does not acknowledge the rich before the face of the poor, for they [are] all the work of His hands.",
+    "reference": "Job 34:19 (BLB)",
+    "connected_to": "Job 34:20",
+    "connected_from": "Job 34:18"
+  },
+  {
+    "text": "[In] a moment they die, and in the middle of the night the people are shaken and pass away; and the mighty are taken away, not by a hand.",
+    "reference": "Job 34:20 (BLB)",
+    "connected_to": "Job 34:21",
+    "connected_from": "Job 34:19"
+  },
+  {
+    "text": "For His eyes [are] upon the ways of man, and all of his steps He sees.",
+    "reference": "Job 34:21 (BLB)",
+    "connected_to": "Job 34:22",
+    "connected_from": "Job 34:20"
+  },
+  {
+    "text": "There is no darkness and no shadow of death, [for] the workers of iniquity to be hidden there.",
+    "reference": "Job 34:22 (BLB)",
+    "connected_to": "Job 34:23",
+    "connected_from": "Job 34:21"
+  },
+  {
+    "text": "For He does not set upon a man further, for his going before God in the judgment.",
+    "reference": "Job 34:23 (BLB)",
+    "connected_to": "Job 34:24",
+    "connected_from": "Job 34:22"
+  },
+  {
+    "text": "He breaks the mighty without investigation, and makes others stand in their place.",
+    "reference": "Job 34:24 (BLB)",
+    "connected_to": "Job 34:25",
+    "connected_from": "Job 34:23"
+  },
+  {
+    "text": "Therefore, He recognizes their works, and He overturns [them] in the night, and they are crushed.",
+    "reference": "Job 34:25 (BLB)",
+    "connected_to": "Job 34:26",
+    "connected_from": "Job 34:24"
+  },
+  {
+    "text": "In exchange for their wickednesses, He strikes them in a place of seeing,",
+    "reference": "Job 34:26 (BLB)",
+    "connected_to": "Job 34:27",
+    "connected_from": "Job 34:25"
+  },
+  {
+    "text": "which [was] upon thus: They turned aside from Him, and they had no regard for any of His ways,",
+    "reference": "Job 34:27 (BLB)",
+    "connected_to": "Job 34:28",
+    "connected_from": "Job 34:26"
+  },
+  {
+    "text": "They caused the cry of the poor to cause to come before Him—and He heard the cry of the afflicted.",
+    "reference": "Job 34:28 (BLB)",
+    "connected_to": "Job 34:29",
+    "connected_from": "Job 34:27"
+  },
+  {
+    "text": "And he is silent, and who can call Him wicked? And He hides [His] face, and who can see Him? And He is over a nation and over man alike,",
+    "reference": "Job 34:29 (BLB)",
+    "connected_to": "Job 34:30",
+    "connected_from": "Job 34:28"
+  },
+  {
+    "text": "from the reigning of godless a man, from the snares of the people.",
+    "reference": "Job 34:30 (BLB)",
+    "connected_to": "Job 34:31",
+    "connected_from": "Job 34:29"
+  },
+  {
+    "text": "If one says to God, ‘I have lifted [it], [and] no more will I offend;",
+    "reference": "Job 34:31 (BLB)",
+    "connected_to": "Job 34:32",
+    "connected_from": "Job 34:30"
+  },
+  {
+    "text": "besides what I see, You teach me; if I have done iniquity, I will not continue [it]’",
+    "reference": "Job 34:32 (BLB)",
+    "connected_to": "Job 34:33",
+    "connected_from": "Job 34:31"
+  },
+  {
+    "text": "will he repay it from with you, because you have rejected [it]? Then you must choose, and not I, and may you speak what you know.",
+    "reference": "Job 34:33 (BLB)",
+    "connected_to": "Job 34:34",
+    "connected_from": "Job 34:32"
+  },
+  {
+    "text": "Men of understanding will say to me, and the wise man [who is] listening to me:",
+    "reference": "Job 34:34 (BLB)",
+    "connected_to": "Job 34:35",
+    "connected_from": "Job 34:33"
+  },
+  {
+    "text": "‘Job [does] not speak with knowledge, and His words [are] not with wisdom.’",
+    "reference": "Job 34:35 (BLB)",
+    "connected_to": "Job 34:36",
+    "connected_from": "Job 34:34"
+  },
+  {
+    "text": "If only Job were tested to the end, upon his answers among men of iniquity!",
+    "reference": "Job 34:36 (BLB)",
+    "connected_to": "Job 34:37",
+    "connected_from": "Job 34:35"
+  },
+  {
+    "text": "For he adds rebellion upon his sin; among us he claps, and he multiplies his words against God.”",
+    "reference": "Job 34:37 (BLB)",
+    "connected_from": "Job 34:36"
+  }
+]

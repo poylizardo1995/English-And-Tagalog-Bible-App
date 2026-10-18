@@ -1,0 +1,54 @@
+[
+  {
+    "text": "I was glad when they said to me, Let us go into the house of the LORD.",
+    "reference": "Psalm 122:1 (AKJV)",
+    "connected_to": "Psalm 122:2"
+  },
+  {
+    "text": "Our feet shall stand within your gates, O Jerusalem.",
+    "reference": "Psalm 122:2 (AKJV)",
+    "connected_to": "Psalm 122:3",
+    "connected_from": "Psalm 122:1"
+  },
+  {
+    "text": "Jerusalem is built as a city that is compact together:",
+    "reference": "Psalm 122:3 (AKJV)",
+    "connected_to": "Psalm 122:4",
+    "connected_from": "Psalm 122:2"
+  },
+  {
+    "text": "Where the tribes go up, the tribes of the LORD, to the testimony of Israel, to give thanks to the name of the LORD.",
+    "reference": "Psalm 122:4 (AKJV)",
+    "connected_to": "Psalm 122:5",
+    "connected_from": "Psalm 122:3"
+  },
+  {
+    "text": "For there are set thrones of judgment, the thrones of the house of David.",
+    "reference": "Psalm 122:5 (AKJV)",
+    "connected_to": "Psalm 122:6",
+    "connected_from": "Psalm 122:4"
+  },
+  {
+    "text": "Pray for the peace of Jerusalem: they shall prosper that love you.",
+    "reference": "Psalm 122:6 (AKJV)",
+    "connected_to": "Psalm 122:7",
+    "connected_from": "Psalm 122:5"
+  },
+  {
+    "text": "Peace be within your walls, and prosperity within your palaces.",
+    "reference": "Psalm 122:7 (AKJV)",
+    "connected_to": "Psalm 122:8",
+    "connected_from": "Psalm 122:6"
+  },
+  {
+    "text": "For my brothers and companions’ sakes, I will now say, Peace be within you.",
+    "reference": "Psalm 122:8 (AKJV)",
+    "connected_to": "Psalm 122:9",
+    "connected_from": "Psalm 122:7"
+  },
+  {
+    "text": "Because of the house of the LORD our God I will seek your good.",
+    "reference": "Psalm 122:9 (AKJV)",
+    "connected_from": "Psalm 122:8"
+  }
+]

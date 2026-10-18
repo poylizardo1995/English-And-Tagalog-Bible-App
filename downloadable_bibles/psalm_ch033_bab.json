@@ -1,0 +1,132 @@
+[
+  {
+    "text": "Rejoice in the LORD {YHWH}, O righteous ones; it is fitting for the upright to praise Him.",
+    "reference": "Psalm 33:1 (BAB)",
+    "connected_to": "Psalm 33:2"
+  },
+  {
+    "text": "Praise the LORD {YHWH} with the harp; make music to Him with ten strings.",
+    "reference": "Psalm 33:2 (BAB)",
+    "connected_to": "Psalm 33:3",
+    "connected_from": "Psalm 33:1"
+  },
+  {
+    "text": "Sing to Him a new song; play skillfully with a shout of joy.",
+    "reference": "Psalm 33:3 (BAB)",
+    "connected_to": "Psalm 33:4",
+    "connected_from": "Psalm 33:2"
+  },
+  {
+    "text": "For the word of the LORD {YHWH} is upright, and all His work is trustworthy.",
+    "reference": "Psalm 33:4 (BAB)",
+    "connected_to": "Psalm 33:5",
+    "connected_from": "Psalm 33:3"
+  },
+  {
+    "text": "The LORD loves righteousness and justice; the earth is full of His {YHWH} loving devotion.",
+    "reference": "Psalm 33:5 (BAB)",
+    "connected_to": "Psalm 33:6",
+    "connected_from": "Psalm 33:4"
+  },
+  {
+    "text": "By the word of the LORD {YHWH} the heavens were made, and all the stars by the breath {ruach} of His mouth.",
+    "reference": "Psalm 33:6 (BAB)",
+    "connected_to": "Psalm 33:7",
+    "connected_from": "Psalm 33:5"
+  },
+  {
+    "text": "He piles up the waters of the sea; He puts the depths into storehouses.",
+    "reference": "Psalm 33:7 (BAB)",
+    "connected_to": "Psalm 33:8",
+    "connected_from": "Psalm 33:6"
+  },
+  {
+    "text": "Let all the earth fear the LORD {YHWH}; let all the people of the world revere Him.",
+    "reference": "Psalm 33:8 (BAB)",
+    "connected_to": "Psalm 33:9",
+    "connected_from": "Psalm 33:7"
+  },
+  {
+    "text": "For He spoke, and it came to be; He commanded, and it stood firm.",
+    "reference": "Psalm 33:9 (BAB)",
+    "connected_to": "Psalm 33:10",
+    "connected_from": "Psalm 33:8"
+  },
+  {
+    "text": "The LORD {YHWH} frustrates the plans of the nations; He thwarts the devices of the peoples.",
+    "reference": "Psalm 33:10 (BAB)",
+    "connected_to": "Psalm 33:11",
+    "connected_from": "Psalm 33:9"
+  },
+  {
+    "text": "The counsel of the LORD {YHWH} stands forever, the purposes of His heart to all generations.",
+    "reference": "Psalm 33:11 (BAB)",
+    "connected_to": "Psalm 33:12",
+    "connected_from": "Psalm 33:10"
+  },
+  {
+    "text": "Blessed is the nation whose God {Elohaw} is the LORD {YHWH}, the people He has chosen as His inheritance!",
+    "reference": "Psalm 33:12 (BAB)",
+    "connected_to": "Psalm 33:13",
+    "connected_from": "Psalm 33:11"
+  },
+  {
+    "text": "The LORD {YHWH} looks down from heaven; He sees all the sons of men.",
+    "reference": "Psalm 33:13 (BAB)",
+    "connected_to": "Psalm 33:14",
+    "connected_from": "Psalm 33:12"
+  },
+  {
+    "text": "From His dwelling place He gazes on all who inhabit the earth.",
+    "reference": "Psalm 33:14 (BAB)",
+    "connected_to": "Psalm 33:15",
+    "connected_from": "Psalm 33:13"
+  },
+  {
+    "text": "He shapes the hearts of each; He considers all their works.",
+    "reference": "Psalm 33:15 (BAB)",
+    "connected_to": "Psalm 33:16",
+    "connected_from": "Psalm 33:14"
+  },
+  {
+    "text": "No king is saved by his vast army; no warrior is delivered by his great strength.",
+    "reference": "Psalm 33:16 (BAB)",
+    "connected_to": "Psalm 33:17",
+    "connected_from": "Psalm 33:15"
+  },
+  {
+    "text": "A horse is a vain hope for salvation; even its great strength cannot save.",
+    "reference": "Psalm 33:17 (BAB)",
+    "connected_to": "Psalm 33:18",
+    "connected_from": "Psalm 33:16"
+  },
+  {
+    "text": "Surely the eyes of the LORD {YHWH} are on those who fear Him, on those whose hope is in His loving devotion",
+    "reference": "Psalm 33:18 (BAB)",
+    "connected_to": "Psalm 33:19",
+    "connected_from": "Psalm 33:17"
+  },
+  {
+    "text": "to deliver them from death and keep them alive in famine.",
+    "reference": "Psalm 33:19 (BAB)",
+    "connected_to": "Psalm 33:20",
+    "connected_from": "Psalm 33:18"
+  },
+  {
+    "text": "Our soul waits for the LORD {YHWH}; He is our help and our shield.",
+    "reference": "Psalm 33:20 (BAB)",
+    "connected_to": "Psalm 33:21",
+    "connected_from": "Psalm 33:19"
+  },
+  {
+    "text": "For our hearts rejoice in Him, since we trust in His holy name.",
+    "reference": "Psalm 33:21 (BAB)",
+    "connected_to": "Psalm 33:22",
+    "connected_from": "Psalm 33:20"
+  },
+  {
+    "text": "May Your loving devotion rest on us, O LORD {YHWH}, as we put our hope in You.",
+    "reference": "Psalm 33:22 (BAB)",
+    "connected_from": "Psalm 33:21"
+  }
+]

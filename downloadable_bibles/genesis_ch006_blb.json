@@ -1,0 +1,132 @@
+[
+  {
+    "text": "And it came to pass when mankind began to multiply on the face of the ground and daughters were born to them,",
+    "reference": "Genesis 6:1 (BLB)",
+    "connected_to": "Genesis 6:2"
+  },
+  {
+    "text": "that the sons of God saw the daughters of mankind, and they [were] good. And they took for themselves wives from all that they chose.",
+    "reference": "Genesis 6:2 (BLB)",
+    "connected_to": "Genesis 6:3",
+    "connected_from": "Genesis 6:1"
+  },
+  {
+    "text": "And YHWH said, “My Spirit shall not strive with mankind forever, for indeed he [is] flesh. And his days shall be a hundred and twenty years.”",
+    "reference": "Genesis 6:3 (BLB)",
+    "connected_to": "Genesis 6:4",
+    "connected_from": "Genesis 6:2"
+  },
+  {
+    "text": "The Nephilim were on the earth in those days, and also after that, when the sons of God came in to the daughters of mankind, and they bore [children] to them. Those [were] the mighty men who [were] from of old, men of the name.",
+    "reference": "Genesis 6:4 (BLB)",
+    "connected_to": "Genesis 6:5",
+    "connected_from": "Genesis 6:3"
+  },
+  {
+    "text": "And YHWH saw that the wickedness of mankind on the earth [was] great and [that] every inclination of the thoughts of his heart [was] only evil all the day.",
+    "reference": "Genesis 6:5 (BLB)",
+    "connected_to": "Genesis 6:6",
+    "connected_from": "Genesis 6:4"
+  },
+  {
+    "text": "And YHWH regretted that He had made mankind on the earth, and He was grieved in His heart.",
+    "reference": "Genesis 6:6 (BLB)",
+    "connected_to": "Genesis 6:7",
+    "connected_from": "Genesis 6:5"
+  },
+  {
+    "text": "And YHWH said, “I will wipe out mankind whom I have created from the face of the ground—from mankind to beast, to crawling thing, to the bird of the heavens—for I regret that I have made them!”",
+    "reference": "Genesis 6:7 (BLB)",
+    "connected_to": "Genesis 6:8",
+    "connected_from": "Genesis 6:6"
+  },
+  {
+    "text": "And Noah found favor in the eyes of YHWH.",
+    "reference": "Genesis 6:8 (BLB)",
+    "connected_to": "Genesis 6:9",
+    "connected_from": "Genesis 6:7"
+  },
+  {
+    "text": "These [are] the generations of Noah. Noah was a righteous man, blameless in his generations; Noah walked with God.",
+    "reference": "Genesis 6:9 (BLB)",
+    "connected_to": "Genesis 6:10",
+    "connected_from": "Genesis 6:8"
+  },
+  {
+    "text": "And Noah begat three sons: Shem, Ham, and Japheth.",
+    "reference": "Genesis 6:10 (BLB)",
+    "connected_to": "Genesis 6:11",
+    "connected_from": "Genesis 6:9"
+  },
+  {
+    "text": "And the earth was corrupt before the face of God, and the earth was filled [with] violence.",
+    "reference": "Genesis 6:11 (BLB)",
+    "connected_to": "Genesis 6:12",
+    "connected_from": "Genesis 6:10"
+  },
+  {
+    "text": "And God saw the earth, and behold, it was corrupt, for all flesh had corrupted their way on the earth.",
+    "reference": "Genesis 6:12 (BLB)",
+    "connected_to": "Genesis 6:13",
+    "connected_from": "Genesis 6:11"
+  },
+  {
+    "text": "And God said to Noah, “The end of all flesh has come before My face, for the earth is filled [with] violence from their faces. And behold, I am destroying them [along] with the earth!",
+    "reference": "Genesis 6:13 (BLB)",
+    "connected_to": "Genesis 6:14",
+    "connected_from": "Genesis 6:12"
+  },
+  {
+    "text": "Make for yourself an ark of gopher wood; you shall make rooms in the ark and you shall cover it inside and outside with a covering.",
+    "reference": "Genesis 6:14 (BLB)",
+    "connected_to": "Genesis 6:15",
+    "connected_from": "Genesis 6:13"
+  },
+  {
+    "text": "And this [is] how you shall make it: Three hundred cubits [is] the length of the ark, fifty cubits its width, and thirty cubits its height.",
+    "reference": "Genesis 6:15 (BLB)",
+    "connected_to": "Genesis 6:16",
+    "connected_from": "Genesis 6:14"
+  },
+  {
+    "text": "You shall make a window for the ark, and you shall finish it to a cubit from above, and you shall set the door of the ark in its side. [With] lower, second, and third [decks] you shall make it.",
+    "reference": "Genesis 6:16 (BLB)",
+    "connected_to": "Genesis 6:17",
+    "connected_from": "Genesis 6:15"
+  },
+  {
+    "text": "And I—behold, I, am bringing the flood of waters on the earth, to destroy all flesh that [has] in it the breath of life from under the heavens. Everything that [is] on the earth shall perish!",
+    "reference": "Genesis 6:17 (BLB)",
+    "connected_to": "Genesis 6:18",
+    "connected_from": "Genesis 6:16"
+  },
+  {
+    "text": "And I will establish My covenant with you, and you shall go into the ark—you and your sons and your wife and the wives of your sons with you.",
+    "reference": "Genesis 6:18 (BLB)",
+    "connected_to": "Genesis 6:19",
+    "connected_from": "Genesis 6:17"
+  },
+  {
+    "text": "And from every living thing, from all flesh, two of every [kind] you shall bring into the ark to keep [them] alive with you; male and female they shall be.",
+    "reference": "Genesis 6:19 (BLB)",
+    "connected_to": "Genesis 6:20",
+    "connected_from": "Genesis 6:18"
+  },
+  {
+    "text": "And from the bird according to its kind, [and] the animal according to its kind, [and] from every crawling thing of the ground according to its kind, two of every [kind] shall come to you to be kept alive.",
+    "reference": "Genesis 6:20 (BLB)",
+    "connected_to": "Genesis 6:21",
+    "connected_from": "Genesis 6:19"
+  },
+  {
+    "text": "And you shall take for yourself from all food that is eaten, and you shall gather [it] to yourself, and it shall be for you and for them for food.”",
+    "reference": "Genesis 6:21 (BLB)",
+    "connected_to": "Genesis 6:22",
+    "connected_from": "Genesis 6:20"
+  },
+  {
+    "text": "And Noah did according to all that God had commanded him; so he did.",
+    "reference": "Genesis 6:22 (BLB)",
+    "connected_from": "Genesis 6:21"
+  }
+]

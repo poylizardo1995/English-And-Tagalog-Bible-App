@@ -1,0 +1,42 @@
+[
+  {
+    "text": "A Psalm of David. <span class=|reftext|><a href=|#|><b>1</b></a> An utterance of YHWH to my Lord: “Sit at My right hand, until I make your enemies a footstool for Your feet.”",
+    "reference": "Psalm 110:1 (BLB)",
+    "connected_to": "Psalm 110:2"
+  },
+  {
+    "text": "YHWH sends forth the rod of your strength from Zion: “Rule in the midst of Your enemies!”",
+    "reference": "Psalm 110:2 (BLB)",
+    "connected_to": "Psalm 110:3",
+    "connected_from": "Psalm 110:1"
+  },
+  {
+    "text": "Your people [are] freewill offerings in the day of your might, in the splendors of holiness; from the womb of the morning, the dew of your youth [is] unto you.",
+    "reference": "Psalm 110:3 (BLB)",
+    "connected_to": "Psalm 110:4",
+    "connected_from": "Psalm 110:2"
+  },
+  {
+    "text": "YHWH has sworn, and He will not change His mind: “You [are] a priest forever, according to the order of Melchizedek.”",
+    "reference": "Psalm 110:4 (BLB)",
+    "connected_to": "Psalm 110:5",
+    "connected_from": "Psalm 110:3"
+  },
+  {
+    "text": "My Lord [is] at Your right hand; he will shatter kings in the day of his anger;",
+    "reference": "Psalm 110:5 (BLB)",
+    "connected_to": "Psalm 110:6",
+    "connected_from": "Psalm 110:4"
+  },
+  {
+    "text": "He will judge among the nations, he will fill it with corpses; he will wound the head of many lands;",
+    "reference": "Psalm 110:6 (BLB)",
+    "connected_to": "Psalm 110:7",
+    "connected_from": "Psalm 110:5"
+  },
+  {
+    "text": "from the brook by the way He will drink. By this He will lift up the head.",
+    "reference": "Psalm 110:7 (BLB)",
+    "connected_from": "Psalm 110:6"
+  }
+]

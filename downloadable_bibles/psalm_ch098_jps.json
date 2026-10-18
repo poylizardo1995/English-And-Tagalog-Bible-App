@@ -1,0 +1,54 @@
+[
+  {
+    "text": "A Psalm.  O sing unto the LORD a new song; For He hath done marvellous things; His right hand, and His holy arm, hath wrought salvation for Him.",
+    "reference": "Psalm 98:1 (JPS)",
+    "connected_to": "Psalm 98:2"
+  },
+  {
+    "text": "The LORD hath made known His salvation; His righteousness hath He revealed in the sight of the nations.",
+    "reference": "Psalm 98:2 (JPS)",
+    "connected_to": "Psalm 98:3",
+    "connected_from": "Psalm 98:1"
+  },
+  {
+    "text": "He hath remembered His mercy and His faithfulness toward the house of Israel; All the ends of the earth have seen the salvation of our God.",
+    "reference": "Psalm 98:3 (JPS)",
+    "connected_to": "Psalm 98:4",
+    "connected_from": "Psalm 98:2"
+  },
+  {
+    "text": "Shout unto the LORD, all the earth; Break forth and sing for joy, yea, sing praises.",
+    "reference": "Psalm 98:4 (JPS)",
+    "connected_to": "Psalm 98:5",
+    "connected_from": "Psalm 98:3"
+  },
+  {
+    "text": "Sing praises unto the LORD with the harp; With the harp and the voice of melody.",
+    "reference": "Psalm 98:5 (JPS)",
+    "connected_to": "Psalm 98:6",
+    "connected_from": "Psalm 98:4"
+  },
+  {
+    "text": "With trumpets and sound of the horn Shout ye before the King, the LORD.",
+    "reference": "Psalm 98:6 (JPS)",
+    "connected_to": "Psalm 98:7",
+    "connected_from": "Psalm 98:5"
+  },
+  {
+    "text": "Let the sea roar, and the fulness thereof; The world, and they that dwell therein;",
+    "reference": "Psalm 98:7 (JPS)",
+    "connected_to": "Psalm 98:8",
+    "connected_from": "Psalm 98:6"
+  },
+  {
+    "text": "Let the floods clap their hands; Let the mountains sing for joy together;",
+    "reference": "Psalm 98:8 (JPS)",
+    "connected_to": "Psalm 98:9",
+    "connected_from": "Psalm 98:7"
+  },
+  {
+    "text": "Before the LORD, for He is come to judge the earth; He will judge the world with righteousness, And the peoples with equity.",
+    "reference": "Psalm 98:9 (JPS)",
+    "connected_from": "Psalm 98:8"
+  }
+]

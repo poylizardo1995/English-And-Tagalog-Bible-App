@@ -1,0 +1,132 @@
+[
+  {
+    "text": "And the Lord spoke to Moses and Aaron, saying:",
+    "reference": "Numbers 19:1 (CPDV)",
+    "connected_to": "Numbers 19:2"
+  },
+  {
+    "text": "“This is the ritual that the Lord has appointed for a victim. Instruct the sons of Israel, so that they may bring to you a red cow of full maturity, in which there is no blemish, and which has not carried a yoke.",
+    "reference": "Numbers 19:2 (CPDV)",
+    "connected_to": "Numbers 19:3",
+    "connected_from": "Numbers 19:1"
+  },
+  {
+    "text": "And you shall deliver it to Eleazar the priest, who, having led it out beyond the camp, shall immolate it in the sight of all.",
+    "reference": "Numbers 19:3 (CPDV)",
+    "connected_to": "Numbers 19:4",
+    "connected_from": "Numbers 19:2"
+  },
+  {
+    "text": "And dipping his finger in its blood, he shall sprinkle it seven times, opposite the door of the tabernacle.",
+    "reference": "Numbers 19:4 (CPDV)",
+    "connected_to": "Numbers 19:5",
+    "connected_from": "Numbers 19:3"
+  },
+  {
+    "text": "And he shall burn it, while all are watching, delivering into the flame, not only its skin and flesh, but also the blood and dung.",
+    "reference": "Numbers 19:5 (CPDV)",
+    "connected_to": "Numbers 19:6",
+    "connected_from": "Numbers 19:4"
+  },
+  {
+    "text": "Likewise, cedar wood, and hyssop, and twice-dyed scarlet he shall cast into the flame, by which the cow is consumed.",
+    "reference": "Numbers 19:6 (CPDV)",
+    "connected_to": "Numbers 19:7",
+    "connected_from": "Numbers 19:5"
+  },
+  {
+    "text": "And then finally, having washed his garments and his body, he shall enter into the camp, and he shall be deeply stained until evening.",
+    "reference": "Numbers 19:7 (CPDV)",
+    "connected_to": "Numbers 19:8",
+    "connected_from": "Numbers 19:6"
+  },
+  {
+    "text": "Then he also who had burned it shall wash his garments and his body, and he shall be unclean until evening.",
+    "reference": "Numbers 19:8 (CPDV)",
+    "connected_to": "Numbers 19:9",
+    "connected_from": "Numbers 19:7"
+  },
+  {
+    "text": "Then a clean man shall gather the ashes of the cow, and he shall pour them out beyond the camp, in a very pure place, so that they may be preserved for the multitude of the sons of Israel, and for the water of aspersion, because the cow was burned for sin.",
+    "reference": "Numbers 19:9 (CPDV)",
+    "connected_to": "Numbers 19:10",
+    "connected_from": "Numbers 19:8"
+  },
+  {
+    "text": "And when he who had carried the ashes of the cow will have washed his garments, he shall be unclean until evening. The sons of Israel, and the newcomers who live among them, shall have this as a holy and perpetual right.",
+    "reference": "Numbers 19:10 (CPDV)",
+    "connected_to": "Numbers 19:11",
+    "connected_from": "Numbers 19:9"
+  },
+  {
+    "text": "Whoever touches the corpse of a man, and is, because of this, unclean for seven days,",
+    "reference": "Numbers 19:11 (CPDV)",
+    "connected_to": "Numbers 19:12",
+    "connected_from": "Numbers 19:10"
+  },
+  {
+    "text": "shall be sprinkled from this water on the third and seventh days, and so shall he be cleansed. But if he was not sprinkled on the third day, he is not able to be cleansed on the seventh.",
+    "reference": "Numbers 19:12 (CPDV)",
+    "connected_to": "Numbers 19:13",
+    "connected_from": "Numbers 19:11"
+  },
+  {
+    "text": "Anyone who will have touched the dead body of a human life, and who has not been sprinkled with this mixture, pollutes the tabernacle of the Lord, and he shall perish out of Israel. For not having been sprinkled with the water of expiation, he shall be unclean, and his filth shall remain upon him.",
+    "reference": "Numbers 19:13 (CPDV)",
+    "connected_to": "Numbers 19:14",
+    "connected_from": "Numbers 19:12"
+  },
+  {
+    "text": "This is the law of a man who dies in a tent. All who enter into his tent, and all the vessels which are there, shall be polluted for seven days.",
+    "reference": "Numbers 19:14 (CPDV)",
+    "connected_to": "Numbers 19:15",
+    "connected_from": "Numbers 19:13"
+  },
+  {
+    "text": "The vessel that has no cover or binding over it shall be unclean.",
+    "reference": "Numbers 19:15 (CPDV)",
+    "connected_to": "Numbers 19:16",
+    "connected_from": "Numbers 19:14"
+  },
+  {
+    "text": "If anyone in the field will have touched the corpse of a man, who was killed or who died on his own, or his bone, or his grave, he shall be unclean for seven days.",
+    "reference": "Numbers 19:16 (CPDV)",
+    "connected_to": "Numbers 19:17",
+    "connected_from": "Numbers 19:15"
+  },
+  {
+    "text": "And they shall take some of the ashes from the burning and the sin offering, and they shall pour living waters over them into a vessel.",
+    "reference": "Numbers 19:17 (CPDV)",
+    "connected_to": "Numbers 19:18",
+    "connected_from": "Numbers 19:16"
+  },
+  {
+    "text": "And into it a man who is clean shall dip hyssop, and he shall sprinkle from it the entire tent, and all its articles, and the men who were polluted by means of contact.",
+    "reference": "Numbers 19:18 (CPDV)",
+    "connected_to": "Numbers 19:19",
+    "connected_from": "Numbers 19:17"
+  },
+  {
+    "text": "And so, in this manner, what is clean shall purify what is unclean, on the third and seventh days. And have been expiated on the seventh day, he shall wash both himself and his garments, and he shall be unclean until evening.",
+    "reference": "Numbers 19:19 (CPDV)",
+    "connected_to": "Numbers 19:20",
+    "connected_from": "Numbers 19:18"
+  },
+  {
+    "text": "If anyone has not been expiated by this ritual, his soul shall perish from the midst of the Church. For he has polluted the Sanctuary of the Lord, and he has not been sprinkled with purifying waters.",
+    "reference": "Numbers 19:20 (CPDV)",
+    "connected_to": "Numbers 19:21",
+    "connected_from": "Numbers 19:19"
+  },
+  {
+    "text": "This precept shall be an everlasting ordinance. Likewise, the one who has sprinkled the waters shall wash his garments. All who will have touched the waters of expiation shall be unclean until evening.",
+    "reference": "Numbers 19:21 (CPDV)",
+    "connected_to": "Numbers 19:22",
+    "connected_from": "Numbers 19:20"
+  },
+  {
+    "text": "Whatever has been touched by something unclean will itself be made unclean. And the soul who touches any of these things shall become unclean until evening.”",
+    "reference": "Numbers 19:22 (CPDV)",
+    "connected_from": "Numbers 19:21"
+  }
+]

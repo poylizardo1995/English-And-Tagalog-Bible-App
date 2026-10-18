@@ -1,0 +1,324 @@
+[
+  {
+    "text": "And it happened that, while he was in a certain place praying, when he ceased, one of his disciples said to him, “Lord, teach us to pray, as John also taught his disciples.”",
+    "reference": "Luke 11:1 (CPDV)",
+    "connected_to": "Luke 11:2"
+  },
+  {
+    "text": "And he said to them: “When you are praying, say: Father, may your name be kept holy. May your kingdom come.",
+    "reference": "Luke 11:2 (CPDV)",
+    "connected_to": "Luke 11:3",
+    "connected_from": "Luke 11:1"
+  },
+  {
+    "text": "Give us this day our daily bread.",
+    "reference": "Luke 11:3 (CPDV)",
+    "connected_to": "Luke 11:4",
+    "connected_from": "Luke 11:2"
+  },
+  {
+    "text": "And forgive us our sins, since we also forgive all who are indebted to us. And lead us not into temptation.”",
+    "reference": "Luke 11:4 (CPDV)",
+    "connected_to": "Luke 11:5",
+    "connected_from": "Luke 11:3"
+  },
+  {
+    "text": "And he said to them: “Which of you will have a friend and will go to him in the middle of the night, and will say to him: ‘Friend, lend me three loaves,",
+    "reference": "Luke 11:5 (CPDV)",
+    "connected_to": "Luke 11:6",
+    "connected_from": "Luke 11:4"
+  },
+  {
+    "text": "because a friend of mine has arrived from a journey to me, and I do not have anything to set before him.’",
+    "reference": "Luke 11:6 (CPDV)",
+    "connected_to": "Luke 11:7",
+    "connected_from": "Luke 11:5"
+  },
+  {
+    "text": "And from within, he would answer by saying: ‘Do not disturb me. The door is closed now, and my children and I are in bed. I cannot get up and give it to you.’",
+    "reference": "Luke 11:7 (CPDV)",
+    "connected_to": "Luke 11:8",
+    "connected_from": "Luke 11:6"
+  },
+  {
+    "text": "Yet if he will persevere in knocking, I tell you that, even though he would not get up and give it to him because he is a friend, yet due to his continued insistence, he will get up and give him whatever he needs.",
+    "reference": "Luke 11:8 (CPDV)",
+    "connected_to": "Luke 11:9",
+    "connected_from": "Luke 11:7"
+  },
+  {
+    "text": "And so I say to you: Ask, and it shall be given to you. Seek, and you shall find. Knock, and it shall be opened to you.",
+    "reference": "Luke 11:9 (CPDV)",
+    "connected_to": "Luke 11:10",
+    "connected_from": "Luke 11:8"
+  },
+  {
+    "text": "For everyone who asks, receives. And whoever seeks, finds. And whoever knocks, it shall be opened to him.",
+    "reference": "Luke 11:10 (CPDV)",
+    "connected_to": "Luke 11:11",
+    "connected_from": "Luke 11:9"
+  },
+  {
+    "text": "So then, who among you, if he asks his father for bread, he would give him a stone? Or if he asks for a fish, he would give him a serpent, instead of a fish?",
+    "reference": "Luke 11:11 (CPDV)",
+    "connected_to": "Luke 11:12",
+    "connected_from": "Luke 11:10"
+  },
+  {
+    "text": "Or if he will ask for an egg, he would offer to him a scorpion?",
+    "reference": "Luke 11:12 (CPDV)",
+    "connected_to": "Luke 11:13",
+    "connected_from": "Luke 11:11"
+  },
+  {
+    "text": "Therefore, if you, being evil, know how to give good things to your sons, how much more will your Father give, from heaven, a spirit of goodness to those who ask him?”",
+    "reference": "Luke 11:13 (CPDV)",
+    "connected_to": "Luke 11:14",
+    "connected_from": "Luke 11:12"
+  },
+  {
+    "text": "And he was casting out a demon, and the man was mute. But when he had cast out the demon, the mute man spoke, and so the crowds were amazed.",
+    "reference": "Luke 11:14 (CPDV)",
+    "connected_to": "Luke 11:15",
+    "connected_from": "Luke 11:13"
+  },
+  {
+    "text": "But some of them said, “It is by Beelzebub, the leader of demons, that he casts out demons.”",
+    "reference": "Luke 11:15 (CPDV)",
+    "connected_to": "Luke 11:16",
+    "connected_from": "Luke 11:14"
+  },
+  {
+    "text": "And others, testing him, required a sign from heaven of him.",
+    "reference": "Luke 11:16 (CPDV)",
+    "connected_to": "Luke 11:17",
+    "connected_from": "Luke 11:15"
+  },
+  {
+    "text": "But when he perceived their thoughts, he said to them: “Every kingdom divided against itself will become desolate, and house will fall upon house.",
+    "reference": "Luke 11:17 (CPDV)",
+    "connected_to": "Luke 11:18",
+    "connected_from": "Luke 11:16"
+  },
+  {
+    "text": "So then, if Satan is also divided against himself, how will his kingdom stand? For you say that it is by Beelzebub that I cast out demons.",
+    "reference": "Luke 11:18 (CPDV)",
+    "connected_to": "Luke 11:19",
+    "connected_from": "Luke 11:17"
+  },
+  {
+    "text": "But if I cast out demons by Beelzebub, by whom do your own sons cast them out? Therefore, they shall be your judges.",
+    "reference": "Luke 11:19 (CPDV)",
+    "connected_to": "Luke 11:20",
+    "connected_from": "Luke 11:18"
+  },
+  {
+    "text": "Moreover, if it is by the finger of God that I cast out demons, then certainly the kingdom of God has overtaken you.",
+    "reference": "Luke 11:20 (CPDV)",
+    "connected_to": "Luke 11:21",
+    "connected_from": "Luke 11:19"
+  },
+  {
+    "text": "When a strong armed man guards his entrance, the things that he possesses are at peace.",
+    "reference": "Luke 11:21 (CPDV)",
+    "connected_to": "Luke 11:22",
+    "connected_from": "Luke 11:20"
+  },
+  {
+    "text": "But if a stronger one, overwhelming him, has defeated him, he will take away all his weapons, in which he trusted, and he will distribute his spoils.",
+    "reference": "Luke 11:22 (CPDV)",
+    "connected_to": "Luke 11:23",
+    "connected_from": "Luke 11:21"
+  },
+  {
+    "text": "Whoever is not with me, is against me. And whoever does not gather with me, scatters.",
+    "reference": "Luke 11:23 (CPDV)",
+    "connected_to": "Luke 11:24",
+    "connected_from": "Luke 11:22"
+  },
+  {
+    "text": "When an unclean spirit has departed from a man, he walks through waterless places, seeking rest. And not finding any, he says: ‘I will return to my house, from which I departed.’",
+    "reference": "Luke 11:24 (CPDV)",
+    "connected_to": "Luke 11:25",
+    "connected_from": "Luke 11:23"
+  },
+  {
+    "text": "And when he has arrived, he finds it swept clean and decorated.",
+    "reference": "Luke 11:25 (CPDV)",
+    "connected_to": "Luke 11:26",
+    "connected_from": "Luke 11:24"
+  },
+  {
+    "text": "Then he goes, and he takes in seven other spirits with him, more wicked than himself, and they enter and live there. And so, the end of that man is made worse the beginning.”",
+    "reference": "Luke 11:26 (CPDV)",
+    "connected_to": "Luke 11:27",
+    "connected_from": "Luke 11:25"
+  },
+  {
+    "text": "And it happened that, when he was saying these things, a certain woman from the crowd, lifting up her voice, said to him, “Blessed is the womb that bore you and the breasts that nursed you.”",
+    "reference": "Luke 11:27 (CPDV)",
+    "connected_to": "Luke 11:28",
+    "connected_from": "Luke 11:26"
+  },
+  {
+    "text": "Then he said, “Yes, but moreover: blessed are those who hear the word of God and keep it.”",
+    "reference": "Luke 11:28 (CPDV)",
+    "connected_to": "Luke 11:29",
+    "connected_from": "Luke 11:27"
+  },
+  {
+    "text": "Then, as the crowds were quickly gathering, he began to say: “This generation is a wicked generation: it seeks a sign. But no sign will be given to it, except the sign of the prophet Jonah.",
+    "reference": "Luke 11:29 (CPDV)",
+    "connected_to": "Luke 11:30",
+    "connected_from": "Luke 11:28"
+  },
+  {
+    "text": "For just as Jonah was a sign to the Ninevites, so also will the Son of man be to this generation.",
+    "reference": "Luke 11:30 (CPDV)",
+    "connected_to": "Luke 11:31",
+    "connected_from": "Luke 11:29"
+  },
+  {
+    "text": "The queen of the South will rise up, at the judgment, with the men of this generation, and she will condemn them. For she came from the ends of the earth to hear the wisdom of Solomon. And behold, more than Solomon is here.",
+    "reference": "Luke 11:31 (CPDV)",
+    "connected_to": "Luke 11:32",
+    "connected_from": "Luke 11:30"
+  },
+  {
+    "text": "The men of Nineveh will rise up, at the judgment, with this generation, and they will condemn it. For at the preaching of Jonah, they repented. And behold, more than Jonah is here.",
+    "reference": "Luke 11:32 (CPDV)",
+    "connected_to": "Luke 11:33",
+    "connected_from": "Luke 11:31"
+  },
+  {
+    "text": "No one lights a candle and places it in hiding, nor under a bushel basket, but upon a lampstand, so that those who enter may see the light.",
+    "reference": "Luke 11:33 (CPDV)",
+    "connected_to": "Luke 11:34",
+    "connected_from": "Luke 11:32"
+  },
+  {
+    "text": "Your eye is the light of your body. If your eye is wholesome, your entire body will be filled with light. But if it is wicked, then even your body will be darkened.",
+    "reference": "Luke 11:34 (CPDV)",
+    "connected_to": "Luke 11:35",
+    "connected_from": "Luke 11:33"
+  },
+  {
+    "text": "Therefore, take care, lest the light that is within you become darkness.",
+    "reference": "Luke 11:35 (CPDV)",
+    "connected_to": "Luke 11:36",
+    "connected_from": "Luke 11:34"
+  },
+  {
+    "text": "So then, if your entire body becomes filled with light, not having any part in darkness, then it will be entirely light, and, like a shining lamp, it will illuminate you.”",
+    "reference": "Luke 11:36 (CPDV)",
+    "connected_to": "Luke 11:37",
+    "connected_from": "Luke 11:35"
+  },
+  {
+    "text": "And as he was speaking, a certain Pharisee asked him to eat with him. And going inside, he sat down to eat.",
+    "reference": "Luke 11:37 (CPDV)",
+    "connected_to": "Luke 11:38",
+    "connected_from": "Luke 11:36"
+  },
+  {
+    "text": "But the Pharisee began to say, thinking within himself: “Why might it be that he has not washed before eating?”",
+    "reference": "Luke 11:38 (CPDV)",
+    "connected_to": "Luke 11:39",
+    "connected_from": "Luke 11:37"
+  },
+  {
+    "text": "And the Lord said to him: “You Pharisees today clean what is outside the cup and the plate, but what is inside of you is full of plunder and iniquity.",
+    "reference": "Luke 11:39 (CPDV)",
+    "connected_to": "Luke 11:40",
+    "connected_from": "Luke 11:38"
+  },
+  {
+    "text": "Fools! Did not he who made what is outside, indeed also make what is inside?",
+    "reference": "Luke 11:40 (CPDV)",
+    "connected_to": "Luke 11:41",
+    "connected_from": "Luke 11:39"
+  },
+  {
+    "text": "Yet truly, give what is above as alms, and behold, all things are clean for you.",
+    "reference": "Luke 11:41 (CPDV)",
+    "connected_to": "Luke 11:42",
+    "connected_from": "Luke 11:40"
+  },
+  {
+    "text": "But woe to you, Pharisees! For you tithe mint and rue and every herb, but you ignore judgment and the charity of God. But these things you ought to have done, without omitting the others.",
+    "reference": "Luke 11:42 (CPDV)",
+    "connected_to": "Luke 11:43",
+    "connected_from": "Luke 11:41"
+  },
+  {
+    "text": "Woe to you, Pharisees! For you love the first seats in the synagogues, and greetings in the marketplace.",
+    "reference": "Luke 11:43 (CPDV)",
+    "connected_to": "Luke 11:44",
+    "connected_from": "Luke 11:42"
+  },
+  {
+    "text": "Woe to you! For you are like graves that are not noticeable, so that men walk over them without realizing it.”",
+    "reference": "Luke 11:44 (CPDV)",
+    "connected_to": "Luke 11:45",
+    "connected_from": "Luke 11:43"
+  },
+  {
+    "text": "Then one of the experts in the law, in response, said to him, “Teacher, in saying these things, you bring an insult against us as well.”",
+    "reference": "Luke 11:45 (CPDV)",
+    "connected_to": "Luke 11:46",
+    "connected_from": "Luke 11:44"
+  },
+  {
+    "text": "So he said: “And woe to you experts in the law! For you weigh men down with burdens which they are not able to bear, but you yourselves do not touch the weight with even one of your fingers.",
+    "reference": "Luke 11:46 (CPDV)",
+    "connected_to": "Luke 11:47",
+    "connected_from": "Luke 11:45"
+  },
+  {
+    "text": "Woe to you, who build the tombs of the prophets, while it is your fathers who killed them!",
+    "reference": "Luke 11:47 (CPDV)",
+    "connected_to": "Luke 11:48",
+    "connected_from": "Luke 11:46"
+  },
+  {
+    "text": "Clearly, you are testifying that you consent to the actions of your fathers, because even though they killed them, you build their sepulchers.",
+    "reference": "Luke 11:48 (CPDV)",
+    "connected_to": "Luke 11:49",
+    "connected_from": "Luke 11:47"
+  },
+  {
+    "text": "Because of this also, the wisdom of God said: I will send to them Prophets and Apostles, and some of these they will kill or persecute,",
+    "reference": "Luke 11:49 (CPDV)",
+    "connected_to": "Luke 11:50",
+    "connected_from": "Luke 11:48"
+  },
+  {
+    "text": "so that the blood of all the Prophets, which has been shed since the foundation of the world, may be charged against this generation:",
+    "reference": "Luke 11:50 (CPDV)",
+    "connected_to": "Luke 11:51",
+    "connected_from": "Luke 11:49"
+  },
+  {
+    "text": "from the blood of Abel, even to the blood of Zachariah, who perished between the altar and the sanctuary. So I say to you: it will be required of this generation!",
+    "reference": "Luke 11:51 (CPDV)",
+    "connected_to": "Luke 11:52",
+    "connected_from": "Luke 11:50"
+  },
+  {
+    "text": "Woe to you, experts in the law! For you have taken away the key of knowledge. You yourselves do not enter, and those who were entering, you would have prohibited.”",
+    "reference": "Luke 11:52 (CPDV)",
+    "connected_to": "Luke 11:53",
+    "connected_from": "Luke 11:51"
+  },
+  {
+    "text": "Then, while he was saying these things to them, the Pharisees and the experts in the law began to insist strongly that he restrain his mouth about many things.",
+    "reference": "Luke 11:53 (CPDV)",
+    "connected_to": "Luke 11:54",
+    "connected_from": "Luke 11:52"
+  },
+  {
+    "text": "And waiting to ambush him, they sought something from his mouth that they might seize upon, in order to accuse him.",
+    "reference": "Luke 11:54 (CPDV)",
+    "connected_from": "Luke 11:53"
+  }
+]

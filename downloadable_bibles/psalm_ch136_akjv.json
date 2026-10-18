@@ -1,0 +1,156 @@
+[
+  {
+    "text": "O give thanks to the LORD; for he is good: for his mercy endures for ever.",
+    "reference": "Psalm 136:1 (AKJV)",
+    "connected_to": "Psalm 136:2"
+  },
+  {
+    "text": "O give thanks to the God of gods: for his mercy endures for ever.",
+    "reference": "Psalm 136:2 (AKJV)",
+    "connected_to": "Psalm 136:3",
+    "connected_from": "Psalm 136:1"
+  },
+  {
+    "text": "O give thanks to the Lord of lords: for his mercy endures for ever.",
+    "reference": "Psalm 136:3 (AKJV)",
+    "connected_to": "Psalm 136:4",
+    "connected_from": "Psalm 136:2"
+  },
+  {
+    "text": "To him who alone does great wonders: for his mercy endures for ever.",
+    "reference": "Psalm 136:4 (AKJV)",
+    "connected_to": "Psalm 136:5",
+    "connected_from": "Psalm 136:3"
+  },
+  {
+    "text": "To him that by wisdom made the heavens: for his mercy endures for ever.",
+    "reference": "Psalm 136:5 (AKJV)",
+    "connected_to": "Psalm 136:6",
+    "connected_from": "Psalm 136:4"
+  },
+  {
+    "text": "To him that stretched out the earth above the waters: for his mercy endures for ever.",
+    "reference": "Psalm 136:6 (AKJV)",
+    "connected_to": "Psalm 136:7",
+    "connected_from": "Psalm 136:5"
+  },
+  {
+    "text": "To him that made great lights: for his mercy endures for ever:",
+    "reference": "Psalm 136:7 (AKJV)",
+    "connected_to": "Psalm 136:8",
+    "connected_from": "Psalm 136:6"
+  },
+  {
+    "text": "The sun to rule by day: for his mercy endures for ever:",
+    "reference": "Psalm 136:8 (AKJV)",
+    "connected_to": "Psalm 136:9",
+    "connected_from": "Psalm 136:7"
+  },
+  {
+    "text": "The moon and stars to rule by night: for his mercy endures for ever.",
+    "reference": "Psalm 136:9 (AKJV)",
+    "connected_to": "Psalm 136:10",
+    "connected_from": "Psalm 136:8"
+  },
+  {
+    "text": "To him that smote Egypt in their firstborn: for his mercy endures for ever:",
+    "reference": "Psalm 136:10 (AKJV)",
+    "connected_to": "Psalm 136:11",
+    "connected_from": "Psalm 136:9"
+  },
+  {
+    "text": "And brought out Israel from among them: for his mercy endures for ever:",
+    "reference": "Psalm 136:11 (AKJV)",
+    "connected_to": "Psalm 136:12",
+    "connected_from": "Psalm 136:10"
+  },
+  {
+    "text": "With a strong hand, and with a stretched out arm: for his mercy endures for ever.",
+    "reference": "Psalm 136:12 (AKJV)",
+    "connected_to": "Psalm 136:13",
+    "connected_from": "Psalm 136:11"
+  },
+  {
+    "text": "To him which divided the Red sea into parts: for his mercy endures for ever:",
+    "reference": "Psalm 136:13 (AKJV)",
+    "connected_to": "Psalm 136:14",
+    "connected_from": "Psalm 136:12"
+  },
+  {
+    "text": "And made Israel to pass through the middle of it: for his mercy endures for ever:",
+    "reference": "Psalm 136:14 (AKJV)",
+    "connected_to": "Psalm 136:15",
+    "connected_from": "Psalm 136:13"
+  },
+  {
+    "text": "But overthrew Pharaoh and his host in the Red sea: for his mercy endures for ever.",
+    "reference": "Psalm 136:15 (AKJV)",
+    "connected_to": "Psalm 136:16",
+    "connected_from": "Psalm 136:14"
+  },
+  {
+    "text": "To him which led his people through the wilderness: for his mercy endures for ever.",
+    "reference": "Psalm 136:16 (AKJV)",
+    "connected_to": "Psalm 136:17",
+    "connected_from": "Psalm 136:15"
+  },
+  {
+    "text": "To him which smote great kings: for his mercy endures for ever:",
+    "reference": "Psalm 136:17 (AKJV)",
+    "connected_to": "Psalm 136:18",
+    "connected_from": "Psalm 136:16"
+  },
+  {
+    "text": "And slew famous kings: for his mercy endures for ever:",
+    "reference": "Psalm 136:18 (AKJV)",
+    "connected_to": "Psalm 136:19",
+    "connected_from": "Psalm 136:17"
+  },
+  {
+    "text": "Sihon king of the Amorites: for his mercy endures for ever:",
+    "reference": "Psalm 136:19 (AKJV)",
+    "connected_to": "Psalm 136:20",
+    "connected_from": "Psalm 136:18"
+  },
+  {
+    "text": "And Og the king of Bashan: for his mercy endures for ever:",
+    "reference": "Psalm 136:20 (AKJV)",
+    "connected_to": "Psalm 136:21",
+    "connected_from": "Psalm 136:19"
+  },
+  {
+    "text": "And gave their land for an heritage: for his mercy endures for ever:",
+    "reference": "Psalm 136:21 (AKJV)",
+    "connected_to": "Psalm 136:22",
+    "connected_from": "Psalm 136:20"
+  },
+  {
+    "text": "Even an heritage to Israel his servant: for his mercy endures for ever.",
+    "reference": "Psalm 136:22 (AKJV)",
+    "connected_to": "Psalm 136:23",
+    "connected_from": "Psalm 136:21"
+  },
+  {
+    "text": "Who remembered us in our low estate: for his mercy endures for ever:",
+    "reference": "Psalm 136:23 (AKJV)",
+    "connected_to": "Psalm 136:24",
+    "connected_from": "Psalm 136:22"
+  },
+  {
+    "text": "And has redeemed us from our enemies: for his mercy endures for ever.",
+    "reference": "Psalm 136:24 (AKJV)",
+    "connected_to": "Psalm 136:25",
+    "connected_from": "Psalm 136:23"
+  },
+  {
+    "text": "Who gives food to all flesh: for his mercy endures for ever.",
+    "reference": "Psalm 136:25 (AKJV)",
+    "connected_to": "Psalm 136:26",
+    "connected_from": "Psalm 136:24"
+  },
+  {
+    "text": "O give thanks to the God of heaven: for his mercy endures for ever.",
+    "reference": "Psalm 136:26 (AKJV)",
+    "connected_from": "Psalm 136:25"
+  }
+]

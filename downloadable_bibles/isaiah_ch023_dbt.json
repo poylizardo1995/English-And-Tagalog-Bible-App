@@ -1,0 +1,108 @@
+[
+  {
+    "text": "The burden of Tyre. Howl, ye ships of Tarshish! for it is laid waste, so that there is no house, none entering in. From the land of Chittim it is revealed to them.",
+    "reference": "Isaiah 23:1 (DBT)",
+    "connected_to": "Isaiah 23:2"
+  },
+  {
+    "text": "Be still, ye inhabitants of the isle! The merchants of Sidon, that pass over the sea, have replenished thee.",
+    "reference": "Isaiah 23:2 (DBT)",
+    "connected_to": "Isaiah 23:3",
+    "connected_from": "Isaiah 23:1"
+  },
+  {
+    "text": "And on great waters, the seed of Shihor, the harvest of the Nile, was her revenue; and she was the market of the nations.",
+    "reference": "Isaiah 23:3 (DBT)",
+    "connected_to": "Isaiah 23:4",
+    "connected_from": "Isaiah 23:2"
+  },
+  {
+    "text": "Be thou ashamed, Sidon, for the sea hath spoken, the strength of the sea, saying, I have not travailed nor brought forth, neither have I nourished young men [nor] brought up virgins.",
+    "reference": "Isaiah 23:4 (DBT)",
+    "connected_to": "Isaiah 23:5",
+    "connected_from": "Isaiah 23:3"
+  },
+  {
+    "text": "when the report came into Egypt, they were sorely pained at the news of Tyre.",
+    "reference": "Isaiah 23:5 (DBT)",
+    "connected_to": "Isaiah 23:6",
+    "connected_from": "Isaiah 23:4"
+  },
+  {
+    "text": "Pass over to Tarshish; howl, ye inhabitants of the coast!",
+    "reference": "Isaiah 23:6 (DBT)",
+    "connected_to": "Isaiah 23:7",
+    "connected_from": "Isaiah 23:5"
+  },
+  {
+    "text": "Is this your joyous [city], whose antiquity is of ancient days? Her feet shall carry her afar off to sojourn.",
+    "reference": "Isaiah 23:7 (DBT)",
+    "connected_to": "Isaiah 23:8",
+    "connected_from": "Isaiah 23:6"
+  },
+  {
+    "text": "Who hath purposed this against Tyre, the distributor of crowns, whose merchants were princes, whose dealers were the honourable of the earth?",
+    "reference": "Isaiah 23:8 (DBT)",
+    "connected_to": "Isaiah 23:9",
+    "connected_from": "Isaiah 23:7"
+  },
+  {
+    "text": "Jehovah of hosts hath purposed it, to profane the pride of all glory, to bring to nought all the honourable of the earth.",
+    "reference": "Isaiah 23:9 (DBT)",
+    "connected_to": "Isaiah 23:10",
+    "connected_from": "Isaiah 23:8"
+  },
+  {
+    "text": "Overflow thy land like the Nile, daughter of Tarshish: there is no more restraint.",
+    "reference": "Isaiah 23:10 (DBT)",
+    "connected_to": "Isaiah 23:11",
+    "connected_from": "Isaiah 23:9"
+  },
+  {
+    "text": "He hath stretched out his hand over the sea, he shaketh the kingdoms. Jehovah hath given a commandment concerning Canaan, to destroy the strongholds thereof,",
+    "reference": "Isaiah 23:11 (DBT)",
+    "connected_to": "Isaiah 23:12",
+    "connected_from": "Isaiah 23:10"
+  },
+  {
+    "text": "and hath said, Thou shalt no more exult, [thou] oppressed virgin, daughter of Sidon: get thee up, pass over to Chittim; even there shalt thou have no rest.",
+    "reference": "Isaiah 23:12 (DBT)",
+    "connected_to": "Isaiah 23:13",
+    "connected_from": "Isaiah 23:11"
+  },
+  {
+    "text": "Behold the land of the Chaldeans: this people did not exist; the Assyrian founded it for the dwellers in the desert: they set up their towers, they destroyed the palaces thereof; he brought it to ruin.",
+    "reference": "Isaiah 23:13 (DBT)",
+    "connected_to": "Isaiah 23:14",
+    "connected_from": "Isaiah 23:12"
+  },
+  {
+    "text": "Howl, ships of Tarshish! for your fortress is laid waste.",
+    "reference": "Isaiah 23:14 (DBT)",
+    "connected_to": "Isaiah 23:15",
+    "connected_from": "Isaiah 23:13"
+  },
+  {
+    "text": "And it shall come to pass in that day, that Tyre shall be forgotten seventy years, according to the days of one king. At the end of seventy years it shall be for Tyre as the harlot’s song.",
+    "reference": "Isaiah 23:15 (DBT)",
+    "connected_to": "Isaiah 23:16",
+    "connected_from": "Isaiah 23:14"
+  },
+  {
+    "text": "Take a harp, go about the city, thou forgotten harlot! Make sweet melody, sing many songs, that thou mayest be remembered.",
+    "reference": "Isaiah 23:16 (DBT)",
+    "connected_to": "Isaiah 23:17",
+    "connected_from": "Isaiah 23:15"
+  },
+  {
+    "text": "And it shall come to pass at the end of seventy years, that Jehovah will visit Tyre; and she will return to her hire, and will commit fornication with all the kingdoms of the earth upon the face of the ground.",
+    "reference": "Isaiah 23:17 (DBT)",
+    "connected_to": "Isaiah 23:18",
+    "connected_from": "Isaiah 23:16"
+  },
+  {
+    "text": "And her merchandise and her hire shall be holy to Jehovah: it shall not be treasured nor laid up; for her merchandise shall be for them that dwell before Jehovah, to eat and be sufficed, and for excellent clothing.",
+    "reference": "Isaiah 23:18 (DBT)",
+    "connected_from": "Isaiah 23:17"
+  }
+]

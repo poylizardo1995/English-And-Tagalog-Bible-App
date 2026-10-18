@@ -1,0 +1,78 @@
+[
+  {
+    "text": "Unto the end, for the sons of Core, a psalm. Lord, thou hast blessed thy land: thou hast turned away the captivity of Jacob.",
+    "reference": "Psalm 85:1 (DRB)",
+    "connected_to": "Psalm 85:2"
+  },
+  {
+    "text": "Thou hast forgiven the iniquity of thy people: thou hast covered all their sins.",
+    "reference": "Psalm 85:2 (DRB)",
+    "connected_to": "Psalm 85:3",
+    "connected_from": "Psalm 85:1"
+  },
+  {
+    "text": "Thou hast mitigated all thy anger: thou best turned away from the wrath of thy indignation.",
+    "reference": "Psalm 85:3 (DRB)",
+    "connected_to": "Psalm 85:4",
+    "connected_from": "Psalm 85:2"
+  },
+  {
+    "text": "Convert us, O God our saviour: and turn off thy anger from us.",
+    "reference": "Psalm 85:4 (DRB)",
+    "connected_to": "Psalm 85:5",
+    "connected_from": "Psalm 85:3"
+  },
+  {
+    "text": "Wilt thou be angry with us for ever: or wilt thou extend thy wrath from generation to generation?",
+    "reference": "Psalm 85:5 (DRB)",
+    "connected_to": "Psalm 85:6",
+    "connected_from": "Psalm 85:4"
+  },
+  {
+    "text": "Thou wilt turn, O God, and bring us to life: and thy people shall rejoice in thee.",
+    "reference": "Psalm 85:6 (DRB)",
+    "connected_to": "Psalm 85:7",
+    "connected_from": "Psalm 85:5"
+  },
+  {
+    "text": "Shew us, O Lord, thy mercy; and grant us thy salvation.",
+    "reference": "Psalm 85:7 (DRB)",
+    "connected_to": "Psalm 85:8",
+    "connected_from": "Psalm 85:6"
+  },
+  {
+    "text": "I will hear what the Lord God will speak in me: for he will speak peace unto his people: And unto his saints: and unto them that are converted to the heart.",
+    "reference": "Psalm 85:8 (DRB)",
+    "connected_to": "Psalm 85:9",
+    "connected_from": "Psalm 85:7"
+  },
+  {
+    "text": "Surely his salvation is near to them that fear him: that glory may dwell in our land.",
+    "reference": "Psalm 85:9 (DRB)",
+    "connected_to": "Psalm 85:10",
+    "connected_from": "Psalm 85:8"
+  },
+  {
+    "text": "Mercy and truth have met each other: justice and peace have kissed.",
+    "reference": "Psalm 85:10 (DRB)",
+    "connected_to": "Psalm 85:11",
+    "connected_from": "Psalm 85:9"
+  },
+  {
+    "text": "Truth is sprung out of the earth: and justice hath looked down from heaven.",
+    "reference": "Psalm 85:11 (DRB)",
+    "connected_to": "Psalm 85:12",
+    "connected_from": "Psalm 85:10"
+  },
+  {
+    "text": "For the Lord will give goodness: and our earth shall yield her fruit.",
+    "reference": "Psalm 85:12 (DRB)",
+    "connected_to": "Psalm 85:13",
+    "connected_from": "Psalm 85:11"
+  },
+  {
+    "text": "Justice shall walk before him: and shall set his steps in the way.",
+    "reference": "Psalm 85:13 (DRB)",
+    "connected_from": "Psalm 85:12"
+  }
+]

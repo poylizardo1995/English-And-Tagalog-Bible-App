@@ -1,0 +1,48 @@
+[
+  {
+    "text": "For the choirmaster. According to Sheminith (Sheminith). A Psalm of David (beloved). <span class=|reftext|><a href=|#|><b>1</b></a> Help, O LORD {YHWH}, for the godly are no more; the faithful have vanished from among men.",
+    "reference": "Psalm 12:1 (BAB)",
+    "connected_to": "Psalm 12:2"
+  },
+  {
+    "text": "They lie to one another; they speak with flattering lips and a double heart.",
+    "reference": "Psalm 12:2 (BAB)",
+    "connected_to": "Psalm 12:3",
+    "connected_from": "Psalm 12:1"
+  },
+  {
+    "text": "May the LORD {YHWH} cut off all flattering lips and every boastful tongue.",
+    "reference": "Psalm 12:3 (BAB)",
+    "connected_to": "Psalm 12:4",
+    "connected_from": "Psalm 12:2"
+  },
+  {
+    "text": "They say, “With our tongues we will prevail. We own our lips—who can be our master?”",
+    "reference": "Psalm 12:4 (BAB)",
+    "connected_to": "Psalm 12:5",
+    "connected_from": "Psalm 12:3"
+  },
+  {
+    "text": "“For the cause of the oppressed and for the groaning of the needy, I will now arise,” says the LORD {YHWH}. “I will bring safety to him who yearns.”",
+    "reference": "Psalm 12:5 (BAB)",
+    "connected_to": "Psalm 12:6",
+    "connected_from": "Psalm 12:4"
+  },
+  {
+    "text": "The words of the LORD {YHWH} are flawless, like silver refined in a furnace, like gold purified sevenfold.",
+    "reference": "Psalm 12:6 (BAB)",
+    "connected_to": "Psalm 12:7",
+    "connected_from": "Psalm 12:5"
+  },
+  {
+    "text": "You, O LORD {YHWH}, will keep us; You will forever guard us from this generation.",
+    "reference": "Psalm 12:7 (BAB)",
+    "connected_to": "Psalm 12:8",
+    "connected_from": "Psalm 12:6"
+  },
+  {
+    "text": "The wicked wander freely, and vileness is exalted among men.",
+    "reference": "Psalm 12:8 (BAB)",
+    "connected_from": "Psalm 12:7"
+  }
+]

@@ -1,0 +1,204 @@
+[
+  {
+    "text": "And the LORD spoke unto Moses, saying:",
+    "reference": "Leviticus 27:1 (JPS)",
+    "connected_to": "Leviticus 27:2"
+  },
+  {
+    "text": "Speak unto the children of Israel, and say unto them: When a man shall clearly utter a vow of persons unto the LORD, according to thy valuation,",
+    "reference": "Leviticus 27:2 (JPS)",
+    "connected_to": "Leviticus 27:3",
+    "connected_from": "Leviticus 27:1"
+  },
+  {
+    "text": "then thy valuation shall be for the male from twenty years old even unto sixty years old, even thy valuation shall be fifty shekels of silver, after the shekel of the sanctuary.",
+    "reference": "Leviticus 27:3 (JPS)",
+    "connected_to": "Leviticus 27:4",
+    "connected_from": "Leviticus 27:2"
+  },
+  {
+    "text": "And if it be a female, then thy valuation shall be thirty shekels.",
+    "reference": "Leviticus 27:4 (JPS)",
+    "connected_to": "Leviticus 27:5",
+    "connected_from": "Leviticus 27:3"
+  },
+  {
+    "text": "And if it be from five years old even unto twenty years old, then thy valuation shall be for the male twenty shekels, and for the female ten shekels.",
+    "reference": "Leviticus 27:5 (JPS)",
+    "connected_to": "Leviticus 27:6",
+    "connected_from": "Leviticus 27:4"
+  },
+  {
+    "text": "And if it be from a month old even unto five years old, then thy valuation shall be for the male five shekels of silver, and for the female thy valuation shall be three shekels of silver.",
+    "reference": "Leviticus 27:6 (JPS)",
+    "connected_to": "Leviticus 27:7",
+    "connected_from": "Leviticus 27:5"
+  },
+  {
+    "text": "And if it be from sixty years old and upward: if it be a male, then thy valuation shall be fifteen shekels, and for the female ten shekels.",
+    "reference": "Leviticus 27:7 (JPS)",
+    "connected_to": "Leviticus 27:8",
+    "connected_from": "Leviticus 27:6"
+  },
+  {
+    "text": "But if he be too poor for thy valuation, then he shall be set before the priest, and the priest shall value him; according to the means of him that vowed shall the priest value him.",
+    "reference": "Leviticus 27:8 (JPS)",
+    "connected_to": "Leviticus 27:9",
+    "connected_from": "Leviticus 27:7"
+  },
+  {
+    "text": "And if it be a beast, whereof men bring an offering unto the LORD, all that any man giveth of such unto the LORD shall be holy.",
+    "reference": "Leviticus 27:9 (JPS)",
+    "connected_to": "Leviticus 27:10",
+    "connected_from": "Leviticus 27:8"
+  },
+  {
+    "text": "He shall not alter it, nor change it, a good for a bad, or a bad for a good; and if he shall at all change beast for beast, then both it and that for which it is changed shall be holy.",
+    "reference": "Leviticus 27:10 (JPS)",
+    "connected_to": "Leviticus 27:11",
+    "connected_from": "Leviticus 27:9"
+  },
+  {
+    "text": "And if it be any unclean beast, of which they may not bring an offering unto the LORD, then he shall set the beast before the priest.",
+    "reference": "Leviticus 27:11 (JPS)",
+    "connected_to": "Leviticus 27:12",
+    "connected_from": "Leviticus 27:10"
+  },
+  {
+    "text": "And the priest shall value it, whether it be good or bad; as thou the priest valuest it, so shall it be.",
+    "reference": "Leviticus 27:12 (JPS)",
+    "connected_to": "Leviticus 27:13",
+    "connected_from": "Leviticus 27:11"
+  },
+  {
+    "text": "But if he will indeed redeem it, then he shall add the fifth part thereof unto thy valuation.",
+    "reference": "Leviticus 27:13 (JPS)",
+    "connected_to": "Leviticus 27:14",
+    "connected_from": "Leviticus 27:12"
+  },
+  {
+    "text": "And when a man shall sanctify his house to be holy unto the LORD, then the priest shall value it, whether it be good or bad; as the priest shall value it, so shall it stand.",
+    "reference": "Leviticus 27:14 (JPS)",
+    "connected_to": "Leviticus 27:15",
+    "connected_from": "Leviticus 27:13"
+  },
+  {
+    "text": "And if he that sanctified it will redeem his house, then he shall add the fifth part of the money of thy valuation unto it, and it shall be his.",
+    "reference": "Leviticus 27:15 (JPS)",
+    "connected_to": "Leviticus 27:16",
+    "connected_from": "Leviticus 27:14"
+  },
+  {
+    "text": "And if a man shall sanctify unto the LORD part of the field of his possession, then thy valuation shall be according to the sowing thereof; the sowing of a homer of barley shall be valued at fifty shekels of silver.",
+    "reference": "Leviticus 27:16 (JPS)",
+    "connected_to": "Leviticus 27:17",
+    "connected_from": "Leviticus 27:15"
+  },
+  {
+    "text": "If he sanctify his field from the year of jubilee, according to thy valuation it shall stand.",
+    "reference": "Leviticus 27:17 (JPS)",
+    "connected_to": "Leviticus 27:18",
+    "connected_from": "Leviticus 27:16"
+  },
+  {
+    "text": "But if he sanctify his field after the jubilee, then the priest shall reckon unto him the money according to the years that remain unto the year of jubilee, and an abatement shall be made from thy valuation.",
+    "reference": "Leviticus 27:18 (JPS)",
+    "connected_to": "Leviticus 27:19",
+    "connected_from": "Leviticus 27:17"
+  },
+  {
+    "text": "And if he that sanctified the field will indeed redeem it, then he shall add the fifth part of the money of thy valuation unto it, and it shall be assured to him.",
+    "reference": "Leviticus 27:19 (JPS)",
+    "connected_to": "Leviticus 27:20",
+    "connected_from": "Leviticus 27:18"
+  },
+  {
+    "text": "And if he will not redeem the field, or if he have sold the field to another man, it shall not be redeemed any more.",
+    "reference": "Leviticus 27:20 (JPS)",
+    "connected_to": "Leviticus 27:21",
+    "connected_from": "Leviticus 27:19"
+  },
+  {
+    "text": "But the field, when it goeth out in the jubilee, shall be holy unto the LORD, as a field devoted; the possession thereof shall be the priest’s.",
+    "reference": "Leviticus 27:21 (JPS)",
+    "connected_to": "Leviticus 27:22",
+    "connected_from": "Leviticus 27:20"
+  },
+  {
+    "text": "And if he sanctify unto the LORD a field which he hath bought, which is not of the field of his possession;",
+    "reference": "Leviticus 27:22 (JPS)",
+    "connected_to": "Leviticus 27:23",
+    "connected_from": "Leviticus 27:21"
+  },
+  {
+    "text": "then the priest shall reckon unto him the worth of thy valuation unto the year of jubilee; and he shall give thy valuation in that day, as a holy thing unto the LORD.",
+    "reference": "Leviticus 27:23 (JPS)",
+    "connected_to": "Leviticus 27:24",
+    "connected_from": "Leviticus 27:22"
+  },
+  {
+    "text": "In the year of jubilee the field shall return unto him of whom it was bought, even to him to whom the possession of the land belongeth.",
+    "reference": "Leviticus 27:24 (JPS)",
+    "connected_to": "Leviticus 27:25",
+    "connected_from": "Leviticus 27:23"
+  },
+  {
+    "text": "And all thy valuations shall be according to the shekel of the sanctuary; twenty gerahs shall be the shekel.",
+    "reference": "Leviticus 27:25 (JPS)",
+    "connected_to": "Leviticus 27:26",
+    "connected_from": "Leviticus 27:24"
+  },
+  {
+    "text": "Howbeit the firstling among beasts, which is born as a firstling to the LORD, no man shall sanctify it; whether it be ox or sheep, it is the LORD’S.",
+    "reference": "Leviticus 27:26 (JPS)",
+    "connected_to": "Leviticus 27:27",
+    "connected_from": "Leviticus 27:25"
+  },
+  {
+    "text": "And if it be of an unclean beast, then he shall ransom it according to thy valuation, and shall add unto it the fifth part thereof; or if it be not redeemed, then it shall be sold according to thy valuation.",
+    "reference": "Leviticus 27:27 (JPS)",
+    "connected_to": "Leviticus 27:28",
+    "connected_from": "Leviticus 27:26"
+  },
+  {
+    "text": "Notwithstanding, no devoted thing, that a man may devote unto the LORD of all that he hath, whether of man or beast, or of the field of his possession, shall be sold or redeemed; every devoted thing is most holy unto the LORD.",
+    "reference": "Leviticus 27:28 (JPS)",
+    "connected_to": "Leviticus 27:29",
+    "connected_from": "Leviticus 27:27"
+  },
+  {
+    "text": "None devoted, that may be devoted of men, shall be ransomed; he shall surely be put to death.",
+    "reference": "Leviticus 27:29 (JPS)",
+    "connected_to": "Leviticus 27:30",
+    "connected_from": "Leviticus 27:28"
+  },
+  {
+    "text": "And all the tithe of the land, whether of the seed of the land, or of the fruit of the tree, is the LORD’S; it is holy unto the LORD.",
+    "reference": "Leviticus 27:30 (JPS)",
+    "connected_to": "Leviticus 27:31",
+    "connected_from": "Leviticus 27:29"
+  },
+  {
+    "text": "And if a man will redeem aught of his tithe, he shall add unto it the fifth part thereof.",
+    "reference": "Leviticus 27:31 (JPS)",
+    "connected_to": "Leviticus 27:32",
+    "connected_from": "Leviticus 27:30"
+  },
+  {
+    "text": "And all the tithe of the herd or the flock, whatsoever passeth under the rod, the tenth shall be holy unto the LORD.",
+    "reference": "Leviticus 27:32 (JPS)",
+    "connected_to": "Leviticus 27:33",
+    "connected_from": "Leviticus 27:31"
+  },
+  {
+    "text": "He shall not inquire whether it be good or bad, neither shall he change it; and if he change it at all, then both it and that for which it is changed shall be holy; it shall not be redeemed.",
+    "reference": "Leviticus 27:33 (JPS)",
+    "connected_to": "Leviticus 27:34",
+    "connected_from": "Leviticus 27:32"
+  },
+  {
+    "text": "These are the commandments, which the LORD commanded Moses for the children of Israel in mount Sinai.",
+    "reference": "Leviticus 27:34 (JPS)",
+    "connected_from": "Leviticus 27:33"
+  }
+]

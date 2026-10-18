@@ -1,0 +1,36 @@
+[
+  {
+    "text": "In the year that Tartan came to Ashdod, (when Sargon the king of Assyria sent him,) and fought against Ashdod, and took it;",
+    "reference": "Isaiah 20:1 (AKJV)",
+    "connected_to": "Isaiah 20:2"
+  },
+  {
+    "text": "At the same time spoke the LORD by Isaiah the son of Amoz, saying, Go and loose the sackcloth from off your loins, and put off your shoe from your foot. And he did so, walking naked and barefoot.",
+    "reference": "Isaiah 20:2 (AKJV)",
+    "connected_to": "Isaiah 20:3",
+    "connected_from": "Isaiah 20:1"
+  },
+  {
+    "text": "And the LORD said, Like as my servant Isaiah has walked naked and barefoot three years for a sign and wonder on Egypt and on Ethiopia;",
+    "reference": "Isaiah 20:3 (AKJV)",
+    "connected_to": "Isaiah 20:4",
+    "connected_from": "Isaiah 20:2"
+  },
+  {
+    "text": "So shall the king of Assyria lead away the Egyptians prisoners, and the Ethiopians captives, young and old, naked and barefoot, even with their buttocks uncovered, to the shame of Egypt.",
+    "reference": "Isaiah 20:4 (AKJV)",
+    "connected_to": "Isaiah 20:5",
+    "connected_from": "Isaiah 20:3"
+  },
+  {
+    "text": "And they shall be afraid and ashamed of Ethiopia their expectation, and of Egypt their glory.",
+    "reference": "Isaiah 20:5 (AKJV)",
+    "connected_to": "Isaiah 20:6",
+    "connected_from": "Isaiah 20:4"
+  },
+  {
+    "text": "And the inhabitant of this isle shall say in that day, Behold, such is our expectation, where we flee for help to be delivered from the king of Assyria: and how shall we escape?",
+    "reference": "Isaiah 20:6 (AKJV)",
+    "connected_from": "Isaiah 20:5"
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "text": "A Psalm of Asaph (gatherer). <span class=|reftext|><a href=|#|><b>1</b></a> The nations, O God {Elohim}, have invaded Your inheritance; they have defiled Your holy temple and reduced Jerusalem (city of peace) to rubble.",
+    "reference": "Psalm 79:1 (BAB)",
+    "connected_to": "Psalm 79:2"
+  },
+  {
+    "text": "They have given the corpses of Your servants as food to the birds of the air, the flesh of Your saints to the beasts of the earth.",
+    "reference": "Psalm 79:2 (BAB)",
+    "connected_to": "Psalm 79:3",
+    "connected_from": "Psalm 79:1"
+  },
+  {
+    "text": "They have poured out their blood like water all around Jerusalem (city of peace), and there is no one to bury the dead.",
+    "reference": "Psalm 79:3 (BAB)",
+    "connected_to": "Psalm 79:4",
+    "connected_from": "Psalm 79:2"
+  },
+  {
+    "text": "We have become a reproach to our neighbors, a scorn and derision to those around us.",
+    "reference": "Psalm 79:4 (BAB)",
+    "connected_to": "Psalm 79:5",
+    "connected_from": "Psalm 79:3"
+  },
+  {
+    "text": "How long, O LORD {YHWH}? Will You be angry forever? Will Your jealousy burn like fire?",
+    "reference": "Psalm 79:5 (BAB)",
+    "connected_to": "Psalm 79:6",
+    "connected_from": "Psalm 79:4"
+  },
+  {
+    "text": "Pour out Your wrath on the nations that do not acknowledge You, on the kingdoms that refuse to call on Your name,",
+    "reference": "Psalm 79:6 (BAB)",
+    "connected_to": "Psalm 79:7",
+    "connected_from": "Psalm 79:5"
+  },
+  {
+    "text": "for they have devoured Jacob (he grasps the heel) and devastated his homeland.",
+    "reference": "Psalm 79:7 (BAB)",
+    "connected_to": "Psalm 79:8",
+    "connected_from": "Psalm 79:6"
+  },
+  {
+    "text": "Do not hold past sins against us; let Your compassion come quickly, for we are brought low.",
+    "reference": "Psalm 79:8 (BAB)",
+    "connected_to": "Psalm 79:9",
+    "connected_from": "Psalm 79:7"
+  },
+  {
+    "text": "Help us, O God {Elohe} of our salvation, for the glory of Your name; deliver us and atone for our sins, for the sake of Your name.",
+    "reference": "Psalm 79:9 (BAB)",
+    "connected_to": "Psalm 79:10",
+    "connected_from": "Psalm 79:8"
+  },
+  {
+    "text": "Why should the nations ask, “Where is their God {Eloheikem}?” Before our eyes, make known among the nations Your vengeance for the bloodshed of Your servants.",
+    "reference": "Psalm 79:10 (BAB)",
+    "connected_to": "Psalm 79:11",
+    "connected_from": "Psalm 79:9"
+  },
+  {
+    "text": "May the groans of the captives reach You; by the strength of Your arm preserve those condemned to death.",
+    "reference": "Psalm 79:11 (BAB)",
+    "connected_to": "Psalm 79:12",
+    "connected_from": "Psalm 79:10"
+  },
+  {
+    "text": "Pay back into the laps of our neighbors sevenfold the reproach they hurled at You, O Lord {Adonai}.",
+    "reference": "Psalm 79:12 (BAB)",
+    "connected_to": "Psalm 79:13",
+    "connected_from": "Psalm 79:11"
+  },
+  {
+    "text": "Then we Your people, the sheep of Your pasture, will thank You forever; from generation to generation we will declare Your praise.",
+    "reference": "Psalm 79:13 (BAB)",
+    "connected_from": "Psalm 79:12"
+  }
+]

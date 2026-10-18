@@ -1,0 +1,102 @@
+[
+  {
+    "text": "I [am] a rose of Sharon, a lily of the valleys.",
+    "reference": "Song of Solomon 2:1 (BLB)",
+    "connected_to": "Song of Solomon 2:2"
+  },
+  {
+    "text": "Like a lily among the thorns, so is my love among the daughters.",
+    "reference": "Song of Solomon 2:2 (BLB)",
+    "connected_to": "Song of Solomon 2:3",
+    "connected_from": "Song of Solomon 2:1"
+  },
+  {
+    "text": "Like an apple tree among the trees of the woods, so [is] my beloved among the sons; in his shade I have delighted and sat down, and his fruit [is] sweet to my palate.",
+    "reference": "Song of Solomon 2:3 (BLB)",
+    "connected_to": "Song of Solomon 2:4",
+    "connected_from": "Song of Solomon 2:2"
+  },
+  {
+    "text": "He has brought me to the house of wine, and his banner over me [was] love.",
+    "reference": "Song of Solomon 2:4 (BLB)",
+    "connected_to": "Song of Solomon 2:5",
+    "connected_from": "Song of Solomon 2:3"
+  },
+  {
+    "text": "Sustain me with raisin-cakes, refresh me with apples—for I [am] sick with love.",
+    "reference": "Song of Solomon 2:5 (BLB)",
+    "connected_to": "Song of Solomon 2:6",
+    "connected_from": "Song of Solomon 2:4"
+  },
+  {
+    "text": "His left hand [is] under my head, and his right hand embraces me.",
+    "reference": "Song of Solomon 2:6 (BLB)",
+    "connected_to": "Song of Solomon 2:7",
+    "connected_from": "Song of Solomon 2:5"
+  },
+  {
+    "text": "I adjure you⁺, O daughters of Jerusalem, by the gazelles or by the does of the field—do not arouse or awaken love, until it pleases.",
+    "reference": "Song of Solomon 2:7 (BLB)",
+    "connected_to": "Song of Solomon 2:8",
+    "connected_from": "Song of Solomon 2:6"
+  },
+  {
+    "text": "The voice of my beloved! Behold, this one is coming, leaping over the mountains, bounding over the hills.",
+    "reference": "Song of Solomon 2:8 (BLB)",
+    "connected_to": "Song of Solomon 2:9",
+    "connected_from": "Song of Solomon 2:7"
+  },
+  {
+    "text": "My beloved [is] being like to a gazelle, or to a young stag of the deer. Behold, this one is standing behind our wall, gazing through the windows, peering through the lattices.",
+    "reference": "Song of Solomon 2:9 (BLB)",
+    "connected_to": "Song of Solomon 2:10",
+    "connected_from": "Song of Solomon 2:8"
+  },
+  {
+    "text": "My beloved answered and said to me, “Rise up, my my darling, my beautiful one, come away yourself!",
+    "reference": "Song of Solomon 2:10 (BLB)",
+    "connected_to": "Song of Solomon 2:11",
+    "connected_from": "Song of Solomon 2:9"
+  },
+  {
+    "text": "For, behold, the winter has passed by; the rain has passed; it has gone itself.",
+    "reference": "Song of Solomon 2:11 (BLB)",
+    "connected_to": "Song of Solomon 2:12",
+    "connected_from": "Song of Solomon 2:10"
+  },
+  {
+    "text": "The blossoms have appeared in the land, the time of singing has come, and the voice of the turtledove is heard in our land;",
+    "reference": "Song of Solomon 2:12 (BLB)",
+    "connected_to": "Song of Solomon 2:13",
+    "connected_from": "Song of Solomon 2:11"
+  },
+  {
+    "text": "the fig tree puts forth her green figs, and the vines [in] blossom have given forth the fragrance. Arise, come my darling, my beautiful one, and come away yourself!”",
+    "reference": "Song of Solomon 2:13 (BLB)",
+    "connected_to": "Song of Solomon 2:14",
+    "connected_from": "Song of Solomon 2:12"
+  },
+  {
+    "text": "O my dove in the clefts of the rock, in the crevices of the cliff, let me see your face, let me hear your voice; for your voice [is] sweet and your appearance [is] lovely.",
+    "reference": "Song of Solomon 2:14 (BLB)",
+    "connected_to": "Song of Solomon 2:15",
+    "connected_from": "Song of Solomon 2:13"
+  },
+  {
+    "text": "Catch for us the foxes, the little foxes ruining the vineyards, and our vineyards [are] in blossom.",
+    "reference": "Song of Solomon 2:15 (BLB)",
+    "connected_to": "Song of Solomon 2:16",
+    "connected_from": "Song of Solomon 2:14"
+  },
+  {
+    "text": "My beloved [is] unto me and I unto him; he is grazing among the lilies.",
+    "reference": "Song of Solomon 2:16 (BLB)",
+    "connected_to": "Song of Solomon 2:17",
+    "connected_from": "Song of Solomon 2:15"
+  },
+  {
+    "text": "Until the day breathes and the shadows flee, may you turn and be likened yourself, my beloved, to a gazelle or to a young stag of the deer, upon the mountains of Bether.",
+    "reference": "Song of Solomon 2:17 (BLB)",
+    "connected_from": "Song of Solomon 2:16"
+  }
+]

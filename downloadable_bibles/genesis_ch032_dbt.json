@@ -1,0 +1,192 @@
+[
+  {
+    "text": "And Jacob went on his way; and the angels of God met him.",
+    "reference": "Genesis 32:1 (DBT)",
+    "connected_to": "Genesis 32:2"
+  },
+  {
+    "text": "And when Jacob saw them he said, This is the camp of God. And he called the name of that place Mahanaim.",
+    "reference": "Genesis 32:2 (DBT)",
+    "connected_to": "Genesis 32:3",
+    "connected_from": "Genesis 32:1"
+  },
+  {
+    "text": "And Jacob sent messengers before his face to Esau his brother, into the land of Seir, the fields of Edom.",
+    "reference": "Genesis 32:3 (DBT)",
+    "connected_to": "Genesis 32:4",
+    "connected_from": "Genesis 32:2"
+  },
+  {
+    "text": "And he commanded them, saying, Thus shall ye speak to my lord, to Esau: Thy servant Jacob speaks thus—With Laban have I sojourned and tarried until now;",
+    "reference": "Genesis 32:4 (DBT)",
+    "connected_to": "Genesis 32:5",
+    "connected_from": "Genesis 32:3"
+  },
+  {
+    "text": "and I have oxen, and asses, sheep, and bondmen, and bondwomen; and I have sent to tell my lord, that I may find favour in thine eyes.",
+    "reference": "Genesis 32:5 (DBT)",
+    "connected_to": "Genesis 32:6",
+    "connected_from": "Genesis 32:4"
+  },
+  {
+    "text": "And the messengers returned to Jacob, saying, We came to thy brother, to Esau; and he also is coming to meet thee, and four hundred men with him.",
+    "reference": "Genesis 32:6 (DBT)",
+    "connected_to": "Genesis 32:7",
+    "connected_from": "Genesis 32:5"
+  },
+  {
+    "text": "Then Jacob was greatly afraid, and was distressed; and he divided the people that were with him, and the sheep and the cattle and the camels, into two troops.",
+    "reference": "Genesis 32:7 (DBT)",
+    "connected_to": "Genesis 32:8",
+    "connected_from": "Genesis 32:6"
+  },
+  {
+    "text": "And he said, If Esau come to the one troop and smite it, then the other troop which is left shall escape.",
+    "reference": "Genesis 32:8 (DBT)",
+    "connected_to": "Genesis 32:9",
+    "connected_from": "Genesis 32:7"
+  },
+  {
+    "text": "And Jacob said, God of my father Abraham, and God of my father Isaac, Jehovah, who saidst unto me: Return into thy country and to thy kindred, and I will do thee good,",
+    "reference": "Genesis 32:9 (DBT)",
+    "connected_to": "Genesis 32:10",
+    "connected_from": "Genesis 32:8"
+  },
+  {
+    "text": "—I am too small for all the loving-kindness and all the faithfulness that thou hast shewn unto thy servant; for with my staff I passed over this Jordan, and now I am become two troops.",
+    "reference": "Genesis 32:10 (DBT)",
+    "connected_to": "Genesis 32:11",
+    "connected_from": "Genesis 32:9"
+  },
+  {
+    "text": "Deliver me, I pray thee, from the hand of my brother, from the hand of Esau; for I fear him, lest he come and smite me, [and] the mother with the children.",
+    "reference": "Genesis 32:11 (DBT)",
+    "connected_to": "Genesis 32:12",
+    "connected_from": "Genesis 32:10"
+  },
+  {
+    "text": "And thou saidst, I will certainly deal well with thee, and make thy seed as the sand of the sea, which cannot be numbered for multitude.",
+    "reference": "Genesis 32:12 (DBT)",
+    "connected_to": "Genesis 32:13",
+    "connected_from": "Genesis 32:11"
+  },
+  {
+    "text": "And he lodged there that night; and took of what came to his hand a gift for Esau his brother—",
+    "reference": "Genesis 32:13 (DBT)",
+    "connected_to": "Genesis 32:14",
+    "connected_from": "Genesis 32:12"
+  },
+  {
+    "text": "two hundred she-goats, and twenty he-goats; two hundred ewes, and twenty rams;",
+    "reference": "Genesis 32:14 (DBT)",
+    "connected_to": "Genesis 32:15",
+    "connected_from": "Genesis 32:13"
+  },
+  {
+    "text": "thirty milch camels with their colts; forty kine, and ten bulls; twenty she-asses, and ten young asses.",
+    "reference": "Genesis 32:15 (DBT)",
+    "connected_to": "Genesis 32:16",
+    "connected_from": "Genesis 32:14"
+  },
+  {
+    "text": "And he delivered [them] into the hand of his servants, every drove by itself; and he said to his servants, Go on before me, and put a space between drove and drove.",
+    "reference": "Genesis 32:16 (DBT)",
+    "connected_to": "Genesis 32:17",
+    "connected_from": "Genesis 32:15"
+  },
+  {
+    "text": "And he commanded the foremost, saying, When Esau my brother meets thee, and asks thee, saying, Whose art thou, and where goest thou, and whose are these before thee?",
+    "reference": "Genesis 32:17 (DBT)",
+    "connected_to": "Genesis 32:18",
+    "connected_from": "Genesis 32:16"
+  },
+  {
+    "text": "—then thou shalt say, Thy servant Jacob’s: it is a gift sent to my lord, to Esau. And behold, he also is behind us.",
+    "reference": "Genesis 32:18 (DBT)",
+    "connected_to": "Genesis 32:19",
+    "connected_from": "Genesis 32:17"
+  },
+  {
+    "text": "And so commanded he the second, and the third, and all that followed the droves, saying, According to this word shall ye speak to Esau when ye find him.",
+    "reference": "Genesis 32:19 (DBT)",
+    "connected_to": "Genesis 32:20",
+    "connected_from": "Genesis 32:18"
+  },
+  {
+    "text": "And, moreover, ye shall say, Behold, thy servant Jacob is behind us. For he said, I will propitiate him with the gift that goes before me, and afterwards I will see his face: perhaps he will accept me.",
+    "reference": "Genesis 32:20 (DBT)",
+    "connected_to": "Genesis 32:21",
+    "connected_from": "Genesis 32:19"
+  },
+  {
+    "text": "And the gift went over before him; and he himself lodged that night in the camp.",
+    "reference": "Genesis 32:21 (DBT)",
+    "connected_to": "Genesis 32:22",
+    "connected_from": "Genesis 32:20"
+  },
+  {
+    "text": "And he rose up that night, and took his two wives, and his two maidservants, and his eleven sons, and passed over the ford of the Jabbok;",
+    "reference": "Genesis 32:22 (DBT)",
+    "connected_to": "Genesis 32:23",
+    "connected_from": "Genesis 32:21"
+  },
+  {
+    "text": "and he took them and led them over the river, and led over what he had.",
+    "reference": "Genesis 32:23 (DBT)",
+    "connected_to": "Genesis 32:24",
+    "connected_from": "Genesis 32:22"
+  },
+  {
+    "text": "And Jacob remained alone; and a man wrestled with him until the rising of the dawn.",
+    "reference": "Genesis 32:24 (DBT)",
+    "connected_to": "Genesis 32:25",
+    "connected_from": "Genesis 32:23"
+  },
+  {
+    "text": "And when he saw that he did not prevail against him, he touched the joint of his thigh; and the joint of Jacob’s thigh was dislocated as he wrestled with him.",
+    "reference": "Genesis 32:25 (DBT)",
+    "connected_to": "Genesis 32:26",
+    "connected_from": "Genesis 32:24"
+  },
+  {
+    "text": "And he said, Let me go, for the dawn ariseth. And he said, I will not let thee go except thou bless me.",
+    "reference": "Genesis 32:26 (DBT)",
+    "connected_to": "Genesis 32:27",
+    "connected_from": "Genesis 32:25"
+  },
+  {
+    "text": "And he said to him, What is thy name? And he said, Jacob.",
+    "reference": "Genesis 32:27 (DBT)",
+    "connected_to": "Genesis 32:28",
+    "connected_from": "Genesis 32:26"
+  },
+  {
+    "text": "And he said, Thy name shall not henceforth be called Jacob, but Israel; for thou hast wrestled with God, and with men, and hast prevailed.",
+    "reference": "Genesis 32:28 (DBT)",
+    "connected_to": "Genesis 32:29",
+    "connected_from": "Genesis 32:27"
+  },
+  {
+    "text": "And Jacob asked and said, Tell [me], I pray thee, thy name. And he said, How is it that thou askest after my name? And he blessed him there.",
+    "reference": "Genesis 32:29 (DBT)",
+    "connected_to": "Genesis 32:30",
+    "connected_from": "Genesis 32:28"
+  },
+  {
+    "text": "And Jacob called the name of the place Peniel—For I have seen God face to face, and my life has been preserved.",
+    "reference": "Genesis 32:30 (DBT)",
+    "connected_to": "Genesis 32:31",
+    "connected_from": "Genesis 32:29"
+  },
+  {
+    "text": "And as he passed over Peniel, the sun rose upon him; and he limped upon his hip.",
+    "reference": "Genesis 32:31 (DBT)",
+    "connected_to": "Genesis 32:32",
+    "connected_from": "Genesis 32:30"
+  },
+  {
+    "text": "Therefore the children of Israel do not eat of the sinew that is over the joint of the thigh, to this day; because he touched the joint of Jacob’s thigh—the sinew.",
+    "reference": "Genesis 32:32 (DBT)",
+    "connected_from": "Genesis 32:31"
+  }
+]

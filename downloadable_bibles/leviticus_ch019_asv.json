@@ -1,0 +1,222 @@
+[
+  {
+    "text": "And Jehovah spake unto Moses, saying,",
+    "reference": "Leviticus 19:1 (ASV)",
+    "connected_to": "Leviticus 19:2"
+  },
+  {
+    "text": "Speak unto all the congregation of the children of Israel, and say unto them, Ye shall be holy; for I Jehovah your God am holy.",
+    "reference": "Leviticus 19:2 (ASV)",
+    "connected_to": "Leviticus 19:3",
+    "connected_from": "Leviticus 19:1"
+  },
+  {
+    "text": "Ye shall fear every man his mother, and his father; and ye shall keep my sabbaths: I am Jehovah your God.",
+    "reference": "Leviticus 19:3 (ASV)",
+    "connected_to": "Leviticus 19:4",
+    "connected_from": "Leviticus 19:2"
+  },
+  {
+    "text": "Turn ye not unto idols, nor make to yourselves molten gods: I am Jehovah your God.",
+    "reference": "Leviticus 19:4 (ASV)",
+    "connected_to": "Leviticus 19:5",
+    "connected_from": "Leviticus 19:3"
+  },
+  {
+    "text": "And when ye offer a sacrifice of peace-offerings unto Jehovah, ye shall offer it that ye may be accepted.",
+    "reference": "Leviticus 19:5 (ASV)",
+    "connected_to": "Leviticus 19:6",
+    "connected_from": "Leviticus 19:4"
+  },
+  {
+    "text": "It shall be eaten the same day ye offer it, and on the morrow: and if aught remain until the third day, it shall be burnt with fire.",
+    "reference": "Leviticus 19:6 (ASV)",
+    "connected_to": "Leviticus 19:7",
+    "connected_from": "Leviticus 19:5"
+  },
+  {
+    "text": "And if it be eaten at all on the third day, it is an abomination; it shall not be accepted:",
+    "reference": "Leviticus 19:7 (ASV)",
+    "connected_to": "Leviticus 19:8",
+    "connected_from": "Leviticus 19:6"
+  },
+  {
+    "text": "but every one that eateth it shall bear his iniquity, because he hath profaned the holy thing of Jehovah: and that soul shall be cut off from his people.",
+    "reference": "Leviticus 19:8 (ASV)",
+    "connected_to": "Leviticus 19:9",
+    "connected_from": "Leviticus 19:7"
+  },
+  {
+    "text": "And when ye reap the harvest of your land, thou shalt not wholly reap the corners of thy field, neither shalt thou gather the gleaning of thy harvest.",
+    "reference": "Leviticus 19:9 (ASV)",
+    "connected_to": "Leviticus 19:10",
+    "connected_from": "Leviticus 19:8"
+  },
+  {
+    "text": "And thou shalt not glean thy vineyard, neither shalt thou gather the fallen fruit of thy vineyard; thou shalt leave them for the poor and for the sojourner: I am Jehovah your God.",
+    "reference": "Leviticus 19:10 (ASV)",
+    "connected_to": "Leviticus 19:11",
+    "connected_from": "Leviticus 19:9"
+  },
+  {
+    "text": "Ye shall not steal; neither shall ye deal falsely, nor lie one to another.",
+    "reference": "Leviticus 19:11 (ASV)",
+    "connected_to": "Leviticus 19:12",
+    "connected_from": "Leviticus 19:10"
+  },
+  {
+    "text": "And ye shall not swear by my name falsely, and profane the name of thy God: I am Jehovah.",
+    "reference": "Leviticus 19:12 (ASV)",
+    "connected_to": "Leviticus 19:13",
+    "connected_from": "Leviticus 19:11"
+  },
+  {
+    "text": "Thou shalt not oppress thy neighbor, nor rob him: the wages of a hired servant shall not abide with thee all night until the morning.",
+    "reference": "Leviticus 19:13 (ASV)",
+    "connected_to": "Leviticus 19:14",
+    "connected_from": "Leviticus 19:12"
+  },
+  {
+    "text": "Thou shalt not curse the deaf, nor put a stumblingblock before the blind; but thou shalt fear thy God: I am Jehovah.",
+    "reference": "Leviticus 19:14 (ASV)",
+    "connected_to": "Leviticus 19:15",
+    "connected_from": "Leviticus 19:13"
+  },
+  {
+    "text": "Ye shall do no unrighteousness in judgment: thou shalt not respect the person of the poor, nor honor the person of the mighty; but in righteousness shalt thou judge thy neighbor.",
+    "reference": "Leviticus 19:15 (ASV)",
+    "connected_to": "Leviticus 19:16",
+    "connected_from": "Leviticus 19:14"
+  },
+  {
+    "text": "Thou shalt not go up and down as a talebearer among thy people: neither shalt thou stand against the blood of thy neighbor: I am Jehovah.",
+    "reference": "Leviticus 19:16 (ASV)",
+    "connected_to": "Leviticus 19:17",
+    "connected_from": "Leviticus 19:15"
+  },
+  {
+    "text": "Thou shalt not hate thy brother in thy heart: thou shalt surely rebuke thy neighbor, and not bear sin because of him.",
+    "reference": "Leviticus 19:17 (ASV)",
+    "connected_to": "Leviticus 19:18",
+    "connected_from": "Leviticus 19:16"
+  },
+  {
+    "text": "Thou shalt not take vengeance, nor bear any grudge against the children of thy people; but thou shalt love thy neighbor as thyself: I am Jehovah.",
+    "reference": "Leviticus 19:18 (ASV)",
+    "connected_to": "Leviticus 19:19",
+    "connected_from": "Leviticus 19:17"
+  },
+  {
+    "text": "Ye shall keep my statutes. Thou shalt not let thy cattle gender with a diverse kind: thou shalt not sow thy field with two kinds of seed: neither shall there come upon thee a garment of two kinds of stuff mingled together.",
+    "reference": "Leviticus 19:19 (ASV)",
+    "connected_to": "Leviticus 19:20",
+    "connected_from": "Leviticus 19:18"
+  },
+  {
+    "text": "And whosoever lieth carnally with a woman, that is a bondmaid, betrothed to a husband, and not at all redeemed, nor freedom given her; they shall be punished; they shall not be put to death, because she was not free.",
+    "reference": "Leviticus 19:20 (ASV)",
+    "connected_to": "Leviticus 19:21",
+    "connected_from": "Leviticus 19:19"
+  },
+  {
+    "text": "And he shall bring his trespass-offering unto Jehovah, unto the door of the tent of meeting, even a ram for a trespass-offering.",
+    "reference": "Leviticus 19:21 (ASV)",
+    "connected_to": "Leviticus 19:22",
+    "connected_from": "Leviticus 19:20"
+  },
+  {
+    "text": "And the priest shall make atonement for him with the ram of the trespass-offering before Jehovah for his sin which he hath sinned: and the sin which he hath sinned shall be forgiven him.",
+    "reference": "Leviticus 19:22 (ASV)",
+    "connected_to": "Leviticus 19:23",
+    "connected_from": "Leviticus 19:21"
+  },
+  {
+    "text": "And when ye shall come into the land, and shall have planted all manner of trees for food, then ye shall count the fruit thereof as their uncircumcision: three years shall they be as uncircumcised unto you; it shall not be eaten.",
+    "reference": "Leviticus 19:23 (ASV)",
+    "connected_to": "Leviticus 19:24",
+    "connected_from": "Leviticus 19:22"
+  },
+  {
+    "text": "But in the fourth year all the fruit thereof shall be holy, for giving praise unto Jehovah.",
+    "reference": "Leviticus 19:24 (ASV)",
+    "connected_to": "Leviticus 19:25",
+    "connected_from": "Leviticus 19:23"
+  },
+  {
+    "text": "And in the fifth year shall ye eat of the fruit thereof, that it may yield unto you the increase thereof: I am Jehovah your God.",
+    "reference": "Leviticus 19:25 (ASV)",
+    "connected_to": "Leviticus 19:26",
+    "connected_from": "Leviticus 19:24"
+  },
+  {
+    "text": "Ye shall not eat anything with the blood: neither shall ye use enchantments, nor practise augury.",
+    "reference": "Leviticus 19:26 (ASV)",
+    "connected_to": "Leviticus 19:27",
+    "connected_from": "Leviticus 19:25"
+  },
+  {
+    "text": "Ye shall not round the corners of your heads, neither shalt thou mar the corners of thy beard.",
+    "reference": "Leviticus 19:27 (ASV)",
+    "connected_to": "Leviticus 19:28",
+    "connected_from": "Leviticus 19:26"
+  },
+  {
+    "text": "Ye shall not make any cuttings in your flesh for the dead, nor print any marks upon you: I am Jehovah.",
+    "reference": "Leviticus 19:28 (ASV)",
+    "connected_to": "Leviticus 19:29",
+    "connected_from": "Leviticus 19:27"
+  },
+  {
+    "text": "Profane not thy daughter, to make her a harlot; lest the land fall to whoredom, and the land become full of wickedness.",
+    "reference": "Leviticus 19:29 (ASV)",
+    "connected_to": "Leviticus 19:30",
+    "connected_from": "Leviticus 19:28"
+  },
+  {
+    "text": "Ye shall keep my sabbaths, and reverence my sanctuary; I am Jehovah.",
+    "reference": "Leviticus 19:30 (ASV)",
+    "connected_to": "Leviticus 19:31",
+    "connected_from": "Leviticus 19:29"
+  },
+  {
+    "text": "Turn ye not unto them that have familiar spirits, nor unto the wizards; seek them not out, to be defiled by them: I am Jehovah your God.",
+    "reference": "Leviticus 19:31 (ASV)",
+    "connected_to": "Leviticus 19:32",
+    "connected_from": "Leviticus 19:30"
+  },
+  {
+    "text": "Thou shalt rise up before the hoary head, and honor the face of the old man, and thou shalt fear thy God: I am Jehovah.",
+    "reference": "Leviticus 19:32 (ASV)",
+    "connected_to": "Leviticus 19:33",
+    "connected_from": "Leviticus 19:31"
+  },
+  {
+    "text": "And if a stranger sojourn with thee in your land, ye shall not do him wrong.",
+    "reference": "Leviticus 19:33 (ASV)",
+    "connected_to": "Leviticus 19:34",
+    "connected_from": "Leviticus 19:32"
+  },
+  {
+    "text": "The stranger that sojourneth with you shall be unto you as the home-born among you, and thou shalt love him as thyself; for ye were sojourners in the land of Egypt: I am Jehovah your God.",
+    "reference": "Leviticus 19:34 (ASV)",
+    "connected_to": "Leviticus 19:35",
+    "connected_from": "Leviticus 19:33"
+  },
+  {
+    "text": "Ye shall do no unrighteousness in judgment, in measures of length, of weight, or of quantity.",
+    "reference": "Leviticus 19:35 (ASV)",
+    "connected_to": "Leviticus 19:36",
+    "connected_from": "Leviticus 19:34"
+  },
+  {
+    "text": "Just balances, just weights, a just ephah, and a just hin, shall ye have: I am Jehovah your God, who brought you out of the land of Egypt.",
+    "reference": "Leviticus 19:36 (ASV)",
+    "connected_to": "Leviticus 19:37",
+    "connected_from": "Leviticus 19:35"
+  },
+  {
+    "text": "And ye shall observe all my statutes, and all mine ordinances, and do them: I am Jehovah.",
+    "reference": "Leviticus 19:37 (ASV)",
+    "connected_from": "Leviticus 19:36"
+  }
+]

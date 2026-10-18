@@ -1,0 +1,294 @@
+[
+  {
+    "text": "And it came to pass in the seventh year, in the fifth month, the tenth day of the month, that certain of the elders of Israel came to inquire of the LORD, and sat before me.",
+    "reference": "Ezekiel 20:1 (JPS)",
+    "connected_to": "Ezekiel 20:2"
+  },
+  {
+    "text": "And the word of the LORD came unto me, saying:",
+    "reference": "Ezekiel 20:2 (JPS)",
+    "connected_to": "Ezekiel 20:3",
+    "connected_from": "Ezekiel 20:1"
+  },
+  {
+    "text": "Son of man, speak unto the elders of Israel, and say unto them: Thus saith the Lord GOD: Are ye come to inquire of Me? As I live, saith the Lord GOD, I will not be inquired of by you.",
+    "reference": "Ezekiel 20:3 (JPS)",
+    "connected_to": "Ezekiel 20:4",
+    "connected_from": "Ezekiel 20:2"
+  },
+  {
+    "text": "Wilt thou judge them, son of man, wilt thou judge them? cause them to know the abominations of their fathers;",
+    "reference": "Ezekiel 20:4 (JPS)",
+    "connected_to": "Ezekiel 20:5",
+    "connected_from": "Ezekiel 20:3"
+  },
+  {
+    "text": "and say unto them: Thus saith the Lord GOD: In the day when I chose Israel, and lifted up My hand unto the seed of the house of Jacob, and made Myself known unto them in the land of Egypt, when I lifted up My hand unto them, saying: I am the LORD your God;",
+    "reference": "Ezekiel 20:5 (JPS)",
+    "connected_to": "Ezekiel 20:6",
+    "connected_from": "Ezekiel 20:4"
+  },
+  {
+    "text": "in that day I lifted up My hand unto them, to bring them forth out of the land of Egypt into a land that I had sought out for them, flowing with milk and honey, which is the beauty of all lands;",
+    "reference": "Ezekiel 20:6 (JPS)",
+    "connected_to": "Ezekiel 20:7",
+    "connected_from": "Ezekiel 20:5"
+  },
+  {
+    "text": "and I said unto them: Cast ye away every man the detestable things of his eyes, and defile not yourselves with the idols of Egypt; I am the LORD your God.",
+    "reference": "Ezekiel 20:7 (JPS)",
+    "connected_to": "Ezekiel 20:8",
+    "connected_from": "Ezekiel 20:6"
+  },
+  {
+    "text": "But they rebelled against Me, and would not hearken unto Me; they did not every man cast away the detestable things of their eyes, neither did they forsake the idols of Egypt; then I said I would pour out My fury upon them, to spend My anger upon them in the midst of the land of Egypt.",
+    "reference": "Ezekiel 20:8 (JPS)",
+    "connected_to": "Ezekiel 20:9",
+    "connected_from": "Ezekiel 20:7"
+  },
+  {
+    "text": "But I wrought for My name’s sake, that it should not be profaned in the sight of the nations, among whom they were, in whose sight I made Myself known unto them, so as to bring them forth out of the land of Egypt.",
+    "reference": "Ezekiel 20:9 (JPS)",
+    "connected_to": "Ezekiel 20:10",
+    "connected_from": "Ezekiel 20:8"
+  },
+  {
+    "text": "So I caused them to go forth out of the land of Egypt, and brought them into the wilderness.",
+    "reference": "Ezekiel 20:10 (JPS)",
+    "connected_to": "Ezekiel 20:11",
+    "connected_from": "Ezekiel 20:9"
+  },
+  {
+    "text": "And I gave them My statutes, and taught them Mine ordinances, which if a man do, he shall live by them.",
+    "reference": "Ezekiel 20:11 (JPS)",
+    "connected_to": "Ezekiel 20:12",
+    "connected_from": "Ezekiel 20:10"
+  },
+  {
+    "text": "Moreover also I gave them My sabbaths, to be a sign between Me and them, that they might know that I am the LORD that sanctify them.",
+    "reference": "Ezekiel 20:12 (JPS)",
+    "connected_to": "Ezekiel 20:13",
+    "connected_from": "Ezekiel 20:11"
+  },
+  {
+    "text": "But the house of Israel rebelled against Me in the wilderness; they walked not in My statutes, and they rejected Mine ordinances, which if a man do, he shall live by them, and My sabbaths they greatly profaned; then I said I would pour out My fury upon them in the wilderness, to consume them.",
+    "reference": "Ezekiel 20:13 (JPS)",
+    "connected_to": "Ezekiel 20:14",
+    "connected_from": "Ezekiel 20:12"
+  },
+  {
+    "text": "But I wrought for My name’s sake, that it should not be profaned in the sight of the nations, in whose sight I brought them out.",
+    "reference": "Ezekiel 20:14 (JPS)",
+    "connected_to": "Ezekiel 20:15",
+    "connected_from": "Ezekiel 20:13"
+  },
+  {
+    "text": "Yet also I lifted up My hand unto them in the wilderness, that I would not bring them into the land which I had given them, flowing with milk and honey, which is the beauty of all lands;",
+    "reference": "Ezekiel 20:15 (JPS)",
+    "connected_to": "Ezekiel 20:16",
+    "connected_from": "Ezekiel 20:14"
+  },
+  {
+    "text": "because they rejected Mine ordinances, and walked not in My statutes, and profaned My sabbaths—for their heart went after their idols.",
+    "reference": "Ezekiel 20:16 (JPS)",
+    "connected_to": "Ezekiel 20:17",
+    "connected_from": "Ezekiel 20:15"
+  },
+  {
+    "text": "Nevertheless Mine eye spared them from destroying them, neither did I make a full end of them in the wilderness.",
+    "reference": "Ezekiel 20:17 (JPS)",
+    "connected_to": "Ezekiel 20:18",
+    "connected_from": "Ezekiel 20:16"
+  },
+  {
+    "text": "And I said unto their children in the wilderness: Walk ye not in the statutes of your fathers, neither observe their ordinances, nor defile yourselves with their idols;",
+    "reference": "Ezekiel 20:18 (JPS)",
+    "connected_to": "Ezekiel 20:19",
+    "connected_from": "Ezekiel 20:17"
+  },
+  {
+    "text": "I am the LORD your God; walk in My statutes, and keep Mine ordinances, and do them;",
+    "reference": "Ezekiel 20:19 (JPS)",
+    "connected_to": "Ezekiel 20:20",
+    "connected_from": "Ezekiel 20:18"
+  },
+  {
+    "text": "and hallow My sabbaths, and they shall be a sign between Me and you, that ye may know that I am the LORD your God.",
+    "reference": "Ezekiel 20:20 (JPS)",
+    "connected_to": "Ezekiel 20:21",
+    "connected_from": "Ezekiel 20:19"
+  },
+  {
+    "text": "But the children rebelled against Me; they walked not in My statutes, neither kept Mine ordinances to do them, which if a man do, he shall live by them; they profaned My sabbaths; then I said I would pour out My fury upon them, to spend My anger upon them in the wilderness.",
+    "reference": "Ezekiel 20:21 (JPS)",
+    "connected_to": "Ezekiel 20:22",
+    "connected_from": "Ezekiel 20:20"
+  },
+  {
+    "text": "Nevertheless I withdrew My hand, and wrought for My name’s sake, that it should not be profaned in the sight of the nations, in whose sight I brought them forth.",
+    "reference": "Ezekiel 20:22 (JPS)",
+    "connected_to": "Ezekiel 20:23",
+    "connected_from": "Ezekiel 20:21"
+  },
+  {
+    "text": "I lifted up My hand unto them also in the wilderness, that I would scatter them among the nations, and disperse them through the countries;",
+    "reference": "Ezekiel 20:23 (JPS)",
+    "connected_to": "Ezekiel 20:24",
+    "connected_from": "Ezekiel 20:22"
+  },
+  {
+    "text": "because they had not executed Mine ordinances, but had rejected My statutes, and had profaned My sabbaths, and their eyes were after their fathers’ idols.",
+    "reference": "Ezekiel 20:24 (JPS)",
+    "connected_to": "Ezekiel 20:25",
+    "connected_from": "Ezekiel 20:23"
+  },
+  {
+    "text": "Wherefore I gave them also statutes that were not good, and ordinances whereby they should not live;",
+    "reference": "Ezekiel 20:25 (JPS)",
+    "connected_to": "Ezekiel 20:26",
+    "connected_from": "Ezekiel 20:24"
+  },
+  {
+    "text": "and I polluted them in their own gifts, in that they set apart all that openeth the womb, that I might destroy them, to the end that they might know that I am the LORD.",
+    "reference": "Ezekiel 20:26 (JPS)",
+    "connected_to": "Ezekiel 20:27",
+    "connected_from": "Ezekiel 20:25"
+  },
+  {
+    "text": "Therefore, son of man, speak unto the house of Israel, and say unto them: Thus saith the Lord GOD: In this moreover have your fathers blasphemed Me, in that they dealt treacherously with Me.",
+    "reference": "Ezekiel 20:27 (JPS)",
+    "connected_to": "Ezekiel 20:28",
+    "connected_from": "Ezekiel 20:26"
+  },
+  {
+    "text": "For when I had brought them into the land, which I lifted up My hand to give unto them, then they saw every high hill, and every thick tree, and they offered there their sacrifices, and there they presented the provocation of their offering, there also they made their sweet savour, and there they poured out their drink-offerings.",
+    "reference": "Ezekiel 20:28 (JPS)",
+    "connected_to": "Ezekiel 20:29",
+    "connected_from": "Ezekiel 20:27"
+  },
+  {
+    "text": "Then I said unto them: What meaneth the high place whereunto ye go? So the name thereof is called Bamah unto this day.",
+    "reference": "Ezekiel 20:29 (JPS)",
+    "connected_to": "Ezekiel 20:30",
+    "connected_from": "Ezekiel 20:28"
+  },
+  {
+    "text": "Wherefore say unto the house of Israel: Thus saith the Lord GOD: When ye pollute yourselves after the manner of your fathers, and go after their abominations,",
+    "reference": "Ezekiel 20:30 (JPS)",
+    "connected_to": "Ezekiel 20:31",
+    "connected_from": "Ezekiel 20:29"
+  },
+  {
+    "text": "and when, in offering your gifts, in making your sons to pass through the fire, ye pollute yourselves with all your idols, unto this day; shall I then be inquired of by you, O house of Israel? As I live, saith the Lord GOD, I will not be inquired of by you;",
+    "reference": "Ezekiel 20:31 (JPS)",
+    "connected_to": "Ezekiel 20:32",
+    "connected_from": "Ezekiel 20:30"
+  },
+  {
+    "text": "and that which cometh into your mind shall not be at all; in that ye say: We will be as the nations, as the families of the countries, to serve wood and stone.",
+    "reference": "Ezekiel 20:32 (JPS)",
+    "connected_to": "Ezekiel 20:33",
+    "connected_from": "Ezekiel 20:31"
+  },
+  {
+    "text": "As I live, saith the Lord GOD, surely with a mighty hand, and with an outstretched arm, and with fury poured out, will I be king over you;",
+    "reference": "Ezekiel 20:33 (JPS)",
+    "connected_to": "Ezekiel 20:34",
+    "connected_from": "Ezekiel 20:32"
+  },
+  {
+    "text": "and I will bring you out from the peoples, and will gather you out of the countries wherein ye are scattered, with a mighty hand, and with an outstretched arm, and with fury poured out;",
+    "reference": "Ezekiel 20:34 (JPS)",
+    "connected_to": "Ezekiel 20:35",
+    "connected_from": "Ezekiel 20:33"
+  },
+  {
+    "text": "and I will bring you into the wilderness of the peoples, and there will I plead with you face to face.",
+    "reference": "Ezekiel 20:35 (JPS)",
+    "connected_to": "Ezekiel 20:36",
+    "connected_from": "Ezekiel 20:34"
+  },
+  {
+    "text": "Like as I pleaded with your fathers in the wilderness of the land of Egypt, so will I plead with you, saith the Lord GOD.",
+    "reference": "Ezekiel 20:36 (JPS)",
+    "connected_to": "Ezekiel 20:37",
+    "connected_from": "Ezekiel 20:35"
+  },
+  {
+    "text": "And I will cause you to pass under the rod, and I will bring you into the bond of the covenant;",
+    "reference": "Ezekiel 20:37 (JPS)",
+    "connected_to": "Ezekiel 20:38",
+    "connected_from": "Ezekiel 20:36"
+  },
+  {
+    "text": "and I will purge out from among you the rebels, and them that transgress against Me; I will bring them forth out of the land where they sojourn, but they shall not enter into the land of Israel; and ye shall know that I am the LORD.",
+    "reference": "Ezekiel 20:38 (JPS)",
+    "connected_to": "Ezekiel 20:39",
+    "connected_from": "Ezekiel 20:37"
+  },
+  {
+    "text": "As for you, O house of Israel, thus saith the Lord GOD: Go ye, serve every one his idols, even because ye will not hearken unto Me; but My holy name shall ye no more profane with your gifts, and with your idols.",
+    "reference": "Ezekiel 20:39 (JPS)",
+    "connected_to": "Ezekiel 20:40",
+    "connected_from": "Ezekiel 20:38"
+  },
+  {
+    "text": "For in My holy mountain, in the mountain of the height of Israel, saith the Lord GOD, there shall all the house of Israel, all of them, serve Me in the land; there will I accept them, and there will I require your heave-offerings, and the first of your gifts, with all your holy things.",
+    "reference": "Ezekiel 20:40 (JPS)",
+    "connected_to": "Ezekiel 20:41",
+    "connected_from": "Ezekiel 20:39"
+  },
+  {
+    "text": "With your sweet savour will I accept you, when I bring you out from the peoples, and gather you out of the countries wherein ye have been scattered; and I will be sanctified in you in the sight of the nations.",
+    "reference": "Ezekiel 20:41 (JPS)",
+    "connected_to": "Ezekiel 20:42",
+    "connected_from": "Ezekiel 20:40"
+  },
+  {
+    "text": "And ye shall know that I am the LORD, when I shall bring you into the land of Israel, into the country which I lifted up My hand to give unto your fathers.",
+    "reference": "Ezekiel 20:42 (JPS)",
+    "connected_to": "Ezekiel 20:43",
+    "connected_from": "Ezekiel 20:41"
+  },
+  {
+    "text": "And there shall ye remember your ways, and all your doings, wherein ye have polluted yourselves; and ye shall loathe yourselves in your own sight for all your evils that ye have committed.",
+    "reference": "Ezekiel 20:43 (JPS)",
+    "connected_to": "Ezekiel 20:44",
+    "connected_from": "Ezekiel 20:42"
+  },
+  {
+    "text": "And ye shall know that I am the LORD, when I have wrought with you for My name’s sake, not according to your evil ways, nor according to your corrupt doings, O ye house of Israel, saith the Lord GOD.’",
+    "reference": "Ezekiel 20:44 (JPS)",
+    "connected_to": "Ezekiel 20:45",
+    "connected_from": "Ezekiel 20:43"
+  },
+  {
+    "text": "And the word of the LORD came unto me, saying:",
+    "reference": "Ezekiel 20:45 (JPS)",
+    "connected_to": "Ezekiel 20:46",
+    "connected_from": "Ezekiel 20:44"
+  },
+  {
+    "text": "Son of man, set thy face toward the South, and preach toward the South, and prophesy against the forest of the field in the South;",
+    "reference": "Ezekiel 20:46 (JPS)",
+    "connected_to": "Ezekiel 20:47",
+    "connected_from": "Ezekiel 20:45"
+  },
+  {
+    "text": "and say to the forest of the South: Hear the word of the LORD: Thus saith the Lord GOD: Behold, I will kindle a fire in thee, and it shall devour every green tree in thee, and every dry tree, it shall not be quenched, even a flaming flame; and all faces from the south to the north shall be seared thereby.",
+    "reference": "Ezekiel 20:47 (JPS)",
+    "connected_to": "Ezekiel 20:48",
+    "connected_from": "Ezekiel 20:46"
+  },
+  {
+    "text": "All flesh shall see that I the LORD have kindled it; it shall not be quenched.’",
+    "reference": "Ezekiel 20:48 (JPS)",
+    "connected_to": "Ezekiel 20:49",
+    "connected_from": "Ezekiel 20:47"
+  },
+  {
+    "text": "Then said I: ‘Ah Lord GOD! they say of me: Is he not a maker of parables?’",
+    "reference": "Ezekiel 20:49 (JPS)",
+    "connected_from": "Ezekiel 20:48"
+  }
+]

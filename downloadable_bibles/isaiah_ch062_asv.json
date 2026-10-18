@@ -1,0 +1,72 @@
+[
+  {
+    "text": "For Zion’s sake will I not hold my peace, and for Jerusalem’s sake I will not rest, until her righteousness go forth as brightness, and her salvation as a lamp that burneth.",
+    "reference": "Isaiah 62:1 (ASV)",
+    "connected_to": "Isaiah 62:2"
+  },
+  {
+    "text": "And the nations shall see thy righteousness, and all kings thy glory, and thou shalt be called by a new name, which the mouth of Jehovah shall name.",
+    "reference": "Isaiah 62:2 (ASV)",
+    "connected_to": "Isaiah 62:3",
+    "connected_from": "Isaiah 62:1"
+  },
+  {
+    "text": "Thou shalt also be a crown of beauty in the hand of Jehovah, and a royal diadem in the hand of thy God.",
+    "reference": "Isaiah 62:3 (ASV)",
+    "connected_to": "Isaiah 62:4",
+    "connected_from": "Isaiah 62:2"
+  },
+  {
+    "text": "Thou shalt no more be termed Forsaken; neither shall thy land any more be termed Desolate: but thou shalt be called Hephzi-bah, and thy land Beulah; for Jehovah delighteth in thee, and thy land shall be married.",
+    "reference": "Isaiah 62:4 (ASV)",
+    "connected_to": "Isaiah 62:5",
+    "connected_from": "Isaiah 62:3"
+  },
+  {
+    "text": "For as a young man marrieth a virgin, so shall thy sons marry thee; and as the bridegroom rejoiceth over the bride, so shall thy God rejoice over thee.",
+    "reference": "Isaiah 62:5 (ASV)",
+    "connected_to": "Isaiah 62:6",
+    "connected_from": "Isaiah 62:4"
+  },
+  {
+    "text": "I have set watchmen upon thy walls, O Jerusalem; they shall never hold their peace day nor night: ye that are Jehovah’s remembrancers, take ye no rest,",
+    "reference": "Isaiah 62:6 (ASV)",
+    "connected_to": "Isaiah 62:7",
+    "connected_from": "Isaiah 62:5"
+  },
+  {
+    "text": "and give him no rest, till he establish, and till he make Jerusalem a praise in the earth.",
+    "reference": "Isaiah 62:7 (ASV)",
+    "connected_to": "Isaiah 62:8",
+    "connected_from": "Isaiah 62:6"
+  },
+  {
+    "text": "Jehovah hath sworn by his right hand, and by the arm of his strength, Surely I will no more give thy grain to be food for thine enemies; and foreigners shall not drink thy new wine, for which thou hast labored:",
+    "reference": "Isaiah 62:8 (ASV)",
+    "connected_to": "Isaiah 62:9",
+    "connected_from": "Isaiah 62:7"
+  },
+  {
+    "text": "but they that have garnered it shall eat it, and praise Jehovah; and they that have gathered it shall drink it in the courts of my sanctuary.",
+    "reference": "Isaiah 62:9 (ASV)",
+    "connected_to": "Isaiah 62:10",
+    "connected_from": "Isaiah 62:8"
+  },
+  {
+    "text": "Go through, go through the gates; prepare ye the way of the people; cast up, cast up the highway; gather out the stones; lift up an ensign for the peoples.",
+    "reference": "Isaiah 62:10 (ASV)",
+    "connected_to": "Isaiah 62:11",
+    "connected_from": "Isaiah 62:9"
+  },
+  {
+    "text": "Behold, Jehovah hath proclaimed unto the end of the earth, Say ye to the daughter of Zion, Behold, thy salvation cometh; behold, his reward is with him, and his recompense before him.",
+    "reference": "Isaiah 62:11 (ASV)",
+    "connected_to": "Isaiah 62:12",
+    "connected_from": "Isaiah 62:10"
+  },
+  {
+    "text": "And they shall call them The holy people, The redeemed of Jehovah: and thou shalt be called Sought out, A city not forsaken.",
+    "reference": "Isaiah 62:12 (ASV)",
+    "connected_from": "Isaiah 62:11"
+  }
+]

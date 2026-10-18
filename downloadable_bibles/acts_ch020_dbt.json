@@ -1,0 +1,228 @@
+[
+  {
+    "text": "But after the tumult had ceased, Paul having called the disciples to [him] and embraced [them], went away to go to Macedonia.",
+    "reference": "Acts 20:1 (DBT)",
+    "connected_to": "Acts 20:2"
+  },
+  {
+    "text": "And having passed through those parts, and having exhorted them with much discourse, he came to Greece.",
+    "reference": "Acts 20:2 (DBT)",
+    "connected_to": "Acts 20:3",
+    "connected_from": "Acts 20:1"
+  },
+  {
+    "text": "And having spent three months [there], a treacherous plot against him having been set on foot by the Jews, as he was going to sail to Syria, [the] resolution was adopted of returning through Macedonia.",
+    "reference": "Acts 20:3 (DBT)",
+    "connected_to": "Acts 20:4",
+    "connected_from": "Acts 20:2"
+  },
+  {
+    "text": "And there accompanied him as far as Asia, Sopater [son] of Pyrrhus, a Berean; and of Thessalonians, Aristarchus and Secundus, and Gaius and Timotheus of Derbe, and of Asia, Tychicus and Trophimus.",
+    "reference": "Acts 20:4 (DBT)",
+    "connected_to": "Acts 20:5",
+    "connected_from": "Acts 20:3"
+  },
+  {
+    "text": "These going before waited for us in Troas;",
+    "reference": "Acts 20:5 (DBT)",
+    "connected_to": "Acts 20:6",
+    "connected_from": "Acts 20:4"
+  },
+  {
+    "text": "but we sailed away from Philippi after the days of unleavened bread, and we came to them to Troas in five days, where we spent seven days.",
+    "reference": "Acts 20:6 (DBT)",
+    "connected_to": "Acts 20:7",
+    "connected_from": "Acts 20:5"
+  },
+  {
+    "text": "And the first day of the week, we being assembled to break bread, Paul discoursed to them, about to depart on the morrow. And he prolonged the discourse till midnight.",
+    "reference": "Acts 20:7 (DBT)",
+    "connected_to": "Acts 20:8",
+    "connected_from": "Acts 20:6"
+  },
+  {
+    "text": "And there were many lights in the upper room where we were assembled.",
+    "reference": "Acts 20:8 (DBT)",
+    "connected_to": "Acts 20:9",
+    "connected_from": "Acts 20:7"
+  },
+  {
+    "text": "And a certain youth, by name Eutychus, sitting at the window-opening, overpowered by deep sleep, while Paul discoursed very much at length, having been overpowered by the sleep, fell from the third story down to the bottom, and was taken up dead.",
+    "reference": "Acts 20:9 (DBT)",
+    "connected_to": "Acts 20:10",
+    "connected_from": "Acts 20:8"
+  },
+  {
+    "text": "But Paul descending fell upon him, and enfolding [him] [in his arms], said, Be not troubled, for his life is in him.",
+    "reference": "Acts 20:10 (DBT)",
+    "connected_to": "Acts 20:11",
+    "connected_from": "Acts 20:9"
+  },
+  {
+    "text": "And having gone up, and having broken the bread, and eaten, and having long spoken until daybreak, so he went away.",
+    "reference": "Acts 20:11 (DBT)",
+    "connected_to": "Acts 20:12",
+    "connected_from": "Acts 20:10"
+  },
+  {
+    "text": "And they brought [away] the boy alive, and were no little comforted.",
+    "reference": "Acts 20:12 (DBT)",
+    "connected_to": "Acts 20:13",
+    "connected_from": "Acts 20:11"
+  },
+  {
+    "text": "And we, having gone before on board ship, sailed off to Assos, going to take in Paul there; for so he had directed, he himself being about to go on foot.",
+    "reference": "Acts 20:13 (DBT)",
+    "connected_to": "Acts 20:14",
+    "connected_from": "Acts 20:12"
+  },
+  {
+    "text": "And when he met with us at Assos, having taken him on board, we came to Mitylene;",
+    "reference": "Acts 20:14 (DBT)",
+    "connected_to": "Acts 20:15",
+    "connected_from": "Acts 20:13"
+  },
+  {
+    "text": "and having sailed thence, on the morrow arrived opposite Chios, and the next day put in at Samos; and having stayed at Trogyllium, the next day we came to Miletus:",
+    "reference": "Acts 20:15 (DBT)",
+    "connected_to": "Acts 20:16",
+    "connected_from": "Acts 20:14"
+  },
+  {
+    "text": "for Paul thought it desirable to sail by Ephesus, so that he might not be made to spend time in Asia; for he hastened, if it was possible for him, to be the day of Pentecost at Jerusalem.",
+    "reference": "Acts 20:16 (DBT)",
+    "connected_to": "Acts 20:17",
+    "connected_from": "Acts 20:15"
+  },
+  {
+    "text": "But from Miletus having sent to Ephesus, he called over [to him] the elders of the assembly.",
+    "reference": "Acts 20:17 (DBT)",
+    "connected_to": "Acts 20:18",
+    "connected_from": "Acts 20:16"
+  },
+  {
+    "text": "And when they were come to him, he said to them, Ye know how I was with you all the time from the first day that I arrived in Asia,",
+    "reference": "Acts 20:18 (DBT)",
+    "connected_to": "Acts 20:19",
+    "connected_from": "Acts 20:17"
+  },
+  {
+    "text": "serving the Lord with all lowliness, and tears, and temptations, which happened to me through the plots of the Jews;",
+    "reference": "Acts 20:19 (DBT)",
+    "connected_to": "Acts 20:20",
+    "connected_from": "Acts 20:18"
+  },
+  {
+    "text": "how I held back nothing of what is profitable, so as not to announce [it] to you, and to teach you publicly and in every house,",
+    "reference": "Acts 20:20 (DBT)",
+    "connected_to": "Acts 20:21",
+    "connected_from": "Acts 20:19"
+  },
+  {
+    "text": "testifying to both Jews and Greeks repentance towards God, and faith towards our Lord Jesus Christ.",
+    "reference": "Acts 20:21 (DBT)",
+    "connected_to": "Acts 20:22",
+    "connected_from": "Acts 20:20"
+  },
+  {
+    "text": "And now, behold, bound in my spirit I go to Jerusalem, not knowing what things shall happen to me in it;",
+    "reference": "Acts 20:22 (DBT)",
+    "connected_to": "Acts 20:23",
+    "connected_from": "Acts 20:21"
+  },
+  {
+    "text": "only that the Holy Spirit testifies to me in every city, saying that bonds and tribulations await me.",
+    "reference": "Acts 20:23 (DBT)",
+    "connected_to": "Acts 20:24",
+    "connected_from": "Acts 20:22"
+  },
+  {
+    "text": "But I make no account of [my] life [as] dear to myself, so that I finish my course, and the ministry which I have received of the Lord Jesus, to testify the glad tidings of the grace of God.",
+    "reference": "Acts 20:24 (DBT)",
+    "connected_to": "Acts 20:25",
+    "connected_from": "Acts 20:23"
+  },
+  {
+    "text": "And now, behold, I know that ye all, among whom I have gone about preaching the kingdom [of God], shall see my face no more.",
+    "reference": "Acts 20:25 (DBT)",
+    "connected_to": "Acts 20:26",
+    "connected_from": "Acts 20:24"
+  },
+  {
+    "text": "Wherefore I witness to you this day, that I am clean from the blood of all,",
+    "reference": "Acts 20:26 (DBT)",
+    "connected_to": "Acts 20:27",
+    "connected_from": "Acts 20:25"
+  },
+  {
+    "text": "for I have not shrunk from announcing to you all the counsel of God.",
+    "reference": "Acts 20:27 (DBT)",
+    "connected_to": "Acts 20:28",
+    "connected_from": "Acts 20:26"
+  },
+  {
+    "text": "Take heed therefore to yourselves, and to all the flock, wherein the Holy Spirit has set you as overseers, to shepherd the assembly of God, which he has purchased with the blood of his own.",
+    "reference": "Acts 20:28 (DBT)",
+    "connected_to": "Acts 20:29",
+    "connected_from": "Acts 20:27"
+  },
+  {
+    "text": "[For] I know [this,] that there will come in amongst you after my departure grievous wolves, not sparing the flock;",
+    "reference": "Acts 20:29 (DBT)",
+    "connected_to": "Acts 20:30",
+    "connected_from": "Acts 20:28"
+  },
+  {
+    "text": "and from among your own selves shall rise up men speaking perverted things to draw away the disciples after them.",
+    "reference": "Acts 20:30 (DBT)",
+    "connected_to": "Acts 20:31",
+    "connected_from": "Acts 20:29"
+  },
+  {
+    "text": "Wherefore watch, remembering that for three years, night and day, I ceased not admonishing each one [of you] with tears.",
+    "reference": "Acts 20:31 (DBT)",
+    "connected_to": "Acts 20:32",
+    "connected_from": "Acts 20:30"
+  },
+  {
+    "text": "And now I commit you to God, and to the word of his grace, which is able to build [you] up and give [to you] an inheritance among all the sanctified.",
+    "reference": "Acts 20:32 (DBT)",
+    "connected_to": "Acts 20:33",
+    "connected_from": "Acts 20:31"
+  },
+  {
+    "text": "I have coveted [the] silver or gold or clothing of no one.",
+    "reference": "Acts 20:33 (DBT)",
+    "connected_to": "Acts 20:34",
+    "connected_from": "Acts 20:32"
+  },
+  {
+    "text": "Yourselves know that these hands have ministered to my wants, and to those who were with me.",
+    "reference": "Acts 20:34 (DBT)",
+    "connected_to": "Acts 20:35",
+    "connected_from": "Acts 20:33"
+  },
+  {
+    "text": "I have shewed you all things, that thus labouring [we] ought to come in aid of the weak, and to remember the words of the Lord Jesus, that he himself said, It is more blessed to give than to receive.",
+    "reference": "Acts 20:35 (DBT)",
+    "connected_to": "Acts 20:36",
+    "connected_from": "Acts 20:34"
+  },
+  {
+    "text": "And having said these things, he knelt down and prayed with them all.",
+    "reference": "Acts 20:36 (DBT)",
+    "connected_to": "Acts 20:37",
+    "connected_from": "Acts 20:35"
+  },
+  {
+    "text": "And they all wept sore; and falling upon the neck of Paul they ardently kissed him,",
+    "reference": "Acts 20:37 (DBT)",
+    "connected_to": "Acts 20:38",
+    "connected_from": "Acts 20:36"
+  },
+  {
+    "text": "specially pained by the word which he had said, that they would no more see his face. And they went down with him to the ship.",
+    "reference": "Acts 20:38 (DBT)",
+    "connected_from": "Acts 20:37"
+  }
+]

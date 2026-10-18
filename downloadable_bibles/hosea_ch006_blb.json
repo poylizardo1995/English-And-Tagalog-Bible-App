@@ -1,0 +1,66 @@
+[
+  {
+    "text": "Come and let us return to YHWH, for He has torn [us], and He will heal us; He has struck [us], and He will bind us up.",
+    "reference": "Hosea 6:1 (BLB)",
+    "connected_to": "Hosea 6:2"
+  },
+  {
+    "text": "He will revive us after two days; on the third on the day He will raise us up, that we may live before His face.",
+    "reference": "Hosea 6:2 (BLB)",
+    "connected_to": "Hosea 6:3",
+    "connected_from": "Hosea 6:1"
+  },
+  {
+    "text": "And let us know, let us press on to know YHWH. Like the dawn, His going forth is sure, and He will come like the rain to us, like the spring rain [that] showers the earth.",
+    "reference": "Hosea 6:3 (BLB)",
+    "connected_to": "Hosea 6:4",
+    "connected_from": "Hosea 6:2"
+  },
+  {
+    "text": "What will I do to you, O Ephraim? What will I do to you, O Judah? And your⁺ faithfulness is like a cloud of the morning, and like the dew rising [and] going away.",
+    "reference": "Hosea 6:4 (BLB)",
+    "connected_to": "Hosea 6:5",
+    "connected_from": "Hosea 6:3"
+  },
+  {
+    "text": "Upon thus, I have hewn [them] by the prophets, I have killed them by the words of My mouth, and My judgments go forth [as] the light!",
+    "reference": "Hosea 6:5 (BLB)",
+    "connected_to": "Hosea 6:6",
+    "connected_from": "Hosea 6:4"
+  },
+  {
+    "text": "For I delight in mercy, and not sacrifice, and the knowledge of God above burnt offerings.",
+    "reference": "Hosea 6:6 (BLB)",
+    "connected_to": "Hosea 6:7",
+    "connected_from": "Hosea 6:5"
+  },
+  {
+    "text": "And they, like Adam, transgressed the covenant; there they were unfaithful with Me.",
+    "reference": "Hosea 6:7 (BLB)",
+    "connected_to": "Hosea 6:8",
+    "connected_from": "Hosea 6:6"
+  },
+  {
+    "text": "Gilead [is] a city of workers of iniquity, with a footprint of blood.",
+    "reference": "Hosea 6:8 (BLB)",
+    "connected_to": "Hosea 6:9",
+    "connected_from": "Hosea 6:7"
+  },
+  {
+    "text": "Like raiders lying in wait [for] a man [is] the band of priests; they murder on the way to Shechem; surely, they have committed wickedness.",
+    "reference": "Hosea 6:9 (BLB)",
+    "connected_to": "Hosea 6:10",
+    "connected_from": "Hosea 6:8"
+  },
+  {
+    "text": "In the house of Israel I have seen a horrible thing: There [is] the prostitution of Ephraim; Israel is defiled.",
+    "reference": "Hosea 6:10 (BLB)",
+    "connected_to": "Hosea 6:11",
+    "connected_from": "Hosea 6:9"
+  },
+  {
+    "text": "Also, O Judah, a harvest is set for you, in My turning back the captivity of My people.",
+    "reference": "Hosea 6:11 (BLB)",
+    "connected_from": "Hosea 6:10"
+  }
+]

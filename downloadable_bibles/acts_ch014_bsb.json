@@ -1,0 +1,168 @@
+[
+  {
+    "text": "At Iconium, Paul and Barnabas went as usual into the Jewish synagogue, where they spoke so well that a great number of Jews and Greeks believed.",
+    "reference": "Acts 14:1 (BSB)",
+    "connected_to": "Acts 14:2"
+  },
+  {
+    "text": "But the unbelieving Jews stirred up the Gentiles and poisoned their minds against the brothers.",
+    "reference": "Acts 14:2 (BSB)",
+    "connected_to": "Acts 14:3",
+    "connected_from": "Acts 14:1"
+  },
+  {
+    "text": "So Paul and Barnabas spent considerable time there, speaking boldly for the Lord, who affirmed the message of His grace by enabling them to perform signs and wonders.",
+    "reference": "Acts 14:3 (BSB)",
+    "connected_to": "Acts 14:4",
+    "connected_from": "Acts 14:2"
+  },
+  {
+    "text": "The people of the city were divided. Some sided with the Jews, and others with the apostles.",
+    "reference": "Acts 14:4 (BSB)",
+    "connected_to": "Acts 14:5",
+    "connected_from": "Acts 14:3"
+  },
+  {
+    "text": "But when the Gentiles and Jews, together with their rulers, set out to mistreat and stone them,",
+    "reference": "Acts 14:5 (BSB)",
+    "connected_to": "Acts 14:6",
+    "connected_from": "Acts 14:4"
+  },
+  {
+    "text": "they found out about it and fled to the Lycaonian cities of Lystra and Derbe and to the surrounding region,",
+    "reference": "Acts 14:6 (BSB)",
+    "connected_to": "Acts 14:7",
+    "connected_from": "Acts 14:5"
+  },
+  {
+    "text": "where they continued to preach the gospel.",
+    "reference": "Acts 14:7 (BSB)",
+    "connected_to": "Acts 14:8",
+    "connected_from": "Acts 14:6"
+  },
+  {
+    "text": "In Lystra there sat a man crippled in his feet, who was lame from birth and had never walked.",
+    "reference": "Acts 14:8 (BSB)",
+    "connected_to": "Acts 14:9",
+    "connected_from": "Acts 14:7"
+  },
+  {
+    "text": "This man was listening to the words of Paul, who looked intently at him and saw that he had faith to be healed.",
+    "reference": "Acts 14:9 (BSB)",
+    "connected_to": "Acts 14:10",
+    "connected_from": "Acts 14:8"
+  },
+  {
+    "text": "In a loud voice Paul called out, “Stand up on your feet!” And the man jumped up and began to walk.",
+    "reference": "Acts 14:10 (BSB)",
+    "connected_to": "Acts 14:11",
+    "connected_from": "Acts 14:9"
+  },
+  {
+    "text": "When the crowds saw what Paul had done, they lifted up their voices in the Lycaonian language: “The gods have come down to us in human form!”",
+    "reference": "Acts 14:11 (BSB)",
+    "connected_to": "Acts 14:12",
+    "connected_from": "Acts 14:10"
+  },
+  {
+    "text": "Barnabas they called Zeus, and Paul they called Hermes, because he was the chief speaker.",
+    "reference": "Acts 14:12 (BSB)",
+    "connected_to": "Acts 14:13",
+    "connected_from": "Acts 14:11"
+  },
+  {
+    "text": "The priest of Zeus, whose temple was just outside the city, brought bulls and wreaths to the city gates, hoping to offer a sacrifice along with the crowds.",
+    "reference": "Acts 14:13 (BSB)",
+    "connected_to": "Acts 14:14",
+    "connected_from": "Acts 14:12"
+  },
+  {
+    "text": "But when the apostles Barnabas and Paul found out about this, they tore their clothes and rushed into the crowd, shouting,",
+    "reference": "Acts 14:14 (BSB)",
+    "connected_to": "Acts 14:15",
+    "connected_from": "Acts 14:13"
+  },
+  {
+    "text": "“Men, why are you doing this? We too are only men, human like you. We are bringing you good news that you should turn from these worthless things to the living God, who made heaven and earth and sea and everything in them.",
+    "reference": "Acts 14:15 (BSB)",
+    "connected_to": "Acts 14:16",
+    "connected_from": "Acts 14:14"
+  },
+  {
+    "text": "In past generations, He let all nations go their own way.",
+    "reference": "Acts 14:16 (BSB)",
+    "connected_to": "Acts 14:17",
+    "connected_from": "Acts 14:15"
+  },
+  {
+    "text": "Yet He has not left Himself without testimony to His goodness: He gives you rain from heaven and fruitful seasons, filling your hearts with food and gladness.”",
+    "reference": "Acts 14:17 (BSB)",
+    "connected_to": "Acts 14:18",
+    "connected_from": "Acts 14:16"
+  },
+  {
+    "text": "Even with these words, Paul and Barnabas could hardly stop the crowds from sacrificing to them.",
+    "reference": "Acts 14:18 (BSB)",
+    "connected_to": "Acts 14:19",
+    "connected_from": "Acts 14:17"
+  },
+  {
+    "text": "Then some Jews arrived from Antioch and Iconium and won over the crowds. They stoned Paul and dragged him outside the city, presuming he was dead.",
+    "reference": "Acts 14:19 (BSB)",
+    "connected_to": "Acts 14:20",
+    "connected_from": "Acts 14:18"
+  },
+  {
+    "text": "But after the disciples had gathered around him, he got up and went back into the city. And the next day he left with Barnabas for Derbe.",
+    "reference": "Acts 14:20 (BSB)",
+    "connected_to": "Acts 14:21",
+    "connected_from": "Acts 14:19"
+  },
+  {
+    "text": "They preached the gospel to that city and made many disciples. Then they returned to Lystra, Iconium, and Antioch,",
+    "reference": "Acts 14:21 (BSB)",
+    "connected_to": "Acts 14:22",
+    "connected_from": "Acts 14:20"
+  },
+  {
+    "text": "strengthening the souls of the disciples and encouraging them to continue in the faith. “We must endure many hardships to enter the kingdom of God,” they said.",
+    "reference": "Acts 14:22 (BSB)",
+    "connected_to": "Acts 14:23",
+    "connected_from": "Acts 14:21"
+  },
+  {
+    "text": "Paul and Barnabas appointed elders for them in each church, praying and fasting as they entrusted them to the Lord, in whom they had believed.",
+    "reference": "Acts 14:23 (BSB)",
+    "connected_to": "Acts 14:24",
+    "connected_from": "Acts 14:22"
+  },
+  {
+    "text": "After passing through Pisidia, they came to Pamphylia.",
+    "reference": "Acts 14:24 (BSB)",
+    "connected_to": "Acts 14:25",
+    "connected_from": "Acts 14:23"
+  },
+  {
+    "text": "And when they had spoken the word in Perga, they went down to Attalia.",
+    "reference": "Acts 14:25 (BSB)",
+    "connected_to": "Acts 14:26",
+    "connected_from": "Acts 14:24"
+  },
+  {
+    "text": "From Attalia they sailed to Antioch, where they had been commended to the grace of God for the work they had just completed.",
+    "reference": "Acts 14:26 (BSB)",
+    "connected_to": "Acts 14:27",
+    "connected_from": "Acts 14:25"
+  },
+  {
+    "text": "When they arrived, they gathered the church together and reported all that God had done through them, and how He had opened the door of faith to the Gentiles.",
+    "reference": "Acts 14:27 (BSB)",
+    "connected_to": "Acts 14:28",
+    "connected_from": "Acts 14:26"
+  },
+  {
+    "text": "And they spent a long time there with the disciples.",
+    "reference": "Acts 14:28 (BSB)",
+    "connected_from": "Acts 14:27"
+  }
+]

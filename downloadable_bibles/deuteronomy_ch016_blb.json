@@ -1,0 +1,132 @@
+[
+  {
+    "text": "Observe the month of Abib and keep the Passover to YHWH your God, for in the month of Abib YHWH your God brought you out of Egypt by night.",
+    "reference": "Deuteronomy 16:1 (BLB)",
+    "connected_to": "Deuteronomy 16:2"
+  },
+  {
+    "text": "And you shall sacrifice the Passover to YHWH your God, of the flock or of the herd, in the place where YHWH chooses for His Name to dwell there.",
+    "reference": "Deuteronomy 16:2 (BLB)",
+    "connected_to": "Deuteronomy 16:3",
+    "connected_from": "Deuteronomy 16:1"
+  },
+  {
+    "text": "You shall not eat leavened bread with it; seven days you shall eat with it unleavened [bread], the bread of affliction—for in haste you came out of the land of Egypt—so that you may remember the day of your coming out of the land of Egypt all the days of your life.",
+    "reference": "Deuteronomy 16:3 (BLB)",
+    "connected_to": "Deuteronomy 16:4",
+    "connected_from": "Deuteronomy 16:2"
+  },
+  {
+    "text": "And there shall not be seen among you leaven in all your territory seven days, nor shall remain overnight [any] of the flesh that you sacrifice in the evening on the first day until the morning.",
+    "reference": "Deuteronomy 16:4 (BLB)",
+    "connected_to": "Deuteronomy 16:5",
+    "connected_from": "Deuteronomy 16:3"
+  },
+  {
+    "text": "You may not sacrifice the Passover within one of your gates that YHWH your God gives you.",
+    "reference": "Deuteronomy 16:5 (BLB)",
+    "connected_to": "Deuteronomy 16:6",
+    "connected_from": "Deuteronomy 16:4"
+  },
+  {
+    "text": "For only at the place where YHWH your God chooses for His Name to dwell, there you shall sacrifice the Passover in the evening, at the going down of the sun, at the time you came out of Egypt.",
+    "reference": "Deuteronomy 16:6 (BLB)",
+    "connected_to": "Deuteronomy 16:7",
+    "connected_from": "Deuteronomy 16:5"
+  },
+  {
+    "text": "And you shall roast it and eat it in the place that YHWH your God chooses, and you shall turn in the morning and go to your tents.",
+    "reference": "Deuteronomy 16:7 (BLB)",
+    "connected_to": "Deuteronomy 16:8",
+    "connected_from": "Deuteronomy 16:6"
+  },
+  {
+    "text": "Six days you shall eat unleavened [bread], and on the seventh day [is] a sacred assembly to YHWH your God; you shall do no work.",
+    "reference": "Deuteronomy 16:8 (BLB)",
+    "connected_to": "Deuteronomy 16:9",
+    "connected_from": "Deuteronomy 16:7"
+  },
+  {
+    "text": "Seven weeks you shall count for yourself—from beginning the sickle among the grain you shall begin to count seven weeks.",
+    "reference": "Deuteronomy 16:9 (BLB)",
+    "connected_to": "Deuteronomy 16:10",
+    "connected_from": "Deuteronomy 16:8"
+  },
+  {
+    "text": "And you shall keep the Feast of Weeks to YHWH your God with the tribute of a freewill offering from your hand, which you shall give as YHWH your God blesses you.",
+    "reference": "Deuteronomy 16:10 (BLB)",
+    "connected_to": "Deuteronomy 16:11",
+    "connected_from": "Deuteronomy 16:9"
+  },
+  {
+    "text": "And you shall rejoice before the face of YHWH your God—you, and your son, and your daughter, and your manservant, and your maidservant, and the Levite who [is] within your gates, and the sojourner, and the fatherless, and the widow who [is] among you, at the place where YHWH your God chooses for His Name to dwell there.",
+    "reference": "Deuteronomy 16:11 (BLB)",
+    "connected_to": "Deuteronomy 16:12",
+    "connected_from": "Deuteronomy 16:10"
+  },
+  {
+    "text": "And you shall remember that you were a slave in Egypt, and you shall be careful and do these statutes.",
+    "reference": "Deuteronomy 16:12 (BLB)",
+    "connected_to": "Deuteronomy 16:13",
+    "connected_from": "Deuteronomy 16:11"
+  },
+  {
+    "text": "You shall observe the Feast of Booths seven days, when you have gathered from your threshing floor and from your winepress.",
+    "reference": "Deuteronomy 16:13 (BLB)",
+    "connected_to": "Deuteronomy 16:14",
+    "connected_from": "Deuteronomy 16:12"
+  },
+  {
+    "text": "And you shall rejoice in your feast—you, and your son, and your daughter, and your manservant, and your maidservant, and the Levite, and the sojourner, and the fatherless, and the widow who [is] within your gates.",
+    "reference": "Deuteronomy 16:14 (BLB)",
+    "connected_to": "Deuteronomy 16:15",
+    "connected_from": "Deuteronomy 16:13"
+  },
+  {
+    "text": "Seven days you shall celebrate a feast to YHWH your God in the place that YHWH chooses, because YHWH your God will bless you in all your produce and in all the work of your hands, and your joy will be complete.",
+    "reference": "Deuteronomy 16:15 (BLB)",
+    "connected_to": "Deuteronomy 16:16",
+    "connected_from": "Deuteronomy 16:14"
+  },
+  {
+    "text": "Three times in a year all your males shall appear before the face of YHWH your God in the place that He chooses: At the Feast of the Unleavened, and at the Feast of Weeks, and at the Feast of Booths. And they shall not appear before the face of YHWH emptily—",
+    "reference": "Deuteronomy 16:16 (BLB)",
+    "connected_to": "Deuteronomy 16:17",
+    "connected_from": "Deuteronomy 16:15"
+  },
+  {
+    "text": "a man as he is able, according to the blessing of YHWH your God that He has given you.",
+    "reference": "Deuteronomy 16:17 (BLB)",
+    "connected_to": "Deuteronomy 16:18",
+    "connected_from": "Deuteronomy 16:16"
+  },
+  {
+    "text": "You shall appoint judges and officers to you within all your gates that YHWH your God gives to you, according to your tribes, and they shall judge the people with righteous judgment.",
+    "reference": "Deuteronomy 16:18 (BLB)",
+    "connected_to": "Deuteronomy 16:19",
+    "connected_from": "Deuteronomy 16:17"
+  },
+  {
+    "text": "You shall not twist justice; you shall not show partiality nor take a bribe, for a bribe blinds the eyes of the wise and twists the words of the righteous.",
+    "reference": "Deuteronomy 16:19 (BLB)",
+    "connected_to": "Deuteronomy 16:20",
+    "connected_from": "Deuteronomy 16:18"
+  },
+  {
+    "text": "Justice [and] justice [alone] you shall pursue, that you may live and inherit the land that YHWH your God is giving to you.",
+    "reference": "Deuteronomy 16:20 (BLB)",
+    "connected_to": "Deuteronomy 16:21",
+    "connected_from": "Deuteronomy 16:19"
+  },
+  {
+    "text": "You shall not plant for yourself an Asherah pole of any tree near the altar of YHWH your God that you build for yourself.",
+    "reference": "Deuteronomy 16:21 (BLB)",
+    "connected_to": "Deuteronomy 16:22",
+    "connected_from": "Deuteronomy 16:20"
+  },
+  {
+    "text": "And you shall not set up a sacred pillar, which YHWH your God hates.",
+    "reference": "Deuteronomy 16:22 (BLB)",
+    "connected_from": "Deuteronomy 16:21"
+  }
+]

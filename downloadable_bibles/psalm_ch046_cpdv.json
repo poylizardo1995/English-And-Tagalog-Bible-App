@@ -1,0 +1,66 @@
+[
+  {
+    "text": "Unto the end. To the sons of Korah, for confidants. A Psalm. Our God is our refuge and strength, a helper in the tribulations that have greatly overwhelmed us.",
+    "reference": "Psalm 46:1 (CPDV)",
+    "connected_to": "Psalm 46:2"
+  },
+  {
+    "text": "Because of this, we will not be afraid when the earth will be turbulent and the mountains will be transferred into the heart of the sea.",
+    "reference": "Psalm 46:2 (CPDV)",
+    "connected_to": "Psalm 46:3",
+    "connected_from": "Psalm 46:1"
+  },
+  {
+    "text": "They thundered, and the waters were stirred up among them; the mountains have been disturbed by his strength.",
+    "reference": "Psalm 46:3 (CPDV)",
+    "connected_to": "Psalm 46:4",
+    "connected_from": "Psalm 46:2"
+  },
+  {
+    "text": "The frenzy of the river rejoices the city of God. The Most High has sanctified his tabernacle.",
+    "reference": "Psalm 46:4 (CPDV)",
+    "connected_to": "Psalm 46:5",
+    "connected_from": "Psalm 46:3"
+  },
+  {
+    "text": "God is in its midst; it will not be shaken. God will assist it in the early morning.",
+    "reference": "Psalm 46:5 (CPDV)",
+    "connected_to": "Psalm 46:6",
+    "connected_from": "Psalm 46:4"
+  },
+  {
+    "text": "The peoples have been disturbed, and the kingdoms have been bowed down. He uttered his voice: the earth has been moved.",
+    "reference": "Psalm 46:6 (CPDV)",
+    "connected_to": "Psalm 46:7",
+    "connected_from": "Psalm 46:5"
+  },
+  {
+    "text": "The Lord of hosts is with us. The God of Jacob is our supporter.",
+    "reference": "Psalm 46:7 (CPDV)",
+    "connected_to": "Psalm 46:8",
+    "connected_from": "Psalm 46:6"
+  },
+  {
+    "text": "Draw near and behold the works of the Lord: what portents he has set upon the earth,",
+    "reference": "Psalm 46:8 (CPDV)",
+    "connected_to": "Psalm 46:9",
+    "connected_from": "Psalm 46:7"
+  },
+  {
+    "text": "carrying away wars even to the end of the earth. He will crush the bow and break the weapons, and he will burn the shield with fire.",
+    "reference": "Psalm 46:9 (CPDV)",
+    "connected_to": "Psalm 46:10",
+    "connected_from": "Psalm 46:8"
+  },
+  {
+    "text": "Be empty, and see that I am God. I will be exalted among the peoples, and I will be exalted upon the earth.",
+    "reference": "Psalm 46:10 (CPDV)",
+    "connected_to": "Psalm 46:11",
+    "connected_from": "Psalm 46:9"
+  },
+  {
+    "text": "The Lord of hosts is with us. The God of Jacob is our supporter.",
+    "reference": "Psalm 46:11 (CPDV)",
+    "connected_from": "Psalm 46:10"
+  }
+]

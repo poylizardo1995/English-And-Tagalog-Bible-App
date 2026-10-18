@@ -1,0 +1,192 @@
+[
+  {
+    "text": "This [is] the book of the generations of Adam. In the day God created man, in the likeness of God He made him.",
+    "reference": "Genesis 5:1 (BLB)",
+    "connected_to": "Genesis 5:2"
+  },
+  {
+    "text": "Male and female He created them, and He blessed them and called their name “Man,” in the day they were created.",
+    "reference": "Genesis 5:2 (BLB)",
+    "connected_to": "Genesis 5:3",
+    "connected_from": "Genesis 5:1"
+  },
+  {
+    "text": "And Adam lived thirty and a hundred years, and he begat [a son] in his own likeness, after his image, and he called his name Seth.",
+    "reference": "Genesis 5:3 (BLB)",
+    "connected_to": "Genesis 5:4",
+    "connected_from": "Genesis 5:2"
+  },
+  {
+    "text": "And the days of Adam after his begetting Seth were eight hundred years, and he begat sons and daughters.",
+    "reference": "Genesis 5:4 (BLB)",
+    "connected_to": "Genesis 5:5",
+    "connected_from": "Genesis 5:3"
+  },
+  {
+    "text": "And all the days of Adam that he lived were nine hundred years and thirty years, and he died.",
+    "reference": "Genesis 5:5 (BLB)",
+    "connected_to": "Genesis 5:6",
+    "connected_from": "Genesis 5:4"
+  },
+  {
+    "text": "And Seth lived five years and a hundred years, and he begat Enosh.",
+    "reference": "Genesis 5:6 (BLB)",
+    "connected_to": "Genesis 5:7",
+    "connected_from": "Genesis 5:5"
+  },
+  {
+    "text": "And Seth lived after his begetting Enosh seven years and eight hundred years, and he begat sons and daughters.",
+    "reference": "Genesis 5:7 (BLB)",
+    "connected_to": "Genesis 5:8",
+    "connected_from": "Genesis 5:6"
+  },
+  {
+    "text": "And all the days of Seth were two [and] ten years and nine hundred years, and he died.",
+    "reference": "Genesis 5:8 (BLB)",
+    "connected_to": "Genesis 5:9",
+    "connected_from": "Genesis 5:7"
+  },
+  {
+    "text": "And Enosh lived ninety years, and he begat Cainan.",
+    "reference": "Genesis 5:9 (BLB)",
+    "connected_to": "Genesis 5:10",
+    "connected_from": "Genesis 5:8"
+  },
+  {
+    "text": "And Enosh lived after his begetting Cainan five [and] ten years and eight hundred years, and he begat sons and daughters.",
+    "reference": "Genesis 5:10 (BLB)",
+    "connected_to": "Genesis 5:11",
+    "connected_from": "Genesis 5:9"
+  },
+  {
+    "text": "And all the days of Enosh were five years nine hundred years, and he died.",
+    "reference": "Genesis 5:11 (BLB)",
+    "connected_to": "Genesis 5:12",
+    "connected_from": "Genesis 5:10"
+  },
+  {
+    "text": "And Cainan lived seventy years, and he begat Mahalalel.",
+    "reference": "Genesis 5:12 (BLB)",
+    "connected_to": "Genesis 5:13",
+    "connected_from": "Genesis 5:11"
+  },
+  {
+    "text": "And Cainan lived after his begetting Mahalalel forty years and eight hundred years, and he begat sons and daughters.",
+    "reference": "Genesis 5:13 (BLB)",
+    "connected_to": "Genesis 5:14",
+    "connected_from": "Genesis 5:12"
+  },
+  {
+    "text": "And all the days of Cainan were ten years and nine hundred years, and he died.",
+    "reference": "Genesis 5:14 (BLB)",
+    "connected_to": "Genesis 5:15",
+    "connected_from": "Genesis 5:13"
+  },
+  {
+    "text": "And Mahalalel lived five years and sixty years, and he begat Jared.",
+    "reference": "Genesis 5:15 (BLB)",
+    "connected_to": "Genesis 5:16",
+    "connected_from": "Genesis 5:14"
+  },
+  {
+    "text": "And Mahalalel lived after his begetting Jared thirty years and eight hundred years, and he begat sons and daughters.",
+    "reference": "Genesis 5:16 (BLB)",
+    "connected_to": "Genesis 5:17",
+    "connected_from": "Genesis 5:15"
+  },
+  {
+    "text": "And all the days of Mahalalel were five and ninety years and eight hundred years, and he died.",
+    "reference": "Genesis 5:17 (BLB)",
+    "connected_to": "Genesis 5:18",
+    "connected_from": "Genesis 5:16"
+  },
+  {
+    "text": "And Jared lived two and sixty years and a hundred years, and he begat Enoch.",
+    "reference": "Genesis 5:18 (BLB)",
+    "connected_to": "Genesis 5:19",
+    "connected_from": "Genesis 5:17"
+  },
+  {
+    "text": "And Jared lived after his begetting Enoch eight hundred years, and he begat sons and daughters.",
+    "reference": "Genesis 5:19 (BLB)",
+    "connected_to": "Genesis 5:20",
+    "connected_from": "Genesis 5:18"
+  },
+  {
+    "text": "And all the days of Jared were two and sixty years and nine hundred years, and he died.",
+    "reference": "Genesis 5:20 (BLB)",
+    "connected_to": "Genesis 5:21",
+    "connected_from": "Genesis 5:19"
+  },
+  {
+    "text": "And Enoch lived five and sixty years, and he begat Methuselah.",
+    "reference": "Genesis 5:21 (BLB)",
+    "connected_to": "Genesis 5:22",
+    "connected_from": "Genesis 5:20"
+  },
+  {
+    "text": "And Enoch walked with God after his begetting Methuselah three hundred years, and he begat sons and daughters.",
+    "reference": "Genesis 5:22 (BLB)",
+    "connected_to": "Genesis 5:23",
+    "connected_from": "Genesis 5:21"
+  },
+  {
+    "text": "And all the days of Enoch were five and sixty years and three hundred years.",
+    "reference": "Genesis 5:23 (BLB)",
+    "connected_to": "Genesis 5:24",
+    "connected_from": "Genesis 5:22"
+  },
+  {
+    "text": "And Enoch walked with God, and he was no more, for God had taken him.",
+    "reference": "Genesis 5:24 (BLB)",
+    "connected_to": "Genesis 5:25",
+    "connected_from": "Genesis 5:23"
+  },
+  {
+    "text": "And Methuselah lived seven and eighty years and a hundred years, and he begat Lamech.",
+    "reference": "Genesis 5:25 (BLB)",
+    "connected_to": "Genesis 5:26",
+    "connected_from": "Genesis 5:24"
+  },
+  {
+    "text": "And Methuselah lived after his begetting Lamech two and eighty years and seven hundred years, and he begat sons and daughters.",
+    "reference": "Genesis 5:26 (BLB)",
+    "connected_to": "Genesis 5:27",
+    "connected_from": "Genesis 5:25"
+  },
+  {
+    "text": "And all the days of Methuselah were nine and sixty years and nine hundred years, and he died.",
+    "reference": "Genesis 5:27 (BLB)",
+    "connected_to": "Genesis 5:28",
+    "connected_from": "Genesis 5:26"
+  },
+  {
+    "text": "And Lamech lived two and eighty years and a hundred years, and he begat a son.",
+    "reference": "Genesis 5:28 (BLB)",
+    "connected_to": "Genesis 5:29",
+    "connected_from": "Genesis 5:27"
+  },
+  {
+    "text": "And he called his name Noah, saying, “This one shall give us comfort from our work and from the toil of our hands on account of the ground that YHWH has cursed.”",
+    "reference": "Genesis 5:29 (BLB)",
+    "connected_to": "Genesis 5:30",
+    "connected_from": "Genesis 5:28"
+  },
+  {
+    "text": "And Lamech lived after his begetting Noah five and ninety years and five hundred years, and he begat sons and daughters.",
+    "reference": "Genesis 5:30 (BLB)",
+    "connected_to": "Genesis 5:31",
+    "connected_from": "Genesis 5:29"
+  },
+  {
+    "text": "And all the days of Lamech were seven and seventy years and seven hundred years, and he died.",
+    "reference": "Genesis 5:31 (BLB)",
+    "connected_to": "Genesis 5:32",
+    "connected_from": "Genesis 5:30"
+  },
+  {
+    "text": "Noah was a son of five hundred years, and Noah begat Shem, Ham, and Japheth.",
+    "reference": "Genesis 5:32 (BLB)",
+    "connected_from": "Genesis 5:31"
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "text": "For the choirmaster. To the tune of “A Dove on Distant Oaks (the silent dove of far-off places).” A Miktam of David (beloved), when the Philistines (immigrants) seized him in Gath (winepress). <span class=|reftext|><a href=|#|><b>1</b></a> Be merciful to me, O God {Elohim}, for men are hounding me; all day they press their attack.",
+    "reference": "Psalm 56:1 (BAB)",
+    "connected_to": "Psalm 56:2"
+  },
+  {
+    "text": "My enemies pursue me all day long, for many proudly assail me.",
+    "reference": "Psalm 56:2 (BAB)",
+    "connected_to": "Psalm 56:3",
+    "connected_from": "Psalm 56:1"
+  },
+  {
+    "text": "When I am afraid, I put my trust in You.",
+    "reference": "Psalm 56:3 (BAB)",
+    "connected_to": "Psalm 56:4",
+    "connected_from": "Psalm 56:2"
+  },
+  {
+    "text": "In God {Elohim}, whose word I praise—in God I trust. I will not be afraid. What can man do to me?",
+    "reference": "Psalm 56:4 (BAB)",
+    "connected_to": "Psalm 56:5",
+    "connected_from": "Psalm 56:3"
+  },
+  {
+    "text": "All day long they twist my words; all their thoughts are on my demise.",
+    "reference": "Psalm 56:5 (BAB)",
+    "connected_to": "Psalm 56:6",
+    "connected_from": "Psalm 56:4"
+  },
+  {
+    "text": "They conspire, they lurk, they watch my steps while they wait to take my life.",
+    "reference": "Psalm 56:6 (BAB)",
+    "connected_to": "Psalm 56:7",
+    "connected_from": "Psalm 56:5"
+  },
+  {
+    "text": "In spite of such sin, will they escape? In Your anger, O God {Elohim}, cast down the nations.",
+    "reference": "Psalm 56:7 (BAB)",
+    "connected_to": "Psalm 56:8",
+    "connected_from": "Psalm 56:6"
+  },
+  {
+    "text": "You have taken account of my wanderings (sorrows). Put my tears in Your bottle—are they not in Your book?",
+    "reference": "Psalm 56:8 (BAB)",
+    "connected_to": "Psalm 56:9",
+    "connected_from": "Psalm 56:7"
+  },
+  {
+    "text": "Then my enemies will retreat on the day I cry for help. By this I will know that God is on my side.",
+    "reference": "Psalm 56:9 (BAB)",
+    "connected_to": "Psalm 56:10",
+    "connected_from": "Psalm 56:8"
+  },
+  {
+    "text": "In God {Elohim}, whose word I praise, in the LORD {YHWH}, whose word I praise,",
+    "reference": "Psalm 56:10 (BAB)",
+    "connected_to": "Psalm 56:11",
+    "connected_from": "Psalm 56:9"
+  },
+  {
+    "text": "in God {Elohim} I trust; I will not be afraid. What can man do to me?",
+    "reference": "Psalm 56:11 (BAB)",
+    "connected_to": "Psalm 56:12",
+    "connected_from": "Psalm 56:10"
+  },
+  {
+    "text": "Your vows are upon me, O God {Elohim}; I will render thank offerings to You.",
+    "reference": "Psalm 56:12 (BAB)",
+    "connected_to": "Psalm 56:13",
+    "connected_from": "Psalm 56:11"
+  },
+  {
+    "text": "For You have delivered my soul from death, and my feet from stumbling, that I may walk before God {Elohim} in the light of life.",
+    "reference": "Psalm 56:13 (BAB)",
+    "connected_from": "Psalm 56:12"
+  }
+]

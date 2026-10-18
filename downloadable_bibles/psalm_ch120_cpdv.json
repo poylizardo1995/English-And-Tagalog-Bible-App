@@ -1,0 +1,42 @@
+[
+  {
+    "text": "A Canticle in steps. When troubled, I cried out to the Lord, and he heard me.",
+    "reference": "Psalm 120:1 (CPDV)",
+    "connected_to": "Psalm 120:2"
+  },
+  {
+    "text": "O Lord, free my soul from lips of iniquity and from the deceitful tongue.",
+    "reference": "Psalm 120:2 (CPDV)",
+    "connected_to": "Psalm 120:3",
+    "connected_from": "Psalm 120:1"
+  },
+  {
+    "text": "What will be given to you, or what will be added to you, for a deceitful tongue?:",
+    "reference": "Psalm 120:3 (CPDV)",
+    "connected_to": "Psalm 120:4",
+    "connected_from": "Psalm 120:2"
+  },
+  {
+    "text": "the sharp arrows of the powerful, along with the burning coals of desolation.",
+    "reference": "Psalm 120:4 (CPDV)",
+    "connected_to": "Psalm 120:5",
+    "connected_from": "Psalm 120:3"
+  },
+  {
+    "text": "Woe to me, for my sojourning has been prolonged. I have lived with the inhabitants of Kedar.",
+    "reference": "Psalm 120:5 (CPDV)",
+    "connected_to": "Psalm 120:6",
+    "connected_from": "Psalm 120:4"
+  },
+  {
+    "text": "My soul has long been a sojourner.",
+    "reference": "Psalm 120:6 (CPDV)",
+    "connected_to": "Psalm 120:7",
+    "connected_from": "Psalm 120:5"
+  },
+  {
+    "text": "With those who hated peace, I was peaceful. When I spoke to them, they fought against me without cause.",
+    "reference": "Psalm 120:7 (CPDV)",
+    "connected_from": "Psalm 120:6"
+  }
+]

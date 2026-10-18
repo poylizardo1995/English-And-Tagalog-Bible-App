@@ -1,0 +1,78 @@
+[
+  {
+    "text": "When the Lamb broke the seventh seal, there was silence in Heaven for about half an hour.",
+    "reference": "Revelation 8:1 (WNT)",
+    "connected_to": "Revelation 8:2"
+  },
+  {
+    "text": "Then I saw the seven angels who are in the presence of God, and seven trumpets were given to them.",
+    "reference": "Revelation 8:2 (WNT)",
+    "connected_to": "Revelation 8:3",
+    "connected_from": "Revelation 8:1"
+  },
+  {
+    "text": "And another angel came and stood close to the altar, carrying a censer of gold; and abundance of incense was given to him that he might place it with the prayers of all God’s people upon the golden altar which was in front of the throne.",
+    "reference": "Revelation 8:3 (WNT)",
+    "connected_to": "Revelation 8:4",
+    "connected_from": "Revelation 8:2"
+  },
+  {
+    "text": "And the smoke of the incense rose into the presence of God from the angel’s hand, and mingled with the prayers of His people.",
+    "reference": "Revelation 8:4 (WNT)",
+    "connected_to": "Revelation 8:5",
+    "connected_from": "Revelation 8:3"
+  },
+  {
+    "text": "So the angel took the censer and filled it with fire from the altar and flung it to the earth; and there followed peals of thunder, and voices, and flashes of lightning, and an earthquake.",
+    "reference": "Revelation 8:5 (WNT)",
+    "connected_to": "Revelation 8:6",
+    "connected_from": "Revelation 8:4"
+  },
+  {
+    "text": "Then the seven angels who had the seven trumpets made preparations for blowing them.",
+    "reference": "Revelation 8:6 (WNT)",
+    "connected_to": "Revelation 8:7",
+    "connected_from": "Revelation 8:5"
+  },
+  {
+    "text": "The first blew his trumpet; and there came hail and fire, mixed with blood, falling upon the earth; and a third part of the earth was burnt up, and a third part of the trees and all the green grass.",
+    "reference": "Revelation 8:7 (WNT)",
+    "connected_to": "Revelation 8:8",
+    "connected_from": "Revelation 8:6"
+  },
+  {
+    "text": "The second angel blew his trumpet; and what seemed to be a great mountain, all ablaze with fire, was hurled into the sea; and a third part of the sea was turned into blood.",
+    "reference": "Revelation 8:8 (WNT)",
+    "connected_to": "Revelation 8:9",
+    "connected_from": "Revelation 8:7"
+  },
+  {
+    "text": "And a third part of the creatures that were in the sea—those that had life—died; and a third part of the ships were destroyed.",
+    "reference": "Revelation 8:9 (WNT)",
+    "connected_to": "Revelation 8:10",
+    "connected_from": "Revelation 8:8"
+  },
+  {
+    "text": "The third angel blew his trumpet; and there fell from Heaven a great star, which was on fire like a torch. It fell upon a third part of the rivers and upon the springs of water.",
+    "reference": "Revelation 8:10 (WNT)",
+    "connected_to": "Revelation 8:11",
+    "connected_from": "Revelation 8:9"
+  },
+  {
+    "text": "The name of the star is ‘Wormwood;’ and a third part of the waters were turned into wormwood, and vast numbers of the people died from drinking the water, because it had become bitter.",
+    "reference": "Revelation 8:11 (WNT)",
+    "connected_to": "Revelation 8:12",
+    "connected_from": "Revelation 8:10"
+  },
+  {
+    "text": "Then the fourth angel blew his trumpet; and a curse fell upon a third part of the sun, a third part of the moon, and a third part of the stars, so that a third part of them were darkened and for a third of the day, and also of the night, there was no light.",
+    "reference": "Revelation 8:12 (WNT)",
+    "connected_to": "Revelation 8:13",
+    "connected_from": "Revelation 8:11"
+  },
+  {
+    "text": "Then I looked, and I heard a solitary eagle crying in a loud voice, as it flew across the sky, “Alas, alas, alas, for the inhabitants of the earth, because of the significance of the remaining trumpets which the three angels are about to blow!”",
+    "reference": "Revelation 8:13 (WNT)",
+    "connected_from": "Revelation 8:12"
+  }
+]

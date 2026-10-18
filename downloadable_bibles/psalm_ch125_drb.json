@@ -1,0 +1,30 @@
+[
+  {
+    "text": "They that trust in the Lord shall be as mount Sion: he shall not be moved for ever that dwelleth",
+    "reference": "Psalm 125:1 (DRB)",
+    "connected_to": "Psalm 125:2"
+  },
+  {
+    "text": "in Jerusalem. Mountains are round about it: so the Lord is round about his people from henceforth now and for ever.",
+    "reference": "Psalm 125:2 (DRB)",
+    "connected_to": "Psalm 125:3",
+    "connected_from": "Psalm 125:1"
+  },
+  {
+    "text": "For the Lord will not leave the rod of sinners upon the lot of the just: that the just may not stretch forth their hands to iniquity.",
+    "reference": "Psalm 125:3 (DRB)",
+    "connected_to": "Psalm 125:4",
+    "connected_from": "Psalm 125:2"
+  },
+  {
+    "text": "Do good, O Lord, to those that are good, and to the upright of heart.",
+    "reference": "Psalm 125:4 (DRB)",
+    "connected_to": "Psalm 125:5",
+    "connected_from": "Psalm 125:3"
+  },
+  {
+    "text": "But such as turn aside into bonds, the Lord shall lead out with the workers of iniquity: peace upon Israel.",
+    "reference": "Psalm 125:5 (DRB)",
+    "connected_from": "Psalm 125:4"
+  }
+]

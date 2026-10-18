@@ -1,0 +1,246 @@
+[
+  {
+    "text": "But the Lord, responding to Job from a whirlwind, said:",
+    "reference": "Job 38:1 (CPDV)",
+    "connected_to": "Job 38:2"
+  },
+  {
+    "text": "Who is this that wraps sentences in unskilled words?",
+    "reference": "Job 38:2 (CPDV)",
+    "connected_to": "Job 38:3",
+    "connected_from": "Job 38:1"
+  },
+  {
+    "text": "Gird your waist like a man. I will question you, and you must answer me.",
+    "reference": "Job 38:3 (CPDV)",
+    "connected_to": "Job 38:4",
+    "connected_from": "Job 38:2"
+  },
+  {
+    "text": "Where were you, when I set the foundations of the earth? Tell me, if you have understanding.",
+    "reference": "Job 38:4 (CPDV)",
+    "connected_to": "Job 38:5",
+    "connected_from": "Job 38:3"
+  },
+  {
+    "text": "Who set its measurements, if you know, or who stretched a line over it?",
+    "reference": "Job 38:5 (CPDV)",
+    "connected_to": "Job 38:6",
+    "connected_from": "Job 38:4"
+  },
+  {
+    "text": "Upon what have its bases been grounded, and who set forth its cornerstone,",
+    "reference": "Job 38:6 (CPDV)",
+    "connected_to": "Job 38:7",
+    "connected_from": "Job 38:5"
+  },
+  {
+    "text": "when the morning stars praised me together, and all the sons of God made a joyful noise?",
+    "reference": "Job 38:7 (CPDV)",
+    "connected_to": "Job 38:8",
+    "connected_from": "Job 38:6"
+  },
+  {
+    "text": "Who enclosed the sea with doors, when it broke forth as if issuing from the womb,",
+    "reference": "Job 38:8 (CPDV)",
+    "connected_to": "Job 38:9",
+    "connected_from": "Job 38:7"
+  },
+  {
+    "text": "when I stationed a cloud as its garment and wrapped it in a mist as if swaddling an infant?",
+    "reference": "Job 38:9 (CPDV)",
+    "connected_to": "Job 38:10",
+    "connected_from": "Job 38:8"
+  },
+  {
+    "text": "I encircled it with my limits, and I positioned its bars and doors.",
+    "reference": "Job 38:10 (CPDV)",
+    "connected_to": "Job 38:11",
+    "connected_from": "Job 38:9"
+  },
+  {
+    "text": "And I said: “This far you will approach, and you will proceeded no further, and here you will break your swelling waves.”",
+    "reference": "Job 38:11 (CPDV)",
+    "connected_to": "Job 38:12",
+    "connected_from": "Job 38:10"
+  },
+  {
+    "text": "Did you, after your birth, command the birth of the sun and show the sunrise its place?",
+    "reference": "Job 38:12 (CPDV)",
+    "connected_to": "Job 38:13",
+    "connected_from": "Job 38:11"
+  },
+  {
+    "text": "And did you hold the extremities of the earth, shaking them, and have you shaken the impious out of it?",
+    "reference": "Job 38:13 (CPDV)",
+    "connected_to": "Job 38:14",
+    "connected_from": "Job 38:12"
+  },
+  {
+    "text": "The seal will be restored like clay, and it will remain in place like a garment.",
+    "reference": "Job 38:14 (CPDV)",
+    "connected_to": "Job 38:15",
+    "connected_from": "Job 38:13"
+  },
+  {
+    "text": "From the impious, the light will be taken away, and the exalted arm will be broken.",
+    "reference": "Job 38:15 (CPDV)",
+    "connected_to": "Job 38:16",
+    "connected_from": "Job 38:14"
+  },
+  {
+    "text": "Have you entered the depths of the sea, and have you taken a walk in the uttermost parts of the abyss?",
+    "reference": "Job 38:16 (CPDV)",
+    "connected_to": "Job 38:17",
+    "connected_from": "Job 38:15"
+  },
+  {
+    "text": "Have the gates of death been opened to you, and have you seen the doors of darkness?",
+    "reference": "Job 38:17 (CPDV)",
+    "connected_to": "Job 38:18",
+    "connected_from": "Job 38:16"
+  },
+  {
+    "text": "Have you considered the breadth of the earth? If you know all things, reveal them to me.",
+    "reference": "Job 38:18 (CPDV)",
+    "connected_to": "Job 38:19",
+    "connected_from": "Job 38:17"
+  },
+  {
+    "text": "Which is the way that holds the light, and which is the place of darkness?",
+    "reference": "Job 38:19 (CPDV)",
+    "connected_to": "Job 38:20",
+    "connected_from": "Job 38:18"
+  },
+  {
+    "text": "In this way, you might lead each thing to its final place, and understand the paths of its house.",
+    "reference": "Job 38:20 (CPDV)",
+    "connected_to": "Job 38:21",
+    "connected_from": "Job 38:19"
+  },
+  {
+    "text": "So then, did you know when you were to be born? And did you know the number of your days?",
+    "reference": "Job 38:21 (CPDV)",
+    "connected_to": "Job 38:22",
+    "connected_from": "Job 38:20"
+  },
+  {
+    "text": "Have you been admitted into the storehouses of the snows, and have you gazed upon the stockpile of the brimstone,",
+    "reference": "Job 38:22 (CPDV)",
+    "connected_to": "Job 38:23",
+    "connected_from": "Job 38:21"
+  },
+  {
+    "text": "which I have prepared for the time of the enemy, for the day of the battle and the war?",
+    "reference": "Job 38:23 (CPDV)",
+    "connected_to": "Job 38:24",
+    "connected_from": "Job 38:22"
+  },
+  {
+    "text": "In what way is the light scattered, and the heat distributed, over the earth?",
+    "reference": "Job 38:24 (CPDV)",
+    "connected_to": "Job 38:25",
+    "connected_from": "Job 38:23"
+  },
+  {
+    "text": "Who gave a course to the rainstorms, and a path to the resounding thunder,",
+    "reference": "Job 38:25 (CPDV)",
+    "connected_to": "Job 38:26",
+    "connected_from": "Job 38:24"
+  },
+  {
+    "text": "so that it would rain on the earth far from man, in the wilderness where no mortal lingers,",
+    "reference": "Job 38:26 (CPDV)",
+    "connected_to": "Job 38:27",
+    "connected_from": "Job 38:25"
+  },
+  {
+    "text": "so that it would fill impassable and desolate places, and would bring forth green plants?",
+    "reference": "Job 38:27 (CPDV)",
+    "connected_to": "Job 38:28",
+    "connected_from": "Job 38:26"
+  },
+  {
+    "text": "Who is the father of rain, or who conceived the drops of dew?",
+    "reference": "Job 38:28 (CPDV)",
+    "connected_to": "Job 38:29",
+    "connected_from": "Job 38:27"
+  },
+  {
+    "text": "From whose womb did the ice proceed, and who created the frost from the air?",
+    "reference": "Job 38:29 (CPDV)",
+    "connected_to": "Job 38:30",
+    "connected_from": "Job 38:28"
+  },
+  {
+    "text": "The waters are hardened to become like stone, and the surface of the abyss freezes over.",
+    "reference": "Job 38:30 (CPDV)",
+    "connected_to": "Job 38:31",
+    "connected_from": "Job 38:29"
+  },
+  {
+    "text": "Will you have the strength to join together the sparkling stars of the Pleiades, or are you able to disperse the circling of Arcturus?",
+    "reference": "Job 38:31 (CPDV)",
+    "connected_to": "Job 38:32",
+    "connected_from": "Job 38:30"
+  },
+  {
+    "text": "Can you bring forth the morning star, in its time, and make the evening star rise over the sons of the earth?",
+    "reference": "Job 38:32 (CPDV)",
+    "connected_to": "Job 38:33",
+    "connected_from": "Job 38:31"
+  },
+  {
+    "text": "Do you know the order of heaven, and can you explain its rules here on the earth?",
+    "reference": "Job 38:33 (CPDV)",
+    "connected_to": "Job 38:34",
+    "connected_from": "Job 38:32"
+  },
+  {
+    "text": "Can you lift up your voice to the clouds, so that an onslaught of waters will cover you?",
+    "reference": "Job 38:34 (CPDV)",
+    "connected_to": "Job 38:35",
+    "connected_from": "Job 38:33"
+  },
+  {
+    "text": "Can you send forth lightning bolts, and will they go, and on returning, say to you: “Here we are?”",
+    "reference": "Job 38:35 (CPDV)",
+    "connected_to": "Job 38:36",
+    "connected_from": "Job 38:34"
+  },
+  {
+    "text": "Who placed discernment in the guts of man, or who gave the rooster intelligence?",
+    "reference": "Job 38:36 (CPDV)",
+    "connected_to": "Job 38:37",
+    "connected_from": "Job 38:35"
+  },
+  {
+    "text": "Who can describe the rules of the heavens, or who can put to rest the harmony of heaven?",
+    "reference": "Job 38:37 (CPDV)",
+    "connected_to": "Job 38:38",
+    "connected_from": "Job 38:36"
+  },
+  {
+    "text": "When was the dust cast to become the earth, and when were its clods fastened together?",
+    "reference": "Job 38:38 (CPDV)",
+    "connected_to": "Job 38:39",
+    "connected_from": "Job 38:37"
+  },
+  {
+    "text": "Will you seize prey for the lioness, and will you sustain the lives of her young,",
+    "reference": "Job 38:39 (CPDV)",
+    "connected_to": "Job 38:40",
+    "connected_from": "Job 38:38"
+  },
+  {
+    "text": "as they rest in their dens or lie in wait in pits?",
+    "reference": "Job 38:40 (CPDV)",
+    "connected_to": "Job 38:41",
+    "connected_from": "Job 38:39"
+  },
+  {
+    "text": "Who provides the raven with its meal, when her chicks cry out to God, as they wander around because they have no food?",
+    "reference": "Job 38:41 (CPDV)",
+    "connected_from": "Job 38:40"
+  }
+]

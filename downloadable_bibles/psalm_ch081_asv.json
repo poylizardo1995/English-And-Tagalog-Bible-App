@@ -1,0 +1,96 @@
+[
+  {
+    "text": "For the Chief Musician; set to the Gittith. A Psalm of Asaph. Sing aloud unto God our strength: Make a joyful noise unto the God of Jacob.",
+    "reference": "Psalm 81:1 (ASV)",
+    "connected_to": "Psalm 81:2"
+  },
+  {
+    "text": "Raise a song, and bring hither the timbrel, The pleasant harp with the psaltery.",
+    "reference": "Psalm 81:2 (ASV)",
+    "connected_to": "Psalm 81:3",
+    "connected_from": "Psalm 81:1"
+  },
+  {
+    "text": "Blow the trumpet at the new moon, At the full moon, on our feast-day.",
+    "reference": "Psalm 81:3 (ASV)",
+    "connected_to": "Psalm 81:4",
+    "connected_from": "Psalm 81:2"
+  },
+  {
+    "text": "For it is a statute for Israel, An ordinance of the God of Jacob.",
+    "reference": "Psalm 81:4 (ASV)",
+    "connected_to": "Psalm 81:5",
+    "connected_from": "Psalm 81:3"
+  },
+  {
+    "text": "He appointed it in Joseph for a testimony, When he went out over the land of Egypt, Where I heard a language that I knew not.",
+    "reference": "Psalm 81:5 (ASV)",
+    "connected_to": "Psalm 81:6",
+    "connected_from": "Psalm 81:4"
+  },
+  {
+    "text": "I removed his shoulder from the burden: His hands were freed from the basket.",
+    "reference": "Psalm 81:6 (ASV)",
+    "connected_to": "Psalm 81:7",
+    "connected_from": "Psalm 81:5"
+  },
+  {
+    "text": "Thou calledst in trouble, and I delivered thee; I answered thee in the secret place of thunder; I proved thee at the waters of Meribah. [Selah",
+    "reference": "Psalm 81:7 (ASV)",
+    "connected_to": "Psalm 81:8",
+    "connected_from": "Psalm 81:6"
+  },
+  {
+    "text": "Hear, O my people, and I will testify unto thee: O Israel, if thou wouldest hearken unto me!",
+    "reference": "Psalm 81:8 (ASV)",
+    "connected_to": "Psalm 81:9",
+    "connected_from": "Psalm 81:7"
+  },
+  {
+    "text": "There shall no strange god be in thee; Neither shalt thou worship any foreign god.",
+    "reference": "Psalm 81:9 (ASV)",
+    "connected_to": "Psalm 81:10",
+    "connected_from": "Psalm 81:8"
+  },
+  {
+    "text": "I am Jehovah thy God, Who brought thee up out of the land of Egypt: Open thy mouth wide, and I will fill it.",
+    "reference": "Psalm 81:10 (ASV)",
+    "connected_to": "Psalm 81:11",
+    "connected_from": "Psalm 81:9"
+  },
+  {
+    "text": "But my people hearkened not to my voice; And Israel would none of me.",
+    "reference": "Psalm 81:11 (ASV)",
+    "connected_to": "Psalm 81:12",
+    "connected_from": "Psalm 81:10"
+  },
+  {
+    "text": "So I let them go after the stubbornness of their heart, That they might walk in their own counsels.",
+    "reference": "Psalm 81:12 (ASV)",
+    "connected_to": "Psalm 81:13",
+    "connected_from": "Psalm 81:11"
+  },
+  {
+    "text": "Oh that my people would hearken unto me, That Israel would walk in my ways!",
+    "reference": "Psalm 81:13 (ASV)",
+    "connected_to": "Psalm 81:14",
+    "connected_from": "Psalm 81:12"
+  },
+  {
+    "text": "I would soon subdue their enemies, And turn my hand against their adversaries.",
+    "reference": "Psalm 81:14 (ASV)",
+    "connected_to": "Psalm 81:15",
+    "connected_from": "Psalm 81:13"
+  },
+  {
+    "text": "The haters of Jehovah should submit themselves unto him: But their time should endure for ever.",
+    "reference": "Psalm 81:15 (ASV)",
+    "connected_to": "Psalm 81:16",
+    "connected_from": "Psalm 81:14"
+  },
+  {
+    "text": "He would feed them also with the finest of the wheat; And with honey out of the rock would I satisfy thee.",
+    "reference": "Psalm 81:16 (ASV)",
+    "connected_from": "Psalm 81:15"
+  }
+]

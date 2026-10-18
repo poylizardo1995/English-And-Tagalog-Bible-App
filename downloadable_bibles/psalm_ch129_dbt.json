@@ -1,0 +1,48 @@
+[
+  {
+    "text": "{A Song of degrees.} Many a time have they afflicted me from my youth—oh let Israel say—",
+    "reference": "Psalm 129:1 (DBT)",
+    "connected_to": "Psalm 129:2"
+  },
+  {
+    "text": "Many a time have they afflicted me from my youth; yet they have not prevailed against me.",
+    "reference": "Psalm 129:2 (DBT)",
+    "connected_to": "Psalm 129:3",
+    "connected_from": "Psalm 129:1"
+  },
+  {
+    "text": "The ploughers ploughed upon my back; they made long their furrows.",
+    "reference": "Psalm 129:3 (DBT)",
+    "connected_to": "Psalm 129:4",
+    "connected_from": "Psalm 129:2"
+  },
+  {
+    "text": "Jehovah is righteous: he hath cut asunder the cords of the wicked.",
+    "reference": "Psalm 129:4 (DBT)",
+    "connected_to": "Psalm 129:5",
+    "connected_from": "Psalm 129:3"
+  },
+  {
+    "text": "Let them be ashamed and turned backward, all that hate Zion;",
+    "reference": "Psalm 129:5 (DBT)",
+    "connected_to": "Psalm 129:6",
+    "connected_from": "Psalm 129:4"
+  },
+  {
+    "text": "Let them be as the grass upon the house-tops, which withereth before it is plucked up,",
+    "reference": "Psalm 129:6 (DBT)",
+    "connected_to": "Psalm 129:7",
+    "connected_from": "Psalm 129:5"
+  },
+  {
+    "text": "Wherewith the mower filleth not his hand, nor he that bindeth sheaves his bosom;",
+    "reference": "Psalm 129:7 (DBT)",
+    "connected_to": "Psalm 129:8",
+    "connected_from": "Psalm 129:6"
+  },
+  {
+    "text": "Neither do the passers-by say, The blessing of Jehovah be upon you; we bless you in the name of Jehovah!",
+    "reference": "Psalm 129:8 (DBT)",
+    "connected_from": "Psalm 129:7"
+  }
+]

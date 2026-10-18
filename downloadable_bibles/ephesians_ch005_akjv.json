@@ -1,0 +1,198 @@
+[
+  {
+    "text": "Be you therefore followers of God, as dear children;",
+    "reference": "Ephesians 5:1 (AKJV)",
+    "connected_to": "Ephesians 5:2"
+  },
+  {
+    "text": "And walk in love, as Christ also has loved us, and has given himself for us an offering and a sacrifice to God for a sweet smelling smell.",
+    "reference": "Ephesians 5:2 (AKJV)",
+    "connected_to": "Ephesians 5:3",
+    "connected_from": "Ephesians 5:1"
+  },
+  {
+    "text": "But fornication, and all uncleanness, or covetousness, let it not be once named among you, as becomes saints;",
+    "reference": "Ephesians 5:3 (AKJV)",
+    "connected_to": "Ephesians 5:4",
+    "connected_from": "Ephesians 5:2"
+  },
+  {
+    "text": "Neither filthiness, nor foolish talking, nor jesting, which are not convenient: but rather giving of thanks.",
+    "reference": "Ephesians 5:4 (AKJV)",
+    "connected_to": "Ephesians 5:5",
+    "connected_from": "Ephesians 5:3"
+  },
+  {
+    "text": "For this you know, that no fornicator, nor unclean person, nor covetous man, who is an idolater, has any inheritance in the kingdom of Christ and of God.",
+    "reference": "Ephesians 5:5 (AKJV)",
+    "connected_to": "Ephesians 5:6",
+    "connected_from": "Ephesians 5:4"
+  },
+  {
+    "text": "Let no man deceive you with vain words: for because of these things comes the wrath of God on the children of disobedience.",
+    "reference": "Ephesians 5:6 (AKJV)",
+    "connected_to": "Ephesians 5:7",
+    "connected_from": "Ephesians 5:5"
+  },
+  {
+    "text": "Be not you therefore partakers with them.",
+    "reference": "Ephesians 5:7 (AKJV)",
+    "connected_to": "Ephesians 5:8",
+    "connected_from": "Ephesians 5:6"
+  },
+  {
+    "text": "For you were sometimes darkness, but now are you light in the Lord: walk as children of light:",
+    "reference": "Ephesians 5:8 (AKJV)",
+    "connected_to": "Ephesians 5:9",
+    "connected_from": "Ephesians 5:7"
+  },
+  {
+    "text": "(For the fruit of the Spirit is in all goodness and righteousness and truth;)",
+    "reference": "Ephesians 5:9 (AKJV)",
+    "connected_to": "Ephesians 5:10",
+    "connected_from": "Ephesians 5:8"
+  },
+  {
+    "text": "Proving what is acceptable to the Lord.",
+    "reference": "Ephesians 5:10 (AKJV)",
+    "connected_to": "Ephesians 5:11",
+    "connected_from": "Ephesians 5:9"
+  },
+  {
+    "text": "And have no fellowship with the unfruitful works of darkness, but rather reprove them.",
+    "reference": "Ephesians 5:11 (AKJV)",
+    "connected_to": "Ephesians 5:12",
+    "connected_from": "Ephesians 5:10"
+  },
+  {
+    "text": "For it is a shame even to speak of those things which are done of them in secret.",
+    "reference": "Ephesians 5:12 (AKJV)",
+    "connected_to": "Ephesians 5:13",
+    "connected_from": "Ephesians 5:11"
+  },
+  {
+    "text": "But all things that are reproved are made manifest by the light: for whatever does make manifest is light.",
+    "reference": "Ephesians 5:13 (AKJV)",
+    "connected_to": "Ephesians 5:14",
+    "connected_from": "Ephesians 5:12"
+  },
+  {
+    "text": "Why he said, Awake you that sleep, and arise from the dead, and Christ shall give you light.",
+    "reference": "Ephesians 5:14 (AKJV)",
+    "connected_to": "Ephesians 5:15",
+    "connected_from": "Ephesians 5:13"
+  },
+  {
+    "text": "See then that you walk circumspectly, not as fools, but as wise,",
+    "reference": "Ephesians 5:15 (AKJV)",
+    "connected_to": "Ephesians 5:16",
+    "connected_from": "Ephesians 5:14"
+  },
+  {
+    "text": "Redeeming the time, because the days are evil.",
+    "reference": "Ephesians 5:16 (AKJV)",
+    "connected_to": "Ephesians 5:17",
+    "connected_from": "Ephesians 5:15"
+  },
+  {
+    "text": "Why be you not unwise, but understanding what the will of the Lord is.",
+    "reference": "Ephesians 5:17 (AKJV)",
+    "connected_to": "Ephesians 5:18",
+    "connected_from": "Ephesians 5:16"
+  },
+  {
+    "text": "And be not drunk with wine, wherein is excess; but be filled with the Spirit;",
+    "reference": "Ephesians 5:18 (AKJV)",
+    "connected_to": "Ephesians 5:19",
+    "connected_from": "Ephesians 5:17"
+  },
+  {
+    "text": "Speaking to yourselves in psalms and hymns and spiritual songs, singing and making melody in your heart to the Lord;",
+    "reference": "Ephesians 5:19 (AKJV)",
+    "connected_to": "Ephesians 5:20",
+    "connected_from": "Ephesians 5:18"
+  },
+  {
+    "text": "Giving thanks always for all things to God and the Father in the name of our Lord Jesus Christ;",
+    "reference": "Ephesians 5:20 (AKJV)",
+    "connected_to": "Ephesians 5:21",
+    "connected_from": "Ephesians 5:19"
+  },
+  {
+    "text": "Submitting yourselves one to another in the fear of God.",
+    "reference": "Ephesians 5:21 (AKJV)",
+    "connected_to": "Ephesians 5:22",
+    "connected_from": "Ephesians 5:20"
+  },
+  {
+    "text": "Wives, submit yourselves to your own husbands, as to the Lord.",
+    "reference": "Ephesians 5:22 (AKJV)",
+    "connected_to": "Ephesians 5:23",
+    "connected_from": "Ephesians 5:21"
+  },
+  {
+    "text": "For the husband is the head of the wife, even as Christ is the head of the church: and he is the savior of the body.",
+    "reference": "Ephesians 5:23 (AKJV)",
+    "connected_to": "Ephesians 5:24",
+    "connected_from": "Ephesians 5:22"
+  },
+  {
+    "text": "Therefore as the church is subject to Christ, so let the wives be to their own husbands in every thing.",
+    "reference": "Ephesians 5:24 (AKJV)",
+    "connected_to": "Ephesians 5:25",
+    "connected_from": "Ephesians 5:23"
+  },
+  {
+    "text": "Husbands, love your wives, even as Christ also loved the church, and gave himself for it;",
+    "reference": "Ephesians 5:25 (AKJV)",
+    "connected_to": "Ephesians 5:26",
+    "connected_from": "Ephesians 5:24"
+  },
+  {
+    "text": "That he might sanctify and cleanse it with the washing of water by the word,",
+    "reference": "Ephesians 5:26 (AKJV)",
+    "connected_to": "Ephesians 5:27",
+    "connected_from": "Ephesians 5:25"
+  },
+  {
+    "text": "That he might present it to himself a glorious church, not having spot, or wrinkle, or any such thing; but that it should be holy and without blemish.",
+    "reference": "Ephesians 5:27 (AKJV)",
+    "connected_to": "Ephesians 5:28",
+    "connected_from": "Ephesians 5:26"
+  },
+  {
+    "text": "So ought men to love their wives as their own bodies. He that loves his wife loves himself.",
+    "reference": "Ephesians 5:28 (AKJV)",
+    "connected_to": "Ephesians 5:29",
+    "connected_from": "Ephesians 5:27"
+  },
+  {
+    "text": "For no man ever yet hated his own flesh; but nourishes and cherishes it, even as the Lord the church:",
+    "reference": "Ephesians 5:29 (AKJV)",
+    "connected_to": "Ephesians 5:30",
+    "connected_from": "Ephesians 5:28"
+  },
+  {
+    "text": "For we are members of his body, of his flesh, and of his bones.",
+    "reference": "Ephesians 5:30 (AKJV)",
+    "connected_to": "Ephesians 5:31",
+    "connected_from": "Ephesians 5:29"
+  },
+  {
+    "text": "For this cause shall a man leave his father and mother, and shall be joined to his wife, and they two shall be one flesh.",
+    "reference": "Ephesians 5:31 (AKJV)",
+    "connected_to": "Ephesians 5:32",
+    "connected_from": "Ephesians 5:30"
+  },
+  {
+    "text": "This is a great mystery: but I speak concerning Christ and the church.",
+    "reference": "Ephesians 5:32 (AKJV)",
+    "connected_to": "Ephesians 5:33",
+    "connected_from": "Ephesians 5:31"
+  },
+  {
+    "text": "Nevertheless let every one of you in particular so love his wife even as himself; and the wife see that she reverence her husband.",
+    "reference": "Ephesians 5:33 (AKJV)",
+    "connected_from": "Ephesians 5:32"
+  }
+]

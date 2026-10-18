@@ -1,0 +1,48 @@
+[
+  {
+    "text": "A Psalm of Asaph (gatherer). <span class=|reftext|><a href=|#|><b>1</b></a> God {Elohim} presides in the divine assembly; He renders judgment among the gods:",
+    "reference": "Psalm 82:1 (BAB)",
+    "connected_to": "Psalm 82:2"
+  },
+  {
+    "text": "“How long will you⁺ judge unjustly (How long will you defend the unjust) and show partiality to the wicked? Selah",
+    "reference": "Psalm 82:2 (BAB)",
+    "connected_to": "Psalm 82:3",
+    "connected_from": "Psalm 82:1"
+  },
+  {
+    "text": "Defend the cause of the weak and fatherless; uphold the rights of the afflicted and oppressed.",
+    "reference": "Psalm 82:3 (BAB)",
+    "connected_to": "Psalm 82:4",
+    "connected_from": "Psalm 82:2"
+  },
+  {
+    "text": "Rescue the weak and needy; save them from the hand of the wicked.",
+    "reference": "Psalm 82:4 (BAB)",
+    "connected_to": "Psalm 82:5",
+    "connected_from": "Psalm 82:3"
+  },
+  {
+    "text": "They do not know or understand; they wander in the darkness; all the foundations of the earth are shaken.",
+    "reference": "Psalm 82:5 (BAB)",
+    "connected_to": "Psalm 82:6",
+    "connected_from": "Psalm 82:4"
+  },
+  {
+    "text": "I have said, ‘You⁺ are gods; you⁺ are all sons of the Most High <Jhn 10:34>.’",
+    "reference": "Psalm 82:6 (BAB)",
+    "connected_to": "Psalm 82:7",
+    "connected_from": "Psalm 82:5"
+  },
+  {
+    "text": "But like mortals you⁺ will die, and like rulers you⁺ will fall.”",
+    "reference": "Psalm 82:7 (BAB)",
+    "connected_to": "Psalm 82:8",
+    "connected_from": "Psalm 82:6"
+  },
+  {
+    "text": "Arise, O God {Elohim}, judge the earth, for all the nations are Your inheritance.",
+    "reference": "Psalm 82:8 (BAB)",
+    "connected_from": "Psalm 82:7"
+  }
+]

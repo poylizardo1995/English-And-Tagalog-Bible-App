@@ -1,0 +1,252 @@
+[
+  {
+    "text": "There was a man of the name of Ananias who, with his wife Sapphira, sold some property but,",
+    "reference": "Acts 5:1 (WNT)",
+    "connected_to": "Acts 5:2"
+  },
+  {
+    "text": "with her full knowledge and consent, dishonestly kept back part of the price which he received for it, though he brought the rest and gave it to the Apostles.",
+    "reference": "Acts 5:2 (WNT)",
+    "connected_to": "Acts 5:3",
+    "connected_from": "Acts 5:1"
+  },
+  {
+    "text": "“Ananias,” said Peter, “why has Satan taken possession of your heart, that you should try to deceive the Holy Spirit and dishonestly keep back part of the price paid you for this land?",
+    "reference": "Acts 5:3 (WNT)",
+    "connected_to": "Acts 5:4",
+    "connected_from": "Acts 5:2"
+  },
+  {
+    "text": "While it remained unsold, was not the land your own? And when sold, was it not at your own disposal? How is it that you have cherished this design in your heart? It is not to men you have told this lie, but to God.”",
+    "reference": "Acts 5:4 (WNT)",
+    "connected_to": "Acts 5:5",
+    "connected_from": "Acts 5:3"
+  },
+  {
+    "text": "Upon hearing these words Ananias fell down dead, and all who heard the words were awe-struck.",
+    "reference": "Acts 5:5 (WNT)",
+    "connected_to": "Acts 5:6",
+    "connected_from": "Acts 5:4"
+  },
+  {
+    "text": "The younger men, however, rose, and wrapping the body up, carried it out and buried it.",
+    "reference": "Acts 5:6 (WNT)",
+    "connected_to": "Acts 5:7",
+    "connected_from": "Acts 5:5"
+  },
+  {
+    "text": "About three hours had passed, when his wife came in, knowing nothing of what had happened.",
+    "reference": "Acts 5:7 (WNT)",
+    "connected_to": "Acts 5:8",
+    "connected_from": "Acts 5:6"
+  },
+  {
+    "text": "Peter at once questioned her. “Tell me,” he said, “whether you sold the land for so much.” “Yes,” she replied, “for so much.”",
+    "reference": "Acts 5:8 (WNT)",
+    "connected_to": "Acts 5:9",
+    "connected_from": "Acts 5:7"
+  },
+  {
+    "text": "“How was it,” replied Peter, “that you two agreed to try an experiment upon the Spirit of the Lord? The men who have buried your husband are already at the door, and they will carry you out.”",
+    "reference": "Acts 5:9 (WNT)",
+    "connected_to": "Acts 5:10",
+    "connected_from": "Acts 5:8"
+  },
+  {
+    "text": "Instantly she fell down dead at his feet, and the young men came in and found her dead. So they carried her out and buried her by her husband’s side.",
+    "reference": "Acts 5:10 (WNT)",
+    "connected_to": "Acts 5:11",
+    "connected_from": "Acts 5:9"
+  },
+  {
+    "text": "This incident struck terror into the whole Church, and into the hearts of all who heard of it.",
+    "reference": "Acts 5:11 (WNT)",
+    "connected_to": "Acts 5:12",
+    "connected_from": "Acts 5:10"
+  },
+  {
+    "text": "Many signs and marvels continued to be done among the people by the Apostles; and by common consent they all met in Solomon’s Portico.",
+    "reference": "Acts 5:12 (WNT)",
+    "connected_to": "Acts 5:13",
+    "connected_from": "Acts 5:11"
+  },
+  {
+    "text": "But none of the others dared to attach themselves to them. Yet the people held them in high honour—",
+    "reference": "Acts 5:13 (WNT)",
+    "connected_to": "Acts 5:14",
+    "connected_from": "Acts 5:12"
+  },
+  {
+    "text": "and more and more believers in the Lord joined them, including great numbers both of men and women—",
+    "reference": "Acts 5:14 (WNT)",
+    "connected_to": "Acts 5:15",
+    "connected_from": "Acts 5:13"
+  },
+  {
+    "text": "so that they would even bring out their sick friends into the streets and lay them on light couches or mats, in order that when Peter came by, at least his shadow might fall on one or other of them.",
+    "reference": "Acts 5:15 (WNT)",
+    "connected_to": "Acts 5:16",
+    "connected_from": "Acts 5:14"
+  },
+  {
+    "text": "The inhabitants, too, of the towns in the neighbourhood of Jerusalem came in crowds, bringing sick persons and some who were harassed by foul spirits, and they were cured, one and all.",
+    "reference": "Acts 5:16 (WNT)",
+    "connected_to": "Acts 5:17",
+    "connected_from": "Acts 5:15"
+  },
+  {
+    "text": "This roused the High Priest. He and all his party—the sect of the Sadducees—were filled with angry jealousy",
+    "reference": "Acts 5:17 (WNT)",
+    "connected_to": "Acts 5:18",
+    "connected_from": "Acts 5:16"
+  },
+  {
+    "text": "and laid hands upon the Apostles, and put them into the public jail.",
+    "reference": "Acts 5:18 (WNT)",
+    "connected_to": "Acts 5:19",
+    "connected_from": "Acts 5:17"
+  },
+  {
+    "text": "But during the night an angel of the Lord opened the prison doors and brought them out, and said,",
+    "reference": "Acts 5:19 (WNT)",
+    "connected_to": "Acts 5:20",
+    "connected_from": "Acts 5:18"
+  },
+  {
+    "text": "“Go and stand in the Temple, and go on proclaiming to the people all this Message of Life.”",
+    "reference": "Acts 5:20 (WNT)",
+    "connected_to": "Acts 5:21",
+    "connected_from": "Acts 5:19"
+  },
+  {
+    "text": "Having received that command they went into the Temple, just before daybreak, and began to teach: So when the High Priest and his party came, and had called together the Sanhedrin as well as all the Elders of the descendants of Israel, they sent to the jail to fetch the Apostles.",
+    "reference": "Acts 5:21 (WNT)",
+    "connected_to": "Acts 5:22",
+    "connected_from": "Acts 5:20"
+  },
+  {
+    "text": "But the officers went and could not find them in the prison. So they came back and brought word,",
+    "reference": "Acts 5:22 (WNT)",
+    "connected_to": "Acts 5:23",
+    "connected_from": "Acts 5:21"
+  },
+  {
+    "text": "saying, “The jail we found quite safely locked, and the warders were on guard at the doors, but upon going in we found no one there.”",
+    "reference": "Acts 5:23 (WNT)",
+    "connected_to": "Acts 5:24",
+    "connected_from": "Acts 5:22"
+  },
+  {
+    "text": "When the Commander of the Temple Guards and the High Priests heard this statement, they were utterly at a loss with regard to it, wondering what would happen next.",
+    "reference": "Acts 5:24 (WNT)",
+    "connected_to": "Acts 5:25",
+    "connected_from": "Acts 5:23"
+  },
+  {
+    "text": "And some one came and brought them word, saying, “The men you put in prison are actually in the Temple, standing there, teaching the people.”",
+    "reference": "Acts 5:25 (WNT)",
+    "connected_to": "Acts 5:26",
+    "connected_from": "Acts 5:24"
+  },
+  {
+    "text": "Upon this the Commander went with the officers, and brought the Apostles; but without using violence; for they were afraid of being stoned by the people.",
+    "reference": "Acts 5:26 (WNT)",
+    "connected_to": "Acts 5:27",
+    "connected_from": "Acts 5:25"
+  },
+  {
+    "text": "So they brought them and made them stand in front of the Sanhedrin. And then the High Priest questioned them.",
+    "reference": "Acts 5:27 (WNT)",
+    "connected_to": "Acts 5:28",
+    "connected_from": "Acts 5:26"
+  },
+  {
+    "text": "“We strictly forbad you to teach in that name—did we not?” he said. “And see, you have filled Jerusalem with your teaching, and are trying to make us responsible for that man’s death!”",
+    "reference": "Acts 5:28 (WNT)",
+    "connected_to": "Acts 5:29",
+    "connected_from": "Acts 5:27"
+  },
+  {
+    "text": "Peter and the other Apostles replied, “We must obey God rather than man.",
+    "reference": "Acts 5:29 (WNT)",
+    "connected_to": "Acts 5:30",
+    "connected_from": "Acts 5:28"
+  },
+  {
+    "text": "The God of our forefathers has raised Jesus to life, whom you crucified and put to death.",
+    "reference": "Acts 5:30 (WNT)",
+    "connected_to": "Acts 5:31",
+    "connected_from": "Acts 5:29"
+  },
+  {
+    "text": "God has exalted Him to His right hand as Chief Leader and as Saviour, to give Israel repentance and forgiveness of sins.",
+    "reference": "Acts 5:31 (WNT)",
+    "connected_to": "Acts 5:32",
+    "connected_from": "Acts 5:30"
+  },
+  {
+    "text": "And we—and the Holy Spirit whom God has given to those who obey Him—are witnesses as to these things.”",
+    "reference": "Acts 5:32 (WNT)",
+    "connected_to": "Acts 5:33",
+    "connected_from": "Acts 5:31"
+  },
+  {
+    "text": "Infuriated at getting this answer, they were disposed to kill the Apostles.",
+    "reference": "Acts 5:33 (WNT)",
+    "connected_to": "Acts 5:34",
+    "connected_from": "Acts 5:32"
+  },
+  {
+    "text": "But a Pharisee of the name of Gamaliel, a teacher of the Law, held in honour by all the people, rose from his seat and requested that they should be sent outside the court for a few minutes.",
+    "reference": "Acts 5:34 (WNT)",
+    "connected_to": "Acts 5:35",
+    "connected_from": "Acts 5:33"
+  },
+  {
+    "text": "“Israelites,” he said, “be careful what you are about to do in dealing with these men.",
+    "reference": "Acts 5:35 (WNT)",
+    "connected_to": "Acts 5:36",
+    "connected_from": "Acts 5:34"
+  },
+  {
+    "text": "Years ago Theudas appeared, professing to be a person of importance, and a body of men, some four hundred in number, joined him. He was killed, and all his followers were dispersed and annihilated.",
+    "reference": "Acts 5:36 (WNT)",
+    "connected_to": "Acts 5:37",
+    "connected_from": "Acts 5:35"
+  },
+  {
+    "text": "After him, at the time of the Census, came Judas, the Galilaean, and was the leader in a revolt. He too perished, and all his followers were scattered.",
+    "reference": "Acts 5:37 (WNT)",
+    "connected_to": "Acts 5:38",
+    "connected_from": "Acts 5:36"
+  },
+  {
+    "text": "And now I tell you to hold aloof from these men and leave them alone—for if this scheme or work is of human origin, it will come to nothing.",
+    "reference": "Acts 5:38 (WNT)",
+    "connected_to": "Acts 5:39",
+    "connected_from": "Acts 5:37"
+  },
+  {
+    "text": "But if it is really from God, you will be powerless to put them down—lest perhaps you find yourselves to be actually fighting against God.”",
+    "reference": "Acts 5:39 (WNT)",
+    "connected_to": "Acts 5:40",
+    "connected_from": "Acts 5:38"
+  },
+  {
+    "text": "His advice carried conviction. So they called the Apostles in, and—after flogging them—ordered them not to speak in the name of Jesus, and then let them go.",
+    "reference": "Acts 5:40 (WNT)",
+    "connected_to": "Acts 5:41",
+    "connected_from": "Acts 5:39"
+  },
+  {
+    "text": "They, therefore, left the Sanhedrin and went their way, rejoicing that they had been deemed worthy to suffer disgrace on behalf of the NAME.",
+    "reference": "Acts 5:41 (WNT)",
+    "connected_to": "Acts 5:42",
+    "connected_from": "Acts 5:40"
+  },
+  {
+    "text": "But they did not desist from teaching every day, in the Temple or in private houses, and telling the Good News about Jesus, the Christ.",
+    "reference": "Acts 5:42 (WNT)",
+    "connected_from": "Acts 5:41"
+  }
+]

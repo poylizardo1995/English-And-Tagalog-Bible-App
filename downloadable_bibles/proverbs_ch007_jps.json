@@ -1,0 +1,162 @@
+[
+  {
+    "text": "My son, keep my words, And lay up my commandments with thee.",
+    "reference": "Proverbs 7:1 (JPS)",
+    "connected_to": "Proverbs 7:2"
+  },
+  {
+    "text": "Keep my commandments and live, And my teaching as the apple of thine eye.",
+    "reference": "Proverbs 7:2 (JPS)",
+    "connected_to": "Proverbs 7:3",
+    "connected_from": "Proverbs 7:1"
+  },
+  {
+    "text": "Bind them upon thy fingers, Write them upon the table of thy heart.",
+    "reference": "Proverbs 7:3 (JPS)",
+    "connected_to": "Proverbs 7:4",
+    "connected_from": "Proverbs 7:2"
+  },
+  {
+    "text": "Say unto wisdom: ‘Thou art my sister’, And call understanding thy kinswoman;",
+    "reference": "Proverbs 7:4 (JPS)",
+    "connected_to": "Proverbs 7:5",
+    "connected_from": "Proverbs 7:3"
+  },
+  {
+    "text": "That they may keep thee from the strange woman, From the alien woman that maketh smooth her words.",
+    "reference": "Proverbs 7:5 (JPS)",
+    "connected_to": "Proverbs 7:6",
+    "connected_from": "Proverbs 7:4"
+  },
+  {
+    "text": "For at the window of my house I looked forth through my lattice;",
+    "reference": "Proverbs 7:6 (JPS)",
+    "connected_to": "Proverbs 7:7",
+    "connected_from": "Proverbs 7:5"
+  },
+  {
+    "text": "And I beheld among the thoughtless ones, I discerned among the youths, A young man void of understanding,",
+    "reference": "Proverbs 7:7 (JPS)",
+    "connected_to": "Proverbs 7:8",
+    "connected_from": "Proverbs 7:6"
+  },
+  {
+    "text": "Passing through the street near her corner, And he went the way to her house;",
+    "reference": "Proverbs 7:8 (JPS)",
+    "connected_to": "Proverbs 7:9",
+    "connected_from": "Proverbs 7:7"
+  },
+  {
+    "text": "In the twilight, in the evening of the day, In the blackness of night and the darkness.",
+    "reference": "Proverbs 7:9 (JPS)",
+    "connected_to": "Proverbs 7:10",
+    "connected_from": "Proverbs 7:8"
+  },
+  {
+    "text": "And, behold, there met him a woman With the attire of a harlot, and wily of heart.",
+    "reference": "Proverbs 7:10 (JPS)",
+    "connected_to": "Proverbs 7:11",
+    "connected_from": "Proverbs 7:9"
+  },
+  {
+    "text": "She is riotous and rebellious, Her feet abide not in her house;",
+    "reference": "Proverbs 7:11 (JPS)",
+    "connected_to": "Proverbs 7:12",
+    "connected_from": "Proverbs 7:10"
+  },
+  {
+    "text": "Now she is in the streets, now in the broad places, And lieth in wait at every corner.",
+    "reference": "Proverbs 7:12 (JPS)",
+    "connected_to": "Proverbs 7:13",
+    "connected_from": "Proverbs 7:11"
+  },
+  {
+    "text": "So she caught him, and kissed him, And with an impudent face she said unto him:",
+    "reference": "Proverbs 7:13 (JPS)",
+    "connected_to": "Proverbs 7:14",
+    "connected_from": "Proverbs 7:12"
+  },
+  {
+    "text": "Sacrifices of peace-offerings were due from me; This day have I paid my vows.",
+    "reference": "Proverbs 7:14 (JPS)",
+    "connected_to": "Proverbs 7:15",
+    "connected_from": "Proverbs 7:13"
+  },
+  {
+    "text": "Therefore came I forth to meet thee, To seek thy face, and I have found thee.",
+    "reference": "Proverbs 7:15 (JPS)",
+    "connected_to": "Proverbs 7:16",
+    "connected_from": "Proverbs 7:14"
+  },
+  {
+    "text": "I have decked my couch with coverlets, With striped cloths of the yarn of Egypt.",
+    "reference": "Proverbs 7:16 (JPS)",
+    "connected_to": "Proverbs 7:17",
+    "connected_from": "Proverbs 7:15"
+  },
+  {
+    "text": "I have perfumed my bed With myrrh, aloes, and cinnamon.",
+    "reference": "Proverbs 7:17 (JPS)",
+    "connected_to": "Proverbs 7:18",
+    "connected_from": "Proverbs 7:16"
+  },
+  {
+    "text": "Come, let us take our fill of love until the morning; Let us solace ourselves with loves.",
+    "reference": "Proverbs 7:18 (JPS)",
+    "connected_to": "Proverbs 7:19",
+    "connected_from": "Proverbs 7:17"
+  },
+  {
+    "text": "For my husband is not at home, He is gone a long journey;",
+    "reference": "Proverbs 7:19 (JPS)",
+    "connected_to": "Proverbs 7:20",
+    "connected_from": "Proverbs 7:18"
+  },
+  {
+    "text": "He hath taken the bag of money with him; He will come home at the full moon.’",
+    "reference": "Proverbs 7:20 (JPS)",
+    "connected_to": "Proverbs 7:21",
+    "connected_from": "Proverbs 7:19"
+  },
+  {
+    "text": "With her much fair speech she causeth him to yield, With the blandishment of her lips she enticeth him away.",
+    "reference": "Proverbs 7:21 (JPS)",
+    "connected_to": "Proverbs 7:22",
+    "connected_from": "Proverbs 7:20"
+  },
+  {
+    "text": "He goeth after her straightway, As an ox that goeth to the slaughter, Or as one in fetters to the correction of the fool;",
+    "reference": "Proverbs 7:22 (JPS)",
+    "connected_to": "Proverbs 7:23",
+    "connected_from": "Proverbs 7:21"
+  },
+  {
+    "text": "Till an arrow strike through his liver; As a bird hasteneth to the snare—And knoweth not that it is at the cost of his life.",
+    "reference": "Proverbs 7:23 (JPS)",
+    "connected_to": "Proverbs 7:24",
+    "connected_from": "Proverbs 7:22"
+  },
+  {
+    "text": "Now therefore, O ye children, hearken unto me, And attend to the words of my mouth.",
+    "reference": "Proverbs 7:24 (JPS)",
+    "connected_to": "Proverbs 7:25",
+    "connected_from": "Proverbs 7:23"
+  },
+  {
+    "text": "Let not thy heart decline to her ways, Go not astray in her paths.",
+    "reference": "Proverbs 7:25 (JPS)",
+    "connected_to": "Proverbs 7:26",
+    "connected_from": "Proverbs 7:24"
+  },
+  {
+    "text": "For she hath cast down many wounded; Yea, a mighty host are all her slain.",
+    "reference": "Proverbs 7:26 (JPS)",
+    "connected_to": "Proverbs 7:27",
+    "connected_from": "Proverbs 7:25"
+  },
+  {
+    "text": "Her house is the way to the nether-world, Going down to the chambers of death.",
+    "reference": "Proverbs 7:27 (JPS)",
+    "connected_from": "Proverbs 7:26"
+  }
+]

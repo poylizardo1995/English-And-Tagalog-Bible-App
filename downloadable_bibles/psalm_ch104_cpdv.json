@@ -1,0 +1,210 @@
+[
+  {
+    "text": "To David himself. Bless the Lord, O my soul. O Lord my God, you are exceedingly great. You have clothed yourself with confession and beauty;",
+    "reference": "Psalm 104:1 (CPDV)",
+    "connected_to": "Psalm 104:2"
+  },
+  {
+    "text": "you are dressed with light like a garment, while you stretch out heaven like a tent.",
+    "reference": "Psalm 104:2 (CPDV)",
+    "connected_to": "Psalm 104:3",
+    "connected_from": "Psalm 104:1"
+  },
+  {
+    "text": "You cover its heights with water. You set the clouds as your stairs. You walk upon the wings of the winds.",
+    "reference": "Psalm 104:3 (CPDV)",
+    "connected_to": "Psalm 104:4",
+    "connected_from": "Psalm 104:2"
+  },
+  {
+    "text": "You make your Angels a breath of life, and your ministers a burning fire.",
+    "reference": "Psalm 104:4 (CPDV)",
+    "connected_to": "Psalm 104:5",
+    "connected_from": "Psalm 104:3"
+  },
+  {
+    "text": "You founded the earth upon its stable base. It will not be bent from age to age.",
+    "reference": "Psalm 104:5 (CPDV)",
+    "connected_to": "Psalm 104:6",
+    "connected_from": "Psalm 104:4"
+  },
+  {
+    "text": "The abyss, like a garment, is its clothing. The waters will remain standing above the mountains.",
+    "reference": "Psalm 104:6 (CPDV)",
+    "connected_to": "Psalm 104:7",
+    "connected_from": "Psalm 104:5"
+  },
+  {
+    "text": "At your rebuke, they will flee. At the voice of your thunder, they will dread.",
+    "reference": "Psalm 104:7 (CPDV)",
+    "connected_to": "Psalm 104:8",
+    "connected_from": "Psalm 104:6"
+  },
+  {
+    "text": "The mountains ascend, and the plains descend, to the place which you have founded for them.",
+    "reference": "Psalm 104:8 (CPDV)",
+    "connected_to": "Psalm 104:9",
+    "connected_from": "Psalm 104:7"
+  },
+  {
+    "text": "You have set a limit that they will not cross. And they will not return to cover the earth.",
+    "reference": "Psalm 104:9 (CPDV)",
+    "connected_to": "Psalm 104:10",
+    "connected_from": "Psalm 104:8"
+  },
+  {
+    "text": "You spring forth fountains in steep valleys. The waters will cross through the midst of the mountains.",
+    "reference": "Psalm 104:10 (CPDV)",
+    "connected_to": "Psalm 104:11",
+    "connected_from": "Psalm 104:9"
+  },
+  {
+    "text": "All the wild beasts of the field will drink. The wild donkeys will anticipate in their thirst.",
+    "reference": "Psalm 104:11 (CPDV)",
+    "connected_to": "Psalm 104:12",
+    "connected_from": "Psalm 104:10"
+  },
+  {
+    "text": "Above them, the flying things of the air will dwell. From the midst of the rocks, they will utter voices.",
+    "reference": "Psalm 104:12 (CPDV)",
+    "connected_to": "Psalm 104:13",
+    "connected_from": "Psalm 104:11"
+  },
+  {
+    "text": "You irrigate the mountains from your heights. The earth will be satiated from the fruit of your works,",
+    "reference": "Psalm 104:13 (CPDV)",
+    "connected_to": "Psalm 104:14",
+    "connected_from": "Psalm 104:12"
+  },
+  {
+    "text": "producing grass for cattle and herbs for the service of men. So may you draw bread from the earth,",
+    "reference": "Psalm 104:14 (CPDV)",
+    "connected_to": "Psalm 104:15",
+    "connected_from": "Psalm 104:13"
+  },
+  {
+    "text": "and wine, in order to cheer the heart of man. Then he may gladden his face with oil, and bread will confirm the heart of man.",
+    "reference": "Psalm 104:15 (CPDV)",
+    "connected_to": "Psalm 104:16",
+    "connected_from": "Psalm 104:14"
+  },
+  {
+    "text": "The trees of the field will be saturated, along with the cedars of Lebanon, which he planted.",
+    "reference": "Psalm 104:16 (CPDV)",
+    "connected_to": "Psalm 104:17",
+    "connected_from": "Psalm 104:15"
+  },
+  {
+    "text": "There, the sparrows will make their nests. The leader of them is the house of the heron.",
+    "reference": "Psalm 104:17 (CPDV)",
+    "connected_to": "Psalm 104:18",
+    "connected_from": "Psalm 104:16"
+  },
+  {
+    "text": "The heights of the hills are for the deer; the rock is a refuge for the hedgehog.",
+    "reference": "Psalm 104:18 (CPDV)",
+    "connected_to": "Psalm 104:19",
+    "connected_from": "Psalm 104:17"
+  },
+  {
+    "text": "He has made the moon for seasons; the sun knows its setting.",
+    "reference": "Psalm 104:19 (CPDV)",
+    "connected_to": "Psalm 104:20",
+    "connected_from": "Psalm 104:18"
+  },
+  {
+    "text": "You appointed darkness, and it has become night; all the beasts of the forest will cross through it.",
+    "reference": "Psalm 104:20 (CPDV)",
+    "connected_to": "Psalm 104:21",
+    "connected_from": "Psalm 104:19"
+  },
+  {
+    "text": "The young lions will roar, while searching for and seizing their meal from God.",
+    "reference": "Psalm 104:21 (CPDV)",
+    "connected_to": "Psalm 104:22",
+    "connected_from": "Psalm 104:20"
+  },
+  {
+    "text": "The sun arose, and they were gathered together; and in their dens, they will lie down together.",
+    "reference": "Psalm 104:22 (CPDV)",
+    "connected_to": "Psalm 104:23",
+    "connected_from": "Psalm 104:21"
+  },
+  {
+    "text": "Man will go forth to his work and to his activities, until the evening.",
+    "reference": "Psalm 104:23 (CPDV)",
+    "connected_to": "Psalm 104:24",
+    "connected_from": "Psalm 104:22"
+  },
+  {
+    "text": "How great are your works, O Lord! You have made all things in wisdom. The earth has been filled with your possessions.",
+    "reference": "Psalm 104:24 (CPDV)",
+    "connected_to": "Psalm 104:25",
+    "connected_from": "Psalm 104:23"
+  },
+  {
+    "text": "This sea is great and its hands are spacious. There are creeping things without number: the small animals with the great.",
+    "reference": "Psalm 104:25 (CPDV)",
+    "connected_to": "Psalm 104:26",
+    "connected_from": "Psalm 104:24"
+  },
+  {
+    "text": "There, the ships will pass by this sea-serpent that you have formed to mock them.",
+    "reference": "Psalm 104:26 (CPDV)",
+    "connected_to": "Psalm 104:27",
+    "connected_from": "Psalm 104:25"
+  },
+  {
+    "text": "All these expect you to give them food in due time.",
+    "reference": "Psalm 104:27 (CPDV)",
+    "connected_to": "Psalm 104:28",
+    "connected_from": "Psalm 104:26"
+  },
+  {
+    "text": "What you give to them, they will gather. When you open your hand, they will all be filled with goodness.",
+    "reference": "Psalm 104:28 (CPDV)",
+    "connected_to": "Psalm 104:29",
+    "connected_from": "Psalm 104:27"
+  },
+  {
+    "text": "But if you turn your face away, they will be disturbed. You will take away their breath, and they will fail, and they will return to their dust.",
+    "reference": "Psalm 104:29 (CPDV)",
+    "connected_to": "Psalm 104:30",
+    "connected_from": "Psalm 104:28"
+  },
+  {
+    "text": "You will send forth your Spirit, and they will be created. And you will renew the face of the earth.",
+    "reference": "Psalm 104:30 (CPDV)",
+    "connected_to": "Psalm 104:31",
+    "connected_from": "Psalm 104:29"
+  },
+  {
+    "text": "May the glory of the Lord be for all ages. The Lord will rejoice in his works.",
+    "reference": "Psalm 104:31 (CPDV)",
+    "connected_to": "Psalm 104:32",
+    "connected_from": "Psalm 104:30"
+  },
+  {
+    "text": "He considers the earth, and he makes it tremble. He touches the mountains, and they smoke.",
+    "reference": "Psalm 104:32 (CPDV)",
+    "connected_to": "Psalm 104:33",
+    "connected_from": "Psalm 104:31"
+  },
+  {
+    "text": "I will sing to the Lord with my life. I will sing psalms to my God, as long as I am.",
+    "reference": "Psalm 104:33 (CPDV)",
+    "connected_to": "Psalm 104:34",
+    "connected_from": "Psalm 104:32"
+  },
+  {
+    "text": "May my speech be pleasing to him. Truly, I will take delight in the Lord.",
+    "reference": "Psalm 104:34 (CPDV)",
+    "connected_to": "Psalm 104:35",
+    "connected_from": "Psalm 104:33"
+  },
+  {
+    "text": "Let sinners fade away from the earth, along with the unjust, so that they may not be. Bless the Lord, O my soul.",
+    "reference": "Psalm 104:35 (CPDV)",
+    "connected_from": "Psalm 104:34"
+  }
+]

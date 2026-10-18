@@ -1,0 +1,30 @@
+[
+  {
+    "text": "The word that Jeremiah the prophet spake unto Baruch the son of Neriah, when he wrote these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah, king of Judah; saying,",
+    "reference": "Jeremiah 45:1 (ERV)",
+    "connected_to": "Jeremiah 45:2"
+  },
+  {
+    "text": "Thus saith the LORD, the God of Israel, unto thee, O Baruch:",
+    "reference": "Jeremiah 45:2 (ERV)",
+    "connected_to": "Jeremiah 45:3",
+    "connected_from": "Jeremiah 45:1"
+  },
+  {
+    "text": "Thou didst say, Woe is me now! for the LORD hath added sorrow to my pain; I am weary with my groaning, and I find no rest.",
+    "reference": "Jeremiah 45:3 (ERV)",
+    "connected_to": "Jeremiah 45:4",
+    "connected_from": "Jeremiah 45:2"
+  },
+  {
+    "text": "Thus shalt thou say unto him, Thus saith the LORD: Behold, that which I have built will I break down, and that which I have planted I will pluck up; and this in the whole land.",
+    "reference": "Jeremiah 45:4 (ERV)",
+    "connected_to": "Jeremiah 45:5",
+    "connected_from": "Jeremiah 45:3"
+  },
+  {
+    "text": "And seekest thou great things for thyself? seek them not: for, behold, I will bring evil upon all flesh, saith the LORD: but thy life will I give unto thee for a prey in all places whither thou goest.",
+    "reference": "Jeremiah 45:5 (ERV)",
+    "connected_from": "Jeremiah 45:4"
+  }
+]

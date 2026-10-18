@@ -1,0 +1,198 @@
+[
+  {
+    "text": "And Moses called all Israel, and said to them, Hear, O Israel, the statutes and judgments which I speak in your ears this day, that you may learn them, and keep, and do them.",
+    "reference": "Deuteronomy 5:1 (AKJV)",
+    "connected_to": "Deuteronomy 5:2"
+  },
+  {
+    "text": "The LORD our God made a covenant with us in Horeb.",
+    "reference": "Deuteronomy 5:2 (AKJV)",
+    "connected_to": "Deuteronomy 5:3",
+    "connected_from": "Deuteronomy 5:1"
+  },
+  {
+    "text": "The LORD made not this covenant with our fathers, but with us, even us, who are all of us here alive this day.",
+    "reference": "Deuteronomy 5:3 (AKJV)",
+    "connected_to": "Deuteronomy 5:4",
+    "connected_from": "Deuteronomy 5:2"
+  },
+  {
+    "text": "The LORD talked with you face to face in the mount out of the middle of the fire,",
+    "reference": "Deuteronomy 5:4 (AKJV)",
+    "connected_to": "Deuteronomy 5:5",
+    "connected_from": "Deuteronomy 5:3"
+  },
+  {
+    "text": "(I stood between the LORD and you at that time, to show you the word of the LORD: for you were afraid by reason of the fire, and went not up into the mount;) saying,",
+    "reference": "Deuteronomy 5:5 (AKJV)",
+    "connected_to": "Deuteronomy 5:6",
+    "connected_from": "Deuteronomy 5:4"
+  },
+  {
+    "text": "I am the LORD your God, which brought you out of the land of Egypt, from the house of bondage.",
+    "reference": "Deuteronomy 5:6 (AKJV)",
+    "connected_to": "Deuteronomy 5:7",
+    "connected_from": "Deuteronomy 5:5"
+  },
+  {
+    "text": "You shall have none other gods before me.",
+    "reference": "Deuteronomy 5:7 (AKJV)",
+    "connected_to": "Deuteronomy 5:8",
+    "connected_from": "Deuteronomy 5:6"
+  },
+  {
+    "text": "You shall not make you any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the waters beneath the earth:",
+    "reference": "Deuteronomy 5:8 (AKJV)",
+    "connected_to": "Deuteronomy 5:9",
+    "connected_from": "Deuteronomy 5:7"
+  },
+  {
+    "text": "You shall not bow down yourself to them, nor serve them: for I the LORD your God am a jealous God, visiting the iniquity of the fathers on the children to the third and fourth generation of them that hate me,",
+    "reference": "Deuteronomy 5:9 (AKJV)",
+    "connected_to": "Deuteronomy 5:10",
+    "connected_from": "Deuteronomy 5:8"
+  },
+  {
+    "text": "And showing mercy to thousands of them that love me and keep my commandments.",
+    "reference": "Deuteronomy 5:10 (AKJV)",
+    "connected_to": "Deuteronomy 5:11",
+    "connected_from": "Deuteronomy 5:9"
+  },
+  {
+    "text": "You shall not take the name of the LORD your God in vain: for the LORD will not hold him guiltless that takes his name in vain.",
+    "reference": "Deuteronomy 5:11 (AKJV)",
+    "connected_to": "Deuteronomy 5:12",
+    "connected_from": "Deuteronomy 5:10"
+  },
+  {
+    "text": "Keep the sabbath day to sanctify it, as the LORD your God has commanded you.",
+    "reference": "Deuteronomy 5:12 (AKJV)",
+    "connected_to": "Deuteronomy 5:13",
+    "connected_from": "Deuteronomy 5:11"
+  },
+  {
+    "text": "Six days you shall labor, and do all your work:",
+    "reference": "Deuteronomy 5:13 (AKJV)",
+    "connected_to": "Deuteronomy 5:14",
+    "connected_from": "Deuteronomy 5:12"
+  },
+  {
+    "text": "But the seventh day is the sabbath of the LORD your God: in it you shall not do any work, you, nor your son, nor your daughter, nor your manservant, nor your maidservant, nor your ox, nor your ass, nor any of your cattle, nor your stranger that is within your gates; that your manservant and your maidservant may rest as well as you.",
+    "reference": "Deuteronomy 5:14 (AKJV)",
+    "connected_to": "Deuteronomy 5:15",
+    "connected_from": "Deuteronomy 5:13"
+  },
+  {
+    "text": "And remember that you were a servant in the land of Egypt, and that the LORD your God brought you out there through a mighty hand and by a stretched out arm: therefore the LORD your God commanded you to keep the sabbath day.",
+    "reference": "Deuteronomy 5:15 (AKJV)",
+    "connected_to": "Deuteronomy 5:16",
+    "connected_from": "Deuteronomy 5:14"
+  },
+  {
+    "text": "Honor your father and your mother, as the LORD your God has commanded you; that your days may be prolonged, and that it may go well with you, in the land which the LORD your God gives you.",
+    "reference": "Deuteronomy 5:16 (AKJV)",
+    "connected_to": "Deuteronomy 5:17",
+    "connected_from": "Deuteronomy 5:15"
+  },
+  {
+    "text": "You shall not kill.",
+    "reference": "Deuteronomy 5:17 (AKJV)",
+    "connected_to": "Deuteronomy 5:18",
+    "connected_from": "Deuteronomy 5:16"
+  },
+  {
+    "text": "Neither shall you commit adultery.",
+    "reference": "Deuteronomy 5:18 (AKJV)",
+    "connected_to": "Deuteronomy 5:19",
+    "connected_from": "Deuteronomy 5:17"
+  },
+  {
+    "text": "Neither shall you steal.",
+    "reference": "Deuteronomy 5:19 (AKJV)",
+    "connected_to": "Deuteronomy 5:20",
+    "connected_from": "Deuteronomy 5:18"
+  },
+  {
+    "text": "Neither shall you bear false witness against your neighbor.",
+    "reference": "Deuteronomy 5:20 (AKJV)",
+    "connected_to": "Deuteronomy 5:21",
+    "connected_from": "Deuteronomy 5:19"
+  },
+  {
+    "text": "Neither shall you desire your neighbor’s wife, neither shall you covet your neighbor’s house, his field, or his manservant, or his maidservant, his ox, or his ass, or any thing that is your neighbor’s.",
+    "reference": "Deuteronomy 5:21 (AKJV)",
+    "connected_to": "Deuteronomy 5:22",
+    "connected_from": "Deuteronomy 5:20"
+  },
+  {
+    "text": "These words the LORD spoke to all your assembly in the mount out of the middle of the fire, of the cloud, and of the thick darkness, with a great voice: and he added no more. And he wrote them in two tables of stone, and delivered them to me.",
+    "reference": "Deuteronomy 5:22 (AKJV)",
+    "connected_to": "Deuteronomy 5:23",
+    "connected_from": "Deuteronomy 5:21"
+  },
+  {
+    "text": "And it came to pass, when you heard the voice out of the middle of the darkness, (for the mountain did burn with fire,) that you came near to me, even all the heads of your tribes, and your elders;",
+    "reference": "Deuteronomy 5:23 (AKJV)",
+    "connected_to": "Deuteronomy 5:24",
+    "connected_from": "Deuteronomy 5:22"
+  },
+  {
+    "text": "And you said, Behold, the LORD our God has showed us his glory and his greatness, and we have heard his voice out of the middle of the fire: we have seen this day that God does talk with man, and he lives.",
+    "reference": "Deuteronomy 5:24 (AKJV)",
+    "connected_to": "Deuteronomy 5:25",
+    "connected_from": "Deuteronomy 5:23"
+  },
+  {
+    "text": "Now therefore why should we die? for this great fire will consume us: if we hear the voice of the LORD our God any more, then we shall die.",
+    "reference": "Deuteronomy 5:25 (AKJV)",
+    "connected_to": "Deuteronomy 5:26",
+    "connected_from": "Deuteronomy 5:24"
+  },
+  {
+    "text": "For who is there of all flesh, that has heard the voice of the living God speaking out of the middle of the fire, as we have, and lived?",
+    "reference": "Deuteronomy 5:26 (AKJV)",
+    "connected_to": "Deuteronomy 5:27",
+    "connected_from": "Deuteronomy 5:25"
+  },
+  {
+    "text": "Go you near, and hear all that the LORD our God shall say: and speak you to us all that the LORD our God shall speak to you; and we will hear it, and do it.",
+    "reference": "Deuteronomy 5:27 (AKJV)",
+    "connected_to": "Deuteronomy 5:28",
+    "connected_from": "Deuteronomy 5:26"
+  },
+  {
+    "text": "And the LORD heard the voice of your words, when you spoke to me; and the LORD said to me, I have heard the voice of the words of this people, which they have spoken to you: they have well said all that they have spoken.",
+    "reference": "Deuteronomy 5:28 (AKJV)",
+    "connected_to": "Deuteronomy 5:29",
+    "connected_from": "Deuteronomy 5:27"
+  },
+  {
+    "text": "O that there were such an heart in them, that they would fear me, and keep all my commandments always, that it might be well with them, and with their children for ever!",
+    "reference": "Deuteronomy 5:29 (AKJV)",
+    "connected_to": "Deuteronomy 5:30",
+    "connected_from": "Deuteronomy 5:28"
+  },
+  {
+    "text": "Go say to them, Get you into your tents again.",
+    "reference": "Deuteronomy 5:30 (AKJV)",
+    "connected_to": "Deuteronomy 5:31",
+    "connected_from": "Deuteronomy 5:29"
+  },
+  {
+    "text": "But as for you, stand you here by me, and I will speak to you all the commandments, and the statutes, and the judgments, which you shall teach them, that they may do them in the land which I give them to possess it.",
+    "reference": "Deuteronomy 5:31 (AKJV)",
+    "connected_to": "Deuteronomy 5:32",
+    "connected_from": "Deuteronomy 5:30"
+  },
+  {
+    "text": "You shall observe to do therefore as the LORD your God has commanded you: you shall not turn aside to the right hand or to the left.",
+    "reference": "Deuteronomy 5:32 (AKJV)",
+    "connected_to": "Deuteronomy 5:33",
+    "connected_from": "Deuteronomy 5:31"
+  },
+  {
+    "text": "You shall walk in all the ways which the LORD your God has commanded you, that you may live, and that it may be well with you, and that you may prolong your days in the land which you shall possess.",
+    "reference": "Deuteronomy 5:33 (AKJV)",
+    "connected_from": "Deuteronomy 5:32"
+  }
+]

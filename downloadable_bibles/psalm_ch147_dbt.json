@@ -1,0 +1,120 @@
+[
+  {
+    "text": "Praise ye Jah! for it is good. Sing psalms of our God; for it is pleasant: praise is comely.",
+    "reference": "Psalm 147:1 (DBT)",
+    "connected_to": "Psalm 147:2"
+  },
+  {
+    "text": "Jehovah doth build up Jerusalem: he gathereth the outcasts of Israel.",
+    "reference": "Psalm 147:2 (DBT)",
+    "connected_to": "Psalm 147:3",
+    "connected_from": "Psalm 147:1"
+  },
+  {
+    "text": "He healeth the broken in heart, and bindeth up their wounds.",
+    "reference": "Psalm 147:3 (DBT)",
+    "connected_to": "Psalm 147:4",
+    "connected_from": "Psalm 147:2"
+  },
+  {
+    "text": "He counteth the number of the stars; he giveth names to them all.",
+    "reference": "Psalm 147:4 (DBT)",
+    "connected_to": "Psalm 147:5",
+    "connected_from": "Psalm 147:3"
+  },
+  {
+    "text": "Great is our Lord, and of great power: his understanding is infinite.",
+    "reference": "Psalm 147:5 (DBT)",
+    "connected_to": "Psalm 147:6",
+    "connected_from": "Psalm 147:4"
+  },
+  {
+    "text": "Jehovah lifteth up the meek; he abaseth the wicked to the earth.",
+    "reference": "Psalm 147:6 (DBT)",
+    "connected_to": "Psalm 147:7",
+    "connected_from": "Psalm 147:5"
+  },
+  {
+    "text": "Sing unto Jehovah with thanksgiving; sing psalms upon the harp unto our God:",
+    "reference": "Psalm 147:7 (DBT)",
+    "connected_to": "Psalm 147:8",
+    "connected_from": "Psalm 147:6"
+  },
+  {
+    "text": "Who covereth the heavens with clouds, who prepareth rain for the earth, who maketh grass to grow upon the mountains;",
+    "reference": "Psalm 147:8 (DBT)",
+    "connected_to": "Psalm 147:9",
+    "connected_from": "Psalm 147:7"
+  },
+  {
+    "text": "Who giveth to the cattle their food, to the young ravens which cry.",
+    "reference": "Psalm 147:9 (DBT)",
+    "connected_to": "Psalm 147:10",
+    "connected_from": "Psalm 147:8"
+  },
+  {
+    "text": "He delighteth not in the strength of the horse, he taketh not pleasure in the legs of a man;",
+    "reference": "Psalm 147:10 (DBT)",
+    "connected_to": "Psalm 147:11",
+    "connected_from": "Psalm 147:9"
+  },
+  {
+    "text": "Jehovah taketh pleasure in those that fear him, in those that hope in his loving-kindness.",
+    "reference": "Psalm 147:11 (DBT)",
+    "connected_to": "Psalm 147:12",
+    "connected_from": "Psalm 147:10"
+  },
+  {
+    "text": "Laud Jehovah, O Jerusalem; praise thy God, O Zion.",
+    "reference": "Psalm 147:12 (DBT)",
+    "connected_to": "Psalm 147:13",
+    "connected_from": "Psalm 147:11"
+  },
+  {
+    "text": "For he hath strengthened the bars of thy gates; he hath blessed thy children within thee;",
+    "reference": "Psalm 147:13 (DBT)",
+    "connected_to": "Psalm 147:14",
+    "connected_from": "Psalm 147:12"
+  },
+  {
+    "text": "He maketh peace in thy borders; he satisfieth thee with the finest of the wheat.",
+    "reference": "Psalm 147:14 (DBT)",
+    "connected_to": "Psalm 147:15",
+    "connected_from": "Psalm 147:13"
+  },
+  {
+    "text": "He sendeth forth his oracles to the earth: his word runneth very swiftly.",
+    "reference": "Psalm 147:15 (DBT)",
+    "connected_to": "Psalm 147:16",
+    "connected_from": "Psalm 147:14"
+  },
+  {
+    "text": "He giveth snow like wool, scattereth the hoar frost like ashes;",
+    "reference": "Psalm 147:16 (DBT)",
+    "connected_to": "Psalm 147:17",
+    "connected_from": "Psalm 147:15"
+  },
+  {
+    "text": "He casteth forth his ice like morsels: who can stand before his cold?",
+    "reference": "Psalm 147:17 (DBT)",
+    "connected_to": "Psalm 147:18",
+    "connected_from": "Psalm 147:16"
+  },
+  {
+    "text": "He sendeth his word, and melteth them; he causeth his wind to blow—the waters flow.",
+    "reference": "Psalm 147:18 (DBT)",
+    "connected_to": "Psalm 147:19",
+    "connected_from": "Psalm 147:17"
+  },
+  {
+    "text": "He sheweth his word unto Jacob, his statutes and his judgments unto Israel.",
+    "reference": "Psalm 147:19 (DBT)",
+    "connected_to": "Psalm 147:20",
+    "connected_from": "Psalm 147:18"
+  },
+  {
+    "text": "He hath not dealt thus with any nation; and as for [his] judgments, they have not known them. Hallelujah!",
+    "reference": "Psalm 147:20 (DBT)",
+    "connected_from": "Psalm 147:19"
+  }
+]

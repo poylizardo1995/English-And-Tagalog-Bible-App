@@ -1,0 +1,426 @@
+[
+  {
+    "text": "Now the days of the Feast of Unleavened Bread, which is called Passover, were approaching.",
+    "reference": "Luke 22:1 (CPDV)",
+    "connected_to": "Luke 22:2"
+  },
+  {
+    "text": "And the leaders of the priests, and the scribes, were seeking a way to execute Jesus. Yet truly, they were afraid of the people.",
+    "reference": "Luke 22:2 (CPDV)",
+    "connected_to": "Luke 22:3",
+    "connected_from": "Luke 22:1"
+  },
+  {
+    "text": "Then Satan entered into Judas, who was surnamed Iscariot, one of the twelve.",
+    "reference": "Luke 22:3 (CPDV)",
+    "connected_to": "Luke 22:4",
+    "connected_from": "Luke 22:2"
+  },
+  {
+    "text": "And he went out and was speaking with the leaders of the priests, and the magistrates, as to how he might hand him over to them.",
+    "reference": "Luke 22:4 (CPDV)",
+    "connected_to": "Luke 22:5",
+    "connected_from": "Luke 22:3"
+  },
+  {
+    "text": "And they were glad, and so they made an agreement to give him money.",
+    "reference": "Luke 22:5 (CPDV)",
+    "connected_to": "Luke 22:6",
+    "connected_from": "Luke 22:4"
+  },
+  {
+    "text": "And he made a promise. And he was seeking an opportunity to hand him over, apart from the crowds.",
+    "reference": "Luke 22:6 (CPDV)",
+    "connected_to": "Luke 22:7",
+    "connected_from": "Luke 22:5"
+  },
+  {
+    "text": "Then the day of Unleavened Bread arrived, on which it was necessary to kill the Pascal lamb.",
+    "reference": "Luke 22:7 (CPDV)",
+    "connected_to": "Luke 22:8",
+    "connected_from": "Luke 22:6"
+  },
+  {
+    "text": "And he sent Peter and John, saying, “Go out, and prepare the Passover for us, so that we may eat.”",
+    "reference": "Luke 22:8 (CPDV)",
+    "connected_to": "Luke 22:9",
+    "connected_from": "Luke 22:7"
+  },
+  {
+    "text": "But they said, “Where do you want us to prepare it?”",
+    "reference": "Luke 22:9 (CPDV)",
+    "connected_to": "Luke 22:10",
+    "connected_from": "Luke 22:8"
+  },
+  {
+    "text": "And he said to them: “Behold, as you are entering into the city, a certain man will meet you, carrying a pitcher of water. Follow him to the house into which he enters.",
+    "reference": "Luke 22:10 (CPDV)",
+    "connected_to": "Luke 22:11",
+    "connected_from": "Luke 22:9"
+  },
+  {
+    "text": "And you shall say to the father of the household: ‘The Teacher says to you: Where is the guestroom, where I may eat the Passover with my disciples?’",
+    "reference": "Luke 22:11 (CPDV)",
+    "connected_to": "Luke 22:12",
+    "connected_from": "Luke 22:10"
+  },
+  {
+    "text": "And he will show you a large cenacle, fully furnished. And so, prepare it there.”",
+    "reference": "Luke 22:12 (CPDV)",
+    "connected_to": "Luke 22:13",
+    "connected_from": "Luke 22:11"
+  },
+  {
+    "text": "And going out, they found it to be just as he had told them. And they prepared the Passover.",
+    "reference": "Luke 22:13 (CPDV)",
+    "connected_to": "Luke 22:14",
+    "connected_from": "Luke 22:12"
+  },
+  {
+    "text": "And when the hour had arrived, he sat down at table, and the twelve Apostles with him.",
+    "reference": "Luke 22:14 (CPDV)",
+    "connected_to": "Luke 22:15",
+    "connected_from": "Luke 22:13"
+  },
+  {
+    "text": "And he said to them: “With longing have I desired to eat this Passover with you, before I suffer.",
+    "reference": "Luke 22:15 (CPDV)",
+    "connected_to": "Luke 22:16",
+    "connected_from": "Luke 22:14"
+  },
+  {
+    "text": "For I say to you, that from this time, I will not eat it, until it is fulfilled in the kingdom of God.”",
+    "reference": "Luke 22:16 (CPDV)",
+    "connected_to": "Luke 22:17",
+    "connected_from": "Luke 22:15"
+  },
+  {
+    "text": "And having taken the chalice, he gave thanks, and he said: “Take this and share it among yourselves.",
+    "reference": "Luke 22:17 (CPDV)",
+    "connected_to": "Luke 22:18",
+    "connected_from": "Luke 22:16"
+  },
+  {
+    "text": "For I say to you, that I will not drink from the fruit of the vine, until the kingdom of God arrives.”",
+    "reference": "Luke 22:18 (CPDV)",
+    "connected_to": "Luke 22:19",
+    "connected_from": "Luke 22:17"
+  },
+  {
+    "text": "And taking bread, he gave thanks and broke it and gave it to them, saying: “This is my body, which is given for you. Do this as a commemoration of me.”",
+    "reference": "Luke 22:19 (CPDV)",
+    "connected_to": "Luke 22:20",
+    "connected_from": "Luke 22:18"
+  },
+  {
+    "text": "Similarly also, he took the chalice, after he had eaten the meal, saying: “This chalice is the new covenant in my blood, which will be shed for you.",
+    "reference": "Luke 22:20 (CPDV)",
+    "connected_to": "Luke 22:21",
+    "connected_from": "Luke 22:19"
+  },
+  {
+    "text": "But in truth, behold, the hand of my betrayer is with me at table.",
+    "reference": "Luke 22:21 (CPDV)",
+    "connected_to": "Luke 22:22",
+    "connected_from": "Luke 22:20"
+  },
+  {
+    "text": "And indeed, the Son of man goes according to what has been determined. And yet, woe to that man by whom he will be betrayed.”",
+    "reference": "Luke 22:22 (CPDV)",
+    "connected_to": "Luke 22:23",
+    "connected_from": "Luke 22:21"
+  },
+  {
+    "text": "And they began to inquire among themselves, as to which of them might do this.",
+    "reference": "Luke 22:23 (CPDV)",
+    "connected_to": "Luke 22:24",
+    "connected_from": "Luke 22:22"
+  },
+  {
+    "text": "Now there was also a contention among them, as to which of them seemed to be the greater.",
+    "reference": "Luke 22:24 (CPDV)",
+    "connected_to": "Luke 22:25",
+    "connected_from": "Luke 22:23"
+  },
+  {
+    "text": "And he said to them: “The kings of the Gentiles dominate them; and those who hold authority over them are called beneficent.",
+    "reference": "Luke 22:25 (CPDV)",
+    "connected_to": "Luke 22:26",
+    "connected_from": "Luke 22:24"
+  },
+  {
+    "text": "But it must not be so with you. Instead, whoever is greater among you, let him become the lesser. And whoever is the leader, let him become the server.",
+    "reference": "Luke 22:26 (CPDV)",
+    "connected_to": "Luke 22:27",
+    "connected_from": "Luke 22:25"
+  },
+  {
+    "text": "For who is greater: he who sits at table, or he who serves? Is not he who sits at table? Yet I am in your midst as one who serves.",
+    "reference": "Luke 22:27 (CPDV)",
+    "connected_to": "Luke 22:28",
+    "connected_from": "Luke 22:26"
+  },
+  {
+    "text": "But you are those who have remained with me during my trials.",
+    "reference": "Luke 22:28 (CPDV)",
+    "connected_to": "Luke 22:29",
+    "connected_from": "Luke 22:27"
+  },
+  {
+    "text": "And I dispose to you, just as my Father has disposed to me, a kingdom,",
+    "reference": "Luke 22:29 (CPDV)",
+    "connected_to": "Luke 22:30",
+    "connected_from": "Luke 22:28"
+  },
+  {
+    "text": "so that you may eat and drink at my table in my kingdom, and so that you may sit upon thrones, judging the twelve tribes of Israel.”",
+    "reference": "Luke 22:30 (CPDV)",
+    "connected_to": "Luke 22:31",
+    "connected_from": "Luke 22:29"
+  },
+  {
+    "text": "And the Lord said: “Simon, Simon! Behold, Satan has asked for you, so that he may sift you like wheat.",
+    "reference": "Luke 22:31 (CPDV)",
+    "connected_to": "Luke 22:32",
+    "connected_from": "Luke 22:30"
+  },
+  {
+    "text": "But I have prayed for you, so that your faith may not fail, and so that you, once converted, may confirm your brothers.”",
+    "reference": "Luke 22:32 (CPDV)",
+    "connected_to": "Luke 22:33",
+    "connected_from": "Luke 22:31"
+  },
+  {
+    "text": "And he said to him, “Lord, I am prepared to go with you, even to prison and to death.”",
+    "reference": "Luke 22:33 (CPDV)",
+    "connected_to": "Luke 22:34",
+    "connected_from": "Luke 22:32"
+  },
+  {
+    "text": "And he said, “I say to you, Peter, the rooster will not crow this day, until you have three times denied that you know me.” And he said to them,",
+    "reference": "Luke 22:34 (CPDV)",
+    "connected_to": "Luke 22:35",
+    "connected_from": "Luke 22:33"
+  },
+  {
+    "text": "“When I sent you without money or provisions or shoes, did you lack anything?”",
+    "reference": "Luke 22:35 (CPDV)",
+    "connected_to": "Luke 22:36",
+    "connected_from": "Luke 22:34"
+  },
+  {
+    "text": "And they said, “Nothing.” Then he said to them: “But now, let whoever has money take it, and likewise with provisions. And whoever does not have these, let him sell his coat and buy a sword.",
+    "reference": "Luke 22:36 (CPDV)",
+    "connected_to": "Luke 22:37",
+    "connected_from": "Luke 22:35"
+  },
+  {
+    "text": "For I say to you, that what has been written must still be fulfilled in me: ‘And he was esteemed with the wicked.’ Yet even these things about me have an end.”",
+    "reference": "Luke 22:37 (CPDV)",
+    "connected_to": "Luke 22:38",
+    "connected_from": "Luke 22:36"
+  },
+  {
+    "text": "So they said, “Lord, behold, there are two swords here.” But he said to them, “It is sufficient.”",
+    "reference": "Luke 22:38 (CPDV)",
+    "connected_to": "Luke 22:39",
+    "connected_from": "Luke 22:37"
+  },
+  {
+    "text": "And departing, he went out, according to his custom, to the Mount of Olives. And his disciples also followed him.",
+    "reference": "Luke 22:39 (CPDV)",
+    "connected_to": "Luke 22:40",
+    "connected_from": "Luke 22:38"
+  },
+  {
+    "text": "And when he had arrived at the place, he said to them: “Pray, lest you enter into temptation.”",
+    "reference": "Luke 22:40 (CPDV)",
+    "connected_to": "Luke 22:41",
+    "connected_from": "Luke 22:39"
+  },
+  {
+    "text": "And he was separated from them by about a stone’s throw. And kneeling down, he prayed,",
+    "reference": "Luke 22:41 (CPDV)",
+    "connected_to": "Luke 22:42",
+    "connected_from": "Luke 22:40"
+  },
+  {
+    "text": "saying: “Father, if you are willing, take this chalice away from me. Yet truly, let not my will, but yours, be done.”",
+    "reference": "Luke 22:42 (CPDV)",
+    "connected_to": "Luke 22:43",
+    "connected_from": "Luke 22:41"
+  },
+  {
+    "text": "Then an Angel appeared to him from heaven, strengthening him. And being in agony, he prayed more intensely;",
+    "reference": "Luke 22:43 (CPDV)",
+    "connected_to": "Luke 22:44",
+    "connected_from": "Luke 22:42"
+  },
+  {
+    "text": "and so his sweat became like drops of blood, running down to the ground.",
+    "reference": "Luke 22:44 (CPDV)",
+    "connected_to": "Luke 22:45",
+    "connected_from": "Luke 22:43"
+  },
+  {
+    "text": "And when he had risen up from prayer and had gone to his disciples, he found them sleeping out of sorrow.",
+    "reference": "Luke 22:45 (CPDV)",
+    "connected_to": "Luke 22:46",
+    "connected_from": "Luke 22:44"
+  },
+  {
+    "text": "And he said to them: “Why are you sleeping? Rise up, pray, lest you enter into temptation.”",
+    "reference": "Luke 22:46 (CPDV)",
+    "connected_to": "Luke 22:47",
+    "connected_from": "Luke 22:45"
+  },
+  {
+    "text": "While he was still speaking, behold, a crowd arrived. And he who is called Judas, one of the twelve, went ahead of them and approached Jesus, in order to kiss him.",
+    "reference": "Luke 22:47 (CPDV)",
+    "connected_to": "Luke 22:48",
+    "connected_from": "Luke 22:46"
+  },
+  {
+    "text": "And Jesus said to him, “Judas, do you betray the Son of man with a kiss?”",
+    "reference": "Luke 22:48 (CPDV)",
+    "connected_to": "Luke 22:49",
+    "connected_from": "Luke 22:47"
+  },
+  {
+    "text": "Then those who were around him, realizing what was about to happen, said to him: “Lord, shall we strike with the sword?”",
+    "reference": "Luke 22:49 (CPDV)",
+    "connected_to": "Luke 22:50",
+    "connected_from": "Luke 22:48"
+  },
+  {
+    "text": "And one of them struck the servant of the high priest and cut off his right ear.",
+    "reference": "Luke 22:50 (CPDV)",
+    "connected_to": "Luke 22:51",
+    "connected_from": "Luke 22:49"
+  },
+  {
+    "text": "But in response, Jesus said, “Permit even this.” And when he had touched his ear, he healed him.",
+    "reference": "Luke 22:51 (CPDV)",
+    "connected_to": "Luke 22:52",
+    "connected_from": "Luke 22:50"
+  },
+  {
+    "text": "Then Jesus said to the leaders of the priests, and the magistrates of the temple, and the elders, who had come to him: “Have you gone out, as if against a thief, with swords and clubs?",
+    "reference": "Luke 22:52 (CPDV)",
+    "connected_to": "Luke 22:53",
+    "connected_from": "Luke 22:51"
+  },
+  {
+    "text": "When I was with you each day in the temple, you did not extend your hands against me. But this is your hour and that of the power of darkness.”",
+    "reference": "Luke 22:53 (CPDV)",
+    "connected_to": "Luke 22:54",
+    "connected_from": "Luke 22:52"
+  },
+  {
+    "text": "And apprehending him, they led him to the house of the high priest. Yet truly, Peter followed at a distance.",
+    "reference": "Luke 22:54 (CPDV)",
+    "connected_to": "Luke 22:55",
+    "connected_from": "Luke 22:53"
+  },
+  {
+    "text": "Now as they were sitting around a fire, which had been kindled in the middle of the atrium, Peter was in their midst.",
+    "reference": "Luke 22:55 (CPDV)",
+    "connected_to": "Luke 22:56",
+    "connected_from": "Luke 22:54"
+  },
+  {
+    "text": "And when a certain woman servant had seen him sitting in its light, and had looked at him intently, she said, “This one was also with him.”",
+    "reference": "Luke 22:56 (CPDV)",
+    "connected_to": "Luke 22:57",
+    "connected_from": "Luke 22:55"
+  },
+  {
+    "text": "But he denied him by saying, “Woman, I do not know him.”",
+    "reference": "Luke 22:57 (CPDV)",
+    "connected_to": "Luke 22:58",
+    "connected_from": "Luke 22:56"
+  },
+  {
+    "text": "And after a little while, another one, seeing him, said, “You also are one of them.” Yet Peter said, “O man, I am not.”",
+    "reference": "Luke 22:58 (CPDV)",
+    "connected_to": "Luke 22:59",
+    "connected_from": "Luke 22:57"
+  },
+  {
+    "text": "And after the interval of about one hour had passed, someone else affirmed it, saying: “Truly, this one also was with him. For he is also a Galilean.”",
+    "reference": "Luke 22:59 (CPDV)",
+    "connected_to": "Luke 22:60",
+    "connected_from": "Luke 22:58"
+  },
+  {
+    "text": "And Peter said: “Man, I do not know what you are saying.” And at once, while he was still speaking, the rooster crowed.",
+    "reference": "Luke 22:60 (CPDV)",
+    "connected_to": "Luke 22:61",
+    "connected_from": "Luke 22:59"
+  },
+  {
+    "text": "And the Lord turned around and looked at Peter. And Peter remembered the word of the Lord that he had said: “For before the rooster crows, you will deny me three times.”",
+    "reference": "Luke 22:61 (CPDV)",
+    "connected_to": "Luke 22:62",
+    "connected_from": "Luke 22:60"
+  },
+  {
+    "text": "And going out, Peter wept bitterly.",
+    "reference": "Luke 22:62 (CPDV)",
+    "connected_to": "Luke 22:63",
+    "connected_from": "Luke 22:61"
+  },
+  {
+    "text": "And the men who were holding him ridiculed him and beat him.",
+    "reference": "Luke 22:63 (CPDV)",
+    "connected_to": "Luke 22:64",
+    "connected_from": "Luke 22:62"
+  },
+  {
+    "text": "And they blindfolded him and repeatedly struck his face. And they questioned him, saying: “Prophesy! Who is it that struck you?”",
+    "reference": "Luke 22:64 (CPDV)",
+    "connected_to": "Luke 22:65",
+    "connected_from": "Luke 22:63"
+  },
+  {
+    "text": "And blaspheming in many other ways, they spoke against him.",
+    "reference": "Luke 22:65 (CPDV)",
+    "connected_to": "Luke 22:66",
+    "connected_from": "Luke 22:64"
+  },
+  {
+    "text": "And when it was daytime, the elders of the people, and the leaders of the priests, and the scribes convened. And they led him into their council, saying, “If you are the Christ, tell us.”",
+    "reference": "Luke 22:66 (CPDV)",
+    "connected_to": "Luke 22:67",
+    "connected_from": "Luke 22:65"
+  },
+  {
+    "text": "And he said to them: “If I tell you, you will not believe me.",
+    "reference": "Luke 22:67 (CPDV)",
+    "connected_to": "Luke 22:68",
+    "connected_from": "Luke 22:66"
+  },
+  {
+    "text": "And if I also question you, you will not answer me. Neither will you release me.",
+    "reference": "Luke 22:68 (CPDV)",
+    "connected_to": "Luke 22:69",
+    "connected_from": "Luke 22:67"
+  },
+  {
+    "text": "But from this time, the Son of man will be sitting at the right hand of the power of God.”",
+    "reference": "Luke 22:69 (CPDV)",
+    "connected_to": "Luke 22:70",
+    "connected_from": "Luke 22:68"
+  },
+  {
+    "text": "Then they all said, “So you are the Son of God?” And he said. “You are saying that I am.”",
+    "reference": "Luke 22:70 (CPDV)",
+    "connected_to": "Luke 22:71",
+    "connected_from": "Luke 22:69"
+  },
+  {
+    "text": "And they said: “Why do we still require testimony? For we have heard it ourselves, from his own mouth.”",
+    "reference": "Luke 22:71 (CPDV)",
+    "connected_from": "Luke 22:70"
+  }
+]

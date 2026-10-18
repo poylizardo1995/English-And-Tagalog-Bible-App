@@ -1,0 +1,318 @@
+[
+  {
+    "text": "And they continued three years without war between Syria and Israel.",
+    "reference": "1 Kings 22:1 (DBT)",
+    "connected_to": "1 Kings 22:2"
+  },
+  {
+    "text": "And it came to pass in the third year, that Jehoshaphat the king of Judah came down to the king of Israel.",
+    "reference": "1 Kings 22:2 (DBT)",
+    "connected_to": "1 Kings 22:3",
+    "connected_from": "1 Kings 22:1"
+  },
+  {
+    "text": "And the king of Israel said to his servants, Do ye know that Ramoth in Gilead is ours, and we keep quiet without taking it out of the hand of the king of Syria?",
+    "reference": "1 Kings 22:3 (DBT)",
+    "connected_to": "1 Kings 22:4",
+    "connected_from": "1 Kings 22:2"
+  },
+  {
+    "text": "And he said to Jehoshaphat, Wilt thou go with me to battle to Ramoth-Gilead? And Jehoshaphat said to the king of Israel, I am as thou, my people as thy people, my horses as thy horses.",
+    "reference": "1 Kings 22:4 (DBT)",
+    "connected_to": "1 Kings 22:5",
+    "connected_from": "1 Kings 22:3"
+  },
+  {
+    "text": "And Jehoshaphat said to the king of Israel, Inquire, I pray thee, this day of the word of Jehovah.",
+    "reference": "1 Kings 22:5 (DBT)",
+    "connected_to": "1 Kings 22:6",
+    "connected_from": "1 Kings 22:4"
+  },
+  {
+    "text": "And the king of Israel assembled the prophets, about four hundred men, and said to them, Shall I go against Ramoth-Gilead to battle, or shall I forbear? And they said, Go up, and the Lord will give it into the king’s hand.",
+    "reference": "1 Kings 22:6 (DBT)",
+    "connected_to": "1 Kings 22:7",
+    "connected_from": "1 Kings 22:5"
+  },
+  {
+    "text": "But Jehoshaphat said, Is there not here a prophet of Jehovah besides, that we might inquire of him?",
+    "reference": "1 Kings 22:7 (DBT)",
+    "connected_to": "1 Kings 22:8",
+    "connected_from": "1 Kings 22:6"
+  },
+  {
+    "text": "And the king of Israel said to Jehoshaphat, There is yet one man by whom we may inquire of Jehovah; but I hate him, for he prophesies no good concerning me, but evil: [it is] Micah the son of Imlah. And Jehoshaphat said, Let not the king say so.",
+    "reference": "1 Kings 22:8 (DBT)",
+    "connected_to": "1 Kings 22:9",
+    "connected_from": "1 Kings 22:7"
+  },
+  {
+    "text": "Then the king of Israel called a chamberlain, and said, Fetch quickly Micah the son of Imlah.",
+    "reference": "1 Kings 22:9 (DBT)",
+    "connected_to": "1 Kings 22:10",
+    "connected_from": "1 Kings 22:8"
+  },
+  {
+    "text": "And the king of Israel and Jehoshaphat the king of Judah, having put on their robes, sat each on his throne, in the open place at the entrance of the gate of Samaria; and all the prophets prophesied before them.",
+    "reference": "1 Kings 22:10 (DBT)",
+    "connected_to": "1 Kings 22:11",
+    "connected_from": "1 Kings 22:9"
+  },
+  {
+    "text": "And Zedekiah the son of Chenaanah made for himself horns of iron, and he said, Thus saith Jehovah: With these shalt thou push the Syrians, until thou have exterminated them.",
+    "reference": "1 Kings 22:11 (DBT)",
+    "connected_to": "1 Kings 22:12",
+    "connected_from": "1 Kings 22:10"
+  },
+  {
+    "text": "And all the prophets prophesied so, saying, Go up to Ramoth-Gilead, and prosper; for Jehovah will give it into the king’s hand.",
+    "reference": "1 Kings 22:12 (DBT)",
+    "connected_to": "1 Kings 22:13",
+    "connected_from": "1 Kings 22:11"
+  },
+  {
+    "text": "And the messenger that went to call Micah spoke to him saying, Behold now, the words of the prophets [declare] good to the king with one assent: let thy word, I pray thee, be like the word of one of them, and speak good.",
+    "reference": "1 Kings 22:13 (DBT)",
+    "connected_to": "1 Kings 22:14",
+    "connected_from": "1 Kings 22:12"
+  },
+  {
+    "text": "And Micah said, As Jehovah liveth, even what Jehovah shall say to me, that will I speak.",
+    "reference": "1 Kings 22:14 (DBT)",
+    "connected_to": "1 Kings 22:15",
+    "connected_from": "1 Kings 22:13"
+  },
+  {
+    "text": "And he came to the king. And the king said to him, Micah, shall we go against Ramoth-Gilead to battle, or shall we forbear? And he said to him, Go up, and prosper; for Jehovah will give it into the hand of the king.",
+    "reference": "1 Kings 22:15 (DBT)",
+    "connected_to": "1 Kings 22:16",
+    "connected_from": "1 Kings 22:14"
+  },
+  {
+    "text": "And the king said to him, How many times shall I adjure thee that thou tell me nothing but truth in the name of Jehovah?",
+    "reference": "1 Kings 22:16 (DBT)",
+    "connected_to": "1 Kings 22:17",
+    "connected_from": "1 Kings 22:15"
+  },
+  {
+    "text": "And he said, I saw all Israel scattered upon the mountains, as sheep that have no shepherd. And Jehovah said, These have no master: let them return every man to his house in peace.",
+    "reference": "1 Kings 22:17 (DBT)",
+    "connected_to": "1 Kings 22:18",
+    "connected_from": "1 Kings 22:16"
+  },
+  {
+    "text": "And the king of Israel said to Jehoshaphat, Did I not tell thee that he prophesies no good concerning me, but evil?",
+    "reference": "1 Kings 22:18 (DBT)",
+    "connected_to": "1 Kings 22:19",
+    "connected_from": "1 Kings 22:17"
+  },
+  {
+    "text": "And he said, Hear therefore the word of Jehovah: I saw Jehovah sitting upon his throne, and all the host of heaven standing by him, on his right hand and on his left;",
+    "reference": "1 Kings 22:19 (DBT)",
+    "connected_to": "1 Kings 22:20",
+    "connected_from": "1 Kings 22:18"
+  },
+  {
+    "text": "and Jehovah said, Who shall entice Ahab that he may go up and fall at Ramoth-Gilead? And one said after this manner, and another said after that manner.",
+    "reference": "1 Kings 22:20 (DBT)",
+    "connected_to": "1 Kings 22:21",
+    "connected_from": "1 Kings 22:19"
+  },
+  {
+    "text": "And there came forth a spirit, and stood before Jehovah, and said, I will entice him.",
+    "reference": "1 Kings 22:21 (DBT)",
+    "connected_to": "1 Kings 22:22",
+    "connected_from": "1 Kings 22:20"
+  },
+  {
+    "text": "And Jehovah said unto him, Wherewith? And he said, I will go forth, and will be a lying spirit in the mouth of all his prophets. And he said, Thou shalt entice [him], and also succeed: go forth, and do so.",
+    "reference": "1 Kings 22:22 (DBT)",
+    "connected_to": "1 Kings 22:23",
+    "connected_from": "1 Kings 22:21"
+  },
+  {
+    "text": "And now, behold, Jehovah has put a lying spirit in the mouth of all these thy prophets, and Jehovah has spoken evil concerning thee.",
+    "reference": "1 Kings 22:23 (DBT)",
+    "connected_to": "1 Kings 22:24",
+    "connected_from": "1 Kings 22:22"
+  },
+  {
+    "text": "Then Zedekiah the son of Chenaanah went near, and smote Micah upon the cheek, and said, Where now went the Spirit of Jehovah from me to speak to thee?",
+    "reference": "1 Kings 22:24 (DBT)",
+    "connected_to": "1 Kings 22:25",
+    "connected_from": "1 Kings 22:23"
+  },
+  {
+    "text": "And Micah said, Behold, thou shalt see on that day when thou shalt go from chamber to chamber to hide thyself.",
+    "reference": "1 Kings 22:25 (DBT)",
+    "connected_to": "1 Kings 22:26",
+    "connected_from": "1 Kings 22:24"
+  },
+  {
+    "text": "And the king of Israel said, Take Micah and carry him back to Amon the governor of the city, and to Joash the king’s son;",
+    "reference": "1 Kings 22:26 (DBT)",
+    "connected_to": "1 Kings 22:27",
+    "connected_from": "1 Kings 22:25"
+  },
+  {
+    "text": "and thou shalt say, Thus says the king: Put this [man] in the prison, and feed him with bread of affliction and with water of affliction, until I come in peace.",
+    "reference": "1 Kings 22:27 (DBT)",
+    "connected_to": "1 Kings 22:28",
+    "connected_from": "1 Kings 22:26"
+  },
+  {
+    "text": "And Micah said, If thou return at all in peace, Jehovah has not spoken by me. And he said, Hearken, O peoples, all of you!",
+    "reference": "1 Kings 22:28 (DBT)",
+    "connected_to": "1 Kings 22:29",
+    "connected_from": "1 Kings 22:27"
+  },
+  {
+    "text": "And the king of Israel and Jehoshaphat the king of Judah went up to Ramoth-Gilead.",
+    "reference": "1 Kings 22:29 (DBT)",
+    "connected_to": "1 Kings 22:30",
+    "connected_from": "1 Kings 22:28"
+  },
+  {
+    "text": "And the king of Israel said to Jehoshaphat, I will disguise myself, and will enter into the battle; but put thou on thy robes. And the king of Israel disguised himself, and went into the battle.",
+    "reference": "1 Kings 22:30 (DBT)",
+    "connected_to": "1 Kings 22:31",
+    "connected_from": "1 Kings 22:29"
+  },
+  {
+    "text": "And the king of Syria commanded the thirty-two captains of his chariots saying, Fight neither with small nor great, but with the king of Israel only.",
+    "reference": "1 Kings 22:31 (DBT)",
+    "connected_to": "1 Kings 22:32",
+    "connected_from": "1 Kings 22:30"
+  },
+  {
+    "text": "And it came to pass when the captains of the chariots saw Jehoshaphat, that they said, Surely that is the king of Israel; and they turned against him to fight; and Jehoshaphat cried out.",
+    "reference": "1 Kings 22:32 (DBT)",
+    "connected_to": "1 Kings 22:33",
+    "connected_from": "1 Kings 22:31"
+  },
+  {
+    "text": "And it came to pass that when the captains of the chariots perceived that it was not the king of Israel, they turned back from pursuing him.",
+    "reference": "1 Kings 22:33 (DBT)",
+    "connected_to": "1 Kings 22:34",
+    "connected_from": "1 Kings 22:32"
+  },
+  {
+    "text": "And a man drew a bow at a venture, and smote the king of Israel between the fastenings and the corslet. And he said to his charioteer, Turn thy hand, and drive me out of the camp; for I am wounded.",
+    "reference": "1 Kings 22:34 (DBT)",
+    "connected_to": "1 Kings 22:35",
+    "connected_from": "1 Kings 22:33"
+  },
+  {
+    "text": "And the battle increased that day; and the king was stayed up in his chariot against the Syrians, and he died at even; and the blood of the wound ran out into the hollow of the chariot.",
+    "reference": "1 Kings 22:35 (DBT)",
+    "connected_to": "1 Kings 22:36",
+    "connected_from": "1 Kings 22:34"
+  },
+  {
+    "text": "And there went the cry throughout the host at the going down of the sun, saying, Every man to his city, and every man to his own country!",
+    "reference": "1 Kings 22:36 (DBT)",
+    "connected_to": "1 Kings 22:37",
+    "connected_from": "1 Kings 22:35"
+  },
+  {
+    "text": "And the king died, and was brought to Samaria; and they buried the king in Samaria.",
+    "reference": "1 Kings 22:37 (DBT)",
+    "connected_to": "1 Kings 22:38",
+    "connected_from": "1 Kings 22:36"
+  },
+  {
+    "text": "And one washed the chariot in the pool of Samaria; and the dogs licked his blood, where the harlots bathed: according to the word of Jehovah, which he had spoken.",
+    "reference": "1 Kings 22:38 (DBT)",
+    "connected_to": "1 Kings 22:39",
+    "connected_from": "1 Kings 22:37"
+  },
+  {
+    "text": "And the rest of the acts of Ahab, and all that he did, and the ivory house that he built, and all the cities that he built, are they not written in the book of the chronicles of the kings of Israel?",
+    "reference": "1 Kings 22:39 (DBT)",
+    "connected_to": "1 Kings 22:40",
+    "connected_from": "1 Kings 22:38"
+  },
+  {
+    "text": "And Ahab slept with his fathers; and Ahaziah his son reigned in his stead.",
+    "reference": "1 Kings 22:40 (DBT)",
+    "connected_to": "1 Kings 22:41",
+    "connected_from": "1 Kings 22:39"
+  },
+  {
+    "text": "And Jehoshaphat the son of Asa began to reign over Judah in the fourth year of Ahab king of Israel.",
+    "reference": "1 Kings 22:41 (DBT)",
+    "connected_to": "1 Kings 22:42",
+    "connected_from": "1 Kings 22:40"
+  },
+  {
+    "text": "Jehoshaphat was thirty-five years old when he began to reign; and he reigned twenty-five years in Jerusalem; and his mother’s name was Azubah, the daughter of Shilhi.",
+    "reference": "1 Kings 22:42 (DBT)",
+    "connected_to": "1 Kings 22:43",
+    "connected_from": "1 Kings 22:41"
+  },
+  {
+    "text": "And he walked in all the way of Asa his father; he turned not aside from it, doing what was right in the sight of Jehovah. Only, the high places were not removed: the people offered and burned incense still on the high places.",
+    "reference": "1 Kings 22:43 (DBT)",
+    "connected_to": "1 Kings 22:44",
+    "connected_from": "1 Kings 22:42"
+  },
+  {
+    "text": "And Jehoshaphat was at peace with the king of Israel.",
+    "reference": "1 Kings 22:44 (DBT)",
+    "connected_to": "1 Kings 22:45",
+    "connected_from": "1 Kings 22:43"
+  },
+  {
+    "text": "And the rest of the acts of Jehoshaphat, and his might which he shewed, and how he warred, are they not written in the book of the chronicles of the kings of Judah?",
+    "reference": "1 Kings 22:45 (DBT)",
+    "connected_to": "1 Kings 22:46",
+    "connected_from": "1 Kings 22:44"
+  },
+  {
+    "text": "And the remainder of the sodomites, which were left in the days of his father Asa, he put away from out of the land.",
+    "reference": "1 Kings 22:46 (DBT)",
+    "connected_to": "1 Kings 22:47",
+    "connected_from": "1 Kings 22:45"
+  },
+  {
+    "text": "And there was no king in Edom: a deputy reigned.",
+    "reference": "1 Kings 22:47 (DBT)",
+    "connected_to": "1 Kings 22:48",
+    "connected_from": "1 Kings 22:46"
+  },
+  {
+    "text": "Jehoshaphat made Tarshish-ships to go to Ophir for gold; but they went not, for the ships were broken at Ezion-geber.",
+    "reference": "1 Kings 22:48 (DBT)",
+    "connected_to": "1 Kings 22:49",
+    "connected_from": "1 Kings 22:47"
+  },
+  {
+    "text": "Then said Ahaziah the son of Ahab to Jehoshaphat, Let my servants go with thy servants in the ships. But Jehoshaphat would not.",
+    "reference": "1 Kings 22:49 (DBT)",
+    "connected_to": "1 Kings 22:50",
+    "connected_from": "1 Kings 22:48"
+  },
+  {
+    "text": "And Jehoshaphat slept with his fathers, and was buried with his fathers in the city of David his father; and Jehoram his son reigned in his stead.",
+    "reference": "1 Kings 22:50 (DBT)",
+    "connected_to": "1 Kings 22:51",
+    "connected_from": "1 Kings 22:49"
+  },
+  {
+    "text": "Ahaziah the son of Ahab began to reign over Israel in Samaria the seventeenth year of Jehoshaphat king of Judah; and he reigned two years over Israel.",
+    "reference": "1 Kings 22:51 (DBT)",
+    "connected_to": "1 Kings 22:52",
+    "connected_from": "1 Kings 22:50"
+  },
+  {
+    "text": "And he did evil in the sight of Jehovah, and walked in the way of his father, and in the way of his mother, and in the way of Jeroboam the son of Nebat, who made Israel to sin.",
+    "reference": "1 Kings 22:52 (DBT)",
+    "connected_to": "1 Kings 22:53",
+    "connected_from": "1 Kings 22:51"
+  },
+  {
+    "text": "And he served Baal, and worshipped him, and provoked Jehovah the God of Israel to anger, according to all that his father had done.",
+    "reference": "1 Kings 22:53 (DBT)",
+    "connected_from": "1 Kings 22:52"
+  }
+]

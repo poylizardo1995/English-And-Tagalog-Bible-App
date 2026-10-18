@@ -1,0 +1,84 @@
+[
+  {
+    "text": "Then Job answered, and said:",
+    "reference": "Job 26:1 (DRB)",
+    "connected_to": "Job 26:2"
+  },
+  {
+    "text": "Whose helper art thou? is it of him that is weak? and dost thou hold up the arm of him that has no strength?",
+    "reference": "Job 26:2 (DRB)",
+    "connected_to": "Job 26:3",
+    "connected_from": "Job 26:1"
+  },
+  {
+    "text": "To whom hast thou given counsel? perhaps to him that hath no wisdom, and thou hast shewn thy very great prudence.",
+    "reference": "Job 26:3 (DRB)",
+    "connected_to": "Job 26:4",
+    "connected_from": "Job 26:2"
+  },
+  {
+    "text": "Whom hast thou desired to teach? was it not him that made life?",
+    "reference": "Job 26:4 (DRB)",
+    "connected_to": "Job 26:5",
+    "connected_from": "Job 26:3"
+  },
+  {
+    "text": "Behold the giants groan under the waters, and they that dwell with them.",
+    "reference": "Job 26:5 (DRB)",
+    "connected_to": "Job 26:6",
+    "connected_from": "Job 26:4"
+  },
+  {
+    "text": "Hell is naked before him, and there is no covering for destruction.",
+    "reference": "Job 26:6 (DRB)",
+    "connected_to": "Job 26:7",
+    "connected_from": "Job 26:5"
+  },
+  {
+    "text": "He stretched out the north over the empty space, and hangeth the earth upon nothing.",
+    "reference": "Job 26:7 (DRB)",
+    "connected_to": "Job 26:8",
+    "connected_from": "Job 26:6"
+  },
+  {
+    "text": "He bindeth up the waters in his clouds, so that they break not out and fall down together.",
+    "reference": "Job 26:8 (DRB)",
+    "connected_to": "Job 26:9",
+    "connected_from": "Job 26:7"
+  },
+  {
+    "text": "He withholdeth the face of his throne, and spreadeth his cloud over it.",
+    "reference": "Job 26:9 (DRB)",
+    "connected_to": "Job 26:10",
+    "connected_from": "Job 26:8"
+  },
+  {
+    "text": "He hath set bounds about the waters, till light and darkness come to an end.",
+    "reference": "Job 26:10 (DRB)",
+    "connected_to": "Job 26:11",
+    "connected_from": "Job 26:9"
+  },
+  {
+    "text": "The pillars of heaven tremble, and dread at his beck.",
+    "reference": "Job 26:11 (DRB)",
+    "connected_to": "Job 26:12",
+    "connected_from": "Job 26:10"
+  },
+  {
+    "text": "By his power the seas are suddenly gathered together, and his wisdom has struck the proud one.",
+    "reference": "Job 26:12 (DRB)",
+    "connected_to": "Job 26:13",
+    "connected_from": "Job 26:11"
+  },
+  {
+    "text": "His spirit hath adorned the heavens, and his obstetric hand brought forth the winding serpent.",
+    "reference": "Job 26:13 (DRB)",
+    "connected_to": "Job 26:14",
+    "connected_from": "Job 26:12"
+  },
+  {
+    "text": "Lo, these things are said in part of his ways: and seeing we have heard scarce a little drop of his word, who shall be able to behold the thunder of his greatness?",
+    "reference": "Job 26:14 (DRB)",
+    "connected_from": "Job 26:13"
+  }
+]

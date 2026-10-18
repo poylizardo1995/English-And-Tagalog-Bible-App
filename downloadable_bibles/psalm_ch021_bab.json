@@ -1,0 +1,78 @@
+[
+  {
+    "text": "For the choirmaster. A Psalm of David (beloved). <span class=|reftext|><a href=|#|><b>1</b></a> O LORD {YHWH}, the king rejoices in Your strength. How greatly he exults in Your salvation!",
+    "reference": "Psalm 21:1 (BAB)",
+    "connected_to": "Psalm 21:2"
+  },
+  {
+    "text": "You have granted his heart’s desire and have not withheld the request of his lips. Selah",
+    "reference": "Psalm 21:2 (BAB)",
+    "connected_to": "Psalm 21:3",
+    "connected_from": "Psalm 21:1"
+  },
+  {
+    "text": "For You welcomed him with rich blessings; You placed on his head a crown of pure gold.",
+    "reference": "Psalm 21:3 (BAB)",
+    "connected_to": "Psalm 21:4",
+    "connected_from": "Psalm 21:2"
+  },
+  {
+    "text": "He asked You for life, and You granted it—length of days, forever and ever.",
+    "reference": "Psalm 21:4 (BAB)",
+    "connected_to": "Psalm 21:5",
+    "connected_from": "Psalm 21:3"
+  },
+  {
+    "text": "Great is his glory in Your salvation; You bestow on him splendor and majesty.",
+    "reference": "Psalm 21:5 (BAB)",
+    "connected_to": "Psalm 21:6",
+    "connected_from": "Psalm 21:4"
+  },
+  {
+    "text": "For You grant him blessings forever; You cheer him with joy in Your presence.",
+    "reference": "Psalm 21:6 (BAB)",
+    "connected_to": "Psalm 21:7",
+    "connected_from": "Psalm 21:5"
+  },
+  {
+    "text": "For the king trusts in the LORD {YHWH}; through the loving devotion of the Most High, he will not be shaken.",
+    "reference": "Psalm 21:7 (BAB)",
+    "connected_to": "Psalm 21:8",
+    "connected_from": "Psalm 21:6"
+  },
+  {
+    "text": "Your hand will apprehend all Your enemies; Your right hand will seize those who hate You.",
+    "reference": "Psalm 21:8 (BAB)",
+    "connected_to": "Psalm 21:9",
+    "connected_from": "Psalm 21:7"
+  },
+  {
+    "text": "You will place them in a fiery furnace at the time of Your appearing. In His wrath the LORD {YHWH} will engulf them, and the fire will consume them.",
+    "reference": "Psalm 21:9 (BAB)",
+    "connected_to": "Psalm 21:10",
+    "connected_from": "Psalm 21:8"
+  },
+  {
+    "text": "You will wipe their descendants from the earth, and their offspring from the sons of men.",
+    "reference": "Psalm 21:10 (BAB)",
+    "connected_to": "Psalm 21:11",
+    "connected_from": "Psalm 21:9"
+  },
+  {
+    "text": "Though they intend You harm, the schemes they devise will not prevail.",
+    "reference": "Psalm 21:11 (BAB)",
+    "connected_to": "Psalm 21:12",
+    "connected_from": "Psalm 21:10"
+  },
+  {
+    "text": "For You will put them to flight when Your bow is trained upon them.",
+    "reference": "Psalm 21:12 (BAB)",
+    "connected_to": "Psalm 21:13",
+    "connected_from": "Psalm 21:11"
+  },
+  {
+    "text": "Be exalted, O LORD {YHWH}, in Your strength; we will sing and praise Your power.",
+    "reference": "Psalm 21:13 (BAB)",
+    "connected_from": "Psalm 21:12"
+  }
+]

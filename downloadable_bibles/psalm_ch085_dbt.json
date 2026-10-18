@@ -1,0 +1,78 @@
+[
+  {
+    "text": "{To the chief Musician. Of the sons of Korah. A Psalm.} Thou hast been favourable, Jehovah, unto thy land; thou hast turned the captivity of Jacob:",
+    "reference": "Psalm 85:1 (DBT)",
+    "connected_to": "Psalm 85:2"
+  },
+  {
+    "text": "Thou hast forgiven the iniquity of thy people; thou hast covered all their sin. Selah.",
+    "reference": "Psalm 85:2 (DBT)",
+    "connected_to": "Psalm 85:3",
+    "connected_from": "Psalm 85:1"
+  },
+  {
+    "text": "Thou hast withdrawn all thy wrath; thou hast turned from the fierceness of thine anger.",
+    "reference": "Psalm 85:3 (DBT)",
+    "connected_to": "Psalm 85:4",
+    "connected_from": "Psalm 85:2"
+  },
+  {
+    "text": "Bring us back, O God of our salvation, and cause thine indignation toward us to cease.",
+    "reference": "Psalm 85:4 (DBT)",
+    "connected_to": "Psalm 85:5",
+    "connected_from": "Psalm 85:3"
+  },
+  {
+    "text": "Wilt thou be angry with us for ever? wilt thou draw out thine anger from generation to generation?",
+    "reference": "Psalm 85:5 (DBT)",
+    "connected_to": "Psalm 85:6",
+    "connected_from": "Psalm 85:4"
+  },
+  {
+    "text": "Wilt thou not revive us again, that thy people may rejoice in thee?",
+    "reference": "Psalm 85:6 (DBT)",
+    "connected_to": "Psalm 85:7",
+    "connected_from": "Psalm 85:5"
+  },
+  {
+    "text": "Shew us thy loving-kindness, O Jehovah, and grant us thy salvation.",
+    "reference": "Psalm 85:7 (DBT)",
+    "connected_to": "Psalm 85:8",
+    "connected_from": "Psalm 85:6"
+  },
+  {
+    "text": "I will hear what God, Jehovah, will speak; for he will speak peace unto his people, and to his godly ones: but let them not turn again to folly.",
+    "reference": "Psalm 85:8 (DBT)",
+    "connected_to": "Psalm 85:9",
+    "connected_from": "Psalm 85:7"
+  },
+  {
+    "text": "Surely his salvation is nigh them that fear him, that glory may dwell in our land.",
+    "reference": "Psalm 85:9 (DBT)",
+    "connected_to": "Psalm 85:10",
+    "connected_from": "Psalm 85:8"
+  },
+  {
+    "text": "Loving-kindness and truth are met together; righteousness and peace have kissed each other:",
+    "reference": "Psalm 85:10 (DBT)",
+    "connected_to": "Psalm 85:11",
+    "connected_from": "Psalm 85:9"
+  },
+  {
+    "text": "Truth shall spring out of the earth, and righteousness shall look down from the heavens.",
+    "reference": "Psalm 85:11 (DBT)",
+    "connected_to": "Psalm 85:12",
+    "connected_from": "Psalm 85:10"
+  },
+  {
+    "text": "Jehovah also will give what is good, and our land shall yield its increase.",
+    "reference": "Psalm 85:12 (DBT)",
+    "connected_to": "Psalm 85:13",
+    "connected_from": "Psalm 85:11"
+  },
+  {
+    "text": "Righteousness shall go before him, and shall set his footsteps on the way.",
+    "reference": "Psalm 85:13 (DBT)",
+    "connected_from": "Psalm 85:12"
+  }
+]

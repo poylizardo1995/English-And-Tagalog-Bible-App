@@ -1,0 +1,144 @@
+[
+  {
+    "text": "Now the serpent was more subtle than any beast of the field which the LORD God had made. And he said to the woman, Yes, has God said, You shall not eat of every tree of the garden?",
+    "reference": "Genesis 3:1 (AKJV)",
+    "connected_to": "Genesis 3:2"
+  },
+  {
+    "text": "And the woman said to the serpent, We may eat of the fruit of the trees of the garden:",
+    "reference": "Genesis 3:2 (AKJV)",
+    "connected_to": "Genesis 3:3",
+    "connected_from": "Genesis 3:1"
+  },
+  {
+    "text": "But of the fruit of the tree which is in the middle of the garden, God has said, You shall not eat of it, neither shall you touch it, lest you die.",
+    "reference": "Genesis 3:3 (AKJV)",
+    "connected_to": "Genesis 3:4",
+    "connected_from": "Genesis 3:2"
+  },
+  {
+    "text": "And the serpent said to the woman, You shall not surely die:",
+    "reference": "Genesis 3:4 (AKJV)",
+    "connected_to": "Genesis 3:5",
+    "connected_from": "Genesis 3:3"
+  },
+  {
+    "text": "For God does know that in the day you eat thereof, then your eyes shall be opened, and you shall be as gods, knowing good and evil.",
+    "reference": "Genesis 3:5 (AKJV)",
+    "connected_to": "Genesis 3:6",
+    "connected_from": "Genesis 3:4"
+  },
+  {
+    "text": "And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also to her husband with her; and he did eat.",
+    "reference": "Genesis 3:6 (AKJV)",
+    "connected_to": "Genesis 3:7",
+    "connected_from": "Genesis 3:5"
+  },
+  {
+    "text": "And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons.",
+    "reference": "Genesis 3:7 (AKJV)",
+    "connected_to": "Genesis 3:8",
+    "connected_from": "Genesis 3:6"
+  },
+  {
+    "text": "And they heard the voice of the LORD God walking in the garden in the cool of the day: and Adam and his wife hid themselves from the presence of the LORD God among the trees of the garden.",
+    "reference": "Genesis 3:8 (AKJV)",
+    "connected_to": "Genesis 3:9",
+    "connected_from": "Genesis 3:7"
+  },
+  {
+    "text": "And the LORD God called to Adam, and said to him, Where are you?",
+    "reference": "Genesis 3:9 (AKJV)",
+    "connected_to": "Genesis 3:10",
+    "connected_from": "Genesis 3:8"
+  },
+  {
+    "text": "And he said, I heard your voice in the garden, and I was afraid, because I was naked; and I hid myself.",
+    "reference": "Genesis 3:10 (AKJV)",
+    "connected_to": "Genesis 3:11",
+    "connected_from": "Genesis 3:9"
+  },
+  {
+    "text": "And he said, Who told you that you were naked? Have you eaten of the tree, whereof I commanded you that you should not eat?",
+    "reference": "Genesis 3:11 (AKJV)",
+    "connected_to": "Genesis 3:12",
+    "connected_from": "Genesis 3:10"
+  },
+  {
+    "text": "And the man said, The woman whom you gave to be with me, she gave me of the tree, and I did eat.",
+    "reference": "Genesis 3:12 (AKJV)",
+    "connected_to": "Genesis 3:13",
+    "connected_from": "Genesis 3:11"
+  },
+  {
+    "text": "And the LORD God said to the woman, What is this that you have done? And the woman said, The serpent beguiled me, and I did eat.",
+    "reference": "Genesis 3:13 (AKJV)",
+    "connected_to": "Genesis 3:14",
+    "connected_from": "Genesis 3:12"
+  },
+  {
+    "text": "And the LORD God said to the serpent, Because you have done this, you are cursed above all cattle, and above every beast of the field; on your belly shall you go, and dust shall you eat all the days of your life:",
+    "reference": "Genesis 3:14 (AKJV)",
+    "connected_to": "Genesis 3:15",
+    "connected_from": "Genesis 3:13"
+  },
+  {
+    "text": "And I will put enmity between you and the woman, and between your seed and her seed; it shall bruise your head, and you shall bruise his heel.",
+    "reference": "Genesis 3:15 (AKJV)",
+    "connected_to": "Genesis 3:16",
+    "connected_from": "Genesis 3:14"
+  },
+  {
+    "text": "To the woman he said, I will greatly multiply your sorrow and your conception; in sorrow you shall bring forth children; and your desire shall be to your husband, and he shall rule over you.",
+    "reference": "Genesis 3:16 (AKJV)",
+    "connected_to": "Genesis 3:17",
+    "connected_from": "Genesis 3:15"
+  },
+  {
+    "text": "And to Adam he said, Because you have listened to the voice of your wife, and have eaten of the tree, of which I commanded you, saying, You shall not eat of it: cursed is the ground for your sake; in sorrow shall you eat of it all the days of your life;",
+    "reference": "Genesis 3:17 (AKJV)",
+    "connected_to": "Genesis 3:18",
+    "connected_from": "Genesis 3:16"
+  },
+  {
+    "text": "Thorns also and thistles shall it bring forth to you; and you shall eat the herb of the field;",
+    "reference": "Genesis 3:18 (AKJV)",
+    "connected_to": "Genesis 3:19",
+    "connected_from": "Genesis 3:17"
+  },
+  {
+    "text": "In the sweat of your face shall you eat bread, till you return to the ground; for out of it were you taken: for dust you are, and to dust shall you return.",
+    "reference": "Genesis 3:19 (AKJV)",
+    "connected_to": "Genesis 3:20",
+    "connected_from": "Genesis 3:18"
+  },
+  {
+    "text": "And Adam called his wife’s name Eve; because she was the mother of all living.",
+    "reference": "Genesis 3:20 (AKJV)",
+    "connected_to": "Genesis 3:21",
+    "connected_from": "Genesis 3:19"
+  },
+  {
+    "text": "To Adam also and to his wife did the LORD God make coats of skins, and clothed them.",
+    "reference": "Genesis 3:21 (AKJV)",
+    "connected_to": "Genesis 3:22",
+    "connected_from": "Genesis 3:20"
+  },
+  {
+    "text": "And the LORD God said, Behold, the man is become as one of us, to know good and evil: and now, lest he put forth his hand, and take also of the tree of life, and eat, and live for ever:",
+    "reference": "Genesis 3:22 (AKJV)",
+    "connected_to": "Genesis 3:23",
+    "connected_from": "Genesis 3:21"
+  },
+  {
+    "text": "Therefore the LORD God sent him forth from the garden of Eden, to till the ground from from where he was taken.",
+    "reference": "Genesis 3:23 (AKJV)",
+    "connected_to": "Genesis 3:24",
+    "connected_from": "Genesis 3:22"
+  },
+  {
+    "text": "So he drove out the man; and he placed at the east of the garden of Eden Cherubim, and a flaming sword which turned every way, to keep the way of the tree of life.",
+    "reference": "Genesis 3:24 (AKJV)",
+    "connected_from": "Genesis 3:23"
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "text": "And he said also to [his] disciples, There was a certain rich man who had a steward, and he was accused to him as wasting his goods.",
+    "reference": "Luke 16:1 (DBT)",
+    "connected_to": "Luke 16:2"
+  },
+  {
+    "text": "And having called him, he said to him, What [is] this that I hear of thee? give the reckoning of thy stewardship, for thou canst be no longer steward.",
+    "reference": "Luke 16:2 (DBT)",
+    "connected_to": "Luke 16:3",
+    "connected_from": "Luke 16:1"
+  },
+  {
+    "text": "And the steward said within himself, What shall I do; for my lord is taking the stewardship from me? I am not able to dig; I am ashamed to beg.",
+    "reference": "Luke 16:3 (DBT)",
+    "connected_to": "Luke 16:4",
+    "connected_from": "Luke 16:2"
+  },
+  {
+    "text": "I know what I will do, that when I shall have been removed from the stewardship I may be received into their houses.",
+    "reference": "Luke 16:4 (DBT)",
+    "connected_to": "Luke 16:5",
+    "connected_from": "Luke 16:3"
+  },
+  {
+    "text": "And having called to [him] each one of the debtors of his own lord, he said to the first, How much owest thou to my lord?",
+    "reference": "Luke 16:5 (DBT)",
+    "connected_to": "Luke 16:6",
+    "connected_from": "Luke 16:4"
+  },
+  {
+    "text": "And he said, A hundred baths of oil. And he said to him, Take thy writing and sit down quickly and write fifty.",
+    "reference": "Luke 16:6 (DBT)",
+    "connected_to": "Luke 16:7",
+    "connected_from": "Luke 16:5"
+  },
+  {
+    "text": "Then he said to another, And thou, how much dost thou owe? And he said, A hundred cors of wheat. And he says to him, Take thy writing and write eighty.",
+    "reference": "Luke 16:7 (DBT)",
+    "connected_to": "Luke 16:8",
+    "connected_from": "Luke 16:6"
+  },
+  {
+    "text": "And the lord praised the unrighteous steward because he had done prudently. For the sons of this world are, for their own generation, more prudent than the sons of light.",
+    "reference": "Luke 16:8 (DBT)",
+    "connected_to": "Luke 16:9",
+    "connected_from": "Luke 16:7"
+  },
+  {
+    "text": "And I say to you, Make to yourselves friends with the mammon of unrighteousness, that when it fails ye may be received into the eternal tabernacles.",
+    "reference": "Luke 16:9 (DBT)",
+    "connected_to": "Luke 16:10",
+    "connected_from": "Luke 16:8"
+  },
+  {
+    "text": "He that is faithful in the least is faithful also in much; and he that is unrighteous in the least is unrighteous also in much.",
+    "reference": "Luke 16:10 (DBT)",
+    "connected_to": "Luke 16:11",
+    "connected_from": "Luke 16:9"
+  },
+  {
+    "text": "If therefore ye have not been faithful in the unrighteous mammon, who shall entrust to you the true?",
+    "reference": "Luke 16:11 (DBT)",
+    "connected_to": "Luke 16:12",
+    "connected_from": "Luke 16:10"
+  },
+  {
+    "text": "and if ye have not been faithful in that which is another’s, who shall give to you your own?",
+    "reference": "Luke 16:12 (DBT)",
+    "connected_to": "Luke 16:13",
+    "connected_from": "Luke 16:11"
+  },
+  {
+    "text": "No servant can serve two masters, for either he will hate the one and will love the other, or he will cleave to the one and despise the other. Ye cannot serve God and mammon.",
+    "reference": "Luke 16:13 (DBT)",
+    "connected_to": "Luke 16:14",
+    "connected_from": "Luke 16:12"
+  },
+  {
+    "text": "And the Pharisees also, who were covetous, heard all these things, and mocked him.",
+    "reference": "Luke 16:14 (DBT)",
+    "connected_to": "Luke 16:15",
+    "connected_from": "Luke 16:13"
+  },
+  {
+    "text": "And he said to them, Ye are they who justify themselves before men, but God knows your hearts; for what amongst men is highly thought of is an abomination before God.",
+    "reference": "Luke 16:15 (DBT)",
+    "connected_to": "Luke 16:16",
+    "connected_from": "Luke 16:14"
+  },
+  {
+    "text": "The law and the prophets [were] until John: from that time the glad tidings of the kingdom of God are announced, and every one forces his way into it.",
+    "reference": "Luke 16:16 (DBT)",
+    "connected_to": "Luke 16:17",
+    "connected_from": "Luke 16:15"
+  },
+  {
+    "text": "But it is easier that the heaven and the earth should pass away than that one tittle of the law should fail.",
+    "reference": "Luke 16:17 (DBT)",
+    "connected_to": "Luke 16:18",
+    "connected_from": "Luke 16:16"
+  },
+  {
+    "text": "Every one who puts away his wife and marries another commits adultery; and every one that marries one put away from a husband commits adultery.",
+    "reference": "Luke 16:18 (DBT)",
+    "connected_to": "Luke 16:19",
+    "connected_from": "Luke 16:17"
+  },
+  {
+    "text": "Now there was a rich man and he was clothed in purple and fine linen, making good cheer in splendour every day.",
+    "reference": "Luke 16:19 (DBT)",
+    "connected_to": "Luke 16:20",
+    "connected_from": "Luke 16:18"
+  },
+  {
+    "text": "And [there was] a poor man, by name Lazarus, [who] was laid at his gateway full of sores,",
+    "reference": "Luke 16:20 (DBT)",
+    "connected_to": "Luke 16:21",
+    "connected_from": "Luke 16:19"
+  },
+  {
+    "text": "and desiring to be filled with the crumbs which fell from the table of the rich man; but the dogs also coming licked his sores.",
+    "reference": "Luke 16:21 (DBT)",
+    "connected_to": "Luke 16:22",
+    "connected_from": "Luke 16:20"
+  },
+  {
+    "text": "And it came to pass that the poor man died, and that he was carried away by the angels into the bosom of Abraham. And the rich man also died and was buried.",
+    "reference": "Luke 16:22 (DBT)",
+    "connected_to": "Luke 16:23",
+    "connected_from": "Luke 16:21"
+  },
+  {
+    "text": "And in hades lifting up his eyes, being in torments, he sees Abraham afar off, and Lazarus in his bosom.",
+    "reference": "Luke 16:23 (DBT)",
+    "connected_to": "Luke 16:24",
+    "connected_from": "Luke 16:22"
+  },
+  {
+    "text": "And he crying out said, Father Abraham, have compassion on me, and send Lazarus that he may dip the tip of his finger in water and cool my tongue, for I am suffering in this flame.",
+    "reference": "Luke 16:24 (DBT)",
+    "connected_to": "Luke 16:25",
+    "connected_from": "Luke 16:23"
+  },
+  {
+    "text": "But Abraham said, Child, recollect that thou hast fully received thy good things in thy lifetime, and likewise Lazarus evil things. But now he is comforted here, and thou art in suffering.",
+    "reference": "Luke 16:25 (DBT)",
+    "connected_to": "Luke 16:26",
+    "connected_from": "Luke 16:24"
+  },
+  {
+    "text": "And besides all this, between us and you a great chasm is fixed, so that those who desire to pass hence to you cannot, nor do they who [desire to cross] from there pass over unto us.",
+    "reference": "Luke 16:26 (DBT)",
+    "connected_to": "Luke 16:27",
+    "connected_from": "Luke 16:25"
+  },
+  {
+    "text": "And he said, I beseech thee then, father, that thou wouldest send him to the house of my father,",
+    "reference": "Luke 16:27 (DBT)",
+    "connected_to": "Luke 16:28",
+    "connected_from": "Luke 16:26"
+  },
+  {
+    "text": "for I have five brothers, so that he may earnestly testify to them, that they also may not come to this place of torment.",
+    "reference": "Luke 16:28 (DBT)",
+    "connected_to": "Luke 16:29",
+    "connected_from": "Luke 16:27"
+  },
+  {
+    "text": "But Abraham says to him, They have Moses and the prophets: let them hear them.",
+    "reference": "Luke 16:29 (DBT)",
+    "connected_to": "Luke 16:30",
+    "connected_from": "Luke 16:28"
+  },
+  {
+    "text": "But he said, Nay, father Abraham, but if one from the dead should go to them, they will repent.",
+    "reference": "Luke 16:30 (DBT)",
+    "connected_to": "Luke 16:31",
+    "connected_from": "Luke 16:29"
+  },
+  {
+    "text": "And he said to him, If they hear not Moses and the prophets, not even if one rise from among [the] dead will they be persuaded.",
+    "reference": "Luke 16:31 (DBT)",
+    "connected_from": "Luke 16:30"
+  }
+]

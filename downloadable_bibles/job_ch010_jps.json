@@ -1,0 +1,132 @@
+[
+  {
+    "text": "My soul is weary of my life; I will give free course to my complaint; I will speak in the bitterness of my soul.",
+    "reference": "Job 10:1 (JPS)",
+    "connected_to": "Job 10:2"
+  },
+  {
+    "text": "I will say unto God: Do not condemn me; Make me know wherefore Thou contendest with me.",
+    "reference": "Job 10:2 (JPS)",
+    "connected_to": "Job 10:3",
+    "connected_from": "Job 10:1"
+  },
+  {
+    "text": "Is it good unto Thee that Thou shouldest oppress, That Thou shouldest despise the work of Thy hands, And shine upon the counsel of the wicked?",
+    "reference": "Job 10:3 (JPS)",
+    "connected_to": "Job 10:4",
+    "connected_from": "Job 10:2"
+  },
+  {
+    "text": "Hast Thou eyes of flesh? Or seest Thou as man seeth?",
+    "reference": "Job 10:4 (JPS)",
+    "connected_to": "Job 10:5",
+    "connected_from": "Job 10:3"
+  },
+  {
+    "text": "Are Thy days as the days of man, Or Thy years as a man’s days,",
+    "reference": "Job 10:5 (JPS)",
+    "connected_to": "Job 10:6",
+    "connected_from": "Job 10:4"
+  },
+  {
+    "text": "That Thou inquirest after mine iniquity, And searchest after my sin,",
+    "reference": "Job 10:6 (JPS)",
+    "connected_to": "Job 10:7",
+    "connected_from": "Job 10:5"
+  },
+  {
+    "text": "Although Thou knowest that I shall not be condemned; And there is none that can deliver out of Thy hand?",
+    "reference": "Job 10:7 (JPS)",
+    "connected_to": "Job 10:8",
+    "connected_from": "Job 10:6"
+  },
+  {
+    "text": "Thy hands have framed me and fashioned me Together round about; yet Thou dost destroy me!",
+    "reference": "Job 10:8 (JPS)",
+    "connected_to": "Job 10:9",
+    "connected_from": "Job 10:7"
+  },
+  {
+    "text": "Remember, I beseech Thee, that Thou hast fashioned me as clay; And wilt Thou bring me into dust again?",
+    "reference": "Job 10:9 (JPS)",
+    "connected_to": "Job 10:10",
+    "connected_from": "Job 10:8"
+  },
+  {
+    "text": "Hast Thou not poured me out as milk, And curdled me like cheese?",
+    "reference": "Job 10:10 (JPS)",
+    "connected_to": "Job 10:11",
+    "connected_from": "Job 10:9"
+  },
+  {
+    "text": "Thou hast clothed me with skin and flesh, And knit me together with bones and sinews.",
+    "reference": "Job 10:11 (JPS)",
+    "connected_to": "Job 10:12",
+    "connected_from": "Job 10:10"
+  },
+  {
+    "text": "Thou hast granted me life and favour, And Thy providence hath preserved my spirit.",
+    "reference": "Job 10:12 (JPS)",
+    "connected_to": "Job 10:13",
+    "connected_from": "Job 10:11"
+  },
+  {
+    "text": "Yet these things Thou didst hide in Thy heart; I know that this is with Thee;",
+    "reference": "Job 10:13 (JPS)",
+    "connected_to": "Job 10:14",
+    "connected_from": "Job 10:12"
+  },
+  {
+    "text": "If I sin, then Thou markest me, And Thou wilt not acquit me from mine iniquity.",
+    "reference": "Job 10:14 (JPS)",
+    "connected_to": "Job 10:15",
+    "connected_from": "Job 10:13"
+  },
+  {
+    "text": "If I be wicked, woe unto me; And if I be righteous, yet shall I not lift up my head—Being filled with ignominy And looking upon mine affliction.",
+    "reference": "Job 10:15 (JPS)",
+    "connected_to": "Job 10:16",
+    "connected_from": "Job 10:14"
+  },
+  {
+    "text": "And if it exalt itself, Thou huntest me as a lion; And again Thou showest Thyself marvellous upon me.",
+    "reference": "Job 10:16 (JPS)",
+    "connected_to": "Job 10:17",
+    "connected_from": "Job 10:15"
+  },
+  {
+    "text": "Thou renewest Thy witnesses against me, And increasest Thine indignation upon me; Host succeeding host against me.",
+    "reference": "Job 10:17 (JPS)",
+    "connected_to": "Job 10:18",
+    "connected_from": "Job 10:16"
+  },
+  {
+    "text": "Wherefore then hast Thou brought me forth out of the womb? Would that I had perished, and no eye had seen me!",
+    "reference": "Job 10:18 (JPS)",
+    "connected_to": "Job 10:19",
+    "connected_from": "Job 10:17"
+  },
+  {
+    "text": "I should have been as though I had not been; I should have been carried from the womb to the grave.",
+    "reference": "Job 10:19 (JPS)",
+    "connected_to": "Job 10:20",
+    "connected_from": "Job 10:18"
+  },
+  {
+    "text": "Are not my days few? Cease then, And let me alone, that I may take comfort a little,",
+    "reference": "Job 10:20 (JPS)",
+    "connected_to": "Job 10:21",
+    "connected_from": "Job 10:19"
+  },
+  {
+    "text": "Before I go whence I shall not return, Even to the land of darkness and of the shadow of death;",
+    "reference": "Job 10:21 (JPS)",
+    "connected_to": "Job 10:22",
+    "connected_from": "Job 10:20"
+  },
+  {
+    "text": "A land of thick darkness, as darkness itself; A land of the shadow of death, without any order, And where the light is as darkness.",
+    "reference": "Job 10:22 (JPS)",
+    "connected_from": "Job 10:21"
+  }
+]

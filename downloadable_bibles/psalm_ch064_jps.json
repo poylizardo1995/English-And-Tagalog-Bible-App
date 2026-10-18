@@ -1,0 +1,60 @@
+[
+  {
+    "text": "For the Leader. A Psalm of David.   Hear my voice, O God, in my complaint; Preserve my life from the terror of the enemy.",
+    "reference": "Psalm 64:1 (JPS)",
+    "connected_to": "Psalm 64:2"
+  },
+  {
+    "text": "Hide me from the council of evil-doers; From the tumult of the workers of iniquity;",
+    "reference": "Psalm 64:2 (JPS)",
+    "connected_to": "Psalm 64:3",
+    "connected_from": "Psalm 64:1"
+  },
+  {
+    "text": "Who have whet their tongue like a sword, And have aimed their arrow, a poisoned word;",
+    "reference": "Psalm 64:3 (JPS)",
+    "connected_to": "Psalm 64:4",
+    "connected_from": "Psalm 64:2"
+  },
+  {
+    "text": "That they may shoot in secret places at the blameless; Suddenly do they shoot at him, and fear not.",
+    "reference": "Psalm 64:4 (JPS)",
+    "connected_to": "Psalm 64:5",
+    "connected_from": "Psalm 64:3"
+  },
+  {
+    "text": "They encourage one another in an evil matter; They converse of laying snares secretly; They ask, who would see them.",
+    "reference": "Psalm 64:5 (JPS)",
+    "connected_to": "Psalm 64:6",
+    "connected_from": "Psalm 64:4"
+  },
+  {
+    "text": "They search out iniquities, they have accomplished a diligent search; Even in the inward thought of every one, and the deep heart.",
+    "reference": "Psalm 64:6 (JPS)",
+    "connected_to": "Psalm 64:7",
+    "connected_from": "Psalm 64:5"
+  },
+  {
+    "text": "But God doth shoot at them with an arrow suddenly; Thence are their wounds.",
+    "reference": "Psalm 64:7 (JPS)",
+    "connected_to": "Psalm 64:8",
+    "connected_from": "Psalm 64:6"
+  },
+  {
+    "text": "So they make their own tongue a stumbling unto themselves; All that see them shake the head.",
+    "reference": "Psalm 64:8 (JPS)",
+    "connected_to": "Psalm 64:9",
+    "connected_from": "Psalm 64:7"
+  },
+  {
+    "text": "And all men fear; And they declare the work of God, And understand His doing.",
+    "reference": "Psalm 64:9 (JPS)",
+    "connected_to": "Psalm 64:10",
+    "connected_from": "Psalm 64:8"
+  },
+  {
+    "text": "The righteous shall be glad in the LORD, and shall take refuge in Him; And all the upright in heart shall glory.",
+    "reference": "Psalm 64:10 (JPS)",
+    "connected_from": "Psalm 64:9"
+  }
+]

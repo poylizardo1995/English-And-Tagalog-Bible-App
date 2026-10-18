@@ -1,0 +1,54 @@
+[
+  {
+    "text": "Israel, convert to the Lord your God. For you have been ruined by your own iniquity.",
+    "reference": "Hosea 14:1 (CPDV)",
+    "connected_to": "Hosea 14:2"
+  },
+  {
+    "text": "Take these words with you and return to the Lord. And say to him, “Remove all iniquity and accept the good. And we will repay the calves of our lips.",
+    "reference": "Hosea 14:2 (CPDV)",
+    "connected_to": "Hosea 14:3",
+    "connected_from": "Hosea 14:1"
+  },
+  {
+    "text": "Assur will not save us; we will not ride on horses. Neither will we say any more, ‘The works of our hands are our gods,’ for those that are in you will have mercy on the orphan.”",
+    "reference": "Hosea 14:3 (CPDV)",
+    "connected_to": "Hosea 14:4",
+    "connected_from": "Hosea 14:2"
+  },
+  {
+    "text": "I will heal their contrition; I will love them spontaneously. For my wrath has been turned away from them.",
+    "reference": "Hosea 14:4 (CPDV)",
+    "connected_to": "Hosea 14:5",
+    "connected_from": "Hosea 14:3"
+  },
+  {
+    "text": "I will be like the dew; Israel will spring forth like the lily, and his root will spread out like that of the cedars of Lebanon.",
+    "reference": "Hosea 14:5 (CPDV)",
+    "connected_to": "Hosea 14:6",
+    "connected_from": "Hosea 14:4"
+  },
+  {
+    "text": "His branches will advance, and his glory will be like the olive tree, and his fragrance will be like that of the cedars of Lebanon.",
+    "reference": "Hosea 14:6 (CPDV)",
+    "connected_to": "Hosea 14:7",
+    "connected_from": "Hosea 14:5"
+  },
+  {
+    "text": "They will be converted, sitting in his shadow. They will live on wheat, and they will grow like a vine. His memorial will be like the wine of the cedars of Lebanon.",
+    "reference": "Hosea 14:7 (CPDV)",
+    "connected_to": "Hosea 14:8",
+    "connected_from": "Hosea 14:6"
+  },
+  {
+    "text": "Ephraim will say, “What are idols to me any more?” I will listen to him, and I will set him straight like a healthy spruce tree. Your fruit has been found by me.",
+    "reference": "Hosea 14:8 (CPDV)",
+    "connected_to": "Hosea 14:9",
+    "connected_from": "Hosea 14:7"
+  },
+  {
+    "text": "Who is wise and will understand this? Who has understanding and will know these things? For the ways of the Lord are straight, and the just will walk in them, but truly, the traitors will fall in them.",
+    "reference": "Hosea 14:9 (CPDV)",
+    "connected_from": "Hosea 14:8"
+  }
+]

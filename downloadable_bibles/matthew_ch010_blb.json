@@ -1,0 +1,252 @@
+[
+  {
+    "text": "And having summoned His twelve disciples, He gave them authority over unclean spirits, so as to cast them out and to heal every disease and every sickness.",
+    "reference": "Matthew 10:1 (BLB)",
+    "connected_to": "Matthew 10:2"
+  },
+  {
+    "text": "And these are the names of the twelve apostles: first Simon who [is] called Peter, and his brother Andrew; and James the [son] of Zebedee, and his brother John;",
+    "reference": "Matthew 10:2 (BLB)",
+    "connected_to": "Matthew 10:3",
+    "connected_from": "Matthew 10:1"
+  },
+  {
+    "text": "Philip and Bartholomew; Thomas and Matthew the tax collector; James the [son] of Alphaeus, and Thaddaeus;",
+    "reference": "Matthew 10:3 (BLB)",
+    "connected_to": "Matthew 10:4",
+    "connected_from": "Matthew 10:2"
+  },
+  {
+    "text": "Simon the Cananean, and Judas Iscariot, the one also having betrayed Him.",
+    "reference": "Matthew 10:4 (BLB)",
+    "connected_to": "Matthew 10:5",
+    "connected_from": "Matthew 10:3"
+  },
+  {
+    "text": "These twelve Jesus sent forth, having instructed them, saying: “Do not go into the way of the Gentiles, and into a city of the Samaritans do not enter.",
+    "reference": "Matthew 10:5 (BLB)",
+    "connected_to": "Matthew 10:6",
+    "connected_from": "Matthew 10:4"
+  },
+  {
+    "text": "But go rather to the lost sheep of the house of Israel.",
+    "reference": "Matthew 10:6 (BLB)",
+    "connected_to": "Matthew 10:7",
+    "connected_from": "Matthew 10:5"
+  },
+  {
+    "text": "And going, proclaim, saying, ‘The kingdom of the heavens has drawn near.’",
+    "reference": "Matthew 10:7 (BLB)",
+    "connected_to": "Matthew 10:8",
+    "connected_from": "Matthew 10:6"
+  },
+  {
+    "text": "Heal the ailing, raise the dead, cleanse the lepers, cast out demons. Freely you⁺ received; freely give.",
+    "reference": "Matthew 10:8 (BLB)",
+    "connected_to": "Matthew 10:9",
+    "connected_from": "Matthew 10:7"
+  },
+  {
+    "text": "Acquire neither gold nor silver nor copper in your⁺ belts,",
+    "reference": "Matthew 10:9 (BLB)",
+    "connected_to": "Matthew 10:10",
+    "connected_from": "Matthew 10:8"
+  },
+  {
+    "text": "nor a bag for the way, nor two tunics, nor sandals, nor a staff; for the worker [is] worthy of his food.",
+    "reference": "Matthew 10:10 (BLB)",
+    "connected_to": "Matthew 10:11",
+    "connected_from": "Matthew 10:9"
+  },
+  {
+    "text": "And into whatever city or village you⁺ may enter, inquire who is worthy in it, and remain there until you⁺ may go out.",
+    "reference": "Matthew 10:11 (BLB)",
+    "connected_to": "Matthew 10:12",
+    "connected_from": "Matthew 10:10"
+  },
+  {
+    "text": "And entering into the house, greet it.",
+    "reference": "Matthew 10:12 (BLB)",
+    "connected_to": "Matthew 10:13",
+    "connected_from": "Matthew 10:11"
+  },
+  {
+    "text": "And if indeed the house is worthy, let your⁺ peace come upon it; but if it is not worthy, let your⁺ peace return to you⁺.",
+    "reference": "Matthew 10:13 (BLB)",
+    "connected_to": "Matthew 10:14",
+    "connected_from": "Matthew 10:12"
+  },
+  {
+    "text": "And whoever may not receive you⁺ nor hear your⁺ words, going forth out of the house or that city, shake off the dust of your⁺ feet.",
+    "reference": "Matthew 10:14 (BLB)",
+    "connected_to": "Matthew 10:15",
+    "connected_from": "Matthew 10:13"
+  },
+  {
+    "text": "Truly I say to you⁺, it will be more bearable for the land of Sodom and of Gomorrah in the day of judgment than for that city.",
+    "reference": "Matthew 10:15 (BLB)",
+    "connected_to": "Matthew 10:16",
+    "connected_from": "Matthew 10:14"
+  },
+  {
+    "text": "Behold, I send you⁺ forth as sheep in the midst of wolves; therefore be shrewd as the serpents and innocent as the doves.",
+    "reference": "Matthew 10:16 (BLB)",
+    "connected_to": "Matthew 10:17",
+    "connected_from": "Matthew 10:15"
+  },
+  {
+    "text": "But beware of men; for they will deliver you⁺ up into the councils, and in their synagogues they will flog you⁺.",
+    "reference": "Matthew 10:17 (BLB)",
+    "connected_to": "Matthew 10:18",
+    "connected_from": "Matthew 10:16"
+  },
+  {
+    "text": "And you⁺ will be led before governors and also kings on account of Me, for a testimony to them and to the nations.",
+    "reference": "Matthew 10:18 (BLB)",
+    "connected_to": "Matthew 10:19",
+    "connected_from": "Matthew 10:17"
+  },
+  {
+    "text": "And when they may deliver you⁺ up, do not be anxious how or what you⁺ shall speak; for it will be given to you⁺ in that hour what you⁺ shall speak.",
+    "reference": "Matthew 10:19 (BLB)",
+    "connected_to": "Matthew 10:20",
+    "connected_from": "Matthew 10:18"
+  },
+  {
+    "text": "For you⁺ are not the ones speaking, but the Spirit of your⁺ Father speaking in you⁺.",
+    "reference": "Matthew 10:20 (BLB)",
+    "connected_to": "Matthew 10:21",
+    "connected_from": "Matthew 10:19"
+  },
+  {
+    "text": "And brother will deliver up brother to death, and father, child; and children will rise up against parents and will put them to death.",
+    "reference": "Matthew 10:21 (BLB)",
+    "connected_to": "Matthew 10:22",
+    "connected_from": "Matthew 10:20"
+  },
+  {
+    "text": "And you⁺ will be hated by all because of My name; but the one having endured to the end, this one will be saved.",
+    "reference": "Matthew 10:22 (BLB)",
+    "connected_to": "Matthew 10:23",
+    "connected_from": "Matthew 10:21"
+  },
+  {
+    "text": "And when they may persecute you⁺ in one city, flee to the other. For truly I say to you⁺, you⁺ shall not have completed the cities of Israel until the Son of Man shall come.",
+    "reference": "Matthew 10:23 (BLB)",
+    "connected_to": "Matthew 10:24",
+    "connected_from": "Matthew 10:22"
+  },
+  {
+    "text": "A disciple is not above the teacher, nor a servant above his master.",
+    "reference": "Matthew 10:24 (BLB)",
+    "connected_to": "Matthew 10:25",
+    "connected_from": "Matthew 10:23"
+  },
+  {
+    "text": "Aufficient to the disciple [is] that he may become like his teacher, and the servant like his master. If the master of the house they have called Beelzebul, how much more the members of his household!",
+    "reference": "Matthew 10:25 (BLB)",
+    "connected_to": "Matthew 10:26",
+    "connected_from": "Matthew 10:24"
+  },
+  {
+    "text": "Therefore do not fear them. For nothing is concealed that will not be revealed, and hidden that will not be known.",
+    "reference": "Matthew 10:26 (BLB)",
+    "connected_to": "Matthew 10:27",
+    "connected_from": "Matthew 10:25"
+  },
+  {
+    "text": "What I say to you⁺ in the darkness, say in the light; and what you⁺ hear in the ear, proclaim upon the housetops.",
+    "reference": "Matthew 10:27 (BLB)",
+    "connected_to": "Matthew 10:28",
+    "connected_from": "Matthew 10:26"
+  },
+  {
+    "text": "And do not be afraid of those killing the body but not being able to kill the soul. But fear, rather, the One being able to destroy both soul and body in Gehenna.",
+    "reference": "Matthew 10:28 (BLB)",
+    "connected_to": "Matthew 10:29",
+    "connected_from": "Matthew 10:27"
+  },
+  {
+    "text": "Are not two sparrows sold for an assarion? And not one of them will fall to the ground apart from your⁺ Father.",
+    "reference": "Matthew 10:29 (BLB)",
+    "connected_to": "Matthew 10:30",
+    "connected_from": "Matthew 10:28"
+  },
+  {
+    "text": "And even the hairs of your⁺ head are all numbered.",
+    "reference": "Matthew 10:30 (BLB)",
+    "connected_to": "Matthew 10:31",
+    "connected_from": "Matthew 10:29"
+  },
+  {
+    "text": "Therefore do not be afraid; you⁺ are more valuable than many sparrows.",
+    "reference": "Matthew 10:31 (BLB)",
+    "connected_to": "Matthew 10:32",
+    "connected_from": "Matthew 10:30"
+  },
+  {
+    "text": "Therefore everyone who will confess in Me before men, I will also confess in him before My Father who [is] in the heavens.",
+    "reference": "Matthew 10:32 (BLB)",
+    "connected_to": "Matthew 10:33",
+    "connected_from": "Matthew 10:31"
+  },
+  {
+    "text": "But whoever shall deny Me before men, I also will deny him before My Father who [is] in the heavens.",
+    "reference": "Matthew 10:33 (BLB)",
+    "connected_to": "Matthew 10:34",
+    "connected_from": "Matthew 10:32"
+  },
+  {
+    "text": "Do not think that I came to cast peace upon the earth; I did not come to cast peace, but a sword.",
+    "reference": "Matthew 10:34 (BLB)",
+    "connected_to": "Matthew 10:35",
+    "connected_from": "Matthew 10:33"
+  },
+  {
+    "text": "For I came to set at variance: ‘A man against his father, and a daughter against her mother, and a daughter-in-law against her mother-in-law.",
+    "reference": "Matthew 10:35 (BLB)",
+    "connected_to": "Matthew 10:36",
+    "connected_from": "Matthew 10:34"
+  },
+  {
+    "text": "And the enemies of the man [are] the members of his household.’",
+    "reference": "Matthew 10:36 (BLB)",
+    "connected_to": "Matthew 10:37",
+    "connected_from": "Matthew 10:35"
+  },
+  {
+    "text": "The one loving father or mother above Me is not worthy of Me, and the one loving son or daughter above Me is not worthy of Me.",
+    "reference": "Matthew 10:37 (BLB)",
+    "connected_to": "Matthew 10:38",
+    "connected_from": "Matthew 10:36"
+  },
+  {
+    "text": "And whoever does not take his cross and follow after Me is not worthy of Me.",
+    "reference": "Matthew 10:38 (BLB)",
+    "connected_to": "Matthew 10:39",
+    "connected_from": "Matthew 10:37"
+  },
+  {
+    "text": "The one having found his life will lose it, and the one having lost his life on account of Me will find it.",
+    "reference": "Matthew 10:39 (BLB)",
+    "connected_to": "Matthew 10:40",
+    "connected_from": "Matthew 10:38"
+  },
+  {
+    "text": "The one receiving you⁺ receives Me, and the one receiving Me receives the One having sent Me.",
+    "reference": "Matthew 10:40 (BLB)",
+    "connected_to": "Matthew 10:41",
+    "connected_from": "Matthew 10:39"
+  },
+  {
+    "text": "The one receiving a prophet in the name of a prophet will receive the reward of a prophet, and the one receiving a righteous [man] in the name of a righteous [man] will receive the reward of a righteous [man].",
+    "reference": "Matthew 10:41 (BLB)",
+    "connected_to": "Matthew 10:42",
+    "connected_from": "Matthew 10:40"
+  },
+  {
+    "text": "And whoever shall give to drink to one of these little ones merely a cup of cold [water] in the name of a disciple, truly I say to you⁺, he shall certainly not lose his reward.”",
+    "reference": "Matthew 10:42 (BLB)",
+    "connected_from": "Matthew 10:41"
+  }
+]

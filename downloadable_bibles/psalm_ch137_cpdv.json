@@ -1,0 +1,54 @@
+[
+  {
+    "text": "A Psalm of David: to Jeremiah. Above the rivers of Babylon, there we sat and wept, while we remembered Zion.",
+    "reference": "Psalm 137:1 (CPDV)",
+    "connected_to": "Psalm 137:2"
+  },
+  {
+    "text": "By the willow trees, in their midst, we hung up our instruments.",
+    "reference": "Psalm 137:2 (CPDV)",
+    "connected_to": "Psalm 137:3",
+    "connected_from": "Psalm 137:1"
+  },
+  {
+    "text": "For, in that place, those who led us into captivity questioned us about the words of the songs. And those who carried us away said: “Sing us a hymn from the songs of Zion.”",
+    "reference": "Psalm 137:3 (CPDV)",
+    "connected_to": "Psalm 137:4",
+    "connected_from": "Psalm 137:2"
+  },
+  {
+    "text": "How can we sing a song of the Lord in a foreign land?",
+    "reference": "Psalm 137:4 (CPDV)",
+    "connected_to": "Psalm 137:5",
+    "connected_from": "Psalm 137:3"
+  },
+  {
+    "text": "If I ever forget you, Jerusalem, let my right hand be forgotten.",
+    "reference": "Psalm 137:5 (CPDV)",
+    "connected_to": "Psalm 137:6",
+    "connected_from": "Psalm 137:4"
+  },
+  {
+    "text": "May my tongue adhere to my jaws, if I do not remember you, if I do not set Jerusalem first, as the beginning of my joy.",
+    "reference": "Psalm 137:6 (CPDV)",
+    "connected_to": "Psalm 137:7",
+    "connected_from": "Psalm 137:5"
+  },
+  {
+    "text": "O Lord, call to mind the sons of Edom, in the day of Jerusalem, who say: “Despoil it, despoil it, even to its foundation.”",
+    "reference": "Psalm 137:7 (CPDV)",
+    "connected_to": "Psalm 137:8",
+    "connected_from": "Psalm 137:6"
+  },
+  {
+    "text": "O daughter of Babylon, have pity. Blessed is he who will repay you with your payment, which you have paid to us.",
+    "reference": "Psalm 137:8 (CPDV)",
+    "connected_to": "Psalm 137:9",
+    "connected_from": "Psalm 137:7"
+  },
+  {
+    "text": "Blessed is he who will take hold of your little ones and dash them against the rock.",
+    "reference": "Psalm 137:9 (CPDV)",
+    "connected_from": "Psalm 137:8"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Hear, O Lord, my prayer: give ear to my supplication in thy truth: hear me in thy justice.",
+    "reference": "Psalm 143:1 (DRB)",
+    "connected_to": "Psalm 143:2"
+  },
+  {
+    "text": "And enter not into judgment with thy servant: for in thy sight no man living shall be justified.",
+    "reference": "Psalm 143:2 (DRB)",
+    "connected_to": "Psalm 143:3",
+    "connected_from": "Psalm 143:1"
+  },
+  {
+    "text": "For the enemy hath persecuted my soul: he hath brought down my life to the earth. He hath made me to dwell in darkness as those that have been dead of old:",
+    "reference": "Psalm 143:3 (DRB)",
+    "connected_to": "Psalm 143:4",
+    "connected_from": "Psalm 143:2"
+  },
+  {
+    "text": "and my spirit is in anguish within me: my heart within me is troubled.",
+    "reference": "Psalm 143:4 (DRB)",
+    "connected_to": "Psalm 143:5",
+    "connected_from": "Psalm 143:3"
+  },
+  {
+    "text": "I remembered the days of old, I meditated on all thy works: I meditated upon the works of thy hands.",
+    "reference": "Psalm 143:5 (DRB)",
+    "connected_to": "Psalm 143:6",
+    "connected_from": "Psalm 143:4"
+  },
+  {
+    "text": "I stretched forth my hands to thee: my soul is as earth without water unto thee.",
+    "reference": "Psalm 143:6 (DRB)",
+    "connected_to": "Psalm 143:7",
+    "connected_from": "Psalm 143:5"
+  },
+  {
+    "text": "Hear me speedily, O Lord: my spirit hath fainted away. Turn not away thy face from me, lest I be like unto them that go down into the pit.",
+    "reference": "Psalm 143:7 (DRB)",
+    "connected_to": "Psalm 143:8",
+    "connected_from": "Psalm 143:6"
+  },
+  {
+    "text": "Cause me to hear thy mercy in the morning; for in thee have I hoped. Make the way known to me, wherein I should walk: for I have lifted up my soul to thee.",
+    "reference": "Psalm 143:8 (DRB)",
+    "connected_to": "Psalm 143:9",
+    "connected_from": "Psalm 143:7"
+  },
+  {
+    "text": "Deliver me from my enemies, O Lord, to thee have I fled:",
+    "reference": "Psalm 143:9 (DRB)",
+    "connected_to": "Psalm 143:10",
+    "connected_from": "Psalm 143:8"
+  },
+  {
+    "text": "teach me to do thy will, for thou art my God. Thy good spirit shall lead me into the right land:",
+    "reference": "Psalm 143:10 (DRB)",
+    "connected_to": "Psalm 143:11",
+    "connected_from": "Psalm 143:9"
+  },
+  {
+    "text": "for thy name’s sake, O Lord, thou wilt quicken me in thy justice. Thou wilt bring my soul out of trouble:",
+    "reference": "Psalm 143:11 (DRB)",
+    "connected_to": "Psalm 143:12",
+    "connected_from": "Psalm 143:10"
+  },
+  {
+    "text": "and in thy mercy thou wilt destroy my enemies. And thou wilt cut off all them that afflict my soul: for I am thy servant.",
+    "reference": "Psalm 143:12 (DRB)",
+    "connected_from": "Psalm 143:11"
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "text": "Why standest thou afar off, O Jehovah? Why hidest thou thyself in times of trouble?",
+    "reference": "Psalm 10:1 (ASV)",
+    "connected_to": "Psalm 10:2"
+  },
+  {
+    "text": "In the pride of the wicked the poor is hotly pursued; Let them be taken in the devices that they have conceived.",
+    "reference": "Psalm 10:2 (ASV)",
+    "connected_to": "Psalm 10:3",
+    "connected_from": "Psalm 10:1"
+  },
+  {
+    "text": "For the wicked boasteth of his heart’s desire, And the covetous renounceth, yea, contemneth Jehovah.",
+    "reference": "Psalm 10:3 (ASV)",
+    "connected_to": "Psalm 10:4",
+    "connected_from": "Psalm 10:2"
+  },
+  {
+    "text": "The wicked, in the pride of his countenance, saith, He will not require it. All his thoughts are, There is no God.",
+    "reference": "Psalm 10:4 (ASV)",
+    "connected_to": "Psalm 10:5",
+    "connected_from": "Psalm 10:3"
+  },
+  {
+    "text": "His ways are firm at all times; Thy judgments are far above out of his sight: As for all his adversaries, he puffeth at them.",
+    "reference": "Psalm 10:5 (ASV)",
+    "connected_to": "Psalm 10:6",
+    "connected_from": "Psalm 10:4"
+  },
+  {
+    "text": "He saith in his heart, I shall not be moved; To all generations I shall not be in adversity.",
+    "reference": "Psalm 10:6 (ASV)",
+    "connected_to": "Psalm 10:7",
+    "connected_from": "Psalm 10:5"
+  },
+  {
+    "text": "His mouth is full of cursing and deceit and oppression: Under his tongue is mischief and iniquity.",
+    "reference": "Psalm 10:7 (ASV)",
+    "connected_to": "Psalm 10:8",
+    "connected_from": "Psalm 10:6"
+  },
+  {
+    "text": "He sitteth in the lurking-places of the villages; In the secret places doth he murder the innocent; His eyes are privily set against the helpless.",
+    "reference": "Psalm 10:8 (ASV)",
+    "connected_to": "Psalm 10:9",
+    "connected_from": "Psalm 10:7"
+  },
+  {
+    "text": "He lurketh in secret as a lion in his covert; He lieth in wait to catch the poor: He doth catch the poor, when he draweth him in his net.",
+    "reference": "Psalm 10:9 (ASV)",
+    "connected_to": "Psalm 10:10",
+    "connected_from": "Psalm 10:8"
+  },
+  {
+    "text": "He croucheth, he boweth down, And the helpless fall by his strong ones.",
+    "reference": "Psalm 10:10 (ASV)",
+    "connected_to": "Psalm 10:11",
+    "connected_from": "Psalm 10:9"
+  },
+  {
+    "text": "He saith in his heart, God hath forgotten; He hideth his face; he will never see it.",
+    "reference": "Psalm 10:11 (ASV)",
+    "connected_to": "Psalm 10:12",
+    "connected_from": "Psalm 10:10"
+  },
+  {
+    "text": "Arise, O Jehovah; O God, lift up thy hand: Forget not the poor.",
+    "reference": "Psalm 10:12 (ASV)",
+    "connected_to": "Psalm 10:13",
+    "connected_from": "Psalm 10:11"
+  },
+  {
+    "text": "Wherefore doth the wicked contemn God, And say in his heart, Thou wilt not require it?",
+    "reference": "Psalm 10:13 (ASV)",
+    "connected_to": "Psalm 10:14",
+    "connected_from": "Psalm 10:12"
+  },
+  {
+    "text": "Thou hast seen it; for thou beholdest mischief and spite, to requite it with thy hand: The helpless committeth himself unto thee; Thou hast been the helper of the fatherless.",
+    "reference": "Psalm 10:14 (ASV)",
+    "connected_to": "Psalm 10:15",
+    "connected_from": "Psalm 10:13"
+  },
+  {
+    "text": "Break thou the arm of the wicked; And as for the evil man, seek out his wickedness till thou find none.",
+    "reference": "Psalm 10:15 (ASV)",
+    "connected_to": "Psalm 10:16",
+    "connected_from": "Psalm 10:14"
+  },
+  {
+    "text": "Jehovah is King for ever and ever: The nations are perished out of his land.",
+    "reference": "Psalm 10:16 (ASV)",
+    "connected_to": "Psalm 10:17",
+    "connected_from": "Psalm 10:15"
+  },
+  {
+    "text": "Jehovah, thou hast heard the desire of the meek: Thou wilt prepare their heart, thou wilt cause thine ear to hear;",
+    "reference": "Psalm 10:17 (ASV)",
+    "connected_to": "Psalm 10:18",
+    "connected_from": "Psalm 10:16"
+  },
+  {
+    "text": "To judge the fatherless and the oppressed, That man who is of the earth may be terrible no more.",
+    "reference": "Psalm 10:18 (ASV)",
+    "connected_from": "Psalm 10:17"
+  }
+]

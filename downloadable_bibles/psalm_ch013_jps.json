@@ -1,0 +1,36 @@
+[
+  {
+    "text": "For the Leader. A Psalm of David.   How long, O LORD, wilt Thou forget me for ever? How long wilt Thou hide Thy face from me?",
+    "reference": "Psalm 13:1 (JPS)",
+    "connected_to": "Psalm 13:2"
+  },
+  {
+    "text": "How long shall I take counsel in my soul, having sorrow in my heart by day? How long shall mine enemy be exalted over me?",
+    "reference": "Psalm 13:2 (JPS)",
+    "connected_to": "Psalm 13:3",
+    "connected_from": "Psalm 13:1"
+  },
+  {
+    "text": "Behold Thou, and answer me, O LORD my God; Lighten mine eyes, lest I sleep the sleep of death;",
+    "reference": "Psalm 13:3 (JPS)",
+    "connected_to": "Psalm 13:4",
+    "connected_from": "Psalm 13:2"
+  },
+  {
+    "text": "Lest mine enemy say: ‘I have prevailed against him’; Lest mine adversaries rejoice when I am moved.",
+    "reference": "Psalm 13:4 (JPS)",
+    "connected_to": "Psalm 13:5",
+    "connected_from": "Psalm 13:3"
+  },
+  {
+    "text": "But as for me, in Thy mercy do I trust; My heart shall rejoice in Thy salvation.",
+    "reference": "Psalm 13:5 (JPS)",
+    "connected_to": "Psalm 13:6",
+    "connected_from": "Psalm 13:4"
+  },
+  {
+    "text": "I will sing unto the LORD, Because He hath dealt bountifully with me.",
+    "reference": "Psalm 13:6 (JPS)",
+    "connected_from": "Psalm 13:5"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "text": "My son, if thou wilt receive my words, and wilt hide my commandments with thee,",
+    "reference": "Proverbs 2:1 (DRB)",
+    "connected_to": "Proverbs 2:2"
+  },
+  {
+    "text": "That thy ear may hearken to wisdom: Incline thy heart to know prudence:",
+    "reference": "Proverbs 2:2 (DRB)",
+    "connected_to": "Proverbs 2:3",
+    "connected_from": "Proverbs 2:1"
+  },
+  {
+    "text": "For if thou shalt call for wisdom, and incline thy heart to prudence:",
+    "reference": "Proverbs 2:3 (DRB)",
+    "connected_to": "Proverbs 2:4",
+    "connected_from": "Proverbs 2:2"
+  },
+  {
+    "text": "If thou shalt seek her as money, and shalt dig for her as for a treasure:",
+    "reference": "Proverbs 2:4 (DRB)",
+    "connected_to": "Proverbs 2:5",
+    "connected_from": "Proverbs 2:3"
+  },
+  {
+    "text": "Then shalt thou understand the fear of the Lord, and shalt find the knowledge of God.",
+    "reference": "Proverbs 2:5 (DRB)",
+    "connected_to": "Proverbs 2:6",
+    "connected_from": "Proverbs 2:4"
+  },
+  {
+    "text": "Because the Lord giveth wisdom: and out of his mouth cometh prudence and knowledge.",
+    "reference": "Proverbs 2:6 (DRB)",
+    "connected_to": "Proverbs 2:7",
+    "connected_from": "Proverbs 2:5"
+  },
+  {
+    "text": "He will keep the salvation of the righteous, and protect them that walk in simplicity.",
+    "reference": "Proverbs 2:7 (DRB)",
+    "connected_to": "Proverbs 2:8",
+    "connected_from": "Proverbs 2:6"
+  },
+  {
+    "text": "Keeping the paths of justice, and guarding the ways of saints.",
+    "reference": "Proverbs 2:8 (DRB)",
+    "connected_to": "Proverbs 2:9",
+    "connected_from": "Proverbs 2:7"
+  },
+  {
+    "text": "Then shalt thou understand justice, and judgment, and equity, and every good path.",
+    "reference": "Proverbs 2:9 (DRB)",
+    "connected_to": "Proverbs 2:10",
+    "connected_from": "Proverbs 2:8"
+  },
+  {
+    "text": "If wisdom shall enter into thy heart, and knowledge please thy soul:",
+    "reference": "Proverbs 2:10 (DRB)",
+    "connected_to": "Proverbs 2:11",
+    "connected_from": "Proverbs 2:9"
+  },
+  {
+    "text": "Counsel shall keep thee, and prudence shall preserve thee,",
+    "reference": "Proverbs 2:11 (DRB)",
+    "connected_to": "Proverbs 2:12",
+    "connected_from": "Proverbs 2:10"
+  },
+  {
+    "text": "That thou mayst be delivered from the evil way, and from the man that speaketh perverse things:",
+    "reference": "Proverbs 2:12 (DRB)",
+    "connected_to": "Proverbs 2:13",
+    "connected_from": "Proverbs 2:11"
+  },
+  {
+    "text": "Who leave the right way, and walk by dark ways:",
+    "reference": "Proverbs 2:13 (DRB)",
+    "connected_to": "Proverbs 2:14",
+    "connected_from": "Proverbs 2:12"
+  },
+  {
+    "text": "Who are glad when they have done evil, and rejoice in most wicked things:",
+    "reference": "Proverbs 2:14 (DRB)",
+    "connected_to": "Proverbs 2:15",
+    "connected_from": "Proverbs 2:13"
+  },
+  {
+    "text": "Whose ways are perverse, and their steps infamous.",
+    "reference": "Proverbs 2:15 (DRB)",
+    "connected_to": "Proverbs 2:16",
+    "connected_from": "Proverbs 2:14"
+  },
+  {
+    "text": "That thou mayst be delivered from the strange women, and from the stranger, who softeneth her words:",
+    "reference": "Proverbs 2:16 (DRB)",
+    "connected_to": "Proverbs 2:17",
+    "connected_from": "Proverbs 2:15"
+  },
+  {
+    "text": "And forsaketh the guide of her youth,",
+    "reference": "Proverbs 2:17 (DRB)",
+    "connected_to": "Proverbs 2:18",
+    "connected_from": "Proverbs 2:16"
+  },
+  {
+    "text": "And hath forgotten the covenant of her God: for her house inclineth unto death, and her paths to hell.",
+    "reference": "Proverbs 2:18 (DRB)",
+    "connected_to": "Proverbs 2:19",
+    "connected_from": "Proverbs 2:17"
+  },
+  {
+    "text": "None that go in unto her shall return again, neither shall they take hold of the paths of life,",
+    "reference": "Proverbs 2:19 (DRB)",
+    "connected_to": "Proverbs 2:20",
+    "connected_from": "Proverbs 2:18"
+  },
+  {
+    "text": "That thou mayst walk in a good way: and mayst keep the paths of the just.",
+    "reference": "Proverbs 2:20 (DRB)",
+    "connected_to": "Proverbs 2:21",
+    "connected_from": "Proverbs 2:19"
+  },
+  {
+    "text": "For they that are upright shall dwell in the earth, and the simple shall continue in it.",
+    "reference": "Proverbs 2:21 (DRB)",
+    "connected_to": "Proverbs 2:22",
+    "connected_from": "Proverbs 2:20"
+  },
+  {
+    "text": "But the wicked shall be destroyed from the earth: and they that do unjustly shall be taken away from it.",
+    "reference": "Proverbs 2:22 (DRB)",
+    "connected_from": "Proverbs 2:21"
+  }
+]

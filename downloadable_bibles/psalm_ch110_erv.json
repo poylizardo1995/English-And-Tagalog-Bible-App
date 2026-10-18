@@ -1,0 +1,42 @@
+[
+  {
+    "text": "A Psalm of David. The LORD saith unto my lord, Sit thou at my right hand, until I make thine enemies thy footstool.",
+    "reference": "Psalm 110:1 (ERV)",
+    "connected_to": "Psalm 110:2"
+  },
+  {
+    "text": "The LORD shall send forth the rod of thy strength out of Zion: rule thou in the midst of thine enemies.",
+    "reference": "Psalm 110:2 (ERV)",
+    "connected_to": "Psalm 110:3",
+    "connected_from": "Psalm 110:1"
+  },
+  {
+    "text": "Thy people offer themselves willingly in the day of thy power: in the beauties of holiness, from the womb of the morning, thou hast the dew of thy youth.",
+    "reference": "Psalm 110:3 (ERV)",
+    "connected_to": "Psalm 110:4",
+    "connected_from": "Psalm 110:2"
+  },
+  {
+    "text": "The LORD hath sworn, and will not repent, Thou art a priest for ever after the order of Melchizedek.",
+    "reference": "Psalm 110:4 (ERV)",
+    "connected_to": "Psalm 110:5",
+    "connected_from": "Psalm 110:3"
+  },
+  {
+    "text": "The Lord at thy right hand shall strike through kings in the day of his wrath.",
+    "reference": "Psalm 110:5 (ERV)",
+    "connected_to": "Psalm 110:6",
+    "connected_from": "Psalm 110:4"
+  },
+  {
+    "text": "He shall judge among the nations, he shall fill the places with dead bodies; he shall strike through the head in many countries.",
+    "reference": "Psalm 110:6 (ERV)",
+    "connected_to": "Psalm 110:7",
+    "connected_from": "Psalm 110:5"
+  },
+  {
+    "text": "He shall drink of the brook in the way: therefore shall he lift up the head.",
+    "reference": "Psalm 110:7 (ERV)",
+    "connected_from": "Psalm 110:6"
+  }
+]

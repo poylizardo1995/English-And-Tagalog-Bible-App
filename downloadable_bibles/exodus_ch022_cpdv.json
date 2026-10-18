@@ -1,0 +1,186 @@
+[
+  {
+    "text": "“If anyone will have stolen an ox or a sheep, and if he kills it or sells it, then he will restore five oxen for one ox, and four sheep for one sheep.",
+    "reference": "Exodus 22:1 (CPDV)",
+    "connected_to": "Exodus 22:2"
+  },
+  {
+    "text": "If a thief will have been discovered breaking into a house, or digging under it, and he has received a mortal wound, he who struck him down will not be guilty of blood.",
+    "reference": "Exodus 22:2 (CPDV)",
+    "connected_to": "Exodus 22:3",
+    "connected_from": "Exodus 22:1"
+  },
+  {
+    "text": "But if he did this when the sun was risen, he has perpetrated a homicide, and he shall die. If he does not have the means to make restitution for the theft, he shall be sold.",
+    "reference": "Exodus 22:3 (CPDV)",
+    "connected_to": "Exodus 22:4",
+    "connected_from": "Exodus 22:2"
+  },
+  {
+    "text": "If whatever he stole should be found with him, a living thing, either an ox, or a donkey, or a sheep, he shall repay double.",
+    "reference": "Exodus 22:4 (CPDV)",
+    "connected_to": "Exodus 22:5",
+    "connected_from": "Exodus 22:3"
+  },
+  {
+    "text": "If there is any damage to a field or a vineyard, when he has released his cattle to pasture on the land of a stranger, he shall repay the best of what he has in his own field, or in his own vineyard, according to the estimation of the damage.",
+    "reference": "Exodus 22:5 (CPDV)",
+    "connected_to": "Exodus 22:6",
+    "connected_from": "Exodus 22:4"
+  },
+  {
+    "text": "If a fire will have been discovered departing from brush, and taking hold in stacks of grain, or in crops standing in the fields, whoever ignited the fire shall repay the damages.",
+    "reference": "Exodus 22:6 (CPDV)",
+    "connected_to": "Exodus 22:7",
+    "connected_from": "Exodus 22:5"
+  },
+  {
+    "text": "If anyone will have entrusted money, or a container, to his friend to keep, and if these have been stolen from the one who received them: if the thief is found, he shall repay double.",
+    "reference": "Exodus 22:7 (CPDV)",
+    "connected_to": "Exodus 22:8",
+    "connected_from": "Exodus 22:6"
+  },
+  {
+    "text": "If the thief is unknown, the lord of the house will be brought before the heavens to swear that he did not lay his hand on the goods of his neighbor,",
+    "reference": "Exodus 22:8 (CPDV)",
+    "connected_to": "Exodus 22:9",
+    "connected_from": "Exodus 22:7"
+  },
+  {
+    "text": "so as to perpetrate any fraud, such as with an ox, or a donkey, or a sheep, or clothing, nor to do anything that would be able to cause damage. The case of both shall be brought before the heavens. And if they give judgment against him, he shall repay double to his neighbor.",
+    "reference": "Exodus 22:9 (CPDV)",
+    "connected_to": "Exodus 22:10",
+    "connected_from": "Exodus 22:8"
+  },
+  {
+    "text": "If anyone will have entrusted a donkey, an ox, a sheep, or any animal to the keeping of his neighbor, and it will have died, or become disabled, or have been captured by enemies, and no one saw it,",
+    "reference": "Exodus 22:10 (CPDV)",
+    "connected_to": "Exodus 22:11",
+    "connected_from": "Exodus 22:9"
+  },
+  {
+    "text": "then there shall be an oath between them, that he did not lay his hand on the goods of his neighbor. And the owner shall accept the oath, and he will not be compelled to make restitution.",
+    "reference": "Exodus 22:11 (CPDV)",
+    "connected_to": "Exodus 22:12",
+    "connected_from": "Exodus 22:10"
+  },
+  {
+    "text": "But if it will have been taken away by theft, he shall repay the damages to the owner.",
+    "reference": "Exodus 22:12 (CPDV)",
+    "connected_to": "Exodus 22:13",
+    "connected_from": "Exodus 22:11"
+  },
+  {
+    "text": "If it has been eaten by a wild beast, let him carry what was killed to him, and then he shall not make restitution.",
+    "reference": "Exodus 22:13 (CPDV)",
+    "connected_to": "Exodus 22:14",
+    "connected_from": "Exodus 22:12"
+  },
+  {
+    "text": "If anyone borrows from his neighbor any of these things, and it has died or been disabled when the owner was not present, he shall be compelled to make restitution.",
+    "reference": "Exodus 22:14 (CPDV)",
+    "connected_to": "Exodus 22:15",
+    "connected_from": "Exodus 22:13"
+  },
+  {
+    "text": "But if the owner was present, he shall not make restitution, especially if it had been brought for hired work.",
+    "reference": "Exodus 22:15 (CPDV)",
+    "connected_to": "Exodus 22:16",
+    "connected_from": "Exodus 22:14"
+  },
+  {
+    "text": "If a man has led astray a virgin not yet betrothed, and he has slept with her, he shall pay her dowry and have her as a wife.",
+    "reference": "Exodus 22:16 (CPDV)",
+    "connected_to": "Exodus 22:17",
+    "connected_from": "Exodus 22:15"
+  },
+  {
+    "text": "If the father of the virgin is not willing to give her, he shall pay money according to manner of a dowry, which virgins are accustomed to receive.",
+    "reference": "Exodus 22:17 (CPDV)",
+    "connected_to": "Exodus 22:18",
+    "connected_from": "Exodus 22:16"
+  },
+  {
+    "text": "You shall not permit practitioners of the black arts to live.",
+    "reference": "Exodus 22:18 (CPDV)",
+    "connected_to": "Exodus 22:19",
+    "connected_from": "Exodus 22:17"
+  },
+  {
+    "text": "Whoever has sexual intercourse with an animal shall be put to death.",
+    "reference": "Exodus 22:19 (CPDV)",
+    "connected_to": "Exodus 22:20",
+    "connected_from": "Exodus 22:18"
+  },
+  {
+    "text": "Whoever immolates to gods, other than to the Lord, shall be killed.",
+    "reference": "Exodus 22:20 (CPDV)",
+    "connected_to": "Exodus 22:21",
+    "connected_from": "Exodus 22:19"
+  },
+  {
+    "text": "You shall not harass the newcomer, nor shall you afflict him. For you yourselves were once newcomers in the land of Egypt.",
+    "reference": "Exodus 22:21 (CPDV)",
+    "connected_to": "Exodus 22:22",
+    "connected_from": "Exodus 22:20"
+  },
+  {
+    "text": "You shall not harm a widow or an orphan.",
+    "reference": "Exodus 22:22 (CPDV)",
+    "connected_to": "Exodus 22:23",
+    "connected_from": "Exodus 22:21"
+  },
+  {
+    "text": "If you hurt them, they will cry out to me, and I will hear their cry.",
+    "reference": "Exodus 22:23 (CPDV)",
+    "connected_to": "Exodus 22:24",
+    "connected_from": "Exodus 22:22"
+  },
+  {
+    "text": "And my fury will be enraged, and I will strike you down with the sword. And your wives will become widows, and your sons will become orphans.",
+    "reference": "Exodus 22:24 (CPDV)",
+    "connected_to": "Exodus 22:25",
+    "connected_from": "Exodus 22:23"
+  },
+  {
+    "text": "If you lend money to the poor of my people who live among you, you shall not coerce them like a collector, nor oppress them with usury.",
+    "reference": "Exodus 22:25 (CPDV)",
+    "connected_to": "Exodus 22:26",
+    "connected_from": "Exodus 22:24"
+  },
+  {
+    "text": "If you take a garment from your neighbor as a pledge, you shall return it to him again before the setting of the sun.",
+    "reference": "Exodus 22:26 (CPDV)",
+    "connected_to": "Exodus 22:27",
+    "connected_from": "Exodus 22:25"
+  },
+  {
+    "text": "For it is all that he has to cover himself, to clothe his body; nor does he have anything else in which to sleep. If he cries out to me, I will hear him, because I am compassionate.",
+    "reference": "Exodus 22:27 (CPDV)",
+    "connected_to": "Exodus 22:28",
+    "connected_from": "Exodus 22:26"
+  },
+  {
+    "text": "You shall not disparage the heavens, and you shall not speak evil of the leader of your people.",
+    "reference": "Exodus 22:28 (CPDV)",
+    "connected_to": "Exodus 22:29",
+    "connected_from": "Exodus 22:27"
+  },
+  {
+    "text": "You shall not delay in paying your tithes and your first-fruits. You shall give the firstborn of your sons to me.",
+    "reference": "Exodus 22:29 (CPDV)",
+    "connected_to": "Exodus 22:30",
+    "connected_from": "Exodus 22:28"
+  },
+  {
+    "text": "You shall do likewise with those of the oxen and the sheep. For seven days, let it be with its mother; on the eighth day you shall repay it to me.",
+    "reference": "Exodus 22:30 (CPDV)",
+    "connected_to": "Exodus 22:31",
+    "connected_from": "Exodus 22:29"
+  },
+  {
+    "text": "You shall be holy men for me. The flesh, from which beasts will have tasted, you shall not eat, but you will throw it to the dogs.”",
+    "reference": "Exodus 22:31 (CPDV)",
+    "connected_from": "Exodus 22:30"
+  }
+]

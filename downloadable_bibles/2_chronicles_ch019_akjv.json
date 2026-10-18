@@ -1,0 +1,66 @@
+[
+  {
+    "text": "And Jehoshaphat the king of Judah returned to his house in peace to Jerusalem.",
+    "reference": "2 Chronicles 19:1 (AKJV)",
+    "connected_to": "2 Chronicles 19:2"
+  },
+  {
+    "text": "And Jehu the son of Hanani the seer went out to meet him, and said to king Jehoshaphat, Should you help the ungodly, and love them that hate the LORD? therefore is wrath on you from before the LORD.",
+    "reference": "2 Chronicles 19:2 (AKJV)",
+    "connected_to": "2 Chronicles 19:3",
+    "connected_from": "2 Chronicles 19:1"
+  },
+  {
+    "text": "Nevertheless there are good things found in you, in that you have taken away the groves out of the land, and have prepared your heart to seek God.",
+    "reference": "2 Chronicles 19:3 (AKJV)",
+    "connected_to": "2 Chronicles 19:4",
+    "connected_from": "2 Chronicles 19:2"
+  },
+  {
+    "text": "And Jehoshaphat dwelled at Jerusalem: and he went out again through the people from Beersheba to mount Ephraim, and brought them back to the LORD God of their fathers.",
+    "reference": "2 Chronicles 19:4 (AKJV)",
+    "connected_to": "2 Chronicles 19:5",
+    "connected_from": "2 Chronicles 19:3"
+  },
+  {
+    "text": "And he set judges in the land throughout all the fenced cities of Judah, city by city,",
+    "reference": "2 Chronicles 19:5 (AKJV)",
+    "connected_to": "2 Chronicles 19:6",
+    "connected_from": "2 Chronicles 19:4"
+  },
+  {
+    "text": "And said to the judges, Take heed what you do: for you judge not for man, but for the LORD, who is with you in the judgment.",
+    "reference": "2 Chronicles 19:6 (AKJV)",
+    "connected_to": "2 Chronicles 19:7",
+    "connected_from": "2 Chronicles 19:5"
+  },
+  {
+    "text": "Why now let the fear of the LORD be on you; take heed and do it: for there is no iniquity with the LORD our God, nor respect of persons, nor taking of gifts.",
+    "reference": "2 Chronicles 19:7 (AKJV)",
+    "connected_to": "2 Chronicles 19:8",
+    "connected_from": "2 Chronicles 19:6"
+  },
+  {
+    "text": "Moreover in Jerusalem did Jehoshaphat set of the Levites, and of the priests, and of the chief of the fathers of Israel, for the judgment of the LORD, and for controversies, when they returned to Jerusalem.",
+    "reference": "2 Chronicles 19:8 (AKJV)",
+    "connected_to": "2 Chronicles 19:9",
+    "connected_from": "2 Chronicles 19:7"
+  },
+  {
+    "text": "And he charged them, saying, Thus shall you do in the fear of the LORD, faithfully, and with a perfect heart.",
+    "reference": "2 Chronicles 19:9 (AKJV)",
+    "connected_to": "2 Chronicles 19:10",
+    "connected_from": "2 Chronicles 19:8"
+  },
+  {
+    "text": "And what cause soever shall come to you of your brothers that dwell in your cities, between blood and blood, between law and commandment, statutes and judgments, you shall even warn them that they trespass not against the LORD, and so wrath come on you, and on your brothers: this do, and you shall not trespass.",
+    "reference": "2 Chronicles 19:10 (AKJV)",
+    "connected_to": "2 Chronicles 19:11",
+    "connected_from": "2 Chronicles 19:9"
+  },
+  {
+    "text": "And, behold, Amariah the chief priest is over you in all matters of the LORD; and Zebadiah the son of Ishmael, the ruler of the house of Judah, for all the king’s matters: also the Levites shall be officers before you. Deal courageously, and the LORD shall be with the good.",
+    "reference": "2 Chronicles 19:11 (AKJV)",
+    "connected_from": "2 Chronicles 19:10"
+  }
+]

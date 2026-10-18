@@ -1,0 +1,96 @@
+[
+  {
+    "text": "The word of Jehovah that came to Micah the Morashtite in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.",
+    "reference": "Micah 1:1 (ASV)",
+    "connected_to": "Micah 1:2"
+  },
+  {
+    "text": "Hear, ye peoples, all of you; hearken, O earth, and all that therein is: and let the Lord Jehovah be witness against you, the Lord from his holy temple.",
+    "reference": "Micah 1:2 (ASV)",
+    "connected_to": "Micah 1:3",
+    "connected_from": "Micah 1:1"
+  },
+  {
+    "text": "For, behold, Jehovah cometh forth out of his place, and will come down, and tread upon the high places of the earth.",
+    "reference": "Micah 1:3 (ASV)",
+    "connected_to": "Micah 1:4",
+    "connected_from": "Micah 1:2"
+  },
+  {
+    "text": "And the mountains shall be melted under him, and the valleys shall be cleft, as wax before the fire, as waters that are poured down a steep place.",
+    "reference": "Micah 1:4 (ASV)",
+    "connected_to": "Micah 1:5",
+    "connected_from": "Micah 1:3"
+  },
+  {
+    "text": "For the transgression of Jacob is all this, and for the sins of the house of Israel. What is the transgression of Jacob? is it not Samaria? and what are the high places of Judah? are they not Jerusalem?",
+    "reference": "Micah 1:5 (ASV)",
+    "connected_to": "Micah 1:6",
+    "connected_from": "Micah 1:4"
+  },
+  {
+    "text": "Therefore I will make Samaria as a heap of the field, and as places for planting vineyards; and I will pour down the stones thereof into the valley, and I will uncover the foundations thereof.",
+    "reference": "Micah 1:6 (ASV)",
+    "connected_to": "Micah 1:7",
+    "connected_from": "Micah 1:5"
+  },
+  {
+    "text": "And all her graven images shall be beaten to pieces, and all her hires shall be burned with fire, and all her idols will I lay desolate; for of the hire of a harlot hath she gathered them, and unto the hire of a harlot shall they return.",
+    "reference": "Micah 1:7 (ASV)",
+    "connected_to": "Micah 1:8",
+    "connected_from": "Micah 1:6"
+  },
+  {
+    "text": "For this will I lament and wail; I will go stripped and naked; I will make a wailing like the jackals, and a lamentation like the ostriches.",
+    "reference": "Micah 1:8 (ASV)",
+    "connected_to": "Micah 1:9",
+    "connected_from": "Micah 1:7"
+  },
+  {
+    "text": "For her wounds are incurable; for it is come even unto Judah; it reacheth unto the gate of my people, even to Jerusalem.",
+    "reference": "Micah 1:9 (ASV)",
+    "connected_to": "Micah 1:10",
+    "connected_from": "Micah 1:8"
+  },
+  {
+    "text": "Tell it not in Gath, weep not at all: at Beth-le-aphrah have I rolled myself in the dust.",
+    "reference": "Micah 1:10 (ASV)",
+    "connected_to": "Micah 1:11",
+    "connected_from": "Micah 1:9"
+  },
+  {
+    "text": "Pass away, O inhabitant of Shaphir, in nakedness and shame: the inhabitant of Zaanan is not come forth; the wailing of Beth-ezel shall take from you the stay thereof.",
+    "reference": "Micah 1:11 (ASV)",
+    "connected_to": "Micah 1:12",
+    "connected_from": "Micah 1:10"
+  },
+  {
+    "text": "For the inhabitant of Maroth waiteth anxiously for good, because evil is come down from Jehovah unto the gate of Jerusalem.",
+    "reference": "Micah 1:12 (ASV)",
+    "connected_to": "Micah 1:13",
+    "connected_from": "Micah 1:11"
+  },
+  {
+    "text": "Bind the chariot to the swift steed, O inhabitant of Lachish: she was the beginning of sin to the daughter of Zion; for the transgressions of Israel were found in thee.",
+    "reference": "Micah 1:13 (ASV)",
+    "connected_to": "Micah 1:14",
+    "connected_from": "Micah 1:12"
+  },
+  {
+    "text": "Therefore shalt thou give a parting gift to Moresheth-gath: the houses of Achzib shall be a deceitful thing unto the kings of Israel.",
+    "reference": "Micah 1:14 (ASV)",
+    "connected_to": "Micah 1:15",
+    "connected_from": "Micah 1:13"
+  },
+  {
+    "text": "I will yet bring unto thee, O inhabitant of Mareshah, him that shall possess thee: the glory of Israel shall come even unto Adullam.",
+    "reference": "Micah 1:15 (ASV)",
+    "connected_to": "Micah 1:16",
+    "connected_from": "Micah 1:14"
+  },
+  {
+    "text": "Make thee bald, and cut off thy hair for the children of thy delight: enlarge thy baldness as the eagle; for they are gone into captivity from thee.",
+    "reference": "Micah 1:16 (ASV)",
+    "connected_from": "Micah 1:15"
+  }
+]

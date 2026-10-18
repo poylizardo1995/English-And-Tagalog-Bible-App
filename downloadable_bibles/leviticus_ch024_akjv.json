@@ -1,0 +1,138 @@
+[
+  {
+    "text": "And the LORD spoke to Moses, saying,",
+    "reference": "Leviticus 24:1 (AKJV)",
+    "connected_to": "Leviticus 24:2"
+  },
+  {
+    "text": "Command the children of Israel, that they bring to you pure oil olive beaten for the light, to cause the lamps to burn continually.",
+    "reference": "Leviticus 24:2 (AKJV)",
+    "connected_to": "Leviticus 24:3",
+    "connected_from": "Leviticus 24:1"
+  },
+  {
+    "text": "Without the veil of the testimony, in the tabernacle of the congregation, shall Aaron order it from the evening to the morning before the LORD continually: it shall be a statute for ever in your generations.",
+    "reference": "Leviticus 24:3 (AKJV)",
+    "connected_to": "Leviticus 24:4",
+    "connected_from": "Leviticus 24:2"
+  },
+  {
+    "text": "He shall order the lamps on the pure candlestick before the LORD continually.",
+    "reference": "Leviticus 24:4 (AKJV)",
+    "connected_to": "Leviticus 24:5",
+    "connected_from": "Leviticus 24:3"
+  },
+  {
+    "text": "And you shall take fine flour, and bake twelve cakes thereof: two tenth deals shall be in one cake.",
+    "reference": "Leviticus 24:5 (AKJV)",
+    "connected_to": "Leviticus 24:6",
+    "connected_from": "Leviticus 24:4"
+  },
+  {
+    "text": "And you shall set them in two rows, six on a row, on the pure table before the LORD.",
+    "reference": "Leviticus 24:6 (AKJV)",
+    "connected_to": "Leviticus 24:7",
+    "connected_from": "Leviticus 24:5"
+  },
+  {
+    "text": "And you shall put pure frankincense on each row, that it may be on the bread for a memorial, even an offering made by fire to the LORD.",
+    "reference": "Leviticus 24:7 (AKJV)",
+    "connected_to": "Leviticus 24:8",
+    "connected_from": "Leviticus 24:6"
+  },
+  {
+    "text": "Every sabbath he shall set it in order before the LORD continually, being taken from the children of Israel by an everlasting covenant.",
+    "reference": "Leviticus 24:8 (AKJV)",
+    "connected_to": "Leviticus 24:9",
+    "connected_from": "Leviticus 24:7"
+  },
+  {
+    "text": "And it shall be Aaron’s and his sons’; and they shall eat it in the holy place: for it is most holy to him of the offerings of the LORD made by fire by a perpetual statute.",
+    "reference": "Leviticus 24:9 (AKJV)",
+    "connected_to": "Leviticus 24:10",
+    "connected_from": "Leviticus 24:8"
+  },
+  {
+    "text": "And the son of an Israelitish woman, whose father was an Egyptian, went out among the children of Israel: and this son of the Israelitish woman and a man of Israel strove together in the camp;",
+    "reference": "Leviticus 24:10 (AKJV)",
+    "connected_to": "Leviticus 24:11",
+    "connected_from": "Leviticus 24:9"
+  },
+  {
+    "text": "And the Israelitish woman’s son blasphemed the name of the Lord, and cursed. And they brought him to Moses: (and his mother’s name was Shelomith, the daughter of Dibri, of the tribe of Dan:)",
+    "reference": "Leviticus 24:11 (AKJV)",
+    "connected_to": "Leviticus 24:12",
+    "connected_from": "Leviticus 24:10"
+  },
+  {
+    "text": "And they put him in ward, that the mind of the LORD might be showed them.",
+    "reference": "Leviticus 24:12 (AKJV)",
+    "connected_to": "Leviticus 24:13",
+    "connected_from": "Leviticus 24:11"
+  },
+  {
+    "text": "And the LORD spoke to Moses, saying,",
+    "reference": "Leviticus 24:13 (AKJV)",
+    "connected_to": "Leviticus 24:14",
+    "connected_from": "Leviticus 24:12"
+  },
+  {
+    "text": "Bring forth him that has cursed without the camp; and let all that heard him lay their hands on his head, and let all the congregation stone him.",
+    "reference": "Leviticus 24:14 (AKJV)",
+    "connected_to": "Leviticus 24:15",
+    "connected_from": "Leviticus 24:13"
+  },
+  {
+    "text": "And you shall speak to the children of Israel, saying, Whoever curses his God shall bear his sin.",
+    "reference": "Leviticus 24:15 (AKJV)",
+    "connected_to": "Leviticus 24:16",
+    "connected_from": "Leviticus 24:14"
+  },
+  {
+    "text": "And he that blasphemes the name of the LORD, he shall surely be put to death, and all the congregation shall certainly stone him: as well the stranger, as he that is born in the land, when he blasphemes the name of the Lord, shall be put to death.",
+    "reference": "Leviticus 24:16 (AKJV)",
+    "connected_to": "Leviticus 24:17",
+    "connected_from": "Leviticus 24:15"
+  },
+  {
+    "text": "And he that kills any man shall surely be put to death.",
+    "reference": "Leviticus 24:17 (AKJV)",
+    "connected_to": "Leviticus 24:18",
+    "connected_from": "Leviticus 24:16"
+  },
+  {
+    "text": "And he that kills a beast shall make it good; beast for beast.",
+    "reference": "Leviticus 24:18 (AKJV)",
+    "connected_to": "Leviticus 24:19",
+    "connected_from": "Leviticus 24:17"
+  },
+  {
+    "text": "And if a man cause a blemish in his neighbor; as he has done, so shall it be done to him;",
+    "reference": "Leviticus 24:19 (AKJV)",
+    "connected_to": "Leviticus 24:20",
+    "connected_from": "Leviticus 24:18"
+  },
+  {
+    "text": "Breach for breach, eye for eye, tooth for tooth: as he has caused a blemish in a man, so shall it be done to him again.",
+    "reference": "Leviticus 24:20 (AKJV)",
+    "connected_to": "Leviticus 24:21",
+    "connected_from": "Leviticus 24:19"
+  },
+  {
+    "text": "And he that kills a beast, he shall restore it: and he that kills a man, he shall be put to death.",
+    "reference": "Leviticus 24:21 (AKJV)",
+    "connected_to": "Leviticus 24:22",
+    "connected_from": "Leviticus 24:20"
+  },
+  {
+    "text": "You shall have one manner of law, as well for the stranger, as for one of your own country: for I am the LORD your God.",
+    "reference": "Leviticus 24:22 (AKJV)",
+    "connected_to": "Leviticus 24:23",
+    "connected_from": "Leviticus 24:21"
+  },
+  {
+    "text": "And Moses spoke to the children of Israel, that they should bring forth him that had cursed out of the camp, and stone him with stones. And the children of Israel did as the LORD commanded Moses.",
+    "reference": "Leviticus 24:23 (AKJV)",
+    "connected_from": "Leviticus 24:22"
+  }
+]

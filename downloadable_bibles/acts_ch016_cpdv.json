@@ -1,0 +1,240 @@
+[
+  {
+    "text": "Then he arrived at Derbe and Lystra. And behold, a certain disciple named Timothy was there, the son of a faithful Jewish woman, his father a Gentile.",
+    "reference": "Acts 16:1 (CPDV)",
+    "connected_to": "Acts 16:2"
+  },
+  {
+    "text": "The brothers who were at Lystra and Iconium rendered good testimony to him.",
+    "reference": "Acts 16:2 (CPDV)",
+    "connected_to": "Acts 16:3",
+    "connected_from": "Acts 16:1"
+  },
+  {
+    "text": "Paul wanted this man to travel with him, and taking him, he circumcised him, because of the Jews who were in those places. For they all knew that his father was a Gentile.",
+    "reference": "Acts 16:3 (CPDV)",
+    "connected_to": "Acts 16:4",
+    "connected_from": "Acts 16:2"
+  },
+  {
+    "text": "And as they were traveling through the cities, they delivered to them the dogmas to be kept, which were decreed by the Apostles and elders who were at Jerusalem.",
+    "reference": "Acts 16:4 (CPDV)",
+    "connected_to": "Acts 16:5",
+    "connected_from": "Acts 16:3"
+  },
+  {
+    "text": "And certainly, the Churches were being strengthened in faith and were increasing in number every day.",
+    "reference": "Acts 16:5 (CPDV)",
+    "connected_to": "Acts 16:6",
+    "connected_from": "Acts 16:4"
+  },
+  {
+    "text": "Then, while crossing through Phrygia and the region of Galatia, they were prevented by the Holy Spirit from speaking the Word in Asia.",
+    "reference": "Acts 16:6 (CPDV)",
+    "connected_to": "Acts 16:7",
+    "connected_from": "Acts 16:5"
+  },
+  {
+    "text": "But when they had arrived in Mysia, they attempted to go into Bithynia, but the Spirit of Jesus would not permit them.",
+    "reference": "Acts 16:7 (CPDV)",
+    "connected_to": "Acts 16:8",
+    "connected_from": "Acts 16:6"
+  },
+  {
+    "text": "Then, when they had crossed through Mysia, they descended to Troas.",
+    "reference": "Acts 16:8 (CPDV)",
+    "connected_to": "Acts 16:9",
+    "connected_from": "Acts 16:7"
+  },
+  {
+    "text": "And a vision in the night was revealed to Paul of a certain man of Macedonia, standing and pleading with him, and saying: “Cross into Macedonia and help us!”",
+    "reference": "Acts 16:9 (CPDV)",
+    "connected_to": "Acts 16:10",
+    "connected_from": "Acts 16:8"
+  },
+  {
+    "text": "Then, after he saw the vision, immediately we sought to set out for Macedonia, having been assured that God had called us to evangelize to them.",
+    "reference": "Acts 16:10 (CPDV)",
+    "connected_to": "Acts 16:11",
+    "connected_from": "Acts 16:9"
+  },
+  {
+    "text": "And sailing from Troas, taking a direct path, we arrived at Samothrace, and on the following day, at Neapolis,",
+    "reference": "Acts 16:11 (CPDV)",
+    "connected_to": "Acts 16:12",
+    "connected_from": "Acts 16:10"
+  },
+  {
+    "text": "and from there to Philippi, which is the preeminent city in the area of Macedonia, a colony. Now we were in this city some days, conferring together.",
+    "reference": "Acts 16:12 (CPDV)",
+    "connected_to": "Acts 16:13",
+    "connected_from": "Acts 16:11"
+  },
+  {
+    "text": "Then, on the Sabbath day, we were walking outside the gate, beside a river, where there seemed to be a prayer gathering. And sitting down, we were speaking with the women who had assembled.",
+    "reference": "Acts 16:13 (CPDV)",
+    "connected_to": "Acts 16:14",
+    "connected_from": "Acts 16:12"
+  },
+  {
+    "text": "And a certain woman, named Lydia, a seller of purple in the city of Thyatira, a worshiper of God, listened. And the Lord opened her heart to be receptive to what Paul was saying.",
+    "reference": "Acts 16:14 (CPDV)",
+    "connected_to": "Acts 16:15",
+    "connected_from": "Acts 16:13"
+  },
+  {
+    "text": "And when she had been baptized, with her household, she pleaded with us, saying: “If you have judged me to be faithful to the Lord, enter into my house and lodge there.” And she convinced us.",
+    "reference": "Acts 16:15 (CPDV)",
+    "connected_to": "Acts 16:16",
+    "connected_from": "Acts 16:14"
+  },
+  {
+    "text": "Then it happened that, as we were going out to prayer, a certain girl, having a spirit of divination, met with us. She was a source of great profit to her masters, through her divining.",
+    "reference": "Acts 16:16 (CPDV)",
+    "connected_to": "Acts 16:17",
+    "connected_from": "Acts 16:15"
+  },
+  {
+    "text": "This girl, following Paul and us, was crying out, saying: “These men are servants of the Most High God! They are announcing to you the way of salvation!”",
+    "reference": "Acts 16:17 (CPDV)",
+    "connected_to": "Acts 16:18",
+    "connected_from": "Acts 16:16"
+  },
+  {
+    "text": "Now she behaved in this way for many days. But Paul, being grieved, turned and said to the spirit, “I command you, in the name of Jesus Christ, to go out from her.” And it went away in that same hour.",
+    "reference": "Acts 16:18 (CPDV)",
+    "connected_to": "Acts 16:19",
+    "connected_from": "Acts 16:17"
+  },
+  {
+    "text": "But her masters, seeing that the hope of their profit went away, apprehended Paul and Silas, and they brought them to the rulers at the courthouse.",
+    "reference": "Acts 16:19 (CPDV)",
+    "connected_to": "Acts 16:20",
+    "connected_from": "Acts 16:18"
+  },
+  {
+    "text": "And presenting them to the magistrates, they said: “These men are disturbing our city, since they are Jews.",
+    "reference": "Acts 16:20 (CPDV)",
+    "connected_to": "Acts 16:21",
+    "connected_from": "Acts 16:19"
+  },
+  {
+    "text": "And they are announcing a way which is not lawful for us to accept or to observe, since we are Romans.”",
+    "reference": "Acts 16:21 (CPDV)",
+    "connected_to": "Acts 16:22",
+    "connected_from": "Acts 16:20"
+  },
+  {
+    "text": "And the people rushed together against them. And the magistrates, tearing their tunics, ordered them to be beaten with staffs.",
+    "reference": "Acts 16:22 (CPDV)",
+    "connected_to": "Acts 16:23",
+    "connected_from": "Acts 16:21"
+  },
+  {
+    "text": "And when they had inflicted many scourges on them, they cast them into prison, instructing the guard to watch them diligently.",
+    "reference": "Acts 16:23 (CPDV)",
+    "connected_to": "Acts 16:24",
+    "connected_from": "Acts 16:22"
+  },
+  {
+    "text": "And since he had received this kind of order, he cast them into the interior prison cell, and he restricted their feet with stocks.",
+    "reference": "Acts 16:24 (CPDV)",
+    "connected_to": "Acts 16:25",
+    "connected_from": "Acts 16:23"
+  },
+  {
+    "text": "Then, in the middle of the night, Paul and Silas were praying and praising God. And those who were also in custody were listening to them.",
+    "reference": "Acts 16:25 (CPDV)",
+    "connected_to": "Acts 16:26",
+    "connected_from": "Acts 16:24"
+  },
+  {
+    "text": "Yet truly, there was a sudden earthquake, so great that the foundations of the prison were moved. And immediately all the doors were opened, and the bindings of everyone were released.",
+    "reference": "Acts 16:26 (CPDV)",
+    "connected_to": "Acts 16:27",
+    "connected_from": "Acts 16:25"
+  },
+  {
+    "text": "Then the prison guard, having been jarred awake, and seeing the doors of the prison open, drew his sword and intended to kill himself, supposing that the prisoners had fled.",
+    "reference": "Acts 16:27 (CPDV)",
+    "connected_to": "Acts 16:28",
+    "connected_from": "Acts 16:26"
+  },
+  {
+    "text": "But Paul cried out with a loud voice, saying: “Do no harm to yourself, for we are all here!”",
+    "reference": "Acts 16:28 (CPDV)",
+    "connected_to": "Acts 16:29",
+    "connected_from": "Acts 16:27"
+  },
+  {
+    "text": "Then calling for a light, he entered. And trembling, he fell before the feet of Paul and Silas.",
+    "reference": "Acts 16:29 (CPDV)",
+    "connected_to": "Acts 16:30",
+    "connected_from": "Acts 16:28"
+  },
+  {
+    "text": "And bringing them outside, he said, “Sirs, what must I do, so that I may be saved?”",
+    "reference": "Acts 16:30 (CPDV)",
+    "connected_to": "Acts 16:31",
+    "connected_from": "Acts 16:29"
+  },
+  {
+    "text": "So they said, “Believe in the Lord Jesus, and then you will be saved, with your household.”",
+    "reference": "Acts 16:31 (CPDV)",
+    "connected_to": "Acts 16:32",
+    "connected_from": "Acts 16:30"
+  },
+  {
+    "text": "And they spoke the Word of the Lord to him, along with all those who were in his house.",
+    "reference": "Acts 16:32 (CPDV)",
+    "connected_to": "Acts 16:33",
+    "connected_from": "Acts 16:31"
+  },
+  {
+    "text": "And he, taking them in the same hour of the night, washed their scourges. And he was baptized, and next his entire household.",
+    "reference": "Acts 16:33 (CPDV)",
+    "connected_to": "Acts 16:34",
+    "connected_from": "Acts 16:32"
+  },
+  {
+    "text": "And when he had brought them into his own house, he set a table for them. And he was joyous, with his entire household, believing in God.",
+    "reference": "Acts 16:34 (CPDV)",
+    "connected_to": "Acts 16:35",
+    "connected_from": "Acts 16:33"
+  },
+  {
+    "text": "And when daylight had arrived, the magistrates sent the attendants, saying, “Release those men.”",
+    "reference": "Acts 16:35 (CPDV)",
+    "connected_to": "Acts 16:36",
+    "connected_from": "Acts 16:34"
+  },
+  {
+    "text": "But the prison guard reported these words to Paul: “The magistrates have sent to have you released. Now therefore, depart. Go in peace.”",
+    "reference": "Acts 16:36 (CPDV)",
+    "connected_to": "Acts 16:37",
+    "connected_from": "Acts 16:35"
+  },
+  {
+    "text": "But Paul said to them: “They have beaten us publicly, though we were not condemned. They have cast men who are Romans into prison. And now they would drive us away secretly? Not so. Instead, let them come forward,",
+    "reference": "Acts 16:37 (CPDV)",
+    "connected_to": "Acts 16:38",
+    "connected_from": "Acts 16:36"
+  },
+  {
+    "text": "and let us drive them away.” Then the attendants reported these words to the magistrates. And upon hearing that they were Romans, they were afraid.",
+    "reference": "Acts 16:38 (CPDV)",
+    "connected_to": "Acts 16:39",
+    "connected_from": "Acts 16:37"
+  },
+  {
+    "text": "And arriving, they pleaded with them, and leading them out, they begged them to depart from the city.",
+    "reference": "Acts 16:39 (CPDV)",
+    "connected_to": "Acts 16:40",
+    "connected_from": "Acts 16:38"
+  },
+  {
+    "text": "And they went away from the prison and entered into the house of Lydia. And having seen the brothers, they consoled them, and then they set out.",
+    "reference": "Acts 16:40 (CPDV)",
+    "connected_from": "Acts 16:39"
+  }
+]

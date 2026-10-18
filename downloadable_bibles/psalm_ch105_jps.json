@@ -1,0 +1,270 @@
+[
+  {
+    "text": "O give thanks unto the LORD, call upon His name; Make known His doings among the peoples.",
+    "reference": "Psalm 105:1 (JPS)",
+    "connected_to": "Psalm 105:2"
+  },
+  {
+    "text": "Sing unto Him, sing praises unto Him; Speak ye of all His marvellous works.",
+    "reference": "Psalm 105:2 (JPS)",
+    "connected_to": "Psalm 105:3",
+    "connected_from": "Psalm 105:1"
+  },
+  {
+    "text": "Glory ye in His holy name; Let the heart of them rejoice that seek the LORD.",
+    "reference": "Psalm 105:3 (JPS)",
+    "connected_to": "Psalm 105:4",
+    "connected_from": "Psalm 105:2"
+  },
+  {
+    "text": "Seek ye the LORD and His strength; Seek His face continually.",
+    "reference": "Psalm 105:4 (JPS)",
+    "connected_to": "Psalm 105:5",
+    "connected_from": "Psalm 105:3"
+  },
+  {
+    "text": "Remember His marvellous works that He hath done, His wonders, and the judgments of His mouth;",
+    "reference": "Psalm 105:5 (JPS)",
+    "connected_to": "Psalm 105:6",
+    "connected_from": "Psalm 105:4"
+  },
+  {
+    "text": "O ye seed of Abraham His servant, Ye children of Jacob, His chosen ones.",
+    "reference": "Psalm 105:6 (JPS)",
+    "connected_to": "Psalm 105:7",
+    "connected_from": "Psalm 105:5"
+  },
+  {
+    "text": "He is the LORD our God; His judgments are in all the earth.",
+    "reference": "Psalm 105:7 (JPS)",
+    "connected_to": "Psalm 105:8",
+    "connected_from": "Psalm 105:6"
+  },
+  {
+    "text": "He hath remembered His covenant for ever, The word which He commanded to a thousand generations;",
+    "reference": "Psalm 105:8 (JPS)",
+    "connected_to": "Psalm 105:9",
+    "connected_from": "Psalm 105:7"
+  },
+  {
+    "text": "[The covenant] which He made with Abraham, And His oath unto Isaac;",
+    "reference": "Psalm 105:9 (JPS)",
+    "connected_to": "Psalm 105:10",
+    "connected_from": "Psalm 105:8"
+  },
+  {
+    "text": "And He established it unto Jacob for a statute, To Israel for an everlasting covenant;",
+    "reference": "Psalm 105:10 (JPS)",
+    "connected_to": "Psalm 105:11",
+    "connected_from": "Psalm 105:9"
+  },
+  {
+    "text": "Saying: ‘Unto thee will I give the land of Canaan, The lot of your inheritance.’",
+    "reference": "Psalm 105:11 (JPS)",
+    "connected_to": "Psalm 105:12",
+    "connected_from": "Psalm 105:10"
+  },
+  {
+    "text": "When they were but a few men in number. Yea, very few, and sojourners in it,",
+    "reference": "Psalm 105:12 (JPS)",
+    "connected_to": "Psalm 105:13",
+    "connected_from": "Psalm 105:11"
+  },
+  {
+    "text": "And when they went about from nation to nation, From one kingdom to another people,",
+    "reference": "Psalm 105:13 (JPS)",
+    "connected_to": "Psalm 105:14",
+    "connected_from": "Psalm 105:12"
+  },
+  {
+    "text": "He suffered no man to do them wrong, Yea, for their sake He reproved kings:",
+    "reference": "Psalm 105:14 (JPS)",
+    "connected_to": "Psalm 105:15",
+    "connected_from": "Psalm 105:13"
+  },
+  {
+    "text": "Touch not Mine anointed ones, And do My prophets no harm.’",
+    "reference": "Psalm 105:15 (JPS)",
+    "connected_to": "Psalm 105:16",
+    "connected_from": "Psalm 105:14"
+  },
+  {
+    "text": "And He called a famine upon the land; He broke the whole staff of bread.",
+    "reference": "Psalm 105:16 (JPS)",
+    "connected_to": "Psalm 105:17",
+    "connected_from": "Psalm 105:15"
+  },
+  {
+    "text": "He sent a man before them; Joseph was sold for a servant;",
+    "reference": "Psalm 105:17 (JPS)",
+    "connected_to": "Psalm 105:18",
+    "connected_from": "Psalm 105:16"
+  },
+  {
+    "text": "His feet they hurt with fetters, His person was laid in iron;",
+    "reference": "Psalm 105:18 (JPS)",
+    "connected_to": "Psalm 105:19",
+    "connected_from": "Psalm 105:17"
+  },
+  {
+    "text": "Until the time that his word came to pass, The word of the LORD tested him.",
+    "reference": "Psalm 105:19 (JPS)",
+    "connected_to": "Psalm 105:20",
+    "connected_from": "Psalm 105:18"
+  },
+  {
+    "text": "The king sent and loosed him; Even the ruler of the peoples, and set him free.",
+    "reference": "Psalm 105:20 (JPS)",
+    "connected_to": "Psalm 105:21",
+    "connected_from": "Psalm 105:19"
+  },
+  {
+    "text": "He made him lord of his house, And ruler of all his possessions;",
+    "reference": "Psalm 105:21 (JPS)",
+    "connected_to": "Psalm 105:22",
+    "connected_from": "Psalm 105:20"
+  },
+  {
+    "text": "To bind his princes at his pleasure, And teach his elders wisdom.",
+    "reference": "Psalm 105:22 (JPS)",
+    "connected_to": "Psalm 105:23",
+    "connected_from": "Psalm 105:21"
+  },
+  {
+    "text": "Israel also came into Egypt; And Jacob sojourned in the land of Ham.",
+    "reference": "Psalm 105:23 (JPS)",
+    "connected_to": "Psalm 105:24",
+    "connected_from": "Psalm 105:22"
+  },
+  {
+    "text": "And He increased His people greatly, And made them too mighty for their adversaries.",
+    "reference": "Psalm 105:24 (JPS)",
+    "connected_to": "Psalm 105:25",
+    "connected_from": "Psalm 105:23"
+  },
+  {
+    "text": "He turned their heart to hate His people, To deal craftily with His servants.",
+    "reference": "Psalm 105:25 (JPS)",
+    "connected_to": "Psalm 105:26",
+    "connected_from": "Psalm 105:24"
+  },
+  {
+    "text": "He sent Moses His servant, And Aaron whom He had chosen.",
+    "reference": "Psalm 105:26 (JPS)",
+    "connected_to": "Psalm 105:27",
+    "connected_from": "Psalm 105:25"
+  },
+  {
+    "text": "They wrought among them His manifold signs, And wonders in the land of Ham.",
+    "reference": "Psalm 105:27 (JPS)",
+    "connected_to": "Psalm 105:28",
+    "connected_from": "Psalm 105:26"
+  },
+  {
+    "text": "He sent darkness, and it was dark; And they rebelled not against His word.",
+    "reference": "Psalm 105:28 (JPS)",
+    "connected_to": "Psalm 105:29",
+    "connected_from": "Psalm 105:27"
+  },
+  {
+    "text": "He turned their waters into blood, And slew their fish.",
+    "reference": "Psalm 105:29 (JPS)",
+    "connected_to": "Psalm 105:30",
+    "connected_from": "Psalm 105:28"
+  },
+  {
+    "text": "Their land swarmed with frogs, In the chambers of their kings.",
+    "reference": "Psalm 105:30 (JPS)",
+    "connected_to": "Psalm 105:31",
+    "connected_from": "Psalm 105:29"
+  },
+  {
+    "text": "He spoke, and there came swarms of flies, And gnats in all their borders.",
+    "reference": "Psalm 105:31 (JPS)",
+    "connected_to": "Psalm 105:32",
+    "connected_from": "Psalm 105:30"
+  },
+  {
+    "text": "He gave them hail for rain, And flaming fire in their land.",
+    "reference": "Psalm 105:32 (JPS)",
+    "connected_to": "Psalm 105:33",
+    "connected_from": "Psalm 105:31"
+  },
+  {
+    "text": "He smote their vines also and their fig-trees; And broke the trees of their borders.",
+    "reference": "Psalm 105:33 (JPS)",
+    "connected_to": "Psalm 105:34",
+    "connected_from": "Psalm 105:32"
+  },
+  {
+    "text": "He spoke, and the locust came, And the canker-worm without number,",
+    "reference": "Psalm 105:34 (JPS)",
+    "connected_to": "Psalm 105:35",
+    "connected_from": "Psalm 105:33"
+  },
+  {
+    "text": "And did eat up every herb in their land, And did eat up the fruit of their ground.",
+    "reference": "Psalm 105:35 (JPS)",
+    "connected_to": "Psalm 105:36",
+    "connected_from": "Psalm 105:34"
+  },
+  {
+    "text": "He smote also all the first-born in their land, The first-fruits of all their strength.",
+    "reference": "Psalm 105:36 (JPS)",
+    "connected_to": "Psalm 105:37",
+    "connected_from": "Psalm 105:35"
+  },
+  {
+    "text": "And He brought them forth with silver and gold; And there was none that stumbled among His tribes.",
+    "reference": "Psalm 105:37 (JPS)",
+    "connected_to": "Psalm 105:38",
+    "connected_from": "Psalm 105:36"
+  },
+  {
+    "text": "Egypt was glad when they departed; For the fear of them had fallen upon them.",
+    "reference": "Psalm 105:38 (JPS)",
+    "connected_to": "Psalm 105:39",
+    "connected_from": "Psalm 105:37"
+  },
+  {
+    "text": "He spread a cloud for a screen; And fire to give light in the night.",
+    "reference": "Psalm 105:39 (JPS)",
+    "connected_to": "Psalm 105:40",
+    "connected_from": "Psalm 105:38"
+  },
+  {
+    "text": "They asked, and He brought quails, And gave them in plenty the bread of heaven.",
+    "reference": "Psalm 105:40 (JPS)",
+    "connected_to": "Psalm 105:41",
+    "connected_from": "Psalm 105:39"
+  },
+  {
+    "text": "He opened the rock, and waters gushed out; They ran, a river in the dry places.",
+    "reference": "Psalm 105:41 (JPS)",
+    "connected_to": "Psalm 105:42",
+    "connected_from": "Psalm 105:40"
+  },
+  {
+    "text": "For He remembered His holy word Unto Abraham His servant;",
+    "reference": "Psalm 105:42 (JPS)",
+    "connected_to": "Psalm 105:43",
+    "connected_from": "Psalm 105:41"
+  },
+  {
+    "text": "And He brought forth His people with joy, His chosen ones with singing.",
+    "reference": "Psalm 105:43 (JPS)",
+    "connected_to": "Psalm 105:44",
+    "connected_from": "Psalm 105:42"
+  },
+  {
+    "text": "And He gave them the lands of the nations, And they took the labour of the peoples in possession;",
+    "reference": "Psalm 105:44 (JPS)",
+    "connected_to": "Psalm 105:45",
+    "connected_from": "Psalm 105:43"
+  },
+  {
+    "text": "That they might keep His statutes, And observe His laws. Hallelujah.",
+    "reference": "Psalm 105:45 (JPS)",
+    "connected_from": "Psalm 105:44"
+  }
+]

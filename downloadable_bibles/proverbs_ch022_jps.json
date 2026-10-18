@@ -1,0 +1,174 @@
+[
+  {
+    "text": "A good name is rather to be chosen than great riches, And loving favour rather than silver and gold.",
+    "reference": "Proverbs 22:1 (JPS)",
+    "connected_to": "Proverbs 22:2"
+  },
+  {
+    "text": "The rich and the poor meet together—The LORD is the maker of them all.",
+    "reference": "Proverbs 22:2 (JPS)",
+    "connected_to": "Proverbs 22:3",
+    "connected_from": "Proverbs 22:1"
+  },
+  {
+    "text": "A prudent man seeth the evil, and hideth himself; But the thoughtless pass on, and are punished.",
+    "reference": "Proverbs 22:3 (JPS)",
+    "connected_to": "Proverbs 22:4",
+    "connected_from": "Proverbs 22:2"
+  },
+  {
+    "text": "The reward of humility is the fear of the LORD, Even riches, and honour, and life.",
+    "reference": "Proverbs 22:4 (JPS)",
+    "connected_to": "Proverbs 22:5",
+    "connected_from": "Proverbs 22:3"
+  },
+  {
+    "text": "Thorns and snares are in the way of the froward; He that keepeth his soul holdeth himself far from them.",
+    "reference": "Proverbs 22:5 (JPS)",
+    "connected_to": "Proverbs 22:6",
+    "connected_from": "Proverbs 22:4"
+  },
+  {
+    "text": "Train up a child in the way he should go, And even when he is old, he will not depart from it.",
+    "reference": "Proverbs 22:6 (JPS)",
+    "connected_to": "Proverbs 22:7",
+    "connected_from": "Proverbs 22:5"
+  },
+  {
+    "text": "The rich ruleth over the poor, And the borrower is servant to the lender.",
+    "reference": "Proverbs 22:7 (JPS)",
+    "connected_to": "Proverbs 22:8",
+    "connected_from": "Proverbs 22:6"
+  },
+  {
+    "text": "He that soweth iniquity shall reap vanity; And the rod of his wrath shall fail.",
+    "reference": "Proverbs 22:8 (JPS)",
+    "connected_to": "Proverbs 22:9",
+    "connected_from": "Proverbs 22:7"
+  },
+  {
+    "text": "He that hath a bountiful eye shall be blessed; For he giveth of his bread to the poor.",
+    "reference": "Proverbs 22:9 (JPS)",
+    "connected_to": "Proverbs 22:10",
+    "connected_from": "Proverbs 22:8"
+  },
+  {
+    "text": "Cast out the scorner, and contention will go out; Yea, strife and shame will cease.",
+    "reference": "Proverbs 22:10 (JPS)",
+    "connected_to": "Proverbs 22:11",
+    "connected_from": "Proverbs 22:9"
+  },
+  {
+    "text": "He that loveth pureness of heart, That hath grace in his lips, the king shall be his friend.",
+    "reference": "Proverbs 22:11 (JPS)",
+    "connected_to": "Proverbs 22:12",
+    "connected_from": "Proverbs 22:10"
+  },
+  {
+    "text": "The eyes of the LORD preserve him that hath knowledge, But He overthroweth the words of the faithless man.",
+    "reference": "Proverbs 22:12 (JPS)",
+    "connected_to": "Proverbs 22:13",
+    "connected_from": "Proverbs 22:11"
+  },
+  {
+    "text": "The sluggard saith: ‘There is a lion without; I shall be slain in the streets.’",
+    "reference": "Proverbs 22:13 (JPS)",
+    "connected_to": "Proverbs 22:14",
+    "connected_from": "Proverbs 22:12"
+  },
+  {
+    "text": "The mouth of strange women is a deep pit: He that is abhorred of the LORD shall fall therein.",
+    "reference": "Proverbs 22:14 (JPS)",
+    "connected_to": "Proverbs 22:15",
+    "connected_from": "Proverbs 22:13"
+  },
+  {
+    "text": "Foolishness is bound up in the heart of a child; But the rod of correction shall drive it far from him.",
+    "reference": "Proverbs 22:15 (JPS)",
+    "connected_to": "Proverbs 22:16",
+    "connected_from": "Proverbs 22:14"
+  },
+  {
+    "text": "One may oppress the poor, yet will their gain increase; One may give to the rich, yet will want come.",
+    "reference": "Proverbs 22:16 (JPS)",
+    "connected_to": "Proverbs 22:17",
+    "connected_from": "Proverbs 22:15"
+  },
+  {
+    "text": "Incline thine ear, and hear the words of the wise, And apply thy heart unto my knowledge.",
+    "reference": "Proverbs 22:17 (JPS)",
+    "connected_to": "Proverbs 22:18",
+    "connected_from": "Proverbs 22:16"
+  },
+  {
+    "text": "For it is a pleasant thing if thou keep them within thee; Let them be established altogether upon thy lips.",
+    "reference": "Proverbs 22:18 (JPS)",
+    "connected_to": "Proverbs 22:19",
+    "connected_from": "Proverbs 22:17"
+  },
+  {
+    "text": "That thy trust may be in the LORD, I have made them known to thee this day, even to thee.",
+    "reference": "Proverbs 22:19 (JPS)",
+    "connected_to": "Proverbs 22:20",
+    "connected_from": "Proverbs 22:18"
+  },
+  {
+    "text": "Have not I written unto thee excellent things Of counsels and knowledge;",
+    "reference": "Proverbs 22:20 (JPS)",
+    "connected_to": "Proverbs 22:21",
+    "connected_from": "Proverbs 22:19"
+  },
+  {
+    "text": "That I might make thee know the certainty of the words of truth, That thou mightest bring back words of truth to them that send thee?",
+    "reference": "Proverbs 22:21 (JPS)",
+    "connected_to": "Proverbs 22:22",
+    "connected_from": "Proverbs 22:20"
+  },
+  {
+    "text": "Rob not the weak, because he is weak, Neither crush the poor in the gate;",
+    "reference": "Proverbs 22:22 (JPS)",
+    "connected_to": "Proverbs 22:23",
+    "connected_from": "Proverbs 22:21"
+  },
+  {
+    "text": "For the LORD will plead their cause, And despoil of life those that despoil them.",
+    "reference": "Proverbs 22:23 (JPS)",
+    "connected_to": "Proverbs 22:24",
+    "connected_from": "Proverbs 22:22"
+  },
+  {
+    "text": "Make no friendship with a man that is given to anger; And with a wrathful man thou shalt not go;",
+    "reference": "Proverbs 22:24 (JPS)",
+    "connected_to": "Proverbs 22:25",
+    "connected_from": "Proverbs 22:23"
+  },
+  {
+    "text": "Lest thou learn his ways, And get a snare to thy soul.",
+    "reference": "Proverbs 22:25 (JPS)",
+    "connected_to": "Proverbs 22:26",
+    "connected_from": "Proverbs 22:24"
+  },
+  {
+    "text": "Be thou not of them that strike hands, Or of them that are sureties for debts;",
+    "reference": "Proverbs 22:26 (JPS)",
+    "connected_to": "Proverbs 22:27",
+    "connected_from": "Proverbs 22:25"
+  },
+  {
+    "text": "If thou hast not wherewith to pay, Why should he take away thy bed from under thee?",
+    "reference": "Proverbs 22:27 (JPS)",
+    "connected_to": "Proverbs 22:28",
+    "connected_from": "Proverbs 22:26"
+  },
+  {
+    "text": "Remove not the ancient landmark, Which thy fathers have set.",
+    "reference": "Proverbs 22:28 (JPS)",
+    "connected_to": "Proverbs 22:29",
+    "connected_from": "Proverbs 22:27"
+  },
+  {
+    "text": "Seest thou a man diligent in his business? he shall stand before kings; He shall not stand before mean men.",
+    "reference": "Proverbs 22:29 (JPS)",
+    "connected_from": "Proverbs 22:28"
+  }
+]

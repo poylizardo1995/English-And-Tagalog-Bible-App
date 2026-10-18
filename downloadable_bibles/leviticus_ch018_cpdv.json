@@ -1,0 +1,180 @@
+[
+  {
+    "text": "And the Lord spoke to Moses, saying:",
+    "reference": "Leviticus 18:1 (CPDV)",
+    "connected_to": "Leviticus 18:2"
+  },
+  {
+    "text": "Speak to the sons of Israel, and you shall say to them: I am the Lord your God.",
+    "reference": "Leviticus 18:2 (CPDV)",
+    "connected_to": "Leviticus 18:3",
+    "connected_from": "Leviticus 18:1"
+  },
+  {
+    "text": "You shall not act according to the custom of the land of Egypt, in which you have lived; nor shall you behave according to the habit of the region of Canaan, into which I will lead you; neither shall you walk in their ordinances.",
+    "reference": "Leviticus 18:3 (CPDV)",
+    "connected_to": "Leviticus 18:4",
+    "connected_from": "Leviticus 18:2"
+  },
+  {
+    "text": "You shall accomplish my judgments, and you shall observe my precepts, and you shall walk in them. I am the Lord your God.",
+    "reference": "Leviticus 18:4 (CPDV)",
+    "connected_to": "Leviticus 18:5",
+    "connected_from": "Leviticus 18:3"
+  },
+  {
+    "text": "Keep my laws and judgments; when a man does these, he shall live by them. I am the Lord.",
+    "reference": "Leviticus 18:5 (CPDV)",
+    "connected_to": "Leviticus 18:6",
+    "connected_from": "Leviticus 18:4"
+  },
+  {
+    "text": "No man shall approach her who is a close blood-relative to him, so as to uncover her nakedness. I am the Lord.",
+    "reference": "Leviticus 18:6 (CPDV)",
+    "connected_to": "Leviticus 18:7",
+    "connected_from": "Leviticus 18:5"
+  },
+  {
+    "text": "You shall not expose the nakedness of your father, or the nakedness of your mother. She is your mother; you shall not uncover her nakedness.",
+    "reference": "Leviticus 18:7 (CPDV)",
+    "connected_to": "Leviticus 18:8",
+    "connected_from": "Leviticus 18:6"
+  },
+  {
+    "text": "You shall not expose the nakedness of your father’s wife; for it is the nakedness of your father.",
+    "reference": "Leviticus 18:8 (CPDV)",
+    "connected_to": "Leviticus 18:9",
+    "connected_from": "Leviticus 18:7"
+  },
+  {
+    "text": "You shall not uncover the nakedness of your sister, whether from father or from mother, whether she was born at home or abroad.",
+    "reference": "Leviticus 18:9 (CPDV)",
+    "connected_to": "Leviticus 18:10",
+    "connected_from": "Leviticus 18:8"
+  },
+  {
+    "text": "You shall not uncover the nakedness of your son’s daughter, or your daughter’s daughter; for it is your own nakedness.",
+    "reference": "Leviticus 18:10 (CPDV)",
+    "connected_to": "Leviticus 18:11",
+    "connected_from": "Leviticus 18:9"
+  },
+  {
+    "text": "You shall not uncover the nakedness of your father’s wife’s daughter, whom she bore to your father, and who is your sister.",
+    "reference": "Leviticus 18:11 (CPDV)",
+    "connected_to": "Leviticus 18:12",
+    "connected_from": "Leviticus 18:10"
+  },
+  {
+    "text": "You shall not expose the nakedness of your father’s sister; for she is the flesh of your father.",
+    "reference": "Leviticus 18:12 (CPDV)",
+    "connected_to": "Leviticus 18:13",
+    "connected_from": "Leviticus 18:11"
+  },
+  {
+    "text": "You shall not uncover the nakedness of your mother’s sister, because she is the flesh of your mother.",
+    "reference": "Leviticus 18:13 (CPDV)",
+    "connected_to": "Leviticus 18:14",
+    "connected_from": "Leviticus 18:12"
+  },
+  {
+    "text": "You shall not uncover the nakedness of your father’s brother, nor shall you approach his wife, who is joined to you by affinity.",
+    "reference": "Leviticus 18:14 (CPDV)",
+    "connected_to": "Leviticus 18:15",
+    "connected_from": "Leviticus 18:13"
+  },
+  {
+    "text": "You shall not uncover the nakedness of your daughter-in-law, for she is your son’s wife; neither shall you expose her dishonor.",
+    "reference": "Leviticus 18:15 (CPDV)",
+    "connected_to": "Leviticus 18:16",
+    "connected_from": "Leviticus 18:14"
+  },
+  {
+    "text": "You shall not uncover the nakedness of your brother’s wife; for it is the nakedness of your brother.",
+    "reference": "Leviticus 18:16 (CPDV)",
+    "connected_to": "Leviticus 18:17",
+    "connected_from": "Leviticus 18:15"
+  },
+  {
+    "text": "You shall not uncover the nakedness of your wife and her daughter. You shall not take her son’s daughter or her daughter’s daughter, so as to uncover her dishonor; for they are her flesh, and such sexual intercourse is incest.",
+    "reference": "Leviticus 18:17 (CPDV)",
+    "connected_to": "Leviticus 18:18",
+    "connected_from": "Leviticus 18:16"
+  },
+  {
+    "text": "You shall not take your wife’s sister as a rival mistress; nor shall you uncover her nakedness, while your wife is still living.",
+    "reference": "Leviticus 18:18 (CPDV)",
+    "connected_to": "Leviticus 18:19",
+    "connected_from": "Leviticus 18:17"
+  },
+  {
+    "text": "You shall not approach a woman who is undergoing menstruation, nor shall you uncover her foulness.",
+    "reference": "Leviticus 18:19 (CPDV)",
+    "connected_to": "Leviticus 18:20",
+    "connected_from": "Leviticus 18:18"
+  },
+  {
+    "text": "You shall not have sexual intercourse with your neighbor’s wife, nor shall you be defiled by the mingling of seed.",
+    "reference": "Leviticus 18:20 (CPDV)",
+    "connected_to": "Leviticus 18:21",
+    "connected_from": "Leviticus 18:19"
+  },
+  {
+    "text": "You shall not give some of your seed to be consecrated to the idol Moloch, nor to pollute the name of your God. I am the Lord.",
+    "reference": "Leviticus 18:21 (CPDV)",
+    "connected_to": "Leviticus 18:22",
+    "connected_from": "Leviticus 18:20"
+  },
+  {
+    "text": "You shall not commit sexual acts with a male, in place of sexual intercourse with a female, for this is an abomination.",
+    "reference": "Leviticus 18:22 (CPDV)",
+    "connected_to": "Leviticus 18:23",
+    "connected_from": "Leviticus 18:21"
+  },
+  {
+    "text": "You shall not commit sexual acts with any animal, nor shall you be defiled by it. A woman shall not lie down with a beast, nor commit sexual acts with it; for this is wickedness.",
+    "reference": "Leviticus 18:23 (CPDV)",
+    "connected_to": "Leviticus 18:24",
+    "connected_from": "Leviticus 18:22"
+  },
+  {
+    "text": "Do not pollute yourselves with any of these things, by which all of the nations, which I will cast out in your sight, have been contaminated",
+    "reference": "Leviticus 18:24 (CPDV)",
+    "connected_to": "Leviticus 18:25",
+    "connected_from": "Leviticus 18:23"
+  },
+  {
+    "text": "and by which the land has been polluted. I will visit the wickedness of the land, so that it may vomit out its inhabitants.",
+    "reference": "Leviticus 18:25 (CPDV)",
+    "connected_to": "Leviticus 18:26",
+    "connected_from": "Leviticus 18:24"
+  },
+  {
+    "text": "Keep my ordinances and judgments, and do not do any of these abominations: the native born, as well as the settler, who sojourns among you.",
+    "reference": "Leviticus 18:26 (CPDV)",
+    "connected_to": "Leviticus 18:27",
+    "connected_from": "Leviticus 18:25"
+  },
+  {
+    "text": "For all these detestable things were done by the inhabitants of the land who were here before you, and they have polluted it.",
+    "reference": "Leviticus 18:27 (CPDV)",
+    "connected_to": "Leviticus 18:28",
+    "connected_from": "Leviticus 18:26"
+  },
+  {
+    "text": "Therefore, beware, lest in a similar manner, it may vomit you out as well, if you do these same things, just as it vomited out the people who were before you.",
+    "reference": "Leviticus 18:28 (CPDV)",
+    "connected_to": "Leviticus 18:29",
+    "connected_from": "Leviticus 18:27"
+  },
+  {
+    "text": "Every soul who shall commit any of these abominations shall perish from the midst of his people.",
+    "reference": "Leviticus 18:29 (CPDV)",
+    "connected_to": "Leviticus 18:30",
+    "connected_from": "Leviticus 18:28"
+  },
+  {
+    "text": "Keep my commandments. Do not be willing to do the things which have been done by those who were before you, and do not be polluted by these things. I am the Lord your God.",
+    "reference": "Leviticus 18:30 (CPDV)",
+    "connected_from": "Leviticus 18:29"
+  }
+]

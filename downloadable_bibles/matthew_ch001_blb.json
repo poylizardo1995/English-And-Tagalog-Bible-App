@@ -1,0 +1,150 @@
+[
+  {
+    "text": "The book of the genealogy of Jesus Christ, son of David, son of Abraham:",
+    "reference": "Matthew 1:1 (BLB)",
+    "connected_to": "Matthew 1:2"
+  },
+  {
+    "text": "Abraham begat Isaac, and Isaac begat Jacob, and Jacob begat Judah and his brothers.",
+    "reference": "Matthew 1:2 (BLB)",
+    "connected_to": "Matthew 1:3",
+    "connected_from": "Matthew 1:1"
+  },
+  {
+    "text": "And Judah begat Perez and Zerah out of Tamar, and Perez begat Hezron, and Hezron begat Aram.",
+    "reference": "Matthew 1:3 (BLB)",
+    "connected_to": "Matthew 1:4",
+    "connected_from": "Matthew 1:2"
+  },
+  {
+    "text": "And Aram begat Amminadab, and Amminadab begat Nahshon, and Nahshon begat Salmon.",
+    "reference": "Matthew 1:4 (BLB)",
+    "connected_to": "Matthew 1:5",
+    "connected_from": "Matthew 1:3"
+  },
+  {
+    "text": "And Salmon begat Boaz out of Rahab, and Boaz begat Obed out of Ruth, and Obed begat Jesse,",
+    "reference": "Matthew 1:5 (BLB)",
+    "connected_to": "Matthew 1:6",
+    "connected_from": "Matthew 1:4"
+  },
+  {
+    "text": "and Jesse begat David the king. And: David begat Solomon out of her who [was] of Uriah,",
+    "reference": "Matthew 1:6 (BLB)",
+    "connected_to": "Matthew 1:7",
+    "connected_from": "Matthew 1:5"
+  },
+  {
+    "text": "and Solomon begat Rehoboam, and Rehoboam begat Abijah, and Abijah begat Asaph.",
+    "reference": "Matthew 1:7 (BLB)",
+    "connected_to": "Matthew 1:8",
+    "connected_from": "Matthew 1:6"
+  },
+  {
+    "text": "And Asaph begat Jehoshaphat, and Jehoshaphat begat Joram, and Joram begat Uzziah.",
+    "reference": "Matthew 1:8 (BLB)",
+    "connected_to": "Matthew 1:9",
+    "connected_from": "Matthew 1:7"
+  },
+  {
+    "text": "And Uzziah begat Jotham, and Jotham begat Ahaz, and Ahaz begat Hezekiah.",
+    "reference": "Matthew 1:9 (BLB)",
+    "connected_to": "Matthew 1:10",
+    "connected_from": "Matthew 1:8"
+  },
+  {
+    "text": "And Hezekiah begat Manasseh, and Manasseh begat Amos, and Amos begat Josiah,",
+    "reference": "Matthew 1:10 (BLB)",
+    "connected_to": "Matthew 1:11",
+    "connected_from": "Matthew 1:9"
+  },
+  {
+    "text": "and Josiah begat Jeconiah and his brothers at the deportation to Babylon.",
+    "reference": "Matthew 1:11 (BLB)",
+    "connected_to": "Matthew 1:12",
+    "connected_from": "Matthew 1:10"
+  },
+  {
+    "text": "And after the deportation to Babylon: Jeconiah begat Shealtiel, and Shealtiel begat Zerubbabel,",
+    "reference": "Matthew 1:12 (BLB)",
+    "connected_to": "Matthew 1:13",
+    "connected_from": "Matthew 1:11"
+  },
+  {
+    "text": "and Zerubbabel begat Abiud, and Abiud begat Eliakim, and Eliakim begat Azor.",
+    "reference": "Matthew 1:13 (BLB)",
+    "connected_to": "Matthew 1:14",
+    "connected_from": "Matthew 1:12"
+  },
+  {
+    "text": "And Azor begat Zadok, and Zadok begat Achim, and Achim begat Eliud.",
+    "reference": "Matthew 1:14 (BLB)",
+    "connected_to": "Matthew 1:15",
+    "connected_from": "Matthew 1:13"
+  },
+  {
+    "text": "And Eliud begat Eleazar, and Eleazar begat Matthan, and Matthan begat Jacob,",
+    "reference": "Matthew 1:15 (BLB)",
+    "connected_to": "Matthew 1:16",
+    "connected_from": "Matthew 1:14"
+  },
+  {
+    "text": "and Jacob begat Joseph, the husband of Mary, out of whom was begotten Jesus, the One being called Christ.",
+    "reference": "Matthew 1:16 (BLB)",
+    "connected_to": "Matthew 1:17",
+    "connected_from": "Matthew 1:15"
+  },
+  {
+    "text": "Therefore all the generations from Abraham until David [were] fourteen generations, and from David until the deportation to Babylon fourteen generations, and from the deportation to Babylon until the Christ fourteen generations.",
+    "reference": "Matthew 1:17 (BLB)",
+    "connected_to": "Matthew 1:18",
+    "connected_from": "Matthew 1:16"
+  },
+  {
+    "text": "Now the birth of Jesus Christ was thus: His mother Mary, having been betrothed to Joseph, before their coming together was found having in womb from the Holy Spirit.",
+    "reference": "Matthew 1:18 (BLB)",
+    "connected_to": "Matthew 1:19",
+    "connected_from": "Matthew 1:17"
+  },
+  {
+    "text": "And Joseph her husband, being righteous and not willing to make an example of her, resolved to send her away secretly.",
+    "reference": "Matthew 1:19 (BLB)",
+    "connected_to": "Matthew 1:20",
+    "connected_from": "Matthew 1:18"
+  },
+  {
+    "text": "But [on] his having pondered these things, behold, an angel of the Lord appeared to him in a dream, saying, “Joseph son of David, you should not be afraid to receive Mary [as] your wife, for that having been begotten in her is from the Holy Spirit.",
+    "reference": "Matthew 1:20 (BLB)",
+    "connected_to": "Matthew 1:21",
+    "connected_from": "Matthew 1:19"
+  },
+  {
+    "text": "And she will bear a Son, and you will call His name Jesus, for He will save His people from their sins.”",
+    "reference": "Matthew 1:21 (BLB)",
+    "connected_to": "Matthew 1:22",
+    "connected_from": "Matthew 1:20"
+  },
+  {
+    "text": "And all this has come to pass so that it might be fulfilled, that having been spoken by the Lord through the prophet, saying,",
+    "reference": "Matthew 1:22 (BLB)",
+    "connected_to": "Matthew 1:23",
+    "connected_from": "Matthew 1:21"
+  },
+  {
+    "text": "“Behold, the virgin will have in womb, and she will bear a son, and they will call His name Immanuel,” which is, being translated, “God with us.”",
+    "reference": "Matthew 1:23 (BLB)",
+    "connected_to": "Matthew 1:24",
+    "connected_from": "Matthew 1:22"
+  },
+  {
+    "text": "And Joseph, having been awoken from sleep, did as the angel of the Lord commanded him and received his wife.",
+    "reference": "Matthew 1:24 (BLB)",
+    "connected_to": "Matthew 1:25",
+    "connected_from": "Matthew 1:23"
+  },
+  {
+    "text": "And he did not know her until she bore a Son, and he called His name Jesus.",
+    "reference": "Matthew 1:25 (BLB)",
+    "connected_from": "Matthew 1:24"
+  }
+]

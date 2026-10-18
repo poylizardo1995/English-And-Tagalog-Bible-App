@@ -1,0 +1,342 @@
+[
+  {
+    "text": "And it came to pass at the end of two full years, that Pharaoh dreamed, and behold, he stood by the river.",
+    "reference": "Genesis 41:1 (DBT)",
+    "connected_to": "Genesis 41:2"
+  },
+  {
+    "text": "And behold, there came up out of the river seven kine, fine-looking and fat-fleshed, and they fed in the reed-grass.",
+    "reference": "Genesis 41:2 (DBT)",
+    "connected_to": "Genesis 41:3",
+    "connected_from": "Genesis 41:1"
+  },
+  {
+    "text": "And behold, seven other kine came up after them out of the river, bad-looking and lean-fleshed, and stood by the kine on the bank of the river.",
+    "reference": "Genesis 41:3 (DBT)",
+    "connected_to": "Genesis 41:4",
+    "connected_from": "Genesis 41:2"
+  },
+  {
+    "text": "And the kine that were bad-looking and lean-fleshed ate up the seven kine that were fine-looking and fat. And Pharaoh awoke.",
+    "reference": "Genesis 41:4 (DBT)",
+    "connected_to": "Genesis 41:5",
+    "connected_from": "Genesis 41:3"
+  },
+  {
+    "text": "And he slept and dreamed the second time; and behold, seven ears of corn grew up on one stalk, fat and good.",
+    "reference": "Genesis 41:5 (DBT)",
+    "connected_to": "Genesis 41:6",
+    "connected_from": "Genesis 41:4"
+  },
+  {
+    "text": "And behold, seven ears, thin and parched with the east wind, sprung up after them.",
+    "reference": "Genesis 41:6 (DBT)",
+    "connected_to": "Genesis 41:7",
+    "connected_from": "Genesis 41:5"
+  },
+  {
+    "text": "And the thin ears devoured the seven fat and full ears. And Pharaoh awoke; and behold, it was a dream.",
+    "reference": "Genesis 41:7 (DBT)",
+    "connected_to": "Genesis 41:8",
+    "connected_from": "Genesis 41:6"
+  },
+  {
+    "text": "And it came to pass in the morning, that his spirit was troubled; and he sent and called for all the scribes of Egypt, and all the sages who were therein, and Pharaoh told them his dream; but [there was] none to interpret them to Pharaoh.",
+    "reference": "Genesis 41:8 (DBT)",
+    "connected_to": "Genesis 41:9",
+    "connected_from": "Genesis 41:7"
+  },
+  {
+    "text": "Then spoke the chief of the cup-bearers to Pharaoh, saying, I remember mine offences this day.",
+    "reference": "Genesis 41:9 (DBT)",
+    "connected_to": "Genesis 41:10",
+    "connected_from": "Genesis 41:8"
+  },
+  {
+    "text": "Pharaoh was wroth with his bondmen, and put me in custody into the captain of the life-guard’s house, me and the chief of the bakers.",
+    "reference": "Genesis 41:10 (DBT)",
+    "connected_to": "Genesis 41:11",
+    "connected_from": "Genesis 41:9"
+  },
+  {
+    "text": "And we dreamed a dream in one night, I and he; we dreamed each according to the interpretation of his dream.",
+    "reference": "Genesis 41:11 (DBT)",
+    "connected_to": "Genesis 41:12",
+    "connected_from": "Genesis 41:10"
+  },
+  {
+    "text": "And there was there with us a Hebrew youth, a bondman of the captain of the life-guard, to whom we told [them], and he interpreted to us our dreams; to each he interpreted according to his dream.",
+    "reference": "Genesis 41:12 (DBT)",
+    "connected_to": "Genesis 41:13",
+    "connected_from": "Genesis 41:11"
+  },
+  {
+    "text": "And it came to pass, just as he interpreted to us, so it came about: me has he restored to my office, and him he hanged.",
+    "reference": "Genesis 41:13 (DBT)",
+    "connected_to": "Genesis 41:14",
+    "connected_from": "Genesis 41:12"
+  },
+  {
+    "text": "Then Pharaoh sent and called Joseph; and they brought him hastily out of the dungeon. And he shaved [himself], and changed his clothes, and came in to Pharaoh.",
+    "reference": "Genesis 41:14 (DBT)",
+    "connected_to": "Genesis 41:15",
+    "connected_from": "Genesis 41:13"
+  },
+  {
+    "text": "And Pharaoh said to Joseph, I have dreamt a dream, and there is none to interpret it. And I have heard say of thee, thou understandest a dream to interpret it.",
+    "reference": "Genesis 41:15 (DBT)",
+    "connected_to": "Genesis 41:16",
+    "connected_from": "Genesis 41:14"
+  },
+  {
+    "text": "And Joseph answered Pharaoh, saying, It is not in me: God will give Pharaoh an answer of peace.",
+    "reference": "Genesis 41:16 (DBT)",
+    "connected_to": "Genesis 41:17",
+    "connected_from": "Genesis 41:15"
+  },
+  {
+    "text": "And Pharaoh said to Joseph, In my dream, behold, I stood on the bank of the river.",
+    "reference": "Genesis 41:17 (DBT)",
+    "connected_to": "Genesis 41:18",
+    "connected_from": "Genesis 41:16"
+  },
+  {
+    "text": "And behold, there came up out of the river seven kine, fat-fleshed and of fine form, and they fed in the reed-grass.",
+    "reference": "Genesis 41:18 (DBT)",
+    "connected_to": "Genesis 41:19",
+    "connected_from": "Genesis 41:17"
+  },
+  {
+    "text": "And behold, seven other kine came up after them, poor, and very ill-formed, and lean-fleshed—such as I never saw in all the land of Egypt for badness.",
+    "reference": "Genesis 41:19 (DBT)",
+    "connected_to": "Genesis 41:20",
+    "connected_from": "Genesis 41:18"
+  },
+  {
+    "text": "And the lean and bad kine ate up the seven first fat kine;",
+    "reference": "Genesis 41:20 (DBT)",
+    "connected_to": "Genesis 41:21",
+    "connected_from": "Genesis 41:19"
+  },
+  {
+    "text": "and they came into their belly, and it could not be known that they had come into their belly; and their look was bad, as at the beginning. And I awoke.",
+    "reference": "Genesis 41:21 (DBT)",
+    "connected_to": "Genesis 41:22",
+    "connected_from": "Genesis 41:20"
+  },
+  {
+    "text": "And I saw in my dream, and behold, seven ears came up on one stalk, full and good.",
+    "reference": "Genesis 41:22 (DBT)",
+    "connected_to": "Genesis 41:23",
+    "connected_from": "Genesis 41:21"
+  },
+  {
+    "text": "And behold, seven ears, withered, thin, parched with the east wind, sprung up after them;",
+    "reference": "Genesis 41:23 (DBT)",
+    "connected_to": "Genesis 41:24",
+    "connected_from": "Genesis 41:22"
+  },
+  {
+    "text": "and the thin ears devoured the seven good ears. And I told it to the scribes; but there was none to make it known to me.",
+    "reference": "Genesis 41:24 (DBT)",
+    "connected_to": "Genesis 41:25",
+    "connected_from": "Genesis 41:23"
+  },
+  {
+    "text": "And Joseph said to Pharaoh, The dream of Pharaoh is one. What God will do he has made known to Pharaoh.",
+    "reference": "Genesis 41:25 (DBT)",
+    "connected_to": "Genesis 41:26",
+    "connected_from": "Genesis 41:24"
+  },
+  {
+    "text": "The seven fine kine are seven years; and the seven good ears are seven years: the dream is one.",
+    "reference": "Genesis 41:26 (DBT)",
+    "connected_to": "Genesis 41:27",
+    "connected_from": "Genesis 41:25"
+  },
+  {
+    "text": "And the seven lean and bad kine that came up after them are seven years; and the seven empty ears, parched with the east wind, will be seven years of famine.",
+    "reference": "Genesis 41:27 (DBT)",
+    "connected_to": "Genesis 41:28",
+    "connected_from": "Genesis 41:26"
+  },
+  {
+    "text": "This is the word which I have spoken to Pharaoh: what God is about to do he has let Pharaoh see.",
+    "reference": "Genesis 41:28 (DBT)",
+    "connected_to": "Genesis 41:29",
+    "connected_from": "Genesis 41:27"
+  },
+  {
+    "text": "Behold, there come seven years of great plenty throughout the land of Egypt.",
+    "reference": "Genesis 41:29 (DBT)",
+    "connected_to": "Genesis 41:30",
+    "connected_from": "Genesis 41:28"
+  },
+  {
+    "text": "And there will arise after them seven years of famine; and all the plenty will be forgotten in the land of Egypt, and the famine will waste away the land.",
+    "reference": "Genesis 41:30 (DBT)",
+    "connected_to": "Genesis 41:31",
+    "connected_from": "Genesis 41:29"
+  },
+  {
+    "text": "And the plenty will not be known afterwards in the land by reason of that famine; for it will be very grievous.",
+    "reference": "Genesis 41:31 (DBT)",
+    "connected_to": "Genesis 41:32",
+    "connected_from": "Genesis 41:30"
+  },
+  {
+    "text": "And as regards the double repetition of the dream to Pharaoh, it is that the thing is established by God, and God will hasten to do it.",
+    "reference": "Genesis 41:32 (DBT)",
+    "connected_to": "Genesis 41:33",
+    "connected_from": "Genesis 41:31"
+  },
+  {
+    "text": "And now let Pharaoh look himself out a man discreet and wise, and set him over the land of Egypt.",
+    "reference": "Genesis 41:33 (DBT)",
+    "connected_to": "Genesis 41:34",
+    "connected_from": "Genesis 41:32"
+  },
+  {
+    "text": "Let Pharaoh do [this]: let him appoint overseers over the land, and take the fifth part of the land of Egypt during the seven years of plenty,",
+    "reference": "Genesis 41:34 (DBT)",
+    "connected_to": "Genesis 41:35",
+    "connected_from": "Genesis 41:33"
+  },
+  {
+    "text": "and let them gather all the food of these coming good years, and lay up corn under the hand of Pharaoh, for food in the cities, and keep [it].",
+    "reference": "Genesis 41:35 (DBT)",
+    "connected_to": "Genesis 41:36",
+    "connected_from": "Genesis 41:34"
+  },
+  {
+    "text": "And let the food be as store for the land for the seven years of famine, which will be in the land of Egypt, that the land perish not through the famine.",
+    "reference": "Genesis 41:36 (DBT)",
+    "connected_to": "Genesis 41:37",
+    "connected_from": "Genesis 41:35"
+  },
+  {
+    "text": "And the word was good in the eyes of Pharaoh, and in the eyes of all his bondmen.",
+    "reference": "Genesis 41:37 (DBT)",
+    "connected_to": "Genesis 41:38",
+    "connected_from": "Genesis 41:36"
+  },
+  {
+    "text": "And Pharaoh said to his bondmen, Shall we find [one] as this, a man in whom the Spirit of God is?",
+    "reference": "Genesis 41:38 (DBT)",
+    "connected_to": "Genesis 41:39",
+    "connected_from": "Genesis 41:37"
+  },
+  {
+    "text": "And Pharaoh said to Joseph, Since God has made all this known to thee, there is none [so] discreet and wise as thou.",
+    "reference": "Genesis 41:39 (DBT)",
+    "connected_to": "Genesis 41:40",
+    "connected_from": "Genesis 41:38"
+  },
+  {
+    "text": "Thou shalt be over my house, and according to thy commandment shall all my people regulate themselves; only concerning the throne will I be greater than thou.",
+    "reference": "Genesis 41:40 (DBT)",
+    "connected_to": "Genesis 41:41",
+    "connected_from": "Genesis 41:39"
+  },
+  {
+    "text": "And Pharaoh said to Joseph, See, I have set thee over all the land of Egypt.",
+    "reference": "Genesis 41:41 (DBT)",
+    "connected_to": "Genesis 41:42",
+    "connected_from": "Genesis 41:40"
+  },
+  {
+    "text": "And Pharaoh took off his ring from his hand, and put it on Joseph’s hand, and arrayed him in clothes of byssus, and put a gold chain on his neck.",
+    "reference": "Genesis 41:42 (DBT)",
+    "connected_to": "Genesis 41:43",
+    "connected_from": "Genesis 41:41"
+  },
+  {
+    "text": "And he caused him to ride in the second chariot that he had; and they cried before him, Bow the knee! and he set him over all the land of Egypt.",
+    "reference": "Genesis 41:43 (DBT)",
+    "connected_to": "Genesis 41:44",
+    "connected_from": "Genesis 41:42"
+  },
+  {
+    "text": "And Pharaoh said to Joseph, I am Pharaoh; and without thee shall no man lift up his hand or his foot in all the land of Egypt.",
+    "reference": "Genesis 41:44 (DBT)",
+    "connected_to": "Genesis 41:45",
+    "connected_from": "Genesis 41:43"
+  },
+  {
+    "text": "And Pharaoh called Joseph’s name Zaphnath-paaneah, and gave him as wife Asnath the daughter of Potipherah the priest in On. And Joseph went out over the land of Egypt.",
+    "reference": "Genesis 41:45 (DBT)",
+    "connected_to": "Genesis 41:46",
+    "connected_from": "Genesis 41:44"
+  },
+  {
+    "text": "And Joseph was thirty years old when he stood before Pharaoh king of Egypt. And Joseph went out from Pharaoh, and passed through the whole land of Egypt.",
+    "reference": "Genesis 41:46 (DBT)",
+    "connected_to": "Genesis 41:47",
+    "connected_from": "Genesis 41:45"
+  },
+  {
+    "text": "And in the seven years of plenty the land brought forth by handfuls.",
+    "reference": "Genesis 41:47 (DBT)",
+    "connected_to": "Genesis 41:48",
+    "connected_from": "Genesis 41:46"
+  },
+  {
+    "text": "And he gathered up all the food of the seven years that was in the land of Egypt, and put the food in the cities; the food of the fields of the city, which were round about it, he laid up in it.",
+    "reference": "Genesis 41:48 (DBT)",
+    "connected_to": "Genesis 41:49",
+    "connected_from": "Genesis 41:47"
+  },
+  {
+    "text": "And Joseph laid up corn as sand of the sea exceeding much, until they left off numbering; for it was without number.",
+    "reference": "Genesis 41:49 (DBT)",
+    "connected_to": "Genesis 41:50",
+    "connected_from": "Genesis 41:48"
+  },
+  {
+    "text": "And to Joseph were born two sons before the year of famine came, whom Asnath the daughter of Potipherah the priest in On bore to him.",
+    "reference": "Genesis 41:50 (DBT)",
+    "connected_to": "Genesis 41:51",
+    "connected_from": "Genesis 41:49"
+  },
+  {
+    "text": "And Joseph called the name of the firstborn Manasseh—For God has made me forget all my toil, and all my father’s house.",
+    "reference": "Genesis 41:51 (DBT)",
+    "connected_to": "Genesis 41:52",
+    "connected_from": "Genesis 41:50"
+  },
+  {
+    "text": "And the name of the second he called Ephraim—For God has caused me to be fruitful in the land of my affliction.",
+    "reference": "Genesis 41:52 (DBT)",
+    "connected_to": "Genesis 41:53",
+    "connected_from": "Genesis 41:51"
+  },
+  {
+    "text": "And the seven years of plenty that were in the land of Egypt were ended;",
+    "reference": "Genesis 41:53 (DBT)",
+    "connected_to": "Genesis 41:54",
+    "connected_from": "Genesis 41:52"
+  },
+  {
+    "text": "and the seven years of the dearth began to come, according as Joseph had said. And there was dearth in all lands; but in all the land of Egypt there was bread.",
+    "reference": "Genesis 41:54 (DBT)",
+    "connected_to": "Genesis 41:55",
+    "connected_from": "Genesis 41:53"
+  },
+  {
+    "text": "And all the land of Egypt suffered from the dearth. And the people cried to Pharaoh for bread; and Pharaoh said to all the Egyptians, Go to Joseph: what he says to you, that do.",
+    "reference": "Genesis 41:55 (DBT)",
+    "connected_to": "Genesis 41:56",
+    "connected_from": "Genesis 41:54"
+  },
+  {
+    "text": "And the famine was on all the earth. And Joseph opened every place in which there was [provision], and sold grain to the Egyptians; and the famine was grievous in the land of Egypt.",
+    "reference": "Genesis 41:56 (DBT)",
+    "connected_to": "Genesis 41:57",
+    "connected_from": "Genesis 41:55"
+  },
+  {
+    "text": "And all countries came into Egypt to Joseph, to buy [grain], because the famine was grievous on the whole earth.",
+    "reference": "Genesis 41:57 (DBT)",
+    "connected_from": "Genesis 41:56"
+  }
+]

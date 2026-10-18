@@ -1,0 +1,156 @@
+[
+  {
+    "text": "Give thanks to YHWH, for [He is] good, for His loving devotion [is] forever;",
+    "reference": "Psalm 136:1 (BLB)",
+    "connected_to": "Psalm 136:2"
+  },
+  {
+    "text": "Give thanks to the God of gods, for His loving devotion [is] forever;",
+    "reference": "Psalm 136:2 (BLB)",
+    "connected_to": "Psalm 136:3",
+    "connected_from": "Psalm 136:1"
+  },
+  {
+    "text": "Give thanks to the Lord of lords, for His loving devotion [is] forever;",
+    "reference": "Psalm 136:3 (BLB)",
+    "connected_to": "Psalm 136:4",
+    "connected_from": "Psalm 136:2"
+  },
+  {
+    "text": "to the One doing great wonders by Himself alone, for His loving devotion [is] forever;",
+    "reference": "Psalm 136:4 (BLB)",
+    "connected_to": "Psalm 136:5",
+    "connected_from": "Psalm 136:3"
+  },
+  {
+    "text": "to the One making the heavens with understanding, for His loving devotion [is] forever;",
+    "reference": "Psalm 136:5 (BLB)",
+    "connected_to": "Psalm 136:6",
+    "connected_from": "Psalm 136:4"
+  },
+  {
+    "text": "to the One spreading out the earth upon the waters, for His loving devotion [is] forever;",
+    "reference": "Psalm 136:6 (BLB)",
+    "connected_to": "Psalm 136:7",
+    "connected_from": "Psalm 136:5"
+  },
+  {
+    "text": "to the One making great the lights—for His loving devotion [is] forever—",
+    "reference": "Psalm 136:7 (BLB)",
+    "connected_to": "Psalm 136:8",
+    "connected_from": "Psalm 136:6"
+  },
+  {
+    "text": "the sun for ruling over the day, for His loving devotion [is] forever;",
+    "reference": "Psalm 136:8 (BLB)",
+    "connected_to": "Psalm 136:9",
+    "connected_from": "Psalm 136:7"
+  },
+  {
+    "text": "the moon and stars for ruling over the night, for His loving devotion [is] forever;",
+    "reference": "Psalm 136:9 (BLB)",
+    "connected_to": "Psalm 136:10",
+    "connected_from": "Psalm 136:8"
+  },
+  {
+    "text": "to the one striking Egypt, against their firstborn, for His loving devotion [is] forever.",
+    "reference": "Psalm 136:10 (BLB)",
+    "connected_to": "Psalm 136:11",
+    "connected_from": "Psalm 136:9"
+  },
+  {
+    "text": "And He brought forth Israel from their midst, for His loving devotion [is] forever;",
+    "reference": "Psalm 136:11 (BLB)",
+    "connected_to": "Psalm 136:12",
+    "connected_from": "Psalm 136:10"
+  },
+  {
+    "text": "with a strong hand and an outstretched arm, for His loving devotion [is] forever;",
+    "reference": "Psalm 136:12 (BLB)",
+    "connected_to": "Psalm 136:13",
+    "connected_from": "Psalm 136:11"
+  },
+  {
+    "text": "to the One dividing the Red sea into parts, for His loving devotion [is] forever.",
+    "reference": "Psalm 136:13 (BLB)",
+    "connected_to": "Psalm 136:14",
+    "connected_from": "Psalm 136:12"
+  },
+  {
+    "text": "And He made Israel pass through the midst of it, for His loving devotion [is] forever;",
+    "reference": "Psalm 136:14 (BLB)",
+    "connected_to": "Psalm 136:15",
+    "connected_from": "Psalm 136:13"
+  },
+  {
+    "text": "and He shook off Pharaoh and his army into the Red Sea, for His loving devotion [is] forever;",
+    "reference": "Psalm 136:15 (BLB)",
+    "connected_to": "Psalm 136:16",
+    "connected_from": "Psalm 136:14"
+  },
+  {
+    "text": "to the One leading His people through the wilderness, for His loving devotion [is] forever;",
+    "reference": "Psalm 136:16 (BLB)",
+    "connected_to": "Psalm 136:17",
+    "connected_from": "Psalm 136:15"
+  },
+  {
+    "text": "to the One striking great kings, for His loving devotion [is] forever.",
+    "reference": "Psalm 136:17 (BLB)",
+    "connected_to": "Psalm 136:18",
+    "connected_from": "Psalm 136:16"
+  },
+  {
+    "text": "And He killed mighty kings, for His loving devotion [is] forever;",
+    "reference": "Psalm 136:18 (BLB)",
+    "connected_to": "Psalm 136:19",
+    "connected_from": "Psalm 136:17"
+  },
+  {
+    "text": "Sihon king of the Amorite, for His loving devotion [is] forever;",
+    "reference": "Psalm 136:19 (BLB)",
+    "connected_to": "Psalm 136:20",
+    "connected_from": "Psalm 136:18"
+  },
+  {
+    "text": "and Og king of Bashan, for His loving devotion [is] forever;",
+    "reference": "Psalm 136:20 (BLB)",
+    "connected_to": "Psalm 136:21",
+    "connected_from": "Psalm 136:19"
+  },
+  {
+    "text": "and He gave their land as an inheritance—for His loving devotion [is] forever;",
+    "reference": "Psalm 136:21 (BLB)",
+    "connected_to": "Psalm 136:22",
+    "connected_from": "Psalm 136:20"
+  },
+  {
+    "text": "an inheritance to Israel His servant, for His loving devotion [is] forever;",
+    "reference": "Psalm 136:22 (BLB)",
+    "connected_to": "Psalm 136:23",
+    "connected_from": "Psalm 136:21"
+  },
+  {
+    "text": "who in our lowliness remembered us, for His loving devotion [is] forever;",
+    "reference": "Psalm 136:23 (BLB)",
+    "connected_to": "Psalm 136:24",
+    "connected_from": "Psalm 136:22"
+  },
+  {
+    "text": "and rescued us from our enemies, for His loving devotion [is] forever;",
+    "reference": "Psalm 136:24 (BLB)",
+    "connected_to": "Psalm 136:25",
+    "connected_from": "Psalm 136:23"
+  },
+  {
+    "text": "the One giving food to all flesh, for His loving devotion [is] forever.",
+    "reference": "Psalm 136:25 (BLB)",
+    "connected_to": "Psalm 136:26",
+    "connected_from": "Psalm 136:24"
+  },
+  {
+    "text": "Give thanks to the God of the heavens, for His loving devotion [is] forever!",
+    "reference": "Psalm 136:26 (BLB)",
+    "connected_from": "Psalm 136:25"
+  }
+]

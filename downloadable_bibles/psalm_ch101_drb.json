@@ -1,0 +1,48 @@
+[
+  {
+    "text": "A psalm for David himself. Mercy and judgment I will sing to thee, O Lord: I will sing,",
+    "reference": "Psalm 101:1 (DRB)",
+    "connected_to": "Psalm 101:2"
+  },
+  {
+    "text": "and I will understand in the unspotted way, when thou shalt come to me. I walked in the innocence of my heart, in the midst of my house.",
+    "reference": "Psalm 101:2 (DRB)",
+    "connected_to": "Psalm 101:3",
+    "connected_from": "Psalm 101:1"
+  },
+  {
+    "text": "I did not set before my eyes any unjust thing: I hated the workers of iniquities.",
+    "reference": "Psalm 101:3 (DRB)",
+    "connected_to": "Psalm 101:4",
+    "connected_from": "Psalm 101:2"
+  },
+  {
+    "text": "The perverse heart did not cleave to me: and the malignant, that turned aside from me, I would not know.",
+    "reference": "Psalm 101:4 (DRB)",
+    "connected_to": "Psalm 101:5",
+    "connected_from": "Psalm 101:3"
+  },
+  {
+    "text": "The man that in private detracted his neighbour, him did I persecute. With him that had a proud eye, and an unsatiable heart, I would not eat.",
+    "reference": "Psalm 101:5 (DRB)",
+    "connected_to": "Psalm 101:6",
+    "connected_from": "Psalm 101:4"
+  },
+  {
+    "text": "My eyes were upon the faithful of the earth, to sit with me: the man that walked in the perfect way, he served me.",
+    "reference": "Psalm 101:6 (DRB)",
+    "connected_to": "Psalm 101:7",
+    "connected_from": "Psalm 101:5"
+  },
+  {
+    "text": "He that worketh pride shall not dwell in the midst of my house: he that speaketh unjust things did not prosper before my eyes.",
+    "reference": "Psalm 101:7 (DRB)",
+    "connected_to": "Psalm 101:8",
+    "connected_from": "Psalm 101:6"
+  },
+  {
+    "text": "In the morning I put to death all the wicked of the land: that I might cut off all the workers of iniquity from the city of the Lord.",
+    "reference": "Psalm 101:8 (DRB)",
+    "connected_from": "Psalm 101:7"
+  }
+]

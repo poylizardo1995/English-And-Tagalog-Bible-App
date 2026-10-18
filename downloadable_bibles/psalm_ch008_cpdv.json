@@ -1,0 +1,54 @@
+[
+  {
+    "text": "Unto the end. For the oil and wine presses. A Psalm of David. O Lord, our Lord, how admirable is your name throughout all the earth! For your magnificence is elevated above the heavens.",
+    "reference": "Psalm 8:1 (CPDV)",
+    "connected_to": "Psalm 8:2"
+  },
+  {
+    "text": "Out of the mouths of babes and infants, you have perfected praise, because of your enemies, so that you may destroy the enemy and the revenger.",
+    "reference": "Psalm 8:2 (CPDV)",
+    "connected_to": "Psalm 8:3",
+    "connected_from": "Psalm 8:1"
+  },
+  {
+    "text": "For I will behold your heavens, the works of your fingers: the moon and the stars, which you have founded.",
+    "reference": "Psalm 8:3 (CPDV)",
+    "connected_to": "Psalm 8:4",
+    "connected_from": "Psalm 8:2"
+  },
+  {
+    "text": "What is man, that you are mindful of him, or the son of man, that you visit him?",
+    "reference": "Psalm 8:4 (CPDV)",
+    "connected_to": "Psalm 8:5",
+    "connected_from": "Psalm 8:3"
+  },
+  {
+    "text": "You reduced him to a little less than the Angels; you have crowned him with glory and honor,",
+    "reference": "Psalm 8:5 (CPDV)",
+    "connected_to": "Psalm 8:6",
+    "connected_from": "Psalm 8:4"
+  },
+  {
+    "text": "and you have set him over the works of your hands.",
+    "reference": "Psalm 8:6 (CPDV)",
+    "connected_to": "Psalm 8:7",
+    "connected_from": "Psalm 8:5"
+  },
+  {
+    "text": "You have subjected all things under his feet, all sheep and oxen, and in addition: the beasts of the field,",
+    "reference": "Psalm 8:7 (CPDV)",
+    "connected_to": "Psalm 8:8",
+    "connected_from": "Psalm 8:6"
+  },
+  {
+    "text": "the birds of the air, and the fish of the sea, which pass through the paths of the sea.",
+    "reference": "Psalm 8:8 (CPDV)",
+    "connected_to": "Psalm 8:9",
+    "connected_from": "Psalm 8:7"
+  },
+  {
+    "text": "O Lord, our Lord, how admirable is your name throughout all the earth!",
+    "reference": "Psalm 8:9 (CPDV)",
+    "connected_from": "Psalm 8:8"
+  }
+]

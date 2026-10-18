@@ -1,0 +1,84 @@
+[
+  {
+    "text": "The psalm of David before he was anointed. The Lord is my light and my salvation, whom shall I fear? The Lord is the protector of my life: of whom shall I be afraid?",
+    "reference": "Psalm 27:1 (DRB)",
+    "connected_to": "Psalm 27:2"
+  },
+  {
+    "text": "Whilst the wicked draw near against me, to eat my flesh. My enemies that trouble me, have themselves been weakened, and have fallen.",
+    "reference": "Psalm 27:2 (DRB)",
+    "connected_to": "Psalm 27:3",
+    "connected_from": "Psalm 27:1"
+  },
+  {
+    "text": "If armies in camp should stand together against me, my heart shall not fear. If a battle should rise up against me, in this will I be confident.",
+    "reference": "Psalm 27:3 (DRB)",
+    "connected_to": "Psalm 27:4",
+    "connected_from": "Psalm 27:2"
+  },
+  {
+    "text": "One thing I have asked of the Lord, this will I seek after; that I may dwell in the house of the Lord all the days of my life. That I may see the delight of the Lord, and may visit his temple.",
+    "reference": "Psalm 27:4 (DRB)",
+    "connected_to": "Psalm 27:5",
+    "connected_from": "Psalm 27:3"
+  },
+  {
+    "text": "For he hath hidden me in his tabernacle; in the day of evils, he hath protected me in the secret place of his tabernacle.",
+    "reference": "Psalm 27:5 (DRB)",
+    "connected_to": "Psalm 27:6",
+    "connected_from": "Psalm 27:4"
+  },
+  {
+    "text": "He hath exalted me upon a rock: and now he hath lifted up my head above my enemies. I have gone round, and have offered up in his tabernacle a sacrifice of jubilation: I will sing, and recite a psalm to the Lord.",
+    "reference": "Psalm 27:6 (DRB)",
+    "connected_to": "Psalm 27:7",
+    "connected_from": "Psalm 27:5"
+  },
+  {
+    "text": "Hear, O Lord, my voice, with which I have cried to thee: have mercy on me and hear me.",
+    "reference": "Psalm 27:7 (DRB)",
+    "connected_to": "Psalm 27:8",
+    "connected_from": "Psalm 27:6"
+  },
+  {
+    "text": "My heart hath said to thee: My face hath sought thee: thy face, O Lord, will I still seek.",
+    "reference": "Psalm 27:8 (DRB)",
+    "connected_to": "Psalm 27:9",
+    "connected_from": "Psalm 27:7"
+  },
+  {
+    "text": "Turn not away thy face from me; decline not in thy wrath from thy servant. Be thou my helper, forsake me not; do not thou despise me, O God my Saviour.",
+    "reference": "Psalm 27:9 (DRB)",
+    "connected_to": "Psalm 27:10",
+    "connected_from": "Psalm 27:8"
+  },
+  {
+    "text": "For my father and my mother have left me: but the Lord hath taken me up.",
+    "reference": "Psalm 27:10 (DRB)",
+    "connected_to": "Psalm 27:11",
+    "connected_from": "Psalm 27:9"
+  },
+  {
+    "text": "Set me, O Lord, a law in thy way, and guide me in the right path, because of my enemies.",
+    "reference": "Psalm 27:11 (DRB)",
+    "connected_to": "Psalm 27:12",
+    "connected_from": "Psalm 27:10"
+  },
+  {
+    "text": "Deliver me not over to the will of them that trouble me; for unjust witnesses have risen up against me; and iniquity hath lied to itself.",
+    "reference": "Psalm 27:12 (DRB)",
+    "connected_to": "Psalm 27:13",
+    "connected_from": "Psalm 27:11"
+  },
+  {
+    "text": "I believe to see the good things of the Lord in the land of the living.",
+    "reference": "Psalm 27:13 (DRB)",
+    "connected_to": "Psalm 27:14",
+    "connected_from": "Psalm 27:12"
+  },
+  {
+    "text": "Expect the Lord, do manfully, and let thy heart take courage, and wait thou for the Lord.",
+    "reference": "Psalm 27:14 (DRB)",
+    "connected_from": "Psalm 27:13"
+  }
+]

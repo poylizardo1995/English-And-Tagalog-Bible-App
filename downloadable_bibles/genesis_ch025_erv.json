@@ -1,0 +1,204 @@
+[
+  {
+    "text": "And Abraham took another wife, and her name was Keturah.",
+    "reference": "Genesis 25:1 (ERV)",
+    "connected_to": "Genesis 25:2"
+  },
+  {
+    "text": "And she bare him Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah.",
+    "reference": "Genesis 25:2 (ERV)",
+    "connected_to": "Genesis 25:3",
+    "connected_from": "Genesis 25:1"
+  },
+  {
+    "text": "And Jokshan begat Sheba, and Dedan. And the sons of Dedan were Asshurim, and Letushim, and Leummim.",
+    "reference": "Genesis 25:3 (ERV)",
+    "connected_to": "Genesis 25:4",
+    "connected_from": "Genesis 25:2"
+  },
+  {
+    "text": "And the sons of Midian; Ephah, and Epher, and Hanoch, and Abida, and Eldaah. All these were the children of Keturah.",
+    "reference": "Genesis 25:4 (ERV)",
+    "connected_to": "Genesis 25:5",
+    "connected_from": "Genesis 25:3"
+  },
+  {
+    "text": "And Abraham gave all that he had unto Isaac.",
+    "reference": "Genesis 25:5 (ERV)",
+    "connected_to": "Genesis 25:6",
+    "connected_from": "Genesis 25:4"
+  },
+  {
+    "text": "But unto the sons of the concubines, which Abraham had, Abraham gave gifts; and he sent them away from Isaac his son, while he yet lived, eastward, unto the east country.",
+    "reference": "Genesis 25:6 (ERV)",
+    "connected_to": "Genesis 25:7",
+    "connected_from": "Genesis 25:5"
+  },
+  {
+    "text": "And these are the days of the years of Abraham’s life which he lived, an hundred threescore and fifteen years.",
+    "reference": "Genesis 25:7 (ERV)",
+    "connected_to": "Genesis 25:8",
+    "connected_from": "Genesis 25:6"
+  },
+  {
+    "text": "And Abraham gave up the ghost, and died in a good old age, an old man, and full of years; and was gathered to his people.",
+    "reference": "Genesis 25:8 (ERV)",
+    "connected_to": "Genesis 25:9",
+    "connected_from": "Genesis 25:7"
+  },
+  {
+    "text": "And Isaac and Ishmael his sons buried him in the cave of Machpelah, in the field of Ephron the son of Zohar the Hittite, which is before Mamre;",
+    "reference": "Genesis 25:9 (ERV)",
+    "connected_to": "Genesis 25:10",
+    "connected_from": "Genesis 25:8"
+  },
+  {
+    "text": "the field which Abraham purchased of the children of Heth: there was Abraham buried, and Sarah his wife.",
+    "reference": "Genesis 25:10 (ERV)",
+    "connected_to": "Genesis 25:11",
+    "connected_from": "Genesis 25:9"
+  },
+  {
+    "text": "And it came to pass after the death of Abraham, that God blessed Isaac his son; and Isaac dwelt by Beer-lahai-roi.",
+    "reference": "Genesis 25:11 (ERV)",
+    "connected_to": "Genesis 25:12",
+    "connected_from": "Genesis 25:10"
+  },
+  {
+    "text": "Now these are the generations of Ishmael, Abraham’s son, whom Hagar the Egyptian, Sarah’s handmaid, bare unto Abraham:",
+    "reference": "Genesis 25:12 (ERV)",
+    "connected_to": "Genesis 25:13",
+    "connected_from": "Genesis 25:11"
+  },
+  {
+    "text": "and these are the names of the sons of Ishmael, by their names, according to their generations: the firstborn of Ishmael, Nebaioth; and Kedar, and Adbeel, and Mibsam,",
+    "reference": "Genesis 25:13 (ERV)",
+    "connected_to": "Genesis 25:14",
+    "connected_from": "Genesis 25:12"
+  },
+  {
+    "text": "and Mishma, and Dumah, and Massa;",
+    "reference": "Genesis 25:14 (ERV)",
+    "connected_to": "Genesis 25:15",
+    "connected_from": "Genesis 25:13"
+  },
+  {
+    "text": "Hadad, and Tema, Jetur, Naphish, and Kedemah:",
+    "reference": "Genesis 25:15 (ERV)",
+    "connected_to": "Genesis 25:16",
+    "connected_from": "Genesis 25:14"
+  },
+  {
+    "text": "these are the sons of Ishmael, and these are their names, by their villages, and by their encampments; twelve princes according to their nations.",
+    "reference": "Genesis 25:16 (ERV)",
+    "connected_to": "Genesis 25:17",
+    "connected_from": "Genesis 25:15"
+  },
+  {
+    "text": "And these are the years of the life of Ishmael, an hundred and thirty and seven years: and he gave up the ghost and died; and was gathered unto his people.",
+    "reference": "Genesis 25:17 (ERV)",
+    "connected_to": "Genesis 25:18",
+    "connected_from": "Genesis 25:16"
+  },
+  {
+    "text": "And they dwelt from Havilah unto Shur that is before Egypt, as thou goest toward Assyria: he abode in the presence of all his brethren.",
+    "reference": "Genesis 25:18 (ERV)",
+    "connected_to": "Genesis 25:19",
+    "connected_from": "Genesis 25:17"
+  },
+  {
+    "text": "And these are the generations of Isaac, Abraham’s son: Abraham begat Isaac:",
+    "reference": "Genesis 25:19 (ERV)",
+    "connected_to": "Genesis 25:20",
+    "connected_from": "Genesis 25:18"
+  },
+  {
+    "text": "and Isaac was forty years old when he took Rebekah, the daughter of Bethuel the Syrian of Paddan-aram, the sister of Laban the Syrian, to be his wife.",
+    "reference": "Genesis 25:20 (ERV)",
+    "connected_to": "Genesis 25:21",
+    "connected_from": "Genesis 25:19"
+  },
+  {
+    "text": "And Isaac entreated the LORD for his wife, because she was barren: and the LORD was entreated of him, and Rebekah his wife conceived.",
+    "reference": "Genesis 25:21 (ERV)",
+    "connected_to": "Genesis 25:22",
+    "connected_from": "Genesis 25:20"
+  },
+  {
+    "text": "And the children struggled together within her; and she said, If it be so, wherefore do I live? And she went to inquire of the LORD.",
+    "reference": "Genesis 25:22 (ERV)",
+    "connected_to": "Genesis 25:23",
+    "connected_from": "Genesis 25:21"
+  },
+  {
+    "text": "And the LORD said unto her, Two nations are in thy womb, And two peoples shall be separated even from thy bowels: And the one people shall be stronger than the other people; And the elder shall serve the younger.",
+    "reference": "Genesis 25:23 (ERV)",
+    "connected_to": "Genesis 25:24",
+    "connected_from": "Genesis 25:22"
+  },
+  {
+    "text": "And when her days to be delivered were fulfilled, behold, there were twins in her womb.",
+    "reference": "Genesis 25:24 (ERV)",
+    "connected_to": "Genesis 25:25",
+    "connected_from": "Genesis 25:23"
+  },
+  {
+    "text": "And the first came forth red, all over like an hairy garment; and they called his name Esau.",
+    "reference": "Genesis 25:25 (ERV)",
+    "connected_to": "Genesis 25:26",
+    "connected_from": "Genesis 25:24"
+  },
+  {
+    "text": "And after that came forth his brother, and his hand had hold on Esau’s heel; and his name was called Jacob: and Isaac was threescore years old when she bare them.",
+    "reference": "Genesis 25:26 (ERV)",
+    "connected_to": "Genesis 25:27",
+    "connected_from": "Genesis 25:25"
+  },
+  {
+    "text": "And the boys grew: and Esau was a cunning hunter, a man of the field; and Jacob was a plain man, dwelling in tents.",
+    "reference": "Genesis 25:27 (ERV)",
+    "connected_to": "Genesis 25:28",
+    "connected_from": "Genesis 25:26"
+  },
+  {
+    "text": "Now Isaac loved Esau, because he did eat of his venison: and Rebekah loved Jacob.",
+    "reference": "Genesis 25:28 (ERV)",
+    "connected_to": "Genesis 25:29",
+    "connected_from": "Genesis 25:27"
+  },
+  {
+    "text": "And Jacob sod pottage: and Esau came in from the field, and he was faint:",
+    "reference": "Genesis 25:29 (ERV)",
+    "connected_to": "Genesis 25:30",
+    "connected_from": "Genesis 25:28"
+  },
+  {
+    "text": "and Esau said to Jacob, Feed me, I pray thee, with that same red pottage; for I am faint: therefore was his name called Edom.",
+    "reference": "Genesis 25:30 (ERV)",
+    "connected_to": "Genesis 25:31",
+    "connected_from": "Genesis 25:29"
+  },
+  {
+    "text": "And Jacob said, Sell me this day thy birthright.",
+    "reference": "Genesis 25:31 (ERV)",
+    "connected_to": "Genesis 25:32",
+    "connected_from": "Genesis 25:30"
+  },
+  {
+    "text": "And Esau said, Behold, I am at the point to die: and what profit shall the birthright do to me?",
+    "reference": "Genesis 25:32 (ERV)",
+    "connected_to": "Genesis 25:33",
+    "connected_from": "Genesis 25:31"
+  },
+  {
+    "text": "And Jacob said, Swear to me this day; and he sware unto him: and he sold his birthright unto Jacob.",
+    "reference": "Genesis 25:33 (ERV)",
+    "connected_to": "Genesis 25:34",
+    "connected_from": "Genesis 25:32"
+  },
+  {
+    "text": "And Jacob gave Esau bread and pottage of lentils; and he did eat and drink, and rose up, and went his way: so Esau despised his birthright.",
+    "reference": "Genesis 25:34 (ERV)",
+    "connected_from": "Genesis 25:33"
+  }
+]

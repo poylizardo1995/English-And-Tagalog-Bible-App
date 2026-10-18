@@ -1,0 +1,36 @@
+[
+  {
+    "text": "And Bildad the Shuhite answered and said,",
+    "reference": "Job 25:1 (DBT)",
+    "connected_to": "Job 25:2"
+  },
+  {
+    "text": "Dominion and fear are with him; he maketh peace in his high places.",
+    "reference": "Job 25:2 (DBT)",
+    "connected_to": "Job 25:3",
+    "connected_from": "Job 25:1"
+  },
+  {
+    "text": "Is there any number of his troops? and upon whom doth not his light arise?",
+    "reference": "Job 25:3 (DBT)",
+    "connected_to": "Job 25:4",
+    "connected_from": "Job 25:2"
+  },
+  {
+    "text": "And how should man be just with God? Or how should he be clean that is born of a woman?",
+    "reference": "Job 25:4 (DBT)",
+    "connected_to": "Job 25:5",
+    "connected_from": "Job 25:3"
+  },
+  {
+    "text": "Lo, even the moon is not bright; and the stars are not pure in his sight:",
+    "reference": "Job 25:5 (DBT)",
+    "connected_to": "Job 25:6",
+    "connected_from": "Job 25:4"
+  },
+  {
+    "text": "How much less man, a worm, and the son of man, a worm!",
+    "reference": "Job 25:6 (DBT)",
+    "connected_from": "Job 25:5"
+  }
+]

@@ -1,0 +1,204 @@
+[
+  {
+    "text": "For the kingdom of heaven is like unto a man that was a householder, who went out early in the morning to hire laborers into his vineyard.",
+    "reference": "Matthew 20:1 (ASV)",
+    "connected_to": "Matthew 20:2"
+  },
+  {
+    "text": "And when he had agreed with the laborers for a shilling a day, he sent them into his vineyard.",
+    "reference": "Matthew 20:2 (ASV)",
+    "connected_to": "Matthew 20:3",
+    "connected_from": "Matthew 20:1"
+  },
+  {
+    "text": "And he went out about the third hour, and saw others standing in the marketplace idle;",
+    "reference": "Matthew 20:3 (ASV)",
+    "connected_to": "Matthew 20:4",
+    "connected_from": "Matthew 20:2"
+  },
+  {
+    "text": "and to them he said, Go ye also into the vineyard, and whatsoever is right I will give you. And they went their way.",
+    "reference": "Matthew 20:4 (ASV)",
+    "connected_to": "Matthew 20:5",
+    "connected_from": "Matthew 20:3"
+  },
+  {
+    "text": "Again he went out about the sixth and the ninth hour, and did likewise.",
+    "reference": "Matthew 20:5 (ASV)",
+    "connected_to": "Matthew 20:6",
+    "connected_from": "Matthew 20:4"
+  },
+  {
+    "text": "And about the eleventh hour he went out, and found others standing; and he saith unto them, Why stand ye here all the day idle?",
+    "reference": "Matthew 20:6 (ASV)",
+    "connected_to": "Matthew 20:7",
+    "connected_from": "Matthew 20:5"
+  },
+  {
+    "text": "They say unto him, Because no man hath hired us. He saith unto them, Go ye also into the vineyard.",
+    "reference": "Matthew 20:7 (ASV)",
+    "connected_to": "Matthew 20:8",
+    "connected_from": "Matthew 20:6"
+  },
+  {
+    "text": "And when even was come, the lord of the vineyard saith unto his steward, Call the laborers, and pay them their hire, beginning from the last unto the first.",
+    "reference": "Matthew 20:8 (ASV)",
+    "connected_to": "Matthew 20:9",
+    "connected_from": "Matthew 20:7"
+  },
+  {
+    "text": "And when they came that were hired about the eleventh hour, they received every man a shilling.",
+    "reference": "Matthew 20:9 (ASV)",
+    "connected_to": "Matthew 20:10",
+    "connected_from": "Matthew 20:8"
+  },
+  {
+    "text": "And when the first came, they supposed that they would receive more; and they likewise received every man a shilling.",
+    "reference": "Matthew 20:10 (ASV)",
+    "connected_to": "Matthew 20:11",
+    "connected_from": "Matthew 20:9"
+  },
+  {
+    "text": "And when they received it, they murmured against the householder,",
+    "reference": "Matthew 20:11 (ASV)",
+    "connected_to": "Matthew 20:12",
+    "connected_from": "Matthew 20:10"
+  },
+  {
+    "text": "saying, These last have spent but one hour, and thou hast made them equal unto us, who have borne the burden of the day and the scorching heat.",
+    "reference": "Matthew 20:12 (ASV)",
+    "connected_to": "Matthew 20:13",
+    "connected_from": "Matthew 20:11"
+  },
+  {
+    "text": "But he answered and said to one of them, Friend, I do thee no wrong: didst not thou agree with me for a shilling?",
+    "reference": "Matthew 20:13 (ASV)",
+    "connected_to": "Matthew 20:14",
+    "connected_from": "Matthew 20:12"
+  },
+  {
+    "text": "Take up that which is thine, and go thy way; it is my will to give unto this last, even as unto thee.",
+    "reference": "Matthew 20:14 (ASV)",
+    "connected_to": "Matthew 20:15",
+    "connected_from": "Matthew 20:13"
+  },
+  {
+    "text": "Is it not lawful for me to do what I will with mine own? or is thine eye evil, because I am good?",
+    "reference": "Matthew 20:15 (ASV)",
+    "connected_to": "Matthew 20:16",
+    "connected_from": "Matthew 20:14"
+  },
+  {
+    "text": "So the last shall be first, and the first last.",
+    "reference": "Matthew 20:16 (ASV)",
+    "connected_to": "Matthew 20:17",
+    "connected_from": "Matthew 20:15"
+  },
+  {
+    "text": "And as Jesus was going up to Jerusalem, he took the twelve disciples apart, and on the way he said unto them,",
+    "reference": "Matthew 20:17 (ASV)",
+    "connected_to": "Matthew 20:18",
+    "connected_from": "Matthew 20:16"
+  },
+  {
+    "text": "Behold, we go up to Jerusalem; and the Son of man shall be delivered unto the chief priests and scribes; and they shall condemn him to death,",
+    "reference": "Matthew 20:18 (ASV)",
+    "connected_to": "Matthew 20:19",
+    "connected_from": "Matthew 20:17"
+  },
+  {
+    "text": "and shall deliver him unto the Gentiles to mock, and to scourge, and to crucify: and the third day he shall be raised up.",
+    "reference": "Matthew 20:19 (ASV)",
+    "connected_to": "Matthew 20:20",
+    "connected_from": "Matthew 20:18"
+  },
+  {
+    "text": "Then came to him the mother of the sons of Zebedee with her sons, worshipping him, and asking a certain thing of him.",
+    "reference": "Matthew 20:20 (ASV)",
+    "connected_to": "Matthew 20:21",
+    "connected_from": "Matthew 20:19"
+  },
+  {
+    "text": "And he said unto her, What wouldest thou? She saith unto him, Command that these my two sons may sit, one on thy right hand, and one on thy left hand, in thy kingdom.",
+    "reference": "Matthew 20:21 (ASV)",
+    "connected_to": "Matthew 20:22",
+    "connected_from": "Matthew 20:20"
+  },
+  {
+    "text": "But Jesus answered and said, Ye know not what ye ask. Are ye able to drink the cup that I am about to drink? They say unto him, We are able.",
+    "reference": "Matthew 20:22 (ASV)",
+    "connected_to": "Matthew 20:23",
+    "connected_from": "Matthew 20:21"
+  },
+  {
+    "text": "He saith unto them, My cup indeed ye shall drink: but to sit on my right hand, and on my left hand, is not mine to give; but it is for them for whom it hath been prepared of my Father.",
+    "reference": "Matthew 20:23 (ASV)",
+    "connected_to": "Matthew 20:24",
+    "connected_from": "Matthew 20:22"
+  },
+  {
+    "text": "And when the ten heard it, they were moved with indignation concerning the two brethren.",
+    "reference": "Matthew 20:24 (ASV)",
+    "connected_to": "Matthew 20:25",
+    "connected_from": "Matthew 20:23"
+  },
+  {
+    "text": "But Jesus called them unto him, and said, Ye know that the rulers of the Gentiles lord it over them, and their great ones exercise authority over them.",
+    "reference": "Matthew 20:25 (ASV)",
+    "connected_to": "Matthew 20:26",
+    "connected_from": "Matthew 20:24"
+  },
+  {
+    "text": "Not so shall it be among you: but whosoever would become great among you shall be your minister;",
+    "reference": "Matthew 20:26 (ASV)",
+    "connected_to": "Matthew 20:27",
+    "connected_from": "Matthew 20:25"
+  },
+  {
+    "text": "and whosoever would be first among you shall be your servant:",
+    "reference": "Matthew 20:27 (ASV)",
+    "connected_to": "Matthew 20:28",
+    "connected_from": "Matthew 20:26"
+  },
+  {
+    "text": "even as the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many.",
+    "reference": "Matthew 20:28 (ASV)",
+    "connected_to": "Matthew 20:29",
+    "connected_from": "Matthew 20:27"
+  },
+  {
+    "text": "And as they went out from Jericho, a great multitude followed him.",
+    "reference": "Matthew 20:29 (ASV)",
+    "connected_to": "Matthew 20:30",
+    "connected_from": "Matthew 20:28"
+  },
+  {
+    "text": "And behold, two blind men sitting by the way side, when they heard that Jesus was passing by, cried out, saying, Lord, have mercy on us, thou son of David.",
+    "reference": "Matthew 20:30 (ASV)",
+    "connected_to": "Matthew 20:31",
+    "connected_from": "Matthew 20:29"
+  },
+  {
+    "text": "And the multitude rebuked them, that they should hold their peace: but they cried out the more, saying, Lord, have mercy on us, thou son of David.",
+    "reference": "Matthew 20:31 (ASV)",
+    "connected_to": "Matthew 20:32",
+    "connected_from": "Matthew 20:30"
+  },
+  {
+    "text": "And Jesus stood still, and called them, and said, What will ye that I should do unto you?",
+    "reference": "Matthew 20:32 (ASV)",
+    "connected_to": "Matthew 20:33",
+    "connected_from": "Matthew 20:31"
+  },
+  {
+    "text": "They say unto him, Lord, that our eyes may be opened.",
+    "reference": "Matthew 20:33 (ASV)",
+    "connected_to": "Matthew 20:34",
+    "connected_from": "Matthew 20:32"
+  },
+  {
+    "text": "And Jesus, being moved with compassion, touched their eyes; and straightway they received their sight, and followed him.",
+    "reference": "Matthew 20:34 (ASV)",
+    "connected_from": "Matthew 20:33"
+  }
+]

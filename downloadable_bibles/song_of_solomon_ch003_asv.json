@@ -1,0 +1,66 @@
+[
+  {
+    "text": "By night on my bed I sought him whom my soul loveth: I sought him, but I found him not.",
+    "reference": "Song of Solomon 3:1 (ASV)",
+    "connected_to": "Song of Solomon 3:2"
+  },
+  {
+    "text": "I said, I will rise now, and go about the city; In the streets and in the broad ways I will seek him whom my soul loveth: I sought him, but I found him not.",
+    "reference": "Song of Solomon 3:2 (ASV)",
+    "connected_to": "Song of Solomon 3:3",
+    "connected_from": "Song of Solomon 3:1"
+  },
+  {
+    "text": "The watchmen that go about the city found me; To whom I said, Saw ye him whom my soul loveth?",
+    "reference": "Song of Solomon 3:3 (ASV)",
+    "connected_to": "Song of Solomon 3:4",
+    "connected_from": "Song of Solomon 3:2"
+  },
+  {
+    "text": "It was but a little that I passed from them, When I found him whom my soul loveth: I held him, and would not let him go, Until I had brought him into my mother’s house, And into the chamber of her that conceived me.",
+    "reference": "Song of Solomon 3:4 (ASV)",
+    "connected_to": "Song of Solomon 3:5",
+    "connected_from": "Song of Solomon 3:3"
+  },
+  {
+    "text": "I adjure you, O daughters of Jerusalem, By the roes, or by the hinds of the field, That ye stir not up, nor awake my love, Until he please.",
+    "reference": "Song of Solomon 3:5 (ASV)",
+    "connected_to": "Song of Solomon 3:6",
+    "connected_from": "Song of Solomon 3:4"
+  },
+  {
+    "text": "Who is this that cometh up from the wilderness Like pillars of smoke, Perfumed with myrrh and frankincense, With all powders of the merchant?",
+    "reference": "Song of Solomon 3:6 (ASV)",
+    "connected_to": "Song of Solomon 3:7",
+    "connected_from": "Song of Solomon 3:5"
+  },
+  {
+    "text": "Behold, it is the litter of Solomon; Threescore mighty men are about it, Of the mighty men of Israel.",
+    "reference": "Song of Solomon 3:7 (ASV)",
+    "connected_to": "Song of Solomon 3:8",
+    "connected_from": "Song of Solomon 3:6"
+  },
+  {
+    "text": "They all handle the sword, and are expert in war: Every man hath his sword upon his thigh, Because of fear in the night.",
+    "reference": "Song of Solomon 3:8 (ASV)",
+    "connected_to": "Song of Solomon 3:9",
+    "connected_from": "Song of Solomon 3:7"
+  },
+  {
+    "text": "King Solomon made himself a palanquin Of the wood of Lebanon.",
+    "reference": "Song of Solomon 3:9 (ASV)",
+    "connected_to": "Song of Solomon 3:10",
+    "connected_from": "Song of Solomon 3:8"
+  },
+  {
+    "text": "He made the pillars thereof of silver, The bottom thereof of gold, the seat of it of purple, The midst thereof being paved with love, From the daughters of Jerusalem.",
+    "reference": "Song of Solomon 3:10 (ASV)",
+    "connected_to": "Song of Solomon 3:11",
+    "connected_from": "Song of Solomon 3:9"
+  },
+  {
+    "text": "Go forth, O ye daughters of Zion, and behold king Solomon, With the crown wherewith his mother hath crowned him In the day of his espousals, And in the day of the gladness of his heart.",
+    "reference": "Song of Solomon 3:11 (ASV)",
+    "connected_from": "Song of Solomon 3:10"
+  }
+]

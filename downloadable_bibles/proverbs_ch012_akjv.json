@@ -1,0 +1,168 @@
+[
+  {
+    "text": "Whoever loves instruction loves knowledge: but he that hates reproof is brutish.",
+    "reference": "Proverbs 12:1 (AKJV)",
+    "connected_to": "Proverbs 12:2"
+  },
+  {
+    "text": "A good man obtains favor of the LORD: but a man of wicked devices will he condemn.",
+    "reference": "Proverbs 12:2 (AKJV)",
+    "connected_to": "Proverbs 12:3",
+    "connected_from": "Proverbs 12:1"
+  },
+  {
+    "text": "A man shall not be established by wickedness: but the root of the righteous shall not be moved.",
+    "reference": "Proverbs 12:3 (AKJV)",
+    "connected_to": "Proverbs 12:4",
+    "connected_from": "Proverbs 12:2"
+  },
+  {
+    "text": "A virtuous woman is a crown to her husband: but she that makes ashamed is as rottenness in his bones.",
+    "reference": "Proverbs 12:4 (AKJV)",
+    "connected_to": "Proverbs 12:5",
+    "connected_from": "Proverbs 12:3"
+  },
+  {
+    "text": "The thoughts of the righteous are right: but the counsels of the wicked are deceit.",
+    "reference": "Proverbs 12:5 (AKJV)",
+    "connected_to": "Proverbs 12:6",
+    "connected_from": "Proverbs 12:4"
+  },
+  {
+    "text": "The words of the wicked are to lie in wait for blood: but the mouth of the upright shall deliver them.",
+    "reference": "Proverbs 12:6 (AKJV)",
+    "connected_to": "Proverbs 12:7",
+    "connected_from": "Proverbs 12:5"
+  },
+  {
+    "text": "The wicked are overthrown, and are not: but the house of the righteous shall stand.",
+    "reference": "Proverbs 12:7 (AKJV)",
+    "connected_to": "Proverbs 12:8",
+    "connected_from": "Proverbs 12:6"
+  },
+  {
+    "text": "A man shall be commended according to his wisdom: but he that is of a perverse heart shall be despised.",
+    "reference": "Proverbs 12:8 (AKJV)",
+    "connected_to": "Proverbs 12:9",
+    "connected_from": "Proverbs 12:7"
+  },
+  {
+    "text": "He that is despised, and has a servant, is better than he that honors himself, and lacks bread.",
+    "reference": "Proverbs 12:9 (AKJV)",
+    "connected_to": "Proverbs 12:10",
+    "connected_from": "Proverbs 12:8"
+  },
+  {
+    "text": "A righteous man regards the life of his beast: but the tender mercies of the wicked are cruel.",
+    "reference": "Proverbs 12:10 (AKJV)",
+    "connected_to": "Proverbs 12:11",
+    "connected_from": "Proverbs 12:9"
+  },
+  {
+    "text": "He that tills his land shall be satisfied with bread: but he that follows vain persons is void of understanding.",
+    "reference": "Proverbs 12:11 (AKJV)",
+    "connected_to": "Proverbs 12:12",
+    "connected_from": "Proverbs 12:10"
+  },
+  {
+    "text": "The wicked desires the net of evil men: but the root of the righteous yields fruit.",
+    "reference": "Proverbs 12:12 (AKJV)",
+    "connected_to": "Proverbs 12:13",
+    "connected_from": "Proverbs 12:11"
+  },
+  {
+    "text": "The wicked is snared by the transgression of his lips: but the just shall come out of trouble.",
+    "reference": "Proverbs 12:13 (AKJV)",
+    "connected_to": "Proverbs 12:14",
+    "connected_from": "Proverbs 12:12"
+  },
+  {
+    "text": "A man shall be satisfied with good by the fruit of his mouth: and the recompense of a man’s hands shall be rendered to him.",
+    "reference": "Proverbs 12:14 (AKJV)",
+    "connected_to": "Proverbs 12:15",
+    "connected_from": "Proverbs 12:13"
+  },
+  {
+    "text": "The way of a fool is right in his own eyes: but he that listens to counsel is wise.",
+    "reference": "Proverbs 12:15 (AKJV)",
+    "connected_to": "Proverbs 12:16",
+    "connected_from": "Proverbs 12:14"
+  },
+  {
+    "text": "A fool’s wrath is presently known: but a prudent man covers shame.",
+    "reference": "Proverbs 12:16 (AKJV)",
+    "connected_to": "Proverbs 12:17",
+    "connected_from": "Proverbs 12:15"
+  },
+  {
+    "text": "He that speaks truth shows forth righteousness: but a false witness deceit.",
+    "reference": "Proverbs 12:17 (AKJV)",
+    "connected_to": "Proverbs 12:18",
+    "connected_from": "Proverbs 12:16"
+  },
+  {
+    "text": "There is that speaks like the piercings of a sword: but the tongue of the wise is health.",
+    "reference": "Proverbs 12:18 (AKJV)",
+    "connected_to": "Proverbs 12:19",
+    "connected_from": "Proverbs 12:17"
+  },
+  {
+    "text": "The lip of truth shall be established for ever: but a lying tongue is but for a moment.",
+    "reference": "Proverbs 12:19 (AKJV)",
+    "connected_to": "Proverbs 12:20",
+    "connected_from": "Proverbs 12:18"
+  },
+  {
+    "text": "Deceit is in the heart of them that imagine evil: but to the counsellors of peace is joy.",
+    "reference": "Proverbs 12:20 (AKJV)",
+    "connected_to": "Proverbs 12:21",
+    "connected_from": "Proverbs 12:19"
+  },
+  {
+    "text": "There shall no evil happen to the just: but the wicked shall be filled with mischief.",
+    "reference": "Proverbs 12:21 (AKJV)",
+    "connected_to": "Proverbs 12:22",
+    "connected_from": "Proverbs 12:20"
+  },
+  {
+    "text": "Lying lips are abomination to the LORD: but they that deal truly are his delight.",
+    "reference": "Proverbs 12:22 (AKJV)",
+    "connected_to": "Proverbs 12:23",
+    "connected_from": "Proverbs 12:21"
+  },
+  {
+    "text": "A prudent man conceals knowledge: but the heart of fools proclaims foolishness.",
+    "reference": "Proverbs 12:23 (AKJV)",
+    "connected_to": "Proverbs 12:24",
+    "connected_from": "Proverbs 12:22"
+  },
+  {
+    "text": "The hand of the diligent shall bear rule: but the slothful shall be under tribute.",
+    "reference": "Proverbs 12:24 (AKJV)",
+    "connected_to": "Proverbs 12:25",
+    "connected_from": "Proverbs 12:23"
+  },
+  {
+    "text": "Heaviness in the heart of man makes it stoop: but a good word makes it glad.",
+    "reference": "Proverbs 12:25 (AKJV)",
+    "connected_to": "Proverbs 12:26",
+    "connected_from": "Proverbs 12:24"
+  },
+  {
+    "text": "The righteous is more excellent than his neighbor: but the way of the wicked seduces them.",
+    "reference": "Proverbs 12:26 (AKJV)",
+    "connected_to": "Proverbs 12:27",
+    "connected_from": "Proverbs 12:25"
+  },
+  {
+    "text": "The slothful man roasts not that which he took in hunting: but the substance of a diligent man is precious.",
+    "reference": "Proverbs 12:27 (AKJV)",
+    "connected_to": "Proverbs 12:28",
+    "connected_from": "Proverbs 12:26"
+  },
+  {
+    "text": "In the way of righteousness is life: and in the pathway thereof there is no death.",
+    "reference": "Proverbs 12:28 (AKJV)",
+    "connected_from": "Proverbs 12:27"
+  }
+]

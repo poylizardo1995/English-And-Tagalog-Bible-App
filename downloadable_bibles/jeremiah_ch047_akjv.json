@@ -1,0 +1,42 @@
+[
+  {
+    "text": "The word of the LORD that came to Jeremiah the prophet against the Philistines, before that Pharaoh smote Gaza.",
+    "reference": "Jeremiah 47:1 (AKJV)",
+    "connected_to": "Jeremiah 47:2"
+  },
+  {
+    "text": "Thus said the LORD; Behold, waters rise up out of the north, and shall be an overflowing flood, and shall overflow the land, and all that is therein; the city, and them that dwell therein: then the men shall cry, and all the inhabitants of the land shall howl.",
+    "reference": "Jeremiah 47:2 (AKJV)",
+    "connected_to": "Jeremiah 47:3",
+    "connected_from": "Jeremiah 47:1"
+  },
+  {
+    "text": "At the noise of the stamping of the hoofs of his strong horses, at the rushing of his chariots, and at the rumbling of his wheels, the fathers shall not look back to their children for feebleness of hands;",
+    "reference": "Jeremiah 47:3 (AKJV)",
+    "connected_to": "Jeremiah 47:4",
+    "connected_from": "Jeremiah 47:2"
+  },
+  {
+    "text": "Because of the day that comes to spoil all the Philistines, and to cut off from Tyrus and Zidon every helper that remains: for the LORD will spoil the Philistines, the remnant of the country of Caphtor.",
+    "reference": "Jeremiah 47:4 (AKJV)",
+    "connected_to": "Jeremiah 47:5",
+    "connected_from": "Jeremiah 47:3"
+  },
+  {
+    "text": "Baldness is come on Gaza; Ashkelon is cut off with the remnant of their valley: how long will you cut yourself?",
+    "reference": "Jeremiah 47:5 (AKJV)",
+    "connected_to": "Jeremiah 47:6",
+    "connected_from": "Jeremiah 47:4"
+  },
+  {
+    "text": "O you sword of the LORD, how long will it be ere you be quiet? put up yourself into your scabbard, rest, and be still.",
+    "reference": "Jeremiah 47:6 (AKJV)",
+    "connected_to": "Jeremiah 47:7",
+    "connected_from": "Jeremiah 47:5"
+  },
+  {
+    "text": "How can it be quiet, seeing the LORD has given it a charge against Ashkelon, and against the sea shore? there has he appointed it.",
+    "reference": "Jeremiah 47:7 (AKJV)",
+    "connected_from": "Jeremiah 47:6"
+  }
+]

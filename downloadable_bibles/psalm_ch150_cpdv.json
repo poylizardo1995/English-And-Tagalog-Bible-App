@@ -1,0 +1,36 @@
+[
+  {
+    "text": "Alleluia. Praise the Lord in his holy places. Praise him in the firmament of his power.",
+    "reference": "Psalm 150:1 (CPDV)",
+    "connected_to": "Psalm 150:2"
+  },
+  {
+    "text": "Praise him for his virtues. Praise him according to the multitude of his greatness.",
+    "reference": "Psalm 150:2 (CPDV)",
+    "connected_to": "Psalm 150:3",
+    "connected_from": "Psalm 150:1"
+  },
+  {
+    "text": "Praise him with the sound of the trumpet. Praise him with psaltery and stringed instrument.",
+    "reference": "Psalm 150:3 (CPDV)",
+    "connected_to": "Psalm 150:4",
+    "connected_from": "Psalm 150:2"
+  },
+  {
+    "text": "Praise him with timbrel and choir. Praise him with strings and organ.",
+    "reference": "Psalm 150:4 (CPDV)",
+    "connected_to": "Psalm 150:5",
+    "connected_from": "Psalm 150:3"
+  },
+  {
+    "text": "Praise him with sweet-sounding cymbals. Praise him with cymbals of jubilation.",
+    "reference": "Psalm 150:5 (CPDV)",
+    "connected_to": "Psalm 150:6",
+    "connected_from": "Psalm 150:4"
+  },
+  {
+    "text": "Let every spirit praise the Lord. Alleluia.",
+    "reference": "Psalm 150:6 (CPDV)",
+    "connected_from": "Psalm 150:5"
+  }
+]

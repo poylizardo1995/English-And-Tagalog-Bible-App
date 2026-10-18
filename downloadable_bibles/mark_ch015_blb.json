@@ -1,0 +1,275 @@
+[
+  {
+    "text": "And early in the morning, having formed a counsel, the chief priests, with the elders and scribes and the whole Council, having bound Jesus, led [Him] away and delivered [Him] to Pilate.",
+    "reference": "Mark 15:1 (BLB)",
+    "connected_to": "Mark 15:2"
+  },
+  {
+    "text": "And Pilate questioned Him, “Are You the King of the Jews?” And answering, He says to him, “You say.”",
+    "reference": "Mark 15:2 (BLB)",
+    "connected_to": "Mark 15:3",
+    "connected_from": "Mark 15:1"
+  },
+  {
+    "text": "And the chief priests were accusing Him harshly.",
+    "reference": "Mark 15:3 (BLB)",
+    "connected_to": "Mark 15:4",
+    "connected_from": "Mark 15:2"
+  },
+  {
+    "text": "And Pilate began to question Him again, saying, “Do You not answer? See how many things they are accusing You of!”",
+    "reference": "Mark 15:4 (BLB)",
+    "connected_to": "Mark 15:5",
+    "connected_from": "Mark 15:3"
+  },
+  {
+    "text": "But Jesus answered no more, so as to amaze Pilate.",
+    "reference": "Mark 15:5 (BLB)",
+    "connected_to": "Mark 15:6",
+    "connected_from": "Mark 15:4"
+  },
+  {
+    "text": "Now at the feast he would release to them one prisoner whom they requested.",
+    "reference": "Mark 15:6 (BLB)",
+    "connected_to": "Mark 15:7",
+    "connected_from": "Mark 15:5"
+  },
+  {
+    "text": "And the one called Barabbas was there, having been bound with the rebels who had committed murder in the insurrection.",
+    "reference": "Mark 15:7 (BLB)",
+    "connected_to": "Mark 15:8",
+    "connected_from": "Mark 15:6"
+  },
+  {
+    "text": "And the crowd, having gone up, began to request [that which] he usually did for them.",
+    "reference": "Mark 15:8 (BLB)",
+    "connected_to": "Mark 15:9",
+    "connected_from": "Mark 15:7"
+  },
+  {
+    "text": "But Pilate answered them, saying, “Do you⁺ desire [that] I should release to you⁺ the King of the Jews?”",
+    "reference": "Mark 15:9 (BLB)",
+    "connected_to": "Mark 15:10",
+    "connected_from": "Mark 15:8"
+  },
+  {
+    "text": "For he was aware that the chief priests had delivered Him up because of envy.",
+    "reference": "Mark 15:10 (BLB)",
+    "connected_to": "Mark 15:11",
+    "connected_from": "Mark 15:9"
+  },
+  {
+    "text": "But the chief priests stirred up the crowd so that he might release to them Barabbas instead.",
+    "reference": "Mark 15:11 (BLB)",
+    "connected_to": "Mark 15:12",
+    "connected_from": "Mark 15:10"
+  },
+  {
+    "text": "And Pilate, answering, was saying to them again, “Then what do you⁺ desire [that] I should do with the One whom you⁺ call the King of the Jews?”",
+    "reference": "Mark 15:12 (BLB)",
+    "connected_to": "Mark 15:13",
+    "connected_from": "Mark 15:11"
+  },
+  {
+    "text": "And they cried out again, “Crucify Him!”",
+    "reference": "Mark 15:13 (BLB)",
+    "connected_to": "Mark 15:14",
+    "connected_from": "Mark 15:12"
+  },
+  {
+    "text": "And Pilate was saying to them, “Why? What evil did He commit?” But they shouted much more, “Crucify Him!”",
+    "reference": "Mark 15:14 (BLB)",
+    "connected_to": "Mark 15:15",
+    "connected_from": "Mark 15:13"
+  },
+  {
+    "text": "And Pilate, desiring to do that which [was] satisfactory to the crowd, released Barabbas to them. And having flogged [Him], he delivered up Jesus so that He might be crucified.",
+    "reference": "Mark 15:15 (BLB)",
+    "connected_to": "Mark 15:16",
+    "connected_from": "Mark 15:14"
+  },
+  {
+    "text": "And the soldiers led Him away into the palace (that is, the Praetorium), and they call together the whole cohort.",
+    "reference": "Mark 15:16 (BLB)",
+    "connected_to": "Mark 15:17",
+    "connected_from": "Mark 15:15"
+  },
+  {
+    "text": "And they put on Him purple, and having twisted together a crown of thorns, they placed [it] on Him.",
+    "reference": "Mark 15:17 (BLB)",
+    "connected_to": "Mark 15:18",
+    "connected_from": "Mark 15:16"
+  },
+  {
+    "text": "And they began to salute Him: “Hail, King of the Jews!”",
+    "reference": "Mark 15:18 (BLB)",
+    "connected_to": "Mark 15:19",
+    "connected_from": "Mark 15:17"
+  },
+  {
+    "text": "And they kept striking His head with a reed and spitting on Him. And bending the knees, they were kneeling down to Him.",
+    "reference": "Mark 15:19 (BLB)",
+    "connected_to": "Mark 15:20",
+    "connected_from": "Mark 15:18"
+  },
+  {
+    "text": "And when they had mocked Him, they took off of Him the purple and put on Him His own garments. And they are leading Him out so that they might crucify Him.",
+    "reference": "Mark 15:20 (BLB)",
+    "connected_to": "Mark 15:21",
+    "connected_from": "Mark 15:19"
+  },
+  {
+    "text": "And they compel one passing by, Simon of Cyrene, the father of Alexander and Rufus, coming from the country, that he might carry His cross.",
+    "reference": "Mark 15:21 (BLB)",
+    "connected_to": "Mark 15:22",
+    "connected_from": "Mark 15:20"
+  },
+  {
+    "text": "And they bring Him to a place, Golgotha, which is translated, Place of a Skull.",
+    "reference": "Mark 15:22 (BLB)",
+    "connected_to": "Mark 15:23",
+    "connected_from": "Mark 15:21"
+  },
+  {
+    "text": "And they were offering Him wine having been mixed with gall, but He did not take [it].",
+    "reference": "Mark 15:23 (BLB)",
+    "connected_to": "Mark 15:24",
+    "connected_from": "Mark 15:22"
+  },
+  {
+    "text": "And they crucify Him. And they divide His garments, casting a lot for them, who should take what.",
+    "reference": "Mark 15:24 (BLB)",
+    "connected_to": "Mark 15:25",
+    "connected_from": "Mark 15:23"
+  },
+  {
+    "text": "And it was the third hour, and they crucified Him.",
+    "reference": "Mark 15:25 (BLB)",
+    "connected_to": "Mark 15:26",
+    "connected_from": "Mark 15:24"
+  },
+  {
+    "text": "And there was the inscription of the accusation against Him, having been written: THE KING OF THE JEWS.",
+    "reference": "Mark 15:26 (BLB)",
+    "connected_to": "Mark 15:27",
+    "connected_from": "Mark 15:25"
+  },
+  {
+    "text": "And with Him they crucify two robbers, one at [His] right hand and one at His left.",
+    "reference": "Mark 15:27 (BLB)",
+    "connected_to": "Mark 15:28",
+    "connected_from": "Mark 15:26"
+  },
+  {
+    "text": "And those passing by were railing at Him, shaking their heads and saying, “Aha! The One demolishing the temple and building [it] in three days,",
+    "reference": "Mark 15:29 (BLB)",
+    "connected_to": "Mark 15:30",
+    "connected_from": "Mark 15:28"
+  },
+  {
+    "text": "save Yourself, having come down from the cross!”",
+    "reference": "Mark 15:30 (BLB)",
+    "connected_to": "Mark 15:31",
+    "connected_from": "Mark 15:29"
+  },
+  {
+    "text": "Likewise also the chief priests, with the scribes, mocking among one another, were saying, “He saved others; Himself He is not able to save!",
+    "reference": "Mark 15:31 (BLB)",
+    "connected_to": "Mark 15:32",
+    "connected_from": "Mark 15:30"
+  },
+  {
+    "text": "The Christ, the King of Israel, let Him come down now from the cross, that we might see and believe!” And those being crucified with Him were upbraiding Him.",
+    "reference": "Mark 15:32 (BLB)",
+    "connected_to": "Mark 15:33",
+    "connected_from": "Mark 15:31"
+  },
+  {
+    "text": "And the sixth hour having come, darkness came over all the land until the ninth hour.",
+    "reference": "Mark 15:33 (BLB)",
+    "connected_to": "Mark 15:34",
+    "connected_from": "Mark 15:32"
+  },
+  {
+    "text": "And at the ninth hour, Jesus cried out in a loud voice, “Eloi, Eloi, lema sabachthani?” which is translated, “My God, My God, why did You forsake Me?”",
+    "reference": "Mark 15:34 (BLB)",
+    "connected_to": "Mark 15:35",
+    "connected_from": "Mark 15:33"
+  },
+  {
+    "text": "And some of those standing by, having heard, were saying, “Behold, He calls Elijah.”",
+    "reference": "Mark 15:35 (BLB)",
+    "connected_to": "Mark 15:36",
+    "connected_from": "Mark 15:34"
+  },
+  {
+    "text": "And one, having run and having filled a sponge with vinegar, having put [it] on a reed, gave Him to drink, saying, “Let [Him] be; let us see if Elijah comes to take Him down.”",
+    "reference": "Mark 15:36 (BLB)",
+    "connected_to": "Mark 15:37",
+    "connected_from": "Mark 15:35"
+  },
+  {
+    "text": "But Jesus, having uttered a great cry, breathed His last.",
+    "reference": "Mark 15:37 (BLB)",
+    "connected_to": "Mark 15:38",
+    "connected_from": "Mark 15:36"
+  },
+  {
+    "text": "And the veil of the temple was torn into two from top to bottom.",
+    "reference": "Mark 15:38 (BLB)",
+    "connected_to": "Mark 15:39",
+    "connected_from": "Mark 15:37"
+  },
+  {
+    "text": "And the centurion standing opposite of Him, having seen that in this way He breathed His last, said, “Truly this man was the Son of God!”",
+    "reference": "Mark 15:39 (BLB)",
+    "connected_to": "Mark 15:40",
+    "connected_from": "Mark 15:38"
+  },
+  {
+    "text": "And there were also women looking on from afar off, among whom also [were] Mary Magdalene, and Mary the mother of James the less and of Joses, and Salome,",
+    "reference": "Mark 15:40 (BLB)",
+    "connected_to": "Mark 15:41",
+    "connected_from": "Mark 15:39"
+  },
+  {
+    "text": "who had been following Him and had been ministering to Him when He was in Galilee, and many others, those having come up with Him to Jerusalem.",
+    "reference": "Mark 15:41 (BLB)",
+    "connected_to": "Mark 15:42",
+    "connected_from": "Mark 15:40"
+  },
+  {
+    "text": "And evening already having come, since it was the Preparation (that is, the day before the Sabbath),",
+    "reference": "Mark 15:42 (BLB)",
+    "connected_to": "Mark 15:43",
+    "connected_from": "Mark 15:41"
+  },
+  {
+    "text": "having come, Joseph from Arimathea, a prominent Council member who was also himself waiting for the kingdom of God, having boldness, went in to Pilate and asked for the body of Jesus.",
+    "reference": "Mark 15:43 (BLB)",
+    "connected_to": "Mark 15:44",
+    "connected_from": "Mark 15:42"
+  },
+  {
+    "text": "And Pilate wondered if already He was dead. And having summoned the centurion, he inquired of him whether He was dead already.",
+    "reference": "Mark 15:44 (BLB)",
+    "connected_to": "Mark 15:45",
+    "connected_from": "Mark 15:43"
+  },
+  {
+    "text": "And having known from the centurion, he granted the body to Joseph.",
+    "reference": "Mark 15:45 (BLB)",
+    "connected_to": "Mark 15:46",
+    "connected_from": "Mark 15:44"
+  },
+  {
+    "text": "And having bought a linen cloth, having taken Him down, he wrapped [Him] in the linen cloth and laid Him in a tomb that was cut out of a rock. And he rolled a stone to the door of the tomb.",
+    "reference": "Mark 15:46 (BLB)",
+    "connected_from": "Mark 15:45"
+  },
+  {
+    "text": "And Mary Magdalene and Mary the [mother] of Joses were watching where He was laid.",
+    "reference": "Mark 15:47 (BLB)",
+    "connected_from": "Mark 15:46"
+  }
+]

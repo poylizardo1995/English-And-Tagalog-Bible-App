@@ -1,0 +1,84 @@
+[
+  {
+    "text": "Now the Philistines were fighting against Israel, and the men of Israel fled from the Philistines, and they fell down wounded on mount Gilboa.",
+    "reference": "1 Chronicles 10:1 (CPDV)",
+    "connected_to": "1 Chronicles 10:2"
+  },
+  {
+    "text": "And when the Philistines had draw near, pursuing Saul and his sons, they struck down Jonathan, and Abinadab, and Malchishua, the sons of Saul.",
+    "reference": "1 Chronicles 10:2 (CPDV)",
+    "connected_to": "1 Chronicles 10:3",
+    "connected_from": "1 Chronicles 10:1"
+  },
+  {
+    "text": "And the battle grew heavy against Saul. And the archers found him, and they wounded him with arrows.",
+    "reference": "1 Chronicles 10:3 (CPDV)",
+    "connected_to": "1 Chronicles 10:4",
+    "connected_from": "1 Chronicles 10:2"
+  },
+  {
+    "text": "And Saul said to his armor bearer: “Unsheathe your sword and kill me. Otherwise, these uncircumcised men may arrive and mock me.” But his armor bearer was not willing, having been struck with fear. And so, Saul took hold of his sword, and he fell upon it.",
+    "reference": "1 Chronicles 10:4 (CPDV)",
+    "connected_to": "1 Chronicles 10:5",
+    "connected_from": "1 Chronicles 10:3"
+  },
+  {
+    "text": "And when his armor bearer had seen this, specifically, that Saul was dead, he now fell on his sword also, and he died.",
+    "reference": "1 Chronicles 10:5 (CPDV)",
+    "connected_to": "1 Chronicles 10:6",
+    "connected_from": "1 Chronicles 10:4"
+  },
+  {
+    "text": "Therefore, Saul died, and his three sons passed away, and his entire house fell, together.",
+    "reference": "1 Chronicles 10:6 (CPDV)",
+    "connected_to": "1 Chronicles 10:7",
+    "connected_from": "1 Chronicles 10:5"
+  },
+  {
+    "text": "And when the men of Israel who were living in the plains had seen this, they fled. And since Saul and his sons were dead, they abandoned their cities and were dispersed, here and there. And the Philistines arrived and lived among them.",
+    "reference": "1 Chronicles 10:7 (CPDV)",
+    "connected_to": "1 Chronicles 10:8",
+    "connected_from": "1 Chronicles 10:6"
+  },
+  {
+    "text": "Then, on the next day, when the Philistines were taking away the spoils of the slain, they found Saul and his sons, lying on mount Gilboa.",
+    "reference": "1 Chronicles 10:8 (CPDV)",
+    "connected_to": "1 Chronicles 10:9",
+    "connected_from": "1 Chronicles 10:7"
+  },
+  {
+    "text": "And when they had despoiled him, and had cut off his head, and had stripped his armor, they sent these things into their land, so that they would be carried around and displayed in the temples of the idols and to the people.",
+    "reference": "1 Chronicles 10:9 (CPDV)",
+    "connected_to": "1 Chronicles 10:10",
+    "connected_from": "1 Chronicles 10:8"
+  },
+  {
+    "text": "But his armor they consecrated in the shrine of their god, and his head they affixed in the temple of Dagon.",
+    "reference": "1 Chronicles 10:10 (CPDV)",
+    "connected_to": "1 Chronicles 10:11",
+    "connected_from": "1 Chronicles 10:9"
+  },
+  {
+    "text": "When the men of Jabesh Gilead had heard this, specifically, all that the Philistines had done concerning Saul,",
+    "reference": "1 Chronicles 10:11 (CPDV)",
+    "connected_to": "1 Chronicles 10:12",
+    "connected_from": "1 Chronicles 10:10"
+  },
+  {
+    "text": "each one of the valiant men rose up, and they took the bodies of Saul and of his sons. And they brought them to Jabesh. And they buried their bones under the oak that was in Jabesh. And they fasted for seven days.",
+    "reference": "1 Chronicles 10:12 (CPDV)",
+    "connected_to": "1 Chronicles 10:13",
+    "connected_from": "1 Chronicles 10:11"
+  },
+  {
+    "text": "Thus did Saul die for his iniquities, because he betrayed the commandment of the Lord which he had instructed, and did not keep it. And moreover, he even consulted a woman diviner;",
+    "reference": "1 Chronicles 10:13 (CPDV)",
+    "connected_to": "1 Chronicles 10:14",
+    "connected_from": "1 Chronicles 10:12"
+  },
+  {
+    "text": "for he did not trust in the Lord. Because of this, he caused his death, and he transferred his kingdom to David, the son of Jesse.",
+    "reference": "1 Chronicles 10:14 (CPDV)",
+    "connected_from": "1 Chronicles 10:13"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "text": "The burden of the desert of the sea. As whirlwinds in the south pass through, so it cometh from the desert, from a terrible land.",
+    "reference": "Isaiah 21:1 (DBT)",
+    "connected_to": "Isaiah 21:2"
+  },
+  {
+    "text": "A grievous vision is declared unto me: the treacherous dealeth treacherously, and the spoiler spoileth. Go up, Elam! besiege, Media! All the sighing thereof have I made to cease.",
+    "reference": "Isaiah 21:2 (DBT)",
+    "connected_to": "Isaiah 21:3",
+    "connected_from": "Isaiah 21:1"
+  },
+  {
+    "text": "Therefore are my loins filled with pain; anguish hath taken hold upon me, as the anguish of a woman in travail: I am bowed down so as not to hear, I am dismayed so as not to see.",
+    "reference": "Isaiah 21:3 (DBT)",
+    "connected_to": "Isaiah 21:4",
+    "connected_from": "Isaiah 21:2"
+  },
+  {
+    "text": "My heart panteth, horror affrighteth me: the night of my pleasure hath he turned into trembling unto me.",
+    "reference": "Isaiah 21:4 (DBT)",
+    "connected_to": "Isaiah 21:5",
+    "connected_from": "Isaiah 21:3"
+  },
+  {
+    "text": "Prepare the table, appoint the watch; eat, drink: arise, ye princes, anoint the shield.",
+    "reference": "Isaiah 21:5 (DBT)",
+    "connected_to": "Isaiah 21:6",
+    "connected_from": "Isaiah 21:4"
+  },
+  {
+    "text": "For thus hath the Lord said unto me: Go, set a watchman, let him declare what he seeth.",
+    "reference": "Isaiah 21:6 (DBT)",
+    "connected_to": "Isaiah 21:7",
+    "connected_from": "Isaiah 21:5"
+  },
+  {
+    "text": "And he saw chariots, horsemen by pairs, a chariot with asses, a chariot with camels; and he hearkened diligently with much heed.",
+    "reference": "Isaiah 21:7 (DBT)",
+    "connected_to": "Isaiah 21:8",
+    "connected_from": "Isaiah 21:6"
+  },
+  {
+    "text": "And he cried [as] a lion, Lord, I stand continually upon the watchtower in the daytime, and I am set in my ward whole nights.",
+    "reference": "Isaiah 21:8 (DBT)",
+    "connected_to": "Isaiah 21:9",
+    "connected_from": "Isaiah 21:7"
+  },
+  {
+    "text": "—And behold, there cometh a chariot of men; horsemen by pairs. And he answered and said, Babylon is fallen, is fallen; and all the graven images of her gods he hath broken unto the ground.",
+    "reference": "Isaiah 21:9 (DBT)",
+    "connected_to": "Isaiah 21:10",
+    "connected_from": "Isaiah 21:8"
+  },
+  {
+    "text": "O my threshing, and the corn of my floor! What I have heard of Jehovah of hosts, the God of Israel, have I declared unto you.",
+    "reference": "Isaiah 21:10 (DBT)",
+    "connected_to": "Isaiah 21:11",
+    "connected_from": "Isaiah 21:9"
+  },
+  {
+    "text": "The burden of Dumah. He calleth to me out of Seir, Watchman, what of the night? Watchman, what of the night?",
+    "reference": "Isaiah 21:11 (DBT)",
+    "connected_to": "Isaiah 21:12",
+    "connected_from": "Isaiah 21:10"
+  },
+  {
+    "text": "The watchman said, The morning cometh, and also the night: if ye will inquire, inquire; return, come.",
+    "reference": "Isaiah 21:12 (DBT)",
+    "connected_to": "Isaiah 21:13",
+    "connected_from": "Isaiah 21:11"
+  },
+  {
+    "text": "The burden against Arabia. In the forest of Arabia shall ye lodge, [ye] caravans of Dedanites.",
+    "reference": "Isaiah 21:13 (DBT)",
+    "connected_to": "Isaiah 21:14",
+    "connected_from": "Isaiah 21:12"
+  },
+  {
+    "text": "Bring ye water to meet the thirsty! The inhabitants of the land of Tema come forth with their bread for him that fleeth.",
+    "reference": "Isaiah 21:14 (DBT)",
+    "connected_to": "Isaiah 21:15",
+    "connected_from": "Isaiah 21:13"
+  },
+  {
+    "text": "For they flee from the swords, from the drawn sword, and from the bent bow, and from the grievousness of war.",
+    "reference": "Isaiah 21:15 (DBT)",
+    "connected_to": "Isaiah 21:16",
+    "connected_from": "Isaiah 21:14"
+  },
+  {
+    "text": "For thus hath the Lord said unto me: Within a year, according to the years of a hired servant, and all the glory of Kedar shall fail;",
+    "reference": "Isaiah 21:16 (DBT)",
+    "connected_to": "Isaiah 21:17",
+    "connected_from": "Isaiah 21:15"
+  },
+  {
+    "text": "and the residue of the number of the archers, the mighty men of the sons of Kedar, shall be diminished: for Jehovah, the God of Israel, hath spoken.",
+    "reference": "Isaiah 21:17 (DBT)",
+    "connected_from": "Isaiah 21:16"
+  }
+]

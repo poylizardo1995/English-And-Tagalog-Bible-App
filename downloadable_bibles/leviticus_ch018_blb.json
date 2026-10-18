@@ -1,0 +1,180 @@
+[
+  {
+    "text": "And YHWH spoke to Moses, saying,",
+    "reference": "Leviticus 18:1 (BLB)",
+    "connected_to": "Leviticus 18:2"
+  },
+  {
+    "text": "“Speak to the sons of Israel, and you shall say to them: I [am] YHWH your⁺ God.",
+    "reference": "Leviticus 18:2 (BLB)",
+    "connected_to": "Leviticus 18:3",
+    "connected_from": "Leviticus 18:1"
+  },
+  {
+    "text": "You⁺ shall not do according to the work of the land of Egypt in which you⁺ dwelt, and according to the work of the land of Canaan where I am bringing you⁺, you⁺ shall not do, and in their statutes you⁺ shall not walk.",
+    "reference": "Leviticus 18:3 (BLB)",
+    "connected_to": "Leviticus 18:4",
+    "connected_from": "Leviticus 18:2"
+  },
+  {
+    "text": "You⁺ shall do My judgments, and you⁺ shall keep My statutes, to walk in them. I [am] YHWH your⁺ God.",
+    "reference": "Leviticus 18:4 (BLB)",
+    "connected_to": "Leviticus 18:5",
+    "connected_from": "Leviticus 18:3"
+  },
+  {
+    "text": "And you⁺ shall keep My statutes and My judgments, which the man shall do them, and he shall live by them. I [am] YHWH.",
+    "reference": "Leviticus 18:5 (BLB)",
+    "connected_to": "Leviticus 18:6",
+    "connected_from": "Leviticus 18:4"
+  },
+  {
+    "text": "Any man shall not draw near to any close relative of his flesh to uncover nakedness. I [am] YHWH.",
+    "reference": "Leviticus 18:6 (BLB)",
+    "connected_to": "Leviticus 18:7",
+    "connected_from": "Leviticus 18:5"
+  },
+  {
+    "text": "The nakedness of your father and the nakedness of your mother you shall not uncover. She [is] your mother; you shall not uncover her nakedness.",
+    "reference": "Leviticus 18:7 (BLB)",
+    "connected_to": "Leviticus 18:8",
+    "connected_from": "Leviticus 18:6"
+  },
+  {
+    "text": "The nakedness of the wife of your father you shall not uncover; it [is] the nakedness of your father.",
+    "reference": "Leviticus 18:8 (BLB)",
+    "connected_to": "Leviticus 18:9",
+    "connected_from": "Leviticus 18:7"
+  },
+  {
+    "text": "The nakedness of your sister the daughter of your father or the daughter of your mother born [at] home or born outside [it], you shall not uncover their nakedness.",
+    "reference": "Leviticus 18:9 (BLB)",
+    "connected_to": "Leviticus 18:10",
+    "connected_from": "Leviticus 18:8"
+  },
+  {
+    "text": "The nakedness of the daughter of your son or of the daughter of your daughter—you shall not uncover their nakedness; for they [are] your own nakedness.",
+    "reference": "Leviticus 18:10 (BLB)",
+    "connected_to": "Leviticus 18:11",
+    "connected_from": "Leviticus 18:9"
+  },
+  {
+    "text": "The nakedness of the daughter of the wife of your father, begotten of your father—she [is] your sister—you shall not uncover her nakedness.",
+    "reference": "Leviticus 18:11 (BLB)",
+    "connected_to": "Leviticus 18:12",
+    "connected_from": "Leviticus 18:10"
+  },
+  {
+    "text": "The nakedness of the sister of your father you shall not uncover; she [is] a close relative of your father.",
+    "reference": "Leviticus 18:12 (BLB)",
+    "connected_to": "Leviticus 18:13",
+    "connected_from": "Leviticus 18:11"
+  },
+  {
+    "text": "The nakedness of the sister of your mother you shall not uncover, for she [is] a close relative of your mother.",
+    "reference": "Leviticus 18:13 (BLB)",
+    "connected_to": "Leviticus 18:14",
+    "connected_from": "Leviticus 18:12"
+  },
+  {
+    "text": "The nakedness of the brother of your father you shall not uncover. To his wife you shall not draw near; she [is] your aunt.",
+    "reference": "Leviticus 18:14 (BLB)",
+    "connected_to": "Leviticus 18:15",
+    "connected_from": "Leviticus 18:13"
+  },
+  {
+    "text": "The nakedness of your daughter-in-law you shall not uncover; she [is] the wife of your son. You shall not uncover her nakedness.",
+    "reference": "Leviticus 18:15 (BLB)",
+    "connected_to": "Leviticus 18:16",
+    "connected_from": "Leviticus 18:14"
+  },
+  {
+    "text": "The nakedness of the wife of your brother you shall not uncover; it [is] the nakedness of your brother.",
+    "reference": "Leviticus 18:16 (BLB)",
+    "connected_to": "Leviticus 18:17",
+    "connected_from": "Leviticus 18:15"
+  },
+  {
+    "text": "The nakedness of a woman and her daughter you shall not uncover—the daughter of her son and the daughter of her daughter you shall not take to uncover her nakedness. They [are] close relatives; it [is] wickedness.",
+    "reference": "Leviticus 18:17 (BLB)",
+    "connected_to": "Leviticus 18:18",
+    "connected_from": "Leviticus 18:16"
+  },
+  {
+    "text": "And a woman to her sister you shall not take, to be a rival, to uncover her nakedness beside her in her life.",
+    "reference": "Leviticus 18:18 (BLB)",
+    "connected_to": "Leviticus 18:19",
+    "connected_from": "Leviticus 18:17"
+  },
+  {
+    "text": "And to a woman in the menstruation of her uncleanness you shall not draw near to uncover her nakedness.",
+    "reference": "Leviticus 18:19 (BLB)",
+    "connected_to": "Leviticus 18:20",
+    "connected_from": "Leviticus 18:18"
+  },
+  {
+    "text": "And to the wife of your neighbor you shall not give your lying to seed to defile yourself with her.",
+    "reference": "Leviticus 18:20 (BLB)",
+    "connected_to": "Leviticus 18:21",
+    "connected_from": "Leviticus 18:19"
+  },
+  {
+    "text": "And from your seed you shall not give to pass over to Molech, and you shall not profane the name of your God. I [am] YHWH.",
+    "reference": "Leviticus 18:21 (BLB)",
+    "connected_to": "Leviticus 18:22",
+    "connected_from": "Leviticus 18:20"
+  },
+  {
+    "text": "And with a male you shall not lie the lyings of a woman; it [is] an abomination.",
+    "reference": "Leviticus 18:22 (BLB)",
+    "connected_to": "Leviticus 18:23",
+    "connected_from": "Leviticus 18:21"
+  },
+  {
+    "text": "And with any animal you shall not give your lyings to defile yourself with it, and a woman shall not stand before the face of an animal to lie with it. It [is] perversion.",
+    "reference": "Leviticus 18:23 (BLB)",
+    "connected_to": "Leviticus 18:24",
+    "connected_from": "Leviticus 18:22"
+  },
+  {
+    "text": "Do not defile yourselves with any of these things, for by all these the nations have defiled themselves, which I [am] sending away from before your⁺ faces.",
+    "reference": "Leviticus 18:24 (BLB)",
+    "connected_to": "Leviticus 18:25",
+    "connected_from": "Leviticus 18:23"
+  },
+  {
+    "text": "And the land is defiled; and I visit the punishment of its iniquity upon it, and the land vomits out those dwelling in it.",
+    "reference": "Leviticus 18:25 (BLB)",
+    "connected_to": "Leviticus 18:26",
+    "connected_from": "Leviticus 18:24"
+  },
+  {
+    "text": "And you⁺ shall keep My statutes and My judgments, and you⁺ shall not do from all of these abominations, the native and the sojourner who is sojourning in your⁺ midst—",
+    "reference": "Leviticus 18:26 (BLB)",
+    "connected_to": "Leviticus 18:27",
+    "connected_from": "Leviticus 18:25"
+  },
+  {
+    "text": "for the men of the land who [were] before your⁺ faces have done all these abominations, and the land was defiled—",
+    "reference": "Leviticus 18:27 (BLB)",
+    "connected_to": "Leviticus 18:28",
+    "connected_from": "Leviticus 18:26"
+  },
+  {
+    "text": "And the land will not vomit you⁺ out when you⁺ defile it, as it vomited out the nation that [was] before your⁺ faces.",
+    "reference": "Leviticus 18:28 (BLB)",
+    "connected_to": "Leviticus 18:29",
+    "connected_from": "Leviticus 18:27"
+  },
+  {
+    "text": "For anyone who does from all these abominations—then the soul who do [them]—shall be cut off from among their people.",
+    "reference": "Leviticus 18:29 (BLB)",
+    "connected_to": "Leviticus 18:30",
+    "connected_from": "Leviticus 18:28"
+  },
+  {
+    "text": "And you⁺ shall keep My charge, to not do from the statutes of the abominations that have been done before your⁺ faces, and you⁺ shall not defile yourselves by them. I [am] YHWH your⁺ God.”",
+    "reference": "Leviticus 18:30 (BLB)",
+    "connected_from": "Leviticus 18:29"
+  }
+]

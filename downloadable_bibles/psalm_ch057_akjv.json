@@ -1,0 +1,66 @@
+[
+  {
+    "text": "Be merciful to me, O God, be merciful to me: for my soul trusts in you: yes, in the shadow of your wings will I make my refuge, until these calamities be over.",
+    "reference": "Psalm 57:1 (AKJV)",
+    "connected_to": "Psalm 57:2"
+  },
+  {
+    "text": "I will cry to God most high; to God that performes all things for me.",
+    "reference": "Psalm 57:2 (AKJV)",
+    "connected_to": "Psalm 57:3",
+    "connected_from": "Psalm 57:1"
+  },
+  {
+    "text": "He shall send from heaven, and save me from the reproach of him that would swallow me up. Selah. God shall send forth his mercy and his truth.",
+    "reference": "Psalm 57:3 (AKJV)",
+    "connected_to": "Psalm 57:4",
+    "connected_from": "Psalm 57:2"
+  },
+  {
+    "text": "My soul is among lions: and I lie even among them that are set on fire, even the sons of men, whose teeth are spears and arrows, and their tongue a sharp sword.",
+    "reference": "Psalm 57:4 (AKJV)",
+    "connected_to": "Psalm 57:5",
+    "connected_from": "Psalm 57:3"
+  },
+  {
+    "text": "Be you exalted, O God, above the heavens; let your glory be above all the earth.",
+    "reference": "Psalm 57:5 (AKJV)",
+    "connected_to": "Psalm 57:6",
+    "connected_from": "Psalm 57:4"
+  },
+  {
+    "text": "They have prepared a net for my steps; my soul is bowed down: they have dig a pit before me, into the middle whereof they are fallen themselves. Selah.",
+    "reference": "Psalm 57:6 (AKJV)",
+    "connected_to": "Psalm 57:7",
+    "connected_from": "Psalm 57:5"
+  },
+  {
+    "text": "My heart is fixed, O God, my heart is fixed: I will sing and give praise.",
+    "reference": "Psalm 57:7 (AKJV)",
+    "connected_to": "Psalm 57:8",
+    "connected_from": "Psalm 57:6"
+  },
+  {
+    "text": "Awake up, my glory; awake, psaltery and harp: I myself will awake early.",
+    "reference": "Psalm 57:8 (AKJV)",
+    "connected_to": "Psalm 57:9",
+    "connected_from": "Psalm 57:7"
+  },
+  {
+    "text": "I will praise you, O Lord, among the people: I will sing to you among the nations.",
+    "reference": "Psalm 57:9 (AKJV)",
+    "connected_to": "Psalm 57:10",
+    "connected_from": "Psalm 57:8"
+  },
+  {
+    "text": "For your mercy is great to the heavens, and your truth to the clouds.",
+    "reference": "Psalm 57:10 (AKJV)",
+    "connected_to": "Psalm 57:11",
+    "connected_from": "Psalm 57:9"
+  },
+  {
+    "text": "Be you exalted, O God, above the heavens: let your glory be above all the earth.",
+    "reference": "Psalm 57:11 (AKJV)",
+    "connected_from": "Psalm 57:10"
+  }
+]

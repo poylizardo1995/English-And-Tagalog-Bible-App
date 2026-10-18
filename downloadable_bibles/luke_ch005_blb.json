@@ -1,0 +1,234 @@
+[
+  {
+    "text": "Now it came to pass, in the crowd also pressing on Him to hear the word of God, that He was standing by the lake of Gennesaret.",
+    "reference": "Luke 5:1 (BLB)",
+    "connected_to": "Luke 5:2"
+  },
+  {
+    "text": "And He saw two boats standing by the lake; but the fishermen, having gone away from them, were washing the nets.",
+    "reference": "Luke 5:2 (BLB)",
+    "connected_to": "Luke 5:3",
+    "connected_from": "Luke 5:1"
+  },
+  {
+    "text": "And having entered into one of the boats, which was Simon’s, He asked him to put out a little from the land. And having sat down, out of the boat He was teaching the crowds.",
+    "reference": "Luke 5:3 (BLB)",
+    "connected_to": "Luke 5:4",
+    "connected_from": "Luke 5:2"
+  },
+  {
+    "text": "And when He ceased speaking, He said to Simon, “Put out into the deep and let down your⁺ nets for a catch.”",
+    "reference": "Luke 5:4 (BLB)",
+    "connected_to": "Luke 5:5",
+    "connected_from": "Luke 5:3"
+  },
+  {
+    "text": "And answering, Simon said, “Master, having toiled through the whole night, we took nothing. But upon Your word, I will let down the nets.”",
+    "reference": "Luke 5:5 (BLB)",
+    "connected_to": "Luke 5:6",
+    "connected_from": "Luke 5:4"
+  },
+  {
+    "text": "And having done this, they enclosed a great multitude of fish, and their nets were tearing.",
+    "reference": "Luke 5:6 (BLB)",
+    "connected_to": "Luke 5:7",
+    "connected_from": "Luke 5:5"
+  },
+  {
+    "text": "And they beckoned to the partners in the other boat, having come, to help them, and they came and filled both boats so that they were sinking.",
+    "reference": "Luke 5:7 (BLB)",
+    "connected_to": "Luke 5:8",
+    "connected_from": "Luke 5:6"
+  },
+  {
+    "text": "And having seen, Simon Peter fell at the knees of Jesus, saying, “Go out from me, Lord, because I am a sinful man.”",
+    "reference": "Luke 5:8 (BLB)",
+    "connected_to": "Luke 5:9",
+    "connected_from": "Luke 5:7"
+  },
+  {
+    "text": "For amazement laid hold on him and on all those with him at the catch of the fish that they took,",
+    "reference": "Luke 5:9 (BLB)",
+    "connected_to": "Luke 5:10",
+    "connected_from": "Luke 5:8"
+  },
+  {
+    "text": "and likewise also James and John, the sons of Zebedee, who were partners with Simon. And Jesus said to Simon, “Do not be afraid; from now on you will be catching men.”",
+    "reference": "Luke 5:10 (BLB)",
+    "connected_to": "Luke 5:11",
+    "connected_from": "Luke 5:9"
+  },
+  {
+    "text": "And having brought down the boats upon the land, having left all, they followed Him.",
+    "reference": "Luke 5:11 (BLB)",
+    "connected_to": "Luke 5:12",
+    "connected_from": "Luke 5:10"
+  },
+  {
+    "text": "And it came to pass, in His being in one of the cities, that behold, a man full of leprosy, and having seen Jesus, having fallen upon [his] face, begged Him, saying, “Lord, if You are willing, You are able to cleanse me.”",
+    "reference": "Luke 5:12 (BLB)",
+    "connected_to": "Luke 5:13",
+    "connected_from": "Luke 5:11"
+  },
+  {
+    "text": "And having stretched out the hand, He touched him, “saying, I am willing; be cleansed!” And immediately the leprosy went away from him.",
+    "reference": "Luke 5:13 (BLB)",
+    "connected_to": "Luke 5:14",
+    "connected_from": "Luke 5:12"
+  },
+  {
+    "text": "And He instructed him to tell no one: “But, having gone, show yourself to the priest, and offer concerning your cleansing, just as Moses commanded, for a testimony to them.”",
+    "reference": "Luke 5:14 (BLB)",
+    "connected_to": "Luke 5:15",
+    "connected_from": "Luke 5:13"
+  },
+  {
+    "text": "But the word concerning Him was spreading still more, and many crowds were coming to hear and to be healed from their infirmities.",
+    "reference": "Luke 5:15 (BLB)",
+    "connected_to": "Luke 5:16",
+    "connected_from": "Luke 5:14"
+  },
+  {
+    "text": "And He Himself was withdrawing into the wilderness and praying.",
+    "reference": "Luke 5:16 (BLB)",
+    "connected_to": "Luke 5:17",
+    "connected_from": "Luke 5:15"
+  },
+  {
+    "text": "And it came to pass, on one of the days, that He was teaching, and Pharisees and teachers of the law were sitting, who were come out of every village of Galilee, and of Judea, and of Jerusalem. And the power of the Lord was [there] for Him to heal.",
+    "reference": "Luke 5:17 (BLB)",
+    "connected_to": "Luke 5:18",
+    "connected_from": "Luke 5:16"
+  },
+  {
+    "text": "And behold, men bringing upon a bed a man who was paralyzed, and they were seeking to bring him in and to place him before Him.",
+    "reference": "Luke 5:18 (BLB)",
+    "connected_to": "Luke 5:19",
+    "connected_from": "Luke 5:17"
+  },
+  {
+    "text": "And not having found what way they might bring him in through the crowd, having gone up on the housetop, they let him down with the little bed through the tiles into the midst before Jesus.",
+    "reference": "Luke 5:19 (BLB)",
+    "connected_to": "Luke 5:20",
+    "connected_from": "Luke 5:18"
+  },
+  {
+    "text": "And having seen their faith, He said, “Man, your sins have been forgiven you.”",
+    "reference": "Luke 5:20 (BLB)",
+    "connected_to": "Luke 5:21",
+    "connected_from": "Luke 5:19"
+  },
+  {
+    "text": "And the scribes and the Pharisees began to reason, saying, “Who is this who speaks blasphemies? Who is able to forgive sins except God alone?”",
+    "reference": "Luke 5:21 (BLB)",
+    "connected_to": "Luke 5:22",
+    "connected_from": "Luke 5:20"
+  },
+  {
+    "text": "And Jesus, having known their reasonings, answering, said to them, “Why do you⁺ reason in your⁺ hearts?",
+    "reference": "Luke 5:22 (BLB)",
+    "connected_to": "Luke 5:23",
+    "connected_from": "Luke 5:21"
+  },
+  {
+    "text": "Which is easier: to say, ‘Your sins have been forgiven you,’ or to say, ‘Arise and walk’?",
+    "reference": "Luke 5:23 (BLB)",
+    "connected_to": "Luke 5:24",
+    "connected_from": "Luke 5:22"
+  },
+  {
+    "text": "But so that you⁺ may know that the Son of Man has authority on the earth to forgive sins...” He said to the paralyzed one, “I say to you, arise, and having taken up your mat, go to your house.”",
+    "reference": "Luke 5:24 (BLB)",
+    "connected_to": "Luke 5:25",
+    "connected_from": "Luke 5:23"
+  },
+  {
+    "text": "And immediately, having risen up before them, having taken up [that] on which he was lying, he went away to his house, glorifying God.",
+    "reference": "Luke 5:25 (BLB)",
+    "connected_to": "Luke 5:26",
+    "connected_from": "Luke 5:24"
+  },
+  {
+    "text": "And amazement took all, and they were glorifying God. And they were filled with fear, saying, “We saw remarkable things today.”",
+    "reference": "Luke 5:26 (BLB)",
+    "connected_to": "Luke 5:27",
+    "connected_from": "Luke 5:25"
+  },
+  {
+    "text": "And after these things, He went out and saw a tax collector named Levi sitting at the tax booth. And He said to him, “Follow Me.”",
+    "reference": "Luke 5:27 (BLB)",
+    "connected_to": "Luke 5:28",
+    "connected_from": "Luke 5:26"
+  },
+  {
+    "text": "And having left all, having arisen, he began to follow Him.",
+    "reference": "Luke 5:28 (BLB)",
+    "connected_to": "Luke 5:29",
+    "connected_from": "Luke 5:27"
+  },
+  {
+    "text": "And Levi made a great banquet for Him in his house, and there was a great crowd of tax collectors and others who were reclining with them.",
+    "reference": "Luke 5:29 (BLB)",
+    "connected_to": "Luke 5:30",
+    "connected_from": "Luke 5:28"
+  },
+  {
+    "text": "And the Pharisees and their scribes were grumbling at His disciples, saying, “Why do you⁺ eat and drink with the tax collectors and sinners?”",
+    "reference": "Luke 5:30 (BLB)",
+    "connected_to": "Luke 5:31",
+    "connected_from": "Luke 5:29"
+  },
+  {
+    "text": "And answering, Jesus said to them, “Those being in good health have no need of a physician, but those being ill.",
+    "reference": "Luke 5:31 (BLB)",
+    "connected_to": "Luke 5:32",
+    "connected_from": "Luke 5:30"
+  },
+  {
+    "text": "I have not come to call righteous ones, but sinners, to repentance.”",
+    "reference": "Luke 5:32 (BLB)",
+    "connected_to": "Luke 5:33",
+    "connected_from": "Luke 5:31"
+  },
+  {
+    "text": "And they said to Him, “The disciples of John fast often and make petitions; likewise also those of the Pharisees; but Yours⁺ eat and drink.”",
+    "reference": "Luke 5:33 (BLB)",
+    "connected_to": "Luke 5:34",
+    "connected_from": "Luke 5:32"
+  },
+  {
+    "text": "And Jesus said to them, “Are you⁺ able to make the sons of the bridechamber fast while the bridegroom is with them?",
+    "reference": "Luke 5:34 (BLB)",
+    "connected_to": "Luke 5:35",
+    "connected_from": "Luke 5:33"
+  },
+  {
+    "text": "But days will come also when the bridegroom shall have been taken away from them; then they will fast in those days.”",
+    "reference": "Luke 5:35 (BLB)",
+    "connected_to": "Luke 5:36",
+    "connected_from": "Luke 5:34"
+  },
+  {
+    "text": "And He was speaking also a parable to them: “No one having torn a patch from a new garment puts [it] on an old garment. and if otherwise, he will tear the new also, and the old will not match the patch from the new.",
+    "reference": "Luke 5:36 (BLB)",
+    "connected_to": "Luke 5:37",
+    "connected_from": "Luke 5:35"
+  },
+  {
+    "text": "And no one puts new wine into old wineskins. and if otherwise, the new wine will burst the wineskins, and it will be poured out, and the wineskins will be destroyed.",
+    "reference": "Luke 5:37 (BLB)",
+    "connected_to": "Luke 5:38",
+    "connected_from": "Luke 5:36"
+  },
+  {
+    "text": "But new wine must be put into fresh wineskins.",
+    "reference": "Luke 5:38 (BLB)",
+    "connected_to": "Luke 5:39",
+    "connected_from": "Luke 5:37"
+  },
+  {
+    "text": "And no one having drunk old [wine] wants new; for he says, ‘The old is good.’”",
+    "reference": "Luke 5:39 (BLB)",
+    "connected_from": "Luke 5:38"
+  }
+]

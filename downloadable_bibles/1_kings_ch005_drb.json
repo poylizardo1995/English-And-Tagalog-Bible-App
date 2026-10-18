@@ -1,0 +1,108 @@
+[
+  {
+    "text": "And Hiram king of Tyre sent his servants to Solomon: for he heard that they had anointed him king in the room of his father: for Hiram had always been David’s friend.",
+    "reference": "1 Kings 5:1 (DRB)",
+    "connected_to": "1 Kings 5:2"
+  },
+  {
+    "text": "And Solomon sent to Hiram, saying:",
+    "reference": "1 Kings 5:2 (DRB)",
+    "connected_to": "1 Kings 5:3",
+    "connected_from": "1 Kings 5:1"
+  },
+  {
+    "text": "Thou knowest the will of David my father, and that he could not build a house to the name of the Lord his God, because of the wars that were round about him, until the Lord put them under the soles of his feet.",
+    "reference": "1 Kings 5:3 (DRB)",
+    "connected_to": "1 Kings 5:4",
+    "connected_from": "1 Kings 5:2"
+  },
+  {
+    "text": "But now the Lord my God hath given me rest round about: and there is no adversary nor evil occurrence.",
+    "reference": "1 Kings 5:4 (DRB)",
+    "connected_to": "1 Kings 5:5",
+    "connected_from": "1 Kings 5:3"
+  },
+  {
+    "text": "Wherefore I purpose to build a temple to the name of the Lord my God, as the Lord spoke to David my father, saying: Thy son, whom I will set upon the throne in thy piece, he shall build a house to my name.",
+    "reference": "1 Kings 5:5 (DRB)",
+    "connected_to": "1 Kings 5:6",
+    "connected_from": "1 Kings 5:4"
+  },
+  {
+    "text": "Give orders therefore that thy servants cut me down cedar trees out of Libanus, and let my servants be with thy servants: and I will give thee the hire of thy servants whatsoever thou wilt ask, for thou knowest how there is not among my people a man that has skill to hew wood like to the Sidonians.",
+    "reference": "1 Kings 5:6 (DRB)",
+    "connected_to": "1 Kings 5:7",
+    "connected_from": "1 Kings 5:5"
+  },
+  {
+    "text": "Now when Hiram had heard the words of Solomon, he rejoiced exceedingly, and said: Blessed be the Lord God this day, who hath given to David a very wise son over this numerous people.",
+    "reference": "1 Kings 5:7 (DRB)",
+    "connected_to": "1 Kings 5:8",
+    "connected_from": "1 Kings 5:6"
+  },
+  {
+    "text": "And Hiram sent to Solomon, saying: I have heard all thou hast desired of me: and I will do all thy desire concerning cedar trees, and fir trees.",
+    "reference": "1 Kings 5:8 (DRB)",
+    "connected_to": "1 Kings 5:9",
+    "connected_from": "1 Kings 5:7"
+  },
+  {
+    "text": "My servants shall bring them down from Libanus to the sea: and I will put them together in floats in the sea, and convey them to the place, which thou shalt signify to me; and will land them there, and thou shalt receive them: and thou shalt allow me necessaries, to furnish food for my household.",
+    "reference": "1 Kings 5:9 (DRB)",
+    "connected_to": "1 Kings 5:10",
+    "connected_from": "1 Kings 5:8"
+  },
+  {
+    "text": "So Hiram gave Solomon cedar trees, and fir trees, according to all his desire.",
+    "reference": "1 Kings 5:10 (DRB)",
+    "connected_to": "1 Kings 5:11",
+    "connected_from": "1 Kings 5:9"
+  },
+  {
+    "text": "And Solomon allowed Hiram twenty thousand measures of wheat, for provision for his house, and twenty measures of the purest oil: thus gave Solomon to Hiram every year.",
+    "reference": "1 Kings 5:11 (DRB)",
+    "connected_to": "1 Kings 5:12",
+    "connected_from": "1 Kings 5:10"
+  },
+  {
+    "text": "And the Lord gave wisdom to Solomon, as he promised him: and there was peace between Hiram and Solomon, and they two made a league together.",
+    "reference": "1 Kings 5:12 (DRB)",
+    "connected_to": "1 Kings 5:13",
+    "connected_from": "1 Kings 5:11"
+  },
+  {
+    "text": "And king Solomon chose workmen cut of all Israel, and the levy was of thirty thousand men.",
+    "reference": "1 Kings 5:13 (DRB)",
+    "connected_to": "1 Kings 5:14",
+    "connected_from": "1 Kings 5:12"
+  },
+  {
+    "text": "And he sent them to Libanus, ten thousand every month by turns, so that two months they were at home: and Adoniram was over this levy.",
+    "reference": "1 Kings 5:14 (DRB)",
+    "connected_to": "1 Kings 5:15",
+    "connected_from": "1 Kings 5:13"
+  },
+  {
+    "text": "And Solomon had seventy thousand to carry burdens, and eighty thousand to hew stones in the mountain:",
+    "reference": "1 Kings 5:15 (DRB)",
+    "connected_to": "1 Kings 5:16",
+    "connected_from": "1 Kings 5:14"
+  },
+  {
+    "text": "Besides the overseers who were over every work, in number three thousand, and three hundred that ruled over the people, and them that did the work.",
+    "reference": "1 Kings 5:16 (DRB)",
+    "connected_to": "1 Kings 5:17",
+    "connected_from": "1 Kings 5:15"
+  },
+  {
+    "text": "And the king commanded, that they should bring great stones, costly stones, for the foundation of the temple, and should square them:",
+    "reference": "1 Kings 5:17 (DRB)",
+    "connected_to": "1 Kings 5:18",
+    "connected_from": "1 Kings 5:16"
+  },
+  {
+    "text": "And the masons of Solomon, and the masons of Hiram hewed them: and the Giblians prepared timber and stones to build the house.",
+    "reference": "1 Kings 5:18 (DRB)",
+    "connected_from": "1 Kings 5:17"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Of David. <span class=|reftext|><a href=|#|><b>1</b></a> Judge me, O YHWH! For I have walked in my integrity, and I have trusted in YHWH without slipping.",
+    "reference": "Psalm 26:1 (BLB)",
+    "connected_to": "Psalm 26:2"
+  },
+  {
+    "text": "Examine me, O YHWH, and test me; refine my kidneys and my heart.",
+    "reference": "Psalm 26:2 (BLB)",
+    "connected_to": "Psalm 26:3",
+    "connected_from": "Psalm 26:1"
+  },
+  {
+    "text": "For Your loving devotion [is] before my eyes, and I have walked in Your truth.",
+    "reference": "Psalm 26:3 (BLB)",
+    "connected_to": "Psalm 26:4",
+    "connected_from": "Psalm 26:2"
+  },
+  {
+    "text": "I do not sit with men of vanity, and with dissemblers I will not go in.",
+    "reference": "Psalm 26:4 (BLB)",
+    "connected_to": "Psalm 26:5",
+    "connected_from": "Psalm 26:3"
+  },
+  {
+    "text": "I hate the assembly of evildoers, and with the wicked I do not sit.",
+    "reference": "Psalm 26:5 (BLB)",
+    "connected_to": "Psalm 26:6",
+    "connected_from": "Psalm 26:4"
+  },
+  {
+    "text": "I wash my hands in innocence, and I go about Your altar, O YHWH,",
+    "reference": "Psalm 26:6 (BLB)",
+    "connected_to": "Psalm 26:7",
+    "connected_from": "Psalm 26:5"
+  },
+  {
+    "text": "to sound with a voice of thanksgiving, and to recount all Your wonders.",
+    "reference": "Psalm 26:7 (BLB)",
+    "connected_to": "Psalm 26:8",
+    "connected_from": "Psalm 26:6"
+  },
+  {
+    "text": "O YHWH, I love the habitation of Your house, and the place of the dwelling of Your glory.",
+    "reference": "Psalm 26:8 (BLB)",
+    "connected_to": "Psalm 26:9",
+    "connected_from": "Psalm 26:7"
+  },
+  {
+    "text": "Do not gather my soul with sinners, and my life with men of blood,",
+    "reference": "Psalm 26:9 (BLB)",
+    "connected_to": "Psalm 26:10",
+    "connected_from": "Psalm 26:8"
+  },
+  {
+    "text": "in whose hands [is] a scheme, and [whose] right hand is filled [with] a bribe.",
+    "reference": "Psalm 26:10 (BLB)",
+    "connected_to": "Psalm 26:11",
+    "connected_from": "Psalm 26:9"
+  },
+  {
+    "text": "And I, in my integrity, walk; redeem me and be merciful to me.",
+    "reference": "Psalm 26:11 (BLB)",
+    "connected_to": "Psalm 26:12",
+    "connected_from": "Psalm 26:10"
+  },
+  {
+    "text": "My foot stands on level ground; in the assemblies I will bless YHWH.",
+    "reference": "Psalm 26:12 (BLB)",
+    "connected_from": "Psalm 26:11"
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "text": "Now it came to pass on the third day, that Esther put on her royal apparel, and stood in the inner court of the king’s house, over against the king’s house: and the king sat on his royal throne in the royal house, over against the gate of the house.",
+    "reference": "Esther 5:1 (AKJV)",
+    "connected_to": "Esther 5:2"
+  },
+  {
+    "text": "And it was so, when the king saw Esther the queen standing in the court, that she obtained favor in his sight: and the king held out to Esther the golden scepter that was in his hand. So Esther drew near, and touched the top of the scepter.",
+    "reference": "Esther 5:2 (AKJV)",
+    "connected_to": "Esther 5:3",
+    "connected_from": "Esther 5:1"
+  },
+  {
+    "text": "Then said the king to her, What will you, queen Esther? and what is your request? it shall be even given you to the half of the kingdom.",
+    "reference": "Esther 5:3 (AKJV)",
+    "connected_to": "Esther 5:4",
+    "connected_from": "Esther 5:2"
+  },
+  {
+    "text": "And Esther answered, If it seem good to the king, let the king and Haman come this day to the banquet that I have prepared for him.",
+    "reference": "Esther 5:4 (AKJV)",
+    "connected_to": "Esther 5:5",
+    "connected_from": "Esther 5:3"
+  },
+  {
+    "text": "Then the king said, Cause Haman to make haste, that he may do as Esther has said. So the king and Haman came to the banquet that Esther had prepared.",
+    "reference": "Esther 5:5 (AKJV)",
+    "connected_to": "Esther 5:6",
+    "connected_from": "Esther 5:4"
+  },
+  {
+    "text": "And the king said to Esther at the banquet of wine, What is your petition? and it shall be granted you: and what is your request? even to the half of the kingdom it shall be performed.",
+    "reference": "Esther 5:6 (AKJV)",
+    "connected_to": "Esther 5:7",
+    "connected_from": "Esther 5:5"
+  },
+  {
+    "text": "Then answered Esther, and said, My petition and my request is;",
+    "reference": "Esther 5:7 (AKJV)",
+    "connected_to": "Esther 5:8",
+    "connected_from": "Esther 5:6"
+  },
+  {
+    "text": "If I have found favor in the sight of the king, and if it please the king to grant my petition, and to perform my request, let the king and Haman come to the banquet that I shall prepare for them, and I will do to morrow as the king has said.",
+    "reference": "Esther 5:8 (AKJV)",
+    "connected_to": "Esther 5:9",
+    "connected_from": "Esther 5:7"
+  },
+  {
+    "text": "Then went Haman forth that day joyful and with a glad heart: but when Haman saw Mordecai in the king’s gate, that he stood not up, nor moved for him, he was full of indignation against Mordecai.",
+    "reference": "Esther 5:9 (AKJV)",
+    "connected_to": "Esther 5:10",
+    "connected_from": "Esther 5:8"
+  },
+  {
+    "text": "Nevertheless Haman refrained himself: and when he came home, he sent and called for his friends, and Zeresh his wife.",
+    "reference": "Esther 5:10 (AKJV)",
+    "connected_to": "Esther 5:11",
+    "connected_from": "Esther 5:9"
+  },
+  {
+    "text": "And Haman told them of the glory of his riches, and the multitude of his children, and all the things wherein the king had promoted him, and how he had advanced him above the princes and servants of the king.",
+    "reference": "Esther 5:11 (AKJV)",
+    "connected_to": "Esther 5:12",
+    "connected_from": "Esther 5:10"
+  },
+  {
+    "text": "Haman said moreover, Yes, Esther the queen did let no man come in with the king to the banquet that she had prepared but myself; and to morrow am I invited to her also with the king.",
+    "reference": "Esther 5:12 (AKJV)",
+    "connected_to": "Esther 5:13",
+    "connected_from": "Esther 5:11"
+  },
+  {
+    "text": "Yet all this avails me nothing, so long as I see Mordecai the Jew sitting at the king’s gate.",
+    "reference": "Esther 5:13 (AKJV)",
+    "connected_to": "Esther 5:14",
+    "connected_from": "Esther 5:12"
+  },
+  {
+    "text": "Then said Zeresh his wife and all his friends to him, Let a gallows be made of fifty cubits high, and to morrow speak you to the king that Mordecai may be hanged thereon: then go you in merrily with the king to the banquet. And the thing pleased Haman; and he caused the gallows to be made.",
+    "reference": "Esther 5:14 (AKJV)",
+    "connected_from": "Esther 5:13"
+  }
+]

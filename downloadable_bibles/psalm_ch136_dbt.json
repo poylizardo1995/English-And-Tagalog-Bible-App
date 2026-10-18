@@ -1,0 +1,156 @@
+[
+  {
+    "text": "Give ye thanks unto Jehovah, for he is good; for his loving-kindness [endureth] for ever:",
+    "reference": "Psalm 136:1 (DBT)",
+    "connected_to": "Psalm 136:2"
+  },
+  {
+    "text": "Give thanks unto the God of gods, for his loving-kindness [endureth] for ever;",
+    "reference": "Psalm 136:2 (DBT)",
+    "connected_to": "Psalm 136:3",
+    "connected_from": "Psalm 136:1"
+  },
+  {
+    "text": "Give thanks unto the Lord of lords, for his loving-kindness [endureth] for ever.",
+    "reference": "Psalm 136:3 (DBT)",
+    "connected_to": "Psalm 136:4",
+    "connected_from": "Psalm 136:2"
+  },
+  {
+    "text": "To him who alone doeth great wonders, for his loving-kindness [endureth] for ever:",
+    "reference": "Psalm 136:4 (DBT)",
+    "connected_to": "Psalm 136:5",
+    "connected_from": "Psalm 136:3"
+  },
+  {
+    "text": "To him that by understanding made the heavens, for his loving-kindness [endureth] for ever;",
+    "reference": "Psalm 136:5 (DBT)",
+    "connected_to": "Psalm 136:6",
+    "connected_from": "Psalm 136:4"
+  },
+  {
+    "text": "To him that stretched out the earth above the waters, for his loving-kindness [endureth] for ever;",
+    "reference": "Psalm 136:6 (DBT)",
+    "connected_to": "Psalm 136:7",
+    "connected_from": "Psalm 136:5"
+  },
+  {
+    "text": "To him that made great lights, for his loving-kindness [endureth] for ever;",
+    "reference": "Psalm 136:7 (DBT)",
+    "connected_to": "Psalm 136:8",
+    "connected_from": "Psalm 136:6"
+  },
+  {
+    "text": "The sun for rule over the day, for his loving-kindness [endureth] for ever,",
+    "reference": "Psalm 136:8 (DBT)",
+    "connected_to": "Psalm 136:9",
+    "connected_from": "Psalm 136:7"
+  },
+  {
+    "text": "The moon and stars for rule over the night, for his loving-kindness [endureth] for ever:",
+    "reference": "Psalm 136:9 (DBT)",
+    "connected_to": "Psalm 136:10",
+    "connected_from": "Psalm 136:8"
+  },
+  {
+    "text": "To him that smote Egypt in their firstborn, for his loving-kindness [endureth] for ever,",
+    "reference": "Psalm 136:10 (DBT)",
+    "connected_to": "Psalm 136:11",
+    "connected_from": "Psalm 136:9"
+  },
+  {
+    "text": "And brought out Israel from among them, for his loving-kindness [endureth] for ever,",
+    "reference": "Psalm 136:11 (DBT)",
+    "connected_to": "Psalm 136:12",
+    "connected_from": "Psalm 136:10"
+  },
+  {
+    "text": "With a powerful hand and with a stretched-out arm, for his loving-kindness [endureth] for ever;",
+    "reference": "Psalm 136:12 (DBT)",
+    "connected_to": "Psalm 136:13",
+    "connected_from": "Psalm 136:11"
+  },
+  {
+    "text": "To him that divided the Red sea into parts, for his loving-kindness [endureth] for ever,",
+    "reference": "Psalm 136:13 (DBT)",
+    "connected_to": "Psalm 136:14",
+    "connected_from": "Psalm 136:12"
+  },
+  {
+    "text": "And made Israel to pass through the midst of it, for his loving-kindness [endureth] for ever,",
+    "reference": "Psalm 136:14 (DBT)",
+    "connected_to": "Psalm 136:15",
+    "connected_from": "Psalm 136:13"
+  },
+  {
+    "text": "And overturned Pharaoh and his host in the Red sea, for his loving-kindness [endureth] for ever;",
+    "reference": "Psalm 136:15 (DBT)",
+    "connected_to": "Psalm 136:16",
+    "connected_from": "Psalm 136:14"
+  },
+  {
+    "text": "To him that led his people through the wilderness, for his loving-kindness [endureth] for ever;",
+    "reference": "Psalm 136:16 (DBT)",
+    "connected_to": "Psalm 136:17",
+    "connected_from": "Psalm 136:15"
+  },
+  {
+    "text": "To him that smote great kings, for his loving-kindness [endureth] for ever,",
+    "reference": "Psalm 136:17 (DBT)",
+    "connected_to": "Psalm 136:18",
+    "connected_from": "Psalm 136:16"
+  },
+  {
+    "text": "And slew famous kings, for his loving-kindness [endureth] for ever;",
+    "reference": "Psalm 136:18 (DBT)",
+    "connected_to": "Psalm 136:19",
+    "connected_from": "Psalm 136:17"
+  },
+  {
+    "text": "Sihon king of the Amorites, for his loving-kindness [endureth] for ever,",
+    "reference": "Psalm 136:19 (DBT)",
+    "connected_to": "Psalm 136:20",
+    "connected_from": "Psalm 136:18"
+  },
+  {
+    "text": "And Og king of Bashan, for his loving-kindness [endureth] for ever;",
+    "reference": "Psalm 136:20 (DBT)",
+    "connected_to": "Psalm 136:21",
+    "connected_from": "Psalm 136:19"
+  },
+  {
+    "text": "And gave their land for an inheritance, for his loving-kindness [endureth] for ever,",
+    "reference": "Psalm 136:21 (DBT)",
+    "connected_to": "Psalm 136:22",
+    "connected_from": "Psalm 136:20"
+  },
+  {
+    "text": "An inheritance unto Israel his servant, for his loving-kindness [endureth] for ever:",
+    "reference": "Psalm 136:22 (DBT)",
+    "connected_to": "Psalm 136:23",
+    "connected_from": "Psalm 136:21"
+  },
+  {
+    "text": "Who hath remembered us in our low estate, for his loving-kindness [endureth] for ever;",
+    "reference": "Psalm 136:23 (DBT)",
+    "connected_to": "Psalm 136:24",
+    "connected_from": "Psalm 136:22"
+  },
+  {
+    "text": "And hath delivered us from our oppressors, for his loving-kindness [endureth] for ever:",
+    "reference": "Psalm 136:24 (DBT)",
+    "connected_to": "Psalm 136:25",
+    "connected_from": "Psalm 136:23"
+  },
+  {
+    "text": "Who giveth food to all flesh, for his loving-kindness [endureth] for ever.",
+    "reference": "Psalm 136:25 (DBT)",
+    "connected_to": "Psalm 136:26",
+    "connected_from": "Psalm 136:24"
+  },
+  {
+    "text": "Give ye thanks unto the God of the heavens; for his loving-kindness [endureth] for ever.",
+    "reference": "Psalm 136:26 (DBT)",
+    "connected_from": "Psalm 136:25"
+  }
+]

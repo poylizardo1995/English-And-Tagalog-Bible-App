@@ -1,0 +1,150 @@
+[
+  {
+    "text": "And it came to pass in those days, that the Philistines gathered their armies together for warfare, to fight with Israel. And Achish said to David, Know you assuredly, that you shall go out with me to battle, you and your men.",
+    "reference": "1 Samuel 28:1 (AKJV)",
+    "connected_to": "1 Samuel 28:2"
+  },
+  {
+    "text": "And David said to Achish, Surely you shall know what your servant can do. And Achish said to David, Therefore will I make you keeper of my head for ever.",
+    "reference": "1 Samuel 28:2 (AKJV)",
+    "connected_to": "1 Samuel 28:3",
+    "connected_from": "1 Samuel 28:1"
+  },
+  {
+    "text": "Now Samuel was dead, and all Israel had lamented him, and buried him in Ramah, even in his own city. And Saul had put away those that had familiar spirits, and the wizards, out of the land.",
+    "reference": "1 Samuel 28:3 (AKJV)",
+    "connected_to": "1 Samuel 28:4",
+    "connected_from": "1 Samuel 28:2"
+  },
+  {
+    "text": "And the Philistines gathered themselves together, and came and pitched in Shunem: and Saul gathered all Israel together, and they pitched in Gilboa.",
+    "reference": "1 Samuel 28:4 (AKJV)",
+    "connected_to": "1 Samuel 28:5",
+    "connected_from": "1 Samuel 28:3"
+  },
+  {
+    "text": "And when Saul saw the host of the Philistines, he was afraid, and his heart greatly trembled.",
+    "reference": "1 Samuel 28:5 (AKJV)",
+    "connected_to": "1 Samuel 28:6",
+    "connected_from": "1 Samuel 28:4"
+  },
+  {
+    "text": "And when Saul inquired of the LORD, the LORD answered him not, neither by dreams, nor by Urim, nor by prophets.",
+    "reference": "1 Samuel 28:6 (AKJV)",
+    "connected_to": "1 Samuel 28:7",
+    "connected_from": "1 Samuel 28:5"
+  },
+  {
+    "text": "Then said Saul to his servants, Seek me a woman that has a familiar spirit, that I may go to her, and inquire of her. And his servants said to him, Behold, there is a woman that has a familiar spirit at Endor.",
+    "reference": "1 Samuel 28:7 (AKJV)",
+    "connected_to": "1 Samuel 28:8",
+    "connected_from": "1 Samuel 28:6"
+  },
+  {
+    "text": "And Saul disguised himself, and put on other raiment, and he went, and two men with him, and they came to the woman by night: and he said, I pray you, divine to me by the familiar spirit, and bring me him up, whom I shall name to you.",
+    "reference": "1 Samuel 28:8 (AKJV)",
+    "connected_to": "1 Samuel 28:9",
+    "connected_from": "1 Samuel 28:7"
+  },
+  {
+    "text": "And the woman said to him, Behold, you know what Saul has done, how he has cut off those that have familiar spirits, and the wizards, out of the land: why then lay you a snare for my life, to cause me to die?",
+    "reference": "1 Samuel 28:9 (AKJV)",
+    "connected_to": "1 Samuel 28:10",
+    "connected_from": "1 Samuel 28:8"
+  },
+  {
+    "text": "And Saul swore to her by the LORD, saying, As the LORD lives, there shall no punishment happen to you for this thing.",
+    "reference": "1 Samuel 28:10 (AKJV)",
+    "connected_to": "1 Samuel 28:11",
+    "connected_from": "1 Samuel 28:9"
+  },
+  {
+    "text": "Then said the woman, Whom shall I bring up to you? And he said, Bring me up Samuel.",
+    "reference": "1 Samuel 28:11 (AKJV)",
+    "connected_to": "1 Samuel 28:12",
+    "connected_from": "1 Samuel 28:10"
+  },
+  {
+    "text": "And when the woman saw Samuel, she cried with a loud voice: and the woman spoke to Saul, saying, Why have you deceived me? for you are Saul.",
+    "reference": "1 Samuel 28:12 (AKJV)",
+    "connected_to": "1 Samuel 28:13",
+    "connected_from": "1 Samuel 28:11"
+  },
+  {
+    "text": "And the king said to her, Be not afraid: for what saw you? And the woman said to Saul, I saw gods ascending out of the earth.",
+    "reference": "1 Samuel 28:13 (AKJV)",
+    "connected_to": "1 Samuel 28:14",
+    "connected_from": "1 Samuel 28:12"
+  },
+  {
+    "text": "And he said to her, What form is he of? And she said, An old man comes up; and he is covered with a mantle. And Saul perceived that it was Samuel, and he stooped with his face to the ground, and bowed himself.",
+    "reference": "1 Samuel 28:14 (AKJV)",
+    "connected_to": "1 Samuel 28:15",
+    "connected_from": "1 Samuel 28:13"
+  },
+  {
+    "text": "And Samuel said to Saul, Why have you disquieted me, to bring me up? And Saul answered, I am sore distressed; for the Philistines make war against me, and God is departed from me, and answers me no more, neither by prophets, nor by dreams: therefore I have called you, that you may make known to me what I shall do.",
+    "reference": "1 Samuel 28:15 (AKJV)",
+    "connected_to": "1 Samuel 28:16",
+    "connected_from": "1 Samuel 28:14"
+  },
+  {
+    "text": "Then said Samuel, Why then do you ask of me, seeing the LORD is departed from you, and is become your enemy?",
+    "reference": "1 Samuel 28:16 (AKJV)",
+    "connected_to": "1 Samuel 28:17",
+    "connected_from": "1 Samuel 28:15"
+  },
+  {
+    "text": "And the LORD has done to him, as he spoke by me: for the LORD has rent the kingdom out of your hand, and given it to your neighbor, even to David:",
+    "reference": "1 Samuel 28:17 (AKJV)",
+    "connected_to": "1 Samuel 28:18",
+    "connected_from": "1 Samuel 28:16"
+  },
+  {
+    "text": "Because you obeyed not the voice of the LORD, nor executed his fierce wrath on Amalek, therefore has the LORD done this thing to you this day.",
+    "reference": "1 Samuel 28:18 (AKJV)",
+    "connected_to": "1 Samuel 28:19",
+    "connected_from": "1 Samuel 28:17"
+  },
+  {
+    "text": "Moreover the LORD will also deliver Israel with you into the hand of the Philistines: and to morrow shall you and your sons be with me: the LORD also shall deliver the host of Israel into the hand of the Philistines.",
+    "reference": "1 Samuel 28:19 (AKJV)",
+    "connected_to": "1 Samuel 28:20",
+    "connected_from": "1 Samuel 28:18"
+  },
+  {
+    "text": "Then Saul fell straightway all along on the earth, and was sore afraid, because of the words of Samuel: and there was no strength in him; for he had eaten no bread all the day, nor all the night.",
+    "reference": "1 Samuel 28:20 (AKJV)",
+    "connected_to": "1 Samuel 28:21",
+    "connected_from": "1 Samuel 28:19"
+  },
+  {
+    "text": "And the woman came to Saul, and saw that he was sore troubled, and said to him, Behold, your handmaid has obeyed your voice, and I have put my life in my hand, and have listened to your words which you spoke to me.",
+    "reference": "1 Samuel 28:21 (AKJV)",
+    "connected_to": "1 Samuel 28:22",
+    "connected_from": "1 Samuel 28:20"
+  },
+  {
+    "text": "Now therefore, I pray you, listen you also to the voice of your handmaid, and let me set a morsel of bread before you; and eat, that you may have strength, when you go on your way.",
+    "reference": "1 Samuel 28:22 (AKJV)",
+    "connected_to": "1 Samuel 28:23",
+    "connected_from": "1 Samuel 28:21"
+  },
+  {
+    "text": "But he refused, and said, I will not eat. But his servants, together with the woman, compelled him; and he listened to their voice. So he arose from the earth, and sat on the bed.",
+    "reference": "1 Samuel 28:23 (AKJV)",
+    "connected_to": "1 Samuel 28:24",
+    "connected_from": "1 Samuel 28:22"
+  },
+  {
+    "text": "And the woman had a fat calf in the house; and she hurried, and killed it, and took flour, and kneaded it, and did bake unleavened bread thereof:",
+    "reference": "1 Samuel 28:24 (AKJV)",
+    "connected_to": "1 Samuel 28:25",
+    "connected_from": "1 Samuel 28:23"
+  },
+  {
+    "text": "And she brought it before Saul, and before his servants; and they did eat. Then they rose up, and went away that night.",
+    "reference": "1 Samuel 28:25 (AKJV)",
+    "connected_from": "1 Samuel 28:24"
+  }
+]

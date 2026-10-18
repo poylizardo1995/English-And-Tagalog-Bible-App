@@ -1,0 +1,126 @@
+[
+  {
+    "text": "After these things the word of Jehovah came to Abram in a vision, saying, Fear not, Abram; I am thy shield, thy exceeding great reward.",
+    "reference": "Genesis 15:1 (DBT)",
+    "connected_to": "Genesis 15:2"
+  },
+  {
+    "text": "And Abram said, Lord Jehovah, what wilt thou give me? seeing I go childless, and the steward of my house is this Eliezer of Damascus.",
+    "reference": "Genesis 15:2 (DBT)",
+    "connected_to": "Genesis 15:3",
+    "connected_from": "Genesis 15:1"
+  },
+  {
+    "text": "And Abram said, Lo, to me thou hast given no seed, and behold, a son of my house will be mine heir.",
+    "reference": "Genesis 15:3 (DBT)",
+    "connected_to": "Genesis 15:4",
+    "connected_from": "Genesis 15:2"
+  },
+  {
+    "text": "And behold, the word of Jehovah [came] to him, saying, This shall not be thine heir, but he that will come forth out of thy body shall be thine heir.",
+    "reference": "Genesis 15:4 (DBT)",
+    "connected_to": "Genesis 15:5",
+    "connected_from": "Genesis 15:3"
+  },
+  {
+    "text": "And he led him out, and said, Look now toward the heavens, and number the stars, if thou be able to number them. And he said to him, So shall thy seed be!",
+    "reference": "Genesis 15:5 (DBT)",
+    "connected_to": "Genesis 15:6",
+    "connected_from": "Genesis 15:4"
+  },
+  {
+    "text": "And he believed Jehovah; and he reckoned it to him [as] righteousness.",
+    "reference": "Genesis 15:6 (DBT)",
+    "connected_to": "Genesis 15:7",
+    "connected_from": "Genesis 15:5"
+  },
+  {
+    "text": "And he said to him, I am Jehovah who brought thee out of Ur of the Chaldeans, to give thee this land to possess it.",
+    "reference": "Genesis 15:7 (DBT)",
+    "connected_to": "Genesis 15:8",
+    "connected_from": "Genesis 15:6"
+  },
+  {
+    "text": "And he said, Lord Jehovah, how shall I know that I shall possess it?",
+    "reference": "Genesis 15:8 (DBT)",
+    "connected_to": "Genesis 15:9",
+    "connected_from": "Genesis 15:7"
+  },
+  {
+    "text": "And he said to him, Take me a heifer of three years old, and a she-goat of three years old, and a ram of three years old, and a turtle-dove, and a young pigeon.",
+    "reference": "Genesis 15:9 (DBT)",
+    "connected_to": "Genesis 15:10",
+    "connected_from": "Genesis 15:8"
+  },
+  {
+    "text": "And he took all these, and divided them in the midst, and laid the half of each opposite its fellow; but the birds he did not divide.",
+    "reference": "Genesis 15:10 (DBT)",
+    "connected_to": "Genesis 15:11",
+    "connected_from": "Genesis 15:9"
+  },
+  {
+    "text": "And the birds of prey came down on the carcases; and Abram scared them away.",
+    "reference": "Genesis 15:11 (DBT)",
+    "connected_to": "Genesis 15:12",
+    "connected_from": "Genesis 15:10"
+  },
+  {
+    "text": "And as the sun was just going down, a deep sleep fell upon Abram; and behold, a horror, a great darkness, fell upon him.",
+    "reference": "Genesis 15:12 (DBT)",
+    "connected_to": "Genesis 15:13",
+    "connected_from": "Genesis 15:11"
+  },
+  {
+    "text": "And he said to Abram, Know assuredly that thy seed will be a sojourner in a land [that is] not theirs, and they shall serve them; and they shall afflict them four hundred years.",
+    "reference": "Genesis 15:13 (DBT)",
+    "connected_to": "Genesis 15:14",
+    "connected_from": "Genesis 15:12"
+  },
+  {
+    "text": "But also that nation which they shall serve I will judge; and afterwards they shall come out with great property.",
+    "reference": "Genesis 15:14 (DBT)",
+    "connected_to": "Genesis 15:15",
+    "connected_from": "Genesis 15:13"
+  },
+  {
+    "text": "And thou shalt go to thy fathers in peace; thou shalt be buried in a good old age.",
+    "reference": "Genesis 15:15 (DBT)",
+    "connected_to": "Genesis 15:16",
+    "connected_from": "Genesis 15:14"
+  },
+  {
+    "text": "And [in the] fourth generation they shall come hither again; for the iniquity of the Amorites is not yet full.",
+    "reference": "Genesis 15:16 (DBT)",
+    "connected_to": "Genesis 15:17",
+    "connected_from": "Genesis 15:15"
+  },
+  {
+    "text": "And it came to pass when the sun had gone down, and it was dark, that behold, there was a smoking furnace, and a flame of fire which passed between those pieces.",
+    "reference": "Genesis 15:17 (DBT)",
+    "connected_to": "Genesis 15:18",
+    "connected_from": "Genesis 15:16"
+  },
+  {
+    "text": "On the same day Jehovah made a covenant with Abram, saying, Unto thy seed I give this land, from the river of Egypt to the great river, the river Euphrates;",
+    "reference": "Genesis 15:18 (DBT)",
+    "connected_to": "Genesis 15:19",
+    "connected_from": "Genesis 15:17"
+  },
+  {
+    "text": "the Kenites, and the Kenizzites, and the Kadmonites,",
+    "reference": "Genesis 15:19 (DBT)",
+    "connected_to": "Genesis 15:20",
+    "connected_from": "Genesis 15:18"
+  },
+  {
+    "text": "and the Hittites, and the Perizzites, and the Rephaim,",
+    "reference": "Genesis 15:20 (DBT)",
+    "connected_to": "Genesis 15:21",
+    "connected_from": "Genesis 15:19"
+  },
+  {
+    "text": "and the Amorites, and the Canaanites, and the Girgashites, and the Jebusites.",
+    "reference": "Genesis 15:21 (DBT)",
+    "connected_from": "Genesis 15:20"
+  }
+]
