@@ -120,133 +120,112 @@ object BibleRepository {
         "revelation" to "Pahayag", "pahayag" to "Revelation"
     )
 
-    private fun getChapterStream(context: Context, fileName: String, cleanSuffix: String): InputStream? {
-        // 1. Check if the file exists in downloaded internal storage first
-        val downloadedFile = File(context.filesDir, "bibles/$fileName")
-        if (downloadedFile.exists()) {
-            return downloadedFile.inputStream()
-        }
-
-        // 2. Check direct asset file if uncompressed
-        try {
-            return context.assets.open(fileName)
-        } catch (e: Exception) {
-            // Not found as uncompressed asset, move to zip check
-        }
-
-        // 3. Look for a compressed zip archive in assets matching the translation suffix (e.g., kjv.zip)
-        val zipAssetName = "${cleanSuffix}.zip"
-        return try {
-            val zipStream = context.assets.open(zipAssetName)
-            val zipInput = java.util.zip.ZipInputStream(zipStream)
-            var entry = zipInput.nextEntry
-            var foundStream: InputStream? = null
-
-            while (entry != null) {
-                if (entry.name.equals(fileName, ignoreCase = true) || entry.name.endsWith("/$fileName")) {
-                    // Extract entry content into a ByteArrayInputStream
-                    val byteArrayOutputStream = java.io.ByteArrayOutputStream()
-                    val buffer = ByteArray(4096)
-                    var count: Int
-                    while (zipInput.read(buffer).also { count = it } != -1) {
-                        byteArrayOutputStream.write(buffer, 0, count)
-                    }
-                    foundStream = java.io.ByteArrayInputStream(byteArrayOutputStream.toByteArray())
-                    break
-                }
-                zipInput.closeEntry()
-                entry = zipInput.nextEntry
-            }
-            zipInput.close()
-            foundStream
-        } catch (e: Exception) {
-            null
-        }
-    }
-
     fun loadVerses(context: Context, translation: BibleTranslation = currentTranslation) {
         if (isLoaded && translation == currentTranslation) return
         
         currentTranslation = translation
         verses.clear()
         
+        val cleanSuffix = translation.suffix.lowercase()
+        val targetSuffix = "_${cleanSuffix}.json"
+        val zipAssetName = "${cleanSuffix}.zip"
+
         try {
+            var loadedFromZip = false
             val assetFiles = context.assets.list("")?.toList() ?: emptyList()
-            val biblesDir = File(context.filesDir, "bibles")
-            val downloadedFiles = if (biblesDir.exists()) {
-                biblesDir.listFiles()?.map { it.name } ?: emptyList()
-            } else {
-                emptyList()
-            }
 
-            val cleanSuffix = translation.suffix.lowercase()
-            val targetSuffix = "_${cleanSuffix}.json"
-            val singleFileName = "${cleanSuffix}.json"
-            val zipAssetName = "${cleanSuffix}.zip"
-
-            val filesToLoad = mutableListOf<String>()
-
-            // If a zip archive exists in assets (e.g. kjv.zip), read its entry file names
-            if (assetFiles.contains(zipAssetName)) {
+            // 1. Try reading directly from asset ZIP file in a SINGLE PASS
+            if (assetFiles.any { it.equals(zipAssetName, ignoreCase = true) }) {
+                val actualZipName = assetFiles.first { it.equals(zipAssetName, ignoreCase = true) }
                 try {
-                    context.assets.open(zipAssetName).use { stream ->
-                        val zipInput = java.util.zip.ZipInputStream(stream)
-                        var entry = zipInput.nextEntry
-                        while (entry != null) {
-                            if (!entry.isDirectory && entry.name.endsWith(".json")) {
-                                filesToLoad.add(File(entry.name).name)
+                    context.assets.open(actualZipName).use { rawStream ->
+                        java.util.zip.ZipInputStream(rawStream).use { zipInput ->
+                            var entry = zipInput.nextEntry
+                            while (entry != null) {
+                                if (!entry.isDirectory && entry.name.endsWith(".json", ignoreCase = true)) {
+                                    val jsonString = zipInput.bufferedReader().readText()
+                                    parseAndAddVerses(jsonString)
+                                }
+                                zipInput.closeEntry()
+                                entry = zipInput.nextEntry
                             }
-                            zipInput.closeEntry()
-                            entry = zipInput.nextEntry
                         }
                     }
+                    loadedFromZip = verses.isNotEmpty()
                 } catch (e: Exception) {
                     e.printStackTrace()
                 }
             }
 
-            // Also check uncompressed assets or downloaded files
-            val allFiles = (assetFiles + downloadedFiles).distinct()
-            val matchingFiles = allFiles.filter { file ->
-                file.lowercase().endsWith(targetSuffix) || file.lowercase() == singleFileName
-            }
+            // 2. Fallback to individual uncompressed files if zip didn't load (or for downloaded packages)
+            if (!loadedFromZip) {
+                val biblesDir = File(context.filesDir, "bibles")
+                val downloadedFiles = if (biblesDir.exists()) {
+                    biblesDir.listFiles()?.map { it.name } ?: emptyList()
+                } else {
+                    emptyList()
+                }
 
-            filesToLoad.addAll(matchingFiles)
-            val distinctFilesToLoad = filesToLoad.distinct()
+                val allFiles = (assetFiles + downloadedFiles).distinct()
+                val filesToLoad = allFiles.filter { file ->
+                    val lower = file.lowercase()
+                    lower.endsWith(targetSuffix) || lower == "${cleanSuffix}.json"
+                }
 
-            for (fileName in distinctFilesToLoad) {
-                try {
-                    val stream = getChapterStream(context, fileName, cleanSuffix) ?: continue
-                    val jsonString = stream.bufferedReader().use { it.readText() }
-                    stream.close()
-                    
-                    val jsonArray = JSONArray(jsonString)
-                    for (i in 0 until jsonArray.length()) {
-                        val item = jsonArray.getJSONObject(i)
-                        verses.add(
-                            BibleVerse(
-                                text = item.getString("text"),
-                                reference = item.getString("reference"),
-                                connectedTo = item.optString("connected_to", null),
-                                connectedFrom = item.optString("connected_from", null)
-                            )
-                        )
+                for (fileName in filesToLoad) {
+                    try {
+                        val stream = getChapterStream(context, fileName) ?: continue
+                        val jsonString = stream.bufferedReader().use { it.readText() }
+                        stream.close()
+                        parseAndAddVerses(jsonString)
+                    } catch (e: Exception) {
+                        e.printStackTrace()
                     }
-                } catch (e: Exception) {
-                    e.printStackTrace()
                 }
             }
 
             if (verses.isEmpty()) {
-                verses.add(BibleVerse(text = "The Lord is my shepherd; I shall not want.", reference = "Psalm 23:1 (KJV)"))
+                verses.add(BibleVerse(text = "Ang Dios ay ating kanlungan at kalakasang tunay.", reference = "Mga Awit 46:1 (ADB)"))
             }
         } catch (e: Exception) {
             e.printStackTrace()
             if (verses.isEmpty()) {
-                verses.add(BibleVerse(text = "The Lord is my shepherd; I shall not want.", reference = "Psalm 23:1 (KJV)"))
+                verses.add(BibleVerse(text = "Ang Dios ay ating kanlungan at kalakasang tunay.", reference = "Mga Awit 46:1 (ADB)"))
             }
         }
         isLoaded = true
+    }
+
+    // Helper function to parse JSON string into BibleVerse items
+    private fun parseAndAddVerses(jsonString: String) {
+        try {
+            val jsonArray = JSONArray(jsonString)
+            for (i in 0 until jsonArray.length()) {
+                val item = jsonArray.getJSONObject(i)
+                verses.add(
+                    BibleVerse(
+                        text = item.getString("text"),
+                        reference = item.getString("reference"),
+                        connectedTo = item.optString("connected_to", null),
+                        connectedFrom = item.optString("connected_from", null)
+                    )
+                )
+            }
+        } catch (e: Exception) {
+            e.printStackTrace()
+        }
+    }
+
+    private fun getChapterStream(context: Context, fileName: String): InputStream? {
+        val downloadedFile = File(context.filesDir, "bibles/$fileName")
+        if (downloadedFile.exists()) {
+            return downloadedFile.inputStream()
+        }
+        return try {
+            context.assets.open(fileName)
+        } catch (e: Exception) {
+            null
+        }
     }
 
     private fun serveFallback() {
