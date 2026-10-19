@@ -82,6 +82,8 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val textColor: Int,
         val refColor: Int,
         val accentColor: Int,
+        val primaryButtonTint: Int,
+        val primaryButtonTextColor: Int,
         val dialogBgColor: Int,
         val dialogStrokeColor: Int
     )
@@ -291,6 +293,8 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 textColor = Color.parseColor("#2D241E"),
                 refColor = Color.parseColor("#8C6D53"),
                 accentColor = Color.parseColor("#6E472C"),
+                primaryButtonTint = Color.parseColor("#6E472C"),
+                primaryButtonTextColor = Color.WHITE,
                 dialogBgColor = Color.parseColor("#FFFFFF"),
                 dialogStrokeColor = Color.parseColor("#E8E2D5")
             )
@@ -303,6 +307,8 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 textColor = Color.parseColor("#FFFFFF"),
                 refColor = Color.parseColor("#FFB74D"),
                 accentColor = Color.parseColor("#FFB74D"),
+                primaryButtonTint = Color.parseColor("#333333"),
+                primaryButtonTextColor = Color.parseColor("#FFB74D"),
                 dialogBgColor = Color.parseColor("#1E1E1E"),
                 dialogStrokeColor = Color.parseColor("#444444")
             )
@@ -315,6 +321,8 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 textColor = Color.parseColor("#FFFFFF"),
                 refColor = Color.parseColor("#9FA8DA"),
                 accentColor = Color.parseColor("#7986CB"),
+                primaryButtonTint = Color.parseColor("#3F51B5"),
+                primaryButtonTextColor = Color.parseColor("#FFFFFF"),
                 dialogBgColor = Color.parseColor("#121826"),
                 dialogStrokeColor = Color.parseColor("#283593")
             )
@@ -327,6 +335,8 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 textColor = Color.parseColor("#FFFFFF"),
                 refColor = Color.parseColor("#A5D6A7"),
                 accentColor = Color.parseColor("#81C784"),
+                primaryButtonTint = Color.parseColor("#2E7D32"),
+                primaryButtonTextColor = Color.parseColor("#FFFFFF"),
                 dialogBgColor = Color.parseColor("#1A211C"),
                 dialogStrokeColor = Color.parseColor("#2E7D32")
             )
@@ -339,6 +349,8 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 textColor = Color.parseColor("#FFE5D9"),
                 refColor = Color.parseColor("#FFB74D"),
                 accentColor = Color.parseColor("#FFB74D"),
+                primaryButtonTint = Color.parseColor("#A34828"),
+                primaryButtonTextColor = Color.parseColor("#FFFFFF"),
                 dialogBgColor = Color.parseColor("#221A15"),
                 dialogStrokeColor = Color.parseColor("#D77A61")
             )
@@ -1237,7 +1249,12 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         tvVerseText.setTextColor(config.textColor)
         tvVerseRef.setTextColor(config.refColor)
 
-        // Primary Filled Accent Buttons (New Random Bible Verse & Search Bible)
+        btnSettings.text = "⚙️ Settings"
+        btnSettings.setTextColor(config.accentColor)
+        btnSettings.strokeColor = ColorStateList.valueOf(config.accentColor)
+        btnSettings.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
+
+        // Make both New Random Bible Verse & Search Bible match as uniform primary filled action buttons
         val primaryHighlightButtons = listOf(btnRefresh, btnSearch)
         for (btn in primaryHighlightButtons) {
             btn.backgroundTintList = ColorStateList.valueOf(config.primaryButtonTint)
@@ -1247,7 +1264,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             }
         }
 
-        // Secondary Outlined Utility Buttons
         val allUtilityButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout, btnSettings)
         for (btn in allUtilityButtons) {
             btn.setTextColor(config.accentColor)
@@ -1257,7 +1273,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
         updateLanguageToggleUI(BibleRepository.currentTranslation)
     }
-    
+
     private fun updateLanguageToggleUI(translation: BibleTranslation) {
         val isEnglishActive = translation.languageGroup == "English"
         btnEnglish.text = if (isEnglishActive) translation.displayName.uppercase() + " ▾" else "ENGLISH ▾"
