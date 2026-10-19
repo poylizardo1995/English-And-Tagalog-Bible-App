@@ -116,7 +116,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         btnShare = findViewById(R.id.btnShare)
         btnSpeak = findViewById(R.id.btnSpeak)
         btnSelectManual = findViewById(R.id.btnSelectManual)
-        btnSettings = findViewById(R.id.btnToggleTheme)
+        btnSettings = findViewById(R.id.btnSettings)
         
         btnPrev = findViewById(R.id.btnPrev)
         btnNext = findViewById(R.id.btnNext)
