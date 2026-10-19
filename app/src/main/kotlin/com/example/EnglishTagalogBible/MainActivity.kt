@@ -16,6 +16,7 @@ import android.content.res.ColorStateList
 import android.os.Bundle
 import android.speech.tts.TextToSpeech
 import android.speech.tts.UtteranceProgressListener
+import android.speech.tts.Voice
 import android.text.SpannableString
 import android.text.Spanned
 import android.text.style.StyleSpan
@@ -81,8 +82,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val textColor: Int,
         val refColor: Int,
         val accentColor: Int,
-        val primaryButtonTint: Int,
-        val primaryButtonTextColor: Int,
         val dialogBgColor: Int,
         val dialogStrokeColor: Int
     )
@@ -119,7 +118,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         btnAbout = findViewById(R.id.btnAbout)
         verseCard = findViewById(R.id.verseCard)
 
-        // Load saved theme preference
         val prefs = getSharedPreferences(PREFS_NAME, Context.MODE_PRIVATE)
         val savedThemeName = prefs.getString(KEY_SAVED_THEME, ThemeMode.SEPIA.name)
         currentTheme = try {
@@ -132,7 +130,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         btnEnglish = languageToggleInclude.findViewById(R.id.btnKjv)
         btnTagalog = languageToggleInclude.findViewById(R.id.btnTagalog)
 
-        tts = TextToSpeech(this, this)
+        initTTS()
 
         btnEnglish.setOnClickListener { stopAutoPlay(); handleLanguageSelection("English") }
         btnTagalog.setOnClickListener { stopAutoPlay(); handleLanguageSelection("Tagalog") }
@@ -210,24 +208,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
         btnSpeak.setOnClickListener {
             currentVerse?.let { verse ->
-                if (isTtsReady && tts != null) {
+                if (checkAndPromptTTSAvailability()) {
                     stopAutoPlay()
                     speakVerse(verse)
-                } else {
-                    val dialog = AlertDialog.Builder(this)
-                        .setTitle("Text-to-Speech Required")
-                        .setMessage("To listen to verses, please install or update 'Google Speech Recognition & Synthesis' from the Play Store, and select Voice V (English) or Voice IV (Tagalog) in settings.")
-                        .setPositiveButton("Install from Play Store") { _, _ -> promptInstallGoogleTTS() }
-                        .setNegativeButton("Cancel", null)
-                        .create()
-
-                    applyThemedDialogStyle(dialog)
-                    
-                    val isDark = currentTheme != ThemeMode.SEPIA
-                    dialog.findViewById<TextView>(android.R.id.message)?.apply {
-                        textSize = 14f
-                        setTextColor(if (isDark) Color.parseColor("#FFFFFF") else Color.parseColor("#2D241E"))
-                    }
                 }
             }
         }
@@ -240,6 +223,48 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
         applyTheme()
         updateLanguageToggleUI(BibleRepository.currentTranslation)
+    }
+
+    private fun initTTS() {
+        tts = TextToSpeech(this, this)
+    }
+
+    private fun checkAndPromptTTSAvailability(): Boolean {
+        val ttsEngine = tts
+        val isLanguageAvailable = try {
+            if (ttsEngine != null) {
+                val currentLang = BibleRepository.currentTranslation.languageGroup
+                val targetLocale = if (currentLang == "Tagalog") Locale("tl", "PH") else Locale.US
+                val result = ttsEngine.isLanguageAvailable(targetLocale)
+                result != TextToSpeech.LANG_MISSING_DATA && result != TextToSpeech.LANG_NOT_SUPPORTED
+            } else false
+        } catch (e: Exception) {
+            false
+        }
+
+        if (!isTtsReady || ttsEngine == null || !isLanguageAvailable) {
+            stopAutoPlay()
+            showTTSSettingsRequiredDialog()
+            return false
+        }
+        return true
+    }
+
+    private fun showTTSSettingsRequiredDialog() {
+        val dialog = AlertDialog.Builder(this)
+            .setTitle("Text-to-Speech Required")
+            .setMessage("To listen to verses, please install or update 'Google Speech Recognition & Synthesis' from the Play Store, and select Voice V (English) or Voice IV (Tagalog) in settings.")
+            .setPositiveButton("Install from Play Store") { _, _ -> promptInstallGoogleTTS() }
+            .setNegativeButton("Cancel", null)
+            .create()
+
+        applyThemedDialogStyle(dialog)
+        
+        val isDark = currentTheme != ThemeMode.SEPIA
+        dialog.findViewById<TextView>(android.R.id.message)?.apply {
+            textSize = 14f
+            setTextColor(if (isDark) Color.parseColor("#FFFFFF") else Color.parseColor("#2D241E"))
+        }
     }
 
     private fun scheduleDailyVerseNotification() {
@@ -266,8 +291,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 textColor = Color.parseColor("#2D241E"),
                 refColor = Color.parseColor("#8C6D53"),
                 accentColor = Color.parseColor("#6E472C"),
-                primaryButtonTint = Color.parseColor("#6E472C"),
-                primaryButtonTextColor = Color.WHITE,
                 dialogBgColor = Color.parseColor("#FFFFFF"),
                 dialogStrokeColor = Color.parseColor("#E8E2D5")
             )
@@ -280,8 +303,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 textColor = Color.parseColor("#FFFFFF"),
                 refColor = Color.parseColor("#FFB74D"),
                 accentColor = Color.parseColor("#FFB74D"),
-                primaryButtonTint = Color.parseColor("#333333"),
-                primaryButtonTextColor = Color.parseColor("#FFB74D"),
                 dialogBgColor = Color.parseColor("#1E1E1E"),
                 dialogStrokeColor = Color.parseColor("#444444")
             )
@@ -294,8 +315,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 textColor = Color.parseColor("#FFFFFF"),
                 refColor = Color.parseColor("#9FA8DA"),
                 accentColor = Color.parseColor("#7986CB"),
-                primaryButtonTint = Color.parseColor("#3F51B5"),
-                primaryButtonTextColor = Color.parseColor("#FFFFFF"),
                 dialogBgColor = Color.parseColor("#121826"),
                 dialogStrokeColor = Color.parseColor("#283593")
             )
@@ -308,8 +327,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 textColor = Color.parseColor("#FFFFFF"),
                 refColor = Color.parseColor("#A5D6A7"),
                 accentColor = Color.parseColor("#81C784"),
-                primaryButtonTint = Color.parseColor("#2E7D32"),
-                primaryButtonTextColor = Color.parseColor("#FFFFFF"),
                 dialogBgColor = Color.parseColor("#1A211C"),
                 dialogStrokeColor = Color.parseColor("#2E7D32")
             )
@@ -322,8 +339,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 textColor = Color.parseColor("#FFE5D9"),
                 refColor = Color.parseColor("#FFB74D"),
                 accentColor = Color.parseColor("#FFB74D"),
-                primaryButtonTint = Color.parseColor("#A34828"),
-                primaryButtonTextColor = Color.parseColor("#FFFFFF"),
                 dialogBgColor = Color.parseColor("#221A15"),
                 dialogStrokeColor = Color.parseColor("#D77A61")
             )
@@ -335,31 +350,32 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         if (!isTtsReady) return
 
         val currentLanguage = BibleRepository.currentTranslation.languageGroup
+        val availableVoices: Set<Voice>? = try { ttsEngine.voices } catch (e: Exception) { null }
 
         if (currentLanguage == "Tagalog") {
             ttsEngine.language = Locale("tl", "PH")
             
-            val tagalogVoice = ttsEngine.voices?.find { voice ->
-                voice.locale.language.contains("tl", ignoreCase = true) && 
-                (voice.name.contains("iv", ignoreCase = true) || 
-                 voice.name.contains("tag", ignoreCase = true) || 
-                 voice.name.contains("4"))
-            } ?: ttsEngine.voices?.find { it.locale.language.contains("tl", ignoreCase = true) }
+            val tagalogVoice = availableVoices?.find { voice ->
+                val name = voice.name.lowercase()
+                (voice.locale.language.contains("tl") || voice.locale.language.contains("fil")) &&
+                (name.contains("sfg") || name.contains("tag") || name.contains("iv") || name.contains("4"))
+            } ?: availableVoices?.find { 
+                it.locale.language.contains("tl") || it.locale.language.contains("fil") 
+            }
 
-            tagalogVoice?.let { ttsEngine.voice = it }
+            tagalogVoice?.let { try { ttsEngine.voice = it } catch (_: Exception) {} }
             ttsEngine.setSpeechRate(0.88f)
             ttsEngine.setPitch(1.0f)
         } else {
             ttsEngine.language = Locale.US
 
-            val englishVoice = ttsEngine.voices?.find { voice ->
-                voice.locale.language.contains("en", ignoreCase = true) && 
-                (voice.name.contains("v", ignoreCase = true) || 
-                 voice.name.contains("sfg", ignoreCase = true) || 
-                 voice.name.contains("5"))
-            } ?: ttsEngine.voices?.find { it.locale.language.contains("en", ignoreCase = true) }
+            val englishVoice = availableVoices?.find { voice ->
+                val name = voice.name.lowercase()
+                voice.locale.language.contains("en") &&
+                (name.contains("sfg") || name.contains("v") || name.contains("5") || name.contains("network"))
+            } ?: availableVoices?.find { it.locale.language.contains("en") }
 
-            englishVoice?.let { ttsEngine.voice = it }
+            englishVoice?.let { try { ttsEngine.voice = it } catch (_: Exception) {} }
             ttsEngine.setSpeechRate(0.95f)
             ttsEngine.setPitch(1.0f)
         }
@@ -423,7 +439,12 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
 
     private fun exitApp() {
-        finishAffinity()
+        stopAutoPlay()
+        tts?.stop()
+        tts?.shutdown()
+        finishAndRemoveTask()
+        android.os.Process.killProcess(android.os.Process.myPid())
+        kotlin.system.exitProcess(0)
     }
 
     private fun applyThemedDialogStyle(dialog: AlertDialog) {
@@ -1087,22 +1108,8 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
     
     private fun startAutoPlay() {
-        if (!isTtsReady && tts == null) {
-            val dialog = AlertDialog.Builder(this)
-                .setTitle("Text-to-Speech Required")
-                .setMessage("To use Auto-Play, please install or update 'Google Speech Recognition & Synthesis' from the Play Store, and select Voice V (English) or Voice IV (Tagalog) in settings.")
-                .setPositiveButton("Install from Play Store") { _, _ -> promptInstallGoogleTTS() }
-                .setNegativeButton("Cancel", null)
-                .create()
-
-            applyThemedDialogStyle(dialog)
-
-            val isDark = currentTheme != ThemeMode.SEPIA
-            dialog.findViewById<TextView>(android.R.id.message)?.apply {
-                textSize = 14f
-                setTextColor(if (isDark) Color.parseColor("#FFFFFF") else Color.parseColor("#2D241E"))
-            }
-            return 
+        if (!checkAndPromptTTSAvailability()) {
+            return
         }
         
         isAutoPlaying = true
@@ -1134,6 +1141,11 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
     private fun playNextAutoPlayVerse() {
         val verse = currentVerse ?: return
+
+        if (!checkAndPromptTTSAvailability()) {
+            stopAutoPlay()
+            return
+        }
 
         val nextVerseInChapter = BibleRepository.getNextVerse(verse, this)
         if (nextVerseInChapter != null) {
@@ -1230,15 +1242,18 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         btnSettings.strokeColor = ColorStateList.valueOf(config.accentColor)
         btnSettings.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
 
-        listOf(btnRefresh, btnSearch).forEach { btn ->
-            btn.backgroundTintList = ColorStateList.valueOf(config.primaryButtonTint)
-            btn.setTextColor(config.primaryButtonTextColor)
+        // Make btnRefresh (Random) and btnSearch uniform with all other pill buttons and apply theme accent highlights
+        val primaryHighlightButtons = listOf(btnRefresh, btnSearch)
+        for (btn in primaryHighlightButtons) {
+            btn.setTextColor(config.accentColor)
             if (btn is MaterialButton) {
                 btn.strokeColor = ColorStateList.valueOf(config.accentColor)
+                btn.strokeWidth = 3
             }
+            btn.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
         }
 
-        val allUtilityButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout, btnSettings)
+        val allUtilityButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout, btnSettings, btnSelectManual)
         for (btn in allUtilityButtons) {
             btn.setTextColor(config.accentColor)
             btn.strokeColor = ColorStateList.valueOf(config.accentColor)
@@ -1332,8 +1347,8 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
 
     private fun speakVerse(verse: BibleVerse) {
+        if (!checkAndPromptTTSAvailability()) return
         val ttsEngine = tts ?: return
-        if (!isTtsReady) return
 
         configureTTSVoiceForCurrentLanguage()
 
@@ -1351,7 +1366,8 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
     
     override fun onDestroy() {
-        tts?.stop(); tts?.shutdown()
+        tts?.stop()
+        tts?.shutdown()
         super.onDestroy()
     }
 }
