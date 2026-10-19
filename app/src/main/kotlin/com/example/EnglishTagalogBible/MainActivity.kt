@@ -491,7 +491,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         "🔊 Text-to-Speech Settings (Google TTS)",
         notificationToggleLabel,
         "🚪 Exit App",
-        "❌ Close"
+        "Close"
     )
 
     var dialog: AlertDialog? = null
@@ -600,9 +600,10 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                         this.setTypeface(null, android.graphics.Typeface.BOLD)
                     } else if (text.contains("📜") || text.contains("✝️") || text.contains("📖") || text.contains("🗑️") ||
                         text.contains("✅") || text.contains("⬇️") || text.contains("🌐") || text.contains("🖼️") || 
-                        text.contains("📝") || text.contains("🟤") || text.contains("⚫") || text.contains("❌") || 
+                        text.contains("📝") || text.contains("🟤") || text.contains("⚫") || text.contains("Close") || 
                         text.contains("🔵") || text.contains("🟢") || text.contains("🟠") || text.contains("▶ Auto-Play ") || 
-                        text.contains("🔊") || text.contains("⚙️") || text.contains("🎨") || text.contains("🚪") ||
+                        text.contains("🔊") || text.contains("⚙️") || text.contains("🎨") || text.contains("🚪") || 
+                        text.contains("🔔") || text.contains("🔕") ||
                         text.contains("• Active")) {
  
                         this.setTextColor(accentColor)
@@ -1140,7 +1141,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             allCategoryTitle to allBooksAlphabetical
         )
 
-        val categories = (categoryMap.keys + "❌ Close").toTypedArray()
+        val categories = (categoryMap.keys + "Close").toTypedArray()
 
         var categoryDialog: AlertDialog? = null
         categoryDialog = AlertDialog.Builder(this)
@@ -1159,7 +1160,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                     item.startsWith("—") || availableBooksInTranslation.any { it.equals(item, ignoreCase = true) }
                 }
 
-                val finalBookList = (filteredCategoryItems + "❌ Close").toTypedArray()
+                val finalBookList = (filteredCategoryItems + "Close").toTypedArray()
 
                 var bookDialog: AlertDialog? = null
                 bookDialog = AlertDialog.Builder(this)
@@ -1185,7 +1186,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
     
     private fun showChapterSelectionDialog(bookName: String) {
-        val chapters = (BibleRepository.getChaptersForBook(bookName, this) + "❌ Close").toTypedArray()
+        val chapters = (BibleRepository.getChaptersForBook(bookName, this) + "Close").toTypedArray()
         var dialog: AlertDialog? = null
         dialog = AlertDialog.Builder(this)
             .setTitle("Select Chapter in $bookName")
@@ -1202,7 +1203,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
     private fun showVerseSelectionDialog(chapterName: String) {
         val chapterVerses = BibleRepository.getVerseObjectsForChapter(chapterName, this)
-        val verseTitles = (chapterVerses.map { it.reference } + "❌ Close").toTypedArray()
+        val verseTitles = (chapterVerses.map { it.reference } + "Close").toTypedArray()
         var dialog: AlertDialog? = null
         dialog = AlertDialog.Builder(this)
             .setTitle("Select Verse in $chapterName")
