@@ -191,7 +191,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
         btnShare.setOnClickListener { showShareOptionsDialog() }
         btnSpeak.setOnClickListener {
-            if (isTtsReady && tts != null) {
+            if (isTtsReady || tts != null) {
                 stopAutoPlay()
                 showAudioOptionsDialog()
             } else {
@@ -206,7 +206,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
                 applyThemedDialogStyle(dialog)
                 
-                // Style message text for dark/sepia themes
                 val isDark = currentTheme != ThemeMode.SEPIA
                 dialog.findViewById<TextView>(android.R.id.message)?.apply {
                     textSize = 14f
@@ -1028,7 +1027,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
     
     private fun startAutoPlay() {
-        if (!isTtsReady || tts == null) {
+        if (!isTtsReady && tts == null) {
             val dialog = AlertDialog.Builder(this)
                 .setTitle("Text-to-Speech Required")
                 .setMessage("To use Auto-Play, please install or update 'Google Speech Recognition & Synthesis' from the Play Store, and select Voice V (English) or Voice IV (Tagalog) in settings.")
