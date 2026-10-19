@@ -107,6 +107,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         private const val KEY_VERSE_REF = "key_verse_ref"
         private const val PREFS_NAME = "BibleAppPrefs"
         private const val KEY_SAVED_THEME = "saved_theme_mode"
+        private const val KEY_HAS_SEEN_WELCOME = "key_has_seen_welcome_v14"
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -242,6 +243,43 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
         applyTheme()
         updateLanguageToggleUI(BibleRepository.currentTranslation)
+
+        // Show polished startup intro on first launch
+        showWelcomeIntroDialog()
+    }
+
+    private fun showWelcomeIntroDialog() {
+        val prefs = getSharedPreferences(PREFS_NAME, Context.MODE_PRIVATE)
+        val hasSeenWelcome = prefs.getBoolean(KEY_HAS_SEEN_WELCOME, false)
+
+        if (!hasSeenWelcome) {
+            prefs.edit().putBoolean(KEY_HAS_SEEN_WELCOME, true).apply()
+
+            val isDark = currentTheme != ThemeMode.SEPIA
+            val textColor = if (isDark) Color.parseColor("#FFFFFF") else Color.parseColor("#2D241E")
+
+            val introMessage = "📖 **English & Tagalog Bible** v1.4\n\n" +
+                    "✨ **Developed by Poy Lizardo**\n" +
+                    "Copyright © 2026. All Rights Reserved. To God be the glory!\n\n" +
+                    "Welcome! Experience daily inspiration in both English and Tagalog:\n\n" +
+                    "Tap 'Get Started' to begin your reading journey."
+
+            val dialog = AlertDialog.Builder(this)
+                .setTitle("✝️ Grace & Peace")
+                .setMessage(introMessage)
+                .setPositiveButton("Get Started") { dialogInterface, _ ->
+                    dialogInterface.dismiss()
+                }
+                .create()
+
+            applyThemedDialogStyle(dialog)
+
+            dialog.findViewById<TextView>(android.R.id.message)?.apply {
+                textSize = 14f
+                setTextColor(textColor)
+                setLineSpacing(0f, 1.3f)
+            }
+        }
     }
 
     private fun scheduleMultipleDailyNotifications() {
