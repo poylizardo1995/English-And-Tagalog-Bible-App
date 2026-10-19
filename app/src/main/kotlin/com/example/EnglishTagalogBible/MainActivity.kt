@@ -443,26 +443,52 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
 
     private fun showSettingsDialog() {
-        val options = arrayOf(
-            "🎨 Change Reading Theme",
-            "🔊 Text-to-Speech Settings (Google TTS)",
-            "🚪 Exit App"
-        )
+    val prefs = getSharedPreferences(PREFS_NAME, Context.MODE_PRIVATE)
+    val isNotificationsEnabled = prefs.getBoolean("key_notifications_enabled", true)
+    val notificationToggleLabel = if (isNotificationsEnabled) "🔔 Daily Notifications: ON" else "🔕 Daily Notifications: OFF"
 
-        val dialog = AlertDialog.Builder(this)
-            .setTitle("Settings")
-            .setAdapter(createCenteredListAdapter(options)) { _, index ->
+    val options = arrayOf(
+        "🎨 Change Reading Theme",
+        "🔊 Text-to-Speech Settings (Google TTS)",
+        notificationToggleLabel,
+        "🚪 Exit App",
+        "❌ Close"
+    )
+
+    var dialog: AlertDialog? = null
+    dialog = AlertDialog.Builder(this)
+        .setTitle("Settings")
+        .setAdapter(createCenteredListAdapter(options)) { _, index ->
                 when (index) {
                     0 -> showThemeSelectionDialog()
                     1 -> openSystemTTSSettings()
-                    2 -> exitApp()
+                    2 -> {
+                        // Toggle notification preference
+                        val newState = !isNotificationsEnabled
+                        prefs.edit().putBoolean("key_notifications_enabled", newState).apply()
+                        
+                        val workManager = WorkManager.getInstance(this)
+                        if (newState) {
+                            scheduleMultipleDailyNotifications()
+                            showCenteredToast("Daily notifications enabled.")
+                        } else {
+                            workManager.cancelAllWorkByTag("BibleNotificationSlot")
+                            // Clear active notification if turned off
+                            val manager = getSystemService(Context.NOTIFICATION_SERVICE) as NotificationManager
+                            manager.cancel(1001)
+                            showCenteredToast("Daily notifications disabled.")
+                        }
+                        dialog?.dismiss()
+                    }
+                    3 -> exitApp()
+                    4 -> dialog?.dismiss()
                 }
             }
             .create()
-
+    
         applyThemedDialogStyle(dialog)
     }
-
+    
     private fun showThemeSelectionDialog() {
         val themes = ThemeMode.values()
         val options = themes.map { it.displayName }.toTypedArray()
