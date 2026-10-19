@@ -295,9 +295,8 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     private fun showTTSSettingsRequiredDialog() {
         val dialog = AlertDialog.Builder(this)
             .setTitle("Text-to-Speech Settings")
-            .setMessage("To listen to verses, please ensure your Text-to-Speech engine is installed and set up.\n\nRecommended: English (US) — Voice V or Filipino (Philippines) — Voice IV for the best experience.")
-            .setPositiveButton("Open TTS Settings") { _, _ -> openSystemTTSSettings() }
-            .setNeutralButton("Play Store") { _, _ -> promptInstallGoogleTTS() }
+            .setMessage("To listen to verses, please ensure your Text-to-Speech engine is installed and set up.\n\nFor the best experience we recommended:\nEnglish (US) — Voice V\nFilipino (Philippines) — Voice IV")
+            .setPositiveButton("Play Store") { _, _ -> promptInstallGoogleTTS() }
             .setNegativeButton("Cancel", null)
             .create()
 
