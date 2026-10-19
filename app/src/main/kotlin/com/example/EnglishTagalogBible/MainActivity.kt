@@ -14,6 +14,10 @@ import android.graphics.Shader
 import android.graphics.Typeface
 import android.content.res.ColorStateList
 import android.os.Bundle
+import android.os.Handler
+import android.os.Looper
+import android.view.Gravity
+import android.widget.ProgressBar
 import android.speech.tts.TextToSpeech
 import android.speech.tts.UtteranceProgressListener
 import android.speech.tts.Voice
@@ -25,6 +29,7 @@ import android.view.ViewGroup
 import android.view.animation.AlphaAnimation
 import android.widget.Button
 import android.widget.TextView
+import android.widget.LinearLayout
 import android.widget.Toast
 import android.app.NotificationManager
 import androidx.appcompat.app.AlertDialog
@@ -240,11 +245,11 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
 
     private fun scheduleMultipleDailyNotifications() {
-    val workManager = WorkManager.getInstance(this)
-    val targetHours = listOf(6, 12, 15, 20, 23) // Morning, Lunch, 3PM, Night, Midnight
-    val targetMinutes = listOf(0, 0, 0, 0, 30)
+        val workManager = WorkManager.getInstance(this)
+        val targetHours = listOf(6, 12, 15, 20, 23)
+        val targetMinutes = listOf(0, 0, 0, 0, 30)
 
-    for (i in targetHours.indices) {
+        for (i in targetHours.indices) {
             val delay = calculateInitialDelay(targetHours[i], targetMinutes[i])
             val dailyWorkRequest = OneTimeWorkRequestBuilder<DailyVerseWorker>()
                 .setInitialDelay(delay, TimeUnit.MILLISECONDS)
@@ -283,7 +288,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val isLanguageAvailable = try {
             if (ttsEngine != null) {
                 val currentLang = BibleRepository.currentTranslation.languageGroup
-                // Strictly target US English or Philippine Filipino/Tagalog
                 val targetLocale = if (currentLang == "Tagalog") Locale("fil", "PH") else Locale.US
                 val result = ttsEngine.isLanguageAvailable(targetLocale)
                 result != TextToSpeech.LANG_MISSING_DATA && result != TextToSpeech.LANG_NOT_SUPPORTED
@@ -304,7 +308,8 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val dialog = AlertDialog.Builder(this)
             .setTitle("Text-to-Speech Settings")
             .setMessage("To listen to verses, please ensure your Text-to-Speech engine is installed and set up.\n\nFor the best experience, we recommend:\n• English (US) — Voice V\n• Filipino (Philippines) — Voice IV")
-            .setPositiveButton("Play Store") { _, _ -> promptInstallGoogleTTS() }
+            .setPositiveButton("Open TTS Settings") { _, _ -> openSystemTTSSettingsWithIntro() }
+            .setNeutralButton("Play Store") { _, _ -> promptInstallGoogleTTS() }
             .setNegativeButton("Cancel", null)
             .create()
 
@@ -410,8 +415,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         if (!isTtsReady) return
 
         val currentLanguage = BibleRepository.currentTranslation.languageGroup
-        
-        // Set locale based on the active user selection
         val targetLocale = if (currentLanguage == "Tagalog") {
             Locale("fil", "PH")
         } else {
@@ -422,7 +425,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             ttsEngine.language = targetLocale
         } catch (_: Exception) {}
 
-        // Set natural reading pace
         if (currentLanguage == "Tagalog") {
             ttsEngine.setSpeechRate(0.88f)
         } else {
@@ -431,8 +433,57 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         ttsEngine.setPitch(1.0f)
     }
     
+    private fun openSystemTTSSettingsWithIntro() {
+        val isDark = currentTheme != ThemeMode.SEPIA
+        val primaryColor = if (isDark) Color.parseColor("#E8D5C4") else Color.parseColor("#6E472C")
+        val textColor = if (isDark) Color.parseColor("#FFFFFF") else Color.parseColor("#2D241E")
+
+        val layout = LinearLayout(this).apply {
+            orientation = LinearLayout.VERTICAL
+            setPadding(60, 40, 60, 20)
+            gravity = Gravity.CENTER
+        }
+
+        val progressBar = ProgressBar(this).apply {
+            isIndeterminate = true
+            indeterminateTintList = ColorStateList.valueOf(primaryColor)
+            layoutParams = LinearLayout.LayoutParams(
+                LinearLayout.LayoutParams.WRAP_CONTENT,
+                LinearLayout.LayoutParams.WRAP_CONTENT
+            ).apply {
+                bottomMargin = 30
+            }
+        }
+
+        val messageText = TextView(this).apply {
+            text = "Opening Text-to-Speech Settings...\n\nConfigure your preferred voice engine (e.g. English US or Filipino) for daily verse listening."
+            textSize = 14f
+            setTextColor(textColor)
+            gravity = Gravity.CENTER
+            setLineSpacing(0f, 1.2f)
+        }
+
+        layout.addView(progressBar)
+        layout.addView(messageText)
+
+        val dialog = AlertDialog.Builder(this)
+            .setTitle("🎙️ Speech Engine Setup")
+            .setView(layout)
+            .setCancelable(false)
+            .create()
+
+        applyThemedDialogStyle(dialog)
+        dialog.show()
+
+        Handler(Looper.getMainLooper()).postDelayed({
+            if (!isFinishing && !isDestroyed) {
+                dialog.dismiss()
+                openSystemTTSSettings()
+            }
+        }, 1200)
+    }
+
     private fun openSystemTTSSettings() {
-        // Check if Google TTS package is installed on the device
         val isTtsPackageInstalled = try {
             packageManager.getPackageInfo("com.google.android.tts", 0)
             true
@@ -441,12 +492,10 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         }
 
         if (!isTtsPackageInstalled) {
-            // Show the install dialog if missing
             showTTSSettingsRequiredDialog()
             return
         }
 
-        // If installed, attempt to open system TTS or Voice settings
         var opened = false
         val intentsToTry = listOf(
             Intent("com.google.android.tts.settings.VoiceDataActivity").apply { flags = Intent.FLAG_ACTIVITY_NEW_TASK },
@@ -468,27 +517,26 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
 
     private fun showSettingsDialog() {
-    val prefs = getSharedPreferences(PREFS_NAME, Context.MODE_PRIVATE)
-    val isNotificationsEnabled = prefs.getBoolean("key_notifications_enabled", true)
-    val notificationToggleLabel = if (isNotificationsEnabled) "🔔 Daily Notifications: ON" else "🔕 Daily Notifications: OFF"
+        val prefs = getSharedPreferences(PREFS_NAME, Context.MODE_PRIVATE)
+        val isNotificationsEnabled = prefs.getBoolean("key_notifications_enabled", true)
+        val notificationToggleLabel = if (isNotificationsEnabled) "🔔 Daily Notifications: ON" else "🔕 Daily Notifications: OFF"
 
-    val options = arrayOf(
-        "🎨 Change Reading Theme",
-        "🔊 Text-to-Speech Settings (Google TTS)",
-        notificationToggleLabel,
-        "🚪 Exit App",
-        "Close"
-    )
+        val options = arrayOf(
+            "🎨 Change Reading Theme",
+            "🔊 Text-to-Speech Settings (Google TTS)",
+            notificationToggleLabel,
+            "🚪 Exit App",
+            "Close"
+        )
 
-    var dialog: AlertDialog? = null
-    dialog = AlertDialog.Builder(this)
-        .setTitle("Settings")
-        .setAdapter(createCenteredListAdapter(options)) { _, index ->
+        var dialog: AlertDialog? = null
+        dialog = AlertDialog.Builder(this)
+            .setTitle("Settings")
+            .setAdapter(createCenteredListAdapter(options)) { _, index ->
                 when (index) {
                     0 -> showThemeSelectionDialog()
-                    1 -> openSystemTTSSettings()
+                    1 -> openSystemTTSSettingsWithIntro()
                     2 -> {
-                        // Toggle notification preference
                         val newState = !isNotificationsEnabled
                         prefs.edit().putBoolean("key_notifications_enabled", newState).apply()
                         
@@ -498,7 +546,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                             showCenteredToast("Daily notifications enabled.")
                         } else {
                             workManager.cancelAllWorkByTag("BibleNotificationSlot")
-                            // Clear active notification if turned off
                             val manager = getSystemService(Context.NOTIFICATION_SERVICE) as NotificationManager
                             manager.cancel(1001)
                             showCenteredToast("Daily notifications disabled.")
@@ -568,7 +615,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         return object : android.widget.ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, items) {
             override fun isEnabled(position: Int): Boolean {
                 val item = items[position]
-                // Make section header titles starting with "—" non-clickable
                 return !item.startsWith("—")
             }
 
@@ -581,7 +627,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                     this.setPadding(0, 28, 0, 28)
                     
                     if (text.startsWith("—")) {
-                        // Section headers disabled / styled differently
                         this.setTextColor(accentColor)
                         this.setTypeface(null, android.graphics.Typeface.BOLD)
                     } else if (text.contains("📜") || text.contains("✝️") || text.contains("📖") || text.contains("🗑️") ||
@@ -1359,7 +1404,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         btnSettings.strokeColor = ColorStateList.valueOf(config.accentColor)
         btnSettings.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
 
-        // Make both New Random Bible Verse & Search Bible match as uniform primary filled action buttons
         val primaryHighlightButtons = listOf(btnRefresh, btnSearch)
         for (btn in primaryHighlightButtons) {
             btn.backgroundTintList = ColorStateList.valueOf(config.primaryButtonTint)
