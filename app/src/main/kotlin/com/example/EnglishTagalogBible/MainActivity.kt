@@ -702,7 +702,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
 
     private fun showAutoPlayOptionsDialog() {
-        val options = arrayOf("▶ Auto-Play Chapter", "▶ Auto-Play Book", "▶ Auto-Play All Books")
+        val options = arrayOf("▶ Auto-Play Chapter", "▶ Auto-Play Book", "▶ Auto-Play All Books", "Close")
         val dialog = AlertDialog.Builder(this)
             .setTitle("Select Auto-Play Mode")
             .setAdapter(createCenteredListAdapter(options)) { _, which ->
