@@ -487,6 +487,12 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val accentColor = getThemeConfig(currentTheme).accentColor
 
         return object : android.widget.ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, items) {
+            override fun isEnabled(position: Int): Boolean {
+                val item = items[position]
+                // Make section header titles starting with "—" non-clickable
+                return !item.startsWith("—")
+            }
+
             override fun getView(position: Int, convertView: android.view.View?, parent: ViewGroup): android.view.View {
                 val view = super.getView(position, convertView, parent)
                 val text = items[position]
@@ -495,10 +501,13 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                     this.textAlignment = android.view.View.TEXT_ALIGNMENT_CENTER
                     this.setPadding(0, 28, 0, 28)
                     
-                    if (text.startsWith("—") || 
-                        text.contains("📜") || text.contains("✝️") || text.contains("📖") || text.contains("🗑️") ||
+                    if (text.startsWith("—")) {
+                        // Section headers disabled / styled differently
+                        this.setTextColor(accentColor)
+                        this.setTypeface(null, android.graphics.Typeface.BOLD)
+                    } else if (text.contains("📜") || text.contains("✝️") || text.contains("📖") || text.contains("🗑️") ||
                         text.contains("✅") || text.contains("⬇️") || text.contains("🌐") || text.contains("🖼️") || 
-                        text.contains("📝") || text.contains("🟤") || text.contains("⚫") || 
+                        text.contains("📝") || text.contains("🟤") || text.contains("⚫") || text.contains("❌") || 
                         text.contains("🔵") || text.contains("🟢") || text.contains("🟠") || text.contains("▶ Auto-Play ") || 
                         text.contains("🔊") || text.contains("⚙️") || text.contains("🎨") || text.contains("🚪") ||
                         text.contains("• Active")) {
@@ -1038,11 +1047,17 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             allCategoryTitle to allBooksAlphabetical
         )
 
-        val categories = categoryMap.keys.toTypedArray()
+        val categories = (categoryMap.keys + "❌ Close").toTypedArray()
 
-        val categoryDialog = AlertDialog.Builder(this)
+        var categoryDialog: AlertDialog? = null
+        categoryDialog = AlertDialog.Builder(this)
             .setTitle("Select Category")
             .setAdapter(createCenteredListAdapter(categories)) { _, catIndex ->
+                if (catIndex == categories.size - 1) {
+                    categoryDialog?.dismiss()
+                    return@setAdapter
+                }
+
                 val selectedCategory = categories[catIndex]
                 val categoryItems = categoryMap[selectedCategory] ?: emptyArray()
 
@@ -1051,24 +1066,25 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                     item.startsWith("—") || availableBooksInTranslation.any { it.equals(item, ignoreCase = true) }
                 }
 
-                val bookCount = filteredCategoryItems.count { !it.startsWith("—") }
+                val finalBookList = (filteredCategoryItems + "❌ Close").toTypedArray()
 
-                if (bookCount == 0) {
-                    val activeTranslation = BibleRepository.currentTranslation
-                    showCenteredToast("${activeTranslation.displayName} - ${activeTranslation.fullTranslationName}")
-                } else {
-                    val bookDialog = AlertDialog.Builder(this)
-                        .setTitle(selectedCategory)
-                        .setAdapter(createCenteredListAdapter(filteredCategoryItems.toTypedArray())) { _, bookIndex ->
-                            val selectedItem = filteredCategoryItems[bookIndex]
-                            if (!selectedItem.startsWith("—")) {
-                                showChapterSelectionDialog(selectedItem)
-                            }
+                var bookDialog: AlertDialog? = null
+                bookDialog = AlertDialog.Builder(this)
+                    .setTitle(selectedCategory)
+                    .setAdapter(createCenteredListAdapter(finalBookList)) { _, bookIndex ->
+                        if (bookIndex == finalBookList.size - 1) {
+                            bookDialog?.dismiss()
+                            return@setAdapter
                         }
-                        .create()
 
-                    applyThemedDialogStyle(bookDialog)
-                }
+                        val selectedItem = finalBookList[bookIndex]
+                        if (!selectedItem.startsWith("—")) {
+                            showChapterSelectionDialog(selectedItem)
+                        }
+                    }
+                    .create()
+
+                applyThemedDialogStyle(bookDialog)
             }
             .create()
 
@@ -1076,10 +1092,15 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
     
     private fun showChapterSelectionDialog(bookName: String) {
-        val chapters = BibleRepository.getChaptersForBook(bookName, this).toTypedArray()
-        val dialog = AlertDialog.Builder(this)
+        val chapters = (BibleRepository.getChaptersForBook(bookName, this) + "❌ Close").toTypedArray()
+        var dialog: AlertDialog? = null
+        dialog = AlertDialog.Builder(this)
             .setTitle("Select Chapter in $bookName")
             .setAdapter(createCenteredListAdapter(chapters)) { _, which ->
+                if (which == chapters.size - 1) {
+                    dialog?.dismiss()
+                    return@setAdapter
+                }
                 showVerseSelectionDialog(chapters[which])
             }
             .create()
@@ -1088,16 +1109,21 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
     private fun showVerseSelectionDialog(chapterName: String) {
         val chapterVerses = BibleRepository.getVerseObjectsForChapter(chapterName, this)
-        val verseTitles = chapterVerses.map { it.reference }.toTypedArray()
-        val dialog = AlertDialog.Builder(this)
+        val verseTitles = (chapterVerses.map { it.reference } + "❌ Close").toTypedArray()
+        var dialog: AlertDialog? = null
+        dialog = AlertDialog.Builder(this)
             .setTitle("Select Verse in $chapterName")
             .setAdapter(createCenteredListAdapter(verseTitles)) { _, which ->
+                if (which == verseTitles.size - 1) {
+                    dialog?.dismiss()
+                    return@setAdapter
+                }
                 displayVerse(chapterVerses[which])
             }
             .create()
         applyThemedDialogStyle(dialog)
     }
-
+    
     private fun displayVerse(verse: BibleVerse) {
         currentVerse = verse
         tvVerseText.text = verse.text
