@@ -394,6 +394,21 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
 
     private fun openSystemTTSSettings() {
+        // Check if Google TTS package is installed on the device
+        val isTtsPackageInstalled = try {
+            packageManager.getPackageInfo("com.google.android.tts", 0)
+            true
+        } catch (e: Exception) {
+            false
+        }
+
+        if (!isTtsPackageInstalled) {
+            // Show the install dialog if missing
+            showTTSSettingsRequiredDialog()
+            return
+        }
+
+        // If installed, attempt to open system TTS or Voice settings
         var opened = false
         val intentsToTry = listOf(
             Intent("com.google.android.tts.settings.VoiceDataActivity").apply { flags = Intent.FLAG_ACTIVITY_NEW_TASK },
