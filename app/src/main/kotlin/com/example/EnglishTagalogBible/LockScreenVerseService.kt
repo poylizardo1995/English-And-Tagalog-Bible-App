@@ -76,8 +76,8 @@ object LockScreenVerseService {
             .setVisibility(NotificationCompat.VISIBILITY_PUBLIC)
             .setPriority(NotificationCompat.PRIORITY_DEFAULT)
             .setAutoCancel(true)
-            .addAction(R.drawable.ic_copy, "Copy", copyPendingIntent)
-            .addAction(R.drawable.ic_share, "Share", sharePendingIntent)
+            .addAction(android.R.drawable.ic_menu_set_as, "Copy", copyPendingIntent)
+            .addAction(android.R.drawable.ic_menu_send, "Share", sharePendingIntent)
             .build()
 
         notificationManager.notify(NOTIFICATION_ID, notification)
