@@ -195,14 +195,23 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 stopAutoPlay()
                 showAudioOptionsDialog()
             } else {
-                AlertDialog.Builder(this)
+                val dialog = AlertDialog.Builder(this)
                     .setTitle("Text-to-Speech Required")
-                    .setMessage("To listen to verses, please install or update 'Google Speech Recognition & Synthesis' from the Play Store, and select Voice V (English) or Voice IV (Tagalog) in settings.")
+                    .setMessage("To listen to verses, please install or update 'Google Speech Recognition & Synthesis' from the Play Store[cite: 8], and select Voice V (English) or Voice IV (Tagalog) in settings.")
                     .setPositiveButton("Install from Play Store") { _, _ ->
                         promptInstallGoogleTTS()
                     }
                     .setNegativeButton("Cancel", null)
-                    .show()
+                    .create()
+
+                applyThemedDialogStyle(dialog)
+                
+                // Style message text for dark/sepia themes
+                val isDark = currentTheme != ThemeMode.SEPIA
+                dialog.findViewById<TextView>(android.R.id.message)?.apply {
+                    textSize = 14f
+                    setTextColor(if (isDark) Color.parseColor("#FFFFFF") else Color.parseColor("#2D241E"))
+                }
             }
         }
 
@@ -1022,14 +1031,22 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     
     private fun startAutoPlay() {
         if (!isTtsReady || tts == null) {
-            AlertDialog.Builder(this)
+            val dialog = AlertDialog.Builder(this)
                 .setTitle("Text-to-Speech Required")
-                .setMessage("To use Auto-Play, please install or update 'Google Speech Recognition & Synthesis' from the Play Store, and select Voice V (English) or Voice IV (Tagalog) in settings.")
+                .setMessage("To use Auto-Play, please install or update 'Google Speech Recognition & Synthesis' from the Play Store[cite: 8], and select Voice V (English) or Voice IV (Tagalog) in settings.")
                 .setPositiveButton("Install from Play Store") { _, _ ->
                     promptInstallGoogleTTS()
                 }
                 .setNegativeButton("Cancel", null)
-                .show()
+                .create()
+
+            applyThemedDialogStyle(dialog)
+
+            val isDark = currentTheme != ThemeMode.SEPIA
+            dialog.findViewById<TextView>(android.R.id.message)?.apply {
+                textSize = 14f
+                setTextColor(if (isDark) Color.parseColor("#FFFFFF") else Color.parseColor("#2D241E"))
+            }
             return 
         }
         
