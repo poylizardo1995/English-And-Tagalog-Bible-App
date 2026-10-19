@@ -252,29 +252,33 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val currentLanguage = BibleRepository.currentTranslation.languageGroup
 
         if (currentLanguage == "Tagalog") {
-            val localeTagalog = Locale("tl", "PH")
-            ttsEngine.language = localeTagalog
+            ttsEngine.language = Locale("tl", "PH")
             
+            // Auto-select Voice IV (Tagalog network / tag voice) if available in freshly installed pack
             val tagalogVoice = ttsEngine.voices?.find { voice ->
-                voice.locale.language == "tl" && 
+                voice.locale.language.contains("tl", ignoreCase = true) && 
                 (voice.name.contains("iv", ignoreCase = true) || 
                  voice.name.contains("tag", ignoreCase = true) || 
                  voice.name.contains("4"))
-            } ?: ttsEngine.voices?.find { it.locale.language.startsWith("tl") || it.locale.language.startsWith("fil") }
+            } ?: ttsEngine.voices?.find { it.locale.language.contains("tl", ignoreCase = true) }
 
             tagalogVoice?.let { ttsEngine.voice = it }
+            ttsEngine.setSpeechRate(0.88f)
+            ttsEngine.setPitch(1.0f)
         } else {
-            val localeEnglish = Locale.US
-            ttsEngine.language = localeEnglish
+            ttsEngine.language = Locale.US
 
+            // Auto-select Voice V (English sfg / v voice) if available in freshly installed pack
             val englishVoice = ttsEngine.voices?.find { voice ->
-                voice.locale.language == "en" && 
+                voice.locale.language.contains("en", ignoreCase = true) && 
                 (voice.name.contains("v", ignoreCase = true) || 
                  voice.name.contains("sfg", ignoreCase = true) || 
                  voice.name.contains("5"))
-            } ?: ttsEngine.voices?.find { it.locale.language == "en" }
+            } ?: ttsEngine.voices?.find { it.locale.language.contains("en", ignoreCase = true) }
 
             englishVoice?.let { ttsEngine.voice = it }
+            ttsEngine.setSpeechRate(0.95f)
+            ttsEngine.setPitch(1.0f)
         }
     }
 
