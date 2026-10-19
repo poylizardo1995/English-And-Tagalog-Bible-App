@@ -30,7 +30,7 @@
                 android:orientation="vertical"
                 android:padding="28dp">
 
-                <!-- Language Toggle Pill (Option 3) -->
+                <!-- Language Toggle Pill -->
                 <include
                     android:id="@+id/languageTogglePill"
                     layout="@layout/layout_language_toggle"
@@ -63,15 +63,14 @@
                     android:textStyle="bold"
                     android:gravity="end" />
 
-                <!-- Action Buttons Row (Equal Width & Compact Padding to Prevent Wrapping) -->
+                <!-- Compact Action Buttons Row: Copy, Share, Listen -->
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="20dp"
                     android:orientation="horizontal"
                     android:weightSum="3">
-                    
-                    <!-- Copy Button -->
+
                     <com.google.android.material.button.MaterialButton
                         android:id="@+id/btnCopy"
                         style="?attr/materialButtonOutlinedStyle"
@@ -86,8 +85,7 @@
                         android:textColor="#6E472C"
                         app:strokeColor="#6E472C"
                         android:layout_marginEnd="2dp" />
-                    
-                    <!-- Share Button -->
+
                     <com.google.android.material.button.MaterialButton
                         android:id="@+id/btnShare"
                         style="?attr/materialButtonOutlinedStyle"
@@ -104,7 +102,6 @@
                         android:layout_marginStart="2dp"
                         android:layout_marginEnd="2dp" />
 
-                    <!-- Speak Button -->
                     <com.google.android.material.button.MaterialButton
                         android:id="@+id/btnSpeak"
                         style="?attr/materialButtonOutlinedStyle"
@@ -121,7 +118,7 @@
                         android:layout_marginStart="2dp" />
                 </LinearLayout>
 
-                <!-- Navigation Row (Previous & Next Verse Buttons) -->
+                <!-- Navigation Row (Previous & Next Verse) -->
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -129,7 +126,6 @@
                     android:orientation="horizontal"
                     android:weightSum="2">
 
-                    <!-- Previous Verse Button -->
                     <com.google.android.material.button.MaterialButton
                         android:id="@+id/btnPrev"
                         style="?attr/materialButtonOutlinedStyle"
@@ -144,7 +140,6 @@
                         app:strokeColor="#6E472C"
                         android:layout_marginEnd="2dp" />
 
-                    <!-- Next Verse Button -->
                     <com.google.android.material.button.MaterialButton
                         android:id="@+id/btnNext"
                         style="?attr/materialButtonOutlinedStyle"
@@ -173,30 +168,32 @@
                     app:strokeColor="#6E472C"
                     app:cornerRadius="12dp" />
 
-                <!-- New Random Bible Verse Button -->
+                <!-- PRIMARY ACTION BUTTON 1: New Random Verse (Filled Style) -->
                 <com.google.android.material.button.MaterialButton
                     android:id="@+id/btnRefresh"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="8dp"
                     android:text="🔀 New Random Bible Verse"
-                    android:textSize="16sp"
+                    android:textSize="15sp"
                     android:paddingVertical="12dp"
                     app:backgroundTint="#6E472C"
                     app:cornerRadius="12dp" />
-                
-                <!-- Search Bible Button -->
+
+                <!-- PRIMARY ACTION BUTTON 2: Search Bible (Filled Style Uniform with Random) -->
                 <com.google.android.material.button.MaterialButton
                     android:id="@+id/btnSearch"
-                    style="?attr/materialButtonOutlinedStyle"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="8dp"
                     android:text="🔍 Search Bible"
                     android:textAllCaps="false"
                     android:textSize="15sp"
-                    app:cornerRadius="12dp"/>
-                <!-- Choose Bible Chapter & Verse Button -->
+                    android:paddingVertical="12dp"
+                    app:backgroundTint="#6E472C"
+                    app:cornerRadius="12dp" />
+
+                <!-- Choose Chapter & Verse Button -->
                 <com.google.android.material.button.MaterialButton
                     android:id="@+id/btnSelectManual"
                     style="?attr/materialButtonOutlinedStyle"
@@ -208,14 +205,14 @@
                     app:strokeColor="#6E472C"
                     app:cornerRadius="12dp" />
 
-                <!-- Theme Toggle Button (Day / Night View) -->
+                <!-- Centralized Settings & Themes Dialog Button -->
                 <com.google.android.material.button.MaterialButton
-                    android:id="@+id/btnToggleTheme"
+                    android:id="@+id/btnSettings"
                     style="?attr/materialButtonOutlinedStyle"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="8dp"
-                    android:text="🌙 Switch to Night View"
+                    android:text="⚙️ Settings &amp; Themes"
                     android:textColor="#6E472C"
                     app:strokeColor="#6E472C"
                     app:cornerRadius="12dp" />
