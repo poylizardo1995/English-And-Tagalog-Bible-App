@@ -72,12 +72,25 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
     private var currentTheme = ThemeMode.SEPIA
 
+    private data class ThemeConfig(
+        val statusBarColor: Int,
+        val backgroundRes: Int?,
+        val backgroundColor: Int?,
+        val cardBgColor: Int,
+        val cardStrokeColor: Int,
+        val textColor: Int,
+        val refColor: Int,
+        val accentColor: Int,
+        val primaryButtonTint: Int,
+        val primaryButtonTextColor: Int,
+        val dialogBgColor: Int,
+        val dialogStrokeColor: Int
+    )
+
     private enum class AutoPlayMode {
         CHAPTER, BOOK, ALL_BOOKS
     }
     private var autoPlayMode = AutoPlayMode.CHAPTER
-    private var currentBookName: String? = null
-    private var currentChapterName: String? = null
 
     companion object {
         private const val KEY_VERSE_TEXT = "key_verse_text"
@@ -98,7 +111,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         btnShare = findViewById(R.id.btnShare)
         btnSpeak = findViewById(R.id.btnSpeak)
         btnSelectManual = findViewById(R.id.btnSelectManual)
-        btnSettings = findViewById(R.id.btnToggleTheme) // Mapped to existing button ID
+        btnSettings = findViewById(R.id.btnToggleTheme)
         
         btnPrev = findViewById(R.id.btnPrev)
         btnNext = findViewById(R.id.btnNext)
@@ -121,15 +134,8 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
         tts = TextToSpeech(this, this)
 
-        btnEnglish.setOnClickListener {
-            stopAutoPlay()
-            handleLanguageSelection("English")
-        }
-
-        btnTagalog.setOnClickListener {
-            stopAutoPlay()
-            handleLanguageSelection("Tagalog")
-        }
+        btnEnglish.setOnClickListener { stopAutoPlay(); handleLanguageSelection("English") }
+        btnTagalog.setOnClickListener { stopAutoPlay(); handleLanguageSelection("Tagalog") }
 
         val incomingText = intent.getStringExtra("verse_text")
         val incomingRef = intent.getStringExtra("verse_ref")
@@ -202,7 +208,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
         btnShare.setOnClickListener { showShareOptionsDialog() }
 
-        // Direct Listen Button (No Extra Menu Popup)
         btnSpeak.setOnClickListener {
             currentVerse?.let { verse ->
                 if (isTtsReady && tts != null) {
@@ -212,9 +217,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                     val dialog = AlertDialog.Builder(this)
                         .setTitle("Text-to-Speech Required")
                         .setMessage("To listen to verses, please install or update 'Google Speech Recognition & Synthesis' from the Play Store, and select Voice V (English) or Voice IV (Tagalog) in settings.")
-                        .setPositiveButton("Install from Play Store") { _, _ ->
-                            promptInstallGoogleTTS()
-                        }
+                        .setPositiveButton("Install from Play Store") { _, _ -> promptInstallGoogleTTS() }
                         .setNegativeButton("Cancel", null)
                         .create()
 
@@ -249,6 +252,81 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         currentVerse?.let {
             outState.putString(KEY_VERSE_TEXT, it.text)
             outState.putString(KEY_VERSE_REF, it.reference)
+        }
+    }
+
+    private fun getThemeConfig(mode: ThemeMode): ThemeConfig {
+        return when (mode) {
+            ThemeMode.SEPIA -> ThemeConfig(
+                statusBarColor = Color.parseColor("#E8E2D5"),
+                backgroundRes = R.drawable.bg_gradient,
+                backgroundColor = null,
+                cardBgColor = Color.parseColor("#FFFFFF"),
+                cardStrokeColor = Color.parseColor("#D0C4B2"),
+                textColor = Color.parseColor("#2D241E"),
+                refColor = Color.parseColor("#8C6D53"),
+                accentColor = Color.parseColor("#6E472C"),
+                primaryButtonTint = Color.parseColor("#6E472C"),
+                primaryButtonTextColor = Color.WHITE,
+                dialogBgColor = Color.parseColor("#FFFFFF"),
+                dialogStrokeColor = Color.parseColor("#E8E2D5")
+            )
+            ThemeMode.CHARCOAL -> ThemeConfig(
+                statusBarColor = Color.parseColor("#121212"),
+                backgroundRes = null,
+                backgroundColor = Color.parseColor("#121212"),
+                cardBgColor = Color.parseColor("#1E1E1E"),
+                cardStrokeColor = Color.parseColor("#444444"),
+                textColor = Color.parseColor("#FFFFFF"),
+                refColor = Color.parseColor("#FFB74D"),
+                accentColor = Color.parseColor("#FFB74D"),
+                primaryButtonTint = Color.parseColor("#333333"),
+                primaryButtonTextColor = Color.parseColor("#FFB74D"),
+                dialogBgColor = Color.parseColor("#1E1E1E"),
+                dialogStrokeColor = Color.parseColor("#444444")
+            )
+            ThemeMode.NAVY -> ThemeConfig(
+                statusBarColor = Color.parseColor("#0B0F19"),
+                backgroundRes = null,
+                backgroundColor = Color.parseColor("#0B0F19"),
+                cardBgColor = Color.parseColor("#121826"),
+                cardStrokeColor = Color.parseColor("#283593"),
+                textColor = Color.parseColor("#FFFFFF"),
+                refColor = Color.parseColor("#9FA8DA"),
+                accentColor = Color.parseColor("#7986CB"),
+                primaryButtonTint = Color.parseColor("#3F51B5"),
+                primaryButtonTextColor = Color.parseColor("#FFFFFF"),
+                dialogBgColor = Color.parseColor("#121826"),
+                dialogStrokeColor = Color.parseColor("#283593")
+            )
+            ThemeMode.OLIVE -> ThemeConfig(
+                statusBarColor = Color.parseColor("#111813"),
+                backgroundRes = null,
+                backgroundColor = Color.parseColor("#111813"),
+                cardBgColor = Color.parseColor("#1A211C"),
+                cardStrokeColor = Color.parseColor("#2E7D32"),
+                textColor = Color.parseColor("#FFFFFF"),
+                refColor = Color.parseColor("#A5D6A7"),
+                accentColor = Color.parseColor("#81C784"),
+                primaryButtonTint = Color.parseColor("#2E7D32"),
+                primaryButtonTextColor = Color.parseColor("#FFFFFF"),
+                dialogBgColor = Color.parseColor("#1A211C"),
+                dialogStrokeColor = Color.parseColor("#2E7D32")
+            )
+            ThemeMode.SUNSET -> ThemeConfig(
+                statusBarColor = Color.parseColor("#2D1A12"),
+                backgroundRes = null,
+                backgroundColor = Color.parseColor("#1B0F0B"),
+                cardBgColor = Color.parseColor("#2D1A12"),
+                cardStrokeColor = Color.parseColor("#D77A61"),
+                textColor = Color.parseColor("#FFE5D9"),
+                refColor = Color.parseColor("#FFB74D"),
+                accentColor = Color.parseColor("#FFB74D"),
+                primaryButtonTint = Color.parseColor("#A34828"),
+                primaryButtonTextColor = Color.parseColor("#FFFFFF"),
+                dialogBgColor = Color.parseColor("#221A15"),
+                dialogStrokeColor = Color.parseColor("#D77A61")
+            )
         }
     }
 
@@ -290,15 +368,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     private fun openSystemTTSSettings() {
         var opened = false
         val intentsToTry = listOf(
-            Intent("com.google.android.tts.settings.VoiceDataActivity").apply {
-                flags = Intent.FLAG_ACTIVITY_NEW_TASK
-            },
-            Intent("com.android.settings.TTS_SETTINGS").apply {
-                flags = Intent.FLAG_ACTIVITY_NEW_TASK
-            },
-            Intent(Settings.ACTION_ACCESSIBILITY_SETTINGS).apply {
-                flags = Intent.FLAG_ACTIVITY_NEW_TASK
-            }
+            Intent("com.google.android.tts.settings.VoiceDataActivity").apply { flags = Intent.FLAG_ACTIVITY_NEW_TASK },
+            Intent("com.android.settings.TTS_SETTINGS").apply { flags = Intent.FLAG_ACTIVITY_NEW_TASK },
+            Intent(Settings.ACTION_ACCESSIBILITY_SETTINGS).apply { flags = Intent.FLAG_ACTIVITY_NEW_TASK }
         )
 
         for (intent in intentsToTry) {
@@ -356,58 +428,30 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
     private fun applyThemedDialogStyle(dialog: AlertDialog) {
         dialog.show()
+        val config = getThemeConfig(currentTheme)
         val isDark = currentTheme != ThemeMode.SEPIA
+
         dialog.findViewById<TextView>(androidx.appcompat.R.id.alertTitle)?.apply {
             gravity = android.view.Gravity.CENTER
             textAlignment = android.view.View.TEXT_ALIGNMENT_CENTER
             setTextColor(if (isDark) Color.parseColor("#FFFFFF") else Color.parseColor("#2D241E"))
         }
 
-        val accentColor = when (currentTheme) {
-            ThemeMode.SEPIA -> Color.parseColor("#6E472C")
-            ThemeMode.CHARCOAL -> Color.parseColor("#FFB74D")
-            ThemeMode.NAVY -> Color.parseColor("#7986CB")
-            ThemeMode.OLIVE -> Color.parseColor("#81C784")
-            ThemeMode.SUNSET -> Color.parseColor("#FFB74D")
-        }
-
-        dialog.getButton(AlertDialog.BUTTON_POSITIVE)?.setTextColor(accentColor)
-        dialog.getButton(AlertDialog.BUTTON_NEGATIVE)?.setTextColor(accentColor)
-
-        val dialogBgColor = when (currentTheme) {
-            ThemeMode.SEPIA -> Color.parseColor("#FFFFFF")
-            ThemeMode.CHARCOAL -> Color.parseColor("#1E1E1E")
-            ThemeMode.NAVY -> Color.parseColor("#121826")
-            ThemeMode.OLIVE -> Color.parseColor("#1A211C")
-            ThemeMode.SUNSET -> Color.parseColor("#221A15")
-        }
-
-        val strokeColor = when (currentTheme) {
-            ThemeMode.SEPIA -> Color.parseColor("#E8E2D5")
-            ThemeMode.CHARCOAL -> Color.parseColor("#444444")
-            ThemeMode.NAVY -> Color.parseColor("#283593")
-            ThemeMode.OLIVE -> Color.parseColor("#2E7D32")
-            ThemeMode.SUNSET -> Color.parseColor("#D77A61")
-        }
+        dialog.getButton(AlertDialog.BUTTON_POSITIVE)?.setTextColor(config.accentColor)
+        dialog.getButton(AlertDialog.BUTTON_NEGATIVE)?.setTextColor(config.accentColor)
 
         dialog.window?.decorView?.background = android.graphics.drawable.GradientDrawable().apply {
             shape = android.graphics.drawable.GradientDrawable.RECTANGLE
             cornerRadius = 24f
-            setColor(dialogBgColor)
-            setStroke(2, strokeColor)
+            setColor(config.dialogBgColor)
+            setStroke(2, config.dialogStrokeColor)
         }
     }
 
     private fun createCenteredListAdapter(items: Array<String>): android.widget.ArrayAdapter<String> {
         val isDark = currentTheme != ThemeMode.SEPIA
         val textColor = if (isDark) Color.parseColor("#FFFFFF") else Color.parseColor("#2D241E")
-        val accentColor = when (currentTheme) {
-            ThemeMode.SEPIA -> Color.parseColor("#6E472C")
-            ThemeMode.CHARCOAL -> Color.parseColor("#FFB74D")
-            ThemeMode.NAVY -> Color.parseColor("#9FA8DA")
-            ThemeMode.OLIVE -> Color.parseColor("#A5D6A7")
-            ThemeMode.SUNSET -> Color.parseColor("#FFB74D")
-        }
+        val accentColor = getThemeConfig(currentTheme).accentColor
 
         return object : android.widget.ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, items) {
             override fun getView(position: Int, convertView: android.view.View?, parent: ViewGroup): android.view.View {
@@ -478,28 +522,11 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             val gradient = LinearGradient(0f, 0f, width.toFloat(), height.toFloat(), colors, null, Shader.TileMode.CLAMP)
             canvas.drawRect(0f, 0f, width.toFloat(), height.toFloat(), Paint().apply { shader = gradient })
 
-            val borderColor = when (currentTheme) {
-                ThemeMode.SEPIA -> Color.parseColor("#B08D73")
-                ThemeMode.CHARCOAL -> Color.parseColor("#FFB74D")
-                ThemeMode.NAVY -> Color.parseColor("#7986CB")
-                ThemeMode.OLIVE -> Color.parseColor("#81C784")
-                ThemeMode.SUNSET -> Color.parseColor("#FFB74D")
-            }
-
+            val borderColor = getThemeConfig(currentTheme).cardStrokeColor
             canvas.drawRoundRect(60f, 60f, (width - 60).toFloat(), (height - 60).toFloat(), 32f, 32f, Paint().apply { color = borderColor; style = Paint.Style.STROKE; strokeWidth = 6f })
 
-            val textColor = when (currentTheme) {
-                ThemeMode.SEPIA -> Color.parseColor("#2D241E")
-                else -> Color.parseColor("#FFFFFF")
-            }
-
-            val refColor = when (currentTheme) {
-                ThemeMode.SEPIA -> Color.parseColor("#6E472C")
-                ThemeMode.CHARCOAL -> Color.parseColor("#FFB74D")
-                ThemeMode.NAVY -> Color.parseColor("#9FA8DA")
-                ThemeMode.OLIVE -> Color.parseColor("#A5D6A7")
-                ThemeMode.SUNSET -> Color.parseColor("#FFB74D")
-            }
+            val textColor = getThemeConfig(currentTheme).textColor
+            val refColor = getThemeConfig(currentTheme).refColor
 
             val textPaint = android.text.TextPaint().apply {
                 color = textColor
@@ -676,13 +703,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     private fun showSearchResultsDialog(query: String, results: List<BibleVerse>, targetTranslation: BibleTranslation) {
         val isDark = currentTheme != ThemeMode.SEPIA
         val textColor = if (isDark) Color.parseColor("#FFFFFF") else Color.parseColor("#2D241E")
-        val accentColor = when (currentTheme) {
-            ThemeMode.SEPIA -> Color.parseColor("#8C6D53")
-            ThemeMode.CHARCOAL -> Color.parseColor("#FFB74D")
-            ThemeMode.NAVY -> Color.parseColor("#9FA8DA")
-            ThemeMode.OLIVE -> Color.parseColor("#A5D6A7")
-            ThemeMode.SUNSET -> Color.parseColor("#FFB74D")
-        }
+        val accentColor = getThemeConfig(currentTheme).accentColor
 
         val adapter = object : android.widget.ArrayAdapter<BibleVerse>(this, android.R.layout.simple_list_item_1, results) {
             override fun getView(position: Int, convertView: android.view.View?, parent: ViewGroup): android.view.View {
@@ -716,6 +737,38 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 BibleRepository.setTranslation(this, targetTranslation)
                 updateLanguageToggleUI(targetTranslation)
                 displayVerse(results[which])
+            }
+            .create()
+        applyThemedDialogStyle(dialog)
+    }
+
+    private fun showRemoveTranslationsDialog(groupName: String) {
+        val removableList = BibleTranslation.values()
+            .filter { it.languageGroup == groupName && !it.isBuiltIn && it.isAvailable(this) }
+
+        if (removableList.isEmpty()) {
+            showCenteredToast("No removable translations found.")
+            return
+        }
+
+        val options = removableList.map { "🗑️ Delete ${it.displayName}" }.toTypedArray()
+
+        val dialog = AlertDialog.Builder(this)
+            .setTitle("Remove Translation")
+            .setAdapter(createCenteredListAdapter(options)) { _, index ->
+                val toDelete = removableList[index]
+                BibleManager.removeTranslationPackage(this, toDelete,
+                    onSuccess = {
+                        runOnUiThread {
+                            showCenteredToast("${toDelete.displayName} removed.")
+                            if (BibleRepository.currentTranslation == toDelete) {
+                                val fallback = if (groupName == "Tagalog") BibleTranslation.ADB else BibleTranslation.KJV
+                                switchToTranslation(fallback)
+                            }
+                        }
+                    },
+                    onError = { err -> runOnUiThread { showCenteredToast(err) } }
+                )
             }
             .create()
         applyThemedDialogStyle(dialog)
@@ -764,38 +817,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                         showRemoveTranslationsDialog(groupName)
                     }
                 }
-            }
-            .create()
-        applyThemedDialogStyle(dialog)
-    }
-
-    private fun showRemoveTranslationsDialog(groupName: String) {
-        val removableList = BibleTranslation.values()
-            .filter { it.languageGroup == groupName && !it.isBuiltIn && it.isAvailable(this) }
-
-        if (removableList.isEmpty()) {
-            showCenteredToast("No removable translations found.")
-            return
-        }
-
-        val options = removableList.map { "🗑️ Delete ${it.displayName}" }.toTypedArray()
-
-        val dialog = AlertDialog.Builder(this)
-            .setTitle("Remove Translation")
-            .setAdapter(createCenteredListAdapter(options)) { _, index ->
-                val toDelete = removableList[index]
-                BibleManager.removeTranslationPackage(this, toDelete,
-                    onSuccess = {
-                        runOnUiThread {
-                            showCenteredToast("${toDelete.displayName} removed.")
-                            if (BibleRepository.currentTranslation == toDelete) {
-                                val fallback = if (groupName == "Tagalog") BibleTranslation.ADB else BibleTranslation.KJV
-                                switchToTranslation(fallback)
-                            }
-                        }
-                    },
-                    onError = { err -> runOnUiThread { showCenteredToast(err) } }
-                )
             }
             .create()
         applyThemedDialogStyle(dialog)
@@ -1070,9 +1091,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             val dialog = AlertDialog.Builder(this)
                 .setTitle("Text-to-Speech Required")
                 .setMessage("To use Auto-Play, please install or update 'Google Speech Recognition & Synthesis' from the Play Store, and select Voice V (English) or Voice IV (Tagalog) in settings.")
-                .setPositiveButton("Install from Play Store") { _, _ ->
-                    promptInstallGoogleTTS()
-                }
+                .setPositiveButton("Install from Play Store") { _, _ -> promptInstallGoogleTTS() }
                 .setNegativeButton("Cancel", null)
                 .create()
 
@@ -1187,194 +1206,45 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
 
     private fun applyTheme() {
+        val config = getThemeConfig(currentTheme)
         val rootLayout = findViewById<ViewGroup>(android.R.id.content).getChildAt(0) ?: window.decorView
 
-        val statusBarColor = when (currentTheme) {
-            ThemeMode.SEPIA -> Color.parseColor("#E8E2D5")
-            ThemeMode.CHARCOAL -> Color.parseColor("#121212")
-            ThemeMode.NAVY -> Color.parseColor("#0B0F19")
-            ThemeMode.OLIVE -> Color.parseColor("#111813")
-            ThemeMode.SUNSET -> Color.parseColor("#2D1A12")
+        window.statusBarColor = config.statusBarColor
+
+        if (config.backgroundRes != null) {
+            rootLayout.setBackgroundResource(config.backgroundRes)
+        } else if (config.backgroundColor != null) {
+            rootLayout.setBackgroundColor(config.backgroundColor)
         }
-        window.statusBarColor = statusBarColor
 
-        when (currentTheme) {
-            ThemeMode.SEPIA -> {
-                rootLayout.setBackgroundResource(R.drawable.bg_gradient)
-                
-                verseCard.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#FFFFFF"))
-                verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#FFFFFF")))
-                verseCard.strokeColor = Color.parseColor("#D0C4B2")
-                verseCard.cardElevation = 8f
-                
-                tvVerseText.setTextColor(Color.parseColor("#2D241E"))
-                tvVerseRef.setTextColor(Color.parseColor("#8C6D53"))
-                
-                btnSettings.text = "⚙️ Settings"
-                btnSettings.setTextColor(Color.parseColor("#6E472C"))
-                btnSettings.strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
-                btnSettings.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
-                
-                btnRefresh.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#6E472C"))
-                btnRefresh.setTextColor(Color.WHITE)
-                if (btnRefresh is MaterialButton) {
-                    (btnRefresh as MaterialButton).strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
-                }
+        verseCard.backgroundTintList = ColorStateList.valueOf(config.cardBgColor)
+        verseCard.setCardBackgroundColor(ColorStateList.valueOf(config.cardBgColor))
+        verseCard.strokeColor = config.cardStrokeColor
+        verseCard.cardElevation = if (currentTheme == ThemeMode.SEPIA) 8f else 6f
 
-                btnSearch.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#6E472C"))
-                btnSearch.setTextColor(Color.WHITE)
-                if (btnSearch is MaterialButton) {
-                    (btnSearch as MaterialButton).strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
-                }
-                
-                val dayButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout, btnSettings)
-                for (btn in dayButtons) {
-                    btn.setTextColor(Color.parseColor("#6E472C"))
-                    btn.strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
-                    btn.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
-                }
-            }
-            ThemeMode.CHARCOAL -> {
-                rootLayout.setBackgroundColor(Color.parseColor("#121212"))
-                
-                verseCard.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#1E1E1E"))
-                verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#1E1E1E")))
-                verseCard.strokeColor = Color.parseColor("#444444")
-                verseCard.cardElevation = 6f
-                
-                tvVerseText.setTextColor(Color.parseColor("#FFFFFF"))
-                tvVerseRef.setTextColor(Color.parseColor("#FFB74D"))
-                
-                btnSettings.text = "⚙️ Settings"
-                btnSettings.setTextColor(Color.parseColor("#FFB74D"))
-                btnSettings.strokeColor = ColorStateList.valueOf(Color.parseColor("#FFB74D"))
-                btnSettings.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
-                
-                btnRefresh.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#333333"))
-                btnRefresh.setTextColor(Color.parseColor("#FFB74D"))
-                if (btnRefresh is MaterialButton) {
-                    (btnRefresh as MaterialButton).strokeColor = ColorStateList.valueOf(Color.parseColor("#FFB74D"))
-                }
+        tvVerseText.setTextColor(config.textColor)
+        tvVerseRef.setTextColor(config.refColor)
 
-                btnSearch.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#333333"))
-                btnSearch.setTextColor(Color.parseColor("#FFB74D"))
-                if (btnSearch is MaterialButton) {
-                    (btnSearch as MaterialButton).strokeColor = ColorStateList.valueOf(Color.parseColor("#FFB74D"))
-                }
-                
-                val charcoalButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout, btnSettings)
-                for (btn in charcoalButtons) {
-                    btn.setTextColor(Color.parseColor("#FFFFFF"))
-                    btn.strokeColor = ColorStateList.valueOf(Color.parseColor("#666666"))
-                    btn.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
-                }
-            }
-            ThemeMode.NAVY -> {
-                rootLayout.setBackgroundColor(Color.parseColor("#0B0F19"))
-                
-                verseCard.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#121826"))
-                verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#121826")))
-                verseCard.strokeColor = Color.parseColor("#283593")
-                verseCard.cardElevation = 6f
-                
-                tvVerseText.setTextColor(Color.parseColor("#FFFFFF"))
-                tvVerseRef.setTextColor(Color.parseColor("#9FA8DA"))
-                
-                btnSettings.text = "⚙️ Settings"
-                btnSettings.setTextColor(Color.parseColor("#9FA8DA"))
-                btnSettings.strokeColor = ColorStateList.valueOf(Color.parseColor("#7986CB"))
-                btnSettings.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
-                
-                btnRefresh.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#3F51B5"))
-                btnRefresh.setTextColor(Color.parseColor("#FFFFFF"))
-                if (btnRefresh is MaterialButton) {
-                    (btnRefresh as MaterialButton).strokeColor = ColorStateList.valueOf(Color.parseColor("#3F51B5"))
-                }
+        btnSettings.text = "⚙️ Settings"
+        btnSettings.setTextColor(config.accentColor)
+        btnSettings.strokeColor = ColorStateList.valueOf(config.accentColor)
+        btnSettings.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
 
-                btnSearch.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#3F51B5"))
-                btnSearch.setTextColor(Color.parseColor("#FFFFFF"))
-                if (btnSearch is MaterialButton) {
-                    (btnSearch as MaterialButton).strokeColor = ColorStateList.valueOf(Color.parseColor("#3F51B5"))
-                }
-                
-                val navyButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout, btnSettings)
-                for (btn in navyButtons) {
-                    btn.setTextColor(Color.parseColor("#E0E0E0"))
-                    btn.strokeColor = ColorStateList.valueOf(Color.parseColor("#7986CB"))
-                    btn.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
-                }
-            }
-            ThemeMode.OLIVE -> {
-                rootLayout.setBackgroundColor(Color.parseColor("#111813"))
-                
-                verseCard.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#1A211C"))
-                verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#1A211C")))
-                verseCard.strokeColor = Color.parseColor("#2E7D32")
-                verseCard.cardElevation = 6f
-                
-                tvVerseText.setTextColor(Color.parseColor("#FFFFFF"))
-                tvVerseRef.setTextColor(Color.parseColor("#A5D6A7"))
-                
-                btnSettings.text = "⚙️ Settings"
-                btnSettings.setTextColor(Color.parseColor("#A5D6A7"))
-                btnSettings.strokeColor = ColorStateList.valueOf(Color.parseColor("#81C784"))
-                btnSettings.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
-                
-                btnRefresh.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#2E7D32"))
-                btnRefresh.setTextColor(Color.parseColor("#FFFFFF"))
-                if (btnRefresh is MaterialButton) {
-                    (btnRefresh as MaterialButton).strokeColor = ColorStateList.valueOf(Color.parseColor("#2E7D32"))
-                }
-
-                btnSearch.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#2E7D32"))
-                btnSearch.setTextColor(Color.parseColor("#FFFFFF"))
-                if (btnSearch is MaterialButton) {
-                    (btnSearch as MaterialButton).strokeColor = ColorStateList.valueOf(Color.parseColor("#2E7D32"))
-                }
-                
-                val oliveButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout, btnSettings)
-                for (btn in oliveButtons) {
-                    btn.setTextColor(Color.parseColor("#E0E0E0"))
-                    btn.strokeColor = ColorStateList.valueOf(Color.parseColor("#81C784"))
-                    btn.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
-                }
-            }
-            ThemeMode.SUNSET -> {
-                rootLayout.setBackgroundColor(Color.parseColor("#1B0F0B"))
-                
-                verseCard.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#2D1A12"))
-                verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#2D1A12")))
-                verseCard.strokeColor = Color.parseColor("#D77A61")
-                verseCard.cardElevation = 6f
-                
-                tvVerseText.setTextColor(Color.parseColor("#FFE5D9"))
-                tvVerseRef.setTextColor(Color.parseColor("#FFB74D"))
-                
-                btnSettings.text = "⚙️ Settings"
-                btnSettings.setTextColor(Color.parseColor("#FFB74D"))
-                btnSettings.strokeColor = ColorStateList.valueOf(Color.parseColor("#D77A61"))
-                btnSettings.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
-                
-                btnRefresh.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#A34828"))
-                btnRefresh.setTextColor(Color.parseColor("#FFFFFF"))
-                if (btnRefresh is MaterialButton) {
-                    (btnRefresh as MaterialButton).strokeColor = ColorStateList.valueOf(Color.parseColor("#A34828"))
-                }
-
-                btnSearch.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#A34828"))
-                btnSearch.setTextColor(Color.parseColor("#FFFFFF"))
-                if (btnSearch is MaterialButton) {
-                    (btnSearch as MaterialButton).strokeColor = ColorStateList.valueOf(Color.parseColor("#A34828"))
-                }
-                
-                val sunsetButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout, btnSettings)
-                for (btn in sunsetButtons) {
-                    btn.setTextColor(Color.parseColor("#FFE5D9"))
-                    btn.strokeColor = ColorStateList.valueOf(Color.parseColor("#D77A61"))
-                    btn.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
-                }
+        listOf(btnRefresh, btnSearch).forEach { btn ->
+            btn.backgroundTintList = ColorStateList.valueOf(config.primaryButtonTint)
+            btn.setTextColor(config.primaryButtonTextColor)
+            if (btn is MaterialButton) {
+                btn.strokeColor = ColorStateList.valueOf(config.accentColor)
             }
         }
+
+        val allUtilityButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout, btnSettings)
+        for (btn in allUtilityButtons) {
+            btn.setTextColor(config.accentColor)
+            btn.strokeColor = ColorStateList.valueOf(config.accentColor)
+            btn.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
+        }
+
         updateLanguageToggleUI(BibleRepository.currentTranslation)
     }
 
@@ -1396,13 +1266,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                     else -> Color.parseColor("#1E1E1E")
                 }
             ))
-            verseCard.strokeColor = when (currentTheme) {
-                ThemeMode.CHARCOAL -> Color.parseColor("#444444")
-                ThemeMode.NAVY -> Color.parseColor("#283593")
-                ThemeMode.OLIVE -> Color.parseColor("#2E7D32")
-                ThemeMode.SUNSET -> Color.parseColor("#D77A61")
-                else -> Color.parseColor("#444444")
-            }
+            verseCard.strokeColor = getThemeConfig(currentTheme).cardStrokeColor
     
             val pillColorHex = when (currentTheme) {
                 ThemeMode.CHARCOAL -> Color.parseColor("#D97706")
