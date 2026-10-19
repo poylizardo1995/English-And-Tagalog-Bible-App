@@ -197,7 +197,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             } else {
                 val dialog = AlertDialog.Builder(this)
                     .setTitle("Text-to-Speech Required")
-                    .setMessage("To listen to verses, please install or update 'Google Speech Recognition & Synthesis' from the Play Store[cite: 8], and select Voice V (English) or Voice IV (Tagalog) in settings.")
+                    .setMessage("To listen to verses, please install or update 'Google Speech Recognition & Synthesis' from the Play Store, and select Voice V (English) or Voice IV (Tagalog) in settings.")
                     .setPositiveButton("Install from Play Store") { _, _ ->
                         promptInstallGoogleTTS()
                     }
@@ -1033,7 +1033,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         if (!isTtsReady || tts == null) {
             val dialog = AlertDialog.Builder(this)
                 .setTitle("Text-to-Speech Required")
-                .setMessage("To use Auto-Play, please install or update 'Google Speech Recognition & Synthesis' from the Play Store[cite: 8], and select Voice V (English) or Voice IV (Tagalog) in settings.")
+                .setMessage("To use Auto-Play, please install or update 'Google Speech Recognition & Synthesis' from the Play Store, and select Voice V (English) or Voice IV (Tagalog) in settings.")
                 .setPositiveButton("Install from Play Store") { _, _ ->
                     promptInstallGoogleTTS()
                 }
