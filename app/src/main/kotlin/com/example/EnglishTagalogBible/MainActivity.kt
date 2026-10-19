@@ -172,7 +172,11 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 val prevVerse = BibleRepository.getPreviousVerse(verse, this)
                 if (prevVerse != null) {
                     displayVerse(prevVerse)
-                    if (isAutoPlaying) speakVerse(prevVerse)
+                    if (isAutoPlaying) {
+                        speakVerse(prevVerse)
+                    } else {
+                        tts?.stop()
+                    }
                 } else {
                     showCenteredToast("Beginning of chapter reached.")
                 }
@@ -184,7 +188,11 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 val nextVerse = BibleRepository.getNextVerse(verse, this)
                 if (nextVerse != null) {
                     displayVerse(nextVerse)
-                    if (isAutoPlaying) speakVerse(nextVerse)
+                    if (isAutoPlaying) {
+                        speakVerse(nextVerse)
+                    } else {
+                        tts?.stop()
+                    }
                 } else {
                     showCenteredToast("End of chapter reached.")
                     stopAutoPlay()
