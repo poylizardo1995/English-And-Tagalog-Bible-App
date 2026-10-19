@@ -457,15 +457,16 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         applyThemedDialogStyle(dialog)
     }
 
-    private fun shareVerseAsImage(verseText: String, verseRef: String) {
+   private fun shareVerseAsImage(verseText: String, verseRef: String) {
         try {
             val width = 1080
             val height = 1080
             val bitmap = Bitmap.createBitmap(width, height, Bitmap.Config.ARGB_8888)
             val canvas = Canvas(bitmap)
 
+            // 1. Dynamic background colors based on current theme
             val colors = when (currentTheme) {
-                ThemeMode.SEPIA -> intArrayOf(Color.parseColor("#2D241E"), Color.parseColor("#4A3B32"), Color.parseColor("#1E1A17"))
+                ThemeMode.SEPIA -> intArrayOf(Color.parseColor("#FBF8F3"), Color.parseColor("#EFE6D5"), Color.parseColor("#E2D4BF"))
                 ThemeMode.CHARCOAL -> intArrayOf(Color.parseColor("#121212"), Color.parseColor("#1E1E1E"), Color.parseColor("#0A0A0A"))
                 ThemeMode.NAVY -> intArrayOf(Color.parseColor("#0F172A"), Color.parseColor("#1E293B"), Color.parseColor("#090D16"))
                 ThemeMode.OLIVE -> intArrayOf(Color.parseColor("#132219"), Color.parseColor("#1B3324"), Color.parseColor("#0A140E"))
@@ -475,6 +476,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             val gradient = LinearGradient(0f, 0f, width.toFloat(), height.toFloat(), colors, null, Shader.TileMode.CLAMP)
             canvas.drawRect(0f, 0f, width.toFloat(), height.toFloat(), Paint().apply { shader = gradient })
 
+            // 2. Dynamic border colors based on current theme
             val borderColor = when (currentTheme) {
                 ThemeMode.SEPIA -> Color.parseColor("#B08D73")
                 ThemeMode.CHARCOAL -> Color.parseColor("#FFB74D")
@@ -485,14 +487,72 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
             canvas.drawRoundRect(60f, 60f, (width - 60).toFloat(), (height - 60).toFloat(), 32f, 32f, Paint().apply { color = borderColor; style = Paint.Style.STROKE; strokeWidth = 6f })
 
-            val textPaint = Paint().apply { color = Color.parseColor("#FFFFFF"); textSize = 54f; typeface = Typeface.create("serif", Typeface.ITALIC); isAntiAlias = true; textAlign = Paint.Align.CENTER }
-            val refPaint = Paint().apply { color = Color.parseColor("#E0E0E0"); textSize = 42f; typeface = Typeface.create(Typeface.DEFAULT, Typeface.BOLD); isAntiAlias = true; textAlign = Paint.Align.CENTER }
+            // 3. Dynamic text colors
+            val textColor = when (currentTheme) {
+                ThemeMode.SEPIA -> Color.parseColor("#2D241E")
+                else -> Color.parseColor("#FFFFFF")
+            }
 
+            val refColor = when (currentTheme) {
+                ThemeMode.SEPIA -> Color.parseColor("#6E472C")
+                ThemeMode.CHARCOAL -> Color.parseColor("#FFB74D")
+                ThemeMode.NAVY -> Color.parseColor("#9FA8DA")
+                ThemeMode.OLIVE -> Color.parseColor("#A5D6A7")
+                ThemeMode.SUNSET -> Color.parseColor("#FFB74D")
+            }
+
+            val textPaint = android.text.TextPaint().apply {
+                color = textColor
+                textSize = 48f
+                typeface = Typeface.create("serif", Typeface.ITALIC)
+                isAntiAlias = true
+            }
+
+            // 4. Proper multiline text wrapping using StaticLayout so text renders cleanly for Facebook & external apps
+            val textWidth = width - 240
+            val staticLayout = android.text.StaticLayout.Builder.obtain(verseText, 0, verseText.length, textPaint, textWidth)
+                .setAlignment(android.text.Layout.Alignment.ALIGN_CENTER)
+                .setLineSpacing(0f, 1.2f)
+                .build()
+
+            val totalTextHeight = staticLayout.height
+            val startY = (height - totalTextHeight) / 2f - 40f
+
+            canvas.save()
+            canvas.translate(120f, startY)
+            staticLayout.draw(canvas)
+            canvas.restore()
+
+            // 5. Draw Reference
+            val refPaint = Paint().apply {
+                color = refColor
+                textSize = 38f
+                typeface = Typeface.create(Typeface.DEFAULT, Typeface.BOLD)
+                isAntiAlias = true
+                textAlign = Paint.Align.CENTER
+            }
+            canvas.drawText(verseRef, (width / 2).toFloat(), startY + totalTextHeight + 90f, refPaint)
+
+            // 6. Watermark Footer
+            val watermarkPaint = Paint().apply {
+                color = if (currentTheme == ThemeMode.SEPIA) Color.parseColor("#8C6D53") else Color.parseColor("#888888")
+                textSize = 28f
+                typeface = Typeface.create(Typeface.DEFAULT, Typeface.NORMAL)
+                isAntiAlias = true
+                textAlign = Paint.Align.CENTER
+            }
+            canvas.drawText("English & Tagalog Bible App", (width / 2).toFloat(), height - 100f, watermarkPaint)
+
+            // 7. Save file with UNIQUE timestamp to invalidate Android cache and force fresh Facebook feed preview
             val cachePath = File(cacheDir, "images").apply { mkdirs() }
-            val file = File(cachePath, "shared_verse.png")
-            FileOutputStream(file).use { bitmap.compress(Bitmap.CompressFormat.PNG, 100, it) }
+            val imageFile = File(cachePath, "verse_card_${System.currentTimeMillis()}.png")
+            
+            FileOutputStream(imageFile).use { out ->
+                bitmap.compress(Bitmap.CompressFormat.PNG, 100, out)
+                out.flush()
+            }
 
-            val imageUri = FileProvider.getUriForFile(this, "${packageName}.fileprovider", file)
+            val imageUri = FileProvider.getUriForFile(this, "${packageName}.fileprovider", imageFile)
             val shareIntent = Intent(Intent.ACTION_SEND).apply {
                 type = "image/png"
                 putExtra(Intent.EXTRA_STREAM, imageUri)
