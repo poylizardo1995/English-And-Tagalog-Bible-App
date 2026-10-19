@@ -256,7 +256,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             val localeTagalog = Locale("tl", "PH")
             ttsEngine.language = localeTagalog
             
-            // Explicitly search for Voice IV or Tagalog network voices
             val tagalogVoice = ttsEngine.voices?.find { voice ->
                 voice.locale.language == "tl" && 
                 (voice.name.contains("iv", ignoreCase = true) || 
@@ -269,7 +268,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             val localeEnglish = Locale.US
             ttsEngine.language = localeEnglish
 
-            // Explicitly search for Voice V or English network/sfg voices
             val englishVoice = ttsEngine.voices?.find { voice ->
                 voice.locale.language == "en" && 
                 (voice.name.contains("v", ignoreCase = true) || 
@@ -1475,6 +1473,8 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         if (status == TextToSpeech.SUCCESS) {
             isTtsReady = true
             configureTTSVoiceForCurrentLanguage()
+        } else {
+            isTtsReady = false
         }
     }
     
