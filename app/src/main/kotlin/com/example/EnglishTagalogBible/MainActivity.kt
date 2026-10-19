@@ -48,7 +48,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     private lateinit var btnShare: MaterialButton
     private lateinit var btnSpeak: MaterialButton
     private lateinit var btnSelectManual: MaterialButton
-    private lateinit var btnToggleTheme: MaterialButton
+    private lateinit var btnSettings: MaterialButton
     private lateinit var btnPrev: MaterialButton
     private lateinit var btnNext: MaterialButton
     private lateinit var btnAutoPlay: MaterialButton
@@ -82,6 +82,8 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     companion object {
         private const val KEY_VERSE_TEXT = "key_verse_text"
         private const val KEY_VERSE_REF = "key_verse_ref"
+        private const val PREFS_NAME = "BibleAppPrefs"
+        private const val KEY_SAVED_THEME = "saved_theme_mode"
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -96,13 +98,22 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         btnShare = findViewById(R.id.btnShare)
         btnSpeak = findViewById(R.id.btnSpeak)
         btnSelectManual = findViewById(R.id.btnSelectManual)
-        btnToggleTheme = findViewById(R.id.btnToggleTheme)
+        btnSettings = findViewById(R.id.btnToggleTheme) // Mapped to existing button ID
         
         btnPrev = findViewById(R.id.btnPrev)
         btnNext = findViewById(R.id.btnNext)
         btnAutoPlay = findViewById(R.id.btnAutoPlay)
         btnAbout = findViewById(R.id.btnAbout)
         verseCard = findViewById(R.id.verseCard)
+
+        // Load saved theme preference
+        val prefs = getSharedPreferences(PREFS_NAME, Context.MODE_PRIVATE)
+        val savedThemeName = prefs.getString(KEY_SAVED_THEME, ThemeMode.SEPIA.name)
+        currentTheme = try {
+            ThemeMode.valueOf(savedThemeName ?: ThemeMode.SEPIA.name)
+        } catch (e: Exception) {
+            ThemeMode.SEPIA
+        }
 
         val languageToggleInclude = findViewById<android.view.View>(R.id.languageTogglePill)
         btnEnglish = languageToggleInclude.findViewById(R.id.btnKjv)
@@ -127,7 +138,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             currentVerse = BibleVerse(text = incomingText, reference = incomingRef)
             tvVerseText.text = currentVerse?.text
             tvVerseRef.text = "— ${currentVerse?.reference}"
-            } else if (savedInstanceState != null) {
+        } else if (savedInstanceState != null) {
             val savedText = savedInstanceState.getString(KEY_VERSE_TEXT)
             val savedRef = savedInstanceState.getString(KEY_VERSE_REF)
             if (savedText != null && savedRef != null) {
@@ -138,7 +149,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             } else {
                 loadInitialVerse()
             }
-            } else {
+        } else {
             loadInitialVerse()
         }
 
@@ -190,31 +201,35 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         }
 
         btnShare.setOnClickListener { showShareOptionsDialog() }
-        btnSpeak.setOnClickListener {
-            if (isTtsReady || tts != null) {
-                stopAutoPlay()
-                showAudioOptionsDialog()
-            } else {
-                val dialog = AlertDialog.Builder(this)
-                    .setTitle("Text-to-Speech Required")
-                    .setMessage("To listen to verses, please install or update 'Google Speech Recognition & Synthesis' from the Play Store, and select Voice V (English) or Voice IV (Tagalog) in settings.")
-                    .setPositiveButton("Install from Play Store") { _, _ ->
-                        promptInstallGoogleTTS()
-                    }
-                    .setNegativeButton("Cancel", null)
-                    .create()
 
-                applyThemedDialogStyle(dialog)
-                
-                val isDark = currentTheme != ThemeMode.SEPIA
-                dialog.findViewById<TextView>(android.R.id.message)?.apply {
-                    textSize = 14f
-                    setTextColor(if (isDark) Color.parseColor("#FFFFFF") else Color.parseColor("#2D241E"))
+        // Direct Listen Button (No Extra Menu Popup)
+        btnSpeak.setOnClickListener {
+            currentVerse?.let { verse ->
+                if (isTtsReady && tts != null) {
+                    stopAutoPlay()
+                    speakVerse(verse)
+                } else {
+                    val dialog = AlertDialog.Builder(this)
+                        .setTitle("Text-to-Speech Required")
+                        .setMessage("To listen to verses, please install or update 'Google Speech Recognition & Synthesis' from the Play Store, and select Voice V (English) or Voice IV (Tagalog) in settings.")
+                        .setPositiveButton("Install from Play Store") { _, _ ->
+                            promptInstallGoogleTTS()
+                        }
+                        .setNegativeButton("Cancel", null)
+                        .create()
+
+                    applyThemedDialogStyle(dialog)
+                    
+                    val isDark = currentTheme != ThemeMode.SEPIA
+                    dialog.findViewById<TextView>(android.R.id.message)?.apply {
+                        textSize = 14f
+                        setTextColor(if (isDark) Color.parseColor("#FFFFFF") else Color.parseColor("#2D241E"))
+                    }
                 }
             }
         }
 
-        btnToggleTheme.setOnClickListener { showThemeSelectionDialog() }
+        btnSettings.setOnClickListener { showSettingsDialog() }
         btnAbout.setOnClickListener { showAboutDialog() }
 
         LockScreenVerseService.showLockScreenNotification(this)
@@ -237,14 +252,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         }
     }
 
-    private fun initTTS() {
-        tts = TextToSpeech(this) { status ->
-            if (status == TextToSpeech.SUCCESS) {
-                configureTTSVoiceForCurrentLanguage()
-            }
-        }
-    }
-
     private fun configureTTSVoiceForCurrentLanguage() {
         val ttsEngine = tts ?: return
         if (!isTtsReady) return
@@ -254,7 +261,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         if (currentLanguage == "Tagalog") {
             ttsEngine.language = Locale("tl", "PH")
             
-            // Auto-select Voice IV (Tagalog network / tag voice) if available in freshly installed pack
             val tagalogVoice = ttsEngine.voices?.find { voice ->
                 voice.locale.language.contains("tl", ignoreCase = true) && 
                 (voice.name.contains("iv", ignoreCase = true) || 
@@ -268,7 +274,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         } else {
             ttsEngine.language = Locale.US
 
-            // Auto-select Voice V (English sfg / v voice) if available in freshly installed pack
             val englishVoice = ttsEngine.voices?.find { voice ->
                 voice.locale.language.contains("en", ignoreCase = true) && 
                 (voice.name.contains("v", ignoreCase = true) || 
@@ -285,15 +290,12 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     private fun openSystemTTSSettings() {
         var opened = false
         val intentsToTry = listOf(
-            // 1. Explicit Intent for Google TTS Engine Settings package if installed
             Intent("com.google.android.tts.settings.VoiceDataActivity").apply {
                 flags = Intent.FLAG_ACTIVITY_NEW_TASK
             },
-            // 2. Standard Android TTS Settings action
             Intent("com.android.settings.TTS_SETTINGS").apply {
                 flags = Intent.FLAG_ACTIVITY_NEW_TASK
             },
-            // 3. Android System Accessibility / Speech Settings fallback
             Intent(Settings.ACTION_ACCESSIBILITY_SETTINGS).apply {
                 flags = Intent.FLAG_ACTIVITY_NEW_TASK
             }
@@ -304,9 +306,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 startActivity(intent)
                 opened = true
                 break
-            } catch (_: Exception) {
-                // Try next intent fallback
-            }
+            } catch (_: Exception) {}
         }
 
         if (!opened) {
@@ -314,22 +314,20 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         }
     }
 
-    private fun showAudioOptionsDialog() {
+    private fun showSettingsDialog() {
         val options = arrayOf(
-            "🔊 Listen to Current Verse",
-            "⚙️ Text-to-Speech Settings (Google TTS)"
+            "🎨 Change Reading Theme",
+            "🔊 Text-to-Speech Settings (Google TTS)",
+            "🚪 Exit App"
         )
 
         val dialog = AlertDialog.Builder(this)
-            .setTitle("Audio & Speech Options")
+            .setTitle("Settings")
             .setAdapter(createCenteredListAdapter(options)) { _, index ->
                 when (index) {
-                    0 -> {
-                        currentVerse?.let { verse ->
-                            speakVerse(verse)
-                        }
-                    }
+                    0 -> showThemeSelectionDialog()
                     1 -> openSystemTTSSettings()
+                    2 -> exitApp()
                 }
             }
             .create()
@@ -344,10 +342,16 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             .setTitle("Select Reading Theme")
             .setAdapter(createCenteredListAdapter(options)) { _, which ->
                 currentTheme = themes[which]
+                val prefs = getSharedPreferences(PREFS_NAME, Context.MODE_PRIVATE)
+                prefs.edit().putString(KEY_SAVED_THEME, currentTheme.name).apply()
                 applyTheme()
             }
             .create()
         applyThemedDialogStyle(dialog)
+    }
+
+    private fun exitApp() {
+        finishAffinity()
     }
 
     private fun applyThemedDialogStyle(dialog: AlertDialog) {
@@ -414,13 +418,12 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                     this.textAlignment = android.view.View.TEXT_ALIGNMENT_CENTER
                     this.setPadding(0, 28, 0, 28)
                     
-                    // Comprehensive check for headers, categories, status badges, and action buttons
                     if (text.startsWith("—") || 
                         text.contains("📜") || text.contains("✝️") || text.contains("📖") || text.contains("🗑️") ||
                         text.contains("✅") || text.contains("⬇️") || text.contains("🌐") || text.contains("🖼️") || 
-                        text.contains("📝") || text.contains("🖼️") || text.contains("🟤") || text.contains("⚫") || 
+                        text.contains("📝") || text.contains("🟤") || text.contains("⚫") || 
                         text.contains("🔵") || text.contains("🟢") || text.contains("🟠") || text.contains("▶ Auto-Play ") || 
-                        text.contains("🔊") || text.contains("⚙️") || 
+                        text.contains("🔊") || text.contains("⚙️") || text.contains("🎨") || text.contains("🚪") ||
                         text.contains("• Active")) {
  
                         this.setTextColor(accentColor)
@@ -457,14 +460,13 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         applyThemedDialogStyle(dialog)
     }
 
-   private fun shareVerseAsImage(verseText: String, verseRef: String) {
+    private fun shareVerseAsImage(verseText: String, verseRef: String) {
         try {
             val width = 1080
             val height = 1080
             val bitmap = Bitmap.createBitmap(width, height, Bitmap.Config.ARGB_8888)
             val canvas = Canvas(bitmap)
 
-            // 1. Dynamic background colors based on current theme
             val colors = when (currentTheme) {
                 ThemeMode.SEPIA -> intArrayOf(Color.parseColor("#FBF8F3"), Color.parseColor("#EFE6D5"), Color.parseColor("#E2D4BF"))
                 ThemeMode.CHARCOAL -> intArrayOf(Color.parseColor("#121212"), Color.parseColor("#1E1E1E"), Color.parseColor("#0A0A0A"))
@@ -476,7 +478,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             val gradient = LinearGradient(0f, 0f, width.toFloat(), height.toFloat(), colors, null, Shader.TileMode.CLAMP)
             canvas.drawRect(0f, 0f, width.toFloat(), height.toFloat(), Paint().apply { shader = gradient })
 
-            // 2. Dynamic border colors based on current theme
             val borderColor = when (currentTheme) {
                 ThemeMode.SEPIA -> Color.parseColor("#B08D73")
                 ThemeMode.CHARCOAL -> Color.parseColor("#FFB74D")
@@ -487,7 +488,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
             canvas.drawRoundRect(60f, 60f, (width - 60).toFloat(), (height - 60).toFloat(), 32f, 32f, Paint().apply { color = borderColor; style = Paint.Style.STROKE; strokeWidth = 6f })
 
-            // 3. Dynamic text colors
             val textColor = when (currentTheme) {
                 ThemeMode.SEPIA -> Color.parseColor("#2D241E")
                 else -> Color.parseColor("#FFFFFF")
@@ -508,7 +508,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 isAntiAlias = true
             }
 
-            // 4. Proper multiline text wrapping using StaticLayout so text renders cleanly for Facebook & external apps
             val textWidth = width - 240
             val staticLayout = android.text.StaticLayout.Builder.obtain(verseText, 0, verseText.length, textPaint, textWidth)
                 .setAlignment(android.text.Layout.Alignment.ALIGN_CENTER)
@@ -523,7 +522,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             staticLayout.draw(canvas)
             canvas.restore()
 
-            // 5. Draw Reference
             val refPaint = Paint().apply {
                 color = refColor
                 textSize = 38f
@@ -533,7 +531,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             }
             canvas.drawText(verseRef, (width / 2).toFloat(), startY + totalTextHeight + 90f, refPaint)
 
-            // 6. Watermark Footer
             val watermarkPaint = Paint().apply {
                 color = if (currentTheme == ThemeMode.SEPIA) Color.parseColor("#8C6D53") else Color.parseColor("#888888")
                 textSize = 28f
@@ -543,7 +540,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             }
             canvas.drawText("English & Tagalog Bible App", (width / 2).toFloat(), height - 100f, watermarkPaint)
 
-            // 7. Save file with UNIQUE timestamp to invalidate Android cache and force fresh Facebook feed preview
             val cachePath = File(cacheDir, "images").apply { mkdirs() }
             val imageFile = File(cachePath, "verse_card_${System.currentTimeMillis()}.png")
             
@@ -582,7 +578,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             setPadding(48, 16, 48, 0)
         }
 
-        // Filter available translations strictly matching the currently active language group
         val currentGroup = BibleRepository.currentTranslation.languageGroup
         val availableTranslations = BibleTranslation.values()
             .filter { it.languageGroup == currentGroup && it.isAvailable(this) }
@@ -726,6 +721,54 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         applyThemedDialogStyle(dialog)
     }
 
+    private fun handleLanguageSelection(groupName: String) {
+        val installedTranslations = BibleTranslation.values()
+            .filter { it.languageGroup == groupName && it.isAvailable(this) }
+            .sortedWith(Comparator { a, b ->
+                when {
+                    a.isBuiltIn -> -1
+                    b.isBuiltIn -> 1
+                    else -> a.displayName.compareTo(b.displayName)
+                }
+            })
+
+        val listItems = mutableListOf<String>()
+        installedTranslations.forEach {
+            val badge = if (it.isBuiltIn) "✅ (Built-in)" else "✅ (Installed)"
+            val activeMark = if (it == BibleRepository.currentTranslation) " • Active" else ""
+            listItems.add("${it.displayName} $badge$activeMark")
+        }
+
+        listItems.add("🌐 Download Other Translations")
+        
+        val downloadableNonBuiltInCount = BibleTranslation.values()
+            .filter { it.languageGroup == groupName && !it.isBuiltIn && it.isAvailable(this) }.size
+            
+        if (downloadableNonBuiltInCount > 0) {
+            listItems.add("🗑️ Remove Installed Translation")
+        }
+
+        val dialog = AlertDialog.Builder(this)
+            .setTitle("Select $groupName Version")
+            .setAdapter(createCenteredListAdapter(listItems.toTypedArray())) { _, index ->
+                if (index < installedTranslations.size) {
+                    val selected = installedTranslations[index]
+                    if (selected != BibleRepository.currentTranslation) {
+                        switchToTranslation(selected)
+                    }
+                } else {
+                    val actionIndex = index - installedTranslations.size
+                    if (actionIndex == 0) {
+                        showDownloadableTranslationsDialog(groupName)
+                    } else {
+                        showRemoveTranslationsDialog(groupName)
+                    }
+                }
+            }
+            .create()
+        applyThemedDialogStyle(dialog)
+    }
+
     private fun showRemoveTranslationsDialog(groupName: String) {
         val removableList = BibleTranslation.values()
             .filter { it.languageGroup == groupName && !it.isBuiltIn && it.isAvailable(this) }
@@ -753,58 +796,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                     },
                     onError = { err -> runOnUiThread { showCenteredToast(err) } }
                 )
-            }
-            .create()
-        applyThemedDialogStyle(dialog)
-    }
-
-    private fun handleLanguageSelection(groupName: String) {
-        val installedTranslations = BibleTranslation.values()
-            .filter { it.languageGroup == groupName && it.isAvailable(this) }
-            .sortedWith(Comparator { a, b ->
-                when {
-                    a.isBuiltIn -> -1
-                    b.isBuiltIn -> 1
-                    else -> a.displayName.compareTo(b.displayName)
-                }
-            })
-
-        val listItems = mutableListOf<String>()
-        
-        // 1. Show Installed Versions with Status Badges
-        installedTranslations.forEach {
-            val badge = if (it.isBuiltIn) "✅ (Built-in)" else "✅ (Installed)"
-            val activeMark = if (it == BibleRepository.currentTranslation) " • Active" else ""
-            listItems.add("${it.displayName} $badge$activeMark")
-        }
-
-        // 2. Action buttons at the bottom
-        listItems.add("🌐 Download Other Translations")
-        
-        val downloadableNonBuiltInCount = BibleTranslation.values()
-            .filter { it.languageGroup == groupName && !it.isBuiltIn && it.isAvailable(this) }.size
-            
-        if (downloadableNonBuiltInCount > 0) {
-            listItems.add("🗑️ Remove Installed Translation")
-        }
-
-        val dialog = AlertDialog.Builder(this)
-            .setTitle("Select $groupName Version")
-            .setAdapter(createCenteredListAdapter(listItems.toTypedArray())) { _, index ->
-                if (index < installedTranslations.size) {
-                    // Direct switch without extra dialogs
-                    val selected = installedTranslations[index]
-                    if (selected != BibleRepository.currentTranslation) {
-                        switchToTranslation(selected)
-                    }
-                } else {
-                    val actionIndex = index - installedTranslations.size
-                    if (actionIndex == 0) {
-                        showDownloadableTranslationsDialog(groupName)
-                    } else {
-                        showRemoveTranslationsDialog(groupName)
-                    }
-                }
             }
             .create()
         applyThemedDialogStyle(dialog)
@@ -847,10 +838,8 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         applyThemedDialogStyle(dialog)
     }
 
-   private fun switchToTranslation(target: BibleTranslation) {
+    private fun switchToTranslation(target: BibleTranslation) {
         val currentRef = currentVerse?.reference?.substringBefore(" (")?.trim()
-        
-        // Save the previous active translation and verse before attempting to switch
         val previousTranslation = BibleRepository.currentTranslation
         val previousVerse = currentVerse
 
@@ -859,30 +848,21 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         if (currentRef != null) {
             val translatedVerse = BibleRepository.getVerseByBookChapterAndVerse(currentRef, this)
             if (translatedVerse != null) {
-                // Verse exists in target translation -> switch successfully
                 updateLanguageToggleUI(target)
                 displayVerse(translatedVerse)
-                
-                // Re-configure TTS voice for the newly selected translation language
                 configureTTSVoiceForCurrentLanguage()
                 
                 if (target == BibleTranslation.JPS || target == BibleTranslation.WNT) {
                     showCenteredToast("${target.displayName}: ${target.fullTranslationName}")
                 }
             } else {
-                // Verse does NOT exist in target translation (e.g. NT verse selected on OT-only JPS)
-                // Revert repository and UI back to the previous translation
                 BibleRepository.setTranslation(this, previousTranslation)
                 updateLanguageToggleUI(previousTranslation)
-                
                 if (previousVerse != null) {
                     currentVerse = previousVerse
                     displayVerse(previousVerse)
                 }
-                
-                // Ensure TTS voice remains matching the reverted translation
                 configureTTSVoiceForCurrentLanguage()
-                
                 showCenteredToast("${target.displayName} (${target.fullTranslationName}) does not contain this verse.")
             }
         } else {
@@ -927,7 +907,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
         applyThemedDialogStyle(dialog)
         
-        // Dynamically style the message text for crisp contrast across dark and sepia themes
         val isDark = currentTheme != ThemeMode.SEPIA
         dialog.findViewById<TextView>(android.R.id.message)?.apply {
             textSize = 15f
@@ -935,7 +914,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         }
     }
 
-   private fun showBookSelectionDialog() {
+    private fun showBookSelectionDialog() {
         val allBooksAlphabetical = BibleRepository.getAvailableBooks(this).toTypedArray()
         val isTagalog = BibleRepository.currentTranslation.languageGroup == "Tagalog"
 
@@ -1013,13 +992,11 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 val selectedCategory = categories[catIndex]
                 val categoryItems = categoryMap[selectedCategory] ?: emptyArray()
 
-                // Filter items to check if any books exist in this active translation
                 val availableBooksInTranslation = BibleRepository.getAvailableBooks(this)
                 val filteredCategoryItems = categoryItems.filter { item ->
                     item.startsWith("—") || availableBooksInTranslation.any { it.equals(item, ignoreCase = true) }
                 }
 
-                // Count actual book titles excluding section headers
                 val bookCount = filteredCategoryItems.count { !it.startsWith("—") }
 
                 if (bookCount == 0) {
@@ -1075,7 +1052,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         tvVerseRef.startAnimation(AlphaAnimation(0.0f, 1.0f).apply { duration = 400 })
     }
 
-    // Called ONLY on initial app launch in onCreate
     private fun loadInitialVerse() {
         val defaultRef = if (BibleRepository.currentTranslation.languageGroup == "Tagalog") "Juan 3:16" else "John 3:16"
         val defaultVerse = BibleRepository.getVerseByBookChapterAndVerse(defaultRef, this)
@@ -1084,7 +1060,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         displayVerse(verseToDisplay)
     }
 
-    // Called when clicking "🔀 New Random Bible Verse" button
     private fun loadRandomVerse() {
         val verse = BibleRepository.getRandomVerse(this)
         displayVerse(verse)
@@ -1141,7 +1116,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     private fun playNextAutoPlayVerse() {
         val verse = currentVerse ?: return
 
-        // 1. Try finding the next verse in the current chapter
         val nextVerseInChapter = BibleRepository.getNextVerse(verse, this)
         if (nextVerseInChapter != null) {
             displayVerse(nextVerseInChapter)
@@ -1149,14 +1123,12 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             return
         }
 
-        // 2. End of chapter reached: Handle modes
         if (autoPlayMode == AutoPlayMode.CHAPTER) {
             showCenteredToast("Chapter Auto-Play Completed")
             stopAutoPlay()
             return
         }
 
-        // For BOOK or ALL_BOOKS mode: Find the current book and move to next chapter
         val currentBook = BibleRepository.getAvailableBooks(this).find { book ->
             verse.reference.startsWith(book, ignoreCase = true)
         } ?: return
@@ -1167,7 +1139,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val currentChapterIndex = chapters.indexOf(currentChapter)
 
         if (currentChapterIndex != -1 && currentChapterIndex < chapters.size - 1) {
-            // Next chapter in current book
             val nextChapter = chapters[currentChapterIndex + 1]
             val firstVerseOfNextChapter = BibleRepository.getVerseObjectsForChapter(nextChapter, this).firstOrNull()
             if (firstVerseOfNextChapter != null) {
@@ -1177,14 +1148,12 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             }
         }
 
-        // 3. End of book reached
         if (autoPlayMode == AutoPlayMode.BOOK) {
             showCenteredToast("Book Auto-Play Completed")
             stopAutoPlay()
             return
         }
 
-        // 4. For ALL_BOOKS mode: Move to the first chapter of the next book
         if (autoPlayMode == AutoPlayMode.ALL_BOOKS) {
             val allBooks = BibleRepository.getAvailableBooks(this)
             val currentBookIndex = allBooks.indexOf(currentBook)
@@ -1217,7 +1186,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         Toast.makeText(this, msg, Toast.LENGTH_SHORT).apply { setGravity(android.view.Gravity.CENTER, 0, 0); show() }
     }
 
-    // --- RESTORED COMPLETE CURATED THEMES & BUTTON STYLING ---
     private fun applyTheme() {
         val rootLayout = findViewById<ViewGroup>(android.R.id.content).getChildAt(0) ?: window.decorView
 
@@ -1242,10 +1210,10 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 tvVerseText.setTextColor(Color.parseColor("#2D241E"))
                 tvVerseRef.setTextColor(Color.parseColor("#8C6D53"))
                 
-                btnToggleTheme.text = "🎨 Theme: Classic Sepia"
-                btnToggleTheme.setTextColor(Color.parseColor("#6E472C"))
-                btnToggleTheme.strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
-                btnToggleTheme.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
+                btnSettings.text = "⚙️ Settings"
+                btnSettings.setTextColor(Color.parseColor("#6E472C"))
+                btnSettings.strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
+                btnSettings.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
                 
                 btnRefresh.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#6E472C"))
                 btnRefresh.setTextColor(Color.WHITE)
@@ -1259,7 +1227,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                     (btnSearch as MaterialButton).strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
                 }
                 
-                val dayButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout)
+                val dayButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout, btnSettings)
                 for (btn in dayButtons) {
                     btn.setTextColor(Color.parseColor("#6E472C"))
                     btn.strokeColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
@@ -1277,10 +1245,10 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 tvVerseText.setTextColor(Color.parseColor("#FFFFFF"))
                 tvVerseRef.setTextColor(Color.parseColor("#FFB74D"))
                 
-                btnToggleTheme.text = "🎨 Theme: Charcoal Contrast"
-                btnToggleTheme.setTextColor(Color.parseColor("#FFB74D"))
-                btnToggleTheme.strokeColor = ColorStateList.valueOf(Color.parseColor("#FFB74D"))
-                btnToggleTheme.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
+                btnSettings.text = "⚙️ Settings"
+                btnSettings.setTextColor(Color.parseColor("#FFB74D"))
+                btnSettings.strokeColor = ColorStateList.valueOf(Color.parseColor("#FFB74D"))
+                btnSettings.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
                 
                 btnRefresh.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#333333"))
                 btnRefresh.setTextColor(Color.parseColor("#FFB74D"))
@@ -1294,7 +1262,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                     (btnSearch as MaterialButton).strokeColor = ColorStateList.valueOf(Color.parseColor("#FFB74D"))
                 }
                 
-                val charcoalButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout)
+                val charcoalButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout, btnSettings)
                 for (btn in charcoalButtons) {
                     btn.setTextColor(Color.parseColor("#FFFFFF"))
                     btn.strokeColor = ColorStateList.valueOf(Color.parseColor("#666666"))
@@ -1312,10 +1280,10 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 tvVerseText.setTextColor(Color.parseColor("#FFFFFF"))
                 tvVerseRef.setTextColor(Color.parseColor("#9FA8DA"))
                 
-                btnToggleTheme.text = "🎨 Theme: Midnight Navy"
-                btnToggleTheme.setTextColor(Color.parseColor("#9FA8DA"))
-                btnToggleTheme.strokeColor = ColorStateList.valueOf(Color.parseColor("#7986CB"))
-                btnToggleTheme.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
+                btnSettings.text = "⚙️ Settings"
+                btnSettings.setTextColor(Color.parseColor("#9FA8DA"))
+                btnSettings.strokeColor = ColorStateList.valueOf(Color.parseColor("#7986CB"))
+                btnSettings.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
                 
                 btnRefresh.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#3F51B5"))
                 btnRefresh.setTextColor(Color.parseColor("#FFFFFF"))
@@ -1329,7 +1297,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                     (btnSearch as MaterialButton).strokeColor = ColorStateList.valueOf(Color.parseColor("#3F51B5"))
                 }
                 
-                val navyButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout)
+                val navyButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout, btnSettings)
                 for (btn in navyButtons) {
                     btn.setTextColor(Color.parseColor("#E0E0E0"))
                     btn.strokeColor = ColorStateList.valueOf(Color.parseColor("#7986CB"))
@@ -1347,10 +1315,10 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 tvVerseText.setTextColor(Color.parseColor("#FFFFFF"))
                 tvVerseRef.setTextColor(Color.parseColor("#A5D6A7"))
                 
-                btnToggleTheme.text = "🎨 Theme: Olive Grace"
-                btnToggleTheme.setTextColor(Color.parseColor("#A5D6A7"))
-                btnToggleTheme.strokeColor = ColorStateList.valueOf(Color.parseColor("#81C784"))
-                btnToggleTheme.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
+                btnSettings.text = "⚙️ Settings"
+                btnSettings.setTextColor(Color.parseColor("#A5D6A7"))
+                btnSettings.strokeColor = ColorStateList.valueOf(Color.parseColor("#81C784"))
+                btnSettings.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
                 
                 btnRefresh.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#2E7D32"))
                 btnRefresh.setTextColor(Color.parseColor("#FFFFFF"))
@@ -1364,7 +1332,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                     (btnSearch as MaterialButton).strokeColor = ColorStateList.valueOf(Color.parseColor("#2E7D32"))
                 }
                 
-                val oliveButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout)
+                val oliveButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout, btnSettings)
                 for (btn in oliveButtons) {
                     btn.setTextColor(Color.parseColor("#E0E0E0"))
                     btn.strokeColor = ColorStateList.valueOf(Color.parseColor("#81C784"))
@@ -1382,10 +1350,10 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 tvVerseText.setTextColor(Color.parseColor("#FFE5D9"))
                 tvVerseRef.setTextColor(Color.parseColor("#FFB74D"))
                 
-                btnToggleTheme.text = "🎨 Theme: Warm Sunset"
-                btnToggleTheme.setTextColor(Color.parseColor("#FFB74D"))
-                btnToggleTheme.strokeColor = ColorStateList.valueOf(Color.parseColor("#D77A61"))
-                btnToggleTheme.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
+                btnSettings.text = "⚙️ Settings"
+                btnSettings.setTextColor(Color.parseColor("#FFB74D"))
+                btnSettings.strokeColor = ColorStateList.valueOf(Color.parseColor("#D77A61"))
+                btnSettings.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
                 
                 btnRefresh.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#A34828"))
                 btnRefresh.setTextColor(Color.parseColor("#FFFFFF"))
@@ -1399,7 +1367,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                     (btnSearch as MaterialButton).strokeColor = ColorStateList.valueOf(Color.parseColor("#A34828"))
                 }
                 
-                val sunsetButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout)
+                val sunsetButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout, btnSettings)
                 for (btn in sunsetButtons) {
                     btn.setTextColor(Color.parseColor("#FFE5D9"))
                     btn.strokeColor = ColorStateList.valueOf(Color.parseColor("#D77A61"))
@@ -1437,15 +1405,14 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             }
     
             val pillColorHex = when (currentTheme) {
-                ThemeMode.CHARCOAL -> Color.parseColor("#D97706") // Rich Warm Amber
-                ThemeMode.NAVY -> Color.parseColor("#3F51B5")     // Deep Indigo
-                ThemeMode.OLIVE -> Color.parseColor("#2E7D32")    // Forest Green
-                ThemeMode.SUNSET -> Color.parseColor("#A34828")   // Warm Sunset Terracotta
+                ThemeMode.CHARCOAL -> Color.parseColor("#D97706")
+                ThemeMode.NAVY -> Color.parseColor("#3F51B5")
+                ThemeMode.OLIVE -> Color.parseColor("#2E7D32")
+                ThemeMode.SUNSET -> Color.parseColor("#A34828")
                 else -> Color.parseColor("#8D6E63")
             }
             val darkPillColor = ColorStateList.valueOf(pillColorHex)
     
-            // Reset backgrounds
             btnEnglish.backgroundTintList = null
             btnEnglish.setBackgroundColor(Color.TRANSPARENT)
             btnTagalog.backgroundTintList = null
@@ -1454,18 +1421,15 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             if (isEnglishActive) {
                 btnEnglish.setBackgroundResource(R.drawable.bg_pill_selected)
                 btnEnglish.backgroundTintList = darkPillColor
-                btnEnglish.setTextColor(Color.WHITE) // High contrast pure white text on active pill
-                
-                btnTagalog.setTextColor(Color.parseColor("#B0BEC5")) // Soft readable light grey for inactive toggle option
+                btnEnglish.setTextColor(Color.WHITE)
+                btnTagalog.setTextColor(Color.parseColor("#B0BEC5"))
             } else {
                 btnTagalog.setBackgroundResource(R.drawable.bg_pill_selected)
                 btnTagalog.backgroundTintList = darkPillColor
-                btnTagalog.setTextColor(Color.WHITE) // Pure white text
-                
+                btnTagalog.setTextColor(Color.WHITE)
                 btnEnglish.setTextColor(Color.parseColor("#B0BEC5"))
             }
         } else {
-            // Classic Sepia / Light Theme
             verseCard.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#FFFFFF"))
             verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#FFFFFF")))
             verseCard.strokeColor = Color.parseColor("#D0C4B2")
@@ -1481,13 +1445,11 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 btnEnglish.setBackgroundResource(R.drawable.bg_pill_selected)
                 btnEnglish.backgroundTintList = dayPillColor
                 btnEnglish.setTextColor(Color.WHITE)
-                
                 btnTagalog.setTextColor(Color.parseColor("#4A3B32"))
             } else {
                 btnTagalog.setBackgroundResource(R.drawable.bg_pill_selected)
                 btnTagalog.backgroundTintList = dayPillColor
                 btnTagalog.setTextColor(Color.WHITE)
-                
                 btnEnglish.setTextColor(Color.parseColor("#4A3B32"))
             }
         }
@@ -1506,30 +1468,13 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
 
     private fun speakVerse(verse: BibleVerse) {
-        if (!isTtsReady || tts == null) return
+        val ttsEngine = tts ?: return
+        if (!isTtsReady) return
 
-        val isTagalog = BibleRepository.currentTranslation.languageGroup == "Tagalog"
-        
-        if (isTagalog) {
-            // Try Filipino (fil_PH) first as Android TTS natively supports it best
-            val filLocale = Locale("fil", "PH")
-            val result = tts?.setLanguage(filLocale)
-            
-            if (result == TextToSpeech.LANG_MISSING_DATA || result == TextToSpeech.LANG_NOT_SUPPORTED) {
-                // Fall back to general Tagalog locale
-                tts?.language = Locale("tl", "PH")
-            }
-            // Slightly refine speech rate for clear formal Tagalog narration
-            tts?.setSpeechRate(0.88f)
-            tts?.setPitch(1.0f)
-        } else {
-            tts?.language = Locale.US
-            tts?.setSpeechRate(0.95f)
-            tts?.setPitch(1.0f)
-        }
+        configureTTSVoiceForCurrentLanguage()
 
         val utteranceId = "AutoPlay_${System.currentTimeMillis()}"
-        tts?.speak("${verse.text}. Reference: ${verse.reference}", TextToSpeech.QUEUE_FLUSH, null, utteranceId)
+        ttsEngine.speak("${verse.text}. Reference: ${verse.reference}", TextToSpeech.QUEUE_FLUSH, null, utteranceId)
     }
     
     override fun onInit(status: Int) {
