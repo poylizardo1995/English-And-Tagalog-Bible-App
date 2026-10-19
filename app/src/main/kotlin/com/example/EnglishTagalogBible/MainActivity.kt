@@ -32,12 +32,14 @@ import androidx.core.content.FileProvider
 import androidx.work.ExistingPeriodicWorkPolicy
 import androidx.work.PeriodicWorkRequestBuilder
 import androidx.work.WorkManager
+import androidx.work.OneTimeWorkRequestBuilder
 import com.google.android.material.button.MaterialButton
 import com.google.android.material.card.MaterialCardView
 import java.io.File
 import java.io.FileOutputStream
 import java.util.Locale
 import java.util.concurrent.TimeUnit
+import java.util.Calendar
 
 class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
@@ -227,6 +229,41 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         updateLanguageToggleUI(BibleRepository.currentTranslation)
     }
 
+    private fun scheduleMultipleDailyNotifications() {
+    val workManager = WorkManager.getInstance(this)
+    val targetHours = listOf(6, 12, 15, 20, 23) // Morning, Lunch, 3PM, Night, Midnight
+    val targetMinutes = listOf(0, 0, 0, 0, 30)
+
+    for (i in targetHours.indices) {
+            val delay = calculateInitialDelay(targetHours[i], targetMinutes[i])
+            val dailyWorkRequest = OneTimeWorkRequestBuilder<DailyVerseWorker>()
+                .setInitialDelay(delay, TimeUnit.MILLISECONDS)
+                .build()
+    
+            workManager.enqueueUniqueWork(
+                "BibleNotification_Slot_$i",
+                ExistingWorkPolicy.REPLACE,
+                dailyWorkRequest
+            )
+        }
+    }
+    
+    private fun calculateInitialDelay(targetHour: Int, targetMinute: Int): Long {
+        val currentTime = Calendar.getInstance()
+        val targetTime = Calendar.getInstance().apply {
+            set(Calendar.HOUR_OF_DAY, targetHour)
+            set(Calendar.MINUTE, targetMinute)
+            set(Calendar.SECOND, 0)
+            set(Calendar.MILLISECOND, 0)
+        }
+    
+        if (targetTime.timeInMillis <= currentTime.timeInMillis) {
+            targetTime.add(Calendar.DAY_OF_YEAR, 1)
+        }
+    
+        return targetTime.timeInMillis - currentTime.timeInMillis
+    }
+    
     private fun initTTS() {
         tts = TextToSpeech(this, this)
     }
