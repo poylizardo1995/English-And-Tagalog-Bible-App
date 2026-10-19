@@ -295,7 +295,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     private fun showTTSSettingsRequiredDialog() {
         val dialog = AlertDialog.Builder(this)
             .setTitle("Text-to-Speech Settings")
-            .setMessage("To listen to verses, please ensure your Text-to-Speech engine is installed and set up.\n\nFor the best experience we recommended:\nEnglish (US) — Voice V\nFilipino (Philippines) — Voice IV")
+            .setMessage("To listen to verses, please ensure your Text-to-Speech engine is installed and set up.\n\nFor the best experience, we recommend:\n• English (US) — Voice V\n• Filipino (Philippines) — Voice IV")
             .setPositiveButton("Play Store") { _, _ -> promptInstallGoogleTTS() }
             .setNegativeButton("Cancel", null)
             .create()
@@ -702,7 +702,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
 
     private fun showAutoPlayOptionsDialog() {
-        val options = arrayOf("▶ Auto-Play Chapter", "▶ Auto-Play Book", "▶ Auto-Play All Books", "Close")
+        val options = arrayOf("▶ Auto-Play Chapter", "▶ Auto-Play Book", "▶ Auto-Play All Books")
         val dialog = AlertDialog.Builder(this)
             .setTitle("Select Auto-Play Mode")
             .setAdapter(createCenteredListAdapter(options)) { _, which ->
@@ -770,7 +770,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         layout.addView(inputEditText)
 
         val dialog = AlertDialog.Builder(this)
-            .setTitle("Search Bible")
+            .setTitle("Search Bible 🔎")
             .setView(layout)
             .setPositiveButton("Search") { _, _ ->
                 val query = inputEditText.text.toString().trim()
@@ -955,7 +955,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                     showCenteredToast("No internet connection available.")
                     return@setAdapter
                 }
-                showCenteredToast("Downloading ${selected.displayName} from GitHub...")
+                showCenteredToast("Downloading ${selected.displayName}...")
                 BibleManager.downloadTranslationPackage(
                     context = this,
                     translation = selected,
@@ -1023,10 +1023,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 "● English - Berean Annotated Bible (Early Draft Version) (BAB)\n" +
                 "● English - Berean Literal Bible (Draft Version) (BLB)\n" +
                 "● English - Berean Standard Bible (2020) (BSB)\n" +
-                "● English - Berean Reader’s Bible (2021) (BRB)\n" +
                 "● English - Catholic Public Domain Version (2009) (CPDV)\n" +
                 "● English - Darby Bible Translation (1890) (DBT)\n" +
-                "● English - Douay-Rheims Bible (NT:1582)(OT:1609-1610)(Challoner'sRevision:1749–1752) (DRB)\n" +
+                "● English - Douay-Rheims Bible (NT:1582)(OT:1609-1610)(Challoner'sRev:1749–1752) (DRB)\n" +
                 "● English - English Revised Version (1885) (ERV)\n" +
                 "● English - Jewish Publication Society's Tanakh (OT:1917) (JPS)\n" +
                 "● English - Majority Standard Bible (2022) (MSB)\n" +
