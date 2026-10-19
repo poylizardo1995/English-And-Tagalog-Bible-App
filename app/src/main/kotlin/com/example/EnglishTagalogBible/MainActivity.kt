@@ -236,7 +236,8 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val isLanguageAvailable = try {
             if (ttsEngine != null) {
                 val currentLang = BibleRepository.currentTranslation.languageGroup
-                val targetLocale = if (currentLang == "Tagalog") Locale("tl", "PH") else Locale.US
+                // Strictly target US English or Philippine Filipino/Tagalog
+                val targetLocale = if (currentLang == "Tagalog") Locale("fil", "PH") else Locale.US
                 val result = ttsEngine.isLanguageAvailable(targetLocale)
                 result != TextToSpeech.LANG_MISSING_DATA && result != TextToSpeech.LANG_NOT_SUPPORTED
             } else false
@@ -365,34 +366,46 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val availableVoices: Set<Voice>? = try { ttsEngine.voices } catch (e: Exception) { null }
 
         if (currentLanguage == "Tagalog") {
-            ttsEngine.language = Locale("tl", "PH")
+            // Explicitly set locale to Philippines
+            ttsEngine.language = Locale("fil", "PH")
             
             val tagalogVoice = availableVoices?.find { voice ->
                 val name = voice.name.lowercase()
-                (voice.locale.language.contains("tl") || voice.locale.language.contains("fil")) &&
+                val langStr = voice.locale.toLanguageTag().lowercase()
+                // Match Philippine Filipino or Tagalog, avoiding India/other regions
+                (langStr.contains("fil") || langStr.contains("tl") || langStr.contains("ph")) &&
+                !langStr.contains("in") &&
                 (name.contains("sfg") || name.contains("tag") || name.contains("iv") || name.contains("4"))
-            } ?: availableVoices?.find { 
-                it.locale.language.contains("tl") || it.locale.language.contains("fil") 
+            } ?: availableVoices?.find { voice ->
+                val langStr = voice.locale.toLanguageTag().lowercase()
+                (langStr.contains("fil") || langStr.contains("tl") || langStr.contains("ph")) && !langStr.contains("in")
             }
 
             tagalogVoice?.let { try { ttsEngine.voice = it } catch (_: Exception) {} }
             ttsEngine.setSpeechRate(0.88f)
             ttsEngine.setPitch(1.0f)
         } else {
+            // Explicitly set locale to United States (US English)
             ttsEngine.language = Locale.US
 
             val englishVoice = availableVoices?.find { voice ->
                 val name = voice.name.lowercase()
-                voice.locale.language.contains("en") &&
+                val langStr = voice.locale.toLanguageTag().lowercase()
+                // Strictly match US English and filter out Indian or other regional English variants (e.g. en-in)
+                (langStr.equals("en-us") || langStr.startsWith("en_us") || (langStr.contains("en") && !langStr.contains("in"))) &&
+                !name.contains("in") &&
                 (name.contains("sfg") || name.contains("v") || name.contains("5") || name.contains("network"))
-            } ?: availableVoices?.find { it.locale.language.contains("en") }
+            } ?: availableVoices?.find { voice ->
+                val langStr = voice.locale.toLanguageTag().lowercase()
+                (langStr.equals("en-us") || langStr.startsWith("en_us") || (langStr.contains("en") && !langStr.contains("in")))
+            }
 
             englishVoice?.let { try { ttsEngine.voice = it } catch (_: Exception) {} }
             ttsEngine.setSpeechRate(0.95f)
             ttsEngine.setPitch(1.0f)
         }
     }
-
+    
     private fun openSystemTTSSettings() {
         // Check if Google TTS package is installed on the device
         val isTtsPackageInstalled = try {
