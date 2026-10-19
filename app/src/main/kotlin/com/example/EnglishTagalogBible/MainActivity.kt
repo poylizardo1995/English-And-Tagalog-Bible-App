@@ -294,9 +294,10 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
     private fun showTTSSettingsRequiredDialog() {
         val dialog = AlertDialog.Builder(this)
-            .setTitle("Text-to-Speech Required")
-            .setMessage("To listen to verses, please install or update 'Google Speech Recognition & Synthesis' from the Play Store, and select Voice V (English) or Voice IV (Tagalog) in settings.")
-            .setPositiveButton("Install from Play Store") { _, _ -> promptInstallGoogleTTS() }
+            .setTitle("Text-to-Speech Settings")
+            .setMessage("To listen to verses, please ensure your Text-to-Speech engine is installed and set up.\n\nRecommended: English (US) — Voice V or Filipino (Philippines) — Voice IV for the best experience.")
+            .setPositiveButton("Open TTS Settings") { _, _ -> openSystemTTSSettings() }
+            .setNeutralButton("Play Store") { _, _ -> promptInstallGoogleTTS() }
             .setNegativeButton("Cancel", null)
             .create()
 
@@ -402,47 +403,25 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         if (!isTtsReady) return
 
         val currentLanguage = BibleRepository.currentTranslation.languageGroup
-        val availableVoices: Set<Voice>? = try { ttsEngine.voices } catch (e: Exception) { null }
-
-        if (currentLanguage == "Tagalog") {
-            // Explicitly set locale to Philippines
-            ttsEngine.language = Locale("fil", "PH")
-            
-            val tagalogVoice = availableVoices?.find { voice ->
-                val name = voice.name.lowercase()
-                val langStr = voice.locale.toLanguageTag().lowercase()
-                // Match Philippine Filipino or Tagalog, avoiding India/other regions
-                (langStr.contains("fil") || langStr.contains("tl") || langStr.contains("ph")) &&
-                !langStr.contains("in") &&
-                (name.contains("sfg") || name.contains("tag") || name.contains("iv") || name.contains("4"))
-            } ?: availableVoices?.find { voice ->
-                val langStr = voice.locale.toLanguageTag().lowercase()
-                (langStr.contains("fil") || langStr.contains("tl") || langStr.contains("ph")) && !langStr.contains("in")
-            }
-
-            tagalogVoice?.let { try { ttsEngine.voice = it } catch (_: Exception) {} }
-            ttsEngine.setSpeechRate(0.88f)
-            ttsEngine.setPitch(1.0f)
+        
+        // Set locale based on the active user selection
+        val targetLocale = if (currentLanguage == "Tagalog") {
+            Locale("fil", "PH")
         } else {
-            // Explicitly set locale to United States (US English)
-            ttsEngine.language = Locale.US
-
-            val englishVoice = availableVoices?.find { voice ->
-                val name = voice.name.lowercase()
-                val langStr = voice.locale.toLanguageTag().lowercase()
-                // Strictly match US English and filter out Indian or other regional English variants (e.g. en-in)
-                (langStr.equals("en-us") || langStr.startsWith("en_us") || (langStr.contains("en") && !langStr.contains("in"))) &&
-                !name.contains("in") &&
-                (name.contains("sfg") || name.contains("v") || name.contains("5") || name.contains("network"))
-            } ?: availableVoices?.find { voice ->
-                val langStr = voice.locale.toLanguageTag().lowercase()
-                (langStr.equals("en-us") || langStr.startsWith("en_us") || (langStr.contains("en") && !langStr.contains("in")))
-            }
-
-            englishVoice?.let { try { ttsEngine.voice = it } catch (_: Exception) {} }
-            ttsEngine.setSpeechRate(0.95f)
-            ttsEngine.setPitch(1.0f)
+            Locale.US
         }
+
+        try {
+            ttsEngine.language = targetLocale
+        } catch (_: Exception) {}
+
+        // Set natural reading pace
+        if (currentLanguage == "Tagalog") {
+            ttsEngine.setSpeechRate(0.88f)
+        } else {
+            ttsEngine.setSpeechRate(0.95f)
+        }
+        ttsEngine.setPitch(1.0f)
     }
     
     private fun openSystemTTSSettings() {
