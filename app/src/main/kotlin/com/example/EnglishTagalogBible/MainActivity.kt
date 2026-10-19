@@ -262,18 +262,34 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
 
     private fun openSystemTTSSettings() {
-        try {
-            val intent = Intent("com.android.settings.TTS_SETTINGS")
-            intent.flags = Intent.FLAG_ACTIVITY_NEW_TASK
-            startActivity(intent)
-        } catch (e: Exception) {
-            try {
-                val intent = Intent(Settings.ACTION_ACCESSIBILITY_SETTINGS)
-                intent.flags = Intent.FLAG_ACTIVITY_NEW_TASK
-                startActivity(intent)
-            } catch (ex: Exception) {
-                showCenteredToast("Unable to open Text-to-Speech settings.")
+        var opened = false
+        val intentsToTry = listOf(
+            // 1. Explicit Intent for Google TTS Engine Settings package if installed
+            Intent("com.google.android.tts.settings.VoiceDataActivity").apply {
+                flags = Intent.FLAG_ACTIVITY_NEW_TASK
+            },
+            // 2. Standard Android TTS Settings action
+            Intent("com.android.settings.TTS_SETTINGS").apply {
+                flags = Intent.FLAG_ACTIVITY_NEW_TASK
+            },
+            // 3. Android System Accessibility / Speech Settings fallback
+            Intent(Settings.ACTION_ACCESSIBILITY_SETTINGS).apply {
+                flags = Intent.FLAG_ACTIVITY_NEW_TASK
             }
+        )
+
+        for (intent in intentsToTry) {
+            try {
+                startActivity(intent)
+                opened = true
+                break
+            } catch (_: Exception) {
+                // Try next intent fallback
+            }
+        }
+
+        if (!opened) {
+            showCenteredToast("Unable to open Text-to-Speech settings.")
         }
     }
 
