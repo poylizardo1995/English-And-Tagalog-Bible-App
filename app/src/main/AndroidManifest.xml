@@ -41,6 +41,10 @@
                 <action android:name="android.intent.action.USER_PRESENT" />
             </intent-filter>
         </receiver>
+        
+        <receiver
+            android:name=".VerseActionReceiver"
+            android:exported="false" />
 
     </application>
 
