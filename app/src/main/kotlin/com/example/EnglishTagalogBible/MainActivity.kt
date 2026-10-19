@@ -1021,10 +1021,18 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
     
     private fun startAutoPlay() {
-        if (!isTtsReady) { 
-            showCenteredToast("Speech engine not ready")
+        if (!isTtsReady || tts == null) {
+            AlertDialog.Builder(this)
+                .setTitle("Text-to-Speech Required")
+                .setMessage("To use Auto-Play, please install or update 'Google Speech Recognition & Synthesis' from the Play Store, and select Voice V (English) or Voice IV (Tagalog) in settings.")
+                .setPositiveButton("Install from Play Store") { _, _ ->
+                    promptInstallGoogleTTS()
+                }
+                .setNegativeButton("Cancel", null)
+                .show()
             return 
         }
+        
         isAutoPlaying = true
         btnAutoPlay.text = "⏹ Stop Auto-Play"
         
