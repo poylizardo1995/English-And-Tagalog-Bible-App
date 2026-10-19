@@ -191,13 +191,18 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
         btnShare.setOnClickListener { showShareOptionsDialog() }
         btnSpeak.setOnClickListener {
-            currentVerse?.let { verse ->
-                if (isTtsReady) {
-                    stopAutoPlay()
-                    speakVerse(verse)
-                } else {
-                    showCenteredToast("Speech Engine is still initializing...")
-                }
+            if (isTtsReady && tts != null) {
+                stopAutoPlay()
+                showAudioOptionsDialog()
+            } else {
+                AlertDialog.Builder(this)
+                    .setTitle("Text-to-Speech Required")
+                    .setMessage("To listen to verses, please install or update 'Google Speech Recognition & Synthesis' from the Play Store, and select Voice V (English) or Voice IV (Tagalog) in settings.")
+                    .setPositiveButton("Install from Play Store") { _, _ ->
+                        promptInstallGoogleTTS()
+                    }
+                    .setNegativeButton("Cancel", null)
+                    .show()
             }
         }
 
@@ -234,27 +239,33 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
     private fun configureTTSVoiceForCurrentLanguage() {
         val ttsEngine = tts ?: return
+        if (!isTtsReady) return
+
         val currentLanguage = BibleRepository.currentTranslation.languageGroup
 
         if (currentLanguage == "Tagalog") {
             val localeTagalog = Locale("tl", "PH")
             ttsEngine.language = localeTagalog
             
-            // Search for preferred Tagalog voice (Voice IV / 4th network voice or matching tagalog voice)
+            // Explicitly search for Voice IV or Tagalog network voices
             val tagalogVoice = ttsEngine.voices?.find { voice ->
                 voice.locale.language == "tl" && 
-                (voice.name.contains("tag", ignoreCase = true) || voice.name.contains("iv", ignoreCase = true) || voice.name.contains("4"))
-            } ?: ttsEngine.voices?.find { it.locale.language == "tl" }
+                (voice.name.contains("iv", ignoreCase = true) || 
+                 voice.name.contains("tag", ignoreCase = true) || 
+                 voice.name.contains("4"))
+            } ?: ttsEngine.voices?.find { it.locale.language.startsWith("tl") || it.locale.language.startsWith("fil") }
 
             tagalogVoice?.let { ttsEngine.voice = it }
         } else {
             val localeEnglish = Locale.US
             ttsEngine.language = localeEnglish
 
-            // Search for preferred English voice (Voice V / 5th network voice or sf-group)
+            // Explicitly search for Voice V or English network/sfg voices
             val englishVoice = ttsEngine.voices?.find { voice ->
                 voice.locale.language == "en" && 
-                (voice.name.contains("sfg", ignoreCase = true) || voice.name.contains("v", ignoreCase = true) || voice.name.contains("5"))
+                (voice.name.contains("v", ignoreCase = true) || 
+                 voice.name.contains("sfg", ignoreCase = true) || 
+                 voice.name.contains("5"))
             } ?: ttsEngine.voices?.find { it.locale.language == "en" }
 
             englishVoice?.let { ttsEngine.voice = it }
@@ -1396,6 +1407,18 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         }
     }
 
+    private fun promptInstallGoogleTTS() {
+        try {
+            val intent = Intent(Intent.ACTION_VIEW, android.net.Uri.parse("market://details?id=com.google.android.tts"))
+            intent.flags = Intent.FLAG_ACTIVITY_NEW_TASK
+            startActivity(intent)
+        } catch (e: Exception) {
+            val intent = Intent(Intent.ACTION_VIEW, android.net.Uri.parse("https://play.google.com/store/apps/details?id=com.google.android.tts"))
+            intent.flags = Intent.FLAG_ACTIVITY_NEW_TASK
+            startActivity(intent)
+        }
+    }
+
     private fun speakVerse(verse: BibleVerse) {
         if (!isTtsReady || tts == null) return
 
@@ -1426,9 +1449,10 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     override fun onInit(status: Int) {
         if (status == TextToSpeech.SUCCESS) {
             isTtsReady = true
+            configureTTSVoiceForCurrentLanguage()
         }
     }
-
+    
     override fun onDestroy() {
         tts?.stop(); tts?.shutdown()
         super.onDestroy()
