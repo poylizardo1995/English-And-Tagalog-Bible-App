@@ -1237,23 +1237,18 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         tvVerseText.setTextColor(config.textColor)
         tvVerseRef.setTextColor(config.refColor)
 
-        btnSettings.text = "⚙️ Settings"
-        btnSettings.setTextColor(config.accentColor)
-        btnSettings.strokeColor = ColorStateList.valueOf(config.accentColor)
-        btnSettings.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
-
-        // Make btnRefresh (Random) and btnSearch uniform with all other pill buttons and apply theme accent highlights
+        // Primary Filled Accent Buttons (New Random Bible Verse & Search Bible)
         val primaryHighlightButtons = listOf(btnRefresh, btnSearch)
         for (btn in primaryHighlightButtons) {
-            btn.setTextColor(config.accentColor)
+            btn.backgroundTintList = ColorStateList.valueOf(config.primaryButtonTint)
+            btn.setTextColor(config.primaryButtonTextColor)
             if (btn is MaterialButton) {
-                btn.strokeColor = ColorStateList.valueOf(config.accentColor)
-                btn.strokeWidth = 3
+                btn.strokeColor = ColorStateList.valueOf(config.primaryButtonTint)
             }
-            btn.backgroundTintList = ColorStateList.valueOf(Color.TRANSPARENT)
         }
 
-        val allUtilityButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout, btnSettings, btnSelectManual)
+        // Secondary Outlined Utility Buttons
+        val allUtilityButtons = listOf(btnCopy, btnShare, btnSpeak, btnSelectManual, btnPrev, btnNext, btnAutoPlay, btnAbout, btnSettings)
         for (btn in allUtilityButtons) {
             btn.setTextColor(config.accentColor)
             btn.strokeColor = ColorStateList.valueOf(config.accentColor)
@@ -1262,7 +1257,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
         updateLanguageToggleUI(BibleRepository.currentTranslation)
     }
-
+    
     private fun updateLanguageToggleUI(translation: BibleTranslation) {
         val isEnglishActive = translation.languageGroup == "English"
         btnEnglish.text = if (isEnglishActive) translation.displayName.uppercase() + " ▾" else "ENGLISH ▾"
