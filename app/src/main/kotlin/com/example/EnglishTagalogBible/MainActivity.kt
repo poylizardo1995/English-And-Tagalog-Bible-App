@@ -206,13 +206,13 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
         btnPrev.setOnClickListener {
             currentVerse?.let { verse ->
-                val prevVerse = BibleRepository.getPreviousVerse(verse, this) 
+                val targetVerse = BibleRepository.getPreviousVerse(verse, this) 
                     ?: BibleRepository.getPreviousChapterLastVerse(verse, this)
 
-                if (prevVerse != null) {
-                    displayVerse(prevVerse)
+                if (targetVerse != null) {
+                    displayVerse(targetVerse)
                     if (isAutoPlaying) {
-                        speakVerse(prevVerse)
+                        speakVerse(targetVerse)
                     } else {
                         tts?.stop()
                     }
@@ -224,13 +224,13 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
         btnNext.setOnClickListener {
             currentVerse?.let { verse ->
-                val nextVerse = BibleRepository.getNextVerse(verse, this) 
+                val targetVerse = BibleRepository.getNextVerse(verse, this) 
                     ?: BibleRepository.getNextChapterFirstVerse(verse, this)
 
-                if (nextVerse != null) {
-                    displayVerse(nextVerse)
+                if (targetVerse != null) {
+                    displayVerse(targetVerse)
                     if (isAutoPlaying) {
-                        speakVerse(nextVerse)
+                        speakVerse(targetVerse)
                     } else {
                         tts?.stop()
                     }
@@ -1209,7 +1209,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
         lifecycleScope.launch(Dispatchers.IO) {
             BibleRepository.setTranslation(this@MainActivity, target)
-            BibleRepository.loadVerses(this@MainActivity, target)
+            BibleRepository.loadVerses(this@MainActivity, target, forceReload = true)
 
             withContext(Dispatchers.Main) {
                 if (currentRef != null) {
@@ -1243,7 +1243,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                         }
                     } else {
                         BibleRepository.setTranslation(this@MainActivity, previousTranslation)
-                        BibleRepository.loadVerses(this@MainActivity, previousTranslation)
+                        BibleRepository.loadVerses(this@MainActivity, previousTranslation, forceReload = true)
                         updateLanguageToggleUI(previousTranslation)
                         if (currentVerseObj != null) {
                             displayVerse(currentVerseObj)
