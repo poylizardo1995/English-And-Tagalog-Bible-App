@@ -235,8 +235,18 @@ object BibleRepository {
     }
 
     fun setTranslation(context: Context, translation: BibleTranslation) {
-        isLoaded = false
-        loadVerses(context, translation)
+    val prefs = context.getSharedPreferences("BibleAppPrefs", Context.MODE_PRIVATE)
+    prefs.edit().putString("last_translation_code", translation.name).apply()
+    }
+    
+    fun getSavedTranslation(context: Context): BibleTranslation {
+        val prefs = context.getSharedPreferences("BibleAppPrefs", Context.MODE_PRIVATE)
+        val savedName = prefs.getString("last_translation_code", BibleTranslation.KJV.name)
+        return try {
+            BibleTranslation.valueOf(savedName ?: BibleTranslation.KJV.name)
+        } catch (e: Exception) {
+            BibleTranslation.KJV
+        }
     }
 
     fun getRandomVerse(context: Context): BibleVerse {
