@@ -944,45 +944,171 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         }
     }
 
-    private fun showSearchResultsDialog(query: String, results: List<BibleVerse>, targetTranslation: BibleTranslation) {
-        val isDark = currentTheme != ThemeMode.SEPIA
-        val textColor = if (isDark) Color.parseColor("#FFFFFF") else Color.parseColor("#2D241E")
-        val accentColor = getThemeConfig(currentTheme).accentColor
+    private fun showSearchResultsDialog(
+    query: String,
+    allResults: List<BibleVerse>,
+    targetTranslation: BibleTranslation,
+    initialPage: Int = 0
+) {
+    val itemsPerPage = 20
+    var currentPage = initialPage
+    val totalPages = (allResults.size + itemsPerPage - 1) / itemsPerPage
 
-        val adapter = object : android.widget.ArrayAdapter<BibleVerse>(this, android.R.layout.simple_list_item_1, results) {
-            override fun getView(position: Int, convertView: android.view.View?, parent: ViewGroup): android.view.View {
-                val view = super.getView(position, convertView, parent)
-                val verse = getItem(position)
-                (view as? TextView)?.apply {
-                    if (verse != null) {
-                        val fullText = "${verse.reference}: ${verse.text}"
-                        val spannableString = SpannableString(fullText)
-                        val lowercaseFull = fullText.lowercase()
-                        val startIndex = lowercaseFull.indexOf(query.lowercase())
-                        if (startIndex != -1) {
-                            val endIndex = startIndex + query.length
-                            spannableString.setSpan(StyleSpan(Typeface.BOLD), startIndex, endIndex, Spanned.SPAN_EXCLUSIVE_EXCLUSIVE)
-                            spannableString.setSpan(ForegroundColorSpan(accentColor), startIndex, endIndex, Spanned.SPAN_EXCLUSIVE_EXCLUSIVE)
+    val isDark = currentTheme != ThemeMode.SEPIA
+    val textColor = if (isDark) Color.parseColor("#FFFFFF") else Color.parseColor("#2D241E")
+    val accentColor = getThemeConfig(currentTheme).accentColor
+    val secondaryTextColor = if (isDark) Color.parseColor("#B0BEC5") else Color.parseColor("#795548")
+
+    // Main layout container
+    val rootContainer = LinearLayout(this).apply {
+        orientation = LinearLayout.VERTICAL
+        setPadding(24, 16, 24, 16)
+    }
+
+    // AI-Style Insight / Summary Card at the top
+    val insightCard = TextView(this).apply {
+        text = "✨ AI Insight: \"$query\" appears in ${allResults.size} verses across ${targetTranslation.displayName}."
+        setTextColor(accentColor)
+        textSize = 13f
+        typeface = Typeface.create(Typeface.DEFAULT, Typeface.BOLD)
+        gravity = Gravity.CENTER
+        setPadding(16, 12, 16, 16)
+        setBackgroundColor(if (isDark) Color.parseColor("#1E293B") else Color.parseColor("#F5F0EB"))
+    }
+
+    // ListView for displaying current page verses
+    val listView = android.widget.ListView(this).apply {
+        layoutParams = LinearLayout.LayoutParams(
+            ViewGroup.LayoutParams.MATCH_PARENT,
+            0,
+            1.0f
+        ).apply {
+            topMargin = 12
+            bottomMargin = 12
+        }
+        divider = null
+    }
+
+    // Function to slice results for the active page
+    fun getPageItems(page: Int): List<BibleVerse> {
+        val startIndex = page * itemsPerPage
+        val endIndex = minOf(startIndex + itemsPerPage, allResults.size)
+        return allResults.subList(startIndex, endIndex)
+    }
+
+    fun updateAdapter(page: Int) {
+        val pageVerses = getPageItems(page)
+        val adapter = object : android.widget.ArrayAdapter<BibleVerse>(
+            this,
+            android.R.layout.simple_list_item_1,
+            pageVerses
+        ) {
+                override fun getView(position: Int, convertView: android.view.View?, parent: ViewGroup): android.view.View {
+                    val view = super.getView(position, convertView, parent)
+                    val verse = getItem(position)
+                    (view as? TextView)?.apply {
+                        if (verse != null) {
+                            val fullText = "${verse.reference}: ${verse.text}"
+                            val spannableString = SpannableString(fullText)
+                            val lowercaseFull = fullText.lowercase()
+                            val startIndex = lowercaseFull.indexOf(query.lowercase())
+                            if (startIndex != -1) {
+                                val endIndex = startIndex + query.length
+                                spannableString.setSpan(StyleSpan(Typeface.BOLD), startIndex, endIndex, Spanned.SPAN_EXCLUSIVE_EXCLUSIVE)
+                                spannableString.setSpan(ForegroundColorSpan(accentColor), startIndex, endIndex, Spanned.SPAN_EXCLUSIVE_EXCLUSIVE)
+                            }
+                            text = spannableString
                         }
-                        text = spannableString
+                        this.setTextColor(textColor)
+                        this.gravity = Gravity.CENTER
+                        this.textAlignment = View.TEXT_ALIGNMENT_CENTER
+                        this.setPadding(12, 24, 12, 24)
                     }
-                    this.setTextColor(textColor)
-                    this.gravity = android.view.Gravity.CENTER
-                    this.textAlignment = android.view.View.TEXT_ALIGNMENT_CENTER
-                    this.setPadding(0, 28, 0, 28)
+                    return view
                 }
-                return view
+            }
+            listView.adapter = adapter
+        }
+    
+        updateAdapter(currentPage)
+    
+        // Bottom Pagination Controls Container (< 1 2 3 4 >)
+        val paginationLayout = LinearLayout(this).apply {
+            orientation = LinearLayout.HORIZONTAL
+            gravity = Gravity.CENTER
+            setPadding(0, 8, 0, 4)
+        }
+    
+        val btnPrevPage = Button(this).apply {
+            text = "‹"
+            textSize = 20f
+            setTextColor(accentColor)
+            setBackgroundColor(Color.TRANSPARENT)
+            isEnabled = currentPage > 0
+        }
+    
+        val pageIndicatorText = TextView(this).apply {
+            text = "Page ${currentPage + 1} of $totalPages"
+            setTextColor(secondaryTextColor)
+            textSize = 13f
+            setPadding(32, 0, 32, 0)
+            gravity = Gravity.CENTER
+        }
+    
+        val btnNextPage = Button(this).apply {
+            text = "›"
+            textSize = 20f
+            setTextColor(accentColor)
+            setBackgroundColor(Color.TRANSPARENT)
+            isEnabled = currentPage < totalPages - 1
+        }
+    
+        btnPrevPage.setOnClickListener {
+            if (currentPage > 0) {
+                currentPage--
+                updateAdapter(currentPage)
+                pageIndicatorText.text = "Page ${currentPage + 1} of $totalPages"
+                btnPrevPage.isEnabled = currentPage > 0
+                btnNextPage.isEnabled = currentPage < totalPages - 1
+                listView.setSelection(0)
             }
         }
-
-        val dialog = AlertDialog.Builder(this)
-            .setTitle("Results (${results.size}) - ${targetTranslation.displayName}")
-            .setAdapter(adapter) { _, which ->
-                BibleRepository.setTranslation(this, targetTranslation)
-                updateLanguageToggleUI(targetTranslation)
-                displayVerse(results[which])
+    
+        btnNextPage.setOnClickListener {
+            if (currentPage < totalPages - 1) {
+                currentPage++
+                updateAdapter(currentPage)
+                pageIndicatorText.text = "Page ${currentPage + 1} of $totalPages"
+                btnPrevPage.isEnabled = currentPage > 0
+                btnNextPage.isEnabled = currentPage < totalPages - 1
+                listView.setSelection(0)
             }
+        }
+    
+        paginationLayout.addView(btnPrevPage)
+        paginationLayout.addView(pageIndicatorText)
+        paginationLayout.addView(btnNextPage)
+    
+        rootContainer.addView(insightCard)
+        rootContainer.addView(listView)
+        rootContainer.addView(paginationLayout)
+    
+        var dialog: AlertDialog? = null
+    
+        listView.setOnItemClickListener { _, _, position, _ ->
+            val selectedVerse = getPageItems(currentPage)[position]
+            BibleRepository.setTranslation(this, targetTranslation)
+            updateLanguageToggleUI(targetTranslation)
+            displayVerse(selectedVerse)
+            dialog?.dismiss()
+        }
+    
+        dialog = AlertDialog.Builder(this)
+            .setTitle("Search Results - ${targetTranslation.displayName}")
+            .setView(rootContainer)
+            .setNegativeButton("Close", null)
             .create()
+    
         applyThemedDialogStyle(dialog)
     }
 
