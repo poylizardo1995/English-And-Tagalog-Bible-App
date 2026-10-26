@@ -36,15 +36,12 @@ import androidx.core.content.FileProvider
 import androidx.work.ExistingPeriodicWorkPolicy
 import androidx.work.PeriodicWorkRequestBuilder
 import androidx.work.WorkManager
-import androidx.work.OneTimeWorkRequestBuilder
-import androidx.work.ExistingWorkPolicy
 import com.google.android.material.button.MaterialButton
 import com.google.android.material.card.MaterialCardView
 import java.io.File
 import java.io.FileOutputStream
 import java.util.Locale
 import java.util.concurrent.TimeUnit
-import java.util.Calendar
 import androidx.lifecycle.lifecycleScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
@@ -169,12 +166,14 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val incomingText = intent.getStringExtra("verse_text")
         val incomingRef = intent.getStringExtra("verse_ref")
 
+        // Apply theme immediately to avoid any white screen flash
+        applyTheme()
+
         lifecycleScope.launch(Dispatchers.IO) {
             val savedTranslation = BibleRepository.getSavedTranslation(this@MainActivity)
             BibleRepository.loadVerses(this@MainActivity, savedTranslation)
 
             withContext(Dispatchers.Main) {
-                applyTheme()
                 updateLanguageToggleUI(savedTranslation)
 
                 if (incomingText != null && incomingRef != null) {
@@ -206,13 +205,13 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
         btnPrev.setOnClickListener {
             currentVerse?.let { verse ->
-                val targetVerse = BibleRepository.getPreviousVerse(verse, this) 
+                val prevVerse = BibleRepository.getPreviousVerse(verse, this) 
                     ?: BibleRepository.getPreviousChapterLastVerse(verse, this)
 
-                if (targetVerse != null) {
-                    displayVerse(targetVerse)
+                if (prevVerse != null) {
+                    displayVerse(prevVerse)
                     if (isAutoPlaying) {
-                        speakVerse(targetVerse)
+                        speakVerse(prevVerse)
                     } else {
                         tts?.stop()
                     }
@@ -224,13 +223,13 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
         btnNext.setOnClickListener {
             currentVerse?.let { verse ->
-                val targetVerse = BibleRepository.getNextVerse(verse, this) 
+                val nextVerse = BibleRepository.getNextVerse(verse, this) 
                     ?: BibleRepository.getNextChapterFirstVerse(verse, this)
 
-                if (targetVerse != null) {
-                    displayVerse(targetVerse)
+                if (nextVerse != null) {
+                    displayVerse(nextVerse)
                     if (isAutoPlaying) {
-                        speakVerse(targetVerse)
+                        speakVerse(nextVerse)
                     } else {
                         tts?.stop()
                     }
