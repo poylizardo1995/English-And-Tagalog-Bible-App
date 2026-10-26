@@ -29,7 +29,6 @@ class BiblicalAnimationBackgroundView @JvmOverloads constructor(
     private var baseColor = Color.argb(180, 110, 71, 44)
 
     init {
-        // Smooth continuous infinite loop cycle (20 seconds for a calm, meditative pace)
         ValueAnimator.ofFloat(0f, 1f).apply {
             duration = 20000 
             repeatCount = ValueAnimator.INFINITE
@@ -64,22 +63,18 @@ class BiblicalAnimationBackgroundView @JvmOverloads constructor(
         val centerX = widthF * 0.5f
         val centerY = heightF * 0.22f
 
-        // Gentle breathing pulse effect based on progress
         val pulse = 1f + 0.08f * kotlin.math.sin(animProgress * Math.PI * 2).toFloat()
         canvas.save()
         canvas.scale(pulse, pulse, centerX, centerY)
 
-        // Phase 1: God the Father (Radiant Crown / All-Seeing Light Symbol)
         if (animProgress < 0.33f) {
             val alphaProgress = (animProgress / 0.33f)
             drawTrinitySymbol(canvas, centerX, centerY, "FATHER", alphaProgress)
         } 
-        // Phase 2: God the Son (The Cross & Lamb / Sacrificial Love Symbol)
         else if (animProgress < 0.66f) {
             val alphaProgress = ((animProgress - 0.33f) / 0.33f)
             drawTrinitySymbol(canvas, centerX, centerY, "SON", alphaProgress)
         } 
-        // Phase 3: God the Holy Spirit (The Descending Dove / Flame Symbol)
         else {
             val alphaProgress = ((animProgress - 0.66f) / 0.34f)
             drawTrinitySymbol(canvas, centerX, centerY, "SPIRIT", alphaProgress)
@@ -89,7 +84,6 @@ class BiblicalAnimationBackgroundView @JvmOverloads constructor(
     }
 
     private fun drawTrinitySymbol(canvas: Canvas, x: Float, y: Float, symbolType: String, progress: Float) {
-        // Smooth fade-in and fade-out transition clamping
         val fadeAlpha = when {
             progress < 0.2f -> progress / 0.2f
             progress > 0.8f -> (1.0f - progress) / 0.2f
@@ -102,7 +96,6 @@ class BiblicalAnimationBackgroundView @JvmOverloads constructor(
 
         when (symbolType) {
             "FATHER" -> {
-                // Symbol: Radiant Heavenly Crown / Tri-fold Light Rays
                 canvas.drawCircle(x, y, 12f, paint)
                 strokePaint.strokeWidth = 3f
                 for (i in 0..5) {
@@ -115,21 +108,18 @@ class BiblicalAnimationBackgroundView @JvmOverloads constructor(
                 }
             }
             "SON" -> {
-                // Symbol: Minimalist Cross with Grace Beam
                 canvas.drawRect(x - 6f, y - 45f, x + 6f, y + 45f, paint)
                 canvas.drawRect(x - 30f, y - 18f, x + 30f, y - 8f, paint)
             }
             "SPIRIT" -> {
-                // Symbol: Descending Dove / Flame Silhouette
-                val dovePath = Path().apply {
-                    moveTo(x, y - 35f)
-                    quadraticTo(x - 35f, y - 15f, x - 45f, y + 5f)
-                    quadraticTo(x - 20f, y - 5f, x, y + 25f)
-                    quadraticTo(x + 20f, y - 5f, x + 45f, y + 5f)
-                    quadraticTo(x + 35f, y - 15f, x, y - 35f)
+                // Using quadTo for Android Canvas Path compatibility
+                val flamePath = Path().apply {
+                    moveTo(x, y + 30f)
+                    quadTo(x - 30f, y, x, y - 45f)
+                    quadTo(x + 30f, y, x, y + 30f)
                     close()
                 }
-                canvas.drawPath(dovePath, paint)
+                canvas.drawPath(flamePath, paint)
             }
         }
     }
