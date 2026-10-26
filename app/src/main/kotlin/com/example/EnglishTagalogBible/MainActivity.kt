@@ -560,9 +560,22 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
     private fun showSettingsDialog() {
         val prefs = getSharedPreferences(PREFS_NAME, Context.MODE_PRIVATE)
-        val isNotificationsEnabled = prefs.getBoolean("key_notifications_enabled", true)
-        val notificationToggleLabel = if (isNotificationsEnabled) "🔔 Daily Notifications: ON" else "🔕 Daily Notifications: OFF"
-
+        
+        // Check actual OS-level notification status
+        val isSystemNotificationEnabled = androidx.core.app.NotificationManagerCompat.from(this).areNotificationsEnabled()
+        val isPrefEnabled = prefs.getBoolean("key_notifications_enabled", true)
+        
+        // Effective status requires both app preference and system permission to be true
+        val isEffectivelyOn = isSystemNotificationEnabled && isPrefEnabled
+        
+        val notificationToggleLabel = if (isEffectivelyOn) {
+            "🔔 Daily Notifications: ON"
+        } else if (!isSystemNotificationEnabled) {
+            "🔕 Daily Notifications: OFF (System Blocked)"
+        } else {
+            "🔕 Daily Notifications: OFF"
+        }
+    
         val options = arrayOf(
             "🎨 Change Reading Theme",
             "🔊 Text-to-Speech Settings (Google TTS)",
@@ -570,7 +583,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             "🚪 Exit App",
             "Close"
         )
-
+    
         var dialog: AlertDialog? = null
         dialog = AlertDialog.Builder(this)
             .setTitle("Settings")
@@ -579,18 +592,36 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                     0 -> showThemeSelectionDialog()
                     1 -> openSystemTTSSettingsWithIntro()
                     2 -> {
-                        val newState = !isNotificationsEnabled
-                        prefs.edit().putBoolean("key_notifications_enabled", newState).apply()
-                        
-                        val workManager = WorkManager.getInstance(this)
-                        if (newState) {
-                            scheduleMultipleDailyNotifications()
-                            showCenteredToast("Daily notifications enabled.")
+                        if (!isSystemNotificationEnabled) {
+                            // If blocked by Android system settings, open OS notification settings directly
+                            showCenteredToast("Please enable notifications for the app in system settings.")
+                            try {
+                                val intent = Intent().apply {
+                                    action = android.provider.Settings.ACTION_APP_NOTIFICATION_SETTINGS
+                                    putExtra(android.provider.Settings.EXTRA_APP_PACKAGE, packageName)
+                                }
+                                startActivity(intent)
+                            } catch (e: Exception) {
+                                val intent = Intent(android.provider.Settings.ACTION_APPLICATION_DETAILS_SETTINGS).apply {
+                                    data = android.net.Uri.parse("package:$packageName")
+                                }
+                                startActivity(intent)
+                            }
                         } else {
-                            workManager.cancelAllWorkByTag("BibleNotificationSlot")
-                            val manager = getSystemService(Context.NOTIFICATION_SERVICE) as NotificationManager
-                            manager.cancel(1001)
-                            showCenteredToast("Daily notifications disabled.")
+                            // Toggle app preference normally if system allows it
+                            val newState = !isPrefEnabled
+                            prefs.edit().putBoolean("key_notifications_enabled", newState).apply()
+                            
+                            val workManager = WorkManager.getInstance(this)
+                            if (newState) {
+                                scheduleMultipleDailyNotifications()
+                                showCenteredToast("Daily notifications enabled.")
+                            } else {
+                                workManager.cancelAllWorkByTag("BibleNotificationSlot")
+                                val manager = getSystemService(Context.NOTIFICATION_SERVICE) as NotificationManager
+                                manager.cancel(1001)
+                                showCenteredToast("Daily notifications disabled.")
+                            }
                         }
                         dialog?.dismiss()
                     }
@@ -601,7 +632,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             .create()
     
         applyThemedDialogStyle(dialog)
-    }
+    }    
     
     private fun showThemeSelectionDialog() {
         val themes = ThemeMode.values()
