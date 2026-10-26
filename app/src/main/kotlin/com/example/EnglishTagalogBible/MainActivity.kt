@@ -380,8 +380,17 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
 
     private fun scheduleDailyVerseNotification() {
+        val prefs = getSharedPreferences(PREFS_NAME, Context.MODE_PRIVATE)
+        val isPrefEnabled = prefs.getBoolean("key_notifications_enabled", true)
+        val isSystemNotificationEnabled = androidx.core.app.NotificationManagerCompat.from(this).areNotificationsEnabled()    
+        val workManager = WorkManager.getInstance(this)
+        if (!isPrefEnabled || !isSystemNotificationEnabled) {
+            workManager.cancelUniqueWork("DailyVerseWork")
+            workManager.cancelAllWorkByTag("BibleNotificationSlot")
+            return
+        }    
         val dailyWorkRequest = PeriodicWorkRequestBuilder<DailyVerseWorker>(24, TimeUnit.HOURS).build()
-        WorkManager.getInstance(this).enqueueUniquePeriodicWork("DailyVerseWork", ExistingPeriodicWorkPolicy.KEEP, dailyWorkRequest)
+        workManager.enqueueUniquePeriodicWork("DailyVerseWork", ExistingPeriodicWorkPolicy.KEEP, dailyWorkRequest)
     }
 
     override fun onSaveInstanceState(outState: Bundle) {
@@ -588,7 +597,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         } else if (!isSystemNotificationEnabled) {
             "🔕 Daily Notifications: OFF (System Blocked)"
         } else {
-            "🔕 Daily Notifications: OFF"
+            "🔕 Daily Notifications: OFF"           
         }
     
         val options = arrayOf(
@@ -632,6 +641,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                                 scheduleMultipleDailyNotifications()
                                 showCenteredToast("Daily notifications enabled.")
                             } else {
+                                workManager.cancelUniqueWork("DailyVerseWork")
                                 workManager.cancelAllWorkByTag("BibleNotificationSlot")
                                 val manager = getSystemService(Context.NOTIFICATION_SERVICE) as NotificationManager
                                 manager.cancel(1001)
