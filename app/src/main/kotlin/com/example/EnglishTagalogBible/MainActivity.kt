@@ -110,6 +110,23 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         private const val PREFS_NAME = "BibleAppPrefs"
         private const val KEY_SAVED_THEME = "saved_theme_mode"
         private const val KEY_HAS_SEEN_WELCOME = "key_has_seen_welcome_v14"
+        
+        private val crossLanguageReverseMap = mapOf(
+            "exodo" to "Exodus", "levitico" to "Leviticus", "mga bilang" to "Numbers",
+            "deuteronomio" to "Deuteronomy", "josue" to "Joshua", "mga hukom" to "Judges",
+            "mga hari" to "Kings", "cronica" to "Chronicles", "nehemias" to "Nehemiah",
+            "ester" to "Esther", "mga awit" to "Psalm", "mga kawikaan" to "Proverbs",
+            "isaias" to "Isaiah", "jeremias" to "Jeremiah", "mga panaghoy" to "Lamentations",
+            "oseas" to "Hosea", "obadias" to "Obadiah", "jonas" to "Jonah",
+            "mikas" to "Micah", "habacuc" to "Habakkuk", "zefanias" to "Zephaniah",
+            "hagai" to "Haggai", "zacarias" to "Zechariah", "malakias" to "Malachi",
+            "mateo" to "Matthew", "marcos" to "Mark", "lucas" to "Luke", "juan" to "John",
+            "mga gawa" to "Acts", "roma" to "Romans", "corinto" to "Corinthians",
+            "galacia" to "Galatians", "efeso" to "Ephesians", "filipos" to "Philippians",
+            "colosas" to "Colossians", "tesalonica" to "Thessalonica", "timoteo" to "Timothy",
+            "tito" to "Titus", "filemon" to "Philemon", "hebrews" to "Hebrews",
+            "santiago" to "James", "pedro" to "Peter", "judas" to "Jude", "pahayag" to "Revelation"
+        )
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -152,7 +169,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val incomingText = intent.getStringExtra("verse_text")
         val incomingRef = intent.getStringExtra("verse_ref")
 
-        // Load saved translation and verses safely in the background thread to prevent UI freezing
         lifecycleScope.launch(Dispatchers.IO) {
             val savedTranslation = BibleRepository.getSavedTranslation(this@MainActivity)
             BibleRepository.loadVerses(this@MainActivity, savedTranslation)
@@ -1181,9 +1197,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
 
     private fun switchToTranslation(target: BibleTranslation) {
-        val currentRef = currentVerse?.reference?.substringBefore(" (")?.trim()
+        val currentVerseObj = currentVerse
+        val currentRef = currentVerseObj?.reference?.substringBefore(" (")?.trim()
         val previousTranslation = BibleRepository.currentTranslation
-        val previousVerse = currentVerse
 
         lifecycleScope.launch(Dispatchers.IO) {
             BibleRepository.setTranslation(this@MainActivity, target)
@@ -1191,7 +1207,26 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
             withContext(Dispatchers.Main) {
                 if (currentRef != null) {
-                    val translatedVerse = BibleRepository.getVerseByBookChapterAndVerse(currentRef, this@MainActivity)
+                    var translatedVerse = BibleRepository.getVerseByBookChapterAndVerse(currentRef, this@MainActivity)
+                    
+                    if (translatedVerse == null && currentVerseObj != null) {
+                        val cleanRef = currentVerseObj.reference.substringBefore(" (").trim()
+                        val colonIdx = cleanRef.lastIndexOf(':')
+                        if (colonIdx != -1) {
+                            val bookAndChapter = cleanRef.substring(0, colonIdx).trim()
+                            val verseNum = cleanRef.substring(colonIdx)
+                            val lastSpace = bookAndChapter.lastIndexOf(' ')
+                            if (lastSpace != -1) {
+                                val bookPart = bookAndChapter.substring(0, lastSpace).trim()
+                                val chapterPart = bookAndChapter.substring(lastSpace + 1).trim()
+                                
+                                val englishBookName = crossLanguageReverseMap[bookPart.lowercase()] ?: bookPart
+                                val mappedRef = "$englishBookName $chapterPart$verseNum"
+                                translatedVerse = BibleRepository.getVerseByBookChapterAndVerse(mappedRef, this@MainActivity)
+                            }
+                        }
+                    }
+
                     if (translatedVerse != null) {
                         updateLanguageToggleUI(target)
                         displayVerse(translatedVerse)
@@ -1204,9 +1239,8 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                         BibleRepository.setTranslation(this@MainActivity, previousTranslation)
                         BibleRepository.loadVerses(this@MainActivity, previousTranslation)
                         updateLanguageToggleUI(previousTranslation)
-                        if (previousVerse != null) {
-                            currentVerse = previousVerse
-                            displayVerse(previousVerse)
+                        if (currentVerseObj != null) {
+                            displayVerse(currentVerseObj)
                         }
                         configureTTSVoiceForCurrentLanguage()
                         showCenteredToast("${target.displayName} (${target.fullTranslationName}) does not contain this verse.")
