@@ -1433,10 +1433,30 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             rootLayout.setBackgroundColor(config.backgroundColor)
         }
 
-        verseCard.backgroundTintList = ColorStateList.valueOf(config.cardBgColor)
-        verseCard.setCardBackgroundColor(ColorStateList.valueOf(config.cardBgColor))
+        // Give verseCard a semi-transparent background so the background animation shows through
+        val isDark = currentTheme != ThemeMode.SEPIA
+        val cardAlphaColor = if (!isDark) {
+            Color.parseColor("#E8FFFFFF") // Semi-transparent white for light/sepia
+        } else {
+            when (currentTheme) {
+                ThemeMode.CHARCOAL -> Color.parseColor("#D91E1E1E")
+                ThemeMode.NAVY -> Color.parseColor("#D9121826")
+                ThemeMode.OLIVE -> Color.parseColor("#D91A211C")
+                ThemeMode.SUNSET -> Color.parseColor("#D92D1A12")
+                else -> Color.parseColor("#D91E1E1E")
+            }
+        }
+
+        verseCard.backgroundTintList = ColorStateList.valueOf(cardAlphaColor)
+        verseCard.setCardBackgroundColor(ColorStateList.valueOf(cardAlphaColor))
         verseCard.strokeColor = config.cardStrokeColor
         verseCard.cardElevation = if (currentTheme == ThemeMode.SEPIA) 8f else 6f
+
+        // Update the live animated background silhouettes
+        findViewById<BiblicalAnimationBackgroundView>(R.id.animatedBackgroundView)?.updateTheme(
+            accentColor = config.accentColor,
+            isDark = isDark
+        )
 
         tvVerseText.setTextColor(config.textColor)
         tvVerseRef.setTextColor(config.refColor)
@@ -1464,78 +1484,56 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
         updateLanguageToggleUI(BibleRepository.currentTranslation)
     }
-
+    
     private fun updateLanguageToggleUI(translation: BibleTranslation) {
         val isEnglishActive = translation.languageGroup == "English"
         btnEnglish.text = if (isEnglishActive) translation.displayName.uppercase() + " ▾" else "ENGLISH ▾"
         btnTagalog.text = if (!isEnglishActive) translation.displayName.uppercase() + " ▾" else "TAGALOG ▾"
     
         val isDark = currentTheme != ThemeMode.SEPIA
-    
-        if (isDark) {
-            verseCard.backgroundTintList = null
-            verseCard.setCardBackgroundColor(ColorStateList.valueOf(
-                when (currentTheme) {
-                    ThemeMode.CHARCOAL -> Color.parseColor("#1E1E1E")
-                    ThemeMode.NAVY -> Color.parseColor("#121826")
-                    ThemeMode.OLIVE -> Color.parseColor("#1A211C")
-                    ThemeMode.SUNSET -> Color.parseColor("#2D1A12")
-                    else -> Color.parseColor("#1E1E1E")
-                }
-            ))
-            verseCard.strokeColor = getThemeConfig(currentTheme).cardStrokeColor
-    
-            val pillColorHex = when (currentTheme) {
-                ThemeMode.CHARCOAL -> Color.parseColor("#D97706")
-                ThemeMode.NAVY -> Color.parseColor("#3F51B5")
-                ThemeMode.OLIVE -> Color.parseColor("#2E7D32")
-                ThemeMode.SUNSET -> Color.parseColor("#A34828")
-                else -> Color.parseColor("#8D6E63")
-            }
-            val darkPillColor = ColorStateList.valueOf(pillColorHex)
-    
-            btnEnglish.backgroundTintList = null
-            btnEnglish.setBackgroundColor(Color.TRANSPARENT)
-            btnTagalog.backgroundTintList = null
-            btnTagalog.setBackgroundColor(Color.TRANSPARENT)
-    
-            if (isEnglishActive) {
-                btnEnglish.setBackgroundResource(R.drawable.bg_pill_selected)
-                btnEnglish.backgroundTintList = darkPillColor
-                btnEnglish.setTextColor(Color.WHITE)
-                btnTagalog.setTextColor(Color.parseColor("#B0BEC5"))
-            } else {
-                btnTagalog.setBackgroundResource(R.drawable.bg_pill_selected)
-                btnTagalog.backgroundTintList = darkPillColor
-                btnTagalog.setTextColor(Color.WHITE)
-                btnEnglish.setTextColor(Color.parseColor("#B0BEC5"))
-            }
+        val cardAlphaColor = if (!isDark) {
+            Color.parseColor("#E8FFFFFF")
         } else {
-            verseCard.backgroundTintList = ColorStateList.valueOf(Color.parseColor("#FFFFFF"))
-            verseCard.setCardBackgroundColor(ColorStateList.valueOf(Color.parseColor("#FFFFFF")))
-            verseCard.strokeColor = Color.parseColor("#D0C4B2")
-    
-            val dayPillColor = ColorStateList.valueOf(Color.parseColor("#6E472C"))
-    
-            btnEnglish.backgroundTintList = null
-            btnEnglish.setBackgroundColor(Color.TRANSPARENT)
-            btnTagalog.backgroundTintList = null
-            btnTagalog.setBackgroundColor(Color.TRANSPARENT)
-    
-            if (isEnglishActive) {
-                btnEnglish.setBackgroundResource(R.drawable.bg_pill_selected)
-                btnEnglish.backgroundTintList = dayPillColor
-                btnEnglish.setTextColor(Color.WHITE)
-                btnTagalog.setTextColor(Color.parseColor("#4A3B32"))
-            } else {
-                btnTagalog.setBackgroundResource(R.drawable.bg_pill_selected)
-                btnTagalog.backgroundTintList = dayPillColor
-                btnTagalog.setTextColor(Color.WHITE)
-                btnEnglish.setTextColor(Color.parseColor("#4A3B32"))
+            when (currentTheme) {
+                ThemeMode.CHARCOAL -> Color.parseColor("#D91E1E1E")
+                ThemeMode.NAVY -> Color.parseColor("#D9121826")
+                ThemeMode.OLIVE -> Color.parseColor("#D91A211C")
+                ThemeMode.SUNSET -> Color.parseColor("#D92D1A12")
+                else -> Color.parseColor("#D91E1E1E")
             }
         }
-    }
+    
+        verseCard.backgroundTintList = ColorStateList.valueOf(cardAlphaColor)
+        verseCard.setCardBackgroundColor(ColorStateList.valueOf(cardAlphaColor))
+        verseCard.strokeColor = getThemeConfig(currentTheme).cardStrokeColor
 
+        val pillColorHex = when (currentTheme) {
+            ThemeMode.CHARCOAL -> Color.parseColor("#D97706")
+            ThemeMode.NAVY -> Color.parseColor("#3F51B5")
+            ThemeMode.OLIVE -> Color.parseColor("#2E7D32")
+            ThemeMode.SUNSET -> Color.parseColor("#A34828")
+            else -> Color.parseColor("#8D6E63")
+        }
+        val pillColorState = ColorStateList.valueOf(if (isDark) pillColorHex else Color.parseColor("#6E472C"))
+
+        btnEnglish.backgroundTintList = null
+        btnEnglish.setBackgroundColor(Color.TRANSPARENT)
+        btnTagalog.backgroundTintList = null
+        btnTagalog.setBackgroundColor(Color.TRANSPARENT)
+
+        if (isEnglishActive) {
+            btnEnglish.setBackgroundResource(R.drawable.bg_pill_selected)
+            btnEnglish.backgroundTintList = pillColorState
+            btnEnglish.setTextColor(Color.WHITE)
+            btnTagalog.setTextColor(if (isDark) Color.parseColor("#B0BEC5") else Color.parseColor("#4A3B32"))
+        } else {
+            btnTagalog.setBackgroundResource(R.drawable.bg_pill_selected)
+            btnTagalog.backgroundTintList = pillColorState
+            btnTagalog.setTextColor(Color.WHITE)
+            btnEnglish.setTextColor(if (isDark) Color.parseColor("#B0BEC5") else Color.parseColor("#4A3B32"))
+        }
+    }
+    
     private fun promptInstallGoogleTTS() {
         try {
             val intent = Intent(Intent.ACTION_VIEW, android.net.Uri.parse("market://details?id=com.google.android.tts"))
