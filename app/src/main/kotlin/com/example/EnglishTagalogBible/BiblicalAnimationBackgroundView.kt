@@ -29,8 +29,9 @@ class BiblicalAnimationBackgroundView @JvmOverloads constructor(
     private var baseColor = Color.argb(180, 110, 71, 44)
 
     init {
+        // Continuous smooth infinite loop cycle (15 seconds)
         ValueAnimator.ofFloat(0f, 1f).apply {
-            duration = 20000 
+            duration = 15000 
             repeatCount = ValueAnimator.INFINITE
             interpolator = LinearInterpolator()
             addUpdateListener {
@@ -42,7 +43,7 @@ class BiblicalAnimationBackgroundView @JvmOverloads constructor(
     }
 
     fun updateTheme(accentColor: Int, isDark: Boolean) {
-        val alpha = if (isDark) 200 else 160
+        val alpha = if (isDark) 210 else 170
         baseColor = Color.argb(
             alpha,
             Color.red(accentColor),
@@ -54,73 +55,60 @@ class BiblicalAnimationBackgroundView @JvmOverloads constructor(
 
     override fun onDraw(canvas: Canvas) {
         super.onDraw(canvas)
-        paint.color = baseColor
-        strokePaint.color = baseColor
-
+        
         val widthF = width.toFloat()
         val heightF = height.toFloat()
 
         val centerX = widthF * 0.5f
-        val centerY = heightF * 0.22f
+        val centerY = heightF * 0.20f
 
-        val pulse = 1f + 0.08f * kotlin.math.sin(animProgress * Math.PI * 2).toFloat()
+        // Smooth sine-wave breathing scale and vertical float (100% continuous, zero hard resets)
+        val pulse = 1f + 0.06f * kotlin.math.sin(animProgress * Math.PI * 2).toFloat()
+        val floatOffsetY = 12f * kotlin.math.cos(animProgress * Math.PI * 2).toFloat()
+
         canvas.save()
+        canvas.translate(0f, floatOffsetY)
         canvas.scale(pulse, pulse, centerX, centerY)
 
-        if (animProgress < 0.33f) {
-            val alphaProgress = (animProgress / 0.33f)
-            drawTrinitySymbol(canvas, centerX, centerY, "FATHER", alphaProgress)
-        } 
-        else if (animProgress < 0.66f) {
-            val alphaProgress = ((animProgress - 0.33f) / 0.33f)
-            drawTrinitySymbol(canvas, centerX, centerY, "SON", alphaProgress)
-        } 
-        else {
-            val alphaProgress = ((animProgress - 0.66f) / 0.34f)
-            drawTrinitySymbol(canvas, centerX, centerY, "SPIRIT", alphaProgress)
-        }
+        // Draw the Sacred Radiant Cross with Pulsing Light Rays
+        drawRadiantCross(canvas, centerX, centerY, animProgress)
 
         canvas.restore()
     }
 
-    private fun drawTrinitySymbol(canvas: Canvas, x: Float, y: Float, symbolType: String, progress: Float) {
-        val fadeAlpha = when {
-            progress < 0.2f -> progress / 0.2f
-            progress > 0.8f -> (1.0f - progress) / 0.2f
-            else -> 1.0f
-        }
+    private fun drawRadiantCross(canvas: Canvas, x: Float, y: Float, progress: Float) {
+        // Dynamic glow alpha using sine wave for butter-smooth fading
+        val alphaMod = (140.0f + 60.0f * kotlin.math.sin(progress * Math.PI * 4)).toInt()
         
-        val currentAlpha = (Color.alpha(baseColor) * fadeAlpha).toInt()
-        paint.color = Color.argb(currentAlpha, Color.red(baseColor), Color.green(baseColor), Color.blue(baseColor))
+        paint.color = Color.argb(alphaMod, Color.red(baseColor), Color.green(baseColor), Color.blue(baseColor))
         strokePaint.color = paint.color
 
-        when (symbolType) {
-            "FATHER" -> {
-                canvas.drawCircle(x, y, 12f, paint)
-                strokePaint.strokeWidth = 3f
-                for (i in 0..5) {
-                    val angle = i * (Math.PI / 3.0)
-                    val x1 = x + (25f * kotlin.math.cos(angle)).toFloat()
-                    val y1 = y + (25f * kotlin.math.sin(angle)).toFloat()
-                    val x2 = x + (45f * kotlin.math.cos(angle)).toFloat()
-                    val y2 = y + (45f * kotlin.math.sin(angle)).toFloat()
-                    canvas.drawLine(x1, y1, x2, y2, strokePaint)
-                }
-            }
-            "SON" -> {
-                canvas.drawRect(x - 6f, y - 45f, x + 6f, y + 45f, paint)
-                canvas.drawRect(x - 30f, y - 18f, x + 30f, y - 8f, paint)
-            }
-            "SPIRIT" -> {
-                // Using quadTo for Android Canvas Path compatibility
-                val flamePath = Path().apply {
-                    moveTo(x, y + 30f)
-                    quadTo(x - 30f, y, x, y - 45f)
-                    quadTo(x + 30f, y, x, y + 30f)
-                    close()
-                }
-                canvas.drawPath(flamePath, paint)
-            }
+        // 1. Outer Radiating Glory Halo (Circles pulsing gently)
+        val haloRadius = 45f + 10f * kotlin.math.sin(progress * Math.PI * 2).toFloat()
+        val haloPaint = Paint(paint).apply { 
+            style = Paint.Style.STROKE
+            strokeWidth = 2f
+            alpha = alphaMod / 3
         }
+        canvas.drawCircle(x, y, haloRadius, haloPaint)
+
+        // 2. Radiant Light Rays extending outward
+        strokePaint.strokeWidth = 2.5f
+        val rayLength = 35f + 8f * kotlin.math.cos(progress * Math.PI * 2).toFloat()
+        for (i in 0..7) {
+            val angle = i * (Math.PI / 4.0)
+            val x1 = x + (30f * kotlin.math.cos(angle)).toFloat()
+            val y1 = y + (30f * kotlin.math.sin(angle)).toFloat()
+            val x2 = x + ((30f + rayLength) * kotlin.math.cos(angle)).toFloat()
+            val y2 = y + ((30f + rayLength) * kotlin.math.sin(angle)).toFloat()
+            canvas.drawLine(x1, y1, x2, y2, strokePaint)
+        }
+
+        // 3. The Central Cross
+        paint.style = Paint.Style.FILL
+        // Vertical beam
+        canvas.drawRect(x - 6f, y - 50f, x + 6f, y + 50f, paint)
+        // Horizontal beam
+        canvas.drawRect(x - 30f, y - 20f, x + 30f, y - 10f, paint)
     }
 }
