@@ -38,7 +38,8 @@ class BiblicalAnimationBackgroundView @JvmOverloads constructor(
 
     // Dynamically update the silhouette tint based on your active ThemeConfig accent color
     fun updateTheme(accentColor: Int, isDark: Boolean) {
-        val alpha = if (isDark) 35 else 25
+        // Increased alpha so the silhouettes are clearly visible floating in the background
+        val alpha = if (isDark) 90 else 70
         silhouetteColor = Color.argb(
             alpha,
             Color.red(accentColor),
@@ -47,7 +48,7 @@ class BiblicalAnimationBackgroundView @JvmOverloads constructor(
         )
         invalidate()
     }
-
+    
     override fun onDraw(canvas: Canvas) {
         super.onDraw(canvas)
         paint.color = silhouetteColor
