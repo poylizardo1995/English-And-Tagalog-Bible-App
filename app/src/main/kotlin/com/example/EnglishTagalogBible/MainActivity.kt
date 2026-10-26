@@ -1309,7 +1309,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
 
     private fun showBookSelectionDialog() {
-        val allBooksAlphabetical = BibleRepository.getAvailableBooks(this).toTypedArray()
+        val allBooksAlphabetical = BibleRepository.getAllBooksAlphabetical(this).toTypedArray()
         val isTagalog = BibleRepository.currentTranslation.languageGroup == "Tagalog"
 
         val otCategoryTitle = if (isTagalog) "📜 LUMANG TIPAN" else "📜 OLD TESTAMENT"
