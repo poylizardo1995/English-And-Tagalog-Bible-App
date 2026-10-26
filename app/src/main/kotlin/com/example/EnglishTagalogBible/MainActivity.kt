@@ -262,11 +262,11 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                     "App Developed by Poy Lizardo\n" +
                     "Copyright © 2026. All Rights Reserved.\n\n" +
                     "Experience daily inspiration in both English and Tagalog with powerful features:\n\n" +
-                    "• 🔀 **Random Daily Inspiration**: Instantly discover uplifting new verses with a single tap of the randomizer.\n" +
-                    "• 🌐 **Dual-Language & Versions**: Easily toggle between English and Tagalog, with 16+ downloadable public domain translations.\n" +
-                    "• 🔊 **Audio & Auto-Play**: Listen hands-free with single-verse reading or continuous chapter and book playback.\n" +
-                    "• 🔍 **Smart Search & Browsing**: Find specific passages instantly or navigate through Old and New Testaments seamlessly.\n" +
-                    "• 🖼️ **Share & Customize**: Copy verses, export custom image cards, and personalize your reading with 5 gorgeous themes.\n\n" +
+                    "• 🔀 Random Daily Inspiration: Instantly discover uplifting new verses with a single tap of the randomizer.\n" +
+                    "• 🌐 Dual-Language & Versions: Easily toggle between English and Tagalog, with 16+ downloadable public domain translations.\n" +
+                    "• 🔊 Audio & Auto-Play: Listen hands-free with single-verse reading or continuous chapter and book playback.\n" +
+                    "• 🔍 Smart Search & Browsing: Find specific passages instantly or navigate through Old and New Testaments seamlessly.\n" +
+                    "• 🖼️ Share & Customize: Copy verses, export custom image cards, and personalize your reading with 5 gorgeous themes.\n\n" +
                     "Tap 'Get Started' to begin your journey. To God be the glory~"
 
             val dialog = AlertDialog.Builder(this)
