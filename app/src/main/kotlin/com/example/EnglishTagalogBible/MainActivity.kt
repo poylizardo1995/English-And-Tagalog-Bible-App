@@ -115,9 +115,14 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
+
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
+    
+        val currentTranslation = BibleRepository.getSavedTranslation(this)
+        BibleRepository.setTranslation(this, currentTranslation)
+        updateLanguageToggleUI(currentTranslation)
+           
         tvVerseText = findViewById(R.id.tvVerseText)
         tvVerseRef = findViewById(R.id.tvVerseRef)
         btnRefresh = findViewById(R.id.btnRefresh)
@@ -134,7 +139,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         btnAbout = findViewById(R.id.btnAbout)
         verseCard = findViewById(R.id.verseCard)
 
-        val prefs = getSharedPreferences(PREFS_NAME, Context.MODE_PRIVATE)
+        val prefs = getSharedPreferences(PREFS_NAME, Context.MODE_PRIVATE)    
         val savedThemeName = prefs.getString(KEY_SAVED_THEME, ThemeMode.SEPIA.name)
         currentTheme = try {
             ThemeMode.valueOf(savedThemeName ?: ThemeMode.SEPIA.name)
