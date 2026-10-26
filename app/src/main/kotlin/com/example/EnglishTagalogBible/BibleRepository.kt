@@ -136,7 +136,6 @@ object BibleRepository {
             var loadedFromZip = false
             val assetFiles = context.assets.list("")?.toList() ?: emptyList()
 
-            // 1. Try reading directly from asset ZIP file in a SINGLE PASS
             if (assetFiles.any { it.equals(zipAssetName, ignoreCase = true) }) {
                 val actualZipName = assetFiles.first { it.equals(zipAssetName, ignoreCase = true) }
                 try {
@@ -159,7 +158,6 @@ object BibleRepository {
                 }
             }
 
-            // 2. Fallback to individual uncompressed files if zip didn't load (or for downloaded packages)
             if (!loadedFromZip) {
                 val biblesDir = File(context.filesDir, "bibles")
                 val downloadedFiles = if (biblesDir.exists()) {
@@ -283,7 +281,7 @@ object BibleRepository {
         return null
     }
 
-    private fun extractBookName(reference: String): String {
+    fun extractBookName(reference: String): String {
         val cleanRef = reference.substringBefore(" (").trim()
         val colonIndex = cleanRef.lastIndexOf(':')
         if (colonIndex == -1) return cleanRef
@@ -294,7 +292,7 @@ object BibleRepository {
 
     fun getAvailableBooks(context: Context): List<String> {
         loadVerses(context)
-        return verses.map { extractBookName(it.reference) }.distinct().sorted()
+        return verses.map { extractBookName(it.reference) }.distinct()
     }
 
     fun getChaptersForBook(bookName: String, context: Context): List<String> {
@@ -348,5 +346,55 @@ object BibleRepository {
         } else {
             null
         }
+    }
+
+    fun getNextChapterFirstVerse(currentVerse: BibleVerse, context: Context): BibleVerse? {
+        loadVerses(context)
+        val cleanRef = currentVerse.reference.substringBefore(" (").trim()
+        val currentChapter = cleanRef.substringBeforeLast(":")
+        val bookName = extractBookName(currentVerse.reference)
+        val chapters = getChaptersForBook(bookName, context)
+        val chapterIndex = chapters.indexOf(currentChapter)
+        
+        if (chapterIndex != -1 && chapterIndex < chapters.size - 1) {
+            val nextChapter = chapters[chapterIndex + 1]
+            return getVerseObjectsForChapter(nextChapter, context).firstOrNull()
+        } else {
+            val allBooks = getAvailableBooks(context)
+            val bookIndex = allBooks.indexOf(bookName)
+            if (bookIndex != -1 && bookIndex < allBooks.size - 1) {
+                val nextBook = allBooks[bookIndex + 1]
+                val nextChapters = getChaptersForBook(nextBook, context)
+                if (nextChapters.isNotEmpty()) {
+                    return getVerseObjectsForChapter(nextChapters.first(), context).firstOrNull()
+                }
+            }
+        }
+        return null
+    }
+
+    fun getPreviousChapterLastVerse(currentVerse: BibleVerse, context: Context): BibleVerse? {
+        loadVerses(context)
+        val cleanRef = currentVerse.reference.substringBefore(" (").trim()
+        val currentChapter = cleanRef.substringBeforeLast(":")
+        val bookName = extractBookName(currentVerse.reference)
+        val chapters = getChaptersForBook(bookName, context)
+        val chapterIndex = chapters.indexOf(currentChapter)
+        
+        if (chapterIndex > 0) {
+            val prevChapter = chapters[chapterIndex - 1]
+            return getVerseObjectsForChapter(prevChapter, context).lastOrNull()
+        } else {
+            val allBooks = getAvailableBooks(context)
+            val bookIndex = allBooks.indexOf(bookName)
+            if (bookIndex > 0) {
+                val prevBook = allBooks[bookIndex - 1]
+                val prevChapters = getChaptersForBook(prevBook, context)
+                if (prevChapters.isNotEmpty()) {
+                    return getVerseObjectsForChapter(prevChapters.last(), context).lastOrNull()
+                }
+            }
+        }
+        return null
     }
 }
