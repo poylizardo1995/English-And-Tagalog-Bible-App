@@ -4,6 +4,12 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/bg_gradient">
+    
+    <!-- Live Animated Biblical Background Layer -->
+    <com.example.EnglishTagalogBible.BiblicalAnimationBackgroundView
+        android:id="@+id/animatedBackgroundView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
 
     <!-- Verse Card set to match_parent with margins to allow smooth scrolling -->
     <com.google.android.material.card.MaterialCardView
