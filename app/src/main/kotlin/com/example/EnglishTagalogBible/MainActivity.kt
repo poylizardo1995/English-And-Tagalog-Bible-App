@@ -999,34 +999,34 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     fun updateAdapter(page: Int) {
         val pageVerses = getPageItems(page)
         val adapter = object : android.widget.ArrayAdapter<BibleVerse>(
-            this,
-            android.R.layout.simple_list_item_1,
-            pageVerses
-        ) {
-                override fun getView(position: Int, convertView: android.view.View?, parent: ViewGroup): android.view.View {
-                    val view = super.getView(position, convertView, parent)
-                    val verse = getItem(position)
-                    (view as? TextView)?.apply {
-                        if (verse != null) {
-                            val fullText = "${verse.reference}: ${verse.text}"
-                            val spannableString = SpannableString(fullText)
-                            val lowercaseFull = fullText.lowercase()
-                            val startIndex = lowercaseFull.indexOf(query.lowercase())
-                            if (startIndex != -1) {
-                                val endIndex = startIndex + query.length
-                                spannableString.setSpan(StyleSpan(Typeface.BOLD), startIndex, endIndex, Spanned.SPAN_EXCLUSIVE_EXCLUSIVE)
-                                spannableString.setSpan(ForegroundColorSpan(accentColor), startIndex, endIndex, Spanned.SPAN_EXCLUSIVE_EXCLUSIVE)
-                            }
-                            text = spannableString
-                        }
-                        this.setTextColor(textColor)
-                        this.gravity = Gravity.CENTER
-                        this.textAlignment = View.TEXT_ALIGNMENT_CENTER
-                        this.setPadding(12, 24, 12, 24)
+        this,
+        android.R.layout.simple_list_item_1,
+        pageVerses
+    ) {
+        override fun getView(position: Int, convertView: android.view.View?, parent: ViewGroup): android.view.View {
+            val view = super.getView(position, convertView, parent)
+            val verse = getItem(position)
+            (view as? TextView)?.apply {
+                if (verse != null) {
+                    val fullText = "${verse.reference}: ${verse.text}"
+                    val spannableString = SpannableString(fullText)
+                    val lowercaseFull = fullText.lowercase()
+                    val startIndex = lowercaseFull.indexOf(query.lowercase())
+                    if (startIndex != -1) {
+                        val endIndex = startIndex + query.length
+                        spannableString.setSpan(StyleSpan(Typeface.BOLD), startIndex, endIndex, Spanned.SPAN_EXCLUSIVE_EXCLUSIVE)
+                        spannableString.setSpan(ForegroundColorSpan(accentColor), startIndex, endIndex, Spanned.SPAN_EXCLUSIVE_EXCLUSIVE)
                     }
-                    return view
+                    text = spannableString
                 }
+                this.setTextColor(textColor)
+                this.gravity = Gravity.CENTER
+                this.textAlignment = android.view.View.TEXT_ALIGNMENT_CENTER // ⬅️ Fixed with android.view.View prefix
+                this.setPadding(12, 24, 12, 24)
             }
+            return view
+        }
+    }
             listView.adapter = adapter
         }
     
