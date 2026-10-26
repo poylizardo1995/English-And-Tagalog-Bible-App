@@ -14,8 +14,8 @@ enum class BibleTranslation(
 ) {
     AKJV("English", "English (AKJV)", "akjv", false, "American King James Version"),
     ASV("English", "English (ASV)", "asv", false, "American Standard Version (1901)"),
-    BAB("English", "English (BAB)", "bab", false, "Berean Annotated Bible (Early Draft Version)"),
-    BLB("English", "English (BLB)", "blb", false, "Berean Literal Bible (Draft Version)"),
+    BAB("English", "English (BAB)", "bab", false, "Berean Annotated Bible (Early Draft Ver.)"),
+    BLB("English", "English (BLB)", "blb", false, "Berean Literal Bible (Draft Ver.)"),
     BSB("English", "English (BSB)", "bsb", false, "Berean Standard Bible (2020)"),    
     CPDV("English", "English (CPDV)", "cpdv", false, "Catholic Public Domain Version (2009)"),
     DBT("English", "English (DBT)", "dbt", false, "Darby Bible Translation (1890)"),
