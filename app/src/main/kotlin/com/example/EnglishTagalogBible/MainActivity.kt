@@ -556,19 +556,20 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         } catch (e: Exception) {
             false
         }
-
+    
         if (!isTtsPackageInstalled) {
             showTTSSettingsRequiredDialog()
             return
         }
-
+    
         var opened = false
-        val intentsToTry = listOf(
-            Intent("com.google.android.tts.settings.VoiceDataActivity").apply { flags = Intent.FLAG_ACTIVITY_NEW_TASK },
-            Intent("com.android.settings.TTS_SETTINGS").apply { flags = Intent.FLAG_ACTIVITY_NEW_TASK },
-            Intent(Settings.ACTION_ACCESSIBILITY_SETTINGS).apply { flags = Intent.FLAG_ACTIVITY_NEW_TASK }
-        )
 
+        val intentsToTry = listOf(
+            Intent("com.google.android.tts.settings.VoiceDataActivity"),
+            Intent("com.android.settings.TTS_SETTINGS"),
+            Intent(Settings.ACTION_ACCESSIBILITY_SETTINGS)
+        )
+    
         for (intent in intentsToTry) {
             try {
                 startActivity(intent)
@@ -576,7 +577,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 break
             } catch (_: Exception) {}
         }
-
+    
         if (!opened) {
             showCenteredToast("Unable to open Text-to-Speech settings.")
         }
