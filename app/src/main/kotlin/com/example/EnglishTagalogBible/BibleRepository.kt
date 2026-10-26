@@ -53,6 +53,7 @@ data class BibleVerse(
 
 object BibleRepository {
     private val verses = mutableListOf<BibleVerse>()
+    @Volatile
     private var isLoaded = false
     
     var currentTranslation: BibleTranslation = BibleTranslation.KJV
@@ -120,8 +121,9 @@ object BibleRepository {
         "revelation" to "Pahayag", "pahayag" to "Revelation"
     )
 
+    @Synchronized
     fun loadVerses(context: Context, translation: BibleTranslation = currentTranslation) {
-        if (isLoaded && translation == currentTranslation) return
+        if (isLoaded && translation == currentTranslation && verses.isNotEmpty()) return
         
         currentTranslation = translation
         verses.clear()
@@ -185,18 +187,15 @@ object BibleRepository {
             }
 
             if (verses.isEmpty()) {
-                verses.add(BibleVerse(text = "Ang Dios ay ating kanlungan at kalakasang tunay.", reference = "Mga Awit 46:1 (ADB)"))
+                serveFallback()
             }
         } catch (e: Exception) {
             e.printStackTrace()
-            if (verses.isEmpty()) {
-                verses.add(BibleVerse(text = "Ang Dios ay ating kanlungan at kalakasang tunay.", reference = "Mga Awit 46:1 (ADB)"))
-            }
+            serveFallback()
         }
         isLoaded = true
     }
 
-    // Helper function to parse JSON string into BibleVerse items
     private fun parseAndAddVerses(jsonString: String) {
         try {
             val jsonArray = JSONArray(jsonString)
@@ -230,13 +229,18 @@ object BibleRepository {
 
     private fun serveFallback() {
         if (verses.isEmpty()) {
-            verses.add(BibleVerse(text = "The Lord is my shepherd; I shall not want.", reference = "Psalm 23:1 (KJV)"))
+            if (currentTranslation.languageGroup == "Tagalog") {
+                verses.add(BibleVerse(text = "Ang Dios ay ating kanlungan at kalakasang tunay.", reference = "Mga Awit 46:1 (ADB)"))
+            } else {
+                verses.add(BibleVerse(text = "The Lord is my shepherd; I shall not want.", reference = "Psalm 23:1 (KJV)"))
+            }
         }
     }
 
     fun setTranslation(context: Context, translation: BibleTranslation) {
-    val prefs = context.getSharedPreferences("BibleAppPrefs", Context.MODE_PRIVATE)
-    prefs.edit().putString("last_translation_code", translation.name).apply()
+        currentTranslation = translation
+        val prefs = context.getSharedPreferences("BibleAppPrefs", Context.MODE_PRIVATE)
+        prefs.edit().putString("last_translation_code", translation.name).apply()
     }
     
     fun getSavedTranslation(context: Context): BibleTranslation {
@@ -304,7 +308,6 @@ object BibleRepository {
             }
             .distinct()
 
-        // Numerically sort chapters so Genesis 1 comes before Genesis 2 & 10
         return chapters.sortedWith(compareBy { chapterStr ->
             val numStr = chapterStr.substringAfterLast(' ').trim()
             numStr.toIntOrNull() ?: 0
