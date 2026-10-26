@@ -166,15 +166,25 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val incomingText = intent.getStringExtra("verse_text")
         val incomingRef = intent.getStringExtra("verse_ref")
 
-        // Apply theme immediately to avoid any white screen flash
+        // Apply theme immediately to avoid white flash
         applyTheme()
 
         lifecycleScope.launch(Dispatchers.IO) {
-            val savedTranslation = BibleRepository.getSavedTranslation(this@MainActivity)
-            BibleRepository.loadVerses(this@MainActivity, savedTranslation)
+            val savedTranslation = try {
+                BibleRepository.getSavedTranslation(this@MainActivity)
+            } catch (e: Exception) {
+                BibleTranslation.KJV
+            }
+
+            try {
+                BibleRepository.loadVerses(this@MainActivity, savedTranslation)
+            } catch (e: Exception) {
+                BibleRepository.setTranslation(this@MainActivity, BibleTranslation.KJV)
+                BibleRepository.loadVerses(this@MainActivity, BibleTranslation.KJV, forceReload = true)
+            }
 
             withContext(Dispatchers.Main) {
-                updateLanguageToggleUI(savedTranslation)
+                updateLanguageToggleUI(BibleRepository.currentTranslation)
 
                 if (incomingText != null && incomingRef != null) {
                     currentVerse = BibleVerse(text = incomingText, reference = incomingRef)
