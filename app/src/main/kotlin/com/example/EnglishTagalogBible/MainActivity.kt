@@ -20,7 +20,6 @@ import android.view.Gravity
 import android.widget.ProgressBar
 import android.speech.tts.TextToSpeech
 import android.speech.tts.UtteranceProgressListener
-import android.speech.tts.Voice
 import android.text.SpannableString
 import android.text.Spanned
 import android.text.style.StyleSpan
@@ -31,7 +30,6 @@ import android.widget.Button
 import android.widget.TextView
 import android.widget.LinearLayout
 import android.widget.Toast
-import android.app.NotificationManager
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.FileProvider
@@ -115,14 +113,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
-
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     
-        val currentTranslation = BibleRepository.getSavedTranslation(this)
-        BibleRepository.setTranslation(this, currentTranslation)
-        updateLanguageToggleUI(currentTranslation)
-           
         tvVerseText = findViewById(R.id.tvVerseText)
         tvVerseRef = findViewById(R.id.tvVerseRef)
         btnRefresh = findViewById(R.id.btnRefresh)
@@ -159,23 +152,34 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val incomingText = intent.getStringExtra("verse_text")
         val incomingRef = intent.getStringExtra("verse_ref")
 
-        if (incomingText != null && incomingRef != null) {
-            currentVerse = BibleVerse(text = incomingText, reference = incomingRef)
-            tvVerseText.text = currentVerse?.text
-            tvVerseRef.text = "— ${currentVerse?.reference}"
-        } else if (savedInstanceState != null) {
-            val savedText = savedInstanceState.getString(KEY_VERSE_TEXT)
-            val savedRef = savedInstanceState.getString(KEY_VERSE_REF)
-            if (savedText != null && savedRef != null) {
-                val cleanRef = savedRef.removePrefix("— ").trim()
-                currentVerse = BibleVerse(text = savedText, reference = cleanRef)
-                tvVerseText.text = currentVerse?.text
-                tvVerseRef.text = "— ${currentVerse?.reference}"
-            } else {
-                loadInitialVerse()
+        // Load saved translation and verses safely in the background thread to prevent UI freezing
+        lifecycleScope.launch(Dispatchers.IO) {
+            val savedTranslation = BibleRepository.getSavedTranslation(this@MainActivity)
+            BibleRepository.loadVerses(this@MainActivity, savedTranslation)
+
+            withContext(Dispatchers.Main) {
+                applyTheme()
+                updateLanguageToggleUI(savedTranslation)
+
+                if (incomingText != null && incomingRef != null) {
+                    currentVerse = BibleVerse(text = incomingText, reference = incomingRef)
+                    tvVerseText.text = currentVerse?.text
+                    tvVerseRef.text = "— ${currentVerse?.reference}"
+                } else if (savedInstanceState != null) {
+                    val savedText = savedInstanceState.getString(KEY_VERSE_TEXT)
+                    val savedRef = savedInstanceState.getString(KEY_VERSE_REF)
+                    if (savedText != null && savedRef != null) {
+                        val cleanRef = savedRef.removePrefix("— ").trim()
+                        currentVerse = BibleVerse(text = savedText, reference = cleanRef)
+                        tvVerseText.text = currentVerse?.text
+                        tvVerseRef.text = "— ${currentVerse?.reference}"
+                    } else {
+                        loadInitialVerse()
+                    }
+                } else {
+                    loadInitialVerse()
+                }
             }
-        } else {
-            loadInitialVerse()
         }
 
         btnRefresh.setOnClickListener { stopAutoPlay(); loadRandomVerse() }
@@ -250,9 +254,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         LockScreenVerseService.showLockScreenNotification(this)
         scheduleDailyVerseNotification()
 
-        applyTheme()
-        updateLanguageToggleUI(BibleRepository.currentTranslation)
-
         showWelcomeIntroDialog()
     }
 
@@ -295,52 +296,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         }
     }
 
-    private fun scheduleMultipleDailyNotifications() {
-    val prefs = getSharedPreferences(PREFS_NAME, Context.MODE_PRIVATE)
-    val isPrefEnabled = prefs.getBoolean("key_notifications_enabled", true)
-    val isSystemNotificationEnabled = androidx.core.app.NotificationManagerCompat.from(this).areNotificationsEnabled()
-    val workManager = WorkManager.getInstance(this)
-    
-        // If notifications are turned off by user preference or system, cancel and exit
-        if (!isPrefEnabled || !isSystemNotificationEnabled) {
-            workManager.cancelAllWorkByTag("BibleNotificationSlot")
-            return
-        }
-    
-        val targetHours = listOf(6, 12, 15, 20, 23)
-        val targetMinutes = listOf(0, 0, 0, 0, 30)
-    
-        for (i in targetHours.indices) {
-            val delay = calculateInitialDelay(targetHours[i], targetMinutes[i])
-            val dailyWorkRequest = OneTimeWorkRequestBuilder<DailyVerseWorker>()
-                .setInitialDelay(delay, TimeUnit.MILLISECONDS)
-                .addTag("BibleNotificationSlot")
-                .build()
-    
-            workManager.enqueueUniqueWork(
-                "BibleNotification_Slot_$i",
-                ExistingWorkPolicy.REPLACE,
-                dailyWorkRequest
-            )
-        }
-    }
-    
-    private fun calculateInitialDelay(targetHour: Int, targetMinute: Int): Long {
-        val currentTime = Calendar.getInstance()
-        val targetTime = Calendar.getInstance().apply {
-            set(Calendar.HOUR_OF_DAY, targetHour)
-            set(Calendar.MINUTE, targetMinute)
-            set(Calendar.SECOND, 0)
-            set(Calendar.MILLISECOND, 0)
-        }
-    
-        if (targetTime.timeInMillis <= currentTime.timeInMillis) {
-            targetTime.add(Calendar.DAY_OF_YEAR, 1)
-        }
-    
-        return targetTime.timeInMillis - currentTime.timeInMillis
-    }
-    
     private fun initTTS() {
         tts = TextToSpeech(this, this)
     }
@@ -613,7 +568,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                     0 -> showThemeSelectionDialog()
                     1 -> openSystemTTSSettingsWithIntro()
                     2 -> {
-                        // Direct user straight to Android's App Notification settings page
                         try {
                             val intent = Intent().apply {
                                 action = android.provider.Settings.ACTION_APP_NOTIFICATION_SETTINGS
@@ -916,7 +870,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
 
     private fun performVerseSearch(query: String, targetTranslation: BibleTranslation) {
-    showCenteredToast("Searching Bible for \"$query\"...")
+        showCenteredToast("Searching Bible for \"$query\"...")
 
         lifecycleScope.launch(Dispatchers.IO) {
             BibleRepository.loadVerses(this@MainActivity, targetTranslation)
@@ -961,15 +915,13 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val accentColor = getThemeConfig(currentTheme).accentColor
         val secondaryTextColor = if (isDark) Color.parseColor("#B0BEC5") else Color.parseColor("#795548")
     
-        // Main layout container
         val rootContainer = LinearLayout(this).apply {
             orientation = LinearLayout.VERTICAL
             setPadding(24, 16, 24, 16)
         }
     
-        // Bible Insight Card at the top
         val insightCard = TextView(this).apply {
-            text = "📖 Bible App Insight: \"$query\" appears in ${allResults.size} verses across ${targetTranslation.fullTranslationName}."
+            text = "📖 Bible Insight: \"$query\" appears in ${allResults.size} verses across ${targetTranslation.fullTranslationName}."
             setTextColor(accentColor)
             textSize = 13f
             typeface = Typeface.create(Typeface.DEFAULT, Typeface.BOLD)
@@ -978,7 +930,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             setBackgroundColor(if (isDark) Color.parseColor("#1E293B") else Color.parseColor("#F5F0EB"))
         }
     
-        // ListView for displaying current page verses
         val listView = android.widget.ListView(this).apply {
             layoutParams = LinearLayout.LayoutParams(
                 ViewGroup.LayoutParams.MATCH_PARENT,
@@ -1033,7 +984,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     
         updateAdapter(currentPage)
     
-        // Bottom Pagination Controls Container
         val paginationLayout = LinearLayout(this).apply {
             orientation = LinearLayout.HORIZONTAL
             gravity = Gravity.CENTER
@@ -1235,32 +1185,38 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val previousTranslation = BibleRepository.currentTranslation
         val previousVerse = currentVerse
 
-        BibleRepository.setTranslation(this, target)
+        lifecycleScope.launch(Dispatchers.IO) {
+            BibleRepository.setTranslation(this@MainActivity, target)
+            BibleRepository.loadVerses(this@MainActivity, target)
 
-        if (currentRef != null) {
-            val translatedVerse = BibleRepository.getVerseByBookChapterAndVerse(currentRef, this)
-            if (translatedVerse != null) {
-                updateLanguageToggleUI(target)
-                displayVerse(translatedVerse)
-                configureTTSVoiceForCurrentLanguage()
-                
-                if (target == BibleTranslation.JPS || target == BibleTranslation.WNT) {
-                    showCenteredToast("${target.displayName}: ${target.fullTranslationName}")
+            withContext(Dispatchers.Main) {
+                if (currentRef != null) {
+                    val translatedVerse = BibleRepository.getVerseByBookChapterAndVerse(currentRef, this@MainActivity)
+                    if (translatedVerse != null) {
+                        updateLanguageToggleUI(target)
+                        displayVerse(translatedVerse)
+                        configureTTSVoiceForCurrentLanguage()
+                        
+                        if (target == BibleTranslation.JPS || target == BibleTranslation.WNT) {
+                            showCenteredToast("${target.displayName}: ${target.fullTranslationName}")
+                        }
+                    } else {
+                        BibleRepository.setTranslation(this@MainActivity, previousTranslation)
+                        BibleRepository.loadVerses(this@MainActivity, previousTranslation)
+                        updateLanguageToggleUI(previousTranslation)
+                        if (previousVerse != null) {
+                            currentVerse = previousVerse
+                            displayVerse(previousVerse)
+                        }
+                        configureTTSVoiceForCurrentLanguage()
+                        showCenteredToast("${target.displayName} (${target.fullTranslationName}) does not contain this verse.")
+                    }
+                } else {
+                    updateLanguageToggleUI(target)
+                    configureTTSVoiceForCurrentLanguage()
+                    loadInitialVerse()
                 }
-            } else {
-                BibleRepository.setTranslation(this, previousTranslation)
-                updateLanguageToggleUI(previousTranslation)
-                if (previousVerse != null) {
-                    currentVerse = previousVerse
-                    displayVerse(previousVerse)
-                }
-                configureTTSVoiceForCurrentLanguage()
-                showCenteredToast("${target.displayName} (${target.fullTranslationName}) does not contain this verse.")
             }
-        } else {
-            updateLanguageToggleUI(target)
-            configureTTSVoiceForCurrentLanguage()
-            loadInitialVerse()
         }
     }
 
