@@ -77,7 +77,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     private var currentVerse: BibleVerse? = null
     private var isAutoPlaying = false
 
-    private enum class ThemeMode(val displayName: String) {
+    private enum class ThemeMode(val fullTranslationName: String) {
         SEPIA("🟤 Classic Sepia"),
         CHARCOAL("⚫ Charcoal Contrast"),
         NAVY("🔵 Midnight Navy"),
@@ -634,7 +634,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     
     private fun showThemeSelectionDialog() {
         val themes = ThemeMode.values()
-        val options = themes.map { it.displayName }.toTypedArray()
+        val options = themes.map { it.fullTranslationName }.toTypedArray()
         val dialog = AlertDialog.Builder(this)
             .setTitle("Select Reading Theme")
             .setAdapter(createCenteredListAdapter(options)) { _, which ->
@@ -847,7 +847,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val availableTranslations = BibleTranslation.values()
             .filter { it.languageGroup == currentGroup && it.isAvailable(this) }
             
-        val translationNames = availableTranslations.map { it.displayName }.toTypedArray()
+        val translationNames = availableTranslations.map { it.fullTranslationName }.toTypedArray()
         
         var selectedTranslationIndex = availableTranslations.indexOf(BibleRepository.currentTranslation)
         if (selectedTranslationIndex < 0) selectedTranslationIndex = 0
@@ -861,7 +861,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         }
 
         val versionSelectButton = Button(this).apply {
-            text = "${availableTranslations.getOrNull(selectedTranslationIndex)?.displayName ?: "Select"} ▾"
+            text = "${availableTranslations.getOrNull(selectedTranslationIndex)?.fullTranslationName ?: "Select"} ▾"
             isAllCaps = false
             textSize = 14f
             gravity = android.view.Gravity.CENTER
@@ -874,7 +874,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                     .setTitle("Select $currentGroup Version")
                     .setAdapter(createCenteredListAdapter(translationNames)) { _, which ->
                         selectedTranslationIndex = which
-                        text = "${availableTranslations[which].displayName} ▾"
+                        text = "${availableTranslations[which].fullTranslationName} ▾"
                     }
                     .create()
                 applyThemedDialogStyle(versionDialog)
@@ -964,7 +964,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     
         // Bible Insight Card at the top
         val insightCard = TextView(this).apply {
-            text = "📖 Bible Insight: \"$query\" appears in ${allResults.size} verses across ${targetTranslation.displayName}."
+            text = "📖 Bible App Insight: \"$query\" appears in ${allResults.size} verses across ${targetTranslation.fullTranslationName}."
             setTextColor(accentColor)
             textSize = 13f
             typeface = Typeface.create(Typeface.DEFAULT, Typeface.BOLD)
@@ -1100,7 +1100,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         }
     
         dialog = AlertDialog.Builder(this)
-            .setTitle("Search Results - ${targetTranslation.displayName}")
+            .setTitle("Search Results - ${targetTranslation.fullTranslationName}")
             .setView(rootContainer)
             .setNegativeButton("Close", null)
             .create()
@@ -1117,7 +1117,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             return
         }
 
-        val options = removableList.map { "🗑️ Delete ${it.displayName}" }.toTypedArray()
+        val options = removableList.map { "🗑️ Delete ${it.fullTranslationName}" }.toTypedArray()
 
         val dialog = AlertDialog.Builder(this)
             .setTitle("Remove Translation")
@@ -1126,7 +1126,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 BibleManager.removeTranslationPackage(this, toDelete,
                     onSuccess = {
                         runOnUiThread {
-                            showCenteredToast("${toDelete.displayName} removed.")
+                            showCenteredToast("${toDelete.fullTranslationName} removed.")
                             if (BibleRepository.currentTranslation == toDelete) {
                                 val fallback = if (groupName == "Tagalog") BibleTranslation.ADB else BibleTranslation.KJV
                                 switchToTranslation(fallback)
@@ -1155,7 +1155,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         installedTranslations.forEach {
             val badge = if (it.isBuiltIn) "✅ (Built-in)" else "✅ (Installed)"
             val activeMark = if (it == BibleRepository.currentTranslation) " • Active" else ""
-            listItems.add("${it.displayName} $badge$activeMark")
+            listItems.add("${it.fullTranslationName} $badge$activeMark")
         }
 
         listItems.add("🌐 Download Other Translations")
@@ -1197,7 +1197,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             return
         }
 
-        val options = downloadableList.map { "${it.displayName} ⬇️ (Download)" }.toTypedArray()
+        val options = downloadableList.map { "${it.fullTranslationName} ⬇️ (Download)" }.toTypedArray()
 
         val dialog = AlertDialog.Builder(this)
             .setTitle("Download $groupName Translations")
@@ -1207,14 +1207,14 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                     showCenteredToast("No internet connection available.")
                     return@setAdapter
                 }
-                showCenteredToast("Downloading ${selected.displayName}...")
+                showCenteredToast("Downloading ${selected.fullTranslationName}...")
                 BibleManager.downloadTranslationPackage(
                     context = this,
                     translation = selected,
                     onProgress = {},
                     onSuccess = { 
                         runOnUiThread { 
-                            showCenteredToast("${selected.displayName} installed!") 
+                            showCenteredToast("${selected.fullTranslationName} installed!") 
                             switchToTranslation(selected) 
                         } 
                     },
@@ -1642,8 +1642,8 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     
     private fun updateLanguageToggleUI(translation: BibleTranslation) {
         val isEnglishActive = translation.languageGroup == "English"
-        btnEnglish.text = if (isEnglishActive) translation.displayName.uppercase() + " ▾" else "ENGLISH ▾"
-        btnTagalog.text = if (!isEnglishActive) translation.displayName.uppercase() + " ▾" else "TAGALOG ▾"
+        btnEnglish.text = if (isEnglishActive) translation.fullTranslationName.uppercase() + " ▾" else "ENGLISH ▾"
+        btnTagalog.text = if (!isEnglishActive) translation.fullTranslationName.uppercase() + " ▾" else "TAGALOG ▾"
     
         val isDark = currentTheme != ThemeMode.SEPIA
         val cardAlphaColor = if (!isDark) {
