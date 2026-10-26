@@ -291,14 +291,25 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
 
     private fun scheduleMultipleDailyNotifications() {
-        val workManager = WorkManager.getInstance(this)
+    val prefs = getSharedPreferences(PREFS_NAME, Context.MODE_PRIVATE)
+    val isPrefEnabled = prefs.getBoolean("key_notifications_enabled", true)
+    val isSystemNotificationEnabled = androidx.core.app.NotificationManagerCompat.from(this).areNotificationsEnabled()
+    val workManager = WorkManager.getInstance(this)
+    
+        // If notifications are turned off by user preference or system, cancel and exit
+        if (!isPrefEnabled || !isSystemNotificationEnabled) {
+            workManager.cancelAllWorkByTag("BibleNotificationSlot")
+            return
+        }
+    
         val targetHours = listOf(6, 12, 15, 20, 23)
         val targetMinutes = listOf(0, 0, 0, 0, 30)
-
+    
         for (i in targetHours.indices) {
             val delay = calculateInitialDelay(targetHours[i], targetMinutes[i])
             val dailyWorkRequest = OneTimeWorkRequestBuilder<DailyVerseWorker>()
                 .setInitialDelay(delay, TimeUnit.MILLISECONDS)
+                .addTag("BibleNotificationSlot")
                 .build()
     
             workManager.enqueueUniqueWork(
@@ -917,14 +928,13 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
 
     private fun performVerseSearch(query: String, targetTranslation: BibleTranslation) {
-        showCenteredToast("Searching Bible for \"$query\"...")
+    showCenteredToast("Searching Bible for \"$query\"...")
 
-        // Run search asynchronously on Dispatchers.IO to completely prevent app freezing or ANR crashes
         lifecycleScope.launch(Dispatchers.IO) {
             BibleRepository.loadVerses(this@MainActivity, targetTranslation)
             val matchingVerses = mutableListOf<BibleVerse>()
             val lowercaseQuery = query.lowercase()
-
+    
             val allBooks = BibleRepository.getAvailableBooks(this@MainActivity)
             for (book in allBooks) {
                 val chapters = BibleRepository.getChaptersForBook(book, this@MainActivity)
@@ -940,7 +950,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 }
                 if (matchingVerses.size >= 100) break
             }
-
+    
             withContext(Dispatchers.Main) {
                 if (matchingVerses.isEmpty()) {
                     showCenteredToast("No matching verses found for \"$query\".")
