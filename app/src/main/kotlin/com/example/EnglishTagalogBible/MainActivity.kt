@@ -47,6 +47,10 @@ import java.io.FileOutputStream
 import java.util.Locale
 import java.util.concurrent.TimeUnit
 import java.util.Calendar
+import androidx.lifecycle.lifecycleScope
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.launch
+import kotlinx.coroutines.withContext
 
 class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
@@ -913,30 +917,37 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
 
     private fun performVerseSearch(query: String, targetTranslation: BibleTranslation) {
-        BibleRepository.loadVerses(this, targetTranslation)
-        val matchingVerses = mutableListOf<BibleVerse>()
-        val lowercaseQuery = query.lowercase()
+        showCenteredToast("Searching Bible for \"$query\"...")
 
-        val allBooks = BibleRepository.getAvailableBooks(this)
-        for (book in allBooks) {
-            val chapters = BibleRepository.getChaptersForBook(book, this)
-            for (chapter in chapters) {
-                val verses = BibleRepository.getVerseObjectsForChapter(chapter, this)
-                for (verse in verses) {
-                    if (verse.text.lowercase().contains(lowercaseQuery) || verse.reference.lowercase().contains(lowercaseQuery)) {
-                        matchingVerses.add(verse)
-                        if (matchingVerses.size >= 100) break
+        // Run search asynchronously on Dispatchers.IO to completely prevent app freezing or ANR crashes
+        lifecycleScope.launch(Dispatchers.IO) {
+            BibleRepository.loadVerses(this@MainActivity, targetTranslation)
+            val matchingVerses = mutableListOf<BibleVerse>()
+            val lowercaseQuery = query.lowercase()
+
+            val allBooks = BibleRepository.getAvailableBooks(this@MainActivity)
+            for (book in allBooks) {
+                val chapters = BibleRepository.getChaptersForBook(book, this@MainActivity)
+                for (chapter in chapters) {
+                    val verses = BibleRepository.getVerseObjectsForChapter(chapter, this@MainActivity)
+                    for (verse in verses) {
+                        if (verse.text.lowercase().contains(lowercaseQuery) || verse.reference.lowercase().contains(lowercaseQuery)) {
+                            matchingVerses.add(verse)
+                            if (matchingVerses.size >= 100) break
+                        }
                     }
+                    if (matchingVerses.size >= 100) break
                 }
                 if (matchingVerses.size >= 100) break
             }
-            if (matchingVerses.size >= 100) break
-        }
 
-        if (matchingVerses.isEmpty()) {
-            showCenteredToast("No matching verses found for \"$query\".")
-        } else {
-            showSearchResultsDialog(query, matchingVerses, targetTranslation)
+            withContext(Dispatchers.Main) {
+                if (matchingVerses.isEmpty()) {
+                    showCenteredToast("No matching verses found for \"$query\".")
+                } else {
+                    showSearchResultsDialog(query, matchingVerses, targetTranslation)
+                }
+            }
         }
     }
 
@@ -1464,10 +1475,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             rootLayout.setBackgroundColor(config.backgroundColor)
         }
 
-        // Give verseCard a semi-transparent background so the background animation shows through
         val isDark = currentTheme != ThemeMode.SEPIA
         val cardAlphaColor = if (!isDark) {
-            Color.parseColor("#E8FFFFFF") // Semi-transparent white for light/sepia
+            Color.parseColor("#E8FFFFFF")
         } else {
             when (currentTheme) {
                 ThemeMode.CHARCOAL -> Color.parseColor("#D91E1E1E")
@@ -1483,7 +1493,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         verseCard.strokeColor = config.cardStrokeColor
         verseCard.cardElevation = if (currentTheme == ThemeMode.SEPIA) 8f else 6f
 
-        // Update the live animated background silhouettes
         findViewById<BiblicalAnimationBackgroundView>(R.id.animatedBackgroundView)?.updateTheme(
             accentColor = config.accentColor,
             isDark = isDark
