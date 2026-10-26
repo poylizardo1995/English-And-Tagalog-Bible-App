@@ -19,7 +19,7 @@ enum class BibleTranslation(
     BSB("English", "English (BSB)", "bsb", false, "Berean Standard Bible (2020)"),    
     CPDV("English", "English (CPDV)", "cpdv", false, "Catholic Public Domain Version (2009)"),
     DBT("English", "English (DBT)", "dbt", false, "Darby Bible Translation (1890)"),
-    DRB("English", "English (DRB)", "drb", false, "Douay-Rheims Bible (NT:1582)(OT:1609–1610)(Challoner'sRev1749-1752)"),
+    DRB("English", "English (DRB)", "drb", false, "Douay-Rheims Bible (1582-1752)"),
     ERV("English", "English (ERV)", "erv", false, "English Revised Version (1885)"),
     JPS("English", "English (JPS)", "jps", false, "Jewish Publication Society's Tanakh (OT:1917)"),
     KJV("English", "English (KJV)", "kjv", true, "King James Bible: Pure Cambridge Edition (1900)"),
