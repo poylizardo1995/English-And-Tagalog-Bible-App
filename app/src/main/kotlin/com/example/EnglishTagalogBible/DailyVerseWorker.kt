@@ -14,13 +14,13 @@ import androidx.work.WorkerParameters
 class DailyVerseWorker(context: Context, workerParams: WorkerParameters) : Worker(context, workerParams) {
 
     override fun doWork(): Result {
-        // 1. Verify OS-level notification permission state
+        // Verify OS-level notification permission state
         val isSystemNotificationEnabled = NotificationManagerCompat.from(applicationContext).areNotificationsEnabled()
         if (!isSystemNotificationEnabled) {
             return Result.success()
         }
 
-        // 2. Retrieve a fresh verse for the notification
+        // Retrieve a fresh verse for the notification
         val verse = BibleRepository.getRandomVerse(applicationContext)
         showNotification(verse.text, verse.reference)
 
@@ -55,9 +55,11 @@ class DailyVerseWorker(context: Context, workerParams: WorkerParameters) : Worke
             PendingIntent.FLAG_UPDATE_CURRENT or PendingIntent.FLAG_IMMUTABLE
         )
 
-        // Action 2: "COPY" button action inside notification pop-out
-        val copyIntent = Intent(applicationContext, CopyVerseReceiver::class.java).apply {
-            putExtra("verse_text", "$verseText — $verseRef")
+        // Action 2: "COPY" button action leveraging your existing VerseActionReceiver
+        val copyIntent = Intent(applicationContext, VerseActionReceiver::class.java).apply {
+            action = "ACTION_COPY_VERSE"
+            putExtra("verse_text", verseText)
+            putExtra("verse_ref", verseRef)
         }
         val copyPendingIntent = PendingIntent.getBroadcast(
             applicationContext,
@@ -67,7 +69,7 @@ class DailyVerseWorker(context: Context, workerParams: WorkerParameters) : Worke
         )
 
         val notification = NotificationCompat.Builder(applicationContext, channelId)
-            .setSmallIcon(android.R.drawable.ic_menu_compass) // Uses system standard icon (or replace with your R.drawable.ic_notification)
+            .setSmallIcon(android.R.drawable.ic_menu_compass) // Or your custom notification icon
             .setContentTitle("Verse of the Day")
             .setContentText("$verseText — $verseRef")
             .setStyle(NotificationCompat.BigTextStyle().bigText("$verseText\n\n— $verseRef"))
