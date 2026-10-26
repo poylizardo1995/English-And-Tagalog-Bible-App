@@ -59,6 +59,25 @@ object BibleRepository {
     var currentTranslation: BibleTranslation = BibleTranslation.KJV
         private set
 
+    private val canonicalBookOrder = listOf(
+        // Old Testament
+        "Genesis", "Exodus", "Exodo", "Leviticus", "Levitico", "Numbers", "Mga Bilang", "Deuteronomy", "Deuteronomio",
+        "Joshua", "Josue", "Judges", "Mga Hukom", "Ruth", "1 Samuel", "2 Samuel", "1 Kings", "1 Mga Hari", "2 Kings", "2 Mga Hari",
+        "1 Chronicles", "1 Cronica", "2 Chronicles", "2 Cronica", "Ezra", "Nehemiah", "Nehemias", "Esther", "Ester", "Job",
+        "Psalm", "Mga Awit", "Proverbs", "Mga Kawikaan", "Ecclesiastes", "Eclesiastes", "Song of Solomon", "Ang Awit ng mga Awit",
+        "Isaiah", "Isaias", "Jeremiah", "Jeremias", "Lamentations", "Mga Panaghoy", "Ezekiel", "Daniel",
+        "Hosea", "Oseas", "Joel", "Amos", "Obadiah", "Obadias", "Jonah", "Jonas", "Micah", "Mikas",
+        "Nahum", "Habakkuk", "Habacuc", "Zephaniah", "Zefanias", "Haggai", "Hagai", "Zechariah", "Zacarias", "Malachi", "Malakias",
+        // New Testament
+        "Matthew", "Mateo", "Mark", "Marcos", "Luke", "Lucas", "John", "Juan",
+        "Acts", "Mga Gawa", "Romans", "Roma", "1 Corinthians", "1 Corinto", "2 Corinthians", "2 Corinto",
+        "Galatians", "Galacia", "Ephesians", "Efeso", "Philippians", "Filipos", "Colosas", "Colossians",
+        "1 Thessalonians", "1 Tesalonica", "2 Thessalonians", "2 Tesalonica", "1 Timothy", "1 Timoteo",
+        "2 Timothy", "2 Timoteo", "Titus", "Tito", "Philemon", "Filemon",
+        "Hebrews", "Hebreo", "James", "Santiago", "1 Peter", "1 Pedro", "2 Peter", "2 Pedro",
+        "1 Juan", "1 John", "2 Juan", "2 John", "3 Juan", "3 John", "Jude", "Judas", "Revelation", "Pahayag"
+    )
+
     private val crossLanguageMappings = mapOf(
         "genesis" to "Genesis", "exodus" to "Exodo", "exodo" to "Exodus",
         "leviticus" to "Levitico", "levitico" to "Leviticus",
@@ -122,11 +141,12 @@ object BibleRepository {
     )
 
     @Synchronized
-    fun loadVerses(context: Context, translation: BibleTranslation = currentTranslation) {
-        if (isLoaded && translation == currentTranslation && verses.isNotEmpty()) return
+    fun loadVerses(context: Context, translation: BibleTranslation = currentTranslation, forceReload: Boolean = false) {
+        if (!forceReload && isLoaded && translation == currentTranslation && verses.isNotEmpty()) return
         
         currentTranslation = translation
         verses.clear()
+        isLoaded = false
         
         val cleanSuffix = translation.suffix.lowercase()
         val targetSuffix = "_${cleanSuffix}.json"
@@ -292,7 +312,11 @@ object BibleRepository {
 
     fun getAvailableBooks(context: Context): List<String> {
         loadVerses(context)
-        return verses.map { extractBookName(it.reference) }.distinct()
+        val rawBooks = verses.map { extractBookName(it.reference) }.distinct()
+        return rawBooks.sortedWith(compareBy { bookName ->
+            val index = canonicalBookOrder.indexOfFirst { it.equals(bookName, ignoreCase = true) }
+            if (index != -1) index else Int.MAX_VALUE
+        })
     }
 
     fun getChaptersForBook(bookName: String, context: Context): List<String> {
