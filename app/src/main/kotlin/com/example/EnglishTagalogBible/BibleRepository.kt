@@ -14,12 +14,12 @@ enum class BibleTranslation(
 ) {
     AKJV("English", "English (AKJV)", "akjv", false, "American King James Version"),
     ASV("English", "English (ASV)", "asv", false, "American Standard Version (1901)"),
-    BAB("English", "English (BAB)", "bab", false, "Berean Annotated Bible (Early Draft Ver.)"),
-    BLB("English", "English (BLB)", "blb", false, "Berean Literal Bible (Draft Ver.)"),
+    BAB("English", "English (BAB)", "bab", false, "Berean Annotated Bible (Early Draft Version)"),
+    BLB("English", "English (BLB)", "blb", false, "Berean Literal Bible (Draft Version)"),
     BSB("English", "English (BSB)", "bsb", false, "Berean Standard Bible (2020)"),    
     CPDV("English", "English (CPDV)", "cpdv", false, "Catholic Public Domain Version (2009)"),
     DBT("English", "English (DBT)", "dbt", false, "Darby Bible Translation (1890)"),
-    DRB("English", "English (DRB)", "drb", false, "Douay-Rheims Bible (1582-1752)"),
+    DRB("English", "English (DRB)", "drb", false, "Douay-Rheims Bible (NT:1582)(OT:1609–1610)(Challoner'sRev1749-1752)"),
     ERV("English", "English (ERV)", "erv", false, "English Revised Version (1885)"),
     JPS("English", "English (JPS)", "jps", false, "Jewish Publication Society's Tanakh (OT:1917)"),
     KJV("English", "English (KJV)", "kjv", true, "King James Bible: Pure Cambridge Edition (1900)"),
@@ -133,9 +133,9 @@ object BibleRepository {
         "james" to "Santiago", "santiago" to "James",
         "1 peter" to "1 Pedro", "1 pedro" to "1 Peter",
         "2 peter" to "2 Pedro", "2 pedro" to "2 Peter",
-        "1 john" to "1 Juan", "1 juan" to "1 John",
-        "2 john" to "2 Juan", "2 juan" to "2 John",
-        "3 john" to "3 Juan", "3 juan" to "3 John",
+        "1 juan" to "1 John", "1 john" to "1 Juan",
+        "2 juan" to "2 John", "2 john" to "2 Juan",
+        "3 juan" to "3 John", "3 john" to "3 Juan",
         "jude" to "Judas", "judas" to "Jude",
         "revelation" to "Pahayag", "pahayag" to "Revelation"
     )
