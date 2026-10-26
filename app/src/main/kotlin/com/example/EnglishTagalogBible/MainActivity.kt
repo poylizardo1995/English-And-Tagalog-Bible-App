@@ -181,6 +181,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                     currentVerse = BibleVerse(text = incomingText, reference = incomingRef)
                     tvVerseText.text = currentVerse?.text
                     tvVerseRef.text = "— ${currentVerse?.reference}"
+                    currentVerse?.let { updateNavigationButtonLabels(it) }
                 } else if (savedInstanceState != null) {
                     val savedText = savedInstanceState.getString(KEY_VERSE_TEXT)
                     val savedRef = savedInstanceState.getString(KEY_VERSE_REF)
@@ -189,6 +190,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                         currentVerse = BibleVerse(text = savedText, reference = cleanRef)
                         tvVerseText.text = currentVerse?.text
                         tvVerseRef.text = "— ${currentVerse?.reference}"
+                        currentVerse?.let { updateNavigationButtonLabels(it) }
                     } else {
                         loadInitialVerse()
                     }
@@ -204,7 +206,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
         btnPrev.setOnClickListener {
             currentVerse?.let { verse ->
-                val prevVerse = BibleRepository.getPreviousVerse(verse, this)
+                val prevVerse = BibleRepository.getPreviousVerse(verse, this) 
+                    ?: BibleRepository.getPreviousChapterLastVerse(verse, this)
+
                 if (prevVerse != null) {
                     displayVerse(prevVerse)
                     if (isAutoPlaying) {
@@ -213,14 +217,16 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                         tts?.stop()
                     }
                 } else {
-                    showCenteredToast("Beginning of chapter reached.")
+                    showCenteredToast("Beginning of Bible reached.")
                 }
             }
         }
 
         btnNext.setOnClickListener {
             currentVerse?.let { verse ->
-                val nextVerse = BibleRepository.getNextVerse(verse, this)
+                val nextVerse = BibleRepository.getNextVerse(verse, this) 
+                    ?: BibleRepository.getNextChapterFirstVerse(verse, this)
+
                 if (nextVerse != null) {
                     displayVerse(nextVerse)
                     if (isAutoPlaying) {
@@ -229,7 +235,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                         tts?.stop()
                     }
                 } else {
-                    showCenteredToast("End of chapter reached.")
+                    showCenteredToast("End of Bible reached.")
                     stopAutoPlay()
                 }
             }
@@ -1448,6 +1454,55 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         tvVerseRef.text = "— ${verse.reference}"
         tvVerseText.startAnimation(AlphaAnimation(0.0f, 1.0f).apply { duration = 400 })
         tvVerseRef.startAnimation(AlphaAnimation(0.0f, 1.0f).apply { duration = 400 })
+        updateNavigationButtonLabels(verse)
+    }
+
+    private fun updateNavigationButtonLabels(verse: BibleVerse) {
+        val nextVerse = BibleRepository.getNextVerse(verse, this)
+        val prevVerse = BibleRepository.getPreviousVerse(verse, this)
+
+        if (nextVerse != null) {
+            btnNext.text = "Next Verse ►"
+        } else {
+            val nextChapterVerse = BibleRepository.getNextChapterFirstVerse(verse, this)
+            if (nextChapterVerse != null) {
+                val currentBook = extractBookNameFromRef(verse.reference)
+                val targetBook = extractBookNameFromRef(nextChapterVerse.reference)
+                if (currentBook.equals(targetBook, ignoreCase = true)) {
+                    btnNext.text = "Next Chapter ►"
+                } else {
+                    btnNext.text = "Next Book ►"
+                }
+            } else {
+                btnNext.text = "End of Bible ►"
+            }
+        }
+
+        if (prevVerse != null) {
+            btnPrev.text = "◄ Prev Verse"
+        } else {
+            val prevChapterVerse = BibleRepository.getPreviousChapterLastVerse(verse, this)
+            if (prevChapterVerse != null) {
+                val currentBook = extractBookNameFromRef(verse.reference)
+                val targetBook = extractBookNameFromRef(prevChapterVerse.reference)
+                if (currentBook.equals(targetBook, ignoreCase = true)) {
+                    btnPrev.text = "◄ Prev Chapter"
+                } else {
+                    btnPrev.text = "◄ Prev Book"
+                }
+            } else {
+                btnPrev.text = "◄ Start of Bible"
+            }
+        }
+    }
+
+    private fun extractBookNameFromRef(reference: String): String {
+        val cleanRef = reference.substringBefore(" (").trim()
+        val colonIndex = cleanRef.lastIndexOf(':')
+        if (colonIndex == -1) return cleanRef
+        val beforeColon = cleanRef.substring(0, colonIndex)
+        val lastSpaceIndex = beforeColon.lastIndexOf(' ')
+        return if (lastSpaceIndex != -1) beforeColon.substring(0, lastSpaceIndex) else beforeColon
     }
 
     private fun loadInitialVerse() {
