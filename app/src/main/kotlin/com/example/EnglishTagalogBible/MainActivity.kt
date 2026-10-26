@@ -1149,9 +1149,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             .setAdapter(createCenteredListAdapter(listItems.toTypedArray())) { _, index ->
                 if (index < installedTranslations.size) {
                     val selected = installedTranslations[index]
-                    if (selected != BibleRepository.currentTranslation) {
-                        switchToTranslation(selected)
-                    }
+                    switchToTranslation(selected)
                 } else {
                     val actionIndex = index - installedTranslations.size
                     if (actionIndex == 0) {
