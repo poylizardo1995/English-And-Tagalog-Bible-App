@@ -106,7 +106,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         private const val KEY_VERSE_TEXT = "key_verse_text"
         private const val KEY_VERSE_REF = "key_verse_ref"
         private const val PREFS_NAME = "BibleAppPrefs"
-        private const val KEY_SAVED_THEME = "saved_theme_mode"
+        private const val KEY_SAVED_ = "saved__mode"
         private const val KEY_HAS_SEEN_WELCOME = "key_has_seen_welcome_v14"
     }
 
@@ -246,6 +246,26 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
         // Show polished startup intro on first launch
         showWelcomeIntroDialog()
+    }
+
+    private fun applyTheme() {
+        val config = getThemeConfig(currentTheme)
+        val rootLayout = findViewById<ViewGroup>(android.R.id.content).getChildAt(0) ?: window.decorView
+    
+        window.statusBarColor = config.statusBarColor
+    
+        if (config.backgroundRes != null) {
+            rootLayout.setBackgroundResource(config.backgroundRes)
+        } else if (config.backgroundColor != null) {
+            rootLayout.setBackgroundColor(config.backgroundColor)
+        }
+    
+        // Update the live animated background silhouettes to match the theme's accent and dark mode state
+        findViewById<BiblicalAnimationBackgroundView>(R.id.animatedBackgroundView)?.updateTheme(
+            accentColor = config.accentColor,
+            isDark = currentTheme != ThemeMode.SEPIA
+        )
+    
     }
 
     private fun showWelcomeIntroDialog() {
