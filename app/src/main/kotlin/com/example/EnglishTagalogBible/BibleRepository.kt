@@ -145,8 +145,7 @@ object BibleRepository {
         if (!forceReload && isLoaded && translation == currentTranslation && verses.isNotEmpty()) return
         
         currentTranslation = translation
-        verses.clear()
-        isLoaded = false
+        val tempBatch = mutableListOf<BibleVerse>()
         
         val cleanSuffix = translation.suffix.lowercase()
         val targetSuffix = "_${cleanSuffix}.json"
@@ -165,14 +164,14 @@ object BibleRepository {
                             while (entry != null) {
                                 if (!entry.isDirectory && entry.name.endsWith(".json", ignoreCase = true)) {
                                     val jsonString = zipInput.bufferedReader().readText()
-                                    parseAndAddVerses(jsonString)
+                                    parseJsonIntoList(jsonString, tempBatch)
                                 }
                                 zipInput.closeEntry()
                                 entry = zipInput.nextEntry
                             }
                         }
                     }
-                    loadedFromZip = verses.isNotEmpty()
+                    loadedFromZip = tempBatch.isNotEmpty()
                 } catch (e: Exception) {
                     e.printStackTrace()
                 }
@@ -197,29 +196,39 @@ object BibleRepository {
                         val stream = getChapterStream(context, fileName) ?: continue
                         val jsonString = stream.bufferedReader().use { it.readText() }
                         stream.close()
-                        parseAndAddVerses(jsonString)
+                        parseJsonIntoList(jsonString, tempBatch)
                     } catch (e: Exception) {
                         e.printStackTrace()
                     }
                 }
             }
 
-            if (verses.isEmpty()) {
-                serveFallback()
+            if (tempBatch.isEmpty()) {
+                if (currentTranslation.languageGroup == "Tagalog") {
+                    tempBatch.add(BibleVerse(text = "Ang Dios ay ating kanlungan at kalakasang tunay.", reference = "Mga Awit 46:1 (ADB)"))
+                } else {
+                    tempBatch.add(BibleVerse(text = "The Lord is my shepherd; I shall not want.", reference = "Psalm 23:1 (KJV)"))
+                }
             }
         } catch (e: Exception) {
             e.printStackTrace()
-            serveFallback()
+            if (tempBatch.isEmpty()) {
+                tempBatch.add(BibleVerse(text = "The Lord is my shepherd; I shall not want.", reference = "Psalm 23:1 (KJV)"))
+            }
         }
+
+        // Atomically update main list to prevent blank/null crashes during concurrent reads
+        verses.clear()
+        verses.addAll(tempBatch)
         isLoaded = true
     }
 
-    private fun parseAndAddVerses(jsonString: String) {
+    private fun parseJsonIntoList(jsonString: String, targetList: MutableList<BibleVerse>) {
         try {
             val jsonArray = JSONArray(jsonString)
             for (i in 0 until jsonArray.length()) {
                 val item = jsonArray.getJSONObject(i)
-                verses.add(
+                targetList.add(
                     BibleVerse(
                         text = item.getString("text"),
                         reference = item.getString("reference"),
@@ -245,16 +254,6 @@ object BibleRepository {
         }
     }
 
-    private fun serveFallback() {
-        if (verses.isEmpty()) {
-            if (currentTranslation.languageGroup == "Tagalog") {
-                verses.add(BibleVerse(text = "Ang Dios ay ating kanlungan at kalakasang tunay.", reference = "Mga Awit 46:1 (ADB)"))
-            } else {
-                verses.add(BibleVerse(text = "The Lord is my shepherd; I shall not want.", reference = "Psalm 23:1 (KJV)"))
-            }
-        }
-    }
-
     fun setTranslation(context: Context, translation: BibleTranslation) {
         currentTranslation = translation
         val prefs = context.getSharedPreferences("BibleAppPrefs", Context.MODE_PRIVATE)
@@ -271,11 +270,13 @@ object BibleRepository {
         }
     }
 
+    @Synchronized
     fun getRandomVerse(context: Context): BibleVerse {
         loadVerses(context)
         return if (verses.isNotEmpty()) verses.random() else BibleVerse("The Lord is my shepherd; I shall not want.", "Psalm 23:1 (KJV)")
     }
 
+    @Synchronized
     fun getVerseByBookChapterAndVerse(baseReference: String, context: Context): BibleVerse? {
         loadVerses(context)
         val directMatch = verses.find { it.reference.equals(baseReference, ignoreCase = true) || it.reference.startsWith("$baseReference (") }
@@ -310,6 +311,7 @@ object BibleRepository {
         return if (lastSpaceIndex != -1) beforeColon.substring(0, lastSpaceIndex) else beforeColon
     }
 
+    @Synchronized
     fun getAvailableBooks(context: Context): List<String> {
         loadVerses(context)
         val rawBooks = verses.map { extractBookName(it.reference) }.distinct()
@@ -319,11 +321,13 @@ object BibleRepository {
         })
     }
 
+    @Synchronized
     fun getAllBooksAlphabetical(context: Context): List<String> {
         loadVerses(context)
         return verses.map { extractBookName(it.reference) }.distinct().sorted()
     }
 
+    @Synchronized
     fun getChaptersForBook(bookName: String, context: Context): List<String> {
         loadVerses(context)
         val chapters = verses
@@ -341,16 +345,19 @@ object BibleRepository {
         })
     }
 
+    @Synchronized
     fun getVersesForChapter(chapterName: String, context: Context): List<String> {
         loadVerses(context)
         return verses.filter { it.reference.startsWith("$chapterName:") }.map { it.reference }
     }
 
+    @Synchronized
     fun getVerseObjectsForChapter(chapterName: String, context: Context): List<BibleVerse> {
         loadVerses(context)
         return verses.filter { it.reference.startsWith("$chapterName:") }
     }
 
+    @Synchronized
     fun getNextVerse(currentVerse: BibleVerse, context: Context): BibleVerse? {
         loadVerses(context)
         val cleanCurrentRef = currentVerse.reference.substringBefore(" (").trim()
@@ -364,6 +371,7 @@ object BibleRepository {
         }
     }
 
+    @Synchronized
     fun getPreviousVerse(currentVerse: BibleVerse, context: Context): BibleVerse? {
         loadVerses(context)
         val cleanCurrentRef = currentVerse.reference.substringBefore(" (").trim()
@@ -377,6 +385,7 @@ object BibleRepository {
         }
     }
 
+    @Synchronized
     fun getNextChapterFirstVerse(currentVerse: BibleVerse, context: Context): BibleVerse? {
         loadVerses(context)
         val cleanRef = currentVerse.reference.substringBefore(" (").trim()
@@ -402,6 +411,7 @@ object BibleRepository {
         return null
     }
 
+    @Synchronized
     fun getPreviousChapterLastVerse(currentVerse: BibleVerse, context: Context): BibleVerse? {
         loadVerses(context)
         val cleanRef = currentVerse.reference.substringBefore(" (").trim()
