@@ -901,7 +901,45 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
 
     private fun performVerseSearch(query: String, targetTranslation: BibleTranslation) {
-        showCenteredToast("Searching Bible for \"$query\"...")
+        val isDark = currentTheme != ThemeMode.SEPIA
+        val primaryColor = if (isDark) Color.parseColor("#E8D5C4") else Color.parseColor("#6E472C")
+        val textColor = if (isDark) Color.parseColor("#FFFFFF") else Color.parseColor("#2D241E")
+
+        val layout = LinearLayout(this).apply {
+            orientation = LinearLayout.VERTICAL
+            setPadding(60, 40, 60, 20)
+            gravity = Gravity.CENTER
+        }
+
+        val progressBar = ProgressBar(this).apply {
+            isIndeterminate = true
+            indeterminateTintList = ColorStateList.valueOf(primaryColor)
+            layoutParams = LinearLayout.LayoutParams(
+                LinearLayout.LayoutParams.WRAP_CONTENT,
+                LinearLayout.LayoutParams.WRAP_CONTENT
+            ).apply {
+                bottomMargin = 30
+            }
+        }
+
+        val messageText = TextView(this).apply {
+            text = "Searching Bible for \"$query\"..."
+            textSize = 14f
+            setTextColor(textColor)
+            gravity = Gravity.CENTER
+        }
+
+        layout.addView(progressBar)
+        layout.addView(messageText)
+
+        val loadingDialog = AlertDialog.Builder(this)
+            .setTitle("🔎 Searching Bible")
+            .setView(layout)
+            .setCancelable(false)
+            .create()
+
+        applyThemedDialogStyle(loadingDialog)
+        loadingDialog.show()
 
         lifecycleScope.launch(Dispatchers.IO) {
             BibleRepository.loadVerses(this@MainActivity, targetTranslation)
@@ -922,6 +960,10 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             }
     
             withContext(Dispatchers.Main) {
+                try {
+                    loadingDialog.dismiss()
+                } catch (_: Exception) {}
+
                 if (matchingVerses.isEmpty()) {
                     showCenteredToast("No matching verses found for \"$query\".")
                 } else {
