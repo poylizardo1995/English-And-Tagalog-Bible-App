@@ -1372,6 +1372,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val currentRef = currentVerseObj?.reference?.substringBefore(" (")?.trim()
         val previousTranslation = BibleRepository.currentTranslation
 
+        // Show a brief clean loading toast/indication so user knows version is switching
+        showCenteredToast("Switching to ${target.fullTranslationName}...")
+
         lifecycleScope.launch(Dispatchers.IO) {
             try {
                 BibleRepository.setTranslation(this@MainActivity, target)
@@ -1403,10 +1406,6 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                             updateLanguageToggleUI(target)
                             displayVerse(translatedVerse)
                             configureTTSVoiceForCurrentLanguage()
-                            
-                            if (target == BibleTranslation.JPS || target == BibleTranslation.WNT) {
-                                showCenteredToast("${target.displayName}: ${target.fullTranslationName}")
-                            }
                         } else {
                             BibleRepository.setTranslation(this@MainActivity, previousTranslation)
                             BibleRepository.loadVerses(this@MainActivity, previousTranslation, forceReload = true)
@@ -1416,7 +1415,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                             } else {
                                 loadInitialVerse()
                             }
-                            showCenteredToast("${target.displayName} (${target.fullTranslationName}) does not contain this verse.")
+                            showCenteredToast("${target.displayName} does not contain this verse.")
                         }
                     } else {
                         updateLanguageToggleUI(target)
@@ -1426,6 +1425,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 }
             } catch (e: Exception) {
                 withContext(Dispatchers.Main) {
+                    BibleRepository.setTranslation(this@MainActivity, previousTranslation)
                     loadInitialVerse()
                 }
             } finally {
