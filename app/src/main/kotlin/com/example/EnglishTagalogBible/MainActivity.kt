@@ -64,7 +64,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     private lateinit var btnAutoPlay: MaterialButton
     private lateinit var btnAbout: MaterialButton
     private lateinit var verseCard: MaterialCardView
-    
+        
     // Language Toggle Pill Buttons
     private lateinit var btnEnglish: TextView
     private lateinit var btnTagalog: TextView
@@ -74,6 +74,8 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     private var isTtsReady = false
     private var currentVerse: BibleVerse? = null
     private var isAutoPlaying = false
+
+    private var isSwitchingTranslation = false
 
     // App Visual Theme Modes
     private enum class ThemeMode(val fullTranslationName: String) {
@@ -1363,59 +1365,71 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
      * Switches the active Bible translation version and maps the current verse to the new version.
      */
     private fun switchToTranslation(target: BibleTranslation) {
+        if (isSwitchingTranslation) return
+        isSwitchingTranslation = true
+
         val currentVerseObj = currentVerse
         val currentRef = currentVerseObj?.reference?.substringBefore(" (")?.trim()
         val previousTranslation = BibleRepository.currentTranslation
 
         lifecycleScope.launch(Dispatchers.IO) {
-            BibleRepository.setTranslation(this@MainActivity, target)
-            BibleRepository.loadVerses(this@MainActivity, target, forceReload = true)
+            try {
+                BibleRepository.setTranslation(this@MainActivity, target)
+                BibleRepository.loadVerses(this@MainActivity, target, forceReload = true)
 
-            withContext(Dispatchers.Main) {
-                if (currentRef != null) {
-                    var translatedVerse = BibleRepository.getVerseByBookChapterAndVerse(currentRef, this@MainActivity)
-                    
-                    if (translatedVerse == null && currentVerseObj != null) {
-                        val cleanRef = currentVerseObj.reference.substringBefore(" (").trim()
-                        val colonIdx = cleanRef.lastIndexOf(':')
-                        if (colonIdx != -1) {
-                            val bookAndChapter = cleanRef.substring(0, colonIdx).trim()
-                            val verseNum = cleanRef.substring(colonIdx)
-                            val lastSpace = bookAndChapter.lastIndexOf(' ')
-                            if (lastSpace != -1) {
-                                val bookPart = bookAndChapter.substring(0, lastSpace).trim()
-                                val chapterPart = bookAndChapter.substring(lastSpace + 1).trim()
-                                
-                                val englishBookName = crossLanguageReverseMap[bookPart.lowercase()] ?: bookPart
-                                val mappedRef = "$englishBookName $chapterPart$verseNum"
-                                translatedVerse = BibleRepository.getVerseByBookChapterAndVerse(mappedRef, this@MainActivity)
+                withContext(Dispatchers.Main) {
+                    if (currentRef != null) {
+                        var translatedVerse = BibleRepository.getVerseByBookChapterAndVerse(currentRef, this@MainActivity)
+                        
+                        if (translatedVerse == null && currentVerseObj != null) {
+                            val cleanRef = currentVerseObj.reference.substringBefore(" (").trim()
+                            val colonIdx = cleanRef.lastIndexOf(':')
+                            if (colonIdx != -1) {
+                                val bookAndChapter = cleanRef.substring(0, colonIdx).trim()
+                                val verseNum = cleanRef.substring(colonIdx)
+                                val lastSpace = bookAndChapter.lastIndexOf(' ')
+                                if (lastSpace != -1) {
+                                    val bookPart = bookAndChapter.substring(0, lastSpace).trim()
+                                    val chapterPart = bookAndChapter.substring(lastSpace + 1).trim()
+                                    
+                                    val englishBookName = crossLanguageReverseMap[bookPart.lowercase()] ?: bookPart
+                                    val mappedRef = "$englishBookName $chapterPart$verseNum"
+                                    translatedVerse = BibleRepository.getVerseByBookChapterAndVerse(mappedRef, this@MainActivity)
+                                }
                             }
                         }
-                    }
 
-                    if (translatedVerse != null) {
-                        updateLanguageToggleUI(target)
-                        displayVerse(translatedVerse)
-                        configureTTSVoiceForCurrentLanguage()
-                        
-                        if (target == BibleTranslation.JPS || target == BibleTranslation.WNT) {
-                            showCenteredToast("${target.displayName}: ${target.fullTranslationName}")
+                        if (translatedVerse != null) {
+                            updateLanguageToggleUI(target)
+                            displayVerse(translatedVerse)
+                            configureTTSVoiceForCurrentLanguage()
+                            
+                            if (target == BibleTranslation.JPS || target == BibleTranslation.WNT) {
+                                showCenteredToast("${target.displayName}: ${target.fullTranslationName}")
+                            }
+                        } else {
+                            BibleRepository.setTranslation(this@MainActivity, previousTranslation)
+                            BibleRepository.loadVerses(this@MainActivity, previousTranslation, forceReload = true)
+                            updateLanguageToggleUI(previousTranslation)
+                            if (currentVerseObj != null) {
+                                displayVerse(currentVerseObj)
+                            } else {
+                                loadInitialVerse()
+                            }
+                            showCenteredToast("${target.displayName} (${target.fullTranslationName}) does not contain this verse.")
                         }
                     } else {
-                        BibleRepository.setTranslation(this@MainActivity, previousTranslation)
-                        BibleRepository.loadVerses(this@MainActivity, previousTranslation, forceReload = true)
-                        updateLanguageToggleUI(previousTranslation)
-                        if (currentVerseObj != null) {
-                            displayVerse(currentVerseObj)
-                        }
+                        updateLanguageToggleUI(target)
                         configureTTSVoiceForCurrentLanguage()
-                        showCenteredToast("${target.displayName} (${target.fullTranslationName}) does not contain this verse.")
+                        loadInitialVerse()
                     }
-                } else {
-                    updateLanguageToggleUI(target)
-                    configureTTSVoiceForCurrentLanguage()
+                }
+            } catch (e: Exception) {
+                withContext(Dispatchers.Main) {
                     loadInitialVerse()
                 }
+            } finally {
+                isSwitchingTranslation = false
             }
         }
     }
