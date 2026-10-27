@@ -16,10 +16,10 @@ class BiblicalAnimationBackgroundView @JvmOverloads constructor(
     private var accentColor: Int = Color.parseColor("#6E472C")
     private var isDarkTheme: Boolean = false
     
-    // Smooth breathing pulse animation for the meditative glow
+    // Smooth breathing pulse animation for the meditative wave glow
     private var pulseProgress = 0f
     private val animator: ValueAnimator = ValueAnimator.ofFloat(0f, 1f).apply {
-        duration = 5000 // Gentle 5-second meditative breathing cycle
+        duration = 4500 // Gentle, soothing 4.5-second breathing wave cycle
         repeatMode = ValueAnimator.REVERSE
         repeatCount = ValueAnimator.INFINITE
         interpolator = LinearInterpolator()
@@ -54,35 +54,49 @@ class BiblicalAnimationBackgroundView @JvmOverloads constructor(
         }
 
         // ==========================================
-        // 1. MEDITATIVE RADIAL GLOW AURA (Behind Cross)
+        // 1. BREATHING MEDITATIVE GLOW AURA (Wave Light)
         // ==========================================
-        val maxRadius = 320f + (pulseProgress * 50f)
+        // Pulsing radius and opacity for smooth fade-in/fade-out wave effect
+        val currentAuraRadius = 260f + (pulseProgress * 70f)
+        val maxAuraRadius = currentAuraRadius + 90f
+        
+        val baseAuraAlpha = if (isDarkTheme) {
+            (50 + (pulseProgress * 45)).toInt() // Rich glow for dark/night themes
+        } else {
+            (75 + (pulseProgress * 55)).toInt() // High visibility vibrant warm glow for Sepia/light theme
+        }
+
         val auraShader = RadialGradient(
-            centerX, centerY, maxRadius,
+            centerX, centerY, maxAuraRadius,
             intArrayOf(
-                Color.argb((if (isDarkTheme) 70 + (pulseProgress * 30) else 50 + (pulseProgress * 20)).toInt(), Color.red(accentColor), Color.green(accentColor), Color.blue(accentColor)),
-                Color.argb((if (isDarkTheme) 25 else 15), Color.red(accentColor), Color.green(accentColor), Color.blue(accentColor)),
+                Color.argb(baseAuraAlpha, Color.red(accentColor), Color.green(accentColor), Color.blue(accentColor)),
+                Color.argb((baseAuraAlpha * 0.35f).toInt(), Color.red(accentColor), Color.green(accentColor), Color.blue(accentColor)),
                 Color.TRANSPARENT
             ),
-            floatArrayOf(0.0f, 0.6f, 1.0f),
+            floatArrayOf(0.0f, 0.55f, 1.0f),
             Shader.TileMode.CLAMP
         )
         paint.shader = auraShader
-        canvas.drawCircle(centerX, centerY, maxRadius, paint)
+        canvas.drawCircle(centerX, centerY, maxAuraRadius, paint)
         paint.shader = null // Reset shader
 
         // ==========================================
-        // 2. RADIANT LIGHT RAYS
+        // 2. RADIANT LIGHT RAYS (Breathing Wave Effect)
         // ==========================================
-        val rayAlpha = if (isDarkTheme) 20 + (pulseProgress * 15).toInt() else 15 + (pulseProgress * 10).toInt()
+        val rayAlpha = if (isDarkTheme) {
+            (25 + (pulseProgress * 25)).toInt()
+        } else {
+            (40 + (pulseProgress * 30)).toInt() // Stronger visibility in Sepia mode
+        }
+        
         paint.style = Paint.Style.STROKE
-        paint.strokeWidth = 2f
+        paint.strokeWidth = 2.5f
         paint.color = accentColor
-        paint.alpha = rayAlpha
+        paint.alpha = rayAlpha.coerceIn(0, 255)
 
-        val rayCount = 12
-        val innerRadius = 50f
-        val outerRadius = 280f
+        val rayCount = 14
+        val innerRadius = 45f
+        val outerRadius = 270f
         for (i in 0 until rayCount) {
             val angle = (i * (360f / rayCount)) * (Math.PI / 180f)
             val startX = centerX + (innerRadius * kotlin.math.cos(angle)).toFloat()
@@ -93,18 +107,18 @@ class BiblicalAnimationBackgroundView @JvmOverloads constructor(
         }
 
         // ==========================================
-        // 3. PROFESSIONAL ELEGANT CROSS
+        // 3. SOLID, ELEGANT PROFESSIONAL CROSS
         // ==========================================
         val crossWidth = 130f
         val crossHeight = 260f
         val barThickness = 32f
 
-        // Soft drop shadow / depth layer
+        // Subtle professional depth shadow
         paint.style = Paint.Style.FILL
-        paint.color = if (isDarkTheme) Color.parseColor("#0A0A0A") else Color.parseColor("#2A180E")
-        paint.alpha = 180
+        paint.color = if (isDarkTheme) Color.parseColor("#0A0A0A") else Color.parseColor("#3A2216")
+        paint.alpha = if (isDarkTheme) 200 else 120
 
-        val shadowOffset = 3f
+        val shadowOffset = 3.5f
         val shadowVertRect = RectF(
             centerX - barThickness / 2f + shadowOffset,
             centerY - crossHeight / 2f + shadowOffset,
@@ -120,9 +134,9 @@ class BiblicalAnimationBackgroundView @JvmOverloads constructor(
         canvas.drawRoundRect(shadowVertRect, 8f, 8f, paint)
         canvas.drawRoundRect(shadowHorizRect, 8f, 8f, paint)
 
-        // Main Solid Cross Body
+        // Main Solid Cross Body (Opaque, clean, solid finish — no center hole)
         paint.color = accentColor
-        paint.alpha = 245 // Highly solid, professional finish
+        paint.alpha = 255
 
         val verticalRect = RectF(
             centerX - barThickness / 2f,
@@ -139,12 +153,6 @@ class BiblicalAnimationBackgroundView @JvmOverloads constructor(
 
         canvas.drawRoundRect(verticalRect, 8f, 8f, paint)
         canvas.drawRoundRect(horizontalRect, 8f, 8f, paint)
-
-        // Center Divine Light Highlight Spot
-        paint.color = Color.WHITE
-        paint.alpha = (120 + (pulseProgress * 80)).toInt().coerceIn(0, 255)
-        val centerGleam = RectF(centerX - 5f, centerY - crossHeight / 5f - 5f, centerX + 5f, centerY - crossHeight / 5f + 5f)
-        canvas.drawOval(centerGleam, paint)
     }
 
     override fun onDetachedFromWindow() {
