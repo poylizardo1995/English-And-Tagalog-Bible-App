@@ -136,6 +136,15 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
 
     /**
+     * Handles orientation and screen size changes smoothly without destroying the activity.
+     */
+    override fun onConfigurationChanged(newConfig: android.content.res.Configuration) {
+        super.onConfigurationChanged(newConfig)
+        // Re-apply theme and redraw background smoothly on rotation
+        applyTheme()
+    }
+
+    /**
      * Initializes activity layout views, restores theme preferences, sets up event listeners, 
      * handles notification intents (with translation syncing), and starts background workers.
      */
