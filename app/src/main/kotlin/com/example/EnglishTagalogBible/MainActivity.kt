@@ -911,19 +911,21 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             gravity = Gravity.CENTER
         }
 
-        val progressBar = ProgressBar(this).apply {
-            isIndeterminate = true
-            indeterminateTintList = ColorStateList.valueOf(primaryColor)
+        val progressBar = ProgressBar(this, null, android.R.attr.progressBarStyleHorizontal).apply {
+            isIndeterminate = false
+            max = 100
+            progress = 0
+            progressTintList = ColorStateList.valueOf(primaryColor)
             layoutParams = LinearLayout.LayoutParams(
-                LinearLayout.LayoutParams.WRAP_CONTENT,
+                LinearLayout.LayoutParams.MATCH_PARENT,
                 LinearLayout.LayoutParams.WRAP_CONTENT
             ).apply {
-                bottomMargin = 30
+                bottomMargin = 24
             }
         }
 
         val messageText = TextView(this).apply {
-            text = "Searching Bible for \"$query\"..."
+            text = "Searching Bible... (0%)"
             textSize = 14f
             setTextColor(textColor)
             gravity = Gravity.CENTER
@@ -947,7 +949,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             val lowercaseQuery = query.lowercase()
     
             val allBooks = BibleRepository.getAvailableBooks(this@MainActivity)
-            for (book in allBooks) {
+            val totalBooks = maxOf(allBooks.size, 1)
+
+            for ((index, book) in allBooks.withIndex()) {
                 val chapters = BibleRepository.getChaptersForBook(book, this@MainActivity)
                 for (chapter in chapters) {
                     val verses = BibleRepository.getVerseObjectsForChapter(chapter, this@MainActivity)
@@ -956,6 +960,12 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                             matchingVerses.add(verse)
                         }
                     }
+                }
+
+                val currentProgress = ((index + 1) * 100) / totalBooks
+                withContext(Dispatchers.Main) {
+                    progressBar.progress = currentProgress
+                    messageText.text = "Scanning books... ($currentProgress%)"
                 }
             }
     
