@@ -1900,8 +1900,8 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
      */
     private fun updateLanguageToggleUI(translation: BibleTranslation) {
         val isEnglishActive = translation.languageGroup == "English"
-        btnEnglish.text = if (isEnglishActive) translation.fullTranslationName.uppercase() + " ▾" else "ENGLISH ▾"
-        btnTagalog.text = if (!isEnglishActive) translation.fullTranslationName.uppercase() + " ▾" else "TAGALOG ▾"
+        btnEnglish.text = if (isEnglishActive) translation.displayName.uppercase() + " ▾" else "ENGLISH ▾"
+        btnTagalog.text = if (!isEnglishActive) translation.displayName.uppercase() + " ▾" else "TAGALOG ▾"
     
         val isDark = currentTheme != ThemeMode.SEPIA
         val cardAlphaColor = if (!isDark) {
