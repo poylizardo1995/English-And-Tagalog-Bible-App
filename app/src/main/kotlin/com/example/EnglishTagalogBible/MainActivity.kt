@@ -49,6 +49,7 @@ import kotlinx.coroutines.withContext
 
 class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
+    // UI View References
     private lateinit var tvVerseText: TextView
     private lateinit var tvVerseRef: TextView
     private lateinit var btnRefresh: Button
@@ -64,14 +65,17 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     private lateinit var btnAbout: MaterialButton
     private lateinit var verseCard: MaterialCardView
     
+    // Language Toggle Pill Buttons
     private lateinit var btnEnglish: TextView
     private lateinit var btnTagalog: TextView
   
+    // Text-to-Speech & State Variables
     private var tts: TextToSpeech? = null
     private var isTtsReady = false
     private var currentVerse: BibleVerse? = null
     private var isAutoPlaying = false
 
+    // App Visual Theme Modes
     private enum class ThemeMode(val fullTranslationName: String) {
         SEPIA("🟤 Classic Sepia"),
         CHARCOAL("⚫ Charcoal Contrast"),
@@ -81,6 +85,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
     private var currentTheme = ThemeMode.SEPIA
 
+    // Theme Configuration Holder Data Class
     private data class ThemeConfig(
         val statusBarColor: Int,
         val backgroundRes: Int?,
@@ -96,6 +101,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val dialogStrokeColor: Int
     )
 
+    // Auto-Play Navigation Scopes
     private enum class AutoPlayMode {
         CHAPTER, BOOK, ALL_BOOKS
     }
@@ -108,6 +114,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         private const val KEY_SAVED_THEME = "saved_theme_mode"
         private const val KEY_HAS_SEEN_WELCOME = "key_has_seen_welcome_v14"
         
+        // Maps localized Tagalog book names back to English canonical references for cross-translation mapping
         private val crossLanguageReverseMap = mapOf(
             "exodo" to "Exodus", "levitico" to "Leviticus", "mga bilang" to "Numbers",
             "deuteronomio" to "Deuteronomy", "josue" to "Joshua", "mga hukom" to "Judges",
@@ -126,6 +133,10 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         )
     }
 
+    /**
+     * Initializes activity layout views, restores theme preferences, sets up event listeners, 
+     * handles notification intents (with translation syncing), and starts background workers.
+     */
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
@@ -166,7 +177,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val incomingText = intent.getStringExtra("verse_text")
         val incomingRef = intent.getStringExtra("verse_ref")
 
-        // Apply theme immediately to avoid white flash
+        // Apply theme immediately on startup to prevent white flash
         applyTheme()
 
         lifecycleScope.launch(Dispatchers.IO) {
@@ -176,8 +187,23 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 BibleTranslation.KJV
             }
 
+            // Parse translation code from incoming notification reference (e.g., "John 3:16 (KJV)") to sync active translation state
+            var targetTranslation = savedTranslation
+            if (incomingRef != null) {
+                val parsedCode = incomingRef.substringAfterLast("(", "").substringBefore(")", "").trim()
+                if (parsedCode.isNotEmpty()) {
+                    val matchedEnum = BibleTranslation.values().find { 
+                        it.suffix.equals(parsedCode, ignoreCase = true) || it.name.equals(parsedCode, ignoreCase = true) 
+                    }
+                    if (matchedEnum != null) {
+                        targetTranslation = matchedEnum
+                    }
+                }
+            }
+
             try {
-                BibleRepository.loadVerses(this@MainActivity, savedTranslation)
+                BibleRepository.setTranslation(this@MainActivity, targetTranslation)
+                BibleRepository.loadVerses(this@MainActivity, targetTranslation, forceReload = true)
             } catch (e: Exception) {
                 BibleRepository.setTranslation(this@MainActivity, BibleTranslation.KJV)
                 BibleRepository.loadVerses(this@MainActivity, BibleTranslation.KJV, forceReload = true)
@@ -288,6 +314,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         showWelcomeIntroDialog()
     }
 
+    /**
+     * Displays a welcome and introduction dialog on first app launch.
+     */
     private fun showWelcomeIntroDialog() {
         val prefs = getSharedPreferences(PREFS_NAME, Context.MODE_PRIVATE)
         val hasSeenWelcome = prefs.getBoolean(KEY_HAS_SEEN_WELCOME, false)
@@ -327,10 +356,16 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         }
     }
 
+    /**
+     * Instantiates the TextToSpeech engine instance.
+     */
     private fun initTTS() {
         tts = TextToSpeech(this, this)
     }
 
+    /**
+     * Checks if the Text-to-Speech engine is ready and supports the active translation language locale.
+     */
     private fun checkAndPromptTTSAvailability(): Boolean {
         val ttsEngine = tts
         val isLanguageAvailable = try {
@@ -352,6 +387,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         return true
     }
 
+    /**
+     * Prompts the user if TTS is not configured or missing required voice data.
+     */
     private fun showTTSSettingsRequiredDialog() {
         val dialog = AlertDialog.Builder(this)
             .setTitle("Text-to-Speech Settings")
@@ -370,6 +408,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         }
     }
 
+    /**
+     * Schedules periodic background work for daily verse notifications using WorkManager.
+     */
     private fun scheduleDailyVerseNotification() {
         val prefs = getSharedPreferences(PREFS_NAME, Context.MODE_PRIVATE)
         val isPrefEnabled = prefs.getBoolean("key_notifications_enabled", true)
@@ -384,6 +425,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         workManager.enqueueUniquePeriodicWork("DailyVerseWork", ExistingPeriodicWorkPolicy.KEEP, dailyWorkRequest)
     }
 
+    /**
+     * Saves current active verse state across configuration changes (such as screen rotation).
+     */
     override fun onSaveInstanceState(outState: Bundle) {
         super.onSaveInstanceState(outState)
         currentVerse?.let {
@@ -392,6 +436,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         }
     }
 
+    /**
+     * Returns color and background configurations corresponding to the selected ThemeMode.
+     */
     private fun getThemeConfig(mode: ThemeMode): ThemeConfig {
         return when (mode) {
             ThemeMode.SEPIA -> ThemeConfig(
@@ -467,6 +514,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         }
     }
 
+    /**
+     * Configures speech rate, pitch, and language locale for Text-to-Speech playback.
+     */
     private fun configureTTSVoiceForCurrentLanguage() {
         val ttsEngine = tts ?: return
         if (!isTtsReady) return
@@ -490,6 +540,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         ttsEngine.setPitch(1.0f)
     }
     
+    /**
+     * Displays an introductory loading dialog before directing the user to system TTS settings.
+     */
     private fun openSystemTTSSettingsWithIntro() {
         val isDark = currentTheme != ThemeMode.SEPIA
         val primaryColor = if (isDark) Color.parseColor("#E8D5C4") else Color.parseColor("#6E472C")
@@ -540,6 +593,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         }, 1200)
     }
 
+    /**
+     * Attempts to open the Android system Text-to-Speech or accessibility settings screen.
+     */
     private fun openSystemTTSSettings() {
         val isTtsPackageInstalled = try {
             packageManager.getPackageInfo("com.google.android.tts", 0)
@@ -574,6 +630,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         }
     }
 
+    /**
+     * Displays the main settings dialog allowing theme changes, TTS settings, and notification toggles.
+     */
     private fun showSettingsDialog() {
         val isSystemNotificationEnabled = androidx.core.app.NotificationManagerCompat.from(this).areNotificationsEnabled()
         
@@ -622,6 +681,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         applyThemedDialogStyle(dialog)
     }
     
+    /**
+     * Displays a dialog to select and apply different visual reading themes.
+     */
     private fun showThemeSelectionDialog() {
         val themes = ThemeMode.values()
         val options = themes.map { it.fullTranslationName }.toTypedArray()
@@ -637,6 +699,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         applyThemedDialogStyle(dialog)
     }
 
+    /**
+     * Completely terminates and shuts down the application processes and audio tasks.
+     */
     private fun exitApp() {
         stopAutoPlay()
         tts?.stop()
@@ -646,6 +711,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         kotlin.system.exitProcess(0)
     }
 
+    /**
+     * Applies custom theme styling, background rounded rectangles, and fonts to dialog windows.
+     */
     private fun applyThemedDialogStyle(dialog: AlertDialog) {
         dialog.show()
         val config = getThemeConfig(currentTheme)
@@ -668,6 +736,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         }
     }
 
+    /**
+     * Creates a custom adapter ensuring all dialog list items are cleanly centered and styled.
+     */
     private fun createCenteredListAdapter(items: Array<String>): android.widget.ArrayAdapter<String> {
         val isDark = currentTheme != ThemeMode.SEPIA
         val textColor = if (isDark) Color.parseColor("#FFFFFF") else Color.parseColor("#2D241E")
@@ -711,6 +782,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         }
     }
 
+    /**
+     * Displays a dialog allowing the user to share the current verse as text or export as an image card.
+     */
     private fun showShareOptionsDialog() {
         val options = arrayOf("📝 Share as Text", "🖼️ Share as Image Card")
         val dialog = AlertDialog.Builder(this)
@@ -732,6 +806,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         applyThemedDialogStyle(dialog)
     }
 
+    /**
+     * Generates a high-resolution styled image card containing the verse text and shares it via system intents.
+     */
     private fun shareVerseAsImage(verseText: String, verseRef: String) {
         try {
             val width = 1080
@@ -815,6 +892,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         }
     }
 
+    /**
+     * Displays a dialog to choose the auto-play reading scope (Chapter, Book, or All Books).
+     */
     private fun showAutoPlayOptionsDialog() {
         val options = arrayOf("▶ Auto-Play Chapter", "▶ Auto-Play Book", "▶ Auto-Play All Books")
         val dialog = AlertDialog.Builder(this)
@@ -827,6 +907,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         applyThemedDialogStyle(dialog)
     }
 
+    /**
+     * Displays a search query input dialog with translation version filtering options.
+     */
     private fun showSearchQueryDialog() {
         val layout = android.widget.LinearLayout(this).apply {
             orientation = android.widget.LinearLayout.VERTICAL
@@ -900,6 +983,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         applyThemedDialogStyle(dialog)
     }
 
+    /**
+     * Performs an asynchronous keyword or reference search across the Bible database with real-time percentage progress.
+     */
     private fun performVerseSearch(query: String, targetTranslation: BibleTranslation) {
         val isDark = currentTheme != ThemeMode.SEPIA
         val primaryColor = if (isDark) Color.parseColor("#E8D5C4") else Color.parseColor("#6E472C")
@@ -983,6 +1069,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         }
     }
 
+    /**
+     * Displays search results inside a paginated, highlighted list dialog with quick selection.
+     */
     private fun showSearchResultsDialog(
         query: String,
         allResults: List<BibleVerse>,
@@ -1146,6 +1235,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         applyThemedDialogStyle(dialog)
     }
 
+    /**
+     * Displays a dialog allowing the user to delete/remove downloaded translation packages.
+     */
     private fun showRemoveTranslationsDialog(groupName: String) {
         val removableList = BibleTranslation.values()
             .filter { it.languageGroup == groupName && !it.isBuiltIn && it.isAvailable(this) }
@@ -1178,6 +1270,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         applyThemedDialogStyle(dialog)
     }
 
+    /**
+     * Displays the language selection and version management menu for English or Tagalog.
+     */
     private fun handleLanguageSelection(groupName: String) {
         val installedTranslations = BibleTranslation.values()
             .filter { it.languageGroup == groupName && it.isAvailable(this) }
@@ -1224,6 +1319,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         applyThemedDialogStyle(dialog)
     }
 
+    /**
+     * Displays a dialog showing downloadable public domain translation packages.
+     */
     private fun showDownloadableTranslationsDialog(groupName: String) {
         val downloadableList = BibleTranslation.values()
             .filter { it.languageGroup == groupName && !it.isAvailable(this) }
@@ -1261,6 +1359,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         applyThemedDialogStyle(dialog)
     }
 
+    /**
+     * Switches the active Bible translation version and maps the current verse to the new version.
+     */
     private fun switchToTranslation(target: BibleTranslation) {
         val currentVerseObj = currentVerse
         val currentRef = currentVerseObj?.reference?.substringBefore(" (")?.trim()
@@ -1319,6 +1420,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         }
     }
 
+    /**
+     * Displays information, credits, and version history about the application.
+     */
     private fun showAboutDialog() {
         val dialog = AlertDialog.Builder(this)
             .setMessage(
@@ -1360,6 +1464,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         }
     }
 
+    /**
+     * Displays a structured book selection dialog categorized by Old Testament, New Testament, and A-Z.
+     */
     private fun showBookSelectionDialog() {
         val allBooksAlphabetical = BibleRepository.getAllBooksAlphabetical(this).toTypedArray()
         val isTagalog = BibleRepository.currentTranslation.languageGroup == "Tagalog"
@@ -1474,6 +1581,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         applyThemedDialogStyle(categoryDialog)
     }
     
+    /**
+     * Displays a dialog to select a chapter within the chosen book.
+     */
     private fun showChapterSelectionDialog(bookName: String) {
         val chapters = (BibleRepository.getChaptersForBook(bookName, this) + "Close").toTypedArray()
         var dialog: AlertDialog? = null
@@ -1490,6 +1600,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         applyThemedDialogStyle(dialog)
     }
 
+    /**
+     * Displays a dialog to select a specific verse within the chosen chapter.
+     */
     private fun showVerseSelectionDialog(chapterName: String) {
         val chapterVerses = BibleRepository.getVerseObjectsForChapter(chapterName, this)
         val verseTitles = (chapterVerses.map { it.reference } + "Close").toTypedArray()
@@ -1507,6 +1620,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         applyThemedDialogStyle(dialog)
     }
     
+    /**
+     * Renders and animates the selected verse on the main reader UI card.
+     */
     private fun displayVerse(verse: BibleVerse) {
         currentVerse = verse
         tvVerseText.text = verse.text
@@ -1516,6 +1632,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         updateNavigationButtonLabels(verse)
     }
 
+    /**
+     * Updates previous and next button text labels based on whether the reader is at a verse, chapter, or book boundary.
+     */
     private fun updateNavigationButtonLabels(verse: BibleVerse) {
         val nextVerse = BibleRepository.getNextVerse(verse, this)
         val prevVerse = BibleRepository.getPreviousVerse(verse, this)
@@ -1555,6 +1674,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         }
     }
 
+    /**
+     * Extracts the clean book name string from a scripture reference.
+     */
     private fun extractBookNameFromRef(reference: String): String {
         val cleanRef = reference.substringBefore(" (").trim()
         val colonIndex = cleanRef.lastIndexOf(':')
@@ -1564,6 +1686,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         return if (lastSpaceIndex != -1) beforeColon.substring(0, lastSpaceIndex) else beforeColon
     }
 
+    /**
+     * Loads a default initial verse (John 3:16 or Juan 3:16) upon cold startup.
+     */
     private fun loadInitialVerse() {
         val defaultRef = if (BibleRepository.currentTranslation.languageGroup == "Tagalog") "Juan 3:16" else "John 3:16"
         val defaultVerse = BibleRepository.getVerseByBookChapterAndVerse(defaultRef, this)
@@ -1572,11 +1697,17 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         displayVerse(verseToDisplay)
     }
 
+    /**
+     * Fetches and displays a random scripture verse.
+     */
     private fun loadRandomVerse() {
         val verse = BibleRepository.getRandomVerse(this)
         displayVerse(verse)
     }
     
+    /**
+     * Initiates hands-free continuous audio auto-play.
+     */
     private fun startAutoPlay() {
         if (!checkAndPromptTTSAvailability()) {
             return
@@ -1591,6 +1722,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         showCenteredToast("Auto-Play Started")
     }
 
+    /**
+     * Sets up TextToSpeech utterance progress listeners to chain continuous verse audio playback.
+     */
     private fun setupTtsListener() {
         tts?.setOnUtteranceProgressListener(object : UtteranceProgressListener() {
             override fun onStart(utteranceId: String?) {}
@@ -1609,6 +1743,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         })
     }
 
+    /**
+     * Advances to and speaks the next verse during auto-play according to the selected AutoPlayMode.
+     */
     private fun playNextAutoPlayVerse() {
         val verse = currentVerse ?: return
 
@@ -1677,16 +1814,25 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         stopAutoPlay()
     }
 
+    /**
+     * Halts continuous auto-play audio.
+     */
     private fun stopAutoPlay() {
         isAutoPlaying = false
         btnAutoPlay.text = "▶ Auto-Play"
         tts?.stop()
     }
 
+    /**
+     * Displays a centered Toast notification message.
+     */
     private fun showCenteredToast(msg: String) {
         Toast.makeText(this, msg, Toast.LENGTH_SHORT).apply { setGravity(android.view.Gravity.CENTER, 0, 0); show() }
     }
 
+    /**
+     * Applies the current reading theme colors, status bar hues, and card backgrounds to the UI.
+     */
     private fun applyTheme() {
         val config = getThemeConfig(currentTheme)
         val rootLayout = findViewById<ViewGroup>(android.R.id.content).getChildAt(0) ?: window.decorView
@@ -1749,6 +1895,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         updateLanguageToggleUI(BibleRepository.currentTranslation)
     }
     
+    /**
+     * Updates the top language/version toggle pill buttons UI state.
+     */
     private fun updateLanguageToggleUI(translation: BibleTranslation) {
         val isEnglishActive = translation.languageGroup == "English"
         btnEnglish.text = if (isEnglishActive) translation.fullTranslationName.uppercase() + " ▾" else "ENGLISH ▾"
@@ -1798,6 +1947,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         }
     }
     
+    /**
+     * Prompts the user to install Google Text-to-Speech via the Play Store if missing.
+     */
     private fun promptInstallGoogleTTS() {
         try {
             val intent = Intent(Intent.ACTION_VIEW, android.net.Uri.parse("market://details?id=com.google.android.tts"))
@@ -1810,6 +1962,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         }
     }
 
+    /**
+     * Speaks the specified scripture verse aloud using Text-to-Speech.
+     */
     private fun speakVerse(verse: BibleVerse) {
         if (!checkAndPromptTTSAvailability()) return
         val ttsEngine = tts ?: return
@@ -1820,6 +1975,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         ttsEngine.speak("${verse.text}. Reference: ${verse.reference}", TextToSpeech.QUEUE_FLUSH, null, utteranceId)
     }
     
+    /**
+     * Callback when the TextToSpeech engine initialization finishes.
+     */
     override fun onInit(status: Int) {
         if (status == TextToSpeech.SUCCESS) {
             isTtsReady = true
@@ -1829,6 +1987,9 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         }
     }
     
+    /**
+     * Cleans up TextToSpeech resources when the activity is destroyed.
+     */
     override fun onDestroy() {
         tts?.stop()
         tts?.shutdown()
